@@ -1,5 +1,3 @@
-###DEC-090255-0-000-02-10-1984@@@
-
 Decreto nº 90.255, de 02 de outubro de 1984
 
 Renova as concessões outorgadas às entidades que menciona para explorarem serviço de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

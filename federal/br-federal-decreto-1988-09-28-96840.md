@@ -1,5 +1,3 @@
-###DEC-096840-0-000-28-09-1988@@@
-
 DECRETO Nº 96.840, DE 28 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada à RÁDIO UBERLIN DE FÁTIMA DO SUL LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Fátima do Sul, Estado do Mato Grosso do Sul.

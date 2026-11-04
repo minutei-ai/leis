@@ -2,8 +2,10 @@ LEI Nº 21.812, DE 14 DE MARÇO DE 2023
 
 Institui o Programa Goiás por Elas.
 
-\- [Vide Decreto nº 10.829](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111753), de 09-12-2025 - Prorroga a vigência do Programa Goiás Por Elas para o exercício de 2026.<br>
-\- [Vide Decreto nº 10.596](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110115), de 10-12-2024 - Prorroga a vigência do Programa Goiás Por Elas para o exercício de 2025.<br>
+\- [Vide Decreto nº 10.829](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111753), de 09-12-2025 - Prorroga a vigência do Programa Goiás Por Elas para o exercício de 2026.
+
+\- [Vide Decreto nº 10.596](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110115), de 10-12-2024 - Prorroga a vigência do Programa Goiás Por Elas para o exercício de 2025.
+
 \- [Vide Decreto nº 10.376](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108290/decreto-10376), de 27-12-2023 - Prorroga a vigência do Programa Goiás Por Elas para o exercício de 2024.
 
 A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), decreta e eu sanciono a seguinte Lei:
@@ -78,9 +80,12 @@ Art. 13. A Secretaria de Estado de Desenvolvimento Social – SEDS terá até 12
 
 Art. 14. Para o exercício de 2023, o Chefe do Poder Executivo fica autorizado a abrir à SEDS crédito especial no Orçamento-Geral do Estado, conforme está estabelecido no Anexo Único desta Lei, no valor de R$ 3.600.000,00 (três milhões e seiscentos mil reais), por se tratar de despesa não prevista e sem dotação orçamentária específica.
 
-Art. 15. A continuidade do _Programa Goiás por Elas_ será determinada anualmente por decreto do Chefe do Poder Executivo e estará condicionada à existência de dotação orçamentária e disponibilidade financeira.<br>
-\- [Vide Decreto nº 10.829](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111753), de 09-12-2025 - Prorroga a vigência do Programa Goiás Por Elas para o exercício de 2026.<br>
-\- [Vide Decreto nº 10.596](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110115), de 10-12-2024 - Prorroga a vigência do Programa Goiás Por Elas para o exercício de 2025.<br>
+Art. 15. A continuidade do _Programa Goiás por Elas_ será determinada anualmente por decreto do Chefe do Poder Executivo e estará condicionada à existência de dotação orçamentária e disponibilidade financeira.
+
+\- [Vide Decreto nº 10.829](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111753), de 09-12-2025 - Prorroga a vigência do Programa Goiás Por Elas para o exercício de 2026.
+
+\- [Vide Decreto nº 10.596](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110115), de 10-12-2024 - Prorroga a vigência do Programa Goiás Por Elas para o exercício de 2025.
+
 \- [Vide Decreto nº 10.376](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108290/decreto-10376), de 27-12-2023 - Prorroga a vigência do Programa Goiás Por Elas para o exercício de 2024.
 
 Art. 16. Esta Lei entra em vigor na data de sua publicação.

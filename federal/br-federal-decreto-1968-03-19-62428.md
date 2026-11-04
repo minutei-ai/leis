@@ -1,5 +1,3 @@
-###DEC-062428-0-000-19-03-1968@@@
-
 DECRETO Nº 62.428, DE 19 DE MARÇO DE 1968.
 
 Transfere da Emprêsa Fôrça e Luz de Candapolis S.A. para a Centrais Elétricas de Minas Gerais S.A. a concessão para distribuir energia elétrica no município de Canápolis, Estado de Minas Gerais, e dá outras providências.

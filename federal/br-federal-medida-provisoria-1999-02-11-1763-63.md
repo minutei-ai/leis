@@ -1,5 +1,3 @@
-###MPV-001763-0-063-11-02-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.763-63, DE 11 DE FEVEREIRO DE 1999.
 
 Dispõe sobre os títulos da dívida pública de responsabilidade do Tesouro Nacional, consolidando a legislação em vigor sobre a matéria.

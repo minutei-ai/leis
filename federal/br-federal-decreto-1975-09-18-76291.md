@@ -1,5 +1,3 @@
-###DEC-076291-0-000-18-09-1975@@@
-
 DECRETO Nº 76.291 - DE 18 DE SETEMBRO DE 1975
 
 Fixa o fator de reajustamento salarial relativo a setembro de 1975.

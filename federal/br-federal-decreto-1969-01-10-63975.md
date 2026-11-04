@@ -1,5 +1,3 @@
-###DEC-063975-0-000-10-01-1969@@@
-
 decreto nº 63.975, de 10 de janeiro de 1969.
 
 Cria o Comando de Fronteira do Solimões, transforma a 7ª Companhia de Fronteira em 1º Batalhão Especial de Fronteira e dá outras providências.

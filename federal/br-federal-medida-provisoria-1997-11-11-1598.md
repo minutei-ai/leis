@@ -1,7 +1,3 @@
-1
-
-###MPV-001598-0-000-11-11-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.598, DE 11 DE NOVEMBRO DE 1997
 
 Dispõe sobre exportação indireta e dá outras providências.

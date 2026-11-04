@@ -1,5 +1,3 @@
-###DEC-061721-0-000-22-11-1967@@@
-
 DECRETO Nº 61.721, DE 22 DE NOVEMBRO DE 1967.
 
 Autoriza a Companhia Paulista de Fôrça e Luz a construir linha de transmissão.

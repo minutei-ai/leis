@@ -1,5 +1,3 @@
-###DEC-046880-0-000-22-09-1959@@@
-
 DECRETO Nº 46.880, DE 22 DE SETEMBRO DE 1959.
 
 Outorga concessão à Sociedade Rádio Carijós Limitada para instalar uma estação radiodifusora.

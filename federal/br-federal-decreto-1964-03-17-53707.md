@@ -1,5 +1,3 @@
-###DEC-053707-0-000-17-03-1964@@@
-
 DECRETO Nº 53.707, DE 17 DE MARÇO DE 1964.
 
 Eleva-se à categoria de Embaixada a Representação diplomática do Brasil junto ao Govêrno da Islândia, com sede em Oslo.

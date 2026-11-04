@@ -1,5 +1,3 @@
-###DEC-049098-0-000-10-10-1960@@@
-
 DECRETO Nº 49.098, DE 10 DE outubro DE 1960.
 
 Concede à sociedade “Búfalo” Navegação Ltda, autorização para funcionar como emprêsa de navegação de cabotagem.

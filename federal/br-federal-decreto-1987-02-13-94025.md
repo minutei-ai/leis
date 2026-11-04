@@ -1,5 +1,3 @@
-###DEC-094025-0-000-13-02-1987@@@
-
 DECRETO Nº 94.025, DE 13 DE FEVEREIRO DE 1987.
 
 Fixa, para o exercício de 1987, o limite global de importações através da Zona Franca de Manaus e dá outras providências.

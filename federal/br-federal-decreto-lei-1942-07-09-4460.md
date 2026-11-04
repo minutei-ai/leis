@@ -1,5 +1,3 @@
-###DEL-004460-0-000-09-07-1942@@@
-
 DECRETO-LEI N. 4.460 – DE 9 DE JULHO DE 1942
 
 Autoriza a Estrada de Ferro Central do Brasil a contratar com as firmas Pulmann Standard Car Export Corporation e American Car and Foundry Export Company o fornecimento de 49 carros de aço

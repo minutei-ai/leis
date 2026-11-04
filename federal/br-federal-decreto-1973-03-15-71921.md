@@ -1,5 +1,3 @@
-###DEC-071921-0-000-15-03-1973@@@
-
 DECRETO Nº 71.921, DE 15 DE março DE 1973.
 
 Autoriza o funcionamento do curso de Letras da Faculdade "Tiradentes", mantida pelo Instituto Bandeirante de Educação e Cultura - SP.

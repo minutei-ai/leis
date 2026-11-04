@@ -1,5 +1,3 @@
-###DEL-006412-0-000-10-04-1944@@@
-
 DECRETO-LEI N. 6.412 – DE 10 DE ABRIL DE 1944
 
 Incorpora à Rêde de Viação Paraná-Santa Catarina a Estrada de Ferro São Paulo-Paraná e dá outras providências

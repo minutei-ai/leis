@@ -1,5 +1,3 @@
-###DEC-007387-0-000-09-12-2010-PUB-01@@@
-
 DECRETO Nº 7.387, DE 9 DE DEZEMBRO DE 2010.
 
 Institui o Inventário Nacional da Diversidade Linguística e dá outras providências.

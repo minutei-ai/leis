@@ -1,5 +1,3 @@
-###DEC-081387-0-000-22-02-1978@@@
-
 Decreto nº 81.387, de 22 de fevereiro de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Rosário, Estado do Maranhão.

@@ -1,5 +1,3 @@
-###DEC-094840-0-000-04-09-1987@@@
-
 DECRETO Nº 94.840, DE 4 DE SETEMBRO DE 1987.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda São João do Boqueirão", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de São Romão, no Estado de Minas Gerais, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.694, de 19 de maio de 1986, e dá outras providências.

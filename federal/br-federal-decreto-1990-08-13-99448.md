@@ -1,7 +1,3 @@
-1
-
-###DEC-099448-0-000-13-08-1990@@@
-
 DECRETO N° 99.448, DE 13 DE AGOSTO DE 1990
 
 Excepciona das disposições do Decreto n° 99.259, de 17 de maio de 1990, os sub­projetos que menciona.

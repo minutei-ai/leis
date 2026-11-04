@@ -1,14 +1,12 @@
-###DEC-036323-0-000-11-10-1954@@@
+**DECRETO Nº 36.323, DE 11 DE OUTUBRO DE 1954.**
 
-<strong>DECRETO Nº 36.323, DE 11 DE OUTUBRO DE 1954.</strong>
+***Altera o Quadro Especial do Corpo de Bombeiros do Distrito federal, criado pelo Decreto nº 26.510, de 25 de março de 1949.***
 
-<em><strong>Altera o Quadro Especial do Corpo de Bombeiros do Distrito federal, criado pelo Decreto nº 26.510, de 25 de março de 1949.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>.1º Fica alterado o art. 2º do Decreto nº 26.510, de 25 de março de 1949, para considerar integrantes do Quadro Especial (Q.E.) e a partir da data de sua criação, os seguintes oficiais:
+**Art**.1º Fica alterado o art. 2º do Decreto nº 26.510, de 25 de março de 1949, para considerar integrantes do Quadro Especial (Q.E.) e a partir da data de sua criação, os seguintes oficiais:
 
 Tenente-Coronel Edmundo Maciel Wenceslau.
 
@@ -42,10 +40,10 @@ Capitão Olegário Pedro dos Santos.
 
 2º Tenente Zacarias Fernandes.
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 11 de outubro de 1954; 133º da Independência e 66º República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Miguel Seabra Fagundes

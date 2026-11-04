@@ -1,5 +1,3 @@
-###DEC-049075-0-000-07-10-1960@@@
-
 DECRETO Nº 49.075, DE 7 DE OUTUBRO DE 1960.
 
 Autoriza a São Paulo Light S.A. - Serviços de Eletricidade a ampliar suas instalações.

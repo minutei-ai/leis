@@ -1,5 +1,3 @@
-###DEC-099542-0-000-21-09-1990@@@
-
 DECRETO N° 99.542, DE 21 DE SETEMBRO DE 1990
 
 Cria a Comissão Pró-Olimpíada 2000 com a finalidade de coordenar e supervisionar os trabalhos relativos à eleição da Cidade de Brasília, para sede dos Jogos Olímpicos do Ano 2000.

@@ -1,5 +1,3 @@
-###DEL-007472-0-000-17-04-1945@@@
-
 DECRETO-LEI Nº 7.472 - DE 17 DE ABRIL DE 1945
 
 Cria o Estabelecimento de Subsistência da 6ª Região Militar

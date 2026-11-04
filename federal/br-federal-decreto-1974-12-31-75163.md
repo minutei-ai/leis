@@ -1,5 +1,3 @@
-###DEC-075163-0-000-31-12-1974@@@
-
 DECRETO Nº 75.163, DE 31 DE DEZEMBRO DE 1974.
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Educação de Assis, Estado de São Paulo.
@@ -17,8 +15,6 @@ Brasília, 31 de dezembro de 1974; 153º da Independência e 86º da República.
 Ernesto Geisel
 
 Ney Braga
-
-###DEC-075163-0-000-31-12-1974@@@RET01+++
 
 DECRETO Nº 75.163, DE 31 DE DEZEMBRO DE 1974.
 

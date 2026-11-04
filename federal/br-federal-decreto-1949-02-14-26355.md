@@ -1,18 +1,16 @@
-###DEC-026355-0-000-14-02-1949@@@
+**DECRETO Nº 26.355, DE 14 DE FEVEREIRO DE 1949.**
 
-<strong>DECRETO Nº 26.355, DE 14 DE FEVEREIRO DE 1949.</strong>
+***Fixa vencimentos e salários dos dirigentes e servidores do Instituto do Açúcar e do Álcool e dá outra providências.***
 
-<em><strong>Fixa vencimentos e salários dos dirigentes e servidores do Instituto do Açúcar e do Álcool e dá outra providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do art. 33 da Lei nº 488, de 15 de novembro de 1948,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do art. 33 da Lei nº 488, de 15 de novembro de 1948,
+**DECRETA**
 
-<strong>DECRETA</strong>
+**Art**. 1º Os vencimentos e salários dos dirigentes e servidores do Instituto do Açúcar e do Álcool (IAA) obedecerão aos padrões, símbolos e referências constantes dos artigos 3º, 6º e 8º da Lei nº 488, de 15 de novembro de 1948.
 
-<strong>Art</strong>. 1º Os vencimentos e salários dos dirigentes e servidores do Instituto do Açúcar e do Álcool (IAA) obedecerão aos padrões, símbolos e referências constantes dos artigos 3º, 6º e 8º da Lei nº 488, de 15 de novembro de 1948.
+Parágrafo único. Não haverá no IAA cargo de provimento efetivo, isolado ou de carreira, de padrão superior a *O*
 
-Parágrafo único. Não haverá no IAA cargo de provimento efetivo, isolado ou de carreira, de padrão superior a <em>O</em>
-
-<strong>Art</strong>. 2º Os vencimentos dos dirigentes e ocupantes de cargos em comissão terão os seguintes símbolos e valores mensais;
+**Art**. 2º Os vencimentos dos dirigentes e ocupantes de cargos em comissão terão os seguintes símbolos e valores mensais;
 
 Cr$
 
@@ -90,7 +88,7 @@ Santo Amaro JC .................................................................
 
 Parágrafo único. Aos membros da Comissão Executiva será paga a gratificação mensal fixa Cr$2.000,00 (dois mil cruzeiros) e mais Cr$600,00 (seiscentos cruzeiros), por sessão a que comparecerem até o máximo de 8 de (oito) por mês.
 
-<strong>Art</strong>. 3º As funções gratificadas serão substituídas pelos seguintes símbolos e valores mensais: D
+**Art**. 3º As funções gratificadas serão substituídas pelos seguintes símbolos e valores mensais: D
 
 Cr$
 
@@ -130,16 +128,16 @@ FG 17 ..........................................................................
 
 FG 18......................................................................................................................................100,00
 
-<strong>Art</strong>. 4º Ficam abolidas, a partir de 1 de janeiro de 1949, as gratificações que vinham sendo concedidas, de um modo geral, aos servidores e dirigentes do Instituto, em determinadas épocas do ano.
+**Art**. 4º Ficam abolidas, a partir de 1 de janeiro de 1949, as gratificações que vinham sendo concedidas, de um modo geral, aos servidores e dirigentes do Instituto, em determinadas épocas do ano.
 
-<strong>Art</strong>. 5º Estendendo-se ao IAA a que refere êste Decreto, o disposto nos arts. 19 e 20 da citada Lei nº 488.
+**Art**. 5º Estendendo-se ao IAA a que refere êste Decreto, o disposto nos arts. 19 e 20 da citada Lei nº 488.
 
-<strong>Art</strong>. 6º Êste decreto entrará em vigor na data da sua publicação, considerando-se, porém, efetivados os novos valores de vencimentos e salários, a partir de 15 de novembro de 1948.
+**Art**. 6º Êste decreto entrará em vigor na data da sua publicação, considerando-se, porém, efetivados os novos valores de vencimentos e salários, a partir de 15 de novembro de 1948.
 
-<strong>Art</strong>. 7º Revogam-se as disposições em contrário.
+**Art**. 7º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 14 de fevereiro de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

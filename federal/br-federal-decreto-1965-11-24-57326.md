@@ -1,5 +1,3 @@
-###DEC-057326-0-000-24-11-1965@@@
-
 decreto Nº 57.326, de 24 de novembro de 1965.
 
 Autoriza a Knorr & Companhia Limitada a ampliar suas instalações hidroelétricas.

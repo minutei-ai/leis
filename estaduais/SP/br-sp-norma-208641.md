@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208641)<br>
-
 # LEI N° 17.795, DE 06 DE OUTUBRO DE 2023
 
 ## (Projeto de lei n° 552/2022, da Deputada Leci Brandão - PCdoB)

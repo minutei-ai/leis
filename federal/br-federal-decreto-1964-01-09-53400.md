@@ -1,5 +1,3 @@
-###DEC-053400-0-000-09-01-1964@@@
-
 DECRETO Nº 53.400, DE 9 DE JANEIRO DE 1964.
 
 Autoriza o cidadão brasileiro Sebastião de Castro Teixeira a comprar pedras preciosas.

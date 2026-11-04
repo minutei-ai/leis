@@ -1,5 +1,3 @@
-###DEC-053941-0-000-03-06-1964@@@
-
 DECRETO Nº 53.941, DE 3 DE JUNHO DE 1964.
 
 Revoga os Decretos nº 53.470, de 2 de janeiro de 1964 e 53.531, de 5 de fevereiro de 1964.

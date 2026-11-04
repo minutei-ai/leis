@@ -1,5 +1,3 @@
-###DEC-064120-0-000-14-02-1969@@@
-
 Decreto nº 64.120, de 14 de fevereiro de 1969.
 
 Dispõe sôbre a competência de órgãos do Ministério da Indústria e do Comércio, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-089489-0-000-29-03-1984@@@
-
 Decreto nº 89.489, de 29 março de 1984.
 
 Declara de ocupação dos silvícolas área de terras, no Município de Senador, José Porfírio, no Estado do Pará, e da outras providências.

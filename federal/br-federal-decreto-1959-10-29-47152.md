@@ -1,5 +1,3 @@
-###DEC-047152-0-000-29-10-1959@@@
-
 DECRETO Nº 47.152, DE 29 DE OUTUBRO DE 1959.
 
 Autoriza o cidadão brasileiro Jayme Duarte Guimarães a lavrar areia quartzosa no município de Tremembé, Estado de São Paulo.

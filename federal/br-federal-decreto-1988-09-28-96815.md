@@ -1,5 +1,3 @@
-###DEC-096815-0-000-28-09-1988@@@
-
 DECRETO N° 96.815, DE 28 DE SETEMBRO DE 1988
 
 Altera o Decreto n° 96.620, de 31 de agosto de 1988.

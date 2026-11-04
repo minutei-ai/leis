@@ -1,5 +1,3 @@
-###DEC-086678-0-000-01-12-1981@@@
-
 decreto nº 86.678, de 01 de dezembro de 1981
 
 Autoriza o aumento de potência da RÁDIO ESTADUAL LTDA., na cidade de Ibirama, Estado de Santa Catarina.

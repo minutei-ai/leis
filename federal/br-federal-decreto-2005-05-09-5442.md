@@ -1,5 +1,3 @@
-###DEC-005442-0-000-09-05-2005@@@
-
 DECRETO Nº 5.442, DE 9 DE MAIO DE 2005
 
 Reduz a zero as alíquotas da Contribuição para o PIS/PASEP e da COFINS incidentes sobre as receitas financeiras auferidas pelas pessoas jurídicas sujeitas à incidência não-cumulativa das referidas contribuições.

@@ -1,5 +1,3 @@
-###DEC-061760-0-000-23-11-1967@@@
-
 DECRETO Nº 61.760, DE 23 DE NOVEMBRO DE 1967.
 
 Autoriza a Esmeraldas de Conquista Ltda., a lavrar corindon no município de Vitória da Conquista, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-047920-0-000-12-03-1960@@@
-
 DECRETO Nº 47.920, DE 12 DE MARÇO DE 1960.
 
 Dispõe sôbre a ocupação temporária, pelo Govêrno Federal, da Estrada de Ferro Santa Catarina.

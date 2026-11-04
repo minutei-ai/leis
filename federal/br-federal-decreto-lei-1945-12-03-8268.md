@@ -1,5 +1,3 @@
-###DEL-008268-0-000-03-12-1945@@@
-
 DECRETO-LEI N. 8.268 – DE 3 DE DEZEMBRO DE 1945
 
 Revoga o Decreto-lei nº 3. 866, de 25 de junho de 1941

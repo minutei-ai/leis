@@ -1,5 +1,3 @@
-###DEL-001273-0-000-29-05-1973@@@
-
 # DECRETO-LEI Nº 1.273, DE 29 DE MAIO DE 1973
 
 Declara de interesse da Segurança Nacional, nos termos do artigo 15, § 1º, alínea b, da Constituição, o Município de Volta Redonda, do Estado do Rio de Janeiro, e dá outras providências.

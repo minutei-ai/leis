@@ -1,5 +1,3 @@
-###DEC-071455-0-000-01-12-1972@@@
-
 DECRETO Nº 71.455, DE 1 DE DEZEMBRO DE 1972.
 
 Abre ao Ministério dos Transportes, em favor da Secretaria-Geral - Entidades Supervisionadas, o crédito suplementar de Cr$ 7.271.000,00, para reforço de dotações consignadas no vigente Orçamento.
@@ -10,15 +8,77 @@ Decreta:
 
 Art. 1º Fica aberto ao Ministério dos Transportes, em favor da Secretaria-Geral - Entidades Supervisionadas, o crédito suplementar no valor de Cr$ 7.271.000,00 (sete milhões, duzentos e setenta e um mil cruzeiros), destinado a atender despesas com pessoal e encargos sociais, inclusive as relativas a exercícios anteriores, do subanexo 27.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Cr$1,00</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>27.00 - MINISTÉ</span><span>RIO DOS TRANSPORTES</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>27.03 - Secretaria-Geral - Entidades Supervisionadas</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>2703.0307.2007 - Atividades a Cargo de Departamento Nacional de Portos e Vias Nav</span><span>egá</span><span>veis</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>3.2.7.2 - Entidades Federais</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>04 - Inativos ......................................................................................................................1.033.600</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>06 - Salá</span><span>rio-Famí</span><span>lia .............................................................................................................114.700</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>2703.1608.2013 - Atividades a Cargo do Departamento Nacional de Portos e Vias Navegá</span><span>veis</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>3.2.7.2 - Entidades Federais</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>01 - Pessoal .</span><span>....................................................................................................................3.526.900</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>03 - Outros Custeios ........................................................................................................2.14</span><span>3.600</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>06 - Salá</span><span>rio-Famí</span><span>lia .............................................................................................................204.800</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>07 - Contribuiçõ</span><span>es de Previdê</span><span>ncia Social ...........................................................................</span><span style="text-decoration:underline">247.400</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>TOTAL ...............................................................................................................................</span><span style="text-decoration:underline">7.271.000</span></p></td></tr></tbody></table>
+Cr$1,00
+
+27.00 - MINISTÉRIO DOS TRANSPORTES
+
+27.03 - Secretaria-Geral - Entidades Supervisionadas
+
+2703.0307.2007 - Atividades a Cargo de Departamento Nacional de Portos e Vias Navegáveis
+
+3.2.7.2 - Entidades Federais
+
+04 - Inativos ......................................................................................................................1.033.600
+
+06 - Salário-Família .............................................................................................................114.700
+
+2703.1608.2013 - Atividades a Cargo do Departamento Nacional de Portos e Vias Navegáveis
+
+3.2.7.2 - Entidades Federais
+
+01 - Pessoal .....................................................................................................................3.526.900
+
+03 - Outros Custeios ........................................................................................................2.143.600
+
+06 - Salário-Família .............................................................................................................204.800
+
+07 - Contribuições de Previdência Social ...........................................................................247.400
+
+TOTAL ...............................................................................................................................7.271.000
 
 Art. 2º Os recursos necessários à execução deste Decreto decorrerão de anulação parcial de dotações orçamentárias consignadas no vigente Orçamento ao subanexo 27.00 e 28.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Cr$1,00</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>27.00 - MINISTÉ</span><span>RIO DOS TRANSPORTES</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>27.03 - Secretaria-Geral - Entidades Supervisionadas</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Atividade - 2703.1608.2013</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>3.2.7.2 - Entidades Federais</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>02 - Serviç</span><span>os de Terceiros - Remuneraçã</span><span>o de Serviç</span><span>os Pessoais ....................................158.000</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>28.00 - ENCARGOS GERAIS DA UNIÃ</span><span>O</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>28.02 - Recursos sob Supervisã</span><span>o do Ministé</span><span>rio do Planejamento e Coordenaçã</span><span>o Geral</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Atividade - 2802.1800.2003</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>3.2.6.0 - Reser</span><span>va de Contingê</span><span>ncia ...................................................................................</span><span style="text-decoration:underline">7.113.000</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>TOTAL ...............................................................................................................................</span><span style="text-decoration:underline">7.271.000</span></p></td></tr></tbody></table>
+Cr$1,00
+
+27.00 - MINISTÉRIO DOS TRANSPORTES
+
+27.03 - Secretaria-Geral - Entidades Supervisionadas
+
+Atividade - 2703.1608.2013
+
+3.2.7.2 - Entidades Federais
+
+02 - Serviços de Terceiros - Remuneração de Serviços Pessoais ....................................158.000
+
+28.00 - ENCARGOS GERAIS DA UNIÃO
+
+28.02 - Recursos sob Supervisão do Ministério do Planejamento e Coordenação Geral
+
+Atividade - 2802.1800.2003
+
+3.2.6.0 - Reserva de Contingência ...................................................................................7.113.000
+
+TOTAL ...............................................................................................................................7.271.000
 
 Art. 3º O presente crédito, no Orçamento Próprio do Departamento Nacional de Portos e Vias Navegáveis obedecerá à seguinte programação
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>Cr$1,00</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>67.00 - MINISTÉ</span><span>RIO DOS TRANSPORTES - Entidades Supervisionadas</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>67.05 - Departamento Nacional de Portos e Vias Navegá</span><span>veis</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-style:italic">a) Suplementando</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>6705.0307.2001 - Pagamento de Inativos .......................................................................1.148.300</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>6705.1608.2002 - Coordenaçã</span><span>o e Execuçã</span><span>o dos Serviç</span><span>os de Portos e Vias Navegá</span><span>veis ...........................................................................................................................................</span><span style="text-decoration:underline">6.122.700</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>...........................................................................................................................................</span><span style="text-decoration:underline">7.271.000</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-style:italic">b) Cancelamento</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span>6705.1608.2003 - Coordenaçã</span><span>o e Execuçã</span><span>o dos Serviç</span><span>os de Portos e Vias Navegá</span><span>veis ...................................................................................</span><span>...........................................................158.000</span></p></td></tr></tbody></table>
+Cr$1,00
+
+67.00 - MINISTÉRIO DOS TRANSPORTES - Entidades Supervisionadas
+
+67.05 - Departamento Nacional de Portos e Vias Navegáveis
+
+a) Suplementando
+
+6705.0307.2001 - Pagamento de Inativos .......................................................................1.148.300
+
+6705.1608.2002 - Coordenação e Execução dos Serviços de Portos e Vias Navegáveis ...........................................................................................................................................6.122.700
+
+...........................................................................................................................................7.271.000
+
+b) Cancelamento
+
+6705.1608.2003 - Coordenação e Execução dos Serviços de Portos e Vias Navegáveis ..............................................................................................................................................158.000
 
 Art. 4º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

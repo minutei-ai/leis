@@ -1,5 +1,3 @@
-###DEC-051392-0-000-11-01-1962@@@
-
 DECRETO Nº 51.392, DE 11 DE JANEIRO de 1962.
 
 Inclui artigos no Decreto nº 51.372, de 15 de dezembro de 1961 e dá outras providências.

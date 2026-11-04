@@ -1,5 +1,3 @@
-###DEC-083547-0-000-04-06-1979@@@
-
 Decreto nº 83.547, de 04 de junho de 1979.
 
 Cria a Embaixada do Brasil na República de Gâmbia.

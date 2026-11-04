@@ -1,5 +1,3 @@
-###DEC-046624-0-000-14-08-1959@@@
-
 DECRETO Nº 46.624, DE 14 DE AGÔSTO DE 1959.
 
 Transfere da Prefeitura Municipal de Lagoa Vermelha para a Comissão Estadual de Energia Elétrica a concessão para a produção e fornecimento de energia elétrica ao município de Lagoa Vermelha, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-084665-0-000-28-04-1980@@@
-
 Decreto nº 84.665, de 28 de abril de 1980.
 
 Concede à Caraíba Metais S/A Indústria e Comércio autorização para proceder a aumento do seu capital social.

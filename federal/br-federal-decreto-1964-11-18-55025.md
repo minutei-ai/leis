@@ -1,5 +1,3 @@
-###DEC-055025-0-000-18-11-1964@@@
-
 DECRETO Nº 55.025, DE 18 DE NOVEMBRO DE 1964.
 
 Autoriza Cerâmica Togni Limitada a pesquisar argila no município de Vargem Grande do Sul, Estado de São Paulo.

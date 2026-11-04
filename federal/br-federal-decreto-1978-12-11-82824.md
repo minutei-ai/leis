@@ -1,5 +1,3 @@
-###DEC-082824-0-000-11-12-1978@@@
-
 Decreto nº 82 824 de 11 de dezembro de 1978.
 
 Concede reconhecimento aos cursos de Ciências e de Letras da Faculdade de Ciências e Letras de Apucarana, Estado do Paraná.

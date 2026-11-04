@@ -1,5 +1,3 @@
-###DEC-083206-0-000-28-02-1979@@@
-
 DECRETO Nº 83.206, DE 28 DE FEVEREIRO DE 1979
 
 Retifica a autorização da lavra conferida ao cidadão brasileiro Victor Belfort Arantes Filho pelo Decreto nº 53.677, de 11 de março de 1964.

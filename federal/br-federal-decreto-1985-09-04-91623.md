@@ -1,5 +1,3 @@
-###DEC-091623-0-000-04-09-1985@@@
-
 Decreto nº 91.623, de 04 de setembro de 1985
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Derrubada", compreendido na referida área, no Município de Ponte Serrada, no Estado de Santa Catarina.

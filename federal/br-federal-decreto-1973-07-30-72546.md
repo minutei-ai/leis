@@ -1,5 +1,3 @@
-###DEC-072546-0-000-30-07-1973@@@
-
 decreto nº 72.546, de 30 de julho de 1973.
 
 Encampa os bens e instalações que constituem a usina termelétrica de São Jerônimo, de propriedade da Companhia Estadual de Energia Elétrica - CEEE.

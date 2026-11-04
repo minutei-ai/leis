@@ -1,5 +1,3 @@
-###DEC-077364-0-000-01-04-1976@@@
-
 DECRETO Nº 77.364 - DE 1º DE ABRIL DE 1976
 
 Concede reconhecimento à Faculdade de Ciências Econômicas e Administrativas de Osasco, com sede na cidade de Osasco, Estado de São Paulo.

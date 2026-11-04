@@ -1,5 +1,3 @@
-###DEC-000602-0-000-14-07-1992@@@
-
 DECRETO N° 602, DE 14 DE JULHO DE 1992
 
 Dispõe sobre a execução da Ata de Retificação do Sétimo Protocolo Adicional ao Acordo de Complementação Econômica n° 14, entre Brasil e Argentina.

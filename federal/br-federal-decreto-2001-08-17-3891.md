@@ -1,5 +1,3 @@
-###DEC-003891-0-000-17-08-2001@@@
-
 DECRETO Nº 3.891, DE 17 DE AGOSTO DE 2001
 
 Fixa o valor absoluto do limite global das deduções do Imposto sobre a Renda devido, relativas a doações e a patrocínios em favor de projetos culturais e a incentivos à atividade audiovisual.

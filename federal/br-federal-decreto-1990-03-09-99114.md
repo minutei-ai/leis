@@ -1,7 +1,3 @@
-1
-
-###DEC-099114-0-000-09-03-1990@@@
-
 # DECRETO Nº 99.114 DE 9 DE MARÇO DE 1990
 
 Outorga concessão à Global Comunica­ção Ltda., para explorar serviço de radio­difusão sonora em onda média, na Cidade de Itaobim, Estado de Minas Gerais.

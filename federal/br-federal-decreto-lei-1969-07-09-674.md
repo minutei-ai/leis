@@ -1,5 +1,3 @@
-###DEL-000674-0-000-09-07-1969@@@
-
 DECRETO-LEI Nº 674, DE 9 DE JULHO DE 1969
 
 Aprova a reforma do ex-soldado Geraldo Thiago Ribeiro, cujo registro foi negado pelo Tribunal de Contas da União.

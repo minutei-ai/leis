@@ -1,5 +1,3 @@
-###DEC-079500-0-000-13-04-1977@@@
-
 Decreto nº 79.500, de 13 de abril de 1977.
 
 Concede a Benedito Antunes da Rosa, Firma Individual, o direito de lavrar dolomito no Município de Pereiras, Estado de São Paulo.

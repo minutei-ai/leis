@@ -1,5 +1,3 @@
-###DEC-003061-0-000-14-05-1999@@@
-
 DECRETO Nº 3.061, DE 14 DE MAIO DE 1999.
 
 Dispõe sobre o transporte aéreo, no País, de autoridades em aeronaves do Ministério da Aeronáutica.

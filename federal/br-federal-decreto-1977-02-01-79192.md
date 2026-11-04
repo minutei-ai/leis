@@ -1,5 +1,3 @@
-###DEC-079192-0-000-01-02-1977@@@
-
 Decreto nº 79.192, de 1º de fevereiro de 1977.
 
 Altera o Regulamento da Escola Superior de Guerra, aprovado pelo Decreto nº 72.699, de 27 de agosto de 1973.

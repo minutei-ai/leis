@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210936)<br>
-
 # DECRETO N° 69.535, DE 14 DE MAIO DE 2025
 
 ### _Oficializa, sem ônus para os cofres públicos, a "Medalha Batalha de Montese", instituída pelo Instituto Histórico Militar - IHM, e dá providências correlatas._
@@ -18,7 +16,8 @@ Arthur Luis Pinho de Lima
 
 Regulamento da condecoração
 
-#### Capítulo I<br>
+#### Capítulo I
+
 Da honraria
 
 **Artigo 1° -** A Medalha "Batalha de Montese" tem por objetivo agraciar personalidades civis e militares que tenham prestado relevantes serviços em prol das causas defendidas pelo Instituto Histórico Militar, ou que, por meio de suas ações, enalteçam o espírito da Força Expedicionária Brasileira (FEB), ou que, de algum modo, tenham prestado relevantes serviços à sociedade brasileira em geral, ao Estado e ao Povo de São Paulo, em particular.
@@ -47,7 +46,8 @@ a) Anverso: nome da honraria; nome completo do(a) agraciado(a); nome da institui
 
 b) Verso: dados de registro do diploma na Instituição (Livro e Página/Sequência); chancela de registro do diploma junto ao Conselho Estadual da Ordem do Ipiranga (Conselho Estadual de Honrarias e Mérito).
 
-#### Capítulo II<br>
+#### Capítulo II
+
 Da Fonte de Honra
 
 **Artigo 3° -** O Instituto Histórico Militar, por meio de sua Diretoria, é detentor da Fonte de Honra (Fons Honorum) para a concessão da Medalha "Batalha de Montese", com base na legitimidade histórica, institucional e cultural que sustenta sua missão.
@@ -70,10 +70,12 @@ Da Fonte de Honra
 
 **§ 4° -** Toda outorga de Medalha será emitida sob a autoridade da Fonte de Honra, através de ato assinado pelo Diretor-Geral e chancelada conforme este decreto.
 
-#### Capítulo III<br>
+#### Capítulo III
+
 Da Chancelaria de Honrarias e do Conselho de Outorgas
 
-#### Seção I<br>
+#### Seção I
+
 Da Chancelaria de Honrarias
 
 **Artigo 4° -** A Chancelaria de Honrarias, órgão técnico-administrativo é responsável por:
@@ -100,7 +102,8 @@ III - Assistente designado pelo Diretor-Geral do Instituto Histórico Militar.
 
 **§ 2° -** O Presidente do Conselho Estadual da Ordem do Ipiranga é o guardião da fonte de honra no Estado de São Paulo.
 
-#### Seção II<br>
+#### Seção II
+
 Do Conselho de Outorgas
 
 **Artigo 6° -** O Conselho de Outorgas é o órgão colegiado responsável pela análise de mérito das indicações e pela aprovação da concessão da Medalha.
@@ -177,7 +180,8 @@ V - por 1 (um) membro honorário convidado, com notório saber ou atuação na �
 
 **Artigo 17 -** Perderá o direito ao uso da condecoração, bem como a ela não fará jus, aquele que tenha sido condenado à pena privativa de liberdade ou praticado qualquer ato contrário à dignidade ou ao espírito da honraria.
 
-#### Capítulo IV<br>
+#### Capítulo IV
+
 Das disposições finais
 
 **Artigo 18 -** É vedada a comercialização da honraria, sob pena de revogação do decreto de oficialização.

@@ -1,5 +1,3 @@
-###DEC-094814-0-000-01-09-1987@@@
-
 DECRETO N° 94.814, DE 1° DE SETEMBRO DE 1987
 
 Fixa prazos para apresentação e aprovação das propostas de orçamento das empresas estatais para 1988.

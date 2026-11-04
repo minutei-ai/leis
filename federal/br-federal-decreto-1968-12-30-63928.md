@@ -1,17 +1,15 @@
-###DEC-063928-0-000-30-12-1968@@@
+**DECRETO Nº 63.928, DE 30 DE DEZEMBRO DE 1968.**
 
-<strong>DECRETO Nº 63.928, DE 30 DE DEZEMBRO DE 1968.</strong>
+***Declara de utilidade pública, o “Instituto Irmã Teresa Valsé Pantellini” com sede em Uberlândia, Estado de Minas Gerais.***
 
-<em><strong>Declara de utilidade pública, o “Instituto Irmã Teresa Valsé Pantellini” com sede em Uberlândia, Estado de Minas Gerais.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 83, item II, da Constituição e atendendo ao que consta do processo M.J. 8.605, de 1967,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 83, item II, da Constituição e atendendo ao que consta do processo M.J. 8.605, de 1967,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. É declarado de utilidade pública, nos têrmos do artigo 1º da Lei nº 91, de 28 de agôsto de 1935, combinado com o artigo 1º do Regulamento aprovado pelo Decreto nº 50.517, de 2 de maio de 1961, o “Instituto Irmã Teresa Valse Pantellini”, com sede em Uberlândia, Estado de Minas Gerais.
 
 Brasília, 30 de dezembro de 1968; 147º da Independência e 80º da República.
 
-<strong>A COSTA E SILVA</strong>
+**A COSTA E SILVA**
 
 Luis Antonio da Gama e Silva

@@ -1,5 +1,3 @@
-###DEC-069917-0-000-11-01-1972@@@
-
 DECRETO Nº 69.917, DE 11 DE JANEIRO DE 1972.
 
 Fixa no Ministério da Aeronáutica as proporções que determinam o número de vagas, que servirão de base para o cálculo de aplicação da cota compulsória, referente ao ano de 1971.

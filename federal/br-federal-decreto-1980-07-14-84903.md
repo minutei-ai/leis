@@ -1,5 +1,3 @@
-###DEC-084903-0-000-14-07-1980@@@
-
 DECRETO nº 84.903, de 14 de julho de 1980.
 
 Altera o Decreto nº 77.092, de 28 de janeiro de 1976, que dispõe sobre a estrutura básica da Comissão de Financiamento da Produção.

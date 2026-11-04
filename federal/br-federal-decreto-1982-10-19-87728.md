@@ -1,5 +1,3 @@
-###DEC-087728-0-000-19-10-1982@@@
-
 Decreto nº 87.728, de 19 de outubro de 1982
 
 Revoga o Decreto nº 41.668, de 22 de junho de 1957, que concedeu à empresa MEAD JOHNSON & COMPANY, autorização para funcionar na República Federativa do Brasil, com a denominação de MEAD JOHNSON & COMPANY DO BRASIL.

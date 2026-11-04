@@ -1,5 +1,3 @@
-###DEC-060323-0-000-08-03-1967@@@
-
 DECRETO Nº 60.323, de 8 de março de 1967.
 
 Abre o crédito especial de NCr$40.000.000,00 (quarenta milhões de cruzeiros novos), ao Ministério das Minas e Energia, para o fim que especifica.

@@ -1,5 +1,3 @@
-###DEC-055194-0-000-10-12-1964@@@
-
 DECRETO Nº 55.194, DE 10 DE DEZEMBRO DE 1964.
 
 Aprova Regulamento do Serviço Nacional de Informações.

@@ -1,5 +1,3 @@
-###DEC-006584-0-000-29-09-2008@@@
-
 DECRETO Nº 6.584, DE 29 DE SETEMBRO DE 2008.
 
 Promulga o Protocolo Modificativo ao Acordo Ortográfico da Língua Portuguesa, assinado em Praia, em 17 de julho de 1998.

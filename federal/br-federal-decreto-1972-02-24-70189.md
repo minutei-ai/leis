@@ -1,5 +1,3 @@
-###DEC-070189-0-000-24-02-1972@@@
-
 DECRETO nº 70.189, DE 24 DE FEVEREIRO DE 1972.
 
 Concede reconhecimento da Faculdade de Engenharia "Armando Alvares Penteado" - S. Paulo - SP.

@@ -1,5 +1,3 @@
-###DEC-081056-0-000-19-12-1977@@@
-
 Decreto nº 81.056, de 19 de dezembro de 1977.
 
 Concede à Itapessoca Agro - Industrial S.A. o direito de lavrar calcário no Município de Goiânia, Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-004304-0-000-16-07-2002@@@
-
 DECRETO Nº 4.304, DE 16 DE JULHO DE 2002
 
 Altera dispositivos do Decreto nº 3.591, de 6 de setembro de 2000, que dispõe sobre o sistema de Controle Interno do Poder Executivo Federal e dá outras providências

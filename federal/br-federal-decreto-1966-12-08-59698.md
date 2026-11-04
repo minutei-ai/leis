@@ -1,5 +1,3 @@
-###DEC-059698-0-000-08-12-1966@@@
-
 Decreto nº 59.698, de 8 de dezembro de 1966.
 
 Altera o Regulamento do Fundo Nacional de Telecomunicações, aprovado pelo Decreto nº 53.352, de 26 de dezembro de 1963.

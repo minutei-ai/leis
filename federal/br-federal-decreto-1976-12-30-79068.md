@@ -1,5 +1,3 @@
-###DEC-079068-0-000-30-12-1976@@@
-
 DECRETO Nº 79.068, DE 30 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Artes Práticas da Faculdade de Educação e Ciências Humanas "Prof. Laerte de Carvalho", com sede na cidade de Santos, Estado de São Paulo.

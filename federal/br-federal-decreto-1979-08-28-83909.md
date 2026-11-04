@@ -1,5 +1,3 @@
-###DEC-083909-0-000-28-08-1979@@@
-
 Decreto nº 83.909, de 28 de agosto de 1979.
 
 Autoriza o funcionamento do curso de Enfermagem e Obstetrícia da Faculdade de Enfermagem e Obstetrícia de Guarulhos, São Paulo.

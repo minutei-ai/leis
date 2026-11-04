@@ -1,5 +1,3 @@
-###DEC-099739-0-000-27-11-1990@@@
-
 DECRETO N° 99.739, DE 27 DE NOVEMBRO DE 1990
 
 Dispõe sobre a execução do Sexto Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Concessões Outorgadas no Período 1962/1980, entre o Brasil e a Bolívia (Acordo n° 8).

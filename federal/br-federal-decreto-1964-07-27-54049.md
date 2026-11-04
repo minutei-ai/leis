@@ -1,5 +1,3 @@
-###DEC-054049-0-000-27-07-1964@@@
-
 DECRETO Nº 54.049, DE 27 DE JULHO DE 1964.
 
 Torna insubsistente o Decreto que declarou de utilidade pública, para fins de desapropriação, o imóvel em Fortaleza, Estado do Ceará.

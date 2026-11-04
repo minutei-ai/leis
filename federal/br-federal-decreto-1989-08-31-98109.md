@@ -1,5 +1,3 @@
-###DEC-098109-0-000-31-08-1989@@@
-
 DECRETO Nº 98.109, DE 31 DE AGOSTO DE 1989
 
 Altera o Decreto n° 88.361, de 1° de junho de 1983, artigo 6°, incisos, que dispõem sobre a composição do plenário do Conselho Nacional do Meio Ambiente - CONAMA.

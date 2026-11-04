@@ -1,5 +1,3 @@
-###DEC-067991-0-000-30-12-1970@@@
-
 DECRETO Nº 67.991, de 30 de Dezembro de 1970.
 
 Regulamenta o artigo 5º do Decreto-lei nº 836, de 8 de setembro de 1969, e dá outras providências.

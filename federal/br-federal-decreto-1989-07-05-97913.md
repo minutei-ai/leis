@@ -1,7 +1,3 @@
-1
-
-###DEC-097913-0-000-05-07-1989@@@
-
 DECRETO N.° 97.913, DE 5 DE JULHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, os imóveis rurais denominados “LOTES” 22 e 26 do Projeto Terra Nova, classificado como latifúndio por exploração, situados no Município de Terra Nova do Norte, Estado de Mato Grosso, compreendido na zona prioritária fixada pelo Decreto n° 92.620, de 2 de maio de 1986, e dá outras providências.

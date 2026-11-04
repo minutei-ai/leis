@@ -1,5 +1,3 @@
-###DEC-059324-0-000-29-09-1966@@@
-
 DECRETO Nº 59.324, DE 29 DE SETEMBRO DE 1966
 
 Autoriza o cidadão brasileiro José Fracncioni de Freitas a pesquisar diatomita nu Município de Imbituba, Estado de Santa Catarina.

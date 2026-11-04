@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=50999)
-
 # LEI Nº 11.716, DE 24 DE MAIO DE 2004
 
 ## (PL 744/2003 - Edson Gomes)

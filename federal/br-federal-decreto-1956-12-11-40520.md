@@ -1,14 +1,12 @@
-###DEC-040520-0-000-11-12-1956@@@
+**DECRETO Nº 40.520, DE 11 DE DEZEMBRO DE 1956**
 
-<strong>DECRETO Nº 40.520, DE 11 DE DEZEMBRO DE 1956</strong>
+***Suprime cargos provisórios***
 
-<em><strong>Suprime cargos provisórios</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, Item I, da Constituição e, nos têrmos do art. 1.º ,alínea n, do Decreto-lei n.º3.195, de 14 de abril de 1941*,*
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, Item I, da Constituição e, nos têrmos do art. 1.º ,alínea n, do Decreto-lei n.º3.195, de 14 de abril de 1941<em>,</em>
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1.º. Ficam suprimidos no Quadro Permanente do Ministério do Trabalho, Indústria e Comércio:
+**Art**. 1.º. Ficam suprimidos no Quadro Permanente do Ministério do Trabalho, Indústria e Comércio:
 
 6 cargos da classe E da carreira de Dactiloscopista-Auxiliar, vagos em virtude da promoção de Antônio Clementino Sobrinho, Atila Ramos, Carlos Leão dos Santos, Delson Lins Pitanga, Jaziel Lagos Ramos e Otávio Argentim.
 
@@ -20,10 +18,10 @@
 
 3 cargos da classe H da carreira de Oficial Administrativo, vagos em virtude da promoção de Carlita Menezes Damazio, Elizabeth Barcelos Melino e Genesi Vieira Ribeiro, devendo a dotação correspondente ser levada a crédito da Conta Corrente do mesmo Quadro referido Ministério.
 
-<strong>Art</strong>. 2.º Revogam-se as disposições em contrário.
+**Art**. 2.º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 11 de dezembro de 1956, 135º da Independência e 68ºda República.
 
-<strong>JUSCELINO KUBITSCHEK.</strong>
+**JUSCELINO KUBITSCHEK.**
 
 Parfisal Barroso.

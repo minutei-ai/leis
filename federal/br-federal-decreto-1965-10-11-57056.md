@@ -1,5 +1,3 @@
-###DEC-057056-0-000-11-10-1965@@@
-
 DECRETO Nº 57.056, DE 11 DE OUTUBRO DE 1965.
 
 Autoriza o cidadão brasileiro Marivaldo Fernandes a lavrar areia quartzosa no município de Iguape, Estado de São Paulo.

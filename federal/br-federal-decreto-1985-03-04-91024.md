@@ -1,5 +1,3 @@
-###DEC-091024-0-000-04-03-1985@@@
-
 Decreto nº 91.024, de 04 de março de 1985
 
 Autoriza o Banco do Brasil S.A. a proceder ao aumento do capital social.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098075-0-000-21-08-1989@@@
-
 DECRETO Nº 98.075, DE 21 DE AGOSTO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S.A. PETROBRÁS, imóveis constituídos de terras e benfeitorias, situados no Município de Pacatuba, no Estado de Sergipe, necessários á construção do Gasoduto Furado/Robalo Mineração Grande Vale.

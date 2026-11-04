@@ -1,5 +1,3 @@
-###DEC-078118-0-000-22-07-1976@@@
-
 DECRETO Nº 78.118, DE 22 DE JULHO DE 1976.
 
 Estabelece quota mensal para as importações pela Zona Franca de Manaus e dá outras providências.

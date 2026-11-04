@@ -1,5 +1,3 @@
-###DEC-056228-0-000-30-04-1965@@@
-
 DECRETO Nº 56.228, DE 30 DE ABRIL DE 1965.
 
 Autoriza a Companhia Geral de Eletricidade a ampliar suas instalações.

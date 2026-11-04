@@ -1,5 +1,3 @@
-###DEC-057192-0-000-08-11-1965@@@
-
 DECRETO Nº 57.192, DE 8 DE NOVEMBRO DE 1965.
 
 Outorga à Companhia de Eletricidade do Estado da Bahia concessão para distribuir energia elétrica.

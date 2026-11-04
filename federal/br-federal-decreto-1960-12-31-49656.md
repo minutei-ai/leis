@@ -1,5 +1,3 @@
-###DEC-049656-0-000-31-12-1960@@@
-
 DECRETO Nº 49.656, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza a Companhia de Tecidos Paulista a pesquisar fosforita no município de Paulista, Estado de Pernambuco.

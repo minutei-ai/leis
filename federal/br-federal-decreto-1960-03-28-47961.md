@@ -1,5 +1,3 @@
-###DEC-047961-0-000-28-03-1960@@@
-
 DECRETO Nº 47.961, DE 28 DE MARÇO DE 1960.
 
 Dispõe sôbre a cunhagem de medalha comemorativa da inauguração de Brasília.

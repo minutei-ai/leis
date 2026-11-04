@@ -1,5 +1,3 @@
-###DEC-053845-0-000-25-03-1964@@@
-
 DECRETO Nº 53.845, DE 25 DE MARÇO DE 1964.
 
 Aprova as normas para a execução do Decreto nº 53.702, de 14-3-1964, que tabela os aluguéis de imóveis.

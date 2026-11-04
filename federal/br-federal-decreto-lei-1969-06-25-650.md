@@ -1,5 +1,3 @@
-###DEL-000650-0-000-25-06-1969@@@
-
 Decreto-lei nº 650, de 25 de junho de 1969
 
 Aprova a Convenção Internacional de Linhas de Carga - IMCO.

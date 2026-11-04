@@ -1,5 +1,3 @@
-###DEC-078086-0-000-19-07-1976@@@
-
 DECRETO Nº 78.086, DE 19 DE JULHO DE 1976.
 
 Renova o prazo da concessão para o uso exclusivo do aproveitamento da energia hidráulica de um desnível do rio Jaguari, outorga à empresa Nadir Figueiredo - Indústria e Comércio S. A., no Estado de São Paulo.

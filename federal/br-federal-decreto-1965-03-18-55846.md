@@ -1,5 +1,3 @@
-###DEC-055846-0-000-18-03-1965@@@
-
 DECRETO Nº 55.846, DE 18 DE MARÇO DE 1965.
 
 Abre pelo Ministério da Fazenda o crédito especial de Cr$10.000.000, para o fim que especifica.

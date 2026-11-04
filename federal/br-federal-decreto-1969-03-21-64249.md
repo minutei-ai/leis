@@ -1,5 +1,3 @@
-###DEC-064249-0-000-21-03-1969@@@
-
 DECRETO Nº 64.249, DE 21 DE MARçO DE 1969.
 
 Retifica o Decreto nº 61.297, de 6 de setembro de 1967.

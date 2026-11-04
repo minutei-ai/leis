@@ -1,5 +1,3 @@
-###DEC-058847-0-000-15-07-1966@@@
-
 DECRETO Nº 58.847, DE 15 DE JULHO DE 1966.
 
 Autoriza o cidadão brasileiro João Nogueira Duarte a pesquisar calcário dolomítico, no Município de Santana do Riacho, Estado de Minas Gerais.

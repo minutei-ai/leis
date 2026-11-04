@@ -1,5 +1,3 @@
-###DEC-050181-0-000-28-01-1961@@@
-
 decreto nº 50.181, de 28 de janeiro de 1961.
 
 Autoriza do cidadão brasileiro José Alves da cunha a pesquisar argila no município de Taubaté, Estado de São Paulo.

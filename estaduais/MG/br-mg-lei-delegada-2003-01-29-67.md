@@ -157,7 +157,3 @@ Administração de Estádios do Estado de Minas Gerais – ADEMG
 Cargos de provimento em comissão da estrutura básica
 
 UNIDADE ADMINISTRATIVA CLASSE DE CARGOS Nº DE CARGOS FATOR DE AJUSTAMENTO Diretoria-Geral Diretor-Geral 01 1,66551 Diretor de Planejamento, Gestão e Finanças Diretor 01 1,43418 Diretoria de Promoções Diretor 01 1,43418 Diretoria de Infra-Estrutura Diretor 01 1,43418 Gabinete Chefe de Gabinete 01 1,06890 Assessoria Jurídica Assessor Jurídico 01 0,77710 Auditoria Seccional Auditor Seccional 01 0,65420 Gabinete Assessor de Comunicação Social 01 0,77710
-
-\=======================================================================
-
-Data da última atualização: 18/8/2026.

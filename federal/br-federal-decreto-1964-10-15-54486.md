@@ -1,5 +1,3 @@
-###DEC-054486-0-000-15-10-1964@@@
-
 DECRETO Nº 54.486, DE 15 DE OUTUBRO DE 1964.
 
 Prorroga o prazo do art. 4º do Regulamento aprovado pelo Decreto nº 52.149, de 25 de junho de 1963.

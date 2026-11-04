@@ -34,11 +34,14 @@ Art. 6º Este decreto entrará em vigor na data de sua publicação, revogadas a
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 27 de Fevereiro de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo
 
-ANDRÉ LUIS FERREIRA ROSA<br>
+ANDRÉ LUIS FERREIRA ROSA
+
 Secretário da Fazenda

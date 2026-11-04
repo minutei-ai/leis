@@ -1,5 +1,3 @@
-###DEC-054413-0-000-12-10-1964@@@
-
 DECRETO Nº 54.413, DE 12 DE OUTUBRO DE 1964.
 
 Outorga ao Município de São João do Cariri, Estado da Paraíba, concessão para distribuir energia elétrica.

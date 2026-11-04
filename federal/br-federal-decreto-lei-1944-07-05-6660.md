@@ -1,5 +1,3 @@
-###DEL-006660-0-000-05-07-1944@@@
-
 (\*)DECRETO-LEI N. 6.660 – DE 5 DE JULHO DE 1944
 
 Altera a redação do art. 2º do Decreto-lei nº 2.895, da 21 de dezembro de 1940

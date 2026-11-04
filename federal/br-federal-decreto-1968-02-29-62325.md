@@ -1,5 +1,3 @@
-###DEC-062325-0-000-29-02-1968@@@
-
 decreto nº 62.325, de 29 de fevereiro de 1968.
 
 Concede autorização à firma Western Geophysical Company of América para operar em águas brasileiras com navios de nacionalidade americana nos serviços que especifica.

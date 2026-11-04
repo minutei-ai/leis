@@ -16,60 +16,492 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2952-FUNDO ESTADUAL DE PROTEÇÃO E DEFESA DO CONSUMIDOR - FEDC</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">CONTRIBUIÇÕES AO PASEP</td><td style=" width:85px;    ">28 846 0100 7102</td><td style=" width:85px;    ">17990142</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 90.000,00</td><td style=" width:85px;    ">R$ 90.000,00</td></tr></tbody></table>
+**2952-FUNDO ESTADUAL DE PROTEÇÃO E DEFESA DO CONSUMIDOR - FEDC**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2902 - POLÍCIA MILITAR</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">06 122 4200 4243</td><td style=" width:85px;    ">25010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 139.644,22</td><td style=" width:85px;    ">R$ 454.686,18</td><td style=" width:85px;    ">R$ 594.330,40</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">06 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 860.002,91</td><td style=" width:85px;    ">R$ 68.923,16</td><td style=" width:85px;    ">R$ 928.926,07</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4091-GOIAS TELECOMUNICACOES S.A. - GOIASTELECOM</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS</td><td style=" width:85px;    ">24 122 4100 4144</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 1.484.115,01</td><td style=" width:85px;    ">R$ 25.000,00</td><td style=" width:85px;    ">R$ 1.509.115,01</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4350-FUNDO ESTADUAL DE INFRAESTRUTURA</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">CONTRIBUIÇÕES AO PASEP</td><td style=" width:85px;    ">28 846 0100 7102</td><td style=" width:85px;    ">17992167</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 327.351,07</td><td style=" width:85px;    ">R$ 327.351,07</td></tr></tbody></table>
+**SALDO ORÇAMENTÁRIO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4062-UNIVERSIDADE ESTADUAL DE GOIÁS - UEG</b></td></tr></tbody></table>
+**VALOR A SUPLEMENTAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">12 122 4200 4243</td><td style=" width:85px;    ">15010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 3.110,00</td><td style=" width:85px;    ">R$ 400.000,00</td><td style=" width:85px;    ">R$ 403.110,00</td></tr></tbody></table>
+**SALDO ATUALIZADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+CONTRIBUIÇÕES AO PASEP
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style="width: 340px; height: 19px; text-align: right;">R$ 93.923,16</td></tr><tr><td style=" width:340px;    ">15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE</td><td style="width: 340px; text-align: right;">R$ 400.000,00</td></tr><tr><td style=" width:340px;    ">17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS</td><td style="width: 340px; text-align: right;">R$ 90.000,00</td></tr><tr><td style=" width:340px;    ">17992167 - OUTRAS VINCULAÇÕES LEGAIS - CONTRIBUIÇÃO AO FUNDEINFRA, LEI N° 21.670/2022</td><td style="width: 340px; text-align: right;">R$ 327.351,07</td></tr><tr><td style=" width:340px;    ">25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES</td><td style="width: 340px; text-align: right;">R$ 454.686,18</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style="width: 340px; text-align: right;">R$ 1.365.960,41</td></tr></tbody></table>
+28 846 0100 7102
+
+17990142
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 90.000,00
+
+R$ 90.000,00
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2902 - POLÍCIA MILITAR
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+06 122 4200 4243
+
+25010100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 139.644,22
+
+R$ 454.686,18
+
+R$ 594.330,40
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+06 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 860.002,91
+
+R$ 68.923,16
+
+R$ 928.926,07
+
+**4091-GOIAS TELECOMUNICACOES S.A. - GOIASTELECOM**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS
+
+24 122 4100 4144
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 1.484.115,01
+
+R$ 25.000,00
+
+R$ 1.509.115,01
+
+**4350-FUNDO ESTADUAL DE INFRAESTRUTURA**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+CONTRIBUIÇÕES AO PASEP
+
+28 846 0100 7102
+
+17992167
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 327.351,07
+
+R$ 327.351,07
+
+**4062-UNIVERSIDADE ESTADUAL DE GOIÁS - UEG**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+12 122 4200 4243
+
+15010100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 3.110,00
+
+R$ 400.000,00
+
+R$ 403.110,00
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 93.923,16
+
+15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE
+
+R$ 400.000,00
+
+17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS
+
+R$ 90.000,00
+
+17992167 - OUTRAS VINCULAÇÕES LEGAIS - CONTRIBUIÇÃO AO FUNDEINFRA, LEI N° 21.670/2022
+
+R$ 327.351,07
+
+25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES
+
+R$ 454.686,18
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 1.365.960,41
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2952-FUNDO ESTADUAL DE PROTEÇÃO E DEFESA DO CONSUMIDOR - FEDC</b></td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr></tbody></table>
+**2952-FUNDO ESTADUAL DE PROTEÇÃO E DEFESA DO CONSUMIDOR - FEDC**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   ">ESTRUTURAÇÃO, OPERACIONALIZAÇÃO E MODERNIZAÇÃO DO SISTEMA DE PROTEÇÃO AOS DIREITOS DO CONSUMIDOR</td><td style=" width:85px;  height:19px;   ">06 422 1007 3180</td><td style=" width:85px;  height:19px;   ">17990142</td><td style=" width:85px;  height:19px;   ">90</td><td style=" width:85px;  height:19px;   ">4 - INVESTIMENTOS</td><td style=" width:85px;  height:19px;   ">R$ 1.594.218,01</td><td style=" width:85px;  height:19px;   ">R$ 90.000,00</td><td style=" width:85px;  height:19px;   ">R$ 90.000,00</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2902 - POLÍCIA MILITAR</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">DISPONIBILIZAÇÃO DE VIATURA PELA POLÍCIA MILITAR</td><td style=" width:85px;    ">06 181 1051 2484</td><td style=" width:85px;    ">25010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.761.964,20</td><td style=" width:85px;    ">R$ 454.686,18</td><td style=" width:85px;    ">R$ 454.686,18</td></tr><tr><td style=" width:85px;    ">DISPONIBILIZAÇÃO DE SEMOVENTE</td><td style=" width:85px;    ">06 181 1051 2359</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 11.271,53</td><td style=" width:85px;    ">R$ 11.271,53</td><td style=" width:85px;    ">R$ 11.271,53</td></tr><tr><td style=" width:85px;    ">AQUISIÇÃO DE MUNIÇÃO PELA PM</td><td style=" width:85px;    ">06 181 1051 2358</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.205.024,01</td><td style=" width:85px;    ">R$ 1.024,01</td><td style=" width:85px;    ">R$ 1.024,01</td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO / AMPLIAÇÃO DE UNIDADE DA PMGO</td><td style=" width:85px;    ">06 181 1051 3181</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 385.570,47</td><td style=" width:85px;    ">R$ 56.627,62</td><td style=" width:85px;    ">R$ 56.627,62</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4091-GOIAS TELECOMUNICACOES S.A. - GOIASTELECOM</b></td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS</td><td style=" width:85px;    ">24 122 4100 4144</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">91</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 25.000,00</td><td style=" width:85px;    ">R$ 25.000,00</td><td style=" width:85px;    ">R$ 25.000,00</td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4350-FUNDO ESTADUAL DE INFRAESTRUTURA</b></td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PAVIMENTAÇÃO DA GO-194</td><td style=" width:85px;    ">26 782 1055 3270</td><td style=" width:85px;    ">17992167</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 1.834.795,11</td><td style=" width:85px;    ">R$ 327.351,07</td><td style=" width:85px;    ">R$ 327.351,07</td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4062-UNIVERSIDADE ESTADUAL DE GOIÁS - UEG</b></td></tr></tbody></table>
+**VALOR A REDUZIR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">CONSTRUÇÂO DE OBRA PRIORITÁRIA DO GOVERNO PELA UEG</td><td style=" width:85px;    ">12 364 1008 3205</td><td style=" width:85px;    ">15010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 877.043,00</td><td style=" width:85px;    ">R$ 400.000,00</td><td style=" width:85px;    ">R$ 400.000,00</td></tr></tbody></table>
+ESTRUTURAÇÃO, OPERACIONALIZAÇÃO E MODERNIZAÇÃO DO SISTEMA DE PROTEÇÃO AOS DIREITOS DO CONSUMIDOR
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+06 422 1007 3180
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style="width: 340px; height: 19px; text-align: right;">R$ 93.923,16</td></tr><tr><td style=" width:340px;    ">15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE</td><td style="width: 340px; text-align: right;">R$ 400.000,00</td></tr><tr><td style=" width:340px;    ">17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS</td><td style="width: 340px; text-align: right;">R$ 90.000,00</td></tr><tr><td style=" width:340px;    ">17992167 - OUTRAS VINCULAÇÕES LEGAIS - CONTRIBUIÇÃO AO FUNDEINFRA, LEI N° 21.670/2022</td><td style="width: 340px; text-align: right;">R$ 327.351,07</td></tr><tr><td style=" width:340px;    ">25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES</td><td style="width: 340px; text-align: right;">R$ 454.686,18</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style="width: 340px; text-align: right;">R$ 1.365.960,41</td></tr></tbody></table>
+17990142
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+90
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style="width: 340px; height: 19px; text-align: right;">R$ 93.923,16</td></tr><tr><td style=" width:340px;    ">15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE</td><td style="width: 340px; text-align: right;">R$ 400.000,00</td></tr><tr><td style=" width:340px;    ">17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS</td><td style="width: 340px; text-align: right;">R$ 90.000,00</td></tr></tbody></table>
+4 - INVESTIMENTOS
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17992167 - OUTRAS VINCULAÇÕES LEGAIS - CONTRIBUIÇÃO AO FUNDEINFRA, LEI N° 21.670/2022</td><td style="width: 340px; height: 19px; text-align: right;">R$ 327.351,07</td></tr><tr><td style=" width:340px;    ">25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES</td><td style="width: 340px; text-align: right;">R$ 454.686,18</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style="width: 340px; text-align: right;">R$ 1.365.960,41</td></tr></tbody></table>
+R$ 1.594.218,01
+
+R$ 90.000,00
+
+R$ 90.000,00
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2902 - POLÍCIA MILITAR
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+DISPONIBILIZAÇÃO DE VIATURA PELA POLÍCIA MILITAR
+
+06 181 1051 2484
+
+25010100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.761.964,20
+
+R$ 454.686,18
+
+R$ 454.686,18
+
+DISPONIBILIZAÇÃO DE SEMOVENTE
+
+06 181 1051 2359
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 11.271,53
+
+R$ 11.271,53
+
+R$ 11.271,53
+
+AQUISIÇÃO DE MUNIÇÃO PELA PM
+
+06 181 1051 2358
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.205.024,01
+
+R$ 1.024,01
+
+R$ 1.024,01
+
+CONSTRUÇÃO / AMPLIAÇÃO DE UNIDADE DA PMGO
+
+06 181 1051 3181
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 385.570,47
+
+R$ 56.627,62
+
+R$ 56.627,62
+
+**4091-GOIAS TELECOMUNICACOES S.A. - GOIASTELECOM**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS
+
+24 122 4100 4144
+
+15000100
+
+91
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 25.000,00
+
+R$ 25.000,00
+
+R$ 25.000,00
+
+**4350-FUNDO ESTADUAL DE INFRAESTRUTURA**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PAVIMENTAÇÃO DA GO-194
+
+26 782 1055 3270
+
+17992167
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 1.834.795,11
+
+R$ 327.351,07
+
+R$ 327.351,07
+
+**4062-UNIVERSIDADE ESTADUAL DE GOIÁS - UEG**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+CONSTRUÇÂO DE OBRA PRIORITÁRIA DO GOVERNO PELA UEG
+
+12 364 1008 3205
+
+15010100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 877.043,00
+
+R$ 400.000,00
+
+R$ 400.000,00
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 93.923,16
+
+15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE
+
+R$ 400.000,00
+
+17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS
+
+R$ 90.000,00
+
+17992167 - OUTRAS VINCULAÇÕES LEGAIS - CONTRIBUIÇÃO AO FUNDEINFRA, LEI N° 21.670/2022
+
+R$ 327.351,07
+
+25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES
+
+R$ 454.686,18
+
+**TOTAL**
+
+R$ 1.365.960,41
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 93.923,16
+
+15010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE
+
+R$ 400.000,00
+
+17990142 - OUTRAS VINCULAÇÕES LEGAIS - AÇÕES E PROGRAMAS ESPECÍFICOS
+
+R$ 90.000,00
+
+17992167 - OUTRAS VINCULAÇÕES LEGAIS - CONTRIBUIÇÃO AO FUNDEINFRA, LEI N° 21.670/2022
+
+R$ 327.351,07
+
+25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES
+
+R$ 454.686,18
+
+**TOTAL**
+
+R$ 1.365.960,41

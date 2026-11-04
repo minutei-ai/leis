@@ -1,5 +1,3 @@
-###DEC-050713-0-000-31-05-1961@@@
-
 DECRETO Nº 50.713, DE 31 DE MAIO DE 1961.
 
 Transfere para a Emprêsa Luz e Fôrça Santa Maria S.A. concessões para produzir e distribuir energia elétrica nos municípios de Colatina e Santa Teresa, no Estado do Espírito Santo, e dá outras providências.

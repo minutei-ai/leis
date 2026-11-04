@@ -1,5 +1,3 @@
-###DEL-004223-0-000-02-04-1942@@@
-
 DECRETO-LEI N. 4.223 – DE 2 DE ABRIL DE 1942
 
  Indulta insubmissos e dá outras providências

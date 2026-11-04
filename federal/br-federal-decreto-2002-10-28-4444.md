@@ -1,5 +1,3 @@
-###DEC-004444-0-000-28-10-2002@@@
-
 DECRETO Nº 4.444, DE 28 DE OUTUBRO DE 2002
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Bolívia sobre a Recuperação de Bens Culturais, Patrimoniais e Outros Específicos Roubados, Importados ou Exportados Ilicitamente, celebrado em La Paz, em 26 de julho de 1999.

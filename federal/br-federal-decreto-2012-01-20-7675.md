@@ -1,5 +1,3 @@
-###DEC-007675-0-000-20-01-2012-PUB-01@@@
-
 DECRETO Nº 7.675, DE 20 DE JANEIRO DE 2012
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério do Planejamento, Orçamento e Gestão.

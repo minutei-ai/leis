@@ -1,5 +1,3 @@
-###DEC-076934-0-000-30-12-1975@@@
-
 DECRETO Nº 76.934, DE 30 DE DEZEMBRO DE 1975.
 
 Fixa o preço mínimo único básico para financiamento ou aquisição de castanha de caju com casca da safra de 1975-76, produzida nas Unidades da Federação que menciona.

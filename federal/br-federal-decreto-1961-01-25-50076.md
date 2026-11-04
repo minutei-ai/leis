@@ -1,5 +1,3 @@
-###DEC-050076-0-000-25-01-1961@@@
-
 DECRETO Nº 50.076, DE 25 DE JANEIRO DE 1961.
 
 Retifica o art. 1º do Decreto número 48.226, de 16 de maio de 1960.

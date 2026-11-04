@@ -1,5 +1,3 @@
-###DEC-068391-0-000-23-03-1971@@@
-
 DECRETO Nº 68.391, DE 23 DE MARÇO DE 1971.
 
 Declara de utilidade pública o Hospital Imaculada Conceição, com sede em Curvelo, Estado de Minas Gerais.

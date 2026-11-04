@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211773)<br>
-
 # DECRETO N° 70.052, DE 05 DE NOVEMBRO DE 2025
 
 ### _Autoriza a outorga de uso do imóvel que especifica ao Município de São Manuel e dá providências correlatas._

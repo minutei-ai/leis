@@ -1,5 +1,3 @@
-###DEC-089086-0-000-01-12-1983@@@
-
 Decreto nº 89.086, de 01 de dezembro de 1983
 
 Cria o Centro de Informática e Estatística no Ministério da Aeronáutica e dá outras providências.

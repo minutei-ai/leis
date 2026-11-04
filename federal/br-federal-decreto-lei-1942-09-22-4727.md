@@ -1,5 +1,3 @@
-###DEL-004727-0-000-22-09-1942@@@
-
 DECRETO-LEI N. 4.727 – DE 22 DE SETEMBRO DE 1942
 
 Autoriza a Rede Mineira de Viação a suprimir o tráfego do ramal de Barra do Piraí a Passa Três e dá outras providências

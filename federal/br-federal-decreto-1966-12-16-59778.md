@@ -1,5 +1,3 @@
-###DEC-059778-0-000-16-12-1966@@@
-
 DECRETO Nº 59.778, DE 16 DE DEZEMBRO DE 1966
 
 Concede à Emprêsa de Mineração Irmãos Correia & Magalhães Limitada, autorização para funcionar como emprêsa de Mineração.

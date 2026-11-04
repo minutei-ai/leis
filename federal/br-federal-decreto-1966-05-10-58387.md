@@ -1,5 +1,3 @@
-###DEC-058387-0-000-10-05-1966@@@
-
 DECRETO Nº 58.387, DE 10 DE MAIO DE 1966.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$1.300.000.000 para o fim que específica.

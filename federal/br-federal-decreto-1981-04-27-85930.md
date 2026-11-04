@@ -1,5 +1,3 @@
-###DEC-085930-0-000-27-04-1981@@@
-
 Decreto nº 85.930, de 27 de abril de 1981.
 
 Concede honras de Ministro de Estado ao General-de-Divisão RRm Affonso Augusto de Albuquerque Lima.

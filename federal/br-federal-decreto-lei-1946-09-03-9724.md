@@ -1,5 +1,3 @@
-###DEL-009724-0-000-03-09-1946@@@
-
 DECRETO-LEI N. 9.724 – DE 3 DE SETEMBRO DE 1946
 
 Aprova o Acôrdo celebrado entre o Ministério da Educação e Saúde e a Inter-American Educational Foundation Inc., sôbre educação industrial vocacional, e dá outras providências.

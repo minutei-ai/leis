@@ -1,5 +1,3 @@
-###DEC-060379-0-000-11-03-1967@@@
-
 DECRETO Nº 60.379, DE 11 DE MARÇO DE 1967.
 
 Concede à usina Siderúrgica Pedra Negra S. A. autorização para funcionar como emprêsa de mineração.

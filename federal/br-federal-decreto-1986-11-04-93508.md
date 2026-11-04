@@ -1,5 +1,3 @@
-###DEC-093508-0-000-04-11-1986@@@
-
 DECRETO Nº 93.508, DE 4 DE NOVEMBRO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação São Pedro, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

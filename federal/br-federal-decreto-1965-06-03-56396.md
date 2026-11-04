@@ -1,5 +1,3 @@
-###DEC-056396-0-000-03-06-1965@@@
-
 DECRETO Nº 56.396, DE 03 DE JUNHO DE 1965.
 
 Concede à sociedade J.A.. Leite & Companhia Limitada autorização para continuar a funcionar como emprêsa de navegação de cabotagem, sob a nova denominação de J.A. Leite Navegação Limitada.

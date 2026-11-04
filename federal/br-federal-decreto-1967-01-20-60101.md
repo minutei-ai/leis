@@ -1,5 +1,3 @@
-###DEC-060101-0-000-20-01-1967@@@
-
 DECRETO Nº 60.101, DE 20 DE JANEIRO DE 1967.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Itanhandu, Estado de Minas Gerais.

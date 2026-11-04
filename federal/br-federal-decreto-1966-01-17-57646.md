@@ -1,5 +1,3 @@
-###DEC-057646-0-000-17-01-1966@@@
-
 DECRETO Nº 57.646, DE 17 DE JANEIRO DE 1966.
 
 Cria a Escola de Aprendizes-Marinheiros de Alagoas.

@@ -1,5 +1,3 @@
-###DEC-058309-0-000-02-05-1966@@@
-
 decreto nº 58.309, de 2 de naio de 1966.
 
 Autoriza o cidadão brasileiro Geraldino Rodrigues de Moraes a pesquisar feldspato, caulim e quartzo, no Município e Socorro, Estado de São Paulo.

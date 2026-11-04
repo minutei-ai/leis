@@ -1,5 +1,3 @@
-###DEL-006420-0-000-14-04-1944@@@
-
 DECRETO-LEI N. 6.420 – DE 14 DE ABRIL DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 120. 000,00 para despesas com serviços de encadernação

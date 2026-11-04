@@ -1,5 +1,3 @@
-###DEC-073368-0-000-26-12-1973@@@
-
 DECRETO Nº 73.368 - DE 26 DE DEZEMBRO DE 1973
 
 Aprova o Regulamento dos Comandos Aéreos Regionais e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-072184-0-000-08-05-1973@@@
-
 DECRETO Nº 72.184, DE 8 DE MAIO DE 1973.
 
 Declara a caducidade dos Decretos que menciona.

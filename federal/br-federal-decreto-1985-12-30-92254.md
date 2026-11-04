@@ -1,5 +1,3 @@
-###DEC-092254-0-000-30-12-1985@@@
-
 DECRETO Nº 92.254, DE 30 DE DEZEMBRO DE 1985
 
 Altera o Decreto nº 76.387, de 2 de outubro de 1975, que dispõe sobre a Estrutura Básica do Ministério da Justiça, e dá outras providências.

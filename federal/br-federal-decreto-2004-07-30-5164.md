@@ -1,5 +1,3 @@
-###DEC-005164-0-000-30-07-2004@@@
-
 DECRETO Nº 5.164 DE 30 DE JULHO DE 2004
 
 Reduz a zero as alíquotas da Contribuição para o PIS/PASEP e da COFINS incidentes sobre as receitas financeiras auferidas pelas pessoas jurídicas sujeitas à incidência não-cumulativa das referidas contribuições.

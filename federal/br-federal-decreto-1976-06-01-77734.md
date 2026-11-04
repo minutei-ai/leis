@@ -1,5 +1,3 @@
-###DEC-077734-0-000-01-06-1976@@@
-
 DECRETO Nº 77.734, DE 1º DE JUNHO DE 1976.
 
 Concede reconhecimento ao curso de Ciências da Faculdade de Filosofia, Ciências e Letras, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

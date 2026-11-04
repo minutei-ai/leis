@@ -1,5 +1,3 @@
-###DEC-003718-0-000-03-01-2001@@@
-
 DECRETO Nº 3.718, DE 3 DE JANEIRO DE 2001
 
 Dá nova redação a dispositivos do Anexo ao Decreto nº 3.675, de 28 de novembro de 2000, que dispõe sobre medidas especiais relacionadas com o registro de medicamentos genéricos, de que trata o art. 4º da Lei nº 9.787, de 10 de fevereiro de 1999.

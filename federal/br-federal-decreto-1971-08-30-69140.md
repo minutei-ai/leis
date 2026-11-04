@@ -1,5 +1,3 @@
-###DEC-069140-0-000-30-08-1971@@@
-
 DECRETO Nº 69.140, de 30 de agôsto de 1971.
 
 Concede à firma individual Sinézio Borges o direito de lavrar bauxita e argila, no município de Caldas, Estado de Minas Gerais.

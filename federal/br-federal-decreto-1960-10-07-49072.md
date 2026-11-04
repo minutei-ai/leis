@@ -1,5 +1,3 @@
-###DEC-049072-0-000-07-10-1960@@@
-
 DECRETO Nº49.072, de 7 de outubro de 1960.
 
 Desvincula do acervo da Companhia “Elétrica Caiuá” os grupos diesel-elétricos e respectivos acessórios que específica.

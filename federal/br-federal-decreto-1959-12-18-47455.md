@@ -1,5 +1,3 @@
-###DEC-047455-0-000-18-12-1959@@@
-
 DECRETO Nº 47.455, DE 18 DE DEZEMBRO DE 1959.
 
 Transfere à Televisão Excelsior Sociedade Anônima a concessão outorgada à Rádio Excelsior Sociedade Anônima, para estabelecer uma estação de radiotelevisão na cidade de São Paulo, Estado de S. Paulo.

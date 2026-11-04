@@ -1,5 +1,3 @@
-###DEC-047064-0-000-22-10-1959@@@
-
 DECRETO Nº 47.064, DE 22 DE OUTUBRO DE 1959.
 
 Exclui das disposições do único do art. 9º do Decreto nº 45.363, de 29 de janeiro de 1959, a despesa que menciona.

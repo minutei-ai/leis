@@ -1,7 +1,3 @@
-1
-
-###MPV-000970-0-000-12-04-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 970, DE 12 DE ABRIL DE 1995.
 
 Altera a Lei nº 8.031, de 12 de abril de 1990, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055129-0-000-02-12-1964@@@
-
 decreto nº 55.129, de 2 de dezembro de 1964.
 
 Concede à Mineração Água Limpa S.A. autorização para funcionar emprêsa de mineração.

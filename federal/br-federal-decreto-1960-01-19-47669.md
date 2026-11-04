@@ -1,5 +1,3 @@
-###DEC-047669-0-000-19-01-1960@@@
-
 DECRETO Nº 47.669, DE 19 DE JANEIRO DE 1960.
 
 Concede autorização para o funcionamento de curso.

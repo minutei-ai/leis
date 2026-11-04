@@ -1,5 +1,3 @@
-###DEL-000034-0-000-18-11-1966@@@
-
 DECRETO-LEI Nº 34, DE 18 DE NOVeMBRO DE 1966
 
 Dispõe sôbre nova denominação do Impôsto de Consumo, altera a Lei nº 4.502, de 30 de novembro de 1964, extingue diversas taxas, e dá outras providências.

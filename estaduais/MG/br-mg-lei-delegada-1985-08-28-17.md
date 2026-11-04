@@ -85,7 +85,3 @@ ANEXO ÚNICO DA LEI DELEGADA Nº 17,
 DE 28 DE AGOSTO DE 1985
 
 CÓDIGO DENOMINAÇÃO SÍMBOLO DE VENCIMENTO Nº DE CARGOS a) no Grupo de Assessoramento: AS-02 Assessor II V-58 4 b) no Grupo de Direção Superior: DS-01 Diretor I V-58 20 c) no Grupo de Chefia: CH-03 Supervisor III V-45 25 CH-02 Supervisor II v-35 47 CH-01 Supervisor I V-25 1
-
-\================================
-
-Data da última atualização: 28/7/2016.

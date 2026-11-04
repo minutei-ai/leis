@@ -1,5 +1,3 @@
-###DEL-009139-0-000-05-04-1946@@@
-
 DECRETO- LEI N. 9.139 – DE 5 DE ABRIL DE 1946
 
 Revoga o Decreto-lei nº 9.075, de 18 de Março de 1946

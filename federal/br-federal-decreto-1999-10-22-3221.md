@@ -1,5 +1,3 @@
-###DEC-003221-0-000-22-10-1999@@@
-
 DECRETO Nº 3.221, DE 22 DE OUTUBRO DE 1999.
 
 Promulga o Acordo para o Estabelecimento do Centro Regional de Educação em Ciência e Tecnologia Espaciais para a América Latina e o Caribe, entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos Mexicanos, concluído em Brasília, em 11 de março de 1997.
@@ -180,4 +178,12 @@ Em fé do que, os abaixo-assinados, estando devidamente autorizados para tanto, 
 
 Feito em triplicata, nos idiomas português, espanhol e inglês, cujos textos são igualmente autênticos, em Brasília, no dia 11 de março de mil novecentos e noventa e sete.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República</span><span style="font-family:Arial; font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial; font-size:10pt">Federativa do Brasil José Israel Vargas Ministro da Ciência e Tecnologia</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo dos Estados</span><span style="font-family:Arial; font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial; font-size:10pt">Unidos Mexicanos José Luis Reyna Embaixador</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da República&nbsp; Federativa do Brasil José Israel Vargas Ministro da Ciência e Tecnologia
+
+</td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo dos Estados&nbsp; Unidos Mexicanos José Luis Reyna Embaixador
+
+</td></tr></tbody></table>

@@ -1,5 +1,3 @@
-###DEC-077889-0-000-22-06-1976@@@
-
 DECRETO Nº 77.889, DE 22 DE JUNHO DE 1976.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Tanabi, Estado de São Paulo.

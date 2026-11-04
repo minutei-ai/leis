@@ -1,5 +1,3 @@
-###DEL-006888-0-000-21-09-1944@@@
-
 DECRETO-LEI N. 6.888 – DE 21 DE SETEMBRO DE 1944
 
 Isenta de direitos de importação e demais taxas aduaneiras, pelo prazo de 18 meses, o gado vacum importado para consumo interno

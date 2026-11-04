@@ -1,5 +1,3 @@
-###DEL-009704-0-000-03-09-1946@@@
-
 DECRETO-LEI N. 9.704 – DE 3 DE SETEMbRO DE 1946
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 23.861,30, para pagamento de gratificação de magistério.

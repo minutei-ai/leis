@@ -1,5 +1,3 @@
-###DEC-045142-0-000-30-12-1958@@@
-
 DECRETO Nº 45.142, DE 30 DE DEZEMBRO DE 1958.
 
 Altera a redação do Decreto nº 43.190, de 12 de fevereiro de 1958, referente a funções de oficiais-generais.

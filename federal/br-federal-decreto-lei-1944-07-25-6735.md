@@ -1,5 +1,3 @@
-###DEL-006735-0-000-25-07-1944@@@
-
 DECRETO-LEI N. 6.735 – DE 25 DE JULHO DE 1944
 
 Autoriza a Rêde Mineira de Viação a dar o destino que menciona ao saldo verificado em 1943

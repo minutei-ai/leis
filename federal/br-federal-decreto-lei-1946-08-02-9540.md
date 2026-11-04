@@ -1,5 +1,3 @@
-###DEL-009540-0-000-02-08-1946@@@
-
 DECRETO-LEI N. 9.540 – DE 2 DE AGÔSTO DE 1946
 
 Abre ao Ministério da Relações Exteriores o crédito suplementar de Cr$ 2.000.000,00, à verba que especifica.

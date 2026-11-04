@@ -1,4 +1,5 @@
-DECRETO Nº 9.920, DE 6 DE AGOSTO DE 2021<br>
+DECRETO Nº 9.920, DE 6 DE AGOSTO DE 2021
+
 \- [Revogado pelo Decreto nº 10.482, de 21-6-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109038/decreto-10482), art. 2º.
 
 ~~Aprova o Regulamento da Secretaria de Estado da Educação e dá outras providências.~~
@@ -14,8 +15,6 @@ DECRETO Nº 9.920, DE 6 DE AGOSTO DE 2021<br>
 ~~Art. 3º Este Decreto entra em vigor na data de sua publicação.~~
 
 ~~Goiânia, 6 de agosto de 2021, 133º da República.~~
-
-<br>
 
 ~~RONALDO CAIADO~~
 
@@ -65,15 +64,18 @@ DECRETO Nº 9.920, DE 6 DE AGOSTO DE 2021<br>
 
 ~~d) Procuradoria Setorial:~~
 
-~~1\. Gerência do Contencioso Especial; e~~<br>
+~~1\. Gerência do Contencioso Especial; e~~
+
 ~~[\- Redação dada pelo Decreto nº 10.158, de 21-10-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106192/decreto-10158)~~
 
 ~~1\. Gerência do Contencioso; e~~
 
-~~2\. Gerência do Contencioso Ordinário;<br>
+~~2\. Gerência do Contencioso Ordinário;
+
 [\- Redação dada pelo Decreto nº 10.158, de 21-10-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106192/decreto-10158)~~
 
-~~2\. Gerência Administrativa <br>
+~~2\. Gerência Administrativa 
+
 \- [Redação dada pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081).~~
 
 ~~2\. Gerência de Acompanhamento dos Contratos Administrativos e Parcerias Públicas.~~
@@ -348,45 +350,58 @@ DECRETO Nº 9.920, DE 6 DE AGOSTO DE 2021<br>
 
 ~~V – realizar a consultoria jurídica delegada pelo Procurador– Geral do Estado relativa às demandas da Secretaria de Estado da Educação;~~
 
-~~VI – adotar, em coordenação com as procuradorias especializadas, as medidas necessárias para a otimização da representação judicial do Estado de Goiás em assuntos de interesse da pasta;~~<br>
+~~VI – adotar, em coordenação com as procuradorias especializadas, as medidas necessárias para a otimização da representação judicial do Estado de Goiás em assuntos de interesse da pasta;~~
+
 ~~\- [Redação dada pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081).~~
 
 ~~VI – adotar, em coordenação com as procuradorias especializadas, as medidas necessárias para a otimização da representação judicial do Estado de Goiás em assuntos de interesse da pasta; e~~
 
-~~VII – analisar os editais de licitação, os procedimentos de dispensa/inexigibilidade de licitação, bem como as minutas de contratos, convênios e ajustes de qualquer natureza;<br>
-\- [Redação dada pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081).<br>
+~~VII – analisar os editais de licitação, os procedimentos de dispensa/inexigibilidade de licitação, bem como as minutas de contratos, convênios e ajustes de qualquer natureza;
+
+\- [Redação dada pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081).
+
 ~~
 
 ~~VII – desempenhar outras atribuições decorrentes do pleno exercício do cargo e as que lhe forem atribuídas por ato do Procurador– Geral do Estado.~~
 
-~~VIII – elaborar pareceres e despachos nos processos remetidos à Procuradoria Setorial que tratem de contratos, convênios e ajustes de qualquer natureza;~~<br>
+~~VIII – elaborar pareceres e despachos nos processos remetidos à Procuradoria Setorial que tratem de contratos, convênios e ajustes de qualquer natureza;~~
+
 ~~\- [Acrescido pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081).~~
 
-~~IX – responder consultas que tratem de contratos administrativos, convênios, ajustes, licitações e matérias correlatas;~~<br>
+~~IX – responder consultas que tratem de contratos administrativos, convênios, ajustes, licitações e matérias correlatas;~~
+
 ~~\- [Acrescido pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081).~~
 
-~~X – analisar processos de cessão de uso de bens móveis ou imóveis, além de outros instrumentos de fruição de bens por terceiros;~~<br>
+~~X – analisar processos de cessão de uso de bens móveis ou imóveis, além de outros instrumentos de fruição de bens por terceiros;~~
+
 ~~\- [Acrescido pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081).~~
 
-~~XI – analisar, sempre que for necessário e sem prejuízo da competência estipulada no art. 23 da [Lei Complementar estadual nº 58](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100990/lei-complementar-058), de 4 julho de 2006, processos que versem sobre os direitos reais ou possessórios e o patrimônio imobiliário da SEDUC;~~<br>
+~~XI – analisar, sempre que for necessário e sem prejuízo da competência estipulada no art. 23 da [Lei Complementar estadual nº 58](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100990/lei-complementar-058), de 4 julho de 2006, processos que versem sobre os direitos reais ou possessórios e o patrimônio imobiliário da SEDUC;~~
+
 ~~\- [Acrescido pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081).~~
 
-~~XII – analisar os procedimentos de qualiﬁcação de organização social, quando isso for necessário, bem como a celebração de contrato de gestão com ela;~~<br>
+~~XII – analisar os procedimentos de qualiﬁcação de organização social, quando isso for necessário, bem como a celebração de contrato de gestão com ela;~~
+
 ~~\- [Acrescido pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081).~~
 
-~~XIII – conduzir a representação das demandas judiciais de interesse da Secretaria de Estado da Educação em todos os seus atos e os processos administrativos a elas relacionados; e~~<br>
+~~XIII – conduzir a representação das demandas judiciais de interesse da Secretaria de Estado da Educação em todos os seus atos e os processos administrativos a elas relacionados; e~~
+
 ~~\- [Acrescido pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081).~~
 
-~~XIV – analisar, acompanhar e emitir pareceres nos processos administrativos disciplinares e nas sindicâncias relacionados à pasta;~~<br>
+~~XIV – analisar, acompanhar e emitir pareceres nos processos administrativos disciplinares e nas sindicâncias relacionados à pasta;~~
+
 ~~[\- Redação dada pelo Decreto nº 10.158, de 21-10-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106192/decreto-10158)~~
 
-~~XIV – desempenhar outras atribuições decorrentes do pleno exercício do cargo e as que lhe forem atribuídas por ato do Procurador– Geral do Estado.~~<br>
+~~XIV – desempenhar outras atribuições decorrentes do pleno exercício do cargo e as que lhe forem atribuídas por ato do Procurador– Geral do Estado.~~
+
 ~~\- [Acrescido pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081).~~
 
-~~XV – responder e empreender diligências oriundas de órgãos externos, como o Tribunal de Contas do Estado, o Ministério Público, a Controladoria– Geral do Estado; e~~<br>
+~~XV – responder e empreender diligências oriundas de órgãos externos, como o Tribunal de Contas do Estado, o Ministério Público, a Controladoria– Geral do Estado; e~~
+
 ~~[\- Acrescido pelo Decreto nº 10.158, de 21-10-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106192/decreto-10158)~~
 
-~~XVI – desempenhar outras atribuições decorrentes do pleno exercício do cargo e as que lhe forem atribuídas por ato do Procurador– Geral do Estado.~~<br>
+~~XVI – desempenhar outras atribuições decorrentes do pleno exercício do cargo e as que lhe forem atribuídas por ato do Procurador– Geral do Estado.~~
+
 ~~[\- Acrescido pelo Decreto nº 10.158, de 21-10-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106192/decreto-10158)~~
 
 ~~§ 1º Na hipótese do inciso II do _caput_ deste artigo, caso haja mais de uma autoridade coatora, integrante de órgãos ou entidades diversas, a resposta deverá ser elaborada pela procuradoria setorial com a maior pertinência temática quanto à questão de mérito.~~
@@ -401,120 +416,150 @@ DECRETO Nº 9.920, DE 6 DE AGOSTO DE 2021<br>
 
 ~~§ 6º Compete ao Procurador-Geral do Estado expedir normas complementares ao disposto neste artigo, conforme as peculiaridades de cada órgão e a necessidade de equacionar acúmulos excepcionais de serviço.~~
 
-~~Seção I~~<br>
-~~Da Gerência do Contencioso Especial~~<br>
+~~Seção I~~
+
+~~Da Gerência do Contencioso Especial~~
+
 ~~[\- Redação dada pelo Decreto nº 10.158, de 21-10-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106192/decreto-10158)~~
 
 ~~Da Gerência do Contencioso~~
 
-~~Art. 9º Compete à Gerência do Contencioso Especial:~~<br>
+~~Art. 9º Compete à Gerência do Contencioso Especial:~~
+
 ~~[\- Redação dada Decreto nº 10.158, de 21-10-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106192/decreto-10158)~~
 
 ~~Art. 9º Compete à Gerência do Contencioso:~~
 
-~~I – elaborar informações e/ou contestações em mandados de segurança e _habeas data_ que tramitem sob o rito dos juizados especiais da Fazenda Pública e cuja autoridade coatora seja agente público em atuação na pasta, bem como orientar o cumprimento das decisões liminares proferidas nessas ações e interpor as medidas recursais cabíveis para a impugnação delas;~~<br>
+~~I – elaborar informações e/ou contestações em mandados de segurança e _habeas data_ que tramitem sob o rito dos juizados especiais da Fazenda Pública e cuja autoridade coatora seja agente público em atuação na pasta, bem como orientar o cumprimento das decisões liminares proferidas nessas ações e interpor as medidas recursais cabíveis para a impugnação delas;~~
+
 ~~[\- Redação dada pelo Decreto nº 10.158, de 21-10-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106192/decreto-10158)~~
 
 ~~I – elaborar informações e/ou contestações em mandados de segurança e _habeas data_ cuja autoridade coatora seja agente público em atuação na pasta, bem como orientar o cumprimento das decisões liminares proferidas nessas ações e interpor as medidas recursais cabíveis para a impugnação delas;~~
 
-~~II – conduzir a representação das demandas judiciais, em todos os seus atos, as quais tramitem sob o rito dos juizados especiais da Fazenda Pública e sejam do interesse da Secretaria de Estado da Educação, além de conduzir os processos administrativos a elas relacionados;~~<br>
+~~II – conduzir a representação das demandas judiciais, em todos os seus atos, as quais tramitem sob o rito dos juizados especiais da Fazenda Pública e sejam do interesse da Secretaria de Estado da Educação, além de conduzir os processos administrativos a elas relacionados;~~
+
 ~~[\- Redação dada pelo Decreto nº 10.158, de 21-10-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106192/decreto-10158)~~
 
 ~~II – orientar o cumprimento de decisões de tutela provisória quando, intimado pessoalmente, o agente público encarregado de fazê– lo seja integrante da estrutura da Secretaria de Estado da Educação;~~
 
-~~III – orientar o cumprimento de decisões de tutela provisória oriundas dos processos que tramitem sob o rito dos juizados especiais da Fazenda Pública, quando o agente público encarregado de fazê– lo for integrante da estrutura da Secretaria de Estado da Educação;~~<br>
+~~III – orientar o cumprimento de decisões de tutela provisória oriundas dos processos que tramitem sob o rito dos juizados especiais da Fazenda Pública, quando o agente público encarregado de fazê– lo for integrante da estrutura da Secretaria de Estado da Educação;~~
+
 ~~[\- Redação dada pelo Decreto nº 10.158, de 21-10-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106192/decreto-10158)~~
 
-~~III – conduzir a representação das demandas judiciais de interesse da Secretaria de Estado da Educação em todos os seus atos e os processos administrativos a elas relacionados;~~<br>
+~~III – conduzir a representação das demandas judiciais de interesse da Secretaria de Estado da Educação em todos os seus atos e os processos administrativos a elas relacionados;~~
+
 ~~\- [Redação dada pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081).~~
 
 ~~III – realizar a consultoria jurídica sobre matéria já assentada no âmbito da Procuradoria– Geral do Estado;~~
 
-~~IV – realizar a consultoria jurídica delegada pelo Procurador– Geral do Estado relativa às demandas da Secretaria de Estado da Educação;~~<br>
+~~IV – realizar a consultoria jurídica delegada pelo Procurador– Geral do Estado relativa às demandas da Secretaria de Estado da Educação;~~
+
 ~~\- [Revogado pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081), art. 4º, I.~~
 
 ~~V – adotar, em conjunto com as Procuradorias Especializadas, as medidas necessárias à otimização da representação judicial do Estado de Goiás em assuntos do interesse da pasta nos processos que seguirem o rito dos juizados especiais da Fazenda Pública; [\- Redação dada pelo Decreto nº 10.158, de 21-10-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106192/decreto-10158)~~
 
 ~~V – adotar, em coordenação com as procuradorias especializadas, as medidas necessárias para a otimização da representação judicial do Estado de Goiás em assuntos de interesse da pasta;~~
 
-~~VI – analisar, acompanhar e emitir parecer nos processos administrativos disciplinares e nas sindicâncias relacionados à pasta;~~<br>
+~~VI – analisar, acompanhar e emitir parecer nos processos administrativos disciplinares e nas sindicâncias relacionados à pasta;~~
+
 ~~\- [Revogado pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081), art. 4º, I.~~
 
-~~VII – responder e empreender diligências oriundas de órgãos externos, quais sejam, o Tribunal de Contas do Estado, o Ministério Público, a Controladoria– Geral do Estado, dentre outros; e~~<br>
+~~VII – responder e empreender diligências oriundas de órgãos externos, quais sejam, o Tribunal de Contas do Estado, o Ministério Público, a Controladoria– Geral do Estado, dentre outros; e~~
+
 ~~\- [Revogado pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081), art. 4º, I.~~
 
 ~~VIII – desempenhar outras atribuições correlatas e as que eventualmente lhe forem delegadas pelo Chefe da Procuradoria Setorial.~~
 
-~~Parágrafo único. Ficam excluídos das atribuições desta Gerência os processos que sejam de natureza criminal, tributária, financeira e trabalhista, mesmo que sigam o rito dos juizados especiais das matérias indicadas, bem como a condução das demandas que tramitem nos tribunais superiores.~~<br>
+~~Parágrafo único. Ficam excluídos das atribuições desta Gerência os processos que sejam de natureza criminal, tributária, financeira e trabalhista, mesmo que sigam o rito dos juizados especiais das matérias indicadas, bem como a condução das demandas que tramitem nos tribunais superiores.~~
+
 ~~[\- Acresicido pelo Decreto nº 10.158, de 21-10-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106192/decreto-10158)~~
 
 ~~Seção II~~
 
-~~Da Gerência do Contencioso Ordinário~~<br>
+~~Da Gerência do Contencioso Ordinário~~
+
 ~~[\- Redação dada Decreto nº 10.158, de 21-10-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106192/decreto-10158)~~
 
-~~Da Gerência Administrativa<br>
-\- [Redação dada pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081).<br>
+~~Da Gerência Administrativa
+
+\- [Redação dada pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081).
+
 Da Gerência de Acompanhamento dos Contratos Administrativos e Parcerias  úblicas~~
 
-~~Art. 10. Compete à Gerência do Contencioso Ordinário:~~<br>
+~~Art. 10. Compete à Gerência do Contencioso Ordinário:~~
+
 ~~[\- Redação dada Decreto nº 10.158, de 21-10-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106192/decreto-10158)~~
 
-~~Art. 10. Compete à Gerência Administrativa:~~<br>
+~~Art. 10. Compete à Gerência Administrativa:~~
+
 ~~\- [Redação dada pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081).~~
 
 ~~Art. 10. Compete à Gerência de Acompanhamento dos Contratos Administrativos e Parcerias Públicas:~~
 
-~~I – elaborar informações e/ou contestações em mandados de segurança e _habeas data_ referentes aos processos que tramitem sob o rito processual civil ordinário e cuja autoridade coatora seja agente público em atuação na pasta, bem como orientar o cumprimento das decisões liminares proferidas nessas ações e interpor as medidas recursais cabíveis para a impugnação delas;~~<br>
+~~I – elaborar informações e/ou contestações em mandados de segurança e _habeas data_ referentes aos processos que tramitem sob o rito processual civil ordinário e cuja autoridade coatora seja agente público em atuação na pasta, bem como orientar o cumprimento das decisões liminares proferidas nessas ações e interpor as medidas recursais cabíveis para a impugnação delas;~~
+
 ~~[\- Redação dada Decreto nº 10.158, de 21-10-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106192/decreto-10158)~~
 
-~~I – realizar a consultoria jurídica sobre matéria já firmada no âmbito da Procuradoria– Geral do Estado;~~<br>
+~~I – realizar a consultoria jurídica sobre matéria já firmada no âmbito da Procuradoria– Geral do Estado;~~
+
 ~~\- [Redação dada pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081).~~
 
 ~~I – analisar os editais de licitação, os procedimentos de dispensa/inexigibilidade de licitação, bem como as minutas de contratos, convênios e ajustes de qualquer natureza;~~
 
-~~II – conduzir a representação das demandas judiciais, em todos os seus atos, as quais tramitem sob o rito processual civil ordinário, de interesse da Secretaria de Estado da Educação, além de conduzir os processos administrativos a elas relacionados;~~<br>
+~~II – conduzir a representação das demandas judiciais, em todos os seus atos, as quais tramitem sob o rito processual civil ordinário, de interesse da Secretaria de Estado da Educação, além de conduzir os processos administrativos a elas relacionados;~~
+
 ~~[\- Redação dada Decreto nº 10.158, de 21-10-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106192/decreto-10158)~~
 
-~~II – realizar a consultoria jurídica delegada pelo Procurador– Geral do Estado relativa às demandas da Secretaria de Estado da Educação;~~<br>
+~~II – realizar a consultoria jurídica delegada pelo Procurador– Geral do Estado relativa às demandas da Secretaria de Estado da Educação;~~
+
 ~~\- [Redação dada pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081).~~
 
 ~~II – elaborar pareceres e despachos em processos remetidos à Procuradoria Setorial os quais tratem de contratos, convênios e ajustes de qualquer natureza;~~
 
-~~III – orientar o cumprimento das decisões liminares oriundas dos processos que tramitem sob o rito processual civil ordinário, quando o agente público encarregado de fazê– lo for integrante da estrutura da Secretaria de Estado da Educação;~~<br>
+~~III – orientar o cumprimento das decisões liminares oriundas dos processos que tramitem sob o rito processual civil ordinário, quando o agente público encarregado de fazê– lo for integrante da estrutura da Secretaria de Estado da Educação;~~
+
 ~~[\- Redação dada Decreto nº 10.158, de 21-10-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106192/decreto-10158)~~
 
-~~III – analisar, acompanhar e emitir parecer nos processos administrativos disciplinares e nas sindicâncias relacionados à pasta;~~<br>
+~~III – analisar, acompanhar e emitir parecer nos processos administrativos disciplinares e nas sindicâncias relacionados à pasta;~~
+
 ~~\- [Redação dada pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081).~~
 
 ~~III – responder consultas que tratem de contratos administrativos, convênios, ajustes, licitações e matérias correlatas;~~
 
-~~IV – adotar, em coordenação com as Procuradorias Especializadas, as medidas necessárias à otimização da representação judicial do Estado de Goiás em assuntos do interesse da pasta nos processos que tramitem sob o rito processual civil ordinário;~~<br>
+~~IV – adotar, em coordenação com as Procuradorias Especializadas, as medidas necessárias à otimização da representação judicial do Estado de Goiás em assuntos do interesse da pasta nos processos que tramitem sob o rito processual civil ordinário;~~
+
 ~~[\- Redação dada Decreto nº 10.158, de 21-10-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106192/decreto-10158)~~
 
-~~IV – responder e empreender diligências oriundas de órgãos externos, quais sejam, o Tribunal de Contas do Estado, o Ministério Público, a Controladoria– Geral do Estado, dentre outros;~~<br>
+~~IV – responder e empreender diligências oriundas de órgãos externos, quais sejam, o Tribunal de Contas do Estado, o Ministério Público, a Controladoria– Geral do Estado, dentre outros;~~
+
 ~~\- [Redação dada pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081).~~
 
 ~~IV – analisar processos de cessão de uso de bens móveis ou imóveis, além de outros instrumentos de fruição de bens por terceiros;~~
 
-~~V – participar de reuniões internas ou externas relacionadas às suas competências; e~~<br>
-~~[\- Revogado pelo Decreto nº 10.158, de 21-10-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106192/decreto-10158), art. 4º.~~<br>
+~~V – participar de reuniões internas ou externas relacionadas às suas competências; e~~
+
+~~[\- Revogado pelo Decreto nº 10.158, de 21-10-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106192/decreto-10158), art. 4º.~~
+
 ~~\- [Redação dada pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081).~~
 
 ~~V – analisar, sempre que necessário e sem prejuízo da competência estipulada no art. 23 da Lei Complementar estadual nº 58, de 4 julho de 2006, processos que versem sobre os direitos reais ou possessórios e o patrimônio imobiliário da SEDUC;~~
 
-~~VI – desempenhar outras atribuições correlatas e as que eventualmente lhe forem delegadas pelo Chefe da Procuradoria Setorial.~~<br>
+~~VI – desempenhar outras atribuições correlatas e as que eventualmente lhe forem delegadas pelo Chefe da Procuradoria Setorial.~~
+
 ~~\- [Redação dada pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081).~~
 
 ~~VI – analisar os procedimentos de qualiﬁcação de organização social, quando necessário, bem como a celebração de contrato de gestão com ela;~~
 
-~~VII – participar de reuniões internas ou externas relacionadas às competências dessa gerência; e~~<br>
+~~VII – participar de reuniões internas ou externas relacionadas às competências dessa gerência; e~~
+
 ~~\- [Revogado pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081), art. 4º, II.~~
 
-~~VIII – realizar outras atividades jurídicas correlatas com a atuação da gerência.~~<br>
+~~VIII – realizar outras atividades jurídicas correlatas com a atuação da gerência.~~
+
 ~~\- [Revogado pelo Decreto nº 10.081, de 04-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105431/decreto-10081), art. 4º, II.~~
 
-~~Parágrafo único. Ficam excluídos das atribuições desta Gerência os processos que sejam de natureza criminal, tributária, financeira e trabalhista, mesmo que sigam o rito processual ordinário das matérias indicadas, bem como a condução das demandas que tramitem nos tribunais superiores.~~<br>
+~~Parágrafo único. Ficam excluídos das atribuições desta Gerência os processos que sejam de natureza criminal, tributária, financeira e trabalhista, mesmo que sigam o rito processual ordinário das matérias indicadas, bem como a condução das demandas que tramitem nos tribunais superiores.~~
+
 ~~[\- Acrescido pelo Decreto nº 10.158, de 21-10-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106192/decreto-10158)~~
 
 ~~CAPÍTULO V~~

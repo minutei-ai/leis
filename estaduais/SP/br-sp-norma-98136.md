@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=98136)
-
 # LEI COMPLEMENTAR Nº 1.049, DE 19 DE JUNHO DE 2008
 
 ### _Dispõe sobre medidas de incentivo à inovação tecnológica, à pesquisa científica e tecnológica, ao desenvolvimento tecnológico, à engenharia não-rotineira e à extensão tecnológica em ambiente produtivo, no Estado de São Paulo, e dá outras providências correlatas_
@@ -8,7 +6,8 @@ O VICE-GOVERNADOR, EM EXERCÍCIO NO CARGO DE GOVERNADOR DO ESTADO DE SÃO PAULO:
 
 Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei complementar:
 
-#### **Capítulo I<br>
+#### **Capítulo I
+
 Das Disposições Preliminares**
 
 **Artigo 1º** - Esta lei complementar estabelece medidas de incentivo à inovação tecnológica, à pesquisa científica e tecnológica, ao desenvolvimento tecnológico, à engenharia não-rotineira, à informação tecnológica e à extensão tecnológica em ambiente produtivo ou social, visando alcançar a capacitação e o desenvolvimento industrial e tecnológico internacionalmente competitivo do Estado de São Paulo, nos termos dos artigos 268 a 272 da Constituição do Estado, dos artigos 218 e 219 da Constituição da República, e das disposições da Lei Federal n.º 10.973, de 2 de dezembro de 2004.
@@ -51,7 +50,8 @@ Das Disposições Preliminares**
 
 **§2º -** Os investimentos feitos em aquisição de novos equipamentos e melhoria dos equipamentos existentes, bem como em melhoria e ampliação das instalações, reverterão ao patrimônio das ICTESPs.
 
-#### **Capítulo II<br>
+#### **Capítulo II
+
 Do Sistema Paulista de Inovação Tecnológica**
 
 **Artigo 5º** - Fica instituído o Sistema Paulista de Inovação Tecnológica, a ser regulamentado pelo Poder Executivo, com o objetivo de incentivar o desenvolvimento sustentável do Estado pela inovação tecnológica, estimulando projetos e programas especiais articulados com o setor público e privado.
@@ -72,7 +72,8 @@ Do Sistema Paulista de Inovação Tecnológica**
 
 **Artigo 6º** - O Estado apoiará a cooperação entre o Sistema Paulista de Inovação Tecnológica e instituições públicas de pesquisa e de inovação tecnológica da União e dos Municípios para atrair empresas que promovam inovação tecnológica, desenvolvimento científico e tecnológico, incubadoras, parques tecnológicos e outras entidades de pesquisa científica e tecnológica.
 
-#### **Capítulo III<br>
+#### **Capítulo III
+
 Do Estímulo à Participação das ICTESPs no Processo de Inovação Tecnológica**
 
 **Artigo 7º** - As ICTESPs poderão desenvolver projetos de inovação tecnológica em conjunto com instituições públicas e privadas dos diversos segmentos do setor produtivo e da sociedade civil voltados à inovação tecnológica e ao desenvolvimento científico e tecnológico.
@@ -115,7 +116,8 @@ Do Estímulo à Participação das ICTESPs no Processo de Inovação Tecnológic
 
 **§3º** - As informações prestadas nos termos do "caput" deste artigo deverão ser encaminhadas pelo CONCITE, em prazo não superior a 30 dias após seu recebimento, à Comissão de Cultura, Ciência e Tecnologia da Assembléia Legislativa do Estado.
 
-#### **Capítulo IV<br>
+#### **Capítulo IV
+
 Do Estímulo à Participação do Pesquisador Público no Processo de Inovação Tecnológica**
 
 **Artigo 11** - Ao pesquisador público ou aluno devidamente inscrito no programa de pós-graduação de ICTESP, que seja criador, é assegurada, a título de incentivo, participação nos ganhos econômicos auferidos, resultantes da exploração de criação protegida da qual tenha sido o inventor, obtentor ou autor, aplicando-se, no que couber, o disposto no parágrafo único do artigo 93 da Lei Federal n.º 9.279, de 14 de maio de 1996.
@@ -136,7 +138,8 @@ Do Estímulo à Participação do Pesquisador Público no Processo de Inovação
 
 **Artigo 14** - Ao pesquisador público, por interesse de ICTESP, é permitida a prestação de consultoria técnico-científica aos setores da produção, desde que em atividade compatível com a natureza do cargo efetivo ou emprego público por ele exercido na instituição de origem, e em conformidade com os estatutos e regulamentos da instituição.
 
-#### **Capítulo V<br>
+#### **Capítulo V
+
 Do Estímulo à Participação do Inventor Independente no Processo de Inovação Tecnológica**
 
 **Artigo 15** - Aos inventores independentes que comprovem depósito de pedido de patente ou pedido de registro de criação de sua autoria é facultado solicitar a adoção da criação por ICTESP, que decidirá quanto à conveniência e oportunidade da solicitação, visando à elaboração de projeto para seu futuro desenvolvimento, incubação, industrialização e utilização pelo setor produtivo.
@@ -153,7 +156,8 @@ Do Estímulo à Participação do Inventor Independente no Processo de Inovaçã
 
 **Artigo 17** - Fica instituído o "Prêmio Governo do Estado - Ciência e Tecnologia", que poderá ser outorgado, anualmente, pelo Governador, a trabalhos realizados no âmbito estadual, em reconhecimento a pessoas, empresas e entidades que se destacarem, na forma a ser disciplinada por decreto.
 
-#### **Capítulo VI**<br>
+#### **Capítulo VI**
+
 **Do Estímulo à Participação de Empresas no Processo de Inovação Tecnológica**
 
 **Artigo 18** - O Estado, por meio de seus órgãos da administração pública direta ou indireta, incentivará a participação de empresas, grupos de empresa, cooperativas, arranjos produtivos e outras formas de produção no processo de inovação tecnológica, mediante o compartilhamento de recursos humanos, materiais e de infra-estrutura ou a concessão de apoio financeiro, a serem ajustados em acordos específicos.
@@ -166,7 +170,8 @@ Do Estímulo à Participação do Inventor Independente no Processo de Inovaçã
 
 **Artigo 20** - Os órgãos e entidades da administração pública estadual, em matéria de interesse público, poderão contratar empresas ou consórcios de empresas, assim como entidades nacionais de direito privado sem fins lucrativos voltadas para atividades de pesquisa, que apresentem reconhecida capacitação tecnológica no setor, para a realização de atividades de pesquisa e desenvolvimento científico e tecnológico, para a solução de problema técnico específico ou obtenção de produto ou processo inovador, observadas as formalidades legais.
 
-#### **Capítulo VII<br>
+#### **Capítulo VII
+
 Da Participação do Estado em Empresas de Inovação Tecnológica**
 
 **Artigo 21** - O Estado, suas autarquias, fundações e empresas por ele controladas, direta ou indiretamente, poderão participar do capital social de sociedade de propósito específico, visando ao desenvolvimento de projetos científicos ou tecnológicos para a obtenção de produto ou processo inovador de interesse econômico ou social.
@@ -175,14 +180,16 @@ Da Participação do Estado em Empresas de Inovação Tecnológica**
 
 **Artigo 22** - O Estado, suas autarquias, fundações e empresas por ele controladas, direta ou indiretamente, poderão participar de sociedades cuja finalidade seja aportar capital ("seed capital") em empresas que explorem criação desenvolvida no âmbito de ICTESP ou cuja finalidade seja aportar capital na própria ICTESP.
 
-#### **Capítulo VIII<br>
+#### **Capítulo VIII
+
 Da Participação do Estado em Fundos de Investimento**
 
 **Artigo 23** - O Estado, suas autarquias, fundações e as empresas por ele controladas, direta ou indiretamente, poderão participar, na qualidade de cotistas, de fundos mútuos de investimento com registro na Comissão de Valores Mobiliários - CVM, destinados à aplicação em carteira diversificada de valores mobiliários de emissão de empresas cuja atividade principal seja a inovação tecnológica, conforme regulamentação e nos termos da legislação federal vigente.
 
 **Parágrafo único** - A participação de que trata o "caput" deste artigo deverá observar as condições e os limites de utilização dos recursos públicos previstos na legislação federal pertinente e nas normas complementares editadas pela Comissão de Valores Mobiliários sobre a constituição, o funcionamento e administração dos fundos.
 
-#### **Capítulo IX<br>
+#### **Capítulo IX
+
 Dos Parques Tecnológicos e Incubadoras de Empresa de Base Tecnológica**
 
 **Artigo 24** - O Estado manterá o Sistema Paulista de Parques Tecnológicos, e a Rede Paulista de Incubadoras de Empresas de Base Tecnológica, como parte de sua estratégia para incentivar os investimentos em inovação tecnológica, pesquisa científica e tecnológica, desenvolvimento tecnológico, engenharia não-rotineira, informação tecnológica e extensão tecnológica em ambiente produtivo que gerem novos negócios, trabalho e renda e ampliem a competitividade da economia paulista.
@@ -191,7 +198,8 @@ Dos Parques Tecnológicos e Incubadoras de Empresa de Base Tecnológica**
 
 **Artigo 25** - O Estado, suas autarquias, fundações e empresas por ele controladas, direta ou indiretamente, poderão participar do capital social de sociedade ou associar-se a pessoa jurídica caracterizada como parque tecnológico, como incubadora de empresas de base tecnológica, e arranjos produtivos pertencentes ao Sistema Paulista de Parques Tecnológicos, e a Rede Paulista de Incubadoras de Empresas de Base Tecnológica de que trata o artigo 24.
 
-#### **Capítulo X<br>
+#### **Capítulo X
+
 Das Disposições Finais**
 
 **Artigo 26** - O Instituto de Pesquisas Tecnológicas do Estado de São Paulo S.A. - IPT e o Instituto de Pesquisas Energéticas e Nucleares - IPEN, na consecução de seus objetivos institucionais e nos termos dos artigos 21 e 25, ficam autorizados a constituir subsidiárias, as quais poderão associar-se, majoritária ou minoritariamente, a outras empresas.

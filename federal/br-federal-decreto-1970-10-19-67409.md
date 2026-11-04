@@ -1,5 +1,3 @@
-###DEC-067409-0-000-19-10-1970@@@
-
 Decreto Nº 67.409, de 19 de outubro de 1970.
 
 Declara caduco o Decreto número 10.107, de 30 de julho de 1942.

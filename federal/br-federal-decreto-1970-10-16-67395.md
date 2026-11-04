@@ -1,5 +1,3 @@
-###DEC-067395-0-000-16-10-1970@@@
-
 DECRETO Nº 67.395, DE 16 DE OUTUBRO DE 1970.
 
 Restringe a zona de exploração de energia elétrica da Companhia Fôrça e Luz Aiuruoca e outorga concessão ao Consórcio de Eletricidade Serranos - Seritinga para produzir, transmitir e distribuir energia elétrica nos municípios de Serranos e Seritinga, Estado de Minas Gerais.

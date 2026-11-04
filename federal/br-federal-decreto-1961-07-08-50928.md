@@ -1,5 +1,3 @@
-###DEC-050928-0-000-08-07-1961@@@
-
 DECRETO Nº 50.928, DE 8 DE julho DE 1961.
 
 Isenta da taxa de previdência as passagens aéreas internacionais.

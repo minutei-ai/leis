@@ -1,7 +1,3 @@
-1
-
-###MPV-001136-0-000-26-09-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.136, DE 26 DE SETEMBRO DE 1995.
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

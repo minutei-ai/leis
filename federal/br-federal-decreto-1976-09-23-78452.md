@@ -1,5 +1,3 @@
-###DEC-078452-0-000-23-09-1976@@@
-
 DECRETO Nº 78.452, DE 23 DE SETEMBRO DE 1976.
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - D.N.O.C.S. - área de terra necessária à construção da barragem Cruzeiro, e implantação do Projeto de Irrigação do "Vale do Itapicuru", nos Municípios de Araci, Tucano, Quijingue, Cansanção, Queimadas e Santa Luz, Estado da Bahia.

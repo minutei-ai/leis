@@ -1,5 +1,3 @@
-###DEC-072029-0-000-29-03-1973@@@
-
 Decreto nº 72.029, de 29 de março de 1973.
 
 Concede à Companhia de Cimento Portland Gaúcho o direito de lavrar Calcário no Município de Pinheiro Machado, Estado do Rio Grande do Sul.

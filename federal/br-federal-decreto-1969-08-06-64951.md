@@ -1,5 +1,3 @@
-###DEC-064951-0-000-06-08-1969@@@
-
 DECRETO nº 64.951 - DE 6 DE AGÔSTO DE 1969.
 
 Cria Organizações Militares na 12a Região Militar e Comando Militar da Amazônia e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-064133-0-000-25-02-1969@@@
-
 DECRETO Nº 64.133, DE 25 DE FEVEREIRO DE 1969.
 
 Autoriza a cessão de Estabelecimentos de Ensino Agrícola ao Govêrno do Estado da Bahia.

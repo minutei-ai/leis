@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/f606e96a-26ce-4f0d-a3ed-4bb5c963a81b/texto#nowhere)
 
-###DEL-000421-0-000-16-01-1969@@@
-
 DECRETO-LEI Nº 421, DE 16 DE JANEIRO DE 1969
 
 Autoriza a Comissão do Plano do Carvão Nacional a doar o Ambulatório de Figueira à Prefeitura Municipal de Curiuvá, e dá outras providências.

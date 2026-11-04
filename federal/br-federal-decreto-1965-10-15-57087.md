@@ -1,5 +1,3 @@
-###DEC-057087-0-000-15-10-1965@@@
-
 Decreto nº 57.087, de 15 de outubro de 1965.
 
 Autoriza o cidadão brasileiro Flodoaldo Pontes Pinto a pesquisar cassiterita, no município de Porto Velho, no território Federal de Rondônia.

@@ -1,5 +1,3 @@
-###DEC-065137-0-000-11-09-1969@@@
-
 DECRETO Nº 65.137 - DE 11 DE SETEMBRO DE 1969.
 
 Altera a denominação de funções gratificadas do Conselho Nacional de Trânsito.

@@ -1,14 +1,12 @@
-###DEC-053960-0-000-09-06-1964@@@
+**DECRETO Nº 53.960, DE 9 DE JUNHO DE 1964.**
 
-<strong>DECRETO Nº 53.960, DE 9 DE JUNHO DE 1964.</strong>
+***Retifica disposições do Decreto número 52.473, de 13 de setembro de 1963 e estabelece novas normas para sua execução.***
 
-<em><strong>Retifica disposições do Decreto número 52.473, de 13 de setembro de 1963 e estabelece novas normas para sua execução.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o Artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o Artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica aprovado o Plano Preferencial de Obras Rodoviárias abaixo especificado:
+**Art**. 1º Fica aprovado o Plano Preferencial de Obras Rodoviárias abaixo especificado:
 
 I - BR-2
 
@@ -278,7 +276,7 @@ b) Calatão-Cristalina
 
 Conclusão da implantação.
 
-<strong>Art</strong>. 2º Os trechos rodoviários acima especificados, deverão ter seus serviços executados em programas anuais, segundo ordem de urgência proposta pelo CRN, dentro de 30 dias, para aprovação pelo Ministro de Estado.
+**Art**. 2º Os trechos rodoviários acima especificados, deverão ter seus serviços executados em programas anuais, segundo ordem de urgência proposta pelo CRN, dentro de 30 dias, para aprovação pelo Ministro de Estado.
 
 § 1º Nêles serão aplicadas, integralmente, as dotações orçamentárias concedidas, além de recursos substanciais provenientes do Fundo Rodoviário Nacional e de Créditos Adicionais, compatíveis com a prioridade e a urgência que lhes forem conferidas.
 
@@ -288,12 +286,12 @@ Conclusão da implantação.
 
 § 4º Os empreendimentos rodoviários especificados no presente Plano Preferencial, não terão suas dotações orçamentárias incluídas em qualquer Plano de Contenção de Despesas.
 
-<strong>Art</strong>. 3º A adjudicação de serviços e obras para execução dos trechos acima considerados, quando em casos justificados fôr dispensada a concorrência pública, será, obrigatòriamente efetuada por concorrência administrativa ou coleta de preços entre firmas registradas no DNER, segundo normas aprovadas pelo CRN e homologadas pelo Ministro de Estado, tomando-se por base as Tabelas de preços unitários em vigor, obedecidas as demais normas legais administrativas vigentes.
+**Art**. 3º A adjudicação de serviços e obras para execução dos trechos acima considerados, quando em casos justificados fôr dispensada a concorrência pública, será, obrigatòriamente efetuada por concorrência administrativa ou coleta de preços entre firmas registradas no DNER, segundo normas aprovadas pelo CRN e homologadas pelo Ministro de Estado, tomando-se por base as Tabelas de preços unitários em vigor, obedecidas as demais normas legais administrativas vigentes.
 
-<strong>Art</strong>. 4º Êste decreto entrará em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
+**Art**. 4º Êste decreto entrará em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
 
 Brasília, 9 de junho de 1964; 143º da Independência e 76º da República.
 
-<strong>H. CASTELLO BRANCO</strong>
+**H. CASTELLO BRANCO**
 
 Juarez Távora

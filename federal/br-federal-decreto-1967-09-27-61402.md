@@ -1,5 +1,3 @@
-###DEC-061402-0-000-27-09-1967@@@
-
 Decreto nº 61.402, de 27 de setembro de 1967.
 
 Concede à sociedade The Sydney Ross Co. autorização para continuar a funcionar na República do Brasil.

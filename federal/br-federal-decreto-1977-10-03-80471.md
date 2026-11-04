@@ -1,5 +1,3 @@
-###DEC-080471-0-000-03-10-1977@@@
-
 DECRETO Nº 80.471, DE 3 DE OUTUBRO DE 1977.
 
 Concede à Pedreiras Valéria S.A. o direito de lavrar granulitos e gnaisses no Município de Salvador, Estado da Bahia

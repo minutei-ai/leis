@@ -1,5 +1,3 @@
-###DEC-080803-0-000-23-11-1977@@@
-
 Decreto nº 80.803, de 23 de novembro de 1977.
 
 Altera o artigo 7º dos Estatutos da Empresa Brasileira de Assistência Técnica e Extensão Rural - EMBRATER, aprovados pelo Decreto nº 75.373, de 14 de fevereiro de 1975.

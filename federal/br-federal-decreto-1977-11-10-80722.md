@@ -1,5 +1,3 @@
-###DEC-080722-0-000-10-11-1977@@@
-
 Decreto nº 80.722, de 10 de novembro de 1977.
 
 Altera dispositivos do Decreto nº 75.911, de 26 de junho de 1975, que fixa a lotação dos Adidos Militares junto às representações diplomáticas no exterior e dá outras providências.

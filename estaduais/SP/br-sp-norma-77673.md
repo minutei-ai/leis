@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/77673)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2008/compilacao-lei-13035-29.05.2008.html)
 
 # LEI N° 13.035, DE 29 DE MAIO DE 2008

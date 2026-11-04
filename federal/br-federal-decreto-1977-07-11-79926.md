@@ -1,5 +1,3 @@
-###DEC-079926-0-000-11-07-1977@@@
-
 decreto nº 79.926, de 11 de julho de 1977
 
 Concede à Mineração Condado Ltda. o direito de lavrar turmalina, lepidolita e mica no Município de Quixeramobim, Estado do Ceará.

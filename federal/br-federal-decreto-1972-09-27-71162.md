@@ -1,5 +1,3 @@
-###DEC-071162-0-000-27-09-1972@@@
-
 DECRETO Nº 71.162, DE 27 DE SETEMBRO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Educação e Estudos Sociais Dom Domênico - Guarujá - SP.

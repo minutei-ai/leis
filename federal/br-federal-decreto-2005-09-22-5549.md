@@ -1,5 +1,3 @@
-###DEC-005549-0-000-22-09-2005@@@
-
 DECRETO Nº 5.549, DE 22 DE SETEMBRO DE 2005
 
 Dá nova redação e revoga dispositivos do Decreto n o 4.074, de 4 de janeiro de 2002, que regulamenta a Lei n o 7.802, de 11 de julho de 1989, que dispõe sobre a pesquisa, a experimentação, a produção, a embalagem e rotulagem, o transporte, o armazenamento, a comercialização, a propaganda comercial, a utilização, a importação, a exportação, o destino final dos resíduos e embalagens, o registro, a classificação, o controle, a inspeção e a fiscalização de agrotóxicos, seus componentes e afins.

@@ -1,5 +1,3 @@
-###DEC-004363-0-000-06-09-2002@@@
-
 DECRETO Nº 4.363, DE 6 DE SETEMBRO DE 2002
 
 Regulamenta a Lei nº 10.420, de 10 abril de 2002, que cria o Seguro-Safra, institui o Comitê Gestor do Fundo Seguro-Safra, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-003142-0-000-16-08-1999@@@
-
 DECRETO Nº 3.142, DE 16 DE AGOSTO DE 1999.
 
 Regulamenta a contribuição social do salário-educação, prevista no art. 212, § 5º, da Constituição, no art. 15 da Lei nº 9.424, de 24 de dezembro de 1996, e na Lei nº 9.766, de 18 de dezembro de 1998, e dá outras providências.

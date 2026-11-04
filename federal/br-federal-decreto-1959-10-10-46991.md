@@ -1,5 +1,3 @@
-###DEC-046991-0-000-10-10-1959@@@
-
 DECRETO Nº 46.991, DE 10 DE OUTUBRO DE 1959.
 
 Declara de utilidade pública a Associação União Geral dos Cegos, com sede no Distrito Federal.

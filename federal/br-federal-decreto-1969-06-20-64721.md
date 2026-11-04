@@ -1,5 +1,3 @@
-###DEC-064721-0-000-20-06-1969@@@
-
 DECRETO Nº 64.721, DE 20 de JUNHO DE 1969.
 
 Declara caduco o Decreto nº 8.910 de 3 de março de 1942.

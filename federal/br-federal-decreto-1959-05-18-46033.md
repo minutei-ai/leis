@@ -1,5 +1,3 @@
-###DEC-046033-0-000-18-05-1959@@@
-
 Decreto nº 46.033, de 18 de maio de 1959.
 
 Autoriza o cidadão brasileiro Renato de Araújo a pesquisar areias ilmeniticas no Município de Barreirinhas, Estado do Maranhão.

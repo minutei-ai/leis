@@ -1,5 +1,3 @@
-###DEC-091693-0-000-27-09-1985@@@
-
 DECRETO Nº 91.693, de 27 de setembro de 1985
 
 Autoriza o funcionamento do curso superior de Tecnologia em Processamento de Dados da Faculdade de Informática de Osasco.

@@ -1,5 +1,3 @@
-###DEC-070608-0-000-24-05-1972@@@
-
 DECRETO Nº 70.608, DE 24 DE MAIO DE 1972.
 
 Concede autorização à Geophysical Service Incorporated para operar em águas brasileiras com a embarcação M/V "Brazos", de bandeira norteamericana, nos serviços que especifica.

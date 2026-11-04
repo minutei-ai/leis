@@ -1,7 +1,3 @@
-1
-
-###DEC-095838-0-000-17-03-1988@@@
-
 DECRETO N° 95.838, DE 17 DE MARÇO DE 1988
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados do Instituto de Ensino Superior Santo André, São Paulo.

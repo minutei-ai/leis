@@ -1,5 +1,3 @@
-###MPV-001924-0-000-07-10-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.924, DE 7 DE OUTUBRO DE 1999.
 
 Altera a legislação tributária federal e dá outras providências.

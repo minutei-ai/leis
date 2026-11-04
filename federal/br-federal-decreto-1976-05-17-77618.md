@@ -1,5 +1,3 @@
-###DEC-077618-0-000-17-05-1976@@@
-
 Decreto nº 77.618, de 17 de maio de 1976
 
 Concede à Empresa de Mineração Las Vegas Ltda. o direito de lavrar água mineral no Município de São Fidélis, Estado do Rio de Janeiro.

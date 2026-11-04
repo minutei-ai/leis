@@ -1,5 +1,3 @@
-###DEL-007163-0-000-14-12-1944@@@
-
 DECRETO-LEI  N.  7.163 – DE 14 DE DEZEMBRO DE 1944
 
 Prorroga a vigência do crédito especial aberto pelo Decreto-lei n. 4.446, de 8 de julho de 1942

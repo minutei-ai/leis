@@ -1,5 +1,3 @@
-###DEC-088744-0-000-21-09-1983@@@
-
 Decreto nº 88.744, de 21 de setembro de 1983
 
 Cria, no Estado de Pernambuco, a Reserva Biológica de Saltinho e dá outras providências.

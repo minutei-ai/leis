@@ -1,5 +1,3 @@
-###DEC-086702-0-000-09-12-1981@@@
-
 Decreto nº 86.702, de 09 de dezembro de 1981
 
 Estabelece o limite do Capital Autorizado de Fertilizantes Fosfatados S.A. - FOSFÉRTIL.

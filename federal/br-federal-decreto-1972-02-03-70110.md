@@ -1,5 +1,3 @@
-###DEC-070110-0-000-03-02-1972@@@
-
 Decreto nº 70.110, de 3 de fevereiro de 1972.
 
 Redistribui cargo, com o respectivo ocupante, para o Ministério da Aeronáutica, e dá outras providências.

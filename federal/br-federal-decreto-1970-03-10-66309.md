@@ -1,5 +1,3 @@
-###DEC-066309-0-000-10-03-1970@@@
-
 DECRETO Nº 66.309 - DE 10 DE MARÇO DE 1970
 
 Autoriza o funcionamento de Curso de Ciências Contábeis da Faculdade de Ciências Econômicas de Colatina.

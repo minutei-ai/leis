@@ -1,7 +1,3 @@
-1
-
-###DEC-097820-0-000-07-06-1989@@@
-
 DECRETO N° 97.820, DE 07 DE JUNHO DE 1989
 
 Institui Comissão Interministerial para realizar estudos e apresentar sugestões sobre o exercício da atividade de garimpagem.

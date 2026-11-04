@@ -1,14 +1,12 @@
-###DEC-029126-0-000-12-01-1951@@@
+**DECRETO 29.126, DE 12 JANEIRO DE 1951.**
 
-<strong>DECRETO 29.126, DE 12 JANEIRO DE 1951.</strong>
+***Fixa os preços básicos mínimos para o financiamento ou aquisição de cereais e outros gêneros de primeira necessidade, de produção nacional, para o ano de 1951.***
 
-<em><strong>Fixa os preços básicos mínimos para o financiamento ou aquisição de cereais e outros gêneros de primeira necessidade, de produção nacional, para o ano de 1951.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, número I, da Constituição, e tendo em vista o disposto no artigo 1º, § 2º da Lei nº 615, de 2 de fevereiro de 1949,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, número I, da Constituição, e tendo em vista o disposto no artigo 1º, § 2º da Lei nº 615, de 2 de fevereiro de 1949,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º. As bases, a vigorar no ano de 1951, dos preços da FOB, portos do país e as especificações dos cereais e outros gêneros mencionados no art. 2º do Decreto-lei nº 9.879, de 16 de setembro de 1946, são as abaixo discriminadas:
+**Art**. 1º. As bases, a vigorar no ano de 1951, dos preços da FOB, portos do país e as especificações dos cereais e outros gêneros mencionados no art. 2º do Decreto-lei nº 9.879, de 16 de setembro de 1946, são as abaixo discriminadas:
 
 Arroz
 
@@ -38,10 +36,10 @@ Trigo em grão
 
 Dois cruzeiros e cinqüenta centavos (Cr$2,50) por quilo para o produto limpo, sêco, ensacado e com pêso de setenta e oito (78) quilos por hectolitro.
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 12 de janeiro de 1951; 130º da Independência e 63º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Guilherme da Silveira

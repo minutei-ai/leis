@@ -1,5 +1,3 @@
-###DEC-061434-0-000-03-10-1967@@@
-
 DECRETO Nº 61.434, DE 3 DE OUTUBRO DE 1967.
 
 Autoriza estrangeiros a adquirirem, em transferência de aforamento, o domínio útil da fração ideal do terreno de marinha que menciona, no Estado da Guanabara.

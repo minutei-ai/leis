@@ -1,5 +1,3 @@
-###DEC-000000-0-000-20-11-1823@@@
-
 DECRETO - DE 20 DE NOVEMBRO DE 1823
 
 Suspende a execução do Decreto de 14 de Janeiro deste anno que concedeu os foros de cidadãos brazileiros aos portuguezes que vierem residir no Imperio.

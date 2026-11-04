@@ -1,5 +1,3 @@
-###DEC-077493-0-000-27-04-1976@@@
-
 DECRETO Nº 77.493 - DE 27 DE ABRIL DE 1976
 
 Concede autorização à S.A. Indústrias Reunidas F Matarazzo, sediada em São Paulo, no Estado de São Paulo, para funcionar aos domingos e feriados civis e religiosos, no setor industrial que menciona.

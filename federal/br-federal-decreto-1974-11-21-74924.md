@@ -1,5 +1,3 @@
-###DEC-074924-0-000-21-11-1974@@@
-
 DECRETO Nº 74.924, DE 21 DE NOVEMBRO DE 1974.
 
 Estabelece os aeroportos internacionais do Brasil e dá outras providências.

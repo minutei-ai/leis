@@ -1,7 +1,3 @@
-1
-
-###DEC-097868-0-000-23-06-1989@@@
-
 DECRETO Nº 97.868, DE 23 DE JUNHO DE 1989
 
 Declara de interesse social para fins de reforma agrária, o imóvel rural denominado “FAZENDA CAJUEIRO”, classificado como “latifúndio por exploração”, situado no Município de Nova Soure, no Estado da Bahia, compreendido na zona prioritária, fixada pelo Decreto nº 92.689, de 19 de maio de 1986, e dá outras providencias.

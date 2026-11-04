@@ -1,5 +1,3 @@
-###DEC-054256-0-000-04-09-1964@@@
-
 DECRETO Nº 54.256, DE 04 DE SETEMBRO DE 1964.
 
 Concede à IBACIP - Indústria Barbalhense de Cimento Portland S.A. autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-080655-0-000-01-11-1977@@@
-
 DECRETO Nº 80.655, DE 01 DE novembro DE 1977
 
 Concede à Céramus Bahia S/A - Produtos Cerâmicos o direito de lavrar argila no Município de Camaçari, Estado da Bahia.

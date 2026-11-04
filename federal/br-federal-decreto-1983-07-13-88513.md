@@ -1,5 +1,3 @@
-###DEC-088513-0-000-13-07-1983@@@
-
 Decreto nº 88.513, de 13 de julho de 1983
 
 Dispõe sobre o Regulamento de Continências, Honras, Sinais de Respeito e Cerimonial Militar das Forças Armadas, e dá outras providências.

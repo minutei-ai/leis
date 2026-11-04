@@ -1,5 +1,3 @@
-###MPV-001615-0-035-19-11-1998@@@
-
 MEDIDA PROViSÓRIA Nº 1.615-35, DE 19 DE NOVEMBRO DE 1998.
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional - NTN destinadas a aumento de capital do Banco do Brasil S.A., e dá outras providências.

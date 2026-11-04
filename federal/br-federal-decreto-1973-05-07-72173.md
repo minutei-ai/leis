@@ -1,5 +1,3 @@
-###DEC-072173-0-000-07-05-1973@@@
-
 DECRETO Nº 72.173, DE 7 DE MAIO DE 1973.
 
 Concede autorização à Geophysical Service Incorporated para operar no mar territorial do Brasil, fixado pelo Decreto-Lei nº 1.098, de 25 de março de 1970, com a embarcação M/V "Bravos", de bandeira norte-americana, a serviço da Petróleo Brasileiro S. A. - PETROBRÁS.

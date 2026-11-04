@@ -1,5 +1,3 @@
-###DEC-069269-0-000-23-09-1971@@@
-
 Decreto Nº 69.269, DE 23 DE setembro DE 1971.
 
 Concede autorização à Insurance Company of North America para aumentar o capital de suas operações no Brasil.

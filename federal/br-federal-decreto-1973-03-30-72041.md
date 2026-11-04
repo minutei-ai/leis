@@ -1,5 +1,3 @@
-###DEC-072041-0-000-30-03-1973@@@
-
 DECRETO Nº 72.041, DE 30 DE MARÇO DE 1973.
 
 Conceitua a situação em que deve ser agregado o militar no exercício de cargo militar e dá outras providências.

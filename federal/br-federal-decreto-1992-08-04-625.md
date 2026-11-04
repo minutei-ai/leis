@@ -1,7 +1,3 @@
-1
-
-###DEC-000625-0-000-04-08-1992@@@
-
 DECRETO Nº 625, DE 4 DE AGOSTO DE 1992
 
 Dispõe sobre a distribuição das Funções Gratificadas pertencentes ao Plano Único de Classificação e Retribuição de Cargos e Empregos, dos Estabelecimentos de Ensino do Ministério da Aeronáutica, e dá outras providências.

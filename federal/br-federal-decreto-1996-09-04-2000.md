@@ -1,7 +1,3 @@
-1
-
-###DEC-002000-0-000-04-09-1996@@@
-
 DECRETO N° 2.000, DE 4 DE SETEMBRO DE 1996.
 
 Institui a hora de verão, em parte do Território Nacional, no período que indica.

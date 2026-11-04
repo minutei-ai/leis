@@ -1,5 +1,3 @@
-###DEC-073056-0-000-31-10-1973@@@
-
 DECRETO Nº 73.056, DE 31 DE OUTUBRO DE 1973.
 
 Transfere da Companhia Paulista de Força e Luz para Furnas - Centrais Elétricas S.A., concessão para o aproveitamento progressivo da energia hidráulica de um trecho do rio Grande, no Estado de Minas Gerais.

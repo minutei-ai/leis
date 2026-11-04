@@ -1,5 +1,3 @@
-###LEI-000000-0-000-24-09-1829@@@
-
 LEI - DE 24 DE SETEMBRO DE 1829
 
 Sobre os vencimentos dos Majores e Ajudantes de 2ª linha sahidos da 1ª antes do Decreto de 3 de Dezembro de 1822 e Tenentes-Coroneis e Coroneis que serviram aquelles postos.

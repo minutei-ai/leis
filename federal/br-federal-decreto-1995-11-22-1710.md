@@ -1,7 +1,3 @@
-1
-
-###DEC-001710-0-000-22-11-1995@@@
-
 DECRETO N° 1.710, DE 22 DE NOVEMBRO DE 1995.
 
 Promulga o Acordo, por troca de Notas, sobre o Exercício de Atividadess Remuneradas por Parte de Dependente do Pessoal Diplomático, Consular, Administrativo e Técnico, entre o Governo da República Federativa do Brasil e o Governo da Austrália, de 22 de agosto de 1994.
@@ -52,7 +48,8 @@ b) em que a segurança nacional possa ser afetada.
 
 2 – Para fins deste Acordo:
 
-(i)”membro de Missão diplomática ou de Repartição consular” é qualquer funcionário do<br>
+(i)”membro de Missão diplomática ou de Repartição consular” é qualquer funcionário do
+
 Estado acreditante (que não seja nacional ou residente permanente do Estado acreditado) em uma Missão diplomática, Repartição consular ou Representação junto a Organismo Internacional;
 
 (ii) “membro da família” é a pessoa que o Estado acreditado credenciou como tal e que viva oficialmente em companhia de um membro de uma Missão diplomática ou Repartição consular.

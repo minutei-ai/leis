@@ -1,5 +1,3 @@
-###DEC-059916-0-000-30-12-1966@@@
-
 Decreto nº 59.916, de 30 de dezembro de 1966.
 
 Regulamenta dispositivo do Decreto-lei nº 49, de 18 de novembro de 1966.

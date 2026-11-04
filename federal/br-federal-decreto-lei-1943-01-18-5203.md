@@ -1,5 +1,3 @@
-###DEL-005203-0-000-18-01-1943@@@
-
 DECRETO‑LEI N. 5.203 – DE 18 DE JANEIRO DE 1943
 
  Suprime cargo

@@ -1,14 +1,12 @@
-###LEI-000204-0-000-31-12-1947@@@
+**LEI N. 204 – DE 31 DE DEZEMBRO DE 1947**
 
-<strong>LEI N. 204 – DE 31 DE DEZEMBRO DE 1947</strong>
-
-<em><strong>Autoriza a abertura, pelo Ministério da Guerra, do crédito suplementar de Cr$ 21.065.280,80 à verba que especifica</strong></em>
+***Autoriza a abertura, pelo Ministério da Guerra, do crédito suplementar de Cr$ 21.065.280,80 à verba que especifica***
 
 O Presidente da República:
 
 Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
 
-<strong>Art.</strong> 1º E’ o Poder Executivo autorizado a abrir pelo Ministério da Guerra, o crédito suplementar de vinte e um milhões e sessenta e cinco mil, duzentos e oitenta cruzeiros e oitenta centavos (Cr$ 21.065.280,80) em refôrço da Verba 1 – Pessoal, do Anexo nº 17 do vigente Orçamento Geral da República (Lei nº 3, de 2 de dezembro de 1946), a saber:
+**Art.** 1º E’ o Poder Executivo autorizado a abrir pelo Ministério da Guerra, o crédito suplementar de vinte e um milhões e sessenta e cinco mil, duzentos e oitenta cruzeiros e oitenta centavos (Cr$ 21.065.280,80) em refôrço da Verba 1 – Pessoal, do Anexo nº 17 do vigente Orçamento Geral da República (Lei nº 3, de 2 de dezembro de 1946), a saber:
 
                                             Cr$
 
@@ -32,17 +30,17 @@ Consignação VIII – Pensionistas.
 
 33 – Abono provisório e novas pensões.
 
-17 – Diretoria de Intendência ........................................................................................... <u>3.365.183,50</u>
+17 – Diretoria de Intendência ........................................................................................... 3.365.183,50
 
-Total .................................................................................................................. <u>21.065.280,80</u>
+Total .................................................................................................................. 21.065.280,80
 
-<strong>Art.</strong> 2º Esta Lei entrará em vigor na data de sua publicação.
+**Art.** 2º Esta Lei entrará em vigor na data de sua publicação.
 
-<strong>Art.</strong> 3º Revogam-se as disposições em contrário.
+**Art.** 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 31 de dezembro de 1947, 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Canrobert P. da Costa
 

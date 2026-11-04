@@ -1,5 +1,3 @@
-###DEC-089475-0-000-23-03-1984@@@
-
 DECRETO nº 89.475, de 23 de março de 1984
 
 Outorga concessão à RÁDIO ORIENTE DE REDENÇÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, com sede em Redenção, Município de Conceição do Araguaia, Estado do Pará.

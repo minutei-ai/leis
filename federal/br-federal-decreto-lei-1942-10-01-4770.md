@@ -1,5 +1,3 @@
-###DEL-004770-0-000-01-10-1942@@@
-
 DECRETO-LEI N. 4.770 – DE 1 DE OUTUBRO DE 1942
 
 Cria uma Companhia no Corpo de Bombeiros do Distrito Federal, e dá outras providências

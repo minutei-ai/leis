@@ -1,7 +1,3 @@
-1
-
-###DEC-097965-0-000-17-07-1989@@@
-
 DECRETO Nº 97.965, DE 17 DE JULHO DE 1989
 
 Autoriza o funcionamento do curso de Administração de Recursos Humanos, da Faculdade de Ciências Contábeis e Administrativas do Litoral Santista, unidade integrante das Faculdades AELIS.

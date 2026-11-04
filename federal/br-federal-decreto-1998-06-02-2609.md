@@ -1,5 +1,3 @@
-###DEC-002609-0-000-02-06-1998@@@
-
 DECRETO Nº 2.609, DE 2 DE JUNHO DE 1998
 
 Regulamenta a concessão de apoio financeiro aos Municípios que instituírem programa de garantia de renda mínima, de que trata a Lei nº 9.533, de 10 de dezembro de 1997, e dá outras providências.

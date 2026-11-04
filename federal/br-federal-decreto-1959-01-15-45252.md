@@ -1,5 +1,3 @@
-###DEC-045252-0-000-15-01-1959@@@
-
 DECRETO Nº 45.252, DE 15 DE JANEIRO DE 1959.
 
 Renova o Decreto nº 40.333, de 12 de novembro de 1956.

@@ -1,5 +1,3 @@
-###DEC-052248-0-000-09-07-1963@@@
-
 DECRETO Nº 52.248, DE 9 DE JULHO DE 1963.
 
 Autoriza a Companhia Paulista de Mineração a pesquisar leuco-filito no município de Itapeva, Estado de São Paulo.

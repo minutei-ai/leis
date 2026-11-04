@@ -1,5 +1,3 @@
-###DEL-006496-0-000-12-05-1944@@@
-
 DECRETO-LEI N. 6.496 – DE 12 DE MAIO DE 1944
 
 Autoriza a alienação do terreno e prédio que menciona, e dá outras providências

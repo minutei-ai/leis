@@ -1,5 +1,3 @@
-###DEL-007479-0-000-19-04-1945@@@
-
 DECRETO-LEI N. 7.479 – DE 19 DE ABRIL DE 1945
 
 Modifica o Decreto nº 24.591, de 6 de julho de 1934

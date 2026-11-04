@@ -1,5 +1,3 @@
-###DEC-051980-0-000-02-05-1963@@@
-
 DECRETo Nº 51.980, DE 2 DE MAIO DE 1963.
 
 Declara prioritária para o desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação da equipamentos novos, sem similar nacional registrado e consignados a “ Moinhos Brasileiros S.A. - Mobrasa”, de Natal (RN).
@@ -14,7 +12,23 @@ decreta:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, com a ressalva nêste contida e pertinente ao motor elétrico que acompanha a maquinaria, a importação do equipamento nôvo, sem similar nacional registrado, a seguir descrito e consignado a “Moinhos Brasileiros S.A. - MOBRASA, de Natal, (RN).
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:46.15pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item</span></p></td><td style="width:241.05pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Especificação</span></p></td><td style="width:63.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:59.95pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Valor Total</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CIF US$</span></p></td></tr><tr><td style="width:46.15pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:241.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Transportador pneumático móvel para descarga de trigo de navios com capacidade para 30 ton/hora, marca SOCAMA, modêlo SO300M, de fabricação de S.R.L. Reggio Emilia Itália, montado sôbre rodas com pneus e câmaras de ar, com 36 m de tubulação rigida e flexível, sugador vertical curvo e bifurcal, com curva rígida e tubo telescópio, completo com todos os pertences, inclusive motor acoplado de 63 H. Pêso aproximado 4.400 ........................................................</span></p></td><td style="width:63.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:59.95pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>9.387</span></p></td></tr></tbody></table>
+Item
+
+Especificação
+
+Quantidade a ser importada
+
+Valor Total
+
+CIF US$
+
+1
+
+Transportador pneumático móvel para descarga de trigo de navios com capacidade para 30 ton/hora, marca SOCAMA, modêlo SO300M, de fabricação de S.R.L. Reggio Emilia Itália, montado sôbre rodas com pneus e câmaras de ar, com 36 m de tubulação rigida e flexível, sugador vertical curvo e bifurcal, com curva rígida e tubo telescópio, completo com todos os pertences, inclusive motor acoplado de 63 H. Pêso aproximado 4.400 ........................................................
+
+1
+
+9.387
 
 Parágrafo único. Para efeito da isenção de que trata o presente Decreto e com respeito ao motor elétrico acima citado, fica sua similaridade para ser examinada pela Alfândega de destino, quando do desembaraço aduaneiro, na hipótese de o mesmo seguir regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agôsto de 1958, do Sr. Ministro da Fazenda.
 

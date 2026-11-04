@@ -1,5 +1,3 @@
-###DEC-006433-0-000-15-04-2008@@@
-
 DECRETO Nº 6.433, DE 15 DE ABRIL DE 2008.
 
 Institui o Comitê Gestor do Imposto sobre a Propriedade Territorial Rural - CGITR e dispõe sobre a forma de opção de que trata o inciso III do § 4o do art. 153 da Constituição, pelos Municípios e pelo Distrito Federal, para fins de fiscalização e cobrança do Imposto sobre a Propriedade Territorial Rural - ITR, e dá outras providências.
@@ -161,5 +159,3 @@ Brasília, 15 de abril de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Nelson Machado
-
-Este texto não substitui o publicado no DOU de 16.4.2008

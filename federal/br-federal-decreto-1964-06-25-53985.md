@@ -1,5 +1,3 @@
-###DEC-053985-0-000-25-06-1964@@@
-
 Decreto nº 53.985, de 25 de junho de 1964.
 
 Dispõe sôbre a denominação do cargo de Ministro Extraordinário, criado pela Lei nº 4.344, de 21 de junho de 1964.

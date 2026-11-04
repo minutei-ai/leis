@@ -1,5 +1,3 @@
-###DEC-085279-0-000-22-10-1980@@@
-
 Decreto nº 85.279, de 22 de outubro de 1980
 
 Autoriza o aumento da potência da RÁDIO DIFUSORA DE MONTE ALEGRE DE MINAS LTDA., na cidade de Monte Alegre de Minas, Estado de Minas Gerais.

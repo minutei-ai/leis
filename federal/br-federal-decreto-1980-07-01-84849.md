@@ -1,5 +1,3 @@
-###DEC-084849-0-000-01-07-1980@@@
-
 Decreto nº 84.849, de 01 de julho de 1980.
 
 Dispensa a licitação na alienação de terras públicas que menciona, e dá outras providências.

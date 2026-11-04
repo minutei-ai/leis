@@ -1,5 +1,3 @@
-###DEC-082663-0-000-16-11-1978@@@
-
 Decreto nº 82.663, de 16 de novembro de 1978.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da Subestação Unileste da Companhia Paulista de Força e Luz - CPFL , no Estado de São Paulo.

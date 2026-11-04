@@ -1,5 +1,3 @@
-###DEC-049164-0-000-01-11-1960@@@
-
 DECRETO Nº 49.164, DE 1º DE Novembro DE 1960.
 
 Altera o Quadro de Pessoal do Instituto de Aposentadorias e Pensões dos Ferroviários e Empregados em Serviços Públicos e, dá outras providencias.

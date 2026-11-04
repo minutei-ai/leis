@@ -1,5 +1,3 @@
-###DEL-002222-0-000-07-01-1985@@@
-
 # Decreto-lei nº 2.222, de 07 de janeiro de 1985
 
 Reajusta os Vencimentos, salários e proventos dos servidores das secretarias do Tribunal Federal de Recursos e do Conselho da Justiça Federal e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-081902-0-000-10-07-1978@@@
-
 Decreto nº 81.902, de 10 de julho de 1978.
 
 Concede reconhecimento ao curso de Engenharia de Operação da Faculdade de Engenharia de Ituiutaba, com sede na cidade de Ituiutaba, Estado de Minas Gerais.

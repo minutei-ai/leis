@@ -1,5 +1,3 @@
-###DEC-000976-0-000-09-11-1993@@@
-
 DECRETO N° 976, DE 9 DE NOVEMBRO DE 1993
 
 Define orientação para o processo de aquisição do Sistema Tático de Guerra Eletrônica SITAGE.

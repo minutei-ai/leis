@@ -1,5 +1,3 @@
-###DEC-091865-0-000-01-11-1985@@@
-
 Decreto nº 91.865, de 01 de novembro de 1985
 
 Outorga concessão à EMPRESA DE RADIODIFUSÃO SETE CIDADES DE PIRACURUCA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Piracuruca, Estado do Piauí.

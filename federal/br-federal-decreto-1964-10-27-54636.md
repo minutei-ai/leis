@@ -1,5 +1,3 @@
-###DEC-054636-0-000-27-10-1964@@@
-
 DECRETO Nº 54.636, DE 27 DE OUTUBRO DE 1964.
 
 Abre, ao Ministério da Indústria e do Comércio, o crédito especial de Cr$50.000.000,00 (cinqüenta milhões de cruzeiros) para o fim que especifica.

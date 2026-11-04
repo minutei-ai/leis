@@ -1,5 +1,3 @@
-###DEC-004037-0-000-29-11-2001@@@
-
 DECRETO Nº 4.037, DE 29 DE NOVEMBRO DE 2001.
 
 Dá nova redação ao art. 14 do Regulamento da Agência Nacional de Telecomunicações, aprovado pelo Decreto no 2.338, de 7 de outubro de 1997.

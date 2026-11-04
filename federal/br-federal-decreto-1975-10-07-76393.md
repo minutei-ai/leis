@@ -1,5 +1,3 @@
-###DEC-076393-0-000-07-10-1975@@@
-
 DECRETO Nº 76.393, DE 7 de outubro de 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Cultura de Cuiabá Ltda. para executar serviço de radiodifusão sonora em onda tropical na Cidade de Cuiabá, Estado do Mato Grosso.

@@ -1,5 +1,3 @@
-###DEC-075951-0-000-08-07-1975@@@
-
 DECRETO Nº 75.951, DE 8 DE JULHO DE 1975.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão da Companhia de Eletricidade de Nova Friburgo, no Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-006448-0-000-07-05-2008@@@
-
 DECRETO Nº 6.448, DE 7 DE MAIO DE 2008.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1.803, de 3 de março de 2008, do Conselho de Segurança das Nações Unidas, a qual mantém e reforça as sanções previstas nas Resoluções nos 1.737 e 1.747 do Conselho de Segurança, incorporadas ao ordenamento jurídico nacional pelos Decretos nos 6.045, de 21 de fevereiro de 2007, e 6.118, de 22 de maio de 2007, respectivamente, e, entre outros dispositivos, proíbe a transferência de certos bens sensíveis de uso dual para o Irã, conclama os Estados membros a proibirem o ingresso em seu território de pessoas designadas pelo Conselho de Segurança e envolvidas com o programa nuclear iraniano, exorta os Estados membros a exercerem controle e vigilância sobre atividades comerciais e financeiras de seus nacionais e entidades neles domiciliadas com o Irã e solicita aos Estados membros o exercício, em certos casos, de inspeções em cargas provenientes do Irã ou a ele destinadas.
@@ -18,11 +16,7 @@ Brasília, 7 de maio de 2008; 187o da Independência e 120o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 8.5.2008
-
-ANEXO
+Celso Luiz Nunes AmorimANEXO
 
 O Conselho de Segurança,
 

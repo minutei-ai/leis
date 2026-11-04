@@ -1,5 +1,3 @@
-###DEC-073812-0-000-12-03-1974@@@
-
 DECRETO N° 73.812, DE 12 DE MARÇO DE 1974.
 
 Declara de interesse social, pra fins de desapropriação, imóveis rurais situados no Município de Palotina Estado do Paraná, comprendidos na área prioritárias de Reforma Agrária, de que trata o Decreto nº 69.411 de 22 de outubro de 1971.

@@ -1,5 +1,3 @@
-###DEC-085230-0-000-02-10-1980@@@
-
 Decreto nº 85.230, de 02 de outubro de 1980.
 
 Revoga o artigo 94 do Decreto nº 73.140, de 9 de novembro de 1973.

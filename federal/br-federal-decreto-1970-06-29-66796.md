@@ -1,5 +1,3 @@
-###DEC-066796-0-000-29-06-1970@@@
-
 DECRETO nº 66.796 - DE 29 DE JUNHO DE 1970
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona, situado no Estado da Guanabara.

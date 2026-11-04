@@ -1,5 +1,3 @@
-###DEC-064556-0-000-20-05-1969@@@
-
 DECRETO Nº 64.556, DE 20 DE MAIO DE 1969.
 
 Concede reconhecimento a Faculdade.

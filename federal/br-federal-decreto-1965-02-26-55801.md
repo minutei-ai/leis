@@ -1,5 +1,3 @@
-###DEC-055801-0-000-26-02-1965@@@
-
 DECRETO Nº 55.801, DE 26 DE FEVEREIRO DE 1965.
 
 Regulamenta as operações do seguro agrícola.

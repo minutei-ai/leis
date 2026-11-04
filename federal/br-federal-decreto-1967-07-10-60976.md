@@ -1,5 +1,3 @@
-###DEC-060976-0-000-10-07-1967@@@
-
 DECRETO Nº 60.976, DE 10 DE JULHO DE 1967.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A. - CEMIG concessão para distribuir energia elétrica no município de Tumiritinga, Estado de Minas Gerais.

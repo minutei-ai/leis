@@ -1,7 +1,3 @@
-1
-
-###DEC-098803-0-000-08-01-1990@@@
-
 DECRETO Nº 98.803, DE 8 DE JANEIRO DE 1990
 
 Altera a denominação do Centro de Instrução e Adestramento do Corpo de Fuzileiros Navais para  CENTRO DE INSTRUÇÃO ALMIRANTE DE CAMARGO  (CIASC).

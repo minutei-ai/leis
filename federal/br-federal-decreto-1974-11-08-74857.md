@@ -1,5 +1,3 @@
-###DEC-074857-0-000-08-11-1974@@@
-
 DECRETo Nº 74.857, DE 8 DE NOVEMBRO DE 1974.
 
 Concede reconhecimento à Faculdade de Ciências Contábeis e Administrativa "Machado Sobrinho", mantida pela Fundação Educacional "Machado Sobrinho", com sede na Cidade de Juiz de Fora, Estado de Minas Gerais.

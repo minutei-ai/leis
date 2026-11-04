@@ -1,7 +1,3 @@
-1
-
-###DEC-099163-0-000-12-03-1990@@@
-
 DECRETO N° 99.163, DE 12 DE MARÇO DE 1990
 
 Promulga o Acordo Básico de Cooperação Científica e Tecnológica entre a República Federativa do Brasil e a República Socialista da Tchecoslováquia.

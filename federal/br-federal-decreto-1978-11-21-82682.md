@@ -1,5 +1,3 @@
-###DEC-082682-0-000-21-11-1978@@@
-
 DECRETO Nº 82.682, DE 21 DE NOVEMBRO DE 1978.
 
 Concede reconhecimento ao curso de Ciências Econômicas, da Faculdade de Ciências Contábeis, Administrativas e Econômicas, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

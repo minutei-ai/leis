@@ -1,5 +1,3 @@
-###DEL-004128-0-000-25-02-1942@@@
-
 DECRETO-LEI N. 4.128 – DE 25 DE FEVEREIRO DE 1942
 
 Transforma duas Divisões do Departamento Administrativo do Serviço Público

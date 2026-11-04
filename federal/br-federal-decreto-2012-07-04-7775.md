@@ -1,5 +1,3 @@
-###DEC-007775-0-000-04-07-2012-PUB-01@@@
-
 DECRETO N° 7.775, DE 4 DE JULHO DE 2012
 
 Regulamenta o art. 19 da Lei n° 10.696, de 2 de julho de 2003, que institui o Programa de Aquisição de Alimentos, e o Capítulo III da Lei n° 12.512, de 14 de outubro de 2011, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-064428-0-000-29-04-1969@@@
-
 DECRETO Nº 64.428, DE 29 DE ABRIL DE 1969.
 
 Transfere cargo do DASP para o Ministério das Relações Exteriores, com fundamento no artigo 17, § 1º da Lei nº 4.863, de 29 de novembro de 1965.

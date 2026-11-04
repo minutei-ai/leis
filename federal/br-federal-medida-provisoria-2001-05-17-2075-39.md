@@ -1,5 +1,3 @@
-###MPV-002075-0-039-17-05-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.075‑39, DE 17 DE MAIO DE 2001.
 
 Dispõe sobre a adoção de medidas relacionadas com o Sistema Financeiro da Habitação ‑ SFH, altera as leis nos 4.380, de 21 de agosto de 1964, 8.036, de 11 de maio de 1990, e 8.692, de 28 de julho de 1993, e dá outras providências.

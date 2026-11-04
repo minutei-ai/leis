@@ -1,5 +1,3 @@
-###DEC-075417-0-000-26-02-1975@@@
-
 DECRETO Nº 75.417, DE 26 DE FEVEREIRO DE 1975.
 
 Autoriza a cessão gratuita dos terrenos que menciona, situados em Arapoti, no Estado do Paraná.

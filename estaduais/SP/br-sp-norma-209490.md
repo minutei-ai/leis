@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209490)<br>
-
 # DECRETO N° 68.555, DE 23 DE MAIO DE 2024
 
 ### _Dispõe sobre as transferências e desativações que especifica e dá providências correlatas_

@@ -1,5 +1,3 @@
-###DEC-073949-0-000-17-04-1974@@@
-
 DECRETO Nº 73.949, DE 17 DE ABRIL DE 1974
 
 Autoriza o funcionamento dos cursos de Letras e de Ciências Biológicas da Faculdade de Filosofia, Ciências e Letras da Federação das Faculdades "Braz Cubas" mantida pela Sociedade Civil de Educação "Braz Cubas" com sede na cidade de Moji das Cruzes, Estado de São Paulo.

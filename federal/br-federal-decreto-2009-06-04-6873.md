@@ -1,5 +1,3 @@
-###DEC-006873-0-000-04-06-2009@@@
-
 DECRETO Nº 6.873, DE 4 DE JUNHO DE 2009.
 
 Inclui a localidade que menciona na Tabela de Fatores de Conversão de Índices de Representação, a que se referem o art. 11 e o Anexo II do Decreto n~~º~~ 71.733, de 18 de janeiro de 1973, que regulamenta a Lei n~~º~~ 5.809, de 10 de outubro de 1972, que dispõe sobre a retribuição e direitos do pessoal civil e militar em serviço da União no exterior.

@@ -1,5 +1,3 @@
-###DEC-059884-0-000-27-12-1966@@@
-
 DECRETO Nº 59.884, DE 27 DE DEZEMBRO DE 1966.
 
 Dispõe sôbre a arrecadação das contribuições do Instituto Nacional de Previdência Social (INPS) e dá outras providências.

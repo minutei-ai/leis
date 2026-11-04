@@ -1,5 +1,3 @@
-###DEL-008681-0-000-15-01-1946@@@
-
 DECRETO-LEI N. 8.681 – DE 15 DE JANEIRO DE 1946
 
 Dispõe sôbre a congregação, em universidade livre, das Faculdades Católicas de Direito e de Filosofia e da Escola de Serviço Social.

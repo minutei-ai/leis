@@ -1,5 +1,3 @@
-###DEC-070812-0-000-07-07-1972@@@
-
 DECRETO Nº 70.812, DE 7 DE JULHO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Ciências Contábeis de Rio Claro, SP.

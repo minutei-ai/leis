@@ -1,5 +1,3 @@
-###DEC-088707-0-000-15-09-1983@@@
-
 Decreto nº 88.707, de 15 de setembro de 1983
 
 Altera o Decreto nº 77.065, de 20 de janeiro de 1976, que regulamenta os incentivos fiscais disciplinados pelo Decreto-lei nº 1.428, de 2 de dezembro de 1975 e dá outras providências.

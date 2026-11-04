@@ -1,5 +1,3 @@
-###DEC-066877-0-000-16-07-1970@@@
-
 DECRETO Nº 66.877, DE 16 DE JULHO DE 1970.
 
 Altera dispositivo do Decreto nº 55.827, de 11 de março de 1965 que dispõe sôbre a organização e funcionamento do Serviço Federal de Processamento de Dados (SERPRO).

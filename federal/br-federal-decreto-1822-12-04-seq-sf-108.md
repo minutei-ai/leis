@@ -1,5 +1,3 @@
-###DEC-000000-0-108-04-12-1822@@@
-
 DECRETO - DE 4 DE DEZEMBRO DE 1822
 
 Determina que as promoções do Exercito, atá Coronel inclusive, sejam geraes em cada Província e Arma.

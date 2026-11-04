@@ -1,5 +1,3 @@
-###DEC-082967-0-000-03-01-1979@@@
-
 Decreto nº 82.967, de 03 de janeiro de 1979
 
 Concede à Topázio Imperial, Mineração, Comércio e Indústria Ltda. o direito de lavrar topázio no Município de Ouro Preto, Estado de Minas Gerais.

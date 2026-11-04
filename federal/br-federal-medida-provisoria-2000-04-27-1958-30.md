@@ -1,5 +1,3 @@
-###MPV-001958-0-030-27-04-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.958-30, DE 27 DE abril DE 2000.
 
 Dispõe sobre a instituição de sociedades de crédito ao microempreendedor, altera dispositivos das Leis nº  6.404, de 15 de dezembro de 1976, 8.029, de 12 de abril de 1990, e 8.934, de 18 de novembro de 1994, e dá outras providências.

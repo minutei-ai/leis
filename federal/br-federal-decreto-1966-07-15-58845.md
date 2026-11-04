@@ -1,5 +1,3 @@
-###DEC-058845-0-000-15-07-1966@@@
-
 decreto nº 58.845, de 15 de julho de 1966.
 
 Modifica a redação dos artigos 25 e 26 do Decreto nº 57.744 de 3 de fevereiro de 1966, e dá outras providências.

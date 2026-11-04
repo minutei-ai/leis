@@ -26,8 +26,10 @@ Art. 2º - Revogadas as disposições em contrário, este Decreto entrará em vi
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos dez dias do mês de novembro de um mil novecentos e noventa e sete.
 
-ADEMIR MENEZES<br>
+ADEMIR MENEZES
+
 PREFEITO MUNICIPAL
 
-JOSÉ CALDAS DA CUNHA<br>
+JOSÉ CALDAS DA CUNHA
+
 SEC. EXECUTIVO

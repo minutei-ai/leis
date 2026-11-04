@@ -1,5 +1,3 @@
-###DEC-071672-0-000-08-01-1973@@@
-
 DECRETO Nº 71.672, DE 8 DE JANEIRO DE 1973.
 
 Autoriza a encampação dos bens e instalações vinculadas aos serviços públicos de energia elétrica no município de Redenção da Serra, no Estado de São Paulo.

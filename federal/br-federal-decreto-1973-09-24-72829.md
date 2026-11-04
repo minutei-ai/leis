@@ -1,5 +1,3 @@
-###DEC-072829-0-000-24-09-1973@@@
-
 Decreto nº 72.829, de 24 de setembro de 1973.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à construção de subestação no município de Indaiatuba, no Estado de São Paulo.

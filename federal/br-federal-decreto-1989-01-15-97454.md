@@ -1,5 +1,3 @@
-###DEC-097454-0-000-15-01-1989@@@
-
 DECRETO N° 97.454, DE 15 DE JANEIRO DE 1989
 
 Reajusta o valor do Salário Mínimo de Referência.

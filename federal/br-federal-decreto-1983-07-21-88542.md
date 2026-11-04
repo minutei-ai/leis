@@ -1,5 +1,3 @@
-###DEC-088542-0-000-21-07-1983@@@
-
 DecretO nº 88.542, de 21 de julho de 1983
 
 Cria a Reserva Ecológica Juami-Japurá, em área de terra que indica e dá outras providências.

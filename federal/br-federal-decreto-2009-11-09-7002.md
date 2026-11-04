@@ -1,5 +1,3 @@
-###DEC-007002-0-000-09-11-2009@@@
-
 DECRETO Nº 7.002, DE 9 DE NOVEMBRO DE 2009.
 
 Altera o art. 15 do Decreto no 4.034, de 26 de novembro de 2001, que dispõe sobre as promoções de praças da Marinha.

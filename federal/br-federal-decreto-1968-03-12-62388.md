@@ -1,5 +1,3 @@
-###DEC-062388-0-000-12-03-1968@@@
-
 DECRETO Nº 62.388, DE 12 DE MARÇO DE 1968.
 
 Dispõe sôbre o processo de apuração das infrações à legislação açucareira, por falta de recolhimento das contribuições referidas no Decreto-lei nº 308, de 28 de fevereiro de 1967, e dá outras providências.

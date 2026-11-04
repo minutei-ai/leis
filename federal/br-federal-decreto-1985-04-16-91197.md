@@ -1,5 +1,3 @@
-###DEC-091197-0-000-16-04-1985@@@
-
 Decreto nº 91.197, de 16 de abril de 1985
 
 Dá nova redação ao art. 1º, I, do Decreto nº 88.142, de 2 de março de 1983, que dispõe sobre a constituição do Conselho de Administração da Superintendência da Zona Franca de Manaus - SUFRAMA, e dá outras providências.

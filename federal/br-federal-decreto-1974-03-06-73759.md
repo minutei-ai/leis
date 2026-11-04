@@ -1,5 +1,3 @@
-###DEC-073759-0-000-06-03-1974@@@
-
 DECRETO Nº 73.759, DE 6 DE MARÇO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento - D.N.O.S., terras e benfeitorias situadas no Município de São João de Meriti, no Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEL-001496-0-000-08-08-1939@@@
-
 DECRETO-LEI N. 1.496 – DE 8 DE AGOSTO DE 1939
 
 Dispõe sobre a convocação dos oficiais de 2ª classe da Reserva, de 1ª linha do Exército

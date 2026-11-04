@@ -1,5 +1,3 @@
-###DEC-075768-0-000-23-05-1975@@@
-
 DECRETO Nº 75.768, DE 23 DE MAIO DE 1975.
 
 Altera o limite de financiamento pelo Sistema Financeiro de Habitação para aquisição da casa própria.

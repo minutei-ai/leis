@@ -1,5 +1,3 @@
-###DEC-073479-0-000-16-01-1974@@@
-
 DECRETO Nº 73.479, DE 16 DE JANEIRO DE 1974.
 
 Concede reconhecimento ao curso de Psicologia (licenciatura e formação de Psicólogos), da Faculdade de Filosofia, ciências e Letras da Universidade Católica do Paraná, com sede na cidade de Curitiba, Estado do Paraná.

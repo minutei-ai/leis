@@ -1,5 +1,3 @@
-###DEC-050145-0-000-27-01-1961@@@
-
 DECRETO Nº 50.145, DE 27 DE JANEIRO DE 1961.
 
 Declara de utilidade pública a faixa de terra destinada à passagem da linha de transmissão da Central Elétrica de Furnas S.A., que liga a Usina Hidrelétrica de Furnas, no Estado de Minas Gerais, e a cidade de São Paulo, no Estado de São Paulo.
@@ -1127,8 +1125,6 @@ JUSCELINO KUBITSCHECK
 Antônio Barro Carvalho
 
 Armando Ribeiro Falcão
-
-###DEC-050145-0-000-27-01-1961@@@RET01+++
 
 DECRETO Nº 50.145, DE 27 DE JANEIRO DE 1961.
 

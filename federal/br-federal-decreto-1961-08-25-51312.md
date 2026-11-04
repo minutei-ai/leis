@@ -1,5 +1,3 @@
-###DEC-051312-0-000-25-08-1961@@@
-
 DECRETO Nº 51.312, DE 25 DE AGÔSTO DE 1961.
 
 Outorga concessão à Rádio Capixaba Limitada para estabelecer, em Vitória, Capital do Estado do Espírito Santo, uma estação radiodifusora.

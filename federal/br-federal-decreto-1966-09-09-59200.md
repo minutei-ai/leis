@@ -1,5 +1,3 @@
-###DEC-059200-0-000-09-09-1966@@@
-
 DECRETO Nº 59.200, DE 9 DE SETEMBRO DE 1966.
 
 Concede à sociedade Casimiro Filho, Indústria e Comércio S.A., autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

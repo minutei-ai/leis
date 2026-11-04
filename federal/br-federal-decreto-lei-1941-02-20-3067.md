@@ -1,5 +1,3 @@
-###DEL-003067-0-000-20-02-1941@@@
-
 DECRETO-LEI N. 3.067 – DE 20 DE FEVEREIRO DE 1941
 
 Amplia a lista de que trata o art.1º do decreto-lei nº3.032 de 7 de fevereiro de 1941, e dá outras providências

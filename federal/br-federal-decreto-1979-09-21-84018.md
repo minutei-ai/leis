@@ -1,5 +1,3 @@
-###DEC-084018-0-000-21-09-1979@@@
-
 Decreto nº 84.018 de 21 de setembro de 1979.
 
 Cria a Reserva Biológica do rio Trombetas e dá outras providências.

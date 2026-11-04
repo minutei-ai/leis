@@ -1,5 +1,3 @@
-###DEC-065239-0-000-26-09-1969@@@
-
 DECRETO Nº 65.239 - DE 26 DE SETEMBRO DE 1969.
 
 Cria Estrutura Técnica e Administrativa para a elaboração do projeto de um Sistema Avançado de Tecnologias Educacionais, incluindo rádio, Televisão e outros meios, e dá outras providências.

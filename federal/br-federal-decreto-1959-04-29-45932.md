@@ -1,5 +1,3 @@
-###DEC-045932-0-000-29-04-1959@@@
-
 decreto nº 45.932, de 29 de abril de 1959.
 
 Autoriza o cidadão brasileiro Dimas José de Queiroz a pesquisar mica e pedras coradas no município de Santa Maria do Suaçuí, Estado de Minas Gerais.

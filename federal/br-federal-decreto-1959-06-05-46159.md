@@ -1,5 +1,3 @@
-###DEC-046159-0-000-05-06-1959@@@
-
 Decreto nº 46.159, de 05 de junho de 1959.
 
 Autoriza o cidadão brasileiro Jaime Búrigo a pesquisar fluorita no município e Tubarão, Estado de Santa Catarina.

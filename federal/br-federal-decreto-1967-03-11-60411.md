@@ -1,5 +1,3 @@
-###DEC-060411-0-000-11-03-1967@@@
-
 DECRETO Nº 60.411, DE 11 DE MARÇO DE 1967.
 
 Outorga à Companhia Paulista de Fôrça e Luz, concessão para o aproveitamento progressivo da energia hidráulica de um trecho do rio Grande localizado entre o município de Guaíra, Estado de São Paulo e o município de Frutal Estado de Minas Gerais.

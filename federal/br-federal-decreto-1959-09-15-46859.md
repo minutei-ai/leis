@@ -1,5 +1,3 @@
-###DEC-046859-0-000-15-09-1959@@@
-
 decreto nº 46.859, de 15 de setembro de 1959.
 
 Estabelece a frequência de 60 ciclos por segundo no sistema elétrico da Companhia Sul Mineira de Eletricidade.

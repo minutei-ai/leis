@@ -1,7 +1,3 @@
-1
-
-###DEL-002348-0-000-24-07-1987@@@
-
 # DECRETO-LEI Nº 2.348, DE 24 DE JULHO DE 1987
 
 Altera o Decreto-lei nº 2.300, de 21 de novembro de 1986, que dispõe sobre licitações e contratos da Administração Federal.

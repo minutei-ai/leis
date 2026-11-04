@@ -1,5 +1,3 @@
-###DEC-002219-0-000-02-05-1997@@@
-
 DECRETO Nº 2.219, DE 2 DE MAIO DE 1997
 
 Regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.

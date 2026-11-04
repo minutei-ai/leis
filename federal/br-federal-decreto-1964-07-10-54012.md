@@ -1,5 +1,3 @@
-###DEC-054012-0-000-10-07-1964@@@
-
 Decreto nº 54.012, de 10 de julho de 1964.
 
 Regulamenta o parágrafo único do artigo 192 da Lei nº 4.328, de 30 de abril de 1964, e o artigo 13 da Lei nº 4.345, de 26 de junho de 1964, e dá outras providências.

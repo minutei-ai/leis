@@ -1,5 +1,3 @@
-###DEC-090415-0-000-07-11-1984@@@
-
 Decreto nº 90.415, de 07 de novembro de 1984.
 
 Regulamenta a concessão de Gratificação de Atividades de Assessoramento Especial e de Altos Estudos e Pesquisas, na Escola Superior de Guerra.

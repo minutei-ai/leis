@@ -1,5 +1,3 @@
-###DEL-003001-0-000-29-01-1941@@@
-
 DECRETO-LEI N. 3.001 – DE 29 DE JANEIRO DE 1941
 
 Cria, no Quadro Permanente do Ministério da Fazenda, um (1) cargo de ajudante de tesoureiro em comissão, e dá outras providências.

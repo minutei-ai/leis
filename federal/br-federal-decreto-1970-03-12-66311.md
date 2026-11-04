@@ -1,5 +1,3 @@
-###DEC-066311-0-000-12-03-1970@@@
-
 DECRETO Nº 66.311 - DE 12 DE MARÇO DE 1970
 
 Autoriza a cessão de bens móveis e imóveis da União nas condições que menciona.

@@ -1,5 +1,3 @@
-###DEC-055234-0-000-16-12-1964@@@
-
 DECRETO Nº 55.234, de 16 de dezembro de 1964.
 
 Altera a redação do artigo 1º do Decreto nº 31.691, de 1 de novembro de 1952.

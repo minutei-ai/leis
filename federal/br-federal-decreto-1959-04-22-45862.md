@@ -1,5 +1,3 @@
-###DEC-045862-0-000-22-04-1959@@@
-
 Decreto nº 45.862, de 22 de abril de 1959.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.

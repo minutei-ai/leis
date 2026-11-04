@@ -1,5 +1,3 @@
-###DEC-051592-0-000-20-11-1962@@@
-
 DECRETO Nº 51 592, DE 20 DE NOVEMBRO DE 1962.
 
 Constitui o Grupo Executivo da Reformada Casa da Moeda (GERCAM).

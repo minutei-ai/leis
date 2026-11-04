@@ -1,5 +1,3 @@
-###DEC-051819-0-000-12-03-1963@@@
-
 DECRETO Nº 51.819, DE 12 DE MARÇO DE 1963.
 
 Declara caduco o decreto nº 25.909 de 2 de dezembro de 1948.

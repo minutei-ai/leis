@@ -1,5 +1,3 @@
-###DEC-080170-0-000-16-08-1977@@@
-
 decreto n.º 80170, de 16 de agosto de 1977
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona, situados nas Cidades de Niterói e Rio de Janeiro, Estado do Rio de Janeiro.

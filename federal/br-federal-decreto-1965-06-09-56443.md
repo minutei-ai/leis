@@ -1,5 +1,3 @@
-###DEC-056443-0-000-09-06-1965@@@
-
 DECRETO Nº 56.443, DE 9 DE JUNHO DE 1965.
 
 Concede à sociedade anônima W. M. Jackson, Inc. autorização para continuar a funcionar na República.

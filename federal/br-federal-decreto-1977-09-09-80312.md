@@ -1,5 +1,3 @@
-###DEC-080312-0-000-09-09-1977@@@
-
 DECRETO Nº 80.312, DE 9 DE SETEMBRO DE 1977.
 
 Concede à Mineração Indústria e Comércio Ltda. o direito de lavrar mármore no Município de Morro do Chapéu, Estado da Bahia.

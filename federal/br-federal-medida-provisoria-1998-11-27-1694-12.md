@@ -1,5 +1,3 @@
-###MPV-001694-0-012-27-11-1998@@@
-
 Medida Provisória nº 1.694-12, de 27 de novembro de 1998.
 
 Dá nova redação ao art. 1º da Lei nº 9.530, de 10 de dezembro de 1997.

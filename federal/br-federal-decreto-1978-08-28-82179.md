@@ -1,5 +1,3 @@
-###DEC-082179-0-000-28-08-1978@@@
-
 Decreto nº 82.179, de 28 de agosto de 1978.
 
 Encampa os bens e instalações vinculados aos serviços públicos de energia elétrica no Município de Pompéu, Estado de Minas Gerais, explorados pela Companhia Força e Luz de Pompéu S.A

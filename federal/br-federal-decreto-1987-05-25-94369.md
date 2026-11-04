@@ -1,5 +1,3 @@
-###DEC-094369-0-000-25-05-1987@@@
-
 DECRETO Nº 94.369, DE 25 DE MAIO DE 1987.
 
 Dispõe sobre a Embaixada do Brasil em Basseterre, São Cristóvão e Nevis, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-070026-0-000-24-01-1972@@@
-
 DECRETO Nº 70.026, DE 24 DE JANEIRO DE 1972.
 
 Redistribui, com a respectiva ocupante, para o Quadro de Pessoal - Parte Especial - da Universidade Federal Rural do Rio de Janeiro - Ministério da Educação e Cultura, cargo originário da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providências.

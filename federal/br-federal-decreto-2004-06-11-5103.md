@@ -1,5 +1,3 @@
-###DEC-005103-0-000-11-06-2004@@@
-
 DECRETO Nº 5.103,  DE 11 DE JUNHO DE 2004
 
 Dá nova redação ao art. 3º do Decreto nº 3.277, de 7 de dezembro de 1999, que dispõe sobre a dissolução, liquidação e extinção da Rede Ferroviária Federal S.A.- RFFSA, e dá outras providências.

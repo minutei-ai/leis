@@ -1,5 +1,3 @@
-###DEC-066156-0-000-03-02-1970@@@
-
 decreto nº 66.156 - de 3 de fevereiro de 1970
 
 Autoriza o serviço do Patrimônio da União a aceitar a doação de um terreno, feita pela Municipalidade de Conceição da Barra, Espírito Santo, para a instalação de uma Agência da Capitania dos Portos do Estado do Espírito Santo, em Conceição da Barra, no Estado do Espírito Santo.

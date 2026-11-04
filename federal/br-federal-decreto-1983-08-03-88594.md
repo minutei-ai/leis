@@ -1,5 +1,3 @@
-###DEC-088594-0-000-03-08-1983@@@
-
 Decreto nº 88.594, de 03 de agosto de 1983
 
 Outorga concessão à TV MINAS LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Governador Valadares, Estado de Minas Gerais.

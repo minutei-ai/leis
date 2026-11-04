@@ -1,5 +1,3 @@
-###DEC-077769-0-000-08-06-1976@@@
-
 DECRETO Nº 77.769, DE 8 DE JUNHO DE 1976.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona, situado em Vitória, Estado do Espírito Santo.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/581ba2ec-a647-4209-90d8-84dba1393ab5/texto#nowhere)
 
-###DEL-000884-0-000-22-09-1969@@@
-
 DECRETO-LEI Nº 884, DE 22 DE SETEMBRO DE 1969
 
 Autoriza o Departamento Federal de Compras a ceder à Divisão do Material da Fazenda o Material que especifica.

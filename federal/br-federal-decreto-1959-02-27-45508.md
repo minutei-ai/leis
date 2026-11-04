@@ -1,5 +1,3 @@
-###DEC-045508-0-000-27-02-1959@@@
-
 DECRETO Nº 45.508, DE 27 DE FEVEREIRO DE 1959.
 
 Concede à Sociedade Navegação Continental Ltda. autorização para continuar a funcionar como emprêsa de navegação e cabotagem.

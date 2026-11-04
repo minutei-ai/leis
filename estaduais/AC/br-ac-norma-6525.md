@@ -1,6 +1,10 @@
 > **LEI Nº 4.629, DE 31 DE JULHO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 2.943, de 30 de dezembro de 2014, que cria Banco de Horas no âmbito do Instituto Socioeducativo do Estado - ISE/AC, para tratar dos impedimentos à realização das atividades.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 2.943, de 30 de dezembro de 2014, que cria Banco de Horas no âmbito do Instituto Socioeducativo do Estado - ISE/AC, para tratar dos impedimentos à realização das atividades.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

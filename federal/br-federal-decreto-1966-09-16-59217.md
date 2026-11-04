@@ -1,5 +1,3 @@
-###DEC-059217-0-000-16-09-1966@@@
-
 DECRETO Nº 59.217, DE 16 DE SETEMBRO DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da Companhia Hemisférica de Seguros, relativa ao aumento do capital social.

@@ -1,5 +1,3 @@
-###DEC-087883-0-000-30-11-1982@@@
-
 Decreto nº 87.883, de 30 de novembro de 1982
 
 Cancela autorizarão concedida à American Motorists Insurance Company para funcionar no Brasil.

@@ -1,5 +1,3 @@
-###DEC-055259-0-000-22-12-1964@@@
-
 DECRETO Nº 55.259, DE 22 DE DEZEMBRO DE 1964.
 
 Autoriza a Indústria de Mármores Italva Ltda, a lavrar mármore, no município de Campos, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-070287-0-000-15-03-1972@@@
-
 DECRETO Nº 70.287, DE 15 DE MARÇO DE 1972.
 
 Redistribui cargo, com o respectivo ocupante, do Ministério da Saúde para o Departamento Administrativo do Pessoal Civil, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-087206-0-000-24-05-1982@@@
-
 Decreto nº 87.206, de 24 de maio de 1982
 
 Concede á Companhia Eletromecânica CELMA autorização para proceder o aumento de seu Capital.

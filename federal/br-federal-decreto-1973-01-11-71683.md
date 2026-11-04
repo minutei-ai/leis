@@ -1,5 +1,3 @@
-###DEC-071683-0-000-11-01-1973@@@
-
 DECRETO Nº 71.683, DE 11 DE JANEIRO DE 1973.
 
 Suspende intervenções federais decretadas com base no artigo 3º, do Ato Internacional nº 5, de 13 de dezembro de 1968.

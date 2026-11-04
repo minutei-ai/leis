@@ -1,5 +1,3 @@
-###DEL-002375-0-000-08-07-1940@@@
-
 DECRETO-LEI N. 2.375 – DE 8 DE JULHO DE 1940
 
 Altera o decreto-lei n. 891, de 25 de novembro de 1938

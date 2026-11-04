@@ -1,5 +1,3 @@
-###DEC-092786-0-000-16-06-1986@@@
-
 DECRETO Nº 92.786, DE 16 DE JUNHO DE 1986
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - DNOCS - áreas de terra abrangidas pelo Projeto de Irrigação "Vale do Gurguéia", no Município de Cristino Castro, Estado do Piauí, para a execução do Programa de Irrigação do Nordeste - PROINE, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-006032-0-000-01-02-2007@@@
-
 DECRETO Nº 6.032, DE 1º DE FEVEREIRO DE 2007.
 
 Altera dispositivos do Regulamento da Previdência Social - RPS, aprovado pelo Decreto no 3.048, de 6 de maio de 1999, referentes ao contencioso administrativo fiscal previdenciário dos processos relativos às contribuições sociais previstas nas alíneas “a”, “b” e “c” do parágrafo único do art. 11 da Lei no 8.212, 24 de julho de 1991, das contribuições instituídas a título de substituição e as devidas, por lei, a terceiros, bem como adota outras providências.
@@ -69,5 +67,3 @@ Brasília, 1º de fevereiro de 2007; 186o da Independência e 119o da República
 LUIZ INÁCIO LULA DA SILVA
 
         Nelson Machado
-
-Este texto não substitui o publicado no DOU de 2.2.2007.

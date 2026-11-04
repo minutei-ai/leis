@@ -1,5 +1,3 @@
-###DEC-088775-0-000-28-09-1983@@@
-
 DECRETO Nº 88.775, De 28 DE SETEMbro DE 1983
 
 Declara de interesse social, para fins de desapropriação, imóvel rural constituído de parte da "Fazenda Penha", situado no Município de Peixe, no Estado de Goiás, e compreendido na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 88.774, de 28 setembro de 1983.

@@ -1,5 +1,3 @@
-###DEC-047510-0-000-28-12-1959@@@
-
 DECRETO Nº 47.510, DE 28 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Firmo da Mota Fagundes a pesquisar bauxita argila e leucita no município de Andradas, Estado de Minas Gerais.

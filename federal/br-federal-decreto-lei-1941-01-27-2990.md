@@ -1,5 +1,3 @@
-###DEL-002990-0-000-27-01-1941@@@
-
 DECRETO-LEI N. 2.990 – DE 27 DE JANEIRO DE 1941
 
 Cria, na Prefeitura do Distrito Federal, o Serviço de Lepra, e dá outras providências

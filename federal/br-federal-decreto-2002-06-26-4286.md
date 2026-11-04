@@ -1,5 +1,3 @@
-###DEC-004286-0-000-26-06-2002@@@
-
 DECRETO Nº 4.286, DE 26 DE JUNHO DE 2002
 
 Prorroga o prazo de contratação de operações de crédito ao amparo do Programa de Revitalização de Cooperativas de Produção Agropecuária – RECOOP e o de atividades do Comitê Executivo, de que tratam, respectivamente, os art. 1º, parágrafo único, e 5ª do Decreto nº 3.701, de 27 de dezembro de 2000, e dá outras providências.

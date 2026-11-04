@@ -1,5 +1,3 @@
-###DEC-055206-0-000-14-12-1964@@@
-
 Decreto nº 55.206, de 14 de dezembro de 1964.
 
 Outorga concessão à Sociedade Rádio Blumenau Limitada.

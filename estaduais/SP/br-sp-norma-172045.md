@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/172045)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2013/compilacao-lei-15248-17.12.2013.html)
 
 # LEI N° 15.248, DE 17 DE DEZEMBRO DE 2013

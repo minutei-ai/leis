@@ -1,5 +1,3 @@
-###DEL-004995-0-000-26-11-1942@@@
-
 DECRETO-LEI N. 4.995 – DE 26 DE NOVEMBRO DE 1942
 
 Autoriza a venda de material inapropriado ao serviço do Instituto Osvaldo Cruz

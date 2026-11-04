@@ -1,5 +1,3 @@
-###DEC-058218-0-000-19-04-1966@@@
-
 DECRETO Nº 58.218, DE 19 DE ABRIL DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da COMPANHIA DE SEGUROS MARÍTIMOS E TERRESTRES PHENIX DE PORTO ALEGRE, relativa ao aumento do capital social.

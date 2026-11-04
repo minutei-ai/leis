@@ -1,5 +1,3 @@
-###DEC-078256-0-000-17-08-1976@@@
-
 DECRETO Nº 78.256, DE 17 DE AGOSTO DE 1976.
 
 Autoriza o funcionário da Faculdade de Formação de Professores de 1º ciclo da Micro-Região da Mata Sul, com sede na cidade de Palmares, Estado de Pernambuco.

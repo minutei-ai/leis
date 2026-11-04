@@ -1,5 +1,3 @@
-###DEC-003828-0-000-31-05-2001@@@
-
 DECRETO N° 3.828, DE 31 DE MAIO DE 2001
 
 Altera e inclui dispositivos ao Decreto n°98.816, de 11 de janeiro de 1990, que dispõe sobre o controle e a fiscalização de agrotóxicos e dá outras providências.

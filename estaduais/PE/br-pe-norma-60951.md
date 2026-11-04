@@ -34,794 +34,982 @@ Presidente
 
 **ANEXO ÚNICO**
 
-**“ANEXO III**<br>
-**QUANTITATIVO DE CARGOS DE MAGISTRADO<br>
+**“ANEXO III**
+
+**QUANTITATIVO DE CARGOS DE MAGISTRADO
+
 (Com as alterações implementadas por esta Lei Complementar)**
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="0" style="width:453.55pt;background:white;border-collapse:collapse"><tbody><tr><td width="221" valign="top" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">TRIBUNAL DE JUSTIÇA</span></p></td><td width="383" valign="top" style="width:162.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">DESEMBARGADOR</span></p></td></tr><tr><td width="221" valign="top" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="383" valign="top" style="width:162.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">52</span></p></td></tr></tbody></table>
+TRIBUNAL DE JUSTIÇA
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse"><tbody><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">COMARCA</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Circunscrição</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito Substituto</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz Substituto</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Recife</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">186</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">28</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">00</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Abreu e Lima</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">06</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">1ª</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">21</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">00</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Camaragibe</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">08</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Jaboatão dos Guararapes</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">25</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Moreno</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">03</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Olinda</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">21</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Paulista</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">17</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">São Lourenço da Mata</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">05</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr></tbody></table>
+DESEMBARGADOR
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse"><tbody><tr><td width="171" style="width:128.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">COMARCA</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Circunscrição</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito Substituto</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz Substituto</span></p></td></tr><tr><td width="171" style="width:128.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Cabo de Santo Agostinho</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">16</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">2ª</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">05</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">00</span></p></td></tr><tr><td width="171" style="width:128.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Ipojuca</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">06</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr></tbody></table>
+52
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse"><tbody><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">COMARCA</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Circunscrição</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito Substituto</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz Substituto</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Igarassu</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">10</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">3ª</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">00</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Itamaracá</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Itapissuma</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr style="height:22.85pt"><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm;height:22.85pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Vara Única Distrital de Fernando de Noronha</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm;height:22.85pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm;height:22.85pt"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm;height:22.85pt"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm;height:22.85pt"></td></tr></tbody></table>
+COMARCA
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse"><tbody><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">COMARCA</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Circunscrição</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito Substituto</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz Substituto</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Vitória de Santo Antão</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">11</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">4ª</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">00</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Chã Grande</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Glória do Goitá</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Pombos</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr></tbody></table>
+Juiz de Direito
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse"><tbody><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">COMARCA</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Circunscrição</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito Substituto</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz Substituto</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Nazaré da Mata</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">5ª</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">00</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Aliança</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Buenos Aires</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Carpina</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">05</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Condado</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Ferreiros</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Goiana</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">04</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Itambé</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Itaquitinga</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Lagoa de Itaenga</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Macaparana</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Paudalho</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Timbaúba</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">03</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Tracunhaém</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Vicência</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr></tbody></table>
+Circunscrição
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse"><tbody><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">COMARCA</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Circunscrição</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito Substituto</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz Substituto</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Palmares</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">06</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">6ª</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">00</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Água Preta</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Amaraji</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Barreiros</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Belém de Maria</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Catende</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Cortês</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Escada</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Gameleira</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Joaquim Nabuco</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Maraial</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Primavera</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Quipapá</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Ribeirão</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Rio Formoso</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">São José da Coroa Grande</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Sirinhaém</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Tamandaré</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr></tbody></table>
+Juiz de Direito Substituto
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse"><tbody><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">COMARCA</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Circunscrição</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito Substituto</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz Substituto</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Caruaru</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">17</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">7ª</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">04</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">00</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Alagoinha</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Belo Jardim</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">04</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Bezerros</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">04</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Brejo da Madre de Deus</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Cachoeirinha</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Gravatá</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">05</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Jataúba</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Pesqueira</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">04</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Poção</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Riacho das Almas</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Sanharó</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">São Bento do Una</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">São Caetano</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Tacaimbó</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr></tbody></table>
+Juiz Substituto
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse"><tbody><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">COMARCA</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Circunscrição</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito Substituto</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz Substituto</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Bonito</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">03</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">8ª</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">00</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">00</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Agrestina</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Altinho</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Camocim de São Félix</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Cupira</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Ibirajuba</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Lagoa dos Gatos</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Panelas</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Sairé</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">São Joaquim do Monte</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr></tbody></table>
+Recife
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse"><tbody><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">COMARCA</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Circunscrição</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito Substituto</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz Substituto</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Limoeiro</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">05</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">9ª</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">00</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">00</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Bom Jardim</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Cumaru</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Feira Nova</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">João Alfredo</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Orobó</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Passira</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">São Vicente Ferrer</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr></tbody></table>
+186
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse"><tbody><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">COMARCA</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Circunscrição</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito Substituto</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz Substituto</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Garanhuns</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">11</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">10ª</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">05</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Angelim</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Bom Conselho</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Brejão</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Caetés</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Calçado</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Canhotinho</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Capoeiras</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Correntes</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Iati</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Jupi</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Jurema</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Lagoa do Ouro</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Lajedo</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Palmeirina</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Saloá</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">São João</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr></tbody></table>
+28
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse"><tbody><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">COMARCA</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Circunscrição</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito Substituto</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz Substituto</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Surubim</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">05</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">11ª</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">00</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Santa Maria do Cambucá</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Vertentes</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr></tbody></table>
+00
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse"><tbody><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">COMARCA</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Circunscrição</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito Substituto</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz Substituto</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Buíque</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">12ª</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">00</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">05</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Águas Belas</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Itaíba</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Pedra</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Tupanatinga</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Venturosa</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr></tbody></table>
+Abreu e Lima
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse"><tbody><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">COMARCA</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Circunscrição</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito Substituto</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz Substituto</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Afogados da Ingazeira</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">04</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">13ª</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">00</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">03</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Itapetim</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">São José do Egito</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Tabira</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Tuparetama</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr></tbody></table>
+06
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse"><tbody><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">COMARCA</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Circunscrição</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito Substituto</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz Substituto</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Arcoverde</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">06</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">14ª</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">00</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">07</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Betânia</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Custódia</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Ibimirim</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Inajá</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Sertânia</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr></tbody></table>
+1ª
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse"><tbody><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">COMARCA</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Circunscrição</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito Substituto</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz Substituto</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Salgueiro</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">05</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">15ª</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">00</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">07</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Mirandiba</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Parnamirim</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">São José do Belmonte</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Serrita</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Terra Nova</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Verdejante</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr></tbody></table>
+21
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse"><tbody><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">COMARCA</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Circunscrição</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito Substituto</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz Substituto</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Floresta</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">16ª</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">00</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">07</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Belém de São Francisco</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Petrolândia</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Tacaratu</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr></tbody></table>
+00
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse"><tbody><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">COMARCA</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Circunscrição</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito Substituto</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz Substituto</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Araripina</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">06</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">17ª</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">00</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">07</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Bodocó</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Exu</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Ipubi</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Moreilândia</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Ouricuri</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">04</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Trindade</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr></tbody></table>
+Camaragibe
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse"><tbody><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">COMARCA</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Circunscrição</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito Substituto</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz Substituto</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Petrolina</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">17</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">18ª</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">07</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Afrânio</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Cabrobó</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Lagoa Grande</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Orocó</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Santa Maria da Boa Vista</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr></tbody></table>
+08
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse"><tbody><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">COMARCA</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Circunscrição</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito Substituto</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz Substituto</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Santa Cruz do Capibaribe</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">06</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">19ª</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">00</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">03</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Taquaritinga do Norte</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Toritama</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr></tbody></table>
+Jaboatão dos Guararapes
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse"><tbody><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">COMARCA</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Circunscrição</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito Substituto</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz Substituto</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Carnaíba</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">20ª</span></p></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">00</span></p></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">02</span></p></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Flores</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Serra Talhada</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">05</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr><tr><td width="125" style="width:93.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Triunfo</span></p></td><td width="108" style="width:81.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="109" style="width:81.7pt;padding:0cm 0cm 0cm 0cm"></td><td width="114" style="width:85.65pt;padding:0cm 0cm 0cm 0cm"></td><td width="86" style="width:64.5pt;padding:0cm 0cm 0cm 0cm"></td></tr></tbody></table>
+25
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="0" style="width:408.5pt;background:white;border-collapse:collapse"><tbody><tr><td width="341" style="width:255.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Cargos</span></p></td><td width="204" style="width:153.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Quantitativo</span></p></td></tr><tr><td width="341" style="width:255.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Desembargador</span></p></td><td width="204" style="width:153.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">52</span></p></td></tr><tr><td width="341" style="width:255.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito de 3ª Entrância</span></p></td><td width="204" style="width:153.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">186</span></p></td></tr><tr><td width="341" style="width:255.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito de 2ª Entrância</span></p></td><td width="204" style="width:153.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">279</span></p></td></tr><tr><td width="341" style="width:255.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito de 1ª Entrância</span></p></td><td width="204" style="width:153.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">126</span></p></td></tr><tr><td width="341" style="width:255.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito Substituto de 3ª Entrância</span></p></td><td width="204" style="width:153.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">28</span></p></td></tr><tr><td width="341" style="width:255.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz de Direito Substituto de 2ª Entrância</span></p></td><td width="204" style="width:153.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">40</span></p></td></tr><tr><td width="341" style="width:255.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juiz Substituto</span></p></td><td width="204" style="width:153.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">55</span></p></td></tr><tr><td width="341" style="width:255.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">TOTAL</span></p></td><td width="204" style="width:153.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">766</span></p></td></tr></tbody></table>
+Moreno
+
+03
+
+Olinda
+
+21
+
+Paulista
+
+17
+
+São Lourenço da Mata
+
+05
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Cabo de Santo Agostinho
+
+16
+
+2ª
+
+05
+
+00
+
+Ipojuca
+
+06
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Igarassu
+
+10
+
+3ª
+
+01
+
+00
+
+Itamaracá
+
+02
+
+Itapissuma
+
+01
+
+Vara Única Distrital de Fernando de Noronha
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Vitória de Santo Antão
+
+11
+
+4ª
+
+01
+
+00
+
+Chã Grande
+
+01
+
+Glória do Goitá
+
+01
+
+Pombos
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Nazaré da Mata
+
+02
+
+5ª
+
+02
+
+00
+
+Aliança
+
+02
+
+Buenos Aires
+
+01
+
+Carpina
+
+05
+
+Condado
+
+01
+
+Ferreiros
+
+01
+
+Goiana
+
+04
+
+Itambé
+
+01
+
+Itaquitinga
+
+01
+
+Lagoa de Itaenga
+
+01
+
+Macaparana
+
+01
+
+Paudalho
+
+02
+
+Timbaúba
+
+03
+
+Tracunhaém
+
+01
+
+Vicência
+
+02
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Palmares
+
+06
+
+6ª
+
+02
+
+00
+
+Água Preta
+
+02
+
+Amaraji
+
+01
+
+Barreiros
+
+02
+
+Belém de Maria
+
+01
+
+Catende
+
+02
+
+Cortês
+
+01
+
+Escada
+
+02
+
+Gameleira
+
+01
+
+Joaquim Nabuco
+
+01
+
+Maraial
+
+01
+
+Primavera
+
+01
+
+Quipapá
+
+01
+
+Ribeirão
+
+02
+
+Rio Formoso
+
+01
+
+São José da Coroa Grande
+
+01
+
+Sirinhaém
+
+01
+
+Tamandaré
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Caruaru
+
+17
+
+7ª
+
+04
+
+00
+
+Alagoinha
+
+01
+
+Belo Jardim
+
+04
+
+Bezerros
+
+04
+
+Brejo da Madre de Deus
+
+02
+
+Cachoeirinha
+
+01
+
+Gravatá
+
+05
+
+Jataúba
+
+01
+
+Pesqueira
+
+04
+
+Poção
+
+01
+
+Riacho das Almas
+
+01
+
+Sanharó
+
+01
+
+São Bento do Una
+
+02
+
+São Caetano
+
+02
+
+Tacaimbó
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Bonito
+
+03
+
+8ª
+
+00
+
+00
+
+Agrestina
+
+01
+
+Altinho
+
+01
+
+Camocim de São Félix
+
+01
+
+Cupira
+
+01
+
+Ibirajuba
+
+01
+
+Lagoa dos Gatos
+
+01
+
+Panelas
+
+01
+
+Sairé
+
+01
+
+São Joaquim do Monte
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Limoeiro
+
+05
+
+9ª
+
+00
+
+00
+
+Bom Jardim
+
+02
+
+Cumaru
+
+01
+
+Feira Nova
+
+01
+
+João Alfredo
+
+01
+
+Orobó
+
+01
+
+Passira
+
+01
+
+São Vicente Ferrer
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Garanhuns
+
+11
+
+10ª
+
+02
+
+05
+
+Angelim
+
+01
+
+Bom Conselho
+
+02
+
+Brejão
+
+01
+
+Caetés
+
+01
+
+Calçado
+
+01
+
+Canhotinho
+
+01
+
+Capoeiras
+
+01
+
+Correntes
+
+01
+
+Iati
+
+01
+
+Jupi
+
+01
+
+Jurema
+
+01
+
+Lagoa do Ouro
+
+01
+
+Lajedo
+
+02
+
+Palmeirina
+
+01
+
+Saloá
+
+01
+
+São João
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Surubim
+
+05
+
+11ª
+
+00
+
+02
+
+Santa Maria do Cambucá
+
+01
+
+Vertentes
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Buíque
+
+02
+
+12ª
+
+00
+
+05
+
+Águas Belas
+
+01
+
+Itaíba
+
+01
+
+Pedra
+
+01
+
+Tupanatinga
+
+01
+
+Venturosa
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Afogados da Ingazeira
+
+04
+
+13ª
+
+00
+
+03
+
+Itapetim
+
+01
+
+São José do Egito
+
+02
+
+Tabira
+
+01
+
+Tuparetama
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Arcoverde
+
+06
+
+14ª
+
+00
+
+07
+
+Betânia
+
+01
+
+Custódia
+
+02
+
+Ibimirim
+
+01
+
+Inajá
+
+01
+
+Sertânia
+
+02
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Salgueiro
+
+05
+
+15ª
+
+00
+
+07
+
+Mirandiba
+
+01
+
+Parnamirim
+
+01
+
+São José do Belmonte
+
+01
+
+Serrita
+
+01
+
+Terra Nova
+
+01
+
+Verdejante
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Floresta
+
+02
+
+16ª
+
+00
+
+07
+
+Belém de São Francisco
+
+01
+
+Petrolândia
+
+02
+
+Tacaratu
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Araripina
+
+06
+
+17ª
+
+00
+
+07
+
+Bodocó
+
+01
+
+Exu
+
+01
+
+Ipubi
+
+01
+
+Moreilândia
+
+01
+
+Ouricuri
+
+04
+
+Trindade
+
+02
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Petrolina
+
+17
+
+18ª
+
+02
+
+07
+
+Afrânio
+
+01
+
+Cabrobó
+
+02
+
+Lagoa Grande
+
+01
+
+Orocó
+
+01
+
+Santa Maria da Boa Vista
+
+01
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Santa Cruz do Capibaribe
+
+06
+
+19ª
+
+00
+
+03
+
+Taquaritinga do Norte
+
+01
+
+Toritama
+
+02
+
+COMARCA
+
+Juiz de Direito
+
+Circunscrição
+
+Juiz de Direito Substituto
+
+Juiz Substituto
+
+Carnaíba
+
+01
+
+20ª
+
+00
+
+02
+
+Flores
+
+01
+
+Serra Talhada
+
+05
+
+Triunfo
+
+01
+
+Cargos
+
+Quantitativo
+
+Desembargador
+
+52
+
+Juiz de Direito de 3ª Entrância
+
+186
+
+Juiz de Direito de 2ª Entrância
+
+279
+
+Juiz de Direito de 1ª Entrância
+
+126
+
+Juiz de Direito Substituto de 3ª Entrância
+
+28
+
+Juiz de Direito Substituto de 2ª Entrância
+
+40
+
+Juiz Substituto
+
+55
+
+TOTAL
+
+766

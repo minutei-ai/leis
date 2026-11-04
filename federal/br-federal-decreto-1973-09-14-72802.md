@@ -1,5 +1,3 @@
-###DEC-072802-0-000-14-09-1973@@@
-
 DECRETO Nº 72.802, DE 14 DE SETEMBRO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, um terreno urbano, sem benfeitorias, situado na Cidade de Barbacena, Estado de Minas Gerais, destinado à construção de uma estação telefônica, pela Companhia Telefônica de Minas Gerais - CTMG.

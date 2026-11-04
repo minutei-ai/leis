@@ -1,5 +1,3 @@
-###DEL-000581-0-000-14-05-1969@@@
-
 DECRETO-LEI Nº 581, DE 14 DE MAIO DE 1969
 
 Aprova a Emenda ao Convênio Constitutivo do Fundo Monetário Internacional, votada pela Junta de Governadores daquela instituição em 31 de maio de 1968, modifica a Lei número 4.595, de 31 de dezembro de 1964 e toma outras providências.

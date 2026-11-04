@@ -1,6 +1,10 @@
 > **LEI Nº 3.124, DE 10 DE MARÇO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a concessão de subvenções sociais pelo Poder Executivo em favor de entidades civis sem fins lucrativos na área de assistência social e na área da saúde.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a concessão de subvenções sociais pelo Poder Executivo em favor de entidades civis sem fins lucrativos na área de assistência social e na área da saúde.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -107,8 +111,6 @@ XXIII – Associação dos Amigos e Pais dos Autistas do Acre – AMPAC.
 **Art. 7º** Ficam convalidadas, a partir de 1o de janeiro de 2016, eventuais prorrogações de subvenções que tenham sido concedidas em conformidade com a Lei n. 2.948, de 30 de dezembro de 2014. 
 
 **Art. 8º** Fica permitida a prorrogação, até o final do exercício financeiro, das subvenções concedidas com base nesta lei às entidades mencionadas nos arts. 1º e 2º. 
-
-<br>
 
 **Art. 9°** Esta Lei entra em vigor na data de sua publicação.Rio Branco-Acre, 10 de março de 2016, 128º da República, 114º do Tratado de Petrópolis e 55º do Estado do Acre.
 

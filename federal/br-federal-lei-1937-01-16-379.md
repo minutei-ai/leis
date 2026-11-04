@@ -1,22 +1,20 @@
-###LEI-000379-0-000-16-01-1937@@@
+**LEI N 379 – DE 16 DE JANEIRO DE 1937**
 
-<strong>LEI N 379 – DE 16 DE JANEIRO DE 1937</strong>
-
-<em><strong>Regula o casamento religioso para os efeitos civis</strong></em>
+***Regula o casamento religioso para os efeitos civis***
 
 O Presidente da Republica dos Estados Unidos do Brasil:
 
 Faço saber que o Poder Legislativo decreta e eu sanciono a seguinte lei :
 
-<strong>Art.</strong> 1º Aos nubentes ó facultado requerer, ao juiz competente para a habilitação conforme a lei civil, que seu casamento seja celebrado por ministro da Igreja Católica, ao culto protestante, grego, ortodoxo, ou israelita, ou de outro cujo rito não contrarie a ordem publica ou os bons costumes.
+**Art.** 1º Aos nubentes ó facultado requerer, ao juiz competente para a habilitação conforme a lei civil, que seu casamento seja celebrado por ministro da Igreja Católica, ao culto protestante, grego, ortodoxo, ou israelita, ou de outro cujo rito não contrarie a ordem publica ou os bons costumes.
 
 § 1º O requerimento, assinado pelos nubentes, ou procuradores bastantes, será apresentado ao iniciar-se o processo de habilitação, ou depois de concluído, com indicação da confissão religiosa e da investidura do ministro, sua sede e, quando possível, do seu nome, podendo prever-se a intervenção do substituto respectivo.
 
-§ 2<em>º</em> O requerimento, com todas as suas indicações, constará dos proclamas, tendo sido feito ao iniciar-se a habilitação, ou de editais, publicados da mesma forma e com o mesmo prazo por que o tenham sido os proclamas, se formulado depois de concluída a habilitação.
+§ 2*º* O requerimento, com todas as suas indicações, constará dos proclamas, tendo sido feito ao iniciar-se a habilitação, ou de editais, publicados da mesma forma e com o mesmo prazo por que o tenham sido os proclamas, se formulado depois de concluída a habilitação.
 
 § 3º No prazo dos proclamas, ou dos editais a que se refere o § 2º, qualquer pessoa maior poderá alegar, perante c juiz, por escrito, sob sua assinatura, instruído desde logo ao menos com principio de prova, que o celebrante indicado não é ministro da confissão religiosa escolhida, ou não se acha autorizado a celebrar matrimonio; e também, quando se tratar de igreja, ou religião, não mencionada expressamente no principio deste artigo, que a confissão religiosa indicada contraria a ordem publica ou os bons costumes. As alegações oferecidas serão processadas e julgadas como impedimentos, juntamente com quaisquer outros opostos na forma da lei.
 
-§ <em>4º</em> Decidindo a impugnação nos termos do § 3º, o juiz poderá impor, desde logo, a pena de multa de 100$ a 500$, ou de prisão simples por <em>10</em> a 80 dias, a quem a tiver oferecido falsa ou dolosamente.
+§ *4º* Decidindo a impugnação nos termos do § 3º, o juiz poderá impor, desde logo, a pena de multa de 100$ a 500$, ou de prisão simples por *10* a 80 dias, a quem a tiver oferecido falsa ou dolosamente.
 
 § 5º Os nubentes poderão excluir c, prosseguimento do processo e o julgamento da impugnação, desistindo, em qualquer momento, do requerimento apresentado nos termos deste artigo, para que o casamento seja celebrado pela autoridade civil, observadas as demais disposições de lei aplicáveis.
 
@@ -24,15 +22,15 @@ Faço saber que o Poder Legislativo decreta e eu sanciono a seguinte lei :
 
 § 7º A autoridade superior de qualquer confissão religiosa, reconhecida idônea para os fins desta lei, poderá comunicar aos escrivães de casamentos civis, na comarca, termo ou distrito, as investiduras, sedes e nomes dos ministros da mesma confissão, que estejam autorizados a celebrar casamento. Dessa comunicação dará recibo o escrivão, assim como das ulteriores, referentes a qualquer alteração superveniente. Caberá ao escrivão, quando tenha recebido tal comunicação, certificar, no processo de habilitação, que o Ministro indicado pelos nubentes se acha, ou não, mencionado na relação; e, se o não estiver, mandará o juiz que as partes comprovem a sua qualidade para celebrar o casamento, ou indiquem outro ministro, procedendo-se na forma dos parágrafos procedentes quanto a essa nova indicação.
 
-<strong>Art.</strong> 2º Deferido o requerimento autorizado pelo artigo precedente, determinará o juiz que o oficial expeça, oportunamente, certidão de estarem os requerentes habilitados na forma da lei civil, para casarem-se, a qual valerá unicamente para esse efeito, e mencionará :
+**Art.** 2º Deferido o requerimento autorizado pelo artigo precedente, determinará o juiz que o oficial expeça, oportunamente, certidão de estarem os requerentes habilitados na forma da lei civil, para casarem-se, a qual valerá unicamente para esse efeito, e mencionará :
 
 a) nomes, pronomes, data e nascimento, profissão, domicilio e residência atual dos nubentes;
 
-<em>b)</em> nomes, pronomes, data de nascimento ao de morte, domicilio e residência atual dos pais;
+*b)* nomes, pronomes, data de nascimento ao de morte, domicilio e residência atual dos pais;
 
 c) nome e pronome do cônjuge precedente e a data de dissolução do casamento;
 
-<em>d)</em> data da publicação dos proclamas;
+*d)* data da publicação dos proclamas;
 
 e) os documentos apresentados para a habilitação;
 
@@ -42,7 +40,7 @@ f) investidura, cargo e local da sede do Ministro e, quando constar, o seu nome.
 
 § 2º A certidão valerá para o casamento durante trinta dias, contados de sua data; findo esse prazo, será necessária nova certidão, extraída, a requerimento dos nubentes, dos mesmos autos de habilitação, caso esta ainda vigore.
 
-<strong>Art.</strong> 3º O ministro, que celebrar o casamento entregará logo, mediante recibo, aos nubentes, a um deIes ou á pessoa que designarem, um dos exemplares do termo que lavrará ou fará lavrar, ato continuo, em língua vernácula e em duas vias de igual teor.
+**Art.** 3º O ministro, que celebrar o casamento entregará logo, mediante recibo, aos nubentes, a um deIes ou á pessoa que designarem, um dos exemplares do termo que lavrará ou fará lavrar, ato continuo, em língua vernácula e em duas vias de igual teor.
 
 § 1º Constarão do termo :
 
@@ -60,11 +58,11 @@ f) o regime de bens do casamento, e, se os nubentes fizerem a declaracão, a dat
 
 g) a declaração de que o mesmo termo foi lavrado em duas vias, de igual teor, sendo uma em livro proprio e outra em avulso, e da pessoa a quem, na fórma do presente artigo,foi esta ultima entregue.
 
-§ 2º O ministro, fará, ainda, comunicação do casamento, com as indicações das letras a, <em>b</em> e c, do parágrafo precedente, ao oficial do Registro Civil que processou a habilitação. Esta comunicação será expedida, impreterivelmente, no mesmo dia, ou nos dois primeiros dias úteis, após o casamento, sob registro postal, gratuito, com recibo de volta. O funcionário postai verificará o teor da comunicação, antes de encerrada a sobrecarta, mencionando no certificado tratar-se de termo de casamento religioso das pessoas que também nomeará.
+§ 2º O ministro, fará, ainda, comunicação do casamento, com as indicações das letras a, *b* e c, do parágrafo precedente, ao oficial do Registro Civil que processou a habilitação. Esta comunicação será expedida, impreterivelmente, no mesmo dia, ou nos dois primeiros dias úteis, após o casamento, sob registro postal, gratuito, com recibo de volta. O funcionário postai verificará o teor da comunicação, antes de encerrada a sobrecarta, mencionando no certificado tratar-se de termo de casamento religioso das pessoas que também nomeará.
 
-<strong>Art.</strong> 4º Logo que lhe seja apresentado, pela pessoa a quem o ministro entregara o termo avulso de que trata o art. 3º, o oficial do Registro Civil fará, gratuitamente, a inscrição do casamento, lavrando o assentamento no livro respectivo, em que transcreverá, na integra, o mesmo termo, subscrevendo-o com o apresentaste, ou apresentantes, e duas testemunhas. No assentamento, o oficial fará, referencia aos documentos que acompanhe o termo.
+**Art.** 4º Logo que lhe seja apresentado, pela pessoa a quem o ministro entregara o termo avulso de que trata o art. 3º, o oficial do Registro Civil fará, gratuitamente, a inscrição do casamento, lavrando o assentamento no livro respectivo, em que transcreverá, na integra, o mesmo termo, subscrevendo-o com o apresentaste, ou apresentantes, e duas testemunhas. No assentamento, o oficial fará, referencia aos documentos que acompanhe o termo.
 
-§ <em>1º</em> A apresentação do termo ao Registro, em qualquer caso, poderá ser efetuada, independente de outra formalidade, pelos próprios nubentes, por algum deles, ou por procurador com poderes especiais.
+§ *1º* A apresentação do termo ao Registro, em qualquer caso, poderá ser efetuada, independente de outra formalidade, pelos próprios nubentes, por algum deles, ou por procurador com poderes especiais.
 
 § 2º O oficial juntará o termo avulso e as procurações, se houver, aos autos da habilitação do casamento, certificando data da inscrição e números da pagina e livro em que lançou.
 
@@ -76,19 +74,19 @@ g) a declaração de que o mesmo termo foi lavrado em duas vias, de igual teor, 
 
 § 6º Efetuada a inscrição do casamento, dará logo o oficial, a quem lhe apresentou o termo, se pedir. certidão da mesma inscrição, não excedendo de 10$000 os emolumentos respectivos, sendo, porém, gratuita, quando houver requisição do juiz criminal, ou de menores, nos casos do sua competência, em favor de pessoas necessitadas.
 
-<strong>Art.</strong> 5º O Ministro de confissão religiosa, especificada no art. 1º que celebrar casamento, estando algum das contraentes em iminente perigo de vida, lavrará, ou fará lavrar, no livro próprio, ou em separado, o respectivo termo, em duas vias, com os possíveis requisitos do art. 3º § assinado por ele, pelo contraente que souber, ou puder assinar, e por quatro testemunhas que saibam ler e escrever.
+**Art.** 5º O Ministro de confissão religiosa, especificada no art. 1º que celebrar casamento, estando algum das contraentes em iminente perigo de vida, lavrará, ou fará lavrar, no livro próprio, ou em separado, o respectivo termo, em duas vias, com os possíveis requisitos do art. 3º § assinado por ele, pelo contraente que souber, ou puder assinar, e por quatro testemunhas que saibam ler e escrever.
 
 § 1º A segunda via do termo lavrado será enviada, pelo .Ministro celebrante do casamento, ao oficial do Registro Civil do distrito em que se tiver efetuado, nos termos e prazo do art. 3º .
 
 § 2º De posse da segunda via, o oficial, imediatamente, a autuará, ou juntará aos autos da habilitação respectiva, se houver, fazendo-se concluso ao juiz competente, prosseguindo-se nos termos do art. 200 do Código civil.
 
-<strong>Art.</strong> 6º  Os Ministros religiosos, que celebrarem casamentos na conformidade desta lei. ficarão responsáveis pela boa escrituração, guarda e conservação dos livros em que lavrarem os termos. assim como das certidões de habilitação e, quando exigirem a sua apresentação em duplicata, das procurações exibidas.
+**Art.** 6º  Os Ministros religiosos, que celebrarem casamentos na conformidade desta lei. ficarão responsáveis pela boa escrituração, guarda e conservação dos livros em que lavrarem os termos. assim como das certidões de habilitação e, quando exigirem a sua apresentação em duplicata, das procurações exibidas.
 
-<strong>Art.</strong> 7º Se até 60 dias depois de expedida a certidão do art. 2º não tiver sido feito a inscrição, o oficial do Registro Civil requisitará, do ministro que fora designado, informação escrita sobre a celebração do mesmo casamento. A requisição atenderá, no prazo de dez dias. o ministro. enviando copia autentico do termo do casamento. se o tiver efetuado.
+**Art.** 7º Se até 60 dias depois de expedida a certidão do art. 2º não tiver sido feito a inscrição, o oficial do Registro Civil requisitará, do ministro que fora designado, informação escrita sobre a celebração do mesmo casamento. A requisição atenderá, no prazo de dez dias. o ministro. enviando copia autentico do termo do casamento. se o tiver efetuado.
 
 Parágrafo único. De posse dessa informação, o oficial juntal-a-á aos autos da habilitação do casamento a que se refere, procedendo-se nos termos dos §§ 3º e 4º do art. 4
 
-<strong>Art.</strong> 8º O registro é obrigatório.
+**Art.** 8º O registro é obrigatório.
 
 § 1º Cabe a obrigação de promover o registro ao pai ou ao tutor do marido. se ambos os contraentes forem menores. ou ao do cônjuge menor, se apenas um deles o for, e, nos demais casos, á pessoa designada conforme o art. 3. 3 4; letra g.
 
@@ -96,7 +94,7 @@ Parágrafo único. De posse dessa informação, o oficial juntal-a-á aos autos 
 
 § 3º Findo o prazo de 6O dias, o registro poderá ser feito em virtude e decisão judicial, sem prejuízo as penalidades em que tentam incorrido os responsáveis pelo retardamento.
 
-<strong>Art.</strong> 9º Incorre nas penas do art. 283 da Consolidação das Leis Penais quem contrair novo casamento, civil ou religioso, com efeitos civis, depois do celebrado casamento religioso, na conformidade desta lei, ainda que este se não ache inscrito no Registro Civil.
+**Art.** 9º Incorre nas penas do art. 283 da Consolidação das Leis Penais quem contrair novo casamento, civil ou religioso, com efeitos civis, depois do celebrado casamento religioso, na conformidade desta lei, ainda que este se não ache inscrito no Registro Civil.
 
 § 1º Cometem os crimes e ficam sujeitos, respectivamente, ás penas dos artigos 251, 252, 253, 256, 257, 258, 259 e 261 e seus parágrafos da Consolidação das Leis Penais, os que praticarem os atos previstos nesses dispositivos, ou se servirem de documentos, ou papeis, neles mencionados, para a celebração do casamento religioso ou para a sua inscrição no Registro Civil.
 
@@ -116,19 +114,19 @@ c) quem faltar, por culpa ou dolo, ao exacto cumprimento da obrigação decorren
 
 § 6º Não cumprindo o oficial do Registro Civil, pronta e exatamente, as obrigações, formalidades ou encargos, que esta lei lhe impõe, incorrerá nas penas de multa de 200$ a 2:000$, e de suspensão do exercício do cargo por um a doze meses impostas, de plano, pelo juiz competente, de oficio ou a requerimento dos nubentes, do representante do Ministério Publico, ou do ministro religioso celebrante do casamento, ouvido sempre o oficial responsável.
 
-<strong>Art.</strong> 10. Nas casamentos a que se refere a presente lei, a inscrição no Registro Civil revalida o ato praticado perante pessoa incompetente, ou com omissão de qualquer das formalidades exigidas, ressalvada apenas a nulidade, ou anulação, nos casos dos artigos 207 e 209 e seguintes do Código Civil, e sem excluir a aplicação das penas criminais, ou disciplinares, cabíveis.
+**Art.** 10. Nas casamentos a que se refere a presente lei, a inscrição no Registro Civil revalida o ato praticado perante pessoa incompetente, ou com omissão de qualquer das formalidades exigidas, ressalvada apenas a nulidade, ou anulação, nos casos dos artigos 207 e 209 e seguintes do Código Civil, e sem excluir a aplicação das penas criminais, ou disciplinares, cabíveis.
 
-<strong>Art.</strong> 11. As ações de nulidade ou de anulação de casamento celebrado por ministro religioso, obedecerão exclusivamente, aos preceitos da lei civil e serão processadas noa juízos ordinários, atingindo apenas os efeitos civis do mesmo casamento.
+**Art.** 11. As ações de nulidade ou de anulação de casamento celebrado por ministro religioso, obedecerão exclusivamente, aos preceitos da lei civil e serão processadas noa juízos ordinários, atingindo apenas os efeitos civis do mesmo casamento.
 
 Parágrafo único. A sentença que decretar a nuldado será, sempre que possível, anotada, no livro respectivo, á margem do termo do casamento, antes de averbada no Registro Civil.
 
-<strong>Art.</strong> 12. Poderá ser anulado o registro do casamento religioso nos mesmos casos e prazos, e pelo mesmo processo, por que se anula o casamento civil.
+**Art.** 12. Poderá ser anulado o registro do casamento religioso nos mesmos casos e prazos, e pelo mesmo processo, por que se anula o casamento civil.
 
 § 1º Nos casos do art. 219, ns. I a III do Código Civil, poderá o cônjuge enganado obstar o registro do casamento religioso, enquanto o mesmo se não tenha efetuado.
 
 § 2º No caso do nº IV, do mesmo art. 219, será de 10 dias o prazo para obstar ou anular o registro do casamento religioso.
 
-<strong>Art.</strong> 13. Cabe recurso de agravo de petição, interposto :
+**Art.** 13. Cabe recurso de agravo de petição, interposto :
 
 I, por qualquer dos nubentes e pelo representante do Ministério Publico, ou da religião de que se trate, das desições:
 
@@ -138,12 +136,12 @@ b) sobre a inseripção de casamento celebrado por ministro religioso.
 
 II, pelo official do Registro Civil, da imposição de multa, ou suspensão.
 
-<strong>Art.</strong> 14. Entrará esta lei em execução, em todo o território nacional, trinta dias depois de sua publicação no Diario Oficial da União.
+**Art.** 14. Entrará esta lei em execução, em todo o território nacional, trinta dias depois de sua publicação no Diario Oficial da União.
 
-<strong>Art.</strong> 15. Revogam-se as disposições em contrario.
+**Art.** 15. Revogam-se as disposições em contrario.
 
 Rio de Janeiro, em 16 de janeiro de 1937, 116º da Independência e 49º da Republica.
 
-<strong>GETULIO VARGAS.</strong>
+**GETULIO VARGAS.**
 
 Agamemnon Magalhães.

@@ -1,5 +1,3 @@
-###DEC-046296-0-000-29-06-1959@@@
-
 Decreto nº 46.296, de 29 de junho de 1959.
 
 Autoriza o cidadão brasileiro Sebastião de Oliveira a pesquisar calcário no município de Matozinhos, Estado de Minas Gerais.

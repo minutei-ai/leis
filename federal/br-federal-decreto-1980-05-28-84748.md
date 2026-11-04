@@ -1,5 +1,3 @@
-###DEC-084748-0-000-28-05-1980@@@
-
 DECRETO Nº 84.748 DE 28 DE MAIO DE 1980.
 
 Autoriza o funcionamento do curso de Arquitetura e Urbanismo do Centro de Estudos Superiores do Estado do Pará.

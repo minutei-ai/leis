@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=184083)
-
 # DECRETO Nº 62.952, DE 21 DE NOVEMBRO DE 2017
 
 ### _Autoriza a Fazenda do Estado a permitir o uso, a título precário, gratuito e por prazo indeterminado, em favor da SPDM - Associação Paulista para o Desenvolvimento da Medicina, Organização Social de Saúde, do imóvel que especifica_
@@ -18,9 +16,14 @@ Decreta:
 
 Palácio dos Bandeirantes, 21 de novembro de 2017
 
-GERALDO ALCKMIN<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+GERALDO ALCKMIN
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 21 de novembro de 2017.

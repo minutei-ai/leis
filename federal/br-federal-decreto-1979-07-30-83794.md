@@ -1,5 +1,3 @@
-###DEC-083794-0-000-30-07-1979@@@
-
 decreto nº 83.794 de 30 de julho de 1979.
 
 Concede reconhecimento ao curso de Tecnólogos em Cooperativismo da Universidade Federal de Santa Maria, Estado do Rio Grande do Sul.

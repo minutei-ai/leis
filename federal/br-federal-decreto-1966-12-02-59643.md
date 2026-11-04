@@ -1,5 +1,3 @@
-###DEC-059643-0-000-02-12-1966@@@
-
 decreto nº 59.643, de 2 de dezembro de 1966.
 
 Aprova os Estatutos da Fundação Casa de Rui Barbosa.
@@ -189,8 +187,6 @@ Art. 19. A extinção da Fundação, no caso de comprovada impossibilidade de re
 Parágrafo único. O Presidente da República decidirá nesta hipótese, sôbre a destinação dos bens e direitos da Fundação.
 
 raymundo moniz de aragão
-
-###DEC-059643-0-000-02-12-1966@@@RET01+++
 
 DECRETO Nº 59.643, DE 2 DE DEZEMBRO DE 1966.
 

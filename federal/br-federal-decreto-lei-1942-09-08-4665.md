@@ -1,5 +1,3 @@
-###DEL-004665-0-000-08-09-1942@@@
-
 DECRETO-LEI N. 4.665 – DE 8 DE SETEMBRO DE 1942
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito suplementar de 31:000$0 à verba que especifica

@@ -1,5 +1,3 @@
-###DEC-058272-0-000-28-04-1966@@@
-
 DECRETO Nº 58.272, DE 28 DE ABRIL DE 1966.
 
 Concede à Bentonit União S.A. - Indústria e Comércio autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-071145-0-000-26-09-1972@@@
-
 Decreto nº 71.145, de 26 de setembro de 1972.
 
 Altera o artigo 1º do Decreto número 63.022, de 19 de julho de 1968, que autoriza o Serviço de Patrimônio da União a aceitar doação de terreno.

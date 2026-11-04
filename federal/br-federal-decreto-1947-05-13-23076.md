@@ -1,24 +1,22 @@
-###DEC-023076-0-000-13-05-1947@@@
+**decreto nº 23.076, de 13 de maio de 1947.**
 
-<strong>decreto nº 23.076, de 13 de maio de 1947.</strong>
+***Promulga o Convênio Cultural entre o Brasil e o Panamá, firmado no Rio de Janeiro, a 6 de março de 1944.***
 
-<em><strong>Promulga o Convênio Cultural entre o Brasil e o Panamá, firmado no Rio de Janeiro, a 6 de março de 1944.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, considerando que foi aprovado a 11 de setembro de 1946 e ratificado a 11 e fevereiro de 1947, pelo Govêrno brasileiro, o Convênio cultural entre o Brasil e o Panamá, firmado no rio de Janeiro a 6 de março de 1944;
+**O PRESIDENTE DA REPÚBLICA**, considerando que foi aprovado a 11 de setembro de 1946 e ratificado a 11 e fevereiro de 1947, pelo Govêrno brasileiro, o Convênio cultural entre o Brasil e o Panamá, firmado no rio de Janeiro a 6 de março de 1944;
 
 CONSIDERANDO que foram trocados os respectivos instrumentos de ratificação na cidade do Panamá, a 11 de abril de 1947; e
 
 USANDO da atribuição que lhe confere o art. 87, nº I da Constituição Federal,
 
-<strong>Decreta:</strong>
+**Decreta:**
 
-<strong>Art</strong>. 1º Fica promulgado o Convênio Cultural, apenso por cópia ao presente decreto e firmado no Rio de janeiro, a 6 de março de 1944.
+**Art**. 1º Fica promulgado o Convênio Cultural, apenso por cópia ao presente decreto e firmado no Rio de janeiro, a 6 de março de 1944.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação.
 
 Rio de Janeiro, 13 de maio de 1947, 126º da Independência e 59º da República.
 
-<strong>eurico g. dutra</strong>
+**eurico g. dutra**
 
 Hildebrando Accioly
 
@@ -152,7 +150,7 @@ Cada una de las Altas Partes Contratantes podrá denunciar este Convenio en cual
 
 En fe de lo cual, los Plenipotenciarios arriba mencionados firman el presente Convenio, en dos ejemplares, en los idiomas portués y español, y lo sellan en la Ciudad de Rio de Janeiro a los seis dias del mes de Marzo del afio de mil novecientos y cuarenta y cuatro.
 
-<strong>L.S. Oswaldo aranha</strong>
+**L.S. Oswaldo aranha**
 
 L.S. Ofilio Hazera
 
@@ -162,6 +160,6 @@ Em firmeza do que, maldel passar esta Carta, que assino e é selada com o selo d
 
 Dada no Palácio da Presidência, no Rio de Janeiro, aos onze dias do mês de fevereiro de mil novecentos e quarenta e sete, 126º da Independência e 59º da República.
 
-<strong>Eurico Gaspar Dutra</strong>
+**Eurico Gaspar Dutra**
 
 Raul Fernandes

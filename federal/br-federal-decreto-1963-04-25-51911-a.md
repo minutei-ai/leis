@@ -1,5 +1,3 @@
-###DEC-051911-A-000-25-04-1963@@@
-
 DECRETO Nº 51.911-A, de 25 de ABRIL DE 1963.
 
 Outorga à Companhia Paranaense de Energia Elétrica concessão para distribuir energia elétrica no município de Guaraci, no Estado do Paraná.

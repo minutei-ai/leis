@@ -1,5 +1,3 @@
-###DEC-087178-0-000-18-05-1982@@@
-
 Decreto nº 87.178, de 18 de maio de 1982
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO SOCIEDADE FARROUPILHA LTDA., posteriormente denominada RÁDIO FARROUPILHA S.A., e autorizada a transferência direta para a REDE POPULAR DE COMUNICAÇÕES LTDA., que passará a executar serviço de radiodifusão sonora em onda média de âmbito nacional, na cidade de Porto Alegre, Estado do Rio Grande do Sul.

@@ -1,7 +1,3 @@
-1
-
-###DEC-097785-0-000-26-05-1989@@@
-
 DECRETO N° 97.785, DE 26 DE MAIO DE 1989
 
 Autoriza o funcionamento do curso de Administração-Análise de Sistemas, da Faculdade da Ilha do Governador.

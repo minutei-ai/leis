@@ -1,5 +1,3 @@
-###DEC-072149-0-000-30-04-1973@@@
-
 DECRETO Nº 72.149, DE 30 DE ABRIL DE 1973.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio GLOBO S.A. para executar serviço de radiodifusão sonora, em onda média de âmbito nacional, na cidade do Rio de Janeiro, Estado da Guanabara.
@@ -21,8 +19,6 @@ Brasília, 30 de abril de 1973; 152º da Independência e 85º da República.
 EMÍLIO G. MÉDICI
 
 Hygino C. Corsetti
-
-###DEC-072149-0-000-30-04-1973@@@
 
 DECRETO Nº 72.149, DE 30 DE ABRIL DE 1973.
 

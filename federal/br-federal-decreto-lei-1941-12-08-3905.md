@@ -1,5 +1,3 @@
-###DEL-003905-0-000-08-12-1941@@@
-
 DECRETO-LEI N. 3.905 – DE 8 DE DEZEMBRO DE 1941
 
 Regulamenta a atividade funcional da classe dos Despachantes da Prefeitura do Distrito Federal, e dá outras providências

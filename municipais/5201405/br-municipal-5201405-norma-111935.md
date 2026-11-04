@@ -20,8 +20,10 @@ Art. 2º - Esta Lei entrará em vigor na data de sua publicação, revogadas as 
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos vinte e três dias do mês de abril de hum mil novecentos e noventa e três.
 
-NORBERTO TEIXEIRA<br>
+NORBERTO TEIXEIRA
+
 PREFEITO MUNICIPAL
 
-MARLÚCIO PEREIRA DA SILVA<br>
+MARLÚCIO PEREIRA DA SILVA
+
 SEC. EXECUTIVO

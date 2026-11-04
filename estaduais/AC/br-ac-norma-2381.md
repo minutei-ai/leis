@@ -2,7 +2,11 @@ Modificada pelas Leis nº [3.338, de 13 de Dezembro de 2017;](https://legis.ac.g
 
 > **LEI Nº 3.204, DE 20 DE DEZEMBRO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo a contratar operação de crédito denominada Financiamento para Infraestrutura e Saneamento – FINISA, junto à Caixa Econômica Federal – CAIXA, e a abrir créditos adicionais para os programas de investimentos.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Poder Executivo a contratar operação de crédito denominada Financiamento para Infraestrutura e Saneamento – FINISA, junto à Caixa Econômica Federal – CAIXA, e a abrir créditos adicionais para os programas de investimentos.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -20,15 +24,11 @@ Modificada pelas Leis nº [3.338, de 13 de Dezembro de 2017;](https://legis.ac.g
 
 **V -** financiamento de novos investimentos estruturantes, inclusive seus projetos. (Incluído pela Lei nº 3.546, de 13/11/2019)
 
-<br>
-
 **Parágrafo único.** Os recursos provenientes da operação de crédito autorizada no _caput_, serão, obrigatoriamente, aplicados viabilização de despesas de capital constantes no Plano Plurianual – PPA e dos Orçamentos Anuais do Estado – OGE’s, vedada a aplicação de tais recursos em despesas correntes.
 
 **~~Art. 2º~~** ~~O Poder Executivo está autorizado a ceder ou vincular em contragarantia da operação de crédito de que trata esta lei, as cotas de repartição constitucional, previstas nos arts. 157 e 159, complementadas pela receita tributária estabelecidas no art. 155 da Constituição Federal, nos termos do § 4º do art. 167, bem como outras garantias em direito admitidas, até o limite suficiente para o pagamento das prestações e demais encargos decorrentes desta lei.~~
 
 **Art. 2º** Em garantia, e como meio de pagamento das operações a serem contratadas, o Poder Executivo Estadual fica autorizado a vincular as quotas de participação constitucional previstas nos arts. 157 e 159, complementadas pelas receitas tributárias estabelecidas no art. 155, nos termos do inciso IV do art. 167, todos da Constituição Federal, bem como outras garantias em direito admitidas. (Redação dada pela Lei nº 3.338, de 13/12/2017)
-
-<br>
 
 **Art. 3º** Os recursos provenientes da operação de crédito objeto do financiamento serão consignados como receita no orçamento ou em créditos adicionais.
 

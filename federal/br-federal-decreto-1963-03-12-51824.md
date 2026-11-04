@@ -1,5 +1,3 @@
-###DEC-051824-0-000-12-03-1963@@@
-
 DECRETO Nº 51.824, DE 12 DE MARÇO DE 1963.
 
 Concede à Mineração Alto Paranaíba Ltda., autorização para funcionar como emprêsa de mineração.

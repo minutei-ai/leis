@@ -174,8 +174,108 @@ PRÊMIO POR DESEMPENHO POLICIAL - PDP (EM R$)
 
 Vigência para pagamento no 1º semestre de 2016
 
-<table style="border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 64.55pt; border: solid #000001 1.0pt; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="86"><p class="Tabela-Texto"><span class="Textodebale3oChar">Classificação</span></p></td><td style="width: 167.95pt; border: solid #000001 1.0pt; border-left: none; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="224"><p class="Tabela-Texto"><span class="Textodebale3oChar">Delegado de Polícia Civil</span></p><p class="Tabela-Texto"><span class="Textodebale3oChar">Oficial da Polícia Militar</span></p><p class="Tabela-Texto"><span class="Textodebale3oChar">Perito Criminal</span></p><p class="Tabela-Texto"><span class="Textodebale3oChar">Perito Médico Legista</span></p><p class="Tabela-Texto"><span class="Textodebale3oChar">Perito Odonto-Legal</span></p><p class="Tabela-Texto"><span class="Textodebale3oChar">Cargo em Comissão - DAS</span></p></td><td style="width: 167.55pt; border: solid #000001 1.0pt; border-left: none; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="223"><p class="Tabela-Texto"><span class="Textodebale3oChar">Investigador de Polícia Civil Escrivão de Polícia Civil</span></p><p class="Tabela-Texto"><span class="Textodebale3oChar">Praça da Polícia Militar</span></p><p class="Tabela-Texto"><span class="Textodebale3oChar">Perito Técnico</span></p><p class="Tabela-Texto"><span class="Textodebale3oChar">Cargo em Comissão - DAI</span></p></td></tr><tr><td style="width: 64.55pt; border: solid #000001 1.0pt; border-top: none; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="86"><p class="Tabela-Texto"><span class="Textodebale3oChar">PDP-1</span></p></td><td style="width: 167.95pt; border-top: none; border-left: none; border-bottom: solid #000001 1.0pt; border-right: solid #000001 1.0pt; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="224"><p class="Tabela-Texto"><span class="Textodebale3oChar">R$ 4.000,00</span></p></td><td style="width: 167.55pt; border-top: none; border-left: none; border-bottom: solid #000001 1.0pt; border-right: solid #000001 1.0pt; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="223"><p class="Tabela-Texto"><span class="Textodebale3oChar">R$ 2.800,00</span></p></td></tr><tr><td style="width: 64.55pt; border: solid #000001 1.0pt; border-top: none; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="86"><p class="Tabela-Texto"><span class="Textodebale3oChar">PDP-2</span></p></td><td style="width: 167.95pt; border-top: none; border-left: none; border-bottom: solid #000001 1.0pt; border-right: solid #000001 1.0pt; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="224"><p class="Tabela-Texto"><span class="Textodebale3oChar">R$ 2.700,00</span></p></td><td style="width: 167.55pt; border-top: none; border-left: none; border-bottom: solid #000001 1.0pt; border-right: solid #000001 1.0pt; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="223"><p class="Tabela-Texto"><span class="Textodebale3oChar">R$ 1.620,00</span></p></td></tr><tr><td style="width: 64.55pt; border: solid #000001 1.0pt; border-top: none; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="86"><p class="Tabela-Texto"><span class="Textodebale3oChar">PDP-3</span></p></td><td style="width: 167.95pt; border-top: none; border-left: none; border-bottom: solid #000001 1.0pt; border-right: solid #000001 1.0pt; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="224"><p class="Tabela-Texto"><span class="Textodebale3oChar">R$ 2.000,00</span></p></td><td style="width: 167.55pt; border-top: none; border-left: none; border-bottom: solid #000001 1.0pt; border-right: solid #000001 1.0pt; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="223"><p class="Tabela-Texto"><span class="Textodebale3oChar">R$ 1.200,00</span></p></td></tr><tr><td style="width: 64.55pt; border: solid #000001 1.0pt; border-top: none; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="86"><p class="Tabela-Texto"><span class="Textodebale3oChar">PDP-4</span></p></td><td style="width: 167.95pt; border-top: none; border-left: none; border-bottom: solid #000001 1.0pt; border-right: solid #000001 1.0pt; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="224"><p class="Tabela-Texto"><span class="Textodebale3oChar">R$ 1.000,00</span></p></td><td style="width: 167.55pt; border-top: none; border-left: none; border-bottom: solid #000001 1.0pt; border-right: solid #000001 1.0pt; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="223"><p class="Tabela-Texto"><span class="Textodebale3oChar">R$ 600,00</span></p></td></tr><tr><td style="width: 64.55pt; border: solid #000001 1.0pt; border-top: none; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="86"><p class="Tabela-Texto"><span class="Textodebale3oChar">PDP-5</span></p></td><td style="width: 167.95pt; border-top: none; border-left: none; border-bottom: solid #000001 1.0pt; border-right: solid #000001 1.0pt; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="224"><p class="Tabela-Texto"><span class="Textodebale3oChar">R$ 600,00</span></p></td><td style="width: 167.55pt; border-top: none; border-left: none; border-bottom: solid #000001 1.0pt; border-right: solid #000001 1.0pt; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="223"><p class="Tabela-Texto"><span class="Textodebale3oChar">R$ 360,00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td></tr></tbody></table>
+Classificação
+
+Delegado de Polícia Civil
+
+Oficial da Polícia Militar
+
+Perito Criminal
+
+Perito Médico Legista
+
+Perito Odonto-Legal
+
+Cargo em Comissão - DAS
+
+Investigador de Polícia Civil Escrivão de Polícia Civil
+
+Praça da Polícia Militar
+
+Perito Técnico
+
+Cargo em Comissão - DAI
+
+PDP-1
+
+R$ 4.000,00
+
+R$ 2.800,00
+
+PDP-2
+
+R$ 2.700,00
+
+R$ 1.620,00
+
+PDP-3
+
+R$ 2.000,00
+
+R$ 1.200,00
+
+PDP-4
+
+R$ 1.000,00
+
+R$ 600,00
+
+PDP-5
+
+R$ 600,00
+
+R$ 360,00
 
 Vigência para pagamento a partir do 2º semestre de 2016
 
-<table style="border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 64.55pt; border: solid #000001 1.0pt; border-right: none; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="86"><p class="Tabela-Texto">Classificação</p></td><td style="width: 120.2pt; border: solid #000001 1.0pt; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="160"><p class="Tabela-Texto">Delegado de Polícia Civil</p><p class="Tabela-Texto">Oficial da Polícia Militar</p><p class="Tabela-Texto">Perito Criminal</p><p class="Tabela-Texto">Perito Médico Legista</p><p class="Tabela-Texto">Perito Odonto-Legal</p><p class="Tabela-Texto">Cargo em Comissão - DAS</p></td><td style="width: 194.6pt; border-top: solid #000001 1.0pt; border-left: none; border-bottom: solid #000001 1.0pt; border-right: solid black 1.0pt; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="259"><p class="Tabela-Texto">Investigador de Polícia Civil Escrivão de Polícia Civil</p><p class="Tabela-Texto">Praça da Polícia Militar</p><p class="Tabela-Texto">Perito Técnico</p><p class="Tabela-Texto">Cargo em Comissão - DAI</p></td></tr><tr><td style="width: 64.55pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="86"><p class="Tabela-Texto">PDP-1</p></td><td style="width: 120.2pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="160"><p class="Tabela-Texto">R$ 2.476,98</p></td><td style="width: 194.6pt; border: solid #000001 1.0pt; border-top: none; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="259"><p class="Tabela-Texto">R$ 1.733,88</p></td></tr><tr><td style="width: 64.55pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="86"><p class="Tabela-Texto">PDP-2</p></td><td style="width: 120.2pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="160"><p class="Tabela-Texto">R$ 1.671,96</p></td><td style="width: 194.6pt; border: solid #000001 1.0pt; border-top: none; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="259"><p class="Tabela-Texto">R$ 1.003,18</p></td></tr><tr><td style="width: 64.55pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="86"><p class="Tabela-Texto">PDP-3</p></td><td style="width: 120.2pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="160"><p class="Tabela-Texto">R$ 1.238,49</p></td><td style="width: 194.6pt; border: solid #000001 1.0pt; border-top: none; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="259"><p class="Tabela-Texto">R$ 743,09</p></td></tr><tr><td style="width: 64.55pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="86"><p class="Tabela-Texto">PDP-4</p></td><td style="width: 120.2pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="160"><p class="Tabela-Texto">R$ 619,24</p></td><td style="width: 194.6pt; border: solid #000001 1.0pt; border-top: none; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="259"><p class="Tabela-Texto">R$ 371,55</p></td></tr><tr><td style="width: 64.55pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="86"><p class="Tabela-Texto">PDP-5</p></td><td style="width: 120.2pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="160"><p class="Tabela-Texto">R$ 371,55</p></td><td style="width: 194.6pt; border: solid #000001 1.0pt; border-top: none; background: white; padding: 0cm 0cm 0cm 0cm;" valign="top" width="259"><p class="Tabela-Texto">R$ 222,93</p></td></tr></tbody></table>
+Classificação
+
+Delegado de Polícia Civil
+
+Oficial da Polícia Militar
+
+Perito Criminal
+
+Perito Médico Legista
+
+Perito Odonto-Legal
+
+Cargo em Comissão - DAS
+
+Investigador de Polícia Civil Escrivão de Polícia Civil
+
+Praça da Polícia Militar
+
+Perito Técnico
+
+Cargo em Comissão - DAI
+
+PDP-1
+
+R$ 2.476,98
+
+R$ 1.733,88
+
+PDP-2
+
+R$ 1.671,96
+
+R$ 1.003,18
+
+PDP-3
+
+R$ 1.238,49
+
+R$ 743,09
+
+PDP-4
+
+R$ 619,24
+
+R$ 371,55
+
+PDP-5
+
+R$ 371,55
+
+R$ 222,93

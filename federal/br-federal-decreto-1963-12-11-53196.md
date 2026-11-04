@@ -1,5 +1,3 @@
-###DEC-053196-0-000-11-12-1963@@@
-
 DECRETO Nº 53.196, DE 11 DE DEZEMBRO DE 1963.
 
 Autoriza a Mineração Triângulo Limitada a pesquisar argila, caulim e feldspato, no município de Tapiraí, Estado de São Paulo.

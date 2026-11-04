@@ -1,5 +1,3 @@
-###DEC-081210-0-000-12-01-1978@@@
-
 Decreto n.º 81 210, de 12 de janeiro de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Passagem Franca, Estado do Maranhão.

@@ -1,5 +1,3 @@
-###DEC-067555-0-000-12-11-1970@@@
-
 DECRETO Nº 67.555, DE 12 DE NOVEMBRO DE 1970.
 
 Aprova o Regulamento da Diretoria de Documentação e Histórico e dá outras providências.

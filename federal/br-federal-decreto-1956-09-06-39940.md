@@ -1,14 +1,12 @@
-###DEC-039940-0-000-06-09-1956@@@
+**DECRETO Nº 39.940, DE 6 DE SETEMBRO DE 1956.**
 
-<strong>DECRETO Nº 39.940, DE 6 DE SETEMBRO DE 1956.</strong>
+***Declara de utilidade pública a faixa de terra destinada à passagem da linha de transmissão de 66 kV da Companhia Hidro-Elétrica do São Francisco, de Angelim a Pesqueira, no Estado de Pernambuco.***
 
-<em><strong>Declara de utilidade pública a faixa de terra destinada à passagem da linha de transmissão de 66 kV da Companhia Hidro-Elétrica do São Francisco, de Angelim a Pesqueira, no Estado de Pernambuco.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e Decreto-lei nº 3.365, de 21 de junho de 1941, bem como o requerido pela Companhia Hidroelétrica do São Francisco,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e Decreto-lei nº 3.365, de 21 de junho de 1941, bem como o requerido pela Companhia Hidroelétrica do São Francisco,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º São declaradas de utilidade pública as seguintes áreas de terras situadas no Estado de Pernambuco, municípios de Angelim e Pesqueira, destinadas à passagem de linha de transmissão da Companhia Hidroelétrica do São Francisco, e constantes da plantas aprovadas pelo Ministro da Agricultura em 9 de maio de 1956 (Processo D. Ag. 3.777-36), áreas estas que se encontram abaixo relacionadas na ordem do traçado da futura linha.
+**Art**. 1º São declaradas de utilidade pública as seguintes áreas de terras situadas no Estado de Pernambuco, municípios de Angelim e Pesqueira, destinadas à passagem de linha de transmissão da Companhia Hidroelétrica do São Francisco, e constantes da plantas aprovadas pelo Ministro da Agricultura em 9 de maio de 1956 (Processo D. Ag. 3.777-36), áreas estas que se encontram abaixo relacionadas na ordem do traçado da futura linha.
 
 Município de Garanhuns, Pe
 
@@ -288,39 +286,37 @@ Município de Pesqueira, Pe.
 
 145 - Área de 77.850 (setenta e sete mil oitocentos e cinquenta) m², de propriedade atribuída ao Espólio de Raimundo Pedrosa de Araújo.
 
-<strong>Art</strong>. 2º É a Companhia Hidroelétrica do São Francisco autorizada a desapropriar a servidão, ou, se necessário, o domínio pleno das áreas componentes da faixa de terras descritas no art. 1º para passagem de sua linha de transmissão de energia elétrica de Angelim a Pesqueira, no Estado de Pernambuco.
+**Art**. 2º É a Companhia Hidroelétrica do São Francisco autorizada a desapropriar a servidão, ou, se necessário, o domínio pleno das áreas componentes da faixa de terras descritas no art. 1º para passagem de sua linha de transmissão de energia elétrica de Angelim a Pesqueira, no Estado de Pernambuco.
 
 Parágrafo único. Para os efeitos do art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, considerando o que dispõe a Lei nº 2.786, de 21 de maio de 1956, a desapropriação é declarada de caráter urgente.
 
-<strong>Art</strong>. 3º O presente Decreto entrará em vigor na data de sua publicação.
+**Art**. 3º O presente Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 6 de setembro de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Ernesto Dornelles
 
-###DEC-039940-0-000-06-09-1956@@@RET01+++
+**DECRETO Nº 39.940, DE 6 DE SETEMBRO DE 1956.**
 
-<strong>DECRETO Nº 39.940, DE 6 DE SETEMBRO DE 1956.</strong>
+***Declara de utilidade pública a faixa de terra destinada à passagem da linha de transmissão de 66kv da Companhia Hidro-Elétrica do São Francisco, de Angelim a Pesqueira, no Estado de Pernambuco.***
 
-<em><strong>Declara de utilidade pública a faixa de terra destinada à passagem da linha de transmissão de 66kv da Companhia Hidro-Elétrica do São Francisco, de Angelim a Pesqueira, no Estado de Pernambuco.</strong></em>
+(Publicado no *Diário Oficial* - Seção I - de 12 de dezembro de 1956)
 
-(Publicado no <em>Diário Oficial</em> - Seção I - de 12 de dezembro de 1956)
-
-<strong>RETIFICAÇÃO</strong>
+**RETIFICAÇÃO**
 
 No art. 1º,
 
-<u><strong>ONDE SE LÊ</strong></u>:
+**ONDE SE LÊ**:
 
 81 - Área de 6.930 (nove mil novecentos e vinte) m²...
 
 136 - ... Luiz de Almeida Calcavante.
 
-<u><strong>LEIA-SE</strong></u>:
+**LEIA-SE**:
 
 81 - Área de 6.930 (seis mil novecentos e trinta) m² ...
 

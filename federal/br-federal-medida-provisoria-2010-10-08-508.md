@@ -1,5 +1,3 @@
-###MPV-000508-0-000-08-10-2010-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 508, DE 8 DE OUTUBRO DE 2010.
 
 Abre crédito extraordinário, em favor do Ministério da Educação, no valor de R$ 968.185.382,00, para os fins que especifica.

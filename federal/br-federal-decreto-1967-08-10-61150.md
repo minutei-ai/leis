@@ -1,5 +1,3 @@
-###DEC-061150-0-000-10-08-1967@@@
-
 DECRETO Nº 61.150, DE 10 DE AGÔSTO DE 1967.
 
 Provê sôbre a transferência do sistema educacional dos Territórios para o Ministério da Educação e Cultura, e dá outras providências.

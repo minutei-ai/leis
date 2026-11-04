@@ -1,5 +1,3 @@
-###DEC-093559-0-000-11-11-1986@@@
-
 DECRETO Nº 93.559, DE 11 DE NOVEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "GLEBA CRUZEIRO DO NORTE", situado no Município de Canarana, no Estado de Mato Grosso, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.620, de 2 de maio de 1986, e dá outras providências.

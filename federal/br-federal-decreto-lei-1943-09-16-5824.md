@@ -1,5 +1,3 @@
-###DEL-005824-0-000-16-09-1943@@@
-
 DECRETO‑LEI N. 5.824 – DE 16 DE SETEMBRO DE 1943
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 100.000,00 para classificação de despesa

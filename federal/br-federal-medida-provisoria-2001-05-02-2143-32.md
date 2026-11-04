@@ -1,5 +1,3 @@
-###MPV-002143-0-032-02-05-2001@@@
-
 MEDIDA PROVISÓRIA N.º 2.143-32, DE 2 DE MAIO DE 2001
 
 Altera dispositivos da Lei n.º 9.649, de 27 de maio de 1998, que dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

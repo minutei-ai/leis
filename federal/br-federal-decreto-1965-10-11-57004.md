@@ -1,5 +1,3 @@
-###DEC-057004-0-000-11-10-1965@@@
-
 DECRETO Nº 57.004, DE 11 DE OUTUBRO DE 1965.
 
 Abre ao Ministério da Fazenda, consignado ao Conselho Nacional de Telecomunicações, o crédito especial de Cr$1.500.000.000, para o fim que especifica.

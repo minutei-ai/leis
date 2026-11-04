@@ -1,5 +1,3 @@
-###DEC-058788-0-000-08-07-1966@@@
-
 decreto nº 58.788, de 8 de julho de 1966.
 
 Autoriza a cessão de terreno acrescido de marinha, sob o regime de aforamento, nos têrmos dos artigos 125 e 126 do Decreto-lei nº 9.750, de 1946.

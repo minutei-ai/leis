@@ -1,5 +1,3 @@
-###DEC-046711-0-000-25-08-1959@@@
-
 DECRETO Nº 46.711, DE 25 DE AGÔSTO DE 1959.
 
 Autoriza o cidadão a adquirir em regime de ocupação, o terreno de acrescido de marinha, que menciona, situado no Estado de São Paulo.

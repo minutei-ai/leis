@@ -1,5 +1,3 @@
-###DEC-060109-0-000-20-01-1967@@@
-
 DECRETO Nº 60.109, DE 20 DE JANEIRO DE 1967.
 
 Ministério da Fazenda. Abre o crédito especial de Cr$10.000.000, autorizado pela Lei nº 4.999, de 21 de maio de 1966, para o fim que menciona.

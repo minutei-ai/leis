@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/3496e629-aa82-48b7-b29a-e7a7be9c1590/texto#nowhere)
 
-###DEL-000860-0-000-11-09-1969@@@
-
 DECReto-LEI Nº 860, DE 11 DE SETEMBRO DE 1969
 
 Dispõe sôbre a constituição do Conselho Federal e dos Conselhos Regionais de Profissionais de Relações Públicas e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-005235-0-000-07-10-2004@@@
-
 DECRETO Nº 5.235 DE 7 DE OUTUBRO DE 2004
 
 Dá nova redação aos arts. 2º e 3º do Decreto no 4.793, de 23 de julho de 2003, que Cria a Câmara de Políticas de Integração Nacional e Desenvolvimento Regional, do Conselho de Governo.

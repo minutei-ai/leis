@@ -1,5 +1,3 @@
-###DEL-006022-0-000-23-11-1943@@@
-
 DECRETO‑LEI N. 6.022 – DE 23 DE NOVEMBRO DE 1943
 
 Dispõe sôbre a concessão do salário‑família instituído pelo decreto‑lei n. 5.976, de 10 de novembro de 1943, e dá outras providências

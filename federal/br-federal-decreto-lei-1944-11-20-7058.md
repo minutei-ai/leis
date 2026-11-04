@@ -1,5 +1,3 @@
-###DEL-007058-0-000-20-11-1944@@@
-
 DECRETO-LEI N. 7.058 – DE 20 DE NOVEMBRO DE 1944
 
 Altera, sem aumento de despesa, o orçamento do “Plano de Obras e Equipamentos" na parte referente ao Ministério da Viação e Obras Públicas

@@ -1,5 +1,3 @@
-###DEL-004621-0-000-26-08-1942@@@
-
 DECRETO-LEI N. 4.621 – DE 26 DE AGOSTO DE 1942
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito suplementar de 95:000$0 (noventa e cinco contos de réis), à Verba que especifica

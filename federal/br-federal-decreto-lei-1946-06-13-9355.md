@@ -1,5 +1,3 @@
-###DEL-009355-0-000-13-06-1946@@@
-
 DECRETO-LEI N. 9.355 – DE 13 DE JUNHO DE 1946
 
 Funda o Instituto Brasileiro de Educação, Ciência e Cultura

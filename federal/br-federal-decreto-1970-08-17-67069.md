@@ -1,5 +1,3 @@
-###DEC-067069-0-000-17-08-1970@@@
-
 decreto nº 67.069, de 17 de agôsto de 1970.
 
 Concede à Emprêsa de Caolim Ltda., o direito de lavrar pirofilita, no município de Pitangui, Estado de Minas Gerais.

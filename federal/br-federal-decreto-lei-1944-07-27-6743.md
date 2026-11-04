@@ -1,5 +1,3 @@
-###DEL-006743-0-000-27-07-1944@@@
-
 DECRETO-LEI N. 6.743 – DE 27 DE JULHO DE 1944
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 421.116,50 para pagamento de auxílios

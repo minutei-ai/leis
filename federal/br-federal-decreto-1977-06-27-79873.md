@@ -1,5 +1,3 @@
-###DEC-079873-0-000-27-06-1977@@@
-
 DECRETO Nº 79.873, DE 27 DE JUNHO DE 1977
 
 Concede reconhecimento ao curso de Educação Física, da Escola Superior de Educação Física da Universidade Federal de Pelotas.

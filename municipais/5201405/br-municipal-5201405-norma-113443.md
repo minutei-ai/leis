@@ -44,5 +44,6 @@ Art. 9º Esta lei entrará em vigor na data de sua publicação, revogadas as di
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 15 de agosto de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito

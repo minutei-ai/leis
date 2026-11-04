@@ -1,5 +1,3 @@
-###DEC-069183-0-000-13-09-1971@@@
-
 DECRETO Nº 69.183, DE 13 DE SETEMBRO DE 1971.
 
 Concede à Mineração Santa Patrícia Limitada, o direito de lavrar caulim no município de Mazagão, Território Federal do Amapá.

@@ -1,5 +1,3 @@
-###DEC-045821-0-000-16-04-1959@@@
-
 DECRETO Nº 45.821, DE 16 DE ABRIL DE 1959.
 
 Dispõe sôbre a desapropriação de imóveis destinados a edificações, instalações e serviços da Universidade do Ceará.

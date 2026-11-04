@@ -1,5 +1,3 @@
-###MPV-002113-0-030-26-04-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.113- 30, DE 26 DE ABRIL DE 2001
 
 Altera a legislação das Contribuições para a Seguridade Social - COFINS, para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP e do Imposto sobre a Renda, e dá outras providências.

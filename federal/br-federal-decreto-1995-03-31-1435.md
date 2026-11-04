@@ -1,7 +1,3 @@
-1
-
-###DEC-001435-0-000-31-03-1995@@@
-
 # DECRETO Nº 1.435, DE 31 DE MARÇO DE 1995
 
 Dispõe sobre a revogação dos decretos que menciona.
@@ -27,8 +23,6 @@ Brasília, 31 de março de 1995; 174º da Independência e 107º da República.
 FERNANDO HENRIQUE CARDOSO
 
 Mauro César Rodrigues Pereira
-
-###DEC-001435-0-000-31-03-1995@@@RET01+++
 
 # DECRETO Nº 1435, DE 31 DE MARÇO DE 1995
 

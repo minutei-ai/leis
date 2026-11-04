@@ -1,5 +1,3 @@
-###DEC-059168-0-000-01-09-1966@@@
-
 Decreto Nº 59.168, DE 1º DE SETEMBRO DE 1966.
 
 Altera o disposto no Decreto número 53.611, de 26 de fevereiro de 1964.

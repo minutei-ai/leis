@@ -1,5 +1,3 @@
-###DEC-082714-0-000-23-11-1978@@@
-
 DECRETO Nº 82.714, DE 23 DE NOVEMBRO DE 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Curitiba, Estado do Paraná.

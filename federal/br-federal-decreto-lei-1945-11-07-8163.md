@@ -1,5 +1,3 @@
-###DEL-008163-0-000-07-11-1945@@@
-
 DECRETO - LEI N. 8.163 – DE 7 DE NOVEMBRO DE 1945
 
 Revoga o Decreto-lei n.º 7375, de 13, de março de 1945 e restaura o artigo 105 do Decreto-lei n.º 2627, de 26 de outubro de 1940.

@@ -1,5 +1,3 @@
-###DEC-004568-0-000-02-01-2003@@@
-
 DECRETO Nº 4.568, DE 2 DE JANEIRO DE 2003.
 
 Dispõe sobre a execução orçamentária e financeira dos órgãos, dos fundos e das entidades do Poder Executivo até a publicação da Lei Orçamentária Anual - LOA para o exercício de 2003.
@@ -28,6 +26,8 @@ Dispõe sobre a execução orçamentária e financeira dos órgãos, dos fundos 
 
         Brasília, 2 de janeiro de 2003; 182~~º~~ da Independência e 115~~º~~ da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Antonio Palocci Filho<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Antonio Palocci Filho
+
 Guido Mantega

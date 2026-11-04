@@ -1,5 +1,3 @@
-###DEC-075063-0-000-09-12-1974@@@
-
 Decreto nº 75.063, de 9 de dezembro de 1974.
 
 Concede reconhecimento ao curso de Administração da Universidade Católica de Salvador, com sede na cidade de Salvador, Estado da Bahia.

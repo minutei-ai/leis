@@ -1,7 +1,3 @@
-1
-
-###DEC-098853-0-000-22-01-1990@@@
-
 DECRETO N° 98.853, DE 22 DE JANEIRO DE 1990
 
 Autoriza a transferência direta da concessão outorgada à SECRETARIA DE ESTADO DA EDUCAÇÃO E CULTURA a FUNDAÇÃO TV MINAS CULTURAL E EDUCATIVA.

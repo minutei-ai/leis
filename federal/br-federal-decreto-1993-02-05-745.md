@@ -1,7 +1,3 @@
-1
-
-###DEC-000745-0-000-05-02-1993@@@
-
 DECRETO N° 745, DE 5 DE FEVEREIRO DE 1993
 
 Estabelece o valor máximo do conjunto das deduções relativas a doações ou pa­trocinios em favor de projetos culturais, pa­ra o ano‑calendário de 1993.

@@ -1,5 +1,3 @@
-###DEC-067673-0-000-27-11-1970@@@
-
 DECRETO Nº 67.673, DE 27 DE NOVEMBRO DE 1970.
 
 Dispõe sôbre retificação do Quadro Único de Pessoal da Universidade Federal do Rio de Janeiro e dá outras providências.

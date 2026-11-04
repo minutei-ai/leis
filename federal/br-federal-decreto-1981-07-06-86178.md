@@ -1,5 +1,3 @@
-###DEC-086178-0-000-06-07-1981@@@
-
 Decreto nº 86.178, de 06 de julho de 1981
 
 Declara de utilidade pública, para fins de desapropriação, área de terra com benfeitorias necessária à implantação da subestação Centro da Companhia de Eletricidade do Ceará - COELCE, no Estado do Ceará.

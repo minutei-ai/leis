@@ -1,5 +1,3 @@
-###DEC-090213-0-000-25-09-1984@@@
-
 decreto nº 90.213, de 25 de setembro de 1984
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Administração Hospitalar, no Estado de São Paulo.

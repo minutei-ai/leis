@@ -4,7 +4,8 @@ Dispõe sobre a criação do Conselho Municipal do Esporte - CME e do Fundo Muni
 
 **A CÂMARA MUNICIPAL DE RIO VERDE – GO APROVA E EU SANCIONO A SEGUINTE LEI**
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO CONSELHO MUNICIPAL DO ESPORTE 
 
 Art. 1º Fica criado o Conselho Municipal do Esporte - CME, órgão colegiado, de caráter consultivo, e fiscalizador das políticas públicas municipais de esporte e lazer, vinculado à Secretaria Municipal de Esportes e Lazer - SMEL, tendo por atribuições:
@@ -19,7 +20,8 @@ IV - emitir pareceres e recomendações sobre matérias relacionadas ao esporte 
 
 V - exercer demais atribuições previstas em lei.
 
-Seção I<br>
+Seção I
+
 Da Composição do Conselho
 
 Art. 2º O CME será composto por representantes do Poder Público e da Sociedade Civil, nomeados por ato do Prefeito, com a seguinte configuração:
@@ -54,7 +56,8 @@ d) 01 (um) representante de associação de esportes individuais.
 
 § 3º O critério de escolha dos representantes do Conselho Municipal do Esporte será definido por decreto regulamentar. 
 
-Seção II<br>
+Seção II
+
 Do Funcionamento do Conselho
 
 Art. 3º O CME reunir-se-á ordinariamente 1 (uma) vez por mês, em datas previamente definidas em calendário anual, e extraordinariamente, sempre que convocado.
@@ -89,7 +92,8 @@ IV - solicitar sua dispensa.
 
 § 2º A entidade ou órgão deverá indicar um substituto no prazo de até 30 (trinta) dias, para complementação do mandato.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO FUNDO MUNICIPAL DO ESPORTE
 
 Art. 8º Fica instituído o Fundo Municipal do Esporte - FME, vinculado à Secretaria Municipal de Esportes e Lazer, destinado a captar, gerir e aplicar recursos financeiros para fomentar atividades esportivas no Município, bem como:
@@ -108,8 +112,8 @@ VI - gerir e administrar recursos financeiros destinados ao esporte e lazer, ass
 
 VII - apoiar projetos de entidades, associações e organizações esportivas, alinhados às políticas municipais de esporte e lazer.
 
-<br>
-Seção I<br>
+Seção I
+
 Da Gestão do Fundo
 
 Art. 9º A gestão do FME será exercida pelo Secretário Municipal de Esportes e Lazer, a quem competirá:
@@ -134,7 +138,8 @@ Art. 11. O Gestor poderá ser auxiliado por servidores da Secretaria Municipal d
 
 Art. 12. A Secretaria Municipal de Esportes e Lazer fornecerá suporte técnico, administrativo e operacional ao FME.
 
-Seção II<br>
+Seção II
+
 Das Receitas e Aplicação do Fundo
 
 Art. 13. Constituirão receitas do Fundo Municipal do Esporte:
@@ -161,7 +166,8 @@ IV - capacitação e qualificação de profissionais, técnicos, árbitros, gest
 
 V - demais iniciativas de desenvolvimento esportivo.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 15. O Poder Executivo regulamentará esta lei no prazo de 90 (noventa) dias após sua publicação.

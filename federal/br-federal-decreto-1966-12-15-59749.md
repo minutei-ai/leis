@@ -1,5 +1,3 @@
-###DEC-059749-0-000-15-12-1966@@@
-
 DECRETO Nº 59.749, DE 15 DE DEZEMBRO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação, área destinada à bacia de acumulação, do aproveitamento da energia hidráulica de um trecho do rio Paranapanema, no município de Carlópolis, Estado do Paraná.
@@ -175,8 +173,6 @@ Brasília, 15 de dezembro de 1966; 145º da Independência e 78º da República.
 H. Castello Branco
 
 Mauro Thibau
-
-###DEC-059749-0-000-15-12-1966@@@RET01+++
 
 Decreto nº 59.749, de 15 de dezembro de 1966
 

@@ -1,5 +1,3 @@
-###DEC-094916-0-000-18-09-1987@@@
-
 DECRETO N° 94.916, DE 18 DE SETEMBRO DE 1987
 
 Dá nova redação ao artigo 52 do Plano Único de Classificação e Retribuição de Cargos e Empregos, aprovado pelo Decreto nº 94.664, de 23 de julho de 1987.

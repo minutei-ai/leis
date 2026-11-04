@@ -1,5 +1,3 @@
-###DEC-059136-0-000-25-08-1966@@@
-
 DECRETO Nº 59.136, de 25 de agôsto de 1966.
 
 Autoriza o cidadão brasileiro Lino Gomes Pacheco a pesquisar feldspato no município de Divino das Laranjeiras , Estado de Minas Gerais .

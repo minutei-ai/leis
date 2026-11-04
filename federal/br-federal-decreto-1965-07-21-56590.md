@@ -1,5 +1,3 @@
-###DEC-056590-0-000-21-07-1965@@@
-
 DECRETO Nº 56.590, DE 21 DE JULHO DE 1965.
 
 Autoriza o cidadão brasileiro Joseph Nigri a pesquisar caulim no município de São Paulo.

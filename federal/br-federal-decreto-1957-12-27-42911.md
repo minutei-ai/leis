@@ -1,62 +1,60 @@
-###DEC-042911-0-000-27-12-1957@@@
+**DECRETO Nº 42.911, DE 27 DE DEZEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.911, DE 27 DE DEZEMBRO DE 1957.</strong>
+***Aprova o Regulamento de Preceitos Comuns aos Estabelecimentos do Ensino do Exército (R/126).***
 
-<em><strong>Aprova o Regulamento de Preceitos Comuns aos Estabelecimentos do Ensino do Exército (R/126).</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 87 inciso I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 87 inciso I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento de Preceitos Comuns aos Estabelecimentos de Ensino do Exército (R/126), que com êste baixa, assinado pelo General de Exército Henrique Baptista Duffles Teixeira Lott, Ministro de Estado dos Negócios da Guerra.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento de Preceitos Comuns aos Estabelecimentos de Ensino do Exército (R/126), que com êste baixa, assinado pelo General de Exército Henrique Baptista Duffles Teixeira Lott, Ministro de Estado dos Negócios da Guerra.
-
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 27 de dezembro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott
 
-<strong>REGULAMENTO DOS PRECEITOS COMUNS AOS ESTABELECIMENTOS DE ENSINO DO EXÉRCITO (R/126)</strong>
+**REGULAMENTO DOS PRECEITOS COMUNS AOS ESTABELECIMENTOS DE ENSINO DO EXÉRCITO (R/126)**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Finalidade do Regulamento</em>
+*Finalidade do Regulamento*
 
-<strong>Art</strong>. 1º O presente Regulamento estabelece os preceitos comuns para a vida escolar nos diversos estabelecimentos subordinados à Diretoria Geral do Ensino.
+**Art**. 1º O presente Regulamento estabelece os preceitos comuns para a vida escolar nos diversos estabelecimentos subordinados à Diretoria Geral do Ensino.
 
 Parágrafo único. As normas particulares e específicas de cada estabelecimento de ensino serão fixadas nos respectivos regulamentos.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Organização Geral do Ensino</em>
+*Organização Geral do Ensino*
 
-<strong>CAPÍTULO 1-II</strong>
+**CAPÍTULO 1-II**
 
-<em>Dos Cursos e sua Organização</em>
+*Dos Cursos e sua Organização*
 
-<strong>Art</strong>. 2º De acôrdo com a sua finalidade, cada estabelecimento de ensino manterá um ou mais cursos que terão denominação e finalidades expressas no regulamento respectivo, e serão caracterizados por adequados currículos.
+**Art**. 2º De acôrdo com a sua finalidade, cada estabelecimento de ensino manterá um ou mais cursos que terão denominação e finalidades expressas no regulamento respectivo, e serão caracterizados por adequados currículos.
 
 Parágrafo único. São elementos constitutivos do currículo de um curso: objetivo do curso; rol de matérias; objetivo específico de cada matéria e tempo consagrado ao respectivo ensino.
 
-<strong>CAPÍTULO 2-II</strong>
+**CAPÍTULO 2-II**
 
-<em>Dos Programas</em>
+*Dos Programas*
 
-<strong>Art</strong>. 3º O ensino das diferentes matérias obedecerá a programas que serão aprovados pela Diretoria Geral do Ensino mediante proposta das diretorias subordinadas.
+**Art**. 3º O ensino das diferentes matérias obedecerá a programas que serão aprovados pela Diretoria Geral do Ensino mediante proposta das diretorias subordinadas.
 
 Para organização e alteração dêsses programas, a Diretoria interessada utilizará comissão de professôres ou instrutores, seminários ou outros quaisquer processos que julgar indicados.
 
-<strong>Art</strong>. 4º Os programas serão revistos periodicamente de forma que se mantenham atualizados e em consonância com as necessidades do ensino no Exército.
+**Art**. 4º Os programas serão revistos periodicamente de forma que se mantenham atualizados e em consonância com as necessidades do ensino no Exército.
 
 Parágrafo único. Para os efeitos dêste artigo, os professôres e instrutores devem apresentar em relatório escrito, ao fim de cada ano letivo, as observações e críticas pessoais decorrentes da experiência docente, assim como sugestões que julguem capazes de contribuir para melhor adequação dos programas.
 
-<strong>Art</strong>. 5º É condição primordial para a bôa organização de um programa a escolha dos conhecimentos essenciais que conduzam mais direta e facilmente ao objetivo a atingir, e devam servir de base aos estudos subseqüentes.
+**Art**. 5º É condição primordial para a bôa organização de um programa a escolha dos conhecimentos essenciais que conduzam mais direta e facilmente ao objetivo a atingir, e devam servir de base aos estudos subseqüentes.
 
 Parágrafo único. Nos diferentes estabelecimentos de ensino será adotado, para cada matéria que não seja objeto dos regulamentos e manuais militares vigentes, um livro-texto onde estejam compendiados os conhecimentos essenciais a que se refere êste artigo. A adoção de tais livros fica sujeita à aprovação do Diretor-Geral do Ensino.
 
-<strong>Art</strong>. 6º Na elaboração dos programas é ainda indispensável:
+**Art**. 6º Na elaboração dos programas é ainda indispensável:
 
 1\) não perder de vista a finalidade principal do estabelecimento e a do curso considerado, os objetivos específicos da matéria e as aplicações práticas correspondentes;
 
@@ -64,7 +62,7 @@ Parágrafo único. Nos diferentes estabelecimentos de ensino será adotado, para
 
 3\) dispor os assuntos de maneira lógica e progressiva, e de modo que se liguem e se completem mutuamente.
 
-<strong>Art</strong>. 7º O programa de cada matéria conterá, essencialmente:
+**Art**. 7º O programa de cada matéria conterá, essencialmente:
 
 1\) objetivo específico do ensino da matéria;
 
@@ -76,13 +74,13 @@ Parágrafo único. Nos diferentes estabelecimentos de ensino será adotado, para
 
 Parágrafo único. A cada programa deverão corresponder instruções relativas ao ensino e à aprendizagem da matéria (Instruções Metodológicas).
 
-<strong>Art</strong>. 8º Para que o ensino tenha o máximo rendimento, não bastarão as indicações incluídas nos programas; êstes terão de ser interpretados e ajustados às necessidades e aos interêsses dos alunos, em cada estabelecimento. Será indispensável, portanto, que a execução dos programas obedeça a um perfeito planejamento, o qual deverá enquadrar-se nas prescrições contidas no Capítulo 5-II do presente Regulamento.
+**Art**. 8º Para que o ensino tenha o máximo rendimento, não bastarão as indicações incluídas nos programas; êstes terão de ser interpretados e ajustados às necessidades e aos interêsses dos alunos, em cada estabelecimento. Será indispensável, portanto, que a execução dos programas obedeça a um perfeito planejamento, o qual deverá enquadrar-se nas prescrições contidas no Capítulo 5-II do presente Regulamento.
 
-<strong>CAPÍTULO 3-II</strong>
+**CAPÍTULO 3-II**
 
-<em>DAS ATIVIDADES EXTRACLASSES</em>
+*DAS ATIVIDADES EXTRACLASSES*
 
-<strong>Art</strong>. 9º Em todo estabelecimento de ensino, além das atividades de classe - constituídas pelas aulas ou sessões de instrução, pelo estudo dirigido e pelas verificações do rendimento da aprendizagem - devem ser promovidas atividades extraclasses.
+**Art**. 9º Em todo estabelecimento de ensino, além das atividades de classe - constituídas pelas aulas ou sessões de instrução, pelo estudo dirigido e pelas verificações do rendimento da aprendizagem - devem ser promovidas atividades extraclasses.
 
 § 1º Atividade extraclasse é tôda aquela que, fugindo ao ambiente normal das aulas e das exigências dos currículos, deve ser apoiada ou promovida, pelo estabelecimento, por um determinado curso, com o objetivo de vitalizar o desenvolvimento do aluno.
 
@@ -92,7 +90,7 @@ Parágrafo único. A cada programa deverão corresponder instruções relativas 
 
 2\) constituir-se em forma socializada de ação.
 
-<strong>Art</strong>. 10. Distinguir-se-ão duas categorias de atividades extraclasse:
+**Art**. 10. Distinguir-se-ão duas categorias de atividades extraclasse:
 
 1\) as diretamente ligadas aos programas e planos de ensino de cada matéria ou grupo de matérias;
 
@@ -100,11 +98,11 @@ Parágrafo único. A cada programa deverão corresponder instruções relativas 
 
 Parágrafo único. Em princípio, todos os alunos devem ser levados a participar, pelo menos, de uma das atividades referidas em nº 2 dêste artigo.
 
-<strong>CAPÍTULO 4-II</strong>
+**CAPÍTULO 4-II**
 
-<em>DOS MÉTODOS E PROCESSOS DE ENSINO</em>
+*DOS MÉTODOS E PROCESSOS DE ENSINO*
 
-<strong>Art</strong>. 11. O ensino deve ser objetivo e contínuo, gradual e sucessivo, no âmbito de cada curso e de cada matéria. Para isso, será preciso que:
+**Art**. 11. O ensino deve ser objetivo e contínuo, gradual e sucessivo, no âmbito de cada curso e de cada matéria. Para isso, será preciso que:
 
 1\) a teoria abranja as situações da vida real;
 
@@ -116,13 +114,13 @@ Parágrafo único. Em princípio, todos os alunos devem ser levados a participar
 
 5\) tanto quanto o permitirem os assuntos a ensinar em cada matéria, seja observada estrita correlação entre o ensino das questões fundamentais e o tirocínio indispensável ao exercício profissional.
 
-<strong>Art</strong>. 12. Nas matérias que não constituem objeto da Instrução Militar, adotar-se-á, em princípio o método do ensino por unidade decorrente do sistema de Morrison.
+**Art**. 12. Nas matérias que não constituem objeto da Instrução Militar, adotar-se-á, em princípio o método do ensino por unidade decorrente do sistema de Morrison.
 
 § 1º A Diretoria Geral do Ensino poderá preconizar ou autorizar para o conjunto das matérias de um estabelecimento, ou parte dêle, a adoção de outros métodos.
 
 § 2º Quando se tratar de método novo, a adoção terá caráter experimental, até que fique provada sua eficácia, através dos resultados obtidos.
 
-<strong>Art</strong>. 13. Na execução dos programas, consoante a matéria, ou o assunto, serão adotados, para o ensino: conferências, palestras argüições, seminários, debates e discussões dirigidas, exercício de aplicação, trabalhos práticos, demonstrações experimentais, exercícios e tarefas a realizar na classe e fora dela, excursões, visitas, assim como outros procedimentos preconizados pela didática.
+**Art**. 13. Na execução dos programas, consoante a matéria, ou o assunto, serão adotados, para o ensino: conferências, palestras argüições, seminários, debates e discussões dirigidas, exercício de aplicação, trabalhos práticos, demonstrações experimentais, exercícios e tarefas a realizar na classe e fora dela, excursões, visitas, assim como outros procedimentos preconizados pela didática.
 
 § 1º Constituirá norma de ensino a utilização de meios auxiliares adequados. Nas conferências e palestras, sempre que o assunto comportar, as descrições verbais deverão ser acompanhadas de apreciação de modelos, esquemas, projeções luminosas e cinematográficas ou de outros meios de objetivação do ensino.
 
@@ -130,7 +128,7 @@ Parágrafo único. Em princípio, todos os alunos devem ser levados a participar
 
 § 3º Na Instrução Militar será exigida rigorosa observância aos preceitos contidos no C 21-5, no C 21-250 e noutros manuais de metodologia que se venham a adotar no Exército.
 
-<strong>Art</strong>. 14. Na execução dos programas e planos de ensino, o professor ou instrutor deverá:
+**Art**. 14. Na execução dos programas e planos de ensino, o professor ou instrutor deverá:
 
 1\) manter os alunos permanentemente motivados, lançando mão de todos os recursos indicados para a incentivação inicial entre os quais avultará a compreensão dos objetivos de ordem prática e profissional do ensino ministrado;
 
@@ -150,17 +148,17 @@ Parágrafo único. Em princípio, todos os alunos devem ser levados a participar
 
 9\) verificar, constantemente, a aprendizagem realizada pelos alunos, de modo que possa aquilatar se houve ou não, da parte dêstes, a indispensável fixação dos pontos essenciais de cada assunto ensinado.
 
-<strong>CAPÍTULO 5-II</strong>
+**CAPÍTULO 5-II**
 
-<em>DO PLANEJAMENTO ANUAL DO ENSINO</em>
+*DO PLANEJAMENTO ANUAL DO ENSINO*
 
-<strong>Art</strong>. 15. A atividade educacional dos estabelecimentos deverá obedecer a minucioso planejamento.
+**Art**. 15. A atividade educacional dos estabelecimentos deverá obedecer a minucioso planejamento.
 
 § 1º A Diretoria-Geral do Ensino expedirá diretrizes e as Diretorias subordinadas baixarão normas pormenorizadas a que deve obedecer aquêle planejamento.
 
 § 2º As diretrizes e normas referidas no parágrafo anterior respeitarão os preceitos gerais dêste Capítulo, sem prejuízo da adoção de outras idéias e técnicas que a experiência fôr aconselhando.
 
-<strong>Art</strong>. 16. O planejamento, de que trata o artigo anterior, referir-se-á a um determinado ano escolar e dêle resultarão “planos de ensino”, que podem ser de duas categorias:
+**Art**. 16. O planejamento, de que trata o artigo anterior, referir-se-á a um determinado ano escolar e dêle resultarão “planos de ensino”, que podem ser de duas categorias:
 
 1\) Plano Geral - roteiro das atividades pedagógicas que serão desenvolvidas durante o ano escolar. Compreenderá, ainda, as medidas relativas ao apoio administrativo a essas atividades;
 
@@ -176,13 +174,13 @@ Parágrafo único. Quando os problemas de ordem administrativa, por sua amplitud
 
 I - PLANO GERAL DE ENSINO
 
-<strong>Art</strong>. 17. O Plano Geral de Ensino é o documento básico de que decorrem as ações coordenadas dos órgãos subordinados e a elaboração dos demais planos e documentos particulares.
+**Art**. 17. O Plano Geral de Ensino é o documento básico de que decorrem as ações coordenadas dos órgãos subordinados e a elaboração dos demais planos e documentos particulares.
 
-<strong>Art</strong>. 18. O Plano Geral de Ensino é de responsabilidade do Diretor do Ensino do estabelecimento que ouvirá os elementos e órgãos encarregados da execução.
+**Art**. 18. O Plano Geral de Ensino é de responsabilidade do Diretor do Ensino do estabelecimento que ouvirá os elementos e órgãos encarregados da execução.
 
-<strong>Art</strong>. 19. O Plano Geral de Ensino, em duas vias deverá dar entrada até 31 de janeiro, na Diretoria a que o estabelecimento estiver subordinado; após a sua aprovação, uma das vias será encaminhada à Diretoria Geral do Ensino.
+**Art**. 19. O Plano Geral de Ensino, em duas vias deverá dar entrada até 31 de janeiro, na Diretoria a que o estabelecimento estiver subordinado; após a sua aprovação, uma das vias será encaminhada à Diretoria Geral do Ensino.
 
-<strong>Art</strong>. 20. O Plano Geral de Ensino conterá, essencialmente:
+**Art**. 20. O Plano Geral de Ensino conterá, essencialmente:
 
 1\) considerações de ordem geral, que o Diretor de Ensino julgue necessário fazer, tendo em vista as finalidades e as condições do estabelecimento, bem como o modo de realizar sua missão;
 
@@ -224,7 +222,7 @@ a) disposições relativas aos meios materiais dispositivos;
 
 b) ação dos diversos órgãos administrativos.
 
-<strong>Art</strong>. 21. Na organização do Plano Geral de Ensino serão levados em conta os seguintes preceitos:
+**Art**. 21. Na organização do Plano Geral de Ensino serão levados em conta os seguintes preceitos:
 
 1\) os diversos trabalhos da atividade escolar devem ser desenvolvidos metodicamente e em concordância com a finalidade de estabelecimento e com a espécie e grau do ensino que se há de ministrar;
 
@@ -250,11 +248,11 @@ f) às atividades extraclasses;
 
 II - PLANO DE MATÉRIA
 
-<strong>Art</strong>. 22. O Plano de Matéria consistirá, essencialmente, na caracterização genérica dos assuntos que devem ser estudados e dos trabalhos que devem ser realizados. Como numa visão de conjunto, abrange todo o campo da matéria e capitula os trabalhos que serão executados pelo professor ou instrutor, e alunos, no decorrer do ano letivo.
+**Art**. 22. O Plano de Matéria consistirá, essencialmente, na caracterização genérica dos assuntos que devem ser estudados e dos trabalhos que devem ser realizados. Como numa visão de conjunto, abrange todo o campo da matéria e capitula os trabalhos que serão executados pelo professor ou instrutor, e alunos, no decorrer do ano letivo.
 
-<strong>Art</strong>. 23. A elaboração do Plano de Matéria é atribuição do conjunto de professôres ou instrutores da matéria, sob a direção do catedrático, ou instrutor-chefe, e será submetido à aprovação da Diretoria a que o estabelecimento estiver subordinado.
+**Art**. 23. A elaboração do Plano de Matéria é atribuição do conjunto de professôres ou instrutores da matéria, sob a direção do catedrático, ou instrutor-chefe, e será submetido à aprovação da Diretoria a que o estabelecimento estiver subordinado.
 
-<strong>Art</strong>. 24. O Plano de Matéria, organizado em função do número provável de aulas ou sessões de instrução a serem ministradas, compreenderá, essencialmente:
+**Art**. 24. O Plano de Matéria, organizado em função do número provável de aulas ou sessões de instrução a serem ministradas, compreenderá, essencialmente:
 
 1\) indicação dos objetivos específicos, que devem centralizar o ensino e a aprendizagem da matéria a serem realizados no decurso do ano;
 
@@ -270,15 +268,15 @@ II - PLANO DE MATÉRIA
 
 III - PLANO DE UNIDADES DIDÁTICAS
 
-<strong>Art</strong>. 25. O Plano de Unidades Didáticas focaliza e desdobra cada uma das unidades capituladas no Plano de Matéria pormenorizando-lhe o desenvolvimento, em função do objetivo especialmente visado em seu estudo. Constituir-se-á de tantos planos individuais quantas forem as unidades em que se dividir a matéria.
+**Art**. 25. O Plano de Unidades Didáticas focaliza e desdobra cada uma das unidades capituladas no Plano de Matéria pormenorizando-lhe o desenvolvimento, em função do objetivo especialmente visado em seu estudo. Constituir-se-á de tantos planos individuais quantas forem as unidades em que se dividir a matéria.
 
 § 1º Como decorrência dessa última característica o Plano de Unidades Didáticas não e elaborado duma só vez, como o é o Plano de Matéria. Apenas o plano da primeira unidade deve preceder o início do ano letivo; os das demais unidades serão elaborados sucessivamente, a tempo de serem aprovados antes do início da respectiva execução.
 
 § 2º As matérias cujo ensino não se fizer pelo método das Unidades Didáticas serão divididas em capítulos, que correspondem aos assuntos essenciais nelas compreendidos. Nesse caso, o Plano de Unidades Didáticas será substituído pelo Plano de Capítulos, com características idênticas.
 
-<strong>Art</strong>. 26. O planejamento das unidades didáticas è atribuição junto a professôres ou instrutores da matéria, sob a direção do catedrático, instrutor-chefe, e será submetido á aprovação do diretor de ensino do estabelecimento.
+**Art**. 26. O planejamento das unidades didáticas è atribuição junto a professôres ou instrutores da matéria, sob a direção do catedrático, instrutor-chefe, e será submetido á aprovação do diretor de ensino do estabelecimento.
 
-<strong>Art</strong>. 27. O plano de cada unidade didática envolve um ciclo discente e docente completo, vai desde a motivação ou incentivação inicial, especifica para o estudo da Unidade, até a verificação final dos resultados obtidos através dêsse estudo. Conterá essencialmente.
+**Art**. 27. O plano de cada unidade didática envolve um ciclo discente e docente completo, vai desde a motivação ou incentivação inicial, especifica para o estudo da Unidade, até a verificação final dos resultados obtidos através dêsse estudo. Conterá essencialmente.
 
 1\) objetivos particulares, que devem ser atingidos mediante o estudo da unidade;
 
@@ -290,29 +288,29 @@ III - PLANO DE UNIDADES DIDÁTICAS
 
 IV - PLANO DE AULA OU SESSÃO
 
-<strong>Art</strong>. 28. O Plano de Aula ou Sessão, eminentemente analítico, deverá tratar, minuciosamente, item por item, do desenvolvimento de cada aula ou sessão que integra o estudo de uma determinada Unidade Didática.
+**Art**. 28. O Plano de Aula ou Sessão, eminentemente analítico, deverá tratar, minuciosamente, item por item, do desenvolvimento de cada aula ou sessão que integra o estudo de uma determinada Unidade Didática.
 
-<strong>Art</strong>. 29. O planejamento de aula ou sessão é atribuição exclusiva e personalíssima do professor ou instrutor que vai ministra-la.
+**Art**. 29. O planejamento de aula ou sessão é atribuição exclusiva e personalíssima do professor ou instrutor que vai ministra-la.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Verificação do Rendimento Escolar</em>
+*Verificação do Rendimento Escolar*
 
-<strong>CAPÍTULO 6-III</strong>
+**CAPÍTULO 6-III**
 
-<em>DA AVALIAÇÃO DO RENDIMENTO ESCOLAR</em>
+*DA AVALIAÇÃO DO RENDIMENTO ESCOLAR*
 
-<strong>Art</strong>. 30. A avaliação do rendimento do ensino de cada professor ou instrutor far-se-á pela observação direta de sua conduta e atividade, bem como através de processos estatísticos que permitam medir o aproveitamento dos respectivos alunos, revelados nos diversos trabalhos para julgamento.
+**Art**. 30. A avaliação do rendimento do ensino de cada professor ou instrutor far-se-á pela observação direta de sua conduta e atividade, bem como através de processos estatísticos que permitam medir o aproveitamento dos respectivos alunos, revelados nos diversos trabalhos para julgamento.
 
 § 1º A Diretoria-Geral do Ensino baixará normas especiais com o objetivo de sistematizar a observação a que deverão submeter os professôres e instrutores e de indicar os processos estatísticos que deverão ser utilizados para a medição do rendimento do ensino de cada um dêles.
 
 § 2º Serão os resultados dessa verificação encaminhados anualmente, à Diretoria Geral do Ensino, por intermédio das Diretorias em que o estabelecimentos estiverem diretamente subordinados.
 
-<strong>CAPÍTULO 7-III</strong>
+**CAPÍTULO 7-III**
 
-<em>DA AVALIAÇÃO DO RENDIMENTO DA APRENDIZAGEM</em>
+*DA AVALIAÇÃO DO RENDIMENTO DA APRENDIZAGEM*
 
-<strong>Art</strong>. 31. O rendimento da aprendizagem apurar-se-á através de:
+**Art**. 31. O rendimento da aprendizagem apurar-se-á através de:
 
 1\) Verificações imediatas;
 
@@ -320,7 +318,7 @@ IV - PLANO DE AULA OU SESSÃO
 
 I - VERIFICAÇÕES IMEDIATAS
 
-<strong>Art</strong>. 32. As verificações imediatas compreenderão argüições orais, ou práticas, escritas ou gráficas, da exclusiva responsabilidade do professor ou instrutor, que as fará:
+**Art**. 32. As verificações imediatas compreenderão argüições orais, ou práticas, escritas ou gráficas, da exclusiva responsabilidade do professor ou instrutor, que as fará:
 
 1\) no transcurso ou no final da aula, ou sessão, com o objetivo de observar o quanto foram compreendidas suas explicações;
 
@@ -332,7 +330,7 @@ Parágrafo único. Quando feitas sob a forma escrita ou gráfica, essas verifica
 
 II - TRABALHOS PARA JULGAMENTO (TJ)
 
-<strong>Art</strong>. 33. São trabalhos para julgamento (TJ):
+**Art**. 33. São trabalhos para julgamento (TJ):
 
 1\) Tarefas de estudos;
 
@@ -344,7 +342,7 @@ II - TRABALHOS PARA JULGAMENTO (TJ)
 
 A) Tarefas de Estudo
 
-<strong>Art</strong>. 34. Tarefas de Estudos são trabalhos executados, na classe ou fora dela, durante o ano letivo, consoante previsão no Plano de Unidades Didáticas, com o objetivo de orientar e valorizar o estudo do aluno. Essas tarefas constituirão trabalhos individuais que, realizados na base da pesquisa, da experimentação ou da simples aplicação de conhecimentos ou habilidades, se apresentarão sob forma escrita, oral, gráfica de execução material ou de fichas.
+**Art**. 34. Tarefas de Estudos são trabalhos executados, na classe ou fora dela, durante o ano letivo, consoante previsão no Plano de Unidades Didáticas, com o objetivo de orientar e valorizar o estudo do aluno. Essas tarefas constituirão trabalhos individuais que, realizados na base da pesquisa, da experimentação ou da simples aplicação de conhecimentos ou habilidades, se apresentarão sob forma escrita, oral, gráfica de execução material ou de fichas.
 
 § 1º Quando a tarefa de estudo fôr realizada fora da classe, sempre que o professor julgar necessário, submeterá o aluno a interrogatório de que poderá resultar a confirmação da nota atribuída ao trabalho apresentado, ou sua invalidação.
 
@@ -352,17 +350,17 @@ A) Tarefas de Estudo
 
 B) Trabalhos Correntes
 
-<strong>Art</strong>. 35. Trabalhos Correntes são provas escritas, gráficas ou práticas realizadas no decorrer do ano letivo, em oportunidade e condições fixadas no plano de ensino de cada matéria. Os assuntos de uma prova serão, em princípio, os da Unidade ou Unidades que ainda não tenham sido objeto de verificação.
+**Art**. 35. Trabalhos Correntes são provas escritas, gráficas ou práticas realizadas no decorrer do ano letivo, em oportunidade e condições fixadas no plano de ensino de cada matéria. Os assuntos de uma prova serão, em princípio, os da Unidade ou Unidades que ainda não tenham sido objeto de verificação.
 
 C) Exames Parciais
 
-<strong>Art</strong>. 36. Exames Parciais são provas escritas, gráficas ou práticas realizadas em princípio, no término da primeira metade do ano letivo e devem corresponder a um determinado número de Unidades Didáticas, cujo estudo tenha sido completado. Êsses exames visarão à medida da aprendizagem de todos os assuntos ministrados.
+**Art**. 36. Exames Parciais são provas escritas, gráficas ou práticas realizadas em princípio, no término da primeira metade do ano letivo e devem corresponder a um determinado número de Unidades Didáticas, cujo estudo tenha sido completado. Êsses exames visarão à medida da aprendizagem de todos os assuntos ministrados.
 
 Parágrafo único. Não é obrigatória a instituição dos exames parciais em todos os estabelecimentos de ensino. Os regulamentos particulares disporão a respeito.
 
 D) Exames Finais
 
-<strong>Art</strong>. 37. Exames Finais são provas realizadas logo após terminado o ano ou período letivo. Deverão abranger todos os assuntos ministrados, fazendo-se a seleção do que o aluno obrigatòriamente tem de saber.
+**Art**. 37. Exames Finais são provas realizadas logo após terminado o ano ou período letivo. Deverão abranger todos os assuntos ministrados, fazendo-se a seleção do que o aluno obrigatòriamente tem de saber.
 
 Parágrafo único. Consoante o que prescrever o regulamento de cada estabelecimento de ensino e de acôrdo com a natureza da matéria, os exames finais podem compreender:
 
@@ -374,13 +372,13 @@ Parágrafo único. Consoante o que prescrever o regulamento de cada estabelecime
 
 4\) prova escrita, ou gráfica, prova oral e prova prática.
 
-<strong>Art</strong>. 38. Haverá uma segunda época de exames finais nos estabelecimentos de ensino de grua médio e na Academia Militar das Agulhas Negras.
+**Art**. 38. Haverá uma segunda época de exames finais nos estabelecimentos de ensino de grua médio e na Academia Militar das Agulhas Negras.
 
 Parágrafo único. As condições para que o aluno possa concorrer aos exames finais de segunda época serão fixadas no regulamento de cada estabelecimento de ensino.
 
 E) Prescrições Gerais
 
-<strong>Art</strong>. 39. A preparação, a aplicação e o julgamento dos trabalhos correntes, exames parciais e exames finais, obedecerão a normas especiais organizadas pela Diretoria-Geral do Ensino.
+**Art**. 39. A preparação, a aplicação e o julgamento dos trabalhos correntes, exames parciais e exames finais, obedecerão a normas especiais organizadas pela Diretoria-Geral do Ensino.
 
 Parágrafo único. A preparação e a correção de cada prova de tôdas as turmas de um mesmo ano ou série de cada curso competem, sempre a um dos órgãos seguintes, visando à uniformidade:
 
@@ -388,29 +386,29 @@ a) Comissão constituída por todos os professôres ou instrutores da matéria, 
 
 b) Comissão nomeada especialmente para êsse fim constituída, no mínimo de três membros um dos quais o professor, ou instrutor da matéria.
 
-<strong>Art</strong>. 40. Parte do conteúdo de cada prova será relativa aos conhecimentos essenciais e indispensáveis para que o aluno prossiga na aprendizagem ou seja aprovado na respectiva matéria.
+**Art**. 40. Parte do conteúdo de cada prova será relativa aos conhecimentos essenciais e indispensáveis para que o aluno prossiga na aprendizagem ou seja aprovado na respectiva matéria.
 
 Parágrafo único. A extensão e o valor dessa parte da prova variam com a nota mínima de aprovação fixada para cada estabelecimento.
 
-<strong>Art</strong>. 41. As provas escritas, ou gráficas depois de preparadas deverão entregar-se à Direção do Ensino do estabelecimento com antecedência mínima de quatro dias, acompanhadas das soluções e baremas para serem aprovadas e impressas. Nessa oportunidade, deverá ser dito se para resolver as questões pode o aluno consultar livros, manuais, notas, tabelas, ou qualquer outros documentos.
+**Art**. 41. As provas escritas, ou gráficas depois de preparadas deverão entregar-se à Direção do Ensino do estabelecimento com antecedência mínima de quatro dias, acompanhadas das soluções e baremas para serem aprovadas e impressas. Nessa oportunidade, deverá ser dito se para resolver as questões pode o aluno consultar livros, manuais, notas, tabelas, ou qualquer outros documentos.
 
-<strong>Art</strong>. 42. As provas escritas, ou gráficas, que constituirem trabalho para julgamento, duração no mínimo uma (1) hora, e, no máximo quatro (4).
+**Art**. 42. As provas escritas, ou gráficas, que constituirem trabalho para julgamento, duração no mínimo uma (1) hora, e, no máximo quatro (4).
 
 Parágrafo único. Quando passar de duas (2) horas, haverá um pequeno intervalo para descanso dos alunos.
 
-<strong>Art</strong>. 43. Os alunos interessados devem ter conhecimento da realização de qualquer trabalho corrente ou prova de exame parcial ou final, pelo boletim interno, com a antecedência mínima de vinte e quatro (24) horas.
+**Art**. 43. Os alunos interessados devem ter conhecimento da realização de qualquer trabalho corrente ou prova de exame parcial ou final, pelo boletim interno, com a antecedência mínima de vinte e quatro (24) horas.
 
-<strong>Art</strong>. 44. Num mesmo dia, o aluno não poderá realizar trabalho corrente ou prova de exame parcial ou final de mais de uma matéria.
+**Art**. 44. Num mesmo dia, o aluno não poderá realizar trabalho corrente ou prova de exame parcial ou final de mais de uma matéria.
 
-<strong>Art</strong>. 45. O julgamento de qualquer trabalho, além da correção feita pelo mesmo órgão encarregado de prepará-lo comportará apuração na Seção Técnica de Ensino, de acôrdo com o que estabelecerem as normas especiais de que trata o art. 39. Êsse julgamento será expresso em nota, variável de zero (0) a dez (10).
+**Art**. 45. O julgamento de qualquer trabalho, além da correção feita pelo mesmo órgão encarregado de prepará-lo comportará apuração na Seção Técnica de Ensino, de acôrdo com o que estabelecerem as normas especiais de que trata o art. 39. Êsse julgamento será expresso em nota, variável de zero (0) a dez (10).
 
-<strong>Art</strong>. 46. O resultado da correção das provas será apresentado à Direção do Ensino do Estabelecimento, no prazo máximo de dez (10) dias, a contar da aplicação respectiva. Juntamente com êsse resultado serão entregues ata e relatório sucinto sôbre o que se realizou.
+**Art**. 46. O resultado da correção das provas será apresentado à Direção do Ensino do Estabelecimento, no prazo máximo de dez (10) dias, a contar da aplicação respectiva. Juntamente com êsse resultado serão entregues ata e relatório sucinto sôbre o que se realizou.
 
-<strong>Art</strong>. 47. Os trabalhos correntes, as provas escritas e gráficas de exame final, depois de julgadas, serão entregues à Direção do Ensino do estabelecimento, para que se aprovem os resultados. Aprovados, os trabalhos correntes serão restituídos aos professôres, para distribuí-los aos alunos e apontar-lhes os erros mais comuns com os esclarecimentos de dúvidas decorrentes da solução tida por correta (solução-padrão).
+**Art**. 47. Os trabalhos correntes, as provas escritas e gráficas de exame final, depois de julgadas, serão entregues à Direção do Ensino do estabelecimento, para que se aprovem os resultados. Aprovados, os trabalhos correntes serão restituídos aos professôres, para distribuí-los aos alunos e apontar-lhes os erros mais comuns com os esclarecimentos de dúvidas decorrentes da solução tida por correta (solução-padrão).
 
-<strong>Art</strong>. 48. As provas escritas e gráficas, cujos resultados forem julgados anormais, ficarão sujeitas a anular-se e repetir-se, segundo os critérios estabelecidos em as normas aludidas no art. 39.
+**Art**. 48. As provas escritas e gráficas, cujos resultados forem julgados anormais, ficarão sujeitas a anular-se e repetir-se, segundo os critérios estabelecidos em as normas aludidas no art. 39.
 
-<strong>Art</strong>. 49. As provas orais de exame final são atos públicos e obedecerão às seguintes disposições particulares:
+**Art**. 49. As provas orais de exame final são atos públicos e obedecerão às seguintes disposições particulares:
 
 1\) os pontos serão tirados à sorte, no momento do exame, exceto os de Matemática, Física e Química, sorteados com duas (2) horas de antecedência, para que o aluno mediante sôbre o assunto, permitindo-se-lhe consultar livros ou outros elementos subsidiários;
 
@@ -422,23 +420,23 @@ Parágrafo único. Quando passar de duas (2) horas, haverá um pequeno intervalo
 
 5\) os pontos da prova oral, organizados pelos professôres de cada matéria e aprovados pelo Diretor do Ensino da Escola, serão no mínimo, em número de vinte (20) e deverão abranger todos os assuntos ministrados durante o ano; alguns dêsses assuntos constituirão a parte vaga, comum a todos os pontos.
 
-<strong>Art</strong>. 50. O aluno que faltar a qualquer prova poderá fazê-la em segunda chamada, se a falta tiver sido motivada por doença, nojo ou acidente devidamente comprovado; em caso contrário, além de punido disciplinarmente, terá nota zero.
+**Art**. 50. O aluno que faltar a qualquer prova poderá fazê-la em segunda chamada, se a falta tiver sido motivada por doença, nojo ou acidente devidamente comprovado; em caso contrário, além de punido disciplinarmente, terá nota zero.
 
 Parágrafo único. Considera-se reprovado a aluno que, devendo fazer exames finais de segunda época em segunda chamada não puder realizá-los integralmente, até o último dia do período consagrado a tais exames.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Hagilitação e Classificação do Aluno</em>
+*Hagilitação e Classificação do Aluno*
 
-<strong>CAPÍTULO 8-IV</strong>
+**CAPÍTULO 8-IV**
 
-<em>DAS CONDIÇÕES DE HABILITAÇÃO</em>
+*DAS CONDIÇÕES DE HABILITAÇÃO*
 
-<strong>Art</strong>. 51. A habilitação do aluno é avaliada em função de seu aproveitamento nas diferentes matérias e de sua aptidão moral e física para o prosseguimento do curso.
+**Art**. 51. A habilitação do aluno é avaliada em função de seu aproveitamento nas diferentes matérias e de sua aptidão moral e física para o prosseguimento do curso.
 
 I - Aproveitamento
 
-<strong>Art</strong>. 52. Nos estabelecimentos de ensino de grau médio, nos de formação de oficiais e sargentos, assim como em todos os cursos para praças, o aproveitamento do aluno em cada matéria será apurado pelas notas obtidas nos trabalhos para julgamento, de acôrdo com o que se dispuser nos regulamentos respectivos.
+**Art**. 52. Nos estabelecimentos de ensino de grau médio, nos de formação de oficiais e sargentos, assim como em todos os cursos para praças, o aproveitamento do aluno em cada matéria será apurado pelas notas obtidas nos trabalhos para julgamento, de acôrdo com o que se dispuser nos regulamentos respectivos.
 
 § 1º A nota mínima de aprovação figurará no regulamento de cada estabelecimento de ensino.
 
@@ -446,49 +444,49 @@ I - Aproveitamento
 
 § 3º No cômputo das notas que traduzem o aproveitamento do aluno, os graus das tarefas de estudo não serão considerados individualmente. A cada nota de trabalho corrente poderá corresponder uma nota de tarefas de estudo, que será a média dos graus das várias tarefas realizadas entre o trabalho corrente considerado e o anterior.
 
-<strong>Art</strong>. 53. Só será considerado habilitado para o acesso ao ano seguinte, ou para conclusão do custo, o aluno aprovado em tôdas as matérias do ano ou série em que estiver matriculado. Não é permitida, assim, a promoção de ano, ou série, com dependências de qualquer matéria.
+**Art**. 53. Só será considerado habilitado para o acesso ao ano seguinte, ou para conclusão do custo, o aluno aprovado em tôdas as matérias do ano ou série em que estiver matriculado. Não é permitida, assim, a promoção de ano, ou série, com dependências de qualquer matéria.
 
-<strong>Art</strong>. 54. O aluno que não fôr promovido de ano, ou série, será considerado repetente, não só das matérias em que tiver sido reprovado, como de tôda a instrução militar.
+**Art**. 54. O aluno que não fôr promovido de ano, ou série, será considerado repetente, não só das matérias em que tiver sido reprovado, como de tôda a instrução militar.
 
-<strong>Art</strong>. 55. Nos cursos para oficiais, o aproveitamento do aluno será apurado de acôrdo com o critério estabelecido pelas normas referidas no artigo 39.
+**Art**. 55. Nos cursos para oficiais, o aproveitamento do aluno será apurado de acôrdo com o critério estabelecido pelas normas referidas no artigo 39.
 
 Parágrafo único. Considerar-se-á reprovado o aluno que obtiver a menção de mais baixo grau, entre as estabelecidas.
 
 II - Aptidão Moral
 
-<strong>Art</strong>. 56. A aptidão moral do aluno será apurada mediante processos de avaliação qualitativa da personalidade, baseados na observação cuidadosa de sua atividade escolar.
+**Art**. 56. A aptidão moral do aluno será apurada mediante processos de avaliação qualitativa da personalidade, baseados na observação cuidadosa de sua atividade escolar.
 
 § 1º Da observação da atividade do aluno resultará registro de fatos, de modo que a avaliação qualitativa que se tem em vista não se limite a apreciações subjetivas em tôrno de qualidade a atributos mais ou menos abstratos.
 
 § 2º Os processos de julgamento variarão com a natureza do estabelecimento e serão fixados nos regulamentos respectivos, ou em normas especiais.
 
-<strong>Art</strong>. 57. A tarefa de observar alunos é atribuição dos chefes, professôres e instrutores, assim como do pessoal especializado da Seção Psicotécnica, de que trata o Título V dêste Regulamento.
+**Art**. 57. A tarefa de observar alunos é atribuição dos chefes, professôres e instrutores, assim como do pessoal especializado da Seção Psicotécnica, de que trata o Título V dêste Regulamento.
 
 III - APTIDÃO FÍSICA
 
-<strong>Art</strong>. 58. A aptidão física será apreciada através da observação constante do aluno em tôdas as atividades que requeiram vigor físico, bem como mediante exames periódicos físico e de saúde, na forma que foi determinada no Regulamento da cada estabelecimento.
+**Art**. 58. A aptidão física será apreciada através da observação constante do aluno em tôdas as atividades que requeiram vigor físico, bem como mediante exames periódicos físico e de saúde, na forma que foi determinada no Regulamento da cada estabelecimento.
 
-<strong>CAPÍTULO 9-IV</strong>
+**CAPÍTULO 9-IV**
 
-<em>DA CLASSIFICAÇÃO DOS ALUNOS</em>
+*DA CLASSIFICAÇÃO DOS ALUNOS*
 
-<strong>Art</strong>. 59. Para os fins expressos nos respectivos regulamentos, os alunos aprovados em cada ano, ou série, do curso serão classificações por ordem de merecimento, avaliado em função das notas de aprovação nas diversas matérias.
+**Art**. 59. Para os fins expressos nos respectivos regulamentos, os alunos aprovados em cada ano, ou série, do curso serão classificações por ordem de merecimento, avaliado em função das notas de aprovação nas diversas matérias.
 
-<strong>Art</strong>. 60. Terminarão o curso do estabelecimento e para os fins especificados na legislação em vigor haverá uma classificação final de curso que será feita pela soma das notas anuais de classificação.
+**Art**. 60. Terminarão o curso do estabelecimento e para os fins especificados na legislação em vigor haverá uma classificação final de curso que será feita pela soma das notas anuais de classificação.
 
-<strong>Art</strong>. 61. Nos estabelecimentos em que funcionarem cursos diversos de Armas e Serviços as classificações de que tratam os arts. 59 e 60 deverão ser feitas dentro de tais cursos e sempre que aconselhável também no conjunto dêles.
+**Art**. 61. Nos estabelecimentos em que funcionarem cursos diversos de Armas e Serviços as classificações de que tratam os arts. 59 e 60 deverão ser feitas dentro de tais cursos e sempre que aconselhável também no conjunto dêles.
 
-<strong>Art</strong>. 62. O regulamento de cada estabelecimento fixará critério de precedência para os casos em que haja empate nas classificações anual e final.
+**Art**. 62. O regulamento de cada estabelecimento fixará critério de precedência para os casos em que haja empate nas classificações anual e final.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>Seleção e Orientação dos Alunos</em>
+*Seleção e Orientação dos Alunos*
 
-<strong>CAPÍTULO 10-V</strong>
+**CAPÍTULO 10-V**
 
-<em>DA ORIENTAÇÃO EDUCACIONAL</em>
+*DA ORIENTAÇÃO EDUCACIONAL*
 
-<strong>Art</strong>. 63. Nos Colégios Militares e estabelecimentos congêneres que venham a ser criados haverá um serviço de Orientação Educacional, que terá por finalidade realizar:
+**Art**. 63. Nos Colégios Militares e estabelecimentos congêneres que venham a ser criados haverá um serviço de Orientação Educacional, que terá por finalidade realizar:
 
 1\) o estudo invidual de cada aluno;
 
@@ -502,11 +500,11 @@ c) a atitude de respectivo pela pessoa humana;
 
 d) a consciência da liberdade e dos sentimentos de responsabilidade.
 
-<strong>CAPÍTULO 11-V</strong>
+**CAPÍTULO 11-V**
 
-<em>DA SELEÇÃO E DA ORIENTAÇÃO PROFISSIONAL</em>
+*DA SELEÇÃO E DA ORIENTAÇÃO PROFISSIONAL*
 
-<strong>Art</strong>. 64. Nas Escolas Preparatórias e nas de formação de oficiais e sargentos haverá um serviço destinado à seleção e orientação profissional do pessoal discente cuja finalidade será, essencialmente:
+**Art**. 64. Nas Escolas Preparatórias e nas de formação de oficiais e sargentos haverá um serviço destinado à seleção e orientação profissional do pessoal discente cuja finalidade será, essencialmente:
 
 1\) selecionar os canditados à matrícula;
 
@@ -516,17 +514,17 @@ d) a consciência da liberdade e dos sentimentos de responsabilidade.
 
 4\) colaborar nos estudos referentes ao preparo técnico profissional, tendo em vista, sobretudo, a adequação dos currículos às atividades profissionais a que visa cada estabelecimento.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>Regime Escolar</em>
+*Regime Escolar*
 
-<strong>CAPÍTULO 12-VI</strong>
+**CAPÍTULO 12-VI**
 
-<em>DO ANO ESCOLAR</em>
+*DO ANO ESCOLAR*
 
 I - Divisão do Ano Escolar
 
-<strong>Art</strong>. 65. O ano escolar compreende:
+**Art**. 65. O ano escolar compreende:
 
 1\) ano letivo;
 
@@ -536,7 +534,7 @@ I - Divisão do Ano Escolar
 
 Parágrafo único. O ano letivo poderá ser dividido em dois períodos, separados por um de férias com duração máxima de 15 (quinze) dias, de acôrdo com o fixado no regulamento de cada estabelecimento.
 
-<strong>Art</strong>. 66. O ano letivo começa com o escolar, no primeiro dia útil de março, inclusive nos estabelecimentos de ensino em que por haver cursos de pequena duração, alguns dêsses cursos devam iniciar-se em data posterior.
+**Art**. 66. O ano letivo começa com o escolar, no primeiro dia útil de março, inclusive nos estabelecimentos de ensino em que por haver cursos de pequena duração, alguns dêsses cursos devam iniciar-se em data posterior.
 
 § 1º Nos estabelecimentos em que, por qualquer circunstância de ordem particular não de deva obedecer à data indicada neste artigo, o início do ano escolar poderá ser fixado nos regulamentos respectivos.
 
@@ -544,23 +542,23 @@ Parágrafo único. O ano letivo poderá ser dividido em dois períodos, separado
 
 § 3º O início do ano letivo, bem como o encarregado dos cursos, será realizado com solenidade.
 
-<strong>Art</strong>. 67. A época dos exames finais será fixada no regulamento de cada estabelecimento.
+**Art**. 67. A época dos exames finais será fixada no regulamento de cada estabelecimento.
 
 Parágrafo único. Os exames de segunda época nos estabelecimentos referidos no art. 38, serão realizados durante o período de férias.
 
-<strong>Art</strong>. 68. Nos estabelecimentos em que houver matérias que se estudem apenas no primeiro período letivo, os exames finais se realizam no fim dêsse período, e os de segunda época, quando fôr o caso, realizados juntamente com os correspondentes das demais matérias.
+**Art**. 68. Nos estabelecimentos em que houver matérias que se estudem apenas no primeiro período letivo, os exames finais se realizam no fim dêsse período, e os de segunda época, quando fôr o caso, realizados juntamente com os correspondentes das demais matérias.
 
-<strong>Art</strong>. 69. O período compreendido entre o fim dos exames finais e o início do ano escolar seguinte será destinado a férias.
+**Art**. 69. O período compreendido entre o fim dos exames finais e o início do ano escolar seguinte será destinado a férias.
 
 Parágrafo único. Durante êsse período, além dos exames finais de segunda época a que se refere o art. 68, realizam-se o concurso de admissão anual, os trabalhos relativos as matrículas e o planejamento do ano escolar a iniciar-se.
 
-<strong>Art</strong>. 70. Em cada ano letivo poderá haver, ainda, um período de férias de acôrdo com o estabelecimento no parágrafo único do art. 65.
+**Art**. 70. Em cada ano letivo poderá haver, ainda, um período de férias de acôrdo com o estabelecimento no parágrafo único do art. 65.
 
 II - Regime de Trabalho
 
-<strong>Art</strong>. 71. O regulamento de cada estabelecimento determinará o número de horas de trabalho do ano letivo, obedecido o máximo de 44 (quarenta e quatro) horas semanais.
+**Art**. 71. O regulamento de cada estabelecimento determinará o número de horas de trabalho do ano letivo, obedecido o máximo de 44 (quarenta e quatro) horas semanais.
 
-<strong>Art</strong>. 72. O dia de trabalho escolar tem a duração máxima de 8 (oito) horas.
+**Art**. 72. O dia de trabalho escolar tem a duração máxima de 8 (oito) horas.
 
 Parágrafo único. Entende-se por trabalho escolar:
 
@@ -572,51 +570,51 @@ Parágrafo único. Entende-se por trabalho escolar:
 
 4\) sessões de estudo obrigatório.
 
-<strong>CAPÍTULO 13-VI</strong>
+**CAPÍTULO 13-VI**
 
-<em>DA MATRÍCULA</em>
+*DA MATRÍCULA*
 
-<strong>Art</strong>. 73. A matrícula nos diferentes estabelecimentos de ensino é feita mediante seleção dos candidatos de acôrdo com o prescrito nos regulamentos respectivos que, além do exame médico obrigatório, poderão exigir, ainda, exames intelectual, físico e psicológico.
+**Art**. 73. A matrícula nos diferentes estabelecimentos de ensino é feita mediante seleção dos candidatos de acôrdo com o prescrito nos regulamentos respectivos que, além do exame médico obrigatório, poderão exigir, ainda, exames intelectual, físico e psicológico.
 
 § 1º A exigência do exame psicológico deverá fazer-se, particularmente, nas escolas de formação de oficiais e sargentos, e nas Escolas Preparatórias.
 
 § 2º Os diferentes exames a que se refere êste artigo constituem em cada caso, o Concurso de Admissão ao estabelecimento respectivo, e têm caráter eliminatório.
 
-<strong>Art</strong>. 74. O regulamento de cada estabelecimento determinará os requisitos para matrícula relativos a idade, grau de instrução, idoneidade moral, capacidade física, assim como outros necessários.
+**Art**. 74. O regulamento de cada estabelecimento determinará os requisitos para matrícula relativos a idade, grau de instrução, idoneidade moral, capacidade física, assim como outros necessários.
 
-<strong>Art</strong>. 75. As normas e programas relativos aos diferentes exames, que constituem o concurso de admissão as condições de execução dêste a documentação correspondente aos requisitos que se fizerem indispensáveis para a inscrição do candidato serão estabelecidas em Instruções particulares para cada estabelecimento (Instruções para Matrícula), aprovadas pelo Estado-Maior do Exército, mediante proposta da Diretoria Geral do Ensino.
+**Art**. 75. As normas e programas relativos aos diferentes exames, que constituem o concurso de admissão as condições de execução dêste a documentação correspondente aos requisitos que se fizerem indispensáveis para a inscrição do candidato serão estabelecidas em Instruções particulares para cada estabelecimento (Instruções para Matrícula), aprovadas pelo Estado-Maior do Exército, mediante proposta da Diretoria Geral do Ensino.
 
 Parágrafo único. As Instruções para Matrícula têm caráter permanente, embora sujeitas a pequenas alterações que a experiência possa aconselhar, condicionadas à aprovação do Estado-Maior do Exército.
 
-<strong>Art</strong>. 76. O concurso de admissão aos diferentes estabelecimentos é realizado, em princípio, no mês de janeiro, em datas que serão fixadas anualmente em calendário aprovado pelo Estado-Maior do Exército, mediante proposta da Diretoria-Geral do Ensino.
+**Art**. 76. O concurso de admissão aos diferentes estabelecimentos é realizado, em princípio, no mês de janeiro, em datas que serão fixadas anualmente em calendário aprovado pelo Estado-Maior do Exército, mediante proposta da Diretoria-Geral do Ensino.
 
-<strong>Art</strong>. 77. O número de matrículas em cada estabelecimento será fixado, anualmente, pelo Ministro da Guerra, mediante proposta do Estado-Maior do Exército, calculada em sugestões da Diretoria-Geral do Ensino, ouvidos os órgãos interessados.
+**Art**. 77. O número de matrículas em cada estabelecimento será fixado, anualmente, pelo Ministro da Guerra, mediante proposta do Estado-Maior do Exército, calculada em sugestões da Diretoria-Geral do Ensino, ouvidos os órgãos interessados.
 
-<strong>CAPÍTULO 14-VI</strong>
+**CAPÍTULO 14-VI**
 
-<em>DA FREQÜÊNCIA</em>
+*DA FREQÜÊNCIA*
 
-<strong>Art</strong>. 78. É obrigatória a freqüência do aluno aos trabalhos escolares, referidos no parágrafo único do art. 72, que são considerados atos de serviço.
+**Art**. 78. É obrigatória a freqüência do aluno aos trabalhos escolares, referidos no parágrafo único do art. 72, que são considerados atos de serviço.
 
-<strong>Art</strong>. 79. Salvo motivo de força maior justificado por escrito, nenhum professor ou instrutor poderá dispensar aluno dos trabalhos escolares; o afastamento do aluno da aula ou sessão de instrução constará do registro competente.
+**Art**. 79. Salvo motivo de força maior justificado por escrito, nenhum professor ou instrutor poderá dispensar aluno dos trabalhos escolares; o afastamento do aluno da aula ou sessão de instrução constará do registro competente.
 
-<strong>Art</strong>. 80. A falta do aluno aos trabalhos escolares será verificada pela declaração do chefe de turma sujeita à verificação do professor ou instrutor.
+**Art**. 80. A falta do aluno aos trabalhos escolares será verificada pela declaração do chefe de turma sujeita à verificação do professor ou instrutor.
 
 Parágrafo único. A execução do disposto neste artigo será regulada pelo Diretor do Ensino de cada estabelecimento.
 
-<strong>Art</strong>. 81. A cada trabalho a que o aluno não compareça ou não assista integralmente corresponderá a perda de um (1) ponto se falta fôr justificada e de 3 (três) pontos em caso contrário.
+**Art**. 81. A cada trabalho a que o aluno não compareça ou não assista integralmente corresponderá a perda de um (1) ponto se falta fôr justificada e de 3 (três) pontos em caso contrário.
 
 Parágrafo único. As faltas a exercícios que abranjam uma ou mais jornadas de instrução ocasionarão uma perda de tantos pontos quantos forem as jornadas completas a que o aluno não comparecer multiplicadas por 6 (seis) quando o regime de trabalho do estabelecimento fôr inferior a 36 horas semanais, e por 8 (oito) quando êsse fôr igual ou superior a 36 horas semanais.
 
-<strong>Art</strong>. 82. A justificação da falta será feita perante o Diretor de Ensino na forma determinada em cada estabelecimento.
+**Art**. 82. A justificação da falta será feita perante o Diretor de Ensino na forma determinada em cada estabelecimento.
 
 Parágrafo único. Quando a falta resultar de doença deverá ser comprovada por médico do estabelecimento ou não sendo isso possível, por atestado médico.
 
-<strong>Art</strong>. 83. Aplicar-se-ão aos alunos, em caso de doença, as disposições correspondentes do Regulamento Interno e dos Serviços Gerais (R-1).
+**Art**. 83. Aplicar-se-ão aos alunos, em caso de doença, as disposições correspondentes do Regulamento Interno e dos Serviços Gerais (R-1).
 
-<strong>Art</strong>. 84. O número total de pontos perdidos pelo aluno será publicado, mensalmente no Boletim Interno do estabelecimento.
+**Art**. 84. O número total de pontos perdidos pelo aluno será publicado, mensalmente no Boletim Interno do estabelecimento.
 
-<strong>Art</strong>. 85. O número máximo de pontos que o aluno poderá perder durante um ano letivo, ainda que suas faltas, no todo ou em parte, decorrem de motivo de fôrça maior será igual:
+**Art**. 85. O número máximo de pontos que o aluno poderá perder durante um ano letivo, ainda que suas faltas, no todo ou em parte, decorrem de motivo de fôrça maior será igual:
 
 1\) a 6 (seis) vêzes o número de semanas previstas para o ano letivo, se o curso tiver regime de trabalho inferior a 36 (trinta e seis) horas semanais;
 
@@ -624,13 +622,13 @@ Parágrafo único. Quando a falta resultar de doença deverá ser comprovada por
 
 Parágrafo único. Dentro dêsse total, sòmente 2/3 (dois terços) poderão ser perdidos por motivos que não sejam os de força maior acima enumerados.
 
-<strong>CAPÍTULO 15-VI</strong>
+**CAPÍTULO 15-VI**
 
-<em>DO DESLIGAMENTO E DA REMATRÍCULA</em>
+*DO DESLIGAMENTO E DA REMATRÍCULA*
 
 I - Desligamento
 
-<strong>Art</strong>. 86. Será desligado o aluno que:
+**Art**. 86. Será desligado o aluno que:
 
 1\) concluir o respectivo curso;
 
@@ -650,21 +648,21 @@ I - Desligamento
 
 II - Rematrícula
 
-<strong>Art</strong>. 87. Os alunos desligados pelos motivos constantes dos ns. 2 e 3 do art. 86 poderão rematricular-se, desde que não venham a incidir no caso do nº 7 do mesmo artigo A rematrícula dependerá de novo exame médico e da conclusão do curso dentro do limite de idade para isso admitido.
+**Art**. 87. Os alunos desligados pelos motivos constantes dos ns. 2 e 3 do art. 86 poderão rematricular-se, desde que não venham a incidir no caso do nº 7 do mesmo artigo A rematrícula dependerá de novo exame médico e da conclusão do curso dentro do limite de idade para isso admitido.
 
-<strong>Art</strong>. 88. A rematrícula não poderá ser feita no mesmo ano escolar do desligamento.
+**Art**. 88. A rematrícula não poderá ser feita no mesmo ano escolar do desligamento.
 
-<strong>Art</strong>. 89. O aluno que fôr rematriculado de acôrdo com o estabelecido nos arts. 87 e 88, será considerado repetente.
+**Art**. 89. O aluno que fôr rematriculado de acôrdo com o estabelecido nos arts. 87 e 88, será considerado repetente.
 
-<strong>TÍTULO VII</strong>
+**TÍTULO VII**
 
-<em>Órgãos de Ensino</em>
+*Órgãos de Ensino*
 
-<strong>CAPÍTULO 16-VII</strong>
+**CAPÍTULO 16-VII**
 
-<em>DA DIREÇÃO DO ENSINO</em>
+*DA DIREÇÃO DO ENSINO*
 
-<strong>Art</strong>. 90. A Direção do Ensino, em cada estabelecimento, compreende:
+**Art**. 90. A Direção do Ensino, em cada estabelecimento, compreende:
 
 1\) Diretor de Ensino;
 
@@ -676,9 +674,9 @@ Parágrafo único. Na Academia Militar das Agulhas Negras, nas Escolas Preparat�
 
 I - Diretor de Ensino
 
-<strong>Art</strong>. 91. Em todo o estabelecimento, o Diretor de Ensino é o próprio Comandante.
+**Art**. 91. Em todo o estabelecimento, o Diretor de Ensino é o próprio Comandante.
 
-<strong>Art</strong>. 92. Compete ao Diretor de Ensino:
+**Art**. 92. Compete ao Diretor de Ensino:
 
 1\) orientar, superintender e fiscalizar todos os serviços técnicos pedagógicos do estabelecimento;
 
@@ -740,15 +738,15 @@ I - Diretor de Ensino
 
 II - Subdiretor de Ensino
 
-<strong>Art</strong>. 93. Haverá, em cada estabelecimento um Subdiretor de Ensino o qual secundará o Diretor de Ensino em suas atribuições específicas.
+**Art**. 93. Haverá, em cada estabelecimento um Subdiretor de Ensino o qual secundará o Diretor de Ensino em suas atribuições específicas.
 
-<strong>Art</strong>. 94. De acôrdo com o que se especificar no regulamento do estabelecimento, o Subdiretor de Ensino será superior da ativa, ou do Magistério do Exército.
+**Art**. 94. De acôrdo com o que se especificar no regulamento do estabelecimento, o Subdiretor de Ensino será superior da ativa, ou do Magistério do Exército.
 
 § 1º O Subdiretor de Ensino deve possuir, sempre que possível, o Curso de Técnica de Ensino e, quando oficial da ativa, o de Comando e Estado-Maior.
 
 § 2º Nos estabelecimentos de formação de oficiais e sargentos e nos de especialização o Subdiretor de Ensino poderá ser o próprio Subcomandante.
 
-<strong>Art</strong>. 95. Ao Subdiretor de Ensino compete:
+**Art**. 95. Ao Subdiretor de Ensino compete:
 
 1\) secundar o Diretor do Ensino em suas atribuições;
 
@@ -766,9 +764,9 @@ II - Subdiretor de Ensino
 
 III - Divisão de Ensino
 
-<strong>Art</strong>. 96. A Divisão de Ensino é o órgão técnico-pedagógico destinado a fornecer ao Diretor de Ensino os elementos necessários às suas decisões, assim como a assegurar a execução dessas decisões, e verificar-lhe os resultados.
+**Art**. 96. A Divisão de Ensino é o órgão técnico-pedagógico destinado a fornecer ao Diretor de Ensino os elementos necessários às suas decisões, assim como a assegurar a execução dessas decisões, e verificar-lhe os resultados.
 
-<strong>Art</strong>. 97. A Divisão de Ensino compreende:
+**Art**. 97. A Divisão de Ensino compreende:
 
 1\) Um chefe;
 
@@ -782,13 +780,13 @@ III - Divisão de Ensino
 
 6\) Outros órgãos que se façam necessários ao bom andamento do ensino, de acôrdo com o que consignar o regulamento de cada estabelecimento.
 
-<strong>Art</strong>. 98. À Divisão de Ensino compete, essencialmente, assistir o Diretor de Ensino no planejamento geral, na coordenação e no contrôle do ensino e da aprendizagem assim como na seleção e na orientação educacional ou profissional dos alunos.
+**Art**. 98. À Divisão de Ensino compete, essencialmente, assistir o Diretor de Ensino no planejamento geral, na coordenação e no contrôle do ensino e da aprendizagem assim como na seleção e na orientação educacional ou profissional dos alunos.
 
 A) Chefe da Divisão de Ensino
 
-<strong>Art</strong>. 99. O Chefe da Divisão de Ensino é o próprio Subdiretor de Ensino do estabelecimento exceto na Academia Militar das Agulhas Negras que deverá ser oficial superior com o curso de Comandante e Estado-Maior, ou do Magistério do Exército. Em qualquer dos casos, de preferência habilitado com o Curso de Técnica de Ensino.
+**Art**. 99. O Chefe da Divisão de Ensino é o próprio Subdiretor de Ensino do estabelecimento exceto na Academia Militar das Agulhas Negras que deverá ser oficial superior com o curso de Comandante e Estado-Maior, ou do Magistério do Exército. Em qualquer dos casos, de preferência habilitado com o Curso de Técnica de Ensino.
 
-<strong>Art</strong>. 100. Ao Chefe da Divisão de Ensino compete:
+**Art**. 100. Ao Chefe da Divisão de Ensino compete:
 
 1\) coordenar os trabalhos dos diferentes órgãos da Divisão;
 
@@ -806,9 +804,9 @@ A) Chefe da Divisão de Ensino
 
 B) Seção Técnica de Ensino
 
-<strong>Art</strong>. 101. A Seção Técnica de Ensino é o órgão especializado de que dispõe a Divisão de Ensino para o planejamento, a coordenação e o contrôle do ensino e da aprendizagem.
+**Art**. 101. A Seção Técnica de Ensino é o órgão especializado de que dispõe a Divisão de Ensino para o planejamento, a coordenação e o contrôle do ensino e da aprendizagem.
 
-<strong>Art</strong>. 102. A Seção Técnica de Ensino terá organização variável com a natureza e as necessidades do estabelecimento a que serve; comportará, porém, em princípio, subseções, que podem ser divididas, por sua vez, em turmas, de modo que atenda aos seguintes encargos:
+**Art**. 102. A Seção Técnica de Ensino terá organização variável com a natureza e as necessidades do estabelecimento a que serve; comportará, porém, em princípio, subseções, que podem ser divididas, por sua vez, em turmas, de modo que atenda aos seguintes encargos:
 
 1\) Estudos que visem a proporcionar ao Conselho de Ensino elementos para a interpretação ou formulação da doutrina de ensino;
 
@@ -838,17 +836,17 @@ B) Seção Técnica de Ensino
 
 9\) Arquivamento atualizados dos documentos de ensino.
 
-<strong>Art</strong>. 103. As atribuições pormenorizadas da Seção Técnica de Ensino e, em particular, de seu Chefe, serão objeto de Instrução que serão baixadas pelo Ministro da Guerra, mediante proposta da Diretoria Geral do Ensino.
+**Art**. 103. As atribuições pormenorizadas da Seção Técnica de Ensino e, em particular, de seu Chefe, serão objeto de Instrução que serão baixadas pelo Ministro da Guerra, mediante proposta da Diretoria Geral do Ensino.
 
-<strong>Art</strong>. 104. Se possível o Chefe, e todos os oficiais da Seção Técnica de Ensino, devem ser habilitados com o Curso de Técnica de Ensino.
+**Art**. 104. Se possível o Chefe, e todos os oficiais da Seção Técnica de Ensino, devem ser habilitados com o Curso de Técnica de Ensino.
 
 Parágrafo único. Obrigatòriamente serão incluídos oficiais professôres nos quadros de organização das Seções Técnicas de Ensino dos Colégios Militares Escolas Preparatórias e Academia Militar das Agulhas Negras ou estabelecimentos congêneres que venham a ser criados.
 
 C) Seção Psicotécnica
 
-<strong>Art</strong>. 105. A Seção Psicotécnica é o órgão da Divisão de Ensino encarregado de realizar de acôrdo com a natureza do estabelecimento os trabalhos de seleção e orientação de que tratam os Capítulos 10-V e 11-V.
+**Art**. 105. A Seção Psicotécnica é o órgão da Divisão de Ensino encarregado de realizar de acôrdo com a natureza do estabelecimento os trabalhos de seleção e orientação de que tratam os Capítulos 10-V e 11-V.
 
-<strong>Art</strong>. 106. Para cumprir sua finalidade, a Seção Psicotécnica deverá:
+**Art**. 106. Para cumprir sua finalidade, a Seção Psicotécnica deverá:
 
 1 - nos estabelecimentos a que se refere o artigo 63:
 
@@ -882,17 +880,17 @@ h) auxiliar o Comando em todos os assuntos relativo à classificação e selaç�
 
 i) prestar auxílio psicotécnico aos membros do Corpo Docente.
 
-<strong>Art</strong>. 107. As atribuições pormenorizadas da Seção Psicotécnica e, em particular do seu Chefe de acôrdo com a natureza do estabelecimento, serão objeto de Instruções especiais, baixadas pelo Ministro da Guerra, mediante proposta da Diretoria Geral do Ensino.
+**Art**. 107. As atribuições pormenorizadas da Seção Psicotécnica e, em particular do seu Chefe de acôrdo com a natureza do estabelecimento, serão objeto de Instruções especiais, baixadas pelo Ministro da Guerra, mediante proposta da Diretoria Geral do Ensino.
 
-<strong>Art</strong>. 108. Todos os oficiais da Seção Psicotécnica em princípio devem ser habilitados com o Curso de Classificação de Pessoal.
+**Art**. 108. Todos os oficiais da Seção Psicotécnica em princípio devem ser habilitados com o Curso de Classificação de Pessoal.
 
-<strong>Art</strong>. 109. Poderão ser contratados técnicos civis de idoneidade e competência comprovada a fim de orientar ou executar serviços na Seção Psicotécnica, quando fôr julgado necessário.
+**Art**. 109. Poderão ser contratados técnicos civis de idoneidade e competência comprovada a fim de orientar ou executar serviços na Seção Psicotécnica, quando fôr julgado necessário.
 
 D) Biblioteca
 
-<strong>Art</strong>. 110. A Biblioteca é o órgão encarregado de proporcionar aos membros dos Corpos Docente e Discente elementos de consultas, informações e estudos didáticos científicos e profissionais.
+**Art**. 110. A Biblioteca é o órgão encarregado de proporcionar aos membros dos Corpos Docente e Discente elementos de consultas, informações e estudos didáticos científicos e profissionais.
 
-<strong>Art</strong>. 111. O funcionamento da Biblioteca é superintendido por uma Comissão Permanente constituída pelo Chefe da Divisão de Ensino e dos professôres ou instrutores à qual compete:
+**Art**. 111. O funcionamento da Biblioteca é superintendido por uma Comissão Permanente constituída pelo Chefe da Divisão de Ensino e dos professôres ou instrutores à qual compete:
 
 1\) elaborar as Instruções para a organização é o funcionamento da Biblioteca;
 
@@ -904,7 +902,7 @@ D) Biblioteca
 
 5\) apresentar ao Diretor de Ensino um relatório anual da atividade da Biblioteca.
 
-<strong>Art</strong>. 112. A Biblioteca terá um encarregado - funcionário civil ou oficial, em princípio, ao qual compete:
+**Art**. 112. A Biblioteca terá um encarregado - funcionário civil ou oficial, em princípio, ao qual compete:
 
 1\) assegurar o funcionamento da biblioteca de acôrdo com as Instruções baixadas pelo Diretor de Ensino;
 
@@ -916,47 +914,47 @@ D) Biblioteca
 
 E) Filmoteca
 
-<strong>Art</strong>. 113. A Filmoteca é o órgão da Divisão de Ensino destinado a prover o Corpo Docente dos filmes cinematográficos e outros meios auxiliares análogos, necessários à maior objetividade do ensino.
+**Art**. 113. A Filmoteca é o órgão da Divisão de Ensino destinado a prover o Corpo Docente dos filmes cinematográficos e outros meios auxiliares análogos, necessários à maior objetividade do ensino.
 
-<strong>Art</strong>. 114. A Filmoteca terá um encarregado, funcionário civil, ou oficial ou sargento, especializado.
+**Art**. 114. A Filmoteca terá um encarregado, funcionário civil, ou oficial ou sargento, especializado.
 
 IV - Conselho de Ensino
 
-<strong>Art</strong>. 115. O Conselho de Ensino, referido no parágrafo único do artigo 90 é órgão de orientação pedagógica, de caráter exclusivamente técnico-consultivo.
+**Art**. 115. O Conselho de Ensino, referido no parágrafo único do artigo 90 é órgão de orientação pedagógica, de caráter exclusivamente técnico-consultivo.
 
-<strong>Art</strong>. 116. O Conselho de Ensino é presidido pelo Diretor de Ensino do estabelecimento. Sua organização e atribuições, em casa estabelecimento de ensino, serão fixadas no regulamento respectivo.
+**Art**. 116. O Conselho de Ensino é presidido pelo Diretor de Ensino do estabelecimento. Sua organização e atribuições, em casa estabelecimento de ensino, serão fixadas no regulamento respectivo.
 
-<strong>CAPÍTULO 17-VII</strong>
+**CAPÍTULO 17-VII**
 
-<em>Das Seções de Ensino</em>
+*Das Seções de Ensino*
 
-<strong>Art</strong>. 117. Em principio as diversas matérias que integram os currículos, em cada estabelecimento de ensino, devem ser grupadas em Seções de Ensino, segundo a correlação que tenham entre si.
+**Art**. 117. Em principio as diversas matérias que integram os currículos, em cada estabelecimento de ensino, devem ser grupadas em Seções de Ensino, segundo a correlação que tenham entre si.
 
-<strong>Art</strong>. 118. As Seções de Ensino são diretamente subordinado ao Diretor de Ensino do estabelecimento. A chefia de cada uma dela será exercida pelo professor, ou instrutor de maior hierarquia, dentre os que a ela pertencem.
+**Art**. 118. As Seções de Ensino são diretamente subordinado ao Diretor de Ensino do estabelecimento. A chefia de cada uma dela será exercida pelo professor, ou instrutor de maior hierarquia, dentre os que a ela pertencem.
 
-<strong>Art</strong>. 119. As Seções de Ensino tem a responsabilidade direta pela execução e coordenação do ensino das respectivas matérias. Constituem, além disso, centros de pesquisas estudos e debates relacionados com essas matérias, visando a permanente atualização dos professores e instrutores, assim como ao aperfeiçoamento do ensino.
+**Art**. 119. As Seções de Ensino tem a responsabilidade direta pela execução e coordenação do ensino das respectivas matérias. Constituem, além disso, centros de pesquisas estudos e debates relacionados com essas matérias, visando a permanente atualização dos professores e instrutores, assim como ao aperfeiçoamento do ensino.
 
 Parágrafo único. Visando a uma perfeita harmonia dos objetivos educacionais do estabelecimento, deve ser assegurada intima ligação entre as diversas Seções de Ensino.
 
-<strong>TÍTULO VIII</strong>
+**TÍTULO VIII**
 
-<em>CORPO DOCENTE</em>
+*CORPO DOCENTE*
 
-<strong>CAPÍTULO 18-VIII</strong>
+**CAPÍTULO 18-VIII**
 
-<em>DA CONSTITUIÇÃO DO CORPO DOCENTE</em>
+*DA CONSTITUIÇÃO DO CORPO DOCENTE*
 
-<strong>Art</strong>. 120. O Corpo Docente de cada estabelecimento de ensino é constituído pelo conjunto dos professores e instrutores, que aí tiverem exercício.
+**Art**. 120. O Corpo Docente de cada estabelecimento de ensino é constituído pelo conjunto dos professores e instrutores, que aí tiverem exercício.
 
-<strong>Art</strong>. 121. O Corpo Docente tem, como coadjuvantes, preparadores, subinstrutores, monitores e inspetores de alunos.
+**Art**. 121. O Corpo Docente tem, como coadjuvantes, preparadores, subinstrutores, monitores e inspetores de alunos.
 
-<strong>CAPÍTULO 19-VIII</strong>
+**CAPÍTULO 19-VIII**
 
-<em>DOS PROFESSORES</em>
+*DOS PROFESSORES*
 
-<strong>Art</strong>. 122. Os professores, do Quadro do Magistério do Exército, são destinados a ministrar o ensino das matérias não essencialmente militares seu recrutamento, atividade, direitos e deveres gerais são estabelecidos na legislação específica e nas demais prescrições legais e regulamentos que lhes forem aplicáveis.
+**Art**. 122. Os professores, do Quadro do Magistério do Exército, são destinados a ministrar o ensino das matérias não essencialmente militares seu recrutamento, atividade, direitos e deveres gerais são estabelecidos na legislação específica e nas demais prescrições legais e regulamentos que lhes forem aplicáveis.
 
-<strong>Art</strong>. 123. De acordo com a legislação em vigor, os professores classificam-se em:
+**Art**. 123. De acordo com a legislação em vigor, os professores classificam-se em:
 
 1\) efetivos - catedráticos e adjuntos de catedráticos;
 
@@ -970,7 +968,7 @@ Parágrafo único. Visando a uma perfeita harmonia dos objetivos educacionais do
 
 I - Professores Catedráticos
 
-<strong>Art</strong>. 124. O professor catedrático é o responsável, perante o Diretor de Ensino do estabelecimento, pela orientação didática do ensino de sua matéria, pela fiel observância dos programas e planos e pelo rendimento da aprendizagem. Cabe-lhe, em particular:
+**Art**. 124. O professor catedrático é o responsável, perante o Diretor de Ensino do estabelecimento, pela orientação didática do ensino de sua matéria, pela fiel observância dos programas e planos e pelo rendimento da aprendizagem. Cabe-lhe, em particular:
 
 1\) ministrar o ensino que lhe compete;
 
@@ -1002,7 +1000,7 @@ b) um estudo crítico da situação do ensino, com enumeração das falhas por a
 
 II - Professores Adjuntos
 
-<strong>Art</strong>. 125. Os professores adjuntos são responsáveis, perante o respectivo catedrático, por tudo quanto diga respeito ao rendimento do ensino que lhes estiver confiado. Cabe-lhes, em particular:
+**Art**. 125. Os professores adjuntos são responsáveis, perante o respectivo catedrático, por tudo quanto diga respeito ao rendimento do ensino que lhes estiver confiado. Cabe-lhes, em particular:
 
 1\) cumprir as disposições enumeradas no artigo anterior para o catedrático, no que lhes for aplicável;
 
@@ -1014,27 +1012,27 @@ II - Professores Adjuntos
 
 III - Professores em Comissão
 
-<strong>Art</strong>. 126. Os professores em comissão são oficiais do Exército, ativo, nomeados por tempo limitado e independentemente de concurso, para o ensino de matérias que não devam ser ministradas por catedráticos ou adjuntos de catedráticos.
+**Art**. 126. Os professores em comissão são oficiais do Exército, ativo, nomeados por tempo limitado e independentemente de concurso, para o ensino de matérias que não devam ser ministradas por catedráticos ou adjuntos de catedráticos.
 
-<strong>Art</strong>. 127. Os professores em comissão terão atribuições e deveres idênticos aos dos professores efetivos.
+**Art**. 127. Os professores em comissão terão atribuições e deveres idênticos aos dos professores efetivos.
 
 IV - Professores Contratos
 
-<strong>Art</strong>. 128. Os professores contratados serão militares da reserva ou reformados, e civis, destinados a ministrar assuntos especializados em determinados estabelecimentos de ensino.
+**Art**. 128. Os professores contratados serão militares da reserva ou reformados, e civis, destinados a ministrar assuntos especializados em determinados estabelecimentos de ensino.
 
-<strong>Art</strong>. 129. Os professores contratados terão suas atribuições, direitos e deveres regulados nos respectivos contratos.
+**Art**. 129. Os professores contratados terão suas atribuições, direitos e deveres regulados nos respectivos contratos.
 
 V - Conferencistas
 
-<strong>Art</strong>. 130. Os conferencistas - militares da ativa, da reserva ou reformados, ou civis, - são destinados a ministrar cursos ou realizar conferências sobre assuntos diversos, em qualquer estabelecimento.
+**Art**. 130. Os conferencistas - militares da ativa, da reserva ou reformados, ou civis, - são destinados a ministrar cursos ou realizar conferências sobre assuntos diversos, em qualquer estabelecimento.
 
-<strong>CAPÍTULO 20-VIII</strong>
+**CAPÍTULO 20-VIII**
 
-<em>DOS PREPARADORES</em>
+*DOS PREPARADORES*
 
-<strong>Art</strong>. 131. Nas matérias de ensino experimental, os professores são coadjuvados por preparadores, cujo recrutamento, atividade, direitos e deveres gerais são estabelecidos na legislação específica e nas demais prescrições legais e regulamentos que lhes forem aplicáveis.
+**Art**. 131. Nas matérias de ensino experimental, os professores são coadjuvados por preparadores, cujo recrutamento, atividade, direitos e deveres gerais são estabelecidos na legislação específica e nas demais prescrições legais e regulamentos que lhes forem aplicáveis.
 
-<strong>Art</strong>. 132. Aos preparadores cabe, em particular:
+**Art**. 132. Aos preparadores cabe, em particular:
 
 1\) zelar pelo gabinete ou laboratório respectivo;
 
@@ -1052,21 +1050,21 @@ V - Conferencistas
 
 8\) ministrar os cursos ou aulas práticas que lhes forem cometidos pelo catedrático.
 
-<strong>CAPÍTULO 21-VIII</strong>
+**CAPÍTULO 21-VIII**
 
-<em>DOS INSPETORES DE ALUNOS</em>
+*DOS INSPETORES DE ALUNOS*
 
-<strong>Art</strong>. 133. Nos estabelecimentos de ensino de grau médio e na Academia Militar das Agulhas Negras poderá haver Inspetor de Alunos destinados a auxiliar os professores na preparação material das aulas e a desempenhar outras funções que serão fixadas no regulamento de cada estabelecimento de ensino, ou no respectivo Regimento Interno.
+**Art**. 133. Nos estabelecimentos de ensino de grau médio e na Academia Militar das Agulhas Negras poderá haver Inspetor de Alunos destinados a auxiliar os professores na preparação material das aulas e a desempenhar outras funções que serão fixadas no regulamento de cada estabelecimento de ensino, ou no respectivo Regimento Interno.
 
-<strong>CAPÍTULO 22-VIII</strong>
+**CAPÍTULO 22-VIII**
 
-<em>DOS INSTRUTORES</em>
+*DOS INSTRUTORES*
 
-<strong>Art</strong>. 134. Os instrutores são destinados a ministrar a instrução militar ou o ensino de matérias com ela relacionadas e também o ensino de matérias especializadas. Seu recrutamento, atividade, direitos e deveres gerais serão regulados pelas disposições legais e regulamentos que lhes forem aplicáveis, e por normas especiais baixadas pelo Ministro da Guerra.
+**Art**. 134. Os instrutores são destinados a ministrar a instrução militar ou o ensino de matérias com ela relacionadas e também o ensino de matérias especializadas. Seu recrutamento, atividade, direitos e deveres gerais serão regulados pelas disposições legais e regulamentos que lhes forem aplicáveis, e por normas especiais baixadas pelo Ministro da Guerra.
 
-<strong>Art</strong>. 135. O recrutamento dos instrutores, deve ser feito mediante cuidadosa escolha, em que se considere, além da competência na matéria ou grupo de matérias que vai ensinar, o pendor para o ensino e o conhecimento da moderna técnica de ministrar a instrução.
+**Art**. 135. O recrutamento dos instrutores, deve ser feito mediante cuidadosa escolha, em que se considere, além da competência na matéria ou grupo de matérias que vai ensinar, o pendor para o ensino e o conhecimento da moderna técnica de ministrar a instrução.
 
-<strong>Art</strong>. 136. As funções de instrutor são desempenhadas:
+**Art**. 136. As funções de instrutor são desempenhadas:
 
 1\) por oficiais da ativa, nomeados em comissão:
 
@@ -1078,7 +1076,7 @@ c) Auxiliar de Instrutor - 1º Tenente.
 
 I - Instrutores em Comissão
 
-<strong>Art</strong>. 137. As atribuições dos instrutores em comissão são regulados, em princípio, pelos seguintes preceitos:
+**Art**. 137. As atribuições dos instrutores em comissão são regulados, em princípio, pelos seguintes preceitos:
 
 1\) o instrutor-chefe terá atribuições análogas às do professor catedráticos;
 
@@ -1086,7 +1084,7 @@ I - Instrutores em Comissão
 
 Parágrafo único. O Regulamento de cada estabelecimento de ensino, ou o Regimento Interno respectivo, poderá pormenorizar as atribuições dos instrutores em comissão.
 
-<strong>Art</strong>. 138. O oficial que, pela primeira vez, for nomeado instrutor em comissão, e o que o for para estabelecimento de nível superior àquele em que já tenha, porventura exercido essa função, será considerado, durante o primeiro trimestre do ano letivo, Instrutor Estagiário.
+**Art**. 138. O oficial que, pela primeira vez, for nomeado instrutor em comissão, e o que o for para estabelecimento de nível superior àquele em que já tenha, porventura exercido essa função, será considerado, durante o primeiro trimestre do ano letivo, Instrutor Estagiário.
 
 § 1º Na qualidade de estagiário, o instrutor ministrará a instrução que lhe couber, e participará de todos os demais trabalhos a ela referentes, sob a orientação do instrutor-chefe, a quem cabe, terminado o período de estágio, pronunciar-se a respeito de suas qualidades para o exercício da função.
 
@@ -1094,35 +1092,35 @@ Parágrafo único. O Regulamento de cada estabelecimento de ensino, ou o Regimen
 
 § 3º Será isento do estágio a que se refere este artigo o oficial nomeado para a função de instrutor-chefe, a qual, em princípio, somente deve ser conduzido quem já tenha revelado como instrutor, as qualidades indispensáveis a seu eficiente exercício.
 
-<strong>CAPÍTULO 23-VIII</strong>
+**CAPÍTULO 23-VIII**
 
-<em>DOS SUBINSTRUTORES E MONITORES</em>
+*DOS SUBINSTRUTORES E MONITORES*
 
-<strong>Art</strong>. 139. Os subinstrutores (Subtenentes) e Monitores (Sargentos) são destinados a coadjuvar os instrutores. Seu recrutamento, atividade, direitos e deveres gerais são regulados pelas disposições legais e regulamentares que lhes forem aplicáveis, e por normas especiais baixadas pelo Ministro da Guerra.
+**Art**. 139. Os subinstrutores (Subtenentes) e Monitores (Sargentos) são destinados a coadjuvar os instrutores. Seu recrutamento, atividade, direitos e deveres gerais são regulados pelas disposições legais e regulamentares que lhes forem aplicáveis, e por normas especiais baixadas pelo Ministro da Guerra.
 
-<strong>Art</strong>. 140. As atribuições dos subinstrutores e monitores serão objeto de disposições do regulamento de cada estabelecimento de ensino, ou do respectivo Regimento Interno.
+**Art**. 140. As atribuições dos subinstrutores e monitores serão objeto de disposições do regulamento de cada estabelecimento de ensino, ou do respectivo Regimento Interno.
 
-<strong>TÍTULO IX</strong>
+**TÍTULO IX**
 
-<em>CORPO DISCENTE</em>
+*CORPO DISCENTE*
 
-<strong>CAPÍTULO 24-IX</strong>
+**CAPÍTULO 24-IX**
 
-<em>DA CONSTITUIÇÃO DO CORPO DISCENTE</em>
+*DA CONSTITUIÇÃO DO CORPO DISCENTE*
 
-<strong>Art</strong>. 141. O Corpo Discente de cada estabelecimento de ensino é constituído pelo conjunto dos alunos nele matriculados.
+**Art**. 141. O Corpo Discente de cada estabelecimento de ensino é constituído pelo conjunto dos alunos nele matriculados.
 
-<strong>Art</strong>. 142. Nos estabelecimentos de ensino de grau médio e nos de formação de oficiais e sargentos, haverá, obrigatoriamente, um comando especial para o Corpo Discente, que em tais casos, terá a designação de:
+**Art**. 142. Nos estabelecimentos de ensino de grau médio e nos de formação de oficiais e sargentos, haverá, obrigatoriamente, um comando especial para o Corpo Discente, que em tais casos, terá a designação de:
 
 1\) Corpo de Cadetes, na Academia Militar da Agulhas Negras;
 
 2\) Corpo de Alunos, nos demais estabelecimentos.
 
-<strong>CAPÍTULO 25-IX</strong>
+**CAPÍTULO 25-IX**
 
-<em>DOS DEVERES E DIREITOS DO ALUNO</em>
+*DOS DEVERES E DIREITOS DO ALUNO*
 
-<strong>Art</strong>. 143. São deveres do aluno:
+**Art**. 143. São deveres do aluno:
 
 1\) obedecer rigorosamente, às ixigências da coletividade militar;
 
@@ -1138,7 +1136,7 @@ Parágrafo único. O Regulamento de cada estabelecimento de ensino, ou o Regimen
 
 7\) concorrer para que se matenha rigoroso asseio em todas as dependências do estabelecimento.
 
-<strong>Art</strong>. 144. São direitos do aluno:
+**Art**. 144. São direitos do aluno:
 
 1\) solicitar ao professor ou instrutor os esclarecimentos que julgar necessários à boa compreensão dos assuntos que lhe são ensinados;
 
@@ -1148,15 +1146,15 @@ Parágrafo único. O Regulamento de cada estabelecimento de ensino, ou o Regimen
 
 4\) reunir-se aos colegas para organizar agremiações de cunho educativo (cívico, literário, artístico, científico, recreativo e desportivo), das condições estabelecidas ou aprovadas pelo Diretor de Ensino.
 
-<strong>Art</strong>. 145. Ao aluno que mais se distinguir durante o curso será oferecido, pelo estabelecimento, um prêmio estipulado no regulamento escolar. Esse prêmio não exclui recompensas semelhantes que se queiram estabelecer para os diferentes anos do curso para as diversas Armas e Serviços ou ainda, para determinadas matérias ou grupos de matérias.
+**Art**. 145. Ao aluno que mais se distinguir durante o curso será oferecido, pelo estabelecimento, um prêmio estipulado no regulamento escolar. Esse prêmio não exclui recompensas semelhantes que se queiram estabelecer para os diferentes anos do curso para as diversas Armas e Serviços ou ainda, para determinadas matérias ou grupos de matérias.
 
-<strong>CAPÍTULO 26-IX</strong>
+**CAPÍTULO 26-IX**
 
-<em>DO REGIME DISCIPLINAR</em>
+*DO REGIME DISCIPLINAR*
 
-<strong>Art</strong>. 146. Os estabelecimentos de ensino, sem prejuízo do que prescreve a legislação comum, civil e militar, que lhes for aplicável, terão regime disciplinar próprio, de conformidade com o estabelecido nos respectivos regulamentos.
+**Art**. 146. Os estabelecimentos de ensino, sem prejuízo do que prescreve a legislação comum, civil e militar, que lhes for aplicável, terão regime disciplinar próprio, de conformidade com o estabelecido nos respectivos regulamentos.
 
-<strong>Art</strong>. 147. As normas disciplinares peculiares a cada estabelecimento, especialmente aquelas atinentes aos estabelecimentos de ensino de grau médio e de formação de oficias e sargentos, devem obedecer aos seguintes preceitos gerais:
+**Art**. 147. As normas disciplinares peculiares a cada estabelecimento, especialmente aquelas atinentes aos estabelecimentos de ensino de grau médio e de formação de oficias e sargentos, devem obedecer aos seguintes preceitos gerais:
 
 1\) a disciplina é o fator fundamental da ação educativa, por ser a consequência lógica da boa aplicação do conjunto de normas e influências, por meio das quais se pode dirigir os espíritos e formar os caracteres;
 
@@ -1184,7 +1182,7 @@ Parágrafo único. O Regulamento de cada estabelecimento de ensino, ou o Regimen
 
 13\) as sanções devem ser sempre proporcionais às faltas cometidas e ter por objetivo único levar o aluno a um fim julgado bom e como tal desejado.
 
-<strong>Art</strong>. 148. Nos estabelecimentos de ensino de grau médio e nos de formação de oficiais e sargentos, assim como em todos os cursos para praças, as punições aos alunos, de acordo com a natureza da falta cometida e as circunstâncias que a tenham cercado, devem ser consideradas:
+**Art**. 148. Nos estabelecimentos de ensino de grau médio e nos de formação de oficiais e sargentos, assim como em todos os cursos para praças, as punições aos alunos, de acordo com a natureza da falta cometida e as circunstâncias que a tenham cercado, devem ser consideradas:
 
 1\) de caráter educativo;
 
@@ -1198,17 +1196,17 @@ Somente estas últimas influirão na classificação do comportamento do aluno, 
 
 § 3º Ao caso de desligamento por falta de aptidão para a carreira militar, previsto no número 6 do artigo 86, aplicam-se as normas estabelecidas nos dois parágrafos anteriores.
 
-<strong>TÍTULO X</strong>
+**TÍTULO X**
 
-<em>COMANDO E ADMINISTRAÇÃO</em>
+*COMANDO E ADMINISTRAÇÃO*
 
-<strong>Art</strong>. 149. Os órgãos de comando e de administração de cada estabelecimento de ensino serão fixados, com sua constituição e atribuições, no regulamento respectivo.
+**Art**. 149. Os órgãos de comando e de administração de cada estabelecimento de ensino serão fixados, com sua constituição e atribuições, no regulamento respectivo.
 
-<strong>CAPÍTULO 27-X</strong>
+**CAPÍTULO 27-X**
 
-<em>DO COMANDANTE</em>
+*DO COMANDANTE*
 
-<strong>Art</strong>. 150. Os comandantes dos diferentes estabelecimentos de ensino serão oficiais da ativa, do posto de General de Brigada, Coronel ou Tenente-Coronel, com o curso da Escola de Comando e Estado-Maior do Exército e, sempre que possível, habilitados, também, com o Curso de Técnica de Ensino.
+**Art**. 150. Os comandantes dos diferentes estabelecimentos de ensino serão oficiais da ativa, do posto de General de Brigada, Coronel ou Tenente-Coronel, com o curso da Escola de Comando e Estado-Maior do Exército e, sempre que possível, habilitados, também, com o Curso de Técnica de Ensino.
 
 § 1º Os comandos das Escolas de Saúde e de Veterinária caberão a oficiais dos respectivos Serviços.
 
@@ -1216,61 +1214,61 @@ Somente estas últimas influirão na classificação do comportamento do aluno, 
 
 § 3º Os comandos das Escolas Preparatórias, dos Colégios Militares e de outros estabelecimentos congêneres que venham a ser criados, poderão ser exercidos por oficiais professores, sempre que possíveis habilitados com o curso de Técnica de Ensino.
 
-<strong>Art</strong>. 151. O comandante como primeira autoridade do estabelecimento, é o coordenador e sistematizador de todas as atividades dos diversos órgãos que aí funcionam. Exerce ação de comando sobre todo o pessoal, e acumulada as funções de Comandante com as de Diretor de Ensino.
+**Art**. 151. O comandante como primeira autoridade do estabelecimento, é o coordenador e sistematizador de todas as atividades dos diversos órgãos que aí funcionam. Exerce ação de comando sobre todo o pessoal, e acumulada as funções de Comandante com as de Diretor de Ensino.
 
-<strong>Art</strong>. 152. Ao comandante de cada estabelecimento de ensino competem, além das atribuições especiais prescritas no regulamento escolar respectivo, tôdas aquelas que são inerentes ao comandante de Unidade, de acordo com a legislação vigente.
+**Art**. 152. Ao comandante de cada estabelecimento de ensino competem, além das atribuições especiais prescritas no regulamento escolar respectivo, tôdas aquelas que são inerentes ao comandante de Unidade, de acordo com a legislação vigente.
 
-<strong>Art</strong>. 153. Em todos os estabelecimentos de ensino o comandante é substituído, em seus impedimentos pelo subcomandante, desde que não traga incompatibilidade hierárquica. Neste caso o substitutivo eventual é o Subdiretor de Ensino.
+**Art**. 153. Em todos os estabelecimentos de ensino o comandante é substituído, em seus impedimentos pelo subcomandante, desde que não traga incompatibilidade hierárquica. Neste caso o substitutivo eventual é o Subdiretor de Ensino.
 
-<strong>CAPÍTULO 28-X</strong>
+**CAPÍTULO 28-X**
 
-<em>DO SUBCOMANDANTE</em>
+*DO SUBCOMANDANTE*
 
-<strong>Art</strong>. 154. A função de subcomandante dos diferentes estabelecimentos de ensino será exercida por oficial superior da ativa, com o posto estabelecido no regulamento escolar respectivo.
+**Art**. 154. A função de subcomandante dos diferentes estabelecimentos de ensino será exercida por oficial superior da ativa, com o posto estabelecido no regulamento escolar respectivo.
 
 Parágrafo único. Para esta função serão exercidos os mesmos cursos que, de acordo com o art. 150, constituem requisitos para a de comandante.
 
-<strong>Art</strong>. 155. Ao subcomandante de cada estabelecimento de ensino competem, além das atribuições prescritas neste e no regulamento escolar respectivo, as que são inerentes aos subcomandantes de Unidade.
+**Art**. 155. Ao subcomandante de cada estabelecimento de ensino competem, além das atribuições prescritas neste e no regulamento escolar respectivo, as que são inerentes aos subcomandantes de Unidade.
 
-<strong>CAPÍTULO 29-X</strong>
+**CAPÍTULO 29-X**
 
-<em>DO COMANDANTE DO CORPO DE ALUNOS</em>
+*DO COMANDANTE DO CORPO DE ALUNOS*
 
-<strong>Art</strong>. 156. O comandante do Corpo de Alunos (Corpo de Cadetes, na Academia Militar das Agulhas Negras), oficial superior, de posto fixado no regulamento escolar respectivo, é responsável, perante o comandante do estabelecimento, por todas as manifestações internas e externas de disciplina dos alunos.
+**Art**. 156. O comandante do Corpo de Alunos (Corpo de Cadetes, na Academia Militar das Agulhas Negras), oficial superior, de posto fixado no regulamento escolar respectivo, é responsável, perante o comandante do estabelecimento, por todas as manifestações internas e externas de disciplina dos alunos.
 
-<strong>Art</strong>. 157. Compete, essencialmente, ao comandante do Corpo de Alunos:
+**Art**. 157. Compete, essencialmente, ao comandante do Corpo de Alunos:
 
 1\) manter a disciplina de seus comandados, exercendo as atribuições previstas na legislação em vigor para o comandante de Unidade incorporada;
 
 2\) organizar, dirigir e fiscalizar a instrução militar.
 
-<strong>TÍTULO XI</strong>
+**TÍTULO XI**
 
-<em>DISPOSIÇÕES TRANSITÓRIAS</em>
+*DISPOSIÇÕES TRANSITÓRIAS*
 
-<strong>CAPÍTULO 30-XI</strong>
+**CAPÍTULO 30-XI**
 
-<em>DOS REGULAMENTOS ESCOLARES</em>
+*DOS REGULAMENTOS ESCOLARES*
 
-<strong>Art</strong>. 158. Os regulamentos escolares, peculiares aos diferentes estabelecimentos de ensino, serão aprovados por ato ministerial, mediante proposta do Estado-Maior do Exército, ouvida a Diretoria Geral do Ensino e demais órgãos interessados.
+**Art**. 158. Os regulamentos escolares, peculiares aos diferentes estabelecimentos de ensino, serão aprovados por ato ministerial, mediante proposta do Estado-Maior do Exército, ouvida a Diretoria Geral do Ensino e demais órgãos interessados.
 
-<strong>Art</strong>. 159. Em princípio, os regulamentos escolares terão estrutura idêntica à do presente Regulamento, dividindo-se, porém, em duas partes - a primeira, contendo os assuntos diretamente ligados ao ensino; a segunda, comportando os assuntos atinentes ao comando e à administração do estabelecimento.
+**Art**. 159. Em princípio, os regulamentos escolares terão estrutura idêntica à do presente Regulamento, dividindo-se, porém, em duas partes - a primeira, contendo os assuntos diretamente ligados ao ensino; a segunda, comportando os assuntos atinentes ao comando e à administração do estabelecimento.
 
 § 1º As prescrições contidas neste Regulamento não devem ser transcritas nos textos dos diferentes regulamentos escolares. Cada um destes deverá, conforme o caso, ou limitar-se a fazer-lhes a necessária referência, ou particularizá-las e desenvolvê-las, dando-lhes a feição que sirva ao estabelecimento respectivo.
 
 § 2º Cada regulamento escolar poderá conter, além disso, disposições outras que sejam exigidas por sua especialidade e não contrariem os preceitos gerais estabelecidos neste Regulamento.
 
-<strong>Art</strong>. 160. Os regulamentos escolares serão revistos periodicamente, com o fim de se manterem em consonância com as necessidades do ensino do exército e dos estabelecimentos respectivos, apontadas pela experiência colhida em sua aplicação.
+**Art**. 160. Os regulamentos escolares serão revistos periodicamente, com o fim de se manterem em consonância com as necessidades do ensino do exército e dos estabelecimentos respectivos, apontadas pela experiência colhida em sua aplicação.
 
 § 1º Essa revisão, que pode ser parcial ou total, será sempre objeto de decisão do Ministro da Guerra, podendo, entretanto, originar-se de iniciativa não só desta autoridade como do Estado-Maior do Exército, da Diretoria Geral do Ensino, das Diretorias a esta subordinadas, ou do próprio estabelecimento de ensino.
 
 § 2º Em qualquer dos casos enumerados no parágrafo anterior, o trabalho de revisão será entregue a uma comissão para tanto instituída e composta de representantes de todos os órgãos interessados, a menos que se trate de modificação de pequena monta, caso em que esses órgãos serão ouvidos individualmente.
 
-<strong>CAPÍTULO 31-XI</strong>
+**CAPÍTULO 31-XI**
 
-<em>DA EQUIVALÊNCIA DE FUNÇÕES</em>
+*DA EQUIVALÊNCIA DE FUNÇÕES*
 
-<strong>Art</strong>. 161. Para todos os efeitos fica estabelecida a seguinte equivalência de funções:
+**Art**. 161. Para todos os efeitos fica estabelecida a seguinte equivalência de funções:
 
 1\) Comandante do Corpo de Alunos (Corpo de Cadetes) - Subdiretor de Ensino;
 
@@ -1278,77 +1276,73 @@ Parágrafo único. Para esta função serão exercidos os mesmos cursos que, de 
 
 3\) Demais oficiais da Seção Técnica de Ensino - Instrutor oficial superior ou Capitão; Auxiliar de Instrutor, se 1º Tenente.
 
-<strong>TÍTULO XII</strong>
+**TÍTULO XII**
 
-<em>DISPOSIÇÕES TRANSITÓRIAS</em>
+*DISPOSIÇÕES TRANSITÓRIAS*
 
-<strong>Art</strong>. 162. O § 1º do art. 78 não entrará em vigor enquanto os estabelecimentos interessados não dispuserem dos meios indispensáveis para a realização do exame psicológico com o necessário rigor científico. À Diretoria Geral do Ensino cabe tomar, desde já as providências tendentes à consecução desses meios, no menor prazo possível.
+**Art**. 162. O § 1º do art. 78 não entrará em vigor enquanto os estabelecimentos interessados não dispuserem dos meios indispensáveis para a realização do exame psicológico com o necessário rigor científico. À Diretoria Geral do Ensino cabe tomar, desde já as providências tendentes à consecução desses meios, no menor prazo possível.
 
-<strong>Art</strong>. 163. A organização e o funcionamento dos serviços de seleção e orientação dos alunos de que trata o Título V do presente Regulamento, ficam na dependência da obtenção dos recursos técnicos para tanto indispensáveis. A Diretoria-Geral do Ensino, com as colaboração das Diretorias subordinadas e dos próprios esclarecimentos interessados, deverá providenciar para que esses serviços se organizem e instalem no menor prazo possível, recorrendo se necessário, ao auxílio de técnicos civis e das instituições nacionais especializadas no assunto.
+**Art**. 163. A organização e o funcionamento dos serviços de seleção e orientação dos alunos de que trata o Título V do presente Regulamento, ficam na dependência da obtenção dos recursos técnicos para tanto indispensáveis. A Diretoria-Geral do Ensino, com as colaboração das Diretorias subordinadas e dos próprios esclarecimentos interessados, deverá providenciar para que esses serviços se organizem e instalem no menor prazo possível, recorrendo se necessário, ao auxílio de técnicos civis e das instituições nacionais especializadas no assunto.
 
-<strong>Art</strong>. 164. Enquanto houver falta ou escassez de oficiais superiores, médicos e veterinários, com o curso da Escola de Comando e Estado-Maior, poderá ser dispensada a exigência desse curso para o exercício das funções de Comando e Diretor de Ensino, Subcomandante e Subdiretor de Ensino das Escolas de Saúde e de Veterinária.
+**Art**. 164. Enquanto houver falta ou escassez de oficiais superiores, médicos e veterinários, com o curso da Escola de Comando e Estado-Maior, poderá ser dispensada a exigência desse curso para o exercício das funções de Comando e Diretor de Ensino, Subcomandante e Subdiretor de Ensino das Escolas de Saúde e de Veterinária.
 
-<strong>(A) GEN. EX. HENRIQUE TEIXEIRA LOTT</strong>
+**(A) GEN. EX. HENRIQUE TEIXEIRA LOTT**
 
 Ministro da Guerra
 
-###DEC-042911-0-000-27-12-1957@@@RET01+++
+**DECRETONº42.911,DE27DEDEZEMBRODE1957.**
 
-<strong>DECRETO</strong> <strong>Nº</strong> <strong>42.911,</strong> <strong>DE</strong> <strong>27</strong> <strong>DE</strong> <strong>DEZEMBRO</strong> <strong>DE</strong> <strong>1957.</strong>
+***Aprova**o**Regulamento**de**Preceitos**Comuns**aos**Estabelecimentos**do**Ensino**do**Exército**(R/126).***
 
-<em><strong>Aprova</strong></em> <em><strong>o</strong></em> <em><strong>Regulamento</strong></em> <em><strong>de</strong></em> <em><strong>Preceitos</strong></em> <em><strong>Comuns</strong></em> <em><strong>aos</strong></em> <em><strong>Estabelecimentos</strong></em> <em><strong>do</strong></em> <em><strong>Ensino</strong></em> <em><strong>do</strong></em> <em><strong>Exército</strong></em> <em><strong>(R/126).</strong></em>
+(Publicação no *Diário Oficial* - Seção I - de 2 de Janeiro de 1958)
 
-(Publicação no <em>Diário Oficial</em> - Seção I - de 2 de Janeiro de 1958)
+**RETIFICAÇÃO**
 
-<strong>RETIFICAÇÃO</strong>
+No Art. 136, Inciso I, alínea *b*,
 
-No Art. 136, Inciso I, alínea <em>b</em>,
-
-<u><strong>ONDE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDELÊ:**
 
 Instrutor - Coronel - Major ou Capitão,
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 Instrutor - Tenente-Coronel, Major ou Capitão;
 
-No Art. 150, § 3º, <em>in fine</em>,
+No Art. 150, § 3º, *in fine*,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ..., sempre que possível habilitados com o curso de Técnica de Ensino,
 
-<u><strong>LEIA</strong></u>\-<u><strong>SE</strong></u>:
+**LEIA**\-**SE**:
 
 ..., sempre que possível habilitados, também, com o curso de Técnica de Ensino.
 
 No Art. 162,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u>:
+**ONDESELÊ**:
 
 o § 1º do art. 78 não entrará em vigor ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u>:
+**LEIA\-SE**:
 
 O § 1º do art. 73 não entrará em vigor ...
 
-###DEC-042911-0-000-27-12-1957@@@RET02+++
+**DECRETO Nº 42.911, DE 27 DE DEZEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.911, DE 27 DE DEZEMBRO DE 1957.</strong>
+***Aprova o Regulamento de Preceitos Comuns aos Estabelecimento de Ensino do Exército (R/126).***
 
-<em><strong>Aprova o Regulamento de Preceitos Comuns aos Estabelecimento de Ensino do Exército (R/126).</strong></em>
+(Publicado no *Diário Oficial* - Seção I, de 2 de janeiro de 1957).
 
-(Publicado no <em>Diário Oficial</em> - Seção I, de 2 de janeiro de 1957).
+**RETIFICAÇÃO**
 
-<strong>RETIFICAÇÃO</strong>
-
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 Art. 106 - ... d)
 
 Auxiliar o comando em todos os candidatos a cada um dos cursos do pessoal;
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 Art. 106 - ... d)
 

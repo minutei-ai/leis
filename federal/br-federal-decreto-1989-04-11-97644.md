@@ -1,7 +1,3 @@
-1
-
-###DEC-097644-0-000-11-04-1989@@@
-
 DECRETO N° 97.644, DE 11 DE ABRIL DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “COLÔNIA PIQUIRI, lotes 194, 195 e 196 da Gleba 11 e 72-A, 73 e 75-J da Gleba 14”, também conhecido por “FAZENDA ÁGUA QUENTE”, classificado como “latifúndio por exploração”, situado no Município de Palmital, no Estado do Paraná, compreendido na zona prioritária, fixada pelo Decreto n° 92.622, de 02 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-001793-0-000-18-01-1996@@@
-
 DECRETO Nº 1.793, DE 18 DE JANEIRO DE 1996.
 
 Dispõe sobre a Corregedoria do Serviço Exterior.

@@ -1,5 +1,3 @@
-###DEC-045350-0-000-28-01-1959@@@
-
 DECRETO Nº 45.350, DE 28 DE janeiro DE 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Aparecida do Tabuado, no Estado de Mato Grosso.

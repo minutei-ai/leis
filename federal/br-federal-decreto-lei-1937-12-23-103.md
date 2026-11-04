@@ -1,5 +1,3 @@
-###DEL-000103-0-000-23-12-1937@@@
-
 DECRETO-LEI N. 103 – DE 23 DE DEZEMBRO DE 1937
 
 Regula o exercício do magistério no Exército

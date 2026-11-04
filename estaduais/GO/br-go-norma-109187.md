@@ -54,8 +54,6 @@ b) ao art. 3º deste Decreto.
 
 Goiânia, 12 de julho de 2024; 136º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

@@ -1,5 +1,3 @@
-###DEC-050708-0-000-31-05-1961@@@
-
 Decreto nº 50.708, de 31 maio de 1961.
 
 Concede autorização para funcionar como emprêsa de energia elétrica a firma José Firmino Leitão & Cia. Ltda.

@@ -1,5 +1,3 @@
-###DEC-075224-0-000-15-01-1975@@@
-
 DECRETO Nº 75.224, DE 15 DE JANEIRO DE 1975.
 
 Aprova o Regulamento da Diretoria de Veterinária, do Departamento Geral de Serviços do Ministério do Exército.

@@ -1,5 +1,3 @@
-###DEC-094087-0-000-10-03-1987@@@
-
 DECRETO N° 94.087, DE 10 DE MARÇO DE 1987
 
 Altera os incisos “e” e” “f” do artigo 1° do Decreto n° 92.503, de 26 de março de 1986, que fixa os cargos privativos de Oficial-General do Exército em Tempo de Paz.

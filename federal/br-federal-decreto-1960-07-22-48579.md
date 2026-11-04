@@ -1,5 +1,3 @@
-###DEC-048579-0-000-22-07-1960@@@
-
 DECRETO Nº 48.579, DE 22 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro Francisco das Chagas Veras Neves a pesquisar areias ilmeníticas, no município de Barreirinhas, Estado do Maranhão.

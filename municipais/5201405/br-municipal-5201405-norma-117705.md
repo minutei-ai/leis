@@ -26,11 +26,14 @@ Art. 4º Este Decreto entra em vigor na data de sua publicação.
 
 Município de Aparecida de Goiânia, 05 de Abril de 2023.
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo
 
-UBIRACI SILVA SANTOS<br>
+UBIRACI SILVA SANTOS
+
 Secretário de Habitação

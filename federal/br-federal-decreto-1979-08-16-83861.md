@@ -1,5 +1,3 @@
-###DEC-083861-0-000-16-08-1979@@@
-
 Decreto nº 83.861, de 16 de agosto de 1979.
 
 Outorga à Companhia de Fiação e Tecidos Cedro e Cachoeira concessão para os aproveitamentos da energia hidráulica dos trechos do rio Parauninha, no Estado de Minas Gerais, para uso exclusivo e dá outras providências.

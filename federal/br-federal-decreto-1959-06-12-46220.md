@@ -1,5 +1,3 @@
-###DEC-046220-0-000-12-06-1959@@@
-
 DECRETO Nº 46.220, DE 12 DE JUNHO DE 1959.
 
 Outorga concessão a Rádio Estadual Limitada para instalar uma estação radiodifusora.

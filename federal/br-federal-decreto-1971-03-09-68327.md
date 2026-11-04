@@ -1,5 +1,3 @@
-###DEC-068327-0-000-09-03-1971@@@
-
 DECRETO Nº 68.327, DE 9 DE MARÇO DE 1971.
 
 Autorização para o funcionamento dos Cursos de Letras, Pedagogia, Química e Licenciatura do 1º Ciclo em Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de São Bernardo do Campo, SP.

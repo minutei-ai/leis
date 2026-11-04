@@ -1,5 +1,3 @@
-###DEC-053531-0-000-05-02-1964@@@
-
 DECRETO Nº 53.531, DE 5 DE FEVEREIRO DE 1964.
 
 Dispõe sôbre a execução e fiscalização dos convênios referentes ao Plano Trienal de Educação e sôbre normas para elaboração dos planos de aplicação dos recursos respectivos.

@@ -1,5 +1,3 @@
-###DEC-083291-0-000-15-03-1979@@@
-
 DECRETO Nº 83.291, DE 15 DE MARÇO DE 1979.
 
 Define as atribuições do Ministro de Estado Extraordinário para os Assuntos de Comunicação Social do Poder Executivo.

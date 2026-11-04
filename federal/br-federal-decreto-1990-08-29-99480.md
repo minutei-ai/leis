@@ -1,7 +1,3 @@
-1
-
-###DEC-099480-0-000-29-08-1990@@@
-
 DECRETO N° 99.480, DE 29 DE AGOSTO DE 1990
 
 Dispõe sobre a execução do Terceiro Protocolo Adicional ao Acordo Comercial n° 9, no Setor da Indústria de Geração, Transmissão e Distribuição de Eletricidade, entre o Brasil e o México.

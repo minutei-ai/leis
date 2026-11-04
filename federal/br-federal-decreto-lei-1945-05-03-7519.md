@@ -1,5 +1,3 @@
-###DEL-007519-0-000-03-05-1945@@@
-
 DECRETO-LEI N. 7.519 – DE 3 DE MAIO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a conceder à Federação dos Empregados no Comércio do Rio de Janeiro, isenção do impôsto que menciona

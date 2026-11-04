@@ -1,5 +1,3 @@
-###DEC-056150-0-000-27-04-1965@@@
-
 decreto nº 56.150, de 27 de abril de 1965.
 
 Autoriza o cidadão brasileiro Manuel Francisco Coelho a pesquisar caulim, no município de Visconde do Rio Branco, Estado de Minas Gerais.

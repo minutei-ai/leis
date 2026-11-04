@@ -1,5 +1,3 @@
-###DEC-088060-0-000-25-01-1983@@@
-
 Decreto nº 88.060, de 25 de janeiro de 1983
 
 Regulamenta o Decreto-lei nº 1.963, de 14 de outubro de 1982, que dispõe sobre recursos do Programa Nacional de Política Fundiária, sobre financiamento de projetos de construção de casa para o trabalhador rural e dá outras providências.

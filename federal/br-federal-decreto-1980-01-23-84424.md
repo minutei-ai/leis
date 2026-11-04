@@ -1,5 +1,3 @@
-###DEC-084424-0-000-23-01-1980@@@
-
 DECRETO Nº 84.424, DE 23 DE JANEIRO DE 1980
 
 Altera o Decreto nº 83.023, de 11 de janeiro de 1979.

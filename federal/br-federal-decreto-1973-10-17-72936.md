@@ -1,5 +1,3 @@
-###DEC-072936-0-000-17-10-1973@@@
-
 DECRETO Nº 72.936, DE 17 DE OUTUBRO DE 1973.
 
 Concede reconhecimento aos cursos de Ciências Econômicas, Ciências Contábeis e de Administração, ministrados pela Faculdade de Ciências Econômicas, Contábeis e de Administração, do Centro de Ensino Unificado de Brasília - CEUB, com sede na cidade de Brasília, Distrito Federal.

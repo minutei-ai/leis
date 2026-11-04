@@ -1,5 +1,3 @@
-###DEC-087077-0-000-31-03-1982@@@
-
 Decreto nº 87.077, de 31 de março de 1982
 
 Autoriza o aumento de potência da RÁDIO AMPERE LTDA., na cidade de Ampere, Estado do Paraná.

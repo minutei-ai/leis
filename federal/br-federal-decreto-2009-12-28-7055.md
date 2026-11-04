@@ -1,5 +1,3 @@
-###DEC-007055-0-000-28-12-2009@@@
-
 DECRETO Nº 7.055 DE 28 DE DEZEMBRO DE 2009.
 
 Regulamenta o Fundo Soberano do Brasil - FSB, e dá outras providências.

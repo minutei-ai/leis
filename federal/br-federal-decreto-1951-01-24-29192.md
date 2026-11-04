@@ -1,24 +1,22 @@
-###DEC-029192-0-000-24-01-1951@@@
+**DECRETO Nº 29.192, DE 24 DE JANEIRO DE 1951.**
 
-<strong>DECRETO Nº 29.192, DE 24 DE JANEIRO DE 1951.</strong>
+***Aprova e manda executar o Regimento-Padrão das Coletorias Federais.***
 
-<em><strong>Aprova e manda executar o Regimento-Padrão das Coletorias Federais.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, número I, da Constituição, e nos têrmos do artigo 12 da Lei número 1.293, de 27 de dezembro de 1950, resolve aprovar e mandar executar o Regimento-Padrão das Coletorias Federais, que a êste acompanha, assinado pelo Ministro de Estado dos Negócios da Fazenda.
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, número I, da Constituição, e nos têrmos do artigo 12 da Lei número 1.293, de 27 de dezembro de 1950, resolve aprovar e mandar executar o Regimento-Padrão das Coletorias Federais, que a êste acompanha, assinado pelo Ministro de Estado dos Negócios da Fazenda.
 
 Rio de Janeiro, em 24 de janeiro de 1951; 130º da Independência e 63º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Guilherme da Silveira
 
-<strong>REGIMENTO-PADRÃO DAS COLETORIAS FEDERAIS</strong>
+**REGIMENTO-PADRÃO DAS COLETORIAS FEDERAIS**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 1º As Coletorias Federais (CC.F.), para execução das atividades que lhe são atribuídas, poderão de acôrdo com as exigências do serviço e a sua lotação, desdobrar-se nos órgãos seguintes:
+**Art**. 1º As Coletorias Federais (CC.F.), para execução das atividades que lhe são atribuídas, poderão de acôrdo com as exigências do serviço e a sua lotação, desdobrar-se nos órgãos seguintes:
 
 I - Internos:
 
@@ -54,23 +52,23 @@ d) Turma do Material (T.M.)
 
 § 2º - Quando não houver desdobramento na fôrma do artigo 1º, o Coletor distribuíra as atividades da repartição entre o pessoal de que dispuser.
 
-<strong>Art</strong>. 2º. As CC. F. serão dirigidas pelos respectivos Coletores.
+**Art**. 2º. As CC. F. serão dirigidas pelos respectivos Coletores.
 
-<strong>Art</strong>. 3º. A. S. A. C. E. será chefiada pelo Escrivão.
+**Art**. 3º. A. S. A. C. E. será chefiada pelo Escrivão.
 
-<strong>Art</strong>. 4º. A. S. A. P. Ju, será chefiada pelo Auxiliar de Coletoria designado pelo Corretor.
+**Art**. 4º. A. S. A. P. Ju, será chefiada pelo Auxiliar de Coletoria designado pelo Corretor.
 
-<strong>Art</strong>. 5º A Tesouraria será chefiada pelo Tesoureiro.
+**Art**. 5º A Tesouraria será chefiada pelo Tesoureiro.
 
-<strong>Art</strong>. 6º As AA. A. funcionarão sob a responsabilidade de um Auxiliar de Coletoria, designado pelo Coletor.
+**Art**. 6º As AA. A. funcionarão sob a responsabilidade de um Auxiliar de Coletoria, designado pelo Coletor.
 
-<strong>Art</strong>. 7º Os órgãos integrantes da C. F. funcionarão perfeitamente coordenados, em regime de mútua colaboração, sob a orientação do Coletor.
+**Art**. 7º Os órgãos integrantes da C. F. funcionarão perfeitamente coordenados, em regime de mútua colaboração, sob a orientação do Coletor.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>Art</strong>. 8º A .S. C. E., pelas suas Turmas, terá as atribuições seguintes:
+**Art**. 8º A .S. C. E., pelas suas Turmas, terá as atribuições seguintes:
 
 a) Compete à T.C.:
 
@@ -86,7 +84,7 @@ V - orientar os contribuintes relativamente ao pagamento de tributos, situação
 
 VI - preparar infôrmações destinadas às autoridades judiciárias e administrativas, relativamente à situação fiscal dos contribuintes; e
 
-VII - passar certidões de interêsse dos contribuintes, da Justiça e da Administração, a pedido e ‘’<em>ex-officio’’</em>.
+VII - passar certidões de interêsse dos contribuintes, da Justiça e da Administração, a pedido e ‘’*ex-officio’’*.
 
 b) Compete à T. A. D.:
 
@@ -132,7 +130,7 @@ X - preparar o expediente para despesas miúdas de pronto pagamento; e
 
 XI - preparar processos relativos a cotas-partes de multas, restituições de tributos e levantamento de depósitos, necessários têrmos, bem como outros relativos ao movimento financeiro e patrimonial da C. F.
 
-<strong>Art</strong>. 9º A S. A. P. Ju., pelas suas Turmas, terá as atribuições seguintes:
+**Art**. 9º A S. A. P. Ju., pelas suas Turmas, terá as atribuições seguintes:
 
 a) Compete à T. C.:
 
@@ -146,13 +144,13 @@ IV - promover publicação de atos e decisões relativos às atividades da C. F.
 
 V - prestar infôrmações relativas ao andamento e despacho de papéis;
 
-VI - manter completas as coleções do <em>Diário Oficial</em> e de publicações que tenham relação com as atividades da C.F.;
+VI - manter completas as coleções do *Diário Oficial* e de publicações que tenham relação com as atividades da C.F.;
 
 VII - catalogar os livros e publicações pertencentes à repartição;
 
 VIII - arquivar os papéis solucionados, bem assim como os livros findos;
 
-IX - providenciar a encadernação de livros, documentos de receita e despesa, balancetes, fichas, exemplares do <em>Diário Oficial</em>, relatórios, portarias e minutas em geral;
+IX - providenciar a encadernação de livros, documentos de receita e despesa, balancetes, fichas, exemplares do *Diário Oficial*, relatórios, portarias e minutas em geral;
 
 X - manter na devida ordem o arquivo da C.F.; e
 
@@ -184,13 +182,13 @@ I - preparar as requisições do material necessário à C. F. e dar-lhe destino
 
 II - receber e distribuir material, escriturado o seu movimento.
 
-<strong>Art</strong>. 10. À T., como órgão centralizador dos recebimentos, pagamentos e guarda de valores, compete:
+**Art**. 10. À T., como órgão centralizador dos recebimentos, pagamentos e guarda de valores, compete:
 
 I - receber, à bôca do cofre, a receita da C.F.;
 
 II - fazer pagamentos autorizados pela D. F., com o ‘’cumpra-se’’ do Coletor.
 
-<strong>Art</strong>. 11. Às AA.. A. compete:
+**Art**. 11. Às AA.. A. compete:
 
 I - receber, à bôca do cofre, a receita que tenha de ser arrecadada por seu intermédio;
 
@@ -208,11 +206,11 @@ VII - requisitar à C.F. os suprimentos de sêlos necessários ao seu serviço; 
 
 VIII - remeter à C. F., até 5 de janeiro de cada ano, relação do material de consumo que lhe fôr preciso aos serviços do exercício seguinte.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DAS ATRIBUIÇÕES DOS FUNCIONÁRIOS E EXTRANUMERÁRIOS</em>
+*DAS ATRIBUIÇÕES DOS FUNCIONÁRIOS E EXTRANUMERÁRIOS*
 
-<strong>Art</strong>. 12. Ao Coletor da C. F. incumbe:
+**Art**. 12. Ao Coletor da C. F. incumbe:
 
 I - dirigir e fiscalizar os trabalhos ao cargo da C.F.;
 
@@ -268,7 +266,7 @@ XXVI - exercer quaisquer outras atribuições que lhe competirem por êste Regim
 
 Parágrafo único. - Nas CC. F. não providas de Tesouraria serão, também, da competência do Coletor as atribuições previstas no artigo 14, no que couber.
 
-<strong>Art</strong>. 13. Ao Escrivão incumbe:
+**Art**. 13. Ao Escrivão incumbe:
 
 I - orientar e fiscalizar a execução das atividades da S. A .C. E.;
 
@@ -290,7 +288,7 @@ II - verificar, antes de escriturar, se os documentos de despesa estão revestid
 
 III - dar ao Coletor conhecimento de qualquer omissão ou irregularidade observada na execução dos trabalhos;
 
-<strong>Art</strong>. 14. Ao Tesoureiro incumbe:
+**Art**. 14. Ao Tesoureiro incumbe:
 
 I - orientar e fiscalizar a execução dos serviços de recebimento e pagamento ao cargo da C. F., tendo sob sua guarda e responsabilidade os valores depositados na T.;
 
@@ -318,7 +316,7 @@ XII - assistir a balanços nos cofres da T., assinado os respectivos têrmos, po
 
 XIII - distribuir funções ao Tesoureiro-Auxiliares promovendo o contrôle dos recebimentos e pagamentos a cargo de cada um.
 
-<strong>Art</strong>. 15. Aos Tesoureiros-Auxiliares incumbe:
+**Art**. 15. Aos Tesoureiros-Auxiliares incumbe:
 
 I - efetuar o recebimento da receita da C. F. assinado os recibos competentes;
 
@@ -328,29 +326,29 @@ III - prestar, diáriamente, suas contas ao Tesoureiro, dos recebimentos e pagam
 
 IV - desempenhar as funções do seu cargo de acôrdo com as ordens emanadas do Tesoureiro;
 
-<strong>Art</strong>. 16. Ao Chefe da S. A. P. In. Incumbe:
+**Art**. 16. Ao Chefe da S. A. P. In. Incumbe:
 
 I - orientar e fiscalizar a execução das atribuições da Seção; e
 
 II - providenciar a revisão periódica dos processos em preparação, para rigorosa guarda de prazos regulamentares e o rápido andamento;
 
-<strong>Art</strong>. 17. Ao encarregado de A.A. e demais Auxiliares nelas dotados incumbe, no que couber, as atividades discriminadas nos arts. 12 e 13.
+**Art**. 17. Ao encarregado de A.A. e demais Auxiliares nelas dotados incumbe, no que couber, as atividades discriminadas nos arts. 12 e 13.
 
-<strong>Art</strong>. 18. Aos servidores que não tenham atribuições especificadas neste regimento, incumbirá as que lhes fôrem conferidas pelos superiores a que se estiverem diretamente subordinados.
+**Art**. 18. Aos servidores que não tenham atribuições especificadas neste regimento, incumbirá as que lhes fôrem conferidas pelos superiores a que se estiverem diretamente subordinados.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 19. Na falta ou impedimento do Coletor. o Escrivão responderá pelo expediente da C. F.
+**Art**. 19. Na falta ou impedimento do Coletor. o Escrivão responderá pelo expediente da C. F.
 
-<strong>Art</strong>. 20. O Escrivão será substituído, na sua falta ou impedimento, pelo Auxiliar de Coletoria designado pelo Coletor ou por quem o estiver substituindo.
+**Art**. 20. O Escrivão será substituído, na sua falta ou impedimento, pelo Auxiliar de Coletoria designado pelo Coletor ou por quem o estiver substituindo.
 
 Parágrafo I - Não havendo Auxiliar de Coletoria, o Coletor ou o Escrivão, na falta ou impedimento de um deles, acumulará ambas as funções.
 
 Parágrafo II. - Se a necessidade do serviço exigir, o Delegado Fiscal designará um Auxiliar de Coletoria de outra C. F., para substituir o Escrivão na de que trata o parágrafo anterior.
 
-<strong>Art</strong>. 21. Na falta ou impedimento simultâneo do Coletor e do Escrivão, dar-se-á a substituição:
+**Art**. 21. Na falta ou impedimento simultâneo do Coletor e do Escrivão, dar-se-á a substituição:
 
 I - Em C. F. lotada de mais de um Auxiliar de Coletoria:
 
@@ -364,15 +362,15 @@ III - Não havendo Auxiliar de Coletoria lotado na C. F. para responder pelo exp
 
 IV - Em caso excepcional, poderá ser designado em substituição ao Coletor, um Escrivão de C. F. próxima.
 
-<strong>Art</strong>. 22. Os encarregados das AA. A. serão substituídos por outro Auxiliar de Coletoria da própria C. F. não convindo o seu afastamento, o Delegado Fiscal designará um Auxiliar de C. F. próxima, para a substituição de que trata êste artigo.
+**Art**. 22. Os encarregados das AA. A. serão substituídos por outro Auxiliar de Coletoria da própria C. F. não convindo o seu afastamento, o Delegado Fiscal designará um Auxiliar de C. F. próxima, para a substituição de que trata êste artigo.
 
-<strong>Art</strong>. 23. As designações para substituições serão comunicadas à D. I., ao S. P.e à D. F.
+**Art**. 23. As designações para substituições serão comunicadas à D. I., ao S. P.e à D. F.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 24. O horário de trabalho normal da CC. F. será estabelecido de acôrdo com as seguintes fôrmas:
+**Art**. 24. O horário de trabalho normal da CC. F. será estabelecido de acôrdo com as seguintes fôrmas:
 
 a) deverá ser rigorosamente observado o regime de trinta e três (33) horas semanais de trabalho;
 
@@ -384,19 +382,19 @@ d) com a devida justificação deverá ser submetido às Delegacias Fiscais o ho
 
 e) para conhecimento do público, deverá o horário ser afixado em lugar bem visível da repartição e, quando possível pela impressa local.
 
-<strong>Art</strong>. 25. Não fica sujeito a ponto o Coletor, devendo, porém, encerrá-lo diáriamente.
+**Art**. 25. Não fica sujeito a ponto o Coletor, devendo, porém, encerrá-lo diáriamente.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 26. Nas CC. F. desdobradas total ou parcialmente, de acôrdo com o art. 1.º, os chefes dos órgãos aplicarão penalidades aos seus subordinados, na fôrma do E. F.
+**Art**. 26. Nas CC. F. desdobradas total ou parcialmente, de acôrdo com o art. 1.º, os chefes dos órgãos aplicarão penalidades aos seus subordinados, na fôrma do E. F.
 
-<strong>Art</strong>. 27. Os Auxiliares da Coletoria só poderão Ter exercício em C. F. em C. F. e suas AA. A.
+**Art**. 27. Os Auxiliares da Coletoria só poderão Ter exercício em C. F. em C. F. e suas AA. A.
 
-<strong>Art</strong>. 28. As CC. F. unificadas terão os seus trabalhos divididos pelas Seções e Turmas previstas neste Regimento.
+**Art**. 28. As CC. F. unificadas terão os seus trabalhos divididos pelas Seções e Turmas previstas neste Regimento.
 
-<strong>Art</strong>. 29. Nas CC. F. de Belo Horizonte e Curitiba a S. A. C. E. e a S. A .P. Ju. serão chefiadas por Coletor, assistidos por Escrivão, e na C. F. de Goiânia essas Seções serão chefiadas por Coletor Escrivão, respectivamente.
+**Art**. 29. Nas CC. F. de Belo Horizonte e Curitiba a S. A. C. E. e a S. A .P. Ju. serão chefiadas por Coletor, assistidos por Escrivão, e na C. F. de Goiânia essas Seções serão chefiadas por Coletor Escrivão, respectivamente.
 
 Parágrafo 1º - O Escrivão de classe mais elevada ou, em igualdade de condições, o mais, antigo na carreira, exercerá as funções estabelecidas para Escrivão, neste Regimento.
 
@@ -404,8 +402,8 @@ Parágrafo 2º - As substituições dar-se-ão na ordem determinada no parágraf
 
 Parágrafo 3º - À proporção que fôrem vagando os cargos excedentes, as CC. F. de que trata êste artigo irão adotando o regime comum estabelecido para as demais.
 
-<strong>Art</strong>. 30. O Regimento da Recebedoria do Distrito Federal é subsidiário dêste, e por êle se solucionarão tôdas as dúvidas.
+**Art**. 30. O Regimento da Recebedoria do Distrito Federal é subsidiário dêste, e por êle se solucionarão tôdas as dúvidas.
 
 Rio de Janeiro, 24 de janeiro de 1951.
 
-<strong>GUILHERME DA SILVEIRA</strong>
+**GUILHERME DA SILVEIRA**

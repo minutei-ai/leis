@@ -1,5 +1,3 @@
-###DEC-072435-0-000-09-07-1973@@@
-
 DECRETO Nº 72.435, DE 9 DE JULHO DE 1973.
 
 Concede à Companhia de Cimento Salvador o direito de lavrar calcário conchilífero no Município de São Francisco do Conde, Estado da Bahia.

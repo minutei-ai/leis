@@ -1,5 +1,3 @@
-###DEC-051326-0-000-02-09-1961@@@
-
 DECRETO Nº 51.326, DE 2 DE SETEMBRO DE 1961.
 
 Concede à Mineração da Amazônia, Comércio e Indústria S.A. autorização para funcionar como emprêsa de mineração.

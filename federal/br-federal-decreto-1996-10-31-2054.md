@@ -1,7 +1,3 @@
-1
-
-###DEC-002054-0-000-31-10-1996@@@
-
 DECRETO Nº 2.054, DE 31 DE OUTUBRO DE 1996.
 
 Prorroga o prazo do remanejamento dos cargos que menciona.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212321)<br>
-
 # DECRETO N° 70.447, DE 10 DE MARÇO DE 2026
 
 ### _Regulamenta a Lei n° 18.154, de 5 de junho de 2025, que dispõe sobre a inspeção, fiscalização e auditoria sanitária e industrial de produtos de origem vegetal e seus derivados, e de produtos da algicultura e da fungicultura, produzidos no Estado de São Paulo._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposições Preliminares
 
 **Artigo 1° -** Este decreto regulamenta a [Lei n° 18.154, de 5 de junho de 2025](https://www.al.sp.gov.br/norma/211015), no que tange à inspeção, fiscalização e auditoria sanitária e industrial dos produtos de origem vegetal, seus derivados, subprodutos e resíduos de valor econômico, bem como dos produtos da algicultura e da fungicultura.
@@ -27,7 +26,8 @@ II - proprietárias, locatárias ou arrendatárias de estabelecimentos, com ou s
 
 **Parágrafo único -** A responsabilidade das pessoas jurídicas não exclui a dos seus empregados ou prepostos.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Das condições gerais para funcionamento e das obrigações dos estabelecimentos
 
 **Artigo 3° -** Não será autorizado o funcionamento de estabelecimento que produza matéria-prima ou que manipule, beneficie, transforme, industrialize, acondicione, embale, transporte, ou comercialize produtos de origem vegetal e seus derivados, subprodutos e resíduos de valor econômico, ou produtos da algicultura e da fungicultura, que não esteja instalado e equipado para a finalidade a que se destina.
@@ -44,10 +44,12 @@ II - desenvolver e executar programas de autocontrole, com registros sistematiza
 
 **Parágrafo único -** O cumprimento do disposto no inciso II deste artigo é facultativo para os agentes de produção primária agropecuária e da agricultura familiar, os quais poderão aderir a programas de autocontrole por meio de protocolo privado de produção.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da inspeção, auditoria e fiscalização
 
-#### SUBSEÇÃO I<br>
+#### SUBSEÇÃO I
+
 Das competências do SISP/POV
 
 **Artigo 5° -** São atribuições do SISP/POV, nos termos do artigo 1° deste decreto, organizar e coordenar a inspeção, a fiscalização e a auditoria sanitária e industrial, bem como executar as ações necessárias à regulamentação do beneficiamento, da industrialização, do processamento e da comercialização dos produtos de que trata a [Lei n° 18.154, de 5 de junho de 2025](https://www.al.sp.gov.br/norma/211015), especialmente:
@@ -76,7 +78,8 @@ I - divulgar assuntos próprios de fiscalização para pessoas estranhas ao serv
 
 II - exercer atividades no interesse de pessoas físicas ou jurídicas que sejam objeto de fiscalização.
 
-#### SUBSEÇÃO II<br>
+#### SUBSEÇÃO II
+
 Das parcerias, do credenciamento e da habilitação
 
 **Artigo 7° -** O Estado de São Paulo, por meio da Secretaria de Agricultura e Abastecimento, poderá celebrar parcerias com a finalidade de aperfeiçoar e incrementar as atividades de inspeção no âmbito do Serviço de Inspeção do Estado - SISP/POV, para assegurar a inocuidade, a identidade, o controle de qualidade, proteger a saúde pública e promover a competitividade do produto.
@@ -97,7 +100,8 @@ b) habilitação de pessoas físicas, observada a competência profissional e co
 
 **§ 2° -** As pessoas jurídicas já credenciadas e pessoas físicas já habilitadas pelo Ministério da Agricultura e Pecuária - MAPA ficam dispensadas do credenciamento ou habilitação pela Secretaria de Agricultura e Abastecimento.
 
-#### SUBSEÇÃO III<br>
+#### SUBSEÇÃO III
+
 Das ações
 
 **Artigo 9° -** A inspeção, fiscalização e auditoria sanitária e industrial dos estabelecimentos de que trata este decreto terão como objeto:
@@ -140,7 +144,8 @@ f) do programa de autocontrole adotado pelo estabelecimento, mantido e executado
 
 **Parágrafo único -** Quando houver risco sanitário iminente, não se aplica a dupla-fiscalização de que trata o "caput" deste artigo.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Do Registro e dos selos de inspeção
 
 **Artigo 11 -** Os estabelecimentos que produzam matéria-prima, manipulem, beneficiem, transformem, industrializem, preparem, acondicionem, embalem, transportem ou que realizem o comércio intermunicipal dos produtos de que trata a [Lei n° 18.154, de 5 de junho de 2025](https://www.al.sp.gov.br/norma/211015), deverão solicitar seu registro junto ao SISP/POV, observadas as competências previstas na legislação aplicável.
@@ -183,10 +188,12 @@ II - mudança de endereço.
 
 **§ 2° -** Os formatos, dimensões, modelos e empregos do selo de inspeção do SISP/POV serão definidos em normas complementares editadas pela Secretaria de Agricultura e Abastecimento.
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 Das Sanções Administrativas
 
-#### SUBSEÇÃO I<br>
+#### SUBSEÇÃO I
+
 Disposições Gerais
 
 **Artigo 19 -** Para aplicação das sanções administrativas previstas na Seção III do Capítulo IV da [Lei n° 18.154, de 5 de junho de 2025](https://www.al.sp.gov.br/norma/211015), aplicam-se os dispositivos desta seção e os da [Lei n° 10.177, de 30 de dezembro de 1998](https://www.al.sp.gov.br/norma/7505), no que couber, observadas as garantias do contraditório e da ampla defesa.
@@ -247,7 +254,8 @@ X - com o prazo de validade expirado.
 
 6 - apresentados sem atenderem às especificações referentes à natureza ou à origem indicadas na rotulagem.
 
-#### SUBSEÇÃO II<br>
+#### SUBSEÇÃO II
+
 Da Advertência, da Suspensão das Atividades e da Multa
 
 **Artigo 23 -** A aplicação da sanção de advertência de que trata o artigo 14 da [Lei n° 18.154, de 5 de junho de 2025](https://www.al.sp.gov.br/norma/211015), não isenta o infrator de observar as orientações de caráter reparador, preventivo, ou pedagógico, veiculadas em termo próprio pela autoridade competente.
@@ -260,7 +268,8 @@ Da Advertência, da Suspensão das Atividades e da Multa
 
 **§ 2° -** No caso de agricultor familiar e de empreendimento familiar rural, nos termos definidos pela Lei federal n° 11.326, de 24 de julho de 2006, será aplicada a gradação das multas do Microempreendedor Individual (MEI), nos termos do Anexo Único deste decreto.
 
-#### SEÇÃO VI<br>
+#### SEÇÃO VI
+
 Das Medidas Cautelares
 
 **Artigo 26 -** A Secretaria de Agricultura e Abastecimento, por meio do SISP/POV, ante a evidência de que uma atividade ou produto represente risco à defesa agropecuária ou à saúde pública, poderá aplicar, com fundamento no artigo 62 da [Lei n° 10.177, de 30 de dezembro de 1998](https://www.al.sp.gov.br/norma/7505), as seguintes medidas cautelares, isolada ou cumulativamente:
@@ -275,7 +284,8 @@ III - suspensão temporária de atividade, de etapa ou de processo de fabricaç�
 
 **§ 2° -** A medida cautelar deverá ter seus efeitos cessados quando for comprovada a resolução da irregularidade que deu causa à sua aplicação.
 
-#### SEÇÃO VII<br>
+#### SEÇÃO VII
+
 Disposições Finais
 
 **Artigo 27 -** Para fins de adesão do Estado de São Paulo, por intermédio da Diretoria de Defesa Agropecuária, ao Sistema de Inspeção de Produtos de Origem Vegetal - SISBI-POV, integrante do Sistema Unificado de Atenção à Sanidade Agropecuária - SUASA, será observado o disposto na legislação federal aplicável aos produtos de origem vegetal, em especial o Decreto n° 12.709, de 31 de outubro de 2025, bem como as portarias e instruções normativas expedidas pelo Ministério da Agricultura e Pecuária - MAPA, no que couber.
@@ -296,4 +306,4 @@ Eleuses Vieira de Paiva
 
 #### ANEXO ÚNICO
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" colspan="5">TABELA POR NATUREZA DA INFRAÇÃO E PORTE ECONÔMICO</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" colspan="5">FATOR *</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" rowspan="2">NATUREZA DA INFRAÇÃO</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" colspan="4">PORTE ECONÔMICO</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Microempreendedor Individual - MEI</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Microempresa - ME</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Empresa de Pequeno Porte - EPP</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">DEMAIS</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">LEVE</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">50</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">200</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">500</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1000</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">MODERADA</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">100</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">400</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1000</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2000</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">GRAVE</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">300</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">800</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2000</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">4000</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">GRAVÍSSIMA</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">500</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">1000</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">2500</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">5000</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">&nbsp;</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;" colspan="4">* Valores em UFESP</td></tr></tbody></table>
+<table><tbody><tr><td colspan="5">TABELA POR NATUREZA DA INFRAÇÃO E PORTE ECONÔMICO</td></tr><tr><td colspan="5">FATOR *</td></tr><tr><td rowspan="2">NATUREZA DA INFRAÇÃO</td><td colspan="4">PORTE ECONÔMICO</td></tr><tr><td>Microempreendedor Individual - MEI</td><td>Microempresa - ME</td><td>Empresa de Pequeno Porte - EPP</td><td>DEMAIS</td></tr><tr><td>LEVE</td><td>50</td><td>200</td><td>500</td><td>1000</td></tr><tr><td>MODERADA</td><td>100</td><td>400</td><td>1000</td><td>2000</td></tr><tr><td>GRAVE</td><td>300</td><td>800</td><td>2000</td><td>4000</td></tr><tr><td>GRAVÍSSIMA</td><td>500</td><td>1000</td><td>2500</td><td>5000</td></tr><tr><td>&nbsp;</td><td colspan="4">* Valores em UFESP</td></tr></tbody></table>

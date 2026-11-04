@@ -4,7 +4,8 @@ Dispõe sobre a inatividade dos policiais-militares do Estado e dá outras provi
 
 O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-TITULO I -<br>
+TITULO I -
+
 DISPOSIÇÕES GERAIS
 
 Art. 1º - A presente Lei define e regula a situação da inatividade dos policiais militares do Estado.
@@ -31,10 +32,12 @@ II - para as praças, por portaria do Comandante Geral, exceto no caso do item I
 
 Art. 5º - Para fins desta Lei o aspirante a oficial, os sub-tenentes e primeiros-sargentos que tenham concluído o Curso de Formação de Oficiais de Administração ficam equiparados a 2º Tenente.
 
-TÍTULO II -<br>
+TÍTULO II -
+
 DA SITUAÇÃO DE INATIVIDADE
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DA TRANSFERÊNCIA PARA A RESERVA
 
 Art. 6º - O policial militar passa para a reserva remunerada:
@@ -193,7 +196,8 @@ V - quando reabilitado, nos termos da Lei do Serviço Militar no caso de expuls�
 
 Art. 22 - Enquanto não for concedida a transferência para a reserva o policial militar permanecerá no exercício de suas funções.
 
-CAPITULO II -<br>
+CAPITULO II -
+
 DA REFORMA
 
 Art. 23 - A reforma na Polícia Militar só se verifica "ex-officio" e nestes casos:
@@ -258,7 +262,8 @@ a) o de 2º Tenente, para subtenente, 1º, 2º e 3º Sargento, bem assim para o 
 
 b) a de 3º Sargento para as demais praças.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DO LICENCIAMENTO EXCLUSÃO E EXPULSÃO
 
 Art. 29 - Licenciamento do serviço ativo dar-se-á a pedido e " ex-officio".
@@ -287,7 +292,8 @@ IV - quando com menos de cinco (5) anos de serviço, o subtenente ou sargento te
 
 Art. 33 - A exclusão e expulsão de praças obedecerão ao previsto no Regulamento Disciplinar.
 
-CAPITULO IV -<br>
+CAPITULO IV -
+
 DA DEMISSÃO
 
 Art. 34 - A demissão do serviço policial militar poderá ser efetivada "a pedido" ou ex-officio".
@@ -318,7 +324,8 @@ VI - quando investido em cargo público de acumulação não permitida.
 
 Art. 37 - Nos casos de demissão com perda da patente os dependentes do oficial terão a necessária assistência do Estado, através das entidades de previdência e beneficência reconhecidas de utilidade pública para as quais tenha o oficial contribuído regularmente, a qual terá a forma de pensão, como as garantidas por falecimento e estabelecidas em estatutos.
 
-TÍTULO III -<br>
+TÍTULO III -
+
 DO CÔMPUTO DE TEMPO DE SERVIÇO
 
 Art. 38 - O cômputo de tempo de serviço para fins de inatividade obedece às regras estabelecidas na legislação militar do país nos termos da [Lei estadual 2.429, de 17 de fevereiro de 1967](https://www.legislabahia.ba.gov.br/documentos/lei-no-2429-de-17-de-fevereiro-de-1967#LO_2_429) , e será feito "ex-officio".
@@ -355,7 +362,8 @@ III - passada como desertor, desde que seja condenado pelo crime imputado;
 
 IV - passado em estudos de aperfeiçoamento técnico por conta própria.
 
-TÍTULO IV -<br>
+TÍTULO IV -
+
 DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 Art. 44 - Os Subtenentes quando transferidos para a reserva ou reformados, terão os proventos calculados sobre o soldo correspondente ao posto de 2º tenente, desde que contem mais de trinta anos de serviço.

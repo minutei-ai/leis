@@ -1,5 +1,3 @@
-###DEC-072491-0-000-18-07-1973@@@
-
 DECRETO Nº 72.491, DE 18 DE JULHO DE 1973.
 
 Concede reconhecimento aos cursos de Pedagogia, Letras e Ciências, da Faculdade de Ciências e Letras de Votuporanga, mantida pela Fundação Educacional de Votuporanga, com sede na cidade de Votuporanga, Estado de São Paulo.

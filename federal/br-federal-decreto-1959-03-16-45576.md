@@ -1,5 +1,3 @@
-###DEC-045576-0-000-16-03-1959@@@
-
 DECRETO Nº 45.576, DE 16 DE março DE 1959.
 
 Introduz modificações no processamento do Exame Vestibular do Instituto Rio-Branco do Ministério das Relações Exteriores.

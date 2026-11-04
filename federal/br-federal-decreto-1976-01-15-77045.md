@@ -1,5 +1,3 @@
-###DEC-077045-0-000-15-01-1976@@@
-
 decreto nº 77.045, de 15 de janeiro de 1976.
 
 Concede reconhecimento aos cursos de Medicina Veterinária e Zootecnia da Faculdade de Medicina Veterinária e Agronomia de Jaboticabal "Prof. Antonio Ruete", com sede na cidade de Jaboticabal, Estado de São Paulo.

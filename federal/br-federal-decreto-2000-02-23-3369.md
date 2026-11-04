@@ -1,5 +1,3 @@
-###DEC-003369-0-000-23-02-2000@@@
-
 Decreto nº 3.369, de 23 de fevereiro de 2000.
 
 Dispõe sobre a conversão para a versão modificada da Nomenclatura da ALADI, baseada no Sistema Harmonizado de Designação e Codificação de Mercadorias (NALADI/SH 96) do Acordo nº 6, subscrito ao amparo do Artigo 14 do Tratado de Montevidéu, de 1980, de Cooperação e Intercâmbio de Bens Utilizados na Defesa e Proteção do Meio Ambiente, entre os Governos da República Federativa do Brasil, da República Argentina e da República Oriental do Uruguai, de 27 de junho de 1992.

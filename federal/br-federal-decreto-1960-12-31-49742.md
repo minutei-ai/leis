@@ -1,5 +1,3 @@
-###DEC-049742-0-000-31-12-1960@@@
-
 DECRETO Nº 49.742, DE 31 DE DEZEMBRO DE 1960.
 
 Revoga os Decretos números 36.873, de 4 de fevereiro de 1955; 39.474, de 27 de junho de 1956; 47.679, de 20 de janeiro de 1960 e outorga à Prefeitura Municipal de Madre de Deus de Minas, Estado de Minas Gerais, concessão para o aproveitamento progressivo de energia hidráulica da cachoeira da Figueira, existente no curso d’água Capivari, distrito de Madre de Deus de Minas, município de igual nome, Estado de Minas Gerais.

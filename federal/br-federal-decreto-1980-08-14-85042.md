@@ -1,5 +1,3 @@
-###DEC-085042-0-000-14-08-1980@@@
-
 Decreto nº 85.042, de 14 de agosto de 1980.
 
 Transfere para FURNAS - Centrais Elétricas S.A. os direitos concedidos à LIGHT - Serviços de Eletricidade S.A. por força do Decreto nº 79.441, de 29 de março de 1977.

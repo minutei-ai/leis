@@ -1,5 +1,3 @@
-###DEC-005880-0-000-29-08-2006@@@
-
 DECRETO Nº 5.880, DE 29 DE AGOSTO DE 2006.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1.689, de 20 de junho de 2006, do Conselho de Segurança das Nações Unidas, que, entre outras providências, renova, por seis meses, o embargo à importação de diamantes em estado bruto procedentes da Libéria.
@@ -20,11 +18,7 @@ Brasília, 29 de agosto de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-       Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 30.8.2006.
-
-“O Conselho de Segurança,
+       Celso Luiz Nunes Amorim“O Conselho de Segurança,
 
 Recordando suas resoluções e as declarações anteriores de seu Presidente sobre a situação na Libéria e na África Ocidental;
 

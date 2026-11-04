@@ -65,7 +65,3 @@ Walfrido Silvino dos Mares Guia Neto
 João Heraldo Lima
 
 Arésio A. de Almeida Dâmaso e Silva
-
-\====================
-
-Data da última atualização: 7/12/2007.

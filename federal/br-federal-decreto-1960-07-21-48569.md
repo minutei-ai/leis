@@ -1,5 +1,3 @@
-###DEC-048569-0-000-21-07-1960@@@
-
 DECRETO Nº 48.569, DE 21 DE JUlho DE 1960.
 
 Autoriza o cidadão brasileiro Octávio Coan a pesquisar carvão mineral no município de Jaguaruna, Estado de Santa Catarina.

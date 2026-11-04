@@ -1,5 +1,3 @@
-###DEC-058686-0-000-22-06-1966@@@
-
 DECRETO Nº 58.686, DE 22 DE JUNHO DE 1966.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de Mogi das Cruzes.

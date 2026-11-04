@@ -1,5 +1,3 @@
-###DEC-045045-0-000-11-12-1958@@@
-
 DECRETO Nº 45.045, DE 11 DE DEZEMBRO DE 1958.
 
 Outorga à Companhia Industrial da Estância S. A. concessão para distribuir energia elétrica em vários municípios do Estado de Sergipe.

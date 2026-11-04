@@ -1,7 +1,3 @@
-1
-
-###MPV-001512-0-000-30-07-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.512, DE 30 DE JULHO DE 1996.
 
 Dá nova redação ao art. 2º da Lei nº 9.138, de 29 de novembro de 1995, que dispõe sobre o crédito rural.

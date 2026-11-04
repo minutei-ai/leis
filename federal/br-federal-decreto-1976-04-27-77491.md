@@ -1,5 +1,3 @@
-###DEC-077491-0-000-27-04-1976@@@
-
 DECRETO N° 77.491 - DE 27 DE ABRIL DE 1976
 
 Concede autorização à Companhia Fiação e Tecelagem Industrial Mineira, com sede na Cidade do Rio de Janeiro, Estado do Rio de Janeiro, para funcionar aos domingos e nos dias feriados civil e religiosos, no estabelecimento fabril que menciona.

@@ -1,5 +1,3 @@
-###DEC-007085-0-000-29-01-2010@@@
-
 DECRETO Nº 7.085, DE 29 DE JANEIRO DE 2010.
 
 Institui a Medalha Mérito Operacional Brigadeiro Nero Moura e dá outras providências.

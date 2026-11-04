@@ -1,5 +1,3 @@
-###DEC-051137-0-000-04-08-1961@@@
-
 DECRETO Nº 51.137, DE 4 DE AGÔSTO DE 1961.
 
 Concede nacionalização à sociedade anônima Shell Brazil Limited, sob a denominação de Shell Brasil S. A (Petróleo).

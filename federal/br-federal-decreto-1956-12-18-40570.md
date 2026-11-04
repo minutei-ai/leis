@@ -1,14 +1,12 @@
-###DEC-040570-0-000-18-12-1956@@@
+**DECRETO Nº 40.570, DE 18 DE DEZEMBRO DE 1956.**
 
-<strong>DECRETO Nº 40.570, DE 18 DE DEZEMBRO DE 1956.</strong>
+***Declara de utilidade publica, e autoriza a desapropriação de imóveis, necessário ao serviço do Exército Nacional.***
 
-<em><strong>Declara de utilidade publica, e autoriza a desapropriação de imóveis, necessário ao serviço do Exército Nacional.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, tendo em vista o § 16 do art.141 da Constituição Federal e usando das atribuições que lhe confere o item1 do artigo 87, da mesma Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, tendo em vista o § 16 do art.141 da Constituição Federal e usando das atribuições que lhe confere o item1 do artigo 87, da mesma Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º São declarados de utilidade pública, para fins de desapropriação, de acordo com o art. 6º, combinado com as letras <em>a</em> e <em>b</em> do art. 5º, tudo do Decreto-lei nº 3.365, de 21 de julho de 1941 os terrenos situados no Estado de Santa Catarina e assim discriminados:
+**Art**. 1º São declarados de utilidade pública, para fins de desapropriação, de acordo com o art. 6º, combinado com as letras *a* e *b* do art. 5º, tudo do Decreto-lei nº 3.365, de 21 de julho de 1941 os terrenos situados no Estado de Santa Catarina e assim discriminados:
 
 I - Gleba A:
 
@@ -194,14 +192,14 @@ II - Gleba B:
 
 III - Tudo de acôrdo com a documentação constante do processo protocolado do Ministério da Guerra sob o nº 29.377-56 - Gab. M.G.
 
-<strong>Art</strong>. 2º O imóvel em aprêço se destina a instalação do campo de instrução de Marechal Hermes.
+**Art**. 2º O imóvel em aprêço se destina a instalação do campo de instrução de Marechal Hermes.
 
-<strong>Art</strong>. 3º Fica o Ministério da Guerra autorizado a promover a desapropriação em causa, correndo as respectivas despesas à conta dos recursos orçamentários para o exercício de 1956.
+**Art**. 3º Fica o Ministério da Guerra autorizado a promover a desapropriação em causa, correndo as respectivas despesas à conta dos recursos orçamentários para o exercício de 1956.
 
-<strong>Art</strong>. 4º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 4º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 18 de dezembro de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

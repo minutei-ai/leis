@@ -1,5 +1,3 @@
-###DEC-064357-0-000-16-04-1969@@@
-
 Decreto Nº 64.357, DE 16 DE ABRIL DE 1969
 
 Declara de utilidade pública a Associação Educativa Santa Olga, com sede em Prudentópolis, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-007291-0-000-01-09-2010-PUB-01@@@
-
 DECRETO Nº 7.291, DE 1º DE SETEMBRO DE 2010.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1.903, de 17 de dezembro de 2009, do Conselho de Segurança das Nações Unidas, que renova e modifica o regime de sanções contra a Libéria.

@@ -1,5 +1,3 @@
-###DEC-057008-0-000-11-10-1965@@@
-
 decreto nº 57.008, de 11 de outubro de 1965.
 
 Autoriza o Ministério da Fazenda a proceder à baixa das responsabilidades apuradas na vigência do Decreto nº 1.781, de 3.12.1962.

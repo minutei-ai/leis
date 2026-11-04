@@ -1,5 +1,3 @@
-###DEL-002286-0-000-23-07-1986@@@
-
 # DECRETO-LEI Nº 2.286, DE 23 DE JULHO DE 1986
 
 Dispõe sobre cobrança de imposto nas operações a termo de bolsas de mercadorias e dá outras providências.
@@ -31,8 +29,6 @@ JOSÉ SARNEY
 Dilson Domingos Funaro
 
 João Sayad
-
-###DEL-002286-0-000-23-07-1986@@@REP01+++
 
 # (\*)DECRETO-LEI Nº 2.286, DE 23 DE JULHO DE 1986
 

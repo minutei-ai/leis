@@ -1,5 +1,3 @@
-###DEC-071107-0-000-14-09-1972@@@
-
 DECRETO Nº 71.107, DE 14 DE SETEMBRO DE 1972.
 
 Declara reserva indígena área situada no município de Tocantínia, Estado de Goiás, e dá outras providências.

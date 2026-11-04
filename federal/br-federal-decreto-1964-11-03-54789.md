@@ -1,5 +1,3 @@
-###DEC-054789-0-000-03-11-1964@@@
-
 DECRETO Nº 54.789, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Walter Khouri a pesquisar quartzo, no município de Vitória da Conquista - Estado da Bahia.

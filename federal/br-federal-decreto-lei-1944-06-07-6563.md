@@ -1,5 +1,3 @@
-###DEL-006563-0-000-07-06-1944@@@
-
 DECRETO-LEI N. 6.563 – De 7 DE JUNHO DE 1944
 
 Cria cargo isolado de provimento em comissão, no Quadro Permanente do Ministério da Educação e Saúde e abre crédito suplementar à Verba que especifica

@@ -1,5 +1,3 @@
-###DEC-006466-0-000-28-05-2008@@@
-
 DECRETO Nº 6.466, DE 28 DE MAIO DE 2008.
 
 Dispõe sobre o aumento do capital da Empresa de Tecnologia e Informações da Previdência Social - DATAPREV.
@@ -23,5 +21,3 @@ LUIZ INÁCIO LULA DA SILVA
 Paulo Bernardo Silva
 
 Luiz Marinho
-
-Este texto não substitui o publicado no DOU de 29.5.2008

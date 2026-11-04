@@ -1,5 +1,3 @@
-###DEC-093632-0-000-01-12-1986@@@
-
 DECRETO Nº 93.632, DE 1º DE DEZEMBRO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à formação do reservatório da usina hidrelétrica de São Domingos, da Centrais Elétricas de Goiás S.A .- CELG, no Estado de Goiás.

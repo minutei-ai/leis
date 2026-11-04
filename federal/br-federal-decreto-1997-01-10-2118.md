@@ -1,5 +1,3 @@
-###DEC-002118-0-000-10-01-1997@@@
-
 DECRETO Nº 2.118, DE 10 DE JANEIRO DE 1997
 
 Remaneja cargo em comissão do Grupo-Direção e Assessoramento Superiores - DAS e dá outras providências.

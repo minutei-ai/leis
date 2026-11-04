@@ -1,5 +1,3 @@
-###DEL-003795-0-000-05-11-1941@@@
-
 DECRETO-LEI N. 3.795 – DE 5 DE NOVEMBRO DE 1941
 
 Prorroga o prazo de que trata o parágrafo único do art. 1º do decreto-lei n. 3.582, de 3 de setembro de 1941

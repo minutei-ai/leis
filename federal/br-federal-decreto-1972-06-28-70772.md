@@ -1,5 +1,3 @@
-###DEC-070772-0-000-28-06-1972@@@
-
 DECRETO Nº 70.772, DE 28 DE JUNHO DE 1972.
 
 Regulamenta a execução, em tempo de paz, do transporte, em território nacional, de militares da Marinha, Exército e da Aeronáutica, e dá outras providências.

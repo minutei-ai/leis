@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69289)
-
 # LEI Nº 12.414, DE 21 DE DEZEMBRO DE 2006
 
 ## (Projeto de lei nº 487/2005, do Deputado Carlinhos Almeida - PT)

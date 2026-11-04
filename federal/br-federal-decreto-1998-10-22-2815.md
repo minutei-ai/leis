@@ -1,5 +1,3 @@
-###DEC-002815-0-000-22-10-1998@@@
-
 DECRETO Nº 2.815, DE 22 DE OUTUBRO DE 1998
 
 Dispõe sobre a execução do Décimo Primeiro Protocolo Adicional ao Acordo de Complementação Econômica nº 35, entre os Governos dos Estados Partes do MERCOSUL e o Governo da República do Chile, de 30 de julho de 1998.
@@ -40,4 +38,22 @@ A Secretaria-Geral da Associação será depositária do presente Protocolo, do 
 
 EM FÉ DO QUE, os respectivos Plenipotenciários subscrevem o presente Protocolo na cidade de Montevidéu, aos trinta dias do mês de julho de mil novecentos e noventa e oito, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Governo da República Argentina:</span></p></td><td style="width:178.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>CARLOS ONIS VIGIL</span></p></td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Governo da República Federativa do Brasil:</span></p></td><td style="width:178.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>JOSÉ ARTUR DENOT MEDEIROS</span></p></td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Governo da República do Paraguai:</span></p></td><td style="width:178.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>EFRAIN DARIO CENTURIÓN</span></p></td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Governo da República Oriental do Uruguai:</span></p></td><td style="width:178.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>ADOLFO CASTELLS</span></p></td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Governo da República do Chile:</span></p></td><td style="width:178.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>AUGUSTO BERMUÚDEZ ARANCIBIA</span></p></td></tr></tbody></table>
+Pelo Governo da República Argentina:
+
+CARLOS ONIS VIGIL
+
+Pelo Governo da República Federativa do Brasil:
+
+JOSÉ ARTUR DENOT MEDEIROS
+
+Pelo Governo da República do Paraguai:
+
+EFRAIN DARIO CENTURIÓN
+
+Pelo Governo da República Oriental do Uruguai:
+
+ADOLFO CASTELLS
+
+Pelo Governo da República do Chile:
+
+AUGUSTO BERMUÚDEZ ARANCIBIA

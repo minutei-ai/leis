@@ -1,7 +1,3 @@
-1
-
-###MPV-001160-0-000-26-10-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.160, DE 26 DE OUTUBRO DE 1995.
 
 Altera a redação de dispositivos das Leis nºs 8.112, de 11 de dezembro de 1990, e 8.911, de 11 de julho de 1994, para instituir os Décimos Incorporados, e dá outras providências.

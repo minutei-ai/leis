@@ -1,5 +1,3 @@
-###DEL-000075-0-000-21-11-1966@@@
-
 DECRETO-LEI Nº 75, DE 21 DE NOVEMBRO DE 1966
 
 Dispõe sôbre a aplicação da correção monetária aos débitos de natureza trabalhista, bem como a elevação do valor do depósito compulsório nos casos de recursos perante os Tribunais do Trabalho, e dá outras providências.

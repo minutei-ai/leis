@@ -1,5 +1,3 @@
-###DEC-072436-0-000-09-07-1973@@@
-
 Decreto nº 72.436, de 9 de julho de 1973.
 
 Concede a J.F.F. da Rosa Aquino - firma individual, o direito de lavrar argila no Município de Cotia, Estado de São Paulo.

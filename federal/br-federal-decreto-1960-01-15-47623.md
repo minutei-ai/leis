@@ -1,5 +1,3 @@
-###DEC-047623-0-000-15-01-1960@@@-
-
 Decreto nº 47.623, de 15 de janeiro de 1960.
 
 Autoriza o cidadão brasileiro José Luiz de Oliveira Sobrinho a pesquisar minério de ferro no município de Itaúna, Estado de Minas Gerais.

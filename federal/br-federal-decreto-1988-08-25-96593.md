@@ -1,5 +1,3 @@
-###DEC-096593-0-000-25-08-1988@@@
-
 DECRETO N° 96.593, DE 25 DE AGOSTO DE 1988
 
 Outorga concessão a RBN - REDE BRASIL NORTE DE TELEVISÃO LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Porto Velho, Estado de Rondônia.

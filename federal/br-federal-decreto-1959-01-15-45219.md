@@ -1,5 +1,3 @@
-###DEC-045219-0-000-15-01-1959@@@
-
 DECRETO Nº 45.219, DE 15 DE JANEIRO DE 1959.
 
 Cria o Núcleo Colonial de Gurgueia na Comarca de Jeromenha, no Estado do Piauí, em terras adquiridas pelo Instituto Nacional de Imigração e Colonização.

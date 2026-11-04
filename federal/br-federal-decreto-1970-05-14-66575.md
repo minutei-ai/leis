@@ -1,5 +1,3 @@
-###DEC-066575-0-000-14-05-1970@@@
-
 decreto nº 66.575, de 14 de maio de 1970.
 
 Declara de utilidade pública, para fins de desapropriação, o domínio útil e respectivas benfeitorias, do imóvel que menciona, necessário ao Ministério do Exército.

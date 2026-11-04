@@ -1,5 +1,3 @@
-###DEC-096617-0-000-31-08-1988@@@
-
 DECRETO Nº 96.617, DE 31 DE AGOSTO DE 1988
 
 Altera o Decreto nº 92.302, de 16 de janeiro de 1986, que "regulamenta o fundo para Reconstituição de Bens Lesados de que trata a Lei nº 7.347, de 24 de julho de 1985, e dá outras providências".

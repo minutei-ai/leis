@@ -1,5 +1,3 @@
-###DEC-058441-0-000-17-05-1966@@@
-
 DECRETO Nº 58.441, DE 17 DE MAIO DE 1966.
 
 Renova o Decreto nº 53.825, de 24 de março de 1964.

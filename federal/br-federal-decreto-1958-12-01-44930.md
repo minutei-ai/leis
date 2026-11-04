@@ -1,5 +1,3 @@
-###DEC-044930-0-000-01-12-1958@@@
-
 DECRETO Nº 44.930, DE 1 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Sebastião de Oliveira Rabelo a pesquisar minério de ferro do Município de Guanhães, Estado de Minas gerais.

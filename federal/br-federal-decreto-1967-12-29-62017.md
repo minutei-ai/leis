@@ -1,5 +1,3 @@
-###DEC-062017-0-000-29-12-1967@@@
-
 DECRETO Nº 62.017, DE 29 DE DEZEMBRO DE 1967.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A., concessão para distribuir energia elétrica no município de Vila Matias, Estado de Minas Gerais.

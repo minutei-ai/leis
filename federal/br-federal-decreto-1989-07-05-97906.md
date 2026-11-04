@@ -1,7 +1,3 @@
-1
-
-###DEC-097906-0-000-05-07-1989@@@
-
 DECRETO Nº 97.906, DE 5 DE JULHO DE 1989
 
 Autoriza o funcionamento do curso superior de Tecnologia em Processamento de Dados da Faculdade de Informática Maria Thereza, Rio de Janeiro.

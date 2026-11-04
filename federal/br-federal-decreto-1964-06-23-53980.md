@@ -1,5 +1,3 @@
-###DEC-053980-0-000-23-06-1964@@@
-
 DECRETO Nº 53.980, DE 23 DE JUNHO DE 1964.
 
 Aprova a reforma de estatutos do Banco do Estado do Rio Grande do Sul Sociedade Anônima, procedida em assembléia geral extraordinária realizada em 31.12.63.

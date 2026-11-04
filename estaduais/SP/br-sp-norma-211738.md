@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211738)<br>
-
 # DECRETO N° 70.038, DE 30 DE OUTUBRO DE 2025
 
 ### _Dispõe sobre a outorga da "Cruz do Mérito Policial"._

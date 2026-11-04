@@ -1,5 +1,3 @@
-###DEC-003721-0-000-08-01-2001@@@
-
 DECRETO Nº 3.721, DE 8 DE JANEIRO DE 2001
 
 Altera o Decreto nº 81.240, de 20 de janeiro de 1978.

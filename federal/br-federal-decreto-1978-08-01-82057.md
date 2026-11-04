@@ -1,5 +1,3 @@
-###DEC-082057-0-000-01-08-1978@@@
-
 Decreto nº 82.057, de 01 de agosto de 1978.
 
 Autoriza o funcionamento dos cursos de Ciências, de Estudos Sociais e de Letras, da Faculdade de Formação de Professores de Belo Jardim, com sede na cidade de Belo Jardim, Estado de Pernambuco.

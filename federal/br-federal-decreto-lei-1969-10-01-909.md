@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/8d631d6a-d01b-47d2-962f-31117a339266/texto#nowhere)
 
-###DEL-000909-0-000-01-10-1969@@@
-
 Decreto-lei nº 909, de 1 de Outubro de 1969
 
 Concede pensão especial ao Professor Fructuoso de Lima Vianna.

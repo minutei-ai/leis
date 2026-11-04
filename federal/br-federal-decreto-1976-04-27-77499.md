@@ -1,5 +1,3 @@
-###DEC-077499-0-000-27-04-1976@@@
-
 DECRETO Nº 77.499 - de 27 de abril de 1976
 
 Concede reconhecimento ao curso de pedagogia do Centro de Ciências Sociais Aplicadas, na Universidade Federal do Rio Grande do Norte.

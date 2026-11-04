@@ -1,5 +1,3 @@
-###DEC-048011-0-000-05-04-1960@@@
-
 DECRETO Nº 48.011, DE 5 DE ABRIL DE 1960.
 
 Autoriza o cidadão brasileiro Bonifácio Rodrigues Martins a pesquisar mármore no município de Mar de Espanha, Estado de Minas Gerais.

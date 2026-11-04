@@ -1,5 +1,3 @@
-###MPV-001979-0-019\-02-06-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.979-19, DE 2 DE junho DE 2000.
 
 Dispõe sobre o repasse de recursos financeiros do Programa Nacional de Alimentação Escolar, institui o Programa Dinheiro Direto na Escola, e dá outras providências.

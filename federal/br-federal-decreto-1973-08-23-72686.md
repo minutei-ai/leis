@@ -1,5 +1,3 @@
-###DEC-072686-0-000-23-08-1973@@@
-
 DECRETO nº 72.686, DE 23 DE AGOSTO DE 1973.
 
 Concede autorização à firma brasileira Indústria e Comércio de Areia Ltda., para executar trabalhos de extração de areia, na região da Foz de Iguaçu, margem brasileira do Rio Paraná.

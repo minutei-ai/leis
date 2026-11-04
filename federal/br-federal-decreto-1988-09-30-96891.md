@@ -1,5 +1,3 @@
-###DEC-096891-0-000-30-09-1988@@@
-
 DECRETO N° 96.891, DE 30 DE SETEMBRO DE 1988
 
 Dispõe sobre a estrutura básica do Ministério da Habitação e do Bem-Estar Social - MBES, e dá outras providências.

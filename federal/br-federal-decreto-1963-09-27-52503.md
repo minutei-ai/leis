@@ -1,5 +1,3 @@
-###DEC-052503-0-000-27-09-1963@@@
-
 Decreto nº 52.503, de 27 de setembro de 1963.
 
 Autoriza Sílvio Brandão Borges a comprar pedras preciosas.

@@ -1,5 +1,3 @@
-###DEC-052065-0-000-27-05-1963@@@
-
 DECRETO Nº 52.065, DE 27 DE MAIO DE 1963.
 
 Declara de utilidade pública a Sociedade Portuguêsa de Beneficência, com sede em Ribeirão Preto, Estado de São Paulo.

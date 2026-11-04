@@ -1,7 +1,3 @@
-1
-
-###DEC-000656-0-000-24-09-1992@@@
-
 DECRETO N° 656, DE 24 DE SETEMBRO DE 1992
 
 Altera dispositivos do Regulamento da Organização e do Custeio da Seguridade Social, aprovado pelo Decreto n° 612, de 21 de julho de 1992.

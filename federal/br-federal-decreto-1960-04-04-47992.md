@@ -1,5 +1,3 @@
-###DEC-047992-0-000-04-04-1960@@@
-
 DECRETO Nº 47.992, DE 4 DE ABRIL DE 1960.
 
 Autoriza estrangeira a adquirir, em transferência de aforamento, o domínio útil do terreno acrescido de marinha que menciona, no Distrito Federal.

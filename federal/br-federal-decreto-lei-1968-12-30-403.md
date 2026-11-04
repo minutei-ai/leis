@@ -1,5 +1,3 @@
-###DEL-000403-0-000-30-12-1968@@@
-
 DECRETO-LEI Nº 403, de 30 DE deZEMbRO DE 1968
 
 Dispõe sôbre o Impôsto de Renda incidente em títulos de renda fixa e dá outras providências.
@@ -12,7 +10,7 @@ Art. 1º O valor total dos rendimentos produzidos por títulos de renda fixa - l
 
 Títulos de:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:60.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>180 a 269</span></p></td><td style="width:299.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>dias de prazo, a contar da data de emissão ....................................</span></p></td><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10%</span></p></td></tr><tr><td style="width:60.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>270 a 359</span></p></td><td style="width:299.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>idem, idem .....................................................................................</span></p></td><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>9%</span></p></td></tr><tr><td style="width:60.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>360 a 449</span></p></td><td style="width:299.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>idem, idem .....................................................................................</span></p></td><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8%</span></p></td></tr><tr><td style="width:60.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>450 a 539</span></p></td><td style="width:299.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>idem, idem .....................................................................................</span></p></td><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7%</span></p></td></tr><tr><td style="width:60.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>540 a 629</span></p></td><td style="width:299.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>idem, idem .....................................................................................</span></p></td><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6%</span></p></td></tr><tr><td style="width:60.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>630 a 719</span></p></td><td style="width:299.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>idem, idem .....................................................................................</span></p></td><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5%</span></p></td></tr><tr><td colspan="2" style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>720 ou mais dias de prazo, a contar da data de emissão ........................................</span></p></td><td style="width:24.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4%</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td> 180 a 269 </td><td> dias de prazo, a contar da data de emissão .................................... </td><td> 10% </td></tr><tr><td> 270 a 359 </td><td> idem, idem ..................................................................................... </td><td> 9% </td></tr><tr><td> 360 a 449 </td><td> idem, idem ..................................................................................... </td><td> 8% </td></tr><tr><td> 450 a 539 </td><td> idem, idem ..................................................................................... </td><td> 7% </td></tr><tr><td> 540 a 629 </td><td> idem, idem ..................................................................................... </td><td> 6% </td></tr><tr><td> 630 a 719 </td><td> idem, idem ..................................................................................... </td><td> 5% </td></tr><tr><td colspan="2"> 720 ou mais dias de prazo, a contar da data de emissão ........................................ </td><td> 4% </td></tr></tbody></table>
 
 Parágrafo único. Nos títulos de rendimento parcelado, prevalece, para efeito dêste artigo, o prazo total de sua emissão.
 
@@ -52,7 +50,23 @@ Art. 6º Os rendimentos dos títulos das espécies referidas no artigo 1º, emit
 
 Art. 7º A dedução autorizada pelo artigo 4º do Decreto-Lei nº 157, de 10 de fevereiro de 1967, com a redação que lhe deu o artigo 2º do Decreto-Lei nº 238, de 28 de fevereiro de 1967, cuja vigência foi prorrogada no exercício de 1968 pelo artigo 10 da Lei nº 5.409, de 9 de abril de 1968, fica prorrogada até 1970, na forma da redução da tabela abaixo:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) 1969 ...............................................................................................</span></p></td><td style="width:90.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3% (três por cento)</span></p></td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) 1970 ...............................................................................................</span></p></td><td style="width:90.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1% (um por cento)</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+a) 1969 ...............................................................................................
+
+</td><td style="width:90.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+3% (três por cento)
+
+</td></tr><tr><td style="width:313.55pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+b) 1970 ...............................................................................................
+
+</td><td style="width:90.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+1% (um por cento)
+
+</td></tr></tbody></table>
 
 Art. 8º O abatimento no impôsto de renda, autorizado pelo artigo 3º do Decreto-Lei nº 157 de 10 de fevereiro de 1967, a título de estímulo ao desenvolvimento do mercado de capitais, fica elevado para 12% (doze por cento).
 
@@ -85,8 +99,6 @@ Brasília, 30 de dezembro de 1968; 147º da Independência e 80º da República.
 A. COSTA E SILVA
 
 Antônio Delfim Netto
-
-###DEL-000403-0-000-30-12-1968@@@RET01+++
 
 DECRETO-LEI Nº 403, DE 30 DE DEZEMBRO DE 1968
 

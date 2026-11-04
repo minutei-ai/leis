@@ -1,5 +1,3 @@
-###DEL-009108-0-000-01-04-1946@@@
-
 DECRETO-LEI N. 9.108 – DE 1 DE ABRIL DE 1946
 
 Unifica a cota especial sôbre o algodão em pluma, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-076381-0-000-02-10-1975@@@
-
 decreto nº 76.381, de 2 outubro de 1975
 
 Concede reconhecimento ao curso de Ciências da Faculdade Dom Aquino de Filosofia, Ciências e Letras, com sede na Cidade de Campo Grande, Estado de Mato Grosso.

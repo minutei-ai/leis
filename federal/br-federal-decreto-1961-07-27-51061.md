@@ -1,5 +1,3 @@
-###DEC-051061-0-000-27-07-1961@@@
-
 DECRETO Nº 51.061, DE 27 DE JULHO DE 1961.
 
 Institui medalha ao funcionário com 50 anos de serviço público sem falta grave e dá outras providências.

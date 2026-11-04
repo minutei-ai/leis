@@ -1,5 +1,3 @@
-###DEC-085658-0-000-22-01-1981@@@
-
 Decreto nº 85.658, de 22 de janeiro de 1981.
 
 Autoriza o funcionamento do curso de Ciências Contábeis, da Faculdade de Informática de São Paulo.

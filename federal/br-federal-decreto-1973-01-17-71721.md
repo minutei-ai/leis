@@ -1,5 +1,3 @@
-###DEC-071721-0-000-17-01-1973@@@
-
 DECRETO Nº 71.721, DE 17 DE JANEIRO DE 1973.
 
 Outorga à Centrais Elétricas de Goiás S.A. concessão para o aproveitamento hidráulico de um trecho do rio Corrente, no município de Sítio D'Abadia, Estado de Goiás.

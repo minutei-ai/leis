@@ -1,5 +1,3 @@
-###DEL-004311-0-000-20-05-1942@@@
-
 DECRETO-LEI N. 4.311 – DE 20 DE MAIO DE 1942
 
 Abre ao Ministério da Aeronáutica o crédito especial de 2.000:000$0, para atender às despesas que especifica

@@ -1,7 +1,3 @@
-1
-
-###MPV-000768-0-000-20-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 768, DE 20 DE DEZEMBRO DE 1994
 
 Dispõe sobre a vinculação da Fundação Osório, e dá outras providências.

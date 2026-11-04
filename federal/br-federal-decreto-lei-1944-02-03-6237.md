@@ -1,5 +1,3 @@
-###DEL-006237-0-000-03-02-1944@@@
-
 DECRETO-LEI N. 6.237 – DE 3 DE FEVEREIRO DE 1944
 
 Cria cargos de Procurador no Quadro Único do Ministério do Trabalho, Indústria e Comércio e dá outras providências

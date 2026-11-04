@@ -1,5 +1,3 @@
-###DEC-070561-0-000-17-05-1972@@@
-
 DECRETO Nº 70.561, DE 17 DE MAIO DE 1972.
 
 Retifica o artigo 1º do Decreto número 57.509, de 28 de dezembro de 1965.

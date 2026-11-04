@@ -1,5 +1,3 @@
-###DEC-056293-0-000-19-05-1965@@@
-
 Decreto nº 56.293, de 19 de maio de 1965.
 
 Abre ao Poder Judiciário - Justiça do Trabalho - Tribunal Regional do Trabalho da Quarta Região - o crédito especial de Cr$ 600.000.000, para o fim que específica.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098341-0-000-30-10-1989@@@
-
 DECRETO Nº 98.341, DE 30 DE OUTUBRO DE 1989
 
 Aprova alteração introduzida no Estatuto da Centrais Elétricas Brasileiras S.A. - Eletrobrás.

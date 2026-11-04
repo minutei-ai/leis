@@ -1,5 +1,3 @@
-###DEC-089392-0-000-21-02-1984@@@
-
 Decreto nº 89.392, de 21 de fevereiro de 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia de Eletricidade do Estado da Bahia-COELBA, no Estado da Bahia.

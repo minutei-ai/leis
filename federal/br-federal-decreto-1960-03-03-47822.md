@@ -1,5 +1,3 @@
-###DEC-047822-0-000-03-03-1960@@@
-
 DECRETO Nº 47.822 DE 3 DE MARÇO DE 1960.
 
 Autoriza o Serviço do Patrimônio da União aceitar a doação do  terreno  que menciona, situado no município de Pôrto Alegre, no Estado do rio Grande do Sul.

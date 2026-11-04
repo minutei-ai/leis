@@ -1,5 +1,3 @@
-###DEC-060664-0-000-02-05-1967@@@
-
 DECRETO Nº 60.664, DE 2 DE MAIO DE 1967.
 
 Criar o Centro de Informação do Exército (CIE) e dá outras providências.

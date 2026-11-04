@@ -1,7 +1,3 @@
-1
-
-###DEC-095594-0-000-06-01-1988@@@
-
 DECRETO N° 95.594, DE 6 DE JANEIRO DE 1988
 
 Dispõe sobre execução do Quarto Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/80 (Acordo n° 9).

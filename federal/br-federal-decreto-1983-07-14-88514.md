@@ -1,5 +1,3 @@
-###DEC-088514-0-000-14-07-1983@@@
-
 Decreto nº 88.514, de 14 de julho de 1983.
 
 Fixa os percentuais de que trata o § 3º do artigo 15 da Lei nº 5.821, de 10 de novembro de 1972.

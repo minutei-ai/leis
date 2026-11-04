@@ -1,5 +1,3 @@
-###DEC-002220-0-000-06-05-1997@@@
-
 DECRETO Nº 2.220, DE 6 DE MAIO DE 1997
 
 Regulamenta o § 1o do art. 18 da Lei nº 9.293, de 15 de julho de 1996,e dá outras providências.

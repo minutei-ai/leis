@@ -1,7 +1,3 @@
-1
-
-###DEL-000676-0-000-09-07-1969@@@
-
 DECRETO-LEI Nº 676, DE 9 DE JULHO DE 1969
 
 Aprova a reforma do ex-soldado Edmo Alves cujo registro foi negado pelo Tribunal de Contas da União.

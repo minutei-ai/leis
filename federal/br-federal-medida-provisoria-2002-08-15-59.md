@@ -1,5 +1,3 @@
-###MPV-000059-0-000-15-08-2002@@@
-
 MEDIDA PROVISÓRIA Nº 59, DE 15 DE AGOSTO DE 2002
 
 Dispõe sobre a utilização das fontes de recursos existentes no Tesouro Nacional no encerramento do exercício financeiro de 2001, e dá outras providências.

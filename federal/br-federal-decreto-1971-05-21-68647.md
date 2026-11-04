@@ -1,5 +1,3 @@
-###DEC-068647-0-000-21-05-1971@@@
-
 Decreto nº 68.647 - de 21 de maio de 1971.
 
 Extingue o Centro de Instrução Almirante Tamandaré e dá outras providências.

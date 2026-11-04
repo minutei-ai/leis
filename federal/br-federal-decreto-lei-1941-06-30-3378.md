@@ -1,5 +1,3 @@
-###DEL-003378-0-000-30-06-1941@@@
-
 DECRETO-LEI N. 3.378 – DE 30 DE JUNHO DE 1941
 
 Dispõe sobre a exportação do arroz

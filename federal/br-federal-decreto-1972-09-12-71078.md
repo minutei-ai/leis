@@ -1,5 +1,3 @@
-###DEC-071078-0-000-12-09-1972@@@
-
 DECRETO Nº 71.078, de 12 de setembro de 1972.
 
 Concede reconhecimento ao Instituto Municipal de Ensino Superior de São Caetano do Sul - SP.

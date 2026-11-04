@@ -1,5 +1,3 @@
-###DEC-046537-0-000-31-07-1959@@@
-
 DECRETO Nº 46.537, DE 31 DE JULHO DE 1959.
 
 Declara de utilidade pública para desapropriação, terrenos necessários à ampliação da Escola Preparatória de Cadetes do Ar, em Barbacena (M.G)

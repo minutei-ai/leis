@@ -1,5 +1,3 @@
-###DEC-067227-0-000-21-09-1970@@@
-
 Decreto nº 67.227, de 21 de setembro de 1970.
 
 Estabelece prioridades para uma política de valorização da ação sindical.

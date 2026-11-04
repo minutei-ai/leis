@@ -1,5 +1,3 @@
-###DEC-053418-0-000-20-01-1964@@@
-
 DECRETO Nº 53.418, DE 20 DE JANEIRO DE 1964.
 
 Autoriza a Emprêsa Fluminense de Energia Elétrica S.A. a utilizar linha de transmissão.

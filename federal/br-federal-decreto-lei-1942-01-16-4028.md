@@ -1,5 +1,3 @@
-###DEL-004028-0-000-16-01-1942@@@
-
 DECRETO-LEI N. 4.028 – DE 16 DE JANEIRO DE 1942
 
 Modifica o artigo 175 do decreto-lei n. 301, de 24 de fevereiro de 1938

@@ -18,15 +18,14 @@ Art. 6º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 15 de dezembro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
 
 ANEXO I
 
-| IMÓVEL DE PROPRIEDADE DO ESTADO DE GOIÁS AUTORIZADO A SER ALIENADO,<br>
+| IMÓVEL DE PROPRIEDADE DO ESTADO DE GOIÁS AUTORIZADO A SER ALIENADO,
+
 MEDIANTE DOAÇÃO ONEROSA, AO MUNICÍPIO DE NOVA AMÉRICA/GO |
 | --- |
 | DENOMINAÇÃO | **Lote nº 1 da Quadra 2** |
@@ -34,14 +33,16 @@ MEDIANTE DOAÇÃO ONEROSA, AO MUNICÍPIO DE NOVA AMÉRICA/GO |
 | ÁREA | **415,88 m²** |
 | MATRÍCULA | **Nº 546 – Cartório de Registro de Imóveis de Nova América/GO** |
 |
-LIMITES E<br>
+LIMITES E
+
 CONFRONTAÇÕES
 
  | **Pela frente, dividindo com a Rua 8, com 12,06 m; ao fundo, dividindo, com o Lote 4, com 10,50 m; pelo lado esquerdo, com o Lote 2, com 31,05 m; e pelo lado direito, com a Rua 1, com 27,00 m, fazendo um ângulo de 6,31 m.** |
 
 ANEXO II
 
-| IMÓVEL DE PROPRIEDADE DO ESTADO DE GOIÁS AUTORIZADO A SER ALIENADO,<br>
+| IMÓVEL DE PROPRIEDADE DO ESTADO DE GOIÁS AUTORIZADO A SER ALIENADO,
+
 MEDIANTE DOAÇÃO ONEROSA, AO MUNICÍPIO DE NOVA AMÉRICA/GO |
 | --- |
 | DENOMINAÇÃO | **Lote nº 4 da Quadra 2** |

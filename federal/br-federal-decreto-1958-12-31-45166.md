@@ -1,5 +1,3 @@
-###DEC-045166-0-000-31-12-1958@@@
-
 Decreta nº 45.166, de 31 de dezembro de 1958.
 
 Autoriza a cidadã brasileira - Maria Celina Lobato  a pesquisar minérios de manganês, de ferro, e associados, no município de Corumbá, Estado de Mato Grosso.

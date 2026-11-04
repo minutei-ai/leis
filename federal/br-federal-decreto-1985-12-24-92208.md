@@ -1,5 +1,3 @@
-###DEC-092208-0-000-24-12-1985@@@
-
 DECRETO nº 92.208, de 24 de dezembro dE 1985.
 
 Dá nova redação ao artigo 3º do Decreto nº 90.313, de 16 de outubro de 1984.

@@ -1,5 +1,3 @@
-###DEC-078900-0-000-06-12-1976@@@
-
 DECRETO Nº 78.900, DE 6 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Psicologia, Licenciatura e Bacharelado, e de Formação de Psicólogo, do Instituto de Psicologia e Comunicação Social da Universidade do Estado do Rio de Janeiro.

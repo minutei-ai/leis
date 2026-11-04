@@ -1,5 +1,3 @@
-###DEC-070907-0-000-31-07-1972@@@
-
 DECRETO Nº 70.907, de 31 de julho de 1972.
 
 Concede reconhecimento à Faculdade de Direito de Guarulhos-São Paulo.

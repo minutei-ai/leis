@@ -1,7 +1,3 @@
-1
-
-###DEC-000979-0-000-11-11-1993@@@
-
 DECRETO N° 979, DE 11 DE NOVEMBRO DE 1993
 
 Dispõe sobre a prestação de serviço extraordinário, em casos excepcionais.

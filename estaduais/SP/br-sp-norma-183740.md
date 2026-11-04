@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183740)
-
 # DECRETO Nº 62.890, DE 23 DE OUTUBRO DE 2017
 
 ### _Dá denominação de "Professor João Jacinto do Nascimento" a unidade escolar da Secretaria da Educação, localizada no Município de Ibaté_
@@ -16,10 +14,16 @@ Palácio dos Bandeirantes, 23 de outubro de 2017
 
 GERALDO ALCKMIN
 
-José Renato Nalini<br>
-Secretário da Educação<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Moacir Rossetti<br>
-Secretário-Adjunto, Respondendo pelo Expediente da Secretaria de Governo<br>
+José Renato Nalini
+
+Secretário da Educação
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Moacir Rossetti
+
+Secretário-Adjunto, Respondendo pelo Expediente da Secretaria de Governo
+
 Publicado na Secretaria de Governo, aos 23 de outubro de 2017.

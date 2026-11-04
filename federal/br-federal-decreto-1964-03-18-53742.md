@@ -1,5 +1,3 @@
-###DEC-053742-0-000-18-03-1964@@@
-
 DECRETO Nº 53.742, de 18 de março de 1964.
 
 Dispõe sôbre a contribuição compulsória dos diplomatas para o IPASE e dá outras providências.

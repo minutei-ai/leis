@@ -1,5 +1,3 @@
-###DEC-058926-0-000-27-07-1966@@@
-
 DECRETO Nº 58.929, DE 27 DE JULHO DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da Regente Companhia Nacional de Seguros, relativa ao aumento do capital social.

@@ -1,5 +1,3 @@
-###DEC-095888-0-000-30-03-1988@@@
-
 DECRETO Nº 95.888, DE 30 DE MARÇO DE 1988
 
 Declara de interesse social para fins de desapropriação, o imóvel rural denominado “FAZENDA ARARA”, classificado como “latifúndio por exploração”, situado no Município de Flores, no Estado de Pernambuco, compreendido na zona prioritária para fins de reforma agrária, fixada pelo Decreto n º 92.683, de 19 de maio de 1986, e dá outras providências.

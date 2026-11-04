@@ -1,5 +1,3 @@
-###DEC-058620-0-000-15-06-1966@@@
-
 decreto nº 58.620, de 15 de junho de 1966.
 
 Renova o Decreto nº 53.714, de 17 de março de 1964.

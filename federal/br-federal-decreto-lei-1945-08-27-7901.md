@@ -1,5 +1,3 @@
-###DEL-007901-0-000-27-08-1945@@@
-
 DECRETO-LEI N. 7.901 – DE 27 DE AGÔSTO DE 1945
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 120.000,00, para aquisição de um automóvel, e dá outras providências

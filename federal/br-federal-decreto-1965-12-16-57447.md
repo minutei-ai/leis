@@ -1,5 +1,3 @@
-###DEC-057447-0-000-16-12-1965@@@
-
 Decreto nº 57.447, de 16 de dezembro de 1965.
 
 Autoriza o Ministério da Fazenda a dar garantia do Tesouro Nacional à operação de crédito que menciona.
@@ -17,8 +15,6 @@ Brasília, 16 de dezembro de 1965; 144º da Independência e 77º da República.
 H. Castello Branco
 
 Octávio Bulhões
-
-###DEC-057447-0-000-16-12-1965@@@RET01+++
 
 decreto nº 57.447, de 16 de dezembro de 1965.
 

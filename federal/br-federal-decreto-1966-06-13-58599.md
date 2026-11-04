@@ -1,5 +1,3 @@
-###DEC-058599-0-000-13-06-1966@@@
-
 decreto Nº 58.599, de 13 de junho de 1966.
 
 Estabelece normas para confecção e emissões de selos postais e outras fórmulas de franquiamento de correspondência.

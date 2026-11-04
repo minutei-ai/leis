@@ -1,7 +1,3 @@
-1
-
-###DEL-001852-0-000-27-01-1981@@@
-
 # DECRETO-LEI Nº 1.852, DE 27 DE JANEIRO DE 1981
 
 Regula a distribuição aos Municípios da parcela do imposto sobre transmissão de bens imóveis e de direitos a eles relativos.

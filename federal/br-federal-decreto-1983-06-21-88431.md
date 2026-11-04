@@ -1,5 +1,3 @@
-###DEC-088431-0-000-21-06-1983@@@
-
 Decreto nº 88.431, de 21 de junho de 1983
 
 Outorga concessão à RÁDIO CANOA GRANDE LtDA., para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Igaraçu do Tietê, Estado de São Paulo.

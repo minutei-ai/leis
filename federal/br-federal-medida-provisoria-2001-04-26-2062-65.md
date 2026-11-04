@@ -1,5 +1,3 @@
-###MPV-002062-0-065-26-04-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.062-65, DE 26 DE ABRIL DE 2001
 
 Altera a legislação do imposto de renda e dá outras providências.

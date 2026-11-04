@@ -1,5 +1,3 @@
-###DEC-046657-0-000-17-08-1959@@@
-
 DECRETO Nº 46.657, DE 17 DE AGôSTO DE 1959.
 
 Autoriza o cidadão brasileiro Antônio Gonçalves Malheiros Sobrinho a pesquisar calcário no município de Diamantina, Estado de Minas Gerais.

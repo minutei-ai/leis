@@ -20,8 +20,10 @@ Art. 5º Este Decreto entra em vigor a partir da data de sua publicação, retro
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 19 de Abril de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal
 
-EINSTEIN PANIAGO<br>
+EINSTEIN PANIAGO
+
 Secretário da Fazenda

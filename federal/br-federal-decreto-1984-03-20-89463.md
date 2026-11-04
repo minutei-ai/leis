@@ -1,5 +1,3 @@
-###DEC-089463-0-000-20-03-1984@@@
-
 Decreto nº 89.463, de 20 de março de 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão de Furnas - Centrais Elétricas S.A., no Estado de São Paulo.

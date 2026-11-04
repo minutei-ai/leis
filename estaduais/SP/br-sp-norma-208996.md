@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208996)<br>
-
 # LEI N° 17.856, DE 22 DE DEZEMBRO DE 2023
 
 ## (Projeto de lei n° 324/2023, do Deputado Rogério Nogueira - PSDB)

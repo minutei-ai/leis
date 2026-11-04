@@ -1,5 +1,3 @@
-###DEC-088769-0-000-27-09-1983@@@
-
 DECRETO Nº 88.769, DE 27 DE SETEMBRO DE 1983
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais que menciona, situados no Município de Pimenta Bueno, Estado de Rondônia, e compreendidos na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 67.557, de 12/11/70, alterado pelos Decretos nºs 75.295, de 27/01/75, e 85.075, de 27/08/80.

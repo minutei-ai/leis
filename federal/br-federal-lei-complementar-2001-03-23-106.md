@@ -1,5 +1,3 @@
-###LCP-000106-0-000-23-03-2001@@@
-
 LEI COMPLEMENTAR Nº 106, DE 23 DE MARÇO DE 2001
 
 Dá nova redação aos §§ 1º e 2º do art. 2º da Lei Complementar nº 91, de 22 de dezembro de 1997, que dispõe sobre a fixação dos coeficientes de distribuição dos recursos do Fundo de Participação dos Municípios.

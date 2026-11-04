@@ -1,5 +1,3 @@
-###DEL-003349-0-000-16-06-1941@@@  
-
 DECRETO-LEI N. 3.349 – DE 16 DE JUNHO DE 1941
 
 Abre, pelo Ministério da Justiça e Negócios Inferiores; o crédito especial de quinze contos, trezentos e vinte e nove mil e quatrocentos réis (15:329$4), para pagamento de diferença de vencimentos.

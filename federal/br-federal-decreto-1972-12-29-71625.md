@@ -1,5 +1,3 @@
-###DEC-071625-0-000-29-12-1972@@@
-
 DECRETO Nº 71.625 - DE 29 DE DEZEMBRO DE 1972
 
 Altera o Decreto nº 20.397, de 14 de janeiro de 1946.

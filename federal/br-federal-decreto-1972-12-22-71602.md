@@ -1,5 +1,3 @@
-###DEC-071602-0-000-22-12-1972@@@
-
 DECRETO Nº 71.602 - DE 22 DE DEZEMBRO DE 1972
 
 Concede reconhecimento do Curso de Comunicação Social (habilitação Jornalismo Polivalente), da Faculdade de Filosofia e Ciências Humanas da Universidade Federal de Minas Gerais.

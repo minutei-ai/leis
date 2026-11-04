@@ -1,5 +1,3 @@
-###DEL-003550-0-000-25-08-1941@@@
-
 DECRETO-LEI N. 3.550 – DE 25 DE AGOSTO DE 1941
 
 Altera as tabelas do Quadro Suplementar do Ministério da Guerra e dá outras providências.

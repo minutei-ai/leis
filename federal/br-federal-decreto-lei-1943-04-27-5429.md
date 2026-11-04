@@ -1,5 +1,3 @@
-###DEL-005429-0-000-27-04-1943@@@
-
 DECRETO‑LEI N. 5.429 – DE 27 DE ABRIL DE 1943
 
 Dispõe sobre a exclusão de dirigentes de sociedades mútuas de seguros de vida do âmbito da legislação do trabalho

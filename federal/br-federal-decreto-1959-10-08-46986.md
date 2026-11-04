@@ -1,5 +1,3 @@
-###DEC-046986-0-000-08-10-1959@@@
-
 DECRETO Nº 46.986, DE 8 DE OUTUBRO DE 1959.
 
 Dispõe sôbre o uso e a ocupação de emprêsas de transporte marítimo e dá outras providências.

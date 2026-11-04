@@ -1,5 +1,3 @@
-###DEC-002693-0-000-28-07-1998@@@
-
 DECRETO Nº 2.693, DE 28 DE JULHO DE 1998
 
 Dispõe sobre os procedimentos para pagamento da extensão da vantagem de vinte e oito vírgula oitenta e seis por cento aos servidores públicos do Poder Executivo Federal.
@@ -74,4 +72,68 @@ Claúdia Maria Costin
 
 ANEXO
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CARREIRAS/CARGOS</span></p></td></tr><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Advogado da União;</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Analista de Comércio Exterior;</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Assistente de Chancelaria;</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Assistente Jurídico da Advocacia-Geral da União;</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Auditoria do Tesouro Nacional;</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Defensor Público da União;</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Desenvolvimento Tecnológico;</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Diplomata;</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Especialista em Políticas Públicas e Gestão Governamental;</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Finanças e Controle;</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Fiscal de Defesa Agropecuária;</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Gestão, Planejamento e Infra-Estrutura em Ciência e Tecnologia;</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Magistério de 1º e 2º graus;</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Magistério Supeiror;</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Oficial de Chancelaria;</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pesquisa em Ciência e Tecnologia;</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Planejamento e Orçamento;</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Policial Federal;</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Policial Civil do Distrito Federal;</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Policial Civil dos Extintos Territórios Federais;</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Policial Rodoviário Federal;</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Procuradoria da Fazenda Nacional;</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Supervisor Médico Pericial;</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Tecnologia Militar;</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Cargos do Sistema de Classificação de cargos instituídos pelas Leis nºs 5.645/70 (PCC) e 6.550/78 (PCCE);</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Dos órgãos: SUSEP, CVM, IPEA.</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Dos órgãos: FCBR, FJN, FUNDACENTRO, FNS, CAPES, IBGE, CNPq, CNEN, FIOCRUZ, SAE que não integram a Carreira de ciência e tecnologia;</span></p><p style="margin-top:6pt; margin-bottom:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Dos órgãos extintos: FCBIA, LBA, FAE, ROQUETTE PINTO;</span></p><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Dos órgãos: IBAMA, EMBRATUR, INCRA,CFIAer, IPHAN, FUNARTE, FBN, FCP, FUNAI, FAG, ENAP, FNDE, SUDAM, SUFRAMA, SUDENE, CEPLAC, dos Servidores Técnicos-Administrativos das IFES (art. 3º e seguintes da Lei nº 7.596/87) e integrantes das Tabelas de Especialistas.</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+CARREIRAS/CARGOS
+
+</td></tr><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Advogado da União;
+
+Analista de Comércio Exterior;
+
+Assistente de Chancelaria;
+
+Assistente Jurídico da Advocacia-Geral da União;
+
+Auditoria do Tesouro Nacional;
+
+Defensor Público da União;
+
+Desenvolvimento Tecnológico;
+
+Diplomata;
+
+Especialista em Políticas Públicas e Gestão Governamental;
+
+Finanças e Controle;
+
+Fiscal de Defesa Agropecuária;
+
+Gestão, Planejamento e Infra-Estrutura em Ciência e Tecnologia;
+
+Magistério de 1º e 2º graus;
+
+Magistério Supeiror;
+
+Oficial de Chancelaria;
+
+Pesquisa em Ciência e Tecnologia;
+
+Planejamento e Orçamento;
+
+Policial Federal;
+
+Policial Civil do Distrito Federal;
+
+Policial Civil dos Extintos Territórios Federais;
+
+Policial Rodoviário Federal;
+
+Procuradoria da Fazenda Nacional;
+
+Supervisor Médico Pericial;
+
+Tecnologia Militar;
+
+Cargos do Sistema de Classificação de cargos instituídos pelas Leis nºs 5.645/70 (PCC) e 6.550/78 (PCCE);
+
+Dos órgãos: SUSEP, CVM, IPEA.
+
+Dos órgãos: FCBR, FJN, FUNDACENTRO, FNS, CAPES, IBGE, CNPq, CNEN, FIOCRUZ, SAE que não integram a Carreira de ciência e tecnologia;
+
+Dos órgãos extintos: FCBIA, LBA, FAE, ROQUETTE PINTO;
+
+Dos órgãos: IBAMA, EMBRATUR, INCRA,CFIAer, IPHAN, FUNARTE, FBN, FCP, FUNAI, FAG, ENAP, FNDE, SUDAM, SUFRAMA, SUDENE, CEPLAC, dos Servidores Técnicos-Administrativos das IFES (art. 3º e seguintes da Lei nº 7.596/87) e integrantes das Tabelas de Especialistas.
+
+</td></tr></tbody></table>

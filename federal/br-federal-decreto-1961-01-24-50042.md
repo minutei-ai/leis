@@ -1,5 +1,3 @@
-###DEC-050042-0-000-24-01-1961@@@
-
 DECRETO Nº 50.042, DE 24 DE JANEIRO DE 1961.
 
 Autoriza a Campanhia Siderúrgica Cruzeiro do Sul - “Cruzul” a lavrar minério de ferro, no município de Santa Bárbara, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-050561-0-000-08-05-1961@@@
-
 DECRETO Nº 50.561, DE 8 DE MAIO DE 1961.
 
 Concede reconhecimento a cursos.

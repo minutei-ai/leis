@@ -1,5 +1,3 @@
-###DEC-058611-0-000-14-06-1966@@@
-
 DECRETO Nº 58.611, DE 14 DE JUNHO DE 1966.
 
 Concede à Rogich & Cia. autorização para funcionar como emprêsa de mineração.

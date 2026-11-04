@@ -1,5 +1,3 @@
-###DEC-069354-0-000-14-10-1971@@@
-
 DECRETO Nº 69.354, DE 14 DE OUTUBRO DE 1971.
 
 Declara de utilidade pública, para fins de desapropriação ou instituição de servidão de passagem, imóveis constituídos de terras e benfeitorias, situados nos município de Jundiai e Barueri, no Estado de São Paulo.

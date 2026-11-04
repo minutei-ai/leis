@@ -1,5 +1,3 @@
-###DEC-055069-0-000-24-11-1964@@@
-
 DECRETO Nº 55.069, DE 24 DE NOVEMBRO DE 1964.
 
 Concede reconhecimento à Faculdade de Direito do Sul de Minas, com sede em Pouso Alegre – Estado de Minas Gerais.

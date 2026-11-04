@@ -1,5 +1,3 @@
-###DEC-078891-0-000-06-12-1976@@@
-
 DECRETO Nº 78.891, DE 6 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Pedagogia, de Matemática, de História e de Letras, da Faculdade de Filosofia, Ciências e Letras de Cataguazes, com sede na cidade de Cataguazes, Estado de Minas Gerais.

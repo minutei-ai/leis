@@ -1,5 +1,3 @@
-###DEC-052007-0-000-16-05-1963@@@
-
 DECRETO Nº 52.007, DE 16 DE MAIO DE 1963.
 
 Concede reconhecimento aos cursos de Pedagogia, História e Letras de Faculdade de Filosofia, Ciências e Letras de Taubaté, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###MPV-001670-0-000-24-06-1998@@@
-
 # MEDIDA PROVISÓRIA Nº 1.670, DE 24 DE JUNHO DE 1998
 
 Dispõe sobre a fiscalização das atividades relativas ao abastecimento nacional de combustíveis, de que trata a Lei nº 9.478, de 6 de agosto de 1997, estabelece sanções administrativas e dá outras providências.

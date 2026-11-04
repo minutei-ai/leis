@@ -1,5 +1,3 @@
-###DEC-064607-0-000-29-05-1969@@@
-
 DECRETO Nº 64.607, DE 29 DE MAIO DE 1969.
 
 Decreta a intervenção federal no Município de Itu, no Estado de São Paulo e dá outras providências.

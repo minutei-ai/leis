@@ -1,5 +1,3 @@
-###DEC-055411-0-000-31-12-1964@@@
-
 DECRETO Nº 55.411, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza a Sociedade Brasileira de Imóveis Ltda. a lavrar minério de ferro, no município de Corumbá, Estado de Mato Grosso.

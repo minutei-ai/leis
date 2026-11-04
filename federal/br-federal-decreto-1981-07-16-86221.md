@@ -1,5 +1,3 @@
-###DEC-086221-0-000-16-07-1981@@@
-
 Decreto nº 86.221, de 16 de julho de 1981.
 
 Considera privativo do posto de Oficial-General o cargo de Chefe de Gabinete do Ministro de Estado Chefe do Estado-Maior das Forças Armadas.

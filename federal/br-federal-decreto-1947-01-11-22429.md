@@ -1,30 +1,28 @@
-###DEC-022429-0-000-11-01-1947@@@
+**DECRETO Nº 22.429, DE 11 DE JANEIRO DE 1947.**
 
-<strong>DECRETO Nº 22.429, DE 11 DE JANEIRO DE 1947.</strong>
+***Aprova o Regulamento do Estado Maior da Aeronáutica***
 
-<em><strong>Aprova o Regulamento do Estado Maior da Aeronáutica</strong></em>
+**OPRESIDENTE DA REPÚBLICA,** usando da atribuição que lhe confere o artigo 87, item, da Constituição,
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA,</strong> usando da atribuição que lhe confere o artigo 87, item, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1.º Fica aprovado o Regulamento do Estado Maior da Aeronáutica que, com êste baixa, assinado pelo Ministro de Estado dos Negócios da Aeronáutica, para execução dos Decreto-lei ns. 9.888 e 9.889 de 16 de setembro de 1946 na parte relativa a Estado Maior.
 
-<strong>Art</strong>. 1.º Fica aprovado o Regulamento do Estado Maior da Aeronáutica que, com êste baixa, assinado pelo Ministro de Estado dos Negócios da Aeronáutica, para execução dos Decreto-lei ns. 9.888 e 9.889 de 16 de setembro de 1946 na parte relativa a Estado Maior.
+**Art**. 2.º O aludido Regulamento entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2.º O aludido Regulamento entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3.º Revogam-se as disposições em contrário.
+**Art**. 3.º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 11 de janeiro de 1947, 126.º da Independência e 59.º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Armando Trompowsky
 
-<strong>REGULAMENTO DO ESTADO MAIOR DA AERONÁUTICA</strong>
+**REGULAMENTO DO ESTADO MAIOR DA AERONÁUTICA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>MISSÃO E SUBORDINAÇÃO</em>
+*MISSÃO E SUBORDINAÇÃO*
 
 1\. O Estado Maior é no Ministério da Aeronáutica o órgão de concepção da guerra e da preparação logística e tática da F. A. B. para operações isoladas e em cooperação com as demais fôrças armadas da Nação.
 
@@ -32,39 +30,39 @@ Parágrafo único. Compete ao Estado Maior da Aeronáutica:
 
 a) coordenar e orintar a ação dos Comandos Territoriais, das diretorias e chefias de serviços em assuntos relacionados com a F. A. B.
 
-b<em>)</em> coligir os dadas necessários so estabelecimento dos planos de operações estudando e decidindo as questões relariva a esse planos de cuja elaboração final é encarregado;
+b*)* coligir os dadas necessários so estabelecimento dos planos de operações estudando e decidindo as questões relariva a esse planos de cuja elaboração final é encarregado;
 
-c<em>)</em> estudar a defesa anti-aérea terrtorial e defesa do litoral em cooperação com os demais Estados-Maiores e com os órgãos encarregados da defesa passiva;
+c*)* estudar a defesa anti-aérea terrtorial e defesa do litoral em cooperação com os demais Estados-Maiores e com os órgãos encarregados da defesa passiva;
 
-d<em>)</em> estudar a organização da F. A. B. e propor as modificações julgadas convenientes;
+d*)* estudar a organização da F. A. B. e propor as modificações julgadas convenientes;
 
-e<em>)</em> orientar todos os ramos do ensino, instrução e adextramento dos quadros e da tropa em serviço ativo e de suas reservas, tendo em vista:
+e*)* orientar todos os ramos do ensino, instrução e adextramento dos quadros e da tropa em serviço ativo e de suas reservas, tendo em vista:
 
 1\)      a fiel observância dos princípios sôbre os quais se baseia a instrução dos quadros e da tropa, assim como o estabelecimento de novos princípios orientando a ação dos comandos.
 
 2\)      Organizar manobras aéreas e colaborar na organização de manobras combinadas com as demais Fôrças Armadas.
 
-f<em>)</em> elaborar e atualizar as instruções, regulamentos e outros documentos correlatos necessário à F. A. B., e opinar mediante exame final naqueles que fôrem  organizados nas diretorias, tudo visando garantir uma completa unidade de doutrina e perfeita disciplina intelectual;
+f*)* elaborar e atualizar as instruções, regulamentos e outros documentos correlatos necessário à F. A. B., e opinar mediante exame final naqueles que fôrem  organizados nas diretorias, tudo visando garantir uma completa unidade de doutrina e perfeita disciplina intelectual;
 
-g<em>)</em> estabelecer as características de emprêgo do material aéreo, terrestre, bélico e de comunicações, orientar o estudo, fabricação e as experiências respectivas pelos órgãos competentes, indicar a procedência e aquisição; estabelecer as dotações de material em geral;
+g*)* estabelecer as características de emprêgo do material aéreo, terrestre, bélico e de comunicações, orientar o estudo, fabricação e as experiências respectivas pelos órgãos competentes, indicar a procedência e aquisição; estabelecer as dotações de material em geral;
 
-h<em>)</em> estudar e preparar a mobilização do pessoal, do material e da indústria;
+h*)* estudar e preparar a mobilização do pessoal, do material e da indústria;
 
-i<em>)</em> estudar os problemas relativos ao estabelecimento da ploítica aérea;
+i*)* estudar os problemas relativos ao estabelecimento da ploítica aérea;
 
-j<em>)</em> fornecer aos órgãos de direção política e ao E. M. G. Ms. as informações por êles solicitadas e preparar os documentos decorrentes da decisões encaminhadas por aqueles órgãos relativas à esfera de ação da Aeronáutica;
+j*)* fornecer aos órgãos de direção política e ao E. M. G. Ms. as informações por êles solicitadas e preparar os documentos decorrentes da decisões encaminhadas por aqueles órgãos relativas à esfera de ação da Aeronáutica;
 
-l<em>)</em> fiscalizar a execução das ordens, das instruções, dos manuais e regulamentos, inspecionando as unidades e serviços da F. A. B., propondo as modificações convenientes;
+l*)* fiscalizar a execução das ordens, das instruções, dos manuais e regulamentos, inspecionando as unidades e serviços da F. A. B., propondo as modificações convenientes;
 
-m<em>)</em> fazer publicar normas, manuais, regulamentos e demais documentos necessários à F. A. B..
+m*)* fazer publicar normas, manuais, regulamentos e demais documentos necessários à F. A. B..
 
-n<em>)</em> manter um Biblioteca relativa a assuntos gerais e técnicos de interêsse da Aeronáutica.
+n*)* manter um Biblioteca relativa a assuntos gerais e técnicos de interêsse da Aeronáutica.
 
 2\. O E. M. Aer. é o órgão incumbido de auxiliar o Ministro da Aeronáutica no exercício de suas funções de Comando, preparando as suas decisões e elaborando as ordens e instruções resultantes dessas condições.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>ORGANIZAÇÃO E DISTRIBUIÇÕES</em>
+*ORGANIZAÇÃO E DISTRIBUIÇÕES*
 
 3\. O E. M. Aèr. para realiar os seus objetivos terá a seguinte organização:
 
@@ -78,7 +76,7 @@ n<em>)</em> manter um Biblioteca relativa a assuntos gerais e técnicos de inter
 
   \- 4 Seções
 
-<em>Chefia</em>
+*Chefia*
 
 4\. O Chefe do E. M. Aér., executivo das decisões do Ministro da Aeronáutica em relação à F. A. B., é responsável dos serviços e do pessoal do Estado Maior.
 
@@ -86,55 +84,55 @@ n<em>)</em> manter um Biblioteca relativa a assuntos gerais e técnicos de inter
 
 6\. Ao Chefe so Estado Maior da Aeronáutica compete:
 
-<em>a)</em>      submeter à aprovação do Ministro os planos e programas elaborados pelo Estado Maior;
+*a)*      submeter à aprovação do Ministro os planos e programas elaborados pelo Estado Maior;
 
-<em>b)</em>      expedir, de acôrdo com as diretrizes necessárias à boa execução dos planos e programas aprovados;
+*b)*      expedir, de acôrdo com as diretrizes necessárias à boa execução dos planos e programas aprovados;
 
-<em>c)</em>       inspecionar pessoalmente ou fazer inspecionar unidades, escolas, estabelecimentos e os serviços na F. A. B.;
+*c)*       inspecionar pessoalmente ou fazer inspecionar unidades, escolas, estabelecimentos e os serviços na F. A. B.;
 
-<em>d)</em>      dirigir ou supervisionar as manobras e exercícios da F. A. B. organizados pelo E. M. Aér.;
+*d)*      dirigir ou supervisionar as manobras e exercícios da F. A. B. organizados pelo E. M. Aér.;
 
-<em>e)</em>      manter o Ministro informado sôbre as condições e as necessidades da F. A. B;
+*e)*      manter o Ministro informado sôbre as condições e as necessidades da F. A. B;
 
-<em>f)</em>        apresentar anualmente sugestões sôbre a fização de efetivos para a F. A. B.;
+*f)*        apresentar anualmente sugestões sôbre a fização de efetivos para a F. A. B.;
 
-<em>g)</em>      manter ligações estreitas com os demais EE. MM.;
+*g)*      manter ligações estreitas com os demais EE. MM.;
 
-<em>h)</em>      informar-se da situação do País no que possa interessar à segurança nacional;
+*h)*      informar-se da situação do País no que possa interessar à segurança nacional;
 
-<em>i)</em>         propôr a organização da F. A. B. e o estacionamento das unidades aéreas pelo território nacional;
+*i)*         propôr a organização da F. A. B. e o estacionamento das unidades aéreas pelo território nacional;
 
-<em>j)</em>         propôr ao Ministério a distribuição de material aéreo pelas unidades aéreas;
+*j)*         propôr ao Ministério a distribuição de material aéreo pelas unidades aéreas;
 
-l<em>)</em> zelar para que seja mantida na F. A. B. a necessária unidade de doutrina;
+l*)* zelar para que seja mantida na F. A. B. a necessária unidade de doutrina;
 
-<em>m)</em>     orientar as Diretorias, por meio de diretrizes e instruções, tendo em vista executar as decisões ministeriais em tudo que se refere à organização, mobilização, instrução e aparelhamento técnico da Aeronáutica;
+*m)*     orientar as Diretorias, por meio de diretrizes e instruções, tendo em vista executar as decisões ministeriais em tudo que se refere à organização, mobilização, instrução e aparelhamento técnico da Aeronáutica;
 
-<em>n)</em>       opinar tendo em vista a unidade de doutrina, sôbre todos os regulamentos, manuais e instruções elaboradas nas Diretorias.
+*n)*       opinar tendo em vista a unidade de doutrina, sôbre todos os regulamentos, manuais e instruções elaboradas nas Diretorias.
 
-<em>o)</em>       estabelecer anualmente diretrizes para adextramento da F. A. B.;
+*o)*       estabelecer anualmente diretrizes para adextramento da F. A. B.;
 
-<em>p)</em>       promover reunião co Conselho de Estado Maior, pelo menos uma vez por mês, tendo em vista discutir em conjunto a situação da F. A. B. e estabelecer as diretrizes a serem seguidas;
+*p)*       promover reunião co Conselho de Estado Maior, pelo menos uma vez por mês, tendo em vista discutir em conjunto a situação da F. A. B. e estabelecer as diretrizes a serem seguidas;
 
-<em>q)</em>       orientar e fiscalizar os cursos da Escola de Comando e Estado Maior da Aeronáutica;
+*q)*       orientar e fiscalizar os cursos da Escola de Comando e Estado Maior da Aeronáutica;
 
-<em>r)</em>        baixar normas, ordens e instruções que orientem o Comando de Transportes Aéreos;
+*r)*        baixar normas, ordens e instruções que orientem o Comando de Transportes Aéreos;
 
-<em>s)</em>       orientar e coordenar os trabalhos de Inspetor, dos Sub-Chefes e das Seções do E. M.;
+*s)*       orientar e coordenar os trabalhos de Inspetor, dos Sub-Chefes e das Seções do E. M.;
 
-<em>t)</em>         propôr os Oficiais julgados em condições de exercer as funções de adidos aeronáuticos;
+*t)*         propôr os Oficiais julgados em condições de exercer as funções de adidos aeronáuticos;
 
-<em>u)</em>       propôr a designação dos Oficiais e do pessoal subalterno ou civil necessário ao serviço do E. M. Aér.;
+*u)*       propôr a designação dos Oficiais e do pessoal subalterno ou civil necessário ao serviço do E. M. Aér.;
 
-<em>v)</em>       distribuir os Oficiais pelos diferentes órgãos do Estado Maior;
+*v)*       distribuir os Oficiais pelos diferentes órgãos do Estado Maior;
 
-<em>x)</em> corresponder-se diretamente com as autoridades civis e militares sôbre todos os assuntos que interessem ao  E. M. execeto quanfo fôr da ética a intervenção do Ministro.
+*x)* corresponder-se diretamente com as autoridades civis e militares sôbre todos os assuntos que interessem ao  E. M. execeto quanfo fôr da ética a intervenção do Ministro.
 
-<em>z)</em>        apresentar ao Ministro, até 1.º de fevereiro, um rerlatório sucinto, compreendendo a estatística das atividades da F. A. B. no ano anterior e uma crítica contendo sugestões, visando sanar as deficiências encontradas.
+*z)*        apresentar ao Ministro, até 1.º de fevereiro, um rerlatório sucinto, compreendendo a estatística das atividades da F. A. B. no ano anterior e uma crítica contendo sugestões, visando sanar as deficiências encontradas.
 
 Parágrafo único. O Chefe do E. M. Aér. Poderá atribuir aos Sub-Chefes, autoridade bastante para resolver assuntos de serviço corrente desde que não envolvam questões de doutrina ainda não firmada, nem se dirijam a autoridade superior a si mesmos.
 
-<em>Inspetoria</em>
+*Inspetoria*
 
 7\. A Inspetoria é o órgão no E. M. encarregado de inspecionar periòdicamente os corpos de tropa, as escolas, os estabelecimentos, os serviços e as unidades da F. A. B., tendo em vista difundir e aconselhar métodos de trabalho, verificar a fiel execução dos regulamentos, instruçõpes e ordens em vigor e propôr as modificações que forem julgadas convenientes.
 
@@ -154,21 +152,21 @@ Parágrafo único. O Chefe do E. M. Aér. Poderá atribuir aos Sub-Chefes, autor
 
 10\. Ao Inspetor Geral compete:
 
-<em>a)</em>      planejar e dirigir as atividades da Inspetoria;
+*a)*      planejar e dirigir as atividades da Inspetoria;
 
-<em>b)</em>      sugerir as modificações nos regulamentos, instruções, ordens e normas de serviço que a análise dos relatórios e as inspeções indicarem como indispensáveis;
+*b)*      sugerir as modificações nos regulamentos, instruções, ordens e normas de serviço que a análise dos relatórios e as inspeções indicarem como indispensáveis;
 
-<em>c)</em>       formular padrões, normas e planos de inspeção;
+*c)*       formular padrões, normas e planos de inspeção;
 
-<em>d)</em>      realizar inspeções periódicas e especiais quando julgar necessário;
+*d)*      realizar inspeções periódicas e especiais quando julgar necessário;
 
-<em>e)</em>      indicar ao Chefe do E. M. os ofociais e funcionários que julgar necessário acompanhá-lo nas inspeções, pertencentes ou não ao E. M.;
+*e)*      indicar ao Chefe do E. M. os ofociais e funcionários que julgar necessário acompanhá-lo nas inspeções, pertencentes ou não ao E. M.;
 
-<em>f)</em>        promover e orientar as investigações julgadas necessárias, tendo em vista ema melhor eficiência nas atividades da F. A. B.;
+*f)*        promover e orientar as investigações julgadas necessárias, tendo em vista ema melhor eficiência nas atividades da F. A. B.;
 
-<em>g)</em>      auscultar as repercuções das ordens das autoridades competentes, sugerindo os esclarecimentos necessários a sua boa compreesão e as medidas que visem melhorar s eficiência, a justiça e a disciplina na F. A. B.;3
+*g)*      auscultar as repercuções das ordens das autoridades competentes, sugerindo os esclarecimentos necessários a sua boa compreesão e as medidas que visem melhorar s eficiência, a justiça e a disciplina na F. A. B.;3
 
-<em>h)</em>      sugerir modificações de comando e substituição ou permuta de Oficiais e pessoal em geral bem como providências coercitivas, tendo em vista uma melhor eficiência das diferentes atividades da F. A. B., justificando as medidas que propuser.
+*h)*      sugerir modificações de comando e substituição ou permuta de Oficiais e pessoal em geral bem como providências coercitivas, tendo em vista uma melhor eficiência das diferentes atividades da F. A. B., justificando as medidas que propuser.
 
 11\. Ao Sub-Inspetor compete:
 
@@ -218,7 +216,7 @@ Parágrafo único. O Chefe do E. M. Aér. Poderá atribuir aos Sub-Chefes, autor
 
  \- acompanhar o Inspetor nas inspeções relacionadas com assuntos da sua Divisão e quando assim fôr julgado conveniente.
 
-<em>Gabinete</em>
+*Gabinete*
 
 15\. São atribuições do Gabinete:
 
@@ -288,7 +286,7 @@ O Gabinete do desenho atende aos serviços solicitados pelos diferentes órgãos
 
 A Biblioteca do E. M., recebe e cataloga livros , filmes, discos e documentos necessários aos trabalhos do E. M.
 
-<em>Sub-Chefes</em>
+*Sub-Chefes*
 
 21\. As Sub-Chefias trabalham diretamente ligadas ao Chefe do E. M., coordenando, em seu nome, os serviços das seções como se segue:
 
@@ -316,7 +314,7 @@ Biblioteca da Aeronáutica.
 
  \- apresentar ao Chefe até 10 de janeiro os dados relativos aos trabalhos e estudos realozados pelos órgãos da Sub-Chefia no ano anterior, para confecção do relatório do estado Maior.
 
-<em>Seções do Estado Maior</em>
+*Seções do Estado Maior*
 
 23\. As seções do Estado Maior compreendem:
 
@@ -348,7 +346,7 @@ Biblioteca da Aeronáutica.
 
 1.ª Sub-Seção – Efetivos – 1-A-1
 
-<em>a)</em> Estuda e propõe:
+*a)* Estuda e propõe:
 
  \- a organização dos efetivos das unidades existentes na F. A. B. ou de outras que venham a ser criadas, ouvidas as Seções interessadas;
 
@@ -358,11 +356,11 @@ Biblioteca da Aeronáutica.
 
  \- a organização territorial da F. A. B.;
 
-<em>b)</em> na sôbre os regulamentos elaborados por outros órgãos, nos pontos que dizem respeito à organização e pessoal.
+*b)* na sôbre os regulamentos elaborados por outros órgãos, nos pontos que dizem respeito à organização e pessoal.
 
 2.ª Sub-Seção – Mobolização e Reservas – 2-A-1
 
-<em>a)</em>      Estuda e cogita:
+*a)*      Estuda e cogita:
 
  \- dos assuntos referentes ao serviço militar na F. A. B. de acôrdo com a Lei do Serviço Militar;
 
@@ -374,13 +372,13 @@ Biblioteca da Aeronáutica.
 
  \- da organização da estatística da Seção;
 
-<em>b)</em>      Opina sôbre os assuntos relativos a justiça.
+*b)*      Opina sôbre os assuntos relativos a justiça.
 
 2.ª Seção – Informações – A-2
 
 1.ª Sub-Seção – Informações – 1-A-2
 
-<em>a)</em>      Cogita e prepara:
+*a)*      Cogita e prepara:
 
  \- a busca de informações sôbre a situação política e econômica e a doutrina aérea nos países estrangeiros;
 
@@ -392,7 +390,7 @@ Biblioteca da Aeronáutica.
 
  \- os quadros comparativos das demais Fôrças Aéreas.
 
-<em>b)</em> Ficha, classifica e arquiva:
+*b)* Ficha, classifica e arquiva:
 
  \- as informações através dos adidos e outra fontes;
 
@@ -552,9 +550,9 @@ o cadastro das caracteríosticas técnicas do material, de forma a estar em cond
 
 um cadastro de todos os campos de pouso existentes no Brasil, com a discriminação de instalações, facilidades rádio, capacidade, etc.
 
-<strong>CAPITULO III</strong>
+**CAPITULO III**
 
-<strong>PESSOAL</strong>
+**PESSOAL**
 
 27\. O cargo de Chafe do E.M. é exercido por Oficial general do Quadro de Oficiais Aviadores nos têrmos do art. 4°, § 4º, do Decreto-lei n° 9.889 e art. 5°, § 1 °, do Decreto-lei n° 9.888
 
@@ -580,9 +578,9 @@ Parágrafo único. O Inspetor geral disporá de um Tem. Cel. Av. assistente.
 
 36\. O Chefe da F.I. será Primeiro Tenente Intendete de Aeronáutica.
 
-<strong>CAPÍTILO IV</strong>
+**CAPÍTILO IV**
 
-<strong>DISPOSIÇÕES GERAIS</strong>
+**DISPOSIÇÕES GERAIS**
 
 37\. As Prescrições relativas ao funcionamento do E.M. constarão do Regulamento para o Serviço de E.M..
 
@@ -602,12 +600,12 @@ Parágrafo único. O Inspetor geral disporá de um Tem. Cel. Av. assistente.
 
 § 6° Das reuniões do Conselho será lavrada pelo Chefe do gabinete uma ata em livro próprio.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<strong>DISPOSIÇÕES TRANSITÓRIAS</strong>
+**DISPOSIÇÕES TRANSITÓRIAS**
 
 40\. Enquanto o número de Oficiais com curso de Estado Maior de Aeronáutica fôr insuficiente para as necessidades do E.M. da Aeronáutica, poderão ser utilizados nestas funções, Oficiais de reconhecida capacidade profissional.
 
 Rio de janeiro, 11 de janeiro de 1947. –
 
-<strong>ARMANDO TROMPOWSKY</strong>
+**ARMANDO TROMPOWSKY**

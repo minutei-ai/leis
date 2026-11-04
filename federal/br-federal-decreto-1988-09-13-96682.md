@@ -1,5 +1,3 @@
-###DEC-096682-0-000-13-09-1988@@@
-
 DECRETO N° 96.682, DE 13 DE SETEMBRO DE 1988
 
 Outorga concessão à TV Mar Ltda. pa­ra explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Santos, Estado de São Paulo.

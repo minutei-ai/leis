@@ -1,5 +1,3 @@
-###DEC-073174-0-000-20-11-1973@@@
-
 DECRETO Nº 73.174 - DE 20 DE NOVEMBRO DE 1973
 
 Extingue, no Ministério da Aeronáutica, as Esquadrilhas Aeroterrestres de Salvamento, cria o Esquadrão Aeroterrestre de Salvamento e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-007726-0-000-11-07-1945@@@
-
 DECRETO-LEI N. 7.726 – DE 11 DE JULHO DE 1945
 
 Altera, sem aumento de despesa, a carreira de Dactiloscopista do Quadro Permanente do Ministério da Justiça e Negócios Interiores.

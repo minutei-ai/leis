@@ -1,7 +1,3 @@
-1
-
-###DEC-097904-0-000-04-07-1989@@@
-
 DECRETO Nº 97.904, DE 4 DE JULHO DE 1989
 
 Autoriza o funcionamento do curso de Fonoaudiologia da Faculdade de Fonoaudiologia Tereza D’Ávila, em Lorena, São Paulo.

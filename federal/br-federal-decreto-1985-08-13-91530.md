@@ -1,5 +1,3 @@
-###DEC-091530-0-000-13-08-1985@@@
-
 Decreto nº 91.530, de 13 de agosto de 1985.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação transformadora de distribuição Gopouva da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-051347-0-000-16-11-1961@@@
-
 DECRETO Nº 51.347, DE 16 DE NOVEMBRO DE 1961.
 
 Institui Grupo de Trabalho para assessorar o Poder Executivo no estudo e solução dos recursos de que trata ao art. 48, parágrafo único, da Lei nº 3.780~, de 12 de julho de 1960.

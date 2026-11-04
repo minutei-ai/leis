@@ -1,5 +1,3 @@
-###DEC-055107-0-000-02-12-1964@@@
-
 Decreto nº 55.107, de 2 de dezembro de 1964.
 
 Autoriza Plumbum S.A. Indústria Brasileira de Mineração a lavrar minério de chumbo, nos municípios de Adrianópolis e Cêrro Azul, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-003323-0-000-30-12-1999@@@
-
 DECRETO Nº 3.323, DE 30 DE DEZEMBRO DE 1999.
 
 Promulga o Acordo de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo da República da Costa Rica, celebrado em Brasília, em 22 de setembro de 1997.
@@ -164,4 +162,20 @@ Artigo XII
 
 Feito em Brasília, em 22 de setembro de 1997, em dois exemplares originais, nos idiomas português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:223.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:185.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República da Costa Rica</span></p></td></tr><tr><td style="width:223.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Sebastião do Rego Barros</span><span style="font-family:Arial; font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial; font-size:10pt">Ministro, interino, das Relações Exteriores</span></p></td><td style="width:185.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Rodrigo Carreras</span><span style="font-family:Arial; font-size:10pt; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial; font-size:10pt">Ministro, interino das Relações Exteriores</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:223.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil
+
+</td><td style="width:185.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da República da Costa Rica
+
+</td></tr><tr><td style="width:223.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Sebastião do Rego Barros&nbsp; Ministro, interino, das Relações Exteriores
+
+</td><td style="width:185.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Rodrigo Carreras&nbsp; Ministro, interino das Relações Exteriores
+
+</td></tr></tbody></table>

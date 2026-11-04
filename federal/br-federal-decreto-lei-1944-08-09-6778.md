@@ -1,5 +1,3 @@
-###DEL-006778-0-000-09-08-1944@@@
-
 DECRETO-LEI N. 6.778 – DE 9 DE AGÔSTO DE 1944
 
 Modifica a estrutura geral da organização dos serviços da Secretaria Geral de Administração e dá outras providências

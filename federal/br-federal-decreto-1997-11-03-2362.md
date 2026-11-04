@@ -1,5 +1,3 @@
-###DEC-002362-0-000-03-11-1997@@@
-
 DECRETO Nº 2.362, DE 3 DE NOVEMBRO DE 1997
 
 Prorroga prazo de remanejamento de cargos.

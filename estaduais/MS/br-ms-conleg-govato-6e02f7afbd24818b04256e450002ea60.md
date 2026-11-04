@@ -10,7 +10,6 @@ coletado_em: "2026-10-22T15:45:06.000Z"
 sha256_fonte: "8289e75672dfff6bef70781a5d5e93249b81c07ce14a3ae6287461865cfbd6f9"
 sha256_markdown: "e4c0a76b8c5a8e72661a0d1540c1f705d952ddede4dfee44cc2bbfd7ea25575a"
 ---
-
 # LEI Nº 70, DE 7 DE MAIO DE 1980.
 
 ESTADO DE MATO GROSSO DO SUL
@@ -21,25 +20,34 @@ Declara de Utilidade Pública a Associação de Pais e Amigos dos Excepcionais A
 
 Publicada no Diário Oficial nº 334, de 8 de maio de 1980, página 7.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL Faço saber que a<br>
-Assembléia Legislativa do Estado decreta e eu sanciono a seguinte<br>
-Lei:<br>
-<br>
-Art. 1º - Fica declarada de Utilidade Pública, para todos os<br>
-efeitos legais, a Associação de Pais e Amigos dos Excepcionais-APAE<br>
-entidade de caráter filantrópico e assistencial, sem fins<br>
-lucrativos, com sede e foro na cidade de Campo Grande.<br>
-<br>
-Art. 2º - Esta Lei entrará em vigor na data de sua publicação,<br>
-revogadas as disposições em contrário.<br>
-<br>
-Campo Grande, 07 de maio de 1980.<br>
-<br>
-MARCELO MIRANDA SOARES<br>
-Governador<br>
-<br>
-JOÃO LEITE SCHIMIDT<br>
-Secretário de Estado para Assuntos da Casa Civil<br>
-<br>
-FLÁVIO BENJAMIN CORREA DE ANDRADE<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL Faço saber que a
+
+Assembléia Legislativa do Estado decreta e eu sanciono a seguinte
+
+Lei:
+
+Art. 1º - Fica declarada de Utilidade Pública, para todos os
+
+efeitos legais, a Associação de Pais e Amigos dos Excepcionais-APAE
+
+entidade de caráter filantrópico e assistencial, sem fins
+
+lucrativos, com sede e foro na cidade de Campo Grande.
+
+Art. 2º - Esta Lei entrará em vigor na data de sua publicação,
+
+revogadas as disposições em contrário.
+
+Campo Grande, 07 de maio de 1980.
+
+MARCELO MIRANDA SOARES
+
+Governador
+
+JOÃO LEITE SCHIMIDT
+
+Secretário de Estado para Assuntos da Casa Civil
+
+FLÁVIO BENJAMIN CORREA DE ANDRADE
+
 Secretário de Estado de Justiça

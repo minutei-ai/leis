@@ -1,5 +1,3 @@
-###DEC-074864-0-000-11-11-1974@@@
-
 DECRETO Nº 74864, DE 11 DE NOVEMBRO DE 1974.
 
 Declara de utilidade pública e interesse social, área de terra abrangida pelo Projeto de Irrigação de Maniçoba, no Município de Juazeiro, Estado da Bahia.

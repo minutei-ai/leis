@@ -1,5 +1,3 @@
-###DEC-045040-0-000-06-12-1958@@@
-
 decreto nº 45.040, de 6 de dezembro de 1958.
 
 Aprova o Regulamento da Secretaria Geral do Conselho de Segurança Nacional.

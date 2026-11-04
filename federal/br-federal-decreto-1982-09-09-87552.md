@@ -1,5 +1,3 @@
-###DEC-087552-0-000-09-09-1982@@@
-
 DECRETO Nº 87.552, DE 09 DE SETEMBRO DE 1982.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Ipanema da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

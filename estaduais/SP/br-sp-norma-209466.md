@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209466)<br>
-
 # DECRETO N° 68.535, DE 17 DE MAIO DE 2024
 
 ### _Ratifica convênio celebrado nos termos da Lei Complementar federal n° 24, de 7 de janeiro de 1975._

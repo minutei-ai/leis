@@ -1,5 +1,3 @@
-###DEC-047473-0-000-22-12-1959@@@
-
 DECRETO Nº 47.473, DE 22 DE DEZEMBRO DE 1959.
 
 Institui o Plano Nacional da Indústria de Tratores Agrícolas.

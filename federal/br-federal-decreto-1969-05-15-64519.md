@@ -1,5 +1,3 @@
-###DEC-064519-0-000-15-05-1969@@@
-
 decreto nº 64.519, de 15 de maio de 1969.
 
 Autoriza o funcionamento de curso de Auxiliar de Enfermagem.

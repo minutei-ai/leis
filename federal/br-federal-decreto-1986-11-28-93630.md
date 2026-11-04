@@ -1,5 +1,3 @@
-###DEC-093630-0-000-28-11-1986@@@
-
 DECRETO Nº 93.630, DE 28 DE NOVEMBRO DE 1986.
 
 Altera dispositivos do Decreto nº 88.351, de 1º de junho de 1983, modificado pelo Decreto nº 91.305, de 3 de junho de 1985, que regulamentou as leis que dispõem sobre a Política Nacional do Meio Ambiente e a criação de Estações Ecológicas e Áreas de Proteção Ambiental, e dá outras providências.

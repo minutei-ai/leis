@@ -1,5 +1,3 @@
-###MPV-001736-0-031-14-12-1998@@@
-
 medida provisória nº 1.736-31, de 14 de dezembro de 1998.
 
 Dá nova redação aos arts. 3º, 16 e 44 da Lei nº 4.771, de 15 de setembro de 1965, e dispõe sobre a proibição do incremento da conversão de áreas florestais em áreas agrícolas na região Norte e na parte Norte da região Centro-Oeste, e dá outras providências.

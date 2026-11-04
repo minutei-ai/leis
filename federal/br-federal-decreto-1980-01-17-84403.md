@@ -1,5 +1,3 @@
-###DEC-084403-0-000-17-01-1980@@@
-
 Decreto nº 84.403, de 17 de janeiro de 1980.
 
 Introduz alterações no Decreto nº 81.315, de 8 de fevereiro de 1978, que regulamenta a Ascensão Funcional.

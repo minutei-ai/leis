@@ -12,10 +12,12 @@ Art. 3º Ao Prefeito e aos servidores públicos municipais em geral compete cump
 
 Art. 4º Toda pessoa física ou jurídica ora instituídas, fica obrigada a facilitar, por todos os meios a fiscalização municipal no desempenho de suas funções legais.
 
-TÍTULO I<br>
+TÍTULO I
+
 DA HIGIENE PÚBLICA
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 5º Compete á Prefeitura zelar pela higiene pública, visando melhoria do ambiente, a saúde e o bem estar da população, favoráveis ao seu desenvolvimento social e ao aumento da expectativa de vida.
@@ -62,7 +64,8 @@ Art. 7º - Em cada inspeção em que for verificada irregularidade, o servidor p
 
 Art. 8º Quando se trata de infração a qualquer dispositivo deste código, o servidor público municipal competente deverá lavrar o respectivo auto de infração, que fundamentará o processo administrativo de contravenção.
 
-CAPITULO II<br>
+CAPITULO II
+
 DA HIGIÊNE DOS PASSEIOS E LOGRADOUROS PÚBLICOS
 
 Art. 9º É dever da população cooperar com a Prefeitura na conservação e limpeza da cidade.
@@ -129,20 +132,24 @@ Art. 21 Não é lícito a quem quer que seja, sob quaisquer pretextos, impedir o
 
 Art. 22 É proibido comprometer, por qualquer forma a limpeza das águas destinadas ao consumo público ou particular.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA HIGIENE DOS EDIFÍCIOS INDIVIDUAIS E COLETIVOS
 
 Art. 23 As residências ou os dormitórios não poderão ter comunicação direta com estabelecimentos comerciais ou industriais de qualquer natureza, a não ser por intermédio de antecâmara.
 
 Art. 24 Os proprietários ou inquilinos, são obrigados a conservar em perfeito estado de limpeza e asseio as edificações que ocuparem, bem como as áreas internas, pátios e quintais.
 
-§ 1º - Não é permitida a conservação de frutas deterioradas e nem de folhas no solo das áreas internas, pátios e quintais.<br>
+§ 1º - Não é permitida a conservação de frutas deterioradas e nem de folhas no solo das áreas internas, pátios e quintais.
+
 (Redação alterada pela Lei Ordinária nº 1.190, de 23 de abril de 1993).
 
-§ 2º - Toda habitação coletiva com seis (06) unidades habitacionais ou mais deverá ter na sua parte externa, um “container” com capacidade para 1,20m³ em estrutura de chapa de 2,25mm, rodas deslizantes e tampa dupla.<br>
+§ 2º - Toda habitação coletiva com seis (06) unidades habitacionais ou mais deverá ter na sua parte externa, um “container” com capacidade para 1,20m³ em estrutura de chapa de 2,25mm, rodas deslizantes e tampa dupla.
+
 (Redação alterada pela Lei Ordinária nº 1.190, de 23 de abril de 1993).
 
-§ 3º - Nos imóveis situados em vias asfaltadas os proprietários são obrigados a construir calçadas, nas dimensões determinadas pela Prefeitura, sob pena de multa, com valores fixados pela Prefeitura.<br>
+§ 3º - Nos imóveis situados em vias asfaltadas os proprietários são obrigados a construir calçadas, nas dimensões determinadas pela Prefeitura, sob pena de multa, com valores fixados pela Prefeitura.
+
 (Redação alterada pela Lei Ordinária nº 1.190, de 23 de abril de 1993).
 
 ~~§ 1º Não é permitido a conservação de frutas deterioradas, nem de folhas no solo das áreas internas, pátios e quintais;~~
@@ -221,7 +228,8 @@ VII - Que tiverem um número de moradores superior à sua capacidade normal;
 
 Parágrafo Único Para o fiel cumprimento dos requisitos higiênicos nas edificações a fiscalização municipal deverá proceder com equidade, conciliando tanto quanto possível o interesse particular com as necessidades públicas e fazendo as intimações necessárias para que sejam sanadas as faltas verificadas;
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DA HIGIENE NAS EDIFICAÇÕES DA ÁREA RURAL
 
 Art. 33 Nas edificações situadas na área rural deverão ser observadas as seguintes condições de higiene, além das estabelecidas no Código de Edificações deste Município:
@@ -242,7 +250,8 @@ Art. 34 Os estábulos, estrebarias, pocilgas, chiqueiros e currais, bem como as 
 
 Art. 35 É proibido a utilização de plantas venenosas em tapumes, cercas vivas e arborização de pátios.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DA HIGIENE DOS SANITÁRIOS
 
 Art. 36 Os sanitários não deverão ter comunicação direta com sala, refeitório, cozinha, dormitório, copa ou dispensa;
@@ -257,7 +266,8 @@ Art. 37 Em todo e qualquer caso, as bacias sanitárias deverão ser instaladas d
 
 § 2º As bacias sanitárias, bidês e mictórios em estado de permanente asseio e higiene devendo ser o lançamento de papéis servidos, em recipientes adequados;
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DA HIGIENE DOS POÇOS E FONTES PARA ABASTECIMENTO DE ÁGUA DOMICILIAR
 
 Art. 38 Na impossibilidade de suprimento de água a qualquer edifício, pelo sistema de abastecimento público, este poderá ser feito, por meio de poças, segundo as condições hidrológicas locais e a solicitação de consumo;
@@ -302,12 +312,14 @@ Art. 41 Na impossibilidade de suprimento de água do prédio por meio de poços 
 
 § 3º No caso de fontes de água, deverão ser adotadas com meios adequados de proteção contra a poluição provocada por despejos de qualquer natureza de águas de enxurradas ou por incursões de animais.
 
-§ 4º As fossas e os depósitos de lixos, estrumeiras, chiqueiros, estábulos, estrebarias, pocilgas e galinheiros, deverão ser localizados a jusante das fontes do abastecimento de agua domiciliar e de consumo humano, proibidas suas instalações próximas aos mananciais, devendo se localizarem deste, em qualquer caso, a uma distancia mínima de 30,00 (trinta metros).<br>
+§ 4º As fossas e os depósitos de lixos, estrumeiras, chiqueiros, estábulos, estrebarias, pocilgas e galinheiros, deverão ser localizados a jusante das fontes do abastecimento de agua domiciliar e de consumo humano, proibidas suas instalações próximas aos mananciais, devendo se localizarem deste, em qualquer caso, a uma distancia mínima de 30,00 (trinta metros).
+
 (Redação alterada pela Lei Municipal nº 2.232, de 28 de dezembro de 2001).
 
 ~~§ 4º As fossas e os depósitos de lixos, estrumeiras, chiqueiros, estábulos, estrebarias, pocilgas e galinheiros, deverão ser localizados a jusante das fontes do abastecimento de água domiciliar e de consumo humano, proibidas suas instalações próximas aos mananciais, devendo se localizar destes, em qualquer caso, a uma distância mínima de 30,00 m (trinta metros).~~
 
-§ 5º  - Os reservatórios de abastecimentos de agua potável ou particulares, deverão ser dotados, obrigatoriamente, de tampas ou coberturas hermeticamente fechadas de forma a evitar a contaminação ou poluição da água.<br>
+§ 5º  - Os reservatórios de abastecimentos de agua potável ou particulares, deverão ser dotados, obrigatoriamente, de tampas ou coberturas hermeticamente fechadas de forma a evitar a contaminação ou poluição da água.
+
 (Redação alterada pela Lei Municipal nº 2.232, de 28 de dezembro de 2001).
 
 ~~§ 5º Os reservatórios de abastecimento de água potável ou particular, deverão ser dotados, obrigatoriamente, de tampas ou coberturas hermeticamente fechadas de forma a evitar a contaminação ou poluição da água.~~
@@ -316,7 +328,8 @@ Art. 42 A adoção de água para uso doméstico provinda de poços ou fontes, n�
 
 Art. 43 Os poços ou fontes para abastecimento de água domiciliar deverão ser periodicamente limpos.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DA INSTALAÇÃO E DA LIMPEZA DE FOSSAS
 
 Art. 44 As instalações individuais ou coletivas fossas em geral só serão permitidas onde não existir rede de esgotos sanitários.
@@ -359,10 +372,12 @@ Art. 48 No planejamento de uma fossa deve ser dada toda atenção aos meios de e
 
 Art. 49 As fossas secas ou de sumidouros deverão ser limpas no mínimo de dois em dois anos.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DA HIGIENE DA ALIMENTAÇÃO PÚBLICA
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 50 Compete à Prefeitura exercer em colaboração com as autoridades sanitárias federais e estaduais competente ou por essas credenciais, a fiscalização sobre a produção e o comércio de gêneros alimentícios em geral.
@@ -429,7 +444,8 @@ Art. 53 Os gêneros alimentícios depositados ou em trânsito em armazéns de em
 
 § 3º As empresas e firmas que infligirem o disposto no presente artigo e seus parágrafos, serão passíveis de multa;
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DO PREPARO E EXPOSIÇÃO DOS GÊNEROS ALIMENTÍCIOS
 
 Art. 54 O maior asseio e limpeza deverão ser observados no fabrico, manipulação, preparo, conservação, acondicionamento, transporte e venda de gêneros alimentícios;
@@ -500,7 +516,8 @@ Art. 65 Toda água que tenha de servir na municipalização ou preparo de gêner
 
 Art. 66 Não será permitido o emprego de jornais ou quaisquer impressos e de papéis usados para embrulhar gêneros alimentícios desde que estes possam ficar em contato com aqueles, incorrendo o infrator em pena de multa.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DO TRANSPORTE DE GÊNEROS ALIMENTÍCIOS
 
 Art. 67 É proibido transportar ou deixar em caixas e cestos ou em qualquer veículo de condução para venda, bem como depósito de gêneros alimentícios, objetos estranhos ao comércio desse gênero, a exceção dos chamados veículos especiais permitidos em feiras livres.
@@ -523,7 +540,8 @@ Art. 73 Os caminhões empregados no transporte de ossos e cebos deverão ser int
 
 Parágrafo Único O caminhão que não preencher os requisitos fixados no presente artigo, fica sujeito à apreensão e recolhimento aos depósitos da Prefeitura, sem prejuízo de multa ao infrator.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DOS UTENSÍLIOS VASILHAMES E OUTROS MATERIAIS
 
 Art. 74 Os utensílios, aparelhos, vasilhames e outros materiais empregados no preparo, fabrico, manipulação, acondicionamento, conservação e vendas de gêneros alimentícios, deverão ser de materiais inócuos e mantidos em perfeito estado de limpeza e conservação;
@@ -560,7 +578,8 @@ Art. 77 É proibido o uso de produtos químicos destinados a facilitar a lavagem
 
 Art. 78 Os aparelhos, vasilhames e utensílios, destinados a serem empregados no preparo, manipulação, acondicionamento ou envazilhamento de gêneros alimentícios ou a serem utilizados para fins alimentares, deverão ter registros de sua aprovação pela repartição competente, afim de serem colocados a venda e usados, pelo público.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DA EMBALAGEM E ROTULAGEM
 
 Art. 79 Todo gênero alimentício exposto a venda, vasilhames ou invólucro de qualquer natureza deverá ser adequadamente rotulado ou designado, na conformidade na legislação pertinente.
@@ -579,7 +598,8 @@ Art. 80 É permitido expor a venda o mesmo produto sobre rotulagem e denominaç�
 
 Art. 81 Os que designarem ou rotularem produtos alimentícios em desacordo com as prescrições legais incidirão em pena de multa além de interdição do produto, sem prejuízo de outras penalidades cabíveis no caso.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 ESTABELECIMENTOS INDUSTRIAIS E COMERCIAIS DE GÊNEROS ALIMENTÍCIOS
 
 Art. 82 Nos edifícios de estabelecimentos comerciais industrias de gêneros alimentícios, além das prescrições do Código de Edificação deste Município que lhes são aplicáveis, deverão observar ainda as seguintes:
@@ -644,7 +664,8 @@ III - A manter o mais rigoroso asseio pessoal;
 
 Parágrafo Único O empregado ou operário que for punido repetidas vezes por falta de asseio pessoal ou por infrações a qualquer dos demais itens do presente artigo, não poderá continuar a lidar com gêneros alimentícios;
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 DOS SUPERMERCADOS
 
 Art. 95 Os supermercados deverão ser destinados especialmente à venda a varejo de gêneros alimentícios e subsidiamente, à venda de objetos de uso doméstico sob o sistema de auto-serviço;
@@ -661,7 +682,8 @@ Art. 95 Os supermercados deverão ser destinados especialmente à venda a varejo
 
 Art. 96 Nos supermercados, é proibida a existências de matadouros avícolas;
 
-SEÇÃO VIII<br>
+SEÇÃO VIII
+
 DAS CASAS DE CARNES E PEIXARIAS
 
 Art. 97 As casas de carnes e as peixarias, deverão atender os seguintes requisitos ou higiene:
@@ -718,7 +740,8 @@ II - Preparar ou fabricar conservas de peixes, mesmo nas suas dependências;
 
 § 2º As peixarias não poderão funcionar em dependências de fábricas de pescados;
 
-SEÇÃO IX<br>
+SEÇÃO IX
+
 DA HIGIENE DOS HOTEIS, PENSÕES, RESTAURANTES, CAFÉS E ESTABELECIMENTOS CONGÊNERES
 
 Art. 100 Nos hotéis, pensões, restaurantes, cafés e estabelecimentos congêneres deverão ser observados as seguintes prescrições de higiene:
@@ -745,7 +768,8 @@ Parágrafo Único Os estabelecimentos a que se refere o presente artigo são obr
 
 Art. 101 Nos hotéis e pensões é obrigatória a desinfecção dos colchões, travesseiros e cobertores.
 
-SEÇÃO X<br>
+SEÇÃO X
+
 DOS VENDEDORES AMBULANTES DE GÊNEROS ALIMENTÍCIOS
 
 Art. 102 Os vendedores ambulantes de gêneros alimentícios além das prescrições deste código que lhes são aplicáveis, deverão observar ainda as seguintes:
@@ -776,7 +800,8 @@ Art. 104 No comércio ambulante de pescado deverão ser observados as prescriç�
 
 Art. 105 As prescrições deste capítulo, referentes à higiene de alimentação pública, serão fiscalizadas pelo Município, no exercício de seu poder de polícia, cabendo-lhe representar junto ao Órgão competente da União dos Estados nos casos em que houver necessidade;
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 DA HIGIENE NOS ESTABELECIMENTOS COMERCIAIS INDUSTRIAIS E PRESTADORES DE SERVIÇOS EM GERAL
 
 Art. 106 Para ser concedida licença de funcionamento pela prefeitura o edifício e as instalações de qualquer estabelecimento comercial e industrial deverão ser previamente vistoriados pelo órgão competente da Prefeitura, em particular a respeito das condições de higiene e saúde;
@@ -801,7 +826,8 @@ Art. 112 Os responsáveis pelos estabelecimentos que utilizam substâncias dever
 
 Art. 113 Nas operações que produzem arodisperdides tóxicos irritantes alergênicos ou incômodos, deverão ser tomadas medidas capazes de impedir a sua absorção pelo organismo, seja por processos gerais ou seja por dispositivos de proteção individual.
 
-CAPÍTULO X<br>
+CAPÍTULO X
+
 DA HIGIENE NOS ESTABELECIMENTOS DE SAÚDE
 
 Art. 114 Nos estabelecimentos de saúde são obrigatórias as seguintes prescrições de higiene:
@@ -818,7 +844,8 @@ IV - Desinfecção dos colchões, travesseiros e cobertores:
 
 § 2º Os banheiros e pias deverão ser mantidos sempre em estado de absoluta limpeza.
 
-CAPÍTULO XI<br>
+CAPÍTULO XI
+
 DA HIGIENE NAS ESCOLAS
 
 Art. 115 Toda e qualquer escola deverá ser mantida em completo estado de asseio e absoluta condição de higiene;
@@ -853,14 +880,16 @@ VIII - Desinfetarem os colchões, travesseiros e cobertores;
 
 Parágrafo Único Aplicam-se aos semi-internatos no que couber, a norma prevista neste capítulo.
 
-CAPÍTULO XII<br>
+CAPÍTULO XII
+
 DA PRESERVAÇÃO SANITÁRIA NOS CAMPOS ESPORTIVOS
 
 Art. 118 Os campos esportivos deverão ser, obrigatoriamente gramados ou ensaibrados, bem como adequadamente drenados.
 
 Parágrafo Único A existência do presente artigo visa impedir que se verifique nos campos esportivos, empoçamento de água e formação de lama em qualquer ocasião.
 
-CAPÍTULO XIII<br>
+CAPÍTULO XIII
+
 DA HIGIENE NAS PISCINAS DE NATAÇÃO
 
 Art. 119 As piscinas de natação tanto pública como particulares ficam sujeitas à fiscalização permanentes da Prefeitura.
@@ -893,27 +922,32 @@ Art. 121 Em toda piscina é obrigatório o registro diário das principais opera
 
 Parágrafo Único Nenhuma piscina poderá ser usada quando suas águas forem julgadas poluídas pela autoridade sanitária competente;
 
-CAPÍTULO XIV<br>
+CAPÍTULO XIV
+
 DA OBRIGATORIEDADE DE VASILHAME APROPRIADO PARA COLETA DE LIXO E DA SUA MANUTENÇÃO EM BOAS CONDIÇÕES DE UTILIZAÇÃO
 
 Art. 122. O Município ou prestador do serviço de coleta de resíduo de origem domiciliar são responsáveis pela realização da coleta do mesmo, que deverá ser colocado em frente aos domicílios, no dia em que se der a coleta, convencional ou seletiva, devidamente acondicionado em recipientes apropriados.
 
 § 1º. Cabe aos respectivos proprietários, acondicionar os resíduos de origem domiciliar (lixo) dentro de embalagens plásticas apropriadas para acondicionamento do resíduo;
 
-§ 2º. Quando se tratar de resíduo para a coleta convencional fica obrigada a instalação de lixeiras em frente aos domicílios, habitado ou utilizado, adotar medidas de proteção nos recipientes contra a ação de animais ou outros agentes, bem como sua limpeza e higienização. <br>
+§ 2º. Quando se tratar de resíduo para a coleta convencional fica obrigada a instalação de lixeiras em frente aos domicílios, habitado ou utilizado, adotar medidas de proteção nos recipientes contra a ação de animais ou outros agentes, bem como sua limpeza e higienização. 
+
          
 
-§ 3º. Em caso de edificações unifamiliares ou coletivas, com mais de 7 (sete) unidades, os resíduos ficarão à disposição da coleta acondicionados em embalagens plásticas apropriadas para acondicionamento do resíduo, e colocadas em contêineres, com a capacidade de 1.2 m³ com tampas bipartidas.<br>
+§ 3º. Em caso de edificações unifamiliares ou coletivas, com mais de 7 (sete) unidades, os resíduos ficarão à disposição da coleta acondicionados em embalagens plásticas apropriadas para acondicionamento do resíduo, e colocadas em contêineres, com a capacidade de 1.2 m³ com tampas bipartidas.
+
             
 
 § 4º. Os recipientes para acondicionamento dos resíduos deverão seguir as orientações estabelecidas nesta Lei, tendo a capacidade suficiente para acondicionar todo o volume de lixo gerado, não podendo ser afixados em logradouro público.
 
-§ 5º. O munícipe deverá providenciar, por meios próprios, o acondicionamento dos resíduos em embalagens plásticas apropriadas e resistentes permitidas e os recipientes referidos no caput, de forma a otimizar o serviço de coleta.<br>
+§ 5º. O munícipe deverá providenciar, por meios próprios, o acondicionamento dos resíduos em embalagens plásticas apropriadas e resistentes permitidas e os recipientes referidos no caput, de forma a otimizar o serviço de coleta.
+
         
 
 § 6º. Nos locais onde a coleta é realizada no período noturno, o resíduo de origem orgânica, reciclável ou vegetal, deverá ser colocado em frente ao domicílio e/ou comércio somente após as 18 horas.
 
-§ 7º. As lixeiras a serem instaladas em frente aos domicílios devem seguir ao seguinte padrão:  na parte superior deve ter 60 cm de comprimento,  45 largura, 30 de altura, com fundo fechado, a altura da mesma montada deve ser de 1,30 metro centímetros.<br>
+§ 7º. As lixeiras a serem instaladas em frente aos domicílios devem seguir ao seguinte padrão:  na parte superior deve ter 60 cm de comprimento,  45 largura, 30 de altura, com fundo fechado, a altura da mesma montada deve ser de 1,30 metro centímetros.
+
 (Redação alterada pela Lei Complementar nº 80, de 27 de fevereiro de 2014).
 
 ~~Art. 122 Em cada edifício habitado ou utilizado, é obrigatória a existência de vasilhame apropriado para coleta de lixo provido de tampa, bem como a sua manutenção em boas condições de utilização.~~
@@ -930,7 +964,8 @@ Art. 123 As instalações coletoras e incineradoras de lixo, existentes em edifi
 
 Art. 124 Quando se tratar de estabelecimento comercial, industrial ou prestador de serviço. A infração de qualquer dos dispositivos deste capítulo poderá implicar na cassação da licença de seu funcionamento, além das demais penalidades impostas por este código.
 
-CAPÍTULO XV<br>
+CAPÍTULO XV
+
 PREVENÇÃO CONTRA A POLUIÇÃO DO AR E DE ÁGUA E DO CONTROLE DE DESPEJOS INDUSTRIAIS
 
 Art. 125 Compete à Prefeitura controlar a poluição do ar e das águas, bem como controlar os despejos industriais, em colaboração, com os órgãos estaduais e federais competentes.
@@ -1057,7 +1092,8 @@ Art. 141 As obras em encostas ou valetas de rodovias ou plataformas deverão ser
 
 § 2º Os proprietários dos terrenos marginais a estradas e caminhos são obrigados a dar saída para as águas pluviais, não podendo obstruir os esgotos feitos para tal fim.
 
-CAPÍTULO XVII<br>
+CAPÍTULO XVII
+
 DA LIMPEZA E DESOBSTRUÇÃO DOS CURSOS DE ÁGUA E DAS VALAS
 
 Art. 142 Compete aos proprietários conservarem limpos e desobstruídos os recursos de água ou vales que existirem limítrofes aos seus terrenos ou com eles limitarem, de forma que a seção de vazão dos cursos d’água ou das valas se encontre completamente desembaraçada.
@@ -1094,17 +1130,20 @@ Art. 148 Ao ser desviada uma vala ou galeria existente dentro de uma propriedade
 
 Art. 149 A superfície das águas represadas deverá ser limpa de vegetação aquática sempre que a autoridade competente julgar necessário.
 
-TÍTULO II<br>
+TÍTULO II
+
 DO BEM-ESTAR PÚBLICO
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 150 Compete a Prefeitura, zelar pelo bem-estar público, impedindo o mal uso da propriedade particular, o abuso no exercício dos direitos individuais, que possam afetar a coletividade.
 
 Parágrafo Único Para atender as exigências do presente artigo, o controle e a fiscalização da Prefeitura deverão desenvolver-se no sentido de assegurar a moralidade pública, o sossego público, o respeito aos locais de culto, a ordem nos divertimentos e festejos públicos, a utilização adequada das vias públicas a exploração ou utilização dos meios de publicidade e propaganda nos logradouros ou em qualquer lugar de acesso ao público e a preservação estética dos edifícios, além de outros campos que o interesse social exige.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA MORALIDADE PÚBLICA
 
 Art. 151 É proibido aos estabelecimentos comercias às bancas de jornais e revistas e aos vendedores ambulantes a exposição venda ou distribuição de gravuras, livros, revistas, jornais, ou quaisquer outros impressos que atendem contra os dispositivos legais vigentes, referentes a moralidade pública.
@@ -1117,7 +1156,8 @@ Art. 152 Os proprietários de estabelecimentos em que se vendem bebidas alcoóli
 
 § 2º Nas reincidências poderá ser cassada a licença para funcionamento dos estabelecimentos.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA COMODIDADE PÚBLICA
 
 Art. 153 Não serão permitidos banhos nos rios, riachos, córregos ou lagos, exceto nos locais designados pela Prefeitura como próprios para banho ou esportes náuticos.
@@ -1132,7 +1172,8 @@ Art. 155 Não é permitido fumar no interior de veículo de transportes coletivo
 
 § 2º Sob pena de multa, as empresas de transportes coletivos deverão afixar avisos da proibição de fumar no interior de veículos, indicando o presente artigo.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO RESPEITO AOS LOCAIS DE CULTO
 
 Art. 156 As igrejas, os templos e as casas de culto são locais tidos e havidos, por sagrados, devendo merecer o máximo de respeito.
@@ -1141,7 +1182,8 @@ Parágrafo Único É proibido pichar as paredes e os muros dos locais de culto, 
 
 Art. 157 Nas igrejas, templos ou casas de cultos, os locais franqueados ao público deverão ser conservados limpos iluminados e arejados.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DO SOSSEGO PÚBLICO
 
 Art. 158 É proibido perturbar o sossego e o bem-estar público ou da vizinhança com ruídos, algazarras, barulhos ou sons de qualquer natureza, excessivos e evitáveis produzidos por qualquer forma.
@@ -1154,7 +1196,8 @@ Art. 160 Os níveis de intensidade de som ou ruído obedecerão às normas técn
 
 § 1º O nível máximo de som ou ruídos permitidos para veículos é de 85 db (oitenta e cinco decibéis), medidos na curva “b” do respectivo aparelho, à distância de 7,00m (sete metros) do veículo ao ar livre.
 
-§ 2º - O nível máximo de som ou ruído permitido à máquinas, compressores e geradores estacionários, que não se enquadrem no parágrafo anterior, é de 65 db (sessenta e cinco decibéis), das 7:00hs., às 19:00hs., medidos da curva “a”; e de 55 db (cinquenta e cinco decibéis), das 19:00hs., (dezenove) às 7:00hs., (sete) horas, distância de 7,00 metros (sete metros) de qualquer ponto das divisas do imóvel onde aquelas instalações estejam localizadas ou do ponto de maior intensidade de ruídos do edifício em causa.<br>
+§ 2º - O nível máximo de som ou ruído permitido à máquinas, compressores e geradores estacionários, que não se enquadrem no parágrafo anterior, é de 65 db (sessenta e cinco decibéis), das 7:00hs., às 19:00hs., medidos da curva “a”; e de 55 db (cinquenta e cinco decibéis), das 19:00hs., (dezenove) às 7:00hs., (sete) horas, distância de 7,00 metros (sete metros) de qualquer ponto das divisas do imóvel onde aquelas instalações estejam localizadas ou do ponto de maior intensidade de ruídos do edifício em causa.
+
 (Redação alterada pela Lei Complementar nº 99, de 29 de dezembro de 2014).
 
 ~~§ 2º O nível máximo de som ou ruído permitido á máquinas, compressores e geradores estacionários, que não se enquadrem no parágrafo anterior, é de 55 db (cinqüenta e cinco decibéis), das 7:00 hs às 19:00hs, medidos da curva “b”; e de 45 db (quarenta e cinco decibéis), das 19:00hs (dezenove) às 7:00hs (sete) horas, medidos na curva “a” do respectivo aparelho, ambos à distância de 5,00 metros (cinco metros) de qualquer ponto das divisas do imóvel onde aquelas instalações estejam localizadas ou do ponto de maior intensidade de ruídos do edifício em causa.~~
@@ -1281,10 +1324,12 @@ c) - Estrutura da edificação.
 
 Art. 172 Em qualquer parte do território deste município é proibido fazer armadilhas com arma de fogo sem colocação de sinal visível para advertência aos passantes ou transeuntes.
 
-CAPITULO VI<br>
+CAPITULO VI
+
 DO CONTROLE DOS DIVERTIMENTOS E FESTEJOS PÚBLICOS
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DOS DIVERTIMENTOS E FESTEJOS PÚBLICOS
 
 Art. 173 Para a realização de divertimentos e festejos público, nos logradouros públicos ou em recintos fechados de livre acesso ao público será obrigatória a licença prévia da Prefeitura.
@@ -1315,10 +1360,12 @@ Art. 180 É vedado durante os festejos carnavalescos apresentar-se com fantasias
 
 Parágrafo Único Fora do período destinado aos festejos carnavalescos, não é permitido a quem quer que seja apresentar-se mascarado ou fantasiado nos logradouros públicos, salvo com licença especial das autoridades competentes.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DA UTILIZAÇÃO DOS LOGRADOUROS PÚBLICOS
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DOS SERVIÇOS E OBRAS NOS LOGRADOUROS PÚBLICOS
 
 Art. 181 Nenhum serviço ou obra que exija levantamento de guias ou escavações na pavimentação de logradouros públicos poderá ser executado sem prévia licença do órgão competente da Prefeitura exceto quando se tratar de reparo de emergência nas instalações situadas sob os referidos logradouros.
@@ -1327,7 +1374,8 @@ Parágrafo Único Quando os serviços de reposição de guias ou de pavimentaç�
 
 Art. 182 Qualquer entidade que tiver de executar serviço ou obra em logradouro público deverá previamente comunicar para as providências cabíveis as outras entidades de serviços públicos porventura atingidos pelo referido serviço ou obra.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DAS INVASÕES E DAS DEPREDAÇÕES NOS LOGRADOUROS PÚBLICOS
 
 Art. 183 As invasões de logradouros públicos serão punidas de acordo com à Legislação vigente.
@@ -1344,7 +1392,8 @@ Art. 184 As depredações ou destruições de pavimentação, guias, passeios, p
 
 Parágrafo Único Os infratores do presente artigo ficam obrigados a indenizar a Prefeitura das despesas que esta fizer crescidas de 20% (vinte por cento), na repartição dos danos causados nos leitos dos logradouros públicos, nas benfeitorias ou nos dispositivos neles existentes.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DA DEFESA DA ARBORIZAÇÃO PÚBLICA E DOS JARDINS PÚBLICOS
 
 Art. 185 É proibido plantar, podar, cortar, danificar derrubar, remover ou sacrificar árvores de arborização pública, sendo estes serviços de atribuição exclusiva da Prefeitura.
@@ -1357,7 +1406,8 @@ Art. 186 Não será permitida a utilização de árvore de arborização públic
 
 Art. 187 É vedado danificar por qualquer forma os jardins públicos.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DA DEFESA DOS EQUIPAMENTOS DOS SERVIÇOS PÚBLICOS
 
 Art. 188 Não é permitido a quem quer que seja causar quaisquer danos ou avariar os reservatórios de água, encanamentos, registros ou peças de qualquer natureza dos serviços públicos de abastecimentos d’água.
@@ -1370,7 +1420,8 @@ Art. 189 É vedado danificar ou inutilizar linhas telegráficas ou telefônicas 
 
 Parágrafo Único O infrator das prescrições do presente artigo além de indenizar os danos causados, incorrerá em multa.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DOS TAPUMES E ANDAIMES E DOS MATERIAIS DE CONSTRUÇÃO NOS PASSEIOS
 
 Art. 190 É obrigatória a instalação de tapumes em todas as construções demolições.
@@ -1383,7 +1434,8 @@ Parágrafo Único Os materiais de construção descarregados fora da área limit
 
 Art. 193 Quando a obra tiver mais de um (01) pavimento, é obrigatória a instalação de proteção aos andaimes afim de preservar a integridade física dos transeuntes e operários.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 DA OCUPAÇÃO DE PASSEIOS COM MESAS E CADEIRAS
 
 Art. 194 A ocupação de passeios com mesas e cadeiras por parte de estabelecimentos comercias, só será permitida quando forem satisfeitos os seguintes requisitos:
@@ -1398,7 +1450,8 @@ Parágrafo Único O pedido de licença deverá ser acompanhado de uma planta do 
 
 Art. 195 Em todos os casos, ficam preservados e resguardados quaisquer acessos às áreas contínuas do estabelecimento comercial que utilizarem o passeio com mesas e cadeiras.
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 DOS CORETOS E PALANQUES
 
 Art. 196 Para comícios políticos e festividades cívicas religiosas ou de caráter popular, poderão se armados coretos ou palanques provisórios nos logradouros públicos, desde que seja solicitados à Prefeitura a aprovação de sua localização;
@@ -1417,7 +1470,8 @@ D Serem removidos no prazo de 24 (vinte e quatro) horas a contar do encerramento
 
 § 3º O destino do coreto ou palanque removido será dado a juízo da Prefeitura.
 
-SEÇÃO VIII<br>
+SEÇÃO VIII
+
 DAS BARRACAS
 
 Art. 197 É proibido o licenciamento para localização de barracas para fins comerciais nos passeios e nos leitos dos logradouros públicos.
@@ -1474,7 +1528,8 @@ Art. 201 Nas festas de Natal, Ano Novo, festejos carnavalescos e outras festas d
 
 § 3º Para as barracas de vendas de refrigerantes o prazo máximo de 5 (cinco dias) à execução das instalações no período do natal e ano novo.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DOS MEIOS DE PUBLICIDADE E PROPAGANDA
 
 Art. 202 A exploração ou utilização dos meios de publicidade e propaganda nos logradouros públicos ou em qualquer lugar de acesso ao público, depende da licença prévia da Prefeitura;
@@ -1491,31 +1546,38 @@ D A distribuição de anúncios, cartazes e quaisquer outros meios de publicidad
 
 § 2º Os anúncios destinados a serem distribuídos nos logradouros públicos não poderão ter dimensões inferiores a 0,10cm (dez centímetros) por 0,15 cm (quinze centímetros) e nem superiores a 0,30 (trinta centímetros) por 0,45 (quarenta e cinco centímetros).
 
-§ 3º - São considerados meio de publicidade ambulante, aqueles conduzidos por veículos automotores do tipo automóvel, ciclomotor, motoneta e motocicleta.<br>
+§ 3º - São considerados meio de publicidade ambulante, aqueles conduzidos por veículos automotores do tipo automóvel, ciclomotor, motoneta e motocicleta.
+
 (Redação alterada pela Lei Complementar nº 47, de 13 de fevereiro de 2012).
 
 ~~§ 3º Considerem-se letreiros as indicações por meio de placas, tabuletas ou outras formas de inscrição referentes a indústria, comércio ou prestação de serviços exercidos na edificação em que sejam colocados, desde que se refiram apenas à denominação do estabelecimento comercial, industrial ou prestador de serviços e à natureza de sua atividade;~~
 
-§ 4º - Os veículos automotores licenciados pelo município deverão afixar a numeração de sua licença no respectivo veículo, com o material repassado pelo órgão licenciador.<br>
+§ 4º - Os veículos automotores licenciados pelo município deverão afixar a numeração de sua licença no respectivo veículo, com o material repassado pelo órgão licenciador.
+
 (Redação alterada pela Lei Complementar nº 47, de 13 de fevereiro de 2012).
 
 ~~§ 4º Considerar-se-á anúncio, toda e qualquer indicação gráfica ou alegórica, por meio de placa, tabuleta, painel, cartaz e inscrição ou outro qualquer meio de propaganda, ainda que colocada ou afixada no próprio edifício onde se exerce o comércio, a industria ou a prestação de serviços a que se referir, que ultrapasse as características do estabelecido no parágrafo anterior e não possa ser capitulado com simples letreiro;~~
 
-§ 5º - Para início do processo de licenciamento da publicidade volante faz-se necessária vistoria do veículo pelo órgão de trânsito municipal.<br>
+§ 5º - Para início do processo de licenciamento da publicidade volante faz-se necessária vistoria do veículo pelo órgão de trânsito municipal.
+
 (Redação alterada pela Lei Complementar nº 47, de 13 de fevereiro de 2012).
 
 ~~§ 5º Consideram-se luminosos, os anúncios ou letreiros com caracteres ou figuras formadas por lâmpadas elétricas, tubos luminosos de gases apropriados ou outros meios de iluminação, desde que não se constituem de lâmpadas protegidas por anteparo e destinados a refletir luz direta sobre a tabuleta.~~
 
-§ 6º - O número de veículos licenciados para realização de publicidade com alto-falantes será proporcional à população na razão de 2(dois) veículos para cada 2.500 (dois mil e quinhentos) habitantes, sendo um veículo de quatro rodas e outro de duas rodas.<br>
+§ 6º - O número de veículos licenciados para realização de publicidade com alto-falantes será proporcional à população na razão de 2(dois) veículos para cada 2.500 (dois mil e quinhentos) habitantes, sendo um veículo de quatro rodas e outro de duas rodas.
+
 (Redação acrescentada pela Lei Complementar nº 47, de 13 de fevereiro de 2012).
 
-§ 7º - Cada autorizado já licenciado, terá direito a uma licença para veículo de duas rodas, caso queira, as demais licenças ficarão a cargo da Secretaria Municipal do Meio Ambiente.<br>
+§ 7º - Cada autorizado já licenciado, terá direito a uma licença para veículo de duas rodas, caso queira, as demais licenças ficarão a cargo da Secretaria Municipal do Meio Ambiente.
+
 (Redação acrescentada pela Lei Complementar nº 47, de 13 de fevereiro de 2012).
 
-§ 8º - Sendo pessoa física, terá direito a 2(duas) licenças, na proporção do parágrafo 6º desta lei, sendo um veículo de quatro rodas e outro de duas rodas. Sendo pessoa jurídica, terá direito ao máximo de 10 (dez) licenças, seja de duas rodas ou quatro rodas.<br>
+§ 8º - Sendo pessoa física, terá direito a 2(duas) licenças, na proporção do parágrafo 6º desta lei, sendo um veículo de quatro rodas e outro de duas rodas. Sendo pessoa jurídica, terá direito ao máximo de 10 (dez) licenças, seja de duas rodas ou quatro rodas.
+
 (Redação acrescentada pela Lei Complementar nº 47, de 13 de fevereiro de 2012).
 
-§ 9º - Fica autorizada, em ano eleitoral, a utilização de som por veículos automotores por via de publicidade ambulante, mesmo não sendo autorizados nos termos dessa lei, respeitada a legislação eleitoral.<br>
+§ 9º - Fica autorizada, em ano eleitoral, a utilização de som por veículos automotores por via de publicidade ambulante, mesmo não sendo autorizados nos termos dessa lei, respeitada a legislação eleitoral.
+
 (Redação acrescentada pela Lei Complementar nº 47, de 13 de fevereiro de 2012).
 
 Art. 203 Depende de licença da Prefeitura, a propaganda falada em lugares, por meio de amplificadores de voz, alto-falantes e propagandistas, respeitadas as prescrições deste código relativas a ruídos;
@@ -1558,8 +1620,10 @@ Art. 209 Não se considera anúncio a simples colocação de pequenos cartazes, 
 
 Art. 210 Além de simples programa de diversões de companhias teatrais cinematográficas ou outra empresas de casas de diversões públicas, será permitida a distribuição de qualquer publicidade ou propaganda escrita, dentro do estabelecimento, mesmo que seja referente a assunto alheio às referidas diversões.
 
-Art. 211 – É expressamente proibida, sob pena de incorrer o proprietário do imóvel em multa correspondente a 300 UVFA, na primeira infração e de 500 UVFA, nas reincidências, a utilização de publicidade ou propaganda não comercial em muros ou em construções urbanas, para a divulgação de nomes de pessoas físicas, ou jurídicas, slogans, números, siglas, ou outra mensagem a qualquer titulo, sendo também vedado a publicidade ou propaganda em geral, por meio de faixa de tecidos ou de material de qualquer natureza, quando fixados em postes, arvores da arborização pública, ou em fachadas ou murros.<br>
-    Parágrafo Único – As vedações relacionadas no “caput” deste artigo não se aplicam aos casos de campanhas educativas, filantrópicas ou cívicas, quando providas pelo poder público, exceto quando agredir a sinalização de transito ou arborização pública, ficando também desobrigados os candidatos que participaram de eleições anteriores e proprietários de imóveis, dos serviços de apagar os muros que foram escritos aplicando-se tais vedações somente a partir da eleição de 2002.<br>
+Art. 211 – É expressamente proibida, sob pena de incorrer o proprietário do imóvel em multa correspondente a 300 UVFA, na primeira infração e de 500 UVFA, nas reincidências, a utilização de publicidade ou propaganda não comercial em muros ou em construções urbanas, para a divulgação de nomes de pessoas físicas, ou jurídicas, slogans, números, siglas, ou outra mensagem a qualquer titulo, sendo também vedado a publicidade ou propaganda em geral, por meio de faixa de tecidos ou de material de qualquer natureza, quando fixados em postes, arvores da arborização pública, ou em fachadas ou murros.
+
+    Parágrafo Único – As vedações relacionadas no “caput” deste artigo não se aplicam aos casos de campanhas educativas, filantrópicas ou cívicas, quando providas pelo poder público, exceto quando agredir a sinalização de transito ou arborização pública, ficando também desobrigados os candidatos que participaram de eleições anteriores e proprietários de imóveis, dos serviços de apagar os muros que foram escritos aplicando-se tais vedações somente a partir da eleição de 2002.
+
 (Redação alterada pela LO Nº 2.296, de 20 de agosto de 2002).
 
 ~~Art. 211 É expressamente proibida, sob pena de incorrer o proprietário do imóvel em multa correspondente a 300 UVFA, na primeira infração e de 500 UVFA, nas reincidências, a utilização de publicidade ou propaganda não comercial em muros ou em construções urbanas, para a divulgação de nomes de pessoas físicas, ou jurídicas, slogans, números, siglas, ou outra mensagem a qualquer título; sendo também vedado a publicidade ou propaganda em geral, por meio de faixas de tecidos ou de material de qualquer natureza, quando fixados em postes, árvores da arborização pública, ou em fachadas ou muros.~~
@@ -1604,10 +1668,12 @@ III - Em praças, parques, jardins monumentos e edificações de propriedade do 
 
 Parágrafo Único Os anúncios nas antenas dos edifícios só serão permitidas com o cumprimentos da obrigatoriedade por parte do proprietário de mantê-lo permanentemente em bom estado de conservação.
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 DA PRESERVAÇÃO ESTÉTICA DAS EDIFICAÇÕES
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DA CONSERVAÇÃO DAS EDIFICAÇÕES
 
 Art. 219 As edificações e suas dependências deverão ser convenientemente conservadas pelos respectivos proprietários ou inquilinos, em especial quanto à estética, estabilidade e higiene para que não sejam comprometidas a paisagem urbana a segurança e a saúde dos ocupantes, vizinhos e transeuntes.
@@ -1648,7 +1714,8 @@ Art. 226 Ao ser verificado perigo iminente de ruína a Prefeitura deverá solici
 
 § 2º As despesas de execução dos serviços acrescidos de 20% (vinte por cento) serão cobrados do proprietário ou inquilino.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA UTILIZAÇÃO DAS EDIFICAÇÕES
 
 Art. 227 Para ser utilizada, qualquer edificação deverá satisfazer as seguintes condições;
@@ -1681,7 +1748,8 @@ Art. 232 No caso de uma residência edificada em recuo igual ou superior a 5,00m
 
 Parágrafo Único Fica reservado à Prefeitura o direito de exigir a qualquer tempo a remoção de abrigos a que se refere o presente artigo, desde que se tornem inconvenientes ou prejudiciais à estética urbana.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DA ILUMINAÇÃO DAS GALERIAS FORMANDO PASSEIOS VITRINES E MOSTRUÁRIOS
 
 Art. 233 As galerias formando passeios deverão ficar iluminadas entre 18 (dezoito) e 22 (vinte e duas) horas, no mínimo.
@@ -1692,7 +1760,8 @@ Art. 234 Os estabelecimentos que mantiverem vitrina interna iluminada, deverão 
 
 Parágrafo Único A critério da Prefeitura serão fixados os logradouros em que a manutenção ou iluminação de que trata o caput do artigo será obrigatório.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DAS VITRINAS, BALCÕES E MOSTRUÁRIOS
 
 Art. 235 A instalação de vitrinas será permitida quando não acarretar prejuízos para iluminação e ventilação dos locais a que sejam integradas nem perturbar a circulação do público, devendo, inclusive satisfazer as exigências de ordem estética.
@@ -1723,7 +1792,8 @@ IV - Se forem devidamente emoldurados e pintados.
 
 Parágrafo Único A utilização das paredes externas previstas neste artigo é privativa da firma que utiliza o imóvel para a divulgação de informações de utilidade pública.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DOS ESTORES
 
 Art. 238 O uso transitório dos estores contra a ação dos sol, instalados nas extremidades de marquises e paralelamente à fachada do respectivo edifício, será permitido desde que sejam atendidas as seguintes exigências;
@@ -1738,7 +1808,8 @@ IV - Serem munidos, na extremidade inferior, firmemente adaptados e suficienteme
 
 Art. 239 Quando qualquer estore não se achar em perfeito estado de conservação cabe à Prefeitura o direito de intimação ao interessado para a retirada imediata da instalação.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 DOS TOLDOS
 
 Art. 240 É permitida a instalação de toldos nas edificações não providas de marquises.
@@ -1769,17 +1840,20 @@ Art. 241 Os toldos deverão ser mantidos em perfeito estado de conservação.
 
 Parágrafo Único Quando qualquer toldo não se encontrar em perfeito estado de conservação o órgão competente da Prefeitura deverá intimar o interessado a retirar imediatamente a instalação.
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 DOS MASTROS NAS FACHADAS DAS EDIFICAÇÕES
 
 Art. 242 A colocação de mastros nas fachadas só poderá ser permitida se não houver prejuízo para a estética dos edifícios e para a segurança dos transeuntes.
 
 Parágrafo Único Os mastros que não satisfizerem os requisitos do presente artigo deverão ser substituídos, removidos ou suprimidos.
 
-CAPÍTULO X<br>
+CAPÍTULO X
+
 DOS FECHOS DIVISÓRIAS EM GERAL E DOS MUROS DE SUSTENTAÇÃO.
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DOS FECHOS DIVISÓRIAS EM GERAL
 
 Art. 243 É obrigatório a construção de muros e passeio nos terrenos não edificados, situados nos logradouros onde tiver meio-fio e pavimentação, mediante prévia licença do órgão competente da Prefeitura;
@@ -1796,7 +1870,8 @@ Art. 244 Na zona de expansão urbana deste Município é permitido o fechamento 
 
 Art. 245 Ao serem intimados pela Prefeitura a executar o fechamento dos terrenos e outras obras necessárias, os proprietários que não atenderem à intimação ficarão sujeitos, além da multa correspondente, ao pagamento do custo dos serviços feitos pela Municipalidade, acrescido de 20% (vinte por cento).
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DOS MUROS DE SUBSTENÇÃO
 
 Art. 246 Sempre que o nível de qualquer terreno, edificado ou não, for superior ao nível do logradouro em que o mesmo se situa, a Prefeitura deverá exigir do Proprietário a construção de muros de sustentação ou de revestimentos de terra.
@@ -1807,7 +1882,8 @@ Art. 246 Sempre que o nível de qualquer terreno, edificado ou não, for superio
 
 § 3º A Prefeitura deverá exigir, ainda, do proprietário do terreno, edificado ou não, a construção que causem prejuízos ou danos ao logradouro público ou aos proprietários vizinhos.
 
-CAPÍTULO XI<br>
+CAPÍTULO XI
+
 DA PREVENÇÃO CONTRA INCÊNDIOS
 
 Art. 247 As instalações contra incêndios, obrigatórios nas edificações de 3 (três) ou mais pavimentos e nos de mais de 750,00 m2 (setecentos e cinqüenta metros quadrados) de área construída bem como nas edificações destinadas no todo ou em parte, à utilização coletiva, obedecerão as prescrições fixas no código de edificação deste Município;
@@ -1848,7 +1924,8 @@ Art. 250 As instalações contra incêndios deverão ser mantidas, com todo resp
 
 Parágrafo Único Nos casos de não cumprimento das exigências do presente artigo, o órgão competente da Prefeitura deverá providenciar a conveniente punição dos responsáveis e a expedição das intimações que se fizerem necessárias.
 
-CAPÍTULO XII<br>
+CAPÍTULO XII
+
 DO REGISTRO, LICENCIAMENTO, VACINAÇÃO, PROIBIÇÃO E CAPTURA DE ANIMAIS NAS ZONAS URBANAS E DE EXPANSÃO URBANA
 
 Art. 251 É proibida a permanência de animais de grande porte nos logradouros públicos.
@@ -1883,7 +1960,8 @@ Parágrafo Único Os proprietários que infringem as prescrições do presente a
 
 Art. 259 É proibido a qualquer pessoa maltratar animais ou praticar ato de crueldade contra os mesmos.
 
-CAPÍTULO XIII<br>
+CAPÍTULO XIII
+
 DAS QUEIMADAS E DOS CORTES DE ÁRVORES E DAS PASTAGENS
 
 Art. 260 A Prefeitura colaborada com a União e o Estado no sentido de evitar devastações de florestas e bosques e de estimular o plantio de árvores de acordo com o estabelecer a Legislação pertinente.
@@ -1892,7 +1970,8 @@ Art. 261 A árvore que, pelo seu estado de conservação ou pela falta de estabi
 
 Parágrafo Único Não sendo cumprida a exigência do presente artigo, a árvore será derrubada pela Prefeitura, pagando o proprietário as despesas correspondentes, acrescidos de 20% (vinte por cento) sem prejuízo da multa cabível.
 
-CAPÍTULO XIV<br>
+CAPÍTULO XIV
+
 DA EXTINÇÃO DE FORMIGUEIROS
 
 Art. 262 Todo proprietário de terreno, dentro do território deste Município, é obrigado a extinguir os formigueiros porventura existentes dentro de sua propriedade.
@@ -1907,12 +1986,16 @@ Art. 263 Quando a extinção de formigueiros for feita pela Prefeitura será uma
 
 § 2º A remuneração será cobrado no ato da Prestação de serviço, por parte da Prefeitura, na forma determinada pela Legislação Municipal vigente.
 
-TÍTULO III<br>
+TÍTULO III
+
 DA LOCALIZAÇÃO E DO FUNCIONAMENTO DE ESTABELECIMENTOS COMERCIAIS, INDUSTRIAIS, PRESTADORES DE SERVIÇOS E SIMILARES
 
-~~CAPÍTULO I<br>
-DA LICENÇA DE LOCALIZAÇÃO E FUNCIONAMENTO~~<br>
-(Revogado pela Lei Complementar nº 170, de 4 de novembro de 2019).<br>
+~~CAPÍTULO I
+
+DA LICENÇA DE LOCALIZAÇÃO E FUNCIONAMENTO~~
+
+(Revogado pela Lei Complementar nº 170, de 4 de novembro de 2019).
+
  
 
 ~~Art. 264 Nenhum estabelecimento comercial, industrial, prestador de serviços ou similar poderá instalar-se no Município, mesmo transitoriamente, nem iniciar suas atividades, sem prévia licença de localização e funcionamento outorgada pela Prefeitura e sem que seus responsáveis tenham efetuados o pagamento da taxa devida.~~
@@ -1997,8 +2080,10 @@ DA LICENÇA DE LOCALIZAÇÃO E FUNCIONAMENTO~~<br>
 
 ~~§ 7º O alvará deverá ser conservado, permanentemente, em lugar visível.~~
 
-~~CAPÍTULO II<br>
-DA RENOVAÇÃO DA LICENÇA DE LOCALIZAÇÃO E FUNCIONAMENTO<br>
+~~CAPÍTULO II
+
+DA RENOVAÇÃO DA LICENÇA DE LOCALIZAÇÃO E FUNCIONAMENTO
+
 ~~(Revogado pela Lei Complementar nº 170, de 4 de novembro de 2019).
 
 ~~Art. 268 Anualmente, a licença de localização e funcionamento deverá ser renovada e fornecida pelo órgão competente da Prefeitura ao interessado independente de novo requerimento.~~
@@ -2019,7 +2104,8 @@ DA RENOVAÇÃO DA LICENÇA DE LOCALIZAÇÃO E FUNCIONAMENTO<br>
 
 ~~Parágrafo Único Todo aquele que mudar os estabelecimentos comercial, industrial, prestador de serviço ou similar de local sem autorização expressa da Prefeitura, será possível das penalidades prévias neste Código;~~
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO HORÁRIO DE FUNCIONAMENTO DE ESTABELECIMENTOS COMERCIAIS, INDUSTRIAIS E PRESTADORES DE SERVIÇOS.
 
 Art. 270 A abertura e o fechamento dos estabelecimentos industriais, comerciais e prestadores de serviços no Município obedecerão aos seguintes horários, observados os preceitos da Legislação Federal que regula o contrato de duração e as condições de trabalho:
@@ -2084,8 +2170,10 @@ XVIII - Hotéis, pensões e hospedarias;
 
 XIX - Casas funerárias;
 
-~~XX – Shopping Centers e Hipermercados.~~<br>
-~~(Redação acrescentada pela Lei Ordinária nº 2.530, de 10 de outubro de 2005).~~<br>
+~~XX – Shopping Centers e Hipermercados.~~
+
+~~(Redação acrescentada pela Lei Ordinária nº 2.530, de 10 de outubro de 2005).~~
+
 (Inciso revogado pela Lei Ordinária nº 2.882, de 18 de dezembro de 2009).
 
 Art. 272 É opcional o serviço de plantão das farmácias e drogarias aos domingos e feriados, no período diurno e noturno, sem interrupção do horário.
@@ -2116,7 +2204,8 @@ b) - Aos domingos e feriados, das 07:00 (sete) às 12:00 (doze) horas.
 
 IV - Panificadora: diariamente inclusive aos domingos e feriados, das 05 (cinco) às 22 (vinte e duas) horas;
 
-V – restaurantes, cafés, leiterias, bombonieres, sorveterias, praças de alimentação, diariamente, inclusive aos domingos e feriados, das 08:00h às 24:00h<br>
+V – restaurantes, cafés, leiterias, bombonieres, sorveterias, praças de alimentação, diariamente, inclusive aos domingos e feriados, das 08:00h às 24:00h
+
 ( Redação alterada pela Lei Ordinária nº 2.628, de 22 de dezembro de 2006).
 
 ~~V - Restaurantes, botequins, bares, cafés, leiterias, confeitarias, bombonieres, sorveterias e casas de caldo - de - cana: diariamente, inclusive aos domingos e feriados, das 08 (oito) às 24 (vinte e quatro) horas:~~
@@ -2183,10 +2272,12 @@ b) - Aos domingos e feriados, das 08 (oito) às 12 (doze) horas;
 
 Redação alterada pela Lei Ordinária nº 2.628, de 22 de dezembro de 2006).
 
-§ 4.º Bares e botequins funcionarão diariamente das 08:00h às 02:00h, inclusive em domingos e feriados. Excepcionalmente, poderão funcionar fora destes horários, atendidas as determinações contidas em decreto regulamentar, que atenderá a legislação ambiental e segurança.  <br>
+§ 4.º Bares e botequins funcionarão diariamente das 08:00h às 02:00h, inclusive em domingos e feriados. Excepcionalmente, poderão funcionar fora destes horários, atendidas as determinações contidas em decreto regulamentar, que atenderá a legislação ambiental e segurança.  
+
 (Redação alterada pela Lei Complementar nº 189, de 20 de novembro de 2021).
 
-~~§ 4.º - Bares e botequins funcionarão diariamente das 08:00h às 24:00h, inclusive em domingos e feriados. Excepcionalmente, poderão funcionar fora destes horários, atendidas as determinações contidas em decreto regulamentar, que atenderá a legislação ambiental e segurança.~~<br>
+~~§ 4.º - Bares e botequins funcionarão diariamente das 08:00h às 24:00h, inclusive em domingos e feriados. Excepcionalmente, poderão funcionar fora destes horários, atendidas as determinações contidas em decreto regulamentar, que atenderá a legislação ambiental e segurança.~~
+
 ~~(Redação alterada pela Lei Ordinária nº 2.628, de 22 de dezembro de 2006).~~
 
 ~~§ 4º Excepcionalmente poderão funcionar sem limitação de horário os seguintes estabelecimentos desde que se cumpram as exigências da Prefeitura.~~
@@ -2203,14 +2294,16 @@ Redação alterada pela Lei Ordinária nº 2.628, de 22 de dezembro de 2006).
 
 ~~a)    Dias úteis: das 08:00 às 24:00h;~~
 
-~~b)    Domingos e Feriados: das 09:00 às 22:00h.~~<br>
+~~b)    Domingos e Feriados: das 09:00 às 22:00h.~~
+
 ~~(Redação acrescentada pela Lei Ordinária nº 2.530, de 10 de outubro de 2005).~~
 
 ~~XXIII – Praça de Alimentação e Divertimentos em Shopping Centers:~~
 
 ~~a)    Dias úteis: das 11:00 às 23:00h;~~
 
-~~b)    Domingos e Feriados: das 11:00 às 24:00h.~~<br>
+~~b)    Domingos e Feriados: das 11:00 às 24:00h.~~
+
 ~~(Redação acrescentada pela Lei Ordinária nº 2.530, de 10 de outubro de 2005).~~
 
 Art. 274 A concessão de licença especial depende de requerimento do interessado, acompanhado de declaração de que não tem empregados ou dispões de turmas que se revezem, de modo que a duração do trabalho efetivo de cada turma não exceda os limites estabelecidos pela Legislação vigente.
@@ -2295,7 +2388,8 @@ c) - Execução, a portas fechadas, de serviços de arrumação mudanças ou bal
 
 § 2º Durante o tempo necessário para a conclusão de trabalhos iniciados antes da hora de fechar os estabelecimentos, este deverá conservar-se de portas fechadas.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO EXERCÍCIO DO COMÉRCIO AMBULANTE
 
 Art. 291 O exercício do comércio ambulante, por conta própria ou de terceiros, dependerá sempre de licença especial e prévia da Prefeitura.
@@ -2448,10 +2542,12 @@ VI - Carnes e vísceras diretamente ao consumidor;
 
 VII - Quaisquer artigos que oferecem perigo à saúde e à segurança pública.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DO FUNCIONAMENTO DE CASAS E LOCAIS DE DIVERSÕES PÚBLICAS
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 306 O funcionamento de casas e locais de diversões públicas depende de licença prévia da Prefeitura.
@@ -2550,7 +2646,8 @@ Art. 312 Os responsáveis pelo funcionamento de cinemas teatros, auditórios, sa
 
 § 5º Quando o laudo de vistoria apontar indícios de deficiência na estrutura ou nas instalações a licença será cassada e o local interditado até serem sanadas as causas do perigo.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DOS CINEMAS, TEATROS E AUDITÓRIOS
 
 Art. 313 Nos cinemas, teatros e auditórios, inclusive nos estabelecimentos destinados a outros espetáculos públicos em ambientes fechados, deverão ser atendidas as seguintes exigências:
@@ -2615,7 +2712,8 @@ Art. 315 As películas deverão ficar sempre em estojos metálicos hermeticament
 
 Art. 316 A projeção de filmes ou dispositivos de propaganda comercial de produtos ou ramos de negócios de qualquer natureza, de propaganda política ou propaganda de quaisquer associações ou sociedades, assim como as exibições beneficentes só poderão ser feitas se dentro das normas estabelecidas pelo Governo Federal para a espécie além de mediante o prévio pagamento dos Tributos devidos.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DOS CLUBES RECREATIVOS E OUTROS ESTABELECIMENTOS DE DIVERSÕES
 
 Art. 317 Na localização de clubes recreativos e de outros estabelecimentos de diversões a Prefeitura deverá atender além das exigências quanto ao uso do solo, o sossego e o decoro público.
@@ -2628,12 +2726,14 @@ Art. 319 Nos clubes recreativos e outros estabelecimentos de diversões é obrig
 
 Parágrafo Único Qualquer estabelecimento mencionado no presente artigo terá sua licença de funcionamento cassada pela Prefeitura quando se tornar nocivo ao decoro, ao sossego e a ordem pública.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DOS SALÕES DE BAILES E DOS ENSAIOS NAS SOCIEDADES CARNAVALESCAS
 
 Art. 320 Nos salões de bailes, é obrigatório o cumprimento no que lhes forem aplicáveis, das exigências estabelecidas neste código para cinema, teatros, auditórios quanto às condições de segurança, higiene, comodidade e conforto.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DOS CIRCOS E DOS PARQUES DE DIVERSÕES
 
 Art. 321 Na localização de circos de pano, similares parques de diversões deverão ser observadas as seguintes exigências:
@@ -2684,7 +2784,8 @@ Art. 328 Para efeito deste Código, os teatros de tipo portátil e desmontável 
 
 Parágrafo Único Além das condições estabelecidas para os circos, a Prefeitura poderá exigir as que julgarem necessária à segurança e ao conforto dos espectadores e dos artistas.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DA LOCALIZAÇÃO E DO FUNCIONAMENTO DE BANCAS DE JORNAL E REVISTAS
 
 Art. 329 A localização e o funcionamento de bancas de jornais e de revistas em logradouros públicos dependem de licença da Prefeitura.
@@ -2719,7 +2820,8 @@ IV - A tratar o público com urbanidade;
 
 Art. 332 É vedada a localização de banca de jornais e revistas a menos de 500 m (quinhentos metros) de distância uma da outra.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DE FUNCIONAMENTO DE GARAGENS COMERCIAIS
 
 Art. 333 Nas garagens comerciais a capacidade máxima de guardar veículos estabelecidos não poderá ser ultrapassada.
@@ -2738,7 +2840,8 @@ Art. 337 É possível de interdição a garagem subterrânea ou parte dela em qu
 
 Art. 338 É proibido fumar, acender fogos em garagens comercias, devendo seus proprietários tomar as medidas cabíveis à publicidade desta determinação.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DO FUNCIONAMENTO DE LOCAIS PARA ESTACIONAMENTO E GUARDA DE VEÍCULOS.
 
 Art. 339 O funcionamento de locais para estacionamento e guarda de veículos dependerá de licença prévia da Prefeitura, concedida sempre a título precário.
@@ -2761,7 +2864,8 @@ IV - Ser colocado no local, indicação do ramo de negócio adequadamente situad
 
 § 2º A licença de funcionamento de locais para estacionamento e guarda de veículos poderá ser cassada a qualquer momento, nos termos que dispõe este Código sobre a cassação de licença de localização e funcionamento de estabelecimentos comerciais, industriais e prestadores de serviços.
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 DO FUNCIONAMENTO DE OFICINAS DE CONSERTOS DE VEÍCULOS
 
 Art. 341 O funcionamento de oficinas de consertos de automóveis e caminhões só será permitido quando possuírem dependências e áreas suficientes para o recolhimento dos veículos:
@@ -2774,10 +2878,12 @@ Art. 341 O funcionamento de oficinas de consertos de automóveis e caminhões s�
 
 Art. 342 Nas oficinas de consertos de veículos os serviços de pintura deverão ser executados em compartimentos apropriados de forma a evitar a dispersão de tintas e derivados nas demais seções de trabalho.
 
-CAPÍTULO X<br>
+CAPÍTULO X
+
 DO ARMAZENAMENTO, COMÉRCIO, TRANSPORTE E EMPREGO DE INFLAMÁVEIS E EXPLOSIVOS
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 343 No interesse público, a Prefeitura, diretamente ou através do corpo de bombeiro, fiscalizará o armazenamento, comércio, transporte e emprego de inflamável e explosivos.
@@ -2806,7 +2912,8 @@ III - Depositar ou conservar nos logradouros públicos, mesmo provisoriamente, i
 
 § 3º Se as distâncias a que se refere o parágrafo anterior forem superior a 500,00M (quinhentos metros), é permitido o depósito de maior quantidade de explosivos, a critério da Municipalidade.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 O ARMAZENAMENTO DE INFLAMÁVEIS E EXPLOSIVOS
 
 Art. 348 Os depósitos de inflamáveis e explosivos só poderão ser construídos em locais determinados por lei própria deste Município e com licença da Prefeitura.
@@ -2873,7 +2980,8 @@ Art. 365 É obrigatório que sejam bem ventilados os compartimentos onde existem
 
 § 5º Todas as saídas de rede de ventilação deverão ser realizada de forma a não expor os imóveis circunvizinhos a perigos.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DO FUNCIONAMENTO DE ARMAZÉNS DE ALGODÃO
 
 Art. 366 No funcionamento de armazéns de algodão, deverão ser observadas as seguintes prescrições:
@@ -2894,7 +3002,8 @@ III - Serem os fardos empilhados formando bloco com volumes máximos de 350,00 m
 
 § 5º Se houver reincidência, será cassada a licença de funcionamento do armazém de algodão em causa.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DO TRANSPORTE DE INFLAMÁVEIS E EXPLOSIVOS
 
 Art. 367 Não será permitido o transporte de inflamáveis e explosivos sem as precauções devidas.
@@ -2907,15 +3016,18 @@ Art. 369 Quando transportarem inflamáveis ou explosivos os veículos não poder
 
 Art. 370 Não será permitida carga ou descarga de explosivos em passeios e logradouros públicos.
 
-SEÇÃO V<br>
-DA INSTALAÇÃO E FUNCIONAMENTO DE POSTOS E SERVIÇOS AUTOMOBILÍSTICOS, DE ABASTECIMENTOS DE COMBUSTÍVEIS E DE REVENDA DE GÁS INFLAMÁVEL (GLP)<br>
+SEÇÃO V
+
+DA INSTALAÇÃO E FUNCIONAMENTO DE POSTOS E SERVIÇOS AUTOMOBILÍSTICOS, DE ABASTECIMENTOS DE COMBUSTÍVEIS E DE REVENDA DE GÁS INFLAMÁVEL (GLP)
+
 (Redação alterada pela Lei Complementar nº 114, de 11 de dezembro de 2015).
 
 ~~DA INSTALAÇÃO E FUNCIONAMENTO DE POSTOS E SERVIÇOS AUTOMOBILÍSTICOS E DE ABASTECIMENTOS DE COMBUSTÍVEIS~~
 
 Art. 371. A instalação e funcionamento de postos de serviços automobilísticos, de abastecimentos de combustíveis e de revenda de gás inflamável (GLP) ficam sujeitos à concessão de licença do Município.
 
-§ 1º. O Município deverá negar a concessão de licença no caso de instalação e funcionamento de postos de serviços automobilísticos, de abastecimentos de combustíveis e de revenda de gás inflamável (GLP) que prejudicar de algum modo a segurança pública.<br>
+§ 1º. O Município deverá negar a concessão de licença no caso de instalação e funcionamento de postos de serviços automobilísticos, de abastecimentos de combustíveis e de revenda de gás inflamável (GLP) que prejudicar de algum modo a segurança pública.
+
 (Redação alterada pela Lei Complementar nº 114, de 11 de dezembro de 2015).
 
 ~~Art. 371 A instalação de postos de serviços automobilísticos e de abastecimentos de combustíveis, fica sujeita a concessão de licença da Prefeitura.~~
@@ -2926,12 +3038,14 @@ Art. 371. A instalação e funcionamento de postos de serviços automobilístico
 
 Art. 372 do projeto dos equipamentos e instalações, dos postos de serviços automobilísticos e de abastecimentos de combustíveis deverá constar a planta de localização dos referidos equipamentos e instalações em notas explicáveis referente às condições de segurança e funcionamento.
 
-§ 1º Os depósitos de inflamáveis deverão ser à prova de propagação de fogo e sujeitos, em todos os seus detalhes e funcionamento, ao que prescreve a legislação federal, estadual e municipal, além das normas do Corpo de Bombeiro do Estado de Goiás em vigor.<br>
+§ 1º Os depósitos de inflamáveis deverão ser à prova de propagação de fogo e sujeitos, em todos os seus detalhes e funcionamento, ao que prescreve a legislação federal, estadual e municipal, além das normas do Corpo de Bombeiro do Estado de Goiás em vigor.
+
 (Redação alterada pela Lei Complementar nº 114, de 11 de dezembro de 2015).
 
 ~~§ 1º Os depósitos de inflamáveis deverão ser metálicos e subterrâneos, à prova de propagação de fogo e sujeitos em todos os seus detalhes e funcionamento, ao que prescreve a Legislação Federal especial sobre inflamáveis.~~
 
-§ 2º As bombas distribuidoras de combustíveis e depósito de inflamáveis só poderão ser instalados seguindo as especificações da legislação municipal e normas técnicas do Corpo de Bombeiro do Estado de Goiás em vigor.<br>
+§ 2º As bombas distribuidoras de combustíveis e depósito de inflamáveis só poderão ser instalados seguindo as especificações da legislação municipal e normas técnicas do Corpo de Bombeiro do Estado de Goiás em vigor.
+
 (Redação alterada pela Lei Complementar nº 114, de 11 de dezembro de 2015).
 
 ~~§ 2º As bombas distribuidoras de combustíveis só poderão ser instalados:~~
@@ -2940,28 +3054,86 @@ Art. 372 do projeto dos equipamentos e instalações, dos postos de serviços au
 
 ~~B Dentro de terrenos de oficinas, indústrias e cooperativas, desde que fiquem afastadas no mínimo, 15 m (quinze) metros das edificações, 5,00 m (cinco) metros das divisas do lote 10,00 m (dez) metros do alinhamento de logradouros públicos e que possibilitem operar com o veículo no interior do terreno;~~
 
-§ 3º. A distância mínima entre bombas distribuidoras de combustíveis em relação a vias públicas e a quaisquer edificações dentro do mesmo imóvel ou adjacente será a estabelecida nas Normas Técnicas do Corpo de Bombeiros Militar do Estado de Goiás em vigor.<br>
+§ 3º. A distância mínima entre bombas distribuidoras de combustíveis em relação a vias públicas e a quaisquer edificações dentro do mesmo imóvel ou adjacente será a estabelecida nas Normas Técnicas do Corpo de Bombeiros Militar do Estado de Goiás em vigor.
+
 (Redação alterada pela Lei Complementar nº 114, de 11 de dezembro de 2015).
 
 ~~§ 3º A partir da vigência deste Código é proibido a instalação de bombas de combustíveis a uma distância inferior a 100,00 m (cem metros) de escolas, estabelecimentos de saúde, asilo, locais de culto, mercado, cemitério, estações ferroviárias ou rodoviárias e estabelecimentos de divertimento público, ou na mesma quadra onde se acharem localizadas estas edificações;~~
 
 § 4º As exigências do parágrafo anterior são extensivas a todo e qualquer edifício público.
 
-§ 5º - A instalação de depósito de gás liquefeito de petróleo (GLP) deve obedecer a uma distância mínima de segurança, a partir de sua área de armazenamento, conforme tabela abaixo, sem prejuízo das demais normas da Agência Nacional de Petróleo – ANP:<br>
+§ 5º - A instalação de depósito de gás liquefeito de petróleo (GLP) deve obedecer a uma distância mínima de segurança, a partir de sua área de armazenamento, conforme tabela abaixo, sem prejuízo das demais normas da Agência Nacional de Petróleo – ANP:
+
 (Redação acrescentada pela Lei Complementar nº 96, de 22 de novembro de 2014).
 
-<table align="center" class="Table" style="width:667px; border-collapse:collapse; border:none" width="667"><tbody><tr><td style=" width:110px;    ">CLASSE</td><td style=" width:256px;    ">Capacidade de Armazenamento (kG de GLP)</td><td style=" width:301px;    ">Distância Mínima de Locais de Reunião de Público (em metros)</td></tr><tr><td style=" width:110px;    ">I</td><td style=" width:256px;    ">Até 520</td><td style=" width:301px;    ">10</td></tr><tr><td style=" width:110px;    ">II</td><td style=" width:256px;    ">Até 1.560</td><td style=" width:301px;    ">15</td></tr><tr><td style=" width:110px;    ">III</td><td style=" width:256px;    ">Até 6.240</td><td style=" width:301px;    ">40</td></tr><tr><td style=" width:110px;    ">IV</td><td style=" width:256px;    ">Até 12.480</td><td style=" width:301px;    ">45</td></tr><tr><td style=" width:110px;    ">V</td><td style=" width:256px;    ">Até 24.960</td><td style=" width:301px;    ">50</td></tr><tr><td style=" width:110px;    ">VI</td><td style=" width:256px;    ">Até 49.920</td><td style=" width:301px;    ">75</td></tr><tr><td style=" width:110px;    ">VII</td><td style=" width:256px;    ">Até 99.840</td><td style=" width:301px;    ">90</td></tr><tr><td style=" width:110px;    ">Especial</td><td style=" width:256px;    ">Mais que 99.840</td><td style=" width:301px;    ">90</td></tr></tbody></table>
+CLASSE
 
-§ 6º - Consideram-se locais de reunião de público, para os fins do parágrafo anterior, os espaços destinados ao agrupamento de pessoas, em imóvel de uso coletivo, público ou não, com capacidade superior a 200 (duzentas) pessoas, tais como estádios, auditórios, ginásios, escolas, clubes, teatros, cinemas, parques de diversão, estabelecimentos de saúde, mercado, supermercado, hipermercados, estações rodoviárias ou ferroviárias, locais de culto religioso e salões de uso diverso.<br>
+Capacidade de Armazenamento (kG de GLP)
+
+Distância Mínima de Locais de Reunião de Público (em metros)
+
+I
+
+Até 520
+
+10
+
+II
+
+Até 1.560
+
+15
+
+III
+
+Até 6.240
+
+40
+
+IV
+
+Até 12.480
+
+45
+
+V
+
+Até 24.960
+
+50
+
+VI
+
+Até 49.920
+
+75
+
+VII
+
+Até 99.840
+
+90
+
+Especial
+
+Mais que 99.840
+
+90
+
+§ 6º - Consideram-se locais de reunião de público, para os fins do parágrafo anterior, os espaços destinados ao agrupamento de pessoas, em imóvel de uso coletivo, público ou não, com capacidade superior a 200 (duzentas) pessoas, tais como estádios, auditórios, ginásios, escolas, clubes, teatros, cinemas, parques de diversão, estabelecimentos de saúde, mercado, supermercado, hipermercados, estações rodoviárias ou ferroviárias, locais de culto religioso e salões de uso diverso.
+
 (Redação acrescentada pela Lei Complementar nº 96, de 22 de novembro de 2014).
 
-§ 7º - Fica proibido a instalação de depósito de gás liquefeito de petróleo (GLP) na mesma quadra ou em local que não guarde uma distância mínima de 15 (quinze) metros de onde já houver outro estabelecimento do mesmo gênero.<br>
+§ 7º - Fica proibido a instalação de depósito de gás liquefeito de petróleo (GLP) na mesma quadra ou em local que não guarde uma distância mínima de 15 (quinze) metros de onde já houver outro estabelecimento do mesmo gênero.
+
 (Redação acrescentada pela Lei Complementar nº 96, de 22 de novembro de 2014).
 
-§ 8º. O estabelecimento que se instalar ou funcionar sem Certificado emitido pelo Corpo de Bombeiros Militar do Estado de Goiás, na atividade de Abastecimento de Combustíveis, estará sujeito à interdição pelo poder público municipal, até a efetiva regularização, alem de outras sanções previstas em lei.<br>
+§ 8º. O estabelecimento que se instalar ou funcionar sem Certificado emitido pelo Corpo de Bombeiros Militar do Estado de Goiás, na atividade de Abastecimento de Combustíveis, estará sujeito à interdição pelo poder público municipal, até a efetiva regularização, alem de outras sanções previstas em lei.
+
 (Redação alterada pela Lei Complementar nº 114, de 11 de dezembro de 2015).
 
-§ 9º. O responsável pelo estabelecimento que armazena e/ou comercializa inflamáveis deverá apresentar no ato do licenciamento e renovação da licença ou sempre que requisitado pelo Poder Público Municipal, a documentação sobre dimensões, capacidade, estado de conservação, localização de instalações de recipientes destinados a armazenamento de inflamáveis, bem como o Certificado emitido pelo Corpo de Bombeiros Militar do Estado de Goiás, sem prejuízo dos demais documentos exigidos.<br>
+§ 9º. O responsável pelo estabelecimento que armazena e/ou comercializa inflamáveis deverá apresentar no ato do licenciamento e renovação da licença ou sempre que requisitado pelo Poder Público Municipal, a documentação sobre dimensões, capacidade, estado de conservação, localização de instalações de recipientes destinados a armazenamento de inflamáveis, bem como o Certificado emitido pelo Corpo de Bombeiros Militar do Estado de Goiás, sem prejuízo dos demais documentos exigidos.
+
 (Redação alterada pela Lei Complementar nº 114, de 11 de dezembro de 2015).
 
 Art. 373 Não é permitida a instalação de bombas de combustíveis em logradouros públicos.
@@ -3002,10 +3174,12 @@ V - Pessoal de serviço adequadamente uniformizado.
 
 § 12º A infração dos dispositivos do presente artigo será punido pela aplicação de multas, podendo ainda, a juízo do órgão competente da Prefeitura, ser determinada a interdição do posto ou qualquer de seus serviços.
 
-CAPÍTULO XI<br>
+CAPÍTULO XI
+
 DO MEIO AMBIENTE
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DA EXPLORAÇÃO DE PEDREIRAS, BARREIRAS, SAIBREIRAS, OLARIAS E EXTRAÇÃO DE AREIAS
 
 Art. 375 A exploração de pedreiras, barreiras, saibreiras, depende de prévia licença da Prefeitura.
@@ -3094,7 +3268,8 @@ Art. 383 Na exploração de pedreiras, barreiras ou saibreiras é obrigatória a
 
 Art. 384 No transporte do material de pedreira, barreiras ou saibreiras bom como de desmonte ou quaisquer outras explorações de idênticas natureza só poderão ser usados veículos perfeitamente vedados, afim de impedir a queda de pedras ou similares sobre o leito das vias públicas por onde transitarem.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA EXTRAÇÃO E DOS DEPÓSITOS DE AREIAS E DA EXPLORAÇÃO DE OLARIAS
 
 Art. 385 A extração de areia, e a localização de depósitos de areias e a exploração de olarias dependem de prévia licença da Prefeitura:
@@ -3139,7 +3314,8 @@ IV - Quando oferecer perigo à estabilidade de pontes, pontilhões, muralhas ou 
 
 Art. 388 Nos locais de extração e depósitos de areias, a Prefeitura poderá determinar, a qualquer tempo a execução de obras consideradas ao saneamento da areia a proteção de imóveis vizinhos.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DA COBERTURA VEGETAL NATURAL
 
 Art.389. Sem prejuízo do dispositivo na Lei Estadual nº 12.596, de 14 de março de 1995 e demais prescrições previstas na legislação federal, serão consideradas áreas de preservação permanentes, em todo o território do município, as florestas e demais formas de vegetação natural situadas:
@@ -3162,7 +3338,8 @@ VIII-nas bordas de tabuleiros ou chapadas, a partir da linha de ruptura do relev
 
 IX- em ilha e faixa marginal alem do leito maior sazonal. Medindo horizontalmente, de acordo com a inundação do rio e, na ausência desta, observada a distancia mínima de 50m (cinqüenta metros), medida de sua margem;
 
-X- nas veredas e /ou em altitudes superiores a 1200m(um mil e duzentos metros).<br>
+X- nas veredas e /ou em altitudes superiores a 1200m(um mil e duzentos metros).
+
 (Redação alterada pela Lei Municipal nº 2.232, de 28 de dezembro de 2001).
 
 ~~Art. 389 Sem prejuízo do disposto na Lei Estadual nº 12.596, de 14 de março de 1995 e demais prescrições na legislação federal, serão consideradas áreas preservação permanente, em todo o território do Município, as florestas e demais formas de vegetação natural situadas:~~
@@ -3199,7 +3376,8 @@ IV- asilar e dar proteção a populações de fauna ou da flora ameaçadas de ex
 
 V- assegurar condições de bem estar público;
 
-VI-outras condições necessárias á preservação de ecossistemas.<br>
+VI-outras condições necessárias á preservação de ecossistemas.
+
 (Redação alterada pela Lei Municipal nº 2.232, de 28 de dezembro de 2001).
 
 ~~Art. 390 Considerar-se-ão ainda de preservação permanente as florestas e demais formas de vegetação localizadas no território do Município, quando destinadas a:~~
@@ -3216,36 +3394,42 @@ VI-outras condições necessárias á preservação de ecossistemas.<br>
 
 ~~VI - Outras condições necessárias à preservação de ecossistemas.~~
 
-Art.391. Nas áreas e faixas de preservação ambiental, devera ser providenciada a reposição da cobertura vegetal arbórea, quando destruída ou não mais existir, sendo permitido seu uso apenas para lazer ou recreação.<br>
+Art.391. Nas áreas e faixas de preservação ambiental, devera ser providenciada a reposição da cobertura vegetal arbórea, quando destruída ou não mais existir, sendo permitido seu uso apenas para lazer ou recreação.
+
 (Redação alterada pela Lei Municipal nº 2.232, de 28 de dezembro de 2001).
 
 ~~Art. 391 Nas áreas e faixas de preservação ambiental, deverá ser providenciada a reposição da cobertura vegetal arbórea, quando destruída ou não mais existir, sendo permitido seu uso apenas para lazer ou recreação.~~
 
-Art.392- Criada ou delimitada as áreas de preservação.Poderá haver, ao longo dos fundos dos vales, quando convier, via público, objetivando a implementação de rede de esgoto, a fim de resguardar a faixa lateral contígua aos cursos d´agua.<br>
+Art.392- Criada ou delimitada as áreas de preservação.Poderá haver, ao longo dos fundos dos vales, quando convier, via público, objetivando a implementação de rede de esgoto, a fim de resguardar a faixa lateral contígua aos cursos d´agua.
+
 (Redação alterada pela Lei Municipal nº 2.232, de 28 de dezembro de 2001).
 
 ~~Art. 392 Criada ou delimitada as áreas de preservação, poderá haver ao longo dos fundos dos vales, quando convier, via pública, objetivando a implementação de rede de esgoto, a fim de resguardar a faixa lateral contígua os cursos d´água.~~
 
-Art.393. Nas áreas não edificadas e publicas destinadas á áreas verdes e de uso institucional, a arborização natural existente devera ser preservada, por ocasião da abertura do loteamento e, caso não exista vegetação natural, o loteador devera providenciar a respectiva arborização.<br>
+Art.393. Nas áreas não edificadas e publicas destinadas á áreas verdes e de uso institucional, a arborização natural existente devera ser preservada, por ocasião da abertura do loteamento e, caso não exista vegetação natural, o loteador devera providenciar a respectiva arborização.
+
 (Redação alterada pela Lei Municipal nº 2.232, de 28 de dezembro de 2001).
 
 ~~Art. 393 Nas áreas não edificáveis e públicas destinadas à áreas verdes e de uso institucional, a arborização natural existente deverá ser preservada, por ocasião da abertura do loteamento e, caso não exista vegetação natural, o loteador deverá providenciar a respectiva arborização.~~
 
 Art.394 – As áreas pertencentes a particulares, cuja situação ou características de vegetação indiquem que devam ser preservadas, respeitados os princípios constitucionais que regem o exercício do direito de propriedade, poderão ter limitado ou proibido o seu uso, sendo consideradas de utilidade pública, cabendo ao município realizar a desapropriação ou tombamento.
 
-Parágrafo Único – Incluem-se nas disposições deste artigo às arvores raras ou de grande valor paisagístico, situadas em terrenos de propriedades privadas, que poderão igualmente ser tombadas pelo Poder Publico Municipal.<br>
+Parágrafo Único – Incluem-se nas disposições deste artigo às arvores raras ou de grande valor paisagístico, situadas em terrenos de propriedades privadas, que poderão igualmente ser tombadas pelo Poder Publico Municipal.
+
 (Redação alterada pela Lei Municipal nº 2.232, de 28 de dezembro de 2001).
 
 ~~Art. 394 Nas áreas pertencentes a particulares, cuja situação ou características de vegetação indiquem que devam ser preservadas, respeitados os princípios constitucionais que regem o exercício do direito de propriedade, poderão ter limitado ou proibido o seu uso, sendo consideradas de utilidade pública, cabendo ao Município realizar a desapropriação ou tombamento.~~
 
 ~~Parágrafo Único Incluem-se nas disposições deste artigo as árvores raras ou de grande valor paisagístico, situadas em terreno de propriedade privadas, que poderão igualmente ser tombadas pelo Poder Público Municipal.~~
 
-Art.395 – A exploração das espécies aroeira (miracroduon urundeeuva), brauna (schinopsis brasiliensis), Gonçalo Alves (astronium fraxinifolium), ipê (tabebuia sp), angico (piptadenia sp) e amburana ou cerejeira (torresea cearensis) no território do9 municipio, somente será autorizada após apresentação de plano de manejo sustentado ou respectivo plano de exploração, acompanhado de estudo prévio de avaliação de impacto ambiental, observadas as normas baixadas pelos Conselhos Estadual e Nacional do Meio Ambiente – CEMAM E CONAMA.<br>
+Art.395 – A exploração das espécies aroeira (miracroduon urundeeuva), brauna (schinopsis brasiliensis), Gonçalo Alves (astronium fraxinifolium), ipê (tabebuia sp), angico (piptadenia sp) e amburana ou cerejeira (torresea cearensis) no território do9 municipio, somente será autorizada após apresentação de plano de manejo sustentado ou respectivo plano de exploração, acompanhado de estudo prévio de avaliação de impacto ambiental, observadas as normas baixadas pelos Conselhos Estadual e Nacional do Meio Ambiente – CEMAM E CONAMA.
+
 (Redação alterada pela Lei Municipal nº 2.232, de 28 de dezembro de 2001).
 
 ~~Art. 395 A exploração das espécies aroeira (Miracroduon urndeeuva), braúna (Schinopsis brasiliensis), Gonçalo Alves (Astronium fraxinifolium), ipê (Tabebuia sp), angico (Piptadenia sp) e amburana ou cerejeira (Torresea cearensis) no território do Município, somente será autorizada após apresentação de Plano de Manejo Sustentado ou o respectivo Plano de Exploração, acompanhados de estudo de avaliação de Impacto Ambiental, observadas as normas baixadas pelos Conselhos Estadual e Nacional do Meio Ambiente – CEMAM e CONAMA.~~
 
-Art.396 – As arvores adultas de grande porte, existente em terrenos particulares, só poderão ser erradicadas após consulta previa do interessado ao órgão competente da Prefeitura, que poderá ou não autorizada o seu sacrifício, se assim for do interesse público.<br>
+Art.396 – As arvores adultas de grande porte, existente em terrenos particulares, só poderão ser erradicadas após consulta previa do interessado ao órgão competente da Prefeitura, que poderá ou não autorizada o seu sacrifício, se assim for do interesse público.
+
 (Redação alterada pela Lei Municipal nº 2.232, de 28 de dezembro de 2001).
 
 ~~Art. 396 As árvores adultas de grande porte, existentes em terrenos particulares, só poderão ser erradicados após consulta prévia do interessado ao órgão competente da Prefeitura, que poderá ou não autorizar o seu sacrifício, se assim for do interesse público.~~
@@ -3256,7 +3440,8 @@ I –projeto, contendo os requisitos exigidos na legislação federal e estadual
 
 II – ante de plantio, manutenção e recuperação de florestas destinadas ao suprimento de estabelecimento, tanto em terras próprias como pertencentes a terceiros.
 
-Parágrafo único – A critério do órgão ambiental e objetivando resguardar a boa qualidade do ar, água e manutenção de áreas verdes e florestas poderão ser exigidos outros requisitos para o estabelecimento e funcionamento das carvoeiras no território do Município.<br>
+Parágrafo único – A critério do órgão ambiental e objetivando resguardar a boa qualidade do ar, água e manutenção de áreas verdes e florestas poderão ser exigidos outros requisitos para o estabelecimento e funcionamento das carvoeiras no território do Município.
+
 (Redação alterada pela Lei Municipal nº 2.232, de 28 de dezembro de 2001).
 
 ~~Art. 397 O funcionamento de empresas que explorem atividades carvoeiras no território do Município, dependerá de prévia licença do órgão ambiental competente, devendo ser exigido, quando de seu licenciamento;~~
@@ -3269,17 +3454,20 @@ Parágrafo único – A critério do órgão ambiental e objetivando resguardar 
 
 Art. 398 – O funcionamento da atividade de aqüicultura, praticada por empresas ou pessoas físicas, destinadas á psicultura, criatório e plantel reprodutor de peixes, incluídas a pesca ornamental, com fins científicos ou comerciais dependerá de previa autorização do órgão competente municipal, resguardadas as prescrições estatuídas nas legislações federal, estadual, especialmente as contidas na lei nº 13.025, de 13 de janeiro de 1997 e portaria normativa de nº 50, de 10 de abril de 1997, que regulamenta.
 
-Parágrafo único – a atividade a que se refere este artigo somente terá seu licenciamento liberado pela Prefeitura, após previa vistoria e autorização da Agencia Goiana de Meio Ambiente e Recursos Naturais do Estado de Goiás, devendo ser evitada a contaminação das fontes e mananciais d´agua necessária ao seu desenvolvimento e abastecimento.<br>
+Parágrafo único – a atividade a que se refere este artigo somente terá seu licenciamento liberado pela Prefeitura, após previa vistoria e autorização da Agencia Goiana de Meio Ambiente e Recursos Naturais do Estado de Goiás, devendo ser evitada a contaminação das fontes e mananciais d´agua necessária ao seu desenvolvimento e abastecimento.
+
 (Redação alterada pela Lei Municipal nº 2.232, de 28 de dezembro de 2001).
 
 ~~Art. 398 O funcionamento da atividade de aqüicultura, praticada por empresas ou pessoas físicas, destinada à piscicultura, criatório e plantel reprodutor de peixes, incluídas a pesca ornamental, com fins científicos ou comerciais, dependerá de prévia autorização do órgão competente municipal, resguardadas as prescrições estatuídas nas legislações federais, estaduais, especialmente as contidas na Lei nº 13.025, de 13 de janeiro de 1997 e Portaria Normativa de nº 50, de 10 de abril de 1977, que a regulamenta.~~
 
 ~~Parágrafo Único A atividade a que se refere este artigo somente terá seu licenciamento liberado pela Prefeitura, após prévia vistoria e autorização da Agência Goiana de Meio Ambiente e Recursos Naturais do Estado de Goiás, devendo ser evitada a contaminação das fontes e mananciais d´água necessários ao seu desenvolvimento e abastecimento.~~
 
-TÍTULO IV<br>
+TÍTULO IV
+
 DA FISCALIZAÇÃO DA PREFEITURA
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 399 É de responsabilidade da fiscalização municipal cumprir e fazer cumprir as disposições deste Código.
@@ -3304,7 +3492,8 @@ Art. 402 O proprietário de instalação elétrica ou mecânica sujeitas a inspe
 
 Parágrafo Único Quando se tratar de instalações elétricas e mecânicas sujeitas a licença para sua instalação e funcionamento, esta deverá ser exibida à fiscalização municipal, quando for solicitada.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA INTIMAÇÃO
 
 Art. 403 A intimação terá lugar sempre que for necessário, fazer cumprir quaisquer dos dispositivos deste Código.
@@ -3365,7 +3554,8 @@ Art. 410 Ultrapassar os prazos para a satisfação ou penalidades aplicadas, ser
 
 Art. 411 Dentro de 90 (noventa) dias contados da data da publicação da presente Lei, o Prefeito Municipal baixará decreto regulamentado o disposto neste capítulo.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS VISTORIAS
 
 Art. 412 As vistorias administrativas de obras e estabelecimento, além de outros que se fizerem necessários para o cumprimento de dispositivos deste Código será providenciada no órgão competente da Prefeitura e realizadas por intermédio de comissão técnica especial designada para este fim.
@@ -3444,7 +3634,8 @@ IV - de 180 (cento e oitenta) UVFA, quando se trata dos estabelecimentos em gera
 
 V – 250 (duzentos e cinqüenta) UVFA por metro quadrado, aplicáveis –aqueles que depredarem, por quaisquer meios, inclusive em decorrência da execução de obras de engeharia, as vias e logradouros públicos.
 
-Parágrafo único – A aplicação da multa prevista neste inciso poderá deixar de ser aplicado caso a depredação seja reparada e desde que o reparo executado esteja de acordo com as normas técnicas adequadas aos serviços, após vistoria e aceite do órgão competente do município.<br>
+Parágrafo único – A aplicação da multa prevista neste inciso poderá deixar de ser aplicado caso a depredação seja reparada e desde que o reparo executado esteja de acordo com as normas técnicas adequadas aos serviços, após vistoria e aceite do órgão competente do município.
+
 (Redação alterada pela Lei Municipal nº 2.232, de 28 de dezembro de 2001).
 
 ~~Art. 418 Dentro do prazo fixado na intimação resultante de laudo de vistoria, o interessado poderá apresentar recurso ao secretário de serviços públicos, por meio de requerimento.~~
@@ -3455,10 +3646,12 @@ Parágrafo único – A aplicação da multa prevista neste inciso poderá deixa
 
 ~~§ 3º O recurso não suspende a execução das medidas urgentes a serem tomadas de acordo com os dispositivos deste Código, nos casos de ameaças de desabamentos, com perigos para a segurança pública.~~
 
-TÍTULO V<br>
+TÍTULO V
+
 DAS INFRAÇÕES E DAS PENALIDADES
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
 Art.419 – Na infração de qualquer dispositivo deste Código relativo ao bem-estar público, poderão ser impostas multas correspondentes aos seguintes valores em UVFA:
@@ -3473,7 +3666,8 @@ IV- de 500(quinhentas) UVFA, quando lhe forem compridas as prescrições relativ
 
 V- de 100 (cem)UVFA nos casos relacionados aos registros, licenciamento, vacinação, proibição e captura e maus tratos de animais nas zonas urbanas e suburbanas do município;
 
-VI - de 200 (duzentas) UVFA, quando se trata de queimadas ou qualquer espécie de destruição de arvores, incluídas as plantas pela Prefeitura.<br>
+VI - de 200 (duzentas) UVFA, quando se trata de queimadas ou qualquer espécie de destruição de arvores, incluídas as plantas pela Prefeitura.
+
 (Redação alterada pela Lei Municipal nº 2.232, de 28 de dezembro de 2001).
 
 ~~Art. 419 Qualquer infração aos dispositivos deste código ficará sujeita a penalidade.~~
@@ -3482,7 +3676,8 @@ Art. 420 – Verificada infração de qualquer dispositivo deste Código á loca
 
 I – de 50 (cinqüenta) UVFA, nos casos relacionados com o exercício do comercio ambulante;
 
-II – de 180 (cento e oitenta) UVFA, quando não obedecidas outras prescrições relativas á localização, ao licenciamento, comercial, industrial e prestador de serviço.<br>
+II – de 180 (cento e oitenta) UVFA, quando não obedecidas outras prescrições relativas á localização, ao licenciamento, comercial, industrial e prestador de serviço.
+
 (Redação alterada pela Lei Municipal nº 2.232, de 28 de dezembro de 2001).
 
 ~~Art. 420 Em relação a gêneros alimentícios adulterados fraudadas ou falsificados, consideram-se infratores:~~
@@ -3501,7 +3696,8 @@ Art.421 – Verificada qualquer infração ás disposições contidas nas seçõ
 
 § 1º - N infração a qualquer dispositivo deste código não especificados neste capitulo, serão aplicadas multas ao infrator de valor correspondente de 200 (duzentas) UVFA;
 
-§ 2º - Aplicam-se, no que couber, quando ás reduções das multas às disposições previstas na Lei Municipal nº 1.332/93 tributário Municipal.<br>
+§ 2º - Aplicam-se, no que couber, quando ás reduções das multas às disposições previstas na Lei Municipal nº 1.332/93 tributário Municipal.
+
 (Redação alterada pela Lei Municipal nº 2.232, de 28 de dezembro de 2001).
 
 ~~Art. 421 Verificada a infração a qualquer dispositivo deste Código, será lavrada imediatamente, pelo servidor público municipal competente, o respectivo auto, modelo oficial a ser baixado pelo secretário de serviço público do qual deverá constar obrigatoriamente os elementos abaixo:~~
@@ -3528,12 +3724,14 @@ Parágrafo Único Julgadas procedentes, as penalidades serão incorporadas ao hi
 
 Art. 423 A aplicação de penalidade referidas não isenta o infrator das demais penalidades que lhe forem aplicáveis pelos mesmos motivos e previstas pela Legislação Federal ou Estadual nem da obrigação de repara os danos resultantes da infração na forma do artigo 159 do Código Civil.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA ADVERTÊNCIA DA SUSPENSÃO E CASSAÇÃO DE LICENÇA DE FUNCIONAMENTO DE ESTABELECIMENTO COMERCIAL, INDUSTRIAL E PRESTADOR DE SERVIÇO
 
 Art. 424 Os proprietários de estabelecimentos comerciais, industriais ou prestador de serviço, que infringirem, dispositivos deste Código, poderão sofrer penalidades de advertência.
 
-Art.425. No caso de reincidência as multas previstas nesta Lei serão aplicadas em dobro.<br>
+Art.425. No caso de reincidência as multas previstas nesta Lei serão aplicadas em dobro.
+
 (Redação alterada pela Lei Municipal nº 2.232, de 28 de dezembro de 2001).
 
 ~~Art. 425 No caso de infração o proprietário de estabelecimento comercial, industrial ou prestador de serviço poderá ter a licença de funcionamento suspensa por prazo determinado ajuízo do secretário de serviços públicos.~~
@@ -3542,7 +3740,8 @@ Art. 426 A licença de localização ou funcionamento de estabelecimento comerci
 
 Parágrafo Único No caso de estabelecimento licenciado antes da data da publicação deste Código, e cuja atividade seja considerada nociva a saúde, à higiêne, à segurança e ao sossego público a Prefeitura poderá promover a sua interdição judicial.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS MULTAS
 
 Art. 427 Julgado improcedente a defesa apresentada pelo infrator ou não sendo mesma apresentada no prazo fixado, será imposta multa correspondente à infração que deverá ser paga no órgão arrecadador da Prefeitura no prazo de 05 (cinco)dias a partir da notificação.
@@ -3571,7 +3770,8 @@ II - De 180 (cento e oitenta) UVFA nos casos concernentes a muros e cercas, mura
 
 III - De 500 (quinhentas) UVFA nos casos relacionados com armazenamento, comércio, transporte e emprego de inflamáveis e explosivos;
 
-IV - de 500 (quinhentas) UVFA, quando não forem cumpridas as prescrições relativas a segurança no trabalho, a prevenção contra incêndios e a exploração de pedreiras, barreiras ou saibreiras.<br>
+IV - de 500 (quinhentas) UVFA, quando não forem cumpridas as prescrições relativas a segurança no trabalho, a prevenção contra incêndios e a exploração de pedreiras, barreiras ou saibreiras.
+
 (Redação alterada pela Lei Complementar nº 114, de 11 de dezembro de 2015).
 
 ~~IV - De 500 (quinhentas) UVFA quando lhe forem cumpridas as prescrições relativas à segurança no trabalho, à prevenção contra incêndios e à exploração de pedreiras, barreiras ou saibreiras;~~
@@ -3612,7 +3812,8 @@ Art. 438 Ao funcionário competente que, por omissão houver deixado de lavrar a
 
 Parágrafo Único O infrator não fica isento do pagamento das multas a que estiver sujeito, em decorrência da infração que deu origem à penalidade.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS COISAS APREENDIDAS
 
 Art. 439 Nos casos de apreensão, coisas apreendidas serão recolhidas ao Depósito Público da Prefeitura.
@@ -3641,7 +3842,8 @@ Parágrafo Único Após o vencimento do prazo a que se refere o presente artigo,
 
 Art. 442 Das mercadorias apreendidas de vendedor ambulante sem licença da Prefeitura, haverá destinação apropriada a cada caso de acordo com o estabelecimento pela Secretaria de Serviços Públicos.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DOS NÃO DIRETAMENTE PUNÍVEIS E DA RESPONSABILIDADE DA PENA
 
 Art. 443 Não serão diretamente passíveis de penas definidas neste Código:
@@ -3658,7 +3860,8 @@ II - Sobre o curador ou pessoa cuja guarda estiver a pessoa;
 
 III - Sobre aquele que der causa à contravenção forçada.
 
-TÍTULO VII<br>
+TÍTULO VII
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 445 Para efeito deste Código, UVFA é a vigente no município na data em que a multa for aplicada.
@@ -3739,5 +3942,6 @@ OBS.:
 
 2\) Incluída a modificação no Código de Postura pela Lei Municipal nº 2.223 de 28/12/2001. L.M. nº 2.232 – Art 6º - Os casos omissos no Código de Posturas, Lei Municipal nº 792, de 7 de dezembro de 1998, serão supridos pelos dispositivos das legislações federal e estadual aplicáveis ao Meio Ambiente, inclusive no tocante às penalidades nelas previstas, escolhidas as que mais se adequarem à espécie fiscalizada pelo Município.
 
-NORBERTO JOSE TEIXEIRA<br>
+NORBERTO JOSE TEIXEIRA
+
 Prefeito Municipal

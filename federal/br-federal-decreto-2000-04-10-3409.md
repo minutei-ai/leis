@@ -1,5 +1,3 @@
-###DEC-003409-0-000-10-04-2000@@@
-
 DECRETO Nº 3.409, DE 10 DE ABRIL DE 2000.
 
 Define as ações continuadas de assistência social.

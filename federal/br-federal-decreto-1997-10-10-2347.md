@@ -1,5 +1,3 @@
-###DEC-002347-0-000-10-10-1997@@@
-
 DECRETO Nº 2.347, DE 10 DE OUTUBRO DE 1997
 
 Promulga o Tratado de Extradição, celebrado entre o Governo da República Federativa do Brasil e o Governo do Reino Unido da Grã-Bretanha e Irlanda do Norte.
@@ -270,4 +268,34 @@ Em fé do que, os abaixo assinados, devidamente autorizados para tanto por seus 
 
 Feito em Londres, em 18 de julho de 1995, em dois exemplares originais, nos idiomas português e inglês, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Pelo Governo da República</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>Federativa do Brasil</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Pelo Governo do Reino Unido da</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>Grã-Bretanha e Irlanda</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>do Norte</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Luiz Felipe Lampreia</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>Ministro de Estado das</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>Relações Exteriores</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Douglas Hurd</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>Secretário de Estado dos Assuntos</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>Estrangeiros e da Commonwealth</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Pelo Governo da República
+
+Federativa do Brasil
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Pelo Governo do Reino Unido da
+
+Grã-Bretanha e Irlanda
+
+do Norte
+
+</td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Luiz Felipe Lampreia
+
+Ministro de Estado das
+
+Relações Exteriores
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Douglas Hurd
+
+Secretário de Estado dos Assuntos
+
+Estrangeiros e da Commonwealth
+
+</td></tr></tbody></table>

@@ -1,5 +1,3 @@
-###DEL-004194-0-000-20-03-1942@@@
-
 DECRETO-LEI N. 4.194 – DE 20 DE MARÇO DE 1942
 
 Autoriza a aquisição de imovel em Iguape, Estado de São Paulo

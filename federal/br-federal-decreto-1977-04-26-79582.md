@@ -1,5 +1,3 @@
-###DEC-079582-0-000-26-04-1977@@@
-
 DECRETO nº 79.582, DE 26 DE ABRIL DE 1977
 
 Concede à Mineração Poços de Caldas Ltda. o direito de lavrar bauxita no Município de Poços de Caldas, Estado de Minas Gerais.

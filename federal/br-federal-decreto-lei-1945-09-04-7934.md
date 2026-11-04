@@ -1,5 +1,3 @@
-###DEL-007934-0-000-04-09-1945@@@
-
 DECRETO-LEI N. 7.934 – DE 4 DE SETEMBRO DE 1945
 
 Atribui aos Promotores Públicos o encargo de promover, assistir e acompanhar as reclamações de empregados, em matéria trabalhista.

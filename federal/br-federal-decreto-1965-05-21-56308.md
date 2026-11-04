@@ -1,5 +1,3 @@
-###DEC-056308-0-000-21-05-1965@@@
-
 DECRETO Nº 56.308, DE 21 DE MAIO DE 1965.
 
 Cria o Destacamento Brasileiro da Fôrça Armada Interamericana - “FAIBRÁS”.

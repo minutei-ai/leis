@@ -1,5 +1,3 @@
-###DEC-062002-0-000-28-12-1967@@@
-
 DECRETO Nº 62.002, DE 28 DE DEZEMBRO DE 1967.
 
 Transfere da Prefeitura Municipal de Paraíbuna para a Centrais Elétricas de São Paulo S.A. concessão para produzir, transmitir e distribuir energia elétrica no município de Paraíbuna, Estado de São Paulo e dá outras providências.

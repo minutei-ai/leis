@@ -1,5 +1,3 @@
-###DEL-009895-0-000-16-09-1946@@@
-
 DECRETO-LEI N. 9.895 – DE 16 DE SETEMBRO DE 1946
 
 Abre ao Ministério da Agricultura o crédito suplementar de Cr$ 385.000,00 às verbas que especifica.

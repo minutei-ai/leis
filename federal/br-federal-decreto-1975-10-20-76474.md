@@ -1,5 +1,3 @@
-###DEC-076474-0-000-20-10-1975@@@
-
 DECRETO Nº 76.474, DE 20 DE OUTUBRO DE 1975
 
 Declara de utilidade pública, para fins de desapropriação e instituição de servidão, pela telecomunicações de São Paulo S.A., TELESP áreas de terras, sem benfeitorias, necessárias à implantação e construção de estação de rádio e destinadas a acesso, a serem desmembradas de maior porção, situadas no "Sitio São Pedro", zona urbana, bairro de Jundiaí-Mirim, Município e Comarca de Jundiaí, Estado de São Paulo.

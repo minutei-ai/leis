@@ -1,5 +1,3 @@
-###DEL-008237-0-000-27-11-1945@@@
-
 DECRETO-LEI N. 8.237 – DE 27 DE NOVEMBRO DE 1945
 
 Abre, ao Ministério da Educação e Saúde, o crédito suplementar de Cr$ 247.000,00 à verba que especifica

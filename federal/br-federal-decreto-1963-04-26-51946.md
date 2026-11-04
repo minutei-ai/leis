@@ -1,5 +1,3 @@
-###DEC-051946-0-000-26-04-1963@@@
-
 DECRETO Nº 51.946, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro Clóvis Scripilliti a pesquisar buxita e argila, no município de Poços de Caldas, Estado de Minas Gerais.

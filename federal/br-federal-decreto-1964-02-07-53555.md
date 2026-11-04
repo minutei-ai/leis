@@ -1,5 +1,3 @@
-###DEC-053555-0-000-07-02-1964@@@
-
 DECRETO Nº 53.555, DE 7 DE FEVEREIRO DE 1964.
 
 Altera o Regimento do Colégio Pedro II Do Ministério da Educação e Cultura.

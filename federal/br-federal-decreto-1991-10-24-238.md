@@ -1,7 +1,3 @@
-1
-
-###DEC-000238-0-000-24-10-1991@@@
-
 DECRETO Nº 238, DE 24 DE OUTUBRO DE 1991
 
 Dispõe sobre o Sistema Nacional de Estoques de Combustíveis e dá outras providências.

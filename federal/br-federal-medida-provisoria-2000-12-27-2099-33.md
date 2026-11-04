@@ -1,5 +1,3 @@
-###MPV-002099-0-033-27-12-2000@@@
-
 medida provisória nº 2.099-33, de 27 de dezembro 2000.
 
 Dispõe sobre renegociação de dívidas no âmbito do Programa de Crédito Educativo, e dá outras providências.

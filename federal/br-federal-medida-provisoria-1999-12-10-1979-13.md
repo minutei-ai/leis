@@ -1,5 +1,3 @@
-###MPV-001979-0-013-10-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.979-13, DE 10 DE DEZEMBRO DE 1999.
 
 Dispõe sobre o repasse de recursos financeiros do Programa nacional de Alimentação Escolar, institui o Programa Dinheiro Direto na Escola, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-047284-0-000-24-11-1959@@@
-
 DECRETO Nº 47.284, DE 24 DE NOVEMBRO DE 1959.
 
 Altera o Regulamento da Escola de Aperfeiçoamento de Oficiais da Aeronáutica.

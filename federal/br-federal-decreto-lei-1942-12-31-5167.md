@@ -1,5 +1,3 @@
-###DEL-005167-0-000-31-12-1942@@@
-
 DECRETO-LEI N. 5.167 – DE 31 DE DEZEMBRO DE 1942
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 8.000.000,00 para subscrição de ações da Companhia Vale do Rio Doce S. A.

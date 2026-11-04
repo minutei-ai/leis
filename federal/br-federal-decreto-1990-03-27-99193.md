@@ -1,7 +1,3 @@
-1
-
-###DEC-099193-0-000-27-03-1990@@@
-
 DECRETO Nº 99,193, DE 27 DE MARCO DE 1990
 
 Dispõe sobre as atividades relacionadas ao zoneamento ecológico-econômico, e dá outras providências.

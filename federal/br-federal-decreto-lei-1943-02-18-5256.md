@@ -1,5 +1,3 @@
-###DEL-005256-0-000-18-02-1943@@@
-
 DECRETO‑LEI N. 5.256 – DE 18 DE FEVEreiRO dE 1943
 
 Autoriza o levantamento de caução

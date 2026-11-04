@@ -1,5 +1,3 @@
-###DEC-070672-0-000-05-06-1972@@@
-
 decreto nº 70.672, de 5 de junho de 1972.
 
 Redistribui, com o respectivo ocupante, para a Universidade Federal do Rio de Janeiro, cargo do Ministério da Saúde, e dá outras providências.

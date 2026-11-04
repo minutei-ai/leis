@@ -126,35 +126,44 @@ Afonso Bandeira Florence
 
 Secretário da Casa Civil
 
-Rodrigo Pimentel de Souza Lima<br>
+Rodrigo Pimentel de Souza Lima
+
 Secretário da Administração
 
-Cláudio Ramos Peixoto<br>
+Cláudio Ramos Peixoto
+
 Secretário do Planejamento
 
-Manoel Vitório da Silva Filho<br>
+Manoel Vitório da Silva Filho
+
 Secretário da Fazenda
 
-Marcelo Werner Derschum Filho<br>
+Marcelo Werner Derschum Filho
+
 Secretário da Segurança Pública
 
-Rowenna dos Santos Brito<br>
+Rowenna dos Santos Brito
+
 Secretária da Educação
 
-Roberta Silva de Carvalho Santana<br>
+Roberta Silva de Carvalho Santana
+
 Secretária da Saúde
 
-Angelo Mario Cerqueira de Almeida<br>
+Angelo Mario Cerqueira de Almeida
+
 Secretário de Desenvolvimento Econômico
 
-Felipe da Silva Freitas<br>
+Felipe da Silva Freitas
+
 Secretário de Justiça e Direitos Humanos
 
 Nadjane Estrela Soares
 
 Secretária de Cultura em exercício
 
-Ângela Cristina Santos Guimarães<br>
+Ângela Cristina Santos Guimarães
+
 Secretária de Promoção da Igualdade Racial e dos Povos e Comunidades Tradicionais
 
 Adolpho Henrique Almeida Loyola
@@ -169,33 +178,40 @@ Augusto Sérgio Vasconcelos de Oliveira
 
 Secretário do Trabalho, Emprego, Renda e Esporte
 
-Neusa Cadore<br>
+Neusa Cadore
+
 Secretária de Políticas para as Mulheres
 
-Jusmari Terezinha de Souza Oliveira<br>
+Jusmari Terezinha de Souza Oliveira
+
 Secretária de Desenvolvimento Urbano
 
 Sérgio Luís Lacerda Brito
 
 Secretário de Infraestrutura
 
-Marcius de Almeida Gomes<br>
+Marcius de Almeida Gomes
+
 Secretário de Ciência, Tecnologia e Inovação
 
-Eduardo Mendonça Sodré Martins<br>
+Eduardo Mendonça Sodré Martins
+
 Secretário do Meio Ambiente
 
-Pablo Rodrigo Barrozo dos Anjos Vale<br>
+Pablo Rodrigo Barrozo dos Anjos Vale
+
 Secretário da Agricultura, Pecuária, Irrigação, Pesca e Aquicultura
 
-Osni Cardoso de Araújo<br>
+Osni Cardoso de Araújo
+
 Secretário de Desenvolvimento Rural
 
 Marcus Vinicius Di Flora
 
 Secretário de Comunicação Social
 
-Luís Maurício Bacellar Batista<br>
+Luís Maurício Bacellar Batista
+
 Secretário de Turismo
 
 Fabya dos Reis Santos
@@ -216,173 +232,11 @@ GRUPO OCUPACIONAL FISCALIZAÇÃO E REGULAÇÃO
 
 CARREIRAS DE NÍVEL MÉDIO
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:425.4pt;border-collapse:collapse;border:none" width="0"><tbody><tr style="height:21.95pt"><td style="width:262.5pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" valign="top" width="350"><p class="Tabela-Texto" style="margin-top:1.85pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:1.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">CARGOS</span></p></td><td style="width:62.85pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" valign="top" width="84"><p class="Tabela-Texto" style="margin-top:1.5pt;margin-right:1.9pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">CLASSE</span></p></td><td style="width:100.05pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" valign="top" width="133"><p class="Tabela-Texto" style="margin-top:1.15pt;margin-right:2.7pt;margin-bottom:
-  3.0pt;margin-left:2.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">VENCIMENTO</span></p></td></tr><tr style="height:21.95pt"><td rowspan="10" style="width:262.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" width="350"><p class="Tabela-Texto" style="margin-top:1.5pt;margin-right:10.35pt;
-  margin-bottom:3.0pt;margin-left:10.45pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:105%"><span style="color:black;font-weight:normal">Técnico em Meio Ambiente e Recursos Hídricos Técnico em Metrologia e Qualidade Técnico em Fiscalização Agropecuária</span></p><p class="Tabela-Texto" style="margin-left:10.45pt;text-align:justify;
-  text-justify:inter-ideograph;line-height:108%"><span style="color:black;
-  font-weight:normal">Técnico em Regulação</span></p></td><td style="width:62.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" valign="top" width="84"><p class="Tabela-Texto" style="margin-top:1.15pt;margin-right:1.6pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:101%"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:100.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" valign="top" width="133"><p class="Tabela-Texto" style="margin-top:.75pt;margin-right:1.55pt;margin-bottom:
-  3.0pt;margin-left:2.45pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:104%"><span style="color:black;font-weight:normal">1.539,15</span></p></td></tr><tr style="height:21.95pt"><td style="width:62.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" valign="top" width="84"><p class="Tabela-Texto" style="margin-right:1.6pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2</span></p></td><td style="width:100.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" valign="top" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:1.15pt;margin-bottom:
-  3.0pt;margin-left:2.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.631,49</span></p></td></tr><tr style="height:21.95pt"><td style="width:62.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" valign="top" width="84"><p class="Tabela-Texto" style="margin-top:.05pt;margin-right:.5pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3</span></p></td><td style="width:100.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" valign="top" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.85pt;margin-bottom:
-  3.0pt;margin-left:2.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.729,38</span></p></td></tr><tr style="height:21.95pt"><td style="width:62.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" valign="top" width="84"><p class="Tabela-Texto" style="margin-top:.75pt;margin-right:.85pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4</span></p></td><td style="width:100.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" valign="top" width="133"><p class="Tabela-Texto" style="margin-top:.4pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:2.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.833,15</span></p></td></tr><tr style="height:21.95pt"><td style="width:62.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" valign="top" width="84"><p class="Tabela-Texto" style="margin-top:1.15pt;text-align:justify;text-justify:
-  inter-ideograph;line-height:104%"><span style="color:black;font-weight:normal">5</span></p></td><td style="width:100.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" valign="top" width="133"><p class="Tabela-Texto" style="margin-top:.75pt;margin-right:1.15pt;margin-bottom:
-  3.0pt;margin-left:2.45pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:107%"><span style="color:black;font-weight:normal">1.943,14</span></p></td></tr><tr style="height:21.95pt"><td style="width:62.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" valign="top" width="84"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6</span></p></td><td style="width:100.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" valign="top" width="133"><p class="Tabela-Texto" style="margin-left:2.45pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.059,72</span></p></td></tr><tr style="height:21.95pt"><td style="width:62.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" valign="top" width="84"><p class="Tabela-Texto" style="margin-top:1.15pt;margin-right:.55pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:107%"><span style="color:black;font-weight:normal">7</span></p></td><td style="width:100.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" valign="top" width="133"><p class="Tabela-Texto" style="margin-top:.75pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:2.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.183,31</span></p></td></tr><tr style="height:21.95pt"><td style="width:62.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" valign="top" width="84"><p class="Tabela-Texto" style="margin-right:.35pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">8</span></p></td><td style="width:100.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" valign="top" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.5pt;margin-bottom:
-  3.0pt;margin-left:2.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.314,31</span></p></td></tr><tr style="height:21.95pt"><td style="width:62.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" valign="top" width="84"><p class="Tabela-Texto" style="margin-top:1.15pt;margin-right:.7pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:101%"><span style="color:black;font-weight:normal">9</span></p></td><td style="width:100.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" valign="top" width="133"><p class="Tabela-Texto" style="margin-top:.4pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:2.65pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:107%"><span style="color:black;font-weight:normal">2.453,16</span></p></td></tr><tr style="height:21.95pt"><td style="width:62.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" valign="top" width="84"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">10</span></p></td><td style="width:100.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" valign="top" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.5pt;margin-bottom:
-  3.0pt;margin-left:2.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.600,35</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> CARGOS </td><td valign="top"> CLASSE </td><td valign="top"> VENCIMENTO </td></tr><tr><td rowspan="10"> Técnico em Meio Ambiente e Recursos Hídricos Técnico em Metrologia e Qualidade Técnico em Fiscalização Agropecuária Técnico em Regulação </td><td valign="top"> 1 </td><td valign="top"> 1.539,15 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> 1.631,49 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> 1.729,38 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> 1.833,15 </td></tr><tr><td valign="top"> 5 </td><td valign="top"> 1.943,14 </td></tr><tr><td valign="top"> 6 </td><td valign="top"> 2.059,72 </td></tr><tr><td valign="top"> 7 </td><td valign="top"> 2.183,31 </td></tr><tr><td valign="top"> 8 </td><td valign="top"> 2.314,31 </td></tr><tr><td valign="top"> 9 </td><td valign="top"> 2.453,16 </td></tr><tr><td valign="top"> 10 </td><td valign="top"> 2.600,35 </td></tr></tbody></table>
 
 CARREIRAS DE NÍVEL SUPERIOR
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:443.15pt;border-collapse:collapse;border:none" width="0"><tbody><tr style="height:21.6pt"><td style="width:272.9pt;border:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="364"><p class="Tabela-Texto" style="margin-top:1.85pt;margin-right:7.8pt;margin-bottom:
-  3.0pt;margin-left:8.2pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">CARGOS</span></p></td><td style="width:70.15pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" width="94"><p class="Tabela-Texto" style="margin-top:1.5pt;margin-right:1.9pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">CLASSE</span></p></td><td style="width:100.1pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" width="133"><p class="Tabela-Texto" style="margin-top:1.15pt;margin-right:2.6pt;margin-bottom:
-  3.0pt;margin-left:2.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">VENCIMENTO</span></p></td></tr><tr style="height:21.6pt"><td rowspan="12" style="width:272.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:21.6pt" width="364"><p class="Tabela-Texto" style="margin-top:1.5pt;margin-right:6.8pt;margin-bottom:
-  3.0pt;margin-left:8.2pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:105%"><span style="color:black;font-weight:normal">Especialista em Meio Ambiente e Recursos Hídricos</span></p><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:7.25pt;margin-bottom:
-  3.0pt;margin-left:8.2pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:103%"><span style="color:black;font-weight:normal">Especialista em Proteção e Defesa do Consumidor Especialista em Metrologia e Qualidade</span></p><p class="Tabela-Texto" style="margin-top:.05pt;margin-right:31.9pt;margin-bottom:
-  3.0pt;margin-left:33.75pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:105%"><span style="color:black;font-weight:normal">Fiscal Estadual Agropecuário</span></p><p class="Tabela-Texto" style="margin-top:.05pt;margin-right:31.9pt;margin-bottom:
-  3.0pt;margin-left:33.75pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:105%"><span style="color:black;font-weight:normal">Especialista em Regulação</span></p></td><td style="width:70.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="94"><p class="Tabela-Texto" style="margin-right:2.35pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:100.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.0pt;margin-bottom:
-  3.0pt;margin-left:2.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3.309,27</span></p></td></tr><tr style="height:21.6pt"><td style="width:70.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="94"><p class="Tabela-Texto" style="margin-right:1.65pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2</span></p></td><td style="width:100.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.0pt;margin-bottom:
-  3.0pt;margin-left:2.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3.557,47</span></p></td></tr><tr style="height:21.6pt"><td style="width:70.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="94"><p class="Tabela-Texto" style="margin-right:1.7pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3</span></p></td><td style="width:100.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:1.55pt;margin-bottom:
-  3.0pt;margin-left:2.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3.824,28</span></p></td></tr><tr style="height:21.6pt"><td style="width:70.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="94"><p class="Tabela-Texto" style="margin-right:1.4pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4</span></p></td><td style="width:100.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:1.5pt;margin-bottom:
-  3.0pt;margin-left:2.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4.111,10</span></p></td></tr><tr style="height:21.6pt"><td style="width:70.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="94"><p class="Tabela-Texto" style="margin-right:1.55pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5</span></p></td><td style="width:100.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:1.0pt;margin-bottom:
-  3.0pt;margin-left:2.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4.419,43</span></p></td></tr><tr style="height:21.6pt"><td style="width:70.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="94"><p class="Tabela-Texto" style="margin-right:1.45pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6</span></p></td><td style="width:100.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:1.0pt;margin-bottom:
-  3.0pt;margin-left:2.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4.750,89</span></p></td></tr><tr style="height:21.6pt"><td style="width:70.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="94"><p class="Tabela-Texto" style="margin-right:1.25pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">7</span></p></td><td style="width:100.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.7pt;margin-bottom:
-  3.0pt;margin-left:2.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5.107,21</span></p></td></tr><tr style="height:21.6pt"><td style="width:70.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="94"><p class="Tabela-Texto" style="margin-right:1.1pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">8</span></p></td><td style="width:100.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="133"><p class="Tabela-Texto" style="margin-left:2.45pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5.490,25</span></p></td></tr><tr style="height:21.6pt"><td style="width:70.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="94"><p class="Tabela-Texto" style="margin-right:.75pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">9</span></p></td><td style="width:100.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:2.7pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5.902,02</span></p></td></tr><tr style="height:21.6pt"><td style="width:70.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="94"><p class="Tabela-Texto" style="margin-right:.15pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">10</span></p></td><td style="width:100.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.6pt;margin-bottom:
-  3.0pt;margin-left:2.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6.344,67</span></p></td></tr><tr style="height:21.6pt"><td style="width:70.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="94"><p class="Tabela-Texto" style="margin-right:.35pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">11</span></p></td><td style="width:100.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.3pt;margin-bottom:
-  3.0pt;margin-left:2.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6.820,52</span></p></td></tr><tr style="height:21.6pt"><td style="width:70.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="94"><p class="Tabela-Texto" style="margin-right:.85pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">12</span></p></td><td style="width:100.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.6pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:2.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">7.332,06</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td> CARGOS </td><td> CLASSE </td><td> VENCIMENTO </td></tr><tr><td rowspan="12"> Especialista em Meio Ambiente e Recursos Hídricos Especialista em Proteção e Defesa do Consumidor Especialista em Metrologia e Qualidade Fiscal Estadual Agropecuário Especialista em Regulação </td><td> 1 </td><td> 3.309,27 </td></tr><tr><td> 2 </td><td> 3.557,47 </td></tr><tr><td> 3 </td><td> 3.824,28 </td></tr><tr><td> 4 </td><td> 4.111,10 </td></tr><tr><td> 5 </td><td> 4.419,43 </td></tr><tr><td> 6 </td><td> 4.750,89 </td></tr><tr><td> 7 </td><td> 5.107,21 </td></tr><tr><td> 8 </td><td> 5.490,25 </td></tr><tr><td> 9 </td><td> 5.902,02 </td></tr><tr><td> 10 </td><td> 6.344,67 </td></tr><tr><td> 11 </td><td> 6.820,52 </td></tr><tr><td> 12 </td><td> 7.332,06 </td></tr></tbody></table>
 
 ANEXO II
 
@@ -394,157 +248,11 @@ GRUPO OCUPACIONAL FISCALIZAÇÃO E REGULAÇÃO
 
  CARREIRAS DE NÍVEL MÉDIO
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:425.1pt;border-collapse:collapse;border:none" width="0"><tbody><tr style="height:21.95pt"><td style="width:262.7pt;border:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="350"><p class="Tabela-Texto" style="margin-top:3.3pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">CARGOS</span></p></td><td style="width:62.8pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:21.95pt" width="84"><p class="Tabela-Texto" style="margin-top:2.2pt;margin-right:3.65pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">CLASSE</span></p></td><td style="width:99.6pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 3.5pt 0cm 3.5pt;height:21.95pt" width="133"><p class="Tabela-Texto" style="margin-top:1.5pt;margin-right:2.55pt;margin-bottom:
-  3.0pt;margin-left:2.05pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">VENCIMENTO</span></p></td></tr><tr style="height:21.95pt"><td rowspan="12" style="width:262.7pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:21.95pt" width="350"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Técnico em Meio Ambiente e Recursos Hídricos Técnico em Metrologia e Qualidade Técnico em Fiscalização Agropecuária</span></p><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Técnico em Regulação</span></p></td><td style="width:62.8pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.539,15</span></p></td></tr><tr style="height:21.95pt"><td style="width:62.8pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.631,49</span></p></td></tr><tr style="height:21.95pt"><td style="width:62.8pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.729,38</span></p></td></tr><tr style="height:21.95pt"><td style="width:62.8pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.833,15</span></p></td></tr><tr style="height:21.95pt"><td style="width:62.8pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.943,14</span></p></td></tr><tr style="height:21.95pt"><td style="width:62.8pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.059,72</span></p></td></tr><tr style="height:21.95pt"><td style="width:62.8pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">7</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.183,31</span></p></td></tr><tr style="height:21.95pt"><td style="width:62.8pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">8</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.314,31</span></p></td></tr><tr style="height:21.95pt"><td style="width:62.8pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">9</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.453,16</span></p></td></tr><tr style="height:21.95pt"><td style="width:62.8pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">10</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.600,35</span></p></td></tr><tr style="height:21.95pt"><td style="width:62.8pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">11</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.756,37</span></p></td></tr><tr style="height:21.95pt"><td style="width:62.8pt;border-top:none;border-left:none;border-bottom:
-  solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">12</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.921,75</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td> CARGOS </td><td> CLASSE </td><td> VENCIMENTO </td></tr><tr><td rowspan="12"> Técnico em Meio Ambiente e Recursos Hídricos Técnico em Metrologia e Qualidade Técnico em Fiscalização Agropecuária Técnico em Regulação </td><td> 1 </td><td> 1.539,15 </td></tr><tr><td> 2 </td><td> 1.631,49 </td></tr><tr><td> 3 </td><td> 1.729,38 </td></tr><tr><td> 4 </td><td> 1.833,15 </td></tr><tr><td> 5 </td><td> 1.943,14 </td></tr><tr><td> 6 </td><td> 2.059,72 </td></tr><tr><td> 7 </td><td> 2.183,31 </td></tr><tr><td> 8 </td><td> 2.314,31 </td></tr><tr><td> 9 </td><td> 2.453,16 </td></tr><tr><td> 10 </td><td> 2.600,35 </td></tr><tr><td> 11 </td><td> 2.756,37 </td></tr><tr><td> 12 </td><td> 2.921,75 </td></tr></tbody></table>
 
 CARREIRAS DE NÍVEL SUPERIOR
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:439.7pt;border-collapse:collapse;border:none" width="0"><tbody><tr style="height:21.55pt"><td style="width:276.6pt;border:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="369"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:7.8pt;margin-bottom:
-  3.0pt;margin-left:9.3pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">CARGOS</span></p></td><td style="width:63.15pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.55pt" width="84"><p class="Tabela-Texto" style="margin-right:3.25pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black">CLASSE</span></p></td><td style="width:99.95pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.55pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.4pt;margin-bottom:
-  3.0pt;margin-left:2.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">VENCIMENTO</span></p></td></tr><tr style="height:21.55pt"><td rowspan="14" style="width:276.6pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:21.55pt" width="369"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Especialista em Meio Ambiente e Recursos Hídricos</span></p><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Especialista em Proteção e Defesa do Consumidor Especialista em Metrologia e Qualidade</span></p><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Fiscal Estadual Agropecuário</span></p><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Especialista em Regulação</span></p></td><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="84"><p class="Tabela-Texto" style="margin-right:2.9pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:99.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.55pt;margin-bottom:
-  3.0pt;margin-left:2.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3.309,27</span></p></td></tr><tr style="height:21.55pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="84"><p class="Tabela-Texto" style="margin-right:3.0pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2</span></p></td><td style="width:99.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.55pt;margin-bottom:
-  3.0pt;margin-left:2.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3.557,47</span></p></td></tr><tr style="height:21.55pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="84"><p class="Tabela-Texto" style="margin-right:5.75pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3</span></p></td><td style="width:99.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.35pt;margin-bottom:
-  3.0pt;margin-left:2.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3.824,28</span></p></td></tr><tr style="height:21.55pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="84"><p class="Tabela-Texto" style="margin-right:2.8pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4</span></p></td><td style="width:99.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.25pt;margin-bottom:
-  3.0pt;margin-left:2.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4.111,10</span></p></td></tr><tr style="height:21.55pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="84"><p class="Tabela-Texto" style="margin-right:2.2pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5</span></p></td><td style="width:99.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:1.8pt;margin-bottom:
-  3.0pt;margin-left:2.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4.419,43</span></p></td></tr><tr style="height:21.55pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="84"><p class="Tabela-Texto" style="margin-right:2.0pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6</span></p></td><td style="width:99.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:1.45pt;margin-bottom:
-  3.0pt;margin-left:2.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4.750,89</span></p></td></tr><tr style="height:21.55pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="84"><p class="Tabela-Texto" style="margin-right:1.9pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">7</span></p></td><td style="width:99.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:1.5pt;margin-bottom:
-  3.0pt;margin-left:2.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5.107,21</span></p></td></tr><tr style="height:21.55pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="84"><p class="Tabela-Texto" style="margin-right:1.7pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">8</span></p></td><td style="width:99.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:1.15pt;margin-bottom:
-  3.0pt;margin-left:2.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5.490,25</span></p></td></tr><tr style="height:21.55pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="84"><p class="Tabela-Texto" style="margin-right:1.65pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">9</span></p></td><td style="width:99.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.8pt;margin-bottom:
-  3.0pt;margin-left:2.65pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5.902,02</span></p></td></tr><tr style="height:21.55pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="84"><p class="Tabela-Texto" style="margin-right:1.65pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">10</span></p></td><td style="width:99.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.8pt;margin-bottom:
-  3.0pt;margin-left:3.0pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6.344,67</span></p></td></tr><tr style="height:21.55pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="84"><p class="Tabela-Texto" style="margin-right:1.65pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">11</span></p></td><td style="width:99.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.8pt;margin-bottom:
-  3.0pt;margin-left:2.75pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6.820,52</span></p></td></tr><tr style="height:21.55pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="84"><p class="Tabela-Texto" style="margin-right:1.65pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">12</span></p></td><td style="width:99.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.8pt;margin-bottom:
-  3.0pt;margin-left:2.9pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">7.332,06</span></p></td></tr><tr style="height:21.55pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="84"><p class="Tabela-Texto" style="margin-right:1.65pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">13</span></p></td><td style="width:99.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.8pt;margin-bottom:
-  3.0pt;margin-left:3.3pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">7.881,96</span></p></td></tr><tr style="height:21.55pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="84"><p class="Tabela-Texto" style="margin-right:1.65pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">14</span></p></td><td style="width:99.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.55pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.8pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">8.473,11</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td> CARGOS </td><td> CLASSE </td><td> VENCIMENTO </td></tr><tr><td rowspan="14"> Especialista em Meio Ambiente e Recursos Hídricos Especialista em Proteção e Defesa do Consumidor Especialista em Metrologia e Qualidade Fiscal Estadual Agropecuário Especialista em Regulação </td><td> 1 </td><td> 3.309,27 </td></tr><tr><td> 2 </td><td> 3.557,47 </td></tr><tr><td> 3 </td><td> 3.824,28 </td></tr><tr><td> 4 </td><td> 4.111,10 </td></tr><tr><td> 5 </td><td> 4.419,43 </td></tr><tr><td> 6 </td><td> 4.750,89 </td></tr><tr><td> 7 </td><td> 5.107,21 </td></tr><tr><td> 8 </td><td> 5.490,25 </td></tr><tr><td> 9 </td><td> 5.902,02 </td></tr><tr><td> 10 </td><td> 6.344,67 </td></tr><tr><td> 11 </td><td> 6.820,52 </td></tr><tr><td> 12 </td><td> 7.332,06 </td></tr><tr><td> 13 </td><td> 7.881,96 </td></tr><tr><td> 14 </td><td> 8.473,11 </td></tr></tbody></table>
 
 ANEXO III
 
@@ -554,193 +262,11 @@ GRUPO OCUPACIONAL FISCALIZAÇÃO E REGULAÇÃO
 
 CARREIRAS DE NÍVEL MÉDIO
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:424.75pt;border-collapse:collapse;border:none" width="0"><tbody><tr style="height:12.55pt"><td style="width:262.4pt;border:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:12.55pt" width="350"><p class="Tabela-Texto" style="margin-top:2.2pt;margin-right:7.8pt;margin-bottom:
-  3.0pt;margin-left:8.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">CARGOS</span></p></td><td style="width:63.15pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:12.55pt" width="84"><p class="Tabela-Texto" style="margin-top:1.5pt;margin-right:3.05pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">CLASSE</span></p></td><td style="width:99.2pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:12.55pt" width="132"><p class="Tabela-Texto" style="margin-top:1.15pt;margin-right:3.0pt;margin-bottom:
-  3.0pt;margin-left:2.15pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">VENCIMENTO</span></p></td></tr><tr style="height:13.65pt"><td rowspan="12" style="width:262.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" width="350"><p class="Tabela-Texto" style="margin-top:1.85pt;margin-right:10.6pt;
-  margin-bottom:3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:105%"><span style="color:black;font-weight:normal">Técnico em Meio Ambiente e Recursos Hídricos Técnico em Metrologia e Qualidade Técnico em Fiscalização Agropecuária</span></p><p class="Tabela-Texto" style="margin-top:.55pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">Técnico em Regulação</span></p></td><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="84"><p class="Tabela-Texto" style="margin-top:1.85pt;margin-right:3.0pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:99.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="132"><p class="Tabela-Texto" style="margin-top:1.15pt;margin-right:1.85pt;
-  margin-bottom:3.0pt;margin-left:2.15pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.600,72</span></p></td></tr><tr style="height:13.65pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="84"><p class="Tabela-Texto" style="margin-top:1.15pt;margin-right:2.35pt;
-  margin-bottom:3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2</span></p></td><td style="width:99.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="132"><p class="Tabela-Texto" style="margin-top:.75pt;margin-right:1.45pt;margin-bottom:
-  3.0pt;margin-left:2.15pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.696,75</span></p></td></tr><tr style="height:13.65pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="84"><p class="Tabela-Texto" style="margin-top:1.5pt;margin-right:2.8pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3</span></p></td><td style="width:99.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="132"><p class="Tabela-Texto" style="margin-top:1.15pt;margin-right:1.45pt;
-  margin-bottom:3.0pt;margin-left:2.15pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.798,56</span></p></td></tr><tr style="height:13.65pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="84"><p class="Tabela-Texto" style="margin-top:.75pt;margin-right:2.3pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4</span></p></td><td style="width:99.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="132"><p class="Tabela-Texto" style="margin-top:.75pt;margin-right:1.15pt;margin-bottom:
-  3.0pt;margin-left:2.15pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.906,48</span></p></td></tr><tr style="height:13.65pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="84"><p class="Tabela-Texto" style="margin-top:.75pt;margin-right:2.25pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5</span></p></td><td style="width:99.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="132"><p class="Tabela-Texto" style="margin-top:.4pt;margin-right:.85pt;margin-bottom:
-  3.0pt;margin-left:2.3pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.020,87</span></p></td></tr><tr style="height:13.65pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="84"><p class="Tabela-Texto" style="margin-top:.75pt;margin-right:2.1pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6</span></p></td><td style="width:99.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="132"><p class="Tabela-Texto" style="margin-top:.05pt;margin-right:1.2pt;margin-bottom:
-  3.0pt;margin-left:2.15pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.142,11</span></p></td></tr><tr style="height:13.65pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="84"><p class="Tabela-Texto" style="margin-top:.4pt;margin-right:2.1pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">7</span></p></td><td style="width:99.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="132"><p class="Tabela-Texto" style="margin-top:.05pt;margin-right:1.1pt;margin-bottom:
-  3.0pt;margin-left:2.15pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.270,64</span></p></td></tr><tr style="height:13.65pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="84"><p class="Tabela-Texto" style="margin-top:.4pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">8</span></p></td><td style="width:99.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="132"><p class="Tabela-Texto" style="margin-top:.4pt;margin-right:.85pt;margin-bottom:
-  3.0pt;margin-left:2.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.406,88</span></p></td></tr><tr style="height:13.65pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="84"><p class="Tabela-Texto" style="margin-top:.4pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.05pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">9</span></p></td><td style="width:99.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.85pt;margin-bottom:
-  3.0pt;margin-left:3.0pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.551,29</span></p></td></tr><tr style="height:13.65pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="84"><p class="Tabela-Texto" style="margin-top:.4pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.8pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">10</span></p></td><td style="width:99.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.85pt;margin-bottom:
-  3.0pt;margin-left:2.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.704,36</span></p></td></tr><tr style="height:13.65pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="84"><p class="Tabela-Texto" style="margin-left:4.6pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">11</span></p></td><td style="width:99.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.85pt;margin-bottom:
-  3.0pt;margin-left:3.0pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.866,62</span></p></td></tr><tr style="height:13.65pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="84"><p class="Tabela-Texto" style="margin-top:.05pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:5.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">12</span></p></td><td style="width:99.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.85pt;margin-bottom:
-  3.0pt;margin-left:2.9pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3.038,62</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td> CARGOS </td><td> CLASSE </td><td> VENCIMENTO </td></tr><tr><td rowspan="12"> Técnico em Meio Ambiente e Recursos Hídricos Técnico em Metrologia e Qualidade Técnico em Fiscalização Agropecuária Técnico em Regulação </td><td> 1 </td><td> 1.600,72 </td></tr><tr><td> 2 </td><td> 1.696,75 </td></tr><tr><td> 3 </td><td> 1.798,56 </td></tr><tr><td> 4 </td><td> 1.906,48 </td></tr><tr><td> 5 </td><td> 2.020,87 </td></tr><tr><td> 6 </td><td> 2.142,11 </td></tr><tr><td> 7 </td><td> 2.270,64 </td></tr><tr><td> 8 </td><td> 2.406,88 </td></tr><tr><td> 9 </td><td> 2.551,29 </td></tr><tr><td> 10 </td><td> 2.704,36 </td></tr><tr><td> 11 </td><td> 2.866,62 </td></tr><tr><td> 12 </td><td> 3.038,62 </td></tr></tbody></table>
 
 CARREIRAS DE NÍVEL SUPERIOR
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:432.85pt;border-collapse:collapse;border:none" width="0"><tbody><tr style="height:21.95pt"><td style="width:270.1pt;border:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="360"><p class="Tabela-Texto" style="margin-top:2.55pt;margin-right:8.3pt;margin-bottom:
-  3.0pt;margin-left:8.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">CARGOS</span></p></td><td style="width:63.15pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" width="84"><p class="Tabela-Texto" style="margin-top:2.2pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:7.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">CLASSE</span></p></td><td style="width:99.6pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" width="133"><p class="Tabela-Texto" style="margin-top:1.5pt;margin-right:3.05pt;margin-bottom:
-  3.0pt;margin-left:1.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">VENCIMENTO</span></p></td></tr><tr style="height:21.95pt"><td rowspan="14" style="width:270.1pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:21.95pt" width="360"><p class="Tabela-Texto" style="margin-top:1.85pt;margin-right:6.75pt;
-  margin-bottom:3.0pt;margin-left:8.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:103%"><span style="color:black;font-weight:normal">Especialista em Meio Ambiente e Recursos Hídricos</span></p><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:7.2pt;margin-bottom:
-  3.0pt;margin-left:8.55pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:103%"><span style="color:black;font-weight:normal">Especialista em Proteção e Defesa do Consumidor Especialista em Metrologia e Qualidade</span></p><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:32.3pt;margin-bottom:
-  3.0pt;margin-left:36.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:103%"><span style="color:black;font-weight:normal">Fiscal Estadual Agropecuário</span></p><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:32.3pt;margin-bottom:
-  3.0pt;margin-left:36.8pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:103%"><span style="color:black;font-weight:normal">Especialista em Regulação</span></p></td><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="margin-top:1.5pt;margin-right:3.05pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="margin-top:1.15pt;margin-right:1.95pt;
-  margin-bottom:3.0pt;margin-left:1.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3.441,64</span></p></td></tr><tr style="height:21.95pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="margin-top:.75pt;margin-right:3.15pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="margin-top:.75pt;margin-right:1.7pt;margin-bottom:
-  3.0pt;margin-left:1.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3.699,77</span></p></td></tr><tr style="height:21.95pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="margin-top:.4pt;margin-right:2.25pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="margin-top:.4pt;margin-right:1.7pt;margin-bottom:
-  3.0pt;margin-left:1.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3.977,25</span></p></td></tr><tr style="height:21.95pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="margin-top:.4pt;margin-right:2.25pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="margin-top:.05pt;margin-right:1.45pt;margin-bottom:
-  3.0pt;margin-left:1.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4.275,54</span></p></td></tr><tr style="height:21.95pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="margin-top:1.15pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:1.7pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="margin-top:.75pt;margin-right:1.55pt;margin-bottom:
-  3.0pt;margin-left:1.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4.596,21</span></p></td></tr><tr style="height:21.95pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="margin-top:1.15pt;margin-right:2.15pt;
-  margin-bottom:3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="margin-top:.4pt;margin-right:1.15pt;margin-bottom:
-  3.0pt;margin-left:1.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4.940,93</span></p></td></tr><tr style="height:21.95pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="margin-top:1.15pt;margin-right:2.0pt;margin-bottom:
-  3.0pt;margin-left:3.1pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">7</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="margin-top:.75pt;margin-right:1.25pt;margin-bottom:
-  3.0pt;margin-left:1.95pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5.311,50</span></p></td></tr><tr style="height:21.95pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="margin-top:1.15pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">8</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="margin-top:.4pt;margin-right:1.15pt;margin-bottom:
-  3.0pt;margin-left:1.95pt;text-align:justify;text-justify:inter-ideograph;
-  line-height:101%"><span style="color:black;font-weight:normal">5.709,86</span></p></td></tr><tr style="height:21.95pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="margin-top:.75pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.05pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">9</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="margin-top:.05pt;margin-right:1.1pt;margin-bottom:
-  3.0pt;margin-left:2.0pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6.138,10</span></p></td></tr><tr style="height:21.95pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="margin-top:.4pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">10</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="margin-top:.05pt;margin-right:1.1pt;margin-bottom:
-  3.0pt;margin-left:2.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6.598,46</span></p></td></tr><tr style="height:21.95pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="margin-left:4.15pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">11</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="margin-top:.05pt;margin-right:1.1pt;margin-bottom:
-  3.0pt;margin-left:2.85pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">7.093,34</span></p></td></tr><tr style="height:21.95pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="margin-top:.05pt;margin-right:3.1pt;margin-bottom:
-  3.0pt;margin-left:4.65pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">12</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:1.1pt;margin-bottom:
-  3.0pt;margin-left:2.85pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">7.625,34</span></p></td></tr><tr style="height:21.95pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="margin-left:4.3pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">13</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:1.1pt;margin-bottom:
-  3.0pt;margin-left:3.05pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">8.197,24</span></p></td></tr><tr style="height:21.95pt"><td style="width:63.15pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="84"><p class="Tabela-Texto" style="margin-left:3.95pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">14</span></p></td><td style="width:99.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:21.95pt" width="133"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:1.1pt;margin-bottom:
-  3.0pt;margin-left:2.65pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">8.812,03</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td> CARGOS </td><td> CLASSE </td><td> VENCIMENTO </td></tr><tr><td rowspan="14"> Especialista em Meio Ambiente e Recursos Hídricos Especialista em Proteção e Defesa do Consumidor Especialista em Metrologia e Qualidade Fiscal Estadual Agropecuário Especialista em Regulação </td><td> 1 </td><td> 3.441,64 </td></tr><tr><td> 2 </td><td> 3.699,77 </td></tr><tr><td> 3 </td><td> 3.977,25 </td></tr><tr><td> 4 </td><td> 4.275,54 </td></tr><tr><td> 5 </td><td> 4.596,21 </td></tr><tr><td> 6 </td><td> 4.940,93 </td></tr><tr><td> 7 </td><td> 5.311,50 </td></tr><tr><td> 8 </td><td> 5.709,86 </td></tr><tr><td> 9 </td><td> 6.138,10 </td></tr><tr><td> 10 </td><td> 6.598,46 </td></tr><tr><td> 11 </td><td> 7.093,34 </td></tr><tr><td> 12 </td><td> 7.625,34 </td></tr><tr><td> 13 </td><td> 8.197,24 </td></tr><tr><td> 14 </td><td> 8.812,03 </td></tr></tbody></table>
 
 ANEXO IV
 
@@ -750,117 +276,7 @@ TABELA DE DESENVOLVIMENTO NA CARREIRA PERCENTUAL SOBRE O TOTAL DE SERVIDORES
 
 OCUPANTES DA CLASSE ANTERIOR
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:411.25pt;border-collapse:collapse;border:none" width="0"><tbody><tr style="height:14.1pt"><td style="width:120.65pt;border:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:14.1pt" width="161"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.5pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">CLASSES</span></p></td><td style="width:155.95pt;border:solid black 1.0pt;border-left:
-  none;padding:0cm 5.4pt 0cm 5.4pt;height:14.1pt" width="208"><p class="Tabela-Texto" style="margin-left:36.8pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black">NÍVEL SUPERIOR</span></p></td><td style="width:134.65pt;border:solid black 1.0pt;border-left:
-  none;padding:0cm 5.4pt 0cm 5.4pt;height:14.1pt" width="180"><p class="Tabela-Texto" style="margin-right:2.55pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black">NÍVEL MÉDIO</span></p></td></tr><tr style="height:19.9pt"><td style="width:120.65pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:19.9pt" width="161"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:1.8pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2</span></p></td><td style="width:155.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:19.9pt" width="208"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:1.1pt;margin-bottom:
-  3.0pt;margin-left:2.9pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">85%</span></p></td><td style="width:134.65pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:19.9pt" width="180"><p class="Tabela-Texto" style="margin-right:1.7pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">85%</span></p></td></tr><tr style="height:20.35pt"><td style="width:120.65pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.35pt" width="161"><p class="Tabela-Texto" style="margin-right:2.6pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3</span></p></td><td style="width:155.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.35pt" width="208"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:1.1pt;margin-bottom:
-  3.0pt;margin-left:2.9pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">85%</span></p></td><td style="width:134.65pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.35pt" width="180"><p class="Tabela-Texto" style="margin-right:1.45pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">85%</span></p></td></tr><tr style="height:20.35pt"><td style="width:120.65pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.35pt" width="161"><p class="Tabela-Texto" style="margin-right:1.05pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4</span></p></td><td style="width:155.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.35pt" width="208"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.8pt;margin-bottom:
-  3.0pt;margin-left:2.9pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">85%</span></p></td><td style="width:134.65pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.35pt" width="180"><p class="Tabela-Texto" style="margin-right:1.65pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">85%</span></p></td></tr><tr style="height:20.35pt"><td style="width:120.65pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.35pt" width="161"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.8pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5</span></p></td><td style="width:155.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.35pt" width="208"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.8pt;margin-bottom:
-  3.0pt;margin-left:2.9pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">80%</span></p></td><td style="width:134.65pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.35pt" width="180"><p class="Tabela-Texto" style="margin-right:.95pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">80%</span></p></td></tr><tr style="height:20.35pt"><td style="width:120.65pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.35pt" width="161"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.55pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6</span></p></td><td style="width:155.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.35pt" width="208"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.8pt;margin-bottom:
-  3.0pt;margin-left:2.9pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">80%</span></p></td><td style="width:134.65pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.35pt" width="180"><p class="Tabela-Texto" style="margin-right:1.2pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">80%</span></p></td></tr><tr style="height:20.35pt"><td style="width:120.65pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.35pt" width="161"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.4pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">7</span></p></td><td style="width:155.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.35pt" width="208"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.35pt;margin-bottom:
-  3.0pt;margin-left:2.9pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">80%</span></p></td><td style="width:134.65pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.35pt" width="180"><p class="Tabela-Texto" style="margin-right:1.2pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">80%</span></p></td></tr><tr style="height:20.35pt"><td style="width:120.65pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.35pt" width="161"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.5pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">8</span></p></td><td style="width:155.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.35pt" width="208"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.55pt;margin-bottom:
-  3.0pt;margin-left:2.9pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">75%</span></p></td><td style="width:134.65pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.35pt" width="180"><p class="Tabela-Texto" style="margin-right:.85pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">75%</span></p></td></tr><tr style="height:20.35pt"><td style="width:120.65pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.35pt" width="161"><p class="Tabela-Texto" style="margin-left:3.6pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">9</span></p></td><td style="width:155.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.35pt" width="208"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.5pt;margin-bottom:
-  3.0pt;margin-left:2.9pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">75%</span></p></td><td style="width:134.65pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.35pt" width="180"><p class="Tabela-Texto" style="margin-right:.9pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">75%</span></p></td></tr><tr style="height:20.35pt"><td style="width:120.65pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.35pt" width="161"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.55pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">10</span></p></td><td style="width:155.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.35pt" width="208"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">75%</span></p></td><td style="width:134.65pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.35pt" width="180"><p class="Tabela-Texto" style="margin-right:.85pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">70%</span></p></td></tr><tr style="height:20.35pt"><td style="width:120.65pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.35pt" width="161"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.7pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">11</span></p></td><td style="width:155.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.35pt" width="208"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:2.9pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">70%</span></p></td><td style="width:134.65pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.35pt" width="180"><p class="Tabela-Texto" style="margin-right:.45pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">70%</span></p></td></tr><tr style="height:20.35pt"><td style="width:120.65pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.35pt" width="161"><p class="Tabela-Texto" style="margin-left:3.6pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">12</span></p></td><td style="width:155.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.35pt" width="208"><p class="Tabela-Texto" style="margin-left:2.9pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">70%</span></p></td><td style="width:134.65pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.35pt" width="180"><p class="Tabela-Texto" style="margin-right:.45pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">70%</span></p></td></tr><tr style="height:20.35pt"><td style="width:120.65pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.35pt" width="161"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.2pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">13</span></p></td><td style="width:155.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.35pt" width="208"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.5pt;margin-bottom:
-  3.0pt;margin-left:2.9pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">70%</span></p></td><td style="width:134.65pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.35pt" width="180"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">-</span></p></td></tr><tr style="height:20.35pt"><td style="width:120.65pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:20.35pt" width="161"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.3pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">14</span></p></td><td style="width:155.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.35pt" width="208"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:2.9pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">70%</span></p></td><td style="width:134.65pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:20.35pt" width="180"><p class="Tabela-Texto" style="margin-right:.5pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">-</span></p></td></tr><tr style="height:20.35pt"><td colspan="3" style="width:411.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:20.35pt" width="548"><p class="Tabela-Texto" style="margin-left:7.0pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">(*)</span><span style="color:black"> O resultado da aplicação do percentual deve ser arredondado para o número inteiro imediatamente superior</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td> CLASSES </td><td> NÍVEL SUPERIOR </td><td> NÍVEL MÉDIO </td></tr><tr><td> 2 </td><td> 85% </td><td> 85% </td></tr><tr><td> 3 </td><td> 85% </td><td> 85% </td></tr><tr><td> 4 </td><td> 85% </td><td> 85% </td></tr><tr><td> 5 </td><td> 80% </td><td> 80% </td></tr><tr><td> 6 </td><td> 80% </td><td> 80% </td></tr><tr><td> 7 </td><td> 80% </td><td> 80% </td></tr><tr><td> 8 </td><td> 75% </td><td> 75% </td></tr><tr><td> 9 </td><td> 75% </td><td> 75% </td></tr><tr><td> 10 </td><td> 75% </td><td> 70% </td></tr><tr><td> 11 </td><td> 70% </td><td> 70% </td></tr><tr><td> 12 </td><td> 70% </td><td> 70% </td></tr><tr><td> 13 </td><td> 70% </td><td> - </td></tr><tr><td> 14 </td><td> 70% </td><td> - </td></tr><tr><td colspan="3"> (*) O resultado da aplicação do percentual deve ser arredondado para o número inteiro imediatamente superior </td></tr></tbody></table>
 
 ANEXO V
 
@@ -868,65 +284,49 @@ FORMAÇÃO DAS CARREIRAS DO GRUPO OCUPACIONAL FISCALIZAÇÃO E REGULAÇÃO
 
 CARREIRAS DE NÍVEL SUPERIOR
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:433.35pt;border-collapse:collapse" width="0"><tbody><tr style="height:13.65pt"><td style="width:109.05pt;border:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.65pt" width="145"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black">CARREIRAS</span></p></td><td style="width:324.3pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.65pt" width="432"><p class="Tabela-Texto" style="margin-right:1.15pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black">FORMAÇÕES</span></p></td></tr><tr style="height:167.75pt"><td style="width:109.05pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:167.75pt" width="145"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Especialista em Meio Ambiente e Recursos Hídricos</span></p></td><td style="width:324.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:167.75pt" width="432"><p class="Tabela-Texto" style="margin-left:5.55pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Agronomia, Análise de Sistema, Aquicultura e Ecologia Aquática, Arquitetura e/ou Urbanismo, Ciências da Computação, Ciências Biológicas, Ciências Econômicas, Ciências Sociais, Direito, Ecologia, Engenharia Agronômica, Engenharia Cartográfica, Engenharia Civil, Engenharia de Agrimensura, Engenharia de Aquicultura, Engenharia de Minas, Engenharia de Pesca, Engenharia Florestal, Engenharia Hídrica, Engenharia Química, Engenharia Sanitária e/ou Ambiental, Farmácia Bioquímica, Geografia, Geologia, Meteorologia, Processamento de Dados, Química, Sistema de Informação, Tecnologia da Informação, Oceanografia, Medicina Veterinária, Engenharia de Petróleo e Geofísica.</span></p></td></tr><tr style="height:167.75pt"><td style="width:109.05pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:167.75pt" width="145"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Especialista em Proteção e Defesa do Consumidor</span></p></td><td style="width:324.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:167.75pt" width="432"><p class="Tabela-Texto" style="margin-left:7.85pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Graduação em Direito.</span></p></td></tr><tr style="height:167.75pt"><td style="width:109.05pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:167.75pt" width="145"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Especialista em Metrologia e Qualidade</span></p></td><td style="width:324.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:167.75pt" width="432"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.45pt;margin-bottom:
-  3.0pt;margin-left:8.05pt;text-align:justify;text-justify:inter-ideograph;
-  text-indent:.15pt"><span style="color:black;font-weight:normal">Graduação em Engenharia, Administração, Ciências Econômicas, Física, Química, Matemática e Estatística.</span></p></td></tr><tr style="height:167.75pt"><td style="width:109.05pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:167.75pt" width="145"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Fiscal Estadual Agropecuário</span></p></td><td style="width:324.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:167.75pt" width="432"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:6.45pt;margin-bottom:
-  3.0pt;margin-left:8.25pt;text-align:justify;text-justify:inter-ideograph;
-  text-indent:-.05pt"><span style="color:black;font-weight:normal">Graduação em Medicina Veterinária, para as áreas de atuação de Defesa Sanitária Animal e de Inspeção de Produtos e Subprodutos de Origem Animal;<br>Graduação em Agronomia, para as áreas de atuação de Defesa Sanitária Vegetal e de Inspeção de Produtos e Subprodutos de Origem Vegetal.</span></p></td></tr><tr style="height:167.75pt"><td style="width:109.05pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:167.75pt" width="145"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Especialista em Regulação</span></p></td><td style="width:324.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:167.75pt" width="432"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:5.8pt;margin-bottom:
-  3.0pt;margin-left:8.4pt;text-align:justify;text-justify:inter-ideograph;
-  text-indent:.15pt"><span style="color:black;font-weight:normal">Graduação em Administração, Ciências Econômicas, Ciências Contábeis, Direito, Estatística, Arquitetura, Engenharia Civil, Engenharia Elétrica, Engenharia Química, Engenharia de Computação, Engenharia Mecânica, Engenharia Naval, Engenharia de Transportes, Ciência da Computação, Processamento de Dados, Análise de Sistemas, Informática, Sistemas de Informação e Tecnologia da Informação.</span></p></td></tr></tbody></table>
+CARREIRAS
+
+FORMAÇÕES
+
+Especialista em Meio Ambiente e Recursos Hídricos
+
+Agronomia, Análise de Sistema, Aquicultura e Ecologia Aquática, Arquitetura e/ou Urbanismo, Ciências da Computação, Ciências Biológicas, Ciências Econômicas, Ciências Sociais, Direito, Ecologia, Engenharia Agronômica, Engenharia Cartográfica, Engenharia Civil, Engenharia de Agrimensura, Engenharia de Aquicultura, Engenharia de Minas, Engenharia de Pesca, Engenharia Florestal, Engenharia Hídrica, Engenharia Química, Engenharia Sanitária e/ou Ambiental, Farmácia Bioquímica, Geografia, Geologia, Meteorologia, Processamento de Dados, Química, Sistema de Informação, Tecnologia da Informação, Oceanografia, Medicina Veterinária, Engenharia de Petróleo e Geofísica.
+
+Especialista em Proteção e Defesa do Consumidor
+
+Graduação em Direito.
+
+Especialista em Metrologia e Qualidade
+
+Graduação em Engenharia, Administração, Ciências Econômicas, Física, Química, Matemática e Estatística.
+
+Fiscal Estadual Agropecuário
+
+Graduação em Medicina Veterinária, para as áreas de atuação de Defesa Sanitária Animal e de Inspeção de Produtos e Subprodutos de Origem Animal;
+Graduação em Agronomia, para as áreas de atuação de Defesa Sanitária Vegetal e de Inspeção de Produtos e Subprodutos de Origem Vegetal.
+
+Especialista em Regulação
+
+Graduação em Administração, Ciências Econômicas, Ciências Contábeis, Direito, Estatística, Arquitetura, Engenharia Civil, Engenharia Elétrica, Engenharia Química, Engenharia de Computação, Engenharia Mecânica, Engenharia Naval, Engenharia de Transportes, Ciência da Computação, Processamento de Dados, Análise de Sistemas, Informática, Sistemas de Informação e Tecnologia da Informação.
 
 CARREIRAS DE NÍVEL MÉDIO
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:424.1pt;border-collapse:collapse" width="0"><tbody><tr style="height:14.4pt"><td style="width:109.0pt;border:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:14.4pt" width="145"><p class="Tabela-Texto" style="margin-left:17.55pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black">CARREIRAS</span></p></td><td style="width:315.1pt;border:solid black 1.0pt;border-left:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:14.4pt" width="420"><p class="Tabela-Texto" style="margin-right:2.3pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black">FORMAÇÕES</span></p></td></tr><tr style="height:125.15pt"><td style="width:109.0pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:125.15pt" width="145"><p class="Tabela-Texto" style="margin-right:2.85pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">Técnico em Meio Ambiente e Recursos Hídricos</span></p></td><td style="width:315.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:125.15pt" width="420"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:7.25pt;margin-bottom:
-  3.0pt;margin-left:6.75pt;text-align:justify;text-justify:inter-ideograph;
-  text-indent:.05pt"><span style="color:black;font-weight:normal">Técnico em Agrimensura, Técnico em Agroecologia, Técnico em Agropecuária, Técnico em Biotecnologia, Técnico em Controle Ambiental, Técnico em Geologia, Técnico Florestal, Técnico em Instrumentação, Técnico em Química, Técnico em Hidrometria e/ou Hidrologia, Técnico em Meio Ambiente, Técnico em Produção Aquícola, nos termos definidos nas Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico, fixadas por meio de Resolução da Câmara de Educação Básica do Ministério da Educação.</span></p></td></tr><tr style="height:125.15pt"><td style="width:109.0pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:125.15pt" width="145"><p class="Tabela-Texto" style="margin-right:2.85pt;text-align:justify;
-  text-justify:inter-ideograph;text-indent:2.7pt"><span style="color:black;
-  font-weight:normal">Técnico em Metrologia e Qualidade</span></p></td><td style="width:315.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:125.15pt" width="420"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:6.5pt;margin-bottom:
-  3.0pt;margin-left:7.8pt;text-align:justify;text-justify:inter-ideograph;
-  text-indent:-.2pt"><span style="color:black;font-weight:normal">Ensino médio, inclusive os cursos de natureza técnico­ profissionalizante, estes últimos nos termos das Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico, fixadas por meio de Resolução da Câmara de Educação Básica do Ministério da Educação, observadas as áreas profissionais e cargas horárias mínimas estabelecidas.</span></p></td></tr><tr style="height:125.15pt"><td style="width:109.0pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:125.15pt" width="145"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:20.15pt;
-  margin-bottom:3.0pt;margin-left:22.6pt;text-align:justify;text-justify:inter-ideograph;
-  text-indent:4.4pt"><span style="color:black;font-weight:normal">Técnico em Fiscalização Agropecuária</span></p></td><td style="width:315.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:125.15pt" width="420"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:5.85pt;margin-bottom:
-  3.0pt;margin-left:8.15pt;text-align:justify;text-justify:inter-ideograph;
-  text-indent:.05pt"><span style="color:black;font-weight:normal">Técnico em Agropecuária, Técnico em Agricultura, Técnico em Agroecologia, Técnico em Zootecnia, Técnico Florestal e Técnico em Agroindústria, nos - termos definidos nas Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico, fixadas por meio de Resolução da Câmara de Educação Básica do Ministério da Educação, observada a carga horária mínima estabelecida.</span></p></td></tr><tr style="height:125.15pt"><td style="width:109.0pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:125.15pt" width="145"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:23.15pt;
-  margin-bottom:3.0pt;margin-left:30.45pt;text-align:justify;text-justify:inter-ideograph;
-  text-indent:-3.05pt"><span style="color:black;font-weight:normal">Técnico em Regulação</span></p></td><td style="width:315.1pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:125.15pt" width="420"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:4.3pt;margin-bottom:
-  3.0pt;margin-left:8.9pt;text-align:justify;text-justify:inter-ideograph;
-  text-indent:-.2pt"><span style="color:black;font-weight:normal">Ensino médio, mediante a apresentação de certificado reconhecido pelo Ministério da Educação, abrangendo inclusive os cursos de natureza técnico-profissionalizante, estes últimos nos termos das Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico, fixadas por meio de Resolução da Câmara de Educação Básica do Ministério da Educação, observadas as áreas profissionais e cargas horárias mínimas estabelecidas.</span></p></td></tr></tbody></table>
+CARREIRAS
+
+FORMAÇÕES
+
+Técnico em Meio Ambiente e Recursos Hídricos
+
+Técnico em Agrimensura, Técnico em Agroecologia, Técnico em Agropecuária, Técnico em Biotecnologia, Técnico em Controle Ambiental, Técnico em Geologia, Técnico Florestal, Técnico em Instrumentação, Técnico em Química, Técnico em Hidrometria e/ou Hidrologia, Técnico em Meio Ambiente, Técnico em Produção Aquícola, nos termos definidos nas Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico, fixadas por meio de Resolução da Câmara de Educação Básica do Ministério da Educação.
+
+Técnico em Metrologia e Qualidade
+
+Ensino médio, inclusive os cursos de natureza técnico­ profissionalizante, estes últimos nos termos das Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico, fixadas por meio de Resolução da Câmara de Educação Básica do Ministério da Educação, observadas as áreas profissionais e cargas horárias mínimas estabelecidas.
+
+Técnico em Fiscalização Agropecuária
+
+Técnico em Agropecuária, Técnico em Agricultura, Técnico em Agroecologia, Técnico em Zootecnia, Técnico Florestal e Técnico em Agroindústria, nos - termos definidos nas Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico, fixadas por meio de Resolução da Câmara de Educação Básica do Ministério da Educação, observada a carga horária mínima estabelecida.
+
+Técnico em Regulação
+
+Ensino médio, mediante a apresentação de certificado reconhecido pelo Ministério da Educação, abrangendo inclusive os cursos de natureza técnico-profissionalizante, estes últimos nos termos das Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico, fixadas por meio de Resolução da Câmara de Educação Básica do Ministério da Educação, observadas as áreas profissionais e cargas horárias mínimas estabelecidas.

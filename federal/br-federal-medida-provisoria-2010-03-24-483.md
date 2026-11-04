@@ -1,5 +1,3 @@
-###MPV-000483-0-000-24-03-2010@@@
-
 MEDIDA PROVISÓRIA Nº 483, DE 24 DE MARÇO DE 2010.
 
 Altera as Leis nos 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios, e 8.745, de 9 de dezembro de 1993, que dispõe sobre a contratação por tempo determinado para atender a necessidade temporária de excepcional interesse público, e dá outras providências

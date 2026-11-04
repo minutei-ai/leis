@@ -1,5 +1,3 @@
-###DEC-080923-0-000-05-12-1977@@@
-
 DECRETO Nº 80.923, DE 05 DE DEZEMBRO DE 1977.
 
 Declara sem efeito o Decreto nº 36.118, de 02 de setembro de 1954, que autorizou a Empresa de Mineração Esperança Ltda. a lavrar minério de ferro no Município de Jeceaba, Estado de Minas Gerais.

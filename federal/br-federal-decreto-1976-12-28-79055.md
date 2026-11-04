@@ -1,5 +1,3 @@
-###DEC-079055-0-000-28-12-1976@@@
-
 DECRETO Nº 79.055, DE 28 DE DEZEMBRO DE 1976.
 
 Fixa a composição da Delegação Brasileira na Comissão Mista Executora do Acordo Brasil-Estados Unidos sobre Serviços Cartográficos, define sua vinculação com Órgão do Governo Brasileiro e dá outras providências.

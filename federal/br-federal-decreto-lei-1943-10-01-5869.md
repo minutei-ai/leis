@@ -1,5 +1,3 @@
-###DEL-005869-0-000-01-10-1943@@@
-
 DECRETO‑LEI N. 5.869 – DE 1 DE OUTUBRO DE 1943
 
 Altera o Quadro 1 do Ministério da Viação e Obras Públicas

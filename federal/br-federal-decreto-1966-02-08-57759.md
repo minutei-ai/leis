@@ -1,5 +1,3 @@
-###DEC-057759-0-000-08-02-1966@@@
-
 DECRETO nº 57.759, de 8 de fevereiro de 1966.
 
 Promulga o Acôrdo de Migração com a Itália.

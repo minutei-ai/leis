@@ -1,40 +1,28 @@
 > **LEI Nº 300, DE 21 DE NOVEMBRO DE 1969**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza a abertura de créditos suplementares e especiais e fixa anulações de dotações orçamentárias.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza a abertura de créditos suplementares e especiais e fixa anulações de dotações orçamentárias.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
 **FAÇO SABER** que o Poder Legislativo decreta e eu sanciono a seguinte Lei:
 
-<br>
-
 **Art. 1º** Fica o Poder Executivo autorizado a abrir no orçamento de 1969, Créditos Suplementares no montante de NCr$ 166.649,60 (cento e sessenta e seis mil, seiscentos e quarenta e nove cruzeiros novos e sessenta centavos), de conformidade com a discriminação constante no anexo I.
-
-<br>
 
 **Art. 2º** Fica igualmente autorizado a abrir Créditos Especiais no total de Ncr$ 756.115,00 (setecentos e cinquenta e seis mil, cento e quinze cruzeiros novos), de acordo com a discriminação contida no anexo II.
 
-<br>
-
 **Art. 3º** A despesa decorrente dos créditos abertos nos artigos anteriores, será compensada com anulações totais e parciais de dotações orçamentárias, na forma do Anexo III.
-
-<br>
 
 **Art. 4º** Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
-<br>
-
 Rio Branco, 21 de novembro de 1969, 81º da República, 67º do Tratado de Petrópolis e 8º do Estado do Acre.
-
-<br>
 
 **OMAR SABINO DE PAULA** 
 
 Governador do Estado do Acre, em exercício
-
-<br>
-
-<br>
 
 ANEXO I
 

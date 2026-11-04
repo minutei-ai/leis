@@ -52,8 +52,10 @@ Art. 5º - Esta Lei entra em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida Goiânia-GO, 12 de junho de 2017.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA OZAIR JOSÉ DA SILVA<br>
+AFONSO BOAVENTURA OZAIR JOSÉ DA SILVA
+
 Chefe da Casa Civil Secretário de Desenvolvimento Econômico

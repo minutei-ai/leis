@@ -1,5 +1,3 @@
-###DEC-045316-0-000-27-01-1959@@@
-
 decreto nº 45.316, de 27 de janeiro de 1959.
 
 Concede a Minex S.A., Emprêsa de Mineração autorização para funcionar como emprêsa de mineração.

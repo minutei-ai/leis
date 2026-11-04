@@ -1,5 +1,3 @@
-###DEC-054266-0-000-08-09-1964@@@
-
 DECRETO Nº 54.266, DE 8 DE SETEMBRO DE 1964.
 
 Aprova a revisão do Quadro de Pessoal do Departamento Nacional de Estradas de Ferro e dá outras providências.

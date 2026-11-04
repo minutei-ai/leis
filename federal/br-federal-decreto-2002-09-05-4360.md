@@ -1,5 +1,3 @@
-###DEC-004360-0-000-05-09-2002@@@
-
 DECRETO Nº 4.360, DE 5 DE SETEMBRO DE 2002
 
 Altera o art. 36 do Decreto nº 1.744, de 8 de dezembro de 1995, que regulamenta o benefício de prestação continuada devido a pessoa portadora de deficiência e a idoso, de que trata a Lei nº 8.742, de 7 de dezembro de 1993.

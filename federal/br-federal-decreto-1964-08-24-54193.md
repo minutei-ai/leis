@@ -1,5 +1,3 @@
-###DEC-054193-0-000-24-08-1964@@@
-
 decreto nº 54.193, de 24 de agôsto de 1964.
 
 Autoriza o cidadão brasileiro Antônio Motta Netto a pesquisar areia no município de Mongaguá, Estado de São Paulo.

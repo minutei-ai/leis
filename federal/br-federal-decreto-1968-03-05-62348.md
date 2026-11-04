@@ -1,5 +1,3 @@
-###DEC-062348-0-000-05-03-1968@@@
-
 DECRETO Nº 62.348, DE 5 DE MARÇO DE 1968.
 
 Concede reconhecimento à Faculdade de Ciências Econômicas de Mossosó - R.G.N.

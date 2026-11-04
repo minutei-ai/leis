@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/a18704c0-a834-426c-996f-3cd3c783a88a/texto#nowhere)
 
-###DEL-001606-0-000-27-02-1978@@@
-
 # Decreto-lei nº 1.606, de 27 de fevereiro de 1978.
 
 Reajusta os vencimentos, salários e proventos dos servidores da Justiça Eleitoral e dá outras providências.

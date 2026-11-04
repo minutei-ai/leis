@@ -1,7 +1,3 @@
-1
-
-###DEC-097556-0-000-06-03-1989@@@
-
 # DECRETO N° 97.556, DE 6 DE MARÇO DE 1989
 
 Altera os Decretos n°s 91.370, de 26 de junho de 1985, que instituiu o CISE, e 92.002, de 28 de novembro de 1985, que instituiu o CIRP.

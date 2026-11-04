@@ -1,5 +1,3 @@
-###DEL-007166-0-000-15-12-1944@@@
-
 DECRETO-LEI N. 7.166 – DE 15 DE DEZEMBRO DE 1944
 
 Extingue o HospitaI Militar de Teófilo Otoni

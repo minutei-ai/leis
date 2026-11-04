@@ -1,5 +1,3 @@
-###DEC-001390-0-000-10-02-1995@@@
-
 DECRETO Nº 1.390, DE 10 DE FEVEREIRO DE 1995
 
 Altera dispositivos do Estatuto da Empresa Brasileira de Correios e Telégrafos -  ECT.

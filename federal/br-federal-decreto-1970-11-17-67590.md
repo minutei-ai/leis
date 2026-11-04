@@ -1,5 +1,3 @@
-###DEC-067590-0-000-17-11-1970@@@
-
 DECRETO Nº 67.590, DE 17 DE NOVEMBRO DE 1970.
 
 Retifica o Decreto nº 65.438, de 13 de outubro de 1969, publicado no "Diário Oficial" de 20 de outubro de 1969.

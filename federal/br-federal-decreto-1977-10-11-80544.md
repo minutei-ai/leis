@@ -1,5 +1,3 @@
-###DEC-080544-0-000-11-10-1977@@@
-
 DECRETO Nº 80.544, DE 11 DE OUTUBRO DE 1977.
 
 Concede reconhecimento ao curso de Formação de Tecnólogos em Análise Química Industrial da Universidade Federal da Bahia, com sede na cidade de Salvador, Estado da Bahia.

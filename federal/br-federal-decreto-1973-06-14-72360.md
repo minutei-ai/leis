@@ -1,5 +1,3 @@
-###DEC-072360-0-000-14-06-1973@@@
-
 DECRETO Nº 72.360, DE 14 DE JUNHO DE 1973.
 
 Torna sem efeito a cassação de disponibilidade dos servidores que menciona e dá outras providências.

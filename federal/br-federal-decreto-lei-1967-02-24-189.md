@@ -1,5 +1,3 @@
-###DEL-000189-0-000-24-02-1967@@@
-
 DECRETO-LEI Nº 189, DE 24 DE FEVEREIRO DE 1967
 
 Dispõe sôbre a taxa de câmbio a que se refere o parágrafo único do Decreto-lei nº 37, de 18.11 1966.

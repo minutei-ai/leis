@@ -1,5 +1,3 @@
-###DEL-005387-0-000-09-04-1943@@@
-
 DECRETO‑LEI N. 5.387 – DE 9 DE ABRIL DE 1943
 
 Cria função gratificada no Domínio da União e dá outras providências

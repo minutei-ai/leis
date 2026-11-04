@@ -1,5 +1,3 @@
-###DEL-004485-0-000-16-07-1942@@@
-
 DECRETO-LEI N. 4.485 –  DE  16 DE JULHO DE 1942
 
 Autoriza o ministro do Trabalho, Indústria e Comércio a realizar um empréstimo para ocorrer, ás despesas com a ampliação do edifício do respectivo Ministério

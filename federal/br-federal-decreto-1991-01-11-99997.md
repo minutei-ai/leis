@@ -1,7 +1,3 @@
-1
-
-###DEC-099997-0-000-11-01-1991@@@
-
 DECRETO N° 99.997, DE 11 DE JANEIRO DE 1991.
 
 Declara de utilidade pública, para fins de desapropriação em favor da LIGHT - Serviços de Eletricidade S.A., a área de terra que menciona.

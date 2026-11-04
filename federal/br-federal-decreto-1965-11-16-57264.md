@@ -1,5 +1,3 @@
-###DEC-057264-0-000-16-11-1965@@@
-
 DECRETO Nº 57.264, DE 16 DE NOVEMBRO DE 1965.
 
 Outorga à Companhia de Eletricidade do Estado da Bahia concessão para distribuir energia elétrica.

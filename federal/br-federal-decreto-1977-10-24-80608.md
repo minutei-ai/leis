@@ -1,5 +1,3 @@
-###DEC-080608-0-000-24-10-1977@@@
-
 DECRETO Nº 80.608, DE 24 DE OUTUBRO DE 1977.
 
 Dispõe sobre a aplicação, em águas interiores brasileiras, da Convenção sobre o Regulamento Internacional para Evitar Abalroamento no Mar, 1972, promulgada pelo Decreto número 80.068, de 2 de agosto de 1977, e dá outras providências.

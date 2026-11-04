@@ -1,5 +1,3 @@
-###DEC-076162-0-000-26-08-1975@@@
-
 DECRETO Nº 76.162 - DE 26 de AGOSTO DE 1975
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Presidente Venceslau, Estado de São Paulo.

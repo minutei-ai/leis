@@ -1,5 +1,3 @@
-###DEC-074574-0-000-19-09-1974@@@
-
 DECRETO Nº 74.574, DE 19 DE SETEMBRO DE 1974.
 
 Revoga o Decreto que concedeu a Black & Decker, Inc, autorização para funcionamento na República Federativa do Brasil.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001416-0-000-10-03-1995@@@
-
 DECRETO Nº 1.416, DE 10 DE MARÇO DE 1995
 
 Altera dispositivo do Cerimonial da Marinha, aprovado pelo Decreto nº 87.427, de 27 de julho de 1982.

@@ -1,5 +1,3 @@
-###DEC-081263-0-000-27-01-1978@@@
-
 Decreto nº 81.263, de 27 de janeiro de 1978
 
 Concede reconhecimento aos cursos de Pedagogia e de Letras da Faculdade de Filosofia, Ciências e Letras Veiga Almeida, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-068990-0-000-28-07-1971@@@
-
 DECRETO Nº 68.990, DE 28 de julho de 1971.
 
 Transforma, em cargo em comissão, função gratificada do Quadro de Pessoal do Ministério dos Transportes.

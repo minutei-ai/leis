@@ -1,5 +1,3 @@
-###DEC-070641-0-000-29-05-1972@@@
-
 DECRETO Nº 70.641, de 29 de maio de 1972.
 
 Autoriza a funcionamento do Curso de Licenciatura de Curta Duração em Matemática, em regime intensivo, na Faculdade de Filosofia, Ciências e Letras de Blumenau, SC.

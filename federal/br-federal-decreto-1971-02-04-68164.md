@@ -1,5 +1,3 @@
-###DEC-068164-0-000-04-02-1971@@@
-
 DECRETO Nº 68.164, DE 4 DE FEVEREIRO DE 1971.
 
 Concede reconhecimento à Licenciatura de 1º Ciclo, em Letras, da Faculdade de Filosofia, Ciências e Letras de Botucatu, SP.

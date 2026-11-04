@@ -1,5 +1,3 @@
-###DEC-064471-0-000-07-05-1969@@@
-
 DECRETO Nº 64.471, DE 7 DE MAIO DE 1969.
 
 Declara de utilidade pública a Sociedade Literária Padre Antônio Vieira, com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-046234-0-000-17-06-1959@@@
-
 DECRETO Nº 46.234, DE 17 DE JUNHO DE 1959.
 
 Altera artigo do Regulamento baixado e mandado executar pelo Decreto nº 35.187, de 11 de março de 1954.

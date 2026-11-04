@@ -1,5 +1,3 @@
-###DEC-064558-0-000-20-05-1969@@@
-
 DECRETO Nº 64.558, DE 20 DE MAIO DE 1969.
 
 Declara de utilidade pública a Associação Educacional e Caritativa com sede em Erechim, Estado do Rio Grande do Sul.

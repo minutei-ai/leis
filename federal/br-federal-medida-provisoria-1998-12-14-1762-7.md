@@ -1,5 +1,3 @@
-###MPV-001762-0-007-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.762-7, DE 14 DE DEZEMBRO DE 1998.
 
 Dispõe sobre a adoção de medidas relacionadas com o Sistema Financeiro da Habitação - SFH, altera as Leis nºs 4.380, de 21 de agosto de 1964, 8.036, de 11 de maio de 1990, e 8.692, de 28 de julho de 1993, e dá outras providências.

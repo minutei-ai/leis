@@ -1,5 +1,3 @@
-###DEC-006554-0-000-04-09-2008@@@
-
 DECRETO Nº 6.554, DE 4 DE SETEMBRO DE 2008.
 
 Institui a Medalha do Mérito Previdenciário Eloy Chaves.

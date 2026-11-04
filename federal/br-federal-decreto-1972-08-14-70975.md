@@ -1,5 +1,3 @@
-###DEC-070975-0-000-14-08-1972@@@
-
 DECRETO Nº 70.975, DE 14 DE AGOSTO DE 1972.
 
 Concede a Serge Serbinenko e Cia. Ltda. o direito de lavrar amianto no município de Rio Pomba, Estado de Minas Gerais.

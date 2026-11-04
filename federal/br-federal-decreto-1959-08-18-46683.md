@@ -1,5 +1,3 @@
-###DEC-046683-0-000-18-08-1959@@@
-
 DECRETO Nº 46.683, DE 18 DE AGÔSTO DE 1959.
 
 Dispõe sôbre a “Casa do Brasil”, na Cidade Universitária de Paris.

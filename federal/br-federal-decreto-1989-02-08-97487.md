@@ -1,5 +1,3 @@
-###DEC-097487-0-000-08-02-1989@@@
-
 DECRETO N° 97.487, DE 8 DE FEVEREIRO DE 1989
 
 Dispõe sobre a Execução do Acordo de Alcance Parcial de Cooperação e Intercâmbio de Bens nas Áreas Cultural, Educacional e Científica, entre o Brasil, a Argentina, a Colômbia, o México, o Peru, o Uruguai e a Venezuela.

@@ -1,34 +1,32 @@
-###DEC-029171-0-000-18-01-1951@@@
+**DECRETO Nº 29.171, DE 18 DE JANEIRO DE 1951.**
 
-<strong>DECRETO Nº 29.171, DE 18 DE JANEIRO DE 1951.</strong>
+***Aprova o Regimento do Conselho Nacional do Petróleo.***
 
-<em><strong>Aprova o Regimento do Conselho Nacional do Petróleo.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º. Fica aprovado o Regimento do Conselho Nacional de Petróleo, que acompanha o presente decreto.
 
-<strong>Art</strong>. 1º. Fica aprovado o Regimento do Conselho Nacional de Petróleo, que acompanha o presente decreto.
-
-<strong>Art</strong>. 2º. Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º. Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 18 de janeiro de 1951; 130º da Independência e 68º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 José Francisco Bias Fortes
 
 REGIMENTO DO CONSELHO NACIONAL DO PETRÓLEO
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Da finalidade</em>
+*Da finalidade*
 
-<strong>Art</strong>. 1º. O Conselho Nacional do Petróleo, criado pelo artigo 4º do Decreto-lei nº 395, de 29 de abril de 1938, e organizado pelos Decretos-leis nº 538, de 7 de julho de 1938, e nº 1.143, de 9 de março de 1939, órgão autônomo, diretamente subordinado ao Presidente da República, tem por finalidade executar as medidas concernentes ao abastecimento nacional de petróleo.
+**Art**. 1º. O Conselho Nacional do Petróleo, criado pelo artigo 4º do Decreto-lei nº 395, de 29 de abril de 1938, e organizado pelos Decretos-leis nº 538, de 7 de julho de 1938, e nº 1.143, de 9 de março de 1939, órgão autônomo, diretamente subordinado ao Presidente da República, tem por finalidade executar as medidas concernentes ao abastecimento nacional de petróleo.
 
 Parágrafo único. Entende-se por abastecimento nacional de petróleo a produção, a importação, a exportação, o transporte, - inclusive a construção de oleodutos, - a distribuição e o comércio de petróleo bruto e seus derivados, bem assim a refinação de petróleo importado ou de produção nacional, qualquer que seja, neste caso, a sua fonte de extração.
 
-<strong>Art</strong>. 2º. Compete ao Conselho Nacional do Petróleo:
+**Art**. 2º. Compete ao Conselho Nacional do Petróleo:
 
 a) Autorizar, regular e controlar a importação, a exportação, o transporte, - inclusive a construção de oleodutos, - a distribuição e o comércio de petróleo e seus derivados no território nacional.
 
@@ -68,11 +66,11 @@ r) Pesquisar e lavrar jazidas de petróleo, industrializar, comerciar e transpor
 
 s) Adotar tôdas as medidas que julgar necessárias para assegurar o fiel cumprimento das disposições contidas nas leis e regulamentos relativos ao abastecimento nacional de petróleo, podendo proceder à apreensão de mercadorias e ao fechamento de estabelecimentos e instalações de qualquer gênero que se acharem em contravenção às ditas leis e regulamentos, bem como impor multas até o máximo de Cr$ 500.000,00 (quinhentos mil cruzeiros) por infração, sem prejuízo da ação penal que no caso couber.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 3º. O Conselho Nacional do Petróleo (CNP) compreende:
+**Art**. 3º. O Conselho Nacional do Petróleo (CNP) compreende:
 
 I – Plenário (PI)
 
@@ -86,11 +84,11 @@ V – Divisão Administrativa (D.A.)
 
 VI – Serviços Regionais (S.R.) e órgãos especializados.
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Do Plenário</em>
+*Do Plenário*
 
-<strong>Art</strong>. 4º. O Plenário é composto de um presidente e oito conselheiros, todos designados por decreto.
+**Art**. 4º. O Plenário é composto de um presidente e oito conselheiros, todos designados por decreto.
 
 Parágrafo único. Os conselheiros serão:
 
@@ -110,7 +108,7 @@ g) Um representante das organizações de classe da Indústria.
 
 h) Um representante das organizações de classe do Comércio.
 
-<strong>Art</strong>. 5º. Para presidente ou membro do Conselho Nacional do Petróleo é necessário:
+**Art**. 5º. Para presidente ou membro do Conselho Nacional do Petróleo é necessário:
 
 a) Ser brasileiro nato, de notória competência e reputação ilibada, e maior de trinta anos de idade.
 
@@ -118,13 +116,13 @@ b) Estar no gôzo dos direitos civis e políticos.
 
 c) Não ter no momento da designação, nem ter tido nos cinco anos precedentes, interêsses diretos ou indiretos em emprêsas particulares que se dediquem ou se hajam dedicado a pesquisa, lavra, industrialização ou comércio do petróleo e seus subprodutos.
 
-<strong>Art</strong>. 6º. Os conselheiros, representantes dos Ministérios, são escolhidos livremente dentre os oficiais generais ou superiores do serviço ativo, funcionários de alta categoria, membros do magistério superior ou pessoas estranhas ao funcionalismo público; os representantes das organizações de classe são escolhidos de listas tríplices, uma para a Indústria, outra para o Comércio, feitas, respectivamente, pela Confederação Nacional da Indústria (artigo único do Decreto nº 12.321, de 30 de abril de 1943, e art. 535, § 1º, do Decreto-lei nº5.452, de 1º de maio de 1943) e pela Federação das Associações Comerciais do Brasil.
+**Art**. 6º. Os conselheiros, representantes dos Ministérios, são escolhidos livremente dentre os oficiais generais ou superiores do serviço ativo, funcionários de alta categoria, membros do magistério superior ou pessoas estranhas ao funcionalismo público; os representantes das organizações de classe são escolhidos de listas tríplices, uma para a Indústria, outra para o Comércio, feitas, respectivamente, pela Confederação Nacional da Indústria (artigo único do Decreto nº 12.321, de 30 de abril de 1943, e art. 535, § 1º, do Decreto-lei nº5.452, de 1º de maio de 1943) e pela Federação das Associações Comerciais do Brasil.
 
 Parágrafo único. O presidente e os membros do Conselho Nacional do Petróleo, depositários da confiança do Presidente da República, recebem a investidura em caráter de comissão pelo prazo de três anos, podendo ser substituídos ou reconduzidos.
 
-<strong>Art</strong>. 7º. Compete ao Plenário do Conselho exercer as atribuições de natureza deliberativa contidas no art. 2º dêste Regimento.
+**Art**. 7º. Compete ao Plenário do Conselho exercer as atribuições de natureza deliberativa contidas no art. 2º dêste Regimento.
 
-<strong>Art</strong>. 8º. O Plenário reunir-se-á uma vez por semana e, extraordinariamente, sempre que o Presidente o convocar, presente a maioria dos conselheiros.
+**Art**. 8º. O Plenário reunir-se-á uma vez por semana e, extraordinariamente, sempre que o Presidente o convocar, presente a maioria dos conselheiros.
 
 § 1º. As sessões serão presididas pelo presidente do Conselho e, na sua falta ou impedimento, pelo conselheiro mais antigo, ou pelo mais idoso, no caso de igualdade de condições.
 
@@ -132,9 +130,9 @@ Parágrafo único. O presidente e os membros do Conselho Nacional do Petróleo, 
 
 § 3º. As sessões serão secretas, salvo resolução em contrário do Plenário.
 
-<strong>Art</strong>. 9º. O processo que deva ser submetido ao Plenário será distribuído pelo Presidente a um dos conselheiros que terá, para relatá-lo, o prazo de vinte dias, prorrogável a juízo do Plenário.
+**Art**. 9º. O processo que deva ser submetido ao Plenário será distribuído pelo Presidente a um dos conselheiros que terá, para relatá-lo, o prazo de vinte dias, prorrogável a juízo do Plenário.
 
-<strong>Art</strong>. 10. A seqüência dos trabalhos das sessões será a seguinte:
+**Art**. 10. A seqüência dos trabalhos das sessões será a seguinte:
 
 a) Leitura, votação e assinatura da ata da sessão anterior.
 
@@ -148,13 +146,13 @@ e) Indicações.
 
 Parágrafo único. Esta seqüência poderá ser alterada pelo Plenário, para tratar de matéria urgente ou, a requerimento de preferência de qualquer dos conselheiros, para determinado assunto.
 
-<strong>Art</strong>. 11. A ordem do dia será organizada com os processos em pauta e com aquêles cuja discussão ou votação tenham sido  adiadas.
+**Art**. 11. A ordem do dia será organizada com os processos em pauta e com aquêles cuja discussão ou votação tenham sido  adiadas.
 
 § 1º. No caso de urgência, reconhecida pelo Plenário, poderão ser submetidos a discussão e votação processos não incluídos na ordem do dia.
 
 § 2º. A ordem do dia e as cópias dos relatórios e pareceres dos processos nela incluídos deverão ser enviadas aos conselheiros com a antecedência mínima de quarenta e oito horas, salvo a hipótese do parágrafo anterior.
 
-<strong>Art</strong>. 12. Para discussão dos relatórios e pareceres, o presidente da sessão concederá a palavra aos conselheiros que a solicitarem.
+**Art**. 12. Para discussão dos relatórios e pareceres, o presidente da sessão concederá a palavra aos conselheiros que a solicitarem.
 
 § 1º. Durante a discussão poderão ser apresentadas, por escrito, emendas ou substitutivos às conclusões dos pareceres.
 
@@ -166,7 +164,7 @@ Parágrafo único. Esta seqüência poderá ser alterada pelo Plenário, para tr
 
 § 5º. Findo o prazo estabelecido no parágrafo anterior, sem que o processo haja sido restituído, entrará êste na ordem do dia, se assim deliberar o Plenário.
 
-<strong>Art</strong>. 13. Após o encerramento da discussão, os pareceres e emendas ou substitutivos serão submetidos a votação nominal.
+**Art**. 13. Após o encerramento da discussão, os pareceres e emendas ou substitutivos serão submetidos a votação nominal.
 
 § 1º Qualquer conselheiro poderá requerer preferência nas votações.
 
@@ -174,13 +172,13 @@ Parágrafo único. Esta seqüência poderá ser alterada pelo Plenário, para tr
 
 § 3º Será concedida a palavra, para encaminhamento da votação, ao conselheiro que a solicitar, podendo o prazo  para êsse fim ser limitado pelo Plenário.
 
-<strong>Art</strong>. 14. Quando as indicações envolverem matéria nova ou assunto destinado a formar processo poderão ser encaminhadas, para instrução, aos órgãos competentes do Conselho.
+**Art**. 14. Quando as indicações envolverem matéria nova ou assunto destinado a formar processo poderão ser encaminhadas, para instrução, aos órgãos competentes do Conselho.
 
-<strong>Art</strong>. 15. As dúvidas sôbre a aplicação  dêste Regimento, no que concerne às atividades do Plenário, constituirão questões de ordem, que poderão ser levantadas em qualquer fase da sessão.
+**Art**. 15. As dúvidas sôbre a aplicação  dêste Regimento, no que concerne às atividades do Plenário, constituirão questões de ordem, que poderão ser levantadas em qualquer fase da sessão.
 
-<strong>Art</strong>. 16. Os trabalhos do Plenário serão secretariados por um elemento do Conselho, designado pelo Presidente.
+**Art**. 16. Os trabalhos do Plenário serão secretariados por um elemento do Conselho, designado pelo Presidente.
 
-<strong>Art</strong>. 17. De cada sessão se lavrará uma ata, com a exposição sucinta dos trabalhos.
+**Art**. 17. De cada sessão se lavrará uma ata, com a exposição sucinta dos trabalhos.
 
 § 1º A ata, depois de lida e aprovada, será assinada pelo presidente da sessão, conselheiros presentes e secretário.
 
@@ -188,19 +186,19 @@ Parágrafo único. Esta seqüência poderá ser alterada pelo Plenário, para tr
 
 § 3º Não havendo sessão por falta de número legal, lavrar-se-á um têrmo de ata, que será assinado pelos conselheiros presentes e pelo secretário.
 
-<strong>Art</strong>. 18. As sessões serão taquigrafadas, devendo as notas respectivas, depois de traduzidas, serem devidamente arquivadas no Gabinete do Presidente.
+**Art**. 18. As sessões serão taquigrafadas, devendo as notas respectivas, depois de traduzidas, serem devidamente arquivadas no Gabinete do Presidente.
 
 Parágrafo único. As notas taquigráficas poderão ser revistas pelos conselheiros, a seu pedido.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Comissão Executiva</em>
+*Da Comissão Executiva*
 
-<strong>Art</strong>. 19. A Comissão Executiva é constituída pelo presidente do Conselho e por dois diretores de divisão nomeados por decreto (art. 6º da Lei nº 488, de 15 de novembro de 1948).
+**Art**. 19. A Comissão Executiva é constituída pelo presidente do Conselho e por dois diretores de divisão nomeados por decreto (art. 6º da Lei nº 488, de 15 de novembro de 1948).
 
 Parágrafo único. É vedado aos membros da Comissão Executiva, enquanto nela servirem, o exercício de qualquer função, cargo ou emprêgo na administração pública, ficando, entretanto, assegurados ao funcionário público, civil ou militar, no exercício da nova função, os direitos e vantagens que lhes cabem quando em serviço efetivo ou ativo, exceto a respectiva remuneração.
 
-<strong>Art</strong>. 20. Compete à Comissão Executiva:
+**Art**. 20. Compete à Comissão Executiva:
 
 a) Desempenhar as atribuições de caráter executivo contidas no artigo 2º dêste Regimento, inclusive as que decorram de decisões do Plenário.
 
@@ -208,17 +206,17 @@ b) Exercer a direção geral dos serviços técnicos e administrativos do Consel
 
 Parágrafo único. As dúvidas entre os diversos setores da Comissão Executiva serão resolvidas pelo presidente do Conselho.
 
-<strong>Art</strong>. 21. Os órgãos técnicos e administrativos do Conselho grupam-se em três divisões – Divisão Administrativa, Divisão Técnica e Divisão Econômica – cada uma das quais diretamente subordinada a um dos membros da comissão Executiva, cabendo ao Presidente a superintendência geral.
+**Art**. 21. Os órgãos técnicos e administrativos do Conselho grupam-se em três divisões – Divisão Administrativa, Divisão Técnica e Divisão Econômica – cada uma das quais diretamente subordinada a um dos membros da comissão Executiva, cabendo ao Presidente a superintendência geral.
 
 Parágrafo único. O Presidente designará um assistente para a divisão que lhe estiver diretamente subordinada, com o qual despachará o respectivo expediente e a quem competirá orientar, coordenar e fiscalizar os serviços da citada divisão.
 
-<strong>Art</strong>. 22. A Comissão Executiva reunir-se-á sob a presidência do presidente do Conselho, sempre que fôr pelo mesmo convocada.
+**Art**. 22. A Comissão Executiva reunir-se-á sob a presidência do presidente do Conselho, sempre que fôr pelo mesmo convocada.
 
-<strong>Art</strong>. 23. Junto à presidência do Conselho funcionarão um Gabinete, um Serviço Jurídico, os consultores e assessores técnicos necessários e as comissões que foram criadas com objetivo especial.
+**Art**. 23. Junto à presidência do Conselho funcionarão um Gabinete, um Serviço Jurídico, os consultores e assessores técnicos necessários e as comissões que foram criadas com objetivo especial.
 
 Parágrafo único. Os chefes do Gabinete e do Serviço Jurídico serão de livre escolha e designação do presidente do Conselho.
 
-<strong>Art</strong>. 24. Compete ao Gabinete do Presidente (Gab.):
+**Art**. 24. Compete ao Gabinete do Presidente (Gab.):
 
 a) Redigir a correspondência do Gabinete e preparar o expediente para despacho da Presidência.
 
@@ -236,13 +234,13 @@ g) Orientar e controlar o serviço de taquigrafia das sessões do Plenário.
 
 h) Promover o expediente necessário à execução das deliberações do Plenário.
 
-i) Providenciar sôbre a publicação, no <em>Diário Oficial</em>, das decisões assumidas em plenário, salvo as de natureza reservada.
+i) Providenciar sôbre a publicação, no *Diário Oficial*, das decisões assumidas em plenário, salvo as de natureza reservada.
 
 j) Atender às solicitações dos conselheiros, sôbre assuntos pertinentes ao Conselho, no sentido de lhes facilitar o cumprimento das atribuições.
 
 k) Executar outros encargos e realizar os estudos que lhe forem cometidos pelo presidente do Conselho.
 
-<strong>Art</strong>. 25. Compete ao Serviço Jurídico (S. J.):
+**Art**. 25. Compete ao Serviço Jurídico (S. J.):
 
 a) Proceder ao estudo de processos sob o ponto de vista legal, emitindo parecer.
 
@@ -262,11 +260,11 @@ h) Colaborar, nos assuntos da sua competência, com os demais órgãos do Consel
 
 i) Realizar outros estudos de natureza jurídica que lhe forem atribuídos pelo presidente do Conselho.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Divisão Técnica</em>
+*Da Divisão Técnica*
 
-<strong>Art</strong>. 26. Compete à Divisão Técnica:
+**Art**. 26. Compete à Divisão Técnica:
 
 a) Orientar os trabalhos do Conselho Nacional do Petróleo quanto à pesquisa e lavra de jazidas de petróleo e gases naturais (classe X) e de rochas betuminosas e pirobetuminosas (classe IX).
 
@@ -310,7 +308,7 @@ t) Opinar sôbre outros assuntos de natureza técnica que lhe forem submetidos p
 
 u) Coligir os dados e elaborar o relatório técnico anual do Conselho.
 
-<strong>Art</strong>. 27. Compõem a Divisão Técnica:
+**Art**. 27. Compõem a Divisão Técnica:
 
 I – Seção de Geologia (S. G.)
 
@@ -328,9 +326,9 @@ VII – Turma de Administração (T. A.)
 
 Art. 28. O Diretor da Divisão terá um secretário.
 
-<em>I – Da Seção de Geologia</em>
+*I – Da Seção de Geologia*
 
-<strong>Art</strong>. 29. Incumbe à Seção de Geologia:
+**Art**. 29. Incumbe à Seção de Geologia:
 
 a) Organizar, orientar e realizar trabalhos geológicos de superfície e subsuperfície, quando de execução direta pelo Conselho Nacional do Petróleo.
 
@@ -346,11 +344,11 @@ f) Opinar sôbre os relatórios de pesquisa ou lavra de jazidas das classes IX e
 
 g) Sugerir  as regiões do país que devam ser levantadas e estudadas pelo Conselho.
 
-<em>h) Executar, por determinação do diretor da Divisão, outros encargos de natureza técnica.</em>
+*h) Executar, por determinação do diretor da Divisão, outros encargos de natureza técnica.*
 
-<em>II – Da Seção de Geofísica</em>
+*II – Da Seção de Geofísica*
 
-<strong>Art</strong>. 30. Incumbe à Seção de Geofísica:
+**Art**. 30. Incumbe à Seção de Geofísica:
 
 a) Organizar, orientar e realizar trabalhos de prospecção geofísica, quando de execução direta pelo Conselho Nacional do Petróleo.
 
@@ -360,9 +358,9 @@ c) Opinar sôbre os relatórios de pesquisa ou lavra apresentados pelos titulare
 
 d) Executar, por determinação do diretor da Divisão, outros encargos de natureza técnica.
 
-<em>III – Da Seção de Sondagem e Produção</em>
+*III – Da Seção de Sondagem e Produção*
 
-<strong>Art</strong>. 31. Incumbe à Seção de Sondagem e Produção:
+**Art**. 31. Incumbe à Seção de Sondagem e Produção:
 
 a) Organizar e orientar a realização dos planos de sondagens e produção de petróleo e gases naturais, bem como proceder a trabalhos de sondagem, quando de execução direta pelo Conselho Nacional do Petróleo.
 
@@ -380,9 +378,9 @@ g) Opinar sôbre os relatórios de pesquisa ou lavra de jazidas da classe X apre
 
 h) Executar, por determinação do diretor da Divisão, outros encargos de natureza técnica.
 
-<em>IV – Da Seção de Rochas Betuminosas e Pirobetuminosas</em>
+*IV – Da Seção de Rochas Betuminosas e Pirobetuminosas*
 
-<strong>Art</strong>. 32. Incumbe à Seção de Rochas Betuminosas e Pirobetuminosas:
+**Art**. 32. Incumbe à Seção de Rochas Betuminosas e Pirobetuminosas:
 
 a) Organizar, orientar e executar trabalhos geológicos de superfície e trabalhos de sondagem, para estudo das jazidas da classe IX.
 
@@ -398,9 +396,9 @@ f) Manter fiscalização técnica junto aos titulares de autorização de pesqui
 
 g) Executar, por determinação do diretor da Divisão, outros encargos de natureza técnica.
 
-<em>V – Da Seção de Autorizações e Fiscalização</em>
+*V – Da Seção de Autorizações e Fiscalização*
 
-<strong>Art</strong>. 33. Incumbe à Seção de Autorização e Fiscalização da Divisão Técnica:
+**Art**. 33. Incumbe à Seção de Autorização e Fiscalização da Divisão Técnica:
 
 a) Processar os pedidos de autorização para pesquisa ou lavra de jazidas das classes IX e X.
 
@@ -422,9 +420,9 @@ i) Estudar, quanto às condições técnicas, os pedidos de autorização para i
 
 j) Executar, por determinação do diretor da Divisão, outros encargos de natureza técnica.
 
-<em>VI – Da Seção de Cartografia e Fotografia</em>
+*VI – Da Seção de Cartografia e Fotografia*
 
-<strong>Art</strong>. 34. Incumbe à Seção de Cartografia e Fotografia:
+**Art**. 34. Incumbe à Seção de Cartografia e Fotografia:
 
 a) Executar serviços de cartografia e desenho relativos a trabalhos do Conselho Nacional do Petróleo.
 
@@ -434,9 +432,9 @@ c) Verificar a exatidão das plantas e mapas apresentados ao Conselho.
 
 d) Manter atualizados o aquivo e o fichário de desenhos e de fotográfias aéreas de propriedade do Conselho.
 
-<em>VII – Da Turma de Administração</em>
+*VII – Da Turma de Administração*
 
-<strong>Art</strong>.35. Incumbe à Turma de Administração  da Divisão Técnica:
+**Art**.35. Incumbe à Turma de Administração  da Divisão Técnica:
 
 a) Articular-se com as demais repartições do Conselho, no sentido da maior coordenação dos trabalhos afetos  à Divisão Técnica.
 
@@ -456,11 +454,11 @@ h) Organizar e manter atualizada uma coleção de leis, decretos, regulamentos, 
 
 i) Executar, por determinação do diretor da Divisão, quaisquer outros encargos de natureza administrativa.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Da Divisão Econômica</em>
+*Da Divisão Econômica*
 
-<strong>Art</strong>. 36. Compete à Divisão Econômica:
+**Art**. 36. Compete à Divisão Econômica:
 
 a) Processar os pedidos relativos à importação, exportação, transporte, distribuição e comércio de petróleo bruto e seus derivados, bem como dos produtos de destilação das rochas betuminosas e pirobetuminosas.
 
@@ -468,7 +466,7 @@ b) Processar os pedidos de autorização para instalação de depósitos destina
 
 c) Processar os pedidos de autorização para instalação de refinarias de petróleo, oleodutos e destilarias de rochas betuminosas e pirobetuminosas, opinando sôbre a localização e capacidade de produção das refinarias e sôbre a natureza e qualidade dos produtos de refinação.
 
-d) Controlar o exercício das atividades mencionadas nas alíneas <em>a</em>, <em>b</em> e <em>c</em> dêste artigo.
+d) Controlar o exercício das atividades mencionadas nas alíneas *a*, *b* e *c* dêste artigo.
 
 e) Sugerir medidas tendentes ao barateamento dos hidrocarbonetos fluidos em geral, quer de produção nacional, quer importados.
 
@@ -500,7 +498,7 @@ r) Organizar boletins econômicos e estatísticos.
 
 s) Opinar sôbre outros assuntos de natureza econômica que lhe forem submetidos pelo presidente do Conselho.
 
-<strong>Art</strong>. 37. Compõem a Divisão Econômica:
+**Art**. 37. Compõem a Divisão Econômica:
 
 I – Seção de Autorização e Fiscalização (S. A. F.)
 
@@ -512,11 +510,11 @@ IV – Seção de Estatística (S. E.)
 
 V – Turma de Administração (T. A.)
 
-<strong>Art</strong>. 38. O diretor da Divisão terá um secretário.
+**Art**. 38. O diretor da Divisão terá um secretário.
 
-<em>I – Da Seção de Autorização e Fiscalização</em>
+*I – Da Seção de Autorização e Fiscalização*
 
-<strong>Art</strong>. 39. Incumbe à Seção de Autorizações e Fiscalização da Divisão Econômica:
+**Art**. 39. Incumbe à Seção de Autorizações e Fiscalização da Divisão Econômica:
 
 a) Processar os pedidos de registro para o exercício de atividades comerciais referentes a petróleo e seus derivados, bem como a produtos de destilação de rochas betuminosas e pirobetuminosas.
 
@@ -530,11 +528,11 @@ e) Proceder ao registro das autorizações processadas na Divisão Econômica.
 
 f).Fazer o processo de contravenção concernete ao exercício das atividades mencionadas acima, bem como sugerir as medidas e propor a aplicação das multas de que trata êste Regimento.
 
-g) Manter registro atualizado dos importadores e distribuidores de petróleo e seus derivados; dos meios de transporte, armazenamento e distribuição existentes no pais; e, de modo geral, de tôdas as entidades que exerçam qualquer das atividades referidas na alínea <em>a</em> dêste artigo.
+g) Manter registro atualizado dos importadores e distribuidores de petróleo e seus derivados; dos meios de transporte, armazenamento e distribuição existentes no pais; e, de modo geral, de tôdas as entidades que exerçam qualquer das atividades referidas na alínea *a* dêste artigo.
 
 II - Da Seção de Produção e Consumo
 
-<strong>Art</strong>. 40. Incumbe à Seção de Produção e Consumo:
+**Art**. 40. Incumbe à Seção de Produção e Consumo:
 
 a) Examinar os demonstrativos mensais de consumo, produção e estoque, fornecidos ao Conselho pelas entidades importadores e distribuidores de produtos de petróleo, pelas refinarias e pelos consumidores em geral.
 
@@ -550,7 +548,7 @@ f) Indicar a proporção da mistura de álcool anidro nacional com a gasolina.
 
 III - Da Seção de Comércio e Indústria
 
-<strong>Art</strong>. 41. Incumbe à Seção de Comércio e Industria:
+**Art**. 41. Incumbe à Seção de Comércio e Industria:
 
 a) Processar os pedidos de autorização para instalação de refinarias de petróleo, oleodutos e destilarias de rochas betuminosas e pirobetuminosas, opinando sôbre a localização e capacidade de produção das refinarias e sôbre a natureza e qualidade dos produtos de refinação.
 
@@ -572,7 +570,7 @@ i) Estudar questões econômica concernetes ao petróleo, exceto no que se prend
 
 IV - Da Seção de Estatística
 
-<strong>Art</strong>. 42, Incumbe à Seção de Estatística:
+**Art**. 42, Incumbe à Seção de Estatística:
 
 a) Coligir e manter rigorosamente atualizados, por meio de cadastros e fichários adequados, os informes considerados úteis ao abastecimento de petróleo, nacional estrangeiro, abrangendo produção, importação, exportação, estoque, transporte, capacidade de armazenamento e de transporte, distribuição, consumo, etc.
 
@@ -590,7 +588,7 @@ g) Executar, por determinação do diretor da Divisão, quaisquer outros trabalh
 
 V - Da Turma de Administração
 
-<strong>Art</strong>. 43. Incumbe à Turma de Administração da Divisão Econômica:
+**Art**. 43. Incumbe à Turma de Administração da Divisão Econômica:
 
 a) Articular-se com as demais repartições do Conselho, no sentido da maior coordenação dos trabalhos afetos à Divisão Econômica.
 
@@ -610,11 +608,11 @@ h) Organizar e manter atualizada uma coleção de leis, decretos, regulamento, c
 
 i) Executar, por determinação do diretor da Divisão quaisquer outros encargos de natureza administrativa.
 
-<strong>CAPITULO V</strong>
+**CAPITULO V**
 
-<em>DA DIVISÃO ADMINISTRATIVA</em>
+*DA DIVISÃO ADMINISTRATIVA*
 
-<strong>Art</strong>. 44. Compete à Divisão Administrativa:
+**Art**. 44. Compete à Divisão Administrativa:
 
 a) Prover, de modo geral, aos serviços de administração necessários à execução dos trabalhos os Conselhos Nacional do Petróleo.
 
@@ -634,7 +632,7 @@ h) Superintender o serviço de transporte.
 
 i) Superintender os serviços de portaria e os de manutenção e conservação da sede do Conselho.
 
-<strong>Art</strong>. 45. Compõem a Divisão Administrativa:
+**Art**. 45. Compõem a Divisão Administrativa:
 
 I Seção do Pessoal (S.P.)
 
@@ -652,11 +650,11 @@ VII Turma de Transportes (T.T.)
 
 VIII Portaria (Port.)
 
-<strong>Art</strong>. 46. O diretor da Divisão terá um secretário.
+**Art**. 46. O diretor da Divisão terá um secretário.
 
 I - Da Seção do Pessoal
 
-<strong>Art</strong>. 47 Incumbe à Seção do Pessoal:
+**Art**. 47 Incumbe à Seção do Pessoal:
 
 a) Coordenar os assuntos relacionados com os servidores do Conselho Nacional do Petróleo.
 
@@ -672,7 +670,7 @@ f) Publicar o “Boletim do Pessoal”.
 
 g) Opinar, por determinação do diretor da Divisão, sôbre quaisquer outros assuntos concernentes ao pessoal.
 
-<strong>Art</strong>. 48. A Seção do Pessoal compreende:
+**Art**. 48. A Seção do Pessoal compreende:
 
 1 Turma Administrativa (T. Ad.)
 
@@ -680,7 +678,7 @@ g) Opinar, por determinação do diretor da Divisão, sôbre quaisquer outros as
 
 3 Turma Financeira (T.F.)
 
-<strong>Art</strong>. 49. Compete à Turma Administrativa:
+**Art**. 49. Compete à Turma Administrativa:
 
 a) Opinar, tendo em vista as necessidades dos serviços, sôbre a criação e a supressão de funções.
 
@@ -718,7 +716,7 @@ q) Preparar o expediente necessários à requisição de servidores de outros ó
 
 r) Estudar e instruir os processos referentes à concessão de salário - família mantendo atualizado o contrôle dos dependentes.
 
-<strong>Art</strong>. 50. Compete à Turma de Contrôle:
+**Art**. 50. Compete à Turma de Contrôle:
 
 a) Organizar e manter em dia a ficha financeira individual dos servidores.
 
@@ -738,7 +736,7 @@ h) Expedir guias de crédito correspondentes aos descontos autorizados.
 
 i) Conferir os valores averbados e classificados.
 
-<strong>Art</strong>. 51. Compete à Turma Financeira:
+**Art**. 51. Compete à Turma Financeira:
 
 a) Elaborar aso folhas de pagamento e as relações dos descontos obrigatórios e autorizados.
 
@@ -752,7 +750,7 @@ e) Encaminhar à Turma Administrativa, devidamente organizados, os elementos de 
 
 II - Da Seção do Material
 
-<strong>Art</strong>. 52. Incumbe à Seção do Material:
+**Art**. 52. Incumbe à Seção do Material:
 
 a) Coordenar os assuntos concernentes a material e fornecimento de serviços, bem como a execução e fiscalização das medidas de caráter administrativo referentes aos mesmos.
 
@@ -772,7 +770,7 @@ h) Manter controle dos preços do material.
 
 i) Fazer o processamento das contas.
 
-<strong>Art</strong>. 53. A Seção do Material compreende:
+**Art**. 53. A Seção do Material compreende:
 
 1 Turma de Aquisição no País (T.A.P.)
 
@@ -782,7 +780,7 @@ i) Fazer o processamento das contas.
 
 Parágrafo único. As Turmas e o Almoxarifado poderão ser desdobrados em Grupos, de acordo com as necessidades do serviço e a critério do diretor da Divisão.
 
-<strong>Art</strong>. 54. Compete à Turma de Aquisições no País:
+**Art**. 54. Compete à Turma de Aquisições no País:
 
 a) Registrar as requisições de material a ser adquirido no país e tôdas as requisições de serviço dos diversos setores do Conselho Nacional do Petróleo.
 
@@ -804,7 +802,7 @@ i) Fornecer periodicamente aos diferentes órgãos do Conselho a relação compl
 
 j) Organiganizar e manter atualizadas as listas e os catálogos técnicos do material.
 
-<strong>Art</strong>. 55. Compete à Turma de Aquisições no Exterior:
+**Art**. 55. Compete à Turma de Aquisições no Exterior:
 
 a) Registrar as requisições de material a ser adquirido no exterior para os diversos setores do Conselho.
 
@@ -822,7 +820,7 @@ g) Manter registro do material adquirido no exterior.
 
 h) Organizar e manter atualizadas as listas e os catálogos técnicos do material de importação.
 
-<strong>Art</strong>. 56. Compete ao Almoxarifado;
+**Art**. 56. Compete ao Almoxarifado;
 
 a) Receber, conferir, armazenar e distribuir o material adquirido, permanente ou de consumo, opinando prèviamente sôbre a conveniência ou não da sua aceitação.
 
@@ -850,7 +848,7 @@ i) Providenciar o consêrto, a conservação, o recondicionamento e a recuperaç
 
 III - Da Seção de Orçamento e Contabilidade
 
-<strong>Art</strong>. 57. Incumbe à Seção de Orçamento e Contabilidade:
+**Art**. 57. Incumbe à Seção de Orçamento e Contabilidade:
 
 a) Coordenar os assuntos orçamentários do Conselho Nacional do Petróleo, fazendo o registro de todos os dados que interessem, direta ou indiretamente, à elaboração da proposta orçamentária ou à execução do orçamento.
 
@@ -858,7 +856,7 @@ b) Fiscalizar e escriturar tôdas as operações de crédito e débito concernen
 
 c) Realizar pagamentos e recebimentos.
 
-<strong>Art</strong>. 58. A Seção de Orçamento e Contabilidade compreende:
+**Art**. 58. A Seção de Orçamento e Contabilidade compreende:
 
 1 Turma de Orçamento (T .O.)
 
@@ -866,7 +864,7 @@ c) Realizar pagamentos e recebimentos.
 
 3 Pagadoria (Pag.)
 
-<strong>Art</strong>. 59. Compete à Turma de Orçamento:
+**Art**. 59. Compete à Turma de Orçamento:
 
 a) Preparar, dentro dos programas estabelecidos, a proposta orçamentária.
 
@@ -884,7 +882,7 @@ g) Preparar a prestação anual de contas ao Tribunal de Contas.
 
 h) Executar, por determinação do diretor da Divisão, quaisquer outros encargos de natureza orçamentária.
 
-<strong>Art</strong>. 60. Compete à Turma de Contabilidade:
+**Art**. 60. Compete à Turma de Contabilidade:
 
 a) Escriturar todas as operações de crédito e débito concernentes às atividades do Conselho Nacional do Petróleo.
 
@@ -898,7 +896,7 @@ e) Orientar e fiscalizar a contabilidade dos Serviços Regionais e dos órgãos 
 
 f) Executar, por determinação do diretor da Divisão, quaisquer outros encargos de natureza contábil.
 
-<strong>Art</strong>. 61. Compete à Pagadoria:
+**Art**. 61. Compete à Pagadoria:
 
 b) Efetuar o pagamento das faturas relativas à aquisição de material e ao fornecimento de serviços.
 
@@ -936,7 +934,7 @@ k) Executar, por determinação e biblioteca.
 
 V - Da Seção de Comunicações e Arquivo
 
-<strong>Art</strong>. 63. Incumbe à Seção de Comunicações e Arquivos:
+**Art**. 63. Incumbe à Seção de Comunicações e Arquivos:
 
 a) Receber, registrar, distribuir, guardar e expedir correspondência, processos e demais documentos referentes ao Conselho Nacional do Petróleo.
 
@@ -944,7 +942,7 @@ b) Prestar informações aos interessados sôbre a situação dos respectivos pa
 
 c) Passar as certidões autorizadas e submetê-las ao visto do diretor da Divisão.
 
-<strong>Art</strong>. 64. A Seção de Comunicações e Arquivo compreende:
+**Art**. 64. A Seção de Comunicações e Arquivo compreende:
 
 1\. - Turma de Recebimento e Registro (T. R. R.)
 
@@ -954,7 +952,7 @@ c) Passar as certidões autorizadas e submetê-las ao visto do diretor da Divis�
 
 4\. - Turma Arquivamento (T. Ar.)
 
-<strong>Art</strong>. 65.Compete à Turma do Recebimento e Registro:
+**Art**. 65.Compete à Turma do Recebimento e Registro:
 
 a) Receber a correspondência e os documentos enviados ao Conselho Nacional do Petróleo.
 
@@ -964,7 +962,7 @@ c) Fazer a autuação dos documentos que devam constituir processo.
 
 d) Remeter os documentos à Turma de Andamento e Informações com as respectivas fichas de registro.
 
-<strong>Art</strong>. 66. Compete à Turma de Andamento e Informações:
+**Art**. 66. Compete à Turma de Andamento e Informações:
 
 a) Classificar e arquivar as fichas de registro enviadas pela Turma de Recebimento e Registo, bem como receber os documento correspondentes.
 
@@ -974,7 +972,7 @@ c) Encaminhar ao destino os papéis e processos, e controlar o seu movimento por
 
 d) Prestar aos interessados as informações que solicitarem sôbre a situação dos respectivos processos e papéis.
 
-<strong>Art</strong>. 67. Compete à Turma de Expedição:
+**Art**. 67. Compete à Turma de Expedição:
 
 a) Receber, conferir, numerar e registrar os documentos a serem expedidos.
 
@@ -986,7 +984,7 @@ d) Preparar os recibos de entrega e fazer a expedição dos documentos.
 
 e) Manter arquivo dos recibos de entrega.
 
-<strong>Art</strong>. 68. Compete à Turma de Arquivamento:
+**Art**. 68. Compete à Turma de Arquivamento:
 
 a).Receber, classificar e guardar os documentos e processos a serem arquivados.
 
@@ -1004,7 +1002,7 @@ g) Remeter ao Arquivo Nacional, com autorização superior e devidamente relacio
 
 VI - Da Turma de Administração
 
-<strong>Art</strong>. 69 Incumbe à Turma de Administração da Divisão Administrativa:
+**Art**. 69 Incumbe à Turma de Administração da Divisão Administrativa:
 
 a) Articular-se com as demais repartições do Conselho, no sentido da maior coordenação dos trabalhos afetos à Divisão Administrativa.
 
@@ -1028,7 +1026,7 @@ j) Executar, por determinação do diretor da Divisão, quaisquer outros encargo
 
 VII - Da Turma de Transportes
 
-<strong>Art</strong>. 70. Incumbe à Turma de Transportes prover à movimentação, manutenção, conservação e reparação dos veículos, de carga ou de passageiros, a serviço do Conselho Nacional do Petróleo.
+**Art**. 70. Incumbe à Turma de Transportes prover à movimentação, manutenção, conservação e reparação dos veículos, de carga ou de passageiros, a serviço do Conselho Nacional do Petróleo.
 
 § 1º E vedado o uso dos veículos do Conselho para atividades estranhas ao serviços público, bem como pernoite dos mesmos fora dos locais oficialmente designados, salve autorização especial.
 
@@ -1038,7 +1036,7 @@ VII - Da Turma de Transportes
 
 VIII - Da Portaria
 
-<strong>Art</strong>. 71. Incube á Portaria:
+**Art**. 71. Incube á Portaria:
 
 a) Abrir e fechar as portas e janelas da sede do Conselho.
 
@@ -1068,21 +1066,21 @@ m) Distribuir internamente a correspondência e o expediente.
 
 n) Executar, por determinação do diretor da Divisão, quaisquer outros trabalhos atinentes ao serviço de portaria.
 
-<strong>CAPITULO VI</strong>
+**CAPITULO VI**
 
-<em>DOS SERVIÇOS REGIONAIS E ÓRGÃOS ESPECUALIZADOS</em>
+*DOS SERVIÇOS REGIONAIS E ÓRGÃOS ESPECUALIZADOS*
 
-<strong>Art</strong>. 72. Quando o desenvolvimento dos trabalhos exigidos, poderão ser criados Serviços Regionais e órgãos especializados para a execução dos trabalhos oficiais de pesquisa e lavra de jazidas das classes IX e X, bem como quaisquer outros empreendimentos ou encargos relacionados com o abastecimento nacional de petróleo.
+**Art**. 72. Quando o desenvolvimento dos trabalhos exigidos, poderão ser criados Serviços Regionais e órgãos especializados para a execução dos trabalhos oficiais de pesquisa e lavra de jazidas das classes IX e X, bem como quaisquer outros empreendimentos ou encargos relacionados com o abastecimento nacional de petróleo.
 
 § 1º Os Serviços Regionais e os órgãos especializados funcionarão sob a superintendência do presidente do Conselho e serão constituídos mediante ordens de serviço pelo mesmo expedidas, de acôrdo com o vulto e a natureza dos trabalhos a realizar.
 
 § 2º Os chefes dos Serviços Regionais e dos órgãos especializados serão de livre escolha e designação do presidente do Conselho, que também determinará as relações de subordinação dos mesmos às diferentes divisões do Conselho.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 73  Compete ao presidente do Conselho Nacional do Petróleo superintender os seus órgãos técnicos e administrativos, exercendo as atribuições que lhe são conferidas pela legislação em vigor, e especialmente:
+**Art**. 73  Compete ao presidente do Conselho Nacional do Petróleo superintender os seus órgãos técnicos e administrativos, exercendo as atribuições que lhe são conferidas pela legislação em vigor, e especialmente:
 
 a) Presidir às sessões do Plenário e convocar sessões extraordinárias bem como designar a ordem do dia, os relatores e comissões de conselheiros.
 
@@ -1130,7 +1128,7 @@ v) Determinar ou autorizar a divulgação de qualquer ato ou documento Conselho.
 
 w) Cumprir e fazer cumprir as deliberações do Plenário a este Regimento, bem como exercer as demais atribuições inerentes à sua função e não especificadas neste artigo.
 
-<strong>Art</strong>. 74. Compete aos Conselheiros exercer as atribuição de natureza deliberativa contidas no artigo 2º deste Regimento, e especialmente:
+**Art**. 74. Compete aos Conselheiros exercer as atribuição de natureza deliberativa contidas no artigo 2º deste Regimento, e especialmente:
 
 a) Comparecer às sessões, nos casos do Plenário e requerer a convocação de sessões extraordinárias, justificando a sua necessidade.
 
@@ -1150,7 +1148,7 @@ h) Solicitar ao Presidente as medidas que consideram necessárias ao Cabal desem
 
 Parágrafo único. Aos conselheiros representantes dos Ministérios militares cabe, outrossim, o direito de recursos previsto no artigo 85 deste Regimento.
 
-<strong>Art</strong>. 75 São atribuição dos diretores de divisão:
+**Art**. 75 São atribuição dos diretores de divisão:
 
 a) Tomar parte nas reuniões da Comissão Executiva.
 
@@ -1188,7 +1186,7 @@ q) Dirigir-se, em assuntos da sua atribuição, aos chefes ou diretores de repar
 
 r) Apresentar relatórios anuais sobre as atividades da Divisão.
 
-<strong>Art</strong>. 76. São atribuições do chefe do Gabinete do Presidente:
+**Art**. 76. São atribuições do chefe do Gabinete do Presidente:
 
 a) Orientar, coordenar e fiscalização os trabalhados afetos ao Gabinete.
 

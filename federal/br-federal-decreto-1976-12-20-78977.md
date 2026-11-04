@@ -1,5 +1,3 @@
-###DEC-078977-0-000-20-12-1976@@@
-
 DECRETO Nº 78.977, 20 DE DEZEMBRO DE 1976.
 
 Altera redação do inciso II do artigo 11 do Regulamento do Imposto Único sobre Minerais, aprovado pelo Decreto n.º 66.694, de 11 de junho de 1970, já modificado pelo Decreto n.º 75.575, de 23 de maio de 1975.

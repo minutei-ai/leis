@@ -1,5 +1,3 @@
-###DEC-083552-0-000-05-06-1979@@@
-
 DECRETO Nº 83.552, DE 05 DE JUNHO DE 1979.
 
 Autoriza a transferência direta para a Fundação Cultural Planalto de Passo Fundo da concessão outorgada à Sociedade Radiodifusão Planalto Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Passo Fundo, Estado do Rio Grande do Sul.

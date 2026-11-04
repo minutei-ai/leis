@@ -1,5 +1,3 @@
-###DEL-009440-0-000-10-07-1946@@@
-
 DECRETO-LEI N. 9.440 – DE 10 DE JULHO DE 1946
 
 Extingue o Conselho Nacional de Caça do Ministério da Agricultura e dá outras providências.

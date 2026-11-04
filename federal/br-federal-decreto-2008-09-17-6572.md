@@ -1,5 +1,3 @@
-###DEC-006572-0-000-17-09-2008@@@
-
 DECRETO Nº 6.572, DE 17 DE SETEMBRO DE 2008.
 
 Dá nova redação ao art. 4o do Decreto no 5.390, de 8 de março de 2005, que aprova o Plano Nacional de Políticas para as Mulheres - PNPM e institui o Comitê de Articulação e Monitoramento.

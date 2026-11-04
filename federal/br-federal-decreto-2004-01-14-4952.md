@@ -1,5 +1,3 @@
-###DEC-004952-0-000-14-01-2004@@@
-
 DECRETO Nº 4.952, DE 14 DE JANEIRO DE 2004.
 
        Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos Mexicanos sobre Isenção de Vistos em Passaportes Comuns, de 23 de novembro de 2000.
@@ -22,18 +20,26 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 14 de janeiro de 2004; 183º da Independência e 116º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Celso Luiz Nunes Amorim
 
-ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL<br>
-E O GOVERNO DOS ESTADOS UNIDOS MEXICANOS SOBRE ISENÇÃO<br>
+ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL
+
+E O GOVERNO DOS ESTADOS UNIDOS MEXICANOS SOBRE ISENÇÃO
+
 DE VISTOS EM PASSAPORTES COMUNS
 
-        O Governo da República Federativa do Brasil<br>
-        e<br>
-        O Governo dos Estados Unidos Mexicanos<br>
-        (doravante denominados "Partes"),<br>
-        Desejando intensificar as relações de amizade existentes entre ambos os países;<br>
+        O Governo da República Federativa do Brasil
+
+        e
+
+        O Governo dos Estados Unidos Mexicanos
+
+        (doravante denominados "Partes"),
+
+        Desejando intensificar as relações de amizade existentes entre ambos os países;
+
         Reconhecendo a conveniência de simplificar as viagens de nacionais de um Estado ao território do outro,
 
         Acordam o seguinte:
@@ -88,14 +94,22 @@ ARTIGO XI
 
         Feito e firmado em Brasília, em 23 de novembro de 2000, em dois exemplares originais, nos idiomas português e espanhol, sendo ambos os textos igualmente autênticos.
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
-PELO GOVERNO DA REPÚBLICA<br>
-FEDERATIVA DO BRASIL<br>
-Luiz Felipe Lampreia<br>
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+PELO GOVERNO DA REPÚBLICA
+
+FEDERATIVA DO BRASIL
+
+Luiz Felipe Lampreia
+
 Ministro das Relações Exteriores
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
-PELO GOVERNO DOS ESTADOS<br>
-UNIDOS MEXICANOS<br>
-Jorge Eduardo Navarreta<br>
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+PELO GOVERNO DOS ESTADOS
+
+UNIDOS MEXICANOS
+
+Jorge Eduardo Navarreta
+
 Embaixador

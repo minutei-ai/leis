@@ -114,11 +114,14 @@ Art. 5º - Revogadas as disposições em contrário, esta Lei entrará em vigor 
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos quatro dias do mês de janeiro de hum mil novecentos e noventa e quatro.
 
-NORBERTO TEIXEIRA<br>
+NORBERTO TEIXEIRA
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO
 
-JOSE DONIZETE DA ROCHA<br>
+JOSE DONIZETE DA ROCHA
+
 SEC. DE FINANÇAS

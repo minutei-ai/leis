@@ -1,5 +1,3 @@
-###DEC-056578-0-000-19-07-1965@@@
-
 DECRETO Nº 55.578, DE 19 DE JULHO DE 1965.
 
 Declara de utilidade pública a Sociedade Escolar de Santa Cruz, com sede em Santa Cruz do Sul, Estado do Rio Grande do Sul.

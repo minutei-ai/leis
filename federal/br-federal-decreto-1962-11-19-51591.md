@@ -1,5 +1,3 @@
-###DEC-051591-0-000-19-11-1962@@@
-
 Decreto nº 51.591, de 19 de novembro de 1962.
 
 Retifica o enquadramento provisório de servidores do Ministério da Viação e Obras Públicas.

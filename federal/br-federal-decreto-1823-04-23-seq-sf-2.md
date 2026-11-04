@@ -1,5 +1,3 @@
-###DEC-000000-0-002-23-04-1823@@@
-
 DECRETO - DE 23 DE ABRIL DE 1823
 
 Eleva o numero de praças da companhia de artilharia a cavallo da villa de Campos de Goytacazes.

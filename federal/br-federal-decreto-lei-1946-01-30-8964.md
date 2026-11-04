@@ -1,5 +1,3 @@
-###DEL-008964-0-000-30-01-1946@@@
-
 DECRETO-LEI N. 8.964 – DE 30 DE JANEIRO DE 1946
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 4.042.537,30, para despesa decorrente de reajustamento de preços unitários de serviços.

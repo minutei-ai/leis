@@ -1,5 +1,3 @@
-###DEL-007177-0-000-21-12-1944@@@
-
 DECRETO-LEI N. 1.177 – DE 21 DE DEZEMBRO DE 1944
 
 Altera o efetivo do Quadro de Oficiais do Corpo da Armada e dá outras providências
@@ -10,7 +8,35 @@ decreta:
 
 Art. 1º O efetivo do Quadro de Oficiais do Corpo da Armada (QO) passará a ter a seguinte constituição:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:400.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Vice-Almirante......................................................................................................................</span></p></td><td style="width:74.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>04</span></p></td></tr><tr><td style="width:400.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Contra-Almirante..................................................................................................................</span></p></td><td style="width:74.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>10</span></p></td></tr><tr><td style="width:400.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Capitães de Mar e Guerra....................................................................................................</span></p></td><td style="width:74.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>36</span></p></td></tr><tr><td style="width:400.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Capitães de Fragata.............................................................................................................</span></p></td><td style="width:74.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>70</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;</span></p></td></tr><tr><td style="width:400.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Capitães de Corveta............................................................................................................</span></p></td><td style="width:74.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>140</span></p></td></tr><tr><td style="width:400.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Capitães Tententes..............................................................................................................</span></p></td><td style="width:74.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>260</span></p></td></tr><tr><td style="width:400.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Primeiros Tenentes..............................................................................................................</span></p></td><td style="width:74.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>350</span></p></td></tr><tr><td style="width:400.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Segundo Tenentes – Em número limitado pelos de alunos que terminarem o curso da Escola Naval</span></p></td><td style="width:74.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+Vice-Almirante......................................................................................................................
+
+04
+
+Contra-Almirante..................................................................................................................
+
+10
+
+Capitães de Mar e Guerra....................................................................................................
+
+36
+
+Capitães de Fragata.............................................................................................................
+
+70
+
+Capitães de Corveta............................................................................................................
+
+140
+
+Capitães Tententes..............................................................................................................
+
+260
+
+Primeiros Tenentes..............................................................................................................
+
+350
+
+Segundo Tenentes – Em número limitado pelos de alunos que terminarem o curso da Escola Naval
 
  (Quadro aberto)
 

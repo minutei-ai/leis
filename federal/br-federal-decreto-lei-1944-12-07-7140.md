@@ -1,5 +1,3 @@
-###DEL-007140-0-000-07-12-1944@@@
-
 DECRETO-LEI N. 7.140 – DE 7 DE DEZEMBRO DE 1944
 
 Abre ao Ministério da Educação e Saúde o crédito suplementar de Cr$ 180.000,00, à verba que especifica

@@ -1,5 +1,3 @@
-###DEL-006661-0-000-06-07-1944@@@
-
 DECRETO-LEI N. 6.661 – DE 6 DE JULHO DE 1944
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 80.000,00 para pagamento à Fundação Ataulfo de Paiva

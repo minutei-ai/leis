@@ -24,7 +24,8 @@ II – a Feira de Tecnologia em Agronegócio – Tecnoshow COMIGO, realizada, an
 
 III – a AgroTecnoleite Complem, realizada, anualmente, no Município de Morrinhos/GO.
 
-IV – a Feira de Agronegócios de Goiânia – AGROVEM, realizada, anualmente, no Município de Goiânia/GO.<br>
+IV – a Feira de Agronegócios de Goiânia – AGROVEM, realizada, anualmente, no Município de Goiânia/GO.
+
 \- [Acrescido pela Lei nº 23.960, de 20-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111887/lei-23960).
 
 Art. 4º Esta Lei entra em vigor na data de sua publicação.

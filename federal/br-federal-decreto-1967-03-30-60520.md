@@ -1,5 +1,3 @@
-###DEC-060520-0-000-30-03-1967@@@
-
 Decreto nº 60.520, de 30 de março de 1967.
 
 Declara de utilidade pública para fins de desapropriação ou constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde o tronco Carioba-Taubaté até a cidade de Americana, município de Americana, no Estado de São Paulo.

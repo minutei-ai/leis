@@ -1,5 +1,3 @@
-###DEC-094023-0-000-13-02-1987@@@
-
 DECRETO Nº 94.023, DE 13 DE FEVEREIRO DE 1987.
 
 Autoriza o funcionamento do curso Superior de Tecnologia em Processamento de Dados da Faculdade de Ciências e Humanidades de Pato Branco, Paraná.

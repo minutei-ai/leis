@@ -1,5 +1,3 @@
-###DEC-004549-0-000-27-12-2002@@@
-
 DECRETO N. 4.549 – DE 27 DE DEZEMBRO DE 2002
 
 Estabelece a estrutura organizacional básica do Comando-Geral de Apoio, do Comando da Aeronáutica.

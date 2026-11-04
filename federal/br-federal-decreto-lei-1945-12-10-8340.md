@@ -1,5 +1,3 @@
-###DEL-008340-0-000-10-12-1945@@@
-
 DECRETO-LEI N. 8.340 – DE 10 DE DEZEMBRO DE 1945
 
 Cede à Sociedade Brasileira de Educação o imóvel que menciona.

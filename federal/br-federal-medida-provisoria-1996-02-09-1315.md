@@ -1,7 +1,3 @@
-1
-
-###MPV-001315-0-000-09-02-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.315, DE 9 DE FEVEREIRO DE 1996.
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

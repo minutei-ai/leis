@@ -1,5 +1,3 @@
-###DEC-087186-0-000-18-05-1982@@@
-
 # (\*) Decreto nº 87.186, de 18 de maio 1982.
 
 Promulga a Convenção Internacional para Salvaguarda da Vida Humana no Mar, 1974.

@@ -1,5 +1,3 @@
-###DEL-004355-0-000-04-06-1942@@@
-
 DECRETO-LEI N. 4.355 – DE 4 DE JUNHO DE 1942
 
 Abre ao Ministério das Relações Exteriores o crédito especial de 254:800$0, para despesas no exterior

@@ -1,5 +1,3 @@
-###DEC-055024-0-000-18-11-1964@@@
-
 DECRETO Nº 55.024, DE 18 DE NOVEMBRO DE 1964.
 
 Autoriza a cidadã brasileira Beatriz Canedo de Oliveira a pesquisar bauxita no município de Caldas, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-081607-0-000-27-04-1978@@@
-
 Decreto nº 81.607, de 27 de abril de 1978.
 
 Concede reconhecimento ao curso de Arquitetura e Urbanismo da Universidade Federal de Pelotas, Estado do Rio Grande do Sul.

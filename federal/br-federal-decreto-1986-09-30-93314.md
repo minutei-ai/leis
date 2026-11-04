@@ -1,5 +1,3 @@
-###DEC-093314-0-000-30-09-1986@@@
-
 DECRETO Nº 93.314, DE 30 DE SETEMBRO DE 1986
 
 Dispõe sobre a extinção das Assessorias de Segurança e Informações no âmbito das Instituições Federais de Ensino Superior vinculadas ao Ministério da Educação.

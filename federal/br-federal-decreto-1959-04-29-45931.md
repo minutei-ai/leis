@@ -1,5 +1,3 @@
-###DEC-045931-0-000-29-04-1959@@@
-
 DECRETO Nº 45.931, DE 29 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Joaquim Frederico Souza de Araújo a pesquisar areias ilmeníticas no município de Tutóia, Estado do Maranhão.

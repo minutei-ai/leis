@@ -1,5 +1,3 @@
-###DEC-059225-0-000-16-09-1966@@@
-
 DECRETO Nº 59.225, DE 16 DE SETEMBRO DE 1966.
 
 Dispõe sôbre a venda de terrenos dos Institutos de Aposentadoria e Pensões a entidades do Sistema Financeiro da Habitação.

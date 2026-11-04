@@ -1,5 +1,3 @@
-###DEC-089195-0-000-16-12-1983@@@
-
 Decreto nº 89.195, de 16 de dezembro de 1983
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação de rádio UHF Itapevi da ELETROPAULO-Eletricidade de São Paulo S.A., no Estado de São Paulo.

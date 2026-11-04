@@ -1,5 +1,3 @@
-###DEL-007498-0-000-27-04-1945@@@
-
 DECRETO-LEI N. 7.498 – DE 27 DE ABRIL DE 1945
 
 Abre ao Ministério da Agricultura o crédito especiaI de Cr$ 150.000,00 pagamento de gratificação pela elaboração de trabalho de caráter científico

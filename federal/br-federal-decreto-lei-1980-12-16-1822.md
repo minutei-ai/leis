@@ -1,7 +1,3 @@
-1
-
-###DEL-001822-0-000-16-12-1980@@@
-
 # Decreto-lei Nº 1.822, de 16 de dezembro de 1980.
 
 Autoriza a elevação do capital do Serviço Federal de Processamento de Dados - SERPRO e dá outras providências.

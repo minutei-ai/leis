@@ -1,5 +1,3 @@
-###DEL-005532-0-000-28-05-1943@@@
-
 DECRETO‑LEI N. 5.532 – DE 28 DE MAIO DE 1943
 
 Dá nova redação ao decreto‑lei n. 5.032, de 4 de dezembro de 1942

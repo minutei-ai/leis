@@ -1,5 +1,3 @@
-###DEC-051475-0-000-29-05-1962@@@
-
 DECRETO Nº 51.475, DE 29 de maio de 1962.
 
 Abre ao Ministério da Saúde o crédito especial de Cr$6.000.000,00 (seis milhões de cruzeiros) para a construção do pavilhão da Clínica Ortopédica do Hospital Geral da Santa Casa de Misericórdia do Rio de Janeiro, conforme autorização dada pela Lei nº 3.932, de 26 de setembro de 1961.

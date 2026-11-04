@@ -1,5 +1,3 @@
-###DEC-086846-0-000-13-01-1982@@@
-
 DECRETO Nº 86.846, DE 13 DE JANEIRO DE 1982
 
 Concede à Companhia Siderúrgica de Mogi das Cruzes - COSIM, autorização para proceder a aumento de seu capital social.

@@ -1,5 +1,3 @@
-###DEC-046390-0-000-08-07-1959@@@
-
 DECRETO Nº 46.390, DE 8 DE JULHO DE 1959.
 
 Autoriza Herberto Otto Maahsen, a comprar pedras preciosas.

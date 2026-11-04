@@ -1,5 +1,3 @@
-###DEC-086873-0-000-26-01-1982@@@
-
 Decreto nº 86.873, de 26 de janeiro de 1982
 
 Proíbe a criação de unidades orgânicas de artes gráficas na Administração Federal direta e indireta, bem como na fundações instituídas ou mantidas pela União, e dá outras providências.

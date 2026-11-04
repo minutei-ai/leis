@@ -1,5 +1,3 @@
-###DEC-007113-0-000-19-02-2010@@@
-
 DECRETO Nº 7.113, DE 19 DE FEVEREIRO DE 2010.
 
 Institui o Conselho Deliberativo do Fundo Soberano do Brasil - CDFSB, e dá outras providências.

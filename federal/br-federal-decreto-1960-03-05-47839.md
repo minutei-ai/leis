@@ -1,5 +1,3 @@
-###DEC-047839-0-000-05-03-1960@@@
-
 DECRETO N. 47.839 – DE 5 DE MARÇO DE 1960
 
 Altera a lotação numérica das repartições atendidas pelo Quadro Permanente do Ministério da Aeronáutica.

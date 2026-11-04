@@ -1,5 +1,3 @@
-###DEC-005653-0-000-29-12-2005@@@
-
 DECRETO Nº 5.653, DE 29 DE DEZEMBRO DE 2005.
 
 Trata das máquinas e equipamentos utilizados na fabricação de papéis destinados à impressão de jornais ou periódicos, objeto da suspensão da exigência da Contribuição para o PIS/PASEP, da COFINS, da Contribuição para o PIS/PASEP-Importação e da COFINS-Importação, na forma do § 9º do art. 55 da Lei nº 11.196, de 21 de novembro de 2005.

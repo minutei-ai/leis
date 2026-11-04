@@ -1,5 +1,3 @@
-###DEC-068586-0-000-04-05-1971@@@
-
 Decreto Nº 68.586 - DE 4 DE maio DE 1971.
 
 Autoriza o Ministério da Fazenda a adquirir com financiamento externo equipamentos periféricos e unidades de canais destinados à complementação do Laboratório de Computação e Simulação da Escola Federal de Engenharia de Itajubá.

@@ -1,5 +1,3 @@
-###DEC-089340-0-000-31-01-1984@@@
-
 Decreto nº 89.340, de 31 de Janeiro de 1984
 
 Outorga à Specht-Produtos Alimentícios Ltda. concessão para o aproveitamento da energia hidráulica de um desnível existente no rio do Peixe, no Município de Joaçaba, Estado de Santa Catarina, para uso exclusivo.

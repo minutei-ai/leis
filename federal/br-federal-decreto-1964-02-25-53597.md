@@ -1,5 +1,3 @@
-###DEC-053597-0-000-25-02-1964@@@
-
 DECRETO Nº 53.597, DE 25 DE FEVEREIRO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terreno situada no Município de Biguaçu Estado de Santa Catarina.

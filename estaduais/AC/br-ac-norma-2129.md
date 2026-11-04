@@ -1,6 +1,10 @@
 > **LEI Nº 3.372, DE 28 DE FEVEREIRO DE 2018**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Instituto Dom Moacyr Grecchi a ceder imóvel ao Instituto Federal de Educação, Ciência e Tecnologia do Acre - IFAC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Instituto Dom Moacyr Grecchi a ceder imóvel ao Instituto Federal de Educação, Ciência e Tecnologia do Acre - IFAC.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

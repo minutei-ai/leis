@@ -1,7 +1,3 @@
-1
-
-###DEC-099848-0-000-18-12-1990@@@
-
 # DECRETO N° 99.848, DE 18 DE DEZEMBRO DE 1990
 
 Autoriza o aumento do capital social da Companhia de Colonização do Nordeste (Colone).

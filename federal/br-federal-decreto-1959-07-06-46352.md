@@ -1,5 +1,3 @@
-###DEC-046352-0-000-06-07-1959@@@
-
 DECRETO Nº 46.352, DE 6 DE JULHO DE 1959.
 
 Cria o Consulado honorário do Brasil em Pau, França.

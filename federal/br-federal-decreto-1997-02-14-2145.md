@@ -1,5 +1,3 @@
-###DEC-002145-0-000-14-02-1997@@@
-
 DECRETO Nº 2.145, DE 14 DE FEVEREIRO DE 1997
 
 Dispõe sobre o remanejamento dos cargos do Grupo-Direção e Assessoramento Superiores - DAS e Funções Gratificadas que menciona.

@@ -6,7 +6,8 @@ Institui normas de proteção e estímulo à preservação do patrimônio cultur
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DA PARTE GERAL
 
 Art. 1º - O Estado da Bahia protegerá o patrimônio cultural existente em seu território, por meio dos seguintes institutos:
@@ -61,7 +62,8 @@ Art. 8º - Caberá ao IPAC o monitoramento e a inspeção dos bens protegidos.
 
 Parágrafo único - O impedimento à inspeção acarretará a imposição de multa.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DO TOMBAMENTO
 
 Art. 9º - O Tombamento será aplicado ao bem de cultura móvel ou imóvel, tendo por referência o seu caráter singular.
@@ -136,12 +138,14 @@ Art. 16 - O proprietário ou responsável deverá notificar o IPAC do furto ou d
 
 Art. 17 - O proprietário deverá notificar o adquirente de bem tombado, no ato da alienação, do regime de proteção que se lhe aplica, sob pena de multa.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DO INVENTÁRIO PARA A PRESERVAÇÃO
 
 Art. 18 - O Inventário para a Preservação será aplicado ao bem cultural, móvel ou imóvel, individualmente ou em conjunto e coleções, tendo por referência o seu caráter reiterativo.
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Dos Bens Imóveis e Conjuntos
 
 Art. 19 - O Inventário para a Preservação de bem cultural ou conjunto de bens imóveis obedecerá ao seguinte procedimento:
@@ -172,7 +176,8 @@ IV - não resultando, ainda, acordo entre as partes, o IPAC terá novo prazo de 
 
 V - o CEC, deliberando pela desapropriação, encaminhará o pedido ao Secretário de Estado da Cultura e Turismo para que se produzam os efeitos necessários junto à Governadoria.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Dos Bens Móveis e Coleções
 
 Art. 23 - O Inventário para a Preservação de bem ou coleção de bens móveis obedecerá ao seguinte procedimento:
@@ -195,7 +200,8 @@ Art. 26 - O proprietário de bem inventariado deverá notificar o IPAC de sua al
 
 Art. 27 - O desmembramento de peças individuais da coleção de bens móveis, sob qualquer forma, dependerá de autorização do CEC, sob pena de multa.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DO ESPAÇO PRESERVADO
 
 Art. 28 - O Espaço Preservado será aplicado a áreas de concentração de bens culturais, cuja preservação demande planejamento e ação integrada.
@@ -274,7 +280,8 @@ Art. 37 - Quaisquer outros planos regionais com incidência sobre o Espaço Pres
 
 Art. 38 - A qualidade ambiental nos Espaços Preservados será especialmente regulada, contando, para tanto, com o concurso dos órgãos federais, estaduais e municipais especializados.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DO REGISTRO ESPECIAL DO PATRIMÔNIO IMATERIAL
 
 Art. 39 - O Registro Especial será aplicado aos bens culturais de natureza imaterial, comumente designados como manifestações, passíveis de verificação no plano material.
@@ -293,7 +300,8 @@ Art. 41 - Os bens culturais protegidos pelo Registro Especial serão documentado
 
 Parágrafo único - O IPAC promoverá a ampla divulgação e promoção, sob a forma de publicações, exposições, vídeos, filmes, meios multimídia e outras formas de linguagem promocional pertinentes, das informações registradas, franqueando-as à pesquisa qualificada.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DOS SÍTIOS ARQUEOLÓGICOS
 
 Art. 42 - Os sítios arqueológicos localizados no Estado da Bahia estão sujeitos à proteção do IPAC, respeitadas as normas federais atinentes à questão.
@@ -302,7 +310,8 @@ Parágrafo único - Sítio arqueológico é o conjunto de objetos arqueológicos
 
 Art. 43 - O IPAC procederá ao mapeamento dos sítios arqueológicos da Bahia, cujo cadastro ficará sob os seus cuidados.
 
-CAPÍTULO VII -<br>
+CAPÍTULO VII -
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 44 - As multas previstas nos diversos artigos desta Lei deverão, observadas suas especificidades e gradações, ser fixadas no respectivo decreto regulamentador.
@@ -347,4 +356,4 @@ Paulo Renato Dantas Gaudenzi
 
 Secretário da Cultura e Turismo
 
-* * *
+ *

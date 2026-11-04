@@ -1,7 +1,3 @@
-1
-
-###DEL-000721-0-000-31-07-1969@@@
-
 DECRETO-LEI Nº 721, DE 31 DE JULHO DE 1969
 
 Cria no Ministério da Fazenda cargos de provimento em comissão.

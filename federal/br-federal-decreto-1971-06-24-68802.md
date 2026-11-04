@@ -1,5 +1,3 @@
-###DEC-068802-0-000-24-06-1971@@@
-
 DECRETO Nº 68.802 - DE 24 DE JUNHO DE 1971.
 
 Redistribui cargos para a Universidade Federal do Rio de Janeiro, e dá outras providências.

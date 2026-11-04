@@ -1,5 +1,3 @@
-###DEC-004787-0-000-21-07-2003@@@
-
 DECRETO Nº 4.787, DE 21 DE JULHO DE 2003.
 
 Dispõe sobre o remanejamento de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS, e dá outras providências.       
@@ -16,10 +14,12 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
         Brasília, 21 de julho de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
  
 
-Guido Mantega<br>
+Guido Mantega
+
 José Dirceu de Oliveira e Silva
 
 ANEXO I

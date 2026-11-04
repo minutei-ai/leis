@@ -1,5 +1,3 @@
-###DEC-074812-0-000-04-11-1974@@@
-
 DECRETO Nº 74.812, DE 4 DE NOVEMBRO DE 1974
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Arapuan Limitada, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de João Pessoa, Estado da Paraíba.

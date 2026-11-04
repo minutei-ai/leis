@@ -1,5 +1,3 @@
-###DEC-057551-0-000-29-12-1965@@@
-
 Decreto nº 57.551, de 29 de dezembro DE 1965.
 
 Autoriza a Companhia Paulista de Fôrça e Luz a construir linha de transmissão.
@@ -29,8 +27,6 @@ Brasília, 29 de dezembro de 1965; 144º da Independência e 77º da República.
 H. Castello Branco
 
 Mauro Thibau
-
-###DEC-057551-0-000-29-12-1965@@@RET01+++
 
 DECRETO Nº 57.551, DE 29 DE DEZEMBRO DE 1965.
 

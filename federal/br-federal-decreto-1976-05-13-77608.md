@@ -1,5 +1,3 @@
-###DEC-077608-0-000-13-05-1976@@@
-
 DECRETO Nº 77.608 - DE 13 DE MAIO DE 1976
 
 Outorga concessão, a Amazônia Mineração S.A. - AMZA, de construção, uso e gozo, sem ônus para União, de uma estrada de ferro, entre a Serra dos Carajás, no Estado do Pará, e a Baía de São Marcos, no Estado do Maranhão, nos termos das cláusulas de contrato a ser celebrado entre o Ministro dos Transportes e aquela empresa de mineração.

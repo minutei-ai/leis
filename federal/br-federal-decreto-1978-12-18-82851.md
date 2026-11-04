@@ -1,5 +1,3 @@
-###DEC-082851-0-000-18-12-1978@@@
-
 Decreto nº 82.851, de 18 de dezembro de 1978
 
 Concede autorização ao "NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION" para realizar, no mar territorial do Brasil, os serviços que especifica.

@@ -1,5 +1,3 @@
-###DEC-056540-0-000-05-07-1965@@@
-
 Decreto nº 56.540, de 5 de julho de 1965.
 
 Transfere do Município de Sacramento para Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica.

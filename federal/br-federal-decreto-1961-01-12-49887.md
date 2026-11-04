@@ -1,5 +1,3 @@
-###DEC-049887-0-000-12-01-1961@@@
-
 DECRETO Nº 49.887, DE 12 DE JANEIRO 1961.
 
 Autoriza o cidadão brasileiro Benedito Moreira Curimbaba a lavrar bauxita no município de Poços de Caldas, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-052748-0-000-24-10-1963@@@
-
 DECRETO Nº 52.748, de 24 de outubro de 1963.
 
 Institui do “Dia Nacional da Família”.

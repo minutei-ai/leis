@@ -1,5 +1,3 @@
-###DEL-000217-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 217, DE 28 DE FEVEREIRO DE 1967
 
 Abre ao Ministério das Relações Exteriores o crédito especial de NCr$700.000,00 destinado a atender despesas com a posse do Presidente da República, em 15 de março de 1967.

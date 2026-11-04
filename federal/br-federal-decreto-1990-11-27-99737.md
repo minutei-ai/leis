@@ -1,5 +1,3 @@
-###DEC-099737-0-000-27-11-1990@@@
-
 DECRETO N° 99.737, DE 27 DE NOVEMBRO DE 1990
 
 Dispõe sobre a revisão dos valores fixados nos artigos 16, 21, 22, 52 e 64 do Decreto-Lei n° 2.300, de 21 de novembro de 1986.

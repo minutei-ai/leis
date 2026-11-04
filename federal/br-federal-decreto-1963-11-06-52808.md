@@ -1,5 +1,3 @@
-###DEC-052808-0-000-06-11-1963@@@
-
 decreto nº 52.808, de 6 de novembro de 1963
 
 Dá a nova redação ao artigo 2º do Decreto nº 52.316, de 1º de agôsto de 1963.

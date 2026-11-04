@@ -1,5 +1,3 @@
-###DEC-058855-0-000-15-07-1966@@@
-
 DECRETO Nº 58.855, DE 15 DE JULHO DE 1966.
 
 Suspende o funcionamento da União Nacional dos Agentes Fiscais do Impôsto Aduaneiro.

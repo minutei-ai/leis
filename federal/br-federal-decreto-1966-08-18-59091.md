@@ -1,5 +1,3 @@
-###DEC-059091-0-000-18-08-1966@@@
-
 DECRETO N° 59.091, DE 18 DE AGôSTO DE 1966.
 
 Autoriza Sambra S.A Mármores Brasileiros, a pesquisar mármore e calcita, no município de Campos, Estado do Rio de Janeiro.

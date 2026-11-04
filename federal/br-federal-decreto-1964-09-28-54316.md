@@ -1,5 +1,3 @@
-###DEC-054316-0-000-28-09-1964@@@
-
 DECRETO Nº 54.316, DE 28 DE SETEMBRO DE 1964.
 
 Outorga à Emprêsa de Luz e Fôrça de Florianópolis S.A. concessão para distribuir energia elétrica no Município de Camboriú, Estado de Santa Catarina.
@@ -41,8 +39,6 @@ Brasília, 28 de setembro de 1964; 143º da Independência e 76º da República.
 H. CASTELLO BRANCO
 
 Mauro Thibau
-
-###DEC-054316-0-000-28-09-1964@@@RET01+++
 
 DECRETO Nº 54.316, DE 28 de SETEMBRO DE 1964.
 

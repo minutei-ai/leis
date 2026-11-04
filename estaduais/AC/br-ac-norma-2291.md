@@ -1,6 +1,10 @@
 > **LEI Nº 3.152, DE 29 DE JULHO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Assegura aos consumidores a possibilidade de solicitar cancelamento de serviço pelos mesmos meios mediante os quais foi solicitada a aquisição no âmbito estadual.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Assegura aos consumidores a possibilidade de solicitar cancelamento de serviço pelos mesmos meios mediante os quais foi solicitada a aquisição no âmbito estadual.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

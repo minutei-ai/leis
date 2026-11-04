@@ -1,7 +1,3 @@
-1
-
-###DEC-000824-0-000-21-05-1993@@@
-
 DECRETO Nº 824, DE 21 DE MAIO DE 1993
 
 Altera o art. 1º do Decreto nº 715, de 29 de dezembro de 1992, que delega aos Ministros de Estado do Trabalho e da Indústria, do Comércio e do Turismo competência para aprovar os orçamentos das entidades que menciona.

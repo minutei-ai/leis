@@ -1,5 +1,3 @@
-###DEC-050269-0-000-09-02-1961@@@
-
 DECRETO Nº 50.269, DE 9 DE FEVEREIRO DE 1961.
 
 Decreta luto oficial pelo falecimento do ex-Presidente da República, Deputado Carlos Coimbra da Luz, e dispõe sôbre homenagens e os seus funerais.

@@ -1,5 +1,3 @@
-###DEC-066418-0-000-06-04-1970@@@
-
 DECRETO Nº 66.418, DE 6 DE ABRIL DE 1970.
 
 Retifica o artigo 1º do Decreto número 36.809, de 25 de janeiro de 1955.

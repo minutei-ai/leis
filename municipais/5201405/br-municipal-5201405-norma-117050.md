@@ -38,7 +38,8 @@ Art. 3º - Os imóveis públicos discriminados nos ítens deste artigo são desa
 
 2\) Uma faixa de terras com 5(cinco) metros de largura e 90(noventa) metros de comprimento, a ser destacado da área da Av. Continental, frente aos lotes nºs. 01 a 07, da quadra n.º 23, do loteamento Goiânia Parque Sul.
 
-Parágrafo único – Fica afetada a área destinada ao mercado, como APM-Área Pública Municipal, localizada no loteameno Vila Alzira, neste município, com área de 2.384,00 metros quadrados, sendo de frente 52,00 metros com Avenida Mangueira;pelos fundos 60,00 com os lotes 02 e 01 da quadra 50; pela direita 40,00 metros com a Rua Mandioré, pela esquerda 40,00 metros com a Rua Maracaí, e pelos chanfrados 5,66 metros e 5,66 metros.<br>
+Parágrafo único – Fica afetada a área destinada ao mercado, como APM-Área Pública Municipal, localizada no loteameno Vila Alzira, neste município, com área de 2.384,00 metros quadrados, sendo de frente 52,00 metros com Avenida Mangueira;pelos fundos 60,00 com os lotes 02 e 01 da quadra 50; pela direita 40,00 metros com a Rua Mandioré, pela esquerda 40,00 metros com a Rua Maracaí, e pelos chanfrados 5,66 metros e 5,66 metros.
+
 (Redação acrescentada pela Lei Ordinária nº 3.156, de 7 de janeiro de 2014).
 
 Art. 4º Fica o Poder Executivo Municipal autorizado a doar os imóveis relacionados nos artigos 1º e 3º, desta Lei, para o Tribunal de Justiça do Estado de Goiás, exceto uma parte do lote 01, da quadra 72, do loteamento Jardim Boa Esperança, que será afetada de via pública para o alargamento da Rua C-35, com a finalidade de construção de dois edifícios, destinados a instalação de Fóruns Regionais.
@@ -49,8 +50,10 @@ Art. 6º - Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos dezoito dias do mês de março de dois mil e quatro.
 
-ADEMIR MENEZES<br>
+ADEMIR MENEZES
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO

@@ -1,5 +1,3 @@
-###DEL-008731-0-000-18-01-1946@@@
-
 DECRETO-LEI N. 8.731 – DE 18 DE JANEIRO DE 1946
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 1.025.000,00, para atender às despesas com o Prosseguimento dos trabalhos de aumento e melhoria do carvão nacional.

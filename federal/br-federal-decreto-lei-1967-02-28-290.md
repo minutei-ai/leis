@@ -1,5 +1,3 @@
-###DEL-000290-0-000-28-02-1967@@@
-
 DECRETO-LeI Nº 290, DE 28 DE FEVEREIRO DE 1967
 
 Regula a situação dos servidores das autarquias federais e dos empregados das sociedades de economia mista, aposentados na forma dos Atos Institucionais ns. 1 e 2.

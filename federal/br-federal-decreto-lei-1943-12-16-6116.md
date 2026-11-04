@@ -1,5 +1,3 @@
-###DEL-006116-0-000-16-12-1943@@@
-
 DECRETO‑LEI N. 6.116 – DE 16 DE DEZEMBRO DE 1943
 
 Dispõe sôbre o pagamento aos Institutos e Caixas de Aposentadoria e Pensões de contribuição prevista no vigente Orçamento Geral da República, e dá outras providências

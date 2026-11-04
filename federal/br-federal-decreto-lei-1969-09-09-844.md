@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/21fdc952-2cda-4ae9-bb64-fdcc60d5d71f/texto#nowhere)
 
-###DEL-000844-0-000-09-09-1969@@@
-
 DECRETO-LEI Nº 844, DE 9 DE sETEmBRo DE 1969
 
 Autoriza o Govêrno do Estado do Paraná a avalizar contrato de financiamento externo.

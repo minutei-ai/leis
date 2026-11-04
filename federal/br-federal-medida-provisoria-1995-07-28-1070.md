@@ -1,7 +1,3 @@
-1
-
-###MPV-001070-0-000-28-07-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.070, DE 28 DE JULHO DE 1995.
 
 Altera a Lei nº 8.031, de 12 de abril de 1990, e dá outras providências.

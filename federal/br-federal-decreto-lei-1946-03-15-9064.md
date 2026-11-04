@@ -1,5 +1,3 @@
-###DEL-009064-0-000-15-03-1946@@@
-
 DECRETO-LEI N. 9.064 – DE 15 DE MARÇO DE 1946
 
 Dispõe sôbre a vigência da aposentadoria de Augusto Duarte Pinto.

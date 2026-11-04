@@ -1,5 +1,3 @@
-###DEC-006311-0-000-19-12-2007@@@
-
 DECRETO Nº 6.311, DE 19 DE DEZEMBRO DE 2007.
 
 Fixa o percentual da subvenção econômica ao preço do óleo diesel consumido por embarcações pesqueiras nacionais, para o exercício fiscal do ano de 2008.
@@ -17,5 +15,3 @@ Brasília, 19 de dezembro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Dilma Rousseff
-
-Este texto não substitui o publicado no DOU de 20.12.2007

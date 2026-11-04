@@ -1,5 +1,3 @@
-###DEL-008234-0-000-27-11-1945@@@
-
 DECRETO-LEI N. 8.234 – DE 27 DE NOVEMBRO DE 1945
 
 Altera o Decreto-lei nº 6.795, de l7 de agôsto de 1944

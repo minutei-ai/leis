@@ -1,5 +1,3 @@
-###DEC-088528-0-000-18-07-1983@@@
-
 Decreto nº 88.528, de 18 de JULHo de 1983
 
 Outorga à Companhia de Saneamento Básico do Estado de São Paulo - SBESP concessão para captação de água do rio Ribeira de Iguape, para abastecimento público, no Estado de São Paulo.

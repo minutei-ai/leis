@@ -1,5 +1,3 @@
-###DEC-073589-0-000-30-01-1974@@@
-
 DECRETO Nº 73.589, DE 30 DE JANEIRO DE 1974.
 
 Torna sem efeito cassação de disponibilidade de servidor do Instituto Nacional da Previdência Social.

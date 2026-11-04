@@ -1,5 +1,3 @@
-###DEC-078554-0-000-11-10-1976@@@
-
 DECRETO Nº 78.554, de 11 de outubro de 1976
 
 Concede reconhecimentos aos cursos de Engenharia Química, de Engenharia Civil, de Farmácia-Bioquímica, e de Química, da Fundação Universidade de Maringá, com sede na cidade de Maringá, Estado do Paraná.

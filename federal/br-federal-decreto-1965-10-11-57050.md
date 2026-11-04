@@ -1,5 +1,3 @@
-###DEC-057050-0-000-11-10-1965@@@
-
 Decreto nº 57.050, de 11 de outubro de 1965.
 
 Dá nova redação aos diversos artigos do Regulamento da Lei número 4.216, de 6 de maio de 1963, aprovado pelo Decreto nº 52.149, de 25 de junho de 1963.

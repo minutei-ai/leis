@@ -1,5 +1,3 @@
-###DEC-066460-0-000-20-04-1970@@@
-
 DECRETO Nº 66.460, DE 20 DE ABRIL DE 1970.
 
 Prorroga o prazo para execução dos serviços concernentes aos registros públicos, regulados pelo Decreto-lei nº 1.000, de 21 de outubro de 1969.

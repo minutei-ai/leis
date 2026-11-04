@@ -1,5 +1,3 @@
-###DEC-084050-0-000-03-10-1979@@@
-
 Decreto nº 84.050, de 03 de outubro de 1979.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias, que menciona.

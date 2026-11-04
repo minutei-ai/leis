@@ -1,7 +1,3 @@
-1
-
-###DEC-001690-0-000-07-11-1995@@@
-
 DECRETO Nº 1.690, DE 7 DE NOVEMBRO DE 1995
 
 Promulga o Acordo sobre Serviços Aéreos, entre o Governo da República Federativa do Brasil e o Governo da Federação da Rússia, de 22 de janeiro de 1993.
@@ -162,7 +158,8 @@ Isenção de Direitos e Taxas
 
 a) introduzidos no território de uma Parte Contratante por ou em nome da(s) empresa(s) aérea(s) designada(s) da outra Parte Contratante;
 
-b) mantidos a bordo das aeronaves da(s) empresa(s) aérea(s) designada(s) de uma Parte Contratante, desde a chegada até a saída dôo território da outra Parte<br>
+b) mantidos a bordo das aeronaves da(s) empresa(s) aérea(s) designada(s) de uma Parte Contratante, desde a chegada até a saída dôo território da outra Parte
+
 Contratante;
 
 c) introduzidos a bordo das aeronaves da(s) empresa(s) aérea(s) designada(s) de uma parte Contratante  poderá ser desembarcado no território da outra Parte Contratante e destinados ao uso na operação dos serviços acordados; sejam ou não tais itens usados ou consumidos totalmente dentro do território da Parte Contratante que concedeu a isenção, desde que os mesmos não sejam alienados e/ou vendidos no território da referida Parte Contratante.

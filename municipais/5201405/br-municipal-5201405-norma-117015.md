@@ -4,7 +4,8 @@ ESTIMA A RECEITA E FIXA A DESPESA DO MUNICÍPIO DE APARECIDA DE GOIÂNIA – GO,
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL APROVOU E EU, PREFEITO MUNICIPAL SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1° - Esta Lei estima a receita e fixa a despesa do Município de Aparecida de Goiânia – Goiás, para o exercício financeiro de 2016, nos Termos do art. 165 §5º da Constituição e do art. 6º da Lei de Diretrizes Orçamentárias para 2016 no montante de R$ 1.030.103.454,00 (Hum bilhão, trinta milhões, cento e três mil quatrocentos e cinquenta e quatro reais), compreendendo:
@@ -13,17 +14,20 @@ I - O Orçamento Fiscal referente aos Poderes do Município, Órgãos, Fundos in
 
 II - O Orçamento da Seguridade Social, abrangendo todos os Órgãos a eles vinculados, Fundos instituídos e mantidos pelo Poder Público Municipal e Entidades da Administração Direta e Indireta.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL
 
-Seção I<br>
+Seção I
+
 DA ESTIMATIVA DA RECEITA
 
 Art. 2° – A Receita Total foi estimada em valores iguais a R$ 1.030.103.454,00 (Hum bilhão, trinta milhões, cento e três mil quatrocentos e cinquenta e quatro reais), a preços correntes e conforme a legislação vigente, sendo:
 
 Art. 3° - A Receita será arrecadada nos termos da legislação vigente e das especificações dos quadros integrantes desta Lei, observado os desdobramentos decorrentes da arrecadação de tributos, contribuições e de outras receitas correntes e de capital, previstas na legislação vigente, que são discriminados por categoria econômica e fonte de recursos.
 
-Seção II<br>
+Seção II
+
 DA FIXAÇÃO DA DESPESA
 
 Art. 4º - A Despesa Total está fixada em R$ 1.030.103.454,00 (Hum bilhão, trinta milhões, cento e três mil quatrocentos e cinquenta e quatro reais), distribuída da seguinte forma:
@@ -32,7 +36,8 @@ I. No Orçamento Fiscal, em R$ 611.520.129,00 (seiscentos e onze milhões, quinh
 
 II. Orçamento da Seguridade Social, em R$ 418.583.325,00 (quatrocentos e dezoito milhões, quinhentos e oitenta e três mil, trezentos e vinte cinco reais) correspondente a 41% (quarenta e um por cento) do valor da Despesa Total. (art. 194 da CF/88)
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA AUTORIZAÇÃO PARA ABERTURA DE CRÉDITOS ADICIONAIS
 
 Art. 5º – Fica o Poder Executivo autorizado a abrir créditos adicionais suplementares até o limite estabelecido no art.19 da Lei Municipal 3.269 de 02 de julho de 2015 que trata das Diretrizes Orçamentárias, observado o parágrafo único do art. 8º da Lei 101/2000.
@@ -47,12 +52,14 @@ III - os recursos resultantes de anulação parcial ou total de dotações orça
 
 IV - reserva de contingência, observado o art.5º inciso III da LRF;
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS OPERAÇÕES DE CRÉDITO
 
 Art. 7º – Poderá o Poder Executivo, realizar operações de créditos por antecipação de receita, com a finalidade de manter o equilíbrio orçamentário financeiro do Município observado as condições estabelecidas no Art. 7º, II da Lei 4.320/64, e artigo 38, da Lei Complementar nº 101, de 04 de maio de 2000, e os preceitos legais aplicáveis à matéria.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DAS DISPOSIÇÕES FINAIS
 
 Art.8º – O chefe do Poder Executivo, nos termos da Lei de Diretrizes Orçamentárias adotará parâmetros para utilização dos recursos orçamentários de forma a compatibilizar as despesas à efetiva realização das receitas, visando o cumprimento das metas de resultado primário.
@@ -101,11 +108,14 @@ Art.10. Esta Lei entrará em vigor no exercício financeiro de partir de sua pub
 
 Gabinete do Prefeito Municipal de Aparecida Goiânia, Estado de Goiás, aos 09 dias do mês de dezembro do ano de 2015.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Secretário Municipal de Planejamento

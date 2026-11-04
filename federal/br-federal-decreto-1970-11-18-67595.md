@@ -1,5 +1,3 @@
-###DEC-067595-0-000-18-11-1970@@@
-
 DECRETO Nº 67.595, DE 18 DE NOVEMBRO DE 1970.
 
 Declara de utilidade pública a sociedade de Misericórdia de Rinópolis, com sede em Rinópolis, Estado de São Paulo.

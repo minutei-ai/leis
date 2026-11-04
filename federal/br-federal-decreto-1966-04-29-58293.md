@@ -1,5 +1,3 @@
-###DEC-058293-0-000-29-04-1966@@@
-
 decreto nº 58.293, de 29 de abril de 1966.
 
 Declara de utilidade pública, para fim de desapropriação, o imóvel que menciona, necessário ao Ministério da Guerra.

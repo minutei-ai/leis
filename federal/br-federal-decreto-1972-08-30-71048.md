@@ -1,5 +1,3 @@
-###DEC-071048-0-000-30-08-1972@@@
-
 DECRETO Nº 71.048, DE 30 DE AGOSTO DE 1972.
 
 Concede permissão, em caráter permanente, à empresa S. A. Indústrias Reunidas F. Matarazzo, para funcionar aos domingos e nos dias feriados civis e religiosos.

@@ -1,5 +1,3 @@
-###DEL-009543-0-000-02-08-1946@@@
-
 DECRETO-LEI N. 9.543 – DE 2 DE AGÔSTO DE 1946
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 4.380,00, para o fim que especifica.

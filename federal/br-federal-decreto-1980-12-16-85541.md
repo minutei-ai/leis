@@ -1,5 +1,3 @@
-###DEC-085541-0-000-16-12-1980@@@
-
 DECRETO Nº 85.541, DE 16 DE DEZEMBRO DE 1980.
 
 Extingue a 4ª Divisão de Cavalaria e seu respectivo Quartel-General no Ministério do Exército.

@@ -1,5 +1,3 @@
-###DEC-070542-0-000-16-05-1972@@@
-
 Decreto nº 70.542, de 16 de maio de 1972.
 
 Declara extinto o cargo que menciona e dá outras providências.

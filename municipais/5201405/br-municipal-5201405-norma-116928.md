@@ -1,4 +1,5 @@
-LEI COMPLEMENTAR Nº 110 DE 01 DE DEZEMBRO DE 2015.<br>
+LEI COMPLEMENTAR Nº 110 DE 01 DE DEZEMBRO DE 2015.
+
 (Declarada Inconstitucional na ADI Nº 449505-44.2015.8.09.0000)
 
 ~~Determina o novo perímetro de Área de Preservação Ambiental e Parque Municipal Serra das Areias, deste Município e adota outras providências.~~
@@ -23,5 +24,6 @@ LEI COMPLEMENTAR Nº 110 DE 01 DE DEZEMBRO DE 2015.<br>
 
 ~~Gabinete do Presidente da Câmara Municipal de Aparecida Goiânia, ao 1º dia do mês de dezembro do ano de 2015.~~
 
-~~GUSTAVO MENDANHA MELLO<br>
+~~GUSTAVO MENDANHA MELLO
+
 PRESIDENTE~~

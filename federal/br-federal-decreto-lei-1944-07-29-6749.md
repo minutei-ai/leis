@@ -1,5 +1,3 @@
-###DEL-006749-0-000-29-07-1944@@@
-
 DECRETO-LEI N. 6.749 – DE 29 DE JULHO DE 1944
 
 Dispõe sôbre o planejamento e a autorização de obras e equipamentos, relativos a edifícios públicos a cargo dos ministérios civis e do Departamento Administrativo do Serviço Público, e dá outras providências

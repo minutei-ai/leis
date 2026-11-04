@@ -1,5 +1,3 @@
-###DEC-006485-0-000-17-06-2008@@@
-
 DECRETO Nº 6.485, DE 17 DE JUNHO DE 2008.
 
 Regulamenta o parágrafo único do art. 22 da Medida Provisória no 427, de 9 de maio de 2008, dispõe sobre a coordenação e a supervisão dos procedimentos administrativos relativos à inventariança da extinta Empresa Brasileira de Planejamento de Transportes - GEIPOT, e dá outras providências.
@@ -103,5 +101,3 @@ Guido Mantega
 Alfredo Nascimento
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 17.6.2008

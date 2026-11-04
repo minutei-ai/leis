@@ -1,5 +1,3 @@
-###DEC-055959-0-000-20-04-1965@@@
-
 DECRETO Nº 55.959, DE 20 DE ABRIL DE 1965.
 
 Inclui função gratificada na Parte Permanente, do Quadro de Pessoal do Ministério da Saúde.

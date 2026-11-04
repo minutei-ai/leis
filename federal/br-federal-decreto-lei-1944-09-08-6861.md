@@ -1,5 +1,3 @@
-###DEL-006861-0-000-08-09-1944@@@
-
 DECRETO-LEI N. 6.861 – DE 8 DE SETEMBRO DE 1944
 
 Abre crédito suplementar ao Ministério da Fazenda

@@ -1,5 +1,3 @@
-###DEL-008405-0-000-20-12-1945@@@
-
 DECRETO-LEI N. 8.405 – DE 20 DE DEZEMBRO DE 1945
 
 Altera a carreira de Guarda–Civil do Ministério da Justiça e Negócios Interiores.

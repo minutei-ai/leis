@@ -1,5 +1,3 @@
-###DEL-003726-0-000-17-10-1941@@@
-
 DECRETO-LEI N. 3.726 – DE 17 DE OUTUBRO DE 1941
 
 Cria o Comando Naval do Amazonas

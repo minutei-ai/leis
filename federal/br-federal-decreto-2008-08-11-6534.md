@@ -1,5 +1,3 @@
-###DEC-006534-0-000-11-08-2008@@@
-
 DECRETO Nº 6.534, DE 11 DE AGOSTO DE 2008.
 
 Inclui a localidade que menciona na Tabela de Fatores de Conversão de Índices de Representação no Exterior, a que se refere o Anexo II do Decreto n~~º~~ 71.733, de 18 de janeiro de 1973, que regulamenta a Lei n~~º~~ 5.809, de 10 de outubro de 1972, que dispõe sobre a retribuição e direitos do pessoal civil e militar em serviço da União no exterior.

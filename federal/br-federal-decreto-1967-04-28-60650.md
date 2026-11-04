@@ -1,5 +1,3 @@
-###DEC-060650-0-000-28-04-1967@@@
-
 DECRETO Nº 60.650, DE 28 DE ABRIL DE 1967.
 
 Dispõe sôbre a concessão de autorização para o funcionamento das emprêsas de navegação de cabotagem marítima, fluvial e lacustre, e fixa normas para a cassação de linhas de navegação.

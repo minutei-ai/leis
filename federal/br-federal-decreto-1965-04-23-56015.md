@@ -1,5 +1,3 @@
-###DEC-056015-0-000-23-04-1965@@@
-
 DECRETO Nº 56.015, DE 23 DE ABRIL DE 1965.
 
 Institui Comissão Interministerial para estudar e propor a reformulação do sistema de prevenção e repressão às infrações contra a Fazenda Nacional.

@@ -1,5 +1,3 @@
-###DEC-059661-0-000-05-12-1966@@@
-
 Decreto nº 59.661, de 5 de dezembro de 1966.
 
 Estabelece as normas reguladoras do processo de restituição de bens a súditos do Eixo.

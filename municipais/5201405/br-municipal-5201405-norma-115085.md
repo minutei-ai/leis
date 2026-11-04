@@ -24,5 +24,6 @@ Art. 7° Esta Lei entrará em vigor na data da sua publicação.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 24 de Abril de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal

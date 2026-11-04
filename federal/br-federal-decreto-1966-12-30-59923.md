@@ -1,5 +1,3 @@
-###DEC-059923-0-000-30-12-1966@@@,
-
 decreto nº 59.923, de 30 de dezembro de 1966.
 
 Declara de utilidade pública, para fins de desapropriação, imóvel necessário à expansão do parque industrial da Campanha Nacional de Material de Ensino, do Ministério da Educação e Cultura, na cidade do Rio de Janeiro, Estado da Guanabara.

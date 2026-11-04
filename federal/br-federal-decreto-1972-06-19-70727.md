@@ -1,5 +1,3 @@
-###DEC-070727-0-000-19-06-1972@@@
-
 DECRETO Nº 70.727, DE 19 DE JUNHO DE 1972.
 
 Concede reconhecimento ao Curso de Administração da Faculdade de Ciências Econômicas da Universidade Católica do Paraná.

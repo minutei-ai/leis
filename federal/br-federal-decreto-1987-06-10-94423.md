@@ -1,5 +1,3 @@
-###DEC-094423-0-000-10-06-1987@@@
-
 DECRETO Nº 94.423, DE 10 DE JUNHO DE 1987
 
 Autoriza o THE FIRST NATIONAL BANK OF BOSTON a instalar mais duas filiais no Brasil.

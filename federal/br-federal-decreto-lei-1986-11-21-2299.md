@@ -1,5 +1,3 @@
-###DEL-002299-0-000-21-11-1986@@@
-
 # DECRETO-LEI Nº 2.299, DE 21 DE NOVEMBRO DE 1986
 
 Altera o Decreto-lei nº 200, de 25 de fevereiro de 1967, e dá outras providências.
@@ -37,8 +35,6 @@ Dilson Domingos Funaro
 João Sayad
 
 Aluizio Alves
-
-###DEL-002299-0-000-21-11-1986@@@RET01+++
 
 # decreto-lei nº 2.299, de 21 de novembro de 1986
 

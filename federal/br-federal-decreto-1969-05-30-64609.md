@@ -1,5 +1,3 @@
-###DEC-064609-0-000-30-05-1969@@@
-
 DECRETO Nº 64.609, DE 30 DE MAIO DE 1969.
 
 Declara de utilidade pública a Santa Casa de Paranavaí, com sede em Paranavaí, Estado do Paraná.

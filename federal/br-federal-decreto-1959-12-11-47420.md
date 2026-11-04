@@ -1,5 +1,3 @@
-###DEC-047420-0-000-11-12-1959@@@
-
 DECRETO Nº 47.420, DE 11 DE DEZEMBRO DE 1959.
 
 Declara de utilidade pública, para fins de desapropriação em favor da Petróleo Brasileiro S.A. - Petrobrás - em caráter de urgência, áreas de terra necessárias às obras de Construção da Refinaria Duque de Caxias e Fábrica de Borracha Sintética.

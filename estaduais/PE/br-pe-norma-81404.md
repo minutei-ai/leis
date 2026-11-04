@@ -38,34 +38,23 @@ Art. 4º O art. 2º da [Lei nº 13.299, de 21 de setembro de 2007](https://legis
 
 “Art. 2º Cria o Grupo Temporário de Trabalho para atuar no período de 1º de julho a 31 de dezembro junto à Comissão de Finanças, Orçamento e Tributação, na preparação e análise do Projeto de Lei Orçamentária Anual, do Projeto de Lei de Diretrizes Orçamentárias, do Projeto de Lei do Plano Plurianual e das Emendas Parlamentares Impositivas, com a seguinte composição:
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin-left:42.55pt;border-collapse:collapse;border:none"><tbody><tr><td width="547" valign="top" style="width:410.5pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:42.45pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Coordenador Geral 01 PL CD</span></p></td></tr><tr><td width="547" valign="top" style="width:410.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:42.45pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Coordenador Adjunto 01 PL CD</span></p></td></tr><tr><td width="547" valign="top" style="width:410.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:42.45pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Coordenador Técnico 01 PL CD</span></p></td></tr><tr><td width="547" valign="top" style="width:410.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:42.45pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Coordenador Técnico Adjunto 03 PL CD</span></p></td></tr><tr><td width="547" valign="top" style="width:410.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:42.45pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Analista Técnico 03 PL CD</span></p></td></tr><tr><td width="547" valign="top" style="width:410.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:42.45pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Secretário Geral 01 PL TEC</span></p></td></tr><tr><td width="547" valign="top" style="width:410.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:42.45pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Apoio de Informática 02 PL TEC</span></p></td></tr><tr><td width="547" valign="top" style="width:410.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:42.45pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Apoio Legislativo 03 PL TEC</span></p></td></tr><tr><td width="547" valign="top" style="width:410.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:42.45pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Apoio Publicação 01 PL TEC (NR)</span></p></td></tr></tbody></table>
+Coordenador Geral 01 PL CD
+
+Coordenador Adjunto 01 PL CD
+
+Coordenador Técnico 01 PL CD
+
+Coordenador Técnico Adjunto 03 PL CD
+
+Analista Técnico 03 PL CD
+
+Secretário Geral 01 PL TEC
+
+Apoio de Informática 02 PL TEC
+
+Apoio Legislativo 03 PL TEC
+
+Apoio Publicação 01 PL TEC (NR)
 
 § 1º As funções com o símbolo PL-CD terão remuneração correspondente à gratificação PL-FGE-1 e as funções com símbolo PL-TEC terão remuneração correspondente à gratificação PL-EXP. (NR)
 

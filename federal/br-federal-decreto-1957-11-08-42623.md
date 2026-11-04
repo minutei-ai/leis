@@ -1,40 +1,38 @@
-###DEC-042623-0-000-08-11-1957@@@
+**DECRETO Nº 42.623, DE 8 DE NOVEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.623, DE 8 DE NOVEMBRO DE 1957.</strong>
+***Aprova o Regulamento das Secretarias do Ministério Público da União junto a Justiça do Trabalho.***
 
-<em><strong>Aprova o Regulamento das Secretarias do Ministério Público da União junto a Justiça do Trabalho.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição e tendo em vista o disposto no art. 13 da Lei nº 3.242, de 13 de agôsto de 1957,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição e tendo em vista o disposto no art. 13 da Lei nº 3.242, de 13 de agôsto de 1957,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento das Secretarias do Ministério Público da União junto à Justiça do Trabalho, que com êste baixa assinado pelo Ministro do Trabalho Industria e Comércio.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento das Secretarias do Ministério Público da União junto à Justiça do Trabalho, que com êste baixa assinado pelo Ministro do Trabalho Industria e Comércio.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 8 de novembro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Persival Barroso
 
-<strong>REGULAMENTO DAS SECRETARIAS DO MINISTÉRIO PÚBLICO DA UNIÃO JUNTO A JUSTIÇA DO TRABALHO</strong>
+**REGULAMENTO DAS SECRETARIAS DO MINISTÉRIO PÚBLICO DA UNIÃO JUNTO A JUSTIÇA DO TRABALHO**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º As Secretarias da Procuradoria Geral da Justiça do Trabalho e da Procuradorias Regionais criadas pela Lei nº 3.242 de 13 de agôsto de 1957 tem por fim a centralização e execução de todos os serviços administrativos pertinentes ao Ministério Público da União junto a Justiça do Trabalho.
+**Art**. 1º As Secretarias da Procuradoria Geral da Justiça do Trabalho e da Procuradorias Regionais criadas pela Lei nº 3.242 de 13 de agôsto de 1957 tem por fim a centralização e execução de todos os serviços administrativos pertinentes ao Ministério Público da União junto a Justiça do Trabalho.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA SECRETARIA DA PROCURADORIA GERAL DA JUSTIÇA DO TRABALHO</em>
+*DA SECRETARIA DA PROCURADORIA GERAL DA JUSTIÇA DO TRABALHO*
 
-<strong>Art</strong>. 2º A Secretaria da Procuradoria Geral da Justiça do Trabalho compreende:
+**Art**. 2º A Secretaria da Procuradoria Geral da Justiça do Trabalho compreende:
 
 1\) Seção de Dissídios (D)
 
@@ -46,15 +44,15 @@ Persival Barroso
 
 5\) Portaria
 
-<strong>Art</strong>. 3º A Secretaria será dirigida por um Secretário designado pelo Procurador-Geral de preferência escolhido dentre os funcionários do respectivo quadro.
+**Art**. 3º A Secretaria será dirigida por um Secretário designado pelo Procurador-Geral de preferência escolhido dentre os funcionários do respectivo quadro.
 
-<strong>Art</strong>. 4º O Secretário terá um Auxiliar por êle indicado designado pelo Procurador-Geral da Justiça do Trabalho.
+**Art**. 4º O Secretário terá um Auxiliar por êle indicado designado pelo Procurador-Geral da Justiça do Trabalho.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DAS SECRETARIAS DAS PROCURADORIAS REGIONAIS</em>
+*DAS SECRETARIAS DAS PROCURADORIAS REGIONAIS*
 
-<strong>Art</strong>. 5º As Secretarias das Procuradorias Regionais compreendem:
+**Art**. 5º As Secretarias das Procuradorias Regionais compreendem:
 
 1\) Turma de Dissidios (I. D)
 
@@ -64,19 +62,19 @@ Persival Barroso
 
 Parágrafo único. Na 1ª Região, os executivos Fiscais ficarão a cargo da Procuradoria Geral da Justiça do Trabalho (Lei nº 3.242 art. 1º nº III).
 
-<strong>Art</strong>. 6º As Secretarias das Procuradorias Regionais serão dirigidas por um Secretário designado pelo Procurador-Geral da Justiça do Trabalho.
+**Art**. 6º As Secretarias das Procuradorias Regionais serão dirigidas por um Secretário designado pelo Procurador-Geral da Justiça do Trabalho.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA SECRETARIA DA PROCURADORIA GERAL</em>
+*DA SECRETARIA DA PROCURADORIA GERAL*
 
-<strong>Art</strong>. 7º Compete a Secretaria da Procuradoria Geral da Justiça do Trabalho a centralização, coordenação e execução de todos os serviços administrativos nestes compreendidos também os relativos a dissídios de trabalhos, executivos fiscais e assuntos de previdência social da competência da Procuradoria Geral.
+**Art**. 7º Compete a Secretaria da Procuradoria Geral da Justiça do Trabalho a centralização, coordenação e execução de todos os serviços administrativos nestes compreendidos também os relativos a dissídios de trabalhos, executivos fiscais e assuntos de previdência social da competência da Procuradoria Geral.
 
-<strong>Art</strong>. 8º As Seções de Dissídios (S.D.) e Previdência Social (S.P.S.) incumbe:
+**Art**. 8º As Seções de Dissídios (S.D.) e Previdência Social (S.P.S.) incumbe:
 
 a) preparar os processos que devam ser distribuídos aos Procuradores;
 
@@ -94,7 +92,7 @@ g) expedir as certidões que forem requeridas e que digam respeito a assunto da 
 
 h) elaborar o expediente que deva ser assinado pelo Procurador-Geral e Secretário relativo a assuntos da respectiva seção;
 
-<strong>Art</strong>. 9º A Seção de Executivos Fiscais (S.E.F) incumbe:
+**Art**. 9º A Seção de Executivos Fiscais (S.E.F) incumbe:
 
 a) preparar os processos de executivos fiscais encaminhando-os ao Procurador designado para funcionar nos mesmos;
 
@@ -112,7 +110,7 @@ g) acompanhar diretamente ou por servidor especialmente designado, o andamento d
 
 h) expedir as certidões que forem assunto da Seção.
 
-<strong>Art</strong>. 10 À Seção de Administração (S.A), que tem por fim prestar os serviços de administração geral que se fizerem necessárias à execução dos trabalhos do Ministério Público da União junto à Justiça do Trabalho, incumbe:
+**Art**. 10 À Seção de Administração (S.A), que tem por fim prestar os serviços de administração geral que se fizerem necessárias à execução dos trabalhos do Ministério Público da União junto à Justiça do Trabalho, incumbe:
 
 a) receber, registrar, distribuir, numerar, expedir e guardar a correspondência oficial e papéis relativos às atividades da Procuradoria-Geral da Justiçã do Trabalho;
 
@@ -152,7 +150,7 @@ s) preparar a proposta orçamentária, elaborar as tabelas de distribuição de 
 
 t) manter constante articulação com o Departamento de Administração do Ministério do Trabalho, Indústria e Comércio, para solução dos problemas relativos a pessoal, material e orçamento.
 
-<strong>Art</strong>. 11. À Portaria incumbe:
+**Art**. 11. À Portaria incumbe:
 
 a) prestar informações ao público sôbre a localização e funcionamento dos órgãos da Procuradoria Geral da Justiça do Trabalho, bem como sôbre o local em que trabalham seus servidores;
 
@@ -168,17 +166,17 @@ f) exercer vigilância permanente nos lugares de entrada e saída especialmente 
 
 g) executar outros serviços correlatos com suas atividades, que lhe forem atribuídos pelo Procurador-Geral ou pelo Secretário.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DAS SECRETARIAS DAS PROCURADORIAS-REGIONAIS</em>
+*DAS SECRETARIAS DAS PROCURADORIAS-REGIONAIS*
 
-<strong>Art</strong>. 12. Às Secretarias das Procuradorias-Regionais competem as mesmas atribuições da Secretaria da Procuradoria-Geral, no que lhes fôr aplicável.
+**Art**. 12. Às Secretarias das Procuradorias-Regionais competem as mesmas atribuições da Secretaria da Procuradoria-Geral, no que lhes fôr aplicável.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DOS FUNCIONÁRIOS E EXTRANUMERÁRIOS</em>
+*DAS ATRIBUIÇÕES DOS FUNCIONÁRIOS E EXTRANUMERÁRIOS*
 
-<strong>Art</strong>. 13. Ao Secretário da Procuradoria-Geral incumbe:
+**Art**. 13. Ao Secretário da Procuradoria-Geral incumbe:
 
 a) despachar com o Prucurador-Geral a matéria administrativa;
 
@@ -220,9 +218,9 @@ t) propor ao Procurador-Geral quaisquer medidas, consideradas necessárias ao ap
 
 u) assinar certidões que forem requisitadas.
 
-<strong>Art</strong>. 14. Aos Secretários das Procuradorias-Regionais incumbem as mesmas atribuições do Secretário da Procuradoria-Geral no que lhes fôr aplicável.
+**Art**. 14. Aos Secretários das Procuradorias-Regionais incumbem as mesmas atribuições do Secretário da Procuradoria-Geral no que lhes fôr aplicável.
 
-<strong>Art</strong>. 15. Aos chefes de seção incumbe:
+**Art**. 15. Aos chefes de seção incumbe:
 
 a) dirigir e fiscalizar os trabalho da seção, sob sua responsabilidade;
 
@@ -238,7 +236,7 @@ f) submeter ao Secretário, por intermédio da Seção de Administração, a esc
 
 g) despachar pessoalmente com o Secretário.
 
-<strong>Art</strong>. 16. Aos Assistentes incumbe:
+**Art**. 16. Aos Assistentes incumbe:
 
 a) atender às pessoas que desejarem comunicar-se com o Procurador-Geral, encaminhado-as ou dando a êste conhecimento do assunto a tratar;
 
@@ -250,7 +248,7 @@ d) coordenar ou executar as tarefas específicas de que forem encarregados;
 
 e) executar os encargos que lhes forem determinados pelo Procurador-Geral.
 
-<strong>Art</strong>. 17. Ao Chefe da Portaria competem atribuições análogas às fixadas no art. 15 e mais:
+**Art**. 17. Ao Chefe da Portaria competem atribuições análogas às fixadas no art. 15 e mais:
 
 a) determinar os plantões e escalas de serviço e fiscalizar pessoalmente a execução dos trabalhos a cargo do pessoal que lhe fôr subordinado;
 
@@ -258,23 +256,23 @@ b) atender com presteza aos pedidos e reclamações dos órgãos da Procuradoria
 
 c) fiscalizar o uso do uniforme dos contínuos, serventes e mensageiros.
 
-<strong>Art</strong>. 18. Aos Encarregados de Turmas das Secretarias das Procuradorias-Regionais incumbem as mesmas atribuições dos chefes de Seção, no que lhes fôr aplicável.
+**Art**. 18. Aos Encarregados de Turmas das Secretarias das Procuradorias-Regionais incumbem as mesmas atribuições dos chefes de Seção, no que lhes fôr aplicável.
 
-<strong>Art</strong>. 19 Aos funcionários em geral, em exercício nas Secretarias incumbe executar os trabalhos que lhes forem determinados pelo chefe imediato.
+**Art**. 19 Aos funcionários em geral, em exercício nas Secretarias incumbe executar os trabalhos que lhes forem determinados pelo chefe imediato.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 20. O horário normal de trabalho será fixado pelo Procurador Geral, respeitando o número de horas semanais.
+**Art**. 20. O horário normal de trabalho será fixado pelo Procurador Geral, respeitando o número de horas semanais.
 
-<strong>Art</strong>. 21. O Secretário da Procuradoria-Geral da Justiça do Trabalho, bem como os das Procuradorias-Regionais não ficam sujeitos a ponto, devendo, porém, observar o horário fixado na legislação vigente.
+**Art**. 21. O Secretário da Procuradoria-Geral da Justiça do Trabalho, bem como os das Procuradorias-Regionais não ficam sujeitos a ponto, devendo, porém, observar o horário fixado na legislação vigente.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 22. Serão substituídos, automaticamente, em suas faltas e impedimentos, eventuais, até 30 dias por designação do Procurador-Geral:
+**Art**. 22. Serão substituídos, automaticamente, em suas faltas e impedimentos, eventuais, até 30 dias por designação do Procurador-Geral:
 
 I) o Secretário da Procuradoria-Geral por um dos Chefes de Seção por êle indicado;
 
@@ -284,11 +282,11 @@ III) os Chefes de Seção e o Chefe da Portaria por um funcionário indicado pel
 
 Parágrafo único. Haverá, sempre, funcionários previamente designados para as substituições de que trata êste artigo.
 
-<strong>TÍTULO VII</strong>
+**TÍTULO VII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 23. Além das atribuições previstas na legislação vigente e das que decorrem do exercício do cargo, ao Procurador-Geral da Justiça do Trabalho incumbe ainda:
+**Art**. 23. Além das atribuições previstas na legislação vigente e das que decorrem do exercício do cargo, ao Procurador-Geral da Justiça do Trabalho incumbe ainda:
 
 I) aprovar por portaria, a lotação dos funcionários do Quadro do Pessoal das Secretárias do Ministério Público da União junto à Justiça do Trabalho, de acôrdo com as necessidades do Serviço;
 
@@ -310,14 +308,14 @@ IX) requisitar servidores, na forma da legislação em vigor;
 
 X) delegar poderes aos Prucuradores-Regionais e ao Secretário da Procuradoria-Geral, quando o interêsse do serviço o exigir.
 
-<strong>Art</strong>. 24. Os órgãos integrantes das Secretarias do Ministério Público da União junto à Justiça do Trabalho funcionário perfeitamente articulados, em regime de mútua colaboração, sob a orientação dos respectivos Secretários.
+**Art**. 24. Os órgãos integrantes das Secretarias do Ministério Público da União junto à Justiça do Trabalho funcionário perfeitamente articulados, em regime de mútua colaboração, sob a orientação dos respectivos Secretários.
 
-<strong>TÍTULO VIII</strong>
+**TÍTULO VIII**
 
-<em>DISPOSIÇÕES TRANSITÓRIAS</em>
+*DISPOSIÇÕES TRANSITÓRIAS*
 
-<strong>Art</strong>. 1º Enquanto não fôr preenchido integralmente o Quadro de Pessoal das Secretárias, continuação servindo nas mesmas os servidores que se encontravam em exercício na data da publicação da Lei nº 3.242, de 13 de agôsto de 1957.
+**Art**. 1º Enquanto não fôr preenchido integralmente o Quadro de Pessoal das Secretárias, continuação servindo nas mesmas os servidores que se encontravam em exercício na data da publicação da Lei nº 3.242, de 13 de agôsto de 1957.
 
 Rio de janeiro, 8 de novembro de 1957.
 
-<strong>PARSIFAL BARROSO</strong>
+**PARSIFAL BARROSO**

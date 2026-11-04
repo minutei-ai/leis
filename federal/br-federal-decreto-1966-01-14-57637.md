@@ -1,5 +1,3 @@
-###DEC-057637-0-000-14-01-1966@@@
-
 decreto nº 57.637, de 14 de janeiro de 1966.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de um terreno em Goiânia - GO, destinado ao Ministério da Guerra.

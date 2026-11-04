@@ -1,5 +1,3 @@
-###DEC-054558-0-000-23-10-1964@@@
-
 decreto nº 54.558, de 23 de outubro de 1964.
 
 Autoriza a Companhia Cervejaria Brahma a trabalhar aos domingos e feriados (Civis e Religiosos).

@@ -1,5 +1,3 @@
-###DEC-089710-0-000-28-05-1984@@@
-
 decreto nº 89.710, de 28 de maio de 1984
 
 Declara de Utilidade Pública, para fins de desapropriação, terrenos situados no lugar denominado Linha Cinco Sul - Município de Santa Maria, Estado do Rio Grande do Sul.

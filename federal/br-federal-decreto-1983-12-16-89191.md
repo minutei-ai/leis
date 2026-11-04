@@ -1,5 +1,3 @@
-###DEC-089191-0-000-16-12-1983@@@
-
 Decreto nº 89.191, de 16 de dezembro de 1983
 
 Renova por 15 (quinze) anos a concessão outorgada à RÁDIO TV CAXIAS LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Caxias do Sul, Estado do Rio Grande do Sul.

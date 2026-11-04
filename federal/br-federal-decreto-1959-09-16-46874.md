@@ -1,5 +1,3 @@
-###DEC-046874-0-000-16-09-1959@@@
-
 decreto nº 46.874, de 16 de setembro de 1959.
 
 Oficializa o XI Congresso Internacional de Estradas de Rodagem.

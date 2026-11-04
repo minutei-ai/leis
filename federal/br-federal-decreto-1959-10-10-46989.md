@@ -1,5 +1,3 @@
-###DEC-046989-0-000-10-10-1959@@@
-
 DECRETO Nº 46.989, DE 10 DE OUTUBRO DE 1959.
 
 Altera redação de dispositivos do Decreto nº 37.494, de 14 de junho de 1955, que regulamentou o fundo nacional do Ensino Médio.

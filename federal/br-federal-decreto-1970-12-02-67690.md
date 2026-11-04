@@ -1,5 +1,3 @@
-###DEC-067690-0-000-02-12-1970@@@
-
 Decreto nº 67.690, de 2 de dezembro de 1970.
 
 Torna sem efeito decreto de redistribuição de funcionário no Quadro de Pessoal do Ministério das Comunicações.

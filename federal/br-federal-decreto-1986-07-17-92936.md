@@ -1,5 +1,3 @@
-###DEC-092936-0-000-17-07-1986@@@
-
 DECRETO Nº 92.936, DE 17 DE JULHO DE 1986
 
 Autoriza o funcionamento do curso de graduação de Professores para a Parte de Formação Especial do Currículo do Ensino de 2º grau, da Faculdade Itu, no Rio de Janeiro.

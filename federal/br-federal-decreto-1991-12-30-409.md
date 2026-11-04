@@ -1,5 +1,3 @@
-###DEC-000409-0-000-30-12-1991@@@
-
 DECRETO Nº 409, DE 30 DE DEZEMBRO DE 1991
 
 Dispõe sobre a discriminação de receitas nas faturas de fornecimento de energia elétrica e dá outras providências.

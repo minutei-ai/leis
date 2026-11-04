@@ -1,5 +1,3 @@
-###DEC-064505-0-000-14-05-1969@@@
-
 DECRETO Nº 64.505, DE 14 DE MAIO DE 1969.
 
 Declara caduco o Decreto nº 34.735, de 2 de dezembro de 1953.

@@ -1,5 +1,3 @@
-###DEC-072539-0-000-27-07-1973@@@
-
 decreto nº 72.539, de 27 de julho de 1973.
 
 Autoriza o funcionamento da Universidade Regional do Nordeste, mantida pela Fundação Universidade Regional do Nordeste, com sede na Cidade de Campina Grande, Estado da Paraíba.

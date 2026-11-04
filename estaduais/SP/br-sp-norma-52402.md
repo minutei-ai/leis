@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=52402)
-
 # LEI COMPLEMENTAR Nº 968, DE 05 DE JANEIRO DE 2005
 
 ### _Dispõe sobre a criação de cargos no Quadro da Secretaria do Tribunal de Contas do Estado de São Paulo_

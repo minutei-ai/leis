@@ -1,5 +1,3 @@
-###DEC-081008-0-000-12-12-1977@@@
-
 Decreto nº 81.008, de 12 de dezembro de 1977.
 
 Declara sem efeito o Decreto nº 27.325, de 18 de outubro de 1949, que autorizou a Companhia Aços Especiais Itabira a lavrar minério de manganês e associados no Município de Itabira, Estado de Minas Gerais.

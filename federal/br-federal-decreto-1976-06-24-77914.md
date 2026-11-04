@@ -1,5 +1,3 @@
-###DEC-077914-0-000-24-06-1976@@@
-
 DECRETO Nº 77.914, DE 24 DE JUNHO DE 1976.
 
 Autoriza o registro em nome da União Federal, dos imóveis que menciona, situados no Estado do Rio de Janeiro.

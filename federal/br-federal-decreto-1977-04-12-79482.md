@@ -1,5 +1,3 @@
-###DEC-079482-0-000-12-04-1977@@@
-
 DECRETO Nº 79.482, DE 12 DE ABRIL DE 1977.
 
 Altera dispositivos do Estatuto da Caixa Econômica Federal

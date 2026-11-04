@@ -1,5 +1,3 @@
-###DEC-047266-0-000-19-11-1959@@@
-
 DECRETO Nº 47.266, DE 19 DE NOVEMBRO DE 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Machado, no Estado de Minas Gerais.

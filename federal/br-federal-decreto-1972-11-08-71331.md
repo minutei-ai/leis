@@ -1,5 +1,3 @@
-###DEC-071331-0-000-08-11-1972@@@
-
 DECRETO Nº 71.331 - de 8 de novembro de 1972.
 
 Concede reconhecimento à Faculdade de Direito de Valença, com sede na cidade de Valença - Estado do Rio de Janeiro.

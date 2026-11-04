@@ -1,5 +1,3 @@
-###DEC-061692-0-000-13-11-1967@@@
-
 DECRETO nº 61.692, DE 13 DE NOVEMBRO DE 1967.
 
 Autoriza o funcionamento da Faculdade de Medicina com sede em Caxias do Sul.

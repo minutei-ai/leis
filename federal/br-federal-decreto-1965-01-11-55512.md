@@ -1,5 +1,3 @@
-###DEC-055512-0-000-11-01-1965@@@
-
 DECRETO Nº 55.512, de 11 de janeiro de 1965.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A. concessão para o aproveitamento da energia hidráulica do rio Paranaíba no trecho denominado Canal de São Simão.

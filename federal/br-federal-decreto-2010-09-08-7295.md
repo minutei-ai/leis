@@ -1,5 +1,3 @@
-###DEC-007295-0-000-08-09-2010-PUB-01@@@
-
 DECRETO Nº 7.295, DE 8 DE SETEMBRO DE 2010.
 
 Autoriza a permuta de ações entre a União e a BNDES Participações S.A. - BNDESPar; autoriza a alienação ou permuta de ações de titularidade da Caixa Econômica Federal - CEF e do Banco Nacional de Desenvolvimento Econômico e Social S.A. - BNDES para o Fundo Fiscal de Investimentos e Estabilização - FFIE; e altera o Decreto de 26 de agosto de 2010, que autoriza o aumento do capital social do Banco Nacional de Desenvolvimento Econômico e Social - BNDES e da Caixa Econômica Federal - CEF.

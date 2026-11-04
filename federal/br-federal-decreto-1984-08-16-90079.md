@@ -1,5 +1,3 @@
-###DEC-090079-0-000-16-08-1984@@@
-
 DECRETO Nº 90.079, de 16 de agosto de 1984
 
 Dispõe sobre o Regulamento da Escola Superior de Guerra e dá outras providências.

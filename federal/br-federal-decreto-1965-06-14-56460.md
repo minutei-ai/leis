@@ -1,5 +1,3 @@
-###DEC-056460-0-000-14-06-1965@@@
-
 Decreto nº 56.460, de 14 de junho de 1965.
 
 Declara de utilidade pública para efeito de desapropriação em favor da Universidade do Espírito Santo, imóvel que menciona.

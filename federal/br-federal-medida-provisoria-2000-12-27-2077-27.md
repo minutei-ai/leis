@@ -1,5 +1,3 @@
-###MPV-002077-0-027-27-12-2000@@@
-
 MEDIDA PROVISÓRIA nº 2.077-27, DE DEZEMBRO DE 2000.
 
 Institui o Auxílio-Transporte aos militares, servidores e empregados públicos da Administração Federal direta, autárquica e fundacional da União, e revoga o § 1º do ar. 1º da Lei nº 7.418, de 16 de dezembro de 1985.

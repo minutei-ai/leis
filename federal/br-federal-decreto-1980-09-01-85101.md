@@ -1,5 +1,3 @@
-###DEC-085101-0-000-01-09-1980@@@
-
 Decreto nº 85.101, de 1º de setembro de 1980.
 
 Autoriza o aumento da potência da RÁDIO CLUBE DE CANELA LTDA., na cidade de Canela, Estado do Rio Grande do Sul.

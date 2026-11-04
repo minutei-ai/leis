@@ -1,5 +1,3 @@
-###DEC-069823-0-000-22-12-1971@@@
-
 decreto nº 69.823 - de 22 DE DEZEMBRO de 1971
 
 Declara de utilidade pública o Hospital de Nossa Senhora da Conceição de Rio Casca, com sede em Rio Casca, Estado de Minas Gerais.

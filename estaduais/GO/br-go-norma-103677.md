@@ -10,8 +10,6 @@ Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 30 de dezembro de 2020; 132º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -20,4 +18,4 @@ LÊDA BORGES
 
 Deputada Estadual
 
-~~~~Este texto não substitui o publicado no Suplemento do D.O. de 30-12-2020~~ .~~
+Este texto não substitui o publicado no Suplemento do D.O. de 30-12-2020~~ .~~

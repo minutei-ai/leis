@@ -1,20 +1,52 @@
-###DEC-029946-0-000-31-08-1951@@@
+**DECRETO Nº 29.946, DE 31 DE AGÔSTO DE 1951.**
 
-<strong>DECRETO Nº 29.946, DE 31 DE AGÔSTO DE 1951.</strong>
+***Abre, pelo Ministério da Educação e Saúde, o crédito especial de Cr$ 128.803,00, para entender as despesas com o pagamento de gratificação de magistério aos professôres que relaciona.***
 
-<em><strong>Abre, pelo Ministério da Educação e Saúde, o crédito especial de Cr$ 128.803,00, para entender as despesas com o pagamento de gratificação de magistério aos professôres que relaciona.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da autorização contida na Lei número 1.285, de 18 de dezembro de 1950 e tendo ouvido o Tribunal de Contas, nos têrmos do art. 93 do Regulamento Geral de Contabilidade Pública,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da autorização contida na Lei número 1.285, de 18 de dezembro de 1950 e tendo ouvido o Tribunal de Contas, nos têrmos do art. 93 do Regulamento Geral de Contabilidade Pública,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica aberto, pelo Ministério da Educação e Saúde, o crédito especial de Cr$ 128.803,00 (cento e vinte e oito mil, oitocentos e três cruzeiros), para atender às despesas com o pagamento de gratificação de magistério a que têm direito os professôres abaixo relacionados:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:372.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>1 - Francisco de Paula Nunes, padrão J, da Escola Industrial de Terezina (período de 19 de setembro 1946 a 31 de dezembro de 1948) ................................................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>16.890,00</span></span></p></td></tr><tr><td style="width:372.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>2 - Olgarina Ramos de Oliveira Carvalho, padrão J, da Escola Industrial de Belém (período de 19 de setembro de 1946 a 31 de dezembro de 1948) ............................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>19.581,00</span></span></p></td></tr><tr><td style="width:372.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>3 - Osmarina Carvalho, padrão J, da Escola Industrial de João Pessoa (período de 19 de setembro de 1946 a 31 de dezembro de 1948) ................................................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>16.890,00</span></span></p></td></tr><tr><td style="width:372.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>4 - Omega de Azevedo Nacre, padrão J, da Escola Industrial de João Pessoa (período de 19 de setembro de 1946 a 31 de dezembro de 1948) ............................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>16.890,00</span></span></p></td></tr><tr><td style="width:372.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>5 - Castorina de Menezes Barros, padrão J, da Escola Industrial de João Pessoa (período de 19 de setembro de 1946 a 31 de dezembro de 1948) ............................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>16.890,00</span></span></p></td></tr><tr><td style="width:372.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>6 - João Nepomuceno Menezes, padrão J, da Escola Industrial de Aracaju (período de 25 de maio de 1946 a 31 de dezembro de 1947) ..................................................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>11.535,00</span></span></p></td></tr><tr><td style="width:372.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>7 - Hugo Antônio Fabeni, padrão J, da Escola Industrial de Florianópolis (período de 10 de dezembro de 1947 a 31 de dezembro de 1948) ..........................................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span><span>8.075,80</span></span></p></td></tr><tr><td style="width:372.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>8 - Vitor Niniero, padrão J, da Escola Técnica de S. Paulo (período de 1 de janeiro de 1946 a 31 de dezembro de 1948) ..........................................................................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="text-decoration:underline"><span><u>22.050,00</u></span></span></p></td></tr><tr><td style="width:372.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Total ............................................................................................................................</span></span></p></td><td style="width:56.8pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="text-decoration:underline"><span><u>128.803,00</u></span></span></p></td></tr></tbody></table>
+1 - Francisco de Paula Nunes, padrão J, da Escola Industrial de Terezina (período de 19 de setembro 1946 a 31 de dezembro de 1948) ................................................
+
+16.890,00
+
+2 - Olgarina Ramos de Oliveira Carvalho, padrão J, da Escola Industrial de Belém (período de 19 de setembro de 1946 a 31 de dezembro de 1948) ............................
+
+19.581,00
+
+3 - Osmarina Carvalho, padrão J, da Escola Industrial de João Pessoa (período de 19 de setembro de 1946 a 31 de dezembro de 1948) ................................................
+
+16.890,00
+
+4 - Omega de Azevedo Nacre, padrão J, da Escola Industrial de João Pessoa (período de 19 de setembro de 1946 a 31 de dezembro de 1948) ............................
+
+16.890,00
+
+5 - Castorina de Menezes Barros, padrão J, da Escola Industrial de João Pessoa (período de 19 de setembro de 1946 a 31 de dezembro de 1948) ............................
+
+16.890,00
+
+6 - João Nepomuceno Menezes, padrão J, da Escola Industrial de Aracaju (período de 25 de maio de 1946 a 31 de dezembro de 1947) ..................................................
+
+11.535,00
+
+7 - Hugo Antônio Fabeni, padrão J, da Escola Industrial de Florianópolis (período de 10 de dezembro de 1947 a 31 de dezembro de 1948) ..........................................
+
+8.075,80
+
+8 - Vitor Niniero, padrão J, da Escola Técnica de S. Paulo (período de 1 de janeiro de 1946 a 31 de dezembro de 1948) ..........................................................................
+
+22.050,00
+
+Total ............................................................................................................................
+
+128.803,00
 
 Rio de Janeiro, em 31 de agôsto de 1951; 130º da Independência e 63º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 E. Simões Filho
 

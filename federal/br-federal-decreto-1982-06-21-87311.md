@@ -1,5 +1,3 @@
-###DEC-087311-0-000-21-06-1982@@@
-
 Decreto nº 87.311, de 21 de junho de 1982.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da Estação de Banco de Capacitores Continental, da LIGHT - Serviços de Eletricidade S.A.

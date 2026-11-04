@@ -1,5 +1,3 @@
-###DEC-001847-0-000-28-03-1996@@@
-
 DECRETO Nº 1.847, DE 28 DE MARÇO DE 1996.
 
 Dá nova redação ao art. 5° do Decreto n° 98.135, de 12 de setembro de 1989.

@@ -1,5 +1,3 @@
-###DEC-001795-0-000-22-01-1996@@@
-
 DECRETO Nº 1.795, DE 22 DE JANEIRO DE 1996.
 
 Acrescenta as alíneas ‘’c’’ e ‘’d’’ ao § 1º do art. 1º do Decreto n° 1.762, de 26 de dezembro de 1995, que dispõe sobre a inscrição de restos a pagar do exercício de 1995.

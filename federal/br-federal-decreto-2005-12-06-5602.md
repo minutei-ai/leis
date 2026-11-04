@@ -1,5 +1,3 @@
-###DEC-005602-0-000-06-12-2005@@@
-
 DECRETO Nº 5.602, DE 6 DE DEZEMBRO DE 2005.
 
 Regulamenta o Programa de Inclusão Digital instituído pela Lei no 11.196, de 21 de novembro de 2005.

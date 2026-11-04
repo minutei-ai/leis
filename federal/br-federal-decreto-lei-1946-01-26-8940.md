@@ -1,5 +1,3 @@
-###DEL-008940-0-000-26-01-1946@@@
-
 DECRETO-LEI  N. 8.940 – DE 26 DE JANEIRO DE 1946
 
 Altera o disposto no art. 6º e respectivo parágrafo único, do Decreto-lei nº 3.532, de 21 de Agôsto de 1941.

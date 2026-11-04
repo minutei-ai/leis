@@ -1,5 +1,3 @@
-###DEC-052678-0-000-14-10-1963@@@
-
 DECRETO Nº 52.678, DE 14 DE OUTUBRO DE 1963.
 
 Retifica o Quadro de Pessoal do Conselho Nacional de Pesquisas.

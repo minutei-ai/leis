@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211715)<br>
-
 # DECRETO N° 70.019, DE 21 DE OUTUBRO DE 2025
 
 ### _Autoriza a outorga de uso do imóvel que especifica ao Município de Bananal e dá providências correlatas._

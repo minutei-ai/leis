@@ -8,11 +8,14 @@ Art. 1º Fica concedido a MARINHO FELISARDO ARAÚJO o Título Honorífico de Cid
 
 Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
-Goiânia, 18 de junho de 2026; 138º da República.<br>
+Goiânia, 18 de junho de 2026; 138º da República.
+
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
-BRUNO PEIXOTO<br>
+BRUNO PEIXOTO
+
 Deputado Estadual

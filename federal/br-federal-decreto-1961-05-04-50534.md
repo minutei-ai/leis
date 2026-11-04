@@ -1,5 +1,3 @@
-###DEC-050534-0-000-04-05-1961@@@
-
 DECRETO Nº 50.534, DE 4 DE MAIO DE 1961.
 
 Concede permissão a Quimbrasil-Química, Industrial brasileira S.A. (Seções de enxofre em bastões azul ultramar, fenol e turbina a vapor), para funcionar aos domingos e nos feriados civis e religiosos.

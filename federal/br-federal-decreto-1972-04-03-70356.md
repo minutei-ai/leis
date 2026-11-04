@@ -1,5 +1,3 @@
-###DEC-070356-0-000-03-04-1972@@@
-
 Decreto Nº 70.356, DE 3 DE ABRIL DE 1972.
 
 Declara de interesse social, para fins de desapropriação, área de terras no Estado de Mato Grosso.

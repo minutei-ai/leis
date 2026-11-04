@@ -1,5 +1,3 @@
-###DEC-048691-0-000-04-08-1960@@@
-
 DECRETO Nº 48.691, DE 4 DE AGÔSTO DE 1960.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 35.583, de 31 de maio de 1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público Itabaiana, no Município de Itabaiana, Estado de Sergipe.

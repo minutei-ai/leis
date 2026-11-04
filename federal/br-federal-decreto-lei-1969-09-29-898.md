@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/1093696b-08bd-444b-8cd5-0fbb93d33af1/texto#nowhere)
 
-###DEL-000898-0-000-29-09-1969@@@
-
 DECRETO-LEI Nº 898, DE 29 DE SETEMBRO DE 1969
 
 Define os crimes contra a segurança nacional, a ordem política e social, estabelece seu processo e julgamento e dá outras providências.

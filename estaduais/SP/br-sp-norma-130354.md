@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/130354)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/emenda.constitucional/2006/compilacao-emenda.constitucional-21-14.02.2006.html)
 
 # EMENDA CONSTITUCIONAL N° 21, DE 14 DE FEVEREIRO DE 2006

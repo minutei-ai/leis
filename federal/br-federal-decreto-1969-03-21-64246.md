@@ -1,5 +1,3 @@
-###DEC-064246-0-000-21-03-1969@@@
-
 DECRETO Nº 64.246, DE 21 DE MARÇO DE 1969.
 
 Transfere do Senhor Domingos Ferreira Rios para a Prefeitura Municipal de Caputira a concessão para produzir, transmitir e distribuir energia elétrica no município de Caputira, Estado de Minas Gerais.

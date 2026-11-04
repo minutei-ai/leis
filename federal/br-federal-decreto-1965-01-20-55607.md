@@ -1,5 +1,3 @@
-###DEC-055607-0-000-20-01-1965@@@
-
 DECRETO Nº 55.607, DE 20 DE JANEIRO DE 1965.
 
 Autoriza a cessão gratuita do terreno que menciona no Município de Jundiai, Estado de São Paulo.

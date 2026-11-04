@@ -1,5 +1,3 @@
-###DEC-002327-0-000-23-09-1997@@@
-
 DECRETO Nº 2.327, DE 23 DE SETEMBRO DE 1997
 
 Dispõe sobre a coordenação do Sistema Nacional de Trânsito, composição do Conselho Nacional de Trânsito - CONTRAN, e dá outras providências.

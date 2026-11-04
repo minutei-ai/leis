@@ -1,5 +1,3 @@
-###DEC-069563-0-000-19-11-1971@@@
-
 DECRETO Nº 69.563 - 19 de novembro de 1971
 
 Declara de utilidade pública a Associação Educativa e Assistencial "Madre Carmem Sallés", com sede em Brasília, Distrito Federal.

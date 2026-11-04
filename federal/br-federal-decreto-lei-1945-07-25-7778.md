@@ -1,5 +1,3 @@
-###DEL-007778-0-000-25-07-1945@@@
-
 DECRETO-LEI N. 7.778 – DE 25 DE JULHO DE 1945
 
 Cria funções gratificadas para a Comissão de Readaptação dos Incapazes das Fôrças Armadas e abre crédito especial.

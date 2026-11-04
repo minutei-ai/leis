@@ -1,5 +1,3 @@
-###DEC-074790-0-000-30-10-1974@@@
-
 DECRETO Nº 74.790, DE 30 DE OUTUBRO DE 1974.
 
 Revoga por 10 (dez) anos a concessão outorgada à Radio Difusora Sul da Bahia S.A, para executar serviço de radiodifusão sonora em ondas medias de âmbito regional, na cidade de Itabuna, Estado da Bahia.

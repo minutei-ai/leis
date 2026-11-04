@@ -1,5 +1,3 @@
-###DEL-005846-0-000-23-09-1943@@@
-
 DECRETO-LEI N. 5.846 – DE 23 DE SETEMBRO DE 1943
 
 Declara de utilidade pública a desapropriação de parte de imóveis que menciona, situados na cidade de São Paulo, capital do Estado do mesmo nome, e dá outras providências.

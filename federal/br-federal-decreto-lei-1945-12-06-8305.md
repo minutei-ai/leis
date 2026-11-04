@@ -1,5 +1,3 @@
-###DEL-008305-0-000-06-12-1945@@@
-
 DECRETO-LEI N. 8.305 – DE 6 DE DEZEMBRO DE 1945
 
 Suprime dispositivo da Consolidação das Leis do Trabalho.

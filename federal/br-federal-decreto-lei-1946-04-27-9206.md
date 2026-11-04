@@ -1,5 +1,3 @@
-###DEL-009206-0-000-27-04-1946@@@
-
 DECRETO-LEI N. 9.206 – DE 27 DE ABRIL DE 1946
 
 Incorpora ao Serviço de Saúde dos Portos, sem aumento de despesa, a frota marítima do Serviço de transportes, e dà outras providências

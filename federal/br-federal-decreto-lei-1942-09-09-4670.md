@@ -1,5 +1,3 @@
-###DEL-004670-0-000-09-09-1942@@@
-
 DECRETO-LEI N. 4.670 – DE 9 DE SETEMBRO DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de réis 10.000:000$0, para prosseguimento de obras, e dá outras providências

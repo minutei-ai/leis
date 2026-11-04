@@ -18,11 +18,14 @@ Art.4º - Esta Lei entrara em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos dezoito dias do mês de janeiro de dois mil e dois.
 
-ADEMIR MENEZES<br>
+ADEMIR MENEZES
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC.EXECUTIVO
 
-MARCOS AURELIO DE ARIMATÉIA<br>
+MARCOS AURELIO DE ARIMATÉIA
+
 SEC.DE PLANEJAMENTO

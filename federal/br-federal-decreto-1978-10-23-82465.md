@@ -1,5 +1,3 @@
-###DEC-082465-0-000-23-10-1978@@@
-
 Decreto nº 82.465, de 23 de outubro de 1978.
 
 Retifica a concessão de lavra outorgada à Mineração São Braz S.A. pelo Decreto nº 78.804, de 24 de novembro de 1976.

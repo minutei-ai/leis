@@ -1,5 +1,3 @@
-###DEC-071527-0-000-12-12-1972@@@
-
 Decreto Nº 71.527 - DE 12 DE DEZEMBRO DE 1972
 
 Concede reconhecimento do Curso de Licenciatura em Ciências, da Faculdade de Filosofia, Ciências e Letras de Marília, Estado de São Paulo.

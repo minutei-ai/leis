@@ -1,5 +1,3 @@
-###DEC-090074-0-000-15-08-1984@@@
-
 Decreto nº 90.074, de 15 de agosto de 1984
 
 Renova por 10 (dez) anos, a concessão outorgada a TELEVISÃO VERDES MARES LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

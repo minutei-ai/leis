@@ -1,5 +1,3 @@
-###DEC-004963-0-000-28-01-2004@@@
-
 DECRETO Nº 4.963,  DE 28 DE JANEIRO DE 2004.
 
 Altera o art. 2º do Decreto nº 4.288, de 27 de junho de 2002, que dispõe sobre as estruturas e as atribuições do Departamento-Geral do Pessoal e da Secretaria de Economia e Finanças do Comando do Exército, dá nova redação à alínea "e" do inciso VII do art. 1º do Decreto nº 3.648, de 30 de outubro de 2000, que dispõe sobre os cargos privativos de Oficial-General do Exército em tempo de paz, e dá outras providências.

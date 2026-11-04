@@ -1,5 +1,3 @@
-###DEC-065079-0-000-29-08-1969@@@
-
 DECRETO Nº 65.079, DE 29 DE AGôSTO DE 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial do Ministério do Trabalho e Previdência Social cargos originários da extinta autarquia Serviços de Navegação da Amazônia e de Administração do Pôrto do Pará e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=72974)
-
 # LEI Nº 12.678, DE 16 DE JULHO DE 2007
 
 ### _Autoriza a Fazenda do Estado a doar imóvel ao Município de Barra Bonita._

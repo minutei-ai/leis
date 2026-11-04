@@ -1,5 +1,3 @@
-###DEC-073837-0-000-13-03-1974@@@
-
 DECRETO Nº 73.837, DE 13 DE MARÇO DE 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão, no Distrito Federal.

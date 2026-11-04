@@ -1,5 +1,3 @@
-###DEC-073927-0-000-10-04-1974@@@
-
 DECRETO Nº 73.927, DE 10 DE ABRIL DE 1974.
 
 Concede à CBE - Companhia Brasileira de Equipamentos, o direito de lavrar calcário no Município de Capão Bonito, Estado de São Paulo.

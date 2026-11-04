@@ -1,5 +1,3 @@
-###DEL-007857-0-000-13-08-1945@@@
-
 DECRETO-LEI N. 7.857 – DE 13 DE AGÔSTO DE 1945
 
 Cria coletorias federais no Território de Ponta Pora e dá outras providências.

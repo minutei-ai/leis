@@ -1,5 +1,3 @@
-###DEL-005903-0-000-21-10-1943@@@
-
 DECRETO‑LEI N. 5.903 – DE 21 DE OUTUBRO DE 1943
 
 suspende a exigência da nota n. 231 da Tarifa em vIgor, enquanto perdurar o estado de guerra, e dá outras providências

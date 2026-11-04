@@ -1,7 +1,3 @@
-1
-
-###DEC-099229-0-000-27-04-1990@@@
-
 DECRETO Nº 99.229, DE 27 DE ABRIL DE 1990
 
 Dá nova redação ao art. 16 do Decreto nº 99.188, de 17 de março de 1990, que dispõe sobre contenção de despesas na Administração Pública Federal.

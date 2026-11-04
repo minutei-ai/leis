@@ -1,46 +1,44 @@
-###DEC-029363-0-000-19-03-1951@@@
+**DECRETO Nº 29.363, DE 19 DE MARÇO DE 1951.**
 
-<strong>DECRETO Nº 29.363, DE 19 DE MARÇO DE 1951.</strong>
+***Aprova o Regulamento para a Escola de Formação de Oficiais da Polícia Militar do Distrito Federal.***
 
-<em><strong>Aprova o Regulamento para a Escola de Formação de Oficiais da Polícia Militar do Distrito Federal.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º É aprovado o Regulamento para a Escola de Formação de Oficiais da Polícia Militar do Distrito Federal, que com êste baixa, assinado pelo Ministro de Estado da Justiça e Negócios Interiores.
 
-<strong>Art</strong>. 1º É aprovado o Regulamento para a Escola de Formação de Oficiais da Polícia Militar do Distrito Federal, que com êste baixa, assinado pelo Ministro de Estado da Justiça e Negócios Interiores.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 19 de março de 1951; 130º da Independência e 63º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Francisco Negrão de Lima
 
-<strong>REGULAMENTO DA ESCOLA DE FORMAÇÃO DE OFICIAIS</strong>
+**REGULAMENTO DA ESCOLA DE FORMAÇÃO DE OFICIAIS**
 
-<em>PRIMEIRA PARTE</em>
+*PRIMEIRA PARTE*
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Da Escola e seus fins</em>
+*Da Escola e seus fins*
 
-<strong>Art</strong>. 1º A Escola de Formação de Oficiais, diretamente subordinada à Diretoria de Instrução, destina-se a ministrar aos candidatos a Aspirante a Oficial, sob o regime de internato, o preparo de formação que os habilite ao exercício das funções de oficial subalterno.
+**Art**. 1º A Escola de Formação de Oficiais, diretamente subordinada à Diretoria de Instrução, destina-se a ministrar aos candidatos a Aspirante a Oficial, sob o regime de internato, o preparo de formação que os habilite ao exercício das funções de oficial subalterno.
 
-<strong>Art</strong>. 2º Os processos de seleção e de preparação física, intelectual, profissional e moral dos alunos da Escola devem ser tais que o acesso ao oficialato só se permita aos que tenham revelado sobejamente as qualidades primordiais indispensáveis àquela investidura.
+**Art**. 2º Os processos de seleção e de preparação física, intelectual, profissional e moral dos alunos da Escola devem ser tais que o acesso ao oficialato só se permita aos que tenham revelado sobejamente as qualidades primordiais indispensáveis àquela investidura.
 
 Parágrafo único. Constitui ponto de honra para os oficiais que servem na Escola, professôres ou instrutores, a nítida compreensão das elevadas finalidades dêsse estabelecimento.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Plano Geral do Ensino</em>
+*Plano Geral do Ensino*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Organização Geral do Ensino</em>
+*Organização Geral do Ensino*
 
-<strong>Art</strong>. 3º O ensino da Escola de Formação de Oficiais visa ministrar:
+**Art**. 3º O ensino da Escola de Formação de Oficiais visa ministrar:
 
 a) ensino geral fundamental constituído de conhecimentos básicos e científicos, necessários à ampliação do nível cultural teórico do futuro oficial no prosseguimento de sua preparação profissional e militar;
 
@@ -48,11 +46,11 @@ b) instrução profissional que habilite o futuro oficial ao eficiente exercíci
 
 c) instrução militar destinada a habilitar o futuro oficial na prática e no conhecimento do emprego militar tático e técnico das diferentes unidades e formações da Corporação (até o escalão Cia. ou equivalente), como comandante, chefe ou auxiliar dêstes, nas diversas situações decorrentes do desempenho e execução das funções policiais.
 
-<strong>Art</strong>. 4º Consoante essa orientação, o curso da Escola de Formação de Oficiais, realizado em três anos, abrange o ensino geral fundamental, a instrução profissional e a instrução militar referente às armas de infantaria e cavalaria.
+**Art**. 4º Consoante essa orientação, o curso da Escola de Formação de Oficiais, realizado em três anos, abrange o ensino geral fundamental, a instrução profissional e a instrução militar referente às armas de infantaria e cavalaria.
 
 Parágrafo único. A instrução profissional e a militar constituirão a instrução policial-militar.
 
-<strong>Art</strong>. 5º Os objetivos do ensino são os seguintes:
+**Art**. 5º Os objetivos do ensino são os seguintes:
 
 No 1º ano: proporcionar a cultura geral fundamental, os conhecimentos básicos individuais da profissão policial e a instrução policial-militar necessária à formação do cabo de infantaria e cavalaria.
 
@@ -60,11 +58,11 @@ No 2º ano: continuar a cultura geral fundamental, ministrar maiores conheciment
 
 No 3º ano: prosseguir a cultura geral fundamental e a instrução policial-militar, dando aos alunos, além de conhecimentos de ordem policial mais complexos, a aptidão necessária ao exercício das funções de oficial subalterno de infantaria e cavalaria, até o comando de subunidade ou equivalente.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Organização do Curso</em>
+*Organização do Curso*
 
-<strong>Art</strong>. 6º O curso da Escola será ministrado obedecendo a seguinte distribuição:
+**Art**. 6º O curso da Escola será ministrado obedecendo a seguinte distribuição:
 
 1º ANO
 
@@ -190,17 +188,17 @@ Aplicação
 
 8 - Exercícios, Combate e Serviços da Cavalaria, até o escalão subunidade.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Regime Didático</em>
+*Regime Didático*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DIRETRIZES PARA O ENSINO</em>
+*DIRETRIZES PARA O ENSINO*
 
-<strong>Art</strong>. 7º O ensino será ministrado de modo que a instrução seja gradual e progressiva, tão prática e objetiva quanto possível, visando especialmente a preparação para a vida de combatente policial-militar. Dever-se-á ter muito em vista que a formação dos oficiais de polícia implica, em última análise, em fazer-se comandantes e instrutores de pelotão ou equivalente. A preocupação dominante será habilitá-los a empregar essas frações policiais com proveito e discernimento, deixando-se de parte a teoria.
+**Art**. 7º O ensino será ministrado de modo que a instrução seja gradual e progressiva, tão prática e objetiva quanto possível, visando especialmente a preparação para a vida de combatente policial-militar. Dever-se-á ter muito em vista que a formação dos oficiais de polícia implica, em última análise, em fazer-se comandantes e instrutores de pelotão ou equivalente. A preocupação dominante será habilitá-los a empregar essas frações policiais com proveito e discernimento, deixando-se de parte a teoria.
 
-<strong>Art</strong>. 8º As disciplinas do Ensino Fundamental, ministradas a alunos já possuidores do primeiro ciclo do ensino secundário, deverão ser mantidas em nível equivalente ao do 2º ciclo, obedecendo a seguinte orientação:
+**Art**. 8º As disciplinas do Ensino Fundamental, ministradas a alunos já possuidores do primeiro ciclo do ensino secundário, deverão ser mantidas em nível equivalente ao do 2º ciclo, obedecendo a seguinte orientação:
 
 1 - Português - O ensino da língua portuguêsa será feito nos três anos do curso de modo gradual e sucessivo, tendo-se em vista sedimentar os conhecimentos já adquiridos pelo aluno em seus estudos anteriores.
 
@@ -242,7 +240,7 @@ Não só as partes que servirão de base à Guerra Química e ao emprêgo dos En
 
 O que prescreve os números 9 e 10 sôbre técnica policial, tem fundamento nos princípios insofismáveis da moderna Policiologia.
 
-<strong>Art</strong>. 9º A Instrução Profissional, observados os manuais técnicos existentes e as idéias sôbre técnica policial sancionadas pela experiência, obedecerá as seguintes prescrições:
+**Art**. 9º A Instrução Profissional, observados os manuais técnicos existentes e as idéias sôbre técnica policial sancionadas pela experiência, obedecerá as seguintes prescrições:
 
 1 - Técnica Policial - A técnica policial visa preparar o indivíduo para desempenhar nas unidades elementares da Corporação uma determinada função especializada do Polícia. Isto é, o policial agindo individualmente nos ramos específicos de Polícia Propriamente Dita, de Polícia Judiciário e de Polícia de Tráfego (circulação em geral).
 
@@ -264,7 +262,7 @@ Esta instrução de aplicação, compreende:
 
 A intruções distribui-se-á pelos três anos de curso e obedecerá a aplicação dos manuais existentes sôbre o assunto, devendo-se ter em vista o indivíduo a forma em cada ano.
 
-<strong>Art</strong>. 10 A Instrução Militar visa ensinar o indivíduo policial a agir como soldado, adaptando paulatinamente às particularidades da vida e ação militares. O preparo para os penosos deveres militares, seguirão no que fôr aplicável os processos de ensino estipulados pelos manuais técnicos e de campanha do Exército, as idéias modernas sancionadas pela experiência e as seguintes prescrições:
+**Art**. 10 A Instrução Militar visa ensinar o indivíduo policial a agir como soldado, adaptando paulatinamente às particularidades da vida e ação militares. O preparo para os penosos deveres militares, seguirão no que fôr aplicável os processos de ensino estipulados pelos manuais técnicos e de campanha do Exército, as idéias modernas sancionadas pela experiência e as seguintes prescrições:
 
 1 - A Instrução Militar, consoante ao prescrito no título II, será ministrada de modo que cada um dos anos sejam atingidos os objetivos já definidos no art. 5º. Processar-se-á no âmbito da Infantaria e Cavalaria, e a relação pormenorizada dos assuntos a ensinar será objeto de discriminação anual nos programas e Direção de Ensino.
 
@@ -290,13 +288,13 @@ Visa essencialmente, comandar e instruir unidades elementares da Infantaria e Ca
 
 \- e na organização, conhecimentos e emprêgo das formações de serviços.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>ATRIBUIÇÕES E ORGANIZAÇÃO DO PESSOAL NA ESCOLA</em>
+*ATRIBUIÇÕES E ORGANIZAÇÃO DO PESSOAL NA ESCOLA*
 
-<strong>Art</strong>. 11. A Escola será dirigida pelo Diretor de Instrução da Corporação que Superintenderá, orientará e fiscalizará o ensino e administração escolares, segundo as prescrições dos regulamentos em vigor.
+**Art**. 11. A Escola será dirigida pelo Diretor de Instrução da Corporação que Superintenderá, orientará e fiscalizará o ensino e administração escolares, segundo as prescrições dos regulamentos em vigor.
 
-<strong>Art</strong>. 12. O Diretor disporá, no exercícios de suas Funções, dos Seguintes Auxiliares:
+**Art**. 12. O Diretor disporá, no exercícios de suas Funções, dos Seguintes Auxiliares:
 
 \- 1 Major ou Capitão do Exército- Sub-Diretor de Ensino.
 
@@ -330,9 +328,9 @@ Visa essencialmente, comandar e instruir unidades elementares da Infantaria e Ca
 
 § 6º O instrutor chefe de Educação Física será o Diretor dêsse Departamento, por onde correrão todos os trabalhos relativos à educação física em geral, dos Alunos.
 
-§ 7ºAos professôres, instrutores, auxiliares de instrutores e secretário, será, paga, mensalmente, uma gratificação <em>prolabore</em>, fixada anualmente pelo Ministério da Justiça.
+§ 7ºAos professôres, instrutores, auxiliares de instrutores e secretário, será, paga, mensalmente, uma gratificação *prolabore*, fixada anualmente pelo Ministério da Justiça.
 
-<strong>Art</strong>. 13. Competem ao Diretor as atribuições previstas nos regulamentos para os Comandantes dos Corpos, aplicáveis na Escola, e mais:
+**Art**. 13. Competem ao Diretor as atribuições previstas nos regulamentos para os Comandantes dos Corpos, aplicáveis na Escola, e mais:
 
 a) zelar para que o ensino e a educação militar do aluno sejam ministrados dentro das normas e princípios fixados pelo presente regulamentos;
 
@@ -362,7 +360,7 @@ n) apresentar, até 15 de janeiro de cada ano, relatórios circunstanciado dos t
 
 o) designar comissões  para as provas de exames.
 
-<strong>Art</strong>. 14. Competem ao Sub-Diretor as atribuições previstas nos regulamentos para Sub-Comandantes de Corpos aplicáveis na Escola, e mais.
+**Art**. 14. Competem ao Sub-Diretor as atribuições previstas nos regulamentos para Sub-Comandantes de Corpos aplicáveis na Escola, e mais.
 
 a) dirigir e fiscalizar todo os serviços a seu cargo;
 
@@ -394,7 +392,7 @@ o) examinar as relações e as questões para as diversas provas formuladas pelo
 
 p) propôr ao Diretor a constituição das comissões examinadoras para as provas parciais e os exames.
 
-<strong>Art</strong>. 15. Competem ao Comandante da Cia. de Alunos as atribuições previstas nos regulamentos para os Comandantes de Sub-unidades dos Corpos de Tropas, aplicáveis a Cia. de Alunos, e mais:
+**Art**. 15. Competem ao Comandante da Cia. de Alunos as atribuições previstas nos regulamentos para os Comandantes de Sub-unidades dos Corpos de Tropas, aplicáveis a Cia. de Alunos, e mais:
 
 a) cooperar com o Sub-Diretor e tôdas as questões relativas à disciplina e vida administrativa da Escola;
 
@@ -414,7 +412,7 @@ g) fornecer ao Diretor, e dentro da época por êste estabelecida, os dados nece
 
 § 2º O Comandante da Cia. de Alunos deverá possuir o C.A.O.
 
-<strong>Art</strong>. 16. Compete ao Secretário, as atribuições previstas nos regulamentos para os Secretários dos Corpos de Tropa, aplicáveis à Escola, e mais:
+**Art**. 16. Compete ao Secretário, as atribuições previstas nos regulamentos para os Secretários dos Corpos de Tropa, aplicáveis à Escola, e mais:
 
 a) ter sobre sua guarda os livros e documentos da Escola;
 
@@ -438,11 +436,11 @@ j) ter sob sua guarda as provas e trabalhos escritos e gráficos;
 
 l) ter sob sua responsabilidade a Biblioteca Escolar.
 
-<strong>Art</strong>. 17. Competem ao Ajudante, as atribuições previstas nos regulamentos para os Ajudantes dos Corpos de Tropa, aplicáveis à escola, e mais:
+**Art**. 17. Competem ao Ajudante, as atribuições previstas nos regulamentos para os Ajudantes dos Corpos de Tropa, aplicáveis à escola, e mais:
 
 a) encarregar-se das instalações complementares de Escola que não tenham encarregado direto neste regulamento.
 
-<strong>Art</strong>.18. Competem ao Intendente da Escola, tôdas as atribuições dos Intendentes de Corpos de Tropa, constantes dos regulamentos, no que fôr compatível no regime escolar, e mais:
+**Art**.18. Competem ao Intendente da Escola, tôdas as atribuições dos Intendentes de Corpos de Tropa, constantes dos regulamentos, no que fôr compatível no regime escolar, e mais:
 
 a) apresentar ao Comandante da Cia. de Alunos, a quem ficam subordinado diretamente, todos os documentos relativos a fundos, manutenção e aprovisionamento;
 
@@ -452,7 +450,7 @@ c) executar e fazer executar, pelos seus auxiliares, todos os serviços não esp
 
 d) fornecer ao Diretor, por intermédio do Comandante da Cia. de Alunos,.os dados indispensáveis à elaboração do Relatório Anual.
 
-<strong>Art</strong>. 19. Competem aos Instrutores Chefes:
+**Art**. 19. Competem aos Instrutores Chefes:
 
 a) colaborar na elaboração do programa Escola;
 
@@ -464,7 +462,7 @@ d) distribuir pelos instrutores e auxiliares os assuntos a serem ministrados;
 
 e) enviar ao Sub-Diretor os programas pormenorizados de instrução 15 dias do inicio do ano letivo.
 
-<strong>Art</strong>. 20. Compete aos Instrutores e Auxiliares:
+**Art**. 20. Compete aos Instrutores e Auxiliares:
 
 a) ministrar suas instruções, dentro das diretivas traçadas pelo Instrutor Chefe;
 
@@ -480,7 +478,7 @@ f) ser assíduo e ser um exemplo para os seus alunos;
 
 g) cooperar, dentro das necessidades, na execução dos diferentes serviços administrativo e didáticos da Escola.
 
-<strong>Art</strong>. 21. Compete aos professôres:
+**Art**. 21. Compete aos professôres:
 
 a) ministrar suas aulas, procurando ser simples na exposição;
 
@@ -488,19 +486,19 @@ b) ser assíduo e facilitar aos alunos elementos para melhor aproveitamento das 
 
 c) procurar incutir nos alunos a noção de cumprimento do dever e a necessidade de um maior rendimento no preparo cultural.
 
-<strong>Art</strong>. 22. Competem aos monitores as atribuições previstas nos regulamentos para os sargentos de igual categoria, aplicável à Escola, e mais o determinado pela Direção do Ensino.
+**Art**. 22. Competem aos monitores as atribuições previstas nos regulamentos para os sargentos de igual categoria, aplicável à Escola, e mais o determinado pela Direção do Ensino.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>PROGRAMAS E DISTRIBUIÇÃO DAS MATÉRIAS</em>
+*PROGRAMAS E DISTRIBUIÇÃO DAS MATÉRIAS*
 
-<strong>Art</strong>. 23. Os programas de ensino serão anualmente propostos pelos professôres e instrutores que aproveitarão as observações do ano anterior.
+**Art**. 23. Os programas de ensino serão anualmente propostos pelos professôres e instrutores que aproveitarão as observações do ano anterior.
 
 § 1º Os programas, depois de elaborados pelos instrutores e professôres, serão submetidos ao Sub-Diretor que verificará se os mesmos estão dentro das prescrições regulamentares e diretrizes traçadas pela Diretoria de Instrução, e os levará à aprovação do Diretor.
 
 § 2º A aprovação final dos programas elaborados para cada ano de instrução é da alçada do Comandante Geral.
 
-<strong>Art</strong>. 24. Na elaboração dos programas os instrutores e professôres deverão ter em vista, a par das prescrições regulamentares das diretrizes traçadas pela Diretoria de Instrução, o seguinte:
+**Art**. 24. Na elaboração dos programas os instrutores e professôres deverão ter em vista, a par das prescrições regulamentares das diretrizes traçadas pela Diretoria de Instrução, o seguinte:
 
 a) a eficiência do ensino não depende da quantidade de matéria dos programas e sim da qualidade e do modo por que é lecionada;
 
@@ -508,7 +506,7 @@ b) o ensino na Escola deve ser objetivo porque se destina à formação de ofici
 
 c) levar em conta o tempo complementar disponível para estudo.
 
-<strong>Art</strong>. 25. Na execução dos programas os professôres e instrutores devem ter em vista:
+**Art**. 25. Na execução dos programas os professôres e instrutores devem ter em vista:
 
 a) a cooperação permanente, sincera e honesta entre professor e discípulo, instrutor e instruendo;
 
@@ -530,57 +528,57 @@ i) fornecer notas escritas sôbre partes da matéria que, a seu critério, o exi
 
 j) estimular a dedicação ao trabalho e desenvolver a confinça no esfôrço pessoal.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Regime Escolar</em>
+*Regime Escolar*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>ANO LETIVO - DISTRIBUIÇÃO DO TEMPO</em>
+*ANO LETIVO - DISTRIBUIÇÃO DO TEMPO*
 
-<strong>Art</strong>. 26. O ano escolar começará no primeiro dia útil da segunda quinzena de março e terminará a 15 de dezembro.
+**Art**. 26. O ano escolar começará no primeiro dia útil da segunda quinzena de março e terminará a 15 de dezembro.
 
 O ano letivo começará com o escolar e terminará a 14 de novembro.
 
 A segunda quinzena de novembro e a primeira quinzena de dezembro, destina-se aos exames e classificações.
 
-<strong>Art</strong>. 27. Haverá no fim do ano letivo, um acampamento, com a duração máxima de 8 dias, como coroamento de instrução.
+**Art**. 27. Haverá no fim do ano letivo, um acampamento, com a duração máxima de 8 dias, como coroamento de instrução.
 
-<strong>Art</strong>. 28. O início e encerramento dos trabalhos serão feitos com solenidade.
+**Art**. 28. O início e encerramento dos trabalhos serão feitos com solenidade.
 
-<strong>Art</strong>. 29. A distribuição do tempo necessário ao desenvolvimento do ensino e instrução cabe ao Diretor de Instrução estabelecer, em proposta que será submetida à aprovação do Comandante Geral.
+**Art**. 29. A distribuição do tempo necessário ao desenvolvimento do ensino e instrução cabe ao Diretor de Instrução estabelecer, em proposta que será submetida à aprovação do Comandante Geral.
 
-<strong>Art</strong>. 30. Haverá anualmente um período de férias joaninas, de 20 a 30 de junho.
+**Art**. 30. Haverá anualmente um período de férias joaninas, de 20 a 30 de junho.
 
-<strong>Art</strong>. 31. As sessões em sala, em princípio, serão divididas em tempos de duração de 50 minutos com intervalos entre um e outro e dez minutos para descanso.
+**Art**. 31. As sessões em sala, em princípio, serão divididas em tempos de duração de 50 minutos com intervalos entre um e outro e dez minutos para descanso.
 
 Parágrafo único. Todo assunto ministrado e a freqüência serão registrados em livro próprio pelos instrutores e professôres.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>FREQÜÊNCIA - DESLIGAMENTO</em>
+*FREQÜÊNCIA - DESLIGAMENTO*
 
-<strong>Art</strong>. 32. O curso de 3 anos, previsto no presente regulamento, não poderá se completada em prazo maior de 4 anos, sendo um dêles considerados de tolerância.
+**Art**. 32. O curso de 3 anos, previsto no presente regulamento, não poderá se completada em prazo maior de 4 anos, sendo um dêles considerados de tolerância.
 
-<strong>Art</strong>. 33. São obrigatórias a freqüência e pontualidade dos alunos às aulas e à instrução. O comparecimento aos trabalhos escolares é considerado ato de serviço militar, por cujas faltas serão responsabilizados, os que as cometerem na forma prevista no R.D.
+**Art**. 33. São obrigatórias a freqüência e pontualidade dos alunos às aulas e à instrução. O comparecimento aos trabalhos escolares é considerado ato de serviço militar, por cujas faltas serão responsabilizados, os que as cometerem na forma prevista no R.D.
 
-<strong>Art</strong>. 34. Cabe ao chefe de turma (aluno designado pela DI), auxiliado pelos sub-chefes, verificar a presença dos alunos e comunicar as faltas ao instrutor ou professor que as lançará no registro de instrução como participação à Direção da Escola.
+**Art**. 34. Cabe ao chefe de turma (aluno designado pela DI), auxiliado pelos sub-chefes, verificar a presença dos alunos e comunicar as faltas ao instrutor ou professor que as lançará no registro de instrução como participação à Direção da Escola.
 
-<strong>Art</strong>. 35. Ao aluno que, por motivo justificado, faltar a uma ou mais aulas ou instrução será marcado um ponto por sessão, até o máximo de três por jornada.
+**Art**. 35. Ao aluno que, por motivo justificado, faltar a uma ou mais aulas ou instrução será marcado um ponto por sessão, até o máximo de três por jornada.
 
 Parágrafo único. Se a falta não fôr justificada, ser-lhe-ão marcados os pontos pelo dôbro independemente de ação disciplinar.
 
-<strong>Art</strong>. 36. Ao Diretor caberá justificar ou não as faltas dos alunos.
+**Art**. 36. Ao Diretor caberá justificar ou não as faltas dos alunos.
 
-<strong>Art</strong>. 37. Mensalmente, o Diretor determinará a publicação em Boletim do número de faltas dos alunos.
+**Art**. 37. Mensalmente, o Diretor determinará a publicação em Boletim do número de faltas dos alunos.
 
-<strong>Art</strong>. 38. O aluno que completar 60 (sessenta) pontos durante o ano letivo será desligado da Escola, por proposta do Diretor ao Comandante Geral.
+**Art**. 38. O aluno que completar 60 (sessenta) pontos durante o ano letivo será desligado da Escola, por proposta do Diretor ao Comandante Geral.
 
 § 1º Se as faltas resultarem de motivo de fôrça maior, o desligamento ficará suspenso a critério do Diretor e Comandante Geral.
 
 § 2º Constituem motivo de fôrça maior, moléstia grave adquirida em serviço ou acidente, comprovados em inspeção de saúde.
 
-<strong>Art</strong>. 39. Será também desligado o aluno que:
+**Art**. 39. Será também desligado o aluno que:
 
 a) cometer falta que o incapacite moralmente para exercício das funções de oficial;
 
@@ -594,43 +592,43 @@ e) por necessidade do serviço quando fôr determinado pelo Comando Geral;
 
 f) conduzir-se sem a devida decêencia quando em aula ou instrução.
 
-<strong>Art</strong>. 40. O aluno desligado depois de iniciado o ano letivo perderá o ano, e somente poderá ser rematriculado se o seu desligamento não foi por falta de aproveitamento.
+**Art**. 40. O aluno desligado depois de iniciado o ano letivo perderá o ano, e somente poderá ser rematriculado se o seu desligamento não foi por falta de aproveitamento.
 
-<strong>Art</strong>. 41. O aluno repetente, no caso de nova reprovação, será desligado da Escola.
+**Art**. 41. O aluno repetente, no caso de nova reprovação, será desligado da Escola.
 
-Parágrafo único. Não será considerado repetente, e somente nêstes casos, o aluno cuja matrícula foi trancada, em face do previsto na letra <em>b</em> do art, 43 (acidente ou moléstia em serviço) e na letra <em>e</em> do art. 39 (necessidade do serviço).
+Parágrafo único. Não será considerado repetente, e somente nêstes casos, o aluno cuja matrícula foi trancada, em face do previsto na letra *b* do art, 43 (acidente ou moléstia em serviço) e na letra *e* do art. 39 (necessidade do serviço).
 
-<strong>Art</strong>. 42. Qualquer desligamento só será feito por determinação do Comandante Geral e por proposta justificada do Diretor.
+**Art**. 42. Qualquer desligamento só será feito por determinação do Comandante Geral e por proposta justificada do Diretor.
 
 Parágrafo único. Os alunos desligados regressão aos Corpos com a graduação que tinham antes do seu ingresso na Escola de Formação de Oficiais ou como soldados caso não sejam graduados, excetuando-se os que tenham sido aprovados nos exames do 2º e 1º anos, que o serão na 1º vaga aberta, com os postos de 3.º sargentos e cabos, respectivamente.
 
-<strong>Art</strong>. 43. O trancamento de matrícula será concedido pelo Comandante Geral nos seguintes casos:
+**Art**. 43. O trancamento de matrícula será concedido pelo Comandante Geral nos seguintes casos:
 
 a) por motivo de moléstia comprovada com atestado de médico da Corporação e mediante requerimento do interessado.
 
 b) por motivo de acidente em serviço ou por moléstia adquirida em serviço, que obrigue a um afastamento dos trabalhos escolares por mais de 45 dias.
 
-<strong>Art</strong>. 44. Nos casos de desligamento ou trancamento de matrícula, pelos motivos especificados no art. 43, o aluno reingressará na Escola no ano seguinte independente de novo concurso de admissão, mediante requerimento e se satisfazer as condições exigidas nos exames médico e físico do Regulamento.
+**Art**. 44. Nos casos de desligamento ou trancamento de matrícula, pelos motivos especificados no art. 43, o aluno reingressará na Escola no ano seguinte independente de novo concurso de admissão, mediante requerimento e se satisfazer as condições exigidas nos exames médico e físico do Regulamento.
 
-§ 1º Não mais poderá reingressar na Escola o aluno que tiver o desligamento motivado pelas letras <em>a</em>, <em>b</em>, <em>d</em>, e <em>f</em> do artigo 39.
+§ 1º Não mais poderá reingressar na Escola o aluno que tiver o desligamento motivado pelas letras *a*, *b*, *d*, e *f* do artigo 39.
 
-§ 2º Quando o desligamento fôr de acôrdo com a letra <em>e</em>, do art, 39, caberá ao Comandante Geral conceder ou não nova matrícula em face dos motivos que deram lugar ao desligamento.
+§ 2º Quando o desligamento fôr de acôrdo com a letra *e*, do art, 39, caberá ao Comandante Geral conceder ou não nova matrícula em face dos motivos que deram lugar ao desligamento.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>VERIFICAÇÃO DO APROVEITAMENTO E EXAMES</em>
+*VERIFICAÇÃO DO APROVEITAMENTO E EXAMES*
 
-<strong>Art</strong>. 45. No intuito de aquilatar o grau de aproveitamento do aluno e sua dedicação ao trabalho, bem como o valor do ensino, serão realizados:
+**Art**. 45. No intuito de aquilatar o grau de aproveitamento do aluno e sua dedicação ao trabalho, bem como o valor do ensino, serão realizados:
 
 \- trabalhos correntes;
 
 \- exames finais.
 
-<strong>Art</strong>. 46. A escala dos graus do julgamento dos trabalhos e exames será de zero a dez, com aproximação até décimos.
+**Art**. 46. A escala dos graus do julgamento dos trabalhos e exames será de zero a dez, com aproximação até décimos.
 
 DOS TRABALHOS CORRENTES
 
-<strong>Art</strong>. 47. Os trabalhos correntes consistirão em:
+**Art**. 47. Os trabalhos correntes consistirão em:
 
 a) provas escritas, orais e gráficas;
 
@@ -644,11 +642,11 @@ b) argüições nas sessões e trabalhos em domicílio.
 
 § 4º o plano atual dos trabalhos deverão estar organizados pela Diretoria de Instrução dez dias antes da data de sua execução e no decorrer do ano letivo deverá haver no mínimo quatro provas (sabatinas) e três trabalhos em domicílio ou argüições por matéria.
 
-<strong>Art</strong>. 48. Cada aluno terá um grau de aproveitamento por trabalho realizado. Terá grau zero aquêle que faltar a qualquer prova, se não justificar perfeitamente a falta perante o Diretor e não realizar a prova em outra ocasião, dentro de 10 dias.
+**Art**. 48. Cada aluno terá um grau de aproveitamento por trabalho realizado. Terá grau zero aquêle que faltar a qualquer prova, se não justificar perfeitamente a falta perante o Diretor e não realizar a prova em outra ocasião, dentro de 10 dias.
 
 Parágrafo único. Os professôres e instrutores remeterão ao Sub-Diretor os graus de cada mês, dentro de um prazo de 10 dias, após a realização dos trabalhos, a fim de, aprovados serem publicados em Boletim Escolar.
 
-<strong>Art</strong>. 49. Além das provas acima referida, os alunos farão duas “provas práticas finais de comando” que constituirão do comando e emprego da esquerda (1º ano) do grupo de combate (2º ano) ou do pelotão (3º ano), ou frações análogas, numa situação simples de combate e serviço em campanha para a “instrução militar" e do emprego policial para a "instrução policial".
+**Art**. 49. Além das provas acima referida, os alunos farão duas “provas práticas finais de comando” que constituirão do comando e emprego da esquerda (1º ano) do grupo de combate (2º ano) ou do pelotão (3º ano), ou frações análogas, numa situação simples de combate e serviço em campanha para a “instrução militar" e do emprego policial para a "instrução policial".
 
 § 1º As duas provas serão, em princípio, realizadas no terreno por ocasião do acompanhamento de fim de ano e segundo estipulado no plano de instrução da DI, com julgamento expresso em graus para a instrução profissional e para a instrução militar.
 
@@ -660,7 +658,7 @@ Parágrafo único. Os professôres e instrutores remeterão ao Sub-Diretor os gr
 
 CONTA DE ANO
 
-<strong>Art</strong>. 50. Para cada matéria do ensino fundamental, para o conjunto dos ramos de instrução profissional ou para o conjunto de ramos de instrução militar a média aritmética dos graus obtidos nos trabalhos durante o período letivo constituirá a “conta de ano” respectiva.
+**Art**. 50. Para cada matéria do ensino fundamental, para o conjunto dos ramos de instrução profissional ou para o conjunto de ramos de instrução militar a média aritmética dos graus obtidos nos trabalhos durante o período letivo constituirá a “conta de ano” respectiva.
 
 § 1º O aluno que obtiver a conta de ano igual ou superior a 6 (seis) será considerado aprovado nessa matéria ou conjunto de assuntos.
 
@@ -668,13 +666,13 @@ CONTA DE ANO
 
 DOS EXAMES FINAIS
 
-<strong>Art</strong>. 51. Haverá somente uma época do exame, entre 15 de novembro e 14 de dezembro.
+**Art**. 51. Haverá somente uma época do exame, entre 15 de novembro e 14 de dezembro.
 
-<strong>Art</strong>. 52. O aluno só concorrerá a exames em cada matéria do ensino fundamental, na instrução profissional ou na instrução militar em que tiver conta de ano compreendida entre 3 e 5,999.
+**Art**. 52. O aluno só concorrerá a exames em cada matéria do ensino fundamental, na instrução profissional ou na instrução militar em que tiver conta de ano compreendida entre 3 e 5,999.
 
 Parágrafo único. É considerado reprovado, nas matérias fundamentais, na instrução profissional e na instrução militar, o aluno que obtiver a conta de ano inferior ao estipulado no presente artigo
 
-<strong>Art</strong>. 53. Os exames finais obedecerão às seguintes prescrições gerais:
+**Art**. 53. Os exames finais obedecerão às seguintes prescrições gerais:
 
 a) haverá exame final para cada matéria fundamental, para a instrução profissional e para a instrução militar;
 
@@ -688,13 +686,13 @@ e) o grau da prova escrita (ou gráfica) será a média aritmética dos graus at
 
 f) o aluno não poderá ser chamado a exame em mais de uma matéria ou grupo de instrução no mesmo dia.
 
-<strong>Art</strong>. 54. O grau de aprovação de fim de ano nas matérias fundamentais, na instrução profissional e na militar resultará da média aritmética: da conta do ano, do grau de prova escrita e do grau da prova prática de comando (quando fôr o caso).
+**Art**. 54. O grau de aprovação de fim de ano nas matérias fundamentais, na instrução profissional e na militar resultará da média aritmética: da conta do ano, do grau de prova escrita e do grau da prova prática de comando (quando fôr o caso).
 
 Parágrafo único. Será aprovado o aluno que obtiver média final igual ou superior a quatro e reprovado em caso contrário.
 
-<strong>Art</strong>. 55. Os instrutores chefes e professôres relacionarão, com antecedência, os assuntos principais e de destaque para os exames das matérias teóricas, da instrução profissional e militar, de acôrdo com as indicações do Sub-Diretor.
+**Art**. 55. Os instrutores chefes e professôres relacionarão, com antecedência, os assuntos principais e de destaque para os exames das matérias teóricas, da instrução profissional e militar, de acôrdo com as indicações do Sub-Diretor.
 
-<strong>Art</strong>. 56. As provas escritas obedecerão às seguintes disposições particulares:
+**Art**. 56. As provas escritas obedecerão às seguintes disposições particulares:
 
 a) com exceção do Desenho, haverá prova escrita para tôdas as matérias do ensino fundamental, para a instrução militar e para a instrução profissional;
 
@@ -702,33 +700,33 @@ b) as provas terão a duração mínima de 2 horas e máxima de 4 horas;
 
 c) as questões serão formuladas pela comissão examinadora, ouvido o professor ou instrutor correspondente, e versarão sôbre assunto constante da relação do art. 55;
 
-d) o Presidente da Comissão Examinadora estabelecerá o tempo para a resolução das questões propostas dentro do estabelecido na letra <em>b</em>, submetendo-o à aprovação do Sub-Diretor;
+d) o Presidente da Comissão Examinadora estabelecerá o tempo para a resolução das questões propostas dentro do estabelecido na letra *b*, submetendo-o à aprovação do Sub-Diretor;
 
 e) a autoria das provas será conservada em anonimato até a terminação do trabalho de julgamento, quando se procederá à identificação pelo Secretário da Escola;
 
-f) será considerado reprovado e sujeito à respectiva punição o aluno que infringir o disposto o disposto na letra <em>b</em> do art. 39;
+f) será considerado reprovado e sujeito à respectiva punição o aluno que infringir o disposto o disposto na letra *b* do art. 39;
 
 g) terminadas e recolhidas as provas, a comissão examinadora delas fará entrega à Secretaria, de onde só serão retiradas para a necessária correção, a qual será realizada em conjunto;
 
 h) as provas escritas de instrução profissional ou militar constarão duma 1ª parte sôbre assuntos técnicos básicos e duma 2ª parte sôbre assuntos de aplicação da instrução. Na 1ª parte, as proposições serão sob forma de questionário de caráter técnico individual. Na 2ª parte, o aluno resolverá uma situação tácita simples de emprêgo e utilização de unidade policial ou militar que lhe caberá chefiar ou comandar na execução de suas funções.
 
-<strong>Art</strong>. 57. Só será submetido às provas de exames de instrução profissional ou militar, o aluno já aprovado em tôdas as matérias do ensino fundamental.
+**Art**. 57. Só será submetido às provas de exames de instrução profissional ou militar, o aluno já aprovado em tôdas as matérias do ensino fundamental.
 
-<strong>Art</strong>. 58. Na instrução militar ou na instrução profissional, quaisquer que sejam os graus obtidos nas provas práticas finais de comando, de que trata o artigo 49 dêste Regulamento, serão computados no grau de aprovação de fim de ano, na forma do art. 54.
+**Art**. 58. Na instrução militar ou na instrução profissional, quaisquer que sejam os graus obtidos nas provas práticas finais de comando, de que trata o artigo 49 dêste Regulamento, serão computados no grau de aprovação de fim de ano, na forma do art. 54.
 
-<strong>Art</strong>. 59. O aluno que não comparecer a qualquer prova de exame será considerado reprovado. Entretanto, a juízo do Diretor de Instrução, nos casos de doença grave, acidente ou nojo, será submetido à mesma prova, desde que o possa fazer antes de terminar o ano escoar.
+**Art**. 59. O aluno que não comparecer a qualquer prova de exame será considerado reprovado. Entretanto, a juízo do Diretor de Instrução, nos casos de doença grave, acidente ou nojo, será submetido à mesma prova, desde que o possa fazer antes de terminar o ano escoar.
 
-<strong>Art</strong>. 60. Só será promovido ao ano seguinte o aluno aprovado em tôdas as matérias teóricas, no conjunto da instrução profissional e no conjunto da instrução militar.
+**Art**. 60. Só será promovido ao ano seguinte o aluno aprovado em tôdas as matérias teóricas, no conjunto da instrução profissional e no conjunto da instrução militar.
 
-<strong>Art</strong>. 61. O aluno repetente fica obrigado a freqüentar de novo tôdas as aulas do curso, bem como submeter-se a todos os trabalhos, como se ali viesse pela primeira vez.
+**Art**. 61. O aluno repetente fica obrigado a freqüentar de novo tôdas as aulas do curso, bem como submeter-se a todos os trabalhos, como se ali viesse pela primeira vez.
 
-<strong>Art</strong>. 62. Não será permitida a freqüência do ano seguinte com dependência de matérias ou instrução do ano anterior.
+**Art**. 62. Não será permitida a freqüência do ano seguinte com dependência de matérias ou instrução do ano anterior.
 
-<strong>Art</strong>. 63. O aluno aprovado em tôdas as matérias e na instrução policial e militar, do ano em que estiver matriculado, terá acesso ao ano seguinte, o que será publicado em Boletim Escolar.
+**Art**. 63. O aluno aprovado em tôdas as matérias e na instrução policial e militar, do ano em que estiver matriculado, terá acesso ao ano seguinte, o que será publicado em Boletim Escolar.
 
 CLASSIFICAÇÃO DO ANO E EM FINAIS DE CURSO
 
-<strong>Art</strong>. 64. Os alunos habilitados a promoção ao ano seguinte serão classificados por ordem de merecimento, avaliado pela média ponderada obtida pela soma dos graus:
+**Art**. 64. Os alunos habilitados a promoção ao ano seguinte serão classificados por ordem de merecimento, avaliado pela média ponderada obtida pela soma dos graus:
 
 a) da média aritmética dos graus de fim de ano das matérias fundamentais;
 
@@ -744,9 +742,9 @@ Os coeficientes são:
 
 \- média da Instrução Profissional...........................................................................................3
 
-<strong>Art</strong>. 65. Terminado o curso da Escola, haverá uma classificação final de curso, dada pela soma dos resultados de classificação no 1º , no 2º e no 3º anos, multiplicados, respectivamente, por 1, 2 e 3, e divididos por 6.
+**Art**. 65. Terminado o curso da Escola, haverá uma classificação final de curso, dada pela soma dos resultados de classificação no 1º , no 2º e no 3º anos, multiplicados, respectivamente, por 1, 2 e 3, e divididos por 6.
 
-<strong>Art</strong>. 66. Na classificação final de curso, caso haja empate, a precedência caberá:
+**Art**. 66. Na classificação final de curso, caso haja empate, a precedência caberá:
 
 a) ao que não tenha repetido o ano;
 
@@ -756,7 +754,7 @@ c) ao mais velho.
 
 Parágrafo único. Caso persista o empate, proceder-se-á a sorteio.
 
-<strong>Art</strong>. 67. Ao aluno classificado de acôrdo com o artigo 65 em primeiro lugar da turma por conclusão de curso da Escola, com grau oito ou superior, será conferido o prêmio “Duque de Caxias”.
+**Art**. 67. Ao aluno classificado de acôrdo com o artigo 65 em primeiro lugar da turma por conclusão de curso da Escola, com grau oito ou superior, será conferido o prêmio “Duque de Caxias”.
 
 Parágrafo único. O prêmio “Duque de Caxias”, consiste:
 
@@ -766,7 +764,7 @@ diâmetro 0,m030, espessura 0,m002, e terá gravada de um lado a efigie do Duque
 
 A fita e o barrete da medalha terão as côres verde-amarela.
 
-<strong>Art</strong>. 68. Ao terminarem o curso da Escola, os alunos serão declarados Aspirantes a Oficial e relacionados segundo a ordem decrescente de classificação final de curso.
+**Art**. 68. Ao terminarem o curso da Escola, os alunos serão declarados Aspirantes a Oficial e relacionados segundo a ordem decrescente de classificação final de curso.
 
 § 1º A declaração de Aspirantes a Oficial será publicada em boletim do Q.G.
 
@@ -774,19 +772,19 @@ A fita e o barrete da medalha terão as côres verde-amarela.
 
 “Recebendo a nomeação de Aspirante a Oficial da Policia Militar do Distrito Federal, assumo o compromisso de cumprir rigorosamente as ordens que me forem dadas pelas autoridades a que estiver subordinado; de respeitar os meus superiores hierárquicos; de tratar com afeição os camaradas e com bondade os subordinados; e de me dedicar inteiramente ao serviço da Pátria, cuja honra, integridade e instituições defenderei com o sacrifício da própria vida”.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS MATRÍCULAS</em>
+*DAS MATRÍCULAS*
 
-<strong>Art</strong>. 69. O ingresso na Escola de Formação de Oficiais se fará mediante concurso, devendo os candidatos possuir, pelos menos, o curso ginasial (1º ciclo do ensino secundário).
+**Art**. 69. O ingresso na Escola de Formação de Oficiais se fará mediante concurso, devendo os candidatos possuir, pelos menos, o curso ginasial (1º ciclo do ensino secundário).
 
 I - Da inscrição
 
-<strong>Art</strong>. 70. A inscrição para o concurso será feita:
+**Art**. 70. A inscrição para o concurso será feita:
 
 \- para as praças da Polícia e civis que satisfaçam a tôdas as exigências regulamentares, mediante petição dirigida ao Comandante Geral, a qual, acompanhada da documentação exigida, deverá dar entrada na Secretaria da Escola, de 1 a 31 de janeiro.
 
-<strong>Art</strong>. 71. Para a matricula na Escola o candidato deverá satisfazer as seguintes condições:
+**Art**. 71. Para a matricula na Escola o candidato deverá satisfazer as seguintes condições:
 
 a) ser brasileiro nato e solteiro;
 
@@ -806,11 +804,11 @@ f) apresentar certificado de aprovação nos exames de licença do curso ginasia
 
 g) pagar a taxa de inscrição de trinta cruzeiros (Cr$30,00) da qual ficam isentas as praças da Corporação.
 
-<strong>Art</strong>. 72. O requerimento de inscrição no concurso de admissão, contendo bem explícito o endereço do requerente, será acompanhado dos seguintes documentos:
+**Art**. 72. O requerimento de inscrição no concurso de admissão, contendo bem explícito o endereço do requerente, será acompanhado dos seguintes documentos:
 
 a) recibo de taxa de inscrição, paga na Intendência da D.I.;
 
-b) certidão de idade “verbo <em>ad</em> verbum” (de inteiro teor);
+b) certidão de idade “verbo *ad* verbum” (de inteiro teor);
 
 c) ficha individual;
 
@@ -830,13 +828,13 @@ i) quatro fotografias, sendo duas de frente e duas de perfil busto, cabeça desc
 
 § 2º A Escola divulgará, até 15 de fevereiro, a relação dos candidatos inscritos.
 
-<strong>Art</strong>. 73. Além dos requisitos citados, o candidato deve possuir a idoneidade moral necessária para ingressar no oficialato da Corporação, o que será verificado por uma comissão de oficiais designados pelo Comandante Geral, sendo o parecer da mesma dado em caráter reservado.
+**Art**. 73. Além dos requisitos citados, o candidato deve possuir a idoneidade moral necessária para ingressar no oficialato da Corporação, o que será verificado por uma comissão de oficiais designados pelo Comandante Geral, sendo o parecer da mesma dado em caráter reservado.
 
-<strong>Art</strong>. 74. Na Escola poderão ser matriculados praças das Polícias Militares do Estados e que preencham as condições estabelecidas nêste Regulamento e por solicitação dos respectivos Comandantes, sendo as matrículas independentes das vagas existentes para a Corporação e reguladas mediante entendimento prévio com as Polícias interessadas.
+**Art**. 74. Na Escola poderão ser matriculados praças das Polícias Militares do Estados e que preencham as condições estabelecidas nêste Regulamento e por solicitação dos respectivos Comandantes, sendo as matrículas independentes das vagas existentes para a Corporação e reguladas mediante entendimento prévio com as Polícias interessadas.
 
 II - Do concurso de admissão
 
-<strong>Art</strong>. 75. O concurso de admissão abrangerá:
+**Art**. 75. O concurso de admissão abrangerá:
 
 a) Exame médico;
 
@@ -850,9 +848,9 @@ Parágrafo único. Anualmente serão baixados pelo Comando Geral, as instruçõe
 
 Exame médico
 
-<strong>Art</strong>. 76. O exame médico será realizado no Serviço de Saúde da Corporação, sempre que possível, por uma junta composta de cinco membros; um oficial superior, presidente, um clínico, um cirurgião, um oftalmo-otorinolaringologista, um neuro-psiquiatra e um cirurgião dentista, como auxiliar.
+**Art**. 76. O exame médico será realizado no Serviço de Saúde da Corporação, sempre que possível, por uma junta composta de cinco membros; um oficial superior, presidente, um clínico, um cirurgião, um oftalmo-otorinolaringologista, um neuro-psiquiatra e um cirurgião dentista, como auxiliar.
 
-<strong>Art</strong>. 77. A Junta Médica procederá o exame de saúde de acôrdo com as disposições em vigor na Corporação; e dará o seu parecer sob a forma de “Apto” ou “Inapto”.
+**Art**. 77. A Junta Médica procederá o exame de saúde de acôrdo com as disposições em vigor na Corporação; e dará o seu parecer sob a forma de “Apto” ou “Inapto”.
 
 As decisões da Junta são irrecorríveis.
 
@@ -860,17 +858,17 @@ As decisões da Junta são irrecorríveis.
 
 Exame físico
 
-<strong>Art</strong>. 78. O exame físico será realizado no Departamento de Educação Física, a fim de selecionar os candidatos cujo vigor seja compatível com os trabalhos da Escola, o exercício das atividades policiais-militares e, futuramente, o desempenho das funções de oficial.
+**Art**. 78. O exame físico será realizado no Departamento de Educação Física, a fim de selecionar os candidatos cujo vigor seja compatível com os trabalhos da Escola, o exercício das atividades policiais-militares e, futuramente, o desempenho das funções de oficial.
 
-<strong>Art</strong>. 79. Para êsse fim, serão os candidatos submetidos às provas do 2º exame físico, constantes do Manual de Educação Física Militar - C-21-20, de acôrdo com as condições nêle estabelecidas.
+**Art**. 79. Para êsse fim, serão os candidatos submetidos às provas do 2º exame físico, constantes do Manual de Educação Física Militar - C-21-20, de acôrdo com as condições nêle estabelecidas.
 
 Parágrafo único. Será eliminado o candidato que, em qualquer prova, deixar de atingir os limites exigidos.
 
-<strong>Art</strong>. 80. Para o exame físico, realizado após o exame médico, será nomeada uma comissão constituída por oficiais especializados em educação física.
+**Art**. 80. Para o exame físico, realizado após o exame médico, será nomeada uma comissão constituída por oficiais especializados em educação física.
 
 Exame intelectual
 
-<strong>Art</strong>. 81. O exame intelectual realizar-se-à na 2ª quinzena do mês de fevereiro, constando das seguintes provas escritas:
+**Art**. 81. O exame intelectual realizar-se-à na 2ª quinzena do mês de fevereiro, constando das seguintes provas escritas:
 
 1ª Prova - Línguas - Português: redação de cêrca de trinta linhas e análise léxica e sintática de um período, de análise fácil; Francês e Inglês, tradução de um trecho de dez linhas, de redação corrente, não sendo permitido o uso de dicionário. Quatro questões, sendo 2 de Português e 1 de cada outra língua.
 
@@ -880,11 +878,11 @@ Exame intelectual
 
 Parágrafo único. Os assuntos para as questões serão, de preferência, correspondente a última série do Curso Ginasial.
 
-<strong>Art</strong>. 82. Para cada prova será designada uma Comissão Examinadora.
+**Art**. 82. Para cada prova será designada uma Comissão Examinadora.
 
-<strong>Art</strong>. 83. No julgamento das provas obeder-se-á ao seguinte:
+**Art**. 83. No julgamento das provas obeder-se-á ao seguinte:
 
-a) <em>\-</em> a autoria das provas escritas, em cada prova, será conservada em anonimato pela respectiva Comissão Examinadora;
+a) *\-* a autoria das provas escritas, em cada prova, será conservada em anonimato pela respectiva Comissão Examinadora;
 
 b) - as provas escritas terão a duração máxima de 2 horas;
 
@@ -894,9 +892,9 @@ d) - depois de julgados a Comissão Examinadora fará entrega das provas ao Subd
 
 e) - o grau de cada prova variará de 0 a 10, com aproximação até décimos.
 
-<strong>Art</strong>. 84. Poderão ser designados pelo Diretor para auxiliarem a fiscalização das provas, outros professôres ou instrutores da Escola.
+**Art**. 84. Poderão ser designados pelo Diretor para auxiliarem a fiscalização das provas, outros professôres ou instrutores da Escola.
 
-<strong>Art</strong>. 85. Será considerado reprovado no exame intelectual o candidato que:
+**Art**. 85. Será considerado reprovado no exame intelectual o candidato que:
 
 a) utilizar meios ilícitos para a solução das questões, assinar as provas ou nelas fizer sinais que possam ser tidos como meio de identificação;
 
@@ -908,55 +906,55 @@ d) obtiver grau inferior a 4 (quatro) em matemática, línguas e ciências natur
 
 e) deixar de comparecer aos locais, dias e horas marcadas para a realização das provas, ainda que por motivo de fôrça maior.
 
-<strong>Art</strong>. 86. O grau do exame intelectual será a média entre os graus das provas escritas.
+**Art**. 86. O grau do exame intelectual será a média entre os graus das provas escritas.
 
-<strong>Art</strong>. 87. A Secretaria fará a apuração final, classificando os candidatos aprovados segundo a ordem decrescente do exame intelectual e organizará uma relação, cuja publicidade será feita até o dia 10 de março.
+**Art**. 87. A Secretaria fará a apuração final, classificando os candidatos aprovados segundo a ordem decrescente do exame intelectual e organizará uma relação, cuja publicidade será feita até o dia 10 de março.
 
 Exame Psicotécnico
 
-<strong>Art</strong>. 88. O Exame Psicotécnico será realizado utilizando-se os tests conhecidos e já de uso corrente no meio militar. Cada candidato deverá ultrapassar a escala limite dos tests normais.
+**Art**. 88. O Exame Psicotécnico será realizado utilizando-se os tests conhecidos e já de uso corrente no meio militar. Cada candidato deverá ultrapassar a escala limite dos tests normais.
 
 III - Da Realização da Matrícula
 
-<strong>Art</strong>. 89. Uma vez satisfeitas as exigências dêste Regulamento, os candidatos serão matriculados no 1º ano da Escola, dentro do número de vagas determinado pelo Comandante Geral e pela ordem de merecimento intelectual obtido no exame de admissão.
+**Art**. 89. Uma vez satisfeitas as exigências dêste Regulamento, os candidatos serão matriculados no 1º ano da Escola, dentro do número de vagas determinado pelo Comandante Geral e pela ordem de merecimento intelectual obtido no exame de admissão.
 
 § 1º Em igualdade de condições terão preferência as praças da Corporação, em ordem hierárquica e de antiguidade; para os demais, a idade decidirá.
 
 § 2º No caso de se verificarem faltas para atingir o número de vagas fixado, a juízo do Comandante Geral, poderão ser admitidos, satisfeitas as exigências de inscrição e exames médicos, físico e psicotécnico, ex-alunos dos Colégio Militar e Escolas Preparatórias com o curso completo, Escola Militar, Escola de Aeronáutica e Escola Naval.
 
-<strong>Art</strong>. 90. A aprovação obtida no concurso de admissão só é valida para o ano em que o mesmo se realizar.
+**Art**. 90. A aprovação obtida no concurso de admissão só é valida para o ano em que o mesmo se realizar.
 
-<strong>Art</strong>. 91. Os candidatos extranhos à Corporação verificarão praça por ocasião da matrícula.
+**Art**. 91. Os candidatos extranhos à Corporação verificarão praça por ocasião da matrícula.
 
 Parágrafo único. A inclusão das praças, cabos ou sargentos, será na categoria de “aluno”, com prejuízo de suas graduações.
 
-<strong>Art</strong>. 92. Os candidatos deverão apresentar, na ocasião da matrícula, o enxoval complementar necessário ao seu vestuário.
+**Art**. 92. Os candidatos deverão apresentar, na ocasião da matrícula, o enxoval complementar necessário ao seu vestuário.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>Das atribuições e disciplina - Das penas e recompensas</em>
+*Das atribuições e disciplina - Das penas e recompensas*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DAS ATRIBUIÇÕES E DISCIPLINA</em>
+*DAS ATRIBUIÇÕES E DISCIPLINA*
 
-<strong>Art</strong>. 93. Os alunos da Escola, como praças de categoria especial, estão sujeitos ao que prescrevem os regulamentos para os alunos das Escolas de Formação de Oficiais congêneres (E.M., E.N. e E. Aé.).
+**Art**. 93. Os alunos da Escola, como praças de categoria especial, estão sujeitos ao que prescrevem os regulamentos para os alunos das Escolas de Formação de Oficiais congêneres (E.M., E.N. e E. Aé.).
 
 Parágrafo único. O seu graus hierárquico é colocado na escala logo abaixo do aspirante a oficial tendo entre si, o 3º ano precedência sôbre o 2º e êste, sôbre o 1º.
 
-<strong>Art</strong>. 94. Os alunos da Escola, como candidatos a futuros oficiais, deverão primar pela conduta quer no meio militar quer no meio civil e serem um exemplo de dedicação ao trabalho e à profissão.
+**Art**. 94. Os alunos da Escola, como candidatos a futuros oficiais, deverão primar pela conduta quer no meio militar quer no meio civil e serem um exemplo de dedicação ao trabalho e à profissão.
 
-<strong>Art</strong>. 95. Os alunos da Escola deverão andar impecavelmente fardados em qualquer ato da vida escolar, não se admitindo a mudança no plano de uniforme.
+**Art**. 95. Os alunos da Escola deverão andar impecavelmente fardados em qualquer ato da vida escolar, não se admitindo a mudança no plano de uniforme.
 
 § 1º Os alunos terão uniformes próprios fornecidos pela Corporação.
 
 § 2º Os alunos do 1º ano terão vencimentos de cabo; os do 2º de 3º sargento e os do 3º ano de 2º sargento.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DAS PENAS</em>
+*DAS PENAS*
 
-<strong>Art</strong>. 96. Além das penas disciplinares previstas nos regulamentos, os alunos da Escola ficam sujeitos a outras sanções, tais como:
+**Art**. 96. Além das penas disciplinares previstas nos regulamentos, os alunos da Escola ficam sujeitos a outras sanções, tais como:
 
 a) advertência particular;
 
@@ -966,17 +964,17 @@ c) retirada do aluno da aula on instrução, marcando-se em conseqüência ponto
 
 d) cancelamento do licenciamento de saída.
 
-§ 1º As sanções previstas nas letras <em>a</em>, <em>b</em>, e <em>c</em> do art. 96, poderão ser feitas pelo Diretor, Sub-Diretor, Instrutores Chefes, Instrutores, Auxiliares e Professôres.
+§ 1º As sanções previstas nas letras *a*, *b*, e *c* do art. 96, poderão ser feitas pelo Diretor, Sub-Diretor, Instrutores Chefes, Instrutores, Auxiliares e Professôres.
 
 § 2º As prisões serão cumpridas nos Corpos de Tropa.
 
-<strong>Art</strong>. 97. Qualquer aluno que passe para a conduto “sofrível” será desligado da Escola.
+**Art**. 97. Qualquer aluno que passe para a conduto “sofrível” será desligado da Escola.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DAS RECOMPENSAS</em>
+*DAS RECOMPENSAS*
 
-<strong>Art</strong>. 98. Aos alunos da Escola, poderão ser conferidas as seguintes recompensas:
+**Art**. 98. Aos alunos da Escola, poderão ser conferidas as seguintes recompensas:
 
 a) louvor verbal feito pelo Diretor, Sub-Diretor, Instrutores Chefes, Instrutores, Auxiliares e Professôres, perante a turma;
 
@@ -990,15 +988,15 @@ e) recebimento do prêmio “Duque de Caxias” de que trata o art. 67, dêste R
 
 f) férias de fim de ano.
 
-<strong>Art</strong>. 99. Haverá aos sábados saída, para os alunos que por qualquer motivo não estiverem impedidos, devendo os mesmos regressar à Escola, até às 24 horas de domingo.
+**Art**. 99. Haverá aos sábados saída, para os alunos que por qualquer motivo não estiverem impedidos, devendo os mesmos regressar à Escola, até às 24 horas de domingo.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>REPARTIÇÕES INTERNAS</em>
+*REPARTIÇÕES INTERNAS*
 
-<strong>Art</strong>. 100. Repartições internas são órgãos de execução dos serviços escolares, organizados a fim de assegurar a divisão racional do trabalho, a cooperação com a Direção de Ensino, e a perfeita e contínua regularidade no desenvolvimento das atividades escolares.
+**Art**. 100. Repartições internas são órgãos de execução dos serviços escolares, organizados a fim de assegurar a divisão racional do trabalho, a cooperação com a Direção de Ensino, e a perfeita e contínua regularidade no desenvolvimento das atividades escolares.
 
 Constituem Repartições Internas:
 
@@ -1024,11 +1022,11 @@ h) Intendência.
 
 § 3º Caberá ao Diretor de Instrução de Corporação harmonizar as disposições deste regulamento com o da DI.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>SEÇÃO DE INSTRUÇÃO</em>
+*SEÇÃO DE INSTRUÇÃO*
 
-<strong>Art</strong>. 101. A Seção de Instruções (S3) é o órgão técnico - didático da Direção do Ensino incumbido da preparação de todos os documentos e estudos referentes à instrução, da apuração dos resultados obtidos, do planejamento e da organização das atividades do ensino escolar.
+**Art**. 101. A Seção de Instruções (S3) é o órgão técnico - didático da Direção do Ensino incumbido da preparação de todos os documentos e estudos referentes à instrução, da apuração dos resultados obtidos, do planejamento e da organização das atividades do ensino escolar.
 
 Parágrafo único. A Seção tem os seguintes encargos:
 
@@ -1044,7 +1042,7 @@ Parágrafo único. A Seção tem os seguintes encargos:
 
 \- impressão de notas e provas de aula.
 
-<strong>Art</strong>. 102. A Seção, subordinada ao Sub-Diretor, será dirigida pelo Capitão Adjunto que o auxiliará nos encargos do ensino, segundo as instruções que receber.
+**Art**. 102. A Seção, subordinada ao Sub-Diretor, será dirigida pelo Capitão Adjunto que o auxiliará nos encargos do ensino, segundo as instruções que receber.
 
 § 1º Cumpre ao Chefe da Seção:
 
@@ -1064,9 +1062,9 @@ g) regular, de acôrdo os encarregados respectivos, a utilização das áreas de
 
 § 2º O Adjunto, chefe da S/3, deverá possuir o C.A.O.
 
-<strong>Art</strong>. 103. O Tenente adjunto será o auxiliar imediato do Chefe da S/3 e terá a seu cargo a direção da Sala de Meios Auxiliares.
+**Art**. 103. O Tenente adjunto será o auxiliar imediato do Chefe da S/3 e terá a seu cargo a direção da Sala de Meios Auxiliares.
 
-<strong>Art</strong>. 104. O arquivo técnico-didático, órgão da S/3, tem por finalidade:
+**Art**. 104. O arquivo técnico-didático, órgão da S/3, tem por finalidade:
 
 a) guarda dos documentos relativos à história, ao estudos atual dos métodos e da técnica do ensino, e aos problemas de sua organização;
 
@@ -1076,17 +1074,17 @@ c) guarda de publicações (Lei, Decreto, Regulamento, Avisos e outras) que cons
 
 d) guarda dos dados estatísticos da Escola.
 
-<strong>Art</strong>. 105. Sala de Meios Auxiliares de Instrução, sob a responsabilidade do Tenente Adjunto ou de um oficial designado seu encarregado, destina-se ao preparo das ajudas visuais de instrução em geral, dentro de moldes pedagógicos modernos. Constituem seus encargos a preparação dos meios auxiliares em geral, as aquisições e representações de livros, a distribuição de utensílios e artifícios e a manutenção de uma mapoteca. Além disso, disporá de aparelhos de cinematografia e equipamento sonoro para fins didáticos e educativos.
+**Art**. 105. Sala de Meios Auxiliares de Instrução, sob a responsabilidade do Tenente Adjunto ou de um oficial designado seu encarregado, destina-se ao preparo das ajudas visuais de instrução em geral, dentro de moldes pedagógicos modernos. Constituem seus encargos a preparação dos meios auxiliares em geral, as aquisições e representações de livros, a distribuição de utensílios e artifícios e a manutenção de uma mapoteca. Além disso, disporá de aparelhos de cinematografia e equipamento sonoro para fins didáticos e educativos.
 
 Parágrafo único. O seu funcionamento será regulado em instrução da DI.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA SECRETARIA</em>
+*DA SECRETARIA*
 
-<strong>Art</strong>. 106. A Secretaria compreende as praças que exercem as suas funções segundo as normas do R.I.S.G., dêste Regulamento e as prescrições determinadas pelo Secretário que dirige.
+**Art**. 106. A Secretaria compreende as praças que exercem as suas funções segundo as normas do R.I.S.G., dêste Regulamento e as prescrições determinadas pelo Secretário que dirige.
 
-<strong>Art</strong>. 107. O Arquivo Geral da Escola, parte integrante da Secretaria, destinado a guardar e conservar todos os livros, documentos escolares de demais papéis que não sejam de emprego quotidiano, fica sob a responsabilidade direta de um sargento ou graduado, a quem incumbe:
+**Art**. 107. O Arquivo Geral da Escola, parte integrante da Secretaria, destinado a guardar e conservar todos os livros, documentos escolares de demais papéis que não sejam de emprego quotidiano, fica sob a responsabilidade direta de um sargento ou graduado, a quem incumbe:
 
 a) organizar e manter em dia o fichário de todos os documentos, livros e demais papéis, arquivados;
 
@@ -1096,66 +1094,66 @@ c) impedir a retirada de documentos, livros e demais papéis arquivados, salvo q
 
 CASA DAS ORDENS
 
-<strong>Art</strong>. 108. A Casa das Ordens compreende o pessoal de dependências constante dêste e dos demais regulamentos, necessários ao desempenho das atribuições de ajudante dos corpos de tropa.
+**Art**. 108. A Casa das Ordens compreende o pessoal de dependências constante dêste e dos demais regulamentos, necessários ao desempenho das atribuições de ajudante dos corpos de tropa.
 
 BIBLIOTECA
 
-<strong>Art</strong>. 109. A Biblioteca Escolar, sob a responsabilidade do Secretário ou outro oficial designado seu encarregado, destina-se a facilitar consultas, informações e estudos indispensáveis aos professôres, instrutores e alunos na forma do RG.
+**Art**. 109. A Biblioteca Escolar, sob a responsabilidade do Secretário ou outro oficial designado seu encarregado, destina-se a facilitar consultas, informações e estudos indispensáveis aos professôres, instrutores e alunos na forma do RG.
 
 DEPENDÊNCIAS COMPLEMENTARES
 
-<strong>Art</strong>. 110. As dependências complementares destinam-se a facilitar o ensino ou a instrução correspondente dos assuntos com que se relacionam. Compreendem salas de aula, salas para conferências, projeções fixas e cinematográficas, sala de desenho, sala de transmissões, praça de desportos e outras dependências indispensáveis ao bom rendimento do ensino e da instrução.
+**Art**. 110. As dependências complementares destinam-se a facilitar o ensino ou a instrução correspondente dos assuntos com que se relacionam. Compreendem salas de aula, salas para conferências, projeções fixas e cinematográficas, sala de desenho, sala de transmissões, praça de desportos e outras dependências indispensáveis ao bom rendimento do ensino e da instrução.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>COMPANHIA DE ALUNOS</em>
+*COMPANHIA DE ALUNOS*
 
-<strong>Art</strong>. 111. Os alunos matriculados na Escola de formação de Oficiais constituirão a Companhia de Alunos.
+**Art**. 111. Os alunos matriculados na Escola de formação de Oficiais constituirão a Companhia de Alunos.
 
-<strong>Art</strong>. 112. A vida disciplinar escolar dos alunos, com exceção de quando em trabalhos relativos ao ensino e instrução, processar-se-á dentro da Companhia de Alunos, sob a assistência e responsabilidade de seu comandante, coadjuvado pelos auxiliares de instrutores.
+**Art**. 112. A vida disciplinar escolar dos alunos, com exceção de quando em trabalhos relativos ao ensino e instrução, processar-se-á dentro da Companhia de Alunos, sob a assistência e responsabilidade de seu comandante, coadjuvado pelos auxiliares de instrutores.
 
-<strong>Art</strong>. 113. A Companhia de Alunos será organizada como Infantaria, em efetivo variável, com os meios de pessoal e material, postos à disposição da Escola.
+**Art**. 113. A Companhia de Alunos será organizada como Infantaria, em efetivo variável, com os meios de pessoal e material, postos à disposição da Escola.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DOS SERVIÇOS</em>
+*DOS SERVIÇOS*
 
-<strong>Art</strong>. 114. A vida administrativa da Escola será dirigida, segundo os regulamentos em vigor, pelo Diretor, coadjuvado por um oficial de polícia, seu auxiliar imediato na administração que será o principal responsável pela perfeita observância de tôdas as disposições regulamentares relativas aos ramos de fundos, suprimentos e transportes.
+**Art**. 114. A vida administrativa da Escola será dirigida, segundo os regulamentos em vigor, pelo Diretor, coadjuvado por um oficial de polícia, seu auxiliar imediato na administração que será o principal responsável pela perfeita observância de tôdas as disposições regulamentares relativas aos ramos de fundos, suprimentos e transportes.
 
 Parágrafo único. Enquanto não fôr especificado no regulamento da DI, exercerá a função de auxiliar, referido neste artigo, o Comandante da Companhia de Alunos.
 
-<strong>Art</strong>. 115. Para execução dos Serviços, a Escola disporá do pessoal de órgãos constantes dêste e outros regulamentos.
+**Art**. 115. Para execução dos Serviços, a Escola disporá do pessoal de órgãos constantes dêste e outros regulamentos.
 
 INTENDÊNCIA
 
-<strong>Art</strong>. 116. A Intendência da Escola é um órgão de execução dos serviços de fundos, suprimentos e transportes, com os encargos constantes dêste e demais regulamentos no que se refere à Intendência dos Corpos de Tropa.
+**Art**. 116. A Intendência da Escola é um órgão de execução dos serviços de fundos, suprimentos e transportes, com os encargos constantes dêste e demais regulamentos no que se refere à Intendência dos Corpos de Tropa.
 
 SERVIÇO DE SAÚDE
 
-<strong>Art</strong>. 117. O Serviço de Saúde da Escola será mantido pela Seção de Medicina Especializada do D.E.F.
+**Art**. 117. O Serviço de Saúde da Escola será mantido pela Seção de Medicina Especializada do D.E.F.
 
-<strong>TÍTULO VII</strong>
+**TÍTULO VII**
 
-<em>Disposições gerais</em>
+*Disposições gerais*
 
-<strong>Art</strong>. 118. O Ministro da Justiça poderá determinar, sempre que a experiência de execução do presente Regulamento aconselhar, modificações que, sem alterarem sua estrutura geral e comportar aumento de despesas, visem adaptar suas disposições a um melhor rendimento do ensino, mediante proposta justificada do Comandante Geral.
+**Art**. 118. O Ministro da Justiça poderá determinar, sempre que a experiência de execução do presente Regulamento aconselhar, modificações que, sem alterarem sua estrutura geral e comportar aumento de despesas, visem adaptar suas disposições a um melhor rendimento do ensino, mediante proposta justificada do Comandante Geral.
 
-<strong>Art</strong>. 119. A Escola de Formação de Oficiais possuirá um Estandarte, símbolo da mesma, que será conduzido em tôdas as formaturas de caráter solene.
+**Art**. 119. A Escola de Formação de Oficiais possuirá um Estandarte, símbolo da mesma, que será conduzido em tôdas as formaturas de caráter solene.
 
 Parágrafo único. O Estandarte será conduzido - como grande honra - pelo aluno do 3º ano que tenha obtido melhor média nos 1º e 2º anos.
 
-<strong>Art</strong>. 120. Terminado o ano escolar, antes da declaração de aspirante a oficial, o aluno detentor da melhor classificação nos 1º e 2º anos, receberá com solenidade aquêle Estandarte.
+**Art**. 120. Terminado o ano escolar, antes da declaração de aspirante a oficial, o aluno detentor da melhor classificação nos 1º e 2º anos, receberá com solenidade aquêle Estandarte.
 
-<strong>TÍTULO VIII</strong>
+**TÍTULO VIII**
 
-<em>Disposições transitórias</em>
+*Disposições transitórias*
 
-<strong>Art</strong>. 121. As praças com mais de um ano de serviço que não possuírem o curso ginasial completo mas tenham conhecimento equivalentes, que não possuírem os requisitos de idade e estado civil, mas tenham citações especiais de destaque em ação policial ou funcional, poderão em 1951 concorrer aos exames para matrícula, desde que satisfaçam as demais exigências.
+**Art**. 121. As praças com mais de um ano de serviço que não possuírem o curso ginasial completo mas tenham conhecimento equivalentes, que não possuírem os requisitos de idade e estado civil, mas tenham citações especiais de destaque em ação policial ou funcional, poderão em 1951 concorrer aos exames para matrícula, desde que satisfaçam as demais exigências.
 
 Parágrafo único. Ao Comandante Geral caberá estabelecer a tolerância dos requisitos acima, face ao requerimento de cada candidato.
 
-<strong>Art</strong>. 122. O presente regulamento entrará em vigor a partir da data da sua publicação, revogando-se as disposições em contrário.
+**Art**. 122. O presente regulamento entrará em vigor a partir da data da sua publicação, revogando-se as disposições em contrário.
 
 Rio de Janeiro, 19 de março de 1951.
 
-<strong>FRANCISCO NEGRÃO DE LIMA</strong>
+**FRANCISCO NEGRÃO DE LIMA**

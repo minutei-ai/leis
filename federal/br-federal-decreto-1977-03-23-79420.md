@@ -1,5 +1,3 @@
-###DEC-079420-0-000-23-03-1977@@@
-
 Decreto nº 79.420, de 23 de março de 1977.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Pará.

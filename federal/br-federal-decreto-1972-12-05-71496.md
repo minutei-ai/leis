@@ -1,5 +1,3 @@
-###DEC-071496-0-000-05-12-1972@@@
-
 DECRETO Nº 71.496 - DE 5 DE DEZEMBRO DE 1972
 
 Autoriza cessão, sob a forma de utilização gratuita, de terreno que menciona, situado em Pouso Alegre, no Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-060771-0-000-30-05-1967@@@
-
 DECRETO Nº 60.771, DE 30 DE MAIO DE 1967.
 
 Autoriza funcionamento de Curso na Faculdade de Filosofia, Ciências e Letras de Uberlândia – Minas Gerais.

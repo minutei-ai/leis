@@ -1,5 +1,3 @@
-###DEC-083601-0-000-18-06-1979@@@
-
 Decreto nº 83.601 de 18 de junho de 1979.
 
 Cria o Centro de Instrução "Almirante Cunha Moreira" (CIACM) e dá outras providências.

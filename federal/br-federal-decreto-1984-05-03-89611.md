@@ -1,5 +1,3 @@
-###DEC-089611-0-000-03-05-1984@@@
-
 DECRETO Nº 89.611, DE 03 DE MAIO DE 1984
 
 Cassa a concessão outorgada à RÁDIO JORNAL ILUSTRADO LTDA., para executar, serviços de radiodifusão sonora em onda média, na cidade de Uruguaiana, Estado do Rio Grande do Sul.

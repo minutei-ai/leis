@@ -1,5 +1,3 @@
-###DEC-061186-0-000-21-08-1967@@@
-
 DECRETO Nº 61.186, DE 21 DE AGÔSTO de 1967.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, a área de terreno que especifica, no município de Icó, Estado do Ceará.

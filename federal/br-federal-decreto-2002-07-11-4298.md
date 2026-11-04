@@ -1,5 +1,3 @@
-###DEC-004298-0-000-11-07-2002@@@
-
 DECRETO Nº 4.298, DE 11 DE JULHO DE 2002
 
 Dispõe sobre a atuação dos órgãos e entidades da Administração Pública Federal durante o processo de transição governamental.

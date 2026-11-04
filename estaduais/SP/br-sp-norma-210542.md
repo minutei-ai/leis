@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210542)<br>
-
 # DECRETO N° 69.314, DE 16 DE JANEIRO DE 2025
 
 ### _Introduz alterações no Decreto n° 51.597, de 23 de fevereiro de 2007, que institui regime especial de tributação pelo Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS para contribuintes que tenham como atividade o fornecimento de alimentação._

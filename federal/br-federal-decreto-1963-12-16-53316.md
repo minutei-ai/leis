@@ -1,5 +1,3 @@
-###DEC-053316-0-000-16-12-1963@@@
-
 DECRETO Nº 53.316, DE 16 DE DEZEMBRO DE 1963.
 
 Aprova o Plano Preferencial de Obras do Departamento Nacional de Obras Contras as Sêcas do Plano Trienal do Desenvolvimento Econômico e Social e Normas Especiais para a sua execução.

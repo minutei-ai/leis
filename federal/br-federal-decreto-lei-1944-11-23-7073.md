@@ -1,5 +1,3 @@
-###DEL-007073-0-000-23-11-1944@@@
-
 DECRETO-LEI  N. 7.073 – DE 23 DE NOVEMBRO DE 1944
 
 Estende as medidas constantes do Decreto-lei n. 893, de 26 de novembro de 1938, aos terrenos situados em Jacarepaguá, Distrito Federal, de que trata o Decreto-lei n. 5.877, de 4 de outubro de 1943

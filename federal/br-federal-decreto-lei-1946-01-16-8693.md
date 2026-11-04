@@ -1,5 +1,3 @@
-###DEL-008693-0-000-16-01-1946@@@
-
 DECRETO-LEI N. 8.693 – DE 16 DE JANEIRO DE 1946
 
 Autoriza o Ministério da Agricultura a contratar, com a Fabrica Nacional de Motores, o fornecimento de tratores agrícolas, e dá outras providências.

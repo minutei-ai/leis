@@ -70,4 +70,26 @@ Secretário da Saúde
 
 ANEXO ÚNICO
 
-<table style="border-collapse: collapse; mso-padding-alt: 0cm 0cm 0cm 0cm;" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 62.25pt; border: solid black 1.0pt; border-right: none; mso-border-top-alt: solid black .25pt; mso-border-left-alt: solid black .25pt; mso-border-bottom-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm; height: 25.5pt;" valign="top" width="83"><p class="Tabela-Texto">CÓD. SIMOV</p></td><td style="width: 120.2pt; border: solid black 1.0pt; border-right: none; mso-border-top-alt: solid black .25pt; mso-border-left-alt: solid black .25pt; mso-border-bottom-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm; height: 25.5pt;" valign="top" width="160"><p class="Tabela-Texto">DESCRIÇÃO DO IMÓVEL</p></td><td style="width: 172.4pt; border: solid black 1.0pt; border-right: none; mso-border-top-alt: solid black .25pt; mso-border-left-alt: solid black .25pt; mso-border-bottom-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm; height: 25.5pt;" valign="top" width="230"><p class="Tabela-Texto">ENDEREÇO</p></td><td style="width: 144.7pt; border: solid black 1.0pt; mso-border-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm; height: 25.5pt;" valign="top" width="193"><p class="Tabela-Texto">MUNICÍPIO</p></td></tr><tr><td style="width: 62.25pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; mso-border-top-alt: solid black .25pt; mso-border-left-alt: solid black .25pt; mso-border-bottom-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm; height: 25.5pt;" valign="top" width="83"><p class="Tabela-Texto">5793</p></td><td style="width: 120.2pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; mso-border-top-alt: solid black .25pt; mso-border-left-alt: solid black .25pt; mso-border-bottom-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm; height: 25.5pt;" valign="top" width="160"><p class="Tabela-Texto">TERRENO</p></td><td style="width: 172.4pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; mso-border-top-alt: solid black .25pt; mso-border-left-alt: solid black .25pt; mso-border-bottom-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm; height: 25.5pt;" valign="top" width="230"><p class="Tabela-Texto">FAZENDA BELA VISTA, S/Nº</p></td><td style="width: 144.7pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .25pt; mso-border-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm; height: 25.5pt;" valign="top" width="193"><p class="Tabela-Texto">BOM JESUS DA SERRA</p></td></tr><tr><td style="width: 62.25pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; mso-border-top-alt: solid black .25pt; mso-border-left-alt: solid black .25pt; mso-border-bottom-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm; height: 25.5pt;" valign="top" width="83"><p class="Tabela-Texto">5809</p></td><td style="width: 120.2pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; mso-border-top-alt: solid black .25pt; mso-border-left-alt: solid black .25pt; mso-border-bottom-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm; height: 25.5pt;" valign="top" width="160"><p class="Tabela-Texto">TERRENO</p></td><td style="width: 172.4pt; border-top: none; border-left: solid black 1.0pt; border-bottom: solid black 1.0pt; border-right: none; mso-border-top-alt: solid black .25pt; mso-border-left-alt: solid black .25pt; mso-border-bottom-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm; height: 25.5pt;" valign="top" width="230"><p class="Tabela-Texto">DISTRITO DE ALEGRE</p></td><td style="width: 144.7pt; border: solid black 1.0pt; border-top: none; mso-border-top-alt: solid black .25pt; mso-border-alt: solid black .25pt; padding: 0cm 0cm 0cm 0cm; height: 25.5pt;" valign="top" width="193"><p class="Tabela-Texto">CAETANOS</p></td></tr></tbody></table>
+CÓD. SIMOV
+
+DESCRIÇÃO DO IMÓVEL
+
+ENDEREÇO
+
+MUNICÍPIO
+
+5793
+
+TERRENO
+
+FAZENDA BELA VISTA, S/Nº
+
+BOM JESUS DA SERRA
+
+5809
+
+TERRENO
+
+DISTRITO DE ALEGRE
+
+CAETANOS

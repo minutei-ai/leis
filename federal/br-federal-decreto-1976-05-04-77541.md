@@ -1,5 +1,3 @@
-###DEC-077541-0-000-04-05-1976@@@
-
 DECRETO Nº 77.541, DE 04 DE MAIO DE 1976
 
 Concede reconhecimento ao curso de Letras, da Faculdade de Filosofia, Ciências e Letras de Governador Valadares, Estado de Minas Gerais.

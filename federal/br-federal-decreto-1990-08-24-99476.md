@@ -1,7 +1,3 @@
-1
-
-###DEC-099476-0-000-24-08-1990@@@
-
 DECRETO N° 99.476, DE 24 DE AGOSTO DE 1990
 
 Simplifica o cumprimento de exigência de prova de quitação de tributos e contribuições federais e outras imposições pecuniárias compulsórias.

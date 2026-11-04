@@ -1,5 +1,3 @@
-###DEC-057046-0-000-11-10-1965@@@
-
 DECRETO Nº 57.046, DE 11 DE OUTUBRO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, no Estado da Guanabara, e dá outras providências.

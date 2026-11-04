@@ -1,5 +1,3 @@
-###DEC-076559-0-000-06-11-1975@@@
-
 Decreto nº 76.559, de 6 de NOVEMBRO DE 1975.
 
 Concede à Mineração Rio do Norte S.A, o direito de lavrar bauxita no Município de Oriximiná, Estado do Pará.

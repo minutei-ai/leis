@@ -1,5 +1,3 @@
-###DEC-048506-0-000-11-07-1960@@@
-
 decreto nº 48.506, de 11 de julho de 1960.
 
 Transfere, sem aumento de despesa, função da Tabela Numérica Especial de Extranumerário-Mensalista do Ministério da Agricultura, que menciona.

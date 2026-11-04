@@ -1,5 +1,3 @@
-###DEL-000090-0-000-21-12-1937@@@
-
 DECRETO-LEI N. 90 – DE 21 DE DEZEMBRO DE 1937
 
 Abre, pelo Ministério da Justiça, o crédito suplementar de 4:950$000, para pagamento ao procurador regional eleitoral do Estado do Rio de Janeiro

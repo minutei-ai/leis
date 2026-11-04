@@ -1,5 +1,3 @@
-###DEC-047235-0-000-16-11-1959@@@
-
 DECRETO Nº 47.235, DE 16 DE NOVEMBRO DE 1959.
 
 Autoriza Babcock & Wilcox (Caldeiras) S.A., a instalar um grupo diesel elétrico.
@@ -35,8 +33,6 @@ Rio de Janeiro, 16 de novembro de 1957; 138º da Independência e 71º da Repúb
 JUSCELINO KUBITSCHEK
 
 Mário Meneghetti
-
-###DEC-047235-0-000-16-11-1959@@@RET01+++
 
 Decreto nº 47.235, de 16 de novembro de 1959.
 

@@ -1,5 +1,3 @@
-###DEC-092530-0-000-09-04-1986@@@
-
 DECRETO Nº 92.530, DE 9 DE ABRIL DE 1986
 
 Regulamenta a Lei nº 7.410, de 27 de novembro de 1985, que dispõe sobre a especialização de Engenheiros e Arquitetos em Engenharia de Segurança do Trabalho, a profissão de Técnico de Segurança do Trabalho e dá outras providências.

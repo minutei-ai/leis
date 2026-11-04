@@ -1,5 +1,3 @@
-###DEC-090475-0-000-08-11-1984@@@
-
 Decreto nº 90.475, de 08 de novembro de 1984
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro; Niterói, Estado do Rio de Janeiro; Recife, Estado de Pernambuco; Santos, São Vicente, Guarujá e Praia Grande, Estado de São Paulo.

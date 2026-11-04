@@ -1,5 +1,3 @@
-###DEC-046928-0-000-30-09-1959@@@
-
 DECRETO Nº 46.928, DE 30 DE SETEMBRO DE 1959.
 
 Dá nova organização à Comissão Construtora das Obras e Instalações da Usina Termelétrica de Candiota, criada pelo Decreto número 34.890, de 4 de janeiro de 1954.

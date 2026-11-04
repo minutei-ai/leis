@@ -1,5 +1,3 @@
-###DEC-077635-0-000-19-05-1976@@@
-
 DECRETO Nº 77.635, DE 19 DE MAIO DE 1976
 
 Concede autorização à MFS Southeast Fisheries Center para realizar, no mar territorial do Brasil, os serviços que especifica.

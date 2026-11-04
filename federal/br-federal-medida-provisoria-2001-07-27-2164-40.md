@@ -1,5 +1,3 @@
-###MPV-002164-0-040-27-07-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.164-40, DE 27 DE JULHO DE 2001.
 
 Altera a Consolidação das Leis do Trabalho - CLT, para dispor sobre o trabalho a tempo parcial, a suspensão do contrato de trabalho e o programa de qualificação profissional, modifica as Leis nos 4.923, de 23 de dezembro de 1965, 5.889, de 8 de junho de 1973, 6.321, de 14 de abril de 1976, 6.494, de 7 de dezembro de 1977, 7.998, de 11 de janeiro de 1990,  8.036, de 11 de maio de 1990,  e 9.601, de 21 de janeiro de 1998, e dá outras pro­vidências

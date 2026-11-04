@@ -1,5 +1,3 @@
-###DEC-067138-0-000-03-09-1970@@@
-
 decreto nº 67.138, de 3 de setembro de 1970.
 
 Declara caduco o Decreto nº 12.264, de 14 de abril de 1943.

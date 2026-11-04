@@ -1,5 +1,3 @@
-###DEC-083187-0-000-19-02-1979@@@
-
 Decreto nº 83.187, de 19 dE fevereirO de 1979
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pela Companhia de Desenvolvimento do Vale do São Francisco - CODEVASF, área de terra necessária à complementação da implantação do Projeto de Irrigação do Vale do Gorutuba, nos municípios de Janaúba e Porteirinha, no Estado de Minas Gerais.

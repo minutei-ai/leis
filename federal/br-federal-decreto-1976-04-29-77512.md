@@ -1,5 +1,3 @@
-###DEC-077512-0-000-29-04-1976@@@
-
 decreto nº 77.512 - de 29 de abril de 1976
 
 Declara a caducidade do Manifesto de Mina que menciona.

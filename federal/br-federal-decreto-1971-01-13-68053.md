@@ -1,5 +1,3 @@
-###DEC-068053-0-000-13-01-1971@@@
-
 DECRETO Nº 68.053, DE 13 DE JANEIRO DE 1971.
 
 Regulamenta o Regime de Entreposto Aduaneiro previsto no Capítulo IV do Decreto nº 37, de 18 de novembro de 1966.

@@ -1,5 +1,3 @@
-###DEC-006297-0-000-11-12-2007@@@
-
 DECRETO Nº 6.297, DE 11 DE DEZEMBRO DE 2007.
 
 Regulamenta o recolhimento das contribuições previstas nos incisos I, II, III e IV do art. 57 da Lei no 9.615, de 24 de março de 1998.
@@ -31,5 +29,3 @@ Art. 9o  Este Decreto entra em vigor na data de sua publicação.
 LUIZ INÁCIO LULA DA SILVA
 
 Orlando Silva de Jesus Junior
-
-Este texto não substitui o publicado no DOU de 12.12.2007

@@ -1,5 +1,3 @@
-###DEC-064815-0-000-14-07-1969@@@
-
 DECRETO Nº 64.815 - de 14 DE JULHO DE 1969.
 
 Dispõe, em caráter transitório, sôbre a apuração de merecimento para os fins de promoção dos funcionários públicos civis da União e das Autarquias Federais.

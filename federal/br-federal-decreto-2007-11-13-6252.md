@@ -1,5 +1,3 @@
-###DEC-006252-0-000-13-11-2007@@@
-
 DECRETO Nº 6.252, DE 13 DE NOVEMBRO DE 2007.
 
 Dispõe sobre a concessão de subvenção econômica nas operações de empréstimo e financiamento destinadas às empresas dos setores de pedras ornamentais, beneficiamento de madeira, beneficiamento de couro, calçados e artefatos de couro, têxtil, de confecção, inclusive linha lar, e de móveis de madeira, com receita operacional bruta anual de até R$ 300.000.000,00 (trezentos milhões de reais), de que trata o art. 2o da Lei no 11.529, de 22 de outubro de 2007.
@@ -43,5 +41,3 @@ Guido Mantega
 Carlos Lupy
 
 Ivan Joao Guimaraes Ramalho
-
-Este texto não substitui o publicado no DOU de 14.11.2007

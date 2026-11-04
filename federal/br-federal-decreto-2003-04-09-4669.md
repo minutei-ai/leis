@@ -1,5 +1,3 @@
-###DEC-004669-0-000-09-04-2003@@@
-
 DECRETO N° 4.669, DE 9 DE ABRIL DE 2003.
 
 Altera alíquota do Imposto sobre Produtos Industrializados - IPI incidente sobre os produtos doados ao Gabinete do Ministro de Estado Extraordinário de Segurança Alimentar e Combate à Fome e para emprego no Programa Fome Zero.

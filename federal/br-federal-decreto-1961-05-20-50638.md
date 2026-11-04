@@ -1,5 +1,3 @@
-###DEC-050638-0-000-20-05-1961@@@
-
 DECRETO Nº 50.638, DE 20 DE MAIO DE 1961.
 
 Autoriza Arioval Moreira da Rocha , a comprar pedras preciosas.

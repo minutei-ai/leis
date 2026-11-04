@@ -1,5 +1,3 @@
-###DEC-050714-0-000-31-05-1961@@@
-
 DECRETO Nº 50.714, DE 31 DE MAIO DE 1961.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A (CEMIG) concessão para distribuir energia elétrica no Município de Capim Branco, Estado de Minas Gerais.

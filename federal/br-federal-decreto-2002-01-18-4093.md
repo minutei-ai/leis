@@ -1,5 +1,3 @@
-###DEC-004093-0-000-18-01-2002@@@
-
 DECRETO Nº 4.093, DE 18 DE JANEIRO DE 2002.
 
 Prorroga o prazo de assunção pela União de responsabilidades civis perante terceiros, no caso de atentados terroristas ou atos de guerra contra aeronaves de empresas aéreas brasileiras, conforme o disposto na Lei no 10.309, de 22 de novembro de 2001, e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208969)<br>
-
 # DECRETO N° 68.220, DE 15 DE DEZEMBRO DE 2023
 
 ### _Regulamenta o § 3° do artigo 8° da Lei federal n° 14.133, de 1° de abril de 2021, para disciplinar a atuação do agente de contratação, da equipe de apoio, da comissão de contratação, dos gestores e dos fiscais de contratos, no âmbito da Administração Pública direta e autárquica do Estado de São Paulo._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposições Preliminares
 
 **Artigo 1°-** Este decreto regulamenta o § 3° do artigo 8° da Lei federal 14.133, de 1° de abril de 2021, para disciplinar a atuação do agente de contratação, da equipe de apoio, da comissão de contratação, dos gestores e dos fiscais de contratos, no âmbito da Administração Pública direta e autárquica do Estado de São Paulo.
@@ -27,10 +26,12 @@ V - fiscalização administrativa: atividade de acompanhamento dos aspectos admi
 
 VI - fiscalização setorial: atividade de acompanhamento da execução do contrato quanto aos aspectos técnicos ou administrativos, nos casos em que a prestação do objeto ocorrer concomitantemente em setores distintos ou em unidades desconcentradas de um órgão ou uma entidade.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Designação dos Agentes Públicos
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Dos Requisitos
 
 **Artigo 3° -** Para o desempenho das atividades previstas neste decreto, a autoridade competente do órgão ou entidade, observadas as respectivas normas de organização administrativa, designará os agentes públicos e respectivos substitutos para o desempenho das funções de que tratam este decreto, os quais deverão:
@@ -53,7 +54,8 @@ III - não ser cônjuge ou companheiro de licitantes ou de contratados habituais
 
 **§ 4° -** A impossibilidade da designação dos membros da comissão de contratação, da equipe de apoio ou do gestor e dos fiscais de contrato recair em servidores efetivos ou empregados pertencentes ao quadro permanente do órgão ou da entidade contratante deverá ser previamente justificada nos autos do processo da contratação.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Das Vedações
 
 **Artigo 4° -** O princípio da segregação das funções veda a designação do mesmo agente público para atuação simultânea em funções mais suscetíveis a riscos, de modo a reduzir a possibilidade de ocultação de erros e de ocorrência de fraudes na contratação.
@@ -70,10 +72,12 @@ b) de características do caso concreto tais como o valor e a complexidade do ob
 
 **Artigo 5° -** Os agentes públicos designados para atuar na área de licitações e contratos e os terceiros que auxiliem a condução da contratação na qualidade de integrante de equipe de apoio, de profissional especializado ou de funcionário ou representante de empresa que preste assessoria técnica, deverão observar as vedações previstas no artigo 9° da Lei federal n° 14.133, de 1° de abril de 2021.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Da Atuação e Das Atribuições
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Do Agente de Contratação
 
 **Artigo 6° -** O agente de contratação, nos processos de licitação na modalidade pregão, será designado pregoeiro.
@@ -112,14 +116,16 @@ i) encaminhar o processo instruído, após encerradas as fases de julgamento e d
 
 **Parágrafo único -** Na modalidade pregão para sistema de registro de preços, caberá ao pregoeiro receber, examinar e julgar documentos relativos ao procedimento auxiliar da licitação.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Da Equipe de Apoio
 
 **Artigo 10 -** A equipe de apoio poderá ser composta por terceiros contratados, observadas as normas legais e regulamentares incidentes à espécie e as vedações previstas no artigo 9° da Lei federal n° 14.133, de 1° de abril de 2021.
 
 **Artigo 11 -** Cabe à equipe de apoio auxiliar o agente de contratação ou a comissão de contratação no desempenho das atribuições relacionadas nos artigos 9° e 12 deste decreto, respectivamente.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da Comissão de Contratação
 
 **Artigo 12 -** Poderá ser constituída comissão de contratação no âmbito dos órgãos e entidades, composta por, no mínimo, três membros, um dos quais para presidi-la, que serão designados, juntamente com seus substitutos, pela autoridade competente.
@@ -144,7 +150,8 @@ IV - receber, examinar e julgar documentos relativos aos procedimentos auxiliare
 
 **Parágrafo único -** Na hipótese de a comissão de contratação substituir o agente de contratação, na forma prevista no inciso I deste artigo, os seus membros responderão solidariamente pelos atos praticados pela comissão, exceto o membro que expressar posição divergente, a qual deverá ser fundamentada e registrada em ata lavrada na reunião em que houver sido tomada a decisão.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Do Gestor e dos Fiscais do Contrato
 
 **Artigo 15 -** A designação do gestor, dos fiscais do contrato e de seus respectivos substitutos será feita considerando:
@@ -265,7 +272,8 @@ IX - auxiliar o gestor do contrato no desempenho da atribuição de que trata o 
 
 **§ 2° -** O fiscal do contrato anotará, em registro próprio, todas as ocorrências relacionadas com a execução do contrato, descrevendo e determinando o quanto necessário para a respectiva regularização.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Disposições Finais
 
 **Artigo 21 -** Para o desempenho de suas atribuições, o agente de contratação, a equipe de apoio, a comissão de contratação e o fiscal do contrato contarão com o auxílio dos órgãos de assessoramento jurídico e de controle interno do próprio órgão ou entidade.

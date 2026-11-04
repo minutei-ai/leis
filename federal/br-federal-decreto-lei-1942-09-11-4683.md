@@ -1,5 +1,3 @@
-###DEL-004683-0-000-11-09-1942@@@
-
 DECRETO-LEI N. 4.683 – DE 11 DE SETEMBRO DE 1942
 
 Altera o art. 39 do decreto-lei n. 240, de 4 de fevereiro de 1938

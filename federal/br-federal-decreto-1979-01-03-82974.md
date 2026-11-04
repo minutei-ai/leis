@@ -1,5 +1,3 @@
-###DEC-082974-0-000-03-01-1979@@@
-
 Decreto nº 82.974, de 03 de janeiro de 1979
 
 Concede à Mineradora Cantagalo Ltda. o direito de lavrar água mineral no Município de Itirapina, Estado de São Paulo.

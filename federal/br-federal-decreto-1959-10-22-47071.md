@@ -1,5 +1,3 @@
-###DEC-047071-0-000-22-10-1959@@@
-
 Decreto nº 47.071, de 22 de Outubro de 1959.
 
 Extingue Coletoria Federal.

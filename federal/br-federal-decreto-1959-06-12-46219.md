@@ -1,5 +1,3 @@
-###DEC-046219-0-000-12-06-1959@@@
-
 DECRETO Nº 46.219, de 12 DE junho DE 1959.
 
 Concede nascionalização à sociedade The City of Santos Improvements Comany, Limited, sob a denominação de “ Cidade de Santos - Serviços de Eletricidade e Gás S. A.”.

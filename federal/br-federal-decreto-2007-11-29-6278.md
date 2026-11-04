@@ -1,5 +1,3 @@
-###DEC-006278-0-000-29-11-2007@@@
-
 DECRETO Nº 6.278, DE 29 DE NOVEMBRO DE 2007.
 
 Altera o Decreto no 6.253, de 13 de novembro de 2007, que dispõe sobre o Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - FUNDEB e regulamenta a Lei no 11.494, de 20 de junho de 2007.
@@ -29,5 +27,3 @@ LUIZ INÁCIO LULA DA SILVA
 Guido Mantega
 
 Fernando Haddad
-
-Este texto não substitui o publicado no DOU de 30.11.2007

@@ -1,5 +1,3 @@
-###DEC-063936-0-000-30-12-1968@@@
-
 DECRETO Nº 63.936, DE 30 DE DEZEMBRO DE 1968.
 
 Abre, ao Ministério da Educação e Cultura, a favor da Diretoria do Ensino Superior, o crédito especial de NCr$ 65.000,00, destinado a atender ao adimplemento de compromisso com a PAN AMERICAN HEALTH ORGANIZATION para estabelecimento da Biblioteca Regional de Medicina-SP, relativo à parcela do ano de 1967.

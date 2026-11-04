@@ -1,5 +1,3 @@
-###DEC-049145-0-000-26-10-1960@@@
-
 DECRETO Nº 49.145, DE 26 DE OUTUBRO DE 1960.
 
 Autoriza estrangeira a adquirir, em transferência de aforamento, fração ideal de domínio útil do terreno de marinha que menciona, no Estado da Guanabara.

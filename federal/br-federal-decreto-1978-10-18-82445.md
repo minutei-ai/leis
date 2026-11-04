@@ -1,5 +1,3 @@
-###DEC-082445-0-000-18-10-1978@@@
-
 DECRETO Nº 82.445, DE 18 DE OUTUBRO DE 1978.
 
 Declara a caducidade do Manifesto de Mina que menciona.

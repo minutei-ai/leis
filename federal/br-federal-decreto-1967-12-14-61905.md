@@ -1,5 +1,3 @@
-###DEC-061905-0-000-14-12-1967@@@
-
 DECRETO Nº 61.905, DE 14 DE DEZEMBRO DE 1967.
 
 Abre ao Ministério da Fazenda o crédito especial de NCr$15.000.000,00 (quinze milhões de cruzeiros novos) para refôrço de dotações consignadas no vigente orçamento.

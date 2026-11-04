@@ -1,5 +1,3 @@
-###DEL-006934-0-000-06-10-1944@@@
-
 DECRETO-LEI N. 6.934 – de 6 DE OUTUBRO DE 1944
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 50.000,00, para despesas decorrentes de doação proposta à Embaixada do Brasil em Lisboa

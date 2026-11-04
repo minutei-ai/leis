@@ -1,5 +1,3 @@
-###DEC-071042-0-000-30-08-1972@@@
-
 DECRETO Nº 71.042, DE 30 DE AGOSTO DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação, imóvel situado na cidade do Rio de Janeiro,  Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-061290-0-000-06-09-1967@@@
-
 DECRETO Nº 61.290, DE 6 DE SETEMBRO DE 1967.
 
 Declara de utilidade pública a “Associação Beneficente Hospital Nossa Senhora da Piedade”, com sede em Lençóis Paulista, Estado de São Paulo.

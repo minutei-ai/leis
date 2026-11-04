@@ -1,7 +1,3 @@
-1
-
-###DEC-099796-0-000-14-12-1990@@@
-
 # DECRETO N° 99.796, DE 14 DE DEZEMBRO DE 1990
 
 Altera dispositivos do Regulamento para o Exército da Lei de Promoções dos Oficiais da Ativa das Forças Armadas (R-27), aprovado pelo Decreto nº 71.848, de 16 de fevereiro de 1973.

@@ -1,5 +1,3 @@
-###DEC-049445-0-000-06-12-1960@@@
-
 DECRETO Nº 49.445, DE 6 DE DEZEMBRO DE 1960.
 
 Abre, ao Ministério da Educação e Cultura o crédito especial de Cr$200.000,00, destinado a atender às despesas da Academia Nacional de Medicina com a publicação de trabalhos científicos.

@@ -1,5 +1,3 @@
-###DEC-056843-A-000-06-09-1965@@@
-
 DECRETO Nº 56.843-A, DE 6 DE SETEMBRO DE 1965.
 
 Altera a redação de dispositivos do Decreto nº 21.854, de 26 de setembro de 1946.

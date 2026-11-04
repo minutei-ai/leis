@@ -1,5 +1,3 @@
-###MPV-002116-0-019-24-05-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.116‑19, DE 24 DE MAIO DE 2001.
 
 Assegura percepção de gratificação por servidores das carreiras Policial Federal, Delegado de Polícia do Distrito Federal, de Polícia Civil do Distrito Federal, Policial Rodoviário Federal, altera as Leis nºs 4.878, de 3 de dezembro de 1965, 5.619, de 3 de novembro de 1970, 5.906, de 23 de julho de 1973, 7.102, de 20 de junho de 1983, e dá outras providências.
@@ -118,4 +116,94 @@ ANEXO
 
 (Anexo III à Lei nº 9.264, de 7 de fevereiro de 1999)
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:127.7pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-top:6pt"><span style="text-transform:none; -aw-import:ignore">&nbsp;</span></p><p class="Dec" style="margin-top:6pt; margin-bottom:0pt"><span style="text-transform:none">CLASSE</span></p></td><td style="width:127.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-top:6pt"><span style="text-transform:none; -aw-import:ignore">&nbsp;</span></p><p class="Dec" style="margin-top:6pt; margin-bottom:0pt"><span style="text-transform:none">CARGOS</span></p></td><td style="width:127.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-bottom:0pt"><span style="text-transform:none">VENCIMENTO</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">BÁSICO</span></p><p style="margin-bottom:0pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">(R$)</span></p></td><td style="width:127.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-top:6pt; margin-bottom:0pt"><span style="text-transform:none">PARCELAS</span></p><p class="Dec" style="margin-bottom:0pt"><span style="text-transform:none">COMPLEMENTAR (R$)</span></p></td></tr><tr><td style="width:127.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-top:12pt; margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">ESPECIAL</span></p></td><td style="width:127.7pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">Delegado de Polícia,</span></p><p class="Dec" style="margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">Perito Criminal</span></p><p class="Dec" style="margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">Perito Médico-Legista</span></p></td><td style="width:127.7pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-top:12pt; margin-bottom:0pt; text-align:right"><span style="font-weight:normal; text-transform:none">524,30</span></p></td><td style="width:127.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-top:12pt; margin-bottom:0pt; text-align:right"><span style="font-weight:normal; text-transform:none">6,02</span></p></td></tr><tr><td style="width:127.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-top:12pt; margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">PRIMEIRA</span></p></td><td style="width:127.7pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">Delegado de Polícia,</span></p><p class="Dec" style="margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">Perito Criminal</span></p><p class="Dec" style="margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">Perito Médico-Legista</span></p></td><td style="width:127.7pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-top:12pt; margin-bottom:0pt; text-align:right"><span style="font-weight:normal; text-transform:none">445,66</span></p></td><td style="width:127.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-top:12pt; margin-bottom:0pt; text-align:right"><span style="font-weight:normal; text-transform:none">77,63</span></p></td></tr><tr><td style="width:127.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-top:12pt; margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">SEGUNDA</span></p></td><td style="width:127.7pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">Delegado de Polícia,</span></p><p class="Dec" style="margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">Perito Criminal</span></p><p class="Dec" style="margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">Perito Médico-Legista</span></p></td><td style="width:127.7pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-top:12pt; margin-bottom:0pt; text-align:right"><span style="font-weight:normal; text-transform:none">378,81</span></p></td><td style="width:127.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-top:12pt; margin-bottom:0pt; text-align:right"><span style="font-weight:normal; text-transform:none">68,45</span></p></td></tr><tr><td style="width:127.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-top:12pt; margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">ESPECIAL</span></p></td><td style="width:127.7pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">Agente de Polícia</span></p><p class="Dec" style="margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">Escrivão de Polícia</span></p><p class="Dec" style="margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">Papiloscopista Policial</span></p><p class="Dec" style="margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">Agente Penitenciário</span></p></td><td style="width:127.7pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-top:12pt; margin-bottom:0pt; text-align:right"><span style="font-weight:normal; text-transform:none">309,93</span></p></td><td style="width:127.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-top:12pt; margin-bottom:0pt; text-align:right"><span style="font-weight:normal; text-transform:none">41,40</span></p></td></tr><tr><td style="width:127.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-top:12pt; margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">PRIMEIRA</span></p></td><td style="width:127.7pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">Agente de Polícia</span></p><p class="Dec" style="margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">Escrivão de Polícia</span></p><p class="Dec" style="margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">Papiloscopista Policial</span></p><p class="Dec" style="margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">Agente Penitenciário</span></p></td><td style="width:127.7pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-top:12pt; margin-bottom:0pt; text-align:right"><span style="font-weight:normal; text-transform:none">254,14</span></p></td><td style="width:127.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-top:12pt; margin-bottom:0pt; text-align:right"><span style="font-weight:normal; text-transform:none">34,15</span></p></td></tr><tr><td style="width:127.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-top:12pt; margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">SEGUNDA</span></p></td><td style="width:127.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">Agente de Polícia</span></p><p class="Dec" style="margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">Escrivão de Polícia</span></p><p class="Dec" style="margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">Papiloscopista Policial</span></p><p class="Dec" style="margin-bottom:0pt; text-align:left"><span style="font-weight:normal; text-transform:none">Agente Penitenciário</span></p></td><td style="width:127.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-top:12pt; margin-bottom:0pt; text-align:right"><span style="font-weight:normal; text-transform:none">210,94</span></p></td><td style="width:127.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-top:12pt; margin-bottom:0pt; text-align:right"><span style="font-weight:normal; text-transform:none">28,64</span></p></td></tr></tbody></table>
+CLASSE
+
+CARGOS
+
+VENCIMENTO
+
+BÁSICO
+
+(R$)
+
+PARCELAS
+
+COMPLEMENTAR (R$)
+
+ESPECIAL
+
+Delegado de Polícia,
+
+Perito Criminal
+
+Perito Médico-Legista
+
+524,30
+
+6,02
+
+PRIMEIRA
+
+Delegado de Polícia,
+
+Perito Criminal
+
+Perito Médico-Legista
+
+445,66
+
+77,63
+
+SEGUNDA
+
+Delegado de Polícia,
+
+Perito Criminal
+
+Perito Médico-Legista
+
+378,81
+
+68,45
+
+ESPECIAL
+
+Agente de Polícia
+
+Escrivão de Polícia
+
+Papiloscopista Policial
+
+Agente Penitenciário
+
+309,93
+
+41,40
+
+PRIMEIRA
+
+Agente de Polícia
+
+Escrivão de Polícia
+
+Papiloscopista Policial
+
+Agente Penitenciário
+
+254,14
+
+34,15
+
+SEGUNDA
+
+Agente de Polícia
+
+Escrivão de Polícia
+
+Papiloscopista Policial
+
+Agente Penitenciário
+
+210,94
+
+28,64

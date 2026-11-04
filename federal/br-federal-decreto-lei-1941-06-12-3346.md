@@ -1,5 +1,3 @@
-###DEL-003346-0-000-12-06-1941@@@
-
 DECRETO-LEI N. 3.346 – DE 12 DE JUNHO DE 1941
 
 Dá nova organização às Delegacias de Trabalho Marítimo

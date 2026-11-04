@@ -1,5 +1,3 @@
-###DEC-097031-0-000-03-11-1988@@@
-
 DECRETO N° 97.031, DE 3 DE NOVEMBRO DE 1988
 
 Regulamenta a Medida Provisória n° 19, de 03 de novembro de 1988, que dispõe sobre o registro provisório para o estrangeiro em situação ilegal no território nacional.

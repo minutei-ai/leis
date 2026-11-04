@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211425)<br>
-
 # LEI N° 18.211, DE 08 DE SETEMBRO DE 2025
 
 ## (Projeto de lei n.° 869/2024, da Deputada Maria Lúcia Amary - PSDB)

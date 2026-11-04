@@ -1,5 +1,3 @@
-###DEC-065522-0-000-21-10-1969@@@
-
 DECRETO Nº 65.522 - DE 21 DE OUTUBRO DE 1969.
 
 Os Ministros da Marinha de Guerra, do Exército e da Aeronáutica Militar, no uso das atribuições que lhes confere o artigo 3º do Ato Inconstitucional nº 16, de 14 de outubro de 1969, e artigo 3º do Ato Institucional nº 5, de 13 de dezembro de 1968,

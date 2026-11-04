@@ -1,5 +1,3 @@
-###DEC-003811-0-000-04-05-2001@@@
-
 DECRETO N.° 3.811, DE 4 DE MAIO DE 2001
 
 Fixa o número de dias para a exibição de obras cinematográficas brasileiras durante o ano de 2001, e dá outras providências.
@@ -10,7 +8,57 @@ DECRETa:
 
 Art. 1º É fixado o número de dias nos quais as empresas proprietárias, locatárias ou arrendatárias de salas, espaços ou locais de exibição pública comercial exibirão obras cinematográficas brasileiras de longa metragem no ano de 2001, conforme a seguinte tabela:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:209.1pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-bottom:0pt"><span style="text-transform:none">SALAS</span></p></td><td style="width:209.1pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-bottom:0pt"><span style="text-transform:none">TOTAL DE DIAS DE</span><span style="text-transform:none; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="text-transform:none">OBRIGATORIEDADE</span></p></td></tr><tr><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-bottom:0pt"><span style="font-weight:normal; text-transform:none">1 sala</span></p><p class="Dec" style="margin-bottom:0pt"><span style="font-weight:normal; text-transform:none">2 salas</span></p><p class="Dec" style="margin-bottom:0pt"><span style="font-weight:normal; text-transform:none">3 salas</span></p><p class="Dec" style="margin-bottom:0pt"><span style="font-weight:normal; text-transform:none">4 salas</span></p><p class="Dec" style="margin-bottom:0pt"><span style="font-weight:normal; text-transform:none">5 salas</span></p><p class="Dec" style="margin-bottom:0pt"><span style="font-weight:normal; text-transform:none">6 salas</span></p><p class="Dec" style="margin-bottom:0pt"><span style="font-weight:normal; text-transform:none">7 salas</span></p><p class="Dec" style="margin-bottom:0pt"><span style="font-weight:normal; text-transform:none">8 salas</span></p><p class="Dec" style="margin-bottom:0pt"><span style="font-weight:normal; text-transform:none">9 salas</span></p><p class="Dec" style="margin-bottom:0pt"><span style="font-weight:normal; text-transform:none">10 salas</span></p><p class="Dec" style="margin-bottom:0pt"><span style="font-weight:normal; text-transform:none">11 salas</span></p><p class="Dec" style="margin-bottom:0pt"><span style="font-weight:normal; text-transform:none">Mais de 11 salas</span></p></td><td style="width:209.1pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Dec" style="margin-bottom:0pt"><span style="font-weight:normal; text-transform:none">28 dias</span></p><p class="Dec" style="margin-bottom:0pt"><span style="font-weight:normal; text-transform:none">56 dias</span></p><p class="Dec" style="margin-bottom:0pt"><span style="font-weight:normal; text-transform:none">84 dias</span></p><p class="Dec" style="margin-bottom:0pt"><span style="font-weight:normal; text-transform:none">112 dias</span></p><p class="Dec" style="margin-bottom:0pt"><span style="font-weight:normal; text-transform:none">140 dias</span></p><p class="Dec" style="margin-bottom:0pt"><span style="font-weight:normal; text-transform:none">154 dias</span></p><p class="Dec" style="margin-bottom:0pt"><span style="font-weight:normal; text-transform:none">175 dias</span></p><p class="Dec" style="margin-bottom:0pt"><span style="font-weight:normal; text-transform:none">182 dias</span></p><p class="Dec" style="margin-bottom:0pt"><span style="font-weight:normal; text-transform:none">196 dias</span></p><p class="Dec" style="margin-bottom:0pt"><span style="font-weight:normal; text-transform:none">210 dias</span></p><p class="Dec" style="margin-bottom:0pt"><span style="font-weight:normal; text-transform:none">217 dias</span></p><p class="Dec" style="margin-bottom:0pt"><span style="font-weight:normal; text-transform:none">217 dias + 7 dias por sala</span></p></td></tr></tbody></table>
+SALAS
+
+TOTAL DE DIAS DE       OBRIGATORIEDADE
+
+1 sala
+
+2 salas
+
+3 salas
+
+4 salas
+
+5 salas
+
+6 salas
+
+7 salas
+
+8 salas
+
+9 salas
+
+10 salas
+
+11 salas
+
+Mais de 11 salas
+
+28 dias
+
+56 dias
+
+84 dias
+
+112 dias
+
+140 dias
+
+154 dias
+
+175 dias
+
+182 dias
+
+196 dias
+
+210 dias
+
+217 dias
+
+217 dias + 7 dias por sala
 
 Art. 2° A tabela constante do artigo anterior refere‑se às salas, aos espaços ou aos locais de exibição pública comercial geminados ou não, localizados sob o mesmo teto pertencentes à mesma empresa.
 

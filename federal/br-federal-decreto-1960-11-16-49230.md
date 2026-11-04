@@ -1,5 +1,3 @@
-###DEC-049230-0-000-16-11-1960@@@
-
 DECRETO Nº 49.230, DE 16 DE NOVEMBRO DE 1960.
 
 Autoriza Mineração Nacional Mina S.A. a lavrar cassiterita e tantalita no município de São Tiago, Estado de Minas Gerais.

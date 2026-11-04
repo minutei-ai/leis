@@ -1,5 +1,3 @@
-###MPV-002106-0-010-27-12-2000@@@
-
 medida provisória nº 2.106-10, de 27 de dezembro de 2000.
 
 Acresce dispositivos ao Decreto-Lei nº 719, de 31 de julho de 1969, para dispor o financiamento a projetos de implantação e recuperação de infra-estrutura de pesquisa nas instituições públicas de ensino superior e de pesquisa, e dá outras providências.

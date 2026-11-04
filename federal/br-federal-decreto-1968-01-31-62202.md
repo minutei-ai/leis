@@ -1,5 +1,3 @@
-###DEC-062202-0-000-31-01-1968@@@
-
 DECRETO Nº 62.202, DE 31 DE JANEIRO DE 1968.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de imóvel destinado a utilização pelo Ministério da Educação e Cultura.

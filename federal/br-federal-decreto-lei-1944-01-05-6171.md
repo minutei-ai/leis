@@ -1,5 +1,3 @@
-###DEL-006171-0-000-05-01-1944@@@
-
 DECRETO-LEI N.6.171 – DE 5 DE JANEIRO DE 1944
 
 Autoriza o Ministério da Agricultura a promover as medidas necessárias para o rápido escoamento da safra do trigo de produção nacional

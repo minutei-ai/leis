@@ -1,5 +1,3 @@
-###DEC-051115-0-000-02-08-1961@@@
-
 DECRETO Nº 51.115, DE 2 DE AGôSTO DE 1961.
 
 Estabelece normas para cumprimento do art. 529 do Regulamento Geral da Previdência Social.

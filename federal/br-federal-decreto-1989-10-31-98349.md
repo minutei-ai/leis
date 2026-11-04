@@ -1,7 +1,3 @@
-1
-
-###DEC-098349-0-000-31-10-1989@@@
-
 DECRETO Nº 98.349, DE 31 DE OUTUBRO DE 1989
 
 Autoriza o funcionamento da habilitação em Biologia do curso de Ciências e da licenciatura plena em História da Faculdade de Filosofia, Ciências e Letras de Penápolis.

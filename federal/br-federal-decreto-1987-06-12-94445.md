@@ -1,5 +1,3 @@
-###DEC-094445-0-000-12-06-1987@@@
-
 DECRETO Nº 94.445, DE 12 DE JUNHO DE 1987
 
 Institui como Patrono do Quadro de Engenheiros Militares o Coronel Ricardo Franco de Almeida Serra.

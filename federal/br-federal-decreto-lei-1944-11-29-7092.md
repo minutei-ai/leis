@@ -1,5 +1,3 @@
-###DEL-007092-0-000-29-11-1944@@@
-
 DECRETO-LEI N. 7.092 – DE 29 NOVEMBRO DE 1944
 
 Anula decretos de reformas e aposentadoria e dá outras providências

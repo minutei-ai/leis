@@ -1,5 +1,3 @@
-###DEL-003421-0-000-12-07-1941@@@
-
 DECRETO-LEI N. 3.421 – DE 12 DE JULHO DE 1941
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito especial de vinte e cinco contos, seiscentos e quarenta e nove mil e quatrocentos réis (25:649$4), para pagamento de diferença de vencimentos.

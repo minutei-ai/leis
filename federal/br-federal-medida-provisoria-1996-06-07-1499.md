@@ -1,7 +1,3 @@
-1
-
-###MPV-001499-0-000-07-06-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.499, DE 7 DE JUNHO DE 1996.
 
 Organiza e disciplina os Sistemas de Controle Interno e de Planejamento e de Orçamento do Poder Executivo, e dá outras providências.

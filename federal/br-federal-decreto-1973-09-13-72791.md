@@ -1,5 +1,3 @@
-###DEC-072791-0-000-13-09-1973@@@
-
 DECRETO Nº 72.791, DE 13 DE SETEMBRO DE 1973.
 
 Concede à SIMIL - Silva Mineração Ltda., o direito de lavrar minério de ferro no Município de Rio Piracicaba, Estado de Minas Gerais.

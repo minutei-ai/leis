@@ -1,5 +1,3 @@
-###DEC-069580-0-000-22-11-1971@@@
-
 DECRETO Nº 69.580 - DE 22 DE NOVEMBRO de 1971
 
 Concede à Construções e Comércio Camargo Corrêa S.A. o direito de Lavrar caulim, no município de Itapecirica, Estado de Minas Gerais.

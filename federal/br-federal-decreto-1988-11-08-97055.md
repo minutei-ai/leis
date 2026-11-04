@@ -1,5 +1,3 @@
-###DEC-097055-0-000-08-11-1988@@@
-
 DECRETO Nº 97.055, DE 8 DE NOVEMBRO DE 1988
 
 Altera o inciso d) do artigo 1º do Decreto nº 92.503, de 26 de março de 1986, que fixa os cargos privativos de Oficial-General do Exército em Tempo de Paz.

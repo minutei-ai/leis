@@ -1,5 +1,3 @@
-###DEC-007608-0-000-17-11-2011-PUB-01@@@
-
 DECRETO Nº 7.608, DE 17 DE NOVEMBRO DE 2011
 
 Dispõe sobre a execução no Território Nacional da Resolução nº 1988, de 17 de junho de 2011, adotada pelo Conselho de Segurança das Nações Unidas, que trata de sanções contra indivíduos e entidades do Talibã e aqueles associados ao Talibã que constituam ameaça à paz, à estabilidade e à segurança do Afeganistão.

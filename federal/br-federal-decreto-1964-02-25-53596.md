@@ -1,5 +1,3 @@
-###DEC-053596-0-000-25-02-1964@@@
-
 DECRETO Nº 53.596, DE 25 DE FEVEREIRO DE 1964.
 
 Retifica relação que acompanhou o Decreto nº 51.866, de 26 de março de 1963, que aprovou o enquadramento dos cargos e funções da Rêde Ferroviária do Nordeste e deu outras providências.

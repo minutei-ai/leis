@@ -1,5 +1,3 @@
-###DEC-074625-0-000-27-09-1974@@@
-
 DECRETO Nº 74.625, 27 DE SETEMBRO DE 1974.
 
 Aprova o Regulamento dos Destacamentos de proteção ao Vôo - Deteção e Telecomunicação e dá outras providencias.

@@ -1,5 +1,3 @@
-###DEC-082665-0-000-16-11-1978@@@
-
 Decreto nº 82.665, de 16 de novembro de 1978.
 
 Concede reconhecimento ao curso de Psicologia, habilitação Psicólogo, da Faculdade de Filosofia, Ciências e Letras "Farias Brito", com sede na cidade de São Paulo.

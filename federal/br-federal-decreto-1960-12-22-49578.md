@@ -1,5 +1,3 @@
-###DEC-049578-0-000-22-12-1960@@@
-
 DECRETO Nº 49.578, DE 22 DE DEZEMBRO DE 1960.
 
 Aprova alterações introduzidas nos Estatutos da Companhia Sul Brasil de Seguros Terrestres e Marítimos.

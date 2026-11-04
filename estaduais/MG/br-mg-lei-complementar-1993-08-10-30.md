@@ -1007,7 +1007,3 @@ DENOMINAÇÃO CÓDIGO- NÍVEL Nº DE CARGOS VIGÊNCIA: 1º/JANEIRO/1993 Procurad
 (Vide art. 18 da Lei Complementar nº 92, de 23/6/2006.)
 
 (Vide art. 8º da Lei Complementar nº 96, de 17/1/2007.)
-
-\===================
-
-Data da última atualização: 18/12/2019.

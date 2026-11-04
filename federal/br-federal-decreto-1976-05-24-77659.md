@@ -1,5 +1,3 @@
-###DEC-077659-0-000-24-05-1976@@@
-
 DECRETO Nº 77.659, DE 24 DE MAIO DE 1976
 
 Concede à Oxford S.A. Indústria e Comércio - OSAICO o direito de lavrar argila no Município de São Bento do Sul, Estado de Santa Catarina.

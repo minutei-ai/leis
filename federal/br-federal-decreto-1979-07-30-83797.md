@@ -1,5 +1,3 @@
-###DEC-083797-0-000-30-07-1979@@@
-
 DECRETO Nº 83.797, DE 30 DE JULHO DE1979.
 
 Autoriza a conversão dos cursos de Matemática e de Ciências Biológicas, em curso de Ciências, ministrado pela Faculdade de Filosofia, Ciências e Letras, com sede na cidade de Patos de Minas, Estado de Minas Gerais.

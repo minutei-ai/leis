@@ -1,5 +1,3 @@
-###DEC-068318-0-000-05-03-1971@@@
-
 Decreto nº 68.318, de 5 de março de 1971.
 
 Declara de utilidade pública, a União Espírita "Paz e Caridade", com sede em Araçatuba, Estado de São Paulo.

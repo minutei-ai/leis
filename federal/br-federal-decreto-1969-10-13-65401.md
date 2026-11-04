@@ -1,5 +1,3 @@
-###DEC-065401-0-000-13-10-1969@@@
-
 DECRETO Nº 65.401 - DE 13 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública a Irmandade da Santa Casa de Misericórdia de Tupi Paulista, com sede de Tupi Paulista,  Estado de São Paulo.

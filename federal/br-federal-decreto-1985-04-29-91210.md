@@ -1,5 +1,3 @@
-###DEC-091210-0-000-29-04-1985@@@
-
 decreto nº 91.210, de 29 de abril de 1985
 
 Homologa a demarcação da área indígena que menciona no Estado de Mato Grosso.

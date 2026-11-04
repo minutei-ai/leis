@@ -1,5 +1,3 @@
-###DEC-055786-0-000-22-02-1965@@@
-
 DECRETO Nº 55.786, DE 22 DE FEVEREIRO DE 1965.
 
 Proibe em todo o território nacional a fabricação, o comércio e o uso de “lança-perfumes” e outros produtos perigosos para a saúde pública e dá outras providências.

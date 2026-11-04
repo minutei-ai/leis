@@ -1,5 +1,3 @@
-###DEC-078730-0-000-16-11-1976@@@
-
 DECRETO Nº 78.730, DE 16 DE NOVEMBRO DE 1976.
 
 Autoriza a cessão, sob o regime de aforamento da Ilha Rasa, situada no Município de Cabo Frio, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-005884-0-000-01-09-2006@@@
-
 DECRETO Nº 5.884, DE 1º DE SETEMBRO DE 2006.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1.683, de 13 de junho de 2006, do Conselho de Segurança das Nações Unidas, que, entre outras providências, decide que o embargo de armas à Libéria não se aplica com relação a armamentos e munições já fornecidos a membros do Serviço Especial de Segurança para fins de treinamento, nem a fornecimentos limitados de armamentos e munições para as forças de polícia e de segurança do Governo da Libéria.
@@ -24,11 +22,7 @@ Brasília, 1º de setembro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 4.9.2006.
-
-“O Conselho de Segurança,
+        Celso Luiz Nunes Amorim“O Conselho de Segurança,
 
 Recordando suas resoluções e as declarações anteriores de seu Presidente sobre a situação na Libéria e na África Ocidental;
 

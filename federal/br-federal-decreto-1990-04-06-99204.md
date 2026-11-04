@@ -1,7 +1,3 @@
-1
-
-###DEC-099204-0-000-06-04-1990@@@
-
 DECRETO N° 99.204, DE 6 DE ABRIL DE 1990
 
 Promulgação do Ato Constitutivo da Rede de Informação Tecnológica latino‑americana (RITLA)

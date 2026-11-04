@@ -1,5 +1,3 @@
-###DEC-045179-0-000-31-12-1958@@@
-
 Decreto nº 45.179, de 31 de dezembro de 1958.
 
 Autoriza a “The Pernambuco Tramways & Power Co. Ltd” a ampliar instalações termoelétricas.

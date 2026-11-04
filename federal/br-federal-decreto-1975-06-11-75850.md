@@ -1,5 +1,3 @@
-###DEC-075850-0-000-11-06-1975@@@
-
 DECRETO Nº 75.850, DE 11 DE JUNHO DE 1975.
 
 Autoriza o funcionamento do curso de Letras, da Faculdade Niteroiense de Educação, Letras e Turismo, mantida pela Associação Educacional Plínio Leite, com sede na cidade de Niterói, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-051129-0-000-02-08-1961@@@
-
 DECRETO Nº 51.129, DE 2 DE AGÔSTO DE 1961.
 
 Dispõe sôbre a agregação de estabelecimento ou instituto de ensino superior as Universidades, e dá outras providências.

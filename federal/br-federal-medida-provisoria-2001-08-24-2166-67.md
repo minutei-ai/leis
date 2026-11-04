@@ -1,5 +1,3 @@
-###MPV-002166-0-067-24-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.166‑67, DE 24 DE AGOSTO DE 2001
 
 Altera os arts. 1º, 4º, 14, 16 e 44, e acresce dispositivos à Lei nº 4.771, de 15 de setembro de 1965, que institui o Código Florestal, bem como altera o art. 10 da Lei nº9.393, de 19 de dezembro de 1996, que dispõe sobre o Imposto sobre a Propriedade Territorial Rural ‑ ITR, e dá outras providências.

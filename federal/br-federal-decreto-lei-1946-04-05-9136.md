@@ -1,5 +1,3 @@
-###DEL-009136-0-000-05-04-1946@@@
-
 DECRETO-LEI N. 9.136 – DE 5 DE ABRIL DE 1946
 
 Reduz para Cr$ 80.000.000,00 o crédito especial de Cr$ 130.000.000,00 aberto pelo Decreto-lei n.º 8.852, de 24 de Janeiro de 1946: 

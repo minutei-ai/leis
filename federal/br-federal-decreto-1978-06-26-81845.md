@@ -1,5 +1,3 @@
-###DEC-081845-0-000-26-06-1978@@@
-
 Decreto nº 81.845, de 26 de junho de 1978.
 
 Autoriza a conversão do curso de Desenho e Plástica em curso de Educação Artística, ministrado pela Faculdade de Filosofia, Ciências e Letras de São José do Rio Pardo, com sede na cidade de São José do Rio Pardo, Estado de São Paulo.

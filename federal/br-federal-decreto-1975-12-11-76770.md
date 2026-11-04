@@ -1,5 +1,3 @@
-###DEC-076770-0-000-11-12-1975@@@
-
 DECRETO Nº 76.770, DE 11 DE DEZEMBRO DE 1975.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno nacional interior que menciona, situado no Município de Rio Grande, Estado do Rio Grande do Sul.

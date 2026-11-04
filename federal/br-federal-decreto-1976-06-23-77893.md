@@ -1,5 +1,3 @@
-###DEC-077893-0-000-23-06-1976@@@
-
 DECRETO Nº 77.893, DE 23 DE JUNHO DE 1976.
 
 Declara a caducidade da concessão outorgada à Fosforita Olinda S.A. - FASA, para lavrar fosforita no Município de Igarassu Estado de Pernambuco.
@@ -15,8 +13,6 @@ Brasília, 23 de junho de 1976; 155º da Independência e 88º da República.
 ERNESTO GEISEL
 
 Shigeaki Ueki
-
-###DEC-077893-0-000-23-06-1976@@@RET01+++
 
 decreto nº 77.893, de 23 de junho de 1976.
 

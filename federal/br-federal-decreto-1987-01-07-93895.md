@@ -1,5 +1,3 @@
-###DEC-093895-0-000-07-01-1987@@@
-
 DECRETO Nº 93.895, DE 07 DE JANEIRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Tombador ou Serragem", situado no Município de Nobres, no Estado de Mato Grosso, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.620, de 02 de maio de 1986 e dá outras providências.

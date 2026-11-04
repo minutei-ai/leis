@@ -1,5 +1,3 @@
-###MPV-001779-0-005-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.779-5, DE 14 DE DEZEMBRO DE 1998.
 
 Altera a Consolidação das Leis do Trabalho - CLT, para dispor sobre o trabalho a tempo parcial, a suspensão do contrato de trabalho e o programa de qualificação profissional, modifica as Leis nºs 6.321, de 14 de abril de 1976, 6.494, de 7 de dezembro de 1977, e 7.998, de 11 de janeiro de 1990, e dá outras providências.

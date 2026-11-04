@@ -1,5 +1,3 @@
-###DEC-003732-0-000-18-01-2001@@@
-
 DECRETO Nº 3.732, DE 18 DE JANEIRO DE 2001
 
 Fixa, no Comando da Marinha, o número de vagas para promoções obrigatórias de Oficiais, para os Corpos e Quadros que menciona, referentes ao ano-base de 2000.

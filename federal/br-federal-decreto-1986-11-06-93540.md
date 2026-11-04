@@ -1,5 +1,3 @@
-###DEC-093540-0-000-06-11-1986@@@
-
 DECRETO Nº 93.540, DE 6 DE NOVEMBRO DE 1986
 
 Declara de utilidade pública as instituições que menciona.

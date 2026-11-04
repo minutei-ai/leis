@@ -1,5 +1,3 @@
-###DEC-096474-0-000-08-08-1988@@@
-
 DECRETO N° 96.474, DE 8 DE AGOSTO DE 1988
 
 Fixa o percentual de não numerados de Coronéis dos Quadros de Oficiais da Ativa da Aeronáutica, definitivamente impossibilitados de acesso ao primeiro posto de Oficial-General.

@@ -1,5 +1,3 @@
-###DEC-062278-0-000-19-02-1968@@@
-
 DECRETO Nº 62.278, DE 19 DE FEVEREIRO DE 1968.
 
 Autoriza o Ministério da Aeronáutica a ceder, gratuitamente terras de propriedade da União Federal, localizadas no Município de Canoas, Estado do Rio Grande do Sul.

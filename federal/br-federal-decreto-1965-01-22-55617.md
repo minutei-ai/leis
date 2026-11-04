@@ -1,5 +1,3 @@
-###DEC-055617-0-000-22-01-1965@@@
-
 DECRETO Nº 55.617, de 22 de janeiro de 1965.
 
 Inclui exceções no Decreto nº 54.003, de 3 de julho de 1964 e dá outras providências.

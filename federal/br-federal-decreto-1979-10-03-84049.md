@@ -1,5 +1,3 @@
-###DEC-084049-0-000-03-10-1979@@@
-
 Decreto nº 84.049, de 03 de outubro de 1979.
 
 Altera dispositivo do Decreto nº 83.355, de 20 de abril de 1979, que criou O Conselho Nacional de Desenvolvimento Urbano.

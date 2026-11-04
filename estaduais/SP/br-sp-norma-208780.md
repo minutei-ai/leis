@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208780)<br>
-
 # DECRETO N° 68.065, DE 09 DE NOVEMBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Viapaulista S/A, a área complementar necessária à duplicação do trecho entre os km 83+200m e 137+950m da Rodovia SP-255, no Município de Boa Esperança do Sul, e dá providências correlatas._

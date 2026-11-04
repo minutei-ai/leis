@@ -1,7 +1,3 @@
-1
-
-###DEC-001289-0-000-21-10-1994@@@
-
 DECRETO N° 1.289, DE 21 DE OUTUBRO DE 1994
 
 Altera dispositivo do Regulamento para a Ordem do Mérito Naval, baixado pelo Decreto n° 93.990, de 02 de fevereiro de 1987.

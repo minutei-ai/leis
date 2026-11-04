@@ -1,5 +1,3 @@
-###DEC-007155-0-000-09-04-2010@@@
-
 DECRETO Nº 7.155, DE 9 DE ABRIL DE 2010.
 
 Autoriza o aumento do capital social da Companhia Docas do Rio Grande do Norte CODERN, Companhia das Docas do Estado da Bahia - CODEBA e Companhia Docas do Rio de Janeiro - CDRJ.

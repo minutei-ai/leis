@@ -1,5 +1,3 @@
-###DEC-048510-0-000-11-07-1960@@@
-
 DECRETO Nº 48.510, DE 11 DE JULHO DE 1960.
 
 Transfere função da Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Marinha, para idêntica Tabela do Ministério da Fazenda.

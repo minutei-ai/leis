@@ -1,5 +1,3 @@
-###DEC-085876-0-000-03-04-1981@@@
-
 DECRETO Nº 85.876, de 03 de abril de 1981
 
 Cria o Plano da Casa Rural - PLACAR e dá outras providências.

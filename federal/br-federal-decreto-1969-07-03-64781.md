@@ -1,5 +1,3 @@
-###DEC-064781-0-000-03-07-1969@@@
-
 DECRETO Nº 64.781 - DE 3 DE JULHO DE 1969.
 
 Institui o Programa Intensivo de Treinamento para a Reforma Administrativa (TR) e dá outras providências.

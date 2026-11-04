@@ -1,5 +1,3 @@
-###DEC-049514-0-000-12-12-1960@@@
-
 decreto nº 49.514, de 12 de dezembro de 1960.
 
 Autoriza o cidadão brasileiro José Thomaz de Cantuária a lavrar minérios de ferro e de manganês no Município de Ouro Preto, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-055058-0-000-24-11-1964@@@
-
 DECRETO Nº 55.058, DE 24 DE NOVEMBRO DE 1964.
 
 Autoriza o Ministério da Fazenda a dar a garantia do Tesouro Nacional à operação de crédito entre a Superintendência do Desenvolvimento do Nordeste - SUDENE - e o Banco Interamericano de Desenvolvimento - BID.

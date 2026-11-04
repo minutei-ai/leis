@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209788)<br>
-
 # LEI N° 18.008, DE 31 DE JULHO DE 2024
 
 ## (Projeto de lei n° 467/2023, do Deputado Conte Lopes - PL)

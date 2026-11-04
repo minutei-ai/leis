@@ -1,5 +1,3 @@
-###DEC-055346-0-000-31-12-1964@@@
-
 DECRETO Nº 55.346, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza a Companhia Estanifera do Brasil a pesquisar cassiterita no município de Pôrto Velho, Território Federal de Rondônia.

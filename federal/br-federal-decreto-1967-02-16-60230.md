@@ -1,5 +1,3 @@
-###DEC-060230-0-000-16-02-1967@@@
-
 Decreto nº 60.230, de 16 de fevereiro de 1967.
 
 Declara de utilidade pública, o imóvel que menciona na Cidade de Barbacena, Estado de Minas Gerais.

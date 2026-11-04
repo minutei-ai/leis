@@ -1,7 +1,3 @@
-1
-
-###DEC-098337-0-000-26-10-1989@@@
-
 DECRETO N° 98.337, de 26 DE OUTUBRO DE 1989
 
 Autoriza o funcionamento do curso de Ciências Econômicas do Centro Superior de Ciências Sociais de Vila Velha.

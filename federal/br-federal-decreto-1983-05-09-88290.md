@@ -1,5 +1,3 @@
-###DEC-088290-0-000-09-05-1983@@@
-
 decreto nº 88.290, de 09 de maio de 1983
 
 Autoriza o funcionamento de habilitações do curso de Letras da Faculdade Ideal de Letras e, Ciências Humanas, Estado de São Paulo.

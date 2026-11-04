@@ -1,5 +1,3 @@
-###DEC-056314-0-000-21-05-1965@@@
-
 DECRETO Nº 56.314, DE 21 MAIO DE 1965.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação dos equipamentos novos, sem similar nacional registrado, neste descritos e consignados, à “Companhia Sisaleira do Cuité - COSITE”, de Nova Floresta, Estado da Paraíba.
@@ -14,7 +12,43 @@ DECRETA:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação de equipamentos novos, a seguir descritos e consignados à “Companhia Sisalereira do Cuité - COSITE”, de Nova Floresta (Pb):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item - Especialização</span></p></td><td style="width:56.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Quantidade</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>a ser</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>importada</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Valor Total</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>C I F</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>US$</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1. Conjunto de descorticagem, constituído de: uma descortinadeira tipo Corona II com capacidade nominal de 600 kg de fibras sêcas por hora; um dispositivo hidráulico de tensão de cordas; um torneador para placas de desgaste; um cavalete para acionamento a diesel; um alinhador-vibrador de fôlhas; um conjunto de transmissão com mancais, rolamentos, eixos, polias e acoplamentos ....................................................................................</span></p></td><td style="width:56.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>40.089</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2. Equipamento do pré-secagem composto de espremedora automática com uma volada de borracha e uma volada de aço, e equipamento para pegar as fôlhas pré-secadas ................................</span></p></td><td style="width:56.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>7.651</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3. Instalação de recuperação de bucha com elevador-transporte, espremedora e tambor de limpeza ....................................................</span></p></td><td style="width:56.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>10.700</span></p></td></tr><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL ...............................................................................................</span></p></td><td style="width:56.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:60.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>58.400</span></p></td></tr></tbody></table>
+Item - Especialização
+
+Quantidade
+
+a ser
+
+importada
+
+Valor Total
+
+C I F
+
+US$
+
+1. Conjunto de descorticagem, constituído de: uma descortinadeira tipo Corona II com capacidade nominal de 600 kg de fibras sêcas por hora; um dispositivo hidráulico de tensão de cordas; um torneador para placas de desgaste; um cavalete para acionamento a diesel; um alinhador-vibrador de fôlhas; um conjunto de transmissão com mancais, rolamentos, eixos, polias e acoplamentos ....................................................................................
+
+1
+
+40.089
+
+2. Equipamento do pré-secagem composto de espremedora automática com uma volada de borracha e uma volada de aço, e equipamento para pegar as fôlhas pré-secadas ................................
+
+1
+
+7.651
+
+3. Instalação de recuperação de bucha com elevador-transporte, espremedora e tambor de limpeza ....................................................
+
+1
+
+10.700
+
+TOTAL ...............................................................................................
+
+-
+
+58.400
 
 Art. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

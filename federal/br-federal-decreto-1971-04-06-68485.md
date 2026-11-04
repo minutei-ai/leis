@@ -1,5 +1,3 @@
-###DEC-068485-0-000-06-04-1971@@@
-
 Decreto nº 68.485 - de 6 de abril de 1971.
 
 Declara de interêsse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno na bacia de irrigação do açude público "Boa Vista", no município de Salgueiro, Estado de Pernambuco.

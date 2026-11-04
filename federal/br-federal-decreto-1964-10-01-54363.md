@@ -1,5 +1,3 @@
-###DEC-054363-0-000-01-10-1964@@@
-
 DECRETO Nº 54.363, DE 1 DE OUTUBRO DE 1964.
 
 Concede autorização para funcionar como emprêsa de energia elétrica à Centrais Elétricas do Amazonas Sociedade Anônima.

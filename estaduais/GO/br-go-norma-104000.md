@@ -1,4 +1,5 @@
-DECRETO Nº 9.881, DE 08 DE JUNHO DE 2021<br>
+DECRETO Nº 9.881, DE 08 DE JUNHO DE 2021
+
 \- [Revogado pelo Decreto nº 10.752, de 7-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111137), art. 6º, IV.
 
 ~~Autoriza a Secretaria de Estado de Esporte e Lazer a realizar e manter os contratos temporários que especifica, nos termos previstos no Convênio nº 897720/2020, celebrado junto à União, por intermédio do Ministério da Cidadania – MC .~~
@@ -43,7 +44,8 @@ DECRETO Nº 9.881, DE 08 DE JUNHO DE 2021<br>
 
 ~~III – experiência profissional de 1 (um) ano na área do paradesporto ou esporte paralímpico.~~
 
-~~Parágrafo único. Fica dispensada a comprovação de experiência profissional na modalidade ao Professor de Educação Física de Paradesporto/Esporte Paralímpico com lotação na cidade de Itapaci-Go.~~<br>
+~~Parágrafo único. Fica dispensada a comprovação de experiência profissional na modalidade ao Professor de Educação Física de Paradesporto/Esporte Paralímpico com lotação na cidade de Itapaci-Go.~~
+
 [~~\- Acrescido pelo Decreto nº 9.950, de 16-09-2021.~~](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~[](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~
 
 ~~Art. 4º Além das contratações previstas neste Decreto, poderá ser formado banco de habilitados.~~

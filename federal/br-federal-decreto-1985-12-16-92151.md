@@ -1,5 +1,3 @@
-###DEC-092151-0-000-16-12-1985@@@
-
 Decreto nº 92.151, de 16 de dezembro de 1985.
 
 Dispõe sobre o aumento do montante do Capital Social da Espírito Santo Centrais Elétricas S.A. - ESCELSA.

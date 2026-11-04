@@ -1,5 +1,3 @@
-###DEC-047644-0-000-15-01-1960@@@
-
 DECRETO Nº 47.644, DE 15 DE JANEIRO DE 1960.
 
 Autoriza a cidadã brasileira Angela Gebara a pesquisar leucita no município de Poços de Caldas, Estado de Minas Gerais.

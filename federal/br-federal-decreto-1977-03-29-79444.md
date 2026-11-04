@@ -1,5 +1,3 @@
-###DEC-079444-0-000-29-03-1977@@@
-
 DECRETO Nº 79.444, DE 29 DE março DE 1977.
 
 Concede à Produtor de Minérios Xingu S.A. - PROMIX o direito de lavrar cassiterita no Município de São Félix do Xingu, Estado do Pará.

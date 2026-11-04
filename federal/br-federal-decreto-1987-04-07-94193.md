@@ -1,5 +1,3 @@
-###DEC-094193-0-000-07-04-1987@@@
-
 DECRETO Nº 94.193, DE 7 DE ABRIL DE 1987
 
 Delega competência ao Ministro-Chefe do Gabinete Civil, para a prática do ato que especifica.

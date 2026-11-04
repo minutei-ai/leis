@@ -1,5 +1,3 @@
-###DEC-065044-0-000-22-08-1969@@@
-
 DECRETO Nº 65.044 - DE 22 DE AGÔSTO DE 1969.
 
 Declara de utilidade pública a Sociedade Civil Colégio Dante Alighieri, com sede em São Paulo, Estado de São Paulo.

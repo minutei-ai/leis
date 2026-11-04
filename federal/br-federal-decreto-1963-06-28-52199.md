@@ -1,5 +1,3 @@
-###DEC-052199-0-000-28-06-1963@@@
-
 Decreto nº 52.199, de 28 de junho de 1963.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 41.199, de 26 de março de 1957, para efeito de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária a construção do açude público “Pentecoste” no Município de Pentecoste, no Estado do Ceará.

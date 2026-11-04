@@ -1,5 +1,3 @@
-###DEC-004063-0-000-26-12-2001@@@
-
 DECRETO Nº 4.063, DE 26 DE DEZEMBRO DE 2001.
 
 Dá nova redação ao art. 9~~º~~ do Decreto n~~º~~ 4.004, de 8 de novembro de 2001, que dispõe sobre a concessão de ajuda de custo e transporte aos servidores públicos civis da União, das autarquias, e das fundações públicas federais e dá outras providências.

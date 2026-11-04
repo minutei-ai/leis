@@ -1,5 +1,3 @@
-###DEC-089446-0-000-19-03-1984@@@
-
 Decreto nº 89.446, de 19 de março de 1984
 
 Altera o Decreto nº 88.101, de 10 de fevereiro de 1983, que aprovou o Estatuto da Empresa Pública Banco Nacional de Desenvolvimento Econômico e Social - BNDES.

@@ -1,5 +1,3 @@
-###DEC-060668-0-000-02-05-1967@@@
-
 DECRETO Nº 60.668, DE 2 DE MAIO DE 1967.
 
 Transfere do Município de Lagoa Santa, Estado de Minas Gerais, para a Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica.

@@ -1,14 +1,12 @@
-###DEC-041208-0-000-27-03-1957@@@
+**DECRETO Nº 41.208, DE 27 DE MARÇO DE 1957.**
 
-<strong>DECRETO Nº 41.208, DE 27 DE MARÇO DE 1957.</strong>
+***Inclui funções gratificadas no Quadro Extraordinário da Universidade do Ceará do Ministério da Educação e Cultura.***
 
-<em><strong>Inclui funções gratificadas no Quadro Extraordinário da Universidade do Ceará do Ministério da Educação e Cultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam incluídas no Quadro Extraordinário da Universidade do Ceará, do Ministério da Educação e Cultura, as funções gratificadas abaixo discriminadas com os respectivos símbolos, que integrarão a lotação da Reitoria:
+**Art**. 1º Ficam incluídas no Quadro Extraordinário da Universidade do Ceará, do Ministério da Educação e Cultura, as funções gratificadas abaixo discriminadas com os respectivos símbolos, que integrarão a lotação da Reitoria:
 
 Símbolo FG-3:
 
@@ -62,14 +60,14 @@ Símbolo FG-5:
 
 1 - Chefe do Serviço de Encadernação e Acabamento da Imprensa Universitária.
 
-<strong>Art</strong>. 2º A despesa resultante da execução dêste decreto correrá por conta da dotação própria do Orçamento Interno da Universidade do Ceará.
+**Art**. 2º A despesa resultante da execução dêste decreto correrá por conta da dotação própria do Orçamento Interno da Universidade do Ceará.
 
-<strong>Art</strong>. 3º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 3º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 27 de março de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Clovis Salgado

@@ -1,5 +1,3 @@
-###DEC-044959-0-000-01-12-1958@@@
-
 DECRETO Nº 44.959, DE 1 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Oscar Silveira Lêdo, a pesquisar diamante e associados, no município de Itupiranga, Estado do Pará.

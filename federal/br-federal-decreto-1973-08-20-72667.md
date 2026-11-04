@@ -1,5 +1,3 @@
-###DEC-072667-0-000-20-08-1973@@@
-
 DECRETO Nº 72.667, DE 20 DE AGOSTO DE 1973.
 
 Concede autorização à firma Western Geophysical Company of América, de nacionalidade norte-americana, para realizar, em águas interiores do Brasil, trabalhos sismográficos contratados pela Petróleo Brasileiro S. A. - PETROBRÁS.

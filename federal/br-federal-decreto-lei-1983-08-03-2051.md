@@ -1,5 +1,3 @@
-###DEL-002051-0-000-03-08-1983@@@
-
 # DECRETO-LEI nº 2.051, de 03 de agosto de 1983
 
 Concede isenção de impostos a selos e peças filatélicas, e dá outras providências.

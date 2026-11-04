@@ -1,5 +1,3 @@
-###DEC-077153-0-000-12-02-1976@@@
-
 DECRETO Nº 77.153, DE 12 DE FEVEREIRO DE 1976.
 
 Encampa bens e instalações vinculados aos serviços públicos de energia elétrica nos distritos sede dos Municípios de Corinto, Curvelo, Diamantina e Gouvêa, no Estado de Minas Gerais.

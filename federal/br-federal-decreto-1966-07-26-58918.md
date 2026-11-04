@@ -1,5 +1,3 @@
-###DEC-058918-0-000-26-07-1966@@@
-
 DECRETO Nº 58.918, DE 26 DE JULHO DE 1966.
 
 Aprova alterações introduzidas nos Estatutos da Companhia Internacional de Capitalização.

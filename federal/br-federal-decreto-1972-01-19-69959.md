@@ -1,5 +1,3 @@
-###DEC-069959-0-000-19-01-1972@@@
-
 DECRETO Nº 69.959, DE 19 DE JANEIRO DE 1972.
 
 Declara de utilidade pública o Patronato Maria Narciso, com sede em União, Estado do Piauí.

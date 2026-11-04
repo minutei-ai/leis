@@ -10,12 +10,14 @@ Art. 1º Esta lei regula no município e em conformidade com a Constituição da
 
 Parágrafo único. O Sistema Municipal de Cultura - SMC integra o Sistema Nacional de Cultura -SNC e se constitui no principal articulador, no âmbito municipal, das políticas públicas de cultura, estabelecendo mecanismos de gestão compartilhada com os demais entes federados e a sociedade civil.
 
-TÍTULO I<br>
+TÍTULO I
+
 DA POLÍTICA MUNICIPAL DE CULTURA
 
 Art. 2º A política municipal de cultura estabelece o papel do Poder Público Municipal na gestão da cultura, explicita os direitos culturais que devem ser assegurados a todos os munícipes e define pressupostos que fundamentam as políticas, programas, projetos e ações formuladas e executadas pela Prefeitura Municipal de Aparecida de Goiânia, com a participação da sociedade, no campo da cultura.
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 Do Papel do Poder Público Municipal na Gestão da Cultura
 
 Art. 3º A cultura é um direito fundamental do ser humano, devendo o Poder Público Municipal prover as condições indispensáveis ao seu pleno exercício, no âmbito do Município de Aparecida de Goiânia.
@@ -56,7 +58,8 @@ Art. 8º A política cultural deve ser transversal, estabelecendo uma relação 
 
 Art. 9º Os planos e projetos de desenvolvimento, na sua formulação e execução, devem sempre considerar os fatores culturais e na sua avaliação uma ampla gama de critérios, que vão da liberdade política, econômica e social às oportunidades individuais de saúde, educação, cultura, produção, criatividade, dignidade pessoal e respeito aos direitos humanos, conforme indicadores sociais.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 Dos Direitos Culturais
 
 Art. 10. Cabe ao Poder Público Municipal garantir a todos os plenos exercícios dos direitos culturais, entendidos como:
@@ -69,12 +72,14 @@ III - o direito autoral;
 
 IV - o direito ao intercâmbio cultural nacional e internacional.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 Da Concepção Tridimensional da Cultura
 
 Art. 11. O Poder Público Municipal compreende a concepção tridimensional da cultura, simbólica, cidadã e econômica, como fundamento da política municipal de cultura.
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Da Dimensão Simbólica da Cultura
 
 Art. 12. A dimensão simbólica da cultura compreende os bens de natureza material e imaterial que constituem o patrimônio cultural do Município, abrangendo todos os modos de viver, fazer e criar dos diferentes grupos formadores da sociedade local, conforme o Art. 216 da Constituição Federal.
@@ -85,7 +90,8 @@ Art. 14. A política cultural deve contemplar as expressões que caracterizam a 
 
 Art. 15. Cabe ao Poder Público Municipal promover diálogos interculturais, nos planos local, regional, nacional e internacional, considerando as diferentes concepções de dignidade humana, presentes em todas as culturas, como instrumento de construção da paz, moldada em padrões de coesão, integração e harmonia entre os cidadãos, as comunidades, os grupos sociais, os povos e nações.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Da Dimensão Cidadã da Cultura
 
 Art. 16. Os direitos culturais fazem parte dos direitos humanos e devem se constituir numa plataforma de sustentação das políticas culturais.
@@ -100,7 +106,8 @@ Art. 20. O direito à participação na vida cultural deve ser assegurado igualm
 
 Art. 21. O estímulo à participação da sociedade nas decisões de política cultural deve ser efetivado por meio da criação e articulação de conselhos paritários, com os representantes da sociedade democraticamente eleitos pelos respectivos segmentos, bem como, da realização de conferências e da instalação de colegiados, comissões e fóruns.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Da Dimensão Econômica da Cultura
 
 Art. 22. Cabe ao Poder Público Municipal criar as condições para o desenvolvimento da cultura como espaço de inovação e expressão da criatividade local e fonte de oportunidades de geração de ocupações produtivas e de renda, fomentando a sustentabilidade e promovendo a desconcentração dos fluxos de formação, produção e difusão das distintas linguagens artísticas e múltiplas expressões culturais.
@@ -121,10 +128,12 @@ Art. 26. O objetivo das políticas públicas de fomento à cultura no Município
 
 Art. 27. O Poder Público Municipal deve apoiar os artistas e produtores culturais atuante no município para que tenham assegurado o direito autoral de suas obras, considerando o direito de acesso à cultura por toda sociedade.
 
-TÍTULO II<br>
+TÍTULO II
+
 DO SISTEMA MUNICIPAL DE CULTURA
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 Das Definições e dos Princípios
 
 Art. 28. O Sistema Municipal de Cultura - SMC, que se constitui num instrumento articulação, gestão, fomento e promoção de políticas públicas, bem como de informação e formação na área cultural, tendo como essência a coordenação e a cooperação intergovernamental, com vistas ao fortalecimento institucional, à democratização dos processos decisórios e à obtenção de transparência, economicidade, eficiência, eficácia, equidade e efetividade na aplicação dos recursos públicos.
@@ -157,7 +166,8 @@ XI - descentralização articulada e pactuada da gestão, dos recursos e das aç
 
 XII - ampliação progressiva dos recursos contidos nos orçamentos públicos para a cultura.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 Dos Objetivos
 
 Art. 31. O Sistema Municipal de Cultura - SMC tem como objetivo formular e implantar políticas públicas de cultura, democráticas e permanentes, pactuadas com a sociedade civil e com os demais entes da federação, promovendo o desenvolvimento, humano, social e econômico, com pleno exercício dos direitos culturais e acesso aos bens e serviços culturais, no âmbito do Município.
@@ -182,10 +192,12 @@ VIII - promover e estimular as atividades do calendário cultural, constituído 
 
 IX - criar instrumentos de gestão para acompanhamento e avaliação das políticas públicas de cultura desenvolvidas no âmbito do Sistema Municipal de Cultura - SMC.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 Da estrutura
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Dos Componentes
 
 Art. 33. Integram o Sistema Municipal de Cultura:
@@ -212,7 +224,8 @@ IV) Sistemas Setoriais de Cultura: Sistema Municipal de Patrimônio Cultural; Si
 
 Parágrafo único - O Sistema Municipal de Cultura deverá articular-se com os demais sistemas municipais ou políticas setoriais, em especial da educação, da comunicação, da ciência e tecnologia, do planejamento urbano, do desenvolvimento económico e social, da indústria e comércio, das relações internacionais, do meio ambiente, do turismo, do esporte, da saúde e dos direitos humanos e da segurança, conforme regulamentação.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Da Coordenação do Sistema Municipal de Cultura
 
 Art. 34. A Secretaria Municipal de Cultura é órgão superior, subordinado diretamente ao Prefeito e se constitui no órgão gestor e coordenador do Sistema Municipal de Cultura - SMC.
@@ -273,7 +286,8 @@ IX - colaborar, no âmbito do Sistema Nacional de Cultura-SNC, com o Governo do 
 
 X - exercer outras atividades correlatas com as suas atribuições.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Das Instâncias de Articulação, Pactuação e Deliberação
 
 Art. 37. Constituem-se instâncias de articulação, pactuação e deliberação do Sistema Municipal de Cultura:
@@ -334,7 +348,8 @@ Art. 41. A Conferência Municipal de Cultura, constitui-se em uma instância de 
 
 § 5°. Contribuir para a implantação e consolidação do Sistema Municipal de Cultura.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 Dos Instrumentos de Gestão
 
 Art. 42. Os instrumentos de gestão do Sistema Municipal de Cultura se caracterizam como ferramentas de planejamento, inclusive técnico e financeiro.
@@ -393,7 +408,8 @@ IV - Outros que venham a ser criados.
 
 Do Fundo Municipal de Cultura
 
-~~Art. 48. Fica criado o Fundo Municipal de Cultura, vinculado à Secretaria Municipal de Cultura, como fundo de natureza contábil e financeira, com prazo indeterminado de duração, de acordo com as regras definidas nesta Lei.~~<br>
+~~Art. 48. Fica criado o Fundo Municipal de Cultura, vinculado à Secretaria Municipal de Cultura, como fundo de natureza contábil e financeira, com prazo indeterminado de duração, de acordo com as regras definidas nesta Lei.~~
+
 (Revogado pela Lei Ordinária nº 3.727, de 9 de agosto de 2023).
 
 Art. 49. O Fundo Municipal de Cultura se constitui no principal mecanismo de financiamento das políticas públicas de cultura no município, com recursos destinados a programas, projetos e ações culturais implementados de forma descentralizada, em regime de colaboração e cofinanciamento com a União e com o Governo do Estado de Goiás.
@@ -442,7 +458,8 @@ XIV - outras receitas legalmente incorporáveis que lhe vierem a ser destinadas.
 
 ~~§ 3°. A taxa de administração a que se refere o § 1° não poderá ser superior a três por cento dos recursos disponibilizados para o financiamento.~~
 
-~~§ 4°. Para o financiamento de que trata o inciso II serão fixadas taxas de remuneração que, no mínimo, preservem o valor originalmente concedido.<br>
+~~§ 4°. Para o financiamento de que trata o inciso II serão fixadas taxas de remuneração que, no mínimo, preservem o valor originalmente concedido.
+
 ~~(Revogado pela Lei Ordinária nº 3.727, de 9 de agosto de 2023).
 
 Art. 52. Os custos referentes a gestão do Fundo Municipal de Cultura com planejamento, estudos, acompanhamento, avaliação e divulgação de resultados, incluídas aquisição ou a locação de equipamentos e bens necessários ao cumprimento de seus objetivos, não poderão ultrapassar cinco por cento de suas receitas, observados o limite fixado anualmente por ato do Conselho Municipal de políticas Culturais.
@@ -541,7 +558,8 @@ I - a qualificação técnico-administrativa e capacitação em política cultur
 
 II - a formação nas áreas técnicas e artísticas.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 Dos Sistemas Setoriais De Cultura
 
 Art. 72. Poderão ser instituídos Sistemas Setoriais de Cultura, com finalidade de exercer a gestão das políticas municipais setoriais de cultura, a integração de entidades afins, bem como coordenação, supervisão e orientação, conforme o caso, no que diz respeito ao funcionamento e utilização dos equipamentos e aparelhos culturais.
@@ -560,10 +578,12 @@ Art. 74. As políticas culturais setoriais devem seguir as diretrizes gerais adv
 
 Art. 75. Os Sistemas Municipais Setoriais constituídos e os que venham a ser criados, integram o Sistema Municipal de Cultura, conformando subsistemas que se conectam à estrutura federativa, à medida que os sistemas de cultura nos demais níveis de governo forem sendo instituídos.
 
-TÍTULO III<br>
+TÍTULO III
+
 DO FINANCIAMENTO
 
-CAPÍTLO I<br>
+CAPÍTLO I
+
 Dos Recursos
 
 Art. 76. O Fundo Municipal de Cultura é a principal fonte de recursos do Sistema Municipal de Cultura de Aparecida de Goiânia.
@@ -584,7 +604,8 @@ III - A gestão municipal dos recursos oriundos de repasses dos Fundos Nacional 
 
 Art. 81. Os critérios de aporte de recursos do Fundo Municipal de Cultura deverão considerar a participação dos diversos segmentos culturais e territórios na distribuição total de recursos municipais para a cultura, com vistas a promover a desconcentração do investimento, devendo ser estabelecido anualmente um percentual mínimo para cada segmento/território.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 Da Gestão Financeira
 
 Art. 82. Os recursos financeiros da Cultura serão depositados em conta especifica, e administrados pela Secretaria Municipal de Cultura, e instituições vinculadas, sob fiscalização do Conselho Municipal de Política Cultural.
@@ -599,7 +620,8 @@ Parágrafo único - O Município deverá zelar e contribuir para que sejam adota
 
 Art. 84. O Município deverá assegurar a condição mínima para receber os repasses dos recursos da União, no âmbito do Sistema Nacional de Cultura, com a efetiva instituição e funcionamento dos componentes mínimos do Sistema Municipal de Cultura e alocação de recursos próprios destinados à Cultura na Lei Orçamentaria Anual (LOA) e no Fundo Municipal de Cultura.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 Do Planejamento e do Orçamento
 
 Art. 85. O processo de planejamento e do orçamento do Sistema Municipal de Cultura – SMC deve buscar a integração do nível local ao nacional, ouvidos seus órgãos deliberativos, compatibilizando-se as necessidades da política de cultura com disponibilidade de recursos próprios do Município, as transferências do Estado e da União e outras fontes de recursos.
@@ -618,5 +640,6 @@ Art. 89. Esta Lei entra em vigor na data de sua publicação.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 19 de Maio de 2022.
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal

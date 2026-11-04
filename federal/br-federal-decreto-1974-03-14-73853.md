@@ -1,5 +1,3 @@
-###DEC-073853-0-000-14-03-1974@@@
-
 decreto nº 73.853, de 14 de março de 1974.
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.

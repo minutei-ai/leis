@@ -1,5 +1,3 @@
-###DEC-005325-0-000-29-12-2004@@@
-
 DECRETO Nº 5.325 DE 29 DE DEZEMBRO DE 2004
 
 Dispõe sobre a execução do Décimo Oitavo Protocolo Adicional ao Acordo de Complementação Econômica no 39, entre os Governos da República Federativa do Brasil e da República do Equador, de 27 de setembro de 2004.
@@ -24,10 +22,14 @@ LUIZ INÁCIO LULA DA SILVA
 
 Celso Luiz Nunes Amorim
 
-# ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 39<br>
-ASSINADO ENTRE AS REPÚBLICAS DA COLÔMBIA, DO<br>
-EQUADOR, DO PERU E DA VENEZUELA,<br>
-PAÍSES-MEMBROS DA COMUNIDADE ANDINA,<br>
+# ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 39
+
+ASSINADO ENTRE AS REPÚBLICAS DA COLÔMBIA, DO
+
+EQUADOR, DO PERU E DA VENEZUELA,
+
+PAÍSES-MEMBROS DA COMUNIDADE ANDINA,
+
 E A REPÚBLICA FEDERATIVA DO BRASIL
 
 ## Décimo Oitavo Protocolo Adicional

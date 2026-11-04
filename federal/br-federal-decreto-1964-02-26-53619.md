@@ -1,5 +1,3 @@
-###DEC-053619-0-000-26-02-1964@@@
-
 DECRETO Nº 53.619, de 26 DE FEVEREIRO DE 1964.
 
 Concede à Sociedade Navegação Mercantil S.A. - NAVEM autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

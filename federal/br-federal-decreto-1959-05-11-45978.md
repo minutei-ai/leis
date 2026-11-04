@@ -1,5 +1,3 @@
-###DEC-045978-0-000-11-05-1959@@@
-
 DECRETO Nº 45.978, DE 11 DE MAIO DE 1959.
 
 Concede autorização para o funcionamento do curso de odontologia da Faculdade de Odontologia de Caruaru.

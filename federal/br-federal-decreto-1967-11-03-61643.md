@@ -1,5 +1,3 @@
-###DEC-061643-0-000-03-11-1967@@@
-
 Decreto nº 61.643, de 3 de novembro de 1967.
 
 Estabelece nova sede à Fundação Brasil Central.

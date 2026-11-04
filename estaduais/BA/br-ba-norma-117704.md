@@ -2,7 +2,8 @@ LEI Nº 4.841 DE 24 DE FEVEREIRO DE 1989
 
 Cria o Município de Nova Redenção, desmembrado do Município de Andaraí.
 
-Ver também:<br>
+Ver também:
+
 Lei nº [12.907](https://www.legislabahia.ba.gov.br/documentos/lei-no-4841-de-24-de-fevereiro-de-1989#_GoBack) de 26 de setembro de 2013 - Atualiza os limites dos municípios que integram o Território de Identidade Chapada Diamantina, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Abaíra, Andaraí, Barra da Estiva, Boninal, Bonito, Ibicoara, Ibitiara, Iramaia, Iraquara, Itaetê, Jussiape, Lençóis, Marcionílio Souza, Morro do Chapéu, Mucugê, Nova Redenção, Novo Horizonte, Palmeiras, Piatã, Rio de Contas, Seabra, Souto Soares, Utinga e Wagner.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:

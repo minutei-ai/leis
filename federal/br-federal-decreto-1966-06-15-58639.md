@@ -1,5 +1,3 @@
-###DEC-058639-0-000-15-06-1966@@@
-
 DECRETO Nº 58.639, DE 15 DE JUNHO DE 1966.
 
 Extingue as Delegacias Regionais do Ministério da Justiça e Negócios Interiores e dá outras providencias.

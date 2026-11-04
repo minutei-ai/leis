@@ -1,5 +1,3 @@
-###DEL-009243-0-000-07-05-1946@@@
-
 DECRETO-LEI N. 9.243 DE 7 DE MAIO DE 1946
 
 Declara Feriado Nacional o dia 8 de Maio de 1946.

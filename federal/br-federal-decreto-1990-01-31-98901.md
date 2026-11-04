@@ -1,7 +1,3 @@
-1
-
-###DEC-098901-0-000-31-01-1990@@@
-
 DECRETO Nº 98.901, DE 31 DE JANEIRO DE 1990
 
 Autoriza o funcionamento do Curso de Administração da Faculdade de Ciências Humanas de Fortaleza.

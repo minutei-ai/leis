@@ -1,5 +1,3 @@
-###DEC-078027-0-000-12-07-1976@@@
-
 DECRETO N.º 78.027, DE 12 DE JULHO DE 1976.
 
 Renova pôr 10 (dez) anos a concessão outorgada à Emissora Rural A Voz do São Francisco Ltda. para que a Fundação Emissora Rural A Voz do São Francisco passe a executar serviço de radiodifusão sonora em onda média de âmbito regional na cidade de Petrolina, Estado de Pernambuco.

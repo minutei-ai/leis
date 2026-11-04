@@ -1,5 +1,3 @@
-###DEC-083487-0-000-22-05-1979@@@
-
 Decreto nº 83.487, de 22 de maio de 1979.
 
 Suspende, em parte, a execução da lei nº 8.111, de 14 de maio de 1976, do Estado de Goiás.

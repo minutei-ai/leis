@@ -1,5 +1,3 @@
-###DEC-074270-0-000-09-07-1974@@@
-
 DECRETO Nº 74.270 - DE 9 DE JULHO DE 1974.
 
 Concede permissão, em caráter permanente, à empresa Dow Química S.A., com sede na Capital do Estado de São Paulo, para funcionar aos domingos e nos dias feriados civis e religiosos, o seu estabelecimento industrial localizado no município de São Paulo, nos setores que menciona.

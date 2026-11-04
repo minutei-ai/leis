@@ -1,5 +1,3 @@
-###DEC-084457-0-000-31-01-1980@@@
-
 Decreto nº 84.457 de 31 de janeiro de 1980
 
 Regulamenta a Lei nº 6.715, de 12 de novembro de 1979, que cria a Caixa de Financiamento Imobiliário da Aeronáutica.

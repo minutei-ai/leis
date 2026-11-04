@@ -1,5 +1,3 @@
-###DEC-094406-0-000-08-06-1987@@@
-
 DECRETO Nº 94.406, DE 8 DE JUNHO DE 1987
 
 Regulamenta a Lei nº 7.498, de 25 de junho de 1986, que dispõe sobre o exercício da enfermagem, e dá outras providências.

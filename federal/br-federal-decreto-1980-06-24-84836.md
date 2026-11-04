@@ -1,5 +1,3 @@
-###DEC-084836-0-000-24-06-1980@@@
-
 Decreto nº 84.836, de 24 de junho de 1980.
 
 Estabelece área de proteção para fonte de água mineral.

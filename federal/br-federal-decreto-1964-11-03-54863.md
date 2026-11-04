@@ -1,5 +1,3 @@
-###DEC-054863-0-000-03-11-1964@@@
-
 DECRETO Nº 54.863, DE 3 DE NOVEMBRO DE 1964.
 
 Concede à Siderúrgica Santo Amaro S.A. autorização para funcionar como emprêsa de mineração.

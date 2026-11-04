@@ -1,5 +1,3 @@
-###DEC-068839-0-000-02-07-1971@@@
-
 DECRETO Nº 68.839, DE 2 DE JULHO DE 1971.
 
 Retifica o artigo 1º do Decreto número 42.576, de 7 de novembro de 1962.

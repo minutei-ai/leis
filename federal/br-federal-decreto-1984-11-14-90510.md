@@ -1,5 +1,3 @@
-###DEC-090510-0-000-14-11-1984@@@
-
 Decreto nº 90.510, de 14 de novembro de 1984
 
 Renova as concessões outorgadas às entidades que menciona para explorarem serviço de radiodifusão sonora em onda tropical, nas cidades e unidades da Federação indicadas.

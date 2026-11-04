@@ -1,5 +1,3 @@
-###DEC-061873-0-000-08-12-1967@@@
-
 DECRETO Nº 61.873, DE 8 DE DEZEMBRO DE 1967.
 
 Institui Grupo de Trabalho para o fim que menciona

@@ -1,5 +1,3 @@
-###DEC-095191-0-000-12-11-1987@@@
-
 DECRETO N° 95.191, DE 12 DE NOVEMBRO DE 1987
 
 Delega competência ao Ministro de Estado da Previdência e Assistência Social, para o ato que indica.

@@ -1,7 +1,3 @@
-1
-
-###DEL-002463-0-000-30-08-1988@@@
-
 # DECRETO‑LEI Nº 2.463, DE 30 DE AGOSTO DE 1988
 
 Altera a destinação dos recursos do Fundo de Apoio ao Desenvolvimento Social - FAS e do Fundo de Investimento Social - FINSOCIAL e dá outras providências.

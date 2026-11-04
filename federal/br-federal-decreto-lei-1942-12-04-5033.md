@@ -1,5 +1,3 @@
-###DEL-005033-0-000-04-12-1942@@@
-
 DECRETO-LEI N. 5.033 – DE 4 DE DEZEMBRO DE 1942
 
 Revoga o decreto-lei n. 3.286, de 20 de maio de 1941

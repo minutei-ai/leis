@@ -1,5 +1,3 @@
-###DEC-083165-0-000-13-02-1979@@@
-
 decreto nº 83.165, de 13 de fevereiro de 1979
 
 Altera o Decreto nº 81.899, de 10 de julho de 1978, que concedeu reconhecimento ao curso de Psicologia do Centro de Estudos Superiores de Juiz de Fora, com sede em Juiz de Fora, Estado de Minas Gerais.

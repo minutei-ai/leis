@@ -1,5 +1,3 @@
-###DEC-064837-0-000-18-07-1969@@@
-
 DECRETO Nº 64.837 - DE 18 DE JULHO DE 1969.
 
 Declara caduco o Decreto número 13.241 de 25 de agôsto de 1943.

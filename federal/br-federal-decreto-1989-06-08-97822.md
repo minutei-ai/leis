@@ -1,7 +1,3 @@
-1
-
-###DEC-097822-0-000-08-06-1989@@@
-
 DECRETO N° 97.822, DE 08 DE JUNHO DE 1989
 
 Institui o Sistema de Monitoramento Ambiental e dos Recursos Naturais por Satélite - SIMARN e dá outras providências.

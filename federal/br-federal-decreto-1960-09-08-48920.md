@@ -1,5 +1,3 @@
-###DEC-048920-0-000-08-09-1960@@@
-
 DECRETO Nº 48.920, DE 8 DE SETEMBRO DE 1960.
 
 Aprova o Regimento da Comissão de Classificação de Cargos.

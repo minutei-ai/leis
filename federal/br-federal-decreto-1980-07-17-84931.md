@@ -1,5 +1,3 @@
-###DEC-084931-0-000-17-07-1980@@@
-
 Decreto nº 84.931, de 17 de julho de 1980.
 
 Declara perempta a concessão outorgada à Rádio Marajoara Sociedade Anônima, para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Belém, Estado do Pará.

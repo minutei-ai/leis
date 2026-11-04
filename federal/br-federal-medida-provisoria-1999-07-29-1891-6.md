@@ -1,5 +1,3 @@
-###MPV-001891-0-006-29-07-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.891-6, DE 29 DE JULHO DE 1999.
 
 Estabelece critérios para a consolidação, a assunção e o refinanciamento, pela União, da dívida pública mobiliária e outras que especifica, de responsabilidade dos Municípios.

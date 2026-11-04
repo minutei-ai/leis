@@ -1,5 +1,3 @@
-###DEC-079651-0-000-04-05-1977@@@
-
 Decreto nº 79.651, de 4 de maio de 1977.
 
 Concede reconhecimento ao Curso de Ciências Contábeis, da Faculdade de Ciências Contábeis e Atuarias da Alta Noroeste com sede na cidade de Araçatuba, Estado de São Paulo.

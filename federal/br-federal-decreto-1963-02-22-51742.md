@@ -1,5 +1,3 @@
-###DEC-051742-0-000-22-02-1963@@@
-
 DECRETO Nº 51.742, DE 22 DE FEVEREIRO DE 1963.
 
 Declara de utilidade pública o Hospital Santa Isabel, com sede em Blumenau, Estado de Santa Catarina.

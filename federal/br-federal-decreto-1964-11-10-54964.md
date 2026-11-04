@@ -1,5 +1,3 @@
-###DEC-054964-0-000-10-11-1964@@@
-
 Decreto nº 54.964, de 10 de novembro de 1964.
 
 Declara de utilidade pública a Associação Cacondense Pró-Bolsa de Estudos, com sede em Caconde, Estado de São Paulo.

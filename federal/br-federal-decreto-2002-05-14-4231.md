@@ -1,5 +1,3 @@
-###DEC-004231-0-000-14-05-2002@@@
-
 DECRETO Nº 4.231, DE 14 DE MAIO DE 2002
 
 Estabelece restrições para execução, no exercício de 2002, das despesas que especifica, e dá outras providências.

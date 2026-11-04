@@ -1,5 +1,3 @@
-###DEC-078623-0-000-25-10-1976@@@
-
 DECRETO Nº 78.623, DE 25 DE OUTUBRO DE 1976.
 
 Concede permissão, em caráter permanente ás agências do Banco do Brasil S.A , localizado nas áreas integrantes do Sistema Nacional de Centrais de Abastecimento - SINAC-para funcionar aos sábados , domingos e feriados civis e religiosos.

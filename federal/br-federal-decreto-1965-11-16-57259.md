@@ -1,5 +1,3 @@
-###DEC-057259-0-000-16-11-1965@@@
-
 DECRETO Nº 57.259, de 16 DE NOVEMBRO DE 1965.
 
 Concede à Mineralite S.A. - Mineração, Exportação e Importação autorização para funcionar como emprêsa de mineração.

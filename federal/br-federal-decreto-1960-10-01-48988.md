@@ -1,5 +1,3 @@
-###DEC-048988-0-000-01-10-1960@@@
-
 DECRETO Nº 48.988, DE 1 DE OUTUBRO DE 1960.
 
 Cria o Consulado honorário do Brasil em Tampa, Flórida, Estados Unidos da América.

@@ -1,5 +1,3 @@
-###DEC-074839-0-000-06-11-1974@@@
-
 DECRETO Nº 74.839, DE 6 DE NOVEMBRO DE 1974.
 
 Altera o inciso I, do artigo 3º do Decreto nº 65.551, de 21 de outubro de 1969, que confiscou bens pertencentes a Aníbal Khoury.

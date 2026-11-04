@@ -1,5 +1,3 @@
-###DEC-002404-0-000-26-11-1997@@@
-
 DECRETO Nº 2.404, DE 26 DE NOVEMBRO DE 1997
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 1.820, de 26 de fevereiro de 1996.

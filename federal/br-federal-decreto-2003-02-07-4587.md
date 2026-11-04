@@ -1,5 +1,3 @@
-###DEC-004587-0-000-07-02-2003@@@
-
 DECRETO Nº 4.587, DE 7 DE FEVEREIRO DE 2003.
 
        Dá nova redação aos arts. 9o e 11 do Decreto no 4.050, de 12 de dezembro de 2001, que regulamenta o art. 93 da Lei no 8.112, de 11 de dezembro de 1990, que dispõe sobre a cessão de servidores de órgãos e entidades da Administração Pública Federal, direta, autárquica e fundacional, e dá outras providências.
@@ -22,5 +20,6 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
 Brasília, 7 de fevereiro de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Guido Mantega

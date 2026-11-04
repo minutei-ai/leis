@@ -1,5 +1,3 @@
-###DEC-088786-0-000-03-10-1983@@@
-
 DECRETO Nº 88.786, DE 03 DE OUTUBRO DE 1983
 
 Renova por 15 (quinze) anos a concessão outorgada à TELEVISÃO TIBAGI S/A., para explorar serviço de radiodifusão de sons e imagens (TV), na cidade de Apucarana, Estado do Paraná.

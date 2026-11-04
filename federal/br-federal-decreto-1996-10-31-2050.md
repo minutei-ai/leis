@@ -1,7 +1,3 @@
-1
-
-###DEC-002050-0-000-31-10-1996@@@
-
 DECRETO Nº 2.050, DE 31 DE OUTUBRO DE 1996.
 
 Regulamenta o art. 22 da Lei nº 8.460, de 17 de setembro de 1992, que dispõe sobre o auxílio-alimentação destinado aos servidores civis ativos da Administração Pública Federal direta, autárquica e fundacional.

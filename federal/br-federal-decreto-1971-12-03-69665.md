@@ -1,5 +1,3 @@
-###DEC-069665-0-000-03-12-1971@@@
-
 DECRETO Nº 69.665 - DE 3 DE DEZEMBRO DE 1971
 
 Autoriza a Companhia Força e Luz do Paraná a construir subestação e linhas de transmissão e da outras providências.

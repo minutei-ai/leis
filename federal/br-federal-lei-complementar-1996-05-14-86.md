@@ -1,7 +1,3 @@
-1
-
-###LCP-000086-0-000-14-05-1996@@@
-
 LEI COMPLEMENTAR Nº 86, DE 14 DE MAIO DE 1996
 
 Acrescenta dispositivo ao Código Eleitoral, a fim de permitir a ação rescisória em casos de inelegibilidade.

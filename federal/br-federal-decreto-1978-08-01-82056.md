@@ -1,5 +1,3 @@
-###DEC-082056-0-000-01-08-1978@@@
-
 Decreto nº 82.056, de 01 de agosto de 1978.
 
 Autoriza o funcionamento dos Cursos de Pedagogia e de Estudos Sociais, ministrados na cidade de Guajará-Mirim, Território Federal de Rondônia, pela universidade Federal do Acre.

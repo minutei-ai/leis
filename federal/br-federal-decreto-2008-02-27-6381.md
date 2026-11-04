@@ -1,5 +1,3 @@
-###DEC-006381-0-000-27-02-2008@@@
-
 DECRETO Nº 6.381, DE 27 DE FEVEREIRO DE 2008.
 
 Regulamenta a Lei no 7.474, de 8 de maio de 1986, que dispõe sobre medidas de segurança aos ex-Presidentes da República, e dá outras providências.
@@ -55,5 +53,3 @@ LUIZ INÁCIO LULA DA SILVA
 Tarso Genro
 
 Jorge Armando Felix
-
-Este texto não substitui o publicado no DOU de 28.2.2008

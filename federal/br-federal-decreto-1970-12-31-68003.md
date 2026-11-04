@@ -1,5 +1,3 @@
-###DEC-068003-0-000-31-12-1970@@@
-
 DECRETO Nº 68.003, DE 31 DE DEZEMBRO DE 1970.
 
 Declara caduco o Decreto nº 22.487, de 20 de janeiro de 1947.

@@ -1,5 +1,3 @@
-###DEC-007571-0-000-28-09-2011-PUB-01@@@
-
 DECRETO Nº 7.571, DE 28 DE SETEMBRO DE 2011
 
 Excepciona a aplicação do intervalo de movimentação e aumenta o limite do valor de saque de conta vinculada do Fundo de Garantia do Tempo de Serviço - FGTS, estabelecidos no art. 4º do Decreto nº 5.113, de 22 de junho de 2004, para os atingidos por desastres naturais no Estado de Santa Catarina.

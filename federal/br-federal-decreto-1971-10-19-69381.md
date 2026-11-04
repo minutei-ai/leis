@@ -1,5 +1,3 @@
-###DEC-069381-0-000-19-10-1971@@@
-
 DECRETO Nº 69.381, DE 19 DE OUTUBRO DE 1971.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona.

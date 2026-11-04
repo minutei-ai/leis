@@ -1,5 +1,3 @@
-###DEC-094531-0-000-26-06-1987@@@
-
 DECRETO N° 94.531, DE 26 DE JUNHO DE 1987.
 
 Outorga concessão à SOCIEDADE RÁDIO DIFUSORA NORTESTADO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de São Gabriel do Oeste, Estado do Mato Grosso do Sul.

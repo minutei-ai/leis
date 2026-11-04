@@ -1,5 +1,3 @@
-###DEC-092291-0-000-13-01-1986@@@
-
 DECRETO Nº 92.291, DE 13 DE JANEIRO DE 1986
 
 Outorga concessão à RÁDIO VOZ DO SÃO FRANCISCO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Januária, Estado de Minas Gerais.

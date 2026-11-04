@@ -1,5 +1,3 @@
-###DEL-008981-0-000-14-02-1946@@@
-
 DECRETO-LEI N. 8.981 – DE 14 DE FEVEREIRO DE 1946
 
 Eleva o padrão de vencimentos do cargo de Governador do Território do Acre.

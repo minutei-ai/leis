@@ -1,5 +1,3 @@
-###DEC-058474-0-000-17-05-1966@@@
-
 DECRETO Nº 58.474, DE 17 DE MAIO DE 1966.
 
 Autoriza o Ministério da Fazenda a prestar a garantia do Tesouro Nacional em contrato de empréstimo a ser firmado entre a Central Elétrica de Furnas S.A. e o International Bank for Reconstruction and Development.

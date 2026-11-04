@@ -1,5 +1,3 @@
-###DEL-002118-0-000-14-05-1984@@@
-
 # Decreto-lei nº 2.118, de 14 de maio de 1984
 
 Autoriza o Banco do Brasil S.A. a contratar operações de crédito externo, na forma e nos limites que especifica.

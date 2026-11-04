@@ -1,5 +1,3 @@
-###DEC-074470-0-000-28-08-1974@@@
-
 DECRETO Nº 74.470, DE 28 DE AGOSTO DE 1974.
 
 Reorganiza a Comissão de Estudos Relativos à Navegação Aérea Internacional - CERNAI, aprova seu Regulamento e dá outras providências.

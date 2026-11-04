@@ -1,5 +1,3 @@
-###DEC-005239-0-000-11-10-2004@@@
-
 DECRETO Nº 5.239 DE 11 DE OUTUBRO DE 2004
 
  Desvincula ações do Fundo Nacional de Desestatização \- FND, de que trata o art. 9º da Lei nº 9.491, de 9 de setembro de 1997, e autoriza o aumento do capital social da Companhia Docas do Rio de Janeiro \- CDRJ.

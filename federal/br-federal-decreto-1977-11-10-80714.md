@@ -1,5 +1,3 @@
-###DEC-080714-0-000-10-11-1977@@@
-
 decreto nº 80.714, de 10 de novembro de 1977.
 
 Declara a caducidade da concessão de lavra que menciona.

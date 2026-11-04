@@ -1,5 +1,3 @@
-###DEC-057635-0-000-14-01-1966@@@
-
 decreto nº 57.635, de 14 de janeiro de 1966.
 
 Dá nova redação ao art. 4º do Decreto nº 55.749, de 11 de fevereiro de 1965.

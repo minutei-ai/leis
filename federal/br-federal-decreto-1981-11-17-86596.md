@@ -1,5 +1,3 @@
-###DEC-086596-0-000-17-11-1981@@@
-
 Decreto nº 86.596, de 17 de novembro de 1981
 
 Retifica o Decreto nº 86.173, de 2 de julho de 1981, que altera os limites do Parque Nacional da Chapada dos Veadeiros.

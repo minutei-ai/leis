@@ -1,5 +1,3 @@
-###DEC-080886-0-000-30-11-1977@@@
-
 Decreto nº 80.886, de 30 de novembro de 1977.
 
 Declara a caducidade da concessão de lavra que menciona.

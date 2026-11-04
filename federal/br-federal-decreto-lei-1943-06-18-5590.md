@@ -1,5 +1,3 @@
-###DEL-005590-0-000-18-06-1943@@@
-
 DECRETO‑LEI N. 5.590 – DE 18 DE JUNHO DE 1943
 
 Transfere, de Fernardo de Noronha para Vitória – Estado do Espírito Santo, a sede do 1º Grupo Independente de Artilharia

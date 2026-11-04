@@ -1,6 +1,4 @@
-###DEC-043729-0-000-21-05-1958@@@
-
-<strong>DECRETO Nº 43.729, DE 21 DE MAIO DE 1958.</strong>
+**DECRETO Nº 43.729, DE 21 DE MAIO DE 1958.**
 
 <!-- fac-simile-oficial:inicio -->
 

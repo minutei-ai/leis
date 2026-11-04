@@ -1,5 +1,3 @@
-###DEC-052469-0-000-12-09-1963@@@
-
 decreto nº 52.469, de 12 de setembro de 1963.
 
 Dispõe sôbre remuneração do pessoal no exterior e dá outras providências.

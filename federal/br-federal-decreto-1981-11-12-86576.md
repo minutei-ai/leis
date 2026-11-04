@@ -1,5 +1,3 @@
-###DEC-086576-0-000-12-11-1981@@@
-
 Decreto nº 86.576, de 12 de novembro de 1981.
 
 Dá nova redação a dispositivo do Regimento dos Gabinetes da Presidência da República, aprovado pelo Decreto nº 83500, de 28 de maio de 1979.

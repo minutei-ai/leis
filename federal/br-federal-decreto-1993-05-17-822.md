@@ -1,7 +1,3 @@
-1
-
-###DEC-000822-0-000-17-05-1993@@@
-
 DECRETO Nº 822, DE 17 DE MAIO DE 1993
 
 Dispõe sobre a aplicação dos recursos em moeda corrente, decorrentes de alienações no âmbito do Programa Nacional de Desestatização, em programas e projetos da ciência e tecnologia, da saúde, da segurança pública e do meio ambiente.

@@ -1,5 +1,3 @@
-###DEC-094385-0-000-28-05-1987@@@
-
 DECRETO Nº 94.385, DE 28 DE MAIO DE 1987.
 
 Dispõe sobre a supervisão ministerial sobre a VALEC - Engenharia e Construções Limitada, e dá outras providências.

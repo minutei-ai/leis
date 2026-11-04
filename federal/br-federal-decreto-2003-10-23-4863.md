@@ -1,5 +1,3 @@
-###DEC-004863-0-000-23-10-2003@@@
-
 DECRETO Nº 4.863,  DE 23 DE OUTUBRO DE 2003.
 
        Dispõe sobre a regularização da doação, para a União, da via pública denominada Guisep Muccini, de propriedade do Município de Juazeiro, Estado da Bahia.
@@ -14,5 +12,6 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
         Brasília, 23 de outubro de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Anderson Adauto Pereira

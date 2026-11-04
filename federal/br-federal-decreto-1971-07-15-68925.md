@@ -1,5 +1,3 @@
-###DEC-068925-0-000-15-07-1971@@@
-
 DECRETO Nº 68.925, DE 15 DE JULHO DE 1971.
 
 Regulamenta a aplicação dos recursos de que trata o § 4° da Lei nº 2.004, de 3 de outubro de 1953, e dá outras providências.

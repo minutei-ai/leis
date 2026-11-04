@@ -1,5 +1,3 @@
-###DEL-008054-0-000-08-10-1945@@@
-
 DECRETO-LEI N. 8.054 – DE 8 DE OUTUBRO DE 1945
 
 Retifica o art. 4º do Decreto-lei número 6.814 de 21-8-1944

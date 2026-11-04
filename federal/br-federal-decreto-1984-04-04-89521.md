@@ -1,5 +1,3 @@
-###DEC-089521-0-000-04-04-1984@@@
-
 Decreto nº 89.521, de 04 de abriL de 1984
 
 Renova por 10 (dez) anos a concessão outorgada à MOSSORÓ RÁDIO SOCIEDADE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Mossoró, Estado do Rio Grande do Norte.

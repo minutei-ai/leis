@@ -1,5 +1,3 @@
-###DEC-099634-0-000-23-10-1990@@@
-
 DECRETO N° 99.634, DE 23 DE OUTUBRO DE 1990
 
 Dispõe sobre a execução da Ata de Retificação do Décimo Terceiro Protocolo Adicional ao Acordo Comercial n° 21, entre o Brasil e o Chile.

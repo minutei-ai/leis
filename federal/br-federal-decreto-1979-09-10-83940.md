@@ -1,5 +1,3 @@
-###DEC-083940-0-000-10-09-1979@@@
-
 Decreto nº 83.940, de 10 de setembro de 1979.
 
 Dispõe sobre a transferência do Conselho Interministerial de Preços (CIP) para a Secretaria de Planejamento da Presidência da República, e dá providências.
@@ -31,8 +29,6 @@ Karlos Rischbieter
 Ângelo Amaury Stabile
 
 Delfim Netto
-
-###DEC-083940-0-000-10-09-1979@@@RET01+++
 
 Decreto nº 83.940, de 10 de setembro de 1979.
 

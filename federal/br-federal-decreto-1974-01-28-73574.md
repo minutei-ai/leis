@@ -1,5 +1,3 @@
-###DEC-073574-0-000-28-01-1974@@@
-
 Decreto nº 73.574, de 28 de janeiro de 1974.
 
 Altera a organização do Departamento Geral do Pessoal, do Ministério do Exército, e dá outras providências.

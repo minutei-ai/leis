@@ -1,5 +1,3 @@
-###DEC-002017-0-000-01-10-1996@@@
-
 DECRETO N° 2.017, DE 1º DE OUTUBRO DE 1996.
 
 Dá nova redação ao art. 14 do Decreto nº 97.667, de 19 de abril de 1989, que regulamenta a Retribuição Adicional Variável.

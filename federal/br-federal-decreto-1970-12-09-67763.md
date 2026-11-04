@@ -1,5 +1,3 @@
-###DEC-067763-0-000-09-12-1970@@@
-
 decreto nº 67.763, de 9 de dezembro de 1970.
 
 Declara caduco o Decreto número 27.557, de 7 de dezembro de 1949.

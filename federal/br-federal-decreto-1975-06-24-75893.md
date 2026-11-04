@@ -1,5 +1,3 @@
-###DEC-075893-0-000-24-06-1975@@@
-
 DECRETO Nº 75.893, DE 24 DE JUNHO DE 1975.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do domínio direto do terreno que menciona situado em Curitiba, Estado do Paraná.

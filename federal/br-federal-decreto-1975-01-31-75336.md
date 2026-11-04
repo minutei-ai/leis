@@ -1,5 +1,3 @@
-###DEC-075336-0-000-31-01-1975@@@
-
 DECRETO Nº 75.336, DE 31 DE JANEIRO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Clube de Blumenau, cuja denominação foi alterada para Rádio Clube de Blumenau Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Blumenau, Estado de Santa Catarina.

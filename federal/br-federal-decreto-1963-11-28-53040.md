@@ -1,5 +1,3 @@
-###DEC-053040-0-000-28-11-1963@@@
-
 DECRETO Nº 53.040, DE 28 DE NOVEMBRO DE 1963.
 
 Concede reconhecimento a Curso Superior.

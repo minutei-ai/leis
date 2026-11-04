@@ -1,5 +1,3 @@
-###DEC-006575-0-000-25-09-2008@@@
-
 DECRETO Nº 6.575, DE 25 DE SETEMBRO DE 2008.
 
 Altera o Estatuto Social do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, aprovado pelo Decreto no 4.418, de 11 de outubro de 2002.

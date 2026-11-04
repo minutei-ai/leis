@@ -1,5 +1,3 @@
-###DEC-048346-0-000-21-06-1960@@@
-
 DECRETO Nº 48.346, DE 21 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Joaquim da Silva Velho a pesquisar quartzito, no município de Prados, Estado de Minas Gerais.

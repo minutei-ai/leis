@@ -1,26 +1,24 @@
-###DEC-021036-0-000-29-04-1946@@@
+**DECRETO Nº 21.036, DE 29 DE ABRIL DE 1946.**
 
-<strong>DECRETO Nº 21.036, DE 29 DE ABRIL DE 1946.</strong>
+***Concede à sociedade “Chargeurs Réunis (societé anonyme) Compagnie Française de Navigation a Vapeur”, autorização para continuar a funcionar na República.***
 
-<em><strong>Concede à sociedade “Chargeurs Réunis (societé anonyme) Compagnie Française de Navigation a Vapeur”, autorização para continuar a funcionar na República.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, atendendo ao que requereu a sociedade “*Chargeurs Réunis (societé anonyme) Compagne Française de Navigation a Vapeur*”, autorizada a funcionar na República pelo Decreto nº 10.027, de 21 de agôsto de 1887,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, atendendo ao que requereu a sociedade “<em>Chargeurs Réunis (societé anonyme) Compagne Française de Navigation a Vapeur</em>”, autorizada a funcionar na República pelo Decreto nº 10.027, de 21 de agôsto de 1887,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-Artigo único. É concedida à sociedade “<em>Chargeurs Réunis (societé anonyme) Compagnie Française de Navigation a Vapeur</em>”, com sede em Paris, França, autorização para continuar a funciona na República com as alterações introduzidas em seus estatutos e com o capital de Cr$100.000,00, para as suas operações no Brasil, em virtude das resoluções tomadas, respectivamente, pelos seus acionistas, em assembléias gerais de 28 de abril de 1919 e 14 de maio de 1941 e pelo Conselho de Administração, em reunião de 19 de novembro de 1941, e sob as cláusulas que êste acompanham, ficando a aludida sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor ou que venham a vigorar, sôbre o objeto da referida autorização.
+Artigo único. É concedida à sociedade “*Chargeurs Réunis (societé anonyme) Compagnie Française de Navigation a Vapeur*”, com sede em Paris, França, autorização para continuar a funciona na República com as alterações introduzidas em seus estatutos e com o capital de Cr$100.000,00, para as suas operações no Brasil, em virtude das resoluções tomadas, respectivamente, pelos seus acionistas, em assembléias gerais de 28 de abril de 1919 e 14 de maio de 1941 e pelo Conselho de Administração, em reunião de 19 de novembro de 1941, e sob as cláusulas que êste acompanham, ficando a aludida sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor ou que venham a vigorar, sôbre o objeto da referida autorização.
 
 Rio de Janeiro, 29 de abril de 1946, 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Octacilio Negrão de Lima
 
-<strong>CLÁUSULAS QUE ACOMPANHAM O DECRETO N.º 21.036, DESTA DATA</strong>
+**CLÁUSULAS QUE ACOMPANHAM O DECRETO N.º 21.036, DESTA DATA**
 
 I
 
-A. Sociedade “<em>Chargeurs Réunis (societé anonyme) Compangnie Française de Navigation à Vapeur</em>” é obrigada a ter permanentemente um representante geral no Brasil, com plenos e ilimitados poderes para tratar e definitivamente resolver as questões que se suscitarem, quer como Govêrno, quer com particulares, podendo ser demandado e receber citação inicial pela Sociedade.
+A. Sociedade “*Chargeurs Réunis (societé anonyme) Compangnie Française de Navigation à Vapeur*” é obrigada a ter permanentemente um representante geral no Brasil, com plenos e ilimitados poderes para tratar e definitivamente resolver as questões que se suscitarem, quer como Govêrno, quer com particulares, podendo ser demandado e receber citação inicial pela Sociedade.
 
 II
 
@@ -46,4 +44,4 @@ A. infração de qualquer das cláusulas para a qual não esteja cominada pena e
 
 Rio de Janeiro, 29 de Abril de 1946.
 
-<strong>OCTACILIO NEGRÃO DE LIMA</strong>
+**OCTACILIO NEGRÃO DE LIMA**

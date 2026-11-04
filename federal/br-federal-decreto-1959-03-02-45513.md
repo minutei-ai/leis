@@ -1,5 +1,3 @@
-###DEC-045513-0-000-02-03-1959@@@
-
 DECRETO Nº 45.513, DE 2 DE MARÇO DE 1959.
 
 Concede o abono provisório aos servidores da Caixa de Construções de Casas.

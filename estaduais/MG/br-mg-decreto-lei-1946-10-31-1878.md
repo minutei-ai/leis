@@ -33,7 +33,3 @@ Tristão Ferreira da Cunha
 João Franzen de Lima
 
 Pio Soares Canedo
-
-\=====================================
-
-Data da última atualização: 4/9/2006.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000486-0-000-07-04-1992@@@
-
 DECRETO Nº 486, DE 7 DE ABRIL DE 1992
 
 Dispõe sobre o valor das diárias no exterior para as autoridades que menciona.

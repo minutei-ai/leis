@@ -1,8 +1,11 @@
-DECRETO Nº 9.648, DE 13 DE ABRIL DE 2020<br>
-\- [Revogado pelo Decreto nº 10.721, de 7-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111037), art. 8º, I.<br>
+DECRETO Nº 9.648, DE 13 DE ABRIL DE 2020
+
+\- [Revogado pelo Decreto nº 10.721, de 7-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111037), art. 8º, I.
+
 \- [Vide Decreto nº 9.742, de 03-11-2020](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103558/decreto-9742), Prorroga por 6 (seis) meses, o prazo do parágrafo único do art. 1º
 
-     <br>
+     
+
 ~~Autoriza a Agência Goiana de Infraestrutura e Transportes - GOINFRA a celebrar e manter os contratos temporários que especifica.~~
 
 ~~O GOVERNADOR DO ESTADO DE GOIÁS, no uso de suas atribuições constitucionais e nos termos da [Lei estadual nº 13.664](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82034), de 27 de julho de 2000, com alterações posteriores, também tendo em vista o que consta do Processo nº 202000036001546,~~ 

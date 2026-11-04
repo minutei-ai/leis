@@ -1,5 +1,3 @@
-###DEC-058222-0-000-19-04-1966@@@
-
 DECRETO Nº 58.222, DE 19 DE ABRIL DE 1966.
 
 Institui Olavo Bilac como Patrono do Serviço Militar.

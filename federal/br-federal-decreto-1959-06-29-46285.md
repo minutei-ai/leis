@@ -1,5 +1,3 @@
-###DEC-046285-0-000-29-06-1959@@@
-
 DECRETO Nº 46.285, DE 29 DE junho DE 1959.
 
 Autoriza o cidadão brasileiro José Rosim a pesquisar quartzo no município de Monte Sião, Estado de Minas Gerais.

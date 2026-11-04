@@ -1,5 +1,3 @@
-###DEC-077791-0-000-09-06-1976@@@
-
 DECRETO Nº 77.791, DE 9 DE JUNHO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação, terreno necessário à implantação da Subestação de Areia, da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, no Estado do Paraná.

@@ -1,14 +1,12 @@
-###DEC-040991-0-000-21-02-1957@@@
+**DECRETO Nº 40.991, DE 21 DE FEVEREIRO DE 1957.**
 
-<strong>DECRETO Nº 40.991, DE 21 DE FEVEREIRO DE 1957.</strong>
+***Declara de utilidade pública e autoriza a desapropriação de imóvel necessário ao Serviço do Exército Nacional.***
 
-<em><strong>Declara de utilidade pública e autoriza a desapropriação de imóvel necessário ao Serviço do Exército Nacional.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, tendo em vista o § 16 do art. 141 da Constituição Federal, e usando das atribuições que lhe confere o item I, do art. 87 da mesma Constituição
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, tendo em vista o § 16 do art. 141 da Constituição Federal, e usando das atribuições que lhe confere o item I, do art. 87 da mesma Constituição
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º É declarado de utilidade pública, para fins de desapropriação de acôrdo com o art. 6º, combinado com as letras <em>a</em> e <em>b</em> do art. 5º, tudo do Decreto-lei nº 3.365, de 21 de junho de 1941, o imóvel situado no município de Baependi e Luminária no Estado de Minas Gerais, assim descriminado e constituído das seguinte Glebas.
+**Art**. 1º É declarado de utilidade pública, para fins de desapropriação de acôrdo com o art. 6º, combinado com as letras *a* e *b* do art. 5º, tudo do Decreto-lei nº 3.365, de 21 de junho de 1941, o imóvel situado no município de Baependi e Luminária no Estado de Minas Gerais, assim descriminado e constituído das seguinte Glebas.
 
 1 - Gleba de propriedade de Horácio Pereira Martins, no Município de Luminárias, no local denominado Reitirinho, tendo como benfeitorias uma casa de residência duas pequenas casas de terreiro, um moinho para fubá e três casas para colonos, com uma área total de 99 há, tendo como confrontantes, Francisco Alves Pereira, Jacy Garaciano Pereira, Osvaldo Alves Pereira, Thomas Roberto Pereira, Pedro Junqueira Filho e maria Aparecida Carvalho Gonçalves, tudo no valor total de Cr$459.396, 70 (quatrocentos e cinquenta e nove mil, trezentos e oitenta e sete cruzeiros e setenta centavos).
 
@@ -46,14 +44,14 @@
 
 18 - Propriedade de josé Capistrano de Souza, Antônio Bazilio de Souza e Umberto da Silva Guedes, situada no Município de Baependi, no local denominado Serra de São Thomé, tendo como confrontantes Gastão Alves de Carvalho, Thomé Luiz Aalves de Carvalho, Thomé Alves, Pedro Junqueira Filho e os Próprios Vendedores, com uma jazida de pedra em exploração como benfeitorias, tendo uma área de 38,2 ha, tudo no valor de Cr$313.679,40 (trezentos e treze mil seiscentos e setenta e nove cruzeiros e quarenta centavos). Tudo de acôrdo com os elementos constantes de processo protocolado naquêle Ministério sob o nº 9.490-54 Gab. M. G.
 
-<strong>Art</strong>. 2º O imóvel em aprêço se destina ao Ministério da Guerra e Escola de Sargentos das Armas.
+**Art**. 2º O imóvel em aprêço se destina ao Ministério da Guerra e Escola de Sargentos das Armas.
 
-<strong>Art</strong>. 3º Fica o Ministério da Guerra autorizado a promover a desapropriação em causa, correndo as respectivas despesas a conta dos recursos orçamentários do referido Ministério.
+**Art**. 3º Fica o Ministério da Guerra autorizado a promover a desapropriação em causa, correndo as respectivas despesas a conta dos recursos orçamentários do referido Ministério.
 
-<strong>Art</strong>. 4º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 4º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 21 de fevereiro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

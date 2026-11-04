@@ -12,18 +12,16 @@ Art. 2º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 10 de agosto de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
-Governador do Estado<br>
-<br>
+Governador do Estado
 
 **ANEXO ÚNICO**
 
-**MEDALHA DO GUARDIÃO 2021<br>
-<br>
-****Autoridades militares<br>
+**MEDALHA DO GUARDIÃO 2021
+
+Autoridades militares
+
 I – Oficiais e Praças da Polícia Militar do Estado de Goiás:**
 
 |

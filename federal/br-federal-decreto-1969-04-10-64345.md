@@ -1,5 +1,3 @@
-###DEC-064345-0-000-10-04-1969@@@
-
 DECRETO Nº 64.345, DE 10 DE ABRIL DE 1969.
 
 Institui normas para a contratação de serviços, objetivando o desenvolvimento da Engenharia nacional.

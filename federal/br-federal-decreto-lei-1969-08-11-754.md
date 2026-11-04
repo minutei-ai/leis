@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/98cabdb2-3dc5-4c45-9aa5-39689e9c63e8/texto#nowhere)
 
-###DEL-000754-0-000-11-08-1969@@@
-
 DECRETO-LEI Nº 754, DE 11 DE AGÔSTO DE 1969
 
 Altera a redação do § 2º do artigo 224 da Consolidação das Leis do Trabalho.

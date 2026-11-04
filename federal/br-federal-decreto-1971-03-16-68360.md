@@ -1,5 +1,3 @@
-###DEC-068360-0-000-16-03-1971@@@
-
 DECRETO Nº 68.360, DE 16 DE MARÇO DE 1971.
 
 Autoriza a cessão gratuita do terreno e benfeitorias que menciona, situados no Distrito Federal.

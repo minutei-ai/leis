@@ -1,5 +1,3 @@
-###DEC-067067-0-000-17-08-1970@@@
-
 decreto nº 67.067, de 17 de agôsto de 1970.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem de linha de transmissão no Estado de São Paulo.

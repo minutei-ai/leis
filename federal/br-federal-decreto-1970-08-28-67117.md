@@ -1,5 +1,3 @@
-###DEC-067117-0-000-28-08-1970@@@
-
 DECRETO Nº 67.117, DE 28 DE AGôSTO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Permanente - do Ministério da Saúde, cargos originários do Departamento Administrativo do Pessoal Civil (DASP).

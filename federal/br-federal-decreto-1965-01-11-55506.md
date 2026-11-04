@@ -1,5 +1,3 @@
-###DEC-055506-0-000-11-01-1965@@@
-
 Decreto nº 55.506, de 11 de janeiro de 1965.
 
 Autoriza o cidadão brasileiro Dante Marchoine a pesquisar calcário, no município de Eldorado, Estado de São Paulo.

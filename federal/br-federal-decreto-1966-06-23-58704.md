@@ -1,5 +1,3 @@
-###DEC-058704-0-000-23-06-1966@@@
-
 DECRETO Nº 58.704, de 23 de junho de 1966.
 
 Cria o Consulado Honorário do Brasil em Abidjã, Costa do Marfim.

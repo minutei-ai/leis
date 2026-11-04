@@ -1,5 +1,3 @@
-###DEC-046535-0-000-31-07-1959@@@
-
 DECRETO Nº 46.535, DE 31 DE JULHO DE 1959.
 
 Destaca, para a Base Aérea de Belém, uma Seção de Aviões do 2/10º Gp.Av.

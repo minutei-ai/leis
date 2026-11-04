@@ -1,5 +1,3 @@
-###DEC-078373-0-000-03-09-1976@@@
-
 DECRETO Nº 78.373, DE 3 DE Setembro DE 1976.
 
 Altera dispositivo do Decreto número 72.174-73, de 7 de maio de 1973, que concedeu reconhecimento à Escola Superior de Relações Públicas do Recife, com sede na cidade de Recife, Estado de Pernambuco.

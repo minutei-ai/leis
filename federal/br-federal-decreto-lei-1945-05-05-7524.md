@@ -1,5 +1,3 @@
-###DEL-007524-0-000-05-05-1945@@@
-
 DECRETO-LEI N. 7.524 – DE 5 DE MAIO DE 1945
 
 Cria taxas adicionais sôbre preços dos fornecimentos de energia elétrica, de gás, água, telefones e transportes coletivos, para aumento de salários dos empregados, e dá outras providências

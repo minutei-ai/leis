@@ -1,5 +1,3 @@
-###DEC-004504-0-000-09-12-2002@@@
-
 DECRETO Nº 4.504, DE 9 DE DEZEMBRO DE 2002
 
 Delega competência ao Ministro de Estado da Educação para a prática dos atos que menciona.

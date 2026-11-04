@@ -1,5 +1,3 @@
-###DEC-052114-0-000-17-06-1963@@@
-
 DECRETO Nº 52.114, DE 17 DE junho DE 1963.
 
 Autoriza o Ministério da Justiça e Negócios Interiores e Negócios Interiores, por intermédio do Departamento Federal de Segurança Pública, assinar com os Estados, Convênios destinados a promover o intercâmbio de informações no setor de identificação e dá outras providências.

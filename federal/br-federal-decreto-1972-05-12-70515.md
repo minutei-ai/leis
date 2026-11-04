@@ -1,5 +1,3 @@
-###DEC-070515-0-000-12-05-1972@@@
-
 Decreto Nº 70.515, de 12 de Maio de 1972.
 
 Redistribui, com o respectivo ocupante, para a Universidade Federal do Rio Grande do Norte, cargo do Ministério da Saúde, e dá outras providências.

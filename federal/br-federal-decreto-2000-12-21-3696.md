@@ -1,5 +1,3 @@
-###DEC-003696-0-000-21-12-2000@@@
-
 DECRETO Nº 3.696, DE 21 DE DEZEMBRO DE 2000.
 
 Dispõe sobre o Sistema Nacional Antidrogas, e dá outras providências.

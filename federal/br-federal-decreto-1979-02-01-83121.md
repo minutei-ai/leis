@@ -1,5 +1,3 @@
-###DEC-083121-0-000-01-02-1979@@@
-
 Decreto nº 83.121, de 01 de fevereiro de 1979.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Chavantes S.A., para que a Fundação Padre Pelágio passe a executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Ipameri, Estado de Goiás.

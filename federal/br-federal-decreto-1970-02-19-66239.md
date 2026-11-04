@@ -1,5 +1,3 @@
-###DEC-066239-0-000-19-02-1970@@@
-
 DECRETO Nº 66.239 - DE 19 DE FEVEREIRO DE 1970
 
 Extingue o Serviço de Assistência Médica da Marinha em Brasília (SAMMB).

@@ -1,5 +1,3 @@
-###DEC-066570-0-000-14-05-1970@@@
-
 DECRETO Nº 66.570, DE 14 DE MAIO DE 1970.
 
 Declara de utilidade pública a Sociedade Sulina Divina Providência, com sede em Arroio do Meio, Estado do Rio Grande do Sul.

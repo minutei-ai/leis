@@ -1,5 +1,3 @@
-###DEC-094449-0-000-16-06-1987@@@
-
 DECRETO Nº 94.449, DE 16 DE JUNHO DE 1987
 
 Concede permissão, em caráter permanente, às agências do Banco do Estado de São Paulo S.A., localizadas nas áreas integrantes do Sistema Nacional de Centrais de Abastecimento - SINAC, no Estado de São Paulo, para funcionar aos sábados, domingos e feriados civis e religiosos.

@@ -1,5 +1,3 @@
-###DEC-088339-0-000-30-05-1983@@@
-
 Decreto nº 88.339, de 30 de maio de 1983
 
 Revoga o Decreto nº 32.580, de 14 de abril de 1953, que outorgou concessão à RÁDIO CULTURA DE POÇOS DE CALDAS S/A. atualmente RÁDIO CULTURA DE POÇOS DE CALDAS LTDA., para exploração do serviço de radiodifusão sonora em onda tropical, na cidade de Poços de Caldas, Estado de Minas Gerais.

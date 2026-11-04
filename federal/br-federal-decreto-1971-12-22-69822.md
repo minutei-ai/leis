@@ -1,5 +1,3 @@
-###DEC-069822-0-000-22-12-1971@@@
-
 decreto nº 69.822 - de 22 DE DEZEMBRO de 1971
 
 Declara de utilidade pública a Fundação Universidade de Bagé, com sede em Bagé, Estado do Rio Grande do Sul.

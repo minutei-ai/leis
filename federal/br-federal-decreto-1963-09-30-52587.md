@@ -1,5 +1,3 @@
-###DEC-052587-0-000-30-09-1963@@@
-
 decreto nº 52.587, de 30 de setembro de 1963.
 
 Complementa o art. 15, § 2º , do Decreto-lei nº 9.202, de 26 de abril de 1946 e dá outras providências.

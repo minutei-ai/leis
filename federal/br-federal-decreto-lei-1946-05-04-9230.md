@@ -1,5 +1,3 @@
-###DEL-009230-0-000-04-05-1946@@@
-
 DECRETO-LEI N. 9.230 – DE 4 DE MAIO DE 1946
 
 Dispõe sôbre lotação de repartições e serviços e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-089411-0-000-29-02-1984@@@
-
 Decreto nº 89.411, de 29 de fevereiro de 1984
 
 Altera a redação da alínea e do artigo 1º do Decreto nº 83.840, de 14 de agosto de 1979, que delega competência a Ministros de Estado e a outras autoridades para a prática de ates que especifica.

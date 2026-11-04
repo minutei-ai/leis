@@ -1,7 +1,3 @@
-1
-
-###DEC-095583-0-000-05-01-1988@@@
-
 DECRETO N° 95.583, DE 5 DE JANEIRO DE 1988
 
 Outorga concessão à Rádio Cultura de Açailândia Ltda., para explorar serviço de radiodifusão sonora em onda média, na  cidade de Açailândia, Estado do Maranhão.

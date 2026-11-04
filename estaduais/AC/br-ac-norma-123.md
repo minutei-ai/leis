@@ -2,7 +2,11 @@ Revogada pela Lei nº [3.759 , de 16 de Julho de 2021.](https://legis.ac.gov.br/
 
 > **LEI Nº 3.631, DE 26 DE MAIO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a criação do Auxílio Temporário de Emergência em Saúde - ATS destinado a suprir os gastos excepcionais e emergenciais decorrentes da exposição excessiva de agentes públicos aos efeitos da pandemia causada pelo novo coronavírus - Covid -19.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a criação do Auxílio Temporário de Emergência em Saúde - ATS destinado a suprir os gastos excepcionais e emergenciais decorrentes da exposição excessiva de agentes públicos aos efeitos da pandemia causada pelo novo coronavírus - Covid -19.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -46,7 +50,7 @@ Revogada pela Lei nº [3.759 , de 16 de Julho de 2021.](https://legis.ac.gov.br/
 
 **§ 2º** Os efeitos financeiros decorrentes da gratificação de que trata esta lei dar-se-ão a contar de sua publicação no Diário Oficial do Estado, vedado o cômputo de efeitos retroativos.
 
-**Art. 4º** O Auxílio Temporário de Emergência em Saúde - ATS se extinguirá noventa dias após a publicação desta lei. ~~(Prazo prorrogado por mais 30 dias pelo Decreto nº 6.706, de 01/09/2020)~~ ~~(Prazo prorrogado por mais 30 dias pelo Decreto nº 7.363, de 26/11/2020)~~ (Vide Decreto nº 8.749, de 23 de abril de 2021, que prorrogou o prazo de que trata este dispositivo por 30 dias, contados do encerramento da última prorrogação)
+**Art. 4º** O Auxílio Temporário de Emergência em Saúde - ATS se extinguirá noventa dias após a publicação desta lei. ~~(Prazo prorrogado por mais 30 dias pelo Decreto nº 6.706, de 01/09/2020)(Prazo prorrogado por mais 30 dias pelo Decreto nº 7.363, de 26/11/2020)~~ (Vide Decreto nº 8.749, de 23 de abril de 2021, que prorrogou o prazo de que trata este dispositivo por 30 dias, contados do encerramento da última prorrogação)
 
 **§ 1º** O prazo de que trata o _caput_ poderá ser prorrogado mediante decreto, sucessivamente a cada 30 (trinta) dias, enquanto perdurar o reconhecimento de calamidade pública aprovado pelo Decreto Legislativo nº 02, de 20 de março de 2020, desde que haja disponibilidade financeira e orçamentária.
 

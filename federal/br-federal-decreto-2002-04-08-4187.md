@@ -1,5 +1,3 @@
-###DEC-004187-0-000-08-04-2002@@@
-
 DECRETO Nº 4.187, DE 8 DE ABRIL DE 2002
 
 Regulamenta os arts. 6º e 7º da Medida Provisória nº 2.225-45, de 4 de setembro de 2001, que dispõem sobre o impedimento de autoridades exercerem atividades ou prestarem serviços após a exoneração do cargo que ocupavam e sobre a remuneração compensatória a elas devida pela União, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-000622-0-000-11-06-1969@@@
-
 Decreto-Lei nº 622, de 11 de junho de 1969
 
 Cria cargos na carreira do Ministério Público do Distrito Federal e dá outras providências.

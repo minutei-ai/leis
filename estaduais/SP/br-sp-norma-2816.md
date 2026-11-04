@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/2816)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2001/compilacao-lei-10928-15.10.2001.html)
 
 # LEI N° 10.928, DE 15 DE OUTUBRO DE 2001

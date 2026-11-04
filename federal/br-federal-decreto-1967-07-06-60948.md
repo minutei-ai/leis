@@ -1,5 +1,3 @@
-###DEC-060948-0-000-06-07-1967@@@
-
 DECRETO Nº 60.948, DE 6 DE JULHO DE 1967.
 
 Autoriza a São Paulo Light S.A - Serviços de Eletricidade a construir linha de Transmissão e declara de utilidade pública, para fins de desapropriação, áreas nos municípios de São Paulo, Ferraz de Vasconcelos e Itaquaquecetuba, Estado de São Paulo.

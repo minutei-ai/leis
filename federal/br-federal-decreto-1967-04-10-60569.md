@@ -1,5 +1,3 @@
-###DEC-060569-0-000-10-04-1967@@@
-
 DECRETO Nº 60.569, DE 10 DE ABRIL DE 1967.
 
 Abre, ao Ministério do Interior, crédito extraordinário de NCr$4.000.000,00 (quatro milhões de cruzeiros novos), para atender aos prejuízos causados pelas últimas enchentes ocorridas no Recife, - (PE).

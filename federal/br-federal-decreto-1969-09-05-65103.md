@@ -1,5 +1,3 @@
-###DEC-065103-0-000-05-09-1969@@@
-
 DECRETO Nº 65.103 - DE 5 DE SETEMBRO DE 1969.
 
 Altera denominação de cargo em comissão de Diretor do Escritório Técnico da Universidade do Brasil.

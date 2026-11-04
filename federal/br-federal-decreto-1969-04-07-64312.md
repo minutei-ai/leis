@@ -1,5 +1,3 @@
-###DEC-064312-0-000-07-04-1969@@@
-
 DECRETO Nº 64.312, DE 7 DE ABRIL DE 196.
 
 Aprova o Regulamento do Grupo de Estudos para Integração da Política de Transportes do Ministério dos Transportes.

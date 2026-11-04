@@ -1,5 +1,3 @@
-###DEC-064667-0-000-10-06-1969@@@
-
 DECRETO Nº 64.667, DE 10 DE JUNHO DE 1969.
 
 Declara de utilidade pública a Mitra Diocesana de Pelotas, com sede em Pelotas, Estado do Rio Grande do Sul.

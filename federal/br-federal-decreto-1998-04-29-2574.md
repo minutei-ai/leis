@@ -1,5 +1,3 @@
-###DEC-002574-0-000-29-04-1998@@@
-
 DECRETO Nº 2.574, DE 29 DE ABRIL DE 1998
 
 Regulamenta a Lei nº 9.615, de 24 de março de 1998, que institui normas gerais sobre o desporto e dá outras providências.
@@ -1044,7 +1042,17 @@ I - sessenta e cinco por cento para a premiação, incluindo a parcela correspon
 
 II - a premiação líquida terá a seguinte distribuição:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">a) Bingo</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">oitenta por cento;</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">b) Linha</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">doze por cento;</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">c) Acumulado, Extra Bingo e Reserva</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">oito por centro;</span></p></td></tr></tbody></table>
+a) Bingo
+
+oitenta por cento;
+
+b) Linha
+
+doze por cento;
+
+c) Acumulado, Extra Bingo e Reserva
+
+oito por centro;
 
 III - vinte e oito por cento para custeio de despesas de operação, administração e divulgação; e
 

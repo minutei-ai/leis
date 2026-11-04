@@ -1,5 +1,3 @@
-###DEC-068214-0-000-11-02-1971@@@
-
 DECRETO nº 68.214, de 11 de Fevereiro de 1971.
 
 Revoga decreto e outorga à Centrais Elétricas de São Paulo S.A. concessão para o aproveitamento hidrelétrico de um trecho do rio Grande situado na divisa dos Estados de São Paulo e Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-003105-0-000-30-06-1999@@@
-
 DECRETO Nº 3.105, DE 30 DE JUNHO DE 1999.
 
 Prorroga o prazo estabelecido no art. 2º do Decreto nº 2.641, de 29 de junho de 1998.

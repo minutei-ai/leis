@@ -1,5 +1,3 @@
-###DEC-053363-0-000-27-12-1963@@@
-
 DECRETO Nº 53.363, DE 27 DE Dezembro DE 1963.
 
 Amplia o Quadro da Administração Central e Órgãos Locais do IPASE e dá outras providências.

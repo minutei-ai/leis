@@ -1,5 +1,3 @@
-###DEL-003221-0-000-28-04-1941@@@
-
 DECRETO-LEI N. 3.221 – DE 28 DE ABRIL DE 1941
 
 Torna sem aplicação 2.000:000$0, em dotação orçamentária do Ministério da Educação e Saúde e abre crédito especial de idêntica importância

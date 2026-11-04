@@ -1,5 +1,3 @@
-###DEC-001943-0-000-27-06-1996@@@
-
 DECRETO N° 1.943, DE 27 DE JUNHO DE 1996.
 
 Altera o Decreto n° 1.544, de 30 de junho de 1995, que dispõe sobre o cálculo da média de índices de preços de abrangência nacional.

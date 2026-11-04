@@ -1,5 +1,3 @@
-###DEC-070616-0-000-25-05-1972@@@
-
 DECRETO Nº 70.616, DE 25 DE MAIO DE 1972.
 
 Declara sem efeito o Decreto nº 6.331, de 25 de setembro de1940.

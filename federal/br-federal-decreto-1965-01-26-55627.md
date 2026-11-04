@@ -1,5 +1,3 @@
-###DEC-055627-0-000-26-01-1965@@@
-
 DECRETO Nº 55.627, DE 26 DE JANEIRO DE 1965.
 
 Estabelece normas para o emprêgo de meios aéreos para as operações navais.

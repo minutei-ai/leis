@@ -1,5 +1,3 @@
-###MPV-000091-0-000-23-12-2002@@@
-
 MEDIDA PROVISÓRIA N. 91 – DE 23 DE DEZEMBRO DE 2002
 
 Altera a Lei nº 6.360, de 23 de setembro de 1976, que dispõe sobre a vigilância sanitária a que ficam sujeitos, as drogas, os insumos farmacêuticos e correlatos, cosméticos, saneantes e outros produtos.

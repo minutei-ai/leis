@@ -1,5 +1,3 @@
-###DEC-056127-0-000-27-04-1965@@@
-
 Decreto nº 56.127, de 27 de abril de 1965.
 
 Concede à Emprêsa de Navegação Santa Catarina Limitada autorização para continuar a funcionar como emprêsa de navegação e cabotagem.

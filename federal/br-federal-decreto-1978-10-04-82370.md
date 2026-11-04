@@ -1,5 +1,3 @@
-###DEC-082370-0-000-04-10-1978@@@
-
 Decreto nº 82.370, de 04 de outubro de 1978.
 
 Concede reconhecimento às habilitações Interpresetação e Teoria do Teatro do curso de Artes Cênicas, ministrado pelo Centro de Artes da Federação das Escolas Federais Isoladas do Estado do Rio de Janeiro, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

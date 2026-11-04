@@ -1,5 +1,3 @@
-###MPV-000374-0-000-31-05-2007@@@
-
 MEDIDA PROVISÓRIA Nº 374, DE 31 DE MAIO DE 2007.
 
 Altera o art. 12 da Lei no 10.666, de 8 de maio de 2003, que dispõe sobre o prazo para apresentação de dados para fins de compensação financeira entre o regime geral de previdência social e os regimes próprios de previdência social.
@@ -17,5 +15,3 @@ Brasília, 31 de maio de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Luiz Marinho
-
-Este texto não substitui o publicado no DOU de 31.5.2007 - Edição extra

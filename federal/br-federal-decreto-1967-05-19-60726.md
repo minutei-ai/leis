@@ -1,5 +1,3 @@
-###DEC-060726-0-000-19-05-1967@@@
-
 Decreto nº 60.726, de 19 de maio de 1967.
 
 Declara de utilidade pública o “Centro Social Paroquial Nossa Senhora de Fátima”, com sede em Campinas, Estado de São Paulo.

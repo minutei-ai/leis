@@ -1,5 +1,3 @@
-###DEC-003503-0-000-12-06-2000@@@
-
 DECRETO Nº 3.503, DE 12 DE JUNHO DE 2000.
 
 Dispõe, no âmbito do Poder Executivo da União, sobre o Programa de Desligamento Voluntário - PDV, para o ano de 2000, destinado ao servidor da Administração Pública Federal direta, autárquica e fundacional.

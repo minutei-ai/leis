@@ -1,5 +1,3 @@
-###DEC-065550-0-000-21-10-1969@@@
-
 DECRETO Nº 65.550 - DE 21 DE OUTUBRO DE 1969.
 
 Considera nulos atos de alienação ou oneração efetuados por Olavo Tormin, confisca bens e dá outras providências.

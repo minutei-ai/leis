@@ -1,5 +1,3 @@
-###DEC-084268-0-000-07-12-1979@@@
-
 Decreto nº 84.268, de 07 de dezembro de 1979
 
 Dispõe sobre a importação, o arrendamento mercantil, a locação ou a aquisição no mercado interno de bens de consumo, máquinas e equipamentos, veículos e demais produtos de origem externa, por órgãos e entidades da administração federal direta e indireta e fundações supervisionadas, e dá outras providências.

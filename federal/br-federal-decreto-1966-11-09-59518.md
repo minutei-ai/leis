@@ -1,5 +1,3 @@
-###DEC-059518-0-000-09-11-1966@@@
-
 Decreto nº 59.518, de 9 de novembro de 1966.
 
 Autoriza o cidadão brasileiro Aristoteles Pires de Oliveira Pinto a pesquisar minério de ouro no município de Firmino Alves, Estado da Bahia.

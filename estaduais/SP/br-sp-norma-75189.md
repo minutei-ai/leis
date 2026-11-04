@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/75189)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2008/compilacao-lei-12799-11.01.2008.html)
 
 # LEI N° 12.799, DE 11 DE JANEIRO DE 2008

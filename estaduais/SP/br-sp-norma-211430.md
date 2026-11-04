@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211430)<br>
-
 # DECRETO N° 69.854, DE 10 DE SETEMBRO DE 2025
 
 ### _Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias à implantação de dispositivo de retorno nos km 184+980m, km 186+900m, km 195+887m e km 196+770m e remodelação do dispositivo de acesso do km 196+300m da SP-563, Rodovia Euclides de Oliveira Figueiredo, no Município de Andradina, e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEC-047377-0-000-09-12-1959@@@
-
 DECRETO Nº 47.377, DE 09 DE DEZEMBRO DE 1959.
 
 Dá nova redação ao art. 1º do Decreto nº 45.045, de 11 de dezembro de 1958, que outorgou à Companhia Industrial da Estância S.A. concessão para distribuir energia elétrica em vários municípios do Estado de Sergipe.

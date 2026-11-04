@@ -1,5 +1,3 @@
-###DEC-095055-0-000-19-10-1987@@@
-
 DECRETO Nº 95.055, DE 19 DE OUTUBRO DE 1987
 
 Extingue o Centro de Instrução "Almirante Cunha Moreira".

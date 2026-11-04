@@ -1,7 +1,3 @@
-1
-
-###DEC-095840-0-000-18-03-1988@@@
-
 DECRETO N° 95.840, DE 18 DE MARÇO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "GLEBA MONTECHI II - FAZENDA RIO BRANCO", classificado como latifúndio por exploração, situado no Município de Salto do Céu, no Estado de Mato Grosso, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.620, de 2 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208903)<br>
-
 # DECRETO N° 68.157, DE 09 DE DEZEMBRO DE 2023
 
 ### _Institui o Programa de Proteção a Denunciantes de irregularidades ou ilícitos administrativos e de ações ou omissões lesivas à Administração Pública estadual, nos termos dos artigos 4°-A, 4°-B e "caput" do artigo 4°-C, todos da Lei federal n° 13.608, de 10 de janeiro de 2018, e dá providências correlatas_
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposições Gerais
 
 **Artigo 1° -** Fica instituído, sob coordenação da Controladoria Geral do Estado, o Programa de Proteção a Denunciantes de irregularidades ou ilícitos administrativos e de ações ou omissões lesivas à Administração Pública estadual, nos termos dos artigos 4°-A, 4°-B e "caput" do artigo 4°-C, todos da Lei federal n° 13.608, de 10 de janeiro de 2018.
@@ -31,7 +30,8 @@ VII- habilitação da denúncia: ato administrativo, praticado pelo agente públ
 
 VIII - pseudonimização: tratamento por meio do qual um dado perde a possibilidade de associação, direta ou indireta, a um indivíduo, senão pelo uso de informação adicional mantida separadamente pelo controlador em ambiente controlado e seguro.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Do Procedimento
 
 **Artigo 3° -** As denúncias serão apresentadas, preferencialmente, em meio eletrônico, por meio da Plataforma Integrada de Ouvidoria e Acesso à Informação, instituída pelo [Decreto n° 68.156, de 9 de dezembro de 2023](https://www.al.sp.gov.br/norma/208902).
@@ -60,10 +60,12 @@ Do Procedimento
 
 **Artigo 7° -** Às denúncias aplicam-se, subsidiariamente, as normas sobre procedimento estabelecidas no [Decreto n° 68.156, de 9 de dezembro de 2023](https://www.al.sp.gov.br/norma/208902).
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Da Proteção à Identidade do Denunciante
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposições Gerais
 
 **Artigo 8° -** As unidades setoriais de ouvidoria, a partir do recebimento da denúncia, adotarão as medidas necessárias à salvaguarda da identidade do denunciante e à proteção das informações recebidas, concedendo acesso unicamente aos agentes públicos cujo exercício funcional assim o exija.
@@ -72,7 +74,8 @@ Disposições Gerais
 
 **Artigo 9° -** Os órgãos e entidades disponibilizarão suporte técnico-administrativo e financeiro para garantir sistemas e controles que permitam a rastreabilidade dos acessos aos elementos de identificação dos denunciantes.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Do Procedimento de Pseudonimização
 
 **Artigo 10 -** A unidade setorial de ouvidoria suprimirá, no procedimento de pseudonimização, os elementos de identificação que permitam a associação da denúncia ao denunciante, senão pelo uso de informação adicional mantida na Plataforma Integrada de Ouvidoria e Acesso à Informação ou em sistemas próprios de ouvidoria.
@@ -97,10 +100,12 @@ Do Procedimento de Pseudonimização
 
 **§ 4° -** O acesso de que trata o § 3° deste artigo será registrado na Plataforma Integrada de Ouvidoria e Acesso à Informação ou em sistemas próprios de ouvidoria e conterá, no mínimo, o nome do agente e a data de disponibilização.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Das Medidas Antirretaliação
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Do Tratamento da Denúncia de Retaliação
 
 **Artigo 12 -** Ao denunciante de retaliação, a partir da habilitação da denúncia, fica assegurada proteção nos termos do parágrafo único do artigo 4°-A e do "caput" do artigo 4°-C da Lei federal n° 13.608, de 10 de janeiro de 2018, no que couber.
@@ -121,7 +126,8 @@ Do Tratamento da Denúncia de Retaliação
 
 **Artigo 15 -** A Controladoria Geral do Estado poderá, mediante requerimento do denunciante de retaliação, encaminhar pedido de inclusão no Programa Estadual de Proteção a Vítimas e Testemunhas - PROVITA/SP, instituído pelo [Decreto n° 44.214, de 30 de agosto de 1999](https://www.al.sp.gov.br/norma/8150).
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Do Compromisso de Proteção Antirretaliação
 
 **Artigo 16 -** Para assegurar a proteção integral contra retaliações prevista no parágrafo único do artigo 4°-A da Lei federal n° 13.608, de 10 de janeiro de 2018, poderá ser formalizado, entre o denunciante e a Controladoria Geral do Estado, compromisso de proteção antirretaliação.
@@ -162,7 +168,8 @@ IV - comprovação de participação do denunciante no ato originalmente denunci
 
 **Artigo 19 -** Cabe recurso ao Controlador Geral do Estado da decisão que rescinde o compromisso de proteção antirretaliação, no prazo de 15 dias contados da notificação do ato, nos termos da [Lei n° 10.177, de 30 de dezembro de 1998](https://www.al.sp.gov.br/norma/7505).
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Disposições Finais
 
 **Artigo 20 -** A proteção antirretaliação estende-se, no que couber, aos agentes públicos que atuem nas unidades setoriais de ouvidoria e áreas de apuração de denúncias.

@@ -1,5 +1,3 @@
-###DEC-067669-0-000-27-11-1970@@@
-
 Decreto nº 67.669, de 27 de novembro de 1970.
 
 Concede autorização à Sociedade Seguradora Estrangeira para aumentar o capital de suas operações no Brasil.

@@ -1,5 +1,3 @@
-###DEC-081533-0-000-10-04-1978@@@
-
 Decreto nº 81.533, de 10 de abril de 1978.
 
 Concede à Mineração Santa Patrícia Ltda. o direito de lavrar bauxita no Município de Oriximiná, Estado do Pará.
@@ -19,8 +17,6 @@ Brasília, 10 de abril de 1978; 157º da Independência e 90º da República.
 Ernesto Geisel
 
 Shigeaki Ueki
-
-###DEC-081533-0-000-10-04-1978@@@REP01+++
 
 (\*) Decreto nº 81.533, de 10 de abril de 1978.
 

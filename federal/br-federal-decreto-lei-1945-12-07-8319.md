@@ -1,5 +1,3 @@
-###DEL-008319-0-000-07-12-1945@@@
-
 DECRETO-LEI N. 8.319 – DE 7 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 580.000,00 para pagamento de indenização decorrente de desapropriação de terrenos situados no Estado do Rio de Janeiro e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-097780-0-000-23-05-1989@@@
-
 DECRETO Nº 97.780, DE 23 DE MAIO DE 1989
 
 Cria a RESERVA BIOLÓGICA DO TINGUÁ, e dá outras providências.

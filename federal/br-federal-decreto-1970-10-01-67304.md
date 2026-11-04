@@ -1,5 +1,3 @@
-###DEC-067304-0-000-01-10-1970@@@
-
 Decreto nº 67.304, de 1 de outubro de 1970.
 
 Declara caduco o Decreto nº 16.967 de 25 de outubro de 1944.

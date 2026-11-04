@@ -12,14 +12,16 @@ II – o quantitativo de Câmaras Cíveis fica elevado para 11 (onze) e o de Câ
 
 III – o quantitativo de Seções Cíveis fica elevado para 3 (três);
 
-IV - a Seção Criminal fica desmembrada em 2 (duas), 1ª e 2ª Seção Criminal.<br>
+IV - a Seção Criminal fica desmembrada em 2 (duas), 1ª e 2ª Seção Criminal.
+
 \- [Acrescido pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833), art. 3º.
 
 § 1º A 8ª Câmara Cível é composta por 5 (cinco) desembargadores e integrará a 2ª Seção Cível.
 
 § 2º A 9ª, a 10ª e a 11ª Câmaras Cíveis compõem-se, cada uma, de 5 (cinco) desembargadores e integrarão a 3ª Seção Cível.
 
-§ 3º A 1ª, 2ª, 3ª e 4ª Câmaras Criminais compõem-se, cada uma, de 5 (cinco) desembargadores, sendo que a 1ª e 2ª Câmaras Criminais integrarão a 1ª Seção Criminal e a 2ª Seção Criminal será composta pelos integrantes da 3ª e 4ª Câmaras Criminais.<br>
+§ 3º A 1ª, 2ª, 3ª e 4ª Câmaras Criminais compõem-se, cada uma, de 5 (cinco) desembargadores, sendo que a 1ª e 2ª Câmaras Criminais integrarão a 1ª Seção Criminal e a 2ª Seção Criminal será composta pelos integrantes da 3ª e 4ª Câmaras Criminais.
+
 \- [Redação dada pela Lei nº 22.833, de 8-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109176/lei-22833), art. 3º.
 
 ~~§ 3º A 4ª Câmara Criminal é composta por 5 (cinco) desembargadores e integrará a Seção Criminal.~~
@@ -239,8 +241,10 @@ ANEXO V
 
 “Indicação das alterações introduzidas no quadro analítico dos cargos em comissão de que trata o Anexo XIII da [Lei nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655/lei-17663), de 14 de junho de 2012, e posteriores alterações.”
 
-“ANEXO XIII<br>
-QUADRO ANALÍTICO DOS CARGOS EM COMISSÃO<br>
+“ANEXO XIII
+
+QUADRO ANALÍTICO DOS CARGOS EM COMISSÃO
+
  
 
 | SÍMBOLO | QUANT. | DENOMINAÇÃO |
@@ -350,10 +354,12 @@ QUADRO ANALÍTICO DOS CARGOS EM COMISSÃO<br>
 
 ANEXO VI
 
-“Indicação das alterações introduzidas no quadro analítico das funções por encargo de confiança de que trata o Anexo XIV da [Lei nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655/lei-17663), de 14 de junho de 2012, e posteriores alterações.”<br>
+“Indicação das alterações introduzidas no quadro analítico das funções por encargo de confiança de que trata o Anexo XIV da [Lei nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655/lei-17663), de 14 de junho de 2012, e posteriores alterações.”
+
  
 
-“ANEXO XIV<br>
+“ANEXO XIV
+
 QUADRO ANALÍTICO DAS FUNÇÕES POR ENCARGO DE CONFIANÇA
 
 | SÍMBOLO | QUANT. | DENOMINAÇÃO |

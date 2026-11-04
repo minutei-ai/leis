@@ -1,5 +1,3 @@
-###DEL-008369-0-000-13-12-1945@@@
-
 DECRETO-LEI N. 8.369 – DE 13 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 1.200,00, à verba que especifica

@@ -1,5 +1,3 @@
-###DEC-079188-0-000-01-02-1977@@@
-
 DECRETO Nº 79.188, DE 1º DE FEVEREIRO DE 1977.
 
 Concede à Andrade & Filhos Ltda. o direito de lavrar bauxita e argila no Município de Andradas, Estado de Minas Gerais.

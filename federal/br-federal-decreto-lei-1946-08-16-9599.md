@@ -1,5 +1,3 @@
-###DEL-009599-0-000-16-08-1946@@@
-
 DECRETO-LEI N. 9.599 – DE 16 DE AGÔSTO DE 1946
 
 Suspende o vencimento de obrigações assumidas pelos suinocultores e dá outras providências

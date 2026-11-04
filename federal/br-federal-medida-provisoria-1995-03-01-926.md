@@ -1,7 +1,3 @@
-1
-
-###MPV-000926-0-000-01-03-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 926, DE 1º DE MARÇO DE 1995
 
 Dispõe sobre a aplicação dos direitos previstos no Acordo Antidumping e no Acordo de Subsídios e Direitos Compensatórios e dá outras providências.

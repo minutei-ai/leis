@@ -1,5 +1,3 @@
-###DEC-052699-0-000-18-10-1963@@@
-
 decreto nº 52.699, de 18 de outubro de 1963.
 
 Concede à Companhia de Seguros do Estado de Goiás, autorização para funcionar e aprova os seus Estatutos.
@@ -17,8 +15,6 @@ Brasília, 18 de outubro de 1963; 142º da Independência 75º da República.
 João Goulart
 
 Egydio Michaelsen
-
-###DEC-052699-0-000-18-10-1963@@@RET01+++
 
 DECRETO Nº 52.699, DE 18 DE OUTUBRO DE 1963.
 

@@ -1,5 +1,3 @@
-###DEC-051955-0-000-26-04-1963@@@
-
 DECRETO Nº 51.955, de 26 DE ABRIL DE 1963.
 
 Concede à sociedade Navegação Marenave Ltda., autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

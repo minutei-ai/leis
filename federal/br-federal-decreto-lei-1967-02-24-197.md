@@ -1,5 +1,3 @@
-###DEL-000197-0-000-24-02-1967@@@
-
 DECRETO-LEI Nº 197, DE 24 DE FEVEREIRO DE 1967
 
 Dá nova redação a dispositivos da Lei nº 3.765, de 4 de maio de 1960, que dispõe sôbre as Pensões Militares.

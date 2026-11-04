@@ -1,5 +1,3 @@
-###DEC-087202-0-000-20-05-1982@@@
-
 Decreto nº 87.202, de 20 de maio de 1982
 
 Concede à Telecomunicações Aeronáuticas S/A - TASA, autorização para proceder o aumento de seu Capital.

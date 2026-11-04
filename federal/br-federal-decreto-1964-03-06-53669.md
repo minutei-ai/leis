@@ -1,5 +1,3 @@
-###DEC-053669-0-000-06-03-1964@@@
-
 Decreto nº 53.669, de 6 de março de 1964.
 
 Declara luto oficial em todo País, em sinal de pesar pelo falecimento de Sua Majestade Paulo I, Rei dos Helenos.

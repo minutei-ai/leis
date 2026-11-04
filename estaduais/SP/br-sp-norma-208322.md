@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208322)<br>
-
 # LEI N° 17.727, DE 24 DE JULHO DE 2023
 
 ## (Projeto de lei n° 386, de 2021, da Deputada Carla Morando - PSDB)

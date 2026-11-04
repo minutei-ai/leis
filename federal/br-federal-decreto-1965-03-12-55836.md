@@ -1,5 +1,3 @@
-###DEC-055836-0-000-12-03-1965@@@
-
 decreto nº 55.836, de 12 de março de 1965.
 
 Concede à sociedade Brasilmar Meridional de Navegação Ltda. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

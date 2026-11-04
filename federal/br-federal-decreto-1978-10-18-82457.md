@@ -1,5 +1,3 @@
-###DEC-082457-0-000-18-10-1978@@@
-
 Decreto nº 82.457, de 18 de outubro de 1978.
 
 Concede à Mineração Caetetu Ltda. o direito de lavrar minério de ferro nos Municípios de Sabinópolis e Guanhães, Estado de Minas Gerais.

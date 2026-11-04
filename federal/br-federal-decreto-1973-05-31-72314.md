@@ -1,5 +1,3 @@
-###DEC-072314-0-000-31-05-1973@@@
-
 DECRETO Nº 72.314, DE 31 DE MAIO DE 1973.
 
 Autoriza o funcionamento da Faculdade de Educação de Joinville, mantida pela Associação Catarinense de Ensino, na cidade de Joinville, Estado de Santa Catarina.

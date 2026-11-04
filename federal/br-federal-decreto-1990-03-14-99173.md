@@ -1,7 +1,3 @@
-1
-
-###DEC-099173-0-000-14-03-1990@@@
-
 # DECRETO N° 99.173, DE 14 DE MARÇO DE 1990
 
 Declara de utilidade pública para fins de constituição de servidão administrativa, faixa de terra destinada à passagem do ramal de linha de transmissão, da Empresa Elétrica Bragantina S.A., no Estado de São Paulo.

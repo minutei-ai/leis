@@ -1,5 +1,3 @@
-###DEC-078743-0-000-17-11-1976@@@
-
 DECRETO Nº 78.743, DE 17 DE NOVEMBRO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação, terreno necessário à implantação da subestação de Viradouro, da Companhia Paulista de Força e Luz - CPFL no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-009674-0-000-29-08-1946@@@
-
 DECRETO-LEI N. 9.674 – DE 29 DE AGôSTO DE 1946
 
 Regula o acesso dos Oficiais Médicos da Reserva de 2ª classe, convocados para o serviço ativo do Exército.

@@ -1,5 +1,3 @@
-###DEL-002227-0-000-16-01-1985@@@
-
 # DECRETO-LEI Nº 2.227, DE 16 DE JANEIRO DE 1985
 
 Dispõe sobre processo de consulta e dá outras providências.

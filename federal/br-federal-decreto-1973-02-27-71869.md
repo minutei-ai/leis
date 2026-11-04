@@ -1,5 +1,3 @@
-###DEC-071869-0-000-27-02-1973@@@
-
 DECRETO Nº 71.869, DE 27 DE FEVEREIRO DE 1973.
 
 Revoga a autorização concedida a Empresa CRESTWAVE INTERATIONAL, INC., para operar no mar territorial do Brasil, fixado pelo Decreto número 1.098, de 25 de março de 1970, a embarcação de perfuração "TOPPER III", de nacionalidade norte-americana.

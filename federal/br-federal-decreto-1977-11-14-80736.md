@@ -1,5 +1,3 @@
-###DEC-080736-0-000-14-11-1977@@@
-
 DECRETO Nº 80.736, DE 14 DE NOVEMBRO DE 1977.
 
 Retifica a concessão de lavra outorgada à Companhia Materiais Sulfurosos - MATSULFUR pelo Decreto nº 1.757, de 30 de novembro de 1962, retificado pelo de nº 61.572, de 19 de outubro de 1967.

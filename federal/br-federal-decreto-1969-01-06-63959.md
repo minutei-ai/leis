@@ -1,5 +1,3 @@
-###DEC-063959-0-000-06-01-1969@@@
-
 DECRETO Nº 63.959, DE 6 DE JANEIRO DE 1969.
 
 Concede reconhecimento ao Curso de Engenheiro Químico da Universidade Federal Rural do Rio de Janeiro.

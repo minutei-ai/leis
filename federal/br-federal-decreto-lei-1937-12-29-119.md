@@ -1,5 +1,3 @@
-###DEL-000119-0-000-29-12-1937@@@
-
 DECRETO-LEI N. 119 – DE 29 DE DEZEMBRO DE 1937
 
 Abre, pela Prefeitura do Distrito Federal, o crédito especial de réis SI C 268$690, para pagamento de material nas condições que menciona.

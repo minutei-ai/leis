@@ -1,5 +1,3 @@
-###DEC-046852-0-000-15-09-1959@@@
-
 decreto nº 46.852, de 15 de setembro de 1959.
 
 Estabelece a freqüência de 60 ciclos por segundo no sistema da Sociedade Anônima Emprêsa Melhoramentos de Mogi-Guaçu, Estado de São Paulo.

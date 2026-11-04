@@ -1,5 +1,3 @@
-###DEC-074816-0-000-05-11-1974@@@
-
 DECRETO Nº 74.816, DE 5 DE NOVEMBRO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à construção de subestação de Cosmópolis da Companhia Paulista de Força e Luz, no Estado de São Paulo.

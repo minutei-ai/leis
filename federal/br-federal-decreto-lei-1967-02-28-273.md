@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7825c9d5-be6b-4103-b0b0-59ded88d1a5f/texto#nowhere)
 
-###DEL-000273-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 273, DE 28 DE FEVEREIRO DE 1967
 
 Abre ao Ministério da Fazenda o crédito especial de NCr$30.000.000,00, para os fins que especifica.

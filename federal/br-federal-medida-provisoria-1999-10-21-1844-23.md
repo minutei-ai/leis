@@ -1,5 +1,3 @@
-###MPV-001844-0-023-21-10-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.844-23, DE 21 DE OUTUBRO DE 1999.
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

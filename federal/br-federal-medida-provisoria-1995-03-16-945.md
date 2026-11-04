@@ -1,7 +1,3 @@
-1
-
-###MPV-000945-0-000-16-03-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 945, DE 16 DE MARÇO DE 1995
 
 Altera a Lei nº 8.031, de 12 de abril de 1990, e dá outras providências.
@@ -66,7 +62,7 @@ IV - Ministro de Estado da Administração Federal e Reforma do Estado.
 
 § 3º Participará também das reuniões, sem direito a voto, um representante do Banco Nacional de Desenvolvimento Econômico e Social (BNDES).
 
-§ 4º O Conselho deliberará mediante resoluções, cabendo ao Presidente, além do voto de qualidade, a prerrogativa de deliberar, nos casos de urgência e relevante interesse, <I>ad referendum do colegiado.
+§ 4º O Conselho deliberará mediante resoluções, cabendo ao Presidente, além do voto de qualidade, a prerrogativa de deliberar, nos casos de urgência e relevante interesse, *ad referendum do colegiado.
 
 § 5º Quando deliberar ad referendum do Conselho, o Presidente submeterá a decisão ao colegiado, na primeira reunião que se seguir àquela deliberação.
 
@@ -170,7 +166,7 @@ Parágrafo único. O Presidente da República, por recomendação do Conselho Na
 
 "Art. 18. O preço mínimo de alienação das ações deverá ser submetido à deliberação do órgão competente do titular das ações.
 
-Parágrafo único. A Resolução do Conselho Nacional de Desestatização que aprovar as condições gerais de desestatização será utilizada pelo representante do titular das ações como instrução de voto para deliberação do órgão competente a que alude o <I>caput<D> deste artigo."
+Parágrafo único. A Resolução do Conselho Nacional de Desestatização que aprovar as condições gerais de desestatização será utilizada pelo representante do titular das ações como instrução de voto para deliberação do órgão competente a que alude o *caput<D> deste artigo."
 
 "Art. 20. O Fundo Nacional de Desestatização será administrado pelo Banco Nacional de Desenvolvimento Econômico e Social - (BNDES), designado Gestor do Fundo."
 

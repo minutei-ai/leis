@@ -1,5 +1,3 @@
-###DEC-006525-0-000-31-07-2008@@@
-
 DECRETO Nº 6.525, DE 31 DE JULHO DE 2008.
 
 Dispõe sobre a antecipação do abono anual devido ao segurado e ao dependente da Previdência Social, no ano de 2008.

@@ -1,5 +1,3 @@
-###DEC-059647-0-000-02-12-1966@@@
-
 DECRETO Nº 56.647, DE 2 DE DEZEMBRO DE 1966.
 
 Constitui Comissão Especial de Estudos para examinar e propor solução para questão do Prédio nº 208, da Rua Sacadura Cabral, Estado da Guanabara.

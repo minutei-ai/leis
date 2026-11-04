@@ -1,5 +1,3 @@
-###DEC-089532-0-000-06-04-1984@@@
-
 Decreto nº 89.532, de 06 de abril de 1984
 
 Acrescenta incisos ao artigo 37, do Decreto nº 88.351, de 1º de junho de 1983, que regulamenta a Política Nacional do Meio Ambiente.

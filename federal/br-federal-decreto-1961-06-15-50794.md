@@ -1,5 +1,3 @@
-###DEC-050794-0-000-15-06-1961@@@
-
 DECRETO Nº 50.794, DE 15 de junho de 1961.
 
 Outorga a Centrais Elétricas de Minas Gerais S.A.(CEMIG), concessão para distribuir energia elétrica na sede de Campos Gerais, Estado de Minas Gerais.

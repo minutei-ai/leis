@@ -1,5 +1,3 @@
-###DEC-083990-0-000-18-09-1979@@@
-
 decreto nº 83.990, de 18 de Setembro de 1979.
 
 Aprova alterações introduzidas no Estatuto da Companhia Auxiliar de Empresas Elétricas Brasileiras - CAEEB.

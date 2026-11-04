@@ -1,5 +1,3 @@
-###DEC-095470-0-000-11-12-1987@@@
-
 DECRETO Nº 95.470, DE 11 DE DEZEMBRO DE 1987
 
 Outorga concessão à FUNDAÇÃO JOÃO PAULO II, para explorar serviço de radiodifusão sonora em onda curta, na cidade de Cachoeira Paulista, Estado de São Paulo.

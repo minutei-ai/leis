@@ -1,7 +1,3 @@
-1
-
-###DEC-097978-0-000-19-07-1989@@@
-
 DECRETO Nº 97.978, DE l9 DE JULHO DE 1989
 
 Dispõe sobre a administração do Instituto Nacional de Colonização e Reforma Agrária  INCRA.

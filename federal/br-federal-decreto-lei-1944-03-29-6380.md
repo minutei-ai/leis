@@ -1,5 +1,3 @@
-###DEL-006380-0-000-29-03-1944@@@
-
 DECRETO-LEI N. 6.380 – DE 29 DE MARÇO DE 1944
 
 Revigora, no presente ano, o Decreto-Iei nº 3.143, de 25 de março de 1941

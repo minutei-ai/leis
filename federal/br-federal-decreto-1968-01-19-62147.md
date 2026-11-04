@@ -1,5 +1,3 @@
-###DEC-062147-0-000-19-01-1968@@@
-
 DECRETO Nº 62.147, DE 19 DE JANEIRO DE 1968.
 
 Reconhecimento da Faculdade de Ciências Econômicas e Administrativas do Vale do Paraíba – São José dos Campos - SP.

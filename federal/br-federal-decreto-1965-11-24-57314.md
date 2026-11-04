@@ -1,5 +1,3 @@
-###DEC-057314-0-000-24-11-1965@@@
-
 DECRETO Nº 57.314, DE 24 DE NOVEMBRO DE 1965.
 
 Autoriza a Emprêsa Sacramentana Limitada a pesquisar argila, no município de Sacramento, Estado de Minas Gerais.

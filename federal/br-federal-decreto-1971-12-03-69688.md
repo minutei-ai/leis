@@ -1,5 +1,3 @@
-###DEC-069688-0-000-03-12-1971@@@
-
 decreto nº 69.688 - de 3 de dezembro de 1971
 
 Autoriza o funcionamento da Faculdade de Medicina Veterinária, mantida pela Autarquia Educacional de Uberlândia - MG.

@@ -1,5 +1,3 @@
-###DEC-003918-0-000-13-09-2001@@@
-
 DECRETO Nº 3.918, DE 13 DE SETEMBRO DE 2001
 
  Exclui das disposições do Decreto nº 1.068, de 2 de março de 1994, as participações acionárias minoritárias do Banco do Brasil S. A., da Caixa Econômica Federal e da Empresa Brasileira de Correios e Telégrafos no capital social da Telecomunicações Brasileiras S. A.

@@ -1,5 +1,3 @@
-###DEC-049768-0-000-31-12-1960@@@
-
 DECRETO Nº 49.768, DE 31 DE DEZEMBRO DE 1960.
 
 Aprova alterações introduzidas nos Estatutos de The London & Lancashire Insurance Company Limited.

@@ -1,5 +1,3 @@
-###DEC-055993-0-000-22-04-1965@@@
-
 decreto nº 55.993, de 22 de abril de 1965.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terreno situada no município de Rio Negro, Estado do Paraná.

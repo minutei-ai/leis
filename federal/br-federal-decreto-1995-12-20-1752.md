@@ -1,7 +1,3 @@
-1
-
-###DEC-001752-0-000-20-12-1995@@@
-
 DECRETO Nº 1.752, DE 20 DE DEZEMBRO DE 1995.
 
 Regulamenta a Lei nº 8.974, de 5 de janeiro de 1995, dispõe sobre a vinculação, competência e composição da Comissão Técnica Nacional de Biossegurança - CTNBio, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055371-0-000-31-12-1964@@@
-
 DECRETo Nº 55.371, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Joaquim Pereira da Rocha a lavrar cassiterita, no município de Pôrto Velho, Território Federal de Rondônia.

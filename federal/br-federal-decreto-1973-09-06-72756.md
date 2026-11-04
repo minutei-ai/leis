@@ -1,5 +1,3 @@
-###DEC-072756-0-000-06-09-1973@@@
-
 DECRETO Nº 72.756, DE 6 DE SETEMBRO DE 1973.
 
 Concede à Mineração Urandi S.A. o direito de lavrar minério de manganês, no Município de Jacaraci, Estado da Bahia.

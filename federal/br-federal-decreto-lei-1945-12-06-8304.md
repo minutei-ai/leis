@@ -1,5 +1,3 @@
-###DEL-008304-0-000-06-12-1945@@@
-
 DECRETO-LEI N. 8.304 – DE 6 DE DEZEMBRO DE 1945
 
 Transforma a Comissão de Plano da Cidade em Departamento de Urbanismo, subordinado à Secretaria Geral de Viação e Obras da Prefeitura do Distrito Federal.

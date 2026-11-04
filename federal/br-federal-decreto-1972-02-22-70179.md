@@ -1,5 +1,3 @@
-###DEC-070179-0-000-22-02-1972@@@
-
 Decreto Nº 70.179, DE 22 DE FEVEREIRO DE 1972.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, no Estado do Amazonas.

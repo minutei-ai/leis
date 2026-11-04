@@ -1,5 +1,3 @@
-###DEC-076723-0-000-03-12-1975@@@
-
 DECRETO nº 76.723, de 3 de Dezembro de 1975.
 
 Declara a caducidade da concessão outorgada a Bernini Mônaco, para lavrar conchas calcárias no Município de Cananéa, Estado de São Paulo.

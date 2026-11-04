@@ -1,5 +1,3 @@
-###DEC-075098-0-000-20-12-1974@@@
-
 DECRETO nº 75.098, DE 20 DE DEZEMBRO DE 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-097161-0-000-06-12-1988@@@
-
 DECRETO Nº 97.161, DE 6 DE DEZEMBRO DE 1988
 
 Estabelece procedimentos para execução de Programa de Desimobilização de bens, inclusive participações societárias.

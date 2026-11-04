@@ -1,5 +1,3 @@
-###DEL-001964-0-000-18-10-1982@@@
-
 # decreto-lei nº 1.964, de 18 de outubro de 1982.
 
 Concede isenção dos impostos de importação e sobre produtos industrializados aos materiais e equipamentos importados para a construção e reparação de embarcações.

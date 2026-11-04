@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211168)<br>
-
 # DECRETO N° 69.681, DE 08 DE JULHO DE 2025
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, os imóveis necessários à requalificação urbana e implantação de um corredor verde entre a Área de Proteção Ambiental do Iguatemi e o Parque do Rodeio, no Município de São Paulo, e dá providências correlatas_

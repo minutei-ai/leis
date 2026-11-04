@@ -1,5 +1,3 @@
-###DEC-066596-0-000-20-05-1970@@@
-
 Decreto Nº 66.596, DE 20 DE MAIO DE 1970.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a subestação de Santa Luzia, até a subestação nº 6 (Pampulha), no município de Belo Horizonte, Estado de Minas Gerais.

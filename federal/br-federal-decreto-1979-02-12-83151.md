@@ -1,5 +1,3 @@
-###DEC-083151-0-000-12-02-1979@@@
-
 DECRETO Nº 83.151 DE 12 DE FEVEREIRO DE 1979
 
 Concede reconhecimento aos cursos de Geografia e História, ministrados pela Universidade Federal do Acre, com sede na cidade do Rio Branco, Estado do Acre.

@@ -1,5 +1,3 @@
-###DEC-083550-0-000-05-06-1979@@@
-
 DECRETO Nº 83.550, DE 5 DE JUNHO DE 1979.
 
 Cria, no Estado do Amazonas, o Parque Nacional do Pico da Neblina, com os limites que especifica e dá outras providências.

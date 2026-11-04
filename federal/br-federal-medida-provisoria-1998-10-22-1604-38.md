@@ -1,5 +1,3 @@
-###MPV-001604-0-038-22-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.604-38, DE 22 DE OUtUBRO DE 1998
 
 Dispõe sobre medidas de fortalecimento do Sistema Financeiro Nacional e dá outras providências.

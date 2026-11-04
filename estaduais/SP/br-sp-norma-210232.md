@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210232)<br>
-
 # DECRETO N° 69.058, DE 14 DE NOVEMBRO DE 2024
 
 ### _Regulamenta a Lei Complementar n° 1.291, de 22 de julho de 2016, que institui a Lei de Ingresso na Polícia Militar do Estado de São Paulo, e dá providências correlatas._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 DAS DISPOSIÇÕES GERAIS
 
 **Artigo 1° -** Os concursos públicos de ingresso na Polícia Militar do Estado de São Paulo para os cargos iniciais das carreiras a que se refere o artigo 1° da [Lei Complementar n° 1.291, de 22 de julho de 2016](https://www.al.sp.gov.br/norma/178800), serão realizados pelo Comando Geral da Polícia Militar, que poderá delegar referida atribuição ao órgão de pessoal da Instituição.
@@ -21,7 +20,8 @@ DAS DISPOSIÇÕES GERAIS
 
 **§ 2° -** A Unidade Central de Recursos Humanos poderá, em caráter excepcional, autorizar o estabelecimento de prazo de validade do concurso público inferior ao mínimo previsto no "caput" deste artigo, mediante justificativa fundamentada do Comandante Geral da Polícia Militar.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 DAS ETAPAS DO CONCURSO
 
 **Artigo 3° -** Os concursos públicos para ingresso nas carreiras da Polícia Militar do Estado de São Paulo integrantes dos quadros indicados na [Lei Complementar n° 1.291, de 22 de julho de 2016](https://www.al.sp.gov.br/norma/178800), terão as seguintes etapas:
@@ -96,7 +96,8 @@ IV - critérios objetivos e razoáveis para avaliação dos títulos, de acordo 
 
 **Artigo 12 -** Não serão fornecidos atestados, laudos, cópias de documentos, provas, resultados, certificados ou certidões relativas à classificação, notas e resultados de candidatos, valendo para tal fim as publicações no Diário Oficial do Estado.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 DOS RECURSOS
 
 **Artigo 13 -** O candidato poderá recorrer administrativamente do resultado de cada etapa do concurso público, no prazo de 3 (três) dias úteis, contados da data de sua publicação.
@@ -107,7 +108,8 @@ DOS RECURSOS
 
 **§ 3° -** O recurso não terá efeito suspensivo e não alterará o cronograma de realização das demais etapas do concurso público.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 DA HOMOLOGAÇÃO, CONVOCAÇÃO E NOMEAÇÃO
 
 **Artigo 14 -** O concurso público será homologado por ato do Comandante Geral da Polícia Militar.
@@ -150,7 +152,8 @@ IV - constatação, antes da posse, da ausência de requisito previsto para insc
 
 **§ 2° -** Competirá ao Secretário da Segurança Pública decidir o processo exoneratório de que trata o "caput" deste artigo.
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 DO ESTÁGIO PROBATÓRIO
 
 **Artigo 20 -** O estágio probatório, requisito para aquisição da estabilidade do policial militar, será composto por etapas específicas para cada carreira, na seguinte conformidade:
@@ -193,7 +196,8 @@ III - as regras para a instauração, instrução e conclusão do processo espec
 
 IV - as restrições para a movimentação, o uso de uniforme, a concessão de carga pessoal de arma de fogo da Polícia Militar e as regras de emprego do policial militar estagiário submetido a processo específico, de modo a preservar o interesse público, a hierarquia e a disciplina.
 
-#### SEÇÃO VI<br>
+#### SEÇÃO VI
+
 DAS DISPOSIÇÕES FINAIS
 
 **Artigo 24 -** Os dispositivos abaixo elencados do [Decreto n° 54.911, de 14 de outubro de 2009](https://www.al.sp.gov.br/norma/158068), passam a vigorar com a seguinte redação:

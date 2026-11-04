@@ -1,5 +1,3 @@
-###DEC-082531-0-000-31-10-1978@@@
-
 Decreto nº 82.531, de 31 de outubro de 1978.
 
 Revoga, a pedido, os Decretos que outorgaram concessões à S.A. Rádio Jornal do Brasil, para estabelecer estações de radiodifusão de sons e imagens (televisão), nas cidades de Niterói, Estado do Rio de Janeiro e São Paulo, Estado de São Paulo.

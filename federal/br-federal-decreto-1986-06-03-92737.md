@@ -1,5 +1,3 @@
-###DEC-092737-0-000-03-06-1986@@@
-
 DECRETO Nº 92.737, DE 3 DE JUNHO DE 1986
 
 Outorga concessão à RÁDIO CONFEDERAÇÃO VELENCIANA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Valença do Piauí, Estado do Piauí.

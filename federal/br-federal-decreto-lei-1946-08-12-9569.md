@@ -1,5 +1,3 @@
-###DEL-009569-0-000-12-08-1946@@@
-
 DECRETO-LEI N. 9.569 – DE 12 DE AGÔSTO DE 1946
 
 Altera com redução de despesa, os Quadros Permanente e Suplementar do Ministério da Aeronáutica, e dá outras providências.

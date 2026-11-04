@@ -1,5 +1,3 @@
-###DEC-002167-0-000-28-02-1997@@@
-
 DECRETO Nº 2.167, DE 28 DE FEVEREIRO DE 1997
 
 Altera o Regulamento, para a Marinha, da Lei de Promoções dos Oficiais da Ativa das Forças Armadas, aprovado pelo Decreto nº 107, de 29 de abril de 1991.

@@ -1,5 +1,3 @@
-###DEC-084432-0-000-24-01-1980@@@
-
 Decreto nº 84.432, de 24 de janeiro de 1980
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Minas Gerais S.A. - CEMIG, no Estado de Minas Gerais.

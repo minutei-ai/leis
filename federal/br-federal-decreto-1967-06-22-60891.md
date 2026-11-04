@@ -1,5 +1,3 @@
-###DEC-060891-0-000-22-06-1967@@@
-
 DECRETO Nº 60.891, DE 22 DE JUNHO DE 1967.
 
 Provê sôbre a transferência de órgão do Ministério da Educação e Cultura para Capital Federal.

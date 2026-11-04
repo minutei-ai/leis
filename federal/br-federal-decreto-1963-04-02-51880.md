@@ -1,5 +1,3 @@
-###DEC-051880-0-000-02-04-1963@@@
-
 DECRETO Nº 51.880, DE 2 DE ABRIL DE 1963.
 
 Cria a Assessoria do Gabinete Militar da Presidência da República.

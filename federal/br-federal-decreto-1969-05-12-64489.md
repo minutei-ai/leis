@@ -1,5 +1,3 @@
-###DEC-064489-0-000-12-05-1969@@@
-
 DECRETO Nº 64.489, DE 12 DE MAIO DE 1969.
 
 Altera o artigo 1º do Decreto nº 63.342, de 1º de outubro de 1968.

@@ -1,5 +1,3 @@
-###DEC-075147-0-000-27-12-1974@@@
-
 DECRETO Nº 75.147, DE 27 DE DEZEMBRO DE 1974.
 
 Prorroga o prazo de intervenção nas áreas prioritárias para fins de reforma agrária, assim declaradas pelos Decretos que menciona.
@@ -17,8 +15,6 @@ Brasília, 27 de dezembro de 1974; 153º da Independência e 86º da República.
 Ernesto Geisel
 
 Alysson Paulinelli
-
-###DEC-075147-0-000-27-12-1974@@@RET01+++
 
 DECRETO Nº 75.147, DE 27 DE DEZEMBRO DE 1974.
 

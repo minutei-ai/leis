@@ -1,5 +1,3 @@
-###DEL-000122-0-000-29-12-1937@@@
-
 DECRETO-LEI N. 122 – DE 29 DE DEZEMBRO DE 1937
 
 Abre o crédito suplementar de 55:000$000 para reforço de sub-consgnações da verba 21 – Diretorias de Receita, de Despesa, de Tomada de Contas, Contadoria Geral, e Tesouraria do vigente orçamento da Prefeitura do Distrito Federal

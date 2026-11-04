@@ -1,5 +1,3 @@
-###DEC-071754-0-000-24-01-1973@@@
-
 DECRETO Nº 71.754, DE 24 DE JANEIRO DE 1973.
 
 Autoriza o funcionamento da Faculdade de Educação, Ciências e Letras "Urubupungá", mantida pela Associação de Ensino e Cultura "Urubupungá", Pereira Barreto, São Paulo.

@@ -1,5 +1,3 @@
-###DEC-055966-0-000-20-04-1965@@@
-
 DECRETO Nº 55.966, DE 20 DE ABRIL DE 1965.
 
 Declara de utilidade pública a Congregação de São João Batista, com sede em Belo Horizonte, Estado de Minas Gerais, e as congregadas que enumera.

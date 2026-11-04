@@ -1,5 +1,3 @@
-###DEC-048277-0-000-08-06-1960@@@
-
 DECRETO Nº 48.277, DE 8 DE JUNHO DE 1960.
 
 Cria cargos e funções gratificadas no Quadro do Pessoal do Instituto de Aposentadoria e Pensões dos Empregados em Transporte e Cargas e dá outras providências.

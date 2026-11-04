@@ -1,5 +1,3 @@
-###DEL-002083-0-000-22-12-1983@@@
-
 # Decreto-lei nº 2.083, de 22 de dezembro de 1983
 
 Reajusta os atuais valores de vencimentos, salários e proventos dos servidores civis do Distrito Federal, bem como os das pensões e dá outras providências.

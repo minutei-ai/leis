@@ -1,5 +1,3 @@
-###DEC-093927-0-000-14-01-1987@@@
-
 DECRETO N° 93.927, DE 14 DE JANEIRO DE 1987
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Ciências Econômicas, Administrativas e Contábeis de São Sebastião do Paraíso.

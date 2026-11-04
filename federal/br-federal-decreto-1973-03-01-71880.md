@@ -1,5 +1,3 @@
-###DEC-071880-0-000-01-03-1973@@@
-
 DECRETO Nº 71.880, DE 1 DE MARÇO DE 1973.
 
 Cria a Comissão Nacional para o programa Global de Pesquisas Atmosféricas (GARP).

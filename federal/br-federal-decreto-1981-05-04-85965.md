@@ -1,5 +1,3 @@
-###DEC-085965-0-000-04-05-1981@@@
-
 DECRETO Nº 85.965, de 04 de maio de 1981
 
 Declara de utilidade pública para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóvel, constituído de terras e benfeitorias que menciona.

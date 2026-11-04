@@ -1,5 +1,3 @@
-###DEC-088921-0-000-26-10-1983@@@
-
 DECRETO Nº 88.921, DE 26 DE OUTUBRO DE1983
 
 Declara de utilidade pública, para fins de desapropriação, terreno e respectivas benfeitorias situado na cidade de Florianópolis, Capital do Estado de santa Catarina, destinado à ampliação do edifício-sede do Tribunal Regional do Trabalho de 12ª. Região.

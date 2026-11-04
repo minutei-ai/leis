@@ -1,5 +1,3 @@
-###DEC-063998-0-000-17-01-1969@@@
-
 DECRETO Nº 63.998, DE 17 DE JANEIRO DE 1969.
 
 Autoriza o trabalho em domingos e feriados civis e religiosos a revendedores credenciados da emprêsa Willys Oyerland do Brasil S. A., para os fins que menciona.

@@ -1,5 +1,3 @@
-###DEC-007633-0-000-01-12-2011-PUB-01@@@
-
 DECRETO Nº 7.633, DE 1º DE DEZEMBRO DE 2011
 
 Regulamenta o Regime Especial de Reintegração de Valores Tributários para as Empresas Exportadoras - REINTEGRA.

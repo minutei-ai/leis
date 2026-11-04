@@ -1,5 +1,3 @@
-###DEC-067910-0-000-21-12-1970@@@
-
 DECRETO Nº 67.910, DE 21 DE DEZEMBRO DE 1970.
 
 Outorga à Companhia Telefônica Brasileira concessão para explorar o serviço de telefonia público urbano em diversos Municípios do Estado de São Paulo.

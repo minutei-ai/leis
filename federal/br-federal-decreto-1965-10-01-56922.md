@@ -1,5 +1,3 @@
-###DEC-056922-0-000-01-10-1965@@@
-
 DECRETO Nº 56.922, DE 1º DE OUTUBRO DE 1965.
 
 Outorga à Companhia Paranaense de Energia Elétrica concessão para distribuir energia elétrica.

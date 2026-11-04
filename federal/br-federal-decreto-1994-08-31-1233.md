@@ -1,7 +1,3 @@
-1
-
-###DEC-001233-0-000-31-08-1994@@@
-
 DECRETO N° 1.233, DE 31 DE AGOSTO DE 1994
 
 Dá nova redação ao art. 2° do Decreto n° 89.250, de 27 de dezembro de 1983, que “regulamenta a Lei n° 7.116, de 29 de agosto de 1983, que assegura validade nacional às Carteiras de Identidade, regula sua expedição, e dá outras providências”.

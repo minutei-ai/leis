@@ -1,5 +1,3 @@
-###DEC-054081-0-000-31-07-1964@@@
-
 Decreto nº 54.081, de 31 de julho de 1964.
 
 Aprova a revisão dos Quadros de Pessoal, provisórios, do Instituto Brasileiro do Café, e dá outras providências.

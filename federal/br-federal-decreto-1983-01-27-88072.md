@@ -1,5 +1,3 @@
-###DEC-088072-0-000-27-01-1983@@@
-
 DECRETO Nº 88.072, DE 27 DE janEIRO DE 1983.
 
 Dispõe sobre a Constituição e Competência da Comissão Desportiva Militar do Brasil (CDMB), e dá, outras providências.

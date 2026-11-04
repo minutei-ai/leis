@@ -1,5 +1,3 @@
-###DEL-001541-0-000-14-04-1977@@@
-
 # DEcRETO-LEI Nº 1.541, DE 14 DE ABRIL DE 1977
 
 Institui sublegendas para as eleições de senador e prefeito e dá outras previdências.

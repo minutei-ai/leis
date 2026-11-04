@@ -1,7 +1,3 @@
-1
-
-###DEC-000547-0-000-27-05-1992@@@
-
 DECRETO Nº 547, DE 27 DE MAIO DE 1992
 
 Dispõe sobre a execução do Protocolo Adicional ao Acordo Comercial nº 14, no setor da indústria de aparelhos elétricos, mecânicos e térmicos, de uso doméstico, entre Brasil e México.

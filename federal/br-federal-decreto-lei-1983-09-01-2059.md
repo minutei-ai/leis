@@ -1,5 +1,3 @@
-###DEL-002059-0-000-01-09-1983@@@
-
 # Decreto-lei nº 2.059, de 01 de setembro de 1983.
 
 Altera a redação de dispositivo da Lei nº 5.292, de 8 de junho de 1967, que dispõe sobre a prestação de Serviço Militar pelos Estudantes de Medicina, Farmácia, Odontologia e Veterinária e pelos Médicos, Farmacêuticos, Dentistas e Veterinários.

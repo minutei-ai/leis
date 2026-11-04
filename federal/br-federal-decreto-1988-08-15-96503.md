@@ -1,5 +1,3 @@
-###DEC-096503-0-000-15-08-1988@@@
-
 DECRETO N° 96.503, DE 15 DE AGOSTO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “ENGENHO GURJAÚ”, classificado como latifúndio por exploração, situado no Município de Cortês, no Estado de Pernambuco, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.683, de 19 de maio de 1986, e dá outras providências.

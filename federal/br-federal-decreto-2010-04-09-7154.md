@@ -1,5 +1,3 @@
-###DEC-007154-0-000-09-04-2010@@@
-
 DECRETO Nº 7.154, DE 9 DE ABRIL DE 2010.
 
 Sistematiza e regulamenta a atuação de órgãos públicos federais, estabelecendo procedimentos a serem observados para autorizar e realizar estudos de aproveitamentos de potenciais de energia hidráulica e sistemas de transmissão e distribuição de energia elétrica no interior de unidades de conservação bem como para autorizar a instalação de sistemas de transmissão e distribuição de energia elétrica em unidades de conservação de uso sustentável.

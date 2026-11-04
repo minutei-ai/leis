@@ -1,5 +1,3 @@
-###DEC-048177-0-000-10-05-1960@@@
-
 DECRETO Nº 48.177, DE 10 DE MAIO DE 1960.
 
 Autoriza o cidadão brasileiro Guilhermino de Freitas Jatobá a pesquisar mármore no município de Juazeiro, Estado da Bahia.

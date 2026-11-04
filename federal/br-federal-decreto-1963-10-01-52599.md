@@ -1,5 +1,3 @@
-###DEC-052599-0-000-01-10-1963@@@
-
 Decreto Nº 52.599, DE 1 DE OUTUBRO DE 1963.
 
 Outorga à Pastamec S.A. Indústria e Comércio, concessão para o aproveitamento do desnível do rio Chopim.
@@ -41,8 +39,6 @@ Brasília, 7 de outubro de 1963; 142º da Independência e 75º da República.
 JOÃO GOULART
 
 Antônio de Oliveira Brito
-
-###DEC-052599-0-000-01-10-1963@@@RET01+++
 
 Decreto Nº 52.599, DE 1 DE OUTUBRO DE 1963.
 

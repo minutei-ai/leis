@@ -1,5 +1,3 @@
-###DEC-049511-0-000-12-12-1960@@@
-
 DECRETO Nº 49.511, DE 12 DE DEZEMBRO DE 1960.
 
 Autoriza a cidadã brasileira Geralda Gonçalves da Silva a pesquisar mica no município de Galiléia, Estado de Minas Gerais.

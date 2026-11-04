@@ -1,5 +1,3 @@
-###DEC-055880-0-000-30-03-1965@@@
-
 DECRETO Nº 55.880, DE 30 DE MARÇO DE 1965.
 
 Constitui Comissão para organizar e executar o plano das solenidades comemorativas do Centenário de Epitácio Pessoa.

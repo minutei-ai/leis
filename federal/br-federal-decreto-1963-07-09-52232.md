@@ -1,5 +1,3 @@
-###DEC-052232-0-000-09-07-1963@@@
-
 DECRETO Nº 52.232, DE 9 De JULHO de 1963
 
 Autoriza o cidadão brasileiro Leandro Martignago a pesquisar fluorita, no município de Armazém, Estado de Santa Catarina.

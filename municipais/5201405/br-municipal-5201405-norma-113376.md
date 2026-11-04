@@ -8,7 +8,8 @@ Art. 1º Para atender a necessidade temporária de excepcional interesse públic
 
 § 1º- de atendimento urgente às exigências do serviço, com o período de contratação máxima de 3 (três) anos e a possibilidade de ser prorrogado até o prazo total de 5 (cinco) anos, em decorrência da falta de pessoal efetivo ou enquanto perdurar necessidade transitória, para evitar o colapso nas atividades exercidas na educação e saúde.
 
-§ 2º- no que tange as contratações temporárias por tempo determinado, para  contratação de professor e de profissional de saúde, o contratado poderá participar ininterruptamente de outro processo seletivo desde que, para não gerar favoritismo e que tenha imparcialidade, o contratado deverá ser lotado em outra instituição, devendo ainda passar pelo crivo da seleção estando apto no processo seletivo simplificado.<br>
+§ 2º- no que tange as contratações temporárias por tempo determinado, para  contratação de professor e de profissional de saúde, o contratado poderá participar ininterruptamente de outro processo seletivo desde que, para não gerar favoritismo e que tenha imparcialidade, o contratado deverá ser lotado em outra instituição, devendo ainda passar pelo crivo da seleção estando apto no processo seletivo simplificado.
+
 (Redação alterada pela Lei Ordinária nº 3.891, de 25 de fevereiro de 2026).
 
 ~~Art. 1º Fica alterado o artigo 1º da Lei Municipal nº 2.424 de 05 de janeiro de 2004, que passa a ter a seguinte redação:~~
@@ -25,7 +26,8 @@ Art. 3º Fica alterado o parágrafo único do artigo 2º da Lei Municipal nº 2.
 
 “Parágrafo único - A contratação de professor e de profissional de saúde substitutos, bem como de outros recursos humanos na área de saúde, também em regime de substituição, aos quais se referem o inciso IV e V, far-se-á exclusivamente para suprir a falta de profissionais da carreira, decorrente de exoneração ou demissão, falecimento, aposentadoria, afastamento para capacitação e afastamento ou licença obrigatória, não se aplicando este dispositivo ao profissional da assistência social, mencionado no inciso X do artigo 2º, o previsto no Art.10, III.”
 
-Art. 4º Com o término do contrato por tempo determinado o contratado terá direito a participar, sem suspensão de intervalo de tempo, do novo processo seletivo desde que a contratação seja precedida de processo seletivo simplificado de provas ou de provas e títulos para que possa ocorrer sem a necessidade de espera do prazo de 36 meses.<br>
+Art. 4º Com o término do contrato por tempo determinado o contratado terá direito a participar, sem suspensão de intervalo de tempo, do novo processo seletivo desde que a contratação seja precedida de processo seletivo simplificado de provas ou de provas e títulos para que possa ocorrer sem a necessidade de espera do prazo de 36 meses.
+
 (Redação alterada pela Lei Ordinária nº 3.891, de 25 de fevereiro de 2026).
 
 ~~Art. 4° Fica alterado o parágrafo único para § 1º e criado o § 2º do artigo 10º da Lei Municipal nº 2.424 de 05 de janeiro de 2004, que passa a ter a seguinte redação:~~
@@ -38,8 +40,10 @@ Art. 5º Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito do Município de Aparecida de Goiânia, aos 22 dias do mês de julho do ano de 2016.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional

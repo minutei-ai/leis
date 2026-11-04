@@ -1,5 +1,3 @@
-###DEC-093275-0-000-18-09-1986@@@
-
 DECRETO Nº 93.275, DE 18 DE SETEMBRO DE 1986
 
 Altera dispositivos do Decreto nº 77.272, de 09 de março de 1976.

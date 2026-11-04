@@ -1,5 +1,3 @@
-###DEC-046478-0-000-20-07-1959@@@
-
 DECRETO Nº 46.478, DE 20 DE JULHO DE 1959.
 
 Autoriza Magnesita S.A. emprêsa de mineração a pesquisar argila refratária no município de Betim, Estado de Minas Gerais.

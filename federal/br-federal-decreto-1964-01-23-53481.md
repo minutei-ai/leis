@@ -1,5 +1,3 @@
-###DEC-053481-0-000-23-01-1964@@@
-
 decreto nº 53.481, de 23 de janeiro de 1964.
 
 Regulamenta a transferência e a remoção dos funcionários públicos civis da União.

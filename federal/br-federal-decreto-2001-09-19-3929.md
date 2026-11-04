@@ -1,5 +1,3 @@
-###DEC-003929-0-000-19-09-2001@@@
-
 DECRETO Nº 3.929, DE 19 DE SETEMBRO DE 2001
 
  Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República Francesa Relativo à Readmissão de Pessoas em Situação Irregular, celebrado em Paris, em 28 de maio de 1996. 

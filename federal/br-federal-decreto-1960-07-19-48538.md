@@ -1,5 +1,3 @@
-###DEC-048538-0-000-19-07-1960@@@
-
 DECRETO Nº 48.538, DE 19 DE JULHO DE 1960.
 
 Declara de utilidade pública, para desapropriação, o imóvel que menciona, no Rio de Janeiro, Estado da Guanabara, necessário ao Ministério da Aeronáutica.

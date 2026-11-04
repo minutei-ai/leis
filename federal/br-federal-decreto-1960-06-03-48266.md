@@ -1,5 +1,3 @@
-###DEC-048266-0-000-03-06-1960@@@
-
 Decreto nº 48.266, de 3 de junho de 1960.
 
 Aprova a mudança de denominação da Companhia Yasuda Contra Incêndio e Marítimos para The Yassuda Fire and Marine Insurance Company Limited.

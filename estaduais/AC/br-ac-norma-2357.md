@@ -1,6 +1,10 @@
 > **LEI Nº 3.169, DE 13 DE OUTUBRO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o programa de humanização da assistência ao parto e ao nascimento em todos os estabelecimentos de saúde do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o programa de humanização da assistência ao parto e ao nascimento em todos os estabelecimentos de saúde do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

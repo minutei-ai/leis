@@ -1,5 +1,3 @@
-###DEC-002742-0-000-20-08-1998@@@
-
 DECRETO Nº 2.742, DE 20 DE AGOSTO DE 1998
 
 Promulga o Protocolo ao Tratado da Antártida sobre Proteção ao Meio Ambiente, assinado em Madri, em 4 de outubro de 1991.

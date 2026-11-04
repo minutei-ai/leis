@@ -1,5 +1,3 @@
-###DEC-056410-0-000-03-06-1965@@@
-
 decreto nº 56.410, de 3 de junho de 1965.
 
 Dispõe sôbre a elaboração da lista tríplice para a escolha de Diretores de estabelecimentos federais de ensino superior e de Reitores de Universidades oficiais.

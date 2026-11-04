@@ -1,5 +1,3 @@
-###DEC-071749-0-000-23-01-1973@@@
-
 DECRETO Nº 71.749, DE 23 DE JANEIRO DE 1973.
 
 Altera o artigo 10, do Decreto número 71.535, de 13 de dezembro de 1972, que dispõe sobre a progressão Funcional na carreira de Diplomata.

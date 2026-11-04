@@ -1,4 +1,5 @@
-DECRETO Nº 10.187, DE 30 DE DEZEMBRO DE 2022<br>
+DECRETO Nº 10.187, DE 30 DE DEZEMBRO DE 2022
+
 \- [Vide Ação Direta de Inconstitucionalidade - ADI](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18308) [nº 7363](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18308)[/STF](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18308).
 
 Altera o [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266/decreto-4852), de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás.
@@ -138,8 +139,6 @@ Art. 8º Fica o titular da Secretaria de Estado da Economia autorizado a editar 
 Art. 9º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 30 de dezembro de 2022; 134º da República.
-
-<br>
 
 RONALDO CAIADO
 

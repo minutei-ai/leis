@@ -1,5 +1,3 @@
-###DEC-079263-0-000-14-02-1977@@@
-
 DECRETO Nº 79.263, DE 14 DE FEVEREIRO DE 1977
 
 Concede reconhecimento aos cursos de Administração e Ciências Contábeis, da Faculdade de Ciências Contábeis e Administrativas de São Miguel Paulista, com sede na Cidade de São Paulo.

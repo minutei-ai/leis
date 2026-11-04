@@ -1,5 +1,3 @@
-###DEC-054981-0-000-12-11-1964@@@
-
 DECRETO Nº 54.981, DE 12 DE NOVEMBRO DE 1964.
 
 Prorroga prazo de autorização para funcionamento da Instituição que menciona.

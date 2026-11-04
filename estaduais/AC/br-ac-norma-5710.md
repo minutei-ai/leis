@@ -1,6 +1,10 @@
 > **LEI Nº 4.158, DE 09 DE AGOSTO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Cria o Dia de valorização, respeito à diversidade LGBTQIAPN+ e combate a LGBTfobia no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Cria o Dia de valorização, respeito à diversidade LGBTQIAPN+ e combate a LGBTfobia no Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

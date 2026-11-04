@@ -1,5 +1,3 @@
-###DEC-047179-0-000-06-11-1959@@@
-
 DECRETO Nº 47.179, DE 6 DE NOVEMBRO DE 1959.
 
 Renova o Decreto nº 41.699, de 24 de junho de 1957.

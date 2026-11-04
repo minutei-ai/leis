@@ -1,5 +1,3 @@
-###DEL-008001-0-000-26-09-1945@@@
-
 DECRETO-LEI N. 8.001 – DE 26 DE SETEMBRO DE 1945
 
 Abre crédito especial ao Ministério da Justiça e Negócios Interiores, para mudança e instalação do Departamento Nacional de Informações e do Serviço de Estatística Demográfica, Moral e Política.

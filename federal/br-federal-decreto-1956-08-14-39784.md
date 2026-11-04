@@ -1,14 +1,12 @@
-###DEC-039784-0-000-14-08-1956@@@
+**DECRETO Nº 39.784, DE 14 DE AGÔSTO DE 1956.**
 
-<strong>DECRETO Nº 39.784, DE 14 DE AGÔSTO DE 1956.</strong>
+***Altera os parágrafos 60, 62, 63, 64, 65, 105 e 110 do Regulamento para Publicações Militares do Ministério da Guerra, R-150.***
 
-<em><strong>Altera os parágrafos 60, 62, 63, 64, 65, 105 e 110 do Regulamento para Publicações Militares do Ministério da Guerra, R-150.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, Inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, Inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º - Os parágrafos 60, 61, 62, 63, 64, 65, 105 e 110 do Regulamento para Publicações Militares do Ministério da Guerra, R-150, aprovado pelo Decreto nº 20.905, de 4 de abril de 1948, passam a ter a seguinte redação:
+**Art**. 1º - Os parágrafos 60, 61, 62, 63, 64, 65, 105 e 110 do Regulamento para Publicações Militares do Ministério da Guerra, R-150, aprovado pelo Decreto nº 20.905, de 4 de abril de 1948, passam a ter a seguinte redação:
 
 60\. A impressão dos Manuais Militares ficará a cargo do Estabelecimento General Gustavo Cordeiro de Farias e a dos Regulamentos Militares a cargo da Imprensa Militar e Gabinete Fotocartográfico.
 
@@ -54,10 +52,10 @@ b) Manuais de Campanha.
 
 110\. A venda de tôdas as publicações militares será feita através das Seções de Vendas do Estabelecimento General Gustavo Cordeiro de Farias.
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de janeiro, 14 de agôsto de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

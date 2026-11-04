@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/bd07a1ee-d4f3-42fa-b2f6-e927902e5b68/texto#nowhere)
 
-###DEL-000855-0-000-11-09-1969@@@
-
 DECRETO-Lei Nº 855, DE 11 DE SETEMBRO DE 1969
 
 Dispõe sôbre a situação dos empregados de emprêsas concessionárias de serviços públicos.

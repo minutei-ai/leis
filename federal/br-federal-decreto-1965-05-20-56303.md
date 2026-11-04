@@ -1,5 +1,3 @@
-###DEC-056303-0-000-20-05-1965@@@
-
 DECRETO Nº 56.303, DE 20 DE MAIO DE 1965.
 
 Determina que as emprêsas de turismo, agências de viagens e de vendas de passagens só poderão funcionar no país, após registro na Divisão de Turismo e Certames do Departamento Nacional do Comércio do Ministério da Indústria e do Comércio.

@@ -1,5 +1,3 @@
-###MPV-001833-0-004-27-07-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.833-4, DE 27 DE JULHO DE 1999.
 
 Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor da Presidência da República, crédito extraordinário no valor de R$120.142.089,00, para os fins que especifica.

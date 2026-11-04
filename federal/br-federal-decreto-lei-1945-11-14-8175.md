@@ -1,5 +1,3 @@
-###DEL-008175-0-000-14-11-1945@@@
-
 DECRETO-LEI N. 8.175 – DE 14 DE NOVEMBRO DE 1945
 
 Revoga o Decreto-lei nº 8.040, de 4 de outubro de 1945

@@ -1,5 +1,3 @@
-###DEC-059396-0-000-14-10-1966@@@
-
 DECRETO Nº 59.396, DE 14 DE OUTUBRO DE 1966.
 
 Cria o Fundo de Financiamento da televisão Educativa FUNTEVÊ e dá outras providências.

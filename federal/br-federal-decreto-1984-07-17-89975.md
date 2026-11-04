@@ -1,5 +1,3 @@
-###DEC-089975-0-000-17-07-1984@@@
-
 Decreto nº 89.975, de 17 de julho de 1984
 
 Cria a Consulado-Geral de Segunda Classe em Berlim, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-082280-0-000-19-09-1978@@@
-
 DecretO nº 82.280, de 19 de setembro de 1978.
 
 Autoriza o Ministro da Fazenda a conceder garantia a empréstimo externo a ser contratado pela Companhia Estadual de Energia Elétrica do Rio Grande do Sul,

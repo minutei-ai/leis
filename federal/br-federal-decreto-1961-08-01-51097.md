@@ -1,5 +1,3 @@
-###DEC-051097-0-000-01-08-1961@@@
-
 DECRETO Nº 51.097, DE 1º DE AGÔSTO DE 1961.
 
 Declara pública de uso comum do domínio do estado de Goiás, as águas do rio Mateira.

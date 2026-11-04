@@ -1,5 +1,3 @@
-###DEC-073925-0-000-10-04-1974@@@
-
 DECRETO Nº 73.925, DE 10 DE ABRIL DE 1974.
 
 Concede à Estância Hidro Termal Verê Ltda., o direito de lavrar água mineral no Município de Verê, Estado do Paraná.

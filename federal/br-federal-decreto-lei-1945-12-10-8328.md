@@ -1,5 +1,3 @@
-###DEL-008328-0-000-10-12-1945@@@
-
 DECRETO-LEI N. 8.328 – DE 10 DE DEZEMBRO DE 1945
 
 Dispõe sôbre o provimento de cargos magos nas classes intermediárias e finais de carreiras de funcionários civis do Ministério da Guerra.

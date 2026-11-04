@@ -1,5 +1,3 @@
-###DEL-008642-0-000-11-01-1946@@@
-
 DECRETO-LEI N. 8.642 – DE 11 DE JANEIRO DE 1946
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 41. 000,00.

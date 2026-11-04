@@ -1,5 +1,3 @@
-###DEC-052944-0-000-26-11-1963@@@
-
 DECRETO Nº 52.944, DE 26 DE NOVEMBRO DE 1963.
 
 Concede autorização para funcionar como emprêsa de energia elétrica a Centrais Elétricas do Piauí S.A. (CEPISA).
@@ -17,8 +15,6 @@ Brasília, 26 de novembro de 1963; 142º da Independência e 75º da República.
 João Goulart
 
 Antônio de Oliveira Brito
-
-###DEC-052944-0-000-26-11-1963@@@RET01+++
 
 DECRETO Nº 52.944, DE 26 DE NOVEMBRO DE 1963.
 

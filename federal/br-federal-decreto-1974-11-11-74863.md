@@ -1,5 +1,3 @@
-###DEC-074863-0-000-11-11-1974@@@
-
 DECRETO Nº 74.863, DE 11 DE NOVEMBRO DE 1974.
 
 Declara de utilidade pública e interesse social área de terra denominada BB I/BB II, abrangida pelo Projeto de Irrigação de Curaçá, no Município de Juazeiro, Estado da Bahia.

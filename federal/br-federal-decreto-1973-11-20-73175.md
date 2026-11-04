@@ -1,5 +1,3 @@
-###DEC-073175-0-000-20-11-1973@@@
-
 DECRETO Nº 73.175 - DE 20 DE NOVEMBRO DE 1973
 
 Cria função gratificada no Quadro de Pessoal do Ministério da Aeronáutica e dá outras providências.

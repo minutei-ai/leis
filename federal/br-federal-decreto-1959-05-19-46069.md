@@ -1,5 +1,3 @@
-###DEC-046069-0-000-19-05-1959@@@
-
 Decreto nº 46.069, de 19 de maio de 1959.
 
 Autoriza a firma Riley & Cia. Ltda. a comprar pedras preciosas.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211376)<br>
-
 # DECRETO N° 69.835, DE 01 DE SETEMBRO DE 2025
 
 ### _Declara de interesse social, para fins de desapropriação, os imóveis situados na Rua dos Gusmões, n°s 411, 415, 421 e 429, e na Avenida Rio Branco, n°s 500 e 530, Distrito da República, no Município de São Paulo, necessários à execução de programa habitacional e de desenvolvimento urbano, e dá providências correlatas._

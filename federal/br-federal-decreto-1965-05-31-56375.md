@@ -1,5 +1,3 @@
-###DEC-056375-0-000-31-05-1965@@@
-
 DECRETO Nº 56.375, DE 31 DE MAIO DE 1965.
 
 Outorga concessão à Radio Educadora de Piracicaba Limitada para estabelecer uma estação de radiodifusão.

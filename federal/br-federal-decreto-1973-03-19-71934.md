@@ -1,5 +1,3 @@
-###DEC-071934-0-000-19-03-1973@@@
-
 DECRETO Nº 71.934, DE 19 DE MARÇO DE 1973.
 
 Retifica o artigo 1º do Decreto número 67.646; de 23 de novembro de 1970.

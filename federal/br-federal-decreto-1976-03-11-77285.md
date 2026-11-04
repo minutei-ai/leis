@@ -1,5 +1,3 @@
-###DEC-077285-0-000-11-03-1976@@@
-
 DECRETO Nº 77.285, DE 11 DE MARÇO DE 1976.
 
 Autoriza o funcionamento do curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Itaúna, mantida pela Fundação do Ensino Superior de Itaúna, com sede na Cidade de Itaúna, Estado de Minas Gerais.

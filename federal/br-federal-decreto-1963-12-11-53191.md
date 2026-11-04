@@ -1,5 +1,3 @@
-###DEC-053191-0-000-11-12-1963@@@
-
 DECRETO Nº 53.191, DE 11 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Antonio Faria Ribeiro a pesquisar minério de ferro e dolomita no município de Itabirito, Estado de Minas Gerais.

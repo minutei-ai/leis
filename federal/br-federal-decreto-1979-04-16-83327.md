@@ -1,5 +1,3 @@
-###DEC-083327-0-000-16-04-1979@@@
-
 Decreto nº 83.327, de 16 de abril de 1979.
 
 Concede reconhecimento ao curso de Museologia da Universidade Federal da Bahia, com sede na cidade de Salvador, Estado da Bahia.

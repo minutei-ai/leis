@@ -1,5 +1,3 @@
-###DEC-052132-0-000-17-06-1963@@@
-
 DECRETO Nº 52.132, DE 17 DE JUNHO DE 1963.
 
 Aprova alteração introduzida nos Estatutos da Sul América Capitalização S.A. relativa ao aumento de capital.

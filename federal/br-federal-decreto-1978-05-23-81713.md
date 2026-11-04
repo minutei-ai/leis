@@ -1,5 +1,3 @@
-###DEC-081713-0-000-23-05-1978@@@
-
 Decreto nº 81.713, de 23 de maio de 1978.
 
 Concede à Empresa de Mineração Lopes Ltda. o direito de lavrar argila, areia e cascalho no Município de Mogi das Cruzes, Estado de São Paulo.

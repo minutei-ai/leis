@@ -1,5 +1,3 @@
-###DEC-082731-0-000-27-11-1978@@@
-
 Decreto nº 82.731, de 27 de novembro de1978.
 
 Decreto que cria a Embaixada do Brasil na República da Libéria.

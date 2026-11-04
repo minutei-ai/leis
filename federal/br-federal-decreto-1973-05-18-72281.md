@@ -1,5 +1,3 @@
-###DEC-072281-0-000-18-05-1973@@@
-
 DECRETO Nº 72.281, DE 18 DE MAIO DE1973.
 
 Concede à Fercal S.A.- Fertilizantes Calcários o direito de lavrar calcário e argila em Brasília - Distrito Federal.

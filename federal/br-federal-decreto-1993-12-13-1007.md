@@ -1,7 +1,3 @@
-1
-
-###DEC-001007-0-000-13-12-1993@@@ 
-
 DECRETO N° 1.007, DE 13 DE DEZEMBRO DE 1993
 
 Dispõe sobre as contribuições compulsórias devidas ao Serviço Social do Transporte - SEST e ao Serviço Nacional de Aprendizagem do Transporte -SENAT e dá outras providências.

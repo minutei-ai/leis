@@ -1,5 +1,3 @@
-###DEC-064744-0-000-26-06-1969@@@
-
 DECRETO Nº 64.744, DE 26 DE JUNHO DE 1969.
 
 Declara de utilidade pública o Museu de Arte Moderna de São Paulo, com sede em São Paulo, Estado de São Paulo.

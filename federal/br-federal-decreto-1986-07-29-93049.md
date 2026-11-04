@@ -1,5 +1,3 @@
-###DEC-093049-0-000-29-07-1986@@@
-
 DECRETO Nº 93.049, DE 29 DE JULHO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - DNOCS - área de terra abrangida pela bacia hidráulica e faixa seca do açude público "QUINQUÊ", no município de Acopiara, Estado do Ceará, e dá outras providências.

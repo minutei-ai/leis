@@ -1,5 +1,3 @@
-###DEC-048148-0-000-29-04-1960@@@
-
 DECRETO Nº 48.148, DE 29 DE ABRIL DE 1960.
 
 Dá nova redação à letra d) do Art. 33 do Decreto nº 47.709, de 27 de janeiro de 1960.

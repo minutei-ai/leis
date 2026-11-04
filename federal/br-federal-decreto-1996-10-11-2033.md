@@ -1,7 +1,3 @@
-1
-
-###DEC-002033-0-000-11-10-1996@@@
-
 DECRETO Nº 2.033, DE 11 DE OUTUBRO DE 1996.
 
 Determina a alienação, pelas empresas estatais federais, dos ativos imobilizados, não vinculados às suas atividades operacionais, e dá outras providências.

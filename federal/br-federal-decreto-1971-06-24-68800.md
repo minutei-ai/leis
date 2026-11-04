@@ -1,5 +1,3 @@
-###DEC-068800-0-000-24-06-1971@@@
-
 DECRETO Nº 68.800 - DE 24 DE JUNHO DE 1971.
 
 Declara de utilidade pública a Associação Missionária do Coração de Maria, com sede em Itaboraí, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-058867-0-000-20-07-1966@@@
-
 DECRETO Nº 58.867, DE 20 DE JULHO DE 1966.
 
 Declara de utilidade pública a Associação Beneficente e Filantrópica Dois de Setembro, com sede em Blumenau, Estado de Santa Catarina.

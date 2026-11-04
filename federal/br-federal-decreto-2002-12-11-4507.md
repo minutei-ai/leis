@@ -1,5 +1,3 @@
-###DEC-004507-0-000-11-12-2002@@@
-
 DECRETO N. 4.507 – DE 11 DE DEZEMBRO DE 2002
 
 Altera o art. 15 do Decreto nº 99.658, de 30 de outubro de 1990, que regulamenta, no âmbito da Administração Pública Federal, o reaproveitamento, a movimentação, a alienação e outras formas de desfazimento de material.

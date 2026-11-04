@@ -1,5 +1,3 @@
-###DEC-060012-0-000-10-01-1967@@@
-
 DECRETO Nº 60.012, DE 10 DE JANEIRO DE 1967.
 
 Autoriza Mineração Ouro Branco Limitada a lavrar caulim, no município de Cotia, Estado de São Paulo.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209236)<br>
-
 # LEI N° 17.886, DE 21 DE MARÇO DE 2024
 
 ## (Projeto de lei n° 607/2023, do Deputado Reis - PT)

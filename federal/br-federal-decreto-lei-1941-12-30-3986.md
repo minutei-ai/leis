@@ -1,5 +1,3 @@
-###DEL-003986-0-000-30-12-1941@@@
-
 DECRETO-LEI N. 3.986 – DE 30 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 5.340:000$0, para atender às despesas com os trabalhos relativos ao melhor aproveitamento do carvão nacional e de outras providências.

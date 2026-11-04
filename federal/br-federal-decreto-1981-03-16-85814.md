@@ -1,7 +1,3 @@
-1
-
-###DEC-085814-0-000-16-03-1981@@@
-
 Decreto nº 85.814, de 16 de março de 1981.
 
 Renova prazo de concessão outorgada à Companhia Hidroelétrica São Patrício - CHESP para aproveitamento da energia hidráulica da Cachoeira do Lavrinha, existente no rio das Almas, no Município de Jaraguá, Estado de Goiás.

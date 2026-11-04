@@ -1,5 +1,3 @@
-###DEC-064088-0-000-11-02-1969@@@
-
 DECRETO Nº 64.088, DE 11 DE FEVEREIRO DE 1969.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem da linha de transmissão estabelecida desde a Usina do Salto Grande, no Estado de São Paulo, até a subestação de Londrina, município de mesmo nome, no Estado do Paraná.

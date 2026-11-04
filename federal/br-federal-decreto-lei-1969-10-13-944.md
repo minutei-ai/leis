@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/6c31a5ea-8a4c-492c-a304-423d16362102/texto#nowhere)
 
-###DEL-000944-0-000-13-10-1969@@@
-
 DECRETO-LEI Nº 944, DE 13 DE OUTUBRO DE 1969
 
 Autoriza o Poder Executivo a abrir ao Ministério do Exército, em favor de mesmo, o crédito especial de NCr$1.544.651,97 para o fim que especifica.
@@ -14,7 +12,33 @@ Art. 1º Fica o Poder Executivo autorizado a abrir ao Ministério do Exército, 
 
 Art. 2º Os recursos de que trata o artigo anterior serão aplicados da seguinte forma:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:86.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.06.00</span></p></td><td style="width:317.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Ministério do Exército</span></p></td></tr><tr><td style="width:86.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.06.01</span></p></td><td style="width:317.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Ministério do Exército</span></p></td></tr><tr><td style="width:86.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>03.07.08.2.006</span></p></td><td style="width:317.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Pagamento de Inativos e Pensionistas</span></p></td></tr><tr><td style="width:86.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.0.0.0</span></p></td><td style="width:317.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Despesas Correntes</span></p></td></tr><tr><td style="width:86.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.1.0.0</span></p></td><td style="width:317.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Despesas de Custeio</span></p></td></tr><tr><td style="width:86.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.1.5.0</span></p></td><td style="width:317.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Despesas de Exercícios</span></p></td></tr><tr><td style="width:86.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Anteriores</span></p></td><td style="width:317.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- NCr$1.544.651,97</span></p></td></tr></tbody></table>
+5.06.00
+
+- Ministério do Exército
+
+5.06.01
+
+- Ministério do Exército
+
+03.07.08.2.006
+
+- Pagamento de Inativos e Pensionistas
+
+3.0.0.0
+
+- Despesas Correntes
+
+3.1.0.0
+
+- Despesas de Custeio
+
+3.1.5.0
+
+- Despesas de Exercícios
+
+Anteriores
+
+- NCr$1.544.651,97
 
 Art. 3º Os recursos necessários ao atendimento do crédito especial de que trata o artigo 1º dêste Decreto-lei são aquêles decorrentes de anulação de dotações orçamentárias determinadas através do Decreto-lei nº 786, de 25 de agôsto de 1969.
 

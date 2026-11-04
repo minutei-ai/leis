@@ -1,5 +1,3 @@
-###DEC-051997-0-000-13-05-1963@@@
-
 Decreto nº 51.997, de 13 de maio de 1963.
 
 Aprova o Regulamento da Pagadoria de Inativos e Pensionistas da Aeronáutica (PIPAR).

@@ -1,5 +1,3 @@
-###DEC-070720-0-000-15-06-1972@@@
-
 DECRETO Nº 70.720, DE 15 DE JUNHO DE 1972.
 
 Concede reconhecimento à Faculdade de Educação Física de Santos-SP.

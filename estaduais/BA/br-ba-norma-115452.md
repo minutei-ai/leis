@@ -180,4 +180,90 @@ ANEXO I
 
 CARGOS ISOLADOS DE PROVIMENTO EM COMISSÃO
 
-<table style="width: 318.95pt; margin-left: 63.8pt; border-collapse: collapse; border: none; mso-border-alt: solid black .75pt; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;" width="425" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 212.65pt; border: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="284"><p class="Tabela-Texto"><span>Cargos</span></p></td><td style="width: 49.6pt; border: solid black .75pt; border-left: none; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="66"><p class="Tabela-Texto"><span>Símbolo</span></p></td><td style="width: 2.0cm; border: solid black .75pt; border-left: none; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="76"><p class="Tabela-Texto"><span>Quantidade</span></p></td></tr><tr><td style="width: 212.65pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="284"><p class="Tabela-Texto"><span>1º<span style="mso-spacerun: yes;">&nbsp; </span>Diretor de Departamento.</span></p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="66"><p class="Tabela-Texto"><span>3-C</span></p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="76"><p class="Tabela-Texto"><span>3</span></p></td></tr><tr><td style="width: 212.65pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="284"><p class="Tabela-Texto"><span>2º<span style="mso-spacerun: yes;">&nbsp; </span>Assessor Chefe</span></p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="66"><p class="Tabela-Texto"><span>3-C</span></p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="76"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 212.65pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="284"><p class="Tabela-Texto"><span>3º<span style="mso-spacerun: yes;">&nbsp; </span>Chefe da Procuradoria</span></p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="66"><p class="Tabela-Texto"><span>3-C</span></p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="76"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 212.65pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="284"><p class="Tabela-Texto"><span>4º<span style="mso-spacerun: yes;">&nbsp; </span>Chefe de Gabinete</span></p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="66"><p class="Tabela-Texto"><span>3-C</span></p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="76"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 212.65pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="284"><p class="Tabela-Texto"><span>5º <span style="mso-spacerun: yes;">&nbsp;</span>Diretor do Serviço de Estudos Previdenciários</span></p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="66"><p class="Tabela-Texto"><span>5-C</span></p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="76"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 212.65pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="284"><p class="Tabela-Texto"><span>6º<span style="mso-spacerun: yes;">&nbsp; </span>Diretor de Auditoria</span></p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="66"><p class="Tabela-Texto"><span>5-C</span></p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="76"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 212.65pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="284"><p class="Tabela-Texto"><span>7º<span style="mso-spacerun: yes;">&nbsp; </span>Diretor do Serviço de Administração Geral</span></p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="66"><p class="Tabela-Texto"><span>5-C</span></p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="76"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 212.65pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="284"><p class="Tabela-Texto"><span>8º<span style="mso-spacerun: yes;">&nbsp; </span>Contador Geral</span></p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="66"><p class="Tabela-Texto"><span>5-C</span></p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="76"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 212.65pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="284"><p class="Tabela-Texto"><span>9º<span style="mso-spacerun: yes;">&nbsp; </span>Tesoureiro Geral</span></p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="66"><p class="Tabela-Texto"><span>5-C</span></p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="76"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 212.65pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="284"><p class="Tabela-Texto"><span>10<span style="mso-spacerun: yes;">&nbsp; </span>Diretor de Divisão</span></p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="66"><p class="Tabela-Texto"><span>5-C</span></p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="76"><p class="Tabela-Texto"><span>7</span></p></td></tr><tr><td style="width: 212.65pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="284"><p class="Tabela-Texto"><span>11<span style="mso-spacerun: yes;">&nbsp; </span>Diretor do Hospital do Servidor do Estado</span></p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="66"><p class="Tabela-Texto"><span>5-C</span></p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="76"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 212.65pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="284"><p class="Tabela-Texto"><span>12<span style="mso-spacerun: yes;">&nbsp; </span>Assessor</span></p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="66"><p class="Tabela-Texto"><span>6-C</span></p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="76"><p class="Tabela-Texto"><span>3</span></p></td></tr><tr><td style="width: 212.65pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="284"><p class="Tabela-Texto"><span>13<span style="mso-spacerun: yes;">&nbsp; </span>Oficial de Gabinete</span></p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="66"><p class="Tabela-Texto"><span>10-C</span></p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="76"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 212.65pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="284"><p class="Tabela-Texto"><span>TOTAL</span></p></td><td style="width: 49.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="66">&nbsp;</td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="76"><p class="Tabela-Texto"><span>24</span></p></td></tr></tbody></table>
+Cargos
+
+Símbolo
+
+Quantidade
+
+1º  Diretor de Departamento.
+
+3-C
+
+3
+
+2º  Assessor Chefe
+
+3-C
+
+1
+
+3º  Chefe da Procuradoria
+
+3-C
+
+1
+
+4º  Chefe de Gabinete
+
+3-C
+
+1
+
+5º  Diretor do Serviço de Estudos Previdenciários
+
+5-C
+
+1
+
+6º  Diretor de Auditoria
+
+5-C
+
+1
+
+7º  Diretor do Serviço de Administração Geral
+
+5-C
+
+1
+
+8º  Contador Geral
+
+5-C
+
+1
+
+9º  Tesoureiro Geral
+
+5-C
+
+1
+
+10  Diretor de Divisão
+
+5-C
+
+7
+
+11  Diretor do Hospital do Servidor do Estado
+
+5-C
+
+1
+
+12  Assessor
+
+6-C
+
+3
+
+13  Oficial de Gabinete
+
+10-C
+
+2
+
+TOTAL
+
+24

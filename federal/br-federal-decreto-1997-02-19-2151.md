@@ -1,5 +1,3 @@
-###DEC-002151-0-000-19-02-1997@@@
-
 DECRETO Nº 2.151, DE 19 DE FEVEREIRO DE 1997
 
 Promulga o Acordo de Cooperação, celebrado entre o Governo da República Federativa do Brasil e o ILANUD, em São José, em 30 de novembro de 1989.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099071-0-000-08-03-1990@@@
-
 DECRETO Nº 99.071, DE 8 DE MARÇO DE 1990.
 
 Altera a redação do Art. 23, do Decreto nº 98.938, de 9 de fevereiro de 1990, que estabelece normas para a programação e execução orçamentária e financeira, para o exercício de 1990.

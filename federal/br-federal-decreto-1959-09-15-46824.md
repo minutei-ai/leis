@@ -1,5 +1,3 @@
-###DEC-046824-0-000-15-09-1959@@@
-
 DECRETO Nº 46.824, de 15 de setembro de 1959.
 
 Autoriza o cidadão brasileiro Steno Benedito José Albertoni a Pesquisar calcário no Município de Barroso, Estado de Minas Gerais.

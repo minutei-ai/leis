@@ -1,7 +1,3 @@
-1
-
-###DEC-099441-0-000-07-08-1990@@@
-
 DECRETO N° 99.441, DE 7 DE AGOSTO DE 1990
 
 Dispõe sobre a execução, no território nacional, da Resolução 661 (1990) do Conselho de Segurança das Nações Unidas.

@@ -1,5 +1,3 @@
-###DEC-061287-0-000-06-09-1967@@@
-
 DECRETO Nº 61.287, DE 6 DE SETEMBRO DE 1967.
 
 Retifica o Decreto nº 54.351, de 29 de setembro de 1964, que aprovou o Quadro de Pessoal da Superintendência do Desenvolvimento do Nordeste (SUDENE).

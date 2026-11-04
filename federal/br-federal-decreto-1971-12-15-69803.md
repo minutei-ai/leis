@@ -1,5 +1,3 @@
-###DEC-069803-0-000-15-12-1971@@@
-
 DECRETO Nº 69.803 - DE 15 DE DEZEMBRO DE 1971
 
 Prorroga o prazo para a execução dos serviços concernentes aos registros públicos, regulados pelo Decreto-lei nº 1.000, de 21 de outubro de 1969.

@@ -1,5 +1,3 @@
-###DEL-006939-0-000-07-10-1944@@@
-
 DECRETO-LEI N 6.939 – DE 7 DE OUTUBRO DE 1944
 
 Modifica a incidência da cota especial sôbre o algodão em pluma, e dá outras providências

@@ -1,5 +1,3 @@
-###DEL-003352-0-000-17-06-1941@@@
-
 DECRETO-LEI N. 3.352 – DE 17 DE JUNHO DE 1941
 
 Estabelece prazo para requerer melhoria de carta profissional da Marinha Mercante

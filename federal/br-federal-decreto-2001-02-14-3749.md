@@ -1,5 +1,3 @@
-###DEC-003749-0-000-14-02-2001@@@
-
 DECRETO Nº 3.749, DE 14 DE FEVEREIRO DE 2001
 
 Exclui das disposições do Decreto nº 1.068, de 2 de março de 1994, as participações acionárias minoritárias da Caixa Econômica Federal no capital social da SASSE Companhia Nacional de Seguros Gerais.

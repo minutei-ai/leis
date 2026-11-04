@@ -22,15 +22,18 @@ I)    LIMITES E CONFRONTAÇÕES 
 
 ÁREA 3- ÁREA: 57.029,30 metros quadrados
 
-Começa no marco M-23, cravado nos limites do Setor Industrial Santo Antônio, então segue<br>
-confrontando com a Área I (REMANESCENTE), nos seguintes azimutes e distâncias: 339°01'07"-183,48m até o marco M-24; 24°01'07"-7,07m até o marco M-25; 69°01'08"-245,00m até o marco M-26; 114°01'08"-7,07m até o marco M-27; 159°01'08"-75,85m até o marco M-28, cravado no PC de uma curva, com Raio igual a 255,00m, Ângulo Central igual a 47°49'22" e Desenvolvimento igual a 212,84m até o marco M-29; daí, segue confrontando com o Setor Industrial Santo Antônio, com Azimute de 94°34'21" e distância de 189,77m até o marco M-23, onde teve início.<br>
+Começa no marco M-23, cravado nos limites do Setor Industrial Santo Antônio, então segue
+
+confrontando com a Área I (REMANESCENTE), nos seguintes azimutes e distâncias: 339°01'07"-183,48m até o marco M-24; 24°01'07"-7,07m até o marco M-25; 69°01'08"-245,00m até o marco M-26; 114°01'08"-7,07m até o marco M-27; 159°01'08"-75,85m até o marco M-28, cravado no PC de uma curva, com Raio igual a 255,00m, Ângulo Central igual a 47°49'22" e Desenvolvimento igual a 212,84m até o marco M-29; daí, segue confrontando com o Setor Industrial Santo Antônio, com Azimute de 94°34'21" e distância de 189,77m até o marco M-23, onde teve início.
+
 Todas as coordenadas aqui descritas foram obtidas a partir do serviço disponibilizado pelo IBGE - Posicionamento por Ponto Preciso, e encontram-se representadas no Sistema UTM, referenciadas ao Meridiano Central 51° WGr, tendo como S.G.R. (Sistema Geodésico de Referência) o SIRGAS2000. Todos os azimutes e distâncias, área e perímetro foram calculados no plano de projeção UTM.
 
 II)    SITUAÇÃO LEVANTADA
 
 ÁREA 3 – ÁREA: 56.840,79 metros quadrados
 
-Começa no marco M-23, cravado nos limites do Loteamento Polo Empresarial Goiás Etapa II,<br>
+Começa no marco M-23, cravado nos limites do Loteamento Polo Empresarial Goiás Etapa II,
+
 então segue confrontando a Rua 19 com o azimute de 312°51'32" e distância de 183,480m até o marco M-24, deste, segue pela linha de chanfrado da Rua 19 com a Rua 6 com o azimute de 357°51'32" e distância de 7,070m até o marco M-25, deste, segue confrontando com a Rua 6 com os seguintes azimutes e distâncias: 42°51'33" – 245,000m até o marco M-26; e 88°30'50" - 7,53m até o marco M-27; deste, segue confrontando com a Área 04 Loteamento Polo Empresarial Goiás Etapa I com os seguintes azimutes e distâncias: 134°25’29” – 1,83m até o marco M-27A; e 134°49'53" – 34,79m até o marco M-27B; e 131°09'53" – 1,79m até o marco M28; e 134°53'59" – 21,80m até o marco M-28A; e 140°42'22" – 26,04m até o marco M-28B; e 146°56'50" – 26,39m até o marco M-28C; e 151°46'37" – 21,70m até o marco M-28D; e 156°43'32" – 37,40m até o marco M-28E, cravado no PC de uma curva, com Raio igual a 268,51m, Desenvolvimento de 83,82m e ângulo de 72°06’50” até o marco M-29; deste, segue, confrontando com a Área 01/02 Loteamento Polo Empresarial Goiás Etapa II, com azimute 248°24’46” e distância 174,61m até o marco M-29A, daí, segue com azimute de 248°24’46” e distância de 14,75m até o marco M-23, ponto inicial desta descrição.
 
  Todas as coordenadas aqui descritas foram obtidas a partir do serviço disponibilizado pelo IBGE - Posicionamento por Ponto Preciso, e encontram-se representadas no Sistema UTM, referenciadas ao Meridiano Central 51° WGr, tendo como S.G.R. (Sistema Geodésico de Referência) o SIRGAS2000. Todos os azimutes e distâncias, área e perímetro foram calculados no plano de projeção UTM.
@@ -43,11 +46,11 @@ QUADRA 22 – com área de 56.840,79 m², começa no marco M-23, cravado nos lim
 
  II. QUADRO RESUMO DE DISCRIMINAÇÃO DE QUADRAS
 
-<table><tbody><tr><td colspan="4" style=" width:501px;    ">DISCRIMINAÇÃO DAS QUADRAS VENDÁVEIS</td></tr><tr><td style=" width:95px;    ">QUADRAS</td><td style=" width:179px;    ">DESTINAÇÃO</td><td style=" width:123px;    ">ÁREA (M²)</td><td style=" width:104px;    ">%</td></tr><tr><td style=" width:95px;    ">&nbsp;22</td><td style=" width:179px;    ">Comercial / Industrial</td><td style=" width:123px;    ">56.840,79</td><td style=" width:104px;    ">100</td></tr></tbody></table>
+<table><tbody><tr><td colspan="4">DISCRIMINAÇÃO DAS QUADRAS VENDÁVEIS</td></tr><tr><td>QUADRAS</td><td>DESTINAÇÃO</td><td>ÁREA (M²)</td><td>%</td></tr><tr><td>&nbsp;22</td><td>Comercial / Industrial</td><td>56.840,79</td><td>100</td></tr></tbody></table>
 
  III. QUADRO RESUMO DE ÁREAS
 
-<table><tbody><tr><td colspan="3" style=" width:546px;    "><b>QUADRO RESUMO DE ÁREAS</b></td></tr><tr><td style=" width:321px;    ">DESCRIÇÃO</td><td style=" width:94px;    ">ÁREA (m²)</td><td style=" width:130px;    ">PERCENTUAL (%)</td></tr><tr><td style=" width:321px;    "><b>Área Total de Registro</b></td><td style=" width:94px;    "><b>56.840,79</b></td><td style=" width:130px;    "><b>100</b></td></tr><tr><td style=" width:321px;    ">Área APP (quando houver)</td><td style=" width:94px;    ">0,00</td><td style=" width:130px;    ">0,00</td></tr><tr><td style=" width:321px;    ">Área Urbanizável</td><td style=" width:94px;    ">56.840,79</td><td style=" width:130px;    ">100</td></tr><tr><td style=" width:321px;  height:15px;   ">&nbsp;</td><td style=" width:94px;  height:15px;   ">&nbsp;</td><td style=" width:130px;  height:15px;   ">&nbsp;</td></tr><tr><td style=" width:321px;    "><b>Área urbanizável</b></td><td style=" width:94px;    "><b>56.840,79</b></td><td style=" width:130px;    "><b>100%</b></td></tr><tr><td style=" width:321px;  height:9px;   "><b>Área total de Lotes</b></td><td style=" width:94px;  height:9px;   "><b>56.840,79</b></td><td style=" width:130px;  height:9px;   "><b>100%</b></td></tr><tr><td style=" width:321px;  height:27px;   ">Área de lotes vendáveis</td><td style=" width:94px;  height:27px;   ">56.840,79</td><td style=" width:130px;  height:27px;   ">100%</td></tr><tr><td style=" width:321px;  height:27px;   ">Área do Lote de Serviço</td><td style=" width:94px;  height:27px;   ">0,00</td><td style=" width:130px;  height:27px;   ">0,00</td></tr><tr><td style=" width:321px;  height:27px;   "><b>Área total das áreas Públicos Municipais</b></td><td style=" width:94px;  height:27px;   "><b>0,00</b></td><td style=" width:130px;  height:27px;   "><b>0,00</b></td></tr><tr><td style=" width:321px;  height:27px;   ">Áreas Verdes</td><td style=" width:94px;  height:27px;   ">0,00</td><td style=" width:130px;  height:27px;   ">0,00</td></tr><tr><td style=" width:321px;  height:27px;   ">Área do Sistema Viário</td><td style=" width:94px;  height:27px;   ">0,00</td><td style=" width:130px;  height:27px;   ">0,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="3">**QUADRO RESUMO DE ÁREAS**</td></tr><tr><td>DESCRIÇÃO</td><td>ÁREA (m²)</td><td>PERCENTUAL (%)</td></tr><tr><td>**Área Total de Registro**</td><td>**56.840,79**</td><td>**100**</td></tr><tr><td>Área APP (quando houver)</td><td>0,00</td><td>0,00</td></tr><tr><td>Área Urbanizável</td><td>56.840,79</td><td>100</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>**Área urbanizável**</td><td>**56.840,79**</td><td>**100%**</td></tr><tr><td>**Área total de Lotes**</td><td>**56.840,79**</td><td>**100%**</td></tr><tr><td>Área de lotes vendáveis</td><td>56.840,79</td><td>100%</td></tr><tr><td>Área do Lote de Serviço</td><td>0,00</td><td>0,00</td></tr><tr><td>**Área total das áreas Públicos Municipais**</td><td>**0,00**</td><td>**0,00**</td></tr><tr><td>Áreas Verdes</td><td>0,00</td><td>0,00</td></tr><tr><td>Área do Sistema Viário</td><td>0,00</td><td>0,00</td></tr></tbody></table>
 
 IV.    LISTAGEM DOS LOTES
 
@@ -89,11 +92,14 @@ Art. 9º Este decreto entrará em vigor na data de sua publicação, revogadas a
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA/GO, aos 25 de junho de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal
 
-POLLYANA OLIVERIA BORGES<br>
+POLLYANA OLIVERIA BORGES
+
 Secretária de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário Municipal de Planejamento e Regulação Urbana

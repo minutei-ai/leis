@@ -1,5 +1,3 @@
-###DEC-049372-0-000-29-11-1960@@@
-
 DECRETO Nº 49.372, DE 29 DE NOVEMBRO DE 1960.
 
 Altera o Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Industriários, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-048964-0-000-22-09-1960@@@
-
 DECRETO Nº 48.964, DE 22 DE SETEMBRO DE 1960.
 
 Abre, pelo Ministério da Fazenda - Caixa de Amortização, o crédito especial de Cr$500.000.000,00 (quinhentos milhões de cruzeiros), para atender o pagamento de dívidas de pecuaristas reajustados.

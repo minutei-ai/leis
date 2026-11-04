@@ -1,5 +1,3 @@
-###DEC-083914-0-000-29-08-1979@@@
-
 Decreto nº 83.914, de 29 de agosto de 1979.
 
 Dá nova redação a dispositivos do Decreto nº 66 689, de 11 de junho de 1970 - Regulamento de Decreto-Lei nº 941, de 13 de outubro de 1969, que define a situação jurídica do estrangeiro no Brasil.

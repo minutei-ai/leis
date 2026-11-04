@@ -1,5 +1,3 @@
-###DEC-087325-0-000-24-06-1982@@@
-
 Decreto nº 87.325, de 24 de junho de 1982
 
 Dispõe sobre a estruturação e o funcionamento do Conselho Superior de Censura, a que se refere o art. 15 da Lei nº 5.536, de 21 de novembro de 1968.

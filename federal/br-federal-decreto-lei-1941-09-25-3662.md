@@ -1,5 +1,3 @@
-###DEL-003662-0-000-25-09-1941@@@
-
 DECRETO-LEI N. 3.662 – DE 25 DE SETEMBRO DE 1941
 
 Abre, pelo Ministério do Trabalho, Indústria e Comércio, o crédito especial de 358:443$1, para atender a compromissos do Serviço de Alimentação da Previdência Social (SAPS)

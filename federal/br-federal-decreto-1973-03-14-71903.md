@@ -1,5 +1,3 @@
-###DEC-071903-0-000-14-03-1973@@@
-
 DECRETO Nº 71.903, DE 14 DE MARÇO DE 1973.
 
 Altera o Decreto nº 71.344, de 9 de novembro de 1972, que concedeu reconhecimento à Faculdade de Filosofia, Ciências e Letras de Jandaia do Sul, Estado do Paraná.

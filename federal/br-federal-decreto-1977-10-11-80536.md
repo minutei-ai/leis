@@ -1,5 +1,3 @@
-###DEC-080536-0-000-11-10-1977@@@
-
 Decreto nº 80.536, de 11 DE OUTUBRO DE 1977.
 
 Regulamenta a Lei nº 6.420, de 3 de junho de 1977, e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-002107-0-011-26-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.107-11, DE 26 DE JANEIRO DE 2001
 
 Institui o Vale-Pedágio obrigatório sobre o transporte rodoviário de carga e dá outras providências.

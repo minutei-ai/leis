@@ -1,5 +1,3 @@
-###DEC-086979-0-000-03-03-1982@@@
-
 DECRETO Nº 86.979, de 03 de março de 1982
 
 Cria a Diretoria de Auditoria no Ministério do Exército, as Inspetorias de Contabilidade e Finanças, o Centro de Pagamento do Exército, e dá outras providências.

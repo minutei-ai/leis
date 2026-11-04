@@ -1,5 +1,3 @@
-###DEC-078005-0-000-08-07-1976@@@
-
 DECRETO Nº 78.005, DE 8 DE JULHO DE 1976.
 
 Concede reconhecimento ao curso de Medicina Veterinária da Faculdade de Zootecnia de Uruguaiana, com sede na Cidade de Uruguaiana, Estado do Rio Grande do Sul.

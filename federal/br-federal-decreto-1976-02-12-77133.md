@@ -1,5 +1,3 @@
-###DEC-077133-0-000-12-02-1976@@@
-
 DECRETO Nº 77.133, DE 12 DE FEVEREIRO DE 1976
 
 Autoriza o funcionamento do curso de Química Industrial da Escola Superior de Tecnologia da Fundação Educacional do Sul de Santa Catarina, com sede na cidade de Tubarão, Estado de Santa Catarina.

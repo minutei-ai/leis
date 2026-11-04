@@ -1,5 +1,3 @@
-###MPV-000358-0-000-16-03-2007@@@
-
 MEDIDA PROVISÓRIA Nº 358, DE 16 DE MARÇO DE 2007.
 
 Altera dispositivos das Leis nos 11.345, de 14 de setembro de 2006, 8.212, de 24 de julho de 1991, e 8.685, de 20 de julho de 1993, e dá outras providências.
@@ -85,5 +83,3 @@ Nelson Machado
 João Luiz Silva Ferreira
 
 Orlando Silva de Jesus Junior
-
-Este texto não substitui o publicado no DOU de 19.3.2007

@@ -1,5 +1,3 @@
-###DEL-001747-0-000-28-12-1979@@@
-
 # decreto-lei nº 1.747, de 28 de dezembro de 1979
 
 Fixa o valor do soldo base do cálculo da remuneração dos militares.

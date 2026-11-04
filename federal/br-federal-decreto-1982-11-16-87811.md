@@ -1,5 +1,3 @@
-###DEC-087811-0-000-16-11-1982@@@
-
 Decreto nº 87.811, de 16 de novembro de 1982
 
 Declara de utilidade pública, para efeito de desapropriação, as terras delimitadas na área do Parque Nacional da Chapada dos Veadeiros, no Estado de Goiás.

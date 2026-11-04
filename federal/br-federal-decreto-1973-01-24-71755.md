@@ -1,5 +1,3 @@
-###DEC-071755-0-000-24-01-1973@@@
-
 DECRETO Nº 71.755, DE 24 DE JANEIRO DE 1973.
 
 Altera a denominação do Gabinete de Identificação da Marinha e aprova o Regulamento para o Serviço de Identificação da Marinha.

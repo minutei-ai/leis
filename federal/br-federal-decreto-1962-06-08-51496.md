@@ -1,5 +1,3 @@
-###DEC-051496-0-000-08-06-1962@@@
-
 DECRETO nº 51.496, DE 8 DE JUNHO DE 1962.
 
 Cria cargos em comissão e funções gratificadas no Quadro do Pessoal do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargos e dá outras providências.

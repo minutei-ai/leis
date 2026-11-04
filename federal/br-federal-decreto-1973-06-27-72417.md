@@ -1,5 +1,3 @@
-###DEC-072417-0-000-27-06-1973@@@
-
 DECRETO Nº 72.417, DE 27 DE JUNHO DE 1973.
 
 Declara sem efeito o Decreto número 33.983, de 30 de setembro de 1953,

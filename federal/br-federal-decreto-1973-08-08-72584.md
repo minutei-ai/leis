@@ -1,5 +1,3 @@
-###DEC-072584-0-000-08-08-1973@@@
-
 DECRETO Nº 72.584, DE 8 DE AGOSTO DE 1973.
 
 Prorroga prazo de concessão de aproveitamento de energia hidráulica, para uso exclusivo.

@@ -1,5 +1,3 @@
-###DEC-056788-0-000-25-08-1965@@@
-
 DECRETO Nº 56.788, DE 25 DE AGÔSTO DE 1965.
 
 Aprova o Regimento do Gabinete Militar da Presidência da República.

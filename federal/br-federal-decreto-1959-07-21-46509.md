@@ -1,5 +1,3 @@
-###DEC-046509-0-000-21-07-1959@@@
-
 decreto nº 46.509, de 21 de julho de 1959.
 
 Suprime cargo extinto.

@@ -1,5 +1,3 @@
-###DEC-092001-0-000-28-11-1985@@@
-
 DECRETO Nº 92.001, DE 28 DE novembro DE 1985
 
 Dispõe sobre a prestação de serviço extraordinário no Serviço público Federal, e dá outras providências.

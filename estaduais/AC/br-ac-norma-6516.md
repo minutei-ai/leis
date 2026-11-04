@@ -1,6 +1,10 @@
 > **LEI Nº 4.620, DE 24 DE JULHO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Estabelece prioridade e preferência de vaga em cursos de qualificação técnica e profissional gratuito, oferecidos pelo governo do Estado, às mulheres vítimas de violência doméstica e familiar.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Estabelece prioridade e preferência de vaga em cursos de qualificação técnica e profissional gratuito, oferecidos pelo governo do Estado, às mulheres vítimas de violência doméstica e familiar.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

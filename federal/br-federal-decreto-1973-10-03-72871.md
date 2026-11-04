@@ -1,5 +1,3 @@
-###DEC-072871-0-000-03-10-1973@@@
-
 DECRETO Nº 72.871, DE 3 OUTUBRO DE 1973.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Panamericana S.A., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de São Paulo, Estado de São Paulo.

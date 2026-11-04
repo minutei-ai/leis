@@ -1,7 +1,3 @@
-1
-
-###DEC-099471-0-000-24-08-1990@@@
-
 DECRETO N° 99.471, DE 24 DE AGOSTO DE 1990
 
 Dispõe sobre a simplificação do Registro Nacional de Transportadores Rodoviários de Bens, de que trata a Lei n° 7.092, de 19 de abril de 1983.

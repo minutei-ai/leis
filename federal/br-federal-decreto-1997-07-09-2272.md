@@ -1,5 +1,3 @@
-###DEC-002272-0-000-09-07-1997@@@
-
 DECRETO Nº 2.272, DE 9 DE JULHO 1997
 
 Dispõe sobre a instituição do Programa de Acompanhamento Gerencial de Gastos e Avaliação Institucional no âmbito da Administração Pública Federal, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-069066-0-000-16-08-1971@@@
-
 DECRETO Nº 69.066, DE 16 DE AGôSTO DE 1971.
 
 Redistribui com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Departamento Nacional de Portos e Vias Navegáveis, cargos originários da Administração do Pôrto do Rio de Janeiro, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-077886-0-000-22-06-1976@@@
-
 DECRETO Nº 77.886, DE 22 DE JUNHO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Educadora do Nordeste Ltda. para que a Rádio Educadora do Nordeste e Correio da Semana Ltda. passe a executar Serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Sobral, Estado do Ceará.

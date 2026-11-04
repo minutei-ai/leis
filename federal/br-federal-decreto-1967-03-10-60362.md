@@ -1,5 +1,3 @@
-###DEC-060362-0-000-10-03-1967@@@
-
 DECRETO Nº 60.362, DE 10 DE MARÇO DE 1967.
 
 Expede os Estatutos da Emprêsa Brasileira de Turismo (EMBRATUR).

@@ -1,5 +1,3 @@
-###DEC-004711-0-000-29-05-2003@@@
-
 DECRETO Nº 4.711, DE 29 DE MAIO DE 2003.
 
        Dispõe sobre a coordenação do Sistema Nacional de Trânsito.
@@ -38,5 +36,6 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
         Brasília, 29 de maio de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Olívio de Oliveira Dutra

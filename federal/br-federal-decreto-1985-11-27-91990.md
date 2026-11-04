@@ -1,5 +1,3 @@
-###DEC-091990-0-000-27-11-1985@@@
-
 Decreto nº 91.990, de 27 de novembro de 1985
 
 Altera a redação do art. 2º do Decreto nº 84.560, de 14.03.80 que regulamenta a Lei nº 6.708, de 30 de outubro de 1979, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###MPV-000920-0-000-24-02-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 920, DE 24 DE FEVEREIRO DE 1995
 
 Cria a Gratificação de Desempenho e Produtividade (GDP) das atividades de finanças, controle, orçamento e planejamento, e dá outras providências.

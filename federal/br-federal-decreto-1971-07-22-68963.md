@@ -1,5 +1,3 @@
-###DEC-068963-0-000-22-07-1971@@@
-
 DECRETO Nº 68.963, DE 22 DE JULHO DE 1971.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal do Departamento Nacional de Estradas de Rodagem, cargo originário da Administração do Pôrto do Rio de Janeiro, e dá outras providências.

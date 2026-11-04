@@ -1,5 +1,3 @@
-###DEC-069678-0-000-03-12-1971@@@
-
 decreto nº 69.678 - de 3 de dezembro de 1971
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra destinadas às obras dos reservatórios de Paraibuna e Paraitinga, relativas à 1ª etapa de regularização do rio Paraíba, no Estado de São Paulo.

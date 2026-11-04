@@ -1,5 +1,3 @@
-###DEC-068691-0-000-28-05-1971@@@
-
 DECRETO Nº 68.691 - de 28 de maio de 1971.
 
 Cria a Reserva Biológica do Caracará, no Estado de Mato Grosso, com os limites que especifica e dá outras providências.

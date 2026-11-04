@@ -1,5 +1,3 @@
-###DEC-081844-0-000-26-06-1978@@@
-
 Decreto nº 81.844, de 26 de junho de 1978.
 
 Concede reconhecimento ao curso de Comunicação Social, ministrado pela Escola Superior de Propaganda e Marketing, com sede na cidade de São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-001514-0-000-30-12-1976@@@
-
 # DECRETO-LEI Nº 1.514, DE 30 DE DEZEMBRO DE 1976
 
 Altera a redação do inciso II, do artigo 11, do Decreto-lei número 1.376, de 12 de dezembro de 1974, já modificado pelo Decreto-lei nº 1.439, de 30 de dezembro de 1975.

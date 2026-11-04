@@ -1,5 +1,3 @@
-###DEC-078010-0-000-08-07-1976@@@
-
 DECRETO Nº 78.010, DE 8 DE JULHO DE 1976.
 
 Retifica a concessão de lavra outorgada à Mineração Cristal Ltda. pelo Decreto nº 74.203, de 21 de junho de 1974.

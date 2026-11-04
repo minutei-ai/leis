@@ -1,5 +1,3 @@
-###DEC-058742-0-000-28-06-1966@@@
-
 decreto nº 58.742, de 28 de junho de 1966.
 
 Modifica disposição do Decreto número 57.651, de 19 de janeiro de 1966, que regulamenta a Lei número 4.726, de 13 de julho de 1965, a qual dispõe sôbre os Serviços do Registro do Comércio e atividades afins e dá outras providências.

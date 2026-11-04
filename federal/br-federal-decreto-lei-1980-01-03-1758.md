@@ -1,7 +1,3 @@
-1
-
-###DEL-001758-0-000-03-01-1980@@@
-
 # Decreto-lei nº 1.758, de 03 de janeiro de 1980
 
 Reajusta os vencimentos, salários e proventos dos servidores das Secretarias do Tribunal Federal de Recursos e do Conselho da Justiça Federal e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-004907-0-000-03-12-2003@@@
-
 DECRETO Nº 4.907 DE 3 DE DEZEMBRO DE 2003.
 
 Altera a redação do art. 33 do Decreto nº 4.726, de 9 de junho de 2003, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério da Saúde.      

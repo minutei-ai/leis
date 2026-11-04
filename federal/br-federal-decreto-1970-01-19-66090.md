@@ -1,5 +1,3 @@
-###DEC-066090-0-000-19-01-1970@@@
-
 decreto nº 66.090 - DE 19 de janeiro de 1970
 
 Concede à Companhia Abastecedora de Minérios - CIAMI o direito de lavrar areia quartzosa, no município de Analândia, Estado de São Paulo.

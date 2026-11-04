@@ -1,5 +1,3 @@
-###DEC-046081-0-000-19-05-1959@@@
-
 Decreto nº 46.081, De 19 de maio de 1959.
 
 Autoriza a cidadã brasileira Teresa Rodrigues Larreta de Corrêa, a pesquisar argila, no município de Magé, Estado do Rio de Janeiro.

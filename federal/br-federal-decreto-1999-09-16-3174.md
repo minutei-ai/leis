@@ -1,5 +1,3 @@
-###DEC-003174-0-000-16-09-1999@@@
-
 DECRETO Nº 3.174, DE 16 DE SETEMBRO DE 1999.
 
 Designa as Autoridades Centrais encarregadas de dar cumprimento às obrigações impostas pela Convenção Relativa à Proteção das Crianças e à Cooperação em Matéria de Adoção Internacional, institui o Programa Nacional de Cooperação em Adoção Internacional e cria o Conselho das Autoridades Centrais Administrativas Brasileiras.

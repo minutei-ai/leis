@@ -1,5 +1,3 @@
-###DEC-084453-0-000-31-01-1980@@@
-
 DECRETO Nº 84.453, DE 31 DE JANEIRO DE 1980
 
 Dispõe sobre a Estrutura Básica da Administração do Território Federal de Roraima e dá outras providências.
@@ -119,8 +117,6 @@ Brasília, 31 de janeiro de 1980; 159º da Independência e 92º da República.
 JOÃO FIGUEIREDO
 
 Mário David Andreazza
-
-###DEC-084453-0-000-31-01-1980@@@RET01+++
 
 decreto nº 84.453, de 31 de janeiro de 1980.
 

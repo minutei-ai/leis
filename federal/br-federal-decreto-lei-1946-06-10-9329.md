@@ -1,5 +1,3 @@
-###DEL-009329-0-000-10-06-1946@@@
-
 DECRETO-LEI N. 9.329 – DE 10 E JUNHO DE 1946
 
 Autoriza a concessão de um crédito à Comissão Executiva do Leite e da outras providências.

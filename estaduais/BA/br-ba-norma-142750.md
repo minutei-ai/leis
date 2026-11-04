@@ -4,7 +4,8 @@ Autoriza o Poder Executivo a instituir a Companhia Baiana de Insulina - BAHIAINS
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA INSTITUIÇÃO E FINALIDADE
 
 **Art. 1º** - Fica o Poder Executivo autorizado a instituir a sociedade de economia mista denominada Companhia Baiana de Insulina - BAHIAINSULINA, com personalidade jurídica de direito privado, patrimônio e receitas próprios e autonomias administrativa, orçamentária e financeira, sujeita aos regimes da Lei Federal nº 6.404, de 15 de dezembro de 1976, e da Lei Federal nº 13.303, de 30 de junho de 2016, à legislação que lhe for aplicável e às normas internas que adotar.
@@ -49,7 +50,8 @@ DA INSTITUIÇÃO E FINALIDADE
 
 **Art. 4º** - A BAHIAINSULINA estará sujeita à fiscalização do sistema de controle interno próprio e do Poder Executivo Estadual, bem como do Tribunal de Contas do Estado - TCE.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO PATRIMÔNIO
 
 **Art. 5º** - A BAHIAINSULINA operará mediante o regime de capital social autorizado, que será composto por ações ordinárias e preferenciais nominativas, sem valor nominal, podendo o Estado integralizá-lo em dinheiro, ou em bens e direitos avaliados na forma da legislação pertinente.
@@ -84,19 +86,22 @@ DO PATRIMÔNIO
 
 **Parágrafo único -** A responsabilidade dos sócios ou acionistas será limitada ao preço da emissão das ações subscritas ou adquiridas.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA ESTRUTURA
 
 **Art. 11** - A BAHIAINSULINA adotará as regras de estrutura, organização e práticas de gestão de riscos e de controle interno de acordo com os regimes da Lei Federal nº 6.404, de 15 de dezembro de 1976, e da Lei Federal nº 13.303, de 30 de junho de 2016, e regulamentação estadual aplicável, devendo a BAHIAINSULINA dispor inclusive sobre diretrizes e restrições à sua atuação e à de seus Administradores quando da elaboração do seu estatuto social e demais normas internas que adotar.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS CONTRATAÇÕES
 
 **Art. 12** - Para aquisição de bens e serviços, a BAHIAINSULINA se submeterá às disposições legais vigentes, especialmente a Lei Federal nº 13.303, de 30 de junho de 2016, e sua regulamentação estadual específica, observados os princípios que regem a Administração Pública.
 
 **Parágrafo único -** A BAHIAINSULINA poderá realizar contratações de serviços técnicos especializados para a consecução de seus objetivos.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 **Art. 13** - O Estatuto da BAHIAINSULINA somente poderá ser alterado pela sua Assembleia Geral, ouvido o Conselho de Administração.

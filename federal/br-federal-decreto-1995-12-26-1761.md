@@ -1,7 +1,3 @@
-1
-
-###DEC-001761-0-000-26-12-1995@@@
-
 DECRETO Nº 1.761, DE 26 DE DEZEMBRO DE 1995.
 
 Dispõe sobre a redução do imposto de importação para os produtos que especifica e dá outras providências.

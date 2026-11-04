@@ -1,5 +1,3 @@
-###DEC-050252-0-000-28-01-1961@@@
-
 Decreto Nº 50.252, DE 28 DE JANEIRO DE 1961.
 
 Outorga concessão à DC-TV Rádio S.A. para estabelecer uma estação de radiotelevisão.

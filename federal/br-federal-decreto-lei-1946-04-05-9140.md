@@ -1,5 +1,3 @@
-###DEL-009140-0-000-05-04-1946@@@
-
 DECRETO-LEI N. 9.140 – DE 5 DE ABRIL DE 1946
 
 Altera disposições do Decreto-lei número 7.293, de 2 de fevereiro de 1945, e dá outras providências.

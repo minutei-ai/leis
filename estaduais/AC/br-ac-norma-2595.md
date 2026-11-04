@@ -1,6 +1,10 @@
 > **LEI Nº 3.602, DE 09 DE JANEIRO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a proibição de cobrança de taxa de conveniência, de serviço, taxa administrativa ou similar, por parte de sites e/ou aplicativos na compra pela internet de ingressos em geral, como shows, peças de teatros, cinemas e outros similares.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a proibição de cobrança de taxa de conveniência, de serviço, taxa administrativa ou similar, por parte de sites e/ou aplicativos na compra pela internet de ingressos em geral, como shows, peças de teatros, cinemas e outros similares.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

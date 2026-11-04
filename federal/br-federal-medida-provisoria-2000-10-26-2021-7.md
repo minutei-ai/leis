@@ -1,5 +1,3 @@
-###MPV-002021-0-007-26-10-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.021-7, DE 26 DE outubro DE 2000.
 
 Acresce dispositivos ao Decreto-Lei nº 719, de 31 de julho de 1969, para dispor sobre o financiamento a projetos de implantação e recuperação de infra-estrutura de pesquisa nas instituições públicas de ensino superior e de pesquisa, e dá outras providências.

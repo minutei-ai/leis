@@ -1,5 +1,3 @@
-###DEC-071344-0-000-09-11-1972@@@
-
 DECRETO Nº 71.344, DE 9 DE NOVEMBRO DE 1972.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de Jandaia do Sul, Estado do Paraná.

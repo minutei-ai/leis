@@ -1,5 +1,3 @@
-###DEC-048795-0-000-12-08-1960@@@
-
 Decreto nº 48.795, de 12 de agôsto de 1960.
 
 Autoriza a cidadã brasileira Ana Joaquina Alves a pesquisar feldspato no município de São Paulo, Estado de São Paulo.

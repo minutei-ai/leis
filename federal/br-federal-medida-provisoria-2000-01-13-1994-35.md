@@ -1,5 +1,3 @@
-###MPV-001994-0-035-13-01-2000@@@
-
 Medida Provisória nº 1.994-35, de 13 de janeiro de 2000.
 
 Dispõe sobre a concessão de financiamento vinculado à exportação de bens ou serviços nacionais, e dá outras providências.

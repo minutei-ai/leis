@@ -1,5 +1,3 @@
-###DEC-075642-0-000-22-04-1975@@@
-
 DECRETO Nº 75.642, De 22 de Abril de 1975.
 
 Exclui cargos, que indica, do Quadro de Pessoal - Parte Permanente - do Ministério da Agricultura.

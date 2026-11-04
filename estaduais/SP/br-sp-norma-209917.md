@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209917)<br>
-
 # DECRETO N° 68.826, DE 04 DE SETEMBRO DE 2024
 
 ### _Regulamenta a forma de recolhimento, o controle dos sistemas de arrecadação de tributos, custas, multas e demais receitas públicas de natureza não tributária do Estado de São Paulo, e dá outras providências._

@@ -1,5 +1,3 @@
-###DEC-046216-0-000-12-06-1959@@@b
-
 DECRETO Nº 46.216, de 12 DE Junho DE 1959.
 
 Concede nacionalização à sociedade The Rio de Janeiro tramway, Light and Power Company, Limite , sob a denominação de Rio Light S. A. - Serviços de Eletricidade e Carros.

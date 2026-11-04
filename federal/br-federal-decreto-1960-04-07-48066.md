@@ -1,5 +1,3 @@
-###DEC-048066-0-000-07-04-1960@@@
-
 DECRETO Nº 48.066, DE 7 DE ABRIL DE 1960.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério do Trabalho, Indústria e Comércio.

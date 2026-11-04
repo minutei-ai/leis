@@ -1,5 +1,3 @@
-###DEL-004387-0-000-18-06-1942@@@
-
 DECRETO-LEI N. 4.387 – DE 18 DE JUNHO DE 1942
 
 Abre ao Ministério da Educação e Saude o crédito especial de 275:250$0, para pagamento de gratificacão.

@@ -1,5 +1,3 @@
-###DEC-050175-0-000-28-01-1961@@@
-
 DECRETO Nº 50.175, DE 28 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro Janusz Gerulewicz a pesquisar cromita no município de Itapaci Estado de Goiás.

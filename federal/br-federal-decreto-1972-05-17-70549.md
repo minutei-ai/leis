@@ -1,5 +1,3 @@
-###DEC-070549-0-000-17-05-1972@@@
-
 DECRETO Nº 70.549, DE 17 DE MAIO DE 1972.
 
 Concede à firma individual Benedicto Ferreira Lopes o direito de lavrar feldspato e quartzo, no município de Mogi das Cruzes, Estado de São Paulo.

@@ -32,11 +32,14 @@ Goiânia, 16 de abril de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
-ANDERSON TEODORO<br>
+ANDERSON TEODORO
+
 Deputado Estadual
 
-AMAURI RIBEIRO<br>
+AMAURI RIBEIRO
+
 Deputado Estadual

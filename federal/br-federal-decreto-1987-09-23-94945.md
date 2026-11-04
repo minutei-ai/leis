@@ -1,5 +1,3 @@
-###DEC-094945-0-000-23-09-1987@@@
-
 DECRETO Nº 94.945, DE 23 DE SETEMBRO DE 1987
 
 Dispõe sobre o processo administrativo de demarcação de terras indígenas e dá outras providências.

@@ -4,18 +4,15 @@ Publicado no [Diário Oficial nº. 11097](https://www.legislacao.pr.gov.br/legis
 
 **Súmula:** Regulamenta, no âmbito da Administração Pública estadual, direta, autárquica e fundacional do Estado do Paraná, a Lei nº 14.133, de 01 de abril de 2021, que “Estabelece normas gerais de licitação e contratação para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios”, a aquisição e incorporação de bens ao patrimônio público estadual, os procedimentos para intervenção estatal na propriedade privada e dá outras providências.
 
-O GOVERNADOR DO ESTADO DO PARANÁ, no uso das atribuições que lhe confere os incisos V e VI do art. 87, da Constituição Estadual, e tendo em vista o disposto na Lei Federal nº 14.133, de 1º de abril de 2021, bem como o contido no protocolado sob nº 17.520.255-2,<br>
-<br>
-<br>
-<br>
-DECRETA:<br>
-<br>
+O GOVERNADOR DO ESTADO DO PARANÁ, no uso das atribuições que lhe confere os incisos V e VI do art. 87, da Constituição Estadual, e tendo em vista o disposto na Lei Federal nº 14.133, de 1º de abril de 2021, bem como o contido no protocolado sob nº 17.520.255-2,
 
-**Título I**<br>
+DECRETA:
+
+**Título I**
 
 **DAS DISPOSIÇÕES GERAIS**
 
-**Capítulo I**<br>
+**Capítulo I**
 
 **DO ÂMBITO DE APLICAÇÃO**
 
@@ -23,7 +20,7 @@ DECRETA:<br>
 
 **Parágrafo único.** Os órgãos dos Poderes Legislativo e Judiciário, o Tribunal de Contas, o Ministério Público e a Defensoria Pública poderão aderir total ou parcialmente à regulamentação de que trata este Decreto. [(Redação dada pelo Decreto 7389 de 23/09/2024)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=339027&codItemAto=2141504#2141504)
 
-**Capítulo II**<br>
+**Capítulo II**
 
 **DAS DEFINIÇÕES**
 
@@ -271,11 +268,11 @@ DECRETA:<br>
 
 **CX -** Vigência do contrato - período em que é mantida a relação jurídica contratual do órgão ou entidade contratante com a contratada.
 
-**Capítulo III**<br>
+**Capítulo III**
 
 **DAS FUNÇÕES ESSENCIAIS**
 
-**Seção I**<br>
+**Seção I**
 
 **Da Designação dos Agentes Públicos para o Exercício de Funções Essenciais**
 
@@ -305,7 +302,7 @@ Os agentes públicos encarregados das funções essenciais à execução da Lei 
 
 **~~§ 2º~~** ~~Os agentes públicos para o exercício de funções essenciais deverão ser designados pela autoridade competente, entre servidores efetivos ou empregados públicos dos quadros permanentes da Administração Pública, para tomar decisões, acompanhar o trâmite da licitação, dar impulso ao procedimento licitatório e executar quaisquer outras atividades necessárias ao bom andamento do certame até a homologação.~~ [(Revogado pelo Decreto 4967 de 23/02/2024)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=320439&codItemAto=2029583#2029583)
 
-**Subseção I**<br>
+**Subseção I**
 
 **Do Agente de Contratação e do Pregoeiro**
 
@@ -359,7 +356,7 @@ Os agentes públicos encarregados das funções essenciais à execução da Lei 
 
 **Parágrafo único.** O agente de contratação, inclusive o pregoeiro, poderá solicitar manifestação técnica da assessoria jurídica ou de outros setores do órgão ou da entidade, a fim de subsidiar sua decisão.
 
-**Subseção II**<br>
+**Subseção II**
 
 **Da Equipe de Apoio**
 
@@ -367,7 +364,7 @@ Os agentes públicos encarregados das funções essenciais à execução da Lei 
 
 **~~Parágrafo único.~~** ~~A equipe de apoio deverá ser integrada por agentes públicos do órgão ou entidade licitante.~~ [(Revogado pelo Decreto 4967 de 23/02/2024)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=320439&codItemAto=2029603#2029603)
 
-**Subseção III**<br>
+**Subseção III**
 
 **Da Comissão de Contratação**
 
@@ -389,7 +386,7 @@ Os agentes públicos encarregados das funções essenciais à execução da Lei 
 
 **Parágrafo único.** A comissão a que se refere o caput deste artigo, no caso de concurso para elaboração de documentos técnicos poderá, em relação à formação em arquitetura e engenharia, ser homogênea ou heterogênea, podendo ser constituída exclusivamente por profissionais servidores ou empregados públicos com formação nessas áreas.
 
-**Subseção IV**<br>
+**Subseção IV**
 
 **Do Gestor de Contrato**
 
@@ -417,7 +414,7 @@ Os agentes públicos encarregados das funções essenciais à execução da Lei 
 
 **Parágrafo único.** O gestor de contratos deverá ser, preferencialmente, servidor ou empregado público efetivo pertencente ao quadro permanente do órgão ou entidade contratante, e previamente designado pela autoridade administrativa signatária do contrato.
 
-**Subseção V**<br>
+**Subseção V**
 
 **Do Fiscal de Contrato**
 
@@ -547,7 +544,7 @@ Cabe ao fiscal do contrato acompanhar e fiscalizar a prestação dos serviços.
 
 **§ 8º** Além do cumprimento do §7º deste artigo, na fiscalização do cumprimento das obrigações trabalhistas e sociais nas contratações continuadas com dedicação exclusiva, serão realizadas entrevistas, a partir de seleção por amostragem, com os trabalhadores da contratada para verificar as anotações contidas em, CTPS, devendo ser observadas, entre outras questões, a data de início do contrato de trabalho, função exercida, a remuneração, gozo de férias, horas extras, eventuais alterações dos contratos de trabalho e, se necessário, fiscalizar no local de trabalho do empregado.
 
-**Subseção VI**<br>
+**Subseção VI**
 
 **Da Autoridade Máxima**
 
@@ -583,7 +580,7 @@ Cabe ao fiscal do contrato acompanhar e fiscalizar a prestação dos serviços.
 
 **~~§ 3º~~** ~~A delegação da competência do inciso X do presente artigo não alcança a aplicação da sanção de inidoneidade, competência exclusiva do titular da pasta, nos moldes do inciso I do § 6º do art. 156 da Lei Federal nº 14.133, de 2021. [(Incluído pelo Decreto 4408 de 14/12/2023)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=315371&codItemAto=1997690#1997690)~~ [(Revogado pelo Decreto 12478 de 20/01/2026)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=382476&codItemAto=2424818#2424818)
 
-**Capítulo IV**<br>
+**Capítulo IV**
 
 **DO PLANEJAMENTO DA LICITAÇÃO E DA CONTRATAÇÃO**
 
@@ -639,7 +636,7 @@ Cabe ao fiscal do contrato acompanhar e fiscalizar a prestação dos serviços.
 
 **§5º** A regulamentação do funcionamento do comitê será definida por ato da SEAP. [(Incluído pelo Decreto 14715 de 12/08/2026)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=402610&codItemAto=2574351#2574351)
 
-**Seção I**<br>
+**Seção I**
 
 **Do Estudo Técnico Preliminar**
 
@@ -713,13 +710,13 @@ Cabe ao fiscal do contrato acompanhar e fiscalizar a prestação dos serviços.
 
 **§ 1º** Novas contratações poderão ser incluídas no rol mencionado no caput mediante planejamento e cronograma revisado periodicamente e publicado em ato conjunto da Secretaria de Estado da Administração e da Previdência - SEAP, Procuradoria-Geral do Estado - PGE e Controladoria-Geral do Estado - CGE. [(Redação dada pelo Decreto 9065 de 24/02/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=353702&codItemAto=2233668#2233668)
 
-**~~I -~~**~~~~
+**~~I -~~**
 
 ~~é facultada nas hipóteses dos incisos I, II, VII e VIII do art. 75 e do § 7º do art. 90 da Lei nº 14.133, de 2021; e~~
 
 ~~[(Incluído pelo Decreto 4967 de 23/02/2024)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=320439&codItemAto=2029589#2029589)~~ [(Revogado pelo Decreto 9065 de 24/02/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=353702&codItemAto=2233668#2233668)
 
-**~~II -~~**~~~~
+**~~II -~~**
 
 ~~dispensada na hipótese do inciso III do art. 75 da Lei nº 14.133, de 2021, e nos casos de prorrogações dos contratos de serviços e fornecimentos contínuos.~~
 
@@ -755,7 +752,8 @@ Cabe ao fiscal do contrato acompanhar e fiscalizar a prestação dos serviços.
 
 **§ 2º** O órgão ou entidade que não possuir acesso ao Sistema ETP digital a que se refere o caput deste artigo, poderá adotar, nos termos da Portaria nº 355, de 9 de agosto de 2019 da Secretaria Especial de Desburocratização, Gestão e Governo Digital do Ministério de Economia, o Sistema ETP Digital do Governo Federal, ou o que vier a substituí-lo.
 
-**~~Subseção I~~**<br>
+**~~Subseção I~~**
+
 ~~
 
 **Dos Critérios para as Contratações Centradas no Desenvolvimento Sustentável**
@@ -876,9 +874,9 @@ Cabe ao fiscal do contrato acompanhar e fiscalizar a prestação dos serviços.
 
 **Art. 17D.** Ao término da vigência dos contratos, os agentes designados para a fiscalização da execução comunicarão à autoridade superior todas as ocorrências significativas que possam auxiliar no controle dos riscos de contratações similares futuras. [(Incluído pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295035#2295035)
 
-**Subseção I**<br>
+**Subseção I**
 
-**Dos Critérios para as Contratações Centradas no Desenvolvimento** **Sustentável**
+**Dos Critérios para as Contratações Centradas no DesenvolvimentoSustentável**
 
 [(Incluído pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295035#2295035)
 
@@ -890,7 +888,7 @@ Cabe ao fiscal do contrato acompanhar e fiscalizar a prestação dos serviços.
 
 **§ 3º** Ao serem analisados, em cada caso, os critérios referidos no §1º, deverá haver uma interconexão e ponderação entre eles, de modo que haja equilíbrio no sentido de visar ao desenvolvimento sustentável.
 
-**Seção II**<br>
+**Seção II**
 
 **Do Termo de Referência**
 
@@ -932,7 +930,7 @@ Cabe ao fiscal do contrato acompanhar e fiscalizar a prestação dos serviços.
 
 **§ 3º** O termo de referência deverá ser devidamente aprovado pela autoridade máxima do órgão ou entidade demandante ou a quem ela delegar, por meio de despacho motivado, indicando os elementos técnicos fundamentais que o apoiam, bem como os elementos contidos no orçamento estimativo e no cronograma físico-financeiro de desembolso, se for o caso. [(Redação dada pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295039#2295039)
 
-**Seção III**<br>
+**Seção III**
 
 **Da Centralização dos Procedimentos de Aquisição de Bens e Serviços**
 
@@ -1018,7 +1016,7 @@ Cabe ao fiscal do contrato acompanhar e fiscalizar a prestação dos serviços.
 
 **Parágrafo único.** Os órgãos e entidades da Administração Direta, autárquica e fundacional do Estado do Paraná deverão adotar práticas sustentáveis ao solicitarem novos itens para o Catálogo Eletrônico de Padronização, com o intuito de incentivar compras públicas ecologicamente responsáveis, promover a eficiência no uso de recursos e reduzir impactos ambientais. [(Incluído pelo Decreto 14715 de 12/08/2026)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=402610&codItemAto=2574360#2574360)
 
-**Seção IV**<br>
+**Seção IV**
 
 **Do Plano de Contratações Anual**
 
@@ -1114,11 +1112,12 @@ Cabe ao fiscal do contrato acompanhar e fiscalizar a prestação dos serviços.
 
 **Art. 25.** Os casos omissos serão dirimidos pela Secretaria de Estado do Planejamento, que poderá expedir normas complementares para o procedimento de elaboração do Plano de Contratações Anual do Estado.
 
-**Seção V**<br>
+**Seção V**
 
 **Da Legalidade Orçamentária da Obrigação Administrativa**
 
-**Subseção I**<br>
+**Subseção I**
+
 Disposições Gerais
 
 **Art. 26.** O sistema orçamentário composto pelo plano plurianual, pela lei de diretrizes orçamentárias e pela lei orçamentária do Estado conforma, autoriza e evidencia, por meio de seus próprios princípios, regras e conceitos, as obrigações administrativas, sem que com estas se confundam.
@@ -1153,7 +1152,7 @@ Disposições Gerais
 
 **Art. 32.** Padece de invalidade a despesa contratual realizada com base em crédito orçamentário inadequado ao objeto da obrigação, nos termos do art. 167, I e II, da Constituição Federal e do art. 5º da Lei 4.320, de 1964.
 
-**Subseção II**<br>
+**Subseção II**
 
 **Da Execução da Despesa Contratual**
 
@@ -1161,7 +1160,7 @@ Disposições Gerais
 
 **Art. 34.** Quando a obrigação administrativa onerosa for viabilizada por execução descentralizada de crédito orçamentário, o respectivo termo deverá constar do processo de contratação e seu código será expressamente referenciado nos documentos de adequação orçamentária da despesa firmados pelo ordenador de despesa e pelos servidores da unidade administrativa competente, sem prejuízo de sua indicação no instrumento contratual ou congênere.
 
-**Subseção III**<br>
+**Subseção III**
 
 **Regras Gerais para o Pagamento**
 
@@ -1171,7 +1170,7 @@ Disposições Gerais
 
 **Art. 36.** Disposição expressa no edital ou no contrato poderá prever pagamento em conta vinculada ou pagamento pela efetiva comprovação do fato gerador.
 
-**Subseção IV**<br>
+**Subseção IV**
 
 **Do Pagamento de Indenização Referente à Obrigações Administrativas**
 
@@ -1203,7 +1202,7 @@ Disposições Gerais
 
 **XI -** apuração de eventuais responsabilidades, nos termos do Código de Processo Administrativo estadual – Lei nº 20.656, de 2021.
 
-**Subseção V**<br>
+**Subseção V**
 
 **Da Ordem Cronológica do Dever de Pagamento**
 
@@ -1265,7 +1264,7 @@ Disposições Gerais
 
 **VIII -** rateio pela participação em consórcio público.
 
-**Subseção VI**<br>
+**Subseção VI**
 
 **Da Remuneração Variável**
 
@@ -1275,7 +1274,7 @@ Disposições Gerais
 
 **~~§ 2º~~** ~~A utilização de remuneração variável será motivada e respeitará o limite orçamentário fixado pela Administração para a contratação.~~ [(Revogado pelo Decreto 7389 de 23/09/2024)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=339027&codItemAto=2141684#2141684)
 
-**Subseção VII**<br>
+**Subseção VII**
 
 **Da Antecipação de Pagamento**
 
@@ -1299,7 +1298,7 @@ Disposições Gerais
 
 **Art. 48.** No ato de liquidação da despesa, os serviços de contabilidade comunicarão aos órgãos da administração tributária as características da despesa e os valores pagos, conforme o disposto no art. 63 da Lei nº 4.320, de 1964.
 
-**Seção VI**<br>
+**Seção VI**
 
 **Do Catálogo Eletrônico de Padronização de Compras, Serviços e Obras**
 
@@ -1337,11 +1336,11 @@ Disposições Gerais
 
 **§ 3º** Os órgãos e entidades responsáveis pelo planejamento, licitação, contratação, convênios, termos de cooperação e instrumentos congêneres relativos a obras e serviços de engenharia poderão disponibilizar, aos municípios, seu acervo de projetos mediante a celebração de Convênio ou Termo de Cooperação Técnica.
 
-**CAPÍTULO V**<br>
+**CAPÍTULO V**
 
 **PARTICIPAÇÃO DA SOCIEDADE**
 
-**Seção I**<br>
+**Seção I**
 
 **Da Audiência Pública**
 
@@ -1351,7 +1350,7 @@ Disposições Gerais
 
 **§ 2º** Nas contratações de serviços e fornecimentos contínuos a caracterização da contratação como de grande vulto se dá com o valor estimado para o primeiro ano de contratação.
 
-**Seção II**<br>
+**Seção II**
 
 **Da Consulta Pública**
 
@@ -1371,11 +1370,11 @@ Disposições Gerais
 
 **§ 2º** O edital para divulgação da consulta pública poderá prever procedimento de prospecção mediante consulta a potenciais contratados.
 
-**CAPÍTULO VI**<br>
+**CAPÍTULO VI**
 
 **DOS PROCEDIMENTOS LICITATÓRIOS**
 
-**Seção I**<br>
+**Seção I**
 
 **Das Vedações**
 
@@ -1407,17 +1406,17 @@ Disposições Gerais
 
 **§ 7º** O disposto no §6º aplica-se aos agentes de contratação e aos membros da comissão de contratação.
 
-**Seção II**<br>
+**Seção II**
 
 **Da Fase Interna**
 
-**Subseção I**<br>
+**Subseção I**
 
 **Da Condução do Processo**
 
 **~~Art. 54.~~** ~~A licitação, na forma eletrônica ou presencial, será conduzida pelo órgão ou pela entidade promotora da licitação, por intermédio do agente de contratação, do pregoeiro, ou de comissão de contratação.~~ [(Revogado pelo Decreto 7389 de 23/09/2024)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=339027&codItemAto=2141687#2141687)
 
-**Subseção II**<br>
+**Subseção II**
 
 **Dos Atos Preparatórios**
 
@@ -1479,7 +1478,7 @@ Disposições Gerais
 
 **Art. 56.** O projeto de que trata o inciso LXXXVIII do art. 2.º deste Regulamento poderá prever requisitos de sustentabilidade ambiental, além dos previstos na legislação aplicável.
 
-**Subseção III**<br>
+**Subseção III**
 
 **Da Condução do Procedimento**
 
@@ -1493,7 +1492,7 @@ Disposições Gerais
 
 **§ 4º** Quando verificada a presença de vício insanável poderá ocorrer o afastamento de licitante.
 
-**Subseção IV**<br>
+**Subseção IV**
 
 **Do Instrumento Convocatório**
 
@@ -1507,7 +1506,8 @@ Disposições Gerais
 
 **IV -** os requisitos de conformidade das propostas;
 
-**V -** o prazo de apresentação de proposta pelos licitantes, que não poderá ser inferior ao previsto no art. 55 da Lei Federal nº 14.133, de 2021;[<br>
+**V -** o prazo de apresentação de proposta pelos licitantes, que não poderá ser inferior ao previsto no art. 55 da Lei Federal nº 14.133, de 2021;[
+
 ](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/Lei/L12462.htm#art15)
 
 **VI -** os critérios de julgamento e os critérios de desempate;
@@ -1600,7 +1600,7 @@ Disposições Gerais
 
 **§ 5º** Em qualquer hipótese de subcontratação, permanece a responsabilidade integral do contratado pela perfeita execução contratual, cabendo-lhe realizar a supervisão e coordenação das atividades do subcontratado, bem como responder perante o contratante pelo rigoroso cumprimento das obrigações contratuais correspondentes ao objeto da subcontratação.
 
-**Subseção V**<br>
+**Subseção V**
 
 **Da Publicação**
 
@@ -1620,11 +1620,11 @@ Disposições Gerais
 
 **Art. 62.** Caberá pedido de esclarecimento e impugnação ao instrumento convocatório nas hipóteses e prazos especificados no art. 164 e seguintes da Lei Federal nº 14.133, de 2021.
 
-**Seção III**<br>
+**Seção III**
 
 **Da Fase Externa**
 
-**Subseção I**<br>
+**Subseção I**
 
 **Disposições Gerais**
 
@@ -1636,7 +1636,8 @@ Disposições Gerais
 
 **§ 3º** Nos procedimentos realizados sob a forma eletrônica, a Administração Pública poderá determinar, como condição de validade e eficácia, que os licitantes pratiquem seus atos em formato eletrônico.
 
-**§ 4º** Os órgãos licitantes não pertencentes ao Poder Executivo poderão adotar sistema diverso do previsto no §1º deste artigo.**<br>
+**§ 4º** Os órgãos licitantes não pertencentes ao Poder Executivo poderão adotar sistema diverso do previsto no §1º deste artigo.**
+
 **
 
 **§ 5º**
@@ -1659,7 +1660,7 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **§ 2º** A justificativa deverá ser feita pelo agente de contratação ou presidente de comissão de contratação e aprovada pela autoridade máxima do órgão ou entidade.
 
-**Subseção II**<br>
+**Subseção II**
 
 **Do Credenciamento para Acesso ao Sistema Eletrônico**
 
@@ -1675,7 +1676,7 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **§ 5º** Cabe ao licitante acompanhar as operações no sistema eletrônico durante a sessão pública da licitação, ficando responsável pelo ônus decorrente da perda de negócios diante da inobservância de quaisquer mensagens emitidas pelo sistema ou de sua desconexão.
 
-**Subseção III**<br>
+**Subseção III**
 
 **Do Licitante**
 
@@ -1697,11 +1698,9 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **Art. 68.** Os interessados em participar de licitações devem dispor de chave de identificação e senha pessoal do sistema de compras eletrônicas indicados pela Secretaria de Estado da Administração e da Previdência e indicado no instrumento convocatório.
 
-**Subseção IV**<br>
+**Subseção IV**
 
 **Da Apresentação das Propostas ou Lances**
-
-<br>
 
 **Disposições Gerais**
 
@@ -1719,7 +1718,7 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **Parágrafo único.** Serão imediatamente desclassificados, mediante decisão motivada, os licitantes cujas propostas não estejam em conformidade com os requisitos estabelecidos no instrumento convocatório.
 
-**Subseção V**<br>
+**Subseção V**
 
 **Do Modo de Disputa Aberto**
 
@@ -1753,7 +1752,7 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **§ 3º** Os lances iguais serão classificados conforme a ordem de apresentação.
 
-**Subseção VI**<br>
+**Subseção VI**
 
 **Do Modo de Disputa Fechado**
 
@@ -1763,7 +1762,7 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **§ 2º** No caso de licitação presencial, as propostas deverão ser apresentadas em envelopes lacrados, abertos em sessão pública e ordenadas conforme critério de vantajosidade.
 
-**Subseção VII**<br>
+**Subseção VII**
 
 **Da Combinação dos Modos de Disputa**
 
@@ -1775,11 +1774,11 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **II -** caso o procedimento se inicie pelo modo de disputa aberto, os licitantes que apresentarem as três melhores propostas oferecerão propostas finais, fechadas.
 
-**Seção IV**<br>
+**Seção IV**
 
 **Dos Critérios de Julgamento das Propostas**
 
-**Subseção I**<br>
+**Subseção I**
 
 **Disposições Gerais**
 
@@ -1799,10 +1798,11 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **§ 1º** O julgamento das propostas observará os parâmetros definidos no instrumento convocatório, sendo vedado computar vantagens não previstas, inclusive financiamentos subsidiados ou a fundo perdido.
 
-**§ 2º** O julgamento das propostas deverá observar a margem de preferência prevista no art. 26. da Lei Federal nº 14.133, de 2021.[<br>
+**§ 2º** O julgamento das propostas deverá observar a margem de preferência prevista no art. 26. da Lei Federal nº 14.133, de 2021.[
+
 ](http://www.planalto.gov.br/ccivil_03/LEIS/L8666cons.htm#art3.)
 
-**Subseção II**<br>
+**Subseção II**
 
 **Menor Preço ou Maior Desconto**
 
@@ -1820,7 +1820,7 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **§ 3º** Para a adoção do critério de maior desconto poderá ser utilizada licitação com lances negativos de forma que a contratada possa oferecer pagamento à Administração para a execução do contrato.
 
-**Subseção III**<br>
+**Subseção III**
 
 **Melhor Técnica ou Conteúdo Artístico**
 
@@ -1842,7 +1842,7 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **§ 2º** A comissão a que se refere o §1º deste artigo, no caso de concurso para elaboração de documentos técnicos de engenharia e arquitetura deverá atender ao art. 9º deste Regulamento.
 
-**Subseção IV**<br>
+**Subseção IV**
 
 **Técnica e Preço**
 
@@ -1868,13 +1868,13 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **§ 3º** O instrumento convocatório estabelecerá pontuação mínima para as propostas técnicas, cujo não atingimento implicará desclassificação.
 
-**Subseção V**<br>
+**Subseção V**
 
 **Maior Lance**
 
 **Art. 87.** O critério de julgamento pelo maior lance será utilizado no caso de leilão, nos termos do previsto nos arts. 132 a 134 deste Regulamento.
 
-**Subseção VI**<br>
+**Subseção VI**
 
 **Maior Retorno Econômico**
 
@@ -1908,7 +1908,7 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **II -** se a diferença entre a economia contratada e a efetivamente obtida for superior ao limite máximo estabelecido no contrato, o contratado sujeitar-se-á, ainda, às sanções previstas em lei e no instrumento convocatório.
 
-**Subseção VII**<br>
+**Subseção VII**
 
 **Preferência e Desempate**
 
@@ -1932,12 +1932,13 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **III -** empresas que invistam em pesquisa e no desenvolvimento de tecnologia no País;
 
-**IV -** empresas que comprovem a prática de mitigação, nos termos da Lei Federal nº 12.187, de 29 de dezembro de 2009.[<br>
+**IV -** empresas que comprovem a prática de mitigação, nos termos da Lei Federal nº 12.187, de 29 de dezembro de 2009.[
+
 ](http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Lei/L12187.htm)
 
 **§ 3º** Caso a regra prevista no §2º deste artigo não solucione o empate, será realizado sorteio.
 
-**Subseção VIII**<br>
+**Subseção VIII**
 
 **Análise e Classificação de Proposta**
 
@@ -1973,7 +1974,7 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **Art. 94.** Encerrado o julgamento, será disponibilizada a respectiva ata, com a ordem de classificação das propostas.
 
-**Seção V**<br>
+**Seção V**
 
 **Da Habilitação**
 
@@ -2017,7 +2018,7 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **III -** serão julgadas apenas as propostas dos licitantes habilitados.
 
-**Seção VI**<br>
+**Seção VI**
 
 **Da Participação em Consórcio**
 
@@ -2061,13 +2062,13 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **§ 3º** Nas hipóteses autorizadas pela legislação do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) e do Imposto Sobre Serviços de Qualquer Natureza (ISS), a Nota Fiscal ou a Fatura poderá ser emitida pelo consórcio no valor total, caso em que cópia da Nota Fiscal ou da Fatura será remetida à empresa líder ou à consorciada eleita, indicando na mesma a parcela de receitas correspondente a cada uma das empresas consorciadas para efeito de operacionalização contábil.
 
-**Seção VII**<br>
+**Seção VII**
 
 **Da Participação em Cooperativa**
 
 **Art. 104.** Quando permitida a participação na licitação de profissionais organizados sob a forma de cooperativa, serão observadas as condições dispostas no art. 16 da Lei Federal n.º 14.133, de 2021.
 
-**Seção VIII**<br>
+**Seção VIII**
 
 **Das Impugnações, dos Pedidos de Esclarecimento e dos Recursos**
 
@@ -2075,7 +2076,7 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **Parágrafo único.** No caso da inversão de fases prevista no §1º do art. 17 da Lei Federal n. º 14.133, de 2021, os licitantes poderão apresentar recursos após a fase de habilitação e após a fase de julgamento das propostas. [(Redação dada pelo Decreto 7389 de 23/09/2024)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=339027&codItemAto=2141539#2141539)
 
-**Seção IX**<br>
+**Seção IX**
 
 **Do Encerramento**
 
@@ -2141,14 +2142,15 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **Art. 110.** É facultado à Administração Pública, quando o convocado não assinar o termo de contrato, ou não aceitar ou retirar o instrumento equivalente, no prazo e condições estabelecidos:
 
-**I -** revogar a licitação, sem prejuízo da aplicação das cominações previstas na Lei Federal nº 14.133, de 2021, e neste Regulamento; ou[<br>
+**I -** revogar a licitação, sem prejuízo da aplicação das cominações previstas na Lei Federal nº 14.133, de 2021, e neste Regulamento; ou[
+
 ](http://www.planalto.gov.br/ccivil_03/LEIS/L8666cons.htm)[(Redação dada pelo Decreto 7389 de 23/09/2024)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=339027&codItemAto=2141495#2141495)
 
 **II -** convocar os licitantes remanescentes, na ordem de classificação, para a celebração do contrato nas condições ofertadas pelo licitante vencedor.
 
 **Parágrafo único.** Na hipótese de nenhum dos licitantes aceitar a contratação nos termos do inciso II do caput, a Administração Pública poderá convocar os licitantes remanescentes, na ordem de classificação, para a celebração do contrato nas condições ofertadas por estes, desde que o valor seja igual ou inferior ao orçamento estimado para a contratação, inclusive quanto aos preços atualizados, nos termos do instrumento convocatório.
 
-**Capítulo VII**<br>
+**Capítulo VII**
 
 **DA PARTICIPAÇÃO DAS MICRO E PEQUENAS EMPRESAS**
 
@@ -2210,7 +2212,8 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **II -** na hipótese da não contratação de beneficiário de tratamento diferenciado e favorecido com base no inciso I, serão convocadas as remanescentes que porventura se enquadrem em situação de empate, na ordem classificatória, para o exercício do mesmo direito; e
 
-**III -** no caso de equivalência dos valores apresentados pelas microempresas e empresas de pequeno porte que se encontrem nos intervalos estabelecidos nos §§ 1º e 2º do art. 44 da Lei Complementar Federal nº 123, de 2006, será realizado sorteio entre elas para que se identifique aquela que primeiro poderá apresentar melhor oferta.[<br>
+**III -** no caso de equivalência dos valores apresentados pelas microempresas e empresas de pequeno porte que se encontrem nos intervalos estabelecidos nos §§ 1º e 2º do art. 44 da Lei Complementar Federal nº 123, de 2006, será realizado sorteio entre elas para que se identifique aquela que primeiro poderá apresentar melhor oferta.[
+
 ](http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm#art44)
 
 **§ 5º** Após o encerramento dos lances, o beneficiário do tratamento diferenciado e favorecido melhor classificado será convocado para apresentar nova proposta de preço no prazo máximo de 5 (cinco) minutos por item em situação de empate, sob pena de preclusão.
@@ -2219,7 +2222,7 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **§ 7º** Caso ocorra a inabilitação ou a desclassificação da empresa considerada vencedora do certame, será realizada uma nova ordem de classificação entre os licitantes remanescentes, e se adotarão novamente os procedimentos previstos nos §§4º e 5º deste artigo, se a situação de empate ocorrer em relação à proposta da nova empresa melhor classificada. [(Redação dada pelo Decreto 7389 de 23/09/2024)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=339027&codItemAto=2141549#2141549)
 
-**Seção I**<br>
+**Seção I**
 
 **Da Licitação Exclusiva para Microempresas e Empresas de Pequeno Porte**
 
@@ -2227,7 +2230,7 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **Art. 117.** Os órgãos e entidades contratantes deverão realizar processo licitatório destinado exclusivamente à participação de microempresas e empresas de pequeno porte nos itens de contratação no valor estabelecido em legislação federal.
 
-**Seção II**<br>
+**Seção II**
 
 **Da Subcontratação Compulsória de Beneficiários do Tratamento Diferenciado**
 
@@ -2263,7 +2266,7 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **II -** a subcontratação de microempresas e empresas de pequeno porte e microempreendedor individual que tenham participado da licitação.
 
-**Seção III**<br>
+**Seção III**
 
 **Da Aquisição de Bens de Natureza Divisível**
 
@@ -2281,7 +2284,7 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **§ 6º** Na compra de bens de natureza divisível e desde que não haja prejuízo para o conjunto ou complexo, é permitida a cotação de quantidade inferior à demandada na licitação com vistas à ampliação da competitividade, podendo o edital fixar quantitativo mínimo para preservar a economia de escala.
 
-**Seção IV**<br>
+**Seção IV**
 
 **Disposições Gerais Sobre o Tratamento Diferenciado às Microempresas e Empresas de Pequeno Porte**
 
@@ -2317,7 +2320,7 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **Parágrafo único.** Para comprovar a condição de microempresa, empresa de pequeno porte e microempreendedor individual, o licitante que usufruir do referido benefício deverá apresentar, na fase de habilitação, a Certidão Simplificada da Junta Comercial atualizada ou documento equivalente, além de Declaração, sob as penas da lei, de que cumpre os requisitos legais de qualificação da condição de microempresa, de empresa de pequeno porte ou microempreendedor individual, estando apto a usufruir dos benefícios previstos nos art. 42 a art. 49 da Lei Complementar Federal nº 123, de 2006, bem como o Demonstrativo de Resultado do Exercício – DRE, a que se refere a Resolução nº 1.418, de 2012, do Conselho Federal de Contabilidade – CFC, ou outra norma que vier a substituir.
 
-**Capítulo VIII**<br>
+**Capítulo VIII**
 
 **CONTRATOS E TERMOS ADITIVOS NA FORMA ELETRÔNICA**
 
@@ -2345,17 +2348,17 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **Parágrafo único.** Os demais atos podem ser assinados por assinatura eletrônica simples, salvo aqueles que exigem certificação digital em regulamento específico que trata da Gestão de Documentos do Estado do Paraná.
 
-**Capítulo IX**<br>
+**Capítulo IX**
 
 **DAS MODALIDADES DE LICITAÇÃO**
 
-**Seção I**<br>
+**Seção I**
 
 **Do Pregão e da Concorrência**
 
 **Art. 126.** A concorrência e o pregão seguem o rito procedimental comum a que se refere o art. 17 da Federal nº 14.133, de 2021, adotando-se o pregão sempre que o objeto possuir padrões de desempenho e qualidade que possam ser objetivamente definidos pelo edital, por meio de especificações usuais de mercado.
 
-**Seção II**<br>
+**Seção II**
 
 **Da Concorrência**
 
@@ -2377,7 +2380,7 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **§ 3º** A concorrência segue o rito procedimental comum a que se refere o art. 17 da Lei Federal nº. 14.133, de 2021.
 
-**Seção III**<br>
+**Seção III**
 
 **Do Concurso**
 
@@ -2391,7 +2394,8 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **III -** as condições de realização e o prêmio ou remuneração a ser concedida ao vencedor.
 
-**Parágrafo único.** Nos concursos destinados à elaboração de projeto, o vencedor deverá ceder à Administração Pública, nos termos do art. 93 da Lei Federal nº 14.133, de 2021, todos os direitos patrimoniais relativos ao projeto e autorizar sua execução conforme juízo de conveniência e oportunidade das autoridades competentes.[<br>
+**Parágrafo único.** Nos concursos destinados à elaboração de projeto, o vencedor deverá ceder à Administração Pública, nos termos do art. 93 da Lei Federal nº 14.133, de 2021, todos os direitos patrimoniais relativos ao projeto e autorizar sua execução conforme juízo de conveniência e oportunidade das autoridades competentes.[
+
 ](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14133.htm#art93)
 
 **Art. 130.** No caso de licitação pela modalidade concurso, o edital poderá prever que o vencedor do concurso possa ser contratado para a elaboração do anteprojeto, projeto básico e/ou projeto executivo, podendo subcontratar os projetos complementares desde que os subcontratados possuam a qualificação técnica mínima exigida no instrumento convocatório.
@@ -2410,7 +2414,7 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **VI -** no caso de concurso para a contratação de projetos exigir, conforme os arts. 513 ao 526 deste Regulamento, a adoção preferencial da Modelagem da Informação da Construção (Building Information Modelling - BIM) ou tecnologias e processos integrados similares ou mais avançados que venham a substituí-la, para entrega dos projetos a serem contratados.
 
-**Seção IV**<br>
+**Seção IV**
 
 **Do Leilão**
 
@@ -2440,7 +2444,7 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **§ 3º** O instrumento convocatório estabelecerá as condições para a entrega do bem ao arrematante.
 
-**Seção V**<br>
+**Seção V**
 
 **Do Diálogo Competitivo**
 
@@ -2534,11 +2538,11 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **Art. 147.** Eventuais impugnações e recursos relativos ao diálogo competitivo devem ser apresentadas no prazo de 5 (cinco) dias a contar da respectiva publicação do último ato de cada uma das fases dispostas no art. 135 deste Regulamento, no Portal Nacional de Contratações Públicas.
 
-**CAPÍTULO X**<br>
+**CAPÍTULO X**
 
 **DA CONTRATAÇÃO DIRETA**
 
-**Seção I**<br>
+**Seção I**
 
 **Do Processo de Contratação Direta**
 
@@ -2574,7 +2578,7 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **§ 2º** A divulgação de que trata o caput deste artigo, quando referente à contratação de profissional do setor artístico por inexigibilidade, deverá identificar os custos do cachê do artista, dos músicos ou da banda, quando houver, do transporte, da hospedagem, da infraestrutura, da logística do evento e das demais despesas específicas.
 
-**Seção II**<br>
+**Seção II**
 
 **Da Inexigibilidade de Licitação**
 
@@ -2588,7 +2592,7 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **Parágrafo único.** Excepcionalmente, poderão ser adquiridos bens de marcas específicas ou contratados serviços com prestador específico para cumprimento de ordem judicial, quando a decisão indique a marca ou o prestador a ser contratado pela Administração.
 
-**Seção III**<br>
+**Seção III**
 
 **Da Dispensa de Licitação**
 
@@ -2638,7 +2642,8 @@ Caberá à SEAP editar regulamento específico disciplinando o uso de plataforma
 
 **§ 4º** Poderá ser afastado o procedimento de dispensa eletrônica quando sua utilização se mostrar desvantajosa para a Administração em razão do baixo valor da contratação comparado ao custo administrativo ou duração do processo ou outra circunstância devidamente justificada pelo órgão ou entidade. [(Redação dada pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295049#2295049)
 
-CAPÍTULO XI<br>
+CAPÍTULO XI
+
 **DO RELATÓRIO FINAL COM INFORMAÇÕES SOBRE A**
 
 **CONSECUÇÃO DOS OBJETIVOS**
@@ -2649,7 +2654,7 @@ CAPÍTULO XI<br>
 
 **Parágrafo único.** O relatório de que trata o caput deste artigo deverá ser divulgado no Portal Nacional de Contratações Públicas em até 30 (trinta) dia após a extinção do contrato.
 
-**CAPÍTULO XII**<br>
+**CAPÍTULO XII**
 
 **DOS MODELOS DE MINUTAS DE EDITAIS, DE TERMOS DE REFERÊNCIA, DE CONTRATOS PADRONIZADOS E DE OUTROS DOCUMENTOS**
 
@@ -2659,11 +2664,11 @@ CAPÍTULO XI<br>
 
 **§ 2º** Os modelos e minutas a que se referem o caput deste artigo serão disponibilizadas no catálogo eletrônico conforme o disposto nos arts. 49 e 50 deste Regulamento.
 
-**CAPÍTULO XIII**<br>
+**CAPÍTULO XIII**
 
 **DOS CONTRATOS**
 
-**Seção I**<br>
+**Seção I**
 
 **Do Modelo de Gestão do Contrato**
 
@@ -2717,7 +2722,7 @@ CAPÍTULO XI<br>
 
 **§ 5º** A redução do pagamento a que se refere o §4º deste artigo não se confunde e não prejudica as sanções quando cabíveis.
 
-**Seção II**<br>
+**Seção II**
 
 **Da Subcontratação**
 
@@ -2737,7 +2742,7 @@ CAPÍTULO XI<br>
 
 **§ 7º** Nas contratações com fundamento no inciso III do art. 74, da Lei Federal n.º 14.133, de 2021, é vedada a subcontratação de empresas ou a atuação de profissionais distintos daqueles que tenham justificado a inexigibilidade.
 
-**Seção III**<br>
+**Seção III**
 
 **Do Reequilíbrio Econômico-Financeiro**
 
@@ -2751,7 +2756,7 @@ CAPÍTULO XI<br>
 
 **IV -** atualização monetária.
 
-**Subseção I**<br>
+**Subseção I**
 
 **Do Reajustamento em Sentido Estrito de Preços dos Contratos**
 
@@ -2779,7 +2784,7 @@ CAPÍTULO XI<br>
 
 **§ 9º** Aplica-se o procedimento previsto nesta subseção nas contratações decorrentes de ata de registro de preços.
 
-**Subseção II**<br>
+**Subseção II**
 
 **Da Repactuação de Preços dos Contratos**
 
@@ -2837,7 +2842,7 @@ CAPÍTULO XI<br>
 
 **§ 4º** Na hipótese do §3º deste artigo, o período em que a proposta permaneceu sob a análise da Administração será contado como tempo decorrido para fins de contagem da anualidade da próxima repactuação.
 
-**Subseção III**<br>
+**Subseção III**
 
 **Da Revisão de Contrato ou Reequilíbrio Econômico-Financeiro em Sentido Estrito**
 
@@ -2859,7 +2864,7 @@ CAPÍTULO XI<br>
 
 **VII -** seja demonstrado nos autos a quebra de equilíbrio econômico-financeiro do contrato, por meio de apresentação de planilha de custos e documentação comprobatória correlata que demonstre que a contratação se tornou inviável nas condições inicialmente pactuadas.
 
-**Subseção IV**<br>
+**Subseção IV**
 
 **Da Atualização Monetária**
 
@@ -2867,7 +2872,7 @@ CAPÍTULO XI<br>
 
 **Parágrafo único.** Após 30 (trinta) dias da data em que deveria ser efetuado o pagamento das faturas, incidirá sobre o valor faturado atualização monetária com base em índices estabelecido no contrato.
 
-**Seção IV**<br>
+**Seção IV**
 
 **Do Recebimento do Objeto**
 
@@ -2899,7 +2904,7 @@ CAPÍTULO XI<br>
 
 **§ 7º** Em se tratando de obra, o recebimento definitivo pela Administração não eximirá o contratado, pelo prazo mínimo de 5 (cinco) anos, admitida a previsão de prazo de garantia superior no edital e no contrato, da responsabilidade objetiva pela solidez e pela segurança dos materiais e dos serviços executados e pela funcionalidade da construção, da reforma, da recuperação ou da ampliação do bem imóvel, e, em caso de vício, defeito ou incorreção identificados, o contratado ficará responsável pela reparação, pela correção, pela reconstrução ou pela substituição necessárias.
 
-**Seção V**<br>
+**Seção V**
 
 **Da Extinção dos Contratos**
 
@@ -2987,7 +2992,7 @@ CAPÍTULO XI<br>
 
 **~~§ 3º~~** ~~A retenção de créditos de que trata o inc. IV do caput deste artigo poderá ser estendida a outros contratos celebrados entre a Administração e o contratante, quando os valores retidos no contrato cuja apuração estiver sendo efetuada não forem suficientes para cobrir a estimativa dos prejuízos causados à Administração Pública Estadual e das multas aplicadas, até esse limite.~~ [(Revogado pelo Decreto 7389 de 23/09/2024)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=339027&codItemAto=2141700#2141700)
 
-**Seção VI**<br>
+**Seção VI**
 
 **Da Publicação do Contrato**
 
@@ -2997,7 +3002,7 @@ CAPÍTULO XI<br>
 
 **~~II -~~** ~~10 (dez) dias úteis, no caso de contratação direta.~~ [(Revogado pelo Decreto 7389 de 23/09/2024)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=339027&codItemAto=2141705#2141705)
 
-**Capítulo XIV**<br>
+**Capítulo XIV**
 
 **DAS PRÁTICAS CONTÍNUAS E PERMANENTES DE CONTROLE PREVENTIVO**
 
@@ -3153,7 +3158,7 @@ CAPÍTULO XI<br>
 
 **§ 5º** Caso o processo de avaliação indique o cometimento de infração, será instaurado o processo administrativo destinado à apuração de responsabilidade, na forma da lei.
 
-**Capítulo XV**<br>
+**Capítulo XV**
 
 **DA NEGOCIAÇÃO**
 
@@ -3171,17 +3176,17 @@ CAPÍTULO XI<br>
 
 **Art. 192.** Na forma do disposto no § 4.º do art. 90 da Lei Federal n. º 14.133, de 2021, o agente de contratação, o pregoeiro, e/ou a comissão de contratação poderá convocar os licitantes remanescentes para negociação, na ordem de classificação, com vistas à obtenção de preço melhor, mesmo que acima do preço do adjudicatário, caso o licitante vencedor não celebre o contrato com o Poder Público.
 
-**Capítulo XVI**<br>
+**Capítulo XVI**
 
 **DAS SANÇÕES ADMINISTRATIVAS**
 
-**Seção I**<br>
+**Seção I**
 
 **Das Infrações Administrativas**
 
 **Art. 193.** O licitante e a contratada que incorram nas infrações previstas no art. 155 da Lei Federal nº 14.133, de 2021, apuradas em regular processo administrativo, sujeitam-se às sanções previstas no art. 156 da mesma Lei.
 
-**Seção II**<br>
+**Seção II**
 
 **Das Sanções Administrativas**
 
@@ -3351,7 +3356,8 @@ CAPÍTULO XI<br>
 
 **§ 7º** A comissão processante poderá solicitar a colaboração de outros órgãos para a instrução processual, por intermédio da autoridade máxima.
 
-**~~Seção III~~**<br>
+**~~Seção III~~**
+
 ~~
 
 **Prova Emprestada**
@@ -3360,7 +3366,7 @@ CAPÍTULO XI<br>
 
 **§ 8º** Quando o relatório da Comissão Processante sugerir a aplicação da sanção prevista no inciso IV do caput do art. 156 da Lei Federal nº 14.133, de 2021, os autos serão submetidos à análise jurídica da PGE, ou do integrante da Carreira dos Advogados do Estado, em extinção, antes da remessa para deliberação da autoridade competente. [(Incluído pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295056#2295056)
 
-**Seção III**<br>
+**Seção III**
 
 **Prova Emprestada**
 
@@ -3374,7 +3380,7 @@ CAPÍTULO XI<br>
 
 **§ 3º** O compartilhamento de provas que envolva cooperação internacional, observará o disposto no Código de Processo Civil.
 
-**Seção IV**<br>
+**Seção IV**
 
 **Falsidade Documental**
 
@@ -3384,7 +3390,7 @@ CAPÍTULO XI<br>
 
 **§ 2º** A apresentação de declaração ou documento falso na fase licitatória ou de execução do contrato é causa principal abertura do processo de apuração de responsabilidade, não se aplicando o disposto no caput e § 1.º deste artigo.
 
-**Seção V**<br>
+**Seção V**
 
 **Acusado Revel**
 
@@ -3396,7 +3402,7 @@ CAPÍTULO XI<br>
 
 **§ 3º** Nos casos de notificação ficta será nomeado curador especial.
 
-**Subseção VI**<br>
+**Subseção VI**
 
 **Do Julgamento**
 
@@ -3462,7 +3468,7 @@ CAPÍTULO XI<br>
 
 **Art. 213.** Sem modificação dos fatos narrados na autorização de abertura do processo de apuração de responsabilidade, o órgão julgador poderá atribuir definição jurídica diversa, ainda que, em consequência, sujeite o acusado à sanção de declaração de inidoneidade para licitar ou contratar.
 
-**Seção VII**<br>
+**Seção VII**
 
 **Da Prescrição**
 
@@ -3470,12 +3476,13 @@ CAPÍTULO XI<br>
 
 **I -** interrompida pela instauração do processo de responsabilização a que se refere o caput deste artigo;
 
-**II -** suspensa pela celebração de acordo de leniência previsto na Lei Federal nº 12.846, de 2013;[<br>
+**II -** suspensa pela celebração de acordo de leniência previsto na Lei Federal nº 12.846, de 2013;[
+
 ](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2013/Lei/L12846.htm)
 
 **III -** suspensa por decisão judicial ou arbitral que inviabilize a conclusão da apuração administrativa.
 
-**Seção VIII**<br>
+**Seção VIII**
 
 **Da Desconsideração da Personalidade Jurídica**
 
@@ -3531,7 +3538,7 @@ CAPÍTULO XI<br>
 
 **Art. 223.** Os órgãos e entidades da Administração Pública do Estado do Paraná deverão, no prazo máximo 15 (quinze) dias úteis, contados da data da aplicação da sanção da qual não caiba mais recurso, informar e manter atualizados os dados relativos às sanções por eles aplicadas, para fins de publicidade no Cadastro Nacional de Empresas Inidôneas e Suspensas (Ceis) e no Cadastro Nacional de Empresas Punidas (Cnep), instituídos no âmbito do Poder Executivo federal e no Sistema Gestão de Materiais e Serviços – GMS.
 
-**Seção IX**<br>
+**Seção IX**
 
 **Do Cômputo das Sanções**
 
@@ -3547,7 +3554,7 @@ CAPÍTULO XI<br>
 
 **Parágrafo único.** As sanções previstas nos incisos III ou IV do art. 156 da Lei Federal nº 14.133, de 2021, serão aplicadas de modo independente em relação a cada infração diversa cometida.
 
-**Seção X**<br>
+**Seção X**
 
 **Da Reabilitação**
 
@@ -3575,15 +3582,13 @@ CAPÍTULO XI<br>
 
 **Parágrafo único.** Reabilitado o licitante, a Administração Pública solicitará sua exclusão do Cadastro Nacional de Empresas Inidôneas e Suspensas (Ceis) e do Cadastro Nacional de Empresas Punidas (Cnep), instituídos no âmbito do Poder Executivo federal e no Sistema Gestão de Materiais e Serviços – GMS.
 
-**CAPÍTULO XVII**<br>
+**CAPÍTULO XVII**
 
 **DOS PROCEDIMENTOS AUXILIARES**
 
-**Seção I**<br>
+**Seção I**
 
 **Do Credenciamento**
-
-<br>
 
 **Disposições Gerais**
 
@@ -3751,7 +3756,7 @@ CAPÍTULO XI<br>
 
 **Das Hipóteses e Requisitos Específicos**
 
-**Subseção I**<br>
+**Subseção I**
 
 **Contratação Paralela e Não Excludente**
 
@@ -3863,7 +3868,8 @@ CAPÍTULO XI<br>
 
 **~~§ 24.~~** ~~Nas alterações unilaterais, na forma da Lei Federal n.º 14.133, de 2021, o contratado será obrigado a aceitar, nas mesmas condições contratuais, acréscimos ou supressões de até 25% (vinte e cinco por cento) do valor inicial atualizado do contrato que se fizerem no objeto.~~ [(Revogado pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295145#2295145)
 
-**~~Subseção II~~**<br>
+**~~Subseção II~~**
+
 ~~
 
 **Contratação Com Seleção a Critério de Terceiros**
@@ -3944,7 +3950,7 @@ CAPÍTULO XI<br>
 
 **V-** localidade/região em que será realizado o serviço. [(Incluído pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295077#2295077)
 
-**Subseção II**<br>
+**Subseção II**
 
 **Contratação Com Seleção a Critério de Terceiros**
 
@@ -3952,7 +3958,7 @@ CAPÍTULO XI<br>
 
 **Art. 258.** Na hipótese de contratação com seleção a critério de terceiros, caso em que a seleção do contratado está a cargo do beneficiário direto da prestação, serão observadas, no que couber, as disposições constantes na subseção I deste artigo.
 
-**Subseção III**<br>
+**Subseção III**
 
 **Contratação em Mercados Fluidos**
 
@@ -4008,7 +4014,7 @@ CAPÍTULO XI<br>
 
 **§ 25.** Na ocorrência de alteração(ões) de condição(ões) do credenciamento, o órgão gerenciador providenciará a publicação resumida do(s) aditamento(s) ao(s) contratos pelos mesmos meios da publicação do edital de credenciamento.
 
-**Subseção IV**<br>
+**Subseção IV**
 
 **Da Sanção do Descredenciamento**
 
@@ -4020,7 +4026,7 @@ CAPÍTULO XI<br>
 
 **Art. 261.** Os casos omissos serão resolvidos com base nos princípios gerais do direito administrativo e nas disposições constantes neste Regulamento e na Lei Federal n.º 14.133, de 2021.
 
-**Seção II**<br>
+**Seção II**
 
 **Da pré-qualificação**
 
@@ -4076,7 +4082,7 @@ CAPÍTULO XI<br>
 
 **§ 4º** O convite de que trata o §3º deste artigo não exclui a obrigação de atendimento aos requisitos de publicidade do instrumento convocatório.
 
-**Seção III**<br>
+**Seção III**
 
 **Do Procedimento de Manifestação de Interesse – PMI**
 
@@ -4192,7 +4198,7 @@ CAPÍTULO XI<br>
 
 **Art. 288.** O edital de chamamento estabelecerá a forma de o órgão ou entidade demandante fará a deliberação para a aprovação dos estudos, investigações, levantamentos e projetos de soluções inovadoras oriundos do Procedimento de Manifestação de Interesse.
 
-**Seção IV**<br>
+**Seção IV**
 
 **Do Sistema de Registro de Preços**
 
@@ -4220,7 +4226,7 @@ CAPÍTULO XI<br>
 
 **§ 2º** A ausência de previsão orçamentária sem a configuração dos demais requisitos dos incisos I ao IV do caput deste artigo não é motivo para a adoção do Sistema de Registro de Preços.
 
-**Subseção I**<br>
+**Subseção I**
 
 **Das Atribuições do Órgão Gerenciador**
 
@@ -4234,13 +4240,13 @@ CAPÍTULO XI<br>
 
 **~~IV -~~** ~~O Instituto Paranaense de Desenvolvimento Educacional - FUNDEPAR, exclusivamente para a aquisição de bens e serviços para a Rede Pública Estadual de Ensino, não abrangidos pela competência da Secretaria de Estado da Educação - SEED, incluindo gêneros alimentícios, equipamentos e mobiliário, contratação de serviços, contratação de obras e serviços de engenharia e arquitetura, veículos de transporte escolar, bens e equipamentos para laboratório, bens e serviços para a educação profissional. [(Redação dada pelo Decreto 7933 de 12/11/2024)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=344115&codItemAto=2172084#2172084)~~ [(Revogado pelo Decreto 14715 de 12/08/2026)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=402610&codItemAto=2574361#2574361)
 
-**~~a)~~**~~~~
+**~~a)~~**
 
 ~~aquisição de insumos destinados à merenda escolar;~~
 
 ~~[(Incluído pelo Decreto 4967 de 23/02/2024)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=320439&codItemAto=2029593#2029593)~~ [(Revogado pelo Decreto 7933 de 12/11/2024)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=344115&codItemAto=2172084#2172084)
 
-**~~b)~~**~~~~
+**~~b)~~**
 
 ~~contratação de obras e serviços de engenharia e arquitetura para a Rede Estadual de Ensino, vedada a participação de outros órgãos ou entidades ou adesão à respectiva ata.~~
 
@@ -4322,7 +4328,7 @@ CAPÍTULO XI<br>
 
 **~~§ 4º~~** ~~Para procedimentos iniciados pelo órgão gerenciador, este terá a atribuição de confeccionar o ETP, podendo exigir dos órgãos participantes o preenchimento de apenas alguns dos itens do art. 15 deste Decreto, ou ainda a simples declaração de adesão integral ao ETP. [(Incluído pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295080#2295080)~~ [(Revogado pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295080#2295080)
 
-**Subseção II**<br>
+**Subseção II**
 
 **Dos Órgãos, Entidades Participantes**
 
@@ -4368,7 +4374,7 @@ CAPÍTULO XI<br>
 
 **X -** aplicar, garantidas a ampla defesa e o contraditório, as penalidades decorrentes do descumprimento do pactuado na ata de registro de preços ou do descumprimento das obrigações contratuais, em relação às suas próprias contratações, bem como registrar as ocorrências no Cadastro Unificado de Fornecedores e no Portal Nacional de Contratações Públicas (PNCP).
 
-**Subseção III**<br>
+**Subseção III**
 
 **Da Licitação**
 
@@ -4424,7 +4430,8 @@ CAPÍTULO XI<br>
 
 **§ 3º** O critério de julgamento de menor preço por grupo de itens somente poderá ser adotado quando for demonstrada a inviabilidade de se promover a adjudicação por item e for evidenciada a sua vantagem técnica e econômica, e o critério de aceitabilidade de preços unitários máximos deverá ser indicado no edital.
 
-**§ 4º** Na hipótese de que trata o §3º deste artigo, observados os parâmetros estabelecidos nos §§ 1º, 2º e 3º do art. 23, da Lei nº 14.133, de 2021, a contratação posterior de item específico constante de grupo de itens exigirá prévia pesquisa de mercado e demonstração de sua vantagem para o órgão ou entidade.[<br>
+**§ 4º** Na hipótese de que trata o §3º deste artigo, observados os parâmetros estabelecidos nos §§ 1º, 2º e 3º do art. 23, da Lei nº 14.133, de 2021, a contratação posterior de item específico constante de grupo de itens exigirá prévia pesquisa de mercado e demonstração de sua vantagem para o órgão ou entidade.[
+
 ](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14133.htm#art23%C2%A71)
 
 **§ 5º** Do instrumento convocatório para registro de preços de obras e serviços de engenharia deverá também constar:
@@ -4443,7 +4450,7 @@ CAPÍTULO XI<br>
 
 **§ 7º** As aquisições a que se referem o §6º deste artigo deverão ser realizadas na forma prevista no art. 312 deste Regulamento.
 
-**Subseção IV**<br>
+**Subseção IV**
 
 **Da Ata de Registro Preços**
 
@@ -4521,7 +4528,7 @@ CAPÍTULO XI<br>
 
 **Art. 300.** A existência de preços registrados não obriga a Administração a firmar as contratações que deles possam advir, facultada a realização de licitação específica para a aquisição pretendida, sendo assegurado ao beneficiário do registro preferência de fornecimento ou contratação em igualdade de condições.
 
-**Subseção V**<br>
+**Subseção V**
 
 **Das Atualizações Periódicas, do Cancelamento da Ata e do Preço Registrado e do Remanejamento das Quantidades Registradas na Ata**
 
@@ -4617,7 +4624,7 @@ CAPÍTULO XI<br>
 
 **§ 5º** O remanejamento não poderá ser utilizado quando se tratar de obras e serviços de engenharia. [(Incluído pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295085#2295085)
 
-**Subseção VI**<br>
+**Subseção VI**
 
 **Dos Programas e Projetos Governamentais**
 
@@ -4645,7 +4652,7 @@ CAPÍTULO XI<br>
 
 **§ 8º** As demais regras procedimentais definidas neste Regulamento aplicam-se, no que couber, ao procedimento descrito nesta Seção.
 
-**Subseção VII**<br>
+**Subseção VII**
 
 **Das Regras Gerais da Contratação**
 
@@ -4667,7 +4674,7 @@ CAPÍTULO XI<br>
 
 **§ 4º** A alteração dos preços registrados não altera automaticamente os preços dos contratos decorrentes do Sistema de Registro de Preços, cuja revisão deverá ser feita pelo órgão contratante, observadas as disposições legais incidentes sobre os contratos.
 
-**Subseção VIII**<br>
+**Subseção VIII**
 
 **Da Utilização da Ata de Registro de Preços por Órgãos ou Entidades não Participantes**
 
@@ -4689,7 +4696,7 @@ CAPÍTULO XI<br>
 
 **Art. 316.** A adesão à ata de registro de preços de órgão ou entidade gerenciadora do Poder Executivo estadual por órgãos e entidades da Administração municipal poderá ser exigida para fins de transferências voluntárias e se destinada à execução descentralizada de programa ou projeto estadual e comprovada a compatibilidade dos preços registrados com os valores praticados no mercado na forma do art. 23 da Lei Federal nº 14.133, de 2021.
 
-**Subseção IX**<br>
+**Subseção IX**
 
 **Disposições Finais sobre o Sistema de Registro de Preços**
 
@@ -4703,7 +4710,7 @@ CAPÍTULO XI<br>
 
 **Art. 319.** Qualquer cidadão é parte legítima para impugnar preço constante do quadro geral em razão de incompatibilidade deste com o vigente no mercado.
 
-**Seção V**<br>
+**Seção V**
 
 **Do Registro Cadastral**
 
@@ -4731,33 +4738,35 @@ CAPÍTULO XI<br>
 
 **Parágrafo único.** A existência de registro de sanções no cadastro unificado poderá constituir impedimento à realização dos atos aos quais este artigo se refere, conforme o disposto na Lei Federal 14.133, de 2021.
 
-**~~Capítulo XVII~~**<br>
+**~~Capítulo XVII~~**
+
 ~~
 
 **DA ATUAÇÃO DA ADVOCACIA PÚBLICA E DO CONTROLE INTERNO NAS LICITAÇÕES E CONTRATAÇÕES**
 
 ~~[(Revogado pelo Decreto 7389 de 23/09/2024)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=339027&codItemAto=2141607#2141607)
 
-**CAPÍTULO XVII**<br>
+**CAPÍTULO XVII**
 
 **DA ATUAÇÃO DA ADVOCACIA PÚBLICA E DO CONTROLE INTERNO NAS LICITAÇÕES, CONTRATAÇÕES, CONVÊNIOS E TERMOS DE COOPERAÇÃO**
 
 [(Redação dada pelo Decreto 7389 de 23/09/2024)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=339027&codItemAto=2141607#2141607)
 
-**Seção I**<br>
+**Seção I**
 
 **Das Disposições Gerais**
 
 **Art. 325.** Caberá aos órgãos de consultoria jurídica e de controle interno, no âmbito de suas respectivas atuações, o apoio no desempenho das funções essenciais à execução do disposto na Lei Federal nº 14.133, de 2021, com enfoque na atuação preventiva e resolutiva das questões controversas surgidas durante os procedimentos licitatórios e de celebração de convênios ou termos de cooperação. [(Redação dada pelo Decreto 7389 de 23/09/2024)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=339027&codItemAto=2141609#2141609)
 
-**§ 1º** Para a realização de suas atividades, os órgãos a que se refere o caput deste artigo deverão ter acesso irrestrito aos documentos e às informações necessárias à realização dos trabalhos, inclusive aos documentos classificados pelo órgão ou entidade nos termos da Lei Federal nº 12.527, de 18 de novembro de 2011, e do Decreto nº 10.285, de 25 de fevereiro de 2014.[<br>
+**§ 1º** Para a realização de suas atividades, os órgãos a que se refere o caput deste artigo deverão ter acesso irrestrito aos documentos e às informações necessárias à realização dos trabalhos, inclusive aos documentos classificados pelo órgão ou entidade nos termos da Lei Federal nº 12.527, de 18 de novembro de 2011, e do Decreto nº 10.285, de 25 de fevereiro de 2014.[
+
 ](http://www.planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Lei/L12527.htm)
 
 **§ 2º** O órgão com o qual for eventualmente compartilhada informação sigilosa tornar-se-á corresponsável pela manutenção do seu sigilo
 
 **Art. 326.** Poderão ser instituídos, com auxílio dos órgãos de consultoria jurídica e de controle interno, modelos de minutas de editais, de termos de referência, de contratos padronizados e de outros documentos, nos termos da legislação em vigor.
 
-**Seção I**<br>
+**Seção I**
 
 **Das Disposições Gerais**
 
@@ -4769,7 +4778,7 @@ CAPÍTULO XI<br>
 
 **§ 3º** Faculta-se aos órgãos a que se refere o caput deste artigo a sugestão de medidas de aperfeiçoamento dos controles preventivos e de capacitação dos agentes públicos responsáveis por licitações em cada um dos órgãos da Administração Direta e Indireta.
 
-**Seção II**<br>
+**Seção II**
 
 **Do Papel da Consultoria Jurídica para o Desempenho das Funções Essenciais à Execução do Disposto na Lei Federal n.º 14.133, de 2021**
 
@@ -4801,17 +4810,17 @@ CAPÍTULO XI<br>
 
 **III -** a inexistência de orientação prévia da Administração acerca do tema.
 
-**Seção III**<br>
+**Seção III**
 
 **Do Papel do Controle Interno para o Desempenho das Funções Essenciais à Execução do Disposto na Lei Federal n.º 14.133, de 2021**
 
 **Art. 330.** No exercício das atividades de controle interno deverão ser observados os critérios e regras de fiscalização definidos na Lei Federal nº 14.133, de 2021 e regulamentação específica.
 
-**CAPÍTULO XVIII**<br>
+**CAPÍTULO XVIII**
 
 **DAS POLÍTICAS PÚBLICAS**
 
-**Seção I**<br>
+**Seção I**
 
 **Das Ações de Equidade entre Homens e Mulheres no Ambiente de Trabalho**
 
@@ -4857,7 +4866,7 @@ CAPÍTULO XI<br>
 
 **§ 4º** A comprovação do desenvolvimento de ações de equidade deverá ser feita de forma documental, nos termos do edital convocatório.
 
-**Seção II**<br>
+**Seção II**
 
 **Da Reserva de Cargos para Pessoa com Deficiência ou Reabilitados**
 
@@ -4869,7 +4878,7 @@ CAPÍTULO XI<br>
 
 **§ 3º** O contratado deverá informar à contratante eventual modificação do percentual de reserva, para fins de acompanhamento e fiscalização do contrato, sujeitando-se à imposição de penalidades em caso de descumprimento, nos termos do edital convocatório.
 
-**Seção III**<br>
+**Seção III**
 
 **Do aprendiz**
 
@@ -4879,11 +4888,11 @@ CAPÍTULO XI<br>
 
 **§ 2º** Durante toda a execução do contrato, caberá ao contratado a manutenção do percentual de empregados aprendizes em relação ao seu quadro atualizado, sob pena de extinção do ajuste, nos termos do inciso IX do art. 180 deste Regulamento.
 
-**TÍTULO II**<br>
+**TÍTULO II**
 
 **DISPOSIÇÕES GERAIS SOBRE COMPRAS E CONTRATAÇÃO DE PRESTAÇÃO DE SERVIÇOS**
 
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
 
 **REGRAS GERAIS DE CONTRATAÇÃO**
 
@@ -4897,7 +4906,7 @@ CAPÍTULO XI<br>
 
 **~~II -~~** ~~os elementos contidos no orçamento estimativo e no cronograma físico-financeiro de desembolso.~~ [(Revogado pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295148#2295148)
 
-**CAPÍTULO II**<br>
+**CAPÍTULO II**
 
 **DO ESTUDO TÉCNICO PRELIMINAR**
 
@@ -4919,7 +4928,7 @@ CAPÍTULO XI<br>
 
 **§ 6º** Ao final da elaboração dos ETP, deve-se avaliar a necessidade de classificá-los nos termos da Lei Federal nº 12.527, de 2011. [(Incluído pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295088#2295088)
 
-**CAPÍTULO III**<br>
+**CAPÍTULO III**
 
 **DO TERMO DE REFERÊNCIA**
 
@@ -5005,7 +5014,7 @@ CAPÍTULO XI<br>
 
 **VII -** alocação de riscos previstos e presumíveis em matriz específica, com ou sem projeção dos reflexos de seus custos no valor estimado da contratação e no equilíbrio econômico-financeiro inicial do contrato, possibilitado o uso de métodos e de padrões usualmente utilizados por entidades públicas ou privadas.
 
-**Seção I**<br>
+**Seção I**
 
 **Da Definição do Objeto**
 
@@ -5027,7 +5036,7 @@ CAPÍTULO XI<br>
 
 **§ 3º** Quando adotada a modalidade diálogo competitivo, o edital para a convocação dos licitantes aptos a participar da fase de julgamento das propostas, publicado após a fase de que trata o inciso II do art. 137 deste Regulamento, deverá conter objeto claro e sucinto contendo os elementos indicados nos incisos I ao V do caput deste artigo.
 
-**Seção II**<br>
+**Seção II**
 
 **Da Fundamentação da Contratação**
 
@@ -5057,13 +5066,13 @@ CAPÍTULO XI<br>
 
 **VII -** a declaração do Titular da Secretaria de Estado responsável pela gestão de recursos humanos atestando que as funções do cargo extinto não foram incorporadas a outro quadro próprio.
 
-**Seção III**<br>
+**Seção III**
 
 **Da Descrição da Solução como um Todo**
 
 **Art. 341.** A descrição da solução como um todo deverá considerar o ciclo de vida do objeto, na sua totalidade, inclusive a especificação da garantia, quando couber, e as exigências relacionadas à manutenção e à assistência técnica, quando for o caso, de modo a permitir a avaliação da viabilidade técnica e econômica da contratação.
 
-**Seção IV**<br>
+**Seção IV**
 
 **Do Parcelamento**
 
@@ -5097,7 +5106,7 @@ CAPÍTULO XI<br>
 
 **Parágrafo único.** O edital poderá prever a utilização de mão de obra, materiais, tecnologias e matérias-primas existentes no local da execução, conservação e operação do bem ou serviço desde que, conforme demonstrado em estudo técnico preliminar, não sejam causados prejuízos à competitividade do processo licitatório e à eficiência do respectivo contrato.
 
-**Seção V**<br>
+**Seção V**
 
 **Do Modelo de Execução do Objeto**
 
@@ -5247,7 +5256,7 @@ CAPÍTULO XI<br>
 
 **Parágrafo único.** Sempre que solicitado pela Administração, o contratado deverá comprovar o cumprimento da reserva de cargos a que se refere o caput deste artigo, com a indicação dos empregados que preencherem as referidas vagas.
 
-**Seção VI**<br>
+**Seção VI**
 
 **Do Modelo de Gestão do Contrato e do Controle da Execução**
 
@@ -5367,7 +5376,7 @@ CAPÍTULO XI<br>
 
 **Art. 360.** A Administração poderá exigir certificação por organização independente acreditada pelo Instituto Nacional de Metrologia, Qualidade e Tecnologia (Inmetro), como condição para aceitação de conclusão de fases ou de objetos de contratos.
 
-**Subseção VII**<br>
+**Subseção VII**
 
 **Da Sustentabilidade**
 
@@ -5433,7 +5442,7 @@ CAPÍTULO XI<br>
 
 **Art. 366.** A Secretaria de Estado de Administração e da Previdência – SEAP disponibilizará um espaço específico no sítio Compras Paraná para realizar divulgação de listas dos bens e serviços contratados com base em requisitos de sustentabilidade ambiental pelos órgãos e entidades da Administração Pública estadual.
 
-**Seção VIII**<br>
+**Seção VIII**
 
 **Da Forma e Critérios de Seleção do Fornecedor ou Prestador**
 
@@ -5443,7 +5452,7 @@ CAPÍTULO XI<br>
 
 **§ 2º** A Administração deverá indicar se há procedimentos auxiliares, finalizados ou em curso, que potencialmente interfiram na forma ou nos critérios de seleção de fornecedor e/ou prestador de serviço, motivando, quando houver espaço para discricionariedade, sua adoção ou seu afastamento.
 
-**Seção IX**<br>
+**Seção IX**
 
 **Do Orçamento Estimativo para Contratação de Bens e Serviços**
 
@@ -5505,7 +5514,7 @@ CAPÍTULO XI<br>
 
 **Parágrafo único.** Excepcionalmente, caso o futuro contratado não tenha comercializado o objeto anteriormente, a justificativa de preço de que trata o caput poderá ser realizada mediante avaliação de objetos semelhantes de mesma natureza, devendo apresentar especificações técnicas que demonstrem similaridade com o objeto pretendido.
 
-**Seção X**<br>
+**Seção X**
 
 **Dos Critérios de Medição e de Pagamento**
 
@@ -5531,7 +5540,7 @@ CAPÍTULO XI<br>
 
 **Parágrafo único.** Até que a contratada comprove o disposto no caput deste artigo, o órgão ou entidade contratante deverá reter a garantia prestada e/ou o valor da última parcela devida.
 
-**Seção XI**<br>
+**Seção XI**
 
 **Da Adequação Orçamentária**
 
@@ -5543,7 +5552,7 @@ CAPÍTULO XI<br>
 
 **§ 3º** Nas contratações de serviço ou fornecimento contínuos com prazo de vigência que ultrapasse o exercício financeiro, a Administração deverá, a cada exercício, atestar a disponibilidade de créditos orçamentários vinculados à contratação e a vantagem em sua manutenção, sem prejuízo da possibilidade de extinção do contrato, sem ônus, quando não se dispuser de créditos orçamentários para sua continuidade.
 
-**Seção XII**<br>
+**Seção XII**
 
 **Dos Requisitos da Contratação**
 
@@ -5561,7 +5570,7 @@ CAPÍTULO XI<br>
 
 **~~Art. 378.~~** ~~O termo de referência deverá prever que o contratado, durante toda a execução do contrato, em compatibilidade com as obrigações assumidas, deverá manter todas as condições de habilitação e qualificação exigidas na licitação.~~ [(Revogado pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295150#2295150)
 
-**Seção XIII**<br>
+**Seção XIII**
 
 **Da Contratação de Microempresas e Empresas de Pequeno Porte**
 
@@ -5605,7 +5614,7 @@ CAPÍTULO XI<br>
 
 **IV -** estudos de mercado ou pareceres técnicos.
 
-**Seção XIV**<br>
+**Seção XIV**
 
 **Da Subcontratação**
 
@@ -5625,7 +5634,7 @@ CAPÍTULO XI<br>
 
 **§ 7º** Nas contratações com fundamento no inciso III do caput do artigo 74 da Lei Federal nº 14.133, de 2021, que trata da contratação de serviços técnicos especializados de natureza predominantemente intelectual com profissionais ou empresas de notória especialização, é vedada a subcontratação de empresas ou a atuação de profissionais distintos daqueles que tenham justificado a inexigibilidade.
 
-**Seção XV**<br>
+**Seção XV**
 
 **Da Alteração Subjetiva**
 
@@ -5639,7 +5648,7 @@ CAPÍTULO XI<br>
 
 **Parágrafo único.** A alteração subjetiva a que se refere este artigo deverá ser feita por termo aditivo ao contrato.
 
-**Capítulo IV**<br>
+**Capítulo IV**
 
 **DAS REGRAS ESPECÍFICAS PARA A ELABORAÇÃO DE TERMO DE REFERÊNCIA PARA AQUISIÇÃO DE BENS**
 
@@ -5657,7 +5666,7 @@ CAPÍTULO XI<br>
 
 **Parágrafo único.** A Administração, desde que justificado em estudo técnico preliminar, poderá exigir a prestação dos serviços de manutenção e assistência técnica mediante deslocamento de técnico ou disponibilização em unidade de prestação de serviços localizada em distância compatível ao atendimento da necessidade.
 
-**Seção I**<br>
+**Seção I**
 
 **Da Especificação do Produto**
 
@@ -5697,7 +5706,7 @@ CAPÍTULO XI<br>
 
 **§ 6º** O Secretário de Estado da Administração e da Previdência poderá editar normas complementares para a execução do disposto nesta Seção.
 
-**Seção II**<br>
+**Seção II**
 
 **Da Marca e da Similaridade**
 
@@ -5729,7 +5738,7 @@ CAPÍTULO XI<br>
 
 **§ 3º** No interesse da Administração, as amostras a que se refere o §2º deste artigo poderão ser examinadas por instituição com reputação ético-profissional na especialidade do objeto, previamente indicada no edital.
 
-**Seção III**<br>
+**Seção III**
 
 **Da Padronização**
 
@@ -5745,7 +5754,7 @@ CAPÍTULO XI<br>
 
 **Parágrafo único.** É permitida a padronização com base em processo de outro órgão ou entidade da federação, devendo o ato que decidir pela adesão a outra padronização ser motivado, com indicação da necessidade da Administração e dos riscos decorrentes dessa decisão, e divulgado no sítio eletrônico oficial do Estado do Paraná.
 
-**Seção IV**<br>
+**Seção IV**
 
 **Da Indicação dos Prazos e Locais de Entrega do Produto e dos Critérios de Aceitação do Objeto**
 
@@ -5755,7 +5764,7 @@ CAPÍTULO XI<br>
 
 **Art 390.** Além do previsto nos arts. 361 a 364 deste Regulamento, no caso de produtos perecíveis deverá ser indicado, em cada caso, que o prazo de validade na data da entrega não poderá ser inferior a um percentual do prazo total recomendado pelo fabricante.
 
-**Capítulo V**<br>
+**Capítulo V**
 
 **REGRAS ESPECÍFICAS PARA A ELABORAÇÃO DE TERMO DE REFERÊNCIA PARA PRESTAÇÃO DE SERVIÇOS**
 
@@ -5807,7 +5816,8 @@ CAPÍTULO XI<br>
 
 **VII -** a possibilidade, em caráter excepcional, dos serviços com regime de dedicação exclusiva de mão de obra serem prestados fora das dependências do órgão ou entidade, desde que não seja nas dependências do contratado e presentes os requisitos das alíneas “b” e “c”, do inciso IV, do art. 392 deste Regulamento;
 
-**VIII -** a unidade de medida utilizada para o tipo de serviço a ser contratado, incluindo as métricas, metas e formas de mensuração adotadas, dispostas, sempre que possível, na forma de Instrumento de Medição de Resultado, conforme disposto nos arts. 417 a 419 deste Regulamento;**<br>
+**VIII -** a unidade de medida utilizada para o tipo de serviço a ser contratado, incluindo as métricas, metas e formas de mensuração adotadas, dispostas, sempre que possível, na forma de Instrumento de Medição de Resultado, conforme disposto nos arts. 417 a 419 deste Regulamento;**
+
 **
 
 **~~IX -~~** ~~o custo estimado da contratação, o valor máximo global e mensal estabelecido em decorrência da identificação dos elementos que compõem o preço dos serviços;~~ [(Revogado pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295151#2295151)
@@ -5848,11 +5858,12 @@ CAPÍTULO XI<br>
 
 **XIV -** os critérios técnicos de julgamento das propostas, nas licitações do tipo técnica e preço, conforme estabelecido pelo artigo 36 da Lei Federal nº 14.133, de 2021.
 
-**XV -** a vedação de que familiar de agente público, assim caracterizado pela norma que versa sobre nepotismo no Estado, preste serviços, por meio de empresa prestadora de serviço terceirizado, no órgão ou entidade em que o agente público exerça cargo em comissão ou função de confiança.<br> 
+**XV -** a vedação de que familiar de agente público, assim caracterizado pela norma que versa sobre nepotismo no Estado, preste serviços, por meio de empresa prestadora de serviço terceirizado, no órgão ou entidade em que o agente público exerça cargo em comissão ou função de confiança.
+ 
 
 **Parágrafo único.** Na licitação de serviços de manutenção e assistência técnica, o edital deverá definir o local de realização dos serviços, admitida a exigência de deslocamento de técnico ao local da repartição ou a exigência de que o contratado tenha unidade de prestação de serviços em distância compatível com as necessidades da Administração. [(Incluído pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295094#2295094)
 
-**Seção I**<br>
+**Seção I**
 
 **Da Classificação dos Serviços**
 
@@ -5896,7 +5907,7 @@ CAPÍTULO XI<br>
 
 **Parágrafo único.** Os serviços de que trata o inciso IV do caput deste artigo poderão ser prestados fora das dependências do órgão ou entidade, desde que não seja nas dependências do contratado e desde que o contratado não compartilhe os recursos humanos e materiais disponíveis de uma contratação para execução simultânea de outros contratos; e o contratado possibilite a fiscalização pelo contratante quanto à distribuição, controle e supervisão dos recursos humanos alocados aos seus contratos.
 
-**Seção II**<br>
+**Seção II**
 
 **Da Prestação dos Serviços**
 
@@ -5924,7 +5935,7 @@ CAPÍTULO XI<br>
 
 **§ 2º** Para os fins previstos no caput deste artigo caberá, de forma prévia a contratação, a consulta a SEAP para que informe a existência de cargo, no âmbito da Administração direta e autárquica, correspondente ao serviço que se pretende terceirizar, ficando expressamente vedada a contratação no caso de atestada pela SEAP a sua existência.
 
-**Seção III**<br>
+**Seção III**
 
 **Da Metodologia de Avaliação da Execução dos Serviços**
 
@@ -5940,13 +5951,13 @@ CAPÍTULO XI<br>
 
 **V -** as condições do local onde o serviço será realizado.
 
-**Seção IV**<br>
+**Seção IV**
 
 **Dos Materiais a Serem Disponibilizados**
 
 **Art. 398.** Para a perfeita execução dos serviços, no caso em que englobem também a disponibilização de material de consumo e de uso duradouro em favor da Administração, o termo de referência deverá prever que o contratado deverá disponibilizar os materiais, equipamentos, ferramentas e utensílios necessários, nas quantidades estimadas e qualidades necessárias, promovendo sua substituição quando for o caso, devendo ser fixada a previsão da estimativa de consumo e de padrões mínimos de qualidade.
 
-**Seção V**<br>
+**Seção V**
 
 **Da Vistoria**
 
@@ -5958,11 +5969,11 @@ CAPÍTULO XI<br>
 
 **§ 3º** Para os fins previstos no caput deste artigo, o edital de licitação e seus anexos deve prever a possibilidade de substituição da vistoria por declaração formal assinada pelo responsável técnico do licitante acerca do conhecimento pleno das condições e peculiaridades da contratação, sendo de inteira responsabilidade do contratado a ocorrência de eventuais prejuízos em virtude de sua omissão na verificação dos locais da prestação de serviços.
 
-**Capítulo VI**<br>
+**Capítulo VI**
 
 **DOS CONTRATOS PARA AQUISIÇÃO DE BENS E PRESTAÇÃO DE SERVIÇOS**
 
-**Seção I**<br>
+**Seção I**
 
 **Das Regras para a Contratação**
 
@@ -6002,7 +6013,7 @@ CAPÍTULO XI<br>
 
 **§ 5º** Poderá ser admitida a contratação de serviço de apoio administrativo com a descrição, no contrato de prestação de serviços, das tarefas principais e essenciais a serem executadas, admitindo-se pela Administração, em relação à pessoa encarregada da função, a notificação direta para a execução das tarefas, observados os critérios estabelecidos no instrumento convocatório da contratação.
 
-**Seção II**<br>
+**Seção II**
 
 **Da Duração dos Contratos**
 
@@ -6022,7 +6033,8 @@ CAPÍTULO XI<br>
 
 **Art. 406.** Os contratos de serviços e fornecimentos contínuos poderão ser prorrogados sucessivamente, respeitada a vigência máxima decenal, desde que haja previsão no termo de referência e no edital de licitação e seus anexos e que a autoridade competente ateste que as condições e os preços permanecem vantajosos para a Administração, permitida a negociação com o contratado ou a extinção contratual sem ônus para qualquer das partes.
 
-**Art. 407.** A Administração poderá celebrar contratos com prazo de até 10 (dez) anos nas hipóteses previstas nas alíneas "f" do inciso IV e nos incisos V, XII e XVI do _caput_ do artigo 75 da Lei Federal nº 14.133, de 2021.[<br>
+**Art. 407.** A Administração poderá celebrar contratos com prazo de até 10 (dez) anos nas hipóteses previstas nas alíneas "f" do inciso IV e nos incisos V, XII e XVI do _caput_ do artigo 75 da Lei Federal nº 14.133, de 2021.[
+
 ](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14133.htm#art75xvi)
 
 **Art. 408.** A Administração poderá estabelecer a vigência contratual por prazo indeterminado nos casos em que seja usuária de serviço público oferecido em regime de monopólio, desde que comprovada, a cada exercício financeiro, a existência de créditos orçamentários vinculados à contratação.
@@ -6041,12 +6053,13 @@ CAPÍTULO XI<br>
 
 **II -** a Administração poderá optar pela extinção do contrato e, nesse caso, adotará as medidas admitidas em lei para a continuidade da execução contratual.
 
-**Art. 411.** O contrato firmado sob o regime de fornecimento e prestação de serviço associado terá sua vigência máxima definida pela soma do prazo relativo ao fornecimento inicial ou à entrega da obra com o prazo relativo ao serviço de operação e manutenção, este limitado a 5 (cinco) anos contados da data de recebimento do objeto inicial, autorizada a prorrogação na forma do artigo 107 da Lei Federal nº 14.133, de 2021,[<br>
+**Art. 411.** O contrato firmado sob o regime de fornecimento e prestação de serviço associado terá sua vigência máxima definida pela soma do prazo relativo ao fornecimento inicial ou à entrega da obra com o prazo relativo ao serviço de operação e manutenção, este limitado a 5 (cinco) anos contados da data de recebimento do objeto inicial, autorizada a prorrogação na forma do artigo 107 da Lei Federal nº 14.133, de 2021,[
+
 ](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14133.htm#art107)
 
 **Art. 412.** O contrato que previr a operação continuada de sistemas estruturantes de tecnologia da informação de que trata o Título V deste regulamento poderá ter vigência máxima de 15 (quinze) anos.
 
-**Seção III**<br>
+**Seção III**
 
 **Das Vedações**
 
@@ -6106,7 +6119,7 @@ CAPÍTULO XI<br>
 
 **IV -** estejam defasadas tecnológica e/ou metodologicamente ou com preços superiores aos de serviços com melhor desempenho.
 
-**Seção IV**<br>
+**Seção IV**
 
 **Dos Instrumentos de Medição de Resultados- IMR**
 
@@ -6154,7 +6167,7 @@ CAPÍTULO XI<br>
 
 **IX -** as sanções.
 
-**Seção V**<br>
+**Seção V**
 
 **Da Contratação de Serviços de Natureza Intelectual ou Estratégico**
 
@@ -6176,7 +6189,7 @@ CAPÍTULO XI<br>
 
 **Parágrafo único.** O órgão ou entidade contratante, na contratação de serviços de natureza intelectual ou estratégicos, deverá estabelecer a obrigação da contratada de promover a transição contratual com transferência de tecnologia e técnicas empregadas, sem perda de informações, podendo exigir, inclusive, a capacitação dos técnicos da contratante ou da nova empresa que continuará a execução dos serviços.
 
-**Seção VI**<br>
+**Seção VI**
 
 **Da Contratação de Serviços Distintos**
 
@@ -6188,7 +6201,7 @@ CAPÍTULO XI<br>
 
 **Parágrafo único.** O órgão não poderá contratar o mesmo prestador para realizar serviços de execução e fiscalização relativos ao mesmo objeto, assegurando a necessária segregação das funções.
 
-**Seção VII**<br>
+**Seção VII**
 
 **Da Contratação de Sociedades Cooperativas ou Instituições Sem Fins Lucrativos**
 
@@ -6204,7 +6217,7 @@ CAPÍTULO XI<br>
 
 **Parágrafo único.** Quando da contratação de cooperativas ou instituições sem fins lucrativos, a subcontratação do objeto é admitida apenas parcialmente, desde que motivada sob a ótica do interesse público e com os seus limites devidamente fixados pelo contratante, não podendo a atuação do contratado transformar-se em mera intermediação ou administração de contrato. [(Redação dada pelo Decreto 7389 de 23/09/2024)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=339027&codItemAto=2141627#2141627)
 
-**Seção VIII**<br>
+**Seção VIII**
 
 **Da Contratação de Serviços Continuados**
 
@@ -6244,7 +6257,7 @@ CAPÍTULO XI<br>
 
 **V -** estabelecer que os valores destinados a férias, a décimo terceiro salário, a ausências legais e a verbas rescisórias dos empregados do contratado que participarem da execução dos serviços contratados serão pagos pelo contratante ao contratado somente na ocorrência do fato gerador.
 
-**Seção IX**<br>
+**Seção IX**
 
 **Dos Serviços de Facilities**
 
@@ -6254,7 +6267,7 @@ CAPÍTULO XI<br>
 
 **§ 2º** O modelo de contrato facilities, observados os princípios de que trata o art. 5º da Lei Federal n.º 14.133, de 2021, poderá, na forma do §2º do art. 7º da Lei Federal nº 14.011, de 10 de junho de 2020, incluir a realização de obras para adequação do imóvel, inclusive a elaboração dos projetos básico e executivo; e ter prazo de duração de até 20 (vinte) anos, quando incluir investimentos iniciais relacionados à realização de obras e o fornecimento de bens, os quais devem permanecer com o contratante.
 
-**Seção X**<br>
+**Seção X**
 
 **Da Alocação de Riscos**
 
@@ -6270,24 +6283,25 @@ CAPÍTULO XI<br>
 
 **§ 5º** Sempre que atendidas as condições do contrato e da matriz de alocação de riscos, será considerado mantido o equilíbrio econômico-financeiro, renunciando as partes aos pedidos de restabelecimento do equilíbrio relacionados aos riscos assumidos, exceto no que se refere:
 
-**I -** às alterações unilaterais determinadas pela Administração, nas hipóteses do [inciso I do caput do art. 124 da Lei Federal nº 14.133, de 2021; e<br>
+**I -** às alterações unilaterais determinadas pela Administração, nas hipóteses do [inciso I do caput do art. 124 da Lei Federal nº 14.133, de 2021; e
+
 ](http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/lei/L14133.htm#art124i)
 
 **II -** ao aumento ou à redução, por legislação superveniente, dos tributos diretamente pagos pelo contratado em decorrência do contrato.
 
 **§ 6º** Na alocação de que trata o caput deste artigo, poderão ser adotados métodos e padrões usualmente utilizados por entidades públicas e privadas, e os ministérios e secretarias supervisores dos órgãos e das entidades da Administração Pública poderão definir os parâmetros e o detalhamento dos procedimentos necessários a sua identificação, alocação e quantificação financeira.
 
-**TÍTULO III**<br>
+**TÍTULO III**
 
 **DAS OBRAS E SERVIÇOS DE ENGENHARIA**
 
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
 
 **DOS CRITÉRIOS PARA A EXECUÇÃO DE OBRAS E SERVIÇOS DE ENGENHARIA CENTRADAS NO DESENVOLVIMENTO SUSTENTÁVEL**
 
 **Art. 430.** As obras e serviços de engenharia e/ou arquitetura, realizados pelos órgãos e entidades referidos no art. 1º deste Regulamento, deverão ser centradas no desenvolvimento sustentável tendo como fundamento para a viabilidade os critérios estabelecidos no art. 18 deste Regulamento.
 
-**Seção I**<br>
+**Seção I**
 
 **Do Critério Socioeconômico**
 
@@ -6305,7 +6319,7 @@ CAPÍTULO XI<br>
 
 **V -** a análise da relação custo e benefício de cada empreendimento, levando em consideração a compatibilidade entre os recursos disponíveis e as necessidades da população beneficiada.
 
-**Seção I**<br>
+**Seção I**
 
 **Do Critério Socioambiental**
 
@@ -6369,7 +6383,7 @@ CAPÍTULO XI<br>
 
 **VIII -** utilização de produtos florestais madeireiros e não madeireiros originários de manejo florestal sustentável ou de reflorestamento.
 
-**Seção III**<br>
+**Seção III**
 
 **Do Critério Sociocultural**
 
@@ -6387,7 +6401,7 @@ CAPÍTULO XI<br>
 
 **V -** a análise para incorporação do desenho universal para pessoas com deficiência ou com mobilidade reduzida.
 
-**Seção IV**<br>
+**Seção IV**
 
 **Do Critério Sociopolítico**
 
@@ -6403,7 +6417,7 @@ CAPÍTULO XI<br>
 
 **Parágrafo único.** Os órgãos e entidades referidos no art. 1º deste Regulamento deverão disponibilizar e fomentar a utilização de meios, conforme previsão no art. 527 deste Regulamento, para que os cidadãos obtenham informações adequadas ao acompanhamento de suas obras e serviços de engenharia e/ou arquitetura, no sentido de promover a transparência, controle social e apoio à prevenção de desvios de conduta por parte de membros da administração pública e de suas contratadas.
 
-**CAPÍTULO II**<br>
+**CAPÍTULO II**
 
 **DAS FASES DAS OBRAS E SERVIÇOS DE ENGENHARIA**
 
@@ -6443,7 +6457,7 @@ CAPÍTULO XI<br>
 
 **V -** pós-ocupação.
 
-**Seção I**<br>
+**Seção I**
 
 **Do Estudo Técnico Preliminar**
 
@@ -6547,7 +6561,7 @@ CAPÍTULO XI<br>
 
 **Art. 450.** Concluídos os estudos e selecionada a alternativa, deve ser preparado relatório com a descrição, avaliação da opção selecionada, e os elementos descritos no art. 446 deste Regulamento, e submetê-lo à análise e deliberação da autoridade máxima do órgão ou entidade interessada pelo empreendimento, que somente aprovará se atendidos os critérios estabelecidos nos arts. 18 e 430 ao 440, todos deste Regulamento.
 
-**Seção II**<br>
+**Seção II**
 
 **Do Termo de Referência para Contratação de Projetos**
 
@@ -6561,7 +6575,7 @@ CAPÍTULO XI<br>
 
 **~~§ 4º~~** ~~O termo de referência deverá ser aprovado pela autoridade máxima do órgão ou entidade responsável por sua elaboração, com a anuência da autoridade máxima do órgão ou entidade interessada pelo empreendimento, podendo esses atos serem delegados por meio de despacho motivado.~~ [(Revogado pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295153#2295153)
 
-**Subseção I**<br>
+**Subseção I**
 
 **Do Objetivo e das Atividades do Termo de Referência**
 
@@ -6633,13 +6647,13 @@ CAPÍTULO XI<br>
 
 **~~Art. 454.~~** ~~O termo de referência para contratação de projetos deve ser elaborado levando-se em consideração, no mínimo, os parâmetros definidos no estudo técnico preliminar.~~ [(Revogado pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295155#2295155)
 
-**Seção III**<br>
+**Seção III**
 
 **Da Licitação para Contratação de Obras e Serviços de Engenharia**
 
 **Art. 455.** Antes de iniciar a fase externa do procedimento licitatório deverá haver a competente autorização do órgão ou entidade responsável pela licitação do projeto básico e/ou executivo.
 
-**Subseção I**<br>
+**Subseção I**
 
 **Do Projeto Básico e Executivo**
 
@@ -6679,7 +6693,7 @@ CAPÍTULO XI<br>
 
 **Art. 463.** É dever do gestor exigir apresentação de ART ou RRT referente a projeto, execução, supervisão e fiscalização de obras e serviços de engenharia e/ou arquitetura, com indicação do responsável pela elaboração de plantas, orçamento-base, especificações técnicas, composições de custos unitários, cronograma físico-financeiro e outras peças técnicas.
 
-**Subseção II**<br>
+**Subseção II**
 
 **Do Edital**
 
@@ -6763,9 +6777,9 @@ CAPÍTULO XI<br>
 
 **Parágrafo único.** Compete ao agente ou setor técnico da administração declarar se o objeto licitatório é de natureza comum para efeito de utilização da modalidade pregão e definir se o objeto corresponde a obra ou serviço de engenharia e/ou arquitetura.
 
-**Subseção III**<br>
+**Subseção III**
 
-**Da Elaboração do Orçamento de Referência de Obras e Serviços de** **Engenharia e/ou Arquitetura**
+**Da Elaboração do Orçamento de Referência de Obras e Serviços deEngenharia e/ou Arquitetura**
 
 **Art. 471.** No processo licitatório para contratação de obras e serviços de engenharia, o valor estimado, acrescido do percentual de Benefícios e Despesas Indiretas (BDI) de referência e dos Encargos Sociais (ES) cabíveis, será definido por meio da utilização de parâmetros na seguinte ordem:
 
@@ -6839,7 +6853,8 @@ CAPÍTULO XI<br>
 
 **§ 5º** No caso de adoção do regime de contratação integrada, deverão ser previstos no instrumento convocatório critérios de aceitabilidade por etapa, estabelecidos de acordo com o orçamento estimado na forma prevista no edital, e compatíveis com o cronogrma físico do objeto licitado.
 
-**§ 6º** O orçamento estimado das obras e serviços de engenharia será aquele resultante da composição dos custos unitários diretos do sistema de referência utilizado, acrescida do percentual de BDI de referência, ressalvado o disposto no para art. 9º da Lei Federal nº 14.133, de 2021, o Regime de Contratação Integrada.[<br>
+**§ 6º** O orçamento estimado das obras e serviços de engenharia será aquele resultante da composição dos custos unitários diretos do sistema de referência utilizado, acrescida do percentual de BDI de referência, ressalvado o disposto no para art. 9º da Lei Federal nº 14.133, de 2021, o Regime de Contratação Integrada.[
+
 ](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/Lei/L12462.htm#art9)
 
 **§ 7º** A diferença percentual entre o valor global do contrato e o valor obtido a partir dos custos unitários do orçamento estimado pela Administração Pública não poderá ser reduzida, em favor do contratado, em decorrência de aditamentos contratuais que modifiquem a composição orçamentária.
@@ -6928,7 +6943,7 @@ CAPÍTULO XI<br>
 
 **§ 6º** A contratada poderá solicitar a revisão do cronograma inicial, quando necessária, cabendo ao contratante autorizar a sua readequação, desde que motivada e justificada por fatos não imputados à contratada e que não contrariem os princípios que regem as licitações e contratações públicas.
 
-**Subseção IV**<br>
+**Subseção IV**
 
 **Da Formação dos Preços das Propostas e Celebração de Aditivos em Obras e Serviços de Engenharia e/ou Arquitetura**
 
@@ -6948,7 +6963,7 @@ CAPÍTULO XI<br>
 
 **Art. 486.** A formação do preço dos aditivos contratuais contará com orçamento específico detalhado em planilhas elaboradas pelo órgão ou entidade responsável pela licitação, na forma prevista no art. 471 ao 484, observado o disposto no art. 485, todos deste Regulamento e, no caso de alteração unilateral do contrato, mantidos os limites previstos no art. 125 da Lei Federal n.º 14.133, de 2021.
 
-**Seção IV**<br>
+**Seção IV**
 
 **Da Contratação e da Execução de Obras e Serviços de Arquitetura e/ou Engenharia**
 
@@ -6972,7 +6987,7 @@ CAPÍTULO XI<br>
 
 **§ 2º** No caso de se licitar, em um mesmo certame, o projeto de engenharia e/ou arquitetura e os serviços de supervisão, deve ser explicitada, no instrumento convocatório, a obrigatoriedade da apresentação de propostas distintas, com cláusula expressa prevendo a indicação das condições e preços de cada um dos serviços.
 
-**Capítulo III**<br>
+**Capítulo III**
 
 **DOS REGIMES DE EMPREITADA**
 
@@ -6980,7 +6995,7 @@ CAPÍTULO XI<br>
 
 **Art. 489.** A escolha do regime de execução contratual deve estar técnica e economicamente justificada nos autos do processo licitatório e no respectivo contrato.
 
-**Seção I**<br>
+**Seção I**
 
 **Dos Regimes de Empreitada por Preço Global, por Preço Unitário, Contratação por Tarefa e Empreitada Integral**
 
@@ -7028,7 +7043,7 @@ CAPÍTULO XI<br>
 
 **Art. 496.** Nos aditivos em contratos em que houver necessidade de acréscimo e supressão de serviços devem ser considerados os acréscimos e as supressões de quantitativos de forma isolada, ou seja, o conjunto de reduções e o conjunto de acréscimos devem ser sempre calculados sobre o valor original do contrato, aplicando-se a cada um desses conjuntos, individualmente e sem nenhum tipo de compensação entre eles, os limites de alteração estabelecidos no dispositivo legal.
 
-**Seção II**<br>
+**Seção II**
 
 **Dos Regimes de Contratação Integrada e Semi-Integrada**
 
@@ -7070,7 +7085,7 @@ CAPÍTULO XI<br>
 
 **IV -** por ocorrência de evento superveniente alocado na matriz de riscos como de responsabilidade da Administração.
 
-**Subseção I**<br>
+**Subseção I**
 
 **Do Anteprojeto de Arquitetura e Engenharia**
 
@@ -7120,7 +7135,7 @@ CAPÍTULO XI<br>
 
 **VI -** matriz de riscos que defina a repartição objetiva de responsabilidades advindas de eventos supervenientes à contratação.
 
-**Subseção II**<br>
+**Subseção II**
 
 **Do Orçamento para o Regime de Contratação Integrada**
 
@@ -7130,7 +7145,7 @@ CAPÍTULO XI<br>
 
 **§ 2º** A estimativa de preço deve se basear em orçamento sintético tão detalhado quanto possível, devidamente adaptada às condições peculiares da obra, devendo a utilização de estimativas paramétricas e avaliações aproximadas baseadas em obras similares ser restringida às frações do empreendimento não suficientemente detalhadas pelo anteprojeto.
 
-**Seção III**<br>
+**Seção III**
 
 **Do Fornecimento e Prestação de Serviço Associado**
 
@@ -7158,11 +7173,9 @@ CAPÍTULO XI<br>
 
 **Art. 503.** A medição e o pagamento do objeto da contratação sob regime de fornecimento e prestação de serviço associado se dará por etapas e em função da fase em que se está sendo executado o contrato.
 
-**Capítulo IV**<br>
+**Capítulo IV**
 
 **DA PÓS-OCUPAÇÃO**
-
-<br>
 
 [(Redação dada pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295100#2295100)
 
@@ -7212,10 +7225,9 @@ CAPÍTULO XI<br>
 
 **Parágrafo único.** O órgão ou entidade contratante deverá fornecer ao órgão ou entidade que administra o próprio toda a documentação relativa à execução da obra ou serviço de engenharia.
 
-**Capítulo V**<br>
+**Capítulo V**
 
-**AVALIAÇÃO DE DESEMPENHO**<br>
-<br>
+**AVALIAÇÃO DE DESEMPENHO**
 
 [(Redação dada pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295100#2295100)
 
@@ -7237,10 +7249,9 @@ CAPÍTULO XI<br>
 
 **III -** desempenho geral: será a média dos desempenhos parciais de todos os contratos que a contratada mantém com a Administração e, de todos os desempenhos contratuais dos contratos por ele concluídos no período de validade de seu Cadastro.
 
-**Capítulo VI**<br>
+**Capítulo VI**
 
-**DO SOBREPREÇO E/OU SUPERFATURAMENTO**<br>
-<br>
+**DO SOBREPREÇO E/OU SUPERFATURAMENTO**
 
 [(Redação dada pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295100#2295100)
 
@@ -7272,10 +7283,9 @@ CAPÍTULO XI<br>
 
 **Parágrafo único.** Ao ser detectada qualquer espécie de superfaturamento, a autoridade competente, tomando ciência, deverá determinar a abertura de processo administrativo para a apuração de responsabilidade e consequente aplicação de penalidade.
 
-**Capítulo VII**<br>
+**Capítulo VII**
 
-**DAS MANUTENÇÕES DE EQUIPAMENTOS ENQUADRADAS EM SERVIÇO DE ENGENHARIA**<br>
-<br>
+**DAS MANUTENÇÕES DE EQUIPAMENTOS ENQUADRADAS EM SERVIÇO DE ENGENHARIA**
 
 [(Redação dada pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295100#2295100)
 
@@ -7299,14 +7309,13 @@ CAPÍTULO XI<br>
 
 **~~Parágrafo único.~~** ~~O critério de adjudicação deverá ser preferencialmente por item, devendo ser justificado nos autos a adjudicação por lote.~~ [(Revogado pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295158#2295158)
 
-**Capítulo VIII**<br>
+**Capítulo VIII**
 
-**DA ADOÇÃO DE INOVAÇÕES E TECNOLOGIAS PARA A CONTRATAÇÃO DE OBRAS E SERVIÇOS DE ARQUITETURA E ENGENHARIA**<br>
-<br>
+**DA ADOÇÃO DE INOVAÇÕES E TECNOLOGIAS PARA A CONTRATAÇÃO DE OBRAS E SERVIÇOS DE ARQUITETURA E ENGENHARIA**
 
 [(Redação dada pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295100#2295100)
 
-**Seção I**<br>
+**Seção I**
 
 **Do Building Information Modeling - BIM**
 
@@ -7494,7 +7503,7 @@ CAPÍTULO XI<br>
 
 **Art. 526.** Além do disposto neste Regulamento, deverão ser observadas as instruções contidas no Decreto nº 3.080 de 15 de outubro de 2019, e normas técnicas que dispuserem sobre a aplicação da metodologia BIM.
 
-**Seção II**<br>
+**Seção II**
 
 **Do Sistema Informatizado de Acompanhamento de Obras**
 
@@ -7506,7 +7515,7 @@ CAPÍTULO XI<br>
 
 **§ 3º** Os responsáveis pelo acompanhamento das obras deverão anexar ao Relatório de Vistoria de Obras, ou outro instrumento de acompanhamento do contrato, fotografias atualizadas e disponibilizá-las no sítio eletrônico do órgão ou entidade contratante de forma que se possa certificar a regular execução contratual.
 
-**Seção III**<br>
+**Seção III**
 
 **Dos Instrumentos de Medição de Resultados para Serviços de Arquitetura e Engenharia**
 
@@ -7578,13 +7587,13 @@ CAPÍTULO XI<br>
 
 **IV -** interação com a fiscalização e outros profissionais.
 
-**Capítulo X**<br>
+**Capítulo X**
 
 **DAS OBRAS E SERVIÇOS DE ENGENHARIA DE GRANDE VULTO**
 
 [(Redação dada pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295100#2295100)
 
-**Seção I**<br>
+**Seção I**
 
 **Do Programa de Integridade**
 
@@ -7624,13 +7633,15 @@ CAPÍTULO XI<br>
 
 **Parágrafo único.** Os preços a serem praticados nas licitações e contratos de que trata o caput deste artigo deverão ser os de mercado, entendidos estes como aqueles custos provenientes das tabelas referenciais acrescido de BDI, ou de outras formas previstas nos incisos II a IV do art. 471 deste Regulamento.
 
-**TÍTULO IV**<br>
+**TÍTULO IV**
 
-**CAPÍTULO I<br>
-DOS BENS IMÓVEIS<br>
+**CAPÍTULO I
+
+DOS BENS IMÓVEIS
+
 **
 
-**Seção I**<br>
+**Seção I**
 
 **Aquisição de Imóveis**
 
@@ -7678,7 +7689,7 @@ DOS BENS IMÓVEIS<br>
 
 **III -** cadastro, controle e contabilização dos diferentes direitos sobre os bens imóveis adquiridos pelo Estado.
 
-**Seção II**<br>
+**Seção II**
 
 **Da Compra**
 
@@ -7706,7 +7717,7 @@ DOS BENS IMÓVEIS<br>
 
 **Art. 544.** A Secretaria de Estado responsável pela gestão do patrimônio do Estado do Paraná poderá regulamentar procedimentos para a aquisição de bens imóveis mediante compra.
 
-**Seção III**<br>
+**Seção III**
 
 **Da Doação**
 
@@ -7724,7 +7735,7 @@ DOS BENS IMÓVEIS<br>
 
 **Art. 548.** A Secretaria de Estado responsável pela gestão do patrimônio do Estado do Paraná poderá regulamentar procedimentos para a aquisição gratuita de bens imóveis.
 
-**Seção IV**<br>
+**Seção IV**
 
 **Da Sucessão por Extinção de Entidades da Administração Pública Estadual**
 
@@ -7752,7 +7763,7 @@ DOS BENS IMÓVEIS<br>
 
 **Art. 551.** Eventuais débitos fiscais e demais encargos incidentes sobre o imóvel transferido ao Estado por sucessão de entidade da Administração Pública Estadual não impedem a sua aquisição, devendo ser informado à Procuradoria-Geral do Estado.
 
-**Seção V**<br>
+**Seção V**
 
 **Usucapião**
 
@@ -7770,7 +7781,7 @@ DOS BENS IMÓVEIS<br>
 
 **Parágrafo único.** O processo deverá ser encaminhado à Procuradoria Geral do Estado, para distribuição à unidade com atuação perante o foro da situação do imóvel usucapiendo.
 
-**Seção VI**<br>
+**Seção VI**
 
 **Da Determinação Judicial**
 
@@ -7784,7 +7795,7 @@ DOS BENS IMÓVEIS<br>
 
 **Art. 556.** A eventual alienação de bens incorporados via dação em pagamento ou procedimentos judiciais, dispensa lei autorizatória, podendo ser autorizado por ato da autoridade competente.
 
-**Seção VII**<br>
+**Seção VII**
 
 **Da Desapropriação**
 
@@ -7808,7 +7819,7 @@ DOS BENS IMÓVEIS<br>
 
 **Art. 560.** Havendo discordância do expropriado com o valor da avaliação, a Procuradoria-Geral do Estado tratará das medidas judiciais cabíveis, que não impedem a antecipada imissão da posse do Estado sobre o bem desapropriado.
 
-**Seção VIII**<br>
+**Seção VIII**
 
 **Reversão**
 
@@ -7824,7 +7835,7 @@ DOS BENS IMÓVEIS<br>
 
 **Art. 563.** Autorizada a reversão, deverão proceder-se às averbações cartoriais decorrentes, bem como as anotações no sistema próprio da Secretaria responsável pela gestão do patrimônio do Estado.
 
-**Seção IX**<br>
+**Seção IX**
 
 **Permuta de Imóveis**
 
@@ -7960,7 +7971,7 @@ DOS BENS IMÓVEIS<br>
 
 **Art. 575.** As permutas de imóveis da Administração Pública estadual poderão ser realizadas com a entrega, por parte da Administração, de um ou mais imóveis e com o recebimento de um ou mais imóveis de terceiro, desde que os valores das respectivas avaliações sejam equivalentes e exista interesse do requerente na aquisição de mais de um imóvel, previamente definido nos elementos técnicos instrutores.
 
-**Subseção I**<br>
+**Subseção I**
 
 **Disposições Especiais**
 
@@ -8002,11 +8013,11 @@ DOS BENS IMÓVEIS<br>
 
 **Art. 581.** O Titular da Pasta responsável pela gestão do patrimônio do Estado do Paraná poderá editar normas regulamentares, com vistas a melhor execução deste Regulamento.
 
-**CAPÍTULO II**<br>
+**CAPÍTULO II**
 
 **LOCAÇÕES**
 
-**Seção I**<br>
+**Seção I**
 
 **Disposições Gerais**
 
@@ -8052,7 +8063,7 @@ DOS BENS IMÓVEIS<br>
 
 **~~§ 3º~~** ~~O demonstrativo dos cálculos será publicado na Imprensa Oficial do Estado, no prazo de até 20 (vinte) dias de sua aprovação.~~ [(Revogado pelo Decreto 7389 de 23/09/2024)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=339027&codItemAto=2141712#2141712)
 
-**Seção II**<br>
+**Seção II**
 
 **Procedimentos**
 
@@ -8148,7 +8159,7 @@ DOS BENS IMÓVEIS<br>
 
 **Art. 592.** Nenhum pagamento será efetuado antes da publicação dos extratos da dispensa ou inexigibilidade de licitação e/ou do contrato no Diário Oficial do Estado do Paraná.
 
-**Seção III**<br>
+**Seção III**
 
 **Alterações Contratuais e Termos Aditivos**
 
@@ -8178,7 +8189,7 @@ DOS BENS IMÓVEIS<br>
 
 **II -** manifestação jurídica sobre a adequação jurídica da minuta do termo aditivo.
 
-**Seção IV**<br>
+**Seção IV**
 
 **Término da Locação, Indenização e Despesas Extraordinárias**
 
@@ -8220,7 +8231,7 @@ DOS BENS IMÓVEIS<br>
 
 **VII -** constituição de fundo de reserva.
 
-**Seção V**<br>
+**Seção V**
 
 **Disposições Especiais**
 
@@ -8232,7 +8243,7 @@ DOS BENS IMÓVEIS<br>
 
 **Art. 607.** Enquanto não aprovados os novos modelos de formulários e termos aditivos, a Secretaria de Estado responsável pela gestão do patrimônio do Estado do Paraná poderá editar ato permitindo a utilização daqueles constantes no Manual de Procedimentos para Locações de Imóveis, aprovado pelo Decreto nº 3.540 de 29 de novembro de 2019, no que não for contrário às normas do presente Regulamento. [(Redação dada pelo Decreto 7389 de 23/09/2024)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=339027&codItemAto=2141642#2141642)
 
-**Capítulo III**<br>
+**Capítulo III**
 
 **LOCAÇÃO SOB DEMANDA**
 
@@ -8276,7 +8287,7 @@ DOS BENS IMÓVEIS<br>
 
 **Parágrafo único.** As regras do Capítulo II do Título IV deste Decreto aplicam-se, no que couber, às locações sob demanda. [(Incluído pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295108#2295108)
 
-**Capítulo IV**<br>
+**Capítulo IV**
 
 **ALIENAÇÃO E CONCESSÃO DE DIREITO REAL DE USO**
 
@@ -8332,11 +8343,11 @@ DOS BENS IMÓVEIS<br>
 
 **Art. 611.** A concessão de Direito Real de Uso requer prévia autorização legislativa e licitação, ressalvados os casos de dispensa e inexigibilidade de licitação.
 
-**Seção I**<br>
+**Seção I**
 
 **Da Alienação de Imóveis**
 
-**Subseção I**<br>
+**Subseção I**
 
 **Venda**
 
@@ -8402,7 +8413,7 @@ DOS BENS IMÓVEIS<br>
 
 **§ 4º** Excepcionalmente os leilões de que tratam os incisos I e II do art. 613 deste Regulamento poderão ser realizados sob a forma presencial se comprovada inviabilidade técnica ou desvantagem para a Administração, hipótese em que serão indicados o local, o dia e a hora de sua realização.
 
-**Subseção II**<br>
+**Subseção II**
 
 **Da Doação de Imóveis do Patrimônio Estadual**
 
@@ -8420,7 +8431,7 @@ DOS BENS IMÓVEIS<br>
 
 **Art. 618.** Compete ao Titular da Secretaria de Estado responsável pela gestão do patrimônio do Estado do Paraná ou ao Titular da entidade da administração indireta, conforme o caso, firmar a escritura pública de doação.
 
-**Seção II**<br>
+**Seção II**
 
 **Alienação de Móveis**
 
@@ -8434,11 +8445,11 @@ DOS BENS IMÓVEIS<br>
 
 **Art. 620.** A alienação de bens móveis da Administração Pública do Estado do Paraná, subordinada à existência de interesse público devidamente justificado, observado o disposto no inc. II do art. 610 deste Regulamento será precedida de avaliação e dependerá de licitação na modalidade leilão.
 
-**Capítulo V**<br>
+**Capítulo V**
 
 **AUTORIZAÇÃO, PERMISSÃO E CONCESSÃO DE USO DE BENS PÚBLICOS**
 
-**Seção I**<br>
+**Seção I**
 
 **Disposições Gerais**
 
@@ -8460,7 +8471,7 @@ DOS BENS IMÓVEIS<br>
 
 **§ 3º** O uso privativo de bens públicos é aquele que o Chefe do Poder Executivo ou a autoridade máxima da entidade confere justificadamente, mediante título jurídico individual, a pessoa ou grupo de pessoas determinadas, para que o exerçam, temporariamente e com exclusividade, em prol de atividades públicas ou de relevante interesse público ou social.
 
-**Seção II**<br>
+**Seção II**
 
 **Do Uso Privativo**
 
@@ -8478,7 +8489,8 @@ DOS BENS IMÓVEIS<br>
 
 **Art. 629.** O uso privativo de bem público será precedido de avaliação prévia, autorização legislativa e procedimento licitatório, ressalvados os casos de dispensa e inexigibilidade de licitação.
 
-**Seção III**<br>
+**Seção III**
+
                             **Das Formas de Outorga do Uso de Bem Público**
 
 **Art. 630.** O uso privativo de bens públicos por terceiros operar-se-á por intermédio dos seguintes institutos de direito público:
@@ -8543,7 +8555,7 @@ DOS BENS IMÓVEIS<br>
 
 **Art. 641.** A Administração poderá conceder título de propriedade ou de direito real de uso de imóvel, admitida a dispensa de licitação, quando o uso se destinar a outro órgão ou entidade da Administração Pública, qualquer que seja a localização do imóvel.
 
-**Seção IV**<br>
+**Seção IV**
 
 **Disposições Especiais**
 
@@ -8555,7 +8567,7 @@ DOS BENS IMÓVEIS<br>
 
 **Art. 645.** A Secretaria de Estado responsável pela gestão do patrimônio do Estado do Paraná poderá regulamentar os procedimentos referentes à cessão, à permissão e à concessão de uso de bens públicos.
 
-**Título V**<br>
+**Título V**
 
 **Da Tecnologia da Informação e de Comunicação**
 
@@ -8569,7 +8581,7 @@ DOS BENS IMÓVEIS<br>
 
 **Parágrafo único.** O planejamento da contratação, incluindo os estudos técnicos preliminares e termo de referência, será conduzido pelo setor de TIC em conjunto com as áreas demandantes e interessadas, a partir dos levantamentos das demandas dos potenciais usuários do bem ou serviço, projetos similares e soluções existentes.
 
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
 
 **DO ESTUDO TÉCNICO PRELIMINAR**
 
@@ -8637,11 +8649,11 @@ DOS BENS IMÓVEIS<br>
 
 **~~§ 2º~~** ~~Nas contratações de que tratam os incisos II e VIII do art. 75 da Lei Federal n.º 14.133, de 2021, devem ser observadas as exigências contidas nos incisos I, II e VII do caput e IX do §1º do art. 15 deste Regulamento, sendo facultado o tratamento dos demais requisitos, observando-se, na maior medida possível, o alinhamento com o planejamento estratégico, plano de contratações anual e PDTI.~~ [(Revogado pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295159#2295159)
 
-**Capítulo II**<br>
+**Capítulo II**
 
 **DO TERMO DE REFERÊNCIA PARA CONTRATAÇÃO DE SOLUÇÕES EM TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO**
 
-**Seção I**<br>
+**Seção I**
 
 **Das Regras Gerais para a Elaboração de Termo de Referência para Contratação de Soluções em Tecnologia da Informação E Comunicação**
 
@@ -8651,7 +8663,7 @@ DOS BENS IMÓVEIS<br>
 
 **~~§ 2º~~** ~~Concluído o termo de referência, o procedimento de contratação será submetido ao CETIC-PR, para os fins do art. 6º da Lei n.º 17.480, de 2013.~~ [(Revogado pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295161#2295161)
 
-**Subseção I**<br>
+**Subseção I**
 
 **Dos Requisitos da Contratação**
 
@@ -8713,7 +8725,7 @@ DOS BENS IMÓVEIS<br>
 
 **~~VIII -~~** ~~Indicar encarregado pelo tratamento de dados pessoais.~~ [(Revogado pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295163#2295163)
 
-**Subseção II**<br>
+**Subseção II**
 
 **Do Modelo de Execução do Objeto**
 
@@ -8757,7 +8769,7 @@ DOS BENS IMÓVEIS<br>
 
 **§ 5º** O prazo a que se refere o § 4º deste artigo, quando se tratar de alteração no curso da execução contratual, depende de prévia comunicação formal do contratante ao contratado, que deve ser acompanhada das normas, processos e procedimentos atualizados. [(Incluído pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295111#2295111)
 
-**Subseção III**<br>
+**Subseção III**
 
 **Do Modelo de Gestão do Contrato de TIC**
 
@@ -8773,7 +8785,7 @@ DOS BENS IMÓVEIS<br>
 
 **~~V -~~** ~~garantia de inspeções e diligências, quando aplicáveis, e suas formas de exercício.~~ [(Revogado pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295164#2295164)
 
-**Subseção IV**<br>
+**Subseção IV**
 
 **Critérios de medição e de pagamento**
 
@@ -8787,7 +8799,7 @@ DOS BENS IMÓVEIS<br>
 
 **§ 4º** A exceção constante no §3º deste artigo não impede a utilização de modelo remuneratório híbrido, hipótese em que o pagamento pode ser fruto da quantidade de postos de trabalho ou de horas trabalhadas em conjunto com o alcance de níveis de serviços de que trata o §1º deste artigo.
 
-**Subseção V**<br>
+**Subseção V**
 
 **Das Estimativas do valor da contratação**
 
@@ -8809,7 +8821,7 @@ DOS BENS IMÓVEIS<br>
 
 **§ 4º** Para a elaboração da tabela oficial de que trata o caput deste artigo a Comissão poderá ser assessorada por técnicos profissionais especializados de outros órgãos ou entidades da Administração Pública estadual ou contratados para essa finalidade.
 
-**Capítulo III**<br>
+**Capítulo III**
 
 **DO PROCESSO DE GESTÃO ESTRATÉGICA DAS CONTRATAÇÕES DE SOLUÇÕES BASEADAS EM SOFTWARE DE USO DISSEMINADO**
 
@@ -8847,7 +8859,7 @@ DOS BENS IMÓVEIS<br>
 
 **§ 8º** As diretrizes expostas no caput deste artigo e as regras delas decorrentes não se aplicam às soluções de TIC baseadas em softwares de uso disseminado que já estejam contratadas por órgãos ou entidades do Estado do Paraná, ressalvada a possibilidade de aplicação na análise da viabilidade e vantajosidade da prorrogação no caso de serviços ou fornecimentos contínuos.
 
-**Título I**<br>
+**Título I**
 
 **DAS CONTRATAÇÕES DE SOLUÇÕES INOVADORAS**
 
@@ -8859,11 +8871,11 @@ DOS BENS IMÓVEIS<br>
 
 **~~Art. 660.~~** ~~A contratação da solução inovadora, ainda que prevista no plano de contratações anual do órgão ou entidade, poderá ser dispensada caso a evolução do projeto demonstre a inviabilidade tecnológica de algum componente, o cenário de disponibilidade de alternativas se altere com a introdução de nova tecnologia mais inovadora, ou ainda as variáveis macroeconômicas tornem a viabilidade econômica e financeira do projeto menos vantajosas para a administração pública ou para os demais participantes.~~ [(Revogado pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295168#2295168)
 
-**Título VII**<br>
+**Título VII**
 
 **DOS CONVÊNIOS E TERMOS DE COOPERAÇÃO**
 
-**Capítulo I**<br>
+**Capítulo I**
 
 **DAS DISPOSIÇÕES GERAIS**
 
@@ -8893,7 +8905,7 @@ DOS BENS IMÓVEIS<br>
 
 **V -** responsabilidade dos partícipes limitada às obrigações contraídas durante o ajuste.
 
-**Capítulo II**<br>
+**Capítulo II**
 
 **DA CELEBRAÇÃO**
 
@@ -8981,7 +8993,7 @@ que acarrete transferência voluntária de recursos aos municípios, nos três m
 
 **~~Art. 671.~~** ~~É defeso aos órgãos e entidades de que trata o caput do art. 1.º deste Regulamento firmar convênio com entidades, ainda que públicas, com o escopo de transferir ao conveniado a obrigação de realizar obras ou serviços de engenharia e/ou arquitetura em que a atividade é de competência do Estado.~~ [(Revogado pelo Decreto 4967 de 23/02/2024)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=320439&codItemAto=2029608#2029608)
 
-**Capítulo III**<br>
+**Capítulo III**
 
 **DO CHAMAMENTO PÚBLICO PARA CELEBRAÇÃO DE AJUSTES COM ENTIDADES PRIVADAS**
 
@@ -9083,7 +9095,7 @@ que acarrete transferência voluntária de recursos aos municípios, nos três m
 
 **§ 7º** Poderão ser criadas tanto uma comissão de seleção para cada edital quanto uma comissão permanente para todo os editais, desde que, no segundo caso, seja constituída por prazo não superior a 12 (doze) meses.
 
-**Capítulo IV**<br>
+**Capítulo IV**
 
 **DA INSTRUÇÃO PROCESSUAL**
 
@@ -9167,7 +9179,7 @@ que acarrete transferência voluntária de recursos aos municípios, nos três m
 
 **§ 4º** O preço de referência a que se refere o §1º deste artigo deverá ser obtido na forma dos arts. 484 a 486 e 500, considerando a data-base de elaboração do orçamento de referência da Administração. [(Redação dada pelo Decreto 10370 de 18/06/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=363561&codItemAto=2295122#2295122)
 
-**Capítulo V**<br>
+**Capítulo V**
 
 **DO PLANO DE TRABALHO**
 
@@ -9229,7 +9241,7 @@ que acarrete transferência voluntária de recursos aos municípios, nos três m
 
 **Parágrafo único.** A apresentação de projeto básico completo poderá ser dispensada quando uma das metas do ajuste envolver o desenvolvimento do próprio projeto básico, o que apenas será possível quando houver no plano de trabalho elementos suficientes que permitam aferir os custos do empreendimento, por meio das metodologias expedida, paramétrica ou da técnica do orçamento sintético.
 
-**Capítulo VI**<br>
+**Capítulo VI**
 
 **DA MINUTA DE CONVÊNIO E TERMO DE COOPERAÇÃO**
 
@@ -9319,16 +9331,17 @@ que acarrete transferência voluntária de recursos aos municípios, nos três m
 
 **b)** servidor público vinculado ao Poder Executivo do concedente dos recursos ou do Legislativo Municipal ou Estadual, conforme o caso, bem como seus respectivos cônjuges, companheiros e parentes em linha reta, colateral ou por afinidade até o 3º grau, salvo se comprovada a inexistência de conflito com o interesse público. [(Redação dada pelo Decreto 7389 de 23/09/2024)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=339027&codItemAto=2141656#2141656)
 
-**Capítulo VII**<br>
+**Capítulo VII**
 
 **DA PUBLICIDADE**
 
 **Art. 686.** É condição de eficácia dos instrumentos a publicação do respectivo extrato no Diário Oficial do Estado e no sítio eletrônico oficial do órgão ou entidade da Administração Pública estadual, que será providenciada pelo concedente, no prazo de até 20 (vinte) dias a contar de sua assinatura.
 
-**Capítulo VIII**<br>
+**Capítulo VIII**
+
 **DO REPASSE DE RECURSOS E DA MOVIMENTAÇÃO FINANCEIRA**
 
-<br> 
+ 
 
 **Art. 687.** A liberação de recursos financeiros deve obedecer ao cronograma de desembolso previsto no plano de trabalho e guardar consonância com as fases ou etapas de execução do objeto do ato de transferência voluntária.
 
@@ -9368,7 +9381,7 @@ que acarrete transferência voluntária de recursos aos municípios, nos três m
 
 **~~Parágrafo único.~~** ~~Para determinação do saldo a ser restituído, a comprovação das despesas ocorrerá, primeiramente, sobre o montante da contrapartida financeira.~~ [(Revogado pelo Decreto 7389 de 23/09/2024)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=339027&codItemAto=2141714#2141714)
 
-**Capítulo IX**<br>
+**Capítulo IX**
 
 **DA EXECUÇÃO**
 
@@ -9396,7 +9409,7 @@ que acarrete transferência voluntária de recursos aos municípios, nos três m
 
 **Art. 696.** As entidades privadas, na aplicação dos recursos públicos provenientes do convênio, deverão promover contratações e aquisições com observância aos princípios constantes do art. 5º, da Lei Federal nº 14.133, de 2021.
 
-**Capítulo X**<br>
+**Capítulo X**
 
 **DA GESTÃO E FISCALIZAÇÃO DO CONVÊNIO E DO TERMO DE COOPERAÇÃO**
 
@@ -9484,7 +9497,7 @@ que acarrete transferência voluntária de recursos aos municípios, nos três m
 
 **§ 2º** O concedente deverá comunicar à Controladoria Geral do Estado do Paraná qualquer irregularidade indicada no caput deste artigo, e à Procuradoria Geral do Estado e ao Ministério Público competente quando detectada indícios de crime ou ato de improbidade administrativa.
 
-**CAPÍTULO XI**<br>
+**CAPÍTULO XI**
 
 **DOS TERMOS ADITIVOS**
 
@@ -9528,7 +9541,7 @@ que acarrete transferência voluntária de recursos aos municípios, nos três m
 
 **§ 2º** As alterações que não impliquem aumento de repasse de verba pela entidade concedente poderão prescindir das condições previstas nos incisos II, III, IV, V, VI, VII, X, XI, XII e XIII deste artigo.
 
-**CAPÍTULO XII**<br>
+**CAPÍTULO XII**
 
 **DO SALDO E DA RECEITA FINANCEIRA**
 
@@ -9540,7 +9553,7 @@ que acarrete transferência voluntária de recursos aos municípios, nos três m
 
 **§ 2º** Se os partícipes optaram por não utilizar o saldo, no caso de a partida e contrapartida tenham sido efetuadas em recursos financeiros, este deve ser devolvido de forma proporcional aos convenentes.
 
-**CAPÍTULO XIII**<br>
+**CAPÍTULO XIII**
 
 **DA EXTINÇÃO DO CONVÊNIO**
 
@@ -9564,7 +9577,7 @@ que acarrete transferência voluntária de recursos aos municípios, nos três m
 
 **V -** dano ao erário, exceto se houver devolução dos recursos devidamente corrigidos, sem prejuízo da continuidade da apuração, por procedimentos administrativos próprios, quando identificadas outras irregularidades decorrentes do ato praticado.
 
-**CAPÍTULO XIV**<br>
+**CAPÍTULO XIV**
 
 **DA PRESTAÇÃO DE CONTAS**
 
@@ -9578,11 +9591,11 @@ que acarrete transferência voluntária de recursos aos municípios, nos três m
 
 **Art. 715.** Constatada irregularidade ou inadimplência na apresentação da prestação de contas e na comprovação de resultados, a administração pública estadual adotará as providências administrativas preliminares previstas no art. 194 da Lei nº 20.656, de 3 de agosto de 2021. [(Redação dada pelo Decreto 7389 de 23/09/2024)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=339027&codItemAto=2141659#2141659)
 
-**TÍTULO VIII**<br>
+**TÍTULO VIII**
 
 **DOS MEIOS ALTERNATIVOS DE PREVENÇÃO E RESOLUÇÃO DE CONTROVÉRSIAS**
 
-**Seção I**<br>
+**Seção I**
 
 **Orientações Gerais**
 
@@ -9600,7 +9613,7 @@ que acarrete transferência voluntária de recursos aos municípios, nos três m
 
 **~~Parágrafo único.~~** ~~Quando não se fizer necessário o aditamento, as partes poderão se valer de mecanismos alternativos de resolução de controvérsias independentemente de previsão contratual.~~ [(Revogado pelo Decreto 10499 de 02/07/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=364457&codItemAto=2302631#2302631)
 
-**Seção II**<br>
+**Seção II**
 
 **Da Conciliação e Mediação**
 
@@ -9622,7 +9635,7 @@ que acarrete transferência voluntária de recursos aos municípios, nos três m
 
 **~~§ 4º~~** ~~Após o término do procedimento, os atos poderão ser publicizados, respeitando-se os momentos de confidencialidade e os limites legais de compartilhamento de dados.~~ [(Revogado pelo Decreto 10499 de 02/07/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=364457&codItemAto=2302633#2302633)
 
-**Seção III**<br>
+**Seção III**
 
 **Do Comitê de Prevenção e Resolução de Disputas**
 
@@ -9650,7 +9663,7 @@ que acarrete transferência voluntária de recursos aos municípios, nos três m
 
 **~~Art. 725.~~** ~~A Procuradoria Geral do Estado Poderá elaborar modelo padronizado de cláusula contratual de Comitê de Prevenção e Resolução de Disputas.~~ [(Revogado pelo Decreto 10499 de 02/07/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=364457&codItemAto=2302639#2302639)
 
-**Seção IV**<br>
+**Seção IV**
 
 **Da Arbitragem**
 
@@ -9682,9 +9695,10 @@ que acarrete transferência voluntária de recursos aos municípios, nos três m
 
 **~~Parágrafo único.~~** ~~A Procuradoria Geral do Estado poderá estabelecer outras condições para a aplicação da arbitragem.~~ [(Revogado pelo Decreto 10499 de 02/07/2025)](https://www.legislacao.pr.gov.br/legislacao/listarAtosAno.do?action=exibir&codAto=364457&codItemAto=2302641#2302641)
 
-**TÍTULO IX**<br>
+**TÍTULO IX**
 
-**DISPOSIÇÕES FINAIS E TRANSITÓRIAS**<br>
+**DISPOSIÇÕES FINAIS E TRANSITÓRIAS**
+
 **CAPÍTULO I**
 
 **Art. 728.** Este Regulamento não se aplica aos instrumentos de quaisquer espécies celebrados antes do dia 1º de abril de 2021.
@@ -9727,11 +9741,14 @@ que acarrete transferência voluntária de recursos aos municípios, nos três m
 
 Curitiba, em 17 de janeiro de 2022, 201° da Independência e 134° da República.
 
-_Carlos Massa Ratinho Junior<br>
+_Carlos Massa Ratinho Junior
+
 Governador do Estado_
 
-_João Carlos Ortega<br>
+_João Carlos Ortega
+
 Chefe da Casa Civil_
 
-_Letícia Ferreira da Silva<br>
+_Letícia Ferreira da Silva
+
 Procuradora-Geral do Estado_

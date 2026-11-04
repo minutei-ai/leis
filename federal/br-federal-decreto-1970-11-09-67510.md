@@ -1,5 +1,3 @@
-###DEC-067510-0-000-09-11-1970@@@
-
 DECRETO Nº 67.510, DE 9 DE NOVEMBRO DE 1970.
 
 Autoriza o funcionamento da Escola Superior de Educação Física da Alta Paulista, SP.

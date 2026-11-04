@@ -1,5 +1,3 @@
-###DEL-009201-0-000-26-04-1946@@@
-
 DECRETO-LEI N. 9.201 – DE 26 DE ABRIL DE 1946
 
 Altera disposições dos Decretos-leis ns. 6.419. de 13 de Abril de 1944, e 8.493, de 28 de Dezembro de 1945, que regulam operações da Caixa de Mobilização Bancária.

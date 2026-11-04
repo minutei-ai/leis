@@ -1,5 +1,3 @@
-###DEC-091392-0-000-02-07-1985@@@
-
 Decreto nº 91.392, de 02 de julho de 1985
 
 Altera a constituição da Comissão Brasileira de Atividades Espaciais (COBAE) e dá nova redação a dispositivos do Regulamento aprovado pelo Decreto nº 76.596, de 14 de novembro de 1975.

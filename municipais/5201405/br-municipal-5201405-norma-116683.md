@@ -8,8 +8,10 @@ Art. 1º - Fica denominada “U.B.S MARIA DA GLÓRIA COSTA VIEIRA” a Unidade B
 
 Art. 2º - Esta Lei entrará em vigor na data de sua publicação. Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 14 de agosto de 2017.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil

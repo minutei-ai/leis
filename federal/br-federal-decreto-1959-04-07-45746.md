@@ -1,5 +1,3 @@
-###DEC-045746-0-000-07-04-1959@@@
-
 DECRETO Nº 45.746, DE 7 DE ABRIL DE 1959.
 
 Altera artigo do Regulamento baixado e mandado executar pelo Decreto nº 35.187, de 11 de março de 1954.

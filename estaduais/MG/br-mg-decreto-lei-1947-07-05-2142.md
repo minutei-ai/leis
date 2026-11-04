@@ -41,7 +41,3 @@ Art. 10 - Este Decreto-lei entrará em vigor na data de sua publicação, revoga
 Palácio da Liberdade, em Belo Horizonte, 5 de julho de 1947.
 
 MILTON SOARES CAMPOS - Governador do Estado.
-
-\================================================================
-
-Data da última atualização: 09/11/2007

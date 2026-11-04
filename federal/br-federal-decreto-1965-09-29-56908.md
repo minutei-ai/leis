@@ -1,5 +1,3 @@
-###DEC-056908-0-000-29-09-1965@@@
-
 DECRETO Nº 56.908, DE 29 DE SETEMBRO DE 1965.
 
 Acrescenta parágrafos ao art. 8º do Regulamento do Pessoal do Ministério das Relações Exteriores, aprovado pelo Decreto nº 2, de 21 de setembro de 1961.

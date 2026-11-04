@@ -1,5 +1,3 @@
-###DEC-070799-0-000-05-07-1972@@@
-
 Decreto nº 70.799, de 5 de julho de 1972.
 
 Concede reconhecimento à Faculdade de Ciências Contábeis- Salvador - BA.

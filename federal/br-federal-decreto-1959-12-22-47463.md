@@ -1,5 +1,3 @@
-###DEC-047463-0-000-22-12-1959@@@
-
 DECRETO Nº 47.463, DE 22 DE DEZEMBRO DE 1959.
 
 Concede à safra de agave ou sisal de 1959/60, de produção nacional, a garantia de preços mínimos.

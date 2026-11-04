@@ -1,5 +1,3 @@
-###DEC-084082-0-000-15-10-1979@@@
-
 decreto nº 84.082, de 15 de outubro de 1979.
 
 Concede autorização à empresa CELULOSE NIPO-BRASILEIRA S/A. - CENIBRA, com sede no Estado de Minas Gerais, para o funcionamento aos domingos e feriados civis e religiosos na sua fábrica de Celulose - situada à margem do Km 236 da BR-381, distrito de Cachoeira Escura, Município de Belo Oriente, naquele Estado.

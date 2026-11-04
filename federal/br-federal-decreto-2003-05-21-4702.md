@@ -1,5 +1,3 @@
-###DEC-004702-0-000-21-05-2003@@@
-
 [DECRETO Nº 4.702, DE 21 DE MAIO DE 2003.](http://legislacao.planalto.gov.br/legislacao.nsf/Viw_Identificacao/DEC%204.702-2003?OpenDocument)
 
        Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos da América Relativo à Cooperação entre suas Autoridades de Defesa da Concorrência na Aplicação de suas Leis de Concorrência.
@@ -22,7 +20,8 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 21 de maio de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Samuel Pinheiro Guimarães Neto
 
         Acordo entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos da América Relativo à Cooperação entre suas Autoridades de Defesa da Concorrência na Aplicação de suas Leis de Concorrência
@@ -165,4 +164,16 @@ Entrada em Vigor e Denúncia
 
         Feito em Washington, em 26 de outubro de 1999, nos idiomas português e inglês, cada texto sendo igualmente autêntico.
 
-<table cellspacing="0" cellpadding="0" style="width:459pt; margin-bottom:0pt"><tbody><tr style="height:30pt"><td style="width:222pt; padding:3pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República Federativa do Brasil</span><br><span style="font-size:10pt">José Carlos Dias</span><br><span style="font-size:10pt">Ministro da Justiça</span></p></td><td style="width:213pt; padding:3pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Pelo Governo dos Estados Unidos da América</span><br><span style="font-size:10pt">Janet Reno</span><br><span style="font-size:10pt">Procuradora Geral</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="width:459pt; margin-bottom:0pt"><tbody><tr style="height:30pt"><td style="width:222pt; padding:3pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil
+José Carlos Dias
+Ministro da Justiça
+
+</td><td style="width:213pt; padding:3pt; vertical-align:top">
+
+Pelo Governo dos Estados Unidos da América
+Janet Reno
+Procuradora Geral
+
+</td></tr></tbody></table>

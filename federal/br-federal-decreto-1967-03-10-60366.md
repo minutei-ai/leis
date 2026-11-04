@@ -1,5 +1,3 @@
-###DEC-060366-0-000-10-03-1967@@@
-
 DECRETO Nº 60.366, de 10 de março de 1967.
 
 Dispõe sôbre a competência para fixar a retribuição financeira dos Membros do Conselho Superior e dos Conselhos Administrativos das Caixas Econômicas Federais.

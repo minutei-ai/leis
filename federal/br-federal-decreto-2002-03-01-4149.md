@@ -1,5 +1,3 @@
-###DEC-004149-0-000-01-03-2002@@@
-
 DECRETO nº 4.149, de 1º DE MARÇO DE 2002.
 
 Altera e acresce dispositivo ao Decreto nº 3.737, de 30 de janeiro de 2001, que dispõe a regularização do Fundo para o Desenvolvimento Tecnológico das Telecomunicações – Funttel, e dá outras providências.

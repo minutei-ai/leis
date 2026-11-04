@@ -1,12 +1,12 @@
 > **LEI Nº 3.108, DE 29 DE DEZEMBRO DE 2015**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei n. 2.250, de 21 de dezembro de 2009, que “Dispõe sobre o Plano de Cargos, Carreiras e Remuneração dos servidores da Polícia Civil do Estado do Acre..</span></span></span></p></td></tr></tbody></table>
+Altera a Lei n. 2.250, de 21 de dezembro de 2009, que “Dispõe sobre o Plano de Cargos, Carreiras e Remuneração dos servidores da Polícia Civil do Estado do Acre..
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
 **FAÇO SABER** que a Assembleia Legislativa do Estado do Acre decreta e eu sanciono a seguinte Lei:
 
-**Art.** **1****º** **Os arts. 19-A e 37-A, da Lei** **n. 2.250, de 21 de dezembro de 2009, passam a vigorar com a seguinte redação:**
+**Art.** **1º** **Os arts. 19-A e 37-A, da Lei** **n. 2.250, de 21 de dezembro de 2009, passam a vigorar com a seguinte redação:**
 
 **“Art. 19-A ...**
 
@@ -40,6 +40,28 @@ Governador do Estado do Acre
 
 **Tabela de Reenquadramento**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>Tempo de efetivo serviço na Polícia Civil do Estado do Acre</span></strong></span></p></td><td><p><span><strong><span>Classe/Referência a ser reenquadrado</span></strong></span></p></td></tr><tr><td><p><span><span>28 anos completos ou mais</span></span></p></td><td><p><span><span>Classe Especial – Referência 3</span></span></p></td></tr><tr><td><p><span><span>26 anos completos a 28 anos incompletos</span></span></p></td><td><p><span><span>Classe Especial – Referência 2</span></span></p></td></tr><tr><td><p><span><span>24 anos completos a 26 anos incompletos</span></span></p></td><td><p><span><span>Classe Especial – Referência 1</span></span></p></td></tr><tr><td><p><span><span>22 anos completos a 24 anos incompletos</span></span></p></td><td><p><span><span>Classe IV – Referência 3</span></span></p></td></tr><tr><td><p><span><span>20 anos completos a 22 anos incompletos</span></span></p></td><td><p><span><span>Classe IV – Referência 2</span></span></p></td></tr></tbody></table>
+**Tempo de efetivo serviço na Polícia Civil do Estado do Acre**
+
+**Classe/Referência a ser reenquadrado**
+
+28 anos completos ou mais
+
+Classe Especial – Referência 3
+
+26 anos completos a 28 anos incompletos
+
+Classe Especial – Referência 2
+
+24 anos completos a 26 anos incompletos
+
+Classe Especial – Referência 1
+
+22 anos completos a 24 anos incompletos
+
+Classe IV – Referência 3
+
+20 anos completos a 22 anos incompletos
+
+Classe IV – Referência 2
 
                                                                                                                                             ”(NR)

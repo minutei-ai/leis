@@ -1,5 +1,3 @@
-###DEC-083517-0-000-29-05-1979@@@
-
 Decreto nº 83.517, de 29 de maio de 1979.
 
 Autoriza o aterro da área em mar e a cessão, sob o regime de aforamento, dos terrenos que menciona, situadas na Cidade e Estado do Rio de Janeiro.

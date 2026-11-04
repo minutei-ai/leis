@@ -1,22 +1,20 @@
-###DEC-038328-0-000-20-12-1955@@@
+**DECRETO Nº 38.328, DE 20 DE DEZEMBRO DE 1955.**
 
-<strong>DECRETO Nº 38.328, DE 20 DE DEZEMBRO DE 1955.</strong>
+***Altera o esquema do orçamento analítico da despesa do Departamento dos Correios e Telégrafos.***
 
-<em><strong>Altera o esquema do orçamento analítico da despesa do Departamento dos Correios e Telégrafos.</strong></em>
+**O VICE-PRESIDENTE DO SENADO FEDERAL**, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição, e tendo em vista o disposto no art. 31, do Decreto-lei nº 8.308, de 6 de dezembro de 1945,
 
-<strong>O VICE-PRESIDENTE DO SENADO FEDERAL</strong>, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição, e tendo em vista o disposto no art. 31, do Decreto-lei nº 8.308, de 6 de dezembro de 1945,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovada a nova discriminação-tipo do orçamento analítico da despesa do Departamento dos Correios e Telégrafos, a qual com êste baixa, e que foi aprovada, primitivamente, pelo Decreto número 20.331, de 4 de janeiro de 1946, e alterada pelos Decretos números 29.109, de 8 de janeiro de 1951, 33.750, de 4 de setembro de 1953, e 35.840, de 29 de julho de 1954.
 
-<strong>Art</strong>. 1º Fica aprovada a nova discriminação-tipo do orçamento analítico da despesa do Departamento dos Correios e Telégrafos, a qual com êste baixa, e que foi aprovada, primitivamente, pelo Decreto número 20.331, de 4 de janeiro de 1946, e alterada pelos Decretos números 29.109, de 8 de janeiro de 1951, 33.750, de 4 de setembro de 1953, e 35.840, de 29 de julho de 1954.
+**Art**. 2º Êste decreto entrará em vigor a partir da data de sua publicação.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor a partir da data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 20 de dezembro de 1955; 134º da Independência e 67º da República.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 Lucas Lopes
 

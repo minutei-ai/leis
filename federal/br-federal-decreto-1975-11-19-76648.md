@@ -1,5 +1,3 @@
-###DEC-076648-0-000-19-11-1975@@@
-
 DECRETO Nº 76.648, DE 19 DE NOVEMBRO DE 1975.
 
 Concede reconhecimento à habilitação em Educação Moral e Cívica, do curso de Estados Sociais da Faculdade de Filosofia, Ciências e Letras de Bebedouro, com sede na cidade de Bebedouro, Estado de São Paulo.

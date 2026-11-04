@@ -1,5 +1,3 @@
-###DEC-080507-0-000-06-10-1977@@@
-
 DECRETO Nº 80.507, DE 6 DE OUTUBRO DE 1977.
 
 Concede novo prazo para cumprimento da cessão autorizada pelos Decretos nºs 55.847, de 19 de março de 1965 e 71.027, de 28 de agosto de 1972.

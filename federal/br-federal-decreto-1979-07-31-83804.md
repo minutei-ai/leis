@@ -1,5 +1,3 @@
-###DEC-083804-0-000-31-07-1979@@@
-
 DECRETO Nº 83.804, DE 31 DE JULHO DE 1979.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Manaus, Estado do Amazonas.

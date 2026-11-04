@@ -1,5 +1,3 @@
-###DEL-000233-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 233, DE 28 DE FEVEREIRO DE 1967
 
 Faz doação à Universidade Federal do Rio de Janeiro, do imóvel situado na Avenida Pasteur nº 250, e dependências anexas, no Estado da Guanabara.

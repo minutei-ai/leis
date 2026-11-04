@@ -1,5 +1,3 @@
-###DEC-001852-0-000-10-04-1996@@@
-
 DECRETO Nº 1.852, DE 10 DE ABRIL DE 1996
 
 Dispõe sobre a execução do Quarto Protocolo Adicional ao Acordo de Complementação Econômica Nº 25, entre Brasil e Peru, de 22 de dezembro de 1995.

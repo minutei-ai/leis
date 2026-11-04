@@ -1,5 +1,3 @@
-###DEC-085650-0-000-22-01-1981@@@
-
 Decreto nº 85.650, de 22 de janeiro de 1981.
 
 Concede à CARBONÍFERA PRÓSPERA S/A, autorização para proceder a aumento do seu capital social.

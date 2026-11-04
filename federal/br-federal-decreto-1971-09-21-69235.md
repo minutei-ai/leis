@@ -1,5 +1,3 @@
-###DEC-069235-0-000-21-09-1971@@@
-
 DECRETO Nº 69.235, DE 21 DE SETEMBRO de 1971.
 
 Torna sem efeito redistribuição de servidor do Ministério do Trabalho e Previdência Social para o Departamento Nacional de Estradas e Rodagem, e dá outras providências.

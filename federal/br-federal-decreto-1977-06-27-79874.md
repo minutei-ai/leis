@@ -1,5 +1,3 @@
-###DEC-079874-0-000-27-06-1977@@@
-
 DECRETO Nº 79.874, de 27 de junho de 1977
 
 Renova prazo de concessão outorgada à Fábrica de  Papelão lbicuí LTDA., atual industria e Comércio de Papelão Ibicuí S.A., para o uso exclusivo do aproveitamento de energia hidráulica de um trecho  do rio Ibicuí, no Município de Campos Novo, Estado de Santa Catarina.

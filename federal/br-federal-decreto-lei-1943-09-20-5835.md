@@ -1,5 +1,3 @@
-###DEL-005835-0-000-20-09-1943@@@
-
 DECRETO‑LEI N. 5.835 – DE 20 DE SETEMBRO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 96.000,00 para pagamento de gratificação ao engenheiro José Luiz Mendes Diniz

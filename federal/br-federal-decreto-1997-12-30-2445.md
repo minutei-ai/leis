@@ -1,5 +1,3 @@
-###DEC-002445-0-000-30-12-1997@@@
-
 DECRETO Nº 2.445, DE 30 DE DEZEMBRO DE 1997
 
 Fixa o número de dias para a exibição de obras cinematográficas brasileiras durante o ano de 1998.
@@ -12,7 +10,25 @@ Art. 1º Fica fixado em 49 o número de dias nos quais as empresas proprietária
 
 Art. 2º As salas, espaços ou locais de exibição pública comercial geminadas e pertencentes à mesma empresa deverão cumprir a cota de tela, durante o período de 1º de janeiro a 31 de dezembro de 1998, obedecendo à seguinte tabela:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:112.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Salas Geminadas</span></p></td><td style="width:55.6pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1ª Sala</span></p></td><td style="width:65.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2ª Sala</span></p></td><td style="width:73.95pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3ª e 4ª Salas</span></p></td><td style="width:61.85pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5ª e 6ª Salas</span></p></td></tr><tr><td style="width:112.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Dias de Obrigatoriedade</span></p></td><td style="width:55.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>49 dias</span></p></td><td style="width:65.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>42 dias</span></p></td><td style="width:73.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>35 dias</span></p></td><td style="width:61.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>28 dias</span></p></td></tr></tbody></table>
+Salas Geminadas
+
+1ª Sala
+
+2ª Sala
+
+3ª e 4ª Salas
+
+5ª e 6ª Salas
+
+Dias de Obrigatoriedade
+
+49 dias
+
+42 dias
+
+35 dias
+
+28 dias
 
 Parágrafo único. As empresas proprietárias de conjunto de sete ou mais salas geminadas deverão cumprir, durante o período estipulado no caput deste artigo, a cota de tela de 35 dias em cada sala.
 

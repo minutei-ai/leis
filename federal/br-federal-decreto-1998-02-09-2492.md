@@ -1,5 +1,3 @@
-###DEC-002492-0-000-09-02-1998@@@
-
 DECRETO Nº 2.492, DE 9 DE FEVEREIRO DE 1998
 
 Fixa os preços mínimos básicos para os produtos agrícolas da safra de verão e para os produtos regionais 1997/98.

@@ -1,5 +1,3 @@
-###DEC-062379-0-000-11-03-1968@@@
-
 DECRETO Nº 62.379, DE 11 DE MARÇO DE 1968.
 
 Outorga concessão ao Govêrno do Estado de Goiás, através do Consórcio de Emprêsas de Radiodifusão e Notícias do Estado (CERNE), para estabelecer, na cidade de Goiânia, Estado de Goiás, uma estação de televisão, geradora de programas.

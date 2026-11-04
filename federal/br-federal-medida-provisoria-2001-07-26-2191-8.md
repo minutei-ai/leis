@@ -1,5 +1,3 @@
-###MPV-002191-0-008-26-07-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.191‑8, DE 26 DE JUlHO DE 2001
 
 Acresce e altera dispositivos da Lei nº 8.974, de 5 de janeiro de 1995, e dá outras providências.

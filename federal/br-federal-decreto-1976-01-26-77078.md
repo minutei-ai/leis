@@ -1,5 +1,3 @@
-###DEC-077078-0-000-26-01-1976@@@
-
 DECRETO Nº 77.078, DE 26 DE JANEIRO DE 1976.
 
 Encampa bens e instalações vinculados aos serviços públicos de energia elétrica no Município de Nova Andradina, Estado de Mato Grosso.

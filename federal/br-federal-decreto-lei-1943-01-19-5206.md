@@ -1,5 +1,3 @@
-###DEL-005206-0-000-19-01-1943@@@
-
 DECRETO‑LEI N. 5.206 – DE 19 DE JANEIRO DE 1943
 
 Dispõe sobre a designação dos funcionários da classe M da carreira de Diplomata

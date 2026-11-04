@@ -1,5 +1,3 @@
-###DEC-085098-0-000-29-08-1980@@@
-
 DECRETO Nº 85.098, DE 29 DE AGOSTO DE 1980.
 
 Localiza o Centro Tecnológico do Exército - CTEx e dá outras providências.

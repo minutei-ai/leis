@@ -1,5 +1,3 @@
-###DEC-079871-0-000-27-06-1977@@@
-
 DECRETO Nº 79.871, DE 27 DE JUNHO DE 1977
 
 Concede reconhecimento ao curso de Ciências, da Faculdade de Ciências e Tecnologia "Santa Cecília", com sede na Cidade de Santos, Estado de São Paulo.

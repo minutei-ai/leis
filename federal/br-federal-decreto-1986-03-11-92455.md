@@ -1,5 +1,3 @@
-###DEC-092455-0-000-11-03-1986@@@
-
 DECRETO Nº 92.455, DE 11 DE MARÇO DE 1986
 
 Cria uma Assessoria Técnica no Âmbito da Comissão Nacional de Energia.

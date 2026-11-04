@@ -1,5 +1,3 @@
-###DEC-072250-0-000-11-05-1973@@@
-
 DECRETO Nº 72.250, DE 11 DE MAIO DE 1973.
 
 Declara sem efeito o Decreto número 55.413, de 31 de dezembro de 1964.

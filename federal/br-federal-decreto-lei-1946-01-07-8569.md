@@ -1,5 +1,3 @@
-###DEL-008569-0-000-07-01-1946@@@
-
 DECRETO-LEI N. 8.569 – DE 7 DE JANEIRO DE 1946
 
 Dispõe sôbre a intervenção nas Sociedades Cooperativa de Pesca do Distrito Federal e dos Estados

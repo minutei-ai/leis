@@ -1,7 +1,3 @@
-1
-
-###MPV-001042-0-000-29-06-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.042, DE 29 DE JUNHO DE 1995.
 
 Extingue as vantagens que menciona, institui os Décimos Incorporados, e dá outras providências.

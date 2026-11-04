@@ -1,5 +1,3 @@
-###DEC-050772-0-000-09-06-1961@@@
-
 DECRETO Nº 50.772, DE 9 DE JUNHO DE 1961.
 
 Institui Grupo de Trabalho com a finalidade que menciona.

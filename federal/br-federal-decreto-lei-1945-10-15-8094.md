@@ -1,5 +1,3 @@
-###DEL-008094-0-000-15-10-1945@@@
-
 DECRETO-LEI N. 8.094 – DE 15 DE OUTUBRO DE 1945
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito suplementar de Cr$ 100.000,00, à verba que especifica

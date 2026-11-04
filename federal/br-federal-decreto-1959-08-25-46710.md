@@ -1,5 +1,3 @@
-###DEC-046710-0-000-25-08-1959@@@
-
 DECRETO Nº 46.710, DE 25 DE AGÔSTO DE 1959.
 
 Autoriza despesa excedentes.

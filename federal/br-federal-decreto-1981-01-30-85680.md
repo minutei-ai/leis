@@ -1,5 +1,3 @@
-###DEC-085680-0-000-30-01-1981@@@
-
 Decreto nº 85.680, de 30 de janeiro de 1981
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar os imóveis que menciona.

@@ -1,5 +1,3 @@
-###DEC-083587-0-000-18-06-1979@@@
-
 Decreto nº 83.587, de 18 de junho de 1979
 
 Concede à Cerâmica Beraldo Ltda. o direito de lavrar argila no Município de Cordeirópolis, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-006724-0-000-24-07-1944@@@
-
 DECRETO-LEI N. 6.724 – DE 24 DE JULHO DE 1944
 
 Acrescenta um parágrafo no art. 206 do Decreto-lei nº 1.713, de 28 de outubro de 1939

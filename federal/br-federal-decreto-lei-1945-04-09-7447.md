@@ -1,5 +1,3 @@
-###DEL-007447-0-000-09-04-1945@@@
-
 DECRETO-LEI N. 7.447 – DE 9 DE ABRIL DE 1945
 
 Dispõe sôbre a nomeação dos representantes de empregados e de empregadores no C.N.T. e dá outras providências.

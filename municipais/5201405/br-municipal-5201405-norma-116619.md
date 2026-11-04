@@ -20,8 +20,10 @@ Art. 5º Esta lei entrará em vigor na data de sua publicação, revogadas as di
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, 10 de setembro de 2018.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito 
 
-EINSTEIN PANIAGO<br>
-Chefe da Casa Civil<br>
+EINSTEIN PANIAGO
+
+Chefe da Casa Civil

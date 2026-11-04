@@ -32,10 +32,12 @@ Art. 3º Fica revogado o § 4º do art. 5º da Lei Complementar nº 95, de 17 de
 
 Art. 4º Esta Lei entrará em vigor na data de sua publicação. Gabinete do Prefeito Municipal de Aparecida de Goiânia, 09 de outubro de 2018.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-EINSTEIN PANIAGO<br>
+EINSTEIN PANIAGO
+
 Chefe da Casa Civil
 
 ANEXO ÚNICO

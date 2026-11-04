@@ -1,7 +1,3 @@
-1
-
-###LCP-000034-0-000-12-09-1978@@@
-
 # LEI COMPLEMENTAR Nº 34, DE 12 DE SETEMBRO DE 1978
 
 Estabelece, nos termos do art. 103 da Constituição federal, casos de aposentadoria compulsória, no Grupo-Diplomacia, Código D-300.

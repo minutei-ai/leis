@@ -1,5 +1,3 @@
-###DEC-075093-0-000-19-12-1974@@@
-
 DECRETO Nº 75.093, DE 19 DE dezembro de 1974.
 
 Prorroga o prazo de intervenção governamental na Zona Prioritária, para fins de Reforma Agrária, assim declarada pelo Decreto número 73.082, de 5 de novembro de 1973.

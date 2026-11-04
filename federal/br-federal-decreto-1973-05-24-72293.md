@@ -1,5 +1,3 @@
-###DEC-072293-0-000-24-05-1973@@@
-
 DECRETO Nº 72.293, DE 24 DE MAIO DE 1973.
 
 Outorga á Companhia Paranaense de Energia Elétrica - COPEL concessão para o aproveitamento hidráulico de um trecho, do rio Iguaçu, entre os municípios de Pinhão e Bituruna, ambos situados no Estado do Paraná.

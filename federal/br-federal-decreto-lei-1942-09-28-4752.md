@@ -1,5 +1,3 @@
-###DEL-004752-0-000-28-09-1942@@@
-
 DECRETO-LEI N. 4.752 – DE 28 DE SETEMBRO DE 1942
 
  Anula o decreto-Iei n. 4. 375, de 15 de junho de 1942

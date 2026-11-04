@@ -1,5 +1,3 @@
-###DEC-079578-0-000-26-04-1977@@@
-
 Decreto nº 79.578, de 20 de abril de 1977.
 
 Declara de utilidade pública, para fins de desapropriação, terreno e benfeitorias, necessários à passagem de parte da linha de transmissão da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

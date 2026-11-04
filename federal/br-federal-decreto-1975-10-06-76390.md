@@ -1,5 +1,3 @@
-###DEC-076390-0-000-06-10-1975@@@
-
 DECRETO Nº 76.390,DE 6 DE OUTUBRO DE 1975.
 
 Dispõe sobre a estrutura básica da Consultoria Geral da República e dá outras providências.

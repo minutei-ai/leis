@@ -48,8 +48,10 @@ Art. 3º - Ficam revogadas as disposições contrárias previstas na Lei Complem
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos 23 dias do mês de dezembro de 2009.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 PREFEITO MUNICIPAL
 
-ELI DE FARIA<br>
+ELI DE FARIA
+
 SECRETÁRIO EXECUTIVO

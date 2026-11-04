@@ -1,5 +1,3 @@
-###DEL-007368-0-000-09-03-1945@@@
-
 DECRETO-LEI N. 7.368 – DE 9 DE MARÇO DE 1945
 
  Autoriza a aquisição, pela União, de um terreno em Santos

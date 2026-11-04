@@ -26,9 +26,12 @@ I - de área contínua não superior a cem hectares, ao ocupante de terras devol
 
 II- de área contínua compreendida nas condições e limites fixados em projeto do INTERBA ou de que este participe ao ocupante pequeno produtor, de baixa renda, ou relocado em virtude de planos formulados ou aprovados pelo INTERBA.
 
-Redação do art. 3º de acordo com a [Lei nº 3.855, de 24 de outubro de 1980](https://www.legislabahia.ba.gov.br/documentos/lei-no-3855-de-24-de-outubro-de-1980#LO_3_855) . Redação original: "Art. 3º - Ao possuidor de terra devoluta de área não superior à do limite fixado na Constituição Estadual, assim considerado o ocupante que a beneficiou e continua a explorá-la, tornando-a produtiva pelo seu trabalho, o Estado assegurará gratuitamente o domínio, outorgando o respectivo título de propriedade, desde que o interessado prove:<br>
-a) posse mansa, pacífica e continuada há mais de 15 (quinze) anos permitida, para esse fim, a soma do tempo dos antecessores;<br>
-b) cultura e beneficiamento da terra;<br>
+Redação do art. 3º de acordo com a [Lei nº 3.855, de 24 de outubro de 1980](https://www.legislabahia.ba.gov.br/documentos/lei-no-3855-de-24-de-outubro-de-1980#LO_3_855) . Redação original: "Art. 3º - Ao possuidor de terra devoluta de área não superior à do limite fixado na Constituição Estadual, assim considerado o ocupante que a beneficiou e continua a explorá-la, tornando-a produtiva pelo seu trabalho, o Estado assegurará gratuitamente o domínio, outorgando o respectivo título de propriedade, desde que o interessado prove:
+
+a) posse mansa, pacífica e continuada há mais de 15 (quinze) anos permitida, para esse fim, a soma do tempo dos antecessores;
+
+b) cultura e beneficiamento da terra;
+
 c) inexistência de impedimento ou proibição à sua aquisição."
 
 III - de áreas não contínuas, mas próximas, cuja soma não ultrapasse cem hectares, ao ocupante de terras devolutas, que as tenha tornado produtivas com seu trabalho e o de seu conjunto familiar, desde que comprove posse mansa e pacífica, morada ou cultura efetivas, por mais de cinco anos, e capacidade para desenvolver a área ocupada.

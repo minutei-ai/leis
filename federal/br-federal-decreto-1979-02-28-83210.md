@@ -1,5 +1,3 @@
-###DEC-083210-0-000-28-02-1979@@@
-
 decreto nº 83.210, de 28 de fevereiro de 1979
 
 Autoriza a conversão do curso de Matemática, em custos de Ciências do Centro Pedagógico de Três Lagoas, Estado de Mato Grosso.

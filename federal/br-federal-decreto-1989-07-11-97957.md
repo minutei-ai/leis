@@ -1,7 +1,3 @@
-1
-
-###DEC-097957-0-000-11-07-1989@@@
-
 DECRETO Nº 97.957, DE 11 DE JULHO DE 1989
 
 Declara de interesse social para fins de reforma agrária, o imóvel rural denominado “FAZENDA REGISTRO VELHO” ou ALMÉCEGAS (PARTE), classificado como latifúndio por exploração, situado no Município de Porto Nacional, Estado do Tocantins, compreendido na zona prioritária, fixada pelo Decreto nº 92.690, de 19 de maio de 1986, e dá outras providências.

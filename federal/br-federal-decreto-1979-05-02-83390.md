@@ -1,5 +1,3 @@
-###DEC-083390-0-000-02-05-1979@@@
-
 DECRETO Nº 83.390, DE 02 DE MAIO DE 1979.
 
 Concede reconhecimento às habilitações em Engenharia Mecânica e em Engenharia Química, do curso de Engenharia, do Centro de Ciências e Tecnologia, em Campina Grande, da Universidade Federal da Paraíba.

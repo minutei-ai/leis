@@ -1,5 +1,3 @@
-###DEC-084981-0-000-30-07-1980@@@
-
 decretO nº 84.981, de 30 de julho de 1980.
 
 Autoriza o aumento de potência da RÁDIO DANÚBIO AZUL LTDA., na cidade de Santa Izabel D'Oeste, Estado do Paraná.

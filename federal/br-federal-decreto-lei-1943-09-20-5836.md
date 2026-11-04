@@ -1,5 +1,3 @@
-###DEL-005836-0-000-20-09-1943@@@
-
 DECRETO‑LEI N. 5.836 – DE 20 DE SETEMBRO DE 1943
 
 Altera a redação do art. 8º do decreto‑lei n. 5.630, de 29 de junho de 1943, e dá outras providências

@@ -1,6 +1,5 @@
 LEI Nº 7.372, DE 28 DE JUNHO DE 2023.
 
-<br>
 Denomina Avenida que liga o Bairro Serra Dourada ao Bairro Gameleira e dá outras providências.
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**

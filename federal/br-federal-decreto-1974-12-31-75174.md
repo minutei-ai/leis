@@ -1,5 +1,3 @@
-###DEC-075174-0-000-31-12-1974@@@
-
 Decreto nº 75.174, de 31 de dezembro de 1974.
 
 Concede à Maria de Salles Ferreira - Firma Individual o direito de lavrar minério de ferro no Município de Sabará, Estado de Minas Gerais.

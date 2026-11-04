@@ -1,5 +1,3 @@
-###DEL-001280-0-000-06-07-1973@@@
-
 # DECRETO-LEI Nº 1.280, DE 6 DE JULHO DE 1973
 
 Prorroga até 31 de dezembro de 1973 o regime especial de que trata o Decreto-lei nº 1.115, de 24 de julho de 1970.

@@ -1,5 +1,3 @@
-###DEL-008741-0-000-19-01-1946@@@
-
 DECRETO-LEI N. 8.741 – DE 19 DE JANEIRO DE 1946
 
 Altera as carreiras de Engenheiro de Quadros do Ministério da Viação e Obras Públicas, omitidas no Decreto-lei nº 8.645, de 11 de Janeiro de 1946, e dá outras providências

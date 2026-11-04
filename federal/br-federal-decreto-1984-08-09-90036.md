@@ -1,5 +1,3 @@
-###DEC-090036-0-000-09-08-1984@@@
-
 Decreto nº 90.036, de 09 de agosto de 1984
 
 Autoriza o funcionamento do curso de Ciências Contábeis dos Institutos Paraibanos de Educação.

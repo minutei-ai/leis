@@ -20,19 +20,18 @@ Art. 7º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 6 de setembro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
 
 ANEXO ÚNICO
 
-| IMÓVEL DE PROPRIEDADE DO ESTADO DE GOIÁS AUTORIZADO A SER ALIENADO,<br>
+| IMÓVEL DE PROPRIEDADE DO ESTADO DE GOIÁS AUTORIZADO A SER ALIENADO,
+
 MEDIANTE DOAÇÃO ONEROSA AO MUNICÍPIO DE TROMBAS/GO |
 | --- |
 | DENOMINAÇÃO | **Área da Matrícula 909** |
 | LOCALIZAÇÃO | **Entre a Avenida Antônio Romeiro, a Avenida Raimundo Fonseca Lemos, a Rua João Mendes Pereira e a projeção da Avenida Manoel Napoleão Tavares, Setor Rodoviário, Município de Trombas/GO** |
-| ÁREA | **9.000,00 m2, composta dos Lotes n** **os** **1 a 20 da Quadra 62 do Setor Rodoviário, Município de Trombas/GO** |
+| ÁREA | **9.000,00 m2, composta dos Lotes nos1 a 20 da Quadra 62 do Setor Rodoviário, Município de Trombas/GO** |
 | MATRÍCULA | **Nº 909 – Cartório de Registro de Imóveis de Trombas/GO** |
 | DISCRIMINAÇÃO DO IMÓVEL | **O imóvel inicia junto ao marco 1, descrito em planta anexa, com coordenadas U T M Este (X) 744.486,5934 e Norte (Y) 8.505.832,6824; do vértice 1 segue em direção até o vértice 2 no azimute 57°02'48", em uma distância de 150,00 m, confrontando com a Av. Raimundo Fonseca Lemes; do vértice 2 segue em direção até o vértice 3 no azimute 147°02'48", em uma distância de 60,00 m, confrontando com a Rua João Mendes Ferreira; do vértice 3 segue em direção até o vértice 4 no azimute 237°02'48", em uma distância de 150,00 m, confrontando com a projeção da Av. Manoel Napoleão Tavares; finalmente, do vértice 4 segue até o vértice 1, (início da descrição), no azimute de 327°02'48", na extensão de 60,00 m, confrontando com a Av. Antônio José Romeiro, fechando assim uma área de 9.000,00 m².** |

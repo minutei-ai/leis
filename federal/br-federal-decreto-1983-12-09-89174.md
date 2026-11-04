@@ -1,5 +1,3 @@
-###DEC-089174-0-000-09-12-1983@@@
-
 Decreto nº 89.174, de 09 de dezembro de 1983
 
 Autoriza o aumento de potência da RÁDIO CACIQUE DE CAPÃO BONITO LTDA., na cidade de Capão Bonito, Estado de São Paulo.

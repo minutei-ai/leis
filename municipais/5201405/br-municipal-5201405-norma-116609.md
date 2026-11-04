@@ -1,11 +1,11 @@
 LEI Nº 3418, DE 12 DE JUNHO DE 2018.
 
-<br>
 Dispõe sobre a proibição de cobrança de taxa de religação para restabelecer o fornecimento de água e esgoto ao consumidor no Município de Aparecida de Goiânia e dá outras providências.
 
 FAÇO SABER QUE A CÂMARA APROVOU E EU, NOS TERMOS DO ARTIGO 54, PARÁGRAFO 1º E 9º DA LEI ORGANICA DO MUNICÍPIO, PROMULGO A SEGUINTE LEI:
 
-Art.1º Fica vedada a cobrança de qualquer valor por qualquer que seja sua denominação, taxa, preço público, tarifa, multa, penalidade, ou a que venha substituir. Para empresa concessionária fazer religação e restabelecer o fornecimento de água e esgoto, interrompido por inadimplência do consumidor no âmbito do Município de Aparecida de Goiânia.<br>
+Art.1º Fica vedada a cobrança de qualquer valor por qualquer que seja sua denominação, taxa, preço público, tarifa, multa, penalidade, ou a que venha substituir. Para empresa concessionária fazer religação e restabelecer o fornecimento de água e esgoto, interrompido por inadimplência do consumidor no âmbito do Município de Aparecida de Goiânia.
+
 (Redaçaõ alterada pela Lei Ordinária nº 3.448, de 14 de dezembro de 2018).
 
 ~~Art. 1º Fica vedado a cobrança de taxa de qualquer valor de religação, para a empresa concessionária restabelecer o fornecimento de água e esgoto, interrompido por inadimplência do consumidor no âmbito do Município de Aparecida de Goiânia.~~
@@ -30,5 +30,6 @@ Art. 7º Revogam-se as disposições em contrário.
 
 Gabinete do Presidente da Câmara Municipal de Aparecida Goiânia, 12 dias do mês de Junho do ano de 2018.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 PRESIDENTE

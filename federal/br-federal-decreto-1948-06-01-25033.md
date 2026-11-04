@@ -1,24 +1,22 @@
-###DEC-025033-0-000-01-06-1948@@@
+**DECRETO Nº 25.033, DE 1 DE JUNHO DE 1948.**
 
-<strong>DECRETO Nº 25.033, DE 1 DE JUNHO DE 1948.</strong>
+***Outorga concessão à Rádio Londrina S.A. para estabelecer uma estação radiodifusora em Londrina, Estado do Paraná.***
 
-<em><strong>Outorga concessão à Rádio Londrina S.A. para estabelecer uma estação radiodifusora em Londrina, Estado do Paraná.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, atendendo ao que requereu a Rádio Londrina S.A , e tendo em vista o disposto no artigo 5º nº XII, da mesma Constituição.
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, atendendo ao que requereu a Rádio Londrina S.A , e tendo em vista o disposto no artigo 5º nº XII, da mesma Constituição.
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica outorgada concessão à Rádio Londrina S.A., nos têrmos do art. 11 do Decreto número 24.655, de 11 de julho de 1934, para estabelecer, na cidade de Londrina, Estado do Paraná, sem direito de exclusividade, uma estação rádiodifusora, destinada a executar os serviços de radiodifusão, de acôrdo com as cláusulas que com êste baixam, assinadas pelo Ministro da Viação e Obras Públicas.
 
-Parágrafo único. O Contrato decorrente desta concessão deverá ser assinado dentro de 60 dias a contar da data da publicação deste Decreto no <em>Diário Oficial</em>, sob pena de ser desde logo considerada nula a concessão.
+Parágrafo único. O Contrato decorrente desta concessão deverá ser assinado dentro de 60 dias a contar da data da publicação deste Decreto no *Diário Oficial*, sob pena de ser desde logo considerada nula a concessão.
 
 Rio de Janeiro, 1 de junho de 1948; 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clovis Pestana
 
-<strong>CLÁUSULAS A QUE SE REFERE O DECRETO Nº 25.033, DESTA DATA</strong>
+**CLÁUSULAS A QUE SE REFERE O DECRETO Nº 25.033, DESTA DATA**
 
 I
 
@@ -102,4 +100,4 @@ b) se a concessionária incidir reiteradamente em infrações passíveis de mult
 
 Rio de Janeiro, 1 de junho de 1948; 127º da Independência e 60º da República.
 
-<strong>CLOVIS PESTANA</strong>
+**CLOVIS PESTANA**

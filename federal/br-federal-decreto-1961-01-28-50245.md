@@ -1,5 +1,3 @@
-###DEC-050245-0-000-28-01-1961@@@
-
 DECRETO Nº 50.245, DE 28 DE JANEIRO DE 1961.
 
 Cria o Consulado do Brasil em Luanda, Província de Angola.

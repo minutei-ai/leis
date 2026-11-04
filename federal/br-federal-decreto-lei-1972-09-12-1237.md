@@ -1,5 +1,3 @@
-###DEL-001237-0-000-12-09-1972@@@
-
 # DECRETO-LEI Nº 1.237, DE 12 DE SETEMBRO DE 1972
 
 Complementa a redação do artigo 6º do Decreto-lei nº 185, de 23 de fevereiro de 1967, que estabelece normas para a contratação de obras ou serviços a cargo do Governo Federal.

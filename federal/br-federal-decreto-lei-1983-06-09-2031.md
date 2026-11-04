@@ -1,5 +1,3 @@
-###DEL-002031-0-000-09-06-1983@@@
-
 # Decreto-Lei nº 2.031, de 9 de junho de 1983.
 
 Altera a legislação do Imposto de Renda relativa a instituições financeiras.

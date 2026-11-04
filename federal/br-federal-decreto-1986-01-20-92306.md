@@ -1,5 +1,3 @@
-###DEC-092306-0-000-20-01-1986@@@
-
 DECRETO Nº 92.306, DE 20 DE JANEIRO DE 1986
 
 Revoga o Decreto nº 80.598, de 21 de outubro de 1977.

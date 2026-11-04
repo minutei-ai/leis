@@ -1,7 +1,3 @@
-1
-
-###DEC-098344-0-000-30-10-1989@@@
-
 # DECRETO Nº 98.344, DE 30 DE OUTUBRO DE 1989
 
 Altera o artigo 1º do Decreto nº 97.961, de l3 de julho de l989.

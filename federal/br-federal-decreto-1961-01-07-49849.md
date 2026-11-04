@@ -1,5 +1,3 @@
-###DEC-049849-0-000-07-01-1961@@@
-
 DECRETO Nº 49.849, DE 7 DE janeiro DE 1961.
 
 Concede reconhecimento a cursos.

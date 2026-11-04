@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212247)<br>
-
 # DECRETO N° 70.385, DE 24 DE FEVEREIRO DE 2026
 
 ### _Declara de interesse social, para fins de desapropriação, os imóveis situados na Rua General Couto de Magalhães, n°s 348, 364, 380, 396 e 402, e na Avenida Cásper Líbero, n° 547, Distrito da República, Subprefeitura da Sé, no Município de São Paulo, necessários à execução de programa habitacional e de desenvolvimento urbano, e dá providências correlatas._

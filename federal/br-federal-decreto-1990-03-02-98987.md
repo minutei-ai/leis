@@ -1,7 +1,3 @@
-1
-
-###DEC-098987-0-000-02-03-1990@@@
-
 # DECRETO Nº 98.987, DE 2 DE MARÇO DE 1990
 
 Dispõe sobre a execução do Décimo Protocolo Adicional ao Acordo Comercial nº 5, no Setor da Indústria Química, entre o Brasil, a Argentina, o Chile, o México e a Venezuela.

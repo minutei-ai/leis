@@ -1,5 +1,3 @@
-###DEC-057936-0-000-10-03-1966@@@
-
 Decreto nº 57.936, de 10 de março de 1966.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóveis, em João Pessoa - PB, destinados ao Ministério da Guerra.

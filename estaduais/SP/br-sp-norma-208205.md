@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208205)<br>
-
 # DECRETO N° 67.759, DE 20 DE JUNHO DE 2023
 
 ### _Disciplina o procedimento para a realização de estudos referentes a projetos de parceria e de desestatização, no âmbito da Administração Pública direta, e dá providências correlatas._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposições Preliminares
 
 **Artigo 1° -** Este decreto disciplina o procedimento para a realização de estudos referentes a projetos de parceria e de desestatização, realizados no âmbito da Administração Pública direta.
@@ -59,7 +58,8 @@ II - arranjo institucional para desenvolvimento de estudos;
 
 III - estudos de viabilidade.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Enquadramento Preliminar
 
 **Artigo 4° -** A fase de enquadramento preliminar terá início com a apresentação de proposta de desenvolvimento de estudos para projeto de:
@@ -170,10 +170,12 @@ II - pela rejeição da proposta, com a comunicação ao proponente e posterior 
 
 **§ 3° -** A análise realizada pelo CGPPP ou pelo CDPED considerará, no mínimo, a adequação da proposta às prioridades da Administração Pública estadual e a conveniência e oportunidade do aprofundamento dos estudos relativos ao projeto de parceria ou de desestatização.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Arranjo Institucional para Desenvolvimento de Estudos
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposições Gerais
 
 **Artigo 8° -** As propostas aprovadas na fase de enquadramento preliminar serão examinadas pela SPI na fase de arranjo institucional para desenvolvimento de estudos.
@@ -192,7 +194,8 @@ Disposições Gerais
 
 **§4° -** As providências de que tratam o "caput" e o §1° deste artigo poderão ser atribuídas a entidade integrante da Administração Pública indireta, mediante celebração de instrumento jurídico específico, observadas as disposições do [Decreto n° 66.173, de 26 de outubro de 2021](https://www.al.sp.gov.br/norma/200625).
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Chamamento Público
 
 **Artigo 9° -** O procedimento de chamamento público inicia-se com a publicação de edital pela SPI, do qual deverão constar as informações referentes à proposta de estudos para o projeto de parceria ou de desestatização e os documentos a serem apresentados pelos interessados.
@@ -309,10 +312,12 @@ III - mediante anulação, em caso de vício no procedimento instituído por est
 
 **§ 2° -** O valor máximo do ressarcimento, se houver, deverá ser fixado no termo de autorização, deverá ser aceito por escrito pelo interessado, previamente ao início dos estudos, com expressa renúncia a qualquer quantia adicional.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Estudos de Viabilidade Técnica, Econômico-Financeira, Ambiental e Jurídica
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Modelagem Preliminar
 
 **Artigo 18 -** Os estudos de viabilidade técnica, econômico-financeira, ambiental e jurídica dos projetos de parceria ou de desestatização serão desenvolvidos conforme o arranjo institucional determinado pela SPI, nos termos do artigo 8° deste decreto.
@@ -337,7 +342,8 @@ Modelagem Preliminar
 
 **§ 2° -** Após o recebimento das manifestações de que tratam os itens 1 e 2 do §1° deste artigo, ou o decurso injustificado do prazo para a respectiva apresentação, a SPI fica autorizada a providenciar a realização de audiência ou consulta públicas, na forma da legislação aplicável.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Modelagem Final
 
 **Artigo 20 -** A modelagem final será consolidada pela SPI, com apoio de eventuais contratados ou autorizados, em especial para análise das contribuições recebidas em consulta ou audiência públicas.
@@ -366,7 +372,8 @@ I - pela aprovação da modelagem final, com a autorização da publicação do 
 
 **§ 3° -** O Presidente do CGPPP ou do CDPED poderá redesignar a sessão de que trata o "caput" deste artigo e determinar a realização de diligências ou providências que se mostrem necessárias à deliberação do colegiado.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Disposições Finais
 
 **Artigo 22 -** A Plataforma Digital de Parcerias, instituída por meio do [Decreto n° 61.371, de 21 de julho de 2015](https://www.al.sp.gov.br/norma/175099), passa a ser denominada Plataforma do PPI-SP.

@@ -1,5 +1,3 @@
-###DEC-068808-0-000-25-06-1971@@@
-
 DECRETO Nº 68.808 - DE 25 DE JUNHO DE 1971.
 
 Retifica o Decreto nº 67.912, de 21 de dezembro de 1970.

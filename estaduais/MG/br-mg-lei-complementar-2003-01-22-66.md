@@ -271,7 +271,3 @@ Danilo de Castro
 Antônio Augusto Junho Anastasia
 
 Fuad Noman
-
-\======================================
-
-Data da última atualização: 28/7/2017.

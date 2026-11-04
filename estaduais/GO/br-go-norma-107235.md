@@ -36,8 +36,6 @@ Art. 4º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 16 de junho de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

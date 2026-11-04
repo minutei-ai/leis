@@ -1,5 +1,3 @@
-###DEC-048555-0-000-21-07-1960@@@
-
 DECRETO Nº 48.555, DE 21 DE JUlho DE 1960.
 
 Autoriza a Cia. Brasileira de Alumínio a pesquisar bauxita no município de Poços de Caldas, Estado de Minas Gerais.

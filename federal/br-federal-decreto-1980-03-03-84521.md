@@ -1,5 +1,3 @@
-###DEC-084521-0-000-03-03-1980@@@
-
 Decreto nº 84.521, de 03 de março de 1980
 
 Autoriza o aumento do capital social da empresa que menciona.

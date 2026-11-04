@@ -1,7 +1,3 @@
-1
-
-###DEC-000691-0-000-02-12-1992@@@
-
 DECRETO N° 691, DE 2 DE DEZEMBRO DE 1992
 
 Autoriza a Diretoria de Portos e Costas a estabelecer procedimentos para atribuição de borda-livre das embarcações brasileiras não enquadradas em Atos Internacionais.

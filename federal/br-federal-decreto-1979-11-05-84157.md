@@ -1,5 +1,3 @@
-###DEC-084157-0-000-05-11-1979@@@
-
 Decreto nº 84.157, de 05 de novembro de 1979.
 
 Declara de utilidade pública para fins de desapropriação, a área de terra que menciona, situada no Município de Bauru, no Estado de São Paulo.

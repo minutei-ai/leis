@@ -1,5 +1,3 @@
-###DEL-007016-0-000-03-11-1944@@@
-
 DECRETO-LEI N. 7.016 – DE 3 DE NOVEMBRO DE 1944
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 5.000,00, à verba que especifica

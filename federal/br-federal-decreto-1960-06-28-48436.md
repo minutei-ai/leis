@@ -1,5 +1,3 @@
-###DEC-048436-0-000-28-06-1960@@@
-
 DECRETO Nº 48.436, DE 28 DE JUNHO DE 1960.
 
 Declara sem efeito o Decreto nº 46.696, de 20 de agôsto de 1959.

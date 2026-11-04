@@ -1,5 +1,3 @@
-###DEC-003308-0-000-24-12-1999@@@
-
 DECRETO Nº 3.308, DE 24 DE DEZEMBRO DE 1999.
 
 Prorroga o prazo estabelecido no art. 2º do Decreto nº 2.641, de 29 de junho de 1998.

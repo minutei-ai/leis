@@ -1,5 +1,3 @@
-###DEL-003718-0-000-15-10-1941@@@
-
 DECRETO-LEI N. 3.718 – DE 15 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Guerra, e crédito suplementar de 144:000$0 a verba que, especifica

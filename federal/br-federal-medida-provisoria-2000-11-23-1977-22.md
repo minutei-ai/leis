@@ -1,5 +1,3 @@
-###MPV-001977-0-022-23-11-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.977-22, De 23 de novembro DE 2000.
 
 Institui medidas adicionais de estímulo e apoio à reestruturação e ao ajuste fiscal dos Estados e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-006047-0-000-29-11-1943@@@
-
 DECRETO‑LEI N. 6.047 – DE 29 DE NOVEMBRO DE 1943
 
 Abre, ao Departamento de Imprensa e Propaganda, o crédito suplementar de Cr$ 100.000,00 às dotações que especifica

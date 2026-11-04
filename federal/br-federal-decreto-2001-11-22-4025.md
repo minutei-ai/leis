@@ -1,5 +1,3 @@
-###DEC-004025-0-000-22-11-2001@@@
-
 DECRETO Nº 4.025, DE 22 DE NOVEMBRO DE 2001
 
 Altera dispositivos do Decreto no 3.965, de 10 de outubro de 2001, que institui o Serviço de Retransmissão de Televisão e o Serviço de Repetição de Televisão, ancilares ao Serviço de Radiodifusão de Sons e Imagens.

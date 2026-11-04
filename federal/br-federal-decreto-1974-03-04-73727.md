@@ -1,5 +1,3 @@
-###DEC-073727-0-000-04-03-1974@@@
-
 DECRETO Nº 73.727, 4 DE MARÇO DE 1974.
 
 Autoriza o funcionamento dos cursos de Letras e de Estudos Sociais da Faculdade de Ciências e Educação de Criciúma, mantida pela Fundação Universidade de Criciúma, com sede na cidade de Criciúma, Estado de Santa Catarina.

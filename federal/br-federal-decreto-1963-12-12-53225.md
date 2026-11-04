@@ -1,5 +1,3 @@
-###DEC-053225-0-000-12-12-1963@@@
-
 Decreto nº 53.225, de 12 de dezembro de 1963.
 
 Autoriza o cidadão brasileiro Clóvis Ramalho Ribeiro Dantas a pesquisar gipsita no município de Bodocó, Estado de Pernambuco.

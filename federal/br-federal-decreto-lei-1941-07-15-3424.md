@@ -1,5 +1,3 @@
-###DEL-003424-0-000-15-07-1941@@@
-
 DECRETO-LEI N. 3.424 – DE 15 DE JULHO DE 1941
 
 Prorroga o prazo para o registo dos estrangeiros que se encontram no país em carater permanente

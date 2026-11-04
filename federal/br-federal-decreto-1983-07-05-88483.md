@@ -1,5 +1,3 @@
-###DEC-088483-0-000-05-07-1983@@@
-
 Decreto Nº 88.483, De 05 De Julho De 1983.
 
 Altera a composição das Armas - Oficiais Combatentes - e dos Quadros de Material Bélico e de Intendência e da outras providencias.

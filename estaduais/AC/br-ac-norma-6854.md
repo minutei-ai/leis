@@ -1,6 +1,10 @@
 > **LEI Nº 4.818, DE 10 DE JULHO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei Complementar nº 419, de 15 de dezembro de 2022, que estabelece a estrutura básica da administração do Poder Executivo.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei Complementar nº 419, de 15 de dezembro de 2022, que estabelece a estrutura básica da administração do Poder Executivo.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

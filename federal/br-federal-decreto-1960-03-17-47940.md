@@ -1,5 +1,3 @@
-###DEC-047940-0-000-17-03-1960@@@
-
 Decreto nº 47.940, de 17 de março de 1960.
 
 Dá nova redação ao art. 2º do Decreto nº 46.357, de 7 de julho de 1959.

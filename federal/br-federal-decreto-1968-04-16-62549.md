@@ -1,5 +1,3 @@
-###DEC-062549-0-000-16-04-1968@@@
-
 DECRETO Nº 62.549, DE 16 DE ABRIL DE 1968.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que, menciona, situado no Município de Votuporanga, Estado de São Paulo.

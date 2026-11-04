@@ -1,5 +1,3 @@
-###DEC-054515-0-000-21-10-1964@@@
-
 DECRETO Nº 54.515, DE 21 DE OUTUBRO DE 1964.
 
 Autoriza a cidadã brasileira Palmira Alexandroni Zanesco a pesquisar feldspato no município de Socorro, Estado de São Paulo.

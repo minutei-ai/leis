@@ -1,6 +1,10 @@
 > **LEI Nº 4.604, DE 15 DE JULHO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Denomina Hospital de Dermatologia Sanitária Regional Willian John Woods Dr. Guilherme, o Hospital de dermatologia sanitária localizado no município de Cruzeiro do Sul/AC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Denomina Hospital de Dermatologia Sanitária Regional Willian John Woods Dr. Guilherme, o Hospital de dermatologia sanitária localizado no município de Cruzeiro do Sul/AC.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-006973-0-000-07-10-2009@@@
-
 DECRETO Nº 6.973, DE 7 DE OUTUBRO DE 2009.
 
 Altera o Decreto no 5.520, de 24 de agosto de 2005, que institui o Sistema Federal de Cultura - SFC e dispõe sobre a composição e o funcionamento do Conselho Nacional de Política Cultural - CNPC do Ministério da Cultura.

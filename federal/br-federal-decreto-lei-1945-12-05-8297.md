@@ -1,5 +1,3 @@
-###DEL-008297-0-000-05-12-1945@@@
-
 DECRETO-LEI N. 8.297 – DE 5 DE DEZEMBRO DE 1945
 
 Abre crédito suplementar ao Ministério da Guerra,

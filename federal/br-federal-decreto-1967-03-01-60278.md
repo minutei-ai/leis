@@ -1,5 +1,3 @@
-###DEC-060278-0-000-01-03-1967@@@
-
 DECRETO Nº 60.278, DE 1 DE MARÇO DE 1967.
 
 Reduz interstício de permanência na graduação de Subtenente.

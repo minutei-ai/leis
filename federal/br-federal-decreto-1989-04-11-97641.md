@@ -1,7 +1,3 @@
-1
-
-###DEC-097641-0-000-11-04-1989@@@
-
 DECRETO N° 97.641, DE 11 DE ABRIL DE 1989
 
 Proíbe o provimento dos cargos, empregos ou funções vagos em decorrência da execução do Decreto n° 97.595, de 29 de março de 1989, que dispõe sobre a acumulação de cargos, empregos ou funções na Administração Federal.

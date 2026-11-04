@@ -1,5 +1,3 @@
-###DEC-078841-0-000-25-11-1976@@@
-
 DECRETO Nº 78.841, DE 25 DE NOVEMBRO DE 1976.
 
 Aprova a Primeira Edição da Farmacopéia Homeopática Brasileira, e dá outras providências.

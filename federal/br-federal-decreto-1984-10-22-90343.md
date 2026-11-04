@@ -1,5 +1,3 @@
-###DEC-090343-0-000-22-10-1984@@@
-
 Decreto nº 90.343, de 22 de outubro de 1984
 
 Outorga concessão ao SISTEMA IPANEMA DE COMUNICAÇÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Ipanema, Estado de Minas Gerais.

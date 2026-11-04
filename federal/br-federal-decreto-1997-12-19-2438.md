@@ -1,5 +1,3 @@
-###DEC-002438-0-000-19-12-1997@@@
-
 DECRETO Nº 2.438, DE 19 DE DEZEMBRO DE 1997
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 1.998, de 3 de setembro de 1996.

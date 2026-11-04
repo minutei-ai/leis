@@ -1,5 +1,3 @@
-###DEL-008314-0-000-07-12-1945@@@
-
 DECRETO-LEI N. 8.314 – DE 7 DE DEZEMBRO DE 1945
 
 Cria e inclue cargos na lotação permanente da Alfândega de Jaguarão.

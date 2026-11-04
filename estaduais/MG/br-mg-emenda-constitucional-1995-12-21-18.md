@@ -31,7 +31,3 @@ Deputado Ibrahim Jacob - 3º Secretário
 Deputado Ermano Batista - 4º Secretário
 
 Deputado Antônio Júlio - 5º Secretário
-
-\-------------------------------------------------------------------------
-
-Data da última atualização: 05/11/2003.

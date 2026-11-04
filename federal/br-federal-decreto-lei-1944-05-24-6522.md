@@ -1,5 +1,3 @@
-###DEL-006522-0-000-24-05-1944@@@
-
 DECRETO-LEI  N. 6.522 - DE 24 DE MAIO DE 1944
 
 Institue o “Dia do Telegrafista”

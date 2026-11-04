@@ -1,5 +1,3 @@
-###DEC-073800-0-000-12-03-1974@@@
-
 DECRETO Nº 73.800, DE 12 DE MARÇO DE 1974.
 
 Autoriza a cessão, sob o regime de aforamento, da Ilha do Combu, situada no Estado do Pará.

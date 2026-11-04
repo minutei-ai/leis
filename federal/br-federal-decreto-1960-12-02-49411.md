@@ -1,5 +1,3 @@
-###DEC-049411-0-000-02-12-1960@@@
-
 DECRETO Nº 49.411, DE 2 DE DEZEMBRO DE 1960.
 
 Aprova alterações introduzidas nos Estatutos, inclusivas aumento do capital social da Aliança de Minas Gerais - Companhia de Seguros.

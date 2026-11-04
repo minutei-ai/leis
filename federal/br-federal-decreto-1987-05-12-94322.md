@@ -1,7 +1,3 @@
-1
-
-###DEC-094322-0-000-12-05-1987@@@
-
 # DECRETO Nº 94.322, DE 12 DE MAIO DE 1987
 
 Autoriza o funcionamento do curso de Pedagogia do Centro de Ensino Superior de Barreiras.

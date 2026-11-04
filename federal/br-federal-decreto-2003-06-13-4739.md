@@ -1,5 +1,3 @@
-###DEC-004739-0-000-13-06-2003@@@
-
 DECRETO Nº 4.739, DE 13 DE JUNHO DE 2003.
 
        Transfere a competência que menciona, referida na Lei no 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.
@@ -24,6 +22,8 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 13 de junho de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Roberto Rodrigues<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Roberto Rodrigues
+
 Miguel Soldatelli Rossetto

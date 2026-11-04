@@ -1,5 +1,3 @@
-###DEC-092785-0-000-16-06-1986@@@
-
 DECRETO Nº 92.785, DE 16 DE JUNHO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - DNOCS - áreas de terra abrangidas pela bacia hidráulica e faixa seca e áreas de terra de empréstimo de materiais do Açude Público "FRIOS", no município de Uruburetama, Estado do Ceará, e dá outras providências.

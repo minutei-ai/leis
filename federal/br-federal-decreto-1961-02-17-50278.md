@@ -1,5 +1,3 @@
-###DEC-050278-0-000-17-02-1961@@@
-
 DECRETO Nº 50.278, DE 17 DE FEVEREIRO DE 1961.
 
 Cria o Grupo Executivo da Indústria Cinematográfica e dá outras providências.

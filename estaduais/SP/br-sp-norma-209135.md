@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209135)<br>
-
 # DECRETO N° 68.357, DE 29 DE FEVEREIRO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Entrevias Concessionária de Rodovias S/A, as áreas necessárias à duplicação do trecho entre os km 212+875m e 245+315m da Rodovia SP-333, nos Municípios de Borborema, Novo Horizonte e Pongaí, e dá providências correlatas._

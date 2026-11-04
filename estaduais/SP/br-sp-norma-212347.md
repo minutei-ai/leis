@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212347)<br>
-
 # LEI COMPLEMENTAR N° 1.439, DE 13 DE MARÇO DE 2026
 
 ## (Projeto de lei complementar n° 34/2025, dos Deputados Delegado Olim - PP, Capitão Telhada - PP, Gil Diniz Bolsonaro - PL e Altair Moraes - REPUBLICANOS)

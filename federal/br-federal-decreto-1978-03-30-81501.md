@@ -1,5 +1,3 @@
-###DEC-081501-0-000-30-03-1978@@@
-
 Decreto nº 81.501, de 30 de março de 1978.
 
 Concede reconhecimento ao curso de Fonoaudiologia, da pontifícia Universidade Católica de Campinas, com sede na cidade de Campinas, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-006438-0-000-22-04-2008@@@
-
 DECRETO Nº 6.438, DE 22 DE ABRIL DE 2008.
 
 Altera dispositivos do Decreto nº 6.168, de 24 de julho de 2007, que regulamenta a Lei nº 11.520, de 18 de setembro de 2007, que dispõe sobre a concessão de pensão especial às pessoas atingidas pela hanseníase que foram submetidas a isolamento e internação compulsórios.
@@ -33,5 +31,3 @@ LUIZ INÁCIO LULA DA SILVA
 Luiz Marinho
 
 Erenice Guerra
-
-Este texto não substitui o publicado no DOU de 23.4.2008

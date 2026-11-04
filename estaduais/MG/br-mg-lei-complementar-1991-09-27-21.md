@@ -51,7 +51,3 @@ Dada no Palácio da Liberdade, em Belo Horizonte, aos 27 de setembro de 1991.
 HÉLIO GARCIA
 
 Evandro de Pádua Abreu
-
-\============================================================
-
-Data da última atualização: 27/2/2023.

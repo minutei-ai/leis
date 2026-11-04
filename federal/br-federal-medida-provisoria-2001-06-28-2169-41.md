@@ -1,5 +1,3 @@
-###MPV-002169-0-041-28-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.169‑41, DE 28 DE JUNHO DE 2001
 
 Estende aos servidores públicos civis do Poder Executivo Federal a vantagem de vinte e oito vírgula oitenta e seis por cento, objeto da decisão do Supremo Tribunal Federal, e dá outras providências.

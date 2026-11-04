@@ -1,5 +1,3 @@
-###MPV-001905-0-015-26-08-1999@@@
-
 Medida Provisória nº 1.905-15, de 26 de agosto de 1999.
 
 Dispõe sobre a renegociação de dívidas no âmbito do programa de Crédito Educativo, e dá outras providências.

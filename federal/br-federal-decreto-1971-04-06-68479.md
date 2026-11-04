@@ -1,5 +1,3 @@
-###DEC-068479-0-000-06-04-1971@@@
-
 DECRETO Nº 68.479 - DE 6 DE ABRIL de 1971.
 
 Declara sem efeito o Decreto número 62.033, de 29 de dezembro de 1967.

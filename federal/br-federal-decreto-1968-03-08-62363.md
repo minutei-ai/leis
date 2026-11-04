@@ -1,5 +1,3 @@
-###DEC-062363-0-000-08-03-1968@@@
-
 DECRETO Nº 62.363, DE 8 DE MARÇO DE 1968.
 
 Outorga à Espirito Santo Centrais Elétricas S.A. autorização para o estudo dos recursos hidráulicos de trecho do rio Benevente, município de Alfredo Chaves, Estado do Espírito Santo.

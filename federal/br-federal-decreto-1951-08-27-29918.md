@@ -1,20 +1,18 @@
-###DEC-029918-0-000-27-08-1951@@@
+**DECRETO N. 29.918 – DE 27 DE AGÔSTO DE 1951**
 
-<strong>DECRETO N. 29.918 – DE 27 DE AGÔSTO DE 1951</strong>
-
-<em><strong>Outorga à Fiação Amparo S. A, concessão para o aproveitamento progressivo de energia hidráulica de um desnível existente no rio Jaguari, local denominado Ponte Nova, entre os municípios de Itatiba e Amparo, Estado de São Paulo.</strong></em>
+***Outorga à Fiação Amparo S. A, concessão para o aproveitamento progressivo de energia hidráulica de um desnível existente no rio Jaguari, local denominado Ponte Nova, entre os municípios de Itatiba e Amparo, Estado de São Paulo.***
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 87 inciso I, da Constituição, e nos têrmos do art. 150 do Código de águas (Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art.</strong> 1º E’ outorgada à Fiação Amparo S. A., concessão para o aproveitamento progressivo da energia hidráulica de um desnível existente no rio Jaguari, local denominado Ponte Nova entre o distrito de Morungaba, do município de Itatiba e o distrito de Amparo. do município do mesmo nome no Estado de São Paulo, respeitados os direitos de terceiros.
+**Art.** 1º E’ outorgada à Fiação Amparo S. A., concessão para o aproveitamento progressivo da energia hidráulica de um desnível existente no rio Jaguari, local denominado Ponte Nova entre o distrito de Morungaba, do município de Itatiba e o distrito de Amparo. do município do mesmo nome no Estado de São Paulo, respeitados os direitos de terceiros.
 
 § 1º Em portaria do Ministro da Agricultura, no ato da aprovação dos projetos, serão determinadas a altura da queda a aproveitar, a descarga de derivação e a potência da etapa inicial, bem como das subseqüentes, à medida que forem sendo aprovados os projetos correspondentes.
 
 § 2º O aproveitamento destina-se à produção, transmissão e distribuição de energia elétrica para uso exclusivo da concessionária, que não poderá ceder energia a terceiros, mesmo a título gratuito, excluída, todavia, desta proibição, as vilas operárias da concessionária, desde que seja gratuito o fornecimento da energia que lhes fôr feito.
 
-<strong>Art.</strong> 2º Caducará o presente título independente de ato declaratório, se a concessionária não Satisfizer as condições seguintes:
+**Art.** 2º Caducará o presente título independente de ato declaratório, se a concessionária não Satisfizer as condições seguintes:
 
 I – Registrá-lo na Divisão de Águas, do Departamento Nacional da Produção Mineral do Ministério da Agricultura, dentro de trinta (30) dias, contados da data de sua publicação.
 
@@ -100,22 +98,22 @@ V – Iniciar e concluir as obras nos prazos que fôrem determinados pelo Minist
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art.</strong> 3º A concessionária fica obrigada a construir e manter nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações fluviométricas e medições de descarga do curso dágua que vai utilizar, de acôrdo com as instruções da mesma Divisão.
+**Art.** 3º A concessionária fica obrigada a construir e manter nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações fluviométricas e medições de descarga do curso dágua que vai utilizar, de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art.</strong> 4º Findo o prazo da concessão, todos os bens e instalações que, no momento, existirem em função exclusiva e permanente da produção, transmissão e distribuição da energia elétrica, referentes ao aproveitamento concedido, reverterão ao Estado de São Paulo, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas.
+**Art.** 4º Findo o prazo da concessão, todos os bens e instalações que, no momento, existirem em função exclusiva e permanente da produção, transmissão e distribuição da energia elétrica, referentes ao aproveitamento concedido, reverterão ao Estado de São Paulo, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas.
 
 § 1º A concessionária poderá requerer ao Govêrno Federal que a concessão seja renovada, mediante as condições que vierem a ser estipulada, desde que faça a prova de que o Estado de São Paulo não se opõe à utilização dos bens objeto da reversão.
 
 § 2º A concessionária deverá entrar com o pedido a que se refere o parágrafo anterior, até seis (6) meses antes de findar o prazo de vigência da concessão, entendendo-se, se o não fizer que não pretende a renovação.
 
-<strong>Art.</strong> 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo contrato pelo Tribunal de Contas.
+**Art.** 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo contrato pelo Tribunal de Contas.
 
-<strong>Art.</strong> 6º O presente Decreto entra em vigor na data da sua publicação.
+**Art.** 6º O presente Decreto entra em vigor na data da sua publicação.
 
-<strong>Art.</strong> 7º Revogam-se as disposições em contrário.
+**Art.** 7º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 27 de agôsto de 1951; 130º da Independência e 63º da República.
 
-<strong>GETULIO VARGAS.</strong>
+**GETULIO VARGAS.**
 
 João Cleofas.

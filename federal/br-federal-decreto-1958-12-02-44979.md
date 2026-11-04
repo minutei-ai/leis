@@ -1,5 +1,3 @@
-###DEC-044979-0-000-02-12-1958@@@
-
 DECRETO Nº 44.979, DE 02 DE DEZEMBRO DE 1958.
 
 Renova o Decreto nº 39.458, de 27 de junho de 1956.

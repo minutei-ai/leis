@@ -1,5 +1,3 @@
-###DEC-069504-0-000-08-11-1971@@@
-
 DECRETO Nº 69.504 - de 8 DE novembro DE 1971
 
 Autoriza a cessão sob a forma de utilização gratuita, de terreno que menciona, situado no Estado da Guanabara.

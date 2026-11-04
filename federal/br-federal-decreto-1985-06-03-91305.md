@@ -1,5 +1,3 @@
-###DEC-091305-0-000-03-06-1985@@@
-
 DECRETO Nº 91.305, de 03 de junho de 1985.
 
 Altera dispositivos do Regulamento do Conselho Nacional do Meio Ambiente (CONAMA).

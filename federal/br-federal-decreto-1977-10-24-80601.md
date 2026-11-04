@@ -1,5 +1,3 @@
-###DEC-080601-0-000-24-10-1977@@@
-
 DECRETO Nº 80.601, DE 24 DE OUTUBRO DE 1977.
 
 Dispõe sobre o depósito dos recursos liberados à conta do PIN e do PROTERRA e dá outras providências.

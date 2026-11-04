@@ -1,5 +1,3 @@
-###DEL-009720-0-000-03-09-1946@@@
-
 DECRETO-LEI N. 9.720 – DE 3 DE SETEMBRO DE 1946
 
 Modifica o disposto nos Decretos-leis nº 4.451, de 9 de julho de 1942, e 5.185, de 12 de janeiro de 1943, relativos à constituição e atribuições do Banco de Crédito da Borracha S.A., e dá outras providências.

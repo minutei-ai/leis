@@ -1,5 +1,3 @@
-###DEC-006178-0-000-01-08-2007@@@
-
 DECRETO Nº 6.178, DE 1º DE AGOSTO DE 2007.
 
 Dispõe sobre a execução da Ata de Retificação, de 19 de dezembro de 2006, do Acordo de Complementação Econômica no 59, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, Estados-Partes do MERCOSUL, e os Governos da República da Colômbia, da República do Equador e da República Bolivariana da Venezuela.
@@ -22,11 +20,7 @@ Brasília, 1º de agosto de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 2.8.2007
-
-ALADI/AAP.CE/59/ACR.2
+Celso Luiz Nunes AmorimALADI/AAP.CE/59/ACR.2
 
 19 de janeiro de 2007
 

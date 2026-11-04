@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208141)<br>
-
 # DECRETO N° 67.726, DE 29 DE MAIO DE 2023
 
 ### _Altera o Decreto n° 64.790, de 13 de fevereiro de 2020, que Institui a Central de Dados do Estado de São Paulo - CDESP, a Plataforma Única de Acesso - PUA e o Comitê Gestor de Governança de Dados e Informações do Estado de São Paulo, e dá providências correlatas._

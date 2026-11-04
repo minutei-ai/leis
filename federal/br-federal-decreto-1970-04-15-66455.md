@@ -1,5 +1,3 @@
-###DEC-066455-0-000-15-04-1970@@@
-
 DECRETO Nº 66.455, DE 15 DE ABRIL DE 1970.
 
 Dispõe sobre os resultados das pesquisa em área declarada Reserva Nacional.

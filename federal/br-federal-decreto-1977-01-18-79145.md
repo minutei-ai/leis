@@ -1,5 +1,3 @@
-###DEC-079145-0-000-18-01-1977@@@
-
 DECRETO Nº 79.145, DE 18 DE JANEIRO DE 1977.
 
 Autoriza o funcionamento da habilitação em Orientação Educacional, no curso de Pedagogia, do Centro de Ensino Superior de Erexim, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-086885-0-000-28-01-1982@@@
-
 Decreto nº 86.885, de 28 de janeiro de 1982
 
 Regulamenta o Decreto-lei nº 1.923, de 20 de janeiro de 1982, que modifica a legislação que dispõe sobre o Fundo de Apoio ao Desenvolvimento Social -FAS.

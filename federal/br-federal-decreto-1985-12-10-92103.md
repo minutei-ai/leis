@@ -1,5 +1,3 @@
-###DEC-092103-0-000-10-12-1985@@@
-
 DECRETO Nº 92.103, DE 10 DE DEZEMBRO DE 1985
 
 Outorga concessão à EMPRESA DE RADIODIFUSÃO MORIMOTO LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Ji-Paraná, Estado de Rondônia.

@@ -1,5 +1,3 @@
-###DEL-003652-0-000-25-09-1941@@@
-
 DECRETO-LEI N. 3.652 – DE 25 DE SETEMBRO DE 1941
 
 Abre, pelo Ministério das Relações Exteriores, o crédito suplementar de 400:000$0, à verba que especifica

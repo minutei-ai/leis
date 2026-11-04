@@ -1,5 +1,3 @@
-###DEC-004860-0-000-18-10-2003@@@
-
 DECRETO Nº 4.860,  DE 18 DE OUTUBRO DE 2003.
 
        Prorroga o prazo de que trata o § 2o do art. 1o da Lei no 10.703, de 18 de julho de 2003, que dispõe sobre o cadastramento de usuários de telefones celulares pré-pagos.
@@ -14,5 +12,6 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 18 de outubro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Miro Teixeira

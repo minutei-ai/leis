@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/06ad6176-9824-4e72-b4fb-ecfac09b8cbc/texto#nowhere)
 
-###DEL-000415-0-000-10-01-1969@@@
-
 DECRETO-LEI Nº 415, DE 10 DE JANEIRO DE 1969
 
 Dispõe sôbre o Fundo Portuário Nacional, e dá outras providências.

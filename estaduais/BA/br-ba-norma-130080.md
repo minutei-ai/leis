@@ -88,7 +88,35 @@ Art. 3º - O dispositivo da Lei nº 3.956, de 11 de dezembro de 1981, a seguir i
 
 Art. 4º - Fica acrescentado o subitem "2.8" ao item "2" do Anexo II da Lei nº 11.631, de 30 de dezembro de 2009, com a seguinte redação:
 
-<table style="border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 18.3pt; border: solid navy 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 15.95pt;" valign="top" width="24"><p>"2</p></td><td style="width: 19.6pt; border: solid navy 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 15.95pt;" valign="top" width="26"><p>8</p></td><td style="width: 19.55pt; border: solid navy 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 15.95pt;" valign="top" width="26"><p>&nbsp;</p></td><td style="width: 19.6pt; border: solid navy 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 15.95pt;" valign="top" width="26"><p>&nbsp;</p></td><td style="width: 18.25pt; border: solid navy 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 15.95pt;" valign="top" width="24"><p>&nbsp;</p></td><td style="width: 321.2pt; border: solid navy 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 15.95pt;" valign="top" width="428"><p>Conciliação de evento prévio de emissão de documento fiscal eletrônico em contingência, por documento</p></td><td style="width: 85.5pt; border: solid navy 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 15.95pt;" valign="top" width="114"><p style="text-indent: 16.5pt;">10,00".</p></td></tr></tbody></table>
+<table style="border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 18.3pt; border: solid navy 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 15.95pt;" valign="top" width="24">
+
+"2
+
+</td><td style="width: 19.6pt; border: solid navy 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 15.95pt;" valign="top" width="26">
+
+8
+
+</td><td style="width: 19.55pt; border: solid navy 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 15.95pt;" valign="top" width="26">
+
+&nbsp;
+
+</td><td style="width: 19.6pt; border: solid navy 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 15.95pt;" valign="top" width="26">
+
+&nbsp;
+
+</td><td style="width: 18.25pt; border: solid navy 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 15.95pt;" valign="top" width="24">
+
+&nbsp;
+
+</td><td style="width: 321.2pt; border: solid navy 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 15.95pt;" valign="top" width="428">
+
+Conciliação de evento prévio de emissão de documento fiscal eletrônico em contingência, por documento
+
+</td><td style="width: 85.5pt; border: solid navy 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 15.95pt;" valign="top" width="114">
+
+10,00".
+
+</td></tr></tbody></table>
 
 Art. 5º - Fica acrescentado o § 3º ao art. 6º da Lei nº 6.348, de 17 de dezembro de 1991, com a seguinte redação:
 

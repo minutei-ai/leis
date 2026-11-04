@@ -1,7 +1,3 @@
-1
-
-###DEC-001076-0-000-04-03-1994@@@
-
 # DECRETO N° 1.076, DE 4 DE MARÇO DE 1994
 
 Dispõe sobre a execução do Décimo Nono Protocolo Adicional ao Acordo de Complementação Econômica n° 14, entre Brasil e Argentina, de 23 de agosto de 1993.

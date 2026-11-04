@@ -1,5 +1,3 @@
-###DEC-069956-0-000-18-01-1972@@@
-
 Decreto nº 69.956, de 18 de janeiro de 1972.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Invernada do Butiá", situado no Município de Sarandi, Estado do Rio Grande do Sul.

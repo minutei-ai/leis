@@ -1,5 +1,3 @@
-###DEC-052405-0-000-27-08-1963@@@
-
 DECRETO Nº 52.405, DE 27 DE AGÔSTO DE 1963.
 
 Regulamenta o disposto no art. 45 da Lei nº 4.131, de 3 de setembro de 1962.

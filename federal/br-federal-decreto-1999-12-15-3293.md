@@ -1,5 +1,3 @@
-###DEC-003293-0-000-15-12-1999@@@
-
 DECRETO Nº 3.293, DE 15 DE DEZEMBRO DE 1999.
 
 Dá nova redação a dispositivos do Regulamento de Promoções da Carreira de Diplomata do Serviço Exterior, aprovado pelo Decreto n° 93.326, de 1° de outubro de 1986.

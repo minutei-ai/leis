@@ -1,5 +1,3 @@
-###DEL-000580-0-000-14-05-1969@@@
-
 DECRETO-LEI Nº 580, DE 14 DE MAIO DE 1969
 
 Altera dispositivo da Lei nº 2.851, de 25 de agôsto de 1956 (Lei de Organização Básica do Exército).

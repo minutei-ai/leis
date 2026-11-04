@@ -1,5 +1,3 @@
-###DEC-095052-0-000-16-10-1987@@@
-
 DECRETO Nº 95.052, DE 16 DE OUTUBRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Patrocínio Paulista, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

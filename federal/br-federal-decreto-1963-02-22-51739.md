@@ -1,5 +1,3 @@
-###DEC-051739-0-000-22-02-1963@@@
-
 DECRETO Nº 51.739, DE 22 DE FEVEREIRO DE 1963.
 
 Declara de utilidade pública para efeito de desapropriação pelo Departamento Nacional de Estradas de Ferro, faixa de terreno e respectivas benfeitorias necessárias à construção da ligação ferroviária D. Silvério - São Domingos do Prata - Nova Era, no Estado de Minas Gerais.

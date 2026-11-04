@@ -1,5 +1,3 @@
-###DEC-049387-0-000-30-11-1960@@@
-
 DECRETO Nº 49.387, DE 30 DE NOVEMBRO DE 1960.
 
 Cria cargos e funções gratificadas no Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas e dá outras providências.

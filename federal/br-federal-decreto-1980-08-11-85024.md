@@ -1,5 +1,3 @@
-###DEC-085024-0-000-11-08-1980@@@
-
 Decreto nº 85.024, de 11 de agosto de 1980.
 
 Extingue o Vice-Consulado do Brasil em Praia, Cabo Verde.

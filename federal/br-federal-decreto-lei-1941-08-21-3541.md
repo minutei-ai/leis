@@ -1,5 +1,3 @@
-###DEL-003541-0-000-21-08-1941@@@
-
 DECRETO-LEI N. 3.541 – DE 21 DE AGOSTO DE 1941
 
  Extingue uma Contadoria Seccional

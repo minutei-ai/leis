@@ -1,5 +1,3 @@
-###DEC-050899-0-000-03-07-1961@@@
-
 DECRETO Nº 50.899, DE 3 DE JULHO DE 1961.
 
 Autoriza a Comissão Interestadual da Bacia do Paraná-Uruguai a proceder aos estudos para aproveitamento da energia hidráulica do rio Iguaçu, desde a foz do rio Santo Antônio até as cabeceiras.

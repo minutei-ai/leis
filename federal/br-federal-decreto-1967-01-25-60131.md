@@ -1,5 +1,3 @@
-###DEC-060131-0-000-25-01-1967@@@
-
 decreto nº 60.131, de 25 de janeiro de 1967.
 
 Declara a perempção da concessão outorgada à Rádio Iracema de Fortaleza S.A. pelo Decreto número 43.636, de 2 de maio de 1968, para estabelecer a título precário, na cidade de Sobral, Estado do Ceará, uma Estação radiodifusora de ondas tropicais.

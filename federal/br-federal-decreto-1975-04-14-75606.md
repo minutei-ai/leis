@@ -1,5 +1,3 @@
-###DEC-075606-0-000-14-04-1975@@@
-
 DECRETO Nº 75.606, DE 14 DE ABRIL DE 1975.
 
 Concede reconhecimento ao Curso de Geografia da Universidade de Brasília, mantida pela Fundação Universidade de Brasília, com sede na cidade de Brasília, Distrito Federal.

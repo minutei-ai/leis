@@ -1,5 +1,3 @@
-###DEC-007750-0-000-08-06-2012-PUB-01@@@
-
 DECRETO N° 7.750, DE 8 DE JUNHO DE 2012
 
 Regulamenta o Programa Um Computador por Aluno - PROUCA e o Regime Especial de Incentivo a Computadores para Uso Educacional - REICOMP.

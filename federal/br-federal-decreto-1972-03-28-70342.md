@@ -1,5 +1,3 @@
-###DEC-070342-0-000-28-03-1972@@@
-
 decreto nº 70.342, de 28 de março de 1972.
 
 Outorga à Centrais Elétricas de Goiás S.A. concessão para o aproveitamento hidráulico de um trecho do ribeirão Lageado Grande, no município de Tocantínia, Estado de Goiás.

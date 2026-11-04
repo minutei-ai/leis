@@ -1,5 +1,3 @@
-###DEC-057109-0-000-19-10-1965@@@
-
 DECRETO Nº 57.109, DE 19 DE OUTUBRO DE 1965.
 
 Autoriza o cidadão brasileiro Eduardo Lins a pesquisar calcário, no município de Monte Alegre, Estado do Pará.

@@ -1,5 +1,3 @@
-###DEC-060321-0-000-07-03-1967@@@
-
 DECRETO Nº 60.321, de 7 DE MARÇO DE 1967.
 
 Autoriza a doação de certos bens do Instituto Nacional de Previdência Social situados nos seus Conjuntos Residenciais e dá outras providências.

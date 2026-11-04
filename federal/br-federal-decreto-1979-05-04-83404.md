@@ -1,5 +1,3 @@
-###DEC-083404-0-000-04-05-1979@@@
-
 Decreto nº 83.404, de 04 de maio de 1979.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa , faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Santa Catarina S.A. - CELESC, no Estado de Santa Catarina.

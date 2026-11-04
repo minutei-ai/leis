@@ -1,5 +1,3 @@
-###DEL-008336-0-000-10-12-1945@@@
-
 DECRETO-LEI N. 8.336 – DE 10 DE DEZEMBRO DE 1945
 
 Altera sedes normais de estacionamento de Unidades de Aviação

@@ -1,5 +1,3 @@
-###DEL-009872-0-000-16-09-1946@@@
-
 DECRETO-LEI N. 9.872 – DE 16 DE SETEMBRO DE 1946
 
 Dispõe sôbre a aplicação do Decreto-lei nº 9.727, de 3 de Setembro do 1946.

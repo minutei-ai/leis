@@ -1,5 +1,3 @@
-###DEC-067232-0-000-22-09-1970@@@
-
 Decreto nº 67.232, de 22 de setembro de 1970.
 
 Redistribui, para o Quadro de Pessoal do Ministério da Indústria e do Comércio, cargo integrante do Quadro de Pessoal do Ministério do Trabalho e Previdência Social.

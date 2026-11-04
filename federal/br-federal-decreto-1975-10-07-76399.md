@@ -1,5 +1,3 @@
-###DEC-076399-0-000-07-10-1975@@@
-
 DECRETO Nº 76.399, DE 7 DE OUTUBRO DE 1975.
 
 Concede à CALFIBRA S.A. - Mineração Indústria e Comércio o direito de lavrar calcário no Município de Ponta Grossa, Estado do Paraná.

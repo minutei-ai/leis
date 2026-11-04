@@ -16,11 +16,14 @@ A Assembleia Legislativa do Estado do Paraná decretou e eu sanciono a seguinte 
 
 Palácio do Governo, em 16 de outubro de 2026.
 
-_Carlos Massa Ratinho Junior<br>
+_Carlos Massa Ratinho Junior
+
 Governador do Estado_
 
-_João Carlos Ortega<br>
+_João Carlos Ortega
+
 Chefe da Casa Civil_
 
-_Gilberto Ribeiro<br>
+_Gilberto Ribeiro
+
 Deputado Estadual_

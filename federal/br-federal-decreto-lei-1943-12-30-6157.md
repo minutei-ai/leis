@@ -1,5 +1,3 @@
-###DEL-006157-0-000-30-12-1943@@@
-
 DECRETO‑LEI N. 6.157 – DE 30 DE DEZEMBRO DE 1943
 
 Abre, ao Ministério da Justiça e Negócios Interiores o crédito suplementar de Cr$ 41.000,00 à verba que especifica

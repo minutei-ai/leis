@@ -1,5 +1,3 @@
-###DEC-047219-0-000-12-11-1959@@@
-
 DECRETO Nº 47.219, DE 12 DE NOVEMBRO DE 1959.
 
 Outorga concessão à Rádio Pampa Limitada para instalar uma estação radiodifusora.

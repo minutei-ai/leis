@@ -1,5 +1,3 @@
-###DEL-005968-0-000-03-11-1943@@@
-
 DECRETO‑LEI N. 5.968 – DE 3 DE NOVEMBRO DE 1943
 
 Prorroga a vigência do crédito especial aberto ao Ministério da Fazenda pelo decreto‑lei n. 4.443, de 6 de julho de 1942

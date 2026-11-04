@@ -1,7 +1,3 @@
-1
-
-###DEC-099479-0-000-29-08-1990@@@
-
 DECRETO N° 99.479, DE 29 DE AGOSTO DE 1990
 
 Dispõe sobre a execução do Trigésimo Primeiro Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Concessões Outorgadas no Período 1962/80, entre o Brasil e a Argentina (Acordo n° 1 ).

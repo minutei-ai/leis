@@ -1,5 +1,3 @@
-###DEC-062423-0-000-18-03-1968@@@
-
 DECRETO Nº 62.423, DE 18 DE MARÇO DE 1968.
 
 Autoriza a Indústrias Brasileiras de Artigos Refratários S/A - IBAR - a lavrar quartzito, no Município de Itapeva, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###MPV-000246-0-000-06-04-2005@@@
-
 MEDIDA PROVISÓRIA Nº 246, DE 6 DE ABRIL DE 2005
 
 Dispõe sobre a reestruturação do setor ferroviário e o término do processo de liquidação da Rede Ferroviária Federal S.A., altera dispositivos das Leis nºs 10.233, de 5 de junho de 2001, e 11.046, de 27 de dezembro de 2004, e dá outras providências.

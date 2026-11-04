@@ -1,5 +1,3 @@
-###DEC-002771-0-000-08-09-1998@@@
-
 DECRETO Nº 2.771, DE 8 DE SETEMBRO DE 1998
 
 Regulamenta a Lei nº 9.675, de 29 de junho de 1998, que dispõe sobre o registro provisório para o estrangeiro em situação ilegal no território nacional.

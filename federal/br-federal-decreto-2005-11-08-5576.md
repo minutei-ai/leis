@@ -1,5 +1,3 @@
-###DEC-005576-0-000-08-11-2005@@@
-
 DECRETO Nº 5.576, DE 8 DE NOVEMBRO DE 2005.
 
        Promulga a Convenção entre o Governo da República Federativa do Brasil e o Governo do Estado de Israel Destinada a Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Relação ao Imposto sobre a Renda, celebrada em Brasília, em 12 de dezembro de 2002.
@@ -24,11 +22,7 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
 LUIZ INÁCIO LULA DA SILVA
 
-Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no DOU de 9.11.2005
-
-CONVENÇÃO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O
+Samuel Pinheiro Guimarães NetoCONVENÇÃO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O
 
 GOVERNO DO ESTADO DE ISRAEL DESTINADA A EVITAR A DUPLA
 

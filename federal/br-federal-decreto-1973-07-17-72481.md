@@ -1,5 +1,3 @@
-###DEC-072481-0-000-17-07-1973@@@
-
 decreto nº 72.481, de 17 de julho de 1973.
 
 Declara de utilidade pública, para fins de constituição e servidão administrativa, faixa de terra destinada à passagem de linha de transmissão, no Estado de São Paulo.

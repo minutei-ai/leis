@@ -1,7 +1,3 @@
-1
-
-###MPV-000756-0-000-08-12-1994@@@
-
 # MEDIDA PROVISÓRIA N° 756, DE 8 DE DEZEMBRO DE 1994
 
 Estabelece normas de controle e fiscalização sobre produtos e insumos químicos que possam ser destinados à elaboração da cocaína em suas diversas formas e de outras substâncias entorpecentes ou que determinem dependência física ou psíquica.

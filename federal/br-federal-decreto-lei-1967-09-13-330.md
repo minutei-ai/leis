@@ -1,5 +1,3 @@
-###DEL-000330-0-000-13-09-1967@@@
-
 DECRETO-LEI Nº 330, DE 13 DE SETEMBRO DE 1967
 
 Revoga dispositivos do Decreto-lei nº 227, de 28 de fevereiro de 1967, alterado pelo Decreto-lei nº 318, de 14 de março de 1967 (Código de Minas) e restaura vigência do art. 33, da Lei nº 4.118, de 27 de agôsto de 1962

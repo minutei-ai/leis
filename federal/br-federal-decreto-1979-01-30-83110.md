@@ -1,5 +1,3 @@
-###DEC-083110-0-000-30-01-1979@@@
-
 DECRETO Nº 83.110, DE 30 DE JANEIRO DE 1979
 
 Altera dispositivo do Decreto nº 71.533, de 12 de dezembro de 1972, que regulamenta as férias e outros afastamentos totais do serviço previstos no Estatuto dos Militares.

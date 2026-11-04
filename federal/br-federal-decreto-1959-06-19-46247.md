@@ -1,5 +1,3 @@
-###DEC-046247-0-000-19-06-1959@@@
-
 DECRETO Nº 46.247, DE 19 DE JUNHO DE 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Cana do Reino do Reino, no Estado de Minas Gerais.

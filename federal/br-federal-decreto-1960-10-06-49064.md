@@ -1,5 +1,3 @@
-###DEC-049064-0-000-06-10-1960@@@
-
 DECRETO Nº 49.064, DE 6 DE OUTUBRO DE 1960.
 
 Concede reconhecimento a curso.

@@ -1,5 +1,3 @@
-###DEC-095024-0-000-09-10-1987@@@
-
 DECRETO Nº 95.024, DE 9 DE OUTUBRO DE 1987
 
 Autoriza o aumento de capital da Companhia Brasileira de Participação Agroindustrial - BRASAGRO.

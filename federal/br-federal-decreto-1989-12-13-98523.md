@@ -1,5 +1,3 @@
-###DEC-098523-0-000-13-12-1989@@@
-
 DECRETO N° 98.523, DE 13 DE DEZEMBRO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Visconde do Rio Branco II, da Companhia Força e Luz Cataguazes-Leopoldina - CFLCL, no Estado de Minas Gerais.

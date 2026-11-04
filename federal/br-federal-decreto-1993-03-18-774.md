@@ -1,7 +1,3 @@
-1
-
-###DEC-000774-0-000-18-03-1993@@@
-
 DECRETO Nº 774, DE 18 DE MARÇO DE 1993
 
 Regulamenta a Lei nº 8.631, de 4 de março de 1993, que dispõe sobre a fixação dos níveis das tarifas para o serviço público de energia elétrica, extingue o regime de remuneração garantida e dá outras providências.

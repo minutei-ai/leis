@@ -1,5 +1,3 @@
-###DEC-062406-0-000-15-03-1968@@@
-
 DECRETO Nº 62.406, DE 15 DE MARÇO DE 1968.
 
 Declara de utilidade pública, a “Sociedade de Assistência Médico-Social de Argirita”, com sede em Argirita, Estado de Minas Gerais.

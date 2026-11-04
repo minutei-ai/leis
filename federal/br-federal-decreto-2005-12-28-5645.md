@@ -1,5 +1,3 @@
-###DEC-005645-0-000-28-12-2005@@@
-
 DECRETO Nº 5.645, DE 28 DE DEZEMBRO DE 2005.
 
        Dá nova redação ao art. 53 do Decreto no 5.296, de 2 de dezembro de 2004.

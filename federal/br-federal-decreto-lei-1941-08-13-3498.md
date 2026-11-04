@@ -1,5 +1,3 @@
-###DEL-003498-0-000-13-08-1941@@@
-
 DECRETO-LEI N. 3.498 – DE 13 DE AGOSTO DE 1941
 
 Abre pelo Ministério da Viação e Obras Públicas, o crédito especial de 150:000$0 para pagamento de ajuda de custo, gratificação e transporte

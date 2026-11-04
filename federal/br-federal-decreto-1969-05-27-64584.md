@@ -1,5 +1,3 @@
-###DEC-064584-0-000-27-05-1969@@@
-
 decreto nº 64.584, de 27 de maio de 1969.
 
 Declara de utilidade pública, a Sociedade Portuguêsa de Beneficência com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

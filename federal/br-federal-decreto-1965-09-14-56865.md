@@ -1,5 +1,3 @@
-###DEC-056865-0-000-14-09-1965@@@
-
 DECRETO Nº 56.865, DE 14 DE SETEMBRO DE 1965.
 
 Extingue Exatoria Federal em Vassouras e cria uma no Município de Miguel Pereira, ambas no Estado do Rio de Janeiro.

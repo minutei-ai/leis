@@ -1,5 +1,3 @@
-###DEC-080651-0-000-01-11-1977@@@
-
 DECRETO Nº 80.651, DE 01 DE NOVEMBRO DE 1977.
 
 Concede reconhecimento aos cursos de Filosofia, de Ciências, de Matemática e de Formação de Professores das Disciplinas Especializadas de 2º Grau, ministrados pela Escola Superior de Ciências e Pedagogia de Tubarão, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-048957-0-000-16-09-1960@@@
-
 Decreto nº 48.957, de 16 de setembro de 1960.
 
 Autoriza a cessão gratuita do terreno que menciona, situado na Cidade do Rio de Janeiro, Estado da Guanabara.
@@ -21,8 +19,6 @@ Juscelino Kubitschek.
 Ernani do Amaral Peixoto.
 
 S. Paes de Almeida.
-
-###DEC-048957-0-000-16-09-1960@@@RET01+++
 
 DECRETO Nº 48.957, DE 16 DE SETEMBRO DE 1960.
 

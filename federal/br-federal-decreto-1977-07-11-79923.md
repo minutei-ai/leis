@@ -1,5 +1,3 @@
-###DEC-079923-0-000-11-07-1977@@@
-
 decreto nº 79.923, de 11 de julho de 1977
 
 Concede à Itapessoca Agro-Industrial S.A. o direito de lavrar gipsita no Município de Ipubi, Estado do Pernambuco.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001017-0-000-08-06-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.017, DE 8 DE JUNHO DE 1995.
 
 Estabelece normas para outorga e prorrogação das concessões e permissões de serviços públicos, e dá outras providências.

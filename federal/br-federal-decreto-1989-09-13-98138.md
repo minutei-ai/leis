@@ -1,7 +1,3 @@
-1
-
-###DEC-098138-0-000-13-09-1989@@@
-
 DECRETO N° 98.138, DE 13 DE SETEMBRO DE 1989
 
 Dá nova redação ao § 1° do art. 1° do Decreto n° 97.814, de 6 de junho de 1989, que estabelece requisitos para os investimentos de empresas estatais em novos projetos, bem como na ampliação e modernização de empreendimentos existentes, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-059313-0-000-28-09-1966@@@
-
 DECRETO Nº 59.313, DE 28 DE SETEMBRO DE 1966.
 
 Modifica a denominação de estabelecimento de ensino.

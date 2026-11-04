@@ -1,5 +1,3 @@
-###DEC-045676-0-000-31-03-1959@@@
-
 Decreto nº 45.676, de 31 de março de 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de São Luiz Gonzaga, no Estado do Rio Grande do Sul.

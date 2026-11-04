@@ -1,6 +1,6 @@
 Portaria Orçamentária nº 347/2024 - Economia
 
-**O** **SECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "c" e art. 11 da [Lei nº 22.536](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392), de 9 de Janeiro de 2024, conforme processo 202400004040517.
+**OSECRETÁRIO DE ESTADO DA ECONOMIA**, no uso de suas atribuições legais, com fundamento no art. 8º, inciso III, alínea "c" e art. 11 da [Lei nº 22.536](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392), de 9 de Janeiro de 2024, conforme processo 202400004040517.
 
 **RESOLVE:**
 
@@ -12,15 +12,13 @@ Art. 2º Esta Portaria entra em vigor nesta data.
 
 GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA, em Goiânia, aos 26 dias do mês de Junho de 2024.
 
-<br>
-
 FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
 | SUPLEMENTAÇÃO |
 | --- |
-| **1800 - SECRETARIA DE ESTADO DA ADMINISTRAÇÃO** **1802 - ENCARGOS GERAIS DO ESTADO** |
+| **1800 - SECRETARIA DE ESTADO DA ADMINISTRAÇÃO1802 - ENCARGOS GERAIS DO ESTADO** |
 | **CLASSIF. ORÇAMENTÁRIA** | **DESCRIÇÃO DA AÇÃO** | **GRUPO DE DESPESA** | **FONTE** | **MODALIDADE** |
 | 08 244 1040 2.188 | PROJETOS SOCIAIS A CARGO DE ORGANIZAÇÕES SOCIAIS | 3 - OUTRAS DESPESAS CORRENTES | 25000100 | 50 |
 | **SALDO CRÉD. SUPLEMENTAR** | **VALOR DA DESPESA** | **VALOR A SUPLEMENTAR** |

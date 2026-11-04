@@ -1,5 +1,3 @@
-###DEC-090336-0-000-16-10-1984@@@
-
 Decreto nº 90.336, de 16 de outubro de 1984.
 
 Concede à Empresa Gerencial de Projetos Navais - EMGEPRON, autorização para proceder o aumento do seu capital inicial.

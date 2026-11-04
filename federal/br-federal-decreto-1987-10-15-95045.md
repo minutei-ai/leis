@@ -1,5 +1,3 @@
-###DEC-095045-0-000-15-10-1987@@@
-
 DECRETO Nº 95.045, DE 15 DE OUTUBRO DE 1987
 
 Autoriza o funcionamento de habilitação do curso de Pedagogia da Fundação Educacional de Divinópolis.

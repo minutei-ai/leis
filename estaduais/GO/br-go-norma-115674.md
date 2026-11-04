@@ -12,7 +12,8 @@ Art. 3º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 22 de junho de 2026; 138º da República.
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
 ANEXO ÚNICO
@@ -23,6 +24,28 @@ ANEXO ÚNICO
 
 QUADRO DE OFICIAIS DE COMANDO – QOC
 
-<table><thead></thead><tbody><tr><td style="text-align:center">POSTO</td><td style="text-align:center">QUANTITATIVO 2025</td><td style="text-align:center">QUANTITATIVO 2026</td></tr><tr><td style="text-align:center">Coronel BM</td><td style="text-align:center">.................................................</td><td style="text-align:center">25</td></tr><tr><td style="text-align:center">...............................................</td><td style="text-align:center">.................................................</td><td style="text-align:center">.................................................</td></tr><tr><td style="text-align:center">2º Tenente BM</td><td style="text-align:center">.................................................</td><td style="text-align:center">152</td></tr></tbody></table>
+POSTO
+
+QUANTITATIVO 2025
+
+QUANTITATIVO 2026
+
+Coronel BM
+
+.................................................
+
+25
+
+...............................................
+
+.................................................
+
+.................................................
+
+2º Tenente BM
+
+.................................................
+
+152
 
 ..........................................................................................................................” (NR)

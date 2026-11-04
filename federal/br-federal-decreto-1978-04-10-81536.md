@@ -1,5 +1,3 @@
-###DEC-081536-0-000-10-04-1978@@@
-
 Decreto nº 81.536, de 10 de abril de 1978.
 
 Concede à Indústria Extrativa Araruama S/A o direito de lavrar calcário no Município de Cantagalo, Estado do Rio de Janeiro.

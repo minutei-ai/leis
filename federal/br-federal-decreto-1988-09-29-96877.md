@@ -1,5 +1,3 @@
-###DEC-096877-0-000-29-09-1988@@@
-
 DECRETO N° 96.877, DE 29 DE SETEMBRO DE 1988
 
 Altera os itens I a VI do artigo 1° item I do artigo 3º e itens I  a IV do artigo 10 do Decreto n ° 86.763, de 22 de dezembro de 1981.
@@ -52,7 +50,7 @@ d) Praças e Praças Especiais  85% (oitenta e cinco por cento).
 
 Art.10\. ....................................................
 
-<D>.<I>............................................. ...............
+<D>.*............................................. ...............
 
  I - 55% (cinqüenta e cinco por cento) quando o tempo computado for de 40 (quarenta) anos;
 

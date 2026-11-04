@@ -1,5 +1,3 @@
-###DEL-007478-0-000-19-04-1945@@@
-
 DECRETO-LEI N. 7.478 – DE 19 DE ABRIL DE 1945
 
 Autoriza acôrdo entre a União, como sucessora da Emprêsa de Melhoramentos da Baixada Fluminense, e a S.A. Lameiro, com interveniência da Sociedade Lar Proletário, para retificação de limites e áreas de terrenos judicialmente desapropriados

@@ -1,5 +1,3 @@
-###DEC-085052-0-000-18-08-1980@@@
-
 Decreto nº 85.052, de 18 de agosto de 1980.
 
 Cria Grupo de Trabalho no Ministério da Justiça, para o fim que especifica.

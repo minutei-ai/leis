@@ -1,12 +1,10 @@
-###LEI-000085-0-000-26-09-1839@@@
+**LEI N. 85 - DE 26 DE SETEMBRO DE 1839**
 
-<strong>LEI N. 85 - DE 26 DE SETEMBRO DE 1839</strong>
-
-<em><strong>Fixando as Forças de Terra para o anno financeiro de 1840 a 1841.</strong></em>
+***Fixando as Forças de Terra para o anno financeiro de 1840 a 1841.***
 
 O Regente em Nome do Imperador o Senhor Dom Pedro Segundo Faz saber a todos os Subditos do Imperio que a Assembléa Geral Legislativa decretou, e Elle sanccionou a Lei seguinte:
 
-<strong>Art.</strong> 1º As Forças de Terra para o anno financeiro de 1840 a 1841 constaráõ:
+**Art.** 1º As Forças de Terra para o anno financeiro de 1840 a 1841 constaráõ:
 
 § 1º Dos Officiaes Generaes, dos do Estado Maior do Exercito, Praças e Arsenaes, Corpo de Engenheiros, e Officiaes dos Corpos.
 
@@ -16,7 +14,7 @@ O Regente em Nome do Imperador o Senhor Dom Pedro Segundo Faz saber a todos os S
 
 § 4º De oito Companhias de Artifices.
 
-<strong>Art.</strong> 2º As Forças de Linha acima fixadas serão distribuidas pela maneira seguinte:
+**Art.** 2º As Forças de Linha acima fixadas serão distribuidas pela maneira seguinte:
 
 12 Batalhões de Caçadores.
 
@@ -28,7 +26,7 @@ O Regente em Nome do Imperador o Senhor Dom Pedro Segundo Faz saber a todos os S
 
 1 Corpo de Pontoneiros, Sapadores, e Mineiros.
 
-<strong>Art.</strong> 3º As Forças fóra da Linha acima designadas constaráõ:
+**Art.** 3º As Forças fóra da Linha acima designadas constaráõ:
 
 De um Corpo de Artilharia.
 
@@ -40,19 +38,19 @@ De uma Companhia da mesma arma.
 
 De oito Companhias de Caçadores de Montanha.
 
-<strong>Art.</strong> 4º O Governo fica autorisado para conceder uma gratificação correspondente á terça parte do soldo, além dos mais vencimentos, aos Militares que servirem activamente em qualquer ponto do Imperio, onde a ordem publica fôr alterada, ou que forem encarregados de Commissões importantes.
+**Art.** 4º O Governo fica autorisado para conceder uma gratificação correspondente á terça parte do soldo, além dos mais vencimentos, aos Militares que servirem activamente em qualquer ponto do Imperio, onde a ordem publica fôr alterada, ou que forem encarregados de Commissões importantes.
 
-<strong>Art.</strong> 5º O mesmo Governo poderá mandar abonar ás praças dos Corpos do Exercito, que, podendo obter baixa por terem completado o seu tempo de serviço, quizerem continuar a servir, uma gratificação igual ao soldo de primeira praça, emquanto forem praças de pret.
+**Art.** 5º O mesmo Governo poderá mandar abonar ás praças dos Corpos do Exercito, que, podendo obter baixa por terem completado o seu tempo de serviço, quizerem continuar a servir, uma gratificação igual ao soldo de primeira praça, emquanto forem praças de pret.
 
-<strong>Art.</strong> 6º Para se completarem as Forças fixadas no art. 1º continuaráõ em vigor as disposições da Carta de Lei de 29 de Agosto de 1837, e a autorisação para o engajamento de Estrangeiros nos termos da Lei n. 42 de 20 de Setembro de 1838.
+**Art.** 6º Para se completarem as Forças fixadas no art. 1º continuaráõ em vigor as disposições da Carta de Lei de 29 de Agosto de 1837, e a autorisação para o engajamento de Estrangeiros nos termos da Lei n. 42 de 20 de Setembro de 1838.
 
-<strong>Art.</strong> 7º A gratificação addicional dos Cirurgiões e Capellães do Exercito será desde já de quarenta mil réis mensaes. Os mesmos Cirurgiões são comprehendidos nas disposições em vigor do Alvará de 16 de Dezembro de 1790, e da Carta de Lei de 6 de Novembro de 1827.
+**Art.** 7º A gratificação addicional dos Cirurgiões e Capellães do Exercito será desde já de quarenta mil réis mensaes. Os mesmos Cirurgiões são comprehendidos nas disposições em vigor do Alvará de 16 de Dezembro de 1790, e da Carta de Lei de 6 de Novembro de 1827.
 
-<strong>Art.</strong> 8º Ficão revogadas as Leis em contrario.
+**Art.** 8º Ficão revogadas as Leis em contrario.
 
 Manda portanto a todas as Autoridades, a quem o conhecimento e execução da referida Lei pertencer, que a cumprão, e fação cumprir e guardar tão inteiramente, como nella se contém. O Secretario de Estado dos Negocios da Guerra a faça imprimir, publicar e correr. Dada no Palacio do Rio de Janeiro aos vinte seis de Setembro de mil oitocentos trinta e nove, decimo oitavo da Independencia e do Imperio.
 
-<strong>PEDRO DE ARAUJO LIMA.</strong>
+**PEDRO DE ARAUJO LIMA.**
 
 Conde de Lages.
 

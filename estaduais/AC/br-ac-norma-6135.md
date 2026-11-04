@@ -1,6 +1,10 @@
 > **LEI Nº 4.389, DE 13 DE AGOSTO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o Programa de Concessões e Parcerias Público-Privadas do Estado do Acre - PPP/AC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o Programa de Concessões e Parcerias Público-Privadas do Estado do Acre - PPP/AC.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

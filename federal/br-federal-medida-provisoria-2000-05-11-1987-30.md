@@ -1,5 +1,3 @@
-###MPV-001987-0-030-11-05-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.987-30, DE 11 de maio de 2000.
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

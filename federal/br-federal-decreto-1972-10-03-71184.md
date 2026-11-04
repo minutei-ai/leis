@@ -1,5 +1,3 @@
-###DEC-071184-0-000-03-10-1972@@@
-
 DECRETO Nº 71.184 - DE 3 DE OUTUBRO DE 1972.
 
 Declara de utilidade pública a Associação para Manutenção do Hospital Moinhos de Vento, com sede em Porto alegre, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-080921-0-000-05-12-1977@@@
-
 DECRETO Nº 80.921, DE 05 DE DEZEMBRO DE 1977.
 
 Declara sem efeito o Decreto nº 46.968, de 06 de outubro de 1959, que autorizou o cidadão brasileiro José Marinho Thomasi a lavrar minério de ferro no Município de Itabira, Estado de Minas Gerais.

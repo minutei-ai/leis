@@ -1,5 +1,3 @@
-###DEC-005921-0-000-03-10-2006@@@
-
 DECRETO Nº 5.921, DE 3 DE OUTUBRO DE 2006.
 
 Promulga o Acordo entre a República Federativa do Brasil e a República do Peru sobre Trabalho Remunerado para Dependentes de Pessoal Diplomático, Consular, Administrativo e Técnico de Missões Diplomáticas, Escritórios Consulares e Representações Permanentes de Organizações Internacionais, celebrado em Lima, em 10 de fevereiro de 2004.
@@ -24,11 +22,7 @@ Brasília, 3 de outubro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-       Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 4.10.2006.
-
-ACORDO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA DO PERU SOBRE TRABALHO REMUNERADO PARA DEPENDENTES DE PESSOAL DIPLOMÁTICO, CONSULAR, ADMINISTRATIVO E TÉCNICO DE MISSÕES DIPLOMÁTICAS, ESCRITÓRIOS CONSULARES E REPRESENTAÇÕES PERMANENTES DE ORGANIZAÇÕES INTERNACIONAIS
+       Celso Luiz Nunes AmorimACORDO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA DO PERU SOBRE TRABALHO REMUNERADO PARA DEPENDENTES DE PESSOAL DIPLOMÁTICO, CONSULAR, ADMINISTRATIVO E TÉCNICO DE MISSÕES DIPLOMÁTICAS, ESCRITÓRIOS CONSULARES E REPRESENTAÇÕES PERMANENTES DE ORGANIZAÇÕES INTERNACIONAIS
 
 A República Federativa do Brasil
 

@@ -1,7 +1,3 @@
-###DEC-007892-0-000-23-01-2013-PUB-01@@@
-
-###DEC-007892-0-000-23-01-2013-PUB-01@@@
-
 DECRETO Nº\- 7.892, DE 23 DE JANEIRO DE 2013
 
 Regulamenta o Sistema de Registro de Preços previsto no art. 15 da Lei nº 8.666, de 21 de junho de 1993.

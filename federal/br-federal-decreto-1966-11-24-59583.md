@@ -1,5 +1,3 @@
-###DEC-059583-0-000-24-11-1966@@@
-
 DECRETO nº 59.583, DE 24 DE NOVEMBRO DE 1966.
 
 Aprova as alterações introduzidas nos Estatutos da Alvorada Companhia Nacional de Seguros Gerais, inclusive aumento do capital social.

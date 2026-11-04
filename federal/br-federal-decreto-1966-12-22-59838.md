@@ -1,5 +1,3 @@
-###DEC-059838-0-000-22-12-1966@@@
-
 Decreto nº 59.838, de 22 de dezembro de 1966
 
 Concede à Mineração e Química do Nordeste Ltda. autorização para funcionar como empresa de mineração.

@@ -1,5 +1,3 @@
-###DEC-069889-0-000-31-12-1971@@@
-
 DECRETO Nº 69.889 - DE 31 DE DEZEMBRO DE 1971
 
 Declara de utilidade pública o Asilo da Mendicidade de Barra Mansa, com sede em Barra Mansa, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-079684-0-000-10-05-1977@@@
-
 DECRETO Nº 79.684, DE 10 DE MAIO DE 1977.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Iracema de Fortaleza S.A. para executar serviços de radiodifusão sonora em onda média de âmbito regional, na cidade de Fortaleza, Estado do Ceará.

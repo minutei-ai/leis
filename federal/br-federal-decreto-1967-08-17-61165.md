@@ -1,5 +1,3 @@
-###DEC-061165-0-000-17-08-1967@@@
-
 Decreto nº 61.165, de 17 de agôsto de 1967.
 
 Aprova o Estatuto da Fundação Universidade Federal de Sergipe.

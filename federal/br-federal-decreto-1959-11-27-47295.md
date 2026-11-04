@@ -1,5 +1,3 @@
-###DEC-047295-0-000-27-11-1959@@@
-
 decreto nº 47.295, de 27 de novembro de 1959
 
 Cria a Embaixada do Brasil no Reino de Marrocos.

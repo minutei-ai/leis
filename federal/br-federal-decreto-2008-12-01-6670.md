@@ -1,5 +1,3 @@
-###DEC-006670-0-000-01-12-2008@@@
-
 DECRETO Nº 6.670, DE 1º DE DEZEMBRO DE 2008.
 
 Promulga o Acordo de Cooperação em Matéria Sanitária Veterinária entre o Governo da República Federativa do Brasil e o Governo da República Argelina Democrática e Popular, firmado em Brasília, em 12 de maio de 2005.      

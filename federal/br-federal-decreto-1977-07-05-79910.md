@@ -1,5 +1,3 @@
-###DEC-079910-0-000-05-07-1977@@@
-
 Decreto nº 79.910, de 5 de julho de 1977
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio de Janeiro

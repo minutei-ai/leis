@@ -1,5 +1,3 @@
-###DEC-051072-0-000-28-07-1961@@@
-
 Decreto nº 51.072, de 28 de julho de 1961.
 
 Declara públicas, de uso comum, do domínio do Estado do Paraná as águas do rio São Francisco.

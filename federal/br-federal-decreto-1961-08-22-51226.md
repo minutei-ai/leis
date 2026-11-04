@@ -1,5 +1,3 @@
-###DEC-051226-0-000-22-08-1961@@@
-
 DECRETO Nº 51.226, DE 22 DE AGÔSTO DE 1961.
 
 Declara de utilidade pública a Fundação Otávio Mangabeira (F.O.M.), registrada no Estado da Guanabara.

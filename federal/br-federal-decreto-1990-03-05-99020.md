@@ -1,7 +1,3 @@
-1
-
-###DEC-099020-0-000-05-03-1990@@@
-
 DECRETO Nº 99.020, DE 5 DE MARCO DE 1990
 
 Autoriza o funcionamento de habilitação do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Caratinga.

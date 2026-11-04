@@ -1,5 +1,3 @@
-###DEC-068205-0-000-11-02-1971@@@
-
 DECRETO Nº 68.205, DE 11 DE FEVEREIRO DE 1971.
 
 Redistribui, com os respectivos ocupantes, cargos do Ministério da Agricultura para o Instituto Brasileiro de Desenvolvimento Florestal, e dá outras providências.

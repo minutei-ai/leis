@@ -1,5 +1,3 @@
-###MPV-002067-0-026-25-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.067-26, DE 25 DE JANEIRO DE 2001
 
 Autoriza a União a adquirir ou pagar obrigações de pessoas jurídicas de direito público interno, relativas a operações financeiras externas, e dá outras providências.

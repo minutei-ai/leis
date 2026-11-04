@@ -1,5 +1,3 @@
-###DEC-080057-0-000-01-08-1977@@@
-
 DECRETO Nº 80.057, DE 1º DE AGOSTO DE 1977.
 
 Concede reconhecimento do curso de Formação de Professor de Disciplinas Especializadas do 2º grau, Esquema I, do Universitário de Caxias do Sul, com sede na cidade de Caxias do Sul, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-044946-0-000-01-12-1958@@@
-
 DECRETO Nº 44.946, DE 1 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Theophilo Badin a pesquisar ouro aluvionar e associados no município de Rio das Contas, Estado da Bahia.

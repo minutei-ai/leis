@@ -1,5 +1,3 @@
-###DEC-056191-0-000-29-04-1965@@@
-
 DECRETO Nº 56.191, DE 29 DE ABRIL DE 1965.
 
 Concede à Emprêsa de Mineração Badin Ltda. autorização para funcionar como emprêsa de mineração.

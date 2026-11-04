@@ -1,5 +1,3 @@
-###DEC-088817-0-000-05-10-1983@@@
-
 DECRETO Nº 88.817, de 05 DE OUTUBRO DE 1983
 
 Altera a redação dos arts. 1º e 2º, do Decreto nº 87.550, de 09 de setembro de 1982, que declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Vila Nova, da Companhia de Eletricidade do Estado do Rio de Janeiro - CERJ, no Estado do Rio de Janeiro.

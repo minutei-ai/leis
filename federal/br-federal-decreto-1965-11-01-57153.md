@@ -1,5 +1,3 @@
-###DEC-057153-0-000-01-11-1965@@@
-
 DECRETO Nº 57.153, DE 1 DE NOVEMBRO DE 1965.
 
 Autoriza o Ministério da Fazenda a dar garantia do Tesouro Nacional à operação de crédito que menciona.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208668)<br>
-
 # DECRETO N° 68.020, DE 11 DE OUTUBRO DE 2023
 
 ### _Dá nova redação ao artigo 1° do Decreto n° 67.688, de 3 de maio de 2023, que dispõe sobre a oficialização da XIII Conferência Estadual de Assistência Social, e dá providências correlatas._

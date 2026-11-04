@@ -1,5 +1,3 @@
-###DEC-071763-0-000-26-01-1973@@@
-
 DECRETO Nº 71.763, DE 26 DE JANEIRO DE 1973.
 
 Transforma cargo em comissão do Quadro de Pessoal do Ministério do Exército.

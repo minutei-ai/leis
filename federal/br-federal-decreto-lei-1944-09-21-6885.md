@@ -1,5 +1,3 @@
-###DEL-006885-0-000-21-09-1944@@@
-
 DECRETO-LEI N. 6.885 – DE 21 DE SETEMBRO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 197.417,60, para pagamento de contribuições devidas pela Estrada de Ferro Dona Teresa Cristina

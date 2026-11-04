@@ -1,5 +1,3 @@
-###DEC-053644-0-000-28-02-1964@@@
-
 DECRETO Nº 53.644, DE 28 DE FEVEREIRO DE 1964.
 
 Dispõe sôbre criação de cargos de Tesoureiro nos órgãos que especifica.

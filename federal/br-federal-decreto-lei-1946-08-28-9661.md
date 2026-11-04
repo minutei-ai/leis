@@ -1,5 +1,3 @@
-###DEL-009661-0-000-28-08-1946@@@
-
 DECRETO-LEI N. 9.661 – DE 28 DE AGÔSTO DE 1946
 
 Abre ao Ministério da Viação e Obras públicas o crédito especial de Cr$ 50.000.000,00, para atender a despesas efetuadas pela Estrada de Ferro Central do Brasil com a construção do trecho ferroviário Montes Claros-Monte Azul.

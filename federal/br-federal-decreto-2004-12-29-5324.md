@@ -1,5 +1,3 @@
-###DEC-005324-0-000-29-12-2004@@@
-
 DECRETO Nº 5.324 DE 29 DE DEZEMBRO DE 2004
 
 Regulamenta o art. 37 da Lei no 10.893, de 13 de julho de 2004, que dispõe sobre a Taxa de Utilização do MERCANTE, e dá outras providências.

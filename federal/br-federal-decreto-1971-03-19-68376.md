@@ -1,5 +1,3 @@
-###DEC-068376-0-000-19-03-1971@@@
-
 decreto nº 68.376, de 19 de março de 1971.
 
 Concede a Brasília Águas Minerais Indústria e Comércio Ltda., o direito de lavrar água mineral, no município de Anápolis, Estado de Goiás.

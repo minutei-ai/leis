@@ -1,5 +1,3 @@
-###DEC-056075-0-000-26-04-1965@@@
-
 DECRETO Nº 56.075, DE 26 DE ABRIL DE 1965.
 
 Amplia a zona de concessão da Companhia de Eletrificação Centro-Norte do Ceará.

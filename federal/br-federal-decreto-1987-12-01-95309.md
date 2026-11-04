@@ -1,5 +1,3 @@
-###DEC-095309-0-000-01-12-1987@@@
-
 DECRETO Nº 95.309, DE 1º DE DEZEMBRO DE 1987
 
 Delega competência ao Ministro da Aeronáutica para a prática do ato que especifica.

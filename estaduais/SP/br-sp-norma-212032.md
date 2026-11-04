@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212032)<br>
-
 # DECRETO N° 70.226, DE 19 DE DEZEMBRO DE 2025
 
 ### _Autoriza a outorga de uso do imóvel que especifica à Fundação Hospital Regional do Câncer da Santa Casa de Misericórdia de Presidente Prudente e dá providências correlatas._

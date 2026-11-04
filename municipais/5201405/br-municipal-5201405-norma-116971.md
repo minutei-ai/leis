@@ -12,11 +12,14 @@ Art. 3° - Esta Lei será promulgada no ato de sua publicação.
 
 Gabinete do Prefeito do Município de Aparecida de Goiânia, aos 10 dias do mês de abril do ano de 2015.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-DOMINGOS PEREIRA DA SILVA<br>
+DOMINGOS PEREIRA DA SILVA
+
 Secretário Municipal de Educação

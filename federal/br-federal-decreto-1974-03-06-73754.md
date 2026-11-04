@@ -1,5 +1,3 @@
-###DEC-073754-0-000-06-03-1974@@@
-
 DECRETO Nº 73.754, DE 6 DE MARÇO DE 1974.
 
 Concede reconhecimento ao curso de Medicina da Escola de Ciências Médicas de Alagoas, mantida pela Sociedade Civil Escola de Ciências Médicas de Alagoas, com sede na cidade de Maceió, Estado de Alagoas.

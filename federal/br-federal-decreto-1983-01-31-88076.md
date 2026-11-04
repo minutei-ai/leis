@@ -1,5 +1,3 @@
-###DEC-088076-0-000-31-01-1983@@@
-
 DECRETO Nº 88.076, DE 31 DE JANEIRO DE 1983.
 
 Extingue o Parque Regional de Armamento da 10ª Região Militar no Ministério do Exército.

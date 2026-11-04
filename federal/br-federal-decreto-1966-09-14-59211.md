@@ -1,5 +1,3 @@
-###DEC-059211-0-000-14-09-1966@@@
-
 Decreto nº 59.211, de 14 de Setembro de 1966.
 
 Declara luto oficial pelo falecimento do Presidente da República da Turquia.

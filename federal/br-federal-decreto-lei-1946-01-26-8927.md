@@ -1,5 +1,3 @@
-###DEL-008927-0-000-26-01-1946@@@
-
 DECRETO-LEI N. 8.927 – DE 26 DE JANEIRO DE 1946
 
 Abre ao Ministério da Marinha o crédito especial de Cr$

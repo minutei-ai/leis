@@ -1,5 +1,3 @@
-###DEC-047678-0-000-20-01-1960@@@
-
 DECRETO Nº 47.678, DE 20 DE JANEIRO DE 1960.
 
 Autoriza a Emprêsa de Eletricidade Vale Paranapanema S.A. a alienar a usina termoelétrica de Santa Lina e suas instalações, autorizada a funcionar pelo Decreto nº 30.780, de 24 de abril de 1952.

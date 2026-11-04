@@ -1,5 +1,3 @@
-###DEC-074035-0-000-10-05-1974@@@
-
 DECRETO Nº 74.035, DE 10 DE MAIO DE 1974
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado em Vitória, Estado do Espírito Santo.

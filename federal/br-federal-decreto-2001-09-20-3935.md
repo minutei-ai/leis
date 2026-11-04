@@ -1,5 +1,3 @@
-###DEC-003935-0-000-20-09-2001@@@
-
 DECRETO Nº 3.935, DE 20 DE SETEMBRO DE 2001
 
 Fixa prazo para as autoridades que menciona se afastarem do cargo ou função que ocupam, caso queiram concorrer a mandato eletivo em outubro de 2002, e dá outras providências.

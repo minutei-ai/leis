@@ -1,5 +1,3 @@
-###DEC-002383-0-000-12-11-1997@@@
-
 DECRETO Nº 2.383, DE 12 DE NOVEMBRO DE 1997
 
 Dispõe sobre a concessão, no âmbito do Poder Executivo, dos benefícios com assistência à saúde dos servidores, bem como de seus dependentes, e dá outras providências.

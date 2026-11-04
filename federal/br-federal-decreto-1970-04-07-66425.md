@@ -1,5 +1,3 @@
-###DEC-066425-0-000-07-04-1970@@@
-
 DECRETO Nº 66.425, DE 7 DE ABRIL DE 1970.
 
 Revoga o Decreto que concedeu à emprêsa Carlo Erba Societá Anônima autorização para funcionar na República Federativa do Brasil

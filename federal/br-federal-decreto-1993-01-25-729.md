@@ -1,7 +1,3 @@
-1
-
-###DEC-000729-0-000-25-01-1993@@@
-
 DECRETO N° 729 DE 25 DE JANEIRO DE 1993
 
 Dispõe sobre a criação do Comando Regional de Saúde da 1ª Região Militar.

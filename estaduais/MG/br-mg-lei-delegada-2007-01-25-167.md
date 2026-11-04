@@ -73,7 +73,3 @@ Art. 5º – Ficam revogados os artigos 8º, 9º, 10, 11, 12 da Lei Delegada nº
 Palácio da Liberdade, em Belo Horizonte, aos .25. dias do mês de janeiro de 2007; 219º da Inconfidência Mineira e 186º da Independência do Brasil.
 
 Aécio Neves - Governador do Estado
-
-\-------------------------------------------------
-
-Data da última atualização: 19/10/2006.

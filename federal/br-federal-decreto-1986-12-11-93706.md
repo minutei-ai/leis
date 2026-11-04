@@ -1,5 +1,3 @@
-###DEC-093706-0-000-11-12-1986@@@
-
 # DECRETO Nº 93.706, DE 11 DE DEZEMBRO DE 1986
 
 Dispõe sobre medidas especiais de racionalização do consumo de derivados do petróleo e de álcool etílico combustível, e dá outras providências.

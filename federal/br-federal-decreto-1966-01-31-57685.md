@@ -1,5 +1,3 @@
-###DEC-057685-0-000-31-01-1966@@@
-
 DECRETO Nº 57.685, DE 31 DE JANEIRO DE 1966.
 
 Autoriza o provimento, em caráter excepcional, de cargos da Parte Permanente do Quadro de Pessoal da Caixa Econômica Federal do Rio de Janeiro, e dá outras providências.

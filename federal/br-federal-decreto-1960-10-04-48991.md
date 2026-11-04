@@ -1,5 +1,3 @@
-###DEC-048991-0-000-04-10-1960@@@
-
 Decreto nº 48.991, de 4 de outubro de 1960.
 
 Declara de utilidade pública o Sanatório Dr. Cândido Ferreira, com sede em Campinas, Estado de São Paulo.

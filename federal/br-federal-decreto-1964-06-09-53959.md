@@ -1,5 +1,3 @@
-###DEC-053959-0-000-09-06-1964@@@
-
 DECRETO Nº 53.959, DE 9 DE JUNHO DE 1964.
 
 Altera o Regulamento do Pessoal do Ministério das Relações Exteriores.

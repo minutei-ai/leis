@@ -1,5 +1,3 @@
-###DEC-090423-0-000-08-11-1984@@@
-
 Decreto nº 90.423, de 08 de novembro de 1984
 
 Renova a concessão outorgada à RÁDIO ARARIPE S.A., para explorar serviço de radiofusão sonora em onda média, na cidade de Crato, Estado do Ceará.

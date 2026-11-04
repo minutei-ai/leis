@@ -1,5 +1,3 @@
-###DEC-073473-0-000-16-01-1974@@@
-
 DECRETO Nº 73.473, DE 16 DE JANEIRO DE 1974.
 
 Cassa concessão outorgada à TV Princeza de Cachoeira Ltda., para executar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Cachoeira do Sul, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-053968-0-000-16-06-1964@@@
-
 DECRETO Nº 53.968, DE 16 DE JUNHO DE 1964.
 
 Reestrutura no Ministério das Relações Exteriores a Comissão Nacional da Organização das Nações Unidas para a Alimentação e a Agricultura (FAO) e dá outras providências.
@@ -31,8 +29,6 @@ Brasília, 16 de junho de 1964; 143º da Independência e 76º da República.
 H. Castello Branco
 
 Vasco da Cunha
-
-###DEC-053968-0-000-16-06-1964@@@RET01+++
 
 decreto nº 53.968, de 16 de junho de 1964.
 

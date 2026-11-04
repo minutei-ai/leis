@@ -153,7 +153,3 @@ Abono diferenciado para os servidores não incluídos no Anexo I
 Remuneração Valor do (Abono) PRC Até R$ 580,00 R$ 70,00 de R$ 580,01 a R$ 720,00 R$ 66,00 de R$ 720,01 a R$ 960,00 R$ 60,00 de R$ 960,01 a R$ 1.200,00 R$ 57,00 de R$ 1.200,01 a R$ 1.660,00 R$ 54,00 de R$ 1.660,01 a R$ 4.950,00 R$ 50,00 de R$ 4.950,01 a R$ 5.000,00\* diferença entre R$ 5.000,00 e a remuneração auferida pelo servidor.
 
 \* Teto máximo para concessão do abono.
-
-\===============================
-
-Data da última atualização: 29/7/2016.

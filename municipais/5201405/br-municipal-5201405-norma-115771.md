@@ -26,8 +26,10 @@ Parágrafo único. O remembramento referido no “caput” está em conformidade
 
 Aparecida de Goiânia, Estado de Goiás, aos 27 de junho de 2024.
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
-Secretário de Planejamento e Regulação Urbana<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
+Secretário de Planejamento e Regulação Urbana

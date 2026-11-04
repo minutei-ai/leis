@@ -1,42 +1,40 @@
-###DEC-065943-0-000-23-12-1969@@@
+**DECRETO Nº 65.943, DE 23 DE DEZEMBRO DE 1969.**
 
-<strong>DECRETO Nº 65.943, DE 23 DE DEZEMBRO DE 1969.</strong>
+***Aprova o Estatuto de Escola de Agronomia***
 
-<em><strong>Aprova o Estatuto de Escola de Agronomia</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o item III do artigo 81 da Constituição, na forma do disposto no artigo 5º da Lei número 5.540, de 28 de novembro de 1968, e tendo em vista o que consta do Processo número CFE-688-69, do Ministério da Educação e Cultura,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o item III do artigo 81 da Constituição, na forma do disposto no artigo 5º da Lei número 5.540, de 28 de novembro de 1968, e tendo em vista o que consta do Processo número CFE-688-69, do Ministério da Educação e Cultura,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Estatuto da Escola de Agronomia da Amazônia, que com êste baixa, assinado pelo Ministro de Estado da Educação e Cultura.
 
-<strong>Art</strong>. 1º Fica aprovado o Estatuto da Escola de Agronomia da Amazônia, que com êste baixa, assinado pelo Ministro de Estado da Educação e Cultura.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data da sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data da sua publicação.
 
 Brasília, 23 de dezembro de 1969; 148º da Independência e 81º da República.
 
-<strong>EMÍLIO G. MÉDICI</strong>
+**EMÍLIO G. MÉDICI**
 
 Jarbas G. Passarinho
 
-<strong>REGIMENTO DA ESCOLA DE AGRONOMIA DA AMAZÔNIA</strong>
+**REGIMENTO DA ESCOLA DE AGRONOMIA DA AMAZÔNIA**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Da Escola, sua definição e Finalidades</em>
+*Da Escola, sua definição e Finalidades*
 
-<strong>Art</strong>. 1º A Escola de Agronomia da Amazônia (E.A.A.), criada pelo Decreto-lei nº 8.290, de 5 de dezembro de 1945, instalada a 17 de abril de 1951, sede em Belém, Estado do Pará, com autonomia didática e disciplinar, conferida pela Lei nº 3.763, de 25 de abril de 1960 e integrada na estrutura do Ministério da Educação e Cultura, por via do Decreto nº 60.731, de 19 de maio de 1967, é estabelecimento federal de ensino superior, constituindo-se unidade isolada, em consonância com o artigo 67 da Lei nº 4.024, de 20 de dezembro de 1961, e artigo 2º da Lei nº 5.540, de 28 de novembro de 1968, tendo por finalidade a formação de profissionais de nível universitário em Agronomia, o aperfeiçoamento e a difusão da cultura técnica e científica correspondente, através de ensino, pesquisa e extensão.
+**Art**. 1º A Escola de Agronomia da Amazônia (E.A.A.), criada pelo Decreto-lei nº 8.290, de 5 de dezembro de 1945, instalada a 17 de abril de 1951, sede em Belém, Estado do Pará, com autonomia didática e disciplinar, conferida pela Lei nº 3.763, de 25 de abril de 1960 e integrada na estrutura do Ministério da Educação e Cultura, por via do Decreto nº 60.731, de 19 de maio de 1967, é estabelecimento federal de ensino superior, constituindo-se unidade isolada, em consonância com o artigo 67 da Lei nº 4.024, de 20 de dezembro de 1961, e artigo 2º da Lei nº 5.540, de 28 de novembro de 1968, tendo por finalidade a formação de profissionais de nível universitário em Agronomia, o aperfeiçoamento e a difusão da cultura técnica e científica correspondente, através de ensino, pesquisa e extensão.
 
 Parágrafo único. A Escola reger-se-á por êste Regimento e pela legislação federal do ensino que lhe seja aplicável.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Da Organização Administrativa</em>
+*Da Organização Administrativa*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Dos Órgãos da Administração e sua constituição</em>
+*Dos Órgãos da Administração e sua constituição*
 
-<strong>Art</strong>. 2º A Escola será administrada pelos seguintes órgãos:
+**Art**. 2º A Escola será administrada pelos seguintes órgãos:
 
 1\. Congregação, órgão  máximo da Administração assim constituída:
 
@@ -124,17 +122,17 @@ b) Zootecnia Especial;
 
 c) Zootecnia Geral.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Do Funcionamento e Atribuições dos Órgãos da Administração</em>
+*Do Funcionamento e Atribuições dos Órgãos da Administração*
 
-<strong>Art</strong>. 3º Assim se definem o funcionamento e as atribuições dos órgãos da Administração:
+**Art**. 3º Assim se definem o funcionamento e as atribuições dos órgãos da Administração:
 
 1\. Congregação - A Congregação reger-se-á por normas próprias, reunindo-se duas (2) vêzes por ano, ordinàriamente, e extraordinàriamente quando convocada pelo Diretor, pelo Conselho Departamental, ou ainda por um mìnimo de 1/3 de seus membros, em efetivo exercício, deliberando por maioria absoluta em 1ª Convocação, e por maioria dos presentes, êste em número nunca inferior a 1/3 de seus componentes, em 2ª Convoncação, efetuada 30 minutos após a verificação da falta de número legal da 1ª, incumbindo-lhe as seguintes atribuições:
 
 a) elegera a lista destinada ao provimento dos cargos do Diretor e Vice-Diretor da Escola;
 
-b) aprovar a concessão de títulos de Doutor “<em>Honoris</em> causa”, Professor “<em>Honoris</em> causa” e Professor Emérito;
+b) aprovar a concessão de títulos de Doutor “*Honoris* causa”, Professor “*Honoris* causa” e Professor Emérito;
 
 c) deliberar sôbre os assuntos que lhe forem submetidos em grau de recurso;
 
@@ -196,19 +194,19 @@ h) elabora ou modificar as normas do seu funcionamento consoante as exigências 
 
 § 2º. Das deliberações dos Órgãos de Administração, cabe recurso no prazo de sete (7) dias úteis.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Da Organização Didática</em>
+*Da Organização Didática*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Dos Cursos e Currículo</em>
+*Dos Cursos e Currículo*
 
-<strong>Art</strong>. 4º A Escola manterá o curso de formação de Engenheiro Agrônomo com duração de quatro (4) anos, em quatro (4) séries, cada uma dividida em dois (2) períodos didáticos, aproximadamente iguais e cuja duração será fixada no calendário Escolar.
+**Art**. 4º A Escola manterá o curso de formação de Engenheiro Agrônomo com duração de quatro (4) anos, em quatro (4) séries, cada uma dividida em dois (2) períodos didáticos, aproximadamente iguais e cuja duração será fixada no calendário Escolar.
 
 Parágrafo único. A Escola poderá instituir cursos de aperfeiçoamento, de especialização, de atualização e de extensão universitária, bem como realizar cursos livres sôbre assuntos relacionados com seus objetivos, podendo ainda implantar cursos de post graduação, mestria e doutoramento, observada a legislação específica pertinente.
 
-<strong>Art</strong>. 5º São as seguintes disciplinas que constituem o curso de Engenheiro Agrônomo: Botânica Agrícola; Desenho; Física Agrícola; Química Analítica; Química Orgânica; Solos; Zoologia Agrícola; Agricultura Especial; Agricultura Geral; Economia Rural e Extensão Rural; Entomologia e Parasitologia Agrícolas; Fitopatologia e Microbiologia Agrícolas; Genética Vegetal e Estatística; Hidráulica e Construções Rurais; Horticultura; Mecânica, Motores e Máquinas Agrícolas; Silvicultura; Tecnologia Rural; Topografia e Estradas; Trabalhos Práticos de Agricultura; Zootecnia Especial e Zootecnia Geral.
+**Art**. 5º São as seguintes disciplinas que constituem o curso de Engenheiro Agrônomo: Botânica Agrícola; Desenho; Física Agrícola; Química Analítica; Química Orgânica; Solos; Zoologia Agrícola; Agricultura Especial; Agricultura Geral; Economia Rural e Extensão Rural; Entomologia e Parasitologia Agrícolas; Fitopatologia e Microbiologia Agrícolas; Genética Vegetal e Estatística; Hidráulica e Construções Rurais; Horticultura; Mecânica, Motores e Máquinas Agrícolas; Silvicultura; Tecnologia Rural; Topografia e Estradas; Trabalhos Práticos de Agricultura; Zootecnia Especial e Zootecnia Geral.
 
 Parágrafo único. As disciplinas de que trata êste artigo serão lecionadas privativamente:
 
@@ -220,11 +218,11 @@ c) Por Engenheiros Agrônomos ou por Veterinários: Zootecnia Especial; Zootecni
 
 d) Por profissional de nível superior, cujo currículo contenha essas disciplinas; Desenho; Matemática; Silvicultura; Topografia e Estradas.
 
-<strong>Art</strong>. 6º As disciplinas de que trata o artigo anterior serão regidas por professôres titulares e, no impedimento dêstes, sucessiva e hieràrquicamente por docentes das demais classes.
+**Art**. 6º As disciplinas de que trata o artigo anterior serão regidas por professôres titulares e, no impedimento dêstes, sucessiva e hieràrquicamente por docentes das demais classes.
 
-<strong>Art</strong>. 7º O Conselho Departamental estabelecerá as disciplinas a serem ministradas em cada período didático, podendo ainda instituir outras e alterar a seriação adiante especificada.
+**Art**. 7º O Conselho Departamental estabelecerá as disciplinas a serem ministradas em cada período didático, podendo ainda instituir outras e alterar a seriação adiante especificada.
 
-<strong>Art</strong>. 8º O currículo, que obedecerá o mínimo fixado por Portaria Ministerial decorrente de Parecer do Conselho Federal de Educação, é constituído de disciplinas ministradas de acôrdo com seguinte seriação:
+**Art**. 8º O currículo, que obedecerá o mínimo fixado por Portaria Ministerial decorrente de Parecer do Conselho Federal de Educação, é constituído de disciplinas ministradas de acôrdo com seguinte seriação:
 
 1ª Série
 
@@ -282,63 +280,63 @@ Tecnologia Rural
 
 Zootecnia Especial
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Admissão</em>
+*Da Admissão*
 
-<strong>Art</strong>. 9º O ingresso no curso de Engenheiro Agrônomo será feito mediante aprovação em Concurso Vestibular, que será regulado, através normas especiais, fixadas pelo Conselho Departamental com antecedência mínima de dez (10) meses.
+**Art**. 9º O ingresso no curso de Engenheiro Agrônomo será feito mediante aprovação em Concurso Vestibular, que será regulado, através normas especiais, fixadas pelo Conselho Departamental com antecedência mínima de dez (10) meses.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Matrícula</em>
+*Da Matrícula*
 
-<strong>Art</strong>. 10. A matrícula será feita por série e em disciplinas da série, ressalvados os casos de dependência, cujas matrículas obrigatoriàmente serão solicitadas por ocasião da matrícula na série subseqüente.
+**Art**. 10. A matrícula será feita por série e em disciplinas da série, ressalvados os casos de dependência, cujas matrículas obrigatoriàmente serão solicitadas por ocasião da matrícula na série subseqüente.
 
 § 1º A possibilidade do parcelamento previsto no presente artigo se contém em um máximo de cinqüenta por cento (50%) das disciplinas componentes da série.
 
 § 2º O trancamento de matrícula na mesma disciplina e série só será permitido uma vez no curso.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Da Transferência</em>
+*Da Transferência*
 
-<strong>Art</strong>. 11. Será permitida a transferência de alunos da Escola para congênere, e vice-versa, inclusive de escolas de outros países de acôrdo com a legislação vigente.
+**Art**. 11. Será permitida a transferência de alunos da Escola para congênere, e vice-versa, inclusive de escolas de outros países de acôrdo com a legislação vigente.
 
 Parágrafo único. As transferências para a Escola serão apreciadas pelo Conselho Departamental, que determinará as providências que lhes forem inerentes, na forma da legislação vigente.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Do Ano Letivo e da Freqüência</em>
+*Do Ano Letivo e da Freqüência*
 
-<strong>Art</strong>. 12. O ano letivo será constituído de dois (2) períodos letivos e dois (2) de férias, fixadas anualmente e antecipadamente pelo Conselho Departamental, totalizando cento e oitenta (180) dias úteis de aula.
+**Art**. 12. O ano letivo será constituído de dois (2) períodos letivos e dois (2) de férias, fixadas anualmente e antecipadamente pelo Conselho Departamental, totalizando cento e oitenta (180) dias úteis de aula.
 
-<strong>Art</strong>. 13. A freqüência às aulas é obrigatória, sendo exigido um mínimo de setenta e cinco por cento (75%) em cada disciplina, sendo reprovado o aluno que não atingir esse mínimo.
+**Art**. 13. A freqüência às aulas é obrigatória, sendo exigido um mínimo de setenta e cinco por cento (75%) em cada disciplina, sendo reprovado o aluno que não atingir esse mínimo.
 
 Parágrafo único. No caso de dependência o requisito será reduzido para cinqüenta por cento (50%), excluída a responsabilidade da Administração da Escola: nos eventuais conflitos decorrentes da coincidência de horário.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Dos Programas e do Rendimento Escolar</em>
+*Dos Programas e do Rendimento Escolar*
 
-<strong>Art</strong>. 14. O programa de cada disciplina, sob forma de plano de ensino, será organizado pelo professor, apreciado pelo respectivo Departamento e homologado pelo Conselho Departamental.
+**Art**. 14. O programa de cada disciplina, sob forma de plano de ensino, será organizado pelo professor, apreciado pelo respectivo Departamento e homologado pelo Conselho Departamental.
 
-<strong>Art</strong>. 15. A avaliação do rendimento escolar do aluno em cada disciplina, será efetuado mediante a realização e julgamento de: Prova Periódica; Tarefa de Estudo e Exame.
+**Art**. 15. A avaliação do rendimento escolar do aluno em cada disciplina, será efetuado mediante a realização e julgamento de: Prova Periódica; Tarefa de Estudo e Exame.
 
 § 1º São consideradas Provas Periódicas as provas escritas ou gráficas, para cuja realização se exigem existência de comissão examinadora, bem como data e hora marcada com antecedência.
 
 § 2º Como Tarefas de Estudo compreende-se os trabalhos que envolvem aplicação de conhecimentos em execução individual, ou de grupo a serem apresentados consoante normas estipuladas pelo Conselho Departamental.
 
-<strong>Art</strong>. 16. Durante cada período didático, haverá em cada disciplina duas (2) Provas Periódicas e um (1) Tarefa de Estudo.
+**Art**. 16. Durante cada período didático, haverá em cada disciplina duas (2) Provas Periódicas e um (1) Tarefa de Estudo.
 
-<strong>Art</strong>. 17. O julgamento das Provas Periódicas, de Tarefa de Estudo e de Exames será expresso por nota que variará de zero (0) a dez (10) e, ao aluno que deixar de realizá-las, será atribuída a nota zero (0).
+**Art**. 17. O julgamento das Provas Periódicas, de Tarefa de Estudo e de Exames será expresso por nota que variará de zero (0) a dez (10) e, ao aluno que deixar de realizá-las, será atribuída a nota zero (0).
 
-<strong>Art</strong>. 18. Todas as notas e médias serão computadas até a primeira (1ª) casa decimal.
+**Art**. 18. Todas as notas e médias serão computadas até a primeira (1ª) casa decimal.
 
-<strong>Art</strong>. 19. Para a realização das Provas Periódicas e dos Exames, serão designadas comissões examinadoras, constituída de dois (2) professôres, no mínimo, e que decidirão sôbre as normas de sua realização, bem como acêrca de irregularidades observadas, reportando ao Diretor nos casos relacionados com a disciplina.
+**Art**. 19. Para a realização das Provas Periódicas e dos Exames, serão designadas comissões examinadoras, constituída de dois (2) professôres, no mínimo, e que decidirão sôbre as normas de sua realização, bem como acêrca de irregularidades observadas, reportando ao Diretor nos casos relacionados com a disciplina.
 
-<strong>Art</strong>. 20. O aluno poderá requerer dentro do prazo de três (3) dias úteis, do conhecimento oficial da nota atribuída, a revisão das Provas Periódicas e Escritas dos Exames, a qual deverá ser realizada por uma comissão de três (3) professôres, devendo integrá-la o professor da disciplina cuja nota se discute, na sua ausência o seu substituto e na falta dêste por outro professor de disciplina afin.
+**Art**. 20. O aluno poderá requerer dentro do prazo de três (3) dias úteis, do conhecimento oficial da nota atribuída, a revisão das Provas Periódicas e Escritas dos Exames, a qual deverá ser realizada por uma comissão de três (3) professôres, devendo integrá-la o professor da disciplina cuja nota se discute, na sua ausência o seu substituto e na falta dêste por outro professor de disciplina afin.
 
-<strong>Art</strong>. 21. Ao aluno que faltar as provas periódicas será concedida uma segunda chamada, desde que justifique a sua ausência por um dos motivos abaixo relacionados e deverá ser requerida com comprovante, dentro do prazo de dois (2) dias úteis, após a realização da primeira chamada:
+**Art**. 21. Ao aluno que faltar as provas periódicas será concedida uma segunda chamada, desde que justifique a sua ausência por um dos motivos abaixo relacionados e deverá ser requerida com comprovante, dentro do prazo de dois (2) dias úteis, após a realização da primeira chamada:
 
 a) enfermidade sob contrôle do Serviço Médico da Escola;
 
@@ -348,7 +346,7 @@ c) falecimento de ascendente ou descendente direto, irmão ou cônjuge;
 
 d) participação de aluno em congressos ou competições universitárias, como representante oficializado do corpo discente da Escola.
 
-<strong>Art</strong>. 22. São condições para que o aluno seja aprovado independente de exame final em cada disciplina:
+**Art**. 22. São condições para que o aluno seja aprovado independente de exame final em cada disciplina:
 
 a) média mínima sete (7) entre as Provas Periódicas;
 
@@ -356,7 +354,7 @@ b) nota mínima sete (7) na Tarefa de Estudo;
 
 c) e setenta e cinco por cento (75%) de freqüência às aulas, e na normalidade, e cinqüenta por cento (50%) nos casos específicos de dependência.
 
-<strong>Art</strong>. 23. O aluno que não satisfazer as condições estabelecidas no artigo anterior será submetido a um exame final, desde que tenha obtido durante o período didático:
+**Art**. 23. O aluno que não satisfazer as condições estabelecidas no artigo anterior será submetido a um exame final, desde que tenha obtido durante o período didático:
 
 a) média mínima cinco (5) entre as Provas Periódicas;
 
@@ -364,11 +362,11 @@ b) nota mínima cinco (5) na Tarefa de Estudo;
 
 c) o mínimo, de setenta e cinco por cento (75%) da freqüência as aulas, na normalidade, e de cinqüenta por cento (50%) nos casos específicos de dependência.
 
-<strong>Art</strong>. 24. O exame final em cada disciplina, de acôrdo com a natureza da mesma, constará de duas (2) provas que serão: uma (1) escrita ou gráfica e outra prática ou de aplicação.
+**Art**. 24. O exame final em cada disciplina, de acôrdo com a natureza da mesma, constará de duas (2) provas que serão: uma (1) escrita ou gráfica e outra prática ou de aplicação.
 
-<strong>Art</strong>. 25. O grau mínimo de aprovação para o aluno que se submeter a exame final será cinco (5), constituindo esta, a média aritmética entre a média anual e a do exame.
+**Art**. 25. O grau mínimo de aprovação para o aluno que se submeter a exame final será cinco (5), constituindo esta, a média aritmética entre a média anual e a do exame.
 
-<strong>Art</strong>. 26. Haverá um Exame de Recuperação, realizado no início do período didático subseqüente, para alunos que não obtiverem aprovação em duas (2) disciplinas, no máximo, da série ou de dependência, a que assim se justifica:
+**Art**. 26. Haverá um Exame de Recuperação, realizado no início do período didático subseqüente, para alunos que não obtiverem aprovação em duas (2) disciplinas, no máximo, da série ou de dependência, a que assim se justifica:
 
 a) tenham deixado de satisfazer as condições mínimas de aproveitamento nas Provas Periódicas, Tarefa do Estudo, e de freqüência; esta em 50%;
 
@@ -378,61 +376,61 @@ b) não tenham obtido aprovação em exame final.
 
 § 2º A nota do Exame de Recuperação será a média aritmética das provas realizadas, sendo aprovado o aluno que não alcançar a média mínima cinco (5).
 
-<strong>Art</strong>. 27. Na apuração final de rendimento de cada série, a reprovação em um máximo de duas disciplinas não impedirá a matrícula na série subseqüente, devendo as mesmas serem cursadas em regime de dependências.
+**Art**. 27. Na apuração final de rendimento de cada série, a reprovação em um máximo de duas disciplinas não impedirá a matrícula na série subseqüente, devendo as mesmas serem cursadas em regime de dependências.
 
-<strong>Art</strong>. 28. Será recusada nova matrícula ao aluno reprovado em disciplinas que ultrapassem quanto as horas prescritas de trabalho escolar um quinto (1/5) do primeiro ciclo ou um décimo (1/10) do curso completo.
+**Art**. 28. Será recusada nova matrícula ao aluno reprovado em disciplinas que ultrapassem quanto as horas prescritas de trabalho escolar um quinto (1/5) do primeiro ciclo ou um décimo (1/10) do curso completo.
 
-<strong>Art</strong>. 29. Os alunos serão classificados para efeito de histórico escolar, pela média aritmética das notas finais de aprovação nas disciplinas, e no caso de terem prestado Exame de Recuperação, a nota final de classificação na disciplina considerada, será a média aritmética entre a média anual e a de Exame de Recuperação.
+**Art**. 29. Os alunos serão classificados para efeito de histórico escolar, pela média aritmética das notas finais de aprovação nas disciplinas, e no caso de terem prestado Exame de Recuperação, a nota final de classificação na disciplina considerada, será a média aritmética entre a média anual e a de Exame de Recuperação.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Dos Títulos e Insígnias</em>
+*Dos Títulos e Insígnias*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Dos Títulos, Diplomas e Certificados</em>
+*Dos Títulos, Diplomas e Certificados*
 
-<strong>Art</strong>. 30. A Escola conferirá os títulos correspondentes aos cursos de formação profissional, doutoramento e outros permitidos por lei, expedido os respectivos diplomas, bem como emitirá certificados relativos à especialização, aperfeiçoamento e atualização cultural.
+**Art**. 30. A Escola conferirá os títulos correspondentes aos cursos de formação profissional, doutoramento e outros permitidos por lei, expedido os respectivos diplomas, bem como emitirá certificados relativos à especialização, aperfeiçoamento e atualização cultural.
 
 § 1º Os títulos de “Doutor” e de “Mestre” serão conferidos mediante defesa de tese e de Livre Docente, em concurso, tudo devidamente regulamentada pela Congregação, na forma da Lei.
 
 § 2º A validação e revalidação de Títulos e diplomas conferidos por estabelecimentos congêneres, nacionais ou estrangeiros, dependentes dessa exigência, serão efetuados nos têrmos, da legislação vigente, dêste Regimento e de instruções especiais do Conselho Departamental.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Colação de Grau</em>
+*Da Colação de Grau*
 
-<strong>Art</strong>. 31. A Colação de Grau será realizada em sessão solene e pública da Congregação, convocada especialmente pelo Diretor para êsse fim, cabendo ao diplomando, que embora habilitado não comparecer, requerer lhe seja conferido o grau, o que lhe será deferido para o dia e hora aprazados, com a presença de três (3) docentes, no mínimo, observadas as exigências legais.
+**Art**. 31. A Colação de Grau será realizada em sessão solene e pública da Congregação, convocada especialmente pelo Diretor para êsse fim, cabendo ao diplomando, que embora habilitado não comparecer, requerer lhe seja conferido o grau, o que lhe será deferido para o dia e hora aprazados, com a presença de três (3) docentes, no mínimo, observadas as exigências legais.
 
 Parágrafo único. No ato de Colação de Grau o Diretor tomará dos diplomandos o juramento de fidelidade aos deveres profissionais e às instituições do país, devendo, em qualquer dos casos, ser lavrado o têrmo especial da cerimônia.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Das Insígnias</em>
+*Das Insígnias*
 
-<strong>Art</strong>. 32. A Escola terá por emblema uma seringueira em sangria, circundada pela legenda “Escola de Agronomia da Amazônia - Belém Pará”; por pavilhão um retângulo azul-marinho, contendo ao centro o emblema descrito, e serão insígnias de grau de seus titulados um teodolito e um arado que figurarão no anel respectivo, ladeando uma safira.
+**Art**. 32. A Escola terá por emblema uma seringueira em sangria, circundada pela legenda “Escola de Agronomia da Amazônia - Belém Pará”; por pavilhão um retângulo azul-marinho, contendo ao centro o emblema descrito, e serão insígnias de grau de seus titulados um teodolito e um arado que figurarão no anel respectivo, ladeando uma safira.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>Dos Corpos Docente, Discente e Administrativo</em>
+*Dos Corpos Docente, Discente e Administrativo*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Do Corpo Docente</em>
+*Do Corpo Docente*
 
 I - Constituição e Atribuições
 
-<strong>Art</strong>. 33. O Corpo Docente é constituído do pessoal integrante da carreira de magistério, dos Auxiliares de Ensino e de outros contratados, com acesso e regime jurídico regulados em lei, e distribuído na lotação dos Departamentos em que se divide a Escola.
+**Art**. 33. O Corpo Docente é constituído do pessoal integrante da carreira de magistério, dos Auxiliares de Ensino e de outros contratados, com acesso e regime jurídico regulados em lei, e distribuído na lotação dos Departamentos em que se divide a Escola.
 
-<strong>Art</strong>. 34. Além das atribuições peculiares do magistério, o Corpo Docente integrará os órgãos de administração da Escola, segundo as normas e disposições dêste Regimento.
+**Art**. 34. Além das atribuições peculiares do magistério, o Corpo Docente integrará os órgãos de administração da Escola, segundo as normas e disposições dêste Regimento.
 
 II - Dos Cargos, Qualificação, Classificação, Provimento ou Admissão
 
-<strong>Art</strong>. 35. A qualificação dos integrantes do Corpo Docente se desdobra em: integrantes da carreira do magistério, auxiliares de ensino e professôres contratados.
+**Art**. 35. A qualificação dos integrantes do Corpo Docente se desdobra em: integrantes da carreira do magistério, auxiliares de ensino e professôres contratados.
 
-<strong>Art</strong>. 36. A classificação dos cargos da carreira de magistério abrange as seguintes categorias: Professor Titular, Professor Adjunto e Professor Assistente.
+**Art**. 36. A classificação dos cargos da carreira de magistério abrange as seguintes categorias: Professor Titular, Professor Adjunto e Professor Assistente.
 
-<strong>Art</strong>. 37. O provimento dos cargos da carreira de magistério será feito por ato do Poder Executivo, mediante concurso, como a seguir se especifica, êles podendo se candidatar graduados de nível superior, de notório saber, satisfeitas as exigências da lei e as discriminações dêste Regimento:
+**Art**. 37. O provimento dos cargos da carreira de magistério será feito por ato do Poder Executivo, mediante concurso, como a seguir se especifica, êles podendo se candidatar graduados de nível superior, de notório saber, satisfeitas as exigências da lei e as discriminações dêste Regimento:
 
 A) Professor Titular
 
@@ -450,7 +448,7 @@ C) Professor Assistente
 
 a) Poderão se candidatar graduados de nível superior que hajam concluído cursos de especialização ou aperfeiçoamento, assegurada a preferência, em igualdade de condições, àqueles que possuírem o diploma de “Mestre”, tiverem feito estágio probatório como auxiliar de ensino.
 
-§ 1º Todos os concursos de que trata êste artigo, serão disciplinados e regidos por normas estabelecidas pela Congregação, pautadas estas nas exigências legais, ênfase especial do mérito científico de formação intelectual e profissional, e da capacidade didática do candidato, atribuindo-se valor preponderante ao <em>curriculum vitae</em> e ao teor científico dos trabalhos apresentados.
+§ 1º Todos os concursos de que trata êste artigo, serão disciplinados e regidos por normas estabelecidas pela Congregação, pautadas estas nas exigências legais, ênfase especial do mérito científico de formação intelectual e profissional, e da capacidade didática do candidato, atribuindo-se valor preponderante ao *curriculum vitae* e ao teor científico dos trabalhos apresentados.
 
 § 2º O título de Doutor, obtido em curso credenciado, assegura o direito à inscrição em concurso para provimento de qualquer cargo ou função, na carreira de magistério.
 
@@ -460,7 +458,7 @@ a) Poderão se candidatar graduados de nível superior que hajam concluído curs
 
 § 5º No prazo máximo de quatro (4) anos, os Auxiliares de Ensino deverão obter certificado de aprovação em curso de pós graduação, sem o que o seu contrato não poderá ser mais renovado.
 
-<strong>Art</strong>. 38. A admissão do Auxiliar de Ensino, satisfeitas as exigências legais, principalmente de prévia e expressa autorização ministerial, será feita pela Diretoria da Escola e obedecerá as seguintes condições:
+**Art**. 38. A admissão do Auxiliar de Ensino, satisfeitas as exigências legais, principalmente de prévia e expressa autorização ministerial, será feita pela Diretoria da Escola e obedecerá as seguintes condições:
 
 a) caráter probatório;
 
@@ -470,7 +468,7 @@ c) regime jurídico da Legislação Trabalhista;
 
 d) graduação de nível superior, obedecidas as discriminações regimentais e prevista a necessária e formal indicação pelo Departamento interessado.
 
-<strong>Art</strong>. 39. A admissão do Professor Contratado atenderá as seguintes estipulações:
+**Art**. 39. A admissão do Professor Contratado atenderá as seguintes estipulações:
 
 a) admissão pelo Ministro de Estado ou por delegação de podêres;
 
@@ -484,11 +482,11 @@ e) regime jurídico do Estatuto de Magistério ou da Legislação Trabalhista, a
 
 III - Da Acumulação
 
-<strong>Art</strong>. 40. A acumulação de cargos por integrante do Corpo Docente da Escola rege-se pela legislação federal específica, em vigência.
+**Art**. 40. A acumulação de cargos por integrante do Corpo Docente da Escola rege-se pela legislação federal específica, em vigência.
 
 IV - Da Transferência e Remoção
 
-<strong>Art</strong>. 41. A transferência de membros do Corpo Docente, só será permitida aos integrantes da carreira do magistério e atendidas as seguintes condições:
+**Art**. 41. A transferência de membros do Corpo Docente, só será permitida aos integrantes da carreira do magistério e atendidas as seguintes condições:
 
 a) iniciativa ou aquiescência do interessado;
 
@@ -500,11 +498,11 @@ d) ato expresso de autoridade competente;
 
 e) e ainda na hipótese de permuta, mediante requerimento de ambos os interessados.
 
-<strong>Art</strong>. 42. A remoção de membro do Corpo Docente de um para outro Departamento é matéria condicionada à deliberação do Conselho Departamental e o ato respectivo, de competência da Diretoria, sendo de um (1) ano de efetivo exercício no cargo, o interstício exigido para transferência ou remoção de docente.
+**Art**. 42. A remoção de membro do Corpo Docente de um para outro Departamento é matéria condicionada à deliberação do Conselho Departamental e o ato respectivo, de competência da Diretoria, sendo de um (1) ano de efetivo exercício no cargo, o interstício exigido para transferência ou remoção de docente.
 
 V - Do Afastamento e Substituição
 
-<strong>Art</strong>. 43. Além dos casos previstos em lei poderá ocorrer o afastamento do ocupante de cargo de magistério na Escola, nos seguintes casos:
+**Art**. 43. Além dos casos previstos em lei poderá ocorrer o afastamento do ocupante de cargo de magistério na Escola, nos seguintes casos:
 
 a) aperfeiçoamento em instituições nacionais ou estrangeiras ou comparecimento a congressos e reuniões relacionadas com sua atividade docente;
 
@@ -512,7 +510,7 @@ b) prestação de assistência técnica;
 
 c) prestação de colaboração temporária a Universidades ou Estabelecimentos Isolados de Ensino Superior, autorizado por prazo certo, até quatro (4) anos, passando o professor a desempenhar as atividades do seu cargo na instituição requisitante, vedado nôvo afastamento antes de um interstício de duração igual ao do anterior autorizado.
 
-<strong>Art</strong>. 44. Em qualquer dos casos de afastamento, legalmente previsto, a respectiva autorização será da competência a seguir discriminada:
+**Art**. 44. Em qualquer dos casos de afastamento, legalmente previsto, a respectiva autorização será da competência a seguir discriminada:
 
 a) da Diretoria da Escola, quando o prazo fôr igual ou inferior a seis (6) meses;
 
@@ -520,7 +518,7 @@ b) do Conselho Departamental, quando o prazo exceder de seis (6) meses.
 
 Parágrafo único. Sôbre a conveniência de prorrogação dos prazos de afastamento de que trata o presente artigo, bem como da suspensão das autorizações concedidas, deliberará o Conselho Departamental.
 
-<strong>Art</strong>. 45. No caso de afastamento de ocupante de Cargo de Magistério, haverá substituições, guardada a seguinte hierarquia:
+**Art**. 45. No caso de afastamento de ocupante de Cargo de Magistério, haverá substituições, guardada a seguinte hierarquia:
 
 a) Do Professor Titular pelo Professor Adjunto;
 
@@ -532,7 +530,7 @@ Parágrafo único. As substituições de que trata êste artigo obedecerão às 
 
 VI - Do Regime de Trabalho
 
-<strong>Art</strong>. 46. O regime de trabalho do pessoal docente da Escola poderá ser de:
+**Art**. 46. O regime de trabalho do pessoal docente da Escola poderá ser de:
 
 a) dedicação exclusiva quando prestado em um único cargo e dois (2) turnos completos, observado um mínimo de quarenta (40) horas semanais de trabalho e demais critérios estabelecidos em lei e instruções ministeriais;
 
@@ -544,25 +542,25 @@ b) em função do número de horas semanais, que poderá ser de doze (12) horas 
 
 VII - Das Férias
 
-<strong>Art</strong>. 47. As férias de pessoal docente da Escola terão duração fixada em lei para as categorias do magistério superior, observadas as cautelas recomendadas.
+**Art**. 47. As férias de pessoal docente da Escola terão duração fixada em lei para as categorias do magistério superior, observadas as cautelas recomendadas.
 
 VIII - Da Aposentadoria
 
-<strong>Art</strong>. 48. O ocupante do cargo de magistério da Escola, aposentar-se-á nos seguintes casos: compulsòriamente, a pedido e por invalidez, observadas as condições e exigências da legislação pertinente.
+**Art**. 48. O ocupante do cargo de magistério da Escola, aposentar-se-á nos seguintes casos: compulsòriamente, a pedido e por invalidez, observadas as condições e exigências da legislação pertinente.
 
 IX - Das Vantagens
 
-<strong>Art</strong>. 49. São vantagens dos integrantes da carreira de magistério da Escola: ajuda de custo, a critério da Diretoria, para compensação das despesas de transporte e mudança, em caso de transferência ou quando posto à disposição; auxílio à publicação do trabalho técnico-científico considerado de valor pelo Conselho Departamental e bôlsas de estudo destinadas a viagens de estudos, estágios e cursos.
+**Art**. 49. São vantagens dos integrantes da carreira de magistério da Escola: ajuda de custo, a critério da Diretoria, para compensação das despesas de transporte e mudança, em caso de transferência ou quando posto à disposição; auxílio à publicação do trabalho técnico-científico considerado de valor pelo Conselho Departamental e bôlsas de estudo destinadas a viagens de estudos, estágios e cursos.
 
 X - Dos Deveres
 
-<strong>Art</strong>. 50. Além do dever primordial de contribuir para ampliação e transmissão do saber, formação da personalidade de seus alunos, exigir-se-á do professor o cumprimento integral do programa ou plano de trabalho previsto, resultando em falta grave a inobservância dessa disposição, passível de sanções legais e regimentais, ressalvadas as exceções admitidas na legislação, quanto aos percentuais de comparecimento e de execução programática.
+**Art**. 50. Além do dever primordial de contribuir para ampliação e transmissão do saber, formação da personalidade de seus alunos, exigir-se-á do professor o cumprimento integral do programa ou plano de trabalho previsto, resultando em falta grave a inobservância dessa disposição, passível de sanções legais e regimentais, ressalvadas as exceções admitidas na legislação, quanto aos percentuais de comparecimento e de execução programática.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Do Corpo Discente, Constituição, Direitos e Deveres</em>
+*Do Corpo Discente, Constituição, Direitos e Deveres*
 
-<strong>Art</strong>. 51. O Corpo Discente é constituído de alunos regularmente matriculados em seus cursos, cabendo-lhe os seguintes direitos e deveres:
+**Art**. 51. O Corpo Discente é constituído de alunos regularmente matriculados em seus cursos, cabendo-lhe os seguintes direitos e deveres:
 
 I - Dos Direitos
 
@@ -580,23 +578,23 @@ b) atender às convocações e realizar as tarefas inerentes a sua representaç�
 
 Parágrafo único. É permitida a organização de associações estudantis visando ao desenvolvimento do espírito universitário, promover a cultura, tornar agradável e educativo o convívio escolar, prevista a obrigatoriedade da aprovação dos respectivos Estatutos, pelo Conselho Departamental, que, a seu turno, diligenciará o necessário enquadramento na legislação vigente, e mais que referidas organizações estão sujeitas as sanções que podem ir até a dissolução, quando não estiver em consonância com os objetivos para os quais foram criadas.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do Corpo Administrativo, Constituição e Atribuição</em>
+*Do Corpo Administrativo, Constituição e Atribuição*
 
-<strong>Art</strong>. 52. Os serviços administrativos, cujo nucleamento é a Secretaria, compreende os setores de Expediente e Comunicações, Biblioteca, Contrôle Escolar, Financeiro, Pessoal, Material, Oficinas e Transporte, Assistência Social, Trabalhos de Campo, Zeladoria e outros que venham a ser criados, são operados pelo pessoal empregado com tais finalidades, mediante distribuição de obrigações e tarefas a critério da Diretoria, com atribuições inerentes aos misteres específicos, êstes definidos e discriminados em atos expressos.
+**Art**. 52. Os serviços administrativos, cujo nucleamento é a Secretaria, compreende os setores de Expediente e Comunicações, Biblioteca, Contrôle Escolar, Financeiro, Pessoal, Material, Oficinas e Transporte, Assistência Social, Trabalhos de Campo, Zeladoria e outros que venham a ser criados, são operados pelo pessoal empregado com tais finalidades, mediante distribuição de obrigações e tarefas a critério da Diretoria, com atribuições inerentes aos misteres específicos, êstes definidos e discriminados em atos expressos.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>Do Regime Disciplinar</em>
+*Do Regime Disciplinar*
 
-<strong>Art</strong>. 53. Além das sanções e punições previstas na legislação federal inerente à ordem pública e à Segurança Nacional, os Corpos Docente, Discente e Administrativo estão sujeitos ao Regime Disciplinar definido nos específicos seguintes capítulos.
+**Art**. 53. Além das sanções e punições previstas na legislação federal inerente à ordem pública e à Segurança Nacional, os Corpos Docente, Discente e Administrativo estão sujeitos ao Regime Disciplinar definido nos específicos seguintes capítulos.
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Regime Aplicável ao Corpo Docente</em>
+*Regime Aplicável ao Corpo Docente*
 
-<strong>Art</strong>. 54. O Corpo Docente está sujeito às seguintes sanções disciplinares, sem prejuízo daquelas que são matéria da legislação do servidor público:
+**Art**. 54. O Corpo Docente está sujeito às seguintes sanções disciplinares, sem prejuízo daquelas que são matéria da legislação do servidor público:
 
 a) advertência e Repreensão, aplicáveis pela Diretoria, gradativamente, nos casos de transgressões de prazos regimentais, não comparecimento sem causa justificada a atos escolares para os quais tenha sido convocado, e reincidência nessas mesmas faltas;
 
@@ -610,11 +608,11 @@ d) Destituição, aplicável mediante proposta da Diretoria, à autoridade compe
 
 § 2º A aplicação de qualquer pena disciplinar prevista neste artigo é, passível de recursos às hierarquias superiores, assegurado o direito de defesa.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Regime Aplicável ao Corpo Discente</em>
+*Regime Aplicável ao Corpo Discente*
 
-<strong>Art</strong>. 55. O Corpo Discente está sujeito às sanções disciplinares de advertência, repreensão, suspensão e exclusão, aplicáveis, pela Diretoria, a seu critério, nos casos de transgressões às disposições da lei e dêste Regimento.
+**Art**. 55. O Corpo Discente está sujeito às sanções disciplinares de advertência, repreensão, suspensão e exclusão, aplicáveis, pela Diretoria, a seu critério, nos casos de transgressões às disposições da lei e dêste Regimento.
 
 § 1º A exclusão de discentes será atribuição do Conselho Departamental, mediante inquérito.
 
@@ -622,42 +620,42 @@ d) Destituição, aplicável mediante proposta da Diretoria, à autoridade compe
 
 § 3º Os casos específicos de indisciplina, em qualquer grau, serão punidos com suspensão até trinta (30) dias e, na caracterização do desacato a membros dos Corpos Docente e Administrativo, penalidades maiores, aplicáveis pelo Conselho Departamental.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Regime Aplicável ao Corpo Administrativo</em>
+*Regime Aplicável ao Corpo Administrativo*
 
-<strong>Art</strong>. 56. Ao pessoal integrante do Corpo Administrativo aplicar-se-á o regime disciplinar previsto no Estatuto dos Funcionários Públicos Civis da União e legislação correlata.
+**Art**. 56. Ao pessoal integrante do Corpo Administrativo aplicar-se-á o regime disciplinar previsto no Estatuto dos Funcionários Públicos Civis da União e legislação correlata.
 
 Parágrafo único. Excetuam-se os casos inerentes a pessoal eventualmente contratado sob a égide de legislação trabalhista, quando cabe o regime disciplinar da espécie.
 
-<strong>TÍTULO VII</strong>
+**TÍTULO VII**
 
-<em>Das Disposições Gerais</em>
+*Das Disposições Gerais*
 
-<strong>Art</strong>. 57. A Escola caberá as taxas e os emolumentos regulamentados.
+**Art**. 57. A Escola caberá as taxas e os emolumentos regulamentados.
 
-<strong>Art</strong>. 58. A eleição da lista de indicação para provimento dos cargos de Diretor e Vice-Diretor deverá ser realizada com antecedência mínima de sessenta (60) dias do término do mandato expirante.
+**Art**. 58. A eleição da lista de indicação para provimento dos cargos de Diretor e Vice-Diretor deverá ser realizada com antecedência mínima de sessenta (60) dias do término do mandato expirante.
 
-<strong>Art</strong>. 59. As representações do Corpo Discente obedecerão, em sua escolha, ao critério de aproveitamento escolar.
+**Art**. 59. As representações do Corpo Discente obedecerão, em sua escolha, ao critério de aproveitamento escolar.
 
-<strong>Art</strong>. 60. Será deduzido um trinta avos (1/30) dos vencimentos dos professôres que deixarem de comparecer, sem motivo justificado, a cada reunião da Congregação, do Conselho Departamental e de Departamentos.
+**Art**. 60. Será deduzido um trinta avos (1/30) dos vencimentos dos professôres que deixarem de comparecer, sem motivo justificado, a cada reunião da Congregação, do Conselho Departamental e de Departamentos.
 
-<strong>Art</strong>. 61. O Diretor da Escola poderá determinar, em caráter excepcional, a seu critério e sob sua responsabilidade, a suspensão de aulas ou qualquer outra atividade programada, nos casos de calamidade pública, ocorrência grave que comprometa ou possa comprometer a segurança geral, e outros que, sem conflito com a legislação vigente, se justifiquem por sua relevância.
+**Art**. 61. O Diretor da Escola poderá determinar, em caráter excepcional, a seu critério e sob sua responsabilidade, a suspensão de aulas ou qualquer outra atividade programada, nos casos de calamidade pública, ocorrência grave que comprometa ou possa comprometer a segurança geral, e outros que, sem conflito com a legislação vigente, se justifiquem por sua relevância.
 
-<strong>Art</strong>. 62. Nas eleições realizadas na Escola, havendo empate em três (3) escrutínios, considerar-se-á eleito o mais antigo no magistério do estabelecimento e entre os da mesma antigüidade, o mais idoso.
+**Art**. 62. Nas eleições realizadas na Escola, havendo empate em três (3) escrutínios, considerar-se-á eleito o mais antigo no magistério do estabelecimento e entre os da mesma antigüidade, o mais idoso.
 
-<strong>Art</strong>. 63. A Escola estabelecerá convênios com entidades públicas e privadas, objetivando o aprimoramento de suas atividades relacionadas com ensino, pesquisa e extensão.
+**Art**. 63. A Escola estabelecerá convênios com entidades públicas e privadas, objetivando o aprimoramento de suas atividades relacionadas com ensino, pesquisa e extensão.
 
-<strong>Art</strong>. 64. Das decisões tomadas pela Congregação, caberá recurso ao órgão superior competente e sòmente por escrita argüição de ilegalidade.
+**Art**. 64. Das decisões tomadas pela Congregação, caberá recurso ao órgão superior competente e sòmente por escrita argüição de ilegalidade.
 
-<strong>Art</strong>. 65. As atividades técnicas da Escola poderão ser atendidas mediante contratação de trabalho, por seleção feita pelo Conselho Departamental, através de concurso de títulos relacionados com a referida atividade.
+**Art**. 65. As atividades técnicas da Escola poderão ser atendidas mediante contratação de trabalho, por seleção feita pelo Conselho Departamental, através de concurso de títulos relacionados com a referida atividade.
 
-<strong>Art</strong>. 66. Os casos omissos no presente Regimento serão solucionados pela Diretoria, previstos o recurso às instâncias superiores e a homologação pelo Conselho Departamental que, a seu juízo baixará normas a respeito.
+**Art**. 66. Os casos omissos no presente Regimento serão solucionados pela Diretoria, previstos o recurso às instâncias superiores e a homologação pelo Conselho Departamental que, a seu juízo baixará normas a respeito.
 
-<strong>Art</strong>. 67. Êste Regimento entrará em vigor no prazo de noventa (90) dias, a contar da data de sua aprovação pelo Conselho Federal de Educação, ressalvada a inconveniência de aplicação do regime didático pelo mesmo instituído, no decorrer dos períodos letivos.
+**Art**. 67. Êste Regimento entrará em vigor no prazo de noventa (90) dias, a contar da data de sua aprovação pelo Conselho Federal de Educação, ressalvada a inconveniência de aplicação do regime didático pelo mesmo instituído, no decorrer dos períodos letivos.
 
 Brasília, 4 de dezembro de 1969.
 
-<strong>JARBAS G. PASSARINHO</strong>
+**JARBAS G. PASSARINHO**
 
 Ministro da Educação e Cultura

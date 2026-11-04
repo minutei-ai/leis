@@ -1,5 +1,3 @@
-###DEC-094973-0-000-25-09-1987@@@
-
 DECRETO Nº 94.973, DE 25 DE SETEMBRO DE 1987
 
 Aprova o Estatuto da Fundação Alexandre de Gusmão (FUNAG), e dá outras providências.

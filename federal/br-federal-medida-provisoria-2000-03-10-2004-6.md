@@ -1,5 +1,3 @@
-###MPV-002004-0-006-10-03-2000@@@
-
 MEDIDA PROVISÓRIA nº 2.004-6, de 10 de março de 2000.
 
 Institui o Programa de Recuperação Fiscal - REFIS.

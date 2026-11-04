@@ -1,5 +1,3 @@
-###DEC-047063-0-000-21-10-1959@@@
-
 Decreto nº 47.063, de 21 de outubro de 1959.
 
 Autoriza concessão de suprimento de recursos à Comissão de Marinha Mercante para o pagamento de auxílio operacional às emprêsas de navegação de cabotagem, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-052990-0-000-27-11-1963@@@
-
 DECRETO Nº 52.990, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza Waldor Andrade & Cia Limitada, a pesquisar caulim no município de Tocantins, Estado de Minas Gerais.

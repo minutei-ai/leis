@@ -1,5 +1,3 @@
-###DEC-064634-0-000-03-06-1969@@@
-
 DECRETO Nº 64.634, DE 3 DE JUNHO DE 1969.
 
 Redistribui, com o respectivo ocupante para o Quadro de Pessoal - Parte Especial - da Universidade Federal Rural do Rio de Janeiro, cargo originário da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-087865-0-000-24-11-1982@@@
-
 Decreto nº 87.865, de 24 de novembro de 1982
 
 Cria Consultoria Especial no Estado-Maior das Forças Armadas

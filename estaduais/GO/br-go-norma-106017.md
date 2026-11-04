@@ -40,22 +40,24 @@ Art. 2º Fica o Chefe do Poder Executivo autorizado a abrir, no corrente exercí
 
 Art. 3º Os recursos necessários à abertura do crédito especial autorizado no art. 2º desta Lei serão provenientes da anulação parcial de dotações orçamentárias até o valor de 50.000,00 (cinquenta mil reais), em conformidade com o disposto no inciso III do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964.
 
-Art. 4º O art. 4º da [Lei nº 21.434](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105632/lei-21434), de 31 de maio de 2022, passa a vigorar com a seguinte redação:<br>
+Art. 4º O art. 4º da [Lei nº 21.434](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105632/lei-21434), de 31 de maio de 2022, passa a vigorar com a seguinte redação:
+
 \- [Promulgado pela Assembleia Legislativa - D.O. de 06-09-2022-Suplemento](https://diariooficial.abc.go.gov.br/portal/edicoes/download/5305). 
 
-“Art. 4º Esta Lei entra em vigor na data de sua publicação, retroagindo seus efeitos: <br>\- [Promulgado pela Assembleia Legislativa - D.O. de 06-09-2022-Suplemento](https://diariooficial.abc.go.gov.br/portal/edicoes/download/5305). <br>
+“Art. 4º Esta Lei entra em vigor na data de sua publicação, retroagindo seus efeitos: 
+\- [Promulgado pela Assembleia Legislativa - D.O. de 06-09-2022-Suplemento](https://diariooficial.abc.go.gov.br/portal/edicoes/download/5305). 
 
-I – quanto ao art. 2º, a partir da promulgação da [Lei nº 19.824](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99501/lei-19824), de 13 de setembro de 2017;<br>
-\- [Promulgado pela Assembleia Legislativa - D.O. de 06-09-2022-Suplemento](https://diariooficial.abc.go.gov.br/portal/edicoes/download/5305). <br>
+I – quanto ao art. 2º, a partir da promulgação da [Lei nº 19.824](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99501/lei-19824), de 13 de setembro de 2017;
 
-II – quanto ao art. 3º, a partir de 27 de novembro de 2017.”(NR)<br>
-\- [Promulgado pela Assembleia Legislativa - D.O. de 06-09-2022-Suplemento](https://diariooficial.abc.go.gov.br/portal/edicoes/download/5305). <br>
+\- [Promulgado pela Assembleia Legislativa - D.O. de 06-09-2022-Suplemento](https://diariooficial.abc.go.gov.br/portal/edicoes/download/5305). 
+
+II – quanto ao art. 3º, a partir de 27 de novembro de 2017.”(NR)
+
+\- [Promulgado pela Assembleia Legislativa - D.O. de 06-09-2022-Suplemento](https://diariooficial.abc.go.gov.br/portal/edicoes/download/5305). 
 
 Art. 5º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 22 de agosto de 2022; 134º da República.
-
-<br>
 
 RONALDO CAIADO
 

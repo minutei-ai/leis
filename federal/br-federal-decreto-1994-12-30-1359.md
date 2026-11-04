@@ -1,7 +1,3 @@
-1
-
-###DEC-001359-0-000-30-12-1994@@@
-
 DECRETO Nº 1.359, DE 30 DE DEZEMBRO DE 1994
 
 Fixa o valor absoluto do limite global de deduções relativas aos patrocínios e doações beneficiados pelos incentivos fiscais previstos na Lei nº 8.313, de 23 de dezembro de 1991, e dá outras providências.

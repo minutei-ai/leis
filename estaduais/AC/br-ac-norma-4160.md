@@ -1,6 +1,10 @@
 > **LEI Nº 3.659, DE 11 DE DEZEMBRO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo a Celebrar Termo Aditivo ao Contrato Firmado com a União ao amparo da Lei Federal nº 9.496, de 11 de setembro de 1997, Medida Provisória nº 2.192-70, de 24 de agosto de 2001, para estabelecimento das alterações autorizadas pela Lei Complementar Federal nº 173, de 27 de maio de 2020.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Poder Executivo a Celebrar Termo Aditivo ao Contrato Firmado com a União ao amparo da Lei Federal nº 9.496, de 11 de setembro de 1997, Medida Provisória nº 2.192-70, de 24 de agosto de 2001, para estabelecimento das alterações autorizadas pela Lei Complementar Federal nº 173, de 27 de maio de 2020.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

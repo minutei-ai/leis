@@ -1,5 +1,3 @@
-###DEC-055487-0-000-08-01-1965@@@
-
 DECRETO Nº 55.487, DE 8 DE JANEIRO DE 1965.
 
 Autoriza o Govêrno do Estado de Sergipe a pesquisar ilmenita, nos municípios de Santo Amaro das Brotas e Barra dos Coqueiros, Estado de Sergipe.

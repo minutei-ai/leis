@@ -1,7 +1,3 @@
-1
-
-###MPV-000783-0-000-23-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 783, DE 23 de DEZEMBRO de 1994
 
 Dá nova redação a dispositivos das Leis nºs 8.849, de 28 de janeiro de 1994, e 8.541, de 23 de dezembro de 1992, que alteram a legislação do imposto sobre a renda e proventos de qualquer natureza, e dá outras providências.

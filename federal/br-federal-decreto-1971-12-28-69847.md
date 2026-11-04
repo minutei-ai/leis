@@ -1,5 +1,3 @@
-###DEC-069847-0-000-28-12-1971@@@
-
 DECRETO Nº 69.847 - DE 28 DE DEZEMBRO DE 1971
 
 Autoriza a permuta dos imóveis que menciona, situados no bairro do Cajuru, em Curitiba, Estado do Paraná.

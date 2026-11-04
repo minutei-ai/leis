@@ -1,5 +1,3 @@
-###DEL-003059-0-000-14-02-1941@@@
-
 DECRETO-LEI N. 3.059 – DE 14 DE FEVEREIRO DE 1941
 
 Dispõe sobre a criação de Colônias Agrícolas Nacionais

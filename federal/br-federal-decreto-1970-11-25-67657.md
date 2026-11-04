@@ -1,5 +1,3 @@
-###DEC-067657-0-000-25-11-1970@@@
-
 DECRETO Nº 67.657, de 25 de novembro de 1970.
 
 Autoriza o funcionamento da Escola Superior de Agronomia, da cidade de Bandeirantes, no Estado do Paraná.

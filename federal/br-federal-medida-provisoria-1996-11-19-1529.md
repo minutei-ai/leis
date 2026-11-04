@@ -1,7 +1,3 @@
-1
-
-###MPV-001529-0-000-19-11-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.529, DE 19 DE NOVEMBRO DE 1996.
 
 Dispõe sobre o pagamento com sub-rogação, pela União, de dívidas da Rede Ferroviária Federal S.A. - RFFSA junto ao Instituto Nacional do Seguro Social - INSS e à Fundação Rede Ferroviária de Seguridade Social - REFER, e dá outras providências.

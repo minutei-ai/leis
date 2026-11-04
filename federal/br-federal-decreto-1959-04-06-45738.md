@@ -1,5 +1,3 @@
-###DEC-045738-0-000-06-04-1959@@@
-
 DECRETO Nº 45.738, DE 6 DE ABRIL DE 1959.
 
 Autoriza a cidadã brasileira Melina Rodrigues de Carvalho a lavrar calcáreo no município de Cordeiro, Estado do Rio de Janeiro.

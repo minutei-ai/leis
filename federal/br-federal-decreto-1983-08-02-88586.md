@@ -1,5 +1,3 @@
-###DEC-088586-0-000-02-08-1983@@@
-
 Decreto nº 88.586, de 02 de agosto de 1983.
 
 Altera dispositivo dos Estatutos da EMBRAPA, aprovados pela Decreto nº 75.374, de 14 de fevereiro de 1975.

@@ -1,5 +1,3 @@
-###DEL-007779-0-000-25-07-1945@@@
-
 DECRETO-LEI N. 7.779 – DE 25 DE JULHO DE 1945
 
 Reorganiza o Departamento Nacional de Estradas de Ferro (D.N.E.F.) e dá outras providências

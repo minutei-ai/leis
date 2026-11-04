@@ -1,5 +1,3 @@
-###DEC-061960-0-000-22-12-1967@@@
-
 DECRETO Nº 61.960, DE 22 DE DEZEMBRO DE 1967.
 
 Regulamenta o parágrafo único do artigo 8º da Lei número 5.368, de 1 de dezembro de 1967.

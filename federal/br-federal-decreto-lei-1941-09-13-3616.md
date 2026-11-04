@@ -1,5 +1,3 @@
-###DEL-003616-0-000-13-09-1941@@@
-
 DECRETO-LEI N. 3.616 – DE 13 DE SETEMBRO DE 1941
 
 Dispõe sobre a proteção do trabalho do menor e dá outras providências

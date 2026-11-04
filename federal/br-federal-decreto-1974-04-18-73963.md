@@ -1,5 +1,3 @@
-###DEC-073963-0-000-18-04-1974@@@
-
 DECRETO Nº 73.963, DE 18 DE ABRIL DE 1974.
 
 Torna sem efeito inclusão, no Quadro de Pessoal do Ministério da Marinha, de servidor do extinto Serviço de Alimentação da Previdência Social (SAPS).

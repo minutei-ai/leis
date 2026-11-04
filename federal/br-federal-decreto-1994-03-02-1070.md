@@ -1,7 +1,3 @@
-1
-
-###DEC-001070-0-000-02-03-1994@@@
-
 DECRETO N° 1.070, DE 2 DE MARÇO DE 1994
 
 Regulamenta o art. 3° da Lei n° 8.248, de 23 de outubro de 1991, que dispõe sobre contratações de bens e serviços de informática e automação pela Administração Federal, nas condições que específica e dá outras providencias.

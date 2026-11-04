@@ -470,12 +470,14 @@ II – o Fundo Constitucional de Transporte – FCT.
 
 I – 20% (vinte por cento) para o FUNESP; e
 
-II – 45% (quarenta e cinco por cento) para o FCT.<br>
+II – 45% (quarenta e cinco por cento) para o FCT.
+
 \- [Redação dada pela Lei nº 23.796, de 6-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111529).
 
 ~~II – 20% (vinte por cento) para o FCT.~~
 
-§ 2º Os percentuais especificados no § 1º deste artigo deverão ser aplicados sobre o total das receitas líquidas ingressadas, após a aplicação do disposto no art. 39 do ADCT da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152).<br>
+§ 2º Os percentuais especificados no § 1º deste artigo deverão ser aplicados sobre o total das receitas líquidas ingressadas, após a aplicação do disposto no art. 39 do ADCT da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152).
+
 \- [Redação dada pela Lei nº 23.796, de 6-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111529).
 
 ~~§ 2º Os percentuais especificados no § 1º deste artigo deverão ser aplicados ao total das receitas líquidas ingressadas, após a aplicação do disposto no art. 39 do ADCT da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152).~~

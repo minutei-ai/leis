@@ -1,5 +1,3 @@
-###DEL-008511-0-000-31-12-1945@@@
-
 DECRETO-LEI N. 8.511 – DE 31 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Guerra o crédito suplementar de Cr$ .............2.000.000,00, à verba que especifica.

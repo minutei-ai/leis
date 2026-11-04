@@ -1,5 +1,3 @@
-###DEL-000684-0-000-15-07-1969@@@
-
 DECRETO-LEI Nº 684, DE 15 DE Julho DE 1969
 
 Altera a redação do artigo 13 do Decreto-lei nº 301, de 28 de fevereiro de 1967.

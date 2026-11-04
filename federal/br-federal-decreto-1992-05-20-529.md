@@ -1,7 +1,3 @@
-1
-
-###DEC-000529-0-000-20-05-1992@@@
-
 DECRETO N° 529, DE 20 DE MAIO DE 1992
 
 Declara como Área de Proteção Ambiental do Ibirapuitã, no Estado do Rio Grande do Sul, a região que delimita e dá outras providências.

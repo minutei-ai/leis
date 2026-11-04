@@ -1,5 +1,3 @@
-###DEC-084563-0-000-17-03-1980@@@
-
 DECRETO Nº 84.563, DE 17 DE MARÇO DE 1980
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Iporã, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

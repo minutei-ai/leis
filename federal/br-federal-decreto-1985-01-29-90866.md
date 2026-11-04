@@ -1,5 +1,3 @@
-###DEC-090866-0-000-29-01-1985@@@
-
 # DECRETO Nº 90.866, de 29 de janeiro de 1985
 
 Outorga concessão à JMB EMPREENDIMENTOS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Santa Cruz do Capibaribe, Estado de Pernambuco.

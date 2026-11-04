@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208321)<br>
-
 # LEI N° 17.726, DE 24 DE JULHO DE 2023
 
 ## (Projeto de lei n° 272, de 2019, do Deputado Mauro Bragato - PSDB)

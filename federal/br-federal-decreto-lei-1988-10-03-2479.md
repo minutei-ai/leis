@@ -1,7 +1,3 @@
-1
-
-###DEL-002479-0-000-03-10-1988@@@
-
 # DECRETO‑LEI N° 2.479, DE 3 DE OUTUBRO DE 1988
 
 Dispõe sobre a redução de impostos de importação de bens e dá outras providências.

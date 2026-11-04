@@ -1,5 +1,3 @@
-###MPV-001706-0-003-28-09-1998@@@
-
 Medida Provisória Nº 1.706-3, de 28 de setembro de 1998
 
 Dispõe sobre a renegociação de dívidas no âmbito do Programa de Crédito Educativo, e determina outras providências.

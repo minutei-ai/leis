@@ -1,5 +1,3 @@
-###DEC-089765-0-000-07-06-1984@@@
-
 Decreto nº 89.765, de 07 de junho de 1984
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO NOVO ANDIRÁ LTDA., para a RÁDIO E TELEVISÃO UNIVERSITÁRIA METROPOLITANA LTDA.

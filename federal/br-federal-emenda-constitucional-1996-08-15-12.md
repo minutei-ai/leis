@@ -1,10 +1,10 @@
-<strong>EMENDA CONSTITUCIONAL N° 12</strong>
+**EMENDA CONSTITUCIONAL N° 12**
 
-<em><strong>Outorga competência à União, para instituir contribuição provisória sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira.</strong></em>
+***Outorga competência à União, para instituir contribuição provisória sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira.***
 
 As Mesas da Câmara dos Deputados e do Senado Federal, promulgam, nos termos do § 3° do art. 60 da Constituição Federal, a seguinte Emenda ao texto constitucional:
 
-<strong>Artigo</strong> <strong>Único</strong>. Fica incluído o art. 74 no Ato das Disposições Constitucionais Transitórias, com a seguinte redação:
+**ArtigoÚnico**. Fica incluído o art. 74 no Ato das Disposições Constitucionais Transitórias, com a seguinte redação:
 
 "Art. 74. A União poderá instituir contribuição provisória sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira.
 
@@ -18,4 +18,62 @@ As Mesas da Câmara dos Deputados e do Senado Federal, promulgam, nos termos do 
 
 Brasília, em 15 de agosto de 1996
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:265.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; font-weight:bold; text-transform:uppercase"><span><strong>MESA DA CÂMARA DOS DEPUTADOS</strong></span></span></p></td><td style="width:148.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; font-weight:bold; text-transform:uppercase"><span><strong>MESA DO SENADO FEDERAL</strong></span></span></p></td></tr><tr><td style="width:265.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Artigo"><span><span>Deputado Luís Eduardo</span></span></p></td><td style="width:148.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Senador José Sarney</span></span></p></td></tr><tr><td style="width:265.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Presidente</span></span></p></td><td style="width:148.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Presidente</span></span></p></td></tr><tr><td style="width:265.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Deputado Ronaldo Perim</span></span></p></td><td style="width:148.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Senador Teotonio Vilela Filho</span></span></p></td></tr><tr><td style="width:265.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>1° Vice-Presidente</span></span></p></td><td style="width:148.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>1º Vice-Presidente</span></span></p></td></tr><tr><td style="width:265.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Deputado Beto Mansur</span></span></p></td><td style="width:148.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Senador Júlio Campos</span></span></p></td></tr><tr><td style="width:265.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>2° Vice-Presidente</span></span></p></td><td style="width:148.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>2° Vice-Presidente</span></span></p></td></tr><tr><td style="width:265.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Deputado Wilson Campos</span></span></p></td><td style="width:148.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Senador Odacir Soares</span></span></p></td></tr><tr><td style="width:265.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>1° Secretário</span></span></p></td><td style="width:148.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>1º Secretário</span></span></p></td></tr><tr><td style="width:265.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Deputado Leopoldo Bessone</span></span></p></td><td style="width:148.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Senador Renan Calheiros</span></span></p></td></tr><tr><td style="width:265.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>2° Secretário</span></span></p></td><td style="width:148.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>2° Secretário</span></span></p></td></tr><tr><td style="width:265.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Deputado Benedito Domingos</span></span></p></td><td style="width:148.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Senador Ernandes Amorim</span></span></p></td></tr><tr><td style="width:265.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>3° Secretário</span></span></p></td><td style="width:148.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>4° Secretário</span></span></p></td></tr><tr><td style="width:265.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Deputado João Henrique</span></span></p></td><td style="width:148.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Senador Eduardo Suplicy</span></span></p></td></tr><tr><td style="width:265.85pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>4° Secretário</span></span></p></td><td style="width:148.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Suplente de Secretário</span></span></p></td></tr></tbody></table>
+**MESA DA CÂMARA DOS DEPUTADOS**
+
+**MESA DO SENADO FEDERAL**
+
+Deputado Luís Eduardo
+
+Senador José Sarney
+
+Presidente
+
+Presidente
+
+Deputado Ronaldo Perim
+
+Senador Teotonio Vilela Filho
+
+1° Vice-Presidente
+
+1º Vice-Presidente
+
+Deputado Beto Mansur
+
+Senador Júlio Campos
+
+2° Vice-Presidente
+
+2° Vice-Presidente
+
+Deputado Wilson Campos
+
+Senador Odacir Soares
+
+1° Secretário
+
+1º Secretário
+
+Deputado Leopoldo Bessone
+
+Senador Renan Calheiros
+
+2° Secretário
+
+2° Secretário
+
+Deputado Benedito Domingos
+
+Senador Ernandes Amorim
+
+3° Secretário
+
+4° Secretário
+
+Deputado João Henrique
+
+Senador Eduardo Suplicy
+
+4° Secretário
+
+Suplente de Secretário

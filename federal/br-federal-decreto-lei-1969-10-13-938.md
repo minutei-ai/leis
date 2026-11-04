@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ca13ecb8-0cc8-4617-8cd8-c7e172fcecea/texto#nowhere)
 
-###DEL-000938-0-000-13-10-1969@@@
-
 DECRETO-LEI Nº 938, DE 13 DE OUTUBRO DE 1969
 
 Provê sôbre as profissões de fisioterapeuta e terapeuta ocupacional, e dá outras providências.

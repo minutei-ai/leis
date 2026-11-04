@@ -1,5 +1,3 @@
-###DEL-002270-0-000-13-03-1985@@@
-
 # DECRETO-LEI Nº 2.270, DE 13 DE MARÇO DE 1985.
 
 Dá nova redação ao § 2º do art. 3º do Decreto-lei 1.445, de 13 de fevereiro de 1976, que reajusta os vencimentos e salários dos servidores civis da União.

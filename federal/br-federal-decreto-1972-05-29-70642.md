@@ -1,5 +1,3 @@
-###DEC-070642-0-000-29-05-1972@@@
-
 decreto Nº 70.642, de 29 de maio de 1972.
 
 Autoriza o funcionamento dos cursos de Psicologia (Licenciatura e de Psicólogos) na Faculdade de Filosofia, Ciências e Letras de Itatiba, São Paulo.

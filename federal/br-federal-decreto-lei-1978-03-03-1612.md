@@ -1,5 +1,3 @@
-###DEL-001612-0-000-03-03-1978@@@
-
 # DECRETO-LEI nº 1.612, DE 3 DE MARÇO DE 1978
 
 Reajusta os vencimentos, salários e proventos dos servidores da Secretaria do Tribunal de Justiça do Distrito Federal e dá outras providências.

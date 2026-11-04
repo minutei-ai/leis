@@ -1,5 +1,3 @@
-###DEL-000237-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 237, DE 28 de FEVEREIRO DE 1967
 
 Modifica o Código Nacional de Trânsito.
@@ -273,8 +271,6 @@ H. CASTELLO BRANCO
 Carlos Medeiros Silva
 
 Juarez Távora
-
-###DEL-000237-0-000-28-02-1967@@@RET01+++
 
 DECRETO-LEI Nº 237, de 28 de fevereiro de 1967
 

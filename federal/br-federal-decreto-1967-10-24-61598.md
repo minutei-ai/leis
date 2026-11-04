@@ -1,5 +1,3 @@
-###DEC-061598-0-000-24-10-1967@@@
-
 DECRETO Nº 61.598, DE 24 DE OUTUBRO DE 1967.
 
 Cria o Consulado em Puerto Presidente Stroessner, Paraguai.

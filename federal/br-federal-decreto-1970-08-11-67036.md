@@ -1,5 +1,3 @@
-###DEC-067036-0-000-11-08-1970@@@
-
 Decreto nº 67.036, de 11 de agôsto de 1970.
 
 Dispõe sôbre a Comissão Permanente do Livro do Mérito e o Conselho da Ordem Nacional do Mérito e dá outras providências.

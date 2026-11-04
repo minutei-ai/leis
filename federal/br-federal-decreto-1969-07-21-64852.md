@@ -1,5 +1,3 @@
-###DEC-064852-0-000-21-07-1969@@@
-
 decreto nº 64.852 - de 21 de julho de 1969.
 
 Regulamenta o Decreto-lei nº 582, de 15 de maio de 1969, na parte referente ao Grupo Executivo de Reforma Agrária (GERA) e dá outras providências.

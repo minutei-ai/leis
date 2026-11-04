@@ -1,5 +1,3 @@
-###DEC-053066-0-000-03-12-1963@@@
-
 DECRETO Nº 53.066, DE 3 DE DEZEMBRO DE 1963.
 
 Torna sem efeito o Decreto nº 44.482, de 8 de setembro de 1958.

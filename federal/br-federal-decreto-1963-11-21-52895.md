@@ -1,5 +1,3 @@
-###DEC-052895-0-000-21-11-1963@@@
-
 DECRETO Nº 52.895, DE 21 DE NOVEMBRO DE 1963.
 
 Concede à sociedade anônima “Elizabeth Arden (South América) Inc.” autorização para continuar a funciona na República.

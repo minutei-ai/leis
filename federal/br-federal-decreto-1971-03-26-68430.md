@@ -1,5 +1,3 @@
-###DEC-068430-0-000-26-03-1971@@@
-
 DECRETO Nº 68.430, DE 26 DE MARÇO DE 1971.
 
 Dispõe sôbre a criação ou alteração de Estandartes e Distintivos das Organizações Militares da Marinha.

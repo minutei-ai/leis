@@ -1,5 +1,3 @@
-###DEC-058730-0-000-27-06-1966@@@
-
 DECRETO Nº 58.730, DE 27 DE JUNHO DE 1966.
 
 Revoga o Decreto nº 52.236 de 9 de julho de 1963.

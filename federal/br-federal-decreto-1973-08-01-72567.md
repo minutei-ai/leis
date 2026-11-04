@@ -1,5 +1,3 @@
-###DEC-072567-0-000-01-08-1973@@@
-
 decreto nº 72.567, de 1 de agosto de 1973.
 
 Outorga concessão à S.A. Rádio Jornal do Brasil, para estabelecer uma estação de radiodifusão sons e imagens (televisão), na cidade de Niterói, Estado do Rio de Janeiro.

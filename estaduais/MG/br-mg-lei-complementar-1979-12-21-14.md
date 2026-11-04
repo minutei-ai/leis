@@ -43,7 +43,3 @@ FRANCELINO PEREIRA DOS SANTOS
 Humberto de Almeida
 
 Dênio Moreira de Carvalho
-
-\----------------------------------------------------------------------
-
-Data da última atualização: 7/2/2006.

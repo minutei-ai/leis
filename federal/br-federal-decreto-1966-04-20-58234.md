@@ -1,5 +1,3 @@
-###DEC-058234-0-000-20-04-1966@@@
-
 decreto nº 58.234, de 20 de abril de 1966.
 
 Abre, ao Ministério da Aeronáutica, o crédito especial de Cr$508.500.000, para o fim que especifica.
@@ -12,7 +10,29 @@ Art. 1º Fica aberto, ao Ministério da Aeronáutica, com vigência por dois exe
 
 Parágrafo único. O referido crédito terá a seguinte discriminação:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Uruguaiana ...............................................................................................................</span></p></td><td style="width:59.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>72.000.000</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Afonso Pena .............................................................................................................</span></p></td><td style="width:59.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>248.592.700</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Santos Dumont .........................................................................................................</span></p></td><td style="width:59.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50.480.600</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Belém ........................................................................................................................</span></p></td><td style="width:59.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>43.119.400</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Salvador ..........................................................................;........................................</span></p></td><td style="width:59.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>13.607.300</span></p></td></tr><tr><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>São Luís ....................................................................................................................</span></p></td><td style="width:59.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>80.700.000</span></p></td></tr></tbody></table>
+Uruguaiana ...............................................................................................................
+
+72.000.000
+
+Afonso Pena .............................................................................................................
+
+248.592.700
+
+Santos Dumont .........................................................................................................
+
+50.480.600
+
+Belém ........................................................................................................................
+
+43.119.400
+
+Salvador ..........................................................................;........................................
+
+13.607.300
+
+São Luís ....................................................................................................................
+
+80.700.000
 
 Art. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

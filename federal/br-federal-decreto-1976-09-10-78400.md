@@ -1,5 +1,3 @@
-###DEC-078400-0-000-10-09-1976@@@
-
 DECRETO Nº 78.400, DE 10 de SETEMBRO DE 1976.
 
 Fixa o fator de reajustamento salarial relativo a setembro de 1976.

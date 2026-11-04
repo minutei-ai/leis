@@ -1,32 +1,30 @@
-###DEC-037152-0-000-07-04-1955@@@
+**DECRETO Nº 37.152, DE 7 DE ABRIL DE 1955.**
 
-<strong>DECRETO Nº 37.152, DE 7 DE ABRIL DE 1955.</strong>
+***Aprova o Regimento do Serviço Nacional de Tuberculose, do Departamento Nacional de Saúde, do Ministério da Saúde.***
 
-<em><strong>Aprova o Regimento do Serviço Nacional de Tuberculose, do Departamento Nacional de Saúde, do Ministério da Saúde.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Serviço Nacional de Tuberculose, do Departamento Nacional de Saúde, do Ministério da Saúde, o qual, assinado pelo respectivo Ministro de Estado, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Serviço Nacional de Tuberculose, do Departamento Nacional de Saúde, do Ministério da Saúde, o qual, assinado pelo respectivo Ministro de Estado, com êste baixa.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 7 de abril de 1955; 134º da independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Aramis Athayde
 
-<strong>REGIMENTO DO SERVIÇO NACIONAL DE TUBERCULOSE</strong>
+**REGIMENTO DO SERVIÇO NACIONAL DE TUBERCULOSE**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º O Serviço Nacional de Tuberculose (S.N.T.), órgão integrante do Departamento Nacional de Saúde (D.N.S.), do Ministério da Saúde, tem por finalidade:
+**Art**. 1º O Serviço Nacional de Tuberculose (S.N.T.), órgão integrante do Departamento Nacional de Saúde (D.N.S.), do Ministério da Saúde, tem por finalidade:
 
 I - Organizar o plano da campanha contra a tuberculose em todo o país, constituindo-se em centro orientador, coordenador e fiscalizador das atividades dos serviços públicos e privados empenhados nessa campanha e, ainda, em órgão realizador da parte que, no programa fixado, tocar à administração federal;
 
@@ -38,11 +36,11 @@ IV - Opinar sôbre a organização de quaisquer serviços de combate à tubercul
 
 V - Padronizar, respeitadas as características regionais, as organizações públicas e privadas empenhadas na campanha contra a tuberculose, em todo o país.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º O S.N.T. compõe-se de:
+**Art**. 2º O S.N.T. compõe-se de:
 
 I - Seção de epidemiologia (S.E.)
 
@@ -60,23 +58,23 @@ b) Turma de Contrôle (T.C.)
 
 III - Seção de Administração(S.A.)
 
-<strong>Art</strong>. 3º O S.N.T. terá um Diretor, nomeado em comissão pelo Presidente da República, mediante indicação do Ministro da Saúde.
+**Art**. 3º O S.N.T. terá um Diretor, nomeado em comissão pelo Presidente da República, mediante indicação do Ministro da Saúde.
 
-<strong>Art</strong>. 4º O Diretor do S.N.T. terá um Secretário, por êle designado dentre os servidores do Ministério.
+**Art**. 4º O Diretor do S.N.T. terá um Secretário, por êle designado dentre os servidores do Ministério.
 
-<strong>Art</strong>. 5º A S.E. e a S.O.C. serão chefiadas por funcionários da Carreira de Médico Sanitarista do Quadro do Ministério da Saúde, escolhidos e designados pelo Diretor do S.N.T., mediante aprovação do Diretor-Geral do D.N.S.;
+**Art**. 5º A S.E. e a S.O.C. serão chefiadas por funcionários da Carreira de Médico Sanitarista do Quadro do Ministério da Saúde, escolhidos e designados pelo Diretor do S.N.T., mediante aprovação do Diretor-Geral do D.N.S.;
 
-<strong>Art</strong>. 6º A S.A. será chefiada por servidor do Ministério da Saúde, escolhido e designado pelo Diretor do S.N.T., mediante aprovação do Diretor-Geral do D.N.S.
+**Art**. 6º A S.A. será chefiada por servidor do Ministério da Saúde, escolhido e designado pelo Diretor do S.N.T., mediante aprovação do Diretor-Geral do D.N.S.
 
-<strong>Art</strong>. 7º As Turmas e o Laboratório terão encarregados, designados pelo Diretor do S.N.T., por indicação do respectivo chefe de Seção.
+**Art**. 7º As Turmas e o Laboratório terão encarregados, designados pelo Diretor do S.N.T., por indicação do respectivo chefe de Seção.
 
-<strong>Art</strong>. 8º As Seções que integram o S.N.T. funcionarão perfeitamente coordenadas em regime de mútua colaboração, sob a orientação do Diretor.
+**Art**. 8º As Seções que integram o S.N.T. funcionarão perfeitamente coordenadas em regime de mútua colaboração, sob a orientação do Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da competência dos órgãos</em>
+*Da competência dos órgãos*
 
-<strong>Art</strong>. 9º À S.E. compete:
+**Art**. 9º À S.E. compete:
 
 A - através da T.I.I.:
 
@@ -108,7 +106,7 @@ II - cooperar, na esfera de sua atividade, com o Serviço Federal de Bioestatís
 
 III - realizar, através do Laboratório Radiológico, os exames complementares necessários aos esclarecimentos dos achados no cadastro torácico abreugráfico;
 
-<strong>Art</strong>. 10 À S.O.C. compete:
+**Art**. 10 À S.O.C. compete:
 
 A - através da T.O.:
 
@@ -138,7 +136,7 @@ III - guardar e catalogar documentos relativos às atividades do S.N.T. e das un
 
 IV - controlar a aplicação das dotações concedidas pela União a entidades oficiais ou particulares e destinadas a atender a despêsas com a campanha contra a tuberculose, examinando as respectivas comprovações quanto ao enquadramento das despêsas realizadas no Plano aprovado;
 
-<strong>Art</strong>. 11 À S.A. compete:
+**Art**. 11 À S.A. compete:
 
 I - executar as atividades de administração geral do S.N.T., devendo, para isso, manter-se perfeitamente articulada com o Serviço de Administração do D.N.S.; observando e fazendo observar normas e métodos de trabalho pelo mesmo prescritos;
 
@@ -176,11 +174,11 @@ XVII - fazer o cadastro e o registro do pessoal integrado na campanha contra a t
 
 XVIII - providenciar e fiscalizar a execução dos serviços de portaria, limpêza e conservação dos edifícios ocupados pelo S.N.T.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das atribuições do Pessoal</em>
+*Das atribuições do Pessoal*
 
-<strong>Art</strong>. 12. Ao Diretor incumbe:
+**Art**. 12. Ao Diretor incumbe:
 
 I - dirigir, orientar, coordenar as atividades do S.N.T.;
 
@@ -232,7 +230,7 @@ XXIV - apresentar ao Diretor-Geral do D.N.S., quando solicitado, um boletim dos 
 
 XXV - promover reuniões de técnicos em tuberculose, tendo em vista o interêsse e as finalidades do S.N.T.;
 
-<strong>Art</strong>. 13. Aos Chefes de Seção incumbe:
+**Art**. 13. Aos Chefes de Seção incumbe:
 
 I - dirigir e fiscalizar os trabalhos do respectivo setor;
 
@@ -258,7 +256,7 @@ XI - velar pela disciplina e manutenção do silêncio nos recintos de trabalho;
 
 XII - inspecionar serviços e atividades oficiais e particulares relacionadas com os trabalhos das respectivas seções, quando assim determinar o Diretor do S.N.T.
 
-<strong>Art</strong>. 14. Ao Secretário do Diretor incumbe:
+**Art**. 14. Ao Secretário do Diretor incumbe:
 
 I - atender às pessoas que desejarem comunicar-se com o Diretor do S.N.T., encaminhado-as ou dando a êste conhecimento do assunto a tratar;
 
@@ -268,7 +266,7 @@ III - redigir a correspondência pessoal do Diretor;
 
 IV - encarregar-se de outras tarefas que lhes sejam cometidas pelo Diretor;
 
-<strong>Art</strong>. 15. Aos Encarregados das Turmas incumbe:
+**Art**. 15. Aos Encarregados das Turmas incumbe:
 
 I - executar os trabalhos que competirem às respectivas Turmas;
 
@@ -288,54 +286,54 @@ VIII - emitir pareceres técnicos pertinentes à respectiva Turma;
 
 IX - dar conhecimento ao chefe imediato das ocorrências que se registrarem nas respectivas Turmas.
 
-<strong>Art</strong>. 16. Aos demais servidores sem funções especificadas neste Regimento, incumbe executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
+**Art**. 16. Aos demais servidores sem funções especificadas neste Regimento, incumbe executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 17. O S.N.T. terá lotação aprovada em decreto.
+**Art**. 17. O S.N.T. terá lotação aprovada em decreto.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 18. O horário normal de trabalho do S.N.T. será fixado pelo Diretor, respeitado o número de horas semanais estabelecido para o Serviço Público Civil.
+**Art**. 18. O horário normal de trabalho do S.N.T. será fixado pelo Diretor, respeitado o número de horas semanais estabelecido para o Serviço Público Civil.
 
-<strong>Art</strong>. 19. O horário do pessoal designado para serviço externo, será estabelecido de acôrdo com as exigências dos trabalhos, observado o mínimo de horas semanais estabelecido para o Serviço Público Civil, sendo a freqüência apurada por meio de boletins diários de produção.
+**Art**. 19. O horário do pessoal designado para serviço externo, será estabelecido de acôrdo com as exigências dos trabalhos, observado o mínimo de horas semanais estabelecido para o Serviço Público Civil, sendo a freqüência apurada por meio de boletins diários de produção.
 
-<strong>Art</strong>. 20. O Diretor do S.N.T. não está sujeito a ponto, devendo, porém, observar o disposto fixado no art. 5° da Lei n° 2.188, de 3 de março de 1954.
+**Art**. 20. O Diretor do S.N.T. não está sujeito a ponto, devendo, porém, observar o disposto fixado no art. 5° da Lei n° 2.188, de 3 de março de 1954.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 21. Serão distribuídos, automaticamente, em suas faltas e impedimentos eventuais, até 30 dias:
+**Art**. 21. Serão distribuídos, automaticamente, em suas faltas e impedimentos eventuais, até 30 dias:
 
 I - O Diretor do S.N.T., pelo chefe da S.E. ou da S.O.C., por êle previamente escolhido e designado pelo Diretor Geral do D.N.S.;
 
 II - Os chefes de Seção e Encarregados de Turmas, por servidores designados pelo Diretor do S.N.T.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 22. O S.N.T. poderá manter os Dispensários e Sanatórios que se tornarem necessários aos seus trabalhos.
+**Art**. 22. O S.N.T. poderá manter os Dispensários e Sanatórios que se tornarem necessários aos seus trabalhos.
 
-<strong>Art</strong>. 23. O S.N.T. poderá articular os seus trabalhos com os Estados, Territórios, autarquias e particulares, mediantes acôrdos firmados pelo Diretor e aprovados pelo Ministro de Estado na conformidade com o plano de trabalho do S.N.T.
+**Art**. 23. O S.N.T. poderá articular os seus trabalhos com os Estados, Territórios, autarquias e particulares, mediantes acôrdos firmados pelo Diretor e aprovados pelo Ministro de Estado na conformidade com o plano de trabalho do S.N.T.
 
-<strong>Art</strong>. 24. O pessoal do S.N.T. é obrigado a trabalhar em qualquer ponto do território nacional para onde fôr designado, quando assim o exigirem as necessidades do serviço, a critério do Diretor do S.N.T.
+**Art**. 24. O pessoal do S.N.T. é obrigado a trabalhar em qualquer ponto do território nacional para onde fôr designado, quando assim o exigirem as necessidades do serviço, a critério do Diretor do S.N.T.
 
-<strong>Art</strong>. 25. São os técnicos, quando em serviço fora da sede, obrigados a relatar, resumidamente, em diários, as suas atividades e bem assim as ocorrências de interêsse do Serviço, enviando-as, semanalmente aso seus respectivos chefes, que as submeterão, quando julgar oportuno, à apreciação do Diretor do S.N.T.
+**Art**. 25. São os técnicos, quando em serviço fora da sede, obrigados a relatar, resumidamente, em diários, as suas atividades e bem assim as ocorrências de interêsse do Serviço, enviando-as, semanalmente aso seus respectivos chefes, que as submeterão, quando julgar oportuno, à apreciação do Diretor do S.N.T.
 
-<strong>Art</strong>. 26. Os trabalhos realizados no S.N.T. poderão ser publicados em revistas científicas nacionais que não sejam editadas pelo D.N.S. e em estrangeiras, desde que tenham, como subtítulo a expressão “Trabalho do Serviço Nacional de Tuberculose (Brasil)” e a publicação tenha sido autorizada pelo Diretor do Serviço.
+**Art**. 26. Os trabalhos realizados no S.N.T. poderão ser publicados em revistas científicas nacionais que não sejam editadas pelo D.N.S. e em estrangeiras, desde que tenham, como subtítulo a expressão “Trabalho do Serviço Nacional de Tuberculose (Brasil)” e a publicação tenha sido autorizada pelo Diretor do Serviço.
 
-<strong>Art</strong>. 27. Os técnicos do S.N.T. deverão contribuir para as publicações do S.N.T., com trabalhos selecionados, de sua autoria, os quais expressem os resultados das atividades do setor onde trabalham ou traduzam comunicações, estudos, observações ou contribuições dos métodos e meios de combate à tuberculose.
+**Art**. 27. Os técnicos do S.N.T. deverão contribuir para as publicações do S.N.T., com trabalhos selecionados, de sua autoria, os quais expressem os resultados das atividades do setor onde trabalham ou traduzam comunicações, estudos, observações ou contribuições dos métodos e meios de combate à tuberculose.
 
-<strong>Art</strong>. 28. Os servidores do S.N.T. não poderão fazer publicações, conferências ou dar entrevistar sôbre assuntos que se relacionem com a orientação técnica ou administrativa do Serviço, sem autorização do Diretor.
+**Art**. 28. Os servidores do S.N.T. não poderão fazer publicações, conferências ou dar entrevistar sôbre assuntos que se relacionem com a orientação técnica ou administrativa do Serviço, sem autorização do Diretor.
 
-<strong>Art</strong>. 29. A juízo do Diretor, poderão ser incluídos em publicações do S.N.T. trabalhos relevantes de técnicos estranhos ao mesmo, quando se referirem a assuntos relacionados com as suas atividades.
+**Art**. 29. A juízo do Diretor, poderão ser incluídos em publicações do S.N.T. trabalhos relevantes de técnicos estranhos ao mesmo, quando se referirem a assuntos relacionados com as suas atividades.
 
 Rio de Janeiro, em 7 de abril de 1955.
 
-<strong>ARAMIS ATHAYDE</strong>
+**ARAMIS ATHAYDE**

@@ -1,5 +1,3 @@
-###DEL-006776-0-000-07-08-1944@@@
-
 DECRETO-LEI N. 6.776 – DE 7 DE AGÔSTO DE 1944
 
 Altera, sem aumento de despesa, o orçamento do “Plano de Obras e Equipamentos”, na parte referente ao Ministério da Viação e Obras Públicas

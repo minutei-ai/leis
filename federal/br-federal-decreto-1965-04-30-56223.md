@@ -1,5 +1,3 @@
-###DEC-056223-0-000-30-04-1965@@@
-
 DECRETO Nº 56.223, DE 30 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro Nestor de Aguilar Souto a pesquisar águas-marinhas, no município de Ataléia, Estado de Minas Gerais.

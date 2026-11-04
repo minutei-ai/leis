@@ -1,5 +1,3 @@
-###DEC-048512-0-000-11-07-1960@@@
-
 DECRETO Nº 48.512, dE 11 DE JULHO DE 1960.
 
 Autoriza a Companhia de Cimento Portland Poty a lavrar fosforita no município de Igaraçu, Estado de Pernambuco.

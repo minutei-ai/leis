@@ -1,7 +1,3 @@
-1
-
-###DEL-000437-0-000-27-01-1969@@@
-
 DECRETO-LEI Nº 437, DE 27 DE JANEirO DE 1969
 
 Altera disposições do Decreto-lei numero 82 de 26 de dezembro de 1986, que institui o Sistema Tributário do Distrito Federal.

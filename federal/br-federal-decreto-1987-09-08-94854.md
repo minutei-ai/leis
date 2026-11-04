@@ -1,5 +1,3 @@
-###DEC-094854-0-000-08-09-1987@@@
-
 DECRETO N° 94.854, DE 8 DE SETEMBRO DE 1987
 
 Altera a redação do § 3° do art. 2°, do Decreto n° 93.537, de 5 de novembro de 1986, que dispõe sobre o Conselho Nacional da Borracha - CNB, e dá outras providências.

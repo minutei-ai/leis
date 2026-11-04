@@ -1,5 +1,3 @@
-###DEL-005932-0-000-26-10-1943@@@
-
 DECRETO‑LEI N. 5.932 – DE 26 DE OUTUBRO DE 1943
 
 Dispõe sobre o pagamento dos proventos de aposentadoria de funcionários contribuintes de caixas de aposentadoria e pensões, aposentados de acôrdo com o art. 197, alínea b, do decreto‑lei n. 1.713, de 28‑10‑39.

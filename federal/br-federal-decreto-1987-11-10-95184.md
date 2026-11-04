@@ -1,5 +1,3 @@
-###DEC-095184-0-000-10-11-1987@@@
-
 DECRETO N° 95.184, DE 10 DE NOVEMBRO DE 1987
 
 Estabelece critério de enquadramento de microempresas e dá outras providências.

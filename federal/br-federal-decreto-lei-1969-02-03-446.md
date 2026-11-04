@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/3f1c5f8d-0543-4b5a-8275-e8dee06c3b15/texto#nowhere)
 
-###DEL-000446-0-000-03-02-1969@@@
-
 dECRETO-LEI Nº 446, DE 3 DE FeVEREIRO DE 1969
 
 Modifica a redação dos artigos 4º e 9º do Decreto-lei nº 359, de 17 de dezembro de 1968, que criou a Comissão Geral de Investigações.

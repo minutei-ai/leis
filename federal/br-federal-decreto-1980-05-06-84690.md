@@ -1,5 +1,3 @@
-###DEC-084690-0-000-06-05-1980@@@
-
 Decreto nº 84.690, de 06 de maio de 1980.
 
 Autoriza a transferência para o patrimônio do Departamento Nacional de Obras Contra as Secas, dos imóveis que menciona, situados em Montes Claros, Estado de Minas Gerais.

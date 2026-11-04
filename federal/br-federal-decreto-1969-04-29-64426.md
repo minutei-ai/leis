@@ -1,5 +1,3 @@
-###DEC-064426-0-000-29-04-1969@@@
-
 DECRETO Nº 64.426, DE 29 DE ABRIL DE 1969.
 
 Retifica o enquadramento dos cargos integrantes do Grupo Ocupacional P.1700 - Medicina, Farmácia e Odontologia do Quadro de Pessoal - Parte Permanente e Especial do Ministério da Fazenda.

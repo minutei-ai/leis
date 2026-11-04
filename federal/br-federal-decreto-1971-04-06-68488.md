@@ -1,5 +1,3 @@
-###DEC-068488-0-000-06-04-1971@@@
-
 DECRETO Nº 68.488 - DE 6 DE ABRIL DE 1971.
 
 Declara de utilidade pública a Lira Infantil de Brasília, com sede em Brasília, Distrito Federal.

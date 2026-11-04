@@ -1,5 +1,3 @@
-###DEC-059214-0-000-15-09-1966@@@
-
 Decreto nº 59.214, de 15 de Setembro de 1966.
 
 Abre ao Poder Judiciário - Superior Tribunal Militar - o crédito especial de Cr$90.000.000 (noventa milhões de cruzeiros) para o fim que especifica.

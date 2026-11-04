@@ -1,5 +1,3 @@
-###DEC-064195-0-000-12-03-1969@@@
-
 DECRETO Nº 64.195, DE 12 DE MARÇO DE 1969.
 
 Autoriza o funcionamento da Faculdade de Serviço Social "Ministro Tarso Dutra", de São José dos Campos - SP.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=7836)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1999/compilacao-lei-10310-12.05.1999.html)
 
 # LEI Nº 10.310, DE 12 DE MAIO DE 1999
@@ -9,8 +8,10 @@
 
 ### _Dispõe sobre sorteio de imóveis da Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU_
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa do Estado decreta e eu promulgo, nos termos do § 7° do artigo 28 da Constituição do Estado, a seguinte lei:<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa do Estado decreta e eu promulgo, nos termos do § 7° do artigo 28 da Constituição do Estado, a seguinte lei:
+
 ~~Artigo 1º - Os imóveis administrados ou executados pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, destinados a projetos habitacionais, deverão ser distribuídos entre os previamente inscritos e os selecionados por esta entidade, através de sorteio, o qual será, obrigatoriamente, realizado em local público de fácil acesso.~~
 
 **Artigo 1º -** A destinação dos imóveis construídos ou financiados com recursos públicos, no âmbito dos programas promovidos pela política estadual para a habitação de interesse social, dar-se-á por meio de sorteio entre os interessados previamente inscritos e selecionados. (NR)
@@ -31,13 +32,22 @@ Faço saber que a Assembléia Legislativa do Estado decreta e eu promulgo, nos t
 
 _\- Artigo 1º com redação dada pela _[Lei nº 13.094, de 24/06/2008](http://www.al.sp.gov.br/norma?id=98236).__
 
-**Artigo 2º-** Vetado.<br>
-**Artigo 3º -** A data, local e horário do sorteio serão publicados no Diário Oficial do Estado, ou em jornal local de grande circulação, inobstante a difusão nos meios de imprensa falada.<br>
-**Artigo 4º-** Esta lei será regulamentada no prazo de 90 (noventa) dias a partir da data de sua publicação.<br>
-**Artigo 5º -** Esta lei entrará em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 12 de maio de 1999.<br>
-MÁRIO COVAS<br>
-Francisco Prado de Oliveira Ribeiro,  Secretário da Habitação<br>
-Celino Cardoso,  Secretário-Chefe da Casa Civil<br>
-Antonio Angarita,  Secretário do Governo e Gestão Estratégica<br>
+**Artigo 2º-** Vetado.
+
+**Artigo 3º -** A data, local e horário do sorteio serão publicados no Diário Oficial do Estado, ou em jornal local de grande circulação, inobstante a difusão nos meios de imprensa falada.
+
+**Artigo 4º-** Esta lei será regulamentada no prazo de 90 (noventa) dias a partir da data de sua publicação.
+
+**Artigo 5º -** Esta lei entrará em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 12 de maio de 1999.
+
+MÁRIO COVAS
+
+Francisco Prado de Oliveira Ribeiro,  Secretário da Habitação
+
+Celino Cardoso,  Secretário-Chefe da Casa Civil
+
+Antonio Angarita,  Secretário do Governo e Gestão Estratégica
+
 Publicada na Assessoria Técnico-Legislativa, aos 12 de maio de 1999.

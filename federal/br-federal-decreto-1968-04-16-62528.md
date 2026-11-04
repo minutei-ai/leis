@@ -1,5 +1,3 @@
-###DEC-062528-0-000-16-04-1968@@@
-
 DECRETO Nº 62.528, DE 16 DE ABRIL DE 1968.
 
 Declara de utilidade pública a “Associação Brasileira para o Desenvolvimento das Indústrias de Base’’, com sede em São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-007889-0-000-21-08-1945@@@
-
 DECRETO-LEI N. 7.889 – DE 21 DE AGÔSTO DE 1945
 
 Admite a sindicalização e manda aplicar a legislação de proteção ao trabalho aos empregados das autarquias industriais e dá outras providências.

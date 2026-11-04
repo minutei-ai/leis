@@ -1,5 +1,3 @@
-###DEC-086969-0-000-26-02-1982@@@
-
 Decreto nº 86.969, de 26 de fevereiro de 1982
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem das linhas dos eletrodos de FURNAS-Centrais Elétricas S.A., no Estado de São Paulo.

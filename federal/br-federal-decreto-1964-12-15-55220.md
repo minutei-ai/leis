@@ -1,5 +1,3 @@
-###DEC-055220-0-000-15-12-1964@@@
-
 DECRETO Nº 55.220, de 15 de dezembro de 1964.
 
 Autoriza o cidadão brasileiro Fábio Gabriel da Silva a pesquisar mica, no município de Abre Campo, Estado de Minas Gerais.

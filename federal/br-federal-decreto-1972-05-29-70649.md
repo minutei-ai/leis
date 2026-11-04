@@ -1,5 +1,3 @@
-###DEC-070649-0-000-29-05-1972@@@
-
 DECRETO Nº 70.649, DE 29 DE MAIO DE 1972.
 
 Autoriza a cessão, a título oneroso, de parte do imóvel que menciona, situado no Estado da Guanabara.

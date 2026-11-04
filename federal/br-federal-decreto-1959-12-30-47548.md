@@ -1,5 +1,3 @@
-###DEC-047548-0-000-30-12-1959@@@
-
 Decreto nº 47.548, de 30 de dezembro de 1959.
 
 Declara sem efeito os Decretos ns. 28.634, 28.635 e 28.636, de 13 de setembro de 1950.

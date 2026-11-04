@@ -1,4 +1,5 @@
-LEI Nº 21.172, DE 23 DE NOVEMBRO DE 2021<br>
+LEI Nº 21.172, DE 23 DE NOVEMBRO DE 2021
+
 [\- Vide Decreto](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104670/decreto-9995) [nº 9.995, de 02-12-2021. - Regulamento](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104670/decreto-9995)
 
 Dispõe sobre a Gratificação de Atividade Socioeducativa - GASE, no âmbito do Sistema de Atendimento Socioeducativo Estadual.
@@ -142,8 +143,6 @@ Art. 19. Fica revogada a Lei nº [17.683](https://legisla.casacivil.go.gov.br/pe
 Art. 20. Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 23 de novembro de 2021; 133º da República.
-
-<br>
 
 RONALDO CAIADO
 

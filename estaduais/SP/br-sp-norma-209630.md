@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209630)<br>
-
 # DECRETO N° 68.649, DE 26 DE JUNHO DE 2024
 
 ### _Autoriza a outorga de uso, ao Município de Franco da Rocha, de parte do imóvel que especifica, e dá providências correlatas._

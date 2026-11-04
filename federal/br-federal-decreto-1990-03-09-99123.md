@@ -1,7 +1,3 @@
-1
-
-###DEC-099123-0-000-09-03-1990@@@
-
 DECRETO Nº 99.123, DE 9 DE MARÇO DE 1990
 
 Outorga concessão a Trianon Sistema de Comunicação Ltda., para explorar serviço Especial de Televisão por Assinatura - TVA, na região metropolitana de Belo Horizonte, Estado de Minas Gerais.

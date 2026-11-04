@@ -1,5 +1,3 @@
-###DEC-046925-0-000-30-09-1959@@@
-
 DECRETO Nº 46.925, DE 30 DE SETEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Clarisdon Souza Ribeiro a pesquisar mica no município de Coroaci, Estado de Minas.

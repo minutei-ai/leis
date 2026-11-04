@@ -1,5 +1,3 @@
-###DEL-006846-0-000-04-09-1944@@@
-
 DECRETO-LEI N. 6.846 – DE 4 DE SETEMBRO DE 1944
 
 Abre crédito suplementar ao Ministério da Fazenda

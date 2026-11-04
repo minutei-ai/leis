@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/aa3d4b38-0bb6-47b4-a31e-d7c5d621e0e4/texto#nowhere)
 
-###DEL-000772-0-000-19-08-1969@@@
-
 DECRETO-LEI Nº 772, DE 19 DE AGÔSTO DE 1969
 
 Dispõe sobre a auditoria externa a que ficam sujeitas as entidades ou organizações em geral, dotadas de personalidade jurídica de direito privado, que recebam contribuições para fins sociais ou transferências do Orçamento da União, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-064303-0-000-02-04-1969@@@
-
 DECRETO Nº 64.303, DE 2 DE ABRIL DE 1969.
 
 Autoriza o funcionamento de curso.

@@ -1,5 +1,3 @@
-###DEC-052891-0-000-21-11-1963@@@
-
 Decreto nº 52.891, de 21 de novembro de 1963.
 
 Aprova alterações introduzidas nos Estatutos da Companhia Bandeirante de Seguros Gerais, inclusive aumento do capital social.

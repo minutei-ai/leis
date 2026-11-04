@@ -1,5 +1,3 @@
-###DEL-008666-0-000-14-01-1946@@@
-
 DECRETO-LEI N. 8.666 – DE 14 DE JANEIRO DE 1946
 
 Autoriza o Ministério da Viação e Obras Públicas a promover a construção do edifício-sede do Departamento Nacional de Iluminação e Gás, mediante condições que especifica.

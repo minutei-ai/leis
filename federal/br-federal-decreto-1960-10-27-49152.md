@@ -1,5 +1,3 @@
-###DEC-049152-0-000-27-10-1960@@@
-
 DECRETO Nº 49.152, DE 27 DE OUTUBRO DE 1960.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, a área de terreno necessária à construção do açude público Alagadiço, no Município de Frei Paulo, Estado de Sergipe.

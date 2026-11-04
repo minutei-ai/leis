@@ -1,5 +1,3 @@
-###DEC-046808-0-000-14-09-1959@@@
-
 DECRETO Nº 46.808, de 14 de setembro de 1959.
 
 Declara de utilidade pública a Associação Comercial, Industrial e Agropecuária de Cruzeiro, com sede em Cruzeiro, Estado de São Paulo.

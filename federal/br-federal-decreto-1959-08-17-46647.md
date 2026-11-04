@@ -1,5 +1,3 @@
-###DEC-046647-0-000-17-08-1959@@@
-
 DECRETO Nº 46.647, DE 17 DE AGÔSTO DE 1959.
 
 Renova o Decreto nº 40.762, de 15 de janeiro de 1957.

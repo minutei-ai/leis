@@ -1,5 +1,3 @@
-###DEL-003919-0-000-11-12-1941@@@
-
 DECRETO-LEI N. 3.919 – DE 11 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Guerra, o credito suplementar de 450:000$0, a verba que especifica

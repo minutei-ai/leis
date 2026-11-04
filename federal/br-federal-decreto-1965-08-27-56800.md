@@ -1,5 +1,3 @@
-###DEC-056800-0-000-27-08-1965@@@
-
 DECRETO Nº 56.800, DE 27 DE AGÔSTO DE 1965.
 
 Altera o art. 1º do Decreto nº 55.552, de 12 de janeiro de 1965.

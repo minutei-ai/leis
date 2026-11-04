@@ -1,5 +1,3 @@
-###DEL-008396-0-000-18-12-1945@@@
-
 DECRETO-LEI N. 8.396 – DE 18 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas crédito suplementar à Verba especifica

@@ -1,5 +1,3 @@
-###DEC-048071-0-000-07-04-1960@@@
-
 DECRETO Nº 48.071, DE 7 DE ABRIL DE 1960.
 
 Aprova o Regulamento do Monumento Nacional aos Mortos da Segunda Guerra Mundial
@@ -266,4 +264,18 @@ Art. 37. De todos os atos da vida do Monumento deverá ser dada conveniente divu
 
 Rio de Janeiro, 6 de fevereiro de 1960.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Marechal Henrique Baptista Dufles Teixeira Lott</span></p></td><td style="width:194.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministro de Estado dos Negócios da Guerra</span></p></td></tr><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Almirante de Esquadra Jorge do Paço Matoso Maia</span></p></td><td style="width:194.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministro de Es- Maj. Brig. Ar</span></p></td></tr><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Francisco de Assis</span></p></td><td style="width:194.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministro de Estado dos Negócios da Marinha</span></p></td></tr><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Corrêa de Mello</span></p></td><td style="width:194.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministro de Estado dos Negócios da Aeronáutica</span></p></td></tr></tbody></table>
+Marechal Henrique Baptista Dufles Teixeira Lott
+
+Ministro de Estado dos Negócios da Guerra
+
+Almirante de Esquadra Jorge do Paço Matoso Maia
+
+Ministro de Es- Maj. Brig. Ar
+
+Francisco de Assis
+
+Ministro de Estado dos Negócios da Marinha
+
+Corrêa de Mello
+
+Ministro de Estado dos Negócios da Aeronáutica

@@ -1,5 +1,3 @@
-###DEC-090254-0-000-01-10-1984@@@
-
 decrEto nº 90.254, dE 1º de outubro de 1984.
 
 Altera dispositivo do Decreto nº 86.763 de 22 de dezembro de 1981, que regula os valores das indenizações devidas aos militares das Forças Armadas.

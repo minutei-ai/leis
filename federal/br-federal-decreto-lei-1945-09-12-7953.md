@@ -1,5 +1,3 @@
-###DEL-007953-0-000-12-09-1945@@@
-
 DECRETO-LEI N. 7.953 – DE 12 DE SETEMBRO DE 1945
 
 Torna sem aplicação a importância de Cr$ 4.800.000,00 de crédito orçamentário do Ministério da Educação e Saúde e abre crédito especial de idêntica importância.

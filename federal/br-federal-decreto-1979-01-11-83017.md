@@ -1,5 +1,3 @@
-###DEC-083017-0-000-11-01-1979@@@
-
 DECRETO nº 83.017, de 11 de janeiro de 1979
 
 Declara sem efeito o Decreto nº 36.283, de 01 de outubro de 1954, que autorizou a Orquima, Indústrias Químicas Reunidas S.A. a lavrar ilmenita, zirconita, monazita, rutilo e associados no Município de Vila Velha, Estado do Espírito Santo.

@@ -1,5 +1,3 @@
-###DEC-045526-0-000-03-03-1959@@@
-
 DECRETO Nº 45.526, DE 3 DE MARÇO DE 1959.
 
 Dispõe sôbre a lotação de servidores cedidos à R.F.F.S.A.

@@ -1,5 +1,3 @@
-###DEC-055682-0-000-02-02-1965@@@
-
 decreto nº 55.682, de 2 de fevereiro de 1965.
 
 Autoriza o cidadão brasileiro José Alves de Souza, a pesquisar Mica e Quartzo no município de Virgolândia, Estado de Minas Gerais.

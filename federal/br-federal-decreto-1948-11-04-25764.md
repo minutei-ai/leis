@@ -1,22 +1,20 @@
-###DEC-025764-0-000-04-11-1948@@@
+**DECRETO Nº 25.764, DE 4 DE NOVEMBRO DE 1948.**
 
-<strong>DECRETO Nº 25.764, DE 4 DE NOVEMBRO DE 1948.</strong>
+***Concede à sociedade anônima “The San Paulo Gas Company, Limited” autorização para continuar a funcionar na República.***
 
-<em><strong>Concede à sociedade anônima “The San Paulo Gas Company, Limited” autorização para continuar a funcionar na República.</strong></em>
+**OPRESIDENTE DA REPÚBLICA**, atendendo ao que requereu a sociedade anônima “The San Paulo Gas Company, Limited”,
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA</strong>, atendendo ao que requereu a sociedade anônima “The San Paulo Gas Company, Limited”,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. E’ concedida à sociedade anônima “The San Paulo Gas Company”, com sede em Londres, Inglaterra, autorizada a funcionar no Brasil, pelo decreto imperial n.° 5.071, de 9 de julho de 1872, autorização para continuar a funcionar na República, com os estatutos e alterações que apresentou, tendo em vista a deliberação de 25 de abril de 1939, aprova pela assembléia geral extraordinária de seus acionistas, com o capital destinado às suas operações no Brasil elevado de £ 70.000 para £ 500.000, ou seja um total de Cr$37.720.800,00 (trinta e sete milhões, setecentos e vinte mil e oitocentos cruzeiros), mediante as cláusulas que êste acompanham, assinadas pelo Ministro de Estado do Trabalho, Indústria e Comércio, obrigando-se a mesma sociedade a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
 
 Rio de Janeiro, 4 de novembro de 1948, 127.° da Independência e 60.° da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Honório Monteiro
 
-<strong>CLÁUSULAS QUE ACOMPANHAM O DECRETO N° 25.764, DESTA DATA</strong>
+**CLÁUSULAS QUE ACOMPANHAM O DECRETO N° 25.764, DESTA DATA**
 
 I
 
@@ -46,4 +44,4 @@ A infração de qualquer das cláusulas para a qual não esteja cominada pena es
 
 Rio de Janeiro, 4 de novembro de 1948.
 
-<strong>HONÓRIO MONTEIRO</strong>
+**HONÓRIO MONTEIRO**

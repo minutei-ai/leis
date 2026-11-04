@@ -1,5 +1,3 @@
-###DEC-094822-0-000-02-09-1987@@@
-
 # DECRETO Nº 94.822, DE 2 DE SETEMBRO DE 1987.
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, sem benfeitorias, situada no Município e Comarca de São Paulo, Estado de São Paulo, destinada à instalação de Estação Telefônica das Telecomunicações de São Paulo S.A. - TELESP, e dá outras providências.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/22970553-f11a-4f5e-9b64-b3d83932c5e4/texto#nowhere)
 
-###DEL-000950-0-000-13-10-1969@@@
-
 DECRETO-LEI Nº 950, DE 13 DE OUTUBRO DE 1969
 
 Institui no Ministério do Interior o Fundo Especial para Calamidades Públicas (FUNCAP) e dá outras providências.

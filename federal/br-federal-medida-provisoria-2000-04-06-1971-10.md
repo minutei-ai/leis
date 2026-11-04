@@ -1,5 +1,3 @@
-###MPV-001971-0-010-06-04-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.971-10, DE 6 de abril DE 2000.
 
 Dispõe sobre a reestruturação da Carreira Auditoria do Tesouro Nacional e organização da Carreira Auditoria-Fiscal da Previdência Social da Carreira Auditoria-Fiscal do Trabalho.

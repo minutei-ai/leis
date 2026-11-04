@@ -1,5 +1,3 @@
-###DEC-049990-0-000-24-01-1961@@@
-
 DECRETO Nº 49.990, DE 24 DE JANEIRO DE 1961.
 
 Autoriza a Companhia Hidro Elétrica do São Francisco a realizar as obras mencionadas no Decreto número 45.179, de 1958.

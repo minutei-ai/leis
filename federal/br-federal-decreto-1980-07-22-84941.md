@@ -1,5 +1,3 @@
-###DEC-084941-0-000-22-07-1980@@@
-
 Decreto nº 84.941, de 22 de julho de 1980.
 
 Altera a composição dos Conselhos Deliberativos das Superintendências de Desenvolvimento Regional.

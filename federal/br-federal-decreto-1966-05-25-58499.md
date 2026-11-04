@@ -1,5 +1,3 @@
-###DEC-058499-0-000-25-05-1966@@@
-
 Decreto nº 58.499, de 25 de maio de 1966.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério da Guerra.

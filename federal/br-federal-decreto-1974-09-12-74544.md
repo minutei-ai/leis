@@ -1,5 +1,3 @@
-###DEC-074544-0-000-12-09-1974@@@
-
 DECRETO Nº 74.544, DE 12 DE SETEMBRO DE 1974.
 
 Transfere para FURNAS - Centrais Elétricas S.A. os direitos concedidos à Centrais Elétricas de Goiás S.A. por força do Decreto número 69.473, de 5 de novembro de 1971.

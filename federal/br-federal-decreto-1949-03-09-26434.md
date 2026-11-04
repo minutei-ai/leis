@@ -1,20 +1,18 @@
-###DEC-026434-0-000-09-03-1949@@@
+**DECRETO Nº 26.434, DE 9 DE MARÇO DE 1949.**
 
-<strong>DECRETO Nº 26.434, DE 9 DE MARÇO DE 1949.</strong>
+***Outorga á S. C. Central Elétrica Rio Claro concessão para aproveitamento de energia hidráulica de cachoeira, situada no rio Mongi-Guaçu, Município de Pinhal, Estado de São Paulo.***
 
-<em><strong>Outorga á S. C. Central Elétrica Rio Claro concessão para aproveitamento de energia hidráulica de cachoeira, situada no rio Mongi-Guaçu, Município de Pinhal, Estado de São Paulo.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada à S. A. Central Elétrica Rio Claro concessão para o aproveitamento da energia hidráulica da cachoeira situada no rio Mongi-Guaçu, entre Perdigão e Ponte Preta, Município de Pinhal, Estado de São Paulo.
+**Art**. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada à S. A. Central Elétrica Rio Claro concessão para o aproveitamento da energia hidráulica da cachoeira situada no rio Mongi-Guaçu, entre Perdigão e Ponte Preta, Município de Pinhal, Estado de São Paulo.
 
 § 1º Em portaria do Ministro da Agricultura, por ocasião da aprovação dos projetos, serão determinadas a altura de queda a aproveitar, a descarga e a potência concedidas.
 
 § 2º O aproveitamento destina-se à produção, transmissão e distribuição de energia elétrica, para serviços públicos, serviços de utilidade pública e para comércio de energia na zona da concessionária.
 
-<strong>Art</strong>. 2º Sob pena de caducidade do presente título, a concessionária obriga-se a:
+**Art**. 2º Sob pena de caducidade do presente título, a concessionária obriga-se a:
 
 I - Registrá-lo na Divisão de Águas dentro de trinta (30) dias após a sua publicação.
 
@@ -66,32 +64,32 @@ V - Obedecer, em todos os projetos, às prescrições de ordem técnica determin
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura, ouvida a Divisão de Águas.
 
-<strong>Art</strong>. 3º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações linemétricas e medições de descarga e a realizar as observações de acôrdo com as instruções da Divisão de Águas.
+**Art**. 3º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações linemétricas e medições de descarga e a realizar as observações de acôrdo com as instruções da Divisão de Águas.
 
-<strong>Art</strong>. 4º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
+**Art**. 4º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
 
-<strong>Art</strong>. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da dada do registro do respectivo contrato na Divisão de Águas.
+**Art**. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da dada do registro do respectivo contrato na Divisão de Águas.
 
-<strong>Art</strong>. 6º O capital a ser remunerado será o efetivamente invertido nas instalações da concessionária em função da sua indústria, concorrendo, direta ou indiretamente, para a produção, transmissão e distribuição de energia elétrica.
+**Art**. 6º O capital a ser remunerado será o efetivamente invertido nas instalações da concessionária em função da sua indústria, concorrendo, direta ou indiretamente, para a produção, transmissão e distribuição de energia elétrica.
 
-<strong>Art</strong>. 7º As atuais tabelas de preço de energia fornecida pelo concessionário serão, integralmente mantidas até que, mediante revisão oportunamente efetuada pela Divisão de Águas, sejam fixadas as que deverão vigorar pelo primeiro período de tarifas, de acôrdo com o disposto no art. 180 do Código de Águas.
+**Art**. 7º As atuais tabelas de preço de energia fornecida pelo concessionário serão, integralmente mantidas até que, mediante revisão oportunamente efetuada pela Divisão de Águas, sejam fixadas as que deverão vigorar pelo primeiro período de tarifas, de acôrdo com o disposto no art. 180 do Código de Águas.
 
-<strong>Art</strong>. 8º Para manutenção da integridade do capital a que se refere o art. 6º do presente decreto, será criado um fundo de reserva que proverá as renovações, determinadas pela depreciação ou impostas por acidentes.
+**Art**. 8º Para manutenção da integridade do capital a que se refere o art. 6º do presente decreto, será criado um fundo de reserva que proverá as renovações, determinadas pela depreciação ou impostas por acidentes.
 
 Parágrafo único. A constituição dêsse fundo, que se denominará reserva de renovação, será realizada por cotas especiais que incidirão sôbre as tarifas, sob forma de percentagem. Estas cotas serão determinadas, tendo se em vista a duração média do material a cuja renovação à dita reserva terá que atender, podendo ser modificadas, trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 9º Findo o prazo da concessão, tôda a propriedade da concessionária que, no momento existir em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Govêrno Federal, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art. 8º dêste decreto.
+**Art**. 9º Findo o prazo da concessão, tôda a propriedade da concessionária que, no momento existir em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Govêrno Federal, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do art. 8º dêste decreto.
 
-<strong>Art</strong>. 10. Se o Govêrno Federal não fizer uso do seu direito a essa reversão, a interessada poderá requerer que a concessão seja renovada pela forma que, no respectivo contrato deverá estar prevista, ou de restabelecer, às suas expensas, a situação do curso dágua anterior ao aproveitamento concedido.
+**Art**. 10. Se o Govêrno Federal não fizer uso do seu direito a essa reversão, a interessada poderá requerer que a concessão seja renovada pela forma que, no respectivo contrato deverá estar prevista, ou de restabelecer, às suas expensas, a situação do curso dágua anterior ao aproveitamento concedido.
 
-<strong>Art</strong>. 11. A concessionária gozará, desde a data do registro de que trata art. 5º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 11. A concessionária gozará, desde a data do registro de que trata art. 5º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 12. O presente decreto entra em vigor na data da sua publicação.
+**Art**. 12. O presente decreto entra em vigor na data da sua publicação.
 
-<strong>Art</strong>. 13. Revogam-se as disposições em contrário.
+**Art**. 13. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 9 de março de 1949, 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Carlos de Sousa Duarte

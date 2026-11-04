@@ -1,5 +1,3 @@
-###DEC-090223-0-000-25-09-1984@@@
-
 Decreto nº 90.223, de 25 de setembro de 1984,
 
 Cria, no Estado de Minas Gerais, o PARQUE NACIONAL DA SERRA DO CIPÓ e dá outras providências.

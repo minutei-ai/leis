@@ -1,5 +1,3 @@
-###DEC-054023-0-000-16-07-1964@@@
-
 DECRETO Nº 54.023, DE 16 DE JULHO DE 1964.
 
 Extingue no Ministério das Relações Exteriores a Comissão designada por Decreto de 22 de janeiro de 1963 para examinar a questão das chamadas “Northern Utilities”.

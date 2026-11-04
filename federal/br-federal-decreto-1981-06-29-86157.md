@@ -1,5 +1,3 @@
-###DEC-086157-0-000-29-06-1981@@@
-
 Decreto nº 86.157, de 29 de junho de 1981
 
 Regulamenta o parágrafo único do artigo 1º do Decreto-lei nº 1.813, de 24 de novembro de 1980, que institui regime especial de incentivos para os empreendimentos integrantes do Programa Grande Carajás.

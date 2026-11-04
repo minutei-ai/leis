@@ -1,6 +1,7 @@
 LEI Nº 4.437 DE 09 DE MAIO DE 1985
 
-Ver também:<br>
+Ver também:
+
 Lei nº [13.366](https://www.legislabahia.ba.gov.br/documentos/lei-no-13366-de-29-de-junho-de-2015#LO%2013.366) de 29 de junho de 2015 - Atualiza os limites dos municípios, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Caém, Capim Grosso, Jacobina, Miguel Calmon, Mirangaba, Ourolândia, Quixabeira, Saúde, Serrolândia, Umburanas e Várzea Nova.
 
 Cria o Município de Capim Grosso, desmembrado do de Jacobina.

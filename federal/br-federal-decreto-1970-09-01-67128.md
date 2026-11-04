@@ -1,5 +1,3 @@
-###DEC-067128-0-000-01-09-1970@@@
-
 DECRETO Nº 67.128, DE 1 DE SETEMBRO DE 1970.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 52.201, de 28 de junho de 1963 para fins de desapropriação pelo Departamento Nacional de Obras contra as Secas, da área de terreno necessária a construção do açude público "Adustina", no Município de Paripiranga, Estado da Bahia.

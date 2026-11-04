@@ -1,5 +1,3 @@
-###DEC-096853-0-000-28-09-1988@@@
-
 DECRETO Nº 96.853, DE 28 DE SETEMBRO DE 1988
 
 Outorga concessão ao SISTEMA RESENDENSE DE COMUNICAÇÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Resende, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-000097-0-000-16-04-1991@@@
-
 DECRETO N° 97, DE 16 DE ABRIL DE 1991
 
 Delega competência aos Ministros Militares para especificarem as entidades consignatárias para os efeitos da Lei n° 5.787, de 27 de junho de 1972.

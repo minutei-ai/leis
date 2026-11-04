@@ -1,5 +1,3 @@
-###DEC-045128-0-000-29-12-1958@@@
-
 DECRETO Nº 45.128, DE 29 DE DEZEMBRO DE 1958.
 
 Concede à Indústria Extrativa de Minérios Lolli Ltda., autorização para funcionar como emprêsa de mineração.

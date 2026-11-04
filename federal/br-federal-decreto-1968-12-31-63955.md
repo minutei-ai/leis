@@ -1,5 +1,3 @@
-###DEC-063955-0-000-31-12-1968@@@
-
 DECRETO Nº 63.955, DE 31 DE DEZEMBRO DE 1968.
 
 Extingue o Comando do 7º Distrito Naval e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-006886-0-000-21-09-1944@@@
-
 DECRETO-LEI N. 6.886 – DE 21 DE SETEMBRO DE 1944
 
 Regula a admissão de pessoal na guarda dos Territórios Federais

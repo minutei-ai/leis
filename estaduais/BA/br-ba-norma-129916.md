@@ -8,7 +8,8 @@ Autoriza o Poder Executivo a contratar operação de crédito externo na forma q
 
 **Parágrafo único -**   Os recursos resultantes da operação de crédito autorizada neste  artigo destinam-se ao financiamento do fortalecimento dos programas estruturantes do Governo da Bahia, relativos ao desenvolvimento de infraestruturas logísticas, institucionais e eficiência energéticas, à melhoria da mobilidade e acesso a oportunidades, à transição ecológica inclusiva para o crescimento sustentável, ao fortalecimento do planejamento e gestão do setor público, e aos investimentos previstos no Programa de Infraestrutura Sustentável do Estado da Bahia - Bahia Sustentável.
 
-Redação de acordo com a Lei [14.726](https://www.legislabahia.ba.gov.br/documentos/lei-no-14726-de-28-de-maio-de-2024) de 28 de maio de 2024.<br>
+Redação de acordo com a Lei [14.726](https://www.legislabahia.ba.gov.br/documentos/lei-no-14726-de-28-de-maio-de-2024) de 28 de maio de 2024.
+
 Redação original: "Parágrafo único -Os recursos resultantes da operação de crédito autorizada neste artigo destinam-se ao fortalecimento de programas estruturantes relativos ao esforço da inclusão social e produtiva, ao desenvolvimento de infraestrutura social, físico e institucional para o crescimento sustentável e ao fortalecimento do planejamento e gestão do setor público em apoio ao Programa de Inclusão e Desenvolvimento Socioeconômico do Estado da Bahia 3ª etapa - PROINCLUSÃO III e ao pagamento da dívida interna com a União. "
 
 **Art. 2º** - Fica o Poder Executivo autorizado a promover as modificações orçamentárias que se fizerem necessárias ao cumprimento do disposto nesta Lei.

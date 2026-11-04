@@ -1,5 +1,3 @@
-###DEC-092495-0-000-26-03-1986@@@
-
 DECRETO Nº 92.495, DE 26 DE MARÇO DE 1986
 
 Autoriza o funcionamento do curso de Instrumento do Conservatório Musical de Santos.

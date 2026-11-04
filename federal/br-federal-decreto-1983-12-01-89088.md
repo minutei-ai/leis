@@ -1,5 +1,3 @@
-###DEC-089088-0-000-01-12-1983@@@
-
 Decreto nº 89.088, de 01 de dezembro dE 1983
 
 Autoriza estrangeiros a adquirirem direitos sobre terreno que menciona, situado no Município de Vitória, Estado do Espírito Santo.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51247)
-
 # LEI Nº 11.769, DE 07 DE JULHO DE 2004
 
 ## (PL 759/2003 - Vanderlei Macris)

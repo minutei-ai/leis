@@ -1,5 +1,3 @@
-###DEL-006599-0-000-19-06-1944@@@
-
 DECRETO-LEI N. 6.599 – DE 19 DE JUNHO DE 1944
 
 Concede acréscimo de vencimentos aos tenentes-coronéis da Polícia Militar do Distrito Federal

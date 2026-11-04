@@ -1,5 +1,3 @@
-###DEL-005567-0-000-10-06-1943@@@
-
 DECRETO‑LEI N. 5.567 – DE 10 DE JUNHO DE 1943
 
 Abre ao Ministério da Agricultura o crédito suplementar de Cr$ 22.500,00, à verba que especifica

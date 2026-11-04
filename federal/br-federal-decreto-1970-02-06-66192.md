@@ -1,5 +1,3 @@
-###DEC-066192-0-000-06-02-1970@@@
-
 DECRETO Nº 66.192 - de 6 de fevereiro de 1970
 
 Prorrogada até 30 de maio de 1970 o prazo a que se refere o artigo 5º do Decreto nº 65.325.

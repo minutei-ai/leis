@@ -1,5 +1,3 @@
-###DEC-059762-0-000-16-12-1966@@@
-
 DECRETO Nº 59.762, DE 16 DE DEZEMBRO DE 1966.
 
 Abre, ao Ministério da Fazenda, o crédito suplementar de Cr$20.000.000, destinados à Administração do Edifício Fazenda.
@@ -10,7 +8,25 @@ decreta:
 
 Art. 1º Fica aberto ao Ministério da Fazenda o crédito suplementar de Cr$20.000.000 (vinte milhões de cruzeiros), para atender ao pagamento de despesas à contar da dotação orçamentária abaixo especificada:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.07.00</span></p></td><td style="width:236.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministério da Fazenda</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4.07.12</span></p></td><td style="width:236.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Direção Geral da Fazenda Nacional (Órgãos de Administração Geral)</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.1.3.0</span></p></td><td style="width:236.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Serviços de Terceiros</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>04.00</span></p></td><td style="width:236.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Iluminação, Fôrça Motriz e Gás</span></p></td></tr><tr><td style="width:187.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>03) Administração do Edifício da Fazenda</span></p></td><td style="width:236.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$20.000.000</span></p></td></tr></tbody></table>
+4.07.00
+
+Ministério da Fazenda
+
+4.07.12
+
+Direção Geral da Fazenda Nacional (Órgãos de Administração Geral)
+
+3.1.3.0
+
+Serviços de Terceiros
+
+04.00
+
+Iluminação, Fôrça Motriz e Gás
+
+03) Administração do Edifício da Fazenda
+
+Cr$20.000.000
 
 Art. 2º O crédito suplementar de que trata o artigo anterior, será registrado e distribuído pelo Tribunal de Contas ao Tesouro Nacional.
 

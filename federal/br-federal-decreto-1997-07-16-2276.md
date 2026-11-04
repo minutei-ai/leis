@@ -1,5 +1,3 @@
-###DEC-002276-0-000-16-07-1997@@@
-
 DECRETO Nº 2.276, DE 16 DE JULHO DE 1997
 
 Dispõe sobre o regime de “drawback”.

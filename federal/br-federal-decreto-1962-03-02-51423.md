@@ -1,5 +1,3 @@
-###DEC-051423-0-000-02-03-1962@@@
-
 DECRETO Nº 51.423, DE 2 DE MARÇO DE 1962.
 
 Dá nova redação aos arts. 1º, 2º, 3º e 4º do Decreto nº 51.393, de 11 de janeiro de 1962.

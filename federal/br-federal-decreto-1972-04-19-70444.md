@@ -1,5 +1,3 @@
-###DEC-070444-0-000-19-04-1972@@@
-
 Decreto nº 70.444, de 19 de abril de 1972.
 
 Retifica o enquadramento definitivo dos cargos e funções do Ministério da Agricultura, aprovado pelo Decreto nº 51.633, de 19 de dezembro de 1962.

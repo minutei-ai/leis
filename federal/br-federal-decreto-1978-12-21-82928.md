@@ -1,5 +1,3 @@
-###DEC-082928-0-000-21-12-1978@@@
-
 Decreto nº 82.928, de 21 de dezembro de 1978.
 
 Concede à Mineração Andradense Ltda. o direito de lavrar argila e leucita no Município de Andradas, Estado de Minas Gerais.

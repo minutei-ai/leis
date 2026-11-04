@@ -1,5 +1,3 @@
-###DEC-075682-0-000-30-04-1975@@@
-
 DECRETO Nº 75.682, DE 30 DE ABRIL DE 1975.
 
 Outorga à Companhia Nacional de Mineração de Carvão de Barro Branco concessão para o aproveitamento hidráulico de um desnível existente no Rio Tubarão, Município de Orleans, Estado de Santa Catarina, para uso exclusivo.

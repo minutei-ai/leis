@@ -1,19 +1,17 @@
-###DEC-028941-0-000-07-12-1950@@@
+**DECRETO Nº 28.941, DE 7 DE DEZEMBRO DE 1950.**
 
-<strong>DECRETO Nº 28.941, DE 7 DE DEZEMBRO DE 1950.</strong>
+***Extingue vaga de Despachante Aduaneiro.***
 
-<em><strong>Extingue vaga de Despachante Aduaneiro.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I da Constituição Federal, e nos têrmos do art. 56 do Decreto-lei nº 4.014, de 13 de janeiro de 1942,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I da Constituição Federal, e nos têrmos do art. 56 do Decreto-lei nº 4.014, de 13 de janeiro de 1942,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica extinta a vaga de Despachante Aduaneiro junto a alfândega do Rio de Janeiro, decorrente do falecimento de Murilo Barbosa do Amaral.
 
-<strong>Art</strong>. 1º Fica extinta a vaga de Despachante Aduaneiro junto a alfândega do Rio de Janeiro, decorrente do falecimento de Murilo Barbosa do Amaral.
-
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 7 de dezembro de 1950; 129º da Independência e 62° da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Guilherme da Silveira

@@ -1,5 +1,3 @@
-###DEC-062470-0-000-27-03-1968@@@
-
 DECRETO Nº 62.470, DE 27 DE MARÇO DE 1968.
 
 Altera a redação do artigo 1º do Decreto nº 32.483, de 28 de março de 1953, que transferiu para a Emprêsa de Eletricidade Luz e Fôrça de Araranguá S.A., concessão outorgada a José Firmino Leitão.

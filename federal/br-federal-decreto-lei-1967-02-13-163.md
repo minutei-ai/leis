@@ -1,5 +1,3 @@
-###DEL-000163-0-000-13-02-1967@@@
-
 DECRETO-LEI Nº 163, DE 13 DE FEVEREIRO DE 1967
 
 Exclui do sistema de alienação compulsória, instituída na Lei nº 4.380, de 21 de agôsto de 1964, com as alterações decorrentes do prescrito na Lei nº 5.049, de 29 de junho de 1966, os imóveis de propriedade das entidades que menciona.

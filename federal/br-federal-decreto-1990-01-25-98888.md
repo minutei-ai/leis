@@ -1,7 +1,3 @@
-1
-
-###DEC-098888-0-000-25-01-1990@@@
-
 DECRETO Nº 98.888, DE 25 DE JANEIRO DE 1990
 
 Autoriza o funcionamento do curso de Ciência da Computação da Faculdade de Ciências Econômicas, Contábeis e Administrativas de Campo Grande, Rio de Janeiro .

@@ -1,5 +1,3 @@
-###DEC-055484-0-000-08-01-1965@@@
-
 Decreto nº 55.484, de 8 de janeiro de 1965.
 
 Autoriza a firma Indústrias Brasileiras de Artigos Refratórios S.A. - I.B.A.R. a pesquisar quartzito no município de Itapeva, Estado de São Paulo.

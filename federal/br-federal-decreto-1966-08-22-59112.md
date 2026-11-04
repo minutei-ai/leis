@@ -1,5 +1,3 @@
-###DEC-059112-0-000-22-08-1966@@@
-
 DECRETO Nº 59.112, DE 22 DE AGôSTO DE 1966.
 
 Altera o Regimento aprovado pelo Decreto nº 38.609, de 19 de janeiro de 1956.

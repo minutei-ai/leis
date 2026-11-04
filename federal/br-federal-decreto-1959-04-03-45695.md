@@ -1,5 +1,3 @@
-###DEC-045695-0-000-03-04-1959@@@
-
 DECRETO Nº 45.695, DE 3 DE ABRIL DE 1959
 
 Altera a redação do artigo 9º de Regulamento aprovado pelo Decreto nº 33.926, de 28 de setembro de 1953.
@@ -12,7 +10,25 @@ Art. 1º O artigo 9º do Regulamento aprovado pelo Decreto nº 33.926, de 28 de 
 
 ”Art. 9º O efetivo do Quadro Ordinário do Corpo de Graduados Efetivos é:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Grã-Cruz...........................................................................................</span></p></td><td style="width:131.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1</span></p></td></tr><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Grande-Oficial..................................................................................</span></p></td><td style="width:131.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>35</span></p></td></tr><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Comendador.....................................................................................</span></p></td><td style="width:131.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>40</span></p></td></tr><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Oficial...............................................................................................</span></p></td><td style="width:131.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>70</span></p></td></tr><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cavaleiro..........................................................................................</span></p></td><td style="width:131.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>100</span></p></td></tr></tbody></table>
+Grã-Cruz...........................................................................................
+
+1
+
+Grande-Oficial..................................................................................
+
+35
+
+Comendador.....................................................................................
+
+40
+
+Oficial...............................................................................................
+
+70
+
+Cavaleiro..........................................................................................
+
+100
 
 Artigo 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

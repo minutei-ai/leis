@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51150)
-
 # LEI Nº 11.744, DE 16 DE JUNHO DE 2004
 
 ## ( PL 538/2003 - Orlando Morando)

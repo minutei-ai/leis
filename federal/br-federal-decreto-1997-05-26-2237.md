@@ -1,5 +1,3 @@
-###DEC-002237-0-000-26-05-1997@@@
-
 DECRETO Nº 2.237, DE 26 DE MAIO DE 1997
 
 Prorroga o prazo estabelecido no art. 4º do Decreto nº 1.784, de 11 de janeiro de 1996.

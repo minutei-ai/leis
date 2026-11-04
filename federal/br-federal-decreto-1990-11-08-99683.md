@@ -1,7 +1,3 @@
-1
-
-###DEC-099683-0-000-08-11-1990@@@
-
 DECRETO N° 99.683, DE 8 DE NOVEMBRO DE 1990
 
 Dispõe sobre o Projeto “Ministério da Criança”, define procedimentos organizacionais para sua execução, e dá outras providências.

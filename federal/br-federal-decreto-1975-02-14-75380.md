@@ -1,5 +1,3 @@
-###DEC-075380-0-000-14-02-1975@@@
-
 DECRETO Nº 75.380, DE 14 DE FEVEREIRO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Mirador Limitada, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade do Rio do Sul, Estado de Santa Catarina.

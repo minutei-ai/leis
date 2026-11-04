@@ -1,5 +1,3 @@
-###DEC-061859-0-000-06-12-1967@@@
-
 Decreto nº 61.859, de 6 de dezembro de 1967.
 
 Reorganização da rêde consular brasileira no exterior.

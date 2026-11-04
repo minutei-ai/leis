@@ -1,5 +1,3 @@
-###DEC-057775-0-000-10-02-1966@@@
-
 DECRETO Nº 57.775, DE 10 DE FEVEREIRO DE 1966.
 
 Define exercício de função militar e dá outras providências.

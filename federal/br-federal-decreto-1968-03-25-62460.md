@@ -1,5 +1,3 @@
-###DEC-062460-0-000-25-03-1968@@@
-
 DECRETO Nº 62.460, DE 25 DE MARÇO DE 1968.
 
 Regulamenta o Capítulo IV, do Título II, do Decreto-lei nº 200, de 25 de fevereiro de 1967, referente à delegação de competência.

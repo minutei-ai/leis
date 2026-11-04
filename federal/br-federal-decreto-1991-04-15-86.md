@@ -1,5 +1,3 @@
-###DEC-000086-0-000-15-04-1991@@@
-
 DECRETO N° 86, DE 15 DE ABRIL DE 1991.
 
 Dispõe sobre o Cartão de Entrada e Saída do Pais.

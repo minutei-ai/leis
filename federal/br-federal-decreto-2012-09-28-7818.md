@@ -1,5 +1,3 @@
-###DEC-007818-0-000-28-09-2012-PUB-01@@@
-
 DECRETO N° 7.818, DE 28 DE SETEMBRO DE 2012
 
 Dispõe sobre o remanejamento de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS, e altera o  Anexo II ao Decreto n° 5.135, de 7 de julho de 2004, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas da Casa Civil da Presidência da República.

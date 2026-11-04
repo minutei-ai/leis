@@ -1,5 +1,3 @@
-###DEC-073746-0-000-06-03-1974@@@
-
 DECRETO Nº 73.746, DE 6 DE MARÇO DE 1974.
 
 Declara perempta a concessão outorgada à Rádio Difusora de Iguape Limitada, para executar serviço de radiodifusão sonora em onda média de âmbito regional na cidade de São Paulo, Estado de São Paulo.

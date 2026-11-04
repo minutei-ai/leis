@@ -1,5 +1,3 @@
-###DEL-000124-0-000-29-12-1937@@@
-
 DECRETO-LEI N. 124 – DE 29 DE DEZEMBRO DE 1937
 
 Abre, pela Prefeitura do Distrito Federal o crédito especial de réis 80:000$000 para atender às despesas de instalação da Comissão Elaboração do “Plano da Cidade”

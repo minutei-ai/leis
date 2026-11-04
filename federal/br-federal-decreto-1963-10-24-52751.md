@@ -1,5 +1,3 @@
-###DEC-052751-0-000-24-10-1963@@@
-
 Decreto nº 52.751, de 24 de outubro de 1963.
 
 Regulamento da Carteira de Crédito Rural Supervisionado da Comissão do Vale do São Francisco.

@@ -1,5 +1,3 @@
-###DEL-004543-0-000-31-07-1942@@@
-
 DECRETO-LEI N. 4.543 – DE 31 DE JULHO DE 1942
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de 5.000:000$0, para despesas do Território do Acre

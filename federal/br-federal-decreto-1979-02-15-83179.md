@@ -1,5 +1,3 @@
-###DEC-083179-0-000-15-02-1979@@@
-
 DECRETO Nº 83.179, DE 15 DE FEVEREIRO DE 1979
 
 Concede reconhecimento aos cursos de História, de Geografia e de Estudos Sociais, ministrados pelo Instituto Superior de Ciências, Letras e Artes de Três Corações, Estado de Minas Gerais.

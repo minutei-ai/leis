@@ -1,5 +1,3 @@
-###DEC-079707-0-000-19-05-1977@@@
-
 DECRETO Nº 79.707, DE 19 DE MAIO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, total ou parcial, ou instituição de servidão de passagem, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis, constituídos de terras e benfeitorias, situados no Município de Manaus, Estado do Amazonas.

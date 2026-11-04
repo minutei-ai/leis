@@ -1,5 +1,3 @@
-###DEC-094115-0-000-19-03-1987@@@
-
 DECRETO N° 94.115, DE 19 DE MARÇO DE 1987
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Fazendas Samarco e Chapadão do Rio Quartel", classificados no Cadastro de Imóveis Rurais do INCRA como "latifúndio por exploração", situados no Município de Linhares, no Estado do Espírito Santo, compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.618, de 2 de maio de 1986, e dá outras providências.

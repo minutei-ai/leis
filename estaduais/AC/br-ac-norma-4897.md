@@ -1,6 +1,10 @@
 > **LEI Nº 3.797, DE 28 DE OUTUBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Proíbe a utilização de animais para desenvolvimento, experimentos e testes de produtos cosméticos, higiene pessoal, perfumes, limpeza e seus componentes, no âmbito do Estado do Acre, sem prejuízo de proibições e sanções previstas em outros dispositivos legais.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Proíbe a utilização de animais para desenvolvimento, experimentos e testes de produtos cosméticos, higiene pessoal, perfumes, limpeza e seus componentes, no âmbito do Estado do Acre, sem prejuízo de proibições e sanções previstas em outros dispositivos legais.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE,**
 

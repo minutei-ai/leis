@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/f14b2331-b609-4b60-9dbb-72a220dd6ec8/texto#nowhere)
 
-###DEL-000734-0-000-05-08-1969@@@
-
 DECreto-LEi Nº 734, DE 5 DE AGOSTO DE 1969
 
 Autoriza o Govêrno do Estado do Rio Grande ao avalizar contrato de financiamento externo.

@@ -1,5 +1,3 @@
-###DEC-061417-0-000-29-09-1967@@@
-
 decreto Nº 61.417, DE 29 DE SETEMBRO DE 1967.
 
 Institui grupo de trabalho junto ao Estado Maior das Fôrças Armadas para o fim que menciona.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/b71d3853-0a5c-4c08-87b4-8a0a2eabdb8b/texto#nowhere)
 
-###DEL-001050-0-000-21-10-1969@@@
-
 decreto-lei nº 1.050, de 21 de outubro de 1969
 
 Altera Quadros de Pessoal da Universidade Federal da Paraíba e do Ministério da Educação e Cultura e dá outras providências.

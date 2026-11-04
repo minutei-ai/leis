@@ -1,5 +1,3 @@
-###DEC-080123-0-000-10-08-1977@@@
-
 decreto nº 80.123, de 10 de agosto de 1977.
 
 Concede à Mineração Santa Branca Ltda. o direito de lavrar feldspato e quartzo no Município de Santa Branca, Estado de São Paulo.

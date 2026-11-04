@@ -4,7 +4,8 @@ Dispõe sobre as Diretrizes Orçamentárias para o exercício de 2018.
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 1º - Ficam estabelecidas, em conformidade ao disposto no art. 165, § 2º, da Constituição Federal, ao art. 92, §2º, da Lei Orgânica do Município de Aparecida de Goiânia e das disposições contidas na Lei Complementar nº 101, de 04 de maio de 2000, as diretrizes gerais para elaboração dos orçamentos do Município para o exercício de 2018, compreendendo:
@@ -31,7 +32,8 @@ X.    as demais disposições gerais. 
 
 Art. 2º - O projeto da Lei Orçamentária Anual para o exercício de 2018 será elaborado a partir da consolidação das propostas setoriais apresentadas pelos órgãos/entidades, bem como das propostas e sugestões formuladas pela população, por intermédio de audiências públicas e dos meios disponibilizados via internet.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS PRIORIDADES E METAS DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL
 
 Art. 3° - As metas finalísticas e as prioridades para o exercício financeiro de 2018 serão estabelecidas no projeto de lei do Plano Plurianual (PPA) relativo ao período 2018-2021, que será elaborado de acordo com diretrizes de Governo, extensivas ao orçamento anual.
@@ -72,7 +74,8 @@ g) priorização de despesas finalísticas, em especial as relacionadas a projet
 
 Art. 6º - O desdobramento estratégico do Plano de Governo será norteador do projeto da Lei Orçamentária Anual para 2018, estruturado por setor, programas e ações regionalizadas (projeto/atividade).
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA ORGANIZAÇÃO E ESTRUTURA DOS ORÇAMENTOS
 
 Art. 7º - Para elaboração da Lei Orçamentária Anual deve-se adotar a classificação funcional-programática, definida na Portaria Conjunta STN/SOF nº 3/2008 e nos Manuais de Contabilidade Aplicada ao Setor Público (MCASP).
@@ -135,7 +138,8 @@ III. orçamento fiscal e da seguridade social dos Poderes Executivo, Legislativo
 
 Parágrafo único. O Projeto de Lei Orçamentária conterá ainda a programação referente à manutenção e desenvolvimento do ensino, nos termos do art. 112, da Lei Orgânica Municipal.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS DIRETRIZES GERAIS PARA A ELABORAÇÃO E EXECUÇÃO DOS ORÇAMENTOS DO MUNICÍPIO E SUAS ALTERAÇÕES.
 
 Art. 12 - A elaboração do projeto de lei, a aprovação e a execução da Lei Orçamentária para o exercício vindouro evidenciarão a transparência da gestão fiscal, observados os princípios da publicidade e a garantia do acesso popular através de audiências públicas (presenciais ou eletrônicas) previamente programadas.
@@ -268,7 +272,8 @@ Art. 35 - Na programação dos investimentos, aqueles em fase de execução ter�
 
 Art. 36 - A administração pública municipal poderá destinar recursos para, direta ou indiretamente, cobrir necessidades de pessoas físicas, comprovadamente em vulnerabilidade social ou vitimadas por situações de calamidade pública, tanto por meio de auxílios financeiros quanto por meio de material de distribuição gratuita, observado o art. 26 da Lei Complementar nº 101/2000.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DAS DISPOSIÇÕES RELATIVAS ÀS DESPESAS COM PESSOAL E ENCARGOS SOCIAIS
 
 Art. 37 - As despesas totais com pessoal serão limitadas em 60% (sessenta por cento) da receita corrente líquida do Município, sendo 6% (seis por cento) para o Legislativo e 54% (cinquenta e quatro por cento) para o Poder Executivo, nos termos do art. 20, inciso III da Lei Complementar nº 101/2000, excetuando-se os casos de:
@@ -299,15 +304,18 @@ Art. 40 - Nenhum benefício ou serviço relativo à seguridade social poderá se
 
 Art. 41 - Desde que não ultrapasse o limite legal de gastos com pessoal conforme previsto na Lei de Responsabilidade Fiscal, ficam autorizadas as nomeações e contratações dos aprovados em concursos públicos, para provimento de cargo efetivo, bem como a contratação por prazo determinado em substituição de servidores.
 
-§1º. Fica autorizada a realização do certame e admissão de pessoal de provimento efetivo na autarquia APARECIDAPREV, cujos cargos são instituidos por Lei.<br>
+§1º. Fica autorizada a realização do certame e admissão de pessoal de provimento efetivo na autarquia APARECIDAPREV, cujos cargos são instituidos por Lei.
+
 (Redação acrescentada pela Lei Ordinária nº 3.404, de 6 de março de 2018).
 
-§2º. A autorização de concurso pelo Chefe do Poder Executivo ficará condicionada a aferição de que, na data de sua expedição, o limite de gasto com pessoal não foi excedido.<br>
+§2º. A autorização de concurso pelo Chefe do Poder Executivo ficará condicionada a aferição de que, na data de sua expedição, o limite de gasto com pessoal não foi excedido.
+
 (Redação acrescentada pela Lei Ordinária nº 3.404, de 6 de março de 2018).
 
 Art. 42 - O Poder Executivo poderá proceder à revisão geral anual na remuneração básica dos servidores públicos e nos subsídios de conformidade com art. 37, da Constituição Federal.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS DISPOSIÇÕES SOBRE ALTERAÇÕES NA LEGISLAÇÃO TRIBUTÁRIA DO MUNICÍPIO.
 
 Art. 43 - O Poder Executivo Municipal poderá enviar à Câmara Municipal projeto de lei dispondo sobre alterações na legislação tributária, cujos efeitos poderão ser considerados, especialmente sobre:
@@ -328,7 +336,8 @@ VII.    Instituição de novas taxas pela prestação de serviços públicos 
 
 VIII.    Revisão das isenções tributárias, para manter o interesse público e estimular o desenvolvimento econômico e a justiça social.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 CRITÉRIOS E FORMAS DE LIMITAÇÃO DE EMPENHO
 
 Art. 44 - Na hipótese de ocorrência das circunstancias estabelecidas no caput do art. 9º e no inciso II do § 1º do art. 31, da Lei Complementar nº 101/2000, o Poder Executivo e o Poder Legislativo precederão à respectiva limitação de empenho e de movimentação financeira, calculada de forma proporcional à participação dos Poderes no total das dotações iniciais constantes da Lei Orçamentária de 2018, utilizando para tal fim as cotas orçamentárias e financeiras.
@@ -361,7 +370,8 @@ IX. investimentos novos.
 
 § 5º - Se verificado, ao final de um bimestre, que a realização da receita não será suficiente para garantir o equilíbrio das contas públicas, adotar-se-ão as mesmas medidas previstas neste artigo.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 PARAMETROS PARA A ELABORAÇÃO DAS METAS BIMESTRAIS DE ARRECADAÇÃO E O CRONOGRAMA MENSAL DE DESEMBOLSO
 
 Art. 45 - O Poder Executivo, por meio da Secretaria de Transparência, Fiscalização e Controle, estabelecerá por ato próprio, até 30 (trinta) dias após a publicação da Lei Orçamentária de 2018, o cronograma mensal de desembolso e as metas bimestrais de arrecadação, respectivamente, nos termos dos arts. 8º e 13 da Lei Complementar nº 101/2000.
@@ -372,7 +382,8 @@ Art. 45 - O Poder Executivo, por meio da Secretaria de Transparência, Fiscaliza
 
 § 3º - A programação financeira e o cronograma mensal de desembolso de que trata o caput deste artigo servirão de base para a limitação de empenhos, além de garantir o cumprimento da meta de resultado primário.
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 DEFINIÇÃO DE CRITÉRIOS PARA INICIO DE NOVOS PROJETOS
 
 Art. 46 - Além da observância das metas e prioridades definidas nos termos do art. 3º desta Lei, a Lei Orçamentária de 2018 e seus créditos adicionais, observado o disposto no art. 45 da Lei Complementar nº 101/2000 somente incluirão novos projetos se:
@@ -387,7 +398,8 @@ IV. os recursos alocados destinarem-se a contrapartidas de recursos federais, es
 
 Parágrafo único. Considera-se projeto em andamento, para os efeitos desta Lei, aquele cuja execução iniciar-se até a data de encaminhamento da proposta orçamentária para o exercício de 2018, cujo cronograma de execução ultrapasse o término do exercício de 2017.
 
-CAPÍTULO X<br>
+CAPÍTULO X
+
 INCENTIVO À PARTICIPAÇÃO POPULAR
 
 Art. 47 - O projeto de Lei Orçamentária do Município, relativo ao exercício financeiro de 2018, deverá assegurar a transparência na elaboração e execução do orçamento.
@@ -402,7 +414,8 @@ I. elaboração da proposta orçamentária de 2018;
 
 II. demonstração dos resultados obtidos pela Administração, na execução do planejamento.
 
-CAPÍTULO XI<br>
+CAPÍTULO XI
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 49 - A programação de receitas e despesas a serem previstas no Orçamento para o exercício de 2018, deverá ser compatível com os objetivos e metas do Plano Plurianual (PPA) e da Lei de Diretrizes Orçamentárias (LDO).
@@ -417,17 +430,18 @@ Art. 53 - Esta Lei entrará em vigor na data de sua publicação.
 
 GABINETE DO PREFEITO DO MUNICÍPIO DE APARECIDA DE GOIÂNIA, NO ESTADO DE GOIÁS, aos 22 dias do mês de junho do ano de 2017.
 
-GUSTAVO MENDANHA MELLO<br>
+GUSTAVO MENDANHA MELLO
+
 Prefeito Municipal
 
-<br>
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil
 
-<br>
-EINSTEIN ALMEIDA FERREIRA PANIAGO<br>
+EINSTEIN ALMEIDA FERREIRA PANIAGO
+
 Secretário de Transparência, Fiscalização e Controle
 
 [ANEXO I](https://legisla.casacivil.go.gov.br/api/v1/arquivos/19023)
 
-[ANEXO II](https://legisla.casacivil.go.gov.br/api/v1/arquivos/19024)<br>
+[ANEXO II](https://legisla.casacivil.go.gov.br/api/v1/arquivos/19024)

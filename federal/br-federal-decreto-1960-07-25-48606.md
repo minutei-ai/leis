@@ -1,5 +1,3 @@
-###DEC-048606-0-000-25-07-1960@@@
-
 Decreto nº 48.606, de 25 de julho de 1960.
 
 Autorizo o cidadão brasileiro Paulo Trindade a pesquisar minério de ouro, no município de Ouro Prêto, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-074163-0-000-10-06-1974@@@
-
 DECRETO Nº 74.163, DE 10 DE JUNHO DE 1974.
 
 Concede reconhecimento ao curso de Pedagogia do Centro de Educação da União da Associação de Ensino de Ribeirão Preto. (UNAERP) com sede na cidade de Ribeirão Preto, Estado de São Paulo.

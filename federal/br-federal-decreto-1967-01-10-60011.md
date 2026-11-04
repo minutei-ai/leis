@@ -1,5 +1,3 @@
-###DEC-060011-0-000-10-01-1967@@@
-
 DECRETO Nº 60.011, DE 10 DE JANEIRO DE 1967.
 
 Autoriza o cidadão brasileiro Cesar de Carvalho Júnior a pesquisar cianita, no município de São José do Jacuri, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-079295-0-000-24-02-1977@@@
-
 DECRETO Nº 79.295, DE 24 DE FEVEREIRO DE 1977.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona, situados na Cidade e Estado do Rio de Janeiro.

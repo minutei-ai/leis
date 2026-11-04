@@ -1,5 +1,3 @@
-###DEC-047905-0-000-11-03-1960@@@
-
 DECRETO Nº 47.905, DE 11 DE MARÇO DE 1960.
 
 Altera o Decreto nº 47.693, de 20 de janeiro de 1960.

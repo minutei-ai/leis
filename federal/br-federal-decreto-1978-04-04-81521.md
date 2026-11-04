@@ -1,5 +1,3 @@
-###DEC-081521-0-000-04-04-1978@@@
-
 Decreto nº 81.521, de 04 de abril de 1978.
 
 Concede autorização à ESSO EMPREENDIMENTOS PETROLÍFEROS DO BRASIL S. A. para operar no mar territorial do Brasil, fixado pelo Decreto-Lei nº 1.098, de 25 de março de 1970, a serviço da PETRÓLEO BRASILEIRO S. A. - PETROBRÁS.

@@ -1,5 +1,3 @@
-###DEC-055325-0-000-31-12-1964@@@
-
 DECRETO Nº 55.325, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Benjamin Ferreira da Fonseca a pesquisar minério de manganês, no município de Casa Grande, Estado de Minas Gerais.

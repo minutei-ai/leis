@@ -1,5 +1,3 @@
-###DEC-055118-0-000-02-12-1964@@@
-
 DECRETO Nº 55.118, DE 2 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Orlando Pianaro a lavrar areia quartzosa, no município de Campo Largo, Estado do Paraná.

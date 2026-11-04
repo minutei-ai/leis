@@ -1,5 +1,3 @@
-###MPV-000357-0-000-12-03-2007@@@
-
 MEDIDA PROVISÓRIA Nº 357, DE 12 DE MARÇO DE 2007.
 
 Autoriza a renegociação dos créditos da União e da Centrais Elétricas Brasileiras S. A. - ELETROBRÁS junto à Itaipu Binacional, e dá outras providências.
@@ -35,5 +33,3 @@ LUIZ INÁCIO LULA DA SILVA
 Guido Mantega
 
 Silas Rondeau Cavalcante Silva
-
-Este texto não substitui o publicado no DOU de 13.3.2007

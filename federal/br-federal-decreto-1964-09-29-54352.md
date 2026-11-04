@@ -1,5 +1,3 @@
-###DEC-054352-0-000-29-09-1964@@@
-
 DECRETO Nº 54.352, DE 29 DE SETEMBRO DE 1964.
 
 Altera o art. 2º do Decreto nº 54.012 de 10 de julho de 1964.

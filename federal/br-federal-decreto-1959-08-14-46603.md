@@ -1,5 +1,3 @@
-###DEC-046603-0-000-14-08-1959@@@
-
 DECRETO Nº 46.603, DE 14 DE agôsto DE 1959.
 
 Autoriza o cidadão brasileiro Dante Marchione a pesquisar argila no município de Cotia, Estado de São Paulo.

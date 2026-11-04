@@ -1,5 +1,3 @@
-###DEC-085582-0-000-25-12-1980@@@
-
 Decreto nº 85.582, de 25 de dezembro de 1980.
 
 Fixa os valores do Fator de Custos de Atendimento Médico-Hospitalar do militar e o Fator de Custos de Atendimento Médico-Hospitalar do dependente do militar, das Forças Armadas.

@@ -1,5 +1,3 @@
-###DEC-054255-0-000-04-09-1964@@@
-
 DECRETO Nº 54.255, DE 04 DE SETEMBRO DE 1964.
 
 Dispõe sôbre destaque do Fundo Federal de Eletrificação pela Centrais Brasileiras S.A.

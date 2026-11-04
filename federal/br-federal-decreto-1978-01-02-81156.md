@@ -1,5 +1,3 @@
-###DEC-081156-0-000-02-01-1978@@@
-
 Decreto nº 81 156, de 02 de janeiro de 1978.
 
 Concede à Mineração Vale do Jacurici S/A o direito de lavrar cromita no Município de Queimadas, Estado da Bahia.

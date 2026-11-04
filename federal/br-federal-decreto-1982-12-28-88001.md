@@ -1,5 +1,3 @@
-###DEC-088001-0-000-28-12-1982@@@
-
 Decreto nº 88.001, de 28 de dezembro de 1982
 
 Homologa a demarcação da área indígena que menciona, no Estado do Maranhão.

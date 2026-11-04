@@ -1,5 +1,3 @@
-###DEL-007555-0-000-17-05-1945@@@
-
 DECRETO-LEI N. 7.555 – DE 17 DE Maio DE 1945
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 500.000,00, para auxílio a brasileiros na Europa

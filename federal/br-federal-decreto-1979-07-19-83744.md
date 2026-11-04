@@ -1,5 +1,3 @@
-###DEC-083744-0-000-19-07-1979@@@
-
 DECRETO Nº 83.744, DE 19 DE JULHO DE 1979
 
 Altera o Decreto nº 82.047, de 1º de agosto de 1978, que regulamentou, para a Aeronáutica, a Lei nº 5.821, de 10 de novembro de 1972.

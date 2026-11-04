@@ -1,5 +1,3 @@
-###DEL-007537-0-000-10-05-1945@@@
-
 DECRETO-LEI N. 7.537 – DE 10 DE MAIO DE 1945
 
  Altera o Decreto-lei nº 7. 190, de 22-12-1944

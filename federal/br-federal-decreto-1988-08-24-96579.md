@@ -1,5 +1,3 @@
-###DEC-096579-0-000-24-08-1988@@@
-
 DECRETO N° 96.579, DE 24 DE AGOSTO DE 1988
 
 Autoriza o funcionamento do curso de Educação Física da Faculdade de Humanidades Leonel Bogeá, do Rio de Janeiro.

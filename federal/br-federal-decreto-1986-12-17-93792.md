@@ -1,5 +1,3 @@
-###DEC-093792-0-000-17-12-1986@@@
-
 DECRETO Nº 93.792, DE 17 DE DEZEMBRO DE 1986
 
 Outorga concessão à RÁDIO BONSUCESSO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Pombal, Estado da Paraíba.

@@ -1,5 +1,3 @@
-###DEC-086035-0-000-27-05-1981@@@
-
 Decreto nº 86.035, de 27 de maio de 1981.
 
 Promulga o Convênio Ibero-Americano de Seguridade Social.

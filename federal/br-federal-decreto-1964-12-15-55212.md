@@ -1,5 +1,3 @@
-###DEC-055212-0-000-15-12-1964@@@
-
 DECRETO Nº 55.212, DE 15 DE DEZEMBRO DE 1964.
 
 Cria junto ao Ministério das Minas e Energia, Comissão Especial para os fins que menciona e dá outras providências.

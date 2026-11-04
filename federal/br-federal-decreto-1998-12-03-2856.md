@@ -1,5 +1,3 @@
-###DEC-002856-0-000-03-12-1998@@@
-
 DECRETO Nº 2.856, DE 3 DE DEZEMBRO DE 1998
 
 Cria a Comissão de Acompanhamento e Avaliação da Aplicação do Regime de Penas Restritivas de Direitos, instituído pela Lei nº 9.714, de 25 de novembro de 1998, e dá outras providências.

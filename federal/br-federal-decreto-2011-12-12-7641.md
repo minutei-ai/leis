@@ -1,5 +1,3 @@
-###DEC-007641-0-000-12-12-2011-PUB-01@@@
-
 DECRETO N°\- 7.641, DE 12 DE DEZEMBRO DE 2011
 
 Altera o Decreto nº 6.170, de 25 de julho de 2007, que dispõe sobre as normas relativas às transferências de recursos da União mediante convênios e contratos de repasse; altera o Decreto nº 7.568, de 16 de setembro de 2011; e estabelece prazos para implantação de funcionalidades no Sistema de Gestão de Convênios e Contratos de Repasse - SICONV.

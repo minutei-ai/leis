@@ -22,7 +22,8 @@ Goiânia, 8 de dezembro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
 ANEXO ÚNICO

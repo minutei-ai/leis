@@ -1,5 +1,3 @@
-###DEC-007200-0-000-02-06-2010@@@
-
 DECRETO Nº 7.200, DE 2 DE JUNHO DE 2010.
 
 Transfere a cumulatividade da Embaixada do Brasil em Valetta, na República de Malta, para a Embaixada do Brasil em Roma

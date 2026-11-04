@@ -1,5 +1,3 @@
-###DEC-082961-0-000-29-12-1978@@@
-
 Decreto nº 82.961, de 29 de dezembro de 1978.
 
 Declara extinta a Comissão Geral de Investigações e dá outras providências.

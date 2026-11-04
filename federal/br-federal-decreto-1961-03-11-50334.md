@@ -1,5 +1,3 @@
-###DEC-050334-0-000-11-03-1961@@@
-
 DECRETO 50.334, DE 11 DE MARÇO DE 1961.
 
 Instituiu, no Gabinete Civil da Presidência da República o Serviço Nacional dos  Municípios (SENAM), e dá outras providências.

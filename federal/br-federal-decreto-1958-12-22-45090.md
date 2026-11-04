@@ -1,5 +1,3 @@
-###DEC-045090-0-000-22-12-1958@@@
-
 DECRETO Nº 45.090, DE 22 DE DEZEMBRO DE 1958.
 
 Autoriza pessoa jurídica estrangeira a adquirir, em transferência de aforamento, o domínio útil de terreno de marinha e acrescido de marinha que menciona, no Distrito Federal.

@@ -1,5 +1,3 @@
-###DEC-005729-0-000-20-03-2006@@@
-
 DECRETO Nº 5.729, DE 20 DE MARÇO DE 2006.
 
 Altera a validade dos Restos a Pagar inscritos no exercício financeiro de 2004.

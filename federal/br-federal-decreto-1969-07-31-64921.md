@@ -1,5 +1,3 @@
-###DEC-064921-0-000-31-07-1969@@@
-
 DECRETO Nº 64.921 - DE 31 DE JULHO DE 1969.
 
 Autoriza o Ministério da Fazenda a dar garantia do Tesouro Nacional à operação de financiamento externo a ser contratado pelo Governo do Estado de Minas Gerais com o Banco Interamericano de Desenvolvimento.

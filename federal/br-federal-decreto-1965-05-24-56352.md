@@ -1,5 +1,3 @@
-###DEC-056352-0-000-24-05-1965@@@
-
 DECRETO Nº 56.352, de 24 DE MAIO DE 1965.
 
 Aprova alterações introduzidas nos Estatutos da Companhia União de Seguros Gerais, inclusive aumento do capital social e extensão das operações de seguros ao Ramo Vida.

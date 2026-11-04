@@ -1,5 +1,3 @@
-###DEC-070475-0-000-04-05-1972@@@
-
 DECRETO Nº 70.475, DE 4 DE MAIO DE 1972.
 
 Decreta a intervenção federal no Município de Irapuru, Estado de São Paulo.

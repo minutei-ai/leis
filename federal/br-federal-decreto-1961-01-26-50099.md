@@ -1,5 +1,3 @@
-###DEC-050099-0-000-26-01-1961@@@
-
 DECRETO Nº 50.099, DE 26 DE janeiro DE 1961.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital Social da Lince de Seguros Gerais S.A.

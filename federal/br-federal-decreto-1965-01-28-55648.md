@@ -1,5 +1,3 @@
-###DEC-055648-0-000-28-01-1965@@@
-
 DECRETO Nº 55.648, DE 28 DE JANEIRO DE 1965.
 
 Abre pela Presidência da República o crédito especial de Cr$50.000.000,00, para o fim que especifica.

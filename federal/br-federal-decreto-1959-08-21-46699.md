@@ -1,5 +1,3 @@
-###DEC-046699-0-000-21-08-1959@@@
-
 DECRETO Nº 46.699, DE 21 DE AGÔSTO DE 1959.
 
 Concede autorização para o funcionamento de curso.

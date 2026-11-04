@@ -1,5 +1,3 @@
-###DEL-000136-0-000-29-12-1937@@@
-
 DECRETO-LEI N. 136 – DE 29 DE DEZEMBRO DE 1937
 
 Abre, pela Prefeitura do Distrito Federal, o crédito especial de réis 131:080$000 (cento e trinta e um contos e oitenta mil réis), para atender ao pagamento, na Secretaria Geral de Educação e Cultura, das quotas de Fiscalização federal

@@ -1,5 +1,3 @@
-###DEC-098451-0-000-29-11-1989@@@
-
 DECRETO Nº 98.451, DE 29 DE NOVEMBRO DE 1989
 
 Altera os Efetivos de Oficiais da Força Aérea Brasileira, para o ano de 1989.

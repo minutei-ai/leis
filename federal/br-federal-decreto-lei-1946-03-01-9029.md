@@ -1,5 +1,3 @@
-###DEL-009029-0-000-01-03-1946@@@
-
 DECRETO-LEI N. 9.029 – DE 1 DE MARÇO DE 1946
 
 Altera a constituição do Serviço Especial de Transportes.

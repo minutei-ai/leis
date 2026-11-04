@@ -1,5 +1,3 @@
-###DEC-091188-0-000-08-04-1985@@@
-
 Decreto nº 91.188, de 08 de abril de 1985.
 
 Dá a denominação de "Palácio Gustavo Capanema" a próprio nacional localizado, no Rio de Janeiro.

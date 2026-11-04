@@ -1,5 +1,3 @@
-###DEC-085928-0-000-22-04-1981@@@
-
 Decreto nº 85.928, de 22 de abril de 1981.
 
 Autoriza o funcionamento do curso de Biblioteconomia, da Faculdade de Biblioteconomia "Teresa Martin" com sede na cidade de São Paulo, Estado de São Paulo.

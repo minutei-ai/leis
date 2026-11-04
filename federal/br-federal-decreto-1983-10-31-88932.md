@@ -1,5 +1,3 @@
-###DEC-088932-0-000-31-10-1983@@@
-
 Decreto nº 88.932, de 31 de outubro de 1983
 
 Concede à Telecomunicações Aeronáuticas S/A - TASA autorização para proceder a aumento de seu capital.

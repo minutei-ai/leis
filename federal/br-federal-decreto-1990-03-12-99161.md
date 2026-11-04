@@ -1,7 +1,3 @@
-1
-
-###DEC-099161-0-000-12-03-1990@@@
-
 DECRETO N° 99.161, DE 12 DE MARÇO DE 1990
 
 Outorga concessão à Rádio Princesa do Vale Ltda., para explorar serviço de Radiodifusão Sonora, em onda média na Cidade de ltaobim, Estado de Minas Gerais.

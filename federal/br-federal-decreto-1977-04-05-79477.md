@@ -1,5 +1,3 @@
-###DEC-079477-0-000-05-04-1977@@@
-
 DECRETO nº 79.477, de 5 de abril de 1977.
 
 Concede à Companhia Cimento Portland Itaú o direito de lavrar argila no Município de Contagem, Estado de Minas Gerais.

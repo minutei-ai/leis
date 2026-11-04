@@ -1,5 +1,3 @@
-###DEL-009873-0-000-16-09-1946@@@
-
 DECRETO-LEI N. 9.873 – DE 16 DE SETEMBRO DE 1946
 
 Concede subvenção a “The Leopoldina Railway Company, Limited", e dá outras providências.

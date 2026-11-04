@@ -1,5 +1,3 @@
-###DEL-006029-0-000-24-11-1943@@@
-
 DECRETO-LEI N. 6.029 – DE 24 DE NOVEMBRO DE 1943
 
 Revoga os decretos‑leis ns. 587, de 1 de agôsto de 1938 e 3.299, de 22 de maio de 1941 e dá outras providências

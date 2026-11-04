@@ -1,5 +1,3 @@
-###DEC-057648-0-000-18-01-1966@@@
-
 DECRETO Nº 57.648, de 18 de janeiro de 1966.
 
 Cassa a autorização concedida à Companhia Urano de Capitalização, com sede na Capital do Estado de São Paulo, para funcionar na República.

@@ -1,6 +1,10 @@
 > **LEI Nº 4.824, DE 28 DE JULHO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Garante ao consumidor o acesso a cardápio físico, de forma complementar ao cardápio digital, nos estabelecimentos que comercializam alimentos e bebidas.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Garante ao consumidor o acesso a cardápio físico, de forma complementar ao cardápio digital, nos estabelecimentos que comercializam alimentos e bebidas.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

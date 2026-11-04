@@ -1,5 +1,3 @@
-###DEC-094387-0-000-29-05-1987@@@
-
 DECRETO Nº 94.387, DE 29 DE MAIO DE 1987.
 
 Altera dispositivos do Regulamento Disciplinar para a Marinha, baixado pelo Decreto nº 88.545, de 26 de julho de 1983.

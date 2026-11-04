@@ -1,5 +1,3 @@
-###DEC-093055-0-000-31-07-1986@@@
-
 DECRETO Nº 93.055, DE 31 DE JULHO DE 1986
 
 Revoga a concessão outorgada à Rádio Assunção Cearense Ltda., para executar serviço de radiodifusão sonora em ondas tropicais, na cidade de Fortaleza, Estado do Ceará.

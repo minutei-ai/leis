@@ -1,5 +1,3 @@
-###DEL-005496-0-000-17-05-1943@@@
-
 DECRETO-LEI N. 5.496 – DE 17 DE MAIO DE 1943
 
 Extingue a 7ª Companhia de Engenhos, da 7ª Divisão de Infantaria

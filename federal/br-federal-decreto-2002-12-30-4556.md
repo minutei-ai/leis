@@ -1,5 +1,3 @@
-###DEC-004556-0-000-30-12-2002@@@
-
 DECRETO N. 4.556 – DE 30 DE DEZEMBRO DE 2002
 
 Fixa o número de dias para a exibição de obras audiovisuais cinematográficas brasileiras no ano de 2003, estabelece a quantidade mínima de títulos a serem exibidos, e dá outras providências.
@@ -10,7 +8,83 @@ DECRETA:
 
 Art. 1º É fixado o número de dias nos quais as empresas proprietárias, locatárias ou arrendatárias de salas, espaços ou locais de exibição pública comercial exibirão obras cinematográficas brasileiras de longa-metragem no ano de 2003 e a respectiva diversificação mínima de títulos a serem exibidos, conforme a seguinte tabela:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:154.8pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">TOTAL DE SALAS NO MESMO COMPLEXO</span></p></td><td style="width:154.8pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">TOTAL DE DIAS DE OBRIGATORIEDADE</span></p></td><td style="width:154.85pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">EXIBIÇÃO DIFERENCIADA MÍNIMA</span></p></td></tr><tr><td style="width:154.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1 sala</span></p></td><td style="width:154.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">35 dias</span></p></td><td style="width:154.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2 títulos</span></p></td></tr><tr><td style="width:154.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2 salas</span></p></td><td style="width:154.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">70 dias</span></p></td><td style="width:154.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3 títulos</span></p></td></tr><tr><td style="width:154.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3 salas</span></p></td><td style="width:154.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">105 dias</span></p></td><td style="width:154.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3 títulos</span></p></td></tr><tr><td style="width:154.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4 salas</span></p></td><td style="width:154.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">154 dias</span></p></td><td style="width:154.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4 títulos</span></p></td></tr><tr><td style="width:154.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">5 salas</span></p></td><td style="width:154.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">210 dias</span></p></td><td style="width:154.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4 títulos</span></p></td></tr><tr><td style="width:154.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">6 salas</span></p></td><td style="width:154.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">217 dias</span></p></td><td style="width:154.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">5 títulos</span></p></td></tr><tr><td style="width:154.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">7 salas</span></p></td><td style="width:154.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">224 dias</span></p></td><td style="width:154.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">6 títulos</span></p></td></tr><tr><td style="width:154.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">8 salas</span></p></td><td style="width:154.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">238 dias</span></p></td><td style="width:154.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">6 títulos</span></p></td></tr><tr><td style="width:154.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">9 salas</span></p></td><td style="width:154.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">252 dias</span></p></td><td style="width:154.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">6 títulos</span></p></td></tr><tr><td style="width:154.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">10 salas</span></p></td><td style="width:154.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">266 dias</span></p></td><td style="width:154.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">7 títulos</span></p></td></tr><tr><td style="width:154.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">11 salas</span></p></td><td style="width:154.8pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">280 dias</span></p></td><td style="width:154.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">7 títulos</span></p></td></tr><tr><td style="width:154.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Mais de 11 salas</span></p></td><td style="width:154.8pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">280 dias + 7 dias por sala</span></p></td><td style="width:154.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">7 títulos</span></p></td></tr></tbody></table>
+TOTAL DE SALAS NO MESMO COMPLEXO
+
+TOTAL DE DIAS DE OBRIGATORIEDADE
+
+EXIBIÇÃO DIFERENCIADA MÍNIMA
+
+1 sala
+
+35 dias
+
+2 títulos
+
+2 salas
+
+70 dias
+
+3 títulos
+
+3 salas
+
+105 dias
+
+3 títulos
+
+4 salas
+
+154 dias
+
+4 títulos
+
+5 salas
+
+210 dias
+
+4 títulos
+
+6 salas
+
+217 dias
+
+5 títulos
+
+7 salas
+
+224 dias
+
+6 títulos
+
+8 salas
+
+238 dias
+
+6 títulos
+
+9 salas
+
+252 dias
+
+6 títulos
+
+10 salas
+
+266 dias
+
+7 títulos
+
+11 salas
+
+280 dias
+
+7 títulos
+
+Mais de 11 salas
+
+280 dias + 7 dias por sala
+
+7 títulos
 
 Art. 2º A tabela de que trata art. 1º refere-se às salas, aos espaços ou aos locais de exibição pública comercial geminados ou não, localizados em um mesmo complexo, ou seja, existentes sob o mesmo teto e pertencentes à mesma empresa, segundo consta de seu registro na Agência Nacional do Cinema – ANCINE, realizado conforme o art. 22 da Medida Provisória nº 2.228-1, de 6 de setembro de 2001.
 

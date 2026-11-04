@@ -1,5 +1,3 @@
-###DEC-061079-0-000-26-07-1967@@@
-
 DECRETO Nº 61.079, DE 26 DE JULHO DE 1967.
 
 Autoriza a Companhia Central Brasileira de Fôrça Elétrica a construir linhas de transmissão, subestação e declara de utilidade pública para fins de desapropriação ou de constituição de servidão, faixas de terra destinadas à passagem das referidas linhas de transmissão.

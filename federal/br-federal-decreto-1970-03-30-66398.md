@@ -1,5 +1,3 @@
-###DEC-066398-0-000-30-03-1970@@@
-
 DECRETO Nº 66.398 - DE 30 DE MARÇO DE 1970
 
 Autoriza funcionamento de Escola.

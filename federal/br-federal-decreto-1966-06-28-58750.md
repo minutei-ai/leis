@@ -1,5 +1,3 @@
-###DEC-058750-0-000-28-06-1966@@@
-
 decreto nº 58.750, de 28 de junho de 1966.
 
 Declara de utilidade pública o Sanatório Belém, com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

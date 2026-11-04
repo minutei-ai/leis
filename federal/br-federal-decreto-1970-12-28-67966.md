@@ -1,5 +1,3 @@
-###DEC-067966-0-000-28-12-1970@@@
-
 DECRETO Nº 67.966, DE 28 DE DEZEMBRO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Saúde, cargos originários da extinta autarquia Serviços de Navegação da Amazônia e de Administração do Porto do Pará e da Estrada de Ferro de Bragança, do Ministério dos Transportes, e dá outras providências.

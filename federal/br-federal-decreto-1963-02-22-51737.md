@@ -1,5 +1,3 @@
-###DEC-051737-0-000-22-02-1963@@@
-
 DECRETO Nº 51.737, de 22 de fevereiro de 1963.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, a área de terreno situada no Município de Barra Mansa, no Estado do Rio de Janeiro.

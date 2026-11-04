@@ -1,5 +1,3 @@
-###DEC-046117-0-000-22-05-1959@@@
-
 DECRETO Nº 46.117, DE 22 DE MAIO DE 1959.
 
 Autoriza o cidadão brasileiro Tanier Teixeira a pesquisar cassiterita, tantalita, columbita e feldspato, no município de Ipameri, Estado de Goiás.

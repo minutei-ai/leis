@@ -1,5 +1,3 @@
-###DEC-053650-0-000-02-03-1964@@@
-
 DECRETO Nº 53.650, DE 2 DE MARÇO DE 1964.
 
 Declara de interêsse social, para fins de desapropriação, a Fazenda “Mariland”, “Maryland”, “Marilândia” ou “Tocaia”, e vários lotes da Fazenda “Caioaba” ou “Padre João”, sitos na zona rural da Vila Inhomirim, distrito de Magé, Estado do Rio de Janeiro, e dá outras providências.

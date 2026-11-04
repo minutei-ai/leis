@@ -1,5 +1,3 @@
-###DEC-081944-0-000-11-07-1978@@@
-
 Decreto nº 81.944, de 11 de julho de 1978
 
 Concede à Empresa Nacional de Engenharia e Empreendimentos Ltda. - ENEEL o direito de lavrar caulim no Município de São Domingos do Capim, Estado do Pará.

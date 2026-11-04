@@ -1,7 +1,3 @@
-1
-
-###DEC-000387-0-000-24-12-1991@@@
-
 DECRETO Nº 387, DE 24 DE DEZEMBRO DE l991
 
 Homologa a demarcação administrativa da Área Indígena Truaru, no Estado de Roraima.

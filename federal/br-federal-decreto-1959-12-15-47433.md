@@ -1,5 +1,3 @@
-###DEC-047433-0-000-15-12-1959@@@
-
 DECRETO Nº 47.433, DE 15 DE DEZEMBRO DE 1959.
 
 Dispõe sôbre os órgãos administrativos a serem instalados em Brasília, define a situação do pessoal e dá outras providências.

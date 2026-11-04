@@ -1,5 +1,3 @@
-###DEC-063956-0-000-31-12-1968@@@
-
 DECRETO Nº 63.956, DE 31 DE DEZEMBRO DE 1968.
 
 Cria a Agência da Capitania Fluvial dos Portos do Rio São Francisco, em Bom Jesus da Lapa.

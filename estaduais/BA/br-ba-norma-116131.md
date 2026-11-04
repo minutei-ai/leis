@@ -4,7 +4,8 @@ Institui o Primeiro Plano Regional de Desenvolvimento do Potencial Turístico de
 
 O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DISPOSIÇÕES GERAIS
 
 Art. 1º - Fica instituído o Primeiro Plano Regional de Desenvolvimento do Potencial Turístico de Proteção à Ecologia da Orla Marítima, abrangendo os Municípios litorâneos situados na Região Metropolitana do Salvador.
@@ -25,7 +26,8 @@ Parágrafo único - O Poder Executivo tomará as providências cabíveis, para a
 
 Art. 5º - Visando à conservação das características naturais e distintivas de cada um dos Municípios a que se refere esta Lei, bem como o resguardo da unidade arquitetônica de cada um deles, a entidade executora do Plano Regional, ora instituído, fará o tombamento e promoverá a recuperação e aprimoramento do seu tecido urbano, bem como a preservação do seu patrimônio paisagístico.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DO DISCIPLINAMENTO DO USO DO SOLO NA ORLA MARÍTIMA
 
 Art. 6º - Para disciplinamento do uso do solo na orla marítima dos municípios abrangidos pelo Plano Regional, nesta Lei instituído, são consideradas as seguintes zonas:
@@ -50,14 +52,16 @@ Art. 6º - Para disciplinamento do uso do solo na orla marítima dos municípios
 
 § 2º - Este disciplinamento zonal abrangerá, entre outros aspectos os relativos a localização, dimensões, loteamentos, acessos, taxa de ocupação, coeficiente de utilização, gabarito e serviços e obras infra-estruturais.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DA PROTEÇÃO À ECOLOGIA
 
 Art. 7º - Não será consentida, na orla marítima dos Municípios a que se refere esta Lei, a instalação de quaisquer empreendimentos cujo funcionamento produza, em qualquer limite, poluição do ar ou de águas, inclusive as oceânicas.
 
 Parágrafo único - Para os efeitos desta lei considera-se poluição o estabelecido na [Lei nº 3.163 de 04 de outubro de 1973](https://www.legislabahia.ba.gov.br/documentos/lei-no-3163-de-04-de-outubro-de-1973#LO_3_163) .
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DISPOSIÇÕES FINAIS
 
 Art. 8º - O Estado da Bahia, através do Conselho Deliberativo da Região Metropolitana do Salvador, prestará aos Municípios aludidos no [artigo 1º](https://www.legislabahia.ba.gov.br/documentos/lei-no-3365-de-16-de-janeiro-de-1975#LO_3_365_Art__1) a assistência indispensável à sua participação na implementação do plano instituído, por esta lei.

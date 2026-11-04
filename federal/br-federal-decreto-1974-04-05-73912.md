@@ -1,5 +1,3 @@
-###DEC-073912-0-000-05-04-1974@@@
-
 DECRETO Nº 73.912, de 5 de abril de 1974.
 
 Autoriza o funcionamento da Faculdade de Administração de Cruzeiro, mantida pelo Instituto de Ensino Superior de Cruzeiro, com sede na cidade de Cruzeiro, Estado de São Paulo.

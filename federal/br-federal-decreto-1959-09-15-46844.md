@@ -1,5 +1,3 @@
-###DEC-046844-0-000-15-09-1959@@@
-
 DECRETO Nº 46.844, DE 15 DE SETEMBRO DE 1959.
 
 Autoriza a mudança progressiva da freqüência, de 50 para 60 ciclos por segundo, no sistema elétrica da “S.A. Central Elétrica Rio Claro”, Estado de São Paulo.

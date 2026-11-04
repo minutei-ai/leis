@@ -1,5 +1,3 @@
-###DEC-058443-0-000-17-05-1966@@@
-
 decreto nº 58.443, de 17 de maio de 1966
 
 Autoriza o cidadão brasileiro João Macambyra a pesquisar quartzo no município de Castro Alves, Estado da Bahia.

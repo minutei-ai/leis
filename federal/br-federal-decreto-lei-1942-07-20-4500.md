@@ -1,5 +1,3 @@
-###DEL-004500-0-000-20-07-1942@@@
-
 DECRETO-LEI N. 4.500 – DE 20 DE JULHO DE 1942
 
 Provê à situação da Companhia Italiana del Cavi Telegrafici Sottomarini em face da necessidade de suspensão dos seus serviços internacionais

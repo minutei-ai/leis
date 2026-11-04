@@ -1,5 +1,3 @@
-###DEC-065082-0-000-29-08-1969@@@
-
 DECRETo Nº 65.082 - DE 29 DE AGÔSTO DE 1969.
 
 Declara perempta a concessão outorgada à Rádio Diamantinense S.A., pelo Decreto nº 27.370, de 27 de outubro de 1949, para estabelecer uma estação de radiodifusora sonora, na cidade de Diamantina, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-080324-0-000-14-09-1977@@@
-
 DECRETO Nº 80.324, DE 14 DE SETEMBRO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Arujá II, no Município de Arujá, Estado de São Paulo, da Centrais Elétricas de São Paulo S. A. - CESP.

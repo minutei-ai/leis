@@ -1,5 +1,3 @@
-###DEC-094426-0-000-10-06-1987@@@
-
 DECRETO Nº 94.426, DE 10 DE JUNHO DE 1987
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade Integrada do Noroeste de Minas.

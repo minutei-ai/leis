@@ -1,5 +1,3 @@
-###DEC-070646-0-000-29-05-1972@@@
-
 decreto nº 70.646, de 29 de maio de 1972.
 
 Torna sem efeito aproveitamento na Universidade Federal de Alagoas e cassa a disponibilidade de Servidor.

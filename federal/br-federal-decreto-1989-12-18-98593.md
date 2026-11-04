@@ -1,7 +1,3 @@
-1
-
-###DEC-098593-0-000-18-12-1989@@@
-
 DECRETO Nº 98.593, DE 18 DE DEZEMBRO DE 1989
 
 Concede autorização, para funcionar como empresa de energia elétrica, à ELETRAM - Eletricidade da Amazônia Ltda.

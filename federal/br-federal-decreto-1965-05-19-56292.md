@@ -1,5 +1,3 @@
-###DEC-056292-0-000-19-05-1965@@@
-
 decreto nº 56.292, de 19 de maio de 1965.
 
 Retifica e ratifica o Decreto número 55.049, de 23 de novembro de 1964.

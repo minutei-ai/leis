@@ -1,5 +1,3 @@
-###DEC-089596-0-000-30-04-1984@@@
-
 # Decreto nº 89.596 de 30 de abril de 1984
 
 Autoriza a alienação de área de domínio da União, à Companhia de Desenvolvimento Agrícola de Rondônia - CODARON, destinada à implantação da “Cidade Hortigranjeira de Vilhena”, no Estado de Rondônia.

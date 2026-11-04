@@ -1,5 +1,3 @@
-###DEC-075348-0-000-04-02-1975@@@
-
 DECRETO Nº 75.348, DE 4 DE FEVEREIRo DE 1975.
 
 Concede reconhecimento ao curso de Letras da Faculdade de Filosofia, Ciências e Letras, mantida pela Fundação Educacional de Duque de Caxias, com sede na cidade de Duque de Caxias, Estado do Rio de Janeiro.

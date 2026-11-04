@@ -1,5 +1,3 @@
-###DEL-008952-0-000-28-01-1946@@@
-
 DECRETO-LEI N. 8.952 – DE 28 DE JANEIRO DE 1946
 
 Prorroga por mais três dias o prazo a que se refere o art. 1º, do Decreto-lei n. 8.830, de 24 de janeiro de 1946, já anteriormente prorrogado pelo Decreto-lei nº 8.915, de 26 de janeiro de 1946.

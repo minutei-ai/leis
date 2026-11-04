@@ -1,7 +1,3 @@
-1
-
-###DEC-097770-0-000-22-05-1989@@@
-
 DECRETO Nº 97.770, DE 22 DE MAIO DE 1989
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade de Ciências Humanas de Aracruz, no Espírito Santo.

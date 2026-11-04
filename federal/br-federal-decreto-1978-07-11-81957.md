@@ -1,5 +1,3 @@
-###DEC-081957-0-000-11-07-1978@@@
-
 Decreto nº 81.957, de 11 de julho de 1978
 
 Retifica a concessão de lavra outorgada à CINCAPEL - Comércio e Indústria de Calcinação Pedra Grande Ltda. pelo Decreto nº 80.654, de 01 de novembro de 1977.

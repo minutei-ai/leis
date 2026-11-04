@@ -1,5 +1,3 @@
-###DEC-054200-0-000-24-08-1964@@@
-
 decreto nº 54.200, de 24 de agôsto de 1964.
 
 Autoriza o cidadão brasileiro Djahy Farina Romero a pesquisar caulim no Município de Magé, Estado do Rio de Janeiro.

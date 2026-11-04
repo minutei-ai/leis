@@ -1,5 +1,3 @@
-###DEC-080861-0-000-29-11-1977@@@
-
 DECRETO Nº 80.861, DE 29 DE NOVEMBRO DE 1977.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado em Petrolina, Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-078612-0-000-21-10-1976@@@
-
 DECRETO Nº 78.612, DE 21 DE OUTUBRO DE 1976.
 
 Autoriza o funcionamento do curso de Direito, da Faculdade de Direito de Dourados, com sede na Cidade de Dourados, Estado de Mato Grosso.

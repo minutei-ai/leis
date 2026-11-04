@@ -1,5 +1,3 @@
-###DEC-072699-0-000-27-08-1973@@@
-
 DECRETO Nº 72.699, de 27 DE AGOSTO DE 1973.
 
 Aprova o novo Regulamento para a Escola Superior de Guerra e dá outras providências.

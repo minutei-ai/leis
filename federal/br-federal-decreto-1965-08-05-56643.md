@@ -1,5 +1,3 @@
-###DEC-056643-0-000-05-08-1965@@@
-
 DECRETO Nº 56.643, DE 5 DE AGÔSTO DE 1965.
 
 Autoriza o cidadão brasileiro Antonio da Silva Velho a pesquisar quartzito, no Município de Prados Estado de Minas Gerais.

@@ -1,18 +1,16 @@
-###DEC-032355-0-000-28-02-1953@@@
+**DECRETO Nº 32.355, DE 28 DE FEVEREIRO DE 1953.**
 
-<strong>DECRETO Nº 32.355, DE 28 DE FEVEREIRO DE 1953.</strong>
+***Autoriza a Companhia Melhoramentos Pará de Minas a ampliar suas instalações hidroelétricas.***
 
-<em><strong>Autoriza a Companhia Melhoramentos Pará de Minas a ampliar suas instalações hidroelétricas.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição e nos têrmos dos arts. 1º e 2º do Decreto-lei nº 2.059, de 5 de março de 1940.
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição e nos têrmos dos arts. 1º e 2º do Decreto-lei nº 2.059, de 5 de março de 1940.
 
 CONSIDERANDO que pela Resolução nº 844, a medida foi julgada conveniente pelo Conselho Nacional de Águas e Energia Elétrica,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Fica autorizada a Companhia Melhoramentos Pará de Minas a ampliar suas instalações hidrelétricas no município de Pará de Minas, Estado de Minas Gerais, mediante a montagem de uma nova unidade de 425 kVA.
+**Art**. 1º Fica autorizada a Companhia Melhoramentos Pará de Minas a ampliar suas instalações hidrelétricas no município de Pará de Minas, Estado de Minas Gerais, mediante a montagem de uma nova unidade de 425 kVA.
 
-<strong>Art</strong>. 2º Caducará o presente título, independente de ato declaratório, se a interessada não satisfazer as condições seguintes:
+**Art**. 2º Caducará o presente título, independente de ato declaratório, se a interessada não satisfazer as condições seguintes:
 
 I - Registrá-lo na Divisão de Águas do Departamento Nacional de Produção Mineral do Ministério da Agricultura, dentro da trinta (30) dias a partir da sua publicação.
 
@@ -22,12 +20,12 @@ III - Iniciar e concluir as obras nos prazos que forem fixados pelo Ministro da 
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 3º Êste Decreto entra em vigor na data de sua publicação.
+**Art**. 3º Êste Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 28 de fevereiro de 1953, 132º da Independência e 65º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 João Cleofas

@@ -1,5 +1,3 @@
-###DEC-048169-0-000-10-05-1960@@@
-
 DECRETO Nº 48.169, DE 10 DE MAIO DE 1960.
 
 Autoriza o cidadão brasileiro Severo Rocha a pesquisar ilmenita e granada, no município de Macaé, Estado do Rio de Janeiro.

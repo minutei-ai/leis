@@ -1,5 +1,3 @@
-###DEL-001381-0-000-23-12-1974@@@
-
 # DECRETO-LEI Nº 1.381, DE 23 DE DEZEMBRO DE 1974
 
 Dispõe sobre o tratamento tributário aplicável à empresa individual nas atividades imobiliárias, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-094126-0-000-20-03-1987@@@
-
 DECRETO Nº 94.126, DE 20 DE MARÇO DE 1987.
 
 Outorga concessão à RÁDIO GUAMÁ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de São Miguel do Guamá, Estado do Pará.

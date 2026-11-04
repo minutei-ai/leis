@@ -1,5 +1,3 @@
-###DEC-071686-0-000-12-01-1973@@@
-
 DECRETO Nº 71.686, DE 12 DE JANEIRO DE 1973.
 
 Dispõe sobre alteração no enquadramento de servidores da Parte Especial do Quadro de Pessoal do extinto Instituto Nacional do Mate.

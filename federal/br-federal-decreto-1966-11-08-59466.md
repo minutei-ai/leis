@@ -1,5 +1,3 @@
-###DEC-059466-0-000-08-11-1966@@@
-
 Decreto nº 59.466, de 8 de novembro de 1966.
 
 Abre, pelo Ministério da Indústria e do Comércio, o crédito especial com vigência no corrente exercício, de Cr$500.000.000 (quinhentos milhões de cruzeiros) para atender às necessidades que especifica.

@@ -1,5 +1,3 @@
-###DEC-073831-0-000-13-03-1974@@@
-
 DECRETO Nº 73.831, DE 13 DE MARÇO DE 1974.
 
 Autoriza o funcionamento da Escola Superior de Educação Física de Jundiaí, Autarquia Municipal, com sede na cidade de Jundiaí, Estado de São Paulo.

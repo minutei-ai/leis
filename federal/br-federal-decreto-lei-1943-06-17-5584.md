@@ -1,5 +1,3 @@
-###DEL-005584-0-000-17-06-1943@@@
-
 DECRETO‑LEI N. 5.584 – DE 17 DE JUNHO DE 1943
 
 Prorroga o prazo para a apresentação de relatórios relativos à execução do "Plano Especial de Obras Públicas e Aparelhamento da Defesa Nacio­nal" no exercício de 1942

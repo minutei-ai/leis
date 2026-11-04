@@ -587,7 +587,3 @@ AÉCIO NEVES
 Antônio Augusto Junho Anastasia
 
 Danilo de Castro
-
-\==============================
-
-Data da última atualização: 04/12/2007.

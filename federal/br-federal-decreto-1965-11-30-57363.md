@@ -1,5 +1,3 @@
-###DEC-057363-0-000-30-11-1965@@@
-
 DECRETO Nº 57.363, DE 30 DE NOVEMBRO DE 1965.
 
 Autoriza o Ministério do Trabalho e Previdência Social a admitir, em 1966, os especialistas temporários que específica e dá outras providências.

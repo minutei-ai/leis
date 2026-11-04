@@ -1,5 +1,3 @@
-###DEC-049290-0-000-19-11-1960@@@
-
 Decreto nº 49.290, de 19 de novembro de 1960.
 
 Autoriza a Companhia Brasileira Industrial de Pesquisas e Mineração a pesquisar mica e pedras coradas, no município de Itambacuri, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-003611-0-000-11-09-1941@@@
-
 DECRETO-LEI N. 3.611 – DE 11 DE SETEMBRO DE 1941
 
 Abre, pelo ministério das Relações Exteriores, um crédito especial de 7:500$0, para regularização de despesa

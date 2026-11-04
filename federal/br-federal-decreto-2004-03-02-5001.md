@@ -1,5 +1,3 @@
-###DEC-005001-0-000-02-03-2004@@@
-
 DECRETO Nº 5.001, DE 2 DE MARÇO DE 2004.
 
        Dá nova redação ao art. 3o do Decreto no 4.596, de 17 de fevereiro de 2003, que dispõe sobre o Sistema de Acompanhamento Legislativo - SIAL.
@@ -16,6 +14,8 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 2 de março de 2004; 183o da Independência e 116o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-José Aldo Rebelo Figueiredo<br>
+LUIZ INÁCIO LULA DA SILVA
+
+José Aldo Rebelo Figueiredo
+
 José Dirceu de Oliveira e Silva

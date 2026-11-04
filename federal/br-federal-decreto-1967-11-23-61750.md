@@ -1,5 +1,3 @@
-###DEC-061750-0-000-23-11-1967@@@
-
 DECRETO Nº 61.750, de 23 de novembro de 1967.
 
 Autoriza a Light - Serviços de Eletricidade S.A., a reconstruir linha de transmissão.

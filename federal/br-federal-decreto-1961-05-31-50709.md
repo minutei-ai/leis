@@ -1,5 +1,3 @@
-###DEC-050709-0-000-31-05-1961@@@
-
 DECRETO Nº 50.709, DE 31 DE MAIO DE 1961.
 
 Declara públicas, de uso comum, de domínio do Estado de Goiás, as águas do rio “Genipapo”.

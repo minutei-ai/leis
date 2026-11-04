@@ -36,7 +36,8 @@ Art. 7º - O adicional incidente sobre lucros, ganhos e rendimentos do capital p
 
 Parágrafo único - São isentas do adicional previsto neste artigo as pessoas físicas ou jurídicas que tenham auferido rendimentos anuais até NCz$18.570,00 (dezoito mil quinhentos e setenta cruzados novos).
 
-Redação de acordo com o art. 2º da Lei nº [5.468](https://www.legislabahia.ba.gov.br/documentos/lei-no-5468-de-13-de-outubro-de-1989#LO_5_468) , de 13 de outubro de 1989.<br>
+Redação de acordo com o art. 2º da Lei nº [5.468](https://www.legislabahia.ba.gov.br/documentos/lei-no-5468-de-13-de-outubro-de-1989#LO_5_468) , de 13 de outubro de 1989.
+
 Redação Original: "Parágrafo único - Ficarão isentos do adicional de 5% (cinco por cento) as pessoas físicas ou jurídicas que tenham rendimentos anuais de até 2.000 (duas mil) OTN's."
 
 Art. 8º - O descumprimento da obrigação tributária, principal ou acessória, prevista nesta Lei, sujeita ao infrator ao pagamento das seguintes multas, sem prejuízo do pagamento do tributo devido e seus acréscimos:
@@ -59,7 +60,8 @@ Art. 10 - Fica o Poder Executivo autorizado a celebrar convênio com a União pa
 
 Art. 11 - Os valores em cruzados novos resultantes da aplicação do disposto nos parágrafos únicos dos artigos 4º e 7º desta Lei serão reajustados, anualmente, pela variação do Índice de Preços ao Consumidor - IPC do período, ou pelo Índice que o vier a substituir.
 
-Redação de acordo com o art. 2º da Lei nº [5.468](https://www.legislabahia.ba.gov.br/documentos/lei-no-5468-de-13-de-outubro-de-1989#LO_5_468) , de 13 de outubro de 1989.<br>
+Redação de acordo com o art. 2º da Lei nº [5.468](https://www.legislabahia.ba.gov.br/documentos/lei-no-5468-de-13-de-outubro-de-1989#LO_5_468) , de 13 de outubro de 1989.
+
 Redação Original: "Art. 11 - Esta Lei entra em vigor a partir de 1º de março de 1989."
 
 Art. 12 - Esta Lei entra em vigor a partir de 1º de março de 1989.

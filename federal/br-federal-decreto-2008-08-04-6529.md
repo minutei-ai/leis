@@ -1,5 +1,3 @@
-###DEC-006529-0-000-04-08-2008@@@
-
 DECRETO Nº 6.529, DE 4 DE AGOSTO DE 2008.
 
 Promulga o Acordo da CPLP sobre Estabelecimento de Requisitos Comuns Máximos para a Instrução de Processos de Visto de Curta Duração, assinado em Brasília, em 30 de julho de 2002.         

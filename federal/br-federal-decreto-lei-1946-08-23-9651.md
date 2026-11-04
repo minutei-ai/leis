@@ -1,5 +1,3 @@
-###DEL-009651-0-000-23-08-1946@@@
-
 DECRETO-LEI N. 9.651 – DE 23 DE AGÔSTO DE 1946
 
 Extingue o regime de incorporação de saldos orçamentários aos Fundos e Caixas Especiais.

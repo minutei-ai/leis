@@ -1,5 +1,3 @@
-###DEC-050822-0-000-22-06-1961@@@
-
 Decreto nº 50.822, de 22 de junho de 1961.
 
 Transfere a sede do 4º Grupo de Canhões 90 Antiaéreo (4º Gcam 90 Aae) de Marques de Valença - RJ para Niterói - RJ.

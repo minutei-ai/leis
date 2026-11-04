@@ -1,5 +1,3 @@
-###DEC-066480-0-000-23-04-1970@@@
-
 DECRETO nº 66.480, DE 23 DE ABRIL DE 1970.
 
 Autoriza funcionamento da Faculdade de Direito da Fundação Educacional "Monsenhor Messias", de Sete Lagoas, Estado de Minas Gerais.

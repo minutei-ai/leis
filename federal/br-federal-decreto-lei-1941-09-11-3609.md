@@ -1,5 +1,3 @@
-###DEL-003609-0-000-11-09-1941@@@ 
-
 DECRETO-LEI N. 3.609 – DE 11 DE SETEMBRO DE 1941
 
 Dispõe sobre a organização de cooperativas de produtores de leite

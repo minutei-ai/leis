@@ -48,7 +48,8 @@ Goiânia, 18 de agosto de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
 ANEXO I
@@ -85,6 +86,6 @@ ANEXO II
 
 CARGOS DE PROVIMENTOS EM COMISSÃO NÃO INTEGRANTES DAS ESTRUTURAS BÁSICA E COMPLEMENTAR
 
-<table><thead></thead><tbody><tr><td style="text-align:center">TIPO</td><td style="text-align:center">SÍMBOLO</td><td style="text-align:center">SUBSÍDIO</td><td style="text-align:center">QUANTIDADE</td></tr><tr><td style="text-align:center">...................................</td><td style="text-align:center">...........................</td><td style="text-align:center">............................</td><td style="text-align:center">............................</td></tr><tr><td rowspan="5" style="text-align:center">Assessoramento Superior</td><td style="text-align:center">...........................</td><td style="text-align:center">............................</td><td style="text-align:center">............................</td></tr><tr><td style="text-align:center">A2</td><td style="text-align:center">............................</td><td style="text-align:center">47</td></tr><tr><td style="text-align:center">............................</td><td style="text-align:center">............................</td><td style="text-align:center">............................</td></tr><tr><td style="text-align:center">............................</td><td style="text-align:center">...........................</td><td style="text-align:center">............................</td></tr><tr><td style="text-align:center">............................</td><td style="text-align:center">...........................</td><td style="text-align:center">............................</td></tr><tr><td style="text-align:center">...................................</td><td style="text-align:center">............................</td><td style="text-align:center">............................</td><td style="text-align:center">............................</td></tr><tr><td colspan="3" style="text-align:center">TOTAL</td><td style="text-align:center">6.072</td></tr></tbody></table>
+<table><thead></thead><tbody><tr><td>TIPO</td><td>SÍMBOLO</td><td>SUBSÍDIO</td><td>QUANTIDADE</td></tr><tr><td>...................................</td><td>...........................</td><td>............................</td><td>............................</td></tr><tr><td rowspan="5">Assessoramento Superior</td><td>...........................</td><td>............................</td><td>............................</td></tr><tr><td>A2</td><td>............................</td><td>47</td></tr><tr><td>............................</td><td>............................</td><td>............................</td></tr><tr><td>............................</td><td>...........................</td><td>............................</td></tr><tr><td>............................</td><td>...........................</td><td>............................</td></tr><tr><td>...................................</td><td>............................</td><td>............................</td><td>............................</td></tr><tr><td colspan="3">TOTAL</td><td>6.072</td></tr></tbody></table>
 
 ” (NR)

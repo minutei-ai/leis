@@ -1,5 +1,3 @@
-###DEC-086942-0-000-17-02-1982@@@
-
 Decreto nº 86.942, de 17 de fevereiro de 1982
 
 Renova por 10 (dez) anos a concessão outorgada à S/A RÁDIO MINEIRA, autoriza a transferência direta para a EMPRESA MINEIRA DE RADIODIFUSÃO SOCIEDADE LTDA., que passará a executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Belo Horizonte, Estado de Minas Gerais.

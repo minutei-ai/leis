@@ -1,5 +1,3 @@
-###DEC-061714-0-000-22-11-1967@@@
-
 DECRETO Nº 61.714, DE 22 DE NOVEMBRO DE 1967.
 
 Declara a cessação da exploração dos serviços de energia elétrica pela Emprêsa Alfeu Marra de Castro, no município de Serra do Salitre, Estado de Minas Gerais, outorga concessão à Centrais Elétricas de Minas Gerais S.A., nesse município e dá outras providências.

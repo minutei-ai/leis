@@ -1,5 +1,3 @@
-###DEC-055764-0-000-17-02-1965@@@
-
 DECRETO Nº 55.764, DE 17 DE FEVEREIRO DE 1965.
 
 Acrescenta dispositivos entre os itens 3 e 4 da letra “e” do art. 4º do Regulamento aprovado pelo Decreto nº 30.163, de 13-11-1951 e no art. 11, do Regulamento aprovado pelo Decreto nº 34.999, de 2-2-1954.

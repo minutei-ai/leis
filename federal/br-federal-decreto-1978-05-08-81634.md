@@ -1,5 +1,3 @@
-###DEC-081634-0-000-08-05-1978@@@
-
 Decreto nº 81.634, de 08 de maio de 1978.
 
 Cancela autorização para funcionamento no Brasil da Insurance Company of North América.

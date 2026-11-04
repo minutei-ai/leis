@@ -1,5 +1,3 @@
-###DEC-049246-0-000-17-11-1960@@@
-
 DECRETO Nº 49.246, DE 17 DE NOVEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Pedro Luiz da Silva a pesquisar mica no município de Mendes Pimentel, Estado de Minas Gerais.

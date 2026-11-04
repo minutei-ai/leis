@@ -1,5 +1,3 @@
-###DEC-075353-0-000-05-02-1975@@@
-
 DECRETO Nº 75.353, DE 5 DE FEVEREIRO DE 1975.
 
 Cria o Instituto de Processamento de Dados e Informática da Marinha e dá outras providências.

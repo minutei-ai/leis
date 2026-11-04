@@ -1,5 +1,3 @@
-###DEC-052368-0-000-19-08-1963@@@
-
 DECRETO Nº 52.368, DE 19 DE AGÔSTO DE 1963.
 
 Promulga o Protocolo Adicional ao Ajuste de Comércio e Pagamento, entre o Brasil e a Iugoslávia, assinado em Belgrado, a 29 de Abril de 1961.
@@ -56,7 +54,27 @@ Para êsse fim, o Govêrno da República Popular Federativa da Iugoslávia facil
 
 O fornecimentos aludidos no parágrafo anterior assim se distribuirão:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:73.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>US$</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Máquinas agrícolas até o valor aproximado de ...................................................</span></p></td><td style="width:73.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>30.000.000,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Navios até o valor aproximado de .......................................................................</span></p></td><td style="width:73.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>65.000.000,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Equipamentos industriais, idem de ......................................................................</span></p></td><td style="width:73.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>20.000.000,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Outros equipamentos, idem de ............................................................................</span></p></td><td style="width:73.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>5.000.000,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total .....................................................................................................................</span></p></td><td style="width:73.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>120.000.000,00</span></p></td></tr></tbody></table>
+US$
+
+Máquinas agrícolas até o valor aproximado de ...................................................
+
+30.000.000,00
+
+Navios até o valor aproximado de .......................................................................
+
+65.000.000,00
+
+Equipamentos industriais, idem de ......................................................................
+
+20.000.000,00
+
+Outros equipamentos, idem de ............................................................................
+
+5.000.000,00
+
+Total .....................................................................................................................
+
+120.000.000,00
 
 As facilidades de credito pelo fornecimento de bens de capital e equipamentos serão concedidos em prazos variáveis de três a nove anos, de acôrdo com o tipo do equipamento. Os vencimentos serão contados a partir da data da assinatura dos contratos individuais.
 
@@ -100,7 +118,13 @@ Em testemunho do que os Plenipotenciários das duas Partes Contratantes firmaram
 
 Feito, em Belgrado, aos 29 dias do mês de abril de 1961, em três exemplos nas línguas serbo-croata portuguêsa e inglêsa, sendo todos os textos igualmente idênticos. Contudo, em caso de dúvida quanto à sua interpretação, o texto em inglês prevalecerá.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Govêrno da República Popular Federativa da Iugoslávia</span></p></td><td style="width:187pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tomas Granfil, Chefe da Delegação Iugoslava</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Govêrno dos Estados Unidos do Brasil</span></p></td><td style="width:187pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>João Portela Ribeiro Dantas, Chefe da Delegação Brasileira</span></p></td></tr></tbody></table>
+Pelo Govêrno da República Popular Federativa da Iugoslávia
+
+Tomas Granfil, Chefe da Delegação Iugoslava
+
+Pelo Govêrno dos Estados Unidos do Brasil
+
+João Portela Ribeiro Dantas, Chefe da Delegação Brasileira
 
 LISTA “A”
 

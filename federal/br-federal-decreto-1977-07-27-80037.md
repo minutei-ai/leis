@@ -1,5 +1,3 @@
-###DEC-080037-0-000-27-07-1977@@@
-
 DECRETO Nº 80.037, DE 27 DE JULHO DE 1977
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados nos Municípios de Santa Helena, Medianeira, Matelândia e Céu Azul, no Estado do Paraná, compreendidos na área prioritária de reforma agrária, de que tratam os Decretos nºs 69.411, de 22 de outubro de 1971 e 78.422, de 15 de setembro de 1976.

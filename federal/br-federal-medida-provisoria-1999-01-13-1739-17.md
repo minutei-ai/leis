@@ -1,5 +1,3 @@
-###MPV-001739-0-017-13-01-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.739-17, DE 13 DE JANEIRO DE 1999
 
 Altera dispositivos da Lei nº 8.313, de 23 de dezembro de 1991, e dá outras providências.

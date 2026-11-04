@@ -1,5 +1,3 @@
-###DEC-079013-0-000-23-12-1976@@@
-
 DECRETO Nº 79.013, DE 23 DEZEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Ciências, da Faculdade de Filosofia, Ciências e Letras de Jales, com sede na cidade de Jales, Estado de São Paulo.

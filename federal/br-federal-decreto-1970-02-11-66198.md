@@ -1,5 +1,3 @@
-###DEC-066198-0-000-11-02-1970@@@
-
 DECRETO Nº 66.198 - DE 11 DE FEVEREIRO DE 1970
 
 Concede à Emprêsa de Águas Santa Cláudia Ltda., o direito de lavrar água mineral, no município de Manaus, Estado do Amazonas.

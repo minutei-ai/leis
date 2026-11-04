@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/1bca6bb0-a21f-4434-b9b0-c043764ae5f3/texto#nowhere)
 
-###DEL-000946-0-000-13-10-1969@@@
-
 decreto-lei nº 946, de 13 de outubro de 1969
 
 Autoriza o Ministério da Justiça a ceder o uso do jazigo 1.419 “F”, quadra 2, do Cemitério de São João Batista, à “Associação dos Veteranos da F.E.B.”.

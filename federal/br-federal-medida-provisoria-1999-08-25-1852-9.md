@@ -1,5 +1,3 @@
-###MPV-001852-0-009-25-08-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.852-9, DE 25 DE AGOSTO DE 1999.
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-088245-0-000-20-04-1983@@@
-
 Decreto nº 88.245, de 20 de abril de 1983.
 
 Aprova o Regulamento da Comissão Nacional para Assuntos Antárticos.

@@ -1,5 +1,3 @@
-###DEC-094094-0-000-13-03-1987@@@
-
 DECRETO N° 94.094, DE 13 DE MARÇO DE 1987
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - DNOCS, área de terra abrangida pelo Projeto de Irrigação "Transição Norte-Tabuleiros de Russas", no Município de Russas, Estado do Ceará, para a execução do Programa de Irrigação do Nordeste (PROINE}, e dá outras providências.

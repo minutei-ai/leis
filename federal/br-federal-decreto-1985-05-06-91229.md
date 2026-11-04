@@ -1,5 +1,3 @@
-###DEC-091229-0-000-06-05-1985@@@
-
 Decreto nº 91.229, de 06 de maio de 1985
 
 Altera a composição do Conselho Nacional de Informática e Automação (CONIN), de que trata o Decreto nº 90.754, de 27 de dezembro de 1984.

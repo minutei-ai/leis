@@ -1,4 +1,5 @@
-LEI Nº 22.503, DE 22 DE DEZEMBRO DE 2023<br>
+LEI Nº 22.503, DE 22 DE DEZEMBRO DE 2023
+
 \- [Regulamentada pelo Decreto nº 10.881, de 19-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113634).
 
 Dispõe sobre a obrigatoriedade de cinemas, teatros, estádios, casas de _shows_ e similares permitirem o consumo de bebidas e alimentos comprados pelo consumidor em local diverso e dá outras providências.

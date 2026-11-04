@@ -1,5 +1,3 @@
-###DEL-000062-0-000-13-12-1937@@@
-
 DECRETO-LEI N. 62 – DE 13 DE DEZEMBRO DE 1937
 
 Abre, pelo Ministério da Guerra, o crédito suplementar de 120:000$ à verba “Comissão em País Estrangeiro”

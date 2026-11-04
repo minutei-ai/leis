@@ -1,5 +1,3 @@
-###DEL-003353-0-000-17-06-1941@@@
-
 DECRETO-LEI N. 3.353 – DE 17 DE JUNHO DE 1941
 
 Transfere para o Instituto de Experimentação Agrícola, do Centro Nacional de Ensino e Pesquisas Agronômicas, do Ministério da Agricultura, a Estação Geral de Experimentação de Quissamã

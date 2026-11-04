@@ -1,5 +1,3 @@
-###DEC-060019-0-000-10-01-1967@@@
-
 DECRETO Nº 60.019, DE 10 DE JANEIRO DE 1967.
 
 Autoriza o cidadão brasileiro João Henrique Bianchini a pesquisar flourita no município de Santo Amaro da Imperatriz, Estado de Santa Catarina.

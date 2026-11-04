@@ -1,4 +1,5 @@
-DECRETO Nº 9.820, DE 1º DE MARÇO DE 2021<br>
+DECRETO Nº 9.820, DE 1º DE MARÇO DE 2021
+
 \- [Revogado pelo Decreto nº 10.402](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108414/decreto-10402), art. 2º, III
 
 ~~Qualifica como organização social do menor infrator e da garantia de seus direitos individuais e sociais, no âmbito do Estado de Goiás, a entidade que especifica.~~
@@ -12,8 +13,6 @@ DECRETO Nº 9.820, DE 1º DE MARÇO DE 2021<br>
 ~~Art. 2º Este Decreto entra em vigor na data de sua publicação.~~
 
 ~~Goiânia, 1º de março de 2021; 133º da República.~~
-
-<br>
 
 ~~Ronaldo Caiado~~
 

@@ -1,5 +1,3 @@
-###DEC-074220-0-000-25-06-1974@@@
-
 DECRETO Nº 74.220, DE 25 DE JUNHO DE 1974.
 
 Revoga os Decretos ns. 60.407 de 11 de março de 1967 e 60.706, de 9 de maio de 1967.

@@ -27,7 +27,6 @@ sha256_markdown: "60ff731ee9b56b12c4ac91bde9d29b849e1edeb92bbf9731916f23fb44b255
 manifesto: "provas/emendas-cf1988/faixa-101-141/manifesto.json"
 contrato_versao: 1
 ---
-
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 113, DE 8 DE DEZEMBRO DE 2021
@@ -44,8 +43,7 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
-> Este texto não substitui o publicado no DOU de 9.12.2021
->
+>>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2021-12-08-113.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -208,8 +206,4 @@ Brasília, em 8 de dezembro de 2021.
 | Deputado Luciano Bivar 1º Secretário | Senador Irajá 1º Secretário |
 | Deputada Marília Arraes 2ª Secretária | Senador Elmano Férrer 2º Secretário |
 | Deputada Rose Modesto 3ª Secretária | Senador Rogério Carvalho 3º Secretário |
-| Deputada Rosangela Gomes 4ª Secretária | Senador Weverton 4º Secretário |
-
-Este texto não substitui o publicado no DOU 9.12.2021
-
-\*
+| Deputada Rosangela Gomes 4ª Secretária | Senador Weverton 4º Secretário |\*

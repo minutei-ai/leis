@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209514)<br>
-
 # DECRETO N° 68.566, DE 29 DE MAIO DE 2024
 
 ### _Institui o Programa SP nos Trilhos e dá providências correlatas._

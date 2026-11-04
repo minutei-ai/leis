@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212052)<br>
-
 # DECRETO N° 70.246, DE 19 DE DEZEMBRO DE 2025
 
 ### _Estabelece nova disciplina para o Cadastro Estadual de Entidades - CEE e para emissão e manutenção do Certificado de Regularidade Cadastral de Entidades - CRCE, sob a responsabilidade da Controladoria Geral do Estado, e dá providências correlatas._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposições Gerais
 
 **Artigo 1° -** O Cadastro Estadual de Entidades - CEE e a emissão e manutenção do Certificado de Regularidade Cadastral de Entidades - CRCE, sob a responsabilidade da Controladoria Geral do Estado, obedecerão ao disposto neste decreto.
@@ -19,7 +18,8 @@ I - entidades privadas: pessoas jurídicas de direito privado, constituídas na 
 
 II - parcerias: instrumentos jurídicos formalizados entre entidades privadas e órgãos ou entidades da Administração Pública estadual, com ou sem repasse de recursos estaduais, com vistas à consecução de finalidades de interesse público, tais como convênios, contratos de gestão, termos de parceria, contratos de repasse, acordos de cooperação, termos de colaboração, termos de fomento, termos de compromisso ou instrumentos congêneres.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Do Cadastro e Emissão do Certificado
 
 **Artigo 3° -** As entidades privadas que pretendam a emissão do CRCE, para fins de celebração de parcerias, deverão realizar cadastro exclusivamente pelo CEE, sistema eletrônico administrado pela Controladoria Geral do Estado.
@@ -104,7 +104,8 @@ IV - inadimplemento das obrigações estabelecidas no artigo 56 do [Decreto n° 
 
 **Parágrafo único -** O recurso apresentado pela entidade privada não terá efeito suspensivo.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da atuação da Controladoria Geral do Estado e demais Órgãos e Entidades da Administração Pública Estadual
 
 **Artigo 9° -** Cabe à Controladoria Geral do Estado:
@@ -135,7 +136,8 @@ V - adotar as providências necessárias para garantir a publicidade e transpar�
 
 **Artigo 11 -** Observada a viabilidade técnica, os órgãos e entidades da Administração Pública estadual que possuam cadastros ou certificados específicos deverão integrá-los ao CEE.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Das Disposições Finais
 
 **Artigo 12 -** O Controlador Geral do Estado editará normas complementares necessárias à execução do disposto neste decreto.

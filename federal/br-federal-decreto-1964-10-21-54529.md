@@ -1,5 +1,3 @@
-###DEC-054529-0-000-21-10-1964@@@
-
 DECRETO Nº 54.529, DE 21 DE OUTUBRO DE 1964.
 
 Outorga à Companhia Estadual de Energia Elétrica concessão para distribuir energia elétrica no Município de Santa Bárbara do Sul, Estado do Rio Grande do Sul.

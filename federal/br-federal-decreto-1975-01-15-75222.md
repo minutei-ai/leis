@@ -1,5 +1,3 @@
-###DEC-075222-0-000-15-01-1975@@@
-
 DECRETO Nº 75.222, DE 15 DE JANEIRO DE 1975.
 
 Reorganiza o Departamento-Geral de Serviços do Ministério do Exército e dá outras providências.

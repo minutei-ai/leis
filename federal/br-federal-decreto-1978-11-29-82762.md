@@ -1,5 +1,3 @@
-###DEC-082762-0-000-29-11-1978@@@
-
 Decreto nº 82.762, de 29 de novembro de 1978
 
 Concede à Companhia de Mineração Santarem -COMISA o direito de lavrar bauxita no Município de Oriximina, Estado do Pará.

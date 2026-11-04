@@ -1,5 +1,3 @@
-###DEC-061458-0-000-04-10-1967@@@
-
 DECRETO Nº 61.458, DE 4 DE OUTUBRO DE 1967.
 
 Autoriza estrangeira a adquirir, em transferência de aforamento, o domínio útil de fração ideal do terreno que menciona, situado no Estado do Rio de Janeiro.

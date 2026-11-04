@@ -1,5 +1,3 @@
-###DEC-068264-0-000-18-02-1971@@@
-
 DECRETO Nº 68.264, DE 18 DE FEVEREIRO DE 1971.
 
 Redistribui, com o respectivo ocupante, cargo do Departamento Administrativo do Pessoal Civil para o Ministério da Saúde, e dá outras providências.

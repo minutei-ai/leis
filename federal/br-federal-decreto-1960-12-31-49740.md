@@ -1,5 +1,3 @@
-###DEC-049740-0-000-31-12-1960@@@
-
 DECRETO Nº 49.740, de 31 de dezembro de 1960.
 
 Autoriza a S. A. Emprêsa do Itapura a constituir garantia hipotecária dos seus bens e instalações em favor do Banco Nacional do Desenvolvimento Econômico.

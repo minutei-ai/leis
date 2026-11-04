@@ -1,5 +1,3 @@
-###DEL-007297-0-000-02-02-1945@@@
-
 DECRETO-LEI N. 7.297 – DE 2 DE FEVEREIRO DE 1945
 
  Autoriza a aquisição de terrenos na ilha do Governador

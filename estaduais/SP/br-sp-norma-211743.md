@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211743)<br>
-
 # DECRETO N° 70.043, DE 30 DE OUTUBRO DE 2025
 
 ### _Transfere, da Secretaria da Saúde para o Hospital das Clínicas da Faculdade de Medicina de Ribeirão Preto da Universidade de São Paulo - HCFMRP-USP, o Hospital Santa Tereza de Ribeirão Preto e o Hospital Estadual de Ribeirão Preto._

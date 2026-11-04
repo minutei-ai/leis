@@ -1,5 +1,3 @@
-###DEC-086599-0-000-17-11-1981@@@
-
 Decreto nº 86.599, de 17 de novembro de 1981
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da Estação Transformadora de Transmissão Nordeste da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

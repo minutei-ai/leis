@@ -1,7 +1,3 @@
-1
-
-###DEL-001769-0-000-14-02-1980@@@
-
 # Decreto-lei nº 1.769, de 14 de fevereiro de 1980
 
 Autoriza a EMBRAER - Empresa Brasileira de Aeronáutica S.A. a participar acionariamente do capital social da Indústria Aeronáutica NEIVA S.A., nas condições que estabelece.

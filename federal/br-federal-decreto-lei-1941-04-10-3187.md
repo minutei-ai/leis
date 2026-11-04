@@ -1,5 +1,3 @@
-###DEL-003187-0-000-10-04-1941@@@
-
 DECRETO-LEI N. 3.187 – DE 10 DE ABRIL DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 9:202$3, para pagamento de contribuição.

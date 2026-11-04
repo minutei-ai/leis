@@ -1,5 +1,3 @@
-###DEC-058898-0-000-21-07-1966@@@
-
 DECRETO Nº 58.898, DE 21 DE JULHO DE 1966.
 
 Outorga à Sociedade Anônima de Eletrificação da Paraíba concessão para distribuir energia elétrica.

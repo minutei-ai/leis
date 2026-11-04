@@ -1,5 +1,3 @@
-###DEC-070114-0-000-03-02-1972@@@
-
 DECRETO Nº 70.114, DE 3 DE fevereiro DE 1972.
 
 Declara de utilidade pública, para fins de constituição de servidão, faixas de terra destinadas a passagem de linhas de transmissão, no Estado de São Paulo.

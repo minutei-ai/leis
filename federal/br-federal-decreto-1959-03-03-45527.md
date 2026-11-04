@@ -1,5 +1,3 @@
-###DEC-045527-0-000-03-03-1959@@@
-
 DEFCRETO Nº 45.527, DE 3 DE MARÇO DE 1959.
 
 Declara de utilidade pública o “Clube dos Subtenentes e Sargentos do Exército da Guarnição de Niterói e São Gonçalo”, com sede em São Gonçalo, Estado do Rio de Janeiro.

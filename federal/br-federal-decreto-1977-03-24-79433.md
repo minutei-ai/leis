@@ -1,5 +1,3 @@
-###DEC-079433-0-000-24-03-1977@@@
-
 DECRETO Nº 79.433, DE 24 DE MARÇO DE 1977.
 
 Concede à Cerâmica Santa Catarina S.A. o direito de lavrar caulim no Município de Treze de Maio, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-067767-0-000-09-12-1970@@@
-
 Decreto nº 67.767, de 9 de Dezembro de 1970.
 
 Declara caduco o Decreto nº 48.397 de 23 de junho de 1960.

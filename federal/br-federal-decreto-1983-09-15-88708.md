@@ -1,5 +1,3 @@
-###DEC-088708-0-000-15-09-1983@@@
-
 Decreto nº 88.708, de 15 de setembro de 1983
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-076945-0-000-30-12-1975@@@
-
 DECRETO Nº 76.945, DE 30 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Pedagogia, do Centro de Estudos Superiores de Londrina, mantido pelo Instituto Filadélfia de Londrina, com sede na cidade de Londrina, Estado do Paraná.

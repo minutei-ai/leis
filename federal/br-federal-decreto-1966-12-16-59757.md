@@ -1,5 +1,3 @@
-###DEC-059757-0-000-16-12-1966@@@
-
 Decreto nº 59.757, de 16 de dezembro de 1966.
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$7.000.000.000, para o fim que especifica.

@@ -1,5 +1,3 @@
-###DEC-083457-0-000-16-05-1979@@@
-
 decreto nº 83.457, de 16 de maio de 1979.
 
 Dispõe sobre o cargo de Diretor do Pessoal Civil do Ministério da Marinha.

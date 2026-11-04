@@ -1,5 +1,3 @@
-###DEC-081600-0-000-25-04-1978@@@
-
 Decreto nº 81.600,de 25 de abril de 1978.
 
 Aprova o Regulamento dos Serviços Especiais de Repetição e de Retransmissão de Televisão.

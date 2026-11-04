@@ -1,5 +1,3 @@
-###DEL-005336-0-000-22-03-1943@@@
-
 DECRETO‑LEI N. 5.336 – DE 22 DE MARÇO DE 1943
 
 Abre, ao Ministério do Educação e Saúde, o crédito especial de Cr$ 9.600,00 para pagamento de gratificação de magistério

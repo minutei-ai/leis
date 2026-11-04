@@ -1,5 +1,3 @@
-###DEC-048747-A-000-11-08-1960@@@
-
 DECRETO Nº 48.747-A, DE 11 DE AGÔSTO DE 1960.
 
 Cria cargos e funções gratificadas no Quadro do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargos e dá outras providências.

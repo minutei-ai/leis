@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212464)<br>
-
 # LEI COMPLEMENTAR N° 1.440, DE 14 DE ABRIL DE 2026
 
 ### _Dispõe sobre a criação de cargos de Promotor de Justiça na Parte Permanente do Quadro do Ministério Público do Estado de São Paulo._

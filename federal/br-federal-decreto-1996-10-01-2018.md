@@ -1,7 +1,3 @@
-1
-
-###DEC-002018-0-000-01-10-1996@@@
-
 DECRETO Nº 2.018, DE 1º DE OUTUBRO DE 1996.
 
 Regulamenta a Lei nº 9.294, de 15 de julho de 1996, que dispõe sobre as restrições ao uso e à propaganda de produtos fumígenos, bebidas alcoólicas, medicamentos, terapias e defensivos agrícolas, nos termos do § 4º do art. 220 da Constituição.

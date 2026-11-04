@@ -1,5 +1,3 @@
-###DEC-059477-0-000-08-11-1966@@@
-
 DECRETO Nº 59.477, dE 8 DE NOVEMBRO DE 1966.
 
 Transforma o 8º Grupo de Artilharia 75 mm a Cavalo em 8º Grupo de Canhões 75 mm Auto-Rebocado.

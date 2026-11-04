@@ -1,7 +1,3 @@
-1
-
-###DEC-099976-0-000-04-01-1991@@@
-
 DECRETO Nº 99.976, DE 4 DE JANEIRO DE 1991.
 
 Outorga à Companhia de Saneamento de Minas Gerais - COPASA concessão para derivação de águas do Rio Verde Grande, no Estado de Minas Gerais, no trecho que menciona.

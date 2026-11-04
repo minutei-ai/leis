@@ -10,7 +10,6 @@ coletado_em: "2026-10-22T15:14:22.000Z"
 sha256_fonte: "2e46415499e485371e2c739a5e2c3797515b2542b1ea7f26e35fddb9e85aefce"
 sha256_markdown: "1cab76c1bdf4422d6a792d66952f76962cac8b5bcfcc87b549bed5ad57c50af8"
 ---
-
 # LEI Nº 1.569, DE 20 DE ABRIL DE 1995.
 
 ESTADO DE MATO GROSSO DO SUL
@@ -21,18 +20,24 @@ Declara de Utilidade Pública Estadual a Creche "Lar Santa Rosa" com sede em Cor
 
 Publicada no Diário Oficial nº 4.020, de 24 de abril de 1995, página 1.
 
-O VICE-GOVERNADOR, NO EXERCÍCIO DO CARGO DE GOVERNADOR DO ESTADO DE<br>
-MATO GROSSO DO SUL, faço saber que a Assembléia Legislativa decreta<br>
-e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica declarada de Utilidade Pública Estadual a Creche "Lar<br>
-Santa Rosa" com sede na cidade de Corumbá-MS, à Rua Colombo nº<br>
-1147.<br>
-<br>
-Art. 2º Esta Lei entrará em vigor na data de sua publicação,<br>
-revogadas as disposições em contrário.<br>
-<br>
-Campo Grande, 20 de abril de 1995.<br>
-<br>
-ANTONIO BRAZ GENELHU MELO<br>
+O VICE-GOVERNADOR, NO EXERCÍCIO DO CARGO DE GOVERNADOR DO ESTADO DE
+
+MATO GROSSO DO SUL, faço saber que a Assembléia Legislativa decreta
+
+e eu sanciono a seguinte Lei:
+
+Art. 1º Fica declarada de Utilidade Pública Estadual a Creche "Lar
+
+Santa Rosa" com sede na cidade de Corumbá-MS, à Rua Colombo nº
+
+1147.
+
+Art. 2º Esta Lei entrará em vigor na data de sua publicação,
+
+revogadas as disposições em contrário.
+
+Campo Grande, 20 de abril de 1995.
+
+ANTONIO BRAZ GENELHU MELO
+
 Vice-Governador no exerício do cargo de Governador

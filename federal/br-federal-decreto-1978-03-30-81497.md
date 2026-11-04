@@ -1,5 +1,3 @@
-###DEC-081497-0-000-30-03-1978@@@
-
 Decreto nº 81.497, de 30 de março de 1978.
 
 Concede reconhecimento ao curso de Direito da Faculdade de Direito da Universidade de Mogi das Cruzes, Estado de São Paulo.

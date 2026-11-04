@@ -1,5 +1,3 @@
-###DEC-050491-0-000-25-04-1961@@@
-
 DECRETO Nº 50.491, DE 25 DE ABRIL DE 1961.
 
 Dispõe sôbre a execução do Decreto nº 50.3?8, de 21 de março de 1961.

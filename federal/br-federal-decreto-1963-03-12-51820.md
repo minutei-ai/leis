@@ -1,5 +1,3 @@
-###DEC-051820-0-000-12-03-1963@@@
-
 DECRETO Nº 51.820, DE 12 DE MARÇO DE 1963.
 
 Concede à A.R. Giannetti, Administração, Indústria e Comércio S.A. autorização para funcionar como emprêsa da mineração.

@@ -1,5 +1,3 @@
-###DEC-069148-0-000-31-08-1971@@@
-
 DECRETO Nº 69.148, DE 31 de AGÔSTO DE 1971.
 
 Declara de utilidade pública o Instituto Beneficente da Anunciação, com sede em São Paulo, Estado de São Paulo.

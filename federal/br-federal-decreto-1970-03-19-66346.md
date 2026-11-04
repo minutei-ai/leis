@@ -1,5 +1,3 @@
-###DEC-066346-0-000-19-03-1970@@@
-
 DECRETO Nº 66.346 - DE 19 DE MARÇO DE 1970
 
 Declara de utilidade pública a Sociedade Hospitalar São José, com sede em Antonio do Prado, Estado do Rio Grande do Sul.

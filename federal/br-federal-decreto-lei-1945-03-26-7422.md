@@ -1,5 +1,3 @@
-###DEL-007422-0-000-26-03-1945@@@
-
 DECRETO-LEI N. 7.422 – DE 26 DE MARÇO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 2. 757.254,30, para construção de um sub-ramal na Estrada de Ferro D. Tereza Cristina

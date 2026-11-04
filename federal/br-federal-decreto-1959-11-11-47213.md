@@ -1,5 +1,3 @@
-###DEC-047213-0-000-11-11-1959@@@
-
 DECRETO Nº 47.213, DE 11 DE NOVEMBRO DE 1959.
 
 Inclui função gratificada no Quadro Permanente do Ministério da Aeronáutica e dá outras providências.

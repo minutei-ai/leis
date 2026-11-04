@@ -1,22 +1,20 @@
-###DEC-025470-0-000-09-09-1948@@@
+**DECRETO Nº 25.470, DE 9 DE SETEMBRO DE 1948.**
 
-<strong>DECRETO Nº 25.470, DE 9 DE SETEMBRO DE 1948.</strong>
+***Concede a “Pluna S. E. M.” autorização para funcionar na República.***
 
-<em><strong>Concede a “Pluna S. E. M.” autorização para funcionar na República.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, atendendo ao que requereu a “Pluna S. E. M.”
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, atendendo ao que requereu a “Pluna S. E. M.”
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. É concedida a “Pluna S. E. M.”, com sede em Montevidéu, República Oriental do Uruguai, autorização para funcionar na República dos Estados Unidos do Brasil, com os estatutos que apresentou e com o capital de Cr$100.000,00 (cem mil cruzeiros), destinado às suas operações no país, mediante as cláusulas que êste acompanham, assinadas pelo Ministro de Estado do Trabalho, Indústria e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar sôbre o objeto da referida autorização.
 
 Rio de Janeiro, 9 de setembro de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Morvan Figueiredo
 
-<strong>CLAUSULAS QUE ACOMPANHAM O DECRETO N.º 25.470, DESTA DATA</strong>
+**CLAUSULAS QUE ACOMPANHAM O DECRETO N.º 25.470, DESTA DATA**
 
 I
 
@@ -46,4 +44,4 @@ A infração de qualquer das cláusulas para a qual não esteja cominada pena es
 
 Rio de Janeiro, 9 de setembro de 1948.
 
-<strong>MORVAN FIGUEIREDO</strong>
+**MORVAN FIGUEIREDO**

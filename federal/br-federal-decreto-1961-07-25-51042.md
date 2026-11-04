@@ -1,5 +1,3 @@
-###DEC-051042-0-000-25-07-1961@@@
-
 DECRETO Nº 51.042, de 25 de julho de 1961.
 
 Cria a Reserva Florestal do Parima e dá outras providências.

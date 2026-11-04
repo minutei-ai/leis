@@ -1,5 +1,3 @@
-###DEC-059436-0-000-27-10-1966@@@
-
 DECRETO Nº 59.436, DE 27 DE OUTUBRO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, a área de terreno necessária à construção de oficinas e outras dependências do 6º Distrito de Obras, em Terezina, no Estado do Piauí.

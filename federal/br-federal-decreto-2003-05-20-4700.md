@@ -1,5 +1,3 @@
-###DEC-004700-0-000-20-05-2003@@@
-
 DECRETO Nº 4.700, DE 20 DE MAIO DE 2003.
 
        Acrescenta alínea ao inciso II do caput do art. 4o do Decreto no 2.710, de 4 de agosto de 1998, que dispõe sobre a Região Integrada de Desenvolvimento do Distrito Federal e Entorno - RIDE, e dá outras providências.
@@ -16,5 +14,6 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
         Brasília, 20 de maio de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Ciro Ferreira Gomes

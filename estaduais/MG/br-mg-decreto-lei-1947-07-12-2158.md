@@ -29,7 +29,3 @@ Palácio do Governo em Aimorés, 12 de julho de 1947.
 MILTON SOARES CAMPOS
 
 José Rodrigues Seabra
-
-\================================================================
-
-Data da última atualização: 21/9/2007.

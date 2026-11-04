@@ -1,5 +1,3 @@
-###DEC-064582-0-000-27-05-1969@@@
-
 DECRETO Nº 64.582, DE 27 DE MAIO DE 1969.
 
 Declara de utilidade pública o Hospital e Maternidade de Rancharia, com sede em Rancharia, Estado de São Paulo.

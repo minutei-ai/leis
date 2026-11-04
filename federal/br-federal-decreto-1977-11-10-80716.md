@@ -1,5 +1,3 @@
-###DEC-080716-0-000-10-11-1977@@@
-
 DECRETO Nº 80.716, DE 10 DE NOVEMBRO DE 1977.
 
 Concede a R. Olga Monte Barroso, firma individual, o direito de lavrar calcário no Município de Sobral, Estado do Ceará.

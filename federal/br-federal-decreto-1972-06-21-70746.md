@@ -1,5 +1,3 @@
-###DEC-070746-0-000-21-06-1972@@@
-
 Decreto nº 70.746, de 21 de junho de 1972.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras "Oswaldo Cruz" - SP.

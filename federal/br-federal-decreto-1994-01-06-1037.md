@@ -1,7 +1,3 @@
-1
-
-###DEC-001037-0-000-06-01-1994@@@
-
 DECRETO Nº 1.037, DE 6 DE JANEIRO DE 1994
 
 Dá nova redação ao art. 3º do Decreto nº 1.001, de 6 de dezembro de 1993.

@@ -1,5 +1,3 @@
-###DEL-009044-0-000-07-03-1946@@@
-
 DECRETO-LEI N. 9.044 – DE 7 DE MARÇO DE 1946
 
 Exclui do regime de administração federal a Companhia Italiana dei Cavi Telegrafici Sottomarini

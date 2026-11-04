@@ -1,4 +1,5 @@
-DECRETO Nº 1.144, DE 31 DE MARÇO DE 2025<br>
+DECRETO Nº 1.144, DE 31 DE MARÇO DE 2025
+
 (Revogado pelo Decreto Nº 2.210, de 11 de setembro de 2025)
 
 ~~Dispõe sobre a aprovação do loteamento denominado Parque das Pedras, no âmbito do Município de Aparecida de Goiânia.~~
@@ -59,38 +60,149 @@ DECRETO Nº 1.144, DE 31 DE MARÇO DE 2025<br>
 
 ~~Aparecida de Goiânia, 31 de março de 2025.~~
 
-<br>
 ~~ANEXO I~~
 
-<br>
-~~Loteamento Parque das Pedras<br>
-Remanescente da Fazenda Santo Antônio<br>
+~~Loteamento Parque das Pedras
+
+Remanescente da Fazenda Santo Antônio
+
 Município de Aparecia de Goiânia~~
 
-<br>
-~~Proprietário: MRV Prime Incorporações Mato Grosso do Sul Ltda<br>
+~~Proprietário: MRV Prime Incorporações Mato Grosso do Sul Ltda
+
  CNPJ Nº 34.353.654/0001-10~~
 
-<br>
-~~Título de propriedade: matrícula nº 285.736,<br>
+~~Título de propriedade: matrícula nº 285.736,
+
 do Registro de Imóveis e 1º Tabelionato de Notas de Aparecida de Goiânia~~
 
-<br>
 ~~1.    Limites e Confrontações:~~
 
 ~~GLEBA "B-2", denominada Chácara San Damiano, situada na FAZENDA SANTO ANTÔNIO, neste município com a área de 48.057,36m², com os seguintes limites e confrontações: pela frente 214,63m, para a Rua Padre Roque Continillo, do vértice M-06 (E=691.644,652m e N=8.146.846,986m); até o vértice M-02B (E=691.796,044m e N=8.147.001,848m); pela direita 201,01m para a GLEBA "B-1", do vértice M-02B (E=691.796,044m e N=8.147.001,848m); até o vértice M-02A (E=691.648,518m e N=8.147.132,830m); pelos fundos 252,73m para a Avenida Bela Vista, do vértice M-02A (E=691.648,518m e N=8.147.132,830m); até o vértice M-03 (E=691.824,089m e N=8.146.951,047m); pelo chanfrado 6,18m, para a Avenida Bela Vista com a Rua Lince de Araújo, do vértice M-03 (E=691.824,089m e N=8.146.951,047m); até o vértice M-04 (E=691.823,248m e N=8.146.944,922m); pela esquerda 196,23m, para a Rua Lince de Araújo, do vértice M-04 (E=691.823,248m e N=8.146.944,922m); até o vértice M-05 (E=691.653,946m e N=8.146.845,714m); pelo chanfrado 9,38m para a Rua Lince de Araújo com a Rua Padre Roque Continillo, do vértice M-05 (E=691.653,946m e N=8.146.845,714m) até o vértice M-06 (E=691.644,652m e N=8.146.846,986m).~~
 
 ~~2\. Discriminação das áreas do parcelamento:~~
 
-<table><tbody><tr><td style=" width:387px;  height:19px;    "><s><b>Descrição</b></s></td><td style=" width:113px;  height:19px;    "><s><b>Área (m²)</b></s></td><td style=" width:123px;  height:19px;    "><s><b>Percentual (%)</b></s></td></tr><tr><td style=" width:387px;  height:1.0cm;    "><s>Área total da gleba</s></td><td style=" width:113px;  height:1.0cm;    "><s>48.057,36</s></td><td style=" width:123px;  height:1.0cm;    "><s>100,00%</s></td></tr><tr><td style=" width:387px;  height:27px;    "><s><b>Discriminação</b></s></td><td style=" width:113px;  height:27px;    "><s><b>Áreas</b></s></td><td style=" width:123px;  height:27px;    "><s><b>%</b></s></td></tr><tr><td style=" width:387px;  height:1.0cm;    "><s><b>Área parcelável</b></s></td><td style=" width:113px;  height:1.0cm;    "><s><b>48.057,36</b></s></td><td style=" width:123px;  height:1.0cm;    "><s><b>100,00</b></s></td></tr><tr><td style=" width:387px;  height:1.0cm;    "><s><b>Área de Lotes (total)</b></s></td><td style=" width:113px;  height:1.0cm;    "><s><b>33.749,66</b></s></td><td style=" width:123px;  height:1.0cm;    "><s><b>70,23</b></s></td></tr><tr><td style=" width:387px;  height:1.0cm;    "><s>Quadra 01 – Lote 01</s></td><td style=" width:113px;  height:1.0cm;    "><s>16.437,34</s></td><td style=" width:123px;  height:1.0cm;    "><s>34,20</s></td></tr><tr><td style=" width:387px;  height:1.0cm;    "><s>Quadra 02 – Lote 01</s></td><td style=" width:113px;  height:1.0cm;    "><s>17.312,32</s></td><td style=" width:123px;  height:1.0cm;    "><s>36,03</s></td></tr><tr><td style=" width:387px;  height:1.0cm;    "><s><b>Áreas Públicas Municipais (total)</b></s></td><td style=" width:113px;  height:1.0cm;    "><s><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </b><b>7.361,29</b></s></td><td style=" width:123px;  height:1.0cm;    "><s><b>15,32</b></s></td></tr><tr><td style=" width:387px;  height:1.0cm;    "><s><b>Áreas institucionais (total)</b></s></td><td style=" width:113px;  height:1.0cm;    "><s><b>4.953,85</b></s></td><td style=" width:123px;  height:1.0cm;    "><s><b>10,31</b></s></td></tr><tr><td style=" width:387px;  height:1.0cm;    "><s>Área institucional – APM 01</s></td><td style=" width:113px;  height:1.0cm;    "><s>1.880,80</s></td><td style=" width:123px;  height:1.0cm;    "><s>3,91</s></td></tr><tr><td style=" width:387px;  height:1.0cm;    "><s>Área institucional – APM 03</s></td><td style=" width:113px;  height:1.0cm;    "><s>3.073,05</s></td><td style=" width:123px;  height:1.0cm;    "><s>6,40</s></td></tr><tr><td style=" width:387px;  height:1.0cm;    "><s><b>Áreas verdes (total)</b></s></td><td style=" width:113px;  height:1.0cm;    "><s><b>2.407,44</b></s></td><td style=" width:123px;  height:1.0cm;    "><s><b>5,01</b></s></td></tr><tr><td style=" width:387px;  height:1.0cm;    "><s>Área verde – APM 02</s></td><td style=" width:113px;  height:1.0cm;    "><s>1.203,72</s></td><td style=" width:123px;  height:1.0cm;    "><s>2,505</s></td></tr><tr><td style=" width:387px;  height:1.0cm;    "><s>Área verde – APM 04</s></td><td style=" width:113px;  height:1.0cm;    "><s>1.203,72</s></td><td style=" width:123px;  height:1.0cm;    "><s>2,505</s></td></tr><tr><td style=" width:387px;  height:1.0cm;    "><s>Vias de Pedestre</s></td><td style=" width:113px;  height:1.0cm;   "><s>1.443,98</s></td><td style=" width:123px;  height:1.0cm;    "><s>3,00</s></td></tr><tr><td style=" width:387px;  height:1.0cm;    "><s>Via de Pedestre 01</s></td><td style=" width:113px;  height:1.0cm;    "><s>630,72</s></td><td style=" width:123px;  height:1.0cm;    "><s>1,31</s></td></tr><tr><td style=" width:387px;  height:1.0cm;   "><s>Via de Pedestre 02</s></td><td style=" width:113px;  height:1.0cm;    "><s>813,26</s></td><td style=" width:123px;  height:1.0cm;    "><s>1,69</s></td></tr><tr><td style=" width:387px;  height:1.0cm;    "><s>Vias de Circulação</s></td><td style=" width:113px;  height:1.0cm;    "><s>5.502,43</s></td><td style=" width:123px;  height:1.0cm;    "><s>11,45</s></td></tr><tr><td style=" width:387px;  height:1.0cm;    "><s><b>Sistema viário (Vias de circulação + Vias de Ped.)</b></s></td><td style=" width:113px;  height:1.0cm;   "><s><b>6.946,41</b></s></td><td style=" width:123px;  height:1.0cm;    "><s><b>14,45</b></s></td></tr></tbody></table>
+~~**Descrição**~~
+
+~~**Área (m²)**~~
+
+~~**Percentual (%)**~~
+
+~~Área total da gleba~~
+
+~~48.057,36~~
+
+~~100,00%~~
+
+~~**Discriminação**~~
+
+~~**Áreas**~~
+
+~~**%**~~
+
+~~**Área parcelável**~~
+
+~~**48.057,36**~~
+
+~~**100,00**~~
+
+~~**Área de Lotes (total)**~~
+
+~~**33.749,66**~~
+
+~~**70,23**~~
+
+~~Quadra 01 – Lote 01~~
+
+~~16.437,34~~
+
+~~34,20~~
+
+~~Quadra 02 – Lote 01~~
+
+~~17.312,32~~
+
+~~36,03~~
+
+~~**Áreas Públicas Municipais (total)**~~
+
+~~**      7.361,29**~~
+
+~~**15,32**~~
+
+~~**Áreas institucionais (total)**~~
+
+~~**4.953,85**~~
+
+~~**10,31**~~
+
+~~Área institucional – APM 01~~
+
+~~1.880,80~~
+
+~~3,91~~
+
+~~Área institucional – APM 03~~
+
+~~3.073,05~~
+
+~~6,40~~
+
+~~**Áreas verdes (total)**~~
+
+~~**2.407,44**~~
+
+~~**5,01**~~
+
+~~Área verde – APM 02~~
+
+~~1.203,72~~
+
+~~2,505~~
+
+~~Área verde – APM 04~~
+
+~~1.203,72~~
+
+~~2,505~~
+
+~~Vias de Pedestre~~
+
+~~1.443,98~~
+
+~~3,00~~
+
+~~Via de Pedestre 01~~
+
+~~630,72~~
+
+~~1,31~~
+
+~~Via de Pedestre 02~~
+
+~~813,26~~
+
+~~1,69~~
+
+~~Vias de Circulação~~
+
+~~5.502,43~~
+
+~~11,45~~
+
+~~**Sistema viário (Vias de circulação + Vias de Ped.)**~~
+
+~~**6.946,41**~~
+
+~~**14,45**~~
 
 ~~2.1.    Composição e Descrição das Quadras:~~
 
-<table><tbody><tr><td colspan="11" style=" width:670px;  height:20px;   "><s><b>LISTAGEM DAS QUADRAS</b></s></td><td style=" height:20px;    width:0px">&nbsp;</td></tr><tr><td rowspan="3" style=" width:56px;  height:19px;   "><s><b>Quadra</b></s></td><td colspan="9" style=" width:548px;  height:19px;   "><s><b>Dimensões Lineares e Confrontações dos Lotes (em metros)</b></s></td><td style=" width:66px;  height:19px;   "><s><b>Área&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (m²)</b></s></td><td style=" height:19px;    width:0px">&nbsp;</td></tr><tr><td rowspan="2" style=" width:76px;  height:29px;   "><s><b>Logradouro</b></s></td><td rowspan="2" style=" width:47px;  height:29px;   "><s><b>Frente</b></s></td><td rowspan="2" style=" width:47px;  height:29px;   "><s><b>Fundo</b></s></td><td rowspan="2" style=" width:66px;  height:29px;   "><s><b>Confr. Fundo</b></s></td><td rowspan="2" style=" width:57px;  height:29px;   "><s><b>Lado Direito</b></s></td><td rowspan="2" style=" width:47px;  height:29px;   "><s><b>Confr. Lado Direito</b></s></td><td rowspan="2" style=" width:66px;  height:29px;   "><s><b>Lado Esquerdo</b></s></td><td rowspan="2" style=" width:66px;  height:29px;   "><s><b>Confr. Lado Esquerdo</b></s></td><td rowspan="2" style=" width:76px;  height:29px;   "><s><b>Chanfro</b></s></td><td rowspan="2" style=" width:66px;  height:29px;   ">&nbsp;</td><td style=" height:29px;    width:0px">&nbsp;</td></tr><tr><td style=" height:29px;    width:0px">&nbsp;</td></tr><tr><td style=" width:56px;  height:89px;   "><s>01</s></td><td style=" width:76px;  height:89px;   "><s>Avenida Bela Vista</s></td><td style=" width:47px;  height:89px;   "><s>84,70</s></td><td style=" width:47px;  height:89px;   "><s>96,43</s></td><td style=" width:66px;  height:89px;   "><s>Rua Padre Roque Continillo</s></td><td style=" width:57px;  height:89px;   "><s>191,07</s></td><td style=" width:47px;  height:89px;   "><s>Rua Das Pedras</s></td><td style=" width:66px;  height:89px;   "><s>191,05</s></td><td style=" width:66px;  height:89px;   "><s>Rua Madre Teresa de Calcutá</s></td><td style=" width:76px;  height:89px;   "><s>7,07+7,05+6,87 +7,27</s></td><td style=" width:66px;  height:89px;   "><s>20.152,58</s></td><td style=" height:89px;    width:0px">&nbsp;</td></tr><tr><td style=" width:56px;  height:87px;   "><s>02</s></td><td style=" width:76px;  height:87px;   "><s>Avenida Bela Vista</s></td><td style=" width:47px;  height:87px;   "><s>126,00</s></td><td style=" width:47px;  height:87px;   "><s>76,20</s></td><td style=" width:66px;  height:87px;   "><s>Rua Padre Roque Continillo</s></td><td style=" width:57px;  height:87px;   "><s>196,23</s></td><td style=" width:47px;  height:87px;   "><s>Rua Lince de Araújo</s></td><td style=" width:66px;  height:87px;   "><s>191,10</s></td><td style=" width:66px;  height:87px;   "><s>Rua Das Pedras</s></td><td style=" width:76px;  height:87px;   "><s>6,18+9,38+7,08 +7,07</s></td><td style=" width:66px;  height:87px;   "><s>22.402,35</s></td><td style=" height:87px;    width:0px">&nbsp;</td></tr><tr><td colspan="10" style=" width:604px;  height:21px;   "><s><b>Área Total</b></s></td><td style=" width:66px;  height:21px;   "><s><b>42.554,93</b></s></td><td style=" height:21px;    width:0px">&nbsp;</td></tr></tbody></table>
+<table><tbody><tr><td colspan="11"><s>**LISTAGEM DAS QUADRAS**</s></td><td>&nbsp;</td></tr><tr><td rowspan="3"><s>**Quadra**</s></td><td colspan="9"><s>**Dimensões Lineares e Confrontações dos Lotes (em metros)**</s></td><td><s>**Área&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (m²)**</s></td><td>&nbsp;</td></tr><tr><td rowspan="2"><s>**Logradouro**</s></td><td rowspan="2"><s>**Frente**</s></td><td rowspan="2"><s>**Fundo**</s></td><td rowspan="2"><s>**Confr. Fundo**</s></td><td rowspan="2"><s>**Lado Direito**</s></td><td rowspan="2"><s>**Confr. Lado Direito**</s></td><td rowspan="2"><s>**Lado Esquerdo**</s></td><td rowspan="2"><s>**Confr. Lado Esquerdo**</s></td><td rowspan="2"><s>**Chanfro**</s></td><td rowspan="2">&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td></tr><tr><td><s>01</s></td><td><s>Avenida Bela Vista</s></td><td><s>84,70</s></td><td><s>96,43</s></td><td><s>Rua Padre Roque Continillo</s></td><td><s>191,07</s></td><td><s>Rua Das Pedras</s></td><td><s>191,05</s></td><td><s>Rua Madre Teresa de Calcutá</s></td><td><s>7,07+7,05+6,87 +7,27</s></td><td><s>20.152,58</s></td><td>&nbsp;</td></tr><tr><td><s>02</s></td><td><s>Avenida Bela Vista</s></td><td><s>126,00</s></td><td><s>76,20</s></td><td><s>Rua Padre Roque Continillo</s></td><td><s>196,23</s></td><td><s>Rua Lince de Araújo</s></td><td><s>191,10</s></td><td><s>Rua Das Pedras</s></td><td><s>6,18+9,38+7,08 +7,07</s></td><td><s>22.402,35</s></td><td>&nbsp;</td></tr><tr><td colspan="10"><s>**Área Total**</s></td><td><s>**42.554,93**</s></td><td>&nbsp;</td></tr></tbody></table>
 
-<table><tbody><tr><td colspan="12" style=" width:670px;  height:26px;   "><s><b>LISTAGEM DOS LOTES - QUADRA&nbsp; 01</b></s></td><td style=" height:26px;    width:0px">&nbsp;</td></tr><tr><td rowspan="3" style=" width:75px;  height:37px;   "><s><b>Parcela</b></s></td><td colspan="10" style=" width:529px;  height:37px;   "><s><b>Dimensões Lineares e Confrontações dos Lotes (em metros)</b></s></td><td rowspan="3" style=" width:66px;  height:37px;   "><s><b>Área&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (m²)</b></s></td><td style=" height:37px;    width:0px">&nbsp;</td></tr><tr><td rowspan="2" style=" width:66px;  height:37px;   "><s><b>Logradouro</b></s></td><td rowspan="2" style=" width:47px;  height:37px;   "><s><b>Frente</b></s></td><td rowspan="2" style=" width:47px;  height:37px;   "><s><b>Fundo</b></s></td><td rowspan="2" style=" width:66px;  height:37px;   "><s><b>Confr. Fundo</b></s></td><td rowspan="2" style=" width:57px;  height:37px;   "><s><b>Lado Direito</b></s></td><td rowspan="2" style=" width:76px;  height:37px;   "><s><b>Confr. Lado Direito</b></s></td><td rowspan="2" style=" width:57px;  height:37px;   "><s><b>Lado Esquerdo</b></s></td><td rowspan="2" style=" width:66px;  height:37px;   "><s><b>Confr. Lado Esquerdo</b></s></td><td colspan="2" rowspan="2" style=" width:47px;  height:37px;   "><s><b>Chanfro</b></s></td><td style=" height:37px;    width:0px">&nbsp;</td></tr><tr><td style=" height:37px;    width:0px">&nbsp;</td></tr><tr><td style=" width:75px;  height:104px;   "><s>Lote 01</s></td><td style=" width:66px;  height:104px;   "><s>Rua Madre Teresa de Calcutá</s></td><td style=" width:47px;  height:104px;   "><s>152,22</s></td><td style=" width:47px;  height:104px;   "><s>152,28</s></td><td style=" width:66px;  height:104px;   "><s>Rua das Pedras</s></td><td style=" width:57px;  height:104px;   "><s>86,97</s></td><td style=" width:76px;  height:104px;   "><s>Via de Pedrestre 1</s></td><td style=" width:57px;  height:104px;   "><s>96,43</s></td><td style=" width:66px;  height:104px;   "><s>Rua Padre Roque Continillo</s></td><td colspan="2" style=" width:47px;  height:104px;   "><s>7,07+ 7,05 + 6,87+ 7,27</s></td><td style=" width:66px;  height:104px;   "><s>16.437,34</s></td><td style=" height:104px;    width:0px">&nbsp;</td></tr><tr><td style=" width:75px;  height:83px;   "><s>Área Institucional&nbsp;&nbsp; APM-01</s></td><td style=" width:66px;  height:83px;   "><s>Avenida Bela Vista</s></td><td style=" width:47px;  height:83px;   "><s>52,20</s></td><td style=" width:47px;  height:83px;   "><s>54,12</s></td><td style=" width:66px;  height:83px;   "><s>Via de Pedestre 1</s></td><td style=" width:57px;  height:83px;   "><s>32,77</s></td><td style=" width:76px;  height:83px;   "><s>Área Verde&nbsp;&nbsp;&nbsp;&nbsp; APM-02&nbsp;</s></td><td style=" width:57px;  height:83px;   "><s>22,82</s></td><td style=" width:66px;  height:83px;   "><s>Rua Madre Teresa de Calcutá</s></td><td colspan="2" style=" width:47px;  height:83px;   "><s>7,27+ 6,86</s></td><td style=" width:66px;  height:83px;   "><s>1.880,80</s></td><td style=" height:83px;    width:0px">&nbsp;</td></tr><tr><td style=" width:75px;  height:85px;   "><s>Área Verde&nbsp;&nbsp;&nbsp;&nbsp; APM-02&nbsp;</s></td><td style=" width:66px;  height:85px;   "><s>Avenida Bela Vista</s></td><td style=" width:47px;  height:85px;   "><s>32,50</s></td><td style=" width:47px;  height:85px;   "><s>32,50</s></td><td style=" width:66px;  height:85px;   "><s>Via de Pedestre1</s></td><td style=" width:57px;  height:85px;   "><s>22,77</s></td><td style=" width:76px;  height:85px;   "><s>Rua das Pedras</s></td><td style=" width:57px;  height:85px;   "><s>32,77</s></td><td colspan="2" style=" width:76px;  height:85px;   "><s>Área Institucional&nbsp;&nbsp; APM-01</s></td><td style=" width:38px;  height:85px;   "><s>7,07+ 7,07</s></td><td style=" width:66px;  height:85px;   "><s>1.203,72</s></td><td style=" height:85px;    width:0px">&nbsp;</td></tr><tr><td colspan="11" style=" width:604px;  height:27px;   "><s>&nbsp;<b>Área Total</b></s></td><td style=" width:66px;  height:27px;   "><s><b>19.521,86</b></s></td><td style=" height:27px;    width:0px">&nbsp;</td></tr></tbody></table>
+<table><tbody><tr><td colspan="12"><s>**LISTAGEM DOS LOTES - QUADRA&nbsp; 01**</s></td><td>&nbsp;</td></tr><tr><td rowspan="3"><s>**Parcela**</s></td><td colspan="10"><s>**Dimensões Lineares e Confrontações dos Lotes (em metros)**</s></td><td rowspan="3"><s>**Área&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (m²)**</s></td><td>&nbsp;</td></tr><tr><td rowspan="2"><s>**Logradouro**</s></td><td rowspan="2"><s>**Frente**</s></td><td rowspan="2"><s>**Fundo**</s></td><td rowspan="2"><s>**Confr. Fundo**</s></td><td rowspan="2"><s>**Lado Direito**</s></td><td rowspan="2"><s>**Confr. Lado Direito**</s></td><td rowspan="2"><s>**Lado Esquerdo**</s></td><td rowspan="2"><s>**Confr. Lado Esquerdo**</s></td><td colspan="2" rowspan="2"><s>**Chanfro**</s></td><td>&nbsp;</td></tr><tr><td>&nbsp;</td></tr><tr><td><s>Lote 01</s></td><td><s>Rua Madre Teresa de Calcutá</s></td><td><s>152,22</s></td><td><s>152,28</s></td><td><s>Rua das Pedras</s></td><td><s>86,97</s></td><td><s>Via de Pedrestre 1</s></td><td><s>96,43</s></td><td><s>Rua Padre Roque Continillo</s></td><td colspan="2"><s>7,07+ 7,05 + 6,87+ 7,27</s></td><td><s>16.437,34</s></td><td>&nbsp;</td></tr><tr><td><s>Área Institucional&nbsp;&nbsp; APM-01</s></td><td><s>Avenida Bela Vista</s></td><td><s>52,20</s></td><td><s>54,12</s></td><td><s>Via de Pedestre 1</s></td><td><s>32,77</s></td><td><s>Área Verde&nbsp;&nbsp;&nbsp;&nbsp; APM-02&nbsp;</s></td><td><s>22,82</s></td><td><s>Rua Madre Teresa de Calcutá</s></td><td colspan="2"><s>7,27+ 6,86</s></td><td><s>1.880,80</s></td><td>&nbsp;</td></tr><tr><td><s>Área Verde&nbsp;&nbsp;&nbsp;&nbsp; APM-02&nbsp;</s></td><td><s>Avenida Bela Vista</s></td><td><s>32,50</s></td><td><s>32,50</s></td><td><s>Via de Pedestre1</s></td><td><s>22,77</s></td><td><s>Rua das Pedras</s></td><td><s>32,77</s></td><td colspan="2"><s>Área Institucional&nbsp;&nbsp; APM-01</s></td><td><s>7,07+ 7,07</s></td><td><s>1.203,72</s></td><td>&nbsp;</td></tr><tr><td colspan="11"><s>&nbsp;**Área Total**</s></td><td><s>**19.521,86**</s></td><td>&nbsp;</td></tr></tbody></table>
 
-<table><tbody><tr><td colspan="11" style=" width:670px;  height:20px;   "><s><b>LISTAGEM DOS LOTES - QUADRA&nbsp; 02</b></s></td><td style=" height:20px;    width:0px">&nbsp;</td></tr><tr><td rowspan="3" style=" width:56px;  height:20px;   "><s><b>Lote</b></s></td><td colspan="9" style=" width:548px;  height:20px;   "><s><b>Dimensões Lineares e Confrontações dos Lotes (em metros)</b></s></td><td style=" width:66px;  height:20px;   "><s><b>Área&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (m²)</b></s></td><td style=" height:20px;    width:0px">&nbsp;</td></tr><tr><td rowspan="2" style=" width:76px;  height:29px;   "><s><b>Logradouro</b></s></td><td rowspan="2" style=" width:47px;  height:29px;   "><s><b>Frente</b></s></td><td rowspan="2" style=" width:47px;  height:29px;   "><s><b>Fundo</b></s></td><td rowspan="2" style=" width:76px;  height:29px;   "><s><b>Conf. Fundo</b></s></td><td rowspan="2" style=" width:47px;  height:29px;   "><s><b>Lado Direito</b></s></td><td rowspan="2" style=" width:76px;  height:29px;   "><s><b>Confr. Lado Direito</b></s></td><td rowspan="2" style=" width:57px;  height:29px;   "><s><b>Lado Esquerdo</b></s></td><td rowspan="2" style=" width:66px;  height:29px;   "><s><b>Confr. Lado Esquerdo</b></s></td><td rowspan="2" style=" width:57px;  height:29px;   "><s><b>Chanfro</b></s></td><td rowspan="2" style=" width:66px;  height:29px;   ">&nbsp;</td><td style=" height:29px;    width:0px">&nbsp;</td></tr><tr><td style=" height:29px;    width:0px">&nbsp;</td></tr><tr><td style=" width:56px;  height:61px;   "><s>Lote 01</s></td><td style=" width:76px;  height:61px;   "><s>Rua das Pedras</s></td><td style=" width:47px;  height:61px;   "><s>152,33</s></td><td style=" width:47px;  height:61px;   "><s>156,34</s></td><td style=" width:76px;  height:61px;   "><s>Rua Lince de Araújo</s></td><td style=" width:47px;  height:61px;   "><s>116,60</s></td><td style=" width:76px;  height:61px;   "><s>Via de Pedestre - 2</s></td><td style=" width:57px;  height:61px;   "><s>76,20</s></td><td style=" width:66px;  height:61px;   "><s>Rua Padre Roque Continillo</s></td><td style=" width:57px;  height:61px;   "><s>7,07 + 6,18 + 9,38 + 7,08</s></td><td style=" width:66px;  height:61px;   "><s>17.312,32</s></td><td style=" height:61px;    width:0px">&nbsp;</td></tr><tr><td style=" width:56px;  height:59px;   "><s>Área Institucional&nbsp;&nbsp;&nbsp;&nbsp; APM-03&nbsp;</s></td><td style=" width:76px;  height:59px;   "><s>Avenida Bela Vista</s></td><td style=" width:47px;  height:59px;   "><s>93,50</s></td><td style=" width:47px;  height:59px;   "><s>85,55</s></td><td style=" width:76px;  height:59px;   "><s>Via de Pedestre 2</s></td><td style=" width:47px;  height:59px;   "><s>23,72</s></td><td style=" width:76px;  height:59px;   "><s>Rua Lince de Araújo</s></td><td style=" width:57px;  height:59px;   "><s>32,77</s></td><td style=" width:66px;  height:59px;   "><s>Área Verde&nbsp; APM-04&nbsp;</s></td><td style=" width:57px;  height:59px;   "><s>6,18 + 7,86</s></td><td style=" width:66px;  height:59px;   "><s>3.073,05</s></td><td style=" height:59px;    width:0px">&nbsp;</td></tr><tr><td style=" width:56px;  height:56px;   "><s>Área Verde&nbsp; APM-04&nbsp;</s></td><td style=" width:76px;  height:56px;   "><s>Avenida Bela Vista</s></td><td style=" width:47px;  height:56px;   "><s>32,50</s></td><td style=" width:47px;  height:56px;   "><s>32,50</s></td><td style=" width:76px;  height:56px;   "><s>Via de Pedestre 2</s></td><td style=" width:47px;  height:56px;   "><s>32,77</s></td><td style=" width:76px;  height:56px;   "><s>Área Institucional&nbsp; APM-03</s></td><td style=" width:57px;  height:56px;   "><s>22,77</s></td><td style=" width:66px;  height:56px;   "><s>Rua das Pedras</s></td><td style=" width:57px;  height:56px;   "><s>7,07 + 7,07</s></td><td style=" width:66px;  height:56px;   "><s>1.203,72</s></td><td style=" height:56px;    width:0px">&nbsp;</td></tr><tr><td colspan="10" style=" width:604px;  height:20px;   "><s><b>Área Total</b></s></td><td style=" width:66px;  height:20px;   "><s><b>21.589,09</b></s></td><td style=" height:20px;    width:0px">&nbsp;</td></tr></tbody></table>
+<table><tbody><tr><td colspan="11"><s>**LISTAGEM DOS LOTES - QUADRA&nbsp; 02**</s></td><td>&nbsp;</td></tr><tr><td rowspan="3"><s>**Lote**</s></td><td colspan="9"><s>**Dimensões Lineares e Confrontações dos Lotes (em metros)**</s></td><td><s>**Área&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (m²)**</s></td><td>&nbsp;</td></tr><tr><td rowspan="2"><s>**Logradouro**</s></td><td rowspan="2"><s>**Frente**</s></td><td rowspan="2"><s>**Fundo**</s></td><td rowspan="2"><s>**Conf. Fundo**</s></td><td rowspan="2"><s>**Lado Direito**</s></td><td rowspan="2"><s>**Confr. Lado Direito**</s></td><td rowspan="2"><s>**Lado Esquerdo**</s></td><td rowspan="2"><s>**Confr. Lado Esquerdo**</s></td><td rowspan="2"><s>**Chanfro**</s></td><td rowspan="2">&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td></tr><tr><td><s>Lote 01</s></td><td><s>Rua das Pedras</s></td><td><s>152,33</s></td><td><s>156,34</s></td><td><s>Rua Lince de Araújo</s></td><td><s>116,60</s></td><td><s>Via de Pedestre - 2</s></td><td><s>76,20</s></td><td><s>Rua Padre Roque Continillo</s></td><td><s>7,07 + 6,18 + 9,38 + 7,08</s></td><td><s>17.312,32</s></td><td>&nbsp;</td></tr><tr><td><s>Área Institucional&nbsp;&nbsp;&nbsp;&nbsp; APM-03&nbsp;</s></td><td><s>Avenida Bela Vista</s></td><td><s>93,50</s></td><td><s>85,55</s></td><td><s>Via de Pedestre 2</s></td><td><s>23,72</s></td><td><s>Rua Lince de Araújo</s></td><td><s>32,77</s></td><td><s>Área Verde&nbsp; APM-04&nbsp;</s></td><td><s>6,18 + 7,86</s></td><td><s>3.073,05</s></td><td>&nbsp;</td></tr><tr><td><s>Área Verde&nbsp; APM-04&nbsp;</s></td><td><s>Avenida Bela Vista</s></td><td><s>32,50</s></td><td><s>32,50</s></td><td><s>Via de Pedestre 2</s></td><td><s>32,77</s></td><td><s>Área Institucional&nbsp; APM-03</s></td><td><s>22,77</s></td><td><s>Rua das Pedras</s></td><td><s>7,07 + 7,07</s></td><td><s>1.203,72</s></td><td>&nbsp;</td></tr><tr><td colspan="10"><s>**Área Total**</s></td><td><s>**21.589,09**</s></td><td>&nbsp;</td></tr></tbody></table>
 
 ~~ANEXO II~~
 
@@ -104,4 +216,4 @@ do Registro de Imóveis e 1º Tabelionato de Notas de Aparecida de Goiânia~~
 
 ~~IV - Sistema de Esgotamento Sanitário, no valor de R$ 437.640,10 (quatrocentos e trinta e sete mil seiscentos e quarenta reais e dez centavos).~~
 
-~~Total Geral: R$ 3.496.287,81 (três milhões quatrocentos e noventa e seis mil duzentos e oitenta e sete reais e oitenta e um centavos).~~<br>
+~~Total Geral: R$ 3.496.287,81 (três milhões quatrocentos e noventa e seis mil duzentos e oitenta e sete reais e oitenta e um centavos).~~

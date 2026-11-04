@@ -1,5 +1,3 @@
-###DEC-059848-0-000-23-12-1966@@@
-
 DECRETO Nº 59.848, DE 23 DE DEZEMBRO DE 1966.
 
 Concede reconhecimento a Faculdade de Filosofia de Campo Grande, no Estado da Guanabara.

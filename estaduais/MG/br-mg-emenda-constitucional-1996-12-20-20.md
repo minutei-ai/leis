@@ -29,7 +29,3 @@ Deputado Paulo Pettersen - 3º-Vice-Presidente
 Deputado Rêmolo Aloise - 1º-Secretário
 
 Deputada Maria José Haueisen - 2ª-Secretária
-
-\================================================================
-
-Data da última atualização: 27/12/2010.

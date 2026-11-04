@@ -1,7 +1,3 @@
-1
-
-###DEC-001680-0-000-18-10-1995@@@
-
 DECRETO Nº 1.680, DE OUTUBRO DE 1995.
 
 Dispõe sobre a competência, a composição e o funcionamento do Conselho Consultivo da Coordenadoria Nacional para Integração da Pessoa Portadora de Deficiência - CORDE.

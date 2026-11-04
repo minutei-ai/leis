@@ -1,5 +1,3 @@
-###DEC-056704-0-000-10-08-1965@@@
-
 decreto nº 56.704, de 10 de agôsto de 1965.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno necessária à construção do açude público Arapiraca, no Município de Arapiraca, no Estado de Alagoas.

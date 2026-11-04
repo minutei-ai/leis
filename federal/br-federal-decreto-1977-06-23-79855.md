@@ -1,5 +1,3 @@
-###DEC-079855-0-000-23-06-1977@@@
-
 Decreto nº 79.855, de 23 de junho de 1977
 
 Concede reconhecimento ao curso de Pedagogia, do Centro de Ensino Superior de Chapecó, com sede na cidade de Chapecó, Estado de Santa Catarina.

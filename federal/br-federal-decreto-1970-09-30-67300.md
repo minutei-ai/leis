@@ -1,5 +1,3 @@
-###DEC-067300-0-000-30-09-1970@@@
-
 DECRETO Nº 67.300, DE 30 DE SETEMBRO DE 1970.
 
 Dispõe sôbre o Conselho Nacional de Saúde e dá outras providências.

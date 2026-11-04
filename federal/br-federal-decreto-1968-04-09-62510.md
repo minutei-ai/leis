@@ -1,5 +1,3 @@
-###DEC-062510-0-000-09-04-1968@@@
-
 decreto nº 62.510, de 9 de abril de 1968.
 
 Declara de utilidade pública a “Congregação Missionária Redentorista”, com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

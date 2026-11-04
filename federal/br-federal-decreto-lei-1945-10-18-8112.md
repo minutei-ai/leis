@@ -1,5 +1,3 @@
-###DEL-008112-0-000-18-10-1945@@@
-
 DECRETO-LEI  N. 8.112 – DE 18 DE OUTUBRO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 100.000,00, à verba que especifica

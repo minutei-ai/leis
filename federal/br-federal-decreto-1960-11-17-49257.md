@@ -1,5 +1,3 @@
-###DEC-049257-0-000-17-11-1960@@@
-
 DECRETO Nº 49.257, DE 17 DE NOVEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro João Jovino Mora a pesquisar pedras coradas, no município de Galiléia, Estado de Minas Gerais.

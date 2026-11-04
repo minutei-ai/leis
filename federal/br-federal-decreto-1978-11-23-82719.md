@@ -1,5 +1,3 @@
-###DEC-082719-0-000-23-11-1978@@@
-
 DECRETO Nº 82.719, de 23 de novembro de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município do Recife, Estado de Pernambuco.

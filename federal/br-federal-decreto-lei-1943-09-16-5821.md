@@ -1,5 +1,3 @@
-###DEL-005821-0-000-16-09-1943@@@
-
 DECRETO‑LEI N. 5.821 – DE 16 DE SETEMBRO DE 1943
 
 Dispõe sôbre dissídio coletivo enquanto perdurar o estado de guerra

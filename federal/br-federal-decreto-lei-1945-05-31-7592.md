@@ -1,5 +1,3 @@
-###DEL-007592-0-000-31-05-1945@@@
-
 DECRETO-LEI N. 7.592 – DE 31 DE MAIO DE 1945
 
 Altera um dispositivo da Lei de Organização dos Quadros e Efetivos de Exército

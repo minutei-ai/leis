@@ -1,5 +1,3 @@
-###DEC-071054-0-000-31-08-1972@@@
-
 DECRETO Nº 71.054, DE 31 DE AGOSTO DE 1972.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Estado do Ceará.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098964-0-000-16-02-1990@@@
-
 DECRETO N° 98.964, DE 16 DE FEVEREIRO DE l990
 
 Institui o Programa Nacional de Bibliotecas de Instituições de Ensino Superior.

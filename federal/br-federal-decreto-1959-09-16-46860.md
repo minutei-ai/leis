@@ -1,5 +1,3 @@
-###DEC-046860-0-000-16-09-1959@@@
-
 DECRETO Nº 46.860, DE 16 DE SETEMBRO DE 1959.
 
 Autoriza a cessão, sob o regime de aforamento, dos terrenos que menciona, situados no Distrito Federal.

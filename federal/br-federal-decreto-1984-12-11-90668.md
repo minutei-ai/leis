@@ -1,5 +1,3 @@
-###DEC-090668-0-000-11-12-1984@@@
-
 Decreto nº 90.668, de 11 de dezembro de 1984
 
 Outorga concessão à Rádio INGAZEIRA DE PAULISTANA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Paulistana, Estado do Piauí.

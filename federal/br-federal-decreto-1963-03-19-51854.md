@@ -1,5 +1,3 @@
-###DEC-051854-0-000-19-03-1963@@@
-
 DECRETO Nº 51.854, DE 19 DE MARÇO DE 1963.
 
 Altera o Quadro de Pessoal do Departamento Nacional de Estradas de Rodagem.

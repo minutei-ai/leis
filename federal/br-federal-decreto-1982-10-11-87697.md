@@ -1,5 +1,3 @@
-###DEC-087697-0-000-11-10-1982@@@
-
 Decreto nº 87.697, de 11 de outubro de 1982
 
 Fixa o limite do Capital Autorizado da Companhia Rio-Grandense de Nitrogenados - CRN.

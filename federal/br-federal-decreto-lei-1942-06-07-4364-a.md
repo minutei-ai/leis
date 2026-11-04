@@ -1,5 +1,3 @@
-###DEL-004364-A-000-07-06-1942@@@
-
 DECRETO-LEI N. 4.364“A” – DE 7 DE JUNHO DE 1942
 
 Dispõe sobre o funcionamento da Caixa de Mobilização Bancária, e dá outras providências

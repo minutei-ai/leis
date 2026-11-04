@@ -1,5 +1,3 @@
-###DEC-054075-0-000-30-07-1964@@@
-
 DECRETO Nº 54.075, DE 30 DE JULHO DE 1964.
 
 Promulga o Acôrdo Básico de Cooperação Técnica Brasil-República Federal Alemã.
@@ -128,4 +126,20 @@ O presente Acôrdo aplicar-se-á igualmente ao “Land” Berlim, a menos que, d
 
 Em, fé do que, os Representantes acima nomeados firmaram o presente Acôrdo e nêle apuseram os seus sêlos, em quatro exemplares, igualmente autêntico, dos quais dois em idioma português e dois em idioma alemão, na cidade de Bonn aos trinta dia do mês de novembro do ano de mil novecentos e sessenta três.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:258.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Govêrno dos Estados Unidos do Brasil</span></p></td><td style="width:165.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Egydio Michaelsen</span></p></td></tr><tr><td style="width:258.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Govêrno da República Federal da Alemanha</span></p></td><td style="width:165.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Schröeder</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:258.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Govêrno dos Estados Unidos do Brasil
+
+</td><td style="width:165.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Egydio Michaelsen
+
+</td></tr><tr><td style="width:258.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Govêrno da República Federal da Alemanha
+
+</td><td style="width:165.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Schröeder
+
+</td></tr></tbody></table>

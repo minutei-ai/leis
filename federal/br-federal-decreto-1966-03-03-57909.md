@@ -1,5 +1,3 @@
-###DEC-057909-0-000-03-03-1966@@@
-
 decreto nº 57.909, de 3 de março de 1966.
 
 Transfere imóveis e benfeitorias pertencentes à Comissão Executiva dos Produtos da Mandioca em liquidação, Ministério da Agricultura para a Companhia Brasileira de Armazenamento - CIBRAZEM e dá outras providências.

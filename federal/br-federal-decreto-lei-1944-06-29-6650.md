@@ -1,5 +1,3 @@
-###DEL-006650-0-000-29-06-1944@@@
-
 DECRETO-LEI N. 6.650 – DE 29 DE JUNHO DE 1944
 
 Dispõe sôbre as obrigações em moeda estrangeira e dá outras providências

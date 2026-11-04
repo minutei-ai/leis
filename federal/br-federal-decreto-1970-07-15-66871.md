@@ -1,5 +1,3 @@
-###DEC-066871-0-000-15-07-1970@@@
-
 Decreto nº 66.871, de 15 de julho de 1970.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Ubá, M. G.

@@ -1,5 +1,3 @@
-###DEL-004930-0-000-06-11-1942@@@
-
 DECRETO-LEI N. 4.930 – DE 6 DE NOVEMBRO DE 1942
 
 Dispõe sobre o tempo passado por oficiais superiores em comando de grandes unidades

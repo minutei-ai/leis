@@ -1,5 +1,3 @@
-###DEC-073709-0-000-01-03-1974@@@
-
 Decreto nº 73.709, de 1 de março de 1974.
 
 Concede autorização à Companhia Marlin Brazil Inc., para executar trabalhos de perfuração exploratória na plataforma continental, a serviço da Petróleo Brasileiro S. A..- PETROBRÁS.

@@ -1,5 +1,3 @@
-###DEC-062482-0-000-28-03-1968@@@
-
 DECRETO Nº 62.482, DE 28 DE MARÇO DE 1968.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, a área de terreno que específica, correspondente às bacias hidráulica e de irrigação do Açude Público São Mamede, Estado da Paraíba.

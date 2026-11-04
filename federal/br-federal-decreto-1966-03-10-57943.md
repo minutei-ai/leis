@@ -1,5 +1,3 @@
-###DEC-057943-0-000-10-03-1966@@@
-
 DECRETO Nº 57.943, DE 10 DE MARÇO DE 1966.
 
 Promulga o Acôrdo de Garantia de Investimentos com os Estados Unidos da América.

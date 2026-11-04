@@ -8,7 +8,8 @@ O PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA, no uso de suas atribuições conf
 
 Art. l° - Ficam nomeados os membros da Comissão Permanente de Avaliação e Desempenho dos Servidores de Carreira da Secretaria Municipal de Saúde de Aparecida de Goiânia/GO, conforme relacionado abaixo:
 
-I – EURIDES SANTOS PINHO – Matrícula n° 30.048 – Presidente da Comissão;<br>
+I – EURIDES SANTOS PINHO – Matrícula n° 30.048 – Presidente da Comissão;
+
 (Redação alterada pelo Decreto "N" nº 145, de 14 de março de 2024)
 
 ~~I-    Wilma Dias de Sousa França – Matrícula nº 34.903 - Presidente da Comissão;~~
@@ -23,11 +24,14 @@ Aparecida de Goiânia, Estado de Goiás, aos 28 de setembro de 2023.
 
  
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária Interina de Governo
 
-ALESSANDRO MAGALHÃES<br>
-Secretário Municipal de Saúde<br>
+ALESSANDRO MAGALHÃES
+
+Secretário Municipal de Saúde

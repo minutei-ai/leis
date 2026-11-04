@@ -1,5 +1,3 @@
-###DEC-098554-0-000-14-12-1989@@@
-
 DECRETO Nº 98.554, DE 14 DE DEZEMBRO DE 1989
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados, da Faculdade de Tecnologia em Processamento de Dados, em Araçatuba São Paulo.

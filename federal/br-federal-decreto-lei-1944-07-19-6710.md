@@ -1,5 +1,3 @@
-###DEL-006710-0-000-19-07-1944@@@
-
 DECRETO-LEI N. 6.710 – DE 19 DE JULHO DE 1944
 
 Eleva os vencimentos mensais dos Diretores da Estrada de Ferro Noroeste do Brasil e da Rêde de Viação Parana-Santa Catarina

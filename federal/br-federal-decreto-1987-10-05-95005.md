@@ -1,5 +1,3 @@
-###DEC-095005-0-000-05-10-1987@@@
-
 DECRETO Nº 95.005, DE 5 DE OUTUBRO DE 1987
 
 Autoriza o funcionamento do curso de Ciências da Computação da Sociedade Unificada Paulista de Ensino Renovado Objetivo.

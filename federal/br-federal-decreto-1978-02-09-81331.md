@@ -1,5 +1,3 @@
-###DEC-081331-0-000-09-02-1978@@@
-
 Decreto nº 81.331, de 9 de fevereiro de 1978.
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados no Município de Água Preta, Estado de Pernambuco, compreendidos na área prioritária de reforma agrária, de que trata o Decreto nº 56.583, de 19/7/65, com prazo de intervenção governamental prorrogado, sucessivamente, pelos Decretos nºs 68.085, de 19/01/71, e 75.147, de 27/12/74.

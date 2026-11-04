@@ -1,5 +1,3 @@
-###DEL-006266-0-000-11-02-1944@@@
-
 DECRETO-LEI N. 6.266 – DE 11 DE FEVEREIRO DE 1944
 
 Cria uma coletoria federal no município de Astolfo Dutra, no Estado de Minas Gerais, e dá outras providências

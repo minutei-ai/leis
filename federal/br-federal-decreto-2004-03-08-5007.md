@@ -1,5 +1,3 @@
-###DEC-005007-0-000-08-03-2004@@@
-
 DECRETO Nº 5.007,  DE 8 DE MARÇO DE 2004.
 
 Promulga o Protocolo Facultativo à Convenção sobre os Direitos da Criança referente à venda de crianças, à prostitução infantil e à pornografia infantil.

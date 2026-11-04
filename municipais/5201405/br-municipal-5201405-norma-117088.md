@@ -34,11 +34,14 @@ Art. 2º. Esta Lei entrará em vigor a partir de sua publicação, revogando as 
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás aos 31 dias do mês de junho do ano de 2014.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-CARLOS EDUARDO DEE PAULA RODRIGUES<br>
+CARLOS EDUARDO DEE PAULA RODRIGUES
+
 Secretário Municipal da Fazenda

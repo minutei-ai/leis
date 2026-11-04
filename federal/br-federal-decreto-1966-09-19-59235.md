@@ -1,5 +1,3 @@
-###DEC-059235-0-000-19-09-1966@@@
-
 Decreto Nº 59.235, DE 19 DE SETEMBRO 1966.
 
 Define a conceituação de Aviação Civil de Pequeno Porte e dá outras providências.

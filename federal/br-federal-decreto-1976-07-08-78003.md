@@ -1,5 +1,3 @@
-###DEC-078003-0-000-08-07-1976@@@
-
 DECRETO Nº 78.003, DE 8 DE JULHO 1976.
 
 Concede reconhecimento ao curso de Engenharia de Operação, da Faculdade de Engenharia de Itaúna, com sede na Cidade de Itaúna, Minas Gerais.

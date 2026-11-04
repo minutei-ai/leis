@@ -1,5 +1,3 @@
-###DEC-047873-0-000-08-03-1960@@@
-
 Decreto nº 47.873, de 8 de março de 1960.
 
 Transfere da Prefeitura Municipal de Guaíba, Estado do Rio Grande do Sul para Comissão Estadual de Energia Elétrica a concessão para a produção e fornecimento de energia elétrica ao município de Guaíba, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-046397-0-000-09-07-1959@@@
-
 DECRETO Nº 46.397, DE 9 DE JULHO DE 1959.
 
 Declara de utilidade pública a Santa Casa de Misericórdia do Rio de Janeiro, com sede no Distrito Federal.

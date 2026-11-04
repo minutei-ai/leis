@@ -1,5 +1,3 @@
-###DEC-092878-0-000-30-06-1986@@@
-
 DECRETO Nº 92.878, DE 30 DE JUNHO DE 1986
 
 Altera disposição do Decreto nº 86.829, de 12 de janeiro de 1982, referente à criação da comissão nacional para Assuntos Antárticos e do Decreto nº 87.217, de 31 de maio de 1982, que inclui o Ministério da Educação e Cultura naquela Comissão.

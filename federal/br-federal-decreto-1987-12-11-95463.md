@@ -1,5 +1,3 @@
-###DEC-095463-0-000-11-12-1987@@@
-
 DECRETO Nº 95.463, DE 11 DE DEZEMBRO DE 1987
 
 Renova a concessão outorgada à EDINNOL - EMPRESA DIVULGADORA NOVO NORDESTE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Arapiraca, Estado de Alagoas.

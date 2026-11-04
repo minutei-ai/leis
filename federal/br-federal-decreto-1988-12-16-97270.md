@@ -1,5 +1,3 @@
-###DEC-097270-0-000-16-12-1988@@@
-
 DECRETO Nº 97.270, DE 16 DE DEZEMBRO DE 1988
 
 Dispõe sobre a isenção do IPI dos produtos destinados à construção, instalação, ampliação ou modernização de sedes de embaixada e repartições consulares.

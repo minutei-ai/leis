@@ -1,5 +1,3 @@
-###DEC-070518-0-000-12-05-1972@@@
-
 DECRETO Nº 70.518, DE 12 DE MAIO DE 1972.
 
 Redistribui, com o respectivo ocupante, para o Ministério da Educação e Cultura, cargo do Ministério da Agricultura, e dá outras providências.

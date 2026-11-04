@@ -1,5 +1,3 @@
-###DEC-066978-0-000-28-07-1970@@@
-
 DECRETO Nº 66.978, DE 28 DE JULHO DE 1970.
 
 Declara de utilidade pública, para fins de desapropriação ou instituição de servidão de passagem em favor da Petróleo Brasileiro S. A. - PETROBRÁS, imóveis, terras e demais benfeitorias situados em diversos municípios do Estado de São Paulo.

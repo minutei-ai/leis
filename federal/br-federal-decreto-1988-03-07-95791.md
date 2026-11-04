@@ -1,7 +1,3 @@
-1
-
-###DEC-095791-0-000-07-03-1988@@@
-
 DECRETO N° 95.791, DE 7 DE MARÇO DE 1988
 
 Renova a concessão outorgada à RÁDIO VICENTE PALLOTTI LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Coronel Vivida, Estado do Paraná.

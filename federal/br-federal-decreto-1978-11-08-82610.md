@@ -1,5 +1,3 @@
-###DEC-082610-0-000-08-11-1978@@@
-
 Decreto nº 82.610, de 08 de novembro de 1978.
 
 Retifica a concessão de lavra outorgada à Companhia Siderúrgica Paulista - COSIPA pelo Decreto nº 78.795, de 22 de novembro de 1976, retificado pelo Decreto nº 81.622, de 03 de maio de 1978.

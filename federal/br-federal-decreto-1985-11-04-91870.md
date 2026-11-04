@@ -1,5 +1,3 @@
-###DEC-091870-0-000-04-11-1985@@@
-
 Decreto nº 91.870, de 4 de novembro de 1985.
 
 Cria o Grupamento de Fuzileiros Navais de Manaus e dá outras Providências

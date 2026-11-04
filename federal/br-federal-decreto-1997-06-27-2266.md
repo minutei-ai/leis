@@ -1,5 +1,3 @@
-###DEC-002266-0-000-27-06-1997@@@
-
 DECRETO Nº 2.266 DE 27 DE JUNHO DE 1997
 
 Prorroga o prazo de remanejamento dos cargos que menciona.

@@ -1,26 +1,31 @@
-LEI Nº 23.232, DE 16 DE JANEIRO DE 2025<br>
+LEI Nº 23.232, DE 16 DE JANEIRO DE 2025
+
  
 
 Altera a [Lei nº 18.464](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90686/lei-18464), de 13 de maio de 2014, que dispõe sobre o Plano de Cargos e Remuneração do Quadro Transitório da Secretaria de Estado da Saúde e dá outras providências.
 
 A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:
 
-Art. 1º Os Capítulos II, III e V da [Lei nº 18.464](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90686/lei-18464), de 13 de maio de 2014, passam a vigorar com as seguintes denominações:<br>
+Art. 1º Os Capítulos II, III e V da [Lei nº 18.464](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90686/lei-18464), de 13 de maio de 2014, passam a vigorar com as seguintes denominações:
+
  
 
 "CAPÍTULO II
 
-DA EVOLUÇÃO FUNCIONAL DO QUADRO TRANSITÓRIO" (NR)<br>
+DA EVOLUÇÃO FUNCIONAL DO QUADRO TRANSITÓRIO" (NR)
+
  
 
 "CAPÍTULO III
 
-DA ESTRUTURA DA CARREIRA DO QUADRO TRANSITÓRIO" (NR)<br>
+DA ESTRUTURA DA CARREIRA DO QUADRO TRANSITÓRIO" (NR)
+
  
 
 "CAPÍTULO V
 
-DO ENQUADRAMENTO DA CARREIRA DO QUADRO TRANSITÓRIO" (NR)<br>
+DO ENQUADRAMENTO DA CARREIRA DO QUADRO TRANSITÓRIO" (NR)
+
  
 
 Art. 2º A [Lei nº 18.464](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90686/lei-18464), de 2014, passa a vigorar com as seguintes alterações:

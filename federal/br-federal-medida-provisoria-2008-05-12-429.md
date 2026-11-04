@@ -1,5 +1,3 @@
-###MPV-000429-0-000-12-05-2008@@@
-
 MEDIDA PROVISÓRIA Nº 429, DE 12 DE MAIO DE 2008.
 
 Autoriza a União a participar em Fundo de Garantia para a Construção Naval - FGCN, para a formação de seu patrimônio, e dá outras providências.
@@ -163,5 +161,3 @@ Guido Mantega
 Carlos Lupi
 
 Miguel Jorge
-
-Este texto não substitui o publicado no DOU de 13.5.2008

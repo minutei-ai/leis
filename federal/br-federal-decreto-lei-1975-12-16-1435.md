@@ -1,5 +1,3 @@
-###DEL-001435-0-000-16-12-1975@@@
-
 # DECRETO-LEI Nº 1.435, DE 16 De DEZEMBRO DE 1975
 
 Altera a redação dos artigos 7º do Decreto-lei nº 288, de 28 de fevereiro de 1967, e 2º do Decreto-lei nº 356, de 15 de agosto de 1968, e dá outras providências.

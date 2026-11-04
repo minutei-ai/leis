@@ -1,5 +1,3 @@
-###DEC-096040-0-000-17-05-1988@@@
-
 DECRETO N° 96.040, DE 17 DE MAIO DE 1988
 
 Autoriza o funcionamento do curso de Ciências da Faculdade Renato Cozzolino, em Magé, Rio de Janeiro.

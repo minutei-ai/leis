@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/9ccd472c-60b0-4c43-9c37-16c75a4cfda2/texto#nowhere)
 
-###LCP-000045-0-000-14-12-1983@@@
-
 # LEI COMPLEMENTAR Nº 45, DE 14 DE DEZEMBRO DE 1983
 
 Estabelece critério para a remuneração de Vereadores.

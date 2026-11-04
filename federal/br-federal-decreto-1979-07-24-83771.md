@@ -1,5 +1,3 @@
-###DEC-083771-0-000-24-07-1979@@@
-
 DECRETO Nº 83.771, DE 24 DE JULHO DE 1979.
 
 Autoriza o Serviço do Patrimônio da União a formalizar a não aceitação da doação do terreno que menciona, situado no Município de Itaúna, Estado de Minas Gerais.

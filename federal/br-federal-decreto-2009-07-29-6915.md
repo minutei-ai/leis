@@ -1,5 +1,3 @@
-###DEC-006915-0-000-29-07-2009@@@
-
 DECRETO Nº 6.915, DE 29 DE JULHO DE 2009.
 
 Regulamenta o art. 33 da Medida Provisória no 2.186-16, de 23 de agosto de 2001.

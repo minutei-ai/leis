@@ -1,5 +1,3 @@
-###DEC-052865-0-000-18-11-1963@@@
-
 decreto nº 52.865, de 18 de novembro de 1963.
 
 Concede à Navegação Riograndense Ltda. autorização para continuar a funcionar como emprêsa de navegação de cabotagem, sob a nova forma social de Navegação Riograndense S.A.

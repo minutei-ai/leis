@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59867)
-
 # LEI Nº 12.188, DE 06 DE JANEIRO DE 2006
 
 ### _Autoriza o Poder Executivo a extinguir a Faculdade de Medicina de Marília - FAMEMA, e dá outras providências correlatas_

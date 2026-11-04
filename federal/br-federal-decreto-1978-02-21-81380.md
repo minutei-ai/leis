@@ -1,5 +1,3 @@
-###DEC-081380-0-000-21-02-1978@@@
-
 Decreto nº 81.380, de 21 de fevereiro de 1978.
 
 Autoriza o aterro de área em mar e a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Niterói, Estado do Rio de Janeiro.

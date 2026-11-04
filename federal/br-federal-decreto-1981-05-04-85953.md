@@ -1,5 +1,3 @@
-###DEC-085953-0-000-04-05-1981@@@
-
 DECRETO Nº 85.953, de 04 DE MAIO DE 1981.
 
 Autoriza a elevação do capital social da Forjas Acesita S.A. e dá outras providências.

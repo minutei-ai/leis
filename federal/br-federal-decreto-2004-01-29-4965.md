@@ -1,5 +1,3 @@
-###DEC-004965-0-000-29-01-2004@@@
-
 DECRETO Nº 4.965, DE 29 DE JANEIRO DE 2004.
 
 Fixa coeficiente para redução das alíquotas específicas do PIS/PASEP e da COFINS de que tratam os arts. 51 e 52 da Lei nº 10.833, de 2003.

@@ -1,5 +1,3 @@
-###DEL-008556-0-000-04-01-1946@@@
-
 DECRETO-LEI N. 8.556 – DE 4 DE JANEIRO DE 1946
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 470.000,00, para pagamento de abono de emergência ao pessoal da Estrada de Ferro Madeira-Mamoré.

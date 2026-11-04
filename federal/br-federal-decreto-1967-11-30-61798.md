@@ -1,5 +1,3 @@
-###DEC-061798-0-000-30-11-1967@@@
-
 DECRETO Nº 61.798, DE 30 DE NOVEMBRO DE 1967.
 
 Dispõe sôbre os Fundos de Estímulo extintos pelo item V do art. 104, do Decreto-lei nº 200, de 25 de fevereiro de 1967.

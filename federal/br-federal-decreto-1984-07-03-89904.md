@@ -1,5 +1,3 @@
-###DEC-089904-0-000-03-07-1984@@@
-
 Decreto nº 89.904, de 03 de julho de 1984
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Paranaíba, no Estado de Mato Grosso do Sul.

@@ -1,7 +1,3 @@
-1
-
-###MPV-000867-0-000-27-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 867, DE 27 DE JANEIRO DE 1995
 
 Cria a Gratificação de Desempenho e Produtividade (GDP) das atividades de finanças, controle, orçamento e planejamento, e dá outras providências.

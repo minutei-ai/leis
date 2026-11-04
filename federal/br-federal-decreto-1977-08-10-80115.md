@@ -1,5 +1,3 @@
-###DEC-080115-0-000-10-08-1977@@@
-
 DECRETO Nº 80.115, DE 10 DE AGOSTO DE 1977.
 
 Concede a Joaquim Teixeira Dias, firma individual, o direito de lavrar areia no Município de Belo Horizonte, Estado de Minas Gerais.

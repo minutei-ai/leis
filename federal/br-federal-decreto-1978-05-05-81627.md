@@ -1,5 +1,3 @@
-###DEC-081627-0-000-05-05-1978@@@
-
 Decreto nº 81.627, de 05 de maio de 1978
 
 Altera dispositivos do Estatuto do Hospital de Clínicas de Porto Alegre, aprovado pelo Decreto nº 68.930, de 16 de julho de 1971, alterado pelo Decreto nº 80.022, de 26 de julho de 1977.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209940)<br>
-
 # DECRETO N° 68.848, DE 09 DE SETEMBRO DE 2024
 
 ### _Autoriza a outorga de uso, em favor da empresa Trapézio Produções Culturais Ltda, de parte do imóvel que especifica, e dá providências correlatas._

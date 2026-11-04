@@ -1,7 +1,3 @@
-1
-
-###DEC-099453-0-000-15-08-1990@@@
-
 DECRETO N° 99.453, DE 15 DE AGOSTO DE 1990
 
 Cria grupo de trabalho com a finalidade de elaborar projeto de reestruturação do modelo institucional e econômico‑financeiro para o relacionamento das entidades integrantes do setor de energia elétrica.

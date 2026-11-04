@@ -1,5 +1,3 @@
-###DEC-059795-0-000-19-12-1966@@@
-
 DECRETO Nº 59.795, DE 19 DE DEZEMBRO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação ou constituição de servidão, em favor da Rio Light S.A. - Serviços de Eletricidade - faixa de terra situada no Estado da Guanabara, e dá outras providências.

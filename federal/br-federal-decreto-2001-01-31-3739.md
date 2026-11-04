@@ -1,5 +1,3 @@
-###DEC-003739-0-000-31-01-2001@@@
-
 DECRETO Nº 3.739, DE 31 DE JANEIRO DE 2001
 
 Dispõe sobre o cálculo da tarifa atualizada de referência para compensação financeira pela utilização de recursos hídricos, de que trata a Lei nº 7.990, de 28 de dezembro de 1989, e da contribuição de reservatórios de montante para a geração de energia hidrelétrica, de que trata a Lei nº 8.001, de 13 de março de 1990, e dá outras providências.

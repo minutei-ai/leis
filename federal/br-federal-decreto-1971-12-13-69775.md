@@ -1,5 +1,3 @@
-###DEC-069775-0-000-13-12-1971@@@
-
 DECRETO Nº 69.775 - DE 13 DE DEZEMBRO DE 1971
 
 Dispõe sôbre a entrega, nos exercícios de 1972 e 1973, das quotas do Fundo de Participação dos Estados, do Distrito Federal e dos Territórios e do Fundo de Participação dos Municípios, e dá outras providências.

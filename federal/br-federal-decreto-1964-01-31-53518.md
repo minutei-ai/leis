@@ -1,5 +1,3 @@
-###DEC-053518-0-000-31-01-1964@@@
-
 DECRETO Nº 53.518, DE 31 DE JANEIRO DE 1964.
 
 Aprova as novas razões percentuais para efeito de cálculo da parte variável da remuneração dos Agentes Fiscais do Impôsto de Consumo.

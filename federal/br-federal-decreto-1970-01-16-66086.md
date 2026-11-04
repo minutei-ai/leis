@@ -1,5 +1,3 @@
-###DEC-066086-0-000-16-01-1970@@@
-
 decreto nº 66.086 - de 16 de janeiro de 1970
 
 Declara de utilidade pública a "Casa de Caridade Santa Teresa", com sede na cidade de Sêrro, Estado de Minas Gerais.

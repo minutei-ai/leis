@@ -1,5 +1,3 @@
-###DEC-080749-0-000-16-11-1977@@@
-
 Decreto nº 80.749, de 16 de novembro de 1977.
 
 Declara sem efeito o Decreto nº 53 020, de 27 de novembro de 1963, que autorizou o cidadão brasileiro David Paulo Dana a lavrar diamante e ouro no Município de Itupiranga, no Estado do Pará.

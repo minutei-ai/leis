@@ -1,7 +1,3 @@
-1
-
-###DEC-085808-0-000-11-03-1981@@@
-
 Decreto nº 85.808, de 11 de marÇo de 1981.
 
 Concede à Telecomunicações do Ceará S.A. - TELECEARÁ, empresa controlada da TELECOMUNICAÇÕES BRASILEIRAS S.A. -TELEBRÁS, autorização para promover o aumento do seu capital social.

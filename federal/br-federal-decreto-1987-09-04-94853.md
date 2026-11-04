@@ -1,5 +1,3 @@
-###DEC-094853-0-000-04-09-1987@@@
-
 DECRETO N° 94.853, DE 4 DE SETEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais constituídos dos lotes 89, 90 (parte), e 100, do Setor 11 da Gleba Corumbiara, classificados no Cadastro de Imóveis do INCRA como latifúndio por exploração, situado no Município de Vilhena no Estado de Rondônia, compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.684, de 19 de maio de 1986, e dá outras providências.

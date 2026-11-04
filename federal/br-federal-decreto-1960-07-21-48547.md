@@ -1,5 +1,3 @@
-###DEC-048547-0-000-21-07-1960@@@
-
 DECRETO Nº 48.547, DE 21 DE JULHO DE 1960.
 
 Autoriza a Cia. Matogrominex-Mineração e Exportação Ltda. a pesquisar minério de ferro no município de Miranda, Estado de Mato Grosso.

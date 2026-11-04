@@ -1,5 +1,3 @@
-###DEC-056385-0-000-31-05-1965@@@
-
 DECRETO Nº 56.385, DE 31 DE MAIO DE 1965.
 
 Concede autorização à emprêsa S.A. Entreprises Ackermans & Van Haaren para operar em águas brasileiras, com equipamento de sua propriedade e respectivo pessoal, nos serviços de dragagem do Pôrto de Tubarão, no Estado do Espirito Santo.

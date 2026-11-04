@@ -1,5 +1,3 @@
-###DEC-074155-0-000-06-06-1974@@@
-
 DECRETO Nº 74.155, DE 6 DE JUNHO DE 1974.
 
 Dispõe sobre a Comissão Coordenadora da Política Nacional de Crédito Rural - COMCRED.

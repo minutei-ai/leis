@@ -1,5 +1,3 @@
-###DEL-007545-0-000-11-05-1945@@@
-
 DECRETO-LEI N. 7.545 – DE 11 DE MAIO DE 1945
 
 Altera a carreira de Arquivista do Quadro Permanente do Ministério da Justiça e Negócios Interiores

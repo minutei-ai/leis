@@ -1,5 +1,3 @@
-###DEC-074970-0-000-26-11-1974@@@
-
 DECRETO Nº 74.970, de 26 de Novembro de 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz, no Estado de São Paulo.

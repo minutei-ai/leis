@@ -1,5 +1,3 @@
-###DEL-002181-0-000-10-12-1984@@@
-
 # DECRETO-LEI Nº 2.181, DE 10 DE DEZEMBRO DE 1984
 
 Restabelece o incentivo fiscal de que trata o Decreto-lei nº 1.932/82.

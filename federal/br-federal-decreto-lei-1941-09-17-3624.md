@@ -1,5 +1,3 @@
-###DEL-003624-0-000-17-09-1941@@@
-
 DECRETO-LEI N. 3.624 – DE 17 DE SETEMBRO DE 1941
 
 Dá nova redação ao artigo 4º, do decreto-lei n. 3.118, de 14 de março de 1941

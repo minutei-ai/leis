@@ -1,5 +1,3 @@
-###DEC-050670-0-000-31-05-1961@@@
-
 DECRETO Nº 50.670, DE 31 DE MAIO DE 1961.
 
 Prorroga a vigência do Decreto nº 39.298, de 1 de junho de 1956, e dá outras providências.

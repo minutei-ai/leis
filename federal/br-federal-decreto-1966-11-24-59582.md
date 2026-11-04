@@ -1,5 +1,3 @@
-###DEC-059582-0-000-24-11-1966@@@
-
 decreto nº 59.582, de 24 de novembro De 1966.
 
 Declara de utilidade pública, a “Sociedade Conservatório Musical de Uberlândia”, com sede em Uberlândia Estado de Minas Gerais.

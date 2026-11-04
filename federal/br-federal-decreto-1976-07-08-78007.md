@@ -1,5 +1,3 @@
-###DEC-078007-0-000-08-07-1976@@@
-
 decreto nº 78.007, de 8 de julho de 1976.
 
 Concede reconhecimento ao curso de Filosofia da Faculdade de Filosofia, Ciências e Letras de Cajazeiras, com sede na cidade de Cajazeiras, Estado da Paraíba.

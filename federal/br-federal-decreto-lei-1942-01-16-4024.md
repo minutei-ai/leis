@@ -1,5 +1,3 @@
-###DEL-004024-0-000-16-01-1942@@@
-
 DECRETO-LEI N. 4.024 – DE 16 DE JANEIRO DE 1942
 
  Cria a Formação Sanitária da 7ª Região Militar

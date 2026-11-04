@@ -1,5 +1,3 @@
-###DEC-070320-0-000-23-03-1972@@@
-
 DECRETO Nº 70.320, DE 23 DE MARÇO DE 1972.
 
 Estabelece normas essenciais à implantação do sistema de classificação de cargos instituído pela Lei nº 5.645, de 10 de dezembro de 1970, e dá outras providências.

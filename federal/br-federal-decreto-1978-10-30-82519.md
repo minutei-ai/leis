@@ -1,5 +1,3 @@
-###DEC-082519-0-000-30-10-1978@@@
-
 Decreto nº 82. 519, de 30 de outubro de 1978.
 
 Concede reconhecimento ao curso de Arquitetura e Urbanismo, ministrado pela Faculdade Canoense de Arquitetura e Urbanismo, com sede na cidade de Canoas, Estado do Rio Grande do Sul.

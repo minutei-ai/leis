@@ -1,5 +1,3 @@
-###DEL-003494-0-000-13-08-1941@@@
-
 DECRETO-LEI N. 3.494 – DE 13 DE AGOSTO DE 1941
 
 Dispõe sobre a obrigatoriedade do uso de medidores automáticos, para o registo da produção, nas fábricas de aguardente e álcool, e dá outras providências.

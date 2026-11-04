@@ -1,5 +1,3 @@
-###DEC-045651-0-000-25-03-1959@@@
-
 DECRETO Nº 45.651, DE 25 DE MARÇO DE 1959.
 
 Altera o Regulamento para o Quadro de Práticos dos rios da Prata baixo e médio Paraná, Paraguai e costa.

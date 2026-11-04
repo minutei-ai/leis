@@ -4,17 +4,20 @@ Institui Regime Especial de Trabalho da Secretaria Municipal de Educação e Cul
 
 FAÇO SABER QUE A CAMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI COMPLEMENTAR:
 
-Art. 1º Fica instituído o Regime Especial de Trabalho da Secretaria Municipal de Educação de Aparecida de Goiânia para os servidores efetivos e contratados através de processo seletivo para o cargo de Agente Educativo, nos termos da Lei Complementar nº 95, de 17 de outubro de 2014, pelo efetivo cumprimento das atribuições.<br>
+Art. 1º Fica instituído o Regime Especial de Trabalho da Secretaria Municipal de Educação de Aparecida de Goiânia para os servidores efetivos e contratados através de processo seletivo para o cargo de Agente Educativo, nos termos da Lei Complementar nº 95, de 17 de outubro de 2014, pelo efetivo cumprimento das atribuições.
+
 (Redação dada pela Lei Complementar nº 240, de 13 de junho de 2025).
 
 ~~Art. 1º Fica instituído o Regime Especial de Trabalho da Secretaria Municipal de Educação e Cultura de Aparecida de Goiânia, para os servidores admitidos no cargo efetivo de Agente Educativo, e que foram enquadrados no cargo de Agente de Apoio Educacional, nos termos da Lei Complementar nº 95, de 17 de outubro de 2014, pelo efetivo cumprimento das atribuições.~~
 
 Parágrafo único. Por efetivo cumprimento das atribuições, será admitido somente o exercício concreto do trabalho, não sendo considerada para a concessão da gratificação prevista no art. 2º desta Lei qualquer espécie de afastamento, licença, cessão, férias e demais hipóteses previstas em lei, sendo relevadas somente até 3 (três) faltas durante o mês, desde que motivadas por doença comprovada por atestado médico, além das ausências previstas no art. 115 da Lei Complementar n° 003/2001 – Estatuto dos Servidores da Prefeitura e da Câmara de Aparecida de Goiânia.
 
-Art. 2º. O (a) servidor (a) em REGIME ESPECIAL DE TRABALHO perceberá gratificação correspondente a 2/3 do valor previsto para o cargo de Agente Educativo, nível I, Referência A, Conforme a tabela de Vencimentos dos Trabalhadores Administrativos da Educação, Anexo II da Lei Complementar nº 95, de 17 de outubro de 2014, desde que sua jornada diária de trabalho seja acrescida de 4 (quatro) horas em relação à jornada diária normal prevista para o cargo.<br>
+Art. 2º. O (a) servidor (a) em REGIME ESPECIAL DE TRABALHO perceberá gratificação correspondente a 2/3 do valor previsto para o cargo de Agente Educativo, nível I, Referência A, Conforme a tabela de Vencimentos dos Trabalhadores Administrativos da Educação, Anexo II da Lei Complementar nº 95, de 17 de outubro de 2014, desde que sua jornada diária de trabalho seja acrescida de 4 (quatro) horas em relação à jornada diária normal prevista para o cargo.
+
 (Redação alterada pela Lei Complementar nº 206, de 14 de abril de 2023).
 
-~~Art. 2º. O(a) servidor(a) em REGIME ESPECIAL DE TRABALHO perceberá gratificação correspondente ao valor de R$1.234,00, desde que sua jornada diária de trabalho seja acrescida de 4 (quatro) horas em relação à jornada diária normal prevista para o cargo.~~ <br>
+~~Art. 2º. O(a) servidor(a) em REGIME ESPECIAL DE TRABALHO perceberá gratificação correspondente ao valor de R$1.234,00, desde que sua jornada diária de trabalho seja acrescida de 4 (quatro) horas em relação à jornada diária normal prevista para o cargo.~~ 
+
 ~~(Redação alterada pela Lei Complementar nº 198, de 22 de junho de 2022).~~
 
 ~~Art. 2º O (a) servidor(a) em REGIME ESPECIAL DE TRABALHO perceberá gratificação no valor de R$ 1.000,00 (um mil reais), desde que sua jornada diária de trabalho seja acrescida de 4 (quatro) horas em relação à jornada diária normal prevista para o cargo.~~
@@ -27,11 +30,14 @@ Art. 4º Os critérios para seleção dos servidores para o REGIME ESPECIAL DE T
 
 Art. 5º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
-Gabinete do Prefeito Municipal de Aparecida de Goiânia, 08 de agosto de 2018.<br>
+Gabinete do Prefeito Municipal de Aparecida de Goiânia, 08 de agosto de 2018.
+
  
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil

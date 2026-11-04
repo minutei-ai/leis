@@ -1,5 +1,3 @@
-###DEC-075732-0-000-15-05-1975@@@
-
 DECRETO Nº 75.732, DE 15 DE MAIO DE 1975.
 
 Autoriza a concessão de auxílio da Reserva do Fundo Especial do Território Federal de Fernando de Noronha.

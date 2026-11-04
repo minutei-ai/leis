@@ -1,5 +1,3 @@
-###DEC-072789-0-000-13-09-1973@@@
-
 DECRETO Nº 72.789, DE 13 DE SETEMBRO DE 1973.
 
 Cria o Consulado Honorário do Brasil em São Pedro, Costa do Marfim.

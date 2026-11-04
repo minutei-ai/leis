@@ -1,5 +1,3 @@
-###DEC-054071-0-000-30-07-1964@@@
-
 DECRETO Nº 54.071, DE 30 DE JULHO DE 1964.
 
 Altera o Regulamento do Ensino Industrial, aprovado pelo Decreto número 47.038, de 16 de outubro de 1959, e modificado pelos de números 47.258, de 17 de novembro de 1959; 49.304, de 21 de novembro de 1960; 615, de 20 de fevereiro de 1962; 52.212, de 2 de julho de 1963 e 52.826 de 14 de novembro de 1963.

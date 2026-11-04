@@ -1,5 +1,3 @@
-###DEC-007260-0-000-11-08-2010-PUB-01@@@
-
 DECRETO Nº 7.260, DE 11 DE AGOSTO DE 2010.
 
 Acrescenta o § 5o ao art. 5o do Decreto no 6.990, de 27 de outubro de 2009, que regulamenta o art. 71 da Lei no 11.941, de 27 de maio de 2009.

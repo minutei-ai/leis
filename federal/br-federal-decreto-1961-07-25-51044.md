@@ -1,5 +1,3 @@
-###DEC-051044-0-000-25-07-1961@@@
-
 Decreto Nº 51.044, DE 25 DE JULHO DE 1961.
 
 Cria a Comissão de Reorganização do Ministério do Trabalho e Previdência Social e dá outras providências.

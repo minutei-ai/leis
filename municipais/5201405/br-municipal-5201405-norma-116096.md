@@ -4,7 +4,8 @@ LEI MUNICIPAL Nº 2.707 DE 18 DE DEZEMBRO DE 2007.
 
 Faço saber que a CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA, Estado de Goiás, aprovou e Eu, Prefeito Municipal, sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DOS PRINCÍPIOS GERAIS
 
 Art. 1º - A presente Lei destina-se a regulamentar as Áreas de Especial Interesse Social e criar o Plano Habitacional de Interesse Social, que compreende o Programa de Regularização Fundiária, fixando normas para propiciar às famílias, com menor poder aquisitivo, acesso a terra urbanizada e a moradia digna.
@@ -27,7 +28,8 @@ Art. 3º -Entende-se por Regularização Fundiária o processo de intervenção 
 
 Art. 4º – O Plano Habitacional de Interesse Social deverá, obrigatoriamente, criar uma relação compartilhada entre o Poder Público Municipal, através de seus agentes, e a comunidade beneficiária visando alcançar, de forma integrada e co-responsável, a partir de ações inter e multidisciplinares, a promoção do desenvolvimento pessoal e comunitário daquele grupo social.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS ÁREAS DE ESPECIAL INTERESSE SOCIAL
 
 Art. 5º -As Áreas de Especial Interesse Social – AEIS deverão ser delimitadas pelo Poder Público Municipal, por ato do Chefe do Poder Executivo, para Programas de Produção de lotes e Habitações Populares ou para Programas de Regularização Fundiária, nos termos do artigo 2º da presente Lei, tendo como objetivos gerais:
@@ -52,7 +54,8 @@ I - Secretaria Municipal de Regulação Urbana;
 
 II - Instituto de Planejamento Municipal;
 
-~~III-Conselho Municipal de Desenvolvimento Ambiental Sustentável;~~<br>
+~~III-Conselho Municipal de Desenvolvimento Ambiental Sustentável;~~
+
 (Revogado pela Lei Complementar nº 152, de 9 de outubro de 2018).
 
 IV - Cooperativas e Associações Habitacionais;
@@ -63,7 +66,8 @@ VI - Proprietários de áreas passíveis de delimitação como AEIS.
 
 Parágrafo Único. Os pedidos de delimitação de AEIS, tramitarão através de processos administrativos no Executivo Municipal.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO PROGRAMA DE REGULARIZAÇÃO FUNDIÁRIA
 
 Art. 7º – O Programa de Regularização Fundiária tem como objetivos específicos:
@@ -134,7 +138,8 @@ Art. 10 - Após o levantamento a que se refere o artigo 5º, e verificado o pree
 
 § 4º – Após a delimitação da Zona de Especial Interesse Social para fins de Regularização Fundiária somente será permitida a permanência das ocupações irregulares já existentes, desde que estas não acarretem risco à vida, ao meio ambiente e nem impossibilitem a execução do Plano Urbanístico Específico para Regularização Fundiária.
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Das Edificações
 
 Art. 11 – Nas áreas apontadas como de Área de Especial Interesse Social, as edificações, para serem regularizadas, deverão ter estabilidade estrutural e ausência de qualquer tipo de risco que possa comprometer a edificação, que será verificada por profissional competente.
@@ -149,7 +154,8 @@ II – edificar nova residência, que deverá ter acompanhamento de um profissio
 
 § 2º – O órgão competente analisará o pedido de reforma ou nova edificação, emitindo o alvará correspondente, a partir dos limites traçados no PUE, devendo, o pedido conter autorização do técnico responsável pelo Programa de Regularização Fundiária.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Do Plano Urbanístico específico para Regularização Fundiária
 
 Art. 13 -O Plano Urbanístico Específico para o Programa Regularização Fundiária – PUE – tem como objetivo organizar os espaços habitáveis nas AEIS, de modo a garantir a melhoria de vida da população residente, devendo conter:
@@ -180,7 +186,8 @@ V - nas áreas encravadas, assim entendidas aquelas que não se comunicam com ne
 
 VI - nas áreas contaminadas no subsolo ou lençol freático por infiltrações químicas que causem dano à saúde.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 ÁREA DE ESPECIAL INTERESSE SOCIAL PARA FINS DE
 
 PRODUÇÃO DE LOTES OU HABITAÇÕES POPULARES
@@ -205,7 +212,8 @@ VI - viabilidade financeira e condições de obtenção de recursos.
 
 § 2º -Após a publicação do decreto, o órgão municipal competente, deverá, na hipótese de tratar-se de iniciativa pública, lançar Edital de Licitação para a elaboração dos projetos pertinentes para a realização da obra.
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Do Plano Urbanístico Específico para Produção de Lotes ou Habitações Populares
 
 Art. 17 – O Plano Urbanístico Específico para Produção de Lotes ou Habitações Populares deverá conter, no mínimo, as seguintes características:
@@ -234,12 +242,14 @@ III - em terrenos com declividade igual ou superior a 30% (trinta por cento) sal
 
 IV - nas áreas contaminadas no subsolo ou lençol freático por infiltrações químicas que causem dano à saúde.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Dos Critérios para Venda de Lotes ou Habitações Populares
 
 Art. 19 – O critérios para a venda de lotes e habitações populares deverá seguir a legislação municipal que rege a matéria e/ou por regulamento a ser baixado por decreto do póder executivo.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 Art. 20 – O órgão municipal competente deverá levar ao Conselho Municipal de Desenvolvimento Ambiental Sustentável os Programas Habitacionais de Interesse Social a serem implementados, juntamente com a planilha de custos estimativa, para sua aprovação.
@@ -262,11 +272,14 @@ Art. 27 – Esta Lei entra em vigor na data de sua publicação, retroagindo seu
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos Dezoito dias do Mês de Dezembro de Dois Mil e Sete.
 
-JOSÉ MACÊDO DE ARAUJO<br>
+JOSÉ MACÊDO DE ARAUJO
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO
 
-MARCELO RIBEIRO FERNANDES<br>
+MARCELO RIBEIRO FERNANDES
+
 PROCURADOR GERAL DO MUNICÍPIO

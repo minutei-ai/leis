@@ -1,5 +1,3 @@
-###DEC-005487-0-000-05-07-2005@@@
-
 DECRETO N o 5.487, DE 5 DE JULHO DE 2005
 
 Dispõe sobre a execução do Quinto Protocolo Adicional ao Acordo de Complementação Econômica n o 43, entre os Governos da República Federativa do Brasil e da República de Cuba, de 10 de dezembro de 2004.

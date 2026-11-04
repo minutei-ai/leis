@@ -1,5 +1,3 @@
-###DEC-054421-0-000-12-10-1964@@@
-
 DECRETO Nº 54.421, DE 12 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro José Osório de Oliveira Azevêdo a pesquisar feldspato, no Município de São João da Boa Vista, Estado de São Paulo.

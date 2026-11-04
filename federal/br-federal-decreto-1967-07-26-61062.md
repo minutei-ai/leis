@@ -1,5 +1,3 @@
-###DEC-061062-0-000-26-07-1967@@@
-
 DECRETO Nº 61.062, DE 26 DE JULHO DE 1967.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica no município de Dores do Turvo, Estado de Minas Gerais.

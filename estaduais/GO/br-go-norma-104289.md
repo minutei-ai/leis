@@ -1,5 +1,7 @@
-DECRETO Nº 9.943, DE 8 DE SETEMBRO DE 2021<br>
-\- [Revogado pelo Decreto nº 10.910, de 18-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114578), art.75.<br>
+DECRETO Nº 9.943, DE 8 DE SETEMBRO DE 2021
+
+\- [Revogado pelo Decreto nº 10.910, de 18-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114578), art.75.
+
 \- [Vide Decreto nº 10.807, de 3-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111475/decreto-10807), que dispõe sobre normas para o encerramento da execução orçamentária, financeira e contábil do exercício financeiro de 2025.
 
 ~~Estabelece normas de programação e execução orçamentária e financeira, também procedimentos contábeis para o Estado de Goiás.~~
@@ -16,7 +18,8 @@ DECRETO Nº 9.943, DE 8 DE SETEMBRO DE 2021<br>
 
 ~~Do objeto e do âmbito de aplicação~~
 
-~~Art. 1º A programação e a execução orçamentária e financeira, também os procedimentos contábeis da administração direta, das autarquias, das fundações, dos fundos especiais e das empresas estatais dependentes do Estado de Goiás, observarão, além das determinações deste Decreto, as da Lei Complementar federal nº 101 (Lei de Responsabilidade Fiscal), de 4 de maio de 2000, e as das demais normas pertinentes, bem como do Sistema Informatizado de Programação e Execução Orçamentária e Financeira Estadual – SIOFINet, instituído pela [Lei nº 10.718](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/83933/lei-10718), de 28 de dezembro de 1988.~~<br>
+~~Art. 1º A programação e a execução orçamentária e financeira, também os procedimentos contábeis da administração direta, das autarquias, das fundações, dos fundos especiais e das empresas estatais dependentes do Estado de Goiás, observarão, além das determinações deste Decreto, as da Lei Complementar federal nº 101 (Lei de Responsabilidade Fiscal), de 4 de maio de 2000, e as das demais normas pertinentes, bem como do Sistema Informatizado de Programação e Execução Orçamentária e Financeira Estadual – SIOFINet, instituído pela [Lei nº 10.718](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/83933/lei-10718), de 28 de dezembro de 1988.~~
+
 ~~[\- Redação dada pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
 ~~Art. 1º A programação e a execução orçamentária e financeira, também os procedimentos contábeis do Estado de Goiás, inclusive das autarquias, das fundações, dos fundos especiais e das empresas estatais dependentes, observarão, além das determinações deste Decreto, as da Lei Complementar federal nº 101 (Lei de Responsabilidade Fiscal), de 4 de maio de 2000, e as das demais normas pertinentes, bem como do Sistema Informatizado de Programação e Execução Orçamentária e Financeira Estadual – SIOFINet, instituído pela Lei estadual nº [10.718](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/83933/lei-10718), de 28 de dezembro de 1988.~~
@@ -33,7 +36,8 @@ DECRETO Nº 9.943, DE 8 DE SETEMBRO DE 2021<br>
 
 ~~Art. 2º Serão classificadas como receitas orçamentárias, sob as rubricas próprias, todas as receitas arrecadadas, inclusive as que tenham destinação específica em lei e as provenientes de contratos, convênios ou instrumentos congêneres.~~
 
-~~§ 1º Toda a arrecadação da administração direta, das autarquias, das fundações e dos fundos do Estado de Goiás será realizada por Documento de Arrecadação de Receitas Estaduais – DARE, conforme o [Decreto nº 6.737](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/62508/decreto-6737), de 17 de abril de 2008, e será creditada na Conta Única do Tesouro Estadual – CUTE, nos termos do parágrafo único do art. 2º da [Lei Complementar nº 121](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101108/lei-complementar-121), de 21 de dezembro de 2015.~~<br>
+~~§ 1º Toda a arrecadação da administração direta, das autarquias, das fundações e dos fundos do Estado de Goiás será realizada por Documento de Arrecadação de Receitas Estaduais – DARE, conforme o [Decreto nº 6.737](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/62508/decreto-6737), de 17 de abril de 2008, e será creditada na Conta Única do Tesouro Estadual – CUTE, nos termos do parágrafo único do art. 2º da [Lei Complementar nº 121](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101108/lei-complementar-121), de 21 de dezembro de 2015.~~
+
 ~~[\- Redação dada pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
 ~~§ 1º Toda a arrecadação da administração direta, autárquica e fundacional do Estado de Goiás será realizada por Documento de Arrecadação de Receitas Estaduais – DARE, conforme o [Decreto estadual nº 6.737](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/62508/decreto-6737), de 17 de abril de 2008, e será creditada na Conta Única do Tesouro Estadual – CUTE, nos termos do parágrafo único do art. 2º da [Lei Complementar estadual nº 121](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101108/lei-complementar-121), de 21 de dezembro de 2015.~~
@@ -100,29 +104,36 @@ DECRETO Nº 9.943, DE 8 DE SETEMBRO DE 2021<br>
 
 ~~Das fases e dos procedimentos da despesa~~
 
-~~Art. 11. São procedimentos de programação e execução orçamentária e financeira processados pelo SIOFINet e pelo AFT:~~<br>
+~~Art. 11. São procedimentos de programação e execução orçamentária e financeira processados pelo SIOFINet e pelo AFT:~~
+
 ~~\- [Redação dada pelo Decreto nº 10.413, de 23-2-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108470).~~
 
 ~~Art. 11. São procedimentos de programação e execução orçamentária e financeira, nos termos da lei, processados pelo SIOFINet e pelo AFT:~~
 
-~~I – a Programação de Desembolso Financeiro – PDF, compatível com a disponibilidade de caixa projetada e condicionada aos saldos das cotas de limites orçamentários, de empenho e de pagamento estabelecidos na Lei Orçamentária Anual – LOA e seus créditos e no decreto orçamentário anual, respeitada sua situação:~~<br>
+~~I – a Programação de Desembolso Financeiro – PDF, compatível com a disponibilidade de caixa projetada e condicionada aos saldos das cotas de limites orçamentários, de empenho e de pagamento estabelecidos na Lei Orçamentária Anual – LOA e seus créditos e no decreto orçamentário anual, respeitada sua situação:~~
+
 ~~\- [Redação dada pelo Decreto nº 10.413, de 23-2-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108470).~~
 
 ~~I – a Programação de Desembolso Financeiro – PDF, compatível com a disponibilidade de caixa projetada e condicionada ao saldo das cotas de limites de pagamentos estabelecidos no Decreto Orçamentário Anual;~~
 
-~~a) Bloqueada: situação da PDF que sofreu alteração e consome saldo da cota de limite de empenho e necessita de homologação pelo órgão central de orçamento;~~<br>
+~~a) Bloqueada: situação da PDF que sofreu alteração e consome saldo da cota de limite de empenho e necessita de homologação pelo órgão central de orçamento;~~
+
 ~~\- [Acrescido pelo Decreto nº 10.413, de 23-2-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108470).~~
 
-~~b) Pendente: situação da PDF que consome saldo da cota de limite de empenho e necessita de homologação pelo órgão central de orçamento;~~<br>
+~~b) Pendente: situação da PDF que consome saldo da cota de limite de empenho e necessita de homologação pelo órgão central de orçamento;~~
+
 ~~\- [Acrescido pelo Decreto nº 10.413, de 23-2-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108470).~~
 
-~~c) Liberada: situação da PDF que consome saldo da cota de limite de empenho e está apta a empenhar;~~<br>
+~~c) Liberada: situação da PDF que consome saldo da cota de limite de empenho e está apta a empenhar;~~
+
 ~~\- [Acrescido pelo Decreto nº 10.413, de 23-2-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108470).~~
 
-~~d) Programada: situação da PDF que é limitada ao saldo da dotação orçamentária, observados a fonte e o grupo; e~~<br>
+~~d) Programada: situação da PDF que é limitada ao saldo da dotação orçamentária, observados a fonte e o grupo; e~~
+
 ~~\- [Acrescido pelo Decreto nº 10.413, de 23-2-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108470).~~
 
-~~e) Rascunho: situação da PDF que não consome cotas, utilizada para cadastrar o planejamento da pasta para os gastos que não possuem disponibilidade orçamentária;~~<br>
+~~e) Rascunho: situação da PDF que não consome cotas, utilizada para cadastrar o planejamento da pasta para os gastos que não possuem disponibilidade orçamentária;~~
+
 ~~\- [Acrescido pelo Decreto nº 10.413, de 23-2-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108470).~~
 
 ~~II – a Declaração de Adequação Orçamentária e Financeira, que consiste na reserva do saldo da dotação para o empenho da despesa;~~
@@ -139,13 +150,16 @@ DECRETO Nº 9.943, DE 8 DE SETEMBRO DE 2021<br>
 
 ~~VIII – a Ordem de Pagamento – OP, que consiste na efetivação do pagamento da despesa.~~
 
-~~§ 1º Parágrafo único. Ficam dispensadas da emissão de PDF as despesas referentes a Pessoal e Encargos sociais, Juros e Encargos da Dívida e Amortização da Dívida.~~<br>
+~~§ 1º Parágrafo único. Ficam dispensadas da emissão de PDF as despesas referentes a Pessoal e Encargos sociais, Juros e Encargos da Dívida e Amortização da Dívida.~~
+
 ~~\- [Constituído §1º pelo Decreto nº 10.413, de 23-2-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108470).~~
 
-~~§ 2º Os processos de dispensa, inexigibilidade, abertura de licitações e celebração de convênios que envolvam contrapartida financeira, bem como as autorizações para despesas diversas não abrangidas pelo § 1º deste artigo, inclusive aquelas a serem realizadas com recursos próprios, podem ter início com a PDF na situação "Programada", e a emissão das notas de empenho correspondentes necessita que a PDF esteja na condição "Liberada”.~~<br>
+~~§ 2º Os processos de dispensa, inexigibilidade, abertura de licitações e celebração de convênios que envolvam contrapartida financeira, bem como as autorizações para despesas diversas não abrangidas pelo § 1º deste artigo, inclusive aquelas a serem realizadas com recursos próprios, podem ter início com a PDF na situação "Programada", e a emissão das notas de empenho correspondentes necessita que a PDF esteja na condição "Liberada”.~~
+
 ~~\- [Acrescido pelo Decreto nº 10.413, de 23-2-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108470).~~
 
-~~§ 3º Cabem à Secretaria de Estado da Economia a orientação normativa e a edição de normas complementares aos procedimentos de programação e execução orçamentárias, inclusive em relação ao uso das PDFs de que trata este artigo, conforme o inciso X do art. 23 da Lei estadual nº 21.792, de 16 de fevereiro de 2023, e o art. 68 deste Decreto.~~<br>
+~~§ 3º Cabem à Secretaria de Estado da Economia a orientação normativa e a edição de normas complementares aos procedimentos de programação e execução orçamentárias, inclusive em relação ao uso das PDFs de que trata este artigo, conforme o inciso X do art. 23 da Lei estadual nº 21.792, de 16 de fevereiro de 2023, e o art. 68 deste Decreto.~~
+
 ~~\- [Acrescido pelo Decreto nº 10.413, de 23-2-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108470).~~
 
 ~~Seção III~~
@@ -208,7 +222,8 @@ DECRETO Nº 9.943, DE 8 DE SETEMBRO DE 2021<br>
 
 ~~Art. 18. As unidades orçamentárias emitirão as declarações de adequação orçamentária e financeira no SIOFINet, com a informação da adequação da despesa aos limites de empenho fixados pelo Decreto de Programação Financeira Anual, juntamente com as PDFs.~~
 
-~~§ 1º A Câmara de Gestão de Gastos, criada pelo [Decreto nº 9.660](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103155/decreto-9660), de 6 de maio de 2020, se manifestará sobre despesas nas hipóteses e nos limites previstos na legislação, cujo prosseguimento ficará condicionado aos limites de empenho e pagamento fixados pelo Decreto de Programação Financeira Anual.~~<br>
+~~§ 1º A Câmara de Gestão de Gastos, criada pelo [Decreto nº 9.660](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103155/decreto-9660), de 6 de maio de 2020, se manifestará sobre despesas nas hipóteses e nos limites previstos na legislação, cujo prosseguimento ficará condicionado aos limites de empenho e pagamento fixados pelo Decreto de Programação Financeira Anual.~~
+
 ~~\- [Revogado pelo Decreto nº 10.585, de 2-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077/decreto-10585), art. 3º, III.~~
 
 ~~§ 2º A reserva da dotação orçamentária ocorrerá após a emissão da declaração de adequação orçamentária e financeira, conforme o § 3º do art. 13 deste Decreto.~~
@@ -217,10 +232,12 @@ DECRETO Nº 9.943, DE 8 DE SETEMBRO DE 2021<br>
 
 ~~§ 4º A unidade orçamentária deverá promover no SIOFINet a alteração do valor declarado da despesa para adequá-lo ao valor a ser empenhado.~~
 
-~~Art. 18-A. O Decreto Anual de Programação e Execução Orçamentária e Financeira Anual será publicado até 30 dias após a publicação da Lei Orçamentária do exercício.<br>
+~~Art. 18-A. O Decreto Anual de Programação e Execução Orçamentária e Financeira Anual será publicado até 30 dias após a publicação da Lei Orçamentária do exercício.
+
 [\- Acrescido pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
-~~Parágrafo único. O cenário fiscal será avaliado a cada 2 (dois) meses pela Secretaria de Estado da Economia e, sempre que for necessário, o Decreto de Programação Orçamentária e Financeira Anual será atualizado.<br>
+~~Parágrafo único. O cenário fiscal será avaliado a cada 2 (dois) meses pela Secretaria de Estado da Economia e, sempre que for necessário, o Decreto de Programação Orçamentária e Financeira Anual será atualizado.
+
 [\- Acrescido pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
 ~~Seção VII~~
@@ -257,19 +274,24 @@ DECRETO Nº 9.943, DE 8 DE SETEMBRO DE 2021<br>
 
 ~~Art. 22. A liquidação da despesa será processada após a entrega do material ou a efetiva prestação do serviço, salvo os casos que independerem de implemento de condição.~~
 
-~~Art. 22-A. O Código de Acompanhamento da Execução Orçamentária – CO é um código adicional à fonte ou à destinação de recursos, com 4 (quatro) dígitos, que tem o objetivo de identificar as receitas e/ou as despesas orçamentárias para o acompanhamento e a inclusão da informação complementar na Matriz de Saldos Contábeis – MSC, nos termos do Quadro 2 da Portaria STN nº 710, de 25 de fevereiro de 2021, e a Portaria STN nº 925, de 8 de julho de 2021, e do Anexo II da Portaria STN nº 642, de 20 de setembro de 2019 (MSC).<br>
+~~Art. 22-A. O Código de Acompanhamento da Execução Orçamentária – CO é um código adicional à fonte ou à destinação de recursos, com 4 (quatro) dígitos, que tem o objetivo de identificar as receitas e/ou as despesas orçamentárias para o acompanhamento e a inclusão da informação complementar na Matriz de Saldos Contábeis – MSC, nos termos do Quadro 2 da Portaria STN nº 710, de 25 de fevereiro de 2021, e a Portaria STN nº 925, de 8 de julho de 2021, e do Anexo II da Portaria STN nº 642, de 20 de setembro de 2019 (MSC).
+
 [\- Acrescido pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
-~~Parágrafo único. O CO substituirá a informação complementar "Complemento de Fonte – CF" da MSC, a partir do exercício de 2022, conforme o Anexo II da Portaria STN nº 642, de 20 de setembro de 2019 (MSC), e terá a função de marcar as informações necessárias à geração dos relatórios fiscais da Lei Complementar nº 101, de 4 de maio de 2000, especialmente, os anexos da Receita Corrente Líquida – RCL e vinculações com Manutenção e Desenvolvimento do Ensino – MDE e Ações e Serviços Públicos de Saúde – ASPS.~~<br>
+~~Parágrafo único. O CO substituirá a informação complementar "Complemento de Fonte – CF" da MSC, a partir do exercício de 2022, conforme o Anexo II da Portaria STN nº 642, de 20 de setembro de 2019 (MSC), e terá a função de marcar as informações necessárias à geração dos relatórios fiscais da Lei Complementar nº 101, de 4 de maio de 2000, especialmente, os anexos da Receita Corrente Líquida – RCL e vinculações com Manutenção e Desenvolvimento do Ensino – MDE e Ações e Serviços Públicos de Saúde – ASPS.~~
+
 ~~[\- Acrescido pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
-~~Art. 22-B. No Sistema de Programação e Execução Orçamentária e Financeira – SIOFI-Net, o CO será incluído na emissão das Notas de Empenho – NEs e inserido automaticamente nos demais documentos da execução orçamentária e financeira (liquidação da despesa, solicitação de pagamento, emissão de ordens de pagamentos e seus respectivos documentos de anulação e cancelamento).~~<br>
+~~Art. 22-B. No Sistema de Programação e Execução Orçamentária e Financeira – SIOFI-Net, o CO será incluído na emissão das Notas de Empenho – NEs e inserido automaticamente nos demais documentos da execução orçamentária e financeira (liquidação da despesa, solicitação de pagamento, emissão de ordens de pagamentos e seus respectivos documentos de anulação e cancelamento).~~
+
 ~~[\- Acrescido pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
-~~§ 1º As Guias de Receitas Orçamentárias – GRs e as Ordens de Pagamentos Extraorçamentárias – OPEs também deverão ter a inclusão do CO.~~<br>
+~~§ 1º As Guias de Receitas Orçamentárias – GRs e as Ordens de Pagamentos Extraorçamentárias – OPEs também deverão ter a inclusão do CO.~~
+
 [~~\- Acrescido pelo Decreto nº 10.057, de 09-03-2022.~~](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~[](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
-~~§ 2º O CO será utilizado conforme o Anexo III da Instrução Normativa nº 1.513, de 27 de janeiro de 2022, e será empregado o CO _default_ (0000) para as demais receitas e despesas orçamentárias, para o cumprimento do Anexo II da Portaria STN nº 642, de 20 de setembro de 2019 (MSC).~~<br>
+~~§ 2º O CO será utilizado conforme o Anexo III da Instrução Normativa nº 1.513, de 27 de janeiro de 2022, e será empregado o CO _default_ (0000) para as demais receitas e despesas orçamentárias, para o cumprimento do Anexo II da Portaria STN nº 642, de 20 de setembro de 2019 (MSC).~~
+
 ~~[\- Acrescido pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
 ~~Art. 23. Na liquidação, o setor responsável por atestar a despesa evidenciará:~~
@@ -314,66 +336,82 @@ DECRETO Nº 9.943, DE 8 DE SETEMBRO DE 2021<br>
 
 ~~Da solicitação~~
 
-~~Art. 27. Os órgãos e as entidades deverão encaminhar suas solicitações de créditos suplementares e especiais de acordo com o cronograma estabelecido por meio de portaria da Secretaria de Estado da Economia, em conformidade com o que dispuser a Lei de Diretrizes Orçamentárias vigente.~~<br>
+~~Art. 27. Os órgãos e as entidades deverão encaminhar suas solicitações de créditos suplementares e especiais de acordo com o cronograma estabelecido por meio de portaria da Secretaria de Estado da Economia, em conformidade com o que dispuser a Lei de Diretrizes Orçamentárias vigente.~~
+
 ~~[\- Redação dada pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
 ~~Art. 27. Os órgãos e as entidades somente poderão solicitar créditos suplementares e especiais até 30 de outubro de cada exercício.~~
 
-~~§ 1º Excluem-se dos prazos estabelecidos de conformidade com o _caput_ deste artigo as despesas:~~<br>
+~~§ 1º Excluem-se dos prazos estabelecidos de conformidade com o _caput_ deste artigo as despesas:~~
+
 ~~[\- Acrescido pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
-~~Parágrafo único. Excluem-se do prazo estabelecido no _caput_ deste artigo as despesas relacionadas no § 11 do art. 50 deste Decreto.<br>
+~~Parágrafo único. Excluem-se do prazo estabelecido no _caput_ deste artigo as despesas relacionadas no § 11 do art. 50 deste Decreto.
+
 [\- Revogado pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
-~~I – cujos percentuais de aplicação são definidos constitucionalmente ou mediante lei específica, como ocorre com a saúde e a educação;<br>
+~~I – cujos percentuais de aplicação são definidos constitucionalmente ou mediante lei específica, como ocorre com a saúde e a educação;
+
 [\- Acrescido pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
-~~II – decorrentes de juros, precatórios, pagamentos de sentenças judiciais, requisições de pequeno valor, encargos e amortizações das dívidas públicas, devidamente exigidas;<br>
+~~II – decorrentes de juros, precatórios, pagamentos de sentenças judiciais, requisições de pequeno valor, encargos e amortizações das dívidas públicas, devidamente exigidas;
+
 [\- Acrescido pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
-~~III – custeadas com recursos efetivamente recebidos de convênios, acordos e ajustes, e as respectivas contrapartidas;<br>
+~~III – custeadas com recursos efetivamente recebidos de convênios, acordos e ajustes, e as respectivas contrapartidas;
+
 [\- Acrescido pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
-~~IV – custeadas com recursos de operações de crédito;<br>
+~~IV – custeadas com recursos de operações de crédito;
+
 [\- Acrescido pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
-~~V – decorrentes de emendas individuais impositivas;<br>
+~~V – decorrentes de emendas individuais impositivas;
+
 [\- Acrescido pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
-~~VI – relacionadas ao enfrentamento de calamidades públicas ou emergências, inclusive médicas e sanitárias; e<br>
+~~VI – relacionadas ao enfrentamento de calamidades públicas ou emergências, inclusive médicas e sanitárias; e
+
 [\- Acrescido pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
-~~VII – relativas ao suprimento de fundos de caráter secreto.<br>
+~~VII – relativas ao suprimento de fundos de caráter secreto.
+
 [\- Acrescido pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
-~~§ 2º Não serão consideradas créditos adicionais as trocas de fontes de recursos e modalidade de aplicação, quando forem mantidos os demais classificadores orçamentários da programação.<br>
+~~§ 2º Não serão consideradas créditos adicionais as trocas de fontes de recursos e modalidade de aplicação, quando forem mantidos os demais classificadores orçamentários da programação.
+
 [\- Acrescido pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
 ~~Art. 28. Os créditos suplementares serão requisitados pela unidade orçamentária interessada, mediante solicitação no SIOFINet, com o encaminhamento das notas técnicas e dos outros documentos pertinentes à Secretaria de Estado da Economia, por meio do Sistema Eletrônico de Informações SEI, os quais conterão, no mínimo:~~
 
-~~I – o número da solicitação incluída no Sistema de Programação e Execução Orçamentária e Financeira – SIOFINet;~~<br>
+~~I – o número da solicitação incluída no Sistema de Programação e Execução Orçamentária e Financeira – SIOFINet;~~
+
 ~~[\- Redação dada pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
 ~~I – o valor a ser suplementado, acompanhado da justificativa pormenorizada do objeto da suplementação solicitada;~~
 
-~~II – o valor a ser suplementado, acompanhado de justificativa pormenorizada da necessidade de suplementação;~~<br>
+~~II – o valor a ser suplementado, acompanhado de justificativa pormenorizada da necessidade de suplementação;~~
+
 [~~\- Redação dada pelo Decreto nº 10.057, de 09-03-2022.~~](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~[](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
 ~~II – a indicação das fontes de recursos, caso haja disponibilidade; e~~
 
 ~~III – o detalhamento dos motivos que levaram à insuficiência dos recursos solicitados, as consequências do não atendimento do pleito e os impactos da elevação ou da redução do gasto nas políticas públicas atingidas pela movimentação orçamentária.~~
 
-~~IV – a identificação das dotações que serão indicadas como fontes de recursos a serem anuladas parcial ou total, caso haja disponibilidade.~~<br>
+~~IV – a identificação das dotações que serão indicadas como fontes de recursos a serem anuladas parcial ou total, caso haja disponibilidade.~~
+
 ~~[\- Acrescido pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
-~~§ 1º As justificativas previstas nos incisos II e III, deverão incluir, entre outros parâmetros julgados necessários, informações quanto a variações de quantidades, preços, taxas de inflação, alterações legais e normativas, tanto dos objetos de gasto aos quais serão destinados os recursos solicitados quanto dos demais objetos de gasto financiados pela ação objeto da solicitação de suplementação.~~<br>
+~~§ 1º As justificativas previstas nos incisos II e III, deverão incluir, entre outros parâmetros julgados necessários, informações quanto a variações de quantidades, preços, taxas de inflação, alterações legais e normativas, tanto dos objetos de gasto aos quais serão destinados os recursos solicitados quanto dos demais objetos de gasto financiados pela ação objeto da solicitação de suplementação.~~
+
 ~~[\- Redação dada pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
 ~~§ 1º Quando a fonte de recursos indicada for a anulação de dotações orçamentárias, a unidade interessada deverá identificá-la na solicitação.~~
 
 ~~§ 2º No caso dos pedidos de crédito por anulação de dotação, deverá o titular da unidade solicitante indicar:~~
 
-~~I – a ausência de prejuízo à obtenção dos resultados pretendidos com a anulação proposta;~~<br>
+~~I – a ausência de prejuízo à obtenção dos resultados pretendidos com a anulação proposta;~~
+
 ~~[\- Redação dada pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
 ~~I – a ausência de prejuízo à obtenção dos resultados pretendidos com o cancelamento proposto;~~
@@ -400,21 +438,26 @@ DECRETO Nº 9.943, DE 8 DE SETEMBRO DE 2021<br>
 
 ~~Do processamento~~
 
-~~Art. 32. Ao receber a solicitação de abertura de créditos adicionais, a Secretaria de Estado da Economia deverá verificar a adequação legal e a suficiência ou não das informações encaminhadas com a solicitação.~~<br>
+~~Art. 32. Ao receber a solicitação de abertura de créditos adicionais, a Secretaria de Estado da Economia deverá verificar a adequação legal e a suficiência ou não das informações encaminhadas com a solicitação.~~
+
 ~~[\- Redação dada pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
 ~~Art. 32. Ao receber a solicitação de abertura de créditos adicionais, a Secretaria de Estado da Economia deverá verificar a adequação legal.~~
 
-~~§ 1º Se as informações encaminhadas não forem suficientes para balizar a tomada de decisão, o processo SEI com a solicitação de abertura de crédito será devolvido ao órgão solicitante para a complementação de informações.~~<br>
+~~§ 1º Se as informações encaminhadas não forem suficientes para balizar a tomada de decisão, o processo SEI com a solicitação de abertura de crédito será devolvido ao órgão solicitante para a complementação de informações.~~
+
 ~~[\- Acrescido pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
-~~Parágrafo único. Caso a solicitação envolva o aporte adicional de recursos, caberá à Secretaria de Estado da Economia, se houver disponibilidade orçamentária, especificar a fonte para a abertura do crédito, e poderá utilizar a Reserva de Contingência ou dotações de outras unidades orçamentárias do Poder Executivo.<br>
+~~Parágrafo único. Caso a solicitação envolva o aporte adicional de recursos, caberá à Secretaria de Estado da Economia, se houver disponibilidade orçamentária, especificar a fonte para a abertura do crédito, e poderá utilizar a Reserva de Contingência ou dotações de outras unidades orçamentárias do Poder Executivo.
+
 [\- Revogado pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
-~~§ 2º As solicitações que tenham informações suficientes para a tomada de decisão e impactem as diretrizes e o crescimento anual das despesas primárias estabelecidos pela Lei Complementar nº 156, de 28 de dezembro de 2016, e Lei Complementar nº 159, de 19 de maio de 2017, nas datas estabelecidas no cronograma previsto no art. 30 deste Decreto, serão consolidadas pela Secretaria de Estado da Economia.<br>
+~~§ 2º As solicitações que tenham informações suficientes para a tomada de decisão e impactem as diretrizes e o crescimento anual das despesas primárias estabelecidos pela Lei Complementar nº 156, de 28 de dezembro de 2016, e Lei Complementar nº 159, de 19 de maio de 2017, nas datas estabelecidas no cronograma previsto no art. 30 deste Decreto, serão consolidadas pela Secretaria de Estado da Economia.
+
 [\- Acrescido pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
-~~§ 3º Ao submeter as solicitações de crédito ao Governador, elas devem estar acompanhadas de cenário atualizado sobre o cumprimento das diretrizes e o crescimento anual das despesas primárias mencionados no § 2º deste artigo.<br>
+~~§ 3º Ao submeter as solicitações de crédito ao Governador, elas devem estar acompanhadas de cenário atualizado sobre o cumprimento das diretrizes e o crescimento anual das despesas primárias mencionados no § 2º deste artigo.
+
 [\- Acrescido pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
 ~~Art. 33. Caberá à Secretaria de Estado da Economia a elaboração das minutas dos atos orçamentários para a abertura dos créditos adicionais.~~
@@ -423,12 +466,14 @@ DECRETO Nº 9.943, DE 8 DE SETEMBRO DE 2021<br>
 
 ~~§ 2º Após a manifestação da Câmara de Gestão Fiscal, a Secretaria de Estado da Economia encaminhará as solicitações de abertura de créditos especiais ou extraordinários ao Governador do Estado, por meio da Secretaria de Estado da Casa Civil.~~
 
-~~§ 3º Os atos orçamentários receberão numeração própria, por exercício.~~<br>
+~~§ 3º Os atos orçamentários receberão numeração própria, por exercício.~~
+
 [~~\- Redação dada pelo Decreto nº 10.057, de 09-03-2022.~~](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~[](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
 ~~§ 3º A Secretaria de Estado da Economia encaminhará à Câmara de Gestão Fiscal relatório bimestral com os créditos suplementares abertos.~~
 
-~~§ 4º A operacionalização dos créditos aprovados será feita por meio de lançamentos no SIOFInet, e a Superintendência de Orçamento e Despesa, da Secretaria de Estado da Economia, poderá requisitar que os órgãos e as unidades solicitantes efetuem os lançamentos necessários.~~<br>
+~~§ 4º A operacionalização dos créditos aprovados será feita por meio de lançamentos no SIOFInet, e a Superintendência de Orçamento e Despesa, da Secretaria de Estado da Economia, poderá requisitar que os órgãos e as unidades solicitantes efetuem os lançamentos necessários.~~
+
 ~~[\- Redação dada pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
 ~~§ 4º Do registro dos créditos adicionais no SIOFINet constará a identificação dos atos legais de abertura, que possuirão numeração própria, por exercício.~~
@@ -445,7 +490,8 @@ DECRETO Nº 9.943, DE 8 DE SETEMBRO DE 2021<br>
 
 ~~DA DESCENTRALIZAÇÃO ORÇAMENTÁRIA~~
 
-~~Art. 35. Os créditos orçamentários poderão ser descentralizados, total ou parcialmente, entre os órgãos da administração direta, as autarquias, as fundações, os fundos especiais e as empresas estatais dependentes do Poder Executivo, os Poderes Legislativo e Judiciário, o Ministério Público, o Tribunal de Contas do Estado, o Tribunal de Contas dos Municípios e a Defensoria Pública.~~<br>
+~~Art. 35. Os créditos orçamentários poderão ser descentralizados, total ou parcialmente, entre os órgãos da administração direta, as autarquias, as fundações, os fundos especiais e as empresas estatais dependentes do Poder Executivo, os Poderes Legislativo e Judiciário, o Ministério Público, o Tribunal de Contas do Estado, o Tribunal de Contas dos Municípios e a Defensoria Pública.~~
+
 ~~[\- Redação dada pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
 ~~Art. 35. Os créditos orçamentários poderão ser descentralizados, total ou parcialmente, entre os órgãos da administração direta e indireta, as fundações, os fundos especiais e as empresas estatais dependentes do Poder Executivo, os Poderes Legislativo e Judiciário, o Ministério Público, o Tribunal de Contas do Estado, o Tribunal de Contas dos Municípios e a Defensoria Pública.~~
@@ -492,7 +538,8 @@ DECRETO Nº 9.943, DE 8 DE SETEMBRO DE 2021<br>
 
 ~~DAS DESPESAS COM PESSOAL~~
 
-~~Art. 42. As despesas com pessoal e encargos sociais, oriundas das folhas de pagamento, bem como com estagiários e a respectiva taxa de administração, deverão ser empenhadas por estimativa anualmente e liquidadas dentro do mês de competência.~~<br>
+~~Art. 42. As despesas com pessoal e encargos sociais, oriundas das folhas de pagamento, bem como com estagiários e a respectiva taxa de administração, deverão ser empenhadas por estimativa anualmente e liquidadas dentro do mês de competência.~~
+
 ~~[\- Redação dada pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
 ~~Art. 42. As despesas com pessoal e encargos sociais, oriundas das folhas de pagamento, bem como com estagiários e a respectiva taxa de administração, deverão ser empenhadas e liquidadas dentro do mês de competência.~~
@@ -573,7 +620,8 @@ DECRETO Nº 9.943, DE 8 DE SETEMBRO DE 2021<br>
 
 ~~Art. 50. As despesas dos grupos 3 e 4 deverão ter seus empenhos emitidos até o décimo dia útil do mês de novembro de cada exercício.~~
 
-~~§ 1º A data limite para a liquidação das despesas empenhadas será o décimo dia útil de dezembro de cada exercício.~~<br>
+~~§ 1º A data limite para a liquidação das despesas empenhadas será o décimo dia útil de dezembro de cada exercício.~~
+
 ~~\- [Vide Decreto nº 10.807, de 3-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111475/decreto-10807), que dispõe sobre normas para o encerramento da execução orçamentária, financeira e contábil do exercício financeiro de 2025.~~
 
 ~~§ 2º Para efeito do disposto no § 1º deste artigo, somente poderá ser liquidada a despesa que atenda a um dos seguintes requisitos:~~
@@ -582,7 +630,8 @@ DECRETO Nº 9.943, DE 8 DE SETEMBRO DE 2021<br>
 
 ~~II – na hipótese de realização de serviços e obras, a despesa verificada pela realização total ou parcial com a medição correspondente aferida e atestada.~~
 
-~~§ 3º Os atos das licitações autorizadas e ainda não concluídas que necessitem de documentos de ordem financeira e orçamentária, bem como o prosseguimento da fase externa dos certames, ficam suspensos, ressalvados os relativos a produtos e serviços essenciais, a juízo da Secretaria de Estado da Economia.~~<br>
+~~§ 3º Os atos das licitações autorizadas e ainda não concluídas que necessitem de documentos de ordem financeira e orçamentária, bem como o prosseguimento da fase externa dos certames, ficam suspensos, ressalvados os relativos a produtos e serviços essenciais, a juízo da Secretaria de Estado da Economia.~~
+
 ~~\- [Redação dada pelo Decreto nº 10.585, de 2-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110077/decreto-10585).~~
 
 ~~§ 3º Os atos das licitações autorizadas e ainda não concluídas que necessitem de documentos de ordem financeira e orçamentária, bem como o prosseguimento da fase externa dos certames, ficam suspensos, ressalvados os relativos a produtos e serviços essenciais, a juízo da Câmara de Gestão de Gastos a que se refere o [Decreto nº 9.660](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103155/decreto-9660), de 2020.~~
@@ -619,23 +668,30 @@ DECRETO Nº 9.943, DE 8 DE SETEMBRO DE 2021<br>
 
 ~~VIII – decorrentes de emendas individuais impositivas;~~
 
-~~IX – relacionadas às obras de pavimentação, restauração, sinalização e construção de rodovias estaduais e às outras obras de construção civil de responsabilidade da Agência Goiana de Infraestrutura e Transportes – GOINFRA;~~<br>
-~~[\- Redação dada pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~<br>
+~~IX – relacionadas às obras de pavimentação, restauração, sinalização e construção de rodovias estaduais e às outras obras de construção civil de responsabilidade da Agência Goiana de Infraestrutura e Transportes – GOINFRA;~~
+
+~~[\- Redação dada pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
+
 ~~\- [Vide Decreto nº 10.807, de 3-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111475/decreto-10807), que dispõe sobre normas para o encerramento da execução orçamentária, financeira e contábil do exercício financeiro de 2025.~~
 
 ~~IX – relacionadas às obras de pavimentação, restauração, sinalização e construção de rodovias estaduais e às outras obras de construção civil de responsabilidade da Agência Goiana de Infraestrutura e Transportes – GOINFRA cujos saldos dos empenhos deverão ser automaticamente anulados, no último dia útil do exercício, pela Superintendência de Orçamento e Despesa, da Secretaria de Estado da Economia;~~
 
-~~X – relacionadas ao enfrentamento de calamidades públicas ou emergências, inclusive médicas e sanitárias;~~<br>
+~~X – relacionadas ao enfrentamento de calamidades públicas ou emergências, inclusive médicas e sanitárias;~~
+
 ~~\- [Vide Decreto nº 10.807, de 3-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111475/decreto-10807), que dispõe sobre normas para o encerramento da execução orçamentária, financeira e contábil do exercício financeiro de 2025.~~
 
-~~XI – relativas ao suprimento de fundos de caráter secreto;~~ <br>
+~~XI – relativas ao suprimento de fundos de caráter secreto;~~ 
+
 ~~\- [Vide Decreto nº 10.807, de 3-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111475/decreto-10807), que dispõe sobre normas para o encerramento da execução orçamentária, financeira e contábil do exercício financeiro de 2025.~~
 
-~~XII – relativas à formação do Patrimônio do Servidor Público — PASEP;~~<br>
+~~XII – relativas à formação do Patrimônio do Servidor Público — PASEP;~~
+
 ~~\- [Vide Decreto nº 10.807, de 3-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111475/decreto-10807), que dispõe sobre normas para o encerramento da execução orçamentária, financeira e contábil do exercício financeiro de 2025.~~
 
-~~XIII – relacionadas aos programas de habitação de interesse social da Agência Goiana de Habitação S/A – AGEHAB, inclusive o Programa Pra Ter Onde Morar.~~   <br>
-~~[\- Acrescido pelo Decreto nº 10.016, de 29-12-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104733/decreto-10016)~~<br>
+~~XIII – relacionadas aos programas de habitação de interesse social da Agência Goiana de Habitação S/A – AGEHAB, inclusive o Programa Pra Ter Onde Morar.~~   
+
+~~[\- Acrescido pelo Decreto nº 10.016, de 29-12-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104733/decreto-10016)~~
+
 ~~\- [Vide Decreto nº 10.807, de 3-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111475/decreto-10807), que dispõe sobre normas para o encerramento da execução orçamentária, financeira e contábil do exercício financeiro de 2025.~~
 
 ~~Art. 51. A Secretaria de Estado da Economia ficará autorizada a bloquear os saldos orçamentários remanescentes a partir do décimo quinto dia útil de novembro de cada exercício.~~
@@ -736,7 +792,8 @@ DECRETO Nº 9.943, DE 8 DE SETEMBRO DE 2021<br>
 
 ~~Art. 68. A Secretaria de Estado da Economia poderá emitir atos complementares para a disciplina dos casos omissos, a adequação de datas e a orientação para a operacionalização dos procedimentos previstos neste Decreto.~~
 
-~~Art. 69. Os titulares dos órgãos da administração direta, das autarquias, das fundações, dos fundos e das empresas estatais dependentes, bem como os ordenadores de despesa, são responsáveis, no que lhes couber, pelo cumprimento do disposto neste Decreto.<br>
+~~Art. 69. Os titulares dos órgãos da administração direta, das autarquias, das fundações, dos fundos e das empresas estatais dependentes, bem como os ordenadores de despesa, são responsáveis, no que lhes couber, pelo cumprimento do disposto neste Decreto.
+
 [\- Redação dada pelo Decreto nº 10.057, de 09-03-2022.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057)~~
 
 ~~Art. 69. Os secretários de Estado, os titulares dos órgãos da administração indireta, das autarquias e das fundações, também os ordenadores de despesas são responsáveis, no que lhes couber, pelo cumprimento do disposto neste Decreto.~~
@@ -801,7 +858,8 @@ DECRETO Nº 9.943, DE 8 DE SETEMBRO DE 2021<br>
 
 ~~Governador do Estado~~
 
-~~**ANEXO ÚNICO**~~<br>
+~~**ANEXO ÚNICO**~~
+
 ~~\- [Redação dada pelo Decreto  nº 10.057, de 09-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057).~~
 
 ~~CALENDÁRIO ANUAL DE PROGRAMAÇÃO E EXECUÇÃO ORÇAMENTÁRIA E FINANCEIRA E PROCEDIMENTOS CONTÁBEIS~~
@@ -810,7 +868,8 @@ DECRETO Nº 9.943, DE 8 DE SETEMBRO DE 2021<br>
 | --- | --- | --- | --- |
 | ~~1~~ | ~~Último dia útil de cada mês~~ | ~~Art. 6º, § 2º~~ | ~~Os ingressos extraorçamentários que não se configuram como valores de terceiros, nos termos da Nota Técnica nº 003/2017/SEI/SCG, deverão ser identificados e regularizados no SCG, até o último dia útil do mês subsequente ao de seu registro _,_ nos termos do inciso III do art. 6º do [Decreto estadual nº 9.069](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/69813/decreto-9069), de 10 de outubro de 2017.~~ |
 | ~~2~~ | ~~Cronograma estabelecido por meio de Portaria~~ | ~~Art. 27~~ | ~~Os órgãos e as entidades deverão encaminhar suas solicitações de créditos suplementares e especiais de acordo com o cronograma estabelecido por meio de portaria da Secretaria de Estado da Economia, em conformidade com o que dispuser a Lei de Diretrizes Orçamentárias vigente.~~ |
-| ~~3~~ | ~~30 de julho~~ | ~~Art. 56, § 1º~~ | ~~As despesas empenhadas, inscritas em Restos a Pagar Processados e Não Processados, anteriores aos cinco últimos exercícios, deverão ser canceladas até 30 de junho de cada exercício.~~<br>
+| ~~3~~ | ~~30 de julho~~ | ~~Art. 56, § 1º~~ | ~~As despesas empenhadas, inscritas em Restos a Pagar Processados e Não Processados, anteriores aos cinco últimos exercícios, deverão ser canceladas até 30 de junho de cada exercício.~~
+
 ~~\- [Revogado pelo Decreto nº 10.057, de 09-03-2022, art. 3º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105145/decreto-10057).~~ |
 | ~~4~~ | ~~Março, maio, julho e outubro~~ | ~~Art. 34, § 1º~~ | ~~Caso a LDO não delimite as datas para as aberturas dos créditos adicionais citados no _caput_, ficam fixados os meses de março, maio, julho e outubro para a autorização dos créditos suplementares e os meses de março, junho e setembro para o encaminhamento dos projetos de lei de créditos especiais à Assembleia Legislativa.~~ |
 | ~~5~~ | ~~Março, junho e setembro~~ | ~~Art. 34, § 1º~~ | ~~Caso a LDO não delimite as datas para as aberturas dos créditos adicionais citados no _caput_, ficam fixados os meses de março, maio, julho e outubro para a autorização dos créditos suplementares e os meses de março, junho e setembro para o encaminhamento dos projetos de lei de créditos especiais à Assembleia Legislativa.~~ |

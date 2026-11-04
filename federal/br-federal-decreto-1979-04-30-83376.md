@@ -1,5 +1,3 @@
-###DEC-083376-0-000-30-04-1979@@@
-
 Decreto nº 83.376, de 30 de abril de 1979.
 
 Concede reconhecimento ao curso de Formação de Tecnólogos em Cooperativismo do Centro de Formação de Tecnólogos de Bananeiras, vinculado ao Centro de Ciências e Tecnologia do Campus de Campina Grande da Universidade Federal da Paraíba, com sede na idade de João Pessoa, Estado da Paraíba.

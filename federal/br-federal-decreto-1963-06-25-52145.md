@@ -1,5 +1,3 @@
-###DEC-052145-0-000-25-06-1963@@@
-
 DECRETO Nº 52.145, DE 25 DE JUNHO DE 1963.
 
 Abre, ao Tribunal de contas, o crédito especial de Cr$150.000,00 (cento e cinquenta mil cruzeiros) para o fim que especifica.

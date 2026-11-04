@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209365)<br>
-
 # LEI N° 17.912, DE 23 DE ABRIL DE 2024
 
 ## (Projeto de lei n° 1207/2023, da Deputada Carla Morando - PSDB)

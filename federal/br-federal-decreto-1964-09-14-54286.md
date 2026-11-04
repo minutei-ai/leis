@@ -1,5 +1,3 @@
-###DEC-054286-0-000-14-09-1964@@@
-
 DECRETO Nº 54.286, DE 14 DE SETEMBRO DE 1964.
 
 Prorroga o prazo a que se referem os arts. 2º do Decreto nº 814, de 31 de março de 1962 e 1º dos Decretos números 1.396, de 19 de setembro de 1962, 1.878 de 13 de dezembro de 1962, 51.863, de 25 de março de 1963, 52.148, de 25 de junho de 1963 e 52.477, de 16 de setembro de 1963.

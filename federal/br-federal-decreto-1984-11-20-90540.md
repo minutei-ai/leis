@@ -1,5 +1,3 @@
-###DEC-090540-0-000-20-11-1984@@@
-
 Decreto nº 90.540, de 20 de novembro de 1984
 
 Autoriza o funcionamento de habilitação do curso de Administração da Faculdade de Administração de Empresas Riopretense.

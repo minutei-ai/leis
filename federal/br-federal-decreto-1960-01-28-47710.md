@@ -1,5 +1,3 @@
-###DEC-047710-0-000-28-01-1960@@@
-
 DECRETO Nº 47.710, DE 28 DE JANEIRO DE 1960.
 
 Decreta luto oficial pelo falecimento do Embaixador Oswaldo Aranha e dispõe sôbre homenagens e seus funerais.

@@ -1,5 +1,3 @@
-###DEC-077188-0-000-19-02-1976@@@
-
 DECRETO Nº 77.188, DE 19 DE FEVEREIRO DE 1976.
 
 Cria o Consulado em Dallas.

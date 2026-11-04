@@ -1,5 +1,3 @@
-###DEC-065087-0-000-04-09-1969@@@
-
 Decreto nº 65.087 - de 4 de setembro de 1969.
 
 Abre ao Ministério da Fazenda o crédito especial de NCr$ 19.000.000,00 para o fim que especifica.

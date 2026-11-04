@@ -1,5 +1,3 @@
-###DEC-074654-0-000-04-10-1974@@@
-
 DECRETO nº 74.654, DE 4 DE OUTUBRO DE 1974.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado no Município de Colombo, Estado do Paraná.

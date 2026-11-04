@@ -1,5 +1,3 @@
-###DEC-053317-0-000-17-12-1963@@@
-
 DECRETO Nº 53.317 – DE 17 DE DEZEMBRO DE 1963
 
 Declara de utilidade pública diversas áreas de terras, situadas nos Estados de São Paulo e do Rio de Janeiro, necessárias à construção da Central Hidrelétrica do Funil, no rio Paraíba do Sul.

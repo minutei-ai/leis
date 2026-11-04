@@ -1,5 +1,3 @@
-###DEL-006067-0-000-03-12-1943@@@
-
 DECRETO‑LEI N. 6.067 – DE 3 DE DEZEMBRO DE 1943
 
 Reorganiza o Laboratório Nacional de Análises do Ministério da Fazenda e dá outras Providências

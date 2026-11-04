@@ -1,5 +1,3 @@
-###DEL-007511-0-000-30-04-1945@@@
-
 DECRETO-LEI N. 7.511 – DE 30 DE ABRIL DE 1945
 
 Dispõe sôbre o pessoal da Caixa Econômica Federal de Pernambuco

@@ -1,5 +1,3 @@
-###DEL-001466-0-000-10-05-1976@@@
-
 # DECRETO-LEI Nº 1.466, DE 10 DE MAIO DE 1976
 
 Altera o Decreto-lei nº 835, de 8 de setembro de 1969, que regula a aplicação do Fundo de Participação dos Estados, do Distrito Federal e dos Territórios, do Fundo de Participação dos Municípios e do Fundo Especial.

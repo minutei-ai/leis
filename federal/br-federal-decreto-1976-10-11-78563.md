@@ -1,5 +1,3 @@
-###DEC-078563-0-000-11-10-1976@@@
-
 DECRETO Nº 78.563, DE 11 DE OUTUBRO DE 1976.
 
 Altera dispositivo do Decreto número 76.946, de 30 de dezembro de 1975, que concedeu reconhecimento aos cursos de Letras, de Matemática, de Pedagogia e de Estudos Sociais, da Faculdade Riopretense de Filosofia, Ciências e Letras, com sede na Cidade de São José do Rio Preto, Estado de São Paulo.

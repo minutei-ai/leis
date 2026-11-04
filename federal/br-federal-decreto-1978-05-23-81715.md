@@ -1,5 +1,3 @@
-###DEC-081715-0-000-23-05-1978@@@
-
 Decreto n.º 81.715, de 23 de maio de 1978.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do imóvel que menciona, situado no Município de Iguatu, Estado do Ceará.

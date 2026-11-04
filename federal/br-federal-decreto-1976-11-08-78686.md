@@ -1,5 +1,3 @@
-###DEC-078686-0-000-08-11-1976@@@
-
 DECRETO Nº 78.686, DE 8 DE NOVEMBRO DE 1976.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona situado no Município de Pelotas, Estado do Rio Grande do Sul.

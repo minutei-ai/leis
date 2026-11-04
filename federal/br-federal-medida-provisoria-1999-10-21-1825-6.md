@@ -1,5 +1,3 @@
-###MPV-001825-0-006-21-10-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.825-6, DE 21 DE OUTUBRO DE 1999.
 
 Altera a Lei nº 4.229, de 1º de junho de 1963, autoriza a doação de bens e dá outras providências.

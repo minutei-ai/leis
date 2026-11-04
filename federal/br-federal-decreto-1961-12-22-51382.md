@@ -1,5 +1,3 @@
-###DEC-051382-0-000-22-12-1961@@@
-
 DECRETO Nº 51.382, DE 22 DE DEZEMBRO DE 1961.
 
 Concede ao Centro de Navegação Transatlântica de Santos a prerrogativa prevista no art. 513, alínea d da Consolidação das Leis do Trabalho.

@@ -1,5 +1,3 @@
-###DEC-068793-0-000-22-06-1971@@@
-
 DECRETO Nº 68.793 - DE 22 DE JUNHO DE 1971.
 
 Autoriza o funcionamento da Faculdade de Ciências Humanas, com os Cursos de Pedagogia, Psicologia, História e Letras, do Instituto Superior Metodista - IMES, em Rudge Ramos no Município de São Bernardo do Campo - SP.

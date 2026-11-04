@@ -4,7 +4,8 @@ Dispõe sobre a organização, estrutura e funcionamento da Ouvidoria da Defenso
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 FINALIDADE E COMPETÊNCIA
 
 Art. 1º - A Ouvidoria da Defensoria Pública, criada pela Lei Complementar nº [26](https://www.legislabahia.ba.gov.br/documentos/lc-no-26-de-28-de-junho-de-2006) , de 28 de junho de 2006, tem por finalidade receber, encaminhar e acompanhar as denúncias, reclamações e sugestões dos cidadãos relativas aos serviços prestados pela Defensoria Pública, competindo-lhe:
@@ -25,7 +26,8 @@ VII - preservar a identidade do denunciante, sempre que solicitado, e manter sig
 
 VIII - desenvolver outras atividades de intercâmbio com a sociedade civil que tenham por finalidade a otimização do serviço.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DAS ATRIBUIÇÕES DO TITULAR DO CARGO
 
 Art. 2º - Ao Ouvidor da Defensoria Pública do Estado cabe as seguintes atribuições:
@@ -76,7 +78,8 @@ XXII - criar mecanismos e instrumentos de monitoramento, avaliação e controle 
 
 XXIII - promover, articular e apoiar outras ações que visem à difusão e divulgação de práticas de cidadania.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DA ADMINISTRAÇÃO E COMPOSIÇÃO DA OUVIDORIA
 
 Art. 3º - Para atingir os seus objetivos, a Ouvidoria da Defensoria Pública do Estado poderá:

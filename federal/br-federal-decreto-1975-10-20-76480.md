@@ -1,5 +1,3 @@
-###DEC-076480-0-000-20-10-1975@@@
-
 Decreto Nº 76.480, de 20 de outubro de 1975.
 
 Autoriza o funcionamento do curso de Ciências Econômicas da Faculdade de Ciências Econômicas, Contábeis e Administrativas, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

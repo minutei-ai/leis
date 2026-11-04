@@ -1,10 +1,8 @@
-###DEC-032013-0-000-29-12-1952@@@
+**DECRETO Nº 32.013, DE 29 DE DEZEMBRO DE 1952.**
 
-<strong>DECRETO Nº 32.013, DE 29 DE DEZEMBRO DE 1952.</strong>
+***Dispõe sôbre os Planos de Indenizações de Guerra e dá outras providências.***
 
-<em><strong>Dispõe sôbre os Planos de Indenizações de Guerra e dá outras providências.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, número I, da Constituição, e, em face da proposta formulada pela Comissão de Reparações de Guerra, nos têrmos do Decreto-lei nº 8.533, de 4 janeiro de 1946, art. 2º e
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, número I, da Constituição, e, em face da proposta formulada pela Comissão de Reparações de Guerra, nos têrmos do Decreto-lei nº 8.533, de 4 janeiro de 1946, art. 2º e
 
 CONSIDERANDO, que o Decreto-lei número 8.533, de 4 de janeiro de 1946, que criou a Comissão de Reparações de Guerra, deu-lhe atribuições não só para propor ao Govêrno os atos necessários para especificação dos bens do Eixo que devem responde pelos atos de agressão contra a pessoa e bens dos brasileiros residentes ou domiciliados no país, como para elaborar o plano de pagamento das indenizações a que se refere o art. 3º parágrafo único, do Decreto-lei nº 4.166, de 11 de março de 1942:
 
@@ -18,23 +16,23 @@ CONSIDERANDO que, já na previsão dêsse saldo favorável, a Comissão de Repar
 
 CONSIDERANDO que o saldo favorável existente dá para cobrir integralmente, também, o pagamento dessas indenizações no montante aproximado de Cr$ 18.000.000,00 mediante a aprovação dêsse Plano Suplementar pelo presente Decreto; e
 
-CONSIDERANDO que o Govêrno, atendendo a reclamações de interessados, determinou por despacho de 31 de julho de 1951 ( <em>Diário</em> <em>Oficial</em> de 2 de agôsto de 1951) que se admitisse a um novo plano de reparações os pedidos de indenizações devidamente justificados, recebidos posteriormente aos prazos assinados para a habilitação, e
+CONSIDERANDO que o Govêrno, atendendo a reclamações de interessados, determinou por despacho de 31 de julho de 1951 ( *DiárioOficial* de 2 de agôsto de 1951) que se admitisse a um novo plano de reparações os pedidos de indenizações devidamente justificados, recebidos posteriormente aos prazos assinados para a habilitação, e
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º É o Banco do Brasil S. A. AGEDE (Decreto-lei nº 5.661, de 12 julho de 1943), autorizada a liquidar imediatamente, não só o saldo do 1º Plano de Indenizações de Guerra, aprovado pelo Decreto número 25.147, de 29 de junho de 1948, como também concomitantemente, o valor integral das indenizações por perdas de vida e danos à saúde incluídas no Plano Suplementar ora aprovado.
+**Art**. 1º É o Banco do Brasil S. A. AGEDE (Decreto-lei nº 5.661, de 12 julho de 1943), autorizada a liquidar imediatamente, não só o saldo do 1º Plano de Indenizações de Guerra, aprovado pelo Decreto número 25.147, de 29 de junho de 1948, como também concomitantemente, o valor integral das indenizações por perdas de vida e danos à saúde incluídas no Plano Suplementar ora aprovado.
 
-<strong>Art</strong>. 2º Para os fins previstos no artigo anterior, a Comissão de Reparações de Guerra e Agência Especial de Defesa Econômica do Banco do Brasil S. A., no exercício de suas respectivas atribuições, usando não só do produto dos bens e haveres especificados nas alíneas a, b, e c do art. 3º do Decreto nº 25.147 de 29 de junho de 1948, como de quaisquer importâncias em dinheiro que façam parte integrante do “Fundo de Indenizações”, nos têrmos do citado art. 3º à proporção que sejam necessárias e sem prejuízo da devolução do que tenha sido liberado, que se fará em títulos (Lei nº 1.224, de 4 de novembro de 1950, art. 1º § 2º) ou com outras verbas do “Fundo de Indenizações”, dando-se apenas a natural prioridade ao pagamento das indenizações devidas e já deferidas que integram os dois planos a que se refere o citado artigo anterior.
+**Art**. 2º Para os fins previstos no artigo anterior, a Comissão de Reparações de Guerra e Agência Especial de Defesa Econômica do Banco do Brasil S. A., no exercício de suas respectivas atribuições, usando não só do produto dos bens e haveres especificados nas alíneas a, b, e c do art. 3º do Decreto nº 25.147 de 29 de junho de 1948, como de quaisquer importâncias em dinheiro que façam parte integrante do “Fundo de Indenizações”, nos têrmos do citado art. 3º à proporção que sejam necessárias e sem prejuízo da devolução do que tenha sido liberado, que se fará em títulos (Lei nº 1.224, de 4 de novembro de 1950, art. 1º § 2º) ou com outras verbas do “Fundo de Indenizações”, dando-se apenas a natural prioridade ao pagamento das indenizações devidas e já deferidas que integram os dois planos a que se refere o citado artigo anterior.
 
-<strong>Art</strong>. 3º Fica marcado o prazo improrrogável de 120 dias para a apresentação, pelos interessados, à Comissão de Reparações de Guerra de quaisquer reclamações com fundamento nos danos ou prejuízos por atos de agressão das potências do Eixo a que se refere o Decreto-lei nº 4.166, de 11 de março de 1942, que constituirão 3º e último plano de Indenizações de Guerra a ser pago nos têrmos do referido Decreto-lei.
+**Art**. 3º Fica marcado o prazo improrrogável de 120 dias para a apresentação, pelos interessados, à Comissão de Reparações de Guerra de quaisquer reclamações com fundamento nos danos ou prejuízos por atos de agressão das potências do Eixo a que se refere o Decreto-lei nº 4.166, de 11 de março de 1942, que constituirão 3º e último plano de Indenizações de Guerra a ser pago nos têrmos do referido Decreto-lei.
 
-<strong>Art</strong>. 4º O presente Decreto entra em vigor na data, de sua publicação.
+**Art**. 4º O presente Decreto entra em vigor na data, de sua publicação.
 
-<strong>Art</strong>. 5º Revogam-se as disposições em contrário.
+**Art**. 5º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 29 de dezembro de 1952, 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Francisco Negrão de Lima
 

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/0c2c43eb-7d7b-40a0-9c61-6e03b41f2fb5/texto#nowhere)
 
-###DEL-001228-0-000-03-07-1972@@@
-
 # DECRETO-LEI Nº 1.228, DE 3 DE JULHO DE 1972
 
 Dispõe sobre a isenção do imposto de renda das empresas estrangeiras de transporte terrestre.

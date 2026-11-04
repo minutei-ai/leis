@@ -1,5 +1,3 @@
-###DEC-085621-0-000-06-01-1981@@@
-
 Decreto nº 85.621, de 06 de janeiro de 1981.
 
 Promulga o Acordo sobre Cooperação Cultural entre o Governo da República Federativa do Brasil e o Governo da República de Cabo Verde.

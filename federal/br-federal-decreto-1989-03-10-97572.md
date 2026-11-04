@@ -1,5 +1,3 @@
-###DEC-097572-0-000-10-03-1989@@@
-
 DECRETO Nº 97.572, DE 10 DE MARÇO DE 1989
 
 Declara de interesse social, para fins de reforma agrária. o imóvel rural denominado “Fazenda Boa Vista”, classificado como latifúndio por exploração, situado no Município de Jacuipe, no Estado de Alagoas, compreendido na zona prioritária, fixada pelo Decreto n° 92.686, de 19 de maio de 1986, e dá outras providências.

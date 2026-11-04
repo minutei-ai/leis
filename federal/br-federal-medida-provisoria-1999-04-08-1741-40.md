@@ -1,5 +1,3 @@
-###MPV-001741-0-040-08-04-1999@@@
-
 MEDIDA PRoVISÓRIA Nº 1.741-40, DE 8 DE ABRIL DE 1999
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional - NTN destinadas a aumento de capital do Banco do Brasil S.A., e dá outras providências.

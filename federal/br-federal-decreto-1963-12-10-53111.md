@@ -1,5 +1,3 @@
-###DEC-053111-0-000-10-12-1963@@@
-
 DECRETO Nº 53.111, DE 10 DE DEZEMBRO DE 1963.
 
 Renova o Decreto nº 47.396, de 10 de dezembro de 1959.

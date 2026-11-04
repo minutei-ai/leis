@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/9ca5ac3b-3323-4488-93bf-8c06e52130d0/texto#nowhere)
 
-###DEL-002269-0-000-13-03-1985@@@
-
 # DECRETO-LEI Nº 2.269, DE 13 DE MARÇO DE 1985
 
 Estende a concessão da Gratificação de Atividade Técnico-Administrativa aos ocupantes de cargos e empregos de nível superior do Quadro e das Tabelas de Pessoal do Distrito Federal e de suas autarquias.

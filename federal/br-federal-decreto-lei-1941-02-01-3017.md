@@ -1,5 +1,3 @@
-###DEL-003017-0-000-01-02-1941@@@
-
 DECRETO-LEI N. 3.017 – DE 1 DE FEVEREIRO DE 1941
 
 Cria a função gratificada de Secretário do Colégio Pedro II (Externato) e dá outras providências

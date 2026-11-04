@@ -1,5 +1,3 @@
-###DEC-083751-0-000-19-07-1979@@@
-
 Decreto nº 83.751, de 19 de julho de 1979.
 
 Declara sem efeito o Decreto nº 43.482, de 02 de abril de 1958, que autorizou a Sociedade de Mineração Ernesto Zabeu & Filhos Ltda. a lavrar caulim e associados no Município de São Bernardo do Campo, Estado de São Paulo.

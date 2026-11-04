@@ -1,5 +1,3 @@
-###DEC-088273-0-000-03-05-1983@@@
-
 DECRETO Nº 88.273, de 03 de maio de 1983.
 
 Extingue a Pagadoria de Inativos e Pensionistas da 3ª Região Militar, no Ministério do Exército, e dá outras providências.

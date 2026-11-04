@@ -1,7 +1,3 @@
-1
-
-###DEC-001650-0-000-27-09-1995@@@
-
 DECRETO Nº 1.650, DE 27 DE SETEMBRO DE 1995.
 
 Altera dispositivos do Regimento Interno da Comissão Técnica da Moeda e do Crédito (COMOC), aprovado pelo Decreto nº 1.304, de 9 de novembro de 1994.

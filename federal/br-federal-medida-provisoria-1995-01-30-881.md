@@ -1,7 +1,3 @@
-1
-
-###MPV-000881-0-000-30-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 881, DE 30 DE JANEIRO DE 1995
 
 Autoriza a utilização de recursos do Fundo da Marinha Mercante - FMM, em favor da Companhia de Navegação Lloyd Brasileiro - (Lloydbrás).

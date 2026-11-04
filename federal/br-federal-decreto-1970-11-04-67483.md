@@ -1,5 +1,3 @@
-###DEC-067483-0-000-04-11-1970@@@
-
 DECRETO Nº 67.483, DE 4 DE NOVEMBRO DE 1970.
 
 Torna sem efeito redistribuição, com os respectivos ocupantes, de cargos originários das extintas autarquias Companhia Nacional de Navegação Costeira - Autarquia Federal e Lloyd Brasileiro - Patrimônio Nacional e dá outras providências.

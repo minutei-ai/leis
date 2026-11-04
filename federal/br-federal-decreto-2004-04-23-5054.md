@@ -1,5 +1,3 @@
-###DEC-005054-0-000-23-04-2004@@@
-
 DECRETO Nº 5.054,  DE 23 DE ABRIL DE 2004
 
 Dispõe sobre o procedimento administrativo para aplicação de penalidades por infrações cometidas nas atividades cinematográfica e videofonográfica e em outras atividades a elas vinculadas, e dá outras providências.

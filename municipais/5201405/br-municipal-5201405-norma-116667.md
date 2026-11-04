@@ -10,8 +10,10 @@ Art. 2º - Esta Lei entra em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal, Estado de Goiás, 20 de março de 2017.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil

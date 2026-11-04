@@ -1,5 +1,3 @@
-###DEC-053773-0-000-20-03-1964@@@
-
 DECRETO Nº 53.773, DE 20 DE MARÇO DE 1964.
 
 Suprime cargo extinto.

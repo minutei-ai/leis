@@ -1,5 +1,3 @@
-###DEC-003492-0-000-29-05-2000@@@
-
 DECRETO Nº 3.492, DE 29 DE MAIO DE 2000.
 
 Dispõe sobre a inclusão de empresa no Anexo ao Decreto nº 3.280, de 8 de dezembro de 1999, que trata da vinculação de entidades integrantes da Administração Pública Federal indireta.

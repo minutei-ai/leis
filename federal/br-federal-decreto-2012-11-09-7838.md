@@ -1,5 +1,3 @@
-###DEC-007838-0-000-09-11-2012-PUB-01@@@
-
 DECRETO N° \- 7.838, DE 9 DE NOVEMBRO DE 2012
 
 Aprova o Regulamento do Fundo de Desenvolvimento do Nordeste - FDNE.

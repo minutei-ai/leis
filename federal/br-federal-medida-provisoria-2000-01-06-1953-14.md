@@ -1,5 +1,3 @@
-###MPV-001953-0-014-06-01-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.953-14, DE 6 de JANEIRO DE 2000.
 
 Institui o Auxilio-Transporte aos militares, servidores e empregados públicos da Administração Federal direta, autárquica e funcional da União, e revoga o § 1º do art. 1º da Lei nº 7.418, de 16 de dezembro de 1985.

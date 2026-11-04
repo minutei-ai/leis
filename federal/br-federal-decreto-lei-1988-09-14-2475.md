@@ -1,7 +1,3 @@
-1
-
-###DEL-002475-0-000-14-09-1988@@@
-
 # DECRETO-LEI Nº 2.475, DE 14 DE SETEMBRO DE 1988
 
 Dispõe sobre a aplicação do Decreto-Lei nº 2.280, de 16 de dezembro de 1985, aos servidores do Tribunal Federal de Recursos, e dá outras providências.

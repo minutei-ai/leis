@@ -1,5 +1,3 @@
-###MPV-001638-0-000-14-01-1998@@@
-
 # MEDIDA PROVISÓRIA Nº 1.638, DE 14 DE JANEIRO DE 1998
 
 Dispõe sobre a simplificação do arquivamento de atos nas Juntas Comerciais e do protesto de título de dívida de microempresas e de empresas de pequeno porte, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-084625-0-000-09-04-1980@@@
-
 Decreto nº 84.625, de 09 de abril de 1980
 
 Dispensa a licitação na alienação de terras públicas que menciona, e dá outras providências.

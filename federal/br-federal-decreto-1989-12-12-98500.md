@@ -1,5 +1,3 @@
-###DEC-098500-0-000-12-12-1989@@@
-
 DECRETO Nº 98.500, DE 12 DE DEZEMBRO DE 1989
 
 Altera dispositivos do Regulamento de Passaportes.

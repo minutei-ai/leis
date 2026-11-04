@@ -1,5 +1,3 @@
-###DEC-002378-0-000-12-11-1997@@@
-
 DECRETO Nº 2.378, DE 12 DE NOVEMBRO DE 1997
 
 Dispõe sobre a execução do Oitavo Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação nº 10 (Protocolo de Adequação), entre Brasil e Colômbia, de 26 de setembro de 1997.

@@ -1,5 +1,3 @@
-###DEC-053432-0-000-20-01-1964@@@
-
 DECRETO Nº 53.432, DE 20 DE JANEIRO DE 1964.
 
 Concede à Cerâmica Togni LTDA. autorização para funcionar como emprêsa de mineração.

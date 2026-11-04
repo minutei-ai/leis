@@ -1,5 +1,3 @@
-###DEC-075138-0-000-23-12-1974@@@
-
 DECRETO Nº 75.138, DE 23 DE DEZEMBRO DE 1974.
 
 Altera a redação do artigo 1º, do Decreto número 74.044, de 10 de maio de 1974, que criou o Serviço de Auditoria da Marinha.

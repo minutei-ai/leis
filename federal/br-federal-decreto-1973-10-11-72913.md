@@ -1,5 +1,3 @@
-###DEC-072913-0-000-11-10-1973@@@
-
 DECRETO Nº 72.913, DE 11 DE OUTUBRO DE 1973.
 
 Declara de utilidade pública a instituição que menciona

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/155101)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/constituicao/1989/compilacao-constituicao-0-05.10.1989.html)
 
 # CONSTITUIÇÃO ESTADUAL, DE 05 DE OUTUBRO DE 1989
@@ -9,7 +8,8 @@
 
 O Povo Paulista, invocando a proteção de Deus, e inspirado nos princípios constitucionais da República e no ideal de a todos assegurar justiça e bem-estar, decreta e promulga, por seus representantes, a CONSTITUIÇÃO DO ESTADO DE SÃO PAULO.
 
-#### TÍTULO I<br>
+#### TÍTULO I
+
 Dos Fundamentos do Estado
 
 **Artigo 1° -** O Estado de São Paulo, integrante da República Federativa do Brasil, exerce as competências que não lhe são vedadas pela Constituição Federal.
@@ -20,10 +20,12 @@ Dos Fundamentos do Estado
 
 **Artigo 4° -** Nos procedimentos administrativos, qualquer que seja o objeto, observar-se-ão, entre outros requisitos de validade, a igualdade entre os administrados e o devido processo legal, especialmente quanto à exigência da publicidade, do contraditório, da ampla defesa e do despacho ou decisão motivados.
 
-#### TÍTULO II<br>
+#### TÍTULO II
+
 Da Organização dos Poderes
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposições Preliminares
 
 **Artigo 5° -** São Poderes do Estado, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.
@@ -38,10 +40,12 @@ Disposições Preliminares
 
 **Artigo 8° -** Além dos indicados no artigo 26 da Constituição Federal, incluem-se entre os bens do Estado os terrenos reservados às margens dos rios e lagos do seu domínio.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Do Poder Legislativo
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Da Organização do Poder Legislativo
 
 **Artigo 9° -** O Poder Legislativo é exercido pela Assembleia Legislativa, constituída de Deputados, eleitos e investidos na forma da legislação federal, para uma legislatura de quatro anos.
@@ -184,7 +188,8 @@ _\- Item 11 acrescentado pela [Emenda Constitucional n° 10, de 20/02/2001](http
 
 _\- § 4° acrescentado pela [Emenda Constitucional n° 42, de 15/10/2015](https://www.al.sp.gov.br/norma/176057)._
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Dos Deputados
 
 ~~Artigo 14 - Os Deputados são invioláveis por suas opiniões, palavras e votos.~~
@@ -357,7 +362,8 @@ _\- "Caput" com redação dada pela [Emenda Constitucional n° 21, de 14/02/2006
 
 **Parágrafo único -** Os Deputados farão declaração pública de bens, no ato da posse e no término do mandato.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Das Atribuições do Poder Legislativo
 
 **Artigo 19 -** Compete à Assembleia Legislativa, com a sanção do Governador, dispor sobre todas as matérias de competência do Estado, ressalvadas as especificadas no artigo 20, e especialmente sobre:
@@ -408,7 +414,7 @@ _\- Inciso III com redação dada pela [Emenda Constitucional n° 21, de 14/02/2
 
 _\- Inciso V com redação dada pela [Emenda Constitucional n° 20, de 08/04/2005](https://www.al.sp.gov.br/norma/130353)._
 
-**VI -** tomar e julgar, anualmente, as contas prestadas ~~pela Mesa da Assembleia Legislativa,~~ pelo Governador ~~e~~ ~~pelo Presidente do Tribunal de Justiça, respectivamente, do Poder Legislativo, do Poder Executivo e do Poder Judiciário,~~ e apreciar os relatórios sobre a execução dos Planos de Governo; (NR)
+**VI -** tomar e julgar, anualmente, as contas prestadas ~~pela Mesa da Assembleia Legislativa,~~ pelo Governador ~~epelo Presidente do Tribunal de Justiça, respectivamente, do Poder Legislativo, do Poder Executivo e do Poder Judiciário,~~ e apreciar os relatórios sobre a execução dos Planos de Governo; (NR)
 
 _\- Expressões "pela Mesa da Assembleia Legislativa" e "e pelo Presidente do Tribunal de Justiça, respectivamente, do Poder Legislativo, do Poder Executivo e do Poder Judiciário", anteriormente constantes deste inciso, declaradas inconstitucionais, em controle concentrado, pelo Supremo Tribunal Federal nos autos da_ [_ADI n° 6981_](https://portal.stf.jus.br/)_._
 
@@ -484,7 +490,8 @@ _\- Inciso XXIV com redação dada pela [Emenda Constitucional n° 41, de 17/09/
 
 **XXVI -** apreciar, anualmente, as contas do Tribunal de Contas.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Do Processo Legislativo
 
 **Artigo 21 -** O processo legislativo compreende a elaboração de:
@@ -711,14 +718,16 @@ _\- § 6° com redação dada pela [Emenda Constitucional n° 22, de 25/05/2006]
 
 _\- Expressão "Ressalvados os projetos de iniciativa exclusiva", anteriormente constante deste artigo, declarada inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal nos autos da_ [_ADI n° 1546_](http://portal.stf.jus.br/)_._
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 Da Procuradoria da Assembleia Legislativa
 
 **Artigo 30 -** À Procuradoria da Assembleia Legislativa compete exercer a representação judicial, a consultoria e o assessoramento técnico-jurídico do Poder Legislativo.
 
 **Parágrafo único -** Lei de iniciativa da Mesa da Assembleia Legislativa organizará a Procuradoria da Assembleia Legislativa, observados os princípios e regras pertinentes da Constituição Federal e desta Constituição, disciplinará sua competência e disporá sobre o ingresso na classe inicial, mediante concurso público de provas e títulos.
 
-#### SEÇÃO VI<br>
+#### SEÇÃO VI
+
 Do Tribunal de Contas
 
 **Artigo 31 -** O Tribunal de Contas do Estado, integrado por sete Conselheiros, tem sede na Capital do Estado, quadro próprio de pessoal e jurisdição em todo o território estadual, exercendo, no que couber, as atribuições previstas no artigo 96 da Constituição Federal.
@@ -769,7 +778,8 @@ _\- § 3° com redação dada pela [Emenda Constitucional n° 21, de 14/02/2006]
 
 **§6° -** Os Conselheiros do Tribunal de Contas do Estado farão declaração pública de bens, no ato da posse e no término do exercício do cargo.
 
-#### SEÇÃO VII<br>
+#### SEÇÃO VII
+
 Da Fiscalização Contábil, Financeira e Orçamentária
 
 **Artigo 32 -** A fiscalização contábil, financeira, orçamentária, operacional e patrimonial do Estado, das entidades da administração direta e indireta e das fundações instituídas ou mantidas pelo Poder Público, quanto à legalidade, legitimidade, economicidade, aplicação de subvenções e renúncia de receitas, será exercida pela Assembleia Legislativa, mediante controle externo, e pelo sistema de controle interno de cada Poder.
@@ -840,10 +850,12 @@ _\- Inciso III com redação dada pela [Emenda Constitucional n° 21, de 14/02/2
 
 **Artigo 36 -** O Tribunal de Contas prestará suas contas, anualmente, à Assembleia Legislativa, no prazo de sessenta dias, a contar da abertura da sessão legislativa.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Do Poder Executivo
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Do Governador e Vice-Governador do Estado
 
 ~~Artigo 37 - O Poder Executivo é exercido pelo Governador do Estado, eleito para um mandato de quatro anos, na forma estabelecida pela Constituição Federal.~~
@@ -888,7 +900,8 @@ _\- § 1° declarado inconstitucional, em controle concentrado, pelo Supremo Tri
 
 **Artigo 46 -** O Governador e o Vice-Governador deverão, no ato da posse e no término do mandato, fazer declaração pública de bens.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Das Atribuições do Governador
 
 **Artigo 47 -** Compete privativamente ao Governador, além de outras atribuições previstas nesta Constituição:
@@ -949,7 +962,8 @@ _\- Alínea "b" acrescentada pela [Emenda Constitucional n° 21, de 14/02/2006](
 
 **Parágrafo único -** A representação a que se refere o inciso I poderá ser delegada por lei, de iniciativa do Governador, a outra autoridade.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da Responsabilidade do Governador
 
 ~~Artigo 48 - São crimes de responsabilidade do Governador os que atentem contra a Constituição Federal ou a do Estado, especialmente contra:~~
@@ -1030,7 +1044,8 @@ _\- § 6° declarado inconstitucional, em controle concentrado, pelo Supremo T
 
 _\- Artigo 50 declarado inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal nos autos da_ [_ADI n° 2220_](http://portal.stf.jus.br/)_._
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Dos Secretários de Estado
 
 **Artigo 51 -** Os Secretários de Estado serão escolhidos entre brasileiros maiores de vinte e um anos e no exercício dos direitos políticos.
@@ -1089,10 +1104,12 @@ _\- § 4° acrescentado pela [Emenda Constitucional n° 37, de 05/12/2012](https
 
 **Artigo 53 -** Os Secretários farão declaração pública de bens, no ato da posse e no término do exercício do cargo, e terão os mesmos impedimentos estabelecidos nesta Constituição para os Deputados, enquanto permanecerem em suas funções.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Do Poder Judiciário
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposições Gerais
 
 ~~Artigo 54 - São órgãos do Poder Judiciário do Estado:~~
@@ -1187,7 +1204,8 @@ _\- § 3° com redação dada pela [Emenda Constitucional n° 21, de 14/02/2006]
 
 ~~**§4° -** Os créditos de natureza não alimentícia serão pagos nos termos do parágrafo anterior, desde que não superiores a trinta e seis mil Unidades Fiscais do Estado de São Paulo ou o equivalente vigentes na data do efetivo pagamento.~~
 
-**§4° -** O disposto no "caput" deste artigo, relativamente à expedição dos precatórios, não se aplica aos pagamentos de obrigações definidas em lei como de pequeno valor que a Fazenda Estadual ou Municipal deva fazer em virtude de sentença judicial transitada em julgado. (NR)<br>
+**§4° -** O disposto no "caput" deste artigo, relativamente à expedição dos precatórios, não se aplica aos pagamentos de obrigações definidas em lei como de pequeno valor que a Fazenda Estadual ou Municipal deva fazer em virtude de sentença judicial transitada em julgado. (NR)
+
 _\- § 4° com redação dada pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354)._
 
 **§5° -** São vedados a expedição de precatório complementar ou suplementar de valor pago, bem como fracionamento, repartição ou quebra do valor da execução, a fim de que seu pagamento não se faça, em parte, na forma estabelecida no § 4° deste artigo e, em parte, mediante expedição de precatório. (NR)
@@ -1276,7 +1294,7 @@ _\- § 1° revogado pela [Emenda Constitucional n° 8, de 20/05/1999](https://ww
 
 ~~**§ 2° -**Dentre os nomes indicados, o Órgão Especial do Tribunal de Justiça formará lista tríplice, encaminhando-a ao Governador do Estado que, nos vinte dias subseqüentes, nomeará um de seus integrantes para o cargo.~~
 
-**§ 2°** **\-** Transformado em parágrafo único.
+**§ 2°\-** Transformado em parágrafo único.
 
 _\- § 2° transformado em parágrafo único pela [Emenda Constitucional n° 8, de 20/05/1999](https://www.al.sp.gov.br/norma/130329)._
 
@@ -1314,8 +1332,10 @@ _\- Artigo 64 com redação dada pela [Emenda Constitucional n° 21, de 14/02/20
 
 **Parágrafo único -** Compete ao Poder Judiciário a realização do concurso de que trata este artigo, observadas as normas da legislação estadual vigente.
 
-#### SEÇÃO II<br>
-~~Da Competência dos Tribunais~~<br>
+#### SEÇÃO II
+
+~~Da Competência dos Tribunais~~
+
 Da Competência do Tribunal de Justiça (NR)
 
 _\- Denominação da Seção II com redação dada pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354)._
@@ -1396,7 +1416,8 @@ _\- § 1° com redação dada pela [Emenda Constitucional n° 21, de 14/02/2006]
 
 **§2° -** Em nenhuma hipótese haverá redistribuição ou passagem de processos, salvo para o voto do revisor.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Do Tribunal de Justiça
 
 **Artigo 73 -** O Tribunal de Justiça, órgão superior do Poder Judiciário do Estado, com jurisdição em todo o seu território e sede na Capital, compõe-se de Desembargadores em número que a lei fixar, providos pelos critérios de antiguidade e de merecimento, em conformidade com o disposto nos artigos 58 e 63 deste Capítulo.
@@ -1467,8 +1488,10 @@ _\- § 2° com redação dada pela [Emenda Constitucional n° 21, de 14/02/2006]
 
 **Artigo 77 -** Compete, ademais, ao Tribunal de Justiça, por seus órgãos específicos, exercer controle sobre atos e serviços auxiliares da justiça, abrangidos os notariais e os de registro.
 
-#### SEÇÃO IV<br>
-~~Dos Tribunais de Alçada~~<br>
+#### SEÇÃO IV
+
+~~Dos Tribunais de Alçada~~
+
 Revogada
 
 _\- Seção IV revogada pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354)._
@@ -1483,7 +1506,7 @@ _~~\- Artigo 78 com redação dada pela [Emenda Constitucional n° 8, de 20/05/1
 
 _\- Artigo 78 revogado pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354)._
 
-~~**Artigo** **79 -** Ressalvada a competência residual do Tribunal de Justiça, compete, em grau de recursos, aos Tribunais de Alçada, além de outros feitos definidos em lei, processar e julgar:~~
+~~**Artigo79 -** Ressalvada a competência residual do Tribunal de Justiça, compete, em grau de recursos, aos Tribunais de Alçada, além de outros feitos definidos em lei, processar e julgar:~~
 
 ~~**Artigo 79 -** Os atuais Juízes de Alçada são alçados a Desembargador do Tribunal de Justiça observada a ordem de antiguidade. (NR)~~
 
@@ -1599,8 +1622,10 @@ _\- § 1° revogado pela [Emenda Constitucional n° 21, de 14/02/2006](https://w
 
 _\- § 2° revogado pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354)._
 
-#### SEÇÃO V<br>
-~~Do Tribunal de Justiça Militar e dos Conselhos de Justiça Militar~~<br>
+#### SEÇÃO V
+
+~~Do Tribunal de Justiça Militar e dos Conselhos de Justiça Militar~~
+
 Da Justiça Militar do Estado (NR)
 
 _\- Seção V com redação dada pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354)._
@@ -1651,12 +1676,14 @@ _\- "Caput" com redação dada pela [Emenda Constitucional n° 21, de 14/02/2006
 
 _\- Parágrafo único com redação dada pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354)._
 
-#### SEÇÃO VI<br>
+#### SEÇÃO VI
+
 Dos Tribunais do Júri
 
 **Artigo 83 -** Os Tribunais do Júri têm as competências e garantias previstas no artigo 5°, XXXVIII da Constituição Federal. Sua organização obedecerá ao que dispuser a lei federal e, no que couber, a Lei de Organização Judiciária.
 
-#### SEÇÃO VII<br>
+#### SEÇÃO VII
+
 Das Turmas de Recursos
 
 **Artigo 84 -** As Turmas de Recursos são formadas por juízes de direito titulares da mais elevada entrância de Primeiro Grau, na Capital ou no Interior, observada a sua sede, nos termos da resolução do Tribunal de Justiça, que designará seus integrantes, os quais poderão ser dispensados, quando necessário, do serviço de suas varas.
@@ -1665,7 +1692,8 @@ Das Turmas de Recursos
 
 **§2° -** A designação prevista neste artigo deverá ocorrer antes da distribuição dos processos de competência da Turma de Recursos.
 
-#### SEÇÃO VIII<br>
+#### SEÇÃO VIII
+
 Dos Juízes de Direito
 
 **Artigo 85 -** Os juízes de Direito integram a carreira da Magistratura e exercem a jurisdição comum estadual de primeiro grau, nas comarcas e juízos, segundo a competência determinada por lei.
@@ -1678,19 +1706,22 @@ Dos Juízes de Direito
 
 **§3° -** O Tribunal de Justiça organizará a infraestrutura humana e material necessária ao exercício dessa atividade jurisdicional.
 
-#### SEÇÃO IX<br>
+#### SEÇÃO IX
+
 Dos Juizados Especiais e dos Juizados de Pequenas Causas
 
 **Artigo 87 -** Os Juizados Especiais das Causas Cíveis de Menor Complexidade e das Infrações Penais de Menor Potencial Ofensivo terão sua composição e competência definidas em lei, obedecidos os princípios previstos no artigo 98, I, da Constituição Federal.
 
 **Artigo 88 -** A lei disporá sobre a criação, funcionamento e processo dos Juizados de Pequenas Causas a que se refere o artigo 24, X, da Constituição Federal.
 
-#### SEÇÃO X<br>
+#### SEÇÃO X
+
 Da Justiça de Paz
 
 **Artigo 89 -** A Justiça de Paz compõe-se de cidadãos remunerados, eleitos pelo voto direto, universal e secreto, com mandato de quatro anos, e tem competência para, na forma da lei, celebrar casamentos, verificar, de ofício ou em face de impugnação apresentada, o processo de habilitação e exercer atribuições conciliatórias, sem caráter jurisdicional, além de outras previstas na legislação.
 
-#### SEÇÃO XI<br>
+#### SEÇÃO XI
+
 Da Declaração de Inconstitucionalidade e da Ação Direta de Inconstitucionalidade
 
 **Artigo 90 -** São partes legítimas para propor ação de inconstitucionalidade de lei ou ato normativo estaduais ou municipais, contestados em face desta Constituição ou por omissão de medida necessária para tornar efetiva norma ou princípio desta Constituição, no âmbito de seu interesse:
@@ -1723,10 +1754,12 @@ _\- § 3° com execução suspensa pela_ [_Resolução do Senado Federal n° 46
 
 **§6° -** Nas declarações incidentais, a decisão dos Tribunais dar-se-á pelo órgão jurisdicional colegiado competente para exame da matéria.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Das Funções Essenciais à Justiça
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Do Ministério Público
 
 **Artigo 91 -** O Ministério Público é instituição permanente, essencial à função jurisdicional do Estado, incumbindo-lhe a defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis.
@@ -1875,7 +1908,8 @@ _\- Inciso VII acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](h
 
 **2 -** propor à autoridade administrativa competente a instauração de sindicância para a apuração de falta disciplinar ou ilícito administrativo.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Da Procuradoria Geral do Estado
 
 ~~Artigo 98 - A Procuradoria Geral do Estado é instituição de natureza permanente, essencial à Administração Pública Estadual, vinculada diretamente ao Governador, responsável pela advocacia do Estado, da Administração direta e autarquias e pela assessoria e consultoria jurídica do Poder Executivo, sendo orientada pelos princípios da legalidade e da indisponibilidade do interesse público.~~
@@ -1894,7 +1928,8 @@ _\- §1° com redação dada pela [Emenda Constitucional n° 21, de 14/02/2006](
 
 _\- § 2° com redação dada pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354)._
 
-**§3° -** Aos procuradores referidos neste artigo é assegurada estabilidade após três anos de efetivo exercício, mediante avaliação de desempenho perante os órgãos próprios, após relatório circunstanciado das corregedorias. (NR)<br>
+**§3° -** Aos procuradores referidos neste artigo é assegurada estabilidade após três anos de efetivo exercício, mediante avaliação de desempenho perante os órgãos próprios, após relatório circunstanciado das corregedorias. (NR)
+
 _\- § 3° com redação dada pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354)._
 
 **Artigo 99 -** São funções institucionais da Procuradoria Geral do Estado:
@@ -1963,7 +1998,8 @@ _\- Parágrafo único acrescentado pela [Emenda Constitucional n° 19, de 14/04/
 
 **Artigo 102 -** As autoridades e servidores da Administração Estadual ficam obrigados a atender às requisições de certidões, informações, autos de processo administrativo, documentos e diligências formuladas pela Procuradoria Geral do Estado, na forma da lei.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da Defensoria Pública
 
 **Artigo 103** \- À Defensoria Pública, instituição essencial à função jurisdicional do Estado, compete a orientação jurídica e a defesa dos necessitados, em todos os graus.
@@ -1978,7 +2014,8 @@ _\- § 1° acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https
 
 _\- § 2° acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354)._
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Da Advocacia
 
 **Artigo 104 -** O advogado é indispensável à administração da justiça e, nos termos da lei, inviolável por seus atos e manifestações, no exercício da profissão.
@@ -1997,18 +2034,22 @@ Da Advocacia
 
 _\- O Supremo Tribunal Federal, nos autos da_ [_ADI n° 4163_](https://portal.stf.jus.br/)_, conferiu ao artigo 109 interpretação conforme a Constituição para apenas autorizar, sem obrigatoriedade nem exclusividade, a Defensoria a celebrar, a seu critério, convênio com a OAB-SP._
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 Do Conselho Estadual de Defesa dos Direitos da Pessoa Humana
 
 **Artigo 110 -** O Conselho Estadual de Defesa dos Direitos da Pessoa Humana será criado por lei com a finalidade de investigar as violações de direitos humanos no território do Estado, de encaminhar as denúncias a quem de direito e de propor soluções gerais a esses problemas.
 
-#### TÍTULO III<br>
+#### TÍTULO III
+
 Da Organização do Estado
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Da Administração Pública
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposições Gerais
 
 ~~Artigo 111 - A administração pública direta, indireta ou fundacional, de qualquer dos Poderes do Estado, obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade, razoabilidade, finalidade, motivação e interesse público.~~
@@ -2203,7 +2244,8 @@ _~~\- O Tribunal de Justiça do Estado de São Paulo, nos autos da~~_ [_~~ADI n�
 
 **Artigo 116 -** Os vencimentos, vantagens ou qualquer parcela remuneratória, pagos com atraso, deverão ser corrigidos monetariamente, de acordo com os índices oficiais aplicáveis à espécie.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Das Obras, Serviços Públicos, Compras e Alienações
 
 **Artigo 117 -** Ressalvados os casos especificados na legislação, as obras, serviços, compras e alienações serão contratados mediante processo de licitação pública, que assegure igualdade de condições a todos os concorrentes, com cláusulas que estabeleçam obrigações de pagamento, mantidas as condições efetivas da proposta, nos termos da lei, o qual somente permitirá as exigências de qualificação técnica e econômica indispensáveis à garantia do cumprimento das obrigações.
@@ -2236,10 +2278,12 @@ _\- Parágrafo único com redação dada pela [Emenda Constitucional n° 6, de 1
 
 _\- Artigo 123 revogado pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354)._
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Dos Servidores Públicos do Estado
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Dos Servidores Públicos Civis
 
 **Artigo 124 -** Os servidores da administração pública direta, das autarquias e das fundações instituídas ou mantidas pelo Poder Público terão regime jurídico único e planos de carreira.
@@ -2438,7 +2482,7 @@ _~~\- O Tribunal de Justiça do Estado de São Paulo, nos autos da~~_ [_~~ADI n�
 
 _~~\- § 2° com redação dada pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354).~~_
 
-**§ 2°** **\-** Os proventos de aposentadoria não poderão ser inferiores ao valor mínimo a que se refere o § 2° do artigo 201 da Constituição Federal ou superiores ao limite máximo estabelecido para o Regime Geral de Previdência Social, quanto aos servidores abrangidos pelos §§ 14, 15 e 16. (NR)
+**§ 2°\-** Os proventos de aposentadoria não poderão ser inferiores ao valor mínimo a que se refere o § 2° do artigo 201 da Constituição Federal ou superiores ao limite máximo estabelecido para o Regime Geral de Previdência Social, quanto aos servidores abrangidos pelos §§ 14, 15 e 16. (NR)
 
 _\- § 2° com redação dada pela [Emenda Constitucional n° 49, de 06/03/2020](https://www.al.sp.gov.br/norma/193280)._
 
@@ -2458,7 +2502,7 @@ _~~\- O Tribunal de Justiça do Estado de São Paulo, nos autos da~~_ [_~~ADI n�
 
 _~~\- § 3° com redação dada pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354).~~_
 
-**§ 3°** **\-** As regras para cálculo de proventos de aposentadoria serão disciplinadas por lei. (NR)
+**§ 3°\-** As regras para cálculo de proventos de aposentadoria serão disciplinadas por lei. (NR)
 
 _\- § 3° com redação dada pela [Emenda Constitucional n° 49, de 06/03/2020](https://www.al.sp.gov.br/norma/193280)._
 
@@ -2532,7 +2576,7 @@ _~~\- O Tribunal de Justiça do Estado de São Paulo, nos autos da~~_ [_~~ADI n�
 
 _~~\- Item 3 acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354).~~_
 
-**3** **\-** que exerçam atividades com efetiva exposição a agentes nocivos químicos, físicos e biológicos prejudiciais à saúde, ou à associação desses agentes, não se permitindo a caracterização por categoria profissional ou ocupação. (NR)
+**3\-** que exerçam atividades com efetiva exposição a agentes nocivos químicos, físicos e biológicos prejudiciais à saúde, ou à associação desses agentes, não se permitindo a caracterização por categoria profissional ou ocupação. (NR)
 
 _\- Item 3 com redação dada pela [Emenda Constitucional n° 49, de 06/03/2020](https://www.al.sp.gov.br/norma/193280)**.**_
 
@@ -2552,7 +2596,7 @@ _~~\- O Tribunal de Justiça do Estado de São Paulo, nos autos da~~_ [_~~ADI n�
 
 _~~\- § 5° com redação dada pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354).~~_
 
-**§ 5°** **\-** Os ocupantes do cargo de professor terão a idade mínima reduzida em 5 (cinco) anos em relação àquelas previstas no item 3 do § 1°, desde que comprovem tempo de efetivo exercício das funções de magistério na educação infantil, no ensino fundamental ou no médio, nos termos fixados em lei complementar. (NR)
+**§ 5°\-** Os ocupantes do cargo de professor terão a idade mínima reduzida em 5 (cinco) anos em relação àquelas previstas no item 3 do § 1°, desde que comprovem tempo de efetivo exercício das funções de magistério na educação infantil, no ensino fundamental ou no médio, nos termos fixados em lei complementar. (NR)
 
 _\- § 5° com redação dada pela [Emenda Constitucional n° 49, de 06/03/2020](https://www.al.sp.gov.br/norma/193280)._
 
@@ -2576,7 +2620,7 @@ _\- § 6° declarado inconstitucional, em controle concentrado, pelo Supremo T
 
 _~~\- § 6°-A acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354).~~_
 
-**§ 6°-A** **\-** Ressalvadas as aposentadorias decorrentes dos cargos acumuláveis na forma da Constituição Federal, é vedada a percepção de mais de uma aposentadoria à conta de Regime Próprio de Previdência Social, aplicando-se outras vedações, regras e condições para a acumulação de benefícios previdenciários estabelecidas no Regime Geral de Previdência Social. (NR)
+**§ 6°-A\-** Ressalvadas as aposentadorias decorrentes dos cargos acumuláveis na forma da Constituição Federal, é vedada a percepção de mais de uma aposentadoria à conta de Regime Próprio de Previdência Social, aplicando-se outras vedações, regras e condições para a acumulação de benefícios previdenciários estabelecidas no Regime Geral de Previdência Social. (NR)
 
 _\- § 6°-A com redação dada pela [Emenda Constitucional n° 49, de 06/03/2020](https://www.al.sp.gov.br/norma/193280)._
 
@@ -2662,7 +2706,7 @@ _\- § 8°-A acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](htt
 
 _~~\- § 9° acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354).~~_
 
-**§ 9°** **\-** O tempo de contribuição federal, estadual, distrital ou municipal será contado para fins de aposentadoria, observado o disposto nos §§ 9° e 9°-A do artigo 201 da Constituição Federal, e o tempo de serviço correspondente será contado para fins de disponibilidade. (NR)
+**§ 9°\-** O tempo de contribuição federal, estadual, distrital ou municipal será contado para fins de aposentadoria, observado o disposto nos §§ 9° e 9°-A do artigo 201 da Constituição Federal, e o tempo de serviço correspondente será contado para fins de disponibilidade. (NR)
 
 _\- § 9° com redação dada pela [Emenda Constitucional n° 49, de 06/03/2020](https://www.al.sp.gov.br/norma/193280)._
 
@@ -2688,7 +2732,7 @@ _\- § 11 acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https:
 
 _~~\- § 12 acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354).~~_
 
-**§ 12** **\-** Além do disposto neste artigo, serão observados no Regime Próprio de Previdência Social, no que couber, os requisitos e os critérios fixados para o Regime Geral de Previdência Social. (NR)
+**§ 12\-** Além do disposto neste artigo, serão observados no Regime Próprio de Previdência Social, no que couber, os requisitos e os critérios fixados para o Regime Geral de Previdência Social. (NR)
 
  _- § 12 com redação dada pela [Emenda Constitucional n° 49, de 06/03/2020](https://www.al.sp.gov.br/norma/193280)._
 
@@ -2706,7 +2750,7 @@ _~~\- O Tribunal de Justiça do Estado de São Paulo, nos autos da~~_ [_~~ADI n�
 
 _~~\- § 13 acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354).~~_
 
-**§ 13** **\-** Ao agente público ocupante exclusivamente de cargo em comissão declarado em lei de livre nomeação e exoneração, de outro cargo temporário - inclusive aos detentores de mandato eletivo - ou de emprego público, aplica-se o Regime Geral de Previdência Social. (NR)
+**§ 13\-** Ao agente público ocupante exclusivamente de cargo em comissão declarado em lei de livre nomeação e exoneração, de outro cargo temporário - inclusive aos detentores de mandato eletivo - ou de emprego público, aplica-se o Regime Geral de Previdência Social. (NR)
 
 _\- § 13 com redação dada pela [Emenda Constitucional n° 49, de 06/03/2020](https://www.al.sp.gov.br/norma/193280)._
 
@@ -2728,7 +2772,7 @@ _\- § 14 acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https:
 
 _~~\- § 15 acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354).~~_
 
-**§ 15** **\-** O Regime de Previdência Complementar de que trata o § 14 oferecerá plano de benefícios somente na modalidade contribuição definida, observará o disposto no artigo 202 da Constituição Federal e será efetivado por intermédio de entidade fechada de previdência complementar. (NR)
+**§ 15\-** O Regime de Previdência Complementar de que trata o § 14 oferecerá plano de benefícios somente na modalidade contribuição definida, observará o disposto no artigo 202 da Constituição Federal e será efetivado por intermédio de entidade fechada de previdência complementar. (NR)
 
 _\- § 15 com redação dada pela [Emenda Constitucional n° 49, de 06/03/2020](https://www.al.sp.gov.br/norma/193280)._
 
@@ -2758,7 +2802,7 @@ _\- § 18 acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https:
 
 _~~\- § 19 acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354).~~_
 
-**§ 19** **\-** Observados os critérios a serem estabelecidos em lei, o servidor titular de cargo efetivo que tenha completado as exigências para a aposentadoria voluntária e que opte por permanecer em atividade poderá fazer jus a um abono de permanência equivalente, no máximo, ao valor da sua contribuição previdenciária, até completar a idade para aposentadoria compulsória. (NR)
+**§ 19\-** Observados os critérios a serem estabelecidos em lei, o servidor titular de cargo efetivo que tenha completado as exigências para a aposentadoria voluntária e que opte por permanecer em atividade poderá fazer jus a um abono de permanência equivalente, no máximo, ao valor da sua contribuição previdenciária, até completar a idade para aposentadoria compulsória. (NR)
 
 _\- § 19 com redação dada pela [Emenda Constitucional n° 49, de 06/03/2020](https://www.al.sp.gov.br/norma/193280)._
 
@@ -2776,7 +2820,7 @@ _~~\- O Tribunal de Justiça do Estado de São Paulo, nos autos da~~_ [_~~ADI n�
 
 _~~\- § 20 acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354).~~_
 
-**§ 20** **\-** Fica vedada a existência de mais de um Regime Próprio de Previdência Social para os servidores titulares de cargos efetivos e de mais de um órgão ou entidade gestora desse regime, abrangidos todos os Poderes, os órgãos e as entidades autárquicas e fundacionais, que serão responsáveis pelo seu financiamento, observados os critérios, os parâmetros e a natureza jurídica definidos em lei complementar federal. (NR)
+**§ 20\-** Fica vedada a existência de mais de um Regime Próprio de Previdência Social para os servidores titulares de cargos efetivos e de mais de um órgão ou entidade gestora desse regime, abrangidos todos os Poderes, os órgãos e as entidades autárquicas e fundacionais, que serão responsáveis pelo seu financiamento, observados os critérios, os parâmetros e a natureza jurídica definidos em lei complementar federal. (NR)
 
 _\- § 20 com redação dada pela [Emenda Constitucional n° 49, de 06/03/2020](https://www.al.sp.gov.br/norma/193280)._
 
@@ -2794,7 +2838,7 @@ _~~\- O Tribunal de Justiça do Estado de São Paulo, nos autos da~~_ [_~~ADI n�
 
 _~~\- § 21 acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354).~~_
 
-**§ 21** **\-** O rol de benefícios do Regime Próprio de Previdência Social fica limitado às aposentadorias e à pensão por morte. (NR)
+**§ 21\-** O rol de benefícios do Regime Próprio de Previdência Social fica limitado às aposentadorias e à pensão por morte. (NR)
 
 _\- § 21 com redação dada pela [Emenda Constitucional n° 49, de 06/03/2020](https://www.al.sp.gov.br/norma/193280)._
 
@@ -2808,7 +2852,8 @@ _~~\- Liminar suspensa por força de decisão do Supremo Tribunal Federal profer
 
 _~~\- O Tribunal de Justiça do Estado de São Paulo, nos autos da~~_ [_~~ADI n° 2044985-25.2020.8.26.0000~~_](https://www.tjsp.jus.br/)_~~, extinguiu o processo sem resolução do mérito, por ilegitimidade ativa, cassada automaticamente a liminar.~~_
 
-**§ 22 -** O servidor, após noventa dias decorridos da apresentação do pedido de aposentadoria voluntária, instruído com prova de ter cumprido os requisitos necessários à obtenção do direito, poderá cessar o exercício da função pública, independentemente de qualquer formalidade. (NR)<br>
+**§ 22 -** O servidor, após noventa dias decorridos da apresentação do pedido de aposentadoria voluntária, instruído com prova de ter cumprido os requisitos necessários à obtenção do direito, poderá cessar o exercício da função pública, independentemente de qualquer formalidade. (NR)
+
 _\- § 22 acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354)._
 
 **Artigo 127** - Aplica-se aos servidores públicos estaduais, para efeito de estabilidade, o disposto no artigo 41 da Constituição Federal.
@@ -2873,7 +2918,8 @@ _\- Artigo 135 com redação dada pela [Emenda Constitucional n° 21, de 14/02/2
 
 **Artigo 137 -** A lei assegurará à servidora gestante mudança de função, nos casos em que for recomendado, sem prejuízo de seus vencimentos ou salários e demais vantagens do cargo ou função-atividade.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Dos Servidores Públicos Militares
 
 **Artigo 138 -** São servidores públicos militares estaduais os integrantes da Polícia Militar do Estado.
@@ -2890,10 +2936,12 @@ Dos Servidores Públicos Militares
 
 **§6° -** O direito do servidor militar de ser transferido para a reserva ou ser reformado será assegurado, ainda que respondendo a inquérito ou processo em qualquer jurisdição, nos casos previstos em lei específica.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Da Segurança Pública
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposições Gerais
 
 **Artigo 139 -** A Segurança Pública, dever do Estado, direito e responsabilidade de todos, é exercida para a preservação da ordem pública e incolumidade das pessoas e do patrimônio.
@@ -2908,7 +2956,8 @@ _\- § 2° com redação dada pela [Emenda Constitucional n° 51, de 30/06/2022]
 
 **§3° -** A Polícia Militar, integrada pelo Corpo de Bombeiros é força auxiliar, reserva do Exército.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Da Polícia Civil
 
 **Artigo 140 -** À Polícia Civil, órgão permanente, dirigida por delegados de polícia de carreira, bacharéis em Direito, incumbe, ressalvada a competência da União, as funções de polícia judiciária e a apuração de infrações penais, exceto as militares.
@@ -2971,7 +3020,8 @@ _~~\-§ 5° original renumerado para § 8° pela [Emenda Constitucional n° 35, 
 
 _\- § 5° com redação original restaurada. [Emenda Constitucional n° 35, de 03/04/2012](https://www.al.sp.gov.br/norma/166658), declarada inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal nos autos da_ [_ADI n° 5522_](https://portal.stf.jus.br/)_._
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da Polícia Militar
 
 **Artigo 141 -** À Polícia Militar, órgão permanente, incumbe, além das atribuições definidas em lei, a polícia ostensiva e a preservação da ordem pública.
@@ -2986,8 +3036,10 @@ Da Polícia Militar
 
 **Artigo 142 -** Ao Corpo de Bombeiros, além das atribuições definidas em lei, incumbe a execução de atividades de defesa civil, tendo seu quadro próprio e funcionamento definidos na legislação prevista no §2° do artigo anterior.
 
-#### SEÇÃO IV<br>
-~~Da Política Penitenciária~~<br>
+#### SEÇÃO IV
+
+~~Da Política Penitenciária~~
+
 Da Política Penitenciária e da Polícia Penal (NR)
 
 _\- Denominação da Seção IV com redação dada pela [Emenda Constitucional n° 51, de 30/06/2022](https://www.al.sp.gov.br/norma/204220)._
@@ -3010,13 +3062,16 @@ _\- § 2° acrescentado pela [Emenda Constitucional n° 51, de 30/06/2022](https
 
 _\- § 3° acrescentado pela [Emenda Constitucional n° 51, de 30/06/2022](https://www.al.sp.gov.br/norma/204220)._
 
-#### TÍTULO IV<br>
+#### TÍTULO IV
+
 Dos Municípios e Regiões
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Dos Municípios
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposições Gerais
 
 **Artigo 144 -** Os Municípios, com autonomia política, legislativa, administrativa e financeira se auto-organizarão por Lei Orgânica, atendidos os princípios estabelecidos na Constituição Federal e nesta Constituição.
@@ -3075,7 +3130,8 @@ _\- § 4° acrescentado pela [Emenda Constitucional n° 40, de 09/04/2015](https
 
 **Artigo 148 -** Lei estadual estabelecerá condições que facilitem e estimulem a criação de Corpos de Bombeiros Voluntários nos Municípios respeitada a legislação federal.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Da Intervenção
 
 **Artigo 149 -** O Estado não intervirá no Município, salvo quando:
@@ -3102,7 +3158,8 @@ _\- Inciso III com redação dada pela [Emenda Constitucional n° 21, de 14/02/2
 
 **§5° -** O interventor prestará contas de seus atos ao Governador do Estado e aos órgãos de fiscalização a que estão sujeitas as autoridades afastadas.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da Fiscalização Contábil, Financeira, Orçamentária, Operacional e Patrimonial
 
 **Artigo 150 -** A fiscalização contábil, financeira, orçamentária, operacional e patrimonial do Município e de todas as entidades da administração direta e indireta, quanto à legalidade, legitimidade, economicidade, finalidade, motivação, moralidade, publicidade e interesse público, aplicação de subvenções e renúncia de receitas, será exercida pela Câmara Municipal, mediante controle externo, e pelos sistemas de controle interno de cada Poder, na forma da respectiva lei orgânica, em conformidade com o disposto no artigo 31 da Constituição Federal.
@@ -3113,10 +3170,12 @@ Da Fiscalização Contábil, Financeira, Orçamentária, Operacional e Patrimoni
 
 _\- O Supremo Tribunal Federal, nos autos da_ [_ADI n° 346_](https://portal.stf.jus.br/) _e da_ [_ADI n° 4.776_](https://portal.stf.jus.br/)_, julgou improcedente a ação para reconhecer a constitucionalidade da norma, com a observação de que o teto remuneratório, sem vinculação, portanto, dos Conselheiros do Tribunal de Contas do Município de São Paulo, é aquele observado pela Magistratura do Estado de São Paulo._
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Organização Regional
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Dos Objetivos, Diretrizes e Prioridades
 
 **Artigo 152 -** A organização regional do Estado tem por objetivo promover:
@@ -3133,7 +3192,8 @@ Dos Objetivos, Diretrizes e Prioridades
 
 **Parágrafo único -** O Poder Executivo coordenará e compatibilizará os planos e sistemas de caráter regional.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Das Entidades Regionais
 
 **Artigo 153 -** O território estadual poderá ser dividido, total ou parcialmente, em unidades regionais constituídas por agrupamentos de Municípios limítrofes, mediante lei complementar, para integrar a organização, o planejamento e a execução de funções públicas de interesse comum, atendidas as respectivas peculiaridades.
@@ -3160,16 +3220,20 @@ Das Entidades Regionais
 
 **Artigo 157 -** O Estado e os Municípios destinarão recursos financeiros específicos, nos respectivos planos plurianuais e orçamentos, para o desenvolvimento de funções públicas de interesse comum, observado o disposto no artigo 174 desta Constituição.
 
-**Artigo 158 -** Em região metropolitana ou aglomeração urbana, o planejamento do transporte coletivo de caráter regional será efetuado pelo Estado, em conjunto com os municípios integrantes das respectivas entidades regionais.<br>
+**Artigo 158 -** Em região metropolitana ou aglomeração urbana, o planejamento do transporte coletivo de caráter regional será efetuado pelo Estado, em conjunto com os municípios integrantes das respectivas entidades regionais.
+
 **Parágrafo único -** Caberá ao Estado a operação do transporte coletivo de caráter regional, diretamente ou mediante concessão ou permissão.
 
-#### TÍTULO V<br>
+#### TÍTULO V
+
 Da Tributação, das Finanças e dos Orçamentos
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Do Sistema Tributário Estadual
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Dos Princípios Gerais
 
 **Artigo 159 -** A receita pública será constituída por tributos, preços e outros ingressos.
@@ -3200,7 +3264,8 @@ _\- Inciso IV com redação dada pela [Emenda Constitucional n° 21, de 14/02/20
 
 **Artigo 162 -** O Estado coordenará e unificará serviços de fiscalização e arrecadação de tributos, bem como poderá delegar à União, a outros Estados e Municípios, e deles receber encargos de administração tributária.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Das Limitações do Poder de Tributar
 
 **Artigo 163 -** Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado ao Estado:
@@ -3265,7 +3330,8 @@ _\- § 8° acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https
 
 **II -** para a obtenção de certidões em repartições públicas, para defesa de direitos e esclarecimentos de interesse pessoal.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Dos Impostos do Estado
 
 **Artigo 165 -** Compete ao Estado instituir:
@@ -3360,7 +3426,8 @@ _\- Item 2 acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https
 
 **Parágrafo único -** A lei a que se refere o "caput" deste artigo estabelecerá as bases do valor referido, de conformidade com os índices oficiais fixados pelo Governo Federal.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Da Repartição das Receitas Tributárias
 
 **Artigo 167 -** O Estado destinará aos Municípios:
@@ -3401,7 +3468,8 @@ _\- Item 2 com redação dada pela [Emenda Constitucional n° 53, de 19/12/2023]
 
 _\- Parágrafo único com redação dada pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354)._
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Das Finanças
 
 **Artigo 169 -** A despesa de pessoal ativo e inativo ficará sujeita aos limites estabelecidos na lei complementar a que se refere o artigo 169 da Constituição Federal.
@@ -3428,7 +3496,8 @@ _\- Artigo 171 com redação dada pela [Emenda Constitucional n° 21, de 14/02/2
 
 **Artigo 173 -** São agentes financeiros do Tesouro Estadual os hoje denominados Banco do Estado de São Paulo S/A e Caixa Econômica do Estado de São Paulo S/A.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Dos Orçamentos
 
 **Artigo 174 -** Leis de iniciativa do Poder Executivo estabelecerão, com observância dos preceitos correspondentes da Constituição Federal:
@@ -3627,10 +3696,12 @@ _\- § 5° acrescentado pela [Emenda Constitucional n° 50, de 18/05/2021](https
 
 **§2° -** Os créditos especiais e extraordinários terão vigência no exercício financeiro em que forem autorizados, salvo se o ato de autorização for promulgado nos últimos quatro meses daquele exercício, caso em que, reabertos nos limites de seus saldos, serão incorporados ao orçamento do exercício financeiro subsequente.
 
-#### TÍTULO VI<br>
+#### TÍTULO VI
+
 Da Ordem Econômica
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Dos Princípios Gerais da Atividade Econômica
 
 **Artigo 177 -** O Estado estimulará a descentralização geográfica das atividades de produção de bens e serviços, visando ao desenvolvimento equilibrado das regiões.
@@ -3645,7 +3716,8 @@ _\- "Caput" com redação dada pela [Emenda Constitucional n° 21, de 14/02/2006
 
 **Artigo 179 -** A lei apoiará e estimulará o cooperativismo e outras formas de associativismo.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Do Desenvolvimento Urbano
 
 **Artigo 180 -** No estabelecimento de diretrizes e normas relativas ao desenvolvimento urbano, o Estado e os Municípios assegurarão:
@@ -3762,7 +3834,8 @@ _\- § 4° acrescentado pela [Emenda Constitucional n° 16, de 25/11/2002](https
 
 **Parágrafo único -** Competem aos Municípios, de acordo com as respectivas diretrizes de desenvolvimento urbano, a criação e a regulamentação de zonas industriais, obedecidos os critérios estabelecidos pelo Estado, mediante lei, e respeitadas as normas relacionadas ao uso e ocupação do solo e ao meio ambiente urbano e natural.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Da Política Agrícola, Agrária e Fundiária
 
 **Artigo 184 -** Caberá ao Estado, com a cooperação dos Municípios:
@@ -3815,10 +3888,12 @@ Da Política Agrícola, Agrária e Fundiária
 
 _\- Artigo 190 declarado inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal nos autos da_ [_ADI n° 403_](http://portal.stf.jus.br/)_._
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Do Meio Ambiente, dos Recursos Naturais e do Saneamento
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Do Meio Ambiente
 
 **Artigo 191 -** O Estado e os Municípios providenciarão, com a participação da coletividade, a preservação, conservação, defesa, recuperação e melhoria do meio ambiente natural, artificial e do trabalho, atendidas as peculiaridades regionais e locais e em harmonia com o desenvolvimento social e econômico.
@@ -3925,7 +4000,8 @@ Do Meio Ambiente
 
 _\- O Supremo Tribunal Federal, nos autos da_ [_ADI n° 350_](http://portal.stf.jus.br/)_, conferiu interpretação conforme à expressão "sob qualquer pretexto" para não se incluírem nessa vedação a destruição para fins de controle e a coleta para fins científicos, conforme previstas, respectivamente, nos artigos 3°, §2°, e 14 da_ [_Lei Federal n° 5.197/1967_](http://www.planalto.gov.br/ccivil_03/leis/l5197.htm)_._
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Dos Recursos Hídricos
 
 **Artigo 205 -** O Estado instituirá, por lei, sistema integrado de gerenciamento dos recursos hídricos, congregando órgãos estaduais e municipais e a sociedade civil, e assegurará meios financeiros e institucionais para:
@@ -3978,7 +4054,8 @@ Dos Recursos Hídricos
 
 **Artigo 213 -** A proteção da quantidade e da qualidade das águas será obrigatoriamente levada em conta quando da elaboração de normas legais relativas a florestas, caça, pesca, fauna, conservação da natureza, defesa do solo e demais recursos naturais e ao meio ambiente.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Dos Recursos Minerais
 
 **Artigo 214 -** Compete ao Estado:
@@ -3993,7 +4070,8 @@ Dos Recursos Minerais
 
 **V -** executar e incentivar o desenvolvimento tecnológico aplicado à pesquisa, exploração racional e beneficiamento de recursos minerais.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Do Saneamento
 
 **Artigo 215 -** A lei estabelecerá a política das ações e obras de saneamento básico no Estado, respeitando os seguintes princípios:
@@ -4012,10 +4090,12 @@ Do Saneamento
 
 **§3° -** As ações de saneamento deverão prever a utilização racional da água, do solo e do ar, de modo compatível com a preservação e melhoria da qualidade da saúde pública e do meio ambiente e com a eficiência dos serviços públicos de saneamento.
 
-#### TÍTULO VII<br>
+#### TÍTULO VII
+
 Da Ordem Social
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposição Geral
 
 **Artigo 217 -** Ao Estado cumpre assegurar o bem-estar social, garantindo o pleno acesso aos bens e serviços essenciais ao desenvolvimento individual e coletivo.
@@ -4024,15 +4104,18 @@ Disposição Geral
 
 _\- Artigo 217-A acrescentado pela [Emenda Constitucional n° 55, de 27/11/2024](https://www.al.sp.gov.br/norma/210266)._
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Seguridade Social
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposição Geral
 
 **Artigo 218 -** O Estado garantirá, em seu território, o planejamento e desenvolvimento de ações que viabilizem, no âmbito de sua competência, os princípios de seguridade social previstos nos artigos 194 e 195 da Constituição Federal.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Da Saúde
 
 **Artigo 219 -** A saúde é direito de todos e dever do Estado.
@@ -4051,7 +4134,8 @@ Da Saúde
 
 **§1° -** As ações e os serviços de preservação da saúde abrangem o ambiente natural, os locais públicos e de trabalho.
 
-**§2° -** As ações e serviços de saúde serão realizados, preferencialmente, de forma direta, pelo Poder Público ou através de terceiros, e pela iniciativa privada.<br>
+**§2° -** As ações e serviços de saúde serão realizados, preferencialmente, de forma direta, pelo Poder Público ou através de terceiros, e pela iniciativa privada.
+
 **§3° -** A assistência à saúde é livre à iniciativa privada.
 
 **§4° -** A participação do setor privado no sistema único de saúde efetivar-se-á segundo suas diretrizes, mediante convênio ou contrato de direito público, tendo preferência as entidades filantrópicas e as sem fins lucrativos.
@@ -4160,7 +4244,8 @@ _\- Item 2 acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https
 
 **Artigo 231 -** Assegurar-se-á ao paciente, internado em hospitais da rede pública ou privada, a faculdade de ser assistido, religiosa e espiritualmente, por ministro de culto religioso.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da Promoção Social
 
 **Artigo 232 -** As ações do Poder Público, por meio de programas e projetos na área de promoção social, serão organizadas, elaboradas, executadas e acompanhadas com base nos seguintes princípios:
@@ -4183,7 +4268,8 @@ _\- Item 1 acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https
 
 _\- Item 2 acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354)._
 
-**3 -** qualquer outra despesa corrente não vinculada diretamente aos investimentos ou ações apoiados. (NR)<br>
+**3 -** qualquer outra despesa corrente não vinculada diretamente aos investimentos ou ações apoiados. (NR)
+
 _\- Item 3 acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354)._
 
 **Artigo 233 -** As ações governamentais e os programas de assistência social, pela sua natureza emergencial e compensatória, não deverão prevalecer sobre a formulação e aplicação de políticas sociais básicas nas áreas de saúde, educação, abastecimento, transporte e alimentação.
@@ -4200,10 +4286,12 @@ _\- Artigo 235 revogado pela [Emenda Constitucional n° 44, de 18/12/2017](https
 
 **Artigo 236 -** O Estado criará o Conselho Estadual de Promoção Social, cuja composição, funções e regulamentos serão definidos em lei.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Da Educação, da Cultura e dos Esportes e Lazer
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Da Educação
 
 **Artigo 237 -** A educação, ministrada com base nos princípios estabelecidos no artigo 205 e seguintes da Constituição Federal e inspirada nos princípios de liberdade e solidariedade humana, tem por fim:
@@ -4326,7 +4414,8 @@ _\- Parágrafo único revogado pela [Emenda Constitucional n° 55, de 27/11/2024
 
 **Artigo 256 -** O Estado e os Municípios publicarão, até trinta dias após o encerramento de cada trimestre, informações completas sobre receitas arrecadadas e transferências de recursos destinados à educação, nesse período e discriminadas por nível de ensino.
 
-**Artigo 257 -** A distribuição dos recursos públicos assegurará prioridade ao atendimento das necessidades do ensino fundamental.<br>
+**Artigo 257 -** A distribuição dos recursos públicos assegurará prioridade ao atendimento das necessidades do ensino fundamental.
+
 **Parágrafo único -** Parcela dos recursos públicos destinados à educação deverá ser utilizada em programas integrados de aperfeiçoamento e atualização para os educadores em exercício no ensino público.
 
 ~~Artigo 258 - A eventual assistência financeira do Estado às instituições de ensino filantrópicas, comunitárias ou confessionais, conforme definidas em lei, não poderá incidir sobre a aplicação mínima prevista no artigo 255.~~
@@ -4335,7 +4424,8 @@ _\- Parágrafo único revogado pela [Emenda Constitucional n° 55, de 27/11/2024
 
 _\- Artigo 258 com redação dada pela [Emenda Constitucional n° 13, de 04/12/2001](https://www.al.sp.gov.br/norma/130334)._
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Da Cultura
 
 **Artigo 259 -** O Estado garantirá a todos o pleno exercício dos direitos culturais e o acesso às fontes da cultura, e apoiará e incentivará a valorização e a difusão de suas manifestações.
@@ -4384,10 +4474,12 @@ _\- Inciso I acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](htt
 
 _\- Inciso II acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354)._
 
-**III -** qualquer outra despesa corrente não vinculada diretamente aos investimentos ou ações apoiados. (NR)<br>
+**III -** qualquer outra despesa corrente não vinculada diretamente aos investimentos ou ações apoiados. (NR)
+
 _\- Inciso III acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354)._
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Dos Esportes e Lazer
 
 **Artigo 264 -** O Estado apoiará e incentivará as práticas esportivas formais e não formais, como direito de todos.
@@ -4410,7 +4502,8 @@ Dos Esportes e Lazer
 
 **Artigo 267 -** O Poder Público incrementará a prática esportiva às crianças, aos idosos e aos portadores de deficiências.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Da Ciência e Tecnologia
 
 **Artigo 268 -** O Estado promoverá e incentivará o desenvolvimento científico, a pesquisa e a capacitação tecnológica.
@@ -4445,7 +4538,8 @@ Da Ciência e Tecnologia
 
 **Parágrafo único -** O disposto neste artigo não se aplica à doação de equipamentos e insumos para a pesquisa, quando feita por entidade pública de fomento ao ensino e à pesquisa científica e tecnológica, para outra entidade pública da área de ensino e pesquisa em ciência e tecnologia.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Da Comunicação Social
 
 **Artigo 273 -** A ação do Estado, no campo da comunicação, fundar-se-á sobre os seguintes princípios:
@@ -4458,7 +4552,8 @@ Da Comunicação Social
 
 **Artigo 274** \- Os órgãos de comunicação social pertencentes ao Estado, as fundações instituídas ou mantidas pelo Poder Público ou a quaisquer entidades sujeitas, direta ou indiretamente, ao seu controle econômico, serão utilizados de modo a assegurar a possibilidade de expressão e confronto das diversas correntes de opinião.
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Da Defesa do Consumidor
 
 **Artigo 275 -** O Estado promoverá a defesa do consumidor mediante adoção de política governamental própria e de medidas de orientação e fiscalização, definidas em lei.
@@ -4467,11 +4562,14 @@ Da Defesa do Consumidor
 
 **Artigo 276 -** O Sistema Estadual de Defesa do Consumidor, integrado por órgãos públicos das áreas de saúde, alimentação, abastecimento, assistência judiciária, crédito, habitação, segurança e educação, com atribuições de tutela e promoção dos consumidores de bens e serviços, terá como órgão consultivo e deliberativo o Conselho Estadual de Defesa do Consumidor, com atribuições e composição definidas em lei.
 
-#### CAPÍTULO VII<br>
+#### CAPÍTULO VII
+
 Da Proteção Especial
 
-#### SEÇÃO I<br>
-~~Da Família, da Criança, do Adolescente, do Idoso e dos Portadores de Deficiências~~<br>
+#### SEÇÃO I
+
+~~Da Família, da Criança, do Adolescente, do Idoso e dos Portadores de Deficiências~~
+
 Da Família, da Criança, do Adolescente, do Jovem, do Idoso e dos Portadores de Deficiências (NR) 
 
 _\- Seção I com redação dada pela [Emenda Constitucional n° 38, de 16/10/2013](https://www.al.sp.gov.br/norma/171306)._
@@ -4520,7 +4618,8 @@ _\- "Caput" com redação dada pela [Emenda Constitucional n° 38, de 16/10/2013
 
 **Artigo 281 -** O Estado propiciará, por meio de financiamentos, aos portadores de deficiências, a aquisição dos equipamentos que se destinam a uso pessoal e que permitam a correção, diminuição e superação de suas limitações, segundo condições a serem estabelecidas em lei.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Dos Índios
 
 **Artigo 282 -** O Estado fará respeitar os direitos, bens materiais, crenças, tradições e todas as demais garantias conferidas aos índios na Constituição Federal.
@@ -4533,7 +4632,8 @@ Dos Índios
 
 **Artigo 283 -** A lei disporá sobre formas de proteção do meio ambiente nas áreas contíguas às reservas e áreas tradicionalmente ocupadas por grupos indígenas, observado o disposto no artigo 231 da Constituição Federal.
 
-#### TÍTULO VIII<br>
+#### TÍTULO VIII
+
 Disposições Constitucionais Gerais
 
 **Artigo 284 -** O Estado comemorará, anualmente, no período de 3 a 9 de julho, a Revolução Constitucionalista de 1932.
@@ -4684,7 +4784,8 @@ _\- § 2° acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https
 
 _\- § 3° acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354)._
 
-**§4° -** O Presidente do Tribunal competente deverá, vencido o prazo ou em caso de omissão no orçamento, ou preterição ao direito de precedência, a requerimento do credor, requisitar ou determinar o sequestro de recursos financeiros da entidade executada, suficientes à satisfação da prestação. (NR)<br>
+**§4° -** O Presidente do Tribunal competente deverá, vencido o prazo ou em caso de omissão no orçamento, ou preterição ao direito de precedência, a requerimento do credor, requisitar ou determinar o sequestro de recursos financeiros da entidade executada, suficientes à satisfação da prestação. (NR)
+
 _\- § 4° acrescentado pela [Emenda Constitucional n° 21, de 14/02/2006](https://www.al.sp.gov.br/norma/130354)._
 
 **Artigo 13 -** O Tribunal de Justiça, no prazo de cento e oitenta dias contados da promulgação desta Constituição, encaminhará projeto de lei fixando a forma e os termos para criação de Tribunais de Alçada Regionais, a que se refere o artigo 71.

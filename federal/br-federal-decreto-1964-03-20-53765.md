@@ -1,5 +1,3 @@
-###DEC-053765-0-000-20-03-1964@@@
-
 DECRETO Nº 53.765, DE 20 DE MARÇO DE 1964.
 
 Outorga ao Município de Clevelândia concessão para aproveitamento de energia hidráulica.

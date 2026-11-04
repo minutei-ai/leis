@@ -1,5 +1,3 @@
-###DEC-096766-0-000-23-09-1988@@@
-
 DECRETO N° 96.766, DE 23 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO BOA ESPERANÇA LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de São João dos Patos, Estado do Maranhão.

@@ -1,5 +1,3 @@
-###DEC-092305-0-000-20-01-1986@@@
-
 DECRETO Nº 92.305, DE 20 DE JANEIRO DE 1986
 
 Revoga o Decreto nº 91.124, de 13 de março de 1985.

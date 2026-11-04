@@ -1,5 +1,3 @@
-###DEC-073877-0-000-29-03-1974@@@
-
 decreto nº 73.877, de 29 de março de 1974.
 
 Dispõe sobre a retribuição de direitos do servidor ou empregado colocado à disposição da Presidência da República.

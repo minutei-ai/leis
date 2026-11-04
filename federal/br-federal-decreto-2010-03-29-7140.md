@@ -1,5 +1,3 @@
-###DEC-007140-0-000-29-03-2010@@@
-
 DECRETO Nº 7.140, DE 29 DE MARÇO DE 2010.
 
 Institui a utilização do passaporte para trânsito de cães e gatos, como certificação sanitária de origem para o trânsito internacional, e dá outras providências.

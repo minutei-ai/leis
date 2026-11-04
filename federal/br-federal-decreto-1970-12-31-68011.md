@@ -1,5 +1,3 @@
-###DEC-068011-0-000-31-12-1970@@@
-
 DECRETO Nº 68.011, DE 31 DE DEZEMBRO DE 1970.
 
 Autoriza o funcionamento da Faculdade de Ciências Contábeis e Administrativas de Varginha, MG.

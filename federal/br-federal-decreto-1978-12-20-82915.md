@@ -1,5 +1,3 @@
-###DEC-082915-0-000-20-12-1978@@@
-
 Decreto nº 82.915, de 20 de dezembro de 1978
 
 Concede à Indústrias Toquinhas Ltda. o direito de lavrar calcário no Município de Rio Branco do Sul, Estado do Paraná.

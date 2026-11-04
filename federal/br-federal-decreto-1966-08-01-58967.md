@@ -1,5 +1,3 @@
-###DEC-058967-0-000-01-08-1966@@@
-
 Decreto nº 58.967, de 1º de Agôsto de 1966.
 
 Suprime cargo extinto.

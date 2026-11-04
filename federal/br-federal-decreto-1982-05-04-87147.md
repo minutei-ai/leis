@@ -1,5 +1,3 @@
-###DEC-087147-0-000-04-05-1982@@@
-
 Decreto nº 87.147, de 04 de maio de 1982.
 
 Dispõe sobre a Missão Técnica Aeronáutica Brasileira em Assunção - República do Paraguai.

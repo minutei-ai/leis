@@ -1,7 +1,3 @@
-1
-
-###DEC-001090-0-000-21-03-1994@@@
-
 DECRETO Nº 1.090, DE 21 DE MARÇO DE 1994
 
 Promulgo o Acordo entre o Governo da República Federativa do Brasil e a Agência Brasileiro-Argentina de Contabilidade e Controle de Materiais Nucleares (ABACC) sobre suas Obrigações, Privilégios e Imunidades, de 27.3.1992.

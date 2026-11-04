@@ -1,5 +1,3 @@
-###DEC-056212-0-000-30-04-1965@@@
-
 DECRETO Nº 56.212, DE 30 DE ABRIL DE 1965.
 
 Concede à Sociedade Navunidos Navegação S.A., autorização para continuar a funcionar como Emprêsa de Navegação de Cabotagem.

@@ -1,5 +1,3 @@
-###DEC-045583-0-000-18-03-1959@@@
-
 Decreto nº 45.583, de 18 de março de 1959.
 
 Considera de interêsse militar as funções exercidas na Campanha Nacional de Merenda Escolar do Ministério da Educação e Cultura.

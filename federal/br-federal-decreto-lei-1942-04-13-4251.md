@@ -1,5 +1,3 @@
-###DEL-004251-0-000-13-04-1942@@@
-
 DECRETO-LEI N. 4.251 – DE 13 DE ABRIL DE 1942
 
 Abre, ao Ministério da Educação e Saude, o crédito especial de 350:000$0 para atender a despesas com aquisição de mostruários, restauração de mobiliário e novas instalações no Museu Imperial

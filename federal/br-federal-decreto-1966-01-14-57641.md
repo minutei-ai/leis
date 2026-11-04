@@ -1,5 +1,3 @@
-###DEC-057641-0-000-14-01-1966@@@
-
 decreto nº 57.641, de 14 de janeiro de 1966.
 
 Altera o regulamento aprovado pelo decreto nº 55.866, de 25 de março de 1965, que dispõe sôbre o impôsto que recai sôbre as rendas e proventos de qualquer natureza.

@@ -1,5 +1,3 @@
-###DEC-089254-0-000-28-12-1983@@@
-
 DECRETO Nº 89.254, DE 28 DE DEZEMBRO DE 1983
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de São Félix do Araguaia, no Estado de Mato Grosso.

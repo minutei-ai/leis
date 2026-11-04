@@ -1,5 +1,3 @@
-###DEC-047451-0-000-18-12-1959@@@
-
 decreto nº 47.451, de 18 de dezembro de 1959.
 
 Autoriza a inclusão dos engenheiros civis, nas condições que especifica, na Reserva do Corpo de Engenheiros e Técnicos Navais.

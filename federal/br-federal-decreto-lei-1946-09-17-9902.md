@@ -1,5 +1,3 @@
-###DEL-009902-0-000-17-09-1946@@@
-
 DECRETO-LEI N. 9.902 – DE 17 DE SETEMBRO DE 1946
 
 Dispõe sôbre o cumprimento de penas no Distrito Federal

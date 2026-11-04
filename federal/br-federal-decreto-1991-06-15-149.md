@@ -1,5 +1,3 @@
-###DEC-000149-0-000-15-06-1991@@@
-
 DECRETO N° 149, DE 15 DE JUNHO DE 1991
 
 Dispõe sobre a execução do Instrumento Esclarecedor do Segundo Protocolo Adicional ao Acordo Regional n° 4, entre o Brasil, a Argentina, a Bolívia, a Colômbia, o Chile, o Equador, o México, o Paraguai, o Peru, o Uruguai e a Venezuela.

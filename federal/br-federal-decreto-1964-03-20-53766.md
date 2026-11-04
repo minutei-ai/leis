@@ -1,5 +1,3 @@
-###DEC-053766-0-000-20-03-1964@@@
-
 Decreto nº 53.766, de 20 de março de 1964.
 
 Outorga à Companhia de Eletricidade do Estado da Bahia concessão para distribuir energia elétrica no município de Santa Terezinha, Estado da Bahia, e dá outras providências.

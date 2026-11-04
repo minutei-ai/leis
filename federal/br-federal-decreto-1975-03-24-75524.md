@@ -1,5 +1,3 @@
-###DEC-075524-0-000-24-03-1975@@@
-
 DECRETO Nº 75.524, DE 24 DE MARÇO DE 1975.
 
 Dispõe sobre a competência dos Ministros de Estado dos Ministérios Civis e a participação das Divisões de Segurança e Informações e das Assessorias de Segurança e Informações em assuntos relacionados com Segurança Nacional, a Mobilização e as Informações; revogada o Decreto nº 66.622, de 22 de maio de 1970 e dá outras providências.

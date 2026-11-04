@@ -1,5 +1,3 @@
-###DEC-003262-0-000-25-11-1999@@@
-
 DECRETO Nº 3.262, DE 25 DE NOVEMBRO DE 1999.
 
 Autoriza a concessão de subvenção econômica, sob a forma de equalização de preços, ao amparo da Lei nº 8.427, de 27 de maio de 1992.

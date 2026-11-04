@@ -1,5 +1,3 @@
-###DEC-075521-0-000-21-03-1975@@@
-
 DECRETO Nº 75.521, DE 21 DE MARÇO DE 1975.
 
 Retifica o Decreto nº 75.235, de 16 de janeiro de 1975, que concede reconhecimento ao curso de Agronomia da Escola Superior do Espírito Santo, no Estado do Espírito Santo.

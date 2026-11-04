@@ -1,5 +1,3 @@
-###DEC-083333-0-000-16-04-1979@@@
-
 Decreto nº 83.333, de 16 de abril de 1979.
 
 Concede reconhecimento ao curso de Ciências da Universidade Federal do Acre, com sede na cidade de Rio Branco, Estado do Acre.

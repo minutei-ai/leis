@@ -1,7 +1,3 @@
-1
-
-###DEC-001096-0-000-23-03-1994@@@
-
 DECRETO Nº 1.096, DE 23 DE MARÇO DE 1994
 
 Dispõe sobre cargos privativos de Oficial-General do Exército em Tempo de Paz, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-088024-0-000-05-01-1983@@@
-
 DECRETO Nº 88.024, de 05 de janeiro de 1983
 
 Altera dispositivos do Decreto nº 87.496, de 18 de agosto de 1982, que declarou de utilidade pública, para fins de desapropriação, imóveis situados, respectivamente, na Avenida Giovanni Gronchi e na Rua Da. Vitu Giorgi, em Paraisópolis, Bairro do Morumbi, Município de São Paulo, Estado de São Paulo, destinados à instalação de Estação Telefônica, naquela cidade, a cargo da Telecomunicações de São Paulo S.A. - TELESP.

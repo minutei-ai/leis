@@ -1,6 +1,10 @@
 > **LEI Nº 3.122, DE 03 DE MARÇO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza a doação, com encargo, de um imóvel urbano ao Município de Assis Brasil e o recebimento em doação, com encargo, de um imóvel a ser doado pelo referido ente municipal.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza a doação, com encargo, de um imóvel urbano ao Município de Assis Brasil e o recebimento em doação, com encargo, de um imóvel a ser doado pelo referido ente municipal.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

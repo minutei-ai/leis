@@ -1,5 +1,3 @@
-###DEC-049838-0-000-06-01-1961@@@
-
 DECRETO Nº 49.838, DE 6 DE JANEIRO DE 1961.
 
 Abre, pelo Ministério da Agricultura, o crédito especial de Cr$50.000.000,00 para os fins que especifica.

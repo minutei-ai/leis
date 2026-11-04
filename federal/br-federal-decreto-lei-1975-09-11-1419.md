@@ -1,5 +1,3 @@
-###DEL-001419-0-000-11-09-1975@@@
-
 # DECRETO-LEI Nº 1.419, DE 11 DE SETEMBRO DE 1975
 
 Dispõe sobre a aplicação do § 2º do art. 8º do Decreto-lei nº 1.376, de 12 de dezembro de 1974.

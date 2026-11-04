@@ -1,5 +1,3 @@
-###DEC-092987-0-000-24-07-1986@@@
-
 DECRETO Nº 92.987, DE 24 DE JULHO DE 1986
 
 Aprova o novo Estatuto da Fundação Universidade do Rio Grande.

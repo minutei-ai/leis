@@ -1,7 +1,3 @@
-1
-
-###DEC-001338-0-000-14-12-1994@@@
-
 DECRETO Nº 1.338, DE 14 DE DEZEMBRO DE 1994
 
 Inclui as unidades fabris pertencentes à Companhia Souza Cruz S.A., com sedes em São Paulo - SP e Uberlândia - MG, entre as atividades com funcionamento permanente aos domingos, feriados civis e religiosos.

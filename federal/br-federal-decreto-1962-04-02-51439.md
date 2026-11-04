@@ -1,5 +1,3 @@
-###DEC-051439-0-000-02-04-1962@@@
-
 DECrETO Nº 51.439, DE 2 DE ABRIL DE 1962.
 
 Suprime cargo extinto.

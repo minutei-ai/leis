@@ -1,5 +1,3 @@
-###DEC-084025-0-000-24-09-1979@@@
-
 Decreto nº 84.025 de 24 de setembro de 1979.
 
 Cria, na Secretaria de Planejamento da Presidência da República, as Secretarias Especiais de Abastecimento e Preços e de Assuntos Econômicos, e dá outras providências.

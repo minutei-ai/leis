@@ -1,5 +1,3 @@
-###DEL-007949-0-000-11-09-1945@@@
-
 DECRETO-LEI N. 7.949 – DE 11 DE SETEMBRO DE 1945
 
 Altera, sem aumento de despesa, o Orçamento Geral da República

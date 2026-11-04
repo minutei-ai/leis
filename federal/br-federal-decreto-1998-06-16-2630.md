@@ -1,5 +1,3 @@
-###DEC-002630-0-000-16-06-1998@@@
-
 DECRETO Nº 2.630, DE 16 DE JUNHO DE 1998
 
 Dá nova redação ao art. 26 e ao caput do art. 27 do Regulamento da Ordem do Mérito Aeronáutico, aprovado pelo Decreto nº 94.601, de 14 de julho de 1987.

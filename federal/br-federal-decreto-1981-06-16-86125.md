@@ -1,5 +1,3 @@
-###DEC-086125-0-000-16-06-1981@@@
-
 Decreto nº 86.125, de 16 de junho de 1981
 
 Altera dispositivo do Decreto nº 84.986, de 31 de julho de 1980, que cria, no Ministério da Aeronáutica, o Hospital de Força Aérea do Galeão.

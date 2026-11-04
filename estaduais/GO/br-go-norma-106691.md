@@ -6,7 +6,8 @@ O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constituciona
 
 **DECRETA:**
 
-Art. 1º São concedidas, no exercício de 2022, as Medalhas Pedro Ludovico Teixeira, de Mérito Policial e de Tempo de Serviço às autoridades relacionadas no Anexo Único deste Decreto, pelos relevantes serviços prestados à Superintendência de Polícia Técnico-Científica e à segurança pública do Estado de Goiás.<br>
+Art. 1º São concedidas, no exercício de 2022, as Medalhas Pedro Ludovico Teixeira, de Mérito Policial e de Tempo de Serviço às autoridades relacionadas no Anexo Único deste Decreto, pelos relevantes serviços prestados à Superintendência de Polícia Técnico-Científica e à segurança pública do Estado de Goiás.
+
 \- [Redação dada pelo Decreto nº 10.352, de 29-11-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108127/decreto-10352). 
 
 ~~Art. 1º São concedidas as Medalhas Pedro Ludovico Teixeira, de Mérito Policial e de Tempo de Serviço às autoridades relacionadas no Anexo Único deste Decreto, pelos relevantes serviços prestados à Superintendência de Polícia Técnico-Científica e à segurança pública do Estado de Goiás.~~
@@ -15,17 +16,16 @@ Art. 2º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 5 de janeiro de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
 
 ANEXO ÚNICO
 
-| <br>
-MEDALHA PEDRO LUDOVICO TEIXEIRA<br>
-<br>
+|
+
+MEDALHA PEDRO LUDOVICO TEIXEIRA
+
  |
 | --- |
 |
@@ -84,9 +84,10 @@ MEDALHA PEDRO LUDOVICO TEIXEIRA<br>
 | 48º | TERCEIRO-SARGENTO PM 35.466 RHUAN VELOSO LINO DE FREITAS |
 | 49º | TERCEIRO-SARGENTO PM 37.551 JOSÉ DE OLIVEIRA ZENHA NETO |
 | 50º | SOLDADO PM 36.496 GERALDO FILHO PEREIRA GUIMARÃES |
-| **<br>
-MEDALHA DE MÉRITO POLICIAL<br>
-<br>
+| **
+
+MEDALHA DE MÉRITO POLICIAL
+
 ** |
 |
 
@@ -150,9 +151,10 @@ MEDALHA DE MÉRITO POLICIAL<br>
 | 49º | SOLDADO PM 37.407 IVANDA DE JESUS RIBEIRO MARQUES |
 | 50º | SOLDADO PM 37.635 LARISSA FERNANDES CARDOSO |
 | 51º | SOLDADO PM 38.593 RAPHAELLA CRISTINA FRANÇA PATRÍCIO |
-| **<br>
-MEDALHA DE TEMPO DE SERVIÇO<br>
-<br>
+| **
+
+MEDALHA DE TEMPO DE SERVIÇO
+
 ** |
 |
 

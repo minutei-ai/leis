@@ -1,5 +1,3 @@
-###DEC-006235-0-000-11-10-2007@@@
-
 DECRETO Nº 6.235, DE 11 DE OUTUBRO DE 2007.
 
 Dispõe sobre a criação da Embaixada do Brasil na República do Congo, com sede em Brazzaville.
@@ -19,5 +17,3 @@ Brasília, 11 de outubro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no DOU de 15.10.2007.

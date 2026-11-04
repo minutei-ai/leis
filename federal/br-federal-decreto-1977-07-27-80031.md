@@ -1,5 +1,3 @@
-###DEC-080031-0-000-27-07-1977@@@
-
 Decreto nº 80.031, de 27 de julho de 1977
 
 Concede reconhecimento aos cursos de Administração e de Ciências Econômicas, da Faculdade de Ciências Econômicas e Administrativas de Guaratinguetá, Estado de São Paulo.

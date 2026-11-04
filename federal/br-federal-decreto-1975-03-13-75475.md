@@ -1,5 +1,3 @@
-###DEC-075475-0-000-13-03-1975@@@
-
 DECRETO Nº 75.475, DE 13 DE MARÇO DE 1975.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóveis em Cruzeiro do Sul - AC, destinados ao Ministério do Exército.

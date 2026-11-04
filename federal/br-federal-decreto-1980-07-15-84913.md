@@ -1,5 +1,3 @@
-###DEC-084913-0-000-15-07-1980@@@
-
 Decreto nº 84.913, dE 15 de julho de 1980.
 
 Cria, no Território Federal do Amapá, o Parque Nacional do Cabo Orange, com os limites que especifica e dá outras providências.

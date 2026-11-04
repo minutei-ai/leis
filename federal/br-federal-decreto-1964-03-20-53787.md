@@ -1,5 +1,3 @@
-###DEC-053787-0-000-20-03-1964@@@
-
 DECRETO Nº 53.787, DE 20 DE MARÇO DE 1964.
 
 Regulamenta o art. 46 da Lei número 3.470, de 28 de novembro de 1958.

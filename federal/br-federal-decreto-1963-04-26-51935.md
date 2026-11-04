@@ -1,5 +1,3 @@
-###DEC-051935-0-000-26-04-1963@@@
-
 DECRETO Nº 51.935, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro Raphael Juliano a lavrar água mineral, no município de Coração de Maria, Estado da Bahia.

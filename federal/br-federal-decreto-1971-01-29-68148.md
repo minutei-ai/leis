@@ -1,5 +1,3 @@
-###DEC-068148-0-000-29-01-1971@@@
-
 DECRETO Nº 68.148, DE 29 DE JANEIRO DE 1971.
 
 Cria Comissão de Estradas de Rodagem nº 4 (CER-4) e dá outras providências.

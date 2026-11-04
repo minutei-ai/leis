@@ -1,5 +1,3 @@
-###DEC-083383-0-000-30-04-1979@@@
-
 Decreto nº 83.383, de 30 de abril de 1979.
 
 Autoriza a cessão, sob o regimento de aforamento, do terreno que menciona, situado na cidade e Estado do Rio de Janeiro.

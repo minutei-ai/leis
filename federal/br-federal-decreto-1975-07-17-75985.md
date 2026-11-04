@@ -1,5 +1,3 @@
-###DEC-075985-0-000-17-07-1975@@@
-
 DECRETO Nº 75.985 - DE 17 JULHO DE 1975.
 
 Dispõe sobre a estrutura básica da Central de Medicamentos (CEME) e dá outras providências.

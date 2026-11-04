@@ -1,5 +1,3 @@
-###DEL-007838-0-000-07-08-1945@@@
-
 DECRETO-LEI N. 7.838 – DE 7 DE AGÔSTO DE 1945
 
 Altera as carreiras de Artifice e Maquinista Maritimo do Quadro Suplementar do Ministério da Justiça e Negócios Interiores, e dá outras providências.

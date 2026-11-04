@@ -1,5 +1,3 @@
-###DEC-069100-0-000-19-08-1971@@@
-
 DECRETO Nº 69.100, DE 19 DE AGÔSTO DE 1971.
 
 Redistribui, com a respectiva ocupante, cargo do Ministério das Minas e Energia para o Ministério do Trabalho e Previdência Social, e dá outras providências.

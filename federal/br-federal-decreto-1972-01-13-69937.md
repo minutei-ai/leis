@@ -1,5 +1,3 @@
-###DEC-069937-0-000-13-01-1972@@@
-
 DECRETO Nº 69.937, DE 13 DE janeiro DE 1972.
 
 Estabelece as proporções a serem observadas na fixação do número mínimo de vagas referentes ao ano 1971.

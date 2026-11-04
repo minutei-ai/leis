@@ -1,5 +1,3 @@
-###DEC-005808-0-000-19-06-2006@@@
-
 DECRETO Nº 5.808, DE 19 DE JUNHO DE 2006.
 
 Dispõe sobre a criação do Consulado-Geral do Brasil na República da Índia, com sede em Mumbai.

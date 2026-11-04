@@ -1,5 +1,3 @@
-###DEC-079054-0-000-28-12-1976@@@
-
 DECRETO Nº 79.054, DE 28 DE DEZEMBRO DE 1976.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Delfim Moreira, Estado de Minas Gerais.

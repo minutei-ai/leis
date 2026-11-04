@@ -16,24 +16,316 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">TRANSPORTE ESCOLAR</td><td style=" width:85px;    ">12 368 1008 2027</td><td style=" width:85px;    ">15500116</td><td style=" width:85px;    ">42</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 11.930.000,00</td><td style=" width:85px;    ">R$ 11.930.000,00</td></tr></tbody></table>
+**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15500116 - TRANSFERÊNCIA DO SALÁRIO-EDUCAÇÃO - COTA ESTADUAL</td><td style=" width:340px;  height:19px;   ">R$ 11.930.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 11.930.000,00</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+TRANSPORTE ESCOLAR
+
+12 368 1008 2027
+
+15500116
+
+42
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 11.930.000,00
+
+R$ 11.930.000,00
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15500116 - TRANSFERÊNCIA DO SALÁRIO-EDUCAÇÃO - COTA ESTADUAL
+
+R$ 11.930.000,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 11.930.000,00
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">FORNECIMENTO DE MATERIAL ESCOLAR PARA ALUNOS DA EDUCAÇÃO DE JOVENS E ADULTOS</td><td style=" width:85px;    ">12 366 1008 2287</td><td style=" width:85px;    ">15500116</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 46,50</td><td style=" width:85px;    ">R$ 46,50</td><td style=" width:85px;    ">R$ 46,50</td></tr><tr><td style=" width:85px;    ">AMPLIAÇÃO, REFORMA E ADEQUAÇÃO DE UNIDADES ESCOLARES</td><td style=" width:85px;    ">12 368 1008 2283</td><td style=" width:85px;    ">15500116</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 40.127,03</td><td style=" width:85px;    ">R$ 40.127,03</td><td style=" width:85px;    ">R$ 40.127,03</td></tr><tr><td style=" width:85px;    ">GESTÃO DA INICIATIVA EDUCAÇÃO TECNODIGITAL - DESENVOLVENDO COMPETÊNCIAS, CONECTANDO CONHECIMENTOS</td><td style=" width:85px;    ">12 126 1008 2546</td><td style=" width:85px;    ">15500116</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.337.564,26</td><td style=" width:85px;    ">R$ 1.337.564,26</td><td style=" width:85px;    ">R$ 1.337.564,26</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE ATIVIDADES ESPORTIVAS E JOGOS ESTUDANTIS</td><td style=" width:85px;    ">12 368 1008 2025</td><td style=" width:85px;    ">15500116</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 322.277,59</td><td style=" width:85px;    ">R$ 322.277,59</td><td style=" width:85px;    ">R$ 322.277,59</td></tr><tr><td style=" width:85px;    ">REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS</td><td style=" width:85px;    ">12 368 1008 2547</td><td style=" width:85px;    ">15500116</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 12.791,54</td><td style=" width:85px;    ">R$ 12.791,54</td><td style=" width:85px;    ">R$ 12.791,54</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">12 122 4200 4243</td><td style=" width:85px;    ">15500116</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 359.000,00</td><td style=" width:85px;    ">R$ 359.000,00</td><td style=" width:85px;    ">R$ 359.000,00</td></tr><tr><td style=" width:85px;    ">FORNECIMENTO DE MATERIAL ESCOLAR PARA ALUNOS DA EDUCAÇÃO ESPECIAL</td><td style=" width:85px;    ">12 367 1008 2288</td><td style=" width:85px;    ">15500116</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 8,00</td><td style=" width:85px;    ">R$ 8,00</td><td style=" width:85px;    ">R$ 8,00</td></tr><tr><td style=" width:85px;    ">GESTÃO DA INICIATIVA EDUCAÇÃO TECNODIGITAL - DESENVOLVENDO COMPETÊNCIAS, CONECTANDO CONHECIMENTOS</td><td style=" width:85px;    ">12 126 1008 2546</td><td style=" width:85px;    ">15500116</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 8.703.974,60</td><td style=" width:85px;    ">R$ 8.703.974,60</td><td style=" width:85px;    ">R$ 8.703.974,60</td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO DE UNIDADES ESCOLARES</td><td style=" width:85px;    ">12 368 1008 3132</td><td style=" width:85px;    ">15500116</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 180.000,00</td><td style=" width:85px;    ">R$ 180.000,00</td><td style=" width:85px;    ">R$ 180.000,00</td></tr><tr><td style=" width:85px;    ">REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS</td><td style=" width:85px;    ">12 368 1008 2547</td><td style=" width:85px;    ">15500116</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 194.683,76</td><td style=" width:85px;    ">R$ 194.683,76</td><td style=" width:85px;    ">R$ 194.683,76</td></tr><tr><td style=" width:85px;    ">FORNECIMENTO DE MATERIAL ESCOLAR PARA ALUNOS DO ENSINO MÉDIO</td><td style=" width:85px;    ">12 362 1008 2290</td><td style=" width:85px;    ">15500116</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 22,24</td><td style=" width:85px;    ">R$ 22,24</td><td style=" width:85px;    ">R$ 22,24</td></tr><tr><td style=" width:85px;    ">FORNECIMENTO DE MATERIAL ESCOLAR PARA ALUNOS DO ENSINO FUNDAMENTAL</td><td style=" width:85px;    ">12 361 1008 2289</td><td style=" width:85px;    ">15500116</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.887.510,64</td><td style=" width:85px;    ">R$ 350.365,95</td><td style=" width:85px;    ">R$ 350.365,95</td></tr><tr><td style=" width:85px;    ">GESTÃO DA INICIATIVA PROMOVER ACESSO DA POPULAÇÃO À&nbsp; EDUCAÇÃO COM EQUIDADE,QUALIDADE E VALORIZAÇÃO DA INCLUSÃO</td><td style=" width:85px;    ">12 368 1008 2474</td><td style=" width:85px;    ">15500116</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 428.331,18</td><td style=" width:85px;    ">R$ 428.331,18</td><td style=" width:85px;    ">R$ 428.331,18</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">12 122 4200 4243</td><td style=" width:85px;    ">15500116</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">5 - INVERSÕES FINANCEIRAS</td><td style=" width:85px;    ">R$ 807,35</td><td style=" width:85px;    ">R$ 807,35</td><td style=" width:85px;    ">R$ 807,35</td></tr></tbody></table>
+**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15500116 - TRANSFERÊNCIA DO SALÁRIO-EDUCAÇÃO - COTA ESTADUAL</td><td style=" width:340px;  height:19px;   ">R$ 11.930.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 11.930.000,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15500116 - TRANSFERÊNCIA DO SALÁRIO-EDUCAÇÃO - COTA ESTADUAL</td><td style=" width:340px;  height:19px;   ">R$ 11.930.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 11.930.000,00</td></tr></tbody></table>
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+FORNECIMENTO DE MATERIAL ESCOLAR PARA ALUNOS DA EDUCAÇÃO DE JOVENS E ADULTOS
+
+12 366 1008 2287
+
+15500116
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 46,50
+
+R$ 46,50
+
+R$ 46,50
+
+AMPLIAÇÃO, REFORMA E ADEQUAÇÃO DE UNIDADES ESCOLARES
+
+12 368 1008 2283
+
+15500116
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 40.127,03
+
+R$ 40.127,03
+
+R$ 40.127,03
+
+GESTÃO DA INICIATIVA EDUCAÇÃO TECNODIGITAL - DESENVOLVENDO COMPETÊNCIAS, CONECTANDO CONHECIMENTOS
+
+12 126 1008 2546
+
+15500116
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.337.564,26
+
+R$ 1.337.564,26
+
+R$ 1.337.564,26
+
+REALIZAÇÃO DE ATIVIDADES ESPORTIVAS E JOGOS ESTUDANTIS
+
+12 368 1008 2025
+
+15500116
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 322.277,59
+
+R$ 322.277,59
+
+R$ 322.277,59
+
+REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS
+
+12 368 1008 2547
+
+15500116
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 12.791,54
+
+R$ 12.791,54
+
+R$ 12.791,54
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+12 122 4200 4243
+
+15500116
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 359.000,00
+
+R$ 359.000,00
+
+R$ 359.000,00
+
+FORNECIMENTO DE MATERIAL ESCOLAR PARA ALUNOS DA EDUCAÇÃO ESPECIAL
+
+12 367 1008 2288
+
+15500116
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 8,00
+
+R$ 8,00
+
+R$ 8,00
+
+GESTÃO DA INICIATIVA EDUCAÇÃO TECNODIGITAL - DESENVOLVENDO COMPETÊNCIAS, CONECTANDO CONHECIMENTOS
+
+12 126 1008 2546
+
+15500116
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 8.703.974,60
+
+R$ 8.703.974,60
+
+R$ 8.703.974,60
+
+CONSTRUÇÃO DE UNIDADES ESCOLARES
+
+12 368 1008 3132
+
+15500116
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 180.000,00
+
+R$ 180.000,00
+
+R$ 180.000,00
+
+REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS
+
+12 368 1008 2547
+
+15500116
+
+50
+
+4 - INVESTIMENTOS
+
+R$ 194.683,76
+
+R$ 194.683,76
+
+R$ 194.683,76
+
+FORNECIMENTO DE MATERIAL ESCOLAR PARA ALUNOS DO ENSINO MÉDIO
+
+12 362 1008 2290
+
+15500116
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 22,24
+
+R$ 22,24
+
+R$ 22,24
+
+FORNECIMENTO DE MATERIAL ESCOLAR PARA ALUNOS DO ENSINO FUNDAMENTAL
+
+12 361 1008 2289
+
+15500116
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.887.510,64
+
+R$ 350.365,95
+
+R$ 350.365,95
+
+GESTÃO DA INICIATIVA PROMOVER ACESSO DA POPULAÇÃO À  EDUCAÇÃO COM EQUIDADE,QUALIDADE E VALORIZAÇÃO DA INCLUSÃO
+
+12 368 1008 2474
+
+15500116
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 428.331,18
+
+R$ 428.331,18
+
+R$ 428.331,18
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+12 122 4200 4243
+
+15500116
+
+90
+
+5 - INVERSÕES FINANCEIRAS
+
+R$ 807,35
+
+R$ 807,35
+
+R$ 807,35
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15500116 - TRANSFERÊNCIA DO SALÁRIO-EDUCAÇÃO - COTA ESTADUAL
+
+R$ 11.930.000,00
+
+**TOTAL**
+
+R$ 11.930.000,00
+
+**TOTAL POR FONTE**
+
+15500116 - TRANSFERÊNCIA DO SALÁRIO-EDUCAÇÃO - COTA ESTADUAL
+
+R$ 11.930.000,00
+
+**TOTAL**
+
+R$ 11.930.000,00

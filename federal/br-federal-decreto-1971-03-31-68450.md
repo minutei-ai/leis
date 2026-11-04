@@ -1,5 +1,3 @@
-###DEC-068450-0-000-31-03-1971@@@
-
 DECRETO Nº 68.450, DE 31 DE MARÇO DE 1971.
 
 Autorização para o funcionamento da Faculdade de Filosofia, Ciências e Letras das Faculdades Associadas do Ipiranga, com os Cursos de Pedagogia, Filosofia, Letras e História.

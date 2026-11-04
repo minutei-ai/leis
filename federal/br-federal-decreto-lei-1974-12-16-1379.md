@@ -1,5 +1,3 @@
-###DEL-001379-0-000-16-12-1974@@@
-
 # DECRETO-LEI Nº 1.379, DE 16 DE dezembro de 1974
 
 Reajusta os vencimentos dos servidores dos Quadros das Secretarias do Tribunal Superior Eleitoral e Tribunais Regionais Eleitorais, bem como a gratificação dos Presidentes dos Tribunais Eleitorais dos Membros da Justiça Eleitoral e dos Juizes e Escrivães Eleitorais.

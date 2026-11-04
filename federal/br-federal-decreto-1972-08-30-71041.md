@@ -1,5 +1,3 @@
-###DEC-071041-0-000-30-08-1972@@@
-
 DECRETO Nº 71.041, DE 30 DE AGOSTO DE 1972.
 
 Aproveita no Quadro de Pessoal do Ministério do Trabalho e Previdência Social servidores em disponibilidade e dá outras providências.

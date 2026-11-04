@@ -1,5 +1,3 @@
-###DEC-074522-0-000-09-09-1974@@@
-
 DECRETO Nº 74.522, DE 9 DE SETEMBRO DE 1974.
 
 Cancela autorização para funcionamento no Brasil da Royal Insurance Company Limited.

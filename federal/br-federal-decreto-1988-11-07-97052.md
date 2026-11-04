@@ -1,5 +1,3 @@
-###DEC-097052-0-000-07-11-1988@@@
-
 DECRETO Nº 97.052, DE 7 DE NOVEMBRO DE 1988
 
 Inclui a indústria de extração de óleos vegetais comestíveis dentre as atividades com funcionamento permanente aos domingos, feriados civis e religiosos.

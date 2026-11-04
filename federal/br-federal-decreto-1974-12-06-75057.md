@@ -1,5 +1,3 @@
-###DEC-075057-0-000-06-12-1974@@@
-
 DECRETO Nº 75.057, DE 6 DE DEZEMBRO DE 1974.
 
 Concede à Mineração Vulcom Ltda. o direito de lavrar argila no Município de Carlópolis, Estado do Paraná.

@@ -1,5 +1,3 @@
-###MPV-000168-0-000-20-02-2004@@@
-
 MEDIDA PROVISÓRIA Nº 168, DE 20 DE FEVEREIRO 2004.
 
 Proíbe a exploração de todas as modalidades de jogos de bingo e jogos em máquinas eletrônicas denominadas "caça-níqueis", independentemente dos nomes de fantasia, e dá outras providências.

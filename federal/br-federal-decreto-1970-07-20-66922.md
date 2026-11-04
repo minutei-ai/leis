@@ -1,5 +1,3 @@
-###DEC-066922-0-000-20-07-1970@@@
-
 DECRETO Nº 66.922, DE 20 DE JULHO DE 1970.
 
 Declara caduco o Decreto nº 46.655 de 17 de agôsto de 1959.

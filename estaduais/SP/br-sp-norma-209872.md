@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209872)<br>
-
 # LEI N° 18.015, DE 23 DE AGOSTO DE 2024
 
 ## (Projeto de lei n° 765/2023, do Deputado Mauro Bragato - PSDB)

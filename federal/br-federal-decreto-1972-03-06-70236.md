@@ -1,5 +1,3 @@
-###DEC-070236-0-000-06-03-1972@@@
-
 Decreto nº 70.236, de 6 de março de 1972.
 
 Revoga o Decreto que concedeu à empresa Companhia MORRISON - KNUDSEN do Brasil S.A. autorização para funcionar na República Federativa do Brasil.

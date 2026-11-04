@@ -1,5 +1,3 @@
-###DEC-067773-0-000-09-12-1970@@@
-
 DECRETO Nº 67.773, DE 9 DE DEZEMBRO DE 1970.
 
 Declara caduco o Decreto número 44.931, de 1 de dezembro de 1958.

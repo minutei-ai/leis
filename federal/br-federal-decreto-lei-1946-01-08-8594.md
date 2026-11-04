@@ -1,5 +1,3 @@
-###DEL-008594-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.594 – DE 8 DE JANEIRO DE 1946
 
 Autoriza a Sociedade Nacional de Agricultura a hipotecar o domínio útil do terreno acrescido de marinha que menciona, e da outras providências.

@@ -1,5 +1,3 @@
-###DEC-048135-0-000-20-04-1960@@@
-
 DECRETO Nº 48.135, DE 20 DE ABRIL DE 1960.
 
 Abre, ao Ministério da Fazenda, o crédito especial de Cr$976.700.000,00, autorizado pela Lei nº 3.730, de 4 de março último.

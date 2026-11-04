@@ -1,5 +1,3 @@
-###MPV-001963-0-019-26-05-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.963-19, DE 26 DE maio DE 2000.
 
 Dispõe sobre a administração dos recursos de caixa do Tesouro Nacional, consolida e atualiza a legislação pertinente ao assunto e dá outras providências.

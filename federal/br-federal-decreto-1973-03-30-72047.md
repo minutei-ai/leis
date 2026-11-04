@@ -1,5 +1,3 @@
-###DEC-072047-0-000-30-03-1973@@@
-
 DECRETO Nº 72.047, DE 30 MARÇO DE 1973.
 
 Retifica o artigo 1º, do Decreto número 14.220, de 8 de dezembro de 1943, e estabelece área de servidão.

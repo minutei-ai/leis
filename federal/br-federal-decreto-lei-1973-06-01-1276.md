@@ -1,5 +1,3 @@
-###DEL-001276-0-000-01-06-1973@@@
-
 # DECRETO-LEI Nº 1.276, DE 1 DE JUNHO DE 1973
 
 Concede isenção do Imposto sobre Produtos Industrializados e dá outras providências.

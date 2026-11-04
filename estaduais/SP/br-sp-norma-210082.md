@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210082)<br>
-
 # DECRETO N° 68.942, DE 03 DE OUTUBRO DE 2024
 
 ### _Cria as Áreas de Proteção Ambiental Cuesta Corumbataí, Cuesta Paranapanema e Cuesta Guarani e dá providências correlatas._
@@ -52,7 +50,8 @@ TARCÍSIO DE FREITAS
 
 Arthur Luis Pinho de Lima
 
-#### ANEXO I <br>
+#### ANEXO I 
+
 a que se refere o inciso I do artigo 1° deste decreto
 
 I - DO PERÍMETRO DA ÁREA DE PROTEÇÃO AMBIENTAL - APA CUESTA CORUMBATAÍ
@@ -71,7 +70,8 @@ III - DAS FONTES UTILIZADAS PARA A DEMARCAÇÃO
 
 III.1 - Na demarcação foram utilizadas as cartas de Dois Córregos, Brotas, São Carlos, Corumbataí, Barra Bonita, Santa Maria da Serra, São Pedro, Rio Claro e Itirapina, do Instituto Brasileiro de Geografia e Estatística - IBGE, na escala de um para cinquenta mil - 1:50.000, todas editadas nas décadas de 1960 e 1970.
 
-#### ANEXO II <br>
+#### ANEXO II 
+
 a que se refere o inciso II do artigo 1° deste decreto
 
 I - DO PERÍMETRO DA ÁREA DE PROTEÇÃO AMBIENTAL - APA CUESTA PARANAPANEMA
@@ -88,7 +88,8 @@ III - DAS FONTES UTILIZADAS PARA A DEMARCAÇÃO
 
 III.1 - Na demarcação foram utilizadas as cartas de Ipauçu, Carlópolis, Salto de Itararé, Itaporanga, Sarutaiá e Piraju, do Instituto Brasileiro de Geografia e Estatística IBGE, na escala de uma para cinquenta mil - 1:50.000, todas editadas nas décadas de 1960 e 1970.
 
-#### ANEXO III <br>
+#### ANEXO III 
+
 a que se refere o inciso III do artigo 1° deste decreto
 
 I - DO PERÍMETRO DA ÁREA DE PROTEÇÃO AMBIENTAL - APA CUESTA GUARANI

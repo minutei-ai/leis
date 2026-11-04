@@ -1,5 +1,3 @@
-###DEC-080172-0-000-16-08-1977@@@
-
 decreto nº 80.172, de 16 de agosto de 1977.
 
 Concede à Cal Oeste Ltda. o direito de lavrar calcário no Município de Formiga, Estado de Minas Gerais.
@@ -29,8 +27,6 @@ Brasília, 16 de agosto de 1977; 156º da Independência e 89º da República.
 ernesto geisel
 
 Shigeaki Ueki
-
-###DEC-080172-0-000-16-08-1977@@@
 
 decreto nº 80.172, de 16 de agosto de 1977.
 

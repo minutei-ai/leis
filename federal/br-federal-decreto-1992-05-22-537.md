@@ -1,7 +1,3 @@
-1
-
-###DEC-000537-0-000-22-05-1992@@@
-
 DECRETO Nº 537, DE 22 DE MAIO DE 1992
 
 Dispõe sobre a contratação de serviços de publicidade no âmbito da Administração Pública Federal.

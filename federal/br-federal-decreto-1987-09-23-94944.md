@@ -1,5 +1,3 @@
-###DEC-094944-0-000-23-09-1987@@@
-
 DECRETO Nº 94.944, DE 23 DE SETEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Comércio Exterior da Faculdade de Ciências Administrativas de Joinville.

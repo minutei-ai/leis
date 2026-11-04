@@ -1,5 +1,3 @@
-###DEL-008198-0-000-20-11-1945@@@
-
 DECRETO-LEI N. 8.198 – DE 20 DE NOVEMBRO DE 1945
 
 Altera a redação do art. 2º do Decreto-lei nº 7.887, De 21 de agôsto de 1945, extingue e cria cargos isolados e funções gratificadas no Quadro Permanente do Ministério da Justiça e Negócios Interiores e de outras providências

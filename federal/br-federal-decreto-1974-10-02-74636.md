@@ -1,5 +1,3 @@
-###DEC-074636-0-000-02-10-1974@@@
-
 DECRETO nº 74.636, DE 2 DE OUTUBRO DE 1974.
 
 Concede à Sociedade Fornecedora de Minérios Limitada o direito de lavrar bauxita no Município de Poços de Caldas, Estado de Minas Gerais.

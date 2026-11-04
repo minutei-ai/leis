@@ -1,5 +1,3 @@
-###DEC-071173-0-000-28-09-1972@@@
-
 DECRETO Nº 71.173, DE 28 DE SETEMBRO DE 1972.
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pela Superintendência do Vale do São Francisco, área de terra necessária à implantação do Projeto de Irrigação de Pirapora, no Município do mesmo nome, Estado de Minas Gerais.

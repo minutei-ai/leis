@@ -1,5 +1,3 @@
-###DEC-071345-0-000-09-11-1972@@@
-
 DECRETO Nº 71.345 - de 9 de novembro de 1972.
 
 Concede reconhecimento à Faculdade de Engenharia da Organização Mogiana de Educação e Cultura.

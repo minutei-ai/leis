@@ -1,5 +1,3 @@
-###DEC-089329-0-000-25-01-1984@@@
-
 Decreto nº 89.329, de 25 de fevereiro dE 1984
 
 Cassa a concessão outorgada à RÁDIO CULTURA DE JAGUARIBE LTDA., para executar serviços de radiodifusão sonora em onda média, na cidade de Jaguaribe, Estado do Ceará.
@@ -17,8 +15,6 @@ Brasília, DF, 25 de janeiro de 1984; 163º da Independência e 96º da Repúbli
 JOÃO FIGUEIREDO
 
 H.C. Mattos
-
-###DEC-089329-0-000-25-01-1984@@@RET01+++
 
 DECRETO Nº 89.329, DE 25 DE JANEIRO DE 1984
 

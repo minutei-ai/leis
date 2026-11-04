@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209079)<br>
-
 # DECRETO N° 68.308, DE 16 DE JANEIRO DE 2024
 
 ### _Regulamenta a Lei n° 13.798, de 9 de novembro de 2009, que dispõe sobre a Política Estadual de Mudanças Climáticas, reorganiza o Conselho Estadual de Mudanças Climáticas e o Comitê Gestor da Política Estadual de Mudanças Climáticas, e dá providências correlatas._

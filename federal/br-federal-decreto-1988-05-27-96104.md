@@ -1,5 +1,3 @@
-###DEC-096104-0-000-27-05-1988@@@
-
 DECRETO N° 96.104, DE 27 DE MAIO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “GUAMPARÁ”  2ª PARTE  COLÔNIA PIQUIRI  GLEBA 7  LOTES 152, 152-A, 152-B, 153, 154 E 99, classificado como “latifúndio por exploração”, situado no Município de Cantagalo no Estado do Paraná, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.622, de 02 de maio de 1986, e dá outras providências.

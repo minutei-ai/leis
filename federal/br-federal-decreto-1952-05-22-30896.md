@@ -1,14 +1,12 @@
-###DEC-030896-0-000-22-05-1952@@@
+**DECRETO Nº 30.896, DE 22 DE MAIO 1952.**
 
-<strong>DECRETO Nº 30.896, DE 22 DE MAIO 1952.</strong>
+***Extingue cargos excedentes.***
 
-<em><strong>Extingue cargos excedentes.</strong></em>
+**OPRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição e nos têrmos do artigo 1º, alínea *n* do Decreto-lei nº 3.195, de 14 de abril de 1941,
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição e nos têrmos do artigo 1º, alínea <em>n</em> do Decreto-lei nº 3.195, de 14 de abril de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam extintos no Quadro Permanente do Ministério do Trabalho, Indústria e Comércio:
+**Art**. 1º Ficam extintos no Quadro Permanente do Ministério do Trabalho, Indústria e Comércio:
 
 1 cargo da classe I, da carreira de Bibliotecário, vago em virtude da promoção de Maria Molina Rondon;
 
@@ -18,10 +16,10 @@
 
 2 cargos da classe H, da carreira de Inspetor de Indústria e Comércio, vagos em virtude da exoneração de Paulo Roberto de Carvalho e promoção de Pedro Paulo de Figueiredo Moreira, devendo a dotação correspondente ser levada a crédito da Conta Corrente do mesmo Quadro do referido Ministério.
 
-<strong>Art</strong>. 2.º Revogam-se as disposições em contrário.
+**Art**. 2.º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 22 de maio de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Segadas Viana

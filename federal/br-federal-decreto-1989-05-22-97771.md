@@ -1,7 +1,3 @@
-1
-
-###DEC-097771-0-000-22-05-1989@@@
-
 DECRETO Nº 97.771, DE 22 DE MAIO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA PACUÍ”, classificado como “latifúndio por exploração”, situado no Município de Ubaí, no Estado de Minas Gerais, compreendido na zona prioritária, fixada pelo Decreto nº 92.694, de 19 de maio de 1986, e dá outras providências,

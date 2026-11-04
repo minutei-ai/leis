@@ -1,5 +1,3 @@
-###DEC-096610-0-000-30-08-1988@@@
-
 DECRETO Nº 96.610, DE 30 DE AGOSTO DE 1988
 
 Outorga concessão à TELEVISÃO CIDADE VERDE LTDA. para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Cuiabá, Estado do Mato Grosso.

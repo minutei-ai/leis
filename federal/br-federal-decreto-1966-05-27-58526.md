@@ -1,5 +1,3 @@
-###DEC-058526-0-000-27-05-1966@@@
-
 Decreto nº 58.526, de 27 de maio de 1966.
 
 Autoriza o cidadão brasileiro Francisco José da Motta a pesquisar amianto, talco e minérios de cobre e de níquel, no município de Pontalina, no Estado de Goiás.

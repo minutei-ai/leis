@@ -1,5 +1,3 @@
-###DEC-048734-0-000-04-08-1960@@@
-
 DECRETO Nº 48.734, DE 4 DE AGÔSTO DE 1960.
 
 Dá nova redação ao § 3º do art. 1º do Decreto nº 47.933, de 15 de março de 1960.

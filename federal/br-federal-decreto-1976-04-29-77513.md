@@ -1,5 +1,3 @@
-###DEC-077513-0-000-29-04-1976@@@
-
 DECRETO Nº 77.513 -DE 29 DE ABRIL DE 1976
 
 Revoga o Decreto nº 968, de 7 de maio de 1962, e dá outras providências.

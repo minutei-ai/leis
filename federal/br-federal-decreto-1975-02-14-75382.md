@@ -1,5 +1,3 @@
-###DEC-075382-0-000-14-02-1975@@@
-
 DECRETO Nº 75.382, DE 14 DE FEVEREIRO DE 1975.
 
 Prorroga o prazo da autorização concedida pelo Decreto n.º 74.070, de 15 de maio de 1974, à Companhia norte-americana Geophysical Service Inc.

@@ -1,5 +1,3 @@
-###DEC-066931-0-000-21-07-1970@@@
-
 DECRETO Nº 66.931, DE 21 DE JULHO DE 1970.
 
 Declara de utilidade pública, para fins de desapropriação, área destinada a bacia de acumulação do aproveitamento progressivo da energia hidráulica de um trecho do rio Grande, localizado entre os Estados de Minas Gerais e São Paulo.

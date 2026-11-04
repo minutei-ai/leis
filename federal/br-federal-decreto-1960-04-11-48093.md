@@ -1,5 +1,3 @@
-###DEC-048093-0-000-11-04-1960@@@
-
 DECRETO Nº 48.093, DE 11 DE ABRIL DE 1960.
 
 Transfere funções de Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Guerra.

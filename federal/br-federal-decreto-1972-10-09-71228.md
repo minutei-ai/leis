@@ -1,5 +1,3 @@
-###DEC-071228-0-000-09-10-1972@@@
-
 DECRETO Nº 71.228, DE 9 DE OUTUBRO DE 1972.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de terrenos em Santos Dumont, Estado de Minas Gerais, destinado ao Ministério da Aeronáutica.

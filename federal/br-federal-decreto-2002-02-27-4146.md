@@ -1,5 +1,3 @@
-###DEC-004146-0-000-27-02-2002@@@
-
 DECRETO Nº 4.146, DE 27 DE FEVEREIRO DE 2002
 
 Dispõe sobre a descentralização de dotações orçamentárias destinadas ao pagamento de sentenças transitadas em julgado, e dá outras providências.

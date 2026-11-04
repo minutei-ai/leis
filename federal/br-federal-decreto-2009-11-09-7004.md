@@ -1,5 +1,3 @@
-###DEC-007004-0-000-09-11-2009@@@
-
 DECRETO Nº 7.004, DE 9 DE NOVEMBRO DE 2009.
 
 Altera dispositivos do Decreto no 1.910, de 21 de maio de 1996, que dispõe sobre a concessão e a permissão de serviços desenvolvidos em terminais alfandegados de uso público.

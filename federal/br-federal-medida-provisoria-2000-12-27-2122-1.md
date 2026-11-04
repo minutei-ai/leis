@@ -1,5 +1,3 @@
-###MPV-002122-0-001-27-12-2000@@@
-
 medida provisória nº 2.122-1, de 27 de dezembro de 2000.
 
 Dispõe sobre a especialização das sociedades seguradoras em planos privados de assistência à saúde e dá outras providências.

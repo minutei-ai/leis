@@ -1,5 +1,3 @@
-###DEC-067992-0-000-30-12-1970@@@
-
 DECRETO Nº 67.992, DE 30 DE DEZEMBRO DE 1970
 
 Dispõe sobre a estruturação e atribuições da Superintendência Nacional da Marinha Mercante - SUNAMAM, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-056822-0-000-01-09-1965@@@
-
 decreto nº 56.822, de 1º de setembro de 1965.
 
 Fixa os preços mínimos básicos para o financiamento ou aquisição de algodão, amendoim das águas, arroz, feijão das águas, milho e soja, de produção nacional, das regiões central e meridional do País, para a safra 1965-66.

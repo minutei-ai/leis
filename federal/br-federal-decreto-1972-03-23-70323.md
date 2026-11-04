@@ -1,5 +1,3 @@
-###DEC-070323-0-000-23-03-1972@@@
-
 DECRETO Nº 70.323, DE 23 DE MARÇO DE 1972.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão construída no Município de Juazeiro, no Estado da Bahia.

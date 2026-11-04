@@ -1,5 +1,3 @@
-###DEC-069530-0-000-10-11-1971@@@
-
 DECRETO Nº 69.530 - DE 10 DE NOVEMBRO DE 1971
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de Varginha, da Fundação Universidade do Sul de Minas.

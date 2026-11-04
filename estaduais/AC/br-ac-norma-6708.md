@@ -1,6 +1,10 @@
 > **LEI Nº 4.770, DE 19 DE JANEIRO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza a Defensoria Pública do Estado do Acre - DPE, a transferir recursos para a Polícia Militar do Estado do Acre - PMAC, visando o custeio de despesas oriundas da designação temporária de militares que integram o Corpo Voluntário de Militares da Reserva Remunerada para atuar na segurança institucional.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza a Defensoria Pública do Estado do Acre - DPE, a transferir recursos para a Polícia Militar do Estado do Acre - PMAC, visando o custeio de despesas oriundas da designação temporária de militares que integram o Corpo Voluntário de Militares da Reserva Remunerada para atuar na segurança institucional.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

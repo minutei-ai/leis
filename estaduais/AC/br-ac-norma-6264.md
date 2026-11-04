@@ -1,6 +1,10 @@
 > **LEI Nº 4.515, DE 02 DE JANEIRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 1.908, de 31 de julho de 2007, que dispõe sobre o Instituto de Administração Penitenciária do Acre - IAPEN, para tratar das receitas e da destinação dos recursos do Fundo Penitenciário do Estado do Acre - FUNPENACRE.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 1.908, de 31 de julho de 2007, que dispõe sobre o Instituto de Administração Penitenciária do Acre - IAPEN, para tratar das receitas e da destinação dos recursos do Fundo Penitenciário do Estado do Acre - FUNPENACRE.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

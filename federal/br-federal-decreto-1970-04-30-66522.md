@@ -1,5 +1,3 @@
-###DEC-066522-0-000-30-04-1970@@@
-
 DECRETO Nº 66.522, DE 30 DE ABRIL DE 1970.
 
 Regulamenta os artigos 24 e 25 do Decreto-lei nº 764, de 15 de agôsto de 1969.

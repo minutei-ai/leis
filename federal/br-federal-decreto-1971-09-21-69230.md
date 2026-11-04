@@ -1,5 +1,3 @@
-###DEC-069230-0-000-21-09-1971@@@
-
 DECRETO Nº 69.230, DE 21 DE SETEMBRO DE 1971.
 
 Autorizada o funcionamento da Faculdade de Filosofia, Ciências e Letras de Paraíba do Sul - RJ, com os Cursos de Matemática, Física, Química, Ciências Biológicas, História, Geografia, Letras e Pedagogia.

@@ -1,5 +1,3 @@
-###DEC-049639-0-000-30-12-1960@@@
-
 DECRETO Nº 49.639, DE 30 DE DEZEMBRO DE 1960.
 
 Aprova novo Regimento da Divisão de Educação Física, do Departamento Nacional de Educação.

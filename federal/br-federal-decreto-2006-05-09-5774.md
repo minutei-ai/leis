@@ -1,5 +1,3 @@
-###DEC-005774-0-000-09-05-2006@@@
-
 DECRETO Nº 5.774, DE 9 DE MAIO DE 2006.
 
 Dispõe sobre a transmissão pelas exploradoras dos serviços de radiodifusão de sons e imagens dos jogos das seleções pela Copa do Mundo de Futebol.

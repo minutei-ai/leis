@@ -1,5 +1,3 @@
-###DEC-074560-0-000-13-09-1974@@@
-
 DECRETO Nº 74.560, DE 13 DE SETEMBRO DE 1974.
 
 Cancela a autorização dada à empresa de transporte aéreo peruano "Aerolineas Peruanas S.A. - APSA" para funcionar no Brasil.

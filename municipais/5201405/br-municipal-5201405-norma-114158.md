@@ -63,7 +63,6 @@ Art. 6º Como garantia de implantação do loteamento e de toda a infraestrutura
 | E8 | 11 | 220,50 | R$ 88.200,00 |
 | Total | Total | 27.554,07 | R$ 11.021.628,00 |
 
-<br>
 (...)”.
 
 Art. 2º Este decreto deverá ser levado ao Cartório de Registro de Imóveis competente, para que seja providenciada a retirada das restrições dos imóveis substituídos e a averbação das novas restrições nos imóveis agora caucionados, em conformidade com os novos Termo de Caução e Termo de Compromisso de Implantação do Loteamento.
@@ -72,12 +71,14 @@ Art. 3º Este Decreto entrará em vigor na data de sua publicação, revogando d
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, 25 de setembro de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal
 
-<br>
-ALANNA RITIELLE P. DE ARAÚJO<br>
+ALANNA RITIELLE P. DE ARAÚJO
+
 Secretária de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
-Secretário de Planejamento e Regulação Urbana<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
+Secretário de Planejamento e Regulação Urbana

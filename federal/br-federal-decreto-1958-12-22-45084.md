@@ -1,5 +1,3 @@
-###DEC-045084-0-000-22-12-1958@@@
-
 DECRETO Nº 45.084, DE 22 DE DEZEMBRO DE 1958.
 
 Concede permissão à Spumar - Espuma de Nylon S.A., estabelecida na Capital de São Paulo, à Rua Martins Pena nº 236, Tatuapé, para funcionar aos domingos e nos feriados civis e religiosos.

@@ -1,5 +1,3 @@
-###DEC-057287-0-000-19-11-1965@@@
-
 DECRETO Nº 57.287, DE 19 DE NOVEMBRO DE 1965.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros Vila Rica, inclusive aumento do capital social.

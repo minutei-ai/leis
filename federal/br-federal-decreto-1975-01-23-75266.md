@@ -1,5 +1,3 @@
-###DEC-075266-0-000-23-01-1975@@@
-
 Decreto N° 75.266, DE 23 DE JANEIRO DE 1975.
 
 Concede reconhecimento ao curso de Ciências Sociais da Faculdade de Filosofia Bernardo Sayão mantida pela Associação Educativa Evangélica, com sede na cidade de Anápolis, Estado de Goiás.

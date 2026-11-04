@@ -1,5 +1,3 @@
-###DEC-081882-0-000-04-07-1978@@@
-
 Decreto nº 81.882, de 04 de julho de 1978.
 
 Autoriza o funcionamento do curso de Nutricionista da Faculdade de Nutrição, com sede na cidade de Porto Alegre, Estado do Rio Grande do Sul.

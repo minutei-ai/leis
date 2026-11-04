@@ -1,14 +1,12 @@
-###DEC-038710-0-000-28-01-1956@@@
+**DECRETO Nº 38.710, DE 28 DE JANEIRO DE 1956**
 
-<strong>DECRETO Nº 38.710, DE 28 DE JANEIRO DE 1956</strong>
+***Altera dispositivos do Decreto número 37.008, de 8 de março de 1955, e dá outras providências.***
 
-<em><strong>Altera dispositivos do Decreto número 37.008, de 8 de março de 1955, e dá outras providências.</strong></em>
+**O VICE-PRESIDENTE DO SENADO**, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, item i, da Constituição, e nos têrmos do art. 3º da Lei nº 2.188, de 3 de março de 19654,
 
-<strong>O VICE-PRESIDENTE DO SENADO</strong>, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, item i, da Constituição, e nos têrmos do art. 3º da Lei nº 2.188, de 3 de março de 19654,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os artigos 123, 124, 125, 126, 127 do Decreto nº 37.008, de 8 de março de 1955, passam a ter a seguinte redação:
+**Art**. 1º Os artigos 123, 124, 125, 126, 127 do Decreto nº 37.008, de 8 de março de 1955, passam a ter a seguinte redação:
 
 “Art. 123. O Instituto Médico - Legal compreende:
 
@@ -52,7 +50,7 @@ III – registrar os laudos peciciais e fornecer certidão dos mesmos;
 
 IV – executar os trabalhos mecanograficos de que necessita o IML.”
 
-<strong>Art</strong>. 2º À Zeladoria compete:
+**Art**. 2º À Zeladoria compete:
 
 I – a manutenção, conservação, segurança, vigilância do edifício e sua limpeza interna e externa:
 
@@ -62,14 +60,14 @@ III – a fiscalização dos serviços de bar, restaurante e outros que forem in
 
 IV – a administração do velório, encardenação e lavanderia
 
-<strong>Art</strong>. 3º Ficam criadas três funções gratificadas, FG -2, de Chefe da Seção de Anatomia Patológica e Patologia, Chefe de Seção de Toxicologia, Instituto Médico Legal e uma FG -6, de Zelador do Instituto Médico Legal.
+**Art**. 3º Ficam criadas três funções gratificadas, FG -2, de Chefe da Seção de Anatomia Patológica e Patologia, Chefe de Seção de Toxicologia, Instituto Médico Legal e uma FG -6, de Zelador do Instituto Médico Legal.
 
-<strong>Art</strong>. 4º Ficam extintas as funções gratificadas de Chefe de Seção de Perícias de Laboratório do Instituto Médico Legal, FG -2, e de Encarregado da Turma de Limpeza do Instituo Médico Legal FG -6.
+**Art**. 4º Ficam extintas as funções gratificadas de Chefe de Seção de Perícias de Laboratório do Instituto Médico Legal, FG -2, e de Encarregado da Turma de Limpeza do Instituo Médico Legal FG -6.
 
-<strong>Art</strong>. 5º Éste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 5º Éste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 28 de janeiro de 1956, 135º da Independência e 68º da República.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 F. de Menezes Pimentel

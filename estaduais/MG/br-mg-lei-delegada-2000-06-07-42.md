@@ -57,7 +57,3 @@ CARGOS REMUNERAÇÃO R$ Delegado Geral de Polícia 3.217,00 Delegado de Polícia
 (Vide art. 2º da Lei Delegada nº 45, de 26/7/2000.)
 
 (Vide art. 1º da Lei Delegada nº 47, de 11/8/2000.)
-
-\-----------------------------------------------
-
-Data da última atualização: 29/7/2016.

@@ -1,5 +1,3 @@
-###DEC-072291-0-000-23-05-1973@@@
-
 DECRETO Nº 72.291, DE 23 DE MAIO DE 1973.
 
 Transfere para a Telecomunicações de São Paulo S.A. TELESP - concessões da Companhia Telefônica Brasileira para explorar, no Estado de São Paulo, serviços públicos de telefonia, e dá outras providências.

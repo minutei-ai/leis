@@ -1,5 +1,3 @@
-###DEC-051937-B-000-26-04-1963@@@
-
 DECRETO Nº 51.937-B, DE 26 DE ABRIL DE 1963.
 
 Revoga o Decreto nº 44.305, de 8 de agôsto de 1958.

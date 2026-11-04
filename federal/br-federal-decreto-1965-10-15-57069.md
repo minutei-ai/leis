@@ -1,5 +1,3 @@
-###DEC-057069-0-000-15-10-1965@@@
-
 Decreto nº 57.069, de 15 de outubro de 1965.
 
 Autoriza o cidadão brasileiro Mariano de Moura a pesquisar água mineral no município de Presidente Prudente, Estado de São Paulo.

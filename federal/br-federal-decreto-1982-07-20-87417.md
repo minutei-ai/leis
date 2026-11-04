@@ -1,5 +1,3 @@
-###DEC-087417-0-000-20-07-1982@@@
-
 Decreto nº 87.417, de 20 de julho de 1982
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos municípios do Rio de Janeiro, Niterói e Cabo Frio, Estado do Rio de Janeiro; Recife, Estado de Pernambuco; Fortaleza, Estado do Ceará; Salvador, Estado da Bahia e Guarujá, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-076067-0-000-31-07-1975@@@
-
 DECRETO Nº 76.067, DE 31 DE JULHO DE 1975.
 
 Autoriza o funcionamento do curso de desenho industrial da Faculdade de Desenho Industrial, mantida pelo Centro de Ensino Superior de Mauá, com sede na Cidade de Mauá, Estado de São Paulo.

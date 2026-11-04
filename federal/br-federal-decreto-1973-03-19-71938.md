@@ -1,5 +1,3 @@
-###DEC-071938-0-000-19-03-1973@@@
-
 DECRETO Nº 71.938, DE 19 DE MARÇO DE 1973.
 
 Concede à Companhia Mineira de Metais o direito de lavrar minérios de zinco e chumbo no Município de Vazante, Estado de Minas Gerais.

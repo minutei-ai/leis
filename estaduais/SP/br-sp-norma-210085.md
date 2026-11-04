@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210085)<br>
-
 # LEI N° 18.054, DE 04 DE OUTUBRO DE 2024
 
 ## (Projeto de lei n° 1297/2023, da Deputada Andréa Werner - PSB)

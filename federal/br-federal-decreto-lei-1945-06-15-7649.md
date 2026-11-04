@@ -1,5 +1,3 @@
-###DEL-007649-0-000-15-06-1945@@@
-
 DECRETO-LEI N. 7.649 – de 15 DE  JUNHO DE 1945
 
 Abre crédito suplementar ao Ministério do Trabalho, Indústria e Comércio

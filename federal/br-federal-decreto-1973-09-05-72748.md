@@ -1,5 +1,3 @@
-###DEC-072748-0-000-05-09-1973@@@
-
 DECRETO Nº 72.748, DE 5 DE SETEMBRO DE 1973
 
 Redistribui cargos, com os respectivos ocupantes, para o Quadro de Pessoal das Secretarias do Ministério Público Federal, e dá outras providências.

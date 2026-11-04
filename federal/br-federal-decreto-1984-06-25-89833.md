@@ -1,5 +1,3 @@
-###DEC-089833-0-000-25-06-1984@@@
-
 Decreto nº 89.833, de 25 de junho de 1984.
 
 Reajusta os valores da Gratificação pela Representação de Gabinete e os de Indenização de Representação.

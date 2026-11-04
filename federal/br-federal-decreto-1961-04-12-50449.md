@@ -1,5 +1,3 @@
-###DEC-050449-0-000-12-04-1961@@@
-
 DECRETO Nº 50.449, DE 12 DE ABRIL DE 1961.
 
 Altera o Regulamento da Diretoria de Aeronáutica Civil.

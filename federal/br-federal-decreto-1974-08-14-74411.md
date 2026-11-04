@@ -1,5 +1,3 @@
-###DEC-074411-0-000-14-08-1974@@@
-
 DECRETO Nº 74.411, DE 14 DE AGOSTO DE 1974
 
 Autoriza o funcionamento do curso de Arquitetura e Urbanismo da Faculdade de Arquitetura e Urbanismo de Canoas, mantida pela Comunidade Evangélica Luterana "São Paulo", com sede na cidade Canoas, Estado do Rio Grande do Sul.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099144-0-000-12-03-1990@@@
-
 DECRETO Nº 99.144, DE 12 DE MARCO DE 1990
 
 Cria a Reserva Extrativista Chico Mendes.

@@ -1,5 +1,3 @@
-###DEC-091999-0-000-28-11-1985@@@
-
 DECRETO Nº 91.999, DE 28 DE novembro DE 1985
 
 Dispõe sobre a redução de despesas de serviços de terceiros nos órgãos da Administração Federal direta, e dá outras providências.

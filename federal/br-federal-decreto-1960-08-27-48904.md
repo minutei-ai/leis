@@ -1,5 +1,3 @@
-###DEC-048904-0-000-27-08-1960@@@
-
 Decreto nº 48.904, de 27 de agôsto de 1960.
 
 Concede reconhecimento a curso.

@@ -1,5 +1,3 @@
-###DEC-083133-0-000-05-02-1979@@@
-
 Decreto nº 83.133, de 05 de fevereiro de 1979
 
 Concede à Mineradora Montita Ltda. direito de lavrar vermiculita e minério de níquel no Município de Jussara, Estado de Goiás.

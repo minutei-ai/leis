@@ -1,5 +1,3 @@
-###MPV-001750-0-045-14-12-1998@@@
-
 medida provisória nº 1.750-45, de 14 de dezembro de 1998.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

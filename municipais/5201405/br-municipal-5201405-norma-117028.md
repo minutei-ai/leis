@@ -22,9 +22,10 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 2
 
  
 
-Luiz Alberto Maguito Vilela<br>
+Luiz Alberto Maguito Vilela
+
 Prefeito Municipal
 
-<br>
-Eli de Faria<br>
+Eli de Faria
+
 Secretário Executivo

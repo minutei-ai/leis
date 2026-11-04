@@ -1,5 +1,3 @@
-###DEC-062536-0-000-16-04-1968@@@
-
 DECRETO Nº 62.536, DE 16 DE ABRIL DE 1968.
 
 Dispõe sôbre a situação das Tesourarias junto a órgãos aduaneiros e dá outras providências.

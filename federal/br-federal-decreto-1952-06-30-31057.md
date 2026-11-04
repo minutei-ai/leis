@@ -1,24 +1,22 @@
-###DEC-031057-0-000-30-06-1952@@@
+**DECRETO Nº 31.067, DE 30 DE JUNHO DE 1952.**
 
-<strong>DECRETO Nº 31.067, DE 30 DE JUNHO DE 1952.</strong>
+***Outorga concessão à Fundação Gaspar Líbero para instalar um transmissor de radiodifusão em ondas curtas.***
 
-<em><strong>Outorga concessão à Fundação Gaspar Líbero para instalar um transmissor de radiodifusão em ondas curtas.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, n. I, da Constituição, atendendo ao que requereu a Fundação Casper Líbano, com sede na cidade de São Paulo, Estado de São Paulo, e tendo em vista o disposto no artigo 5º , n.XII da mesma Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, n. I, da Constituição, atendendo ao que requereu a Fundação Casper Líbano, com sede na cidade de São Paulo, Estado de São Paulo, e tendo em vista o disposto no artigo 5º , n.XII da mesma Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único – Fica outorgada concessão à Fundação Casper Líbero, nos têrmos do artigo 11, do Decreto nº 24.655, de 11 de julho de 1934, para estabelecer, a título precário, de conformidade com o disposto no artigo 4º , parágrafo 2º , do Decreto n. 29.783, de 19 de julho de 1951, sem direto de exclusividade, um transmissor de radiodifusão em ondas curtas, com a potência de 20 kw destinado a trabalhar em conjunto com as estações de ondas médias e de freqüência modulada da mesma Fundação.
 
-Parágrafo único. O contrato decorrente desta concessão obedecerá às clausulas que com êste baixam, assinadas pelo Ministro de Estado dos Negócios da Viação e Obras Publicas e deverá ser assinado dentro de 60 (sessenta) dias, a contar da data da publicação dêste decreto no <em>Diário Oficial</em>, sob pena de ser considerada nula a concessão.
+Parágrafo único. O contrato decorrente desta concessão obedecerá às clausulas que com êste baixam, assinadas pelo Ministro de Estado dos Negócios da Viação e Obras Publicas e deverá ser assinado dentro de 60 (sessenta) dias, a contar da data da publicação dêste decreto no *Diário Oficial*, sob pena de ser considerada nula a concessão.
 
 Rio de janeiro 30 de junho de 1952; 131º da Independência e 64º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Alvaro de Souza Lima
 
-<strong>CLAUSULAS A QUE SE REFERE O DECRETO Nº 31.057, DESTA DATA</strong>
+**CLAUSULAS A QUE SE REFERE O DECRETO Nº 31.057, DESTA DATA**
 
 I
 
@@ -86,9 +84,9 @@ VIII
 
 A concessão será considerada caduca, para todos os efeitos, sem direito a qualquer indenização;
 
-a) se, em todo o tempo, fôr verificada inobservância das disposições contidas nas alíneas <em>a</em>, <em>b</em>, <em>c</em>, <em>d</em>, <em>e</em> (infine), <em>i</em>, <em>l</em> e m da cláusula terceira (III);
+a) se, em todo o tempo, fôr verificada inobservância das disposições contidas nas alíneas *a*, *b*, *c*, *d*, *e* (infine), *i*, *l* e m da cláusula terceira (III);
 
-b) se não forem pagas dentro dos prazos estabelecidos, a quota e contribuições a que se refere a alínea <em>e</em> da cláusula terceira (III) bem como a importância de qualquer multa impôsta nos têrmos da cláusula Sexta (VI);
+b) se não forem pagas dentro dos prazos estabelecidos, a quota e contribuições a que se refere a alínea *e* da cláusula terceira (III) bem como a importância de qualquer multa impôsta nos têrmos da cláusula Sexta (VI);
 
 c) se, em qualquer tempo, se verificar o emprego da estação para outros fins que não os determinados na concessão e admitidos pela legislação que reger a matéria.
 
@@ -100,4 +98,4 @@ b) Se a concessionária incidir reiteradamente em infrações passíveis de mult
 
 Rio de Janeiro, 30 de junho de 1952.
 
-<strong>ALVARO DE SOUZA LIMA</strong>
+**ALVARO DE SOUZA LIMA**

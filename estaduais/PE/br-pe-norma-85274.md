@@ -66,26 +66,29 @@ Parágrafo único. Os vencimentos do cargo de que trata o _caput_ são os corres
 
 **“ANEXO I-A**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin-left:47.95pt;border-collapse:collapse;border:none"><tbody><tr><td width="229" valign="top" style="width:171.55pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">CARGO</p></td><td width="142" valign="top" style="width:106.3pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">NÚMERO VAGA</p></td><td width="123" valign="top" style="width:92.15pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">SÍMBOLO</p></td></tr><tr><td width="229" valign="top" style="width:171.55pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal">DIRETOR DE ENGENHARIA</p></td><td width="142" valign="top" style="width:106.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">01</p></td><td width="123" valign="top" style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">DEF-2</p></td></tr></tbody></table>
+CARGO
+
+NÚMERO VAGA
+
+SÍMBOLO
+
+DIRETOR DE ENGENHARIA
+
+01
+
+DEF-2
 
                                                                                                                                         ”
 
 **“ANEXO II-A**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin-left:47.95pt;border-collapse:collapse;border:none"><tbody><tr><td width="119" valign="top" style="width:89.5pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">CARGO</p></td><td width="372" valign="top" style="width:279.05pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center">ATRIBUIÇÕES</p></td></tr><tr><td width="119" valign="top" style="width:89.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal">&nbsp;</p><p class="MsoNormal">DIRETOR DE ENGENHARIA</p></td><td width="372" valign="top" style="width:279.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal">Execução dos Serviços de Elaboração de Laudos Técnicos e Projetos Básicos e Fiscalização de Serviços/Obras de Engenharia e as disciplinadas pelo Conselho Superior da Defensoria Pública de Pernambuco</p></td></tr></tbody></table>
+CARGO
+
+ATRIBUIÇÕES
+
+DIRETOR DE ENGENHARIA
+
+Execução dos Serviços de Elaboração de Laudos Técnicos e Projetos Básicos e Fiscalização de Serviços/Obras de Engenharia e as disciplinadas pelo Conselho Superior da Defensoria Pública de Pernambuco
 
                                                                                                                                        ”
 

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/a3bd5da9-2533-40f5-b26a-b77af85b8a9a/texto#nowhere)
 
-###DEL-000931-0-000-10-10-1969@@@
-
 Decreto-lei nº 931, de 10 de Outubro de 1969
 
 Transfere cargos, com os respectivos ocupantes, do quadro de pessoal do Ministério da Aeronáutica para o do Conselho Nacional de Pesquisas.

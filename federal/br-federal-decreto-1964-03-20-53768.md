@@ -1,5 +1,3 @@
-###DEC-053768-0-000-20-03-1964@@@
-
 DECRETO Nº 53.768, DE 20 DE MARÇO DE 1964.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica no Município de Conquista, Estado de Minas Gerais.

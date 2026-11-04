@@ -1,7 +1,3 @@
-1
-
-###DEC-097808-0-000-06-06-1989@@@
-
 DECRETO N° 97.808, DE 06 DE JUNHO DE 1989
 
 Autoriza o funcionamento do curso de Administração, a ser ministrado pela Faculdade de Ciências Humanas de Ivaiporã/PR

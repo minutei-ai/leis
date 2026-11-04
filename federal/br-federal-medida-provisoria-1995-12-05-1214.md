@@ -1,7 +1,3 @@
-1
-
-###MPV-001214-0-000-05-12-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.214, DE 5 DE DEZEMBRO DE 1995.
 
 Dispõe sobre medidas de fortalecimento do Sistema Financeiro Nacional e dá outras providências.

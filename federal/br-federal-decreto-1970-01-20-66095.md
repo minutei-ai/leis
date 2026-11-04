@@ -1,5 +1,3 @@
-###DEC-066095-0-000-20-01-1970@@@
-
 decreto nº 66.095 - de 20 de janeiro de 1970
 
 Dispõe sôbre a tributação dos rendimentos da exploração agrícola e pastoril, e dá outras providências

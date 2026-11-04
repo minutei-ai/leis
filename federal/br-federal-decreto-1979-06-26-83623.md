@@ -1,5 +1,3 @@
-###DEC-083623-0-000-26-06-1979@@@
-
 DECRETO Nº 83.623, DE 26 DE JUNHO DE 1979.
 
 Concede à Quebra Pote-Comércio e Indústria S.A. o direito de lavrar argila no Município de São Luis, Estado do Maranhão.

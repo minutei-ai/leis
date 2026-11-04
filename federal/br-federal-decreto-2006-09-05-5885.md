@@ -1,5 +1,3 @@
-###DEC-005885-0-000-05-09-2006@@@
-
 DECRETO Nº 5.885, DE 5 DE SETEMBRO DE 2006.
 
 Promulga o Acordo Regional de Cooperação para a Promoção da Ciência e da Tecnologia Nucleares na América Latina e no Caribe - ARCAL, celebrado no âmbito da Agência Internacional de Energia Atômica - AIEA, adotado em Viena, em 25 de setembro de 1998, e assinado pelo Brasil em 4 de agosto de 1999, com reservas aos Artigos VI e XIII.
@@ -24,11 +22,7 @@ Brasília, 5 de setembro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-       Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 6.9.2006.
-
-ACORDO DE COOPERAÇÃO PARA A PROMOÇÃO DA
+       Celso Luiz Nunes AmorimACORDO DE COOPERAÇÃO PARA A PROMOÇÃO DA
 
 CIÊNCIA E DA TECNOLOGIA NUCLEARES NA AMÉRICA
 

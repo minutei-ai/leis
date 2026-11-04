@@ -1,6 +1,10 @@
 > **LEI Nº 3.635, DE 04 DE JUNHO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei nº 3.520, de 25 de setembro de 2019, que dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2020, a fim de criar a Fonte 600 - Recursos Ordinários, destinada à operacionalização da Desvinculação de Receita do Estado – DRE.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera dispositivos da Lei nº 3.520, de 25 de setembro de 2019, que dispõe sobre as diretrizes orçamentárias para o exercício financeiro de 2020, a fim de criar a Fonte 600 - Recursos Ordinários, destinada à operacionalização da Desvinculação de Receita do Estado – DRE.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

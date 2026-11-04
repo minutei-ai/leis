@@ -1,5 +1,3 @@
-###DEC-006767-0-000-10-02-2009@@@
-
 DECRETO Nº 6.767, DE 10 DE FEVEREIRO DE 2009.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Coréia sobre Cooperação no Domínio da Defesa, firmado em Brasília, em 31 de março de 2006.

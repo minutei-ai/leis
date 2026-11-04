@@ -1,5 +1,3 @@
-###DEC-097059-0-000-10-11-1988@@@
-
 DECRETO Nº 97.059, DE 10 DE NOVEMBRO DE 1988
 
 Promulga o Acordo Comercial entre a República Federativa do Brasil e a República Islâmica do Paquistão.

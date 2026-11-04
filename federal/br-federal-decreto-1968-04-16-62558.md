@@ -1,5 +1,3 @@
-###DEC-062558-0-000-16-04-1968@@@
-
 DECRETO Nº 62.558, DE 16 DE ABRIL DE 1968.
 
 Autoriza a Companhia Luz e Fôrça Santa Cruz a construir subestação.

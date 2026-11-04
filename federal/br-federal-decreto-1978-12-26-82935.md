@@ -1,5 +1,3 @@
-###DEC-082935-0-000-26-12-1978@@@
-
 Decreto nº 82.935, 26 de dezembro de 1978
 
 Dispõe sobre o dimensionamento do módulo rural, para efeito de enquadramento sindical e dá outras providências.

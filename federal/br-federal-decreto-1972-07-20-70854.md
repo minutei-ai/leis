@@ -1,5 +1,3 @@
-###DEC-070854-0-000-20-07-1972@@@
-
 DECRETO Nº 70.854, DE 20 DE JULHO DE 1972.
 
 Declara de utilidade pública as instituições que menciona.

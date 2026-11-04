@@ -1,5 +1,3 @@
-###DEC-060713-0-000-11-05-1967@@@
-
 DECRETO Nº 60.713, DE 11 DE MAIO DE 1967.
 
 Declara de utilidade pública o “Ginásio Dom Barreto”, com sede em Campinas, Estado de São Paulo.

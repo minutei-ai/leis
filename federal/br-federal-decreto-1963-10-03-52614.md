@@ -1,5 +1,3 @@
-###DEC-052614-0-000-03-10-1963@@@
-
 Decreto Nº 52.614, DE 3 DE OUTUBRO DE 1963.
 
 Autoriza a Companhia Hidro Elétrica do São Francisco a constituir penhor mercantil a favos do Banco Nacional do Desenvolvimento Econômico.

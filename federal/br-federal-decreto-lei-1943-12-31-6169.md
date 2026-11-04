@@ -1,5 +1,3 @@
-###DEL-006169-0-000-31-12-1943@@@
-
 DECRETO-LEI N. 6.169 – DE 31 DE DEZEMBRO DE 1943
 
 Dispõe sôbre a designação do assistente e do secretário dos Cursos de Aperfeiçoamento e Especialização do Ministério da Agricultura

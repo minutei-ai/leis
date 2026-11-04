@@ -1,5 +1,3 @@
-###DEC-049055-0-000-05-10-1960@@@
-
 decreto nº 49.055, de 05 de outubro de 1960.
 
 Revoga os Decretos que concederam à Costi S.A. - Indústria, Comércio e navegação autorização para funcionar como emprêsa de navegação de cabotagem.

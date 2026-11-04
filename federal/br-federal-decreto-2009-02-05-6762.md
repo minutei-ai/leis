@@ -1,5 +1,3 @@
-###DEC-006762-0-000-05-02-2009@@@
-
 DECRETO Nº 6.762, DE 5 DE FEVEREIRO DE 2009.
 
 Promulga o Acordo de Cooperação Técnica entre o Governo da República Federativa do Brasil e a União Africana, celebrado em Brasília, em 28 de fevereiro de 2007.

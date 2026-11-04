@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209663)<br>
-
 # LEI N° 17.959, DE 01 DE JULHO DE 2024
 
 ## (Projeto de lei n° 1624/2023, do Deputado Rogério Santos - MDB)

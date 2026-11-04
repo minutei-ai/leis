@@ -1,5 +1,3 @@
-###DEC-082258-0-000-13-09-1978@@@
-
 Decreto nº 82.258, de 13 de setembro de 1978.
 
 Concede à Mineração Caetetu Ltda. o direito de lavrar minério de ferro no Município de Senhora do Porto, Estado de Minas Gerais.

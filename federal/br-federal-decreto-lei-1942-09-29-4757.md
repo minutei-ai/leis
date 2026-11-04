@@ -1,5 +1,3 @@
-###DEL-004757-0-000-29-09-1942@@@
-
 DECRETO-LEI N. 4.757 – DE 29 DE SETEMBRO DE 1942
 
  Dispõe sobre o Comando da 7ª Divisão de Infantaria

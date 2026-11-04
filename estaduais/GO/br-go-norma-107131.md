@@ -26,14 +26,18 @@ RONALDO CAIADO
 
 Governador do Estado
 
-[ANEXO I<br>
+[ANEXO I
+
 LIMITES DE EMPENHO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18314)
 
-[ANEXO II<br>
+[ANEXO II
+
 LIMITES DE PAGAMENTOS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18315)
 
-[ANEXO III<br>
+[ANEXO III
+
 LIMITES DE PAGAMENTOS DE RESTOS A PAGAR](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18316)
 
-[ANEXO IV<br>
+[ANEXO IV
+
 QUADRO DE COTAS TRIMESTRAIS DA DESPESA](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18317)

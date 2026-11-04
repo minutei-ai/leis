@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/17748)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1992/compilacao-lei-7964-16.07.1992.html)
 
 # LEI N° 7.964, DE 16 DE JULHO DE 1992
@@ -13,7 +12,8 @@ _~~\- Vide [Decreto n° 45.065, de 25/07/2000](https://www.al.sp.gov.br/norma/46
 
 _\- Vide [Decreto n° 47.804, de 30/04/2003](https://www.al.sp.gov.br/norma/1888)._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
 Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
 
 ~~Artigo 1° - Passa a denominar-se Fundo de Expansão da Agropecuária e da Pesca, o Fundo instituído pelo Artigo 3° da [Lei n. 5.444, de 17 de novembro de 1959](https://www.al.sp.gov.br/norma/40254), ratificado pela [Lei n. 7.001, de 27 de dezembro de 1990](https://www.al.sp.gov.br/norma/21286), vinculado à Secretaria de Agricultura e Abastecimento, que tem por objetivo prestar apoio financeiro aos agricultores pecuaristas e Pescadores artesanais, em programas e projetos do interesse da economia estadual.~~
@@ -26,11 +26,16 @@ _\- Vide artigo 1° da [Lei n° 11.247, de 04/11/2002](https://www.al.sp.gov.br/
 
 **Parágrafo único -** Os programas e projetos a que se refere este artigo serão definidos pelo Poder Executivo, por decreto, mediante proposta da Secretaria de Agricultura e Abastecimento.
 
-**Artigo 2° -** Constituem recursos do Fundo:<br>
-**I -** as dotações ou créditos específicos, consignados no orçamento do Estado;<br>
-**II -** as amortizações recebidas dos mutuários;<br>
-**III -** os rendimentos, acréscimos e correção monetária provenientes das operações realizadas e da aplicação no mercado financeiro, de recursos disponíveis;<br>
-**IV -** os recursos provenientes de operações realizadas das com instituições financeiras, nacionais ou estrangeiras observada a legislação pertinente;<br>
+**Artigo 2° -** Constituem recursos do Fundo:
+
+**I -** as dotações ou créditos específicos, consignados no orçamento do Estado;
+
+**II -** as amortizações recebidas dos mutuários;
+
+**III -** os rendimentos, acréscimos e correção monetária provenientes das operações realizadas e da aplicação no mercado financeiro, de recursos disponíveis;
+
+**IV -** os recursos provenientes de operações realizadas das com instituições financeiras, nacionais ou estrangeiras observada a legislação pertinente;
+
 **V -** o produto da alienação dos bens mencionados no [Decreto-lei n. 93, de 9 de junho de 1969](https://www.al.sp.gov.br/norma/48680);
 
 ~~VI - a compensação financeira devida ao Estado, por força do disposto no § 1° do Artigo 20 da Constituição Federal, pela exploração de recursos minerais, petróleo e xisto betuminoso, excluída a parcela destinada aos municípios, nos termos do Artigo 9° da Lei Federal n. 7.990, de 28 de dezembro de 1989;~~
@@ -43,16 +48,24 @@ _~~\- Inciso VI com redação dada pela [Lei n° 16.004, de 23/11/2015](https://
 
 _\- Inciso VI revogado pela [Lei n° 18.418 de 13/03/2026](https://www.al.sp.gov.br/norma/212344)._
 
-**VII -** 30% (trinta por cento) da compensação financeira devida ao Estado, por força do § 1° do Artigo 20 da Constituição Federal, pela exploração de recursos hídricos em seu território; e<br>
-**VIII -** transferência de recursos de outros fundos de financiamento destinados a programas e projetos previstos nesta lei.**<br>
+**VII -** 30% (trinta por cento) da compensação financeira devida ao Estado, por força do § 1° do Artigo 20 da Constituição Federal, pela exploração de recursos hídricos em seu território; e
+
+**VIII -** transferência de recursos de outros fundos de financiamento destinados a programas e projetos previstos nesta lei.**
+
 Parágrafo único -** O Governo do Estado, por meio da Secretaria de Agricultura e Abastecimento, consignará anualmente, em seu orçamento, os recursos destinados ao Fundo.
 
-**Artigo 3°** \- Os recursos do Fundo serão aplicados em financiamentos, subvenções e empréstimos, consoante diretrizes fixadas nos parágrafos deste artigo.<br>
-**§ 1° -** Destinam-se os financiamentos a:<br>
-**1)** operações ligadas a investimentos rurais e atividades de custeio rural, particularmente aos não atendidos pelo Sistema Nacional de Crédito Rural;<br>
-**2)** projetos especiais de desenvolvimento rural;<br>
-**3)** investimentos na infra-estrutura da produção, comercialização e industrialização de produtos agropecuários e pesqueiros;<br>
-**4)** aprimoramento da tecnologia aplicada à produção, padronização e classificação de produtos agropecuários e pesqueiros, objetivando sua comercialização interna e externa; e<br>
+**Artigo 3°** \- Os recursos do Fundo serão aplicados em financiamentos, subvenções e empréstimos, consoante diretrizes fixadas nos parágrafos deste artigo.
+
+**§ 1° -** Destinam-se os financiamentos a:
+
+**1)** operações ligadas a investimentos rurais e atividades de custeio rural, particularmente aos não atendidos pelo Sistema Nacional de Crédito Rural;
+
+**2)** projetos especiais de desenvolvimento rural;
+
+**3)** investimentos na infra-estrutura da produção, comercialização e industrialização de produtos agropecuários e pesqueiros;
+
+**4)** aprimoramento da tecnologia aplicada à produção, padronização e classificação de produtos agropecuários e pesqueiros, objetivando sua comercialização interna e externa; e
+
 **5)** programas de formação de recursos humanos e capacitação de mão-de-obra.
 
 ~~§ 2° - As subvenções econômicas destinam-se a produtores agropecuários, cooperativas rurais e pescadores artesanais, envolvidos em programas de interesse da economia estadual, financiados por instituições oficiais de crédito do Estado.~~
@@ -163,11 +176,16 @@ _\- § 1° acrescentado pela [Lei n° 18.447, de 28/04/2026](https://www.al.sp.g
 
 _\- § 2° acrescentado pela [Lei n° 18.447, de 28/04/2026](https://www.al.sp.gov.br/norma/212505)._
 
-**Artigo 4° -** A administração do Fundo será atribuída exclusivamente à instituição oficial de crédito do Estado, mediante convênio, no qual serão previstas como obrigações da instituição financeira:<br>
-**I -** assunção, em seu próprio nome, das obrigações perante terceiros, para débito a conta do Fundo;<br>
-**II -** contabilização dos recursos do Fundo em registros próprios, distintos de sua contabilidade geral;<br>
-**III -** análise e controle financeiro dos projetos atendidos; e<br>
-**IV -** aplicação, no mercado financeiro, de recursos transitoriamente disponíveis, a fim de preservá-los de desvalorização, sem prejuízo de sua utilização imediata, quando necessário, para atendimento dos objetivos do Fundo.**<br>
+**Artigo 4° -** A administração do Fundo será atribuída exclusivamente à instituição oficial de crédito do Estado, mediante convênio, no qual serão previstas como obrigações da instituição financeira:
+
+**I -** assunção, em seu próprio nome, das obrigações perante terceiros, para débito a conta do Fundo;
+
+**II -** contabilização dos recursos do Fundo em registros próprios, distintos de sua contabilidade geral;
+
+**III -** análise e controle financeiro dos projetos atendidos; e
+
+**IV -** aplicação, no mercado financeiro, de recursos transitoriamente disponíveis, a fim de preservá-los de desvalorização, sem prejuízo de sua utilização imediata, quando necessário, para atendimento dos objetivos do Fundo.**
+
 Parágrafo único -** No convênio será prevista remuneração pelos serviços de administração do Fundo.
 
 ~~**Artigo 5° -** Caberá à Secretaria de Agricultura e Abastecimento a análise e a fiscalização técnica dos projetos atendidos por recursos do Fundo.~~
@@ -192,16 +210,26 @@ _\- Inciso II acrescentado pela [Lei n° 18.447, de 28/04/2026](https://www.al.s
 
 _\- Inciso I com redação dada pela [Lei n° 14.149, de 21/06/2010](https://www.al.sp.gov.br/norma/159762)._
 
-**II -** fixar prazos para amortização e carência, bem como os encargos dos mutuários e multas por eventual inadimplemento contratual;<br>
-**III -** definir taxas de juros ou dispensar, previamente, sua exigência;<br>
-**IV -** indicar programas de interesse para a economia estadual, bem como projetos especiais de desenvolvimento rural, a serem submetidos ao Governador do Estado;<br>
-**V -** estabelecer normas para fiscalização da aplicação dos recursos pelos mutuários;<br>
-**VI -** acompanhar a aplicação dos recursos do Fundo, bem como sua execução orçamentária e financeira, cotejando-as com as respectivas provisões, e pronunciar-se, previamente, sobre suas eventuais alterações;<br>
-**VII -** examinar e aprovar, mensalmente, as contas referentes ao Fundo, por meio de balancetes, demonstrativos e/ou dados contabilizados, avaliando resultados e propondo medidas para correção de eventuais desequilíbrios;<br>
-**VIII -** acompanhar a execução da despesa do Fundo, à luz da programação financeira para financiamentos, subvenções, empréstimos e outros encargos, verificando sua adequação às disponibilidades e aos programas e projetos definidos no decreto a que se refere o parágrafo único do Artigo 1°;<br>
-**IX -** manifestar-se previamente sobre ajustes a serem celebrados com terceiros, tendo por objeto recursos do Fundo;<br>
-**X -** assistir o Secretário de Agricultura e Abastecimento nas matérias relacionadas com os objetivos do Fundo e a aplicação de seus recursos;<br>
-**XI -** diligenciar para que, até o 5° (quinto) dia útil do mês subseqüente, sejam encaminhados à Contadoria Geral do Estado os balancetes mensais de receita e despesa, demonstrativos e demais documentos pertinentes à gestão orçamentária-financeira-patrimonial do Fundo; e<br>
+**II -** fixar prazos para amortização e carência, bem como os encargos dos mutuários e multas por eventual inadimplemento contratual;
+
+**III -** definir taxas de juros ou dispensar, previamente, sua exigência;
+
+**IV -** indicar programas de interesse para a economia estadual, bem como projetos especiais de desenvolvimento rural, a serem submetidos ao Governador do Estado;
+
+**V -** estabelecer normas para fiscalização da aplicação dos recursos pelos mutuários;
+
+**VI -** acompanhar a aplicação dos recursos do Fundo, bem como sua execução orçamentária e financeira, cotejando-as com as respectivas provisões, e pronunciar-se, previamente, sobre suas eventuais alterações;
+
+**VII -** examinar e aprovar, mensalmente, as contas referentes ao Fundo, por meio de balancetes, demonstrativos e/ou dados contabilizados, avaliando resultados e propondo medidas para correção de eventuais desequilíbrios;
+
+**VIII -** acompanhar a execução da despesa do Fundo, à luz da programação financeira para financiamentos, subvenções, empréstimos e outros encargos, verificando sua adequação às disponibilidades e aos programas e projetos definidos no decreto a que se refere o parágrafo único do Artigo 1°;
+
+**IX -** manifestar-se previamente sobre ajustes a serem celebrados com terceiros, tendo por objeto recursos do Fundo;
+
+**X -** assistir o Secretário de Agricultura e Abastecimento nas matérias relacionadas com os objetivos do Fundo e a aplicação de seus recursos;
+
+**XI -** diligenciar para que, até o 5° (quinto) dia útil do mês subseqüente, sejam encaminhados à Contadoria Geral do Estado os balancetes mensais de receita e despesa, demonstrativos e demais documentos pertinentes à gestão orçamentária-financeira-patrimonial do Fundo; e
+
 **XII -** fixar limites globais e individuais de garantia de provimento de recursos pelo Fundo, verificadas as respectivas disponibilidades, bem como a prioridade na utilização dos recursos em face das respectivas subcontas; (NR)
 
 _\- Inciso XII acrescentado pela [Lei n° 10.521, de 29/03/2000](https://www.al.sp.gov.br/norma/4185)._
@@ -312,9 +340,12 @@ _~~\- Parágrafo único acrescentado pela [Lei n° 9.510, de 20/03/1997](https:/
 
 _\- Parágrafo único com redação dada pela [Lei n° 10.521, de 29/03/2000](https://www.al.sp.gov.br/norma/4185)._
 
-**Artigo 8° -** O mutuário do Fundo, na liquidação parcial ou total do débito, poderá optar por pagamento pelo critério de "eqüivalência em produto", alternativamente ao critério de atualização monetária.<br>
-**§ 1° -** A "eqüivalência em produto" será calculada mediante divisão do valor do empréstimo na data da contratação, pelo preço mínimo ou administrado dos produtos objeto da atividade principal do mutuário.<br>
-**§ 2° -** Na hipótese de os produtos não estarem sujeitos à política de preço mínimo ou administrado, a "eqüivalência" será calculada com base em preço de referência, conforme metodologia proposta pelo Instituto de Economia Agrícola, da Coordenadoria Sócio-Econômica, da Secretaria de Agricultura e Abastecimento, e aprovada pelo titular da Pasta.<br>
+**Artigo 8° -** O mutuário do Fundo, na liquidação parcial ou total do débito, poderá optar por pagamento pelo critério de "eqüivalência em produto", alternativamente ao critério de atualização monetária.
+
+**§ 1° -** A "eqüivalência em produto" será calculada mediante divisão do valor do empréstimo na data da contratação, pelo preço mínimo ou administrado dos produtos objeto da atividade principal do mutuário.
+
+**§ 2° -** Na hipótese de os produtos não estarem sujeitos à política de preço mínimo ou administrado, a "eqüivalência" será calculada com base em preço de referência, conforme metodologia proposta pelo Instituto de Economia Agrícola, da Coordenadoria Sócio-Econômica, da Secretaria de Agricultura e Abastecimento, e aprovada pelo titular da Pasta.
+
 **§ 3° -** A liquidação do débito pelo critério de "equivalência em produto" não excluirá o pagamento de juros e outros encargos, estabelecidos previamente pelo Conselho de Orientação do Fundo.
 
 ~~Artigo 9° - A subvenção econômica somente será concedida se preenchida as seguintes condições:~~
@@ -357,10 +388,14 @@ _\- Alínea "c" acrescentada pela [Lei n° 11.244, de 21/10/2002](https://www.al
 
 _\- Alínea "d" acrescentada pela [Lei n° 11.244, de 21/10/2002](https://www.al.sp.gov.br/norma/1077), em vigor a partir de 01/01/2002._
 
-~~II - termo de compromisso celebrado entre a Secretaria de Agricultura e Abastecimento e o mutuário, contendo:~~<br>
-~~a) dados sobre a atividade principal do mutuário, com identificação precisa dos produtos que servirão de base para cálculo do valor da subvenção;~~<br>
-~~b) condições de aplicação dos recursos e obrigatoriedade de observância das normas técnicas fixadas pela Secretaria de Agricultura e Abastecimento, para aumento da produção e da produtividade e para melhoria da qualidade do produto;~~<br>
-~~c) autorização para que a entidade administradora do Fundo e a Secretaria de Agricultura e Abastecimento possam fiscalizar a aplicação dos recursos;~~<br>
+~~II - termo de compromisso celebrado entre a Secretaria de Agricultura e Abastecimento e o mutuário, contendo:~~
+
+~~a) dados sobre a atividade principal do mutuário, com identificação precisa dos produtos que servirão de base para cálculo do valor da subvenção;~~
+
+~~b) condições de aplicação dos recursos e obrigatoriedade de observância das normas técnicas fixadas pela Secretaria de Agricultura e Abastecimento, para aumento da produção e da produtividade e para melhoria da qualidade do produto;~~
+
+~~c) autorização para que a entidade administradora do Fundo e a Secretaria de Agricultura e Abastecimento possam fiscalizar a aplicação dos recursos;~~
+
 ~~d) previsão de multa e de vencimento antecipado do débito, com perda da subvenção, por descumprimento das condições ou normas fixadas, bem como de obstáculos ao exame da aplicação dos recursos.~~
 
 **II -** no caso da subvenção do prêmio de seguro: (NR)
@@ -443,14 +478,16 @@ _\- Alínea "a" acrescentada pela [Lei n° 14.149, de 21/06/2010](https://www.al
 
 _\- Alínea "b" acrescentada pela [Lei n° 14.149, de 21/06/2010](https://www.al.sp.gov.br/norma/159762)._
 
-**Artigo 10 -** As subvenções econômicas concedidas pelo Fundo corresponderão:<br>
+**Artigo 10 -** As subvenções econômicas concedidas pelo Fundo corresponderão:
+
 ~~I - a diferença eventualmente existente entre o valor do financiamento contraído nas carteiras próprias de crédito ou à conta do Fundo, junto a instituições financeiras oficiais do Estado, atualizado monetariamente de acordo com as normas do Banco Central do Brasil, e o valor desses mesmos financiamentos calculado pelo critério de "equivalência em produto", na forma prevista no Artigo 8° desta lei, respeitados os limites fixados pelo Conselho de Orientação do Fundo;~~
 
 **I -** à diferença eventualmente existente entre o valor do financiamento contraído nas carteiras próprias de crédito ou à conta do Fundo, junto a instituições financeiras oficiais, atualizado monetariamente de acordo com as normas do Banco Central do Brasil e o valor desses mesmos financiamentos, calculado pelo critério de "equivalência em produto", na forma prevista no Artigo 8° desta lei, respeitados os limites fixados pelo Conselho de Orientação do Fundo; (NR)
 
 _\- Inciso I com redação dada pela [Lei n° 9.510, de 20/03/1997](https://www.al.sp.gov.br/norma/9376)._
 
-**II -** a 30% (trinta por cento) do valor da atualização monetária do financiamento para investimento, concedido diretamente pelo Fundo, na hipótese de o mutuário ser mini ou pequeno produtor, ou pescador artesanal e não ter sido escolhida a liquidação pelo critério estabelecido no inciso I deste artigo;<br>
+**II -** a 30% (trinta por cento) do valor da atualização monetária do financiamento para investimento, concedido diretamente pelo Fundo, na hipótese de o mutuário ser mini ou pequeno produtor, ou pescador artesanal e não ter sido escolhida a liquidação pelo critério estabelecido no inciso I deste artigo;
+
 **III -** a até 100% (cem por cento) do valor da atualização monetária do financiamento destinado à implantação de projetos especiais de desenvolvimento rural, concedido pelo Fundo diretamente a mini e pequenos produtores rurais e Pescadores artesanais, bem como suas associações, desde que não ocorra a opção pelo critério estabelecido no inciso I deste artigo;
 
 **IV -** à diferença entre os encargos financeiros aplicados pela instituição bancária e os fixados para o programa ou projeto pelo Conselho de Orientação do Fundo; (NR)
@@ -473,16 +510,28 @@ _\- Inciso VII acrescentado pela [Lei n° 14.149, de 21/06/2010](https://www.al.
 
 _\- Inciso VIII acrescentado pela [Lei n° 14.149, de 21/06/2010](https://www.al.sp.gov.br/norma/159762)._
 
-**Artigo 11 -** Ao funcionamento e a administração do Fundo, aplicam-se, no que couber, as normas do [Decreto-lei Complementar n. 16, de 2 de abril de 1970](https://www.al.sp.gov.br/norma/47812), e do [Decreto-lei Complementar n. 18, de 17 de abril de 1970](https://www.al.sp.gov.br/norma/47816).**<br>
-Artigo 12 -** Esta lei entrará em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 16 de julho de 1992<br>
-LUIZ ANTONIO FLEURY FILHO<br>
-Frederico Mathias Mazzucchelli<br>
-Secretário da Fazenda<br>
-José Antonio Barros Munhoz<br>
-Secretário de Agricultura e Abastecimento<br>
-Eduardo Maia de Castro Ferraz<br>
-Secretário de Planejamento e Gestão<br>
-Cláudio Ferraz de Alvarenga<br>
-Secretário do Governo<br>
+**Artigo 11 -** Ao funcionamento e a administração do Fundo, aplicam-se, no que couber, as normas do [Decreto-lei Complementar n. 16, de 2 de abril de 1970](https://www.al.sp.gov.br/norma/47812), e do [Decreto-lei Complementar n. 18, de 17 de abril de 1970](https://www.al.sp.gov.br/norma/47816).**
+
+Artigo 12 -** Esta lei entrará em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 16 de julho de 1992
+
+LUIZ ANTONIO FLEURY FILHO
+
+Frederico Mathias Mazzucchelli
+
+Secretário da Fazenda
+
+José Antonio Barros Munhoz
+
+Secretário de Agricultura e Abastecimento
+
+Eduardo Maia de Castro Ferraz
+
+Secretário de Planejamento e Gestão
+
+Cláudio Ferraz de Alvarenga
+
+Secretário do Governo
+
 Publicada na Assessoria Técnico-Legislativa, aos 16 de julho de 1992.

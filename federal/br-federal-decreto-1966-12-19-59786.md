@@ -1,5 +1,3 @@
-###DEC-059786-0-000-19-12-1966@@@
-
 DECRETO Nº 59.786, DE 19 DE DEZEMBRO DE 1966.
 
 Autoriza Itapetinga Agro Industrial S.A. pesquisar calcário, argila e scheelita no município de Lages, Estado do Rio Grande do Norte.

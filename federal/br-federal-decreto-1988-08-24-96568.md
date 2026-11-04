@@ -1,5 +1,3 @@
-###DEC-096568-0-000-24-08-1988@@@
-
 DECRETO N° 96.568, de 24 DE AGOSTO DE 1988
 
 Renova a concessão outorgada à SOCIEDADE RÁDIO DIFUSORA ALEGRETENSE LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Alegrete, Estado do Rio Grande do Sul.

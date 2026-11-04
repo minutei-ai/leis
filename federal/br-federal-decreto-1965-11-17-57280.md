@@ -1,5 +1,3 @@
-###DEC-057280-0-000-17-11-1965@@@
-
 DECRETO Nº 57.280, DE 17 DE NOVEMBRO DE 1965.
 
 Reformula atribuições e vinculação de órgãos do Ministério da Educação e Cultura.

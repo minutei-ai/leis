@@ -1,5 +1,3 @@
-###DEC-058274-0-000-28-04-1966@@@
-
 DECRETO Nº 58.274, DE 28 DE ABRIL DE 1966.
 
 Autoriza a Indústria e Comércio de Mineração Brasil Central “Incomibrac” S.A. a pesquisar minério de cromo no município de Corominia Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-053084-0-000-05-12-1963@@@
-
 DECRETO Nº 53.084, DE 5 DE DEZEMBRO DE 1963.
 
 Organiza as Delegacias Regionais do Ministério da Justiça e Negócios Interiores (DRMJ) nos Estados e Territórios.

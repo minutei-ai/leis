@@ -1,5 +1,3 @@
-###DEC-074306-0-000-22-07-1974@@@
-
 DECRETO Nº 74.306 - DE 22 DE JULHO DE 1974.
 
 Altera dispositivos dos Regimentos dos Gabinetes Militar e Civil da Presidência da República.

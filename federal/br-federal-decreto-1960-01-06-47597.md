@@ -1,5 +1,3 @@
-###DEC-047597-0-000-06-01-1960@@@
-
 DECRETO nº 47.597, DE 06 DE JANEIRO DE 1960.
 
 Autoriza o cidadão brasileiro Isidoro Dequech a pesquisar carvão mineral no município de Orleães, Estado de Santa Catarina.

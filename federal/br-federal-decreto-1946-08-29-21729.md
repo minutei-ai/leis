@@ -1,14 +1,12 @@
-###DEC-021729-0-000-29-08-1946@@@
+**DECRETO N° 21.729, DE 29 DE AGÔSTO DE 1946**
 
-<strong>DECRETO N° 21.729, DE 29 DE AGÔSTO DE 1946</strong>
+***Dá nova redação à Seção VI do capitulo III do Regimento do D. N. P. A., aprovado pelo Decreto Número 20.504, de 24 de janeiro de 1946.***
 
-<em><strong>Dá nova redação à Seção VI do capitulo III do Regimento do D. N. P. A., aprovado pelo Decreto Número 20.504, de 24 de janeiro de 1946.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição e nos termos do art. 1.º de 14 de abril de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição e nos termos do art. 1.º de 14 de abril de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1.° A Seção VI - Do I.Z., do Capítulo III do Regimento do D. N. P. A., aprovado pelo Decreto número 20.504, de 24 de janeiro de 1946, passa a ter a seguinte redação:
+**Art**. 1.° A Seção VI - Do I.Z., do Capítulo III do Regimento do D. N. P. A., aprovado pelo Decreto número 20.504, de 24 de janeiro de 1946, passa a ter a seguinte redação:
 
 ‘’Art. 84. Ao I. Z. incumbe:
 
@@ -130,7 +128,7 @@ Art. 92 - À T. A. compete promover as medidas necessárias à administração d
 
 a) receber, registrar distribuir, expedir e guardar a correspondência oficial e papéis relativos às atividades do I. Z.;
 
-b) promover a publicação no <em>Diário Oficial</em>, dos atos e decisões relativos ao I. Z., através da S. A.;
+b) promover a publicação no *Diário Oficial*, dos atos e decisões relativos ao I. Z., através da S. A.;
 
 c) manter um registro de servidores em exercício no I. Z.;
 
@@ -152,10 +150,10 @@ l) Zelar pela limpeza e conservação dos móveis e dependências do I .Z.
 
 Parágrafo único - A T. A. deverá funcionar perfeitamente articulada com a S. A. do D. N. P. A., observando as normas e métodos de trabalho prescrito pela mesma.’’
 
-<strong>Art</strong>. 2.° O presente Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2.° O presente Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 29 de agôsto de 1946; 125º da Independência e 58.º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Netto Campelo Júnior

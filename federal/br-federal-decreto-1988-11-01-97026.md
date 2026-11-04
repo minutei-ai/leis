@@ -1,5 +1,3 @@
-###DEC-097026-0-000-01-11-1988@@@
-
 DECRETO N° 97.026, DE 1° DE NOVEMBRO DE 1988
 
 Aprova o Regulamento Geral dos Serviços de Praticagem.

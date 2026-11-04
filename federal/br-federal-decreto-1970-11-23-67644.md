@@ -1,5 +1,3 @@
-###DEC-067644-0-000-23-11-1970@@@
-
 DECRETO Nº 67.644, DE 23 DE NOVEMBRO DE 1970.
 
 Aprova o Regulamento para a execução do Decreto-lei nº 1.129, de 13 de outubro de 1970.

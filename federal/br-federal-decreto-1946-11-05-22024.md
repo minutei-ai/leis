@@ -1,30 +1,28 @@
-###DEC-022024-0-000-05-11-1946@@@
+**DECRETO N. 22.024 – DE 5 DE NOVEMBRO DE 1946**
 
-<strong>DECRETO N. 22.024 – DE 5 DE NOVEMBRO DE 1946</strong>
-
-<em><strong>Promulga a Convenção que cria uma Organização Educativa, Científica e Cultural das Nações Unidas, firmada em Londres, a 16 de Novembro de 1945.</strong></em>
+***Promulga a Convenção que cria uma Organização Educativa, Científica e Cultural das Nações Unidas, firmada em Londres, a 16 de Novembro de 1945.***
 
 O Presidente da República, considerando que foi aprovada, a 24 de maio de 1946, e ratificada a 10 de setembro de 1946, pelo Govêrno brasileiro, a Convenção que cria uma Organização Educativa, Científica e Cultural das Nações Unidas, firmada em Londres, a 16 de novembro de 1945; Considerando que o referido instrumento de ratificação foi depositado nos arquivos do Govêrno da Grã-Bretanha a 14 de outubro de 1946; usando da atribuição que lhe confere o artigo 87 – I – da Constituição Federal,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art.</strong> 1º Fica promulgada a Convenção que cria uma Organização Educativa, Científica e Cultura das Nações Unidas, apensa por cópia ao presente decreto, firmada pelo Brasil, em Londres, a 16 de novembro de 1945:
+**Art.** 1º Fica promulgada a Convenção que cria uma Organização Educativa, Científica e Cultura das Nações Unidas, apensa por cópia ao presente decreto, firmada pelo Brasil, em Londres, a 16 de novembro de 1945:
 
-<strong>Art.</strong> 2º Êste decreto entrará em vigor na data de sua publicação.
+**Art.** 2º Êste decreto entrará em vigor na data de sua publicação.
 
 Rio de Janeiro, em 5 de novembro de 1946, 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 S. de Souza Leão Gracie.
 
 Eurico Gaspar Dutra
 
-<h1 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>PRESIDENTE DA REPÚBLICA DOS ESTADOS UNIDOS DO BRASIL</strong></span></span></h1>
+# **PRESIDENTE DA REPÚBLICA DOS ESTADOS UNIDOS DO BRASIL**
 
 Faço saber, aos que a presente Carta de ratificação virem, que, por ocasião da Conferência encarregada de criar uma Organização Educativa, Científica e Cultural das Nações Unidas, realizada em Londres, em 1945, foi celebrada uma Convenção que cria uma Organização Educativa, Científica e Cultural das Nações Unidas, firmada pelo Brasil, em Londres, a 16 de novembro de 1945, e do teor seguinte:
 
-<em>CONSTITUTION OF THE UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL</em> ORGANISATION
+*CONSTITUTION OF THE UNITED NATIONS EDUCATIONAL, SCIENTIFIC AND CULTURAL* ORGANISATION
 
 The Governments of the States parties to this Constitution on behalf of their peoples
 
@@ -40,17 +38,17 @@ that the wide diffusion of culture, and the education of humanity for justice an
 
 that a peace based exclusively upon the political and economic arrangements of governments would not be a peace which could secure the unanimous, lasting and sincere support of the peoples of the world, and that the peace must therefore be founded, if it is not fail, upon the intellectual and moral solidarity of mankind.
 
-<h2 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><em>FOR THESE REASONS</em></span></span></h2>
+## *FOR THESE REASONS*
 
 the States parties to this Constitution, believing in full and equal opportunities for education for all, in the unrestricted pursuit of objective truth, and in the free exchange of ideas and knowledge, are agreed and determined to develop and to increase the means of comunication between their peoples and to employ these means for the purposes of mutual understanding and a truer and more perfect knowledge of each other's lives;
 
-<h2 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><em>IN CONSEQUENCE WHEREOF</em></span></span></h2>
+## *IN CONSEQUENCE WHEREOF*
 
 theu do hereby create the United Nations Educational, Scientific and Cultural Organisation for the purpose of advancing, through the educational and scientific and cultural relations of peoples of the world, the objectives of internacional peace and -of the common welfare of mankind for which the United Nations Organisation was established and which its Charter proclaims.
 
-<strong>ARTICLE I</strong>
+**ARTICLE I**
 
-<em>PURPOSES AND FUNCTIONS</em>
+*PURPOSES AND FUNCTIONS*
 
 1\. The purpose of the Organisation is to contribute to peace and security by promoting collaboration among the nations through education, science and culture in order to further universal respect for justice, for the rule of law and for the human rights and fundamental freedoms which are affirmed for the peoples of the world, without ditinction of race, sex, language or religion, by the Charter of the United Nations.
 
@@ -76,9 +74,9 @@ by initiating methods of international cooperation calculated to give the people
 
 3\. With a view to preserving the independence, integrity and fruitful diversity of the cultures and educational systems of the States Members of this Organisation, the Organisation is prohibited from intervening in matters which are essentially within their domestic jurisdiction.
 
-<strong>ARTICLE II</strong>
+**ARTICLE II**
 
-<em>MEMBERSHIP</em>
+*MEMBERSHIP*
 
 1\. Membership of the United Nations Organisation shall carry with it the right to membeship of the United Nations Educational, Scientific and Cultural Organisation.
 
@@ -88,15 +86,15 @@ by initiating methods of international cooperation calculated to give the people
 
 4\. Members of the Organisation which are expelled from the United Nations Organisation shall automatically cease to be members of this Organisation.
 
-<strong>ARTICLE</strong>  <strong>III</strong>
+**ARTICLE**  **III**
 
-<em>ORGANS</em>
+*ORGANS*
 
 The Organisation shall include a General Conference, an Executive Board and a Secretariat.
 
-<strong>ARTICLE IV</strong>
+**ARTICLE IV**
 
-<em>THE GENERAL CONFERENCE</em>
+*THE GENERAL CONFERENCE*
 
 A. Composition
 
@@ -134,9 +132,9 @@ E. Observers
 
 13\. The General Conference, on the recommendation of the Executive Board and by a two-thirds majority may, subject to its rules of procedure, invite as observers at specified sessions of the Conference or of its commissions representatives of international organisations, such as those referred to in Article XI, paragraph 4.
 
-<strong>ARTICLE V</strong>
+**ARTICLE V**
 
-<em>EXECUTIVE BOARD</em>
+*EXECUTIVE BOARD*
 
 1\. The Executive Board shall consist of eighteen members elected py the General Conference from among the delegates appointed by the Member States, together with the President of the Conference who shall sit ex-officio in an advisory capacity.
 
@@ -162,9 +160,9 @@ B. Functions
 
 11\. The members of the Executive Board shall exercise the powers delegated to them by the General Conference on behalf of the Conference as a whole and not as representatives of their respective  Governments.
 
-<strong>ARTICLE VI</strong>
+**ARTICLE VI**
 
-<em>SECRETARIAT</em>
+*SECRETARIAT*
 
 1\. The Secretariat shall consist of a Director-General and such staff as may be required.
 
@@ -178,9 +176,9 @@ B. Functions
 
 6\. Nothing im this Article shall preclude the Organization from enter ing into special arrangements within the United Nations Organisation form common services and staff and for the interchange of personnel.
 
-<strong>ARTICLE VII</strong>
+**ARTICLE VII**
 
-<em>NATIONAL CO-OPERATING BODlES</em>
+*NATIONAL CO-OPERATING BODlES*
 
 1\. Each Member State shall make such arrangements as suit its particular conditions for the purpose associating its principal bodies interested in educationaÌ, scientifi and cultural matters with the work of the Organisation, preferably by the formation of a National Commission broadly representative of the Government and such bodies.
 
@@ -188,15 +186,15 @@ B. Functions
 
 3\. The Organisatio may, on the request of a Member State, delegate, either temporariIy or permanently, a member of its Secretariat to serve on the National Commission of that State, in order to assist in the development of its work.
 
-<strong>ARTICLE VIII</strong>
+**ARTICLE VIII**
 
-<em>REPORTS BY MEMBER STATES</em>
+*REPORTS BY MEMBER STATES*
 
 Each Member Sate shall report periodically to the Organisation, in a manner to be determined by the General Conference, on its laws, regulations and statistics relating to educational, scientific and cultural life and institutions, and on the action taken upon the recommendations and conventions refered to in Articie IV, paragraph 4.
 
-<strong>ARTICLE IX</strong>
+**ARTICLE IX**
 
-<em>PUDGET</em>
+*PUDGET*
 
 1\. The budget shall be administered by the Organisation.
 
@@ -204,15 +202,15 @@ Each Member Sate shall report periodically to the Organisation, in a manner to b
 
 3\. The Director-General, with the approval of the Executive Board, may receive gifts, bequests, and subventions directly from governments, public and private institutions, associations and privat persons.
 
-<strong>ARTICLE X</strong>
+**ARTICLE X**
 
-<em>RELATIONS WITH THE UNITED NATIONS ORGANISATIOM</em>
+*RELATIONS WITH THE UNITED NATIONS ORGANISATIOM*
 
 This oganisation shall be brought into relation with the United Nations Oganisation, as soon as practicable, as one of the specialised agencies referred to in Article 57 of the Charter of the United Nations. This relationship shall be effected through an agrement with the United Nations Organisation under Article 63 of the Charter, which agreernent shall be subject to the approval of the General Conference of this Organisation. The agreement shall provide for effective co-operation between the two Organisations in the pursuit of their common purposes, and at the same time shall recognise the autonomy of this Organisation, within the fields of its competence as defined in this Constitution. Such agreement may, among other rnatters, provide for the approval and financing of the budget of the Organisation by the General Assmbly of the United Nations.
 
-<strong>ARTICLE XI</strong>
+**ARTICLE XI**
 
-<em>RELATIONS WITH OTHER SPECIALISED INTERNATIONAL ORGANISATIONS AND AGECIES</em>
+*RELATIONS WITH OTHER SPECIALISED INTERNATIONAL ORGANISATIONS AND AGECIES*
 
 1\. This Organisation may co-operate with other specialised inter-go-vernmental organisations and agencies whose interests and activities are related to its purposes. To this end the Director-General, acting under the general authority of the Executive Board, may establish effective working relationships with such organisations and agencies and establish such joint committees as may be necessary to assure effective co-operation. Any formal arrangements entered into with such organisations or agencies shall be sufject to the approval of the Executive Board.
 
@@ -222,31 +220,31 @@ This oganisation shall be brought into relation with the United Nations Oganisat
 
 4\. The United Nations Educational, Scentific and Cultural Organisation may make suitable arrangements for consultation and co-operation with non-governmental international organisations concernes with matters within its competence, and may invite the to undertake specific tasks. Such co-operation may also include appropriate participation by representarives of such organisations on advisory committees set up by the General Conference.
 
-<strong>ARTICLE XII</strong>
+**ARTICLE XII**
 
-<em>LEGAL STATUS OF THE ORGANISATION</em>
+*LEGAL STATUS OF THE ORGANISATION*
 
 The provisions of Articles 104 and 105 of the Charter of the United Nations Organisation concerning the legal status of that Organisation, its privileges and immunities shall apply in the same way to this Organisation.
 
-<strong>ARTICLE XIII</strong>
+**ARTICLE XIII**
 
-<em>AMENDMENTS</em>
+*AMENDMENTS*
 
 1\. Proposals for amendments to this Constitution shall become effective receiving the approval of the General Conference by a two-thirds majority; provided, however, that those amendments which involve fundamental alterations in the aims of the organisation or new obligation for the Member States shall require subsequent acceptance on the part of twothirds of the Member States before they come into force. The draft texts of proposed amendments shall be communicated by the Director-General to the Member States at least six months in advance of their consideration by the General Conference.
 
 2\. The General Conference shall have power to adopt by a two-thirds majority rules of procedure for carryng out the provisions of this Articles.
 
-<strong>ARTICLE XIV</strong>
+**ARTICLE XIV**
 
-<em>IINTERPRETATION</em>
+*IINTERPRETATION*
 
 1\. The English and French texts of this Constitution shall be regarded as equally authoritative.
 
 2\. Any question or dspute concerning the interpretation of this Constitution shall be referred for determination to the International Court of Justice or to an arbitral tribunal, as the General Conference may determine under its rules of procedure.
 
-<strong>ARTICLE XV</strong>
+**ARTICLE XV**
 
-<em>ENTRY INTO FORCE</em>
+*ENTRY INTO FORCE*
 
 1\. This Constitution shall be subject to acceptance. The instruments of acceptance shall be deposited with the Government of the United King-dom.
 
@@ -442,13 +440,13 @@ Em firmeza do que, mandei passar esta Carta que assino e é selada com o sêlo d
 
 Dada no Palácio da Presidência, no Rio de Janeiro, aos dez dias do mês de setembro de mil novecentos e quarenta e seis, 125º da Independência e 58º da República.
 
-<strong>EURICO GASPAR DUTRA.</strong>
+**EURICO GASPAR DUTRA.**
 
 Samuel de S. Leão Gracie.
 
-<h1 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>TRADUÇÃO</strong></span></span></h1>
+# **TRADUÇÃO**
 
-<h2 style="margin-top:12pt; font-size:1.2em;font-weight:normal;font-style:normal"><span style="font-style:normal"><span>CONVENÇÃO QUE CRIA UMA ORGANIZAÇÃO EDUCATIVA, CIENTÍFICA E CULTURAL DAS NAÇÕES UNIDAS.</span></span></h2>
+## CONVENÇÃO QUE CRIA UMA ORGANIZAÇÃO EDUCATIVA, CIENTÍFICA E CULTURAL DAS NAÇÕES UNIDAS.
 
 Os Governos dos Estados partes na presente convenção em nome de seus povos declaram:
 
@@ -460,17 +458,17 @@ que a difusão da cultura, a educação da humanidade para, a justiça, a liberd
 
 que a paz baseada exclusivamente em acôrdos políticos e econômicos entre governos não seria uma paz que asseguraria um apoio unâmime, duradouro e sincero dos povos e que, porto, para ser eficaz deve ser baseada na solidariedade intelectual e moral da humanidade.
 
-<h5 style="margin-top:6pt;font-weight:normal;font-style:normal"><span style="font-size:1.2em"><span><em>Por estas razões</em></span></span></h5>
+##### *Por estas razões*
 
 os Estados parte nesta Convenção, acreditando em oportunidades de educação completa e igual para todos, na livre procura da verdade objetiva, no livre intercâmbio de idéias e de conhecimentos, decidem desenvolver e aumentar as relações entre os povos e empregar êsses meios para uma mútua compreensão e um conhecimento mais preciso e mais verdadeiro dos seus costumes;
 
-<h5 style="margin-top:6pt;font-weight:normal;font-style:normal"><span style="font-size:1.2em"><span><em>Portanto</em></span></span></h5>
+##### *Portanto*
 
 os Estados signatários desta Convenção criam a Organização Educativa, Científica e Cultural das Nações Unidas a fim de atingir gradativamente, pela cooperação dos povos nos domínios da educação, ciência e cultura, a paz internacional e a prosperidade comum da humanidade para cujo fim a Organização das Nações Unidas foi constituída, como a sua Carta o proclama.
 
-<strong>ARTIGO I</strong>
+**ARTIGO I**
 
-<em>FINALIDADE E ATRIBUIÇÕES</em>
+*FINALIDADE E ATRIBUIÇÕES*
 
 E’ propósito da Organização contribuir para a paz e segurança, promovendo a colaboração entre as nações pela educação, ciência e cultura, a fim de assegurar o respeito universal pelo predomínio do direito e da justiça, dos direitos humanos e das liberdades fundamentais do homem garantidas a todos os povos sem distinção de raça, sexo, lingua ou religião pela Carta das Nações Unidas.
 
@@ -494,9 +492,9 @@ Facilitando, por métodos de cooperação internacional apropriados o acesso de 
 
 3\. Desejando preservar a independência, a integridade e a fecunda diversidade de suas culturas e de seus sistemas de educação aos Estados Membros da presente Organização, a Organização não intervirá em qualquer matéria essencialmente relativa à jurisdição interna de cada Estado.
 
-<strong>ARTIGO II</strong>
+**ARTIGO II**
 
-<em>MEMBROS</em>
+*MEMBROS*
 
 1\. Os Estados Membros da Organização das Nações Unidas terão o direito de fazer parte da Organização Educativa, Cienitífica e Cultural das Nações Unidas.
 
@@ -506,13 +504,13 @@ Facilitando, por métodos de cooperação internacional apropriados o acesso de 
 
 4\. Os Estados Membros da Organização perdem ipso fact esta qualidade quando excluídos da Organização das Nações Unidas.
 
-<strong>ARTIGO III</strong>
+**ARTIGO III**
 
-<em>ÓRGÃOS</em>
+*ÓRGÃOS*
 
 A Organização compor-se-á de uma Conferência Geral, um Conselho Executivo e um Secretariado.
 
-<strong>ARTIGO IV</strong>
+**ARTIGO IV**
 
 A. – Composição
 
@@ -550,9 +548,9 @@ E. – Observadores
 
 18\. A Conferência Geral, sob recomendação do Conselho Executivo e por uma maioria de dois terços, e de acôrdo com o regulamento interno, poderá convidar como observadores a determinadas sessões da Conferência ou de suas Comissões, representantes de organizações internacionais tais como os mencionados no artigo XI parágrafo 4.
 
-<strong>ARTIGO V</strong>
+**ARTIGO V**
 
-<em>CONSELHO EXECUTIVO</em>
+*CONSELHO EXECUTIVO*
 
 A. – Composição
 
@@ -580,9 +578,9 @@ B. – Atribuições
 
 11\. Os membros do Conselho Executivo exercerão os poderes a êle delegados pela Conferência Geral, em nome da Conferência e não como representantes dos seus respectivos governos.
 
-<strong>ARTIGO VI</strong>
+**ARTIGO VI**
 
-<em>SECRETARIADO</em>
+*SECRETARIADO*
 
 1\. O Secretariado será constituído de um Diretor Geral e do pessoal nesessário.
 
@@ -596,37 +594,37 @@ B. – Atribuições
 
 6\. Nenhuma das disposições dêste artigo impedirá a Organização de entrar em acôrdo com a Organização das Nações Unidas para estabelecer serviços comuns, recrutamento e troca de pessoal.
 
-<strong>ARTIGO VII</strong>
+**ARTIGO VII**
 
-<em>COMITÉS NACIONAIS DE COOPERAÇÃO</em>
+*COMITÉS NACIONAIS DE COOPERAÇÃO*
 
 1\. Cada Estado Membro tomará as disposições apropriadas à sua situação particular a fim de associar aos trabalhos da Organização os principais grupos nacionais que se interessam pelos; problemas da, educação, da pesquisa científica e cultural, constituindo preferência uma Comissão nacional onde estarão representados o Govêrno e aquêles deferentes grupos.
 
 2\. As Comissões Nacionais ou os Organismos Nacionais da Cooperação atuarão, onde existirem, com capacidade consultiva para as respectivas delegações junto à Conferência Geral e seus Governos em assuntos relativo à Organização. Funcionarão como agentes de ligação em todos os assuntos que a ela se referirem. A Organização poderá, a pedido de um Estado Membro, delegar, temporária ou permanentemente, um membro do seu Secretariado para servir na Comissão Nacional daquele Estado, a fim de auxiliar o desenvolvimento do seu trabalho.
 
-<strong>ARTIGO VIII</strong>
+**ARTIGO VIII**
 
-<em>RELATÓRIOS DOS ESTADOS MEMBROS</em>
+*RELATÓRIOS DOS ESTADOS MEMBROS*
 
 Cada Estado Membro fará, periòdicamente um relatório à Organização, de forma a ser determinada pela Conferência Geral, sôbre as leis, regulamentos e estatísticas relativas as suas instituições e a sua atividade no campo educativo, científico e cultural, assim como à execução dada às recomendações e convenções previstas no artigo IV, parágrafo 4.
 
-<strong>ARTIGO IX</strong>
+**ARTIGO IX**
 
-<em>ORÇAMENTO</em>
+*ORÇAMENTO*
 
 1.O orçamento será elaborado pela Oganização.
 
 2\. A Conferência Geral aprovará definitivamente o orçamento e fixará a participação financeira de cada um dos Estados Membros, de acôrdo com as disposições a serem previstas nesta matéria pela Convenção concluída com a Organização das Nações Unidas, conforme o Artigo X da presente Convenção.
 
-<strong>ARTIGO X</strong>
+**ARTIGO X**
 
-<em>RELAÇÕES COM A ORGANIZAÇÃO DAS NAÇÕES UNIDAS</em>
+*RELAÇÕES COM A ORGANIZAÇÃO DAS NAÇÕES UNIDAS*
 
 A Organização ficará ligada, assim que fôr possível, à Organização das Nações Unidas como uma das instituições especializadas mencionadas no artigo 57 da Carta das Nações Unidas. Estas relações serão objeto de um acôrdo com a Organização das Nações Unidas conforme as disposições do artigo 63 da Carta. Êste acôrdo será submetido, para aprovação, à Conferência Geral desta Organização. O acôrdo proporcionará os meios de estabelecer uma cooperação eficiente entre as duas Organizações visando a realização dos fins comuns, e, ao mesmo tempo, reconhecerá a autonomia desta Organização dentro de sua competência, de acôrdo com o que ficou estabelecido na presente Convenção. Êste acôrdo poderá contar, entre outras, disposições relativas à aprovação do orçamento e ao financiamento da Organização pela Assembléia Geral das Nações Unidas.
 
-<strong>ARTIGO XI</strong>
+**ARTIGO XI**
 
-<em>RELAÇÕES COM OUTRAS ORGANIZACÕES E ISNTITUIÇÕES INTERNACIONAIS ESPECIALIZADAS</em>
+*RELAÇÕES COM OUTRAS ORGANIZACÕES E ISNTITUIÇÕES INTERNACIONAIS ESPECIALIZADAS*
 
 1\. A organização poderá cooperar com outras organizações e instituições inter-governamentais especializadas cujos encargos e atividades estejam em harmonia com os seus. Com êsse fim, poderá o Diretor Geral, sob a alta autoridade do Conselho Executivo, estabelecer relações eficientes com essas organizações e instituições e constituir comissões mistas, julgadas necessárias para assegurar uma, cooperação eficaz. Todo acôrdo com essas organizações ou instituições especializadas será submetido à aprovação do Conselho Executivo.
 
@@ -636,31 +634,31 @@ A Organização ficará ligada, assim que fôr possível, à Organização das N
 
 4\. A Organização Educativa, Científica e Cultural das Nações Unidas poderá tomar tôdas as disposições que julgar úteis para facilitar as consultas e assegurar a cooperação com as organizações internacionais privadas que se ocupam de questões que estejam ao seu âmbito. Poderá conividá-las empreender determinadas tarefas que sejam de sua competência. Esta cooperação poderá compreender igualmente uma participação apropriada de representantes daquelas organizações em Comités consultivos estabelecidos pela Conferência Geral.
 
-<strong>ARTIGO XII</strong>
+**ARTIGO XII**
 
-<em>ESTATUTO JURÍDICO DA ORGANIZAÇÃO</em>
+*ESTATUTO JURÍDICO DA ORGANIZAÇÃO*
 
 As disposições dos artigos 104 e 105 da Carta das Nações Unidas relativas ao estatuto jurídico daquela Organização, seus privilégios e imunidades aplicar-se-ão, da mesma maneira, a esta Organização.
 
-<strong>ARTIGO XIII</strong>
+**ARTIGO XIII**
 
-<em>EMENDAS</em>
+*EMENDAS*
 
 As propostas de emendas a esta Convenção entrarão em vigor após a sua aprovação pela Conferência Geral por maioria de dois terços; todavia, as emendas que envolverem alterações fundamentais nos abjetivos da Organização ou novas obrigações para os Estados Membros deverão ser aceitas por dois terços dos Estados Membros antes de entrar em vigor. O texto dos projetos de emenda será comunicado pelo Diretor Geral dos Estados Membros pelo menos seis meses antes de serem submetidos à Conferência Geral.
 
 2\. A Conferência Geral terá, poder para adotar, com maioria de dois terços, um regimento para executar as disposições dêste artigo.
 
-<strong>ARTIGO XIV</strong>
+**ARTIGO XIV**
 
-<em>INTERPRETAÇÃO</em>
+*INTERPRETAÇÃO*
 
 1\. Os textos em inglvês e francês desta Convenção fazem igualmente fé,
 
 2\. Qualquer questão ou disputa relativa à interpretação desta Convenção deverá ser submetida à Côrte Internacional de Justiça ou a um tribunal arbitral, de acôrdo com a determinação da Conferência Geral e de conformidade com seu regimento interno.
 
-<strong>ARTIGO XV</strong>
+**ARTIGO XV**
 
-<em>ENTRADA EM VIGOR</em>
+*ENTRADA EM VIGOR*
 
 1\. A presente Convenção será submetida a aceitação, cujos instrumentos serão depositados junto ao Govêrno do Reino Unido.
 

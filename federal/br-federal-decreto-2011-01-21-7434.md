@@ -1,5 +1,3 @@
-###DEC-007434-0-000-21-01-2011-PUB-01@@@
-
 DECRETO Nº 7.434, DE 21 DE JANEIRO DE 2011
 
 Altera o Anexo I do Decreto nº 6.061, de 15 de março de 2007, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério da Justiça, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-063914-0-000-26-12-1968@@@
-
 DECRETO Nº 63.914, DE 26 DE DEZEMBRO DE 1968.
 
 Provê sôbre o Programa de Expansão e Melhoria do Ensino Médio (PREMEM) e dá outras providências.

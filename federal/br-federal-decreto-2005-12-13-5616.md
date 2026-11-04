@@ -1,5 +1,3 @@
-###DEC-005616-0-000-13-12-2005@@@
-
 DECRETO Nº 5.616, DE 13 DE DEZEMBRO DE 2005.
 
 Regulamenta a Gratificação de Desempenho de Atividade de Recursos Minerais - GDARM e a Gratificação de Desempenho de Atividades de Produção Mineral - GDAPM de que trata a Lei no 11.046, de 27 de dezembro de 2004.

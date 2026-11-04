@@ -1,5 +1,3 @@
-###DEC-056502-0-000-24-06-1965@@@
-
 DECRETO Nº 56.502, DE 24 DE JUNHO DE 1965.
 
 Dispõe sôbre o horário de trabalho para o pessoal da Polícia Portuária da Administração do Pôrto do Rio de Janeiro (APRJ).
@@ -23,8 +21,6 @@ Brasília, 24 de junho de 1965; 144º da Independência e 77º da República.
 H. Castello Branco
 
 Juarez Távora
-
-###DEC-056502-0-000-24-06-1965@@@RET01+++
 
 DECRETO Nº 56.502, DE 24 DE JUNHO DE 1965.
 

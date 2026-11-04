@@ -1,5 +1,3 @@
-###DEC-053487-0-000-24-01-1964@@@
-
 Decreto nº 53.487, de 24 de janeiro de 1964.
 
 Considera de interêsse militar o Curso do Instituto Tecnológico de Aeronáutica.

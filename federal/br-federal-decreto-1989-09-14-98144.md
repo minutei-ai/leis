@@ -1,7 +1,3 @@
-1
-
-###DEC-098144-0-000-14-09-1989@@@
-
 DECRETO Nº 98.144, DE 14 DE SETEMBRO DE 1989
 
 Homologa a demarcação administrativa da área indígena que menciona, no município de Barra do Bugres, Estado de Mato Grosso, e dá outras providencias.

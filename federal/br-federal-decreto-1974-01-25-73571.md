@@ -1,5 +1,3 @@
-###DEC-073571-0-000-25-01-1974@@@
-
 Decreto nº 73.571, de 25 de janeiro de 1974.
 
 Torna sem efeito aproveitamento de disponível no Quadro de Pessoal do IPASE e dá outras providências.

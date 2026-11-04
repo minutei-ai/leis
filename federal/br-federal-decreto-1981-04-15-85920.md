@@ -1,5 +1,3 @@
-###DEC-085920-0-000-15-04-1981@@@
-
 Decreto nº 85.920, de 15 de abril de 1981
 
 Autoriza o aumento do Capital Social da Companhia Vale do Rio Doce - CVRD.

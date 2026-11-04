@@ -1,5 +1,3 @@
-###DEL-005642-0-000-02-07-1943@@@
-
 DECRETO-LEI N. 5.642 – DE 2 DE JULHO DE 1943
 
 Altera o decreto-lei n. 4.993, de 26 de novembro de 1942

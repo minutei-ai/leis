@@ -1,5 +1,3 @@
-###DEC-061866-0-000-07-12-1967@@@
-
 DECRETO Nº 61.866, DE 7 DE DEZEMBRO DE 1967.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Campo Grande, Estado de Mato Grosso.

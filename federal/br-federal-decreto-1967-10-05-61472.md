@@ -1,5 +1,3 @@
-###DEC-061472-0-000-05-10-1967@@@
-
 Decreto nº 61.472, de 5 de outubro de 1967.
 
 Autoriza o cidadão brasileiro José de Carvalho Melo a lavrar ametista no município de Santa Quitéria, no Estado do Ceará.

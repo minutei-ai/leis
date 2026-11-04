@@ -8,7 +8,8 @@ Art. 1º - Fica o Poder Executivo autorizado a comprar, para localização de um
 
 Art. 2º - Para cumprimento do disposto no art. 1º fica aberto o crédito especial de um milhão e quinhentos mil cruzeiros (Cr$1.500.000,00) correndo a importância de quatrocentos mil cruzeiros (Cr$400.000,00) por conta da dotação destinada, na lei orçamentária, aos créditos adicionais, no exercício corrente, e a restante por igual dotação a constar do orçamento para o exercício de 1949
 
-Redação do art. 2º de acordo com a Lei nº [129](https://www.legislabahia.ba.gov.br/documentos/lei-no-129-de-11-de-dezembro-de-1948), de 11 de dezembro de 1948.<br>
+Redação do art. 2º de acordo com a Lei nº [129](https://www.legislabahia.ba.gov.br/documentos/lei-no-129-de-11-de-dezembro-de-1948), de 11 de dezembro de 1948.
+
 Redação original: "Para cumprimento do disposto no artigo 1º fica aberto o crédito especial de um milhão e quinhentos mil cruzeiros (Cr$1.500.000,00), correndo a importância de quatrocentos mil cruzeiros (Cr$400.000,00) por conta da verba destinada, na lei orçamentária, aos créditos adicionais abertos no curso do exercício, e o restante por conta dos recursos obtidos com a colocação de apólices do Empréstimo de "Obras Públicas", observadas as disposições de lei que autorizou sua emissão."
 
 Art. 3º - Revogam-se as disposições em contrário.

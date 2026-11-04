@@ -1,5 +1,3 @@
-###DEC-064271-0-000-21-03-1969@@@
-
 DECRETO Nº 64.271, DE 21 DE MARÇO DE 1969.
 
 Redistribui com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Departamento de Polícia Federal, cargos originários da extinta autarquia Serviço de Navegação da Amazônia e de Administração do Pôrto do Pará e dá outras providências.

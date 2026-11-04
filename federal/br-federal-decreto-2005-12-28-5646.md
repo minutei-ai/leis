@@ -1,5 +1,3 @@
-###DEC-005646-0-000-28-12-2005@@@
-
 DECRETO Nº 5.646, DE 28 DE DEZEMBRO DE 2005.
 
        Promulga o Acordo sobre Isenção de Vistos em Passaportes Comuns entre o Governo da República Federativa do Brasil e o Governo da República da Guatemala, celebrado em Brasília, em 21 de outubro de 2002.

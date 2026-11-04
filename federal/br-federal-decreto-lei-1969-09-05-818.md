@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7e3d63df-b92a-442c-90cc-b0c3ed960bc2/texto#nowhere)
 
-###DEL-000818-0-000-05-09-1969@@@
-
 DECReto-LEI Nº 818, DE 5 de SETembRO DE 1969
 
 Dispõe sôbre a aceitação, pelo Ministério da Agricultura, para fins relacionados com a defesa sanitária animal, de atestados firmados por médico-veterinário sem vínculo com o serviço publico e dá outras providências.

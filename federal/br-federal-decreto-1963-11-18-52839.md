@@ -1,5 +1,3 @@
-###DEC-052839-0-000-18-11-1963@@@
-
 DECRETO Nº 52.839, DE 18 DE NOVEMBRO DE 1963.
 
 Autoriza a Siderúrgica Oeste de Minas S.A. - SOMISA - a pesquisar minério de ferro e manganês no município de Mateus Lime, Estado de Minas Gerais.

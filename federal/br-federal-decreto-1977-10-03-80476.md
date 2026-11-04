@@ -1,5 +1,3 @@
-###DEC-080476-0-000-03-10-1977@@@
-
 Decreto nº 80.476, de 3 de outubro de 1977
 
 Concede reconhecimento aos cursos de Letras, e de Pedagogia, da Faculdade de Educação, Ciências e Letras "Hebraico Brasileira Renascença", com sede na cidade de São Paulo, Estado de São Paulo.

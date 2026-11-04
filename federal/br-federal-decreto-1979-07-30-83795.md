@@ -1,5 +1,3 @@
-###DEC-083795-0-000-30-07-1979@@@
-
 Decreto nº 83.795, de 30 de julho de 1979.
 
 Concede reconhecimento ao curso de Ciências Biológicas da Universidade Federal de Goiás, com sede na cidade de Goiânia, Estado de Goiás.

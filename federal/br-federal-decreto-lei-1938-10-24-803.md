@@ -1,5 +1,3 @@
-###DEL-000803-0-000-24-10-1938@@@
-
 DECRETO-LEI N. 803 – DE 24 DE OUTUBRO DE 1938
 
 Cria o cargo de Corregedor na Justiça do Distrito Federal, e dá outras providências

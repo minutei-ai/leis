@@ -1,5 +1,3 @@
-###DEC-068870-0-000-05-07-1971@@@
-
 Decreto nº 68.870, de 5 de julho de 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão, um faixa de terra destinada à passagem da linha de transmissão Capela - Rio Largo, no Estado de Alagoas.

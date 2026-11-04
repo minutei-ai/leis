@@ -1,5 +1,3 @@
-###DEL-004449-0-000-09-07-1942@@@
-
 DECRETO-LEI N. 4.449 – DE 9 DE JULHO DE 1942
 
 Torna obrigatória a notificação de doenças profissionais

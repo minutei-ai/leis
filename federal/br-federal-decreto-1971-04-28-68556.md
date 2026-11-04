@@ -1,5 +1,3 @@
-###DEC-068556-0-000-28-04-1971@@@
-
 DECRETO Nº 68.556, DE 28 DE ABRIL DE 1971.
 
 Declara de utilidade pública a Prelazia do Rio Negro, com sede em São Gabriel da Cachoeira-Uaupés, Estado do Amazonas.

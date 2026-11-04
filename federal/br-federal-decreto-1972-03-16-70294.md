@@ -1,5 +1,3 @@
-###DEC-070294-0-000-16-03-1972@@@
-
 Decreto nº 70.294, de 16 de março de 1972.
 
 Autoriza o funcionamento da Faculdade de Comunicação Social Estácio de Sá, Rio de Janeiro-GB.

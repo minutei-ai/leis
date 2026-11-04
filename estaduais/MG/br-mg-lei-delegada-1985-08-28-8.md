@@ -47,7 +47,3 @@ ANEXO ÚNICO DA LEI DELEGADA Nº 8, DE 28 DE AGOSTO DE 1985
 (Artigo 2º)
 
 CÓDIGO DENOMINAÇÃO SÍMBOLO DE VENCIMENTO Nº DE CARGOS a) No Grupo de Direção Superior (DS) DS-02 DIRETOR II V-68 1 DS-01 DIRETOR I V-58 4 b) No Grupo de Chefia (CH) CH-03 SUPERVISOR III V-45 2
-
-\==============================
-
-Data da última atualização: 28/7/2016.

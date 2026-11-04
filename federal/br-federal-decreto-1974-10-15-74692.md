@@ -1,5 +1,3 @@
-###DEC-074692-0-000-15-10-1974@@@
-
 DECRETO Nº 74.692, DE 15 DE OUTUBRO DE 1974.
 
 Transfere da Companhia de Eletricidade do Estado da Bahia - COELBA para a companhia Hidro Elétrica do São Francisco - CHESF a concessão para o aproveitamento hidrelétrico, no Estado da Bahia.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000494-0-000-15-04-1992@@@
-
 DECRETO Nº 494, DE 15 DE ABRIL DE 1992
 
 Dispõe sobre a execução, no território nacional, da Resolução 748 (1992) do Conselho de Segurança das Nações Unidas.

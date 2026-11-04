@@ -1,5 +1,3 @@
-###DEC-049102-0-000-11-10-1960@@@
-
 Decreto nº 49.102, de 11 de outubro de 1960.
 
 Inclui nas disposições do art. 1º do Decreto nº 30.955, de 7 de junho de 1952, funções exercidas na Companhia Ferro e Aço de Vitória Sociedade Anônima.

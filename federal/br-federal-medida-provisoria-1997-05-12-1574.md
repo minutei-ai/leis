@@ -1,5 +1,3 @@
-###MPV-001574-0-000-12-05-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.574, DE 12 DE MAIO DE 1997
 
 Dispõe sobre a concessão de financiamento vinculado à exportação de bens ou serviços nacionais.

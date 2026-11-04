@@ -1,5 +1,3 @@
-###DEL-005953-0-000-29-10-1943@@@
-
 DECRETO‑LEI N. 5.953 – DE 29 DE OUTUBRO DE 1943
 
 Dispõe sôbre a prorrogação do mandato dos órgãos fiscalizadores e administrativos dos Institutos de Aposentadoria e Pensões, que menciona, e dá outras providências

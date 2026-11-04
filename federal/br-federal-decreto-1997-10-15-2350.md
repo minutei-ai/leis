@@ -1,5 +1,3 @@
-###DEC-002350-0-000-15-10-1997@@@
-
 DECRETO Nº 2.350, DE 15 DE OUTUBRO DE 1997
 
 Regulamenta a Lei nº 9.055, de 1º de junho de 1995, e dá outras providências.

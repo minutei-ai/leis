@@ -1,5 +1,3 @@
-###DEC-048611-0-000-25-07-1960@@@
-
 DECRETO N. 48.611 – DE 25 DE JUlHO DE 1960
 
 Autoriza o cidadão brasileiro José Casemiro Ramos Neiva a pesquisar ilmenita, no município de Tutoia, Estado do Maranhão.

@@ -1,5 +1,3 @@
-###DEL-001953-0-000-03-08-1982@@@
-
 # Decreto-Lei nº 1.953, de 03 de agosto dE 1982
 
 Autoriza a Comissão de Política Aduaneira a conceder isenção ou redução do Imposto de Importação incidente sobre bens destinados a prospecção e produção de petróleo.

@@ -1,5 +1,3 @@
-###DEL-008988-0-000-16-02-1946@@@
-
 DECRETO-LEI  N. 8.988 – DE 16 DE FEVEREIRO DE 1946
 
 Suspende a execução do Decreto-lei nº 8.867, de 24 de janeiro de 1946

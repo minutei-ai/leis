@@ -1,5 +1,3 @@
-###DEC-077577-0-000-11-05-1976@@@
-
 DECRETO Nº 77.577 - DE 11 DE MAIO DE 1976
 
 Autoriza o funcionamento da habilitação em Educação Moral e Cívica, no curso de Estudos Sociais do Centro de Ensino Superior de São Carlos, com sede na cidade de São Carlos, Estado de São Paulo.

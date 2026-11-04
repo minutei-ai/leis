@@ -1,5 +1,3 @@
-###DEC-004294-0-000-03-07-2002@@@
-
 DECRETO Nº 4.294, DE 3 DE JULHO DE 2002
 
 Dispõe sobre a extinção de atividades desenvolvidas na Imprensa Nacional, disciplina a destinação dos bens utilizados nessas atividades, e dá outras providências.

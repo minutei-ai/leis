@@ -1,7 +1,3 @@
-1
-
-###DEC-000700-0-000-15-12-1992@@@
-
 DECRETO N° 700, DE 15 DE DEZEMBRO DE 1992
 
 Altera a composição da Comissão Diretora do Programa Nacional de Desestatização, de que trata o Decreto n° 99.463, de 1990, e dá outras providências.

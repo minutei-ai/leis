@@ -1,5 +1,3 @@
-###DEC-001785-0-000-11-01-1996@@@
-
 DECRETO Nº 1.785, DE 11 DE JANEIRO DE 1996
 
 Altera o Decreto nº 1.647, de 26 de setembro de 1995, que regulamenta as Leis nºs 7.862, de 30 de outubro de 1989, 8.029, de 12 de abril de 1990, 8.031, de 12 de abril de 1990, 8.250, de 24 de outubro de 1991, e dá outras providências.

@@ -8,5 +8,6 @@ Art. 1º - Fica denominada UNIDADE BÁSICA DE SAÚDE (UBS) DOMINGOS COELHO DE MO
 
 Art. 2º - Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
-ANDRÉ LUÍS CARLOS DA SILVA<br>
+ANDRÉ LUÍS CARLOS DA SILVA
+
 Presidente da Câmara Municipal

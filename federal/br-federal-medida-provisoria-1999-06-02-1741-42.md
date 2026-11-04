@@ -1,5 +1,3 @@
-###MPV-001741-0-042-02-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.741-42, DE 2 DE JUNHO DE 1999
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional - NTN destinadas a aumento de capital do Banco do Brasil S.A., e dá outras providências.

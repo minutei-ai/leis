@@ -1,5 +1,3 @@
-###DEC-006026-0-000-22-01-2007@@@
-
 DECRETO Nº 6.026, DE 22 DE JANEIRO DE 2007.
 
        Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, da Companhia Energética do Amazonas S.A. - CEAM.
@@ -21,5 +19,3 @@ LUIZ INÁCIO LULA DA SILVA
 Luiz Fernando Furlan
 
 Silas Rondeau Cavalcante Silva
-
-Este texto não substitui o publicado no DOU de 23.1.2007.

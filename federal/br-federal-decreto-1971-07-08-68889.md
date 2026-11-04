@@ -1,5 +1,3 @@
-###DEC-068889-0-000-08-07-1971@@@
-
 DECRETO Nº 68.889, DE 8 DE JULHO DE 1971.
 
 Declara de utilidade pública o Centro de Educação Técnica e Cultural, com sede em Recife, Estado de Pernambuco.

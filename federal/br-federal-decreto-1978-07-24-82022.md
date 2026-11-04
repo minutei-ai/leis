@@ -1,5 +1,3 @@
-###DEC-082022-0-000-24-07-1978@@@
-
 Decreto nº 82.022, de 24 de julho de 1978.
 
 Autoriza o funcionamento do curso de Formação de Professores de Disciplinas Especializadas do 2º Grau, das Faculdades Unidas Católicas de Mato Grosso, com sede em Campo Grande, Estado de Mato Grosso.

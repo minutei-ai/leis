@@ -1,5 +1,3 @@
-###DEC-054741-0-000-30-10-1964@@@
-
 DECRETO Nº 54.741, DE 30 DE OUTUBRO DE 1964.
 
 Autoriza a Companhia Mineira de Cimento Portland S.A. - COMINCI a pesquisar calcário, no município de Matozinhos, Estado de Minas Gerais.

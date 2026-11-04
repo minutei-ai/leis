@@ -1,5 +1,3 @@
-###DEL-000568-0-000-07-05-1969@@@
-
 DECRETO-LEI Nº 568, DE 7 DE MAIO DE 1969
 
 Revoga a Lei nº 5.531, de 13 de novembro de 1968.

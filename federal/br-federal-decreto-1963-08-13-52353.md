@@ -1,5 +1,3 @@
-###DEC-052353-0-000-13-08-1963@@@
-
 DECRETO Nº 52.353, DE 13 DE AGôSTO DE 1963.
 
 Dá nova redação ao art. 348 do R.G.P.S. aprovado pelo Decreto 48.959-A de 19 de setembro de 1960, e dá outras providências.

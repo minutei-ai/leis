@@ -1,5 +1,3 @@
-###DEC-050200-0-000-28-01-1961@@@
-
 Decreto Nº 50.200, DE 28 DE JANEIRO DE 1961.
 
 Outorga concessão à Rádio Globo Capital Limitada para estabelecer uma estação de radiotelevisão.

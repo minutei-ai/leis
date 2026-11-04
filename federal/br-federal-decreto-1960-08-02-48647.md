@@ -1,5 +1,3 @@
-###DEC-048647-0-000-02-08-1960@@@
-
 decreto nº 48.647, de 2 de agôsto de 1960.
 
 Autoriza estrangeiros a adquirir, em transferência de aforamento, fração ideal do domínio útil do terreno de marinha que menciona, na Cidade do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-067527-0-000-11-11-1970@@@
-
 DECRETO Nº 67.527, DE 11 DE NOVEMBRO DE 1970.
 
 Regulamenta o Decreto-lei nº 756, de 11 de agôsto de 1969 e dá outras providências.

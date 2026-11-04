@@ -1,7 +1,3 @@
-1
-
-###DEC-098896-0-000-30-01-1990@@@
-
 DECRETO Nº 98.896, DE 30 DE JANEIRO DE 1990
 
 Autoriza o Banco de Desenvolvimento de Minas Gerais a garantir empréstimo a ser contraído no exterior pela Fiat Automóveis S.A., nas condições que mencionar.

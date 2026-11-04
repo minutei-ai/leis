@@ -1,5 +1,3 @@
-###DEC-073289-0-000-11-12-1973@@@
-
 DECRETO Nº 73.289 - DE 11 DE DEZEMBRO DE 1973
 
 Cancela autorização para funcionamento no Brasil da The Yasuda  Fire and Marine Insurance Company Limited.

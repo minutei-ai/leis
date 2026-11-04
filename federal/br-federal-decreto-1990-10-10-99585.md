@@ -1,5 +1,3 @@
-###DEC-099585-0-000-10-10-1990@@@
-
 DECRETO Nº 99.585, DE 10 DE OUTUBRO DE 1990
 
 Extingue a Embaixada do Brasil na República Democrática Alemã.

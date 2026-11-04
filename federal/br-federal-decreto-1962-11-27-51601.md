@@ -1,5 +1,3 @@
-###DEC-051601-0-000-27-11-1962@@@
-
 DECRETO Nº 51.601, de 27 de novembro de 1962.
 
 Inclui função gratificada no Quadro do Pessoal do Ministério da Educação e Cultura.

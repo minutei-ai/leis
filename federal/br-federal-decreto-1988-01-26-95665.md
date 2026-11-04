@@ -1,7 +1,3 @@
-1
-
-###DEC-095665-0-000-26-01-1988@@@
-
 DECRETO N° 95.665, DE 26 DE JANEIRO DE 1988
 
 Outorga concessão à RÁDIO LIBERDADE DE BOA VIAGEM LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Boa Viagem, Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEC-068397-0-000-23-03-1971@@@
-
 DECRETO Nº 68.397, DE 23 DE MARÇO DE 1971.
 
 Concede à firma individual Julio Bettoi Cardoso o direito de lavrar argila, no município de Salesópolis, Estado de São Paulo.

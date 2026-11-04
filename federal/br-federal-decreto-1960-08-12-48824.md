@@ -1,5 +1,3 @@
-###DEC-048824-0-000-12-08-1960@@@
-
 DECRETO Nº 48.824, DE 12 DE AGôSTO DE 1960.
 
 Autoriza a Companhia Brasileira de Energia Elétrica a ampliar suas instalações mediante e construção de uma linha de transmissão entre a subestação Augusto Vieira e a subestação da fábrica de papel Tannuri, Estado do Rio de Janeiro.

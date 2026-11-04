@@ -1,5 +1,3 @@
-###DEC-088541-0-000-21-07-1983@@@
-
 # Decreto nº 88.541, de 21 de julho de 1983
 
 Cria a Reserva Ecológica de Jutaí-Solimões, em área de terra que indica e dá outras providências.

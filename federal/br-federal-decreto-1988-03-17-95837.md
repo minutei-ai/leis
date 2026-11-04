@@ -1,7 +1,3 @@
-1
-
-###DEC-095837-0-000-17-03-1988@@@
-
 DECRETO N° 95.837, DE 17 DE MARÇO DE 1988
 
 Altera o Decreto n° 96.177, de 10 de novembro de 1987, que cria a Comissão Interministerial de Biotecnologia-CIBT, e dá outras providências.

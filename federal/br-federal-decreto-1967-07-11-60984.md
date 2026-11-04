@@ -1,5 +1,3 @@
-###DEC-060984-0-000-11-07-1967@@@
-
 DECRETO Nº 60.984, DE 11 DE JULHO DE 1967.
 
 Declara sem efeito o Decreto número 23.437, de 29 de julho de 1947.

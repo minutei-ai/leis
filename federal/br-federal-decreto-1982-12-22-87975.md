@@ -1,5 +1,3 @@
-###DEC-087975-0-000-22-12-1982@@@
-
 Decreto nº 87.975, de 22 de dezembro 1982.
 
 Promulga o Protocolo de Emenda que modifica o artigo 14 da Convenção para a Unificação de Certas Regras em Matéria de Assistência e Salvamento Marítimos, de 23 de setembro de 1910.

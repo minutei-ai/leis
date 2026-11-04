@@ -1,5 +1,3 @@
-###DEC-072725-0-000-31-08-1973@@@
-
 DECRETO Nº 72.725, DE 31 DE AGOSTO DE 1973.
 
 Redistribui cargo, com o respectivo ocupante, para o Quadro de Pessoal do Ministério das Minas e Energia, e dá outras providências.

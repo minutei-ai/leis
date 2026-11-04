@@ -1,5 +1,3 @@
-###DEL-001998-0-000-30-12-1982@@@
-
 # DECRETO-LEI Nº 1.998, de 30 de dezembro DE 1982.
 
 Reajusta os valores de vencimentos e proventos dos funcionários da Secretaria do Tribunal Superior Eleitoral e dá outras providências.

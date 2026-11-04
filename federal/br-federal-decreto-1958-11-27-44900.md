@@ -1,5 +1,3 @@
-###DEC-044900-0-000-27-11-1958@@@
-
 DECRETO Nº 44.900, DE 27 DE NOVEMBRO DE 1958.
 
 Subordina à delegacia de Capitania dos Portos do Estado do Rio Grande do Sul em Pelotas, as Agências de Jaguarão e Santa Vitória do Palmar.

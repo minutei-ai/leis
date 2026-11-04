@@ -1,5 +1,3 @@
-###DEC-069397-0-000-21-10-1971@@@
-
 decreto nº 69.397, de 21 de outubro de 1971.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras "Professor Luiz Pardini" - São Paulo.

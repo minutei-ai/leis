@@ -1,5 +1,3 @@
-###DEC-059491-0-000-09-11-1966@@@
-
 DECRETO Nº 59.491, DE 9 DE NOVEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Antônio Gomes de Oliveira a pesquisar caulim, no município de Monte Alegre do Sul, Estado de São Paulo.

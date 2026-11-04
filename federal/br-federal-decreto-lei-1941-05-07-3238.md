@@ -1,5 +1,3 @@
-###DEL-003238-0-000-07-05-1941@@@
-
 DECRETO-LEI Nº 3.238 – DE 7 DE MAIO DE 1941
 
 Fixa a gratificação a ser concedida, a título de representação, ao Presidente do Tribunal de Apelação, e para as funções de Vice-presidente e Corregedor, do mesmo Tribunal.

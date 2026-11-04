@@ -8,7 +8,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, faço saber que a
 
 Art. 1º - Esta Lei institui o Código Tributário do Estado da Bahia, sem prejuízo das disposições oriundas da Constituição Federal, de leis complementares, do Código Tributário Nacional, de resoluções do Senado Federal e de convênios aprovados pelo Conselho de Política Fazendária (CONFAZ), nos limites das respectivas competências.
 
-TÍTULO I -<br>
+TÍTULO I -
+
 DA COMPETÊNCIA TRIBUTÁRIA ESTADUAL
 
 Art. 2º - Integram a competência do Estado da Bahia os seguintes tributos, disciplinados pelo presente código:
@@ -27,10 +28,12 @@ b) taxa pelo exercício de polícia.
 
 III - Contribuições de melhoria.
 
-TÍTULO II -<br>
+TÍTULO II -
+
 DO IMPOSTO SOBRE OPERAÇÃO RELATIVAS À CIRCULAÇÃO DE MERCADORIAS (ICM)
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 \-DA INCIDÊNCIA
 
 Art. 3º - O imposto sobre operações relativas à circulação de mercadorias (ICM) tem como hipótese de incidência:
@@ -71,7 +74,8 @@ I - a natureza jurídica da operação de que resultem a saída ou fornecimento 
 
 II - o título jurídico pelo qual a mercadoria estava na posse do respectivo titular.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 \-DA NÃO INCIDÊNCIA
 
 Art. 4º - O imposto não incide sobre:
@@ -112,7 +116,8 @@ XIV - a saída de material de uso ou consumo, de um para outro estabelecimento d
 
 § 2º - Na hipótese do inciso IV, verificado, a qualquer tempo, que a mercadoria não chegou ao destino indicado ou foi reintroduzida no mercado interno, a operação será considerada tributável, ficando o contribuinte obrigado a recolher o imposto relativo à saída sem prejuízo da multa cabível.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 \-DAS ISENÇÕES
 
 Art. 5º - As isenções do imposto serão concedidas ou revogadas nos termos fixados em lei complementar e em convênios celebrados e ratificados pelos Estados, na forma prevista na legislação federal.
@@ -123,17 +128,20 @@ Art. 6º - Quando o reconhecimento da isenção do imposto depender de condiçã
 
 Art. 7º - A isenção não dispensa o contribuinte do cumprimento de obrigações acessórias.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 \-DA SUSPENSÃO E DO DIFERIMENTO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 \-DA SUSPENSÃO
 
 Art. 8º - Ocorrerá a suspensão quando a incidência do imposto ficar condicionada a evento futuro.
 
 Parágrafo único - O regulamento indicará estes eventos, fazendo referência ao convênio que instituiu ou autorizou a hipótese de suspensão, se for o caso.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 \-DO DIFERIMENTO
 
 Art. 9º - Dar-se-á o diferimento, quando o lançamento e pagamento do imposto incidente sobre determinada operação forem adiados para uma etapa posterior de comercialização, industrialização ou consumo, atribuindo-se a responsabilidade pelo pagamento do imposto diferido ao adquirente ou destinatário da mercadoria, na qualidade de contribuinte substituto, vinculado à etapa posterior de comercialização, industrialização ou consumo.
@@ -152,10 +160,12 @@ III - fornecimento de refeições a estabelecimentos industriais e comerciais, p
 
 Art. 10 - O regulamento poderá estabelecer exigências e condições para autorizar o contribuinte a operar no regime de diferimento.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 \-DOS CONTRIBUINTES, DOS RESPONSÁVEIS E DO ESTABELECIMENTO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 \-DOS CONTRIBUINTES
 
 Art. 11 - São contribuintes do ICM o comerciante, o industrial ou o produtor que promova quaisquer das operações relativas à circulação de mercadorias mencionadas no artigo 3º desta Lei.
@@ -172,7 +182,8 @@ IV - toda pessoa, física ou jurídica, que pratique, com habitualidade, operaç
 
 V - outras categorias de contribuintes que vierem a ser instituídas em lei complementar.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 \-DOS RESPONSÁVEIS
 
 Art. 12 - São responsáveis pelo pagamento do imposto devido:
@@ -255,7 +266,8 @@ XI - saídas de charque do estabelecimento distribuidor ou atacadista, que o ten
 
 Art. 14 - A responsabilidade prevista no artigo 12 não exclui a do contribuinte, facultando-se ao Fisco Estadual exigir o crédito tributário de qualquer ou de ambos os sujeitos passivos.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 \-DAS OBRIGAÇÕES DOS CONTRIBUINTES E DOS RESPONSÁVEIS
 
 Art. 15 - São obrigações dos contribuintes:
@@ -292,7 +304,8 @@ XV - cumprir todas as exigências previstas na legislação tributária.
 
 Art. 16 - Aplicam-se aos responsáveis, no que couber, as disposições dos incisos III, IV, VI, VIII, IX, X, XIV e XV do artigo anterior.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 \-DO ESTABELECIMENTO
 
 Art. 17 - Considera-se estabelecimento o local, onde haja ou não construção, no qual o contribuinte exerce sua atividade em caráter permanente ou temporário, bem como o lugar onde se encontram armazenadas ou depositadas as mercadorias objeto de sua atividade, ainda que este local pertença a terceiros.
@@ -319,10 +332,12 @@ Art. 20 - Considera-se estabelecimento autônomo, sujeito à legislação fiscal
 
 Parágrafo único - O regulamento poderá considerar um só estabelecimento os imóveis de um mesmo produtor rural situados no mesmo município.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 \-DAS ALÍQUOTAS E DA BASE DE CÁLCULO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 \-DAS ALÍQUOTAS
 
 Art. 21 - As alíquotas do imposto são:
@@ -347,7 +362,8 @@ II - operações interestaduais as realizadas por pessoas situadas em Estados di
 
 III - operações de exportação aquelas em que a mercadoria seja remetida para destinatário situado no Exterior, ou para armazém alfandegado, entreposto aduaneiro ou empresa comercial exportadora.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 \-DA BASE DE CÁLCULO
 
 Art. 23 - A base de cálculo do imposto é:
@@ -476,10 +492,12 @@ VI - utilização do regime especial em desobediência às normas que o regem.
 
 Art. 27 - O regulamento estabelecerá normas complementares aos regimes de estimativa e de arbitramento previstos nos artigos anteriores.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 \-DO LANÇAMENTO, DO CÁLCULO E DO PAGAMENTO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 \-DO LANÇAMENTO
 
 Art. 28 - Compete ao contribuinte efetuar o lançamento do imposto em seus livros e documentos fiscais, na forma regulamentar, sujeito a posterior homologação da autoridade administrativa.
@@ -488,7 +506,8 @@ Art. 28 - Compete ao contribuinte efetuar o lançamento do imposto em seus livro
 
 § 2º - O regulamento pode submeter, em casos especiais, grupos de contribuintes ao sistema do lançamento por declaração.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 \-DO CÁLCULO
 
 Art. 29 - O imposto será calculado, aplicando-se a alíquota cabível à base de cálculo prevista para a operação tributada, obtendo-se o valor que será debitado na escrita fiscal do contribuinte.
@@ -577,7 +596,8 @@ Art. 37 - Os direitos à utilização do crédito e ao estorno do débito ficam 
 
 § 2º - A utilização de crédito e o estorno de débito, após o período previsto para a sua escrituração, poderão ser feitos mediante comunicação imediata do fato, pelo beneficiário, ao órgão fiscal competente.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 \-DO PAGAMENTO
 
 Art. 38 - O imposto será recolhido junto à rede bancária autorizada ou ao órgão fiscal arrecadador, no local da ocorrência da operação tributável, no prazo e forma estabelecidos em normas regulamentares.
@@ -588,7 +608,8 @@ Art. 38 - O imposto será recolhido junto à rede bancária autorizada ou ao ór
 
 Art. 39 - O Poder Executivo poderá determinar que o recolhimento do imposto se faça em local diverso dos referidos no artigo anterior.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 \-DA RESTITUIÇÃO
 
 Art. 40 - Serão restituídas, no todo ou em parte, as quantias relativas ao imposto indevidamente recolhido, consoante a forma estabelecida em regulamento, observados os prazos de prescrição ou decadência.
@@ -601,7 +622,8 @@ Art. 40 - Serão restituídas, no todo ou em parte, as quantias relativas ao imp
 
 Art. 41 - O imposto indevidamente recolhido a partir da vigência desta Lei, terá o seu valor corrigido monetariamente, utilizando-se a mesma sistemática de correção dos débitos tributários de ICM, conforme dispuser o regulamento.
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 \-DAS OBRIGAÇÕES ACESSÓRIAS
 
 Art. 42 - A legislação estadual poderá atribuir ao contribuinte ou a terceiros o cumprimento de obrigações no interesse da fiscalização e arrecadação tributárias.
@@ -624,7 +646,8 @@ II - comprovar o montante das operações escrituradas ou que deveriam ter sido 
 
 Parágrafo único - Se o contribuinte, no caso fixado no regulamento, deixar de fazer a comunicação e comprovação, não puder fazê-las ou fizer comprovação considerada insuficiente ou inidônea, o valor das operações será objeto de arbitramento pela fiscalização, pelos meios a seu alcance, deduzindo-se os créditos fiscais e o montante recolhido, quando efetivamente comprovados pelo contribuinte ou pelos registros da repartição fazendária.
 
-CAPÍTULO X<br>
+CAPÍTULO X
+
 \-DAS INFRAÇÕES E DAS PENALIDADES
 
 Art. 45 - Constitui infração relativa ao ICM a inobservância de qualquer disposição contida na legislação deste tributo, especialmente as descritas no artigo 47 desta Lei.
@@ -827,14 +850,16 @@ Art. 54 - O cancelamento de benefícios fiscais e a cassação de regime especia
 
 Parágrafo único - O estabelecimento que for considerado reincidente específico por mais de duas vezes, ou que incidir em prática constante de sonegação, poderá ser submetido a regime especial de fiscalização conforme o disposto em regulamento.
 
-CAPÍTULO XI<br>
+CAPÍTULO XI
+
 \-DOS INCENTIVOS FISCAIS
 
 Art. 55 - Os incentivos fiscais serão concedidos com base nos convênios aprovados e ratificados pelos Estados e Distrito Federal, nos termos da lei complementar que rege a matéria.
 
 Parágrafo único - Os benefícios fiscais decorrentes de convênio de caráter autorizativo poderão ter sua concessão condicionada ao cumprimento de exigências especiais, contidas em regulamento, com o objetivo de atender as diretrizes da política de industrialização e desenvolvimento do Estado.
 
-CAPÍTULO XII<br>
+CAPÍTULO XII
+
 \-DAS DISPOSIÇÕES ESPECIAIS
 
 Art. 56 - Fica o Poder Executivo autorizado a celebrar e ratificar convênios para a concessão e revogação de isenção, crédito presumido, redução de base de cálculo e demais favores fiscais de deliberação, sujeita à competência do Conselho de Política Fazendária (CONFAZ).
@@ -843,10 +868,12 @@ Parágrafo único - A Secretaria da Fazenda poderá celebrar convênio ou firmar
 
 Art. 57 - Do produto da arrecadação efetiva do ICM 20% (vinte por cento) será destinado aos Municípios, nos termos da legislação federal pertinente.
 
-TÍTULO III -<br>
+TÍTULO III -
+
 DO IMPOSTO SOBRE TRANSMISSÃO DE BENS IMÓVEIS E DE DIREITOS A ELES RELATIVOS (ITBI)
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 \-DA INCIDÊNCIA
 
 Art. 58 - O imposto sobre transmissão de bens imóveis e de direitos a eles relativos (ITBI) incide sobre:
@@ -925,7 +952,8 @@ III - na retrocessão;
 
 IV - na retrovenda.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 \-DA NÃO INCIDÊNCIA
 
 Art. 61 - O imposto não incide sobre a transmissão dos bens imóveis ou direito a eles relativos, quando:
@@ -948,7 +976,8 @@ Art. 62 - Considera-se caracterizada a atividade preponderante referida no pará
 
 § 3º - Em qualquer caso, desde que conste do objeto social da empresa as atividades imobiliárias de construção, incorporação, venda, corretagem ou locação de imóveis, não se aplicam as normas do inciso II do artigo anterior.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 \-DAS ISENÇÕES
 
 Art. 63 - Ficam isentas do imposto:
@@ -979,10 +1008,12 @@ XI - as transmissões dos bens do cônjuge, em virtude da comunicação decorren
 
 § 2º - Ficará sujeito ao pagamento do imposto a transmissão da propriedade de imóvel adquirido com os benefícios concedidos nos incisos II, III, IV e V deste artigo, que vier a ser revendido dentro do prazo de 05 (cinco) anos.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 \-DAS ALÍQUOTAS E DA BASE DE CÁLCULO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 \-DAS ALÍQUOTAS
 
 Art. 64 - O imposto será pago de acordo com as seguintes alíquotas:
@@ -999,7 +1030,8 @@ Art. 65 - O fideicomissário pagará o imposto de acordo com a alíquota vigente
 
 Art. 66 - As alíquotas a que se refere o artigo 64 ficarão automaticamente reajustadas de acordo com os limites máximos que vierem a ser fixados pelo Senado Federal, conforme o disposto em regulamento.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 \-DA BASE DE CÁLCULO
 
 Art. 67 - A base de cálculo do imposto é:
@@ -1056,7 +1088,8 @@ Art. 72 - Nas transmissões "causa mortis", são dedutíveis as dívidas inciden
 
 Art. 73 - Quando houver retificação do título aquisitivo que implique alteração quanto ao valor, espécie, extensão, qualidade, quantidade ou qualquer modificação quanto ao seu objeto e sujeitos, far-se-á novo cálculo para complementação ou restituição do imposto, se for o caso.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 \-DOS CONTRIBUINTES E DOS RESPONSÁVEIS
 
 Art. 74 - São contribuintes do imposto:
@@ -1073,7 +1106,8 @@ b) o nu-proprietário e o fideicomissário, no momento da extinção.
 
 Art. 75 - Nas transmissões que se efetuarem sem o pagamento do imposto devido, são solidariamente responsáveis, por esse pagamento, o adquirente e o transmitente, o cessionário e o cedente, os co-herdeiros e o inventariante, conforme o caso, e, subsidiariamente, o oficial público, serventuário e auxiliar da justiça ou qualquer servidor público, cuja interferência na formação do título de transmissão seja essencial para a sua validade e eficácia.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 \-DO LANÇAMENTO, DO PAGAMENTO E DA RESTITUIÇÃO
 
 Art. 76 - O regulamento disporá a respeito do lançamento, da forma, local e momento do pagamento do imposto.
@@ -1090,7 +1124,8 @@ IV - quando o imposto houver sido pago a maior.
 
 Parágrafo único - A restituição do imposto será corrigida monetariamente, nas mesmas bases e condições fixadas para a correção monetária dos débitos do imposto, devendo ser acompanhada do valor das penalidades e acréscimos tributários recolhidos indevidamente.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 \-DAS INFRAÇÕES E DAS PENALIDADES
 
 Art. 78 - O descumprimento de obrigações principais e acessórias previstas nesta Lei e em normas regulamentares sujeitará o infrator às seguintes penalidades, sem prejuízo do pagamento do imposto e dos acréscimos tributários cabíveis:
@@ -1121,17 +1156,20 @@ Art. 81 - As multas por descumprimento de obrigação acessória poderão ser re
 
 Parágrafo único - Poderá ser proposta ao Secretário da Fazenda a dispensa ou redução de multa por infração de obrigação principal, por equidade, conforme o disposto em regulamento.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 \-DISPOSIÇÕES DIVERSAS
 
 Art. 82 - Os serventuários que tiverem de lavrar instrumento translativo de bens e de direitos sobre imóveis, de que resulte a obrigação de pagar o ITBI, exigirão que lhes seja apresentado o comprovante do recolhimento do imposto ou do reconhecimento da não incidência ou isenção conforme o disposto em regulamento.
 
 Parágrafo único - Serão transcritos nos instrumentos públicos, quando ocorrer a obrigação de pagar o imposto antes da sua lavratura, elementos que comprovem esse pagamento, ou o reconhecimento de não incidência ou isenção.
 
-TÍTULO IV -<br>
+TÍTULO IV -
+
 DAS TAXAS
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 \-DA INCIDÊNCIA
 
 Art. 83 - As taxas estaduais têm como hipóteses de incidência:
@@ -1142,7 +1180,8 @@ II - a prestação, efetiva ou potencial, de serviços públicos específicos e 
 
 III - a prestação, efetiva ou potencial, de serviços públicos específicos e divisíveis, na área do Poder Judiciário, indicados no Anexo III desta Lei;
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 \-DOS CONTRIBUINTES E DOS RESPONSÁVEIS
 
 Art. 84 - São contribuintes:
@@ -1163,7 +1202,8 @@ I - a parte vencida nos processos promovidos por pessoas não contempladas com i
 
 II - os serventuários da Justiça nas hipóteses previstas no inciso II do artigo 91 desta Lei, pela ação ou omissão que derem causa.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 \-DAS ISENÇÕES
 
 Art. 86 - São isentos:
@@ -1200,7 +1240,8 @@ e) os processo de "habeas corpus"e da ação popular.
 
 Parágrafo único - A isenção de que cuida as alíneas a, b, c e d do inciso anterior se estende à parte contrária, quando vencedora, ou pelos serviços que provocar.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 \-DO CÁLCULO
 
 Art. 87 - As taxas estaduais serão calculadas mediante a aplicação das alíquotas específicas previstas nos Anexos I, II e III desta Lei.
@@ -1209,7 +1250,8 @@ Parágrafo único - O Poder Executivo publicará os valores das taxas, em cruzei
 
 Art. 88 - Quando o cálculo da taxa for relacionado ao valor de referência, tomar-se-á o maior vigente em todo o Estado no momento da ocorrência da prestação do serviço.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 \-DO LANÇAMENTO, DO PAGAMENTO E DA RESTITUIÇÃO
 
 Art. 89 - O regulamento disporá sobre o lançamento e pagamento de taxas estaduais.
@@ -1220,7 +1262,8 @@ Art. 90 - O contribuinte ou responsável terá direito à restituição, total o
 
 § 2º - O valor da restituição abrange as multas e os acréscimos tributários pagos a maior ou indevidamente, além da correção monetária calculada de forma idêntica à atualização dos débitos tributários, observadas as exigências regulamentares.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 \-DAS INFRAÇÕES E DAS PENALIDADES
 
 Art. 91 - O descumprimento de obrigação principal ou acessória prevista nesta Lei, ou na legislação estadual, sujeita o infrator ao pagamento das seguintes multas, sem prejuízo do tributo devido e seus acréscimos:
@@ -1237,14 +1280,16 @@ I - de 60% (sessenta por cento), quando o contribuinte recolher a taxa dentro de
 
 II - de 40% (quarenta por cento), quando o recolhimento da taxa ocorrer antes do ajuizamento da dívida ativa.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 \-DISPOSIÇÕES DIVERSAS
 
 Art. 93 - Os valores pagos pela utilização dos serviços dos ofícios ou serventias não oficializados serão calculados conforme os Anexos II e III desta Lei.
 
 TÍTULO V -DA CONTRIBUIÇÃO DE MELHORIA
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 \-DA INCIDÊNCIA
 
 Art. 94 - A contribuição de melhoria incide sobre a valorização do imóvel localizado nas áreas beneficiadas direta ou indiretamente por obra pública estadual.
@@ -1255,7 +1300,8 @@ Art. 94 - A contribuição de melhoria incide sobre a valorização do imóvel l
 
 § 3º - Considera-se obra pública estadual a realizada pelo Estado ou por entidade da Administração Descentralizada do Estado, com recursos próprios ou oriundos de transferência da União.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 \-DOS CONTRIBUINTES E DOS RESPONSÁVEIS
 
 Art. 95 - É contribuinte deste tributo o proprietário ou enfiteuta do imóvel valorizado, ao tempo do lançamento.
@@ -1268,14 +1314,16 @@ I - o adquirente ou o sucessor, a qualquer título;
 
 II - o senhorio direto, nas enfiteuses.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 \-DO LANÇAMENTO, DO PAGAMENTO E DA RESTITUIÇÃO
 
 Art. 97 - O regulamento disporá sobre o lançamento e o processo de discussão do valor lançado, obedecidas as disposições do Título VIII desta Lei, e disciplinará a forma, condições, local e prazos de pagamento.
 
 Art. 98 - Aplicam-se à restituição deste tributo as disposições do artigo 90 desta Lei.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 \-DAS INFRAÇÕES E DAS PENALIDADES
 
 Art. 99 - O descumprimento de obrigação principal ou acessória prevista nesta Lei ou na legislação estadual, sujeita o infrator ao pagamento das seguintes multas, sem prejuízo do pagamento do tributo devido e seus acréscimos:
@@ -1288,10 +1336,12 @@ III - 2 (duas) vezes o valor da Unidade Padrão Fiscal (UPF-BA), em caso de infr
 
 Parágrafo único - O valor da multa poderá ser reduzido conforme o disposto no art. 92 desta Lei.
 
-TÍTULO VI -<br>
+TÍTULO VI -
+
 DOS ACRÉSCIMOS TRIBUTÁRIOS
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 \-DA CORREÇÃO MONETÁRIA
 
 Art. 100 - Serão corrigidos monetariamente os débitos tributários não recolhidos tempestivamente, de acordo com os prazos regulamentares.
@@ -1308,7 +1358,8 @@ Art. 101 - Os índices de correção monetária serão baixados para vigorar dur
 
 § 3º - A correção monetária abrangerá o período em que a exigibilidade do crédito tributário esteve suspensa, bem como o da tramitação do processo de consulta.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 \-DOS ACRÉSCIMOS MORATÓRIOS
 
 Art. 102 - Os débitos de tributos estaduais, recolhidos espontaneamente ou não, fora dos prazos regulamentares, estarão sujeitos aos seguintes acréscimos:
@@ -1329,17 +1380,20 @@ II - atraso superior a 30 (trinta) dias: 1% (hum por cento) por cada mês ou fra
 
 Art. 104 - Os acréscimos moratórios serão calculados sobre o valor do tributo corrigido monetariamente na data do recolhimento.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 \-DO FATOR FIXO
 
 Art. 105 - Para o cálculo do valor das prestações mensais, em caso de pagamento parcelado, o débito tributário será atualizado de todos os seus acréscimos, devendo sobre tal montante ser aplicado um multiplicador capaz de refletir os custos financeiros vigentes no mercado, em razão do número de parcelas mensais concedidas.
 
 Parágrafo único - O Secretaria da Fazenda baixará anualmente a tabela de fator fixo a ser aplicada na concessão de parcelamento.
 
-TÍTULO VII -<br>
+TÍTULO VII -
+
 DA ADMINISTRAÇÃO TRIBUTÁRIA
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 \-DA ARRECADAÇÃO E DA FISCALIZAÇÃO
 
 Art. 106 - A arrecadação tributária far-se-á através de estabelecimentos bancários devidamente credenciados pela Secretaria da Fazenda e, excepcionalmente, através de funcionários com funções arrecadadoras.
@@ -1396,7 +1450,8 @@ Art. 111 - Compete aos funcionários públicos estaduais, em exercício em serve
 
 Art. 112 - A autoridade fiscal, em casos excepcionais previstos em regulamento, poderá submeter o contribuinte ou responsável a regime especial de controle e fiscalização, inclusive quanto à forma e prazo de recolhimento do imposto.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 \-DA CERTIDÃO NEGATIVA
 
 Art. 113 - A solicitação de fornecimento de certidão a respeito da situação fiscal do contribuinte deverá ser atendida no prazo máximo de 5 (cinco) dias úteis, salvo exceção regulamentar.
@@ -1411,7 +1466,8 @@ III - transmissão de bens imóveis e de direitos a eles relativos.
 
 Parágrafo único - O regulamento poderá dispensar a exigência da certidão negativa nos casos assinalados, bem como instituir a obrigatoriedade de sua apresentação, em casos especiais.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 \-DA DÍVIDA ATIVA TRIBUTÁRIA
 
 Art. 115 - Compete à Procuradoria Fiscal proceder a inscrição e cobrança da dívida ativa tributária.
@@ -1458,10 +1514,12 @@ IV - inexistência ou insuficiência de bens do contribuinte e responsáveis par
 
 Art. 121 - O Secretário da Fazenda poderá autorizar o recebimento de bem imóvel em pagamento de dívida ativa tributária, nas condições e forma regulamentares.
 
-TÍTULO VIII -<br>
+TÍTULO VIII -
+
 DO PROCESSO ADMINISTRATIVO FISCAL
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 \-DISPOSIÇÕES GERAIS
 
 Art. 122 - O processo administrativo fiscal será organizado à semelhança dos autos forenses , com folhas devidamente numeradas e rubricadas, observada a ordem de juntada.
@@ -1494,10 +1552,12 @@ III - pela lavratura do termo de início de fiscalização;
 
 IV - pela lavratura do auto de infração.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 \-DO PROCESSO FISCAL
 
-SEÇÃO I<br>
+SEÇÃO I
+
 \-DO INÍCIO DO PROCESSO FISCAL
 
 Art. 128 - Instaura-se o Processo Fiscal na esfera administrativa:
@@ -1540,7 +1600,8 @@ Art. 131 - O regulamento disporá a respeito da utilização da notificação fi
 
 Parágrafo único - Prescinde de assinatura da autoridade fiscal, para todos os efeitos legais, a notificação ou outro documento fiscal emitidos por processamento eletrônico.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 \-DA DEFESA
 
 Art. 132 - A notificação fiscal ou o auto de infração poderão ser impugnados no prazo de 30 (trinta) dias, contados da data da intimação.
@@ -1551,7 +1612,8 @@ Art. 132 - A notificação fiscal ou o auto de infração poderão ser impugnado
 
 Art. 133 - Na defesa será aduzida por escrito, de uma só vez, toda a matéria que o impugnante entenda útil, indicando ou requerendo as provas e juntando, desde logo, documentos, levantamentos e demonstrativos referentes às suas alegações.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 \-DO PREPARO E DA INSTRUÇÃO
 
 Art. 134 - O preparo do processo fiscal compete ao órgão local da Secretaria da Fazenda , compreendendo:
@@ -1596,7 +1658,8 @@ Art. 139 - Após o parecer conclusivo da Procuradoria Fiscal (PROFI), o processo
 
 Parágrafo único - Caberá ao relator, através de despacho, deferir ou determinar a produção de provas e as medidas necessárias à instrução ou saneamento do processo que entenda cabíveis, inclusive abrir vista ao autuado, quando o parecer da Procuradoria Fiscal (PROFI) enfocar fato novo ou argumento jurídico ainda não levantado nos autos.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 \-DO JULGAMENTO
 
 Art. 140 - O julgamento do processo fiscal será feito em uma única instância administrativa.
@@ -1625,7 +1688,8 @@ Art. 142 - O Conselho de Fazenda Estadual (CONSEF) sumulará suas decisões reit
 
 Art. 143 - Da decisão do processo fiscal, será o interessado cientificado, conforme dispuser o regulamento, para efetuar o pagamento no prazo de 30 (trinta) dias, se for o caso, sob pena de inscrição do débito na dívida ativa.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 \-DO PEDIDO DE RECONSIDERAÇÃO
 
 Art. 144 - Da decisão do processo fiscal pelas Câmaras do Conselho de Fazenda Estadual caberá pedido de reconsideração, com efeito suspensivo, desde que verse sobre matéria de fato ou fundamento de direito não apreciados no julgamento reconsiderando.
@@ -1648,7 +1712,8 @@ III - versar sobre matéria de fato ou fundamento de direito já apreciados no j
 
 § 3º - Observadas, no que couber, as normas desta Seção, caberá pedido de reconsideração da decisão prolatada por órgão julgador singular, previsto no artigo 140.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 \-DO RECURSO DE REVISTA
 
 Art. 146 - Caberá recurso de revista quando o julgamento da Câmara divergir do entendimento sobre idêntica questão jurídica manifestado por outra Câmara, ou pela Câmara Superior.
@@ -1657,7 +1722,8 @@ Art. 146 - Caberá recurso de revista quando o julgamento da Câmara divergir do
 
 § 2º - Compete à Câmara Superior decidir sobre o cabimento e o mérito do recurso de revista.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 \-DO CONSELHO DE FAZENDA ESTADUAL (CONSEF)
 
 Art. 147 - O Conselho de Fazenda Estadual (CONSEF) é composto de 12 (doze) membros efetivos e igual número de suplentes, nomeados pelo Governador do Estado, para um mandato de 2 (dois) anos, renovável, observada a representação paritária e o limite previsto no artigo 129 da Constituição Estadual.
@@ -1714,7 +1780,8 @@ Art. 154 - A Câmara Superior organizará o Regimento Interno do CONSEF que, apr
 
 Art. 155 - O Poder Executivo poderá baixar normas complementares às desta Lei, tendo em vista a estrutura e o funcionamento do CONSEF.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 \-DO PROCESSO DE CONSULTA
 
 Art. 156 - É assegurado ao contribuinte, ou entidade representativa de classe de contribuintes, o direito de formular consulta sobre interpretação e aplicação da legislação tributária, em relação a fato determinado e de seu interesse.
@@ -1755,7 +1822,8 @@ Art. 159 - Da decisão, em processo de consulta, caberá recurso voluntário e d
 
 Parágrafo único - O regulamento disporá sobre a competência para a decisão de consulta em primeira e segunda instâncias.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 \-DO PROCESSO DE RESTITUIÇÃO
 
 Art. 160 - A restituição de tributo, seus acréscimos ou multa, em razão de recolhimento a maior ou indevido, dependerá de petição dirigida à autoridade competente, através do órgão fiscal local, contendo os seguintes requisitos:
@@ -1770,12 +1838,14 @@ IV - outras exigências regulamentares, conforme o caso.
 
 Art. 161 - O regulamento complementará as normas a respeito da tramitação do processo de restituição e fixará a competência das autoridades fiscais para apreciar o pedido da restituição, em primeira e segunda instâncias administrativas.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 \-DOS DEMAIS PROCESSOS ESPECIAIS
 
 Art. 162 - Os processos de isenção, de parcelamento, de regimes especiais ou de benefícios fiscais especiais serão disciplinados na forma regulamentar.
 
-TÍTULO IX -<br>
+TÍTULO IX -
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 Art. 163 - Para efeito de evitar a incidência da correção monetária, o autuado ou notificado poderá fazer o depósito integral do débito tributário atualizado.

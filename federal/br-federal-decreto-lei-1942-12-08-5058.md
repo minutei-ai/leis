@@ -1,5 +1,3 @@
-###DEL-005058-0-000-08-12-1942@@@
-
 DECRETO-LEI N. 5.058 – DE 8 DE DEZEMBRO DE 1942
 
 Institue bolsas de estudos para candidatos aos Cursos de Aperfeiçoamento e Especialização do Departamento Nacional de Saúde

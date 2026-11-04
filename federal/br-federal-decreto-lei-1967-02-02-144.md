@@ -1,5 +1,3 @@
-###DEL-000144-0-000-02-02-1967@@@
-
 DECRETO-LEI Nº 144, DE 2 DE FEVEREIRO DE 1967
 
 Cria a Tabela de Taxas e Emolumentos da Junta Comercial do Distrito Federal e dá providências para sua instalação, organização e funcionamento.
@@ -34,7 +32,43 @@ I - Taxa de Arquivamento
 
 Art. 2º A Taxa de Arquivamento de ato constitutivo de sociedades comerciais, nacionais ou estrangeiras, e das civis que se transformarem em comerciais e nos casos de distrato, dissolução, alteração de capital, capital autorizado, transformação, fusão, incorporação, transferência de sede, abertura de filial, agência ou dependência em Brasília, criação de ação ao portador ou debêntures, registro e alteração de capital de firma individual, é cobrada de acôrdo com a seguinte tabela:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>CAPITAL - TAXA</span></p></td><td style="width:41.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(Cr$)</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 - Capital até 10.000.000 ..................................................................................</span></p></td><td style="width:41.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20.000</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2 - Capital de 10.000.001 até 20.000.000 .............................................................</span></p></td><td style="width:41.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30.000</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3 - Capital de 20.000.001 até 30.000.000 .............................................................</span></p></td><td style="width:41.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>40.000</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4 - Capital de 30.000.001 até 50.000.000 .............................................................</span></p></td><td style="width:41.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>60.000</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5 - Capital de 50.000.001 até 75.000.000 .............................................................</span></p></td><td style="width:41.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>70.000</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6 - Capital de 75.000.001 até 100.000.000 ...........................................................</span></p></td><td style="width:41.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>80.000</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7 - Capital de 100.000.001 até 500.000.000 .........................................................</span></p></td><td style="width:41.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>120.000</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8 - Por fração que exceda 500.000.000 ................................................................</span></p></td><td style="width:41.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50.000</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Até o limite máximo de 250.000</span></p></td><td style="width:41.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+CAPITAL - TAXA
+
+(Cr$)
+
+1 - Capital até 10.000.000 ..................................................................................
+
+20.000
+
+2 - Capital de 10.000.001 até 20.000.000 .............................................................
+
+30.000
+
+3 - Capital de 20.000.001 até 30.000.000 .............................................................
+
+40.000
+
+4 - Capital de 30.000.001 até 50.000.000 .............................................................
+
+60.000
+
+5 - Capital de 50.000.001 até 75.000.000 .............................................................
+
+70.000
+
+6 - Capital de 75.000.001 até 100.000.000 ...........................................................
+
+80.000
+
+7 - Capital de 100.000.001 até 500.000.000 .........................................................
+
+120.000
+
+8 - Por fração que exceda 500.000.000 ................................................................
+
+50.000
+
+Até o limite máximo de 250.000
 
 § 1º A Taxa de Arquivamento incide:
 
@@ -56,7 +90,13 @@ VIII - Na transferência da sede para o Distrito Federal a taxa será cobrada s�
 
 § 2º Para arquivamento de todos os documentos traduzidos ou versões por tradutores públicos e intérpretes comerciais, exceto passaportes, certidões de nascimento ou de casamento, serão cobrados:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:42.55pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:90.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo original</span></p></td><td style="width:86.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Cr$500</span></p></td></tr><tr><td style="width:90.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelas cópias</span></p></td><td style="width:86.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Cr$250</span></p></td></tr></tbody></table>
+Pelo original
+
+- Cr$500
+
+Pelas cópias
+
+- Cr$250
 
 § 3º Será cobrada a taxa de 10 mil cruzeiros para arquivamento de quaisquer documentos de sociedades comerciais ou de firmas individuais em que não houver alteração de capital tais como emancipações, autorizações, procurações, diplomas, registro de firma social, publicações, atas de reuniões de diretorias, atas de assembléias gerais ordinárias, atas de assembléias gerais extraordinárias sem modificação de capital, anotações de firmas sociais, anotações de firmas individuais sem alteração do capital, alterações contratuais sem aumento do capital e outros documentos não especificados.
 
@@ -76,13 +116,77 @@ III - Taxa de Matrícula.
 
 Art. 4º Serão cobradas as seguintes taxas de matrícula ou habilitação:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I - Para tradutores e intérpretes comerciais:</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Matrícula no cargo de tradutor ou intérprete ............................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Matrícula no cargo de preposto .............................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cancelamento de matrícula ...................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II - Para leiloeiros:</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Título de nomeação ..............................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Título de nomeação de preposto ............................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cancelamento de títulos .......................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III - Para gerente:</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Carta de gerente ..................................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cancelamento .....................................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>IV - Para trapicheiros, administradores e fiéis de depósito ou armazém:</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Nomeação ...........................................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cancelamento .....................................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20.000</span></p></td></tr></tbody></table>
+Cr$
+
+I - Para tradutores e intérpretes comerciais:
+
+Matrícula no cargo de tradutor ou intérprete ............................................................
+
+10.000
+
+Matrícula no cargo de preposto .............................................................................
+
+5.000
+
+Cancelamento de matrícula ...................................................................................
+
+5.000
+
+II - Para leiloeiros:
+
+Título de nomeação ..............................................................................................
+
+30.000
+
+Título de nomeação de preposto ............................................................................
+
+20.000
+
+Cancelamento de títulos .......................................................................................
+
+10.000
+
+III - Para gerente:
+
+Carta de gerente ..................................................................................................
+
+20.000
+
+Cancelamento .....................................................................................................
+
+10.000
+
+IV - Para trapicheiros, administradores e fiéis de depósito ou armazém:
+
+Nomeação ...........................................................................................................
+
+30.000
+
+Cancelamento .....................................................................................................
+
+20.000
 
 IV - Taxa de Fiscalização
 
 Art. 5º A Taxa de Fiscalização será cobrada:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I - Aos Armazéns Gerais, anualmente:</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Por emprêsa (matriz) ............................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>60.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Por agência ou filial .............................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>60.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II - Aos leiloeiros:</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Por transporte de cada leilão efetuado (judicial, extrajudicial e particular) ..................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20.000</span></p></td></tr></tbody></table>
+Cr$
+
+I - Aos Armazéns Gerais, anualmente:
+
+Por emprêsa (matriz) ............................................................................................
+
+60.000
+
+Por agência ou filial .............................................................................................
+
+60.000
+
+II - Aos leiloeiros:
+
+Por transporte de cada leilão efetuado (judicial, extrajudicial e particular) ..................
+
+20.000
 
 V - Taxa de Cadastro
 
@@ -92,13 +196,47 @@ VI - Taxa de Autenticação
 
 Art. 7º A Taxa de Autenticação será cobrada:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) Por livros mercantis de até 1.000 fôlhas .............................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) Por livros mercantis de mais de 1.000 fôlhas ......................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>c) Por documentos (por via) ..................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.000</span></p></td></tr></tbody></table>
+Cr$
+
+a) Por livros mercantis de até 1.000 fôlhas .............................................................
+
+5.000
+
+b) Por livros mercantis de mais de 1.000 fôlhas ......................................................
+
+10.000
+
+c) Por documentos (por via) ..................................................................................
+
+1.000
 
 VII - Emolumentos
 
 Art. 8º Cobrar-se-ão emolumentos sôbre:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I - Busca ou consultas de documentos .....................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.000</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II - Certidões:</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) Por certidão requerida .........................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.000</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) Por fôlha datilografada .........................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.500</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>c) Por fôlha fotocopiada ..........................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.500</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III - Oposições ou recursos ......................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.000</span></p></td></tr></tbody></table>
+Cr$
+
+I - Busca ou consultas de documentos .....................................................................
+
+2.000
+
+II - Certidões:
+
+a) Por certidão requerida .........................................................................................
+
+5.000
+
+b) Por fôlha datilografada .........................................................................................
+
+1.500
+
+c) Por fôlha fotocopiada ..........................................................................................
+
+2.500
+
+III - Oposições ou recursos ......................................................................................
+
+2.000
 
 Art. 9º O Poder Executivo promoverá, anualmente, a correção monetária dos valôres das taxas e emolumentos expressos neste decreto-lei, adotando, para tal fim, os coeficientes estabelecidos pelos órgãos competentes.
 

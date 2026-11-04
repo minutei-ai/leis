@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210233)<br>
-
 # DECRETO N° 69.057, DE 14 DE NOVEMBRO DE 2024
 
 ### _Homologa, por 180 (cento e oi­tenta) dias, o decreto do Pre­feito do Município de Jaborandi, que declarou Situação de Emer­gência em áreas do Município._

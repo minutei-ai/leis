@@ -1,5 +1,3 @@
-###DEC-055368-0-000-31-12-1964@@@
-
 DECRETO Nº 55.368, DE 31 DE DEZEMBRO DE 1964.
 
 Torna sem efeito o Decreto número 52.882, de 20 de novembro de 1963.

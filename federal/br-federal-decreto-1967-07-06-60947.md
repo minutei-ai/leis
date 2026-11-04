@@ -1,5 +1,3 @@
-###DEC-060947-0-000-06-07-1967@@@
-
 DECRETO Nº 60.947, DE 6 DE JULHO DE 1967.
 
 Autoriza a Rio Ligth S.A. - Serviços de Eletricidade a construir subestação.

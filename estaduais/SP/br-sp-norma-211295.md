@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211295)<br>
-
 # DECRETO N° 69.788, DE 11 DE AGOSTO DE 2025
 
 ### _Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título gratuito e pelo prazo de 20 (vinte) anos, do Município de São Vicente, o imóvel que especifica._

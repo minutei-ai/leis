@@ -1,5 +1,3 @@
-###DEC-070116-0-000-04-02-1972@@@
-
 DECRETO Nº 70.116, DE 4 DE FEVEREIRO DE 1972
 
 Autoriza o funcionamento da Faculdade Canoense de Ciências Administrativas, mantidas pela Comunidade Evangélica Luterana "São Paulo", com sede em Canoas, RS.

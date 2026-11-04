@@ -1,5 +1,3 @@
-###DEC-053641-0-000-28-02-1964@@@
-
 DECRETO Nº 53.641, DE 28 DE FEVEREIRO DE 1964.
 
 Dispõe sôbre o funcionamento do Grupo Executivo de Racionalização da Cafeicultura (GERCA).
@@ -43,8 +41,6 @@ Brasília, 28 de fevereiro de 1964; 143º da Independência e 76º da República
 João Goulart
 
 Egydio Michaelsen.
-
-###DEC-053641-0-000-28-02-1964@@@RET01+++
 
 DECRETO Nº 53.641, DE 28 DE FEVEREIRO DE 1964.
 

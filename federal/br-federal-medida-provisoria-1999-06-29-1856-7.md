@@ -1,5 +1,3 @@
-###MPV-001856-0-007-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.856-7, DE 29 DE JUNHO DE 1999.
 
 Altera dispositivos das Leis nºs 5.972, de 11 de dezembro de 1973, e 9.636, de 15 de maio de 1998, e dá outras providências.

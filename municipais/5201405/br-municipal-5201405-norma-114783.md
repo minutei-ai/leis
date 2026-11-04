@@ -58,8 +58,10 @@ Art. 11  -  Esta Lei entrará em vigor na data de sua publicação, revogadas 
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos treze dias do mês de novembro de dois mil e nove.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 PREFEITO MUNICIPAL
 
-ELI DE FARIA<br>
-SECRETÁRIO EXECUTIVO<br>
+ELI DE FARIA
+
+SECRETÁRIO EXECUTIVO

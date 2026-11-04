@@ -1,5 +1,3 @@
-###DEC-077415-0-000-12-04-1976@@@
-
 DECRETO Nº 77.415 - DE 12 DE ABRIL DE 1976
 
 Concede reconhecimento ao curso de Ciências Sociais ministrado pela Faculdade de Filosofia, Ciências e Letras de Governador Valadares, com sede na cidade de Governador Valadares, Estado de Minas Gerais.

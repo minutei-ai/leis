@@ -1,5 +1,3 @@
-###DEL-004475-0-000-14-07-1942@@@
-
 DECRETO-LEI N. 4.475 – DE 14 DE Julho DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de réis 12 .000:000$0

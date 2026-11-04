@@ -1,5 +1,3 @@
-###DEC-075615-0-000-16-04-1975@@@
-
 DECRETO Nº 75.615, DE 16 DE ABRIL DE 1975.
 
 Concede reconhecimento ao curso de Habilitação de Professores de Disciplinas Especializadas de 2º Grau da Faculdade de Ciências da Fundação Educacional de Bauru, com sede na cidade de Bauru, Estado de São Paulo.

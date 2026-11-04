@@ -2,7 +2,7 @@ Modificada pela Lei nº [4.055, de 15 de Dezembro de 2022.](https://legis.ac.gov
 
 > **LEI Nº 3.892, DE 11 DE JANEIRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei nº 1.781, de 3 de julho de 2006, e revoga a Lei nº 3.377 de 13 de abril de 2018.</span></span></span></p></td></tr></tbody></table>
+Altera dispositivos da Lei nº 1.781, de 3 de julho de 2006, e revoga a Lei nº 3.377 de 13 de abril de 2018.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -40,4 +40,226 @@ Governador do Estado do Acre
 
 **ANEXO I** (nova redação do Anexo IV, da Lei nº 1.781/2006)
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><span>CARGO</span></span></p></td><td><p><span><span>PROVIMENTO</span></span></p></td><td><p><span><span>Nº DE CARGOS</span></span></p></td><td><p><span><span>VENCIMENTO</span></span></p></td></tr><tr><td><p><span><span>Diretor de Administração e Finanças</span></span></p></td><td><p><span><span>CC/FG-06</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>12.711,88</span></span></p></td></tr><tr><td><p><span><span>Diretor de Auditoria Financeira e Orçamentária</span></span></p></td><td><p><span><span>CC/FG-06</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>12.711,88</span></span></p></td></tr><tr><td><p><span><span>Secretário das Sessões</span></span></p></td><td><p><span><span>CC/FG-05</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>11.122,89</span></span></p></td></tr><tr><td><p><span><span>Chefe de Gabinete da Presidência</span></span></p></td><td><p><span><span>CC/FG-04</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>10.328,40</span></span></p></td></tr><tr><td><p><span><span>Assessor Técnico da Presidência</span></span></p></td><td><p><span><span>CC/FG-04</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>10.328,40</span></span></p></td></tr><tr><td><p><span><span>Chefe de Gabinete de Conselheiro</span></span></p></td><td><p><span><span>CC/FG-04</span></span></p></td><td><p><span><span>7</span></span></p></td><td><p><span><span>10.328,40</span></span></p></td></tr><tr><td><p><span><span>Assessor Técnico de Gabinete</span></span></p></td><td><p><span><span>CC/FG-04</span></span></p></td><td><p><span><span>14</span></span></p></td><td><p><span><span>10.328,40</span></span></p></td></tr><tr><td><p><span><span>Chefe de Tecnologia da Informação</span></span></p></td><td><p><span><span>CC/FG-04</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>10.328,40</span></span></p></td></tr><tr><td><p><span><span>Chefe de Gabinete do Procurador Chefe do MPE</span></span></p></td><td><p><span><span>CC/FG-04</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>10.328,40</span></span></p></td></tr><tr><td><p><span><span>Chefe de Recursos Humanos</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>7.944,92</span></span></p></td></tr><tr><td><p><span><span>Chefe do Setor Financeiro</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>7.944,92</span></span></p></td></tr><tr><td><p><span><span>Chefe dos Serviços Administrativos</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>7.944,92</span></span></p></td></tr><tr><td><p><span><span>Chefe da 1ª IGCE</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>7.944,92</span></span></p></td></tr><tr><td><p><span><span>Chefe da 2ª IGCE</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>7.944,92</span></span></p></td></tr><tr><td><p><span><span>Chefe da 3ª IGCE</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>7.944,92</span></span></p></td></tr><tr><td><p><span><span>Chefe da 4ª IGCE</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>7.944,92</span></span></p></td></tr><tr><td><p><span><span>Chefe da 5ª IGCE</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>7.944,92</span></span></p></td></tr><tr><td><p><span><span>Controlador Interno</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>7.944,92</span></span></p></td></tr><tr><td><p><span><span>Assessor Técnico de Procurador do MPE</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>4</span></span></p></td><td><p><span><span>7.944,92</span></span></p></td></tr><tr><td><p><span><span>Assessor Técnico de Conselheiro Substituto</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>7.944,92</span></span></p></td></tr><tr><td><p><span><span>Assessor de Planejamento da Presidência</span></span></p></td><td><p><span><span>CC/FG-02</span></span></p></td><td><p><span><span>2</span></span></p></td><td><p><span><span>5.164,20</span></span></p></td></tr><tr><td><p><span><span>Assessor de Segurança Institucional</span></span></p></td><td><p><span><span>CC/FG-02</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>5.164,20</span></span></p></td></tr><tr><td><p><span><span>Assessor de Comunicação</span></span></p></td><td><p><span><span>CC/FG-02</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>5.164,20</span></span></p></td></tr><tr><td><p><span><span>Contador</span></span></p></td><td><p><span><span>FG-02</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>1.588,98</span></span></p></td></tr><tr><td><p><span><span>Membro da COMPAQ</span></span></p></td><td><p><span><span>FG-02</span></span></p></td><td><p><span><span>2</span></span></p></td><td><p><span><span>1.588,98</span></span></p></td></tr><tr><td><p><span><span>Assessoria Administrativa</span></span></p></td><td><p><span><span>FG-02</span></span></p></td><td><p><span><span>23</span></span></p></td><td><p><span><span>1.588,98</span></span></p></td></tr><tr><td><p><span><span>Assistente Administrativo</span></span></p></td><td><p><span><span>FG-01</span></span></p></td><td><p><span><span>16</span></span></p></td><td><p><span><span>794,49</span></span></p></td></tr></tbody></table>
+CARGO
+
+PROVIMENTO
+
+Nº DE CARGOS
+
+VENCIMENTO
+
+Diretor de Administração e Finanças
+
+CC/FG-06
+
+1
+
+12.711,88
+
+Diretor de Auditoria Financeira e Orçamentária
+
+CC/FG-06
+
+1
+
+12.711,88
+
+Secretário das Sessões
+
+CC/FG-05
+
+1
+
+11.122,89
+
+Chefe de Gabinete da Presidência
+
+CC/FG-04
+
+1
+
+10.328,40
+
+Assessor Técnico da Presidência
+
+CC/FG-04
+
+1
+
+10.328,40
+
+Chefe de Gabinete de Conselheiro
+
+CC/FG-04
+
+7
+
+10.328,40
+
+Assessor Técnico de Gabinete
+
+CC/FG-04
+
+14
+
+10.328,40
+
+Chefe de Tecnologia da Informação
+
+CC/FG-04
+
+1
+
+10.328,40
+
+Chefe de Gabinete do Procurador Chefe do MPE
+
+CC/FG-04
+
+1
+
+10.328,40
+
+Chefe de Recursos Humanos
+
+CC/FG-03
+
+1
+
+7.944,92
+
+Chefe do Setor Financeiro
+
+CC/FG-03
+
+1
+
+7.944,92
+
+Chefe dos Serviços Administrativos
+
+CC/FG-03
+
+1
+
+7.944,92
+
+Chefe da 1ª IGCE
+
+CC/FG-03
+
+1
+
+7.944,92
+
+Chefe da 2ª IGCE
+
+CC/FG-03
+
+1
+
+7.944,92
+
+Chefe da 3ª IGCE
+
+CC/FG-03
+
+1
+
+7.944,92
+
+Chefe da 4ª IGCE
+
+CC/FG-03
+
+1
+
+7.944,92
+
+Chefe da 5ª IGCE
+
+CC/FG-03
+
+1
+
+7.944,92
+
+Controlador Interno
+
+CC/FG-03
+
+1
+
+7.944,92
+
+Assessor Técnico de Procurador do MPE
+
+CC/FG-03
+
+4
+
+7.944,92
+
+Assessor Técnico de Conselheiro Substituto
+
+CC/FG-03
+
+1
+
+7.944,92
+
+Assessor de Planejamento da Presidência
+
+CC/FG-02
+
+2
+
+5.164,20
+
+Assessor de Segurança Institucional
+
+CC/FG-02
+
+1
+
+5.164,20
+
+Assessor de Comunicação
+
+CC/FG-02
+
+1
+
+5.164,20
+
+Contador
+
+FG-02
+
+1
+
+1.588,98
+
+Membro da COMPAQ
+
+FG-02
+
+2
+
+1.588,98
+
+Assessoria Administrativa
+
+FG-02
+
+23
+
+1.588,98
+
+Assistente Administrativo
+
+FG-01
+
+16
+
+794,49

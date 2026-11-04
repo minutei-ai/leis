@@ -1,5 +1,3 @@
-###DEC-060288-0-000-03-03-1967@@@
-
 DECRETO Nº 60.288, DE 3 DE MARÇO DE 1967.
 
 Transfere da Companhia Paulista de Fôrça e Luz para a Central Elétrica de Furnas S. A., a concessão para o aproveitamento progressivo da energia hidráulica de um trecho do rio Grande, situado entre os Estados de Minas Gerais e São Paulo.

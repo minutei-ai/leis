@@ -1,5 +1,3 @@
-###DEC-073267-0-000-06-12-1973@@@
-
 DECRETO Nº 73.267 - DE 6 DE DEZEMBRO DE 1973
 
 Regulamenta a Lei nº 5.823, de 14 de novembro de 1972.

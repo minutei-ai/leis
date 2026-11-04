@@ -1,5 +1,3 @@
-###DEC-056696-0-000-09-08-1965@@@
-
 DECRETO Nº 56.696, DE 9 DE AGÔSTO DE 1965.
 
 Altera o artigo 1º, do Decreto número 45.942, de 29 de abril de 1959.

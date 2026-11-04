@@ -130,31 +130,40 @@ VI – guias– intérpretes.
 
 § 4º Os serviços do NAS deverão se desenvolver na perspectiva de serviços e recursos de apoio educacional especializado, de natureza complementar, conforme definição prevista neste artigo.
 
-§ 5º O intérprete, o guia-intérprete e o professor instrutor de Libras vinculam-se ao NAS, conforme as disposições a seguir:<br>
+§ 5º O intérprete, o guia-intérprete e o professor instrutor de Libras vinculam-se ao NAS, conforme as disposições a seguir:
+
 \- [Acrescido pela Lei nº 23.599, de 29-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111180).
 
-I – os profissionais deverão atuar como mediadores no processo de ensino-aprendizagem de estudantes com deficiência auditiva sinalizante, surdos, surdos-cegos, com altas habilidades, com superdotação ou com deficiências associadas, optantes pela Educação Bilíngue de Surdos e que tenham a Libras como a primeira língua e o português escrito como a segunda; e<br>
+I – os profissionais deverão atuar como mediadores no processo de ensino-aprendizagem de estudantes com deficiência auditiva sinalizante, surdos, surdos-cegos, com altas habilidades, com superdotação ou com deficiências associadas, optantes pela Educação Bilíngue de Surdos e que tenham a Libras como a primeira língua e o português escrito como a segunda; e
+
 \- [Acrescido pela Lei nº 23.599, de 29-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111180).
 
-II – o guia-intérprete deverá facilitar o acesso às informações auditivas e visuais do ambiente, com a promoção de interações discursivas entre os estudantes nas salas de aula e nos demais espaços escolares, além de atividades internas ou externas.<br>
+II – o guia-intérprete deverá facilitar o acesso às informações auditivas e visuais do ambiente, com a promoção de interações discursivas entre os estudantes nas salas de aula e nos demais espaços escolares, além de atividades internas ou externas.
+
 \- [Acrescido pela Lei nº 23.599, de 29-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111180).
 
-§ 6º O intérprete, o guia-intérprete e o professor instrutor de Libras serão submetidos, a cada dois anos, à Avaliação de Proficiência, realizada por banca composta por membros do NAS, e deverão obter nota mínima de sete pontos para a aprovação, a emissão do certificado e a permanência na função.<br>
+§ 6º O intérprete, o guia-intérprete e o professor instrutor de Libras serão submetidos, a cada dois anos, à Avaliação de Proficiência, realizada por banca composta por membros do NAS, e deverão obter nota mínima de sete pontos para a aprovação, a emissão do certificado e a permanência na função.
+
 \- [Acrescido pela Lei nº 23.599, de 29-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111180).
 
-§ 7º O profissional que não alcançar a nota mínima permanecerá no exercício da função com modulação condicionada e deverá, no prazo de um ano, comprovar a participação em ações educacionais, preferencialmente presenciais, de, no mínimo, cinquenta horas, promovidas pelo NAS ou por instituição credenciada pelo Ministério da Educação – MEC.<br>
+§ 7º O profissional que não alcançar a nota mínima permanecerá no exercício da função com modulação condicionada e deverá, no prazo de um ano, comprovar a participação em ações educacionais, preferencialmente presenciais, de, no mínimo, cinquenta horas, promovidas pelo NAS ou por instituição credenciada pelo Ministério da Educação – MEC.
+
 \- [Acrescido pela Lei nº 23.599, de 29-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111180).
 
-§ 8º Ao final do prazo de que trata o § 7º deste artigo, o profissional será submetido a nova Avaliação de Proficiência.<br>
+§ 8º Ao final do prazo de que trata o § 7º deste artigo, o profissional será submetido a nova Avaliação de Proficiência.
+
 \- [Acrescido pela Lei nº 23.599, de 29-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111180).
 
-§ 9º Não realizadas as ações educacionais previstas no § 7º ou não obtida a nota mínima na nova avaliação de que trata o § 8º, ambos deste artigo, o profissional será desligado da função, com a rescisão do contrato, se for temporário, ou com o remanejamento para outra função compatível com as atribuições do seu cargo, se for servidor efetivo.<br>
+§ 9º Não realizadas as ações educacionais previstas no § 7º ou não obtida a nota mínima na nova avaliação de que trata o § 8º, ambos deste artigo, o profissional será desligado da função, com a rescisão do contrato, se for temporário, ou com o remanejamento para outra função compatível com as atribuições do seu cargo, se for servidor efetivo.
+
 \- [Acrescido pela Lei nº 23.599, de 29-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111180).
 
-§ 10. Após a aprovação na Avaliação de Proficiência, a emissão do certificado de que trata o § 6º deste artigo será realizada pelo Centro de Estudos, Pesquisa e Formação dos Profissionais da Educação – CEPFOR, da SEDUC, em até sessenta dias da avaliação.<br>
+§ 10. Após a aprovação na Avaliação de Proficiência, a emissão do certificado de que trata o § 6º deste artigo será realizada pelo Centro de Estudos, Pesquisa e Formação dos Profissionais da Educação – CEPFOR, da SEDUC, em até sessenta dias da avaliação.
+
 \- [Acrescido pela Lei nº 23.599, de 29-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111180).
 
-§ 11. Após o recebimento do certificado, o profissional deverá apresentá-lo à Superintendência de Atenção Especializada, da SEDUC, em até sessenta dias, sob pena de sofrer as penalidades previstas no Capítulo II do Título V da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 28 de janeiro de 2020.<br>
+§ 11. Após o recebimento do certificado, o profissional deverá apresentá-lo à Superintendência de Atenção Especializada, da SEDUC, em até sessenta dias, sob pena de sofrer as penalidades previstas no Capítulo II do Título V da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 28 de janeiro de 2020.
+
 \- [Acrescido pela Lei nº 23.599, de 29-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111180).
 
 Seção IV
@@ -265,92 +274,112 @@ Art. 19. O Centro de Atendimento Educacional Florescer fica autorizado a buscar 
 
 CAPÍTULO IV
 
-DAS FUNÇÕES COMISSIONADAS E DAS GRATIFICAÇÕES EDUCACIONAIS<br>
-\- [Redação dada pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).<br>
+DAS FUNÇÕES COMISSIONADAS E DAS GRATIFICAÇÕES EDUCACIONAIS
+
+\- [Redação dada pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
+
 ~~DAS FUNÇÕES COMISSIONADAS EDUCACIONAIS~~
 
-Art. 20. Ficam criadas as seguintes Funções Comissionadas Educacionais – FCEs e Gratificações Educacionais – GRATIEDUs para o Centro de Atendimento Educacional Florescer:<br>
+Art. 20. Ficam criadas as seguintes Funções Comissionadas Educacionais – FCEs e Gratificações Educacionais – GRATIEDUs para o Centro de Atendimento Educacional Florescer:
+
 \- [Redação dada pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 ~~Art. 20. Fica criada a Função Comissionada do Centro de Atendimento Educacional Florescer – FCEFLOR, integrante das Funções Comissionadas Educacionais previstas nos arts. 99 e 100 e na alínea “c” do Anexo III da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, e sua concessão será de acordo com as funções indicadas no art. 12 desta Lei e nos valores mensais especificados no Anexo I desta Lei.~~
 
 Parágrafo único. Os valores previstos no Anexo I desta Lei serão atribuídos às funções de Diretor, Supervisor, Secretário e Coordenador Administrativo Financeiro com a carga de 40 (quarenta) horas semanais, a serem distribuídas de acordo com o funcionamento da unidade administrativa e escolar, independentemente da quantidade de turnos dessa unidade.
 
-I – a Função Comissionada de Diretor do Centro de Atendimento Educacional Florescer – FCEFLOR-DIR, integrante das FCEs previstas nos arts. 99 e 100 e na alínea “c” do Anexo III da Lei nº 21.792, de 16 de fevereiro de 2023, e sua concessão será de acordo com a função indicada no inciso I do art. 12 desta Lei e no valor mensal especificado na Tabela 1 do Anexo I também desta Lei; e<br>
+I – a Função Comissionada de Diretor do Centro de Atendimento Educacional Florescer – FCEFLOR-DIR, integrante das FCEs previstas nos arts. 99 e 100 e na alínea “c” do Anexo III da Lei nº 21.792, de 16 de fevereiro de 2023, e sua concessão será de acordo com a função indicada no inciso I do art. 12 desta Lei e no valor mensal especificado na Tabela 1 do Anexo I também desta Lei; e
+
 \- [Acrescido pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
-II – a Gratificação de Secretário do Centro de Atendimento Educacional Florescer – GRATFLOR-SEC, a Gratificação de Supervisor do Centro de Atendimento Educacional Florescer – GRATFLOR-SUP, a Gratificação de Coordenador Administrativo Financeiro do Centro de Atendimento Educacional Florescer, integrantes das GRATIEDUs previstas no Capítulo VII-A e no Anexo IX da Lei nº 21.792, de 2023, e sua concessão será de acordo com as funções indicadas nos incisos II a VII do art. 12 desta Lei e nos valores mensais especificados na Tabela 2 do Anexo I também desta Lei.<br>
+II – a Gratificação de Secretário do Centro de Atendimento Educacional Florescer – GRATFLOR-SEC, a Gratificação de Supervisor do Centro de Atendimento Educacional Florescer – GRATFLOR-SUP, a Gratificação de Coordenador Administrativo Financeiro do Centro de Atendimento Educacional Florescer, integrantes das GRATIEDUs previstas no Capítulo VII-A e no Anexo IX da Lei nº 21.792, de 2023, e sua concessão será de acordo com as funções indicadas nos incisos II a VII do art. 12 desta Lei e nos valores mensais especificados na Tabela 2 do Anexo I também desta Lei.
+
 \- [Acrescido pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
-Art. 21. Ficam criadas as seguintes Funções Comissionadas Educacionais – FCEs e Gratificações Educacionais – GRATIEDUs para o Centro de Estudos e Pesquisa Ciranda da Arte:<br>
+Art. 21. Ficam criadas as seguintes Funções Comissionadas Educacionais – FCEs e Gratificações Educacionais – GRATIEDUs para o Centro de Estudos e Pesquisa Ciranda da Arte:
+
 \- [Acrescido pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 ~~Art. 21. Fica criada a Função Comissionada do Centro de Estudo e Pesquisa Ciranda da Arte – FCECECA, integrante das Funções Comissionadas Educacionais, previstas nos arts. 99 e 100 e na alínea “c” do Anexo III, da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, que será concedida às funções de Diretor e Secretário, nos valores mensais especificados no Anexo II desta Lei.~~
 
-I – a Função Comissionada de Diretor do Centro de Estudo e Pesquisa Ciranda da Arte – FCECECA-DIR, integrante das FCEs previstas nos arts. 99 e 100 e na alínea “c” do Anexo III da Lei nº 21.792, de 2023, será concedida à função de Diretor, no valor mensal especificado na Tabela 1 do Anexo II desta Lei; e<br>
+I – a Função Comissionada de Diretor do Centro de Estudo e Pesquisa Ciranda da Arte – FCECECA-DIR, integrante das FCEs previstas nos arts. 99 e 100 e na alínea “c” do Anexo III da Lei nº 21.792, de 2023, será concedida à função de Diretor, no valor mensal especificado na Tabela 1 do Anexo II desta Lei; e
+
 \- [Acrescido pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
-II – a Gratificação de Secretário do Centro de Estudo e Pesquisa Ciranda da Arte – GRATCECA-SEC, integrante das GRATIEDUs previstas no Capítulo VII-A e no Anexo IX da Lei nº 21.792, de 2023, será concedida à função de Secretário, no valor mensal especificado na Tabela 2 do Anexo II desta Lei.<br>
+II – a Gratificação de Secretário do Centro de Estudo e Pesquisa Ciranda da Arte – GRATCECA-SEC, integrante das GRATIEDUs previstas no Capítulo VII-A e no Anexo IX da Lei nº 21.792, de 2023, será concedida à função de Secretário, no valor mensal especificado na Tabela 2 do Anexo II desta Lei.
+
 \- [Acrescido pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
-Parágrafo único.  Os valores previstos no Anexo II desta Lei serão atribuídos às funções de Diretor e de Secretário com a carga de quarenta horas semanais, a serem distribuídas de acordo com o funcionamento da unidade administrativa e escolar, independentemente da quantidade de turnos dessa unidade.<br>
+Parágrafo único.  Os valores previstos no Anexo II desta Lei serão atribuídos às funções de Diretor e de Secretário com a carga de quarenta horas semanais, a serem distribuídas de acordo com o funcionamento da unidade administrativa e escolar, independentemente da quantidade de turnos dessa unidade.
+
 \- [Acrescido pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
-Art. 22.  As FCEs e as GRATIEDUS, previstas na Lei nº 21.792, de 2023, serão concedidas conforme as funções e os critérios a seguir:<br>
+Art. 22.  As FCEs e as GRATIEDUS, previstas na Lei nº 21.792, de 2023, serão concedidas conforme as funções e os critérios a seguir:
+
 \- [Redação dada pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 ~~Art. 22. As Funções Comissionadas Educacionais, previstas nos arts. 99 e 100 e na alínea “c” do Anexo III da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, serão concedidas conforme as funções e os critérios a seguir:~~
 
 I – a Função Comissionada Educacional de Gestor Escolar – FCEGE será concedida ao professor em razão do efetivo exercício na função de Gestor Escolar, nas unidades escolares da Educação Básica da rede estadual de ensino, e de acordo com a permanência dos estudantes, a apuração do número de matrículas e afrequência;
 
-II – a Gratificação Educacional de Secretário Escolar e Coordenador Administrativo Financeiro – GRATSECAF será concedida ao servidor em razão do efetivo exercício na função de Secretário Escolar e Coordenador Administrativo Financeiro, nas unidades escolares da Educação Básica da rede estadual de ensino, e de acordo com a permanência dos estudantes, a apuração do número de matrículas e a frequência;<br>
+II – a Gratificação Educacional de Secretário Escolar e Coordenador Administrativo Financeiro – GRATSECAF será concedida ao servidor em razão do efetivo exercício na função de Secretário Escolar e Coordenador Administrativo Financeiro, nas unidades escolares da Educação Básica da rede estadual de ensino, e de acordo com a permanência dos estudantes, a apuração do número de matrículas e a frequência;
+
 \- [Redação dada pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 ~~II – a Função Comissionada Educacional de Secretário Escolar e Coordenador Administrativo Financeiro – FCESECAF será concedida ao servidor em razão do efetivo exercício na função de Secretário Escolar e Coordenador Administrativo Financeiro, nas unidades escolares da Educação Básica da rede estadual de ensino, e de acordo com a permanência dos estudantes, a apuração do número de matrículas e afrequência;~~
 
 III – a Função Comissionada Educacional de Diretor do Centro de Estudo e Pesquisa Ciranda da Arte – FCECECA– DIR será concedida ao servidor em razão do efetivo exercício na função de Diretor da unidade;
 
-IV – a Gratificação Educacional de Secretário do Centro de Estudo e Pesquisa Ciranda da Arte – GRATCECA-SEC será concedida ao servidor em razão do efetivo exercício na função de Secretário da unidade;<br>
+IV – a Gratificação Educacional de Secretário do Centro de Estudo e Pesquisa Ciranda da Arte – GRATCECA-SEC será concedida ao servidor em razão do efetivo exercício na função de Secretário da unidade;
+
 \- [Redação dada pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 ~~IV – a Função Comissionada Educacional de Secretário do Centro de Estudo e Pesquisa Ciranda da Arte – FCECECA– SEC será concedida ao servidor em razão do efetivo exercício na função de Secretário da unidade;~~
 
 V – a Função Comissionada Educacional de Gestor Escolar – FCEGE–CEPI será concedida ao professor pelo desempenho na função de Gestor Escolar, nas unidades escolares integrais, de acordo com a permanência dos estudantes, a apuração do número de matrículas e afrequência; e
 
-VI – a Gratificação Educacional do Centro de Ensino em Período Integral – GRATSECAF-CEPI será concedida ao servidor pelo desempenho na função de Secretário e Coordenador Administrativo Financeiro, nas unidades escolares integrais, de acordo com a permanência dos estudantes, a apuração do número de matrículas e a frequência.<br>
+VI – a Gratificação Educacional do Centro de Ensino em Período Integral – GRATSECAF-CEPI será concedida ao servidor pelo desempenho na função de Secretário e Coordenador Administrativo Financeiro, nas unidades escolares integrais, de acordo com a permanência dos estudantes, a apuração do número de matrículas e a frequência.
+
 \- [Redação dada pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 ~~VI – a Função Comissionada Educacional do Centro de Ensino em Período Integral – FCESECAF–CEPI será concedida ao servidor pelo desempenho na função de Secretário e Coordenador Administrativo Financeiro, nas unidades escolares integrais, de acordo com a permanência dos estudantes, a apuração do número de matrículas e afrequência.~~
 
 Parágrafo único. Decreto do Chefe do Poder Executivo disciplinará os parâmetros e os requisitos para a apuração dos critérios previstos neste artigo.
 
-Art. 23. A concessão das FCEs e das GRATIEDUs de que trata esta Lei observará o disposto nos arts. 93 e 94 e no Capítulo VII-A da Lei nº 21.792, de 2023, e será devida somente nos casos previstos e durante o recesso escolar.<br>
+Art. 23. A concessão das FCEs e das GRATIEDUs de que trata esta Lei observará o disposto nos arts. 93 e 94 e no Capítulo VII-A da Lei nº 21.792, de 2023, e será devida somente nos casos previstos e durante o recesso escolar.
+
 \- [Redação dada pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 ~~Art. 23. A concessão das funções comissionadas de que trata esta Lei observará o disposto no art. 93 da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, e será devida somente nos casos previstos na alínea “e” do inciso IV do referido artigo e durante o recesso escolar.~~
 
-§ 1º  O servidor não terá direito à função comissionada ou à gratificação quando cessar o mandato ou a designação para a função, resguardado o direito à proporcionalidade do período em que esteve em seu devido exercício.<br>
+§ 1º  O servidor não terá direito à função comissionada ou à gratificação quando cessar o mandato ou a designação para a função, resguardado o direito à proporcionalidade do período em que esteve em seu devido exercício.
+
 \- [Redação dada pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 ~~§ 1º O servidor não terá direito à função comissionada quando cessado o mandato ou a designação para a função, resguardado o direito à proporcionalidade do período em que esteve no seu devido exercício.~~
 
-§ 2º  O valor diário da função comissionada ou da gratificação, utilizado para descontos e pagamentos proporcionais, será obtido com a divisão do valor mensal por trinta.<br>
+§ 2º  O valor diário da função comissionada ou da gratificação, utilizado para descontos e pagamentos proporcionais, será obtido com a divisão do valor mensal por trinta.
+
 \- [Redação dada pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 ~~§ 2º O valor diário da função comissionada, utilizado para descontos e pagamentos proporcionais, será obtido com a divisão do valor mensal por 30 (trinta).~~
 
 § 3º É vedada a designação com data retroativa para o exercício das funções de que trata esta Lei.
 
-§ 4º  Os critérios da avaliação periódica para a manutenção da percepção das GRATIEDUs serão estabelecidos em decreto.<br>
+§ 4º  Os critérios da avaliação periódica para a manutenção da percepção das GRATIEDUs serão estabelecidos em decreto.
+
 \- [Acrescido pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
-Art. 23-A.  Caso a atribuição e a responsabilidade diferenciada dispostas nos incisos II, IV e VI do art. 22 desta Lei sejam desempenhadas por servidor remunerado por subsídio, poderão ser atribuídas a ele as Funções Comissionadas Educacionais correspondentes.<br>
+Art. 23-A.  Caso a atribuição e a responsabilidade diferenciada dispostas nos incisos II, IV e VI do art. 22 desta Lei sejam desempenhadas por servidor remunerado por subsídio, poderão ser atribuídas a ele as Funções Comissionadas Educacionais correspondentes.
+
 \- [Acrescido pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
-§ 1º  As funções comissionadas de que trata este artigo são as previstas nas Tabelas 5, 7 e 11 da alínea “c” do Anexo III da Lei nº 21.792, de 2023, com o valor e o símbolo equivalentes aos das gratificações de que trata esta Lei.<br>
+§ 1º  As funções comissionadas de que trata este artigo são as previstas nas Tabelas 5, 7 e 11 da alínea “c” do Anexo III da Lei nº 21.792, de 2023, com o valor e o símbolo equivalentes aos das gratificações de que trata esta Lei.
+
 \- [Acrescido pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
-§ 2º  O servidor de que trata este artigo será submetido às mesmas regras e exigências desta Lei para sua designação e manutenção, observado também o disposto nos arts. 93 e 94 da Lei nº 21.792, de 2023.<br>
+§ 2º  O servidor de que trata este artigo será submetido às mesmas regras e exigências desta Lei para sua designação e manutenção, observado também o disposto nos arts. 93 e 94 da Lei nº 21.792, de 2023.
+
 \- [Acrescido pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 CAPÍTULO V
@@ -359,54 +388,70 @@ DAS DISPOSIÇÕES FINAIS
 
 Art. 24. As despesas decorrentes das funções comissionadas de que trata esta Lei serão custeadas com recursos consignados na Lei Orçamentária Anual.
 
-Art. 25.  Decreto regulamentador estabelecerá o valor global que abrangerá as FCEs e as GRATIEDUs de que trata esta Lei.<br>
+Art. 25.  Decreto regulamentador estabelecerá o valor global que abrangerá as FCEs e as GRATIEDUs de que trata esta Lei.
+
 \- [Redação dada pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 ~~Art. 25. Ficam criadas, conforme dispuser decreto do Governador do Estado, as seguintes funções comissionadas para atender aos fins desta Lei:~~
 
-~~I – 1 (uma) Função Comissionada Educacional de Diretor do Centro de Estudo e Pesquisa Ciranda da Arte – FCECECA–DIR;~~<br>
+~~I – 1 (uma) Função Comissionada Educacional de Diretor do Centro de Estudo e Pesquisa Ciranda da Arte – FCECECA–DIR;~~
+
 \- [Revogado pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174), art. 14, VI, a.
 
-~~II – 1 (uma) Função Comissionada Educacional de Secretário do Centro de Estudo e Pesquisa Ciranda da Arte – FCECECA– SEC;~~<br>
+~~II – 1 (uma) Função Comissionada Educacional de Secretário do Centro de Estudo e Pesquisa Ciranda da Arte – FCECECA– SEC;~~
+
 \- [Revogado pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174), art. 14, VI, a.
 
-~~III – 1 (uma) Função Comissionada de Diretor do Centro de Atendimento Educacional Florescer – FCEFLOR–DIR;~~<br>
+~~III – 1 (uma) Função Comissionada de Diretor do Centro de Atendimento Educacional Florescer – FCEFLOR–DIR;~~
+
 \- [Revogado pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174), art. 14, VI, a.
 
-~~IV – 1 (uma) Função Comissionada de Secretário do Centro de Atendimento Educacional Florescer – FCEFLOR–SEC;~~<br>
+~~IV – 1 (uma) Função Comissionada de Secretário do Centro de Atendimento Educacional Florescer – FCEFLOR–SEC;~~
+
 \- [Revogado pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174), art. 14, VI, a.
 
-~~V – 1 (uma) Função Comissionada de Coordenador Administrativo Financeiro do Centro de Atendimento Educacional Florescer – FCEFLOR–CAF; e~~<br>
+~~V – 1 (uma) Função Comissionada de Coordenador Administrativo Financeiro do Centro de Atendimento Educacional Florescer – FCEFLOR–CAF; e~~
+
 \- [Revogado pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174), art. 14, VI, a.
 
-~~VI – 4 (quatro) Funções Comissionadas de Supervisor do Centro de Atendimento Educacional Florescer – FCEFLOR– SUP.~~<br>
+~~VI – 4 (quatro) Funções Comissionadas de Supervisor do Centro de Atendimento Educacional Florescer – FCEFLOR– SUP.~~
+
 \- [Revogado pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174), art. 14, VI, a.
 
-§ 1º  Os quantitativos das FCEs e das GRATIEDUs serão definidos por ato do titular da SEDUC, respeitados o limite financeiro e o percentual de distribuição para servidor efetivo estabelecidos em decreto.<br>
+§ 1º  Os quantitativos das FCEs e das GRATIEDUs serão definidos por ato do titular da SEDUC, respeitados o limite financeiro e o percentual de distribuição para servidor efetivo estabelecidos em decreto.
+
 \- [Acrescido pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
-§ 2º  A alteração do ato de que trata o § 1º deste artigo deverá ser encaminhada à Secretaria de Estado da Administração – SEAD até o dia 25 do mês, com efeitos financeiros para o mês subsequente, e será vedada a designação com data retroativa.<br>
+§ 2º  A alteração do ato de que trata o § 1º deste artigo deverá ser encaminhada à Secretaria de Estado da Administração – SEAD até o dia 25 do mês, com efeitos financeiros para o mês subsequente, e será vedada a designação com data retroativa.
+
 \- [Acrescido pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
-~~Art. 26. Em virtude das disposições desta Lei, as Funções Comissionadas de Gestor Escolar/Diretor, Coordenador Administrativo Financeiro e Secretário Escolar, previstas na [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, passam a corresponder a:~~<br>
+~~Art. 26. Em virtude das disposições desta Lei, as Funções Comissionadas de Gestor Escolar/Diretor, Coordenador Administrativo Financeiro e Secretário Escolar, previstas na [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, passam a corresponder a:~~
+
 \- [Revogado pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174), art. 14, VI, b.
 
-~~I – 637 (seiscentos e trinta e sete) para a Função Comissionada de Gestor Escolar; e~~<br>
+~~I – 637 (seiscentos e trinta e sete) para a Função Comissionada de Gestor Escolar; e~~
+
 \- [Revogado pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174), art. 14, VI, b.
 
-~~II – 858 (oitocentos e cinquenta e oito) para a Função Comissionada Educacional Secretário Escolar e de Coordenador Administrativo Financeiro.~~<br>
+~~II – 858 (oitocentos e cinquenta e oito) para a Função Comissionada Educacional Secretário Escolar e de Coordenador Administrativo Financeiro.~~
+
 \- [Revogado pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174), art. 14, VI, b.
 
-~~Parágrafo único. Desde que sejam observados os limites do _caput_ deste artigo, o Chefe do Executivo poderá dispor sobre o quantitativo correspondente a cada função, conforme critérios de conveniência e oportunidade.~~<br>
+~~Parágrafo único. Desde que sejam observados os limites do _caput_ deste artigo, o Chefe do Executivo poderá dispor sobre o quantitativo correspondente a cada função, conforme critérios de conveniência e oportunidade.~~
+
 \- [Revogado pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174), art. 14, VI, b.
 
-~~Art. 27. As Funções Comissionadas de Ensino em Período Integral – FCEPI, previstas na [Lei estadual nº 20.917](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103633), de 21 de dezembro de 2020, passam a corresponder ao seguinte:~~<br>
+~~Art. 27. As Funções Comissionadas de Ensino em Período Integral – FCEPI, previstas na [Lei estadual nº 20.917](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103633), de 21 de dezembro de 2020, passam a corresponder ao seguinte:~~
+
 \- [Revogado pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174), art. 14, VI, b.
 
-~~I – 270 (duzentos e setenta) para a Função Comissionada Educacional de Gestor Escolar dos Centros de Ensino em Período Integral; e~~<br>
+~~I – 270 (duzentos e setenta) para a Função Comissionada Educacional de Gestor Escolar dos Centros de Ensino em Período Integral; e~~
+
 \- [Revogado pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174), art. 14, VI, b.
 
-~~II – 440 (quatrocentos e quarenta) para a Função Comissionada Educacional de Secretário Escolar e Coordenador Administrativo Financeiro dos Centros de Ensino em Período Integral.~~<br>
+~~II – 440 (quatrocentos e quarenta) para a Função Comissionada Educacional de Secretário Escolar e Coordenador Administrativo Financeiro dos Centros de Ensino em Período Integral.~~
+
 \- [Revogado pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174), art. 14, VI, b.
 
 Art. 28. Em decorrência do disposto no art. 22 desta Lei, a [Lei nº 20.115](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99991), de 06 de junho de 2018, passa a vigorar com as seguintes alterações:
@@ -503,7 +548,8 @@ RONALDO CAIADO
 
 Governador do Estado
 
-ANEXO I<br>
+ANEXO I
+
 \- [Redação dada pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 | TABELA 1 – FUNÇÃO COMISSIONADA DO CENTRO DE ATENDIMENTO EDUCACIONAL FLORESCER |
@@ -518,7 +564,8 @@ ANEXO I<br>
 | 2 | Gratificação de Supervisor do Centro de Atendimento Educacional Florescer | GRATFLOR-SUP | 1.750,00 |
 | 3 | Gratificação de Coordenador Administrativo Financeiro do Centro de Atendimento Educacional Florescer | GRATFLOR-CAF | 1.000,00 |
 
-~~ANEXO I~~<br>
+~~ANEXO I~~
+
 ~~\- [Redação dada pela Lei nº 23.259, de 26 de agosto de 2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110452), produz efeitos a partir do dia 1º do mês subsequente.~~
 
 ~~FUNÇÃO COMISSIONADA DO CENTRO DE ATENDIMENTO EDUCACIONAL FLORESCER~~
@@ -542,7 +589,8 @@ ANEXO I<br>
 | ~~FUNÇÃO COMISSIONADA DE SUPERVISOR DO CENTRO DE ATENDIMENTO EDUCACIONAL FLORESCER~~ | ~~FCEFLOR-SUP~~ | ~~1.750,00~~ |
 | ~~FUNÇÃO COMISSIONADA DE COORDENADOR ADMINSITRATIVO FINANCEIRO DO CENTRO DE ATENDIMENTO EDUCACIONAL FLORESCER~~ | ~~FCEFLOR-CAF~~ | ~~1.000,00~~ |
 
-ANEXO II<br>
+ANEXO II
+
 \- [Redação dada pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 | TABELA 1 – FUNÇÃO COMISSIONADA EDUCACIONAL DO CENTRO DE ESTUDO E PESQUISA CIRANDA DA ARTE |
@@ -555,7 +603,8 @@ ANEXO II<br>
 | TIPO | DENOMINAÇÃO | SÍMBOLO | VALOR MENSAL |
 | 1 | Gratificação de Secretário do Centro de Estudo e Pesquisa Ciranda da Arte | GRATCECA-SEC | 1.000,00 |
 
-~~ANEXO II~~<br>
+~~ANEXO II~~
+
 ~~\- [Redação dada pela Lei nº 23.259, de 26 de agosto de 2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110452)~~
 
 | ~~TABELA 1 – FUNÇÃO COMISSIONADA EDUCACIONAL DO CENTRO DE ESTUDO E PESQUISA CIRANDA DA ARTE~~ |
@@ -568,7 +617,8 @@ ANEXO II<br>
 | ~~TIPO~~ | ~~DENOMINAÇÃO~~ | ~~SÍMBOLO~~ | ~~VALOR MENSAL~~ |
 | ~~1~~ | ~~Gratificação de Secretário do Centro de Estudo e Pesquisa Ciranda da Arte~~ | ~~GRATCECA-SEC~~ | ~~1.000,00~~ |
 
-~~FUNÇÃO COMISSIONADA DO CENTRO DE ESTUDO E PESQUISA CIRANDA DA ARTE~~<br>
+~~FUNÇÃO COMISSIONADA DO CENTRO DE ESTUDO E PESQUISA CIRANDA DA ARTE~~
+
  
 
 | ~~DENOMINAÇÃO~~ | ~~SÍMBOLO~~ | ~~VALOR MENSAL~~ |
@@ -576,7 +626,8 @@ ANEXO II<br>
 | ~~FUNÇÃO COMISSIONADA DE DIRETOR DO CENTRO DE ESTUDO E PESQUISA CIRANDA DA ARTE~~ | ~~FCECECA-DIR~~ | ~~3.500,00~~ |
 | ~~FUNÇÃO COMISSIONADA DE SECRETÁRIO DO CENTRO DE ESTUDO E PESQUISA CIRANDA DA ARTE~~ | ~~FCECECA-SEC~~ | ~~1.000,00~~ |
 
-ANEXO III<br>
+ANEXO III
+
 \- [Revogado pela lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174), art. 14, VI, c.
 
 ~~[Lei nº 20.115](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/99991), de 06 de junho de 2018~~
@@ -589,7 +640,7 @@ ANEXO III<br>
 
 | ~~Tipologia~~ | ~~Sigla~~ | ~~Alunos~~ | ~~FC fixo~~ | ~~Frequência~~ |
 | --- | --- | --- | --- | --- |
-|   |   |   |   | ~~**FC variável****\-1**~~ | ~~**FC variável****\-2**~~ | ~~**FC variável****\-3**~~ |
+|   |   |   |   | ~~**FC variável\-1**~~ | ~~**FC variável\-2**~~ | ~~**FC variável\-3**~~ |
 | ~~1~~ | ~~FCEGE~~ | ~~1 a 50~~ | ~~1.100,00~~ | ~~900,00~~ | ~~1.000,00~~ | ~~1.100,00~~ |
 | ~~2~~ | ~~FCEGE~~ | ~~51 a 100~~ | ~~1.150,00~~ | ~~950,00~~ | ~~1.050,00~~ | ~~1.150,00~~ |
 | ~~3~~ | ~~FCEGE~~ | ~~101 a 150~~ | ~~1.200,00~~ | ~~1.000,00~~ | ~~1.100,00~~ | ~~1.200,00~~ |
@@ -734,7 +785,7 @@ c) FUNÇÃO COMISSIONADA EDUCACIONAL – FCE, SEDUC
 | TABELA 4 FUNÇÃO COMISSIONADA DE GESTOR ESCOLAR – UNIDADES PARCIAIS |
 | --- |
 | **Tipologia** | **Sigla** | **Alunos** | **FC fixo** | **Frequência** |
-|   |   |   |   | **FC variável****\-1** | **FC variável****\-2** | **FC variável****\-3** |
+|   |   |   |   | **FC variável\-1** | **FC variável\-2** | **FC variável\-3** |
 | 1 | FCEGE | 1 a 50 | 1.100,00 | 900,00 | 1.000,00 | 1.100,00 |
 | 2 | FCEGE | 51 a 100 | 1.150,00 | 950,00 | 1.050,00 | 1.150,00 |
 | 3 | FCEGE | 101 a 150 | 1.200,00 | 1.000,00 | 1.100,00 | 1.200,00 |

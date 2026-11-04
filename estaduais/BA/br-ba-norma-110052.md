@@ -6,7 +6,8 @@ O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DA BAHIA, no uso de atribuiç�
 
 Art. 1º - Fica declarada de utilidade pública a ASSOCIAÇÃO OBRA DO CÉNACULO DA CARIDADE A SERVIÇO DOS POBRES, com sede e foro no município de Feira de Santana.
 
-Redação do art. 1º de acordo com o art. [1](https://www.legislabahia.ba.gov.br/documentos/lei-no-9643-de-02-de-agosto-de-2005#art1) da , de 02 de agosto de 2005.<br>
+Redação do art. 1º de acordo com o art. [1](https://www.legislabahia.ba.gov.br/documentos/lei-no-9643-de-02-de-agosto-de-2005#art1) da , de 02 de agosto de 2005.
+
 Redação original: "Art. 1º - Fica declarada de utilidade pública a OBRA DO CENÁCULO DA CARIDADE A SERVIÇO DOS POBRES, com sede e foro no município de Feira de Santana."
 
 Art. 2º - Esta Lei entra em vigor na data de sua publicação.

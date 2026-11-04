@@ -1,5 +1,3 @@
-###DEC-061731-0-000-23-11-1967@@@
-
 DECRETO Nº 61.731, DE 23 DE NOVEMBRO DE 1967.
 
 Abre ao Ministério do Interior, em favor da Seção Brasileira da Comissão Mista Brasileiro – Uruguaia para o Desenvolvimento da Bacia da Lagoa Mirim, o crédito especial de NCr$570.000,00 (quinhentos e setenta mil cruzeiros novos) para o fim que especifica.

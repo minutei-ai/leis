@@ -1,6 +1,10 @@
 > **LEI Nº 4.775, DE 19 DE JANEIRO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Permite aos estudantes de medicina formados no exterior que realizem o internato nos hospitais da rede estadual de saúde.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Permite aos estudantes de medicina formados no exterior que realizem o internato nos hospitais da rede estadual de saúde.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

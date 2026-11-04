@@ -1,5 +1,3 @@
-###DEC-051159-0-000-07-08-1961@@@
-
 DECRETO Nº 51.159, DE 7 DE AGÔSTO DE 1961.
 
 Outorga à Companhia Hidro Elétrica de California concessão para o aproveitamento de energia hidráulica de um desnível existente no curso d’água Barra Nova, município de California, Estado do Paraná.

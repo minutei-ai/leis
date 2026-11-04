@@ -1,5 +1,3 @@
-###DEC-083209-0-000-28-02-1979@@@
-
 Decreto nº 83.209, de 28 de fevereiro de 1979
 
 Concede reconhecimento ao curso de Artes Práticas, do Centro de Ensino Superior de São Carlos, com sede na cidade de São Carlos, Estado de São Paulo.

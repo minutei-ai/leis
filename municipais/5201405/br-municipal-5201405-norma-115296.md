@@ -58,5 +58,6 @@ Art. 6º Esta Lei entra em vigor na data de sua publicação.
 
 Aparecida de Goiânia, 12 de junho de 2026.
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia

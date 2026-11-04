@@ -1,5 +1,3 @@
-###DEL-008380-0-000-17-12-1945@@@
-
 DECRETO-LEI N. 8.380 – DE 17 DE DEZEMBRO DE 1945
 
 Cria o Quadro de Farmacêuticos de Aeronáutica e dá outras providências.

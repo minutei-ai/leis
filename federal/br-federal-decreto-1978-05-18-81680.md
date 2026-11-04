@@ -1,5 +1,3 @@
-###DEC-081680-0-000-18-05-1978@@@
-
 Decreto nº 81 680, de 18 de maio de 1978.
 
 Autoriza o Ministro da Fazenda a contratar operação externa e dá outras providências.

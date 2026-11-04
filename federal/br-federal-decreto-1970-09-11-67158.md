@@ -1,5 +1,3 @@
-###DEC-067158-0-000-11-09-1970@@@
-
 decreto nº 67.158, de 11 de setembro de 1970.
 
 Outorga a Mário Sampaio Lara Filho concessão para o aproveitamento da energia hidráulica de um trecho do rio Piracicaba, no distrito sede do município de Piracicaba, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-088530-0-000-18-07-1983@@@
-
 Decreto nº 88.530, de 18 de julho de 1983
 
 Declara de utilidade Pública, para fins de constituição de serviço administrativa, faixa de terra destinada à passagem do ramal de linha de transmissão da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

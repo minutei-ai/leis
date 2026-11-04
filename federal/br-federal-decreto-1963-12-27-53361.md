@@ -1,5 +1,3 @@
-###DEC-053361-0-000-27-12-1963@@@
-
 DECRETO Nº 53.361, DE 27 DE Dezembro DE 1963.
 
 Ministério da Fazenda. Exclui do Plano de Contenção de Despesas a dotação que especifica.

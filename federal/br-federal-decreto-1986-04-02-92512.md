@@ -1,5 +1,3 @@
-###DEC-092512-0-000-02-04-1986@@@
-
 # DECRETO Nº 92.512, DE 2 DE ABRIL DE 1986
 
 Estabelece normas, condições de atendimento e indenizações para a assistência médico-hospitalar ao militar e seus dependentes, e dá outras providências.

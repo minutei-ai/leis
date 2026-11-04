@@ -1,5 +1,3 @@
-###DEC-066273-0-000-26-02-1970@@@
-
 DECRETO Nº 66.273 - DE 26 DE fevereiro de 1970
 
 Outorga à Centrais Elétricas de Minas Gerais S.A., concessão para o aproveitamento hidráulico de um trecho do rio Araguari, no local denominado Capim Branco, município de Araguari, no Estado de Minas Gerais.

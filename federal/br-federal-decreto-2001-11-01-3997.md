@@ -1,5 +1,3 @@
-###DEC-003997-0-000-01-11-2001@@@
-
 DECRETO Nº 3.997, DE 1º DE NOVEMBRO DE 2001
 
 Define o órgão gestor do Fundo de Combate e Erradicação da Pobreza, regulamenta a composição e o funcionamento do seu Conselho Consultivo e de Acompanhamento, e dá outras providências.

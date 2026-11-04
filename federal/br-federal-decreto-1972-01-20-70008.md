@@ -1,5 +1,3 @@
-###DEC-070008-0-000-20-01-1972@@@
-
 DECRETO Nº 70.008, de 20 de Janeiro de 1972.
 
 Concede reconhecimento do Curso de Pedagogia, da Faculdade de Educação "Braz Cubaz".

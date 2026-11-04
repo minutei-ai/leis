@@ -1,5 +1,3 @@
-###MPV-002104-0-014-27-12-2000@@@
-
 medida provisória nº 2.014-14, de 27 de dezembro de 2000.
 
 Acresce dispositivos à Lei nº 5.859, de 11 de dezembro de 1972, que dispõe sobre a profissão de empregado doméstico, para facultar o acesso ao Fundo de Garantia do Tempo de Serviço - FGTS e ao seguro-desemprego.

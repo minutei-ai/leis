@@ -1,5 +1,3 @@
-###DEC-058561-0-000-31-05-1966@@@
-
 DECRETO Nº 58.561, de 31 de maio de 1966.
 
 Dá nova redação ao art. 4º do Decreto nº 55.749, de 11 de fevereiro de 1965, modificado pelo Decreto nº 57.635, de 14 de janeiro de 1966.

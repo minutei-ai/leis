@@ -1,5 +1,3 @@
-###DEC-087620-0-000-21-09-1982@@@
-
 Decreto nº 87.620, de 21 de setembro de 1982
 
 Dispõe sobre o procedimento administrativo para o reconhecimento da aquisição, por usucapião especial, de imóveis rurais compreendidos em terras devolutas.

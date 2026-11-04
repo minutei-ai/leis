@@ -1,5 +1,3 @@
-###DEC-061874-0-000-08-12-1967@@@
-
 DECRETO Nº 61.874, DE 8 DE DEZEMBRO DE 1967.
 
 Autoriza o Ministro da Fazenda a ratificar o Plano de Operações e Programa de Estudos Energéticos da Região Sul e dá outras providências.

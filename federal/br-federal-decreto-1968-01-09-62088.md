@@ -1,5 +1,3 @@
-###DEC-062088-0-000-09-01-1968@@@
-
 DECRETO Nº 62.088, DE 9 DE JANEIRO DE 1968.
 
 Declara de utilidade pública a “Fundação Arnaldo Vieira de Carvalho”, com sede em São Paulo, Estado de São Paulo.

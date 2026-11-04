@@ -1,5 +1,3 @@
-###DEC-093870-0-000-23-12-1986@@@
-
 DECRETO Nº 93.870, DE 23 DE DEZEMBRO DE 1986
 
 Cria o Programa de Apoio Social Especial Integrado, para cooperação no atendimento à população carente.

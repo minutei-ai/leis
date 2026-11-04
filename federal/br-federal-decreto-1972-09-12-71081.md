@@ -1,5 +1,3 @@
-###DEC-071081-0-000-12-09-1972@@@
-
 DECRETO Nº 71.081, DE 12 DE SETEMBRO DE 1972.
 
 Autoriza o funcionamento à Faculdade de Filosofia, Ciências e Letras de Duque de Caxias - RJ.

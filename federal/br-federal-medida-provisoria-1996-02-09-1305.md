@@ -1,7 +1,3 @@
-1
-
-###MPV-001305-0-000-09-02-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.305, DE 9 DE FEVEREIRO DE 1996.
 
 Dá nova redação ao art. 2º da Lei nº 8.844, de 20 de janeiro de 1994.

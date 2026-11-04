@@ -1,5 +1,3 @@
-###DEC-072809-0-000-14-09-1973@@@
-
 DECRETO Nº 72.809, DE 14 DE SETEMBRO DE 1973.
 
 Redistribui cargos, com os respectivos ocupantes, para o Quadro de pessoal das Secretarias do Ministério Público Federal, e dá outras providências.

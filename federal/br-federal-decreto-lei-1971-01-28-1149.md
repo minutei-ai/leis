@@ -1,5 +1,3 @@
-###DEL-001149-0-000-28-01-1971@@@
-
 # DECRETO-LEI Nº 1.149, DE 28 DE JANEIRO DE 1971
 
 Estabelece condições para a filiação de entidades sindicais brasileiras a organizações internacionais.

@@ -1,5 +1,3 @@
-###DEC-079242-0-000-10-02-1977@@@
-
 DECRETO Nº 79.242, DE 10 DE FEVEREIRO DE 1977.
 
 Concede reconhecimento ao curso de Ciências Contábeis, da Faculdade de Ciências Econômicas, Contábeis e de Administração de Empresas da Universidade Metodista de Piracicaba, com sede na cidade de Piracicaba, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-004115-0-000-06-02-2002@@@
-
 DECRETO Nº 4.115, DE 6 DE FEVEREIRO DE 2002.
 
 Dispõe sobre a Ordem Nacional do Mérito Científico, e dá outras providências.

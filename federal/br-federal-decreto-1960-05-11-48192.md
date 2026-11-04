@@ -1,5 +1,3 @@
-###DEC-048192-0-000-11-05-1960@@@
-
 DECRETO Nº 48.192, DE 11 DE MAIO DE 1960.
 
 Autoriza o cidadão brasileiro Antônio Morais Sobrinho a pesquisar mica, no município de Governador Valadares, Estado de Minas Gerais.

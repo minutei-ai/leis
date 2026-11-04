@@ -1,5 +1,3 @@
-###DEC-052907-0-000-22-11-1963@@@
-
 decreto nº 52.907, de 22 de novembro de 1963.
 
 Declara de utilidade pública o Instituto São Pio X, com sede em Siderópolis, Estado de Santa Catarina.

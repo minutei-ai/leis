@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/de274226-cf7d-4bcd-a5ee-bd961c0dd778/texto#nowhere)
 
-###DEL-001654-0-000-29-12-1978@@@
-
 # decreto-lei nº 1.654, de 29 de dezembro de 1978
 
 Altera o Decreto-lei nº 1.598, de 26 de dezembro de 1977.

@@ -1,5 +1,3 @@
-###DEC-081888-0-000-04-07-1978@@@
-
 Decreto nº 81.888, de 04 de julho de 1978
 
 Autoriza a transferência direta para a Fundação "Attilio Francisco Xavier Fontana", da concessão outorgada à Rádio Rural de Concórdia Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Concórdia, Estado de Santa Catarina.

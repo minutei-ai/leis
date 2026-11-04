@@ -1,5 +1,3 @@
-###DEC-000138-0-000-27-05-1991@@@
-
 DECRETO N° 138, DE 27 DE MAIO DE 1991
 
 Altera dispositivos do Decreto nº 75.911, de 26 de junho de 1975, que fixa a lotação dos Adidos Militares junto às representações diplomáticas no exterior.

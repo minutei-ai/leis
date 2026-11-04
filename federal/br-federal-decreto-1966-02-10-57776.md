@@ -1,5 +1,3 @@
-###DEC-057776-0-000-10-02-1966@@@
-
 DECRETO Nº 57.776, DE 10 DE FEVEREIRO DE 1966.
 
 Altera dispositivo do Regulamento Interno e dos Serviços Gerais, aprovado pelo Decreto nº 42.018, de 9 de agôsto de 1957.

@@ -1,5 +1,3 @@
-###DEC-064261-0-000-21-03-1969@@@
-
 DECRETO Nº 64.261, DE 21 DE MARÇO DE 1969.
 
 Declara sem efeito o Decreto número 54.510, de 21 de outubro de 1964.

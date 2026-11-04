@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62144)
-
 # LEI Nº 12.367, DE 27 DE ABRIL DE 2006
 
 ### _Dá denominação a viaduto que especifica_

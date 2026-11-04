@@ -1,5 +1,3 @@
-###DEC-076318-0-000-19-09-1975@@@
-
 DECRETO Nº 76.318 - DE 19 DE SETEMBRO DE 1975
 
 Concede à Mineração Urandi S.A. o direito de lavrar minério de manganês no Município de Licínio de Almeida, Estado da Bahia.

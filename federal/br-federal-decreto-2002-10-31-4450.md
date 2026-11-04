@@ -1,5 +1,3 @@
-###DEC-004450-0-000-31-10-2002@@@
-
 DECRETO Nº 4.450, DE 31 DE OUTUBRO DE 2002
 
 Altera o art. 2º do Decreto nº 4.049, de 12 de dezembro de 2001, que dispõe sobre a inscrição de despesas em Restos a Pagar no exercício de 2002.

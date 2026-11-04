@@ -1,5 +1,3 @@
-###DEC-078947-0-000-15-12-1976@@@
-
 DECRETO Nº 78.947, DE 15 DE DEZEMBRO de 1976.
 
 Autoriza a Universidade Federal de Santa Catarina a alienar bem imóvel de sua propriedade e dá outras providências.

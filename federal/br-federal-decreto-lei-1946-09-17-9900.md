@@ -1,5 +1,3 @@
-###DEL-009900-0-000-17-09-1946@@@
-
 DECRETO-LEI N. 9.900 – DE 17 DE SETEMBRO DE 1946
 
 Cria a Caixa Hipotecária de Liquidações e dá outras providências

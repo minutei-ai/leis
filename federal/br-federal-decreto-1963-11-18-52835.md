@@ -1,5 +1,3 @@
-###DEC-052835-0-000-18-11-1963@@@
-
 DECRETO Nº 52.835, DE 18 DE NOVEMBRO DE 1963.
 
 Renova o Decreto nº 49.623, de 30 de dezembro de 1960.

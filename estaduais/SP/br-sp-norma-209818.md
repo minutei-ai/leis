@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209818)<br>
-
 # DECRETO N° 68.751, DE 08 DE AGOSTO DE 2024
 
 ### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, por prazo determinado, do Município de Natividade da Serra, o imóvel que especifica._

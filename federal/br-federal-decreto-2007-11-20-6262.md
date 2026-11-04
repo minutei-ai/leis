@@ -1,5 +1,3 @@
-###DEC-006262-0-000-20-11-2007@@@
-
 DECRETO Nº 6.262, DE 20 DE NOVEMBRO DE 2007.
 
                              Dispõe sobre a simplificação de procedimentos para importação de bens destinados à pesquisa científica e tecnológica.
@@ -27,5 +25,3 @@ José Gomes Temporão
 Miguel Jorge
 
 Sérgio Machado Rezende
-
-Este texto não substitui o publicado no DOU de 21.11.2007

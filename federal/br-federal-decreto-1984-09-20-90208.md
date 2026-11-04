@@ -1,5 +1,3 @@
-###DEC-090208-0-000-20-09-1984@@@
-
 DecretO nº 90.208 de 20 de setembro de 1984
 
 Autoriza o funcionamento do curso de Educação Artística da Faculdade de Artes de Dourados.

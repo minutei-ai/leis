@@ -1,7 +1,3 @@
-1
-
-###DEC-098955-0-000-15-02-1990@@@
-
 DECRETO Nº 98.955, 15 DE FEVEREIRO DE 1990
 
 Autoriza o funcionamento dos cursos de Letras, História e Geografia da Faculdade de Educação, Ciências e Letras de Itapuranga.

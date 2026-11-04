@@ -1,5 +1,3 @@
-###DEL-005443-0-000-30-04-1943@@@
-
 DECRETO‑LEI N. 5.443 – DE 30 DE ABRIL DE 1943
 
 Modifica a estrutura administrativa do Serviço de Alimentação da Previ­dência Social

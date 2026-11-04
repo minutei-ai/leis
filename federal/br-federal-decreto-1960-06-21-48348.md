@@ -1,5 +1,3 @@
-###DEC-048348-0-000-21-06-1960@@@
-
 DECRETO Nº 48.348, DE 21 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Wilson Gabriel Giannetti a pesquisar calcário e mármore, no município de Iporanga, Estado de São Paulo.

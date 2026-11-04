@@ -1,6 +1,10 @@
 > **LEI Nº 3.765, DE 19 DE JULHO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o reconhecimento, para fins jurídicos e administrativos, as organizações de povos e comunidades tradicionais de matriz africana e centros espíritas como templos religiosos no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o reconhecimento, para fins jurídicos e administrativos, as organizações de povos e comunidades tradicionais de matriz africana e centros espíritas como templos religiosos no Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

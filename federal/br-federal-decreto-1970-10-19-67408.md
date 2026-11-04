@@ -1,5 +1,3 @@
-###DEC-067408-0-000-19-10-1970@@@
-
 Decreto Nº 67.408, de 19 de outubro de 1970.
 
 Declara caduco o Decreto número 10.106, de 30 de julho de 1942.

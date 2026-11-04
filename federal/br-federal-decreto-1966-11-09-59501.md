@@ -1,5 +1,3 @@
-###DEC-059501-0-000-09-11-1966@@@
-
 DECRETO Nº 59.501, DE 9 DE NOVEMBRO DE 1966.
 
 Aprova as alterações introduzidas nos Estatutos da Companhia Fidelidade de Seguros Gerais, inclusive aumento do capital social.

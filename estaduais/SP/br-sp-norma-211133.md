@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211133)<br>
-
 # DECRETO N° 69.667, DE 28 DE JUNHO DE 2025
 
 ### _Autoriza a Fazenda do Estado a receber, em comodato, por prazo determinado, parte do imóvel que especifica, e dá providências correlatas_

@@ -92,8 +92,6 @@ ARTIGO VII
 
 Feito em Beijing, aos 06 dias do mês de julho de 1988, em dois exemplares originais, nas línguas portuguesa e chinesa, sendo ambos os textos igualmente autênticos.
 
-<br>
-
 1
 
 PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:
@@ -102,6 +100,4 @@ Roberto de Abreu Sodré
 
 PELO GOVERNO DA REPÚBLICA POPULAR DA CHINA:
 
-Qian Qichen 
-
-<br>
+Qian Qichen

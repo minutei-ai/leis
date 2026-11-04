@@ -1,5 +1,3 @@
-###DEC-064183-0-000-10-03-1969@@@
-
 DECRETO Nº 64.183, DE 10 DE MARÇO DE 1969.
 
 Renovação de declaração de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Estradas de Rodagem de faixa de terreno situada no Estado do Espírito Santo.

@@ -1,7 +1,3 @@
-1
-
-###MPV-000974-0-000-20-04-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 974, DE 20 DE ABRIL DE 1995
 
 Autoriza o Poder Executivo a contratar com a Itaipu Binacional pagamento de débito junto ao Tesouro Nacional com títulos da dívida externa brasileira, denominados "Brazil Investment Bond (BIB)", em valor correspondente até US$ 92,800,000.00 (noventa e dois milhões e oitocentos mil dólares dos Estados Unidos da América).

@@ -1,5 +1,3 @@
-###DEC-062203-0-000-31-01-1968@@@
-
 DECRETO Nº 62.203, DE 31 DE JANEIRO DE 1968.
 
 Extingue o Conselho de Fiscalização de Expedições Artísticas e Científicas no Brasil e dá outras providências.

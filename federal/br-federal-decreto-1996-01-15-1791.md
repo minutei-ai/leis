@@ -1,5 +1,3 @@
-###DEC-001791-0-000-15-01-1996@@@
-
 DECRETO Nº 1.791, DE 15 DE JANEIRO DE 1996
 
 Institui, no âmbito do Ministério da Ciência e Tecnologia, o Comitê Nacional de Pesquisas Antárticas - CONAPA.

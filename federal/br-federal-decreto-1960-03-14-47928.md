@@ -1,5 +1,3 @@
-###DEC-047928-0-000-14-03-1960@@@
-
 DECRETO Nº 47.928, DE 14 DE MARÇO DE 1960.
 
 Transfere, sem aumento de despesa, função de Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Agricultura.

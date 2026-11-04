@@ -1,5 +1,3 @@
-###DEC-090635-0-000-05-12-1984@@@
-
 Decreto nº 90.635, de 05 de dezembro de 1984
 
 Outorga concessão à RÁDIO DIFUSORA DE SALINAS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Salinas, Estado de Minas Gerais.

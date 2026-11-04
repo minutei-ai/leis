@@ -1,5 +1,3 @@
-###DEC-062303-0-000-22-02-1968@@@
-
 DECRETO Nº 62.303, DE 22 DE FEVEREIRO DE 1968.
 
 Institui Grupo de trabalho para o fim que menciona.

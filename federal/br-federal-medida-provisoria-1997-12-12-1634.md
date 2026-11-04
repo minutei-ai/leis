@@ -1,5 +1,3 @@
-###MPV-001634-0-000-12-12-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.634, DE 12 DE DEZEMBRO DE 1997
 
 Dá nova redação ao art. 1º da Lei nº 9.530, de 10 de dezembro de 1997.

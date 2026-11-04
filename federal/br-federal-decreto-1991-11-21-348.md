@@ -1,7 +1,3 @@
-1
-
-###DEC-000348-0-000-21-11-1991@@@
-
 DECRETO Nº 348, DE 21 DE NOVEMBRO DE 1991
 
 Dispõe sobre as obrigações, de caráter financeiro, contraídas pelas entidades liquidandas ou em extinção e dá outras providências.

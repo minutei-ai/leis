@@ -1,5 +1,3 @@
-###DEC-060365-0-000-10-03-1967@@@
-
 decreto nº 60.365, de 10 de março de 1967.
 
 Altera o Regimento do Departamento Nacional de Saúde (D.N.S.) do Ministério da Saúde.

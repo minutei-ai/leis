@@ -1,5 +1,3 @@
-###DEC-097139-0-000-25-11-1988@@@
-
 DECRETO Nº 97.139, DE 25 DE NOVEMBRO DE 1988
 
 Autoriza empresas de telecomunicações controladas das Telecomunicações Brasileiras S.A. - TELEBRÁS a promover aumento de capital social.

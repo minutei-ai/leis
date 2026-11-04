@@ -1,5 +1,3 @@
-###DEC-079082-0-000-03-01-1977@@@
-
 DECRETO Nº 79.082, DE 3 DE JANEIRO DE 1977.
 
 Concede à Companhia de Mineração Rio Acima o direito de lavrar minério de manganês, minério de ferro, calcário, ocre, bauxita, argila e linhito, no Município de Santa Bárbara, Estado de Minas Gerais.

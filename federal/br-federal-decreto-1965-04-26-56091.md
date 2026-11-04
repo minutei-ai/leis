@@ -1,5 +1,3 @@
-###DEC-056091-0-000-26-04-1965@@@
-
 DECRETO Nº 56.091, DE 26 DE ABRIL DE 1965.
 
 Concede à Mineração Massangana Limitada autorização para funcionar como emprêsa de mineração.

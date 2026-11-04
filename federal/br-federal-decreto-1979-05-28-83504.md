@@ -1,5 +1,3 @@
-###DEC-083504-0-000-28-05-1979@@@
-
 decreto nº 83.504, de 28 de Maio de 1979.
 
 Autoriza o funcionamento do curso de Pedagogia da Fundação Educacional de Itaboraí, Estado do Rio de Janeiro.

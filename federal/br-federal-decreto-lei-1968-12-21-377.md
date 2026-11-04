@@ -1,5 +1,3 @@
-###DEL-000377-0-000-21-12-1968@@@
-
 DECRETO-LEI Nº 377, DE 21 DE DEZEMBRO DE 1968
 
 Amplia a faculdade prevista no artigo 2º da Lei nº 1.888, de 13 de junho de 1953.

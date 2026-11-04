@@ -1,5 +1,3 @@
-###DEL-003291-0-000-21-05-1941@@@
-
 DECRETO-LEI N. 3.291 – DE 21 DE MAIO DE 1941
 
 Dispõe sobre a concessão de vantagens especiais aos funcionários e Extranumerários de Missões Diplomáticas e Repartições Consulares e dá outras providências.

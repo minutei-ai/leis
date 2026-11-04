@@ -1,5 +1,3 @@
-###DEC-047744-0-000-03-02-1960@@@
-
 DECRETO Nº 47.744, DE 3 DE FEVEREIRO DE 1960.
 
 Concede à Marinha de Guerra de Portugal o prêmio “Marinha do Brasil”.

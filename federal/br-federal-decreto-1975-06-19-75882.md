@@ -1,5 +1,3 @@
-###DEC-075882-0-000-19-06-1975@@@
-
 decreto nº 75.882, de 19 de Junho de 1975.
 
 Declara a caducidade da concessão outorgada a D'Andretta e Cia. Limitada, para lavrar calcário no Município de Itapeva, Estado de São Paulo.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098870-0-000-24-01-1990@@@
-
 DECRETO Nº 98.870, DE 24 DE JANEIRO DE 1990
 
 Renova a concessão outorgada à RÁDIO DIFUSORA DE TRÊS PASSOS LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Três Passos, Estado do Rio Grande do Sul.

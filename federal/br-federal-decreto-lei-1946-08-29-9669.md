@@ -1,5 +1,3 @@
-###DEL-009669-0-000-29-08-1946@@@
-
 DECRETO-LEI N. 9.669 – DE 29 DE AGÔSTO DE 1946
 
 Regula a locação de prédios urbanos

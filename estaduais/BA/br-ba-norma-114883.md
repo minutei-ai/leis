@@ -8,7 +8,8 @@ Art. 1º - Fica o Poder Executivo autorizado a abrir na Secretaria da Fazenda, e
 
 Art. 2º - As despesas decorrentes da abertura do presente crédito correrão à conta da codificação 3.05.08 - verba 3.1.4.19-1 do orçamento em vigor.
 
-Redação de acordo com a Lei nº 2.188, de 25 de agosto de 1965.<br>
+Redação de acordo com a Lei nº 2.188, de 25 de agosto de 1965.
+
 Redação original: "Art. 2º - Esta Lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário."
 
 PALACIO DO GOVERNO DO ESTADO DA BAHIA, em 04 de janeiro de 1965.
@@ -31,4 +32,4 @@ LEIA-SE:
 
 Empresa Técnica de Organização e Comércio Ltda.
 
-* * *
+ *

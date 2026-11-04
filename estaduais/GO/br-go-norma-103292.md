@@ -30,8 +30,6 @@ Parágrafo único. Ficam ratificados os atos administrativos praticados desde a 
 
 PALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 23 de julho de 2020; 132º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

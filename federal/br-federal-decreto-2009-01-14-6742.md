@@ -1,5 +1,3 @@
-###DEC-006742-0-000-14-01-2009@@@
-
 DECRETO Nº 6.742, DE 14 DE JANEIRO DE 2009.
 
 Dispõe sobre o saldo remanescente das autorizações para criação ou provimento de cargos, empregos e funções constantes do Anexo V da Lei no 11.647, de 24 de março de 2008 - Lei Orçamentária Anual de 2008.
@@ -24,4 +22,82 @@ A N E X O
 
 Saldo remanescente para criação e/ou provimentos de cargos, empregos e funções, constantes do Anexo V da Lei no 11.647, de 24 de março de 2008 - Lei Orçamentária Anual de 2008.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:166.15pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Área</span></p></td><td style="width:116.82pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Saldo remanescente de criação de cargos</span></p></td><td style="width:116.82pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Saldo remanescente de provimentos de cargos efetivos</span></p></td><td style="width:160.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Saldo remanescente de provimentos de cargos efetivos para substituição de pessoal terceirizado</span></p></td></tr><tr><td style="width:166.15pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Auditoria e Fiscalização</span></p></td><td style="width:116.82pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.735</span><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span></p></td><td style="width:116.82pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.700</span></p></td><td style="width:160.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0</span></p></td></tr><tr><td style="width:166.15pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Gestão e Diplomacia</span></p></td><td style="width:116.82pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4537</span></p></td><td style="width:116.82pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.451</span></p></td><td style="width:160.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">89</span></p></td></tr><tr><td style="width:166.15pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Jurídica</span></p></td><td style="width:116.82pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0</span></p></td><td style="width:116.82pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.364</span></p></td><td style="width:160.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0</span></p></td></tr><tr><td style="width:166.15pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Defesa e Segurança Pública</span></p></td><td style="width:116.82pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5.942</span></p></td><td style="width:116.82pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.025</span></p></td><td style="width:160.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">144</span></p></td></tr><tr><td style="width:166.15pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cultura, Meio Ambiente e Ciência e Tecnologia</span></p></td><td style="width:116.82pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0</span></p></td><td style="width:116.82pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">269</span></p></td><td style="width:160.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.872</span></p></td></tr><tr><td style="width:166.15pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Seguridade Social, Educação e Esportes</span></p></td><td style="width:116.82pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.743</span></p></td><td style="width:116.82pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0</span></p></td><td style="width:160.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4.365</span></p></td></tr><tr><td style="width:166.15pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Regulação do Mercado, dos Serviços Públicos e do Sistema Financeiro</span></p></td><td style="width:116.82pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">75</span></p></td><td style="width:116.82pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">164</span></p></td><td style="width:160.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0</span></p></td></tr><tr><td style="width:166.15pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Indústria e Comércio, Infra-Estrutura, Agricultura e Reforma Agrária</span></p></td><td style="width:116.82pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.077</span></p></td><td style="width:116.82pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">450</span></p></td><td style="width:160.82pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">945</span></p></td></tr><tr><td style="width:166.15pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Total</span></p></td><td style="width:116.82pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">24.109</span></p></td><td style="width:116.82pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">12.423</span></p></td><td style="width:160.82pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7.415</span></p></td></tr></tbody></table>
+Área
+
+Saldo remanescente de criação de cargos
+
+Saldo remanescente de provimentos de cargos efetivos
+
+Saldo remanescente de provimentos de cargos efetivos para substituição de pessoal terceirizado
+
+Auditoria e Fiscalização
+
+1.735
+
+2.700
+
+0
+
+Gestão e Diplomacia
+
+4537
+
+3.451
+
+89
+
+Jurídica
+
+0
+
+1.364
+
+0
+
+Defesa e Segurança Pública
+
+5.942
+
+4.025
+
+144
+
+Cultura, Meio Ambiente e Ciência e Tecnologia
+
+0
+
+269
+
+1.872
+
+Seguridade Social, Educação e Esportes
+
+10.743
+
+0
+
+4.365
+
+Regulação do Mercado, dos Serviços Públicos e do Sistema Financeiro
+
+75
+
+164
+
+0
+
+Indústria e Comércio, Infra-Estrutura, Agricultura e Reforma Agrária
+
+1.077
+
+450
+
+945
+
+Total
+
+24.109
+
+12.423
+
+7.415

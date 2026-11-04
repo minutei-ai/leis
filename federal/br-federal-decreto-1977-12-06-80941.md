@@ -1,5 +1,3 @@
-###DEC-080941-0-000-06-12-1977@@@
-
 Decreto nº 80.941, de 06 de dezembro de 1977.
 
 Concede à Mineração Itapó Ltda. o direito de lavrar calcário dolomítico no Município de Piracicaba, Estado de São Paulo.

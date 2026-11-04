@@ -1,5 +1,3 @@
-###DEC-088188-0-000-17-03-1983@@@
-
 DECRETO Nº 88.188, DE 17 DE MARÇO DE 1983
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Alenquer, no Estado do Pará, e dá outras providências.

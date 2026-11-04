@@ -1,5 +1,3 @@
-###DEC-078690-0-000-09-11-1976@@@
-
 DECRETO Nº 78.690, DE 9 DE NOVEMBRO DE 1976.
 
 Concede autorização à Companhia Geophysical Sevice Inc. para operar no mar territorial do Brasil a embarcação M/V Caribbean Seal, de nacionalidade norte-americana, serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

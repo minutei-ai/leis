@@ -1,5 +1,3 @@
-###DEC-056428-0-000-07-06-1965@@@
-
 DECRETO Nº 56.428, de 7 junho de 1965.
 
 Aprova alteração introduzida nos Estatutos da Companhia de Seguros Argos Fluminense, relativa ao aumento dos honorários da Diretoria.

@@ -1,5 +1,3 @@
-###DEC-056734-0-000-17-08-1965@@@
-
 DECRETO Nº 56.734, DE 17 DE AGôSTO DE 1965.
 
 Autoriza o cidadão brasileiro Jacy de Azevedo Lima a pesquisar caulim, no Município de Espera Feliz, Estado de Minas Gerais.

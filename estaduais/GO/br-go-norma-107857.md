@@ -32,7 +32,8 @@ b) Suplente:Vitor Ottoboni Porto Miglino - CPF: \*\*\*.766.608-\*\*;
 
 IV - Secretaria de Estado da Administração:
 
-a) Titular: Adriano Abreu de Castro - CPF: \*\*\*.548.201-\*\*.<br>
+a) Titular: Adriano Abreu de Castro - CPF: \*\*\*.548.201-\*\*.
+
 \- [Redação dada pela Resolução nº 4/2023, de3 31-10-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108073).
 
 ~~a) Titular: Daniela Hinhug - CPF: \*\*\*.420.581-\*\*;~~
@@ -41,7 +42,8 @@ b) Suplente: Maria Gilvana de Castro - CPF: \*\*\*.377.991-\*\*;
 
 V - Procuradoria-Geral do Estado:
 
-a) Titular: Thiago Araújo Barbosa de Lima - CPF: \*\*\*.979.071-\*\*.<br>
+a) Titular: Thiago Araújo Barbosa de Lima - CPF: \*\*\*.979.071-\*\*.
+
 \- [Redação dada pela Resolução nº 3/2023, de 9-8-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107859/resolucao-3).
 
 ~~a) Titular: Luciana B. Bettini e Souza de Rezende - CPF: \*\*\*.244.641-\*\*;~~
@@ -70,27 +72,34 @@ Art. 9º Esta Resolução entra em vigor na data de sua publicação.
 
 Goiânia, 13 de julho de 2023.
 
-<br>
+Conselho de Governo do Estado de Goiás.
 
-Conselho de Governo do Estado de Goiás.<br>
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado Presidente do Conselho de Governo
 
-ADRIANO DA ROCHA LIMA<br>
-Secretário-Chefe da Secretaria-Geral da Governadoria<br>
+ADRIANO DA ROCHA LIMA
+
+Secretário-Chefe da Secretaria-Geral da Governadoria
+
 Coordenador do Conselho de Governo
 
-RAFAEL ARRUDA OLIVEIRA<br>
+RAFAEL ARRUDA OLIVEIRA
+
 Procurador-Geral do Estado
 
-FRANCISCO SÉRVULO FREIRE NOGUEIRA<br>
+FRANCISCO SÉRVULO FREIRE NOGUEIRA
+
 Secretário de Estado da Administração
 
-JORGE LUIS PINCHEMEL<br>
+JORGE LUIS PINCHEMEL
+
 Secretário de Estado da Casa Civil
 
-SELENE PERES PERES NUNES<br>
+SELENE PERES PERES NUNES
+
 Secretária de Estado da Economia
 
-HENRIQUE MORAES ZILLER<br>
+HENRIQUE MORAES ZILLER
+
 Secretário-Chefe da Controladoria-Geral do Estado

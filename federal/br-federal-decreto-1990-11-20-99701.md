@@ -1,7 +1,3 @@
-1
-
-###DEC-099701-0-000-20-11-1990@@@
-
 DECRETO N° 99.701, DE 20 DE NOVEMBRO DE 1990
 
 Dispõe sobre a execução do Quinto Protocolo Adicional ao Acordo de Alcance Parcial de Complementação Econômica, entre o Brasil e a Argentina (Acordo n° 7).

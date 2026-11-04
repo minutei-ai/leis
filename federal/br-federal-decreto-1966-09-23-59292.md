@@ -1,5 +1,3 @@
-###DEC-059292-0-000-23-09-1966@@@
-
 DECRETO Nº 59.292, DE 23 DE SETEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Irineu Rodrigues de Souza a lavrar minério de ferro, nos municípios de Piracema e Destêrro de Entre Rios; no Estado de Minas Gerais.

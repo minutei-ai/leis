@@ -1,5 +1,3 @@
-###DEC-092287-0-000-09-01-1986@@@
-
 DECRETO Nº 92.287, DE 09 DE JANEIRO DE 1986
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Vista Grande", compreendido no referida área, no Município de Miracatu, no Estado de São Paulo, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-049166-0-000-01-11-1960@@@
-
 DECRETO Nº 49.166, DE 1º DE Novembro DE 1960.
 
 Cria Cargos e funções gratificadas no Quadro de Pessoal do Instituto de Aposentadorias e Pensões dos Empregados em Transportes e Cargas e dá outras providencias.

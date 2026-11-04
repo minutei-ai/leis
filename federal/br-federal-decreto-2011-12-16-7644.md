@@ -1,5 +1,3 @@
-###DEC-007644-0-000-16-12-2011-PUB-01@@@
-
 DECRETO N° 7.644, DE 16 DE DEZEMBRO DE 2011
 
 Regulamenta o Programa de Fomento às Atividades Produtivas Rurais, instituído pela Lei n° 12.512, de 14 de outubro de 2011.

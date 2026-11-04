@@ -1,5 +1,3 @@
-###DEC-094245-0-000-22-04-1987@@@
-
 DECRETO Nº 94.245, DE 22 DE ABRIL DE 1987
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO EDUCADORA RURAL DE JACAREZINHO Ltda., para a FUNDAÇÃO EDUCACIONAL DOM PEDRO FELIPAK.

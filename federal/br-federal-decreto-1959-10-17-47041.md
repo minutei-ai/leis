@@ -1,5 +1,3 @@
-###DEC-047041-0-000-17-10-1959@@@
-
 DECRETO Nº 47.041, DE 17 DE OUTUBRO DE 1959.
 
 Concede à Universidade de Goiás regalias de Universidade livre equiparada e aprovada o seu Estatuto.

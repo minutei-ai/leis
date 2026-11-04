@@ -1,5 +1,3 @@
-###DEC-071413-0-000-21-11-1972@@@
-
 DECRETO N.º 71.413 - DE 21 DE NOVEMBRO DE 1972.
 
 Concede à Mineração e Cimento Vale do Itajaí S.A. - CIMENVALE o direito de lavrar calcário, no município de Vidal Ramos, Estado de Santa Catarina.

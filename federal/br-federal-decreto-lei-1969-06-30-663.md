@@ -1,5 +1,3 @@
-###DEL-000663-0-000-30-06-1969@@@
-
 DECRETO-LEI Nº 66, DE 30 DE JUNHO DE 1969
 
 Aprova a Convenção nº 125, da Organização Internacional do Trabalho, sôbre Certificados de capacidade dos pescadores.

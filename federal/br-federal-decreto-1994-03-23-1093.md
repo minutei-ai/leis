@@ -1,7 +1,3 @@
-1
-
-###DEC-001093-0-000-23-03-1994@@@
-
 DECRETO Nº 1.093, DE 3 DE MARÇO DE 1994
 
 Regulamenta a Lei Complementar nº 79, de 7 de janeiro de 1994, que cria o Fundo Penitenciário Nacional (FUNPEN), e dá outras providências.

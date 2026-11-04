@@ -1,7 +1,3 @@
-1
-
-###MPV-001166-0-000-26-10-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.166, DE 26 DE OUTUBRO DE 1995.
 
 Dispõe sobre a instituição de crédito presumido do Imposto sobre Produtos Industrializados, para ressarcimento do valor do PIS/PASEP e COFINS nos casos que especifica, e dá outras providências.

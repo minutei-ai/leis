@@ -1,5 +1,3 @@
-###DEC-058088-0-000-28-03-1966@@@
-
 DECRETO Nº 58088, DE 28 DE MARÇO DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da Companhia Espirito Santo de Seguros relativo ao aumento do capital social.

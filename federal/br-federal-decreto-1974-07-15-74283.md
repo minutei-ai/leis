@@ -1,5 +1,3 @@
-###DEC-074283-0-000-15-07-1974@@@
-
 DECRETO Nº 74.283 - DE 15 DE JULHO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Assunção Cearense Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Fortaleza, Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEC-071607-0-000-22-12-1972@@@
-
 DECRETO Nº 71.607 - de 22 de dezembro de 1972
 
 Concede reconhecimento do curso de Matemática da Faculdade de Filosofia, Ciências e Letras de Sorocaba, mantida pela Fundação Dom Aguirre - Sorocaba -SP.

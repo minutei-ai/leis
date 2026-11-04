@@ -1,5 +1,3 @@
-###DEC-086595-0-000-17-11-1981@@@
-
 Decreto nº 86.595, de 17 de novembro de 1981
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural situado no Município de Pacatuba, no Estado de Sergipe, constituído de parte da "Fazenda Santana" e compreendido na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 86.594, de 17 de novembro de 1981.

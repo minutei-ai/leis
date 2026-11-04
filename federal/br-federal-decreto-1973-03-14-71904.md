@@ -1,5 +1,3 @@
-###DEC-071904-0-000-14-03-1973@@@
-
 DECRETO Nº 71.904, DE 14 DE MARÇO DE 1973.
 
 Declara interdita , para fins de atração de grupo indígena, área que discrimina, no Município de Chapada dos Guimarães, Estado de Mato Grosso.

@@ -1,5 +1,3 @@
-###DEC-007621-0-000-21-11-2011-PUB-01@@@
-
 DECRETO N°\- 7.621, DE 21 DE NOVEMBRO DE 2011
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da Ucrânia sobre Isenção Parcial de Vistos, firmado em Kiev, em 2 de dezembro de 2009.

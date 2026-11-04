@@ -1,5 +1,3 @@
-###DEC-060929-0-000-03-07-1967@@@
-
 DECRETO Nº 60.929, DE 3 DE JULHO DE 1967.
 
 Altera a designação de estabelecimento de ensino.

@@ -1,5 +1,3 @@
-###DEL-003614-0-000-12-09-1941@@@
-
 DECRETO-LEI N. 3.614 – DE 12 DE SETEMBRO DE 1941
 
 Altera, sem aumento de despesa, o atual orçamento do Ministério da Educação e Saude

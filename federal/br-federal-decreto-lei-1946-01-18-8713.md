@@ -1,5 +1,3 @@
-###DEL-008713-0-000-18-01-1946@@@
-
 DECRETO-LEI N. 8.713 – DE 18 DE JANEIRO DE 1946
 
 Altera, sem aumento de despesa, o atual orçamento do Ministério da Agricultura

@@ -1,5 +1,3 @@
-###DEC-080666-0-000-03-11-1977@@@
-
 DECRETO Nº 80.666, DE 03 DE NOVEMBRO DE 1977.
 
 Prorroga o prazo de intervenção governamental nas áreas prioritárias, para fins de reforma agrária, de que tratam, os Decretos nºs 73.072, de 1º/11/73, e 74.366, de 7/8/74, e dá outras providências.

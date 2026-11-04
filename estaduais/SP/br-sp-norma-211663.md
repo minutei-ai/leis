@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211663)<br>
-
 # LEI N° 18.292, DE 14 DE OUTUBRO DE 2025
 
 ## (Projeto de lei n° 91/2025, do Deputado Rafael Saraiva - UNIÃO)

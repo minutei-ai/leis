@@ -1,5 +1,3 @@
-###DEL-000649-0-000-25-06-1969@@@
-
 Decreto-lei nº 649, de 25 DE JUNHO DE 1969
 
 Dispõe sôbre a isenção das taxas de melhoramentos de portos e renovação da Marinha Mercante para mercadorias, equipamentos, combustíveis e lubrificantes importados e a importar pela e para a Companhia de Eletricidade do Amapá - CEA.

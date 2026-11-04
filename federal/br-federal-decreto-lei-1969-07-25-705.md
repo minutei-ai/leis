@@ -1,5 +1,3 @@
-###DEL-000705-0-000-25-07-1969@@@
-
 DECRETO-LEI Nº 705, DE 25 DE JULHO DE 1969
 
 Altera a redação do artigo 22 da Lei nº 4.024 de 20 de dezembro de 1961.

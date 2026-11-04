@@ -1,5 +1,3 @@
-###DEC-047633-0-000-15-01-1960@@@
-
 DECRETO Nº 47.633, DE 15 DE JANEIRO DE 1960.
 
 Autoriza a Companhia Cimento Brasileiro a lavrar calcário no município de Cachoeira do Sul, Estado do Rio Grande do Sul.

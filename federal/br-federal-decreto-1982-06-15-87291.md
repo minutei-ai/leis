@@ -1,5 +1,3 @@
-###DEC-087291-0-000-15-06-1982@@@
-
 Decreto nº 87.291, de 15 de junho de 1982
 
 Autoriza o aumento do Capital Social da Espírito Santo Centrais Elétricas S.A. - ESCELSA.

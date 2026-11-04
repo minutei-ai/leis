@@ -1,5 +1,3 @@
-###DEC-084240-0-000-26-11-1979@@@
-
 Decreto nº 84.240, de 26 de novembro de 1979.
 
 Transforma em Secretaria o Departamento de Aplicação Tecnológicas e dá outras providências.

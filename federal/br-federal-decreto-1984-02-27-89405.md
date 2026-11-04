@@ -1,5 +1,3 @@
-###DEC-089405-0-000-27-02-1984@@@
-
 Decreto nº 89.405, de 27 de fevereiro de 1984
 
 Fixa o limite a que se refere o artigo 27 do Decreto-lei nº 2.065, de 26 de outubro de 1983.

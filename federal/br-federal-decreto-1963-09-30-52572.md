@@ -1,5 +1,3 @@
-###DEC-052572-0-000-30-09-1963@@@
-
 DECRETO Nº 52.572, DE 30 DE SETEMBRO DE 1963.
 
 Autoriza o Município de Sacramento a construir sistema de distribuição.

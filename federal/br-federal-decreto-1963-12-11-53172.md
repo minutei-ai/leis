@@ -1,5 +1,3 @@
-###DEC-053172-0-000-11-12-1963@@@
-
 Decreto nº 53.172, de 11 de dezembro de 1963.
 
 Autoriza a Centrais Elétricas de Goiás S.A. (CELG) a ampliar seu sistema de transmissão.

@@ -1,5 +1,3 @@
-###DEC-094815-0-000-01-09-1987@@@
-
 DECRETO N° 94 815, DE 1° DE SETEMBRO DE 1987
 
 Reajusta o valor do Piso Nacional de Salário.

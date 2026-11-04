@@ -1,5 +1,3 @@
-###DEC-051375-0-000-20-12-1961@@@
-
 DECRETO Nº 51.375, DE 20 DE DEZEMBRO DE 1961.
 
 Abre, ao Ministério da Saúde, o crédito especial de Cr$5.000.000,00, destinado a auxiliar a construção do Hospital São Domingos, da Escola de Enfermagem Frei Eugênio, de Uberaba, Estado de Minas Gerais.

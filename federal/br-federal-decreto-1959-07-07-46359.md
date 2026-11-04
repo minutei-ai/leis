@@ -1,5 +1,3 @@
-###DEC-046359-0-000-07-07-1959@@@
-
 DECRETO Nº 46.359, DE 7 DE JULHO DE 1959.
 
 Dispõe sôbre as medidas necessárias à construção de barragem, no Parnaíba, possibilitando a produção de eletricidade para o Piauí, o leste maranhense e o oeste cearense, e boas condições de navegabilidade pelo menos em 800 quilômetros do mesmo rio.

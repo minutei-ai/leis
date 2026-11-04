@@ -1,5 +1,3 @@
-###DEC-085170-0-000-16-09-1980@@@
-
 Decreto nº 85.170 de 16 de setembro de 1980
 
 Autoriza o funcionamento do curso de Formação de Tecnólogo em Processamento de Dados, da Faculdade Católica de Tecnologia, com sede em Brasília, Distrito Federal.

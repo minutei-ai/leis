@@ -1,5 +1,3 @@
-###DEC-088127-0-000-01-03-1983@@@
-
 Decreto nº 88.127, de 01 de março de 1983.
 
 Promulga o Acordo Básico de Cooperação Científica e Técnica, entre a Governo da República Federativa do Brasil e a República do Panamá.
@@ -112,4 +110,12 @@ ARTIGO XI
 
 Feito em Panamá, aos 9 dias do mês de ABRIL de 1981, em dois exemplares, nos idiomas português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA DO PANAMÁ:</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA DO PANAMÁ:
+
+</td></tr></tbody></table>

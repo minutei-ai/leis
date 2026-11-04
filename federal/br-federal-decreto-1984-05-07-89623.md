@@ -1,5 +1,3 @@
-###DEC-089623-0-000-07-05-1984@@@
-
 DECRETO nº 89.623, dE 07 de maio de 1984
 
 Autoriza o funcionamento do curso de Formação de Professores para a Parte Especial do Currículo do Ensino de 2º grau, pela Faculdade de Educação Técnica, no Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-053426-0-000-20-01-1964@@@
-
 DECRETO Nº 53.426, DE 20 DE JANEIRO DE 1964.
 
 Autoriza a Companhia de Tecidos Paulista a lavrar fosforita, no município de Paulista, Estado de Pernambuco.

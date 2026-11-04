@@ -1,5 +1,3 @@
-###DEL-008289-0-000-05-12-1945@@@
-
 DECRETO-LEI N.  8.289 – DE 5 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Agricultura o crédito suplementar de Cr$ 143.000,00 às verbas que especifica:

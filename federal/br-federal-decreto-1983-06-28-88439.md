@@ -1,5 +1,3 @@
-###DEC-088439-0-000-28-06-1983@@@
-
 Decreto nº 88.439, de 28 de junho de 1983
 
 Dispõe sobre a regulamentação do exercício da profissão de Biomédico de acordo com a Lei nº 6.684, de 03 de setembro de 1979 e de conformidade com a alteração estabelecida pela Lei nº 7.017, de 30 de agosto de 1982.

@@ -1,5 +1,3 @@
-###DEC-076359-0-000-02-10-1975@@@
-
 DECRETO Nº 76.359, DE 2 DE OUTUBRO DE 1975.
 
 Renova por 10 (dez) anos a concessão à Radio Cultura de Cuiabá Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Cuiabá, Estado de Mato Grosso.

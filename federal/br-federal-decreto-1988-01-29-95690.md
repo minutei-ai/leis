@@ -1,7 +1,3 @@
-1
-
-###DEC-095690-0-000-29-01-1988@@@
-
 DECRETO N° 95.690, DE 29 DE JANEIRO DE 1988
 
 Autoriza a reversão de área que menciona, e dá outras providências.

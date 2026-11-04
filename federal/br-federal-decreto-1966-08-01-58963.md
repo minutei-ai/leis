@@ -1,5 +1,3 @@
-###DEC-058963-0-000-01-08-1966@@@
-
 DECRETO Nº 58.963, DE 1 DE AGôSTO DE 1966.
 
 Autoriza o cidadão brasileiro Joseph Nigri a pesquisar argila e areia quartzosa, no município de Suzano, Estado de São Paulo.

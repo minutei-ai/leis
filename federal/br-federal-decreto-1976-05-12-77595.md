@@ -1,5 +1,3 @@
-###DEC-077595-0-000-12-05-1976@@@
-
 DECRETO Nº 77.595 - DE 12 DE MAIO DE 1976.
 
 Concede à Companhia de Cimento Salvador o direito de lavrar calcário conchilífero e coralíneo no Município de Salvador, Estado da Bahia.

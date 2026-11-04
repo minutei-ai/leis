@@ -1,5 +1,3 @@
-###DEC-050860-0-000-27-06-1961@@@
-
 DECRETO Nº 50.860, DE 27 DE JUNHO DE 1961.
 
 Renova a declaração de utilidade pública o que se refere o Decreto número 36.675, de 28 de dezembro de 1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área do terreno necessária à construção do açude público Colégio, no Município de Pôrto Real de Colégio, no Estado de Alagoas.

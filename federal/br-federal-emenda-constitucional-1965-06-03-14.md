@@ -1,16 +1,14 @@
-###EMC-000014-0-000-03-06-1965@@@
+**EMENDA CONSTITUICIONAL Nº 14**
 
-<strong>EMENDA CONSTITUICIONAL Nº 14</strong>
+**AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL** promulgam, nos têrmos do art. 217 § 4º, da Constituição, a seguinte emenda ao texto constitucional:
 
-<strong>AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL</strong> promulgam, nos têrmos do art. 217 § 4º, da Constituição, a seguinte emenda ao texto constitucional:
-
-<strong>Art</strong>. 1º O inciso IX do art. 124 e art. 139 da Constituição passam a ter a seguinte redação:
+**Art**. 1º O inciso IX do art. 124 e art. 139 da Constituição passam a ter a seguinte redação:
 
 “Art. 124.................................................................................................................................
 
 IX - Compete privativamente ao Tribunal de Justiça processar e julgar os Juízes de inferior instância, nos crimes comuns e nos de responsabilidade, ressalvada a competência da Justiça Eleitoral, quando se tratar de crimes eleitorais (art. 119, nº VII).
 
-<strong>Art</strong>. 139. São também inelegíveis:
+**Art**. 139. São também inelegíveis:
 
 I - Para Presidente e Vice-Presidente da República:
 
@@ -26,7 +24,7 @@ a) em cada Estado o governador que haja exercido o cargo, por qualquer tempo, no
 
 b) até um ano depois de afastados definitivamente das funções, o Presidente, o Vice-Presidente da República e os substitutos que hajam assumido a presidência;
 
-c) até três meses depois de cessadas definitivamente as funções, os que forem inelegíveis para Presidente da República, salvo os mencionados nas alíneas <em>a</em> e <em>b</em> dêste número; e, ainda, os chefes dos gabinetes civil e militar da Presidência da República e os governadores de outros Estados;
+c) até três meses depois de cessadas definitivamente as funções, os que forem inelegíveis para Presidente da República, salvo os mencionados nas alíneas *a* e *b* dêste número; e, ainda, os chefes dos gabinetes civil e militar da Presidência da República e os governadores de outros Estados;
 
 d) em cada Estado, até três meses depois de cessadas definitivamente as funções, os comandantes de região, zona aérea, distrito naval, guarnição militar e polícia militar, o vice-governador, os secretários de Estado, o chefe do Ministério Público, os presidentes, superintendentes e diretores de bancos do Estado, sociedades de economia mista e autarquias estaduais, assim como os dirigentes de órgãos e serviços da União e do Estado, qualquer que seja a natureza jurídica de sua organização, que executem obras ou apliquem recursos públicos;
 
@@ -54,7 +52,7 @@ b) quem não contar, pelo menos, quatro anos de domicílio eleitoral no Estado.
 
 § 2º Não se fará a exigência de domicílio eleitoral a quem haja desempenhado mandato eletivo do Estado ou no Município, bem assim para pleitos no Distrito Federal.”
 
-<strong>Art</strong>. 2º Além dos casos previstos nos arts. 138, 139 e 140 da Constituição, lei especial poderá estabelecer novas inelegibilidades, desde que fundadas na necessidade de preservação;
+**Art**. 2º Além dos casos previstos nos arts. 138, 139 e 140 da Constituição, lei especial poderá estabelecer novas inelegibilidades, desde que fundadas na necessidade de preservação;
 
 I - do regime democrático (art. 141, § 13);
 
@@ -66,4 +64,58 @@ Parágrafo único. Projeto que disponha sôbre a matéria dêste artigo, para tr
 
 Brasília, 3 de junho de 1965.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>A Mesa da Câmara dos Deputados</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>A Mesa do Senado Federal</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Bilac Pinto</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Auro Moura Andrade</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Presidente</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Presidente</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Batista Ramos </span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Camilo Nogueira da Gama</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>1º Vice-Presidente</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Vice-Presidente</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Mário Gomes</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Dinarte Mariz</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>2º Vice-Presidente</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>1º Secretário</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Nilo Coelho </span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Gilberto Marinho</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>1º Secretário</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>2º Secretário</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Henrique La Rocque</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Adalberto Sena</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>2º Secretário</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>3º Secretário</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Emílio Gomes</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Cattete Pinheiro</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>3º Secretário</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>4º Secretário</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Nogueira Rezende</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>4º Secretário</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore"><span>&nbsp;</span></span></p></td></tr></tbody></table>
+A Mesa da Câmara dos Deputados
+
+A Mesa do Senado Federal
+
+Bilac Pinto
+
+Auro Moura Andrade
+
+Presidente
+
+Presidente
+
+Batista Ramos
+
+Camilo Nogueira da Gama
+
+1º Vice-Presidente
+
+Vice-Presidente
+
+Mário Gomes
+
+Dinarte Mariz
+
+2º Vice-Presidente
+
+1º Secretário
+
+Nilo Coelho
+
+Gilberto Marinho
+
+1º Secretário
+
+2º Secretário
+
+Henrique La Rocque
+
+Adalberto Sena
+
+2º Secretário
+
+3º Secretário
+
+Emílio Gomes
+
+Cattete Pinheiro
+
+3º Secretário
+
+4º Secretário
+
+Nogueira Rezende
+
+4º Secretário

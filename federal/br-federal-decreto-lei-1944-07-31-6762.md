@@ -1,5 +1,3 @@
-###DEL-006762-0-000-31-07-1944@@@
-
 DECRETO-LEI N. 6.762 – DE 31 DE JULHO DE 1944
 
 Cria cargos de provimento efetivo, no Quadro da Justiça – Parte Permanente, do Ministério da Justiça e Negócios Interiores

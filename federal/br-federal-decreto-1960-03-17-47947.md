@@ -1,5 +1,3 @@
-###DEC-047947-0-000-17-03-1960@@@
-
 DECRETO Nº 47.947, DE 17 DE MARÇO DE 1960.
 
 Revigora, até 30 de junho de 1960, o prazo a que se e refere o art. 5º do Decreto número 45.401, de 6 de fevereiro de 1959.

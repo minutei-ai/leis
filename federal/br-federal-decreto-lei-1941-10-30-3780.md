@@ -1,5 +1,3 @@
-###DEL-003780-0-000-30-10-1941@@@
-
 DECRETO-LEI N. 3.780 – DE 30 DE OUTUBRO DE 1941
 
 Retifica o decreto-lei n. 3.576, de 1 de setembro de 1941

@@ -1,5 +1,3 @@
-###DEC-072112-0-000-23-04-1973@@@
-
 DECRETO Nº 72.112, DE 23 DE ABRIL DE 1973.
 
 Aprova alteração introduzida nos Estatutos da Petróleo Brasileiro S.A. - PETROBRÁS

@@ -1,5 +1,3 @@
-###DEL-004046-0-000-22-01-1942@@@
-
 DECRETO-LEI N. 4.046 – DE 22 DE JANEIRO DE 1942
 
 Abre ao Ministério da Educação e Saude o crédito especial de réis 3:000$0, para pagamento a examinadores de concurso

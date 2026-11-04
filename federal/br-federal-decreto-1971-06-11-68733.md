@@ -1,5 +1,3 @@
-###DEC-068733-0-000-11-06-1971@@@
-
 DECRETO Nº 68.733 - DE 11 DE JUNHO DE 1971.
 
 Autoriza o funcionamento da Escola de Educação Física de Itapetininga, S.P.

@@ -1,5 +1,3 @@
-###DEC-060106-0-000-20-01-1967@@@
-
 DECRETO Nº 60.106, DE 20 DE JANEIRO DE 1967.
 
 Concede reconhecimento à Escola de Engenharia Mauá, no Estado de São Paulo.

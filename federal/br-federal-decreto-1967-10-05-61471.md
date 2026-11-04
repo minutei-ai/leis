@@ -1,5 +1,3 @@
-###DEC-061471-0-000-05-10-1967@@@
-
 DECRETO Nº 61.471, DE 5 DE OUTUBRO DE 1967.
 
 Declara a cessação da exploração dos serviços de energia elétrica pela Companhia Industrial Ouropretana, no município de Urucânia, Estado de Minas Gerais, outorga concessão à Centrais Elétricas de Minas Gerais Sociedade Anônima, no município de Urucânia, Estado de Minas Gerais, e dá outras providências.

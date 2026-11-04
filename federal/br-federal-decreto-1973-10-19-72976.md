@@ -1,5 +1,3 @@
-###DEC-072976-0-000-19-10-1973@@@
-
 DECRETO Nº 72.976, DE 19 DE OUTUBRO DE 1973.
 
 Cria uma Divisão Administrativa na Chefia do Departamento de Material Bélico, do Ministério do Exército.

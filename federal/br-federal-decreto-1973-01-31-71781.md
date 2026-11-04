@@ -1,5 +1,3 @@
-###DEC-071781-0-000-31-01-1973@@@
-
 Decreto nº 71.781, de 31 de janeiro de 1973.
 
 Declara de utilidade pública as instituições que menciona.

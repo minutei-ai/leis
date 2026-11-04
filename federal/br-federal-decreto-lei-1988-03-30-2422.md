@@ -1,7 +1,3 @@
-1
-
-###DEL-002422-0-000-30-03-1988@@@
-
 # DECRETO‑LEI N° 2.422, DE 30 DE MARÇO DE 1988
 
 Dispõe sobre o prazo para inscrição de ocupação de imóveis da União e dá outras providências.

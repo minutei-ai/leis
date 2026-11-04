@@ -1,5 +1,3 @@
-###DEC-071472-0-000-04-12-1972@@@
-
 DECRETO Nº 71.472 - DE 4 DE DEZEMBRO DE 1972
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas, área de terreno necessária à ampliação do Projeto de Irrigação do Açúde Público SUMÉ, no município do mesmo nome, Estado da Paraíba.

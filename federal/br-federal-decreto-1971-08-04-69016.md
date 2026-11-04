@@ -1,5 +1,3 @@
-###DEC-069016-0-000-04-08-1971@@@
-
 DECRETO nº 69.016, DE 4 DE AGôSTO DE 1971.
 
 Declara de utilidade pública a Fundação Educacional Bouchardet, com sede em Visconde do Rio Branco, Estado de Minas Gerais.

@@ -1,17 +1,15 @@
-###DEC-063722-0-000-04-12-1968@@@
+**DECRETO Nº 63.722, DE 4 DE DEZEMBRO DE 1968.**
 
-<strong>DECRETO Nº 63.722, DE 4 DE DEZEMBRO DE 1968.</strong>
+***Declara de utilidade pública a Legião Feminina de Educação e Combate ao Câncer, com sede no Estado da Guanabara.***
 
-<em><strong>Declara de utilidade pública a Legião Feminina de Educação e Combate ao Câncer, com sede no Estado da Guanabara.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 83, item II, da Constituição e atendendo ao que consta do Processo MJ. 21.705 de 1960,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 83, item II, da Constituição e atendendo ao que consta do Processo MJ. 21.705 de 1960,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. É declarada de utilidade pública nos têrmos do artigo 1º da Lei 91, de 28 de agôsto de 1935, combinado com o artigo 1º do Regulamento aprovado pelo Decreto número 50.517, de 2 de maio de 1961, a Legião Feminina de Educação e Combate ao Câncer, com sede no Estado da Guanabara.
 
 Brasília, 4 de dezembro de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Luis Antônio da Gama e Silva

@@ -1,5 +1,3 @@
-###DEC-094656-0-000-20-07-1987@@@
-
 DECRETO N° 94.656, DE 20 DE JULHO DE 1987.
 
 Cria as Estações Ecológicas de Carijós, Pirapitinga e Tupinambás, e dá outras providências.

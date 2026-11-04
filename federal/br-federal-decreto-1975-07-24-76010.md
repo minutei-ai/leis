@@ -1,5 +1,3 @@
-###DEC-076010-0-000-24-07-1975@@@
-
 Decreto Nº 76.010 - DE 24 DE JULHO DE 1975.
 
 Declara o 45º Congresso Anual da "American Society of Travel Agents - (ASTA)" evento prioritário para o desenvolvimento do turismo nacional institui a "Semana do Turismo" e dá outras providências.

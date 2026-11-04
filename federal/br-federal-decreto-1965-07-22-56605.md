@@ -1,5 +1,3 @@
-###DEC-056605-0-000-22-07-1965@@@
-
 Decreto nº 56.605, de 22 de julho de 1965.
 
 Revoga o Decreto nº 51.719, de 18 de fevereiro de 1963.

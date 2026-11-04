@@ -1,5 +1,3 @@
-###DEC-057926-0-000-04-03-1966@@@
-
 DECRETO Nº 57.926, DE 4 DE MARÇO DE 1966.
 
 Dispõe sôbre as Declarações do Brasil às Sessões da Assembléia Geral da Organização das Nações Unidas.

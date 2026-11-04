@@ -1,7 +1,3 @@
-1
-
-###DEL-002357-0-000-28-08-1987@@@
-
 # DECRETO-LEI Nº 2.357, DE 28 DE AGOSTO DE 1987
 
 Institui Programa Trienal de Aperfeiçoamento da Arrecadação das Receitas Federais, e dá outras providências.

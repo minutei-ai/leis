@@ -1,5 +1,3 @@
-###DEC-045300-0-000-27-01-1959@@@
-
 Decreto nº 45.300, de 27 de janeiro de 1959.
 
 Autoriza à Minerais e Metais Gruner Limitada, a pesquisar minério de ferro e associados, no município de Jequié, Estado da Bahia..

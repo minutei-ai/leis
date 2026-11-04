@@ -1,5 +1,3 @@
-###DEC-074004-0-000-02-05-1974@@@
-
 DECRETO Nº 74.004, DE 2 de MAIO DE 1974.
 
 Autoriza o funcionamento do curso de Matemática da Faculdade de Filosofia, Ciências e Letras de São João da Boa Vista, mantida pela Fundação Sanjoanense de Ensino, com sede na Cidade de São João da Boa Vista, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-052672-0-000-11-10-1963@@@
-
 DECRETO Nº 52.672, DE 11 DE OUTUBRO DE 1963.
 
 Abre ao Ministério da Guerra, o crédito especial de Cr$8.000.000,00 - para ocorrer a despesa que especifica.

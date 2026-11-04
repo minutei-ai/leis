@@ -1,5 +1,3 @@
-###DEC-005768-0-000-08-05-2006@@@
-
 DECRETO Nº 5.768, DE 8 DE MAIO DE 2006.
 
 Acresce dispositivo ao art. 1º do Decreto no 2.233, de 23 de maio de 1997, que dispõe sobre os setores das atividades econômicas excluídos das restrições previstas no art. 39 da Lei nº 4.131, de 3 de setembro de 1962.

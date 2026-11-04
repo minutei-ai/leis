@@ -1,7 +1,3 @@
-1
-
-###DEC-000947-0-000-04-10-1993@@@
-
 DECRETO Nº 947, DE 4 DE OUTUBRO DE 1993
 
 Prorroga por sessenta dias o prazo a que se refere o art. 3º do Decreto nº 793, de 5 de abril de 1993, nos casos que especifica.

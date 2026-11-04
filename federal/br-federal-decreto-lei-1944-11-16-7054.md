@@ -1,5 +1,3 @@
-###DEL-007054-0-000-16-11-1944@@@
-
 DECRETO-LEI N 7.054 – DE 16 DE NOVEMBRO DE 1944
 
 Dispõe sôbre funções gratificadas no Munistério da Agricultura, e dá outras providências

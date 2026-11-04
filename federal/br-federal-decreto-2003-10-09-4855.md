@@ -1,5 +1,3 @@
-###DEC-004855-0-000-09-10-2003@@@
-
 DECRETO Nº 4.855, DE 9 DE OUTUBRO DE 2003
 
 Acrescenta parágrafo ao art. 1 o do Decreto nº 4.562, de 31 de dezembro de 2002, estabelece prazo para o enquadramento jurídico das cooperativas de eletrificação rural e dá outras providências.

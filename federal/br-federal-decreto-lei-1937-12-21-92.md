@@ -1,5 +1,3 @@
-###DEL-000092-0-000-21-12-1937@@@
-
 DECRETO-LEI N.  92 – DE 21 DE DEZEMBRO DE 1937
 
 Cria o Serviço Nacional de Teatro

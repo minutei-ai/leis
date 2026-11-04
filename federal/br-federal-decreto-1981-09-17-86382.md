@@ -1,5 +1,3 @@
-###DEC-086382-0-000-17-09-1981@@@
-
 decreto nº 86.382, de 17 de setembro de 1981
 
 Declara de utilidade pública para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

@@ -1,32 +1,30 @@
-###DEC-026974-0-000-28-07-1949@@@
+**DECRETO Nº 26.974, DE 28 DE JULHO DE 1949.**
 
-<strong>DECRETO Nº 26.974, DE 28 DE JULHO DE 1949.</strong>
+***Aprova o Regimento do Instituto Nacional de Surdos-Mudos do Ministério da Educação e Saúde.***
 
-<em><strong>Aprova o Regimento do Instituto Nacional de Surdos-Mudos do Ministério da Educação e Saúde.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Instituto Nacional de Surdos-Mudos (I. N. S. M.), que assinado pelo Ministro de Estado da Educação e Saúde com êste baixa:
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Instituto Nacional de Surdos-Mudos (I. N. S. M.), que assinado pelo Ministro de Estado da Educação e Saúde com êste baixa:
+**Art**. 2º Êste decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste decreto entra em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 28 de julho de 1949, 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clemente Mariani
 
-<strong>REGIMENTO DO INSTITUTO NACIONAL DE SURDOS-MUDOS</strong>
+**REGIMENTO DO INSTITUTO NACIONAL DE SURDOS-MUDOS**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º O Instituto Nacional de Surdos-Mudos (I. N. S. M.) órgão integrante do Ministério da Educação e Saúde (M. E. S.) diretamente subordinado ao Ministro de Estado, tem por finalidade:
+**Art**. 1º O Instituto Nacional de Surdos-Mudos (I. N. S. M.) órgão integrante do Ministério da Educação e Saúde (M. E. S.) diretamente subordinado ao Ministro de Estado, tem por finalidade:
 
 I - ministrar a menores surdos-mudos de ambos os sexos a educação adaptada às suas condições peculiares;
 
@@ -40,9 +38,9 @@ V - promover, em todo o país, a alfabetização de surdos-mudos e orientar, tè
 
 Parágrafo único. Para atender às sus finalidades, o Instituto realizará pesquisas, inquéritos e investigações, utilizando-se de recursos próprios ou valendo-se da cooperação de pessoas e entidades idôneas.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<strong>Art</strong>. 2º O I.N.S.M. compõe-se de:
+**Art**. 2º O I.N.S.M. compõe-se de:
 
 Seção Escolar (S. E.)
 
@@ -52,23 +50,23 @@ Seção de Administração (S. A.)
 
 Zeladoria
 
-<strong>Art</strong>. 3º - O I.N.S.M. terá um Diretor, nomeado em comissão pelo Presidente da República.
+**Art**. 3º - O I.N.S.M. terá um Diretor, nomeado em comissão pelo Presidente da República.
 
-<strong>Art</strong>. 4º - As funções gratificadas de Chefe de Seção, Chefe de Zeladoria, Chefe de Disciplina e Chefe de Portaria serão exercidas por servidores do M.E.S., designados pelo Diretor do Instituto, com prévia autorização do Ministro de Estado se noutro serviço ou repartição estiverem lotados.
+**Art**. 4º - As funções gratificadas de Chefe de Seção, Chefe de Zeladoria, Chefe de Disciplina e Chefe de Portaria serão exercidas por servidores do M.E.S., designados pelo Diretor do Instituto, com prévia autorização do Ministro de Estado se noutro serviço ou repartição estiverem lotados.
 
-<strong>Art</strong>. 5º - O Diretor terá um secretário por êle designado.
+**Art**. 5º - O Diretor terá um secretário por êle designado.
 
-<strong>Art</strong>. 6º - Os órgãos que integram o I.N.S.M. funcionarão perfeitamente coordenados, em regime de mútua colaboração, sob a orientação do Diretor.
+**Art**. 6º - Os órgãos que integram o I.N.S.M. funcionarão perfeitamente coordenados, em regime de mútua colaboração, sob a orientação do Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Da S. E.</em>
+*Da S. E.*
 
-<strong>Art</strong>. 7º - À S.E. compete:
+**Art**. 7º - À S.E. compete:
 
 I - ministrar aos alunos o ensino pré-escolar realizado no Jardim da Infância, compreendendo educação física, educação sensorial, educação de matricidade, educação dos órgãos da palavra, rudimentos de linguagem e cálculos;
 
@@ -98,7 +96,7 @@ XIII - orientar os pais dos candidatos em idade pré-escolar.
 
 Parágrafo único. - Além destas atividades, compete ainda à S.E. manter um curso normal para a formação de professores, cujas normas serão traçados no regulamento do ensino para o I.N.S.M.
 
-<strong>Art</strong>. 8º - A.S.E. disporá das seguintes oficinas:
+**Art**. 8º - A.S.E. disporá das seguintes oficinas:
 
 I - Alfaiataria
 
@@ -118,13 +116,13 @@ VII - Trabalhos de Madeira
 
 § 2º - Dos trabalhos executados pelos alunos, será mantido registro pormenorizado.
 
-<strong>Art</strong>. 9º - Serão designados pelo Diretor dois membros do corpo docente para, na qualidade de Assistentes, auxiliarem o Chefe da Seção Escolar na fiscalização e orientação, um na parte do ensino fundamental e outro na parte profissional, sem outra vantagem que o vencimento ou salário do cargo ou da função.
+**Art**. 9º - Serão designados pelo Diretor dois membros do corpo docente para, na qualidade de Assistentes, auxiliarem o Chefe da Seção Escolar na fiscalização e orientação, um na parte do ensino fundamental e outro na parte profissional, sem outra vantagem que o vencimento ou salário do cargo ou da função.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Da S.C.P.M.P.</em>
+*Da S.C.P.M.P.*
 
-<strong>Art</strong>. 10. - À S.C.P.M.P. compete:
+**Art**. 10. - À S.C.P.M.P. compete:
 
 I - realizar exames clínico e biométrico nos candidatos à matrícula, selecionando-os e consignando em ficha os resultados obtidos;
 
@@ -156,11 +154,11 @@ XIV - realizar pesquisas otológicas e relativas à medida da acuidade auditiva;
 
 XV - realizar a profilaxia especial da surdo-mudez.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Da S.A.</em>
+*Da S.A.*
 
-<strong>Art</strong>. 11 - À S.A. compete promover as medidas necessárias à administração de portaria, comunicações, pessoal, material, orçamento e biblioteca do I.N.S.M., devendo para tanto:
+**Art**. 11 - À S.A. compete promover as medidas necessárias à administração de portaria, comunicações, pessoal, material, orçamento e biblioteca do I.N.S.M., devendo para tanto:
 
 I - receber, registrar, distribuir, expedir e arquivar a correspondência oficial e papéis relativos às atividades do Instituto, controlando o respectivo andamento;
 
@@ -200,11 +198,11 @@ XVIII - Promover o empréstimo de publicações, de acôrdo com as instruções 
 
 Parágrafo único - A S. A. deverá funcionar perfeitamente articulada com o Departamento de Administração do Ministério observando as normas e métodos de trabalho prescritos pelo mesmo.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Da Zeladoria</em>
+*Da Zeladoria*
 
-<strong>Art</strong>. 12 - À Zeladoria compete:
+**Art**. 12 - À Zeladoria compete:
 
 I - Fazer a limpeza das dependências e a vigilância diurna e noturna dos edifícios e dos terrenos do I. N. S. M.
 
@@ -216,11 +214,11 @@ IV - Manter a lavanderia aparelhada, de modo a executar os trabalhos necessário
 
 V - Zelar pela ordem, conservação e limpeza dos dormitórios do I. N. S. M.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 13 - Ao Diretor do I. N. S. M. incumbe:
+**Art**. 13 - Ao Diretor do I. N. S. M. incumbe:
 
 I - Despachar pessoalmente com o Ministro de Estado;
 
@@ -270,7 +268,7 @@ XXIII - distribuir os alunos pelas classes e oficinas, depois de examinados pela
 
 XXIV - movimentar o pessoal respeitada a lotação.
 
-<strong>Art</strong>. 14 - Aos Chefes da S. E. S. C. P. M. P. e S. A. incumbe dirigir e fiscalizar os trabalhos respectivos devendo, para tanto:
+**Art**. 14 - Aos Chefes da S. E. S. C. P. M. P. e S. A. incumbe dirigir e fiscalizar os trabalhos respectivos devendo, para tanto:
 
 I - comparecer às reuniões para as quais sejam convocados pelo Diretor;
 
@@ -292,7 +290,7 @@ IX - propor ao Diretor a organização e alteração subseqüente da escala de f
 
 X - apresentar ao Diretor relatório dos trabalhos realizados, em andamento e planejados;
 
-<strong>Art</strong>. 15 - Ao Chefe da Zeladoria incumbe:
+**Art**. 15 - Ao Chefe da Zeladoria incumbe:
 
 I - dirigir, coordenar e fiscalizar os trabalhos a cargo da Zeladoria.
 
@@ -306,7 +304,7 @@ V - expedir boletins de merecimento aos servidores a êle diretamente subordinad
 
 VI - apresentar ao Diretor, anualmente, relatório dos trabalhos realizados;
 
-<strong>Art</strong>. 16 - Aos mestres responsáveis pelas oficinas incumbe:
+**Art**. 16 - Aos mestres responsáveis pelas oficinas incumbe:
 
 I - orientar, coordenar e fiscalizar os trabalhos a cargo da oficina;
 
@@ -330,7 +328,7 @@ X - zelar pela conservação da maquinaria e demais utensílios da oficina; e
 
 XI - Apresentar mensalmente ao Chefe da S. A. os livros escriturados na oficina.
 
-<strong>Art</strong>. 17. Ao Secretário do Diretor incumbe:
+**Art**. 17. Ao Secretário do Diretor incumbe:
 
 I - Atender às pessoas que desejarem comunicar-se com o Diretor, encaminhando-as ou dando a êste conhecimento do assunto a tratar;
 
@@ -338,7 +336,7 @@ II - Representar o Diretor, quando para isto fôr designado; e
 
 III - Redigir a correspondência pessoal do Diretor.
 
-<strong>Art</strong>. 18. Ao Chefe de Disciplina incumbe:
+**Art**. 18. Ao Chefe de Disciplina incumbe:
 
 I - Manter a disciplina escolar, de acôrdo com o Regulamento do I. N. S. M.;
 
@@ -354,7 +352,7 @@ VI - Tomar conhecimento das penalidades impostas aos alunos pelos inspetores de 
 
 VII - Apresentar anualmente ao Diretor relatório de suas atividades.
 
-<strong>Art</strong>. 19. Ao Chefe da Portaria incumbe:
+**Art**. 19. Ao Chefe da Portaria incumbe:
 
 I - Abrir e fechar os portões e portas do Edifício diariàmente, em horas pràviamente fixadas;
 
@@ -370,31 +368,31 @@ VI - Conservar em boa ordem o arquivo do Instituto, sob a responsabilidade da S.
 
 VII - Além dessas atividades compete, ainda, ao Chefe da Portaria atender às pessoas que procurarem o Instituto, encaminhando-as aos órgãos competentes.
 
-<strong>Art</strong>. 20. Aos servidores que não tenham atribuições especificadas neste regimento cumpre executar as que lhe forem determinadas pelo chefe imediato.
+**Art**. 20. Aos servidores que não tenham atribuições especificadas neste regimento cumpre executar as que lhe forem determinadas pelo chefe imediato.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 21. O I. N. S. M. terá lotação aprovada em decreto.
+**Art**. 21. O I. N. S. M. terá lotação aprovada em decreto.
 
 Parágrafo único. Além da lotação, o I. N. S. M. poderá ter pessoal extranumerário, admitido na forma da legislação em vigor.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 22. O horário normal de trabalho será fixado pelo Diretor do I. N. S. M., respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
+**Art**. 22. O horário normal de trabalho será fixado pelo Diretor do I. N. S. M., respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
 
-<strong>Art</strong>. 23. O Diretor do I. N. S. M. organizará, ouvidos os chefes de seção e da Zeladoria, as escalas de plantão do pessoal.
+**Art**. 23. O Diretor do I. N. S. M. organizará, ouvidos os chefes de seção e da Zeladoria, as escalas de plantão do pessoal.
 
-<strong>Art</strong>. 24. O Diretor não fica sujeito a ponto, devendo, porém, observar o horário fixado.
+**Art**. 24. O Diretor não fica sujeito a ponto, devendo, porém, observar o horário fixado.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 25. Serão substituídos, automàticamente, em suas faltas e impedimentos eventuais até 30 dias:
+**Art**. 25. Serão substituídos, automàticamente, em suas faltas e impedimentos eventuais até 30 dias:
 
 I - O Diretor, por um dos chefes de seção designado pelo Ministro de Estado, mediante indicação do Diretor;
 
@@ -406,27 +404,27 @@ IV - O Chefe de Disciplina, por um inspetor de alunos desusa indicação, design
 
 Parágrafo único. Haverá sempre servidores prèviamente designados para as substituições de que trata êste artigo.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 26. Será comemorado a 26 de setembro, como festa escolar, o aniversário da fundação do I. N. S. M.
+**Art**. 26. Será comemorado a 26 de setembro, como festa escolar, o aniversário da fundação do I. N. S. M.
 
-<strong>Art</strong>. 27. É vedado aos mestres e ao pessoal das oficinas a realização de qualquer trabalho de natureza particular.
+**Art**. 27. É vedado aos mestres e ao pessoal das oficinas a realização de qualquer trabalho de natureza particular.
 
-<strong>Art</strong>. 28. A renda proveniente da venda de artigos fabricados no I. N. S. M. será recolhida ao Tesouro Nacional.
+**Art**. 28. A renda proveniente da venda de artigos fabricados no I. N. S. M. será recolhida ao Tesouro Nacional.
 
-<strong>Art</strong>. 29. O Diretor residirá no edifício anexo ao do I. N. S. M.
+**Art**. 29. O Diretor residirá no edifício anexo ao do I. N. S. M.
 
-<strong>Art</strong>. 30. Deverão residir na sede ou prédios situados nos terrenos do I. N. S. M. os chefes da Zeladoria, Portaria, de Disciplina, um inspetor de alunos, um enfermeiro, o roupeiro o despenseiro, o cozinheiro, e aqueles servidores que, a critério do Diretor, a conveniência do serviço o exigir.
+**Art**. 30. Deverão residir na sede ou prédios situados nos terrenos do I. N. S. M. os chefes da Zeladoria, Portaria, de Disciplina, um inspetor de alunos, um enfermeiro, o roupeiro o despenseiro, o cozinheiro, e aqueles servidores que, a critério do Diretor, a conveniência do serviço o exigir.
 
-<strong>Art</strong>. 31. Só terão direito a alimentação no I. N. S. M. os que, por necessidade do serviço, obtiverem a devida autorização do Diretor.
+**Art**. 31. Só terão direito a alimentação no I. N. S. M. os que, por necessidade do serviço, obtiverem a devida autorização do Diretor.
 
-<strong>Art</strong>. 32. A S. E. e S. C. P. M. P. manterão um fichário social, educacional, e médico dos alunos, em colaboração com o I. N. E. P., para o fim de estudar cada caso separadamente, no sentido de integrar o educando, na sociedade, tendo em vista o meio social em que tenha de viver.
+**Art**. 32. A S. E. e S. C. P. M. P. manterão um fichário social, educacional, e médico dos alunos, em colaboração com o I. N. E. P., para o fim de estudar cada caso separadamente, no sentido de integrar o educando, na sociedade, tendo em vista o meio social em que tenha de viver.
 
-<strong>Art</strong>. 33 - Haverá saídas semanais para os alunos em dias e horas fixadas pelo Diretor.
+**Art**. 33 - Haverá saídas semanais para os alunos em dias e horas fixadas pelo Diretor.
 
-<strong>Art</strong>. 34. O período de férias escolares para os diferentes cursos será o mesmo dos cursos oficiais e equiparados, devendo os alunos passá-lo fora do estabelecimento.
+**Art**. 34. O período de férias escolares para os diferentes cursos será o mesmo dos cursos oficiais e equiparados, devendo os alunos passá-lo fora do estabelecimento.
 
 § 1º A permanência do aluno no estabelecimento, durante o período de férias escolares, só será permitida, a juízo do Diretor, no caso de indigência comprovada dos pais ou responsáveis.
 
@@ -434,4 +432,4 @@ Parágrafo único. Haverá sempre servidores prèviamente designados para as sub
 
 Rio de Janeiro, em 28 de julho de 1949.
 
-<strong>CLEMENTE MARIANI</strong>
+**CLEMENTE MARIANI**

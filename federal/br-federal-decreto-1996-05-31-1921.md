@@ -1,7 +1,3 @@
-1
-
-###DEC-001921-0-000-31-05-1996@@@
-
 DECRETO Nº 1921, DE 31 DE MAIO DE 1996.
 
 Prorroga prazo de remanejamento de cargos.

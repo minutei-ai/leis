@@ -1,14 +1,12 @@
-###DEC-020122-0-000-04-12-1945@@@
+**DECRETO N. 20.122 – DE 4 DE DEZEMBRO DE 1945**
 
-<strong>DECRETO N. 20.122 – DE 4 DE DEZEMBRO DE 1945</strong>
-
-<em><strong>Altera a lotação do Ministério da Guerra</strong></em>
+***Altera a lotação do Ministério da Guerra***
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art.</strong> 1º Passa a lotação numérica das repartições atendidas pelos Quadros Permanentes e Suplementar do Ministério da Guerra a vigorar com. as seguintes alterações:
+**Art.** 1º Passa a lotação numérica das repartições atendidas pelos Quadros Permanentes e Suplementar do Ministério da Guerra a vigorar com. as seguintes alterações:
 
 I – incluem-se, como órgãos sediados nos Estados, da Diretoria de Intendência do Exército, os Depósitos de Material de Intendência da 5ª, 8ª e 10ª Regiões Militares;
 
@@ -54,12 +52,12 @@ Fábrica Presidente Vargas (São Paulo) ........................................
 
 IV – com as  alterações dos itens anteriores, passa a lotação numérica das repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Guerra, a figura com um total de 4.013 cargos, sendo 1.545 na lotação permanente  e 2.468, n lotação permanente e 2.468,  na lotação suplementar.
 
-<strong>Art.</strong> 2º Êste Decreto vigorará a partir do dia 1º de outubro de 1945.
+**Art.** 2º Êste Decreto vigorará a partir do dia 1º de outubro de 1945.
 
-<strong>Art.</strong> 3º Revogam-se as disposições em contrário.
+**Art.** 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 4 de dezembro de 1945, 124º da Independência e 57º da República.
 
-<strong>JOSÉ LINHARES.</strong>
+**JOSÉ LINHARES.**
 
 Canrobert Pereira da Costa.

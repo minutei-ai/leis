@@ -1,5 +1,3 @@
-###DEL-009553-0-000-06-08-1946@@@
-
 DECRETO-LEI N. 9.553 – DE 6 DE AGÔSTO DE 1946
 
 Concede gratificação a membros da Junta de Ajuste de Lucros, e dá outras providências

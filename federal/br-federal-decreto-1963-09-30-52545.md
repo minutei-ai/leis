@@ -1,5 +1,3 @@
-###DEC-052545-0-000-30-09-1963@@@
-
 Decreto nº 52.545, de 30 de setembro de 1963.
 
 Outorga à Prefeitura Municipal de Linhares concessão para distribuir energia elétrica no município.

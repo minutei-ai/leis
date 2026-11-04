@@ -1,5 +1,3 @@
-###DEC-083013-0-000-11-01-1979@@@
-
 Decreto nº 83.013, de 11 de janeiro de 1979
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Imperatriz, Estado do Maranhão.

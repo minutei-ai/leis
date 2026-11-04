@@ -1,5 +1,3 @@
-###DEC-079369-0-000-09-03-1977@@@
-
 DERETO Nº 79.369, DE 9 DE MARÇO DE 1977.
 
 Concede autorização às Companhias ELF - Aquitaine Brésil e AGIP S.p.A. para operarem no mar territorial do Brasil, fixado pelo Decreto-lei nº 1.098, de 25 de março de 1970, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

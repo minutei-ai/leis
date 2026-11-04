@@ -1,6 +1,10 @@
 > **LEI Nº 4.376, DE 11 DE JULHO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.492, de 2 de agosto de 2019, que dispõe sobre a celebração de parcerias de incentivo à atividade laboral no sistema prisional do Estado, para tratar da forma de destinação do percentual devido ao Estado a título de ressarcimento pelas despesas realizadas com a manutenção dos presos.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.492, de 2 de agosto de 2019, que dispõe sobre a celebração de parcerias de incentivo à atividade laboral no sistema prisional do Estado, para tratar da forma de destinação do percentual devido ao Estado a título de ressarcimento pelas despesas realizadas com a manutenção dos presos.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

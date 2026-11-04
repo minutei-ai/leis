@@ -1,5 +1,3 @@
-###DEC-050776-0-000-10-06-1961@@@
-
 DECRETO Nº 50.776, DE 10 DE JUNHO DE 1961.
 
 Disciplina o funcionamento das secções de jogos lícitos carteados nas sedes das sociedades, clubes e demais entidades recreativas sociais, culturais, literárias beneficentes, esportivas e congêneres.

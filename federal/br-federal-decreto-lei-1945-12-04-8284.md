@@ -1,5 +1,3 @@
-###DEL-008284-0-000-04-12-1945@@@
-
 DECRETO-LEI N. 8.284 – DE 4 DE DEZEMBRO DE 1945
 
 Altera, sem aumento de despesa, o atual orçamento do Ministério da Guerra.

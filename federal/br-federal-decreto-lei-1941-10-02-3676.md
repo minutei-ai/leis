@@ -1,5 +1,3 @@
-###DEL-003676-0-000-02-10-1941@@@
-
 DECRETO-LEI N. 3.676 – DE 2 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Agricultura, o crédito especial de noventa e um contos e duzentos mil réis (91:200$0), para atender ao pagamento de gratificações de magistério

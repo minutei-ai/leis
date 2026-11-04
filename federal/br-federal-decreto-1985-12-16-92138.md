@@ -1,5 +1,3 @@
-###DEC-092138-0-000-16-12-1985@@@
-
 Decreto nº 92.138, de 16 de dezeMbro de 1985.
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Obras de Saneamento - DNOS, áreas de terras e benfeitorias, necessárias à criação e melhoramentos de centros populacionais, seu abastecimento regular de meios de subsistência e planos hidroagrícolas, destinados à execução do Programa denominado PROJETO TABULEIROS LITORÂNEOS, na região do Baixo Parnaíba, no Estado do Piauí, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-074157-0-000-06-06-1974@@@
-
 DECRETO Nº 74.157, DE 6 DE JUNHO DE 1974.
 
 Dispõe sobre o processamento, no âmbito da Administração Pública Federal, do disposto no artigo 42, item IV, in fine, da Constituição.

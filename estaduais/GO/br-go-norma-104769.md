@@ -72,8 +72,6 @@ Art. 10. Esta Lei entra em vigor após decorridos 120 (cento e vinte) dias de su
 
 Goiânia, 12 de janeiro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -82,7 +80,8 @@ ANEXO I
 
 “Indicação das alterações introduzidas no quadro de funções por encargo de confiança de que trata o Anexo XI da [Lei nº 17.663/2012](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655/lei-17663) e posteriores alterações.”
 
-“ANEXO XI<br>
+“ANEXO XI
+
 Quantitativo de Funções por Encargo de Confiança
 
 | Descrição | Função | Quantidade prevista | Valor (R$) |
@@ -246,7 +245,8 @@ ANEXO IV
 
 “Indicação das alterações introduzidas no quadro analítico das funções por encargo de confiança de que trata o Anexo XIV da [Lei nº 17.663/2012](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655/lei-17663) e posteriores alterações.”
 
-“Anexo XIV<br>
+“Anexo XIV
+
 Quadro Analítico das funções por Encargos de Confiança
 
 | SÍMBOLO | QUANT. | DENOMINAÇÃO |

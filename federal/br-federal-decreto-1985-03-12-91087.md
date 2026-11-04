@@ -1,5 +1,3 @@
-###DEC-091087-0-000-12-03-1985@@@
-
 DECRETO Nº 91.087, DE 12 DE MARÇO DE 1985
 
 Outorga concessão à RADIODIFUSÃO E COMUNICAÇÕES ABC LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Goiânia, Estado de Goiás.

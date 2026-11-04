@@ -1,5 +1,3 @@
-###DEC-069973-0-000-20-01-1972@@@
-
 DECRETO Nº 69.973, DE 20 DE JANEIRO DE 1972.
 
 Altera o Decreto nº 68.924, de 15 de julho de 1971, que dispõe sobre a autonomia administrativa e financeira do Centro de Treinamento e Desenvolvimento do Pessoal do Ministério da Fazenda - CETREMFA - e dá outras providências.

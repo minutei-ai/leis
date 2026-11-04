@@ -1,5 +1,3 @@
-###DEC-090047-0-000-13-08-1984@@@
-
 Decreto nº 90.047, de 13 de agosto de 1984
 
 Concede à Companhia Siderúrgica Paulista - COSIPA (GRUPO SIDERBRÁS) autorização para proceder a aumento do seu capital social.

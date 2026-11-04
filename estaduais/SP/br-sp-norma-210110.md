@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210110)<br>
-
 # DECRETO N° 68.966, DE 14 DE OUTUBRO DE 2024
 
 ### _Declara de utilidade pública, para fins de instituição de servidão administrativa pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, a área necessária à instalação do Coletor Tronco de Esgoto São Sebastião, integrante do Sistema de Esgotamento Sanitário, situada no Distrito de Terra Preta, do Município de Monte Mor, e dá providências correlatas._

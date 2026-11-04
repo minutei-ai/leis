@@ -1,5 +1,3 @@
-###DEL-007930-0-000-03-09-1945@@@
-
 DECRETO-LEI N. 7.930 – DE 3 DE SETEMBRO DE 1945
 
 Dispõe sôbre vendas imobiliárias e de mercadorias, a prestações, mediante sorteio, e sôbre a distribuição de prêmios, e dá outras providências

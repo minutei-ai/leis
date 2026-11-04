@@ -1,5 +1,3 @@
-###DEC-091752-0-000-04-10-1985@@@
-
 # decreto nº 91.752, de 04 de outubro de 1985
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Administração e Ciências Contábeis Nove de Julho, em São Paulo.

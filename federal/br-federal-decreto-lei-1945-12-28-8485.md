@@ -1,5 +1,3 @@
-###DEL-008485-0-000-28-12-1945@@@
-
 DECRETO-LEI N. 8.485 – DE 28 DE DEZEMBRO DE 1945
 
 Altera, no Quadro I – Parte Permanente, do Ministério da Viação e Obras Públicas, a carreira de Engenheiro – I. F. O. S., que passa a denominar-se Engenheiro – D. N. O. C. S., e da outras providências.

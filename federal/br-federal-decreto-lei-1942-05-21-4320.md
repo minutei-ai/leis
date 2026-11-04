@@ -1,5 +1,3 @@
-###DEL-004320-0-000-21-05-1942@@@
-
 DECRETO-LEI N. 4.320 – DE 21 DE MAIO DE 1942
 
 Modifica a legislação do ensino

@@ -1,5 +1,3 @@
-###DEC-075546-0-000-01-04-1975@@@
-
 DECRETO Nº 75.546, DE 1 DE  ABRIL DE 1975.
 
 Aprova o regulamento para o Centro de Eletrônica da Marinha e dá outras providências.

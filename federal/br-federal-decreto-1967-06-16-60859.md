@@ -1,5 +1,3 @@
-###DEC-060859-0-000-16-06-1967@@@
-
 DECRETO Nº 60.859, DE 16 DE JUNHO DE 1967.
 
 Declara a cessação dos serviços de energia elétrica nos Municípios de Piranga, Presidente Bernardes e Senhora de Oliveira, Estado de Minas Gerais e outorga concessão a este último município.

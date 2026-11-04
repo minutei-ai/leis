@@ -1,5 +1,3 @@
-###DEC-060435-0-000-13-03-1967@@@
-
 DECRETO Nº 60.435, DE 13 DE MARÇO DE 1967.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel, em Garanhuns-PE, destinado ao Ministério da Guerra.

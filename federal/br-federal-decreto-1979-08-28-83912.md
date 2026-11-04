@@ -1,5 +1,3 @@
-###DEC-083912-0-000-28-08-1979@@@
-
 decreto nº 83.912, de 28 de agosto de 1979.
 
 Autoriza o funcionamento das habilitações Supervisão Escolar de 1º e 2º graus, do curso de Pedagogia, e de Português e Literatura da Língua Portuguesa, do curso de Letras, da Faculdade de Filosofia, Ciências e Letras de Palmas, Estado do Paraná.

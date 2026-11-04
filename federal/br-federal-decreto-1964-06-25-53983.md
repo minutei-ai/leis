@@ -1,5 +1,3 @@
-###DEC-053983-0-000-25-06-1964@@@
-
 DECRETO Nº 53.983, DE 25 DE JUNHO DE 1964.
 
 Modifica, parcialmente, o art. 8º do Decreto nº 47.308, de 2 de dezembro de 1959.

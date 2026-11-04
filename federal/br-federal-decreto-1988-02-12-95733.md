@@ -1,7 +1,3 @@
-1
-
-###DEC-095733-0-000-12-02-1988@@@
-
 DECRETO N° 95.733, DE 12 DE FEVEREIRO DE 1988
 
 Dispõe sobre a inclusão no orçamento dos projetos e obras federais, de recursos destinados a prevenir ou corrigir os prejuízos de natureza ambiental, cultural e social decorrente da execução desses projetos e obras.

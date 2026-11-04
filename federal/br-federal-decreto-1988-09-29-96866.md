@@ -1,5 +1,3 @@
-###DEC-096866-0-000-29-09-1988@@@
-
 DECRETO N° 96.866, DE 29 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada à RÁDIO CLUBE DE RIO LARGO S.A. e autoriza a trans­ferência direta para a RÁDIO CULTURA DE ARAPIRACA LTDA., para explorar serviço de radiodifusão sonora em onda média, na Ci­dade de Rio Largo, Estado de Alagoas.

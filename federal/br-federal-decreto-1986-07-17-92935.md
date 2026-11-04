@@ -1,5 +1,3 @@
-###DEC-092935-0-000-17-07-1986@@@
-
 DECRETO Nº 92.935, DE 17 DE JULHO DE 1986
 
 Autoriza o funcionamento do curso de Ciências Contábeis do Centro Cibernético Gay-Lussac.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000926-0-000-10-09-1993@@@
-
 DECRETO N° 926, DE 10 DE SETEMBRO DE 1993
 
 Dispõe sobre a transferência de Cargos em Comissão que menciona.

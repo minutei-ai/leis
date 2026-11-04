@@ -1,5 +1,3 @@
-###DEC-060156-A-000-27-01-1967@@@
-
 Decreto nº 60.156-A, de 27 de janeiro de 1967.
 
 Declara estado de calamidade pública na área que especifica, no Estado do Rio de Janeiro e sistema de transporte rodoviários ligando os Estados da Guanabara, Rio de Janeiro e São Paulo, e abre o crédito extraordinário de Cr$15.500.000.000, para os fins que menciona.

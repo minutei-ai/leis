@@ -1,7 +1,3 @@
-1
-
-###DEC-098146-0-000-15-09-1989@@@
-
 DECRETO Nº 98.146, DE 15 DE SETEMBRO DE 1989
 
 Revoga o Decreto nº 82.033, de 25 de julho de 1978, que aprova o Regulamento da Diretoria de Abastecimento da Marinha.

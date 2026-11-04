@@ -1,5 +1,3 @@
-###DEC-096820-0-000-28-09-1988@@@
-
 DECRETO N° 96.820, DE 28 SETEMBRO DE 1988
 
 Outorga concessão à COMCEL  COMUNICAÇÕES CULTURAIS E EVANGÉLICAS LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Manhuaçu, Estado de Minas Gerais.

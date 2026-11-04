@@ -1,5 +1,3 @@
-###DEC-052946-0-000-26-11-1963@@@
-
 DECRETO Nº 52.946, DE 26 DE NOVEMBRO DE 1963.
 
 Outorga ao Município de Monte Sião concessão para distribuir energia elétrica no referido Município, no Estado de Minas Gerais.
@@ -33,8 +31,6 @@ Brasília, 26 de novembro de 1963; 142º da Independência e 75º da República.
 JOÃO GOULART
 
 Antônio de Oliveira Brito
-
-###DEC-052946-0-000-26-11-1963@@@RET01+++
 
 DECRETO Nº 52.946, DE 26 DE NOVEMBRO DE 1963.
 

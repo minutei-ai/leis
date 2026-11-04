@@ -1,5 +1,3 @@
-###DEC-051262-0-000-25-08-1961@@@
-
 DECRETO Nº 51.262, DE 25 DE AGÔSTO DE 1961.
 
 Autoriza Magnesita S. A. a pesquisar argila no município de Pitangui, Estado de Minas Gerais.

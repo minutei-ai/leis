@@ -2,7 +2,8 @@ Lei Municipal nº 1.397 de 26 de Maio de 1994.
 
 Estrutura e regulamenta a Guarda Municipal e adota outras Providências. Faço saber que a Câmara Municipal de Aparecida de Goiânia, Goiás, aprovou e Eu, Prefeito Municipal, sanciono a seguinte Lei:
 
-Título I Das disposições Gerais<br>
+Título I Das disposições Gerais
+
 Capítulo I Da Natureza, Finalidade e dos Objetivos
 
 Art. 1º – Fica por força desta Lei estruturada e regulamenta a Guarda Municipal do Município de Aparecida de Goiânia, Goiás, criada pela Constituição Municipal art. 5º e parágrafo único e pela Lei 1.153, de 11 de Janeiro de 1993 Art. 5º XIII a XV.
@@ -11,7 +12,8 @@ Art. 2º – A Guarda Municipal exercerá suas atividades em toda a extensão do
 
 Art. 3º – A Guarda Municipal tem por objetivos:
 
-I - Garantir o funcionamento dos serviços de responsabilidade do Município, e , bem com, a sua ação fiscalizadora no desempenho de atividades administrativa.<br>
+I - Garantir o funcionamento dos serviços de responsabilidade do Município, e , bem com, a sua ação fiscalizadora no desempenho de atividades administrativa.
+
 (Redação alterada pela Lei Ordinária nº 1.649, de 21 de outubro de 1997).
 
 ~~I – Garantir o funcionamento dos serviços de responsabilidade do Município e bem como sua ação fiscalizadora no desempenho de atividades de polícia Administrativa. II Exercer a vigilância interna e extrema dos próprios Municipais, estações e terminais viários, parques ecológicos, jardins, escolas, creches, postos de saúde, museus, bibliotecas, cemitérios, mercados, feiras livres, áreas de estacionamento no sentido de~~
@@ -30,12 +32,14 @@ III – Prestar colaboração à defesa civil, bem como, na prevenção e combat
 
 IV – Orientar o público e trânsito de veículos, em caráter auxiliar à Polícia Militar.
 
-Capítulo II<br>
+Capítulo II
+
 Da Estrutura Administrativa
 
 ~~Art. 4º – A administração da Guarda Municipal será exercida por intermédio da coordenadoria da Guarda Municipal integrante da estrutura da Secretaria Municipal de Administração.~~
 
-~~Parágrafo Único – O cardo de Coordenador da Guarda Municipal é cargo comissionado e será exercido por indicação do Poder Executivo e será auxiliado na administração por um conselho consultivo.<br>
+~~Parágrafo Único – O cardo de Coordenador da Guarda Municipal é cargo comissionado e será exercido por indicação do Poder Executivo e será auxiliado na administração por um conselho consultivo.
+
 ~~(Revogado pela Lei Complementar nº 20, de 27 de outubro de 2009).
 
 ~~Art. 5º – Integram a estrutura da Coordenadoria da Guarda Municipal~~
@@ -44,10 +48,12 @@ Da Estrutura Administrativa
 
 ~~II – Núcleo de Apoio e controle operacional;~~
 
-~~III – Núcleo de Planejamento, Programação e Controle operacional~~<br>
+~~III – Núcleo de Planejamento, Programação e Controle operacional~~
+
 (Revogado pela Lei Complementar nº 20, de 27 de outubro de 2009).
 
-Seção I<br>
+Seção I
+
 Do Coordenador da Guarda Municipal
 
 ~~Art. 6º – Ao coordenador da Guarda Municipal compete:~~
@@ -104,10 +110,12 @@ Do Coordenador da Guarda Municipal
 
 ~~XXVII – Zelar pela Fiel observância deste regimento, dos regulamentos das normas e das instruções de serviço;~~
 
-~~XXVIII – Exercer outras atividades que lhe forma consignadas através de regulamentos ou pelo secretario Municipal da Administração.~~<br>
+~~XXVIII – Exercer outras atividades que lhe forma consignadas através de regulamentos ou pelo secretario Municipal da Administração.~~
+
 (Revogado pela Lei Complementar nº 20, de 27 de outubro de 2009).
 
-Seção II<br>
+Seção II
+
 Do Chefe do Núcleo Administrativo e Serviços Auxiliares
 
 Art. 7º – Do chefe do núcleo e serviços auxiliares incumbe:
@@ -134,7 +142,8 @@ X – Apropriar os custos dos serviços da coordenadoria da Guarda Municipal;
 
 XI – Exercer outras atribuições correlatas ao que lhe forem concedidas pelo coordenador da Guarda Municipal;
 
-Seção III<br>
+Seção III
+
 Do Chefe do Núcleo de Apoio e Controle Operacional
 
 Art. 8º – Ao chefe do núcleo de Apoio e controle operacional incumbe
@@ -175,7 +184,8 @@ XVII – Elaborar mapas, gráficos, relatórios de serviços na pericidade deter
 
 XVIII – Exercer outras atribuições que lhe sejam comedidas pelo coordenador da Guarda Municipal;
 
-Seção IV<br>
+Seção IV
+
 Do Chefe do Núcleo de Planejamento, Programas e Controle do Contigente
 
 Art. 9º – Ao chefe do núcleo de planejamento, programação e controle do contigente incumbe:
@@ -204,7 +214,8 @@ XI – Preparar e expedir as atas e a correspondências de competências do coor
 
 XII - Expedir certidões, atestados, declarações, editais, instruções e ordens de serviços que devam ser firmadas pelo coordenador da Guarda.
 
-Seção V<br>
+Seção V
+
 Das Atribuições Comuns
 
 Art. 10 – São atribuições comuns aos chefes de núcleos da coordenadoria da Guarda Municipal:
@@ -237,7 +248,8 @@ XIII – Zelar pela fiel observância deste regimento dos regulamentos das norma
 
 XIV – Exercer outras atividades que lhe sejam determinadas pelo superior imediato;
 
-Capítulo III<br>
+Capítulo III
+
 Do Conselho Consultivo
 
 Art. 11 – O conselho consultivo, órgão consultor e opinativo da Guarda Municipal, compõe-se de:
@@ -262,7 +274,8 @@ III – Estudar os problemas pertinentes a segurança do patrimônio Municipal, 
 
 Parágrafo Único – O Conselho Consultivo terá até 15 (Quinze) dias para emitir parecer a respeito das proposições que lhe forem encaminhadas pelo coordenador da Guarda Municipal sendo consideradas aprovadas as proposições sobre as quais não houve manifestação no prazo a que se refere este parágrafo.
 
-Título II<br>
+Título II
+
 Da Organização de Pessoal Capitulo I Da Estrutura de Pessoal
 
 Art. 13 – A coordenadoria da Guarda disporá de uma estrutura de pessoal constituída de dois grupos distintos que são:
@@ -283,19 +296,22 @@ Art. 15 – O grupo de apoio administrativo é constituído por integrantes de g
 
 Parágrafo Único – O quadro de lotação do pessoal da coordenadoria da Guarda Municipal, integra o anexo I desta lei, em conformidade com o plano de carreiras e Vencimentos da PMAG.
 
-Capítulo II<br>
+Capítulo II
+
 Do horário de Trabalho
 
 Art. 16 – A carga horária do serviço da Guarda Municipal é de 40 horas semanais.
 
 Parágrafo Único – As atividades operacionais da Guarda Municipais serão ajustadas pelo coordenador ao horários citados pela necessidade do serviço.
 
-Capítulo III<br>
+Capítulo III
+
 Do Servidor da Guarda Municipal
 
 Art. 17 – O Serviço da Guarda Municipal de responsabilidade da Coordenadoria da Guarda Municipal obedecerá ao disposto no Estatuto do Servidor Público Municipal.
 
-Seção I<br>
+Seção I
+
 Das Classes Integrantes do Grupo
 
 Art. 18 – As Classes Criadas no serviço da Guarda Municipal constituem graduações de carreira para as quais são estabelecidas linhas de acesso funcional direto.
@@ -315,7 +331,8 @@ Parágrafo Único – O servidor da Guarda Municipal terá se interstício  par
 
 Art. 20 – As normas e instruções específicas para a promoção o acesso e a transposição “Grupo Serviço da Guarda Municipal” Serão objeto de ato próprio do Executivo que não contribuir a disposto no Estatuto do Serviço Municipal.
 
-Seção II<br>
+Seção II
+
 Das condições para Provimentos das Classes
 
 Art. 21 – o acesso funcional direto verificar-se-á de conformidade com o estabelecido no plano de carreira e vencimentos da PMAG.
@@ -334,8 +351,8 @@ Art. 22 – Para participar do processo de acesso funcional no âmbito do servi�
 
     VI – Atender ao disposto no Estatuto do servidor Público de Aparecida de Goiânia.
 
-<br>
-Seção III<br>
+Seção III
+
 Do Recrutamento
 
 Art. 23 – Para concorrer ao ingresso na carreira de Guarda Municipal o candidato deverá observar as seguintes condições:
@@ -362,13 +379,16 @@ X – Assinar termo de compromisso e de aceitação do treinamento profissional 
 
 XI – Comprovar, nos termos em que dispuser o edital, ter cursado o ensino médio completo até a data da inscrição no Curso de Formação de Guardas Municipal;
 
-XII – Ser aprovado no Curso de Formação de Guardas Municipal de caráter eliminatório, sendo vedado ao Guarda Municipal, e em caso de reprovação por qualquer motivo, expulsão da escola de formação ou desistência, realizar o curso em turma diversa da que foi matriculado inicialmente.<br>
+XII – Ser aprovado no Curso de Formação de Guardas Municipal de caráter eliminatório, sendo vedado ao Guarda Municipal, e em caso de reprovação por qualquer motivo, expulsão da escola de formação ou desistência, realizar o curso em turma diversa da que foi matriculado inicialmente.
+
 (Redação alterada pela Lei Ordinária nº 2.992, de 19 de outubro de 2011).
 
-XIII – estar em gozo dos direitos políticos;<br>
+XIII – estar em gozo dos direitos políticos;
+
 (Redação acrescentada pela Lei Complementar nº 68, de 31 de dezembro de 2012).
 
-XIV – ser aprovado em avaliação psicológica.<br>
+XIV – ser aprovado em avaliação psicológica.
+
 (Redação acrescentada pela Lei Complementar nº 68, de 31 de dezembro de 2012).
 
 ~~Art. 23 – Para  concorrer ao ingresso na carreira de  Guarda Municipal o candidato deverá observar as seguintes condições:~~
@@ -397,7 +417,8 @@ XIV – ser aprovado em avaliação psicológica.<br>
 
 ~~XII – Ser aprovado no Curso de Formação de Guardas Municipal de caráter eliminatório, sendo vedado ao Guarda Municipal, e em caso de reprovação por qualquer motivo, expulsão da escola de formação ou desistência, realizar o curso em turma diversa da que foi matriculado inicialmente.~~
 
-Seção IV<br>
+Seção IV
+
 Dos cursos profissionais e de especialização
 
 Art. 24 – São as seguintes cursos profissionalizantes exigidos, para a carreira no Serviço da Guarda Municipal.
@@ -420,12 +441,14 @@ Art. 24 – São as seguintes cursos profissionalizantes exigidos, para a carrei
 
     § 5º – Os integrantes do Grupo operacional “serviço da Guarda Municipal” estão sujeitos ainda a cursos de especialização para o serviço, quando houver justificativa para tanto bem como o estágio de atualização profissional.
 
-§ 6º. Considerando o artigo 13, da Lei Federal nº. 10.826/2003 e o artigo 242, da Lei Federal nº. 8.069/1990, somente poderão participar do curso de formação descrito no § 3º, deste mesmo artigo, aqueles que tiverem idade mínima de 18 (dezoito) anos completos até a data de inscrição no referido curso. <br>
+§ 6º. Considerando o artigo 13, da Lei Federal nº. 10.826/2003 e o artigo 242, da Lei Federal nº. 8.069/1990, somente poderão participar do curso de formação descrito no § 3º, deste mesmo artigo, aqueles que tiverem idade mínima de 18 (dezoito) anos completos até a data de inscrição no referido curso. 
+
 (Redação acrescentada pela Lei Complementar nº 68, de 31 de dezembro de 2012).
 
 Art. 25 – As normas segmentais para os diversos cursos a serem ministrados aos Guardas Municipais serão baixadas pelo coordenador da Guarda Municipais de comum acordo com o órgão de desenvolvimento de recursos humanos e submetidas ao Secretario de Administração na Época oportuna.
 
-Seção V<br>
+Seção V
+
 Das Definições do Serviço
 
 Art. 26 – As classes a que se refere o Artigo 13 desta Lei assim se definem em matéria de serviço:
@@ -438,17 +461,20 @@ Art. 26 – As classes a que se refere o Artigo 13 desta Lei assim se definem em
 
     IV – Inspetor da Guarda Municipal II – Cargo de chefia de núcleo de inspetoria e planejamento e supervisão de ações operacionais de segurança no âmbito do Coordenadoria assim como ações administrativas e disciplinares dentro dos limites estabelecidos em Leis e Regulamentos.
 
-Título III<br>
+Título III
+
 Do Regime Disciplinares
 
-Capitulo I<br>
+Capitulo I
+
 Dos Direitos e Deveres
 
 Art. 27 – Os direitos, deveres e proibições do pessoal integrante do serviço da Guarda Municipal são as previstas nesta lei e no Estatuto dos Servidores da PMAG.
 
     Parágrafo Único – Esta lei específica neste título deveres, proibições e penalidade que acarretam.
 
-Capítulo II<br>
+Capítulo II
+
 Dos princípios da Hierarquia e da Disciplina
 
 Art. 28 – A disciplina se define como o respeito voluntário às leis, os regulamentos, as normas e aos preceitos estabelecidos pelas autoridades competentes, visando direcionar os procedimentos para a ordem interna da corporação.
@@ -489,7 +515,8 @@ Art. 30 – A disciplina e a hierarquia devem ser mantidas permanentemente pelos
 
 1.    Em se tratando de Guarda de uma mesma turma tem preferência aquele que haver obtido maior  nota final em primeira época; os de segunda serão classificadas por procedência após o último lugar da 1º época de sua turma.
 
-Capítulo III<br>
+Capítulo III
+
 Da esfera de Ação Disciplinar
 
 Art. 31 – São competentes para a aplicação de penas e concessão de recompensas previstas nestes regulamento as seguintes autoridades, conforme o quadro a seguir: 
@@ -513,7 +540,8 @@ Art. 31 – São competentes para a aplicação de penas e concessão de recompe
 
 § 6º – As demonstrações de apreço e camaradagem praticadas entre  os membros da Guarda Municipal serão dispensadas aos componentes de corporação congêneres de outro município.
 
-Capítulo IV<br>
+Capítulo IV
+
 Das Infrações Disciplinares
 
 Art. 32 – Infração Disciplinar é toda violação dos deveres e proibições do servidor da Guarda Municipal e genericamente nos preceitos de civilidade, urbanidade e normas morais.
@@ -546,14 +574,16 @@ I – Sujeitas a repreensão.
 
 9\) Fumar em presença de tropa formada ou de solenidade;
 
-10\) Sobre ao uniforme, insignas, medalhas, distintivos ou quaisquer outros símbolos de identidades religiosas, políticas e militares.<br>
+10\) Sobre ao uniforme, insignas, medalhas, distintivos ou quaisquer outros símbolos de identidades religiosas, políticas e militares.
+
 (Redação alterada pela Lei Ordinária nº 1.649, de 21 de outubro de 1997).
 
 ~~10) Sobrepor ao uniforme, insígnias medalhas, distintivos ou qualquer outros símbolos de entidades religiosas, políticas e militares sem autorização da autorização da autoridade competente;~~
 
 11\) Se indiscreto com assuntos de natureza oficial cuja divulgação resultar em prejuízo a disciplina e a ordem interna.
 
-12\) sobrepor ao uniforme comenda ou condecoração.<br>
+12\) sobrepor ao uniforme comenda ou condecoração.
+
 (Redação alterada pela Lei Ordinária nº 1.649, de 21 de outubro de 1997).
 
 ~~12) Sobrepor ao uniforme comenda ou condecoração quando não credenciado oficialmente.~~
@@ -568,7 +598,8 @@ II – Médias (M)
 
 III – Graves (G)
 
-I – Leves<br>
+I – Leves
+
     
 
 1\) comparecer ao serviço ou as solenidades com uniformes diferentes do previsto;
@@ -641,7 +672,8 @@ III – Graves
 
 11 ) Danificar ou extraviar ou não zelar corretamente de qualquer material público que esteja sob sua responsabilidade
 
-12\) Fazer mal uso de arma de fogo, ou disparar-la por negligencia ou imprudência quando em serviço ou se pertencente à guarda Municipal, ficando expressamente proibido o uso de arma de fogo fora de serviço.<br>
+12\) Fazer mal uso de arma de fogo, ou disparar-la por negligencia ou imprudência quando em serviço ou se pertencente à guarda Municipal, ficando expressamente proibido o uso de arma de fogo fora de serviço.
+
 (Redação alterada pela Lei Ordinária nº 1.649, de 21 de outubro de 1997).
 
 ~~12 ) Fazer mal uso de arma de fogo ou dispará-lo por negligencia ou imprudência quando em serviço ou se pertencer a Guarda Municipal.~~
@@ -678,7 +710,8 @@ III – Graves
 
 28 ) Receber benefícios, favores ou propinas por serviços prestados em razão da função que exerce ou cobrar qualquer bônus ou taxa pelo serviço que presta com Guarda Municipal.
 
-Capítulo V<br>
+Capítulo V
+
 Do Julgamento
 
 Art. 36 – O julgamento das infrações será precedido de uma análise que considere:
@@ -743,11 +776,12 @@ Art 40 – São circunstâncias agravantes das infrações:
 
     e ) Em público
 
-<br>
-Capítulo VI<br>
+Capítulo VI
+
 Das Penas Disciplinares
 
-Art. 41 – A pena disciplinar objetivo fortalecer a disciplina de trabalho e a ordem administrativa interna.<br>
+Art. 41 – A pena disciplinar objetivo fortalecer a disciplina de trabalho e a ordem administrativa interna.
+
     
 
     Parágrafo Único – A pena disciplinar visará  benefício educativo do punido e do agrupamento a que pertence.
@@ -806,17 +840,20 @@ Art. 47 – O enquadramento do infrator e as caracterizações das faltas cometi
 
 Parágrafo Único – O modelo padrão para enquadramento será instituído por ato próprio do Prefeito Municipal.
 
-Capítulo VII<br>
+Capítulo VII
+
 Das Modificações de Penalidades
 
 Art. 48 – Depois de aplicada a punição pode por ser modificada pela autoridade que aplicou ou por outro superior e competente desde que se tenha conhecimento de fatos reais recomendem e procedimento.
 
     Parágrafo Único – As punições poderão ser:
 
-    a) Anuladas;<br>
+    a) Anuladas;
+
   
 
- b) Atenuadas;<br>
+ b) Atenuadas;
+
  
 
    c) Agravadas
@@ -827,7 +864,8 @@ Art. 49 A Anulação da punição ocorrerá quando se comprovar a injustiça ou 
 
 Art. 50 – A atenuação de pena consiste na redução do número de dias de suspensão ou na anulação de uma repreensão
 
-Capítulo VIII<br>
+Capítulo VIII
+
 Da Apresentação de Recursos
 
 Art. 51 – Interpor recurso disciplinar é um direito concedido ao Guarda Municipal e ao demais funcionários da Guarda que se julguem prejudicados, ofendidos ou injustiçados por superior hierárquico, na esfera disciplinar interna.
@@ -840,7 +878,8 @@ Art. 51 – Interpor recurso disciplinar é um direito concedido ao Guarda Munic
 
     § 4º – Autoridade que receber o pedido de reconsideração de ato disporá até 20 (vinte) dias úteis para o despacho final do requerimento do interessado.
 
-Capítulo IX<br>
+Capítulo IX
+
 Do Comportamento Funcional
 
 Art. 52 – O comportamento da Guarda Municipal espalha o seu procedimento funcional, sob a ponto de vista disciplinar.
@@ -853,7 +892,8 @@ Art. 53 – O comportamento de pessoal da Guarda Municipal de Aparecida Goiânia
 
     b) Ótima
 
-    c) Excepcional<br>
+    c) Excepcional
+
     
 
     II – Negativas
@@ -894,7 +934,8 @@ Art. 56 – O servidor classificado no excepcional comportamento ao ser punido c
 
 Art. 57 – O servidor punido apresentará sues recursos com base nos prazos previstos na legislação municipal e no estatuto do servidor municipal.
 
-Capítulo X<br>
+Capítulo X
+
 Das Recompensas
 
 Art. 58 – As recompensas constituem-se no reconhecimento aos bons serviços prestados pelo servidor.
@@ -929,24 +970,30 @@ II- dispensa parcial de tarefa da função a serem especificadas no documento da
 
 § 3º- As dispensas a título de recompensa deverão seguir as normas do parágrafo 5º do artigo anterior.
 
-CAPITULO XI<br>
+CAPITULO XI
+
 DA SINDICÂNCIA E DA TRANSFERÊNCIA
 
-SEÇÃO I<br>
+SEÇÃO I
+
 SINDICÂNCIA
 
-Art. 62- A sindicância será procedida pela auditoria geral do município como instrumento de apuração de irregularidade de natureza administrativo e disciplinar.<br>
+Art. 62- A sindicância será procedida pela auditoria geral do município como instrumento de apuração de irregularidade de natureza administrativo e disciplinar.
+
 Parágrafo único- O coordenador da guarda municipal é competente para de oficio apurar ou mandar apurar qualquer irregularidade ocorrida no órgão, sempre em conjunto com a Auditoria Geral do Município.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA TRANSFERÊNCIA
 
 Art. 63- O guarda municipal poderá ser transferido de função dentro do grupo ocupacional ou que pertence quando não se adaptar ao trabalho ou por necessidade de melhor adequação de sua capacitação profissional através de ato administrativo do coordenador.   
 
-TITULO IV<br>
+TITULO IV
+
 DOS UNIFORMES E INSIGNIAS
 
-CAPITULO I<br>
+CAPITULO I
+
 DAS NORMAS GERAIS
 
 Art 64- O presente título define os uniformes e insígnias e demais distintivos de uso da Guarda Municipal de Aparecida de Goiânia.
@@ -969,24 +1016,28 @@ Art. 71 - O uso dos uniformes estabelecidos nesta lei constituem prerrogativa ex
 
 § 2º Os Guardas Civis Municipais inativos autorizados a usar uniforme deverão utilizar distintivo que identifique a sua condição.
 
-§ 3° - É vedado ao Guarda Civil Municipal participar uniformizado de manifestações políticas de qualquer natureza ou utilizar o fardamento fora do serviço, quando afastado oficialmente das atividades por motivo de suspensão disciplinar, dispensa médica superior a 10 (dez) dias, ou por qualquer outro motivo determinado pelo inspetor comandante Geral da Guarda Civil ou por autoridade superior.<br>
+§ 3° - É vedado ao Guarda Civil Municipal participar uniformizado de manifestações políticas de qualquer natureza ou utilizar o fardamento fora do serviço, quando afastado oficialmente das atividades por motivo de suspensão disciplinar, dispensa médica superior a 10 (dez) dias, ou por qualquer outro motivo determinado pelo inspetor comandante Geral da Guarda Civil ou por autoridade superior.
+
 (Redação alterada pela Lei Ordinária nº 3.568, de 3 de julho de 2020).
 
-~~Artigo 71 – É  vedado ao guarda Municipal participar de manifestações políticas quando em serviço, fardado ou armado, ou utilizar fardamento ou arma de fogo fora de serviço; quando afastado oficialmente das atividades por motivo de suspensão disciplinar, dispensa medica superior a dez dias; quando na inatividade, ou por qualquer outro motivo determinado pelo coordenador ou autoridade superior.~~<br>
+~~Artigo 71 – É  vedado ao guarda Municipal participar de manifestações políticas quando em serviço, fardado ou armado, ou utilizar fardamento ou arma de fogo fora de serviço; quando afastado oficialmente das atividades por motivo de suspensão disciplinar, dispensa medica superior a dez dias; quando na inatividade, ou por qualquer outro motivo determinado pelo coordenador ou autoridade superior.~~
+
 ~~(Redação alterada pela Lei Ordinária nº 1.649, de 21 de outubro de 1997).~~
 
 ~~Art 71- É vedado ao Guarda Municipal participar fardado de manifestações políticas que qualquer natureza ou utilizar o fardamento fora do serviço,quando afastado oficialmente das atividades por motivo de suspensão disciplinar, dispensa médica superior a 10 (dez) dias, quando na inatividade, ou por qualquer outro motivo determinado pelo coordenador ou por autoridade superior.~~ 
 
 Art 72- O Guarda Municipal que comparecer fardado as solenidades de atos sociais utilizarão, na ocasião o traje definido em ordem superior especifica.
 
-~~Art 73- Os uniformes previstos no Capitulo II deste título são de uso e posse exclusivo dos Guardas Municipais da ativa.~~ <br>
+~~Art 73- Os uniformes previstos no Capitulo II deste título são de uso e posse exclusivo dos Guardas Municipais da ativa.~~ 
+
 (Revogado pela Lei Ordinária nº 3.568, de 3 de julho de 2020).
 
 Art 74- Todos os uniformes insígnias e distintivos previstos neste título são fornecidos pela prefeitura Municipal de Aparecida de Goiânia.
 
 Art. 75- É facultado ao Coordenador da Guarda Municipal de Aparecida de Goiânia, seja Militar ou Civil, o uso dos uniformes e insígnias previstos neste regulamento, desde que o faça com seus próprios recursos.
 
-CAPITULO II<br>
+CAPITULO II
+
 CLASSIFICAÇÃO, COMPOSIÇÃO E USO DE UNIFORMES
 
 Art. 76 – Para efeitos desta lei são adotadas as seguintes classificações e definições:
@@ -1167,7 +1218,8 @@ II - Em substituição ás peças da alínea “c” e “e” do inciso I, pode
 
 § 9° - Qualquer alteração na matéria prima, criação de novo uniforme ou modificação de qualquer detalhe das peças, somente poderá ocorrer mediante prévia disponibilidade orçamentária e financeira da GCMAPGO e expressa autorização do chefe do poder executivo.
 
-I - Na hipótese da não fabricação dos tecidos utilizados para a confecção dos uniformes da Corporação, estes deverão ser substituídos por outros da mesma composição e cor, ou similar, garantidas as características originais, a qualidade e a durabilidade.<br>
+I - Na hipótese da não fabricação dos tecidos utilizados para a confecção dos uniformes da Corporação, estes deverão ser substituídos por outros da mesma composição e cor, ou similar, garantidas as características originais, a qualidade e a durabilidade.
+
 (Redação alterada pela Lei Ordinária nº 3.568, de 3 de julho de 2020).
 
 ~~Art. 76- São as seguintes as classificações e a composição dos uniformes da Guarda Muncipal; (Alterado pela Lei Municipal 3.568/2020)~~
@@ -1232,7 +1284,8 @@ I - Na hipótese da não fabricação dos tecidos utilizados para a confecção 
 
 Art. 77- O Coordenador da Guarda Municipal poderá baixar normas instituindo o uso de uniformes especiais para o pessoal de saúde e de outras atividade diferenciadas bem como o uso de simbolos ou medalhas de ordem de merecimento ou direito tecno profissional do servidor
 
-CAPITULO III<br>
+CAPITULO III
+
 DA DISTRIBUIÇÃO E CONTROLO DO UNIFORME
 
 Art. 78- As distribuições do fardamento e dos demais adereços de uso obrigatório de competência da coordenadoria da Guarda Municipal através de seu almoxarifado.
@@ -1241,10 +1294,12 @@ Art 79- Todas as peças do fardamento, tem como outros elementos que devam comp�
 
 Art 80- A distribuição dar-se-a por meio de guia de distribuição de fardamento, de acordo com modelo próprio a ser elaborado onde o recebedor porá seu “recibo” assinando-o.
 
-Art 81- O Guarda Municipal receberá fardamento nas datas estabeleci dadas pela coordenadoria dentro dos limites do estoque e de acordo com nomes a serem baixados pelo coordenador.<br>
+Art 81- O Guarda Municipal receberá fardamento nas datas estabeleci dadas pela coordenadoria dentro dos limites do estoque e de acordo com nomes a serem baixados pelo coordenador.
+
 Parágrafo Único- Somente os Guardas cujo fardamento seja danificado em objeto de serviço ou por outros fatores adversos a que não atenham dado causa não puderem evitar fugir à regra deste artigo.
 
-Art 82- O controle do fardamento verificar-se-a através de ficha individual<br>
+Art 82- O controle do fardamento verificar-se-a através de ficha individual
+
 onde constarão discriminadamente todas as peças distribuídas e pela guia de distribuição coletiva.
 
 Art 83- Todo Guarda Municipal é responsável pelo seu fardamento, tanto pela sua manutenção boa apresentação e selo como pelo extravio ou desaparecimento.
@@ -1261,7 +1316,8 @@ Art. 85 – O Período de duração das peças de fardamento será estabelecida 
 
 Art. 86 – Todas as vezes que ocorrer desgastes prematuro do material o chefe imediato da Guarda deverá apurar as causas junto ao responsável de forma que se esclarecerá a responsabilidade pecuniária dele decorrente serão imputadas ao guarda usuário ou ao patrimônio público.
 
-Capítulo IV<br>
+Capítulo IV
+
 Das Disposições Finais
 
 Art. 87 – São símbolos oficiais do serviço da Guarda Municipal:
@@ -1276,7 +1332,8 @@ IV – O Hino.
 
 Art. 88 – O hino da Guarda Municipal bem como a bandeira o símbolo e o brasão serão objetos de concurso ou da colaboração de especialistas em músicas e arte e será aprovado por ato completar do chefe do Executivo Municipal.
 
-Art. 89 – O Conhecimento e o uso do que esta lei regulamenta e obrigatório<br>
+Art. 89 – O Conhecimento e o uso do que esta lei regulamenta e obrigatório
+
  para todo componente do serviço da Guarda Municipal, constituindo-se em matéria curricular nos cursos internos.
 
 Art. 90 – Os atuais componentes da Guarda Municipal serão enquadrados nos componentes bom, insuficiente e mau de acordo com a avaliação de merecimento processadas na Secretaria de Administração Município.
@@ -1287,19 +1344,24 @@ Art. 92 – Esta lei entrará em vigor na data de sua publicação revogadas as 
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos vinte e seis dias do mês de Maio de Hum Mil e Novecentos e noventa e quatro.
 
-Norberto Teixeira<br>
+Norberto Teixeira
+
 Prefeito Municipal
 
-Walter de Carvalho e Silva<br>
+Walter de Carvalho e Silva
+
 Sec. Executivo
 
-José Caldas da Cunha<br>
+José Caldas da Cunha
+
 Sec. Administração
 
 ANEXO I
 
-Prefeitura Municipal de Aparecida de Goiânia<br>
-Plano de Carreira    <br>
+Prefeitura Municipal de Aparecida de Goiânia
+
+Plano de Carreira    
+
  
 
 | Descrição de Classe |
@@ -1308,7 +1370,8 @@ Plano de Carreira    <br>
 | Código da Classe: | Carga Horária Semanal: 40 horas |
 | Grau: 2 | Carreira: Guarda Municipal | Grupo Operacional: Administrativo |
 | Sumário das Atribuições: Executar policiamento ostensivo, preventivo, uniformizado e armado, exercendo a segurança interna das Próprias Municipais |
-| Tarefas Típicas:    Dar garantia as atividades administrativas no âmbito do município.<br>
+| Tarefas Típicas:    Dar garantia as atividades administrativas no âmbito do município.
+
 (Redação alterada pela Lei Ordinária nº 1.649, de 21 de outubro de 1997). ~~Inspecionar dependências do Órgão, fazendo rondas nos períodos diurnos e noturnos; fiscalizar portões de entrada e saída controlando pessoas e veículos.     Exercer a segurança interna e externa dos Órgãos Municipais, Garantir o funcionamento dos serviços de segurança do Município.     Dar Garantia às atividades de polícia administrativa no âmbito do Município.     Prestar colaboração a Defesa Civil.     Colaborar na prevenção e combate a incêndios e inundações. Orientar, fiscalizar e controlar o trânsito municipal de pedestre e veículos na área de suas atribuições.     Colaborar com os diversos Órgãos Públicos nas atividades que lhe digam respeito.     Cumprir fielmente as ordens emanadas de seus superiores hierárquicos     Desempenhar outras atividades correlatas~~ |
 | ESPECIFICAÇÕES DA CLASSE |
 | Formação Escolar: Escolaridade: 1º fase do 1º Grau Cursos Específicos: Curso de formação de Guarda Municipal |
@@ -1317,7 +1380,8 @@ Plano de Carreira    <br>
 | Diretores Gerenciais |
 | Recrutamento: Concursos Público Treinamento: Curso de especialização e reciclagem funcional, estágios e visitas técnicas programadas Progressão: Conforme os resultados da avaliação de desempenho. Promoção: Dentro da mesma carreira, através de comprovação de requisitos exigidos para a classe imediatamente superior, observada a existência de vagas. Ascensão: Quando envolver mudança de nível, através de reclassificação interna conforme Plano de Carreira e Estatuto da PMAG |
 
-Norberto Teixeira<br>
+Norberto Teixeira
+
 Prefeito Municipal
 
 Recrutamento: interno
@@ -1328,11 +1392,12 @@ Progresso: Dentro da mesma carreira, através de comprovação de requisitos exi
 
 Ascensão: Quando envolver mudanças de nível através de reclassificação interna ou na inexistência de pessoal que preencha os requisitos necessários, e por escrita necessidade do serviço, poderá o coordenador indicar para preenchimento do cargo conforme plano de Carreiras e estatutos da PMAG.
 
-Norberto Teixeira<br>
+Norberto Teixeira
+
 Prefeito Municipal
 
-<br>
-PREFEITURA MUNICIPAL DE APARECIDA DE DE GOIÂNIA<br>
+PREFEITURA MUNICIPAL DE APARECIDA DE DE GOIÂNIA
+
 PLANO DE CARREIRA
 
 | Descrição de Classe | Última Atualização |
@@ -1349,6 +1414,6 @@ PLANO DE CARREIRA
 | Diretrizes Gerenciais |
 | Recrutamento: interno Treinamento: curso de formação especializado e reciclagem funcional, estágios e visitas técnicas programadas. Progressão: Dentro da mesma carreira através de comprovação de requisitos exigidos para a a classe imediatamente superior observada a existência de vagas. Ascensão: Quando envolver mudanças de nível, através de classificação interna, ou na existência de pessoal que preencha os requisitos necessários e por estrita necessidade do serviço, poderá o coordenador indicar para preenchimento do cargo conforme Plano de Carreira e Estatuto da PMAG. |
 
-<br>
-Norberto Teixeira<br>
-Prefeito Municipal<br>
+Norberto Teixeira
+
+Prefeito Municipal

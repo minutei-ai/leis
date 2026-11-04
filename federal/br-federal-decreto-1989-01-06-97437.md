@@ -1,5 +1,3 @@
-###DEC-097437-0-000-06-01-1989@@@
-
 DECRETO N° 97.437, DE 6 DE JANEIRO DE 1989
 
 Fixa os Efetivos dos Quadros Complementares de Oficiais da Marinha para o ano de 1989.

@@ -1,5 +1,3 @@
-###DEC-045713-0-000-06-04-1959@@@
-
 DECRETO Nº 45.713, DE 6 DE ABRIL DE 1959.
 
 Autoriza Th. Badin de Minérios Limitada a pesquisar cassiterita nos municípios de Livramento do Brumado, Rio de Contas e Ituaçu, Estado da Bahia.

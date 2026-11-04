@@ -1,5 +1,3 @@
-###DEL-005657-0-000-08-07-1943@@@
-
 DECRETO‑LEI N. 5.657 – DE 8 DE JULHO DE 1943
 
 Autoriza a alienação de terrenos situados no município de Belo Horizonte, no Estado de Minas Gerais, e dá outras providências

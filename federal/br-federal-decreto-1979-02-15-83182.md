@@ -1,5 +1,3 @@
-###DEC-083182-0-000-15-02-1979@@@
-
 DECRETO Nº 83.182, DE 15 DE FEVEREIRO DE 1979
 
 Autoriza a conversão dos cursos de Ciências e de Matemática, em curso de Ciências, ministrados pela Faculdade de Educação, Ciências e Letras de Cascavel, com sede na cidade de Cascavel, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-057997-0-000-14-03-1966@@@
-
 DECRETO Nº 57.997, DE 14 DE MARÇO DE 1966.
 
 Transfere concessão.

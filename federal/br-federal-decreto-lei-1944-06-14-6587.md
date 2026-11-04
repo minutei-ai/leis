@@ -1,5 +1,3 @@
-###DEL-006587-0-000-14-06-1944@@@
-
 DECRETO-LEI N. 6.587 – DE 14 DE JUNHO DE 1944
 
 Incorpora ao Parque Nacional do Iguassu áreas que menciona

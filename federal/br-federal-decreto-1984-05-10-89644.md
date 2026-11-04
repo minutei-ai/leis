@@ -1,5 +1,3 @@
-###DEC-089644-0-000-10-05-1984@@@
-
 Decreto nº 89.644, de 10 de maio de 1984
 
 Amplia a área prioritária fixada pelo Decreto nº 87.254, de 7 de junho de 1982, localizada nos Municípios de Turmalina e Populina, no Estado de São Paulo.

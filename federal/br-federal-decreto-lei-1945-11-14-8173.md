@@ -1,5 +1,3 @@
-###DEL-008173-0-000-14-11-1945@@@
-
 DECRETO-LEI N. 8.173 – DE 14 DE NOVEMBRO DE 1945
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 125.000,00 para pagamento de subvenção extraordinária à União dos Escoteiros do Brasil.

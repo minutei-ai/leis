@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/430f2ff9-325b-4ce0-9314-ab88ada5dcd1/texto#nowhere)
 
-###DEL-001766-0-000-28-01-1980@@@
-
 # Decreto-lei nº 1.766, de 28 dejaneiro de 1980.
 
 Dispõe sobre dação de imóveis em pagamento de débitos relativos ao imposto sobre a Propriedade Territorial Rural, à Taxa de Serviços Cadastrais, à Contribuição Sindical Rural, e à Contribuição de que trata o art. 5º do Decreto-Lei nº 1.146, de 31 de dezembro de 1970, e dá outras providências.

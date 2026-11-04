@@ -1,5 +1,3 @@
-###DEC-006323-0-000-27-12-2007@@@
-
 DECRETO Nº 6.323, DE 27 DE DEZEMBRO DE 2007.
 
 Regulamenta a Lei no 10.831, de 23 de dezembro de 2003, que dispõe sobre a agricultura orgânica, e dá outras providências.
@@ -947,5 +945,3 @@ José Gomes Temporão
 João Paulo Ribeiro Capobianco
 
 Guilherme Cassel
-
-Este texto não substitui o publicado no DOU de 28.12.2007

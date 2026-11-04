@@ -1,5 +1,3 @@
-###DEC-066987-0-000-31-07-1970@@@
-
 Decreto nº 66.987, de 31 de julho de 1970.
 
 Revoga o Decreto nº 29.335, de 1951.

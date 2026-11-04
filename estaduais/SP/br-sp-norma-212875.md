@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212875)<br>
-
 # DECRETO N° 70.783, DE 05 DE AGOSTO DE 2026
 
 ### _Altera o Decreto n° 60.435, de 13 de maio de 2014, que dispõe sobre as consignações em folha de pagamento de servidores públicos civis e militares, ativos, inativos e reformados e de pensionistas da administração direta e autárquica._

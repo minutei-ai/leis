@@ -1,5 +1,3 @@
-###DEC-064973-0-000-11-08-1969@@@
-
 DECRETO Nº 64.973 - DE 11 DE AGÔSTO DE 1969.
 
 Concede à empresa Italcable Servizi Cablografici Radiotelegrafici e Radioelettrici - Societá Per Azione autorização para continuar a funcionar na República Federativa do Brasil.

@@ -1,5 +1,3 @@
-###DEC-070331-0-000-27-03-1972@@@
-
 DECRETO Nº 70.331, DE 27 DE MARÇO DE 1972.
 
 Redistribui cargo, com a respectiva ocupante, para o Ministério das Relações Exteriores, e dá outras providências.

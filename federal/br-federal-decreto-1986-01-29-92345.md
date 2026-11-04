@@ -1,5 +1,3 @@
-###DEC-092345-0-000-29-01-1986@@@
-
 DECRETO Nº 92.345, DE 29 DE JANEIRO DE 1986
 
 Cria o Programa FINOR-ALIMENTOS, e dá outras providências.

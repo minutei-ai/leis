@@ -1,5 +1,3 @@
-###DEC-057085-0-000-15-10-1965@@@
-
 DECRETO Nº 57.085, DE 15 DE OUTUBRO DE 1965.
 
 Autoriza a Indústrias Brasileiras de Artigos Refratários S.A. - IBAR a lavrar argila no município de Poços de Caldas, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-082123-0-000-17-08-1978@@@
-
 Decreto nº 82.123, de 17 de agosto de 1978.
 
 Concede à TECMINAS - Empresa Técnica, Comercial e Industrial de Minérios Ltda. o direito de lavrar barita no Município de Itauberá, Estado da Bahia.

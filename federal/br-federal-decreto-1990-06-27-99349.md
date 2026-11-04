@@ -1,7 +1,3 @@
-1
-
-###DEC-099349-0-000-27-06-1990@@@
-
 DECRETO Nº 99.349, DE 27 DE JUNHO DE 1990
 
 Reduz alíquota do Imposto sobre Produtos Industrializados incidente sobre os veículos que especifica.

@@ -1,5 +1,3 @@
-###DEL-004169-0-000-12-03-1942@@@
-
 DECRETO-LEI N. 4.169 – DE 12 DE MARÇO DE 1942
 
 Autoriza o Prefeito do Distrito Federal a conceder a isenção de 50 por cento (cinqüenta por cento) do imposto predial, ao imóvel que menciona.

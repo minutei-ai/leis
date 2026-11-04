@@ -1,5 +1,3 @@
-###DEL-005727-0-000-05-08-1943@@@
-
 DECRETO-LEI N. 5.727 – DE 5 DE AGÔSTO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 50.000,00, à verba que especifica

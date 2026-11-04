@@ -1,5 +1,3 @@
-###DEC-069511-0-000-08-11-1971@@@
-
 DECRETO Nº 69.511 - DE 8 de NOVEMBRO DE 1971
 
 Concede reconhecimento ao Curso de Pedagogia da Faculdade de Educação "Padre Anchieta", SP.

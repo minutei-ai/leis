@@ -1,7 +1,3 @@
-1
-
-###MPV-001012-0-000-26-05-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.012, DE 26 DE MAIO DE 1995
 
 Dispõe sobre a fixação das mensalidades escolares e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-000300-0-000-29-06-2006@@@
-
 MEDIDA PROVISÓRIA Nº 300, DE 29 DE JUNHO DE 2006.
 
 Autoriza o Poder Executivo, na forma e condições estipuladas, a pagar valores devidos aos anistiados políticos de que trata a Lei no 10.559, de 13 de novembro de 2002, e dá outras providências.
@@ -89,5 +87,3 @@ LUIZ INÁCIO LULA DA SILVA
          Waldir Pires
 
             Paulo Bernardo Silva
-
-Este texto não substitui o publicado no D.O.U. de 30.6.2006

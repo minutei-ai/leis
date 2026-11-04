@@ -1,5 +1,3 @@
-###DEC-002892-0-000-22-12-1998@@@
-
 DECRETO Nº 2.892, DE 22 DE DEZEMBRO DE 1998.
 
 Dá nova redação aos arts. 8º e 9º do Decreto nº 2.693, de 28 de julho de 1998, que dispõe sobre os procedimentos para pagamento da extensão da vantagem de vinte e oito vírgula oitenta e seis por cento aos servidores públicos do Poder Executivo Federal.

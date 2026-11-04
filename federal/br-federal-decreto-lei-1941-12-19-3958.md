@@ -1,5 +1,3 @@
-###DEL-003958-0-000-19-12-1941@@@
-
 DECRETO-LEI N. 3.958 – DE 19 DE DEZEMBRO DE 1941
 
 Aprova o aforamento concedido à D. Bernardina Constant Serejo, filha de Benjamin Constant.

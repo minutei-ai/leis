@@ -1,7 +1,3 @@
-1
-
-###DEC-097987-0-000-24-07-1989@@@
-
 DECRETO Nº 97.987, DE 24 DE JULHO DE 1989
 
 Outorga concessão ao SISTEMA CLUBE DO PARÁ DE COMUNICAÇÃO LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Marabá, Estado do Pará.

@@ -1,5 +1,3 @@
-###DEC-082833-0-000-13-12-1978@@@
-
 Decreto nº 82.833, de 13 de dezembro de 1978
 
 Declara a nulidade de alienações praticadas por FUAD LUTFALLA, FÁBIO LUTFALLA, FUAD LUTFALLA JR. E EDMUNDO KEHDI, confisca bens reintegrados; patrimônio e dá outras providências.

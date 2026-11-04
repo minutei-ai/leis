@@ -1,6 +1,6 @@
 **LEI Nº 18.467, DE 27 DE DEZEMBRO DE 2023.**
 
-**Denomina de Rodovia Deputado Lívio Valença, a rodovia PE-193, que liga o Município de São Bento do Una ao Município de Capoeiras**<strong>.</strong>
+**Denomina de Rodovia Deputado Lívio Valença, a rodovia PE-193, que liga o Município de São Bento do Una ao Município de Capoeiras.**
 
 O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE PERNAMBUCO:
 

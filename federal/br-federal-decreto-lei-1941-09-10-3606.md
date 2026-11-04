@@ -1,5 +1,3 @@
-###DEL-003606-0-000-10-09-1941@@@
-
 DECRETO-LEI N. 3.606 – DE 10 DE SETEMBRO DE 1941
 
 Altera, sem aumento de despesa, o Orçamento Geral da União na parte referente ao Conselho Federal de Comércio Exterior

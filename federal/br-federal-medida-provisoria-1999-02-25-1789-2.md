@@ -1,5 +1,3 @@
-###MPV-001789-0-002-25-02-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.789-2, DE 25 DE FEVEREIRO DE 1999.
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

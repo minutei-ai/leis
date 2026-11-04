@@ -1,5 +1,3 @@
-###DEC-053830-0-000-24-03-1964@@@
-
 DECRETO Nº 53.830, DE 24 DE MARÇO DE 1964.
 
 Declara de interêsse social, para fins de desapropriação as áreas de terras situadas no Município de Presidente Prudente, Estado e São Paulo, e dá outras providências.
@@ -23,8 +21,6 @@ Brasília, 24 de março de 1964; 143º da Independência e 76º da República.
 João Goulart
 
 Oswaldo Lima Filho
-
-###DEC-053830-0-000-24-03-1964@@@RET01 +++
 
 DECRETO Nº 53.830, DE 24 DE MARÇO DE 1964.
 

@@ -1,7 +1,3 @@
-1
-
-###LCP-000021-0-000-24-09-1974@@@
-
 # lei cOMPlemeNTAR Nº 21, DE 24 DE SETEMBRO DE 1974
 
 Estabelece, nos termos do art. 103 da Constituição federal, casos de aposentadoria compulsória no Grupo-Diplomacia, Código D-300.

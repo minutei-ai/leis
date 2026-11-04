@@ -1,5 +1,3 @@
-###DEC-084398-0-000-16-01-1980@@@
-
 Decreto nº 84.398, de 16 de janeiro de 1980
 
 Dispõe sobre a ocupação de faixas de domínio de rodovias e de terrenos de domínio público e a travessia de hidrovias, rodovias e ferrovias, por linhas de transmissão, subtransmissão e distribuição de energia elétrica e dá outras providências.

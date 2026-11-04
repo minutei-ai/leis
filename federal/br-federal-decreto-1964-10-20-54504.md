@@ -1,5 +1,3 @@
-###DEC-054504-0-000-20-10-1964@@@
-
 DECRETO Nº 54.504, DE 20 DE OUTUBRO DE 1964.
 
 Autoriza o Ministério da Aeronáutica a aceitar doação de terrenos em Castilho, Estado de São Paulo.

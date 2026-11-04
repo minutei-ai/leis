@@ -1,5 +1,3 @@
-###DEC-069499-0-000-05-11-1971@@@
-
 DECRETO Nº 69.499 - de 5 DE novembro DE 1971
 
 Declara de utilidade pública a Ação Paroquial de Assistência - APA, com sede em Santa Rita de Passa Quatro, Estado de São Paulo.

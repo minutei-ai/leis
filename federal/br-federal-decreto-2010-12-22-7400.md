@@ -1,5 +1,3 @@
-###DEC-007400-0-000-22-12-2010-PUB-01@@@
-
 DECRETO Nº 7.400, DE 22 DE DEZEMBRO DE 2010
 
 Promulga o Protocolo Adicional ao Acordo Básico de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo da República Italiana sobre Cooperação Descentralizada, firmado em Roma, em 17 de outubro de 2007.

@@ -1,5 +1,3 @@
-###DEL-005871-0-000-01-10-1943@@@
-
 DECRETO-LEI N. 5.871 – DE 1 DE OUTUBRO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 42.000,00, à verba que especifica

@@ -1,5 +1,3 @@
-###DEL-009477-0-000-17-07-1946@@@
-
 DECRETO-LEI N. 9.477 – DE 17 DE JULHO DE 1946
 
 Concede gratificação de magistério a Professor Substituto da Faculdade de Medicina da Bahia.

@@ -1,5 +1,3 @@
-###DEL-006061-0-000-02-12-1943@@@
-
 DECRETO‑LEI N. 6.061 – DE 2 DE DEZEMBRO DE 1943
 
 Abre ao Ministério da Agricultura o crédito suplementar de Cr$ 8.400,00, à verba que especifica

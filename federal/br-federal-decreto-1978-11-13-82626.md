@@ -1,5 +1,3 @@
-###DEC-082626-0-000-13-11-1978@@@
-
 Decreto nº 82.626, de 13 de novembro de 1978
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona, situado no Município de Belém, Estado do Pará.

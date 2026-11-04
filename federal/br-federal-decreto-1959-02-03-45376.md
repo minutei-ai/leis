@@ -1,5 +1,3 @@
-###DEC-045376-0-000-03-02-1959@@@
-
 DECRETO Nº 45.376, DE 3 DE FEVEREIRO DE 1959.
 
 Autoriza estrangeira a adquirir, em regime de ocupação, frações ideais do terreno de marinha que menciona, no Distrito Federal.

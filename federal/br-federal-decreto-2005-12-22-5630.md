@@ -1,5 +1,3 @@
-###DEC-005630-0-000-22-12-2005@@@
-
 DECRETO Nº 5.630, DE 22 DE DEZEMBRO DE 2005.
 
        Dispõe sobre a redução a zero das alíquotas da Contribuição para o PIS/PASEP e da COFINS incidentes na importação e na comercialização no mercado interno de adubos, fertilizantes, defensivos agropecuários e outros produtos, de que trata o art. 1o da Lei no 10.925, de 23 de julho de 2004.
@@ -53,5 +51,3 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 LUIZ INÁCIO LULA DA SILVA
 
        Antonio Palocci Filho
-
-Este texto não substitui o publicado no DOU de 23.12.2005

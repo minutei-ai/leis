@@ -1,5 +1,3 @@
-###DEC-005850-0-000-18-07-2006@@@
-
 DECRETO Nº 5.850, DE 18 DE JULHO DE 2006.
 
 Promulga o Acordo de Cooperação Técnica na Área de Turismo entre o Governo da República Federativa do Brasil e o Governo da República do Peru, celebrado em Brasília, em 6 de dezembro de 2002.
@@ -24,11 +22,7 @@ Brasília, 18 de julho de 2006; 185º da Independência e 118º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 19.7.2006
-
-ACORDO DE COOPERAÇÃO TÉCNICA NA ÁREA DE TURISMO ENTRE
+        Celso Luiz Nunes AmorimACORDO DE COOPERAÇÃO TÉCNICA NA ÁREA DE TURISMO ENTRE
 
  O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O
 

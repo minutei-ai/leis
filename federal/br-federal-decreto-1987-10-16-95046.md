@@ -1,5 +1,3 @@
-###DEC-095046-0-000-16-10-1987@@@
-
 DECRETO Nº 95.046, DE 16 DE OUTUBRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Nova Crixás, da Centrais Elétricas de Goiás S.A. - CELG, no Estado de Goiás.

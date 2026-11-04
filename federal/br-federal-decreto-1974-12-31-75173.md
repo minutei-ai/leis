@@ -1,5 +1,3 @@
-###DEC-075173-0-000-31-12-1974@@@
-
 Decreto nº 75.173, de 31 de dezembro de 1974.
 
 Cancela autorização para funcionamento no Brasil  da Assurances Générales de France - IART.
@@ -17,8 +15,6 @@ Brasília, 31 de dezembro de 1974; 153º da Independência e 86º da República.
 ERNESTO GEISEL
 
 Savero Fagundes Gomes
-
-###DEC-075173-0-000-31-12-1974@@@RET01+++
 
 DECRETO Nº 75.173, DE 31 DE DEZEMBRO DE 1974.
 

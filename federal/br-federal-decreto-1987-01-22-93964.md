@@ -1,5 +1,3 @@
-###DEC-093964-0-000-22-01-1987@@@
-
 DECRETO Nº 93.964, DE 22 DE JANEIRO DE 1987
 
 Altera os artigos 4º e 13 do Decreto nº 85.645, de 20 de janeiro de 1981 e revoga o artigo 3º do Decreto nº 91.403, de 05 de julho de 1985.

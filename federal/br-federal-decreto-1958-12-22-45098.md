@@ -1,5 +1,3 @@
-###DEC-045098-0-000-22-12-1958@@@
-
 DECRETO Nº 45.098, DE 22 DE DEZEMBRO DE 1958.
 
 Autoriza a cessão gratuita de uma faixa de terreno da Coudelaria de Campos, no Estado do Rio de Janeiro.

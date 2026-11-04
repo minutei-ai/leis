@@ -1,5 +1,3 @@
-###DEC-084321-0-000-18-12-1979@@@
-
 Decreto nº 84.321, de 18 de dezembro de 1979.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Santa Catarina S.A. - CELESC, no Estado de Santa Catarina.

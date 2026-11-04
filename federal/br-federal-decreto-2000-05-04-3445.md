@@ -1,5 +1,3 @@
-###DEC-003445-0-000-04-05-2000@@@
-
 DECRETO Nº 3.445, DE 4 DE MAIO DE 2000.
 
 Altera dispositivos do Decreto nº 2.710, de 4 de agosto de 1998.

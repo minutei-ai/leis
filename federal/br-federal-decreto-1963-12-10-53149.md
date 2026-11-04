@@ -1,5 +1,3 @@
-###DEC-053149-0-000-10-12-1963@@@
-
 DECRETO Nº 53.149, DE 10 DE SETEMBRO DE 1963.
 
 Autoriza a Companhia Geral de Minas a lavrar bauxita, no município de Poços de Caldas, Estado de Minas Gerais.

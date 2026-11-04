@@ -1,5 +1,3 @@
-###MPV-002157-0-003-27-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.157‑ 3, DE 27 DE JUNHO DE 2001
 
 Cria a Agência de Desenvolvimento da Amazônia ‑ ADA, extingue a Superintendência do Desenvolvimento da Amazônia - SUDAM, e dá outras providências.

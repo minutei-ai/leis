@@ -1,5 +1,3 @@
-###DEC-070963-0-000-10-08-1972@@@
-
 decreto nº 70.963, de 10 de Agosto de 1972.
 
 Revoga os Decretos números 58.698, de 22 de junho de 1966, e 61.284, de 5 de setembro de 1967.

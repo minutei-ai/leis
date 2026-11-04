@@ -1,5 +1,3 @@
-###DEC-069786-0-000-14-12-1971@@@
-
 DECRETO Nº 69.786 - DE 14 DE DEZEMBRO DE 1971
 
 Autoriza o funcionamento do Curso de Engenharia Florestal, na Escola de Agronomia da Amazônia, em Belém-Pará.

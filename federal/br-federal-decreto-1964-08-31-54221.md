@@ -1,5 +1,3 @@
-###DEC-054221-0-000-31-08-1964@@@
-
 DECRETO Nº 54.221, DE 31 DE AGôSTO DE 1964.
 
 Altera o artigo 2º do Decreto nº 54.056, de 27 de julho de 1964.

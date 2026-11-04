@@ -1,5 +1,3 @@
-###DEC-083249-0-000-07-03-1979@@@
-
 Decreto nº 83 249, de 07 de março de 1979
 
 Concede á mineração rio do norte S.A. o direito de lavrar bauxita e laterita ferruginosa no Município de Oriximiná, Estado do Pará.

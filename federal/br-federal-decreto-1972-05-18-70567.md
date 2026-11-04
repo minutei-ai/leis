@@ -1,5 +1,3 @@
-###DEC-070567-0-000-18-05-1972@@@
-
 DECRETO Nº 70.567, DE 18 DE MAIO DE 1972.
 
 Redistribui, com a respectiva ocupante, para o Ministério da Marinha, cargo do extinto Departamento dos Correios e Telégrafos, e dá outras providências.

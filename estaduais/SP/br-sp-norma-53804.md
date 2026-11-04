@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=53804)
-
 # LEI Nº 11.966, DE 10 DE JUNHO DE 2005
 
 ## (PL 518/2004 - Arnaldo Jardim)

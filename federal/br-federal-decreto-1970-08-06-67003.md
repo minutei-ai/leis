@@ -1,5 +1,3 @@
-###DEC-067003-0-000-06-08-1970@@@
-
 DECRETO Nº 67.003, DE 6 DE AGÔSTO DE 1970.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 51.019, de 24 de julho de 1961, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público "Ingazeiras", no município de Paulistana, Estado do Piauí.

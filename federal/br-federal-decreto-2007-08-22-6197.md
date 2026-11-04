@@ -1,5 +1,3 @@
-###DEC-006197-0-000-22-08-2007@@@
-
 DECRETO Nº 6.197, DE 22 DE AGOSTO DE 2007.
 
 Dispõe sobre a execução do Sexagésimo Sexto Protocolo Adicional ao Acordo de  Complementação Econômica no 2, entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 9 de julho de 2007.
@@ -22,11 +20,7 @@ Dispõe sobre a execução do Sexagésimo Sexto Protocolo Adicional ao Acordo de
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 23.8.2007
-
-ACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 2
+Celso Luiz Nunes AmorimACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 2
 
 CELEBRADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL
 

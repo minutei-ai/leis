@@ -1,4 +1,5 @@
-DECRETO Nº 10.098, DE 14 DE JUNHO DE 2022<br>
+DECRETO Nº 10.098, DE 14 DE JUNHO DE 2022
+
 \- [Revogado pelo Decreto nº 10.634, de 31-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110418), art. 44.
 
 ~~Regulamenta o procedimento para a execução orçamentária e financeira das emendas parlamentares individuais impositivas por meio das transferências especiais previstas no art. 111-A da [Constituição estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual).~~

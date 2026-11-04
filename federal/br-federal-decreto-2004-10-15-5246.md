@@ -1,5 +1,3 @@
-###DEC-005246-0-000-15-10-2004@@@
-
 DECRETO Nº 5.246, DE 15 DE OUTUBRO DE 2004
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da Nova Zelândia sobre Isenção Parcial de Vistos, celebrado em Brasília, em 20 de novembro de 2001.

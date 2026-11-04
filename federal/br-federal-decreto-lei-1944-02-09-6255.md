@@ -1,5 +1,3 @@
-###DEL-006255-0-000-09-02-1944@@@
-
 DECRETO-LEI N. 6.255 – DE 9 DE FEVEREIRO DE 1944
 
 Dispõe sôbre a perfuração e o aparelhamento de poços a cargo da Inspetoria Federal de Obras Contra as Sêcas e dá outras providências

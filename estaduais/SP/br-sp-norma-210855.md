@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210855)<br>
-
 # DECRETO N° 69.475, DE 10 DE ABRIL DE 2025
 
 ### _Dispõe sobre a divulgação de compromissos públicos e a concessão de hospitalidades, brindes e presentes a agentes públicos da Administração Pública estadual._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 DISPOSIÇÕES GERAIS
 
 **Artigo 1° -** Este decreto dispõe sobre a divulgação de compromissos públicos e a concessão de hospitalidades, brindes e presentes a agentes públicos da Administração Pública estadual.
@@ -71,7 +70,8 @@ VII - presente diplomático: presente recebido, dado ou oferecido a agente públ
 
 9\. o contato eventual entre agentes públicos e interessados em processos decisórios relacionados àqueles, ocorrido em eventos ou em situações sociais, de forma não intencional, exceto se dos fatos e das circunstâncias apurados puder ser comprovada a representação de algum interesse.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 DO REGISTRO E DA PUBLICAÇÃO DA AGENDA DE COMPROMISSOS PÚBLICOS
 
 **Artigo 3° -** Ficam obrigados à divulgação da agenda de compromissos públicos os agentes públicos ocupantes dos seguintes cargos, funções ou empregos:
@@ -106,7 +106,8 @@ III - Secretário Executivo, Subsecretário, Chefe de Gabinete e dirigentes de u
 
 **Artigo 7° -** O agente público que participar de audiência deverá, sempre que possível, estar acompanhado de, no mínimo, mais um agente público da Administração Pública estadual.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 DO REGISTRO E DIVULGAÇÃO DE HOSPITALIDADES
 
 **Artigo 8° -** Todos os agentes públicos da Administração Pública estadual ficam obrigados ao registro e à divulgação de informações relativas a hospitalidades ofertadas por agente privado em decorrência de mandato, cargo, função ou emprego público que exerça ou ocupe.
@@ -153,7 +154,8 @@ VI - identificação do agente privado ofertante;
 
 VII - objetivo da hospitalidade.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 DO RECEBIMENTO E DO TRATAMENTO DE PRESENTES
 
 **Artigo 14 -** É vedado a todo agente público receber presente de agente privado, independentemente da existência de interesse direto ou indireto em decisão sua ou de colegiado do qual participe.
@@ -166,7 +168,8 @@ DO RECEBIMENTO E DO TRATAMENTO DE PRESENTES
 
 **§ 4° -** A vedação do "caput" deste artigo não se aplica ao recebimento de presentes diplomáticos.  
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 DISPOSIÇÕES FINAIS
 
 **Artigo 15 -** Os agentes públicos serão os responsáveis pela veracidade, registro e publicação de sua agenda de compromissos públicos, assim como das informações relativas a hospitalidades e presentes.

@@ -1,5 +1,3 @@
-###DEC-047176-0-000-06-11-1959@@@
-
 DECRETO Nº 47.176, DE 6 DE NOVEMBRO DE 1959.
 
 Concede reconhecimento ao Curso que indica.

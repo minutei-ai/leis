@@ -1,5 +1,3 @@
-###DEC-001902-0-000-09-05-1996@@@
-
 DECRETO Nº 1.902, DE 9 DE MAIO DE 1996.
 
 Promulga a Convenção Interamericana sobre Arbitragem Comercial Internacional, de 30 de janeiro de 1975.

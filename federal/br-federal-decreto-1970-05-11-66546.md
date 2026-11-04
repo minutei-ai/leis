@@ -1,5 +1,3 @@
-###DEC-066546-0-000-11-05-1970@@@
-
 DECRETO Nº 66.546, DE 11 DE MAIO DE 1970.
 
 Institui a Coordenação do "Projeto Integração", destinada à implementação de programa de estágios práticos para estudantes do sistema de ensino superior de áreas prioritárias, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-045247-0-000-15-01-1959@@@
-
 DECRETO Nº 45.247, DE 15 DE JANEIRO DE 1959.
 
 Autoriza o cidadão brasileiro José Thiegi a pesquisar diamantes e associados, no Município de Jacundá, Estado do Pará.

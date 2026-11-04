@@ -2,7 +2,8 @@ LEI Nº 8.262 DE 06 DE JUNHO DE 2002
 
 Altera a estrutura organizacional do Tribunal de Contas dos Municípios do Estado da Bahia, cria e extingue cargos, e dá outras providências.
 
-Ver também:<br>
+Ver também:
+
 Lei Complementar nº [28](https://www.legislabahia.ba.gov.br/documentos/lc-no-28-de-14-de-dezembro-de-2006#LEI_28) de 14 de dezembro de 2006 - Altera dispositivos da Lei Complementar nº 6, de 06.12.91, das Leis nº [7.976](https://www.legislabahia.ba.gov.br/documentos/lei-no-7976-de-03-de-dezembro-de-2001#LO_7_976) , de 03.12.01, 8.262, de 06.06.02, e [8.642](https://www.legislabahia.ba.gov.br/documentos/lei-no-8642-de-21-de-julho-de-2003#LO_8_642) , de 21.07.03, e dá outras providências.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:

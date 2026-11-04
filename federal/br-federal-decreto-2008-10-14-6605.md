@@ -1,5 +1,3 @@
-###DEC-006605-0-000-14-10-2008@@@
-
 DECRETO Nº 6.605, DE 14 DE OUTUBRO DE 2008.
 
 Dispõe sobre o Comitê Gestor da Infra-Estrutura de Chaves Públicas Brasileira - CG ICP-Brasil, sua Secretaria-Executiva e sua Comissão Técnica Executiva - COTEC.

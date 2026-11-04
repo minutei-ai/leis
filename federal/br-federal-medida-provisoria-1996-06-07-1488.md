@@ -1,7 +1,3 @@
-1
-
-###MPV-001488-0-000-07-06-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.488, DE 7 DE JUNHO DE 1996.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

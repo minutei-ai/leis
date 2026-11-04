@@ -1,5 +1,3 @@
-###DEC-076379-0-000-02-10-1975@@@
-
 DECRETO Nº 76.379, DE 2 DE OUTUBRO DE 1975.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Administração "São Marcos" com sede na Cidade de São Paulo, Estado de São Paulo.

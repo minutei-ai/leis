@@ -1,6 +1,4 @@
-###DEC-034901-0-000-06-01-1954@@@
-
-<strong>DECRETO Nº 34.901, DE 6 DE JANEIRO DE 1954.</strong>
+**DECRETO Nº 34.901, DE 6 DE JANEIRO DE 1954.**
 
 <!-- fac-simile-oficial:inicio -->
 

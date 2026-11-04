@@ -1,5 +1,3 @@
-###DEC-059536-0-000-11-11-1966@@@
-
 DECRETO N º 59.536, DE 11 DE NOVEMBRO DE 1966
 
 Autoriza a Cia. Brasileira de Alumínio a lavrar bauxita no Município de Poços de Caldas, Estado de Minas Gerais.

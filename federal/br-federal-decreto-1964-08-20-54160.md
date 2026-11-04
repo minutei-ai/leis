@@ -1,5 +1,3 @@
-###DEC-054160-0-000-20-08-1964@@@
-
 Decreto nº 54.160, de 20 de agôsto de 1964.
 
 Dilata a área do suprimento da Companhia Hidro Elétrica do São Francisco.
@@ -27,8 +25,6 @@ Brasília, 20 de agôsto de 1964; 143º da Independência e 76º da República.
 H. Castello Branco
 
 Mauro Thibau
-
-###DEC-054160-0-000-20-08-1964@@@RET01+++
 
 DECRETO Nº 54.160, DE 20 DE AGôSTO DE 1964.
 

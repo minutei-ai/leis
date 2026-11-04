@@ -1,5 +1,3 @@
-###DEC-004344-0-000-26-08-2002@@@
-
 DECRETO Nº 4.344, DE 26 DE AGOSTO DE 2002
 
 Regulamenta a Lei nº 8.394, de 30 de dezembro de 1991, que dispõe sobre a preservação, organização e proteção dos acervos documentais privados dos presidentes da República, e dá outras providências.

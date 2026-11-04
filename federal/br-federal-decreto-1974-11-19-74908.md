@@ -1,5 +1,3 @@
-###DEC-074908-0-000-19-11-1974@@@
-
 DECRETO Nº 74.908, DE 19 DE NOVEMBRO DE 1974.
 
 Disciplina a compra de produtos importantes por órgãos e empresas governamentais.

@@ -1,5 +1,3 @@
-###DEC-006177-0-000-01-08-2007@@@
-
 DECRETO Nº 6.177, DE 1º DE AGOSTO DE 2007.
 
 Promulga a Convenção sobre a Proteção e Promoção da Diversidade das Expressões Culturais, assinada em Paris, em 20 de outubro de 2005.
@@ -24,11 +22,7 @@ Brasília, 1º de agosto de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 2.8.2007
-
-UNESCO
+Celso Luiz Nunes AmorimUNESCO
 
  Convenção
 

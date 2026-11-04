@@ -1,5 +1,3 @@
-###DEC-083216-0-000-28-02-1979@@@
-
 DECRETO Nº 83.216, DE 28 DE FEVEREIRO DE 1979
 
 Autoriza a conversão dos cursos de Ciências, de Matemática, de Química e de Ciências Biológicas, em curso de Ciências, ministrado pela Faculdade de Filosofia, Ciências e Letras de Blumenau, com sede na cidade de Blumenau, Estado de Santa Catarina.

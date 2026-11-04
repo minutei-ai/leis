@@ -1,5 +1,3 @@
-###DEC-064594-0-000-28-05-1969@@@
-
 DECRETO Nº 64.594, DE 28 DE MAIO DE 1969.
 
 Dá nova redação ao artigo 4º do Decreto nº 64.524, de 16 de maio de 1969.

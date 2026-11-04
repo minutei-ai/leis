@@ -1,10 +1,8 @@
-###EMC-000006-0-000-04-06-1976@@@
+**EMENDA CONSTITUCIONAL Nº 6**
 
-<strong>EMENDA CONSTITUCIONAL Nº 6</strong>
+***Dá nova redação ao artigo 104 da Constituição***
 
-<em><strong>Dá nova redação ao artigo 104 da Constituição</strong></em>
-
-<strong>AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL</strong>, nos termos do artigo 49 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
+**AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL**, nos termos do artigo 49 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
 Artigo único. O artigo 104 da Constituição Federal passa a vigorar com a seguinte redação:
 
@@ -22,4 +20,62 @@ Artigo único. O artigo 104 da Constituição Federal passa a vigorar com a segu
 
 Brasília, 4 de junho de 1976.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>A Mesa da Câmara dos Deputados</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>A Mesa do Senado Federal</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>Célio Borja</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Presidente</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>José de Magalhães Pinto</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>Presidente</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>Herbert Levy</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Vice-Presidente</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>Wilson Gonçalves</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Vice-Presidente</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>Alencar Furtado</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Vice-Presidente</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>Benajamim Farah</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Vice-Presidente</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>Odulfo Domingues</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Secretário</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>Dinarte Mariz</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>1º Secretário</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>Henrique Eduardo Alves</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Secretário</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>Marcos Freire</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>2º Secretário</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>Pinheiro Machado</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3º Secretário</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>Lourival Baptista</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>3º Secretário</span></span></p></td></tr><tr><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>Léo Simões</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4º Secretário</span></span></p></td><td style="width:212.7pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span><span>Lenoir Vargas</span></span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span><span>4º Secretário</span></span></p></td></tr></tbody></table>
+A Mesa da Câmara dos Deputados
+
+A Mesa do Senado Federal
+
+Célio Borja
+
+Presidente
+
+José de Magalhães Pinto
+
+Presidente
+
+Herbert Levy
+
+1º Vice-Presidente
+
+Wilson Gonçalves
+
+1º Vice-Presidente
+
+Alencar Furtado
+
+2º Vice-Presidente
+
+Benajamim Farah
+
+2º Vice-Presidente
+
+Odulfo Domingues
+
+1º Secretário
+
+Dinarte Mariz
+
+1º Secretário
+
+Henrique Eduardo Alves
+
+2º Secretário
+
+Marcos Freire
+
+2º Secretário
+
+Pinheiro Machado
+
+3º Secretário
+
+Lourival Baptista
+
+3º Secretário
+
+Léo Simões
+
+4º Secretário
+
+Lenoir Vargas
+
+4º Secretário

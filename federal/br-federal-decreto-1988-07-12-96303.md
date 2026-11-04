@@ -1,5 +1,3 @@
-###DEC-096303-0-000-12-07-1988@@@
-
 DECRETO N° 96.303, DE 12 DE JULHO DE 1988
 
 Dá nova redação ao art. 3° do Decreto n° 95.861, de 22 de março de 1988, que dis­põe sobre o Programa de Desenvolvimento de Sistemas Unificados e Descentralizados de Saúde nos Estados  SUDS.

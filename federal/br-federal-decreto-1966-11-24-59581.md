@@ -1,5 +1,3 @@
-###DEC-059581-0-000-24-11-1966@@@
-
 DECRETO Nº 59.581, DE 24 DE NOVEMBRO DE 1966.
 
 Declara de utilidade pública o “Centro Social Feminino”, com sede no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-083297-0-000-26-03-1979@@@
-
 Decreto nº 83.297, de 26 de março de 1979
 
 Concede reconhecimento ao curso de Tecnólogo em Heveicultura da Universidade Federal do Acre, com sede na cidade do Rio Branco, Estado do Acre.

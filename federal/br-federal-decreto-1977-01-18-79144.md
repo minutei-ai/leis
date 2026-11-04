@@ -1,5 +1,3 @@
-###DEC-079144-0-000-18-01-1977@@@
-
 DECRETO Nº 79.144, DE 18 DE JANEIRO DE 1977.
 
 Concede reconhecimento ao curso de Filosofia, da Faculdade de Filosofia de Fortaleza, com seda na Cidade de Fortaleza, Estado do Ceará.

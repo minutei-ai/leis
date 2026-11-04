@@ -1,5 +1,3 @@
-###DEC-069523-0-000-09-11-1971@@@
-
 DECRETO Nº 69.523 - DE 9 DE NOVEMBRO DE 1971
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério da Indústria e do Comércio - MIC - cargo originário do extinto Lloyd Brasileiro - Patrimônio Nacional e dá outras providências.

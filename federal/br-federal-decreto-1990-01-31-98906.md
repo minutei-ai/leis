@@ -1,7 +1,3 @@
-1
-
-###DEC-098906-0-000-31-01-1990@@@
-
 DECRETO Nº 98.906, DE 31 DE JANEIRO DE 1990
 
 Autoriza o funcionamento do Curso superior de Tecnologia em Processamento de Dados da Faculdade de Informática do Recife.

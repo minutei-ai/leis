@@ -1,5 +1,3 @@
-###DEC-053386-0-000-31-12-1963@@@
-
 DECRETO Nº 53.386, DE 31 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Emanoel de Souza Lima a lavrar minério de mangânes no município de Conceição do Mato Dentro, Estado de Minas Gerais.

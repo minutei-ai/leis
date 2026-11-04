@@ -1,5 +1,3 @@
-###DEL-001105-0-000-20-05-1970@@@
-
 # DECRETO-LEI Nº 1.105, DE 20 DE MAIO DE 1970
 
 Declara de interêsse da Segurança Nacional, nos têrmos do art. 15, § 1º, alínea b, da Constituição, os Municípios que especifica, e dá outras providências.

@@ -1,10 +1,8 @@
-###EMC-000008-0-000-22-05-1964@@@
+**EMENDA CONSTITUCIONAL Nº 8, DE 1964**
 
-<strong>EMENDA CONSTITUCIONAL Nº 8, DE 1964</strong>
+***Altera a data referida no artigo 87, nº XVI, da Constituição.***
 
-<em><strong>Altera a data referida no artigo 87, nº XVI, da Constituição.</strong></em>
-
-<strong>AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL</strong> promulgam, nos têrmos do artigo 3º do Ato Institucional e artigo 217, § 4º, da Constituição, a seguinte Emenda ao texto constitucional:
+**AS MESAS DA CÂMARA DOS DEPUTADOS E DO SENADO FEDERAL** promulgam, nos têrmos do artigo 3º do Ato Institucional e artigo 217, § 4º, da Constituição, a seguinte Emenda ao texto constitucional:
 
 Artigo único. O art. 87, número XVI, da Constituição, passa a vigorar com a seguinte redação:
 
@@ -20,9 +18,9 @@ XVI – Enviar à Câmara dos Deputados, até 31 de julho de cada ano, a propost
 
 Brasília, em 22 de maio de 1964.
 
-<strong>A MESA DO SENADO FEDERAL</strong>
+**A MESA DO SENADO FEDERAL**
 
-<strong>AURO DE MORA ANDRADE</strong>
+**AURO DE MORA ANDRADE**
 
 Presidente
 

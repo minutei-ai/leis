@@ -1,5 +1,3 @@
-###DEC-094503-0-000-22-06-1987@@@
-
 DECRETO N° 94.503, DE 22 DE JUNHO DE 1987.
 
 Dispõe sobre alteração no Regulamento para o Corpo de Oficiais da Reserva do Exército (RCORE-R-68).

@@ -1,5 +1,3 @@
-###DEC-047409-0-000-10-12-1959@@@
-
 DECRETO Nº 47.409, DE 10 DE DEZEMBRO DE 1959.
 
 Inclui novos cargos em organizações militares, que dão direito à Diária Industrial, prevista no art. 64, do Código de Vencimentos e Vantagens dos Militares.

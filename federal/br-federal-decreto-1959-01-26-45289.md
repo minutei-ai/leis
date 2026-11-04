@@ -1,5 +1,3 @@
-###DEC-045289-0-000-26-01-1959@@@
-
 DECRETO Nº 45.289, DE 26 DE JANEIRO DE 1959.
 
 Autoriza a Cia. Mineração e Siderúrgica Timbó a pesquisar minério de ferro, no município de Lages, Estados de Santa Catarina.

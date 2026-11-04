@@ -1,5 +1,3 @@
-###DEC-074269-0-000-09-07-1974@@@
-
 DECRETO Nº 74.269 - DE 9 DE JUlhO DE 1974.
 
 Autoriza o funcionamento da Faculdade de Engenharia Civil de Alfenas, mantida pela Fundação de Ensino e Tecnologia de Alfenas, com sede na cidade de Alfenas, Estado de Minas Gerais.

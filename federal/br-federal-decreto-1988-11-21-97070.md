@@ -1,5 +1,3 @@
-###DEC-097070-0-000-21-11-1988@@@
-
 DECRETO N.° 97.070, DE 21 DE NOVEMBRO DE 1988
 
 Dá nova redação ao art. 3.° do Decreto n° 74.557, de 12 de setembro de 1974, que criou a Comissão Interministerial para os Recursos do Mar.

@@ -1,5 +1,3 @@
-###DEC-051339-0-000-27-10-1961@@@
-
 DECRETO Nº 51.339, de 27 DE OUTUBRO DE 1961.
 
 Altera as disposições do Decreto nº 47.491, de 24-12-59, que regula o abastecimento de trigo e estabelece normas para sua comercialização e industrialização.

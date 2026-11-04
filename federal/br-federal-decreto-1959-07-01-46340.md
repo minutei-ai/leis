@@ -1,5 +1,3 @@
-###DEC-046340-0-000-01-07-1959@@@
-
 DECRETO Nº 46.340, DE 1 DE JULHO DE 1959.
 
 Declara de utilidade pública a “Associação Civil dos Servidores Públicos no Ceará”, com sede em Fortaleza - Estado do Ceará.

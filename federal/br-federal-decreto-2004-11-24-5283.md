@@ -1,5 +1,3 @@
-###DEC-005283-0-000-24-11-2004@@@
-
 DECRETO Nº 5.283 DE 24 DE NOVEMBRO DE 2004
 
  Dá nova redação ao art. 3º do Decreto nº 4.200, de 17 de abril de 2002, que transfere do Ministério da Defesa para a Casa Civil da Presidência da República a Secretaria-Executiva do Conselho Deliberativo do Sistema de Proteção da Amazônia - SECONSIPAM, altera sua denominação e dá outras providências.

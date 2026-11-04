@@ -1,7 +1,3 @@
-1
-
-###MPV-001189-0-000-23-11-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.189, DE 23 DE NOVEMBRO DE 1995.
 
 Cria a Gratificação de Desempenho e Produtividade - GDP das atividades de finanças, controle, orçamento e planejamento, e dá outras providências.

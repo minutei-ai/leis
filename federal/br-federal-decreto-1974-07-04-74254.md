@@ -1,5 +1,3 @@
-###DEC-074254-0-000-04-07-1974@@@
-
 DECRETO Nº 74.254 - DE 4 DE JULHO DE 1974.
 
 Dispõe sobre a estrutura básica do Ministério da Previdência e Assistência Social e dá outras providências.

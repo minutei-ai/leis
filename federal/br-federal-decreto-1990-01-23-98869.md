@@ -1,7 +1,3 @@
-1
-
-###DEC-098869-0-000-23-01-1990@@@
-
 DECRETO Nº 98.869, DE 23 DE JANEIRO DE 1990
 
 Autoriza o funcionamento do curso de Pedagogia das Faculdades Integradas de Diamantino.

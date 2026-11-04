@@ -1,7 +1,3 @@
-1
-
-###DEC-000373-0-000-23-12-1991@@@
-
 DECRETO N° 373, DE 23 DE DEZEMBRO DE 1991
 
 Dispõe sobre o estabelecimento do horário de funcionamento dos órgãos e entidades da Administração Pública Federal direta, autárquica e fundacional.

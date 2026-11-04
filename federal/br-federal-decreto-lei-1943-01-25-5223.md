@@ -1,5 +1,3 @@
-###DEL-005223-0-000-25-01-1943@@@
-
 DECRETO‑LEI N. 5.223 – DE 25 DE JANEIRO DE 1943
 
 Extingue o Conselho de Administração do Lóide Brasileiro e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-066218-0-000-17-02-1970@@@
-
 DECRETO Nº 66.218 - DE 17 DE FEVEREIRO DE 1970
 
 Dispõe sôbre o uso e a conservação do Palácio Itamaraty no Rio de Janeiro.

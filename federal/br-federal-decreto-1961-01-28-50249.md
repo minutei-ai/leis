@@ -1,5 +1,3 @@
-###DEC-050249-0-000-28-01-1961@@@
-
 DECRETO Nº 50.249, DE 28 DE JANEIRO DE 1961.
 
 Altera o Decreto nº 49.539, de 15 de dezembro de 1960.

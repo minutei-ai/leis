@@ -1,5 +1,3 @@
-###DEC-061597-0-000-24-10-1967@@@
-
 DECRETO Nº 61.597, DE 24 DE OUTUBRO DE 1967.
 
 Declara de utilidade pública a Fundação “Movimento Universitário de Desenvolvimento Econômico e Social” - MUDES - com sede no Estado da Guanabara.

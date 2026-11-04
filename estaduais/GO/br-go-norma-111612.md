@@ -1,4 +1,5 @@
-LEI Nº 23.864, DE 24 DE NOVEMBRO DE 2025<br>
+LEI Nº 23.864, DE 24 DE NOVEMBRO DE 2025
+
 [\-](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111728)  [Vide Decreto nº 10.827, de 08-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111728) - Regulamenta a Lei nº 23.864/2025.
 
 Cria o Programa Estadual de Inclusão ao Esporte – PRÓ-GOIÁS ESPORTE, vinculado à Secretaria de Estado de Esporte e Lazer – SEEL, e revoga a [Lei nº 14.546](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81172), de 30 de setembro de 2003.
@@ -173,5 +174,6 @@ Goiânia, 24 de novembro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado

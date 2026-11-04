@@ -1,5 +1,3 @@
-###DEC-007090-0-000-01-02-2010@@@
-
 DECRETO Nº 7.090, DE 1º DE FEVEREIRO DE 2010.
 
 Promulga o Acordo para o Estabelecimento de um Mecanismo de Cooperação Comercial entre a República Federativa do Brasil e a República Argentina, assinado em Puerto Iguazu, em 30 de novembro de 2005.

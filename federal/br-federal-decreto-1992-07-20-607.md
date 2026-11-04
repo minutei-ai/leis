@@ -1,5 +1,3 @@
-###DEC-000607-0-000-20-07-1992@@@
-
 DECRETO Nº 607, DE 20 DE JULHO DE 1992
 
 Regulamenta o inciso VIII do art. 4º da Lei nº 8 422, de 13 de maio de 1992, que dispõe sobre o Conselho de Gestão da Previdência Complementar - CGPC.

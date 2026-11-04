@@ -1,6 +1,10 @@
 > **LEI Nº 4.364, DE 10 DE JUNHO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.760, de 19 de julho de 2021, que institui o Programa de Estímulo à Construção Civil para Geração de Emprego e Renda - PEC/GER-AC, para dispor sobre a atualização dos valores a serem observados no âmbito do Programa.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.760, de 19 de julho de 2021, que institui o Programa de Estímulo à Construção Civil para Geração de Emprego e Renda - PEC/GER-AC, para dispor sobre a atualização dos valores a serem observados no âmbito do Programa.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

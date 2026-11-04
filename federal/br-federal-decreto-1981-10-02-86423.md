@@ -1,5 +1,3 @@
-###DEC-086423-0-000-02-10-1981@@@
-
 Decreto nº 86.423, de 02 de OutubrO de 1981.
 
 Concede autorização à empresa CHEVRON SOLEMAR PETROLEUM COMPANY para operar no mar territorial do Brasil, fixado pelo Decreto-Lei nº 1.098, de 25 de março de 1970, a serviço da PETROLEO BRASILEIRO S.A. - PETROBRÁS.

@@ -1,5 +1,3 @@
-###DEC-092856-0-000-27-06-1986@@@
-
 DECRETO Nº 92.856, de 27 de junho de 1986
 
 Exclui do Decreto nº 89.406, de 29 de fevereiro de 1984, a renovação da outorga da RÁDIO TUIUTI LTDA.

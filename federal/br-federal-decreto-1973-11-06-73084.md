@@ -1,5 +1,3 @@
-###DEC-073084-0-000-06-11-1973@@@
-
 DECRETO Nº 73.084 - DE 6 DE NOVEMBRO DE 1973
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada ä passagem de linha de transmissão do Estado de São Paulo.

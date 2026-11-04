@@ -1,5 +1,3 @@
-###DEC-083161-0-000-12-02-1979@@@
-
 Decreto nº 83.161, de 12 de fevereiro de 1979.
 
 Regulamenta a Lei nº 6.540, de 28 de junho de 1978, que dispõe sobre o Ensino na Marinha.

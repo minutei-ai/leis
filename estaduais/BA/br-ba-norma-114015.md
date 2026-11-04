@@ -2,7 +2,8 @@ LEI Nº 1.253 DE 28 DE JANEIRO DE 1960
 
 Cria o Município de Iramaia, desmembrado do de Barra da Estiva, e dá outras providências.
 
-Ver também:<br>
+Ver também:
+
 Lei nº [12.907](https://www.legislabahia.ba.gov.br/documentos/lei-no-1253-de-28-de-janeiro-de-1960#_GoBack) de 26 de setembro de 2013 - Atualiza os limites dos municípios que integram o Território de Identidade Chapada Diamantina, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Abaíra, Andaraí, Barra da Estiva, Boninal, Bonito, Ibicoara, Ibitiara, Iramaia, Iraquara, Itaetê, Jussiape, Lençóis, Marcionílio Souza, Morro do Chapéu, Mucugê, Nova Redenção, Novo Horizonte, Palmeiras, Piatã, Rio de Contas, Seabra, Souto Soares, Utinga e Wagner.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
@@ -75,4 +76,4 @@ LEIA-SE:
 
 Artigo 3º - A eleição do prefeito e vereadores do Município de Iramaia será realizada simultâneamente com as eleições gerais de 03 de outubro de 1962, e a instalação do Município e posse dos eleitos efetivar-se-ão a 07 de abril de 1963, ficando o seu território, até lá, sob a administração do Município da Barra da Estivas.
 
-* * *
+ *

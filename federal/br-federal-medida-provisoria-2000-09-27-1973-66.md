@@ -1,5 +1,3 @@
-###MPV-001973-0-066-27-09-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.973-66, DE 27 DE SETEMBRO DE 2000.
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

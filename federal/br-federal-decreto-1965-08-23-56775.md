@@ -1,5 +1,3 @@
-###DEC-056775-0-000-23-08-1965@@@
-
 DECRETO Nº 56.775, DE 23 DE AGôSTO DE 1965.
 
 Declara de interêsse social para fins de desapropriação áreas de terras situadas no Estado de Pernambuco e dá outras providências.

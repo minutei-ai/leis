@@ -1,5 +1,3 @@
-###DEC-049534-0-000-15-12-1960@@@
-
 Decreto nº 49.534, de 15 de dezembro de 1960.
 
 Autoriza e assinatura de um convênio para a execução de obras destinadas ao aproveitamento da energia hidráulica do Rio Passo Fundo, no Estado do Rio Grande do Sul.

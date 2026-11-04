@@ -1,5 +1,3 @@
-###DEC-081310-0-000-03-02-1978@@@
-
 Decreto nº 81.310 de 03 de fevereiro de 1978
 
 Concede reconhecimento ao curso de Farmácia do Centro de Ciências Biológicas e da Saúde, da Universidade Regional do Nordeste, com sede na cidade de Campina Grande, Estado de Paraíba.

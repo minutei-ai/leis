@@ -1,5 +1,3 @@
-###DEC-005100-0-000-03-06-2004@@@
-
 DECRETO Nº 5.100, DE 3 DE JUNHO DE 2004
 
 Dá nova redação ao art. 36 do Decreto nº 4.541, de 23 de dezembro de 2002.

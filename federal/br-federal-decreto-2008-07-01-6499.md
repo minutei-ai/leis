@@ -1,5 +1,3 @@
-###DEC-006499-0-000-01-07-2008@@@
-
 DECRETO Nº 6.499, DE 1º DE JULHO DE 2008.
 
 Dispõe sobre o limite máximo de cessão e retrocessão a resseguradoras eventuais de que trata o § 1º do art. 8º da Lei Complementar nº 126, de 15 de janeiro de 2007.

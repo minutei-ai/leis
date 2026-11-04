@@ -1,5 +1,3 @@
-###DEL-001543-0-000-14-04-1977@@@
-
 # DECRETO-LEI Nº 1.543, DE 14 DE ABRIL DE 1977
 
 Regula a eleição de senador, prevista no § 2º do artigo 41, “in fine”, da Constituição Federal.

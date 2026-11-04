@@ -1,5 +1,3 @@
-###DEL-009401-0-000-24-06-1946@@@
-
 DECRETO-LEI N. 9.401 – DE 24 DE JUNHO DE 1946
 
 Dispõe sôbre os, empregados beneficiados pelo Decreto-lei n.º 9.143, de 8 de Abril de 1946.

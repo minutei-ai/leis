@@ -1,5 +1,3 @@
-###DEC-059813-0-000-19-12-1966@@@
-
 DECRETO Nº 59.813, DE 19 DE DEZEMBRO DE 1966.
 
 Considera a Casa da Moeda enquadrada no § 2º do art. 33, da Lei nº 4.883, de 29 de novembro de 1965.
@@ -17,8 +15,6 @@ Brasília, 19 de dezembro de 1966; 145º da Independência e 78º da Republica.
 H. CASTELLO BRANCO
 
 Octavio Bulhões
-
-###DEC-059813-0-000-19-12-1966@@@RET01+++
 
 DECRETO Nº 59.813, DE 19 DE DEZEMBRO DE 1966.
 

@@ -1,5 +1,3 @@
-###DEC-007326-0-000-05-10-2010-PUB-01@@@
-
 DECRETO Nº 7.326, DE 5 DE OUTUBRO DE 2010.
 
 Promulga o Acordo de Cooperação Cultural entre o Governo da República Federativa do Brasil e o Governo do Reino Hachemita da Jordânia, firmado em Brasília, em 23 de outubro de 2008.

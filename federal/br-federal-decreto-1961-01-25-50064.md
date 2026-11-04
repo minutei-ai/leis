@@ -1,5 +1,3 @@
-###DEC-050064-0-000-25-01-1961@@@
-
 DECRETO Nº 50.064, DE 25 DE JANEIRO DE 1961.
 
 Cria as Inspetorias Regionais de Fomento Agrícola nos Territórios de Rondônia e Rio Branco e as Inspetorias Regionais de Defesa Sanitária Vegetal nos Territórios do Acre, Amapá, Rondônia e Rio Branco.

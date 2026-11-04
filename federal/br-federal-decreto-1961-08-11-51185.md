@@ -1,5 +1,3 @@
-###DEC-051185-0-000-11-08-1961@@@
-
 Decreto nº 51.185, de 11 de agôsto de 1961.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, o domínio útil do terreno acrescido de marinha que menciona, no Estado da Guanabara.

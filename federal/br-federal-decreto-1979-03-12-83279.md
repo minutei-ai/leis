@@ -1,5 +1,3 @@
-###DEC-083279-0-000-12-03-1979@@@
-
 DECRETO Nº 83.279, de 12 DE MARÇO DE 1979.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio de Janeiro.

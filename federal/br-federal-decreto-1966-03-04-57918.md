@@ -1,5 +1,3 @@
-###DEC-057918-0-000-04-03-1966@@@
-
 DECRETO Nº 57.918, DE 4 DE MARÇO DE 1966.
 
 Autoriza cidadã brasileira Dulce Valadares Vasconcelos Abreu a pesquisar talco no município de Pitangui, Estado de Minas Gerais.

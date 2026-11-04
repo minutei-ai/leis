@@ -1,5 +1,3 @@
-###DEC-057865-0-000-25-02-1966@@@
-
 Decreto nº 57.865, de 25 de fevereiro de 1966.
 
 Autoriza a Mineração Caeté S.A. a pesquisar minério de ferro, no município de Santa Bárbara, Estado de Minas Gerais.

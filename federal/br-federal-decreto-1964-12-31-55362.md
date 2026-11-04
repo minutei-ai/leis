@@ -1,5 +1,3 @@
-###DEC-055362-0-000-31-12-1964@@@
-
 DECRETO Nº 55.362, DE 31 DE DEZEMBRO DE 1964.
 
 Aprova alterações introduzidas nos Estatutos da Companhia Catarinense de Seguros Gerais, inclusive aumento do capital social.

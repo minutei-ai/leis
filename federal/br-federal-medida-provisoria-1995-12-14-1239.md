@@ -1,7 +1,3 @@
-1
-
-###MPV-001239-0-000-14-12-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.239, DE 14 DE DEZEMBRO DE 1995.
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

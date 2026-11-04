@@ -1,5 +1,3 @@
-###MPV-001986-0-012\-23-11-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.986-12, DE 23 de novembro de 2000.
 
 Acresce dispositivos à Lei nº 5.859, de 11 de dezembro de 1972, que dispõe sobre a profissão de empregado doméstico, para facultar acesso ao Fundo de Garantia do Tempo de Serviço - FGTS e ao seguro-desemprego.

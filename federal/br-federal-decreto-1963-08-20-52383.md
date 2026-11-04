@@ -1,5 +1,3 @@
-###DEC-052383-0-000-20-08-1963@@@
-
 DECRETO Nº 52.383, DE 20 DE AGÔSTO DE 1963.
 
 Retifica o Decreto nº 2.067, de 17 de janeiro de 1963, que concede a Fosfato Pernambucano S.A. - (FOSPERSA) autorização para funcionar como emprêsa de mineração.

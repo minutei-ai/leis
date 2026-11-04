@@ -1,5 +1,3 @@
-###DEC-083282-0-000-13-03-1979@@@
-
 Decreto nº 83.282, de 13 de março de 1979.
 
 Promulga o Acordo Comercial Brasil - República Popular da China.
@@ -90,4 +88,14 @@ O presente Acordo entrará em vigor, provisoriamente, a partir da data de sua as
 
 Feito em Pequim, aos 7 de janeiro de 1978, em dois exemplares, nas línguas portuguesa e chinesa, sendo os dois textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo da República</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Governo da República</span></p></td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Federativa do Brasil:</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Popular da China:</span></p></td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Aluízio Napoleão de Freitas Rêgo</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Li Chiang</span></p></td></tr></tbody></table>
+Pelo Governo da República
+
+Pelo Governo da República
+
+Federativa do Brasil:
+
+Popular da China:
+
+Aluízio Napoleão de Freitas Rêgo
+
+Li Chiang

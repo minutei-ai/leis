@@ -1,5 +1,3 @@
-###DEL-009427-0-000-04-07-1946@@@
-
 DECRETO-LEI N. 9.427 – DE 4 DE JULHO DE 1946
 
 Considera de utilidade pública a desapropriação de quatro lotes de terreno em Curitiba

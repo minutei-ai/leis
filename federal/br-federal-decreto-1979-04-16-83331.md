@@ -1,5 +1,3 @@
-###DEC-083331-0-000-16-04-1979@@@
-
 Decreto nº 83.331, de 16 de abril de 1979.
 
 Autoriza a conversão do curso de Desenho e Plástica em curso de Educação Artística, da Universidade Mackenzie, com sede em São Paulo, Estado de São Paulo.

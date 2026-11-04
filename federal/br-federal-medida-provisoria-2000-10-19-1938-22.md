@@ -1,5 +1,3 @@
-###MPV-001938-0-022-19-10-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.398-22, DE 19 DE outubro DE 2000.
 
 Autoriza a União a adquirir ou pagar obrigações de pessoas jurídicas de direito público interno, relativas a operações financeiras externas, e dá outras providências.

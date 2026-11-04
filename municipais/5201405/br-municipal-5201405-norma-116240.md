@@ -4,12 +4,14 @@ Altera-se a Lei n° 3.385/2017 que trata do Plano Plurianual (PPA) 2018/2021.
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS ALTERAÇÕES/EXCLUSÕES
 
 Art. 1º Destitui-se o Programa cód. 2700 - Aparecida Referência Em Educação E Cultura e as ações cód. 2706 - Gestão Do Ensino Infantil e 2335 - Manut. E Melhoria Do Ensino Infantil, da unidade orçamentaria cód. 0401- FUNDEF / FUNDEB constantes no Plano Plurianual (PPA 2018-2021), promovendo-se as adequações necessárias para a elaboração da Lei Orçamentaria Anual (LOA) para o exercício 2021:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS ALTERAÇÕES/INCLUSÕES
 
 Art. 2º Ficam Instituída a Unidade Orçamentaria cód. 0351 - Secretaria Municipal De Assistência Social, com seu Programa cód. 3018 - Gestão E Man. Da Sec. De Assistência Social, e a ação cód. 2296 - Apoio Adm. A Secretaria Assistência Social.
@@ -26,11 +28,14 @@ Art. 6º Esta Lei entrará em vigor na data de sua publicação, produzindo seus
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, 20 de Novembro de 2020.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Chefe da Casa Civil
 
-TARCISIO FRANCISCO DOS SANTOS<br>
+TARCISIO FRANCISCO DOS SANTOS
+
 Secretario de Transparência, Fiscalização e Controle

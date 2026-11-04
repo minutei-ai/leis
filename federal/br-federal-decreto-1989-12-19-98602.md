@@ -1,7 +1,3 @@
-1
-
-###DEC-098602-0-000-19-12-1989@@@
-
 DECRETO Nº 98.602, DE 19 DE DEZEMBRO DE 1989
 
 Dá nova redação ao Decreto nº 50.215, de 28 de janeiro de 1961 que promulgou a Convenção relativa ao Estatuto dos Refugiados, concluída em Genebra, em 28 de julho de 1951.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000017-0-000-01-02-1991@@@
-
 DECRETO Nº 17, DE 1º DE FEVEREIRO DE 1991.
 
 Prescreve a adoção de plano especial de redução das despesas de custeio nas entidades que menciona.
@@ -47,8 +43,6 @@ Brasília, 1º de fevereiro de 1991; 170º da Independência e 103º da Repúbli
 FERNANDO COLLOR
 
 Zélia M. Cardoso de Mello
-
-###DEC-000017-0-000-01-02-1991@@@RET01+++
 
 DECRETO N° 17, DE 1° DE FEVEREIRO DE 1991
 

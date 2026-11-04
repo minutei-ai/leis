@@ -1,5 +1,3 @@
-###DEL-008668-0-000-14-01-1946@@@
-
 DECRETO-LEI N. 8.668 – DE 14 DE JANEIRO DE 1946
 
 Abre ao Ministério da Justiça e Necios Interiores o crédito suplementar de Cr$ 42.810,00 à verba que especifica.

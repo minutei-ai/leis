@@ -1,5 +1,3 @@
-###DEC-054790-0-000-03-11-1964@@@
-
 DECRETO Nº 54.790, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro João Tozatto Filho a pesquisar caulim no município de Campo Largo - Estado do Paraná.

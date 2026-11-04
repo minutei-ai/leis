@@ -1,5 +1,3 @@
-###DEC-053065-0-000-03-12-1963@@@
-
 DECRETO Nº 53.065, DE 3 DE DEZEMBRO DE 1963.
 
 Declara de utilidade pública para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento área de terreno situada no vale do rio Itajaí do Oeste, no Estado de Santa Catarina.

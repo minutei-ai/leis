@@ -1,5 +1,3 @@
-###DEL-008578-0-000-08-01-1946@@@
-
 DECRETO-LEI N.  8.578 – DE 8 DE JANEIRO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a isentar a Associação Nossa Senhora Auxiliadora do Rio de Janeiro do pagamento do impôsto que menciona.

@@ -1,5 +1,3 @@
-###DEC-047117-0-000-27-10-1959@@@
-
 DECRETO Nº 47.117, DE 27 DE OUTUBRO DE 1959.
 
 Autoriza a cidadã brasileira Jacyra Figueiredo a pesquisar feldspato, mica e quartzo no município de Silva Jardim, Estado do Rio de Janeiro.

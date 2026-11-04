@@ -1,5 +1,3 @@
-###DEC-046431-0-000-15-07-1959@@@
-
 DECRETO Nº 46.431, DE 15 DE JULHO DE 1959.
 
 Assegura ao algodão em pluma da região setentrional do País, da safra de 1959-60, a garantia de preços mínimo.

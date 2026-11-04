@@ -1,5 +1,3 @@
-###DEC-055679-0-000-01-02-1965@@@
-
 DECRETO Nº 55.679, DE 1 DE FEVEREIRO DE 1965.
 
 Concede à Sociedade Navegação Petrolífera Limitada autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

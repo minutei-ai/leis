@@ -1,5 +1,3 @@
-###DEL-005521-0-000-27-05-1943@@@
-
 DECRETO‑LEI N. 5.521 – DE 27 DE MAIO DE 1943
 
 Extingue o Quadro M do Corpo de Oficiais da Armada, e dá outras providências

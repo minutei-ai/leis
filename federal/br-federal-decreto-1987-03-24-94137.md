@@ -1,5 +1,3 @@
-###DEC-094137-0-000-24-03-1987@@@
-
 DECRETO Nº 94.137, DE 24 DE MARÇO DE 1987.
 
 Revoga o Decreto nº 75.546, de 1º de abril de 1975.

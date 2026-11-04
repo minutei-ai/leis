@@ -1,5 +1,3 @@
-###DEC-051879-0-000-02-04-1963@@@
-
 DECRETO Nº 51.879, DE 2 DE ABRIL DE 1963.
 
 Autoriza a Companhia Paulista de Fôrça e Luz S.A. a construir linha de transmissão.

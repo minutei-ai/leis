@@ -1,5 +1,3 @@
-###DEL-007418-0-000-26-03-1945@@@
-
 DECRETO-LEI N. 7.418 – DE 26 DE MARÇO DE 1945
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 83.660,000,00, para pagamento de ações da Companhia Vale do Rio Doce S.A.

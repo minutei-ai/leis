@@ -1,5 +1,3 @@
-###DEC-076128-0-000-14-08-1975@@@
-
 Decreto nº 76.128 - de 14 de agosto de 1975
 
 Autoriza o funcionamento da Faculdade de Odontologia, com sede na cidade de Governador Valadares, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-002687-0-000-27-07-1998@@@
-
 DECRETO Nº 2.687, DE 27 DE JULHO DE 1998
 
 Suspende a exploração da espécie mogno (Swietenia Macrophylla King) na Região Amazônica, pelo período de dois anos, e dá outras providências.

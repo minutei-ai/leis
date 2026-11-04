@@ -1,5 +1,3 @@
-###DEC-000934-0-000-21-09-1993@@@
-
 # DECRETO N°934, DE 21 DE SETEMBRO DE 1993
 
 Autoriza o Banco do Brasil S.A. a aumentar o percentual de participação estrangeira em seu capital.

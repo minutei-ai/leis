@@ -114,13 +114,14 @@ Art. 3º Esta Lei entrará em vigor na data de sua publicação, produzindo efei
 
 Gabinete do Prefeito de Rio Verde, aos 17 de novembro de 2025.
 
-WELLINGTON SOARES CARRIJO FILHO<br>
+WELLINGTON SOARES CARRIJO FILHO
+
 Prefeito de Rio Verde
 
-<br>
-VINÍCIUS FONSÊCA CAMPOS<br>
+VINÍCIUS FONSÊCA CAMPOS
+
 Procurador-Geral
 
-<br>
-ENIO FREITAS DE SENE<br>
+ENIO FREITAS DE SENE
+
 Secretário da Fazenda

@@ -1,5 +1,3 @@
-###DEC-006986-0-000-20-10-2009@@@
-
 DECRETO Nº 6.986, DE 20 DE OUTUBRO DE 2009.
 
 Regulamenta os arts. 11, 12 e 13 da Lei no 11.892, de 29 de dezembro de 2008, que institui a Rede Federal de Educação Profissional, Científica e Tecnológica e cria os Institutos Federais de Educação, Ciência e Tecnologia, para disciplinar o processo de escolha de dirigentes no âmbito destes Institutos.

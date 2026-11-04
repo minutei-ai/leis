@@ -1,5 +1,3 @@
-###DEC-059646-0-000-02-12-1966@@@
-
 DECRETO Nº 59.646, DE 2 DE DEZEMBRO DE1966.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 48.693, de 4 de agôsto de 1960, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas, da área de terrenos necessária à construção do açude público “Boqueirão”, no Município de Cabaceiras, Estado da Paraíba.

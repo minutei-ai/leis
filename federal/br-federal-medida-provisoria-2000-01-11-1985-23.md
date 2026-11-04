@@ -1,5 +1,3 @@
-###MPV-001985-0-023-11-01-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.985-23, DE 11 DE janeiro DE 2000.
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

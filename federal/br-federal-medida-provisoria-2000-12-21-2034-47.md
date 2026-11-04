@@ -1,5 +1,3 @@
-###MPV-002034-0-047-21-12-2000@@@
-
 medida provisória Nº 2.034-47, de 21 de dezembro de 2000.
 
 Dispõe sobre a concessão de financiamento vinculado à exportação de bens ou serviços nacionais, e dá outras providencias.

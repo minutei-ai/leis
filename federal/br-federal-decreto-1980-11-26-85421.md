@@ -1,5 +1,3 @@
-###DEC-085421-0-000-26-11-1980@@@
-
 Decreto nº 85.421, de 26 de novembro de 1980.
 
 Dispõe sobre a liquidação de compromissos contratados pelos órgãos e entidades da Administração Federal e dá outras providências.

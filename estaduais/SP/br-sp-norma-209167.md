@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209167)<br>
-
 # DECRETO N° 68.371, DE 08 DE MARÇO DE 2024
 
 ### _Regulamenta a Lei n° 17.626, de 7 de fevereiro de 2023, que autoriza o Poder Executivo a promover o pagamento de auxílio aluguel às mulheres vítimas de violência doméstica no Estado, e institui o Protocolo Mulher Viva no Estado de São Paulo._
@@ -8,15 +6,18 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposição Preliminar
 
 **Artigo 1° -** Este decreto regulamenta a [Lei n° 17.626, de 7 de fevereiro de 2023](https://www.al.sp.gov.br/norma/206886), e institui o Protocolo Mulher Viva de atendimento à mulher em situação de violência no Estado de São Paulo.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Do Auxílio Aluguel
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposições gerais
 
 **Artigo 2° -** Fica instituído, nos termos da [Lei n° 17.626, de 7 de fevereiro de 2023](https://www.al.sp.gov.br/norma/206886), auxílio aluguel à mulher que, em razão da violência doméstica sofrida, não possa retornar ao seu lar e comprove estar em situação de vulnerabilidade de forma a não conseguir arcar com as despesas de moradia.
@@ -37,7 +38,8 @@ III - à articulação intersetorial;
 
 IV - à implementação de ações de desenvolvimento da autonomia das beneficiárias.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Dos critérios de elegibilidade e priorização das beneficiárias
 
 **Artigo 5° -** Para fim de concessão do auxílio a que se refere o artigo 2° deste decreto, a interessada deverá:
@@ -64,7 +66,8 @@ IV -  comprovar a situação de vulnerabilidade, nos termos do artigo 2°, inci
 
 **Parágrafo único -** Resolução conjunta dos Secretários de Desenvolvimento Social, Políticas para a Mulher e de Desenvolvimento Urbano e Habitação poderá prever critérios adicionais de priorização da concessão do auxílio aluguel para a mulher em situação de violência doméstica.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Do procedimento
 
 **Artigo 7° -**  O auxílio aluguel será requerido pela interessada junto ao serviço de assistência social do município aderente, devendo ser instruído com:
@@ -99,7 +102,8 @@ II -  cópia do relatório psicossocial a que se refere o item 1 do § 1° do a
 
 **Artigo 12  -** Observadas as normas legais e regulamentares aplicáveis, a Secretaria de Desenvolvimento Urbano e Habitação poderá firmar ajustes com a Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU para operacionalização do pagamento do auxílio aluguel de que trata este decreto.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Das hipóteses de suspensão do benefício
 
 **Artigo 13 -** A cessação dos efeitos da medida protetiva de urgência, bem como o retorno da mulher ao convívio junto ao agressor deverão ser imediatamente comunicados pela beneficiária ao serviço de assistência social municipal para suspensão do benefício, sob pena de responsabilização penal, nos termos do artigo 6° da [Lei n° 17.626, de 7 de fevereiro de 2023](https://www.al.sp.gov.br/norma/206886).
@@ -114,10 +118,12 @@ Das hipóteses de suspensão do benefício
 
 **Parágrafo único -** O não atendimento pela beneficiária às exigências a que se refere o "caput" deste artigo acarretará a suspensão do benefício.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Do Protocolo Mulher Viva
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposições Gerais
 
 **Artigo 16 -**  O Protocolo Mulher Viva consiste em um conjunto de medidas a serem implementadas pelo Estado, por meio de suas Secretarias, e pelos municípios aderentes, com a finalidade de organizar, coordenar e gerenciar os serviços públicos prestados à mulher em situação de violência, visando a ampliar a eficiência dos recursos disponíveis e atingir o maior número possível de mulheres em vulnerabilidade social.
@@ -128,7 +134,8 @@ Disposições Gerais
 
 **§3° -**  As Secretarias de Estado divulgarão os programas e ações existentes no Protocolo a que se refere o "caput" deste artigo e poderão incluir outros, desde que sem transferência de renda.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Das ações do Protocolo Mulher Viva
 
 **Artigo 17 -** Para implementação do Protocolo Mulher Viva, os órgãos e serviços públicos estaduais trabalharão de forma integrada e coordenada para garantir os cuidados necessários à mulher em situação de violência, observadas as peculiaridades de cada região.
@@ -207,7 +214,8 @@ b)  monitorar e repassar informações referentes a cadastro das mulheres com d
 
 **Parágrafo único -**  Poderão ser divulgados nos sítios eletrônicos oficiais os programas e ações a que se refere o artigo 16 deste decreto.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Disposições Finais
 
 **Artigo 20 -** A concessão do auxílio aluguel de que trata este decreto, bem como sua respectiva prorrogação, na forma prevista no artigo 9° deste decreto, ficam limitadas às dotações orçamentárias próprias consignadas na lei orçamentária anual.

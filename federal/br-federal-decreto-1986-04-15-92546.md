@@ -1,5 +1,3 @@
-###DEC-092546-0-000-15-04-1986@@@
-
 DECRETO Nº 92.546, DE 15 DE ABRIL DE 1986
 
 Outorga à Companhia de Saneamento Básico do Estado de São Paulo - SABESP concessão para captação de água do rio Canoas, para abastecimento público, no Estado de São Paulo.

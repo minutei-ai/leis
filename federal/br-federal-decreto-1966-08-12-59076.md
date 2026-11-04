@@ -1,5 +1,3 @@
-###DEC-059076-0-000-12-08-1966@@@
-
 DECRETO Nº 59.076, DE 12 DE AGÔSTO DE 1966.
 
 Altera a redação do artigo 2º do Decreto nº 44.409, de 28 de agôsto de 1958, sôbre bens pertencentes a pessoas físicas e jurídicas alemãs, e dá outras providências.

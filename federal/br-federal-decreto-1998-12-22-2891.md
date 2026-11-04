@@ -1,5 +1,3 @@
-###DEC-002891-0-000-22-12-1998@@@
-
 DECRETO Nº 2.891, DE 22 DE DEZEMBRO DE 1998.
 
 Dispõe sobre a sistemática para fixação de Processo Produtivo Básico para os produtos industrializados na Zona Franca de Manaus.

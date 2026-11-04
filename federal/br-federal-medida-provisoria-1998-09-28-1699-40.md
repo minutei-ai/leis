@@ -1,5 +1,3 @@
-###MPV-001699-0-040-28-09-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.699-40, DE 28 DE SEtEMBRO DE 1998
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

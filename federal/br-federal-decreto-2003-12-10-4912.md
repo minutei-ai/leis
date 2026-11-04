@@ -1,5 +1,3 @@
-###DEC-004912-0-000-10-12-2003@@@
-
 DECRETO Nº 4.912 DE 10 DE DEZEMBRO DE 2003.
 
        Autoriza a alteração do art. 6º do Estatuto Social da Centrais Elétricas Brasileiras S.A - ELETROBRÁS.

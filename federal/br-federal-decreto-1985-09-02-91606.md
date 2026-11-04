@@ -1,5 +1,3 @@
-###DEC-091606-0-000-02-09-1985@@@
-
 Decreto nº 91.606, de 02 de Setembro de 1985
 
 Cria a Comissão de Avaliação do Programa Nuclear Brasileiro, e dá outras providências.
@@ -51,8 +49,6 @@ Brasília, 02 de setembro de 1985; 164º da Independência e 97º da República.
 JOSÉ SARNEY
 
 Aureliano Chaves
-
-###DEC-091606-0-000-02-09-1985@@@REP01+++
 
 Decreto nº 91.606, de 02 de setembro de 1985.
 

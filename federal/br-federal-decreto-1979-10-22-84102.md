@@ -1,5 +1,3 @@
-###DEC-084102-0-000-22-10-1979@@@
-
 DECRETO Nº 84.102, DE 22 DE OUTUBRO DE 1979
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem linha de transmissão da Centrais Elétricas de Santa Catarina S.A. CELESC no Estado de Santa Catarina.

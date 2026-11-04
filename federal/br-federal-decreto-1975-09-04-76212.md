@@ -1,5 +1,3 @@
-###DEC-076212-0-000-04-09-1975@@@
-
 DECRETO Nº 76.212 - DE 4 DE SETEMBRO DE 1975
 
 Aprova o Plano de Reestruturação da Universidade Federal Rural de Pernambuco.

@@ -1,6 +1,9 @@
-**LEI COMPLEMENTAR Nº 01, DE 18 DE MAIO DE 1990**<br>
-. Consolidada até a LC 09/91.<br>
-. Alterada pelas LC [08/91](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9e97251be30935ed03256727003d2d92/b23329c6a116d830032567be0067c168?OpenDocument#Lei%20Compl.08%2F91) e [09/91](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9e97251be30935ed03256727003d2d92/003c3f701a2675f2032567be0069ce5f?OpenDocument#Lei%20Compl.09%2F91).<br>
+**LEI COMPLEMENTAR Nº 01, DE 18 DE MAIO DE 1990**
+
+. Consolidada até a LC 09/91.
+
+. Alterada pelas LC [08/91](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9e97251be30935ed03256727003d2d92/b23329c6a116d830032567be0067c168?OpenDocument#Lei%20Compl.08%2F91) e [09/91](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9e97251be30935ed03256727003d2d92/003c3f701a2675f2032567be0069ce5f?OpenDocument#Lei%20Compl.09%2F91).
+
 **. REVOGADA** pela LC [23/92](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9e97251be30935ed03256727003d2d92/bca219b56e121109032567be0073a674?OpenDocument#L.C.%20n%C2%BA%2023%2F92).
 
 **Dispõe sobre a criação, a incorporação, fusão, o desmembramento e a extinção de Município e Distritos no estado de Mato Grosso.**
@@ -19,9 +22,10 @@ Faço saber que a Assembléia Legislativa do Estado decreta e eu sanciono a segu
 
 **Art. 2º** São requisitos Indispensáveis à criação de Municípios, dentre outros:
 
-I - População estimada não inferior a 1.5 (um e meio) milésimos da existente no Estado. **_(_****_Nova redação dada pela LC_** [**_08/91_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9e97251be30935ed03256727003d2d92/b23329c6a116d830032567be0067c168?OpenDocument#Lei%20Compl.08%2F91)**_)_**
+I - População estimada não inferior a 1.5 (um e meio) milésimos da existente no Estado. **_(__Nova redação dada pela LC_** [**_08/91_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9e97251be30935ed03256727003d2d92/b23329c6a116d830032567be0067c168?OpenDocument#Lei%20Compl.08%2F91)**_)_**
 
-**Redação Original:**<br>
+**Redação Original:**
+
 I - População estimada não inferior a 2,5 (dois e meio) milésimos da existente no Estado;
 
 II - Número de eleitores não inferior a a 10% (dez por cento) da população;
@@ -30,7 +34,8 @@ III - Centro urbano Já constituído, com número de casas superior a 200 (duzen
 
 IV - Arrecadação no último exercício, superior à média do que arrecadaram os 20 (vinte) municípios de menor renda do Estado, no exercício; **_(Nova redação dada pela LC_** [**_09/91_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9e97251be30935ed03256727003d2d92/003c3f701a2675f2032567be0069ce5f?OpenDocument#Lei%20Compl.09%2F91)**_)_**
 
-**Redação Original:**<br>
+**Redação Original:**
+
 IV - Arrecadação, no último exercício de O5 (cinco) milésimos da receita estadual de impostos;
 
 V - Condições apropriadas para a instalação da Prefeitura, Câmara Municipal e funcionamento do Judiciário;
@@ -41,12 +46,14 @@ VI - Apresentação de mapas memorial descritivo de forma apta a demonstrar a ma
 
 § 2º Os requisitos dos incisos I, III e VI, serão apurados pela Fundação Cândido Rondon, o de nº II pelo Tribunal Regional Eleitoral –TRE, o de nº IV pelo Órgão fazendário Estadual e o de nº V. pela Comissão de Revisão Territorial, após verificação “in loco". **_(Nova redação dada pela LC_** [**_09/91_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9e97251be30935ed03256727003d2d92/003c3f701a2675f2032567be0069ce5f?OpenDocument#Lei%20Compl.09%2F91)**_)_**
 
-**Redação Original:**<br>
+**Redação Original:**
+
 § 2º Os requisitos dos incisos I, III e VI serão apurados pela Fundação de Pesquisas Cândido Rondon, o de nº II pelo Tribunal Regional Eleitoral - TRE, o de nº IV pelo órgão fazendário estadual e a de nº V pela Comissão de Revisão Territorial, após verificação _in loco_.
 
 § 3º A Comissão de Revisão Territorial requisitará dos Órgãos de que trata o parágrafo anterior, as informações previstas nos incisos I, II,III, IV e VI do artigo 2º, as quais serão prestadas no prazo de 30 (trinta) dias, a contar da data do recebimento, sob pena de crime de responsabilidade. **_(Nova redação dada pela LC_** [**_09/91_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9e97251be30935ed03256727003d2d92/003c3f701a2675f2032567be0069ce5f?OpenDocument#Lei%20Compl.09%2F91)**_)_**
 
-**Redação Original:**<br>
+**Redação Original:**
+
 § 3º A Comissão de Revisão Territorial requisitará dos órgãos de que trata o parágrafo anterior, as informações previstas nos incisos I, II, III, IV e VI do artigo 2º, as quais serão prestadas no prazo de 30 (trinta) dias a contar da data do recebimento.
 
 **Art. 3º** A criação, a incorporação, a fusão, o desmembramento e a extinção de distrito ou município, processa do cada caso individualmente, somente poderão ocorrer até o ano imediatamente anterior ao da realização das eleições para os cargos de Prefeito, Vice-Prefeito e Vereador.
@@ -161,7 +168,7 @@ II - Apresentar Parecer preliminar precedido de relatório circunstanciado da vi
 
 § 2º Elaborado o projeto de lei, a Comissão encaminha-lo-á à Mesa, que o incluirá na ordem do sai da sessão seguintes e do recebimento para discussão e votação.
 
-**Art.** **22** A Comissão de Revisão Territorial, quando no cumprimento privativo de suas funções, fará as comunicações internas no âmbito do poder Legislativo e externas para a sociedade ou órgãos públicos, através de seu Presidente e na ausência por qualquer de seus membros.
+**Art.22** A Comissão de Revisão Territorial, quando no cumprimento privativo de suas funções, fará as comunicações internas no âmbito do poder Legislativo e externas para a sociedade ou órgãos públicos, através de seu Presidente e na ausência por qualquer de seus membros.
 
 **Art. 23** Todos os Deputados Estaduais terão acesso livre a sala, trabalhos e reuniões da Comissão de Revisão Territorial com direito a voz e sem direito a voto e somente tendo vista ao processo na sala das Comissões,não podendo retira-lo.
 
@@ -189,21 +196,34 @@ II - População superior a 1.000 (um mil) habitantes no território.
 
 Palácio Paiaguás, em Cuiabá, 18 de maio de 1990, 168º da Independência e 101º da República.
 
-**EDISON FREITAS DE OLIVEIRA**<br>
-Governador do Estado<br>
-<br>
-SANTO SCARAVELLI<br>
-VALDECIR FLETRIN<br>
-ARQUIMÍNIO DE ALMEIDA MORAES<br>
-MANOEL ALBANO DA SILVA<br>
-ARGEU ORTIZ KERBER<br>
-VALTER ALBANO DA SILVA<br>
-ULISSES RIBEIRO<br>
-BENEDITO FLAVIANO DE SOUZA<br>
-ARQUIMEDES BORGES MONTEIRO<br>
-ELMO DOS SANTOS BERTINETTI<br>
-CARLOS PEREIRA DO NASCIMENTO<br>
-EDISON TARCISIO OLIVEIRA CAMPOS<br>
-JOAREZ GOMES DE SOUZA<br>
-SERGIO HENRIQUE GUIMARÃES<br>
-<br>
+**EDISON FREITAS DE OLIVEIRA**
+
+Governador do Estado
+
+SANTO SCARAVELLI
+
+VALDECIR FLETRIN
+
+ARQUIMÍNIO DE ALMEIDA MORAES
+
+MANOEL ALBANO DA SILVA
+
+ARGEU ORTIZ KERBER
+
+VALTER ALBANO DA SILVA
+
+ULISSES RIBEIRO
+
+BENEDITO FLAVIANO DE SOUZA
+
+ARQUIMEDES BORGES MONTEIRO
+
+ELMO DOS SANTOS BERTINETTI
+
+CARLOS PEREIRA DO NASCIMENTO
+
+EDISON TARCISIO OLIVEIRA CAMPOS
+
+JOAREZ GOMES DE SOUZA
+
+SERGIO HENRIQUE GUIMARÃES

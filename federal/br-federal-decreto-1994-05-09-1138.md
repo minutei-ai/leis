@@ -1,7 +1,3 @@
-1
-
-###DEC-001138-0-000-09-05-1994@@@
-
 DECRETO N° 1.138, DE 9 DE MAIO DE 1994
 
 Aprova o Estatuto da Caixa Econômica Federal (CEF), e dá outras providências.

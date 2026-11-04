@@ -1,5 +1,3 @@
-###DEC-084033-0-000-26-09-1979@@@
-
 Decreto nº 84.033, de 26 de setembro de 1979.
 
 Dispõe sobre o afastamento de servidores civis das respectivas repartições e dá outras providências.

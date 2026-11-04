@@ -1,5 +1,3 @@
-###DEC-079776-0-000-06-06-1977@@@
-
 DECRETO Nº 79.776, DE 6 DE JUNHO DE 1977
 
 Concede reconhecimento aos cursos de Letras e de Pedagogia, da Faculdade de Filosofia, Ciências e Letras, com sede na cidade de Teófilo Otoni, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-045413-0-000-12-02-1959@@@
-
 decreto nº 45.413, de 12 de fevereiro de 1959.
 
 Declara públicas, de uso comum do domínio da União e do Estado do Espírito Santo, as águas do Rio Guarapari.

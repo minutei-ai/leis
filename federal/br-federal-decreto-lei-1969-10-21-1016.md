@@ -1,7 +1,3 @@
-1
-
-###DEL-001016-0-000-21-10-1969@@@
-
 decrETO-LEI Nº 1.016, De 21 De OUTUBRO De 1969
 
 Dispõe sôbre o pagamento de serviços industriais ou comerciais prestados por órgãos vinculados ao Ministério dos Transportes.

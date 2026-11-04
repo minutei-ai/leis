@@ -1,5 +1,3 @@
-###DEC-004159-0-000-12-03-2002@@@
-
 DECRETO Nº 4.159, DE 12 DE MARÇO DE 2002
 
 Dispõe sobre a execução do Décimo Protocolo Adicional ao Acordo de Complementação Econômica nº 36, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, como Estados Partes do Mercosul, e o Governo da República da Bolívia, de 19 de junho de 2001.

@@ -1,5 +1,3 @@
-###DEL-003433-0-000-16-07-1941@@@
-
 DECRETO-LEI N. 3.433 – DE 16 DE JULHO DE 1941
 
 Cria, no Quadro único do Ministério da Agricultura, cargo isolado e funções gratificadas, e dá outras providências

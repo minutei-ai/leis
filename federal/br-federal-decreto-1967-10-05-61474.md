@@ -1,5 +1,3 @@
-###DEC-061474-0-000-05-10-1967@@@
-
 DECRETO Nº 61.474, DE 5 DE OUTUBRO DE 1967.
 
 Retifica o art. 1º do Decreto número 58.459, de 17 de maio de 1966.

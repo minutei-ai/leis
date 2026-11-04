@@ -1,5 +1,3 @@
-###DEC-096773-0-000-26-09-1988@@@
-
 DECRETO N° 96.773, DE 26 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO CIDADE DE JARAGUÁ LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Jaraguá, Estado de Goiás.

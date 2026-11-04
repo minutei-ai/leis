@@ -1,5 +1,3 @@
-###DEC-089963-0-000-16-07-1984@@@
-
 Decreto nº 89.963, de 16 de julho de 1984
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Mogi-Guaçu II da CESP-Companhia Energética de São Paulo, no Estado de São Paulo.

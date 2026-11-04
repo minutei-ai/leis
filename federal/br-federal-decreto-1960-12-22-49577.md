@@ -1,5 +1,3 @@
-###DEC-049577-0-000-22-12-1960@@@
-
 DECRETO Nº 49.577, de 22 DE dezembro DE 1960.
 
 Cria o “Museu Botânico Kuhlmann”.

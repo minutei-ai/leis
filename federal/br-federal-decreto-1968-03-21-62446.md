@@ -1,5 +1,3 @@
-###DEC-062446-0-000-21-03-1968@@@
-
 DECRETO Nº 62.446, DE 21 DE MARÇO DE 1968.
 
 Extingue a Caixa de Crédito da pesca e dá outras providências.
@@ -29,8 +27,6 @@ A. Costa e Silva
 Ivo Arzua Pereira
 
 Helio Beltrão
-
-###DEC-062446-0-000-21-03-1968@@@RET01+++
 
 DECRETO Nº 62.446, DE 21 DE MARÇO DE 1968.
 

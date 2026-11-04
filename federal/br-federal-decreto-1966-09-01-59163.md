@@ -1,5 +1,3 @@
-###DEC-059163-0-000-01-09-1966@@@
-
 DECRETO Nº 59.163, DE 1º DE SETEMBRO DE 1966.
 
 Transfere para o patrimônio do Banco Nacional da Habitação os terrenos de propriedade da União previstos no artigo 26 da Lei nº 4.380, de 21 de agôsto de 1964.

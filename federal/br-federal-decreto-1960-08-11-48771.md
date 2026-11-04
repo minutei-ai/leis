@@ -1,5 +1,3 @@
-###DEC-048771-0-000-11-08-1960@@@
-
 DECRETO Nº 48.771, DE 11 DE AGôSTO DE 1960.
 
 Suprime cargo do Quadro Suplementar do Ministério da Fazenda

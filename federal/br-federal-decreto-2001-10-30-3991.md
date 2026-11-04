@@ -1,5 +1,3 @@
-###DEC-003991-0-000-30-10-2001@@@
-
 DECRETO Nº 3.991, DE 30 DE OUTUBRO DE 2001
 
 Dispõe sobre o Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF, e dá outras providências.

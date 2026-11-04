@@ -1,5 +1,3 @@
-###DEC-045250-0-000-15-01-1959@@@
-
 Decreto nº 45.250, de 15 de janeiro de 1959.
 
 Concede à Cia. Pernambucana de Mineração autorização para funcionar como emprêsa de mineração.

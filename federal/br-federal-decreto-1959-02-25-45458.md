@@ -1,5 +1,3 @@
-###DEC-045458-0-000-25-02-1959@@@
-
 DECRETO Nº 45.458, DE 25 DE FEVEREIRO DE 1959.
 
 Retifica o Decreto nº 44.885, de 27 de novembro de 1958.

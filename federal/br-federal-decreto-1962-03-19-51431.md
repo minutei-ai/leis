@@ -1,5 +1,3 @@
-###DEC-051431-0-000-19-03-1962@@@
-
 DECRETO Nº 51.431, DE 19 DE MARÇO DE 1962.
 
 Cria o Grupo Executivo para as Terras do Sudoeste do Paraná.

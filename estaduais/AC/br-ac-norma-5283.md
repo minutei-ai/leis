@@ -1,6 +1,10 @@
 > **LEI Nº 3.973, DE 25 DE JULHO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Ratifica o Protocolo de Intenções firmado entre os Estados do Acre, Alagoas, Amapá, Bahia, Distrito Federal, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio Grande do Norte, Rio Grande do Sul, Roraima, Santa Catarina, São Paulo, Sergipe e Tocantins, para a constituição do Consórcio Interestadual com o objetivo de promover o enfrentamento aos efeitos adversos das mudanças do clima no Brasil.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Ratifica o Protocolo de Intenções firmado entre os Estados do Acre, Alagoas, Amapá, Bahia, Distrito Federal, Espírito Santo, Goiás, Maranhão, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio Grande do Norte, Rio Grande do Sul, Roraima, Santa Catarina, São Paulo, Sergipe e Tocantins, para a constituição do Consórcio Interestadual com o objetivo de promover o enfrentamento aos efeitos adversos das mudanças do clima no Brasil.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

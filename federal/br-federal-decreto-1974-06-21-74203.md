@@ -1,5 +1,3 @@
-###DEC-074203-0-000-21-06-1974@@@
-
 DECRETO Nº 74.203, DE 21 DE JUNHO DE 1974.
 
 Concede à Mineração Cristal Ltda. o direito de lavrar água mineral no município de Ibirité, Estado de Minas Gerais.

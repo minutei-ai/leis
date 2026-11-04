@@ -34,7 +34,21 @@ SITUAÇÃO ATUAL
 | LOTE 13 QUADRA 71 | 454,40 |
 | LOTE 14 QUADRA 71 | 438,10 |
 
-<table><thead></thead><tbody><tr><td>LOTE 15 QUADRA 71</td><td style="text-align:center">421,80</td></tr><tr><td>LOTE 16 QUADRA 71</td><td style="text-align:center">405,50</td></tr><tr><td>LOTE 17 QUADRA 71</td><td style="text-align:center">489,18</td></tr><tr><td><strong>PARTE DA RUA 37</strong></td><td style="text-align:center">1.020,89</td></tr></tbody></table>
+LOTE 15 QUADRA 71
+
+421,80
+
+LOTE 16 QUADRA 71
+
+405,50
+
+LOTE 17 QUADRA 71
+
+489,18
+
+**PARTE DA RUA 37**
+
+1.020,89
 
 SITUAÇÃO INTERMEDIÁRIA
 
@@ -58,8 +72,10 @@ Aparecida de Goiânia, Estado de Goiás, aos 30 de maio de 2023.
 
  
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário de Planejamento e Regulação Urbana

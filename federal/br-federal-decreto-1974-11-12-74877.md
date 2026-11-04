@@ -1,5 +1,3 @@
-###DEC-074877-0-000-12-11-1974@@@
-
 DECRETO Nº 74.877, DE 12 DE NOVEMBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Universidade do Rio Grande do Sul, para que a Universidade Federal do Rio Grande do Sul, sob a denominação de Centro de Teledifusão Educativa, passe a executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Porto Alegre, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-052740-0-000-23-10-1963@@@
-
 DECRETO Nº 52.740, DE 23 DE Outubro DE 1963.
 
 Cria a Escola de Submarinos e dá outra providências.

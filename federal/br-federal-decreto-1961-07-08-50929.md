@@ -1,5 +1,3 @@
-###DEC-050929-0-000-08-07-1961@@@
-
 DECRETO Nº 50.929 DE 8 DE JULHO DE 1961.
 
 Regula a contratação de artistas estrangeiros pelas emissoras de rádio e televisão, teatros, ”boites” e estabelecimentos congêres, e dá outras providências.

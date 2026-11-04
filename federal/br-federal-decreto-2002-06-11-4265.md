@@ -1,5 +1,3 @@
-###DEC-004265-0-000-11-06-2002@@@
-
 DECRETO Nº 4.265, DE 11 DE JUNHO DE 2002
 
 Dá nova redação ao art. 2º do Decreto nº 4.231, de 14 de maio de 2002, que estabelece restrições para execução, no exercício de 2002, das despesas que específica, e dá outras providências.

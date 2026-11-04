@@ -1,7 +1,3 @@
-1
-
-###DEC-001020-0-000-27-12-1993@@@
-
 DECRETO N° 1.020, DE 27 DE DEZEMBRO DE 1993
 
 Dispõe sobre a regulamentação do Fundo de Custeio de Programas de Habitação Popular -FEHAP, e dá outras providências.

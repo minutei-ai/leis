@@ -1,5 +1,3 @@
-###DEC-047948-0-000-18-03-1960@@@
-
 DECRETO Nº 47.948, DE 18 DE MARÇO DE 1960.
 
 Revalida o Decreto nº 42.433, de 14 de outubro de 1957 que autorizou a Emprêsa Sul Brasileira de Eletricidade S.A. a instalar uma usina geradora Diesel elétrica na sede do município de Joinvile, no Estado de Santa Catarina.

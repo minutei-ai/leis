@@ -1,5 +1,3 @@
-###DEC-067740-0-000-08-12-1970@@@
-
 DECRETO Nº 67.740, DE 8 DE DEZEMBRO DE 1970.
 
 Concede reconhecimento a Curso da Faculdade de Filosofia de Itabuna - Bahia.

@@ -1,5 +1,3 @@
-###DEC-005756-0-000-13-04-2006@@@
-
 DECRETO Nº 5.756, DE 13 DE ABRIL DE 2006.
 
 Dispõe sobre o reajuste dos benefícios mantidos pela previdência social, a partir de 1o de abril de 2006.

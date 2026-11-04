@@ -1,5 +1,3 @@
-###DEC-053145-0-000-10-12-1963@@@
-
 DECRETO Nº 53.145, DE 10 DE DEZEMBRO DE 1963.
 
 Autoriza Mineração e Indústria Grosse Limitada a pesquisar talco no município de Lagoa Dourada, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-082026-0-000-24-07-1978@@@
-
 Decreto nº 82.026, de 24 de julho de 1978.
 
 Concede reconhecimento ao curso de Enfermagem e Obstetrícia com habilitação em Saúde Pública, ministrado pela Universidade Federal do Rio Grande do Norte.

@@ -1,5 +1,3 @@
-###DEC-077981-0-000-07-07-1976@@@
-
 DECRETO Nº 77.981, DE 7 DE JULHO DE 1976.
 
 Concede à Itapicuru Agro-Industrial S/A o direito de lavrar calcário no Município de Codó, Estado do Maranhão.

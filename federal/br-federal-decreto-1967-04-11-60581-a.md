@@ -1,5 +1,3 @@
-###DEC-060581-A-000-11-04-1967@@@
-
 DECRETO Nº 60.581-A, DE 11 DE ABRIL DE 1967.
 
 Transfere concessão

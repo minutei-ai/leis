@@ -1,5 +1,3 @@
-###DEC-049440-0-000-06-12-1960@@@
-
 DECRETO Nº 49.440, DE 6 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Ismael de Oliveira Fábregas a pesquisar minério de ferro no município de Itabira, Estado de Minas Gerais.

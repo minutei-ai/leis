@@ -1,6 +1,10 @@
 > **LEI Nº 4.175, DE 05 DE OUTUBRO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei n° 1.710, de 27 de janeiro de 2006, que “Cria o Programa Vida Nova à Mulher Mastectomizada”.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei n° 1.710, de 27 de janeiro de 2006, que “Cria o Programa Vida Nova à Mulher Mastectomizada”.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

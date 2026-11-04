@@ -1,5 +1,3 @@
-###DEC-005473-0-000-21-06-2005@@@
-
 DECRETO Nº 5.473, DE 21 DE JUNHO DE 2005
 
  Prorroga o prazo fixado no art. 2º do Decreto nº 2.413, de 4 de dezembro de 1997, que dispõe sobre as atribuições da Comissão Nacional de Energia Nuclear nas atividades de industrialização, importação e exportação de minerais e minérios de lítio e seus derivados.

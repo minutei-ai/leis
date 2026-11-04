@@ -1,5 +1,3 @@
-###DEC-077147-0-000-12-02-1976@@@
-
 DECRETO Nº 77.147, DE 12 DE FEVEREIRO DE 1976.
 
 Concede reconhecimento ao curso de Psicologia da Faculdade Paulistana de Ciências e Letras, com sede na Cidade de São Paulo, Estado de São Paulo.

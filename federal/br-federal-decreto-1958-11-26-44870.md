@@ -1,5 +1,3 @@
-###DEC-044870-0-000-26-11-1958@@@
-
 DECRETO Nº 44.870, DE 26 DE NOVEMBRO DE 1958.
 
 Concede à Emprêsa Fongra Produtos Químicos S.A. autorização para trabalho contínuo.

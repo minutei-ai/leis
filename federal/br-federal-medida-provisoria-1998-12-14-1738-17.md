@@ -1,5 +1,3 @@
-###MPV-001738-0-017-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.738-17, DE 14 DE DEZEMBRO DE 1998.
 
 Cria o Fundo de Garantia à Exportação - FGE, e dá outras providências.

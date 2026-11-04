@@ -1,5 +1,3 @@
-###DEC-083394-0-000-02-05-1979@@@
-
 Decreto nº 83.394, de 02 de maio de 1979.
 
 Concede reconhecimento ao curso de Engenharia Agrícola mantido em Campina Grande, pela Universidade Federal da Paraíba.

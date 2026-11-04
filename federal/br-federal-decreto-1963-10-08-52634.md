@@ -1,5 +1,3 @@
-###DEC-052634-0-000-08-10-1963@@@
-
 DECRETO Nº 52.634, DE 8 DE OUTUBRO DE 1963.
 
 Dispõe sôbre denominação de instituição de ensino e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-005575-0-000-14-06-1943@@@
-
 DECRETO‑LEI N. 5.575 – DE 14 DE JUNHO DE 1943
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 10.292,00 para pagamento de gratificação adicional

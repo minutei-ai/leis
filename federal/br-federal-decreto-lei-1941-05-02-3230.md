@@ -1,5 +1,3 @@
-###DEL-003230-0-000-02-05-1941@@@
-
 DECRETO-LEI N. 3.230 – DE 2 DE MAIO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 145:000$0 para pagamento de salários a extranumerários-diaristas

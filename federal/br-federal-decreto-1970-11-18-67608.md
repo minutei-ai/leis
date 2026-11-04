@@ -1,5 +1,3 @@
-###DEC-067608-0-000-18-11-1970@@@
-
 DECRETO Nº 67.608, DE 18 DE NOVEMBRO DE 1970.
 
 Concede à Magnesita S.A o direito de lavrar agalmatolito,  no município de Betim, Estado de Minas Gerais.

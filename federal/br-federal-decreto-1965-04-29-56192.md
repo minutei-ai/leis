@@ -1,5 +1,3 @@
-###DEC-056192-0-000-29-04-1965@@@
-
 Decreto nº 56.192, de 29 de abril de 1965.
 
 Declara caduca a autorização outorgada pelo Decreto nº 24.258, de 29 de dezembro de 1947, à Companhia Itatig, Petróleo, Asfalto e Mineração, para lavrar jazida de arenito betuminoso - classe IX, no Município de Guarei, Estado de São Paulo.

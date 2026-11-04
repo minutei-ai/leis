@@ -1,5 +1,3 @@
-###DEL-006069-0-000-06-12-1943@@@
-
 DECRETO‑LEI N. 6.069 – DE 6 DE DEZEMBRO DE 1943
 
 Dá nova redação ao decreto‑lei n. 5.205, de 19 de janeiro de 1943

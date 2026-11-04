@@ -1,5 +1,3 @@
-###DEC-045192-0-000-31-12-1958@@@
-
 DECRETO Nº 45.192, DE 31 DE DEZEMBRO DE 1958.
 
 Aprova o Regulamento para o Conselho de Promoções da Marinha.

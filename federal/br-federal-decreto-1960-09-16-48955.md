@@ -1,5 +1,3 @@
-###DEC-048955-0-000-16-09-1960@@@
-
 DECRETO Nº 48.955, DE 16 DE SETEMBRO DE 1960.
 
 Autoriza a cessão gratuita do imóvel que menciona, situado no Município do Rio Bonito, Estado do Rio de Janeiro.

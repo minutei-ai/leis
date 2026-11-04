@@ -1,5 +1,3 @@
-###DEC-047956-0-000-23-03-1960@@@
-
 DECRETONº 47.956, DE 23 DE MARÇO DE 1960.
 
 Inclui na Comissão constituída pelo Decreto nº 47.227 de 1959, um representante do Governo do Estado de Goiás.
@@ -17,8 +15,6 @@ Rio de Janeiro, em 23 de março de 1960; 139º da Independência e 72 da Repúbl
 JUSCELINO KUBITSCHEK
 
 Armando Falcão
-
-###DEC-047956-0-000-23-03-1960@@@RET01+++
 
 decreto nº 47.956, de 23 de Março de 1960.
 

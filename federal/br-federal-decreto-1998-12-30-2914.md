@@ -1,5 +1,3 @@
-###DEC-002914-0-000-30-12-1998@@@
-
 DECRETO Nº 2.914, DE 30 DE DEZEMBRO DE 1998.
 
 Dispõe sobre o remanejamento, em caráter temporário, dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

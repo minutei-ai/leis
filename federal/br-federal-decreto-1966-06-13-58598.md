@@ -1,5 +1,3 @@
-###DEC-058598-0-000-13-06-1966@@@
-
 DECRETO Nº 58.598, DE 13 DE JUNHO DE 1966.
 
 Aplica ao Departamento Nacional de Obras Contra as Sêcas o aumento de que trata a Lei número 4.863, de 29 de novembro de 1965.

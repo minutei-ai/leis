@@ -1,7 +1,3 @@
-1
-
-###DEC-001365-0-000-11-01-1995@@@
-
 DECRETO Nº 1.365, DE 11 DE JANEIRO DE 1995
 
 Dispõe sobre atribuições de inventariantes, procedimentos de inventários e dá outras providências.

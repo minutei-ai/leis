@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/75cb927f-54f1-4955-b382-259e476b178e/texto#nowhere)
 
-###DEL-000450-0-000-04-02-1969@@@
-
 DECRETO-LEI Nº 450, de 4 de fevereiro de 1969
 
 Revoga o Decreto-lei nº 213, de 27 de fevereiro de 1967.

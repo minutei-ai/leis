@@ -1,22 +1,20 @@
-###DEC-020538-0-000-26-01-1946@@@
+**DECRETO N° 20.538,DE 26 DE JANEIRO DE 1946.**
 
-<strong>DECRETO N° 20.538,DE 26 DE JANEIRO DE 1946.</strong>
+***Concede à sociedade anônima Rheem Manufacturing Company of Brazil Inc., autorização para funcionar na República.***
 
-<em><strong>Concede à sociedade anônima Rheem Manufacturing Company of Brazil Inc., autorização para funcionar na República.</strong></em>
+**O PRESIDENTE DA REPÚBLICA,** atendendo ao que requereu a Rheem Manufacturing Company of Brazil Inc.,
 
-<strong>O PRESIDENTE DA REPÚBLICA,</strong> atendendo ao que requereu a Rheem Manufacturing Company of Brazil Inc.,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. E´ concedida à Rheem Manufacturing Company of Brazil Inc., sociedade anônima norte-americana, com sede na cidade de Wilmington, Condado de New Castle, Delaware, autorização para funcionar na República, com o capital de Cr$ 1.700.000,00 (um milhão e setecentos mil cruzeiros), destinado às suas operações no Brasil, e com os estatutos que apresentou, mediante as cláusulas que êste acompanham, assinadas pelo Ministro do Trabalho, Industria e comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
 
 Rio de Janeiro, 26 de janeiro de 1946, 125° da Independência e 58° da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 R. Carneiro de Mendonça
 
-<strong>CLÁUSULAS QUE ACOMPANHAM O DECRETO N° 20.538.</strong>
+**CLÁUSULAS QUE ACOMPANHAM O DECRETO N° 20.538.**
 
 I - A sociedade anônima Rheem Manufacturing Company of Brazil Inc., é obrigada a ter permanente um representante geral no Brasil, com plenos e ilimitados poderes para tratar e definitivamente resolver as questões que se suscitarem, quer com o Govêrno, que com particulares, podendo ser demandado e receber citação inicial pela Sociedade.
 
@@ -32,4 +30,4 @@ V - A infração de qualquer das cláusulas para a qual não esteja cominada pen
 
 Rio de janeiro, 26 de janeiro de 1946,
 
-<strong>R. CARNEIRO DE MENDONÇA</strong>
+**R. CARNEIRO DE MENDONÇA**

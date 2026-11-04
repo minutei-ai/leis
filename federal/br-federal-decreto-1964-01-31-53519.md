@@ -1,5 +1,3 @@
-###DEC-053519-0-000-31-01-1964@@@
-
 DECRETO Nº 53.519, DE 31 DE JANEIRO DE 1964.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de terreno menciona.

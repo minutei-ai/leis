@@ -1,5 +1,3 @@
-###DEC-082042-0-000-26-07-1978@@@
-
 Decreto nº 82.042, de 26 de julho de 1978.
 
 Concede reconhecimento ao curso de Educação Artística, ministrado pelas Faculdades Integradas Tereza D'Ávila, com sede na cidade de São Paulo, Estado de São Paulo.

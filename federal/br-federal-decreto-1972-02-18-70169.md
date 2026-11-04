@@ -1,5 +1,3 @@
-###DEC-070169-0-000-18-02-1972@@@
-
 Decreto nº 70.169, de 18 de fevereiro de 1972.
 
 Autoriza o funcionamento do Curso de Engenharia Elétrica (modalidade eletrônica), do Instituto Nacional de Telecomunicações de Santa Rita do Sapucaí, Estado de Minas Gerais.

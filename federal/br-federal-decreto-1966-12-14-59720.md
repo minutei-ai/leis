@@ -1,5 +1,3 @@
-###DEC-059720-0-000-14-12-1966@@@
-
 Decreto nº 59.720, de 14 de dezembro de 1966.
 
 Concede à Cia. Thermas do Rio Quente (Caldas Novas) autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-075632-0-000-18-04-1975@@@
-
 DECRETO Nº 75.632, DE 18 DE ABRIL DE 1975.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Estado de Minas Gerais.

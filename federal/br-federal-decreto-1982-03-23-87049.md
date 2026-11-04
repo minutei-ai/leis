@@ -1,5 +1,3 @@
-###DEC-087049-0-000-23-03-1982@@@
-
 Decreto nº 87.049, de 23 de março de 1982
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da LIGHT-Serviços de Eletricidade S.A., no Estado de São Paulo.

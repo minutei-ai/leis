@@ -1,5 +1,3 @@
-###DEC-058225-0-000-19-04-1966@@@
-
 decreto nº 58.225, de 19 de abril de 1966.
 
 Revoga a declaração de utilidade pública a que se refêre o Decreto número 38.717, de 30 de janeiro de 1956, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público “Abóboras”, no município de Paramirim, Estado de Pernambuco.

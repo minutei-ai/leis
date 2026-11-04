@@ -1,5 +1,3 @@
-###MPV-001754-0-018-02-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.754-18, DE 2 DE JUNHO DE 1999.
 
 Dispõe sobre a simplificação do arquivamento de atos nas Juntas Comerciais e do protesto de título de dívida de microempresas e de empresas de pequeno porte, e dá outras providências.

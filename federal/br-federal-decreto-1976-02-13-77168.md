@@ -1,5 +1,3 @@
-###DEC-077168-0-000-13-02-1976@@@
-
 DECRETO Nº 77.168, DE 13 DE FEVEREIRO DE 1976.
 
 Autoriza o registro, em norma da União Federal, do imóvel que menciona, situado no Estado do Rio Grande do Sul.

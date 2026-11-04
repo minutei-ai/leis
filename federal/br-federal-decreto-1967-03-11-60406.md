@@ -1,5 +1,3 @@
-###DEC-060406-0-000-11-03-1967@@@
-
 DECRETO Nº 60.406, DE 11 DE MARÇO DE 1967.
 
 Autoriza o cidadão brasileiro Vilmar Freitas a pesquisar carvão mineral no Município de Urussanga, no Estado de Santa Catarina.

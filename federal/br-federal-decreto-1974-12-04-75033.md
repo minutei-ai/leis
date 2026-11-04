@@ -1,5 +1,3 @@
-###DEC-075033-0-000-04-12-1974@@@
-
 DECRETO nº 75.033, de 4 de Dezembro de 1974.
 
 Declara a cessação da exploração do serviço de geração de energia elétrica, outorgada à Companhia Paranaense de Energia Elétrica - COPEL, concessão para aproveitamento hidráulico e dá outras providências.

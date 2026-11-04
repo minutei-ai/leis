@@ -1,5 +1,3 @@
-###DEC-066047-0-000-08-01-1970@@@
-
 DECRETO Nº 66.047 - DE 8 DE JANEIRO DE 1970
 
 Renova o prazo de concessão outorgada a Companhia Telefônica de Pernambuco, através têrmo aditivo á cláusula 2ª do contrato firmado em 26 de dezembro de 1966, entre o Estado de Pernambuco com a interveniência da Prefeitura do Município de Recife e aquela Companhia.

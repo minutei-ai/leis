@@ -1,5 +1,3 @@
-###DEL-005247-0-000-12-02-1943@@@
-
 DECRETO‑LEI N. 5.247 – DE 12 DE FEVEREIRO DE 1943
 
 ModifIca a redação dos arts. 17, 31, 66 e 68 do Código de Minas e dá  outras providências

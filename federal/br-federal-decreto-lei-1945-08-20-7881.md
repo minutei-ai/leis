@@ -1,5 +1,3 @@
-###DEL-007881-0-000-20-08-1945@@@
-
 DECRETO-LEI N. 7.881 – DE 20 DE AGÔSTO DE 1945
 
 Dá nova redação ao art. 1º do Decreto-lei nº 6.877, de 18 de setembro de 1944.

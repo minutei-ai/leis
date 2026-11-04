@@ -1,6 +1,6 @@
 > **LEI Nº 3.413, DE 14 DE NOVEMBRO DE 2018**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei nº 2.993, de 28 de outubro de 2015, que dispõe sobre o Plano de Cargos, Carreira e Remuneração - PCCR dos servidores - do Ministério Público do Estado do Acre - MPAC</span></span></span></p></td></tr></tbody></table>
+Altera dispositivos da Lei nº 2.993, de 28 de outubro de 2015, que dispõe sobre o Plano de Cargos, Carreira e Remuneração - PCCR dos servidores - do Ministério Público do Estado do Acre - MPAC
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -52,4 +52,184 @@ Governador do Estado do Acre
 
 **ANEXO IV**
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>Procuradoria Geral de Justiça</span></strong></span></p></td></tr><tr><td><p><span><span>Gabinete</span></span></p></td></tr><tr><td><p><span><span>Assessoria</span></span></p></td></tr><tr><td><p><span><span>Distribuição</span></span></p></td></tr><tr><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>Corregedoria Geral</span></strong></span></p></td></tr><tr><td><p><span><span>Gabinete</span></span></p></td></tr><tr><td><p><span><span>Assessoria</span></span></p></td></tr><tr><td><p><span><span>Assessoria Psicossocial</span></span></p></td></tr><tr><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>Procuradorias de Justiça</span></strong></span></p></td></tr><tr><td><p><span><span>Assessoria</span></span></p></td></tr><tr><td><p><span><strong><span>&nbsp;</span></strong></span></p></td></tr><tr><td><p><span><strong><span>Promotorias de Justiça</span></strong></span></p></td></tr><tr><td><p><span><span>Assessoria</span></span></p></td></tr><tr><td><p><span><strong><span>&nbsp;</span></strong></span></p></td></tr><tr><td><p><span><strong><span>Coordenadoria de Recursos</span></strong></span></p></td></tr><tr><td><p><span><span>Assessoria</span></span></p></td></tr><tr><td><p><span><strong><span>&nbsp;</span></strong></span></p></td></tr><tr><td><p><span><strong><span>Procuradoria Geral Adjunta para Assuntos Administrativos e Institucionais</span></strong></span></p></td></tr><tr><td><p><span><span>Gabinete</span></span></p></td></tr><tr><td><p><span><span>Assessoria</span></span></p></td></tr><tr><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>Procuradoria Geral Adjunta para Assuntos Jurídicos</span></strong></span></p></td></tr><tr><td><p><span><span>Gabinete</span></span></p></td></tr><tr><td><p><span><span>Assessoria</span></span></p></td></tr><tr><td><p><span><span>Distribuição</span></span></p></td></tr><tr><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>Secretaria Geral</span></strong></span></p></td></tr><tr><td><p><span><span>Gabinete</span></span></p></td></tr><tr><td><p><span><span>Assessoria</span></span></p></td></tr><tr><td><p><span><span>Distribuição de Feitos</span></span></p></td></tr><tr><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>Centro de Atendimento à Vítima</span></strong></span></p></td></tr><tr><td><p><span><span>Coordenação Administrativa</span></span></p></td></tr><tr><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>Centro de Atendimento ao Cidadão</span></strong></span></p></td></tr><tr><td><p><span><span>Coordenação Administrativa</span></span></p></td></tr><tr><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>Centro de Especialidades em Saúde</span></strong></span></p></td></tr><tr><td><p><span><span>Coordenação Administrativa</span></span></p></td></tr><tr><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>Centro de Estudos e Aperfeiçoamento Funcional</span></strong></span></p></td></tr><tr><td><p><span><span>Coordenação Administrativa</span></span></p></td></tr><tr><td><p><span><span>Coordenação de Ensino</span></span></p></td></tr><tr><td><p><span><span>Coordenação de Pesquisa e Extensão</span></span></p></td></tr><tr><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>Centros de Apoio Operacional</span></strong></span></p></td></tr><tr><td><p><span><span>Assessoria</span></span></p></td></tr><tr><td><p><span><strong><span>&nbsp;</span></strong></span></p></td></tr><tr><td><p><span><strong><span>Núcleo de Apoio e Atendimento Psicossocial</span></strong></span></p></td></tr><tr><td><p><span><span>Coordenação Administrativa</span></span></p></td></tr><tr><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>Núcleo de Apoio Técnico Especializado</span></strong></span></p></td></tr><tr><td><p><span><span>Coordenação Administrativa</span></span></p></td></tr><tr><td><p><span><span>Coordenação de Desenvolvimento de Sistemas</span></span></p></td></tr><tr><td><p><span><span>Coordenação de Inteligência e Segurança Institucional</span></span></p></td></tr><tr><td><p><span><span>Coordenação de Operações</span></span></p></td></tr><tr><td><p><span><span>Coordenação de Tecnologia da Informação e Laboratório Forense Computacional</span></span></p></td></tr><tr><td><p><span><span>Coordenação do Laboratório de Tecnologia Contra Lavagem de Dinheiro</span></span></p></td></tr><tr><td><p><span><span>Coordenação do Observatório de Análise Criminal</span></span></p></td></tr><tr><td><p><span><span>Coordenação Técnica-Científica</span></span></p></td></tr><tr><td><p><span><span>Diligências</span></span></p></td></tr><tr><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>Núcleo Especializado de Incentivo à Autocomposição</span></strong></span></p></td></tr><tr><td><p><span><span>Coordenação Administrativa</span></span></p></td></tr><tr><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>Ouvidoria Geral</span></strong></span></p></td></tr><tr><td><p><span><span>Coordenação Administrativa</span></span></p></td></tr><tr><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>Assessoria Jurídica Virtual</span></strong></span></p></td></tr><tr><td><p><span><span>Coordenação Administrativa</span></span></p></td></tr><tr><td><p><span><strong><span>&nbsp;</span></strong></span></p></td></tr><tr><td><p><span><strong><span>Secretaria dos Órgãos Colegiados</span></strong></span></p></td></tr><tr><td><p><span><span>Gestão Administrativa</span></span></p></td></tr><tr><td><p><span><strong><span>&nbsp;</span></strong></span></p></td></tr><tr><td><p><span><strong><span>Gabinete Militar de Segurança Institucional</span></strong></span></p></td></tr><tr><td><p><span><span>Gabinete</span></span></p></td></tr><tr><td><p><span><span>Coordenação Administrativa</span></span></p></td></tr><tr><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>Diretoria de Administração</span></strong></span></p></td></tr><tr><td><p><span><span>Departamento de Apoio Operacional</span></span></p></td></tr><tr><td><p><span><span>Departamento de Arquitetura e Engenharia</span></span></p></td></tr><tr><td><p><span><span>Departamento de Arquivo, Material e Patrimônio</span></span></p></td></tr><tr><td><p><span><span>Departamento de Gestão Administrativa</span></span></p></td></tr><tr><td><p><span><span>Departamento de Licitações</span></span></p></td></tr><tr><td><p><span><span>Coordenação de Gestão de Contratos e Despesas</span></span></p></td></tr><tr><td><p><span><span>Coordenação de Gestão de Logística</span></span></p></td></tr><tr><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>Diretoria de Comunicação</span></strong></span></p></td></tr><tr><td><p><span><span>Departamento de Cerimonial</span></span></p></td></tr><tr><td><p><span><span>Departamento de Imprensa</span></span></p></td></tr><tr><td><p><span><span>Coordenação de Comunicação</span></span></p></td></tr><tr><td><p><span><span>Coordenação de Memória Institucional - Centro de Memória</span></span></p></td></tr><tr><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>Diretoria de Controle Interno</span></strong></span></p></td></tr><tr><td><p><span><span>Departamento de Auditoria</span></span></p></td></tr><tr><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>Diretoria de Finanças</span></strong></span></p></td></tr><tr><td><p><span><span>Departamento Contábil e Financeiro</span></span></p></td></tr><tr><td><p><span><span>Departamento de Controle e Custos</span></span></p></td></tr><tr><td><p><span><span>Departamento de Gestão de Convênios</span></span></p></td></tr><tr><td><p><span><span>Departamento Orçamentário</span></span></p></td></tr><tr><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>Diretoria de Gestão com Pessoas</span></strong></span></p></td></tr><tr><td><p><span><span>Departamento de Administração de Pessoas</span></span></p></td></tr><tr><td><p><span><span>Departamento de Gestão de Pagamento</span></span></p></td></tr><tr><td><p><span><span>Departamento de Políticas de Promoção para Pessoas</span></span></p></td></tr><tr><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>Diretoria de Planejamento</span></strong></span></p></td></tr><tr><td><p><span><span>Departamento de Gestão Estratégica</span></span></p></td></tr><tr><td><p><span><span>&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>Diretoria de Tecnologia da Informação</span></strong></span></p></td></tr><tr><td><p><span><span>Departamento de Inovação Tecnológica</span></span></p></td></tr><tr><td><p><span><span>Coordenação de Infraestrutura e Segurança da Informação</span></span></p></td></tr><tr><td><p><span><span>Coordenação de Sistemas e Banco de Dados</span></span></p></td></tr><tr><td><p><span><span>Coordenação de Suporte Nível 1 e Sistemas de Processo Eletrônico</span></span></p></td></tr></tbody></table>
+**Procuradoria Geral de Justiça**
+
+Gabinete
+
+Assessoria
+
+Distribuição
+
+**Corregedoria Geral**
+
+Gabinete
+
+Assessoria
+
+Assessoria Psicossocial
+
+**Procuradorias de Justiça**
+
+Assessoria
+
+**Promotorias de Justiça**
+
+Assessoria
+
+**Coordenadoria de Recursos**
+
+Assessoria
+
+**Procuradoria Geral Adjunta para Assuntos Administrativos e Institucionais**
+
+Gabinete
+
+Assessoria
+
+**Procuradoria Geral Adjunta para Assuntos Jurídicos**
+
+Gabinete
+
+Assessoria
+
+Distribuição
+
+**Secretaria Geral**
+
+Gabinete
+
+Assessoria
+
+Distribuição de Feitos
+
+**Centro de Atendimento à Vítima**
+
+Coordenação Administrativa
+
+**Centro de Atendimento ao Cidadão**
+
+Coordenação Administrativa
+
+**Centro de Especialidades em Saúde**
+
+Coordenação Administrativa
+
+**Centro de Estudos e Aperfeiçoamento Funcional**
+
+Coordenação Administrativa
+
+Coordenação de Ensino
+
+Coordenação de Pesquisa e Extensão
+
+**Centros de Apoio Operacional**
+
+Assessoria
+
+**Núcleo de Apoio e Atendimento Psicossocial**
+
+Coordenação Administrativa
+
+**Núcleo de Apoio Técnico Especializado**
+
+Coordenação Administrativa
+
+Coordenação de Desenvolvimento de Sistemas
+
+Coordenação de Inteligência e Segurança Institucional
+
+Coordenação de Operações
+
+Coordenação de Tecnologia da Informação e Laboratório Forense Computacional
+
+Coordenação do Laboratório de Tecnologia Contra Lavagem de Dinheiro
+
+Coordenação do Observatório de Análise Criminal
+
+Coordenação Técnica-Científica
+
+Diligências
+
+**Núcleo Especializado de Incentivo à Autocomposição**
+
+Coordenação Administrativa
+
+**Ouvidoria Geral**
+
+Coordenação Administrativa
+
+**Assessoria Jurídica Virtual**
+
+Coordenação Administrativa
+
+**Secretaria dos Órgãos Colegiados**
+
+Gestão Administrativa
+
+**Gabinete Militar de Segurança Institucional**
+
+Gabinete
+
+Coordenação Administrativa
+
+**Diretoria de Administração**
+
+Departamento de Apoio Operacional
+
+Departamento de Arquitetura e Engenharia
+
+Departamento de Arquivo, Material e Patrimônio
+
+Departamento de Gestão Administrativa
+
+Departamento de Licitações
+
+Coordenação de Gestão de Contratos e Despesas
+
+Coordenação de Gestão de Logística
+
+**Diretoria de Comunicação**
+
+Departamento de Cerimonial
+
+Departamento de Imprensa
+
+Coordenação de Comunicação
+
+Coordenação de Memória Institucional - Centro de Memória
+
+**Diretoria de Controle Interno**
+
+Departamento de Auditoria
+
+**Diretoria de Finanças**
+
+Departamento Contábil e Financeiro
+
+Departamento de Controle e Custos
+
+Departamento de Gestão de Convênios
+
+Departamento Orçamentário
+
+**Diretoria de Gestão com Pessoas**
+
+Departamento de Administração de Pessoas
+
+Departamento de Gestão de Pagamento
+
+Departamento de Políticas de Promoção para Pessoas
+
+**Diretoria de Planejamento**
+
+Departamento de Gestão Estratégica
+
+**Diretoria de Tecnologia da Informação**
+
+Departamento de Inovação Tecnológica
+
+Coordenação de Infraestrutura e Segurança da Informação
+
+Coordenação de Sistemas e Banco de Dados
+
+Coordenação de Suporte Nível 1 e Sistemas de Processo Eletrônico

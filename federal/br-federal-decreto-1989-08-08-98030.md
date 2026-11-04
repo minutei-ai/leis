@@ -1,7 +1,3 @@
-1
-
-###DEC-098030-0-000-08-08-1989@@@
-
 DECRETO N° 98.030, DE 8 DE AGOSTO DE 1989
 
 Renova a concessão outorgada à TELEVISÃO URUGUAIANA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão) na cidade de Uruguaiana, Estado do Rio Grande do Sul.

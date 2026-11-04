@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62107)
-
 # LEI Nº 12.339, DE 24 DE ABRIL DE 2006
 
 ### _Autoriza a Fazenda do Estado a receber, mediante doação, do Município de Jaú, imóvel que especifica_

@@ -1,5 +1,3 @@
-###DEL-003954-0-000-18-12-1941@@@
-
 DECRETO-LEI N. 3.954 – DE 18 DE DEZEMBRO DE 1941
 
 Cria uma coletoria federal no município de Valparaizo, Estado de São Paulo, e dá outras providências.

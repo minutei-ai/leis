@@ -1,5 +1,3 @@
-###DEC-046430-0-000-14-07-1959@@@
-
 DECRETO Nº 46.430, DE 14 DE JULHO DE 1959.
 
 Cria, no Ministério da Agricultura, a Comissão Técnica de Planejamento e Construção em Área Rural de Brasília.

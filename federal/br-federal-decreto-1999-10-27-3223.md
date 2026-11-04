@@ -1,5 +1,3 @@
-###DEC-003223-0-000-27-10-1999@@@
-
 decreto nº 3.223, de 27 de outubro de 1999.
 
 Considera de natureza militar os cargos que menciona, ocupados por militares do serviço ativo da Marinha do Brasil, no Ministério da Ciência e Tecnologia.

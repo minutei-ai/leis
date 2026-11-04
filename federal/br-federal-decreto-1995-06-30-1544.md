@@ -1,7 +1,3 @@
-1
-
-###DEC-001544-0-000-30-06-1995@@@
-
 DECRETO N° 1.544, DE 30 DE JUNHO DE 1995.
 
 Dispõe sobre o cálculo da média de índices de preços de abrangência nacional.

@@ -38,7 +38,8 @@ Art. 5º A participação na comissão do processo seletivo instituída por este
 
 Parágrafo único. As decisões da comissão serão tomadas pela maioria simples de votos dos membros, e caberá ao presidente da comissão, além do respectivo voto, o de qualidade em caso de empate.
 
-Art. 6º Fica estabelecido o prazo de 4 (quatro) meses a partir da instalação da comissão, nos termos do art. 7º deste Decreto, para a conclusão do processo seletivo para a escolha de outra entidade de previdência complementar, admitida a sua prorrogação por igual período, mediante ato do Chefe do Poder Executivo.<br>
+Art. 6º Fica estabelecido o prazo de 4 (quatro) meses a partir da instalação da comissão, nos termos do art. 7º deste Decreto, para a conclusão do processo seletivo para a escolha de outra entidade de previdência complementar, admitida a sua prorrogação por igual período, mediante ato do Chefe do Poder Executivo.
+
 \- [Prazo Prorrogado pelo Decreto nº 10.116, de 08-07-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105795/decreto-10116).
 
 Art. 7º A comissão do processo seletivo será considerada instalada na data em que ocorrer sua primeira reunião.
@@ -48,8 +49,6 @@ Art. 8º A comissão do processo seletivo será dissolvida, automaticamente, ap�
 Art. 9º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 22 de dezembro de 2021; 133º da República.
-
-<br>
 
 RONALDO CAIADO
 

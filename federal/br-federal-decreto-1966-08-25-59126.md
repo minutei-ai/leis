@@ -1,5 +1,3 @@
-###DEC-059126-0-000-25-08-1966@@@
-
 DECRETO Nº 59.126, DE 25 de agôsto de 1966.
 
 Autoriza Industria e Comércio de Mineração Brasil Central “Incomibrac” S. A. a pesquisar minério de manganês no município de Porteirinha, Estado de Minas Gerais.

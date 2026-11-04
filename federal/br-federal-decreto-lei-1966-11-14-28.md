@@ -1,5 +1,3 @@
-###DEL-000028-0-000-14-11-1966@@@
-
 DECRETO-LEI Nº 28, DE 14 DE NOVEMBRO DE 1966
 
 Dispõe sôbre normas complementares à Lei nº 5.172, de 25 de outubro de 1966.

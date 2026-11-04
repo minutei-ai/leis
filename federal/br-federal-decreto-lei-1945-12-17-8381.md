@@ -1,5 +1,3 @@
-###DEL-008381-0-000-17-12-1945@@@
-
 DECRETO-LEI N. 8.381 – DE 17 DE DEZEMBRO DE 1945
 
 Torna extensivo aos Capitães da Reserva de 2ª Classe que serviram na F. E. B.. os benefícios do Decreto lei nº 8.159, de 3-11-45, e dá outras providências.

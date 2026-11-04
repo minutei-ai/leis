@@ -1,7 +1,3 @@
-1
-
-###MPV-001291-0-000-08-02-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.291, DE 8 DE FEVEREIRO DE 1996.
 
 Acrescenta parágrafo ao art. 75 da Lei nº 4.728, de 14 de julho de 1965.

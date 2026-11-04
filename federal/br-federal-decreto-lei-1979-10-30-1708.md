@@ -1,5 +1,3 @@
-###DEL-001708-0-000-30-10-1979@@@
-
 # DECRETO-LEI Nº 1.708, DE 30 DE OUTUBRO DE 1979
 
 Altera o artigo 1º do Decreto-lei nº 1.237, de 12 de setembro de 1972.

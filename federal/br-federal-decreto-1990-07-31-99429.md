@@ -1,7 +1,3 @@
-1
-
-###DEC-099429-0-000-31-07-1990@@@
-
 DECRETO N° 99.429, DE 31 DE JULHO DE 1990
 
 Dá nova redação aos itens 13 e 14 das Instruções Gerais do Plano de Contas do Serviço Público de Energia Elétrica.

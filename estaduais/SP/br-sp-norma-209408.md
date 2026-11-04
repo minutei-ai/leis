@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209408)<br>
-
 # DECRETO N° 68.495, DE 02 DE MAIO DE 2024
 
 ### _Oficializa, sem ônus para os cofres públicos, a condecoração "Medalha Coronel Azarias Silva", instituída pela Sociedade Veteranos de 1932 - MMDC - Núcleo Cadete Ruytemberg Rocha, e dá providências correlatas_

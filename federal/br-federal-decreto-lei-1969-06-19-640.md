@@ -1,5 +1,3 @@
-###DEL-000640-0-000-19-06-1969@@@
-
 decreto-lei nº 640, de 19 de junho de 1969
 
 Aprova o Acôrdo Cultural entre a República Federativa ao Brasil e a República da Tunísia, assinado no Rio de Janeiro, a 4 de junho de 1968.

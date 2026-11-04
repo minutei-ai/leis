@@ -1,5 +1,3 @@
-###DEC-069574-0-000-22-11-1971@@@
-
 DECRETO Nº 69.574 - DE 22 DE NOVEMBRO DE 1971
 
 Declara de utilidade pública, para fins de constituição de servidão faixa de terra destinada à passagem de linha de transmissão entre Bom Jardim de Goiás e Aragarças, no Estado de Goiás.

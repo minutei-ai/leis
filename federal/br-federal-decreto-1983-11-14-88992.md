@@ -1,5 +1,3 @@
-###DEC-088992-0-000-14-11-1983@@@
-
 Decreto nº 88.992, de 14 de novembro de 1983
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de ramal de linha de transmissão da Sociedade Anônima de Eletrificação da Paraíba-SAELPA, no Estado da Paraíba.

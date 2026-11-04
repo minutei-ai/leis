@@ -1,5 +1,3 @@
-###DEC-061875-0-000-08-12-1967@@@
-
 DECRETO Nº 61.875, DE 8 DE DEZEMBRO DE 1967.
 
 Retifica a relação nominal a que se refere o artigo 1º do Decreto n° 61.396, de 21 de setembro de 1967, e a que acompanhou o Decreto n° 61.168, de 17 de agôsto de 1967.

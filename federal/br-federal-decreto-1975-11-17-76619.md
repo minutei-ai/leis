@@ -1,5 +1,3 @@
-###DEC-076619-0-000-17-11-1975@@@
-
 Decreto nº 76.619, de 17 de novembro 1975.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativas, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

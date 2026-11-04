@@ -1,5 +1,3 @@
-###DEC-056952-0-000-01-10-1965@@@
-
 DECRETO Nº 56.952, DE 1 DE OUTUBRO DE 1965.
 
 Outorga à Companhia de Eletricidade do Cariri concessão para distribuir energia elétrica.

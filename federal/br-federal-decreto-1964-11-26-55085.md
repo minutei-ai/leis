@@ -1,5 +1,3 @@
-###DEC-055085-0-000-26-11-1964@@@
-
 DECRETO Nº 55.085, DE 26 DE NOVEMBRO DE 1964.
 
 Retifica o enquadramento da Universidade Rural de Pernambuco, aprovado pelo Decreto nº 51.666, de 17 de janeiro de 1963.

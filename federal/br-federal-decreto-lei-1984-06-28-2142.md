@@ -1,5 +1,3 @@
-###DEL-002142-0-000-28-06-1984@@@
-
 # Decreto-lei nº 2.142, de 28 de junho de 1984
 
 Reajusta os vencimentos e proventos dos fun cionários do Quadro Permanente das Secretarias das Seções Judiciárias da Justiça Federal de Primeira Instância e dá outras providências.

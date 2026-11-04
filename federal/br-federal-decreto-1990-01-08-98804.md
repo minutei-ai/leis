@@ -1,7 +1,3 @@
-1
-
-###DEC-098804-0-000-08-01-1990@@@
-
 DECRETO Nº 98.804, DE 8 DE JANEIRO DE 1990
 
 Fixa, no Ministério da Marinha, os mínimos de vagas para promoção obrigatória, referentes ao ano-base de 1989, nos diversos Corpos e Quadros de Oficiais da Marinha.

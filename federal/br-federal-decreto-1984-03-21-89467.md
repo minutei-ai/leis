@@ -1,5 +1,3 @@
-###DEC-089467-0-000-21-03-1984@@@
-
 Decreto nº 89.467, de 21 de março de 1984
 
 Revoga dispositivo do regulamento da Lei nº 6.494, de 7 de dezembro de 1977, que dispõe sobre o estágio de estudantes de estabelecimentos de ensino superior e de 2º grau regular e supletivo.

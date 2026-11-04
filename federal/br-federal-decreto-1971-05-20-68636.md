@@ -1,5 +1,3 @@
-###DEC-068636-0-000-20-05-1971@@@
-
 DECRETO Nº 68.636 - DE 20 DE MAIO DE 1971.
 
 Concede reconhecimento ao Curso de Canto do Conservatório Musical de Santos, em Santos, S.P.

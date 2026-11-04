@@ -1,5 +1,3 @@
-###DEC-078687-0-000-08-11-1976@@@
-
 Decreto nº 78.687, de 8 de novembro de 1976.
 
 Altera o Decreto nº 71.756, de 24 de janeiro de 1973, que Regulamenta para a Aeronáutica, a Lei número 5.821, de 10 de novembro de 1972, (Lei de Promoções dos Oficiais da Ativa das Forças Armadas).

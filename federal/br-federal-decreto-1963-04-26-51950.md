@@ -1,5 +1,3 @@
-###DEC-051950-0-000-26-04-1963@@@
-
 DECRETO Nº 51.950, DE 26 DE ABRIL DE 1963.
 
 Autoriza a Icominas S.A. Emprêsa de Mineração a lavrar minério de ferro e dolomita, no município de Santa Bárbara, Estado de Minas Gerais.
@@ -31,8 +29,6 @@ Brasília, 26 de abril de 1963, 142º da Independência e 75º da República.
 Ranieri Mazzilli
 
 Eliezer Batista da Silva
-
-###DEC-051950-0-000-26-04-1963@@@RET01+++
 
 Decreto nº 51.950, de 26 de abril de 1963.
 

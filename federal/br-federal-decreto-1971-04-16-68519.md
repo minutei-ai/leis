@@ -1,5 +1,3 @@
-###DEC-068519-0-000-16-04-1971@@@
-
 Decreto nº 68.519 - de 16 de abril de 1971.
 
 Aproveita servidores em disponibilidade e dá outras providências.

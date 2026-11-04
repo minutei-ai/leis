@@ -1,5 +1,3 @@
-###DEC-082666-0-000-16-11-1978@@@
-
 Decreto nº 82.666, de 16 de novembro de 1978
 
 Dá nova redação a dispositivo do Decreto nº 81.315, de 8 de fevereiro de 1978, que regulamentou o instituto da Ascensão Funcional.

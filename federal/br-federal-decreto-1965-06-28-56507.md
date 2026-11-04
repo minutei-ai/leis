@@ -1,5 +1,3 @@
-###DEC-056507-0-000-28-06-1965@@@
-
 Decreto nº 56.507, de 28 de junho de 1965.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Pirapora, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-007104-0-000-30-11-1944@@@
-
 DECRETO-LEI N. 7.104 – DE 30 NOVEMBRO DE 1944
 
 Abre ao Ministério da Educação e Saúde o crédito suplementar de Cr$ 100.000,00, à verba que especifica

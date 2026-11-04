@@ -1,5 +1,3 @@
-###DEC-047376-0-000-09-12-1959@@@
-
 DECRETO Nº 47.376, DE 9 DE DEZEMBRO DE 1959.
 
 Autoriza a Companhia Hidroelétrica do Rio Pardo a construir hipoteca a favor do Banco Nacional do Desenvolvimento Econômico.

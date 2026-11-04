@@ -1,5 +1,3 @@
-###DEC-056403-0-000-03-06-1965@@@
-
 Decreto nº 56.403, de 3 de junho de 1965.
 
 Outorga à Companhia Estadual de Energia Elétrica do Rio Grande do Sul, concessão para distribuir energia elétrica.

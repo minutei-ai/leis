@@ -1,5 +1,3 @@
-###DEC-081261-0-000-27-01-1978@@@
-
 Decreto nº 81.261, de 27 de janeiro de 1978.
 
 Concede reconhecimento ao curso de Ciências, ministrado pela Faculdade de Filosofia Dom José, com sede na cidade de Sobral, Estado do Ceará.

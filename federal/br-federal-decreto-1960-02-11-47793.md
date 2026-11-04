@@ -1,5 +1,3 @@
-###DEC-047793-0-000-11-02-1960@@@
-
 DECRETO Nº 47.793, DE 11 DE FEVEREIRO DE 1960.
 
 Modifica o Regimento do Conselho Nacional de Saúde aprovado pelo Decreto nº 35.347, de 8 de abril de 1954 e alterado pelo Decreto de número 45.913, de 29 de abril de 1959.

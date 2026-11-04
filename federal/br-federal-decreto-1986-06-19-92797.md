@@ -1,5 +1,3 @@
-###DEC-092797-0-000-19-06-1986@@@
-
 DECRETO Nº 92.797, DE 19 DE JUNHO DE 1986
 
 Dá nova redação no art. 4º do Decreto nº 90.639, de 10 de dezembro de 1984, que "Mantém, sob nova denominação, o Conselho Consultivo dos Produtores de Cacau e dá outras providências".

@@ -1,5 +1,3 @@
-###DEC-058618-0-000-15-06-1966@@@
-
 Decreto nº 58.618, de 15 de junho de 1966.
 
 Renova o Decreto nº 53.712, de 17 de março de 1964.

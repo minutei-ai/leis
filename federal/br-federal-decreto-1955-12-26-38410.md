@@ -1,20 +1,18 @@
-###DEC-038410-0-000-26-12-1955@@@
-
 <!-- reproducao-incompleta:inicio -->
 
 > **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (modelo-grafico) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
 
 <!-- reproducao-incompleta:fim -->
 
-<strong>DECRETO Nº 38.410, DE 26 DE DEZEMBRO DE 1955.</strong>
+**DECRETO Nº 38.410, DE 26 DE DEZEMBRO DE 1955.**
 
-<em><strong>Cria o Brasão de Armas para a Escola de Comando e Estado Maior do Exercito.</strong></em>
+***Cria o Brasão de Armas para a Escola de Comando e Estado Maior do Exercito.***
 
-<strong>O VICE-PRESIDENTE DO SENADO FEDERAL</strong>, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
+**O VICE-PRESIDENTE DO SENADO FEDERAL**, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Fica Criado o Brasão de Armas para a Escola de Comando e Estado Maior do Exercito, de acôrdo com o modêlo que a êste acompanha e com a seguinte descrição:
+**Art**. 1º Fica Criado o Brasão de Armas para a Escola de Comando e Estado Maior do Exercito, de acôrdo com o modêlo que a êste acompanha e com a seguinte descrição:
 
 \- Escudo cortinado, com o campo de azul e o matel de goles;
 
@@ -28,10 +26,10 @@
 
 \- Paquife nos metais e nas côres do Brasão de Armas.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 26 de dezembro de 1955; 134º da Independência e 67º da República.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 Henrique Lott

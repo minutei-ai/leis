@@ -1,5 +1,3 @@
-###MPV-001497-0-000-07-06-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.497, DE 7 DE JUNHO DE 1996.
 
 Cria a Gratificação de Desempenho e Produtividade - GDP das atividades de finanças, controle, orçamento e planejamento, e dá outras providências.

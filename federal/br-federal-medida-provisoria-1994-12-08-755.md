@@ -1,7 +1,3 @@
-1
-
-###MPV-000755-0-000-08-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 755, DE 8 DE DEZEMBRO DE 1994
 
 Dispõe sobre a alocação, em depósitos especiais remunerados, de recursos da disponibilidade financeira do Fundo de Amparo ao Trabalhador (FAT), no Banco do Brasil S.A., e dá outras providências.

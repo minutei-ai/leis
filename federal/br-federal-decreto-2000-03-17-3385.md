@@ -1,5 +1,3 @@
-###DEC-003385-0-000-17-03-2000@@@
-
 Decreto nº 3.385, de 17 de março de 2000.
 
 Altera dispositivos do Regulamento para o Quadro de Engenheiros Militares (R-43), aprovado pelo Decreto nº 96.304, de 12 de julho de 1988, e alterado pelo Decreto nº 2.731, de 11 de agosto de 1998.

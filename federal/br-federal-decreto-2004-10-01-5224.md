@@ -1,5 +1,3 @@
-###DEC-005224-0-000-01-10-2004@@@
-
 DECRETO Nº 5.224 DE 1º DE OUTUBRO DE 2004
 
 Dispõe sobre a organização dos Centros Federais de Educação Tecnológica e dá outras providências.

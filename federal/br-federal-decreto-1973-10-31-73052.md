@@ -1,5 +1,3 @@
-###DEC-073052-0-000-31-10-1973@@@
-
 DECRETO Nº 73.052, DE 31 DE OUTUBRO DE 1973.
 
 Torna sem efeito a redistribuição de cargo, com o respectivo ocupante, para o Quadro de Pessoal do Ministério das Relações Exteriores.

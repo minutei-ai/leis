@@ -1,5 +1,3 @@
-###DEC-075516-0-000-19-03-1975@@@
-
 DECRETO Nº 75.516, DE 19 DE MARÇO DE 1975.
 
 Autoriza o funcionamento dos cursos de Administração e de Ciências Contábeis da Faculdade de Administração, Ciências Contábeis e Econômicas, mantida pela Fundação Educacional Serra dos Órgãos, com sede na cidade de Teresópolis, Estado do Rio de Janeiro.

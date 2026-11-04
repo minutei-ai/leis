@@ -1,5 +1,3 @@
-###DEC-062142-0-000-18-01-1968@@@
-
 DECRETO Nº 62.142, DE 18 DE JANEIRO DE 1968.
 
 Regulamenta o art. 5º da Lei Complementar nº 2, que dispõe sôbre a execução do disposto no art. 16, § 2º, da constituição, relativamente à remuneração dos Vereadores.

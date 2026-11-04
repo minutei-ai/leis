@@ -1,5 +1,3 @@
-###DEC-073857-0-000-14-03-1974@@@
-
 DECRETO N° 73.857, DE 14 DE MARÇO DE 1974.
 
 Reestrutura a Comissão Especial para Execução do Plano de Melhoramento e Expansão do Ensino Superior (CEPES) e dá outras providências.

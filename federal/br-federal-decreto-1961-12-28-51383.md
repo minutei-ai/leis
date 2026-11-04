@@ -1,5 +1,3 @@
-###DEC-051383-0-000-28-12-1961@@@
-
 DECRETO Nº 51.383, DE 28 DE DEZEMBRO DE 1961.
 
 Altera o Regulamento da Ordem do Mérito Médico, aprovado pelo Decreto nº 29.198, de 24 de janeiro de 1951.

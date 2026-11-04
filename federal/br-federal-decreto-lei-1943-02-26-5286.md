@@ -1,5 +1,3 @@
-###DEL-005286-0-000-26-02-1943@@@
-
 DECRETO‑LEI N. 5.286 – DE 26 DE FEVEREIRO DE 1943
 
 Revigora, no presente ano, o decreto‑lei n. 3.143, de 25 de março de 1941

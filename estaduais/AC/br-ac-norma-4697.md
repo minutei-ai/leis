@@ -1,6 +1,10 @@
 > **LEI Nº 3.753, DE 09 DE JULHO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Obriga estabelecimentos comerciais, inclusive instituições financeiras, que realizam a chamada de seus clientes por sistema de senhas em TV ou painéis, a adotarem também a chamada de voz, informando o número da senha e o número do guichê de atendimento, bem como impressão de senha pelo sistema Braille.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Obriga estabelecimentos comerciais, inclusive instituições financeiras, que realizam a chamada de seus clientes por sistema de senhas em TV ou painéis, a adotarem também a chamada de voz, informando o número da senha e o número do guichê de atendimento, bem como impressão de senha pelo sistema Braille.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-056486-0-000-18-06-1965@@@
-
 DECRETO Nº 56.486, DE 18 DE JUNHO DE 1965.
 
 Declara de utilidade pública a Fundação Bienal de São Paulo, com sede em São Paulo, Estado de São Paulo.

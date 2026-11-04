@@ -1,5 +1,3 @@
-###DEL-000428-0-000-22-01-1969@@@
-
 DECRETO-LEI Nº 428, de 22 de janeiro de 1969
 
 Dispõe sôbre operação externa de financiamento do VIII Censo Geral do Brasil.

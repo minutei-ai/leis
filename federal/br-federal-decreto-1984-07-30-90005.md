@@ -1,5 +1,3 @@
-###DEC-090005-0-000-30-07-1984@@@
-
 Decreto nº 90.005, de 30 de julho de 1984
 
 Autoriza o Banco do Brasil S.A. a proceder ao aumento do capital social.

@@ -1,5 +1,3 @@
-###DEC-052202-0-000-28-06-1963@@@
-
 DECRETO Nº 52.202, DE 28 DE JUNHO DE 1963.
 
 Torna sem efeito o Decreto nº 44.482, de 8 de setembro de 1958.

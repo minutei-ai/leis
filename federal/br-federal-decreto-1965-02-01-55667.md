@@ -1,5 +1,3 @@
-###DEC-055667-0-000-01-02-1965@@@
-
 DECRETO Nº 55.667, DE 1 DE FEVEREIRO DE 1965.
 
 Concede reconhecimento à Faculdade de Serviço Social de Campina Grande, no Estado da Paraíba.

@@ -1,5 +1,3 @@
-###DEC-074285-0-000-15-07-1974@@@
-
 DECRETO Nº 74.285 - DE 15 DE JULHO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Gazeta de Alagoas S. A., para executar serviços de radiodifusão sonora em onda tropical, na cidade de Maceió, Estado de Alagoas.

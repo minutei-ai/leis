@@ -1,7 +1,3 @@
-1
-
-###DEC-095864-0-000-23-03-1988@@@
-
 DECRETO N° 95.864, DE 23 DE MARÇO DE 1988
 
 Cria o Terceiro Centro Integrado de Defesa Aérea e Controle de Tráfego Aéreo e dá outras providências.

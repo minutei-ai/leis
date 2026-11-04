@@ -1,5 +1,3 @@
-###DEC-083674-0-000-03-07-1979@@@
-
 Decreto nº 83.674, de 03 de julho de 1979.
 
 Autoriza a cessão, sob o regime de aforamento do imóvel que menciona, situado na Cidade e Estado do Rio de Janeiro.

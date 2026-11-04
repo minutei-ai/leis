@@ -1,5 +1,3 @@
-###DEL-007571-0-000-21-05-1945@@@
-
 DECRETO-LEI N. 7.571 – DE 21 DE MAIO DE 1945
 
 Estende às Obrigações do Tesouro Nacional as disposições do Decreto-lei nº 3.033, de 7 de fevereiro de 1941

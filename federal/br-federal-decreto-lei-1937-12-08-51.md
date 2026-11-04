@@ -1,5 +1,3 @@
-###DEL-000051-0-000-08-12-1937@@@
-
 DECRETO-LEI N. 51 – DE 8 DE DEZEMBRO DE 1937
 
 Dispõe sôbre tipos de café e dá outras providências

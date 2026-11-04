@@ -1,5 +1,3 @@
-###DEC-080334-0-000-14-09-1977@@@
-
 DECRETO Nº 80.334, DE 14 DE SETEMBRO DE 1977.
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Educação de Guaratinguetá, com sede na cidade de Guaratinguetá, Estado de São Paulo.

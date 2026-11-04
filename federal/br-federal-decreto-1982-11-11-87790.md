@@ -1,5 +1,3 @@
-###DEC-087790-0-000-11-11-1982@@@
-
 Decreto nº 87.790, de 11 de novembro de 1982
 
 Altera dispositivos do Regulamento para o Estado-Maior da Armada, aprovado pelo Decreto nº 66 052, de 12 de janeiro de 1970, e alterado pelos Decretos nº 73 916, de 5 de abril de 1974, nº 75 383, de 14 de fevereiro de 1975 e nº 79 552, de 19 de abril de 1977.

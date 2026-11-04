@@ -1,5 +1,3 @@
-###DEC-007558-0-000-30-08-2011-PUB-01@@@
-
 DECRETO Nº\- 7.558, DE 30 DE AGOSTO DE 2011
 
 Altera os Anexos VII, VIII e X do Decreto nº 7.445, de 1º de março de 2011, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2011.

@@ -1,5 +1,3 @@
-###DEC-004173-0-000-21-03-2002@@@
-
 DECRETO Nº 4.173, DE 21 DE MARÇO DE 2002.
 
 Acresce dispositivo ao Decreto no 3.675, de 28 de novembro de 2000, que dispõe sobre as medidas especiais relacionadas com o registro de medicamentos genéricos de que trata o art. 4o da Lei no 9.787, de 10 de fevereiro de 1999.

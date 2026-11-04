@@ -1,5 +1,3 @@
-###DEC-057282-0-000-17-11-1965@@@
-
 DECRETO Nº 57.282, DE 17 DE NOVEMBRO DE 1965.
 
 Cria funções na antiga Tabela Única de Extranumerários - mensalistas do Ministério da Educação e Cultura, em comprimento de decisão judicial passada em julgado e dá outras providências.

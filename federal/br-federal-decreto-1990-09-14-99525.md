@@ -1,5 +1,3 @@
-###DEC-099525-0-000-14-09-1990@@@
-
 DECRETO N° 99.525, DE 14 DE SETEMBRO DE 1990
 
 Institui, no Ministério das Relações Exteriores, o Programa Complementar de Assistência Médica do Serviço Exterior nos casos que menciona.

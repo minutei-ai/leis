@@ -1,5 +1,3 @@
-###DEL-007867-0-000-14-08-1945@@@
-
 DECRETO-LEI N. 7.867 – DE 14 DE AGÔSTO DE 1945
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 1.386,60. para pagamento de gratificação de magistério.

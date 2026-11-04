@@ -1,5 +1,3 @@
-###DEC-072366-0-000-15-06-1973@@@
-
 DECRETO Nº 72.366, DE 15 DE JUNHO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra situada no distrito de Santa Isabel do Rio Preto, município de Valença, Estado do Rio de Janeiro.

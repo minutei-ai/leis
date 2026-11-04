@@ -1,5 +1,3 @@
-###DEC-071010-0-000-23-08-1972@@@
-
 DECRETO Nº 71.010, DE 23 DE AGOSTO DE 1972.
 
 Concede a Pedreira Itapisserra S.A. o direito de lavrar granito no município de Itapecerica da Serra, Estado de São Paulo.

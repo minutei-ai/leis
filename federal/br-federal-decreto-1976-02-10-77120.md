@@ -1,5 +1,3 @@
-###DEC-077120-0-000-10-02-1976@@@
-
 DECRETO Nº 77.120, DE 10 DE FEVEREIRO DE 1976
 
 Cria a Comissão Especial para julgamento dos recursos ao Programa de Garantia da Atividade Agropecuária - CER e dá outras providências.

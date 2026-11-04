@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212764)<br>
-
 # DECRETO N° 70.694, DE 17 DE JUNHO DE 2026
 
 ### _Dá nova redação ao inciso I do artigo 5° do Decreto n° 69.055, de 14 de novembro de 2024, que fixa o número limite de bolsas dos programas de residência médica._

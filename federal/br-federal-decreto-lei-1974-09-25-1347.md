@@ -1,5 +1,3 @@
-###DEL-001347-0-000-25-09-1974@@@
-
 # DECRETO-LEI Nº 1.347, DE 25 DE SETEMBRO DE 1974
 
 Cancela penalidades e dá outras providências.

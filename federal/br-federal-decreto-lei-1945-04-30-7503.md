@@ -1,5 +1,3 @@
-###DEL-007503-0-000-30-04-1945@@@
-
 DECRETO-LEI N. 7.503 – DE 30 DE ABRIL DE 1945
 
 Dispõe sôbre o registro de despesas relativas à concessão de diárias e dá outras providências

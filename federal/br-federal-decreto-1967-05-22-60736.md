@@ -1,5 +1,3 @@
-###DEC-060736-0-000-22-05-1967@@@
-
 DECRETO Nº 60.736, DE 22 DE MAIO DE 1967.
 
 Outorga a Companhia Paranaense de Energia Elétrica autorização para o estudo dos recursos hidráulicos do Rio São Francisco afluente da margem esquerda do Rio Paraná, nos municípios de Toledo e Rondon, no Estado do Paraná.

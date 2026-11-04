@@ -1,5 +1,3 @@
-###DEC-047073-0-000-22-10-1959@@@
-
 DECRETO Nº 47.073, DE 22 DE OUTUBRO DE 1959.
 
 Autoriza Luiz Soares de Souza, a comprar pedras preciosas.

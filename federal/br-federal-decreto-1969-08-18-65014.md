@@ -1,5 +1,3 @@
-###DEC-065014-0-000-18-08-1969@@@
-
 DECRETO Nº 65.014 - DE 18 DE AGÔSTO DE 1969.
 
 Transfere da Prefeitura Municipal de Santa Helena de Goiás para Centrais Elétricas de Goiás S.A. a concessão para transmitir e distribuir energia elétrica no Distrito de Santa Helena de Goiás, Município de Santa Helena de Goiás, Estado de Goiás.

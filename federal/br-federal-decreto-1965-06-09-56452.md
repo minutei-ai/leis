@@ -1,5 +1,3 @@
-###DEC-056452-0-000-09-06-1965@@@
-
 DECRETO Nº 56.452, DE 9 DE JUNHO DE 1965.
 
 Cria, na Superintendência Nacional do Abastecimento (SUNAB), o Departamento de Trigo e dá outras providências.

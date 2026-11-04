@@ -1,6 +1,10 @@
 > **LEI Nº 3.934, DE 07 DE ABRIL DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a obrigatoriedade da publicação mensal no contracheque dos servidores públicos, o número de parcelas contraídas e quitadas oriundas de operação de créditos.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a obrigatoriedade da publicação mensal no contracheque dos servidores públicos, o número de parcelas contraídas e quitadas oriundas de operação de créditos.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

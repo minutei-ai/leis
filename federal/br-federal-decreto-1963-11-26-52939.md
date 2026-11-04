@@ -1,5 +1,3 @@
-###DEC-052939-0-000-26-11-1963@@@
-
 DECRETO Nº 52.939, DE 26 DE NOVEMBRO DE 1963.
 
 Renova o Decreto nº 48778, de 12 de agôsto de 1960.

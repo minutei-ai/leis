@@ -1,5 +1,3 @@
-###DEC-086176-0-000-06-07-1981@@@
-
 Decreto nº 86.176, de 06 de julho de 1981.
 
 Regulamenta a Lei nº 6.513, de 20 de dezembro de 1977, que dispõe sobre a criação de Áreas Especiais e de Locais de Interesse Turístico e dá outras providências.
@@ -313,8 +311,6 @@ Brasília, em 06 de julho de 1981, 160º da Independência e 93º da República.
 JOÃO FIGUEIREDO
 
 João Camilo Penna
-
-###DEC-086176-0-000-06-07-1981@@@RET01+++
 
 DECRETO Nº 86.176, DE 06 DE JULHO DE 1981.
 

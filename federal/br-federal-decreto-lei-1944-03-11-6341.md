@@ -1,5 +1,3 @@
-###DEL-006341-0-000-11-03-1944@@@
-
 DECRETO-LEI N. 6.341 – DE 11 DE MARÇO DE 1944
 
 Cria o Quadro Especial do Ministério da Educação e Saúde e dá outra providências

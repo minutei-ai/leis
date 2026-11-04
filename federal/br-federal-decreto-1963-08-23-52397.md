@@ -1,5 +1,3 @@
-###DEC-052397-0-000-23-08-1963@@@
-
 DECRETO Nº 52.397, DE 23 DE AGÔSTO DE 1963.
 
 Concede à “COLIMPA” - Colonização, Indústria e Mineração S.A., autorização para funcionar como emprêsa de mineração.

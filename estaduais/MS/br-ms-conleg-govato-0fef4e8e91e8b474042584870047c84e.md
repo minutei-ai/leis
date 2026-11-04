@@ -6,17 +6,18 @@ Denomina “Carlos Alberto Jurgielewicz” o programa “Casa da Saúde”, loca
 
 Publicada no Diário Oficial nº 9.999, de 2 de outubro de 2019, página 2.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica denominado “Carlos Alberto Jurgielewicz” o programa “Casa da Saúde”, localizado na Av. Afonso Pena, 3547 - Cidade Jardim, Campo Grande-MS, 79002-072.<br>
-<br>
-Art. 2º Caso o programa “Casa da Saúde” seja, por qualquer motivo, transferido para outro endereço, a denominação conferida por esta Lei vai acompanha-lo.<br>
-<br>
-Art. 3º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica denominado “Carlos Alberto Jurgielewicz” o programa “Casa da Saúde”, localizado na Av. Afonso Pena, 3547 - Cidade Jardim, Campo Grande-MS, 79002-072.
+
+Art. 2º Caso o programa “Casa da Saúde” seja, por qualquer motivo, transferido para outro endereço, a denominação conferida por esta Lei vai acompanha-lo.
+
+Art. 3º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 1º de outubro de 2019.
 
-<br>
-REINALDO AZAMBUJA SILVA<br>
+REINALDO AZAMBUJA SILVA
+
 Governador do Estado

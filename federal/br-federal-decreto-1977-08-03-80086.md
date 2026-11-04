@@ -1,5 +1,3 @@
-###DEC-080086-0-000-03-08-1977@@@
-
 Decreto nº 80.086, de 3 de agosto de 1977.
 
 Aprova o Regulamento do Alto Comando da Aeronáutica e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-049347-0-000-26-11-1960@@@
-
 DECRETO Nº 49.347, DE 26 DE novembro DE 1960.
 
 Autoriza a Espírito Santo Centrais Elétricas S.A. (ESCELSA) a fazer um suprimento de energia elétrica ao concessionário de Colatina e a construir uma linha de transmissão entre a usina Rio Bonito e a cidade de Colatina e dá outras providências.

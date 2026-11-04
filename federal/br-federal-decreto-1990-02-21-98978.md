@@ -1,7 +1,3 @@
-1
-
-###DEC-098978-0-000-21-02-1990@@@
-
 DECRETO Nº 98.978, DE 21 DE FEVEREIRO DE 1990
 
 Dispõe sobre as Carreiras Finanças e Controle e Orçamento, criadas pelos Decretos-Leis nºs. 2.346 e 2.347, de 23 de julho de 1987.

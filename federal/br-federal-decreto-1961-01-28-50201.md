@@ -1,5 +1,3 @@
-###DEC-050201-0-000-28-01-1961@@@
-
 DECRETO Nº 50.201, DE 28 DE janeiro DE 1961.
 
 Declara caduca a concessão outorgada pelo Decreto nº 45.283, de 26 de janeiro de 1959, para a Fundação Casper Libero, estabelecer uma estação de radiotelevisão.

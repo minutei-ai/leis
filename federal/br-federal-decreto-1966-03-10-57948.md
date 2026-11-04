@@ -1,5 +1,3 @@
-###DEC-057948-0-000-10-03-1966@@@
-
 decreto nº 57.948, de 10 de março de 1966.
 
 Transfere da Companhia Industrial Ouropretana para Centrais Elétricas de Minas Gerais S.A., concessão para distribuir energia elétrica.

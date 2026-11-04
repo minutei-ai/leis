@@ -1,5 +1,3 @@
-###DEC-003927-0-000-19-09-2001@@@
-
 DECRETO Nº 3.927, DE 19 DE SETEMBRO DE 2001
 
  Promulga o Tratado de Amizade, Cooperação e Consulta, entre a República Federativa do Brasil e a República Portuguesa, celebrado em Porto Seguro em 22 de abril de 2000.

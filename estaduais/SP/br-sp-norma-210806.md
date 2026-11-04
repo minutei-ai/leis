@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210806)<br>
-
 # DECRETO N° 69.440, DE 26 DE MARÇO DE 2025
 
 ### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Itapetininga, o imóvel que especifica._

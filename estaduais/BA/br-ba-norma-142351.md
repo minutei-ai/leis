@@ -2,7 +2,8 @@ LEI Nº 14.525 DE 21 DE DEZEMBRO DE 2022
 
 Dispensa parcialmente créditos tributários do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS relativos à multa formal pela falta de entrega da Escrituração Fiscal Digital no prazo regulamentar e altera a Lei nº 3.956, de 11 de dezembro de 1981.
 
-Ver também:<br>
+Ver também:
+
 Decreto nº [21.925](https://www.legislabahia.ba.gov.br/documentos/decreto-no-21925-de-02-de-marco-de-2023) de 02 de março de 2023 - Prorroga o prazo previsto no § 2º do art. 1º da Lei nº 14.925, de 21 de dezembro de 2022, e dá outras providências.
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:

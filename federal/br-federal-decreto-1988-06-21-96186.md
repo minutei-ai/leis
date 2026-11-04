@@ -1,5 +1,3 @@
-###DEC-096186-0-000-21-06-1988@@@
-
 DECRETO N° 96.186, DE 21 DE JUNHO DE 1988
 
 Dispõe sobre o Programa de Desenvolvimento de Sistemas Unificados e Descentralizados de Saúde nos Estados - SUDS, na área de competência do Ministério da Saúde e dá outras providências.

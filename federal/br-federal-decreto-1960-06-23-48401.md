@@ -1,5 +1,3 @@
-###DEC-048401-0-000-23-06-1960@@@
-
 DECRETO Nº 48.401, DE 23 DE JUNHO DE 1960.
 
 Autoriza a Companhia de Mineração Serra da Moeda a pesquisar minérios de ferro, manganês e quartzo, no município de Oliveira, Estado de Minas Gerais.

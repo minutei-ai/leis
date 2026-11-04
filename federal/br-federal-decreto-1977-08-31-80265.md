@@ -1,5 +1,3 @@
-###DEC-080265-0-000-31-08-1977@@@
-
 DECRETO Nº 80.265, DE 31 DE AGOSTO DE 1977.
 
 Concede à SEPAMAR - Serraria Paranaense de Mármores Ltda. o direito de lavrar mármore no Município de Rio Branco do Sul, Estado do Paraná.

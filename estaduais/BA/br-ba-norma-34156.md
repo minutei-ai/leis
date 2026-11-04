@@ -10,7 +10,8 @@ Promulgada a 2 de agOsto de 1947 pela Assembléia Constituinte
 
 DA ORGANIZAÇÃO DO ESTADO
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 1º - O Estado da Bahia, parte integrante da República dos Estados Unidos do Brasil, reger-se-á, nos limites de sua autonomia, pelos preceitos desta Constituição e das leis que adotar.
@@ -25,10 +26,12 @@ Art. 3º - São poderes do Estado o Legislativo o Executivo e o Judiciario, inde
 
 § 2º - É vedado a qualquer dos Poderes delegar atribuições.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO PODER LEGISLATIVO
 
-SECÇÃO I -<br>
+SECÇÃO I -
+
 DA ORGANIZAçãO DO PODER LEGISLATIVO
 
 Art. 4º - O Poder Legislativo é exercido pela Assembléia Legislativa e, nos recessos desta, pela sua Secção Permanente.
@@ -139,7 +142,8 @@ Art. 14 - os deputados terão direito a licença, na forma do Regimento Interno.
 
 § 2º - Não havendo suplente, o Presidente da Assembléia pedirá ao Tribunal Regional Eleitoral que providencie sôbre a eleição, salvo se ocorrer a vaga no último ano da legislatura ou se a licença fôr inferior a um ano.
 
-SECÇÃO II -<br>
+SECÇÃO II -
+
 DO FUNCIONALISMO DO PODER LEGISLATIVO
 
 Art. 15 - A Assembléia Legislativa reunir-se-á anualmente na Capital do Estado, a 7 de abril, independentemente de convocação, e funcionará durante oito meses, podendo adiar ou prorrogar as suas sessões anuais.
@@ -190,7 +194,8 @@ Art. 18 - A Assembléia Legislativa, suas comissões ou a Secção Permanente po
 
 Parágrafo único - A Assembléia Legislativa, suas comissões ou a Secção Permanente designarão dia e hora para ouvir o secretário de Estado que lhes queira solicitar providências ou prestar informações.
 
-SECÇÃO III -<br>
+SECÇÃO III -
+
 DA ELABORAÇÃO LEGISLATIVA
 
 Art. 19 - A iniciativa das leis, salvo os casos expressos de competência exclusiva, cabe a qualquer deputado, às comissões ou à Secção Permanente da Assembléia, ao Governador e, quando se tratar de divisão ou organização judiciária, também ao Tribunal de Justiça.
@@ -229,7 +234,8 @@ Art. 25 - As leis e resoluções da competência exclusiva do Poder Legislativo 
 
 Parágrafo único - Proceder-se-á da mesma forma em caso de sanção tácita ou quando o Governador não mandar publicar, dentro de três dias, a lei cujo veto tenha sido rejeitado pelo Poder Legislativo.
 
-SECÇÃO IV -<br>
+SECÇÃO IV -
+
 DAS EMENDAS à CONSTITUIÇÃO
 
 Art. 26 - As emendas à Constituição poderão ser propostas por um têrço, pelo menos, da Assembléia, ou por vinte câmaras municipais, manifestando-se cada uma delas, no decurso de dois anos, pela maioria absoluta dos vereadores.
@@ -248,7 +254,8 @@ Art. 26 - As emendas à Constituição poderão ser propostas por um têrço, pe
 
 § 7º - A Constituição não poderá ser emendada durante o estado de sítio ou a intervenção federal.
 
-SECÇÃO V -<br>
+SECÇÃO V -
+
 DAS ATRIBUIÇÕES DO PODER LEGISLATIVO
 
 Art. 27 - Além de outros casos previstos na Constituição Federal e nesta Constituição, é da competência exclusiva do Poder Legislativo:
@@ -335,10 +342,12 @@ IX - criar comissões de inquérito sôbre fatos determinados, se o decidir por 
 
 § 2º - Qualquer deputado estranho à Secção Permanente poderá comparecer às suas sessões, participar dos debates e fazer requerimentos, sem direito de voto.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO PODER EXECUTIVO
 
-SECÇÃO I -<br>
+SECÇÃO I -
+
 DO GOVERNADOR
 
 Art. 30 - O Poder Executivo é exercido pelo Governador, com a colaboração dos secretários de Estado.
@@ -387,7 +396,8 @@ IV - tiver cassados ou suspensos os direitos políticos por tempo igual ou exced
 
 V - não reassumir, salvo fôrça maior, o exercício do cargo até trinta dias depois de esgotado o prazo de licença que lhe tenha sido concedida.
 
-SECÇÃO II -<br>
+SECÇÃO II -
+
 DAS ATRIBUIÇÕES DO GOVERNADOR
 
 Art. 36 - Compete ao Governador, além de outras atribuições referidas nesta Constituição:
@@ -432,7 +442,8 @@ XIX - fazer, ad-referendum da Assembléia Legislativa, em casos de excepcional u
 
 XX - praticar todos os atos legais necessários ou úteis ao interêsse público, quando não estejam reservados explícita ou implicitamente, por esta Constituição, a outro poder.
 
-SECÇÃO III -<br>
+SECÇÃO III -
+
 DA RESPONSABILIDADE DO GOVERNADOR
 
 Art. 37 - São crimes de responsabilidade os atos do Governador que atentem contra:
@@ -481,7 +492,8 @@ Art. 39 - O Tribunal Especial compor-se-á de cinco desembargadores, escolhidos 
 
 § 8º - A pena aplicada na condenação pelo Tribunal Especial consistirá em perda do cargo com inabilitação do acusado para o exercício de qualquer função pública estadual ou municipal até cinco anos, sem prejuízo das ações criminais ou civis que tiverem cabimento no caso.
 
-SECÇÃO IV -<br>
+SECÇÃO IV -
+
 DOS SECRETÁRIOS DE ESTADO
 
 Art. 40 - Os secretários de Estado são auxiliares do Governador na direção geral dos negócios estaduais e terão a seu cargo a gestão dos serviços compreendidos na organização administrativa e técnica de cada secretaria.
@@ -534,10 +546,12 @@ I - tiver cassados ou suspensos os direitos políticos;
 
 II - fôr condenado por crime de qualquer natureza, salvo os culposos.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO PODER JUDICIÁRIO
 
-SECÇÃO I -<br>
+SECÇÃO I -
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 47 - O Poder Judiciário é exercido pelos seguintes órgãos:
@@ -576,7 +590,8 @@ IV - a jurisdição do juiz não excederá uma comarca, salvo ocasionalmente em 
 
 Parágrafo único - A Ordem dos Advogados, Secção da Bahia, será sempre consultada em todos os assuntos relativos à divisão e organização judiciárias do Estado.
 
-SECÇÃO II -<br>
+SECÇÃO II -
+
 TRIBUNAL DE JUSTIÇA
 
 Art. 52 - O Tribunal de Justiça, com séde na Capital do Estado e jurisdição em todo o seu território, compõe-se de quinze desembargadores.
@@ -647,7 +662,8 @@ c) recursos do Conselho de Justiça Militar Estadual;
 
 d) recursos cuja decisão lhe fôr atribuída em leis processuais.
 
-SECÇÃO III -<br>
+SECÇÃO III -
+
 DOS JUÍZES DE DIREITO
 
 Art. 58 - São condições para nomeação de juiz de direito
@@ -668,7 +684,8 @@ Parágrafo único - É lícito ao juiz recusar promoção por merecimento.
 
 Art. 60 - Os vencimentos dos juízes da entrância mais elevada serão fixados em relação aos percebidos pelos desembargadores, com diferença nunca superior a trinta por cento. Os das demais entrâncias serão fixados com diferença não excedente a vinte por cento em relação à imediatamente superior.
 
-SECÇÃO IV -<br>
+SECÇÃO IV -
+
 DOS PRETORES
 
 Art. 61 - Os pretores serão nomeados na forma da lei, mediante concurso de provas, dentre bacharéis em direito, brasileiros natos, de mais de vinte e um e menos de quarenta e cinco anos, e gozarão, além de irredutibilidade de vencimentos, de:
@@ -677,19 +694,22 @@ I - vitaliciedade, após dez anos contínuos de judicatura;
 
 II - e inamovibilidade, salvo proposta do Tribunal de Justiça, por maioria absoluta de seus membros.
 
-SECÇÃO V -<br>
+SECÇÃO V -
+
 DO CONSELHO DE JUSTIÇA MILITAR
 
 Art. 62 - O Conselho de Justiça Militar terá as atribuições e composição previstas em lei, nos têrmos do art. 5, n. XXV, alínea f, da Constituição Federal.
 
-SECÇÃO VI -<br>
+SECÇÃO VI -
+
 DOS TRIBUNAIS DO JÚRI
 
 Art. 63 - Os tribunais do júri serão organizados atendendo-se à seleção do corpo de jurados.
 
 Parágrafo único - As condições para o exercício da função de jurado serão reguladas em lei.
 
-SECÇÃO VII -<br>
+SECÇÃO VII -
+
 DOS JUÍZES DE PAZ
 
 Art. 64 - Os juízes de paz, com jurisdição nos distritos, serão nomeados por dois anos e não poderão ser reconduzidos mais de uma vez.
@@ -702,7 +722,8 @@ II - substituir o juiz togado, exercendo funções de preparador, sem competênc
 
 III - conciliar as partes que, espontâneamente, recorrerem ao juízo, sendo o acôrdo firmado em sua presença registrado no protocolo das audiências.
 
-SECÇÃO VIII -<br>
+SECÇÃO VIII -
+
 AUXILIARES E SERVENTUÁRIOS DA JUSTIÇA
 
 Art. 66 - São ofícios de justiça os exercidos por tabeliães, oficiais de registros públicos e escrivães. Seus titulares são auxiliares de Justiça e estão sujeitos à disciplina de fôro.
@@ -725,10 +746,12 @@ III - montepio, sendo permitido aos serventuários que não percebam dos cofres 
 
 Parágrafo único - Instituir-se-á a carreira de auxiliares e serventuários da Justiça, permitindo-se-lhes, porém, recusar promoção, que será por merecimento e antiguidade.
 
-TÍTULO II -<br>
+TÍTULO II -
+
 DO MINISTÉRIO PÚBLICO
 
-CAPÍTULO ÚNICO -<br>
+CAPÍTULO ÚNICO -
+
 DOS ÓRGÃOS DO MINISTÉRIO PÚBLICO
 
 Art. 70 - O Ministério Público é órgão de defesa da lei e de sua fiel execução.
@@ -757,10 +780,12 @@ Art. 73 - A lei poderá criar cargos de adjuntos de promotor, definindo-lhes as 
 
 Parágrafo único - Na Capital, o cargo de adjunto de promotor só poderá ser exercido por bacharel em direito, nomeado mediante concurso de provas.
 
-TÍTULO III -<br>
+TÍTULO III -
+
 DA ADMINISTRAÇÃO PÚBLICA
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DOS FUNCIONÁRIOS PÚBLICOS
 
 Art. 74 - Observados os requisitos legais, todo brasileiro pode exercer função pública estadual ou municipal.
@@ -853,10 +878,12 @@ Art. 83 - Nenhum funcionário público ou autoridade policial, sob pena de perda
 
 § 3º - Finda a apuração eleitoral, os titulares de cargos mencionados no § 1º ficarão durante cinco anos, impedidos de reassumir suas funções, nos lugares onde serviam ou em outros compreendidos na mesma zona eleitoral permanecendo em disponibilidade não remunerada enquanto não forem removidos nos têrmos da lei.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA FAZENDA DO ESTADO
 
-SECÇÃO I -<br>
+SECÇÃO I -
+
 DO PATRIMÔNIO
 
 Art. 84 - Constituem patrimônio do Estado:
@@ -865,7 +892,8 @@ I - os bens de sua propriedade, nos têrmos da lei;
 
 II - a dívida ativa proveniente da receita não arrecadada.
 
-SECÇÃO II -<br>
+SECÇÃO II -
+
 DA ORGANIZAÇÃO FINANCEIRA
 
 Art. 85 - A organização financeira assegurará o custeio dos serviços públicos e das necessidades gerais do Estado, observados, especialmente, os seguintes princípios:
@@ -888,7 +916,8 @@ VIII - o código de contabilidade definirá o período correspondente ao ano fin
 
 IX - nenhum crédito ilimitado poderá ser autorizado e nenhum encargo se criará à Fazenda do Estado sem atribuição de recursos suficientes para lhe custear a despesa.
 
-SECÇÃO III -<br>
+SECÇÃO III -
+
 DO ORÇAMENTO
 
 Art. 86 - O orçamento será uno incorporando-se, obrigatòriamente, à receita todos os tributos, rendas e suprimentos de fundos e, incluindo-se, discriminadamente, na despesa, as dotações necessárias ao custeio dos serviços públicos.
@@ -921,7 +950,8 @@ III - a acumulação de créditos votados com quaisquer recursos ou rendas dos s
 
 Art. 87 - Se o orçamento não tiver sido enviado à sanção até o encerramento da sessão ordinária da Assembléia Legislativa, prorrogar-se-á para o exercício seguinte o que estiver em vigor.
 
-SECÇÃO IV -<br>
+SECÇÃO IV -
+
 DA RECEITA DO ESTADO
 
 Art. 88 - Constituem receita do Estado:
@@ -934,7 +964,8 @@ III - as rendas patrimoniais e industriais, provenientes do exercício de suas a
 
 IV - os eventuais, inclusive multas.
 
-SECÇÃO V -<br>
+SECÇÃO V -
+
 DA FISCALIZAÇÃO DA ADMINISTRAÇÃO
 
 Art. 89 - A administração financeira do Estado será fiscalizada por um Tribunal de Contas, composto de sete conselheiros, vitalícios e inamovíveis, com vencimentos irredutíveis, nomeados pelo Governador, com aprovação prévia do Poder Legislativo, dentre cidadãos de reconhecida idoneidade moral e que tenham notório saber jurídico ou comprovada experiência dos negócios públicos, maiores de trinta anos de idade e domiciliados no Estado, há mais de três anos.
@@ -989,10 +1020,12 @@ II - elaborar seu regimento interno.
 
 Art. 92 - O Tribunal de Contas apresentará, anualmente, ao exame do Poder Legislativo, dentro dos quinze dias da abertura da sessão ordinária da Assembléia, minucioso, relatório dos seus serviços no exercício anterior.
 
-TÍTULO IV -<br>
+TÍTULO IV -
+
 DOS MUNICÍPIOS
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA ORGANIZAÇÃO MUNICIPAL
 
 Art. 93 - Os municípios dividem-se em distritos.
@@ -1075,7 +1108,8 @@ III - as rendas industriais e patrimoniais;
 
 IV - os eventuais.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA COOPERAÇÃO E COORDENAÇÃO DOS SERVIÇOS MUNICIPAIS
 
 Art. 100 - Quando dois ou mais municípios, com características econômicas e geográficas afins, quiserem associar-se tendo em vista a melhor solução de problemas de mútuo interêsse, e da qual resultem vantagens para a coletividade, poderão fazê-lo, mediante prévia anuência dos respectivos poderes e aprovação da Assembléia Legislativa que se julgar necessário, ouvirá o Departamento das Municipalidades.
@@ -1126,15 +1160,18 @@ Art. 105 - Verificada irregularidade nas finanças municipais, nos casos previst
 
 Art. 106 - O plano de urbanismo das estâncias hidro-minerais será submetido ao exame e aprovação do Departamento das Municipalidades.
 
-TÍTULO V -<br>
+TÍTULO V -
+
 DOS DIREITOS FUNDAMENTAIS
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DOS DIREITOS E GARANTIAS INDIVIDUAIS
 
 Art. 107 - Esta Constituição assegura a brasileiros e estrangeiros, no território do Estado, a inviolabilidade dos direitos concernentes à vida, à liberdade, à segurança individual e à propriedade, nos têrmos da Constituição Federal.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA ORDEM ECONÔMICA
 
 Art. 108 - Cabe ao Estado, nos limites de sua competência, intervir na ordem econômica, dispondo em lei, entre outras providências, sôbre:
@@ -1197,7 +1234,8 @@ Art. 116 - Nos contratos de concessão de serviços públicos, considerar-se-á 
 
 Parágrafo único - O Estado, nos limites de suas possibilidades e dentro de sua competência, promoverá o estudo e o aproveitamento da energia hidráulica e das águas termo-minerais naturais e de aplicação medicinal.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA EDUCAÇÃO E CULTURA
 
 Art. 117 - A função de educação e ensino compete ao Estado, na forma da Constituição Federal, incumbindo sua superintendência e direção ao Conselho Estadual de Educação e Cultura, órgão autônomo, administrativo e financeiramente, nos têrmos desta Constituição e da lei orgânica do ensino.
@@ -1258,7 +1296,8 @@ V - a situação funcional do magistério e dos auxiliares dos serviços de ensi
 
 § 3º - Ficam isentos de impostos estaduais e municipais desde que se ocupem, exclusivamente, dos trabalhos de suas edições ou informações, as emprêsas de jornais, revistas, agências telegráficas nacionais e de radio-difusão, bem como as de distribuição e vendagem avulsa dessas publicações.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DA SAÚDE E DA ASSISTÊNCIA SOCIAL
 
 Art. 121 - O Estado organizará serviços de saúde pública e de assistência, em ordem a estendê-los a todos os municípios.
@@ -1729,7 +1768,7 @@ Oscar Cardoso
 
 2º Secretário
 
-* * *
+ *
 
 EMENDA Nº 2, DE 23 DE DEZEMBRO DE 1957
 
@@ -1783,7 +1822,7 @@ Oscar Cardoso
 
 2º Secretário
 
-* * *
+ *
 
 EMENDA Nº 3, DE 24 DE DEZEMBRO DE 1960
 
@@ -1813,7 +1852,7 @@ F. Sá Teles
 
 2º Secretário
 
-* * *
+ *
 
 EMENDA Nº 4, DE 26 DE DEZEMBRO DE 1965
 
@@ -1881,7 +1920,7 @@ Presidente
 
 2º Secretário
 
-* * *
+ *
 
 EMENDA Nº 5, DE 26 DE DEZEMBRO DE 1965
 
@@ -1945,7 +1984,7 @@ Presidente
 
 2º Secretário
 
-* * *
+ *
 
 A ASSEMBLÉIA LEGISLATIVA DO ESTADO DA BAHIA PROMULGA A
 
@@ -2063,7 +2102,7 @@ Presidente
 
 2º Secretário
 
-* * *
+ *
 
 EMENDA Nº 7, DE 23 DE AGOSTO DE 1966
 
@@ -2091,7 +2130,7 @@ Presidente
 
 2º Secretário
 
-* * *
+ *
 
 EMENDA Nº 8, DE 23 DE AGOSTO DE 1966
 
@@ -2115,7 +2154,7 @@ Presidente
 
 2º Secretário
 
-* * *
+ *
 
 EMENDA Nº 9, DE 14 DE ABRIL DE1967
 

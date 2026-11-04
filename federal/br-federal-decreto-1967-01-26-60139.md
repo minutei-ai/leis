@@ -1,5 +1,3 @@
-###DEC-060139-0-000-26-01-1967@@@
-
 Decreto nº 60.139, de 26 de janeiro de 1967.
 
 Regulamenta a Lei nº 5.151-A, de 20 de outubro de 1966, que dispõe sôbre o pagamento parcelado dos débitos das Prefeituras e de outros devedores da Previdência Social e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-074086-0-000-21-05-1974@@@
-
 DECRETO Nº 74.086, DE 21 DE MAIO DE 1974.
 
 Concede reconhecimento à Escola de Agronomia do Maranhão, com sede na Cidade de São Luís, Estado do Maranhão.

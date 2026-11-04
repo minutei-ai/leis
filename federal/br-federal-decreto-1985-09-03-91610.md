@@ -1,5 +1,3 @@
-###DEC-091610-0-000-03-09-1985@@@
-
 # DECRETO nº 91.610, de 03 de setembro de 1985.
 
 Extingue o Consulado do Brasil em Nápoles.

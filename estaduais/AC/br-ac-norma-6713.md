@@ -1,6 +1,10 @@
 > **LEI Nº 4.754, DE 19 DE JANEIRO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui a obrigatoriedade de aferição da pressão arterial o chamado teste do bracinho, nas consultas pediátricas em crianças a partir de três anos de idade, atendidas pela rede pública e privada de saúde.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui a obrigatoriedade de aferição da pressão arterial o chamado teste do bracinho, nas consultas pediátricas em crianças a partir de três anos de idade, atendidas pela rede pública e privada de saúde.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

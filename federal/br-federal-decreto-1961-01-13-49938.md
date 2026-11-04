@@ -1,5 +1,3 @@
-###DEC-049938-0-000-13-01-1961@@@
-
 decreto nº 49.938, de 13 de janeiro de 1961.
 
 Autoriza o cidadão brasileiro José Abrantes da Cunha a pesquisar pedras coradas e quartzo, no município de Malacacheta, Estado de Minas Gerais.

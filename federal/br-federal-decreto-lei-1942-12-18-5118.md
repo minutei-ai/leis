@@ -1,5 +1,3 @@
-###DEL-005118-0-000-18-12-1942@@@
-
 DECRETO-LEI N. 5.118 – DE 18 DE DEZEMBRO DE 1942
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 120.000,00, para pagamento de vantagens que especifica

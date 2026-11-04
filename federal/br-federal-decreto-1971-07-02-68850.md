@@ -1,5 +1,3 @@
-###DEC-068850-0-000-02-07-1971@@@
-
 DECRETO Nº 68.850, DE 2 DE JULHO DE 1971.
 
 Declara de utilidade pública a Associação de Caridade de São João Nepomuceno, com sede em São João Nepomuceno, Estado de Minas Gerais.

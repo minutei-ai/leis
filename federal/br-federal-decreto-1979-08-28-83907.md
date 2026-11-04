@@ -1,5 +1,3 @@
-###DEC-083907-0-000-28-08-1979@@@
-
 decreto nº 83.907, de 28 de agosto de 1979.
 
 Autoriza o funcionamento da habilitação Educação Moral e Cívica do curso de Estudos Sociais, ministrado pelas Faculdades Integradas Santo Antônio, com sede na cidade de São Paulo, Estado de São Paulo.

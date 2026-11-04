@@ -1,5 +1,3 @@
-###DEC-050728-0-000-06-06-1961@@@
-
 DECRETO Nº 50.728, DE 6 DE JUNHO DE 1961.
 
 Autoriza a Centrais Elétricas de Minas Gerais S.A. a construir uma linha de transmissão.

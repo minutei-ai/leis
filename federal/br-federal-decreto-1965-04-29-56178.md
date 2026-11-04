@@ -1,5 +1,3 @@
-###DEC-056178-0-000-29-04-1965@@@
-
 Decreto nº 56.178, de 29 de abril de 1965.
 
 Autoriza a Alumínio Minas Gerais S.A. a lavrar bauxita, no município de Mariana, Estado de Minas Gerais.

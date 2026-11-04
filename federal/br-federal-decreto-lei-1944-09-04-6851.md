@@ -1,5 +1,3 @@
-###DEL-006851-0-000-04-09-1944@@@
-
 DECRETO-LEI N. 6.851 – DE 4 DE SETEMBRO DE 1944
 
 Cria a carreira de Almoxarife no Quadro da Justiça – Parte Permanente do Ministério da Justiça e Negócios Interiores e dá outras providências

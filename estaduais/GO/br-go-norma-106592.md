@@ -238,30 +238,38 @@ Art. 277-U. Após a concessão de Autorização de uso da NFCom de que trata o i
 
 Parágrafo único. A consulta de que trata o _caput_ deve conter dados resumidos necessários à identificação da condição da NFCom perante a unidade federada autorizadora, devendo exibir os eventos vinculados à respectiva NFCom, exceto os dados que permitam a identificação do tomador de serviços, os quais devem ser apresentados parcialmente mascarados.” (NR)
 
-Art. 2º Os contribuintes do ICMS prestadores de serviços de comunicação e telecomunicação ficam obrigados ao uso da NFCom prevista no inciso XLII do art. 114 do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 1997, inserido por este Decreto, a partir de 1º de novembro de 2025 (Ajuste SINIEF nº 7/22, cláusula primeira, § 3º).<br>
+Art. 2º Os contribuintes do ICMS prestadores de serviços de comunicação e telecomunicação ficam obrigados ao uso da NFCom prevista no inciso XLII do art. 114 do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 1997, inserido por este Decreto, a partir de 1º de novembro de 2025 (Ajuste SINIEF nº 7/22, cláusula primeira, § 3º).
+
 \- [Redação dada pelo Decreto nº 10.690, de 8-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110663), efeitos retroativos a 12-12-2024.
 
-~~Art. 2º Os contribuintes do ICMS prestadores de serviços de comunicação e telecomunicação ficam obrigados ao uso da NFCom prevista no inciso XLII do art. 114 do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 1997, inserido por este Decreto, a partir de 1º de abril de 2025 (Ajuste SINIEF 7/22, cláusula primeira, § 3º).~~<br>
+~~Art. 2º Os contribuintes do ICMS prestadores de serviços de comunicação e telecomunicação ficam obrigados ao uso da NFCom prevista no inciso XLII do art. 114 do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 1997, inserido por este Decreto, a partir de 1º de abril de 2025 (Ajuste SINIEF 7/22, cláusula primeira, § 3º).~~
+
 \- [Redação dada pelo Decreto nº 10.605, de 16-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110157/decreto-10605) 
 
 ~~Art. 2º Os contribuintes do ICMS prestadores de serviços de comunicação e telecomunicação ficam obrigados ao uso da NFCom prevista no inciso XLII do art. 114 do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266/decreto-4852), de 1997, inserido por este Decreto a partir de 1º de julho de 2024 (Ajuste SINIEF 7/22, cláusula primeira, § 3º).~~
 
-§ 1º Até a data da obrigatoriedade do uso da NFCom, o contribuinte pode, concomitantemente, emitir a Nota Fiscal de Serviço de Comunicação – NFSC, modelo 21, e a Nota Fiscal de Serviço de Telecomunicações – NFST, modelo 22.<br>
+§ 1º Até a data da obrigatoriedade do uso da NFCom, o contribuinte pode, concomitantemente, emitir a Nota Fiscal de Serviço de Comunicação – NFSC, modelo 21, e a Nota Fiscal de Serviço de Telecomunicações – NFST, modelo 22.
+
 \- [Acrescido pelo Decreto nº 10.690, de 8-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110663), efeitos retroativos a 12-12-2024.
 
-§ 2º Durante o período de transição para a NFCom, podem ser seguidos os seguintes procedimentos:<br>
+§ 2º Durante o período de transição para a NFCom, podem ser seguidos os seguintes procedimentos:
+
 \- [Acrescido pelo Decreto nº 10.690, de 8-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110663), efeitos retroativos a 12-12-2024.
 
-I – quando apenas o prestador de serviço que efetuar a cobrança emitir a NFCom, o prestador do serviço cuja cobrança será efetuada por terceiro deve:<br>
+I – quando apenas o prestador de serviço que efetuar a cobrança emitir a NFCom, o prestador do serviço cuja cobrança será efetuada por terceiro deve:
+
 \- [Acrescido pelo Decreto nº 10.690, de 8-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110663), efeitos retroativos a 12-12-2024.
 
-a) fazer a declaração do imposto devido, por meio de ajuste a débito e por emitente de NFCom, diretamente na escrituração fiscal, com base no arquivo XML recebido; e<br>
+a) fazer a declaração do imposto devido, por meio de ajuste a débito e por emitente de NFCom, diretamente na escrituração fiscal, com base no arquivo XML recebido; e
+
 \- [Acrescido pelo Decreto nº 10.690, de 8-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110663), efeitos retroativos a 12-12-2024.
 
-b) emitir os documentos fiscais eletrônicos correspondentes (NFCom) , em até 90 (noventa) dias do início da obrigatoriedade, realizando o estorno do imposto, por meio de ajuste a crédito, diretamente na escrituração fiscal; e<br>
+b) emitir os documentos fiscais eletrônicos correspondentes (NFCom) , em até 90 (noventa) dias do início da obrigatoriedade, realizando o estorno do imposto, por meio de ajuste a crédito, diretamente na escrituração fiscal; e
+
 \- [Acrescido pelo Decreto nº 10.690, de 8-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110663), efeitos retroativos a 12-12-2024.
 
-II – quando apenas o prestador do serviço cuja cobrança será efetuada por terceiro estiver utilizando a NFCom, fica dispensada a emissão do documento eletrônico, podendo ambas as empresas emitir a NFSC ou a NFST, conforme o previsto no Convênio ICMS nº 115/03.<br>
+II – quando apenas o prestador do serviço cuja cobrança será efetuada por terceiro estiver utilizando a NFCom, fica dispensada a emissão do documento eletrônico, podendo ambas as empresas emitir a NFSC ou a NFST, conforme o previsto no Convênio ICMS nº 115/03.
+
 \- [Acrescido pelo Decreto nº 10.690, de 8-5-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110663), efeitos retroativos a 12-12-2024.
 
 Art. 3º Este Decreto entra em vigor na data de sua publicação.

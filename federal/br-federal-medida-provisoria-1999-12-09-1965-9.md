@@ -1,5 +1,3 @@
-###MPV-001965-0-009-09-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.965-9, DE 9 DE DEZEMBRO DE 1999.
 
 Estabelece a nulidade das disposições contratuais que menciona, inverte, nas que prevê, o ônus da prova nas ações intentadas para sua declaração, e altera o art. 1º da Lei nº 7.347, de 24 de junho de 1985.

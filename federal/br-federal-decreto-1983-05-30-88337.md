@@ -1,5 +1,3 @@
-###DEC-088337-0-000-30-05-1983@@@
-
 Decreto nº 88.337, de 30 de maio de 1983
 
 Outorga concessão à REDE DE EMISSORAS UNIDAS DA ILHA DE MARAJÓ LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de São Sebastião da Boa Vista, Estado do Pará.

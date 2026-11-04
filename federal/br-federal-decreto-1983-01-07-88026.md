@@ -1,5 +1,3 @@
-###DEC-088026-0-000-07-01-1983@@@
-
 DECRETO Nº 88.026, DE 07 DE JANEIRO DE 1983
 
 Altera os Estatutos da Indústria de Material Bélico do Brasil - IMBEL, vinculada ao Ministério do Exército.

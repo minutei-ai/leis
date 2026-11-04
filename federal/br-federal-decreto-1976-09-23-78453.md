@@ -1,5 +1,3 @@
-###DEC-078453-0-000-23-09-1976@@@
-
 Decreto nº 78.453, de 23 de setembro de 1976.
 
 Concede à Mineração Lagoa de Cima Ltda., o direito de lavrar diatomita no Município de Campos, Estado do Rio de Janeiro.

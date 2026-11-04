@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212326)<br>
-
 # DECRETO N° 70.433, DE 10 DE MARÇO DE 2026
 
 ### _Autoriza a abertura de licitação para a concessão administrativa das atividades de conservação, operação, manutenção e apoio à visitação do Parque Estadual do Belém Manoel Pitta, do Parque da Juventude Dom Paulo Evaristo Arns, do Parque Ecológico do Tietê - Núcleo de Lazer Engenheiro Goulart, do Parque Engenheiro Antonio Arnaldo de Queiroz e Silva - Núcleo de Lazer Vila Jacuí, do Núcleo de Lazer Maria Cristina Hellmeister de Abreu e do Núcleo de Lazer Itaim Biacica._
@@ -62,7 +60,8 @@ Rafael Antonio Cren Benini
 
 #### Regulamento da concessão administrativa das atividades de conservação, operação, manutenção e apoio à visitação do Parque Estadual do Belém Manoel Pitta, do Parque da Juventude Dom Paulo Evaristo Arns, do Parque Ecológico do Tietê - Núcleo de Lazer Engenheiro Goulart, do Parque Engenheiro Antonio Arnaldo de Queiroz e Silva - Núcleo de Lazer Vila Jacuí, do Núcleo de Lazer Maria Cristina Hellmeister de Abreu e do Núcleo de Lazer Itaim Biacica.
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Do Objetivo
 
 **Artigo 1° -** Este regulamento tem por objetivo disciplinar a Concessão Administrativa das atividades de conservação, operação, manutenção e apoio à visitação dos seguintes parques, denominados "Parques Urbanos":
@@ -79,14 +78,16 @@ V - Núcleo de Lazer Maria Cristina Hellmeister de Abreu;
 
 VI - Núcleo de Lazer Itaim Biacica.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Concessão
 
 **Artigo 2° -** O objeto da Concessão compreende as atividades de conservação, operação, manutenção e apoio à visitação na área da Concessão, incluindo a elaboração de projetos, a realização de obras e investimentos, o desenvolvimento de atividades de educação ambiental, recreação, lazer, esporte, cultura e turismo, com os serviços associados, nos termos do Caderno de Encargos que acompanha o Edital de licitação.
 
 **Artigo 3° -** O prazo da Concessão será de 30 (trinta) anos, contado na forma prevista no Contrato de Concessão.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Dos Serviços Previstos
 
 **Artigo 4° -** A prestação dos serviços delegados inclui, entre outros estabelecidos nos Anexos que acompanham o Edital de licitação:
@@ -113,7 +114,8 @@ X - a disponibilização de serviços de lazer e entretenimento para os usuário
 
 XI - a implantação dos investimentos obrigatórios previstos no Contrato de Concessão, incluindo a elaboração dos projetos e obtenção das aprovações necessárias.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Dos Direitos e das Obrigações da Concessionária
 
 **Artigo 5° -** São direitos e obrigações da Concessionária, durante todo o prazo da Concessão, sem prejuízo do disposto no Contrato de Concessão e na legislação pertinente:
@@ -138,7 +140,8 @@ IX - comunicar, imediatamente e assim que tomar conhecimento, às autoridades co
 
 X - obter tempestiva e regularmente, manter e renovar todas as licenças, autorizações, permissões, dentre outras exigências necessárias junto às autoridades municipais, estaduais ou federais para fins de execução de quaisquer serviços na área da Concessão, de investimentos obrigatórios e investimentos não obrigatórios, bem como arcar com todos os custos relacionados a tais processos, além de manter vigentes eventuais programas ambientais impostos pela autoridade ambiental em qualquer fase de licenciamento e atender às determinações, condicionantes e medidas mitigadoras estabelecidas pelos órgãos ambientais competentes.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Dos Direitos e das Obrigações do Poder Concedente
 
 **Artigo 6° -** Incumbe ao Poder Concedente, dentre outros direitos e obrigações previstos no Contrato:
@@ -155,7 +158,8 @@ V - assinar o termo de transferência da área da Concessão, após a implementa
 
 VI - intervir na Concessão, retomá-la ou extingui-la, nos casos e nas condições previstas no Contrato e legislação pertinente.
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Dos Direitos e Obrigações dos Usuários
 
 **Artigo 7° -** São direitos e obrigações dos usuários beneficiários dos serviços da Concessão:
@@ -178,7 +182,8 @@ VIII - contribuir para a conservação das boas condições dos bens públicos p
 
 IX - respeitar as instruções e diretrizes de segurança indicadas pela Concessionária na utilização dos atrativos da área da Concessão.
 
-#### CAPÍTULO VII<br>
+#### CAPÍTULO VII
+
 Da Fiscalização dos Serviços Concedidos, do Poder de Polícia Administrativa e das Penalidades
 
 **Artigo 8° -** A Agência Reguladora de Serviços Públicos do Estado de São Paulo - ARSESP atuará, na forma prevista no Contrato, no acompanhamento da Concessão e na fiscalização dos serviços concedidos.
@@ -205,7 +210,8 @@ c) da mensuração dos indicadores de desempenho realizada pelo verificador inde
 
 **§ 2° -** Os fatores a que se refere o §1° serão aferidos a partir dos parâmetros definidos nos Anexos do Contrato.
 
-#### CAPÍTULO VIII<br>
+#### CAPÍTULO VIII
+
 Das Receitas
 
 **Artigo 10 -** Constituem fontes de receita da Concessionária, a serem auferidas nos termos do Contrato de Concessão:
@@ -214,7 +220,8 @@ I - contraprestação pública mensal paga pelo Poder Concedente;
 
 II - outras receitas decorrentes de unidades geradoras de caixa, em conformidade com a disciplina contratual.
 
-#### CAPÍTULO IX<br>
+#### CAPÍTULO IX
+
 Das Disposições Gerais
 
 **Artigo 11 -** Extinta a Concessão, retornarão ao Poder Concedente todos os bens reversíveis, direitos e privilégios vinculados à Concessão Administrativa, transferidos à Concessionária ou por ela implantados, na forma prevista em lei e no Contrato.

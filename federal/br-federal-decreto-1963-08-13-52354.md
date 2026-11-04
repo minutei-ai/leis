@@ -1,5 +1,3 @@
-###DEC-052354-0-000-13-08-1963@@@
-
 DECRETO Nº 52.354, DE 13 DE AGÔSTO DE 1963.
 
 Aprova o Regimento do Grupo de Trabalho de Brasília.

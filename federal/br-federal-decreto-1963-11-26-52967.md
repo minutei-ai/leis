@@ -1,5 +1,3 @@
-###DEC-052967-0-000-26-11-1963@@@
-
 Decreto nº 52.967, de 26 de novembro de 1963.
 
 Autoriza o cidadão brasileiro David Paulo Dana a lavrar diamante e ouro no município de Itupiranga, Estado do Pará.

@@ -1,5 +1,3 @@
-###DEC-068392-0-000-23-03-1971@@@
-
 DECRETO Nº 68.392, DE 23 DE MARÇO DE 1971.
 
 Declara de utilidade pública a Associação Educativa e Assistencial "Imaculada Conceição", com sede em Passos, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-009892-0-000-16-09-1946@@@
-
 DECRETO-LEI n. 9.892 – DE 16 DE SETEMBRO DE 1946
 
 Estende ao Serviço de Economia Rural do Ministério da Agricultura, as disposições do Decreto-lei nº 8.663, de 14 de Janeiro de 1946.

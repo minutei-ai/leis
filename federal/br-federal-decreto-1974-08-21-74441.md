@@ -1,5 +1,3 @@
-###DEC-074441-0-000-21-08-1974@@@
-
 DECRETO Nº 74.441 - DE 21 DE AGOSTO DE 1974.
 
 Concede reconhecimento ao curso de Arquitetura e Urbanismo da Faculdade de Arquitetura e Urbanismo de Santa Úrsula, mantida pela Associação Universitária Santa Úrsula, com sede na Cidade do Rio de Janeiro, Estado da Guanabara.

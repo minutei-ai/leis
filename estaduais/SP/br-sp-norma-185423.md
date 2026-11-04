@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185423)
-
 # DECRETO Nº 63.253, DE 08 DE MARÇO DE 2018
 
 ### _Cria a Faculdade de Tecnologia - FATEC de Ferraz de Vasconcelos, no Município de Ferraz de Vasconcelos, como Unidade de Ensino Tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS e dá providências correlatas_
@@ -18,10 +16,16 @@ Palácio dos Bandeirantes, 8 de março de 2018
 
 GERALDO ALCKMIN
 
-Márcio Luiz França Gomes<br>
-Secretário de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Moacir Rossetti<br>
-Secretário-Adjunto, Respondendo pelo Expediente da Secretaria de Governo<br>
+Márcio Luiz França Gomes
+
+Secretário de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Moacir Rossetti
+
+Secretário-Adjunto, Respondendo pelo Expediente da Secretaria de Governo
+
 Publicado na Secretaria de Governo, aos 8 de março de 2018.

@@ -1,5 +1,3 @@
-###DEC-081428-0-000-06-03-1978@@@
-
 Decreto nº 81.428, de 6 de março de 1978.
 
 Autoriza o Serviço do Patrimônio da União a formalizar a não aceitação da doação do terreno que menciona, situado no Município de Coelho Neto, Estado do Maranhão.

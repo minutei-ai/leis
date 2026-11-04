@@ -1,5 +1,3 @@
-###DEC-051973-0-000-26-04-1963@@@
-
 Decreto nº 51.973, de 26 de abril de 1963.
 
 Autoriza o cidadão brasileiro Antônio Pedrosa Dias de Paiva a pesquisar mica no município de São Francisco do Glória, Estado de Minas Gerais.

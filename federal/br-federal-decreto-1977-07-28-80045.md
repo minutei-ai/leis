@@ -1,5 +1,3 @@
-###DEC-080045-0-000-28-07-1977@@@
-
 DECRETO Nº 80.045, DE 28 DE JULHO DE 1977
 
 Concede a Jacy Peres de Moura firma individual, o direito de lavrar argilito no Município de Arcos, Estado de Minas Gerais.

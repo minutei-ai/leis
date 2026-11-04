@@ -1,5 +1,3 @@
-###DEC-091011-0-000-27-02-1985@@@
-
 Decreto nº 91.011, de 27 de fevereiro de 1985
 
 Renova as concessões outorgadas às entidades que menciona para explorarem serviço de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

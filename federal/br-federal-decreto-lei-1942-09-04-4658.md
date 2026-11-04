@@ -1,5 +1,3 @@
-###DEL-004658-0-000-04-09-1942@@@
-
 DECRETO-LEI N. 4.658 – DE 4 DE SETEMBRO DE 1942
 
 Abre ao Ministério da Educação e Saude o crédito suplementar de 1.489:468$8, à verba que especifica

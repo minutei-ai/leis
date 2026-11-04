@@ -1,5 +1,3 @@
-###DEC-007300-0-000-14-09-2010-PUB-01@@@
-
 DECRETO Nº 7.300, DE 14 DE SETEMBRO DE 2010.
 
 Regulamenta o art. 110 da Lei no 12.249, de 11 de junho de 2010, e altera o Decreto no 7.237, de 20 de julho de 2010, que regulamenta a Lei no 12.101, de 27 de novembro de 2009, para dispor sobre o processo de certificação das entidades beneficentes de assistência social para obtenção da isenção das contribuições para a seguridade social.

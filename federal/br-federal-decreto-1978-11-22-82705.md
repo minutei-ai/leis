@@ -1,5 +1,3 @@
-###DEC-082705-0-000-22-11-1978@@@
-
 Decreto nº 82.705, de 22 de novembro de 1978.
 
 Concede reconhecimento ao curso de Biblioteconomia e Documentação da Faculdade de Biblioteconomia e Documentação Teresa D'Ávila, com sede na cidade de Lorena, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-072636-0-000-17-08-1973@@@
-
 DECRETO Nº 72.636, DE 17 DE AGOSTO DE 1973.
 
 Reativa a Diretoria de Documentação e Histórico e dá outras providências.

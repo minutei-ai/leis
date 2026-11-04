@@ -1,7 +1,3 @@
-1
-
-###DEC-000502-0-000-23-04-1992@@@
-
 DECRETO Nº 502, DE 23 DE ABRIL DE 1992
 
 Aprova a Estrutura Regimental do Ministério dos Transportes e das Comunicações e dá outras providências.

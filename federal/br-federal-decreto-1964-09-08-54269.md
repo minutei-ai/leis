@@ -1,5 +1,3 @@
-###DEC-054269-0-000-08-09-1964@@@
-
 DECRETO Nº 54.269, DE 08 DE SETEMBRO DE 1964.
 
 Torna sem efeito despacho exarado em Parecer do Gabinete Militar e cria Comissão para o fim que especifica.

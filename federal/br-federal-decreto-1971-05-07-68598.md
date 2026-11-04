@@ -1,5 +1,3 @@
-###DEC-068598-0-000-07-05-1971@@@
-
 DECRETO Nº 68.598 - DE 7 DE MAIO DE 1971.
 
 Declara de utilidade pública, para fins de desapropriação, uma faixa de terra situada na Serra das Araras, Município de Piraí, Estado do Rio de Janeiro, para permitir a passagem das linhas telefônicas da Companhia Telefônica Brasileira, que interligam as cidades do Rio de Janeiro e São Paulo e dá outras providências.

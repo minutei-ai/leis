@@ -1,5 +1,3 @@
-###DEC-049697-0-000-31-12-1960@@@
-
 DECRETO Nº 49.697, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro João Cezar Favero a pesquisar caulim e feldspato, no município de Bicas, Estado de Minas Gerais.

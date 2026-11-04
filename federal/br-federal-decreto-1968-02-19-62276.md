@@ -1,5 +1,3 @@
-###DEC-062276-0-000-19-02-1968@@@
-
 DECRETO Nº 62.276, DE 19 DE FEVEREIRO DE 1968.
 
 Dá nova redação ao inciso II do artigo 22 do Decreto nº 59.832, de 21 de dezembro de 1966.

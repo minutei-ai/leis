@@ -1,4 +1,5 @@
-LEI MUNICIPAL Nº 3.143, DE 13 DE DEZEMBRO DE 2013.<br>
+LEI MUNICIPAL Nº 3.143, DE 13 DE DEZEMBRO DE 2013.
+
 (Revogada Pela Lei Ordinária nº 3.173, de 10 de abril de 2014).
 
 ~~“Institui o incentivo de Bolsa Moradia e Bolsa Alimentação aos Médicos participantes do Programa Mais Médicos para o Brasil, autoriza a abertura de créditos adicionais especiais e dá outras providências”~~
@@ -45,10 +46,12 @@ LEI MUNICIPAL Nº 3.143, DE 13 DE DEZEMBRO DE 2013.<br>
 
 ~~GABINETE DO PREFEITO DE APARECIDA DE GOIÂNIA, ESTADO DE GOIÁS, aos 13 dias do mês de dezembro do ano de 2013.~~
 
-~~LUIZ ALBERTO MAGUITO VILELA<br>
+~~LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal~~
 
-~~EULER MORAIS<br>
+~~EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional~~
 
 ~~ANEXO I~~

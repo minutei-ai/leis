@@ -1,5 +1,3 @@
-###DEC-089458-0-000-20-03-1984@@@
-
 Decreto nº 89.458, de 20 de março de 1984
 
 Renova por 10 (dez) anos a concessão outorgada a RÁDIO CORNÉLIO PROCÓPIO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Cornélio Procópio, Estado do Paraná.

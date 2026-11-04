@@ -1,5 +1,3 @@
-###DEC-070214-0-000-29-02-1972@@@
-
 DECRETO Nº 70.214, DE 29 DE FEVEREIRO DE 1972.
 
 Concede reconhecimento ao Curso de Ciências Contábeis da Faculdade de Ciências Econômicas e Administrativas de Santo André, em Santo André - São Paulo.

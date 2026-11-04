@@ -1,6 +1,10 @@
 > **LEI Nº 4.652, DE 22 DE SETEMBRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o recebimento de bem imóvel, a título de doação, para fins de implantação de unidades habitacionais no Município de Feijó.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o recebimento de bem imóvel, a título de doação, para fins de implantação de unidades habitacionais no Município de Feijó.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

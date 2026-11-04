@@ -1,5 +1,3 @@
-###DEC-049787-0-000-31-12-1960@@@
-
 DECRETO Nº 49.787, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Odon de Sá Cavalcanti a pesquisar mármore no município de Itabaiana, Estado da Paraíba.

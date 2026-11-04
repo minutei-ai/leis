@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209313)<br>
-
 # DECRETO N° 68.448, DE 17 DE ABRIL DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Universidade de São Paulo, imóvel necessário à ampliação das atividades da Faculdade de Direito da Universidade de São Paulo, no Município de São Paulo, e dá providências correlatas_

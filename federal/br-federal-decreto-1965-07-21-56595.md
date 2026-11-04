@@ -1,5 +1,3 @@
-###DEC-056595-0-000-21-07-1965@@@
-
 decreto nº 56.595, de 21 de julho de 1965.
 
 Declara a urgência a desapropriação de áreas de terras e complexos industriais situados no Estado de Pernambuco, já considerada de interêsse social pelo Decreto nº 55.761, de 16 de fevereiro de 1965.

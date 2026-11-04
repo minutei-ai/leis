@@ -1,7 +1,3 @@
-1
-
-###DEC-098889-0-000-25-01-1990@@@
-
 DECRETO Nº 98.889, DE 25 DE JANEIRO DE 1990
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados, em Natal, Rio Grande do Norte.

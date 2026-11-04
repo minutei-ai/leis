@@ -1,6 +1,10 @@
 > **LEI Nº 3.499, DE 08 DE AGOSTO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.247, de 27 de abril de 2017, que Institui o Dia Estadual dos Bancários, a ser comemorado, anualmente, no dia 28 de agosto no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.247, de 27 de abril de 2017, que Institui o Dia Estadual dos Bancários, a ser comemorado, anualmente, no dia 28 de agosto no Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

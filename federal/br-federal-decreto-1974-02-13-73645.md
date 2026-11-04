@@ -1,5 +1,3 @@
-###DEC-073645-0-000-13-02-1974@@@
-
 DECRETO Nº 73.645, de 13 de fevereiro de 1974.
 
 Autoriza a cessão, sob a forma de utilização gratuita, ao Departamento Nacional de Portos e Vias Navegáveis, Estado de Santa Catarina, do terreno que menciona.

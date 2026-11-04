@@ -1,5 +1,3 @@
-###DEC-058270-0-000-28-04-1966@@@
-
 DECRETO Nº 58.270, DE 28 DE ABRIL DE 1966.
 
 Autoriza o cidadão brasileiro Blaudilio Lunz a pesquisar calcita e mármore no município de Cachoeiro de Itapemirim, Estado do Espírito Santo.

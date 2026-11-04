@@ -1,5 +1,3 @@
-###DEC-070058-0-000-26-01-1972@@@
-
 DECRETO Nº 70.058, DE 26 DE JANEIRO DE 1972.
 
 Concede à Companhia Brasileira de Alumínio o direito de lavrar bauxita, no Município de Andradas, Estado de Minas Gerais.

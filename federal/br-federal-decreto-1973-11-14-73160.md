@@ -1,5 +1,3 @@
-###DEC-073160-0-000-14-11-1973@@@
-
 DECRETO Nº 73.160 - DE 14 NOVEMBRO DE 1973
 
 Cria o Centro Integrado de Defesa Aérea e de Controle de Tráfico Aéreo, os Destacamentos de Proteção ao Vôo, Detenção e Telecomunicações e dá outras providências.

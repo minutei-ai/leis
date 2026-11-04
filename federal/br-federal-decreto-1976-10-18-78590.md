@@ -1,5 +1,3 @@
-###DEC-078590-0-000-18-10-1976@@@
-
 DECRETO Nº 78.590, DE 18 DE OUTUBRO DE 1976
 
 Concede à firma individual José Maria Coelho Costa o direito de lavrar fluorita, sienito e areia quartzosa nos Municípios de Itaboraí e Rio Bonito, Estado do Rio de Janeiro.

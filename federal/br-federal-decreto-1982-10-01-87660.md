@@ -1,5 +1,3 @@
-###DEC-087660-0-000-01-10-1982@@@
-
 Decreto nº 87.660, de 01 de outubro de 1982.
 
 Concede autorização ao navio oceanográfico francês "CAPRICORNE" para realizar no mar territorial brasileiro os serviços que especifica.

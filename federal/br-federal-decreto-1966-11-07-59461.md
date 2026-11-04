@@ -1,5 +1,3 @@
-###DEC-059461-0-000-07-11-1966@@@
-
 DECRETO Nº 59.461, DE 7 DE NOVEMBRO DE 1966.
 
 Aprova o Regulamento para a “Comissão de Construção Naval da Marinha do Brasil”.

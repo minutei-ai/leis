@@ -1,5 +1,3 @@
-###DEC-067216-0-000-17-09-1970@@@
-
 Decreto nº 67.216, de 17 de setembro de 1970.
 
 Concede autorização à Companhia "Compagnie Générale Geophysique", de nacionalidade francesa, para operar em águas brasileiras, com o navio "M/V Wümme", de bandeira alemã, nos serviços que especifica.

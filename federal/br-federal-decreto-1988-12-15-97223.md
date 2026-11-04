@@ -1,5 +1,3 @@
-###DEC-097223-0-000-15-12-1988@@@
-
 DECRETO Nº 97.223, DE 15 DE DEZEMBRO DE 1988
 
 Prorroga a vigência do Decreto nº 93.594, de 19 de novembro de 1986, e dá outras providências.

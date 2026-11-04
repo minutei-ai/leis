@@ -1,5 +1,3 @@
-###DEL-009808-0-000-09-09-1946@@@
-
 DECRETO-LEI N. 9.808 – DE 9 DE SETEMBRO DE 1946
 
 Dispõe sôbre a retribuição dos substitutos de ocupantes de cargos isolados, na Prefeitura do Distrito Federal

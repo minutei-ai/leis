@@ -1,5 +1,3 @@
-###DEL-008708-0-000-17-01-1946@@@
-
 DECRETO-LEI N. 8.708 – DE 17 DE JANEIRO DE 1946
 
 Estabelece as normas regimentais necessárias à instalação da Assembléia Constituinte

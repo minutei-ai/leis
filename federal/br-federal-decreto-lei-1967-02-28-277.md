@@ -1,5 +1,3 @@
-###DEL-000277-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 277, DE 28 DE FEVEREIRO DE 1967
 
 Altera os artigos 48 e 53, do Decreto-lei nº 37, de 18 de novembro de 1966, que dispõe sôbre o impôsto de importação e reorganiza os serviços aduaneiros.

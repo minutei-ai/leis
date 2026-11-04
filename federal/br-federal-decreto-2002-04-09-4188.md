@@ -1,5 +1,3 @@
-###DEC-004188-0-000-09-04-2002@@@
-
 DECRETO Nº 4.188, DE 9 DE ABRIL DE 2002
 
 Promulga o Convênio sobre a Recuperação de Bens Culturais Roubados ou Exportados Ilicitamente entre o Governo da República Federativa do Brasil e o Governo da República do Peru, celebrado em Brasília, em 26 de fevereiro de 1996.

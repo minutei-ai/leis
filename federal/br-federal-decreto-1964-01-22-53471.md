@@ -1,5 +1,3 @@
-###DEC-053471-0-000-22-01-1964@@@
-
 DECRETO Nº 53.471, DE 22 DE JANEIRO DE 1964.
 
 Autoriza o Ministério da Fazenda a dar a garantia do Tesouro Nacional a operações de crédito no exterior, a serem realizadas pela Centrais Elétricas de Goiás S.A..

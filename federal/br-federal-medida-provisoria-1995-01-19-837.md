@@ -1,7 +1,3 @@
-1
-
-###MPV-000837-0-000-19-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 837, DE 19 DE JANEIRO DE 1995
 
 Dispõe sobre a vinculação da Fundação Osório e dá outras providências.

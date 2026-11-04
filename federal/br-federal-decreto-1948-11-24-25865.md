@@ -1,14 +1,12 @@
-###DEC-025865-0-000-24-11-1948@@@
+**DECRETO Nº 25.865, DE 24 DE NOVEMBRO DE 1948.**
 
-<strong>DECRETO Nº 25.865, DE 24 DE NOVEMBRO DE 1948.</strong>
+***Cria o Parque Nacional de Paulo Afonso.***
 
-<em><strong>Cria o Parque Nacional de Paulo Afonso.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, n.º I, e tendo em vista o dispos-
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, n.º I, e tendo em vista o dispos-
 
 Artigo 1.º E’ criado, na região circunjacente à cachoeira de Paulo Afonso, no Rio São Francisco em terras to no artigo 175 da Constituição e nos artigos 9.º e 10 do Decreto n.º 23.793, de janeiro de 1934,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Dos Estados de Alagoas, Pernambuco e Bahia, o Parque Nacional de Paulo Afonso, subordinado ao Ministério da Agricultura.
 
@@ -32,6 +30,6 @@ Artigo 10.º Revogam-se as disposições em contrário.
 
 Rio São Francisco, entre Petrolina e Sobradinho, 24 de novembro de 1948, 127.º da Independência e 60.º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

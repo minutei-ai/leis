@@ -1,5 +1,3 @@
-###DEC-083107-0-000-29-01-1979@@@
-
 Decreto nº 83.107, de 29 de janeiro de 1979
 
 Renova por 10 (dez) anos concessão outorgada à Rádios e Jornais do Ceará S.A. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Fortaleza, Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEC-067099-0-000-24-08-1970@@@
-
 DECRETO Nº 67.099, DE 24 DE AGôSTO DE 1970.
 
 Aprova alteração nos Estatutos da Fundação Casa de Rui Barbosa.

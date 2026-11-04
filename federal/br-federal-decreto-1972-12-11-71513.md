@@ -1,5 +1,3 @@
-###DEC-071513-0-000-11-12-1972@@@
-
 DECRETO Nº 71.513 - DE 11 DE DEZEMBRO DE 1972
 
 Autoriza o funcionamento da Faculdade de Ciências Humanas e Exatas da Organização Tatuapeense de Educação e Cultura - Tatuapé - SP.

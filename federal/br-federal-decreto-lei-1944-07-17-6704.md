@@ -1,5 +1,3 @@
-###DEL-006704-0-000-17-07-1944@@@
-
 DECRETO-LEI N. 6.704 – DE 17 DE JULHO DE 1944
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 6.000.000,00, à verba que especifica

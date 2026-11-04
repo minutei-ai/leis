@@ -1,5 +1,3 @@
-###DEC-055258-0-000-22-12-1964@@@
-
 DECRETO Nº 55.258, DE 22 DE DEZEMBRO DE 1964.
 
 Autoriza Metais de Goiás S.A., METAGO a pesquisar grafita no município de Paranã, Estado de Goiás.

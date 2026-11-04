@@ -1,5 +1,3 @@
-###DEC-084368-0-000-04-01-1980@@@
-
 Decreto nº 84.368, de 04 de janeiro de 1980
 
 Autoriza o BANCO DE LA PROVINCIA DE BUENOS AIRES a instalar filial em São Paulo (SP).

@@ -1,5 +1,3 @@
-###DEC-095181-0-000-10-11-1987@@@
-
 DECRETO N° 95.181, DE 10 DE NOVEMBRO DE 1987
 
 Autoriza o funcionamento de habilitação do curso de Pedagogia da Faculdade de Educação Antonio Augusto Reis Neves.

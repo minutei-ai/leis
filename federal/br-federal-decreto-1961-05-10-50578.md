@@ -1,5 +1,3 @@
-###DEC-050578-0-000-10-05-1961@@@
-
 DECRETO Nº 50.578, DE 10 DE MAIO DE 1961.
 
 Atualiza disposições relativas ao fomento da produção puro sangue de carreira no país, e dá outras providências.

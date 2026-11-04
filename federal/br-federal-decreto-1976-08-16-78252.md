@@ -1,5 +1,3 @@
-###DEC-078252-0-000-16-08-1976@@@
-
 DECRETO Nº 78.252, DE 16 DE AGOSTO DE 1976.
 
 Acrescenta parágrafo ao artigo 25 do Estatuto do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq).

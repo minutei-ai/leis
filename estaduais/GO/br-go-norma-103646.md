@@ -1,8 +1,10 @@
 Lei Ordinária n° 20.930 / 2020  Lei Ordinária n° 20.930 / 2020           Lei Ordinária n° 20.913 / 2020
 
-<table border="0" cellpadding="0" width="100%"><tbody><tr><td width="100%"><p style="TEXT-ALIGN: right" align="right"><font size="2" face="Arial">&nbsp;</font></p></td></tr><tr><td width="100%"><p style="TEXT-ALIGN: center" align="center"><font color="#808000" size="2" face="Arial"><img border="0" alt="" width="68" height="90" src="/assets/brasao_goias.gif"><br><strong>GOVERNO DO ESTADO DE GOIÁS</strong></font><font size="2" face="Arial"><br></font><strong><font size="2" color="#808000" face="Arial">Secretaria de Estado da Casa Civil</font></strong></p></td></tr></tbody></table>
+<img border="0" alt="" width="68" height="90" src="/assets/brasao_goias.gif">
+**GOVERNO DO ESTADO DE GOIÁS**
+**Secretaria de Estado da Casa Civil**
 
-**LEI No 20.930** **, DE 21 DE DEZEMBRO DE 2020.**
+**LEI No 20.930, DE 21 DE DEZEMBRO DE 2020.**
 
 _Dispõe sobre a adoção de atividades com fins educativos para enfrentamento à violência e reparação de danos causados no âmbito dos estabelecimentos que compõem o Sistema Estadual de Ensino do Estado de Goiás, e dá outras providências._
 
@@ -48,22 +50,27 @@ Art. 6º  Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 21 de dezembro de 2020, 132º da República.
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
-DELEGADO HUMBERTO TEÓFILO<br>
+DELEGADO HUMBERTO TEÓFILO
+
 Deputado Estadual
 
-RAFAEL GOUVEIA<br>
+RAFAEL GOUVEIA
+
 Deputado Estadual
 
 _Este texto não substitui o publicado no Suplemento do D.O. de 21-12-2020_ _._
 
  Lei Ordinária n° 20.913 / 2020
 
-<table border="0" cellpadding="0" width="100%"><tbody><tr><td width="100%"><p style="TEXT-ALIGN: right" align="right"><font size="2" face="Arial">&nbsp;</font></p></td></tr><tr><td width="100%"><p style="TEXT-ALIGN: center" align="center"><font color="#808000" size="2" face="Arial"><img border="0" alt="" width="68" height="90" src="/assets/brasao_goias.gif"><br><strong>GOVERNO DO ESTADO DE GOIÁS</strong></font><font size="2" face="Arial"><br></font><strong><font size="2" color="#808000" face="Arial">Secretaria de Estado da Casa Civil</font></strong></p></td></tr></tbody></table>
+<img border="0" alt="" width="68" height="90" src="/assets/brasao_goias.gif">
+**GOVERNO DO ESTADO DE GOIÁS**
+**Secretaria de Estado da Casa Civil**
 
-**LEI No 20.930** **, DE 21 DE DEZEMBRO DE 2020.**
+**LEI No 20.930, DE 21 DE DEZEMBRO DE 2020.**
 
 _Dispõe sobre a adoção de atividades com fins educativos para enfrentamento à violência e reparação de danos causados no âmbito dos estabelecimentos que compõem o Sistema Estadual de Ensino do Estado de Goiás, e dá outras providências._
 
@@ -109,13 +116,16 @@ Art. 6º  Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 21 de dezembro de 2020, 132º da República.
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
-DELEGADO HUMBERTO TEÓFILO<br>
+DELEGADO HUMBERTO TEÓFILO
+
 Deputado Estadual
 
-RAFAEL GOUVEIA<br>
+RAFAEL GOUVEIA
+
 Deputado Estadual
 
 _Este texto não substitui o publicado no Suplemento do D.O. de 21-12-2020_ _._

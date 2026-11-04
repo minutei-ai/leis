@@ -1,5 +1,3 @@
-###DEC-054158-0-000-20-08-1964@@@
-
 Decreto nº 54.158, de 20 de AgÔsto de 1964.
 
 Transfere da Prefeitura Municipal de Santo Antônio de Monte para Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica.

@@ -1,5 +1,3 @@
-###MPV-001776-0-010-08-04-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.776-10, DE 8 DE ABRIL DE 1999.
 
 Dá nova redação ao art. 57 da Lei nº 4.878, de 3 de dezembro de 1965, que dispõe sobre o regime jurídico peculiar aos funcionário policiais civis da União e do Distrito Federal, e dá outras providencias.

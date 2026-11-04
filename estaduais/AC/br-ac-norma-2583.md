@@ -1,6 +1,10 @@
 > **LEI Nº 3.596, DE 09 DE JANEIRO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Assegura ao consumidor o direito à informação sobre a inexistência de assistência técnica no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Assegura ao consumidor o direito à informação sobre a inexistência de assistência técnica no Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

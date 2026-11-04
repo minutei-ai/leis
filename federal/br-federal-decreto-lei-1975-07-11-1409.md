@@ -1,5 +1,3 @@
-###DEL-001409-0-000-11-07-1975@@@
-
 # DECRETO-LEI Nº 1.409, DE 11 DE JULHO DE 1975
 
 Dispõe sobre a incidência do Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos no álcool anidro originário da cana-de-açúcar, destinado a adição à gasolina.

@@ -1,5 +1,3 @@
-###DEC-080421-0-000-28-09-1977@@@
-
 DECRETO nº 80.421, de 28 de setembro de 1977.
 
 Dispõe sobre incorporação dos resultados e publicação dos balanços das entidades da Administração Indireta.

@@ -1,5 +1,3 @@
-###DEC-084363-0-000-03-01-1980@@@
-
 DECRETO Nº 84.363, DE 03 DE JANEIRO DE 1980
 
 Dispõe sobre requisição e compra de passagens aéreas por órgãos e entidades de Administração Federal e Fundações sob supervisão ministerial e dá outras providências.

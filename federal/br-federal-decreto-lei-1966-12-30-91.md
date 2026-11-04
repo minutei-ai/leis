@@ -1,5 +1,3 @@
-###DEL-000091-0-000-30-12-1966@@@
-
 DECRETO-LEI Nº 91, DE 30 DE dezembro DE 1966
 
 Retifica, sem aumento de despesa, a Lei nº 4.900, de 10 de dezembro de 1965.

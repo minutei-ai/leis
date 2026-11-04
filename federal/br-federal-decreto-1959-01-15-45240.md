@@ -1,5 +1,3 @@
-###DEC-045240-0-000-15-01-1959@@@
-
 DECRETO Nº 45.240, DE 15 DE JANEIRO DE 1959.
 
 Autoriza a Companhia Brasileira de Mica Sociedade Anônima a pesquisar mica, no município de Virgolândia, Estado de Minas Gerais.

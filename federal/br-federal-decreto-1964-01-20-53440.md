@@ -1,5 +1,3 @@
-###DEC-053440-0-000-20-01-1964@@@
-
 DECRETO Nº 53.440, DE 20 DE JANEIRO DE 1964.
 
 Autoriza o cidadão brasileiro Irineu Alves de Macedo Soares a pesquisar minério de ouro no município de Dianópolis, Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-061795-0-000-29-11-1967@@@
-
 Decreto nº 61.795, de 29 de novembro de 1967.
 
 Institui Grupo de Trabalho para estudar e propor medidas que promovam o desenvolvimento da engenharia nacional.

@@ -1,5 +1,3 @@
-###DEC-075326-0-000-29-01-1975@@@
-
 Decreto nº 75.326, de 29 de janeiro de 1975.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Goiás S.A. Estado de Goiás.

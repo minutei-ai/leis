@@ -1,5 +1,3 @@
-###DEC-082453-0-000-18-10-1978@@@
-
 Decreto nº 82.453, de 18 de outubro de 1978
 
 Declara sem efeito o Decreto n.º 48 515, de 13 de julho de 1960, que autorizou o cidadão brasileiro José Pedro da Fonseca Filho a lavrar calcário no Município de Matozinhos, Estado de Minas Gerais.

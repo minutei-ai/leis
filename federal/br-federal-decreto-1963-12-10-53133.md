@@ -1,5 +1,3 @@
-###DEC-053133-0-000-10-12-1963@@@
-
 DECRETO Nº 53.133, DE 10 DE Dezembro DE 1963.
 
 Outorga ao Município de Bom Retiro Estado de Santa Catarina, concessão para distribuir energia elétrica.
@@ -39,8 +37,6 @@ Brasília, 10 de dezembro de 1963; 142º da Independência e 75º da República.
 João Goulart
 
 Antônio de Oliveira Brito
-
-###DEC-053133-0-000-10-12-1963@@@RET01+++
 
 decreto nº 53.133, de 10 de dezembro de 1963.
 

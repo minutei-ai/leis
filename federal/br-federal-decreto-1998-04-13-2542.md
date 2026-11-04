@@ -1,5 +1,3 @@
-###DEC-002542-0-000-13-04-1998@@@
-
 DECRETO Nº 2.542, DE 13 DE ABRIL DE 1998
 
 Prorroga o prazo estabelecido no art. 2º do Decreto nº 2.203, de 9 de abril de 1997.

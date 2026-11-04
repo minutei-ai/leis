@@ -6,7 +6,41 @@ O VICE GOVERNADOR NO EXERCÍCIO DO CARGO DE GOVERNADOR DO ESTADO DA BAHIA, faço
 
 Art. 1º - Ficam extintos os cargos vagos, a seguir discriminados e constantes da [Lei nº 3.370, de 27 de janeiro de 1975](https://www.legislabahia.ba.gov.br/documentos/lei-no-3370-de-27-de-janeiro-de-1975#LO_3_370) :
 
-<table style="margin-left: 111.75pt; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 277.55pt; border: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="370"><p style="text-align: justify;">1 Taquígrafo Parlamentar</p></td><td style="width: 55.55pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="74"><p style="text-align: justify;">ANS 03</p></td></tr><tr><td style="width: 277.55pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt;" valign="top" width="370"><p style="text-align: justify;">1 Assistente de Plenário</p></td><td style="width: 55.55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="74"><p style="text-align: justify;">ANM 03</p></td></tr><tr><td style="width: 277.55pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt;" valign="top" width="370"><p style="text-align: justify;">1 Assistente Legislativo</p></td><td style="width: 55.55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="74"><p style="text-align: justify;">ANM 03</p></td></tr><tr><td style="width: 277.55pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt;" valign="top" width="370"><p style="text-align: justify;">1 Datilógrafo Revisor</p></td><td style="width: 55.55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="74"><p style="text-align: justify;">ANM 03</p></td></tr><tr><td style="width: 277.55pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt;" valign="top" width="370"><p style="text-align: justify;">1 Radiotelegrafista</p></td><td style="width: 55.55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="74"><p style="text-align: justify;">ANM 03</p></td></tr><tr><td style="width: 277.55pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt;" valign="top" width="370"><p style="text-align: justify;">1 Agente de Portaria</p></td><td style="width: 55.55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="74"><p style="text-align: justify;">ATA 03</p></td></tr><tr><td style="width: 277.55pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt;" valign="top" width="370"><p style="text-align: justify;">1 Eletricista</p></td><td style="width: 55.55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="74"><p style="text-align: justify;">ATA 03</p></td></tr><tr><td style="width: 277.55pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt;" valign="top" width="370"><p style="text-align: justify;">1 Servente</p></td><td style="width: 55.55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="74"><p style="text-align: justify;">ATA 03</p></td></tr><tr><td style="width: 277.55pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt;" valign="top" width="370"><p style="text-align: justify;">1 Agente de Segurança Auxiliar</p></td><td style="width: 55.55pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="74"><p style="text-align: justify;">ATA 03</p></td></tr></tbody></table>
+1 Taquígrafo Parlamentar
+
+ANS 03
+
+1 Assistente de Plenário
+
+ANM 03
+
+1 Assistente Legislativo
+
+ANM 03
+
+1 Datilógrafo Revisor
+
+ANM 03
+
+1 Radiotelegrafista
+
+ANM 03
+
+1 Agente de Portaria
+
+ATA 03
+
+1 Eletricista
+
+ATA 03
+
+1 Servente
+
+ATA 03
+
+1 Agente de Segurança Auxiliar
+
+ATA 03
 
 Art. 2º - O [art. 1º da Lei nº 3.463, de 23 de janeiro de 1976](https://www.legislabahia.ba.gov.br/documentos/lei-no-3463-de-23-de-janeiro-de-1976#LO_3_463_Art__1) , passa a vigorar com o seguinte texto:
 

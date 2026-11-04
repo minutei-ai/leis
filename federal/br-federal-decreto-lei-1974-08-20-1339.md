@@ -1,5 +1,3 @@
-###DEL-001339-0-000-20-08-1974@@@
-
 # DECRETO-LEI Nº 1.339, DE 20 DE AGOSTO DE 1974
 
 Autoriza a revisão de contratos de construção, nas condições que menciona, e dá outras providências.

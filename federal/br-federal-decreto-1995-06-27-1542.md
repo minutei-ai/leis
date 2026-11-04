@@ -1,7 +1,3 @@
-1
-
-###DEC-001542-0-000-27-06-1995@@@
-
 DECRETO Nº 1.542, DE 27 DE JUNHO DE 1995.
 
 Altera o art. 5º do Decreto nº 99.274, de 6 de junho de 1990, que regulamenta as Leis nºs 6.902, de 27 de abril de 1981, e 6.938, de 31 de agosto de 1981.

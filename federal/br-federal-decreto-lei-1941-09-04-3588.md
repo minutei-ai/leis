@@ -1,5 +1,3 @@
-###DEL-003588-0-000-04-09-1941@@@
-
 DECRETO-LEI N. 3.588 – DE 4 DE SETEMBRO DE 1941
 
 Abre, pelo  Ministério da Guerra, o crédito suplementar  de 400:000$0,  à verba que especifica.

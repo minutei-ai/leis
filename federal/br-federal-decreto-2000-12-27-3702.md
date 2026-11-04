@@ -1,5 +1,3 @@
-###DEC-003702-0-000-27-12-2000@@@
-
 DECRETO Nº 3.702, DE 27 DE DEZEMBRO DE 2000.
 
 Delega competência ao Ministro de Estado da Defesa para aprovar os Planos de Convocação para o Serviço Militar Inicial nas Forças Armadas, e dá outras providências.

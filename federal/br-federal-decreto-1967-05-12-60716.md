@@ -1,5 +1,3 @@
-###DEC-060716-0-000-12-05-1967@@@
-
 DECRETO Nº 60.716, DE 12 DE MAIO DE 1967.
 
 Declara de utilidade pública o “Colégio Santa Rosa de Lima” com sede no Rio de Janeiro, Estado da Guanabara.

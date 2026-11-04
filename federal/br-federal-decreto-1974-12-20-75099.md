@@ -1,5 +1,3 @@
-###DEC-075099-0-000-20-12-1974@@@
-
 DECRETO nº 75.099, DE 20 DE DEZEMBRO DE 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terras destinadas à passagem de linhas de transmissão da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, nos Estados de Santa Catarina e Paraná.

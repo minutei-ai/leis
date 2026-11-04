@@ -1,5 +1,3 @@
-###DEC-079789-0-000-07-06-1977@@@
-
 Decreto nº 79.789, de 7 de junho de 1977
 
 Regulamenta o Decreto-lei nº 1.556, de 7 de junho de 1977, que dispõe sobra a não incidência da cota de previdência sobre os combustíveis automotivos destinados à exportação, e dá outras providências.

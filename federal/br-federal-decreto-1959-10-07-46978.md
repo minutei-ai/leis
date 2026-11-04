@@ -1,5 +1,3 @@
-###DEC-046978-0-000-07-10-1959@@@
-
 DECRETO Nº 46.978, DE 07 DE OUTUBRO DE 1959.
 
 Altera o Regimento do Departamento Nacional de Iluminação e Gás, do Ministério da Viação e Obras Públicas, aprovado pelo Decreto número 20.283, de 28 d dezembro de 1945, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099065-0-000-08-03-1990@@@
-
 DECRETO N° 99.065, DE 8 DE MARÇO DE 1990
 
 Altera dispositivos do Regulamento da Ordem do Mérito Forças Armadas (OMFA).

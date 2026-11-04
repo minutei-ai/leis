@@ -1,5 +1,3 @@
-###DEC-079505-0-000-13-04-1977@@@
-
 Decreto nº 79.505, de 13 de abril de 1977.
 
 Concede a Cimentos do Brasil S.A. - CIBRASA o direito de lavrar calcário no Município de Capanema, Estado do Pará.

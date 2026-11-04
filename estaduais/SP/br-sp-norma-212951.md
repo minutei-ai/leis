@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212951)<br>
-
 # DECRETO N° 70.848, DE 09 DE SETEMBRO DE 2026
 
 ### _Transfere, da Secretaria de Gestão e Governo Digital para a Secretaria dos Direitos da Pessoa com Deficiência, a administração do imóvel que especifica, localizado no Município de Araçatuba._

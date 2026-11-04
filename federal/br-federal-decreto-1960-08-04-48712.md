@@ -1,5 +1,3 @@
-###DEC-048712-0-000-04-08-1960@@@
-
 DECRETO Nº 48.712, DE 4 DE AGÔSTO DE 1960.
 
 Dispõe sôbre a desapropriação de imóvel destinado a edificações, instalações e serviços da Escola de Engenharia da Universidade do Ceará.

@@ -1,5 +1,3 @@
-###DEC-066417-0-000-06-04-1970@@@
-
 DECRETO Nº 66.417, DE 6 DE ABRIL DE 1970.
 
 Concede a Cláudio Bailone & Cia. o direito de lavrar feldspato e quartzo, no município de Inconfidentes, Estado de Minas Gerais.

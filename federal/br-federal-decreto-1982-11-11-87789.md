@@ -1,5 +1,3 @@
-###DEC-087789-0-000-11-11-1982@@@
-
 Decreto nº 87.789, de 11 de novembro de 1982.
 
 Declara luto oficial.

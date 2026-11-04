@@ -1,5 +1,3 @@
-###DEC-005689-0-000-01-02-2006@@@
-
 DECRETO Nº 5.689, DE 1º DE FEVEREIRO DE 2006.
 
 Dispõe sobre a execução do Trigésimo Terceiro Protocolo Adicional ao Acordo de Complementação Econômica no 39, entre os Governos da República Federativa do Brasil e da República do Peru, de 22 de dezembro de 2005.

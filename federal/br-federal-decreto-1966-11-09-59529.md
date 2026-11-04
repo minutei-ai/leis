@@ -1,5 +1,3 @@
-###DEC-059529-0-000-09-11-1966@@@
-
 DECRETO Nº 59.529, DE 09 DE NOVEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Augusto Abel a pesquisar areia quatzosa no município de Peruibe, Estado de São Paulo.

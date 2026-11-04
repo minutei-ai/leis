@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/bca82d56-c4f2-439c-95ca-23e294411cef/texto#nowhere)
 
-###DEL-000460-0-000-10-02-1969@@@
-
 DECRETO-LEI Nº 460, DE 10 DE FEVEREIRO DE 1969
 
 Dispõe sôbre alteração da Lei número 4.714.65.

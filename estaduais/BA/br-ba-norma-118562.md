@@ -8,7 +8,8 @@ Art. 1º - São isentas do pagamento do ICMS, as operações de comercializaçã
 
 Parágrafo único - As pessoas e entidades referidas no "caput" deste artigo só poderão adquirir, a cada 03 (três) anos, um único veículo com o benefício da isenção do pagamento do ICMS.
 
-Ver também:<br>
+Ver também:
+
 [Lei nº 5.983, de 14 de novembro de 1990](https://www.legislabahia.ba.gov.br/documentos/lei-no-5983-de-14-de-novembro-de-1990#LO_5_983) : "Altera o art. 1º da Lei nº 5.891, de 23 de julho de 1990, que dispõe sobre a isenção do ICMS."
 
 Art. 2º - Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.

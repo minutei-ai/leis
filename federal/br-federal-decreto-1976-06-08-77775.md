@@ -1,5 +1,3 @@
-###DEC-077775-0-000-08-06-1976@@@
-
 DECRETO N.º 77.775, DE 8 DE JUNHO DE 1976.
 
 Regulamenta a Lei n.º 6.225, de 14 de julho de 1975, que dispõe sobre discriminação, pelo Ministério da Agricultura, de regiões para execução obrigatória de planos de proteção ao solo e de combate à erosão, e dá outras providências.

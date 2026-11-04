@@ -1,7 +1,3 @@
-1
-
-###DEC-001368-0-000-12-01-1995@@@
-
 DECRETO N° 1.368, DE 12 DE JANEIRO DE 1995
 
 Suspende a realização de novos concursos públicos e as nomeações para cargos de provimento efetivo, no âmbito da Administração Federal direta, das autarquias e das fundações públicas federais.

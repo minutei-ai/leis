@@ -1,5 +1,3 @@
-###DEL-004153-0-000-06-03-1942@@@
-
 DECRETO-LEI N. 4.153 – DE 6 DE MARÇO DE 1942
 
 Dispõe sobre a designação dos representantes dos Ministérios que especifica, dos empregados e dos empregadores nos Conselhos das Delegacias de Trabalho Marítimo

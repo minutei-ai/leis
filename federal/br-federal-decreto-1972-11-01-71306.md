@@ -1,5 +1,3 @@
-###DEC-071306-0-000-01-11-1972@@@
-
 decreto nº 71.306, de 1º de novembro de 1972.
 
 Autoriza o Ministro da Fazenda a incorporar bens da União na sociedade de economia mista Telecomunicações Brasileiras S.A. - TELEBRÁS.

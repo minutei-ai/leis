@@ -1,7 +1,3 @@
-1
-
-###MPV-000923-0-000-24-02-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 923, DE 24 DE FEVEREIRO DE 1995
 
 Dispõe sobre a concessão de abono aos trabalhadores no mês de janeiro de 1995.

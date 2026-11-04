@@ -1,5 +1,3 @@
-###DEC-079571-0-000-25-04-1977@@@
-
 Decreto nº 79.571, de 25 de abril de 1977.
 
 Delega competência ao Ministro de Estado do Trabalho para nomear os representantes classistas, integrantes do Conselho Nacional de Política Salarial.

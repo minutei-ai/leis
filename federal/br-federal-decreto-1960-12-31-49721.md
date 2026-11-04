@@ -1,5 +1,3 @@
-###DEC-049721-0-000-31-12-1960@@@
-
 decreto nº 49.721, de 31 de dezembro de 1960.
 
 Concede à Emprêsa Nacional de Navegação Hoepcke S.A. autorização para funcionar como emprêsa de navegação de cabotagem e revoga o decreto que concedeu à emprêsa Carlos Hoepcke S.A.- Comércio e Indústria autorização para funcionar como emprêsa de navegação de cabotagem.

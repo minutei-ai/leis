@@ -1,5 +1,3 @@
-###DEC-084788-0-000-16-06-1980@@@
-
 Decreto nº 84.788, de 16 de junho de 1980.
 
 Delega competência ao Ministro de Estado das Relações Exteriores para aprovar e modificar normas reguladoras das atividades consulares brasileiras.

@@ -1,5 +1,3 @@
-###DEC-073027-0-000-30-10-1973@@@
-
 DECRETO Nº 73.027, DE 30 DE OUTUBRO DE 1973.
 
 Renova por 10 (dez) anos a concessão outorgada à Fundação Nossa Senhora Aparecida, para executar serviço de radiodifusão sonora em onda curta, na cidade de Aparecida, Estado de São Paulo.

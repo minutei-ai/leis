@@ -1,5 +1,3 @@
-###DEC-081952-0-000-11-07-1978@@@
-
 Decreto nº 81.952, de 11 de julho de 1978.
 
 Retifica a concessão de lavra outorgada à Companhia de Cimento Portland Ponte Alta pelo Decreto nº 80.202, de 22 de agosto de 1977.

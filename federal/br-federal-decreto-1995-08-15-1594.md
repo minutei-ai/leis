@@ -1,7 +1,3 @@
-1
-
-###DEC-001594-0-000-15-08-1995@@@
-
 DECRETO Nº 1.594, DE 15 DE AGOSTO DE 1995.
 
 Altera dispositivos do art. 1º do Decreto nº 1.096, de 23 de março de 1994, que dispõe sobre Cargos Privativos de Oficial-General do Exército em tempo de Paz.

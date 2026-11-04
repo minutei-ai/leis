@@ -1,5 +1,3 @@
-###DEC-096865-0-000-29-09-1988@@@
-
 DECRETO N° 96.865, DE 29 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada à RÁDIO JAINARA LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cida­de de Bacabal, Estado do Maranhão.

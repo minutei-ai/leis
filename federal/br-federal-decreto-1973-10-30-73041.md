@@ -1,5 +1,3 @@
-###DEC-073041-0-000-30-10-1973@@@
-
 DECRETO Nº 73.041, DE 30 DE OUTUBRO DE 1973.
 
 Cria a Embaixada do Brasil na República Democrática Alemã.

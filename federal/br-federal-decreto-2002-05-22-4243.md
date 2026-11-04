@@ -1,5 +1,3 @@
-###DEC-004243-0-000-22-05-2002@@@
-
 DECRETO Nº 4.243, DE 22 DE MAIO DE 2002
 
 Delega competência para a prática de atos de provimento no âmbito da Administração Pública Federal, e dá outras providências.

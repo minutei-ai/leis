@@ -1,5 +1,3 @@
-###DEC-052783-0-000-29-10-1963@@@
-
 DECRETO Nº 52.783, DE 29 DE OUTUBRO DE 1963.
 
 Altera dispositivo do Decreto número 52.620, de 7 de outubro de 1963.

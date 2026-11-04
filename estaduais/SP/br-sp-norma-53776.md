@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=53776)
-
 # LEI Nº 11.938, DE 10 DE JUNHO DE 2005
 
 ## (PL 392/2003 - Arnaldo Jardim)

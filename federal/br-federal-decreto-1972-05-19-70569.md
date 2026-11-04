@@ -1,5 +1,3 @@
-###DEC-070569-0-000-19-05-1972@@@
-
 Decreto nº 70.569, de 19 de maio de 1972.
 
 Declara de utilidade pública o Serviço de Obras Sociais, com sede em Londrina, Estado do Paraná.

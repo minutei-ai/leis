@@ -1,7 +1,3 @@
-1
-
-###DEC-098074-0-000-21-08-1989@@@
-
 DECRETO Nº 98.074, DE 21 DE AGOSTO DE 1989
 
 Declara de utilidade pública para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor da Petróleo Brasileiro S.A. PETROBRÁS, os imóveis constituídos de terras e benfeitorias, de propriedade particular, situados nos Municípios de Carmópolis e Rosário do Catete, no Estado de Sergipe, necessários à construção do Gasoduto Carmópolis/PETROMISA.

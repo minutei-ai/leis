@@ -1,5 +1,3 @@
-###DEC-045858-0-000-22-04-1959@@@
-
 DECRETO Nº 45.858, DE 22 DE abril DE 1959.
 
 Autoriza a Comissão Estadual de Energia Elétrica do Estado do Rio de Janeiro a ampliar suas instalações.

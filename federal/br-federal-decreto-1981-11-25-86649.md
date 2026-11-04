@@ -1,5 +1,3 @@
-###DEC-086649-0-000-25-11-1981@@@
-
 Decreto nº 86.649, de 25 de novembro de 1981
 
 Regulamenta a Lei nº 6.899, de 8 de abril de 1981, que determina a aplicação de correção monetária nos débitos oriundos de decisão judicial.

@@ -1,5 +1,3 @@
-###DEC-004053-0-000-13-12-2001@@@
-
 DECRETO Nº 4.053, DE 13 DE DEZEMBRO DE 2001.
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério da Justiça, e dá outras providências.

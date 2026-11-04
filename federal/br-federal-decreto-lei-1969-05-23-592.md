@@ -1,5 +1,3 @@
-###DEL-000592-0-000-23-05-1969@@@
-
 DECRETO-LEI Nº 592, DE 23 DE MAIO DE 1969
 
 Dispõe sôbre a estrutura e atribuições da Agência Nacional e dá outras providências.

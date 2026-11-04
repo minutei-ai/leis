@@ -1,5 +1,3 @@
-###DEC-070389-0-000-11-04-1972@@@
-
 DECRETO Nº 70.389, de 11 de abril de 1972.
 
 Autoriza o cancelamento da inscrição de tombamento da Igreja dos Martírios, situada em Recife, Estado de Pernambuco, e dá outras providências.

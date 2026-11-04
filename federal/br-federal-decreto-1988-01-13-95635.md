@@ -1,7 +1,3 @@
-1
-
-###DEC-095635-0-000-13-01-1988@@@
-
 DECRETO N° 95.635, DE 13 DE JANEIRO DE 1988
 
 Outorga concessão à RÁDIO CANTOENSE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Canto do Buriti, Estado do Piauí.

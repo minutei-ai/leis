@@ -1,5 +1,3 @@
-###DEC-056149-0-000-27-04-1965@@@
-
 DECRETO Nº 56.149, DE 27 DE ABRIL DE 1965.
 
 Renova o Decreto nº 1.607, de 22 de novembro de 1962.

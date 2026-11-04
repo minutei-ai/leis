@@ -2,7 +2,8 @@ LEI Nº 1.761 DE 27 DE JULHO DE 1962
 
 Cria o Município de Marcionílio Souza, desmembrado do de Maracás.
 
-Ver também:<br>
+Ver também:
+
 Lei nº [12.907](https://www.legislabahia.ba.gov.br/documentos/lei-no-1761-de-27-de-julho-de-1962#_GoBack) de 26 de setembro de 2013 - Atualiza os limites dos municípios que integram o Território de Identidade Chapada Diamantina, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Abaíra, Andaraí, Barra da Estiva, Boninal, Bonito, Ibicoara, Ibitiara, Iramaia, Iraquara, Itaetê, Jussiape, Lençóis, Marcionílio Souza, Morro do Chapéu, Mucugê, Nova Redenção, Novo Horizonte, Palmeiras, Piatã, Rio de Contas, Seabra, Souto Soares, Utinga e Wagner.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
@@ -57,4 +58,4 @@ Governador
 
 Adhemar Martinelli Braga
 
-* * *
+ *

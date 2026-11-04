@@ -1,5 +1,3 @@
-###DEC-056676-0-000-06-08-1965@@@
-
 DECRETO Nº 56.676, DE 6 DE AGÔSTO DE 1965.
 
 Concede à Mineração Morro Grande S.A., autorização para funcionar como emprêsa de mineração.

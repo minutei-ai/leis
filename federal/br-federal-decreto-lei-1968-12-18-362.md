@@ -1,5 +1,3 @@
-###DEL-000362-0-000-18-12-1968@@@
-
 DECRETO-lei Nº 362, DE 18 DE dezembro de 1968
 
 Modifica a Lei nº 3.381, de 24 de abril de 1958, que criou o Fundo da Marinha Mercante e a Taxa de Renovação da Marinha Mercante e dá outras providências.

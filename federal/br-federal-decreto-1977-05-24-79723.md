@@ -1,5 +1,3 @@
-###DEC-079723-0-000-24-05-1977@@@
-
 decreto nº 79.723, de 24 de maio de 1977.
 
 Transfere para a Federação das Escolas Federais isoladas do Estado do Rio de Janeiro o Curso de Museus Histórico Nacional.

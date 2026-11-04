@@ -1,5 +1,3 @@
-###DEC-078951-0-000-15-12-1976@@@
-
 DECRETO Nº 78.951, DE 15 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Administração, da Faculdade de Ciências Contábeis e Administrativos de Cachoeiro de Itapemirim, Estado do Espírito Santo.

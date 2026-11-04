@@ -1,5 +1,3 @@
-###DEC-079510-0-000-13-04-1977@@@
-
 DECRETO Nº 79.510, DE 13 DE ABRIL DE 1977.
 
 Concede à ICOBAMIL- Indústria e Comércio Baiana de Mineração Limitada o direito de lavrar talco no Município de Brumado, Estado da Bahia.

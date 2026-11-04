@@ -1,5 +1,3 @@
-###DEC-091754-0-000-07-10-1985@@@
-
 DECRETO Nº 91.754, DE 07 DE OUTUBRO DE 1985.
 
 Dispõe sobre o reexame dos atos de outorga de concessão para exploração dos serviços de radiodifusão sonora e de sons e imagens, e dá outras providências.

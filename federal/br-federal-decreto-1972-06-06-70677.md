@@ -1,5 +1,3 @@
-###DEC-070677-0-000-06-06-1972@@@
-
 DECRETO Nº 70.677, DE 6 DE JUNHO 1972.
 
 Dispõe sobre a execução do Decreto-lei nº 1.179, de 6 junho de 1.971, que institui o PROTERRA.

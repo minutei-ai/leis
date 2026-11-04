@@ -28,5 +28,6 @@ Art. 4º Esta Lei entra em vigor em (90) Noventa dias após a data de sua public
 
 Câmara Municipal de Aparecida Goiânia, aos 17 dias do mês de outubro do ano de 2019.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Presidente da Câmara Municipal

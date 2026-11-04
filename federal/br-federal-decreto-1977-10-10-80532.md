@@ -1,5 +1,3 @@
-###DEC-080532-0-000-10-10-1977@@@
-
 DECRETO Nº 80.532, DE 10 DE OUTUBRO DE 1977.
 
 Concede reconhecimento ao curso de bacharelado em Relações Internacionais da Universidade de Brasília, Distrito Federal.

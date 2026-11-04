@@ -1,5 +1,3 @@
-###DEC-085642-0-000-15-01-1981@@@
-
 Decreto nº 85.642, de 15 de janeiro de 1981
 
 Autoriza o funcionamento das Licenciaturas Plenas no curso de Letras da Faculdade de Filosofia, Ciências e Letras de Santa Cruz do Sul, Estado do Rio Grande do Sul.

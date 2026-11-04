@@ -1,5 +1,3 @@
-###DEC-078945-0-000-15-12-1976@@@
-
 Decreto nº 78.945, de 15 de dezembro de 1976.
 
 Dispõe sobre a importação, o arrendamento mercantil, a locação ou a aquisição no mercado interno de bens de consumo, maquinas e equipamentos, veículos e demais produtos de origem externa, por órgãos e entidades da administração federal direta e indireta e fundações supervisionadas, e dá outras providencias.

@@ -1,5 +1,3 @@
-###DEC-069371-0-000-18-10-1971@@@
-
 DECRETO Nº 69.371, DE 18 DE OUTUBRO DE 1971.
 
 Autoriza o funcionamento da Faculdade de Direito de Instituto Ritter dos Reis, mantida pela Sociedade Universitária Ritter dos Reis de Canoas - RS.

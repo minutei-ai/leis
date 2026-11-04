@@ -16,24 +16,280 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO FUNDAMENTAL</td><td style=" width:85px;    ">12 361 4100 4149</td><td style=" width:85px;    ">25400108</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 20.445.318,33</td><td style=" width:85px;    ">R$ 20.445.318,33</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - EJA</td><td style=" width:85px;    ">12 366 4100 4157</td><td style=" width:85px;    ">25400108</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 2.680.000,00</td><td style=" width:85px;    ">R$ 2.680.000,00</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - EDUCACAO ESPECIAL</td><td style=" width:85px;    ">12 367 4100 4159</td><td style=" width:85px;    ">25400108</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 2.680.000,00</td><td style=" width:85px;    ">R$ 2.680.000,00</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS</td><td style=" width:85px;    ">12 122 4100 4144</td><td style=" width:85px;    ">25400108</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 32.250.000,00</td><td style=" width:85px;    ">R$ 32.250.000,00</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO MEDIO</td><td style=" width:85px;    ">12 362 4100 4151</td><td style=" width:85px;    ">25400108</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 64.290.000,00</td><td style=" width:85px;    ">R$ 64.290.000,00</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO FUNDAMENTAL</td><td style=" width:85px;    ">12 361 4100 4149</td><td style=" width:85px;    ">25430108</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 145.654.681,67</td><td style=" width:85px;    ">R$ 145.654.681,67</td></tr></tbody></table>
+**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">25400108 - TRANSFERÊNCIAS DO FUNDEB - IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 122.345.318,33</td></tr><tr><td style=" width:340px;    ">25430108 - TRANSFERÊNCIAS DO FUNDEB - COMPLEMENTAÇÃO DA UNIÃO - VAAR - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 145.654.681,67</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 268.000.000,00</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO FUNDAMENTAL
+
+12 361 4100 4149
+
+25400108
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 0,00
+
+R$ 20.445.318,33
+
+R$ 20.445.318,33
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - EJA
+
+12 366 4100 4157
+
+25400108
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 0,00
+
+R$ 2.680.000,00
+
+R$ 2.680.000,00
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - EDUCACAO ESPECIAL
+
+12 367 4100 4159
+
+25400108
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 0,00
+
+R$ 2.680.000,00
+
+R$ 2.680.000,00
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS
+
+12 122 4100 4144
+
+25400108
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 0,00
+
+R$ 32.250.000,00
+
+R$ 32.250.000,00
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO MEDIO
+
+12 362 4100 4151
+
+25400108
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 0,00
+
+R$ 64.290.000,00
+
+R$ 64.290.000,00
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO FUNDAMENTAL
+
+12 361 4100 4149
+
+25430108
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 0,00
+
+R$ 145.654.681,67
+
+R$ 145.654.681,67
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+25400108 - TRANSFERÊNCIAS DO FUNDEB - IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS - EXERCÍCIOS ANTERIORES
+
+R$ 122.345.318,33
+
+25430108 - TRANSFERÊNCIAS DO FUNDEB - COMPLEMENTAÇÃO DA UNIÃO - VAAR - EXERCÍCIOS ANTERIORES
+
+R$ 145.654.681,67
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 268.000.000,00
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGTO DE PROFIS. DA EDUC. - BENEFÍCIOS, AUXÍLIOS E DESP. DE CARÁTER INDENIZATÓRIO - ENSINO MEDIO</td><td style=" width:85px;    ">12 362 4100 4152</td><td style=" width:85px;    ">25400108</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 64.290.000,00</td><td style=" width:85px;    ">R$ 64.290.000,00</td><td style=" width:85px;    ">R$ 64.290.000,00</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGTO DE PROFIS. DA EDUC. - BENEFÍCIOS, AUXÍLIOS E DESP. DE CARÁTER INDENIZATÓRIO - EJA</td><td style=" width:85px;    ">12 366 4100 4158</td><td style=" width:85px;    ">25400108</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.680.000,00</td><td style=" width:85px;    ">R$ 2.680.000,00</td><td style=" width:85px;    ">R$ 2.680.000,00</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGTO DE PROFIS. DA EDUC. - BENEFÍCIOS, AUXÍLIOS E DESP. DE CARÁTER INDENIZATÓRIO - ENS. FUNDAMENTAL</td><td style=" width:85px;    ">12 361 4100 4150</td><td style=" width:85px;    ">25400108</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 20.445.318,33</td><td style=" width:85px;    ">R$ 20.445.318,33</td><td style=" width:85px;    ">R$ 20.445.318,33</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGTO DE PROFIS. DA EDUC. - BENEFÍCIOS, AUXÍLIOS E DESP. DE CARÁTER INDENIZATÓRIO - EDUCACAO ESPECIAL</td><td style=" width:85px;    ">12 367 4100 4160</td><td style=" width:85px;    ">25400108</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.680.000,00</td><td style=" width:85px;    ">R$ 2.680.000,00</td><td style=" width:85px;    ">R$ 2.680.000,00</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS - BENEFÍCIOS, AUXÍLIOS E DESPESAS DE CARÁTER INDENIZATÓRIO</td><td style=" width:85px;    ">12 122 4100 4145</td><td style=" width:85px;    ">25400108</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 32.250.000,00</td><td style=" width:85px;    ">R$ 32.250.000,00</td><td style=" width:85px;    ">R$ 32.250.000,00</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGTO DE PROFIS. DA EDUC. - BENEFÍCIOS, AUXÍLIOS E DESP. DE CARÁTER INDENIZATÓRIO - ENS. FUNDAMENTAL</td><td style=" width:85px;    ">12 361 4100 4150</td><td style=" width:85px;    ">25430108</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 145.654.681,67</td><td style=" width:85px;    ">R$ 145.654.681,67</td><td style=" width:85px;    ">R$ 145.654.681,67</td></tr></tbody></table>
+**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">25400108 - TRANSFERÊNCIAS DO FUNDEB - IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 122.345.318,33</td></tr><tr><td style=" width:340px;    ">25430108 - TRANSFERÊNCIAS DO FUNDEB - COMPLEMENTAÇÃO DA UNIÃO - VAAR - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 145.654.681,67</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 268.000.000,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">25400108 - TRANSFERÊNCIAS DO FUNDEB - IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 122.345.318,33</td></tr><tr><td style=" width:340px;    ">25430108 - TRANSFERÊNCIAS DO FUNDEB - COMPLEMENTAÇÃO DA UNIÃO - VAAR - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 145.654.681,67</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 268.000.000,00</td></tr></tbody></table>
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+FOLHA DE PAGTO DE PROFIS. DA EDUC. - BENEFÍCIOS, AUXÍLIOS E DESP. DE CARÁTER INDENIZATÓRIO - ENSINO MEDIO
+
+12 362 4100 4152
+
+25400108
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 64.290.000,00
+
+R$ 64.290.000,00
+
+R$ 64.290.000,00
+
+FOLHA DE PAGTO DE PROFIS. DA EDUC. - BENEFÍCIOS, AUXÍLIOS E DESP. DE CARÁTER INDENIZATÓRIO - EJA
+
+12 366 4100 4158
+
+25400108
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.680.000,00
+
+R$ 2.680.000,00
+
+R$ 2.680.000,00
+
+FOLHA DE PAGTO DE PROFIS. DA EDUC. - BENEFÍCIOS, AUXÍLIOS E DESP. DE CARÁTER INDENIZATÓRIO - ENS. FUNDAMENTAL
+
+12 361 4100 4150
+
+25400108
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 20.445.318,33
+
+R$ 20.445.318,33
+
+R$ 20.445.318,33
+
+FOLHA DE PAGTO DE PROFIS. DA EDUC. - BENEFÍCIOS, AUXÍLIOS E DESP. DE CARÁTER INDENIZATÓRIO - EDUCACAO ESPECIAL
+
+12 367 4100 4160
+
+25400108
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.680.000,00
+
+R$ 2.680.000,00
+
+R$ 2.680.000,00
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS - BENEFÍCIOS, AUXÍLIOS E DESPESAS DE CARÁTER INDENIZATÓRIO
+
+12 122 4100 4145
+
+25400108
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 32.250.000,00
+
+R$ 32.250.000,00
+
+R$ 32.250.000,00
+
+FOLHA DE PAGTO DE PROFIS. DA EDUC. - BENEFÍCIOS, AUXÍLIOS E DESP. DE CARÁTER INDENIZATÓRIO - ENS. FUNDAMENTAL
+
+12 361 4100 4150
+
+25430108
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 145.654.681,67
+
+R$ 145.654.681,67
+
+R$ 145.654.681,67
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+25400108 - TRANSFERÊNCIAS DO FUNDEB - IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS - EXERCÍCIOS ANTERIORES
+
+R$ 122.345.318,33
+
+25430108 - TRANSFERÊNCIAS DO FUNDEB - COMPLEMENTAÇÃO DA UNIÃO - VAAR - EXERCÍCIOS ANTERIORES
+
+R$ 145.654.681,67
+
+**TOTAL**
+
+R$ 268.000.000,00
+
+**TOTAL POR FONTE**
+
+25400108 - TRANSFERÊNCIAS DO FUNDEB - IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS - EXERCÍCIOS ANTERIORES
+
+R$ 122.345.318,33
+
+25430108 - TRANSFERÊNCIAS DO FUNDEB - COMPLEMENTAÇÃO DA UNIÃO - VAAR - EXERCÍCIOS ANTERIORES
+
+R$ 145.654.681,67
+
+**TOTAL**
+
+R$ 268.000.000,00

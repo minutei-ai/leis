@@ -1,7 +1,3 @@
-1
-
-###DEC-098051-0-000-14-08-1989@@@
-
 DECRETO Nº 98.051, DE 14 DE AGOSTO DE 1989
 
 Cria a Floresta Nacional Mapiá - INAUINI;

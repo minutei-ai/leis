@@ -1,5 +1,3 @@
-###DEC-049250-0-000-17-11-1960@@@
-
 DECRETO Nº 49.250, DE 17 DE NOVEMBRO DE 1960.
 
 Concede à Mineração Austral Limitada  autorização para funcionar como emprêsa de mineração.

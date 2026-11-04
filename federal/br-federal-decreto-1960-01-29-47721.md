@@ -1,5 +1,3 @@
-###DEC-047721-0-000-29-01-1960@@@
-
 DECRETO Nº 47.721, DE 29 DE JANEIRO DE 1960.
 
 Autoriza o cidadão brasileiro José Ayrton de Oliveira a pesquisar quartzo, turmalina e xisto no município de Mogi da Cruzes, Estado de São Paulo.

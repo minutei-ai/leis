@@ -1,5 +1,3 @@
-###DEC-057491-0-000-27-12-1965@@@
-
 DECRETO Nº 57.491, DE 27 DE DEZEMBRO DE 1965.
 
 Prorrogação de Estágio de Serviço de Oficial R2. (Dá nova redação ao Art. 1º, do Decreto nº 55.307, de 30 dezembro de 1964).
@@ -19,8 +17,6 @@ Brasília, 27 de dezembro de 1965; 144º da Independência e 77º da República.
 H. CASTELLO BRANCO
 
 Arthur da Costa e Silva
-
-###DEC-057491-0-000-27-12-1965@@@RET01+++
 
 DECRETO Nº 57.491, DE 27 de Dezembro de 1965.
 

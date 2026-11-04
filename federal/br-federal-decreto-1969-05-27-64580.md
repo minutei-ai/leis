@@ -1,5 +1,3 @@
-###DEC-064580-0-000-27-05-1969@@@
-
 DECRETO Nº 64.580, DE 27 DE MAIO DE 1969.
 
 Declara de utilidade pública o Ginásio Santo Antônio de Jesus com sede em Santo Antônio de Jesus, Estado da Bahia.

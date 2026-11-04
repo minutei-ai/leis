@@ -1,5 +1,3 @@
-###DEC-090211-0-000-24-09-1984@@@
-
 DECRETO Nº 90.211, DE 24 DE SETEMBRO DE 1984
 
 Suspende a execução do inciso III do artigo 111 da Constituição do Estado de São Paulo.

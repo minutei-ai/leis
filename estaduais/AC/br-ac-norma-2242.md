@@ -1,6 +1,10 @@
 > **LEI Nº 3.134, DE 01 DE JUNHO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui a Campanha Saber Comer é Saber Viver, nas escolas da rede pública e privada do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui a Campanha Saber Comer é Saber Viver, nas escolas da rede pública e privada do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

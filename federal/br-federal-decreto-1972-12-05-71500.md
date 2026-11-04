@@ -1,5 +1,3 @@
-###DEC-071500-0-000-05-12-1972@@@
-
 DECRETO Nº 71.500 - DE 5 DE DEZEMBRO DE 1972
 
 Dispõe sobre o Conselho de Disciplina e dá outras providências.

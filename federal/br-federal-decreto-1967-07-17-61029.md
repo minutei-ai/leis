@@ -1,5 +1,3 @@
-###DEC-061029-0-000-17-07-1967@@@
-
 decreto Nº 61.029, DE 17 DE JULHO DE 1967.
 
 Abre ao Ministério da Indústria e do Comércio o Crédito Especial de NCr$107.000,00 (cento e sete mil cruzeiros novos) para cobrar despesas decorrentes de sentenças judiciais.

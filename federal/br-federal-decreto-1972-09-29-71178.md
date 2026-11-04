@@ -1,5 +1,3 @@
-###DEC-071178-0-000-29-09-1972@@@
-
 DECRETO Nº 71.178, DE 29 DE SETEMBRO DE 1972.
 
 Declara de utilidade pública e interesse social, para fins de desapropriação, duas áreas de terra situadas, respectivamente, nos municípios de Itiuba, Estado de Alagoas, e Propriá, Estado de Sergipe, destinadas à implantação de projeto de irrigação.

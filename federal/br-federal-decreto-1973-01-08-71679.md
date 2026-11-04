@@ -1,5 +1,3 @@
-###DEC-071679-0-000-08-01-1973@@@
-
 DECRETO Nº 71.679, DE 8 DE JANEIRO DE 1973.
 
 Concede à Empresa de Mineração Ipatinga Limitada o direito de lavrar minério de ferro no município de Ipatinga, Estado de Minas Gerais.

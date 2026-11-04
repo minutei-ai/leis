@@ -1,5 +1,3 @@
-###DEC-075142-0-000-26-12-1974@@@
-
 DECRETO Nº 75.142, DE 26 DE dezembro DE 1974
 
 Abre a Encargos Gerais da União o crédito de Cr$ 600.000.000,00, para o fim que especifica.

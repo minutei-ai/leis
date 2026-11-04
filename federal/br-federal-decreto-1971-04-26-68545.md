@@ -1,5 +1,3 @@
-###DEC-068545-0-000-26-04-1971@@@
-
 DECRETO Nº 68.545, DE 26 DE ABRIL de 1971.
 
 Reconhecimento da Faculdade de Medicina do Norte do Paraná, PR.

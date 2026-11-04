@@ -1,5 +1,3 @@
-###DEC-091891-0-000-06-11-1985@@@
-
 Decreto nº 91.891, de 06 de novembro de 1985
 
 Autoriza a funcionamento dos cursos de Fisioterapia e de Terapia Ocupacional da Faculdade de Ciências da Saúde, de Joinville, Santa Catarina.

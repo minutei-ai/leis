@@ -1,5 +1,3 @@
-###DEC-077816-0-000-15-06-1976@@@
-
 Decreto nº 77.816, de 15 de junho de 1976.
 
 Concede reconhecimento ao curso de Engenharia Civil da Universidade Federal do Rio Grande do Norte, com sede na Cidade de Natal, Estado do Rio Grande do Norte.

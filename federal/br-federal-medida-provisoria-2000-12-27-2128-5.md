@@ -1,5 +1,3 @@
-###MPV-002128-0-005-27-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2128-5, DE 27 DE DEZEMBRO DE 2000.
 
 Altera a legislação do imposto sobre a renda no que se refere aos incentivos fiscais de isenção e de redução, define diretrizes para os incentivos fiscais de aplicação de parcela do imposto sobre a renda nos Fundos de Investimentos Regionais, e dá outras providências.

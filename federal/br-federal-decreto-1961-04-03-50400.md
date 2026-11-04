@@ -1,5 +1,3 @@
-###DEC-050400-0-000-03-04-1961@@@
-
 DECRETO Nº 50.400, DE 3 DE ABRIL DE 1961.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Inhumas, Estado de Goiás.

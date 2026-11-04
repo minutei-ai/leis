@@ -1,5 +1,3 @@
-###DEC-097433-0-000-05-01-1989@@@
-
 DECRETO N° 97.433, DE 6 DE JANEIRO DE 1989
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade Jiparanaense de Ciências Contábeis, em Ji-Paraná, Estado de Rondônia.

@@ -1,5 +1,3 @@
-###DEL-009261-0-000-16-05-1946@@@
-
 DECRETO-LEI N. 9.261 – DE 16 DE MAIO DE 1946
 
 Concede a patente do pôsto de General de Divisão honorário do Exército Brasileiro ao Tenente General do Exército Norte-Americano Willis D. Crittenberger.

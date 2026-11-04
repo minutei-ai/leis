@@ -1,5 +1,3 @@
-###DEL-003512-0-000-15-08-1941@@@
-
 DECRETO-LEI N. 3.512 – DE 15 DE AGOSTO DE 1941
 
 Autoriza a Prefeitura do Distrito Federal a ceder o domínio útil de área de terreno que menciona.

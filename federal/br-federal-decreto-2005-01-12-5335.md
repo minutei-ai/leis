@@ -1,5 +1,3 @@
-###DEC-005335-0-000-12-01-2005@@@
-
 DECRETO Nº 5.335 DE 12 DE JANEIRO DE 2005
 
 Dá nova redação a alínea "a" do inciso II do art. 4º do Decreto nº 3.998, de 5 de novembro de 2001, que regulamenta, para o Exército, a Lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos Oficiais da Ativa das Forças Armadas.

@@ -1,5 +1,3 @@
-###DEC-007717-0-000-04-04-2012-PUB-01@@@
-
 DECRETO N° 7.717, DE 4 DE ABRIL DE 2012
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e  das Funções Gratificadas do Ministério dos Transportes.

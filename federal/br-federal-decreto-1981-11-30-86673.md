@@ -1,5 +1,3 @@
-###DEC-086673-0-000-30-11-1981@@@
-
 Decreto nº 86.673, de 30 de novembro de 1981
 
 Autoriza o aumento de potência da RÁDIO VALE DO RIO TIETÊ LTDA., na cidade de José Bonifácio, Estado de São Paulo.

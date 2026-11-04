@@ -1,5 +1,3 @@
-###DEC-059990-0-000-10-01-1967@@@
-
 decreto nº 59.990, de 10 de janeiro de 1967.
 
 Autoriza o cidadão brasileiro Urias Soares de Moraes a pesquisar águas mineral, no município de Fortaleza de Minas, Estado de Minas Gerais.

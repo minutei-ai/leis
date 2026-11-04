@@ -1,5 +1,3 @@
-###DEL-003305-0-000-23-05-1941@@@
-
 DECRETO-LEI N. 3.305 – DE 23 DE MAIO DE 1941
 
 Prorroga os vencimentos de dívidas no Estado do Rio Grande do Sul

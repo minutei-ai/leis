@@ -1,5 +1,3 @@
-###DEL-005188-0-000-13-01-1943@@@
-
 DECRETO N. 5.188 – DE 13 DE JANEIRO DO 1943
 
 Releva penas cominadas no legislação do Instituto Nacional do Sal e dá outras providências

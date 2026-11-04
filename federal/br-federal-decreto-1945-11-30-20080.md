@@ -1,24 +1,22 @@
-###DEC-020080-0-000-30-11-1945@@@
+**DECRETO Nº 20.080, DE 30 DE NOVEMBRO DE 1945.**
 
-<strong>DECRETO Nº 20.080, DE 30 DE NOVEMBRO DE 1945.</strong>
+***Assegura à Rádio Sociedade Farroupilha Limitada o direito de estabelecer uma estação radiodifusora na cidade de Pôrto Alegre, Estado do Rio Grande do Sul.***
 
-<em><strong>Assegura à Rádio Sociedade Farroupilha Limitada o direito de estabelecer uma estação radiodifusora na cidade de Pôrto Alegre, Estado do Rio Grande do Sul.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição e tendo em vista o disposto no artigo 11 do Decreto nº 24.555, de 12 de julho de 1934, e artigo único do Decreto nº 19.966, de 19 de novembro de 1945,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição e tendo em vista o disposto no artigo 11 do Decreto nº 24.555, de 12 de julho de 1934, e artigo único do Decreto nº 19.966, de 19 de novembro de 1945,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica assegurado à Rádio Sociedade Farroupilha Limitada o direito de estabelecer, na cidade de Pôrto Alegre, Estado do Rio Grande do Sul, sem direito de exclusividade, uma estação destinada a executar o serviço de radiodifusão, nos têrmos das cláusulas que com êste baixam, assinadas pelo Ministro da Viação e Obras Públicas.
 
-Parágrafo único. O contrato decorrente desta concessão deverá ser assinado dentro do prazo de 30 dias, a contar da data da publicação dêste decreto no <em>Diário</em> <em>Oficial</em>, sob pena de ser desde logo considerada nula a concessão.
+Parágrafo único. O contrato decorrente desta concessão deverá ser assinado dentro do prazo de 30 dias, a contar da data da publicação dêste decreto no *DiárioOficial*, sob pena de ser desde logo considerada nula a concessão.
 
 Rio de Janeiro, 30 de novembro de 1945; 124º da Independência e 57º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Mauricio Joppert da Silva
 
-<strong>CLAUSULAS A QUE SE REFERE O DECRETO Nº 20.080, DESTA DATA</strong>
+**CLAUSULAS A QUE SE REFERE O DECRETO Nº 20.080, DESTA DATA**
 
 I
 
@@ -80,7 +78,7 @@ VII
 
 Pela inobservância de qualquer das presentes cláusulas, em que não esteja prevista a imediata caducidade da concessão, o Govêrno poderá, pelo órgão fiscalizador, impor à concessionária multa de Cr$100,00 (cem cruzeiros) a Cr$5.000,00 (cinco mil cruzeiros), conforme a gravidade da infração.
 
-Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias, a contar da data da notificação feita diretamente à concessionária ou da publicação do ato no <em>Diário</em> Oficial.
+Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias, a contar da data da notificação feita diretamente à concessionária ou da publicação do ato no *Diário* Oficial.
 
 VIII
 
@@ -90,7 +88,7 @@ IX
 
 A concessão será considerada caduca, para tôdos os efeitos, sem direito a qualquer indenização;
 
-a) se, em todo o tempo, fôr verificada inobservância dos disposições contidas nas alíneas <em>a</em>, <em>b</em>, <em>c</em>, <em>d</em>, <em>i</em>, (<em>in</em> <em>fine</em>) <em>j</em>, <em>k</em>, e <em>l</em>, da cláusula quarta;
+a) se, em todo o tempo, fôr verificada inobservância dos disposições contidas nas alíneas *a*, *b*, *c*, *d*, *i*, (*infine*) *j*, *k*, e *l*, da cláusula quarta;
 
 b) se não forem pagas, dentro dos prazos estabelecidos a cota e contribuições a que se refere a alínea e da cláusula quarta, bem como a importância de qualquer multa imposta nos têrmos da cláusula sétima;
 
@@ -106,4 +104,4 @@ b) se a concessionária incidir reiteradamente em infrações passíveis de mult
 
 Rio de Janeiro, 30 de novembro de 1945.
 
-<strong>MAURÍCIO JOPPERT DA SILVA</strong>
+**MAURÍCIO JOPPERT DA SILVA**

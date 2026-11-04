@@ -1,5 +1,3 @@
-###DEC-060962-0-000-07-07-1967@@@
-
 DECRETO Nº 60.962, DE 7 DE JULHO DE 1967.
 
 Declara de utilidade pública o “Ginásio Nossa Senhora do Brasil”, com sede em Colatina, Estado do Espirito Santo.

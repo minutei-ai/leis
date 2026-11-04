@@ -1,5 +1,3 @@
-###DEL-009016-0-000-23-02-1946@@@
-
 DECRETO-LEI N. 9.016 – DE 23 DE FEVEREIRO DE 1946
 
 Dispõe sôbre inspeções de saúde dos funcionários civis do Ministério da Guerra e dá outras providências.

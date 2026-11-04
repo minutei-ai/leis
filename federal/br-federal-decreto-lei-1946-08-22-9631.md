@@ -1,5 +1,3 @@
-###DEL-009631-0-000-22-08-1946@@@
-
 DECRETO-LEI N. 9.631 – DE 22 DE AGÔSTO DE 1946
 
 Dispõe sôbre o aproveitamento no serviço ativo da F.A.B. de Oficiais Subalternos da Reserva de 2ª Classe da Aeronáutica.

@@ -1,5 +1,3 @@
-###DEC-070462-0-000-26-04-1972@@@
-
 Decreto nº 70.462, de 26 de abril de 1972.
 
 Revoga o Decreto nº 10.482, de 24 de setembro de 1942, outorga concessão e dá outras providências.

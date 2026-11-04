@@ -1,5 +1,3 @@
-###DEC-048408-0-000-23-06-1960@@@
-
 DECRETO Nº 48.408, DE 23 DE JUNHO DE 1960.
 
 Concede autorização à Cooperativa União de Crédito Popular, com sede Capital do Estado de São Paulo, para alterar o seu estatuto social.

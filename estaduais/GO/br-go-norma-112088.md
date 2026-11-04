@@ -16,40 +16,412 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2351</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 2.838.301,56</td><td style=" width:85px;    ">R$ 2.838.301,56</td></tr><tr><td style=" width:85px;    ">FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2352</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 31.016,13</td><td style=" width:85px;    ">R$ 1.254.182,04</td><td style=" width:85px;    ">R$ 1.285.198,17</td></tr></tbody></table>
+**2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1702 - ENCARGOS FINANCEIROS DO ESTADO</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">CONTRIBUIÇÕES AO PASEP</td><td style=" width:85px;    ">28 846 0100 7102</td><td style=" width:85px;    ">17090000</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>3051-FUNDO ESTADUAL DE ASSISTÊNCIA SOCIAL - FEAS</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">FORTALECIMENTO DO CONTROLE SOCIAL (CONSELHO DE ASSISTÊNCIA SOCIAL)</td><td style=" width:85px;    ">08 122 1040 2579</td><td style=" width:85px;    ">16600234</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.625,00</td><td style=" width:85px;    ">R$ 60.000,00</td><td style=" width:85px;    ">R$ 61.625,00</td></tr><tr><td style=" width:85px;    ">SERVIÇOS DO BLOCO DE GESTÃO DO PROGRAMA BOLSA FAMÍLIA E CADASTRO ÚNICO</td><td style=" width:85px;    ">08 122 1040 2574</td><td style=" width:85px;    ">16600234</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 2.000,00</td><td style=" width:85px;    ">R$ 2.000,00</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">16600234 - TRANSFERÊNCIA DE RECURSOS DO FUNDO NACIONAL DE ASSISTÊNCIA SOCIAL - FNAS - CORRENTES</td><td style=" width:340px;  height:19px;   ">R$ 62.000,00</td></tr><tr><td style=" width:340px;    ">17090000 - TRANSFERÊNCIA DA UNIÃO REFERENTE À&nbsp; COMPENSAÇÃO FINANCEIRA DE RECURSOS HÍDRICOS</td><td style=" width:340px;    ">R$ 10.000,00</td></tr><tr><td style=" width:340px;    ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;    ">R$ 4.092.483,60</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 4.164.483,60</td></tr></tbody></table>
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA
+
+06 181 1051 2351
+
+17530161
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 2.838.301,56
+
+R$ 2.838.301,56
+
+FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA
+
+06 181 1051 2352
+
+17530161
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 31.016,13
+
+R$ 1.254.182,04
+
+R$ 1.285.198,17
+
+**1700 - SECRETARIA DE ESTADO DA ECONOMIA**
+1702 - ENCARGOS FINANCEIROS DO ESTADO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+CONTRIBUIÇÕES AO PASEP
+
+28 846 0100 7102
+
+17090000
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+**3051-FUNDO ESTADUAL DE ASSISTÊNCIA SOCIAL - FEAS**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+FORTALECIMENTO DO CONTROLE SOCIAL (CONSELHO DE ASSISTÊNCIA SOCIAL)
+
+08 122 1040 2579
+
+16600234
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.625,00
+
+R$ 60.000,00
+
+R$ 61.625,00
+
+SERVIÇOS DO BLOCO DE GESTÃO DO PROGRAMA BOLSA FAMÍLIA E CADASTRO ÚNICO
+
+08 122 1040 2574
+
+16600234
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 0,00
+
+R$ 2.000,00
+
+R$ 2.000,00
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+16600234 - TRANSFERÊNCIA DE RECURSOS DO FUNDO NACIONAL DE ASSISTÊNCIA SOCIAL - FNAS - CORRENTES
+
+R$ 62.000,00
+
+17090000 - TRANSFERÊNCIA DA UNIÃO REFERENTE À  COMPENSAÇÃO FINANCEIRA DE RECURSOS HÍDRICOS
+
+R$ 10.000,00
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 4.092.483,60
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 4.164.483,60
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP</b></td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">ESTRUTURAÇÃO, OPERACIONALIZAÇÃO E MODERNIZAÇÃO DO SISTEMA DE INTELIGÊNCIA DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 183 1051 3179</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 6.764,01</td><td style=" width:85px;    ">R$ 6.764,01</td><td style=" width:85px;    ">R$ 6.764,01</td></tr><tr><td style=" width:85px;    ">ESTRUTURAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 3178</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 348.392,98</td><td style=" width:85px;    ">R$ 348.392,98</td><td style=" width:85px;    ">R$ 348.392,98</td></tr><tr><td style=" width:85px;    ">FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 2352</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.991.524,66</td><td style=" width:85px;    ">R$ 1.879.922,00</td><td style=" width:85px;    ">R$ 1.879.922,00</td></tr><tr><td style=" width:85px;    ">CONTRIBUIÇÕES AO PASEP</td><td style=" width:85px;    ">28 846 0100 7102</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 544.548,57</td><td style=" width:85px;    ">R$ 300.000,00</td><td style=" width:85px;    ">R$ 300.000,00</td></tr><tr><td style=" width:85px;    ">ESTRUTURAÇÃO, OPERACIONALIZAÇÃO E MODERNIZAÇÃO DO SISTEMA DE INTELIGÊNCIA DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 183 1051 3179</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 17.670,00</td><td style=" width:85px;    ">R$ 17.670,00</td><td style=" width:85px;    ">R$ 17.670,00</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">06 122 4200 4243</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.539.734,61</td><td style=" width:85px;    ">R$ 1.539.734,61</td><td style=" width:85px;    ">R$ 1.539.734,61</td></tr></tbody></table>
+**2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1704 - ENCARGOS ESPECIAIS</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">ENCARGOS JUDICIÁRIOS</td><td style=" width:85px;    ">28 846 0100 7105</td><td style=" width:85px;    ">17090000</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 28.142.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>3051-FUNDO ESTADUAL DE ASSISTÊNCIA SOCIAL - FEAS</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">SERVIÇOS DO BLOCO DE GESTÃO DO SUAS - (IGD-SUAS)</td><td style=" width:85px;    ">08 122 1040 2573</td><td style=" width:85px;    ">16600234</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 50.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO ADMINISTRATIVA DO FUNDO DE ASSISTÊNCIA SOCIAL</td><td style=" width:85px;    ">08 122 1040 2572</td><td style=" width:85px;    ">16600234</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 50.000,00</td><td style=" width:85px;    ">R$ 50.000,00</td><td style=" width:85px;    ">R$ 50.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO ADMINISTRATIVA DO FUNDO DE ASSISTÊNCIA SOCIAL</td><td style=" width:85px;    ">08 122 1040 2572</td><td style=" width:85px;    ">16600234</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 8.000,00</td><td style=" width:85px;    ">R$ 2.000,00</td><td style=" width:85px;    ">R$ 2.000,00</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">16600234 - TRANSFERÊNCIA DE RECURSOS DO FUNDO NACIONAL DE ASSISTÊNCIA SOCIAL - FNAS - CORRENTES</td><td style=" width:340px;  height:19px;   ">R$ 62.000,00</td></tr><tr><td style=" width:340px;    ">17090000 - TRANSFERÊNCIA DA UNIÃO REFERENTE À&nbsp; COMPENSAÇÃO FINANCEIRA DE RECURSOS HÍDRICOS</td><td style=" width:340px;    ">R$ 10.000,00</td></tr><tr><td style=" width:340px;    ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;    ">R$ 4.092.483,60</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 4.164.483,60</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">16600234 - TRANSFERÊNCIA DE RECURSOS DO FUNDO NACIONAL DE ASSISTÊNCIA SOCIAL - FNAS - CORRENTES</td><td style=" width:340px;  height:19px;   ">R$ 62.000,00</td></tr><tr><td style=" width:340px;    ">17090000 - TRANSFERÊNCIA DA UNIÃO REFERENTE À&nbsp; COMPENSAÇÃO FINANCEIRA DE RECURSOS HÍDRICOS</td><td style=" width:340px;    ">R$ 10.000,00</td></tr><tr><td style=" width:340px;    ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;    ">R$ 4.092.483,60</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 4.164.483,60</td></tr></tbody></table>
+**VALOR A REDUZIR**
+
+ESTRUTURAÇÃO, OPERACIONALIZAÇÃO E MODERNIZAÇÃO DO SISTEMA DE INTELIGÊNCIA DE SEGURANÇA PÚBLICA
+
+06 183 1051 3179
+
+17530161
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 6.764,01
+
+R$ 6.764,01
+
+R$ 6.764,01
+
+ESTRUTURAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA
+
+06 181 1051 3178
+
+17530161
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 348.392,98
+
+R$ 348.392,98
+
+R$ 348.392,98
+
+FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA
+
+06 181 1051 2352
+
+17530161
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.991.524,66
+
+R$ 1.879.922,00
+
+R$ 1.879.922,00
+
+CONTRIBUIÇÕES AO PASEP
+
+28 846 0100 7102
+
+17530161
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 544.548,57
+
+R$ 300.000,00
+
+R$ 300.000,00
+
+ESTRUTURAÇÃO, OPERACIONALIZAÇÃO E MODERNIZAÇÃO DO SISTEMA DE INTELIGÊNCIA DE SEGURANÇA PÚBLICA
+
+06 183 1051 3179
+
+17530161
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 17.670,00
+
+R$ 17.670,00
+
+R$ 17.670,00
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+06 122 4200 4243
+
+17530161
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.539.734,61
+
+R$ 1.539.734,61
+
+R$ 1.539.734,61
+
+**1700 - SECRETARIA DE ESTADO DA ECONOMIA**
+1704 - ENCARGOS ESPECIAIS
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+ENCARGOS JUDICIÁRIOS
+
+28 846 0100 7105
+
+17090000
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 28.142.000,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+**3051-FUNDO ESTADUAL DE ASSISTÊNCIA SOCIAL - FEAS**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+SERVIÇOS DO BLOCO DE GESTÃO DO SUAS - (IGD-SUAS)
+
+08 122 1040 2573
+
+16600234
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 50.000,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+GESTÃO ADMINISTRATIVA DO FUNDO DE ASSISTÊNCIA SOCIAL
+
+08 122 1040 2572
+
+16600234
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 50.000,00
+
+R$ 50.000,00
+
+R$ 50.000,00
+
+GESTÃO ADMINISTRATIVA DO FUNDO DE ASSISTÊNCIA SOCIAL
+
+08 122 1040 2572
+
+16600234
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 8.000,00
+
+R$ 2.000,00
+
+R$ 2.000,00
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+16600234 - TRANSFERÊNCIA DE RECURSOS DO FUNDO NACIONAL DE ASSISTÊNCIA SOCIAL - FNAS - CORRENTES
+
+R$ 62.000,00
+
+17090000 - TRANSFERÊNCIA DA UNIÃO REFERENTE À  COMPENSAÇÃO FINANCEIRA DE RECURSOS HÍDRICOS
+
+R$ 10.000,00
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 4.092.483,60
+
+**TOTAL**
+
+R$ 4.164.483,60
+
+**TOTAL POR FONTE**
+
+16600234 - TRANSFERÊNCIA DE RECURSOS DO FUNDO NACIONAL DE ASSISTÊNCIA SOCIAL - FNAS - CORRENTES
+
+R$ 62.000,00
+
+17090000 - TRANSFERÊNCIA DA UNIÃO REFERENTE À  COMPENSAÇÃO FINANCEIRA DE RECURSOS HÍDRICOS
+
+R$ 10.000,00
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 4.092.483,60
+
+**TOTAL**
+
+R$ 4.164.483,60

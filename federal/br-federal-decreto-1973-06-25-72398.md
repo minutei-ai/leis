@@ -1,5 +1,3 @@
-###DEC-072398-0-000-25-06-1973@@@
-
 DECRETO nº 72.398, DE 25 DE JUNHO DE 1973.
 
 Torna sem efeito aproveitamentos de disponíveis do Quadro Único de Pessoal da Universidade Federal do Rio de Janeiro e dá outras providências.

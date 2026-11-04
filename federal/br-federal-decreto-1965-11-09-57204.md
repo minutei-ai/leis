@@ -1,5 +1,3 @@
-###DEC-057204-0-000-09-11-1965@@@
-
 DECRETO Nº 57.204, DE 9 DE NOVEMBRO DE 1965
 
 Concede à Emprêsa de Mineração Nossa Senhora da Aparecida Limitada autorização para funcionar como emprêsa de mineração.

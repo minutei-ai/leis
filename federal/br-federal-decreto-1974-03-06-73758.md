@@ -1,5 +1,3 @@
-###DEC-073758-0-000-06-03-1974@@@
-
 DECRETO Nº 73.758, DE 6 DE MARÇO DE 1974.
 
 Autoriza estrangeiros a adquirirem direitos sobre sob os terrenos que menciona.

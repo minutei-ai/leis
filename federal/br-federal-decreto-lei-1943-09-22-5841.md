@@ -1,5 +1,3 @@
-###DEL-005841-0-000-22-09-1943@@@
-
 DECRETO‑LEI N. 5.841 – DE 22 DE SETEMBRO DE 1943
 
 cria, no Ministério da Fazenda, a  Administração do Edifício da Fazenda, e dá outras providências

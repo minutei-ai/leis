@@ -1,5 +1,3 @@
-###DEC-071805-0-000-05-02-1973@@@
-
 DECRETO Nº 71.805, DE 5 DE FEVEREIRO DE 1973.
 
 Autoriza a transferência direta, para a Fundação Cultural Riograndense, da concessão outorgada à Rádio São Francisco Ltda.

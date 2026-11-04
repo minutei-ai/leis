@@ -1,5 +1,3 @@
-###DEC-093328-0-000-02-10-1986@@@
-
 DECRETO Nº 93.328, DE 2 DE OUTUBRO DE 1986.
 
 Cria Funções de Assessoramento Superior (FAS), para o Ministério da Justiça, e dá outras providências.

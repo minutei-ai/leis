@@ -118,4 +118,140 @@ ANEXO ÚNICO
 
 CARGOS EM COMISSÃO DA SECRETARIA DA CULTURA E TURISMO - SCT
 
-<table style="width: 6.2in; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0in 3.5pt 0in 3.5pt;" width="595" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 258.5pt; border-top: solid black .5pt; border-left: none; border-bottom: solid black .5pt; border-right: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="345"><p class="Tabela-Texto"><span>CARGO</span></p></td><td style="width: 92.3pt; border-top: solid black .5pt; border-left: none; border-bottom: solid black .5pt; border-right: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="123"><p class="Tabela-Texto"><span>SÍMBOLO</span></p></td><td style="width: 95.6pt; border-top: solid black .5pt; border-left: none; border-bottom: solid black .5pt; border-right: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="127"><p class="Tabela-Texto"><span>QUANTIDADE</span></p></td></tr><tr><td style="width: 258.5pt; border: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="345"><p class="Tabela-Texto"><span>Chefe de Gabinete</span></p></td><td style="width: 92.3pt; border: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="123"><p class="Tabela-Texto"><span>DAS-2A</span></p></td><td style="width: 95.6pt; border: none; mso-border-top-alt: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="127"><p class="Tabela-Texto"><span>01</span></p></td></tr><tr><td style="width: 258.5pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="345"><p class="Tabela-Texto"><span>Superintendente</span></p></td><td style="width: 92.3pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="123"><p class="Tabela-Texto"><span>DAS-2A</span></p></td><td style="width: 95.6pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="127"><p class="Tabela-Texto"><span>03</span></p></td></tr><tr><td style="width: 258.5pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="345"><p class="Tabela-Texto"><span>Diretor Geral</span></p></td><td style="width: 92.3pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="123"><p class="Tabela-Texto"><span>DAS-2B</span></p></td><td style="width: 95.6pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="127"><p class="Tabela-Texto"><span>01</span></p></td></tr><tr><td style="width: 258.5pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="345"><p class="Tabela-Texto"><span>Assessor Especial</span></p></td><td style="width: 92.3pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="123"><p class="Tabela-Texto"><span>DAS-2C</span></p></td><td style="width: 95.6pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="127"><p class="Tabela-Texto"><span>03</span></p></td></tr><tr><td style="width: 258.5pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="345"><p class="Tabela-Texto"><span>Diretor</span></p></td><td style="width: 92.3pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="123"><p class="Tabela-Texto"><span>DAS-2C</span></p></td><td style="width: 95.6pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="127"><p class="Tabela-Texto"><span>12</span></p></td></tr><tr><td style="width: 258.5pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="345"><p class="Tabela-Texto"><span>Coordenador I</span></p></td><td style="width: 92.3pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="123"><p class="Tabela-Texto"><span>DAS-2C</span></p></td><td style="width: 95.6pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="127"><p class="Tabela-Texto"><span>02</span></p></td></tr><tr><td style="width: 258.5pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="345"><p class="Tabela-Texto"><span>Assessor Técnico</span></p></td><td style="width: 92.3pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="123"><p class="Tabela-Texto"><span>DAS-3</span></p></td><td style="width: 95.6pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="127"><p class="Tabela-Texto"><span>08</span></p></td></tr><tr><td style="width: 258.5pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="345"><p class="Tabela-Texto"><span>Assessor de Comunicação Social I</span></p></td><td style="width: 92.3pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="123"><p class="Tabela-Texto"><span>DAS-3</span></p></td><td style="width: 95.6pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="127"><p class="Tabela-Texto"><span>01</span></p></td></tr><tr><td style="width: 258.5pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="345"><p class="Tabela-Texto"><span>Secretário de Gabinete</span></p></td><td style="width: 92.3pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="123"><p class="Tabela-Texto"><span>DAS-3</span></p></td><td style="width: 95.6pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="127"><p class="Tabela-Texto"><span>01</span></p></td></tr><tr><td style="width: 258.5pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="345"><p class="Tabela-Texto"><span>Coordenador II</span></p></td><td style="width: 92.3pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="123"><p class="Tabela-Texto"><span>DAS-3</span></p></td><td style="width: 95.6pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="127"><p class="Tabela-Texto"><span>24</span></p></td></tr><tr><td style="width: 258.5pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="345"><p class="Tabela-Texto"><span>Assistente de Conselho I</span></p></td><td style="width: 92.3pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="123"><p class="Tabela-Texto"><span>DAS-3</span></p></td><td style="width: 95.6pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="127"><p class="Tabela-Texto"><span>01</span></p></td></tr><tr><td style="width: 258.5pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="345"><p class="Tabela-Texto"><span>Assessor Administrativo</span></p></td><td style="width: 92.3pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="123"><p class="Tabela-Texto"><span>DAI-4</span></p></td><td style="width: 95.6pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="127"><p class="Tabela-Texto"><span>05</span></p></td></tr><tr><td style="width: 258.5pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="345"><p class="Tabela-Texto"><span>Assistente Orçamentário</span></p></td><td style="width: 92.3pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="123"><p class="Tabela-Texto"><span>DAI-4</span></p></td><td style="width: 95.6pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="127"><p class="Tabela-Texto"><span>04</span></p></td></tr><tr><td style="width: 258.5pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="345"><p class="Tabela-Texto"><span>Coordenador III</span></p></td><td style="width: 92.3pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="123"><p class="Tabela-Texto"><span>DAI-4</span></p></td><td style="width: 95.6pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="127"><p class="Tabela-Texto"><span>08</span></p></td></tr><tr><td style="width: 258.5pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="345"><p class="Tabela-Texto"><span>Secretário de Câmara</span></p></td><td style="width: 92.3pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="123"><p class="Tabela-Texto"><span>DAI-5</span></p></td><td style="width: 95.6pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="127"><p class="Tabela-Texto"><span>04</span></p></td></tr><tr><td style="width: 258.5pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="345"><p class="Tabela-Texto"><span>Secretário de Comissão</span></p></td><td style="width: 92.3pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="123"><p class="Tabela-Texto"><span>DAI-5</span></p></td><td style="width: 95.6pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="127"><p class="Tabela-Texto"><span>01</span></p></td></tr><tr><td style="width: 258.5pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="345"><p class="Tabela-Texto"><span>Assistente IV</span></p></td><td style="width: 92.3pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="123"><p class="Tabela-Texto"><span>DAI-5</span></p></td><td style="width: 95.6pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="127"><p class="Tabela-Texto"><span>02</span></p></td></tr><tr><td style="width: 258.5pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="345"><p class="Tabela-Texto"><span>Oficial de Gabinete</span></p></td><td style="width: 92.3pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="123"><p class="Tabela-Texto"><span>DAI-5</span></p></td><td style="width: 95.6pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="127"><p class="Tabela-Texto"><span>02</span></p></td></tr><tr><td style="width: 258.5pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="345"><p class="Tabela-Texto"><span>Coordenador IV</span></p></td><td style="width: 92.3pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="123"><p class="Tabela-Texto"><span>DAI-5</span></p></td><td style="width: 95.6pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="127"><p class="Tabela-Texto"><span>16</span></p></td></tr><tr><td style="width: 258.5pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="345"><p class="Tabela-Texto"><span>Secretário Administrativo I</span></p></td><td style="width: 92.3pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="123"><p class="Tabela-Texto"><span>DAI-5</span></p></td><td style="width: 95.6pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="127"><p class="Tabela-Texto"><span>05</span></p></td></tr><tr><td style="width: 258.5pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="345"><p class="Tabela-Texto"><span>Assistente de Execução Orçamentária</span></p></td><td style="width: 92.3pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="123"><p class="Tabela-Texto"><span>DAI-5</span></p></td><td style="width: 95.6pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="127"><p class="Tabela-Texto"><span>03</span></p></td></tr><tr><td style="width: 258.5pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="345"><p class="Tabela-Texto"><span>Secretário Administrativo II</span></p></td><td style="width: 92.3pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="123"><p class="Tabela-Texto"><span>DAI-6</span></p></td><td style="width: 95.6pt; border: none; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="127"><p class="Tabela-Texto"><span>12</span></p></td></tr><tr><td style="width: 258.5pt; border: none; border-bottom: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="345">&nbsp;</td><td style="width: 92.3pt; border: none; border-bottom: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="123">&nbsp;</td><td style="width: 95.6pt; border: none; border-bottom: solid black .5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="127">&nbsp;</td></tr></tbody></table>
+CARGO
+
+SÍMBOLO
+
+QUANTIDADE
+
+Chefe de Gabinete
+
+DAS-2A
+
+01
+
+Superintendente
+
+DAS-2A
+
+03
+
+Diretor Geral
+
+DAS-2B
+
+01
+
+Assessor Especial
+
+DAS-2C
+
+03
+
+Diretor
+
+DAS-2C
+
+12
+
+Coordenador I
+
+DAS-2C
+
+02
+
+Assessor Técnico
+
+DAS-3
+
+08
+
+Assessor de Comunicação Social I
+
+DAS-3
+
+01
+
+Secretário de Gabinete
+
+DAS-3
+
+01
+
+Coordenador II
+
+DAS-3
+
+24
+
+Assistente de Conselho I
+
+DAS-3
+
+01
+
+Assessor Administrativo
+
+DAI-4
+
+05
+
+Assistente Orçamentário
+
+DAI-4
+
+04
+
+Coordenador III
+
+DAI-4
+
+08
+
+Secretário de Câmara
+
+DAI-5
+
+04
+
+Secretário de Comissão
+
+DAI-5
+
+01
+
+Assistente IV
+
+DAI-5
+
+02
+
+Oficial de Gabinete
+
+DAI-5
+
+02
+
+Coordenador IV
+
+DAI-5
+
+16
+
+Secretário Administrativo I
+
+DAI-5
+
+05
+
+Assistente de Execução Orçamentária
+
+DAI-5
+
+03
+
+Secretário Administrativo II
+
+DAI-6
+
+12

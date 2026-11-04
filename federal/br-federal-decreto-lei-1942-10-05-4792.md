@@ -1,5 +1,3 @@
-###DEL-004792-0-000-05-10-1942@@@
-
 DECRETO-LEI N. 4.792 – DE 5 DE OUTUBRO DE 1942
 
 Restringe a faculdade emissora do Tesouro e amplia as atribuições da Carteira de Redesconto

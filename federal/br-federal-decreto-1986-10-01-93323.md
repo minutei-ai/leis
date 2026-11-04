@@ -1,5 +1,3 @@
-###DEC-093323-0-000-01-10-1986@@@
-
 DECRETO Nº 93.323, DE 1 DE OUTUBRO DE 1986.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Hipólito", situado no Município de Mossoró, no Estado do Rio Grande do Norte, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.681, de 19 de maio de 1986, e dá outras providências.

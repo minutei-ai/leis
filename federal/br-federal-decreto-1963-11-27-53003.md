@@ -1,5 +1,3 @@
-###DEC-053003-0-000-27-11-1963@@@
-
 DECRETO N.º 53.003, DE 27 DE NOVEMBRO DE 1963.
 
 Retifica o art. 1º do Decreto número 35.747, de 30 de junho de 1954.

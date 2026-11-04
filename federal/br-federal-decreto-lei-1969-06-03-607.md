@@ -1,5 +1,3 @@
-###DEL-000607-0-000-03-06-1969@@@
-
 DECRETO-LEI Nº 607, DE 3 DE JUNHO DE 1969
 
 Prorroga o prazo de validade da Lei nº 4.331, de 1 de junho de 1964.

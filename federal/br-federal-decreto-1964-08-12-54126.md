@@ -1,5 +1,3 @@
-###DEC-054126-0-000-12-08-1964@@@
-
 DECRETO Nº 54.126, DE 12 DE AGÔSTO DE 1964.
 
 Concede reconhecimento ao Curso de Ciências Sociais da Faculdade de Filosofia, Ciências e Letras “Sedes Sapientiae”, de São Paulo, Estado de São Paulo.

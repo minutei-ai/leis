@@ -1,5 +1,3 @@
-###DEC-049117-0-000-13-10-1960@@@
-
 DECRETO Nº 49.117, DE 13 DE OUTUBRO DE 1960.
 
 Altera o Decreto nº 48.460, de 4 de julho de 1960. (Cria a caravana brasileira e dá outras providências)

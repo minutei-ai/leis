@@ -1,5 +1,3 @@
-###DEC-089682-0-000-17-05-1984@@@
-
 Decreto nº 89.682 dE17 de maIo DE 1984.
 
 Designa Comissão Nacional para programa e coordenar as comemorações do V Centenário do Descobrimento da América e dá outras providências.

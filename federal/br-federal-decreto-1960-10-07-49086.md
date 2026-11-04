@@ -1,5 +1,3 @@
-###DEC-049086-0-000-07-10-1960@@@
-
 DECRETO N.º 49.086, DE 7 DE OUTUBRO DE 1960.
 
 Transfere da Companhia de Eletricidade São Simão-Cajuru para a Companhia Paulista de Força e Luz a concessão para distribuição de energia elétrica, nos municípios de São Simão, Cajuru, Serra Azul, Santa Rosa do Viterbo, Luiz Antônio e Cássia dos Coqueiros, no Estado de São Paulo.

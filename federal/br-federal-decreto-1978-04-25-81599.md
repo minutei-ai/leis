@@ -1,5 +1,3 @@
-###DEC-081599-0-000-25-04-1978@@@
-
 Decreto nº 81.599, de 25 de abril de 1978.
 
 Altera dispositivos do Decreto nº 62 860, de 18 de junho de 1968, que estabelece a Estrutura Básica da Organização do Ministério da Marinha, e aprova novo Regulamento para o Comando de Operações Navais.

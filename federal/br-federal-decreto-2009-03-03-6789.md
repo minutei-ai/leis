@@ -1,5 +1,3 @@
-###DEC-006789-0-000-03-03-2009@@@
-
 DECRETO Nº 6.789, DE 3 DE MARÇO DE 2009.
 
 Institui a Medalha Mérito Aeroterrestre, e dá outras providências.

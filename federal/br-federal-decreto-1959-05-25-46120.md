@@ -1,5 +1,3 @@
-###DEC-046120-0-000-25-05-1959@@@
-
 DECRETO Nº 46.120 DE 25 DE MAIO DE 1959.
 
 Concede à “Aliança Gaúcha Companhia de Seguros Gerais” autorização para funcionar e aprovar os seus Estatutos.

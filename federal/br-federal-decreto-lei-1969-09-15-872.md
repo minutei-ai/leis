@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/0e122240-bab8-4957-bb1f-906e502141f9/texto#nowhere)
 
-###DEL-000872-0-000-15-09-1969@@@
-
 DECRETO-LEI Nº 872, DE 15 DE SETEMBRO DE 1969
 
 Complementa disposições da Lei número 5.537, de 21 de novembro de 1968, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099043-0-000-06-03-1990@@@
-
 DECRETO N° 99.043, DE 6 DE MARÇO DE 1990
 
 Cria Zona de Processamento de Exportação de Cáceres, no Estado de Mato Grosso.

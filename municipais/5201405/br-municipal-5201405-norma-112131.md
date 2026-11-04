@@ -18,8 +18,10 @@ Art. 4º - Ficam revogados os §§ 2º, 3º, 4º e 5º do art. 3º da Lei Comple
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, 12 de dezembro de 2017.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil

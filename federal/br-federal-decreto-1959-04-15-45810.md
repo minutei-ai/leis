@@ -1,5 +1,3 @@
-###DEC-045810-0-000-15-04-1959@@@
-
 DECRETO Nº 45.810, DE 15 DE ABRIL DE 1959.
 
 Dispõe sôbre a aplicação de recursos consignados no Orçamento Geral da República para a mudança dos órgãos Federais para Brasília.

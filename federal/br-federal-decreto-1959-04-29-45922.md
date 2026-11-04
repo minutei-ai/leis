@@ -1,5 +1,3 @@
-###DEC-045922-0-000-29-04-1959@@@
-
 DECRETO Nº 45.922, DE 29 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Euzébio Justino Neto a pesquisar mica, no município de Alto Rio Doce, Estado de Minas Gerais.

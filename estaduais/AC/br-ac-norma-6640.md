@@ -1,6 +1,10 @@
 > **LEI Nº 4.675, DE 04 DE NOVEMBRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Concede o Titulo Honorífico de Cidadão Acreano ao Sr. Paulo Henrique de Almeida Xavier.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Concede o Titulo Honorífico de Cidadão Acreano ao Sr. Paulo Henrique de Almeida Xavier.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

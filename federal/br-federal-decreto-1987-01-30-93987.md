@@ -1,5 +1,3 @@
-###DEC-093987-0-000-30-01-1987@@@
-
 DECRETO Nº 93.987, DE 30 DE JANEIRO DE 1987
 
 Delega competência ao Ministro de Estado das Minas e Energia e ao Diretor-Geral do Departamento Nacional de Águas e Energia Elétrica para a prática dos atos que indica.

@@ -1,5 +1,3 @@
-###DEC-053028-0-000-28-11-1963@@@
-
 DECRETO Nº 53.028, DE 28 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro José Pedro Fonseca Filho a pesquisar calcário no município de Matozinhos, Estado de Minas Gerais.

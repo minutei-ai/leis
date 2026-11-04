@@ -1,5 +1,3 @@
-###DEC-049674-0-000-31-12-1960@@@
-
 DECRETO N. 49.674 – DE 31 DE DEZEMBRO DE 1960
 
 Autoriza Mangano ferrea Mineração Limitada a lavrar minério de ferro no município de Nova Lima, Estado de Minas Gerais.

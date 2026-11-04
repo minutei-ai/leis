@@ -1,5 +1,3 @@
-###MPV-002141-0-001-20-04-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.141-1, DE 20 DE ABRIL DE 2001
 
 Altera a Lei nº 9.615, de 24 de março de 1998, que institui normas gerais sobre desporto e dá outras providências.

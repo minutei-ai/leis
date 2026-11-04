@@ -1,5 +1,3 @@
-###DEC-054494-0-000-16-10-1964@@@
-
 DECRETO Nº 54.494, DE 16 DE OUTUBRO DE 1964.
 
 Cria Grupo de Trabalho para estudantes e propor a legislação disciplinadora da hemoterapia no Brasil e dá outras providências.

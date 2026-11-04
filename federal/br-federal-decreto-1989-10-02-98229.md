@@ -1,7 +1,3 @@
-1
-
-###DEC-098229-0-000-02-10-1989@@@
-
 DECRETO Nº 98.229, DE 2 DE OUTUBRO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação e/ou constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

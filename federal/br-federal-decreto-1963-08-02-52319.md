@@ -1,5 +1,3 @@
-###DEC-052319-0-000-02-08-1963@@@
-
 Decreto nº 52.319, de 2 de agÔsto de 1963.
 
 Dispõe sôbre estoques de açúcar cristal.

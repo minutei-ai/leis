@@ -1,5 +1,3 @@
-###DEC-050107-0-000-26-01-1961@@@
-
 DECRETO Nº 50.107, DE 26 DE JANEIRO DE 1961.
 
 Autoriza a Companhia Central Brasileira de Fôrça Elétrica a ceder temporàriamente diesel elétrico de 1.000 kw à Companhia Fôrça e Luz Nordeste do Brasil, e dá outras providências.

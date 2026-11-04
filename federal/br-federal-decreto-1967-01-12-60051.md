@@ -1,5 +1,3 @@
-###DEC-060051-0-000-12-01-1967@@@
-
 Decreto nº 60.051, de 12 de janeiro de 1967.
 
 Altera o dispositivos do Decreto número 55.842, de 16 de março de 1965, e dá outras providências.

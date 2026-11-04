@@ -1,5 +1,3 @@
-###DEC-051008-0-000-20-07-1961@@@
-
 DECRETO Nº 51.008, DE 20 DE JULHO DE 1961.
 
 Dispõe sôbre competições desportivas, disciplina a participação dos atletas nas partidas de futebol e dá outras providências.

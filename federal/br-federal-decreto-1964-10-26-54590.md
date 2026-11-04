@@ -1,5 +1,3 @@
-###DEC-054590-0-000-26-10-1964@@@
-
 DECRETO Nº 54.590, DE 26 DE OUTUBRO DE 1964.
 
 Autoriza a Companhia Sul Mineira de Eletricidade a vender instalações.

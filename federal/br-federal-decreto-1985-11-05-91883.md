@@ -1,5 +1,3 @@
-###DEC-091883-0-000-05-11-1985@@@
-
 Decreto nº 91.883, de 05 de novembro de 1985.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Monte Cristo - Marmorana", situado no Município de São Luís Gonzaga, no Estado do Maranhão, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 70.220, de 1º de março de 1972, alterado pelos Decretos nºs 71.195, de 04 de outubro de 1972, 79.288, de 16 de fevereiro de 1977 e 87.095, de 16 de abril de 1982, e dá outras providências.

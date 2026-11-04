@@ -1,5 +1,3 @@
-###DEC-069259-0-000-22-09-1971@@@
-
 DECRETO Nº 69.259, DE 22 DE SETEMBRO DE 1971.
 
 Revoga os Decretos números 30.298, de 20 de dezembro de 1951 e 62.075, de 5 de janeiro de 1968, cessa aproveitamento hidrelétrico, outorga concessão e dá outras providências.

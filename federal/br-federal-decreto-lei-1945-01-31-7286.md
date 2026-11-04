@@ -1,5 +1,3 @@
-###DEL-007286-0-000-31-01-1945@@@
-
 DECRETO-LEI N. 7.286 – DE 31 DE JANEIRO DE 1945
 
 Modifica artigo do Código Nacional de Trânsito

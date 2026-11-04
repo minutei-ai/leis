@@ -6,15 +6,17 @@ O PRESIDENTE EM EXERCÍCIO DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE PERNAMBUCO:
 
 Faço saber que tendo em vista o disposto nos §§ 6º e 8º do art. 23, da Constituição do Estado, o Poder Legislativo decreta e eu promulgo a seguinte Lei:
 
-**CAPÍTULO I****<br>
-**DISPOSIÇÕES GERAIS****
+**CAPÍTULO I
+
+**DISPOSIÇÕES GERAIS
 
 Art. 1º A proposição e a execução das emendas parlamentares à despesa, no âmbito da lei orçamentária anual do Estado de Pernambuco, observarão o disposto nesta Lei Complementar, nos termos do inciso I do art. 126 da [Constituição do Estado de Pernambuco](https://legis.alepe.pe.gov.br/?ce19891989).
 
 Parágrafo único. O regramento disposto nesta Lei Complementar é imperativo para as leis orçamentárias previstas na [Constituição do Estado de Pernambuco](https://legis.alepe.pe.gov.br/?ce19891989), bem como para a interpretação e a aplicação dos demais instrumentos normativos sobre a temática.
 
-**CAPÍTULO II****<br>
-**DAS EMENDAS PARLAMENTARES IMPOSITIVAS****
+**CAPÍTULO II
+
+**DAS EMENDAS PARLAMENTARES IMPOSITIVAS
 
 Art. 2º É obrigatória a execução orçamentária e financeira, da programação referente às emendas individuais aprovadas na lei orçamentária, financiadas exclusivamente com recursos consignados na reserva parlamentar.
 
@@ -94,8 +96,9 @@ Art. 8º Poderá haver redução dos montantes previstos no art. 123-A da [Const
 
 Parágrafo único. A hipótese de que trata o _caput_ deverá observar a mesma redução proporcional incidente sobre o conjunto das demais despesas discricionárias.
 
-**CAPÍTULO III****<br>
-**DA TRANSPARÊNCIA****
+**CAPÍTULO III
+
+**DA TRANSPARÊNCIA
 
 Art. 9º O Poder Executivo manterá portal eletrônico de acesso público e irrestrito, para a divulgação das informações referentes à execução orçamentária e financeira das emendas parlamentares.
 
@@ -187,8 +190,9 @@ V - em execução; ou
 
 VI - finalizado.
 
-**CAPÍTULO IV****<br>
-**DISPOSIÇÕES FINAIS****
+**CAPÍTULO IV
+
+**DISPOSIÇÕES FINAIS
 
 Art. 12. É vedada a imposição de regra, restrição ou impedimento às emendas parlamentares que não sejam aplicáveis às programações orçamentárias discricionárias do Poder Executivo.
 

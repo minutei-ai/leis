@@ -1,5 +1,3 @@
-###DEC-092485-0-000-21-03-1986@@@
-
 DECRETO Nº 92.485, DE 21 DE MARÇO DE 1986
 
 Outorga concessão à RÁDIO BARRA DO MENDES LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Barra do Mendes, Estado da Bahia.

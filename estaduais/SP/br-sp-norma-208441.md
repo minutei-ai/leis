@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208441)<br>
-
 # LEI N° 17.736, DE 28 DE AGOSTO DE 2023
 
 ## (Projeto de lei n° 122/2020, do Deputado Coronel Telhada – PP)

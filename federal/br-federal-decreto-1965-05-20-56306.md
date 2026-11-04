@@ -1,5 +1,3 @@
-###DEC-056306-0-000-20-05-1965@@@
-
 DECRETO Nº 56.306, DE 20 DE MAIO DE 1965.
 
 Autoriza o cidadão brasileiro Francisco Duarte a lavrar minério de ferro, no município de Rio Acima, Estado de Minas Gerais.

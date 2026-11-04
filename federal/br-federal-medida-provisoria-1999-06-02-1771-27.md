@@ -1,5 +1,3 @@
-###MPV-001771-0-027-02-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.771-27, DE 2 DE JUNHO DE 1999.
 
 Dispõe sobre a concessão de financiamento vinculado à exportação de bens ou serviços nacionais, e dá outras providências.

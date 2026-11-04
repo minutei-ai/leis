@@ -1,5 +1,3 @@
-###DEC-006537-0-000-11-08-2008@@@
-
 DECRETO Nº 6.537, DE 11 DE AGOSTO DE 2008.
 
 Regulamenta a Gratificação de Desempenho de Atividade do Tribunal Marítimo - GDATM, de que trata o art. 3o da Lei no 11.319, de 6 de julho de 2006.

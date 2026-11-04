@@ -1,5 +1,3 @@
-###DEL-005540-0-000-02-06-1943@@@
-
 DECRETO‑LEI N. 5.540 – DE 2 DE JUNHO DE 1943
 
 Considera "Dia do Índio”  a data de 19 de abril

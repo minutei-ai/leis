@@ -1,5 +1,3 @@
-###DEC-057887-0-000-28-02-1966@@@
-
 DECRETO Nº 57.887, DE 28 DE FEVEREIRO DE 1966.
 
 Autoriza o cidadão brasileiro Francisco Vieira de Barros a pesquisar feldspato, quartzito e calcário, no município de Piedade, Estado de São Paulo.

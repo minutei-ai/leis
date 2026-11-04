@@ -1,5 +1,3 @@
-###DEC-073291-0-000-11-12-1973@@@
-
 DECRETO Nº 73.291 - DE 11 DE DEZEMBRO DE 1973
 
 Altera o enquadramento do pessoal da extinta Comissão Federal de Abastecimento e Preços e retifica o Quadro de Pessoal da Superintendência Nacional do Abastecimento.

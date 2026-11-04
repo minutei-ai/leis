@@ -1,5 +1,3 @@
-###DEL-005618-0-000-24-06-1943@@@
-
 DECRETO-LEI N. 5.618 – DE 24 DE JUNHO DE 1943
 
 Dilata o prazo de que trata o art. 1° do decreto‑lei n. 3.182, de 9 de abril de 1941, para o Bank of London and South America, e dá outras pro­vidências.

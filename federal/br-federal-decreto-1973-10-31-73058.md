@@ -1,5 +1,3 @@
-###DEC-073058-0-000-31-10-1973@@@
-
 decreto nº 73.058, de 31 de outubro de 1973.
 
 Altera a denominação do Centro de Educação Física da Marinha.

@@ -1,5 +1,3 @@
-###DEL-003938-0-000-16-12-1941@@@
-
 DECRETO-LEI N. 3.938 – DE 16 DE DEZEMBRO DE 1941
 
 Autoriza o Banco do Brasil a dar a garantia de pagamento ao compromisso assumido pelo Lloyd Brasileiro pela compra de navios, e dá outras providências.

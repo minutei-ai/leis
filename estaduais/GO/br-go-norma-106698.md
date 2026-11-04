@@ -48,39 +48,50 @@ IV – números de telefones e endereços eletrônicos aptos a receber informaç
 
 V – demais informações relevantes para a identificação e recuperação do desaparecido.
 
-Art. 6º Para a máxima efetividade do que propõe esta Lei, o poder público:<br>
+Art. 6º Para a máxima efetividade do que propõe esta Lei, o poder público:
+
 \- [Redação dada pela Lei nº 23.821, de 10-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111560/lei-23821).
 
 ~~Art. 6º Para a máxima efetividade do que propõe esta Lei, o poder público poderá firmar convênios com empresas concessionárias de rádio, televisão e internet que atuam no Estado de Goiás.~~
 
-I – poderá firmar convênios com empresas concessionárias de rádio, televisão e internet que atuam no Estado de Goiás; e<br>
+I – poderá firmar convênios com empresas concessionárias de rádio, televisão e internet que atuam no Estado de Goiás; e
+
 \- [Acrescido pela Lei nº 23.821, de 10-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111560/lei-23821).
 
-II – instituirá Protocolo de Prevenção e Resposta ao Desaparecimento de Crianças e Adolescentes no Estado de Goiás, com o objetivo de padronizar e agilizar as ações de segurança pública em tais casos.<br>
+II – instituirá Protocolo de Prevenção e Resposta ao Desaparecimento de Crianças e Adolescentes no Estado de Goiás, com o objetivo de padronizar e agilizar as ações de segurança pública em tais casos.
+
 \- [Acrescido pela Lei nº 23.821, de 10-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111560/lei-23821).
 
-Parágrafo único. O Protocolo previsto no inciso II do caput terá como diretrizes, especialmente:<br>
+Parágrafo único. O Protocolo previsto no inciso II do caput terá como diretrizes, especialmente:
+
 \- [Acrescido pela Lei nº 23.821, de 10-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111560/lei-23821).
 
-I – estabelecer procedimentos ágeis e eficazes para a notificação e investigação de casos de desaparecimento e rapto de crianças e adolescentes, garantindo a pronta atuação das autoridades competentes;<br>
+I – estabelecer procedimentos ágeis e eficazes para a notificação e investigação de casos de desaparecimento e rapto de crianças e adolescentes, garantindo a pronta atuação das autoridades competentes;
+
 \- [Acrescido pela Lei nº 23.821, de 10-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111560/lei-23821).
 
-II – articular uma rede integrada de cooperação entre órgãos de segurança pública, conselhos tutelares, escolas, unidades de saúde e outras entidades relevantes, visando à atuação conjunta e coordenada;<br>
+II – articular uma rede integrada de cooperação entre órgãos de segurança pública, conselhos tutelares, escolas, unidades de saúde e outras entidades relevantes, visando à atuação conjunta e coordenada;
+
 \- [Acrescido pela Lei nº 23.821, de 10-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111560/lei-23821).
 
-III – assegurar a mobilização imediata das forças de segurança, utilizando sistemas de alerta público previsto nesta Lei, para a ampla divulgação de informações sobre crianças e adolescentes desaparecidos;<br>
+III – assegurar a mobilização imediata das forças de segurança, utilizando sistemas de alerta público previsto nesta Lei, para a ampla divulgação de informações sobre crianças e adolescentes desaparecidos;
+
 \- [Acrescido pela Lei nº 23.821, de 10-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111560/lei-23821).
 
-IV – promover campanhas educativas e de conscientização para a sociedade, orientando sobre medidas de prevenção ao desaparecimento e rapto de crianças e adolescentes, incentivando a participação comunitária;<br>
+IV – promover campanhas educativas e de conscientização para a sociedade, orientando sobre medidas de prevenção ao desaparecimento e rapto de crianças e adolescentes, incentivando a participação comunitária;
+
 \- [Acrescido pela Lei nº 23.821, de 10-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111560/lei-23821).
 
-V – garantir apoio psicossocial especializado às vítimas e seus familiares, disponibilizando serviços de atendimento e acompanhamento contínuo;<br>
+V – garantir apoio psicossocial especializado às vítimas e seus familiares, disponibilizando serviços de atendimento e acompanhamento contínuo;
+
 \- [Acrescido pela Lei nº 23.821, de 10-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111560/lei-23821).
 
-VI – (VETADO).” <br>
+VI – (VETADO).” 
+
 \- [Acrescido pela Lei nº 23.821, de 10-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111560/lei-23821).
 
-Art. 6º-A Fica instituído o Dia Estadual de Prevenção e Combate ao Desaparecimento e Rapto de Crianças e Adolescentes, a ser realizado, anualmente, no dia 25 de maio.<br>
+Art. 6º-A Fica instituído o Dia Estadual de Prevenção e Combate ao Desaparecimento e Rapto de Crianças e Adolescentes, a ser realizado, anualmente, no dia 25 de maio.
+
 \- [Acrescido pela Lei nº 23.821, de 10-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111560/lei-23821).
 
 Art. 7º Esta Lei entra em vigor na data de sua publicação.

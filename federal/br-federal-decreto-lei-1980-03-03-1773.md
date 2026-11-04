@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/c60f7017-cb83-45a8-a59a-a738722fbf27/texto#nowhere)
 
-###DEL-001773-0-000-03-03-1980@@@
-
 # DECRETO-LEI Nº 1.773, DE 03 DE MARçO DE 1980
 
 Regula a incidência de contribuição previdenciária sobre a Representação Mensal prevista no Decreto-lei nº 1.445, de 13 de fevereiro de 1976.

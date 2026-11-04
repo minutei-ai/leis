@@ -1,5 +1,3 @@
-###DEC-061387-0-000-20-09-1967@@@
-
 DECRETo Nº 61.387, DE 20 DE SETEMBRO DE 1967.
 
 Declara de utilidade pública a “Juventude Feminina Católica Brasileira de Natal” com sede em Natal, Estado do Rio Grande do Norte.

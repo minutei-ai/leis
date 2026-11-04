@@ -20,15 +20,24 @@ COM O MUNICÍPIO DE MULUNGU DO MORRO:
 
 Começa na nascente do Rio das Pedras, no divisor de águas da Serra da Bolacha, na cota de 1.063 metros de altitude, daí em reta ao marco do Morro das Umburanas.
 
-Redação de acordo com a Lei nº 6.359, de 30 de dezembro de 1991.<br>
-Redação original: "Art. 1º -  Art. 1º - Fica criado o Município de CAFARNAUM, desmembrado do de Morro do Chapéu, com os seguintes limites:<br>
- COM O MUNICÍPIO DE IRECÊ:<br>
- Começa no marco no lugar Aldeia, a margem da vereda de Romão Gramacho ou Jacaré, desce por este até o marco no lugar Xareo.<br>
-COM O MUNICÍPIO DE MORRO DO CHAPÉU:<br>
-Começa no marco no lugar Xareo a margem da vereda de Romão Gramacho ou Rio Jacaré; daí em reta ao marco na serra da Bolacha, próximo ao lugar Lagoinha, segue pelo divisor de águas da mesma serra até o marco fronteiro a foz da Água Boa no Rio Tijuco, daí em reta a foz do Riacho Água Boa no Rio Tijuco.<br>
-COM O MUNICÍPIO DE SEABRA:<br>
-Começa na foz do Riacho Água Boa no rio Tijuco, daí em reta ao marco no lugar Baixa Funda.<br>
-COM O MUNICÍPIO DE CANARANA:<br>
+Redação de acordo com a Lei nº 6.359, de 30 de dezembro de 1991.
+
+Redação original: "Art. 1º -  Art. 1º - Fica criado o Município de CAFARNAUM, desmembrado do de Morro do Chapéu, com os seguintes limites:
+
+ COM O MUNICÍPIO DE IRECÊ:
+
+ Começa no marco no lugar Aldeia, a margem da vereda de Romão Gramacho ou Jacaré, desce por este até o marco no lugar Xareo.
+
+COM O MUNICÍPIO DE MORRO DO CHAPÉU:
+
+Começa no marco no lugar Xareo a margem da vereda de Romão Gramacho ou Rio Jacaré; daí em reta ao marco na serra da Bolacha, próximo ao lugar Lagoinha, segue pelo divisor de águas da mesma serra até o marco fronteiro a foz da Água Boa no Rio Tijuco, daí em reta a foz do Riacho Água Boa no Rio Tijuco.
+
+COM O MUNICÍPIO DE SEABRA:
+
+Começa na foz do Riacho Água Boa no rio Tijuco, daí em reta ao marco no lugar Baixa Funda.
+
+COM O MUNICÍPIO DE CANARANA:
+
 Começa no marco no lugar Baixa Funda, daí em reta ao morro da Umburana, daí em reta ao marco no lugar Canaes, daí em reta ao marco no lugar Lagoa do Agostinho e finalmente em reta ao marco no lugar Aldeia, à margem da Vereda de Romão Gramacho ou Rio Jacaré. 
 
 Art. 2º - O Município de Cafarnaum se comporá de dois distritos: Cafarnaum (sede) e Mulungu do Morro.
@@ -59,4 +68,4 @@ Governador
 
 Ademar Martinelli Braga
 
-* * *
+ *

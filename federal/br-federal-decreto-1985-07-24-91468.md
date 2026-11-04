@@ -1,5 +1,3 @@
-###DEC-091468-0-000-24-07-1985@@@
-
 DECRETO Nº 91.468, DE 24 DE JULHO DE 1985
 
 Dispõe sobre a criação de Grupo de Trabalho Interministerial, para a implantação e execução do Programa "Documentação para a Cidadania", e dá outras providências.

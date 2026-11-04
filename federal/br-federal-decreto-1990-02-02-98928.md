@@ -1,7 +1,3 @@
-1
-
-###DEC-098928-0-000-02-02-1990@@@
-
 DECRET0 Nº 98.928, DE 2 DE FEVEREIRO DE 1990
 
 Altera dispositivos do Decreto nº 89.086, de 1º de dezembro de 1983, e dá outras providências.

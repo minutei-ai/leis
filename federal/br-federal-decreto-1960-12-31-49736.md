@@ -1,5 +1,3 @@
-###DEC-049736-0-000-31-12-1960@@@
-
 DECRETO N. 49.736 – DE 31 DE DEZEMBRO DE 1960
 
 Autoriza a Emprêsa de Eletricidade Vale Paranapanema S. A. a alienar a Usina Termoelétrica de Santa Lina, instalada em Quanta, Estado de São Paulo

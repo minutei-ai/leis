@@ -1,5 +1,3 @@
-###DEC-061439-0-000-04-10-1967@@@
-
 DECRETO Nº 61.439, DE 4 DE OUTUBRO DE 1967.
 
 Transfere da Companhia Montanhesa de Eletricidade para a Centrais Elétricas de Minas Gerais S. A. a concessão para distribuir energia elétrica no município de Dores de Guanhães, Estado de Minas Gerais e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-061979-0-000-28-12-1967@@@
-
 Decreto nº 61.979, de 28 de Dezembro de 1967.
 
 Dispõe sôbre a concessão de estímulos à indústria de materiais de construção civil e dá outras providências.

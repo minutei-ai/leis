@@ -1,5 +1,3 @@
-###DEC-000158-0-000-02-07-1991@@@
-
 DECRETO Nº 158, DE 2 DE JULHO DE 1991
 
 Promulga a Convenção nº 160, da Organização Internacional do Trabalho - OIT, sobre Estatísticas do Trabalho.

@@ -1,5 +1,3 @@
-###DEC-050393-0-000-29-03-1961@@@
-
 DECRETO Nº 50.393, DE 29 DE MARÇO DE 1961.
 
 Dá nova redação ao art. 2º do Decreto nº 50.339, de 15 de março de 1961.

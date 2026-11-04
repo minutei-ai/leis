@@ -1,5 +1,3 @@
-###DEC-067243-0-000-23-09-1970@@@
-
 decreto nº 67.243, de 23 de setembro de 1970.
 
 Declara de utilidade pública a União Beneficente dos Chauffeurs do Pará, com sede em Belém, Estado do Pará.

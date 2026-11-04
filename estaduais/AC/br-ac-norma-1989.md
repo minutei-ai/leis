@@ -2,7 +2,11 @@ Modificada pela Lei nº [3.371, de 28 de Fevereiro de 2018.](https://legis.ac.go
 
 > **LEI Nº 3.346, DE 15 DE DEZEMBRO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a utilização de depósitos judiciais em dinheiro, tributários e não tributários, realizados em processos judiciais e administrativos no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a utilização de depósitos judiciais em dinheiro, tributários e não tributários, realizados em processos judiciais e administrativos no Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -22,29 +26,19 @@ Modificada pela Lei nº [3.371, de 28 de Fevereiro de 2018.](https://legis.ac.go
 
 **Art. 2º** Ficam constituídos os Fundos Garantidores dos depósitos de que tratam os incisos I e II do art. 1º. (Redação dada pela Lei nº 3.371, de 28/02/2018)
 
-<br>
-
 **~~Parágrafo único.~~** ~~O Fundo Garantidor será constituído de recursos oriundos do restante dos depósitos mencionados no inciso I do art. 1º e de quarenta por cento dos depósitos mencionados no inciso II do art. 1º.~~
 
 **§ 1º** O Fundo Garantidor dos depósitos tratados no inciso I do art. 1º será constituído pela parcela restante dos depósitos a que se refere, em montante equivalente a 1/3 (um terço) dos recursos levantados. (Redação dada pela Lei nº 3.371, de 28/02/2018)
 
-<br>
-
 **§ 2º** O Fundo Garantidor dos depósitos tratados no inciso II do art. 1º será constituído pela parcela restante dos depósitos a que se refere, em montante equivalente aos recursos levantados. (Incluído pela Lei nº 3.371, de 28/02/2018)
-
-<br>
 
 **~~Art. 3º~~** ~~Os recursos do Fundo Garantidor deverão ficar depositados em conta mantida em banco oficial que garanta a manutenção do capital depositado e tenha remuneração fixada em convênio ou contrato em valor não inferior à remuneração oficial da caderneta de poupança, pagável mensalmente.~~
 
 **Art. 3º** Os recursos dos Fundos Garantidores deverão ficar depositados em contas mantidas em banco oficial que garanta a manutenção do capital depositado e remuneração pela taxa referencial do Sistema Especial de Liquidação e de Custódia – SELIC, nunca inferior aos índices e critérios aplicados aos depósitos levantados. (Redação dada pela Lei nº 3.371, de 28/02/2018)
 
-<br>
-
 **~~Art. 4º~~** ~~No primeiro dia de cada mês, será calculado o valor total dos recursos existentes no Fundo Garantidor.~~
 
 **Art. 4º** No primeiro dia de cada mês, será calculado o valor total dos recursos existentes nos Fundos Garantidores. (Redação dada pela Lei nº 3.371, de 28/02/2018)
-
-<br>
 
 **§ 1º** Após a apuração do valor total dos recursos a que se refere o _caput_, será observado o seguinte:
 
@@ -56,8 +50,6 @@ Modificada pela Lei nº [3.371, de 28 de Fevereiro de 2018.](https://legis.ac.go
 
 **II –** se os saldos dos Fundos Garantidores forem superiores aos montantes previstos nos §§ 1º e 2º do art. 2º, respectivamente, considerando-se, para tanto, o valor dos depósitos levantados, o excedente será transferido para a conta específica a que se refere o _caput_ do art. 1º. (Redação dada pela Lei nº 3.371, de 28/02/2018)
 
-<br>
-
 **§ 2º** A apuração a que se refere o _caput_ deste artigo será realizada pela instituição financeira custodiante, e o valor apurado será comunicado ao Poder Executivo e ao Poder Judiciário no primeiro dia de cada mês.
 
 **§ 3º** Em caso de descumprimento do prazo previsto no inciso I do §1º, o presidente do TJAC sequestrará a quantia necessária diretamente na conta do Fundo de Participação do Estado do Acre – FPE.
@@ -67,8 +59,6 @@ Modificada pela Lei nº [3.371, de 28 de Fevereiro de 2018.](https://legis.ac.go
 **~~Art. 6º~~** ~~Os recursos provenientes da transferência de que trata esta lei se destinarão exclusivamente ao pagamento de precatórios devidos pelo Estado que se encontravam em mora até a data de 25 de março de 2015.~~
 
 **Art. 6º** Os recursos provenientes da transferência de que trata esta lei serão destinados exclusivamente ao pagamento de precatórios vencidos e dos que vencerão até 31 de dezembro de 2024. (Redação dada pela Lei nº 3.371, de 28/02/2018)
-
-<br>
 
 **Art. 7º** A instituição financeira custodiante disponibilizará ao Poder Executivo e ao Poder Judiciário, diariamente, extratos com a movimentação do Fundo Garantidor, indicando os saques, os depósitos, os rendimentos e o saldo.
 

@@ -1,5 +1,3 @@
-###DEC-072593-0-000-13-08-1973@@@
-
 DECRETO Nº 72.593, DE 13 DE AGOSTO DE 1973.
 
 Concede à Serrana S.A. de Mineração o direito de lavrar argila, no Município de Jacupiranga, Estado de São Paulo.

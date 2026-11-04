@@ -1,5 +1,3 @@
-###DEC-059522-0-000-09-11-1966@@@
-
 DECRETO Nº 59.522, DE 9 DE NOVEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Sinézio Borges a pesquisar bauxita e argila no município de Caldas, Estado de Minas Gerais.

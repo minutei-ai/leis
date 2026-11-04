@@ -1,5 +1,3 @@
-###DEC-002110-0-000-26-12-1996@@@
-
 DECRETO Nº 2.110, DE 26 DE DEZEMBRO DE 1996.
 
 Dispõe acerca de procedimentos administrativos no âmbito da representação judicial da União, e dá outras providências.

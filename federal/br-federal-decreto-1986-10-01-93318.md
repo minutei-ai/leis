@@ -1,5 +1,3 @@
-###DEC-093318-0-000-01-10-1986@@@
-
 DECRETO Nº 93.318, DE 1 DE OUTUBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural sem denominação, encravado na "Gleba Prainha", situado no Município de Paragominas, no Estado do Pará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.623, de 2 de maio de 1986, e dá outras providências.

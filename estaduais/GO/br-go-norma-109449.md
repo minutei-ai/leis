@@ -1,4 +1,5 @@
-DECRETO Nº 10.542, DE 5 DE SETEMBRO DE 2024<br>
+DECRETO Nº 10.542, DE 5 DE SETEMBRO DE 2024
+
 \- [Revogado pelo Decreto nº 10.545, de 11-9-2024, art. 2º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109456/decreto-10545).
 
 ~~Suspende a participação da Secretaria de Estado da Educação – SEDUC e dos Colégios Estaduais da Polícia Militar de Goiás – CEPMGs em desfiles e eventos cívico-militares alusivos ao Dia da Independência do Brasil, 7 de setembro, até o horário que especifica, em decorrência da situação emergencial ambiental declarada no [Decreto nº 10.503](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109224), de 24 de julho de 2024, e dá outras providências.~~
@@ -18,8 +19,6 @@ DECRETO Nº 10.542, DE 5 DE SETEMBRO DE 2024<br>
 ~~Art. 5º  Este Decreto entra em vigor na data de sua publicação.~~
 
 ~~Goiânia, 5 de setembro de 2024; 136º da República.~~
-
-<br>
 
 ~~DANIEL VILELA~~
 

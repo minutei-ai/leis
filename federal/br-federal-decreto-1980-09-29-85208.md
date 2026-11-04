@@ -1,5 +1,3 @@
-###DEC-085208-0-000-29-09-1980@@@
-
 Decreto nº 85.208, de 29 de setembro de 1980.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa variável de terra destinada à passagem de linha de transmissão do LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=130351)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/emenda.constitucional/2004/compilacao-emenda.constitucional-18-30.03.2004.html)
 
 # EMENDA CONSTITUCIONAL Nº 18, DE 30 DE MARÇO DE 2004

@@ -1,5 +1,3 @@
-###DEC-061634-0-000-03-11-1967@@@
-
 DECRETO Nº 61.634, DE 3 DE NOVEMBRO DE 1967.
 
 Abre ao Ministério do Interior o crédito extraordinário de NCr$50.000,00 (cinqüenta mil cruzeiros novos), destinado à aplicação nas condições que menciona.

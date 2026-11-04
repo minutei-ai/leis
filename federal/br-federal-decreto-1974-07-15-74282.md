@@ -1,5 +1,3 @@
-###DEC-074282-0-000-15-07-1974@@@
-
 DECRETO Nº 74.282 - DE 15 DE JULHO DE 1974.
 
 Renova por 10 (dez) anos a outorga deferida à Rádio São Carlos S. A., para executar serviço de radiodifusão sonora, em onda tropical, na cidade de São Carlos, Estado de São Paulo.

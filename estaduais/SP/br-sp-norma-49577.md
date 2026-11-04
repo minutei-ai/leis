@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=49577)
-
 # LEI Nº 11.682, DE 19 DE FEVEREIRO DE 2004
 
 ## (PL 779/2003 - Luiz Carlos Gondim)

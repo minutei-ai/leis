@@ -1,5 +1,3 @@
-###DEL-006734-0-000-25-07-1944@@@
-
 DECRETO-LEI N. 6.734 – DE 25 DE JULHO DE 1944
 
 Cria o cargo isolado, de provimento em comissão, de Diretor da Estrada de Ferro Dona Tereza Cristina, no Quadro I – Parte Permanente, do Ministério da Viação e Obras Públicas, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-065337-0-000-13-10-1969@@@
-
 DECRETO Nº 65.337 - DE 13 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública para fins de constituição de servidão uma faixa de terra destinada a passagem da linha de transmissão que se estenderá desde o distrito sede do município de Nazário até o distrito sede do município de Santa Bárbara de Goiás, no Estado de Goiás.

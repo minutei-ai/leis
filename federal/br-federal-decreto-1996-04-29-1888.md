@@ -1,5 +1,3 @@
-###DEC-001888-0-000-29-04-1996@@@
-
 DECRETO Nº 1.888, DE 29 DE ABRIL DE 1996.
 
 Dispõe sobre o remanejamento dos cargos em comissão que menciona.

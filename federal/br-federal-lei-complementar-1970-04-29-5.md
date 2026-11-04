@@ -1,7 +1,3 @@
-1
-
-###LCP-000005-0-000-05-04-1970@@@
-
 # LEI COMPLEMENTAR Nº 5, DE 05 DE ABRIL DE 1970
 
 Estabelece, de acordo com a Emenda Constitucional nº 1, de 17 de outubro de 1969, art. 151 e seu parágrafo único, casos de inelegibilidades, e dá outras providências .

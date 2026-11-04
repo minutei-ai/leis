@@ -1,5 +1,3 @@
-###DEC-095253-0-000-18-11-1987@@@
-
 DECRETO Nº 95.253, DE 18 DE NOVEMBRO DE 1987
 
 Dispõe sobre a execução do Décimo Segundo Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/1980, subscrito entre o Brasil e a Argentina (Acordo nº 1).

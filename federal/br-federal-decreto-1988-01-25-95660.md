@@ -1,7 +1,3 @@
-1
-
-###DEC-095660-0-000-25-01-1988@@@
-
 DECRETO N° 95.660, DE 25 DE JANEIRO DE 1988
 
 Aprova o Regulamento para o Corpo Auxiliar Feminino da Reserva da Marinha.

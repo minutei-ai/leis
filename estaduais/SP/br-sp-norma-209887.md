@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209887)<br>
-
 # DECRETO N° 68.807, DE 26 DE AGOSTO DE 2024
 
 ### _Dispõe sobre a gestão do Plano Plurianual 2024-2027, instituído pela Lei n° 17.898, de 9 de abril de 2024._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,  
 
 Decreta:  
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Da Gestão do PPA 2024-2027
 
 **Artigo 1° -** Este decreto define normas gerais relativas à gestão do Plano Plurianual do Estado de São Paulo para o quadriênio de 2024 a 2027 - PPA 2024-2027, instituído pela [Lei n° 17.898, de 9 de abril de 2024](https://www.al.sp.gov.br/norma/209286), compreendendo a execução, o monitoramento, a avaliação, a prestação de contas e a revisão do Plano.  
@@ -43,7 +42,8 @@ III - Gerentes de programa.  
 
 2 - a forma de indicação dos interlocutores e gerentes de programa pelos titulares de cada órgão responsável.  
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da execução, monitoramento e avaliação do PPA
 
 **Artigo 5° -** A execução do Plano compreende a implementação de ações, a alocação de recursos e o desenvolvimento dos processos de trabalho, visando à geração dos bens e serviços que contribuirão para o alcance dos resultados de seus programas.  
@@ -76,7 +76,8 @@ III - auxiliar na promoção da transparência, do controle e da participação 
 
 **§ 2° -** Compete à Secretaria da Fazenda e Planejamento disciplinar os procedimentos e coordenar as atividades dos órgãos setoriais relativos à avaliação.  
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Do dever de prestar contas
 
 **Artigo 9° -** A prestação de contas do PPA 2024-2027 compreende a produção, a organização e a divulgação de dados e informações a respeito das ações governamentais integrantes do PPA 2024-2027 durante o período de sua vigência, e do uso dos respectivos recursos públicos, e visa a atingir os seguintes objetivos:  
@@ -93,7 +94,8 @@ III - assegurar o acompanhamento da legalidade, legitimidade e economicidade de 
 
 **Parágrafo único -** As informações do sistema a que se refere o "caput" deste artigo serão disponibilizadas, em linguagem simples, em sítio eletrônico, na forma de painel de indicadores e arquivos em formato aberto e estruturado, atualizados periodicamente.  
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Da revisão do PPA
 
 **Artigo 12 -** As revisões do PPA 2024-2027 consistem na atualização de programas, pela inclusão, alteração, exclusão ou adequação de programas, produtos e seus componentes, mediante decreto, em razão das circunstâncias que influenciam a implementação das políticas públicas.  
@@ -102,7 +104,8 @@ Da revisão do PPA
 
 **§ 2° -** A Secretaria da Casa Civil, por meio de seu órgão competente, manifestar-se-á sobre a proposta de revisão do PPA 2024-2027.  
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Das disposições finais
 
 **Artigo 13 -** O Secretário da Fazenda e Planejamento e o Secretário-Chefe da Casa Civil poderão, observado o âmbito de suas competências, editar normas complementares para execução deste decreto.  

@@ -1,5 +1,3 @@
-###DEC-005458-0-000-06-06-2005@@@
-
 DECRETO Nº 5.458, DE 6 DE JUNHO DE 2005.
 
        Dispõe sobre a execução do Vigésimo Protocolo Adicional ao Acordo de Complementação Econômica no 36, entre os Governos da República Federativa do Brasil, da República da Argentina, da República do Paraguai e da República Oriental do Uruguai, Estados Partes do MERCOSUL, e o Governo da República da Bolívia, de 7 de dezembro de 2004.
@@ -22,11 +20,7 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 7.6.2005
-
-ACORDO DE COMPLEMENTAÇÃO ECONÔMICA N° 36 CELEBRADO ENTRE
+Celso Luiz Nunes AmorimACORDO DE COMPLEMENTAÇÃO ECONÔMICA N° 36 CELEBRADO ENTRE
 
 OS GOVERNOS DOS ESTADOS PARTES DO MERCOSUL E O GOVERNO
 

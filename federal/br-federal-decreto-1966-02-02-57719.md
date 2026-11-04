@@ -1,5 +1,3 @@
-###DEC-057719-0-000-02-02-1966@@@
-
 DECRETO Nº 57.719, DE 2 DE FEVEREIRO DE 1966.
 
 Autoriza o cidadão brasileiro Benedito Palhato a pesquisar calcário, no município de Guapiara, Estado de São Paulo.

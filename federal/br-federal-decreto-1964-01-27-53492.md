@@ -1,5 +1,3 @@
-###DEC-053492-0-000-27-01-1964@@@
-
 Decreto nº 53.492, de 27 de janeiro de 1964.
 
 Aprova alterações introduzidas nos Estatutos da A. Piratininga Companhia Nacional de Seguros Gerais e Acidentes do Trabalho, inclusive aumento de capital social.

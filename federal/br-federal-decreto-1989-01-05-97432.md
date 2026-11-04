@@ -1,5 +1,3 @@
-###DEC-097432-0-000-05-01-1989@@@
-
 DECRETO N° 97.432, DE 5 DE JANEIRO DE 1989
 
 Autoriza o funcionamento do curso de Ciências da Computação da Faculdade de Tecnologia Padre Anchieta, em Jundiaí, Estado de São Paulo.

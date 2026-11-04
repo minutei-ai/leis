@@ -1,5 +1,3 @@
-###DEC-068146-0-000-29-01-1971@@@
-
 decreto nº 68.146, de 29 de janeiro de 1971.
 
 Concede autorização à Sociedade Seguradora Estrangeira para aumentar o capital de suas operações no Brasil.

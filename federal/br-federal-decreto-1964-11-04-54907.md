@@ -1,5 +1,3 @@
-###DEC-054907-0-000-04-11-1964@@@
-
 DECRETO Nº 54.907, DE 4 DE NOVEMBRO DE 1964.
 
 Autoriza a Centrais Elétricas de Urubupungá S. A. - CELUSA - a construir linha de transmissão.

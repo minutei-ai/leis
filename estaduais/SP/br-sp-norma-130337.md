@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=130337)
-
 # EMENDA CONSTITUCIONAL Nº 16, DE 25 DE NOVEMBRO DE 2002
 
 A MESA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE SÃO PAULO, nos termos do § 3º do artigo 22 da Constituição do Estado, promulga a seguinte Emenda ao texto constitucional:

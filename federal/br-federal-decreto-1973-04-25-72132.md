@@ -1,5 +1,3 @@
-###DEC-072132-0-000-25-04-1973@@@
-
 DECRETO nº 72.132, de 25 de abril de 1973.
 
 Autoriza o funcionamento da Faculdade de Educação Física, mantida pela Sociedade de Educação do Triângulo Mineiro - Uberaba - Minas Gerais

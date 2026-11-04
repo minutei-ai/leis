@@ -1,5 +1,3 @@
-###DEC-006512-0-000-21-07-2008@@@
-
 DECRETO Nº 6.512, DE 21 DE JULHO DE 2008.
 
 Promulga o Tratado de Extradição entre a República Federativa do Brasil e a Romênia, celebrado em Brasília, em 12 de agosto de 2003.

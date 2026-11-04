@@ -1,26 +1,24 @@
-###DEC-026513-0-000-28-03-1949@@@
+**DECRETO Nº 26.513, DE 28 DE MARÇO DE 1949.**
 
-<strong>DECRETO Nº 26.513, DE 28 DE MARÇO DE 1949.</strong>
+***Aprova cláusulas de convênio entre a União e o Estado de Sergipe, para execução de obras no pôrto de Aracaju.***
 
-<em><strong>Aprova cláusulas de convênio entre a União e o Estado de Sergipe, para execução de obras no pôrto de Aracaju.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, tendo em vista o Disposto no Decreto nº 23.460, de 16 de novembro de 1933 e autorização constante da Lei Orçamentária nº 537, de 14 de dezembro de 1948,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, tendo em vista o Disposto no Decreto nº 23.460, de 16 de novembro de 1933 e autorização constante da Lei Orçamentária nº 537, de 14 de dezembro de 1948,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam o Ministério da Viação e Obras Públicas e o Governo do Estado de Sergipe autorizados a assinar o convênio de acôrdo com as cláusulas que com êste baixam, devidamente rubricadas pelo titular da referida pasta, para prosseguimento das obras de construção do Pôrto de Aracaju, naquele Estado.
 
-<strong>Art</strong>. 1º Ficam o Ministério da Viação e Obras Públicas e o Governo do Estado de Sergipe autorizados a assinar o convênio de acôrdo com as cláusulas que com êste baixam, devidamente rubricadas pelo titular da referida pasta, para prosseguimento das obras de construção do Pôrto de Aracaju, naquele Estado.
-
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 28 de março de 1949, 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clovis Pestana
 
-<strong>CLÁUSULAS A QUE SE REFERE O DECRETO Nº 26.513, DE 28 DE MARÇO DE 1949.</strong>
+**CLÁUSULAS A QUE SE REFERE O DECRETO Nº 26.513, DE 28 DE MARÇO DE 1949.**
 
-Primeira - O Govêrno Federal como poder concede e o Estado de Sergipe, como concessionário do pôrto de Aracaju, <em>ex-vi</em> do contrato de concessão autorizado pelo Decreto número 23.460, de 16 de novembro de 1933, convencionam entre si e de comum acôrdo que o prosseguimento das obras de construção do Pôrto de Aracaju. Sejam feitas diretamente pelo primeiro, com recursos consignados na Lei Orçamentária Federal para o corrente exercício, especificadamente para a aplicação naquêle pôrto, e, nos demais exercícios, pelos créditos que forem concedidos para o mesmo fim.
+Primeira - O Govêrno Federal como poder concede e o Estado de Sergipe, como concessionário do pôrto de Aracaju, *ex-vi* do contrato de concessão autorizado pelo Decreto número 23.460, de 16 de novembro de 1933, convencionam entre si e de comum acôrdo que o prosseguimento das obras de construção do Pôrto de Aracaju. Sejam feitas diretamente pelo primeiro, com recursos consignados na Lei Orçamentária Federal para o corrente exercício, especificadamente para a aplicação naquêle pôrto, e, nos demais exercícios, pelos créditos que forem concedidos para o mesmo fim.
 
 Parágrafo Primeiro - O Estado de Sergipe reserva para si o direito de executar parte das obras constantes desta cláusula, com seu próprio numerário mediante prévio entendimento com o Departamento Nacional de Pôrtos, Rios e Canais, uma vez que essa iniciativa venha concorrer para a mais rápida exploração industrial do citado pôrto.
 
@@ -36,4 +34,4 @@ Quarta - O presente convênio terá a sua validade dependente da aprovação da 
 
 Rio de Janeiro, 28 de março de 1949.
 
-<strong>CLOVIS PESTANA</strong>
+**CLOVIS PESTANA**

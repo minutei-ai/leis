@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/201025)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2021/compilacao-lei-17458-25.11.2021.html)
 
 # LEI N° 17.458, DE 25 DE NOVEMBRO DE 2021

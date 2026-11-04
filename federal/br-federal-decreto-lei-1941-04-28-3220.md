@@ -1,5 +1,3 @@
-###DEL-003220-0-000-28-04-1941@@@
-
 DECRETO-LEI N. 3.220 – DE 28 DE ABRIL DE 1941
 
 Torna sem aplicação 130:000$0, em dotação orçamentária do Ministério da Justiça e Negócios Interiores e abre crédito especial de idêntica importância

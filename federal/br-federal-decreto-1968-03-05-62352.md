@@ -1,5 +1,3 @@
-###DEC-062352-0-000-05-03-1968@@@
-
 DECRETO Nº 62.352, DE 5 DE MARÇO DE 1968.
 
 Cria o Grupo Executivo da Indústria de Mineração (GEIMI).

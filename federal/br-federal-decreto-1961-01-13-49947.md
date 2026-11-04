@@ -1,5 +1,3 @@
-###DEC-049947-0-000-13-01-1961@@@
-
 DECRETO Nº 49.947, DE 13 de JANEIRO DE 1961.
 
 Outorga concessão à Rádio Central do Paraná Limitada para instalar uma estação radiodifusora.

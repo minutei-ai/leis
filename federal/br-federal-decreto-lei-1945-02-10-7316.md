@@ -1,5 +1,3 @@
-###DEL-007316-0-000-10-02-1945@@@
-
 DECRETO-LEI N. 7.316 – DE 10 FEVEREIRO DE 1945
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito suplementar de Cr$ 628. 968,00, à verba que especifica

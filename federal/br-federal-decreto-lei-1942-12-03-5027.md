@@ -1,5 +1,3 @@
-###DEL-005027-0-000-03-12-1942@@@
-
 DECRETO-LEI N. 5.027 – DE 3 DE DEZEMBRO DE 1942
 
 Autoriza o Prefeito do Distrito Federal a conceder isenção do imposto predial à Associação São Vicente de Paulo, referente ao prédio sito à rua da Passagem n. 168.

@@ -1,5 +1,3 @@
-###DEC-004035-0-000-28-11-2001@@@
-
 DECRETO Nº 4.035, DE 28 DE NOVEMBRO DE 2001
 
 Regulamenta o art. 19 da Lei no 10.260, de 12 de julho de 2001, que dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior e dá outras providências.

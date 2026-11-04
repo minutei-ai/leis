@@ -1,5 +1,3 @@
-###DEL-004467-0-000-10-07-1942@@@
-
 DECRETO-LEI N. 4.467 – DE 10 DE JULHO DE 1942
 
 Cria o II Grupo do 3º Regimento de Artilharia Anti-Aérea com sede provisória em Recife

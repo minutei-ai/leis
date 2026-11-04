@@ -1,5 +1,3 @@
-###DEC-053069-0-000-03-12-1963@@@
-
 DECRETO Nº 53.069, DE 3 DE DEZEMBRO DE 1963.
 
 Declara de utilidade pública para efeito de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, de área de terreno necessária à construção do prédio destinado à Sede do 2º Distrito daquele Departamento, na cidade de João Pessôa, no Estado da Paraíba.

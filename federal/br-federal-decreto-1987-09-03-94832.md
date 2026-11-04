@@ -1,5 +1,3 @@
-###DEC-094832-0-000-03-09-1987@@@
-
 DECRETO Nº 94.832, DE 3 DE SETEMBRO DE 1987.
 
 Outorga concessão à Rádio Sul Cearense Ltda., para explorar serviço de radiodifusão sonora em onda média, na cidade de Brejo Santo, Estado do Ceará.

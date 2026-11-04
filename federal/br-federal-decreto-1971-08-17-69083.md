@@ -1,5 +1,3 @@
-###DEC-069083-0-000-17-08-1971@@@
-
 DECRETO Nº 69.083, DE 17 DE AGÔSTO DE 1971.
 
 Autoriza a Empresa Brasileira de Telecomunicações - EMBRATEL, a assinar o acôrdo definitivo de operação com o INTELSAT.

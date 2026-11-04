@@ -1,5 +1,3 @@
-###DEL-008724-0-000-18-01-1946@@@
-
 DECRETO-LEI N. 8.724 – DE 18 DE JANEIRO DE 1946
 
 Altera a carreira de Tecnologista de Quadro Permanente do Ministério do Trabalho, e dá outras providências.

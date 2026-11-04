@@ -1,5 +1,3 @@
-###DEC-082223-0-000-05-09-1978@@@
-
 Decreto nº 82.223, de 05 de setembro de 1978.
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o Imóvel que menciona.

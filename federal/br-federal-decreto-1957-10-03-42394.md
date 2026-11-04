@@ -1,18 +1,16 @@
-###DEC-042394-0-000-03-10-1957@@@
+**DECRETO Nº 42.394, DE 3 DE OUTUBRO DE 1957.**
 
-<strong>DECRETO Nº 42.394, DE 3 DE OUTUBRO DE 1957.</strong>
+***Altera o Capítulo VII - Título I - Primeira Parte do Regulamento de Uniformes do Pessoal do Exército.***
 
-<em><strong>Altera o Capítulo VII - Título I - Primeira Parte do Regulamento de Uniformes do Pessoal do Exército.</strong></em>
+**OPRESIDENTEDAREPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I da Constituição Federal,
 
-<strong>O</strong> <strong>PRESIDENTE</strong> <strong>DA</strong> <strong>REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º O Capítulo VII (Título I - 1ª Parte do Regulamento aprovado pelo Decreto n.º 30.163, de 13 de novembro de 1951, modificado pelo Decreto n.º 40.556, de 17 de dezembro de 1956, passa a ter a seguinte redação:
 
-<strong>Art</strong>. 1º O Capítulo VII (Título I - 1ª Parte do Regulamento aprovado pelo Decreto n.º 30.163, de 13 de novembro de 1951, modificado pelo Decreto n.º 40.556, de 17 de dezembro de 1956, passa a ter a seguinte redação:
+**CAPÍTULO VII**
 
-<strong>CAPÍTULO VII</strong>
-
-<em>Condecorações</em>
+*Condecorações*
 
 “Art. 26 As condecorações adotadas ou de uso permitido pelo Exército são nacionais, estrangeiros ou internacionais, umas e outras de caráter militar ou civil. Apresentem-se sob, a forma de medalhas, colares, faixas, comendas e placas.
 
@@ -124,7 +122,7 @@ j) destinadas a premiar a aplicação aos estudos militares ou à instrução mi
 
 \- Medalhas-prêmios do Colégio Militar “Duque de Caxias”, “Almirante Barroso”, “Marquês do Herval”, “Visconde de Inhaúma”, “Conde de Pôrto Alegre”, “Marquês de Tamandaré”, “Marechal Deodoro”,” Marechal Carlos Machado “, “General Polidoro”, “General Benjamin Constant” “Barão do rio Branco “ - Decretos números 10,202, de 9 de março de 1889, 371, de 2 de maio de 1890, 750-A, de 2 de março de 1892, 6.465, de 29 de abril de 1.907, 9.677, de 24 de julho de 1912, 12.956,de 10 de abril de 1918, 15.416, de 27 de março de 1922, 19.729,de 2 de maio de 1929, 53, de 11de setembro de 1934, 3.809,de 13 de março de 1939 e 12.277,de 19 de abril de 1943 (art. 2º do Decreto nº 40.556, de 17 de dezembro de 1956).
 
-<strong>Art</strong>. 28 As condecorações estrangeiras de uso autorizado nos uniformes militares são as concedidas pelos Governos das nações amigas, para premiar serviços de natureza essencialmente militar.
+**Art**. 28 As condecorações estrangeiras de uso autorizado nos uniformes militares são as concedidas pelos Governos das nações amigas, para premiar serviços de natureza essencialmente militar.
 
 “Art. 29. As condecorações de caráter internacional de uso autorizado nos uniformes militares são as concedidas por organização mundial ou continental de que participe o Brasil, ou, em nome delas, por Govêrno de nação amiga, para premiar serviços de natureza essencialmente militar.
 
@@ -206,10 +204,10 @@ a) sôbre a casaca pode usar o militar miniatura das condecorações, presas em 
 
 b) sôbre os demais trajes como fôr estabelecido nas diversas ordens honoríficas ou, quando nada houver a respeito botoneiras, miniaturas das feitas ou das barretas, na lapela esquerda dos paletós”.
 
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 3 de outubro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

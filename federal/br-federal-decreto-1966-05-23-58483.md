@@ -1,5 +1,3 @@
-###DEC-058483-0-000-23-05-1966@@@
-
 Decreto nº 58.483, de 23 de maio de 1966.
 
 Dispõe sôbre os serviços de emprêsas de turismo, revoga o Decreto número 56.303-65 e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-067707-0-000-07-12-1970@@@
-
 DECRETO Nº 67.707, de 7 de dezembro de 1970.
 
 Regulamenta a concessão de incentivos fiscais e financeiros para o desenvolvimento industrial e dá outras providências.

@@ -18,8 +18,6 @@ Art. 5º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 2 de janeiro de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -29,7 +27,7 @@ ANEXO I
 | ÁREA DE TERRAS DECLARADAS DE UTILIDADE PÚBLICA PARA DESAPROPRIAÇÃO DESTINADA ÀS OBRAS E AOS SERVIÇOS DE CONSTRUÇÃO DA PONTE SOBRE O RIO CRIXÁS-MIRIM, NA RODOVIA GO-347, NO TRECHO ENTRE OS MUNICÍPIOS DE MOZARLÂNDIA/GO E CRIXÁS/GO. |
 | --- |
 | DENOMINAÇÃO | **Fazenda Crixás Mirim Travessão** |
-| ÁREA 1 | **83.444,45** **m²** |
+| ÁREA 1 | **83.444,45m²** |
 | LOCALIZAÇÃO | **Crixás/GO** |
 | PROPRIETÁRIO | **Medeiros Participações e Investimentos Ltda.** |
 | MATRÍCULA | **Nº 9.186** |
@@ -53,7 +51,7 @@ ANEXO III
 | ÁREA DE TERRAS DECLARADAS DE UTILIDADE PÚBLICA PARA DESAPROPRIAÇÃO DESTINADA ÀS OBRAS E AOS SERVIÇOS DE CONSTRUÇÃO DA PONTE SOBRE O RIO CRIXÁS-MIRIM, NA RODOVIA GO-347, NO TRECHO ENTRE OS MUNICÍPIOS DE MOZARLÂNDIA/GO E CRIXÁS/GO. |
 | --- |
 | DENOMINAÇÃO | **Loteamento Crixás Mirim - Vaquejador** |
-| ÁREA 3 | **3.627,89** **m2** |
+| ÁREA 3 | **3.627,89m2** |
 | LOCALIZAÇÃO | **Crixás/GO** |
 | PROPRIETÁRIO | **Medeiros Participações e Investimentos Ltda.** |
 | MATRÍCULA | **R01-M-7788** |

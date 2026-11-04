@@ -432,7 +432,7 @@ CARREIRA DE AUDITOR DO ESTADO
 
 QUANTITATIVO DE CARGOS
 
-<table><tbody><tr><td width="40%"><p>CARGO</p></td><td width="29%"><p>CLASSE</p></td><td width="31%"><p>QUANTIDADE</p></td></tr><tr><td rowspan="6"><p>Auditor do Estado</p><p></p><p></p><p></p><p></p><p></p></td><td><p>I</p></td><td rowspan="6"><p>150</p><p></p><p></p><p></p><p></p><p></p></td></tr><tr><td><p>II</p></td></tr><tr><td><p>III</p></td></tr><tr><td><p>IV</p></td></tr><tr><td><p>V</p></td></tr><tr><td><p>VI</p></td></tr></tbody></table>
+<table><tbody><tr><td> CARGO </td><td> CLASSE </td><td> QUANTIDADE </td></tr><tr><td rowspan="6"> Auditor do Estado </td><td> I </td><td rowspan="6"> 150 </td></tr><tr><td> II </td></tr><tr><td> III </td></tr><tr><td> IV </td></tr><tr><td> V </td></tr><tr><td> VI </td></tr></tbody></table>
 
 ANEXO II
 
@@ -440,7 +440,7 @@ CARREIRA DE AUDITOR DO ESTADO
 
 LINHA DE CORRELAÇÃO
 
-<table><tbody><tr><td width="26%" rowspan="2">CARGO<p></p></td><td colspan="2"><center>SITUAÇÃO ATUAL</center></td><td colspan="2"><center>SITUAÇÃO NOVA</center></td></tr><tr><td width="15%"><p>NÍVEL</p></td><td width="28%"><p>TEMPO DE SERVIÇO NO CARGO</p></td><td width="22%"><p>CARGO</p></td><td width="9%"><p>CLASSE</p></td></tr><tr><td rowspan="2"><p>Auditor Interno do Poder Executivo</p><p></p></td><td rowspan="2"><p>3</p><p></p></td><td><p>Até 10 anos</p></td><td><p>Auditor do Estado</p></td><td><p>III</p></td></tr><tr><td><p>10 anos ou mais</p></td><td><p>Auditor do Estado</p></td><td><p>IV</p></td></tr><tr><td rowspan="2"><p>Auditor Interno do Poder Executivo</p><p></p></td><td rowspan="2"><p>4</p><p></p></td><td><p>Até 10 anos</p></td><td><p>Auditor do Estado</p></td><td><p>V</p></td></tr><tr><td><p>10 anos ou mais</p></td><td><p>Auditor do Estado</p></td><td><p>VI</p></td></tr></tbody></table>
+<table><tbody><tr><td rowspan="2">CARGO </td><td colspan="2">SITUAÇÃO ATUAL</td><td colspan="2">SITUAÇÃO NOVA</td></tr><tr><td> NÍVEL </td><td> TEMPO DE SERVIÇO NO CARGO </td><td> CARGO </td><td> CLASSE </td></tr><tr><td rowspan="2"> Auditor Interno do Poder Executivo </td><td rowspan="2"> 3 </td><td> Até 10 anos </td><td> Auditor do Estado </td><td> III </td></tr><tr><td> 10 anos ou mais </td><td> Auditor do Estado </td><td> IV </td></tr><tr><td rowspan="2"> Auditor Interno do Poder Executivo </td><td rowspan="2"> 4 </td><td> Até 10 anos </td><td> Auditor do Estado </td><td> V </td></tr><tr><td> 10 anos ou mais </td><td> Auditor do Estado </td><td> VI </td></tr></tbody></table>
 
 ANEXO III
 
@@ -448,4 +448,30 @@ CARREIRA DE AUDITOR DO ESTADO
 
 COEFICIENTES DE ESCALONAMENTO
 
-<table><tbody><tr><td><p>CLASSE</p></td><td><p>COEFICIENTE</p></td></tr><tr><td><p>I</p></td><td><p>1,0000</p></td></tr><tr><td><p>II</p></td><td><p>1,1200</p></td></tr><tr><td><p>III</p></td><td><p>1,2400</p></td></tr><tr><td><p>IV</p></td><td><p>1,3600</p></td></tr><tr><td><p>V</p></td><td><p>1,4800</p></td></tr><tr><td><p>VI</p></td><td><p>1,6000</p></td></tr></tbody></table>
+CLASSE
+
+COEFICIENTE
+
+I
+
+1,0000
+
+II
+
+1,1200
+
+III
+
+1,2400
+
+IV
+
+1,3600
+
+V
+
+1,4800
+
+VI
+
+1,6000

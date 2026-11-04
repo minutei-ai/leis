@@ -1,7 +1,3 @@
-1
-
-###DEC-099282-0-000-06-06-1990@@@
-
 DECRETO N° 99.282, DE 6 DE JUNHO DE 1990
 
 Dá nova redação a dispositivos do Regulamento da Comissão Brasileira de Atividades Espaciais - COBAE aprovado pelo Decreto n° 76.596, de 14 de novembro de 1975.

@@ -1,6 +1,7 @@
 LEI Nº 1.038 DE 20 DE AGOSTO DE 1958
 
-Ver também:<br>
+Ver também:
+
 Lei nº 13.362, de 29 de junho de 2015 - Atualiza, na forma da Lei nº 12.057, de 11 de janeiro de 2011, os limites dos Municípios de Boa Vista do Tupim, Iaçu, Ibiquera, Itaberaba, Itatim, Lajedinho, Macajuba, Mundo Novo, Piritiba, Rafael Jambeiro, Ruy Barbosa, Santa Terezinha e Tapiramutá.
 
 Cria o município de Ibiquera, desmembrado do de Itaberaba.
@@ -55,4 +56,4 @@ Nelson Martins de Almeida
 
 Josaphat Carlos Borges
 
-* * *
+ *

@@ -1,5 +1,3 @@
-###DEC-073491-0-000-17-01-1974@@@
-
 DECRETO Nº 73.491, DE 17 DE JANEIRO DE 1974.
 
 Retifica o Decreto nº 71.040, de 30 de agosto de 1972, que autorizou o funcionamento da Faculdade de Comunicação do Instituto Metodista de Ensino Superior, com sede na cidade de São Bernardo do Campo, Estado de São Paulo.

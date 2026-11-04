@@ -1,7 +1,3 @@
-1
-
-###DEC-095845-0-000-18-03-1988@@@
-
 DECRETO N° 95.845, DE 18 DE MARÇO DE 1988
 
 Outorga concessão à RÁDIO DIFUSORA DO VALE ACARAÚ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Acaraú, Estado do Ceará.

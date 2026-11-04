@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/147435)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2008/compilacao-lei-13296-23.12.2008.html)
 
 # LEI N° 13.296, DE 23 DE DEZEMBRO DE 2008
@@ -7,17 +6,20 @@
 
 ### _Estabelece o tratamento tributário do Imposto sobre a Propriedade de Veículos Automotores - IPVA._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
 Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 DISPOSIÇÕES PRELIMINARES
 
 **Artigo 1° -** Fica estabelecido, por esta lei, o tratamento tributário do Imposto sobre a Propriedade de Veículos Automotores - IPVA.
 
 **Parágrafo único -** Considera-se veículo automotor aquele dotado de mecanismo de propulsão própria e que sirva para o transporte de pessoas ou coisas ou para a tração de veículos utilizados para o transporte de pessoas ou coisas.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 DO FATO GERADOR
 
 **Artigo 2° -** O Imposto sobre a Propriedade de Veículos Automotores - IPVA, devido anualmente, tem como fato gerador a propriedade de veículo automotor.
@@ -62,12 +64,18 @@ _\- Vide artigo 6° da [Lei n° 17.302, de 11/12/2020](https://www.al.sp.gov.br/
 
  _\- Parágrafo único declarado inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal nos autos da_ [_ADI n° 4376._](https://portal.stf.jus.br/)
 
-**Artigo 4° -** O imposto será devido no local do domicílio ou da residência do proprietário do veículo neste Estado.<br>
-**§ 1° -** Para os efeitos desta lei, considerar-se-á domicílio:<br>
-**1 -** se o proprietário for pessoa natural:<br>
-**a)** a sua residência habitual;<br>
-**b)** se a residência habitual for incerta ou desconhecida, o centro habitual de sua atividade onde o veículo esteja sendo utilizado;<br>
-**2 -** se o proprietário for pessoa jurídica de direito privado:<br>
+**Artigo 4° -** O imposto será devido no local do domicílio ou da residência do proprietário do veículo neste Estado.
+
+**§ 1° -** Para os efeitos desta lei, considerar-se-á domicílio:
+
+**1 -** se o proprietário for pessoa natural:
+
+**a)** a sua residência habitual;
+
+**b)** se a residência habitual for incerta ou desconhecida, o centro habitual de sua atividade onde o veículo esteja sendo utilizado;
+
+**2 -** se o proprietário for pessoa jurídica de direito privado:
+
 ~~**a)** o estabelecimento situado no território deste Estado, quanto aos veículos automotores que a ele estejam vinculados na data da ocorrência do fato gerador;~~
 
 **a)** Declarada inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal.
@@ -86,13 +94,20 @@ _\- Alínea "b" declarada inconstitucional, em controle concentrado, pelo Suprem
 
 _\- Alínea "c" declarada inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal nos autos da_ [_ADI n° 4376._](https://portal.stf.jus.br/)
 
-**3 -** qualquer de suas repartições no território deste Estado, se o proprietário ou locatário for pessoa jurídica de direito público.<br>
-**§ 2° -** No caso de pessoa natural com múltiplas residências, presume-se como domicílio tributário para fins de pagamento do IPVA:<br>
-**1 -** o local onde, cumulativamente, possua residência e exerça profissão;<br>
-**2 -** caso possua residência e exerça profissão em mais de um local, o endereço constante da Declaração de Imposto de Renda.<br>
-**§ 3° -** Na impossibilidade de se precisar o domicílio tributário da pessoa natural nos termos dos §§ 1° e 2° deste artigo, a autoridade administrativa poderá fixá-lo tomando por base o endereço que vier a ser apurado em órgãos públicos, nos cadastros de domicílio eleitoral e nos cadastros de empresa seguradora e concessionária de serviço público, dentre outros.<br>
-**§ 4° -** No caso de pessoas jurídicas de direito privado, não sendo possível determinar a vinculação do veículo na data da ocorrência do fato gerador, nos termos do item 2 do § 1° deste artigo, presume-se como domicílio o local do estabelecimento onde haja indícios de utilização do veículo com predominância sobre os demais estabelecimentos da mesma pessoa jurídica.<br>
-**§ 5° -** Presume-se domiciliado no Estado de São Paulo o proprietário cujo veículo estiver registrado no órgão competente deste Estado.<br>
+**3 -** qualquer de suas repartições no território deste Estado, se o proprietário ou locatário for pessoa jurídica de direito público.
+
+**§ 2° -** No caso de pessoa natural com múltiplas residências, presume-se como domicílio tributário para fins de pagamento do IPVA:
+
+**1 -** o local onde, cumulativamente, possua residência e exerça profissão;
+
+**2 -** caso possua residência e exerça profissão em mais de um local, o endereço constante da Declaração de Imposto de Renda.
+
+**§ 3° -** Na impossibilidade de se precisar o domicílio tributário da pessoa natural nos termos dos §§ 1° e 2° deste artigo, a autoridade administrativa poderá fixá-lo tomando por base o endereço que vier a ser apurado em órgãos públicos, nos cadastros de domicílio eleitoral e nos cadastros de empresa seguradora e concessionária de serviço público, dentre outros.
+
+**§ 4° -** No caso de pessoas jurídicas de direito privado, não sendo possível determinar a vinculação do veículo na data da ocorrência do fato gerador, nos termos do item 2 do § 1° deste artigo, presume-se como domicílio o local do estabelecimento onde haja indícios de utilização do veículo com predominância sobre os demais estabelecimentos da mesma pessoa jurídica.
+
+**§ 5° -** Presume-se domiciliado no Estado de São Paulo o proprietário cujo veículo estiver registrado no órgão competente deste Estado.
+
 **§ 6° -** Em se tratando de veículo de propriedade de empresa de arrendamento mercantil (leasing), o imposto será devido no local do domicílio ou residência do arrendatário, nos termos deste artigo.
 
 _\- O STF conferiu ao § 6° interpretação conforme a Constituição para que a expressão "local do domicílio ou residência do arrendatário" seja compreendida à luz do Tema 708, alcançando a competência tributária de São Paulo apenas os casos em que o arrendatário possua sede ou domicílio tributário no território paulista, nos autos da_ [_ADI n° 4376_](https://portal.stf.jus.br/)_._
@@ -103,7 +118,8 @@ _\- O STF conferiu ao § 6° interpretação conforme a Constituição para que 
 
 _\- § 7° declarado inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal nos autos da_ [_ADI n° 4376._](https://portal.stf.jus.br/)
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 DO CONTRIBUINTE E DO RESPONSÁVEL
 
 **Artigo 5° -** Contribuinte do imposto é o proprietário do veículo.
@@ -156,7 +172,8 @@ _\-  Expressão "sócio, diretor, gerente ou administrador" declarada inconstit
 
 **§ 3° -** Para eximir-se da responsabilidade prevista nos incisos VIII e IX deste artigo, a pessoa jurídica ou o agente público deverá exigir comprovação de regular inscrição da empresa locadora no Cadastro de Contribuintes do IPVA, bem como do pagamento do imposto devido a este Estado, relativamente aos veículos objetos da locação.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 DA BASE DE CÁLCULO DO IMPOSTO
 
 **Artigo 7° -** A base de cálculo do imposto é:
@@ -209,7 +226,8 @@ DA BASE DE CÁLCULO DO IMPOSTO
 
 **II -** na verificação de incompatibilidade entre o valor de aquisição do veículo e o valor de mercado.
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 DAS ALÍQUOTAS
 
 ~~Artigo 9° - A alíquota do imposto, aplicada sobre a base de cálculo atribuída ao veículo, será de:~~
@@ -300,15 +318,18 @@ _~~\- § 3° com redação dada pela [Lei n° 16.029, de 03/12/2015](https://www
 
 _\- § 3° com redação dada pela [Lei n° 17.473, de 16/12/2021](https://www.al.sp.gov.br/norma/201408), com efeitos a partir de 01/01/2022._
 
-#### SEÇÃO VI<br>
+#### SEÇÃO VI
+
 DO CÁLCULO DO IMPOSTO
 
 **Artigo 10 -** O valor do imposto será obtido mediante a multiplicação da alíquota pela base de cálculo.
 
-**Artigo 11 -** Nos casos de que tratam os incisos II a X, alíneas "b" e "c" do artigo 3° desta lei, o imposto será calculado de forma proporcional ao número de meses restantes do ano civil.**<br>
+**Artigo 11 -** Nos casos de que tratam os incisos II a X, alíneas "b" e "c" do artigo 3° desta lei, o imposto será calculado de forma proporcional ao número de meses restantes do ano civil.**
+
 Parágrafo único -** Para efeito de contagem do número de meses restantes do ano civil, será incluído o mês da ocorrência do fato gerador.
 
-#### SEÇÃO VII<br>
+#### SEÇÃO VII
+
 DA IMUNIDADE, DA ISENÇÃO E DA DISPENSA DO PAGAMENTO DO IMPOSTO
 
 _\- Vide [Decreto n° 59.953, de 13/12/2013](https://www.al.sp.gov.br/norma/172030)._
@@ -557,7 +578,8 @@ _\- § 7° acrescentado pela [Lei n° 17.473, de 16/12/2021](https://www.al.sp.g
 
 **Artigo 16 -** Verificado que o beneficiário não preenchia ou deixou de preencher as condições exigidas para a imunidade, isenção ou dispensa, o imposto deverá ser recolhido no prazo de 30 (trinta) dias contados da data da ocorrência do evento, observado o disposto no parágrafo único do artigo 11, e a base de cálculo do imposto será definida em conformidade com os artigos 7° ou 8°, todos desta lei.
 
-#### SEÇÃO VIII<br>
+#### SEÇÃO VIII
+
 DO LANÇAMENTO DO IMPOSTO
 
 ~~Artigo 17 - O contribuinte ou o responsável efetuará anualmente o pagamento do imposto, na forma estabelecida pelo Poder Executivo, o qual ficará sujeito à homologação pela autoridade administrativa competente.~~
@@ -582,8 +604,10 @@ _\- Vide [Decreto n° 54.714, de 27/08/2009](https://www.al.sp.gov.br/norma/1574
 
 _\- Parágrafo único acrescentado pela [Lei n° 17.293, de 15/10/2020](https://www.al.sp.gov.br/norma/195740)._
 
-~~**§ 1° -** Diferença, para os efeitos deste artigo, é o valor do imposto e seus acréscimos legais, que restarem devidos após imputação efetuada mediante distribuição proporcional do valor recolhido entre os componentes do débito.~~<br>
-~~**§ 2° -** A notificação prevista neste artigo conterá a identificação do contribuinte, do responsável solidário, quando for o caso, do veículo, a data de vencimento e a forma de pagamento do imposto e acréscimos legais, podendo ser realizada por meio de edital publicado no Diário Oficial do Estado, por correio, pessoalmente ou por meio eletrônico.~~<br>
+~~**§ 1° -** Diferença, para os efeitos deste artigo, é o valor do imposto e seus acréscimos legais, que restarem devidos após imputação efetuada mediante distribuição proporcional do valor recolhido entre os componentes do débito.~~
+
+~~**§ 2° -** A notificação prevista neste artigo conterá a identificação do contribuinte, do responsável solidário, quando for o caso, do veículo, a data de vencimento e a forma de pagamento do imposto e acréscimos legais, podendo ser realizada por meio de edital publicado no Diário Oficial do Estado, por correio, pessoalmente ou por meio eletrônico.~~
+
 ~~**§ 3° -** Quando a notificação for feita por meio de publicação no Diário Oficial do Estado, o contribuinte ou interessado será cientificado da publicação na forma estabelecida pelo Poder Executivo.~~
 
 ~~**§ 4° -** Quando o imposto ou a diferença apurada for inferior ou igual a 5 (cinco) UFESPs calculados no exercício a que se refere o débito, fica a autoridade administrativa tributária autorizada a não proceder conforme estabelecido no "caput" deste artigo. (NR)~~
@@ -604,7 +628,8 @@ _\- O Tribunal de Justiça do Estado de São Paulo, nos autos da_ [_ADI n° 2006
 
 **Artigo 20 -** Enquanto não extinto o direito de constituir o crédito tributário, o lançamento poderá ser revisto de ofício pela autoridade administrativa, quando verificado erro ou fato não conhecido ou não provado.
 
-#### SEÇÃO IX<br>
+#### SEÇÃO IX
+
 DO RECOLHIMENTO DO IMPOSTO
 
 ~~Artigo 21 - O imposto do veículo usado será devido anualmente na data da ocorrência do fato gerador, e deverá ser pago à vista no mês de fevereiro ou em três parcelas mensais, iguais e consecutivas, vencíveis nos meses de janeiro, fevereiro e março, desde que a primeira seja recolhida integralmente no respectivo vencimento no mês de janeiro e o valor de cada parcela seja equivalente a, no mínimo, 2 (duas) UFESPs do mês do recolhimento.~~
@@ -719,7 +744,8 @@ _\- § 3° acrescentado pela [Lei n° 17.473, de 16/12/2021](https://www.al.sp.g
 
 **§ 2° -** Se não comprovar o pagamento do imposto a outra unidade federada, o proprietário deverá, para proceder à transferência, recolher o imposto proporcionalmente ao número de meses restantes do exercício fiscal, calculado a partir do mês em que deveria ter se inscrito no Cadastro de Contribuintes do IPVA deste Estado, conforme o disposto no artigo 11 desta lei.
 
-#### SEÇÃO X<br>
+#### SEÇÃO X
+
 DOS ACRÉSCIMOS MORATÓRIOS E DOS JUROS
 
 ~~Artigo 27 - O imposto não recolhido no prazo determinado nesta lei estará sujeito a acréscimos moratórios correspondentes a 0,33% (trinta e três centésimos por cento) por dia de atraso, até o limite de 20% (vinte por cento), calculados sobre o valor do imposto.~~
@@ -752,10 +778,12 @@ _\- O Tribunal de Justiça do Estado de São Paulo, nos autos da_ [_ADI n° 2006
 
 **§ 4° -** O Poder Executivo divulgará, mensalmente, a taxa a que se refere esse artigo.
 
-**§ 5° -** Os juros serão calculados sobre os acréscimos moratórios e também sobre os valores das penalidades.**<br>
+**§ 5° -** Os juros serão calculados sobre os acréscimos moratórios e também sobre os valores das penalidades.**
+
 Artigo 29 -** Os encargos previstos nos artigos 27 e 28 desta lei são decorrência natural da mora e serão exigidos independentemente de lançamento de ofício.
 
-#### SEÇÃO XI<br>
+#### SEÇÃO XI
+
 DO CADASTRO DE CONTRIBUINTES DO IPVA
 
 **Artigo 30 -** O Poder Executivo organizará e manterá o Cadastro de Contribuintes do IPVA, podendo utilizar as informações relativas ao veículo ou ao proprietário constantes de registros de outros órgãos públicos.
@@ -768,7 +796,8 @@ DO CADASTRO DE CONTRIBUINTES DO IPVA
 
 **Parágrafo único -** No caso de veículo objeto de arrendamento mercantil ou de alienação fiduciária em garantia, o Cadastro de Contribuintes do IPVA deverá conter a identificação do arrendante e do arrendatário ou do devedor fiduciante e do credor fiduciário.
 
-#### SEÇÃO XII<br>
+#### SEÇÃO XII
+
 DAS OBRIGAÇÕES ACESSÓRIAS
 
 **Artigo 32 -** Fica obrigado a fornecer os dados necessários à inscrição no Cadastro de Contribuintes do IPVA:
@@ -817,7 +846,8 @@ _\- Vide [Decreto n° 60.489, de 23/05/2014](https://www.al.sp.gov.br/norma/1729
 
 **Artigo 38 -** As autoridades responsáveis pelo registro e manutenção de cadastros de veículos ficam obrigadas a fornecer ao fisco a relação de veículos constantes de seu cadastro, transferências registradas e valores das transferências, bem como a informar o nome e endereço dos alienantes e adquirentes.
 
-#### SEÇÃO XIII<br>
+#### SEÇÃO XIII
+
 DAS PENALIDADES
 
 **Artigo 39 -** Constituem condutas passíveis de imposição de multa:
@@ -846,7 +876,8 @@ DAS PENALIDADES
 
 **§ 2° -** Para cálculo das multas baseadas em UFESP, deve ser considerado o seu valor na data da lavratura do Auto de Infração e Imposição de Multa, não se aplicando o disposto no artigo 3° da Lei n° 10.175, de 30 de dezembro de1998.
 
-#### SEÇÃO XIV<br>
+#### SEÇÃO XIV
+
 DA REPARTIÇÃO DA RECEITA
 
 **Artigo 40 -** Do produto da arrecadação do imposto, descontadas outras destinações instituídas por lei federal, 50% (cinqüenta por cento) constituirá receita do Município onde estiver domiciliado, nos termos do artigo 4° desta lei, o proprietário do veículo, incluídos os valores correspondentes aos juros e aos acréscimos moratórios.
@@ -857,7 +888,8 @@ DA REPARTIÇÃO DA RECEITA
 
 **§ 2° -** Nas hipóteses de restituição do imposto, a parcela proporcional será deduzida da receita do Município.
 
-#### SEÇÃO XV<br>
+#### SEÇÃO XV
+
 DO PROCEDIMENTO ADMINISTRATIVO TRIBUTÁRIO
 
 **Artigo 42 -** O procedimento administrativo tributário referente ao IPVA iniciar-se-á com a notificação do lançamento ou do Auto de Infração e Imposição de Multa.
@@ -894,7 +926,8 @@ DO PROCEDIMENTO ADMINISTRATIVO TRIBUTÁRIO
 
 **II -** o débito definitivamente julgado e não recolhido no prazo previsto no artigo 47 desta lei.
 
-#### SEÇÃO XVI<br>
+#### SEÇÃO XVI
+
 DAS DISPOSIÇÕES FINAIS
 
 **Artigo 49 -** Aplica-se ao IPVA, no que couber, a legislação do ICMS referente às normas sobre administração tributária, especialmente os dispositivos da [Lei n°. 6.374, de 1° de março de 1989](https://www.al.sp.gov.br/norma/25030), no que refere:
@@ -975,7 +1008,8 @@ _\- Parágrafo único acrescentado pela [Lei n° 18.386, de 23/12/2025](https://
 
 **Parágrafo único -** O disposto no § 4° do artigo 7° somente produzirá efeitos a partir de 1° de janeiro de 2010.
 
-#### SEÇÃO XVII<br>
+#### SEÇÃO XVII
+
 DISPOSIÇÕES TRANSITÓRIAS
 
 **Artigo 1° -** A base de cálculo utilizada para o cálculo do imposto dos veículos usados referente ao exercício de 2009 será aquela divulgada pelo Poder Executivo de acordo com os critérios fixados na [Lei n° 6.606, de 20 de dezembro de 1989](https://www.al.sp.gov.br/norma/23709).
@@ -1032,12 +1066,20 @@ _\- Item 3 acrescentado pela [Lei n° 18.065, de 18/12/2024](https://www.al.sp.g
 
 _\- Item 4 acrescentado pela [Lei n° 18.065, de 18/12/2024](https://www.al.sp.gov.br/norma/210393), em vigor a partir de 01/01/2025._
 
-Palácio dos Bandeirantes, aos 23 de dezembro de 2008.<br>
-José Serra<br>
-Francisco Vidal Luna<br>
-Secretário de Economia e Planejamento<br>
-Mauro Ricardo Machado Costa<br>
-Secretário da Fazenda<br>
-Humberto Rodrigues da Silva<br>
-Secretário-Adjunto, respondendo pelo expediente da Casa Civil<br>
+Palácio dos Bandeirantes, aos 23 de dezembro de 2008.
+
+José Serra
+
+Francisco Vidal Luna
+
+Secretário de Economia e Planejamento
+
+Mauro Ricardo Machado Costa
+
+Secretário da Fazenda
+
+Humberto Rodrigues da Silva
+
+Secretário-Adjunto, respondendo pelo expediente da Casa Civil
+
 Publicada na Assessoria Técnico-Legislativa, aos 23 de dezembro de 2008.

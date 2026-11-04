@@ -1,5 +1,3 @@
-###DEC-093613-0-000-21-11-1986@@@
-
 DECRETO Nº 93.613, DE 21 DE NOVEMBRO DE 1986.
 
 Extingue órgãos do Ministério da Educação, e dá outras providências.

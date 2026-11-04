@@ -1,5 +1,3 @@
-###DEL-000154-0-000-10-02-1967@@@
-
 DECRETO-LEI Nº 154, DE 10 DE FEVereiro DE 1967
 
 Dispõe sôbre os bens e pessoal vinculado ao Serviço de Navegação da Bacia do Prata - Autarquia Federal vinculada ao Ministério da Viação e Obras Públicas, extingue esta Autarquia, e autoriza a constituição do Serviço de Navegação da Bacia do Prata S.A. e dá outras providências.

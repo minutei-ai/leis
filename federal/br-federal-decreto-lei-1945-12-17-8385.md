@@ -1,5 +1,3 @@
-###DEL-008385-0-000-17-12-1945@@@
-
 DECRETO-LEI N. 8.385 – DE 17 DE DEZEMBRO DE 1945
 
 Autoriza o Ministério da Agricultura a firmar um acôrdo com o Estado de São Paulo, visando a instalação por êste último, de um serviço para a produção de sementes de milho híbrido.

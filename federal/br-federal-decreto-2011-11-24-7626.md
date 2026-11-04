@@ -1,5 +1,3 @@
-###DEC-007626-0-000-24-11-2011-PUB-01@@@
-
 DECRETO N°\- 7.626, DE 24 DE NOVEMBRO DE 2011
 
 Institui o Plano Estratégico de Educação no âmbito do Sistema Prisional.

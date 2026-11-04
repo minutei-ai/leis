@@ -1,5 +1,3 @@
-###DEC-064192-0-000-12-03-1969@@@
-
 DECRETO Nº 64.192, DE 12 DE MARÇO DE 1969.
 
 Declara de utilidade pública o Colégio Salesiano Dom Henrique, com sede em Lins, Estado de São Paulo.

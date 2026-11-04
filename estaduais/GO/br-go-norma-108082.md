@@ -1,4 +1,5 @@
-LEI Nº 22.384, DE 20 DE NOVEMBRO DE 2023<br>
+LEI Nº 22.384, DE 20 DE NOVEMBRO DE 2023
+
 \- [Vide Decreto nº 10.679, de 16-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110590) - Regulamenta os aspectos técnicos que permitam definir as comunidades rurais para o enquadramento no Programa Estadual de Saneamento Rural
 
 Institui o Programa Estadual de Saneamento Rural, estabelece as diretrizes e as condições para a prestação do serviço público de saneamento básico de abastecimento de água e esgotamento sanitário em comunidades estabelecidas em zonas e áreas rurais no Estado de Goiás.

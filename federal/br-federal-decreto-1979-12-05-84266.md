@@ -1,5 +1,3 @@
-###DEC-084266-0-000-05-12-1979@@@
-
 Decreto nº 84.266, de 05 de dezembro de 1979
 
 Dispõe sobre a estrutura básica da Secretaria Especial de Informática (SEI).

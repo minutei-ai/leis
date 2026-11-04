@@ -1,5 +1,3 @@
-###DEC-048444-0-000-29-06-1960@@@
-
 DECRETO Nº 48.444, DE 29 DE JUNHO DE 1960.
 
 Regula em caráter provisório as atividades do Registro do Comércio e afins em Brasília.

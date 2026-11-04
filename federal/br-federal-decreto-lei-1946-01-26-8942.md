@@ -1,5 +1,3 @@
-###DEL-008942-0-000-26-01-1946@@@
-
 DECRETO-LEI  N.  8.942 – DE 26 DE JANEIRO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a isentar a Fundação Visconde de Cabo Frio do pagamento do impôsto que menciona.

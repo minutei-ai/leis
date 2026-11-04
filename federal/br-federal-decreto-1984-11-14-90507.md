@@ -1,5 +1,3 @@
-###DEC-090507-0-000-14-11-1984@@@
-
 Decreto nº 90.507, de 14 de novembro de 1984
 
 Dispõe sobre o montante do Capital Social da Centrais Elétricas do Norte do Brasil S.A. - ELETRONORTE.

@@ -1,5 +1,3 @@
-###DEC-066737-0-000-18-06-1970@@@
-
 DECRETO Nº 66.737, DE 18 DE JUNHO DE 1970.
 
 Aprova o Relatório Final dos Estudos Energéticos da Região Sul do Brasil.

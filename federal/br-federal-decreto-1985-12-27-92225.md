@@ -1,5 +1,3 @@
-###DEC-092225-0-000-27-12-1985@@@
-
 Decreto nº 92.225, de 27 de dezembro de 1985
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Seringal Vista Alegre", situado no Município de Rio Branco, no Estado do Acre, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 67.557, de 12 de novembro de 1970, alterado pelos Decretos nºs 75.295, de 27 de janeiro de 1975, 85.075, de 27 de agosto de 1980 e 91.912, de 12 de novembro de 1985, e dá outras providências.

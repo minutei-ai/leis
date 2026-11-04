@@ -1,5 +1,3 @@
-###DEC-093574-0-000-13-11-1986@@@
-
 DECRETO Nº 93.574, DE 13 DE NOVEMBRO DE 1986
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO GLOBO DO PORTO ALEGRE LTDA., para a RÁDIO PIONEIRA STEREO LTDA.

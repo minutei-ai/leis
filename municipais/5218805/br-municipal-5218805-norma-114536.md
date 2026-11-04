@@ -94,7 +94,8 @@ II –  ......................................................................
 
 “Art. 2 Revogadas disposições em contrário, esta Lei entrará em vigor na data de sua publicação.
 
-Gabinete do Prefeito de Rio Verde, aos 04 de dezembro de 2009.<br>
+Gabinete do Prefeito de Rio Verde, aos 04 de dezembro de 2009.
+
  
 
 JURACI MARTINS DE OLIVEIRA

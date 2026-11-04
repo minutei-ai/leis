@@ -1,7 +1,3 @@
-1
-
-###DEC-097732-0-000-09-05-1989@@@
-
 DECRETO N° 97.732, DE 09 DE MAIO DE 1989
 
 Autoriza o funcionamento de habilitações do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras Santa Marcelina, em Muriaé, Minas Gerais.

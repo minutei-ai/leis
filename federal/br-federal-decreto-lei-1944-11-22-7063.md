@@ -1,5 +1,3 @@
-###DEL-007063-0-000-22-11-1944@@@
-
 DECRETO-LEI N. 7.063 – DE 22 DE NOVEMBRO DE 1944
 
 Abre crédito suplementar ao Ministério da Justiça e Negócios Interiores

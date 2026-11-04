@@ -1,5 +1,3 @@
-###DEC-049129-0-000-20-10-1960@@@
-
 DECRETO Nº 49.129, DE 20 DE OUTUBRO DE 1960.
 
 Cria o consulado honorário do Brasil em Mônaco.

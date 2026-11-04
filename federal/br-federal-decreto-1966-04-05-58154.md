@@ -1,5 +1,3 @@
-###DEC-058154-0-000-05-04-1966@@@
-
 Decreto nº 58.154, de 5 de abril de 1966.
 
 Altera a tabela de salário mínimo aprovada pelo Decreto nº 57.900, de 2-3-66, na parte que específica.

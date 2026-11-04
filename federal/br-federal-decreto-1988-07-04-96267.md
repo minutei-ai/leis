@@ -1,5 +1,3 @@
-###DEC-096267-0-000-04-07-1988@@@
-
 DECRETO N° 96.267, DE 04 DE JULHO DE 1988
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados da Faculdade de Ciências da Computação, no Rio de Janeiro.

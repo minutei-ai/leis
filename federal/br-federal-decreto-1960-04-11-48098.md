@@ -1,5 +1,3 @@
-###DEC-048098-0-000-11-04-1960@@@
-
 DECRETO Nº 48.098, DE 11 DE ABRIL DE 1960.
 
 Dispõe sôbre ajuda de custo ao pessoal militar mandado servir em Brasília.

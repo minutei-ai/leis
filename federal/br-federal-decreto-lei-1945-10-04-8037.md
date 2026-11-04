@@ -1,5 +1,3 @@
-###DEL-008037-0-000-04-10-1945@@@
-
 DECRETO-LEI N. 8.037 – DE 4 DE OUTUBRO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a conceder à "Associação da Companhia Santa Úrsula” isenção dos impostos que menciona

@@ -1,5 +1,3 @@
-###DEC-007659-0-000-23-12-2011-PUB-01@@@
-
 DECRETO Nº 7.659, DE 23 DE DEZEMBRO DE 2011
 
 Altera os Decretos nºs 6.521, de 30 de julho de 2008, 6.359, de 18 de janeiro de 2008, 6.280, de 3 de dezembro de 2007, 6.191, de 20 de agosto de 2007, 5.743, de 4 de abril de 2006, e 5.551, de 26 de setembro de 2005, para prorrogar o prazo de remanejamento de cargos em comissão do Grupo-Direção e Assessoramento Superiores-DAS, altera o prazo estabelecido no V do caput do art. 3o do Decreto de 9 de junho de 2008, que cria o Comitê Interministerial de Gestão das Ações Governamentais nos V Jogos Mundiais Militares RIO2011 - Os Jogos da Paz, cria representação do Ministério da Defesa no Rio de Janeiro para a Conferência das Nações Unidas sobre Desenvolvimento Sustentável - Rio + 20 e remaneja cargos em comissão para o Ministério da Defesa.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001095-0-000-25-08-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.095, DE 25 DE AGOSTO DE 1995.
 
 Extingue as vantagens que menciona, institui os Décimos e Incorporados , e dá outras providências.

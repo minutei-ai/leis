@@ -1,7 +1,3 @@
-1
-
-###DEC-000429-0-000-17-01-1992@@@
-
 DECRETO N° 429, DE 17 DE JANEIRO DE 1992
 
 Altera os arts. 2°, 4° e 5° do Decreto n° 97 945, de 11 de julho de 1989.

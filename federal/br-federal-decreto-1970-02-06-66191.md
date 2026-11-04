@@ -1,5 +1,3 @@
-###DEC-066191-0-000-06-02-1970@@@
-
 DECRETO Nº 66.191 - DE 6 DE FEVEREIRO DE 1970
 
 Aprova Plano de Reestruturação da Universidade Federal de Santa Maria.

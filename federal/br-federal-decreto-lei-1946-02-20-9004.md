@@ -1,5 +1,3 @@
-###DEL-009004-0-000-20-02-1946@@@
-
 DECRETO-LEI N. 9.004 – DE 20  DE FEVEREIRO DE 1946
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 58.990,00, para pagamento de obras efetuadas no Aprendizado Agrícola “Nilo Peçanha".

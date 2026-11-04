@@ -1,5 +1,3 @@
-###DEC-064577-0-000-23-05-1969@@@
-
 DECRETO Nº 64.577, DE 23 DE MAIO DE 1969.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra destinada à construção da nova estação telefônica de Lorena, Estado de São Paulo.

@@ -162,7 +162,8 @@ Art. 4º No primeiro e segundo mês de produção dos efeitos deste Decreto, em 
 
 Art. 5º No primeiro e segundo mês de produção dos efeitos deste Decreto, em substituição às previsões dos §§ 2º e 5º do art. 3º do Anexo XVII do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 1997, a indicação da nota fiscal deve considerar a UF do emitente para 100% (cem por cento) do produto (Convênio ICMS 199/22, cláusula trigésima terceira-C).
 
-Art. 5º-A Na hipótese de início de atividades de novo estabelecimento de TRR ou Distribuidor de Combustíveis ou Distribuidor de Gás, para os dois primeiros meses de operação, devem ser observados os procedimentos previstos nos arts. 4º e 5º deste Decreto (Convênio ICMS nº 199/22, cláusula trigésima terceira-H).<br>
+Art. 5º-A Na hipótese de início de atividades de novo estabelecimento de TRR ou Distribuidor de Combustíveis ou Distribuidor de Gás, para os dois primeiros meses de operação, devem ser observados os procedimentos previstos nos arts. 4º e 5º deste Decreto (Convênio ICMS nº 199/22, cláusula trigésima terceira-H).
+
 \- [Acrescido pelo Decreto nº 10.920, de 3-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115185).
 
 Art. 6º No primeiro mês de produção dos efeitos deste Decreto, para cumprimento da previsão do § 3º do art. 3º do Anexo XVII do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266), de 1997, os distribuidores de gás podem utilizar os percentuais apurados nos termos do Convênio ICMS 110/07 e Ato COTEPE ICMS 13/14, dos 4 (quatro) últimos períodos (Convênio ICMS 199/22, cláusula trigésima terceira-D).

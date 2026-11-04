@@ -1,5 +1,3 @@
-###DEC-066342-0-000-18-03-1970@@@
-
 DECRETO Nº 66.342 - DE 18 DE MARÇO DE 1970
 
 Altera o enquadramento dos cargos, funções e empregos do antigo Ministério do Trabalho, Indústria e Comércio (MTIC) de que trata o Decreto nº 55.443, de 5 de janeiro de 1965, e dá outras providências.

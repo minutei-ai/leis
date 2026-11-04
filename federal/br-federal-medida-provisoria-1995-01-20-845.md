@@ -1,7 +1,3 @@
-1
-
-###MPV-000845-0-000-20-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 845, DE 20 DE JANEIRO DE 1995
 
 Dispõe sobre a instituição de crédito fiscal, mediante ressarcimento do valor de contribuições sociais (PIS/Pasep e Confins) nos casos que especifica, e dá outras providências.

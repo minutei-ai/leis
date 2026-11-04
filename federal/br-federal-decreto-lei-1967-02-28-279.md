@@ -1,5 +1,3 @@
-###DEL-000279-0-000-28-02-1967@@@
-
 deCREto-LEI Nº 279, DE 28 FEVEREIRO DE 1967
 
 Autoriza o Poder Executivo a abrir crédito especial, ao Ministério da Educação e Cultura.

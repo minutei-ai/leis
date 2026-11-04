@@ -94,7 +94,21 @@ I - SITUAÇÃO ATUAL:
 | LOTE 23 | 378,60 |
 | LOTE 24 | 378,60 |
 
-<table><thead></thead><tbody><tr><td style="text-align:center">LOTE 25</td><td style="text-align:center">378,60</td></tr><tr><td style="text-align:center">LOTE 26</td><td style="text-align:center">378,60</td></tr><tr><td style="text-align:center">LOTE 27</td><td style="text-align:center">378,60</td></tr><tr><td style="text-align:center">LOTE 28</td><td style="text-align:center">429,04</td></tr></tbody></table>
+LOTE 25
+
+378,60
+
+LOTE 26
+
+378,60
+
+LOTE 27
+
+378,60
+
+LOTE 28
+
+429,04
 
 | **QUADRA 26** | **(M²)** |
 | --- | --- |
@@ -131,8 +145,10 @@ Art. 2º. Este Decreto entra em vigor na data de sua publicação, revogando as 
 
 Aparecida de Goiânia, Estado de Goiás, 17 de julho de 2023.
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária Interina de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário Interino de Planejamento e Regulação Urbana

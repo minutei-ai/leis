@@ -1,5 +1,3 @@
-###DEC-054153-0-000-20-08-1964@@@
-
 DECRETO Nº 54.153, DE 20 DE AGÔSTO DE 1964.
 
 Transfere do Município de Luziânia para Centrais Elétricas de Goiás S.A., a concessão para distribuir energia elétrica.

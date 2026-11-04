@@ -1,5 +1,3 @@
-###DEC-058932-0-000-29-07-1966@@@
-
 DECRETO Nº 58.932, DE 29 DE JULHO DE 1966.
 
 Regulamenta a Lei nº 4.613, de 2 de abril de 1965.

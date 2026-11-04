@@ -1,5 +1,3 @@
-###DEC-089102-0-000-06-12-1983@@@
-
 Decreto nº 89.102, de 06 de dezembro de 1983
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Obras de Saneamento-DNOS, uma área de terra, necessária à abertura do canal de expurgo, integrante do sistema de obras de proteção da cidade de Porto Murtinho, Estado de Mato Grosso do Sul, contra as enchentes do rio Paraguai.

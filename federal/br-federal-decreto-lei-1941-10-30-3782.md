@@ -1,5 +1,3 @@
-###DEL-003782-0-000-30-10-1941@@@
-
 DECRETO-LEI N. 3.782 – DE 30 DE OUTUBRO DE 1941
 
 Altera disposições do decreto-lei n. 1.498 de 9 de agosto de 1939.

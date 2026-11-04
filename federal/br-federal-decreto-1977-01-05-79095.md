@@ -1,5 +1,3 @@
-###DEC-079095-0-000-05-01-1977@@@
-
 DECRETO Nº 79.095, de 05 de janeiro de 1977
 
 Declara sem efeito a interdição de parte da área a que se refere o Decreto número 74.515, de 5 de setembro de 1974 e dá outras providências.

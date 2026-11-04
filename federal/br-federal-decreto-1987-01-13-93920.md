@@ -1,5 +1,3 @@
-###DEC-093920-0-000-13-01-1987@@@
-
 DECRETO N° 93.920, DE 13 DE JANEIRO DE 1987
 
 Prorroga os prazos de vigência dos arts. 1º e 3º do Decreto n° 91.403, de 05-07-85, que dispõe sobre a proibição de ingresso de pessoal na Administração Direta, e dá outras providências.

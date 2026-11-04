@@ -1,5 +1,3 @@
-###DEL-001534-0-000-13-04-1977@@@
-
 # DECRETO-LEI Nº 1.534, DE 13 DE ABRIL DE 1977
 
 Assegura a prorrogação, pelos prazos que especifica, de locações residenciais.

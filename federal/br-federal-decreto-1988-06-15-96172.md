@@ -1,5 +1,3 @@
-###DEC-096172-0-000-15-06-1988@@@
-
 DECRETO N° 96.172, DE 15 DE JUNHO DE 1988
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados da Faculdade de Tecnologia do Distrito Federal.

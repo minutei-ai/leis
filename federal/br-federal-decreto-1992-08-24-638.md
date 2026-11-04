@@ -1,7 +1,3 @@
-1
-
-###DEC-000638-0-000-24-08-1992@@@
-
 DECRETO N° 638, DE 24 DE AGOSTO PE 1992
 
 Promulga o Acordo de Cooperação Científica e Tecnológica, entre a Governo da República Federativa do Brasil e o Governo da República Popular da China.

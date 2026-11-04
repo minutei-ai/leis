@@ -1,5 +1,3 @@
-###DEC-096767-0-000-23-09-1988@@@
-
 DECRETO N° 96.767, DE 23 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO JARDIM DO SERIDÓ LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Jardim do Seridó, Estado do Rio Grande do Norte.

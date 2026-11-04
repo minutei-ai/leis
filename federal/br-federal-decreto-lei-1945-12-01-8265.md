@@ -1,5 +1,3 @@
-###DEL-008265-0-000-01-12-1945@@@
-
 DECRETO-LEI N. 8.265 – DE 1 DE DEZEMBRO DE 1945
 
 Cria, transforma e eleva cargos isolados, de provimento efetivo e em comissão, no Quadro Permanente do Ministério da Justiça e Negócios Interiores, e dá outras providências.

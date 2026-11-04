@@ -1,5 +1,3 @@
-###DEC-096396-0-000-22-07-1988@@@
-
 DECRETO N° 96.396, DE 22 DE JULHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “SÍTIO NOVO”, classificado como “latifúndio por exploração”, situado no Município de Castro Alves, no Estado da Bahia, incluso na zona prioritária, para fins de reforma agrária fixada pelo Decreto n° 92.689, de 19 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-068513-0-000-15-04-1971@@@
-
 Decreto nº 68.513 - de 15 de abril de 1971.
 
 Autorização para funcionamento dos Cursos de Administração e de Ciências Contábeis da Sociedade Guarulhense de Educação, S.P.

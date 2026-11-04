@@ -1,5 +1,3 @@
-###DEC-060360-0-000-10-03-1967@@@
-
 decreto nº 60.360, de 10 de março de 1967.
 
 Altera o Regulamento do Pessoal do Ministério das Relações Exteriores.

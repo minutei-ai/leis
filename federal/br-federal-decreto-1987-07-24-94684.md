@@ -1,5 +1,3 @@
-###DEC-094684-0-000-24-07-1987@@@
-
 DECRETO N° 94.684, DE 24 DE JULHO DE 1987
 
 Regulamenta o reajuste de preços nos contratos da Administração Federal Direta e Indireta, e dá outras providências.

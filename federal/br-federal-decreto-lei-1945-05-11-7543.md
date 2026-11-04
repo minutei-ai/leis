@@ -1,5 +1,3 @@
-###DEL-007543-0-000-11-05-1945@@@
-
 DECRETO-LEI N. 7.543 – DE 11 DE MAIO DE 1945
 
 Altera a carreira de Almoxarite do Quadro II – Extinto, do Ministério da Viação e Obras Públicas

@@ -1,5 +1,3 @@
-###DEC-073688-0-000-22-02-1974@@@
-
 DECRETO Nº 73.688, DE 22 DE FEVEREIRO DE 1974.
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.

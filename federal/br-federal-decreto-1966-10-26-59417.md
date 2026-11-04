@@ -1,5 +1,3 @@
-###DEC-059417-0-000-26-10-1966@@@
-
 DECRETO Nº 59.417, DE 26 DE OUTUBRO DE 1966.
 
 Dispõe sôbre a realização dos seguros de Órgãos do Poder Público e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-078455-0-000-23-09-1976@@@
-
 DECRETO Nº 78.455, DE 23 DE SETEMBRO DE 1976.
 
 Autoriza o serviço do patrimônio da União a promover a aceitação da doação do imóvel que mencionar, situado em Aracaju, Estado de Sergipe.

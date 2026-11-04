@@ -1,6 +1,7 @@
 LEI Nº 6.930 DE 28 DE DEZEMBRO DE 1995
 
-Ver também:<br>
+Ver também:
+
 Decreto nº [16.108](https://www.legislabahia.ba.gov.br/documentos/decreto-no-16108-de-29-de-maio-de-2015) de 29 de maio de 2015 - Declara a vinculação de fundos estaduais à estrutura da Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social - SJDHDS, nos termos da Lei nº [13.204](https://www.legislabahia.ba.gov.br/documentos/lei-no-13204-de-11-de-dezembro-de-2014), de 11 de dezembro de 2014, da Lei Federal nº 8.742, de 07 de dezembro de 1993, bem como da Lei Federal nº 8.069, de 13 de julho de 1990, na forma que indica.
 
 Dispõe sobre a Política Estadual de Assistência Social.
@@ -13,7 +14,8 @@ Dispõe sobre a Política Estadual de Assistência Social.
 
 Revogado pela Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DOS PRINCÍPIOS, OBJETIVOS, DIRETRIZES E GESTÃO
 
 **revogado Art. 2º** - A Política Estadual de Assistência Social tem por finalidade garantir o atendimento às necessidades sociais básicas da população, devendo obedecer sempre aos seguintes princípios:
@@ -74,28 +76,34 @@ Revogado pela Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei
 
 Parágrafo único revogado pela Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DO CONSELHO ESTADUAL DE ASSISTÊNCIA SOCIAL
 
 **Art. 7º** - Fica instituído o Conselho Estadual de Assistência Social - CEAS, órgão colegiado superior de deliberação, vinculado à Secretaria de Assistência e Desenvolvimento Social - SEADES, de caráter permanente e composição paritária entre Poder Público e sociedade civil, que tem por finalidade exercer o controle social da Política Estadual de Assistência Social.
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
-Redação anterior de acordo com o Decreto nº [16.087](https://www.legislabahia.ba.gov.br/documentos/decreto-no-16087-de-21-de-maio-de-2015), de 21 de maio de 2015: "Art. 7º - Fica instituído o Conselho Estadual de Assistência Social - CEAS, órgão de deliberação colegiada, vinculado à Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social, responsável pela coordenação da Política Estadual de Assistência Social, cujos membros, titulares e suplentes, serão nomeados pelo Governador do Estado."<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
+Redação anterior de acordo com o Decreto nº [16.087](https://www.legislabahia.ba.gov.br/documentos/decreto-no-16087-de-21-de-maio-de-2015), de 21 de maio de 2015: "Art. 7º - Fica instituído o Conselho Estadual de Assistência Social - CEAS, órgão de deliberação colegiada, vinculado à Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social, responsável pela coordenação da Política Estadual de Assistência Social, cujos membros, titulares e suplentes, serão nomeados pelo Governador do Estado."
+
 Redação original: "Art. 7º - Fica instituído o Conselho Estadual de Assistência Social - CEAS, órgão de deliberação colegiada, vinculado à Secretaria do Trabalho e Ação Social, responsável pela coordenação da Política Estadual de Assistência Social, cujos membros, titulares e suplentes, serão nomeados pelo Governador do Estado."
 
 **§ 1º** - Os representantes da sociedade civil serão eleitos em foro  próprio e sob fiscalização do Ministério Público do Estado da Bahia - MPBA, em processo eleitoral coordenado pelo Conselho Estadual de Assistência Social, mediante designação de Comissão específica constituída para esse fim.
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "§ 1º - Os membros, titulares e suplentes, representantes da sociedade civil terão mandato de 2 (dois) anos, permitida uma única recondução, por igual período."
 
 **§ 2º** - Os representantes da sociedade civil têm mandato de 02 (dois) anos, permitida uma única recondução, através de processo eleitoral, por igual período.
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "§ 2º - O Vice-Presidente será eleito pelo Colegiado, dentre os representantes da sociedade civil, mencionados no inciso VI, do art. 8º."
 
 **§ 3º** - O mandato dos representantes do Poder Público junto ao CEAS será de 02 (dois) anos, admitida uma única recondução.
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "§ 3º - A função de Conselheiro constitui serviço público relevante, não remunerado."
 
 **§ 4º** - O CEAS contará com uma Secretaria Executiva, com a função de apoiar o Conselho nos procedimentos administrativos internos, assessorar as reuniões do Colegiado e divulgar suas deliberações, bem como subsidiar, assessorar, levantar e sistematizar as informações que permitam à Presidência, ao Colegiado, às Comissões e aos Grupos de Trabalhos tomarem decisões, devendo, para tanto, contar com pessoal de apoio técnico e administrativo.
@@ -112,7 +120,8 @@ Redação original: "§ 3º - A função de Conselheiro constitui serviço públ
 
 **Art. 8º** - O CEAS é composto por 18 (dezoito) membros titulares e respectivos suplentes, cujos nomes são indicados à SEADES, de acordo com os critérios seguintes:
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "Art. 8º - Compõem o Conselho Estadual de Assistência Social - CEAS:"
 
 **I -**       09 (nove) representantes governamentais de cada órgão a seguir indicado:
@@ -127,8 +136,10 @@ d) 01 (um) representante da Secretaria da Fazenda;
 
 e) 01 (um) representante do Colegiado Estadual de Gestores Municipais de Assistência Social do Estado da Bahia - COEGEMAS;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
-Redação anterior de acordo com o Decreto nº 16.087, de 21 de maio de 2015: "I - o Secretário de Justiça, Direitos Humanos e Desenvolvimento Social, que o presidirá;"<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
+Redação anterior de acordo com o Decreto nº 16.087, de 21 de maio de 2015: "I - o Secretário de Justiça, Direitos Humanos e Desenvolvimento Social, que o presidirá;"
+
 Redação original: "I - o Secretário do Trabalho e Ação Social, que o presidirá;"
 
 **II -**      09 (nove) representantes da sociedade civil, dentre representantes dos usuários ou de organizações de usuários das entidades e organizações de assistência social, bem como dos trabalhadores do setor, escolhidos em foro próprio e sob fiscalização do MPBA, sendo:
@@ -139,8 +150,10 @@ b) 03 (três) representantes de entidades e organizações de assistência  soc
 
 c) 03 (três) representantes de organizações representativas de trabalhadores da área de assistência social, de âmbito estadual.
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
-Redação anterior de acordo com o Decreto nº 16.087, de 21 de maio de 2015: "II - o Secretário da Fazenda;II - o Secretário da Fazenda;"<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
+Redação anterior de acordo com o Decreto nº 16.087, de 21 de maio de 2015: "II - o Secretário da Fazenda;II - o Secretário da Fazenda;"
+
 Redação original: "II - o Secretário da Justiça e Direitos Humanos;"
 
 **Parágrafo único** - A composição da sociedade civil no CEAS deverá abranger regiões distintas, de forma a contemplar a representação dos diferentes territórios de identidade do Estado.
@@ -197,107 +210,128 @@ Art. 8º-E acrescido pela Lei nº [14.637](https://www.legislabahia.ba.gov.br/do
 
 **Art. 9º** - Compete ao CEAS:
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "Art. 9º - Compete ao Conselho Estadual de Assistência Social:"
 
 **I -**     aprovar a Política Estadual de Assistência Social, fixando prioridades para a consecução de serviços, programas, projetos e benefícios que garantam, de forma articulada, a segurança de acolhida, de renda, de convívio ou vivência familiar, comunitária e social, de desenvolvimento de autonomia e de apoio e auxílio e a obtenção da autonomia individual, através das proteções sociais;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "I - estabelecer diretrizes e prioridades para a elaboração do Plano Estadual de Assistência Social;"
 
 **II -**    monitorar e avaliar a execução da Política Estadual de Assistência Social;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "II - propor programas, projetos e atividades de assistência social;"
 
 **III -**   aprovar o Plano Estadual da Assistência Social e suas adequações, monitorando e avaliando a execução físico-financeira;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "III - estabelecer normas para as ações e regularização da prestação de serviços de natureza pública e privada, no campo da assistência social, atendidas as diretrizes estabelecidas pelo Conselho Nacional de Assistência Social;"
 
 **IV -**   estabelecer diretrizes, apreciar e deliberar sobre as propostas orçamentárias anuais e plurianuais do FEAS;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "IV - estabelecer diretrizes e apreciar as propostas de programas anuais e plurianuais do Fundo Estadual de Assistência Social;"
 
 **V -**    aprovar a proposta orçamentária anual de cofinanciamento dos serviços, programas, projetos e benefícios socioassistenciais da  Política Estadual de Assistência Social, a ser encaminhada pelo Órgão Gestor Estadual de Assistência Social;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "V - definir critérios de repasse de recursos destinados às entidades não governamentais vinculadas aos objetivos da Política Estadual de Assistência Social;"
 
 **VI -**     aprovar o Plano de Aplicação do FEAS, bem como acompanhar, monitorar e avaliar a execução orçamentária e financeira anual dos recursos e deliberar sobre a prestação de contas ao final do exercício;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "VI - apreciar o plano de aplicação do Fundo Estadual de Assistência Social;"
 
 **VII -**   deliberar os critérios de transferência de recursos para os municípios, além de disciplinar os procedimentos de repasse de recursos para as entidades e organizações de assistência social, sem prejuízo às Leis Orçamentárias;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023)  de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023)  de 29 de novembro de 2023.
+
 Redação original: "VII - apreciar e oferecer sugestões para a elaboração da proposta orçamentária anual do Estado, no que concerne a Política Estadual de Assistência Social;"
 
 **VIII -** apreciar, deliberar, acompanhar e fiscalizar a gestão e execução dos recursos do Índice de Gestão Descentralizada do Programa Bolsa Família - IGD-PBF e do Índice de Gestão Descentralizada do Sistema Único de Assistência Social - IGD-SUAS ou por outro índice que os vier a substituir;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "VIII - zelar pelo cumprimento dos princípios, objetivos e diretrizes da Política Estadual de Assistência Social;"
 
 **IX -**    apresentar e deliberar proposta para utilização dos recursos do Índice de Gestão Descentralizada do Programa Bolsa Família - IGD- PBF e do Índice de Gestão Descentralizada do Sistema Único de Assistência Social - IGD-SUAS, ou por outro índice que os vier a substituir, destinados ao desenvolvimento das atividades do Conselho;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "IX - fiscalizar e avaliar a gestão dos recursos do Fundo Estadual de Assistência Social, bem como os ganhos sociais e o desempenho dos serviços e projetos aprovados;"
 
 **X -**     acompanhar e avaliar a gestão dos recursos, bem como os ganhos sociais e o desempenho dos serviços, programas e projetos e benefícios aprovados no âmbito da Política Estadual de Assistência Social;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "X - propor a formulação de estudos e pesquisas na área da assistência social, sugerindo medidas preventivas, com vistas a avaliar situações relevantes para o controle da qualidade dos respectivos serviços;"
 
 **XI -**    analisar e deliberar sobre o Relatório Anual de Gestão;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "XI - propor ao Conselho Nacional de Assistência Social e demais órgãos de outras esferas de governo bem como a entidades não governamentais programas, serviços e financiamentos de projetos e convênios;"
 
 **XII -**   acompanhar os processos de pactuação da Comissão Intergestores Bipartite - CIB e da Comissão Intergestores Tripartite - CIT;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "XII - acompanhar as condições de acesso da população usuária da assistência social, indicando as medidas pertinentes à correção de exclusões constatadas;"
 
 **XIII -** manifestar-se acerca das ações da Política de Recursos Humanos do Sistema Único de Assistência Social - SUAS, no âmbito estadual, destinada a trabalhadores, gestores e conselheiros da  Assistência Social;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "XIII - elaborar e aprovar seu Regimento Interno e as modificações posteriores, no prazo de 60 (sessenta) dias, a contar da data da vigência da presente Lei;"
 
 **XIV -** deliberar sobre as prioridades e metas de desenvolvimento do SUAS em seu âmbito de competência;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "XIV - estabelecer, em consonância com as diretrizes adotadas pelo Conselho Nacional de Assistência Social, critérios para o pagamento de auxílio natalidade, por morte e outros benefícios eventuais que vierem a ser criados para atender as necessidades advindas de situação de vulnerabilidade temporária e cíclica, com prioridade para a criança, a gestante e a nutris;"
 
 **XV -**    normatizar as ações e regular a prestação de serviços de natureza pública e privada no campo da assistência social, considerando as diretrizes da Política Nacional de Assistência Social;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "XV - propor modificações nas estruturas do sistema estadual que visem à promoção, proteção, defesa dos direitos  dos usuários da assistência social, habilitação e reabilitação de pessoas portadoras de deficiências."
 
 **XVI -** deliberar proposta de padrões de qualidade para prestação de benefícios, serviços, programas e projetos de assistência social no  âmbito da Política Estadual de Assistência Social, tendo em vista a garantia dos direitos dos usuários;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "XVI - estabelecer critérios para repasse de recursos para os municípios, considerando, para tanto, dentre outros indicadores relativos a população, renda per capita, mortalidade infantil e concentração de renda;"
 
 **XVII** \-     acompanhar, avaliar e deliberar acerca dos serviços socioassistenciais prestados e as condições de acesso pelos usuários;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "XVII - divulgar, no Diário Oficial do Estado, todas as suas decisões, bem como as contas do Fundo Estadual de Assistência Social - FEAS e os respectivos pareceres emitidos;"
 
 **XVIII -**   orientar, no seu âmbito de competência, acerca das sanções às entidades e organizações de assistência social que incorrerem em irregularidades na aplicação dos recursos públicos e de qualquer natureza que afete a execução da Política Estadual de Assistência Social;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "XVIII - convocar, ordinariamente, a cada 2 (dois) anos, ou extraordinariamente por maioria absoluta de seus membros, a Conferência Estadual que terá atribuição de avaliar a situação da Assistência Social e propor diretrizes para o aperfeiçoamento do sistema;"
 
 **XIX -** fomentar e zelar pela efetivação do sistema descentralizado e participativo da assistência social;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "XIX - zelar, estimular e apoiar a efetivação do sistema descentralizado e participativo de assistência social;"
 
 **XX -**    assessorar os Conselhos Municipais de Assistência Social na aplicação de normas e resoluções fixadas pelo Conselho Nacional de Assistência Social - CNAS para inscrição de entidades privadas prestadoras de serviços socioassistenciais;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "XX - estimular e apoiar a criação dos Conselhos Municipais de Assistência Social."
 
 **XXI** \- deliberar sobre plano de providência e planos de apoio à gestão descentralizada;
@@ -378,7 +412,8 @@ Art. 9º-B acrescido pela Lei nº [14.637](https://www.legislabahia.ba.gov.br/do
 
 Art. 9º-C acrescido pela Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DO FUNDO ESTADUAL DE ASSISTÊNCIA SOCIAL
 
 **Art. 10** - Fica criado o Fundo Estadual de Assistência Social - FEAS, fundo público de gestão orçamentária, com a finalidade de prover os recursos para financiar e cofinanciar a gestão, serviços, programas, projetos e benefícios de assistência social.
@@ -389,53 +424,64 @@ DO FUNDO ESTADUAL DE ASSISTÊNCIA SOCIAL
 
 **§ 3º** - As peças orçamentárias do Órgão Gestor da Política Estadual de Assistência Social serão submetidas à apreciação e deliberação do CEAS.
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
-Redação original: "Art. 10 - Fica criado o Fundo Estadual de Assistência Social, com a finalidade de prover os recursos necessários à execução da Política Estadual de Assistência Social.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
+Redação original: "Art. 10 - Fica criado o Fundo Estadual de Assistência Social, com a finalidade de prover os recursos necessários à execução da Política Estadual de Assistência Social.
+
 Parágrafo único -   O Fundo será vinculado à Secretaria do Trabalho e Ação Social, seu órgão gestor, sob a fiscalização e orientação do Conselho Estadual de Assistência Social."
 
 **Art. 11** - Constituem recursos do FEAS:
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "Art. 11 - São receitas do Fundo Estadual de Assistência Social:"
 
 **I -**       os consignados a seu favor na Lei Orçamentária Anual;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "I - dotação consignada anualmente no orçamento do Estado e os créditos adicionais que lhe sejam destinados;"
 
 **II -**      as receitas provenientes de alienação de bens móveis e imóveis do Estado destinados à assistência social;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "II - recursos captados junto a organismos internacionais, para projetos auto-financiáveis e de interesse estratégico, visando à ampliação, cobertura e melhoria da qualidade de atendimento;"
 
 **III -**     as receitas provenientes de aluguéis de bens imóveis do Estado destinados à assistência social;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "III - recursos financeiros do Estado, destinados à manutenção do pagamento do auxílio natalidade e funeral, convênios de ação continuada, prestação de serviços e projetos;"
 
 **IV -**     recursos captados junto a organismos nacionais e internacionais para projetos autofinanciáveis e de interesse estratégico, visando à ampliação, cobertura e melhoria na qualidade dos serviços, programas, projetos e benefícios socioassistenciais;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "IV - transferência de recursos financeiros oriundos do Fundo Nacional de Assistência Social;"
 
 **V -**      recursos financeiros do Estado destinados à manutenção de benefícios, serviços, programas e projetos socioassistenciais;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "V - os rendimentos e juros provenientes de aplicações financeiras;"
 
 **VI -**     transferência de recursos financeiros oriundos do Fundo Nacional de Assistência Social;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "VI - as parcelas do produto da arrecadação de outras receitas próprias, oriundas das atividades econômicas de prestação de serviços e de outras transferências, que o Fundo Estadual de Assistência tenha direito a receber por força de lei e de convênios no setor;"
 
 **VII -**   rendimentos provenientes de aplicações financeiras;
 
-Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "VII - doações em espécie feitas diretamente ao Fundo Estadual de Assistência Social."
 
 **VIII -** outras fontes que vierem a ser instituídas.
 
-Redação de acordo com a Lei nº[14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.<br>
+Redação de acordo com a Lei nº[14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
+
 Redação original: "VIII - outros recursos que lhe venham a ser destinados."
 
 **revogado Parágrafo único -**   Os recursos do Fundo serão depositados, obrigatoriamente, em contas especiais a serem abertas e mantidas no Banco do Estado da Bahia S.A. - BANEB, salvo expressa disposição em contrário, prevista em legislação específica.
@@ -472,7 +518,8 @@ Art. 12-C acrescido pela Lei nº [14.637](https://www.legislabahia.ba.gov.br/doc
 
 Art. 12-D acrescido pela Lei nº [14.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-14637-de-28-de-novembro-de-2023) de 29 de novembro de 2023.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DISPOSIÇÕES FINAIS
 
 **revogado Art. 13** - A transferência de recursos para as entidades não governamentais de assistência social dependerá de sua inscrição no órgão competente, conforme disposto na Lei Federal nº 8.742, de 7 de dezembro de 1993.

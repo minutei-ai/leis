@@ -1,5 +1,3 @@
-###DEC-047340-0-000-03-12-1959@@@
-
 DECRETO Nº 47.340, DE 3 DE Dezembro DE 1959.
 
 Concede reconhecimento ao Curso de Química Industrial da Escola de Química Industrial do Pará.

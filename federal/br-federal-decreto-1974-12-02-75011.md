@@ -1,5 +1,3 @@
-###DEC-075011-0-000-02-12-1974@@@
-
 DECRETO Nº 75.011, DE 2 DE DEZEMBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Difusora de Mossoró S.A., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Mossoró, Estado do Rio Grande do Norte.
@@ -21,8 +19,6 @@ Brasília, 2 de dezembro de 1974; 153º da Independência 86º da República
 Ernesto Geisel
 
 Euclides Quandt de Oliveira
-
-###DEC-075011-0-000-02-12-1974@@@
 
 DECRETO Nº 75.011, DE 2 DE DEZEMBRO DE 1974.
 

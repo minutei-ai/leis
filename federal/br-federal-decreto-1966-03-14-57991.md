@@ -1,5 +1,3 @@
-###DEC-057991-0-000-14-03-1966@@@
-
 DECRETO Nº 57.991, DE 14 DE MARÇO DE 1966.
 
 Autoriza a Siderúrgica Barra Mansa S.A., a pesquisar minério de ferro no município de Ouro Preto, Estado de Minas Gerais.

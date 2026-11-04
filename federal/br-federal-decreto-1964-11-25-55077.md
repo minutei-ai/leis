@@ -1,5 +1,3 @@
-###DEC-055077-0-000-25-11-1964@@@
-
 DECRETO Nº 55.077, DE 25 DE NOVEMBRO DE 1964.
 
 Altera o art. 1º do Decreto nº 54.086, de 3 de agôsto de 1964.

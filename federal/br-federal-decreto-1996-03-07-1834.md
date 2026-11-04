@@ -1,5 +1,3 @@
-###DEC-001834-0-000-07-03-1996@@@
-
 DECRETO Nº 1.834, DE 7 DE MARÇO DE 1996.
 
 Dispõe sobre a extinção de cargos do Grupo Direção e Assessoramento Superiores e Funções Gratificadas oriundos de órgãos extintos da Administração Federal direta, autárquica e fundacional.

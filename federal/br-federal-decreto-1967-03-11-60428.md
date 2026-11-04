@@ -1,5 +1,3 @@
-###DEC-060428-0-000-11-03-1967@@@
-
 DECRETO Nº 60.428, DE 11 DE MARÇO DE 1967.
 
 Declara caduco o decreto nº 45.539, de 5 de março de 1959.

@@ -1,5 +1,3 @@
-###DEC-079637-0-000-02-05-1977@@@
-
 DECRETO N.º 79.637, DE 2 DE MAIO DE 1977
 
 Retifica a concessão de lavra outorgada à Empresa de Mineração Argical Limitada pelo Decreto n.º 74.397, de 13 de agosto de 1974.

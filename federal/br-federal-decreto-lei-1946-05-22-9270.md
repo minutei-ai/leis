@@ -1,5 +1,3 @@
-###DEL-009270-0-000-22-05-1946@@@
-
 DECRETO-LEI Nº 9.270, DE 22 DE MAIO DE 1946
 
 Dispõe sôbre atribuições do Departamento Nacional do Café, e dá outras providências.

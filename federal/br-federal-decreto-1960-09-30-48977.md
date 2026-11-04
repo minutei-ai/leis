@@ -1,5 +1,3 @@
-###DEC-048977-0-000-30-09-1960@@@
-
 DECRETO Nº 48.977 DE 30 DE SETEMBRO DE 1960.
 
 Concede à sociedade anônima F. Stevenson & Company Limited autorização para continuar a funcionar na República.

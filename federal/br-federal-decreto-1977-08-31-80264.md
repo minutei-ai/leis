@@ -1,5 +1,3 @@
-###DEC-080264-0-000-31-08-1977@@@
-
 DECRETO Nº 80.264, DE 31 DE AGOSTO DE 1977.
 
 Concede à Empresa de Caolim Ltda. o direito de lavrar caulim no Município de Belmiro Braga, Estado de Minas Gerais.

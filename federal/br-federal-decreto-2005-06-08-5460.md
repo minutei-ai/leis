@@ -1,5 +1,3 @@
-###DEC-005460-0-000-08-06-2005@@@
-
 DECRETO Nº 5.460, DE 8 DE JUNHO DE 2005
 
 Dá nova redação ao § 1º do art. 2º e ao art. 7º, e acrescenta o art. 5º-A ao Decreto nº 5.286, de 25 de novembro de 2004, que regulamenta o pagamento da Gratificação de Incremento à Atividade de Administração do Patrimônio da União - GIAPU, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-046225-0-000-16-06-1959@@@
-
 DECRETO Nº 46.225, DE 16 DE JUNHO DE 1959.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 32.282, de 18 de fevereiro de 1953, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno situada no Município de Santana do Ipanema, Estado de Alagoas.

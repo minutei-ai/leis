@@ -1,5 +1,3 @@
-###DEC-081442-0-000-13-03-1978@@@
-
 Decreto nº 81.442, de 13 de março de 1978.
 
 Autoriza o Ministro da Fazenda a conceder garantia a operação externa.

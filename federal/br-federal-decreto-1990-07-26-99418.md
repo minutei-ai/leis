@@ -1,7 +1,3 @@
-1
-
-###DEC-099418-0-000-26-07-1990@@@
-
 DECRETO Nº 99.418, DE 26 DE JULHO DE 1990
 
 Declara de utilidade pública para fins de desapropriação, em favor e por conta da Universidade Federal de Pelotas - RS, imóvel situado em Pelotas, Estado do Rio Grande do Sul.

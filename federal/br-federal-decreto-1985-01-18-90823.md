@@ -1,5 +1,3 @@
-###DEC-090823-0-000-18-01-1985@@@
-
 Decreto nº 90.823, de 18 de janeiro de 1985
 
 Altera os limites do Parque Nacional da Amazônia, criado pelo Decreto nº 73.683, de 19 de fevereiro de 1974.

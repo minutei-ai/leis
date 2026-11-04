@@ -1,5 +1,3 @@
-###DEL-008261-0-000-30-11-1945@@@
-
 DECRETO-LEI N. 8.261 – DE 30 DE NOVEMBRO DE 1945
 
 Altera as carreiras de Escravidão, Dastiloscopista, Dactiloscopista-Auxiliar e Detetive.

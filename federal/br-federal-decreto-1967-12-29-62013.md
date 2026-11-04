@@ -1,5 +1,3 @@
-###DEC-062013-0-000-29-12-1967@@@
-
 DECRETO Nº 62.013, DE 29 DE DEZEMBRO DE 1967.
 
 Autoriza a Light - Serviços de Eletricidade S.A. a reconstruir linha de transmissão.

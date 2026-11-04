@@ -1,5 +1,3 @@
-###MPV-001873-0-048-23-11-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.873-48, DE 23 DE NOVEMBRO DE 1999.
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional - NTN destinadas a aumento de capital do Banco do Brasil S.A., e dá outras providências.

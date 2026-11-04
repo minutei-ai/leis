@@ -1,5 +1,3 @@
-###DEC-073194-0-000-23-11-1973@@@
-
 DECRETO Nº 73.194 - DE 23 DE NOVEMBRO DE 1973
 
 Concede a Indústria Floriano Bianchini S.A. o direito de lavrar calcário dolomítico, no Município de Rio das Pedras, Estado de São Paulo.

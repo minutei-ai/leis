@@ -1,5 +1,3 @@
-###DEC-093864-0-000-23-12-1986@@@
-
 DECRETO Nº 93.864, DE 23 DE DEZEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado ''Quadro dos Pobres'' também conhecido por ''Baronesa de Limeira'', situado no Município de Chapecó, no Estado de Santa Catarina, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.693, de 19 de maio de 1986, classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-069604-0-000-24-11-1971@@@
-
 DECRETO Nº 69.604 - DE 24 DE NOVEMBO DE 1971
 
 Redistribui com os respectivos ocupantes, para o Departamento de Polícia Federal do Ministério da Justiça, cargos do Ministério do Trabalho e Previdência Social e dá outras providências.

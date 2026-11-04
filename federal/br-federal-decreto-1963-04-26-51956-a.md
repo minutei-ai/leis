@@ -1,5 +1,3 @@
-###DEC-051956-A-000-26-04-1963@@@
-
 DECRETO Nº 51.956-A, DE 26 DE ABRIL DE 1963.
 
 Outorga à Celulose Irani Ltda. Concessão para o aproveitamento progressivo da energia hidráulica de um desnível do rio Irani, existente na localidade de Serraria Madalozzo, Município de Ponte Serrada, Estado de Santa Catarina.

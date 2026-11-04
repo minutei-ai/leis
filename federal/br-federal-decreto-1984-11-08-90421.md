@@ -1,5 +1,3 @@
-###DEC-090421-0-000-08-11-1984@@@
-
 Decreto nº 90.421, de 08 de novembro de 1984
 
 Renova a concessão outorgada à RÁDIO NORDESTE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Natal, Estado do Rio Grande do Norte.

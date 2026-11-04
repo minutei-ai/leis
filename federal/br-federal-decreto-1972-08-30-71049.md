@@ -1,5 +1,3 @@
-###DEC-071049-0-000-30-08-1972@@@
-
 DECRETO Nº 71.049, DE 30 DE AGOSTO DE 1972.
 
 Concede permissão, em caráter permanente, à empresa FAGERSTA - Vulcanus S.A. Indústria Metalúrgica, sediada em São Bernardo do Campo, Estado de São Paulo para funcionar aos domingos e nos dias feriados civis e religiosos.

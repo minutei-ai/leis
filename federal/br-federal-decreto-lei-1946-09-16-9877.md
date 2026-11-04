@@ -1,5 +1,3 @@
-###DEL-009877-0-000-16-09-1946@@@
-
 DECRETO-LEI N. 9.877 – DE 16 DE SETEMBRO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a conceder à Sociedade Cientifica Supermentalista Tattwa Nirmanakaia a isenção do impôsto que menciona.

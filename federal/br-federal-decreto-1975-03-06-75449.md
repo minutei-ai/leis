@@ -1,5 +1,3 @@
-###DEC-075449-0-000-06-03-1975@@@
-
 DECRETO Nº 75.449, DE 6 DE MARÇO DE 1975.
 
 Autoriza o funcionamento do curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Varginha, mantida pela Fundação de Ensino e Pesquisa do Sul de Minas, com sede na cidade de Varginha, Estado de Minas Gerais.

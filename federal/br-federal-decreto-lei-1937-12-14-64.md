@@ -1,5 +1,3 @@
-###DEL-000064\-0-000-14-12-1937@@@
-
 DECRETO-LEI N. 64 – DE 14 DE DEZEMBRO DE 1937
 
 Dispõe sôbre quota adicional de 20 % ,sôbre vencimentos de oficiais e praças em determinadas guarnições militares

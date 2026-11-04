@@ -1,5 +1,7 @@
-LEI COMPLEMENTAR Nº 181, DE 4 DE JANEIRO DE 2023<br>
-\- [Vide Lei Complementar nº 27, de 30-12-1999](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101020/lei-complementar-027), - Cria a Região Metropolitana de Goiânia.<br>
+LEI COMPLEMENTAR Nº 181, DE 4 DE JANEIRO DE 2023
+
+\- [Vide Lei Complementar nº 27, de 30-12-1999](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101020/lei-complementar-027), - Cria a Região Metropolitana de Goiânia.
+
 \- [Vide Lei Complementar nº 182, de 22-5-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107157/lei-complementar-182), - Institui as Microrregiões de Saneamento Básico – MSBs, suas respectivas estruturas de governança.
 
 Cria a Região Metropolitana do Entorno do Distrito Federal – RME e o Conselho de Desenvolvimento da Região Metropolitana do Entorno do Distrito Federal – CODERME.
@@ -94,7 +96,8 @@ Art. 4º Para os fins desta Lei Complementar e do desenvolvimento urbano integra
 
 I – mobilidade urbana no sistema viário metropolitano, com ênfase no transporte público coletivo interestadual semiurbano de passageiros, incluídos o controle de trânsito e tráfego e a gestão de vias de abrangência intermunicipal;
 
-II – serviços públicos e infraestrutura de interesse comum, como: comunicação, saúde, educação e segurança; e<br>
+II – serviços públicos e infraestrutura de interesse comum, como: comunicação, saúde, educação e segurança; e
+
 \- [Redação dada pela Lei Complementar nº 182, de 22-5-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107157/lei-complementar-182).
 
 ~~II – serviços públicos e infraestrutura de interesse comum, tais como: comunicação, drenagem urbana, abastecimento de água e esgotamento sanitário, coleta de lixo e destinação de resíduos sólidos, saúde, educação e segurança; e~~
@@ -105,7 +108,8 @@ III – serviços públicos e regulações ambientais, habitacionais e de turism
 
 § 2º Serviços e atividades não previstos no _caput_ deste artigo poderão ser incluídos como funções públicas de interesse comum da RME mediante previsão em Lei Complementar.
 
-§ 3º Não se consideram funções públicas de interesse comum da Região Metropolitana do Entorno do Distrito Federal – RME o planejamento, a regulação, a fiscalização e a prestação direta ou contratada de serviços públicos de saneamento básico.<br>
+§ 3º Não se consideram funções públicas de interesse comum da Região Metropolitana do Entorno do Distrito Federal – RME o planejamento, a regulação, a fiscalização e a prestação direta ou contratada de serviços públicos de saneamento básico.
+
 \- [Acrescido pela Lei Complementar nº 182, de 22-5-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107157/lei-complementar-182).
 
 CAPÍTULO II
@@ -331,8 +335,6 @@ Art. 26. A criação do CODERME altera a estrutura organizacional da Secretaria-
 Art. 27. Esta Lei Complementar entra em vigor na data de sua publicação.
 
 Goiânia, 4 de janeiro de 2023; 135º da República.
-
-<br>
 
 RONALDO CAIADO
 

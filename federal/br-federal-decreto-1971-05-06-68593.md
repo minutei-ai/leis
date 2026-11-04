@@ -1,5 +1,3 @@
-###DEC-068593-0-000-06-05-1971@@@
-
 decreto nº 68.593 - de 6 de maio de 1971.
 
 Reorganiza a estrutura básica do Ministério da Agricultura e dá outras providências.

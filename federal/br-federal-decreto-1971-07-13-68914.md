@@ -1,5 +1,3 @@
-###DEC-068914-0-000-13-07-1971@@@
-
 DECRETO Nº 68.914, DE 13 DE JULHO DE 1971.
 
 Cria a Reserva Indígena Kararaô, situada no Município de Altamira, Estado do Pará.

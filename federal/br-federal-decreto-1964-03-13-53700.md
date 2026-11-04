@@ -1,5 +1,3 @@
-###DEC-053700-0-000-13-03-1964@@@
-
 DECRETO Nº 53.700, DE 13 DE MARÇO DE 1964.
 
 Declara de interêsse social para fins de desapropriação as áreas rurais que ladeiam os eixos rodoviários federais, os leitos das ferrovias nacionais, e as terras beneficiadas ou recuperadas por investimentos exclusivos da União em obras de irrigação, drenagem e açudagem, atualmente inexploradas ou exploradas contrariamente à função social da propriedade, e dá outras providências.

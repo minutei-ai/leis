@@ -1,5 +1,3 @@
-###DEC-070226-0-000-02-03-1972@@@
-
 DECRETO Nº 70.226, DE 2 DE MARÇO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Serviço Social de Uberlândia - M.G.

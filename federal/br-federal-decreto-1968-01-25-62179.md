@@ -1,5 +1,3 @@
-###DEC-062179-0-000-25-01-1968@@@
-
 DECRETO Nº 62.179, DE 25 DE JANEIRO DE 1968.
 
 Altera dispositivos do Regulamento para o Tráfego Marítimo, aprovado pelo Decreto nº 5.798, de 11 de junho de 1940 e alterado pelo de nº 50.114, de 26 de janeiro de 1961.

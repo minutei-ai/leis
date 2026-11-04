@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210063)<br>
-
 # LEI N° 18.051, DE 30 DE SETEMBRO DE 2024
 
 ## (Projeto de lei n° 750/2021, do Deputado Rafa Zimbaldi - PL)

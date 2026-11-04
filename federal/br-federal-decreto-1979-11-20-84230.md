@@ -1,5 +1,3 @@
-###DEC-084230-0-000-20-11-1979@@@
-
 DECRETO Nº 84.230, DE 20 de NOVEMBRO DE 1979
 
 Altera a redação do art. 5º do Decreto nº 77.299, de 16 de março de 1976, que cria no Ministério da Educação e Cultura, o Conselho Nacional de Cinema (CONCINE).

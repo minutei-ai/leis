@@ -1,5 +1,3 @@
-###DEC-056018-0-000-23-04-1965@@@
-
 decreto nº 56.018, de 23 de abril de 1965.
 
 Autoriza o cidadão brasileiro João Marques Paes Filho a pesquisar cassiterita no município de Lábrea, Estado do Amazonas.

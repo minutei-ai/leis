@@ -1,5 +1,3 @@
-###DEC-005408-0-000-01-04-2005@@@
-
 DECRETO Nº 5.408 DE 1º DE ABRIL DE 2005
 
 Altera dispositivos da Estrutura Regimental do Gabinete de Segurança Institucional da Presidência da República, aprovada pelo Decreto no 5.083, de 17 de maio de 2004.

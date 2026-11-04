@@ -1,5 +1,3 @@
-###MPV-000037-0-000-08-05-2002@@@
-
 MEDIDA PROVISÓRIA Nº 37, DE 8 DE MAIO DE 2002
 
 dispõe sobre a estruturação de orgãos, cria cargos em comissão no ambito do poder executivo federal, e da outras providencias.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098387-0-000-10-11-1989@@@
-
 DECRETO Nº 98.387, DE 10 DE NOVEMBRO DE 1989
 
 Declara de utilidade pública a FUNDAÇÃO CASA DE VIRGÍLIO TÁVORA.

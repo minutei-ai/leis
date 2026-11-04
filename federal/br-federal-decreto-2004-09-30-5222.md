@@ -1,5 +1,3 @@
-###DEC-005222-0-000-30-09-2004@@@
-
 DECRETO Nº 5.222 DE 30 DE SETEMBRO DE 2004.
 
        Dispõe sobre as máquinas, aparelhos, instrumentos e equipamentos de que tratam os arts. 1o e 2o da Medida Provisória no 219, de 30 de setembro de 2004.
@@ -14,5 +12,6 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 30 de setembro de 2004; 183o da Independência e 116o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Bernard Appy

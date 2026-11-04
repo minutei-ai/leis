@@ -1,6 +1,7 @@
 LEI Nº 1.648 DE 27 DE MARÇO DE 1962
 
-Ver também:<br>
+Ver também:
+
 Lei nº [13.720](https://www.legislabahia.ba.gov.br/documentos/decreto-simples-doe-14062013#_GoBack) , de 27 de abril de 2017. Atualiza, na forma da Lei 12.057/2011, os limites dos municípios de Acajutiba, Alagoinhas, Aporá, Araçás, Aramari, Cardeal da Silva, Catu, Conde, Crisópolis, Entre Rios, Esplanada, Inhambupe, Itanagra, Itapicuru, Jandaíra, Olindina, Ouriçangas, Pedrão, Pojuca e Rio Real.
 
 Cria o Município de Ouriçangas, desmembrado do de Irará.
@@ -49,4 +50,4 @@ Governador
 
 Manso Cabral
 
-* * *
+ *

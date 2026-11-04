@@ -1,5 +1,3 @@
-###DEC-058773-0-000-28-06-1966@@@
-
 DECRETO Nº 58.773, DE 28 DE JUNHO DE 1966.
 
 Declara de utilidade pública a Companhia da Mulher Brasileira em Defesa da Democracia, com sede no Estado da Guanabara.

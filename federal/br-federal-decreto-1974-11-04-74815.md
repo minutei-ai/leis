@@ -1,5 +1,3 @@
-###DEC-074815-0-000-04-11-1974@@@
-
 DECRETO Nº 74.815, DE 4 DE NOVEMBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Radio Presidente Wenceslau Ltda., para que a Rádio Caiuás de Presidente Prudente Ltda. passe a executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Presidente Prudente, Estado de São Paulo.

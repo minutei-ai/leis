@@ -1,7 +1,3 @@
-1
-
-###MPV-001436-0-000-09-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.436, DE 9 DE MAIO DE 1996.
 
 Dispõe sobre a instituição de crédito presumido do Imposto sobre Produtos Industrializados, para ressarcimento do valor do PIS/PASEP e COFINS nos casos que especifica, e dá outras providências.

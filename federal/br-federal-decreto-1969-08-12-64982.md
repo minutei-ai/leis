@@ -1,5 +1,3 @@
-###DEC-064982-0-000-12-08-1969@@@
-
 DECRETO Nº 64.982 - DE 12 DE AGôSTO DE 1969.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União a operação que especifica e dá outras providências.

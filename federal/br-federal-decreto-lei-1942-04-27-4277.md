@@ -1,5 +1,3 @@
-###DEL-004277-0-000-27-04-1942@@@
-
 DECRETO-LEI N. 4.277 – DE 27 DE ABRIL DE 1942
 
 Abre e crédito suplementar de 73:500$0 às dotações que especifica do Anexo 14 – Ministério da Agricultura – do Orçamento em vigor

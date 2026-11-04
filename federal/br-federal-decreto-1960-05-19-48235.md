@@ -1,5 +1,3 @@
-###DEC-048235-0-000-19-05-1960@@@
-
 DECRETO Nº 48.235, DE 19 DE MAIO DE 1960.
 
 Outorga concessão à Rádio Cultura de Fernandópolis Limitada para instalar uma estação radiofusora.

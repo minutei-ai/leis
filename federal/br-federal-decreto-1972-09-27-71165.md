@@ -1,5 +1,3 @@
-###DEC-071165-0-000-27-09-1972@@@
-
 DECRETO Nº 71.165, de 27 de Setembro de 1972.
 
 Concede reconhecimento da Faculdade de Ciências da Administração de Campina Grande, Paraíba.

@@ -1,5 +1,3 @@
-###DEC-070908-0-000-31-07-1972@@@
-
 DECRETO Nº 70.908, de 31 de julho de 1972.
 
 Autoriza o funcionamento da Faculdade de Ciências Administrativas e Contábeis "Paulo Eiró" - São Paulo-SP.

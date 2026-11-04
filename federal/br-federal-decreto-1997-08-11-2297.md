@@ -1,5 +1,3 @@
-###DEC-002297-0-000-11-08-1997@@@
-
 DECRETO Nº 2.297, DE 11 DE AGOSTO DE 1997
 
 Dispõe sobre o Comitê de Avaliação de Créditos ao Exterior COMACE.

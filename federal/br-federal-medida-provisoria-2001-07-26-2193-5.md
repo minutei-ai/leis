@@ -1,5 +1,3 @@
-###MPV-002193-0-005-26-07-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.193‑5, DE 26 DE JUlHO DE 2001.
 
 Altera a Lei nº 9.615, de 24 de março de 1998, que institui normas gerais sobre desporto e dá outras providências.

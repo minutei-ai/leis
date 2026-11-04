@@ -1,5 +1,3 @@
-###DEC-068502-0-000-13-04-1971@@@
-
 DECRETO Nº 68.502 - DE 13 DE ABRIL DE 1971.
 
 Altera o aproveitamento da servidora do extinto Território Federal de Ponta Porã, e dá outras providências.

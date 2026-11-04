@@ -1,7 +1,3 @@
-1
-
-###DEC-095669-0-000-26-01-1988@@@
-
 DECRETO N° 95.669, DE 26 DE JANEIRO DE 1988
 
 Altera o Estatuto da Fundação Nacional para Educação de Jovens e Adultos EDUCAR.

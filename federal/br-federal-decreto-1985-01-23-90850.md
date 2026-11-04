@@ -1,5 +1,3 @@
-###DEC-090850-0-000-23-01-1985@@@
-
 Decreto nº 90.850, de 23 de janeiro de1985
 
 Outorga concessão à SOMBRASIL COMUNlCAÇÕES LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Cachoeiro do Itapemirin, Estado do Espírito Santo.

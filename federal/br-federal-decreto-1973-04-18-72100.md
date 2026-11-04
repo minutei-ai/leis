@@ -1,5 +1,3 @@
-###DEC-072100-0-000-18-04-1973@@@
-
 DECRETO Nº 72.100, DE 18 DE aBRIL DE 1973.
 
 Concede à Empresa de Desenvolvimento de Recursos Minerais - "CODEMIN" S.A. o direito de lavrar minério de níquel no Município de Niquelândia, Estado de Goiás.

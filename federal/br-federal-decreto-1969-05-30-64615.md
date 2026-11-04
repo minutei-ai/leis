@@ -1,5 +1,3 @@
-###DEC-064615-0-000-30-05-1969@@@
-
 DECRETO Nº 64.615, DE 30 DE MAIO DE 1969.
 
 Declara caduco o Decreto nº 12.887, de 14 de julho de 1943.

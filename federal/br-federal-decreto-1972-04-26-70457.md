@@ -1,5 +1,3 @@
-###DEC-070457-0-000-26-04-1972@@@
-
 DECRETO Nº 70.457, DE 26 DE ABRIL DE 1972.
 
 Revoga o Decreto nº 63.634, de 19 de novembro de 1968.

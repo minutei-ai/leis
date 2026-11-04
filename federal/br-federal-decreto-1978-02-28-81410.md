@@ -1,5 +1,3 @@
-###DEC-081410-0-000-28-02-1978@@@
-
 Decreto nº 81.410, de 28 de fevereiro de 1978.
 
 Autoriza a conversão do curso de Engenharia de Operação na habilitação Engenharia Industrial-Elétrica do curso de Engenharia das Faculdades São Judas Tadeu, com sede na cidade de São Paulo, Estado de São Paulo.

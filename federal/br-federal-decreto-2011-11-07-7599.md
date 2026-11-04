@@ -1,5 +1,3 @@
-###DEC-007599-0-000-07-11-2011-PUB-01@@@
-
 DECRETO Nº 7.599, DE 7 DE NOVEMBRO DE 2011
 
 Promulga o Acordo Internacional do Cacau, assinado pelo Governo Brasileiro, no Rio de Janeiro, em 14 de setembro de 1964.

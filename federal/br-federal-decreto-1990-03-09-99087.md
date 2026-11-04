@@ -1,7 +1,3 @@
-1
-
-###DEC-099087-0-000-09-03-1990@@@
-
 DECRETO Nº 99.087, DE 9 DE MARÇO DE 1990.
 
 Promulga o Acordo sobre Criação de Comissão Mista entre a República Federativa do Brasil e a República de Gana.
@@ -104,8 +100,6 @@ Nada no presente Acordo afetará outros acordos de cooperação entre os dois Go
 
 Feito em Brasília, aos dias do mês de                     de 1985, em dois exemplares originais em português e inglês, sendo ambos os textos igualmente autênticos.
 
-<br>
-
 1
 
 PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:
@@ -115,7 +109,5 @@ Olavo Egydio Setúbal
 PELO GOVERNO DA REPÚBLICA DE GANA:
 
 Kofi Nyidevu Awoonor
-
-<br>
 
 1

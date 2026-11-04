@@ -1,5 +1,3 @@
-###DEL-000019-0-000-30-08-1966@@@
-
 DECRETO-LEI Nº 19, DE 30 DE AGÔSTO DE 1966
 
 Obriga a adoção da cláusula de correção monetária nas operações do Sistema Financeiro da Habitação e dá outras providências.

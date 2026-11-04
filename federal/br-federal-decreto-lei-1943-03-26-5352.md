@@ -1,5 +1,3 @@
-###DEL-005352-0-000-26-03-1943@@@
-
 DECRETO‑LEI N. 5.352 – DE 26 DE MARÇO DE 1943
 
 Cria a 7ª Companhia de Transmissões Regional

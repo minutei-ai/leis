@@ -1,5 +1,3 @@
-###DEC-092755-0-000-05-06-1986@@@
-
 DECRETO Nº 92.755, DE 5 DE JUNHO DE 1986
 
 Declara Área de Proteção Ambiental o Território Federal de Fernando de Noronha, o Atol das Rocas e os Penedos de São Pedro e São Paulo, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-072414-0-000-27-06-1973@@@
-
 Decreto nº 72.414, de 27 de junho de 1973.
 
 Concede a Calcáreo Bonança Ltda. o Direito de lavrar dolomito no Município de Ipeúna, Estado de São Paulo.

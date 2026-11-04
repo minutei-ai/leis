@@ -1,5 +1,3 @@
-###DEL-006520-0-000-23-05-1944@@@
-
 DECRETO-LEI N. 6.520 – DE 23 DE MAIO DE 1944
 
 Cria cargos no Quadro da Justiça – Parte Permanente – do Ministério da Justiça e Negócios Interiores e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-052006-0-000-16-05-1963@@@
-
 DECRETO Nº 52.006, DE 16 DE MAIO DE 1963.
 
 Retifica o Decreto nº 51.613, de 3 de dezembro de 1962.

@@ -1,5 +1,3 @@
-###DEL-006812-0-000-21-08-1944@@@
-
 DECRETO-LEI N. 6.812 – DE 21 DE AGÔSTO DE 1944
 
 Modifica a Organização da Divisão Moto-Mecanizada

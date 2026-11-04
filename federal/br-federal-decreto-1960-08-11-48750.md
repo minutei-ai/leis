@@ -1,5 +1,3 @@
-###DEC-048750-0-000-11-08-1960@@@
-
 Decreto nº 48.750, de 11 de agôsto de 1960.
 
 Cria cargos e funções gratificadas no Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos empregados em Transportes e Cargas e dá outras providências.

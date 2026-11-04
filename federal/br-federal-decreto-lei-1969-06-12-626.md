@@ -1,7 +1,3 @@
-1
-
-###DEL-000626-0-000-12-06-1969@@@
-
 DECRETO-LEI Nº 626, DE 12 DE JUNHO DE 1969
 
 Dispõe sôbre a liquidação de débitos de produtores rurais para com o FUNRURAL e dá outras providências.
@@ -16,7 +12,25 @@ Art. 2º Para os efeitos do artigo 1º, a contribuição de 1% devida ao FUNRURA
 
 § 1º A mencionada contribuição incidirá, em relação aos períodos, abaixo indicados, sôbre as importâncias que resultarem da aplicação, àquele valor, das seguintes percentagens:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:42.55pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:182.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Período</span></p></td><td style="width:86.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Percentagem</span></p></td></tr><tr><td style="width:182.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1-2-1964 a 31-1-1965 ...........................</span></p></td><td style="width:86.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>25%</span></p></td></tr><tr><td style="width:182.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1-2-1965 a 21-1-1966 ............................</span></p></td><td style="width:86.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50%</span></p></td></tr><tr><td style="width:182.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1-2-1966 a 31-1-1967 ...........................</span></p></td><td style="width:86.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>75%</span></p></td></tr><tr><td style="width:182.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Fevereiro de 1967 ..................................</span></p></td><td style="width:86.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8,3%</span></p></td></tr></tbody></table>
+Período
+
+Percentagem
+
+1-2-1964 a 31-1-1965 ...........................
+
+25%
+
+1-2-1965 a 21-1-1966 ............................
+
+50%
+
+1-2-1966 a 31-1-1967 ...........................
+
+75%
+
+Fevereiro de 1967 ..................................
+
+8,3%
 
 § 2º Dos débitos apurados na forma do artigo e seu § 1º será deduzido, quando fôr o caso, o valor dos recolhimentos parciais de contribuição relativos aos períodos correspondentes, já efetuados ou a serem feitos na forma do artigo 4º, § 1º.
 

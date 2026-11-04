@@ -1,14 +1,12 @@
-###DEC-019976-0-000-20-11-1945@@@
+**DECRETO Nº 19.976, 20 DE NOVEMBRO DE 1945.**
 
-<strong>DECRETO Nº 19.976, 20 DE NOVEMBRO DE 1945.</strong>
+***Altera disposições do Decreto número 14.373, de 28 de dezembro de 1943, relativas ao regulamento da estrutura do curso comercial básico.***
 
-<em><strong>Altera disposições do Decreto número 14.373, de 28 de dezembro de 1943, relativas ao regulamento da estrutura do curso comercial básico.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os artigos e parágrafos do Decreto nº 14.373, de 28 de dezembro de 1943, abaixo indicados, passam a ter a seguinte redação:
+**Art**. 1º Os artigos e parágrafos do Decreto nº 14.373, de 28 de dezembro de 1943, abaixo indicados, passam a ter a seguinte redação:
 
 “Art. 2º As disciplinas de cultura técnica do curso comercial básico são as seguintes:
 
@@ -34,10 +32,10 @@ Quarta série 1) Português. 2) Francês. 3) Inglês. 4) Matemática. 5) Ciênci
 
 Parágrafo único. Na quarta série do curso comercial básico será ministrado aos alunos de sexo feminino o ensino de mais disciplina de curso geral: “economia doméstica”, na qual habilitação se fará por freqüência e aproveitamento, nos exercícios escolares respectivos.”
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor a partir de 1 de janeiro de 1946, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor a partir de 1 de janeiro de 1946, revogadas as disposições em contrário.
 
 Rio de janeiro, 20 de novembro de 1945, 124º da Independência e 57º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Raul Leitão da Cunha

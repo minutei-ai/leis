@@ -1,5 +1,3 @@
-###DEC-059796-0-000-19-12-1966@@@
-
 DECRETO Nº 59.796, DE 19 DE DEZEMBRO DE 1966.
 
 Concede a Argilas Clay S.A. autorização para funcionar como emprêsa de mineração.

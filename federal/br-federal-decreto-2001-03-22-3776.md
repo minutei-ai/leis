@@ -1,5 +1,3 @@
-###DEC-003776-0-000-22-03-2001@@@
-
 DECRETO Nº 3.776, DE 22 DE MARÇO DE 2001
 
 Altera os Anexos IV, V, XII, XIV e XV e os arts. 4º e 10 do Decreto nº 3.746, de 6 de fevereiro de 2001, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-066652-0-000-01-06-1970@@@
-
 DECRETO Nº 66.652, DE 1º DE JUNHO DE 1970.
 
 Concede autorização a Sociedade Seguradora Estrangeira para aumentar o capital de sua operações no Brasil.

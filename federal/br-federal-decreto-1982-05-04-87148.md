@@ -1,5 +1,3 @@
-###DEC-087148-0-000-04-05-1982@@@
-
 Decreto nº 87.148, de 04 de maio de 1982.
 
 Extingue o Serviço Geral de Expediente e Arquivo da Aeronáutica.

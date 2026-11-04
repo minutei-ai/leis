@@ -1,5 +1,3 @@
-###DEC-080490-0-000-05-10-1977@@@
-
 DECRETO Nº 80.490, DE 5 DE OUTUBRO DE 1977.
 
 Declara sem efeito o Decreto nº 74.580, de 19 de setembro de 1974, que retificou o Decreto nº 65.303, de 7 de outubro de 1969, que concedeu à Companhia Nacional de Cimento Portland o direito de lavrar gipsita nos Municípios de Camamu e Maraú, Estado da Bahia.

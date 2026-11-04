@@ -1,5 +1,3 @@
-###DEC-078660-0-000-01-11-1976@@@
-
 DECRETO Nº 78.660, DE 1 DE NOVEMBRO DE 1976.
 
 Extingue o Conselho Consultivo do Centro Brasileiro de Construções e Equipamentos Escolares -CEBRACE.

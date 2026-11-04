@@ -1,5 +1,3 @@
-###DEL-007594-0-000-31-05-1945@@@
-
 DECRETO-LEI N. 7.594 – DE 31 DE MAIO DE 1945
 
 Cria o 2º e o 3º Batalhão de Carros de Combate da Divisão Motomecanizada

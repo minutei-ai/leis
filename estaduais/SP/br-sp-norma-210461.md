@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210461)<br>
-
 # DECRETO N° 69.237, DE 23 DE DEZEMBRO DE 2024
 
 ### _Autoriza a outorga de uso do imóvel que especifica à Fundação Centro de Atendimento Socioeducativo ao Adolescente - FUNDAÇÃO CASA e dá providências correlatas._

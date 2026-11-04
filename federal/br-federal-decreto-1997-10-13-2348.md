@@ -1,5 +1,3 @@
-###DEC-002348-0-000-13-10-1997@@@
-
 DECRETO Nº 2.348, DE 13 DE OUTUBRO DE 1997
 
 Regulamenta a Lei nº 9.479, de 12 de agosto de 1997, que concede subvenção econômica a produtores de borracha natural, e dá outras providências.

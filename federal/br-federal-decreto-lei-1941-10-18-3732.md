@@ -1,5 +1,3 @@
-###DEL-003732-0-000-18-10-1941@@@
-
 DECRETO-LEI N. 3.732 – DE 18 DE OUTUBRO DE 1941
 
 Institue novas séries funcionais de extranumerários-mensalistas e altera outras já existentes

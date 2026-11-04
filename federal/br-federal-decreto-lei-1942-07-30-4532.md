@@ -1,5 +1,3 @@
-###DEL-004532-0-000-30-07-1942@@@
-
 DECRETO-LEI N. 4.532 – DE 30 DE JULHO DE 1942
 
 Regula o exercício do Magistério Superior na Marinha

@@ -1,5 +1,3 @@
-###DEC-053232-0-000-12-12-1963@@@
-
 DECRETO Nº 53.232, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Delto Menozzi Teixeira a pesquisar calcário, argila, xisto argiloso e associados no município de Capão Bonito, Estado de São Paulo.

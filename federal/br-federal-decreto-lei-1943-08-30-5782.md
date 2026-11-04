@@ -1,5 +1,3 @@
-###DEL-005782-0-000-30-08-1943@@@
-
 DECRETO‑LEI N. 5.782 – DE 30 DE AGÔSTO DE 1943
 
 Regula a situação do servidor do Estado desaparecido em naufrágio, acidente, ou em qualquer ato de guerra ou de agressão à soberania nacional

@@ -1,5 +1,3 @@
-###DEC-071608-0-000-22-12-1972@@@
-
 DECRETO nº 71.608 - de 22 de dezembro de 1972
 
 Concede reconhecimento do curso de Psicologia e à autorização de funcionamento da modalidade Psicólogo, na Faculdade Salesiana de Filosofia, Ciências e Letras de Lorena, mantida pela Inspetoria Salesiana do Sul do Brasil, Estado de São Paulo.

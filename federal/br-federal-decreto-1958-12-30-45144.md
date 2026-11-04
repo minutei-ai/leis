@@ -1,5 +1,3 @@
-###DEC-045144-0-000-30-12-1958@@@
-
 decreto nº 45.144, 30 de dezembro de 1958.
 
 Aprova o Regulamento da Diretoria Geral de Remonta e Veterinária (R-159).

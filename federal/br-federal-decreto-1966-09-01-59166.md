@@ -1,5 +1,3 @@
-###DEC-059166-0-000-01-09-1966@@@
-
 Decreto nº 59.166, de 1º de setembro de 1966.
 
 Altera o regulamento para a Concessão da Ordem de Rio Branco.
@@ -12,7 +10,25 @@ Art. 1º. O Art. 12 do Regulamento para a concessão da Ordem de Rio Branco apro
 
 “Art. 12. Para a admissão no Quadro Suplementar da Ordem os servidores públicos brasileiros devem constar, no mínimo, o tempo de serviço estipulado a seguir, segundo o grau proposto:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cavaleiro ..........................................................................................................................</span></p></td><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>10 anos</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Oficial ................................................................................................................................</span></p></td><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>15 anos</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Comendador .....................................................................................................................</span></p></td><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>20 anos</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Grande Oficial ...................................................................................................................</span></p></td><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>25 anos</span></p></td></tr><tr><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Grã-Cruz ...........................................................................................................................</span></p></td><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>30 anos</span></p></td></tr></tbody></table>
+Cavaleiro ..........................................................................................................................
+
+10 anos
+
+Oficial ................................................................................................................................
+
+15 anos
+
+Comendador .....................................................................................................................
+
+20 anos
+
+Grande Oficial ...................................................................................................................
+
+25 anos
+
+Grã-Cruz ...........................................................................................................................
+
+30 anos
 
 Parágrafo único. A promoção ao grau superior será feita sem exigência de tempo de serviço, obedecido apenas o interstício fixado no Art. 14 abaixo”.
 

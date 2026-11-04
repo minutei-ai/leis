@@ -1,5 +1,3 @@
-###DEC-048134-0-000-20-04-1960@@@
-
 DECRETO Nº 48.134, de 20 de abril de 1960.
 
 Restringe a zona de concessão da Prefeitura Municipal de Mimoso do Sul, Estado do Espírito Santo.

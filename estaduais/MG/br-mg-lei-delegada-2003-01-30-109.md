@@ -203,7 +203,3 @@ Cargos de provimento em comissão da estrutura intermediária
 CLASSE DE CARGOS Nº DE CARGOS SÍMBOLO DE VENCIMENTO FORMA DE RECRUTAMENTO AMPLO LIMITADO Chefe de Gabinete 01 C-29 01 - Superintendente (Item com redação dada pelo art. 11 e Anexo da Lei nº 15.459, de 12/1/2005.) 07 C-29 01 06 Procurador-Chefe 01 C-29 01 - Corregedor-Chefe 01 C-28 - 01 Procurador Assistente 02 C-28 01 01 Auditor Seccional 01 C-28 01 - Chefe de Divisão 28 C-28 - 28 Assessor de Gestão de Contas Médico-Hospitalares 01 C-27 01 - Assessor de Gestão de Contas Odontológicas 01 C-27 01 - Assessor de Gestão de Recursos Previdenciários 01 C-27 01 - Assessor de Gestão Hospitalar 01 C-27 01 - Assessor de Comunicação Social 01 C-27 01 - Assessor Técnico de Correição 02 C-27 01 01 Assessor Técnico em Atuária 01 C-27 01 - Chefe de Núcleo 27 C-25 - 27 Auditor de Saúde 01 C-25 01 - Assessor II 07 C-28 07 - Assessor I 07 C-27 - 07 Assessor 11 C-23 05 06 Assistente Religioso 01 C-27 01 -
 
 (Vide art. 3º da Lei nº14.690, de 30/7/2003.)
-
-\================================
-
-Data da última atualização: 25/1/2011.

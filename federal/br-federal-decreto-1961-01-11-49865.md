@@ -1,5 +1,3 @@
-###DEC-049865-0-000-11-01-1961@@@
-
 DECRETO Nº 49.865, DE 11 DE JANEIRO DE 1961.
 
 Concede ao “Lloyd Aéreo Paraguayo S.A.”, autorização para funcionar no Brasil.

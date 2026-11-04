@@ -1,5 +1,3 @@
-###DEC-069854-0-000-29-12-1971@@@
-
 decreto nº 69.854 - de 29 de dezembro de 1971
 
 Concede à Mineração Jundu S. A. o direito de lavrar feldspato, no município de Colatina, Estado do Espírito Santo.

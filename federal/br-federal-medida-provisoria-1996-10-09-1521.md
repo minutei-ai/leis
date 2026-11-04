@@ -1,5 +1,3 @@
-###MPV-001521-0-000-09-10-1996@@@
-
 MEDIDA PROVISÓRIA Nº 1.521, DE 9 DE OUTUBRO DE 1996.
 
 Dispensa a comprovação de regularidade do recolhimento do Imposto sobre a Propriedade Territorial Rural (ITR) para fins de financiamento ao amparo do Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF e dá outras providências.

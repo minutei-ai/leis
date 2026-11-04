@@ -1,5 +1,3 @@
-###DEL-009279-0-000-23-05-1946@@@
-
 DECRETO-LEI N. 9.279 – DE 23 DE MAIO DE 1946
 
 Transfere ao Secretário do Prefeito do Distrito Federal atribuições que eram da alçada do Secretário Geral de Administração.

@@ -1,5 +1,3 @@
-###DEL-009748-0-000-05-09-1946@@@
-
 DECRETO-LEI N. 9.748 – DE 5 DE SETEMBRO DE 1946
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 77.152.469,60, para pagamento de material cedido pelo Govêrno dos Estados Unidos da América

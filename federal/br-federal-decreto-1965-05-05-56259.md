@@ -1,5 +1,3 @@
-###DEC-056259-0-000-05-05-1965@@@
-
 DECRETO Nº 56.259, DE 5 DE MAIO DE 1965.
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$3.000.000.000 (três bilhões de cruzeiros), para o fim que especifica.

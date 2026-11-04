@@ -1,5 +1,3 @@
-###DEL-000333-0-000-12-10-1967@@@
-
 DECRETO-LEI Nº 333, DE 12 DE OUTUBRO DE 1967
 
 Dispõe sôbre a entrada em vigor das deliberações do Conselho de Política Aduaneira e incorpora às alíquotas do impôsto de importação a taxa de despacho aduaneiro e dá outras providências.

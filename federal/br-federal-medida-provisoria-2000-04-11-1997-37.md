@@ -1,5 +1,3 @@
-###MPV-001997-0-037-11-04-2000@@@
-
 MEDIDA PROVISÓRIA nº 1.997-37, DE 11 de abril DE 2000.
 
 Acresce e altera dispositivos do Decreto-Lei n° 3.365, de 21 de junho de 1941, das Leis nºs 4.504, de 30 de novembro de 1964,5.869,de 11 de janeiro de 1973, e 8.629, de 25 de fevereiro de 1993, e dá outras providências.

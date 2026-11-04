@@ -1,5 +1,3 @@
-###DEC-088314-0-000-19-05-1983@@@
-
 # Decreto nº 88.314, de 19 de maio de 1983.
 
 Dispõe sobre o limite do Capital Autorizado da Petrobrás Química S.A. - PETROQUISA.

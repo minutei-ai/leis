@@ -1,5 +1,3 @@
-###DEC-005660-0-000-03-01-2006@@@
-
 DECRETO Nº 5.660, DE 3 DE JANEIRO DE 2006.
 
 Dispõe sobre a execução do Trigésimo Protocolo Adicional ao Acordo de Complementação Econômica no 39, entre os Governos da República Federativa do Brasil e da República do Peru, de 26 de agosto de 2005.

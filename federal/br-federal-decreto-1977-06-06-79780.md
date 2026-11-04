@@ -1,5 +1,3 @@
-###DEC-079780-0-000-06-06-1977@@@
-
 DECRETO Nº 79.780, DE 6 DE JUNHO DE 1977
 
 Extingue os Consulados Honorários do Brasil em Beira e Matadi.

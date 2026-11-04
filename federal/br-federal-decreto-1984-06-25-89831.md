@@ -1,5 +1,3 @@
-###DEC-089831-0-000-25-06-1984@@@
-
 Decreto nº 89.831, de 25 de junho de 1984
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Auxiliadora da Companhia Paulista de Força e Luz-CPFL, no Estado de São Paulo.

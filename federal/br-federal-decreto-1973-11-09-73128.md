@@ -1,5 +1,3 @@
-###DEC-073128-0-000-09-11-1973@@@
-
 decreto nº 73.128 - de 9 de novembro de 1973
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terreno urbano, composta de dois lotes, com benfeitorias, situado na Rua Luiz Gama esquina com a Rua Alfa, atual Maria de Oliveira Arruda, Município de Guarulhos, Estado de São Paulo, destinada à ampliação de Estação Telefônica denominada "Rosário", pela Telecomunicações de São Paulo S. A. - TELESP.

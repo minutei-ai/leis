@@ -1,5 +1,3 @@
-###DEC-069131-0-000-26-08-1971@@@
-
 DECRETO Nº 69.131, DE 26 DE AGôSTO DE 1971.
 
 Confisca os bens de Aldivino Antônio Enéias e dá outras providências.

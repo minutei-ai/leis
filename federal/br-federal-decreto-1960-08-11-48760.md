@@ -1,5 +1,3 @@
-###DEC-048760-0-000-11-08-1960@@@
-
 DECRETO Nº 48.760, DE 11 DE AGÔSTO DE 1960.
 
 Extingue cargos excedentes.

@@ -1,5 +1,3 @@
-###DEC-074042-0-000-10-05-1974@@@
-
 DECRETO Nº 74.042, DE 10 DE MAIO DE 1974.
 
 Restabelece cargo de Fiel do Tesouro, considerado desnecessário, e torna sem efeito a disponibilidade do respectivo titular.

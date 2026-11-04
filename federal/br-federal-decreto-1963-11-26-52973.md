@@ -1,5 +1,3 @@
-###DEC-052973-0-000-26-11-1963@@@
-
 DECRETO Nº 52.973, DE 26 DE NOVEMBRO DE 1963.
 
 Autoriza a Companhia de Cimento Portland Goiás a lavrar gispsita no município de Ipubi, Estado de Pernambuco.

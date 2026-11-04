@@ -1,7 +1,3 @@
-1
-
-###DEC-099050-0-000-07-03-1990@@@
-
 DECRETO Nº 99.050, DE 7 DE MARÇO DE 1990
 
 Renova a concessão outorgada à RÁDIO UIRAPURU LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Passo Fundo, Estado do Rio Gran­de do Sul.

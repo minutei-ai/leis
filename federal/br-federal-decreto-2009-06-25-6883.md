@@ -1,5 +1,3 @@
-###DEC-006883-0-000-25-06-2009@@@
-
 DECRETO Nº 6.883, DE 25 DE JUNHO DE 2009.
 
 Regulamenta a Lei no 11.279, de 9 de fevereiro de 2006, que dispõe sobre o ensino na Marinha.

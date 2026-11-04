@@ -1,5 +1,3 @@
-###DEC-082484-0-000-24-10-1978@@@
-
 Decreto n º 82.484, de 24 de outubro de 1978
 
 Autoriza a concessão de garantia da União a operação de crédito externo, para implantação de usina siderúrgica pela Aço Minas Gerais S.A. - AÇOMINAS.

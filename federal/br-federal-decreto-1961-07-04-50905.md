@@ -1,5 +1,3 @@
-###DEC-050905-0-000-04-07-1961@@@
-
 decreto nº 50.905, de 4 de julho de 1961.
 
 Reorganiza a Comissão Nacional de Avicultura.

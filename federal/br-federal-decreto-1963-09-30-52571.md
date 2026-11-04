@@ -1,5 +1,3 @@
-###DEC-052571-0-000-30-09-1963@@@
-
 DECRETO Nº 52.571, DE 30 DE SETEMBRO DE 1963.
 
 Autoriza a S.A. Emprêsa de Fôrça e Luz Ibero Americana a construir linha de transmissão de energia elétrica entre o Distrito de Macuco, Município de Cordeiro, e o distrito-sede do Município de trajano de Morais, Estado do Rio de Janeiro.

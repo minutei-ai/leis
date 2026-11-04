@@ -1,5 +1,3 @@
-###DEC-072865-0-000-01-10-1973@@@
-
 DECRETO Nº 72.865, DE 1 DE OUTUBRO DE 1973
 
 Fixa normas para administração do Fundo Especial de Auditoria - AUDIRE, criado pelo Decreto número  72.579, de 7 de agosto de 1873, e dá outras providências

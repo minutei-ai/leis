@@ -1,5 +1,3 @@
-###DEC-058917-0-000-25-07-1966@@@
-
 DECRETO N.º 58.917, DE 25 DE JULHO DE 1966.
 
 Altera os têrmos do Decreto número 57.392, de 7 de dezembro de 1965, que dispõe sôbre o recolhimento de diferenças de preços sôbre estoques de trigo e seus derivados e determina outras providências.

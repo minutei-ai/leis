@@ -6,12 +6,14 @@ O GOVERNADOR DO ESTADO DA BAHIA, no uso de suas atribuições, faço saber que a
 
 TÍTULO ÚNICO
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DA NATUREZA, SEDE E FORO
 
 Art. 1º - O Departamento de Edificações Públicas - DEP, vinculado à Governadoria do Estado, fica constituído em entidade autárquica, administrativa e técnica, com sede e foro na Cidade do Salvador, regendo-se pelo disposto nesta lei.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DAS ATRIBUIÇÕES
 
 Art. 2º - Ao Departamento de Edificações Públicas - DEP compete:
@@ -38,7 +40,8 @@ VI - organizar e desenvolver as atividades relativas à composição e fixação
 
 VII - manter convênio com órgãos de ensino técnico especializado no sentido de melhor conjugar as atividades do DEP com a formação profissional da mocidade estudantil.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DA ORGANIZAÇÃO
 
 Art. 3º - A organização básica do Departamento de Edificações Públicas passa a ser a seguinte:
@@ -53,7 +56,8 @@ a) Diretoria Geral.
 
 Art. 4º - A estrutura do DEP será fixada em regimento a ser aprovado por decreto do Poder Executivo.
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DO CONSELHO ADMINISTRATIVO (C.A.)
 
 Art. 5º - O Conselho Administrativo será composto dos seguinte membros:
@@ -114,7 +118,8 @@ XIII - aprovar o quadro do pessoal da autarquia, com a respectiva remuneração,
 
 Art. 8º - Aos membros do Conselho Administrativo serão pagas gratificações de presença por comparecimento às sessões, fixadas pelo Poder Executivo, que limitará o número de reuniões remuneradas mensalmente.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DA DIRETORIA
 
 Art. 9º - A Diretoria Geral será exercida por um Diretor-Geral, nomeado em comissão pelo Governador do Estado, ficando-lhe subordinados os demais órgãos executivos componentes da estrutura da autarquia.
@@ -139,7 +144,8 @@ VIII - exercer outras atribuições específicas da competência do DEP.
 
 Parágrafo único - Para o desempenho de suas atribuições contará a Diretoria-Geral com órgãos de assessoramento, orientação e execução.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 RECEITA, CONTABILIDADE E PATRIMÔNIO
 
 Art. 11 - Constituem fontes de receita do DEP:
@@ -166,14 +172,16 @@ Art. 12 - O DEP terá serviço completo de contabilidade de todo o seu movimento
 
 Art. 13 - O patrimônio da autarquia será constituído de haveres, bens e papéis do arquivo do atual Departamento de Edificações Públicas, assim como de outros bens regularmente adquiridos.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DO PESSOAL
 
 Art. 14 - O DEP terá sistema de classificação de cargos e remuneração próprios, aprovados por decreto do Poder Executivo.
 
 Art. 15 - Os direitos e vantagens e o regime disciplinar dos funcionários do DEP são os estabelecidos em leis, de acordo com a forma de sua investidura.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 16 - Ao Departamento de Edificações Públicas são extensivos a imunidade, impenhorabilidade de bens, rendas ou serviços e os privilégios que goza a Fazenda Pública, o uso de ações especiais, prazo de prescrição e regime de custas, correndo os processos do seu interesse no Juízo competente para apreciar e decidir os feitos da Fazenda Estadual, sob o patrocínio dos Procuradores do Estado.

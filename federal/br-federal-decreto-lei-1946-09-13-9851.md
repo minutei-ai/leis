@@ -1,5 +1,3 @@
-###DEL-009851-0-000-13-09-1946@@@
-
 DECRETO- LEI N. 9.851 – DE 13 DE SETEMBRO DE 1946
 
 Cria Centros de Instrução de Oficiais para a Reserva da Marinha (C.I.O.R.M.):

@@ -1,5 +1,3 @@
-###DEL-005783-0-000-30-08-1943@@@
-
 DECRETO‑LEI N. 5.783 – DE 30 DE AGÔSTO DE 1943
 
 Altera as carreiras de Maquinista Marítimo e Motorista do Quadro Suplementar do Ministério da Guerra

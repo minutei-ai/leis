@@ -1,5 +1,3 @@
-###DEL-003454-0-000-24-07-1941@@@
-
 DECRETO-LEI N. 3.454 – DE 24 DE JULHO DE 1941
 
 Dispõe sobre a realização simultânea de cursos nas faculdades filosofia, ciências e letras

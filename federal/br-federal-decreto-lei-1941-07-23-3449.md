@@ -1,5 +1,3 @@
-###DEL-003449-0-000-23-07-1941@@@
-
 DECRETO-LEI N. 3.449 – DE 23 DE JULHO DE 1941
 
 Modifica penalidades previstas no decreto n. 22.061, de 9 de novembro de 1932 e dá outras providências

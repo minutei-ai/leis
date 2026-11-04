@@ -1,5 +1,3 @@
-###DEC-054053-0-000-27-07-1964@@@
-
 decreto nº 54.053, de 27 de julho de 1964.
 
 Aprova a revisão do Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Bancários, e dá outras providências.

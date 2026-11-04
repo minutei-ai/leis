@@ -1,5 +1,3 @@
-###DEC-006352-0-000-14-01-2008@@@
-
 DECRETO Nº 6.352, DE 14 DE JANEIRO DE 2008.
 
 Fixa para a Marinha do Brasil o número de vagas para promoções obrigatórias de oficiais para os Corpos e Quadros que menciona, no ano-base de 2007.
@@ -109,5 +107,3 @@ Brasília, 14 de janeiro de 2008; 187o da Independência e 120o da República.
 JOSÉ ALENCAR GOMES DA SILVA
 
 Nelson Jobim
-
-Este texto não substitui o publicado no DOU de 15.1.2008

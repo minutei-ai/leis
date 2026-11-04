@@ -1,5 +1,3 @@
-###DEC-088689-0-000-08-09-1983@@@
-
 DECRETO Nº 88.689, DE 8 DE SETEMBRO DE 1983
 
 Altera dispositivos do Regulamento da Ordem do Mérito Aeronáutico.

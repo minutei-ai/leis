@@ -1,5 +1,3 @@
-###DEC-006761-0-000-05-02-2009@@@
-
 DECRETO Nº 6.761, DE 5 DE FEVEREIRO DE 2009.
 
 Dispõe sobre a aplicação da redução a zero da alíquota do imposto sobre a renda incidente sobre os rendimentos de beneficiários residentes ou domiciliados no exterior, e dá outras providências.

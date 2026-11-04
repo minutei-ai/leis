@@ -1,5 +1,3 @@
-###DEC-051653-0-000-10-01-1963@@@
-
 DECRETO Nº 51.653, DE 10 DE JANEIRO DE 1963.
 
 Altera a lotação numérica das Repartições atendidas pelo Quadro de Pessoal - Parte Permanente do Ministério da Justiça e Negócios Interiores.

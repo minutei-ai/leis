@@ -1,5 +1,3 @@
-###DEL-002312-0-000-23-12-1986@@@
-
 # DECRETO-LEI Nº 2.312, DE 23 DE DEZEMBRO DE 1986
 
 Revoga disposições sobre as atividades de programação e administração financeira da União, e dá outras providências.

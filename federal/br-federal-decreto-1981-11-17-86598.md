@@ -1,5 +1,3 @@
-###DEC-086598-0-000-17-11-1981@@@
-
 Decreto nº 86.598, de 17 de novembro de 1981
 
 Torna sem efeito o Decreto nº 85.964, de 04 de maio de 1981, que declara de utilidade pública total ou parcial ou instituição de servidão administrativa e/ou passagem, em favor da Petróleo Brasileiro S/A - PETROBRÁS, imóveis constituídos de terras e benfeitorias que menciona.

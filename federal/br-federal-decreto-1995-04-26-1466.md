@@ -1,7 +1,3 @@
-1
-
-###DEC-001466-0-000-26-04-1995@@@
-
 DECRETO Nº 1.466, DE 26 DE ABRIL DE 1995
 
 Regulamenta o disposto no art. 1º do Decreto-Lei nº 1.876, de 15 de julho de 1981, com a redação dada pela Lei nº 7.450, de 23 de dezembro de 1985, e revoga o Decreto nº 1.360, de 30 de dezembro de 1994.

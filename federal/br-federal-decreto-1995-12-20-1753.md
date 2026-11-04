@@ -1,7 +1,3 @@
-1
-
-###DEC-001753-0-000-20-12-1995@@@
-
 DECRETO Nº 1.753, DE 20 DE DEZEMBRO DE 1995
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e Funções Gratificadas do Ministério da Ciência e Tecnologia e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-075466-0-000-11-03-1975@@@
-
 DECRETO Nº 75.466, DE 11 DE MARÇO DE 1975.
 
 Exclui cargo que indica, do Quadro de Pessoal - Parte Permanente - do Ministério da Agricultura.

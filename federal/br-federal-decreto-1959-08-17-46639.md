@@ -1,5 +1,3 @@
-###DEC-046639-0-000-17-08-1959@@@
-
 decreto nº 46.639, de 17 de agôsto 1959.
 
 Declara caduco o Decreto nº 20.011, de 27 de novembro de 1945.

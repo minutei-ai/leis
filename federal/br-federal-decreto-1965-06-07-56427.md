@@ -1,5 +1,3 @@
-###DEC-056427-0-000-07-06-1965@@@
-
 Decreto nº 56.427, de 7 de junho de 1965.
 
 Concede à Companhia de Navegação Marítima Netumar autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

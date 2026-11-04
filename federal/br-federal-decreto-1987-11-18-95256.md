@@ -1,5 +1,3 @@
-###DEC-095256-0-000-18-11-1987@@@
-
 DECRETO N° 95.256, DE 18 DE NOVEMBRO DE 1987
 
 Altera o Decreto n.º 95.077, de 22 de outubro de 1987, que regulamentou a transposição dos servidores alcançados pelo Decreto-lei n.° 2.347, de 23 de julho de 1987.

@@ -1,5 +1,3 @@
-###DEL-005546-0-000-04-06-1943@@@
-
 DECRETO‑LEI N. 5.546 – DE 4 DE JUNHO DE 1943
 
 Estende ao Estado da Baía as medidas de fiscalização sôbre mercadorias em trânsito por estradas de rodagem, na forma estabelecida no decreto 19.827, de 2 de abril de 1931

@@ -1,5 +1,3 @@
-###DEC-046587-0-000-13-08-1959@@@
-
 DECRETO Nº 46.587, DE 13 DE Agôsto DE 1959.
 
 Outorga concessão à Brasus Rádio e televisão Sociedade Anônima para estabelecer uma estação de radiotelevisão na cidade de Pôrto alegre, Estado do Rio Grande do Sul.

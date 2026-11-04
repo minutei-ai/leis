@@ -1,5 +1,3 @@
-###DEC-074075-0-000-16-05-1974@@@
-
 DECRETO Nº 74.075, de 16 de maio de 1974.
 
 Extingue a Representação do DASP no Estado da Guanabara e dá outras providências.

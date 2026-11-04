@@ -1,5 +1,3 @@
-###DEC-071815-0-000-07-02-1973@@@
-
 DECRETO Nº 71.815, DE 7 DE FEVEREIRO DE 1973.
 
 Autoriza o funcionamento da Faculdade de Ciências Administrativas de Canoinhas, mantida pela Fundação Universitária do Planalto Norte Catarinense - Canoinhas - SC.

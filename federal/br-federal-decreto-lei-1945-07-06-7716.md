@@ -1,5 +1,3 @@
-###DEL-007716-0-000-06-07-1945@@@
-
 DECRETO-LEI N. 7.716 – DE 6 DE JULHO DE 1945
 
 Dispõe sobre a aplicação do Decreto-lei n.º 7.524, de 5 de maio de 1945, e dá outras providências

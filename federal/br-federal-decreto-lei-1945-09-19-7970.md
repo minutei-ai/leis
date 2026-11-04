@@ -1,5 +1,3 @@
-###DEL-007970-0-000-19-09-1945@@@
-
 DECRETO-LEI N. 7.970 – DE 19 DE SETEMBRO DE 1945
 
 Dispõe sôbre a incorporação, mediante acôrdo, da Escola Eliseu Maciel, de Pelotas, e dá outras providências.

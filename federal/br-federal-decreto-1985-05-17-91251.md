@@ -1,5 +1,3 @@
-###DEC-091251-0-000-17-05-1985@@@
-
 DECRETO nº 91.251, dE 17 de maio de 1985
 
 Autoriza o funcionamento do curso de Direito da Faculdade Salesiana de Direito de Lorena, São Paulo.

@@ -1,5 +1,3 @@
-###DEC-069723-0-000-09-12-1971@@@
-
 decreto nº 69.773 - de 9 de dezembro de 1971
 
 Retifica redistribuição de cargo, com a respectiva ocupante, do Quadro de Pessoal do Ministério da Educação e Cultura para o das Minas e Energia.

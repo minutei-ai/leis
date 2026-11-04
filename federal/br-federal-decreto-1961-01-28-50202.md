@@ -1,5 +1,3 @@
-###DEC-050202-0-000-28-01-1961@@@
-
 Decreto Nº 50.202, DE 28 DE JANEIRO DE 1961.
 
 Outorga concessão à Emissora de Televisão Continental S.A. - TV Continental, para estabelecer uma estação de rádiotelevisão.

@@ -1,5 +1,3 @@
-###DEC-053581-0-000-21-02-1964@@@
-
 DECRETO Nº 53.581, DE 21 DE FEVEREIRO DE 1964.
 
 Constitui Grupo de Trabalho para estudar a situação e coordenação de atividades das residências universitárias brasileiras no exterior.

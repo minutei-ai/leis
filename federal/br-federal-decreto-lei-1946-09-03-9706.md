@@ -1,5 +1,3 @@
-###DEL-009706-0-000-03-09-1946@@@
-
 DECRETO-LEI N. 9.706 – DE 3 DE SETEMBRO DE 1946
 
 Altera, com redução de despesa, o orçamento do Plano de Obras e Equipamentos.

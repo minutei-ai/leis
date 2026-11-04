@@ -1,5 +1,3 @@
-###DEC-080478-0-000-03-10-1977@@@
-
 DECrETO Nº 80.478, DE 3 DE OUTUBRO DE 1977.
 
 Concede reconhecimento ao curso de Administração, da Faculdade de Administração de Joaçaba, com sede na cidade de Joaçaba, Estado de Santa Catarina.

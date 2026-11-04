@@ -1,5 +1,3 @@
-###DEC-047162-0-000-03-11-1959@@@
-
 DECRETO Nº 47.162, DE 3 DE NOVEMBRO DE 1959.
 
 Cria o Consulado do Brasil, em Trieste, suprime o Consulado de Veneza e cria o Consulado Honorário em Veneza.

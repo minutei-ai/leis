@@ -1,5 +1,3 @@
-###DEC-074321-0-000-25-07-1974@@@
-
 decreto nº 74.321 - de 25 de julho de 1974.
 
 Altera a denominação de funções gratificadas do Quadro de Pessoal do Ministério da Fazenda.

@@ -127,7 +127,3 @@ ANEXO VII
 (Art. 2º da Lei 10.623/92)
 
 UNIDADE ADMINISTRATIVA DENOMINAÇÃO DO CARGO Nº DE CARGOS FATOR DE AJUSTAMENTO Presidência Presidência 01 1,43418 Diretoria de Planejamento, Gestão e Finanças Diretor 01 1,20286 Escola de Artes Rodrigo de Melo Franco Andrade Diretor 01 1,20286 Auditoria Seccional Auditor Seccional 01 0,54200 Assessoria Jurídica Assessor Jurídico 01 0,54200
-
-\=======================
-
-Data da última atualização: 15/7/2011.

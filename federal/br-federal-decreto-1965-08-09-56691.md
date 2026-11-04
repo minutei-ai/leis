@@ -1,5 +1,3 @@
-###DEC-056691-0-000-09-08-1965@@@
-
 DECRETO Nº 56.691, DE 9 DE AGÔSTO DE 1965.
 
 Autoriza a Prefeitura Municipal de Belo Horizonte a lavrar minério de ferro no município de Belo Horizonte, Estado de Minas Gerais.

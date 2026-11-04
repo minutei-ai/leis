@@ -10,7 +10,7 @@ Art. 1º. Nos termos da Lei Orgânica do Município e do que dispõe o Plano Dir
 
 I- DISTRIBUIÇÃO DAS ÁREAS:
 
-<table><thead></thead><tbody><tr><td colspan="2" style="text-align:center">ORDEM</td><td>DISTRIBUIÇÃO</td><td>m²</td><td>%</td></tr><tr><td><strong>1</strong></td><td>&nbsp;</td><td><strong>ÁREA TOTAL DO IMÓVEL</strong></td><td><strong>603.343,00</strong></td><td>&nbsp;</td></tr><tr><td><strong>1.1</strong></td><td>&nbsp;</td><td><strong>Área Urbanizável (a parcelar)</strong></td><td><strong>575.099,30</strong></td><td><strong>100,00</strong></td></tr><tr><td>&nbsp;</td><td>1.1.1</td><td>Área de vias e canalização de tráfego – sistema viário</td><td>115.019,23</td><td>20,00</td></tr><tr><td>&nbsp;</td><td>1.1.2</td><td>Área Pública Municipal - Áreas verdes</td><td>57.510,52</td><td>10,00</td></tr><tr><td>&nbsp;</td><td>1.1.3</td><td>Área Pública Municipal - Área de Uso Comunitário</td><td>57.510,18</td><td>10,00</td></tr><tr><td>&nbsp;</td><td>1.1.4</td><td>Área alienável</td><td>345.059,37</td><td>60,00</td></tr><tr><td><strong>1.2</strong></td><td>&nbsp;</td><td><strong>Área não edificante ( Remanescente )</strong></td><td><strong>28.243,70</strong></td><td>&nbsp;</td></tr></tbody></table>
+<table><thead></thead><tbody><tr><td colspan="2">ORDEM</td><td>DISTRIBUIÇÃO</td><td>m²</td><td>%</td></tr><tr><td>**1**</td><td>&nbsp;</td><td>**ÁREA TOTAL DO IMÓVEL**</td><td>**603.343,00**</td><td>&nbsp;</td></tr><tr><td>**1.1**</td><td>&nbsp;</td><td>**Área Urbanizável (a parcelar)**</td><td>**575.099,30**</td><td>**100,00**</td></tr><tr><td>&nbsp;</td><td>1.1.1</td><td>Área de vias e canalização de tráfego – sistema viário</td><td>115.019,23</td><td>20,00</td></tr><tr><td>&nbsp;</td><td>1.1.2</td><td>Área Pública Municipal - Áreas verdes</td><td>57.510,52</td><td>10,00</td></tr><tr><td>&nbsp;</td><td>1.1.3</td><td>Área Pública Municipal - Área de Uso Comunitário</td><td>57.510,18</td><td>10,00</td></tr><tr><td>&nbsp;</td><td>1.1.4</td><td>Área alienável</td><td>345.059,37</td><td>60,00</td></tr><tr><td>**1.2**</td><td>&nbsp;</td><td>**Área não edificante ( Remanescente )**</td><td>**28.243,70**</td><td>&nbsp;</td></tr></tbody></table>
 
 II – COMPOSIÇÃO DO LOTEAMENTO:
 
@@ -30,11 +30,14 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 1
 
  
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Secretário Municipal de Planejamento

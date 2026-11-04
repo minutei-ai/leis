@@ -1,5 +1,3 @@
-###DEC-053657-0-000-04-03-1964@@@
-
 DECRETO Nº 53.657, DE 4 DE MARÇO DE 1964.
 
 Extinção do Consulado honorário do Brasil em Nice, França.

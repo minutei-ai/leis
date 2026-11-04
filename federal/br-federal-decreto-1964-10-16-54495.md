@@ -1,5 +1,3 @@
-###DEC-054495-0-000-16-10-1964@@@
-
 DECRETO Nº 54.495, DE 16 DE OUTUBRO DE 1964.
 
 Concede à Caledonian Insurance Company autorização para aumentar o capital destinado às suas operações no país.

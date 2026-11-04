@@ -1,5 +1,3 @@
-###DEL-006133-0-000-23-12-1943@@@
-
 DECRETO‑LEI N. 6.133 – DE 23 DE DEZEMBRO DE 1943
 
 Torna sem aplicação Cr$ 460.000,00, de crédito orçamentário do Ministério da Educação e Saúde e abre crédito especial de idêntica importância

@@ -1,6 +1,10 @@
 > **LEI Nº 3.747, DE 02 DE JULHO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a instituição do Programa de Integridade e Compliance, com o objetivo de implantar medidas preventivas de combate a corrupção no âmbito dos Poderes Legislativo e Executivo do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a instituição do Programa de Integridade e Compliance, com o objetivo de implantar medidas preventivas de combate a corrupção no âmbito dos Poderes Legislativo e Executivo do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

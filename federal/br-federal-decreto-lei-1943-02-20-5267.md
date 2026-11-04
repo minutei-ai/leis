@@ -1,5 +1,3 @@
-###DEL-005267-0-000-20-02-1943@@@
-
 DECRETO‑LEI N. 5.267 – DE 20 DE FEVEREIRO DE 1943
 
 Altera dispositivo do decreto‑lei n. 5.212, de 21 de janeiro de 1943, que criou a Comissão de Financiamento da Produção e dá outras providências

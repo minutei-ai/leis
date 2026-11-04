@@ -1,5 +1,3 @@
-###DEC-056683-0-000-09-08-1965@@@
-
 Decreto nº 56.683, de 9 de agôsto de 1965.
 
 Autoriza a Centrais Elétricas de Goiás S.A. a ampliar suas instalações.

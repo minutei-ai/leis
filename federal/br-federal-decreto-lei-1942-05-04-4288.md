@@ -1,5 +1,3 @@
-###DEL-004288-0-000-04-05-1942@@@
-
 DECRETO-LEI N. 4.288 – DE 4 DE MAIO DE 1942
 
 Prorroga o prazo previsto no § 1º do art. 4º do decreto-lei n. 4.081, de 3 de fevereiro de 1942

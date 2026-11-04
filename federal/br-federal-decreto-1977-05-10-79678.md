@@ -1,5 +1,3 @@
-###DEC-079678-0-000-10-05-1977@@@
-
 Decreto nº 79.678, de 10 de maio de 1977.
 
 Concede reconhecimento ao curso de Educação Artística, da Faculdade Auxilium de Filosofia, Ciências e Letras, com sede na cidade de Lins, Estado de São Paulo.

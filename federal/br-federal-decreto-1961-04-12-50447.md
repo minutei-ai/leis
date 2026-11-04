@@ -1,5 +1,3 @@
-###DEC-050447-0-000-12-04-1961@@@
-
 Decreto Nº 50.447, DE 12 DE ABRIL DE 1961.
 
 Institui Grupo de Trabalho para promover levantamento dos créditos do SAPS e dá outras providências.

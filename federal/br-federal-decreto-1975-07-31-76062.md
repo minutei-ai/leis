@@ -1,5 +1,3 @@
-###DEC-076062-0-000-31-07-1975@@@
-
 decreto nº 76.062 - de 31 de julho de 1975.
 
 Aprova as "Instruções Gerais para a Representação do Brasil na junta Interamericana de Defesa" e dá outras providências.

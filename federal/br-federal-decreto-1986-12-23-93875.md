@@ -1,5 +1,3 @@
-###DEC-093875-0-000-23-12-1986@@@
-
 DECRETO Nº 93.875, DE 23 DE DEZEMBRO DE 1986
 
 Autoriza o aumento do Capital Social da Empresa Brasileira de Filmes SAI - EMBRAFILME.

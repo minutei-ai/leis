@@ -26,8 +26,24 @@ ANEXO
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">LOTE 01-18</td><td style="text-align:center">6.448,92</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+LOTE 01-18
+
+6.448,92
 
 SITUAÇÃO PROPOSTA DE DESMEMBRAMENTO
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">LOTE 01-18 A</td><td style="text-align:center">3.334,21</td></tr><tr><td style="text-align:center">LOTE 01-18 B</td><td style="text-align:center">3.114,71</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+LOTE 01-18 A
+
+3.334,21
+
+LOTE 01-18 B
+
+3.114,71

@@ -1,5 +1,3 @@
-###DEL-003946-0-000-18-12-1941@@@
-
 DECRETO-LEI N. 3.946 – DE 18 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Fazenda, o crédito especial, de 14.000:000$0 para, classificação de despesa

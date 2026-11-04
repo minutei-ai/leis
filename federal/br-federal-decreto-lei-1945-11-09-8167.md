@@ -1,5 +1,3 @@
-###DEL-008167-0-000-09-11-1945@@@
-
 DECRETO-LEI N. 8.167 – DE 9 DE NOVEMBRO DE 1945
 
 Revoga o Decreto-lei n.º 7.666, de 22 de junho de 1945

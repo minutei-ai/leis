@@ -1,5 +1,3 @@
-###DEC-061454-0-000-04-10-1967@@@
-
 DECRETO Nº 61.454, DE 4 DE OUTUBRO DE 1967.
 
 Altera o artigo 1º do Decreto número 52.971, de 26 de novembro de 1983 e dá outras providências.

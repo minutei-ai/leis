@@ -1,5 +1,3 @@
-###DEC-049500-0-000-12-12-1960@@@
-
 Decreto nº 49.500, de 12 de dezembro de 1960.
 
 Autoriza a Sociedade Comercial de Mineração Ltda. - Socomine, a pesquisar minério de ferro, no município de Brumadinho, Estado de Minas Gerais.

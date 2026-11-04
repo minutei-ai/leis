@@ -1,5 +1,3 @@
-###DEC-049909-0-000-12-01-1961@@@
-
 DECRETO Nº 49.909, DE 12 DE JANEIRO DE 1961.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.

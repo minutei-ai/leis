@@ -1,5 +1,3 @@
-###DEC-095488-0-000-14-12-1987@@@
-
 DECRETO Nº 95.488, DE 14 DE DEZEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Fonoaudiologia da Faculdade de Reabilitação do Norte do Paraná.

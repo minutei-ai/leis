@@ -1,5 +1,3 @@
-###DEC-075468-0-000-11-03-1975@@@
-
 DECRETO Nº 75.468, DE 11 DE MARÇO DE 1975.
 
 Dispõe sobre a Estrutura Básica do Ministério das Minas e Energia e dá outras providências.

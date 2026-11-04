@@ -1,5 +1,3 @@
-###DEC-045958-0-000-04-05-1959@@@
-
 decreto nº 45.958, de 04 de maio de 1959.
 
 Abre, ao Ministério da Guerra, o crédito especial de Cr$576.400,00 para ocorrer à despesa que especifica.

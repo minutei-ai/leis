@@ -1,5 +1,3 @@
-###DEC-087309-0-000-21-06-1982@@@
-
 Decreto nº 87.309, de 21 de junho de 1982
 
 Dispõe sobre as finalidades da Empresa de Engenharia e Construção de Obras Especiais - ECEX.

@@ -1,5 +1,3 @@
-###DEC-065285-0-000-07-10-1969@@@
-
 DECRETO Nº 65.285, DE 7 DE OUTUBRO DE 1969.
 
 Declara caduco o Decreto nº 36.868 de 4 de fevereiro de 1955.

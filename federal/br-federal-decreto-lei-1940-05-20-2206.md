@@ -1,5 +1,3 @@
-###DEL-002206-0-000-20-05-1940@@@
-
 DECRETO-LEI N. 2.206 – DE 20 DE MAIO DE 1940
 
 Dispõe sobre serviços de material, reforma a Comissão Central de Compras e dá outras providências

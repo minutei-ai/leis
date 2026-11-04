@@ -1,5 +1,3 @@
-###DEC-064666-0-000-10-06-1969@@@
-
 DECRETO Nº 64.666, DE 10 DE JUNHO DE 1969.
 
 Declara de utilidade pública à Sociedade de Proteção à Maternidade e à Infância de Parnaíba com sede em Parnaíba, Estado do Piauí.

@@ -1,6 +1,6 @@
 > **LEI Nº 3.617, DE 24 DE MARÇO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei nº 3.378, de 17 de abril de 2018, que dispõe sobre a remuneração dos cargos de provimento efetivo e em comissão da Assembleia Legislativa do Estado do Acre - ALEAC.</span></span></span></p></td></tr></tbody></table>
+Altera dispositivos da Lei nº 3.378, de 17 de abril de 2018, que dispõe sobre a remuneração dos cargos de provimento efetivo e em comissão da Assembleia Legislativa do Estado do Acre - ALEAC.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -20,7 +20,65 @@
 
 **REMUNERAÇÃO DOS CARGOS DE DIREÇÃO E ASSESSORAMENTO ESPECIAL**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span><strong><span>DENOMINAÇÃO</span></strong></span></p></td><td valign="top"><p><span><strong><span>VALOR R$</span></strong></span></p></td></tr><tr><td valign="top"><p><span><span>Secretaria Executiva</span></span></p></td><td valign="top"><p><span><span>20.000,00</span></span></p></td></tr><tr><td valign="top"><p><span><span>Secretarias Adjuntas:</span></span></p><p><span><span>1. Administrativo</span></span></p><p><span><span>2. Relações Institucionais</span></span></p><p><span><span>Consultoria Geral da Mesa Diretora</span></span></p><p><span><span>Consultoria Legislativa</span></span></p><p><span><span>Subsecretaria de Atividades Legislativas</span></span></p><p><span><span>Subsecretaria de Planejamento, Orçamento e Finanças</span></span></p><p><span><span>Subsecretaria de Recursos Humanos</span></span></p><p><span><span>Controle Interno</span></span></p></td><td valign="top"><p><span><span>&nbsp;</span></span></p><p><span><span>&nbsp;</span></span></p><p><span><span>18.000,00</span></span></p></td></tr><tr><td valign="top"><p><span><span>Subsecretaria de Publicidade e Comunicação Social</span></span></p><p><span><span>Subsecretaria de Patrimônio e Serviços</span></span></p><p><span><span>Subsecretaria de Tecnologia da Informação</span></span></p><p><span><span>Assessorias Especiais da Mesa Diretora</span></span></p><p><span><span>Consultoria Jurídico-Administrativo</span></span></p><p><span><span>Consultoria Técnica</span></span></p><p><span><span>Comissão Permanente de Licitação</span></span></p><p><span><span>Diretoria de Folha de Pagamento e Vantagens Funcionais</span></span></p><p><span><span>Diretoria de Núcleo da TV e Rádio da Assembleia Legislativa</span></span></p><p><span><span>Diretoria da Escola do Legislativo</span></span></p><p><span><span>Contador</span></span></p></td><td valign="top"><p><span><span>&nbsp;</span></span></p><p><span><span>&nbsp;</span></span></p><p><span><span>&nbsp;</span></span></p><p><span><span>&nbsp;</span></span></p><p><span><span>15.000,00</span></span></p><p><span><span>&nbsp;</span></span></p></td></tr><tr><td valign="top"><p><span><span>Coordenadoria Especial de Atos e Anais</span></span></p><p><span><span>Coordenadoria Especial de Taquigrafia</span></span></p><p><span><span>Coordenadoria de Patrimônio e Material</span></span></p></td><td valign="top"><p><span><span>10.000,00</span></span></p></td></tr></tbody></table>
+**DENOMINAÇÃO**
+
+**VALOR R$**
+
+Secretaria Executiva
+
+20.000,00
+
+Secretarias Adjuntas:
+
+1. Administrativo
+
+2. Relações Institucionais
+
+Consultoria Geral da Mesa Diretora
+
+Consultoria Legislativa
+
+Subsecretaria de Atividades Legislativas
+
+Subsecretaria de Planejamento, Orçamento e Finanças
+
+Subsecretaria de Recursos Humanos
+
+Controle Interno
+
+18.000,00
+
+Subsecretaria de Publicidade e Comunicação Social
+
+Subsecretaria de Patrimônio e Serviços
+
+Subsecretaria de Tecnologia da Informação
+
+Assessorias Especiais da Mesa Diretora
+
+Consultoria Jurídico-Administrativo
+
+Consultoria Técnica
+
+Comissão Permanente de Licitação
+
+Diretoria de Folha de Pagamento e Vantagens Funcionais
+
+Diretoria de Núcleo da TV e Rádio da Assembleia Legislativa
+
+Diretoria da Escola do Legislativo
+
+Contador
+
+15.000,00
+
+Coordenadoria Especial de Atos e Anais
+
+Coordenadoria Especial de Taquigrafia
+
+Coordenadoria de Patrimônio e Material
+
+10.000,00
 
 **Art. 3º** Esta Lei entra em vigor na data de sua publicação.
 

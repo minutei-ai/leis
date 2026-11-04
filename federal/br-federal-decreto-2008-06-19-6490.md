@@ -1,5 +1,3 @@
-###DEC-006490-0-000-19-06-2008@@@
-
 DECRETO Nº 6.490, DE 19 DE JUNHO DE 2008.
 
 Regulamenta os arts. 8o-D e 8o-E da Lei no 11.530, de 24 de outubro de 2007, que institui o Programa Nacional de Segurança Pública com Cidadania - PRONASCI, e revoga o Decreto no 6.390, de 8 de março de 2008.

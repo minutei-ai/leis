@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210091)<br>
-
 # DECRETO N° 68.947, DE 08 DE OUTUBRO DE 2024
 
 ### _Transfere, da Secretaria de Administração Penitenciária para a Secretaria de Saúde, a administração de parte do imóvel que especifica, localizado no Município de Taubaté._

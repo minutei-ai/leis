@@ -1,7 +1,3 @@
-1
-
-###DEC-000757-0-000-19-02-1993@@@
-
 DECRETO N° 757, DE 19 DE FEVEREIRO 1993
 
 Dispõe sobre a composição das Diretorias e dos Conselhos de Administração, Fiscal e Curador das entidades estatais que menciona.

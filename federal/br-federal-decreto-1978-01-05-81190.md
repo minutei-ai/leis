@@ -1,5 +1,3 @@
-###DEC-081190-0-000-05-01-1978@@@
-
 Decreto nº 81.190, de 5 de janeiro de 1978.
 
 Dispõe sobre a importação, o arrendamento mercantil, a locação ou a aquisição no mercado interno de bens de consumo, máquinas e equipamentos, veículos e demais produtos de origem externa, por órgãos e entidades da administração federal direta e indireta e fundações supervisionadas, e dá outras providências.

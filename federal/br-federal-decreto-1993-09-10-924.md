@@ -1,7 +1,3 @@
-1
-
-###DEC-000924-0-000-10-09-1993@@@
-
 DECRETO N° 924, DE 10 DE SETEMBRO DE 1993
 
 Cria a Área de Proteção Ambiental da Barra do Rio Maman guape no Estado da Paraíba e dá outras providências.

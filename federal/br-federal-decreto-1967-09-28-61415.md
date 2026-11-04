@@ -1,5 +1,3 @@
-###DEC-061415-0-000-28-09-1967@@@
-
 DECRETO Nº 61.415, DE 28 DE SETEMBRO DE 1967.
 
 Fixa normas para a utilização de créditos orçamentários e adicionais ao exercício de 1967.

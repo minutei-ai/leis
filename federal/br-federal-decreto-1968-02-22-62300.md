@@ -1,5 +1,3 @@
-###DEC-062300-0-000-22-02-1968@@@
-
 DECRETO Nº 62.300, DE 22 DE FEVEREIRO DE 1968.
 
 Autoriza a Light - Serviços de Eletricidade S/A, a construir linha de transmissão.

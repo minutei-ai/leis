@@ -1,5 +1,3 @@
-###DEC-073416-0-000-04-01-1974@@@
-
 DECRETO Nº 73.416, DE 4 DE JANEIRO DE 1974.
 
 Declara de interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas, área de terras que menciona, no Estado do Ceará.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211193)<br>
-
 # LEI COMPLEMENTAR N° 1.428, DE 16 DE JULHO DE 2025
 
 ### _Dispõe sobre transformação de cargos do Quadro de Pessoal do Tribunal de Justiça Militar do Estado de São Paulo._

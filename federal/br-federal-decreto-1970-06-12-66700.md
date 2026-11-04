@@ -1,5 +1,3 @@
-###DEC-066700-0-000-12-06-1970@@@
-
 DECRETO Nº 66.700, DE 12 DE JUNHO DE 1970.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa uma faixa de terra destinada à passagem de linha de transmissão que se estenderá desde a cidade de Rianápolis até a cidade de Rialma, nos municípios de Rianápolis e Rialma, Estado de Goiás.

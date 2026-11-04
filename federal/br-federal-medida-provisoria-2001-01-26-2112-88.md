@@ -1,5 +1,3 @@
-###MPV-002112-0-088-26-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.112-88, DE 26 DE JANEIRO DE 2001
 
 Organiza e disciplina os Sistemas de Planejamento e de Orçamento Federal, de Administração Financeira Federal, de Contabilidade Federal e de Controle Interno do Poder Executivo Federal, e dá outras providências.

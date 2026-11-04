@@ -1,5 +1,3 @@
-###DEC-079672-0-000-10-05-1977@@@
-
 DECRETO Nº 79.672, DE 10 DE MAIO DE 1977.
 
 Dá nova redação a dispositivo do Decreto nº 78.395, de 10 de setembro de 1976, que autoriza o Ministério da Fazenda a conceder a garantia da União em operações de crédito externo a serem contratadas pela Companhia do Metropolitano do Rio de Janeiro- METRO.

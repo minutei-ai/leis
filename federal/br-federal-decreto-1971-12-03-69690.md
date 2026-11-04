@@ -1,5 +1,3 @@
-###DEC-069690-0-000-03-12-1971@@@
-
 decreto nº 69.690 - de 3 de dezembro de 1971
 
 Redistribui, com a respectiva ocupante, cargo do Ministério da Saúde para a Universidade Federal do Rio Grande do Norte, e dá outras providências.

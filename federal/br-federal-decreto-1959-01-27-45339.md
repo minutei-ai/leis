@@ -1,5 +1,3 @@
-###DEC-045339-0-000-27-01-1959@@@
-
 Decreto nº 45.339, de 27 de janeiro de 1959.
 
 Concede à Sociedade Anônima Produtos Farmacêuticos e Biológicos Ayerst do Brasil S.A, autorização para continuar a funcionar na República.

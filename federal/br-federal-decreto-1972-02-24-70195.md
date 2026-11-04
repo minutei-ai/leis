@@ -1,5 +1,3 @@
-###DEC-070195-0-000-24-02-1972@@@
-
 DECRETO Nº 70.195, DE 24 DE FEVEREIRO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras "Castro Alves", São Paulo - SP.

@@ -1,5 +1,3 @@
-###DEC-068495-0-000-12-04-1971@@@
-
 DECRETO Nº 68.495 - DE 12 DE ABRIL DE 1971.
 
 Concede honras de Chefe de Estado e de Ministro de Estado à Princesa Isabel e ao Marechal Conde d\`Eu, por ocasião da transladação de seus restos mortais.

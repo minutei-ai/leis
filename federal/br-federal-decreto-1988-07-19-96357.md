@@ -1,5 +1,3 @@
-###DEC-096357-0-000-19-07-1988@@@
-
 # DECRETO N° 96.357, DE 19 DE JULHO DE 1988
 
 Autoriza a doação do imóvel que menciona.

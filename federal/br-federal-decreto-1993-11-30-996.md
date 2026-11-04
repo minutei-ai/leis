@@ -1,7 +1,3 @@
-1
-
-###DEC-000996-0-000-30-11-1993@@@
-
 DECRETO N°. 996, DE 30 DE NOVEMBRO DE 1993
 
 Cria a Zona de Processamento de Exportação – ZPE  de Rio Grande, no Estado do Rio Grande do Sul.

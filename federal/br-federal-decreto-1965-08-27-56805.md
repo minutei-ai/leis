@@ -1,5 +1,3 @@
-###DEC-056805-0-000-27-08-1965@@@
-
 DECRETO Nº 56.805, DE 27 DE AGôSTO de 1965.
 
 Revoga o Decreto nº 53.871 de 30 de março de 1964.

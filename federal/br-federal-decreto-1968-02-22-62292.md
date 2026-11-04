@@ -1,32 +1,30 @@
-###DEC-062292-0-000-22-02-1968@@@
+**DECRETO Nº 62.292, DE 22 DE FEVEREIRO DE 1968.**
 
-<strong>DECRETO Nº 62.292, DE 22 DE FEVEREIRO DE 1968.</strong>
+***Regulamenta o Decreto-lei número 240, de 28 de fevereiro de 1967 e dá outras providências.***
 
-<em><strong>Regulamenta o Decreto-lei número 240, de 28 de fevereiro de 1967 e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 83, item II, da Constituição e tendo em vista o disposto no artigo 41 do Decreto-lei nº 240, de 28 de fevereiro de 1967,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 83, item II, da Constituição e tendo em vista o disposto no artigo 41 do Decreto-lei nº 240, de 28 de fevereiro de 1967,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento que com êste baixa, assinado pelo Ministro de Estado da Industria e do Comércio.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento que com êste baixa, assinado pelo Ministro de Estado da Industria e do Comércio.
-
-<strong>Art</strong>. 2º Êste Decreto entrar em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrar em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 22 de fevereiro de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Edmundo de Macedo Soares
 
-<strong>REGULAMENTO DO DECRETO-LEI Nº 240, DE 28 DE FEVEREIRO DE 1967</strong>
+**REGULAMENTO DO DECRETO-LEI Nº 240, DE 28 DE FEVEREIRO DE 1967**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Política Nacional de Metrologia</em>
+*Da Política Nacional de Metrologia*
 
-<strong>Art</strong>. 1º Serão usadas, obrigatória e exclusivamente, no Brasil, nos têrmos do Decreto-lei nº 240, de 28 de fevereiro de 1967 e dêste Regulamento, as unidades de medir baseadas no Sistema Internacional de Unidades (SI), aprovadas nas Conferências Gerais de Pesos e Medidas.
+**Art**. 1º Serão usadas, obrigatória e exclusivamente, no Brasil, nos têrmos do Decreto-lei nº 240, de 28 de fevereiro de 1967 e dêste Regulamento, as unidades de medir baseadas no Sistema Internacional de Unidades (SI), aprovadas nas Conferências Gerais de Pesos e Medidas.
 
-<strong>Art</strong>. 2º Nos têrmos do artigo 1º serão usadas, para medir as grandezas indicadas, as seguintes unidades fundamentais:
+**Art**. 2º Nos têrmos do artigo 1º serão usadas, para medir as grandezas indicadas, as seguintes unidades fundamentais:
 
 I – para comprimento: o metro (símbolo m);
 
@@ -50,29 +48,29 @@ b) os múltiplos e submúltiplos das referidas unidades, formadas com os prefixo
 
 § 3º Êste Quadro substitui o vigente (Decreto nº 52.423, de 30 de agôsto de 1963) e será modificado, pelo mesmo processo, conforme novas Resoluções que sejam adotadas pelas Conferências Gerais de Pesos e Medidas.
 
-<strong>Art</strong>. 3º Ao Instituto Nacional de Pesos e Medidas diretamente ou por intermédio de seus Representantes nos Estados, previstos no parágrafo único dêste artigo, ou dos órgãos aos quais delegue o exercício de suas atribuições nos têrmos do capítulo II dêste Regulamento, caberá a execução, a fiscalização e o contrôle de tôdas as atividades metrológicas no País.
+**Art**. 3º Ao Instituto Nacional de Pesos e Medidas diretamente ou por intermédio de seus Representantes nos Estados, previstos no parágrafo único dêste artigo, ou dos órgãos aos quais delegue o exercício de suas atribuições nos têrmos do capítulo II dêste Regulamento, caberá a execução, a fiscalização e o contrôle de tôdas as atividades metrológicas no País.
 
 Parágrafo único. O Diretor-Geral do Instituto Nacional de Pesos e Medidas poderá designar Representantes do INPM para a execução de funções metrológicas,de âmbito estadual ou regional, com as atribuições definidas, explìcitamente, nos atos próprios.
 
-<strong>Art</strong>. 4º Os serviços metrológicos efetuados pelos órgãos indicados no artigo 3º serão remunerados de acôrdo com a tabela preparada pelo INPM e aprovada pelo Ministro da Indústria e do Comércio.
+**Art**. 4º Os serviços metrológicos efetuados pelos órgãos indicados no artigo 3º serão remunerados de acôrdo com a tabela preparada pelo INPM e aprovada pelo Ministro da Indústria e do Comércio.
 
 Parágrafo único. A tabela a que êste artigo se refere será revista, periòdicamente, na forma nêle disposta e será calculada de maneira que as importâncias cobradas sejam suficientes para o custeio dos serviços.
 
-<strong>Art</strong>. 5º As importâncias relativas aos pagamentos previstos no artigo anterior, bem como as referentes às multas, serão destinadas, obrigatória e exclusivamente, ao custeio dos serviços correspondentes dos órgãos metrológicos interessados.
+**Art**. 5º As importâncias relativas aos pagamentos previstos no artigo anterior, bem como as referentes às multas, serão destinadas, obrigatória e exclusivamente, ao custeio dos serviços correspondentes dos órgãos metrológicos interessados.
 
 § 1º As importâncias arrecadadas serão depositadas em Banco Oficial, onde houver, em conta própria, movimentada com a assinatura conjunta do Diretor do órgão correspondente e do Chefe do Serviço de Contabilidade.
 
-§ 2º As despesas feitas obedecerão ao plano anual aprovado nos têrmos do artigo 16, alínea <em>b</em>, e sujeitas a verificação prevista neste Regulamento.
+§ 2º As despesas feitas obedecerão ao plano anual aprovado nos têrmos do artigo 16, alínea *b*, e sujeitas a verificação prevista neste Regulamento.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Do Sistema Nacional de Metrologia</em>
+*Do Sistema Nacional de Metrologia*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Dos Órgãos do Sistema</em>
+*Dos Órgãos do Sistema*
 
-<strong>Art</strong>. 6º São órgãos integrantes do Sistema Nacional de Metrologia:
+**Art**. 6º São órgãos integrantes do Sistema Nacional de Metrologia:
 
 I – O Instituto Nacional de Pesos e Medidas, funcionará como órgão supremo, como as funções permanentes de supervisão, orientação, coordenação e fiscalização de todo o Sistema, além das funções supletivas de execução, sempre que a seu juízo devam elas ser exercídas, diretamente, pelo órgão central;
 
@@ -86,7 +84,7 @@ IV – Os órgãos metrológicos dos governos municipais aos quais o INPM ou, co
 
 § 2º O Diretor-Geral do INPM poderá, sempre que julgar conveniente, designar funcionários do INPM que exercerão, em qualquer órgão delegado e em caráter provisório, as funções de coordenação e fiscalização das atividades exercidas pelo órgão.
 
-<strong>Art</strong>. 7º Fica instituída um Comissão integrada pelo Diretor-Geral do INPM, que a presidirá; um representante eleito pelo Diretores dos Órgãos Estaduais; um representante da Associação Brasileira de Normas Técnicas (ABNT); um representante da Confederação Nacional da Indústria; um representante da Confederação Nacional do Comércio; um representante do Ministério da Educação e Cultura; um representante do Ministério da Fazenda e um Técnico do INPM.
+**Art**. 7º Fica instituída um Comissão integrada pelo Diretor-Geral do INPM, que a presidirá; um representante eleito pelo Diretores dos Órgãos Estaduais; um representante da Associação Brasileira de Normas Técnicas (ABNT); um representante da Confederação Nacional da Indústria; um representante da Confederação Nacional do Comércio; um representante do Ministério da Educação e Cultura; um representante do Ministério da Fazenda e um Técnico do INPM.
 
 § 1º São atribuições da Comissão de que trata êste artigo:
 
@@ -104,25 +102,25 @@ b) dar parecer sôbre assuntos metrológicos que lhe sejam encaminhados pelo Dir
 
 § 6º A Comissão terá o seu funcionamento regido por instruções, baixadas pelo Ministro da Industria e do Comércio.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Do Instituto Nacional de Pesos e Medidas</em>
+*Do Instituto Nacional de Pesos e Medidas*
 
-<strong>Art</strong>. 8º O Instituto Nacional de Pesos e Medidas (INPM) terá as finalidades que lhe são atribuídas no artigo 4º do Decreto-lei nº 240, de 28 de fevereiro de de 1967.
+**Art**. 8º O Instituto Nacional de Pesos e Medidas (INPM) terá as finalidades que lhe são atribuídas no artigo 4º do Decreto-lei nº 240, de 28 de fevereiro de de 1967.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do Sistema de Unidades e dos Padrões</em>
+*Do Sistema de Unidades e dos Padrões*
 
-<strong>Art</strong>. 9º Os órgãos delegados usarão, para as medidas e aferições de sua competência, os padrões a que se refere o artigo 10 do Decreto-lei nº 240, de 28 de fevereiro de 1967.
+**Art**. 9º Os órgãos delegados usarão, para as medidas e aferições de sua competência, os padrões a que se refere o artigo 10 do Decreto-lei nº 240, de 28 de fevereiro de 1967.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Dos Instrumentos de Medir e dos Processos de Medidas</em>
+*Dos Instrumentos de Medir e dos Processos de Medidas*
 
-<strong>Art</strong>. 10. O INPM emitirá certificado que indique a finalidade e os limites de utilização dos instrumentos ou medidas aferidos, sendo nesses apôsto um sinal que identifique o órgão executor e o ano da execução.
+**Art**. 10. O INPM emitirá certificado que indique a finalidade e os limites de utilização dos instrumentos ou medidas aferidos, sendo nesses apôsto um sinal que identifique o órgão executor e o ano da execução.
 
-<strong>Art</strong>. 11. Para fins do Registro de que trata o artigo 12 do Decreto-lei nº 240, de 28.2.67, deverão ser indicados:
+**Art**. 11. Para fins do Registro de que trata o artigo 12 do Decreto-lei nº 240, de 28.2.67, deverão ser indicados:
 
 a) os intrumentos fabricados, com menção dos modelos correspondentes;
 
@@ -132,17 +130,17 @@ c) o capital da emprêsa;
 
 d) os característicos dos padrões utilizados na verificação dos instrumentos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Do Aspecto Metrológico das Transações</em>
+*Do Aspecto Metrológico das Transações*
 
-<strong>Art</strong>. 12. Tôda e qualquer transmissão de propriedade efetuada no País deverá ser baseada em unidades legais definidas no Decreto-lei número 240, de 28 de fevereiro de 1967, e neste Regulamento.
+**Art**. 12. Tôda e qualquer transmissão de propriedade efetuada no País deverá ser baseada em unidades legais definidas no Decreto-lei número 240, de 28 de fevereiro de 1967, e neste Regulamento.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Dos Recursos Metrológicos e de sua Aplicação</em>
+*Dos Recursos Metrológicos e de sua Aplicação*
 
-<strong>Art</strong>. 13. Enquanto não for especificamente regulamentado o “Fundo de Metrologia” de que trata o Capítulo VI do Decreto-lei nº 240, de 28.2.67, são considerados recursos metrológicos, destinados especialmente a atender às despesas não orçamentárias dos órgãos de pesos e medidas:
+**Art**. 13. Enquanto não for especificamente regulamentado o “Fundo de Metrologia” de que trata o Capítulo VI do Decreto-lei nº 240, de 28.2.67, são considerados recursos metrológicos, destinados especialmente a atender às despesas não orçamentárias dos órgãos de pesos e medidas:
 
 I – o produto da remuneração de serviços a que se refere o artigo 5º dêste Regulamento, na forma e nas proporções definidas nas delegações outorgadas;
 
@@ -156,13 +154,13 @@ V – o rendimento dos depósitos bancários correspondentes aos recursos previs
 
 VI – o produto da venda de publicações feitas pelo INPM ou seus órgãos delegados.
 
-<strong>Art</strong>. 14. Os recursos metrológicos a que êste Capítulo se refere só poderão ser utilizados na aparelhagem, manutenção e custeio dos órgãos de pesos e medidas, de acôrdo com o plano anual a que se refere o § 2º do artigo 5º dêste Decreto, não podendo destinar-se a:
+**Art**. 14. Os recursos metrológicos a que êste Capítulo se refere só poderão ser utilizados na aparelhagem, manutenção e custeio dos órgãos de pesos e medidas, de acôrdo com o plano anual a que se refere o § 2º do artigo 5º dêste Decreto, não podendo destinar-se a:
 
 I – despesas com pessoal, não consignada no orçamento aprovado;
 
 II – despesas para as quais haja dotação específica no orçamento.
 
-<strong>Art</strong>. 15. Fica instituída uma Comissão de Contrôle Financeiro, para contrôle dos recursos metrológicos, a qual será integrada:
+**Art**. 15. Fica instituída uma Comissão de Contrôle Financeiro, para contrôle dos recursos metrológicos, a qual será integrada:
 
 I – no Órgão Federal:
 
@@ -182,7 +180,7 @@ c) de um Representante do Órgão estadual, ao qual seja subordinado.
 
 III – nos órgãos delegados municipais, de uma representação constituída em cada caso, de acôrdo com o princípio geral acima indicado.
 
-<strong>Art</strong>. 16. São atribuições da Comissão:
+**Art**. 16. São atribuições da Comissão:
 
 a) examinar, aprovando ou não, as contas do órgão do bimestre anteior;
 
@@ -190,11 +188,11 @@ b) aprovar, na última reunião do ano, o plano de despesas proposto pelo Direto
 
 c) propor ao Ministro da Indústria e do Comércio por intermédio do Diretor-Geral do INPM, no âmbito federal ou ao Diretor-Geral do INPM, no caso de órgãos estaduais e municipais quaisquer medidas de ordem geral ou particular que lhe pareçam necessárias ao perfeito contrôle das despesas do Órgão.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Do Ensino e da Formação do Pessoal</em>
+*Do Ensino e da Formação do Pessoal*
 
-<strong>Art</strong>. 17. O preenchimento dos cargos técnicos ou de direção dos órgãos metrológicos obedecerá, a partir desta data, às seguintes regras:
+**Art**. 17. O preenchimento dos cargos técnicos ou de direção dos órgãos metrológicos obedecerá, a partir desta data, às seguintes regras:
 
 I – para Diretor-Geral do INPM e para Diretor de órgão metrológico estadual, deverão ser nomeadas pessoas que possuam diploma de Engenheiro, de Físico ou de Matemático;
 
@@ -208,11 +206,11 @@ b) ou diploma de curso de Metrologia, seguido de, pelo menos, 3 (três) anos de 
 
 § 2º Cinco anos depois de criados os cursos de pós-graduação de metrologia, serão êles exigidos de todos aqueles que devam desempenhar funções de direção no INPM ou órgãos metrológicos estaduais.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Das Penalidades</em>
+*Das Penalidades*
 
-<strong>Art</strong>. 18. No caso de infração de qualquer dispositivo do Decreto-lei nº 240, de 28 de fevereiro de 1967, dêste Regulamento ou de seus atos complementares, serão aplicadas penalidades previstas no artigo 30 daquêle instrumento legal.
+**Art**. 18. No caso de infração de qualquer dispositivo do Decreto-lei nº 240, de 28 de fevereiro de 1967, dêste Regulamento ou de seus atos complementares, serão aplicadas penalidades previstas no artigo 30 daquêle instrumento legal.
 
 Parágrafo único. A aplicação e a gradação das penalidades levarão em conta:
 
@@ -222,24 +220,24 @@ b) o fato de o infrator ser primário ou reincidente;
 
 c) a utilização de medidas ou instrumentos de medir em local adequado e fixo, ou em lugares precários, onde se torne difícil a garantia da estabilidade do referido instrumental.
 
-<strong>Art</strong>. 19. O processamento das infrações e recursos reger-se-á pela legislação pertinente.
+**Art**. 19. O processamento das infrações e recursos reger-se-á pela legislação pertinente.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>Das Disposições Gerais e Transitórias</em>
+*Das Disposições Gerais e Transitórias*
 
-<strong>Art</strong>. 20. Os dispositivos do Decreto nº 52.916, de 22 de novembro de 1963, que não colidirem com êste Regulamento, passam a constitui-se em parte dêle integrante.
+**Art**. 20. Os dispositivos do Decreto nº 52.916, de 22 de novembro de 1963, que não colidirem com êste Regulamento, passam a constitui-se em parte dêle integrante.
 
-<strong>Art</strong>. 21. O INPM procurará estabelecer, em colaboração com a Associação Brasileira de Normas Técnicas (ABNT), e mediante entendimento prévio com as entidades representativas das respectivas categorias econômicas, os tipos, dimensões, formas e padrões de invólucros, para os vários gêneros de mercadorias acondicionadas, bem como quaisquer normas que estejam no âmbito de ação daquela Associação e interessem à metrologia.
+**Art**. 21. O INPM procurará estabelecer, em colaboração com a Associação Brasileira de Normas Técnicas (ABNT), e mediante entendimento prévio com as entidades representativas das respectivas categorias econômicas, os tipos, dimensões, formas e padrões de invólucros, para os vários gêneros de mercadorias acondicionadas, bem como quaisquer normas que estejam no âmbito de ação daquela Associação e interessem à metrologia.
 
-<strong>Art</strong>. 22. Todos os modêlos fabricados a partir de 6 (seis) meses da publicação dêste Regulamento, deverão obedecer ao disposto no Capítulo IV do Decreto-lei nº 240, de 28 de fevereiro de 1967.
+**Art**. 22. Todos os modêlos fabricados a partir de 6 (seis) meses da publicação dêste Regulamento, deverão obedecer ao disposto no Capítulo IV do Decreto-lei nº 240, de 28 de fevereiro de 1967.
 
-<strong>Art</strong>. 23. Em prazo a ser fixado pelo INPM, para cada categoria de instrumento de medir, deverão os respectivos fabricantes submeter os seus modêlos à aprovação do Diretor-Geral do Instituto.
+**Art**. 23. Em prazo a ser fixado pelo INPM, para cada categoria de instrumento de medir, deverão os respectivos fabricantes submeter os seus modêlos à aprovação do Diretor-Geral do Instituto.
 
-<strong>Art</strong>. 24. A arqueação de tanques ou depósitos usados para armazenamento de produtos líquidos, bem como o preparo das correspondentes tabelas volumétricas, continuarão a ser executados, exclusivamente pelo INPM ou, mediante delegação específica, por órgãos metrológicos estaduais.
+**Art**. 24. A arqueação de tanques ou depósitos usados para armazenamento de produtos líquidos, bem como o preparo das correspondentes tabelas volumétricas, continuarão a ser executados, exclusivamente pelo INPM ou, mediante delegação específica, por órgãos metrológicos estaduais.
 
-<strong>Art</strong>. 25. Terão vigência até data fixada em cada caso pelo Diretor-Geral do INPM os atos por êle expedidos e relativos a disposições do Decreto nº 52.916, de 22 de novembro de 1963.
+**Art**. 25. Terão vigência até data fixada em cada caso pelo Diretor-Geral do INPM os atos por êle expedidos e relativos a disposições do Decreto nº 52.916, de 22 de novembro de 1963.
 
 Brasília, 22 de fevereiro de 1968.
 
-<strong>EDMUNDO DE MACEDO SOARES</strong>
+**EDMUNDO DE MACEDO SOARES**

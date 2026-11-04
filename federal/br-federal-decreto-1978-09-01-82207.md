@@ -1,5 +1,3 @@
-###DEC-082207-0-000-01-09-1978@@@
-
 Decreto nº 82.207, de 01 de setembro de 1978.
 
 Autoriza o Ministro da Fazenda a conceder garantia a operação externa.

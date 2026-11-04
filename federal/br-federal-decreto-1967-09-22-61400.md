@@ -1,5 +1,3 @@
-###DEC-061400-0-000-22-09-1967@@@
-
 DECRETO Nº 61.400, DE 22 DE SETEMBRO DE 1967.
 
 Provê sôbre nova denominação para o Conservatório Nacional de Canto Orfeônico, e dá outras providências.

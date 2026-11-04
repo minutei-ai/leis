@@ -1,12 +1,10 @@
-###DEC-028560-0-000-28-08-1950@@@
+**DECRETO Nº 28.560, DE 28 DE AGÔSTO DE 1950.**
 
-<strong>DECRETO Nº 28.560, DE 28 DE AGÔSTO DE 1950.</strong>
+***Abre, pelo Ministério da Educação e Saúde, o crédito especial de Cr$180.397,70, para atender ás despesas com o pagamento de gratificações de magistério.***
 
-<em><strong>Abre, pelo Ministério da Educação e Saúde, o crédito especial de Cr$180.397,70, para atender ás despesas com o pagamento de gratificações de magistério.</strong></em>
+**O PRESIDENTE DE REPÚBLICA**, usando da autorização contida na Lei nº 1.084, de 16 de abril de 1950, e tendo ouvido o Tribunal de Contas, nos têrmos do art. 93 do Regulamento Geral da Contabilidade Pública,
 
-<strong>O PRESIDENTE DE REPÚBLICA</strong>, usando da autorização contida na Lei nº 1.084, de 16 de abril de 1950, e tendo ouvido o Tribunal de Contas, nos têrmos do art. 93 do Regulamento Geral da Contabilidade Pública,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica aberto, pelo Ministério da Educação e Saúde, o crédito especial de Cr$180.397,70 - (cento e oitenta mil, trezentos e noventa e sete cruzeiros e setenta centavos), pata atender o pagamento de gratificação do magistério a que têm direito, conforme dispõem o Decreto-lei nº 2.895, de 21 de dezembro de 1940, modificado pelo de número 8.315, de 7 de dezembro de 1945, os professôres abaixo:
 
@@ -22,13 +20,13 @@ Artigo único. Fica aberto, pelo Ministério da Educação e Saúde, o crédito 
 
 6\. Maria Luísa de Queiroz Amâncio dos Santos, catedrático, interino, padrão O, da Escola Nacional de Música, da U. B. (períodos de 1º de janeiro a 28 de fevereiro de 1941, de 1º de agôsto de 1944 a 25 de dezembro de 1946 e de 5 de julho a 31 de dezembro de 1948)..................................................................................................................................41.780,70
 
-7\. Marieta Teixeira de Sá, padrão K, da Escola Técnica de Campos – (período de 19 de setembro de 1946 a 31 de dezembro de 1948)  .............................................................. <u>17.690,00</u>
+7\. Marieta Teixeira de Sá, padrão K, da Escola Técnica de Campos – (período de 19 de setembro de 1946 a 31 de dezembro de 1948)  .............................................................. 17.690,00
 
-Total ..................................................................................................................... <u>180.397,70</u>
+Total ..................................................................................................................... 180.397,70
 
 Rio de Janeiro, em 28 de agôsto de 1950; 129.º da Independência e 62.º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Pedro Calmon
 

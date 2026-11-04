@@ -1,30 +1,28 @@
-###DEC-025641-0-000-06-10-1948@@@
+**DECRETO Nº 25.641, DE 6 DE OUTUBRO DE 1948.**
 
-<strong>DECRETO Nº 25.641, DE 6 DE OUTUBRO DE 1948.</strong>
+***Autoriza o cidadão brasileiro Salvador Priolli Júnior a pesquisar jazidas de pétroleo e gáses naturais – classe***  ***X – no município de Cotinguiba, Estado de Sergipe.***
 
-<em><strong>Autoriza o cidadão brasileiro Salvador Priolli Júnior a pesquisar jazidas de pétroleo e gáses naturais – classe</strong></em>  <em><strong>X – no município de Cotinguiba, Estado de Sergipe.</strong></em>
+**OPRESIDENTE DA REPÚBLICA,** usando da atribuição que lhe confere o artigo 87, n.° I, da Constituição e nos têrmos dos Decretos-leis n.° 1.985, de 29 de janeiro de 1940 ( Código de Minas), 3.236 de 7 de maio de 1941 e 5.247, de 12 de fevereiro de 1943,
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA,</strong> usando da atribuição que lhe confere o artigo 87, n.° I, da Constituição e nos têrmos dos Decretos-leis n.° 1.985, de 29 de janeiro de 1940 ( Código de Minas), 3.236 de 7 de maio de 1941 e 5.247, de 12 de fevereiro de 1943,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1.° Fica autorizada, a título precário, sem prejuízo das disposições legais que vierem a ser promulgadas, o cidadão brasileiro Salvador Priolli Júnior a pesquisar jazidas de petróleo e gáses naturais – classe  X – em uma área de 10.000 (dez mil hectares), situada no município  de Cotinguiba, Estado de Sergipe, delimitada por um polígono irregular que tem um vértice a 1.600m (mil e seiscentos metros), no rumo verdadeiro 51° 60\`SW, cinqüenta e um graus e trinta minutos sudoeste), do centro da plataforma da estação de Cotinguiba da Viação Férrea Federal Leste Brasileira e cujos lados, a partir dêste vértice, tem os seguintes comprimentos  e rumos verdadeiros: 2.000 m ( dois mil metros), S (sul); 2.500 m (dois mil e quinhentos metros), N (norte); 2.500 m (dois mil e quinhentos metros), E (este): 6.000 m (seis mil metros), S (sul); 15.000 m (quinze mil metros), W (oeste); 8.000 m (oito mil metros), N (norte); 7.500 m (sete mil e quinhentos metros) E (este); 2.000 ( dois mil metros), S (sul) e 2.500 m (dois mil e quinhentos metros), E (este).
 
-<strong>Art</strong>. 1.° Fica autorizada, a título precário, sem prejuízo das disposições legais que vierem a ser promulgadas, o cidadão brasileiro Salvador Priolli Júnior a pesquisar jazidas de petróleo e gáses naturais – classe  X – em uma área de 10.000 (dez mil hectares), situada no município  de Cotinguiba, Estado de Sergipe, delimitada por um polígono irregular que tem um vértice a 1.600m (mil e seiscentos metros), no rumo verdadeiro 51° 60\`SW, cinqüenta e um graus e trinta minutos sudoeste), do centro da plataforma da estação de Cotinguiba da Viação Férrea Federal Leste Brasileira e cujos lados, a partir dêste vértice, tem os seguintes comprimentos  e rumos verdadeiros: 2.000 m ( dois mil metros), S (sul); 2.500 m (dois mil e quinhentos metros), N (norte); 2.500 m (dois mil e quinhentos metros), E (este): 6.000 m (seis mil metros), S (sul); 15.000 m (quinze mil metros), W (oeste); 8.000 m (oito mil metros), N (norte); 7.500 m (sete mil e quinhentos metros) E (este); 2.000 ( dois mil metros), S (sul) e 2.500 m (dois mil e quinhentos metros), E (este).
+**Art**. 2.° Esta autorização de pesquisa, que tem por título êste decreto, é válida por 2 (dois) anos, a contar da data da publicação do mesmo, e conferida nas condições estabelecidas no art. 8.° de Decreto-lei n.° 3.236, de 7 de maio de 1941.
 
-<strong>Art</strong>. 2.° Esta autorização de pesquisa, que tem por título êste decreto, é válida por 2 (dois) anos, a contar da data da publicação do mesmo, e conferida nas condições estabelecidas no art. 8.° de Decreto-lei n.° 3.236, de 7 de maio de 1941.
+**Art**. 3.° A presente autorização, observado o disposto no art. 16 do Decreto-lei n.° 3.236 de 7 de maio de 1941, caducará se o concessionário infringir o disposto no art. 13 do referido Decreto-lei e será anulada, nos têrmos  do art. 15, se o concessionário infringir o n.° I, do art. 8.°, ou não se submeter às exigências de fiscalização previstas no Capítulo VI do Decreto-lei n.° 1.985, de 29 de janeiro de 1940 ( Código de Minas).
 
-<strong>Art</strong>. 3.° A presente autorização, observado o disposto no art. 16 do Decreto-lei n.° 3.236 de 7 de maio de 1941, caducará se o concessionário infringir o disposto no art. 13 do referido Decreto-lei e será anulada, nos têrmos  do art. 15, se o concessionário infringir o n.° I, do art. 8.°, ou não se submeter às exigências de fiscalização previstas no Capítulo VI do Decreto-lei n.° 1.985, de 29 de janeiro de 1940 ( Código de Minas).
+**Art**. 4.° O título a que alude o artigo 2.° dêste decreto pagará a taxa de Cr$ 5.000,0 ( cinco mil cruzeiros), de acôrdo com o art. 17 do Decreto-lei n.° 1.985, de 29 de janeiro de 1940 ( Código de Minas), modificado pelo art. 1.° do Decreto-eli n.° 5.247, de 12 de fevereiro de 1943.
 
-<strong>Art</strong>. 4.° O título a que alude o artigo 2.° dêste decreto pagará a taxa de Cr$ 5.000,0 ( cinco mil cruzeiros), de acôrdo com o art. 17 do Decreto-lei n.° 1.985, de 29 de janeiro de 1940 ( Código de Minas), modificado pelo art. 1.° do Decreto-eli n.° 5.247, de 12 de fevereiro de 1943.
-
-<strong>Art</strong>. 5.° Revogam-se as disposições em contrário.
+**Art**. 5.° Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 6 de outubro  de 1948, 127.° da Independência e 60.° da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Adrovaldo Mesquita da Costa.
 
-<strong>CLAÚSULAS QUE ACOMPANHAM O DECRETO N.° 25.642, DESTA DATA</strong>
+**CLAÚSULAS QUE ACOMPANHAM O DECRETO N.° 25.642, DESTA DATA**
 
 I
 
@@ -54,4 +52,4 @@ A infração de qualquer das cláusulas para a qual não esteja cominada pena es
 
 Rio de Janeiro, 7 de outubro de 1948.
 
-<strong>J.O. LIMA PEREIRA</strong>
+**J.O. LIMA PEREIRA**

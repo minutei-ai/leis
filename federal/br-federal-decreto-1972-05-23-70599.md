@@ -1,5 +1,3 @@
-###DEC-070599-0-000-23-05-1972@@@
-
 DECRETO Nº 70.599, DE 23 DE MAIO DE 1972.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Lagoa Seca, no Estado da Paraíba.

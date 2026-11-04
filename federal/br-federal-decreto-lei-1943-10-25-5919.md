@@ -1,5 +1,3 @@
-###DEL-005919-0-000-25-10-1943@@@
-
 DECRETO‑LEI N. 5.919 – 25 DE OUTUBRO DE 1943
 
 Altera a discriminação do crédito especial de que os decretos‑leis números 4.313‑A, de 21 de maio, 4.516‑A, de 23 de julho, 4.610‑A, de 22 de agôsto, todos de 1942, e 5.742‑A, de 13 de agôsto de 1943

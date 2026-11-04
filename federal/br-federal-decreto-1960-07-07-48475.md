@@ -1,5 +1,3 @@
-###DEC-048475-0-000-07-07-1960@@@
-
 DECRETO Nº 48.475, DE 7 de julho DE 1960.
 
 Restabelece funções de extranumerário-mensalistas na Tabela Numérica Especial de Extranumerário-mensalista do Arsenal de Marinha do Rio de Janeiro do Ministério da Marinha, suprimida pelo Decreto nº 41.064, de 27 de fevereiro de 1957, publicado no Diário Oficial de 28 subseqüente.

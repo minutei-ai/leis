@@ -1,5 +1,3 @@
-###DEC-004051-0-000-12-12-2001@@@
-
 DECRETO Nº 4.051, DE 12 DE DEZEMBRO DE 2001
 
 Altera os Anexos I, II, III, IV, V, VI, VII e X do Decreto no 3.746, de 6 de fevereiro de 2001, e dá outras providências.

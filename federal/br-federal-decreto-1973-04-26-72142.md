@@ -1,5 +1,3 @@
-###DEC-072142-0-000-26-04-1973@@@
-
 decretO nº 72.142, de 26 de abril de 1973.
 
 Declara de utilidade pública, para fins de desapropriação, um lote de terreno urbano, sem benfeitorias, situado no 2º Subdistrito do 1º Distrito da Cidade de Campos, Estado do Rio de Janeiro, destinado à ampliação da atual estação telefônica, pela Companhia Telefônica Brasileira - CTB.

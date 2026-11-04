@@ -1,5 +1,3 @@
-###DEC-070071-0-000-28-01-1972@@@
-
 DECRETO Nº 70.071, DE 28 DE JANEIRO DE 1972.
 
 Retifica o artigo 1º do Decreto número 37.554 de 30 junho de 1955.

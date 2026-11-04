@@ -1,7 +1,3 @@
-1
-
-###MPV-001073-0-000-28-07-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.073, DE 28 DE JULHO DE 1995.
 
 Reduz a alíquota do imposto de importação para os produtos que especifica e dá outras providências.

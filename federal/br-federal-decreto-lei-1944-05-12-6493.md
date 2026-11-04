@@ -1,5 +1,3 @@
-###DEL-006493-0-000-12-05-1944@@@
-
 DECRETO-LEI N. 6.493 – DE 12 DE MAIO DE 1944
 
  Transfere a sede do 30º Batalhão de Caçadores

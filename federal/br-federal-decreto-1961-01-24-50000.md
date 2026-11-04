@@ -1,5 +1,3 @@
-###DEC-050000-0-000-24-01-1961@@@
-
 DECRETO Nº 50.000, DE 24 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro Antônio da Silva Barradas a pesquisar areias ilmeníticas, no município de Tutóia, Estado do Maranhão.

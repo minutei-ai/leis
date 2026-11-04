@@ -1,5 +1,3 @@
-###DEC-078790-0-000-22-11-1976@@@
-
 DECRETO Nº 78.790, DE 22 DE NOVEMBRO DE 1976.
 
 Concede à Firma Individual Pacifico Guimarães Cotta o direito de lavrar calcário no Município de Prudente de Moraes, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-060424-0-000-11-03-1967@@@
-
 DECRETO Nº 60.424, DE 11 DE MARÇO DE 1967.
 
 Aprova o Regimento da Consultoria Jurídica do Ministério da Saúde.
@@ -14,7 +12,47 @@ Art. 2º Ficam criadas, na Parte Permanente do Quadro de Pessoal do Ministério 
 
 Função - Símbolo
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4</span></p></td><td style="width:375.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Assessores do Consultor Jurídico ................................................................................</span></p></td><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1-F</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:375.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe da Secretaria Executiva .....................................................................................</span></p></td><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4-F</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:375.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Encarregado da Turma de Expediente ........................................................................</span></p></td><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10-F</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:375.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Encarregado da Turma de Mecanografia .....................................................................</span></p></td><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10-F</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:375.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Encarregado da Turma de Contrôle e Registro de Feitos ............................................</span></p></td><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10-F</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:375.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe do Setor de Documentação ...............................................................................</span></p></td><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5-F</span></p></td></tr><tr><td style="width:17.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td><td style="width:375.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Secretário do Consultor Jurídico ..................................................................................</span></p></td><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7-F</span></p></td></tr></tbody></table>
+4
+
+Assessores do Consultor Jurídico ................................................................................
+
+1-F
+
+1
+
+Chefe da Secretaria Executiva .....................................................................................
+
+4-F
+
+1
+
+Encarregado da Turma de Expediente ........................................................................
+
+10-F
+
+1
+
+Encarregado da Turma de Mecanografia .....................................................................
+
+10-F
+
+1
+
+Encarregado da Turma de Contrôle e Registro de Feitos ............................................
+
+10-F
+
+1
+
+Chefe do Setor de Documentação ...............................................................................
+
+5-F
+
+1
+
+Secretário do Consultor Jurídico ..................................................................................
+
+7-F
 
 Art. 3º Êste decreto entrará em vigor na data de sua publicação, revogados o art. 9º do Decreto número 34.596, de 16 de novembro de 1953, com a redação dada pelo artigo 1º do Decreto nº 50.289, de 22 de fevereiro de 1961, e as demais disposições em contrário.
 

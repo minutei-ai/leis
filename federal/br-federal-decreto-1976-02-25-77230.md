@@ -1,5 +1,3 @@
-###DEC-077230-0-000-25-02-1976@@@
-
 DECRETO Nº 77.230, DE 25 DE FEVEREIRO DE 1976
 
 Revoga o Decreto nº 1.286, de 26 de junho de 1962 que outorgou concessão à Rádio Educadora Rio Doce Ltda., para estabelecer uma estação de radiodifusão sonora em onda média na Cidade de Governador Valadares, Estado de Minas Gerais.

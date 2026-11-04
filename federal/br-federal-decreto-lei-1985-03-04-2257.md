@@ -1,5 +1,3 @@
-###DEL-002257-0-000-04-03-1985@@@
-
 # Decreto-leI nº 2.257, de 04 de março de 1985
 
 Institui a Gratificação pelo Desempenho de Atividades Rodoviárias no Departamento de Estradas de Rodagem do Distrito Federal.

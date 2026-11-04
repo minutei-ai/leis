@@ -1,5 +1,3 @@
-###DEL-005818-0-000-15-09-1943@@@
-
 DECRETO‑LEI N. 5.818 – DE 15 DE SETEMBRO DE 1943
 
 Transfere ao Estado do Rio Grande do Sul os imóveis, móveis e semoventes, pertencentes às Estações Gerais de Experimentação sediadas em Osório e Caxias, no mesmo Estado e suas respectivas dependências

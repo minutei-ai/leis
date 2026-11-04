@@ -1,5 +1,3 @@
-###DEC-059590-0-000-25-11-1966@@@
-
 DECRETO Nº 59.590, DE 25 DE NOVEMBRO DE 1966.
 
 Ministério da Fazenda. Abertura de crédito especial de Cr$15.000.000, para atender ao pagamento de despesas com a movimentação de pessoal do Departamento do Impôsto de Renda.

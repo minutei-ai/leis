@@ -1,5 +1,3 @@
-###DEC-052819-0-000-12-11-1963@@@
-
 DECRETO Nº 52.819, DE 12 DE NOVEMBRO DE 1963.
 
 Aprova os atos constitutivos e os Estatutos da Companhia Brasileira de Armazenamento (CIBRAZEM) e dá outras providências.

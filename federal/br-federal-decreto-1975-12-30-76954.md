@@ -1,5 +1,3 @@
-###DEC-076954-0-000-30-12-1975@@@
-
 decreto nº 76.954, de 30 de dezembro de 1975.
 
 Dispõe sobre a concessão e o pagamento da pensão especial de acidente em serviço prevista no artigo 242 da Lei nº 1.711, de 28 de outubro de 1952.

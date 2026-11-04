@@ -1,5 +1,3 @@
-###DEC-083016-0-000-11-01-1979@@@
-
 Decreto nº 83.016, de 11 de janeiro de 1979
 
 Declara sem efeito o Decreto nº 37.704, de 05 de agosto de 1955, que autorizou a Orquima, Indústrias Químicas Reunidas S.A. a lavrar ilmenita, zirconita, monazita e associados no Município de Serra, Estado do Espírito Santo.

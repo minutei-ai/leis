@@ -1,5 +1,3 @@
-###DEC-004883-0-000-20-11-2003@@@
-
 DECRETO Nº 4.883, DE 20 DE NOVEMBRO DE 2003
 
 Transfere a competência que menciona, referida na Lei nº 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

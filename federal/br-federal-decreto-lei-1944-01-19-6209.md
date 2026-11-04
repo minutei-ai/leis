@@ -1,5 +1,3 @@
-###DEL-006209-0-000-19-01-1944@@@
-
 DECRETO-LEI N. 6.209 – DE 19 DE JANEIRO DE 1944
 
 Incorpora ao I.P.A.S.E. a C.A.P.I.N. e dá outras providências

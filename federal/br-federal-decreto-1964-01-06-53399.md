@@ -1,5 +1,3 @@
-###DEC-053399-0-000-06-01-1964@@@
-
 DECRETO Nº 53.399, DE 6 DE JANEIRO DE 1964.
 
 Alteração do Regulamento para a Secretaria-Geral da Marinha.

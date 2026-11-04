@@ -1,5 +1,3 @@
-###DEC-079281-0-000-16-02-1977@@@
-
 DECRETO Nº 79.281, DE 16 DE FEVEREIRO DE 1977.
 
 Extingue no Quadro de Oficiais Especialistas do Exército a categoria de Datiloscopista e da outras providências.

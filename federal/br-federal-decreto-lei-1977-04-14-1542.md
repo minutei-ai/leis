@@ -1,5 +1,3 @@
-###DEL-001542-0-000-14-04-1977@@@
-
 # DECRETO-LEI Nº 1.542, DE 14 DE ABRIL DE 1977
 
 Altera a Lei Complementar nº 5, de 29 de abril de 1970, modificada pela Lei Complementar nº 18, de 10 de maio de 1974.

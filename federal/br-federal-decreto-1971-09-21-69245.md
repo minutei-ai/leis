@@ -1,5 +1,3 @@
-###DEC-069245-0-000-21-09-1971@@@
-
 DECRETO Nº 69.245, DE 21 DE SETEMBRO DE 1971.
 
 Dispõe sôbre limite de financiamentos, pelo Sistema Financeiro da Habitação, para a aquisição de casa própria.

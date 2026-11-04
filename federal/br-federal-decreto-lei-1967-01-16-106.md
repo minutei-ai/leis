@@ -1,5 +1,3 @@
-###DEL-000106-0-000-16-01-1967@@@
-
 DECRETO-LEI Nº 106, DE 16 DE JANEIRO DE 1967
 
 Altera dispositivos no Decreto-lei nº 29, de 14 de novembro de 1966.

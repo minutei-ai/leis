@@ -1,5 +1,3 @@
-###DEL-006996-0-000-27-10-1944@@@
-
 DECRETO-LEI N. 6.996 – DE 27 DE OUTUBRO DE 1944
 
 Dispõe sôbre a transferência ao Estado do Rio Grande do Sul do preventório para crianças débeis construído pela União em Ipanema, Município de Pôrto Alegre

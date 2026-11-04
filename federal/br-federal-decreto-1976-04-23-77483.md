@@ -1,5 +1,3 @@
-###DEC-077483-0-000-23-04-1976@@@
-
 DECRETO Nº 77.483 - DE 23 de abril DE 1976
 
 Dispõe sobre a estrutura básica do Instituto Nacional da Propriedade Industrial (INPI) e dá outras

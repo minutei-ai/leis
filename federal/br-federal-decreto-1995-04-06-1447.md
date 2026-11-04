@@ -1,7 +1,3 @@
-1
-
-###DEC-001447-0-000-06-04-1995@@@
-
 DECRETO Nº 1.447, DE 6 DE ABRIL DE 1995
 
 Dá nova redação aos arts. 5º e 8º do Decreto nº 980, de 11 de novembro de 1993, que dispõe sobre a cessão de uso e a administração de imóveis residenciais de propriedade da União.

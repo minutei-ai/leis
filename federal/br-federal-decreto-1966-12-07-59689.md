@@ -1,5 +1,3 @@
-###DEC-059689-0-000-07-12-1966@@@
-
 DECRETO Nº 59.689, DE 7 DE DEZEMBRO DE 1966.
 
 Autoriza estrangeiro a adquirir o domínio útil do terreno que menciona, situada no Estado da Guanabara.

@@ -1,17 +1,19 @@
 **LEI COMPLEMENTAR Nº ­­­­5.225, DE 24 DE NOVEMBRO DE 2006.**
 
-<br>
 Altera a Lei 3.853/1999 de 22-09-99, com mudanças posteriores e dá outras providências.
 
 **CONSOLIDADA COM AS LEIS:**
 
-[Lei Complementar nº. 5.264/2007 .................... 26/032007](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/116350/lei-complementar-5264)<br>
-Lei Complementar nº. 277/2022 ...................... 16/12/2022<br>
+[Lei Complementar nº. 5.264/2007 .................... 26/032007](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/116350/lei-complementar-5264)
+
+Lei Complementar nº. 277/2022 ...................... 16/12/2022
+
 Lei Complementar nº. 279/2023 ...................... 17/02/2023
 
 **O PREFEITO MUNICIPAL, FAÇO SABER QUE A CÂMARA MUNICIPAL DE RIO VERDE, ESTADO DE GOIÁS APROVA E EU SANCIONO A SEGUINTE LEI:**
 
-**CAPÍTULO I<br>
+**CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES**
 
 Art. 1° Esta Lei extingue o cargo de Fiscal de Meio Ambiente I e modifica a nomenclatura do cargo de Fiscal de Meio Ambiente II, previstos na Lei 4.711/2003, o qual passa a ser denominado Fiscal Ambiental; cria os cargos Fiscal Agropecuário, Auditor Fiscal Ambiental e Auditor Fiscal Agropecuário, define suas subclasses, dispõe sobre os pré-requisitos para seus provimentos, descreve as atribuições sumárias e dentre outras alterações modifica os anexos correspondentes, da Lei 3.853/99, no que se refere as categorias fiscais que menciona. 
@@ -22,19 +24,22 @@ Art. 3º O vencimento dos cargos de Auditor Fiscal Ambiental, Fiscal Agropecuár
 
 Art. 4º Com as alterações estabelecidas por esta Lei, ficam modificados os Anexos I, II, IV, V, VI, e VII da Lei 3.853 de 22-09-99, conforme consta dos anexos correspondentes desta Lei.
 
-**CAPÍTULO II<br>
+**CAPÍTULO II
+
 DA ADMISSÃO NO CARGO**
 
 Art. 5° A admissão far-se-á por concurso público, atendido os pré-requisitos constantes do Anexo II desta Lei.
 
-**CAPÍTULO III<br>
+**CAPÍTULO III
+
 DO VENCIMENTO E DA REMUNERAÇÃO**
 
 ~~Art. 6º Sem prejuízo das vantagens pessoais, o servidor fiscal e auditor fiscal de que trata esta lei, pelo efetivo exercício de suas funções perceberá o vencimento de seu cargo combinado com a classe de vencimento, conforme consta do Anexo III, da Lei 3.853 de 22 de setembro de 1999 e do Anexo I desta Lei.~~ 
 
 (Revogado pela Lei Complementar nº. 279, de 17 de fevereiro de 2023)
 
-~~§ 1º O valor atribuído a cada classe de vencimento será devido em razão da carga horária mensal prevista para o cargo, conforme Anexos I e IV, respectivamente.<br>
+~~§ 1º O valor atribuído a cada classe de vencimento será devido em razão da carga horária mensal prevista para o cargo, conforme Anexos I e IV, respectivamente.
+
 § 2º O servidor fiscal e auditor fiscal mencionado nesta Lei terá direito à gratificação de produção prevista na Lei 4.183 de 22-09-01, nos termos de seu artigo 6º, e parágrafos.~~ 
 
 (Revogado pela Lei Complementar nº. 279, de 17 de fevereiro de 2023)
@@ -51,7 +56,8 @@ Art. 9º A carga horária do fiscal e do auditor fiscal será de 160 (cento e se
 
 Parágrafo único – Não se considera extraordinário, para os efeitos legais, o trabalho realizado na forma prevista neste artigo.
 
-**CAPÍTULO IV<br>
+**CAPÍTULO IV
+
 DO AUXÍLIO DE TRANSPORTE**
 
 Art. 10. O servidor fiscal e o auditor fiscal referido nesta lei, no exercício de atividades externas de fiscalização perceberá Auxílio de Transporte correspondente 20% (vinte por cento) da soma do vencimento básico do cargo, com o valor do adicional de produtividade individual, percebidos em cada mês.
@@ -70,14 +76,14 @@ III – que não estiver exercendo atividades externas de fiscalização;
 
 IV – quando o veículo utilizado por ele no serviço for abastecido com combustível fornecido pela Administração.
 
-<br>
-**CAPÍTULO V<br>
+**CAPÍTULO V
+
 DAS HABILITAÇÕES E REQUISITOS**
 
 Art. 11. As habilitações e os requisitos para ocupação dos cargos de Fiscal Ambiental, Auditor Fiscal Ambiental, Fiscal Agropecuário e Auditor Fiscal Agropecuário são os previstos, no Anexo II desta Lei.
 
-<br>
-**CAPÍTULO VI<br>
+**CAPÍTULO VI
+
 DA GRATIFICAÇÃO POR ATIVIDADE INSALUBRE OU PERICULOSA**
 
 Art. 12. O Fiscal Agropecuário e Auditor Fiscal Agropecuário, por exercer atividade que o coloca exposto a agentes biológicos, terá direito:
@@ -88,7 +94,8 @@ Art. 13. O Fiscal Ambiental e o Auditor Fiscal Ambiental, por exercer atividade 
 
 I- adicional de periculosidade de 30 % (trinta por cento) do vencimento base.
 
-**CAPÍTULO VII<br>
+**CAPÍTULO VII
+
 DAS DISPOSIÇÕES GERAIS E FINAIS**
 
 Art. 14. É vedado o desvio de função fiscal, sob pena de:
@@ -165,60 +172,74 @@ DISTRIBUIÇÃO DAS FUNÇÕES POR CATEGORIAS FUNCIONAIS E CLASSES DE VENCIMENTOS
 
 CATEGORIA OPERACIONAL
 
-**Cargo: Fiscal Ambiental                               <br>
-Categoria:** Operacional                                 <br>
+**Cargo: Fiscal Ambiental                               
+
+Categoria:** Operacional                                 
+
 **Classe de Vencimento:** X a XII                        
 
-**Código: OP-018-B<br>
-Série de Classe:** Fiscal Ambiental<br>
+**Código: OP-018-B
+
+Série de Classe:** Fiscal Ambiental
+
 **Função:** Fiscal Ambiental
 
-<br>
 **DESCRIÇÃO SUMÁRIA DA FUNÇÃO:**
 
 O ocupante do cargo de Fiscal Ambiental desenvolve as atividades de fiscalização e orientação dos estabelecimentos de atividades econômicas em geral e das pessoas sujeitas às ações do Poder Público relacionadas com a proteção, conservação e preservação do Meio Ambiente, quanto à legislação ambiental em vigor, dando cumprimento as disposições da Lei n°. 5.090/05 que dispõe sobre o Código Ambiental Municipal e do Plano Diretor Municipal, realiza estudos, análises, avaliações, monitoramento e perícias ambientais, faz investigação de passivos ambientais, analise e avaliação de risco ao meio ambiente e a saúde pública, apresenta propostas técnicas para mitigação, remediação e compensação de danos e impactos ambientais, faz supervisão, controle e execução de ações fiscais complexas, apresenta proposta para modificações na legislação ambiental e sugere novos instrumentos legais, emite relatórios, laudos, termos, pareceres, lavra peças fiscais próprias do ato fiscalizador, faz levantamento estatístico das ações ambientais, dá assessoria técnica a outros entes ambientais das esferas estaduais e federal, realiza serviços internos e externos, inclusive informatizados, participa da elaboração e execução de projetos e programas relacionados com a política e estratégias da Administração do Meio Ambiente do Município. 
 
-<br>
 **PRÉ-REQUISITOS:**
 
-**01** \- Habilitação em cursos de nível superior nas áreas de Engenharia Agronômica, Engenharia Florestal, Engenharia Ambiental, Engenharia Sanitária, Engenharia Química, Ciências Biológicas, Geografia, Gestão Ambiental e Geologia, reconhecidos pelo MEC;<br>
-**02** \- Aprovação em concurso público municipal;<br>
+**01** \- Habilitação em cursos de nível superior nas áreas de Engenharia Agronômica, Engenharia Florestal, Engenharia Ambiental, Engenharia Sanitária, Engenharia Química, Ciências Biológicas, Geografia, Gestão Ambiental e Geologia, reconhecidos pelo MEC;
+
+**02** \- Aprovação em concurso público municipal;
+
 **03** \- Registro profissional no órgão fiscalizador da profissão.
 
-**Cargo: Auditor Fiscal Ambiental                  <br>
-Categoria:** Operacional                                       <br>
+**Cargo: Auditor Fiscal Ambiental                  
+
+Categoria:** Operacional                                       
+
 **Classe de Vencimento:** X a XII                          
 
-**Código: OP-018-C<br>
-Série de Classe:** Auditor Fiscal Ambiental<br>
+**Código: OP-018-C
+
+Série de Classe:** Auditor Fiscal Ambiental
+
 **Função:** Auditor Fiscal Ambiental
 
-<br>
 **DESCRIÇÃO SUMÁRIA DA FUNÇÃO:**
 
 O ocupante do cargo de Auditor Fiscal Ambiental desenvolve as atividades típicas e próprias do cargo de Fiscal Ambiental e ainda realiza auditorias à certificação ambiental, análise processual de instrumentos de gestão ambiental, aprova o licenciamento ambiental de empreendimentos e atividades, emite certidões, autorizações, permissões e licenças relacionados com a política e estratégias da Administração do Meio Ambiente do Município. 
 
 **PRÉ-REQUISITOS:**
 
-**01** - Habilitação em cursos de nível superior em bacharelado nas áreas de Engenharia Agronômica e Engenharia Ambiental, reconhecidos pelo MEC;<br>
-**02** - Ter cursado pós-graduação “Lato–Sensu” Especialização em Gestão e Manejo Ambiental, com ênfase em sistemas naturais ou artificiais;<br>
-**03** \- Aprovação em concurso público municipal;<br>
-**04** \- Registro profissional no órgão fiscalizador da profissão.<br>
+**01** - Habilitação em cursos de nível superior em bacharelado nas áreas de Engenharia Agronômica e Engenharia Ambiental, reconhecidos pelo MEC;
+
+**02** - Ter cursado pós-graduação “Lato–Sensu” Especialização em Gestão e Manejo Ambiental, com ênfase em sistemas naturais ou artificiais;
+
+**03** \- Aprovação em concurso público municipal;
+
+**04** \- Registro profissional no órgão fiscalizador da profissão.
+
 **05** - Registro de Auditor Ambiental no Cadastro Técnico Federal do Ministério do Meio Ambiente (CTF/MMA).
 
 **Obs.**: Demais curso de pós-graduação na área, faz jus ao beneficio do Titulo III, Capitulo I, Seção V, Subseção II, quanto a Gratificação de Incentivo Funcional, nos termos da Lei n°. 3.968/2000.
 
-<br>
-**Cargo: Fiscal Agropecuário<br>
-Categoria:** Operacional                      <br>
+**Cargo: Fiscal Agropecuário
+
+Categoria:** Operacional                      
+
 **Classe de Vencimento:** X a XII                   
 
-<br>
-**Código: OP-018-F<br>
-Série de Classe:** Fiscal Agropecuário<br>
+**Código: OP-018-F
+
+Série de Classe:** Fiscal Agropecuário
+
 **Função:** Fiscal Agropecuário
 
-**DESCRIÇÃO SUMÁRIA DA FUNÇÃO:**<br>
+**DESCRIÇÃO SUMÁRIA DA FUNÇÃO:**
+
 O ocupante do cargo de Fiscal Agropecuário desenvolve as atividades de fiscalização e orientação da produção agropecuária e dos estabelecimentos de beneficiamento artesanais e industriais da área alimentícia em geral e de pessoas sujeitas às ações do serviço de inspeção sanitária municipal de produtos alimentícios de origem animal e vegetal, principalmente quanto às disposições do Serviço de Inspeção Municipal - SIM, emite relatórios, laudos, termos, pareceres, lavra peças fiscais próprias do ato fiscalizador, realiza estudos, análises, avaliações, monitoramento, perícias em sanidade animal e vegetal, faz avaliação de passivos agroindustriais, analise e avaliação de risco no processamento alimentar à saúde pública, faz supervisão, apresenta proposta técnica para modificações na legislação sanitária de inspeção agropecuária embasadas nos estudos realizados, faz levantamentos estatísticos das ações sanitárias animal, vegetal e de alimentos processados, participa da elaboração de programas e projetos relacionados como a política e estratégias da Administração Agropecuária do Município, principalmente no que se refere a sanidade animal e vegetal e ao controle de beneficiamento e processamento de alimentos de origem animal e vegetal.
 
 **PRÉ-REQUISITOS:**
@@ -233,18 +254,20 @@ O ocupante do cargo de Fiscal Agropecuário desenvolve as atividades de fiscaliz
 
 **03** - Registro profissional no órgão fiscalizador da profissão.
 
-<br>
-**Cargo: Auditor Fiscal Agropecuário       <br>
-Categoria:** Operacional                                <br>
+**Cargo: Auditor Fiscal Agropecuário       
+
+Categoria:** Operacional                                
+
 **Classe de Vencimento:** X a XII   
 
-<br>
-**Código: OP-018-G<br>
-Série de Classe:** Auditor Fiscal Agropecuário<br>
+**Código: OP-018-G
+
+Série de Classe:** Auditor Fiscal Agropecuário
+
 **Função:** Auditor Fiscal Agropecuário 
 
-<br>
-**DESCRIÇÃO SUMÁRIA DA FUNÇÃO:**<br>
+**DESCRIÇÃO SUMÁRIA DA FUNÇÃO:**
+
 O ocupante do cargo de Auditor Fiscal Agropecuário desenvolve as atividades típicas e próprias do cargo de Fiscal Agropecuário e ainda realiza auditorias à certificação da qualidade de produtos agropecuários, do processamento de alimentos e produtos processados de origem animal e vegetal, rastreamento animal e produção orgânica, relacionados com a política e estratégias da Administração Agropecuária do Município. 
 
 **PRÉ-REQUISITOS:**

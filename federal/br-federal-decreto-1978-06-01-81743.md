@@ -1,5 +1,3 @@
-###DEC-081743-0-000-01-06-1978@@@
-
 Decreto nº 81.743, de 1º de junho de 1978.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural situado no Município de Itatira, Estado do Ceará, compreendido na área prioritária de reforma agrária, de que trata o Decreto nº 60.465, de 14/3/67, retificado pelo Decreto nº 61.106, de 28/7/67, com prazo de intervenção governamental prorrogado, sucessivamente, pelos Decretos nºs 68.085, de 19/01/71, e 75.147, de 27/12/74.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000984-0-000-12-11-1993@@@
-
 DECRETO Nº 984, DE 12 DE NOVEMBRO DE 1993
 
 Suspende o repasse e pagamento de subvenções sociais e determina o recadastramento das entidades.

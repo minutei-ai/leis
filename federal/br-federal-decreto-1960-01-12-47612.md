@@ -1,5 +1,3 @@
-###DEC-047612-0-000-12-01-1960@@@
-
 DECRETO Nº 47.612, de 12 de janeiro de 1960.
 
 Concede autorização para o funcionamento dos cursos de história, letras neolatinas, pedagogia e matemática da Faculdade Estadual de Filosofia, Ciências e Letras de Jacarezinho.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095771-0-000-03-03-1988@@@
-
 DECRETO N° 95.771, DE 3 DE MARÇO DE 1988
 
 Renova a concessão outorgada à Rádio Amorim Juventude Ltda., para explorar serviço de radiodifusão sonora em onda média, na cidade de Rondonópolis, Estado do Mato Grosso.

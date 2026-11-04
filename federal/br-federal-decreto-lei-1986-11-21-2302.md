@@ -1,5 +1,3 @@
-###DEL-002302-0-000-21-11-1986@@@
-
 # DECRETO-LEI Nº 2.302, DE 21 DE NOVEMBRO DE 1986
 
 Dispõe sobre escala móvel de salário, e dá outras providências.

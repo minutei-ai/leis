@@ -1,7 +1,3 @@
-1
-
-###DEC-001443-0-000-05-04-1995@@@
-
 DECRETO Nº 1.443, DE 5 DE ABRIL DE 1995
 
 Altera o Estatuto da Fundação Escola Nacional de Administração Pública ENAP, transfere cargos em comissão e funções gratificadas, e dá outras providências.

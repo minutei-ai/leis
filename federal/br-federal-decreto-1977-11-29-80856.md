@@ -1,5 +1,3 @@
-###DEC-080856-0-000-29-11-1977@@@
-
 Decreto nº 80.856, de 29 de novembro de 1977.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Barreirinhas, Estado do Maranhão.

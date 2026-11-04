@@ -128,14 +128,16 @@ Art. 5º A [Lei nº 12.600, de 14 de junho de 2004](https://legis.alepe.pe.gov.b
 
 ..........................................................................................................................
 
-Art. 127. ...........................................................................................................<br>
+Art. 127. ...........................................................................................................
+
 ..........................................................................................................................
 
 § 4º Na hipótese de investidura no cargo de Procurador-Chefe por servidor de outro órgão ou entidade pública cedido ao Tribunal de Contas do Estado de Pernambuco, este poderá optar por permanecer percebendo a remuneração do seu cargo de origem, caso em que fará jus à Representação, em caráter indenizatório, no valor correspondente à produtividade do cargo de Procurador do Tribunal de Contas, faixa 2, símbolo TCPC-II.” (NR)
 
 Art. 6º O § 3º do art. 8º da [Lei nº 12.595, de 4 de junho de 2004](https://legis.alepe.pe.gov.br/?lo125952004), passa a vigorar com a seguinte redação:
 
-“Art. 8º .............................................................................................................<br>
+“Art. 8º .............................................................................................................
+
 ..........................................................................................................................
 
 § 3º O servidor do GOCE, pelo exercício de suas atividades funcionais e lotados nas áreas de fiscalização, poderá perceber verba indenizatória de campo no valor de R$ 1.850,00 (um mil, oitocentos e cinquenta reais), nos termos disciplinados em ato normativo do Tribunal de Contas do Estado de Pernambuco.” (NR)
@@ -164,450 +166,86 @@ Presidente
 
 (Valor alterado pelo art. 1º da [Lei nº 19.253, de 8 de junho de 2026](https://legis.alepe.pe.gov.br/?lo192532026) - Novo valor: reajuste de 5% (cinco por cento) na data-base fixada no art. 8º-A da [Lei 12.595, de 4 de junho de 2004](https://legis.alepe.pe.gov.br/?lo125952004).)
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="554" style="width:415.5pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:1.0pt"><td width="390" style="width:292.5pt;border:solid windowtext 1.0pt;background:
-  transparent;padding:0cm 0cm 0cm 0cm;height:1.0pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:-1.5pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">FUNÇÕES GRATIFICADAS</span></p></td><td width="164" style="width:123.0pt;border:solid windowtext 1.0pt;border-left:
-  none;background:transparent;padding:0cm 0cm 0cm 0cm;height:1.0pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:-.75pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">VALOR</span></p></td></tr><tr style="height:1.25pt"><td width="390" style="width:292.5pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.25pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:42.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-FGE-1 (Função Gratificada Executiva - 1)</span></p></td><td width="164" style="width:123.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.25pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:42.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">R$ 13.923,71</span></p></td></tr><tr style="height:1.25pt"><td width="390" style="width:292.5pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.25pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:42.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-FGE-2 (Função Gratificada Executiva - 2)</span></p></td><td width="164" style="width:123.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.25pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:42.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">R$ 11.835,19</span></p></td></tr><tr style="height:1.25pt"><td width="390" style="width:292.5pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.25pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:42.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-FGE-3 (Função Gratificada Executiva - 3)</span></p></td><td width="164" style="width:123.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.25pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:42.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">R$ 11.138,96</span></p></td></tr><tr style="height:1.25pt"><td width="390" style="width:292.5pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.25pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:42.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-FGE-4 (Função Gratificada Executiva - 4)</span></p></td><td width="164" style="width:123.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.25pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:42.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">R$ 10.442,76</span></p></td></tr><tr style="height:1.25pt"><td width="390" style="width:292.5pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.25pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:42.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-FGE-5 (Função Gratificada Executiva - 5)</span></p></td><td width="164" style="width:123.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.25pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:42.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">R$ 10.210,69</span></p></td></tr></tbody></table>
+FUNÇÕES GRATIFICADAS
+
+VALOR
+
+TC-FGE-1 (Função Gratificada Executiva - 1)
+
+R$ 13.923,71
+
+TC-FGE-2 (Função Gratificada Executiva - 2)
+
+R$ 11.835,19
+
+TC-FGE-3 (Função Gratificada Executiva - 3)
+
+R$ 11.138,96
+
+TC-FGE-4 (Função Gratificada Executiva - 4)
+
+R$ 10.442,76
+
+TC-FGE-5 (Função Gratificada Executiva - 5)
+
+R$ 10.210,69
 
 **ANEXO II**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="624" style="width:468.0pt;margin-left:4.5pt;background:white;border-collapse:collapse;
- border:none"><tbody><tr style="height:1.0pt"><td width="133" style="width:99.7pt;border:solid windowtext 1.0pt;background:
-  transparent;padding:0cm 0cm 0cm 0cm;height:1.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">&nbsp;ÓRGÃO</span></p></td><td width="99" style="width:74.2pt;border:solid windowtext 1.0pt;border-left:
-  none;background:transparent;padding:0cm 0cm 0cm 0cm;height:1.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SÍMBOLO</span></p></td><td width="166" style="width:124.15pt;border:solid windowtext 1.0pt;border-left:
-  none;background:transparent;padding:0cm 0cm 0cm 0cm;height:1.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">NOMENCLATURA</span></p></td><td width="227" style="width:169.95pt;border:solid windowtext 1.0pt;border-left:
-  none;background:transparent;padding:0cm 0cm 0cm 0cm;height:1.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">ATRIBUIÇÕES</span></p></td></tr><tr><td width="133" style="width:99.7pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Ministério Público de Contas</span></p></td><td width="99" style="width:74.2pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-CCS-6</span></p></td><td width="166" style="width:124.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Assessor de Comunicação</span></p></td><td width="227" style="width:169.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Auxiliar o Procurador-Geral nos assuntos referentes à comunicação interna e externa do MPCO.</span></p></td></tr><tr><td width="133" style="width:99.7pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Ministério Público de Contas</span></p></td><td width="99" style="width:74.2pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-CCS-6</span></p></td><td width="166" style="width:124.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Assessor de Procurador do MPCO</span></p></td><td width="227" style="width:169.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Auxiliar o Procurador do Ministério Público de Contas no exercício de suas atividades, por meio da elaboração de minutas de pareceres/despachos.</span></p></td></tr><tr><td width="133" style="width:99.7pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Gabinetes de Conselheiros</span></p></td><td width="99" style="width:74.2pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-CCS-6</span></p></td><td width="166" style="width:124.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Assessor de gabinete de Conselheiro</span></p></td><td width="227" style="width:169.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Auxiliar o Gabinete do Conselheiro no exercício de suas atividades, por meio da elaboração de minutas de ofícios/despachos.</span></p></td></tr><tr><td width="133" style="width:99.7pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Procuradoria Jurídica (PROJUR)</span></p></td><td width="99" style="width:74.2pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-CCS-6</span></p></td><td width="166" style="width:124.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Assessor do Procurador-Chefe da PROJUR</span></p></td><td width="227" style="width:169.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Auxiliar o Procurador-Chefe no exercício das atividades de representação judicial e de assessoramento e consultoria jurídica, por meio da elaboração de minutas de petições, pareceres e outras manifestações jurídicas, bem como da pesquisa e análise crítica da doutrina e da jurisprudência.</span></p></td></tr><tr><td width="133" style="width:99.7pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Gabinete da Presidência</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">(GPRE)</span></p></td><td width="99" style="width:74.2pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-CCS-6</span></p></td><td width="166" style="width:124.15pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Assessor da Chefia de Gabinete da Presidência</span></p></td><td width="227" style="width:169.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Auxiliar o Gabinete da Presidência no exercício de suas atividades, por meio da elaboração de minutas de informações, respostas a requerimentos e requisições, bem como outros expedientes da competência da Presidência.</span></p></td></tr></tbody></table>
+ÓRGÃO
+
+SÍMBOLO
+
+NOMENCLATURA
+
+ATRIBUIÇÕES
+
+Ministério Público de Contas
+
+TC-CCS-6
+
+Assessor de Comunicação
+
+Auxiliar o Procurador-Geral nos assuntos referentes à comunicação interna e externa do MPCO.
+
+Ministério Público de Contas
+
+TC-CCS-6
+
+Assessor de Procurador do MPCO
+
+Auxiliar o Procurador do Ministério Público de Contas no exercício de suas atividades, por meio da elaboração de minutas de pareceres/despachos.
+
+Gabinetes de Conselheiros
+
+TC-CCS-6
+
+Assessor de gabinete de Conselheiro
+
+Auxiliar o Gabinete do Conselheiro no exercício de suas atividades, por meio da elaboração de minutas de ofícios/despachos.
+
+Procuradoria Jurídica (PROJUR)
+
+TC-CCS-6
+
+Assessor do Procurador-Chefe da PROJUR
+
+Auxiliar o Procurador-Chefe no exercício das atividades de representação judicial e de assessoramento e consultoria jurídica, por meio da elaboração de minutas de petições, pareceres e outras manifestações jurídicas, bem como da pesquisa e análise crítica da doutrina e da jurisprudência.
+
+Gabinete da Presidência
+
+(GPRE)
+
+TC-CCS-6
+
+Assessor da Chefia de Gabinete da Presidência
+
+Auxiliar o Gabinete da Presidência no exercício de suas atividades, por meio da elaboração de minutas de informações, respostas a requerimentos e requisições, bem como outros expedientes da competência da Presidência.
 
 **ANEXO III**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="605" style="width:453.75pt;background:white;border-collapse:collapse;border:none"><tbody><tr><td width="605" colspan="3" style="width:453.75pt;border:solid windowtext 1.0pt;
-  background:transparent;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">&nbsp;CARGOS&nbsp;COMISSIONADOS</span></p></td></tr><tr><td width="202" style="width:151.2pt;border:solid windowtext 1.0pt;border-top:
-  none;background:transparent;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SÍMBOLO</span></p></td><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:transparent;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">QUANTIDADE</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:transparent;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">PROVIMENTO</span></p></td></tr><tr><td width="202" style="width:151.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-CCS-1</span></p></td><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">8</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">LIVRE NOMEAÇÃO</span></p></td></tr><tr style="height:2.65pt"><td width="202" rowspan="2" style="width:151.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:2.65pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-CCS-2</span></p></td><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:2.65pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">19</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:2.65pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">LIVRE NOMEAÇÃO</span></p></td></tr><tr style="height:11.45pt"><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:11.45pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">3</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:11.45pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SERVIDOR EFETIVO DO TRIBUNAL DE CONTAS</span></p></td></tr><tr style="height:1.75pt"><td width="202" style="width:151.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-CCS-3</span></p></td><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">2</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">LIVRE NOMEAÇÃO</span></p></td></tr><tr><td width="202" style="width:151.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-CCS-5</span></p></td><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">25</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">LIVRE NOMEAÇÃO</span></p></td></tr><tr><td width="202" rowspan="2" style="width:151.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-CCS-6</span></p></td><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">28</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">LIVRE NOMEAÇÃO</span></p></td></tr><tr><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">1</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SERVIDOR EFETIVO</span></p></td></tr><tr><td width="202" style="width:151.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-CST</span></p></td><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">8</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">LIVRE NOMEAÇÃO</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3"> &nbsp;CARGOS&nbsp;COMISSIONADOS </td></tr><tr><td> SÍMBOLO </td><td> QUANTIDADE </td><td> PROVIMENTO </td></tr><tr><td> TC-CCS-1 </td><td> 8 </td><td> LIVRE NOMEAÇÃO </td></tr><tr><td rowspan="2"> TC-CCS-2 </td><td> 19 </td><td> LIVRE NOMEAÇÃO </td></tr><tr><td> 3 </td><td> SERVIDOR EFETIVO DO TRIBUNAL DE CONTAS </td></tr><tr><td> TC-CCS-3 </td><td> 2 </td><td> LIVRE NOMEAÇÃO </td></tr><tr><td> TC-CCS-5 </td><td> 25 </td><td> LIVRE NOMEAÇÃO </td></tr><tr><td rowspan="2"> TC-CCS-6 </td><td> 28 </td><td> LIVRE NOMEAÇÃO </td></tr><tr><td> 1 </td><td> SERVIDOR EFETIVO </td></tr><tr><td> TC-CST </td><td> 8 </td><td> LIVRE NOMEAÇÃO </td></tr></tbody></table>
 
 **ANEXO IV**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="605" style="width:453.75pt;background:white;border-collapse:collapse;border:none"><tbody><tr><td width="605" colspan="3" style="width:453.75pt;border:solid windowtext 1.0pt;
-  background:transparent;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">&nbsp;FUNÇÕES GRATIFICADAS</span></p></td></tr><tr><td width="202" style="width:151.2pt;border:solid windowtext 1.0pt;border-top:
-  none;background:transparent;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SÍMBOLO</span></p></td><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:transparent;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">QUANTIDADE</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  background:transparent;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">PROVIMENTO</span></p></td></tr><tr><td width="202" style="width:151.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-FGE-1</span></p></td><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">2</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SERVIDOR EFETIVO DO TRIBUNAL DE CONTAS</span></p></td></tr><tr><td width="202" style="width:151.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-FGE-2</span></p></td><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">4</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SERVIDOR EFETIVO DO TRIBUNAL DE CONTAS</span></p></td></tr><tr><td width="202" style="width:151.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-FGE-3</span></p></td><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">16</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SERVIDOR EFETIVO DO TRIBUNAL DE CONTAS</span></p></td></tr><tr><td width="202" style="width:151.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-FGE-4</span></p></td><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">6</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SERVIDOR EFETIVO DO TRIBUNAL DE CONTAS</span></p></td></tr><tr><td width="202" style="width:151.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-FGE-5</span></p></td><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">1</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SERVIDOR EFETIVO DO TRIBUNAL DE CONTAS</span></p></td></tr><tr><td width="202" rowspan="2" style="width:151.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-FGG</span></p></td><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">68</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SERVIDOR EFETIVO DO TRIBUNAL DE CONTAS</span></p></td></tr><tr><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">2</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SERVIDOR EFETIVO</span></p></td></tr><tr><td width="202" rowspan="2" style="width:151.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-FGA-1</span></p></td><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">1</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SERVIDOR EFETIVO DO TRIBUNAL DE CONTAS</span></p></td></tr><tr><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">23</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SERVIDOR EFETIVO</span></p></td></tr><tr><td width="202" rowspan="2" style="width:151.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-FGA-2</span></p></td><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">26</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SERVIDOR EFETIVO DO TRIBUNAL DE CONTAS</span></p></td></tr><tr><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">33</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SERVIDOR EFETIVO</span></p></td></tr><tr style="height:23.5pt"><td width="202" rowspan="2" style="width:151.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:23.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-FGA-3</span></p></td><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:23.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">1</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:23.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SERVIDOR EFETIVO DO TRIBUNAL DE CONTAS</span></p></td></tr><tr><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">8</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SERVIDOR EFETIVO</span></p></td></tr><tr><td width="202" style="width:151.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC- FGS-1</span></p></td><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">10</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SERVIDOR EFETIVO</span></p></td></tr><tr><td width="202" style="width:151.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC- FGS-2</span></p></td><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">26</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SERVIDOR EFETIVO</span></p></td></tr><tr><td width="202" style="width:151.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-FAG-1</span></p></td><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">32</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SERVIDOR EFETIVO</span></p></td></tr><tr><td width="202" style="width:151.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-FAG-2</span></p></td><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">23</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SERVIDOR EFETIVO</span></p></td></tr><tr><td width="202" style="width:151.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TC-FAG-3</span></p></td><td width="134" style="width:100.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">5</span></p></td><td width="269" style="width:201.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SERVIDOR EFETIVO</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3"> &nbsp;FUNÇÕES GRATIFICADAS </td></tr><tr><td> SÍMBOLO </td><td> QUANTIDADE </td><td> PROVIMENTO </td></tr><tr><td> TC-FGE-1 </td><td> 2 </td><td> SERVIDOR EFETIVO DO TRIBUNAL DE CONTAS </td></tr><tr><td> TC-FGE-2 </td><td> 4 </td><td> SERVIDOR EFETIVO DO TRIBUNAL DE CONTAS </td></tr><tr><td> TC-FGE-3 </td><td> 16 </td><td> SERVIDOR EFETIVO DO TRIBUNAL DE CONTAS </td></tr><tr><td> TC-FGE-4 </td><td> 6 </td><td> SERVIDOR EFETIVO DO TRIBUNAL DE CONTAS </td></tr><tr><td> TC-FGE-5 </td><td> 1 </td><td> SERVIDOR EFETIVO DO TRIBUNAL DE CONTAS </td></tr><tr><td rowspan="2"> TC-FGG </td><td> 68 </td><td> SERVIDOR EFETIVO DO TRIBUNAL DE CONTAS </td></tr><tr><td> 2 </td><td> SERVIDOR EFETIVO </td></tr><tr><td rowspan="2"> TC-FGA-1 </td><td> 1 </td><td> SERVIDOR EFETIVO DO TRIBUNAL DE CONTAS </td></tr><tr><td> 23 </td><td> SERVIDOR EFETIVO </td></tr><tr><td rowspan="2"> TC-FGA-2 </td><td> 26 </td><td> SERVIDOR EFETIVO DO TRIBUNAL DE CONTAS </td></tr><tr><td> 33 </td><td> SERVIDOR EFETIVO </td></tr><tr><td rowspan="2"> TC-FGA-3 </td><td> 1 </td><td> SERVIDOR EFETIVO DO TRIBUNAL DE CONTAS </td></tr><tr><td> 8 </td><td> SERVIDOR EFETIVO </td></tr><tr><td> TC- FGS-1 </td><td> 10 </td><td> SERVIDOR EFETIVO </td></tr><tr><td> TC- FGS-2 </td><td> 26 </td><td> SERVIDOR EFETIVO </td></tr><tr><td> TC-FAG-1 </td><td> 32 </td><td> SERVIDOR EFETIVO </td></tr><tr><td> TC-FAG-2 </td><td> 23 </td><td> SERVIDOR EFETIVO </td></tr><tr><td> TC-FAG-3 </td><td> 5 </td><td> SERVIDOR EFETIVO </td></tr></tbody></table>

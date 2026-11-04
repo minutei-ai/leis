@@ -1,5 +1,3 @@
-###DEL-006602-0-000-19-06-1944@@@  
-
 DECRETO-LEI N. 6.602 – DE 19 DE JUNHO DE 1944
 
 Designa nova zona de garimpagem de pedras preciosas e dá outras providências

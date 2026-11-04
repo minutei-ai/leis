@@ -1,5 +1,3 @@
-###DEC-061254-0-000-30-08-1967@@@
-
 DECRETO Nº 61.254, DE 30 DE AGÔSTO DE 1967.
 
 Reconhece de utilidade pública o Instituto Histórico e Geográfico do Distrito Federal.

@@ -1,5 +1,3 @@
-###DEL-001940-0-000-25-05-1982@@@
-
 # Decreto-lei nº 1.940, de 25 de maio de 1982
 
 Institui contribuição social, cria o Fundo de Investimento Social (FINSOCIAL) e dá outras providências.

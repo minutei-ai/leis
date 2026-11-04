@@ -4,7 +4,8 @@ Regulamenta, no Estado da Bahia, as cavalgadas e vaquejadas como atividades desp
 
 **O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DA BAHIA**, no uso de atribuição prevista no art. 80, § 7º da Constituição do Estado da Bahia, combinando com o art. 41, XXII, da Resolução n.º 1193/85 (Regimento Interno), faço saber que o Plenário da Assembleia aprovou e eu promulgo a seguinte Lei:
 
-**TÍTULO I<br>
+**TÍTULO I
+
 DISPOSIÇÕES GERAIS**
 
 **Art. 1º** - Esta Lei regulamenta as cavalgadas e vaquejadas como atividades desportivas no Estado da Bahia.
@@ -29,12 +30,14 @@ VI - todos os animais envolvidos no evento devem ser tratados de forma respeitos
 
 **TÍTULO II**
 
-**CAPÍTULO I** <br>
-**DOS PROMOTORES E ADMINISTRADORES DO****EVENTO ESPORTIVO**
+**CAPÍTULO I** 
+
+**DOS PROMOTORES E ADMINISTRADORES DOEVENTO ESPORTIVO**
 
 **Art. 4º** - O promotor e o administrador são, em última instância, responsáveis pela condução do evento e devem garantir o cumprimento dos padrões ora estabelecidos, com competência e autoridade para cumprir com suas tarefas, garantindo ainda que em todo evento exista infraestrutura mínima exigível, adequada para os primeiros socorros dos animais.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS COMPETIDORES
 
 **Art. 5º** - O competidor é o tutor responsável pelos animais que estiver manejando durante as provas, devendo certificar-se de que estejam em forma e saudáveis, circunstâncias imprescindíveis para a autorização de participação na competição.
@@ -55,11 +58,13 @@ II - conduta antidesportiva ou qualquer forma de má conduta que seja caracteriz
 
 **Parágrafo único** - Aplicam-se as vedações deste artigo aos competidores, locutores, julgadores, profissionais em trabalho, proprietários, prepostos dos proprietários, sócios e não-sócios de associações de criadores, competidores e afins, espectadores e a toda pessoa presente no recinto do evento.
 
-CAPÍTULO III<br>
-DOS ANIMAIS<br>
+CAPÍTULO III
 
-Seção I<br>
-Disposições Gerais<br>
+DOS ANIMAIS
+
+Seção I
+
+Disposições Gerais
 
 **Art. 8**º - É proibido:
 
@@ -79,7 +84,8 @@ IV - utilizar animal enfermo, com lesão preexistente, cego, extenuado, sangrand
 
 **Art. 11** - As provas poderão ser paralisadas pelo Médico Veterinário Responsável Técnico, pelo Juiz de Bem-Estar Animal, pelo representante da promotorade eventos ou administrador do evento e pelo órgão oficial competente caso entendam que haja algum perigo no local da competição que comprometa o bem-estar dos animais e dos competidores.
 
-Seção II <br>
+Seção II 
+
 Dos Bovinos
 
 **Art. 12** - Toda espécie bovina deverá estar em forma adequada e saudável para participar do evento esportivo.
@@ -94,7 +100,8 @@ III - manter os animais nos currais de espera da pista de vaquejada após o tér
 
 IV - participação de bovino sem a devida proteção na cauda, denominado protetor de cauda, além de eventuais dispositivos que futuramente venham a ser desenvolvidos para fornecer maior segurança e conforto animal, nos termos da regulamentação da competição.
 
-Seção III<br>
+Seção III
+
 Dos Equinos
 
 **Art. 14** - Em relação aos equinos, é vedado:
@@ -109,7 +116,8 @@ IV - aplicar puxadas de rédeas excessivas;
 
 **Parágrafo único** - Ocorrendo quaisquer das hipóteses acima, o competidor será desclassificado sumariamente, sendo reportado pelo Juiz de Bem-Estar o ocorrido, através de relatório a autoridade competente.
 
-TÍTULO III<br>
+TÍTULO III
+
 DISPOSIÇÕES FINAIS
 
 **Art. 15** - As penalidades e multas referentes às infrações definidas nesta Lei serão estabelecidas pelo Poder Executivo, em espécie.

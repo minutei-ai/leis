@@ -1,7 +1,3 @@
-1
-
-###DEC-097755-0-000-17-05-1989@@@
-
 DECRETO Nº 97.755, DE 17 DE MAIO DE 1989
 
 Autoriza o funcionamento do curso de Administração da Sociedade Capixaba de Educação.

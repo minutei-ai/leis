@@ -1,5 +1,3 @@
-###DEC-045141-0-000-30-12-1958@@@
-
 DECRETO Nº 45.141, DE 30 DE DEZEMBRO DE 1958.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$15.585.821,90, para o fim que menciona.
@@ -19,8 +17,6 @@ Juscelino Kubtischek
 Lúcio Meira
 
 Lucas Lopes
-
-###DEC-045141-0-000-30-12-1958@@@RET01+++
 
 DECRETO Nº 45.141, DE 30 DE DEZEMBRO DE 1958.
 

@@ -1,5 +1,3 @@
-###DEC-003521-0-000-21-06-2000@@@
-
 DECRETO Nº 3.521, DE 21 DE JUNHO DE 2000.
 
 Promulgo o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da África do Sul sobre Cooperação no Campo da Cultura, celebrado em Pretória, em 26 de novembro de 1996.
@@ -102,4 +100,24 @@ Qualquer uma das Partes poderá, mediante comunicação, por escrito, com a ante
 
 Feito em Pretória, em 26 de novembro de 1996, em dois exemplares originais, nas línguas portuguesa e inglesa, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Luiz Felipe Lampreia</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministro de Estado das Relações Exteriores</span></p></td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Governo da República da África do Sul</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Alfred Nzo</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministro de Relações Exteriores</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil
+
+</td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Luiz Felipe Lampreia
+
+Ministro de Estado das Relações Exteriores
+
+</td></tr><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da República da África do Sul
+
+</td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Alfred Nzo
+
+Ministro de Relações Exteriores
+
+</td></tr></tbody></table>

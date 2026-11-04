@@ -1,7 +1,3 @@
-1
-
-###DEC-095804-0-000-09-03-1988@@@
-
 DECRETO N° 95.804, DE 9 DE MARÇO DE 1988
 
 Altera a redação do item I do art. 45 do Decreto n° 93.872, de 23 de dezembro de 1986.

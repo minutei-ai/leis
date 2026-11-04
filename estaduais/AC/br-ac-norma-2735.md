@@ -1,6 +1,10 @@
 > **LEI Nº 3.286, DE 26 DE SETEMBRO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo a renegociar as operações de crédito firmadas junto ao Banco do Brasil - BB com recursos do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, nos termos do art. 2º da Lei Complementar Federal nº 156, de 28 de dezembro de 2016.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Poder Executivo a renegociar as operações de crédito firmadas junto ao Banco do Brasil - BB com recursos do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, nos termos do art. 2º da Lei Complementar Federal nº 156, de 28 de dezembro de 2016.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

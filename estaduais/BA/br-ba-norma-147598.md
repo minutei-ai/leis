@@ -110,155 +110,11 @@ TABELA DE VENCIMENTOS
 
 CARREIRAS DE NÍVEL SUPERIOR
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:322.8pt;border-collapse:collapse" width="0"><tbody><tr style="height:13.75pt"><td style="width:159.3pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.75pt" valign="top" width="212"><p class="Tabela-Texto" style="margin-left:.25pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black">CARGOS</span></p></td><td style="width:64.3pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.75pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.05pt;margin-bottom:
-  3.0pt;margin-left:3.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">CLASSE</span></p></td><td style="width:99.2pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.75pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.05pt;margin-bottom:
-  3.0pt;margin-left:3.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">VENCIMENTO</span></p></td></tr><tr style="height:13.8pt"><td rowspan="12" style="width:159.3pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="212"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;font-weight:normal">&nbsp;</span></p><p class="Tabela-Texto" style="margin-left:59.25pt;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-33.0pt"><span style="color:black;
-  font-weight:normal">Especialista em Obras Públicas</span></p></td><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-left:3.5pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.9pt;margin-bottom:
-  3.0pt;margin-left:3.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3.274,24</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-left:3.5pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">2</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.9pt;margin-bottom:
-  3.0pt;margin-left:3.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3.519,82</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-left:3.5pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">3</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.9pt;margin-bottom:
-  3.0pt;margin-left:3.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3.783,82</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-left:3.5pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">4</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.9pt;margin-bottom:
-  3.0pt;margin-left:3.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4.067,62</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-left:3.5pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">5</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.9pt;margin-bottom:
-  3.0pt;margin-left:3.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4.372,67</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-left:3.5pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">6</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.9pt;margin-bottom:
-  3.0pt;margin-left:3.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4.700,63</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-left:3.5pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">7</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.9pt;margin-bottom:
-  3.0pt;margin-left:3.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5.053,15</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-left:3.5pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">8</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.9pt;margin-bottom:
-  3.0pt;margin-left:3.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5.432,14</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-left:3.5pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">9</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.9pt;margin-bottom:
-  3.0pt;margin-left:3.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5.839,54</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-left:3.5pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">10</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.9pt;margin-bottom:
-  3.0pt;margin-left:3.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6.277,54</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-left:3.5pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">11</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.9pt;margin-bottom:
-  3.0pt;margin-left:3.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6.748,35</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-left:3.5pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">12</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.9pt;margin-bottom:
-  3.0pt;margin-left:3.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">7.254,47</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> CARGOS </td><td valign="top"> CLASSE </td><td valign="top"> VENCIMENTO </td></tr><tr><td rowspan="12" valign="top"> &nbsp; Especialista em Obras Públicas </td><td valign="top"> 1 </td><td valign="top"> 3.274,24 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> 3.519,82 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> 3.783,82 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> 4.067,62 </td></tr><tr><td valign="top"> 5 </td><td valign="top"> 4.372,67 </td></tr><tr><td valign="top"> 6 </td><td valign="top"> 4.700,63 </td></tr><tr><td valign="top"> 7 </td><td valign="top"> 5.053,15 </td></tr><tr><td valign="top"> 8 </td><td valign="top"> 5.432,14 </td></tr><tr><td valign="top"> 9 </td><td valign="top"> 5.839,54 </td></tr><tr><td valign="top"> 10 </td><td valign="top"> 6.277,54 </td></tr><tr><td valign="top"> 11 </td><td valign="top"> 6.748,35 </td></tr><tr><td valign="top"> 12 </td><td valign="top"> 7.254,47 </td></tr></tbody></table>
 
 CARREIRAS DE NÍVEL MÉDIO
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:306.3pt;border-collapse:collapse" width="0"><tbody><tr style="height:13.75pt"><td style="width:140.65pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.75pt" valign="top" width="188"><p class="Tabela-Texto" style="margin-left:46.1pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black">CARGOS</span></p></td><td style="width:66.45pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.75pt" valign="top" width="89"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.9pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">CLASSE</span></p></td><td style="width:99.2pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.75pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-left:3.45pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black">VENCIMENTO</span></p></td></tr><tr style="height:13.8pt"><td rowspan="9" style="width:140.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="188"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;font-weight:normal">&nbsp;</span></p><p class="Tabela-Texto" style="margin-left:49.9pt;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-23.65pt"><span style="color:black;
-  font-weight:normal">Técnico em Obras Públicas</span></p></td><td style="width:66.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="89"><p class="Tabela-Texto" style="margin-left:3.4pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.539,08</span></p></td></tr><tr style="height:13.8pt"><td style="width:66.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="89"><p class="Tabela-Texto" style="margin-left:3.4pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">2</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.623,73</span></p></td></tr><tr style="height:13.8pt"><td style="width:66.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="89"><p class="Tabela-Texto" style="margin-left:3.4pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">3</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.713,03</span></p></td></tr><tr style="height:13.8pt"><td style="width:66.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="89"><p class="Tabela-Texto" style="margin-left:3.4pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">4</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.807,25</span></p></td></tr><tr style="height:13.8pt"><td style="width:66.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="89"><p class="Tabela-Texto" style="margin-left:3.4pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">5</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.906,65</span></p></td></tr><tr style="height:13.8pt"><td style="width:66.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="89"><p class="Tabela-Texto" style="margin-left:3.4pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">6</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-left:3.45pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.011,52</span></p></td></tr><tr style="height:13.8pt"><td style="width:66.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="89"><p class="Tabela-Texto" style="margin-left:3.4pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">7</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.122,15</span></p></td></tr><tr style="height:13.8pt"><td style="width:66.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="89"><p class="Tabela-Texto" style="margin-left:3.4pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">8</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.238,87</span></p></td></tr><tr style="height:16.25pt"><td style="width:66.45pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.25pt" valign="top" width="89"><p class="Tabela-Texto" style="margin-left:3.4pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">9</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:16.25pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.45pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.362,01</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> CARGOS </td><td valign="top"> CLASSE </td><td valign="top"> VENCIMENTO </td></tr><tr><td rowspan="9" valign="top"> &nbsp; Técnico em Obras Públicas </td><td valign="top"> 1 </td><td valign="top"> 1.539,08 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> 1.623,73 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> 1.713,03 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> 1.807,25 </td></tr><tr><td valign="top"> 5 </td><td valign="top"> 1.906,65 </td></tr><tr><td valign="top"> 6 </td><td valign="top"> 2.011,52 </td></tr><tr><td valign="top"> 7 </td><td valign="top"> 2.122,15 </td></tr><tr><td valign="top"> 8 </td><td valign="top"> 2.238,87 </td></tr><tr><td valign="top"> 9 </td><td valign="top"> 2.362,01 </td></tr></tbody></table>
 
 ANEXO II
 
@@ -268,179 +124,11 @@ TABELA DE VENCIMENTOS
 
 CARREIRAS DE NÍVEL SUPERIOR
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:322.8pt;border-collapse:collapse" width="0"><tbody><tr style="height:13.75pt"><td style="width:159.3pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.75pt" valign="top" width="212"><p class="Tabela-Texto" style="margin-left:55.35pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black">CARGOS</span></p></td><td style="width:64.3pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.75pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-left:3.6pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black">CLASSE</span></p></td><td style="width:99.2pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.75pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-left:.55pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black">VENCIMENTO</span></p></td></tr><tr style="height:13.8pt"><td rowspan="14" style="width:159.3pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="212"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;font-weight:normal">&nbsp;</span></p><p class="Tabela-Texto" style="margin-left:59.3pt;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-33.0pt"><span style="color:black;
-  font-weight:normal">Especialista em Obras Públicas</span></p></td><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3.274,24</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3.519,82</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3.783,82</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4.067,62</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4.372,67</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4.700,63</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">7</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5.053,15</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">8</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5.432,14</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">9</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5.839,54</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">10</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6.277,54</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-left:3.6pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">11</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6.748,35</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">12</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">7.254,47</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-left:3.6pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">13</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">7.798,56</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-left:3.6pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">14</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">8.383,45</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> CARGOS </td><td valign="top"> CLASSE </td><td valign="top"> VENCIMENTO </td></tr><tr><td rowspan="14" valign="top"> &nbsp; Especialista em Obras Públicas </td><td valign="top"> 1 </td><td valign="top"> 3.274,24 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> 3.519,82 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> 3.783,82 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> 4.067,62 </td></tr><tr><td valign="top"> 5 </td><td valign="top"> 4.372,67 </td></tr><tr><td valign="top"> 6 </td><td valign="top"> 4.700,63 </td></tr><tr><td valign="top"> 7 </td><td valign="top"> 5.053,15 </td></tr><tr><td valign="top"> 8 </td><td valign="top"> 5.432,14 </td></tr><tr><td valign="top"> 9 </td><td valign="top"> 5.839,54 </td></tr><tr><td valign="top"> 10 </td><td valign="top"> 6.277,54 </td></tr><tr><td valign="top"> 11 </td><td valign="top"> 6.748,35 </td></tr><tr><td valign="top"> 12 </td><td valign="top"> 7.254,47 </td></tr><tr><td valign="top"> 13 </td><td valign="top"> 7.798,56 </td></tr><tr><td valign="top"> 14 </td><td valign="top"> 8.383,45 </td></tr></tbody></table>
 
 CARREIRAS DE NÍVEL MÉDIO
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:306.3pt;border-collapse:collapse" width="0"><tbody><tr style="height:13.8pt"><td style="width:140.65pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="188"><p class="Tabela-Texto" style="margin-left:44.65pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black">CARGOS</span></p></td><td style="width:59.35pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="79"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:.65pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">CLASSE</span></p></td><td style="width:106.3pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="142"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.05pt;margin-bottom:
-  3.0pt;margin-left:.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">VENCIMENTO</span></p></td></tr><tr style="height:13.8pt"><td rowspan="11" style="width:140.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="188"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;font-weight:normal">&nbsp;</span></p><p class="Tabela-Texto" style="margin-left:49.9pt;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-23.65pt"><span style="color:black;
-  font-weight:normal">Técnico em Obras Públicas</span></p></td><td style="width:59.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="79"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:.65pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:106.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="142"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.15pt;margin-bottom:
-  3.0pt;margin-left:.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.539,08</span></p></td></tr><tr style="height:13.8pt"><td style="width:59.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="79"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:.65pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2</span></p></td><td style="width:106.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="142"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.15pt;margin-bottom:
-  3.0pt;margin-left:.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.623,73</span></p></td></tr><tr style="height:13.8pt"><td style="width:59.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="79"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:.65pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3</span></p></td><td style="width:106.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="142"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.15pt;margin-bottom:
-  3.0pt;margin-left:.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.713,03</span></p></td></tr><tr style="height:13.8pt"><td style="width:59.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="79"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:.65pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4</span></p></td><td style="width:106.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="142"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.15pt;margin-bottom:
-  3.0pt;margin-left:.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.807,25</span></p></td></tr><tr style="height:13.8pt"><td style="width:59.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="79"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:.65pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5</span></p></td><td style="width:106.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="142"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.15pt;margin-bottom:
-  3.0pt;margin-left:.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.906,65</span></p></td></tr><tr style="height:13.8pt"><td style="width:59.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="79"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:.65pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6</span></p></td><td style="width:106.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="142"><p class="Tabela-Texto" style="margin-left:.5pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">2.011,52</span></p></td></tr><tr style="height:13.8pt"><td style="width:59.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="79"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:.65pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">7</span></p></td><td style="width:106.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="142"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.15pt;margin-bottom:
-  3.0pt;margin-left:.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.122,15</span></p></td></tr><tr style="height:13.8pt"><td style="width:59.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="79"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:.65pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">8</span></p></td><td style="width:106.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="142"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.15pt;margin-bottom:
-  3.0pt;margin-left:.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.238,87</span></p></td></tr><tr style="height:13.8pt"><td style="width:59.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="79"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:.65pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">9</span></p></td><td style="width:106.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="142"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.15pt;margin-bottom:
-  3.0pt;margin-left:.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.362,01</span></p></td></tr><tr style="height:13.8pt"><td style="width:59.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="79"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:.65pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">10</span></p></td><td style="width:106.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="142"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.15pt;margin-bottom:
-  3.0pt;margin-left:.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.491,92</span></p></td></tr><tr style="height:13.8pt"><td style="width:59.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="79"><p class="Tabela-Texto" style="margin-left:.65pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">11</span></p></td><td style="width:106.3pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="142"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.15pt;margin-bottom:
-  3.0pt;margin-left:.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.628,98</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> CARGOS </td><td valign="top"> CLASSE </td><td valign="top"> VENCIMENTO </td></tr><tr><td rowspan="11" valign="top"> &nbsp; Técnico em Obras Públicas </td><td valign="top"> 1 </td><td valign="top"> 1.539,08 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> 1.623,73 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> 1.713,03 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> 1.807,25 </td></tr><tr><td valign="top"> 5 </td><td valign="top"> 1.906,65 </td></tr><tr><td valign="top"> 6 </td><td valign="top"> 2.011,52 </td></tr><tr><td valign="top"> 7 </td><td valign="top"> 2.122,15 </td></tr><tr><td valign="top"> 8 </td><td valign="top"> 2.238,87 </td></tr><tr><td valign="top"> 9 </td><td valign="top"> 2.362,01 </td></tr><tr><td valign="top"> 10 </td><td valign="top"> 2.491,92 </td></tr><tr><td valign="top"> 11 </td><td valign="top"> 2.628,98 </td></tr></tbody></table>
 
 ANEXO III
 
@@ -450,368 +138,104 @@ TABELA DE VENCIMENTOS
 
 CARREIRAS DE NÍVEL SUPERIOR
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:322.8pt;border-collapse:collapse" width="0"><tbody><tr style="height:13.75pt"><td style="width:159.3pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.75pt" valign="top" width="212"><p class="Tabela-Texto" style="margin-left:55.35pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black">CARGOS</span></p></td><td style="width:64.3pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.75pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-left:3.6pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black">CLASSE</span></p></td><td style="width:99.2pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.75pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-left:3.4pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black">VENCIMENTO</span></p></td></tr><tr style="height:13.8pt"><td rowspan="14" style="width:159.3pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="212"><p class="Tabela-Texto" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;font-weight:normal">&nbsp;</span></p><p class="Tabela-Texto" style="margin-left:59.3pt;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-33.0pt"><span style="color:black;
-  font-weight:normal">Especialista em Obras Públicas</span></p></td><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3.451,05</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3.709,89</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3.988,15</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4.287,27</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4.608,79</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4.954,46</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">7</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5.326,02</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">8</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5.725,48</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">9</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6.154,88</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">10</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6.616,53</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-left:3.6pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">11</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.85pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">7.112,76</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.25pt;margin-bottom:
-  3.0pt;margin-left:3.6pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">12</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">7.646,21</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-left:3.6pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">13</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">8.219,68</span></p></td></tr><tr style="height:13.8pt"><td style="width:64.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:13.8pt" valign="top" width="86"><p class="Tabela-Texto" style="margin-left:3.6pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">14</span></p></td><td style="width:99.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">8.836,16</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> CARGOS </td><td valign="top"> CLASSE </td><td valign="top"> VENCIMENTO </td></tr><tr><td rowspan="14" valign="top"> &nbsp; Especialista em Obras Públicas </td><td valign="top"> 1 </td><td valign="top"> 3.451,05 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> 3.709,89 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> 3.988,15 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> 4.287,27 </td></tr><tr><td valign="top"> 5 </td><td valign="top"> 4.608,79 </td></tr><tr><td valign="top"> 6 </td><td valign="top"> 4.954,46 </td></tr><tr><td valign="top"> 7 </td><td valign="top"> 5.326,02 </td></tr><tr><td valign="top"> 8 </td><td valign="top"> 5.725,48 </td></tr><tr><td valign="top"> 9 </td><td valign="top"> 6.154,88 </td></tr><tr><td valign="top"> 10 </td><td valign="top"> 6.616,53 </td></tr><tr><td valign="top"> 11 </td><td valign="top"> 7.112,76 </td></tr><tr><td valign="top"> 12 </td><td valign="top"> 7.646,21 </td></tr><tr><td valign="top"> 13 </td><td valign="top"> 8.219,68 </td></tr><tr><td valign="top"> 14 </td><td valign="top"> 8.836,16 </td></tr></tbody></table>
 
 CARREIRAS DE NÍVEL MÉDIO
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:299.25pt;border-collapse:collapse" width="0"><tbody><tr style="height:13.8pt"><td style="width:140.65pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="188"><p class="Tabela-Texto" style="margin-left:46.05pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black">CARGOS</span></p></td><td style="width:59.35pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="79"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.9pt;margin-bottom:
-  3.0pt;margin-left:3.3pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">CLASSE</span></p></td><td style="width:99.25pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-left:.55pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black">VENCIMENTO</span></p></td></tr><tr style="height:13.8pt"><td rowspan="11" style="width:140.65pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="188"><p class="Tabela-Texto" style="margin-left:49.9pt;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-23.65pt"><span style="color:black;
-  font-weight:normal">Técnico em Obras Públicas</span></p></td><td style="width:59.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="79"><p class="Tabela-Texto" style="margin-left:3.3pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">1</span></p></td><td style="width:99.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.600,64</span></p></td></tr><tr style="height:13.8pt"><td style="width:59.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="79"><p class="Tabela-Texto" style="margin-left:3.3pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">2</span></p></td><td style="width:99.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.688,68</span></p></td></tr><tr style="height:13.8pt"><td style="width:59.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="79"><p class="Tabela-Texto" style="margin-left:3.3pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">3</span></p></td><td style="width:99.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.781,55</span></p></td></tr><tr style="height:13.8pt"><td style="width:59.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="79"><p class="Tabela-Texto" style="margin-left:3.3pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">4</span></p></td><td style="width:99.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.879,54</span></p></td></tr><tr style="height:13.8pt"><td style="width:59.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="79"><p class="Tabela-Texto" style="margin-left:3.3pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">5</span></p></td><td style="width:99.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">1.982,92</span></p></td></tr><tr style="height:13.8pt"><td style="width:59.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="79"><p class="Tabela-Texto" style="margin-left:3.3pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">6</span></p></td><td style="width:99.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.091,98</span></p></td></tr><tr style="height:13.8pt"><td style="width:59.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="79"><p class="Tabela-Texto" style="margin-left:3.3pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">7</span></p></td><td style="width:99.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.207,04</span></p></td></tr><tr style="height:13.8pt"><td style="width:59.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="79"><p class="Tabela-Texto" style="margin-left:3.3pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">8</span></p></td><td style="width:99.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.328,42</span></p></td></tr><tr style="height:13.8pt"><td style="width:59.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="79"><p class="Tabela-Texto" style="margin-left:3.3pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">9</span></p></td><td style="width:99.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.456,49</span></p></td></tr><tr style="height:13.8pt"><td style="width:59.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="79"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.9pt;margin-bottom:
-  3.0pt;margin-left:3.3pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">10</span></p></td><td style="width:99.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.591,60</span></p></td></tr><tr style="height:13.8pt"><td style="width:59.35pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="79"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.65pt;margin-bottom:
-  3.0pt;margin-left:3.3pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">11</span></p></td><td style="width:99.25pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="132"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.1pt;margin-bottom:
-  3.0pt;margin-left:.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2.734,14</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> CARGOS </td><td valign="top"> CLASSE </td><td valign="top"> VENCIMENTO </td></tr><tr><td rowspan="11" valign="top"> Técnico em Obras Públicas </td><td valign="top"> 1 </td><td valign="top"> 1.600,64 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> 1.688,68 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> 1.781,55 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> 1.879,54 </td></tr><tr><td valign="top"> 5 </td><td valign="top"> 1.982,92 </td></tr><tr><td valign="top"> 6 </td><td valign="top"> 2.091,98 </td></tr><tr><td valign="top"> 7 </td><td valign="top"> 2.207,04 </td></tr><tr><td valign="top"> 8 </td><td valign="top"> 2.328,42 </td></tr><tr><td valign="top"> 9 </td><td valign="top"> 2.456,49 </td></tr><tr><td valign="top"> 10 </td><td valign="top"> 2.591,60 </td></tr><tr><td valign="top"> 11 </td><td valign="top"> 2.734,14 </td></tr></tbody></table>
 
 ANEXO IV
 
 QUANTITATIVO DE CARGOS INTEGRANTES DAS CARREIRAS
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:437.45pt;border-collapse:collapse" width="0"><tbody><tr style="height:41.35pt"><td style="width:118.8pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" valign="top" width="158"><p class="Tabela-Texto" style="margin-left:25.15pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black">CARREIRAS</span></p></td><td style="width:125.6pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" valign="top" width="167"><p class="Tabela-Texto" style="margin-left:27.2pt;text-align:justify;
-  text-justify:inter-ideograph;text-indent:-10.7pt"><span style="color:black">QUANTITATIVO DE CARGOS</span></p></td><td style="width:113.85pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" valign="top" width="152"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.45pt;margin-bottom:
-  3.0pt;margin-left:4.0pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">QUANTITATIVO DE CARGOS NA CLASSE I</span></p></td><td style="width:79.2pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" valign="top" width="106"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.15pt;margin-bottom:
-  3.0pt;margin-left:3.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">LOTAÇÃO</span></p></td></tr><tr style="height:41.35pt"><td rowspan="3" style="width:118.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="158"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:21.25pt;
-  margin-bottom:3.0pt;margin-left:23.25pt;text-align:justify;text-justify:inter-ideograph;
-  text-indent:-1.45pt"><span style="color:black;font-weight:normal">Especialista em Obras Públicas</span></p></td><td style="width:125.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="167"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.15pt;margin-bottom:
-  3.0pt;margin-left:3.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">160</span></p></td><td style="width:113.85pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="152"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.55pt;margin-bottom:
-  3.0pt;margin-left:4.0pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">55</span></p></td><td style="width:79.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="106"><p class="Tabela-Texto" style="margin-left:3.5pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">SEINFRA</span></p></td></tr><tr style="height:41.35pt"><td style="width:125.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="167"><p class="Tabela-Texto" style="margin-left:3.5pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">60</span></p></td><td style="width:113.85pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="152"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.7pt;margin-bottom:
-  3.0pt;margin-left:4.0pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">25</span></p></td><td style="width:79.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="106"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.05pt;margin-bottom:
-  3.0pt;margin-left:3.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">SEDUR</span></p></td></tr><tr style="height:41.35pt"><td style="width:125.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="167"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.15pt;margin-bottom:
-  3.0pt;margin-left:3.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">120</span></p></td><td style="width:113.85pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="152"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.55pt;margin-bottom:
-  3.0pt;margin-left:4.0pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">50</span></p></td><td style="width:79.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="106"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.2pt;margin-bottom:
-  3.0pt;margin-left:3.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">SAEB</span></p></td></tr><tr style="height:41.35pt"><td rowspan="3" style="width:118.8pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:41.35pt" width="158"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:15.0pt;margin-bottom:
-  3.0pt;margin-left:38.95pt;text-align:justify;text-justify:inter-ideograph;
-  text-indent:-23.65pt"><span style="color:black;font-weight:normal">Técnico em Obras Públicas</span></p></td><td style="width:125.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="167"><p class="Tabela-Texto" style="margin-left:3.5pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">120</span></p></td><td style="width:113.85pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="152"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.55pt;margin-bottom:
-  3.0pt;margin-left:4.0pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">40</span></p></td><td style="width:79.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="106"><p class="Tabela-Texto" style="margin-left:3.5pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">SEINFRA</span></p></td></tr><tr style="height:41.35pt"><td style="width:125.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="167"><p class="Tabela-Texto" style="margin-left:3.5pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black;font-weight:normal">40</span></p></td><td style="width:113.85pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="152"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.7pt;margin-bottom:
-  3.0pt;margin-left:4.0pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">15</span></p></td><td style="width:79.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="106"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.05pt;margin-bottom:
-  3.0pt;margin-left:3.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">SEDUR</span></p></td></tr><tr style="height:41.35pt"><td style="width:125.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="167"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.15pt;margin-bottom:
-  3.0pt;margin-left:3.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">80</span></p></td><td style="width:113.85pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="152"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.55pt;margin-bottom:
-  3.0pt;margin-left:4.0pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">40</span></p></td><td style="width:79.2pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:41.35pt" width="106"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.2pt;margin-bottom:
-  3.0pt;margin-left:3.5pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">SAEB</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> CARREIRAS </td><td valign="top"> QUANTITATIVO DE CARGOS </td><td valign="top"> QUANTITATIVO DE CARGOS NA CLASSE I </td><td valign="top"> LOTAÇÃO </td></tr><tr><td rowspan="3"> Especialista em Obras Públicas </td><td> 160 </td><td> 55 </td><td> SEINFRA </td></tr><tr><td> 60 </td><td> 25 </td><td> SEDUR </td></tr><tr><td> 120 </td><td> 50 </td><td> SAEB </td></tr><tr><td rowspan="3"> Técnico em Obras Públicas </td><td> 120 </td><td> 40 </td><td> SEINFRA </td></tr><tr><td> 40 </td><td> 15 </td><td> SEDUR </td></tr><tr><td> 80 </td><td> 40 </td><td> SAEB </td></tr></tbody></table>
 
 ANEXO V
 
 TABELA DE DESENVOLVIMENTO NA CARREIRA
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:296.5pt;border-collapse:collapse" width="0"><tbody><tr style="height:13.75pt"><td style="width:72.4pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.75pt" valign="top" width="97"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:.05pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black">CLASSES</span></p></td><td style="width:122.05pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.75pt" valign="top" width="163"><p class="Tabela-Texto" style="margin-left:3.25pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black">NÍVEL SUPERIOR</span></p></td><td style="width:102.05pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.75pt" valign="top" width="136"><p class="Tabela-Texto" style="margin-left:3.4pt;text-align:justify;text-justify:
-  inter-ideograph"><span style="color:black">NÍVEL MÉDIO</span></p></td></tr><tr style="height:13.75pt"><td style="width:72.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.75pt" valign="top" width="97"><p class="Tabela-Texto" style="margin-left:3.55pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">2</span></p></td><td style="width:122.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.75pt" valign="top" width="163"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.25pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">85%</span></p></td><td style="width:102.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.75pt" valign="top" width="136"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.05pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">85%</span></p></td></tr><tr style="height:13.8pt"><td style="width:72.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="97"><p class="Tabela-Texto" style="margin-left:3.55pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">3</span></p></td><td style="width:122.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="163"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.25pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">85%</span></p></td><td style="width:102.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="136"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.05pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">85%</span></p></td></tr><tr style="height:13.8pt"><td style="width:72.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="97"><p class="Tabela-Texto" style="margin-left:3.55pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">4</span></p></td><td style="width:122.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="163"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.25pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">85%</span></p></td><td style="width:102.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="136"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.05pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">85%</span></p></td></tr><tr style="height:13.8pt"><td style="width:72.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="97"><p class="Tabela-Texto" style="margin-left:3.55pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">5</span></p></td><td style="width:122.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="163"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.25pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">80%</span></p></td><td style="width:102.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="136"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.05pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">80%</span></p></td></tr><tr style="height:13.8pt"><td style="width:72.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="97"><p class="Tabela-Texto" style="margin-left:3.55pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">6</span></p></td><td style="width:122.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="163"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.25pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">80%</span></p></td><td style="width:102.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="136"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.05pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">80%</span></p></td></tr><tr style="height:13.8pt"><td style="width:72.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="97"><p class="Tabela-Texto" style="margin-left:3.55pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">7</span></p></td><td style="width:122.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="163"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.25pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">80%</span></p></td><td style="width:102.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="136"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.05pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">75%</span></p></td></tr><tr style="height:13.8pt"><td style="width:72.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="97"><p class="Tabela-Texto" style="margin-left:3.55pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">8</span></p></td><td style="width:122.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="163"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.25pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">75%</span></p></td><td style="width:102.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="136"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.05pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">70%</span></p></td></tr><tr style="height:13.8pt"><td style="width:72.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="97"><p class="Tabela-Texto" style="margin-left:3.55pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">9</span></p></td><td style="width:122.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="163"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.25pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">75%</span></p></td><td style="width:102.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="136"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.05pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">65%</span></p></td></tr><tr style="height:13.8pt"><td style="width:72.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="97"><p class="Tabela-Texto" style="margin-left:3.55pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">10</span></p></td><td style="width:122.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="163"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.25pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">75%</span></p></td><td style="width:102.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="136"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.05pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">65%</span></p></td></tr><tr style="height:13.8pt"><td style="width:72.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="97"><p class="Tabela-Texto" style="margin-left:3.55pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">11</span></p></td><td style="width:122.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="163"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.25pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">70%</span></p></td><td style="width:102.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="136"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.05pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">65%</span></p></td></tr><tr style="height:13.8pt"><td style="width:72.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="97"><p class="Tabela-Texto" style="margin-left:3.55pt;text-align:justify;
-  text-justify:inter-ideograph"><span style="color:black;font-weight:normal">12</span></p></td><td style="width:122.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="163"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.25pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">70%</span></p></td><td style="width:102.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="136"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.05pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">-</span></p></td></tr><tr style="height:13.8pt"><td style="width:72.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="97"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.15pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">13</span></p></td><td style="width:122.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="163"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.25pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">70%</span></p></td><td style="width:102.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="136"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.05pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">-</span></p></td></tr><tr style="height:13.8pt"><td style="width:72.4pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="97"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.15pt;margin-bottom:
-  3.0pt;margin-left:3.55pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">14</span></p></td><td style="width:122.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="163"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:2.95pt;margin-bottom:
-  3.0pt;margin-left:3.25pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">70%</span></p></td><td style="width:102.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:13.8pt" valign="top" width="136"><p class="Tabela-Texto" style="margin-top:3.0pt;margin-right:3.05pt;margin-bottom:
-  3.0pt;margin-left:3.4pt;text-align:justify;text-justify:inter-ideograph"><span style="color:black;font-weight:normal">-</span></p></td></tr></tbody></table>
+CLASSES
+
+NÍVEL SUPERIOR
+
+NÍVEL MÉDIO
+
+2
+
+85%
+
+85%
+
+3
+
+85%
+
+85%
+
+4
+
+85%
+
+85%
+
+5
+
+80%
+
+80%
+
+6
+
+80%
+
+80%
+
+7
+
+80%
+
+75%
+
+8
+
+75%
+
+70%
+
+9
+
+75%
+
+65%
+
+10
+
+75%
+
+65%
+
+11
+
+70%
+
+65%
+
+12
+
+70%
+
+-
+
+13
+
+70%
+
+-
+
+14
+
+70%
+
+-
 
 (\*) O resultado da aplicação do percentual deve ser arredondado para o número inteiro imediatamente superior.

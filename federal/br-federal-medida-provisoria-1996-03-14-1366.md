@@ -1,7 +1,3 @@
-1
-
-###MPV-001366-0-000-14-03-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.366, DE 14 DE MARÇO DE 1996.
 
 Altera a redação do § 4º do art. 49 da Lei nº 9.082, de 25 de julho de 1995, que dispõe sobre as diretrizes para elaboração da lei orçamentária de 1996.

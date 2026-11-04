@@ -1,7 +1,3 @@
-1
-
-###MPV-001052-0-000-29-06-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.052, DE 29 DE JUNHO DE 1995.
 
 Dispõe sobre a aplicação da Taxa de Juros de Longo Prazo - TJLP sobre empréstimos concedidos com recursos dos Fundos Constitucionais de Financiamento das Regiões Norte, Nordeste e Centro-Oeste e dos Fundos de Investimentos do Nordeste e da Amazônia e do Fundo de Recuperação Econômica do Estado do Espírito Santo, e dá outras providências.

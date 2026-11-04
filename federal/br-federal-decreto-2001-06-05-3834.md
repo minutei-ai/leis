@@ -1,5 +1,3 @@
-###DEC-003834-0-000-05-06-2001@@@
-
 DECRETO Nº 3.834, DE 5 DE JUNHO DE 2001
 
 Regulamenta o art. 55 da Lei nº 9.985, de 18 de julho de 2000, que institui o Sistema Nacional de Unidades de Conservação da Natureza, e delega competência ao Ministro de Estado do Meio Ambiente para a prática do ato que menciona, e dá outras providências.

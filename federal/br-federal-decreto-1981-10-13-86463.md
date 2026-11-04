@@ -1,5 +1,3 @@
-###DEC-086463-0-000-13-10-1981@@@
-
 Decreto nº 86.463, de 13 de outubro de 1981.
 
 Altera o Decreto nº 41.019, de 26 de fevereiro de 1957, que regulamenta os serviços de energia elétrica, e o Decreto nº 62.724, de 17 de maio de 1968, que estabelece normas gerais de tarifação para as empresas concessionárias de serviços públicos de energia elétrica, e dá outras providências.

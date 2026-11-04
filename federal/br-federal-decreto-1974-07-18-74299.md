@@ -1,5 +1,3 @@
-###DEC-074299-0-000-18-07-1974@@@
-
 DECRETO Nº 74.299 - DE 18 DE JULHO DE 1974.
 
 Dispõe sobre a Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES) e dá outras providências.

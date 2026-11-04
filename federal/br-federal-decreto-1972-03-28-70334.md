@@ -1,5 +1,3 @@
-###DEC-070334-0-000-28-03-1972@@@
-
 DECRETO Nº 70.334, DE 28 de MARÇO DE 1972.
 
 Regulamenta a aplicação da Convenção nº 113, da Organização Internacional do Trabalho, sobre exame médico dos pescadores.

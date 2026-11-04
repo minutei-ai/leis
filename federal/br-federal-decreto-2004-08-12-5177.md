@@ -1,5 +1,3 @@
-###DEC-005177-0-000-12-08-2004@@@
-
 DECRETO Nº 5.177 DE 12 DE AGOSTO DE 2004
 
 Regulamenta os arts. 4o e 5o da Lei nº 10.848, de 15 de março de 2004, e dispõe sobre a organização, as atribuições e o funcionamento da Câmara de Comercialização de Energia Elétrica \- CCEE.

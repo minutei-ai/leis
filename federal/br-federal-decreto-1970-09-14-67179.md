@@ -1,5 +1,3 @@
-###DEC-067179-0-000-14-09-1970@@@
-
 Decreto nº 67.179, de 14 de setembro de 1970.
 
 Concede reconhecimento à Escola Superior de Artes "Santa Cecília", de Cachoeira do Sul, RS.

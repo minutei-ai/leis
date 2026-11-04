@@ -1,5 +1,3 @@
-###DEC-058476-0-000-19-05-1966@@@
-
 DECRETO Nº 58.476, DE 19 DE MAIO DE 1966.
 
 Abre pelo Ministério da Viação e Obras Públicas os créditos especiais de Cr$4.377.318.000 e Cr$2.000.000.000, num total de Cr$6.377.318.000, para o fim que específica.

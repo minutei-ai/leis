@@ -1,5 +1,3 @@
-###DEC-097473-0-000-24-01-1989@@@
-
 DECRETO N° 97.473, DE 24 DE JANEIRO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S/A - PETROBRÁS, os imóveis constituídos de terras e benfeitorias, situados nos Municípios de São Francisco do Conde e Salvador, no Estado da Bahia, necessários à ampliação da Refinaria Landulpho Alves - RLAM e do Terminal Marítimo Almirante Alves Câmara - TEMADRE e à construção de novas unidades industriais de processamento, de refino e de tancagem, e de acesso.

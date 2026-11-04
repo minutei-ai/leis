@@ -1,5 +1,3 @@
-###DEC-073689-0-000-22-02-1974@@@
-
 DECRETO Nº 73.689, DE 22 DE FEVEREIRO DE 1974.
 
 "Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situação no Município de Ubatuba, Estado de São Paulo."

@@ -1,5 +1,3 @@
-###DEL-003271-0-000-15-05-1941@@@
-
 DECRETO-LEI N. 3.271 – DE 15 DE MAIO DE 1941
 
 Prorroga, no Estado do Rio Grande do Sul, o prazo do art. 179 da lei de sociedades por ações.

@@ -1,5 +1,3 @@
-###DEC-086098-0-000-10-06-1981@@@
-
 Decreto nº 86.098, de 10 de junho de 1981
 
 Autoriza o aumento do Capital Social das Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

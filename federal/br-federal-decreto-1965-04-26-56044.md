@@ -1,5 +1,3 @@
-###DEC-056044-0-000-26-04-1965@@@
-
 DECRETO Nº 56.044, DE 26 DE ABRIL de 1965.
 
 Autoriza o cidadão brasileiro Francisco Altamirano de Barros a lavrar minério de ferro e caulim, no município de Rio Piracicaba, Estado de Minas Gerais.

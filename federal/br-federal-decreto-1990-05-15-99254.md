@@ -1,7 +1,3 @@
-1
-
-###DEC-099254-0-000-15-05-1990@@@
-
 DECRETO Nº 99.254, DE 15 DE MAIO DE 1990
 
 Dá nova redação aos artigos 2º, 3º e 6º, do Decreto nº 97.314, de 11 de outubro de 1988, e dá outras providências.

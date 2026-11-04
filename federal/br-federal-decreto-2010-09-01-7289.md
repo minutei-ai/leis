@@ -1,5 +1,3 @@
-###DEC-007289-0-000-01-09-2010-PUB-01@@@
-
 DECRETO Nº 7.289, DE 1º DE SETEMBRO DE 2010.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1.893, de 29 de outubro de 2009, do Conselho de Segurança das Nações Unidas, que renova o regime de sanções contra a República da Costa do Marfim.  

@@ -1,5 +1,3 @@
-###DEC-069050-0-000-11-08-1971@@@
-
 DECRETO Nº 69.050, DE 11 DE AGôSTO DE 1971.
 
 Exclui servidores do relacionamento da disponibilidade constante da Portaria Ministerial nº 2.189, de 7 de outubro de 1969, do Ministério das Minas e Energia, e dá outras providências.

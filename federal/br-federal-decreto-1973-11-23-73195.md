@@ -1,5 +1,3 @@
-###DEC-073195-0-000-23-11-1973@@@
-
 DECRETO Nº 73.195 - DE 23 de Novembro de 1973
 
 Concede a Minérios Metalúrgicos do Nordeste S.A. o direito de lavrar minério de manganês no Município de Ipupiara, Estado da Bahia.

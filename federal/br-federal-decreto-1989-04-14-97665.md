@@ -1,7 +1,3 @@
-1
-
-###DEC-097665-0-000-14-04-1989@@@
-
 DECRETO N° 97.665, DE 14 DE ABRIL DE 1989
 
 Autoriza o funcionamento do curso de Ciências Econômicas da Faculdade de Ciências Econômicas de Colatina, Espírito Santo.

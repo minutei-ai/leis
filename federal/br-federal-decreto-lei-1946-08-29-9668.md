@@ -1,5 +1,3 @@
-###DEL-009668-0-000-29-08-1946@@@
-
 DECRETO-LEI N. 9.668 – DE 29 DE AGÔSTO DE 1946
 
 Dispõe sôbre a execução de serviços radiotelefônicos público interior e público restrito interior pela Companhia Rádio Internacional do Brasil.

@@ -1,5 +1,3 @@
-###DEL-008106-0-000-18-10-1945@@@
-
 DECRETO-LEI N. 8.106 – DE 18 DE OUTUBRO DE 1945
 
 Suspende até 31 de dezembro do corrente ano a cobrança dos direitos de importação para consumo e demais taxas aduaneiras que incidem sôbre a penicilina e dá outras providências.

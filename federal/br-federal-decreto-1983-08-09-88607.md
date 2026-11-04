@@ -1,5 +1,3 @@
-###DEC-088607-0-000-09-08-1983@@@
-
 # Decreto nº 88.607, de 09 de agosto de 1983
 
 Cria o Distrito Florestal-Industrlal do Jari, localizado entre o Estado do Pará e o Território Federal do Amapá, com os limites que especifica.

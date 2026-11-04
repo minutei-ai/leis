@@ -1,5 +1,3 @@
-###DEC-046788-0-000-03-09-1959@@@
-
 Decreto nº 46.788, de 3 de setembro de 1959.
 
 Aprova alterações introduzidas nos estatutos da “A Independência” Companhia de Seguros Gerais.

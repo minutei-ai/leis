@@ -1,5 +1,3 @@
-###DEC-050065-0-000-25-01-1961@@@
-
 DECRETO Nº 50.065, DE 25 DE JANEIRO DE 1961.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.

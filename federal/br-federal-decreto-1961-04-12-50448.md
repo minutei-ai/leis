@@ -1,5 +1,3 @@
-###DEC-050448-0-000-12-04-1961@@@
-
 Decreto Nº 50.448, DE 12 DE ABRIL DE 1961.
 
 Concede autorização para o funcionamento de cursos.

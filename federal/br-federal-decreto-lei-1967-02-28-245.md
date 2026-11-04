@@ -1,5 +1,3 @@
-###DEL-000245-0-000-28-02-1967@@@
-
 DECRETO-LEI N 245, DE 28 DE FEVEREIRO DE 1967
 
 Transforma o Colégio Pedro II em autarquia e dá outras providências.

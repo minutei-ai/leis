@@ -1,5 +1,3 @@
-###DEC-004596-0-000-17-02-2003@@@
-
 DECRETO Nº 4.596, DE 17 DE FEVEREIRO DE 2003.
 
 Dispõe sobre o Sistema de Acompanhamento Legislativo - SIAL e dá outras providências.

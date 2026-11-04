@@ -60,7 +60,7 @@ QUADRO 2
 | 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS | R$ 879.875,00 |
 | 17990164 - OUTRAS VINCULAÇÕES LEGAIS - CONTRIBUIÇÃO PRODUZIR | R$ 241.000,00 |
 
-<table><thead></thead><tbody><tr><td style="text-align:right"><strong>TOTAL</strong></td><td style="text-align:right">R$ 1.120.875,00</td></tr></tbody></table>
+<table><thead></thead><tbody><tr><td style="text-align:right">**TOTAL**</td><td style="text-align:right">R$ 1.120.875,00</td></tr></tbody></table>
 
 | **TOTAL POR FONTE** |
 | --- |

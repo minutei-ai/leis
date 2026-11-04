@@ -1,5 +1,3 @@
-###DEC-096258-0-000-30-06-1988@@@
-
 DECRETO N° 96.258, DE 30 DE JUNHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA CAMBOINHA” ou “CONJUNTO JERIBUCASSU”, classificado como “latifúndio por exploração”, situado no Município de Itacaré, no Estado da Bahia, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92,689, de 19 de maio de 1986 e dá outras providencias.

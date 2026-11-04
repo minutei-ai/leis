@@ -1,5 +1,3 @@
-###DEC-050093-0-000-25-01-1961@@@
-
 DECRETO Nº 50.093, DE 25 DE JANEIRO DE 1961.
 
 Outorga concessão à Rádio Clube de Lages Sociedade Anônima para estabelecer uma estação de radiotelevisão.

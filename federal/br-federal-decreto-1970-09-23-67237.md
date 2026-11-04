@@ -1,5 +1,3 @@
-###DEC-067237-0-000-23-09-1970@@@
-
 decreto nº 67.237, de 23 de setembro de 1970.
 
 Declara de utilidade pública a Santa Casa da Misericórdia Dr. Zacarias, com sede em dores do Indaiá, Estado de Minas Gerais.

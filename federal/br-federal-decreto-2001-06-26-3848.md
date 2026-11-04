@@ -1,5 +1,3 @@
-###DEC-003848-0-000-26-06-2001@@@
-
 DECRETO Nº 3.848, DE 26 DE JUNHO DE 2001
 
 Aprova o Estatuto Social da Empresa Gestora de Ativos ‑ EMGEA.

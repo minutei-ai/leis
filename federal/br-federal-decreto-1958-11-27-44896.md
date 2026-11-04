@@ -1,5 +1,3 @@
-###DEC-044896-0-000-27-11-1958@@@
-
 DECRETO Nº 44.896, DE 27 DE NOVEMBRO DE 1958.
 
 Autoriza o Serviço de Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Caeté, no Estado de Minas Gerais.

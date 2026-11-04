@@ -1,5 +1,3 @@
-###DEC-079566-0-000-20-04-1977@@@
-
 DECRETO Nº 79.566, DE 20 DE ABRIL DE 1977.
 
 Concede à Cia. de Cimento Portland  Rio Branco o direito de lavrar calcário no Município de Rio Branco do Sul, Estado do Paraná.

@@ -1,10 +1,8 @@
-###DEC-041783-0-000-05-07-1957@@@
+**DECRETO Nº 41.783, DE 5 DE JULHO DE 1957.**
 
-<strong>DECRETO Nº 41.783, DE 5 DE JULHO DE 1957.</strong>
+***Dispõe sôbre a administração temporária, pelo Govêrno federal, da Viação Férrea do Rio Grande do Sul.***
 
-<em><strong>Dispõe sôbre a administração temporária, pelo Govêrno federal, da Viação Férrea do Rio Grande do Sul.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe são conferidas pelo art. 87, nº I da Constituição Federal, e tendo em vista o disposto nas cláusulas XII do contrato de 18-4-1922; IV do contrato de 31 de dezembro de 1928 e XVI do contrato de 17-8-1950, todos celebrados entre os Governos Federal e do Estrado do Rio Grande do Sul, relativamente ao arrendamento da Viação Férrea do Rio Grande do Sul; e
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe são conferidas pelo art. 87, nº I da Constituição Federal, e tendo em vista o disposto nas cláusulas XII do contrato de 18-4-1922; IV do contrato de 31 de dezembro de 1928 e XVI do contrato de 17-8-1950, todos celebrados entre os Governos Federal e do Estrado do Rio Grande do Sul, relativamente ao arrendamento da Viação Férrea do Rio Grande do Sul; e
 
 CONSIDERANDO:
 
@@ -22,13 +20,13 @@ f) os direitos que cabem ao Govêrno Federal como proprietário da Viação Fér
 
 g) as solicitações do Governador do Estado do Rio Grande do Sul.
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º O Govêrno Federal assume temporàriamente a administração da Viação Férrea do Rio Grande do Sul mediante a designação de Administrador nomeado por ato do Presidente da República.
+**Art**. 1º O Govêrno Federal assume temporàriamente a administração da Viação Férrea do Rio Grande do Sul mediante a designação de Administrador nomeado por ato do Presidente da República.
 
-<strong>Art</strong>. 2º O Administrador nomeado ocupará, imediatamente, a Viação Férrea do Rio Grande do Sul o Tomará tôdas as providências necessárias para o restabelecimento e manutenção regular do tráfego.
+**Art**. 2º O Administrador nomeado ocupará, imediatamente, a Viação Férrea do Rio Grande do Sul o Tomará tôdas as providências necessárias para o restabelecimento e manutenção regular do tráfego.
 
-<strong>Art</strong>. 3º O Ministério da Viação e Obras Públicas expedirá instruções:
+**Art**. 3º O Ministério da Viação e Obras Públicas expedirá instruções:
 
 a) sôbre o recebimento da estrada do Estado do Rio Grande do Sul pelo Administrador Federal;
 
@@ -36,11 +34,11 @@ b) sôbre a organização da administração da estrada enquanto ocupada pelo Go
 
 Parágrafo único. Enquanto não forem expedidas essa instruções, competirão ao Administrador Federal no que couber, as atribuições do Diretor-Presidente e do Conselho Diretor da Viação Férrea do Rio Grande do Sul.
 
-<strong>Art</strong>. 4º As autoridades militares federais darão tôda a assistência ao Administrador Federal da estrada para defesa dos seus bens e manutenção da ordem em tôda a extensão da linha, de modo a assegurar o tráfego.
+**Art**. 4º As autoridades militares federais darão tôda a assistência ao Administrador Federal da estrada para defesa dos seus bens e manutenção da ordem em tôda a extensão da linha, de modo a assegurar o tráfego.
 
 Rio de Janeiro, 5 de julho de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Lucio Meira
 

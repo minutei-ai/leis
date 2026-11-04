@@ -1,7 +1,3 @@
-1
-
-###DEC-097892-0-000-30-06-1989@@@
-
 DECRETO N° 97.892, DE 30 DE JUNHO DE 1989
 
 Dispõe sobre aumento do capital social da EMBRAER - Empresa Brasileira de Aeronáutica S.A.

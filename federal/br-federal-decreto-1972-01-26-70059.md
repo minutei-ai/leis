@@ -1,5 +1,3 @@
-###DEC-070059-0-000-26-01-1972@@@
-
 DECRETO Nº 70.059, DE 26 DE JANEIRO DE 1972.
 
 Concede à Companhia Brasileira de Alumínio o direito de lavrar bauxita, no Município de Poços de Caldas, Estado de Minas Gerais.

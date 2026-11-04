@@ -1,5 +1,3 @@
-###DEC-046097-0-000-19-05-1959@@@
-
 Decreto nº 46.097, de 19 de maio de 1959.
 
 Transfere da Emprêsa Fluminense de Energia Elétrica S/A., para o Govêrno do Estado do Rio de Janeiro a concessão para produção e fornecimento de energia elétrica ao município de Silva Jardim, Estado do Rio de Janeiro.

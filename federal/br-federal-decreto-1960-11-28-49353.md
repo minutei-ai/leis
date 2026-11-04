@@ -1,5 +1,3 @@
-###DEC-049353-0-000-28-11-1960@@@
-
 DECRETO Nº 49.353, DE 28 DE NOVEMBRO DE 1960.
 
 Dá nova redação ao art. 27 do Regulamento aprovado pelo Decreto nº 5.739, de 29 de março de 1940.

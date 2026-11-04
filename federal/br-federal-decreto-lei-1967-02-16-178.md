@@ -1,5 +1,3 @@
-###DEL-000178-0-000-16-02-1967@@@
-
 DECRETO-LEI Nº 178, DE 16 DE FEvEREIRO DE 1967
 
 Dispõe sôbre a cessão de imóveis da União Federal para as finalidades que especifica.

@@ -1,5 +1,3 @@
-###DEC-056928-0-000-01-10-1965@@@
-
 DECRETO Nº 56.928, DE 1º DE OUTUBRO DE 1965.
 
 Autoriza a Emprêsa Acaiaca - Emac S.A., a pesquisar ouro e diamante nos municípios de Diamantina e Bocaiúva, Estado de Minas Gerais.

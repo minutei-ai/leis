@@ -1,5 +1,3 @@
-###DEL-009015-0-000-23-02-1946@@@
-
 DECRETO-LEI N. 9.015 – DE 23 DE FEVEREIRO DE 1946
 
 Cômputo de tempo, de serviço para efeito de inatividade.

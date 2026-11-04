@@ -1,5 +1,3 @@
-###DEC-064502-0-000-14-05-1969@@@
-
 DECRETO Nº 64.502, DE 14 DE MAIO DE 1969.
 
 Declara a cessação de privilégio de exploração de que é titular a Companhia Sul Mineira de Eletricidade, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055360-0-000-31-12-1964@@@
-
 Decreto nº 55.360, de 31 de dezembro de 1964.
 
 Revoga a concessão outorgada ao Estado do Paraná pelo Decreto número 50.768, de 9 de junho de 1961.

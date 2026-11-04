@@ -1,5 +1,3 @@
-###DEC-077772-0-000-08-06-1976@@@
-
 DECRETO Nº 77.772, DE 8 DE JUNHO DE 1976.
 
 Autoriza a alienação de imóvel que menciona, situado na Cidade e Estado do Rio de Janeiro.

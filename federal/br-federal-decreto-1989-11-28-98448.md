@@ -1,7 +1,3 @@
-1
-
-###DEC-098448-0-000-28-11-1989@@@
-
 DECRETO Nº 98.448, DE 28 DE NOVEMBRO DE 1989
 
 Cria Comissão Interministerial para o fim que indica, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-009263-0-000-17-05-1946@@@
-
 DECRETO-LEI N. 9.263 – DE 17 DE MAIO DE 1946
 
 Transfere para a cidade de Bauru a sede da Diretoria Regional dos Correios e Telégrafos localizada em Botucatu, no Estado de São Paulo, passando esta a denominar-se Agência Postal-Telegráfica de Botucatu.

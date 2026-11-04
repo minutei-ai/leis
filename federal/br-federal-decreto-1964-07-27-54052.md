@@ -1,5 +1,3 @@
-###DEC-054052-0-000-27-07-1964@@@
-
 DECRETO Nº 54.052, DE 27 DE JULHO DE 1964.
 
 Autoriza os Chefes das Missões Diplomáticas e Repartições Consulares do Ministério das Relações Exteriores a admitir pessoal no exterior, na forma do art. 44 da Lei nº 3.917, de 1961.

@@ -1,5 +1,3 @@
-###DEC-048051-0-000-06-04-1960@@@
-
 decreto nº 48.051, de 6 de abril de 1960.
 
 Concede à sociedade Navegação Sul Paulista Limitada autorização para funcionar como emprêsa de navegação de cabotagem.

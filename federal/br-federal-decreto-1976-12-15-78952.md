@@ -1,5 +1,3 @@
-###DEC-078952-0-000-15-12-1976@@@
-
 Decreto nº 78.952, de 15 de dezembro de 1976.
 
 Autoriza o funcionamento do curso de Medicina, da faculdade de Ciências Médicas de Nova Iguaçu, com sede na cidade de Nova Iguaçu, Estado do Rio de Janeiro.

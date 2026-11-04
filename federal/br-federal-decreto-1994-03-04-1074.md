@@ -1,7 +1,3 @@
-1
-
-###DEC-001074-0-000-04-03-1994@@@
-
 DECRETO N° 1.074, DE 4 DE MARÇO DE 1994
 
 Promulga o Acordo, por troca de Notas, que Modifica o Convênio sobre Transporte Marítimo, entre o Governo da República Federativa do Brasil e o Governo da República do Chile, de 10 de outubro de 1980.

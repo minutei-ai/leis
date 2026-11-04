@@ -1,5 +1,3 @@
-###DEC-073313-0-000-17-12-1973@@@
-
 DECRETO Nº 73.313 - DE 17 DE DEZEMBRO DE 1973
 
 Redistribui cargo, com o respectivo ocupante, do Quadro de Pessoal do Ministério dos Transportes para o do Ministério da Educação e Cultura, e dá outras providências.

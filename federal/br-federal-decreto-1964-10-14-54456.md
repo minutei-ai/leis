@@ -1,5 +1,3 @@
-###DEC-054456-0-000-14-10-1964@@@
-
 DECRETO Nº 54.456, DE 14 DE OUTUBRO DE 1964.
 
 Autoriza a emprêsa de mineração Esmeraldas de Conquista Ltda. a pesquisar córindon, no município de Vitória da Conquista, Estado da Bahia.

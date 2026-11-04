@@ -1,7 +1,3 @@
-1
-
-###DEC-095593-0-000-05-01-1988@@@
-
 DECRETO N° 95.593, DE 5 DE JANEIRO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à formação do reservatório da Usina Hidrelétrica do Pinhalzinho da Centrais Elétricas de Carazinho S.A. - ELETROCAR, no Estado do Rio Grande do Sul.

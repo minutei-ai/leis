@@ -1,5 +1,3 @@
-###DEC-055339-0-000-31-12-1964@@@
-
 DECRETO Nº 55.339, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza Mármores Itabirito Ltda. a pesquisar bauxita e argila no município de Itabirito, Estado de Minas Gerais.

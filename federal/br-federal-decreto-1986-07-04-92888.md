@@ -1,5 +1,3 @@
-###DEC-092888-0-000-04-07-1986@@@
-
 DECRETO Nº 92.888, DE 4 DE JULHO DE 1986
 
 Outorga concessão à RÁDIO MIRANTE DO MARANHÃO LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Imperatriz, Estado do Maranhão.

@@ -1,5 +1,3 @@
-###DEC-049964-0-000-20-01-1961@@@
-
 DECRETO N° 49.964, de 20 de janeiro de 1961.
 
 Altera o Decreto nº 46.904, de 25 de setembro de 1959, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-004468-0-000-13-07-1942@@@
-
 DECRETO-LEI N. 4.468 – DE 13 DE JULHO DE 1942
 
 Cria funções gratificadas no Quadro Permanente (Q.P.) do Ministério da Fazenda e abre crédito

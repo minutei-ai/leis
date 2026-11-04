@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209842)<br>
-
 # DECRETO N° 68.772, DE 14 DE AGOSTO DE 2024
 
 ### _Oficializa, sem ônus para os cofres públicos, a condecoração "Medalha 200 Anos da Independência do Brasil", instituída pelo Instituto Histórico Militar - IHM, e dá providências correlatas._

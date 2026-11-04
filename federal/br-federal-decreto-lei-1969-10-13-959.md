@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/d8e51ee8-1ea1-49d0-bcaa-d411399ebef4/texto#nowhere)
 
-###DEL-000959-0-000-13-10-1969@@@
-
 DECRETO-LEI Nº 959, DE 13 DE OUTUBRO DE 1969
 
 Dispõe sôbre a contribuição devida ao Instituto Nacional de Previdência Social pela emprêsa que remunerar serviços a ela prestados por trabalhador autônomo, e dá outras providências.

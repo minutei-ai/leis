@@ -1,5 +1,3 @@
-###DEC-088928-0-000-27-10-1983@@@
-
 Decreto nº 88.928, de 27 de outubro de 1983.
 
 Promulga o Acordo de Cooperação Econômica, Científica e Técnica entre o Governo da República Federativa do Brasil e o Governo da República Federal da Nigéria.
@@ -120,4 +118,20 @@ EM FÉ DO QUE, os abaixo-assinados, devidamente autorizados pelos seus respectiv
 
 FEITO em Brasília, aos 10 dias do mês de janeiro de 1979, em dois originais, nos idiomas português e inglês, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">FEDERATIVA DO BRASIL:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO MILITAR FEDERAL DA REPÚBLICA FEDERAL DA NIGÉRIA:</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(Antonio F. Azevedo da Silveira)</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(Shesu Musa Yar'Adua)</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA&nbsp; FEDERATIVA DO BRASIL:
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO MILITAR FEDERAL DA REPÚBLICA FEDERAL DA NIGÉRIA:
+
+</td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+(Antonio F. Azevedo da Silveira)
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+(Shesu Musa Yar'Adua)
+
+</td></tr></tbody></table>

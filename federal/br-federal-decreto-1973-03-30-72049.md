@@ -1,5 +1,3 @@
-###DEC-072049-0-000-30-03-1973@@@
-
 DECRETO Nº 72.049, DE 30 DE MARÇO DE 1973.
 
 Retifica o artigo 1º, do Decreto número 69.091, de 18 de agosto de 1971, através do qual foi outorgado à Cia. Carbonífera São Marcos S.A. o direito de lavrar carvão mineral no município de Criciúma, Estado de Santa Catarina.

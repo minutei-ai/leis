@@ -1,5 +1,3 @@
-###DEL-005224-0-000-25-01-1943@@@
-
 DECRETO‑LEI N. 5.224 – DE 25 DE JANEIRO DE 1943
 
 Extingue o Conselho de Administração do Serviço de Navegação da Amazônia e Administração do Porto do Pará e dá outras providências

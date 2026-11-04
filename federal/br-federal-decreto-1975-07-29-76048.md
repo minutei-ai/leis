@@ -1,5 +1,3 @@
-###DEC-076048-0-000-29-07-1975@@@
-
 DECRETO Nº 76.048 - DE 29 DE Julho DE 1975.
 
 Altera dispositivo do Regulamento para o Comando Naval de Brasília aprovado pelo Decreto nº 63.980 de 13 de janeiro de 1969.

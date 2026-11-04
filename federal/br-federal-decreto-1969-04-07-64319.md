@@ -1,5 +1,3 @@
-###DEC-064319-0-000-07-04-1969@@@
-
 DECRETO Nº 64.319, DE 7 DE ABRIL DE 1969.
 
 Declara caduco o Decreto nº 38.793, de 29 de fevereiro de 1956.

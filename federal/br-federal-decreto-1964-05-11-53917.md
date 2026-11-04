@@ -1,5 +1,3 @@
-###DEC-053917-0-000-11-05-1964@@@
-
 decreto nº 53.917, de 11 de maio de 1964.
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$220.000.000.000,00 para os fins que especifica.

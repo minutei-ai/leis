@@ -1,5 +1,3 @@
-###DEC-076840-0-000-17-12-1975@@@
-
 DECRETO nº 76.840, DE 17 DE DEZEMBRO DE 1975
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Guarulhos, com sede na cidade de Guarulhos, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-047383-0-000-10-12-1959@@@
-
 DECRETO Nº 47.383, DE 10 DE DEZEMBRO DE 1959.
 
 Renova o Decreto nº 41.791, de 8 de julho de 1957.

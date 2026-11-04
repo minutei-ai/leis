@@ -1,5 +1,3 @@
-###DEC-068155-0-000-02-02-1971@@@
-
 DECRETO Nº 68.155, DE 2 DE FEVEREIRO DE 1971.
 
 Modifica o artigo 4º do Decreto número 64.086, de 11 de fevereiro de 1969, que constitui a Comissão Coordenadora do Regime de Tempo Integral e Dedicação Exclusiva, e dá outras providências.

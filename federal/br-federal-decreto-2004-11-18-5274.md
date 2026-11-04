@@ -1,5 +1,3 @@
-###DEC-005274-0-000-18-11-2004@@@
-
 DECRETO Nº 5.274 DE 18 DE NOVEMBRO DE 2004
 
 Institui o Programa de Qualificação de Docente e Ensino de Língua Portuguesa no Timor-Leste, e dá outras providencias.

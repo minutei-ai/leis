@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185177)
-
 # DECRETO Nº 63.207, DE 06 DE FEVEREIRO DE 2018
 
 ### _Autoriza a Fazenda do Estado a permitir o uso, a título precário, gratuito e pelo prazo de 20 (vinte) anos, em favor do Município de Sabino, do imóvel que especifica_
@@ -20,8 +18,12 @@ Palácio dos Bandeirantes, 6 de fevereiro de 2018
 
 GERALDO ALCKMIN
 
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 6 de fevereiro de 2018.

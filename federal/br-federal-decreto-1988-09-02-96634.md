@@ -1,5 +1,3 @@
-###DEC-096634-0-000-02-09-1988@@@
-
 DECRETO N° 96.634, DE 2 DE SETEMBRO DE 1988
 
 Dispõe sobre o Ministério da Habitação e do Bem-Estar Social  MBES e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-049212-0-000-11-11-1960@@@
-
 DECRETO Nº 49.212, DE 11 DE NOVEMBRO DE 1960.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital Social da Companhia de Seguros Latino-Americana.

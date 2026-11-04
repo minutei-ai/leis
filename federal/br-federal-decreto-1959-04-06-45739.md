@@ -1,5 +1,3 @@
-###DEC-045739-0-000-06-04-1959@@@
-
 DECRETO Nº 45.739, DE 06 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Moacyr de Lima Valenti a lavrar calcário no município de Cantagalo, Estado do Rio de Janeiro.

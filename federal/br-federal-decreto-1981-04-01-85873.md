@@ -1,5 +1,3 @@
-###DEC-085873-0-000-01-04-1981@@@
-
 DECRETO Nº 85.873, de 01 De abril de 1981.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão de FURNAS-Centrais Elétricas S.A., no Estado de São Paulo.

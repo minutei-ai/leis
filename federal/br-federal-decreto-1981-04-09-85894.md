@@ -1,5 +1,3 @@
-###DEC-085894-0-000-09-04-1981@@@
-
 Decreto nº 85.894, de 09 de abril de 1981.
 
 Altera dispositivos do Regulamento do Código Nacional de Trânsito, aprovado pelo Decreto nº 62.127, de 16 de janeiro de 1968.

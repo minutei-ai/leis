@@ -1,5 +1,3 @@
-###DEC-076135-0-000-14-08-1975@@@
-
 DECRETO Nº 76.135 - DE 14 DE AGOSTO DE 1975
 
 Concede reconhecimento ao curso de comunicação social das Faculdades Integradas Estácio de Sá, com sede na cidade do Rio de janeiro, Estado do Rio de Janeiro.

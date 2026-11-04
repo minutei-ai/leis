@@ -1,5 +1,3 @@
-###DEC-055534-0-000-11-01-1965@@@
-
 DECRETO N° 55.534, DE 11 DE JANEIRO DE 1965.
 
 Da nova redação ao parágrafo 2°, do art. 3° do Decreto n° 54.397, de 9 de outubro de 1964, e dá outras providências.

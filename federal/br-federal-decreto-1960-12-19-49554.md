@@ -1,5 +1,3 @@
-###DEC-049554-0-000-19-12-1960@@@
-
 DECRETO Nº 49.554, DE 19 DE dezembro DE 1960.
 
 Dá nova redação ao parágrafo único do art. 15 do Decreto nº 40.359, de 16 de novembro de 1956, alterado pelos Decretos nºs 41.804, de 10 de julho de 1957 e 47.261-A, de 18 de novembro de 1959.

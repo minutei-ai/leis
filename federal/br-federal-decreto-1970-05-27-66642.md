@@ -1,5 +1,3 @@
-###DEC-066642-0-000-27-05-1970@@@
-
 DECRETO Nº 66.642, DE 27 DE MAIO DE 1970.
 
 Autoriza funcionamento da Escola Superior de Educação Física de Batatais, no Estado de São Paulo.

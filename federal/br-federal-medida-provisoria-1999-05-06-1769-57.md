@@ -1,5 +1,3 @@
-###MPV-001769-0-057-06-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.769-57, DE 6 de MAIO DE 1999
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

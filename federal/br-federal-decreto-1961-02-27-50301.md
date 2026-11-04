@@ -1,5 +1,3 @@
-###DEC-050301-0-000-27-02-1961@@@
-
 DECRETO Nº 50.301, DE 27 DE fevereiro DE 1961.
 
 Concede autorização para o funcionamento de cursos.

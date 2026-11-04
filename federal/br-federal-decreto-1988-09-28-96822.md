@@ -1,5 +1,3 @@
-###DEC-096822-0-000-28-09-1988@@@
-
 DECRETO N° 96.822, DE 28 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada à TV CIDADE DE FORTALEZA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Fortaleza, Estado do Ceará.

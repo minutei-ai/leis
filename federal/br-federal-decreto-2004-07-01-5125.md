@@ -1,5 +1,3 @@
-###DEC-005125-0-000-01-07-2004@@@
-
 DECRETO Nº 5.125, DE 1º DE JULHO DE 2004
 
 Dispõe sobre a composição do Comitê Gestor Interministerial do Auxílio Emergencial Financeiro para atendimento à população atingida por desastres, de que trata o art. 2º da Medida Provisória nº 190, de 31 de maio de 2004.

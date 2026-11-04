@@ -1,5 +1,3 @@
-###DEC-093944-0-000-16-01-1987@@@
-
 DECRETO Nº 93.944, DE 16 DE JANEIRO DE 1987
 
 Cria, por transformação, no Ministério da Ciência e Tecnologia, o Conselho de Ciência e Tecnologia - CCT, e dá outras providências.

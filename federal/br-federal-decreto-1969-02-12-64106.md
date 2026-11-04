@@ -1,5 +1,3 @@
-###DEC-064106-0-000-12-02-1969@@@
-
 DECRETO Nº 64.106, DE 12 DE FEVEREIRO DE 1969.
 
 Denomina Estação Rádio da Marinha em Belém a Estação criada pelo Decreto nº 63.969, de 8 de janeiro de 1969.

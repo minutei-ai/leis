@@ -1,5 +1,3 @@
-###MPV-000545-0-000-29-09-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 545, DE 29 DE SETEMBRO DE 2011.
 
 Altera a Lei no 10.893, de 13 de julho de 2004, que dispõe sobre o Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e o Fundo da Marinha Mercante - FMM; altera a Medida Provisória no 2.228-1, de 6 de setembro de 2001, e as Leis no 11.434, de 28 de dezembro de 2006, no 11.196, de 21 de novembro de 2005, no 10.865, de 30 de abril de 2004, e no 8.685, de 20 de julho de 1993; altera a incidência da Contribuição para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS na cadeia produtiva do café, institui o Programa Cinema Perto de Você, e dá outras providências.

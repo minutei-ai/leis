@@ -1,5 +1,3 @@
-###DEC-046462-0-000-20-07-1959@@@
-
 decreto nº 46.462, de 20 de julho de 1959.
 
 Declara de utilidade pública a associação civil “Polícia do Cais do Pôrto”, com sede no Distrito Federal.

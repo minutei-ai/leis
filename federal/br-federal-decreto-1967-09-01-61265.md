@@ -1,5 +1,3 @@
-###DEC-061265-0-000-01-09-1967@@@
-
 DECRETO Nº 61.265, DE 1 DE SETEMBRO DE 1967.
 
 Altera designação da ordem Honorifica instituída pelo Decreto número 60.055, de 12 de janeiro de 1967.

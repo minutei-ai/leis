@@ -1,5 +1,3 @@
-###DEC-046314-0-000-30-06-1959@@@
-
 DECRETO Nº 46.314, DE 30 DE JUNHO DE 1959.
 
 Autoriza a Mineração Irapuá Limitada a lavrar calcário no município de Cachoeira do Sul, Estado do Rio Grande do Sul.

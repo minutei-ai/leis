@@ -1,5 +1,3 @@
-###DEC-052119-0-000-17-06-1963@@@
-
 DECRETO Nº 52.119, DE 17 DE JUNHO DE 1963.
 
 Transfere cargo do Ministério da Saúde para o Ministério da Fazenda.

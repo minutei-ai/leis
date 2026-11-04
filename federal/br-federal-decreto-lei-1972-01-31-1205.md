@@ -1,7 +1,3 @@
-1
-
-###DEL-001205-0-000-31-01-1972@@@
-
 # DECRETO-LEI Nº 1.205, DE 31 DE JANEIRO DE 1972
 
 Institui normas para utilização dos créditos orçamentários e adicionais e dá outras providências.

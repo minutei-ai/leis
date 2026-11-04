@@ -1,5 +1,3 @@
-###DEC-082471-0-000-23-10-1978@@@
-
 Decreto nº 82.471, de 23 de outubro de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Belém, Estado do Pará.

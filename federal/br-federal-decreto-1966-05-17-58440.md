@@ -1,5 +1,3 @@
-###DEC-058440-0-000-17-05-1966@@@
-
 DECRETO N.º 58.440, de 17 de maio de 1966.
 
 Autoriza o cidadão brasileiro Ricardo Martins do Nascimento à lavrar mica, columbita, berilo e turmalina no município de Conselheiro Pena, Estado de Minas Gerais.

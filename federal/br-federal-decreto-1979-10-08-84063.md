@@ -1,5 +1,3 @@
-###DEC-084063-0-000-08-10-1979@@@
-
 Decreto nº 84.063, de 08 de outubro de 1979.
 
 Retifica a concessão outorgada à Rádio Jornal de Eunápolis Ltda. pelo Decreto nº 83.029, de 11 de janeiro de 1979.

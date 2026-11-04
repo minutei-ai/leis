@@ -1,6 +1,4 @@
-###DEC-041785-0-000-08-07-1957@@@
-
-<strong>DECRETO Nº 41.785, DE 08 DE JULHO DE 1957.</strong>
+**DECRETO Nº 41.785, DE 08 DE JULHO DE 1957.**
 
 <!-- fac-simile-oficial:inicio -->
 

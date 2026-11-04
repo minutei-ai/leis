@@ -1,5 +1,3 @@
-###DEC-066097-0-000-20-01-1970@@@
-
 Decreto nº 66.097 - de 20 de janeiro de 1970
 
 Regula atribuições dos Diretores do Instituto Brasileiro do Café.

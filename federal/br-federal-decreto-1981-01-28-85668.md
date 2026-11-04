@@ -1,5 +1,3 @@
-###DEC-085668-0-000-28-01-1981@@@
-
 Decreto nº 85.668, de 28 de janeiro de 1981
 
 Revoga o Decreto nº 84.048, de 3 de outubro de 1979, que aprovou a reforma do Estatuto da Empresa Brasileira de Radiodifusão-RADIOBRÁS, e dá outras providências.

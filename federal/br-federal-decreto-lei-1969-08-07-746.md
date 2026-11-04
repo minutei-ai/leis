@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/cd1d26c4-95e2-4169-a7f0-c6e116f00faf/texto#nowhere)
 
-###DEL-000746-0-000-07-08-1969@@@
-
 DECRETO-LEI Nº 746, DE 7 DE AGÔSTO DE 1969
 
 Transfere a jurisdição da Junta de Conciliação e Julgamento de Estância, Estado de Sergipe, pertencente à 5º Região, para o Município de Aracaju, no mesmo Estado, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055384-0-000-31-12-1964@@@
-
 DECRETO Nº 55.384, DE 31 DE DEZEMBRO DE 1964.
 
 Fica renovado o Decreto nº 855, de 7 de abril de 1962.

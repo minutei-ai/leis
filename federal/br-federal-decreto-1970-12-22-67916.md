@@ -1,5 +1,3 @@
-###DEC-067916-0-000-22-12-1970@@@
-
 DECRETO Nº 67.916, DE 22 DE DEZEMBRO DE 1970.
 
 Declara de utilidade pública a Maternidade e Pôsto de Puericultura "Dr. Eugênio Gomes de Carvalho", com sede em Pedro Leopoldo, Estado de Minas Gerais.

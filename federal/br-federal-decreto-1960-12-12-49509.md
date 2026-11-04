@@ -1,5 +1,3 @@
-###DEC-049509-0-000-12-12-1960@@@
-
 DECRETO Nº 49.509, DE 12 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro José Alves Mansur a pesquisar calcário dolomítico no Município de Ouro Prêto, Estado de Minas Gerais.

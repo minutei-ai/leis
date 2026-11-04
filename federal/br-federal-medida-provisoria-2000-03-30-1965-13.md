@@ -1,5 +1,3 @@
-###MPV-001965-0-013-30-03-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.965-13, DE 30 DE março DE 2000.
 
 Estabelece a nulidade das disposições contratuais que menciona, inverte, nas hipóteses que prevê, o ônus da prova nas ações intentadas para sua declaração, e altera o art. 1º da Lei nº 7.347, de 24 de julho de 1985.

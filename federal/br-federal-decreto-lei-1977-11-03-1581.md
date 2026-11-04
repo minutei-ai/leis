@@ -1,5 +1,3 @@
-###DEL-001581-0-000-03-11-1977@@@
-
 # Decreto-lei nº 1.581, de 03 de novembro de 1977
 
 Exclui a aplicação do art. 11 do Decreto-lei nº 37, de 18 de novembro de 1966, aos casos que especifica, extingue créditos tributários e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-084895-0-000-09-07-1980@@@
-
 Decreto nº 84.895, de 09 de julho de 1980.
 
 Fixa o limite quantitativo de antiguidade para a constituição do Quadro de Acesso por Escolha dos coronéis Médicos do Quadro de Saúde do Exército, relativo ás promoções de 31 de julho de 1980.

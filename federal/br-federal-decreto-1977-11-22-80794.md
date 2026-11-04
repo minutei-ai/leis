@@ -1,5 +1,3 @@
-###DEC-080794-0-000-22-11-1977@@@
-
 Decreto nº 80.794, de 22 de novembro de 1977.
 
 Autoriza a transformação do curso de Desenho e Plástica em curso de Educação Artística, da Faculdade de Filosofia, Ciências e Letras de Penápolis, Estado de São Paulo.

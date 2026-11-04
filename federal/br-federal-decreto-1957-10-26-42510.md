@@ -1,32 +1,30 @@
-###DEC-042510-0-000-26-10-1957@@@
+**DECRETO Nº 42.510, DE 26 DE OUTUBRO DE 1957.**
 
-<strong>DECRETO Nº 42.510, DE 26 DE OUTUBRO DE 1957.</strong>
+***Aprova o Regimento do Serviço de Assistência a Menores.***
 
-<em><strong>Aprova o Regimento do Serviço de Assistência a Menores.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Serviço de Assistência a Menores que, assinado pelo Ministro de Estado da Justiça e Negócios Interiores, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Serviço de Assistência a Menores que, assinado pelo Ministro de Estado da Justiça e Negócios Interiores, com êste baixa.
+**Art**. 2º Êste decreto entrará em vigor na data da sua publicação.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data da sua publicação.
-
-<strong>Art</strong>. 3º Ficam revogados o Decreto nº 16.575, de 11 de setembro de 1944, modificado pelos Decretos ns. 29.857, de 6 de agôsto de 1951 e 40.385,d e 20 de novembro de 1956 e demais disposições em contrário.
+**Art**. 3º Ficam revogados o Decreto nº 16.575, de 11 de setembro de 1944, modificado pelos Decretos ns. 29.857, de 6 de agôsto de 1951 e 40.385,d e 20 de novembro de 1956 e demais disposições em contrário.
 
 Rio de Janeiro, em 26 de outubro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Nereu Ramos
 
 REGIMENTO DO SERVIÇO DE ASSISTÊNCIA A MENORES
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º O Serviço de Assistência a Menores (S.A.M.), órgão integrante do Ministério da Justiça e Negócios Interiores, diretamente subordinado ao respectivo Ministro de Estado, tem por finalidade:
+**Art**. 1º O Serviço de Assistência a Menores (S.A.M.), órgão integrante do Ministério da Justiça e Negócios Interiores, diretamente subordinado ao respectivo Ministro de Estado, tem por finalidade:
 
 I - Promover, em todo o território nacional de conformidade com os recursos técnicos da Pscicopedagogia e do Serviço Social a integração, no meio social, dos menores carecidos de amparo, prestando-lhes assistência, mediante:
 
@@ -40,19 +38,19 @@ d) colocação em emprêgo.
 
 II - Prestar assistência aos menores infratores das normas de conduta social, com o objetivo de recuperá-los.
 
-Parágrafo único. A modalidade de assistência a que se refere o item I, alínea <em>a</em>, poderá ser prestada através de adequada ajuda à família.
+Parágrafo único. A modalidade de assistência a que se refere o item I, alínea *a*, poderá ser prestada através de adequada ajuda à família.
 
-<strong>Art</strong>. 2º Ao S.A.M. compete, ainda, incumbir-se da execução dos serviços administrativos atinentes aos recursos de qualquer natureza concedidos, através do Ministério da Justiça e Negócios Interiores, às instituições que se dediquem à assistência ou proteção a menores.
+**Art**. 2º Ao S.A.M. compete, ainda, incumbir-se da execução dos serviços administrativos atinentes aos recursos de qualquer natureza concedidos, através do Ministério da Justiça e Negócios Interiores, às instituições que se dediquem à assistência ou proteção a menores.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Disposições Preliminares</em>
+*Disposições Preliminares*
 
-<strong>Art</strong>. 3º O Serviço de Assistência a Menores constitui-se de:
+**Art**. 3º O Serviço de Assistência a Menores constitui-se de:
 
 Administração Central
 
@@ -60,11 +58,11 @@ Delegacias Regionais
 
 Estabelecimentos Assistenciais
 
-<strong>Art</strong>. 4º A Administração Central compõe-se de Divisões e de uma Seção de Estatística.
+**Art**. 4º A Administração Central compõe-se de Divisões e de uma Seção de Estatística.
 
-<strong>Art</strong>. 5º As Divisões compõem-se de Seções e terão Chefes designados pelo Ministro, por proposta do Diretor do S.A.M.
+**Art**. 5º As Divisões compõem-se de Seções e terão Chefes designados pelo Ministro, por proposta do Diretor do S.A.M.
 
-<strong>Art</strong>. 6º Diretamente articulada com a D.I.S. funcionará a Comissão de Classificação e Distribuição (C.C.D.), integrada por um Assistente Social, um Médico e um Professor, designados pelo Diretor, conforme indicação, respectivamente, dos Chefes da D.I.S., da D.S. e da D.E.
+**Art**. 6º Diretamente articulada com a D.I.S. funcionará a Comissão de Classificação e Distribuição (C.C.D.), integrada por um Assistente Social, um Médico e um Professor, designados pelo Diretor, conforme indicação, respectivamente, dos Chefes da D.I.S., da D.S. e da D.E.
 
 § 1º A C.C.D. terá um Presidente designado pelo Diretor e escolhido dentre seus membros.
 
@@ -72,21 +70,21 @@ Estabelecimentos Assistenciais
 
 § 3º Excepcionalmente, por necessidade do serviço, o Diretor constituirá em subcomissão os membros substitutos, com as mesmas atribuições da C.C.D.
 
-<strong>Art</strong>. 7º Os Delegados Regionais serão designados pelo Ministro dentre servidores públicos federais.
+**Art**. 7º Os Delegados Regionais serão designados pelo Ministro dentre servidores públicos federais.
 
-<strong>Art</strong>. 8º O Diretor terá 2 (dois) Assessores, 2 (dois) Assistentes e 1 (um) Secretário, por êle designados, dentre servidores públicos federais.
+**Art**. 8º O Diretor terá 2 (dois) Assessores, 2 (dois) Assistentes e 1 (um) Secretário, por êle designados, dentre servidores públicos federais.
 
-<strong>Art</strong>. 9º Os Chefes de Seção das Divisões do Hospital Central, do Gabinete de e Radiologia Clínica, do Laboratório de Patologia Clínica, da Farmácia, da Biblioteca, da Portaria e da Garagem, bem como os dos estabelecimentos assistenciais, salvo os casos previstos na legislação em vigor, serão designados pelo Diretor, dentre servidores públicos federais.
+**Art**. 9º Os Chefes de Seção das Divisões do Hospital Central, do Gabinete de e Radiologia Clínica, do Laboratório de Patologia Clínica, da Farmácia, da Biblioteca, da Portaria e da Garagem, bem como os dos estabelecimentos assistenciais, salvo os casos previstos na legislação em vigor, serão designados pelo Diretor, dentre servidores públicos federais.
 
 Parágrafo único. O Chefe da Portaria do Hospital Central será designado pelo Diretor conforme indicação do Chefe do referido estabelecimento.
 
-<strong>Art</strong>. 10. São privativas de funcionários portadores de diploma de Assistente Social, devidamente registrado, as funções de Chefe da Divisão de Integração Social e  das Seções de Serviço Social e  de Colocação.
+**Art**. 10. São privativas de funcionários portadores de diploma de Assistente Social, devidamente registrado, as funções de Chefe da Divisão de Integração Social e  das Seções de Serviço Social e  de Colocação.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Da Administração Central</em>
+*Da Administração Central*
 
-<strong>Art</strong>. 11. A Administração Central compreende:
+**Art**. 11. A Administração Central compreende:
 
 Divisão de Integração Social (D.I.S.).
 
@@ -100,7 +98,7 @@ Divisão de Administração (D.A.)
 
 Seção de Estatística (S.E.).
 
-<strong>Art</strong>. 12. Divisão de Integração Social (D.I.S.) compõe-se de:
+**Art**. 12. Divisão de Integração Social (D.I.S.) compõe-se de:
 
 Seção de Triagem (S.T.).
 
@@ -112,7 +110,7 @@ Seção de Colocação (S.C.).
 
 Comissão de Classificação e Distribuição (C.C.D.).
 
-<strong>Art</strong>. 13. A Divisão de Saúde (D.S.) compõe-se de:
+**Art**. 13. A Divisão de Saúde (D.S.) compõe-se de:
 
 Seção de Contrôle (S.Ct.).
 
@@ -128,7 +126,7 @@ Farmácia (F.).
 
 Parágrafo único. O Hospital Central terá uma Portaria.
 
-<strong>Art</strong>. 14. A Divisão de Psicologia e Orientação (D.P.O.) compõe-se de:
+**Art**. 14. A Divisão de Psicologia e Orientação (D.P.O.) compõe-se de:
 
 Seção de Psicodiagnóstico (S.Psd.)
 
@@ -136,7 +134,7 @@ Seção de Psicopedagogia e Psicoterapia (S.P.P.).
 
 Seção de Orientação Profissional (S.O.P.).
 
-<strong>Art</strong>. 15. A Divisão de Educação (D.E.) compõe-se de:
+**Art**. 15. A Divisão de Educação (D.E.) compõe-se de:
 
 Seção de Orientação e Coordenação (S.O.C.).
 
@@ -144,7 +142,7 @@ Seção de Ensino (S.E.).
 
 Biblioteca (B).
 
-<strong>Art</strong>. 16. A Divisão de Administração compõe-se de:
+**Art**. 16. A Divisão de Administração compõe-se de:
 
 Seção de Pessoal (S.P.)
 
@@ -160,11 +158,11 @@ Portaria (P.)
 
 Garagem (G.).
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Das Delegacias Regionais</em>
+*Das Delegacias Regionais*
 
-<strong>Art</strong>. 17. Haverá em cada Estado ou Território da União uma Delegacia Regional do S.A.M.:
+**Art**. 17. Haverá em cada Estado ou Território da União uma Delegacia Regional do S.A.M.:
 
 Amazonas (D.A.M.AM).
 
@@ -206,11 +204,11 @@ Goiás (D.A.M.GO).
 
 Mato Grosso (D.A.M.MT).
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Dos Estabelecimentos Assistenciais</em>
+*Dos Estabelecimentos Assistenciais*
 
-<strong>Art</strong>. 18. São Estabelecimentos Assistenciais as seguintes institucionais oficiais:
+**Art**. 18. São Estabelecimentos Assistenciais as seguintes institucionais oficiais:
 
 Instituto Profissional Quinze de Novembro (I.P.Q.N.).
 
@@ -242,17 +240,17 @@ Educandário Nossa Senhora do Carmo (E.N.S.C.).
 
 § 2º Os estabelecimentos oficiais terão regimentos próprios, respeitadas as normas neste fixadas.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da competência dos órgãos</em>
+*Da competência dos órgãos*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Da Divisão de Integração Social</em>
+*Da Divisão de Integração Social*
 
-<strong>Art</strong>. 19. À Divisão de Integração Social (D.I.S.) compete promover, segundo os princípios técnicos do Serviço Social, e com o concurso das demais Divisões do S.A.M., o ajustamento social dos menores e a sua integração na sociedade.
+**Art**. 19. À Divisão de Integração Social (D.I.S.) compete promover, segundo os princípios técnicos do Serviço Social, e com o concurso das demais Divisões do S.A.M., o ajustamento social dos menores e a sua integração na sociedade.
 
-<strong>Art</strong>. 20. À Seção de Triagem (S.T.), com dependências para cada sexo, observado o grupo etário e mantida rigorosa separação para os infratores das normas de conduta social, compete:
+**Art**. 20. À Seção de Triagem (S.T.), com dependências para cada sexo, observado o grupo etário e mantida rigorosa separação para os infratores das normas de conduta social, compete:
 
 I - manter abrigados e devidamente assistidos os menores internados, enquanto são observados e aguardam encaminhamento para estabelecimentos da rêde assistencial;
 
@@ -260,7 +258,7 @@ II - providenciar a apresentação dos menores aos órgãos especializados para 
 
 III - acompanhar os menores que sejam objeto de qualquer forma de movimentação.
 
-<strong>Art</strong>. 21. À Seção de Identificação e Registros (S.I.R.) compete:
+**Art**. 21. À Seção de Identificação e Registros (S.I.R.) compete:
 
 I - identificar os menores abrigados na S.T. e os encaminhados pelas autoridades competentes;
 
@@ -284,7 +282,7 @@ X - atualizar a identificação fotográfica dos menores internados, pelo menos,
 
 XI - permitir consulta aos prontuários, mediante requisição dos Chefes de Divisão, em cada caso, e, excepcionalmente, fornecê-los, por empréstimo, nas mesmas condições, contra recibo, devendo a sua restituição ser feita dentro do período normal do expediente da Seção.
 
-<strong>Art</strong>. 22. À Seção do Serviço Social (S.S.S.) compete:
+**Art**. 22. À Seção do Serviço Social (S.S.S.) compete:
 
 I - receber e entrevistar os responsáveis pelos menores cuja internação fôr solicitada ao Diretor do S.A.M.;
 
@@ -306,7 +304,7 @@ IX - opinar, do ponto de vista da Divisão e com respeito aos aspectos do proble
 
 X - proceder ao levantamento das causas de abandono e de desajustamento social de menores, para orientação dos poderes públicos.
 
-<strong>Art</strong>. 23. À Seção de Colocação (S.C.) compete:
+**Art**. 23. À Seção de Colocação (S.C.) compete:
 
 I - promover a integração, nos respectivos lares, dos menores que lhe são encaminhados, ou colocá-los em lares substitutos, ou em emprêgo ou, ainda, nas Fôrças Armadas;
 
@@ -324,7 +322,7 @@ VII - acompanhar e assistir os menores colocados em emprêgo, até sua efetiva i
 
 VIII - quando indispensável alojar temporariamente os menores colocados em emprêgo.
 
-<strong>Art</strong>. 24. À Comissão de Classificação e Distribuição C.C.D., que se reunirá diariamente no início da segunda metade do expediente normal do S.A.M., compete:
+**Art**. 24. À Comissão de Classificação e Distribuição C.C.D., que se reunirá diariamente no início da segunda metade do expediente normal do S.A.M., compete:
 
 I - apreciar os resultados dos exames e provas a que se tenha submetido o menor, afim de classificá-lo e indicar o tipo de estabelecimento mais conveniente para sua instrução e educação;
 
@@ -336,13 +334,13 @@ IV - examinar, para efeito de reclassificação e distribuição, os prontuário
 
 V - convocar, quando necessário, para prestação de esclarecimentos, o menor a ser classificado e os técnicos que o tenham examinado ou observado.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Da Divisão de Saúde</em>
+*Da Divisão de Saúde*
 
-<strong>Art</strong>. 25. À Divisão de Saúde compete assistir os menores, relativamente à sua sanidade física e mental.
+**Art**. 25. À Divisão de Saúde compete assistir os menores, relativamente à sua sanidade física e mental.
 
-<strong>Art</strong>. 26. À Seção de Contrôle (S.Ct.) compete:
+**Art**. 26. À Seção de Contrôle (S.Ct.) compete:
 
 I - receber o menor para exame e encaminhá-lo com a sua Ficha Médica à S.D.T., acompanhando-o nas diversas clínicas especializadas;
 
@@ -360,7 +358,7 @@ VII - manter intercâmbio com instituições  e serviços, oficiais ou particul
 
 VIII - estudar a implantação de rotinas e apresentar sugestões para melhorar o rendimento dos serviços da Divisão.
 
-<strong>Art</strong>. 27. À Seção de Diagnóstico e Tratamento (S.D.T.), compete:
+**Art**. 27. À Seção de Diagnóstico e Tratamento (S.D.T.), compete:
 
 I - proceder a exames médicos dos menores, por ocasião do internamento;
 
@@ -378,23 +376,23 @@ VII - manter serviço de pronto socorro para proceder aos tratamentos de urgênc
 
 VIII - fornecer à S.Ct, dados para a elaboração de relatórios e para preenchimento da Carteira de Saúde de cada menor examinado.
 
-<strong>Art</strong>. 28. Ao Hospital Central (H.C.) compete receber e assistir os menores da rêde assistencial do S.A.M. encaminhados para tratamento.
+**Art**. 28. Ao Hospital Central (H.C.) compete receber e assistir os menores da rêde assistencial do S.A.M. encaminhados para tratamento.
 
 Parágrafo único. A Portaria do H.C. terá a seu cargo os serviços de asseio, vigilância e conservação do edifício.
 
-<strong>Art</strong>. 29. Ao Gabinete de Radiologia Clínica (G.R.C.) compete realizar os exames de rotina, para diagnóstico; os periódicos, para levantamento do censo torácico e os eventualmente solicitados pela S.D.T., pelos estabelecimentos da rêde assistencial e pela S.Ct.
+**Art**. 29. Ao Gabinete de Radiologia Clínica (G.R.C.) compete realizar os exames de rotina, para diagnóstico; os periódicos, para levantamento do censo torácico e os eventualmente solicitados pela S.D.T., pelos estabelecimentos da rêde assistencial e pela S.Ct.
 
-<strong>Art</strong>. 30. Ao Laboratório de Patologia Clínica (L.P.C.) compete realizar os exames de rotina, para diagnóstico, e os eventualmente solicitados pela S.D.T., pelos estabelecimentos da rêde assistencial e pela S.Ct.
+**Art**. 30. Ao Laboratório de Patologia Clínica (L.P.C.) compete realizar os exames de rotina, para diagnóstico, e os eventualmente solicitados pela S.D.T., pelos estabelecimentos da rêde assistencial e pela S.Ct.
 
-<strong>Art</strong>. 31. À Farmácia (F.) compete atender ao receituário que lhe fôr enviado, tanto em preparados como em manipulações para o que manterá pequeno estoque de drogas e medicamentos.
+**Art**. 31. À Farmácia (F.) compete atender ao receituário que lhe fôr enviado, tanto em preparados como em manipulações para o que manterá pequeno estoque de drogas e medicamentos.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Da Divisão de Psicologia e Orientação</em>
+*Da Divisão de Psicologia e Orientação*
 
-<strong>Art</strong>.32. À Divisão de Psicologia e Orientação (D.P.P.) compete prestar assistência psicológica aos menores, orientar os estabelecimentos assistenciais e colaborar com o DASP, quando solicitado, na seleção e formação de pessoal.
+**Art**.32. À Divisão de Psicologia e Orientação (D.P.P.) compete prestar assistência psicológica aos menores, orientar os estabelecimentos assistenciais e colaborar com o DASP, quando solicitado, na seleção e formação de pessoal.
 
-<strong>Art</strong>. 33. À Seção de Psicodiagnóstico (S.Psd.), compete:
+**Art**. 33. À Seção de Psicodiagnóstico (S.Psd.), compete:
 
 I - determinar o nível mental de todos os menores, e o de maturidade para o aprendizado e o de escolaridade dos menores a partir da idade de 6 anos;
 
@@ -404,7 +402,7 @@ III - proceder aos exames quando solicitada pelo DASP e a fim de firmar diagnós
 
 IV - encaminhar à S.D.T. os casos de clínica psiquiátrica.
 
-<strong>Art</strong>. 34. A Seção de Psicopedagogia e Psicoterapia (S.P.P.) compete:
+**Art**. 34. A Seção de Psicopedagogia e Psicoterapia (S.P.P.) compete:
 
 I - assistir os menores com distúrbios de conduta, falta ou quebra de rendimento escolar, ou outras perturbações graves;
 
@@ -414,19 +412,19 @@ IV - realizar, em colaboração com a S. Psd., estudos das causas de desajustame
 
 V - realizar estudos sôbre a dinâmica familiar, a fim de orientar os responsáveis pela educação de menores, no próprio lar ou em lar substituto.
 
-<strong>Art</strong>. 35. À Seção de Orientação Profissional (S.O.P.) compete:
+**Art**. 35. À Seção de Orientação Profissional (S.O.P.) compete:
 
 I - efetuar pesquisas de interêsses vocacionais dos menores e medir as suas aptidões profissionais;
 
 II - colaborar com a D.E. na formação profissional dos menores.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Da Divisão do Ensino</em>
+*Da Divisão do Ensino*
 
-<strong>Art</strong>. 36. A Divisão de Ensino (D.E.) compete elaborar planos de educação dos menores, orientar e controlar sua execução e promover o aperfeiçoamento e a especialização do pessoal específico do S.A.M.
+**Art**. 36. A Divisão de Ensino (D.E.) compete elaborar planos de educação dos menores, orientar e controlar sua execução e promover o aperfeiçoamento e a especialização do pessoal específico do S.A.M.
 
-<strong>Art</strong>. 37. À Seção de Orientação e Coordenação (S.O.C.) compete:
+**Art**. 37. À Seção de Orientação e Coordenação (S.O.C.) compete:
 
 I - manter estudos atualizados sôbre a organização e funcionamento dos estabelecimentos da rêde assistencial do S.A.M., classificando-os, a fim de orientar a distribuição dos menores;
 
@@ -448,7 +446,7 @@ IX - indicar à Seção de Ensino os menores que devam ser submetidos às provas
 
 X - remeter à S.C. informações completas sôbre os menores em fase de desligamento por conclusão de curso.
 
-<strong>Art</strong>. 38. A Seção de Ensino (S.E.) compete:
+**Art**. 38. A Seção de Ensino (S.E.) compete:
 
 I - estudar a finalidade e as peculiaridades dos estabelecimentos da rêde assistencial do S.A.M. e, de acôrdo com o plano educacional estabelecido pela S.O.C., elaborar programas especiais de ensino, cabendo às autoridades religiosas os de religião;
 
@@ -464,7 +462,7 @@ VI - organizar e orientar a execução de programas de recreação para menores 
 
 VII - organizar e manter cursos que visem à formação, ao aperfeiçoamento e à especialização do pessoal específico do S.A.M.
 
-<strong>Art</strong>. 39 À Biblioteca (B.) compete:
+**Art**. 39 À Biblioteca (B.) compete:
 
 I - registrar, classificar, catalogar, guardar e conservar livros, revistas e publicações;
 
@@ -474,13 +472,13 @@ III - facilitar e incentivar a consulta às obras existentes, como processo de a
 
 IV - propor a aquisição de livros didáticos e de literatura infantil e juvenil e promover a sua distribuição às bibliotecas dos estabelecimentos oficiais do S.A.M., devidamente classificados e catalogados.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>Da Divisão de Administração</em>
+*Da Divisão de Administração*
 
-<strong>Art</strong>. 40. À Divisão de Administração (D.A.), que funcionará articulada, no que couber, com o Departamento de Administração do Ministério, competem as atividades de administração adjetiva, respeitada a competência atribuída aos estabelecimentos assistenciais nos respectivos regimentos.
+**Art**. 40. À Divisão de Administração (D.A.), que funcionará articulada, no que couber, com o Departamento de Administração do Ministério, competem as atividades de administração adjetiva, respeitada a competência atribuída aos estabelecimentos assistenciais nos respectivos regimentos.
 
-<strong>Art</strong>. 41. À Seção de Pessoal (S.P.) compete:
+**Art**. 41. À Seção de Pessoal (S.P.) compete:
 
 I - aplicar ou, quando couber, orientar a fiscalizar a aplicação, no S.A.M., da legislação do pessoal referente a direitos, vantagens, deveres, responsabilidade e ação disciplinar;
 
@@ -492,7 +490,7 @@ IV - organizar e manter atualizada a ficha financeira individual, e elaborar as 
 
 V - fornecer à S.C. os elementos para organização da proposta orçamentária.
 
-<strong>Art</strong>. 42.  À Seção de Orçamento (S.O) compete:
+**Art**. 42.  À Seção de Orçamento (S.O) compete:
 
 I - coligir os elementos para a organização da proposta orçamentária do S.A.M. e elaborá-la de acôrdo com as recomendações do Diretor e as normas e instruções expedidas pelo órgão competente;
 
@@ -508,7 +506,7 @@ VI - tomar as providências necessárias no cumprimento do artigo 2º dêste Reg
 
 VII - apurar o custo de atividades específicas do S.A.M., tendo em vista o número de menores assistidos.
 
-<strong>Art</strong>. 43. À Seção do Material (S.M.) compete:
+**Art**. 43. À Seção do Material (S.M.) compete:
 
 I - aplicar ou, quando couber, orientar e fiscalizar a aplicação no S.A.M., da legislação relativa a material;
 
@@ -532,9 +530,9 @@ X - remeter, anualmente, à Divisão do Material do Departamento de Administraç
 
 XI - fornecer à S.O. os elementos para organização da proposta orçamentária.
 
-<strong>Art</strong>. 44. À Seção de Material manterá um Almoxarifado Central e, de acôrdo com as necessidades do serviço, depósitos de material.
+**Art**. 44. À Seção de Material manterá um Almoxarifado Central e, de acôrdo com as necessidades do serviço, depósitos de material.
 
-<strong>Art</strong>. 45. Ao Almoxarifado Central compete:
+**Art**. 45. Ao Almoxarifado Central compete:
 
 I - conferir, receber, escriturar e conservar o material requisitado pelo S.A.M. e a êle fornecido;
 
@@ -542,7 +540,7 @@ II - atender aos pedidos de material formulados pelos diversos órgãos do S.A.M
 
 III - encaminhar, diariamente, à S.M. um boletim das entradas de material com os elementos a que se refere o item V do art. 43.
 
-<strong>Art</strong>. 46. À Seção de Comunicações e Arquivo (S.C.A.) compete:
+**Art**. 46. À Seção de Comunicações e Arquivo (S.C.A.) compete:
 
 I - receber, registrar, distribuir e expedir a correspondência oficial e demais papéis relativos às atividades do S.A.M.;
 
@@ -550,9 +548,9 @@ II - classificar e arquivar a correspondência e demais documentos de interêsse
 
 III - atender o público em seus pedidos de informação sôbre o andamento dos papéis, bem como orientá-lo no modo de apresentar sugestões ou reclamações.
 
-<strong>Art</strong>. 47. À Seção de Serviços Auxiliares (S.A) compete manter em perfeito funcionamento, na sede da Administração Central, os serviços de cozinha, despensa, refeitório, lavanderia, barbearia, rouparia e dormitórios.
+**Art**. 47. À Seção de Serviços Auxiliares (S.A) compete manter em perfeito funcionamento, na sede da Administração Central, os serviços de cozinha, despensa, refeitório, lavanderia, barbearia, rouparia e dormitórios.
 
-<strong>Art</strong>. 48. À Portaria (P) compete:
+**Art**. 48. À Portaria (P) compete:
 
 I - exercer permanente vigilância em tôdas as dependências do edifício-sede do S.A.M. e zelar pelo asseio e pela conservação das mesmas;
 
@@ -560,7 +558,7 @@ II - dar imediato conhecimento à S.A. das necessidades de reparos dos bens móv
 
 III - encarregar-se, em articulação com à Seção de Comunicações e Arquivo, da entrega da correspondência.
 
-<strong>Art</strong>. 49. À Garagem (G.) compete:
+**Art**. 49. À Garagem (G.) compete:
 
 I - registrar, guardar, consevar e reparar os veículos do S.A.M.;
 
@@ -572,11 +570,11 @@ IV - manter oficina eletro-mecânica para pequenos reparos;
 
 V - informar-se, com antecedência, das necessidades de transporte, a fim de planejar a execução de serviço diário.
 
-<strong>SEÇÃO VI</strong>
+**SEÇÃO VI**
 
-<em>Da Seção de Estatística</em>
+*Da Seção de Estatística*
 
-<strong>Art</strong>. 50. À Seção de Estatística (S. Est.) compete:
+**Art**. 50. À Seção de Estatística (S. Est.) compete:
 
 I - estudar e elaborar questionários e boletins para coleta de dados estatísticos;
 
@@ -584,11 +582,11 @@ II - orientar e acompanhar o preenchimento dos questionários a que se refere o 
 
 III - proceder à apuração estatística das atividades do S.A.M. e dos aspectos por que se apresenta o problema do menor, de acôrdo com os dados provenientes das Divisões.
 
-<strong>SEÇÃO VII</strong>
+**SEÇÃO VII**
 
-<em>Das Delegacias Regionais</em>
+*Das Delegacias Regionais*
 
-<strong>Art</strong>. 51. Às Delegacias Regionais, na área de sua jurisdição, compete:
+**Art**. 51. Às Delegacias Regionais, na área de sua jurisdição, compete:
 
 I - executar, de acôrdo com as instruções do Diretor do S.A.M., as atribuições da Administração Central;
 
@@ -606,47 +604,47 @@ VII - visitar os estabelecimentos que assistam menores encaminhados pelo S.A.M.,
 
 VIII - verificar o cumprimento, por parte de qualquer instituição assistencial de menores, de acôrdos, convênios, ajustes e contratos celebrados com a União.
 
-<strong>SEÇÃO VIII</strong>
+**SEÇÃO VIII**
 
-<em>Dos Estabelecimentos Assistenciais</em>
+*Dos Estabelecimentos Assistenciais*
 
-<strong>Art</strong>. 52. Aos Estabelecimentos Assistenciais compete proporcionar ampla assistência, aos menores encaminhados pela Administração Central, ou, na área de suas jurisdições, pelas Delegacias Regionais.
+**Art**. 52. Aos Estabelecimentos Assistenciais compete proporcionar ampla assistência, aos menores encaminhados pela Administração Central, ou, na área de suas jurisdições, pelas Delegacias Regionais.
 
-<strong>Art</strong>. 53. Ao Instituto Profissional Quinze de Novembro (I.P.Q.N) compete receber menores do sexo masculino, de mais de 12 anos, com a 3³ série primária concluída, e ministrar-lhes educação e ensino, inclusive o agrícola, o comercial e o industrial básicos.
+**Art**. 53. Ao Instituto Profissional Quinze de Novembro (I.P.Q.N) compete receber menores do sexo masculino, de mais de 12 anos, com a 3³ série primária concluída, e ministrar-lhes educação e ensino, inclusive o agrícola, o comercial e o industrial básicos.
 
-<strong>Art</strong>. 54. À Escola Agrícola Artur Bernardes (E.A.A.B.) compete receber menores do sexo masculino de mais de 12 (doze) anos e ministrar-lhes educação, inclusive ensino semi-especializado de agricultura, zootecnia, industriais rurais e aprendizagem profissional.
+**Art**. 54. À Escola Agrícola Artur Bernardes (E.A.A.B.) compete receber menores do sexo masculino de mais de 12 (doze) anos e ministrar-lhes educação, inclusive ensino semi-especializado de agricultura, zootecnia, industriais rurais e aprendizagem profissional.
 
-<strong>Art</strong>. 55. À Escola Wenceslau Braz (E.W.B.) compete receber menores do sexo masculino, de 7 a 12 anos, e ministrar-lhes educação e ensino pirmário, e paralelemente, a iniciação profissional.
+**Art**. 55. À Escola Wenceslau Braz (E.W.B.) compete receber menores do sexo masculino, de 7 a 12 anos, e ministrar-lhes educação e ensino pirmário, e paralelemente, a iniciação profissional.
 
-<strong>Art</strong>. 56. À Escola Feminina de Artes e Ofícios (E.F.A.O.) compete receber menores do sexo feminino, de 12 a 15 anos, com a 3 série primária concluída, e ministrar-lhes educação e ensino, inclusive o curso de formação de auxiliar de escritório e os de artes femininas.
+**Art**. 56. À Escola Feminina de Artes e Ofícios (E.F.A.O.) compete receber menores do sexo feminino, de 12 a 15 anos, com a 3 série primária concluída, e ministrar-lhes educação e ensino, inclusive o curso de formação de auxiliar de escritório e os de artes femininas.
 
-<strong>Art</strong>. 57. À Escola João Luiz Alves (E.J.L.A.) compete receber menores do sexo masculino, de mais de 16 anos, e ministrar-lhes educação e ensino supletivo e paralelamente, a aprendizagem profissional.
+**Art**. 57. À Escola João Luiz Alves (E.J.L.A.) compete receber menores do sexo masculino, de mais de 16 anos, e ministrar-lhes educação e ensino supletivo e paralelamente, a aprendizagem profissional.
 
-<strong>Art</strong>. 58. Ao Educandário Nossa Senhora do Carmo (E.N.S.C.) compete receber menores do sexo feminino, de 7 a 12 anos, e ministrar-lhes educação, ensino primário e aprendizagem de serviços domésticos.
+**Art**. 58. Ao Educandário Nossa Senhora do Carmo (E.N.S.C.) compete receber menores do sexo feminino, de 7 a 12 anos, e ministrar-lhes educação, ensino primário e aprendizagem de serviços domésticos.
 
-<strong>Art</strong>. 59. Ao Instituto Padre Severino (I.P.S.) compete receber menores do sexo masculino, proveniente ao Juizado de Menores, autores de atos anti-sociais, com leves distúbios de conduta, e ministrar-lhes educação, ensino e aprendizagem profissional.
+**Art**. 59. Ao Instituto Padre Severino (I.P.S.) compete receber menores do sexo masculino, proveniente ao Juizado de Menores, autores de atos anti-sociais, com leves distúbios de conduta, e ministrar-lhes educação, ensino e aprendizagem profissional.
 
-<strong>Art</strong>. 60. Ao Instituto Governador Macedo Soares (I.G.M.S.) compete receber menores do sexo masculino, provenientes do Juizado de Menores, autores de atos anti-sociais, com sérios distúrbios de conduta, e ministrar-lhes educação, ensino e aprendizagem profissional.
+**Art**. 60. Ao Instituto Governador Macedo Soares (I.G.M.S.) compete receber menores do sexo masculino, provenientes do Juizado de Menores, autores de atos anti-sociais, com sérios distúrbios de conduta, e ministrar-lhes educação, ensino e aprendizagem profissional.
 
-<strong>Art</strong>. 61. Ao Pavilhão Anchieta (P.A.) compete receber menores do sexo masculino, provenientes do Juizado de Menores, autores de atos anti-sociais, com graves distúrbios de conduta, e ministrar-lhes educação, ensino e aprendizagem profissional.
+**Art**. 61. Ao Pavilhão Anchieta (P.A.) compete receber menores do sexo masculino, provenientes do Juizado de Menores, autores de atos anti-sociais, com graves distúrbios de conduta, e ministrar-lhes educação, ensino e aprendizagem profissional.
 
-<strong>Art</strong>. 62. À Escola-Granja (E.G.) compete receber menores excepecionais do sexo masculino, de mais de 12 anos, e ministrar-lhes educação e ensino proporcionais à sua capacidade.
+**Art**. 62. À Escola-Granja (E.G.) compete receber menores excepecionais do sexo masculino, de mais de 12 anos, e ministrar-lhes educação e ensino proporcionais à sua capacidade.
 
-<strong>Art</strong>. 63. Às Casas-Lar (C.L.) compete receber menores do sexo masculino, de 1 a 6 anos, e ministrar-lhes, quando couber, instrução pré-primária.
+**Art**. 63. Às Casas-Lar (C.L.) compete receber menores do sexo masculino, de 1 a 6 anos, e ministrar-lhes, quando couber, instrução pré-primária.
 
-<strong>Art</strong>. 64. Ao Instituto São João Batista (I.S.J.B.) compete receber menores do sexo feminino, de 1 a 6 anos, e ministrar-lhe, quando couber, instrução pré-primária.
+**Art**. 64. Ao Instituto São João Batista (I.S.J.B.) compete receber menores do sexo feminino, de 1 a 6 anos, e ministrar-lhe, quando couber, instrução pré-primária.
 
-<strong>Art</strong>. 65. Ao Instituto Coração de Maria (I.C.M.) compete receber menores do sexo feminino, provenientes do Juizado de Menores, autoras de atos anti-sociais, e ministrar-lhes educação, ensino e aprendizagem profissional.
+**Art**. 65. Ao Instituto Coração de Maria (I.C.M.) compete receber menores do sexo feminino, provenientes do Juizado de Menores, autoras de atos anti-sociais, e ministrar-lhes educação, ensino e aprendizagem profissional.
 
-<strong>Art</strong>. 66. A educação, a instrução e, quando couber, a aprendizagem profissional, ministradas pelos Estabelecimentos Assistenciais obedecerão aos planos elaborados pela D.E., respeitados os programas oficiais de ensino.
+**Art**. 66. A educação, a instrução e, quando couber, a aprendizagem profissional, ministradas pelos Estabelecimentos Assistenciais obedecerão aos planos elaborados pela D.E., respeitados os programas oficiais de ensino.
 
 Parágrafo único. Nos estabelecimentos de menores do sexo masculino em que mais da metade do efetivo fôr de idade superior a 16 anos, será obrigatória a instrução pré-militar.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das atribuições do pessoal</em>
+*Das atribuições do pessoal*
 
-<strong>Art</strong>. 67 Ao Diretor incumbe:
+**Art**. 67 Ao Diretor incumbe:
 
 I - Orientar e coordenar as atividades do S.A.M.;
 
@@ -714,7 +712,7 @@ XXXII - dar cumprimento às ordens de internação e desligamento expedidas pelo
 
 XXXIII - determinar a internação e o desligamento de menores desvalidos;
 
-XXXIV - decidir sôbre as medidas de assistência a que se referem as alíneas <em>a</em>, <em>c</em> e <em>d</em> do item I do art 1º;
+XXXIV - decidir sôbre as medidas de assistência a que se referem as alíneas *a*, *c* e *d* do item I do art 1º;
 
 XXXV - prestar as informações solicitadas pelos Juízes de Menores a respeito de menores assistidos pelo S.A.M.;
 
@@ -726,7 +724,7 @@ XXXVIII - delegar competência;
 
 XXXIX - determinar os dados que devam ser remetidos pelos órgãos do S.A.M à Seção de Estatística.
 
-<strong>Art</strong>. 68 Aos Chefes de Divisão incumbe:
+**Art**. 68 Aos Chefes de Divisão incumbe:
 
 I - orientar e coordenar as atividades da respectivas Divisão;
 
@@ -760,7 +758,7 @@ XV - corresponder-se diretamente com diretores de estabelecimentos da rêde assi
 
 XVI - providenciar o encaminhamento, com regularidade à Seção de Estatística dos dados especificados pelo Diretor;
 
-<strong>Art</strong>. 69. Aos Chefes de Seção incumbe:
+**Art**. 69. Aos Chefes de Seção incumbe:
 
 I - dirigir e fiscalizar as atividades da respctiva Seção;
 
@@ -790,7 +788,7 @@ XI - elogiar e aplicar penas disciplinares inclusive a de suspensão até oito d
 
 § 3º O Chefe da Portaria do H.C terá as atribuições dêste artigo, exceto os que se referem os itens V VII e XI.
 
-<strong>Art</strong>. 70. Aos Delegados Regionais incumbe:
+**Art**. 70. Aos Delegados Regionais incumbe:
 
 I - orientar e cooredenar as atividades da respctiva Delegacia;
 
@@ -822,7 +820,7 @@ XIV - iformar o S.A.M. pormenorizadamente sôbre o resultado das pesquisas e ent
 
 XV - obsevar rigorosamente, a especialização e os limetes dos recursos finaceiros movimentados pela respectiva Delagacia;
 
-<strong>Art</strong>. 71. Aos Assessores incumbe:
+**Art**. 71. Aos Assessores incumbe:
 
 I - coordenar as atividades das Delagacias Reginais e dos Estabelecimentos Assitencias;
 
@@ -830,7 +828,7 @@ II - estudar os assuntos encaminhados pelas Delagacias Regionais e os provinient
 
 III - submeter à apreciação do Diretor os casos dependentes de sua decisão.
 
-<strong>Art</strong>. 72. Aos Assistentes incumbe:
+**Art**. 72. Aos Assistentes incumbe:
 
 I - estudar e preparar os despachos dos processos submetidos à decisão do Diretor;
 
@@ -840,7 +838,7 @@ III - preparar os Relatorios do S.A.M.;
 
 IV - executar os demais trabalhos que forem determinados pelo Diretor.
 
-<strong>Art</strong>. 73. Ao Secretário incumbe:
+**Art**. 73. Ao Secretário incumbe:
 
 I - atender às pessoas que desejarem comunicar-se com o Diretor;
 
@@ -848,31 +846,31 @@ II - assitir o Diretor e representá-lo quando para isso designado;
 
 III - redigir a correspondência pessoal do Diretor.
 
-<strong>Art</strong>. 74. Aos demais servidores, sem funções especializadas neste Regimento, incumbe executar os trabalhos que lhe forem determinados pelos seus superiores imediatos.
+**Art**. 74. Aos demais servidores, sem funções especializadas neste Regimento, incumbe executar os trabalhos que lhe forem determinados pelos seus superiores imediatos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 75. A lotação do S.A.M. será única, fixada e aprovada mediante decreto.
+**Art**. 75. A lotação do S.A.M. será única, fixada e aprovada mediante decreto.
 
 Parágrafos único. A distribuição dos cargos e funções pelos diversos órgãos do S.A.M. será estabelecida pelo Diretor, mediante Portaria.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 76. O horário normal de trabalho será fixado pelo Diretor, segundo a conveniência do serviço, respeitado o número de horas semanais estabelecido para o serviço público civil.
+**Art**. 76. O horário normal de trabalho será fixado pelo Diretor, segundo a conveniência do serviço, respeitado o número de horas semanais estabelecido para o serviço público civil.
 
-<strong>Art</strong>. 77. O horário do pessoal designado para serviço externo será estabelecido de acôrdo com as exigências dos trabalhos, sendo a freqüência apurada por meio de boletins diários de produção.
+**Art**. 77. O horário do pessoal designado para serviço externo será estabelecido de acôrdo com as exigências dos trabalhos, sendo a freqüência apurada por meio de boletins diários de produção.
 
-<strong>Art</strong>. 78. O Diretor, os Chefes de Divisão, os Delegados Regionais e os Dirigentes de Estabelecimentos Assistências não ficam sujeitos a pontos, devendo, porém, observar o horário fixado.
+**Art**. 78. O Diretor, os Chefes de Divisão, os Delegados Regionais e os Dirigentes de Estabelecimentos Assistências não ficam sujeitos a pontos, devendo, porém, observar o horário fixado.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 79. Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais, até 30 dias:
+**Art**. 79. Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais, até 30 dias:
 
 I - o Diretor, por um dos Chefes de Divisão, de sua indicação designados pelo Minstro;
 
@@ -886,22 +884,22 @@ V - os Dirigentes de Estabelicimentos Assistencias por servidores de sua indica�
 
 Parágrafos único. Haverá sempre servidores prèviamente designados para as substituições de que trata êste artigo.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DAS DISPOSIÇÕE GERAIS</em>
+*DAS DISPOSIÇÕE GERAIS*
 
-<strong>Art</strong>. 80 Será obrigatoriamente comemorada nos estabelecimentos da rêde assistêncial e na Seção de Triagem a Semana da Criança.
+**Art**. 80 Será obrigatoriamente comemorada nos estabelecimentos da rêde assistêncial e na Seção de Triagem a Semana da Criança.
 
-<strong>Art</strong>. 81. Como forma de incentivo à aprendizagem profissional em complemento à execucão dos planos educacionais a que se referem os itens III e IV do art 37 poderão os menores organizar – se no sentido de disporem de sua mão- de - obra para a produção de utilidade cuja retribuição lhes pertencerá observadas as normas fiadas pela direção do S.A.M.
+**Art**. 81. Como forma de incentivo à aprendizagem profissional em complemento à execucão dos planos educacionais a que se referem os itens III e IV do art 37 poderão os menores organizar – se no sentido de disporem de sua mão- de - obra para a produção de utilidade cuja retribuição lhes pertencerá observadas as normas fiadas pela direção do S.A.M.
 
-<strong>Art</strong>. 82 As diferentes unidades de trabalhos de que se compões o S.A.M deverão organizar e manter atualizada uma coleção de leis decretos regulamentos e instruções de serviços que digam respeitos as atividades especificadas das mesmas.
+**Art**. 82 As diferentes unidades de trabalhos de que se compões o S.A.M deverão organizar e manter atualizada uma coleção de leis decretos regulamentos e instruções de serviços que digam respeitos as atividades especificadas das mesmas.
 
-<strong>DISPOSIÇÕES TRANSITÓRIA</strong>
+**DISPOSIÇÕES TRANSITÓRIA**
 
-<strong>Art</strong> 83 As atuais Inspetoria e Agências do S.A.M nos Estados passam a denomina-se Delegacias Regionais.
+**Art** 83 As atuais Inspetoria e Agências do S.A.M nos Estados passam a denomina-se Delegacias Regionais.
 
-<strong>Art</strong> 84 Nos territórios m enquanto não forem instalados Delegacias Regionais os serviços assistências do S.A.M ficarão a cargo da autoridade que para tal fim tiver delegação de competência.
+**Art** 84 Nos territórios m enquanto não forem instalados Delegacias Regionais os serviços assistências do S.A.M ficarão a cargo da autoridade que para tal fim tiver delegação de competência.
 
 Rio de Janeiro em 26 de outubro de 1957.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**

@@ -1,5 +1,3 @@
-###DEC-048353-0-000-21-06-1960@@@
-
 Decreto nº 48.353, de 21 de junho de 1960.
 
 Autoriza o cidadão brasileiro Joaquim Pereira D´Anunciação a pesquisar diamantes no município de Grão Mogol, Estado de Minas Gerais.

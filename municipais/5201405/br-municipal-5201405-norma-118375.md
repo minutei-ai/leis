@@ -1,4 +1,5 @@
-DECRETO “N” Nº 617 DE 21 DE SETEMBRO DE 2023.<br>
+DECRETO “N” Nº 617 DE 21 DE SETEMBRO DE 2023.
+
 (Revogado pelo Decreto "N" nº 500, de 24 de junho de 2024).
 
 ~~Dispõe sobre remembramento de imóveis.~~
@@ -28,8 +29,10 @@ DECRETO “N” Nº 617 DE 21 DE SETEMBRO DE 2023.<br>
 
 ~~Aparecida de Goiânia, Estado de Goiás, aos 21 de setembro de 2023.~~
 
-~~POLLYANA OLIVEIRA BORGES<br>
+~~POLLYANA OLIVEIRA BORGES
+
 Secretária Interina de Governo~~
 
-~~JÚLIO CÉSAR CHAGAS MENDES<br>
+~~JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário Interino de Planejamento e Regulação Urbana~~

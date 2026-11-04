@@ -1,5 +1,3 @@
-###DEC-054653-0-000-29-10-1964@@@
-
 DECRETO Nº 54.653, DE 29 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Severo Luís Sobrinho a pesquisar cassiterita no Município de Araçuaí, Estado de Minas Gerais.

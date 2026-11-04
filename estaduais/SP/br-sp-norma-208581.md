@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208581)<br>
-
 # DECRETO N° 67.982, DE 27 DE SETEMBRO DE 2023
 
 ### _Autoriza a outorga de uso do imóvel que especifica ao Município de Cruzália e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEC-064200-0-000-14-03-1969@@@
-
 DECRETO Nº 64.200, DE 14 DE MARÇO DE 1969.
 
 Cria os Núcleos do Instituto de Pesquisa de Aeronáutica e Espaço, do Instituto de Fomento e Coordenação Industrial e do Instituto de Ensaios e Padrões.

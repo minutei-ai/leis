@@ -1,5 +1,3 @@
-###DEC-073996-0-000-30-04-1974@@@
-
 DECRETO Nº 73.996, DE 30 DE ABRIL DE 1974.
 
 Dispõe sobre a estrutura básica do Instituto Nacional de Alimentação e Nutrição - INAN e dá outras providências.

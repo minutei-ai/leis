@@ -1,14 +1,12 @@
-###LEI-000482-0-000-23-08-1937@@@
+**LEI N. 482 – DE 23 DE AGÔSTO DE 1937**
 
-<strong>LEI N. 482 – DE 23 DE AGÔSTO DE 1937</strong>
-
-<em><strong>Altera a tabela de direitos aduaneiros sobre o amianto e seus produtos, da tarifa das Alfândegas, e concede redução especial dêsses direitos à indústria nacional de fibro-cimento</strong></em>
+***Altera a tabela de direitos aduaneiros sobre o amianto e seus produtos, da tarifa das Alfândegas, e concede redução especial dêsses direitos à indústria nacional de fibro-cimento***
 
 O Presidente da República:
 
 Faço saber que o Poder Legislativo decreta e eu sanciono a seguinte lei:
 
-<strong>Art.</strong> 1º Fica alterada, como segue, a tabela de direitos aduaneiros referente à classe 17ª, inciso n. 569 (Amianto ou Asbesto), da Tarifa das Alfândegas em vigor:
+**Art.** 1º Fica alterada, como segue, a tabela de direitos aduaneiros referente à classe 17ª, inciso n. 569 (Amianto ou Asbesto), da Tarifa das Alfândegas em vigor:
 
 Classe 17ª          Direitos
 
@@ -60,11 +58,11 @@ Com mistura de cimento ou produto
 
 semelhante............................               kg. P. L.                                     1$610                                         1$310
 
-<strong>Art.</strong> 2º Às emprêsas, companhias ou firmas legalmente constituídas e a constituirem-se, que exploram no País a indústria do fibro cimento (produto de cimento e amianto), prensados ou fabricados por feltragem e laminação ou enrolamento helicoidal, por via húmida, será concedida uma redução de oitenta por cento (80%), sôbre os direitos de importação para consumo do amianto fino estrangeiro, da espécie chrisolita ou equivalente, de fibras flexíveis e resistentes, de comprimento superior a cinco milímetros, sem similar entre os amiantos comuns da espécie tremolita e congêneres, explorados pela indústria extrativa nacional.
+**Art.** 2º Às emprêsas, companhias ou firmas legalmente constituídas e a constituirem-se, que exploram no País a indústria do fibro cimento (produto de cimento e amianto), prensados ou fabricados por feltragem e laminação ou enrolamento helicoidal, por via húmida, será concedida uma redução de oitenta por cento (80%), sôbre os direitos de importação para consumo do amianto fino estrangeiro, da espécie chrisolita ou equivalente, de fibras flexíveis e resistentes, de comprimento superior a cinco milímetros, sem similar entre os amiantos comuns da espécie tremolita e congêneres, explorados pela indústria extrativa nacional.
 
-<strong>Art.</strong> 3º A concessão acima fica sujeita às condições estabelecidas pelos arts. 24, 25 e 26 do decreto n. 24.023, de 21 de março de 1934, e será limitada para cada empresa mediante a fiscalização adequada, previstas, nesse decreto, a uma quantidade proporcional a produção das suas fábricas, de modo a assegurar o emprêgo do amianto nacional, na proporção de duas partes de matéria prima nacional, para uma parte de matéria prima importada, na fabricação de chapas ou outros produtos, e na proporção de metade de cada matéria prima na fabricação de tubos.
+**Art.** 3º A concessão acima fica sujeita às condições estabelecidas pelos arts. 24, 25 e 26 do decreto n. 24.023, de 21 de março de 1934, e será limitada para cada empresa mediante a fiscalização adequada, previstas, nesse decreto, a uma quantidade proporcional a produção das suas fábricas, de modo a assegurar o emprêgo do amianto nacional, na proporção de duas partes de matéria prima nacional, para uma parte de matéria prima importada, na fabricação de chapas ou outros produtos, e na proporção de metade de cada matéria prima na fabricação de tubos.
 
-<strong>Art.</strong> 4º Para fazerem jús ao favor mencionado no artigo anterior, as fábricas nacionais de fibro-cimemto deverão satisfazer as seguintes condições:
+**Art.** 4º Para fazerem jús ao favor mencionado no artigo anterior, as fábricas nacionais de fibro-cimemto deverão satisfazer as seguintes condições:
 
 a) fazer, perante o Ministério do Trabalho, Indústria e Comércio, prova da existência da sociedade, companhia ou firma que as exploram, com certidões do respectivo registro na Junta Comercial competente;
 
@@ -76,12 +74,12 @@ d) sujeitar-se à fiscalização do Ministério, quer quanto à quantidade de ma
 
 Parágrafo único. O Ministério do Trabalho, Indústria e Comércio fornecerá às fábricas de fibro-cimento, nas condições supra-mencionadas, os certificados necessários a instruir o desembaraço aduaneiro da matéria prima importada, e, bem assim, expedirá certificados comprobativos da qualidade do produto fabricado para fins comerciais.
 
-<strong>Art.</strong> 5º A presente lei entrará em vigor na data da sua publicação.
+**Art.** 5º A presente lei entrará em vigor na data da sua publicação.
 
-<strong>Art.</strong> 6º Revogam-se as disposições em contrário.
+**Art.** 6º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 23 de agôsto de 1937, 116º da Independência e 49º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Arthur de Souza Costa.

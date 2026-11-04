@@ -1,5 +1,3 @@
-###DEL-005385-0-000-08-04-1943@@@
-
 DECRETO‑LEI N. 5.385 – DE 8 DE ABRIL DE 1943
 
 Cria a graduação de alunos intendentes de Aeronáutica e dá outras pro­vidências

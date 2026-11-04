@@ -1,5 +1,3 @@
-###DEC-067333-0-000-05-10-1970@@@
-
 DECRETO Nº 67.333, DE 5 OUTUBRO DE 1970.
 
 Declara caduco o Decreto nº 16.551, de 8 de setembro de 1944.

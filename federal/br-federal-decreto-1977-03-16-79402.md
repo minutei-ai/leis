@@ -1,5 +1,3 @@
-###DEC-079402-0-000-16-03-1977@@@
-
 DECRETO Nº 79.402, de 16 de Março de 1977.
 
 Concede reconhecimento ao curso de Estudos Sociais da Faculdade de Filosofia, Ciência e Letras de Botucatu, com sede na Cidade de Botucatu, Estado de São Paulo.

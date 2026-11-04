@@ -1,5 +1,3 @@
-###DEC-046139-0-000-04-06-1959@@@
-
 DECRETO Nº 46.139, DE 4 DE JUNHO DE 1959.
 
 Declara de utilidade pública a Associação Cristã de Moços de Sorocaba, com sede em Sorocaba, Estado de São Paulo.

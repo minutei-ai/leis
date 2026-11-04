@@ -1,5 +1,3 @@
-###DEC-081278-0-000-31-01-1978@@@
-
 Decreto nº 81.278, de 31 de janeiro de 1978.
 
 Concede reconhecimento ao curso de Engenharia eletrônica de Telecomunicação da Universidade Católica de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-007006-0-000-10-11-2009@@@ 
-
 DECRETO Nº 7.006, DE 10 DE NOVEMBRO DE 2009.
 
 Dá nova redação ao art. 6o do Anexo I ao Decreto no 5.417, de 13 de abril de 2005, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão do Grupo-Direção e Assessoramento Superiores e das Funções Gratificadas do Comando da Marinha e do Ministério da Defesa.

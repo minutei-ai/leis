@@ -1,5 +1,3 @@
-###DEC-068075-0-000-18-01-1971@@@
-
 Decreto nº 68.075, de 18 de janeiro de 1971.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 54.491, de 16 de outubro de 1964, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas, da área de terreno, necessária à construção do açude público "Orós", no município do mesmo nome, Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEC-086195-0-000-13-07-1981@@@
-
 Decreto nº 86.195, de 13 de julho de 1981
 
 Eleva o capital do Banco Nacional do Desenvolvimento Econômico - BNDE e dá outras providências.

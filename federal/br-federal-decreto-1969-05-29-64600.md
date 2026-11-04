@@ -1,5 +1,3 @@
-###DEC-064600-0-000-29-05-1969@@@
-
 DECRETO Nº 64.600, DE 29 DE MAIO DE 1969.
 
 Autorizo o funcionamento da Faculdade de Odontologia de Mogi das Cruzes - São Paulo.

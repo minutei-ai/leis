@@ -1,5 +1,3 @@
-###DEC-067251-0-000-23-09-1970@@@
-
 Decreto nº 67.251, de 23 de setembro de 1970.
 
 Declara caduco o Decreto nº 38.689, de 28 de janeiro de 1956

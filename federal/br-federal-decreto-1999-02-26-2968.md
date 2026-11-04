@@ -1,5 +1,3 @@
-###DEC-002968-0-000-26-02-1999@@@
-
 DECRETO Nº 2.968, DE 26 DE FEVEREIRO DE 1999.
 
 Prorroga o prazo estabelecido no art. 3º do Decreto nº 2.507, de 3 de março de 1998.

@@ -1,5 +1,3 @@
-###DEC-004281-0-000-25-06-2002@@@
-
 DECRETO Nº 4.281, DE 25 DE JUNHO DE 2002
 
 Regulamenta a Lei nº 9.795, de 27 de abril de 1999, que institui a Política Nacional de Educação Ambiental, e dá outras providências.

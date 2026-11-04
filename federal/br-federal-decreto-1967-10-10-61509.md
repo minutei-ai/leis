@@ -1,5 +1,3 @@
-###DEC-061509-0-000-10-10-1967@@@
-
 DECRETO Nº 61.509, DE 10 de OUTUBRO DE 1967.
 
 Autoriza o Ministério da Aeronáutica a ceder gratuitamente terras de propriedade da União Federal, localizadas no Município de Santa Maria, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-052803-0-000-05-11-1963@@@
-
 DECRETO Nº 52.803, DE 5 DE NOVEMBRO DE 1963.
 
 Concede à sociedade Navegação Meca Ltda. autorização para funcionar como emprêsa de navegação de cabotagem.

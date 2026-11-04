@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/b1fbcd7d-3c66-4d2f-b2b7-aca12c624120/texto#nowhere)
 
-###DEL-000913-0-000-06-10-1969@@@
-
 DECRETO-LEI Nº 913, DE 6 DE OUTUBRO DE 1969
 
 Autoriza o Poder Executivo a abrir ao Ministério dos Transportes, em favor da Superintendência de Marinha Mercante, o crédito especial de NCr$1.070.386,00, para o fim que especifica.

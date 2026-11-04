@@ -1,5 +1,3 @@
-###DEL-005249-0-000-15-02-1943@@@
-
 DECRETO‑LEI N. 5.249 – DE 15 DE FEVEREIRO DE 1943
 
 Cria na Comissão de Marinha Mercante subcomissões e dá outras providências

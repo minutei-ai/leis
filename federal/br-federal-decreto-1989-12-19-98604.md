@@ -1,7 +1,3 @@
-1
-
-###DEC-098604-0-000-19-12-1989@@@
-
 DECRETO Nº 98.604, DE 19 DE DEZEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, os imóveis rurais denominados “FAZENDA CARNAÚBA” E “GLEBA OLARIA”, situados no Município de São Félix do Araguaia, Estado de Mato Grosso, e dá outras providências.

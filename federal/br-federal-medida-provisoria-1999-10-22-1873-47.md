@@ -1,5 +1,3 @@
-###MPV-001873-0-047-22-10-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.873-47, DE 22 DE OUTUBRO DE 1999.
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional - NTN destinadas a aumento de capital do Banco do Brasil S.A., e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-058700-0-000-23-06-1966@@@
-
 DECRETO Nº 58.700, de 23 de junho de 1966.
 
 Outorga concessão à Radiodifusão Educadora da Bahia Ltda., para instalar uma estação de radiodifusão de sons e imagens (Televisão), na cidade de Salvador - Estado da Bahia.

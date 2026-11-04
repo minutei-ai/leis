@@ -1,5 +1,3 @@
-###DEC-093602-0-000-21-11-1986@@@
-
 DECRETO Nº 93.602, DE 21 DE NOVEMBRO DE 1986
 
 Dispõe sobre aquisição de material permanente pelos órgãos e entidades integrantes do Sistema de Serviços Gerais, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-062006-0-000-29-12-1967@@@
-
 DECRETO Nº 62.006, DE 29 DE DEZEMBRO DE 1967.
 
 Dispõe sôbre os incentivos previstos no Decreto-lei nº 55, de 18 de novembro de 1966.
@@ -51,8 +49,6 @@ Edmundo de Macedo Soares
 Hélio Beltrão
 
 Afonso A. Lima
-
-###DEC-062006-0-000-29\-12\-1967@@@RET01+++
 
 DECRETO Nº 62.006, DE 29 DE DEZEMBRO DE 1967.
 

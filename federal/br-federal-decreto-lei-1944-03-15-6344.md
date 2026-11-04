@@ -1,5 +1,3 @@
-###DEL-006344-0-000-15-03-1944@@@
-
 DECRETO-LEI N. 6.344 – DE 15 DE MARÇO DE 1944
 
 Dispõe sôbre o uniforme dos Guardas Florestais do Serviço Florestal do Ministério da Agricultura

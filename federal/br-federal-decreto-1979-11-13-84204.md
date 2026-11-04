@@ -1,5 +1,3 @@
-###DEC-084204-0-000-13-11-1979@@@
-
 Decreto nº 84.204, de 13 de novembro de 1979.
 
 Declara de interesse social para fins de desapropriação, área de terra no Estado de Santa Catarina.

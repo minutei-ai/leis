@@ -1,5 +1,3 @@
-###DEC-047039-0-000-16-10-1959@@@
-
 DECRETO Nº 47.039, DE 16 DE OUTUBRO DE 1959.
 
 Modifica o Decreto nº 44.826, de 7 de novembro de 1958, e dá outras providências.

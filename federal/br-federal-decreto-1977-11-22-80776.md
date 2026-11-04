@@ -1,5 +1,3 @@
-###DEC-080776-0-000-22-11-1977@@@
-
 Decreto nº 80.776, de 22 de novembro de 1997.
 
 Concede à Calcário Itapetininga Ltda. o direito de lavrar calcário dolomítico no Município de Itapetininga, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-085171-0-000-17-09-1980@@@
-
 DECRETO Nº 85.171, DE 17 DE SETEMBRO DE 1980.
 
 Autoriza o Estado de Santa Catarina a desapropriar as ações da empresa Caldas da Imperatriz Indústria e Comércio S/A.

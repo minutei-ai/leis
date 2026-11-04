@@ -1,5 +1,3 @@
-###DEC-052586-0-000-30-09-1963@@@
-
 DECRETO Nº 52.586, DE 30 DE SETEMBRO DE 1963.
 
 Outorga à Prefeitura Municipal de Campo Maior concessão para distribuir energia elétrica.

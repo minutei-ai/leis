@@ -1,7 +1,3 @@
-1
-
-###DEC-002045-0-000-24-10-1996@@@
-
 DECERTO Nº 2.045, DE 24 DE OUTUBRO DE 1996.
 
 Promulga o Acordo de Cooperação Cultural, Científica e Técnica, celebrado entre o Governo da República Federativa do Brasil e o Governo de Antígua e Barbuda, em Brasília, em 17 de agosto de 1982.

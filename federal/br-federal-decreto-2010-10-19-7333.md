@@ -1,5 +1,3 @@
-###DEC-007333-0-000-19-10-2010-PUB-01@@@
-
 DECRETO Nº 7.333, DE 19 DE OUTUBRO DE 2010.
 
 Dá nova redação a dispositivos do Decreto no 3.937, de 25 de setembro de 2001, que regulamenta a Lei no 6.704, de 26 de outubro de 1979, que dispõe sobre o Seguro de Crédito à Exportação.

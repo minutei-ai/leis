@@ -1,5 +1,3 @@
-###DEC-071030-0-000-28-08-1972@@@
-
 DECRETO Nº 71.030, DE 28 DE AGOSTO DE 1972.
 
 Redistribui cargos com os respectivos ocupantes, e dá outras providências.

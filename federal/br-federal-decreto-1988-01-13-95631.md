@@ -1,7 +1,3 @@
-1
-
-###DEC-095631-0-000-13-01-1988@@@
-
 DECRETO N° 95.631, DE 13 DE JANEIRO DE 1988
 
 Outorga concessão à RÁDIO EDUCADORA VALE DO MUNIN LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Chapadinha, Estado do Maranhão.

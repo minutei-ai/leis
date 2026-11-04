@@ -1,5 +1,3 @@
-###DEL-001096-0-000-23-03-1970@@@
-
 # DECRETO-LEI Nº 1.096, DE 23 DE MARÇO DE 1970
 
 Concede incentivos fiscais às emprêsas de mineração.

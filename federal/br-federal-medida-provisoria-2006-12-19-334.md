@@ -1,5 +1,3 @@
-###MPV-000334-0-000-19-12-2006@@@
-
 MEDIDA PROVISÓRIA Nº 334, DE 19 DE DEZEMBRO 2006.
 
 Autoriza a Superintendência da Zona Franca de Manaus - SUFRAMA a efetuar doação de área ao Governo do Estado do Amazonas, objeto de ocupação, localizada na Área de Expansão do Distrito Industrial, para atender ao interesse público e social.
@@ -19,5 +17,3 @@ Autoriza a Superintendência da Zona Franca de Manaus - SUFRAMA a efetuar doaç�
 LUIZ INÁCIO LULA DA SILVA
 
       Luiz Fernando Furlan
-
-Este texto não substitui o publicado no DOU. de 20.12.2006

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/57)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2002/compilacao-lei-11078-04.04.2002.html)
 
 # LEI N° 11.078, DE 04 DE ABRIL DE 2002

@@ -1,5 +1,3 @@
-###DEL-008671-0-000-14-01-1946@@@
-
 DECRETO-LEI N. 8.671 – DE 14 JANEIRO DE 1946
 
 Cria cargos no Quadro Permanente do Ministério da Educação e Saúde e dá outros providências.

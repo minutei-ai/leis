@@ -1,5 +1,3 @@
-###DEC-090096-0-000-23-08-1984@@@
-
 Decreto nº 90.096, de 23 de agosto de 1984
 
 Dispõe sobre a restituição de saldos das contas a que se refere o art. 22 do Decreto nº 89.265, de 29 de dezembro de 1983, que estabeleceu as normas de execução orçamentária e definiu a programação financeira para o exercício de 1984.

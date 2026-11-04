@@ -1,5 +1,3 @@
-###DEC-077793-0-000-09-06-1976@@@
-
 decreto nº 77.793, de 9 de junho de 1976.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado na cidade e Estado do Rio de Janeiro.

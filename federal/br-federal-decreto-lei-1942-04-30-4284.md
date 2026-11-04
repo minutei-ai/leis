@@ -1,5 +1,3 @@
-###DEL-004284-0-000-30-04-1942@@@
-
 DECRETO-LEI N. 4.284 – DE 30 DE ABRIL DE 1942
 
 Altera, sem aumento de despesa, o atual Orçamento do Ministério da Guerra

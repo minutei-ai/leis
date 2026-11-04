@@ -1,5 +1,3 @@
-###DEL-005734-0-000-06-08-1943@@@
-
 DECRETO‑LEI N. 5.734 – DE 6 DE AGÔSTO DE 1943
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 500.000,00 para auxílio à Iª Conferência Inter-americana de advogados

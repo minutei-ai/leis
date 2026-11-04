@@ -18,8 +18,6 @@ Art. 4º Este Decreto entra em vigor na data de sua publicação, porém seus ef
 
 Goiânia, 30 de março de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

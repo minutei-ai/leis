@@ -1,5 +1,3 @@
-###DEC-096398-0-000-22-07-1988@@@
-
 DECRETO N° 96.398, DE 22 DE JULHO DE 1988
 
 Declara de interesse social para fins de desapropriação, o imóvel rural denominado “FAZENDA REVOLUÇÃO”, classificado como “latifúndio por exploração”, situado no Município de Natividade, no Estado de Goiás compreendido na zona prioritária, para fins de reforma agrária fixada pelo Decreto n° 92.690, de 19 de maio de 1986, e da outras providências.

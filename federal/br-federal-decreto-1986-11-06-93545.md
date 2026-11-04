@@ -1,5 +1,3 @@
-###DEC-093545-0-000-06-11-1986@@@
-
 DECRETO Nº 93.545, DE 6 DE NOVEMBRO DE 1986
 
 Altera o artigo 1º, Caput, do Decreto nº 91.796, de 17 de outubro de 1985.

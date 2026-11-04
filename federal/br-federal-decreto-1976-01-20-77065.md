@@ -1,5 +1,3 @@
-###DEC-077065-0-000-20-01-1976@@@
-
 DECRETO Nº 77.065, DE 20 DE JANEIRO DE 1976.
 
 Regulamenta os incentivos fiscais disciplinados pelo Decreto-lei nº 1.428, de 2 de dezembro de 1975, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-067374-0-000-13-10-1970@@@
-
 DECRETO Nº 67.374, DE 13 DE OUTUBRO DE 1970.
 
 Dá nova redação a dispositivo do Decreto nº 64.833, de 17 de julho de 1969.

@@ -1,5 +1,3 @@
-###DEC-045599-0-000-23-03-1959@@@
-
 DECRETO Nº 45.599, DE 23 DE MARÇO DE 1959.
 
 Aprova a mudança da denominação social da Novo Mundo - Companhia de Seguros, Terrestres e Marítimos para Novo Mundo - Companhia Nacional de Seguros Gerais.

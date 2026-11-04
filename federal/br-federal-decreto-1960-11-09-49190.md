@@ -1,5 +1,3 @@
-###DEC-049190-0-000-09-11-1960@@@
-
 decreto nº 49.190, de 9 de novembro de 1960.
 
 Autoriza a Firma Werner Martin Blum, a comprar pedras preciosas.

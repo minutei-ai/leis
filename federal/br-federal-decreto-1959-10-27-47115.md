@@ -1,5 +1,3 @@
-###DEC-047115-0-000-27-10-1959@@@
-
 Decreto nº 47.115, de 27 de outubro de 1959.
 
 Autoriza o cidadão brasileiro Benedito Ferreira Lopes a lavrar caulim no município de Mogi das Cruzes, Estado de São Paulo.

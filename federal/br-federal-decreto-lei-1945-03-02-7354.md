@@ -1,5 +1,3 @@
-###DEL-007354-0-000-02-03-1945@@@
-
 DECRETO-LEI N. 7.354 – DE 2 DE MARÇO DE 1945
 
 Extingue cargos de Coletor e de Escrivão de Coletoria e dá outras providências

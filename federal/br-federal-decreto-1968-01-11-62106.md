@@ -1,5 +1,3 @@
-###DEC-062106-0-000-11-01-1968@@@
-
 DECRETO Nº 62.106, DE 11 DE JANEIRO DE 1968.
 
 Retifica o enquadramento dos cargos do Ministério da Educação e Cultura, aprovado pelo Decreto número 52.794, de 31 de outubro de 1963.

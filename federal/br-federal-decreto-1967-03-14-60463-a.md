@@ -1,5 +1,3 @@
-###DEC-060463-A-000-14-03-1967@@@
-
 DECRETO Nº 60.463-A, DE 14 DE MARÇO DE 1967.
 
 Aprova o enquadramento dos professôres - fundadores, da Universidade Federal da Paraíba em cargos de Professor de Ensino Superior, do Quadro de Pessoal - Parte Suplementar do Ministério da Educação e Cultura e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-004431-0-000-02-07-1942@@@
-
 DECRETO-LEI N. 4.431 – DE 2 DE JULHO DE 1942
 
 Abre ao Ministério da Relações Exteriores o crédito especial da 390:000$0, para despesas no exterior

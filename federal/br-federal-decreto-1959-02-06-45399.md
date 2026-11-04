@@ -1,5 +1,3 @@
-###DEC-045399-0-000-06-02-1959@@@
-
 DECRETO Nº 45.399, DE 6 DE FEVEREIRO DE 1959.
 
 Autoriza a Cia. Estanífera do Brasil a pesquisar cassiterita no município de Ipameri, Estado de Goiás.

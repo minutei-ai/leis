@@ -1,5 +1,3 @@
-###DEC-049342-0-000-25-11-1960@@@
-
 Decreto nº 49.342, DE 25 DE NOVEMBRO DE 1960.
 
 Vincula recursos do Fundo Federal de Eletrificação e dá outras providências.

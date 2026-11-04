@@ -1,5 +1,3 @@
-###DEC-064156-0-000-04-03-1969@@@
-
 DECRETO Nº 64.156, DE 4 DE MaRÇO DE 1969.
 
 Regulamenta os artigos 2,º 3º e 5º do Decreto-lei nº 427, de 22 de janeiro de 1969.

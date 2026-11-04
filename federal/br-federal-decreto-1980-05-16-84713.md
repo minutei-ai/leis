@@ -1,5 +1,3 @@
-###DEC-084713-0-000-16-05-1980@@@
-
 Decreto nº 84.713, de 16 de maio de 1980
 
 Dispensa a licitação na alienação de terras devolutas da União que menciona, e dá outras providências.

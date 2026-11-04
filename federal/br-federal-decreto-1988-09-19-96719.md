@@ -1,5 +1,3 @@
-###DEC-096719-0-000-19-09-1988@@@
-
 DECRETO N° 96.719, DE 19 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO CARANGOLA LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Carangola, Estado de Minas Gerais.

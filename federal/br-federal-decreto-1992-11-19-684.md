@@ -1,7 +1,3 @@
-1
-
-###DEC-000684-0-000-19-11-1992@@@
-
 DECRETO Nº 684, DE 19 DE NOVEMBRO DE 1992
 
 Aprova o Regulamento de Promoções de Praças da Marinha.

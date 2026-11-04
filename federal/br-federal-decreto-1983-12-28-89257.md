@@ -1,5 +1,3 @@
-###DEC-089257-0-000-28-12-1983@@@
-
 Decreto nº 89.257, de 28 de dezembro de 1983
 
 Declara de ocupação dos silvícolas área de terras, no Município de TARAUACÁ, no Estado do Acre, e dá outras providências.

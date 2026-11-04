@@ -1,5 +1,3 @@
-###MPV-000023-0-000-18-01-2002@@@
-
 MEDIDA PROVISÓRIA No 23, DE 18 DE JANEIRO DE 2002.
 
 Abre crédito extraordinário, em favor dos Ministérios dos Transportes e da Integração Nacional, no valor global de R$ 115.000.000,00, para os fins que especifica.

@@ -1,5 +1,3 @@
-###DEC-088336-0-000-30-05-1983@@@
-
 Decreto nº 88.336, de 30 de maio de 1983
 
 Outorga à Companhia Hidro Elétrica do São Francisco - CHESF concessão para o aproveitamento da energia hidráulica de um trecho do rio Paraguaçu, no local denominado Pedra do Cavalo, nos Municípios de Conceição da Feira e Governador Mangabeira, Estado da Bahia.

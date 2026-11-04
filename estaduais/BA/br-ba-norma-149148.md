@@ -4,7 +4,8 @@ Institui o Selo Distribuição Legal - "Quem se Importa, Ganha”, no âmbito do
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 **Art. 1º** - Fica instituído o Selo Distribuição Legal - "Quem se Importa, Ganha”, instrumento de reconhecimento institucional destinado às empresas do setor atacadista distribuidor que atuam no Estado da Bahia e que adotam práticas de legalidade empresarial, governança corporativa, responsabilidade social e sustentabilidade ambiental.
@@ -35,7 +36,8 @@ DAS DISPOSIÇÕES PRELIMINARES
 
 **III -** práticas ESG: conjunto de diretrizes e ações empresariais orientadas pelos pilares ambiental (_Environmental_), social (_Social_) e de governança corporativa (_Governance_).
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS CATEGORIAS DO SELO
 
 **Art. 4º** - O Selo Distribuição Legal - "Quem se Importa, Ganha”será conferido em 03 (três) categorias, conforme o grau de aderência da empresa aos critérios ESG estabelecidos nesta Lei:
@@ -48,10 +50,12 @@ DAS CATEGORIAS DO SELO
 
 **Parágrafo único -** A empresa certificada em categoria inferior poderá, a qualquer tempo, requerer a elevação de categoria mediante comprovação do atendimento aos critérios adicionais correspondentes.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DOS CRITÉRIOS PARA CONCESSÃO DO SELO
 
-Seção I<br>
+Seção I
+
 Do Pilar de Governança Corporativa
 
 **Art. 5º** - Para o atendimento ao Pilar de Governança Corporativa, a empresa deverá comprovar, cumulativamente:
@@ -74,7 +78,8 @@ Do Pilar de Governança Corporativa
 
 **Parágrafo único -** Para fins do disposto no inciso VIII do _caput_ deste artigo, considera-se entidade sindical patronal aquela regularmente constituída, com base territorial definida e legitimidade de representação da categoria econômica, nos termos dos arts. 511 e seguintes da Consolidação das Leis do Trabalho - CLT.
 
-Seção II<br>
+Seção II
+
 Do Pilar de Responsabilidade Social
 
 **Art. 6º** - Para o atendimento ao Pilar de Responsabilidade Social, a empresa deverá comprovar, cumulativamente:
@@ -89,7 +94,8 @@ Do Pilar de Responsabilidade Social
 
 **Parágrafo único -** A regulamentação desta Lei poderá estabelecer critérios complementares e formas de comprovação para o atendimento ao disposto neste artigo.
 
-Seção III<br>
+Seção III
+
 Do Pilar de Sustentabilidade Ambiental
 
 **Art. 7º** - Para o atendimento ao Pilar de Sustentabilidade Ambiental, a empresa deverá comprovar a adoção de, pelo menos, 02 (duas) das seguintes práticas:
@@ -102,7 +108,8 @@ Do Pilar de Sustentabilidade Ambiental
 
 **IV -** cumprimento integral das obrigações ambientais e dos licenciamentos exigidos para suas atividades.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DA CONCESSÃO, VALIDADE E RENOVAÇÃO
 
 **Art. 8º** - A concessão do Selo Distribuição Legal - "Quem se Importa, Ganha” será operacionalizada por entidade representativa setorial, conforme definida no inciso II do art. 3º desta Lei, mediante processo de avaliação e certificação das empresas candidatas.
@@ -129,7 +136,8 @@ DA CONCESSÃO, VALIDADE E RENOVAÇÃO
 
 **§ 2**º - A não renovação do Selo implica a perda automática do direito de uso da certificação e de seus elementos visuais.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DO USO DO SELO
 
 **Art. 10** - A empresa certificada poderá utilizar o Selo Distribuição Legal - "Quem se Importa, Ganha” em:
@@ -144,7 +152,8 @@ DO USO DO SELO
 
 **Parágrafo único -** O uso do Selo Distribuição Legal - "Quem se Importa, Ganha” está condicionado à estrita observância das normas de identidade visual estabelecidas pela entidade representativa setorial responsável por sua operacionalização.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DA SUSPENSÃO E DA CASSAÇÃO DO SELO
 
 **Art. 11** - O Selo Distribuição Legal - "Quem se Importa, Ganha” poderá ser suspenso ou cassado nas seguintes hipóteses:
@@ -163,7 +172,8 @@ DA SUSPENSÃO E DA CASSAÇÃO DO SELO
 
 **§ 3**º - A empresa que tiver o Selo cassado somente poderá requerer nova certificação após o transcurso de 12 (doze) meses, contados da data da cassação.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DAS DISPOSIÇÕES FINAIS
 
 **Art. 12** - O Poder Executivo poderá regulamentar esta Lei no que couber, especialmente quanto à integração do Selo Distribuição Legal com políticas públicas estaduais de desenvolvimento econômico, fomento ao comércio e proteção ao consumidor.

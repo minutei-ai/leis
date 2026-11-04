@@ -1,5 +1,3 @@
-###DEC-061473-0-000-05-10-1967@@@
-
 Decreto nº 61.473, de 5 de outubro de 1967.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica no distrito de Sarzêdo, município de Ibirité, Estado de Minas Gerais.

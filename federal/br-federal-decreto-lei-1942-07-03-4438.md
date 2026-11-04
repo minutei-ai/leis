@@ -1,5 +1,3 @@
-###DEL-004438-0-000-03-07-1942@@@
-
 DECRETO-LEI N. 4.438 – DE 3 DE JULHO DE 1942
 
 Abre, ao Ministério da Agricultura, o crédito especial de 88:900$0, para instalação da Estação de Enologia de Caldas e Posto de Análise de Vinhos de Belo Horizonte

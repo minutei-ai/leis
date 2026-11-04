@@ -1,5 +1,3 @@
-###DEL-007743-0-000-16-07-1945@@@
-
 DECRETO-LEI N. 7.743 – DE 16 DE JULHO DE 1945
 
 Altera carreiras, abre, sem aumento de despesa, crédito suplementar ao Ministério da Fazenda e dá outras providências

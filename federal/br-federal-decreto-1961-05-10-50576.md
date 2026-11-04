@@ -1,5 +1,3 @@
-###DEC-050576-0-000-10-05-1961@@@
-
 DECRETO Nº 50.576, de 10 de Maio de 1961.
 
 Uniformiza o preenchimento de lugares nos Conselhos Administrativos das Caixas Econômicas Federais e dá outras providencias.

@@ -2,7 +2,8 @@ LEI Nº 22.486, DE 22 DE DEZEMBRO DE 2023
 
 Institui o Programa de Volta para Casa.
 
-\- [Vide Decreto nº 10.830](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111752), de 09-12-2025 - Prorroga a vigência do Programa de Volta para Casa para o exercício de 2026.<br>
+\- [Vide Decreto nº 10.830](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111752), de 09-12-2025 - Prorroga a vigência do Programa de Volta para Casa para o exercício de 2026.
+
 \- [Vide Decreto nº 10.593](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110118), de 10-12-2024 - Prorroga a vigência do Programa de Volta para Casa para o exercício de 2025.
 
 A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), decreta e eu sanciono a seguinte Lei:
@@ -33,8 +34,10 @@ Art. 7º A SEDS será responsável pela gestão, operacionalização e supervis�
 
 Art. 8º Para a execução do Programa de que trata esta Lei, serão utilizados recursos do Fundo de Proteção Social do Estado de Goiás – PROTEGE GOIÁS ou do Tesouro Estadual.
 
-Art. 9º O Programa de Volta para Casa terá a duração de 12 (doze) meses e poderá ser prorrogado por decreto do Chefe do Poder Executivo, o que estará condicionado à avaliação do Programa e à disponibilidade orçamentário-financeira.<br>
-\- [Vide Decreto nº 10.830](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111752), de 09-12-2025 - Prorroga a vigência do Programa de Volta para Casa para o exercício de 2026.<br>
+Art. 9º O Programa de Volta para Casa terá a duração de 12 (doze) meses e poderá ser prorrogado por decreto do Chefe do Poder Executivo, o que estará condicionado à avaliação do Programa e à disponibilidade orçamentário-financeira.
+
+\- [Vide Decreto nº 10.830](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111752), de 09-12-2025 - Prorroga a vigência do Programa de Volta para Casa para o exercício de 2026.
+
 \- [Vide Decreto nº 10.593](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110118), de 10-12-2024 - Prorroga a vigência do Programa de Volta para Casa para o exercício de 2025.
 
 Parágrafo único. Os recursos necessários à efetivação do Programa de Volta para Casa, no ano de 2024, serão alocados no orçamento anual da SEDS, com a observância da legislação vigente e da disponibilidade financeira.

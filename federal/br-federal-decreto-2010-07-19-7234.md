@@ -1,5 +1,3 @@
-###DEC-007234-0-000-19-07-2010@@@
-
 DECRETO Nº 7.234, DE 19 DE JULHO DE 2010.
 
 Dispõe sobre o Programa Nacional de Assistência Estudantil - PNAES.

@@ -1,5 +1,3 @@
-###DEL-006027-0-000-24-11-1943@@@
-
 DECRETO‑LEI N. 6.027 – DE 24 DE NOVEMBRO DE 1943
 
 Concede aumento geral de vencimento e salário e institue o regime de salário-família na Prefeitura do Distrito Federal, e dá outras providências
@@ -12,7 +10,33 @@ Art. 1º O vencimento e o salário dos servidores da Prefeitura do Distrito Fede
 
 Art. 2º Os vencimentos dos funcionários, estabelecidos pelo decreto‑lei n. 1.944, de 30 de dezembro de 1939, e os salários dos extranumerários‑mensalistas e contratados, percebidos na data dêste decreto‑lei, ficam aumentados na seguinte proporção:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:7.1pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>Vencimento mensal</span></p></td><td style="width:85.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Aumento mensal</span></p></td></tr><tr><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>Em Cr$</span></p></td><td style="width:85.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>Em Cr$</span></p></td></tr><tr><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>Até 650 ..................................................................................................</span></p></td><td style="width:85.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>150</span></p></td></tr><tr><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De 651 a 1.400 ........ ..........................................................................................</span></p></td><td style="width:85.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>200</span></p></td></tr><tr><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De 1.401 a 2.900 ................................................................................................</span></p></td><td style="width:85.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>300</span></p></td></tr><tr><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De 2.901 a 3.400 ................................................................................................</span></p></td><td style="width:85.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>400</span></p></td></tr><tr><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De 3.401 em diante ............................................................................................</span></p></td><td style="width:85.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>500</span></p></td></tr></tbody></table>
+Vencimento mensal
+
+Aumento mensal
+
+Em Cr$
+
+Em Cr$
+
+Até 650 ..................................................................................................
+
+150
+
+De 651 a 1.400 ........ ..........................................................................................
+
+200
+
+De 1.401 a 2.900 ................................................................................................
+
+300
+
+De 2.901 a 3.400 ................................................................................................
+
+400
+
+De 3.401 em diante ............................................................................................
+
+500
 
 § 1º A atual tabela de vencimentos fica substituída pela que acompanha êste decreto‑lei.
 

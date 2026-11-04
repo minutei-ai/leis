@@ -1,5 +1,3 @@
-###MPV-001982-0-076-26-10-2000@@@
-
 MEDIdA PROVISÓRIA Nº 1.982-76, DE 26 DE outubro DE 2000.
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

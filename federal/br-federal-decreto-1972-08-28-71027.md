@@ -1,5 +1,3 @@
-###DEC-071027-0-000-28-08-1972@@@
-
 DECRETO Nº 71.027, DE 28 DE AGOSTO DE 1972.
 
 Altera as condições da autorização para aterro de mar e cessão de terrenos da União referidas no Decreto nº 55.847, de 19 de março de 1965.

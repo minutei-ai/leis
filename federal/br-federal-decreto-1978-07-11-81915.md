@@ -1,5 +1,3 @@
-###DEC-081915-0-000-11-07-1978@@@
-
 Decreto nº 81.915, de 11 de julho de 1978
 
 Concede à CALCIT - Calcários Industrializados Tamandaré S.A. o direito de lavrar calcário nos Municípios de Rio Branco do Sul e Almirante Tamandaré, Estado do Paraná.

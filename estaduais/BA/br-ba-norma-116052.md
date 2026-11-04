@@ -12,23 +12,25 @@ Art. 2º - Em garantia da liquidação do empréstimo a que se refere esta Lei, 
 
 Art. 3º - Para efeitos do disposto no [parágrafo único do artigo 40](https://www.legislabahia.ba.gov.br/documentos/lei-no-3275-de-28-de-junho-de-1974#CE1967_Art__40_P__UNICO) combinado com o [parágrafo 3º do artigo 35, da Constituição do Estado](https://www.legislabahia.ba.gov.br/documentos/lei-no-3275-de-28-de-junho-de-1974#CE1967_Art__35_P_3) , os orçamentos dos exercícios de 1975 a 1979 consignarão dotações nos valores a seguir indicados, para acorrer aos serviços de resgate do principal e juros advindos da contratação do empréstimo autorizado nesta Lei:
 
-<table border="1" cellspacing="0" cellpadding="0" width="236" style="width:177.2pt;
- margin-left:92.15pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr><td width="95" valign="top" style="width:70.9pt;border:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>1975<quebra></quebra></span></p></td><td width="142" valign="top" style="width:106.3pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Cr$14.162.500,00<quebra></quebra></span></p></td></tr><tr><td width="95" valign="top" style="width:70.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>1976<quebra></quebra></span></p></td><td width="142" valign="top" style="width:106.3pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Cr$13.262.500,00<quebra></quebra></span></p></td></tr><tr><td width="95" valign="top" style="width:70.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>1977<quebra></quebra></span></p></td><td width="142" valign="top" style="width:106.3pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Cr$12.362.500,00<quebra></quebra></span></p></td></tr><tr><td width="95" valign="top" style="width:70.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>1978<quebra></quebra></span></p></td><td width="142" valign="top" style="width:106.3pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Cr$11.462.500,00<quebra></quebra></span></p></td></tr><tr><td width="95" valign="top" style="width:70.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>1979<quebra></quebra></span></p></td><td width="142" valign="top" style="width:106.3pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Cr$10.562.500,00<quebra></quebra></span></p></td></tr></tbody></table>
+1975<quebra></quebra>
+
+Cr$14.162.500,00<quebra></quebra>
+
+1976<quebra></quebra>
+
+Cr$13.262.500,00<quebra></quebra>
+
+1977<quebra></quebra>
+
+Cr$12.362.500,00<quebra></quebra>
+
+1978<quebra></quebra>
+
+Cr$11.462.500,00<quebra></quebra>
+
+1979<quebra></quebra>
+
+Cr$10.562.500,00<quebra></quebra>
 
 Parágrafo único - As parcelas acima indicadas poderão sofrer, em cada exercício, a atualização necessária decorrente da incorporação dos valores correspondentes à correção monetária calculada conforme os índices que vierem a ser utilizados para a correção das Obrigações Reajustáveis do Tesouro Nacional.
 

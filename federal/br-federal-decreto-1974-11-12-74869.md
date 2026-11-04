@@ -1,5 +1,3 @@
-###DEC-074869-0-000-12-11-1974@@@
-
 Decreto nº 74.869, de 12 de novembro de 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Olinda - Pernambuco Ltda., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Olinda, Estado de Pernambuco.

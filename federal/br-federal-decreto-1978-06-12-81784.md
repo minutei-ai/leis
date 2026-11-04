@@ -1,5 +1,3 @@
-###DEC-081784-0-000-12-06-1978@@@
-
 decreto nº 81.784, de 12 de junho de 1978.
 
 Autoriza a cessão, sob o regime de aforamento, dos imóveis que menciona, situados na Cidade e Estado do Rio de Janeiro.

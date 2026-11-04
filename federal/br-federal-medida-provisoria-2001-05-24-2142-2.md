@@ -1,5 +1,3 @@
-###MPV-002142-0-002-24-05-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.142‑2, DE 24 DE MAIO DE 2001.
 
 Dispõe sobre o salário mínimo a partir de 1º de abril de 2001, e dá outras providências.

@@ -36,148 +36,150 @@ Expedito Pereira da Cruz
 
 Laurindo de Oliveira Regis Filho
 
-<table border="1" cellspacing="0" cellpadding="0" width="584" style="width:437.7pt;
- border-collapse:collapse;border:none;mso-border-alt:solid black .75pt;
- mso-padding-alt:0cm 5.35pt 0cm 5.35pt"><tbody><tr><td width="54" valign="top" style="width:40.85pt;border:solid black .75pt;
-  padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="302" valign="top" style="width:8.0cm;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="38" valign="top" style="width:1.0cm;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>Cr$<quebra></quebra></span></p></td><td width="113" valign="top" style="width:85.0pt;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>Cr$<quebra></quebra></span></p></td></tr><tr><td width="54" valign="top" style="width:40.85pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>3<quebra></quebra></span></p></td><td width="302" valign="top" style="width:8.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>Coronéis<quebra></quebra></span></p></td><td width="38" valign="top" style="width:1.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>a<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>8.400,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:85.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span><span style="mso-spacerun:
-  yes">&nbsp;</span>126.000,00<quebra></quebra></span></p></td></tr><tr><td width="54" valign="top" style="width:40.85pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>10<quebra></quebra></span></p></td><td width="302" valign="top" style="width:8.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>Tenentes Coronéis<quebra></quebra></span></p></td><td width="38" valign="top" style="width:1.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>a<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>7.400,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:85.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span><span style="mso-spacerun:
-  yes">&nbsp;</span>408.000,00<quebra></quebra></span></p></td></tr><tr><td width="54" valign="top" style="width:40.85pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>13<quebra></quebra></span></p></td><td width="302" valign="top" style="width:8.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>Majores<quebra></quebra></span></p></td><td width="38" valign="top" style="width:1.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>a<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>6.700,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:85.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span><span style="mso-spacerun:
-  yes">&nbsp;</span>499.200,00<quebra></quebra></span></p></td></tr><tr><td width="54" valign="top" style="width:40.85pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>43<quebra></quebra></span></p></td><td width="302" valign="top" style="width:8.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>Capitães<quebra></quebra></span></p></td><td width="38" valign="top" style="width:1.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>6.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:85.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>1.573.800,00<quebra></quebra></span></p></td></tr><tr><td width="54" valign="top" style="width:40.85pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>46<quebra></quebra></span></p></td><td width="302" valign="top" style="width:8.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>Primeiros Tenentes<quebra></quebra></span></p></td><td width="38" valign="top" style="width:1.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>a<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>5.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:85.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>1.352.400,00<quebra></quebra></span></p></td></tr><tr><td width="54" valign="top" style="width:40.85pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>36<quebra></quebra></span></p></td><td width="302" valign="top" style="width:8.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>Segundos Tenentes<quebra></quebra></span></p></td><td width="38" valign="top" style="width:1.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>a<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>4.500,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:85.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>1.015.200,00<quebra></quebra></span></p></td></tr><tr><td width="54" valign="top" style="width:40.85pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>39<quebra></quebra></span></p></td><td width="302" valign="top" style="width:8.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>Asp. a Oficial e Sub-Tenentes<quebra></quebra></span></p></td><td width="38" valign="top" style="width:1.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>3.200,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:85.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span><span style="mso-spacerun:
-  yes">&nbsp;</span>678.600,00<quebra></quebra></span></p></td></tr><tr><td width="54" valign="top" style="width:40.85pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>80<quebra></quebra></span></p></td><td width="302" valign="top" style="width:8.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>Primeiros Sargentos e Alunos do 3º ano<quebra></quebra></span></p></td><td width="38" valign="top" style="width:1.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>a<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>2.700,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:85.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>1.104.000,00<quebra></quebra></span></p></td></tr><tr><td width="54" valign="top" style="width:40.85pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>158<quebra></quebra></span></p></td><td width="302" valign="top" style="width:8.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>Segundos Sgts. e Alunos do 2º ano<quebra></quebra></span></p></td><td width="38" valign="top" style="width:1.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>a<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>2.300,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:85.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>1.611.600,00<quebra></quebra></span></p></td></tr><tr><td width="54" valign="top" style="width:40.85pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>280<quebra></quebra></span></p></td><td width="302" valign="top" style="width:8.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>Terceiros Sgts. e Alunos do 1º ano<quebra></quebra></span></p></td><td width="38" valign="top" style="width:1.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>a<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>2.100,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:85.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>2.520.000,00<quebra></quebra></span></p></td></tr><tr><td width="54" valign="top" style="width:40.85pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>380<quebra></quebra></span></p></td><td width="302" valign="top" style="width:8.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>Cabos de Esquadra<quebra></quebra></span></p></td><td width="38" valign="top" style="width:1.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>a<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>1.700,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:85.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>3.192.000,00<quebra></quebra></span></p></td></tr><tr><td width="54" valign="top" style="width:40.85pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>40<quebra></quebra></span></p></td><td width="302" valign="top" style="width:8.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>Soldados Corneteiros<quebra></quebra></span></p></td><td width="38" valign="top" style="width:1.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>a<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>1.600,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:85.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span><span style="mso-spacerun:
-  yes">&nbsp;</span>336.000,00<quebra></quebra></span></p></td></tr><tr><td width="54" valign="top" style="width:40.85pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>1981<quebra></quebra></span></p></td><td width="302" valign="top" style="width:8.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span>Soldados Mobilizáveis engajados ou reengajados de vencimentos de Cr$750,00 e Cr$800,00<quebra></quebra></span></p></td><td width="38" valign="top" style="width:1.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p><p class="Tabela-Texto"><span>a<quebra></quebra></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .75pt;border-right:solid black .75pt;mso-border-top-alt:
-  solid black .75pt;mso-border-left-alt:solid black .75pt;padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p><p class="Tabela-Texto"><span>1.555,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:85.0pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 5.35pt 0cm 5.35pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p><p class="Tabela-Texto"><span>18.247.860,00<quebra></quebra></span></p></td></tr></tbody></table>
+<quebra></quebra>
 
-* * *
+<quebra></quebra>
+
+<quebra></quebra>
+
+Cr$<quebra></quebra>
+
+Cr$<quebra></quebra>
+
+3<quebra></quebra>
+
+Coronéis<quebra></quebra>
+
+a<quebra></quebra>
+
+8.400,00<quebra></quebra>
+
+126.000,00<quebra></quebra>
+
+10<quebra></quebra>
+
+Tenentes Coronéis<quebra></quebra>
+
+a<quebra></quebra>
+
+7.400,00<quebra></quebra>
+
+408.000,00<quebra></quebra>
+
+13<quebra></quebra>
+
+Majores<quebra></quebra>
+
+a<quebra></quebra>
+
+6.700,00<quebra></quebra>
+
+499.200,00<quebra></quebra>
+
+43<quebra></quebra>
+
+Capitães<quebra></quebra>
+
+<quebra></quebra>
+
+6.000,00<quebra></quebra>
+
+1.573.800,00<quebra></quebra>
+
+46<quebra></quebra>
+
+Primeiros Tenentes<quebra></quebra>
+
+a<quebra></quebra>
+
+5.000,00<quebra></quebra>
+
+1.352.400,00<quebra></quebra>
+
+36<quebra></quebra>
+
+Segundos Tenentes<quebra></quebra>
+
+a<quebra></quebra>
+
+4.500,00<quebra></quebra>
+
+1.015.200,00<quebra></quebra>
+
+39<quebra></quebra>
+
+Asp. a Oficial e Sub-Tenentes<quebra></quebra>
+
+<quebra></quebra>
+
+3.200,00<quebra></quebra>
+
+678.600,00<quebra></quebra>
+
+80<quebra></quebra>
+
+Primeiros Sargentos e Alunos do 3º ano<quebra></quebra>
+
+a<quebra></quebra>
+
+2.700,00<quebra></quebra>
+
+1.104.000,00<quebra></quebra>
+
+158<quebra></quebra>
+
+Segundos Sgts. e Alunos do 2º ano<quebra></quebra>
+
+a<quebra></quebra>
+
+2.300,00<quebra></quebra>
+
+1.611.600,00<quebra></quebra>
+
+280<quebra></quebra>
+
+Terceiros Sgts. e Alunos do 1º ano<quebra></quebra>
+
+a<quebra></quebra>
+
+2.100,00<quebra></quebra>
+
+2.520.000,00<quebra></quebra>
+
+380<quebra></quebra>
+
+Cabos de Esquadra<quebra></quebra>
+
+a<quebra></quebra>
+
+1.700,00<quebra></quebra>
+
+3.192.000,00<quebra></quebra>
+
+40<quebra></quebra>
+
+Soldados Corneteiros<quebra></quebra>
+
+a<quebra></quebra>
+
+1.600,00<quebra></quebra>
+
+336.000,00<quebra></quebra>
+
+1981<quebra></quebra>
+
+Soldados Mobilizáveis engajados ou reengajados de vencimentos de Cr$750,00 e Cr$800,00<quebra></quebra>
+
+<quebra></quebra>
+
+a<quebra></quebra>
+
+<quebra></quebra>
+
+1.555,00<quebra></quebra>
+
+<quebra></quebra>
+
+18.247.860,00<quebra></quebra>
+
+ *

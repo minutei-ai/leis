@@ -1,5 +1,3 @@
-###DEC-098499-0-000-12-12-1989@@@
-
 DECRETO N° 98.499, DE 12 DE DEZEMBRO DE 1989
 
 Revoga o artigo 11 e dá nova redação ao artigo 19 do Decreto n° 97.456, de 15 de janeiro de 1989.

@@ -1,5 +1,3 @@
-###DEC-062057-0-000-05-01-1968@@@
-
 Decreto nº 62.057, de 5 de janeiro de 1968.
 
 Declara de utilidade pública o “Lar Escola da Divina Providência” com sede em Amparo, Estado de São Paulo.

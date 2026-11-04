@@ -1,5 +1,3 @@
-###DEC-066205-0-000-16-02-1970@@@
-
 DECRETO Nº 66.205 - DE 16 DE FEVEREIRO DE 1970
 
 Cria a Embaixada do Brasil na República da Uganda.

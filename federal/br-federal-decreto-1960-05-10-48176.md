@@ -1,5 +1,3 @@
-###DEC-048176-0-000-10-05-1960@@@
-
 DECRETO Nº 48.176, DE 10 DE MAIO DE 1960.
 
 Autoriza o cidadão brasileiro Leandro Martignago a pesquisar fluorita, no município de Tubarão, Estado de Santa Catarina.

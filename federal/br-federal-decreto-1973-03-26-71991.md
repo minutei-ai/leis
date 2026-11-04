@@ -1,5 +1,3 @@
-###DEC-071991-0-000-26-03-1973@@@
-
 DECRETO Nº 71.991, de 26 de março de 1973.
 
 Cria e suprime Agências de Capitanias de Portos.

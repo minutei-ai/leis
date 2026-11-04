@@ -1,14 +1,12 @@
-###DEC-063045-0-000-26-07-1968@@@
+**DECRETO Nº 63.045, DE 26 DE JULHO DE 1968.**
 
-<strong>DECRETO Nº 63.045, DE 26 DE JULHO DE 1968.</strong>
+***Extingue funções gratificadas no Quadro de Pessoal do Ministério da Indústria e do Comércio.***
 
-<em><strong>Extingue funções gratificadas no Quadro de Pessoal do Ministério da Indústria e do Comércio.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, no uso da atribuição que lhe confere o artigo 83, item II, da Constituição e tendo em vista o que consta do Processo nº MIC-6.091-68,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, no uso da atribuição que lhe confere o artigo 83, item II, da Constituição e tendo em vista o que consta do Processo nº MIC-6.091-68,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam extintas, no Quadro de Pessoal do Ministério da Indústria e do Comércio, as seguintes funções gratificadas, criadas pelos Decretos nºs 51.411 e 56.900, respectivamente, de 14 de fevereiro de 1962 e 23 de setembro de 1965, para atender aos encargos de chefia, secretariado e assessoramento, do então Departamento Nacional de Seguros Privados e Capitalização, da Secretaria do Comércio:
+**Art**. 1º Ficam extintas, no Quadro de Pessoal do Ministério da Indústria e do Comércio, as seguintes funções gratificadas, criadas pelos Decretos nºs 51.411 e 56.900, respectivamente, de 14 de fevereiro de 1962 e 23 de setembro de 1965, para atender aos encargos de chefia, secretariado e assessoramento, do então Departamento Nacional de Seguros Privados e Capitalização, da Secretaria do Comércio:
 
 a) Criadas pelo Decreto nº 51.411, de 15 de fevereiro de 1962:
 
@@ -76,10 +74,10 @@ b) Criada pelo Decreto nº 56.900, de 23 de setembro de 1965:
 
 1 Chefe da Seção de Habilitação e Registro de Corretores da Assessoria de Orientação e Fiscalização - símbolo 2-F.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Brasília, 26 de julho de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Edmundo de Macedo Soares

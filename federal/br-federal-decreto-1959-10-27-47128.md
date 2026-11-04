@@ -1,5 +1,3 @@
-###DEC-047128-0-000-27-10-1959@@@
-
 decreto nº 47.128, de 27 de outubro de 1959.
 
 Autoriza o cidadão brasileiro Daniel Luiz do Nascimento a pesquisar ouro e diamante nos Municípios de Diamantina e Bocaiuva, Estado de Minas Gerais.

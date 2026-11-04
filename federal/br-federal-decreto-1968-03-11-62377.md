@@ -1,5 +1,3 @@
-###DEC-062377-0-000-11-03-1968@@@
-
 DECRETO Nº 62.377, DE 11 DE MARÇO DE 1968.
 
 Declara de utilidade publica o “Instituto Profissional Laura Vicunha”, com sede em Campos, Estados do Rio de Janeiro.

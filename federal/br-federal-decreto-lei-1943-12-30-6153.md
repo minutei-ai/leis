@@ -1,5 +1,3 @@
-###DEL-006153-0-000-30-12-1943@@@
-
 DECRETO‑LEI N. 6.153 – DE 30 DE DEZEMBRO DE 1943
 
 Autoriza o Ministério da Fazenda a aceitar a doação que o Sr. Arnaldo Guinle faz à União de duas áreas de terras, que menciona, situadas nas imedia­ções do Parque Nacional de Serra dos órgãos, no Estado do Rio de Ja­neiro, e dá outras providências

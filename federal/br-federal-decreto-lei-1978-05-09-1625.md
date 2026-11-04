@@ -1,5 +1,3 @@
-###DEL-001625-0-000-09-05-1978@@@
-
 # decreto-lei nº 1.625, de 9 de maio de 1978
 
 Acrescenta parágrafo ao artigo 15 do Decreto-lei nº 1.493, de 7 de dezembro de 1976, e dá outras providências.

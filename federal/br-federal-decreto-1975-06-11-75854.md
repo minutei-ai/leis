@@ -1,5 +1,3 @@
-###DEC-075854-0-000-11-06-1975@@@
-
 DECRETO Nº 75.854, DE 11 DE JUNHO DE 1975.
 
 Concede reconhecimento ao curso de Engenharia de Produção da Universidade Federal do Rio de Janeiro, com sede na Cidade do Rio de Janeiro, Estado do Rio de Janeiro.

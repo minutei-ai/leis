@@ -1,5 +1,3 @@
-###DEL-009868-0-000-13-09-1946@@@
-
 DECRETO-LEI N. 9.868 – DE 13 DE SETEMBRO DE 1946
 
 Autoriza a aquisição de imóvel em Bacacheri, Curitiba, Estado do Paraná.

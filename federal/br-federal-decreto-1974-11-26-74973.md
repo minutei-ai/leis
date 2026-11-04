@@ -1,5 +1,3 @@
-###DEC-074973-0-000-26-11-1974@@@
-
 DECRETO Nº 74.973, DE 26 DE NOVEMBRO DE 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada a passagem de linha de transmissão da Espírito Santo Centrais Elétricas S.A., - ESCELSA, no Estado do Espírito Santo.
@@ -25,8 +23,6 @@ Brasília, 26 de novembro de 1974; 153º da Independência e 86º da República.
 Ernesto Geisel
 
 Arnaldo Rodrigues Barbalho
-
-###DEC-074973-0-000-26-11-1974@@@RET01+++
 
 DECRETO nº 74.973, DE 26 DE NOVEMBRO DE 1974.
 

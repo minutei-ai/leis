@@ -1,5 +1,3 @@
-###DEC-046606-0-000-14-08-1959@@@
-
 DECRETO Nº 46.606, DE 14 DE agôsto DE 1959.
 
 Autoriza o Govêrno do Estado de Sergipe a pesquisa sal-gema nos municípios de Nossa Senhora do Socorro e Laranjeiras, Estado de Sergipe.

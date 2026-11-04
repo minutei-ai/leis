@@ -1,5 +1,3 @@
-###DEC-047780-0-000-09-02-1960@@@
-
 DECRETO Nº 47.780, DE 9 DE Fevereiro DE 1960.
 
 Outorga concessão à Rádio Difusora do Lavrador Limitada para instalar uma estação radiodifusora.

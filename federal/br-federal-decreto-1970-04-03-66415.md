@@ -1,5 +1,3 @@
-###DEC-066415-0-000-03-04-1970@@@
-
 DECRETO Nº 66.415, DE 3 DE ABRIL DE 1970.
 
 Cria funções gratificadas no Quadro de Pessoal do Ministério do Exército.

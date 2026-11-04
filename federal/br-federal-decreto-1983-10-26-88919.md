@@ -1,5 +1,3 @@
-###DEC-088919-0-000-26-10-1983@@@
-
 Decreto nº 88.919, de 26 de outubro de 1983
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à implantação da estação de rádio UHF Embura e sua estrada de acesso da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

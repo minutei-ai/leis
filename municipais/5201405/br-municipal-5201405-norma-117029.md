@@ -6,19 +6,54 @@ FAÇO SABER QUE A CÂMARA MUNICPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEI
 
 Art. 1º. O Anexo I da Lei Complementar Municipal nº 015, de 08 de agosto de 2008, passa a vigorar com a seguinte redação:
 
-<table><thead></thead><tbody><tr><td style="text-align:justify">CARGOS EFETIVOS</td><td style="text-align:justify">QUANTITATIVO</td></tr><tr><td style="text-align:justify">Procurador do Município de Nível III</td><td style="text-align:center">13</td></tr><tr><td style="text-align:justify">Procurador do Município de Nível II</td><td style="text-align:center">6</td></tr><tr><td style="text-align:justify">Procurador do Município de Nível I</td><td style="text-align:center">4</td></tr><tr><td style="text-align:justify">Procurador do Município de Nível Especial</td><td style="text-align:center">1</td></tr></tbody></table>
+CARGOS EFETIVOS
 
-<table><thead></thead><tbody><tr><td style="text-align:justify">CARGOS EM COMISSÃO</td><td style="text-align:center">QUANTITATIVO</td></tr><tr><td style="text-align:justify">Chefe de Gabinete e Protocolo</td><td style="text-align:center">1</td></tr><tr><td style="text-align:justify">Assessor Jurídico</td><td style="text-align:center">10</td></tr><tr><td style="text-align:justify">Secretaria Geral</td><td style="text-align:center">1</td></tr></tbody></table>
+QUANTITATIVO
+
+Procurador do Município de Nível III
+
+13
+
+Procurador do Município de Nível II
+
+6
+
+Procurador do Município de Nível I
+
+4
+
+Procurador do Município de Nível Especial
+
+1
+
+CARGOS EM COMISSÃO
+
+QUANTITATIVO
+
+Chefe de Gabinete e Protocolo
+
+1
+
+Assessor Jurídico
+
+10
+
+Secretaria Geral
+
+1
 
 Art. 2º. Esta lei entra em vigor na data de sua publicação.
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA GOIÂNIA, ESTADO DE GOIÁS, AOS 11 DIAS DO MÊS DE JUNHO DE 2014.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-TARCÍSIO FRANCISCO DOS SANTOS<br>
+TARCÍSIO FRANCISCO DOS SANTOS
+
 Procurador Geral do Município

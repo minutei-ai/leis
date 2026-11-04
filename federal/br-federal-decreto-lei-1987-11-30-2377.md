@@ -1,7 +1,3 @@
-1
-
-###DEL-002377-0-000-30-11-1987@@@
-
 # DECRETO-LEI Nº 2.377, DE 30 DE NOVEMBRO DE 1987.
 
 Cancela os débitos que menciona, e dá outras providências.

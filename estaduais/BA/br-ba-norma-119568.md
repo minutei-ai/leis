@@ -2,14 +2,22 @@ LEI Nº 6.870 DE 17 DE JULHO DE 1995
 
 Institui vantagens privativas do Magistério Público Estadual e dá outras providências.
 
-Ver também:[<br>
-Art. 54 da Lei nº 8.532, de 02 de setembro de 2002](https://www.legislabahia.ba.gov.br/documentos/lei-no-8352-de-02-de-setembro-de-2002#LO_8_352_Art__54) : "Fica extinta, a partir de 1º de janeiro de 2003, a Gratificação de Estímulo às Atividades de Classe, instituída pela Lei nº 6.870, de 17 de julho de 1995, para os professores do Magistério Público do Ensino Superior.["<br>
-Art. 2º da Lei nº 7.937, de 11 de outubro de 2001](https://www.legislabahia.ba.gov.br/documentos/lei-no-7937-de-11-de-outubro-de-2001#LO_7_937_Art__2) : "Para efeito da conversão de que trata o art. 1º desta Lei, será tomada por base a remuneração paga ao professor no mês imediatamente anterior ao do reconhecimento do beneficio, excluídas as parcelas relativas a indenizações, auxílios, salário família e vantagem pessoal correspondente, acréscimo constitucional e abono de férias, gratificação natalina e seu adiantamento, além de outras de natureza correlata. "<br>
-[Art. 4º](https://www.legislabahia.ba.gov.br/documentos/lei-no-7250-de-09-de-janeiro-de-1998#LO_7_250_Art__4) da Lei nº 7.250, de 09 de janeiro de 1998 :  "O limite da Gratificação de Estímulo às Atividades de Classe instituída pela Lei nº 6.870, de 17 de julho de 1995, fica alterado para 30% (trinta por cento), a partir de 1º de janeiro de 1998.<br>
-Parágrafo único - O percentual da Gratificação de que trata o "caput" deste artigo poderá ser majorado, a qualquer tempo, por ato do Poder Executivo, para até 40% (quarenta por cento), desde que haja disponibilidade orçamentária."<br>
-[Art. 5º da Lei nº 7.250, de 09 de janeiro de 1998](https://www.legislabahia.ba.gov.br/documentos/lei-no-7250-de-09-de-janeiro-de-1998#LO_7_250_Art__5) :  "Fica extinta a Gratificação de Incentivo à Qualificação Profissional, instituída pela Lei nº 6.870, de 17 de julho de 1995.<br>
-§ 1º - Fica assegurado o pagamento da Gratificação ora extinta aos servidores que à data da regulamentação desta Lei, tenham concluído os cursos de atualização ou aperfeiçoamento, observadas as disposições regulamentares.<br>
-§ 2º - Os servidores que, na data de vigência desta Lei, estejam percebendo a gratificação extinta por este artigo, terão assegurada a continuidade do pagamento dos respectivos valores, convertidos estes em vantagem pessoal, reajustável sempre que houver majoração do vencimento básico do cargo efetivo ocupado, e no mesmo percentual a ele concedido."<br>
+Ver também:[
+
+Art. 54 da Lei nº 8.532, de 02 de setembro de 2002](https://www.legislabahia.ba.gov.br/documentos/lei-no-8352-de-02-de-setembro-de-2002#LO_8_352_Art__54) : "Fica extinta, a partir de 1º de janeiro de 2003, a Gratificação de Estímulo às Atividades de Classe, instituída pela Lei nº 6.870, de 17 de julho de 1995, para os professores do Magistério Público do Ensino Superior.["
+
+Art. 2º da Lei nº 7.937, de 11 de outubro de 2001](https://www.legislabahia.ba.gov.br/documentos/lei-no-7937-de-11-de-outubro-de-2001#LO_7_937_Art__2) : "Para efeito da conversão de que trata o art. 1º desta Lei, será tomada por base a remuneração paga ao professor no mês imediatamente anterior ao do reconhecimento do beneficio, excluídas as parcelas relativas a indenizações, auxílios, salário família e vantagem pessoal correspondente, acréscimo constitucional e abono de férias, gratificação natalina e seu adiantamento, além de outras de natureza correlata. "
+
+[Art. 4º](https://www.legislabahia.ba.gov.br/documentos/lei-no-7250-de-09-de-janeiro-de-1998#LO_7_250_Art__4) da Lei nº 7.250, de 09 de janeiro de 1998 :  "O limite da Gratificação de Estímulo às Atividades de Classe instituída pela Lei nº 6.870, de 17 de julho de 1995, fica alterado para 30% (trinta por cento), a partir de 1º de janeiro de 1998.
+
+Parágrafo único - O percentual da Gratificação de que trata o "caput" deste artigo poderá ser majorado, a qualquer tempo, por ato do Poder Executivo, para até 40% (quarenta por cento), desde que haja disponibilidade orçamentária."
+
+[Art. 5º da Lei nº 7.250, de 09 de janeiro de 1998](https://www.legislabahia.ba.gov.br/documentos/lei-no-7250-de-09-de-janeiro-de-1998#LO_7_250_Art__5) :  "Fica extinta a Gratificação de Incentivo à Qualificação Profissional, instituída pela Lei nº 6.870, de 17 de julho de 1995.
+
+§ 1º - Fica assegurado o pagamento da Gratificação ora extinta aos servidores que à data da regulamentação desta Lei, tenham concluído os cursos de atualização ou aperfeiçoamento, observadas as disposições regulamentares.
+
+§ 2º - Os servidores que, na data de vigência desta Lei, estejam percebendo a gratificação extinta por este artigo, terão assegurada a continuidade do pagamento dos respectivos valores, convertidos estes em vantagem pessoal, reajustável sempre que houver majoração do vencimento básico do cargo efetivo ocupado, e no mesmo percentual a ele concedido."
+
 [Art. 4º da Lei nº 6.942, de 19 de março de 1996](https://www.legislabahia.ba.gov.br/documentos/lei-no-6942-de-19-de-marco-de-1996#LO_6_942_Art__4) : "Fica alterado para 20% (vinte por cento) o percentual da Gratificação de Estímulo às Atividades de Classe, instituída pela Lei nº 6.870, de 17 de julho de 1995."
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:

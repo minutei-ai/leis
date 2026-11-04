@@ -1,5 +1,3 @@
-###DEC-070014-0-000-21-01-1972@@@
-
 DECRETO Nº 70.014, de 21 de janeiro de 1972.
 
 Declara de utilidade pública o Conselho Particular e Sociedade de São Vicente de Paulo, com sede em Entre Rios, Estados de Minas Gerais.

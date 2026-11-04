@@ -1,5 +1,3 @@
-###DEC-048861-0-000-13-08-1960@@@
-
 DECRETO Nº 48.861, DE 13 DE AGÔSTO DE 1960.
 
 Aprova novo Regulamento da Lei número 3.654, de 4 de novembro de 1959, que dispõe sôbre a criação e organização do Quadro de Material Bélico, das Armas de Comunicações e de Engenharia, bem como sôbre a extinção do Quadro de Técnicos da Ativa.

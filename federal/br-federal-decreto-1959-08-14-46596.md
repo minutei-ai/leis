@@ -1,5 +1,3 @@
-###DEC-046596-0-000-14-08-1959@@@
-
 DECRETO Nº 46.596, DE 14 DE AGÔSTO DE 1959.
 
 Autoriza o cidadão brasileiro Baldoino Antunes de Oliveira a pesquisar dolomita no município de Itapeva, Estado de São Paulo.

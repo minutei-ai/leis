@@ -1,5 +1,3 @@
-###DEC-053664-0-000-05-03-1964@@@
-
 DECRETO Nº 53.664, DE 5 DE MARÇO DE 1964.
 
 Inclui funções gratificadas no Quadro de Pessoal - Parte Permanente - do Ministério da Aeronáutica e dá outras providências.

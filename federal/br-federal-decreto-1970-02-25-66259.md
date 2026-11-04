@@ -1,5 +1,3 @@
-###DEC-066259-0-000-25-02-1970@@@
-
 DECRETO Nº 66.259 - DE 25 DE FEVEREIRO DE 1970
 
 Dispõe sôbre condições para utilização da parcela correspondente à Educação, nas quotas do Fundo de Participação dos Estados, Distrito Federal e Territórios e do Fundo de Participação dos Municípios.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001509-0-000-20-06-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.509, DE 20 DE JUNHO DE 1996.
 
 Isenta do Imposto de Importação e do Imposto sobre Produtos Industrializados bens de informática adquiridos pelo Tribunal Superior Eleitoral.

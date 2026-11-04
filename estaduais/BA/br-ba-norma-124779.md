@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, no exercício da competência que lhe foi deleg
 
 Art. 1º - Fica reorganizada a Secretaria do Planejamento, Ciência e Tecnologia na forma indicada na presente lei.
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 FINALIDADE E COMPETÊNCIAS DA SECRETARIA
 
 Art. 2º - A Secretaria do Planejamento, Ciência e Tecnologia tem por finalidade a execução das funções de planejamento, coordenação geral e ciência e tecnologia, competindo-lhe:
@@ -51,7 +52,8 @@ XIX - coordenar e promover a realização de estudos e pesquisas necessários ao
 
 XX - exercer outras competências necessárias ao cumprimento de sua finalidade.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 ESTRUTURA DA SECRETARIA
 
 Art. 3º - A Secretaria de Planejamento, Ciência e Tecnologia, tem a seguinte estrutura:
@@ -94,10 +96,12 @@ Parágrafo único - Os Órgãos da Administração Centralizada, aludidos no inc
 
 Art. 4º - O assessoramento jurídico aos órgãos da Administração Centralizada da Secretaria cabe à Procuradoria Geral do Estado.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 FINALIDADE E COMPETÊNCIAS DOS ÓRGÃOS E ENTIDADES DA SECRETARIA
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 GABINETE DO SECRETÁRIO
 
 Art. 5º - O Gabinete do Secretário tem por finalidade prestar assistência ao titular da Pasta em suas tarefas técnicas e administrativas, competindo-lhe:
@@ -110,12 +114,14 @@ III - coordenar o fluxo de informações e as relações públicas de interesse 
 
 IV - exercer outras competências necessárias ao cumprimento de sua finalidade.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 ASSESSORIA DE PLANEJAMENTO - ASPLAN
 
 Art. 6º - A Assessoria de Planejamento - ASPLAN tem sua finalidade estabelecida no artigo 6º da Lei nº 3.700 de 31 de maio de 1979, e terá suas competências definidas em legislação específica.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 SERVIÇO DE ADMINISTRAÇÃO GERAL - SAG
 
 Art. 7º - O Serviço de Administração Geral - SAG tem a finalidade e competências previstas no capítulo VI, do Título III da Lei nº 2.321 de 11 de abril de 1966, bem como na legislação específica.
@@ -124,7 +130,8 @@ SEÇÃO IV -INSPETORIA SETORIAL DE FINANÇAS - ISF
 
 Art. 8º - A Inspetoria Setorial de Finanças tem a finalidade e as competências previstas na Lei nº 3.640 de 05 de janeiro de 1978, bem como na legislação específica.
 
-SEÇÃO V -<br>
+SEÇÃO V -
+
 COORDENAÇÃO DE PROGRAMAÇÃO ORÇAMENTÁRIA - CPO
 
 Art. 9º - A Coordenação de Programação Orçamentária tem por finalidade coordenar e executar as atividades de programação orçamentária no âmbito estadual, competindo-lhe:
@@ -145,7 +152,8 @@ VII - articular-se, sistematicamente, com a Secretaria da Fazenda, as Assessoria
 
 VIII - exercer outras competências necessárias ao cumprimento de sua finalidade.
 
-SEÇÃO VI -<br>
+SEÇÃO VI -
+
 COORDENAÇÃO DE AÇÃO REGIONAL
 
 Art. 10 - A Coordenação de Ação Regional tem por finalidade coordenar e promover a execução da política de programas governamentais de desenvolvimento regional do Estado e de assistência aos municípios, bem como atender aos objetivos estabelecidos na Lei nº 3.247 de 21 de dezembro de 1973, alterada pela Lei nº 3.365, de 06 de junho de 1975, competindo-lhe:
@@ -176,7 +184,8 @@ XI - exercer outras competências necessárias ao cumprimento de sua finalidade.
 
 § 2º - Os Centros Regionais Integrados - CERIN's, órgãos da administração centralizada, com a finalidade de coordenar, acompanhar, fiscalizar, avaliar e prestar apoio operacional à ação administrativa das diversas Secretarias, Órgãos e Entidades, em cada Região Administrativa do Estado da Bahia, integram a Coordenação de Ação Regional, respeitadas as disposições contidas nas Leis nº 3.247 de 21 de dezembro de 1973, nº 3.385 de 06 de junho de 1975 e nº 3.700 de 31 de maio de 1979.
 
-SEÇÃO VII -<br>
+SEÇÃO VII -
+
 COORDENAÇÃO DE RECURSOS AMBIENTAIS
 
 Art. 11 - A Coordenação de Recursos Ambientais - Secretaria Executiva do CEPRAM - tem por finalidade coordenar e executar a política ambiental, competindo-lhe, nos termos da Lei nº 3.858 de 03 de novembro de 1980:
@@ -203,24 +212,28 @@ X - exercer outras competências que lhe forem atribuídas pelo Órgão Central 
 
 Parágrafo único - Compete, ainda, à Coordenação de Recursos Ambientais, promover a articulação das atividades científicas e tecnológicas do Estado.
 
-SEÇÃO VIII -<br>
+SEÇÃO VIII -
+
 CENTRO DE DESENVOLVIMENTO DA ADMINISTRAÇÃO PÚBLICA
 
 Art. 12 - O Centro de Desenvolvimento da Administração Pública, Órgão em Regime Especial da Administração Centralizada, com a finalidade de desempenhar as atividades de modernização administrativa, treinamento de pessoal de nível superior, e as relativas ao Museu de Ciência e Tecnologia, terá sua organização estabelecida mediante decreto.
 
 Parágrafo único - Os servidores que, na data da publicação desta lei, desempenhem as atividades referidas no "caput" deste artigo, poderão ficar á disposição do Centro de Desenvolvimento da Administração Pública, sem prejuízo de seus direitos e vantagens.
 
-SEÇÃO IX -<br>
+SEÇÃO IX -
+
 CONSELHO ESTADUAL DE PROTEçãO AMBIENTAL - CEPRAM
 
 Art. 13 - O Conselho Estadual de Proteção Ambiental - CEPRAM - tem sua finalidade e respectivas competências definidas na legislação específica.
 
-SEÇÃO X -<br>
+SEÇÃO X -
+
 ENTIDADES DESCENTRALIZADAS
 
 Art. 14 - As Entidades da Administração Descentralizada, vinculadas à Secretaria do Planejamento, Ciência e Tecnologia, tem suas finalidades e competências estabelecidas na legislação específica e sua supervisão e controle far-se-ão nos termos do § 2º do artigo 8º da Lei nº 2.321/66.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 15 - Os projetos de criação e extinção de Órgãos e Entidades da Administração Pública Estadual, bem como os atos relativos à alteração das respectivas estruturas, serão, sempre, submetidos à apreciação prévia da Secretaria do Planejamento, Ciência e Tecnologia.
@@ -257,4 +270,4 @@ Antônio Osório Menezes Batista
 
 \* Republicada.
 
-<table style="border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 404.0pt; border: solid windowtext 1.0pt; border-bottom: none; padding: 0cm 3.5pt 0cm 3.5pt;" colspan="3" valign="top" width="539"><p class="Tabela-Texto">ANEXO ÚNICO</p><p class="Tabela-Texto">CARGOS EM COMISSÃO</p></td></tr><tr><td style="width: 248.05pt; border: solid windowtext 1.0pt; border-bottom: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="331"><p class="Tabela-Texto">CARGO</p></td><td style="width: 63.8pt; border-top: solid windowtext 1.0pt; border-left: none; border-bottom: none; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="85"><p class="Tabela-Texto">SÍMBOLO</p></td><td style="width: 92.15pt; border-top: solid windowtext 1.0pt; border-left: none; border-bottom: none; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">QUANTIDADE</p></td></tr><tr><td style="width: 248.05pt; border: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="331"><p class="Tabela-Texto">Chefe de Gabinete</p></td><td style="width: 63.8pt; border: solid windowtext 1.0pt; border-left: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="85"><p class="Tabela-Texto">DAS -5</p></td><td style="width: 92.15pt; border: solid windowtext 1.0pt; border-left: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 248.05pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="331"><p class="Tabela-Texto">Assessor Chefe</p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="85"><p class="Tabela-Texto">DAS -5</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 248.05pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="331"><p class="Tabela-Texto">Secretário Executivo do Conselho Estadual de Desenvolvimento Econômico - CEDE</p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="85"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">DAS -5</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 248.05pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="331"><p class="Tabela-Texto">Secretário Executivo do Conselho Estadual de Desenvolvimento Social CEDS</p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="85"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">DAS -5</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 248.05pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="331"><p class="Tabela-Texto">Diretor de Inspetoria Setorial de Finanças</p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="85"><p class="Tabela-Texto">DAS -5</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 248.05pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="331"><p class="Tabela-Texto">Coordenador</p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="85"><p class="Tabela-Texto">DAS -5</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">03</p></td></tr><tr><td style="width: 248.05pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="331"><p class="Tabela-Texto">Diretor do Serviço de Administração Geral -SAG</p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="85"><p class="Tabela-Texto">DAS -5</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 248.05pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="331"><p class="Tabela-Texto">Diretor do Órgão em Regime Especial</p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="85"><p class="Tabela-Texto">DAS -5</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 248.05pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="331"><p class="Tabela-Texto">Coordenador Adjunto</p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="85"><p class="Tabela-Texto">DAS -4</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">07</p></td></tr><tr><td style="width: 248.05pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="331"><p class="Tabela-Texto">Assessor</p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="85"><p class="Tabela-Texto">DAS -4</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">15</p></td></tr><tr><td style="width: 248.05pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="331"><p class="Tabela-Texto">Diretor de Centro Regional Integrado</p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="85"><p class="Tabela-Texto">DAS -4</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">17</p></td></tr><tr><td style="width: 248.05pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="331"><p class="Tabela-Texto">Oficial de Gabinete</p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="85"><p class="Tabela-Texto">DAS -1</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p class="Tabela-Texto">01</p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3" valign="top"> ANEXO ÚNICO CARGOS EM COMISSÃO </td></tr><tr><td valign="top"> CARGO </td><td valign="top"> SÍMBOLO </td><td valign="top"> QUANTIDADE </td></tr><tr><td valign="top"> Chefe de Gabinete </td><td valign="top"> DAS -5 </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Assessor Chefe </td><td valign="top"> DAS -5 </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Secretário Executivo do Conselho Estadual de Desenvolvimento Econômico - CEDE </td><td valign="top"> &nbsp; DAS -5 </td><td valign="top"> &nbsp; 01 </td></tr><tr><td valign="top"> Secretário Executivo do Conselho Estadual de Desenvolvimento Social CEDS </td><td valign="top"> &nbsp; DAS -5 </td><td valign="top"> &nbsp; 01 </td></tr><tr><td valign="top"> Diretor de Inspetoria Setorial de Finanças </td><td valign="top"> DAS -5 </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Coordenador </td><td valign="top"> DAS -5 </td><td valign="top"> 03 </td></tr><tr><td valign="top"> Diretor do Serviço de Administração Geral -SAG </td><td valign="top"> DAS -5 </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Diretor do Órgão em Regime Especial </td><td valign="top"> DAS -5 </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Coordenador Adjunto </td><td valign="top"> DAS -4 </td><td valign="top"> 07 </td></tr><tr><td valign="top"> Assessor </td><td valign="top"> DAS -4 </td><td valign="top"> 15 </td></tr><tr><td valign="top"> Diretor de Centro Regional Integrado </td><td valign="top"> DAS -4 </td><td valign="top"> 17 </td></tr><tr><td valign="top"> Oficial de Gabinete </td><td valign="top"> DAS -1 </td><td valign="top"> 01 </td></tr></tbody></table>

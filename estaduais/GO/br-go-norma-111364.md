@@ -1,4 +1,5 @@
-DECRETO Nº 10.793, DE 3 DE OUTUBRO DE 2025<br>
+DECRETO Nº 10.793, DE 3 DE OUTUBRO DE 2025
+
 [\- Vide Decreto n° 10.856, de 26-1-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112448) - Prorroga o prazo previsto no art. 5° para 31 de julho de 2026.
 
 Institui o grupo de trabalho destinado à elaboração do Plano de Desenvolvimento do Vale do Araguaia.
@@ -49,7 +50,8 @@ Art. 3º Os integrantes do grupo de trabalho não serão remunerados e o exercí
 
 Art. 4º Compete à Vice-Governadoria do Estado de Goiás prover o suporte necessário ao funcionamento do grupo de trabalho, inclusive quanto a infraestrutura, logística e secretaria-executiva.
 
-Art. 5º O grupo de trabalho deverá, em cento e vinte dias, contados da publicação deste Decreto, apresentar ao Governador do Estado o Plano de Desenvolvimento do Vale do Araguaia, com diagnóstico, diretrizes estratégicas, metas e propostas normativas à implementação.<br>
+Art. 5º O grupo de trabalho deverá, em cento e vinte dias, contados da publicação deste Decreto, apresentar ao Governador do Estado o Plano de Desenvolvimento do Vale do Araguaia, com diagnóstico, diretrizes estratégicas, metas e propostas normativas à implementação.
+
 [\- Vide Decreto n° 10.856, de 26-1-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112448) - Prorroga o prazo previsto no art. 5° para 31 de julho de 2026.
 
 Art. 6º Este Decreto entra em vigor na data de sua publicação.

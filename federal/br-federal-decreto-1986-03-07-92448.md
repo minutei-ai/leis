@@ -1,5 +1,3 @@
-###DEC-092448-0-000-07-03-1986@@@
-
 DECRETO Nº 92.448, DE 07 DE MARÇO DE 1986
 
 Renova a concessão outorgada à TV COLIGADAS DE SANTA CATARINA S.A. para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Blumenau, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-058554-0-000-31-05-1966@@@
-
 DECRETO Nº 58.554, DE 31 DE MAIO DE 1966.
 
 Estende disposições do Decreto número 57.722, de 2 de fevereiro de 1966.

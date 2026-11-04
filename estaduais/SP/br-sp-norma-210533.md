@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210533)<br>
-
 # DECRETO N° 69.306, DE 10 DE JANEIRO DE 2025
 
 ### _Altera o Decreto n° 69.228, de 23 de dezembro de 2024, que aprovou a Estrutura Organizacional e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança da Secretaria da Administração Penitenciária._

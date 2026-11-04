@@ -1,5 +1,3 @@
-###DEC-093171-0-000-25-08-1986@@@
-
 DECRETO Nº 93.171, DE 25 DE AGOSTO DE 1986
 
 Altera a composição do Conselho Federal de Entorpecentes - CONFEN.

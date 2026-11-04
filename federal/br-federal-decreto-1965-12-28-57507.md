@@ -1,5 +1,3 @@
-###DEC-057507-0-000-28-12-1965@@@
-
 DECRETO Nº 57.507, DE 28 DE DEZEMBRO DE 1965.
 
 Concede à Mineração Brasiliense S.A. - “MIBRASA”, autorização para funcionar como emprêsa de mineração.

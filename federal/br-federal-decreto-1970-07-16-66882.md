@@ -1,5 +1,3 @@
-###DEC-066882-0-000-16-07-1970@@@
-
 DECRETO Nº 66.882, DE 16 DE JULHO DE 1970.
 
 Dispõe sôbre a competência e a organização do Ministério do Interior e dá outras providências.

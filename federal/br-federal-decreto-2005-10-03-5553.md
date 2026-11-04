@@ -1,5 +1,3 @@
-###DEC-005553-0-000-03-10-2005@@@
-
 DECRETO Nº 5.553, DE 3 DE OUTUBRO DE 2005.
 
 Altera os Anexos V, VI, IX e X do Decreto no 5.379, de 25 de fevereiro de 2005, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2005, e dá outras providências.

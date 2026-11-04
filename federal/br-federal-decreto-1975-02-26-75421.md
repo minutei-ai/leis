@@ -1,5 +1,3 @@
-###DEC-075421-0-000-26-02-1975@@@
-
 DECRETO Nº 75.421, DE 26 DE FEVEREIRO DE 1975.
 
 Autoriza o Governo do Estado do Pará, através da Secretaria de Estado de Educação e Cultura, e sob a denominação de Rádio Educativa do Pará, a instalar uma estação de radiodifusão sonora em onda tropical, com fins exclusivamente educativas, na Cidade de Belém, mediante convênio a ser celebrado com o Ministério das Comunicações.

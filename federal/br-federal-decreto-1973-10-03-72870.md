@@ -1,5 +1,3 @@
-###DEC-072870-0-000-03-10-1973@@@
-
 DECRETO Nº 72.870, DE 3 DE OUTUBRO DE 1973.
 
 Dispõe sobre assistência médico-hospitalar a ser prestada aos contribuintes do IPASE e a seus dependentes por Organizações Militares de Saúde do Exército. Revoga os Decretos 40.026, de 26 de setembro de 56 e 59.171, de 5 de setembro de 66.

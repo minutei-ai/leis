@@ -1,5 +1,3 @@
-###DEC-069566-0-000-19-11-1971@@@
-
 DECRETO Nº 69.566 - 19 de novembro de 1971
 
 Aprova alteração introduzida nos Estatutos da Centrais Elétricas Brasileiras S. A. - ELETROBRÁS.

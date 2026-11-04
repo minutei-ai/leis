@@ -1,5 +1,3 @@
-###DEC-004744-0-000-16-06-2003@@@
-
 DECRETO Nº 4.744, DE 16 DE JUNHO DE 2003.
 
        Dispõe sobre a composição e funcionamento do Conselho de Desenvolvimento Econômico e Social - CDES, e dá outras providências.
@@ -168,5 +166,6 @@ DAS DISPOSIÇÕES GERAIS
 
         Brasília, 16 de junho de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 José Dirceu de Oliveira e Silva

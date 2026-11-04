@@ -1,5 +1,3 @@
-###DEC-066088-0-000-19-01-1970@@@
-
 DECRETO Nº 66.088 - DE 19 DE JANEIRO DE 1970
 
 Concede à IBACIP - Indústria Barbalhense de Cimento Portland Sociedad Anônima o direito de lavrar calcário, no município de Barbalha, Estado do Ceará.

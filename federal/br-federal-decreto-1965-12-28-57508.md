@@ -1,5 +1,3 @@
-###DEC-057508-0-000-28-12-1965@@@
-
 DECRETO Nº 57.508, DE 28 DE Dezembro DE 1965.
 
 Concede à Companhia Bahiana de Minérios - COBAM autorização para funcionar como emprêsa de mineração.

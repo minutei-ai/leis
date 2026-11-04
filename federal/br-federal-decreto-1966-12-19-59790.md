@@ -1,5 +1,3 @@
-###DEC-059790-0-000-19-12-1966@@@
-
 Decreto nº 59.790, de 19 de dezembro de 1966.
 
 Retifica o artigo 1º do Decreto número 44.354, de 22 de agôsto e 1958.

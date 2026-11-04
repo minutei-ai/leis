@@ -1,5 +1,3 @@
-###DEC-093112-0-000-13-08-1986@@@
-
 DECRETO Nº 93.112, DE 13 DE AGOSTO DE 1986
 
 Autoriza o funcionamento do curso de Desenho Industrial do Centro de Educação Técnica da Bahia.

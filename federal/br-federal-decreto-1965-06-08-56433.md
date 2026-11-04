@@ -1,5 +1,3 @@
-###DEC-056433-0-000-08-06-1965@@@
-
 DECRETO Nº 56.433, DE 8 DE JUNHO DE 1965.
 
 Autoriza o cidadão Antônio Walfrido Pereira a pesquisar calcário, no município de Itumirim, Estado de Minas Gerais.

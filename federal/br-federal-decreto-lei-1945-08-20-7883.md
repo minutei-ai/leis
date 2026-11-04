@@ -1,5 +1,3 @@
-###DEL-007883-0-000-20-08-1945@@@
-
 DECRETO-LEI N. 7.883 – DE 20 DE AGÔSTO DE 1945
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 9.030,90, para pagamento de indenização.

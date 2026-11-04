@@ -1,5 +1,3 @@
-###DEC-064110-0-000-13-02-1969@@@
-
 DECRETO Nº 64.110, DE 13 DE FEVEREIRO DE 1969.
 
 Declara sem efeito o Decreto número 20.771, de 19 de março de 1946.

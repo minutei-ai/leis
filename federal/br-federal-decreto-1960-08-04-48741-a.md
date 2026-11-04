@@ -1,5 +1,3 @@
-###DEC-048741-A-000-04-08-1960@@@
-
 DECRETO Nº 48.741-A, DE 4 DE AGÔSTO DE 1960.
 
 Transfere funções de Tabela Numéricas de Extranumerário-mensalista do Ministério da Aeronáutica, que menciona.

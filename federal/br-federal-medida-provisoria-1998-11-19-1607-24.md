@@ -1,5 +1,3 @@
-###MPV-001607-0-024-19-11-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.607-24, DE 19 DE NOVEMBRO DE 1998.
 
 Altera a legislação que rege o Salário-Educação, e dá outras providências.

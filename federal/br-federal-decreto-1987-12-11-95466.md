@@ -1,5 +1,3 @@
-###DEC-095466-0-000-11-12-1987@@@
-
 DECRETO Nº 95.466, DE 11 DE DEZEMBRO DE 1987
 
 Outorga concessão à RÁDIO E TELEVISÃO RIO NEGRO LTDA., para explorar serviço de radiodifusão de sons e imagens (Televisão), na cidade de Manaus, Estado do Amazonas.

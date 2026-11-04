@@ -1,5 +1,3 @@
-###DEC-082728-0-000-27-11-1978@@@
-
 Decreto nº 82.728, de 27 de novembro de 1978.
 
 Retifica a autorização de lavra conferida à Empresa Continental de Minérios Ltda. pelo Decreto nº 7.043, de 02 de abril de 1941.

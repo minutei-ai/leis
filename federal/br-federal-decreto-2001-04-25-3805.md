@@ -1,5 +1,3 @@
-###DEC-003805-0-000-25-04-2001@@@
-
 DECRETO Nº 3.805, DE 25 DE ABRIL DE 2001
 
 Dispõe sobre a execução do Vigésimo Sétimo Protocolo Adicional ao Acordo de Complementação Econômica nº 18, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, de 29 de dezembro de 2000.
@@ -23,8 +21,6 @@ Brasília, 25 de abril de 2001; 180º da Independência e 113º da República.
 FERNANDO HENRIQUE CARDOSO
 
 Celso Lafer
-
-<br>
 
 ANEXO
 

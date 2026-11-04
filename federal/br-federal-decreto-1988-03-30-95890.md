@@ -1,5 +1,3 @@
-###DEC-095890-0-000-30-03-1988@@@
-
 DECRETO Nº 95.890, DE 30 DE MARÇO DE 1988
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados “FAZENDAS RIACHO DOS PORCOS (I E II)”, “BARAÚNA”, “ESPINHEIRO”, “ANGICO”, “AMENDOEIRA”, “FAVELA”, “JUAZEIRO”, “JATOBÁ” e “AROEIRA”, classificados como “latifúndio por exploração”, situados no Município de Paratinga, no Estado da Bahia, compreendidos na zona prioritária, para fins de reforma agrária. fixada pelo Decreto nº 92.689, de 19 de maio de 1986 e dá outras providências.

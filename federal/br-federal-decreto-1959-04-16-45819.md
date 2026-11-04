@@ -1,5 +1,3 @@
-###DEC-045819-0-000-16-04-1959@@@
-
 DECRETO Nº 45.819, DE 16 DE ABRIL DE 1959.
 
 Concede autorização para o funcionamento dos cursos de ciências econômicas, sociologia e política e administração pública, da Faculdade Católica de Ciências Econômicas, de Curitiba.

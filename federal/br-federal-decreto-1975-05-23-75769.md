@@ -1,5 +1,3 @@
-###DEC-075769-0-000-23-05-1975@@@
-
 DECRETO Nº 75.769, DE 23 DE MAIO DE 1975.
 
 Aprova o Regulamento para as Estações Rádio executoras de serviços especiais de comunicações do Ministério da Marinha.

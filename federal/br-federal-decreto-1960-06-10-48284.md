@@ -1,5 +1,3 @@
-###DEC-048284-0-000-10-06-1960@@@
-
 DECRETO Nº 48.284, DE 10 DE JUNHO DE 1960.
 
 Dispõe sôbre cargos em comissão do Instituto Brasileiro do Sal.

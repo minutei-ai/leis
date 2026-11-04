@@ -1,5 +1,3 @@
-###DEC-062266-0-000-14-02-1968@@@
-
 decreto nº 62.266, de 14 de fevereiro de 1968.
 
 Autoriza o funcionamento da Faculdade Regional de Medicina de São José do Rio Prêto, S.P.

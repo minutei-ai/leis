@@ -1,5 +1,3 @@
-###DEC-007873-0-000-26-12-2012-PUB-01@@@
-
 DECRETO Nº  7.873, DE 26 DE DEZEMBRO DE 2012
 
 Concede indulto natalino e comutação de penas, e dá outras providências.

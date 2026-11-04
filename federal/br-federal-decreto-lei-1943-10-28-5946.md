@@ -1,5 +1,3 @@
-###DEL-005946-0-000-28-10-1943@@@
-
 DECRETO-LEI N. 5.946 – DE 28 DE OUTUBRO DE 1943
 
 Abre ao Instituto Brasileiro de Geografia e Estatística a crédito suplementar de Cr$ 1. 000. 000,00, à verba que especifica

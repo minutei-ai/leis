@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211820)<br>
-
 # DECRETO N° 70.087, DE 12 DE NOVEMBRO DE 2025
 
 ### _Fixa o calendário para pagamento do Imposto sobre a Propriedade de Veículos Automotores - IPVA relativamente ao exercício de 2026, o percentual de desconto para pagamento integral e dá outras providências._

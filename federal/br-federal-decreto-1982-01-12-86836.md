@@ -1,5 +1,3 @@
-###DEC-086836-0-000-12-01-1982@@@
-
 Decreto nº 86.836, de 12 de janeiro de 1982
 
 Autoriza o aumento de potência da RÁDIO CLUBE DE AMERICANA LTDA., na cidade de Americana, Estado de São Paulo.

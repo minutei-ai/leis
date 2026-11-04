@@ -1,5 +1,3 @@
-###DEC-088927-0-000-27-10-1983@@@
-
 Decreto nº 88.927, de 27 de outubro de 1983
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro, Niterói, Maricá, Angra dos Reis e Mangaratiba, Estado do Rio de Janeiro; Matinhos, Estado do Paraná e Guarujá, Estado de São Paulo.

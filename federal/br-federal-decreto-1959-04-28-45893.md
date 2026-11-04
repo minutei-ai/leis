@@ -1,5 +1,3 @@
-###DEC-045893-0-000-28-04-1959@@@
-
 DECRETO Nº 45.893, DE 28 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Alvaro Alencastro de Souza a pesquisar quartzo e feldspato no município de Itaboraí, Estado do Rio de Janeiro.

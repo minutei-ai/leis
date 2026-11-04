@@ -1,5 +1,3 @@
-###DEC-068697-0-000-01-06-1971@@@
-
 DECRETO Nº 68.697, de 1 de junho de 1971.
 
 Redistribui cargo, com a respectiva ocupante, para a Universidade Federal de Pernambuco, e dá outras providências.

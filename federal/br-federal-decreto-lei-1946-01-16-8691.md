@@ -1,5 +1,3 @@
-###DEL-008691-0-000-16-01-1946@@@
-
 DECRETO-LEI N. 8.691 – DE 16 DE JANEIRO DE 1946
 
 Concede auxílio especial ao Patronato de Menores e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-009531-0-000-31-07-1946@@@
-
 DECRETO-LEI N. 9.531 – DE 31 DE JULHO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a isentar os bens deixados por Norberto Sílvio de Paiva Anciães do impôsto que menciona.

@@ -1,5 +1,3 @@
-###DEC-056278-0-000-10-05-1965@@@
-
 DECRETO Nº 56.278, DE 10 DE MAIO DE 1965.
 
 Autoriza o Serviço do Patrimônio da União a aceitar uma área de terreno em Goiânia – GO, destinada ao Ministério da Guerra.

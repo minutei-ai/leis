@@ -1,5 +1,3 @@
-###DEC-050775-0-000-09-06-1961@@@
-
 DECRETO Nº 50.775, DE 9 DE JUNHO DE 1961.
 
 Transfere da prefeitura Municipal de Carmo da Mata para a Centrais Elétricas de Minas Gerais S.A. a concessão para distribuição de energia elétrica do município de Carmo da Mata, Estado de Minas Gerais, e dá outras providências.

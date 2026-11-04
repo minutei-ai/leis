@@ -1,7 +1,3 @@
-1
-
-###DEC-001009-0-000-22-12-1993@@@
-
 DECRETO Nº 1.009, DE 22 DE DEZEMBRO DE 1993
 
 Cria o Sistema Nacional de Transmissão de Energia Elétrica SINTREL, e dá outras providências.

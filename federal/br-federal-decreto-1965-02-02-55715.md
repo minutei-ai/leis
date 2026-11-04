@@ -1,5 +1,3 @@
-###DEC-055715-0-000-02-02-1965@@@
-
 DECRETO Nº 55.715, DE 2 DE FEVEREIRO DE 1965.
 
 Concede a Soares Camargo S. A. - Comércio e Administração autorização para funcionar como emprêsa de mineração.

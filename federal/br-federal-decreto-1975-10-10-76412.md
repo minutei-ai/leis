@@ -1,5 +1,3 @@
-###DEC-076412-0-000-10-10-1975@@@
-
 DECRETO Nº 76.412, DE 10 DE OUTUBRO DE 1975.
 
 Dispõe sobre a estrutura básica do Ministério dos Transportes e dá outras providências.

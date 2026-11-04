@@ -1,5 +1,3 @@
-###DEC-097152-0-000-30-11-1988@@@
-
 DECRETO Nº 97.152, DE 30 DE NOVEMBRO DE 1988
 
 Reajusta o valor do Salário Mínimo de Referência.

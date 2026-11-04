@@ -1,5 +1,3 @@
-###DEL-007660-0-000-21-06-1945@@@
-
 DECRETO-LEI N. 7.660 – DE 21 DE JUNHO DE 1945
 
 Dispõe sôbre as férias dos Juízes Substitutos

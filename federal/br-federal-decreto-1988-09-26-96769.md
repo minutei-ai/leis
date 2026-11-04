@@ -1,5 +1,3 @@
-###DEC-096769-0-000-26-09-1988@@@
-
 DECRETO Nº 96.769, DE 26 DE SETEMBRO DE 1988
 
 Outorga concessão à EMPRESA GUIRATINGUENSE DE RADIODIFUSÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Guiratinga, Estado do Mato Grosso.

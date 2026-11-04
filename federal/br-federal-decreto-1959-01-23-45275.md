@@ -1,5 +1,3 @@
-###DEC-045275-0-000-23-01-1959@@@
-
 decreto nº 45.275, de 23 de janeiro de 1959.
 
 Transfere a sede da Escola Preparatória de São Paulo para Campinas.

@@ -1,5 +1,3 @@
-###DEC-087886-0-000-02-12-1982@@@
-
 Decreto nº 87.886, de 02 de dezembro de 1982
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais pertencentes a diversos proprietários, situados nos Municípios de Pinheiro, Penalva e Monção, no Estado do Maranhão, compreendidos na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 70.220, de 1º de março de 1972, alterado pelos Decretos nºs 71.195, de 4 de outubro de 1972, 79.288, de 16 de fevereiro de 1977, e 87.095, de 16 de abril de 1982.

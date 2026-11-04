@@ -1,7 +1,3 @@
-1
-
-###DEC-000967-0-000-29-10-1993@@@
-
 DECRETO N° 967, DE 29 DE OUTUBRO DE 1993
 
 Estabelece a Estrutura Básica da Organização do Ministério da Marinha.

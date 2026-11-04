@@ -1,5 +1,3 @@
-###DEC-006422-0-000-02-04-2008@@@
-
 DECRETO Nº 6.422, DE 2 DE ABRIL DE 2008.
 
 Transfere a cumulatividade da Embaixada do Brasil em Freetown, República de Serra Leoa, para a Embaixada do Brasil em Conacri, República da Guiné.
@@ -23,5 +21,3 @@ Brasília, 2 de abril de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 3.4.2008

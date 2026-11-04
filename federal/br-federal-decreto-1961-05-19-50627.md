@@ -1,5 +1,3 @@
-###DEC-050627-0-000-19-05-1961@@@
-
 DECRETO Nº 50.627, DE 19 DE MAIO DE 1961.
 
 Autoriza o funcionamento do curso de música do Conservatório Musical Sagrado Coração de Jesus.

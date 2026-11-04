@@ -6,7 +6,8 @@ O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constituciona
 
 **D E C R E T A:**
 
-Art. 1º Fica instituído, na Procuradoria-Geral do Estado – PGE, o Programa de Estágio de Pós-Graduação, lato sensu ou stricto sensu, destinado a estudantes graduados em qualquer área do conhecimento, inclusive diversa do Direito, regularmente matriculados em instituições oficialmente reconhecidas pelo Ministério da Educação ou pelo Conselho Estadual de Educação, desde que guardem correspondência com atividades desempenhadas pela PGE.<br>
+Art. 1º Fica instituído, na Procuradoria-Geral do Estado – PGE, o Programa de Estágio de Pós-Graduação, lato sensu ou stricto sensu, destinado a estudantes graduados em qualquer área do conhecimento, inclusive diversa do Direito, regularmente matriculados em instituições oficialmente reconhecidas pelo Ministério da Educação ou pelo Conselho Estadual de Educação, desde que guardem correspondência com atividades desempenhadas pela PGE.
+
 \- [Redação dada pelo Decreto nº 10.944, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115974/decreto-10944).
 
 ~~Art. 1º Fica instituído, no âmbito da Procuradoria-Geral do Estado, o Programa de Estágio de Pós-graduação, _lato_ ou _stricto sensu_, para estudantes graduados matriculados em instituições oficialmente reconhecidas pelo Ministério da Educação ou pelo Conselho Estadual de Educação.~~
@@ -37,22 +38,26 @@ Art. 6º O Procurador-Geral do Estado, observados os critérios de conveniência
 
 § 3º O estagiário poderá ser removido, de ofício ou a seu requerimento, considerando o interesse e a conveniência da Administração, a fim de aperfeiçoar seus conhecimentos em outra área da Procuradoria-Geral do Estado e para se adequar às possibilidades e às necessidades relacionadas com a estrutura de estágio disponibilizada.
 
-Art. 7º A seleção para o estágio de pós-graduação na PGE observará os seguintes critérios:<br>
+Art. 7º A seleção para o estágio de pós-graduação na PGE observará os seguintes critérios:
+
 \- [Redação dada pelo Decreto nº 10.944, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115974/decreto-10944).
 
 ~~Art. 7º A seleção para o estágio de ensino superior de pós-graduação no âmbito da Procuradoria-Geral do Estado atenderá o seguinte:~~
 
-I – reserva de, no mínimo, 10% (dez por cento) das vagas aos candidatos com deficiência, cujas atribuições sejam compatíveis com as suas condições, nos termos do § 5º do art. 17 da Lei federal nº 11.788, de 25 de setembro de 2008;<br>
+I – reserva de, no mínimo, 10% (dez por cento) das vagas aos candidatos com deficiência, cujas atribuições sejam compatíveis com as suas condições, nos termos do § 5º do art. 17 da Lei federal nº 11.788, de 25 de setembro de 2008;
+
 \- [Redação dada pelo Decreto nº 10.944, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115974/decreto-10944).
 
 ~~I - reserva de pelo menos 10% (dez por cento) das vagas aos candidatos portadores de necessidades especiais cujas atribuições sejam compatíveis com a sua condição, conforme disposto no § 5º do art. 17 da Lei federal nº 11.788, de 25 de setembro de 2008; e~~
 
-II – reserva de 20% (vinte por cento) das vagas oferecidas aos candidatos negros, observadas as disposições da [Lei nº 23.389](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110645 "Abrir Lei Ordinária nº 23389, de 2025 em nova aba"), de 6 de maio de 2025, regulamentada pelo [Decreto nº 10.789](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111360 "Abrir Decreto Numerado nº 10789, de 2025 em nova aba"), de 1º de outubro de 2025; e<br>
+II – reserva de 20% (vinte por cento) das vagas oferecidas aos candidatos negros, observadas as disposições da [Lei nº 23.389](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110645 "Abrir Lei Ordinária nº 23389, de 2025 em nova aba"), de 6 de maio de 2025, regulamentada pelo [Decreto nº 10.789](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111360 "Abrir Decreto Numerado nº 10789, de 2025 em nova aba"), de 1º de outubro de 2025; e
+
 \- [Redação dada pelo Decreto nº 10.944, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115974/decreto-10944).
 
 ~~II - as vagas remanescentes para estágio de nível superior serão preenchidas respeitando critérios estabelecidos em ato normativo específico a ser expedido pelo Procurador-Geral do Estado.~~
 
-III – preenchimento das vagas remanescentes conforme critérios estabelecidos em ato normativo específico a ser expedido pelo Procurador-Geral do Estado.<br>
+III – preenchimento das vagas remanescentes conforme critérios estabelecidos em ato normativo específico a ser expedido pelo Procurador-Geral do Estado.
+
 \- [Acrescido pelo Decreto nº 10.944, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115974/decreto-10944).
 
 Art. 8º A jornada de estágio de pós-graduação no âmbito da Procuradoria-Geral do Estado não poderá ultrapassar 6 (seis) horas diárias e 30 (trinta) horas semanais.
@@ -77,7 +82,8 @@ Art. 11. A Procuradoria-Geral do Estado celebrará com o estudante e a respectiv
 
 Art. 12. O Centro de Estudos Jurídicos - CEJUR encaminhará ao Procurador-Geral do Estado, no mês de dezembro de cada ano, o Projeto Anual de Estágio para o ano subsequente, com quantitativo, valor da bolsa, curso, nível desejado e município, para fins de aprovação.
 
-Art. 13. É vedada a participação no Programa de Estágio de Pós-Graduação da PGE de ocupante de cargo, emprego ou função pública em qualquer dos Poderes da União, dos estados, do Distrito Federal e dos municípios e dos órgãos constitucionalmente autônomos.<br>
+Art. 13. É vedada a participação no Programa de Estágio de Pós-Graduação da PGE de ocupante de cargo, emprego ou função pública em qualquer dos Poderes da União, dos estados, do Distrito Federal e dos municípios e dos órgãos constitucionalmente autônomos.
+
 \- [Redação dada pelo Decreto nº 10.944, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115974/decreto-10944).
 
 ~~Art. 13. Fica vedado ao ocupante de cargo, emprego ou função nos órgãos ou nas entidades da Administração Pública direta ou indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal ou dos Municípios, a participação no Programa de Estágio de Pós-Graduação da Procuradoria-Geral do Estado de Goiás.~~

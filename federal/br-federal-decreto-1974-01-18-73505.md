@@ -1,5 +1,3 @@
-###DEC-073505-0-000-18-01-1974@@@
-
 Decreto nº 73.505, de 18 de janeiro de 1974.
 
 Redistribui cargo, com a respectiva ocupante, para o Quadro de Pessoal do Hospital dos Servidores do Estado, e dá outras providências.

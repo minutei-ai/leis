@@ -1,5 +1,3 @@
-###DEC-090499-0-000-12-11-1984@@@
-
 Decreto nº 90.499, de 12 de novembro de 1984
 
 Concede autorização ao navio de pesquisa norte-americano "ROBERT D. CONRAD" para realizar em águas brasileiras os serviços que especifica.

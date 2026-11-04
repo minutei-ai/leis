@@ -1,5 +1,3 @@
-###DEL-008420-0-000-21-12-1945@@@
-
 DECRETO-LEI N. 8.420 – DE 21 DE DEZEMBRO DE 1945
 
 Transforma denominações de cargo, do Quadro III do Ministério da Viação e Obras Públicas e dá outra providencia.

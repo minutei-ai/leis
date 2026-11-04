@@ -1,5 +1,3 @@
-###DEC-007437-0-000-10-02-2011-PUB-01@@@
-
 DECRETO Nº 7.437, DE 10 DE FEVEREIRO DE 2011.
 
 Altera a Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto no 6.006, de 28 de dezembro de 2006.

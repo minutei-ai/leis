@@ -1,5 +1,3 @@
-###DEL-008857-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.857 – DE 24 DE JANEIRO DE 1946
 
 Aproveita funcionário, adido, em cargo de provimento efetivo.

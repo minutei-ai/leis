@@ -1,5 +1,3 @@
-###DEC-060143-0-000-27-01-1967@@@
-
 DECRETO Nº 60.143, DE 27 DE JANEIRO DE 1967.
 
 Autoriza o cidadão brasileiro Imil Daud a pesquisar minério de cobre, no município de Bom Jesus da Lapa, Estado da Bahia.

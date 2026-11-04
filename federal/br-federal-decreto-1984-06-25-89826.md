@@ -1,5 +1,3 @@
-###DEC-089826-0-000-25-06-1984@@@
-
 DecReto nº 89.826, de 25 de junho de 1984
 
 Concede à Companhia Siderúrgica de Tubarão - CST, autorização para proceder a aumento do seu Capital Social.

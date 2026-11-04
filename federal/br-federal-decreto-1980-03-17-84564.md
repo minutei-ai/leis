@@ -1,5 +1,3 @@
-###DEC-084564-0-000-17-03-1980@@@
-
 Decreto nº 84.564, de 17 de março de 1980
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

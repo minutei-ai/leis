@@ -1,7 +1,3 @@
-1
-
-###DEC-095895-0-000-05-04-1988@@@
-
 # DECRETO N° 95.895, DE 5 DE ABRIL DE 1988
 
 Autoriza o funcionamento do curso de Ciências da Computação do Centro de Ciências Exatas e Tecnológicas das Faculdades Integradas de Marília, São Paulo.

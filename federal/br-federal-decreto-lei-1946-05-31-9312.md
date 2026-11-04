@@ -1,5 +1,3 @@
-###DEL-009312-0-000-31-05-1946@@@
-
 DECRETO-LEI N. 9.312 – DE 31 DE MAIO DE 1946
 
 Regula a administração e liquidação extrajudicial do Frigorífico Barbacena S. A., de que trata o Decreto-lei nº 9.239, de 6 de Maio de 1946, e dá outras providências.

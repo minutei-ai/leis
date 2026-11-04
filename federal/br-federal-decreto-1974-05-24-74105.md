@@ -1,5 +1,3 @@
-###DEC-074105-0-000-24-05-1974@@@
-
 DECRETO Nº 74.105, DE 24 DE MAIO DE 1974.
 
 Altera dispositivos do Regulamento para o Tráfego Marítimo, aprovado pelo Decreto nº 5.798, de 11 de junho de 1940, e alterado pelos Decretos nºs 50.114, de 26 de janeiro de 1961, 2.080, de 17 de janeiro de 1963, 62.179, de 25 de janeiro de 1968, 64.015, de 22 de janeiro de 1969, 64.548, de 20 de maio de 1969, e 73.176, de 20 de novembro de 1973.

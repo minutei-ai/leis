@@ -1,5 +1,3 @@
-###DEL-006538-0-000-29-05-1944@@@
-
 DECRETO-LEI N. 6.538 – DE 29 DE MAIO DE 1944
 
 Abre, ao Ministério do Trabalho, Indústria e Comércio, o crédito de Cr$ 67.500,00 (sessenta e sete mil e quinhentos cruzeiros), suplementar à verba que indica

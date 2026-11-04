@@ -1,5 +1,3 @@
-###DEC-073733-0-000-05-03-1974@@@
-
 DECRETO N.º 73.733, DE 5 DE MARÇO DE 1974.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Dourados, Estado de Mato Grosso.

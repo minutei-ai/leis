@@ -1,5 +1,3 @@
-###DEC-097570-0-000-10-03-1989@@@
-
 DECRETO N° 97.570, de 10 de MARÇO de 1989
 
 Autoriza o funcionamento dos cursos de Educação Artística e de Matemática da Faculdade Estadual de Educação, no Estado do Pará.

@@ -1,5 +1,3 @@
-###DEC-085583-0-000-29-12-1980@@@
-
 Decreto Nº 85.583, DE 29 DE Dezembro DE 1980.
 
 Dispensa de licitação na alienação de terra devoluta da União, que menciona, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-078424-0-000-16-09-1976@@@
-
 DECRETO Nº 78.424, DE 16 DE SETEMBRO DE 1976.
 
 Declara a caducidade dos Manifestos de Mina que menciona.

@@ -1,5 +1,3 @@
-###DEC-098325-0-000-24-10-1989@@@
-
 DECRETO Nº 98.325, DE 24 DE OUTUBRO DE 1989
 
 Autoriza a Procuradoria-Geral da Fazenda Nacional a promover a aceitação de doação, sem encargos, das ações representativas da participação da superintendência do Desenvolvimento do Nordeste - SUDENE, no capital social da Companhia de Desenvolvimento do Nordeste - COLONE.

@@ -1,5 +1,3 @@
-###DEC-078311-0-000-25-08-1976@@@
-
 DECRETO Nº 78.311, DE 25 DE AGOSTO DE 1976.
 
 Autoriza o registro, em nome da União Federal, dos terrenos que menciona, situados na Cidade de Belém, Estado do Pará.

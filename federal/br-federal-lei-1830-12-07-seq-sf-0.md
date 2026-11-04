@@ -1,5 +1,3 @@
-###LEI-000000-0-000-07-12-1830@@@
-
 LEI - DE 7 DE DEZEMBRO DE 1830
 
 Extingue a Junta da Direcção da Typographia Nacional, dando nova fórma á sua Administracção.

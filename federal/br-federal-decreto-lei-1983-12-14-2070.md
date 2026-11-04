@@ -1,5 +1,3 @@
-###DEL-002070-0-000-14-12-1983@@@
-
 # decreto-lei nº 2.070, de 14 de dezembro de 1983
 
 Modifica o Decreto-lei nº 1.312, de 15 de fevereiro de 1974.

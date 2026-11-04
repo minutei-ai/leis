@@ -1,7 +1,3 @@
-1
-
-###DEC-099016-0-000-05-03-1990@@@
-
 DECRETO Nº 99.016, DE 5 DE MARÇO DE 1990
 
 Autoriza o funcionamento do curso de Turismo da Faculdade de Turismo, em Guarapari, Espírito Santo.

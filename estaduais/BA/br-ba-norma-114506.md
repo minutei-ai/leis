@@ -1,6 +1,7 @@
 LEI Nº 1.771 DE 30 DE JULHO DE 1962
 
-Ver também:<br>
+Ver também:
+
 Lei nº 13.179 de 26 de maio de 2014. Atualiza, na forma da Lei nº 12.057, de 11 de janeiro de 2011, os limites dos Municípios de Aiquara, Apuarema, Barra do Rocha, Boa Nova, Dário Meira, Gongogi, Ibirataia, Ipiaú, Itagi, Itagibá, Itamari, Jequié, Jitaúna, Manoel Vitorino, Nova Ibiá e Ubatã, e altera a Lei nº 12.926, de 18 de dezembro de 2013, no que concerne ao limite de Ibirapitanga. 
 
 Cria o Município de Manoel Vitorino, desmembrado do de Boa Nova.
@@ -71,4 +72,4 @@ LEIA-SE:
 
 Cria o município de MANOEL VITORINO, desmembrado do de Boa Nova.
 
-* * *
+ *

@@ -1,5 +1,3 @@
-###DEC-055873-0-000-29-03-1965@@@
-
 Decreto nº 55.873, de 29 de março de 1965.
 
 Mauro Thibau

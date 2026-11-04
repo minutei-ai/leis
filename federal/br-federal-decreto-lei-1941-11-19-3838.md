@@ -1,5 +1,3 @@
-###DEL-003838-0-000-19-11-1941@@@
-
 DECRETO-LEI N. 3.838 – DE 19 DE NOVEMBRO DE 1941
 
 Extingue as Comissões de Eficiência dos Ministérios da Aeronáutica, da Guerra  e da Marinha

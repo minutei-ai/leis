@@ -1,5 +1,3 @@
-###DEC-074164-0-000-10-06-1974@@@
-
 DECRETO nº 74.164, de 10 de junho de 1974.
 
 Autoriza o funcionamento dos cursos de Letras, Estudos Sociais, Ciências, Ciências Biológicas, Matemática, Química, Educação Artística, Artes Plásticas, Formação de Professores para as Disciplinas Profissionais de Ensino Técnico (Esquema I e Esquema II), do Centro de Educação da União da Associação de Ensino de Ribeirão Preto (UNAERP), com sede na Cidade de Ribeirão Preto, Estado de São Paulo.

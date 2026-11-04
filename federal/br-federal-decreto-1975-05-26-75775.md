@@ -1,5 +1,3 @@
-###DEC-075775-0-000-26-05-1975@@@
-
 DECRETO Nº 75.775, DE 26 DE MAIO DE 1975.
 
 Autoriza o funcionamento do curso de Comunicação Social da Escola Superior de Propaganda e Marketing, mantida pela Associação Escola Superior de Propaganda e Marketing, com sede na Cidade de São Paulo, Estado de São Paulo.

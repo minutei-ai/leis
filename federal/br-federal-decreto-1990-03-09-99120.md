@@ -1,7 +1,3 @@
-1
-
-###DEC-099120-0-000-09-03-1990@@@
-
 DECRETO Nº 99.120, DE 9 DE MARÇO DE 1990
 
 Outorga concessão ao SISTEMA UNIVER­SAL DE RADIODIFUSÃO LTDA., para explorar Serviço Especial de Televisão por Assina­tura TVA na região metropolitana de Belo Horizonte, Estado de Minas Gerais.

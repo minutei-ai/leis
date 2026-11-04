@@ -1,5 +1,3 @@
-###DEL-000081-0-000-18-12-1937@@@
-
 DECRETO-LEI N. 81 – DE 18 DE DEZEMBRO DE 1937
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito de réis 2.000:000$000, suplementar à sub-consignação n. 16, n. XVII, anexo 12, do orçamento para o exercício de 1937

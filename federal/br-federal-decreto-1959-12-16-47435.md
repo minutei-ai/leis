@@ -1,5 +1,3 @@
-###DEC-047435-0-000-16-12-1959@@@
-
 Decreto nº 47.435, de 16 de dezembro de 1959.
 
 Concede autorização para o funcionamento do Curso de Bacharelado da Faculdade de Direito de Caxias do Sul.

@@ -1,5 +1,3 @@
-###DEC-077813-0-000-15-06-1976@@@
-
 Decreto nº 77.813, de 15 de junho de 1976.
 
 Cria o Vice-Consulado do Brasil em Praia, República do Cabo Verde.

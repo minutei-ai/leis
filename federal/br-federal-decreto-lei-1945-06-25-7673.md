@@ -1,5 +1,3 @@
-###DEL-007673-0-000-25-06-1945@@@
-
 DECRETO-LEI N. 7.673 – DE 25 DE JUNHO DE 1945
 
 Estende aos servidores dos Territórios o regime do salário-família

@@ -1,5 +1,3 @@
-###DEL-008240-0-000-27-11-1945@@@
-
 DECRETO-LEI N. 8.240 – DE 27 DE NOVEMBRO DE 1945
 
 Abre ao Ministério da viação e obras Públicas o crédito suplementar Cr$ 300.000,00, á verba que especifica.

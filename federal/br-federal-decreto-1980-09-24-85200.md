@@ -1,5 +1,3 @@
-###DEC-085200-0-000-24-09-1980@@@
-
 Decreto nº 85.200, de 24 de setembro de 1980
 
 Cria, no Estado do Amazonas, o Parque Nacional do Jaú.

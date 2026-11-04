@@ -1,5 +1,3 @@
-###DEL-009676-0-000-29-08-1946@@@
-
 DECRETO-LEI N. 9.676 – DE 29 DE AGÔSTO DE 1946
 
 Altera a redação do art. 4º do Decreto-lei nº 8.547, de 3 de Janeiro de 1946.

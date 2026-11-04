@@ -1,7 +1,3 @@
-1
-
-###DEC-098202-0-000-27-09-1989@@@
-
 DECRETO Nº 98.202, DE 27 DE SETEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, parte do imóvel rural denominado “FAZENDA BOM RETIRO ou BUTIÁ”, situado no Município de Mangueirinha, Estado do Paraná, e dá outras providências.

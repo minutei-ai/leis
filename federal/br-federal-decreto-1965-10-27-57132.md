@@ -1,5 +1,3 @@
-###DEC-057132-0-000-27-10-1965@@@
-
 DECRETO Nº 57.132, DE 27 DE OUTUBRO DE 1965.
 
 Prorroga a vigência do Decreto número 1.512, de 12 de novembro de 1962, que concede isenção de impostos e taxas federais em favor da emprêsa “Côco Alimentar de Alagoas S.A.”, de Maceió, (Al).

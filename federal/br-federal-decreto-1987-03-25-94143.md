@@ -1,5 +1,3 @@
-###DEC-094143-0-000-25-03-1987@@@
-
 DECRETO Nº 94.143, DE 25 DE MARÇO DE 1987.
 
 Autoriza o funcionamento da Universidade Estadual do Maranhão.

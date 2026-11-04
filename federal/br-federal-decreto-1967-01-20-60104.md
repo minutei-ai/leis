@@ -1,5 +1,3 @@
-###DEC-060104-0-000-20-01-1967@@@
-
 DECRETO nº 60.104, DE 20 DE JANEIRO DE 1967.
 
 Declara de utilidade pública a “Obras Sociais, Universitárias e Culturais” (OSUC) com sede em São Paulo, Estado de São Paulo.

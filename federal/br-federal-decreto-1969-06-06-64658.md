@@ -1,5 +1,3 @@
-###DEC-064658-0-000-06-06-1969@@@
-
 DECRETO Nº 64.658, DE 6 DE JUNHO DE 1969.
 
 9Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Fazenda, cargos originários dos extintos Serviços de Navegação da Amazônia e da Administração do Pôrto do Pará e dá outras providências.

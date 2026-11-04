@@ -1,5 +1,3 @@
-###DEL-007295-0-000-02-02-1945@@@
-
 DECRETO-LEI N. 7.295 – DE 2 DE FEVEREIRO DE 1945
 
 Cria cargo em comissão no Ministério da Viação e Obras Públicas e dá outras providências

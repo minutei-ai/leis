@@ -1,5 +1,3 @@
-###DEC-086724-0-000-14-12-1981@@@
-
 DECRETO Nº 86.724, de 14 de dezembro de 1981
 
 Declaro de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento (DNOS), uma faixa de terras com benfeitorias, situada no Município de São Leopoldo, no Estado do Rio Grande do Sul, e da outras providências.

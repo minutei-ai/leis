@@ -1,5 +1,3 @@
-###DEC-004985-0-000-12-02-2004@@@
-
 DECRETO Nº 4.985,  DE 12 DE FEVEREIRO DE 2004.
 
 Dispõe sobre o encerramento dos trabalhos de inventariança da Superintendência do Desenvolvimento do Nordeste - SUDENE e dá outras providências.

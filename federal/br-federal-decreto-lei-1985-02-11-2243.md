@@ -1,5 +1,3 @@
-###DEL-002243-0-000-11-02-1985@@@
-
 # DECRETO-LEI Nº 2.243, DE 11 DE FEVEREIRO DE 1985
 
 Inclui parágrafo único no artigo 3º do Decreto-lei nº 1.727, de 10 dezembro de 1979, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-068601-0-000-10-05-1971@@@
-
 DECRETO Nº 68.601, DE 10 DE MAIO DE 1971.
 
 Declara de utilidade pública o Instituto de Ensino e Assistência Social de Videira, com sede em Videira, Estado de Santa Catarina.

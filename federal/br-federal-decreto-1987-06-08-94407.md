@@ -1,5 +1,3 @@
-###DEC-094407-0-000-08-06-1987@@@
-
 DECRETO Nº 94.407, DE 8 DE JUNHO DE 1987
 
 Dispõe sobre a extinção do Escritório de Representação do Instituto do Açúcar e do Álcool - IAA, em Londres, e dá outras providências.

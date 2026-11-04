@@ -1,8 +1,6 @@
-###MPV-000022-0-000-08-01-2002@@@
-
 MEDIDA PROVISÓRIA Nº 22, DE 08 DE JANEIRO DE 2002.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr style="height:15.75pt"><td style="width:202.35pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"></p></td><td style="width:237.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:10.3pt"><span>Altera a legislação tributária federal e dá outras providências.</span></p></td></tr></tbody></table>
+Altera a legislação tributária federal e dá outras providências.
 
 O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da Constituição, adota a seguinte Medida Provisória, com força de lei:
 
@@ -10,11 +8,55 @@ Art. 1~~º~~ O imposto de renda incidente sobre os rendimentos de pessoas físic
 
 # Tabela Progressiva Mensal
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:181.4pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Base de Cálculo em R$</span></p></td><td style="width:84.05pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Alíquota %</span></p></td><td style="width:177pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Parcela a Deduzir do imposto em r$</span></p></td></tr><tr><td style="width:181.4pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Até 1.058,00</span></p></td><td style="width:84.05pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td><td style="width:177pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td></tr><tr><td style="width:181.4pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">De 1.058,01 até 2.115,00</span></p></td><td style="width:84.05pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">15</span></p></td><td style="width:177pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">158,70</span></p></td></tr><tr><td style="width:181.4pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Acima de 2.115,00</span></p></td><td style="width:84.05pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">27,5</span></p></td><td style="width:177pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">423,08</span></p></td></tr></tbody></table>
+Base de Cálculo em R$
+
+Alíquota %
+
+Parcela a Deduzir do imposto em r$
+
+Até 1.058,00
+
+-
+
+-
+
+De 1.058,01 até 2.115,00
+
+15
+
+158,70
+
+Acima de 2.115,00
+
+27,5
+
+423,08
 
 # Tabela Progressiva Anual
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:181.4pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Base de Cálculo em R$</span></p></td><td style="width:84.05pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Alíquota %</span></p></td><td style="width:172.55pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Parcela a Deduzir do imposto em r$</span></p></td></tr><tr><td style="width:181.4pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Até 12.696,00</span></p></td><td style="width:84.05pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td><td style="width:172.55pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td></tr><tr><td style="width:181.4pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">De 12.696,01 até 25.380,00</span></p></td><td style="width:84.05pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">15</span></p></td><td style="width:172.55pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">1.904,40</span></p></td></tr><tr><td style="width:181.4pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Acima de 25.380,00</span></p></td><td style="width:84.05pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">27,5</span></p></td><td style="width:172.55pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">5.076,90</span></p></td></tr></tbody></table>
+Base de Cálculo em R$
+
+Alíquota %
+
+Parcela a Deduzir do imposto em r$
+
+Até 12.696,00
+
+-
+
+-
+
+De 12.696,01 até 25.380,00
+
+15
+
+1.904,40
+
+Acima de 25.380,00
+
+27,5
+
+5.076,90
 
 Art. 2~~º~~ Os arts. 4o, 8o e 10 da Lei no 9.250, de 26 de dezembro de 1995, passam a vigorar com a seguinte redação:
 

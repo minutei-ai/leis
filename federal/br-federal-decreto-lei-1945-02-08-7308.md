@@ -1,5 +1,3 @@
-###DEL-007308-0-000-08-02-1945@@@
-
 DECRETO-LEI N. 7.308 – DE 8 DE FEVEREIRO DE 1945
 
 Concede aumento geral de vencimentos aos funcionários civis e ao pessoal militar do Território do Acre e institui o regime de salário-família para os funcionários civis

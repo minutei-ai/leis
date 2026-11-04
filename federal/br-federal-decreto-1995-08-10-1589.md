@@ -1,7 +1,3 @@
-1
-
-###DEC-001589-0-000-10-08-1995@@@
-
 DECRETO Nº 1.589, DE 10 DE AGOSTO DE 1995.
 
 Adota tarifa especial, prevista no art. 104 da Lei nº 4.117, de 27 de agosto de 1962, e dá outras providências.

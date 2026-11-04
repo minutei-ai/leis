@@ -1,5 +1,3 @@
-###DEC-076972-0-000-31-12-1975@@@
-
 DECRETO Nº 76.972, DE 31 DE DEZEMBRO DE 1975.
 
 Renova por dez (10) anos a outorga deferida à Rádio Tabajara de Londrina Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Londrina, Estado do Paraná.

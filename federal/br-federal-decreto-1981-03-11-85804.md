@@ -1,7 +1,3 @@
-1
-
-###DEC-085804-0-000-11-03-1981@@@
-
 Decreto nº 85.804, de 11 de março de 1981.
 
 Concede à Telecomunicações do Rio de Janeiro S.A. - TELERJ, empresa controlada da Telecomunicações Brasileiras S.A. - TELEBRÁS, autorização para promover o aumento do seu capital social.
@@ -19,8 +15,6 @@ Brasília, 11 de março de 1981; 160º da Independência e 93º da República.
 AURELIANO CHAVES
 
 Rômulo Villar Furtado
-
-###DEC-085804-0-000-11-03-1981@@@RET01+++
 
 DECRETOS NºS 85.804 a 85.808, DE 11 DE MARÇO DE 1981.
 

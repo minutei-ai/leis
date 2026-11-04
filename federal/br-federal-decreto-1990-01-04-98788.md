@@ -1,7 +1,3 @@
-1
-
-###DEC-098788-0-000-04-01-1990@@@
-
 # DECRETO Nº 98.788, DE 4 DE JANEIRO DE 1990
 
 Dispõe sobre a execução do Décimo Protocolo Adicional ao Acordo de Alcance Parcial de renegociação das Preferências Outorgada no Período 1962/1980, entre o Brasil e o Peru (Acordo nº 12).

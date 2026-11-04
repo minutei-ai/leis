@@ -1,5 +1,3 @@
-###DEC-053138-0-000-10-12-1963@@@
-
 DECRETO Nº 53.138, DE 19 DE DEZEMBRO DE 1963.
 
 Concede à Companhia Mineração Santa Bárbara autorização para funcionar como emprêsa de mineração.

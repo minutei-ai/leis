@@ -1,5 +1,3 @@
-###DEL-002229-0-000-17-01-1985@@@
-
 # Decreto-leI nº 2.229, de 17 de Janeiro de 1985
 
 Estende aos servidores dos Serviços Auxiliares do Tribunal de Contas do Distrito Federal o disposto no Decreto-lei nº 2.211, de 31 de dezembro de 1984.

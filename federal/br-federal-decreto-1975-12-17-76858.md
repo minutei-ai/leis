@@ -1,5 +1,3 @@
-###DEC-076858-0-000-17-12-1975@@@
-
 DECRETO Nº 76.858, DE 17 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Estudos Sociais da Faculdade de Educação de Monte Aprazível, com sede na cidade de Monte Aprazível, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-006952-0-000-02-09-2009@@@
-
 DECRETO Nº 6.952, DE 2 DE SETEMBRO DE 2009.
 
 Aprova o Regulamento do Fundo de Desenvolvimento do Nordeste - FDNE, e dá outras providências.

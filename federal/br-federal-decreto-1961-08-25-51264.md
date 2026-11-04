@@ -1,5 +1,3 @@
-###DEC-051264-0-000-25-08-1961@@@
-
 DECRETO Nº 51.264, DE 25 DE AGÔSTO DE 1961.
 
 Autoriza o cidadão brasileiro João Girardelli a pesquisar água mineral no município de Monte Alegre do Sul, Estado de São Paulo.

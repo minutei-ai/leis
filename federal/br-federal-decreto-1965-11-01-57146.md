@@ -1,5 +1,3 @@
-###DEC-057146-0-000-01-11-1965@@@
-
 DECRETO Nº 57.146, DE 1º DE NOVEMBRO DE 1965.
 
 Atualiza conforme o disposto no artigo 9º da Lei nº 4.357, de 16 de julho de1964, as multas previstas na Legislação do Trabalho.

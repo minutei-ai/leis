@@ -1,5 +1,3 @@
-###DEC-048412-0-000-23-06-1960@@@
-
 DECRETO Nº 48.412, de 23 de junho de 1960.
 
 Autoriza a S.A. Leão Irmãos Açúcar e Álcool a construir uma linha de transmissão.

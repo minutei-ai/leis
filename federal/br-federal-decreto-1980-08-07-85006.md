@@ -1,5 +1,3 @@
-###DEC-085006-0-000-07-08-1980@@@
-
 Decreto nº 85.006, de 07 de agosto de 1980
 
 Declara de utilidade publica, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

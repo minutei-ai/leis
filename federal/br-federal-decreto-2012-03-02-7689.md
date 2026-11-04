@@ -1,5 +1,3 @@
-###DEC-007689-0-000-02-03-2012-PUB-01@@@
-
 DECRETO N°\- 7.689, DE 2 DE MARÇO DE 2012
 
 Estabelece, no âmbito do Poder Executivo federal, limites e instâncias de governança para a contratação de bens e serviços e para a realização de gastos com diárias e passagens.

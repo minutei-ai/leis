@@ -1,5 +1,3 @@
-###DEC-068277-0-000-19-02-1971@@@
-
 DECRETO Nº 68.277, DE 19 DE FEVEREIRO DE 1971.
 
 Reorganiza o Departamento Geral do Pessoal do Ministério do Exército e dá outras providências.

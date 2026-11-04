@@ -1,5 +1,3 @@
-###DEC-092879-0-000-01-07-1986@@@
-
 DECRETO Nº 92.879, DE 1 DE JULHO DE 1986
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Fundação Educacional do Alto Vale do Itajaí.

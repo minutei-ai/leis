@@ -1,5 +1,3 @@
-###DEC-050414-0-000-05-04-1961@@@
-
 DECRETO Nº 50.414, de 05 DE abril DE 1961.
 
 Autoriza o Ministério da Agricultura a instituir, nos Estados e Territórios Delegacias Honorárias, com a incumbência específica de colaborar na fiscalização da caça e pesca em todo o Território Nacional.

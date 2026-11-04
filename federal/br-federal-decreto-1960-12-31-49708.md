@@ -1,5 +1,3 @@
-###DEC-049708-0-000-31-12-1960@@@
-
 Decreto nº 49.708, de 31 de dezembro de 1960.
 
 Aprova alterações introduzidas nos Estatutos da Atlas Assurance Company Limited.

@@ -1,5 +1,3 @@
-###DEC-084631-0-000-09-04-1980@@@
-
 Decreto nº 84.631, de 12 de abril de 1980.
 
 Institui a "Semana Nacional do Livro e da Biblioteca" e o "Dia do Bibliotecário".

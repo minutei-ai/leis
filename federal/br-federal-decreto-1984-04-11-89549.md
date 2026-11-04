@@ -1,5 +1,3 @@
-###DEC-089549-0-000-11-04-1984@@@
-
 Decreto nº 89.549, de 11 de abril de 1984.
 
 Autoriza o aumento do Capital Social da Companhia Vale do Rio Doce - CVRD.

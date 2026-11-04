@@ -14,7 +14,8 @@ Art. 2º - A fundação estatal terá patrimônio e receitas próprias e gozará
 
 Art. 3º - As fundações estatais poderão desempenhar atividades nas seguintes áreas:
 
-Redação de acordo com o [art. 32](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-36-de-11-de-marco-de-2013#LEI%2036%20Art%2032) da Lei nº 36, de 11 de março de 2013.<br>
+Redação de acordo com o [art. 32](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-36-de-11-de-marco-de-2013#LEI%2036%20Art%2032) da Lei nº 36, de 11 de março de 2013.
+
 Redação original: "Art. 3º - As fundações estatais a serem instituídas ou que tenham autorizada a instituição a partir da entrada em vigor desta Lei somente desempenharão atividades na área de saúde."
 
 I - saúde;
@@ -29,7 +30,8 @@ Parágrafo único - O disposto no caput deste artigo não se aplica às fundaç�
 
 Art. 4º - As fundações estatais integrarão a Administração Pública indireta e vincular-se-ão à Secretaria estadual em cuja área de competência estiverem inseridas as suas atividades.
 
-Redação de acordo com o [art. 32](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-36-de-11-de-marco-de-2013#LEI%2036%20Art%2032) da Lei nº 36, de 11 de março de 2013.<br>
+Redação de acordo com o [art. 32](https://www.legislabahia.ba.gov.br/documentos/lei-complementar-no-36-de-11-de-marco-de-2013#LEI%2036%20Art%2032) da Lei nº 36, de 11 de março de 2013.
+
 Redação original: "Art. 4º - As fundações estatais a serem instituídas ou que tenham autorizada a instituição a partir da entrada em vigor desta Lei integrarão a administração pública indireta e vincular-se-ão à Secretaria da Saúde."
 
 Art. 5º - As fundações estatais estarão sujeitas à fiscalização do sistema de controle do Executivo, do Tribunal de Contas do Estado e do Ministério Público Estadual.

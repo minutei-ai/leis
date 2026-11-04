@@ -1,5 +1,3 @@
-###DEC-050653-0-000-24-05-1961@@@
-
 DECRETO Nº 50.653, DE 24 DE MAIO DE 1961.
 
 Aprova alterações introduzidas nos Estatutos da Companhia Hemisférica de seguros.

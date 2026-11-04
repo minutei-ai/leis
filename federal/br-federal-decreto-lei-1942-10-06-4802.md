@@ -1,5 +1,3 @@
-###DEL-004802-0-000-06-10-1942@@@
-
 DECRETO-LEI N. 4.802 – DE 6 DE OUTUBRO DE 1942
 
 Confere o carater de estabelecimento federal de ensino à Escola de Pesca Darcy Vargas e dá outras providências

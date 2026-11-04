@@ -1,5 +1,3 @@
-###DEC-005088-0-000-20-05-2004@@@
-
 DECRETO Nº 5.088, DE 20 DE MAIO DE 2004
 
 Dispõe sobre a reclassificação dos cargos do Quadro de Pessoal da Agência Brasileira de Inteligência - ABIN, no Grupo Informações ou no Grupo Apoio, e dá outras providências.

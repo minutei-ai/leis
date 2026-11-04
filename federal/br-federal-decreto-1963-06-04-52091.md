@@ -1,5 +1,3 @@
-###DEC-052091-0-000-04-06-1963@@@
-
 DECRETO Nº 52.091, DE 4 DE JUNHO DE 1963.
 
 Altera a lotação numérica da Parte Permanente do Quadro de Pessoal do Ministério da Fazenda.

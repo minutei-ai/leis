@@ -1,5 +1,3 @@
-###DEC-066579-0-000-14-05-1970@@@
-
 DECRETO Nº 66.579, DE 14 DE MAiO DE 1970.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de São Paulo, Estado de São Paulo.

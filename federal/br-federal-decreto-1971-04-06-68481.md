@@ -1,5 +1,3 @@
-###DEC-068481-0-000-06-04-1971@@@
-
 DECRETO Nº 68.481 - DE 6 DE ABRIL DE 1971.
 
 Declara de utilidade pública, para fins de desapropriação, imóvel destinado à proteção de monumento histórico e paisagístico, em Paratí, Estado do Rio de Janeiro.

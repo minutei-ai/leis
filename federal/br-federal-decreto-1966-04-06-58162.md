@@ -1,5 +1,3 @@
-###DEC-058162-0-000-06-04-1966@@@
-
 DECRETO Nº 58.162, DE 6 DE ABRIL DE 1966.
 
 Dispõe sôbre a criação de área prioritária de emergência para fins de Reforma Agrária, e dá outras providências.

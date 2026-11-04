@@ -1,5 +1,3 @@
-###DEL-008992-0-000-18-02-1946@@@
-
 DECRETO-LEI N. 8.992 – DE 18 DE FEVEREIRO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a isentar a Fundação Clara Basbaum do impôsto que menciona.

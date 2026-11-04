@@ -1,5 +1,3 @@
-###DEL-008865-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.865 – DE 24 DE JANEIRO DE 1946
 
 Cria, no Departamento dos Correios e Telégrafos, (Quadro III do Ministério da Viação e Obras Públicas), a carreira de Médico e dá outras providências.

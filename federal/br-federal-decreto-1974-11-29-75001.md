@@ -1,5 +1,3 @@
-###DEC-075001-0-000-29-11-1974@@@
-
 DECRETO Nº 75.001, DE 29 DE Novembro De 1974.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos  que menciona.

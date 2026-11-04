@@ -1,5 +1,3 @@
-###DEC-080251-0-000-30-08-1977@@@
-
 DECRETO Nº 80.251, DE 30 DE AGOSTO DE 1977.
 
 Concede à Violani & Cia. Ltda. o direito de lavrar sericita no Município de Bocaiúva do Sul, Estado do Paraná.

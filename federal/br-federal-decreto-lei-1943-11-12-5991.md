@@ -1,5 +1,3 @@
-###DEL-005991-0-000-12-11-1943@@@
-
 DECRETO‑LEI N. 5.991 – DE 12 DE NOVEMBRO DE 1943
 
 Cria, no Quadro de Professores do Ensino Elementar da Marinha, o Pôsto de Capitão Tenente e dá outras providências

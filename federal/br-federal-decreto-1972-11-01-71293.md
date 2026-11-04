@@ -1,5 +1,3 @@
-###DEC-071293-0-000-01-11-1972@@@
-
 DECRETO Nº 71.293, DE 1 DE NOVEMBRO DE 1972.
 
 Autoriza o funcionamento do Instituto Superior de Estudos Sociais ''Clovis Bevilacqua''.

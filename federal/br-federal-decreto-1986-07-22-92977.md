@@ -1,5 +1,3 @@
-###DEC-092977-0-000-22-07-1986@@@
-
 DECRETO Nº 92.977, DE 22 DE JULHO DE 1986
 
 Altera a redação de dispositivos do Estatuto da Fundação Legião Brasileira de Assistência - LBA, aprovado pelo Decreto nº 83.148, de 8 de fevereiro de 1979, alterado pelo Decreto nº 91.577, de 28 de agosto de 1985.

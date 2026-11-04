@@ -1,5 +1,3 @@
-###DEC-054319-0-000-28-09-1964@@@
-
 decreto nº 54.319, de 28 de setembro de 1964.
 
 Retifica disposições do Decreto número 53.960, de 9 de julho de 1964.

@@ -1,7 +1,3 @@
-1
-
-###DEL-002339-0-000-26-06-1987@@@
-
 # DECRETO-LEI Nº 2.339, DE 26 DE JUNHO DE 1987
 
 Altera o Decreto-lei nº 2.335, de 12 de junho de 1987, e dá outras providências.

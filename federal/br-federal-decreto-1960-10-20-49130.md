@@ -1,5 +1,3 @@
-###DEC-049130-0-000-20-10-1960@@@
-
 DECRETO Nº 49.130, DE 20 DE OUTUBRO DE 1960.
 
 Fixa a gratificação de representação do Delegado do Brasil na Comissão Jurídica Interamericana.

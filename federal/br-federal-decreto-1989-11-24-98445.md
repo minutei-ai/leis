@@ -1,7 +1,3 @@
-1
-
-###DEC-098445-0-000-24-11-1989@@@
-
 DECRETO Nº 98.445, DE 24 DE NOVEMBRO DE 1989
 
 Dispõe sobre a criação e a extinção de Organizações Militares de Aviação do Exército, e dá outras providências.

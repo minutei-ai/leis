@@ -1,5 +1,3 @@
-###DEC-071213-0-000-05-10-1972@@@
-
 DECRETO Nº 71.213 - DE 5 DE OUTUBRO DE 1972.
 
 Retifica o Decreto nº 71.033, de 28 de agosto de 1972, que abre ao Ministério das Comunicações, em favor da Secretaria-Geral, o crédito especial de Cr$ 10.000.000,00.

@@ -1,5 +1,3 @@
-###DEC-059431-0-000-27-10-1966@@@
-
 DECRETO Nº 59.431, DE 27 DE OUTUBRO DE 1966.
 
 Aplica à Comissão Nacional de Energia Nuclear o aumento de que trata a Lei nº 4.863, de 29-11-65.

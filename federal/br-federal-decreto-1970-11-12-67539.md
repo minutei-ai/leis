@@ -1,5 +1,3 @@
-###DEC-067539-0-000-12-11-1970@@@
-
 Decreto nº 67.539, de 12 de novembro de 1970.
 
 Declara caduco o Decreto nº 17.604, de 17-01-1945.

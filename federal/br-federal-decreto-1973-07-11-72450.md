@@ -1,5 +1,3 @@
-###DEC-072450-0-000-11-07-1973@@@
-
 DECRETO Nº 72.450, DE 11 DE JULHO DE 1973.
 
 Aprova o Regulamento da Diretoria de Comunicações, do Departamento de Engenharia e Comunicações, do Ministério do Exército, e dá outras providências.

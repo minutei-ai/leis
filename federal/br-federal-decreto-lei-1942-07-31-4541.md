@@ -1,5 +1,3 @@
-###DEL-004541-0-000-31-07-1942@@@
-
 DECRETO-LEI N. 4.541 – DE 31 DE JULHO DE 1942
 
 Fixa a altura máxima dos prédios próximos aos fortes de “Copacabana” e “Duque de Caxias”

@@ -1,5 +1,3 @@
-###DEC-084484-0-000-20-02-1980@@@
-
 Decreto nº 84.484, de 20 de fevereiro de 1980
 
 Reorganiza o Conselho de Desenvolvimento Comercial - CDC - criado pelo Decreto-lei nº 690, de 18 de julho de 1969, alterado pelo de nº 868, de 12 de setembro de 1969, e dá outras providências.

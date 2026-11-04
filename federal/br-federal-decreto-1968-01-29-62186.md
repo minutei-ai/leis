@@ -1,5 +1,3 @@
-###DEC-062186-0-000-29-01-1968@@@
-
 DECRETO Nº 62.186, DE 29 DE JANEIRO DE 1968.
 
 Autoriza o Ministério da Aeronáutica a aceitar doação de terreno no Aeroporto de Sorocaba, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-052213-0-000-02-07-1963@@@
-
 DECRETO Nº 52.213, DE 2 DE JULHO DE 1963.
 
 Oficializa medalha cultural.

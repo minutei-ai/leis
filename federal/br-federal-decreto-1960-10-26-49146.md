@@ -1,5 +1,3 @@
-###DEC-049146-0-000-26-10-1960@@@
-
 DECRETO Nº 49.146, DE 26 DE OUTUBRO DE 1960.
 
 Autoriza Antônio Aquino chaves a comprar pedras preciosas.

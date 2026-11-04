@@ -294,10 +294,12 @@ Art. 3º As inovações introduzidas por este Decreto aplicam-se às operações
 
 I – efetuar o cálculo da diferença entre as bases de cálculo de que trata o _caput_ de acordo com o disposto no parágrafo único do art. 42 do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266/decreto-4852), de 1997, no § 6º do art. 45, no inciso VI do _caput_ e no § 6º do art. 46, e no art. 51– A, todos do Anexo VIII do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266/decreto-4852), de 1997, com a redação dada por este Decreto; e
 
-II – lançar, na apuração do ICMS próprio da EFD, sem o prévio exame da autoridade administrativa, o valor do ICMS calculado nos termos do inciso I deste artigo nos seguintes ajustes, conforme o caso:<br>
+II – lançar, na apuração do ICMS próprio da EFD, sem o prévio exame da autoridade administrativa, o valor do ICMS calculado nos termos do inciso I deste artigo nos seguintes ajustes, conforme o caso:
+
 \- [Redação dada pelo Decreto nº 10.420, de 8-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108516/decreto-10420).
 
-~~II – lançar, na apuração do ICMS próprio da EFD, em um dos arquivos compreendidos nos períodos de apuração de junho a setembro de 2023, sem o prévio exame da autoridade administrativa, o valor do ICMS calculado nos termos do inciso I deste artigo nos seguintes ajustes, conforme o caso:~~<br>
+~~II – lançar, na apuração do ICMS próprio da EFD, em um dos arquivos compreendidos nos períodos de apuração de junho a setembro de 2023, sem o prévio exame da autoridade administrativa, o valor do ICMS calculado nos termos do inciso I deste artigo nos seguintes ajustes, conforme o caso:~~
+
 \- [Redação dada pelo Decreto nº 10.293, de 25-7-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107515/decreto-10293).
 
 ~~II – lançar na apuração do ICMS próprio da EFD, no arquivo referente ao segundo período de apuração subsequente ao início de produção de efeitos deste Decreto, sem o prévio exame da autoridade administrativa, o valor do ICMS calculado nos termos do inciso I nos seguintes ajustes, conforme o caso:~~
@@ -318,16 +320,20 @@ III – os valores a restituir ou a complementar por período de apuração calc
 
 I – valor a restituir, o contribuinte deve:
 
-a) apresentar à Secretaria de Estado da Economia o demonstrativo de que trata o § 1º deste artigo até o último dia do mês subsequente ao da apropriação do crédito; e<br>
-\- [Redação dada pelo Decreto nº 10.420, de 8-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108516/decreto-10420).<br>
+a) apresentar à Secretaria de Estado da Economia o demonstrativo de que trata o § 1º deste artigo até o último dia do mês subsequente ao da apropriação do crédito; e
+
+\- [Redação dada pelo Decreto nº 10.420, de 8-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108516/decreto-10420).
+
 \- [Vide Art. 2º do Decreto nº 10.420, de 8-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108516/decreto-10420).
 
-~~a) apresentar à Secretaria de Estado da Economia, até 30 de setembro de 2023, o demonstrativo de que trata o § 1º deste artigo; e~~<br>
+~~a) apresentar à Secretaria de Estado da Economia, até 30 de setembro de 2023, o demonstrativo de que trata o § 1º deste artigo; e~~
+
 \- [Redação dada pelo Decreto nº 10.293, de 25-7-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107515/decreto-10293).
 
 ~~a) apresentar à Secretaria de Estado da Economia, no prazo de 90 (noventa) dias contados do início da produção de efeitos deste Decreto, o demonstrativo de que trata o § 1º; e~~
 
-~~b) na hipótese de descumprimento do disposto na alínea ‘’a”, estornar, no período de apuração subsequente ao término do prazo de que trata a alínea “a”, os créditos eventualmente lançados na EFD; ou~~<br>
+~~b) na hipótese de descumprimento do disposto na alínea ‘’a”, estornar, no período de apuração subsequente ao término do prazo de que trata a alínea “a”, os créditos eventualmente lançados na EFD; ou~~
+
 \- [Revogada pelo Decreto nº 10.420, de 8-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108516/decreto-10420), art, 3º
 
 II – valor a complementar, o contribuinte deve manter o demonstrativo de que trata o § 1º à disposição do fisco pelo prazo decadencial.
@@ -359,8 +365,6 @@ VI – o parágrafo único do art. 77.
 Art. 6º Este Decreto entra em vigor na data de sua publicação, porém produz efeitos a partir do primeiro dia do terceiro mês subsequente ao de sua publicação, exceto em relação ao art. 42-A do [Decreto nº 4.852](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67266/decreto-4852), de 1997.
 
 Goiânia, 19 de janeiro de 2023; 135º da República.
-
-<br>
 
 RONALDO CAIADO
 

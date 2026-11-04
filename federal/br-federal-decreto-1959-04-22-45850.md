@@ -1,5 +1,3 @@
-###DEC-045850-0-000-22-04-1959@@@
-
 DECRETO Nº 45.850, DE 22 DE ABRIL DE 1959.
 
 Transfere da Prefeitura Municipal de São João del Rei para a Centrais Elétricas de Minas Gerais S.A. (CEMIG), a concessão para produção, transmissão e distribuição de energia elétrica no Município de São João del Rei e nas localidades de Vila Santa Cruz, Águas Santas e César de Pina, no Estado de Minas Gerais.

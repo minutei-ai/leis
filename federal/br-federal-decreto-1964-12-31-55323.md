@@ -1,5 +1,3 @@
-###DEC-055323-0-000-31-12-1964@@@
-
 decreto nº 55.323, de 31 de dezembro de 1964.
 
 Concede à Ferromina Comércio e Indústria de Minérios S.A. autorização para funcionar como emprêsa de mineração.

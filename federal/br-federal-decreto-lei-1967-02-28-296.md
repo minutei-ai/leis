@@ -1,5 +1,3 @@
-###DEL-000296-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 296, DE 28 DE FEVEREIRO DE 1967
 
 Altera dispositivos do Decreto-lei número 73, de 21 de novembro de 1966.

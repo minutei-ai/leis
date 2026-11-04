@@ -1,5 +1,3 @@
-###DEC-079270-0-000-14-02-1977@@@
-
 decreto nº 79.270, de 14 de fevereiro de 1977.
 
 Concede reconhecimento ao curso de Letras, da Faculdade de Educação, Filosofia, Ciências e Letras de Araxá, com sede na cidade de Araxá, Estado de Minas Gerais.

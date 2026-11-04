@@ -1,5 +1,3 @@
-###DEC-050287-0-000-21-02-1961@@@
-
 DECRETO Nº 50.287, de 21 de fevereiro de 1961.
 
 Revoga o Decreto nº 48.249-A, de 30 de maio de 1961.

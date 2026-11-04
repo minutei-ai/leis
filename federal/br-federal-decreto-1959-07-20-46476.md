@@ -1,5 +1,3 @@
-###DEC-046476-0-000-20-07-1959@@@
-
 DECRETO Nº 46.476, DE 20 DE JULHO DE 1959.
 
 Autoriza a Companhia de Mineração Rio Doce a pesquisar mica, no município de Peçanha, Estado de Minas Gerais.

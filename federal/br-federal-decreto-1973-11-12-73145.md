@@ -1,5 +1,3 @@
-###DEC-073145-0-000-12-11-1973@@@
-
 DECRETO Nº 73.145 - DE 12 DE NOVEMBRO DE 1973
 
 Concede reconhecimento ao curso de Administração da Faculdade de Ciências Econômicas, mantida pela Fundação Educacional de Alegrete, com sede na cidade do Alegrete, Estado do Rio Grande do Sul.

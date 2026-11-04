@@ -1,5 +1,3 @@
-###DEC-075319-0-000-28-01-1975@@@
-
 DECRETO Nº 75.319, DE 28 DE JANEIRO DE 1975.
 
 Autoriza o funcionamento dos cursos de Pedagogia e Letras, das Faculdades Integradas "Cristo Rei", mantidas pela Sociedade Agostiniana Missionária de Assistência e Educação, com sede na cidade de São Paulo, Estado de São Paulo.

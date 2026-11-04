@@ -6,16 +6,20 @@ Altera [Lei nº. 3.968/2000.](https://legisla.casacivil.go.gov.br/pesquisa_legis
 
 Art. 1º Acrescenta o § 12 ao art. 194 da Lei Complementar nº. 3.968, de 31 de agosto de 2000, com a seguinte redação:
 
-“**TÍTULO III<br>
+“**TÍTULO III
+
 CAPÍTULO III**
 
-**SEÇÃO VIII<br>
-DA LICENÇA PRÊMIO**<br>
+**SEÇÃO VIII
+
+DA LICENÇA PRÊMIO**
+
  
 
-<br>
-Art.194. .....................................................................................<br>
-...................................................................................................<br>
+Art.194. .....................................................................................
+
+...................................................................................................
+
 §12. A conversão da licença prêmio em indenização pecuniária poderá se dar a qualquer tempo, ainda que na vigência do período concessivo, quando o afastamento do servidor, justificadamente, puder causar prejuízo à Administração.”
 
 Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação.

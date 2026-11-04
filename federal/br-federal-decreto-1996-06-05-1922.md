@@ -1,5 +1,3 @@
-###DEC-001922-0-000-05-06-1996@@@
-
 DECRETO N° 1.922, DE 5 DE JUNHO DE 1996.
 
 Dispõe sobre o reconhecimento das Reservas Particulares do Patrimônio Natural, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-083270-0-000-12-03-1979@@@
-
 decreto nº 83.270, de 12 de março de 1979
 
 Autoriza o registro, em nome da União Federal, dos imóveis que menciona, situados na Cidade e Estado do Rio de Janeiro.

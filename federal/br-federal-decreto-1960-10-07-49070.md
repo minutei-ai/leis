@@ -1,5 +1,3 @@
-###DEC-049070-0-000-07-10-1960@@@
-
 DECRETO Nº 49.070, DE 7 DE OUTUBRO DE 1960.
 
 Autoriza o Estado do Rio de Janeiro a ampliar seu sistema de transmissão de energia elétrica, mediante a construção de uma linha entre a Usina Hidroelétrica de Macabu e o distrito sede do município de São Pedro da Aldeia, e dá outras providências.

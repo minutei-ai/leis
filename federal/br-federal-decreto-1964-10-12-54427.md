@@ -1,5 +1,3 @@
-###DEC-054427-0-000-12-10-1964@@@
-
 DECRETO Nº 54.427, DE 12 DE OUTUBRO DE 1964.
 
 Concede à Carmonita Ltda. autorização para funcionar como emprêsa de mineração.

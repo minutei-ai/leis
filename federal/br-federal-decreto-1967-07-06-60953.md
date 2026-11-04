@@ -1,5 +1,3 @@
-###DEC-060953-0-000-06-07-1967@@@
-
 DECRETO Nº 60.953, DE 6 DE JULHO DE 1967.
 
 Declara a cessação da exploração dos serviços de energia elétrica pela Companhia Fôrça e Luz de União, o município de Bias Fortes, Estado de Minas Gerais, e outorga concessão à Centrais Elétricas de Minas Gerais S. A., no município de Bias Fortes, Estado de Minas Gerais, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-090791-0-000-09-01-1985@@@
-
 DECRETO Nº 90.791, DE 09 DE JANEIRO DE 1985
 
 Dispõe sobre a declaração de área de relevante interesse ecológico, no Município de Cosmópolis, no Estado de São Paulo, e dá outras providências.

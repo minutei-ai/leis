@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185169)
-
 # DECRETO Nº 63.199, DE 06 DE FEVEREIRO DE 2018
 
 ### _Declara de utilidade pública para fins de instituição de servidão administrativa, pela Companhia de Saneamento Básico do Estado de São Paulo-SABESP, faixas de terra necessárias à implantação de Coletor Tronco de Esgoto, parte integrante do Sistema de Esgoto Sanitário-S.E.S., localizadas no Bairro Jardim dos Três Corações/Grajaú, zona urbana, Município e Comarca de São Paulo e dá providências correlatas_
@@ -34,10 +32,16 @@ Palácio dos Bandeirantes, 6 de fevereiro de 2018
 
 GERALDO ALCKMIN
 
-Benedito Braga<br>
-Secretário de Saneamento e Recursos Hídricos<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Benedito Braga
+
+Secretário de Saneamento e Recursos Hídricos
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 6 de fevereiro de 2018.

@@ -1,5 +1,3 @@
-###DEC-062104-0-000-11-01-1968@@@
-
 DECRETO Nº 62.104, DE 11 DE JANEIRO DE 1968.
 
 Delega competência aos Ministros de Estado da Marinha, do Exército e da Aeronáutica, para aprovar, em caráter final, os Regulamentos das Escolas e Centros de Formação e Aperfeiçoamento, respectivamente, da Marinha de Guerra, do Exército e da Aeronáutica Militar.

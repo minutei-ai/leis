@@ -1,5 +1,3 @@
-###DEC-046279-0-000-29-06-1959@@@
-
 DECRETO Nº 46.279, DE 29 DE junho DE 1959.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 32.217, de 4 de fevereiro. de 1953, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno situados no Município de Major Isidoro, Estado de Alagoas.

@@ -1,5 +1,3 @@
-###DEC-047339-0-000-03-12-1959@@@
-
 DECRETO Nº 47.399, DE 3 DE DEZEMBRO DE 1959.
 
 Concede reconhecimento ao Curso de Bacharelado da Faculdade de Direito de Mato Grosso.

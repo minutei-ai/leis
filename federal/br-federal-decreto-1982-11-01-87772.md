@@ -1,5 +1,3 @@
-###DEC-087772-0-000-01-11-1982@@@
-
 Decreto nº 87.772, de 01 de novembro de 1982
 
 Eleva o capital do Banco Nacional de Desenvolvimento Econômico e Social - BNDES e dá outras providências.

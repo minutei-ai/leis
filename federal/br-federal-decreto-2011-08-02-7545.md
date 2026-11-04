@@ -1,5 +1,3 @@
-###DEC-007545-0-000-02-08-2011-PUB-01@@@
-
 DECRETO Nº 7.545, DE 2 DE AGOSTO DE 2011.
 
 Promulga a Convenção Relativa à Admissão Temporária, conhecida como Convenção de Istambul, celebrada em 26 de junho de 1990, sob os auspícios da Organização Mundial de Aduanas, o texto de seu Anexo A, com reserva, e de seus Anexos B.1, B.2, B.5 e B.6.

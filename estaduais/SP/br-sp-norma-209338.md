@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209338)<br>
-
 # DECRETO N° 68.472, DE 22 DE ABRIL DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S/A, as áreas complementares necessárias à implantação de marginal, no trecho entre os km 18+500 e 22+200, pista leste, da Rodovia SP-101, no Município de Monte Mor, e dá providências correlatas._

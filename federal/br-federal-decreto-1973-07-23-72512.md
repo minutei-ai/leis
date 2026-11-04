@@ -1,5 +1,3 @@
-###DEC-072512-0-000-23-07-1973@@@
-
 DECRETO Nº 72.512, DE 23 DE JULHO DE 1973.
 
 Aprova o Estatuto da Empresa Pública Banco Nacional da Habitação.

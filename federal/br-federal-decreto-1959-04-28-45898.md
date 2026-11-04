@@ -1,5 +1,3 @@
-###DEC-045898-0-000-28-04-1959@@@
-
 DECRETO Nº 45.898, DE 28 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Francisco Ribeiro de Carvalho a pesquisar cassiterita no município de Nazareno, Estado de Minas Gerais.

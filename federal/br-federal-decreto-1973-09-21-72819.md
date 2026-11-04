@@ -1,5 +1,3 @@
-###DEC-072819-0-000-21-09-1973@@@
-
 Decreto nº 72.819, de 21 de setembro de 1973.
 
 Altera o artigo 4º do Decreto número 1.117, de 1 de junho de 1962.

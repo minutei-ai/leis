@@ -1,5 +1,3 @@
-###MPV-002181-0-045-24-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.181-45, DE 24 DE AGOSTO DE 2001
 
  Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

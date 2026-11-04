@@ -1,5 +1,3 @@
-###DEL-004997-0-000-26-11-1942@@@
-
 DECRETO-LEI N. 4.997 – DE 26 DE NOVEMBRO DE 1942
 
 Abre ao Ministério da Fazenda, o crédito suplementar de Cr$ 24.516,00 verba que especifica

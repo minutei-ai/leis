@@ -1,5 +1,3 @@
-###DEC-058280-0-000-28-04-1966@@@
-
 decreto nº 58.280, de 28 de abril de 1966.
 
 Altera a redação de dispositivos do Decreto nº 57.810, de 14 de fevereiro de 1966, que aprovara o Regulamento do Ministério das Minas e Energia.

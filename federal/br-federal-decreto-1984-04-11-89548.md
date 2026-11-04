@@ -1,5 +1,3 @@
-###DEC-089548-0-000-11-04-1984@@@
-
 Decreto nº 89.548, de 11 de abril de 1984.
 
 Revoga dispositivo do Decreto nº 81,796, de 15 de junho de 1978, que aprovou o Regulamento do Depósito de Material Comum da Marinha no Rio de Janeiro.

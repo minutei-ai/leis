@@ -1,7 +1,3 @@
-1
-
-###DEL-002338-0-000-19-06-1987@@@
-
 # DECRETO-LEI Nº 2.338, DE 19 DE JUNHO DE 1987
 
 Dispõe sobre o pagamento da remuneração de que tratam os artigos 3º, 4º e 7º do Decreto-lei nº 1.971, de 30 de novembro de 1982, que estabelece limite de retribuição dos servidores da Administração direta e indireta da União, do Distrito Federal e dos Territórios Federais.

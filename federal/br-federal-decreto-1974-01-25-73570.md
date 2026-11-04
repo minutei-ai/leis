@@ -1,5 +1,3 @@
-###DEC-073570-0-000-25-01-1974@@@
-
 Decreto nº 73.570, de 25 de janeiro de 1974.
 
 Declara de utilidade pública, para fins desapropriação o domínio útil de um lote de terreno urbano e o domínio pleno das benfeitorias nele existentes, na localidade de Três Rios, Estado do Rio de Janeiro, destinado à ampliação da atual estação telefônica, pela Companhia Telefônica Brasileira - CTB.

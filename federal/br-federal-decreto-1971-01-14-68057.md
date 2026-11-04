@@ -1,5 +1,3 @@
-###DEC-068057-0-000-14-01-1971@@@
-
 DECRETO Nº 68.057, DE 14 DE JANEIRO DE 1971.
 
 Declara de utilidade pública a Associação Evangélica Luterana de Beneficência, com sede em Porto Alegre, Estado do Rio Grande do Sul.

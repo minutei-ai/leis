@@ -1,5 +1,3 @@
-###DEC-046944-0-000-30-09-1959@@@
-
 DECRETO Nº 46.944, DE 30 DE SETEMBRO DE 1959.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Companhia Internacional de Seguros.

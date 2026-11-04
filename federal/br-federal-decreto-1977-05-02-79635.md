@@ -1,5 +1,3 @@
-###DEC-079635-0-000-02-05-1977@@@
-
 DECRETO Nº 79.635 - DE 2 DE MAIO DE 1977
 
 Retifica a concessão de lavra outorgada a Amintas Jacques de Moraes pelo Decreto n.º 15.645, de 24 de maio de 1944, retificado pelo Decreto n.º 19.709, de 3 de outubro de 1945.

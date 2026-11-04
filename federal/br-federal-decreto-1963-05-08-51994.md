@@ -1,5 +1,3 @@
-###DEC-051994-0-000-08-05-1963@@@
-
 DECRETO Nº 51.994, DE 8 DE MAIO DE 1963.
 
 Altera a redação do decreto número 30.034, de 1º de Outubro de 1951, na parte relativa ao Exército.

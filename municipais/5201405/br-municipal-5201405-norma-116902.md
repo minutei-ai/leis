@@ -62,5 +62,6 @@ Art. 15. Esta lei entrará em vigor 120 (cento e vinte) dias após sua publicaç
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 28 dias do mês de dezembro do ano de 2016.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal

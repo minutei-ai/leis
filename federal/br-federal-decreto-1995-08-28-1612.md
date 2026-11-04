@@ -1,7 +1,3 @@
-1
-
-###DEC-001612-0-000-28-08-1995@@@
-
 DECRETO Nº 1.612, DE 28 DE AGOSTO DE 1995.
 
 Reduz alíquota do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF, nas operações de crédito que menciona.

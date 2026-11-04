@@ -1,5 +1,3 @@
-###LCP-000096-0-000-31-05-1999@@@
-
 lei complementar nº 96, de 31 de maio de 1999.
 
 Disciplina os limites das despesas com pessoal, na forma do art. 169 da Constituição.

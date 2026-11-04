@@ -1,5 +1,3 @@
-###DEL-004517-0-000-24-07-1942@@@
-
 DECRETO-LEI N. 4.517 – DE 24 DE JULHO DE 1942
 
 Destaca a importância de 11.574:926$6 para liquidação de dívidas relacionadas (Dívida Pública)

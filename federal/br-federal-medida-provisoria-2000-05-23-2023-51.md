@@ -1,5 +1,3 @@
-###MPV-002023-0-051-23-05-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.023-51, DE 23 DE mAIo DE 2000.
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

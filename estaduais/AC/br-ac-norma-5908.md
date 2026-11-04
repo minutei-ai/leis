@@ -2,7 +2,11 @@ Modificada pela Lei nº [4.766, de 19 de Janeiro de 2026.](https://legis.ac.gov.
 
 > **LEI Nº 4.298, DE 27 DE DEZEMBRO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Cria o Dia do Corredor de Rua e do Ciclista.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Cria o Dia do Corredor de Rua e do Ciclista.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -35,8 +39,6 @@ Modificada pela Lei nº [4.766, de 19 de Janeiro de 2026.](https://legis.ac.gov.
 **IX -** promover ações educativas sobre o respeito e a segurança no trânsito ao ciclista e ao corredor de rua. (Incluído pela Lei nº 4.766, de 19/01/2026)
 
 **Art. 4°** Próximo a locais comuns às práticas dos esportes mencionados nesta Lei, como quadras, ciclovias, pistas e afins, devem ser instaladas, ao menos, uma placa informativa sobre alongamentos de pré-treino.
-
-<br>
 
 **Parágrafo único.** O órgão responsável pelas ações do mês estadual do Ciclista e do Corredor de Rua, apresentará até 31 de dezembro de cada ano, relatório das atividades realizadas, contendo número de eventos, participantes, instituições envolvidas e resultados alcançados. (Incluído pela Lei nº 4.766, de 19/01/2026)
 

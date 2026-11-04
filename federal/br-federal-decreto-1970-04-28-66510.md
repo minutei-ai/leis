@@ -1,5 +1,3 @@
-###DEC-066510-0-000-28-04-1970@@@
-
 DECRETO nº 66.510, DE 28 DE ABRIL DE 1970.
 
 Cria o Hospital de Guarnição de Tabatinga e dá outras providências.

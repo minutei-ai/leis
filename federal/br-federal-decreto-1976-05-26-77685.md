@@ -1,5 +1,3 @@
-###DEC-077685-0-000-26-05-1976@@@
-
 DECRETO Nº 77.685, DE 26 DE MAIO DE 1976
 
 Concede à Empresa de Mineração Sublime Ltda., o direto de lavrar água mineral no município de Santa Rita, Estado da Paraíba.

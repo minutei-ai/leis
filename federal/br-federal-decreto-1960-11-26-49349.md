@@ -1,5 +1,3 @@
-###DEC-049349-0-000-26-11-1960@@@
-
 DECRETO Nº 49.349, DE 26 DE NOVEMBRO DE 1960.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.

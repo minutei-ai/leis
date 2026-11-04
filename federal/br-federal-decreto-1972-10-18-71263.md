@@ -1,5 +1,3 @@
-###DEC-071263-0-000-18-10-1972@@@
-
 DECRETO Nº 71.263 - DE 18 DE OUTUBRO DE 1972.
 
 Declara de utilidade pública, para desapropriação, terrenos situados no Município de Manaus, Estado do Amazonas, necessários ao Ministério da Aeronáutica.

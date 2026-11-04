@@ -1,5 +1,3 @@
-###DEC-006888-0-000-25-06-2009@@@
-
 DECRETO Nº 6.888, DE 25 DE JUNHO DE 2009.
 
 Transfere gratuitamente ao domínio do Estado do Mato Grosso terras inseridas na Gleba Jarinã, registrada em nome do Instituto Nacional de Colonização e Reforma Agrária - INCRA, nos termos do art. 5o do Decreto-Lei no 2.375, de 24 de novembro de 1987, e dá outras providências.

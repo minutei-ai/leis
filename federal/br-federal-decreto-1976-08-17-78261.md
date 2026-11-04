@@ -1,5 +1,3 @@
-###DEC-078261-0-000-17-08-1976@@@
-
 DECRETO Nº 78.261, DE 17 DE AGOSTO DE 1976.
 
 Autoriza o funcionamento do curso de Administração, do Instituto Superior do Alto Uruguai, com sede na cidade de Frederico Westphalen, Estado do Rio Grande do Sul.

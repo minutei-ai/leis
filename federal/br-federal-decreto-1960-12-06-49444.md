@@ -1,5 +1,3 @@
-###DEC-049444-0-000-06-12-1960@@@
-
 DECRETO Nº 49.444, DE 6 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Antidio de Paula Ursini a pesquisar mica no município de Mendes Pimentel, Estado de Minas Gerais.

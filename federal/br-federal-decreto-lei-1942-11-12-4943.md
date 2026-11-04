@@ -1,5 +1,3 @@
-###DEL-004943-0-000-12-11-1942@@@
-
 DECRETO-LEI N. 4.943 – DE 12 DE NOVEMBRO DE 1942
 
 Cria a 5ª Companhia Montada de Transmissões

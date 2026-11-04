@@ -1,7 +1,3 @@
-1
-
-###DEC-098911-0-000-31-01-1990@@@
-
 DECRETO Nº 98.911, DE 31 DE JANEIRO DE 1990
 
 Autoriza o funcionamento do curso de Licenciatura em Geografia da Faculdade de Filosofia, Ciências e Letras, em Caratinga.

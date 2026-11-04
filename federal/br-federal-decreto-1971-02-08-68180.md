@@ -1,5 +1,3 @@
-###DEC-068180-0-000-08-02-1971@@@
-
 DECRETO Nº 68.180, DE 8 DE FEVEREIRO DE 1971.
 
 Redistribui, com o respectivo ocupante para o Ministério da Justiça cargo originário da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal, e dá outras providências.

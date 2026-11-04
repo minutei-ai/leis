@@ -1,5 +1,3 @@
-###DEC-090753-0-000-26-12-1984@@@
-
 Decreto-lei nº 2.198, de 26 de dezembro de 1984
 
 Regulamenta a Concessão da Gratificação de Atividades Específicas de Café, instituída pela Lei nº 7.146, de 23 de novembro de 1983.
@@ -45,8 +43,6 @@ JOÃO FIGUEIREDO
 Murilo Badaró
 
 Delfim Netto
-
-###DEC-090753-0-000-26-12-1984@@@REP01+++
 
 (\*) Decreto nº 90.753, de 26 de dezembro de 1984
 

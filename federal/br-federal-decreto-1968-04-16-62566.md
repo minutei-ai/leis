@@ -1,5 +1,3 @@
-###DEC-062566-0-000-16-04-1968@@@
-
 DECRETO nº 62.566, DE 16 DE ABRIL DE 1968.
 
 Altera disposições do Decreto número 62.202, de 31 de janeiro de 1968.

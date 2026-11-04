@@ -1,5 +1,3 @@
-###DEC-062012-0-000-29-12-1967@@@
-
 DECRETO Nº 62.012, DE 29 DE DEZEMBRO DE 1967.
 
 Declara a cessação da exploração dos serviços de energia elétrica no distrito-sede do município de Sobral, Estado do Ceará, outorga concessão no município de Sobral, Estado do Ceará à Companhia de Eletrificação Centro-Norte do Ceará e dá outras providências.

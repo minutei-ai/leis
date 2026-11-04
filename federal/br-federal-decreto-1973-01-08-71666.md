@@ -1,5 +1,3 @@
-###DEC-071666-0-000-08-01-1973@@@
-
 DECRETO Nº 71.666, DE 8 DE JANEIRO DE 1973.
 
 Altera a estrutura do Instituto Brasileiro do Café e dá outras providências.

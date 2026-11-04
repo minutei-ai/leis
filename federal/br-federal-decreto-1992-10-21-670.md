@@ -1,7 +1,3 @@
-1
-
-###DEC-000670-0-000-21-10-1992@@@
-
 DECRETO N° 670, DE 21 DE OUTUBRO DE 1992
 
 Promulga o Acordo sobre a criação de uma Comissão Mista de Cooperação, entre o Governo da República Federativa do Brasil e o Governo da República da Tunísia, de 27.11 .90.

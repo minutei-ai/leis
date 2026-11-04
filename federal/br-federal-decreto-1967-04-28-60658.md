@@ -1,5 +1,3 @@
-###DEC-060658-0-000-28-04-1967@@@
-
 DECRETO Nº 60.658, DE 28 DE ABRIL DE 1967.
 
 Aprova a alteração introduzida nos Estatutos da Companhia de Seguros Marítimos e Terrestres Lloyd Sul - Americano, relativa ao aumento do capital social.

@@ -1,5 +1,3 @@
-###DEC-000157-0-000-02-07-1991@@@
-
 DECRETO Nº 157, DE 2 DE JULHO DE 1991
 
 Promulga a Convenção Nº 139, da Organização Internacional do Trabalho - OIT, sobre a Prevenção e o Controle de Riscos Profissionais causados pelas Substâncias ou Agentes Cancerígenos.

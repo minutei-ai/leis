@@ -1,5 +1,3 @@
-###DEL-005431-0-000-28-04-1943@@@
-
 DECRETO-LEI N. 5.431 – DE 28 DE ABRIL DE 1943
 
 Dispõe sobre gratificação ao Comandante, do Corpo de Bombeiros do Distrito Federal

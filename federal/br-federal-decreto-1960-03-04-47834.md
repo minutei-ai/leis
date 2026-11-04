@@ -1,5 +1,3 @@
-###DEC-047834-0-000-04-03-1960@@@
-
 DECRETO Nº 47.834, DE 4 DE MARÇO DE 1960.
 
 Dispõe sôbre atribuições da Fundação Brasil Central e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-002087-0-000-04-12-1996@@@
-
 DECRETO Nº 2.087, DE 4 DE DEZEMBRO DE 1996.
 
 Revoga o Decreto nº 1.719, de 28 de novembro de 1995.

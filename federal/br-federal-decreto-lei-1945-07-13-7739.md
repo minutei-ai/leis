@@ -1,5 +1,3 @@
-###DEL-007739-0-000-13-07-1945@@@
-
 DECRETO-LEI N. 7.739 – DE 13 DE JULHO DE 1945
 
 Altera a carreira de Engenheiro de Obras do Quadro Permanente do Ministério da Aeronáutica, e dá outras providências

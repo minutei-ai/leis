@@ -1,5 +1,3 @@
-###MPV-000111-0-000-21-03-2003@@@
-
 MEDIDA PROVISÓRIA Nº 111, DE 21 DE MARÇO 2003.
 
 Cria a Secretaria Especial de Políticas de Promoção da Igualdade Racial, da Presidência da República, e dá outras providências.

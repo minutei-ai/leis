@@ -1,5 +1,3 @@
-###DEC-006282-0-000-03-12-2007@@@
-
 DECRETO Nº 6.282, DE 3 DE DEZEMBRO DE 2007.
 
 Promulga o Tratado entre a República Federativa do Brasil e a República Popular da China sobre Assistência Jurídica Mútua em Matéria Penal, celebrado em Pequim, em 24 de maio de 2004.
@@ -22,11 +20,7 @@ Brasília, 3 de dezembro de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 4.12.2007
-
-TRATADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA
+Celso Luiz Nunes AmorimTRATADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA
 
 POPULAR DA CHINA SOBRE ASSISTÊNCIA JUDICIÁRIA
 

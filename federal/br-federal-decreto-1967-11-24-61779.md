@@ -1,5 +1,3 @@
-###DEC-061779-0-000-24-11-1967@@@
-
 DECRETO Nº 61.779, DE 24 DE NOVEMBRO DE 1967.
 
 Altera o Regulamento do Serviço Social da Indústria - SESI.

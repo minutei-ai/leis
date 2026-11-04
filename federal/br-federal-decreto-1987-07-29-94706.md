@@ -1,5 +1,3 @@
-###DEC-094706-0-000-29-07-1987@@@
-
 # DECRETO Nº 94.706, DE 29 DE JULHO DE 1987.
 
 Declara de interesse social, para fins de desapropriação, parte do condomínio rural denominado "FAZENDA SANTANA", situado no Município de Barra, no Estado da Bahia, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.689, de 19 de maio de 1986, e dá outras providências.

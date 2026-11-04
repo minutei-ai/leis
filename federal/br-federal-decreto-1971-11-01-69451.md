@@ -1,5 +1,3 @@
-###DEC-069451-0-000-01-11-1971@@@
-
 DECRETO Nº 69.451 - DE 1º DE NOVEMBRO DE 1971
 
 Altera disposições do Decreto número 68.806, de 25 de julho de 1971 e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-001889-0-026-26-08-1999@@@
-
 Medida Provisória nº 1.889-26, de 26 de agosto de 1999.
 
 Autoriza a União a receber em valores mobiliários os dividendos e juros sobre o capital próprio a serem pagos por entidades de cujo capital o Tesouro Nacional participe, e dá outras providências.

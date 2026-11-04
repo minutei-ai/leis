@@ -1,5 +1,3 @@
-###DEC-051223-0-000-22-08-1961@@@
-
 DECRETO Nº 51.223, DE 22 DE AGôSTO DE 1961.
 
 Cria no ministério da Educação e Cultura o Serviço Nacional de Bibliotecas.

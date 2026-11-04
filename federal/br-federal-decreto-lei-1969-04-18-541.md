@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/9a1a475c-245e-4af0-8a24-1cc43241825e/texto#nowhere)
 
-###DEL-000541-0-000-18-04-1969@@@
-
 Decreto-lei nº 541, de 18 de Abril de 1969
 
 Cria a Diretoria-Geral de Comunicações e dá outras providências.

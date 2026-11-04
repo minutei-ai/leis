@@ -1,5 +1,3 @@
-###DEC-089688-0-000-22-05-1984@@@
-
 DECRETO Nº 89.688, DE 22 DE MAIO DE 1984
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro, Niterói, Mangaratiba, Cabo Frio e Angra dos Reis, Estado do Rio de Janeiro; Salvador, Estado da Bahia e Recife, Estado de Pernambuco.

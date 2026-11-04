@@ -1,5 +1,3 @@
-###DEC-047885-0-000-08-03-1960@@@
-
 DECRETO Nº 47.885, DE 8 DE MARÇO DE 1960.
 
 Abre, ao Ministério da Fazenda, o crédito especial de Cr$700.000.000,00 para ocorrer a despesas de exercícios encerradas.

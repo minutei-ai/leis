@@ -1,5 +1,3 @@
-###DEC-064604-0-000-29-05-1969@@@
-
 DECRETO Nº 64.604, DE 29 de maio DE 1969.
 
 Altera dispositivos do Regulamento para o Alto Comando do Exército, aprovado pelo Decreto nº 61.082, de 27 de julho de 1967.

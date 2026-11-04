@@ -1,5 +1,3 @@
-###DEC-067266-0-000-24-09-1970@@@
-
 DECRETO Nº 67.266, DE 24 DE SETEMBRO DE 1970.
 
 Declara caduco o Decreto número 15.507, de 10 de maio de 1944.

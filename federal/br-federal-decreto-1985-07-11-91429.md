@@ -1,5 +1,3 @@
-###DEC-091429-0-000-11-07-1985@@@
-
 DECRETO Nº 91.429, DE 11 DE JulHO DE 1985.
 
 Altera a composição do Conselho Nacional de Seguros Privados e dá outras providências.

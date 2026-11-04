@@ -1,5 +1,3 @@
-###DEC-052133-A-000-18-06-1963@@@
-
 DECRETO Nº 52.133-A, de 18 de junho de 1963.
 
 Incorpora recursos ao Banco Nacional de Crédito Cooperativo.

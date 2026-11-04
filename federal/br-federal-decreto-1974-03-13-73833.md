@@ -1,5 +1,3 @@
-###DEC-073833-0-000-13-03-1974@@@
-
 DECRETO Nº 73.833, DE 13 DE MARÇO DE 1974.
 
 Dispõe sobre a transferência para o Instituto Nacional de Previdência Social do encargo dos pagamentos da complementação da pensão especial instituída pela Lei número 3.738, de 4 de abril de 1960 e do salário-família devidos pelo Tesouro Nacional às viúvas e dependentes de funcionários civis, pensionistas daquele Instituto, e dá outras providências.

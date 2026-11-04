@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ca51fb0b-8558-48d4-9159-781da12da116/texto#nowhere)
 
-###DEL-000924-0-000-10-10-1969@@@
-
 Decreto-lei nº 924, de 10 de Outubro de 1969
 
 Exclui das disposições do Decreto-lei nº 494, de 10 de março de 1969, as aquisições de áreas rurais necessárias aos empreendimentos industriais que menciona.

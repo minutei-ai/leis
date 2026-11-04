@@ -1,5 +1,3 @@
-###DEC-004135-0-000-20-02-2002@@@
-
 DECRETO Nº 4.135, DE 20 DE FEVEREIRO DE 2002
 
 Dispõe sobre o processo de liquidação da Empresa Brasileira de Planejamento de Transportes - GEIPOT.
@@ -43,5 +41,3 @@ Pedro Malan
 Alderico Lima
 
 Martus Tavares
-
-<br>

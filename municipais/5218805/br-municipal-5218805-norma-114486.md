@@ -6,7 +6,8 @@ Altera a Lei n. 3.635/98. que institui o Código de Posturas.
 
 Art. 1º O art. 168 do Código de Posturas passará a viger com a seguinte redação:
 
-“Art. 168. Os cemitérios do Município terão caráter secular, sendo livres a todos os cultos religiosos, administrados pela autoridade municipal, podendo os seus serviços ser objeto de concessão, observadas as disposições da Lei Orgânica e legislação federal pertinente à matéria.<br>
+“Art. 168. Os cemitérios do Município terão caráter secular, sendo livres a todos os cultos religiosos, administrados pela autoridade municipal, podendo os seus serviços ser objeto de concessão, observadas as disposições da Lei Orgânica e legislação federal pertinente à matéria.
+
 Parágrafo Único – As associações religiosas e as particulares poderão, na forma da lei, manter cemitérios próprios, fiscalizados, porém, pelo Município”.
 
 Art. 2º Revogadas disposições em contrário, esta Lei entrará em vigor na data de sua publicação. 

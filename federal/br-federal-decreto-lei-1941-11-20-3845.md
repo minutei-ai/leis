@@ -1,5 +1,3 @@
-###DEL-003845-0-000-20-11-1941@@@
-
 DECRETO-LEI N. 3.845 – DE 20 DE NOVEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito suplementar de 2:000$0, à verba que especifica

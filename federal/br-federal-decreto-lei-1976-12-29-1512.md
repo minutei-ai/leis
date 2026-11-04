@@ -1,5 +1,3 @@
-###DEL-001512-0-000-29-12-1976@@@
-
 # DECRETO-LEI Nº 1.512, DE 29 DE DEZEMBRO DE 1976
 
 Altera a legislação do empréstimo compulsório instituído em favor da Centrais Elétricas Brasileiras S.A. ELETROBRÁS e dá outras providências.

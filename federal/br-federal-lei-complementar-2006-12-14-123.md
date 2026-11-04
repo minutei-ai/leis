@@ -28,7 +28,6 @@ sha256_markdown: "9f953d620c07681837da1927d32908e69a5d7ba88bfc31fb5989cdae77791d
 manifesto: "metadados/nucleo-licitacoes.json"
 contrato_versao: 1
 ---
-
 CÂMARA DOS DEPUTADOS
 
 Centro de Documentação e Informação

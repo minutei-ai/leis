@@ -1,5 +1,3 @@
-###DEC-069028-0-000-09-08-1971@@@
-
 decreto nº 69.028, de 9 de AGÔSTO de 1971.
 
 Concede autorização à sociedade seguradora estrangeira para aumentar o capital de suas operações no Brasil.

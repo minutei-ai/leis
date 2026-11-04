@@ -1,5 +1,3 @@
-###DEC-005703-0-000-15-02-2006@@@
-
 DECRETO Nº 5.703, DE 15 DE FEVEREIRO DE 2006.
 
 Dá fé pública aos cartões de identidade funcional expedidos pelos Ministérios e órgãos da Presidência e Vice-Presidência da República, e dá outras providências.

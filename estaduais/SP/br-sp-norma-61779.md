@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=61779)
-
 # LEI Nº 12.301, DE 16 DE MARÇO DE 2006
 
 ## (Projeto de lei nº 1122/2003, do Deputado José Bittencourt - PTB)

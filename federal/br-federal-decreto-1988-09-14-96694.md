@@ -1,5 +1,3 @@
-###DEC-096694-0-000-14-09-1988@@@
-
 DECRETO N° 96.694, DE 14 DE SETEMBRO DE 1988
 
 Promulga o Acordo Básico de Cooperação Científica e Tecnológica entre a República Federativa do Brasil e a República Cooperativista da Guiana.

@@ -1,5 +1,3 @@
-###DEC-054669-0-000-29-10-1964@@@
-
 Decreto nº 54.669, de 29 de outubro de 1964.
 
 Autoriza Teófilo Rodrigues de Souza a comprar pedras preciosas.

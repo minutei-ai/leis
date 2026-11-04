@@ -1,5 +1,3 @@
-###DEC-047019-0-000-14-10-1959@@@
-
 DECRETO Nº 47.019, DE 14 E OUTUBRO DE 1959.
 
 Autoriza o cidadão brasileiro João Bosco de Carvalho, a pesquisar mica, no município de Santa Maria do Suassuí, Estado de Minas Gerais.

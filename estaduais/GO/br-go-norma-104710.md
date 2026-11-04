@@ -34,8 +34,6 @@ II – 18 de dezembro de 2019, quanto aos demais dispositivos.
 
 Goiânia, 22 de dezembro de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

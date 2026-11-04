@@ -1,5 +1,3 @@
-###DEC-088139-0-000-02-03-1983@@@
-
 Decreto nº 88.139, de 02 de março de 1983
 
 Concede à Caraíba Metais S.A. - Indústria e Comércio, autorização para proceder ao aumento do seu capital autorizado.

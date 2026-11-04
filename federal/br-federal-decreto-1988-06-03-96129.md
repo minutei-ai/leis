@@ -1,5 +1,3 @@
-###DEC-096129-0-000-03-06-1988@@@
-
 DECRETO Nº 96.129, DE 03 DE JUNHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “DATA TABOLEIRÃO”, classificado como “latifúndio por exploração”, situado no Município de João Lisboa, no Estado do Maranhão, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.619, de 02 de maio de 1986, e dá outras providências.

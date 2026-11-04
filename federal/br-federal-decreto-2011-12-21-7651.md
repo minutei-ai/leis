@@ -1,5 +1,3 @@
-###DEC-007651-0-000-21-12-2011-PUB-01@@@
-
 DECRETO N° 7.651, DE 21 DE DEZEMBRO DE 2011
 
 Regulamenta os critérios e procedimentos gerais a serem observados para a progressão funcional e a promoção dos servidores das Carreiras do Fundo Nacional de Desenvolvimento da Educação e das Carreiras do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira, de que  trata a Lei n° 11.357, de 19 de outubro de 2006.

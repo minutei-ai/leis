@@ -1,5 +1,3 @@
-###DEC-054275-0-000-10-09-1964@@@
-
 Decreto nº 54.275, de 10 de setembro de 1964.
 
 Concede reconhecimento a cursos do Conservatório Musical Santa Marcelina, de Botucatu, Estado de São Paulo.

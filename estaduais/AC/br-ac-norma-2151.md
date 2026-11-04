@@ -1,6 +1,10 @@
 > **LEI Nº 3.394, DE 16 DE JULHO DE 2018**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Dia Estadual do Auditor de Controle Externo do Tribunal de Contas do Acre – TCE/AC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Dia Estadual do Auditor de Controle Externo do Tribunal de Contas do Acre – TCE/AC.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

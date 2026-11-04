@@ -1,5 +1,3 @@
-###DEC-066082-0-000-16-01-1970@@@
-
 DECRETO Nº 66.082 - DE 16 DE JANEIRO DE 1970
 
 Retifica, na Parte Especial do Quadro de Pessoal do Ministério da Marinha, enquadramento do pessoal beneficiado pelo artigo 2º da Lei nº 3.967, de 5 outubro de 1961.

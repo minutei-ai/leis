@@ -1,5 +1,3 @@
-###DEC-002956-0-000-03-02-1999@@@
-
 DECRETO Nº 2.956, DE 3 DE FEVEREIRO DE 1999.
 
 Aprova o V Plano Setorial para os Recursos do Mar (V PSRM).

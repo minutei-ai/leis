@@ -1,5 +1,3 @@
-###DEC-047749-0-000-03-02-1960@@@
-
 decreto nº 47.749, de 3 de Fevereiro de 1960.
 
 Autoriza Garcia, Oliveira & Cia. Ltda. a comprar pedras preciosas.

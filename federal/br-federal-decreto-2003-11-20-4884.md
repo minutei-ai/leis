@@ -1,5 +1,3 @@
-###DEC-004884-0-000-20-11-2003@@@
-
 DECRETO Nº 4.884, DE 20 DE NOVEMBRO DE 2003
 
 Altera os arts. 1º e 4 o do Decreto nº 4.723, de 6 de junho de 2003, e os arts. 8º e 15 do Decreto nº 4.705, de 23 de maio de 2003, que aprovam, respectivamente, a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério do Desenvolvimento Agrário e do Instituto Nacional de Colonização e Reforma Agrária - INCRA.

@@ -1,5 +1,3 @@
-###DEC-081586-0-000-19-04-1978@@@
-
 Decreto nº 81.586, de 19 de abril de 1978.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

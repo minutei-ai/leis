@@ -1,5 +1,3 @@
-###DEC-068567-0-000-29-04-1971@@@
-
 Decreto nº 68.567 - de 29 de abril de 1971.
 
 Autoriza o funcionamento da Universidade do Acre.

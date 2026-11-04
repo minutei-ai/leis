@@ -1,5 +1,3 @@
-###DEC-073241-0-000-03-12-1973@@@
-
 DECRETO Nº 73.241 - de 3 de Dezembro de 1973
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada á passagem de linha de transmissão, no Estado do Rio Grande do Norte.

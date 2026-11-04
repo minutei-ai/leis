@@ -1,5 +1,3 @@
-###DEC-068477-0-000-06-04-1971@@@
-
 DECRETO Nº 68.477, de 6 de abril de 1971.
 
 Declara sem efeito o Decreto número 51.950, de 26 de abril de 1963.

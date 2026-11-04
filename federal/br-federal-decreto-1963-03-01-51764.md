@@ -1,5 +1,3 @@
-###DEC-051764-0-000-01-03-1963@@@
-
 Decreto nº 51.764-A, de 01 de MARÇO de 1963.
 
 Concede reconhecimento ao Curso que indica.

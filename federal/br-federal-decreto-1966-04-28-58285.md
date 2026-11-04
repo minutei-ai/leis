@@ -1,5 +1,3 @@
-###DEC-058285-0-000-28-04-1966@@@
-
 DECRETO Nº 58.285, DE 28 DE ABRIL DE 1966.
 
 Transfere do Estado do Pará para as Centrais Elétricas do Pará S. A. concessão para aproveitamento de energia hidráulica.

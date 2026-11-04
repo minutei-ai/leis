@@ -1,5 +1,3 @@
-###DEC-094244-0-000-22-04-1987@@@
-
 DECRETO Nº 94.244, DE 22 DE ABRIL DE 1987
 
 Declara perempta a concessão outorgada à RÁDIO JACAREZINHO S.A., para executar serviço de radiodifusão sonora em onda média, na cidade de Jacarezinho, Estado do Paraná.

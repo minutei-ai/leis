@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ab8aefb4-0a03-4639-add7-8d3d98edcdf8/texto#nowhere)
 
-###DEL-001171-0-000-02-06-1971@@@
-
 # DECRETO-LEI Nº 1.171, DE 2 DE JUNHO DE 1971
 
 Estende estímulos fiscais aos casos que especifica, e dá outras providências.

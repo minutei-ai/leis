@@ -1,5 +1,3 @@
-###DEC-081251-0-000-24-01-1978@@@
-
 Decreto nº 81 251, de 24 de janeiro de 1978.
 
 Declara a caducidade da concessão de lavra que menciona.

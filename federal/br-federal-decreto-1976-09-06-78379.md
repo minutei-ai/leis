@@ -1,5 +1,3 @@
-###DEC-078379-0-000-06-09-1976@@@
-
 DECRETO Nº 78.379, DE 6 DE SETEMBRO DE 1976.
 
 Regulamenta dispositivos do Decreto-lei nº 1.439, de 30 de dezembro de 1975, que dispõe sobre a concessão de estímulos à atividade turística nacional.

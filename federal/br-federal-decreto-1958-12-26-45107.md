@@ -1,5 +1,3 @@
-###DEC-045107-0-000-26-12-1958@@@
-
 decreto nº 45.107, de 26 de dezembro de 1958.
 
 Autoriza a cessão gratuita do terreno que menciona, situado no Distrito Federal.

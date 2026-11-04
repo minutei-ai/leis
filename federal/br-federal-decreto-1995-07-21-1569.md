@@ -1,7 +1,3 @@
-1
-
-###DEC-001569-0-000-21-07-1995@@@
-
 DECRETO Nº 1.569, DE 21 DE JULHO DE 1995.
 
 Altera a redação do art. 1º do Decreto nº 408, de 27 de dezembro de 1991, que regulamenta o art. 3º da Lei nº 8.242, de 12 de outubro de 1991, que cria o Conselho Nacional dos Direitos da Criança e do Adolescente (CONANDA).

@@ -1,5 +1,3 @@
-###DEC-055433-0-000-31-12-1964@@@
-
 DECRETO Nº 55.433, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Umbelino Joaquim de Santana a pesquisar minério de cromo no município de Queimados, Estado da Bahia.

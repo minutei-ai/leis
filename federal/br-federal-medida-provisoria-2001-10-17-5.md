@@ -1,5 +1,3 @@
-###MPV-000005-0-000-17-10-2001@@@
-
 MEDIDA PROVISÓRIA Nº 5, DE 17 DE OUTUBRO DE 2001
 
 Institui feriados civis nos Estados que especifica e dá outras providências.

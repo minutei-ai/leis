@@ -1,5 +1,3 @@
-###DEC-045499-0-000-26-02-1959@@@
-
 decreto nº 45.499, de 26 de fevereiro de 1959.
 
 Renova o Decreto nº 40.195, de 30 de outubro de 1956.

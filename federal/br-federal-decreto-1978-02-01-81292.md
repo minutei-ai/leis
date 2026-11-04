@@ -1,5 +1,3 @@
-###DEC-081292-0-000-01-02-1978@@@
-
 Decreto nº 81.292, de 01 de fevereiro de 1978.
 
 Revoga o Decreto nº 70.384, de 10 de abril de 1972, que autorizou o funcionamento da Faculdade de Educação de Santa Rita do Passa Quatro no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-051941-B-000-26-04-1963@@@
-
 Decreto nº 51.941-B, de 26 de abril de 1963.
 
 Concede à sociedade Navegação Maria de Belém Ltda, autorização para funcionar como emprêsa de navegação de cabotagem.

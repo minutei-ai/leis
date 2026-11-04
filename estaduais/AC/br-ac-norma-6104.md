@@ -1,6 +1,10 @@
 > **LEI Nº 4.373, DE 11 DE JULHO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a contratação de operação de crédito externo com o Banco Interamericano de Desenvolvimento - BID, com garantia da União, visando ao financiamento do Programa Acre Mais Produtivo - PROAMP.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a contratação de operação de crédito externo com o Banco Interamericano de Desenvolvimento - BID, com garantia da União, visando ao financiamento do Programa Acre Mais Produtivo - PROAMP.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

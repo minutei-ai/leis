@@ -1,5 +1,3 @@
-###DEC-096673-0-000-12-09-1988@@@
-
 DECRETO N° 96.673, DE 12 DE SETEMBRO DE 1988
 
 Autoriza o Ministro da Fazenda a contratar operação externa nas condições que especifica e dá outras providências.

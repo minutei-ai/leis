@@ -1,5 +1,3 @@
-###DEC-060196-0-000-09-02-1967@@@
-
 DECRETO Nº 60.196, DE 9 DE FEVEREIRO DE 1967.
 
 Dispõe sôbre enquadramento de servidor no Quadro de Pessoal, Parte Especial, do Ministério das Relações Exteriores, e dá outras providências.

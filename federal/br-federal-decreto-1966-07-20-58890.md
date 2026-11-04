@@ -1,5 +1,3 @@
-###DEC-058890-0-000-20-07-1966@@@
-
 DECRETO Nº 58.890, DE 20 DE JULHO DE 1966.
 
 Renova o Decreto nº 53.805, de 23 de março de 1964.

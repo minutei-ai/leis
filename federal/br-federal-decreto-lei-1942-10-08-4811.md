@@ -1,5 +1,3 @@
-###DEL-004811-0-000-08-10-1942@@@
-
 DECRETO-LEI N. 4.811 – DE 8 DE OUTUBRO DE 1942
 
 Abre ao Ministério da Guerra o crédito especial de 4.000:000$0, para execução de obras a cargo da 7ª Região Militar

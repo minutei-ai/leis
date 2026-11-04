@@ -1,5 +1,3 @@
-###DEC-000046-0-000-01-03-1991@@@
-
 DECRETO Nº 46, DE 1º DE MARÇO DE 1991
 
 Promulga o Acordo de Cooperação Científica, Técnica e Tecnológica entre o Governo da República Federativa do Brasil e o Governo da República de Cuba.

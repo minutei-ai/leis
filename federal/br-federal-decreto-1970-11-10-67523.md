@@ -1,5 +1,3 @@
-###DEC-067523-0-000-10-11-1970@@@
-
 decreto nº 67.523, de 10 de novembro de 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério das Relações Exteriores, cargos originários da extinta autarquia - Serviço de Navegação da Amazônia e Administração do Porto do Pará e extinta Estrada de Ferro de Bragança (Quadro Extinto - Parte XIV - do Ministério dos Transportes) e dá outras providências.

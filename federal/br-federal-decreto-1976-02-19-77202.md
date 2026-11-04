@@ -1,5 +1,3 @@
-###DEC-077202-0-000-19-02-1976@@@
-
 decreto nº 77.202, de 19 de fevereiro de 1976.
 
 Autoriza o funcionamento do curso de Formação de Professores para as Disciplinas Profissionalizantes no Ensino de 2º Grau, Esquemas I e II, correspondentes à Área Econômica Terciária, da Faculdade de Filosofia, Ciências e Letras de Jales, com sede na Cidade de Jales, Estado de São Paulo.

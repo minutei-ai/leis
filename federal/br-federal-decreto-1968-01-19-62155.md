@@ -1,5 +1,3 @@
-###DEC-062155-0-000-19-01-1968@@@
-
 DECRETO Nº 62.155, DE 19 DE JANEIRO DE 1968.
 
 Declara caduco o Decreto nº 9.453, de 22 de maio de 1942.

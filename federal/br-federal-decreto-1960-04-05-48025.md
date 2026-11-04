@@ -1,5 +1,3 @@
-###DEC-048025-0-000-05-04-1960@@@
-
 DECRETO Nº 48.025, DE 5 DE ABRIL DE 1960.
 
 Concede à Mineração Morro Branco Ltda. autorização para funcionar como emprêsa de mineração.

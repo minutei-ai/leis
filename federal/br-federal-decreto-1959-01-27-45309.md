@@ -1,5 +1,3 @@
-###DEC-045309-0-000-27-01-1959@@@
-
 DECRETO Nº 45.309, DE 27 DE JANEIRO DE 1959.
 
 Autoriza o cidadão brasileiro Her Wardi Strelow a pesquisar água mineral no município de Pato Branco, Estado do Paraná.

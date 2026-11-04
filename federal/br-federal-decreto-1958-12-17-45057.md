@@ -1,5 +1,3 @@
-###DEC-045057-0-000-17-12-1958@@@
-
 DECRETO Nº 45.057, DE 17 DE DEZEMBRO DE 1958.
 
 Dá nova redação ao art. 2º do Regimento dos órgãos da Presidência da República, aprovado pelo Decreto nº 23.822, de 10 de outubro de 1947, modificado pelo Decreto nº 36.225, de 24 de setembro de 1954.

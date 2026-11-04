@@ -1,5 +1,3 @@
-###DEC-061998-0-000-28-12-1967@@@
-
 DECRETO Nº 61.998, DE 28 DE DEZEMBRO DE 1967.
 
 Dispõe sôbre a dispensa de ponto de servidores públicos federais, para comparecimento a congressos ou reuniões similares, no País ou exterior, e dá outras providências.

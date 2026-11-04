@@ -1,5 +1,3 @@
-###DEC-007217-0-000-21-06-2010@@@
-
 DECRETO Nº 7.217, DE 21 DE JUNHO DE 2010.
 
 Regulamenta a Lei no 11.445, de 5 de janeiro de 2007, que estabelece diretrizes nacionais para o saneamento básico, e dá outras providências.

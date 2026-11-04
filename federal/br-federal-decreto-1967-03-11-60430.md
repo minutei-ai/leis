@@ -1,5 +1,3 @@
-###DEC-060430-0-000-11-03-1967@@@
-
 DECRETO Nº 60.430, DE 11 DE MARÇO DE 1967.
 
 Regulamentada a Lei nº 5.070, de 7 de julho de 1966, que cria o Fundo de Fiscalização das Telecomunicações.

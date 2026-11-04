@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/324d7dcb-0f49-4ba1-947e-f08a9499bb19/texto#nowhere)
 
-###DEL-000493-0-000-10-03-1969@@@
-
 DECRETO-LEI Nº 493, DE 10 DE MARÇO DE 1969
 
 Autoriza a elevação do capital do Banco da Amazônia S.A. e do Banco do Nordeste do Brasil S.A. e dá outras providências.

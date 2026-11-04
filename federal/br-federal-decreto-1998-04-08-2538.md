@@ -1,5 +1,3 @@
-###DEC-002538-0-000-08-04-1998@@@
-
 DECRETO Nº 2.538, DE 8 DE ABRIL DE 1998
 
 Dispõe sobre os meios aéreos da Marinha e dá outras providências.

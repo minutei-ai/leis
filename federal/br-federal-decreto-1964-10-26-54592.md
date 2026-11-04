@@ -1,5 +1,3 @@
-###DEC-054592-0-000-26-10-1964@@@
-
 DECRETO Nº 54.592, DE 26 DE OUTUBRO DE 1964.
 
 Extingue a Comissão Especial da Adutora do Rio das Velhas (C.E.A.R.V.), criada pelo Decreto nº 1.148, de 6 de junho de 1962 e dá outras providências.

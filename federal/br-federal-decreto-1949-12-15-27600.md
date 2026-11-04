@@ -1,26 +1,24 @@
-###DEC-027600-0-000-15-12-1949@@@
+**DECRETO Nº 27.600, DE 15 DE DEZEMBRO DE 1949.**
 
-<strong>DECRETO Nº 27.600, DE 15 DE DEZEMBRO DE 1949.</strong>
+***Aprova as especificações e tabelas para a classificação e fiscalização da exportação da banana anã ou nanica.***
 
-<em><strong>Aprova as especificações e tabelas para a classificação e fiscalização da exportação da banana anã ou nanica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam aprovadas as especificações e tabelas para a classificação e fiscalização da exportação da banana anã ou nanica, visando a sua padronização, assinadas pelo Ministro de Estado dos Negócios da Agricultura.
 
-<strong>Art</strong>. 1º Ficam aprovadas as especificações e tabelas para a classificação e fiscalização da exportação da banana anã ou nanica, visando a sua padronização, assinadas pelo Ministro de Estado dos Negócios da Agricultura.
+**Art**. 2º Fica autorizado o Ministro de Estado dos Negócios da Agricultura a baixar portaria regulamentando a colheita, a classificação e a fiscalização da exportação da banana anã.
 
-<strong>Art</strong>. 2º Fica autorizado o Ministro de Estado dos Negócios da Agricultura a baixar portaria regulamentando a colheita, a classificação e a fiscalização da exportação da banana anã.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 15 de dezembro de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho
 
-<strong>ESPECIFICAÇÕES E TABELAS PARA A CLASSIFICAÇÃO E FISCALIZAÇÃO DA EXPORTAÇÃO DA BANANA ANÃ OU NANICA</strong>
+**ESPECIFICAÇÕES E TABELAS PARA A CLASSIFICAÇÃO E FISCALIZAÇÃO DA EXPORTAÇÃO DA BANANA ANÃ OU NANICA**
 
 I - A banana anã ou nanica (Musa Cavendishii, Lamb.) será classificada de acôrdo com os padrões oficiais que ora se estabelecem, baseados êstes nos caracteres inerentes à espécie, no aspecto geral, na integridade, pêso, tamanho dos cachos, número de pencas, grau de maturação e estado sanitário.
 
@@ -60,4 +58,4 @@ d) arbitragem (por cacho, caixa ou engradado) - Cr$0,20.
 
 Rio de Janeiro, 15 de dezembro de 1949.
 
-<strong>DANIEL DE CARVALHO</strong>
+**DANIEL DE CARVALHO**

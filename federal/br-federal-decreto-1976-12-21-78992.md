@@ -1,5 +1,3 @@
-###DEC-078992-0-000-21-12-1976@@@
-
 DECRETO Nº 78.992, DE 21 DE DEZEMBRO DE 1976.
 
 Regulamenta a Lei nº 6.368, de 21 de outubro de 1976, que dispõe sobre medidas de prevenção e repressão do tráfico ilícito e uso indevido de substâncias entorpecentes ou que determinem dependência física ou psíquica.

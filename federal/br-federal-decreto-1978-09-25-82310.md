@@ -1,5 +1,3 @@
-###DEC-082310-0-000-25-09-1978@@@
-
 Decreto nº 82.310, de 25 de setembro de 1978.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra e benfeitorias necessárias à implantação da subestação de São Roque do Paraguaçu, da Companhia de Eletricidade da Bahia - COELBA, no Estado da Bahia.

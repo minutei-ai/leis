@@ -1,5 +1,3 @@
-###DEC-055588-0-000-18-01-1965@@@
-
 decreto nº 55.588, de 18 de janeiro de 1965.
 
 Institui o “Dia de Anchieta”

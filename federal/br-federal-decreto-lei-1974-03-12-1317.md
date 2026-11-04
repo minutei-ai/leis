@@ -1,5 +1,3 @@
-###DEL-001317-0-000-12-03-1974@@@
-
 # DECRETO-LEI Nº 1.317, DE 12 DE MARÇO DE 1974
 
 Autoriza o Ministro da Fazenda a conceder remissão de crédito tributário.

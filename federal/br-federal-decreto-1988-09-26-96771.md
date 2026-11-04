@@ -1,5 +1,3 @@
-###DEC-096771-0-000-26-09-1988@@@
-
 DECRETO N° 96.771, DE 26 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO DIFUSORA DE IRECÊ LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Irecê, Estado da Bahia.

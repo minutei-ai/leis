@@ -1,5 +1,3 @@
-###DEC-054228-0-000-01-09-1964@@@
-
 DECRETO Nº 54.228, DE 1º DE SETEMBRO DE 1964.
 
 Dispõe sôbre a ação do Conselho Nacional de Política Salarial na aplicação do Decreto nº 54.018, de 14 de julho de 1964.

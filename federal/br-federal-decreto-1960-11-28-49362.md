@@ -1,5 +1,3 @@
-###DEC-049362-0-000-28-11-1960@@@
-
 DECRETO Nº 49.362, DE 28 DE NOVEMBRO DE 1960.
 
 Suprime cargo extinto.

@@ -1,5 +1,3 @@
-###DEC-007246-0-000-28-07-2010@@@
-
 DECRETO Nº 7.246, DE 28 DE JULHO DE 2010.
 
 Regulamenta a Lei no 12.111, de 9 de dezembro de 2009, que dispõe sobre o serviço de energia elétrica dos Sistemas Isolados, as instalações de transmissão de interligações internacionais no Sistema Interligado Nacional - SIN, e dá outras providências.

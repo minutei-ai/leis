@@ -48,99 +48,7 @@ FRANCISCO TADEU BARBOSA DE ALENCAR
 
 **ANEXO I**
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="775" style="width:581.4pt;margin-left:-75.85pt;border:outset black 1.0pt"><tbody><tr style="height:15.75pt"><td colspan="7" style="border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:15.75pt"><p class="MsoNormal">VALORES NOMINAIS DO SOLDO E DAS GRATIFICAÇÕES QUE INDICA, POR POSTO / GRADUAÇÃO DOS MILITARES DO ESTADO (VÁLIDOS A PARTIR DE 01 DE JUNHO DE 2010)</p></td></tr><tr style="height:36.0pt"><td width="13%" style="width:13.82%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:36.0pt"><p class="MsoNormal">POSTO / GRADUAÇÃO</p></td><td width="7%" style="width:7.74%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:36.0pt"><p class="MsoNormal">SOLDO R$</p></td><td width="16%" style="width:16.0%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:36.0pt"><p class="MsoNormal">GRAT. DE POLICIAMENTO OSTENSIVO</p><p class="MsoNormal">R$</p></td><td width="13%" style="width:13.02%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:36.0pt"><p class="MsoNormal">GRAT. DE ATIVIDADES DE DEFESA CIVIL</p><p class="MsoNormal">R$</p></td><td width="15%" style="width:15.08%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:36.0pt"><p class="MsoNormal">GRAT. DE APOIO OPERACIONAL R$</p></td><td width="18%" style="width:18.4%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:36.0pt"><p class="MsoNormal">GRAT. DE APOIO ADMINISTRATIVO R$</p></td><td width="14%" style="width:14.98%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:36.0pt"><p class="MsoNormal">GRAT. ASSISTENCIAL E DE SAÚDE R$</p></td></tr><tr style="height:6.75pt"><td width="13%" style="width:13.82%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:6.75pt"><p class="MsoNormal">CORONEL</p></td><td width="7%" style="width:7.74%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:6.75pt"><p class="MsoNormal">6.090,25</p></td><td width="16%" valign="bottom" style="width:16.0%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">3.000,00</p></td><td width="13%" valign="bottom" style="width:13.02%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">3.000,00</p></td><td width="15%" valign="bottom" style="width:15.08%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">2.811,88</p></td><td width="18%" valign="bottom" style="width:18.4%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">2.527,08</p></td><td width="14%" valign="bottom" style="width:14.98%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">2.519,78</p></td></tr><tr style="height:6.75pt"><td width="13%" style="width:13.82%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:6.75pt"><p class="MsoNormal">TENENTE - CORONEL</p></td><td width="7%" style="width:7.74%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:6.75pt"><p class="MsoNormal">5.636,91</p></td><td width="16%" valign="bottom" style="width:16.0%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">2.500,00</p></td><td width="13%" valign="bottom" style="width:13.02%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">2.500,00</p></td><td width="15%" valign="bottom" style="width:15.08%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">2.343,24</p></td><td width="18%" valign="bottom" style="width:18.4%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">2.105,90</p></td><td width="14%" valign="bottom" style="width:14.98%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">2.099,81</p></td></tr><tr style="height:6.75pt"><td width="13%" style="width:13.82%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:6.75pt"><p class="MsoNormal">MAJOR</p></td><td width="7%" style="width:7.74%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:6.75pt"><p class="MsoNormal">4.975,15</p></td><td width="16%" valign="bottom" style="width:16.0%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">2.150,00</p></td><td width="13%" valign="bottom" style="width:13.02%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">2.150,00</p></td><td width="15%" valign="bottom" style="width:15.08%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">2.015,18</p></td><td width="18%" valign="bottom" style="width:18.4%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">1.811,08</p></td><td width="14%" valign="bottom" style="width:14.98%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">1.805,84</p></td></tr><tr style="height:6.75pt"><td width="13%" style="width:13.82%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:6.75pt"><p class="MsoNormal">CAPITÃO</p></td><td width="7%" style="width:7.74%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:6.75pt"><p class="MsoNormal">4.234,89</p></td><td width="16%" valign="bottom" style="width:16.0%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">1.800,00</p></td><td width="13%" valign="bottom" style="width:13.02%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">1.800,00</p></td><td width="15%" valign="bottom" style="width:15.08%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">1.687,13</p></td><td width="18%" valign="bottom" style="width:18.4%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">1.516,25</p></td><td width="14%" valign="bottom" style="width:14.98%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">1.511,87</p></td></tr><tr style="height:6.75pt"><td width="13%" style="width:13.82%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:6.75pt"><p class="MsoNormal">1º TENENTE</p></td><td width="7%" style="width:7.74%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:6.75pt"><p class="MsoNormal">3.491,57</p></td><td width="16%" valign="bottom" style="width:16.0%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">850,00</p></td><td width="13%" valign="bottom" style="width:13.02%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">850,00</p></td><td width="15%" valign="bottom" style="width:15.08%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">796,70</p></td><td width="18%" valign="bottom" style="width:18.4%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">716,01</p></td><td width="14%" valign="bottom" style="width:14.98%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">713,94</p></td></tr><tr style="height:6.75pt"><td width="13%" style="width:13.82%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:6.75pt"><p class="MsoNormal">2º TENENTE</p></td><td width="7%" style="width:7.74%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:6.75pt"><p class="MsoNormal">3.171,44</p></td><td width="16%" valign="bottom" style="width:16.0%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">700,00</p></td><td width="13%" valign="bottom" style="width:13.02%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">700,00</p></td><td width="15%" valign="bottom" style="width:15.08%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">656,11</p></td><td width="18%" valign="bottom" style="width:18.4%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">589,65</p></td><td width="14%" valign="bottom" style="width:14.98%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">587,95</p></td></tr><tr style="height:6.75pt"><td width="13%" style="width:13.82%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:6.75pt"><p class="MsoNormal">SUBTENENTE</p></td><td width="7%" style="width:7.74%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:6.75pt"><p class="MsoNormal">2.686,54</p></td><td width="16%" valign="bottom" style="width:16.0%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">600,00</p></td><td width="13%" valign="bottom" style="width:13.02%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">600,00</p></td><td width="15%" valign="bottom" style="width:15.08%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">562,38</p></td><td width="18%" valign="bottom" style="width:18.4%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">505,42</p></td><td width="14%" valign="bottom" style="width:14.98%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">503,96</p></td></tr><tr style="height:6.75pt"><td width="13%" style="width:13.82%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:6.75pt"><p class="MsoNormal">1º SARGENTO</p></td><td width="7%" style="width:7.74%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:6.75pt"><p class="MsoNormal">2.461,00</p></td><td width="16%" valign="bottom" style="width:16.0%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">550,00</p></td><td width="13%" valign="bottom" style="width:13.02%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">550,00</p></td><td width="15%" valign="bottom" style="width:15.08%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">515,51</p></td><td width="18%" valign="bottom" style="width:18.4%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">463,30</p></td><td width="14%" valign="bottom" style="width:14.98%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">461,96</p></td></tr><tr style="height:6.75pt"><td width="13%" style="width:13.82%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:6.75pt"><p class="MsoNormal">2º SARGENTO</p></td><td width="7%" style="width:7.74%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:6.75pt"><p class="MsoNormal">2.191,31</p></td><td width="16%" valign="bottom" style="width:16.0%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">550,00</p></td><td width="13%" valign="bottom" style="width:13.02%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">550,00</p></td><td width="15%" valign="bottom" style="width:15.08%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">515,51</p></td><td width="18%" valign="bottom" style="width:18.4%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">463,30</p></td><td width="14%" valign="bottom" style="width:14.98%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">461,96</p></td></tr><tr style="height:6.75pt"><td width="13%" style="width:13.82%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:6.75pt"><p class="MsoNormal">3º SARGENTO</p></td><td width="7%" style="width:7.74%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:6.75pt"><p class="MsoNormal">2.077,25</p></td><td width="16%" valign="bottom" style="width:16.0%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">550,00</p></td><td width="13%" valign="bottom" style="width:13.02%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">550,00</p></td><td width="15%" valign="bottom" style="width:15.08%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">515,51</p></td><td width="18%" valign="bottom" style="width:18.4%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">463,30</p></td><td width="14%" valign="bottom" style="width:14.98%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">461,96</p></td></tr><tr style="height:6.75pt"><td width="13%" style="width:13.82%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:6.75pt"><p class="MsoNormal">CABO</p></td><td width="7%" style="width:7.74%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:6.75pt"><p class="MsoNormal">1.355,85</p></td><td width="16%" valign="bottom" style="width:16.0%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">550,00</p></td><td width="13%" valign="bottom" style="width:13.02%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">550,00</p></td><td width="15%" valign="bottom" style="width:15.08%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">515,51</p></td><td width="18%" valign="bottom" style="width:18.4%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">463,30</p></td><td width="14%" valign="bottom" style="width:14.98%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:6.75pt"><p class="MsoNormal">461,96</p></td></tr><tr style="height:2.25pt"><td width="13%" style="width:13.82%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:2.25pt"><p class="MsoNormal">SOLDADO</p></td><td width="7%" style="width:7.74%;border:inset black 1.0pt;padding:.75pt .75pt .75pt .75pt;
-  height:2.25pt"><p class="MsoNormal">1.331,30</p></td><td width="16%" valign="bottom" style="width:16.0%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:2.25pt"><p class="MsoNormal">550,00</p></td><td width="13%" valign="bottom" style="width:13.02%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:2.25pt"><p class="MsoNormal">550,00</p></td><td width="15%" valign="bottom" style="width:15.08%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:2.25pt"><p class="MsoNormal">515,51</p></td><td width="18%" valign="bottom" style="width:18.4%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:2.25pt"><p class="MsoNormal">463,30</p></td><td width="14%" valign="bottom" style="width:14.98%;border:inset black 1.0pt;
-  padding:.75pt .75pt .75pt .75pt;height:2.25pt"><p class="MsoNormal">461,96</p></td></tr></tbody></table>
+<table cellspacing="1" cellpadding="0"><tbody><tr><td colspan="7"> VALORES NOMINAIS DO SOLDO E DAS GRATIFICAÇÕES QUE INDICA, POR POSTO / GRADUAÇÃO DOS MILITARES DO ESTADO (VÁLIDOS A PARTIR DE 01 DE JUNHO DE 2010) </td></tr><tr><td> POSTO / GRADUAÇÃO </td><td> SOLDO R$ </td><td> GRAT. DE POLICIAMENTO OSTENSIVO R$ </td><td> GRAT. DE ATIVIDADES DE DEFESA CIVIL R$ </td><td> GRAT. DE APOIO OPERACIONAL R$ </td><td> GRAT. DE APOIO ADMINISTRATIVO R$ </td><td> GRAT. ASSISTENCIAL E DE SAÚDE R$ </td></tr><tr><td> CORONEL </td><td> 6.090,25 </td><td valign="bottom"> 3.000,00 </td><td valign="bottom"> 3.000,00 </td><td valign="bottom"> 2.811,88 </td><td valign="bottom"> 2.527,08 </td><td valign="bottom"> 2.519,78 </td></tr><tr><td> TENENTE - CORONEL </td><td> 5.636,91 </td><td valign="bottom"> 2.500,00 </td><td valign="bottom"> 2.500,00 </td><td valign="bottom"> 2.343,24 </td><td valign="bottom"> 2.105,90 </td><td valign="bottom"> 2.099,81 </td></tr><tr><td> MAJOR </td><td> 4.975,15 </td><td valign="bottom"> 2.150,00 </td><td valign="bottom"> 2.150,00 </td><td valign="bottom"> 2.015,18 </td><td valign="bottom"> 1.811,08 </td><td valign="bottom"> 1.805,84 </td></tr><tr><td> CAPITÃO </td><td> 4.234,89 </td><td valign="bottom"> 1.800,00 </td><td valign="bottom"> 1.800,00 </td><td valign="bottom"> 1.687,13 </td><td valign="bottom"> 1.516,25 </td><td valign="bottom"> 1.511,87 </td></tr><tr><td> 1º TENENTE </td><td> 3.491,57 </td><td valign="bottom"> 850,00 </td><td valign="bottom"> 850,00 </td><td valign="bottom"> 796,70 </td><td valign="bottom"> 716,01 </td><td valign="bottom"> 713,94 </td></tr><tr><td> 2º TENENTE </td><td> 3.171,44 </td><td valign="bottom"> 700,00 </td><td valign="bottom"> 700,00 </td><td valign="bottom"> 656,11 </td><td valign="bottom"> 589,65 </td><td valign="bottom"> 587,95 </td></tr><tr><td> SUBTENENTE </td><td> 2.686,54 </td><td valign="bottom"> 600,00 </td><td valign="bottom"> 600,00 </td><td valign="bottom"> 562,38 </td><td valign="bottom"> 505,42 </td><td valign="bottom"> 503,96 </td></tr><tr><td> 1º SARGENTO </td><td> 2.461,00 </td><td valign="bottom"> 550,00 </td><td valign="bottom"> 550,00 </td><td valign="bottom"> 515,51 </td><td valign="bottom"> 463,30 </td><td valign="bottom"> 461,96 </td></tr><tr><td> 2º SARGENTO </td><td> 2.191,31 </td><td valign="bottom"> 550,00 </td><td valign="bottom"> 550,00 </td><td valign="bottom"> 515,51 </td><td valign="bottom"> 463,30 </td><td valign="bottom"> 461,96 </td></tr><tr><td> 3º SARGENTO </td><td> 2.077,25 </td><td valign="bottom"> 550,00 </td><td valign="bottom"> 550,00 </td><td valign="bottom"> 515,51 </td><td valign="bottom"> 463,30 </td><td valign="bottom"> 461,96 </td></tr><tr><td> CABO </td><td> 1.355,85 </td><td valign="bottom"> 550,00 </td><td valign="bottom"> 550,00 </td><td valign="bottom"> 515,51 </td><td valign="bottom"> 463,30 </td><td valign="bottom"> 461,96 </td></tr><tr><td> SOLDADO </td><td> 1.331,30 </td><td valign="bottom"> 550,00 </td><td valign="bottom"> 550,00 </td><td valign="bottom"> 515,51 </td><td valign="bottom"> 463,30 </td><td valign="bottom"> 461,96 </td></tr></tbody></table>
 
 **ANEXO II**
 
@@ -148,13 +56,50 @@ FRANCISCO TADEU BARBOSA DE ALENCAR
 
 **GRATIFICAÇÃO POR ENCARGO POLICIAL CIVIL – GEPC**
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="479" style="width:359.25pt;margin-left:35.05pt;border:outset black 1.0pt"><tbody><tr><td width="57%" valign="top" style="width:57.18%;border:inset black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal">DENOMINAÇÃO</p></td><td width="14%" valign="top" style="width:14.62%;border:inset black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal">SÍMBOLO</p></td><td width="13%" valign="top" style="width:13.62%;border:inset black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal">QUANT.</p></td><td width="13%" valign="top" style="width:13.62%;border:inset black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal">VALOR</p></td></tr><tr><td width="57%" valign="top" style="width:57.18%;border:inset black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal">Delegacia Seccional</p></td><td width="14%" style="width:14.62%;border:inset black 1.0pt;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal">GEPC-1</p></td><td width="13%" style="width:13.62%;border:inset black 1.0pt;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal">26</p></td><td width="13%" style="width:13.62%;border:inset black 1.0pt;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal">1.735,00</p></td></tr><tr><td width="57%" valign="top" style="width:57.18%;border:inset black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal">Delegacia Especializada (40); Delegacia Circunscricional de Nível 1, com Regime de Plantão (12); Coordenação (07)</p></td><td width="14%" style="width:14.62%;border:inset black 1.0pt;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal">GEPC-2</p></td><td width="13%" style="width:13.62%;border:inset black 1.0pt;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal">59</p></td><td width="13%" style="width:13.62%;border:inset black 1.0pt;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal">1.275,00</p></td></tr><tr><td width="57%" valign="top" style="width:57.18%;border:inset black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal">Delegacia de Nível 1</p></td><td width="14%" style="width:14.62%;border:inset black 1.0pt;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal">GEPC-3</p></td><td width="13%" style="width:13.62%;border:inset black 1.0pt;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal">32</p></td><td width="13%" style="width:13.62%;border:inset black 1.0pt;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal">1.100,00</p></td></tr><tr><td width="57%" valign="top" style="width:57.18%;border:inset black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal">Delegacia de Nível 2</p></td><td width="14%" style="width:14.62%;border:inset black 1.0pt;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal">GEPC-4</p></td><td width="13%" style="width:13.62%;border:inset black 1.0pt;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal">43</p></td><td width="13%" style="width:13.62%;border:inset black 1.0pt;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal">985,00</p></td></tr><tr><td width="57%" valign="top" style="width:57.18%;border:inset black 1.0pt;
-  padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal">Delegacia de Nível 3 (130); Adjunto de Delegacia (181)</p></td><td width="14%" style="width:14.62%;border:inset black 1.0pt;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal">GEPC-5</p></td><td width="13%" style="width:13.62%;border:inset black 1.0pt;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal">311</p></td><td width="13%" style="width:13.62%;border:inset black 1.0pt;padding:3.0pt 3.0pt 3.0pt 3.0pt"><p class="MsoNormal">870,00</p></td></tr></tbody></table>
+DENOMINAÇÃO
+
+SÍMBOLO
+
+QUANT.
+
+VALOR
+
+Delegacia Seccional
+
+GEPC-1
+
+26
+
+1.735,00
+
+Delegacia Especializada (40); Delegacia Circunscricional de Nível 1, com Regime de Plantão (12); Coordenação (07)
+
+GEPC-2
+
+59
+
+1.275,00
+
+Delegacia de Nível 1
+
+GEPC-3
+
+32
+
+1.100,00
+
+Delegacia de Nível 2
+
+GEPC-4
+
+43
+
+985,00
+
+Delegacia de Nível 3 (130); Adjunto de Delegacia (181)
+
+GEPC-5
+
+311
+
+870,00

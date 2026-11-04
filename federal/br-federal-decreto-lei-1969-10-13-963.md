@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/87d32794-3e72-41a6-af21-6cb285a7e816/texto#nowhere)
 
-###DEL-000963-0-000-13-10-1969@@@
-
 DECRETO-LEI Nº 963, DE 13 DE OUTUBRO DE 1969
 
 Autoriza o Distrito Federal a celebrar contrato de financiamento.

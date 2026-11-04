@@ -1,5 +1,3 @@
-###DEC-054208-0-000-26-08-1964@@@
-
 DECRETO Nº 54.208, DE 26 DE AGôSTO DE 1964.
 
 Define para fins de Previdência Social, a atividade de Condutor Autônomo de Veículo Rodoviário, e da outras providências.

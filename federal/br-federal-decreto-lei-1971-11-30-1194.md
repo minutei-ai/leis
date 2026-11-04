@@ -1,5 +1,3 @@
-###DEL-001194-0-000-30-11-1971@@@
-
 # DECRETO-LEI Nº 1.194, DE 30 DE NOVEMBRO DE 1971
 
 Autoriza o Tesouro Nacional a promover a subscrição de ações da Usinas Siderúrgica de Minas Gerais Sociedade Anônima - USIMINAS e dá outras providências.

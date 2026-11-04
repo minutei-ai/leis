@@ -1,5 +1,3 @@
-###MPV-000209-0-000-26-08-2004@@@
-
 MEDIDA PROVISÓRIA Nº 209, DE 26 DE AGOSTO DE 2004
 
 Dispõe sobre a tributação dos planos de benefícios de caráter previdenciário e dá outras providências.

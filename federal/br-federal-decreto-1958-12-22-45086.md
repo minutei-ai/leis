@@ -1,5 +1,3 @@
-###DEC-045086-0-000-22-12-1958@@@
-
 DECRETO Nº 45.086, DE 22 DE DEZEMBRO DE 1958.
 
 Aprova alterações introduzidas nos Estatutos da The Home Insurance Company.

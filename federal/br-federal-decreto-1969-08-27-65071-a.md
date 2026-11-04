@@ -1,5 +1,3 @@
-###DEC-065071-A-000-27-08-1969@@@
-
 DECRETO Nº 65.071-A - DE 27 DE AGÔSTO DE 1969.
 
 Aprova o Regulamento do Gabinete do Ministro do Exército.

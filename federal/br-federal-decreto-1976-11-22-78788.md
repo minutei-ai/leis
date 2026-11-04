@@ -1,5 +1,3 @@
-###DEC-078788-0-000-22-11-1976@@@
-
 DECRETO Nº 78.788, DE 22 DE NOVEMBRO DE 1976.
 
 Concede à Mineração Catas Altas Ltda. o direito de lavrar minério de ferro no Município de São Gonçalo do Rio Abaixo, Estado de Minas Gerais.

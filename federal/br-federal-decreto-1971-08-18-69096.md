@@ -1,5 +1,3 @@
-###DEC-069096-0-000-18-08-1971@@@
-
 DECRETO Nº 69.096, DE 18 DE AGOSTO DE 1971.
 
 Declara de utilidade pública o Patronato São Benedito, com sede em Pedreiras, Estado do Maranhão.

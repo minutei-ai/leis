@@ -1,5 +1,3 @@
-###DEC-062170-0-000-25-01-1968@@@
-
 DECRETO Nº 62.170, DE 25 DE JANEIRO DE 1968.
 
 Reconhecimento do Curso de Pedagogia da Faculdade Estadual de Filosofia, Ciências e Letras de Londrina - PR.

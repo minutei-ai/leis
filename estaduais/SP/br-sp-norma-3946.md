@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/3946)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2000/compilacao-lei-10499-05.01.2000.html)
 
 # LEI N° 10.499, DE 05 DE JANEIRO DE 2000

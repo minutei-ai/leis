@@ -1,5 +1,3 @@
-###DEC-050535-0-000-04-05-1961@@@
-
 DECRETO Nº 50.535, DE 4 DE MAIO DE 1961.
 
 Estabelece o Plano de Liquidação da Comissão Federal de Abastecimento e Preços (COFAP) e seus órgãos auxiliares.

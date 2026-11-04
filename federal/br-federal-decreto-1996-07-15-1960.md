@@ -1,5 +1,3 @@
-###DEC-001960-0-000-15-07-1996@@@
-
 DECRETO N° 1.960, DE 15 DE JULHO DE 1996
 
 Dispõe sobre a execução da Resolução n° 3/95 do Grupo Mercado Comum do MERCOSUL.

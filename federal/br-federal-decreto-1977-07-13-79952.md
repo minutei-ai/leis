@@ -1,5 +1,3 @@
-###DEC-079952-0-000-13-07-1977@@@
-
 Decreto nº 79.952, de 13 de julho de 1977
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia de Eletricidade do Estado da Bahia - COELBA, no Estado da Bahia.

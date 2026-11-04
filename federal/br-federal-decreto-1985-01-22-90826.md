@@ -1,5 +1,3 @@
-###DEC-090826-0-000-22-01-1985@@@
-
 Decreto nº 90.826, de 22 de janeiro de 1985
 
 inclui a Comissão Executora do Projeto RADAMBRASIL no regime de que trata o Decreto nº 86.212, de 15 de julho de 1981, e dá outras providências.

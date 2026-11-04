@@ -1,5 +1,3 @@
-###DEL-009267-0-000-20-05-1946@@@
-
 DECRETO-LEI N. 9.267 – DE 20 DE MAIO DE 1946
 
 Considera insalubre a zona de Barra Bonita no Estado de São Paulo

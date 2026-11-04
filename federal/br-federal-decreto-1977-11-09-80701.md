@@ -1,5 +1,3 @@
-###DEC-080701-0-000-09-11-1977@@@
-
 DECRETO Nº 80.701, DE 09 DE NOVEMBRO DE 1977.
 
 Outorga concessão à Rádio Difusora de Cáceres Ltda. para estabelecer uma estação de radiodifusão sonora em onda média de âmbito regional, na cidade de Cáceres, Estado de Mato Grosso.

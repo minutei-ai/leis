@@ -1,5 +1,3 @@
-###DEC-090386-0-000-30-10-1984@@@
-
 Decreto nº 90.386, de 30 de outubro de 1984.
 
 Dispõe sobre a execução do Protocolo Modificativo do Acordo de Alcance Parcial nº 10, subscrito por Brasil e Colômbia.

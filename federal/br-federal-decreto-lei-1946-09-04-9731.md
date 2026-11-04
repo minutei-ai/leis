@@ -1,5 +1,3 @@
-###DEL-009731-0-000-04-09-1946@@@
-
 DECRETO-LEI N. 9.731 – DE 4 DE SETEMBRO DE 1946
 
 Extíngue cargos isolados de provimento efetivo do Ministério das Relações Exteriores.

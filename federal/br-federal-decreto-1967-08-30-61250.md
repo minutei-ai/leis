@@ -1,5 +1,3 @@
-###DEC-061250-0-000-30-08-1967@@@
-
 decreto nº 61.250, de 30 de agôsto de 1967.
 
 Declara de utilidade pública o Movimento de Arregimentação Feminina - MAF, com sede em São Paulo, Estado de São Paulo.

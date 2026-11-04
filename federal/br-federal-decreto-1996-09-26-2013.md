@@ -1,7 +1,3 @@
-1
-
-###DEC-002013-0-000-26-09-1996@@@
-
 # DECRETO Nº 2.013, DE 26 DE SETEMBRO DE 1996.
 
 Aprova o Regulamento para a Caixa de Construções de Casas para o Pessoal do Ministério da Marinha.

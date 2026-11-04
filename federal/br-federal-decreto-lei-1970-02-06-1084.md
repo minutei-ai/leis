@@ -1,5 +1,3 @@
-###DEL-001084-0-000-06-02-1970@@@
-
 # DECRETO-LEI Nº 1084, DE 6 DE FEVEREIRO 1970
 
 Extingue a comissão Geral de Inquérito Policial-Militar e dá outras providências.

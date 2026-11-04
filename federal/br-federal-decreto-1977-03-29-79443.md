@@ -1,5 +1,3 @@
-###DEC-079443-0-000-29-03-1977@@@
-
 DECRETO Nº 79.443, DE 29 DE MARÇO DE 1977.
 
 Concede à Mineração Mansur Ltda. o direito de lavrar calcário no Município de Vazante, Estado de Minas Gerais.

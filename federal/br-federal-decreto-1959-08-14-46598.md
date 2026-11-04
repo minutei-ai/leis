@@ -1,5 +1,3 @@
-###DEC-046598-0-000-14-08-1959@@@
-
 DECRETO Nº 46.598, DE 14 DE AGÔSTO DE 1959.
 
 Autoriza a Emprêsa Cosmopolitana de Comércio e Mineração S.A. a pesquisar mica no município de Santa Maria Suaçui, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-047538-0-000-29-12-1959@@@
-
 DECRETO Nº 47.538, DE 29 DE DEZEMBRO DE 1959.
 
 Inclui função gratificada no Quadro Extraordinário de Mensalistas da Universidade do Brasil e dá outras providências.

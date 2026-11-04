@@ -1,5 +1,3 @@
-###DEC-076825-0-000-17-12-1975@@@
-
 DECRETO Nº 76.825, DE 17 DE DEZEMBRO DE 1975.
 
 Declara de utilidade pública para fins de desapropriação pela Companhia Siderúrgica Nacional áreas situadas no Município de Itaguaí, Estado do Rio de Janeiro.

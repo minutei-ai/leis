@@ -1,5 +1,3 @@
-###DEL-005868-0-000-01-10-1943@@@
-
 DECRETO‑LEI N. 5.868 – DE 1 DE OUTUBRO DE 1943
 
 Abre, ao Ministério da Agricultura, o crédito suplementar de Cr$ 31.500,00  à dotação que específica

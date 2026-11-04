@@ -1,5 +1,3 @@
-###DEC-060397-0-000-11-03-1967@@@
-
 decreto nº 60.397, de 11 de março de 1967.
 
 Autoriza o cidadão brasileiro Felix Segundo Pellizari a lavrar calcário no município de Iporanga, Estado de São Paulo.

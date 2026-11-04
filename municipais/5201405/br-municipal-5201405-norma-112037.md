@@ -10,18 +10,22 @@ Art. 2º - Esta Lei entra em vigor na data da sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, 16 de abril de 2018.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil
 
-TARCISIO FRANCISCO DOS SANTOS<br>
+TARCISIO FRANCISCO DOS SANTOS
+
 Presidente
 
 ANEXO ÚNICO
 
-_ANEXO III – LC n° 127/2017<br>
+_ANEXO III – LC n° 127/2017
+
 Cargos Efetivos_
 
 _(...)_

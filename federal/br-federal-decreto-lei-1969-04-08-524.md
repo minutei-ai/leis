@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/4a421f19-f3f0-43de-927f-8a8276988cb7/texto#nowhere)
 
-###DEL-000524-0-000-08-04-1969@@@
-
 DECRETO-LEI Nº 524, DE 8 de ABRIL DE 1969
 
 Autoriza o Prefeito do Distrito Federal a constituir a Companhia de Água e Esgotos de Brasília.

@@ -1,5 +1,3 @@
-###DEC-054110-0-000-07-08-1964@@@
-
 Decreto nº 54.110, de 07 de agôsto de 1964.
 
 Declara luto oficial em todo o país, em sinal de pesar pelo falecimento do Presidente Aleksander Zawadzki.

@@ -1,5 +1,3 @@
-###DEC-007317-0-000-28-09-2010-PUB-01@@@
-
 DECRETO Nº 7.317, DE 28 DE SETEMBRO DE 2010.
 
 Dá nova redação aos arts. 3o, 18, 24 e 27 do Decreto no 5.163, de 30 de julho de 2004, que regulamenta a comercialização de energia elétrica, o processo de outorga de concessões e de autorizações de geração de energia elétrica, e dá outra providência.

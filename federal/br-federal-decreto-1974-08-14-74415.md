@@ -1,5 +1,3 @@
-###DEC-074415-0-000-14-08-1974@@@
-
 DECRETO Nº 74.415, DE 14 DE AGOSTO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Sociedade de Friburgo Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Nova Friburgo, Estado do Rio de Janeiro.

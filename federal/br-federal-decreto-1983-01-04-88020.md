@@ -1,5 +1,3 @@
-###DEC-088020-0-000-04-01-1983@@@
-
 Decreto nº 88.020, de 04 de janeiro de 1983
 
 Concede a USINA SIDERÚRGICA DA BAHIA S.A - USIBA autorização para proceder a aumento do seu capital autorizado, bem como de capital social.

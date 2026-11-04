@@ -1,5 +1,3 @@
-###DEC-053459-0-000-20-01-1964@@@
-
 Decreto nº 53.459, de 20 de janeiro de 1964.
 
 Autoriza o cidadão brasileiro Francisco de Paula Cavalcanti de Albuquerque Lacerda a pesquisar caulim no município de Matriz de Camaragibe, Estado de Alagoas.

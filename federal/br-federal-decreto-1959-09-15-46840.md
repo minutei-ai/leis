@@ -1,5 +1,3 @@
-###DEC-046840-0-000-15-09-1959@@@
-
 DECRETO Nº 46.840, DE 15 DE SETEMBRO DE 1959.
 
 Autoriza a Prefeitura Municipal de Vitória da Conquista, no Estado da Bahia, a ampliar suas instalações.

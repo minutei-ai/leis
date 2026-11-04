@@ -1,5 +1,3 @@
-###DEC-067010-0-000-06-08-1970@@@
-
 DECRETO Nº 67.010, DE 6 DE AGÔSTO DE 1970.
 
 Aprova alteração introduzida nos Estatutos da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

@@ -1,5 +1,3 @@
-###DEC-082517-0-000-30-10-1978@@@
-
 Decreto nº 82. 517, de 30 de outubro de 1978.
 
 Concede reconhecimento ao Curso de Meteorologia, ministrado pelo Centro de Ciências e Tecnologia, mantido na cidade de Campina Grande, Estado da Paraíba, pela Universidade Federal da Paraíba.

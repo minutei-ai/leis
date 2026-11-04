@@ -1,5 +1,3 @@
-###DEL-008229-0-000-27-11-1945@@@
-
 DECRETO-LEI N. 8.229 – DE 27 DE NOVEMBRO DE I945
 
 Fixa o subsídio dos Deputados e Senadores e dá outras providencias

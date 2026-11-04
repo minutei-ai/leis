@@ -1,7 +1,3 @@
-1
-
-###DEC-095813-0-000-10-03-1988@@@
-
 DECRETO N° 95.813, DE 10 DE MARÇO DE 1988
 
 Cria o Pólo Cloroquímico de Sergipe, estabelece normas para sua implantação e dá outras providências.

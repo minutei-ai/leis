@@ -1,5 +1,3 @@
-###MPV-000028-0-000-04-02-2002@@@
-
 MEDIDA PROVISÓRIA No 28, DE 4 DE FEVEREIRO 2002.
 
 Dispõe sobre normas gerais de direito penitenciário e dá outras providências.

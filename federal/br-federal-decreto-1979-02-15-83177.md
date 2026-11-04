@@ -1,5 +1,3 @@
-###DEC-083177-0-000-15-02-1979@@@
-
 DECRETO Nº 83.177, DE 15 DE FEVEREIRO DE 1979
 
 Concede reconhecimento ao curso de Pedagogia da Universidade de Taubaté, com sede na cidade de Taubaté, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-003899-0-000-29-08-2001@@@
-
 DECRETO Nº 3.899, DE 29 DE AGOSTO 2001.
 
 Altera os incisos I e II do art. 8o do Plano de Metas para a Universalização de Serviços de Telecomunicações em Escolas Públicas de Ensino Médio, aprovado pelo Decreto no 3.754, de 19 de fevereiro de 2001.

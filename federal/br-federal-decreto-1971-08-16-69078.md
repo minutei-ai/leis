@@ -1,5 +1,3 @@
-###DEC-069078-0-000-16-08-1971@@@
-
 DECRETO Nº 69.078, DE 16 DE AGôSTO DE 1971.
 
 Transforma cargo em Comissão do Quadro de Pessoal do Ministério do Exército.

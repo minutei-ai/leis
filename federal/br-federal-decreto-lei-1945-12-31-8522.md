@@ -1,5 +1,3 @@
-###DEL-008522-0-000-31-12-1945@@@
-
 DECRETO-LEI N. 8.522 – DE 31 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$...............15.000.000,00, à verba que especifica.

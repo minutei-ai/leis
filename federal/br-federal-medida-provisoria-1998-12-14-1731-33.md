@@ -1,5 +1,3 @@
-###MPV-001731-0-033-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.731-33, DE 14 DE DEZEMBRO DE 1998
 
 Dispõe sobre o salário mínimo para o período de 1º de maio de 1996 a 30 de abril de 1997.

@@ -1,5 +1,3 @@
-###DEC-079418-0-000-22-03-1977@@@
-
 DECRETO Nº 79.418, DE 22 DE MARÇO DE 1977.
 
 Autoriza transformação do curso de Educação Musical, para o Curso de Educação Artística, da Faculdade de Música Pio XII, com sede na cidade de Bauru, Estado de São Paulo.

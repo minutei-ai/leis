@@ -1,5 +1,3 @@
-###DEC-049679-0-000-31-12-1960@@@
-
 DECRETO Nº 49.679, DE 31 DE DEZEMBRO DE 1960.
 
 Amplia a zona de fornecimento da Companhia Paulista de Fôrça e Luz e dá outras providências.

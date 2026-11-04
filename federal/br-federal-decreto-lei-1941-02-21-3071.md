@@ -1,5 +1,3 @@
-###DEL-003071-0-000-21-02-1941@@@
-
 DECRETO-LEI N. 3.071 – DE 21 DE FEVEREIRO DE 1941
 
 Dispõe sobre aplicação de crédito orçamentário e dá outras providências

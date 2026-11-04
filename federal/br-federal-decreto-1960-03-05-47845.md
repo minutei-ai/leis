@@ -1,5 +1,3 @@
-###DEC-047845-0-000-05-03-1960@@@
-
 decreto nº 47.845, de 5 de março de 1960.
 
 Outorga concessão à Rádio Clube de Conquista Limitada para instalar uma estação radiodifusora.

@@ -1,5 +1,3 @@
-###DEC-091379-0-000-28-06-1985@@@
-
 Decreto nº 91.379, de 28 de junho de 1985.
 
 Dispõe sobre a criação de Comissão Interministerial para elaborar Programa de Irrigação de um milhão de hectares no Polígono das Secas.

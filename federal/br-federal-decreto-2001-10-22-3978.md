@@ -1,5 +1,3 @@
-###DEC-003978-0-000-22-10-2001@@@
-
 DECRETO Nº 3.978, DE 22 DE OUTUBRO DE 2001
 
 Altera dispositivos do Decreto nº 2.612, de 3 de junho de 1998, que regulamenta o Conselho Nacional de Recursos Hídricos, e dá outras providências.

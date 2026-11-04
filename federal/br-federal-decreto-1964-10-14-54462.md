@@ -1,5 +1,3 @@
-###DEC-054462-0-000-14-10-1964@@@
-
 decreto nº 54.462, de 14 de outubro de 1964.
 
 Autoriza o cidadão brasileiro Raphael Garzouzi a pesquisar água mineral, no município de Diadema, Estado de São Paulo.

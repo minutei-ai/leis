@@ -1,5 +1,3 @@
-###DEC-069185-0-000-13-09-1971@@@
-
 DECRETO Nº 69.185, DE 13 DE SETEMBRO DE 1971.
 
 Outorga à Prefeitura Municipal de Chopinzinho, concessão para o aproveitamento hidráulico de um trecho do rio Chopinzinho, no distrito sede do município de Chopinzinho, Estado do Paraná.

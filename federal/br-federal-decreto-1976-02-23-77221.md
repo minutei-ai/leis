@@ -1,5 +1,3 @@
-###DEC-077221-0-000-23-02-1976@@@
-
 DECRETO Nº 77.221, DE 23 DE FEVEREIRO DE 1976.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Trairi, Estado do Ceará.

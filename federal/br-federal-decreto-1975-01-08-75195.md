@@ -1,5 +1,3 @@
-###DEC-075195-0-000-08-01-1975@@@
-
 DECRETO Nº 75.195, DE 8 DE JANEIRO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação pela Companhia Siderúrgica Nacional, áreas de terras situadas em Santa Cruz, Estado da Guanabara.

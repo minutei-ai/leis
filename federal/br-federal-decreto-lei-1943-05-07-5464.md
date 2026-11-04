@@ -1,5 +1,3 @@
-###DEL-005464-0-000-07-05-1943@@@
-
 DECRETO‑LEI N. 5.464 – DE 7 DE MAIO DE 1943
 
 Modifica o art. 135 do Código Nacional de Trânsito

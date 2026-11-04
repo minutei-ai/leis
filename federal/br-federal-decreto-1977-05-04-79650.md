@@ -1,5 +1,3 @@
-###DEC-079650-0-000-04-05-1977@@@
-
 Decreto nº 79.650, de 4 de maio de 1977.
 
 Dispõe sobre a Comissão den Comércio com a Europa Oriental - COLESTE

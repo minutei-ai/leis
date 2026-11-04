@@ -1,14 +1,12 @@
-###DEC-030641-0-000-19-03-1952@@@
+**DECRETO Nº 30.641, DE 19 DE MARÇO DE 1952.**
 
-<strong>DECRETO Nº 30.641, DE 19 DE MARÇO DE 1952.</strong>
+***Dá nova redação ao artigo 2º Regulamento Geral da Polícia Militar do Distrito Federal, aprovado pelo Decreto nº 3.273, de 16 de novembro de 1938.***
 
-<em><strong>Dá nova redação ao artigo 2º Regulamento Geral da Polícia Militar do Distrito Federal, aprovado pelo Decreto nº 3.273, de 16 de novembro de 1938.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º - O artigo 2º do Regulamento Geral da Polícia Militar do Distrito Federal, aprovado pelo decreto nº 3.273, de 16 de novembro de 1938, passa a vigorar com a seguinte redação:
+**Art**. 1º - O artigo 2º do Regulamento Geral da Polícia Militar do Distrito Federal, aprovado pelo decreto nº 3.273, de 16 de novembro de 1938, passa a vigorar com a seguinte redação:
 
 “Art. 2º - O Comando disporá para exerce sua missão, de um Quartel General (Q.G) constituído de:
 
@@ -32,10 +30,10 @@ f) Ajudantes de Ordens.
 
 § 4º - Farão parte do Q.G, os Assistentes Militares do Ministério da Justiça, do Prefeito do Distrito Federal e do Chefe de Policia”
 
-<strong>Art</strong>. 2º - O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º - O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 19 de março de 1952, 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Francisco Negrão de Lima

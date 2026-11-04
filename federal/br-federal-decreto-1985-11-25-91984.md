@@ -1,5 +1,3 @@
-###DEC-091984-0-000-25-11-1985@@@
-
 Decreto nº 91.984, de 25 de novembro de 1985
 
 Revoga o parágrafo único do artigo 1º do Decreto nº 91.290, de 30 de maio de 1985, e dá outras providências.

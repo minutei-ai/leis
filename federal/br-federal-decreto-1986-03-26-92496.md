@@ -1,5 +1,3 @@
-###DEC-092496-0-000-26-03-1986@@@
-
 DECRETO Nº 92.496, DE 26 DE MARÇO DE 1986
 
 Autoriza o funcionamento dos cursos de Ciências Contábeis e de Ciências Econômicas das Faculdades Capital.

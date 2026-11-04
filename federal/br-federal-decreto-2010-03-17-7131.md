@@ -1,5 +1,3 @@
-###DEC-007131-0-000-17-03-2010@@@
-
 DECRETO Nº 7.131, DE 17 DE MARÇO DE 2010.
 
 Dispõe sobre a execução do Trigésimo Nono Protocolo Adicional ao Acordo de Complementação Econômica no 14, assinado entre os Governos da República Federativa do Brasil e da República Argentina, em 3 de março de 2010.

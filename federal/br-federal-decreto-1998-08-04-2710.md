@@ -1,5 +1,3 @@
-###DEC-002710-0-000-04-08-1998@@@
-
 DECRETO Nº 2.710, DE 4 DE AGOSTO DE 1998
 
 Regulamenta a Lei Complementar nº 94, de 19 de fevereiro de 1998, que autoriza o Poder Executivo a criar a Região Integrada de Desenvolvimento do Distrito Federal e Entorno - RIDE e instituir o Programa Especial de Desenvolvimento do Entorno do Distrito Federal, e dá outras providências.

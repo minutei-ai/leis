@@ -1,5 +1,3 @@
-###DEC-051909-B-000-23-04-1963@@@
-
 DECRETO Nº 51.909-B, de 23 de abril de 1963.
 
 Autoriza o cidadão brasileiro Geraldo Majela de Menezes a pesquisar calcário, no município de Maruim, Estado de Sergipe.

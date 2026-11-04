@@ -1,5 +1,3 @@
-###DEL-003314-0-000-26-05-1941@@@
-
 DECRETO-LEI N. 3.314 – DE 26 DE MAIO DE 1941
 
 Reorganiza os Grupos de Regiões Militares

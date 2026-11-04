@@ -1,7 +1,3 @@
-1
-
-###DEL-001024-0-000-21-10-1969@@@
-
 Decreto-lei nº 1.024, de 21 de outubro de 1969
 
 Dispõe sôbre a retribuição de servidores do Ministério da Fazenda e dá outras providências.

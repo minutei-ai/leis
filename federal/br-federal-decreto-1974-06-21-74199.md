@@ -1,5 +1,3 @@
-###DEC-074199-0-000-21-06-1974@@@
-
 DECRETO Nº 74.199, DE 21 DE JUNHO DE 1974.
 
 Transfere para o Ministério da Indústria e do Comércio a Comissão para Concessão de Benefícios Fiscais a Programas Especiais de Exportação - BEFIEX e dá outras providências.

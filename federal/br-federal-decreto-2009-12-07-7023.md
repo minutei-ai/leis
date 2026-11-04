@@ -1,5 +1,3 @@
-###DEC-007023-0-000-07-12-2009@@@
-
 DECRETO Nº 7.023, DE 7 DE DEZEMBRO DE 2009.
 
 Promulga o Quinquagésimo Quinto Protocolo Adicional ao Acordo de Complementação Econômica nº 35.

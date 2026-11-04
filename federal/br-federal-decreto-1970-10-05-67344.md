@@ -1,5 +1,3 @@
-###DEC-067344-0-000-05-10-1970@@@
-
 DECRETO Nº 67.344, DE 5 DE OUTUBRO DE 1970.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona situado no Estado do Rio de Janeiro.

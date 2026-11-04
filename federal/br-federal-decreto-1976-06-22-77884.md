@@ -1,5 +1,3 @@
-###DEC-077884-0-000-22-06-1976@@@
-
 DECRETO N.º 77.884, DE 22 DE JUNHO DE 1976
 
 Autoriza da transferência direta para a Rádio Mundial S.A da concessão outorgada à Petrópolis Rádio Difusora S.A. para executar serviço de radiodifusão sonora em onda tropical, na cidade de Petrópolis Estado do Rio de Janeiro.

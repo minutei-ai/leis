@@ -1,7 +1,3 @@
-1
-
-###DEC-002099-0-000-18-12-1996@@@
-
 DECRETO Nº 2.099, DE 18 DE DEZEMBRO DE 1996.
 
 Dá nova redação ao art. 1º do Decreto nº 408, de 27 de dezembro de 1991, que regulamenta o art. 3º da Lei nº 8.242, de 12 de outubro de 1991, que cria o Conselho Nacional dos Direitos da Criança e do Adolescente CONANDA.

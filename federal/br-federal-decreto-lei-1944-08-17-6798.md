@@ -1,5 +1,3 @@
-###DEL-006798-0-000-17-08-1944@@@
-
 DECRETO-LEI N. 6.798 – DE 17 DE AGÔSTO DE 1944
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 2.090.270,00 à verba que especifica

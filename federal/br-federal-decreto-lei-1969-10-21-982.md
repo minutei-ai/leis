@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/eafb47c5-3c79-4d0a-a62a-f895877d139a/texto#nowhere)
 
-###DEL-000982-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 982, DE 21 DE OUTUBRO DE 1969
 
 Transforma, sem aumento de despesa, cargos do Quadro de Pessoal - Parte Permanente - do Ministério da Educação e Cultura, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-085312-0-000-31-10-1980@@@
-
 Decreto Nº 85.312, de 31 de outubro de 1980
 
 Revoga o Decreto nº 16.393, de 22de agosto de 1944, que concedeu à empresa THE COCA-COLA EXPORT CORPORATION autorização para funcionar na República Federativa do Brasil.

@@ -1,5 +1,3 @@
-###DEC-085145-0-000-15-09-1980@@@
-
 Decreto nº 85.145, de 15 de setembro de 1980
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Goiás S.A. - CELG, no Estado de Goiás.

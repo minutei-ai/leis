@@ -1,5 +1,3 @@
-###DEC-058125-0-000-30-03-1966@@@
-
 decreto nº 58.125, de 30 de março de 1966.
 
 Autoriza o cidadão brasileiro Nicolau de Vergueiro Forjas a pesquisar areia quartzosa no Município de Descalvado, no Estado de São Paulo.

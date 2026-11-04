@@ -1,22 +1,20 @@
-###DEC-022808-0-000-24-03-1947@@@
+**DECRETO Nº 22.808, DE 24 DE MARÇO DE 1947.**
 
-<strong>DECRETO Nº 22.808, DE 24 DE MARÇO DE 1947.</strong>
+***Concede à sociedade anônima “Shepard Line (Brazil), Inc.” autorização para funcionar na República.***
 
-<em><strong>Concede à sociedade anônima “Shepard Line (Brazil), Inc.” autorização para funcionar na República.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, atendendo ao que requereu a sociedade anônima “*Shepard Line (Brazil), Inc.*”,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, atendendo ao que requereu a sociedade anônima “<em>Shepard Line (Brazil), Inc.</em>”,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-Artigo único. É concedida à sociedade anônima “<em>Shepard Line (Brazil), Inc.</em>”, com sede na cidade de Wilmington, Condado de New Castle, Delaware, Estados Unidos da América, autorização para funcionar na República, com o capital de Cr$ 350.000,00 (trezentos e cinqüenta mil cruzeiros) destinado às suas operações no brasil e com os estatutos que apresentou, mediante as cláusulas que êste acompanham, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
+Artigo único. É concedida à sociedade anônima “*Shepard Line (Brazil), Inc.*”, com sede na cidade de Wilmington, Condado de New Castle, Delaware, Estados Unidos da América, autorização para funcionar na República, com o capital de Cr$ 350.000,00 (trezentos e cinqüenta mil cruzeiros) destinado às suas operações no brasil e com os estatutos que apresentou, mediante as cláusulas que êste acompanham, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
 
 Rio de Janeiro, 24 de março de 1947, 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Morvan Figueiredo
 
-<strong>CLÁUSULAS QUE ACOMPANHAM O DECRETO Nº 22.808, DESTA DATA</strong>
+**CLÁUSULAS QUE ACOMPANHAM O DECRETO Nº 22.808, DESTA DATA**
 
 I
 
@@ -46,4 +44,4 @@ A infração de qualquer das cláusulas para a qual não esteja cominada pena es
 
 Rio de Janeiro, 24 de março de 1947.
 
-<strong>MORVAN DE FIGUEIREDO</strong>
+**MORVAN DE FIGUEIREDO**

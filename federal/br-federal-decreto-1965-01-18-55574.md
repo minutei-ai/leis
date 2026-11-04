@@ -1,5 +1,3 @@
-###DEC-055574-0-000-18-01-1965@@@
-
 DECRETO Nº 55.574, de 18 de janeiro de 1965.
 
 Concede à Emprêsa de Navegação Sant’Ana Limitada autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

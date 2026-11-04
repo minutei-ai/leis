@@ -1,5 +1,3 @@
-###DEC-083132-0-000-05-02-1979@@@
-
 decreto nº 83.132, de 05 de fevereiro de 1979.
 
 Concede à GRAMA - Granitos e Mármores Ltda. o direito de lavar granito no Município de Angra dos Reis, Estado do Rio de Janeiro.

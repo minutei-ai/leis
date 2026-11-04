@@ -1,5 +1,3 @@
-###DEC-056910-0-000-29-09-1965@@@
-
 DECRETO Nº 56.910, DE 29 DE SETEMBRO DE 1965.
 
 Concede à sociedade Urbana Gern & Filhos autorização para continuar a funcionar como emprêsa de navegação de cabotagem, sob a nova forma social de Navegação Urbana Gern Ltda.

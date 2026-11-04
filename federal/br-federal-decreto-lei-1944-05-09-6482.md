@@ -1,5 +1,3 @@
-###DEL-006482-0-000-09-05-1944@@@
-
 DECRETO-LEI N. 6.482 – DE 9 DE MAIO DE 1944
 
 Cria o 1º Regimento de Carros de Combate

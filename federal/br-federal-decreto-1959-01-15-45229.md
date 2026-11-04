@@ -1,5 +1,3 @@
-###DEC-045229-0-000-15-01-1959@@@
-
 DECRETO Nº 45.229, DE 15 DE JANEIRO DE 1959.
 
 Outorga ao Govêrno do Estado do Rio de Janeiro concessão para distribuir energia elétrica.

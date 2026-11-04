@@ -1,5 +1,3 @@
-###DEC-066953-0-000-23-07-1970@@@
-
 DECRETO Nº 66.953, DE 23 DE JULHO DE 1970.
 
 Declara de utilidade pública, para fins de desapropriação uma área de terra destinada à construção de uma tôrre repetidora de microondas e uma faixa de terra para acesso à mesma, no Município de Soledade de Minas, Estado de Minas Gerais, necessárias ao desenvolvimento do Plano Trienal das Rotas do Sistema de Microondas, a cargo da Companhia Telefônica de Minas Gerais.

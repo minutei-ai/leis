@@ -1,5 +1,3 @@
-###DEC-051729-0-000-20-02-1963@@@
-
 DECRETO Nº 51.729, DE 20 DE FEVEREIRO DE 1963.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas área de terreno situada em Teresina, Estado do Piauí.

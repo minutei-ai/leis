@@ -1,5 +1,3 @@
-###DEC-004833-0-000-05-09-2003@@@
-
 DECRETO Nº 4.833,  DE 5 DE SETEMBRO DE 2003.
 
        Altera o parágrafo único do art. 26 do Estatuto Social da empresa pública Banco Nacional de Desenvolvimento Econômico e Social - BNDES, aprovado pelo Decreto nº 4.418, de 11 de outubro de 2002.
@@ -16,5 +14,6 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 5 de setembro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Luiz Fernando Furlan

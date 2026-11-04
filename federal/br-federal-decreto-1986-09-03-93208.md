@@ -1,5 +1,3 @@
-###DEC-093208-0-000-03-09-1986@@@
-
 DECRETO Nº 93.208, DE 03 DE SETEMBRO DE 1986
 
 Dispõe sobre a criação do 1º Batalhão de Aviação do Exército, no Ministério do Exército, e dá outras providências.

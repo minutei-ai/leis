@@ -1,5 +1,3 @@
-###DEC-076942-0-000-30-12-1975@@@
-
 DECRETO Nº 76.942, DE 30 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Engenharia Civil da Universidade Católica de Minas Gerais, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

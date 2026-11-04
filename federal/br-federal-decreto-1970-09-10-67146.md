@@ -1,5 +1,3 @@
-###DEC-067146-0-000-10-09-1970@@@
-
 DECRETO Nº 67.146, DE 10 DE SETEMBRO DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Permanente - do Ministério das Relações Exteriores, cargo originário da Universidade Federal de Minas Gerais.

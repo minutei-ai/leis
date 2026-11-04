@@ -1,5 +1,3 @@
-###DEC-049314-0-000-21-11-1960@@@
-
 DECRETO Nº 49.314, DE 21 DE NOVEMBRO DE 1960.
 
 Concede honras de Chefes de Estado a Teófilo Benedito Ottoni.

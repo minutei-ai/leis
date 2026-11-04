@@ -1,5 +1,3 @@
-###DEC-057064-0-000-15-10-1965@@@
-
 DECRETO Nº 57.064, de 15 de outubro de 1965.
 
 Concede à Keramik S.A. autorização para funcionar como emprêsa de mineração.

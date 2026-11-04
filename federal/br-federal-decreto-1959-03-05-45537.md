@@ -1,5 +1,3 @@
-###DEC-045537-0-000-05-03-1959@@@
-
 DECRETO Nº 45.537, DE 5 DE MARÇO DE 1959.
 
 Autoriza o cidadão brasileiro , Arciso Motta, a pesquisar mica, pedras coradas e quartzo, no município de Capelinha, Estado de Minas Gerais.

@@ -1,4 +1,5 @@
-LEI COMPLEMENTAR Nº 54, DE 15 DE JUNHO DE 2012.<br>
+LEI COMPLEMENTAR Nº 54, DE 15 DE JUNHO DE 2012.
+
 (Revogada pela Lei Complementar nº 125, de 11 de janeiro de 2017).
 
 ~~Dispõe sobre a criação do Cargo de Comandante da Guarda Municipal e alteração do subsídio do cargo de Corregedor Geral - Altera a Lei Complementar 023, de 24 de junho de 2010, que criou a Secretaria de Defesa Social e Guarda Municipal e dá outras providências.~~
@@ -55,10 +56,12 @@ LEI COMPLEMENTAR Nº 54, DE 15 DE JUNHO DE 2012.<br>
 
 ~~Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 15 dias do mês de Junho de 2012.~~
 
-~~LUIZ ALBERTO MAGUITO VILELA<br>
+~~LUIZ ALBERTO MAGUITO VILELA
+
 PREFEITO MUNICIPAL~~
 
-~~ELI DE FARIA<br>
+~~ELI DE FARIA
+
 SECRETÁRIO EXECUTIVO~~
 
 ~~ANEXO I~~

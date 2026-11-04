@@ -1,4 +1,5 @@
-LEI MUNICIPAL N° 3.245, DE 23 DE DEZEMBRO DE 2014.<br>
+LEI MUNICIPAL N° 3.245, DE 23 DE DEZEMBRO DE 2014.
+
 (Revogada pela Lei Ordinária nº 3.393, de 6 de dezembro de 2017).
 
 ~~Dispõe sobre a proibição de empinar pipas e similares e fabricação, industrialização, comercialização e utilização de cerol e qualquer tipo de linha cortante na atividade recreativa brincadeira de soltar pipa e similares no Município de Aparecida de Goiânia.~~
@@ -27,8 +28,10 @@ LEI MUNICIPAL N° 3.245, DE 23 DE DEZEMBRO DE 2014.<br>
 
 ~~Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 23 dias do mês de dezembro do ano de 2014.~~
 
-~~LUIZ ALBERTO MAGUITO VILELA<br>
+~~LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal~~
 
-~~EULER MORAIS<br>
+~~EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional~~

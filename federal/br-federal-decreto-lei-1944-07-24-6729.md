@@ -1,5 +1,3 @@
-###DEL-006729-0-000-24-07-1944@@@
-
 DECRETO-LEI N. 6.729 – DE 24 DE JULHO DE 1944
 
 Concede pensão especial à viúva de Alípio Lopes

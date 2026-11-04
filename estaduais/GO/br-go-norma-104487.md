@@ -36,8 +36,6 @@ Art. 5º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 11 de novembro de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

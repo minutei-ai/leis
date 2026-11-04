@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212085)<br>
-
 # LEI N° 18.377, DE 23 DE DEZEMBRO DE 2025
 
 ## (Projeto de lei n° 1145/2025, do Deputado Bruno Zambelli - PL)

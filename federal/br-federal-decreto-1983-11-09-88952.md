@@ -1,5 +1,3 @@
-###DEC-088952-0-000-09-11-1983@@@
-
 DECRETO Nº 88.952, DE 09 DE NOVEMBRO DE 1983.
 
 Declara luto Oficial.

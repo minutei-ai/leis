@@ -1,5 +1,3 @@
-###DEC-078372-0-000-03-09-1976@@@
-
 DECRETO Nº 78.372, DE 3 DE SETEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Administração e de Ciências Contábeis, da Faculdade de Ciências Administrativas e Contábeis Princesa Isabel, com sede na cidade de São Paulo, Estado de São Paulo.

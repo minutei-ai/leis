@@ -1,5 +1,3 @@
-###DEC-071438-0-000-27-11-1972@@@
-
 DECRETO Nº 71.438, DE 27 DE NOVEMBRO DE 1972.
 
 Autoriza o funcionamento dos Cursos de Pedagogia, Letras e Estudos Sociais da Faculdade de Filosofia, Ciências e Letras "Geraldo Rezende" - Suzano - SP.

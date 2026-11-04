@@ -1,5 +1,3 @@
-###DEC-075771-0-000-23-05-1975@@@
-
 DECRETO Nº 75.771, DE 23 DE MAIO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Clube de Lages S.A., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Lages, Estado de Santa Catarina.

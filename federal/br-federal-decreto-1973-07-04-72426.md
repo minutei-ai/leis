@@ -1,5 +1,3 @@
-###DEC-072426-0-000-04-07-1973@@@
-
 DECRETO Nº 72.426, DE 4 DE JULHO DE 1973.
 
 Declara sem efeito o Decreto nº 8.102, de 23 de outubro de 1941

@@ -1,5 +1,3 @@
-###DEL-003248-0-000-08-05-1941@@@
-
 DECRETO-LEI N. 3.248 – DE 8 DE MAIO DE 1941
 
 Modifica penalidades previstas no decreto n. 22.061, de 9 de novembro de 1932

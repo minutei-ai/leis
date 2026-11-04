@@ -1,5 +1,3 @@
-###DEC-044917-0-000-28-11-1958@@@
-
 DECRETO Nº 44.917, DE 28 DE NOVEMBRO DE 1958.
 
 Declara sem efeito o decreto número 36.616, de 20 de agôsto de 1953.
@@ -15,8 +13,6 @@ Rio de Janeiro, 28 de novembro de 1958; 137º da Independência e 70º da Repúb
 JUSCELINO KUBITSCHEK
 
 Mário Meneghetti
-
-###DEC-044917-0-000-28-11-1958@@@RET01+++
 
 DECRETO Nº 44.917, DE 28 DE NOVEMBRO DE 1958.
 

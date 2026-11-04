@@ -1,5 +1,3 @@
-###DEC-095518-0-000-18-12-1987@@@
-
 DECRETO Nº 95.518, DE 18 DE DEZEMBRO DE 1987
 
 Outorga à Jari Energética S.A. - JESA concessão para o aproveitamento da energia hidráulica de um trecho do rio Jari, no local denominado Cachoeira de Santo Antônio, entre os Municípios de Mazagão no Território Federal do Amapá, e Almeirim, no Estado do Pará.

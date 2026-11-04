@@ -1,5 +1,3 @@
-###DEL-008357-0-000-12-12-1945@@@
-
 DECRETO-LEI N. 8.357 – DE 12 DE DEZEMBRO DE 1945
 
 Cria função gratificada no Quadro Permanente do Ministério da Educação e Saúde e abre crédito especial.

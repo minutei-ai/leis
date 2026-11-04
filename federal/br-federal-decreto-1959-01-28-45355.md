@@ -1,5 +1,3 @@
-###DEC-045355-0-000-28-01-1959@@@
-
 Decreto nº 45.355, de 28 de janeiro de 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no município de Ribeiro Gonçalves, no Estado do Piauí.

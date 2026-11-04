@@ -1,5 +1,3 @@
-###DEC-076336-0-000-24-09-1975@@@
-
 DECRETO Nº 76.336 - DE 24 DE SETEMBRO DE 1975
 
 Fixa os preços mínimos básicos para financiamento ou aquisição de seda da safra de 1975-76, produzida nas Unidades da Federação que menciona.

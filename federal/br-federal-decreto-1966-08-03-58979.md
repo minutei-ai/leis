@@ -1,5 +1,3 @@
-###DEC-058979-0-000-03-08-1966@@@
-
 decreto nº 58.979, de 03 de agÔsto de 1966.
 
 Dá nova redação ao parágrafo 4º do artigo 2º do Decreto nº 37.396, de 26 de maio de 1955 e revoga o artigo 41 do Decreto nº 37.573, de 5 de julho de 1955.

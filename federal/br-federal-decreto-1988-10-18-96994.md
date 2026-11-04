@@ -1,5 +1,3 @@
-###DEC-096994-0-000-18-10-1988@@@
-
 DECRETO Nº 96.994, DE 18 DE OUTUBRO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação transformadora de distribuição Farani, da LIGHT - Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-070728-0-000-19-06-1972@@@
-
 DECRETO Nº 70.728, DE 19 DE JUNHO DE 1972.
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Educação da Universidade de Brasília.

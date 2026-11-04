@@ -1,26 +1,15 @@
-<br>
-<br>
-**LEI Nº 10.071 DE 19 DE JULHO DE 2023.**<br>
-<br>
-<br>
-<br>
+**LEI Nº 10.071 DE 19 DE JULHO DE 2023.**
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="100%"><b><font face="Arial">DISPÕE SOBRE AS DIRETRIZES PARA ELABORAÇÃO DA LEI DO ORÇAMENTO ANUAL DE 2024, E DÁ OUTRAS PROVIDÊNCIAS.</font></b></td></tr></tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="100%">**DISPÕE SOBRE AS DIRETRIZES PARA ELABORAÇÃO DA LEI DO ORÇAMENTO ANUAL DE 2024, E DÁ OUTRAS PROVIDÊNCIAS.**</td></tr></tbody></table>
 
-<br>
-<br>
-<br>
-**GOVERNADOR DO ESTADO DO RIO DE JANEIRO**<br>
+**GOVERNADOR DO ESTADO DO RIO DE JANEIRO**
+
 Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e eu sanciono a seguinte Lei:
-
-<br>
-<br>
 
 **CAPÍTULO I**
 
 **DISPOSIÇÕES PRELIMINARES**
 
-<br>
 **Art. 1º** Esta Lei estabelece as diretrizes orçamentárias do Estado para o exercício de 2024, em cumprimento ao disposto nos artigos 209, § 2º e 213, §1º, II, da Constituição Estadual e às normas contidas na Lei de Responsabilidade Fiscal - LRF, Lei Complementar Federal nº 101, de 4 de maio de 2000, compreendendo:
 
 **I** \- as metas e prioridades da administração pública estadual e seus projetos estratégicos consoante o Plano Estratégico de Desenvolvimento Econômico e Social do Estado do Rio de Janeiro - PEDES.
@@ -59,7 +48,6 @@ Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e e
 
 **§4º** Caso sejam verificadas alterações na projeção das receitas e das despesas primárias, decorrentes de alterações da legislação ou de mudanças nos parâmetros macroeconômicos utilizados para a estimativa das receitas e despesas que farão parte da PLOA 2024, as metas fiscais estabelecidas no Anexo II, a que se refere o inciso II deste artigo, poderão ser ajustadas, mediante justificativa, na PLOA 2024.
 
-<br>
 **CAPÍTULO II**
 
 **DAS DIRETRIZES PARA A ELABORAÇÃO DA LEI DO ORÇAMENTO ANUAL PARA O EXERCÍCIO DE 2024**
@@ -68,7 +56,6 @@ Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e e
 
 **DAS DIRETRIZES GERAIS**
 
-<br>
 **Art. 3º** A coleta de dados das propostas orçamentárias dos órgãos, entidades e fundos especiais dos Poderes do Estado, seu processamento e sua consolidação na PLOA 2024, bem como as alterações da LOA 2024 serão feitos por meio do Sistema de Inteligência em Planejamento e Gestão - SIPLAG.
 
 **Art. 4º** A LOA 2024 abrangerá o Orçamento Fiscal e o da Seguridade Social referentes à Administração Direta e Indireta, dos Poderes, seus fundos, autarquias e fundações instituídas e mantidas pelo Poder Público e o Orçamento de Investimento das empresas públicas e sociedades de economia mista, inclusive agência estadual oficial de fomento em que o Estado, direta ou indiretamente, detenha a maioria do capital social com direito a voto e que se enquadrem no artigo 16, parágrafo único, desta Lei.
@@ -121,30 +108,26 @@ Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e e
 
 **§ 1º** O Projeto de Lei de que trata o caput deste artigo deverá estar acompanhado do estudo de impacto orçamentário-financeiro elaborado pelo Poder Executivo, consoante o art. 113 do Ato das Disposições Constitucionais Transitória – ADCT da Constituição Federal e do artigo 14 da Lei de Responsabilidade Fiscal, devendo ser publicado no sítio eletrônico do Governo do Estado do Rio de Janeiro.
 
-**§ 2º**. O Poder Executivo, conforme determina o artigo 1º da Lei nº 8.445, de 03 de julho de 2019, fará anualmente a avaliação das contrapartidas decorrentes dos incentivos fiscais em vigência.<br>
+**§ 2º**. O Poder Executivo, conforme determina o artigo 1º da Lei nº 8.445, de 03 de julho de 2019, fará anualmente a avaliação das contrapartidas decorrentes dos incentivos fiscais em vigência.
 
 **Art. 13** O Poder Executivo e os demais Poderes informarão e disponibilizarão com atualização nos termos da Lei Estadual nº 5.006, de 27 de março de 2007, bem como da LRF e de suas alterações decorrentes da Lei Complementar Federal nº 131, de 27 de maio de 2009, inclusive por meio do sítio eletrônico da Secretaria de Estado de Fazenda do Estado do Rio de Janeiro – SEFAZ, a relação completa das entidades beneficiadas com recursos públicos na forma dos artigos 11 e 12 desta Lei.
 
 **Art. 14** As despesas com amortização, juros e outros encargos da Dívida Pública Estadual deverão considerar apenas as operações contratadas ou autorizações concedidas, nos termos homologados no Regime de Recuperação Fiscal.
 
-<br>
 **Seção II**
 
 **DO ORÇAMENTO DA SEGURIDADE SOCIAL**
 
-<br>
 **Art. 15** O Orçamento da Seguridade Social compreenderá as dotações destinadas a atender às ações nas áreas de saúde, previdência e assistência social e obedecerá ao disposto nos artigos 284, 287 e 305 da Constituição Estadual, abrangendo, entre outros, os recursos provenientes de receitas próprias dos órgãos, entidades e fundos especiais que, por sua natureza, devam integrar o orçamento de que trata este artigo.
 
 **§1º** A transferência de recursos da União para execução descentralizada das ações de saúde deverá ser de conhecimento público e fiscalizada pelo poder competente.
 
 **§2º** As informações que versam no caput do artigo 15 devem ser amplamente divulgadas no portal da transparência do Estado do Rio de Janeiro, em local de destaque e fácil acesso à busca.
 
-<br>
 **Seção III**
 
 **DO ORÇAMENTO DE INVESTIMENTO**
 
-<br>
 **Art. 16** O Orçamento de Investimento compreenderá as empresas públicas e sociedades de economia mista classificadas como não dependentes, que poderão utilizar sistema próprio para o registro da sua gestão orçamentária, financeira e patrimonial.
 
 **Parágrafo Único.** Compreende-se por empresa estatal não dependente as Empresas Públicas e Sociedades de Economia Mista que recebam recursos do tesouro estadual somente em virtude de:
@@ -203,14 +186,11 @@ Faço saber que a Assembleia Legislativa do Estado do Rio de Janeiro decreta e e
 
 **§2º** A parcela do PDG referente aos investimentos será detalhada no Orçamento de Investimentos que comporá a LOA - 2024, na forma prevista no artigo 21 desta Lei.
 
-**§3º** **V E T A D O .**
+**§3ºV E T A D O .**
 
-<br>
 **Seção IV**
 
 **DA ESTRUTURA E DA ORGANIZAÇÃO DO ORÇAMENTO ANUAL**
-
-<br>
 
 **Art. 20** Os Orçamentos Fiscal e da Seguridade Social compreenderão o conjunto das receitas públicas, bem como das despesas, dos Poderes, do Ministério Público do Estado e da Defensoria Pública do Estado, seus fundos, órgãos, autarquias, inclusive especiais, e fundações instituídas e mantidas pelo Poder Público, bem como das empresas estatais dependentes, devendo a correspondente execução orçamentária e financeira, da receita e da despesa, ser registrada no Sistema de Gestão Orçamentária, Financeira e Contábil do Governo do Estado do Rio de Janeiro - Siafe-Rio.
 
@@ -332,33 +312,34 @@ p) **V E T A D O .**
 
 q) **V E T A D O .**
 
-r) **V E T A D O .**<br>
+r) **V E T A D O .**
+
 **Parágrafo Único.** As bases de dados de receita e despesa da LOA 2024 serão disponibilizadas no sítio eletrônico do Governo Estadual.
 
 **Art. 24** O PLOA 2024 deverá conter programas de trabalho específicos, no total mínimo de 0,37% (zero vírgula trinta e sete por cento) da receita de impostos líquida, excluindo as transferências aos Municípios, para servir como compensação às emendas apresentadas pela Assembleia Legislativa do Estado do Rio de Janeiro.
 
-**Parágrafo Único.** As emendas ao projeto de lei do orçamento anual ou aos projetos que o modifiquem, somente podem ser aprovadas caso:<br>
-**I** \- sejam compatíveis com o plano plurianual e com a lei de diretrizes orçamentárias;<br>
-<br>
-**II** \- indiquem os recursos necessários, admitidos apenas os provenientes de anulação de despesa, excluídas as que incidam sobre:<br>
-a) dotações para pessoal e seus encargos;<br>
-<br>
-b) serviço da dívida; e<br>
-<br>
-c) transferências tributárias constitucionais para Municípios;<br>
-<br>
-**III** - sejam relacionadas:<br>
-a) com a correção de erros ou omissões; ou<br>
-<br>
-b) com os dispositivos do texto do projeto de lei.<br>
-<br>
+**Parágrafo Único.** As emendas ao projeto de lei do orçamento anual ou aos projetos que o modifiquem, somente podem ser aprovadas caso:
 
-<br>
+**I** \- sejam compatíveis com o plano plurianual e com a lei de diretrizes orçamentárias;
+
+**II** \- indiquem os recursos necessários, admitidos apenas os provenientes de anulação de despesa, excluídas as que incidam sobre:
+
+a) dotações para pessoal e seus encargos;
+
+b) serviço da dívida; e
+
+c) transferências tributárias constitucionais para Municípios;
+
+**III** - sejam relacionadas:
+
+a) com a correção de erros ou omissões; ou
+
+b) com os dispositivos do texto do projeto de lei.
+
 **CAPÍTULO III**
 
 **DA POLÍTICA PARA APLICAÇÃO DOS RECURSOS DA AGÊNCIA FINANCEIRA OFICIAL DE FOMENTO**
 
-<br>
 **Art. 25** A Agência Estadual de Fomento do Rio de Janeiro – AgeRio deverá observar, na concessão de financiamento, entre outras diretrizes:
 
 **I -** atendimento a jovens e mulheres microempreendedores, microempreendedores individuais, micro, pequenas e médias empresas, bem como a micro, pequenos e médios produtores rurais, agricultores familiares, agricultores urbanos, cooperativas de reciclagem e empreendimentos populares solidários devidamente cadastrados no Cadastro de Empreendimentos Econômicos Solidários (CADSOL);
@@ -377,24 +358,20 @@ b) com os dispositivos do texto do projeto de lei.<br>
 
 **§2º** A AgeRio divulgará em seu portal de transparência, nos sítios eletrônicos a que se refere o §2º do artigo 8º da Lei Federal nº 12.527, de 18 de novembro de 2011 e parágrafo único do artigo 7º da Lei Estadual nº 4.534, de 04 de abril de 2005, e suas atualizações, detalhamento, em nível adequado ao ordenamento jurídico, de informações sobre os programas, ações, projetos, obras e atividades financiados com a captação de recursos oriundos de suas operações de créditos originados de recursos públicos.
 
-<br>
 **CAPÍTULO IV**
 
 **DAS ALTERAÇÕES NA LEGISLAÇÃO TRIBUTÁRIA**
 
-<br>
 **Art. 26** O Poder Executivo considerará na estimativa da receita orçamentária as medidas que venham a ser adotadas para a expansão da arrecadação tributária estadual, bem como modificações constitucionais da legislação tributária estadual e nacional.
 
 **§1º** A justificativa ou mensagem que acompanhe o projeto de lei de alteração da legislação tributária discriminará os recursos esperados em decorrência da alteração proposta, devendo o projeto sempre respeitar o princípio da anterioridade de exercício e o nonagesimal, além da demonstração do impacto orçamentário - financeiro, consoante o artigo 113 do ADCT (CF/88) e do artigo 14 da LRF.
 
 **§2º** Caso as alterações não sejam aprovadas, as despesas correspondentes, se contempladas na LOA 2024, terão suas realizações canceladas mediante decreto do Poder Executivo.
 
-<br>
 **CAPÍTULO V**
 
 **DAS DIRETRIZES PARA DESPESAS COM PESSOAL E ENCARGOS SOCIAIS**
 
-<br>
 **Art. 27** Para os fins do disposto no caput do artigo 169 da Constituição Federal e conforme estabelecido nos artigos 18 e 19 da LRF, a despesa total com pessoal, em cada período, não poderá exceder 60% (sessenta por cento) da receita corrente líquida.
 
 **§1º** Os valores dos contratos de terceirização de mão-de-obra que se referem à substituição de servidores e empregados públicos serão contabilizados como "Outras Despesas de Pessoal" e integram os limites indicados no caput deste artigo.
@@ -409,7 +386,6 @@ b) com os dispositivos do texto do projeto de lei.<br>
 
 **Art. 28.** Os órgãos e entidades dos Poderes Executivo, Legislativo, Judiciário, inclusive o Ministério Público Estadual, o Tribunal de Contas e a Defensoria Pública Estadual, deverão considerar como base para a projeção das despesas de pessoal e encargos sociais na Proposta Orçamentária para 2024, a despesa efetivamente realizada com a folha de pagamento nos 12 (doze) meses anteriores ao envio da Proposta Orçamentária e os acréscimos aprovados para o próximo exercício.
 
-<br>
 **CAPÍTULO VI**
 
 **DAS DIRETRIZES PARA A EXECUÇÃO, AVALIAÇÃO E CONTROLE DO ORÇAMENTO**
@@ -418,7 +394,6 @@ b) com os dispositivos do texto do projeto de lei.<br>
 
 **DAS DIRETRIZES GERAIS**
 
-<br>
 **Art. 29** A criação, expansão ou aperfeiçoamento de ação governamental que venha a ser acrescida à execução orçamentária de 2024, a qualquer tempo, deverá atender ao disposto nos incisos I e II, do artigo 16 da LRF e demais normas pertinentes à administração orçamentária e financeira.
 
 **Art. 30** Entendem-se como despesas irrelevantes, para fins de atendimento ao que dispõe o artigo 16, § 3º, da LRF, as despesas cujo valor não ultrapasse os limites fixados no artigo 24, I e II, da Lei Federal nº 8.666, de 21 de junho de 1993.
@@ -429,12 +404,10 @@ b) com os dispositivos do texto do projeto de lei.<br>
 
 **§2º** Aplicam-se às entidades referidas neste artigo, no tocante à execução descentralizada dos créditos, as disposições da Lei Federal nº 4.320/1964, da Lei Estadual nº 287, de 4 de dezembro de 1979 e demais normas pertinentes à administração orçamentário financeira.
 
-<br>
 **Seção II**
 
 **DAS DIRETRIZES PARA O EQUILÍBRIO ENTRE RECEITAS E DESPESAS E LIMITAÇÃO DE EMPENHO**
 
-<br>
 **Art. 32** Se, ao final de cada bimestre, a realização da receita demonstrar que não comporta o cumprimento das metas de resultado primário ou nominal estabelecidas no anexo de metas fiscais, os Poderes, inclusive o Tribunal de Contas, o Ministério Público e a Defensoria Pública, promoverão, por ato próprio e nos montantes necessários, nos trinta dias subsequentes, limitação de empenho e movimentação financeira, excluídos os recursos destinados às despesas que se constituem em obrigações constitucionais ou legais de execução, de acordo com os seguintes procedimentos abaixo:
 
 **I -** o Poder Executivo demonstrará aos demais Poderes, inclusive ao Tribunal de Contas do Estado, ao Ministério Público e à Defensoria Pública, acompanhado das devidas justificativas, metodologia e memória de cálculo, o montante que caberá a cada um na limitação de empenho e de movimentação financeira;
@@ -449,12 +422,10 @@ b) com os dispositivos do texto do projeto de lei.<br>
 
 **Art. 34** O Poder Executivo fica autorizado a realizar auditoria e revisão da dívida consolidada pública estadual.
 
-<br>
 **Seção III**
 
 **DA EXECUÇÃO ANTECIPADA DO ORÇAMENTO ANUAL**
 
-<br>
 **Art. 35** A programação orçamentária constante do PLOA 2024 poderá ser utilizada como base para o atendimento da execução das receitas previstas e para a execução das despesas desde o início do exercício fiscal de 2024 até 30 (trinta) dias após a sanção da LOA 2024.
 
 **I -** poderá ser antecipado para execução, mensalmente, no mínimo 1/12 (um doze avos) do valor da dotação inicial de cada item da programação constante do PLOA 2024 e até o limite desta dotação inicial para cada uma das unidades orçamentárias.
@@ -485,12 +456,10 @@ i) demais despesas justificadas como inadiáveis que, se não empenhadas, causar
 
 **§3º -** Aplicam-se à Execução Antecipada do Orçamento Anual, no que couber, os demais artigos desta Lei e das demais legislações orçamentárias e financeiras em vigor.
 
-<br>
 **CAPÍTULO VII**
 
 **DAS DIRETRIZES FINAIS**
 
-<br>
 **Art. 36** A concretização das metas e prioridades elencadas no Anexo I está condicionada às restrições e limites previstos no Regime de Recuperação Fiscal, ao limite de despesa de pessoal estabelecido no artigo 27 da presente lei, bem como ao crescimento real da receita corrente líquida do Estado, considerada a variação do Índice Nacional de Preços ao Consumidor Amplo -IPCA, acrescida em quatro por cento, relativamente ao exercício de 2023.
 
 **Art. 37** O Projeto de Lei Orçamentária de 2024 e o Projeto de Lei do Plano Plurianual de 2024-2027 deverão ser encaminhados pelo Poder Executivo à Assembleia Legislativa para apreciação até 30 de setembro de 2023.
@@ -517,11 +486,8 @@ i) demais despesas justificadas como inadiáveis que, se não empenhadas, causar
 
 **Art. 46** Esta Lei entrará em vigor na data de sua publicação.
 
-Rio de Janeiro, 19 de julho de 2023.<br>
-<br>
-<br>
-**CLAUDIO CASTRO**<br>
-**Governador**
+Rio de Janeiro, 19 de julho de 2023.
 
-<br>
-<br>
+**CLAUDIO CASTRO**
+
+**Governador**

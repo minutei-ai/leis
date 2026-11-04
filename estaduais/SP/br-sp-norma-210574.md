@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210574)<br>
-
 # DECRETO N° 69.344, DE 06 DE FEVEREIRO DE 2025
 
 ### _Autoriza a outorga de uso, à Fundação Faculdade Regional de Medicina de São José do Rio Preto - FUNFARME, do imóvel que especifica, e dá providências correlatas._

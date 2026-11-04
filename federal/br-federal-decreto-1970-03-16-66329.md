@@ -1,5 +1,3 @@
-###DEC-066329-0-000-16-03-1970@@@
-
 decreto nº 66.329 - de 16 de março de 1970
 
 Autoriza o Ministério da Agricultura a ceder, nas condições que menciona, imóveis sob sua jurisdição.

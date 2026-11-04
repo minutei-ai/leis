@@ -1,7 +1,3 @@
-1
-
-###DEC-000954-0-000-08-10-1993@@@
-
 DECRETO N° 954, DE 8 DE OUTUBRO DE 1993
 
 Dispõe sobre a suspensão, no território nacional, da execução das Resoluções MRE/Res.1/91, MRE/Res.2/91 e MRE/ Res.3/92, adotadas pela Reunião “ad hoc” de Ministros das Relações Exteriores dos países membros da Organização dos Estados Americanos.

@@ -1,5 +1,3 @@
-###DEC-086480-0-000-14-10-1981@@@
-
 DECRETO Nº 86.480 DE 14 DE OUTUBRO DE 1981.
 
 Concede autorização ao baleeiro VDUMCHIVYII-34 para realizar, no mar territorial do Brasil, os serviços que especifica.

@@ -1,5 +1,3 @@
-###DEC-096239-0-000-30-06-1988@@@
-
 DECRETO N° 96.239, DE 30 DE JUNHO DE 1988.
 
 Dispõe sobre a execução do Décimo Sétimo Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no período 1962/80, subscrito entre o Brasil e a Argentina (Acordo n° 1).

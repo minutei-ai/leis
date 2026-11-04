@@ -1,5 +1,3 @@
-###DEC-090963-0-000-14-02-1985@@@
-
 DECRETO Nº 90.963, DE 14 DE FEVEREIRO DE 1985
 
 Outorga concessão à TELEVISÃO SOROCABA LTDA., para explorar serviço de radiodifusão sons e imagens (televisão), na cidade de Sorocaba, Estado de São Paulo.

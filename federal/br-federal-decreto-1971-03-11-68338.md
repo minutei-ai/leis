@@ -1,5 +1,3 @@
-###DEC-068338-0-000-11-03-1971@@@
-
 DECRETO Nº 68.338, DE 11 DE MARÇO DE 1971.
 
 Concede reconhecimento ao Curso de Administração Pública da Faculdade de Ciências Políticas e Econômicas da P.U.C. do Rio Grande do Sul.

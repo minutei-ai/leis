@@ -1,5 +1,3 @@
-###DEL-009597-0-000-16-08-1946@@@
-
 DECRETO-LEI N. 9.597 – DE 16 DE AGÔSTO DE 1946
 
 Suspende até 31 de Dezembro de 1946 a cobrança dos direitos de importação e taxas aduaneiras que incidem sôbre sucata de ferro e aço.

@@ -1,5 +1,3 @@
-###DEC-005499-0-000-25-07-2005@@@
-
 DECRETO Nº 5.499, DE 25 DE JULHO DE 2005.
 
        Dá nova redação aos arts. 18, 19, 27 e 41 do Decreto no 5.163, de 30 de julho de 2004, que regulamenta a comercialização de energia elétrica, o processo de outorga de concessões e de autorizações de geração de energia elétrica.
@@ -43,5 +41,3 @@ Brasília, 25 de julho de 2005; 184o da Independência e 117o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Silas Rondeau Cavalcante Silva
-
-Este texto não substitui o publicado no DOU de 26.7.2005

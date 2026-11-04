@@ -1,5 +1,3 @@
-###DEC-076331-0-000-24-09-1975@@@
-
 DECRETO Nº 76.331 - DE 24 DE SETEMBRO DE 1975
 
 Retifica a concessão de lavra outorgada à Indústria e Comércio de Mármores Brasileiro - MARBRAS Ltda., pelo Decreto nº 72.679, de 22 de agosto de 1973.

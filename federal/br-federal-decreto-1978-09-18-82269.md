@@ -1,5 +1,3 @@
-###DEC-082269-0-000-18-09-1978@@@
-
 Decreto nº 82.269, de 18 de setembro de 1978.
 
 Confisca bens de JORGE MEDEIROS VALLE para reparação de danos causados ao patrimônio do Banco do Brasil S.A. e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-094513-0-000-24-06-1987@@@
-
 DECRETO N° 94.513, DE 24 DE JUNHO DE 1987.
 
 Promulga o Acordo Básico de Cooperação Científica e Tecnológica entre o Brasil e a Alemanha Democrática.

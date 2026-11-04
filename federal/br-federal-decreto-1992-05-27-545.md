@@ -1,7 +1,3 @@
-1
-
-###DEC-000545-0-000-27-05-1992@@@
-
 DECRETO Nº 545, DE 27 DE MAIO DE 1992
 
 Dispõe sobre a execução do Terceiro Protocolo Adicional ao Acordo Comercial nº 1, no Setor de Máquinas Estatísticas e Semelhantes, entre Brasil, Chile e México.

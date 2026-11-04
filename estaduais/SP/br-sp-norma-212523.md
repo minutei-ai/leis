@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212523)<br>
-
 # ATO DO PRESIDENTE N° 55, DE 30 DE ABRIL DE 2026
 
 ### _Disciplina a apresentação, na fase de Pauta, de emendas ao Projeto de Lei n° 407, de 2026, que dispõe sobre as Diretrizes Orçamentárias para o exercício de 2027._

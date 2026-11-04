@@ -1,5 +1,3 @@
-###DEC-089801-0-000-14-06-1984@@@
-
 Decreto nº 89.801, de 14 de junho de 1984
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação transformadora de distribuição SIMUS da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-079756-0-000-31-05-1977@@@
-
 DECRETO Nº 79.756, DE 31 DE MAIO DE 1977.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

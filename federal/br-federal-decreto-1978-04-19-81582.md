@@ -1,5 +1,3 @@
-###DEC-081582-0-000-19-04-1978@@@
-
 Decreto n.º 81.582, de 19 de abril de 1978.
 
 Renova prazo de concessão outorgada à empresa "Eletro Quimica Brasileira Sociedade Anonima", atual Alcan Alumínio do Brasil S.A., para uso exclusivo do aproveitamento da enérgia hidráulica dos desníveis denominados Cachoeira da Brecha e Jurumirim, existentes no rio Piranga, no Município de Guaraciaba, ex-Distrito de Guaraciaba, Estado de Minas Gerais.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000349-0-000-21-11-1991@@@
-
 DECRETO Nº 349, DE 21 DE NOVEMBRO DE 1991
 
 Altera o Decreto nº 5, de 14 de janeiro de 1991, que dispõe sobre o Programa de Alimentação do Trabalhador.

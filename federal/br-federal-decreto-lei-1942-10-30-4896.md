@@ -1,5 +1,3 @@
-###DEL-004896-0-000-30-10-1942@@@
-
 DECRETO-LEI N. 4.896 – DE 30 DE OUTUBRO DE 1942
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito especial de 50:000$0 para despesas com a instalação e o aparelhamento da Tesouraria e da Contadoria Seccional (Material).

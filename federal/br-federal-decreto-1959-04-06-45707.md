@@ -1,5 +1,3 @@
-###DEC-045707-0-000-06-04-1959@@@
-
 DECRETO Nº 45.707, DE 6 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro José Monteiro de Rezende a pesquisar mica, feldspato, caulim e associados, no município de Bicas, Estado de Minas Gerais.

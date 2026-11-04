@@ -1,5 +1,3 @@
-###DEC-004235-0-000-17-05-2002@@@
-
 DECRETO Nº 4.235, DE 17 DE MAIO DE 2002
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Coréia sobre Isenção de Vistos.

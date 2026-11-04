@@ -1,5 +1,3 @@
-###DEC-055894-0-000-01-04-1965@@@
-
 DECRETO Nº 55.894, DE 1 DE ABRIL DE 1965.
 
 Declara de utilidade pública uma faixa de terra destinada à passagem de linha de transmissão, bem como área destinada à localização da sub-estação.

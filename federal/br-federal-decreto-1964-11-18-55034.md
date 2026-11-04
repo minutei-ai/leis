@@ -1,5 +1,3 @@
-###DEC-055034-0-000-18-11-1964@@@
-
 DECRETO Nº 55.034, DE 18 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Túlio Guimarães da Gama, a lavrar minérios de ferro, de manganês, e calcáreo dolomítico no município de Itabirito, Estado de Minas Gerais.

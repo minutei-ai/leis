@@ -1,5 +1,3 @@
-###DEC-082761-0-000-29-11-1978@@@
-
 Decreto nº 82.761, de 29 de novembro de 1978.
 
 Concede à Itapessoca Agro-Industrial S.A. o direito de lavrar gipsita no Município de Ipubi, Estado de Pernambuco.

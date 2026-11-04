@@ -1,5 +1,3 @@
-###DEC-089616-0-000-04-05-1984@@@
-
 DECRETO Nº 89.616 DE 04 DE MAIO DE 1984
 
 Autoriza o funcionamento do curso de Enfermagem e Obstetrícia da Faculdade de Enfermagem de Santos.

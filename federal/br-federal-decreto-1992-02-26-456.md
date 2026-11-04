@@ -1,7 +1,3 @@
-1
-
-###DEC-000456-0-000-26-02-1992@@@
-
 DECRETO N° 456, DE 26 DE FEVEREIRO DE 1992
 
 Regulamenta a Lei n° 8.388, de 30 de dezembro de 1991, que "Estabelece diretrizes para que a União possa realizar a consolidação e o reescalonamento de dívidas de responsabilidade das administrações direta e indireta dos Estados, do Distrito Federal e dos Municípios".

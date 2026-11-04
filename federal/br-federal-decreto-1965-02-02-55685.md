@@ -1,5 +1,3 @@
-###DEC-055685-0-000-02-02-1965@@@
-
 DECRETO Nº 55.685, DE 2 DE FEVEREIRO DE 1965.
 
 Autoriza o cidadão brasileiro Antônio Pinto de Moraes a pesquisar feldspato e quartzo no município de Socorro, Estado de São Paulo.

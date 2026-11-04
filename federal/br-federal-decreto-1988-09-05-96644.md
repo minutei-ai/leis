@@ -1,5 +1,3 @@
-###DEC-096644-0-000-05-09-1988@@@
-
 DECRETO N° 96.644, DE 5 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO MORENO BRAGA LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Vigia, Estado do Pará.

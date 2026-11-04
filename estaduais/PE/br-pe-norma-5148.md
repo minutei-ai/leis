@@ -130,22 +130,38 @@ FRANCISCO TADEU BARBOSA DE ALENCAR
 
 **EXTINÇÃO DE CARGOS COMISSIONADOS**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="512" style="width:384.1pt;border-collapse:collapse;border:none"><tbody><tr><td width="25%" style="width:25.0%;border:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">SÍMBOLO</span></p></td><td width="49%" style="width:49.98%;border:solid black 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">DENOMINAÇÃO</span></p></td><td width="25%" style="width:25.02%;border:solid black 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm"><h1><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  font-weight:normal">QUANTITATIVO</span></h1></td></tr><tr><td width="25%" style="width:25.0%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CDA-4</span></p></td><td width="49%" style="width:49.98%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Direção Superior-4</span></p></td><td width="25%" style="width:25.02%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td></tr><tr><td width="25%" style="width:25.0%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CAA-2</span></p></td><td width="49%" style="width:49.98%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Cargo Apoio e Assessoramento-2</span></p></td><td width="25%" style="width:25.02%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">13</span></p></td></tr><tr><td width="25%" style="width:25.0%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CAA-3</span></p></td><td width="49%" style="width:49.98%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Cargo Apoio e Assessoramento-3</span></p></td><td width="25%" style="width:25.02%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">39</span></p></td></tr><tr><td width="25%" style="width:25.0%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">CAA-5</span></p></td><td width="49%" style="width:49.98%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Cargo Apoio e Assessoramento-5</span></p></td><td width="25%" style="width:25.02%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">13</span></p></td></tr><tr><td width="25%" style="width:25.0%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">TOTAL</span></p></td><td width="49%" style="width:49.98%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">-</span></p></td><td width="25%" style="width:25.02%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">66</span></p></td></tr></tbody></table>
+SÍMBOLO
+
+DENOMINAÇÃO
+
+# QUANTITATIVO
+
+CDA-4
+
+Direção Superior-4
+
+01
+
+CAA-2
+
+Cargo Apoio e Assessoramento-2
+
+13
+
+CAA-3
+
+Cargo Apoio e Assessoramento-3
+
+39
+
+CAA-5
+
+Cargo Apoio e Assessoramento-5
+
+13
+
+TOTAL
+
+-
+
+66

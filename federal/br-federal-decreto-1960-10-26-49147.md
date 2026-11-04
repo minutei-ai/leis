@@ -1,5 +1,3 @@
-###DEC-049147-0-000-26-10-1960@@@
-
 DECRETO Nº 49.147, DE 26 DE outubro DE 1960.
 
 Abre ao Ministério da Educação e Cultura, o crédito especial de Cr$5.000.000.00 (cinco milhões de cruzeiros) para atender às despesas com o VI Congresso Interamericano de Cardiologia, realizado em agosto de 1960.

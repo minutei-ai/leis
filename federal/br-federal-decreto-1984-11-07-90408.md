@@ -1,5 +1,3 @@
-###DEC-090408-0-000-07-11-1984@@@
-
 Decreto nº 90.408, de 07 de novembro de 1984
 
 Altera o Decreto nº 59.820, de 20 de dezembro de 1966, que regulamenta o Fundo de Garantia do Tempo de Serviço (FGTS).

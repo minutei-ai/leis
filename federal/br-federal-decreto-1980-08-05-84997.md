@@ -1,5 +1,3 @@
-###DEC-084997-0-000-05-08-1980@@@
-
 Decreto nº 84.997, de 05 de agosto de 1980.
 
 Dispõe sobre a aplicação de recursos atribuídos, no corrente exercício, à Companhia de Pesquisa de Recursos Minerais (CPRM).

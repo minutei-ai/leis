@@ -1,5 +1,3 @@
-###DEC-059851-0-000-23-12-1966@@@
-
 DECRETO Nº 59.851, de 23 DE DEZEMBRO DE 1966.
 
 Concede autorização para funcionar como emprêsa de energia elétrica a Centrais Elétricas de São Paulo S. A. – CESP.

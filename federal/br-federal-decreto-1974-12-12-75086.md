@@ -1,5 +1,3 @@
-###DEC-075086-0-000-12-12-1974@@@
-
 DECRETO Nº 75.086, de12 de Dezembro de 1974.
 
 Prorroga o prazo de existência do Grupo de Trabalho Especial, criado pelo Decreto n.º68.267, de 18 de fevereiro de 1971, para promover o projetamento, o desenvolvimento e a construção de um protótipo de computador eletrônico, para emprego em operações navais.

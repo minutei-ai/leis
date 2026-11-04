@@ -1,5 +1,3 @@
-###DEC-057478-0-000-20-12-1965@@@
-
 Decreto nº 57.478, de 20 de Dezembro de 1965.
 
 Declara de utilidade pública, para efeitos de desapropriação o prédio residencial, sito na rua Barão do Ladário nº 436, Bairro de Brooklin, na cidade de São Paulo, Estado de São Paulo.

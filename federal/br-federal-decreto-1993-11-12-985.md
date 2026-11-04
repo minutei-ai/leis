@@ -1,7 +1,3 @@
-1
-
-###DEC-000985-0-000-12-11-1993@@@
-
 DECRETO N° 985, DE 12 DE NOVEMBRO DE 1993
 
 Altera as alíquotas do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - (IO).

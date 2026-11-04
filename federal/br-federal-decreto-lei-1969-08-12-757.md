@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/9ea85fd4-118d-4666-9923-b33f59856d5c/texto#nowhere)
 
-###DEL-000757-0-000-12-08-1969@@@
-
 DECRETO-LEI Nº 757, DE 12 DE AGÔSTO DE 1969
 
 Altera dispositivo da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei nº 5.452, de 1º de maio de 1943.

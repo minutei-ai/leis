@@ -1,7 +1,3 @@
-1
-
-###DEC-002046-0-000-24-10-1996@@@
-
 DECRETO Nº 2.046, DE 24 DE OUTUBRO DE 1996.
 
 Promulga o Acordo de Sede, celebrado entre o Governo da República Federativa do Brasil e a Corporação Andina de Fomento, em Brasília, em 1º de dezembro de 1995.

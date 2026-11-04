@@ -1,5 +1,3 @@
-###MPV-000544-0-000-29-09-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 544, DE 29 DE SETEMBRO DE 2011.
 
 Estabelece normas especiais para as compras, as contratações de produtos, de sistemas de defesa, e de desenvolvimento de produtos e de sistemas de defesa, e dispõe sobre regras de incentivo à área estratégica de defesa e dá outras providências.

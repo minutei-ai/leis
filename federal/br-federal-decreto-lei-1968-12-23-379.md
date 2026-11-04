@@ -1,5 +1,3 @@
-###DEL-000379-0-000-23-12-1968@@@
-
 DECRETO-lei Nº 379, DE 23 DE DEZEMBRO DE 1968
 
 Altera a denominação de estabelecimento de ensino superior e dá outras providências.

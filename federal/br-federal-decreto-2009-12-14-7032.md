@@ -1,5 +1,3 @@
-###DEC-007032-0-000-14-12-2009@@@
-
 DECRETO Nº 7.032, DE 14 DE DEZEMBRO DE 2009.
 
 Dá nova redação a dispositivos do Decreto no 6.890, de 29 de junho de 2009, que altera a Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto no 6.006, de 28 de dezembro de 2006.

@@ -1,5 +1,3 @@
-###DEC-071025-0-000-28-08-1972@@@
-
 DECRETO Nº 71.025, DE 28 DE AGOSTO DE 1972.
 
 Torna sem efeito aproveitamento de disponíveis e dá outras providências.

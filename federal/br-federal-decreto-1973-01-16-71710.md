@@ -1,5 +1,3 @@
-###DEC-071710-0-000-16-01-1973@@@
-
 DECRETO N.° 71.710, DE 16 DE JANEIRO DE 1973.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Estado da Guanabara.

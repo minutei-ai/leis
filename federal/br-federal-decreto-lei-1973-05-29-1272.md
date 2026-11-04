@@ -1,5 +1,3 @@
-###DEL-001272-0-000-29-05-1973@@@
-
 # decreto-LEI Nº 1.272, DE 29 DE MAIO DE 1973
 
 Declara de interesse da Segurança Nacional, nos termos do artigo 15, § 1º, alínea b, da Constituição, os Municípios de São João dos Patos, do Estado do Maranhão, e Guadalupe, do Estado do Piauí, e dá outras providências.

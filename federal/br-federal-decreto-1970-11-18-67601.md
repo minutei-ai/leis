@@ -1,5 +1,3 @@
-###DEC-067601-0-000-18-11-1970@@@
-
 Decreto nº 67.601, de 18 de novembro de 1970.
 
 Concede à MIPLA - Mineradora Planalto de Poços de Caldas S.A. o direito de lavrar argila, no município de Poços de Caldas, Estado de Minas Gerais.

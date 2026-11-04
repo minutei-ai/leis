@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, no exercício da competência que lhe foi deleg
 
 Art. 1º - Fica reorganizada, na forma indicada na presente lei, a Secretaria da Indústria e Comércio - SIC, que passa a se denominar Secretaria da Indústria, Comércio e Turismo - SIC.
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 FINALIDADE E COMPETÊNCIA DA SECRETARIA
 
 Art. 2º- A Secretaria da Indústria, Comércio e Turismo tem por finalidade formular e executar a política governamental de desenvolvimento e apoio à indústria, ao comércio e ao turismo do Estado, competindo-lhe:
@@ -43,7 +44,8 @@ XV - prover, em articulação com instituições públicas e privadas, a infra-e
 
 XVI - exercer outras atividades correlatas.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 ESTRUTURA DA SECRETARIA
 
 Art. 3º - A Secretaria da Indústria, Comércio e Turismo tem a seguinte estrutura:
@@ -78,7 +80,8 @@ II - Entidades da Administração Descentralizada
 
 6.Bahia-Álcool - Empreendimentos Energéticos e Agroindustriais S/A;
 
-Redação de acordo com a Lei Delegada nº 48, de 16 de maio de 1983.<br>
+Redação de acordo com a Lei Delegada nº 48, de 16 de maio de 1983.
+
 Redação original: "6. Bahia-Álcool - Empreendimentos Industriais e Agroindustriais S/A"
 
 7.Frigoríficos Matadouros Salvador S/A - FRIMASA
@@ -93,7 +96,8 @@ Redação original: "6. Bahia-Álcool - Empreendimentos Industriais e Agroindust
 
 Art. 4º - O assessoramento jurídico aos órgãos da administração centralizada da Secretaria cabe à Procuradoria Geral do Estado.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 COMPETÊNCIA DOS ÓRGÂOS E ENTIDADES DA SECRETARIA
 
 Art. 5º - Ao Gabinete do Secretário, que presta assistência ao titular da pasta no desempenho de suas atribuições, compete:
@@ -178,7 +182,8 @@ Art. 11 - O Conselho de Desenvolvimento Industrial, que sugere as diretrizes do 
 
 Art. 12 - As entidades da administração descentralizada vinculadas à Secretaria da Indústria, Comércio e Turismo, têm sua finalidade e competência estabelecidas na legislação específica e sua supervisão e controle far-se-ão nos termos do § 2º do artigo 8º da Lei nº 2.321 de 11 de abril de 1966.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 13 - O Estado, por intermédio da Secretaria da Indústria, Comércio e Turismo, participará, na forma legal, da constituição e administração de sociedades que desempenhem atividades de tratamento de efluentes líquidos e de apoio à exportação, à pequena e média empresa e ao turismo.
@@ -189,7 +194,8 @@ Art. 15 - Art. 15 - Fica o Estado autorizado a transferir, observadas as disposi
 
 Art. 16 - Fica o Estado autorizado a proceder, observadas as disposições legais que regem a matéria, às alterações que julgar necessárias nos Frigoríficos Matadouros Salvador S/A - FRIMASA, nos Matadouros Frigoríficos S/A - MAFRISA e na Bahia-Álcool Empreendimentos Energéticos e Agroindustriais S/A, podendo, inclusive, alienar, no todo ou em parte, sua participação acionária ou promover a cisão, transformação, incorporação e fusão das referidas empresas.
 
-Redação de acordo com a Lei Delegada nº 48, de 16 de maio de 1983.<br>
+Redação de acordo com a Lei Delegada nº 48, de 16 de maio de 1983.
+
 Redação original: "Art. 16 - Fica o Estado autorizado a proceder, observadas as disposições legais que regem a matéria, às alterações que julgar necessárias nos Frigoríficos Matadouros Salvador S/A - FRIMASA, nos Matadouros Frigoríficos S/A - MAFRISA e na Bahia-Álcool - Empreendimentos Industriais e Agroindustriais S/A, podendo, inclusive, alienar, no todo ou em parte, sua participação acionária ou promover a cisão, transformação, incorporação e fusão das referidas empresas."
 
 Art. 17 - Os cargos em comissão da Secretaria da Indústria, Comércio e Turismo são os constantes do Anexo Único desta lei.
@@ -218,4 +224,4 @@ Waldeck Vieira Ornelas
 
 Secretário do Planejamento, Ciência e Tecnologia
 
-<table style="border-collapse: collapse; border: none;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 411.1pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" colspan="3" valign="top" width="548"><p class="Tabela-Texto">ANEXO ÚNICO</p><p class="Tabela-Texto">CARGOS EM COMISSÃO</p></td></tr><tr><td style="width: 241.0pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="321"><p class="Tabela-Texto">CARGO</p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto">SÍMBOLO</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto">QUANTIDADE</p></td></tr><tr><td style="width: 241.0pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="321"><p class="Tabela-Texto">Chefe de Gabinete</p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto">DAS-5</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 241.0pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="321"><p class="Tabela-Texto">Assessor Especial</p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto">DAS-5</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto">02</p></td></tr><tr><td style="width: 241.0pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="321"><p class="Tabela-Texto">Assessor-Chefe</p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto">DAS-5</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 241.0pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="321"><p class="Tabela-Texto">Diretor do Serviço de Administração Geral</p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto">DAS-5</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 241.0pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="321"><p class="Tabela-Texto">Diretor da Inspetoria Setorial de Finanças</p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto">DAS-5</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 241.0pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="321"><p class="Tabela-Texto">Diretor de Departamento</p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto">DAS-5</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto">02</p></td></tr><tr><td style="width: 241.0pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="321"><p class="Tabela-Texto">Diretor de Órgão em Regime Especial</p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto">DAS-5</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 241.0pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="321"><p class="Tabela-Texto">Assessor</p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto">DAS-4</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto">16</p></td></tr><tr><td style="width: 241.0pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="321"><p class="Tabela-Texto">Diretor de Divisão</p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto">DAS-4</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto">11</p></td></tr><tr><td style="width: 241.0pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="321"><p class="Tabela-Texto">Oficial de Gabinete</p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="104"><p class="Tabela-Texto">DAS-1</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="123"><p class="Tabela-Texto">02</p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3" valign="top"> ANEXO ÚNICO CARGOS EM COMISSÃO </td></tr><tr><td valign="top"> CARGO </td><td valign="top"> SÍMBOLO </td><td valign="top"> QUANTIDADE </td></tr><tr><td valign="top"> Chefe de Gabinete </td><td valign="top"> DAS-5 </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Assessor Especial </td><td valign="top"> DAS-5 </td><td valign="top"> 02 </td></tr><tr><td valign="top"> Assessor-Chefe </td><td valign="top"> DAS-5 </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Diretor do Serviço de Administração Geral </td><td valign="top"> DAS-5 </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Diretor da Inspetoria Setorial de Finanças </td><td valign="top"> DAS-5 </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Diretor de Departamento </td><td valign="top"> DAS-5 </td><td valign="top"> 02 </td></tr><tr><td valign="top"> Diretor de Órgão em Regime Especial </td><td valign="top"> DAS-5 </td><td valign="top"> 01 </td></tr><tr><td valign="top"> Assessor </td><td valign="top"> DAS-4 </td><td valign="top"> 16 </td></tr><tr><td valign="top"> Diretor de Divisão </td><td valign="top"> DAS-4 </td><td valign="top"> 11 </td></tr><tr><td valign="top"> Oficial de Gabinete </td><td valign="top"> DAS-1 </td><td valign="top"> 02 </td></tr></tbody></table>

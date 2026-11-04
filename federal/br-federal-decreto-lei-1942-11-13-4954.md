@@ -1,5 +1,3 @@
-###DEL-004954-0-000-13-11-1942@@@
-
 DECRETO-LEI N. 4.954 – DE 13 DE NOVEMBRO DE 1942
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 2.500.000,00, para despesas decorrentes do decreto-lei n. 4.789, de 5 de outubro de 1942

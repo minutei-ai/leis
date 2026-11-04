@@ -1,5 +1,3 @@
-###DEC-057533-0-000-29-12-1965@@@
-
 DECRETO Nº 57.533, DE 29 DE DEZEMBRO DE 1965.
 
 Outorga ao Departamento de Águas e Energia do Estado de Pernambuco concessão para distribuir energia elétrica.
@@ -39,8 +37,6 @@ Brasília, 29 de dezembro de 1965; 144º da Independência e 77º da Republica.
 H. Castello Branco
 
 Mauro Thibau
-
-###DEC-057533-0-000-29-12-1965@@@RET01+++
 
 DECRETO Nº 57.533, DE 29 DE DEZEMBRO DE 1965.
 

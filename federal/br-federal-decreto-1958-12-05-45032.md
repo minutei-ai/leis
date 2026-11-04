@@ -1,5 +1,3 @@
-###DEC-045032-0-000-05-12-1958@@@
-
 DECRETO Nº 45.032, DE 5 DE DEZEMBRO DE 1958.
 
 Declara de utilidade pública, para fins de desapropriação, faixa de terreno e benfeitorias necessárias à ligação ferroviária Lima Duarte-Bom Jardim, Estado de Minas Gerais.

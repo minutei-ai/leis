@@ -1,5 +1,3 @@
-###DEC-060652-0-000-28-04-1967@@@
-
 DECRETO Nº 60.652, DE 28 DE ABRIL DE 1967.
 
 Altera o Regulamento para a Concessão da Ordem de Rio Branco.

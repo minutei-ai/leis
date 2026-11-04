@@ -37,8 +37,6 @@ II – 1º de junho de 2021, quanto ao art. 1º.
 
 Goiânia, 10 de agosto de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

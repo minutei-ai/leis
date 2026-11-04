@@ -1,7 +1,3 @@
-1
-
-###DEC-099342-0-000-25-06-1990@@@
-
 DECRETO N° 99.342, DE 25 DE JUNHO DE 1990
 
 Autoriza a Telecomunicações Brasileiras S.A. TELEBRÁS a promover aumento de capital social.

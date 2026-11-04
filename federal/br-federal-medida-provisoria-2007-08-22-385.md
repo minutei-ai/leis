@@ -1,5 +1,3 @@
-###MPV-000385-0-000-22-08-2007@@@
-
 MEDIDA PROVISÓRIA Nº 385, DE 22 DE AGOSTO DE 2007.
 
 Acrescenta parágrafo único ao art. 1o da Lei no 11.368, de 9 de novembro de 2006, para estender ao trabalhador rural enquadrado como contribuinte individual o prazo previsto no art. 143 da Lei no 8.213, de 24 de julho de 1991.
@@ -17,5 +15,3 @@ Acrescenta parágrafo único ao art. 1o da Lei no 11.368, de 9 de novembro de 20
 LUIZ INÁCIO LULA DA SILVA
 
 Luiz Marinho
-
-Este texto não substitui o publicado no DOU de 23.8.2007

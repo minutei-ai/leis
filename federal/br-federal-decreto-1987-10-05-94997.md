@@ -1,5 +1,3 @@
-###DEC-094997-0-000-05-10-1987@@@
-
 DECRETO Nº 94.997, DE 5 DE OUTUBRO DE 1987
 
 Autoriza o aumento de capital da USIMINAS MECÂNICA S.A. por subscrição e integralização em dinheiro.

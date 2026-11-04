@@ -1,5 +1,3 @@
-###DEC-098960-0-000-15-02-1990@@@
-
 DECRETO Nº 98.960, DE 15 DE FEVEREIRO DE I990
 
 Dispõe sobre área de exercício de atividade de garimpagem, na Gleba Catrimani - Couto Magalhães, no Estado de Roraima.

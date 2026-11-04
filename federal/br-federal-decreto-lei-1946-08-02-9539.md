@@ -1,5 +1,3 @@
-###DEL-009539-0-000-02-08-1946@@@
-
 DECRETO-LEI N. 9.539 – DE 2 DE AGÔSTO DE 1946
 
 Autoriza o Estado do Rio Grande do Sul a incorporar a “União Rio Grandense de Usinas Elétricas, S.A. – “Urgue” – e dá outras providências.

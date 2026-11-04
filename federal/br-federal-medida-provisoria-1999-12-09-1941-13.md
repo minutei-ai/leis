@@ -1,5 +1,3 @@
-###MPV-001941-0-013-09-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.941-13, DE 9 DE DEZEMBRO DE 1999.
 
 Dispõe sobre a aquisição de produtos para a implementação de ações de saúde no âmbito do ministério da Saúde.

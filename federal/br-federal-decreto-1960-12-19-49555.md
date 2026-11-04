@@ -1,5 +1,3 @@
-###DEC-049555-0-000-19-12-1960@@@
-
 Decreto nº 49.555, de 19 de dezembro de 1960.
 
 Retifica e altera o Decreto nº 38.673, de 27 de janeiro de 1956, retificado pelo Decreto nº 38.966, de 3 de abril de 1956.

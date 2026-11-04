@@ -8,7 +8,7 @@ Art. 1º Altera a Lei n. 5.727/2010, de 11.12.2009, Código Tributário do Munic
 
 | TABELA XI TAXA DE EXPEDIENTE E SERVIÇOS |
 | --- |
-| **ITEM** **V** | **TAXA DE EXPEDIENTE QUE COMPÕE A RECEITA DO TESOURO, COBRADA PELA SMT.** |
+| **ITEMV** | **TAXA DE EXPEDIENTE QUE COMPÕE A RECEITA DO TESOURO, COBRADA PELA SMT.** |
 | **01.** | **QUANTO A CADASTRO, REVALIDAÇÃO, TRANSFERÊNCIA DE CADASTRO E BAIXA DE VEÍCULO DE TRANSPORTE DE PESSOAS E CARGAS E DE EQUIPAMENTOS:** | **VALOR** |
 | 01.01 | Moto Táxi | 17,56 |
 | 01.02 | Veículo de aluguel automóvel (táxi e similar) | 36,88 |
@@ -100,7 +100,8 @@ Art. 1º Altera a Lei n. 5.727/2010, de 11.12.2009, Código Tributário do Munic
 | 06.02 | Cobrança administrativa de dano na sinalização, provocado por veículo ou pessoa, mais multa de 30% (trinta) por cento, juros de mora de 1% (um) por cento ao mês e correção monetária, contados da data do sinistro. | Valor avaliado do dano mais acresscimos legais |
 | 06.03 | Serviço de produção, reparação e manutenção de sinalização, realizado para a Prefeitura ou para terceiros, conforme regulamento | Preço do regulamento |
 
-| TABELA XV  <br>
+| TABELA XV  
+
 Taxas de vistorias e inspeção Sanitária, para concessão de certificado de registro de estabelecimentos que produzam/industrializam, fracionam, armazenam, distribuam e transportam alimentos e produtos de origem animal e seus derivados para consumo humano contidas no item 1.8.01.   FISCALIZAÇÃO AGROPECUÁRIA |
 | --- |
 | **ITEM 1** | **ESPÉCIES VISTORIAS E CRITÉRIOS DE PREÇO** | **QUANT (1)** | **PESO (2)** | **UNIT (3)** | **TOTAL 1x2x3=** |

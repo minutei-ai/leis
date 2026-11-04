@@ -1,5 +1,3 @@
-###DEC-096339-0-000-14-07-1988@@@
-
 DECRETO N° 96.339, DE 14 DE JULHO DE 1988
 
 Outorga concessão À RÁDIO BOAS NOVAS LTDA. para explorar serviço de radiodifusão sonora em onda curta, na Cidade de São Luís, Estado do Maranhão.

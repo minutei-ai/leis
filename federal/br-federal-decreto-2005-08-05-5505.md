@@ -1,5 +1,3 @@
-###DEC-005505-0-000-05-08-2005@@@
-
 DECRETO Nº 5.505, DE 5 DE AGOSTO DE 2005.
 
        Regulamenta o caput e o § 1º do art. 15 da Medida Provisória no 252, de 15 de junho de 2005, que dispõe sobre o Regime Especial de Aquisição de Bens de Capital para Empresas Exportadoras - RECAP.
@@ -19,5 +17,3 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 LUIZ INÁCIO LULA DA SILVA
 
 Antonio Palocci Filho
-
-Este texto não substitui o publicado no DOU de 8.8.2005

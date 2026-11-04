@@ -1,5 +1,3 @@
-###DEL-004042-0-000-22-01-1942@@@
-
 DECRETO-LEI N. 4.042 – DE 22 DE JANEIRO DE 1942
 
 Reorganiza os Serviços da Diretoria do Imposto de Renda
@@ -168,4 +166,46 @@ TABELA A QUE SE REFERE O § 1º DO ARTIGO 3º
 
 DELEGACIAS SECCIONAIS
 
-<table cellspacing="0" cellpadding="0" style="margin-left:7.1pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:170.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>CEARÁ</span></p></td><td style="width:219.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>Sobral e Iguatú.</span></p></td></tr><tr><td style="width:170.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>PARAIBA</span></p></td><td style="width:219.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>Souza.</span></p></td></tr><tr><td style="width:170.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>PERNAMBUCO</span></p></td><td style="width:219.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>Pesqueira e Guaranhuns.</span></p></td></tr><tr><td style="width:170.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>BAÍA</span></p></td><td style="width:219.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>Joazeiro, São Felix e Ilhéus.</span></p></td></tr><tr><td style="width:170.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>ESPÍRITO SANTO</span></p></td><td style="width:219.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>Cachoeiro do Itapemirim.</span></p></td></tr><tr><td style="width:170.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>RIO DE JANEIRO</span></p></td><td style="width:219.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>Campos e Barra do Piraí.</span></p></td></tr><tr><td style="width:170.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>SÃO PAULO</span></p></td><td style="width:219.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>Santos, Campinas, Araraquara, Baurú, Botucatú, Ribeirão Preto, Rio Claro, Sorocaba e Taubaté.</span></p></td></tr><tr><td style="width:170.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>PARANÁ</span></p></td><td style="width:219.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>Ponta Grossa e Jacarezinho.</span></p></td></tr><tr><td style="width:170.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>SANTA CATARINA</span></p></td><td style="width:219.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>Joinville e Blumenau.</span></p></td></tr><tr><td style="width:170.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>RIO GRANDE DO SUL</span></p></td><td style="width:219.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>Pelotas, Cachoeira, Livramento e Cruz Alta.</span></p></td></tr><tr><td style="width:170.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>MINAS GERAIS</span></p></td><td style="width:219.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>Juiz de Fora, Lavras, Ponte Nova, Uberaba, Varginha, Cataguases, Curvelo, Itajubá, e Teófilo Otoni.</span></p></td></tr></tbody></table>
+CEARÁ
+
+Sobral e Iguatú.
+
+PARAIBA
+
+Souza.
+
+PERNAMBUCO
+
+Pesqueira e Guaranhuns.
+
+BAÍA
+
+Joazeiro, São Felix e Ilhéus.
+
+ESPÍRITO SANTO
+
+Cachoeiro do Itapemirim.
+
+RIO DE JANEIRO
+
+Campos e Barra do Piraí.
+
+SÃO PAULO
+
+Santos, Campinas, Araraquara, Baurú, Botucatú, Ribeirão Preto, Rio Claro, Sorocaba e Taubaté.
+
+PARANÁ
+
+Ponta Grossa e Jacarezinho.
+
+SANTA CATARINA
+
+Joinville e Blumenau.
+
+RIO GRANDE DO SUL
+
+Pelotas, Cachoeira, Livramento e Cruz Alta.
+
+MINAS GERAIS
+
+Juiz de Fora, Lavras, Ponte Nova, Uberaba, Varginha, Cataguases, Curvelo, Itajubá, e Teófilo Otoni.

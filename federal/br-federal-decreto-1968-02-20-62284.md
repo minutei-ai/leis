@@ -1,5 +1,3 @@
-###DEC-062284-0-000-20-02-1968@@@
-
 DECRETO Nº 62.284, DE 20 DE FEVEREIRO DE 1968.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de terreno que menciona, situado ao Município de Armazém, Estado de Santa Catarina.

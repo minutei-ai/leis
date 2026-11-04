@@ -1,5 +1,3 @@
-###DEC-052191-0-000-28-06-1963@@@
-
 Decreto nº 52.191, de 28 de junho de 1963.
 
 Concede reconhecimento ao Curso de Auxiliar de Enfermagem da Escola de Auxiliares de Enfermagem São Vicente.

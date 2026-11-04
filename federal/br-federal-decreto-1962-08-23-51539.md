@@ -1,5 +1,3 @@
-###DEC-051539-0-000-23-08-1962@@@
-
 DECRETO Nº 51.539, de 23 de agôsto de 1962.
 
 Altera e acrescenta dispositivos no Regulamento da Ordem do Mérito Aeronáutico e dá outras providências.

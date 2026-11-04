@@ -1,5 +1,3 @@
-###DEC-049046-0-000-05-10-1960@@@
-
 DECRETO Nº 49.046, DE 5 DE OUTUBRO DE 1960.
 
 Autoriza Minérios São Pedro Ltda., a lavrar fluorita no município de Tubarão, Estado de Santa Catarina.

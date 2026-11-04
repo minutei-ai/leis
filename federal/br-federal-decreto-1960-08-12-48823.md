@@ -1,5 +1,3 @@
-###DEC-048823-0-000-12-08-1960@@@
-
 DECRETO Nº 48.823, DE 12 DE AGôSTO DE 1960.
 
 Autoriza a Companhia Siderúrgica Belgo Mineira S.A a construir uma linha de transmissão entre João Molevade e Aguapé no município de Dioniso, Estado de Minas Gerais.

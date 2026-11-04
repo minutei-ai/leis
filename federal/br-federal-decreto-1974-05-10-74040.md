@@ -1,5 +1,3 @@
-###DEC-074040-0-000-10-05-1974@@@
-
 DECRETO Nº 74.040, DE 10 DE MAIO DE 1974.
 
 Concede reconhecimento ao curso de Arquitetura e Urbanismo da Faculdade de Arquitetura e Urbanismo "Braz Cubas", com sede na cidade de Moji das Cruzes, Estado de São Paulo.

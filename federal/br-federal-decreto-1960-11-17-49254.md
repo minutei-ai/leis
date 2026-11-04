@@ -1,5 +1,3 @@
-###DEC-049254-0-000-17-11-1960@@@
-
 DECRETO Nº 49.254, DE 17 DE NOVEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Candinho Zucoloto a pesquisar mica e pedras coradas no município de Galiléia, Estado de Minas Gerais.

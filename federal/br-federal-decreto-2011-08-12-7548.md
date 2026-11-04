@@ -1,5 +1,3 @@
-###DEC-007548-0-000-12-08-2011-PUB-01@@@
-
 DECRETO Nº 7.548, DE 12 DE AGOSTO DE 2011.
 
   Altera o Anexo II ao Decreto nº 6.318, de 20 de dezembro de 2007, o Anexo II ao Decreto nº 7.480, de 16 de maio de 2011, o Anexo II ao Decreto nº 7.481, de 16 de maio de 2011, e remaneja cargos em comissão.

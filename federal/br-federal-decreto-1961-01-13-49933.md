@@ -1,5 +1,3 @@
-###DEC-049933-0-000-13-01-1961@@@
-
 DECRETO Nº 49.933, DE 13 JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro Raimundo de Oliveira Barros a pesquisas areis ilmeníticas no município Barreirinhas, Estado do Maranhão.

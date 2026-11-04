@@ -1,5 +1,3 @@
-###DEC-049165-0-000-01-11-1960@@@
-
 DECRETO Nº 49.165, DE 1º DE Novembro DE 1960.
 
 Cria Cargos e Funções no Quadro de Pessoal do Instituto de Aposentadorias e Pensões dos Ferroviários e Empregados em Serviços Públicos e dá outras providencias.

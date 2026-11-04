@@ -1,5 +1,3 @@
-###DEC-058956-0-000-01-08-1966@@@
-
 decreto Nº 58.956, DE 1 DE AGÔSTO DE 1966.
 
 Autoriza a Companhia Estadual de Energia Elétrica do Rio Grande do Sul a ampliar suas instalações.
@@ -29,8 +27,6 @@ Brasília, 1 de agôsto de 1966; 145º da Independência e 78º da República.
 H. Castello Branco
 
 Mauro Thibau
-
-###DEC-058956-0-000-01-08-1966@@@RET01+++
 
 DECRETO Nº 58.956, DE 1 DE AGOSTO DE 1966.
 

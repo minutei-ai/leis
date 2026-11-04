@@ -1,5 +1,3 @@
-###DEL-003120-0-000-17-03-1941@@@
-
 DECRETO-LEI N. 3.120 – DE 17 DE MARÇO DE 1941
 
 Dispõe sobre a aplicação dos saldos dos créditos abertos em favor da Comissão Mista Ferroviária Brasileiro-Boliviana e dá outras providências.

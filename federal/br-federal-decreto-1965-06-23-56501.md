@@ -1,5 +1,3 @@
-###DEC-056501-0-000-23-06-1965@@@
-
 DECRETO Nº 56.501, DE 23 DE JUNHO DE 1965.
 
 Abre ao Poder Judiciário - Justiça do Trabalho - Tribunal Regional do Trabalho da Terceira Região, o crédito especial de Cr$373.372.000, para o fim que especifica.
@@ -19,8 +17,6 @@ Brasília, 23 de junho de 1965; 144º da Independência e 77º da República.
 H. Castello Branco
 
 Otávio Gouveia de Bulhões
-
-###DEC-056501-0-000-23-06-1965@@@RET01+++
 
 Decreto nº 56.501, de 23 de junho de 1965.
 

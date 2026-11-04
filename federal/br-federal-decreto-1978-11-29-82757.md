@@ -1,5 +1,3 @@
-###DEC-082757-0-000-29-11-1978@@@
-
 Decreto n º 82.757, de 29 de novembro de 1978.
 
 Autoriza o Ministro da Fazenda a conceder a garantia do Tesouro Nacional à operação externa que menciona.

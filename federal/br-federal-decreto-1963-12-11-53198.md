@@ -1,5 +1,3 @@
-###DEC-053198-0-000-11-12-1963@@@
-
 DECRETO Nº 53.198, DE 11 DE DEZEMBRO DE 1963.
 
 Autoriza a Companhia Brasileira de Usinas Metalúrgicas a pesquisar minério de ferro no município de Santa Bárbara, Estado de Minas Gerais.

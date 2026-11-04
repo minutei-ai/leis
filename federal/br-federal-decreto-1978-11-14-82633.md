@@ -1,5 +1,3 @@
-###DEC-082633-0-000-14-11-1978@@@
-
 DECRETO Nº 82.633, DE 14 DE NOVEMbRO DE 1978.
 
 Declara sem efeito o Decreto nº 53.027, de 28 de novembro de 1963, retificado pelo Decreto nº 81.488, de 29 de março de 1978, que autorizou o cidadão brasileiro José Schwerber a lavrar bauxita e minério de ferro do Município de Ouro Preto, Estado de Minas Gerais.

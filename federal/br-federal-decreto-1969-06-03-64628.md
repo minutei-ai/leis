@@ -1,5 +1,3 @@
-###DEC-064628-0-000-03-06-1969@@@
-
 DECRETO Nº 64.628, DE 3 DE JUNHO DE 1969.
 
 Concede à "AMIGO" Mineração Amianto de Goiás Ltda., o direito de lavrar amianto, no município de Pontalina, Estado de Goiás.

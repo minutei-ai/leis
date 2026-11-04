@@ -1,5 +1,3 @@
-###DEC-091542-0-000-19-08-1985@@@
-
 Decreto nº 91.542, de 19 de Agosto de 1985
 
 Institui o Programa Nacional do Livro Didático, dispõe sobre sua execução e dá outras providências

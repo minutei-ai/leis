@@ -1,7 +1,3 @@
-1
-
-###MPV-001240-0-000-14-12-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.240, DE 14 DE DEZEMBRO DE 1995.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

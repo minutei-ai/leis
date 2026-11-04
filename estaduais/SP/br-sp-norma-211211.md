@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211211)<br>
-
 # DECRETO N° 69.714, DE 18 DE JULHO DE 2025
 
 ### _Altera dispositivo do Decreto n° 65.199, de 22 de setembro de 2020, que autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título precário e gratuito e por prazo indeterminado, área aeroportuária que se encontra sob a jurisdição e posse da Empresa Brasileira de Infraestrutura Aeroportuária - INFRAERO, localizada no Município de São Paulo._

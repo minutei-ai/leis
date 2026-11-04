@@ -1,5 +1,3 @@
-###DEC-050631-0-000-19-05-1961@@@
-
 DECRETO Nº 50.631, DE 19 DE MAIO DE 1961.
 
 Regulamenta a Lei nº 1.565, de 3 de março de 1952.

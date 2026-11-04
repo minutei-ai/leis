@@ -1,5 +1,3 @@
-###DEC-000440-0-000-06-02-1992@@@
-
 DECRETO Nº 440, DE 06 DE FEVEREIRO DE 1992
 
 Promulga o Acordo Relativo à Conferência das Nações Unidas sobre Meio Ambiente e Desenvolvimento, entre o Governo da República Federativa do Brasil e as Nações Unidas.

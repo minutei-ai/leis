@@ -1,5 +1,3 @@
-###DEC-079339-0-000-03-03-1977@@@
-
 DECRETO Nº 79.339, DE 3 DE MARÇO DE 1977.
 
 Declara de utilidade publica, para fins de desapropriação, benfeitorias e direitos sobre o terreno que menciona, situado na Cidade e Estado do Rio de Janeiro, necessário ao Ministério da Marinha.

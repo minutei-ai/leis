@@ -1,5 +1,3 @@
-###DEC-073959-0-000-18-04-1974@@@
-
 DECRETO Nº 73.959, DE 18 DE ABRIL DE 1974.
 
 Concede reconhecimento à Faculdade de Formação de Professores de Nazaré da Mata, mantida pela Fundação de Ensino Superior de Pernambuco, com sede na Cidade de Nazaré da Mata, Estado de Pernambuco.

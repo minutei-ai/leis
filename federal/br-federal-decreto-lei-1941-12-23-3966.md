@@ -1,5 +1,3 @@
-###DEL-003966-0-000-23-12-1941@@@
-
 DECRETO-LEI N. 3.966 – DE 23 DE DEZEMBRO DE 1941
 
 Autoriza a emissão de papel-moeda até 300.000:000$0.

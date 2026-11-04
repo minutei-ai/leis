@@ -1,5 +1,3 @@
-###DEC-091089-0-000-12-03-1985@@@
-
 DECRETO Nº 91.089, DE 12 DE MARÇO DE 1985
 
 Outorga concessão à RÁDIO UNIVERSAL LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Teodoro Sampaio, Estado de São Paulo.

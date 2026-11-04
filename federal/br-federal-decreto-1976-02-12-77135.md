@@ -1,5 +1,3 @@
-###DEC-077135-0-000-12-02-1976@@@
-
 DECRETO Nº 77.135, DE 12 DE FEVEREIRO DE 1976
 
 Concede reconhecimento ao curso de Medicina da Pontifícia Universidade Católica do Rio Grande do Sul, com sede na cidade de Porto Alegre, Estado do Rio Grande do Sul.

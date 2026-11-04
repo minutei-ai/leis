@@ -1,5 +1,3 @@
-###DEC-074050-0-000-13-05-1974@@@
-
 DECRETO nº 74.050, DE 13 DE MAIO DE 1974.
 
 Concede reconhecimento aos cursos de Música e de Desenho e Plástica da Universidade de Caxias do Sul Estado do Rio Grande do Sul.

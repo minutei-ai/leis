@@ -1,5 +1,3 @@
-###DEC-045791-0-000-14-04-1959@@@
-
 DECRETO Nº 45.791, de 14 de abril de 1959.
 
 Autoriza a cidadã brasileira Maria Judith Gonçalves Melentovytch a pesquisar ilmenita no município de Paranaguá, Estado do Paraná.

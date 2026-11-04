@@ -1,5 +1,3 @@
-###DEC-051056-0-000-26-07-1961@@@
-
 DECRETO Nº 51.056, DE 26 DE JULHO DE 1961.
 
 Declara de utilidade pública, para fins de desapropriação, um imóvel destinado à ampliação da área da Cidade Universitária do Rio Gande do Sul.

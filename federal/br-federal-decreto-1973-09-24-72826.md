@@ -1,5 +1,3 @@
-###DEC-072826-0-000-24-09-1973@@@
-
 DECRETO Nº 72.826, DE 24 de SETEMBRO DE 1973
 
 Dispõe sobre a utilização de Grupos-Tarefa no Conselho Interministerial de Preços (CIP) e dá outras providências.

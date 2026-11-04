@@ -1,7 +1,3 @@
-1
-
-###DEC-001362-0-000-01-01-1995@@@
-
 DECRETo Nº 1.362, DE 1º DE JANEIRO DE 1995
 
 Dispõe sobre delegação de competência para a prática de atos de provimento no âmbito da Administração Pública Federal e dá outras providências.

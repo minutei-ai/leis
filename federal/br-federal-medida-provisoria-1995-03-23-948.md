@@ -1,7 +1,3 @@
-1
-
-###MPV-000948-0-000-23-03-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 948, DE 23 DE MARÇO DE 1995
 
 Dispõe sobre a instituição de crédito presumido do Imposto sobre Produtos Industrializados, para ressarcimento do valor do PIS/Pasep e Cofins nos casos que especifica, e dá outras providências.

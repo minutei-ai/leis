@@ -1,5 +1,3 @@
-###DEC-049004-0-000-04-10-1960@@@
-
 DECRETO Nº 49.004, DE 4 DE OUTUBRO DE 1960.
 
 Autoriza Alumínio Minas Gerais S A , a lavrar bauxita no município de Poços de Caldas, Estado de Minas Gerais.

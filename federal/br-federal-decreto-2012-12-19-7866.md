@@ -1,5 +1,3 @@
-###DEC-007866-0-000-19-12-2012-PUB-01@@@
-
 DECRETO Nº\- 7.866, DE 19 DE DEZEMBRO DE 2012
 
 Regulamenta a Lei nº 12.593, de 18 de janeiro de 2012, que institui o Plano Plurianual da União para o período de 2012 a 2015.

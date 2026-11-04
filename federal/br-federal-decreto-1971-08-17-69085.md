@@ -1,5 +1,3 @@
-###DEC-069085-0-000-17-08-1971@@@
-
 Decreto nº 69.085, de 17 de agÔsto de 1971.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação dos imóveis que menciona, situados no Estado do Rio de Janeiro.

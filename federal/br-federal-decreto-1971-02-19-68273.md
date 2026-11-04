@@ -1,5 +1,3 @@
-###DEC-068273-0-000-19-02-1971@@@
-
 DECRETO Nº 68.273, de 19 de Fevereiro de 1971.
 
 Cria função gratificada no Quadro de Pessoal do Ministério do Exército, e dá outras providencias.

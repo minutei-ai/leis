@@ -1,5 +1,3 @@
-###DEC-053302-0-000-16-12-1963@@@
-
 DECRETO Nº 53.302, DE 16 DE DEZEMBRO DE 1963.
 
 Autoriza a cidadã brasileira Gabrielle Haralyi a pesquisar caulim e argila no município de Santo André, Estado de São Paulo.

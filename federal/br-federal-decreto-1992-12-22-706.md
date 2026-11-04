@@ -1,7 +1,3 @@
-1
-
-###DEC-000706-0-000-22-12-1992@@@
-
 DECRETO N° 706, DE 22 DE DEZEMBRO DE 1992
 
 Institui o Programa de Desenvolvimento do Sistema Federal de Inspeção do Trabalho e regulamenta o disposto no art. 1° da Medida Provisória n° 311, de 26 de novembro de 1992, em relação aos servidores do Ministério do Trabalho.

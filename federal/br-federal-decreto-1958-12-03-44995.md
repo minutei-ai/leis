@@ -1,5 +1,3 @@
-###DEC-044995-0-000-03-12-1958@@@
-
 Decreto nº 44.995, de 3 de dezembro de 1958.
 
 Autoriza a construção de uma linha de transmissão entre a usina Cotegipe, de propriedade da Companhia Hidrelétrica de São Francisco, e, a fábrica de Cimento Aratu, Estado da Bahia.

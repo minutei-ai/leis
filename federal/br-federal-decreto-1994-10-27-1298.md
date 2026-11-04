@@ -1,5 +1,3 @@
-###DEC-001298-0-000-27-10-1994@@@
-
 DECRETO Nº 1.298, DE 27 DE OUTUBRO DE 1994
 
 Aprova o Regulamento das Flores Nacionais, e dá outras providências.

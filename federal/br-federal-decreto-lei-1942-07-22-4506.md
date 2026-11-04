@@ -1,5 +1,3 @@
-###DEL-004506-0-000-22-07-1942@@@
-
 DECRETO-LEI N. 4.506 – DE 22 DE JULHO DE 1942
 
 Cria o Serviço de Documentação (S.D.) do Departamento Administrativo do Serviço Público (D.A.S.P.) e dá outras providências

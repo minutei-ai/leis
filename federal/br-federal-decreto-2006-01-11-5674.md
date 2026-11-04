@@ -1,5 +1,3 @@
-###DEC-005674-0-000-11-01-2006@@@
-
 DECRETO Nº 5.674, DE 11 DE JANEIRO DE 2006.
 
 Acresce dispositivo ao Regulamento de Promoções da Carreira de Diplomata do Serviço Exterior, aprovado pelo Decreto no 4.248, de 23 de maio de 2002.

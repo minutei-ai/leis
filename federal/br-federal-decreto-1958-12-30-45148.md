@@ -1,5 +1,3 @@
-###DEC-045148-0-000-30-12-1958@@@
-
 DECRETO Nº 45.148, DE 30 DE DEZEMBRO DE 1958.
 
 Aprova o Regulamento da Diretoria de Artilharia de Costa e Artilharia Antiaérea (R-76).

@@ -36,7 +36,7 @@ SUPLEMENTAÇÃO
 
 TOTAL A SUPLEMENTAR POR FONTE: R$ 137.000.000,00
 
-<table><tbody><tr><td rowspan="1" style="text-align: justify;">25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES</td><td style="text-align: justify;">R$ 137.000.000,00</td></tr></tbody></table>
+<table><tbody><tr><td rowspan="1">25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES</td><td>R$ 137.000.000,00</td></tr></tbody></table>
 
 QUADRO 2
 
@@ -51,8 +51,8 @@ REDUÇÃO
 
 TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III: R$ 137.000.000,00
 
-<table><tbody><tr><td rowspan="1" style="text-align: justify;">25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES</td><td style="text-align: justify;">R$ 137.000.000,00</td></tr></tbody></table>
+<table><tbody><tr><td rowspan="1">25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES</td><td>R$ 137.000.000,00</td></tr></tbody></table>
 
 TOTAL POR FONTE: R$ 137.000.000,00
 
-<table><tbody><tr><td rowspan="1" style="text-align: justify;">25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES</td><td style="text-align: justify;">R$ 137.000.000,00</td></tr></tbody></table>
+<table><tbody><tr><td rowspan="1">25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES</td><td>R$ 137.000.000,00</td></tr></tbody></table>

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208930)<br>
-
 # DECRETO N° 68.174, DE 09 DE DEZEMBRO DE 2023
 
 ### _Autoriza a outorga de uso, à Fundação Sistema Estadual de Análise de Dados - SEADE, de parte do imóvel que especifica, e dá providências correlatas_

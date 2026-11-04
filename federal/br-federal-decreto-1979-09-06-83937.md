@@ -1,5 +1,3 @@
-###DEC-083937-0-000-06-09-1979@@@
-
 Decreto nº 83.937, de 06 de setembro de 1979.
 
 Dispõe sobre a regulamentação do Capitulo IV, do Titulo II, do Decreto-lei nº 200, de 25 de fevereiro de 1967, referente à delegação de competência.

@@ -1,5 +1,3 @@
-###DEL-006118-0-000-16-12-1943@@@
-
 DECRETO‑LEI N. 6.118 – DE 16 DE DEZEMBRO DE 1943
 
 Incorpora ao patrimônio nacional todo o acervo (material flutuante e proprie­dades imóveis) das emprêsas Companhia Viação São Paulo‑Mato Grosso e Emprêsa Transparaná Limitada e dá outras providências.

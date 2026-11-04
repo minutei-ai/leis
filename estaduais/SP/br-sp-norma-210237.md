@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210237)<br>
-
 # DECRETO N° 69.051, DE 14 DE NOVEMBRO DE 2024
 
 ### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, por prazo determinado, da Companhia Metropolitana de Habitação de São Paulo - COHAB, o imóvel que especifica._

@@ -1,5 +1,3 @@
-###DEC-048542-0-000-19-07-1960@@@
-
 DECRETO Nº 48.542, DE 19 DE JULHO DE 1960.
 
 Transfere, sem aumento de despesas, função da Tabela Numérica Especial de Extranumerário-mensalista do Quartel General da 5a Zona Aérea para idêntica tabela do Parque de Aeronáutica dos Afonsos, ambas do Ministério da Aeronáutica.

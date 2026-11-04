@@ -1,5 +1,3 @@
-###DEL-009335-0-000-10-06-1946@@@
-
 DECRETO-LEI N. 9.335 – DE 10 DE JUNHO DE 1946
 
 Extingue o 1º Corpo de Cavalaria.

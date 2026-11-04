@@ -1,5 +1,3 @@
-###DEC-082734-0-000-27-11-1978@@@
-
 Decreto nº 82.734, de 27 de novembro de 1978
 
 Retifica a concessão de lavra outorgada à CEARITA - Empresa de Mineração Industrial Ltda. pelo Decreto nº 79.925, de 11 de julho de 1977.

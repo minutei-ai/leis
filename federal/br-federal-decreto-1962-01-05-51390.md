@@ -1,5 +1,3 @@
-###DEC-051390-0-000-05-01-1962@@@
-
 DECRETO nº 51.390, DE 5 DE JANEIRO DE 1962.
 
 Autoriza a instalação de Agências do Banco Holandês Unido S.A.

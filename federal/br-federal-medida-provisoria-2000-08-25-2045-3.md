@@ -1,5 +1,3 @@
-###MPV-002045-0-003-25-08-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.045-3, DE 25 DE agosto DE 2000.
 
 Institui o Fundo Nacional de Segurança Pública - FNSP, suspende temporariamente o registro de arma de fogo, e dá outras providências.

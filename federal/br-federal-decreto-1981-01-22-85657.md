@@ -1,5 +1,3 @@
-###DEC-085657-0-000-22-01-1981@@@
-
 Decreto nº 85.657, de 22 de janeiro de 1981.
 
 Autoriza o funcionamento do curso de Ciências, da Federação das Escolas Superiores de Ilhéus e Itabuna, em Ilhéus, Estado da Bahia.

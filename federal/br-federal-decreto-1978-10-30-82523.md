@@ -1,5 +1,3 @@
-###DEC-082523-0-000-30-10-1978@@@
-
 Decreto nº 82 523, de 30 de outubro de 1978.
 
 Concede reconhecimento ao curso de Serviço Social, ministrado pelo Centro de Ciências Sociais da Universidade Católica de Pernambuco, com sede na cidade de Recife, Estado de Pernambuco.

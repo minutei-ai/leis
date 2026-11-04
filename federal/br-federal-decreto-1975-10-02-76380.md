@@ -1,5 +1,3 @@
-###DEC-076380-0-000-02-10-1975@@@
-
 DECRETO Nº 76.380, DE 2 DE OUTUBRO DE 1975.
 
 Concede reconhecimento ao curso de Odontologia da Faculdade de Odontologia, da Universidade de Uberlândia, Minas Gerais.

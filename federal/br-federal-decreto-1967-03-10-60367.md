@@ -1,5 +1,3 @@
-###DEC-060367-0-000-10-03-1967@@@
-
 DECRETO Nº 60.367, DE 10 DE MARÇO DE 1967.
 
 Regula o pagamento de contas de luz, energia elétrica, gás e telefone e de outros serviços de natureza análoga prestados a órgãos da administração Pública.

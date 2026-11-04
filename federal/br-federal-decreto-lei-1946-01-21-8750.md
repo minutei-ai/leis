@@ -1,5 +1,3 @@
-###DEL-008750-0-000-21-01-1946@@@
-
 DECRETO-LEI N. 8.750 – DE 21 DE JANEIRO DE 1946
 
 Destaca no “Plano de Obras e Equipamentos” para o Departamento dos Correios e Telégrafos a importância de Cr$ 23.455.494,00

@@ -1,5 +1,3 @@
-###DEC-050582-0-000-12-05-1961@@@
-
 DECRETO Nº 50.582, de 12 DE maio DE 1961.
 
 Aprova a redação dos novos Estatutos Sociais da Rede Ferroviária Federal S.A.

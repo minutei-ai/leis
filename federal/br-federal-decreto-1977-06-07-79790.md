@@ -1,5 +1,3 @@
-###DEC-079790-0-000-07-06-1977@@@
-
 Decreto nº 79.790, de 7 de junho de 1977
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Cachoeiro de Itapemirim Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Cachoeiro de Itapemirim, Estado do Espirito Santo.

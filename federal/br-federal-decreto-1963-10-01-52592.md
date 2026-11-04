@@ -1,5 +1,3 @@
-###DEC-052592-0-000-01-10-1963@@@
-
 DECRETO Nº 52.592, DE 1 DE OUTUBRO DE 1963.
 
 Transfere da Companhia Fôrça e Luz de Abaeté para a Centrais Elétricas de Minas Gerais S.A. a concessão para distribuir energia elétrica no Município de Abaeté, Estado de Minas Gerais, e dá outras providências.

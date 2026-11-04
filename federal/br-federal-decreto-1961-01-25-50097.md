@@ -1,5 +1,3 @@
-###DEC-050097-0-000-25-01-1961@@@
-
 DECRETO Nº 50.097, DE 25 DE JANEIRO DE 1961.
 
 Outorga concessão à Rádio Jornal de llhéus Limitada para instalar uma estação radiodifusora.

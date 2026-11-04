@@ -1,5 +1,3 @@
-###DEC-005912-0-000-27-09-2006@@@
-
 DECRETO Nº 5.912, DE 27 DE SETEMBRO DE 2006.
 
 Regulamenta a Lei no 11.343, de 23 de agosto de 2006, que trata das políticas públicas sobre drogas e da instituição do Sistema Nacional de Políticas Públicas sobre Drogas - SISNAD, e dá outras providências.
@@ -237,5 +235,3 @@ Brasília, 27 de setembro de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
         Jorge Armando Felix
-
-Este texto não substitui o publicado no D.O.U. de 28.9.2006

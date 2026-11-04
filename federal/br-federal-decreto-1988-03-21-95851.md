@@ -1,7 +1,3 @@
-1
-
-###DEC-095851-0-000-21-03-1988@@@
-
 DECRETO Nº 95.851, DE 21 DE MARÇO DE 1988
 
 Renova a concessão outorgada à RÁDIO EXCELSIOR DO RIO GRANDE DO SUL LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Gramado, Estado do Rio Grande do Sul.

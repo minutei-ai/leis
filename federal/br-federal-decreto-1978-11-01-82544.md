@@ -1,5 +1,3 @@
-###DEC-082544-0-000-01-11-1978@@@
-
 Decreto nº 82.544, de 01 de novembro de 1978.
 
 Retifica a autorização de lavra conferida à Mineração e Usina Wigg S.A pelo Decreto nº 62.032, de 29 de dezembro de 1967.

@@ -1,5 +1,3 @@
-###DEC-076482-0-000-20-10-1975@@@
-
 Decreto Nº 76.482, DE 20 de outubro de 1975.
 
 Autoriza o funcionamento dos cursos de Geografia e de Letras da Faculdade de Filosofia, Ciências e Letras de Ijuí, com sede na cidade de Ijuí, Rio Grande do Sul.

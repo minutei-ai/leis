@@ -1,5 +1,3 @@
-###DEC-004292-0-000-28-06-2002@@@
-
 DECRETO Nº 4.292, DE 28 DE JUNHO DE 2002
 
 Prorroga o prazo de que trata o art. 7, da Lei nº 10.453, de 13 de maio de 2002, que dispõe sobre subvenções ao preço e ao transporte do álcool combustível e subsídios ao preço do gás liqüefeito de petróleo - GLP.

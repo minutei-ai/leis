@@ -1,5 +1,3 @@
-###DEL-005251-0-000-16-02-1943@@@
-
 DECRETO‑LEI N. 5.251 – DE 16 DE FEVEREIRO DE 1943
 
 Cria função gratificada no Ministério da Agicultura e dá outras providências

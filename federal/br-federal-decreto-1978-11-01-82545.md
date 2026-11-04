@@ -1,5 +1,3 @@
-###DEC-082545-0-000-01-11-1978@@@
-
 Decreto nº 82.545, de 01 de novembro de 1978.
 
 Retifica a autorização de lavra conferida à Mineração e Usina Wigg S.A pelo Decreto nº 51.951-A, de 26 de abril de 1963.

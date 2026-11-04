@@ -1,5 +1,3 @@
-###DEC-070733-0-000-19-06-1972@@@
-
 DECRETO Nº 70.733, DE 19 DE JUNHO DE 1972.
 
 Concede reconhecimento à Faculdade de Engenharia de Campinas - SP.

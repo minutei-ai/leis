@@ -1,7 +1,3 @@
-1
-
-###DEC-095812-0-000-10-03-1988@@@
-
 DECRETO N° 95.812, DE 10 DE MARÇO DE 1988
 
 Inclui a COMPANHIA DE CELULOSE DA BAHIA no Programa de Privatização.

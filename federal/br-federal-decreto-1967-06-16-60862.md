@@ -1,5 +1,3 @@
-###DEC-060862-0-000-16-06-1967@@@
-
 DECRETO Nº 60.862, DE 16 DE JUNHO DE 1967.
 
 Transfere da Prefeitura Municipal de Pôrto Nacional, Goiás, para a Centrais Elétricas e Goiás S.A. - CELG a concessão para produzir, transmitir e distribuir energia elétrica no distrito sede do município de Pôrto Nacional, Estado de Goiás.

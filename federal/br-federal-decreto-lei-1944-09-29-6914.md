@@ -1,5 +1,3 @@
-###DEL-006914-0-000-29-09-1944@@@
-
 DECRETO-LEI N. 6.914 – DE 29 DE SETEMBRO DE 1944 
 
 Transforma o Serviço de  Informação Agrícola do Ministério da Agricultura em Serviço de Documentação

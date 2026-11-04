@@ -1,5 +1,3 @@
-###DEC-058658-0-000-16-06-1966@@@
-
 DECRETO Nº 58.658, DE 16 DE JUNHO DE 1966.
 
 Declara de utilidade pública o Instituto Hans Staden de Ciências, letras e Intercâmbio cultural Brasileiro-Alemão, com sede em São Paulo, Estado de São Paulo.

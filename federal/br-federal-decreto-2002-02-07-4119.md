@@ -1,5 +1,3 @@
-###DEC-004119-0-000-07-02-2002@@@
-
 DECRETO Nº 4.119, DE 7 DE FEVEREIRO DE 2002.
 
 Promulga o Acordo, por troca de Notas, pelo qual os Governos da República Federativa do Brasil e do Japão formalizam a futura concessão de financiamento de Y 46.286.000.000.00 (quarenta e seis bilhões, duzentos e oitenta e seis milhões de ienes) por parte do "Japan Bank for International Cooperation" (JBIC) para implementação de cinco projetos de desenvolvimento no Brasil, celebrado em Brasília, em 14 de julho de 2000.

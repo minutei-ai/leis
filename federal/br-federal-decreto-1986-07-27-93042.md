@@ -1,5 +1,3 @@
-###DEC-093042-0-000-27-07-1986@@@
-
 DECRETO Nº 93.042, DE 27 DE JULHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Fazenda Douradinho", situado no Município de Nova Andradina, no Estado de Mato Grosso do Sul, compreendido na zona prioritária, para fins de reforma agrária, fixado pelo Decreto nº 92.621, de 2 de maio de 1986, e dá outras providências.

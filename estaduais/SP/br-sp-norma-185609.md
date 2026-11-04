@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185609)
-
 # DECRETO Nº 63.296, DE 21 DE MARÇO DE 2018
 
 ### _Dá nova redação a dispositivos do Regulamento da Lei nº 997, de 31 de maio de 1976, aprovado pelo Decreto nº 8.468, de 8 de setembro de 1976, e suas alterações, que dispõe sobre a prevenção e o controle da poluição do meio ambiente, referentes ao licenciamento ambiental_
@@ -40,31 +38,44 @@ Palácio dos Bandeirantes, 21 de março de 2018
 
 GERALDO ALCKMIN
 
-Arnaldo Calil Pereira Jardim<br>
-Secretário de Agricultura e Abastecimento<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
-Publicado na Secretaria de Governo, aos 21 de março de 2018.
+Arnaldo Calil Pereira Jardim
 
-<br>
-<br>
+Secretário de Agricultura e Abastecimento
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
+Publicado na Secretaria de Governo, aos 21 de março de 2018.
 
 #### [DECRETO Nº 63.296, DE 21 DE MARÇO DE 2018](https://www.al.sp.gov.br/norma/185609)
 
 #### Retificação do D.O. de 22-3-2018
 
-No referendo leia-se como segue e não como constou:<br>
-Palácio dos Bandeirantes, 21 de março de 2018<br>
-GERALDO ALCKMIN<br>
-Arnaldo Calil Pereira Jardim<br>
+No referendo leia-se como segue e não como constou:
+
+Palácio dos Bandeirantes, 21 de março de 2018
+
+GERALDO ALCKMIN
+
+Arnaldo Calil Pereira Jardim
+
 Secretário de Agricultura e Abastecimento
 
-Maurício Benedini Brusadin<br>
-Secretário do Meio Ambiente<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Maurício Benedini Brusadin
+
+Secretário do Meio Ambiente
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 21 de março de 2018.

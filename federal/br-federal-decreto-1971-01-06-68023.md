@@ -1,5 +1,3 @@
-###DEC-068023-0-000-06-01-1971@@@
-
 DECRETO Nº 68.023, DE 6 DE JANEIRO DE 1971.
 
 Declara de utilidade pública o Instituto São Joaquim, com sede em Conceição do Mato Dentro, Estado de Minas Gerais.

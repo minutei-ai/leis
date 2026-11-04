@@ -1,5 +1,3 @@
-###DEC-007547-0-000-04-08-2011-PUB-01@@@
-
 DECRETO Nº 7.547, DE 4 DE AGOSTO DE 2011
 
 Altera o Decreto nº 5.683, de 24 de janeiro de 2006, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas da Controladoria-Geral da União, e remaneja cargos em comissão.

@@ -1,5 +1,3 @@
-###DEC-055183-0-000-10-12-1964@@@
-
 DECRETO Nº 55.183, de 10 de dezembro de 1964.
 
 Autoriza o cidadão brasileiro Clóvis Ramalho Dantas, a pesquisar gipsita, no município de Bodocó, Estado de Pernambuco.

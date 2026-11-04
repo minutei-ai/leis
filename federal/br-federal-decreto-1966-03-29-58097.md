@@ -1,5 +1,3 @@
-###DEC-058097-0-000-29-03-1966@@@
-
 DECRETO Nº 58.097, DE 29 DE MARÇO DE 1966.
 
 Abre ao Poder Judiciário - Justiça do Trabalho - Tribunal Regional do Trabalho e Juntas de Conciliação e Julgamento da 1ª Região, o crédito especial de Cr$17.357.749, para o fim que especifica.

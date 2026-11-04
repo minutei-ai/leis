@@ -1,5 +1,3 @@
-###DEC-047698-0-000-22-01-1960@@@
-
 DECRETO N. 47.698 – DE 22 DE JANEIRO DE 1960
 
 Concede ao Bank of London & South America Limited prorrogação, por mais dez (10) anos, do prazo de autorização para funcionar.

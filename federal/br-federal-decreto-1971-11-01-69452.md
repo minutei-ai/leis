@@ -1,5 +1,3 @@
-###DEC-069452-0-000-01-11-1971@@@
-
 DECRETO Nº 69.452 - DE 1º DE NOVEMBRO DE 1971
 
 Concede autorização às firmas Atrhur Levy Boat Service Inc. e Arthur Levy do Brasil Ltda. Para operação, em águas brasileiras, da embarcação "Gulf Sea Horse" de nacionalidade norte-americana a serviço da PETROBRÁS.

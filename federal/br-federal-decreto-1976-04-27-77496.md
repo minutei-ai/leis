@@ -1,5 +1,3 @@
-###DEC-077496-0-000-27-04-1976@@@
-
 DECRETO Nº 77.496 - DE 27 DE ABRIL DE 1976
 
 Autoriza o funcionamento da Universidade Estadual de Feira de Santana, com sede da Cidade de Feira de Santana, Estado da Bahia.

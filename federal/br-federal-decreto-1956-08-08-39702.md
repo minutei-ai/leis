@@ -1,14 +1,12 @@
-###DEC-039702-0-000-08-08-1956@@@
+**DECRETO Nº 39.702, DE 8 DE AGÔSTO DE 1956.**
 
-<strong>DECRETO Nº 39.702, DE 8 DE AGÔSTO DE 1956.</strong>
+***Transfere, sem aumento de despesa, as funções das Tabelas Numéricas Especiais de Extranumerário-mensalistas do Ministério da Agricultura.***
 
-<em><strong>Transfere, sem aumento de despesa, as funções das Tabelas Numéricas Especiais de Extranumerário-mensalistas do Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, no uso da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, no uso da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam transferidas, com os respectivos ocupantes, as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-mensalistas, do Ministério da Agricultura abaixo indicadas:
+**Art**. 1º Ficam transferidas, com os respectivos ocupantes, as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-mensalistas, do Ministério da Agricultura abaixo indicadas:
 
 I - uma (1) função de feitor, referência 20, ocupada por Walter de Souza Araújo, da Tabela Numérica de Extranumerário-mensalistas da Estação Experimental da União dos Palmares, no Estado de Alagoas, do Instituto Agronômico do Nordeste do Serviço Nacional de Pesquisas Agronômicas, do Centro Nacional de Ensino e Pesquisas Agronômicas, para idêntica tabela da Seção de Fomento Agrícola, no Estado de Alagoas, da Divisão de Fomento da Produção Vegetal, do Departamento Nacional da Produção Vegetal;
 
@@ -22,12 +20,12 @@ V - uma (1) função de auxiliar de Serviço, referência 22 e uma (1) da refer�
 
 VI - uma (1) função de Artífice, referência 21, ocupada por José de Souza Pinto, da Tabela Numérica Especial de Extranumerário-mensalista da Inspetoria Regional, em Niterói no Estado do Rio de Janeiro, da Divisão de Defesa Sanitária Animal, do Departamento Nacional da Produção Animal, para idêntica tabela da Divisão de Defesa Sanitária Animal - Diretoria, do Departamento Nacional de Produção Animal; e VII - uma (1) função de Auxiliar de Campo, referência 22, ocupada por Rodrigo Valente Filho, da Tabela Numérica Especial de Extranumerário-mensalista do 3º Distrito da Divisão de Águas, do Departamento Nacional da Produção Mineral, para idêntica tabela da Seção de Fomento Agrícola no Estado de Alagoas, da Divisão de Fomento da Produção Vegetal, do Departamento Nacional da Produção Vegetal.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor, na data de sua publicação.
+**Art**. 2º Êste decreto entrará em vigor, na data de sua publicação.
 
-<strong>Art</strong>. 3º Revoga-se as disposições em contrário.
+**Art**. 3º Revoga-se as disposições em contrário.
 
 Rio de Janeiro, em 8 de agôsto de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Ernesto Dornelles

@@ -1,5 +1,3 @@
-###DEC-050665-0-000-30-05-1961@@@
-
 DECRETO Nº 50.665, DE 30 DE MAIO DE 1961.
 
 Cria o Parque Nacional de Sete Quedas e dá outras providências.

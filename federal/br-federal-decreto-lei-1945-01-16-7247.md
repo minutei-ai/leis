@@ -1,5 +1,3 @@
-###DEL-007247-0-000-16-01-1945@@@
-
 DECRETO-LEI N. 7.247 – DE 16 JANEIRO DE 1945
 
 Altera as carreiras de Contador e Guarda-livros do Quadro Permanente do Ministério da Fazenda e dá outras providências

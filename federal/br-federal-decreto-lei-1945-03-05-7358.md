@@ -1,5 +1,3 @@
-###DEL-007358-0-000-05-03-1945@@@
-
 DECRETO-LEI N. 7.358 – DE 5 DE MARÇO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a isentar o Espólio do Dr. Casper Líbero do pagamento dos impostos que menciona

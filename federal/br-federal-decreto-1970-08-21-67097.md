@@ -1,5 +1,3 @@
-###DEC-067097-0-000-21-08-1970@@@
-
 Decreto nº 67.097, de 21 de agôsto de 1970.
 
 Concede reconhecimento a Cursos de Engenheiro de Operação da PUC-RJ.

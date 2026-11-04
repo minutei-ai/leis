@@ -1,7 +1,3 @@
-1
-
-###DEC-097954-0-000-11-07-1989@@@
-
 # DECRETO N° 97.954, DE 11 DE JULHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, os imóveis rurais denominados “FAZENDA VARGEM GRANDE” e “FAZENDA GAMELEIRA” classificados como latifúndio por exploração, situados no Município de Queimadas, no Estado da Bahia, compreendidos na zona prioritária, fixada pelo Decreto n° 92.689, de 19 de maio de 1986, e dá outras providências.

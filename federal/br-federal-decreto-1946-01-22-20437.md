@@ -1,18 +1,16 @@
-###DEC-020437-0-000-22-01-1946@@@
+**DECRETO Nº 20.347, DE 22 DE JANEIRO DE 1946.**
 
-<strong>DECRETO Nº 20.347, DE 22 DE JANEIRO DE 1946.</strong>
+***Altera o Regime da Administração do Pôrto do Rio de Janeiro, aprovado pelo Decreto nº 7.935 de 25 de setembro de 1941.***
 
-<em><strong>Altera o Regime da Administração do Pôrto do Rio de Janeiro, aprovado pelo Decreto nº 7.935 de 25 de setembro de 1941.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando de atribuição que lhe confere o artigo 74, letra *a* da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando de atribuição que lhe confere o artigo 74, letra <em>a</em> da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica alterado na forma abaixo o Regime da Administração do Pôrto do Rio de Janeiro, aprovado pelo Decreto nº 7.935, de 25 de setembro de 1941.
+**Art**. 1º Fica alterado na forma abaixo o Regime da Administração do Pôrto do Rio de Janeiro, aprovado pelo Decreto nº 7.935, de 25 de setembro de 1941.
 
 O Art. 2º passa a ter a seguinte redação :
 
-<strong>Art</strong>. 2º A A. P. R. J. compõe-se dos seguintes órgãos:
+**Art**. 2º A A. P. R. J. compõe-se dos seguintes órgãos:
 
 I - Serviço de Administração - (S.A.).
 
@@ -30,11 +28,11 @@ Fica suprimido o art. 28 e feitas as necessárias alterações nos números dos 
 
 O serviço de Engenharia que constituirá no novo Regimento o Capitulo VIII terá a seguinte redação:
 
-<strong>CAPITULO I</strong>
+**CAPITULO I**
 
-<em>Do serviço de Engenharia:</em>
+*Do serviço de Engenharia:*
 
-<strong>Art</strong>. 33 Compete ao Serviço de Engenharia:
+**Art**. 33 Compete ao Serviço de Engenharia:
 
 a) cooperar com a chefia da Divisão de Conservacão de Obras  em assunto tecnicos de engenharia;
 
@@ -58,10 +56,10 @@ j) examinar o material em uso propondo as modificacões necessarias à eficienci
 
 k) submeter à aprovacão das Seperitendencia as propostas a orcamentos de obras novas ou modificacões de importância , nas instalacões do pôrto.
 
-<strong>Art</strong>. 2º Êste Decreto entrara em vigor na data de sua publicação revogadas as disposições em contrario.
+**Art**. 2º Êste Decreto entrara em vigor na data de sua publicação revogadas as disposições em contrario.
 
 Rio de Janeiro , 22 de janeiro de 1946, 125º da Independência , 58º da Republica.
 
-<strong>JOSE LINHARES</strong>
+**JOSE LINHARES**
 
 Mauricio Joppert da Silva

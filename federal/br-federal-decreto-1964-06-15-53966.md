@@ -1,5 +1,3 @@
-###DEC-053966-0-000-15-06-1964@@@
-
 DECRETO Nº 53.966, DE 15 DE JUNHO DE 1964.
 
 Fixa o valor de gratificação de presença dos membros dos Conselhos Deliberativo do Departamento Nacional de Obras de Saneamento e do Departamento Nacional de Obras Contra as Sêcas e dá outras providências.

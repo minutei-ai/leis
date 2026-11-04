@@ -1,5 +1,3 @@
-###DEC-081668-0-000-16-05-1978@@@
-
 Decreta nº 81.668, 16 de maio de 1978.
 
 Regulamenta o Decreto-lei, nº 1.512, de 29 de dezembro de 1976 que altera a legislação do empréstimo compulsório instituído em favor da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS e dá outras providências.

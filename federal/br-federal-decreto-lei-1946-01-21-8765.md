@@ -1,5 +1,3 @@
-###DEL-008765-0-000-21-01-1946@@@
-
 DECRETO-LEI N. 8.765 – DE 21 DE JANEIRO DE 1946
 
 Dispõe sobre a contagem de tempo para aposentadoria dos Ministros do Tribunal de Contas

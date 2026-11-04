@@ -1,5 +1,3 @@
-###DEC-058022-0-000-21-03-1966@@@
-
 Decreto nº 58.022, de 21 de março de 1966.
 
 Altera o Regimento do Museu Imperial

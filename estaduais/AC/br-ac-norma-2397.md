@@ -2,7 +2,11 @@ Revogada pela Lei nº [3.354 , de 18 de Dezembro de 2017.](https://legis.ac.gov.
 
 > **LEI Nº 3.220, DE 02 DE JANEIRO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Fixa o subsidio do governador, vice-governador e dos secretários de Estado para o exercício financeiro de 2017.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Fixa o subsidio do governador, vice-governador e dos secretários de Estado para o exercício financeiro de 2017.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

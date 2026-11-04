@@ -1,5 +1,3 @@
-###DEC-051059-0-000-26-07-1961@@@
-
 Decreto nº 51.059, de 26 de julho de 1961.
 
 Cassa a autorização para funcionamento do Jockey Clube de Canoas, com sede na cidade de Pôrto Alegre, Estado do Rio Grande do Sul, e dá outras providências.

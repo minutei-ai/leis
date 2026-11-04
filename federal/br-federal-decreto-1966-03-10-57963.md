@@ -1,5 +1,3 @@
-###DEC-057963-0-000-10-03-1966@@@
-
 DECRETO Nº 57.963, DE 10 DE MARÇO DE 1966.
 
 Autoriza o cidadão brasileiro Antonio Pereira de Almeida a pesquisar argila, no município de Campina Grande, Estado da Paraíba.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001199-0-000-24-11-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.199, DE 24 DE NOVEMBRO DE 1995.
 
 Dispõe sobre crédito rural, e dá outras providências.

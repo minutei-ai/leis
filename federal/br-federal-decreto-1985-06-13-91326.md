@@ -1,5 +1,3 @@
-###DEC-091326-0-000-13-06-1985@@@
-
 Decreto nº 91.326 de 13 de Junho de 1985.
 
 Restabelece a função de confiança que indica.

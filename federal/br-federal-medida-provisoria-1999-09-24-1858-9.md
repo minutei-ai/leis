@@ -1,5 +1,3 @@
-###MPV-001858-0-009-24-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.858-9, DE 24 de SETEMBRO DE 1999.
 
 Altera a legislação das Constituições para a Seguridade Social – COFINS, para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público – PIS/PASEP e do Imposto sobe a Renda, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-066920-0-000-20-07-1970@@@
-
 DECRETO Nº 66.920, DE 20 DE JULHO DE 1970.
 
 Declara caduco o Decreto nº 20.566, de 12 de fevereiro de 1946.

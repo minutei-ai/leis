@@ -1,5 +1,3 @@
-###DEC-090078-0-000-16-08-1984@@@
-
 Decreto nº 90.078, de 16 de agosto de 1984
 
 Estende o prazo fixado pelo parágrafo único do artigo 1º, do Decreto nº 88.694, de 13 de setembro de 1983, que determina a intervenção federal nos serviços públicos de energia elétrica de que é concessionária a S.A. de Eletrificação da Paraíba - SAELPA.

@@ -1,5 +1,3 @@
-###DEC-080457-0-000-03-10-1977@@@
-
 DECRETO Nº 80.457, DE 03 DE outubro DE 1977.
 
 Retifica a concessão de lavra outorgada à Magnesita S.A., pelo Decreto número 67.747, de 8 de dezembro de 1970, retificado pelo Decreto número 69.033, de 9 de agosto de 1971.

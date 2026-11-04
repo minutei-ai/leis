@@ -1,5 +1,3 @@
-###DEC-075545-0-000-01-04-1975@@@
-
 DECRETO Nº 75.545, DE 1 DE ABRIL DE 1975.
 
 Cria o Centro de Eletrônica da Marinha e dá outras providências.

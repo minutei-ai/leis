@@ -1,5 +1,3 @@
-###DEL-000575-0-000-08-05-1969@@@
-
 DECRETO-LEI Nº 575, DE 8 DE MAIO DE 1969
 
 Aprova a reforma do 1º Tenente (Q RT VO) - Omar Soares Rocha, cujo registro foi negado pelo Tribunal de Contas da União.

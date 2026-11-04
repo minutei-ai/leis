@@ -1,5 +1,3 @@
-###MPV-001714-0-000-02-09-1998@@@
-
 medida provisória nº 1.714, de 2 de setembro de 1998
 
 Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério do Meio Ambiente, dos Recursos Hídricos e da Amazônia Legal, crédito extraordinário no valor de R$15.500.000,00, para os fins que especifica.

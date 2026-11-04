@@ -1,5 +1,3 @@
-###DEC-093966-0-000-22-01-1987@@@
-
 DECRETO Nº 93.966, DE 22 DE JANEIRO DE 1987
 
 Outorga concessão à RÁDIO EDUCADORA DE ARCOS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Arcos, Estado de Minas Gerais.

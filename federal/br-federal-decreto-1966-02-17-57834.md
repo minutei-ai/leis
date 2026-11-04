@@ -1,5 +1,3 @@
-###DEC-057834-0-000-17-02-1966@@@
-
 Decreto nº 57.834, de 17 de Fevereiro de 1966.
 
 Altera a Tabela Numérica Especial de Extranumerário-mensalista do Quartel-General da 3a Região Militar do Ministério da Guerra, e dá outras providências.

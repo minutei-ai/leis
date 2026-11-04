@@ -1,7 +1,3 @@
-1
-
-###DEC-098017-0-000-02-08-1989@@@
-
 DECRETO Nº 98.017, DE 2 DE AGOSTO DE 1989
 
 Concede autorização, para funcionar como empresa de energia elétrica, a ELETROGÓES S.A.

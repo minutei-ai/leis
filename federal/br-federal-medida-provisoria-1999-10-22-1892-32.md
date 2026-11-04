@@ -1,5 +1,3 @@
-###MPV-001892-0-032-22-10-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.892-32, DE 22 DE OUTUBRO DE 1999.
 
 Dispõe sobre a concessão de financiamento vinculados à exportação de bens ou serviços nacionais, e dá outras providências.

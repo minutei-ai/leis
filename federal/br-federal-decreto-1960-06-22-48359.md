@@ -1,5 +1,3 @@
-###DEC-048359-0-000-22-06-1960@@@
-
 decreto nº 48.359, de 22 de junho de 1960.
 
 Dispõe sôbre a inclusão de cargos na Parte Permanente do Quadro I da Secretaria-Geral do Conselho Nacional de Estatística do Instituto Brasileiro de Geografia e Estatística.

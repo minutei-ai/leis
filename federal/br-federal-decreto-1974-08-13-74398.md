@@ -1,5 +1,3 @@
-###DEC-074398-0-000-13-08-1974@@@
-
 DECRETO Nº 74.398, DE 13 DE AGOSTO DE 1974.
 
 Concede à Indústria de Calcáreo Itá Ltda. o direito de lavrar calcário dolomítico no Município de Tietê, Estado de São Paulo.

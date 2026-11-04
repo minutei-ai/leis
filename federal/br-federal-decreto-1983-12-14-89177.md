@@ -1,5 +1,3 @@
-###DEC-089177-0-000-14-12-1983@@@
-
 # DECRETO Nº 89.177, DE 14 DE DEZEMBRO DE 1983
 
 Extingue a Diretoria de encargos Assistenciais no Ministério da Aeronáutica.

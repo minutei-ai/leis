@@ -1,5 +1,3 @@
-###DEC-068121-0-000-27-01-1971@@@
-
 DECRETO Nº 68.121, de 27 de janeiro de 1971.
 
 Reorganiza o Departamento Geral do Pessoal do Ministério do Exército e dá outras providências.

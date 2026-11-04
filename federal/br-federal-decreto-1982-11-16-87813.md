@@ -1,5 +1,3 @@
-###DEC-087813-0-000-16-11-1982@@@
-
 Decreto nº 87.813, de 16 de novembro de 1982
 
 Modifica disposições do Decreto nº 83.700, de 05 de julho de 1979, relativamente aos preços de referência do álcool destinado à indústria alcoolquímica e dá outras providências.

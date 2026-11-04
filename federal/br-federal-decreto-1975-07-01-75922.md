@@ -1,5 +1,3 @@
-###DEC-075922-0-000-01-07-1975@@@
-
 DECRETO Nº 75.922, DE 1 DE JULHO DE 1975.
 
 Dispõe sobre a criação do Programa Nacional de Centros Sociais Urbanos - CSU.

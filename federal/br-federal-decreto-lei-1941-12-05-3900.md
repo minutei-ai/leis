@@ -1,5 +1,3 @@
-###DEL-003900-0-000-05-12-1941@@@
-
 DECRETO-LEI N. 3.900 – DE 5 DE DEZEMBRO DE 1941
 
 Dá nova redação ao art. 13 do decreto-lei nº 1.699, de 24 de outubro de 1939.

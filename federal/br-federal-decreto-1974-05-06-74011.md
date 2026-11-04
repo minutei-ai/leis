@@ -1,5 +1,3 @@
-###DEC-074011-0-000-06-05-1974@@@
-
 DECRETO Nº 74.011, DE 6 DE MAIO DE 1974.
 
 Altera o Decreto nº 73.713, de 1 de março de 1974, que aprova o Estatuto da Empresa Pública Banco Nacional do Desenvolvimento Econômico (BNDE)

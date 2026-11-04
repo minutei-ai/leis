@@ -1,5 +1,3 @@
-###DEC-059138-0-000-25-08-1966@@@
-
 decreto nº 59.138, de 25 de agôsto de 1966.
 
 Concede à Mineração Barrazan do Brasil Ltda., autorização para funcionar como emprêsa de mineração.

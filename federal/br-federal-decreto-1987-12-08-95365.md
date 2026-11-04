@@ -1,5 +1,3 @@
-###DEC-095365-0-000-08-12-1987@@@
-
 DECRETO Nº 95.365, DE 08 DE DEZEMBRO DE 1987
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas (DNOCS), área de terra abrangida pelo Projeto de Irrigação "Vale do Rio Brumado", no Município de Livramento de Nossa Senhora, Estado da Bahia, para execução do Programa de Irrigação do Nordeste - PROINE, e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-001973-0-064-28-07-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.973-64, DE 28 DE julho DE 2000.
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

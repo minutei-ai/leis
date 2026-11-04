@@ -1,5 +1,3 @@
-###DEC-075933-0-000-03-07-1975@@@
-
 DECRETO Nº 75.933, DE 3 DE JULHO DE 1975
 
 Concede a Minérios Metalúrgicos do Nordeste SA., o direito de lavrar minério de manganês no Município de Lícinio de Almeida, Estado da Bahia.

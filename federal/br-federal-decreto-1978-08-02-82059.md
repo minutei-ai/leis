@@ -1,5 +1,3 @@
-###DEC-082059-0-000-02-08-1978@@@
-
 Decreto nº 82 059, de 02 de agosto de 1978.
 
 Altera dispositivos do Regulamento do Depósito de Aeronáutica do Rio de Janeiro e dá outras providências.

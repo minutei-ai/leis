@@ -1,5 +1,3 @@
-###DEC-084654-0-000-28-04-1980@@@
-
 DECRETO Nº 84.654, DE 28 DE ABRIL DE 1980.
 
 Concede à Agência Especial de Financiamento Industrial - FINAME autorização para proceder a aumento do seu capital social.

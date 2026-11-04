@@ -1,5 +1,3 @@
-###DEC-070590-0-000-23-05-1972@@@
-
 DECRETO Nº 70.590, DE 23 DE MAIO DE 1972.
 
 Retifica o artigo 1º do Decreto número 30.028, de 29 de setembro de 1951, retificado pelo de número 41.457, de 6 de maio de 1957.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209553)<br>
-
 # RESOLUÇÃO DA ALESP N° 944, DE 12 DE JUNHO DE 2024
 
 ## (Projeto de Resolução n° 13, de 2024)

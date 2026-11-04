@@ -1,5 +1,3 @@
-###DEC-054711-0-000-29-10-1964@@@
-
 DECRETO Nº 54.711, DE 29 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Félix Segundo Pelizari a pesquisar calcário no município de Iporanga, Estado de São Paulo.

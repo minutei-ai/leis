@@ -1,5 +1,3 @@
-###DEC-092741-0-000-03-06-1986@@@
-
 DECRETO Nº 92.741, DE 3 DE JUNHO DE 1986
 
 Dispõe sobre a Embaixada do Brasil em Conacri.

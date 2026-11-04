@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/262c32fa-7ad3-44fe-85ca-df7b206351f4/texto#nowhere)
 
-###DEL-000914-0-000-07-10-1969@@@
-
 DECREto-LEI Nº 914, DE 7 DE OUTUBRO DE 1969
 
 Altera disposições da Lei nº 5.143, de 20 de outubro de 1966, que regula a cobrança do Impôsto sôbre Operações Financeiras, e dá outras providências.

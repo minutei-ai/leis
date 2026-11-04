@@ -1,5 +1,3 @@
-###MPV-001799-0-001-21-01-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.799-1, DE 21 DE JANEIRO DE 1999.
 
 Altera dispositivos da Lei nº 9.649, de 27 de maio de 1998, que dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

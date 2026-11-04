@@ -1,7 +1,3 @@
-1
-
-###DEC-000754-0-000-18-02-1993@@@
-
 DECRETO N° 754, DE 18 DE FEVEREIRO DE 1993
 
 Altera o Decreto n° 77.272/76, que reorganiza as Forças Navais, Aeronavais e de Fuzileiros Navais e dá outras providências.

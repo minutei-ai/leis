@@ -1,5 +1,3 @@
-###DEC-088626-0-000-16-08-1983@@@
-
 DECRETO Nº 88.626, de 16 de agosto de 1983
 
 Estabelece normas para o escoamento, comercialização e estocagem de álcool para fins energéticos e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-096864-0-000-29-09-1988@@@
-
 DECRETO N° 96.864, DE 29 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada a RÁDIO RIBAMAR LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na Ci­dade de São Luís, Estado do Maranhão.

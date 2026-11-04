@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74936)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2007/compilacao-lei.complementar-1027-27.12.2007.html)
 
 # LEI COMPLEMENTAR Nº 1.027, DE 27 DE DEZEMBRO DE 2007

@@ -1,5 +1,3 @@
-###DEL-009283-0-000-23-05-1946@@@
-
 DECRETO-LEI N. 9.283 – DE 23 DE MAIO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a isentar o Colégio Militar de impostos que menciona.

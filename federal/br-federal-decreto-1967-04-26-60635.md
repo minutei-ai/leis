@@ -1,5 +1,3 @@
-###DEC-060635-0-000-26-04-1967@@@
-
 Decreto nº 60.635, de 26 de abril de 1967.
 
 Dispõe sôbre a Verba de representação do Presidente do Instituto Brasileiro de Geografia e Estatística - I. B. G. E.

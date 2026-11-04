@@ -1,5 +1,3 @@
-###DEC-007259-0-000-10-08-2010-PUB-01@@@
-
 DECRETO Nº 7.259, DE 10 DE AGOSTO DE 2010.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1.929, de 9 de junho de 2010, do Conselho de Segurança das Nações Unidas

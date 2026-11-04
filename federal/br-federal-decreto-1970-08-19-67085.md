@@ -1,5 +1,3 @@
-###DEC-067085-0-000-19-08-1970@@@
-
 Decreto nº 67.085, de 19 de agôsto de 1970.
 
 Reestrutura o Serviço Federal de Processamento de Dados (SERPRO) e dá outras providências.

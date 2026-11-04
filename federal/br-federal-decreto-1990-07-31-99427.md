@@ -1,7 +1,3 @@
-1
-
-###DEC-099427-0-000-31-07-1990@@@
-
 DECRETO N° 99.427, DE 31 DE JULHO DE 1990
 
 Desregulamenta o processo de renovação de registro ou licença para produção e comercialização de produtos e insumos agropecuários.

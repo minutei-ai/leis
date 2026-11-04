@@ -1,5 +1,3 @@
-###DEC-077943-0-000-30-06-1976@@@
-
 DECRETO Nº 77.943, DE 30 DE JUNHO DE 1976.
 
 Concede reconhecimento ao curso de Pedagogia do Instituto de Ensino Superior de Mococa, com sede na cidade de Mococa, Estado de São Paulo.

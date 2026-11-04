@@ -1,5 +1,3 @@
-###DEL-003008-0-000-30-01-1941@@@
-
 DECRETO-LEI N. 3.008 – DE 30 DE JANEIRO DE 1941
 
  Altera dispositivos do regulamento de coletorias

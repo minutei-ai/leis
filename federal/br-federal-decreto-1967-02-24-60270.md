@@ -1,5 +1,3 @@
-###DEC-060270-0-000-24-02-1967@@@
-
 DECRETO Nº 60.270, DE 24 DE FEVEREIRO DE 1967.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação de equipamentos novos sem similar nacional registrado, neste descritos e consignados à emprêsa “Companhia Empório Industrial do Norte”, de Salvador - BA.
@@ -14,7 +12,105 @@ DECRETA:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação de equipamentos novos sem similar nacional, registrado, a seguir descritos e consignados à emprêsa “Companhia Empório Industrial do Norte”, de Salvador - BA:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ITEM – ESPECIFICAÇÃO</span></p></td><td style="width:127.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor total</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>1 - Passador de 1ª passagem, marca Globe de fabricação da Platts Bros da Inglaterra, tipo 740 com duas entregas, bitola de 22”, para latas de 20” de Ø por 42” de altura, completo, inclusive sistema de estiragem “Pressure Bar” e sistema de aspiração de poeira; 1 motor de 2 HP, 440 volts, trifásico, 60 ciclos 1.720 rpm, fechado assincrono, marca D. 184, fabricante Encglish Eletgric Cc. Para o passador de um motor de 11/2 HP – 440 volts, trifásico, 60 ciclos, 3.440 rpm, fechado assincrono, marca F.S. 84.300, fabricante Encglish Eletgric Co. para o sistema de aspiração.....................................................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>2 - Passador de 2ª passagem, marca Globe de fabricação da Platts Bros da Inglaterra, tipo 740, com duas entregas, bitola de 22”, para latas de 16” de Ø por 42” de altura, completo, inclusive sistema de estiragem “Pressure Bar” e sistema de aspiração de poeira. 1 motor de 2 HP, 440 volts, trifásico, 60 ciclos. 1.720 rpm, fechado assíncrono, marca D. 184, fabricante English Eletric Co. para o passador e 1 motor de 1 ½ HP - 440 volts, trifásico, 60 ciclos, 3.440 rpm fechado assíndrico, marca F.S. 84.300 fabricante Enflish Eletric Co. para sistema de aspiração.....................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Total.............................................................................</span></p></td><td style="width:127.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>11.287</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>11.237</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>22.574</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+ITEM – ESPECIFICAÇÃO
+
+</td><td style="width:127.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Quantidade a ser importada
+
+</td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Valor total
+
+</td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+1 - Passador de 1ª passagem, marca Globe de fabricação da Platts Bros da Inglaterra, tipo 740 com duas entregas, bitola de 22”, para latas de 20” de Ø por 42” de altura, completo, inclusive sistema de estiragem “Pressure Bar” e sistema de aspiração de poeira; 1 motor de 2 HP, 440 volts, trifásico, 60 ciclos 1.720 rpm, fechado assincrono, marca D. 184, fabricante Encglish Eletgric Cc. Para o passador de um motor de 11/2 HP – 440 volts, trifásico, 60 ciclos, 3.440 rpm, fechado assincrono, marca F.S. 84.300, fabricante Encglish Eletgric Co. para o sistema de aspiração.....................................................................
+
+2 - Passador de 2ª passagem, marca Globe de fabricação da Platts Bros da Inglaterra, tipo 740, com duas entregas, bitola de 22”, para latas de 16” de Ø por 42” de altura, completo, inclusive sistema de estiragem “Pressure Bar” e sistema de aspiração de poeira. 1 motor de 2 HP, 440 volts, trifásico, 60 ciclos. 1.720 rpm, fechado assíncrono, marca D. 184, fabricante English Eletric Co. para o passador e 1 motor de 1 ½ HP - 440 volts, trifásico, 60 ciclos, 3.440 rpm fechado assíndrico, marca F.S. 84.300 fabricante Enflish Eletric Co. para sistema de aspiração.....................................................................
+
+Total.............................................................................
+
+</td><td style="width:127.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+2
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+2
+
+-
+
+&nbsp;
+
+</td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+11.287
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+11.237
+
+22.574
+
+</td></tr></tbody></table>
 
 Parágrafo único. Com respeito aos motores elétricos que acompanham a maquinária, fica sua similaridade para efeito de isenção de que trata o presente decreto, para ser examinada pela alfândega de destino, quando do desembaraço, aduaneiro, na hipótese de os mesmos seguirem regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agôsto de 1958, do Senhor Ministro da Fazenda.
 

@@ -1,5 +1,3 @@
-###DEL-003334-0-000-06-06-1941@@@
-
 DECRETO-LEI N. 3.334 – DE 6 DE JUNHO DE 1941
 
 Organiza o 15º Regimento de Infantaria

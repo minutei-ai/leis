@@ -1,5 +1,3 @@
-###DEC-069292-0-000-27-09-1971@@@
-
 DECRETO Nº 69.292, DE 27 DE SETEMBRO DE 1971.
 
 Aprova o regulamento da Diretoria de Contabilidade, do Ministério do Exército.

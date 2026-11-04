@@ -10,9 +10,10 @@ Art. 2º A entidade referida no artigo anterior é uma sociedade civil de direit
 
 Gabinete do Prefeito de Rio Verde, aos 17 de novembro de 2025.
 
-WELLINGTON SOARES CARRIJO FILHO<br>
+WELLINGTON SOARES CARRIJO FILHO
+
 Prefeito de Rio Verde
 
-<br>
-VINÍCIUS FONSÊCA CAMPOS<br>
-Procurador-Geral<br>
+VINÍCIUS FONSÊCA CAMPOS
+
+Procurador-Geral

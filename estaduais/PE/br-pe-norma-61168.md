@@ -872,354 +872,43 @@ ERNANI VARJAL MEDICIS PINTO
 
 **FICHA DE AVALIAÇÃO FUNCIONAL (FAF)**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="643" style="width:482.0pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:24.7pt"><td width="71" colspan="2" style="width:53.45pt;border:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:24.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">ITEM</span></p></td><td width="449" colspan="2" style="width:337.0pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 0cm 0cm 0cm;height:24.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">ATRIBUTOS DE AVALIAÇÃO</span></p></td><td width="106" colspan="2" style="width:79.75pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 0cm 0cm 0cm;height:24.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">PONTOS</span></p></td><td width="16" valign="top" style="width:11.8pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 0cm 0cm 0cm;height:24.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:49.15pt"><td width="71" colspan="2" style="width:53.45pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:49.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1</span></p></td><td width="449" colspan="2" valign="top" style="width:337.0pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:49.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">ESPÍRITO DE CORPO&nbsp;(0,25 a 5 pontos)</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Sentimento de identificação com os valores e tradições da Corporação e da OME, gerando interações positivas de apoio mútuo, que se prolongam no tempo.</span></p></td><td width="106" colspan="2" valign="top" style="width:79.75pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:49.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="16" valign="top" style="width:11.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:49.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:30.0pt"><td width="627" colspan="6" style="width:470.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:30.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">JUSTIFICATIVA:</span></p></td><td width="16" valign="top" style="width:11.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:30.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:49.2pt"><td width="71" colspan="2" style="width:53.45pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:49.2pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2</span></p></td><td width="449" colspan="2" valign="top" style="width:337.0pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:49.2pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">INICIATIVA&nbsp;(0,25 a 5 pontos)</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Capacidade de visualizar, pensar e agir prontamente acima do senso comum, mesmo diante da falta de normas específicas e de processos de trabalho previamente determinados.</span></p></td><td width="106" colspan="2" valign="top" style="width:79.75pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:49.2pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="16" valign="top" style="width:11.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:49.2pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:29.05pt"><td width="627" colspan="6" style="width:470.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:29.05pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">JUSTIFICATIVA:</span></p></td><td width="16" valign="top" style="width:11.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:29.05pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:61.95pt"><td width="71" colspan="2" style="width:53.45pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:61.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3</span></p></td><td width="449" colspan="2" valign="top" style="width:337.0pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:61.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">COLABORAÇÃO&nbsp;(0,25 a 5 pontos)</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Capacidade de apresentar sugestões ou ideias tendentes ao aperfeiçoamento do serviço, de contribuir espontaneamente com o trabalho em equipe, com o comandante imediato e com os companheiros, na realização dos trabalhos afetos a Corporação.</span></p></td><td width="106" colspan="2" valign="top" style="width:79.75pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:61.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="16" valign="top" style="width:11.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:61.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:29.75pt"><td width="627" colspan="6" style="width:470.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:29.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">JUSTIFICATIVA:</span></p></td><td width="16" valign="top" style="width:11.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:29.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:49.2pt"><td width="71" colspan="2" style="width:53.45pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:49.2pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">4</span></p></td><td width="449" colspan="2" valign="top" style="width:337.0pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:49.2pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">PLANEJAMENTO&nbsp;(0,25 a 5 pontos)</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Capacidade de planejar as atividades. Ordenação do trabalho de forma racional. Cumprimento de planos, metas e priorização de tarefas.</span></p></td><td width="106" colspan="2" valign="top" style="width:79.75pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:49.2pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="16" valign="top" style="width:11.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:49.2pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:29.95pt"><td width="627" colspan="6" style="width:470.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:29.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">JUSTIFICATIVA:</span></p></td><td width="16" valign="top" style="width:11.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:29.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:39.85pt"><td width="71" colspan="2" style="width:53.45pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:39.85pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">5</span></p></td><td width="449" colspan="2" valign="top" style="width:337.0pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:39.85pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">EQUILIBRIO EMOCIONAL&nbsp;(0,25 a 5 pontos)</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Capacidade de controlar as próprias reações para continuar a agir, apropriadamente, nas diferentes situações.</span></p></td><td width="106" colspan="2" valign="top" style="width:79.75pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:39.85pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="16" valign="top" style="width:11.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:39.85pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:30.0pt"><td width="627" colspan="6" style="width:470.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:30.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">JUSTIFICATIVA:</span></p></td><td width="16" valign="top" style="width:11.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:30.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:54.5pt"><td width="71" style="width:53.0pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:54.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">6</span></p></td><td width="456" colspan="4" valign="top" style="width:341.7pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:54.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">RESPONSABILIDADE&nbsp;(0,25 a 5 pontos)</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Responsabilidade no exercício do cargo. Dever de imputar a si próprio à obrigação de responder e de assumir pela prática dos seus atos, no desempenho das funções do cargo que ocupa<i>.</i></span></p></td><td width="101" valign="top" style="width:75.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:54.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="16" valign="top" style="width:11.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:54.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:29.5pt"><td width="627" colspan="6" style="width:470.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:29.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">JUSTIFICATIVA:</span></p></td><td width="16" valign="top" style="width:11.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:29.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:49.45pt"><td width="77" colspan="3" style="width:57.95pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:49.45pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">7</span></p></td><td width="449" colspan="2" valign="top" style="width:336.75pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:49.45pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">TRANSMISSAO DE CONHECIMENTO&nbsp;(0,25 a 5 pontos)</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Disseminação de conhecimentos. Compartilhamento de novas práticas com seus superiores, pares e subordinados, possibilitando o aprendizado de novos conhecimentos.</span></p></td><td width="101" valign="top" style="width:75.5pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:49.45pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="16" valign="top" style="width:11.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:49.45pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr><td style="border:solid windowtext 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2"> ITEM </td><td colspan="2"> ATRIBUTOS DE AVALIAÇÃO </td><td colspan="2"> PONTOS </td><td valign="top"> &nbsp; </td></tr><tr><td colspan="2"> 1 </td><td colspan="2" valign="top"> ESPÍRITO DE CORPO&nbsp;(0,25 a 5 pontos) Sentimento de identificação com os valores e tradições da Corporação e da OME, gerando interações positivas de apoio mútuo, que se prolongam no tempo. </td><td colspan="2" valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td colspan="6"> JUSTIFICATIVA: </td><td valign="top"> &nbsp; </td></tr><tr><td colspan="2"> 2 </td><td colspan="2" valign="top"> INICIATIVA&nbsp;(0,25 a 5 pontos) Capacidade de visualizar, pensar e agir prontamente acima do senso comum, mesmo diante da falta de normas específicas e de processos de trabalho previamente determinados. </td><td colspan="2" valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td colspan="6"> JUSTIFICATIVA: </td><td valign="top"> &nbsp; </td></tr><tr><td colspan="2"> 3 </td><td colspan="2" valign="top"> COLABORAÇÃO&nbsp;(0,25 a 5 pontos) Capacidade de apresentar sugestões ou ideias tendentes ao aperfeiçoamento do serviço, de contribuir espontaneamente com o trabalho em equipe, com o comandante imediato e com os companheiros, na realização dos trabalhos afetos a Corporação. </td><td colspan="2" valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td colspan="6"> JUSTIFICATIVA: </td><td valign="top"> &nbsp; </td></tr><tr><td colspan="2"> 4 </td><td colspan="2" valign="top"> PLANEJAMENTO&nbsp;(0,25 a 5 pontos) Capacidade de planejar as atividades. Ordenação do trabalho de forma racional. Cumprimento de planos, metas e priorização de tarefas. </td><td colspan="2" valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td colspan="6"> JUSTIFICATIVA: </td><td valign="top"> &nbsp; </td></tr><tr><td colspan="2"> 5 </td><td colspan="2" valign="top"> EQUILIBRIO EMOCIONAL&nbsp;(0,25 a 5 pontos) Capacidade de controlar as próprias reações para continuar a agir, apropriadamente, nas diferentes situações. </td><td colspan="2" valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td colspan="6"> JUSTIFICATIVA: </td><td valign="top"> &nbsp; </td></tr><tr><td> 6 </td><td colspan="4" valign="top"> RESPONSABILIDADE&nbsp;(0,25 a 5 pontos) Responsabilidade no exercício do cargo. Dever de imputar a si próprio à obrigação de responder e de assumir pela prática dos seus atos, no desempenho das funções do cargo que ocupa*.* </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td colspan="6"> JUSTIFICATIVA: </td><td valign="top"> &nbsp; </td></tr><tr><td colspan="3"> 7 </td><td colspan="2" valign="top"> TRANSMISSAO DE CONHECIMENTO&nbsp;(0,25 a 5 pontos) Disseminação de conhecimentos. Compartilhamento de novas práticas com seus superiores, pares e subordinados, possibilitando o aprendizado de novos conhecimentos. </td><td valign="top"> &nbsp; </td><td valign="top"> &nbsp; </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td></tr></tbody></table>
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="672" style="width:504.05pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:29.75pt"><td width="672" colspan="4" style="width:504.05pt;border:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:29.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">JUSTIFICATIVA:</span></p></td></tr><tr style="height:49.7pt"><td width="83" style="width:62.5pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:49.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">8</span></p></td><td width="457" colspan="2" valign="top" style="width:342.95pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:49.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">TRABALHO EM EQUIPE&nbsp;(0,25 a 5 pontos)</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Busca de melhorias e soluções para problemas nas áreas administrativas e operacionais, respeitando a opinião dos colegas e colaborando para a interação da equipe.</span></p></td><td width="131" valign="top" style="width:98.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:49.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:27.1pt"><td width="672" colspan="4" style="width:504.05pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:27.1pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">JUSTIFICATIVA:</span></p></td></tr><tr style="height:49.7pt"><td width="83" style="width:62.5pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:49.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">9</span></p></td><td width="457" colspan="2" valign="top" style="width:342.95pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:49.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">CONDUTA MILITAR&nbsp;(0,25 a 5 pontos)</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Cumprimento do dever, disciplina, apresentação pessoal, correção de atitudes e relações humanas, comportamento compatível com a sua condição de oficial.</span></p></td><td width="131" valign="top" style="width:98.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:49.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:29.75pt"><td width="672" colspan="4" style="width:504.05pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:29.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">JUSTIFICATIVA:</span></p></td></tr><tr style="height:62.4pt"><td width="83" style="width:62.5pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:62.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">10</span></p></td><td width="457" colspan="2" valign="top" style="width:342.95pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:62.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">CAPACIDADE DE COMANDO, CHEFIA, DIREÇÃO, GESTÃO&nbsp;(0,25 a 5 pontos)</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Capacidade no desempenho das funções de comandante, chefe ou diretor, gestor e administrador. Capacidade de liderança, de julgamento, de organização e eficiência.</span></p></td><td width="131" valign="top" style="width:98.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:62.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:29.75pt"><td width="672" colspan="4" style="width:504.05pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:29.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">JUSTIFICATIVA:</span></p></td></tr><tr style="height:13.4pt"><td width="388" colspan="2" valign="top" style="width:291.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:13.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="152" valign="top" style="width:114.25pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:13.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">SOMA</span></p></td><td width="131" valign="top" style="width:98.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:13.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr><td style="border:solid windowtext 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="4"> JUSTIFICATIVA: </td></tr><tr><td> 8 </td><td colspan="2" valign="top"> TRABALHO EM EQUIPE&nbsp;(0,25 a 5 pontos) Busca de melhorias e soluções para problemas nas áreas administrativas e operacionais, respeitando a opinião dos colegas e colaborando para a interação da equipe. </td><td valign="top"> &nbsp; </td></tr><tr><td colspan="4"> JUSTIFICATIVA: </td></tr><tr><td> 9 </td><td colspan="2" valign="top"> CONDUTA MILITAR&nbsp;(0,25 a 5 pontos) Cumprimento do dever, disciplina, apresentação pessoal, correção de atitudes e relações humanas, comportamento compatível com a sua condição de oficial. </td><td valign="top"> &nbsp; </td></tr><tr><td colspan="4"> JUSTIFICATIVA: </td></tr><tr><td> 10 </td><td colspan="2" valign="top"> CAPACIDADE DE COMANDO, CHEFIA, DIREÇÃO, GESTÃO&nbsp;(0,25 a 5 pontos) Capacidade no desempenho das funções de comandante, chefe ou diretor, gestor e administrador. Capacidade de liderança, de julgamento, de organização e eficiência. </td><td valign="top"> &nbsp; </td></tr><tr><td colspan="4"> JUSTIFICATIVA: </td></tr><tr><td colspan="2" valign="top"> &nbsp; </td><td valign="top"> SOMA </td><td valign="top"> &nbsp; </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td></tr></tbody></table>
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="676" style="width:507.2pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:24.7pt"><td width="340" style="width:255.35pt;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:24.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">PONTUAÇÃO DEPRECIATIVA</span></p></td><td width="99" style="width:74.6pt;border:inset black 1.0pt;border-left:none;
-  padding:0cm 0cm 0cm 0cm;height:24.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">PONTOS</span></p></td><td width="132" style="width:99.2pt;border:inset black 1.0pt;border-left:none;
-  padding:0cm 0cm 0cm 0cm;height:24.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">QUANTIDADE</span></p></td><td width="104" style="width:78.0pt;border:inset black 1.0pt;border-left:none;
-  padding:0cm 0cm 0cm 0cm;height:24.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">TOTAL</span></p></td></tr><tr style="height:10.7pt"><td width="340" valign="top" style="width:255.35pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:10.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Punição Disciplinar - Prisão</span></p></td><td width="99" style="width:74.6pt;padding:0cm 0cm 0cm 0cm;height:10.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">5,00</span></p></td><td width="132" style="width:99.2pt;padding:0cm 0cm 0cm 0cm;height:10.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="104" valign="top" style="width:78.0pt;padding:0cm 0cm 0cm 0cm;
-  height:10.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:22.55pt"><td width="340" valign="top" style="width:255.35pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:22.55pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Punição Disciplinar - Detenção</span></p></td><td width="99" style="width:74.6pt;padding:0cm 0cm 0cm 0cm;height:22.55pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2,50</span></p></td><td width="132" style="width:99.2pt;padding:0cm 0cm 0cm 0cm;height:22.55pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="104" valign="top" style="width:78.0pt;padding:0cm 0cm 0cm 0cm;
-  height:22.55pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:22.3pt"><td width="340" valign="top" style="width:255.35pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:22.3pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Falta de aproveitamento em curso com ônus para o Estado</span></p></td><td width="99" style="width:74.6pt;padding:0cm 0cm 0cm 0cm;height:22.3pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2,00</span></p></td><td width="132" style="width:99.2pt;padding:0cm 0cm 0cm 0cm;height:22.3pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="104" valign="top" style="width:78.0pt;padding:0cm 0cm 0cm 0cm;
-  height:22.3pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:22.3pt"><td width="340" valign="top" style="width:255.35pt;padding:0cm 0cm 0cm 0cm;
-  height:22.3pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="99" style="width:74.6pt;padding:0cm 0cm 0cm 0cm;height:22.3pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="132" style="width:99.2pt;padding:0cm 0cm 0cm 0cm;height:22.3pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">SOMA</span></p></td><td width="104" style="width:78.0pt;padding:0cm 0cm 0cm 0cm;height:22.3pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr></tbody></table>
+PONTUAÇÃO DEPRECIATIVA
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="290" style="width:217.75pt;margin-left:255.0pt;background:white;border-collapse:
- collapse;border:none"><tbody><tr><td width="185" style="width:139.05pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">NOTA<u>&nbsp;</u>DA FAF</span></p></td><td width="105" valign="top" style="width:78.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr><td width="185" style="width:139.05pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">CONCEITO DA FAF</span></p></td><td width="105" valign="top" style="width:78.65pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr></tbody></table>
+PONTOS
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="682" style="width:511.4pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:41.3pt"><td width="227" valign="top" style="width:170.3pt;border:inset black 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:41.3pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Ciência do</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Oficial/Graduado Avaliado</span></p></td><td width="130" valign="top" style="width:97.6pt;border:inset black 1.0pt;
-  border-left:none;padding:0cm 0cm 0cm 0cm;height:41.3pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Data:</span></p></td><td width="325" style="width:243.5pt;border:inset black 1.0pt;border-left:none;
-  padding:0cm 0cm 0cm 0cm;height:41.3pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Assinatura:</span></p></td></tr></tbody></table>
+QUANTIDADE
+
+TOTAL
+
+Punição Disciplinar - Prisão
+
+5,00
+
+Punição Disciplinar - Detenção
+
+2,50
+
+Falta de aproveitamento em curso com ônus para o Estado
+
+2,00
+
+SOMA
+
+NOTA DA FAF
+
+CONCEITO DA FAF
+
+Ciência do
+
+Oficial/Graduado Avaliado
+
+Data:
+
+Assinatura:
 
 ·································································,em ........../........../..........
 
@@ -1251,151 +940,7 @@ Art. 10. De acordo com a nota da FAF, será atribuído o conceito ao militar do 
 
 **ANEXO II**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="626" style="width:469.65pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:14.85pt"><td width="626" colspan="6" valign="top" style="width:469.65pt;border:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.85pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:#333333">FICHA DE AVALIAÇÃO ESTRATÉGICA (FAE)</span></p></td></tr><tr style="height:13.15pt"><td width="148" colspan="2" valign="top" style="width:111.3pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:13.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">NOME</span></p></td><td width="478" colspan="4" valign="top" style="width:358.35pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:13.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:23.0pt"><td width="148" colspan="2" valign="top" style="width:111.3pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:23.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">POSTO OU GRADUAÇÃO</span></p></td><td width="127" valign="top" style="width:95.1pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:23.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">MATRÍCULA</span></p></td><td width="171" valign="top" style="width:128.2pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:23.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="69" valign="top" style="width:51.4pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:23.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">OME</span></p></td><td width="112" valign="top" style="width:83.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:23.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:13.05pt"><td width="626" colspan="6" valign="top" style="width:469.65pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:13.05pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">PERÍODO DE AVALIAÇÃO:</span></p></td></tr><tr style="height:12.8pt"><td width="80" valign="top" style="width:59.7pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:12.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">ITEM</span></p></td><td width="435" colspan="4" valign="top" style="width:326.3pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:12.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">ATRIBUTOS DE AVALIAÇÃO</span></p></td><td width="112" valign="top" style="width:83.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:12.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">PONTOS</span></p></td></tr><tr style="height:73.95pt"><td width="80" style="width:59.7pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:73.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1</span></p></td><td width="435" colspan="4" valign="top" style="width:326.3pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:73.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">PREPARO CONTINUADO&nbsp;(0,5 a 10 pontos)</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Busca constante do aperfeiçoamento profissional, nas áreas intelectual, técnica e da capacidade física, que o condicional ao melhor exercício funcional na Corporação.</span></p></td><td width="112" valign="top" style="width:83.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:73.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:86.95pt"><td width="80" style="width:59.7pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:86.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2</span></p></td><td width="435" colspan="4" valign="top" style="width:326.3pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:86.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">EFICIÊNCIA REVELADA NO DESEMPENHO DO CARGO, FUNÇÃO E COMISSÕES&nbsp;(0,5 a 10 pontos)</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Capacidade de desempenho no exercício do cargo, função e/ou comissões, com notória eficiência dos resultados produzidos, em busca da excelência.</span></p></td><td width="112" valign="top" style="width:83.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:86.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:87.4pt"><td width="80" style="width:59.7pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:87.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3</span></p></td><td width="435" colspan="4" valign="top" style="width:326.3pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:87.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">POTENCIALIDADE PARA DESEMPENHO DE CARGOS MAIS ELEVADOS&nbsp;(0,5 a 10 pontos)</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Capacidade e preparo intelectual e técnico para desempenho de cargo e função de posto ou graduação superior ao que ocupa.</span></p></td><td width="112" valign="top" style="width:83.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:87.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:59.8pt"><td width="80" style="width:59.7pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:59.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">4</span></p></td><td width="435" colspan="4" valign="top" style="width:326.3pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:59.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">DESTAQUE ENTRE SEUS PARES&nbsp;(0,5 a 10 pontos)</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Qualidades e atributos demonstrados que distinguem e reaçam o valor do militar estadual entre seus pares.</span></p></td><td width="112" valign="top" style="width:83.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:59.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:73.45pt"><td width="80" style="width:59.7pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:73.45pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">5</span></p></td><td width="435" colspan="4" valign="top" style="width:326.3pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:73.45pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">FOCO NOS RESULTADOS FRENTE AOS OBJETIVOS DA CORPORAÇÃO&nbsp;(0,5 a 10 pontos)</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Capacidade para alcançar resultados relacionados com os objetivos da Corporação.</span></p></td><td width="112" valign="top" style="width:83.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:73.45pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:14.35pt"><td width="148" colspan="2" rowspan="2" valign="top" style="width:111.3pt;border:
-  solid windowtext 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm;height:14.35pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="366" colspan="3" valign="top" style="width:274.7pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.35pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">NOTA DA FAE</span></p></td><td width="112" valign="top" style="width:83.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.35pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:14.6pt"><td width="366" colspan="3" valign="top" style="width:274.7pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.6pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">CONCEITO DA FAE</span></p></td><td width="112" valign="top" style="width:83.65pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.6pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr><td style="border:solid windowtext 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="6" valign="top"> FICHA DE AVALIAÇÃO ESTRATÉGICA (FAE) </td></tr><tr><td colspan="2" valign="top"> NOME </td><td colspan="4" valign="top"> &nbsp; </td></tr><tr><td colspan="2" valign="top"> POSTO OU GRADUAÇÃO </td><td valign="top"> MATRÍCULA </td><td valign="top"> &nbsp; </td><td valign="top"> OME </td><td valign="top"> &nbsp; </td></tr><tr><td colspan="6" valign="top"> PERÍODO DE AVALIAÇÃO: </td></tr><tr><td valign="top"> ITEM </td><td colspan="4" valign="top"> ATRIBUTOS DE AVALIAÇÃO </td><td valign="top"> PONTOS </td></tr><tr><td> 1 </td><td colspan="4" valign="top"> PREPARO CONTINUADO&nbsp;(0,5 a 10 pontos) Busca constante do aperfeiçoamento profissional, nas áreas intelectual, técnica e da capacidade física, que o condicional ao melhor exercício funcional na Corporação. </td><td valign="top"> &nbsp; </td></tr><tr><td> 2 </td><td colspan="4" valign="top"> EFICIÊNCIA REVELADA NO DESEMPENHO DO CARGO, FUNÇÃO E COMISSÕES&nbsp;(0,5 a 10 pontos) Capacidade de desempenho no exercício do cargo, função e/ou comissões, com notória eficiência dos resultados produzidos, em busca da excelência. </td><td valign="top"> &nbsp; </td></tr><tr><td> 3 </td><td colspan="4" valign="top"> POTENCIALIDADE PARA DESEMPENHO DE CARGOS MAIS ELEVADOS&nbsp;(0,5 a 10 pontos) Capacidade e preparo intelectual e técnico para desempenho de cargo e função de posto ou graduação superior ao que ocupa. </td><td valign="top"> &nbsp; </td></tr><tr><td> 4 </td><td colspan="4" valign="top"> DESTAQUE ENTRE SEUS PARES&nbsp;(0,5 a 10 pontos) Qualidades e atributos demonstrados que distinguem e reaçam o valor do militar estadual entre seus pares. </td><td valign="top"> &nbsp; </td></tr><tr><td> 5 </td><td colspan="4" valign="top"> FOCO NOS RESULTADOS FRENTE AOS OBJETIVOS DA CORPORAÇÃO&nbsp;(0,5 a 10 pontos) Capacidade para alcançar resultados relacionados com os objetivos da Corporação. </td><td valign="top"> &nbsp; </td></tr><tr><td colspan="2" rowspan="2" valign="top"> &nbsp; </td><td colspan="3" valign="top"> NOTA DA FAE </td><td valign="top"> &nbsp; </td></tr><tr><td colspan="3" valign="top"> CONCEITO DA FAE </td><td valign="top"> &nbsp; </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td></tr></tbody></table>
 
 Recife, PE, ........../........../..........
 
@@ -1419,473 +964,7 @@ Art. 6° O militar do Estado deverá tomar conhecimento do resultado de sua aval
 
 **ANEXO III**
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="714" style="width:535.5pt;background:white;border-collapse:collapse"><tbody><tr style="height:12.9pt"><td width="714" colspan="10" valign="top" style="width:535.5pt;padding:0cm 0cm 0cm 0cm;
-  height:12.9pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">FICHA DE PONTUAÇÃO OBJETIVA (FPO)</span></p></td></tr><tr style="height:13.4pt"><td width="151" colspan="2" valign="top" style="width:113.15pt;padding:0cm 0cm 0cm 0cm;
-  height:13.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">NOME:</span></p></td><td width="563" colspan="8" valign="top" style="width:422.35pt;padding:0cm 0cm 0cm 0cm;
-  height:13.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:20.15pt"><td width="151" colspan="2" valign="top" style="width:113.15pt;padding:0cm 0cm 0cm 0cm;
-  height:20.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">POSTO OU GRADUAÇÃO</span></p></td><td width="563" colspan="8" valign="top" style="width:422.35pt;padding:0cm 0cm 0cm 0cm;
-  height:20.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">MATRÍCULA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OME:</span></p></td></tr><tr style="height:13.15pt"><td width="714" colspan="10" valign="top" style="width:535.5pt;padding:0cm 0cm 0cm 0cm;
-  height:13.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">PERÍODO DE AVALIAÇÃO:</span></p></td></tr><tr style="height:11.0pt"><td width="714" colspan="10" valign="top" style="width:535.5pt;padding:0cm 0cm 0cm 0cm;
-  height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1. FORMAÇÃO E APERFEIÇOAMENTO</span></p></td></tr><tr style="height:10.5pt"><td width="547" colspan="8" valign="top" style="width:410.35pt;padding:0cm 0cm 0cm 0cm;
-  height:10.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso de Formação de Oficiais(CFO)/ Curso de Formação de Oficiais da Administração (CFOA)/ Curso de Formação e Habilitação de Praças (CFHP) ou Curso de Formação de Soldados (CFSd)</span></p></td><td width="167" colspan="2" valign="top" style="width:125.15pt;padding:0cm 0cm 0cm 0cm;
-  height:10.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:9.8pt"><td width="714" colspan="10" valign="top" style="width:535.5pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso de Aperfeiçoamento de Oficiais/ Curso de Aperfeiçoamento de Sargentos (CAS)</span></p></td></tr><tr style="height:9.8pt"><td width="714" colspan="10" valign="top" style="width:535.5pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso Superior de Polícia ou Bombeiro Militar (CSP ou CSBM)</span></p></td></tr><tr style="height:14.6pt"><td width="299" colspan="3" rowspan="2" style="width:223.9pt;padding:0cm 0cm 0cm 0cm;
-  height:14.6pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2. CAPACITAÇÃO PROMOVIDA PELA CORPORAÇÃO</span></p></td><td width="175" colspan="3" valign="top" style="width:131.3pt;padding:0cm 0cm 0cm 0cm;
-  height:14.6pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso Operacional</span></p></td><td width="173" colspan="3" valign="top" style="width:129.5pt;padding:0cm 0cm 0cm 0cm;
-  height:14.6pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso Administrativo</span></p></td><td width="68" valign="top" style="width:50.8pt;padding:0cm 0cm 0cm 0cm;
-  height:14.6pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">TOTAL</span></p></td></tr><tr style="height:12.9pt"><td width="76" valign="top" style="width:2.0cm;padding:0cm 0cm 0cm 0cm;
-  height:12.9pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Pontos</span></p></td><td width="99" colspan="2" valign="top" style="width:74.6pt;padding:0cm 0cm 0cm 0cm;
-  height:12.9pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Quantidade</span></p></td><td width="74" colspan="2" valign="top" style="width:55.15pt;padding:0cm 0cm 0cm 0cm;
-  height:12.9pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Pontos</span></p></td><td width="99" valign="top" style="width:74.35pt;padding:0cm 0cm 0cm 0cm;
-  height:12.9pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Quantidade</span></p></td><td width="68" valign="top" style="width:50.8pt;padding:0cm 0cm 0cm 0cm;
-  height:12.9pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:13.4pt"><td width="299" colspan="3" valign="top" style="width:223.9pt;padding:0cm 0cm 0cm 0cm;
-  height:13.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso de 20 a 60 horas</span></p></td><td width="76" style="width:2.0cm;padding:0cm 0cm 0cm 0cm;height:13.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,50</span></p></td><td width="99" colspan="2" style="width:74.6pt;padding:0cm 0cm 0cm 0cm;
-  height:13.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="74" colspan="2" style="width:55.15pt;padding:0cm 0cm 0cm 0cm;
-  height:13.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,25</span></p></td><td width="99" style="width:74.35pt;padding:0cm 0cm 0cm 0cm;height:13.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="68" style="width:50.8pt;padding:0cm 0cm 0cm 0cm;height:13.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:12.7pt"><td width="299" colspan="3" valign="top" style="width:223.9pt;padding:0cm 0cm 0cm 0cm;
-  height:12.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso de 61 a 120 horas</span></p></td><td width="76" style="width:2.0cm;padding:0cm 0cm 0cm 0cm;height:12.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1,00</span></p></td><td width="99" colspan="2" style="width:74.6pt;padding:0cm 0cm 0cm 0cm;
-  height:12.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="74" colspan="2" style="width:55.15pt;padding:0cm 0cm 0cm 0cm;
-  height:12.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,50</span></p></td><td width="99" style="width:74.35pt;padding:0cm 0cm 0cm 0cm;height:12.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="68" style="width:50.8pt;padding:0cm 0cm 0cm 0cm;height:12.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:12.9pt"><td width="299" colspan="3" valign="top" style="width:223.9pt;padding:0cm 0cm 0cm 0cm;
-  height:12.9pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso de 121 a 180 horas</span></p></td><td width="76" style="width:2.0cm;padding:0cm 0cm 0cm 0cm;height:12.9pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1,50</span></p></td><td width="99" colspan="2" style="width:74.6pt;padding:0cm 0cm 0cm 0cm;
-  height:12.9pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="74" colspan="2" style="width:55.15pt;padding:0cm 0cm 0cm 0cm;
-  height:12.9pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,75</span></p></td><td width="99" style="width:74.35pt;padding:0cm 0cm 0cm 0cm;height:12.9pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="68" style="width:50.8pt;padding:0cm 0cm 0cm 0cm;height:12.9pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:13.4pt"><td width="299" colspan="3" valign="top" style="width:223.9pt;padding:0cm 0cm 0cm 0cm;
-  height:13.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso de 181 a 360 horas</span></p></td><td width="76" style="width:2.0cm;padding:0cm 0cm 0cm 0cm;height:13.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2,00</span></p></td><td width="99" colspan="2" style="width:74.6pt;padding:0cm 0cm 0cm 0cm;
-  height:13.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="74" colspan="2" style="width:55.15pt;padding:0cm 0cm 0cm 0cm;
-  height:13.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1,00</span></p></td><td width="99" style="width:74.35pt;padding:0cm 0cm 0cm 0cm;height:13.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="68" style="width:50.8pt;padding:0cm 0cm 0cm 0cm;height:13.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:12.7pt"><td width="299" colspan="3" valign="top" style="width:223.9pt;padding:0cm 0cm 0cm 0cm;
-  height:12.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso acima de 360 horas</span></p></td><td width="76" style="width:2.0cm;padding:0cm 0cm 0cm 0cm;height:12.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">4,00</span></p></td><td width="99" colspan="2" style="width:74.6pt;padding:0cm 0cm 0cm 0cm;
-  height:12.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="74" colspan="2" style="width:55.15pt;padding:0cm 0cm 0cm 0cm;
-  height:12.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2,00</span></p></td><td width="99" style="width:74.35pt;padding:0cm 0cm 0cm 0cm;height:12.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="68" style="width:50.8pt;padding:0cm 0cm 0cm 0cm;height:12.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:11.5pt"><td width="394" colspan="5" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:11.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3. CAPACITAÇÃO NÃO PROMOVIDA PELA CORPORAÇÃO</span></p></td><td width="147" colspan="2" valign="top" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:11.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">PONTOS</span></p></td><td width="173" colspan="3" valign="top" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">QUANTIDADE</span></p></td></tr><tr style="height:9.8pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso de formação técnica superior a 300 horas</span></p></td><td width="147" colspan="2" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1,00</span></p></td><td width="173" colspan="3" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:11.25pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso de Graduação diverso do exigido para o ingresso na carreira de militar estadual</span></p></td><td width="147" colspan="2" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1,50</span></p></td><td width="173" colspan="3" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:9.8pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso de Especialização</span></p></td><td width="147" colspan="2" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2,00</span></p></td><td width="173" colspan="3" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:9.8pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso de Mestrado</span></p></td><td width="147" colspan="2" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3,00</span></p></td><td width="173" colspan="3" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:10.05pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:10.05pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso de Doutorado</span></p></td><td width="147" colspan="2" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:10.05pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">4,00</span></p></td><td width="173" colspan="3" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:10.05pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:9.8pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso de Pós-doutorado</span></p></td><td width="147" colspan="2" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2,00</span></p></td><td width="173" colspan="3" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:11.5pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:11.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">4. PRODUÇÃO TÉCNICA CIENTÍFICA</span></p></td><td width="147" colspan="2" valign="top" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:11.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">PONTOS</span></p></td><td width="173" colspan="3" valign="top" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">QUANTIDADE</span></p></td></tr><tr style="height:9.8pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Artigo ou resenha publicada em qualquer periódico</span></p></td><td width="147" colspan="2" valign="top" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,25</span></p></td><td width="173" colspan="3" valign="top" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:9.8pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Artigo ou resenha publicado no periódico da Corporação militar</span></p></td><td width="147" colspan="2" valign="top" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,50</span></p></td><td width="173" colspan="3" valign="top" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:11.0pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Manual técnico, memento operacional ou administrativo, similares.</span></p></td><td width="147" colspan="2" valign="top" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,75</span></p></td><td width="173" colspan="3" valign="top" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:8.85pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:8.85pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Monografia, proieto de intervenção científica.</span></p></td><td width="147" colspan="2" valign="top" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:8.85pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1,00</span></p></td><td width="173" colspan="3" valign="top" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.85pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:10.5pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:10.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Livro</span></p></td><td width="147" colspan="2" valign="top" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:10.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1 50</span></p></td><td width="173" colspan="3" valign="top" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:10.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:9.8pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Dissertação</span></p></td><td width="147" colspan="2" valign="top" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2,00</span></p></td><td width="173" colspan="3" valign="top" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:9.8pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Tese</span></p></td><td width="147" colspan="2" valign="top" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2 50</span></p></td><td width="173" colspan="3" valign="top" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:11.25pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">5.&nbsp;&nbsp;CONDUTA FUNCIONAL</span></p></td><td width="147" colspan="2" valign="top" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">PONTOS</span></p></td><td width="173" colspan="3" valign="top" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">QUANTIDADE</span></p></td></tr><tr style="height:9.8pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Elogio do Governador do Estado (no posto ou graduação)</span></p></td><td width="147" colspan="2" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1,00</span></p></td><td width="173" colspan="3" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:10.05pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:10.05pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Elogio do Secretário de Defesa Social (no posto ou graduação)</span></p></td><td width="147" colspan="2" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:10.05pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,75</span></p></td><td width="173" colspan="3" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:10.05pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:19.9pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:19.9pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Elogio do Comandante Geral e Chefe da Casa Militar (no posto ou graduação)</span></p></td><td width="147" colspan="2" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:19.9pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,50</span></p></td><td width="173" colspan="3" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:19.9pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:11.15pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:11.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Elogio do Comandante, Chefe ou Diretor imediato (no posto ou graduação)</span></p></td><td width="147" colspan="2" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:11.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,25</span></p></td><td width="173" colspan="3" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:8.85pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:8.85pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Exercício de Diretoria e Comando Operacional (no posto ou graduação)</span></p></td><td width="147" colspan="2" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:8.85pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1,00</span></p></td><td width="173" colspan="3" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.85pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:20.15pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:20.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Exercício de função de Comando ou Chefia de OME (no posto ou graduação)</span></p></td><td width="147" colspan="2" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:20.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,75</span></p></td><td width="173" colspan="3" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:20.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:11.25pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Capacidade física comprovada em Teste de Avaliação Física (TAF)</span></p></td><td width="147" colspan="2" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,50 a 2,00</span></p></td><td width="173" colspan="3" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:9.8pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Tempo de serviço na Corporação&nbsp;<i>(na&nbsp;</i>carreira de militar estadual)</span></p></td><td width="147" colspan="2" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,25</span></p></td><td width="173" colspan="3" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:10.05pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:10.05pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">6. MEDALHA</span></p></td><td width="147" colspan="2" valign="top" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:10.05pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">PONTOS</span></p></td><td width="173" colspan="3" valign="top" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:10.05pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">QUANTIDADE</span></p></td></tr><tr style="height:9.55pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:9.55pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Medalha Tempo de Serviço - MTS1 (10 Anos)</span></p></td><td width="147" colspan="2" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:9.55pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,50</span></p></td><td width="173" colspan="3" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:9.55pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:9.8pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Medalha Tempo de Serviço - MTS2 (20 Anos)</span></p></td><td width="147" colspan="2" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,75</span></p></td><td width="173" colspan="3" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:10.75pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:10.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Medalha Tempo de Serviço - MTS3 (30 Anos)</span></p></td><td width="147" colspan="2" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:10.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1,00</span></p></td><td width="173" colspan="3" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:10.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:8.85pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:8.85pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Medalha Pernambucana do Mérito PMPE ou CBMPE</span></p></td><td width="147" colspan="2" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:8.85pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1,25</span></p></td><td width="173" colspan="3" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:8.85pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:11.0pt"><td width="394" colspan="5" valign="top" style="width:295.4pt;padding:0cm 0cm 0cm 0cm;
-  height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Medalha do mérito intelectual por conclusão de curso</span></p></td><td width="147" colspan="2" style="width:110.1pt;padding:0cm 0cm 0cm 0cm;
-  height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1,50</span></p></td><td width="173" colspan="3" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:11.0pt"><td width="541" colspan="7" valign="top" style="width:405.5pt;padding:0cm 0cm 0cm 0cm;
-  height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">7. PRODUTIVIDADE POR CUMPRIMENTO DE META</span></p></td><td width="173" colspan="3" valign="top" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">PONTOS</span></p></td></tr><tr style="height:9.55pt"><td width="541" colspan="7" valign="top" style="width:405.5pt;padding:0cm 0cm 0cm 0cm;
-  height:9.55pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Produtividade por Prisão em Flagrante Delito (PPFD)</span></p></td><td width="173" colspan="3" valign="top" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:9.55pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,25</span></p></td></tr><tr style="height:11.25pt"><td width="541" colspan="7" valign="top" style="width:405.5pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Produtividade por Cumprimento de Meta 1 (PCM - 1)</span></p></td><td width="173" colspan="3" valign="top" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">10,00</span></p></td></tr><tr style="height:11.25pt"><td width="541" colspan="7" valign="top" style="width:405.5pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Produtividade por Cumprimento de Meta 2 (PCM - 1)</span></p></td><td width="173" colspan="3" valign="top" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">7,50</span></p></td></tr><tr style="height:11.25pt"><td width="541" colspan="7" valign="top" style="width:405.5pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Produtividade por Cumprimento de Meta 3 (PCM - 1)</span></p></td><td width="173" colspan="3" valign="top" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">5,00</span></p></td></tr><tr style="height:11.95pt"><td width="16" valign="top" style="width:11.8pt;padding:0cm 0cm 0cm 0cm;
-  height:11.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="525" colspan="6" valign="top" style="width:393.7pt;padding:0cm 0cm 0cm 0cm;
-  height:11.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Recife, PE,&nbsp;........../........../..........</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Secretário da Comissão de promoção</span></p></td><td width="173" colspan="3" style="width:130.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">RESULTADO</span></p></td></tr><tr><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="10" valign="top"> FICHA DE PONTUAÇÃO OBJETIVA (FPO) </td></tr><tr><td colspan="2" valign="top"> NOME: </td><td colspan="8" valign="top"> &nbsp; </td></tr><tr><td colspan="2" valign="top"> POSTO OU GRADUAÇÃO </td><td colspan="8" valign="top"> MATRÍCULA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; OME: </td></tr><tr><td colspan="10" valign="top"> PERÍODO DE AVALIAÇÃO: </td></tr><tr><td colspan="10" valign="top"> 1. FORMAÇÃO E APERFEIÇOAMENTO </td></tr><tr><td colspan="8" valign="top"> Curso de Formação de Oficiais(CFO)/ Curso de Formação de Oficiais da Administração (CFOA)/ Curso de Formação e Habilitação de Praças (CFHP) ou Curso de Formação de Soldados (CFSd) </td><td colspan="2" valign="top"> &nbsp; </td></tr><tr><td colspan="10" valign="top"> Curso de Aperfeiçoamento de Oficiais/ Curso de Aperfeiçoamento de Sargentos (CAS) </td></tr><tr><td colspan="10" valign="top"> Curso Superior de Polícia ou Bombeiro Militar (CSP ou CSBM) </td></tr><tr><td colspan="3" rowspan="2"> 2. CAPACITAÇÃO PROMOVIDA PELA CORPORAÇÃO </td><td colspan="3" valign="top"> Curso Operacional </td><td colspan="3" valign="top"> Curso Administrativo </td><td valign="top"> TOTAL </td></tr><tr><td valign="top"> Pontos </td><td colspan="2" valign="top"> Quantidade </td><td colspan="2" valign="top"> Pontos </td><td valign="top"> Quantidade </td><td valign="top"> &nbsp; </td></tr><tr><td colspan="3" valign="top"> Curso de 20 a 60 horas </td><td> 0,50 </td><td colspan="2"> &nbsp; </td><td colspan="2"> 0,25 </td><td> &nbsp; </td><td> &nbsp; </td></tr><tr><td colspan="3" valign="top"> Curso de 61 a 120 horas </td><td> 1,00 </td><td colspan="2"> &nbsp; </td><td colspan="2"> 0,50 </td><td> &nbsp; </td><td> &nbsp; </td></tr><tr><td colspan="3" valign="top"> Curso de 121 a 180 horas </td><td> 1,50 </td><td colspan="2"> &nbsp; </td><td colspan="2"> 0,75 </td><td> &nbsp; </td><td> &nbsp; </td></tr><tr><td colspan="3" valign="top"> Curso de 181 a 360 horas </td><td> 2,00 </td><td colspan="2"> &nbsp; </td><td colspan="2"> 1,00 </td><td> &nbsp; </td><td> &nbsp; </td></tr><tr><td colspan="3" valign="top"> Curso acima de 360 horas </td><td> 4,00 </td><td colspan="2"> &nbsp; </td><td colspan="2"> 2,00 </td><td> &nbsp; </td><td> &nbsp; </td></tr><tr><td colspan="5"> 3. CAPACITAÇÃO NÃO PROMOVIDA PELA CORPORAÇÃO </td><td colspan="2" valign="top"> PONTOS </td><td colspan="3" valign="top"> QUANTIDADE </td></tr><tr><td colspan="5" valign="top"> Curso de formação técnica superior a 300 horas </td><td colspan="2"> 1,00 </td><td colspan="3"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> Curso de Graduação diverso do exigido para o ingresso na carreira de militar estadual </td><td colspan="2"> 1,50 </td><td colspan="3"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> Curso de Especialização </td><td colspan="2"> 2,00 </td><td colspan="3"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> Curso de Mestrado </td><td colspan="2"> 3,00 </td><td colspan="3"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> Curso de Doutorado </td><td colspan="2"> 4,00 </td><td colspan="3"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> Curso de Pós-doutorado </td><td colspan="2"> 2,00 </td><td colspan="3"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> 4. PRODUÇÃO TÉCNICA CIENTÍFICA </td><td colspan="2" valign="top"> PONTOS </td><td colspan="3" valign="top"> QUANTIDADE </td></tr><tr><td colspan="5" valign="top"> Artigo ou resenha publicada em qualquer periódico </td><td colspan="2" valign="top"> 0,25 </td><td colspan="3" valign="top"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> Artigo ou resenha publicado no periódico da Corporação militar </td><td colspan="2" valign="top"> 0,50 </td><td colspan="3" valign="top"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> Manual técnico, memento operacional ou administrativo, similares. </td><td colspan="2" valign="top"> 0,75 </td><td colspan="3" valign="top"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> Monografia, proieto de intervenção científica. </td><td colspan="2" valign="top"> 1,00 </td><td colspan="3" valign="top"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> Livro </td><td colspan="2" valign="top"> 1 50 </td><td colspan="3" valign="top"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> Dissertação </td><td colspan="2" valign="top"> 2,00 </td><td colspan="3" valign="top"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> Tese </td><td colspan="2" valign="top"> 2 50 </td><td colspan="3" valign="top"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> 5.&nbsp;&nbsp;CONDUTA FUNCIONAL </td><td colspan="2" valign="top"> PONTOS </td><td colspan="3" valign="top"> QUANTIDADE </td></tr><tr><td colspan="5" valign="top"> Elogio do Governador do Estado (no posto ou graduação) </td><td colspan="2"> 1,00 </td><td colspan="3"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> Elogio do Secretário de Defesa Social (no posto ou graduação) </td><td colspan="2"> 0,75 </td><td colspan="3"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> Elogio do Comandante Geral e Chefe da Casa Militar (no posto ou graduação) </td><td colspan="2"> 0,50 </td><td colspan="3"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> Elogio do Comandante, Chefe ou Diretor imediato (no posto ou graduação) </td><td colspan="2"> 0,25 </td><td colspan="3"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> Exercício de Diretoria e Comando Operacional (no posto ou graduação) </td><td colspan="2"> 1,00 </td><td colspan="3"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> Exercício de função de Comando ou Chefia de OME (no posto ou graduação) </td><td colspan="2"> 0,75 </td><td colspan="3"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> Capacidade física comprovada em Teste de Avaliação Física (TAF) </td><td colspan="2"> 0,50 a 2,00 </td><td colspan="3"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> Tempo de serviço na Corporação&nbsp;*(na&nbsp;*carreira de militar estadual) </td><td colspan="2"> 0,25 </td><td colspan="3"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> 6. MEDALHA </td><td colspan="2" valign="top"> PONTOS </td><td colspan="3" valign="top"> QUANTIDADE </td></tr><tr><td colspan="5" valign="top"> Medalha Tempo de Serviço - MTS1 (10 Anos) </td><td colspan="2"> 0,50 </td><td colspan="3"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> Medalha Tempo de Serviço - MTS2 (20 Anos) </td><td colspan="2"> 0,75 </td><td colspan="3"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> Medalha Tempo de Serviço - MTS3 (30 Anos) </td><td colspan="2"> 1,00 </td><td colspan="3"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> Medalha Pernambucana do Mérito PMPE ou CBMPE </td><td colspan="2"> 1,25 </td><td colspan="3"> &nbsp; </td></tr><tr><td colspan="5" valign="top"> Medalha do mérito intelectual por conclusão de curso </td><td colspan="2"> 1,50 </td><td colspan="3"> &nbsp; </td></tr><tr><td colspan="7" valign="top"> 7. PRODUTIVIDADE POR CUMPRIMENTO DE META </td><td colspan="3" valign="top"> PONTOS </td></tr><tr><td colspan="7" valign="top"> Produtividade por Prisão em Flagrante Delito (PPFD) </td><td colspan="3" valign="top"> 0,25 </td></tr><tr><td colspan="7" valign="top"> Produtividade por Cumprimento de Meta 1 (PCM - 1) </td><td colspan="3" valign="top"> 10,00 </td></tr><tr><td colspan="7" valign="top"> Produtividade por Cumprimento de Meta 2 (PCM - 1) </td><td colspan="3" valign="top"> 7,50 </td></tr><tr><td colspan="7" valign="top"> Produtividade por Cumprimento de Meta 3 (PCM - 1) </td><td colspan="3" valign="top"> 5,00 </td></tr><tr><td valign="top"> &nbsp; </td><td colspan="6" valign="top"> Recife, PE,&nbsp;........../........../.......... Secretário da Comissão de promoção </td><td colspan="3"> RESULTADO </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td></tr></tbody></table>
 
  REQUISITOS PARA PREENCHIMENTO DA FICHA DE PONTUAÇÃO OBJETIVA (FPO)
 
@@ -1901,127 +980,7 @@ Art. 5° A pontuação relativa à formação e aperfeiçoamento do militar do E
 
 Art. 6° A pontuação relativa à capacitação em curso de especialização ou extensão, promovida pela Corporação militar e/ou Secretaria de Defesa Social, com ou sem ônus para o Estado, concluída pelo militar estadual até o dia 31 de dezembro do ano anterior à promoção, será registrada na FPO, de forma permanente e cumulativa, a requerimento do militar do Estado interessado, observando-se a seguinte valoração e quantidade máxima de cursos a serem pontuados:
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="690" style="width:517.45pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:14.6pt"><td width="260" rowspan="2" valign="top" style="width:195.0pt;border:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:14.6pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2. CAPACITAÇÃO PROMOVIDA PELA CORPORAÇÃO</span></p></td><td width="205" colspan="2" valign="top" style="width:153.85pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 0cm 0cm 0cm;height:14.6pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso Operacional</span></p></td><td width="225" colspan="2" valign="top" style="width:168.6pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 0cm 0cm 0cm;height:14.6pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso Administrativo</span></p></td></tr><tr style="height:10.05pt"><td width="103" style="width:76.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:10.05pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Pontos</span></p></td><td width="103" style="width:76.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:10.05pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Quantidade</span></p></td><td width="112" style="width:83.75pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:10.05pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Pontos</span></p></td><td width="113" style="width:84.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:10.05pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Quantidade</span></p></td></tr><tr style="height:11.0pt"><td width="260" valign="top" style="width:195.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso de 20 a 60 horas</span></p></td><td width="103" valign="top" style="width:76.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,50</span></p></td><td width="103" valign="top" style="width:76.9pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3</span></p></td><td width="112" valign="top" style="width:83.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,25</span></p></td><td width="113" valign="top" style="width:84.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3</span></p></td></tr><tr style="height:11.0pt"><td width="260" valign="top" style="width:195.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso de 61 a 120 horas</span></p></td><td width="103" valign="top" style="width:76.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1,00</span></p></td><td width="103" valign="top" style="width:76.9pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3</span></p></td><td width="112" valign="top" style="width:83.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,50</span></p></td><td width="113" valign="top" style="width:84.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3</span></p></td></tr><tr style="height:10.75pt"><td width="260" valign="top" style="width:195.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:10.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso de 121 a 180 horas</span></p></td><td width="103" valign="top" style="width:76.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:10.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1,50</span></p></td><td width="103" valign="top" style="width:76.9pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:10.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3</span></p></td><td width="112" valign="top" style="width:83.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:10.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,75</span></p></td><td width="113" valign="top" style="width:84.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:10.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3</span></p></td></tr><tr style="height:10.75pt"><td width="260" valign="top" style="width:195.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:10.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso de 181 a 360 horas</span></p></td><td width="103" valign="top" style="width:76.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:10.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2,00</span></p></td><td width="103" valign="top" style="width:76.9pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:10.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3</span></p></td><td width="112" valign="top" style="width:83.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:10.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1,00</span></p></td><td width="113" valign="top" style="width:84.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:10.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3</span></p></td></tr><tr style="height:11.0pt"><td width="260" valign="top" style="width:195.0pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso acima de 360 horas</span></p></td><td width="103" valign="top" style="width:76.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">4,00</span></p></td><td width="103" valign="top" style="width:76.9pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3</span></p></td><td width="112" valign="top" style="width:83.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2,00</span></p></td><td width="113" valign="top" style="width:84.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td rowspan="2" valign="top"> 2. CAPACITAÇÃO PROMOVIDA PELA CORPORAÇÃO </td><td colspan="2" valign="top"> Curso Operacional </td><td colspan="2" valign="top"> Curso Administrativo </td></tr><tr><td> Pontos </td><td> Quantidade </td><td> Pontos </td><td> Quantidade </td></tr><tr><td valign="top"> Curso de 20 a 60 horas </td><td valign="top"> 0,50 </td><td valign="top"> 3 </td><td valign="top"> 0,25 </td><td valign="top"> 3 </td></tr><tr><td valign="top"> Curso de 61 a 120 horas </td><td valign="top"> 1,00 </td><td valign="top"> 3 </td><td valign="top"> 0,50 </td><td valign="top"> 3 </td></tr><tr><td valign="top"> Curso de 121 a 180 horas </td><td valign="top"> 1,50 </td><td valign="top"> 3 </td><td valign="top"> 0,75 </td><td valign="top"> 3 </td></tr><tr><td valign="top"> Curso de 181 a 360 horas </td><td valign="top"> 2,00 </td><td valign="top"> 3 </td><td valign="top"> 1,00 </td><td valign="top"> 3 </td></tr><tr><td valign="top"> Curso acima de 360 horas </td><td valign="top"> 4,00 </td><td valign="top"> 3 </td><td valign="top"> 2,00 </td><td valign="top"> 3 </td></tr></tbody></table>
 
 § 1° Para efeito desta Lei Complementar, é considerado curso operacional a capacitação destinada à aplicação imediata na atividade fim da Corporação.
 
@@ -2031,120 +990,97 @@ Art. 6° A pontuação relativa à capacitação em curso de especialização ou
 
 Art. 7° A pontuação relativa à capacitação em curso de especialização ou extensão, não promovida pela Corporação militar e/ou Secretaria de Defesa Social, concluído pelo Militar estadual até o dia 31 de dezembro do ano anterior à promoção, poderá ser registrada na FPO, de forma permanente e cumulativa, a requerimento do militar do Estado interessado, observando-se a seguinte valoração e quantidade máxima de cursos a serem pontuados:
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="619" style="width:464.4pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:24.95pt"><td width="424" style="width:317.8pt;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:24.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3. CAPACITAÇÃO NÃO PROMOVIDA PELA CORPORAÇÃO</span></p></td><td width="82" style="width:61.3pt;border:inset black 1.0pt;border-left:none;
-  padding:0cm 0cm 0cm 0cm;height:24.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">PONTOS</span></p></td><td width="114" style="width:85.3pt;border:inset black 1.0pt;border-left:none;
-  padding:0cm 0cm 0cm 0cm;height:24.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">QUANTIDADE MAXIMA</span></p></td></tr><tr style="height:11.0pt"><td width="424" valign="top" style="width:317.8pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso de formação técnica superior a 300 horas</span></p></td><td width="82" style="width:61.3pt;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1,00</span></p></td><td width="114" style="width:85.3pt;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1</span></p></td></tr><tr style="height:22.3pt"><td width="424" valign="top" style="width:317.8pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:22.3pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso de Graduação diverso do exigido para o ingresso na carreira de militar estadual</span></p></td><td width="82" style="width:61.3pt;padding:0cm 0cm 0cm 0cm;height:22.3pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1,50</span></p></td><td width="114" style="width:85.3pt;padding:0cm 0cm 0cm 0cm;height:22.3pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1</span></p></td></tr><tr style="height:10.75pt"><td width="424" valign="top" style="width:317.8pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:10.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso de Especialização</span></p></td><td width="82" style="width:61.3pt;padding:0cm 0cm 0cm 0cm;height:10.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2,00</span></p></td><td width="114" style="width:85.3pt;padding:0cm 0cm 0cm 0cm;height:10.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1</span></p></td></tr><tr style="height:11.0pt"><td width="424" valign="top" style="width:317.8pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso de Mestrado</span></p></td><td width="82" style="width:61.3pt;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3,00</span></p></td><td width="114" style="width:85.3pt;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1</span></p></td></tr><tr style="height:11.5pt"><td width="424" valign="top" style="width:317.8pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:11.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso de Doutorado</span></p></td><td width="82" style="width:61.3pt;padding:0cm 0cm 0cm 0cm;height:11.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">4,00</span></p></td><td width="114" style="width:85.3pt;padding:0cm 0cm 0cm 0cm;height:11.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1</span></p></td></tr><tr style="height:10.75pt"><td width="424" valign="top" style="width:317.8pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:10.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso de Pós-doutorado</span></p></td><td width="82" style="width:61.3pt;padding:0cm 0cm 0cm 0cm;height:10.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2,00</span></p></td><td width="114" style="width:85.3pt;padding:0cm 0cm 0cm 0cm;height:10.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1</span></p></td></tr></tbody></table>
+3. CAPACITAÇÃO NÃO PROMOVIDA PELA CORPORAÇÃO
+
+PONTOS
+
+QUANTIDADE MAXIMA
+
+Curso de formação técnica superior a 300 horas
+
+1,00
+
+1
+
+Curso de Graduação diverso do exigido para o ingresso na carreira de militar estadual
+
+1,50
+
+1
+
+Curso de Especialização
+
+2,00
+
+1
+
+Curso de Mestrado
+
+3,00
+
+1
+
+Curso de Doutorado
+
+4,00
+
+1
+
+Curso de Pós-doutorado
+
+2,00
+
+1
 
 Art. 8° A pontuação relativa à produção técnico-científica de matérias de interesse da Corporação, poderá ser registrada na FPO, a requerimento do militar estadual interessado, decorrente de trabalho publicado ou apresentado em evento até o dia 31 de dezembro do ano anterior a promoção, poderá ser registrada na FPO, de forma permanente e cumulativa, a requerimento do militar do Estado interessado, observando-se a valoração e quantidade máxima abaixo estabelecida:
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="619" style="width:464.4pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:24.45pt"><td width="410" style="width:307.3pt;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:24.45pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">4. PRODUÇÃO TÉCNICO CIENTÍFICA</span></p></td><td width="82" style="width:61.2pt;border:inset black 1.0pt;border-left:none;
-  padding:0cm 0cm 0cm 0cm;height:24.45pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">PONTOS</span></p></td><td width="128" style="width:95.9pt;border:inset black 1.0pt;border-left:none;
-  padding:0cm 0cm 0cm 0cm;height:24.45pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">QUANTIDADE MAXIMA</span></p></td></tr><tr style="height:11.0pt"><td width="410" valign="top" style="width:307.3pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Artigo científico publicado em qualquer periódico</span></p></td><td width="82" style="width:61.2pt;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,25</span></p></td><td width="128" style="width:95.9pt;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3</span></p></td></tr><tr style="height:10.75pt"><td width="410" valign="top" style="width:307.3pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:10.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Artigo científico publicado no periódico da Corporação militar</span></p></td><td width="82" style="width:61.2pt;padding:0cm 0cm 0cm 0cm;height:10.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,50</span></p></td><td width="128" style="width:95.9pt;padding:0cm 0cm 0cm 0cm;height:10.75pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3</span></p></td></tr><tr style="height:11.0pt"><td width="410" valign="top" style="width:307.3pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Manual técnico, memento operacional ou administrativo, similares.</span></p></td><td width="82" style="width:61.2pt;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,75</span></p></td><td width="128" style="width:95.9pt;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3</span></p></td></tr><tr style="height:11.5pt"><td width="410" valign="top" style="width:307.3pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:11.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Monografia, projeto de intervenção científica</span></p></td><td width="82" style="width:61.2pt;padding:0cm 0cm 0cm 0cm;height:11.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1,00</span></p></td><td width="128" style="width:95.9pt;padding:0cm 0cm 0cm 0cm;height:11.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3</span></p></td></tr><tr style="height:11.0pt"><td width="410" valign="top" style="width:307.3pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Livro</span></p></td><td width="82" style="width:61.2pt;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1,50</span></p></td><td width="128" style="width:95.9pt;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3</span></p></td></tr><tr style="height:11.25pt"><td width="410" valign="top" style="width:307.3pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Dissertação</span></p></td><td width="82" style="width:61.2pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2,00</span></p></td><td width="128" style="width:95.9pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3</span></p></td></tr><tr style="height:11.0pt"><td width="410" valign="top" style="width:307.3pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Tese</span></p></td><td width="82" style="width:61.2pt;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2,50</span></p></td><td width="128" style="width:95.9pt;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3</span></p></td></tr></tbody></table>
+4. PRODUÇÃO TÉCNICO CIENTÍFICA
+
+PONTOS
+
+QUANTIDADE MAXIMA
+
+Artigo científico publicado em qualquer periódico
+
+0,25
+
+3
+
+Artigo científico publicado no periódico da Corporação militar
+
+0,50
+
+3
+
+Manual técnico, memento operacional ou administrativo, similares.
+
+0,75
+
+3
+
+Monografia, projeto de intervenção científica
+
+1,00
+
+3
+
+Livro
+
+1,50
+
+3
+
+Dissertação
+
+2,00
+
+3
+
+Tese
+
+2,50
+
+3
 
 Parágrafo único. Portaria do Comando Geral da Corporação militar regulamentará a concessão da pontuação relativa à produção técnico-científica.
 
@@ -2160,81 +1096,61 @@ Art. 9° A pontuação relativa à conduta funcional na FPO será atribuída con
 
 § 5° O elogio consignado ao militar do Estado até o dia 31 de dezembro do ano anterior à promoção, poderá ser registrado na FPO, a requerimento do militar do Estado interessado e após julgamento da Comissão de promoção, observando-se a seguinte valoração:
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="619" style="width:464.4pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:24.7pt"><td width="369" style="width:277.05pt;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:24.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">5. CONDUTA FUNCIONAL</span></p></td><td width="118" style="width:88.25pt;border:inset black 1.0pt;border-left:none;
-  padding:0cm 0cm 0cm 0cm;height:24.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">PONTUAÇÃO</span></p></td><td width="132" style="width:99.1pt;border:inset black 1.0pt;border-left:none;
-  padding:0cm 0cm 0cm 0cm;height:24.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">QUANTIDADE MÁXIMA</span></p></td></tr><tr style="height:10.7pt"><td width="369" valign="top" style="width:277.05pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:10.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Elogio do Governador do Estado (no posto ou graduação)</span></p></td><td width="118" style="width:88.25pt;padding:0cm 0cm 0cm 0cm;height:10.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1,00</span></p></td><td width="132" style="width:99.1pt;padding:0cm 0cm 0cm 0cm;height:10.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2</span></p></td></tr><tr style="height:22.55pt"><td width="369" valign="top" style="width:277.05pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:22.55pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Elogio do Secretário de Defesa Social (no posto ou graduação)</span></p></td><td width="118" style="width:88.25pt;padding:0cm 0cm 0cm 0cm;height:22.55pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,75</span></p></td><td width="132" style="width:99.1pt;padding:0cm 0cm 0cm 0cm;height:22.55pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2</span></p></td></tr><tr style="height:22.3pt"><td width="369" valign="top" style="width:277.05pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:22.3pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Elogio do Comandante Geral e Chefe da Casa Militar (no posto ou graduação)</span></p></td><td width="118" style="width:88.25pt;padding:0cm 0cm 0cm 0cm;height:22.3pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,50</span></p></td><td width="132" style="width:99.1pt;padding:0cm 0cm 0cm 0cm;height:22.3pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2</span></p></td></tr><tr style="height:22.3pt"><td width="369" valign="top" style="width:277.05pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:22.3pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Elogio do Comandante, Chefe ou Diretor imediato (no posto ou graduação)</span></p></td><td width="118" style="width:88.25pt;padding:0cm 0cm 0cm 0cm;height:22.3pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,25</span></p></td><td width="132" style="width:99.1pt;padding:0cm 0cm 0cm 0cm;height:22.3pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2</span></p></td></tr></tbody></table>
+5. CONDUTA FUNCIONAL
+
+PONTUAÇÃO
+
+QUANTIDADE MÁXIMA
+
+Elogio do Governador do Estado (no posto ou graduação)
+
+1,00
+
+2
+
+Elogio do Secretário de Defesa Social (no posto ou graduação)
+
+0,75
+
+2
+
+Elogio do Comandante Geral e Chefe da Casa Militar (no posto ou graduação)
+
+0,50
+
+2
+
+Elogio do Comandante, Chefe ou Diretor imediato (no posto ou graduação)
+
+0,25
+
+2
 
 § 6° A pontuação decorrente de elogio consignado na FPO será computada apenas quando o elogio for concedido no ano anterior ao da promoção.
 
 § 7° O exercício de função refere-se aos cargos de Diretor, Comandante Operacional da Diretoria, Comandante ou Chefe de OME, desempenhada no período mínimo de 06 (seis) meses consecutivos, não sendo cumulativo pelo exercício de comando em mais de uma OME, a requerimento do militar do Estado interessado, comprovado pela designação em Boletim Geral, sendo registrado na FPO apenas a pontuação relativa ao ano anterior, observando-se a seguinte valoração máxima a ser pontuada:
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="608" style="width:456.2pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:11.95pt"><td width="520" style="width:390.05pt;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">5. CONDUTA FUNCIONAL</span></p></td><td width="88" style="width:66.15pt;border:inset black 1.0pt;border-left:none;
-  padding:0cm 0cm 0cm 0cm;height:11.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">PONTOS</span></p></td></tr><tr style="height:22.05pt"><td width="520" valign="top" style="width:390.05pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:22.05pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Exercício de Diretoria e Comando Operacional (no posto ou graduação)</span></p></td><td width="88" style="width:66.15pt;padding:0cm 0cm 0cm 0cm;height:22.05pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1,00</span></p></td></tr><tr style="height:24.1pt"><td width="520" valign="top" style="width:390.05pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:24.1pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Exercício de função de Comando ou Chefia de OME (no posto ou graduação)</span></p></td><td width="88" style="width:66.15pt;padding:0cm 0cm 0cm 0cm;height:24.1pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,75</span></p></td></tr></tbody></table>
+5. CONDUTA FUNCIONAL
+
+PONTOS
+
+Exercício de Diretoria e Comando Operacional (no posto ou graduação)
+
+1,00
+
+Exercício de função de Comando ou Chefia de OME (no posto ou graduação)
+
+0,75
 
 § 8° A pontuação decorrente da capacidade física poderá ser registrada na FPO, a requerimento do militar do Estado interessado, comprovada por meio de Teste de Avaliação Física (TAF), referente ao ano anterior ao da promoção, observando-se a seguinte valoração a ser pontuada:
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="539" style="width:404.2pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:11.95pt"><td width="445" style="width:334.05pt;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:11.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">5. CONDUTA FUNCIONAL</span></p></td><td width="94" style="width:70.15pt;border:inset black 1.0pt;border-left:none;
-  padding:0cm 0cm 0cm 0cm;height:11.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">PONTOS</span></p></td></tr><tr style="height:22.05pt"><td width="445" valign="top" style="width:334.05pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:22.05pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Capacidade física comprovada em Teste de Avaliação Física TAF</span></p></td><td width="94" style="width:70.15pt;padding:0cm 0cm 0cm 0cm;height:22.05pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,50 a 2,00</span></p></td></tr></tbody></table>
+5. CONDUTA FUNCIONAL
+
+PONTOS
+
+Capacidade física comprovada em Teste de Avaliação Física TAF
+
+0,50 a 2,00
 
 § 9° Portaria do Comando Geral da Corporação militar regulamentará a aplicação e parâmetros do TAF, observado a seguinte valoração decorrente do resultado obtido:
 
@@ -2248,76 +1164,51 @@ IV - Regular: 0,50 ponto.
 
 § 10. A contagem do tempo de serviço na carreira de militar do Estado na respectiva Corporação será registrada na FPO, computada até a data da promoção, sendo conferida a pontuação por cada ano (365 dias) de efetivo serviço na respectiva carreira (oficial ou praça) de militar do Estado na Corporação militar, contado a partir da data de promoção ao posto Segundo-Tenente ou à graduação de Soldado, observando-se a seguinte valoração máxima a ser pontuada:
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="617" style="width:462.5pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:24.45pt"><td width="528" style="width:396.35pt;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:24.45pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">5. CONDUTA FUNCIONAL</span></p></td><td width="88" style="width:66.15pt;border:inset black 1.0pt;border-left:none;
-  padding:0cm 0cm 0cm 0cm;height:24.45pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">PONTOS</span></p></td></tr><tr style="height:11.0pt"><td width="528" valign="top" style="width:396.35pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Cada ano de tempo de serviço na Corporação (na carreira de militar do Estado)</span></p></td><td width="88" style="width:66.15pt;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,25</span></p></td></tr></tbody></table>
+5. CONDUTA FUNCIONAL
+
+PONTOS
+
+Cada ano de tempo de serviço na Corporação (na carreira de militar do Estado)
+
+0,25
 
 Art. 10. Será registrada na FPO, de forma permanente e cumulativa, a requerimento do militar do Estado interessado, exclusivamente a pontuação relativa às medalhas abaixo relacionadas, concedidas até o dia 31 de dezembro do ano anterior à promoção, observando-se a seguinte valoração e quantitativo máximo:
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="619" style="width:464.4pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:24.7pt"><td width="376" style="width:281.75pt;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:24.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">6. MEDALHA</span></p></td><td width="88" style="width:66.15pt;border:inset black 1.0pt;border-left:none;
-  padding:0cm 0cm 0cm 0cm;height:24.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">PONTOS</span></p></td><td width="155" style="width:116.5pt;border:inset black 1.0pt;border-left:none;
-  padding:0cm 0cm 0cm 0cm;height:24.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">QUANTIDADE MÁXIMA</span></p></td></tr><tr style="height:10.95pt"><td width="376" valign="top" style="width:281.75pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:10.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Medalha por Tempo de Serviço - MTS1 (10 Anos)</span></p></td><td width="88" valign="top" style="width:66.15pt;padding:0cm 0cm 0cm 0cm;
-  height:10.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,50</span></p></td><td width="155" valign="top" style="width:116.5pt;padding:0cm 0cm 0cm 0cm;
-  height:10.95pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">01</span></p></td></tr><tr style="height:11.25pt"><td width="376" valign="top" style="width:281.75pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Medalha por Tempo de Serviço - MTS2 (20 Anos)</span></p></td><td width="88" valign="top" style="width:66.15pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,75</span></p></td><td width="155" valign="top" style="width:116.5pt;padding:0cm 0cm 0cm 0cm;
-  height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">01</span></p></td></tr><tr style="height:11.0pt"><td width="376" valign="top" style="width:281.75pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Medalha por Tempo de Serviço - MTS3 (30 Anos)</span></p></td><td width="88" valign="top" style="width:66.15pt;padding:0cm 0cm 0cm 0cm;
-  height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1,00</span></p></td><td width="155" valign="top" style="width:116.5pt;padding:0cm 0cm 0cm 0cm;
-  height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">01</span></p></td></tr><tr style="height:11.5pt"><td width="376" valign="top" style="width:281.75pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:11.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Medalha Pernambucana do Mérito PMPE ou CBMPE</span></p></td><td width="88" valign="top" style="width:66.15pt;padding:0cm 0cm 0cm 0cm;
-  height:11.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1,25</span></p></td><td width="155" valign="top" style="width:116.5pt;padding:0cm 0cm 0cm 0cm;
-  height:11.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">01</span></p></td></tr><tr style="height:11.0pt"><td width="376" valign="top" style="width:281.75pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Medalha do Mérito Intelectual por Conclusão de Curso</span></p></td><td width="88" valign="top" style="width:66.15pt;padding:0cm 0cm 0cm 0cm;
-  height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">1,50</span></p></td><td width="155" valign="top" style="width:116.5pt;padding:0cm 0cm 0cm 0cm;
-  height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">03</span></p></td></tr></tbody></table>
+6. MEDALHA
+
+PONTOS
+
+QUANTIDADE MÁXIMA
+
+Medalha por Tempo de Serviço - MTS1 (10 Anos)
+
+0,50
+
+01
+
+Medalha por Tempo de Serviço - MTS2 (20 Anos)
+
+0,75
+
+01
+
+Medalha por Tempo de Serviço - MTS3 (30 Anos)
+
+1,00
+
+01
+
+Medalha Pernambucana do Mérito PMPE ou CBMPE
+
+1,25
+
+01
+
+Medalha do Mérito Intelectual por Conclusão de Curso
+
+1,50
+
+03
 
 § 1° Serão consideradas apenas as Medalhas por tempo de serviço e Medalha Pernambucana do Mérito Policial Militar ou Bombeiro Militar, concedidas ao militar do Estado em sua respectiva Corporação militar.
 
@@ -2325,34 +1216,25 @@ Art. 10. Será registrada na FPO, de forma permanente e cumulativa, a requerimen
 
 Art. 11. A pontuação relativa à produtividade será registrada na FPO, a requerimento do militar do Estado interessado, relativa ao ano anterior ao da promoção, mediante análise e validação pela Comissão de promoção, observando­ se a seguinte valoração máxima:
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="614" style="width:460.7pt;margin-left:-1.5pt;background:white;border-collapse:collapse;
- border:none"><tbody><tr style="height:24.45pt"><td width="454" style="width:340.25pt;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:24.45pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">7. PRODUTIVIDADE POR CUMPRIMENTO META DO PPV</span></p></td><td width="161" style="width:120.45pt;border:inset black 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:24.45pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">PONTOS</span></p></td></tr><tr style="height:9.8pt"><td width="454" valign="top" style="width:340.25pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Produtividade por Prisão em Flagrante Delito (PPFD)</span></p></td><td width="161" style="width:120.45pt;padding:0cm 0cm 0cm 0cm;height:9.8pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">0,25</span></p></td></tr><tr style="height:11.25pt"><td width="454" valign="top" style="width:340.25pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Produtividade por Cumprimento de Meta 1 (PCM - 1)</span></p></td><td width="161" style="width:120.45pt;padding:0cm 0cm 0cm 0cm;height:11.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">10,00</span></p></td></tr><tr style="height:11.0pt"><td width="454" valign="top" style="width:340.25pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Produtividade por Cumorimento de Meta 2 (PCM - 2)</span></p></td><td width="161" style="width:120.45pt;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">7,50</span></p></td></tr><tr style="height:11.5pt"><td width="454" valign="top" style="width:340.25pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:11.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Produtividade por Cumprimento de Meta 3 (PCM - 3)</span></p></td><td width="161" style="width:120.45pt;padding:0cm 0cm 0cm 0cm;height:11.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">5,00</span></p></td></tr></tbody></table>
+7. PRODUTIVIDADE POR CUMPRIMENTO META DO PPV
+
+PONTOS
+
+Produtividade por Prisão em Flagrante Delito (PPFD)
+
+0,25
+
+Produtividade por Cumprimento de Meta 1 (PCM - 1)
+
+10,00
+
+Produtividade por Cumorimento de Meta 2 (PCM - 2)
+
+7,50
+
+Produtividade por Cumprimento de Meta 3 (PCM - 3)
+
+5,00
 
 § 1° Considera-se PPFD quando o Praça, no ano anterior ao da promoção, realizar prisões em flagrante delito e proceder a referida condução a Delegacia para a confecção do referido Auto de Prisão em Flagrante Delito (APFD), devendo o Praça interessado anexar ao requerimento a fotocópia do APFD.
 
@@ -2396,138 +1278,11 @@ III - lesão corporal seguida de morte.
 
 **FICHA DE PROMOÇÃO (FP)**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="662" style="width:496.15pt;background:white;border-collapse:collapse;border:none"><tbody><tr><td width="661" colspan="5" valign="top" style="width:496.1pt;border:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">FICHA DE PROMOÇÃO (FP)</span></p></td></tr><tr><td width="185" valign="top" style="width:138.8pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">NOME</span></p></td><td width="476" colspan="4" valign="top" style="width:357.3pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr><td width="185" valign="top" style="width:138.8pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">POSTO OU GRADUAÇÃO</span></p></td><td width="145" colspan="2" valign="top" style="width:108.65pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td width="145" valign="top" style="width:108.7pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">MATRÍCULA</span></p></td><td width="187" valign="top" style="width:139.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr><td width="236" colspan="2" valign="top" style="width:177.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">PERÍODO DE AVALIAÇÃO:</span></p></td><td width="425" colspan="3" valign="top" style="width:318.85pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr><td style="border:solid windowtext 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="5" valign="top"> FICHA DE PROMOÇÃO (FP) </td></tr><tr><td valign="top"> NOME </td><td colspan="4" valign="top"> &nbsp; </td></tr><tr><td valign="top"> POSTO OU GRADUAÇÃO </td><td colspan="2" valign="top"> &nbsp; </td><td valign="top"> MATRÍCULA </td><td valign="top"> &nbsp; </td></tr><tr><td colspan="2" valign="top"> PERÍODO DE AVALIAÇÃO: </td><td colspan="3" valign="top"> &nbsp; </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td></tr></tbody></table>
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="664" style="width:497.85pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:13.4pt"><td width="664" colspan="2" valign="top" style="width:497.85pt;border:inset black 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:13.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">REQUISITOS ESSENCIAIS</span></p></td></tr><tr style="height:23.25pt"><td width="464" valign="top" style="width:347.85pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:23.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Exame de Inspeção de Saúde</span></p></td><td width="200" valign="top" style="width:150.0pt;padding:0cm 0cm 0cm 0cm;
-  height:23.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:23.25pt"><td width="464" valign="top" style="width:347.85pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:23.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Tempo de lnterstício cumprido no atual posto ou graduação</span></p></td><td width="200" valign="top" style="width:150.0pt;padding:0cm 0cm 0cm 0cm;
-  height:23.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:23.0pt"><td width="464" valign="top" style="width:347.85pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:23.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Curso Habilitatório ao novo posto ou graduação</span></p></td><td width="200" valign="top" style="width:150.0pt;padding:0cm 0cm 0cm 0cm;
-  height:23.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:37.2pt"><td width="464" valign="top" style="width:347.85pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:37.2pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Tempo de Serviço Arregimentado cumprido no atual posto ou graduação</span></p></td><td width="200" valign="top" style="width:150.0pt;padding:0cm 0cm 0cm 0cm;
-  height:37.2pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:13.4pt"><td width="664" colspan="2" valign="top" style="width:497.85pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:13.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">MERECIMENTO</span></p></td></tr><tr style="height:13.4pt"><td width="464" valign="top" style="width:347.85pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:13.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">AVALIAÇÃO</span></p></td><td width="200" valign="top" style="width:150.0pt;padding:0cm 0cm 0cm 0cm;
-  height:13.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">PONTUAÇÃO</span></p></td></tr><tr style="height:36.7pt"><td width="464" valign="top" style="width:347.85pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:36.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Média das notas das Fichas de Avaliação Funcional no Posto ou graduação</span></p></td><td width="200" valign="top" style="width:150.0pt;padding:0cm 0cm 0cm 0cm;
-  height:36.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:23.25pt"><td width="464" valign="top" style="width:347.85pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:23.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Nota da Ficha de Avaliação Estratégica</span></p></td><td width="200" valign="top" style="width:150.0pt;padding:0cm 0cm 0cm 0cm;
-  height:23.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:13.4pt"><td width="464" valign="top" style="width:347.85pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:13.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Nota da Ficha de Pontuação Objetiva</span></p></td><td width="200" valign="top" style="width:150.0pt;padding:0cm 0cm 0cm 0cm;
-  height:13.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:23.5pt"><td width="464" valign="top" style="width:347.85pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:23.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Grau de conceito no posto ou graduação (nota final)</span></p></td><td width="200" valign="top" style="width:150.0pt;padding:0cm 0cm 0cm 0cm;
-  height:23.5pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:23.25pt"><td width="464" valign="top" style="width:347.85pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:23.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Classificação por merecimento</span></p></td><td width="200" valign="top" style="width:150.0pt;padding:0cm 0cm 0cm 0cm;
-  height:23.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> REQUISITOS ESSENCIAIS </td></tr><tr><td valign="top"> Exame de Inspeção de Saúde </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> Tempo de lnterstício cumprido no atual posto ou graduação </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> Curso Habilitatório ao novo posto ou graduação </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> Tempo de Serviço Arregimentado cumprido no atual posto ou graduação </td><td valign="top"> &nbsp; </td></tr><tr><td colspan="2" valign="top"> MERECIMENTO </td></tr><tr><td valign="top"> AVALIAÇÃO </td><td valign="top"> PONTUAÇÃO </td></tr><tr><td valign="top"> Média das notas das Fichas de Avaliação Funcional no Posto ou graduação </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> Nota da Ficha de Avaliação Estratégica </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> Nota da Ficha de Pontuação Objetiva </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> Grau de conceito no posto ou graduação (nota final) </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> Classificação por merecimento </td><td valign="top"> &nbsp; </td></tr></tbody></table>
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="671" style="width:503.45pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:13.55pt"><td width="671" colspan="2" valign="top" style="width:503.4pt;border:inset black 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:13.55pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">ANTIGUIDADE</span></p></td></tr><tr style="height:23.0pt"><td width="459" valign="top" style="width:343.9pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:23.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Data da última promoção</span></p></td><td width="213" valign="top" style="width:159.5pt;padding:0cm 0cm 0cm 0cm;
-  height:23.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:23.25pt"><td width="459" valign="top" style="width:343.9pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:23.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Classificação por antiguidade no posto ou graduação</span></p></td><td width="213" valign="top" style="width:159.5pt;padding:0cm 0cm 0cm 0cm;
-  height:23.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> ANTIGUIDADE </td></tr><tr><td valign="top"> Data da última promoção </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> Classificação por antiguidade no posto ou graduação </td><td valign="top"> &nbsp; </td></tr></tbody></table>
 
 Recife, PE, ........../........../..........
 
@@ -2561,213 +1316,68 @@ Art. 5° As informações destinadas à promoção por antiguidade deverão indi
 
 **Interstícios para o Quadro de Oficial Policial Militar (QOPM), Quadro de Oficial de Saúde (QOS) e Quadro de Oficial Combatente Bombeiro Militar (QOCBM)**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="378" style="width:10.0cm;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:19.85pt"><td width="189" rowspan="2" valign="top" style="width:141.6pt;border:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:19.85pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">POSTO</span></p></td><td width="189" rowspan="2" valign="top" style="width:5.0cm;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 0cm 0cm 0cm;height:19.85pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">INTERSTÍCIOS</span></p></td><td style="border:solid windowtext 1.0pt;border-left:none;padding:0cm 0cm 0cm 0cm;
-  height:19.85pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr style="height:17.25pt"><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:17.25pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr><td width="189" valign="top" style="width:141.6pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Tenente-coronel</span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3 anos</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr><td width="189" valign="top" style="width:141.6pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Major</span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">4 anos</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr><td width="189" valign="top" style="width:141.6pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Capitão</span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">4 anos</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr><td width="189" valign="top" style="width:141.6pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Primeiro-tenente</span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">5 anos</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr><td width="189" valign="top" style="width:141.6pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Segundo-tenente</span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">5 anos</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr><tr><td width="189" valign="top" style="width:141.6pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Aspirante a oficial</span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">6 meses</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">&nbsp;</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td rowspan="2" valign="top"> &nbsp; POSTO </td><td rowspan="2" valign="top"> &nbsp; INTERSTÍCIOS </td><td> &nbsp; </td></tr><tr><td> &nbsp; </td></tr><tr><td valign="top"> Tenente-coronel </td><td valign="top"> 3 anos </td><td> &nbsp; </td></tr><tr><td valign="top"> Major </td><td valign="top"> 4 anos </td><td> &nbsp; </td></tr><tr><td valign="top"> Capitão </td><td valign="top"> 4 anos </td><td> &nbsp; </td></tr><tr><td valign="top"> Primeiro-tenente </td><td valign="top"> 5 anos </td><td> &nbsp; </td></tr><tr><td valign="top"> Segundo-tenente </td><td valign="top"> 5 anos </td><td> &nbsp; </td></tr><tr><td valign="top"> Aspirante a oficial </td><td valign="top"> 6 meses </td><td> &nbsp; </td></tr></tbody></table>
 
 **ANEXO VI**
 
 **Interstícios para o Quadro Policial Militar Geral (QPMG), Quadro Bombeiro Militar Geral (QBMG), Quadro de Oficial da Administração (QOA), Quadro de Oficiais Músicos (QOMus), Quadro Policial Militar Particular (QPMP) e o Quadro de Capelães Policiais Militares (QCPM)**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="378" style="width:10.0cm;background:white;border-collapse:collapse;border:none"><tbody><tr><td width="189" valign="top" style="width:141.6pt;border:inset black 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">POSTO/GRADUAÇÃO</span></p></td><td width="189" valign="top" style="width:5.0cm;border:inset black 1.0pt;
-  border-left:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">INTERSTÍCIOS</span></p></td></tr><tr><td width="189" valign="top" style="width:141.6pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Capitão</span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3 anos</span></p></td></tr><tr><td width="189" valign="top" style="width:141.6pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Primeiro- tenente</span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3 anos</span></p></td></tr><tr><td width="189" valign="top" style="width:141.6pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Segundo-tenente</span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3 anos</span></p></td></tr><tr><td width="189" valign="top" style="width:141.6pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Subtenente</span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2 anos</span></p></td></tr><tr><td width="189" valign="top" style="width:141.6pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Primeiro-sargento</span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">2 anos</span></p></td></tr><tr><td width="189" valign="top" style="width:141.6pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Segundo-sargento</span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3 anos</span></p></td></tr><tr><td width="189" valign="top" style="width:141.6pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Terceiro-sargento</span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">3 anos</span></p></td></tr><tr><td width="189" valign="top" style="width:141.6pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Cabo</span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">5 anos</span></p></td></tr><tr style="height:14.35pt"><td width="189" valign="top" style="width:141.6pt;padding:0cm 0cm 0cm 0cm;
-  height:14.35pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Soldado</span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:14.35pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">5 anos</span></p></td></tr></tbody></table>
+POSTO/GRADUAÇÃO
+
+INTERSTÍCIOS
+
+Capitão
+
+3 anos
+
+Primeiro- tenente
+
+3 anos
+
+Segundo-tenente
+
+3 anos
+
+Subtenente
+
+2 anos
+
+Primeiro-sargento
+
+2 anos
+
+Segundo-sargento
+
+3 anos
+
+Terceiro-sargento
+
+3 anos
+
+Cabo
+
+5 anos
+
+Soldado
+
+5 anos
 
 **Anexo VII**
 
 **Tempos de serviço arregimentado**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="566" style="width:424.5pt;background:white;border-collapse:collapse;border:none"><tbody><tr><td width="359" valign="top" style="width:269.35pt;border:inset black 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">POSTO/GRADUAÇÃO</span></p></td><td width="207" valign="top" style="width:155.15pt;border:inset black 1.0pt;
-  border-left:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">TEMPO ARREGIMENTADO</span></p></td></tr><tr><td width="359" valign="top" style="width:269.35pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Tenente-coronel, Major, Subtenente e Primeiro-sargento</span></p></td><td width="207" valign="top" style="width:155.15pt;border-top:none;border-left:
-  none;border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">12 (doze) meses</span></p></td></tr><tr><td width="359" valign="top" style="width:269.35pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Capitão, Primeiro-tenente, Segundo-sargento, Terceiro-sargento e Cabo</span></p></td><td width="207" valign="top" style="width:155.15pt;border-top:none;border-left:
-  none;border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">24 (vinte e quatro) meses</span></p></td></tr><tr><td width="359" valign="top" style="width:269.35pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">Segundo-tenente e Soldado</span></p></td><td width="207" valign="top" style="width:155.15pt;border-top:none;border-left:
-  none;border-bottom:inset black 1.0pt;border-right:inset black 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-top:0cm;margin-right:6.0pt;margin-bottom:
-  0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:justify;line-height:
-  normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:#333333">36 (trinta e seis) meses</span></p></td></tr></tbody></table>
+POSTO/GRADUAÇÃO
+
+TEMPO ARREGIMENTADO
+
+Tenente-coronel, Major, Subtenente e Primeiro-sargento
+
+12 (doze) meses
+
+Capitão, Primeiro-tenente, Segundo-sargento, Terceiro-sargento e Cabo
+
+24 (vinte e quatro) meses
+
+Segundo-tenente e Soldado
+
+36 (trinta e seis) meses

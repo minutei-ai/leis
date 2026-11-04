@@ -1,5 +1,3 @@
-###DEL-007520-0-000-03-05-1945@@@
-
 DECRETO-LEI N. 7.520 – DE 3 DE MAIO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especiaI de Cr$ 4.296.961,40, para ligação ferroviária da estação de Uruguaiana com a ponte internacional sôbre o rio Uruguai

@@ -1,5 +1,3 @@
-###DEC-007544-0-000-02-08-2011-PUB-01@@@
-
 DECRETO Nº 7.544, DE 2 DE AGOSTO DE 2011
 
 Altera o Decreto nº 7.423, de 31 de dezembro de 2010, que regulamenta a Lei nº8.958, de 20 de dezembro de 1994, que dispõe sobre as relações entre as instituições federais de ensino superior e de pesquisa científica e tecnológica e as fundações de apoio.

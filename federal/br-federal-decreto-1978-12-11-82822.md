@@ -1,5 +1,3 @@
-###DEC-082822-0-000-11-12-1978@@@
-
 Decreto nº 82 822 de 11 de dezembro de 1978
 
 Concede reconhecimento ao curso de Ciências Biológicas da Universidade Federal do Ceará, com sede na cidade de Fortaleza, Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEC-079620-0-000-28-04-1977@@@
-
 Decreto nº 79.620, de 28 de abril de 1977.
 
 Cria o Conselho Nacional de Política de Emprego

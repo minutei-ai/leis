@@ -1,5 +1,3 @@
-###DEC-078990-0-000-21-12-1976@@@
-
 DECRETO Nº 78.990, 21 DE DEZEMBRO DE 1976.
 
 Aprova alteração introduzida nos Estatutos da Petróleo Brasileiro S.A. - PETROBRÁS.

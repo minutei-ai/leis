@@ -1,5 +1,3 @@
-###DEC-092497-0-000-26-03-1986@@@
-
 DECRETO Nº 92.497, DE 26 DE MARÇO DE 1986
 
 Autoriza o funcionamento do curso de Enfermagem e Obstetrícia da Federação das Escolas Superiores de Ilhéus e Itabuna, no Estado da Bahia.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208267)<br>
-
 # LEI N° 17.716, DE 11 DE JULHO DE 2023
 
 ## (Projeto de lei n° 788, de 2021, da Deputada Carla Morando - PSDB)

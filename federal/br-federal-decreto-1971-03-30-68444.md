@@ -1,5 +1,3 @@
-###DEC-068444-0-000-30-03-1971@@@
-
 DECRETO Nº 68.444, DE 30 DE MARÇO DE 1971.
 
 Declara de utilidade pública a Universidade Católica de Petrópolis, com sede em Petrópolis, Estado do Rio de Janeiro.

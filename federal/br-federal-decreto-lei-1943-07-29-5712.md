@@ -1,5 +1,3 @@
-###DEL-005712-0-000-29-07-1943@@@
-
 DECRETO‑LEI N. 5.712 – DE 29 JULHO DE 1943
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 1.395,791,80, à verba que especifica

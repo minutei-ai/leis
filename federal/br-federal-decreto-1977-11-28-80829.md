@@ -1,5 +1,3 @@
-###DEC-080829-0-000-28-11-1977@@@
-
 DECRETO Nº 80.829, DE 28 DE NOVEMBRO DE 1977.
 
 Autoriza a instituição de servidão de solo, em favor da concessão de lavra de minério de manganês outorgada à Indústria e Comércio de Minérios S/A - ICOMI, pelo Decreto nº 40.505, de 10 de dezembro de 1956.

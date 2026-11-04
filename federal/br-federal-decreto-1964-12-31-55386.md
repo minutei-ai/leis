@@ -1,5 +1,3 @@
-###DEC-055386-0-000-31-12-1964@@@
-
 DECRETO Nº 55.386, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza Mármores Itabirito Ltda. a pesquisar minério de ferro, no município de Itabirito, Estado de Minas Gerais.

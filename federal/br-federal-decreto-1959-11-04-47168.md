@@ -1,5 +1,3 @@
-###DEC-047168-0-000-04-11-1959@@@
-
 DECRETO Nº 47.168, DE 4 DE NOVEMBRO DE 1959.
 
 Dispõe sôbre a concessão a ser outorgada para a construção e exploração de túnel entre as cidades do Rio de Janeiro e Niterói.

@@ -1,5 +1,3 @@
-###DEC-047227-0-000-13-11-1959@@@
-
 DECRETO Nº 47.227, DE 13 DE NOVEMBRO DE 1959.
 
 Constitui Comissão de Planejamento e Execução da Solenidades de Instalação do Govêrno Federal na Nova Capital do País.

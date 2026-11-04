@@ -1,5 +1,3 @@
-###DEC-059648-0-000-02-12-1966@@@
-
 decreto nº 59.648 – de 2 de dezembro de 1966.
 
 Suprime cargo extinto

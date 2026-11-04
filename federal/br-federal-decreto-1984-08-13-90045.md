@@ -1,5 +1,3 @@
-###DEC-090045-0-000-13-08-1984@@@
-
 Decreto nº 90.045, de 13 de aGOSTO de 1984
 
 Declara de interesse social, para fins de desapropriação, imóvel rural constituído de parte da "Gleba Cascalheira", situado no Município de Canarana, no Estado de Mato Grosso, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 90.044, de 13 de agosto de 1984.

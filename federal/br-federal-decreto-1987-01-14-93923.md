@@ -1,5 +1,3 @@
-###DEC-093923-0-000-14-01-1987@@@
-
 DECRETO Nº 93.923, DE 14 DE JANEIRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Gleba Sapucaia", situado no Município de Santa Luzia, no Estado do Maranhão, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.619, de 02 de maio de 1986, classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, e dá outras providências.

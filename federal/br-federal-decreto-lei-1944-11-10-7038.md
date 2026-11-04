@@ -1,5 +1,3 @@
-###DEL-007038-0-000-10-11-1944@@@
-
 DECRETO-LEI N. 7.038 – DE 10 DE NOVEMBRO DE 1944
 
 Dispõe sobre a sindicalização rural
@@ -94,7 +92,7 @@ Art. 8º Constituem associações de grau superior as Federações e as Confeder
 
 preferencialmente exercendo atividades ou profissões rurais idênticas, similares ou conexas.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:21.3pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:410.7pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">§ 2º A Confederação Nacional da Agricultura será constituída de, pelo</span></p></td></tr></tbody></table>
+§ 2º A Confederação Nacional da Agricultura será constituída de, pelo
 
 menos, três federações, havendo uma Confederação de empregados e outra de empregadores.
 
@@ -132,7 +130,9 @@ Art. 13\. Os sindicatos, federações e a Confederação, submeterão, até 30 d
 
 Art. 14\. Os atos que importem malversação ou delapidação do patrimônio das associações sindicais, ficam equiparados aos crimes contra a economia popular e serão julgados e punidos na conformidade dos artigos 2º e 6º do Decreto-lei nº 869, de 18 de novembro de 1938, e leis subseqüentes.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:1pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:297.8pt; vertical-align:top"><p class="Captulonum" style="text-indent:0pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:12pt">CAPÍTULO V</span></p></td><td style="width:133.2pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:1pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:297.8pt; vertical-align:top"><p class="Captulonome" style="text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>DISPOSIÇÕES GERAIS</span></p></td><td style="width:133.2pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+CAPÍTULO V
+
+DISPOSIÇÕES GERAIS
 
 Art. 15\. O Ministro do Trabalho, Indústria e Comércio expedirá instruções regulando a organização da administração das entidades sindicais rurais, assim como aprovará o estatuto padrão a que as mesmas obedecerão, ressalvadas as respectivas peculiaridades.
 

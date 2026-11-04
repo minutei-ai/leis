@@ -1,4 +1,5 @@
-DECRETO Nº 9.832, DE 18 DE MARÇO DE 2021<br>
+DECRETO Nº 9.832, DE 18 DE MARÇO DE 2021
+
 \- [Revogado pelo Decreto nº 10.312, de 6-9-2023, art. 2º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107703/decreto-10312).
 
 ~~Qualifica como organização social de saúde, no âmbito do Estado de Goiás, a entidade que especifica.~~
@@ -12,8 +13,6 @@ DECRETO Nº 9.832, DE 18 DE MARÇO DE 2021<br>
 ~~Art. 2º Este Decreto entra em vigor na data de sua publicação.~~
 
 ~~Goiânia, 18 de março de 2021; 133º da República.~~
-
-<br>
 
 ~~RONALDO CAIADO~~
 

@@ -1,5 +1,3 @@
-###DEC-055100-0-000-01-12-1964@@@
-
 DECRETO Nº 55.100, DE 1º DE DEZEMBRO DE 1964
 
 Cancela a autorização à empresa de transporte aéreo “British Overseas Airways Incorporated” – BOAC – para funcionar no Brasil.

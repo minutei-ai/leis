@@ -1,5 +1,3 @@
-###DEC-055994-0-000-22-04-1965@@@
-
 DECRETO Nº 55.994, DE 22 DE ABRIL DE 1965.
 
 Renova a declaração de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, áreas de terreno situadas nos Municípios de Betim-Itaguara, Estado de Minas Gerais.

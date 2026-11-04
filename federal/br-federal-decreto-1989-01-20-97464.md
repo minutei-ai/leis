@@ -1,5 +1,3 @@
-###DEC-097464-0-000-20-01-1989@@@
-
 DECRETO N° 97.464, DE 20 DE JANEIRO DE 1989
 
 Estabelece procedimentos para a entrada no Brasil e o sobrevôo de seu território por aeronaves civis estrangeiras, que não estejam em serviço aéreo internacional regular.

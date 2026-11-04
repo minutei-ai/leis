@@ -1,5 +1,3 @@
-###DEC-085721-0-000-16-02-1981@@@
-
 DECRETO Nº 85.721, DE 16 DE FEVEREIRO DE 1981.
 
 Autoriza o funcionamento do curso de Graduação de Professor da Parte Especial do Currículo do 2º Grau, do Centro de Ensino Superior de Erexim, Rio Grande do Sul.

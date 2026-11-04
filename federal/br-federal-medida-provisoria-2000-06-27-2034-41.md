@@ -1,5 +1,3 @@
-###MPV-002034-0-041-27-06-2000@@@
-
 medida provisória Nº 2.034-41, de 27 de juNho de 2000.
 
 Dispõe sobre a concessão de financiamento vinculado a exportação de bens ou serviços nacionais, e dá outras providencias.

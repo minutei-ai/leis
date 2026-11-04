@@ -1,5 +1,3 @@
-###DEC-071883-0-000-02-03-1973@@@
-
 DECRETO Nº 71.883, DE 2 DE MARÇO DE 1973.
 
 Revoga os Decretos nºs 31.401, de 8 de setembro de 1952, 36.267, de 1º de outubro de 1954, 4831, de 8 de novembro de 1958, 50.218, de 28 de janeiro de 1961 e dá outras providências.

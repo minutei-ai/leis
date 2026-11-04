@@ -1,7 +1,3 @@
-1
-
-###DEL-002383-0-000-17-12-1987@@@
-
 # DECRETO-LEI Nº 2.383, DE 17 DE DEZEMBRO DE 1987.
 
 Dispõe sobre o Fundo Nacional de Desenvolvimento (FND), e dá outras providências.

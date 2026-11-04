@@ -1,5 +1,3 @@
-###DEC-047652-0-000-15-01-1960@@@
-
 DECRETO Nº 47.652, DE 15 DE JANEIRO DE 1960.
 
 Autoriza o cidadão brasileiro Paulo Solti a lavrar caulim no município de Itapecerica da Serra, Estado de São Paulo.

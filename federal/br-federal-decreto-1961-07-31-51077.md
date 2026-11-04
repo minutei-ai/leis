@@ -1,5 +1,3 @@
-###DEC-051077-0-000-31-07-1961@@@
-
 DECRETO Nº 51.077, DE 31 DE JULHO DE 1961.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 36.719, de 3 de janeiro de 1955, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno, necessária à construção do açude público Várzea Alegre, no município de Várzea Alegre, Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEC-004287-0-000-27-06-2002@@@
-
 DECRETO Nº 4.287, DE 27 DE JUNHO DE 2002
 
 Dá nova redação a dispositivo do Decreto nº 4.227, de 13 de maio de 2002, que Cria o Conselho Nacional do Idoso - CNDI.

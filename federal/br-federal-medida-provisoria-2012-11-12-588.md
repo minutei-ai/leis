@@ -1,5 +1,3 @@
-###MPV-000588-0-000-12-11-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA N°\- 588, DE 12 DE NOVEMBRO DE 2012
 
 Abre crédito extraordinário, em favor de Operações Oficiais de Crédito, no valor de R$ 1.683.716.400,00, para o fim que especifica.

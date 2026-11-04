@@ -1,5 +1,3 @@
-###DEC-084951-0-000-23-07-1980@@@
-
 DECRETO Nº 84.951, DE 23 DE JULHO DE 1980.
 
 Dispõe sobre o Centro de Documentação do Exército, e dá outras providências.

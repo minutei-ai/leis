@@ -1,5 +1,3 @@
-###DEL-008831-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.831 – DE 24 DE JANEIRO DE 1946
 
 Altera as carreiras de Escrivão de Polícia e Comissário de Polícia do Quadro Permanente do Ministério da Justiça e Negócios Interiores.

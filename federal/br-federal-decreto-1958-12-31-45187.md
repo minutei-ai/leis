@@ -1,5 +1,3 @@
-###DEC-045187-0-000-31-12-1958@@@
-
 decreto nº 45.187, de 31 de dezembro de 1958.
 
 Outorga à Prefeitura Municipal de Marliéria concessão para o aproveitamento de energia hidráulica de um desnível existente no ribeirão da Onça grande, distrito sede do município de Jaguaraçu, Estado de Minas Gerais.

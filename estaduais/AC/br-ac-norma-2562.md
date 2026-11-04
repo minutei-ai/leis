@@ -1,6 +1,10 @@
 > **LEI Nº 3.244, DE 17 DE ABRIL DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera o art. 24 da Lei nº 2.001, de 31 de março de 2008 que “Dispõe sobre a Organização Básica da Polícia Militar do Estado do Acre.”</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera o art. 24 da Lei nº 2.001, de 31 de março de 2008 que “Dispõe sobre a Organização Básica da Polícia Militar do Estado do Acre.”
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

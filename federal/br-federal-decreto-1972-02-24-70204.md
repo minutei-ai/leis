@@ -1,5 +1,3 @@
-###DEC-070204-0-000-24-02-1972@@@
-
 Decreto nº 70.204, de 24 de fevereiro de 1972.
 
 Reclassifica cargo em comissão nos Quadro de Pessoal - Parte Permanente - do Ministério da Aeronáutica.

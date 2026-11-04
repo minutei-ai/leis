@@ -1,5 +1,3 @@
-###DEC-056713-0-000-12-08-1965@@@
-
 Decreto nº 56.713, de 12 de agôsto de 1965.
 
 Outorga concessão à “Rádio Televisão Iguaçu S.A.” para instalar uma emissora de radiodifusão de sons e imagens (televisão).

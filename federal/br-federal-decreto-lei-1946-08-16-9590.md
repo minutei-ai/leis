@@ -1,5 +1,3 @@
-###DEL-009590-0-000-16-08-1946@@@
-
 DECRETO-LEI N. 9.590 – DE 16 DE AGÔSTO DE 1946
 
 Modifica dispositivo da Lei do Sêlo

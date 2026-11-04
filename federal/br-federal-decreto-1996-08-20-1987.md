@@ -1,5 +1,3 @@
-###DEC-001987-0-000-20-08-1996@@@
-
 DECRETO N° 1.987, DE 20 DE AGOSTO DE 1996.
 
 Altera as alíquotas do imposto de importação para as quotas, prazo, origem e produtos que especifica.
@@ -10,7 +8,21 @@ DECRETA:
 
 Art. 1° Fica alterada para 35% a alíquota ad valorem do imposto de importação incidente na importação de até 50.000 veículos automotores, pelo prazo de doze meses, conforme a seguinte distribuição:
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:145.35pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">Origem</span></p></td><td style="width:272.85pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">Quantidade de veículos</span></p></td></tr><tr><td style="width:145.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">República da Coréia</span></p></td><td style="width:272.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">4.137 nos dois primeiros trimestres e 4.138 nos dois últimos</span></p></td></tr><tr><td style="width:145.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">Japão</span></p></td><td style="width:272.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">5.937 nos dois primeiros trimestres e 5.938 nos dois últimos</span></p></td></tr><tr><td style="width:145.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">União Européia</span></p></td><td style="width:272.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="line-height:12pt"><span style="font-size:10pt">2.425 por trimestre</span></p></td></tr></tbody></table>
+Origem
+
+Quantidade de veículos
+
+República da Coréia
+
+4.137 nos dois primeiros trimestres e 4.138 nos dois últimos
+
+Japão
+
+5.937 nos dois primeiros trimestres e 5.938 nos dois últimos
+
+União Européia
+
+2.425 por trimestre
 
 § 1° O disposto neste artigo aplica-se apenas aos veículos classificados nos itens tarifários 8702.90.0000, 8703.21.9900 a 8703.90.9000, 8704.21.0200 e 8704.31.0200 da NBM/SH.
 

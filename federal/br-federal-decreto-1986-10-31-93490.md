@@ -1,5 +1,3 @@
-###DEC-093490-0-000-31-10-1986@@@
-
 DECRETO Nº 93.490, DE 31 DE OUTUBRO DE 1986
 
 Dispõe sobre a composição ao Conselho Monetário Nacional, e dá outras providências.

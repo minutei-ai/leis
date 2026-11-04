@@ -1,5 +1,3 @@
-###DEL-009666-0-000-28-08-1946@@@
-
 DECRETO-LEi N. 9.666 – DE 28 DE AGÔSTO DE 1946
 
 Dá nova redação ao art. 73 da Consolidação das Leis do Trabalho

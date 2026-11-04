@@ -1,5 +1,3 @@
-###DEC-056975-0-000-01-10-1965@@@
-
 DECRETO Nº 56.975, DE 1 DE OUTUBRO DE 1965.
 
 Concede autorização para funcionamento à Faculdade de Ciências Econômicas do Triângulo Mineiro, Minas Gerais.

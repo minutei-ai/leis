@@ -1,5 +1,3 @@
-###DEC-062189-0-000-30-01-1968@@@
-
 DECRETO Nº 62.189, DE 30 DE JANEIRO DE 1968.
 
 Outorga concessão à Rádio Santa Cruz de Jequitinhonha Ltda., para estabelecer uma estação de radiodifusão sonora na cidade de Jequitinhonha, Estado de Minas Gerais.

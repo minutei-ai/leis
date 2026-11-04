@@ -1,5 +1,3 @@
-###DEC-096227-0-000-27-06-1988@@@
-
 DECRETO N° 96.227, DE 27 DE JUNHO DE 1988
 
 Concede à CAMARA DE INDUSTRIAS DEL URUGUAI autorizacão para funcionar com uma filial no Brasil.

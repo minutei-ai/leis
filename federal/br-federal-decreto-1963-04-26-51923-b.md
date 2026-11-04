@@ -1,5 +1,3 @@
-###DEC-051923-B-000-26-04-1963@@@
-
 DECRETO Nº 51.923-b, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro João Cândido Ribeiro a pesquisar mármore no município de Conceição do Mato Dentro, Estado de Minas Gerais.

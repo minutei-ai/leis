@@ -1,7 +1,3 @@
-1
-
-###DEC-095664-0-000-26-01-1988@@@
-
 DECRETO N° 95.664, DE 26 DE JANEIRO DE 1988
 
 Outorga concessão à RÁDIO CRISTAL LTDA. para explorar serviço de radiodifusão sonora em onda média, na cidade de Salvador, Estado da Bahia.

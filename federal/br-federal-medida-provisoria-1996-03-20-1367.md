@@ -1,7 +1,3 @@
-1
-
-###MPV-001367-0-000-20-03-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.367, de 20 de MARÇO DE 1996.
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional (NTN) destinadas a aumento de capital do Banco do Brasil S.A. e dá outras providências.

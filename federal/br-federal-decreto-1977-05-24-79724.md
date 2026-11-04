@@ -1,5 +1,3 @@
-###DEC-079724-0-000-24-05-1977@@@
-
 DECRETO Nº 79.724, DE 24 DE MAIO DE 1977
 
 Autoriza a empresa SHELL EXPLORATION SERVICES (BRAZIL) B. V. a funcionar no território nacional.

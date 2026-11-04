@@ -10,7 +10,8 @@ Art. 1º Altera os artigos 106, 107, 111, 112, 113, 125 e 126 da Lei n. 3.635/98
 
 ...................................................................................................
 
-I - Veículos de porte simples: mural, letreiro, equipamento eólico, balão, mobiliário urbano e veículo automotor, painel rodoviário, outdoor e painel empena;<br>
+I - Veículos de porte simples: mural, letreiro, equipamento eólico, balão, mobiliário urbano e veículo automotor, painel rodoviário, outdoor e painel empena;
+
 II- Veículos de porte complexo: painel ou placa, sendo elas estruturas iluminadas em uma ou duas faces, triedo,  topo de prédio e led;
 
 Parágrafo Único. ........................................................................”
@@ -79,7 +80,8 @@ X - É de responsabilidade da empresa proponente a confirmação do uso do siste
 
 “Art. 125. Para os efeitos da presente Lei é considerado "outdoor", o veículo de divulgação constituído de quadro próprio, onde são colocados informes publicitários formando anúncios e possuindo estrutura de sustentação própria, devendo esta ser resistente à intempérie da natureza.
 
-§ 1º  O outdoor, estrutura de porte simples deverá ter área útil de 27 m² (vinte e sete metros quadrados), sendo as medidas de: altura igual a 3 metros e largura igual a 9 metros. <br>
+§ 1º  O outdoor, estrutura de porte simples deverá ter área útil de 27 m² (vinte e sete metros quadrados), sendo as medidas de: altura igual a 3 metros e largura igual a 9 metros. 
+
 § 2º  Para o outdoor rodoviário, as medidas poderão chegar a 75m² (setenta e cinco metros quadrados), limitado suas medidas até 5 metros de altura por 15 metros de largura, não se considerando nesta área os apliques que extrapolam a moldura do quadro, desde que sua área não ultrapasse 20% (vinte por cento) da área do quadro.”
 
 “Art.126. .......................................................................................

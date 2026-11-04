@@ -1,24 +1,22 @@
-###DEC-044618-0-000-16-10-1958@@@
+**DECRETO Nº 44.618, DE 16 DE OUTUBRO DE 1958.**
 
-<strong>DECRETO Nº 44.618, DE 16 DE OUTUBRO DE 1958.</strong>
+***Aprova as Normas para Feitura de Distintos das Unidades e Estabelecimentos do Exército.***
 
-<em><strong>Aprova as Normas para Feitura de Distintos das Unidades e Estabelecimentos do Exército.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º - Ficam aprovadas as Normas para Feitura dos Distintivos das Unidades e Estabelecimentos do Exército que com êste baixa, assinada pelo General de Exército Henrique Baptista Duffles Teixeira Lott Ministro de Estado dos Negócios da Guerra.
 
-<strong>Art</strong>. 1º - Ficam aprovadas as Normas para Feitura dos Distintivos das Unidades e Estabelecimentos do Exército que com êste baixa, assinada pelo General de Exército Henrique Baptista Duffles Teixeira Lott Ministro de Estado dos Negócios da Guerra.
-
-<strong>Art</strong>. 2º - O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º - O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 16 de outubro de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott
 
-<strong>NORMAS PARA FEITURA DOS DISTINTIVOS DAS UNIDADES E ESTABELECIMENTOS DO EXÉRCITO</strong>
+**NORMAS PARA FEITURA DOS DISTINTIVOS DAS UNIDADES E ESTABELECIMENTOS DO EXÉRCITO**
 
 1 - Os distintivos de que tratam estas normas se destinam a distinguir as Unidades e Estabelecimentos do Exército.
 
@@ -72,4 +70,4 @@ Serviços - um quadrilátero.
 
 Rio de Janeiro, 16 de outubro de 1958.
 
-<strong>HENRIQUE LOTT</strong>
+**HENRIQUE LOTT**

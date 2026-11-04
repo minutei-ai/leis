@@ -1,5 +1,3 @@
-###DEC-088455-0-000-04-07-1983@@@
-
 Decreto nº 88.455, de 04 de julho de 1983
 
 Regulamenta a designação de militar da reserva remunerada das Forças Armadas para o serviço ativo prevista no Estatuto dos Militares.

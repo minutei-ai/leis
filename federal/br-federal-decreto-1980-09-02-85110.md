@@ -1,5 +1,3 @@
-###DEC-085110-0-000-02-09-1980@@@
-
 DECRETO Nº 85.110, de 02 de Setembro dE 1980.
 
 Institui o Sistema Nacional de Prevenção, Fiscalização e Repressão de Entorpecentes e dá outras providências.

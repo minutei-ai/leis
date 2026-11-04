@@ -1,5 +1,3 @@
-###DEC-067057-0-000-14-08-1970@@@
-
 decreto nº 67.057, de 14 de agôsto de 1970.
 
 Dispõe sôbre vinculação do Conselho Federal e dos Conselhos Regionais de Odontologia.

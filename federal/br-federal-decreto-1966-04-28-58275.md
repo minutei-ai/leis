@@ -1,5 +1,3 @@
-###DEC-058275-0-000-28-04-1966@@@
-
 DECRETO Nº 58.275, DE 28 DE ABRIL DE 1966.
 
 Autoriza a Companhia Siderúrgica Paulista - COSIPA a pesquisar calcário no município de Guapiara, Estado de São Paulo.

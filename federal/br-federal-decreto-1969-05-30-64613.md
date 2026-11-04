@@ -1,5 +1,3 @@
-###DEC-064613-0-000-30-05-1969@@@
-
 DECRETO Nº 64.613, DE 30 DE MAIO DE 1969.
 
 Concede à Fonte São Francisco Ltda., o direito de lavrar água mineral, no município de Rio Bonito, Estado do Rio de Janeiro.

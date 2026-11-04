@@ -1,5 +1,3 @@
-###DEC-090497-0-000-12-11-1984@@@
-
 DECRETO Nº 90.497, de 12 de novembro de 1984
 
 Concede autorização ao navio de pesquisa soviético "MIKHAIL LOMONOSOV" para realizar, em águas brasileiras, os serviços que especifica.

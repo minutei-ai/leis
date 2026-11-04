@@ -1,5 +1,3 @@
-###DEC-077556-0-000-06-05-1976@@@
-
 DECRETO Nº 77.556, DE 6 DE MAIO DE 1976
 
 Altera dispositivo do Decreto número 68.578, de 3 de maio de 1971, que reconheceu o curso de Administração de Empresas da Faculdade de Ciências Econômicas de Goiás, em Goiás, em Goiânia, Goiás.

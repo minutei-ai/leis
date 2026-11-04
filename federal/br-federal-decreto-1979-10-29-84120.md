@@ -1,5 +1,3 @@
-###DEC-084120-0-000-29-10-1979@@@
-
 Decreto nº 84.120, de 29 de outubro de 1979.
 
 Declara luto oficial.

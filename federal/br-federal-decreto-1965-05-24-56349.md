@@ -1,5 +1,3 @@
-###DEC-056349-0-000-24-05-1965@@@
-
 DECRETO Nº 56.349, de 24 de maio de 1965.
 
 Aprova as alterações introduzidas nos Estatutos da Sociedade Anônima de Seguros Gerais Lloyd Industrial Sul Americano, relativas à extensão das operações de seguros e resseguros ao Ramo da Vida e ao aumento de capital social.

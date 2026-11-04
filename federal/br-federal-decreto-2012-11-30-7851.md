@@ -1,5 +1,3 @@
-###DEC-007851-0-000-30-11-2012-PUB-01@@@
-
 DECRETO Nº\- 7.851, DE 30 DE NOVEMBRO DE 2012
 
 Altera o Decreto nº 7.688, de 2 de março de 2012, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão da Secretaria-Geral da Presidência da República; altera o Decreto nº 7.405, de 23 de dezembro de 2010, para transferir responsabilidades do Programa Pró-Catador para a Secretaria-Geral da Presidência da República, altera o Anexo II ao Decreto nº 7.493, de 2 de junho de 2011; e dispõe sobre o remanejamento de cargos em comissão.

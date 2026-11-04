@@ -1,5 +1,3 @@
-###DEL-006626-0-000-24-06-1944@@@
-
 DECRETO-LEI  N. 6.626 - DE 24 DE JUNHO DE 1944
 
 Dá nova redação aos artigos 10, 11 e 14 do Decreto-Iei nº 5.839, de 21 de setembro de 1943

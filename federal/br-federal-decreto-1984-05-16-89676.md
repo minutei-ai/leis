@@ -1,5 +1,3 @@
-###DEC-089676-0-000-16-05-1984@@@
-
 DECRETO nº 89.676, DE 16 DE MAIO DE 1984.
 
 Regulamenta a Concessão da Gratificação de Desempenho de Função Essencial à Prestação Jurisdicional, instituída pelo Decreto-lei nº 2.117, de 7 de maio de 1984.

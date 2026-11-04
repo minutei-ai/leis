@@ -1,5 +1,3 @@
-###DEL-000076-0-000-21-11-1966@@@
-
 DECreTO-LEI Nº 76, DE 21 DE novembro de 1966
 
 Dispõe sôbre a ocupação e uso de imóveis residenciais construídos, adquiridos ou arrendados pela União, em Brasília, e dá outras providências.

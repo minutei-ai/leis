@@ -1,5 +1,3 @@
-###DEC-073935-0-000-16-04-1974@@@
-
 DECRETO Nº 73.935, DE 16 DE ABRIL DE 1974.
 
 Declara sem efeito o Decreto número 23.115, de 28 de maio 1947.

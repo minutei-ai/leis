@@ -1,5 +1,3 @@
-###DEC-002935-0-000-11-01-1999@@@
-
 DECRETO Nº 2.935, DE 11 DE JANEIRO DE 1999.
 
 Fixa o valor mínimo de que trata o art. 6º da Lei nº 9.424, de 24 de dezembro de 1996.

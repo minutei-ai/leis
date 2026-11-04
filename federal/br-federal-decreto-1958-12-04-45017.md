@@ -1,5 +1,3 @@
-###DEC-045017-0-000-04-12-1958@@@
-
 DECRETO Nº 45.017, DE 4 DE DEZEMBRO DE 1958.
 
 Dá nova redação ao artigo 1º, do Decreto nº 42.938, de 30 de dezembro de 1957, que outorgou a Companhia Hidro-Elétrica Parapanema concessão para distribuir energia elétrica nos municípios de Uraí e Abatiá, nos Estado do Paraná.

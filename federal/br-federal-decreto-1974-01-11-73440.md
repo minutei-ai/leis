@@ -1,5 +1,3 @@
-###DEC-073440-0-000-11-01-1974@@@
-
 DECRETO Nº 73.440, DE 11 DE JANEIRO DE 1974.
 
 Transfere concessão para uso exclusivo do aproveitamento da energia hidráulica de um trecho do rio Jangada, no Município de Matos Costa, Estado de Santa Catarina.

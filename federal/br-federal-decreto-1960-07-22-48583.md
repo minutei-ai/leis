@@ -1,5 +1,3 @@
-###DEC-048583-0-000-22-07-1960@@@
-
 DECRETO Nº 48.583, DE 22 DE JULHO DE 1960.
 
 Autoriza a cidadã brasileira Isaura Martins de Oliveira a pesquisar minério de ferro no município de Muzambinho, Estado de Minas Gerais.

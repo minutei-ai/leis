@@ -1,5 +1,3 @@
-###DEC-084471-0-000-11-02-1980@@@
-
 Decreto nº 84.471, de 11 de fevereiro de 1980.
 
 Conceda à Companhia Hidro Elétrica do São Francisco - CHESF autorização para construir linhas de transmissão de energia elétrica em faixa de terra situada em reservas indígenas, e dá outras providências.

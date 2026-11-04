@@ -1,5 +1,3 @@
-###DEC-055974-0-000-20-04-1965@@@
-
 DECRETO Nº 55.974, DE 20 DE ABRIL DE 1965.
 
 Declara de utilidade pública o Sanatório Jesus, com sede em Cruzeiro, Estado de São Paulo.

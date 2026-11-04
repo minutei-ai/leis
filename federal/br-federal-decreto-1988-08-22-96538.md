@@ -1,5 +1,3 @@
-###DEC-096538-0-000-22-08-1988@@@
-
 DECRETO Nº 96.538, DE 22 DE AGOSTO DE l988
 
 Declara de utilidade pública, para fins de desapropriação, imóveis situados na Cidade de Porto Velho, Estado de Rondônia, destinados ao Tribunal Regional do Trabalho da 14ª Região.

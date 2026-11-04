@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208137)<br>
-
 # DECRETO N° 67.722, DE 26 DE MAIO DE 2023
 
 ### _Autoriza a outorga de uso, ao Consórcio Intermunicipal dos Municípios da Bacia do Juqueri - CIMBAJU, de parte do imóvel que especifica, e dá providências correlatas._

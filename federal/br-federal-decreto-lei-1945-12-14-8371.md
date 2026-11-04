@@ -1,5 +1,3 @@
-###DEL-008371-0-000-14-12-1945@@@
-
 DECRETO-LEI N. 8.371 – DE 14 DE DEZEMBRO DE 1945
 
 Torna extensiva, à criação e utilização do cavalo trotador, a legislação sôbre fomento da produção do puro sangue de corrida.

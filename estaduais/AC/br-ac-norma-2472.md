@@ -1,6 +1,10 @@
 > **LEI Nº 3.536, DE 04 DE NOVEMBRO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Concede o Título de Cidadã Acreana à Sra. Jiza Lopes Cezar.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Concede o Título de Cidadã Acreana à Sra. Jiza Lopes Cezar.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

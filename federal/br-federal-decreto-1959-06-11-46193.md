@@ -1,5 +1,3 @@
-###DEC-046193-0-000-11-06-1959@@@
-
 DECRETO Nº 46.193, DE 11 DE JUNHO DE 1959.
 
 Autoriza a cidadã brasileira Maria de Jesus Wendel Mamede a lavrar minério de ferro no município de Santana de Parnaíba, Estado de São Paulo.

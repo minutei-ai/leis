@@ -1,5 +1,3 @@
-###DEC-082984-0-000-04-01-1979@@@
-
 Decreto nº 82.984, de 04 de janeiro de 1979
 
 Fixa, para o exercício de 1979, o limite global de importação, através da Zona Franca de Manaus, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-061041-0-000-20-07-1967@@@
-
 decreto nº 61.041, de 20 de julho de 1967.
 
 Prorroga o prazo previsto no artigo 3º do Decreto nº 60.493, de 14 de março de 1967.

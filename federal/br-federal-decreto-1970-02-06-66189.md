@@ -1,5 +1,3 @@
-###DEC-066189-0-000-06-02-1970@@@
-
 DECRETO Nº 66.189 - DE 6 DE FEVEREIRO 1970
 
 Autoriza funcionamento de Curso.

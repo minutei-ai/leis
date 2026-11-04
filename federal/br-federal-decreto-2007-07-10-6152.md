@@ -1,5 +1,3 @@
-###DEC-006152-0-000-10-07-2007@@@
-
 DECRETO Nº 6.152, DE 10 DE JULHO DE 2007.
 
 Dispõe sobre a criação da Embaixada do Brasil em Podgorica, na República do Montenegro, cumulativa com a Embaixada em Belgrado.
@@ -21,5 +19,3 @@ Brasília, 10 de julho de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Samuel Pinheiro Guimarães  Neto
-
-Este texto não substitui o publicado no DOU de 11.7.2007

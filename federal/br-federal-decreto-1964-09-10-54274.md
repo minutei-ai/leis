@@ -1,5 +1,3 @@
-###DEC-054274-0-000-10-09-1964@@@
-
 DECRETO Nº 54.274, DE 10 DE SETEMBRO DE 1964.
 
 Concede autorização para o funcionamento da Faculdade de Serviço Social de Baurú, no Estado de São Paulo.

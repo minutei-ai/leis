@@ -1,5 +1,3 @@
-###DEL-008984-0-000-14-02-1946@@@
-
 DECRETO-LEI N. 8.984 – DE 14 DE FEVEREIRO DE 1946
 
 Cria, no Quadro Permanente do Ministério da Aeronáutica, um cargo isolado, de provimento efetivo, de Assistente Jurídico, padrão L.

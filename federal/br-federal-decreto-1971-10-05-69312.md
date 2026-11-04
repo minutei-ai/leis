@@ -1,5 +1,3 @@
-###DEC-069312-0-000-05-10-1971@@@
-
 decreto nº 69.312, de 5 de outubro de 1971.
 
 Aproveita servidor em disponibilidade e dá outras providências.

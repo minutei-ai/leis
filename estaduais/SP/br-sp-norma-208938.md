@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208938)<br>
-
 # DECRETO N° 68.189, DE 14 DE DEZEMBRO DE 2023
 
 ### _Institui o Programa Educação Profissional Paulista e dá providências correlatas._

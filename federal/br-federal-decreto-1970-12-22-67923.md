@@ -1,5 +1,3 @@
-###DEC-067923-0-000-22-12-1970@@@
-
 DECRETO Nº 67.923, DE 22 DE DEZEMBRO DE 1970.
 
 Revoga decretos, outorga concessões e dá outras providências.

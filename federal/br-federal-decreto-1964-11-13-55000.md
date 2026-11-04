@@ -1,5 +1,3 @@
-###DEC-055000-0-000-13-11-1964@@@
-
 DECRETO Nº 55.000, DE 13 DE NOVEMBRO DE 1964.
 
 Retifique o art. 1º do Decreto número 561, de 2 de fevereiro de 1962.

@@ -1,5 +1,3 @@
-###DEC-050347-0-000-16-03-1961@@@
-
 DECRETO Nº 50.347, de 16 DE março DE 1961.
 
 Revoga os Decretos ns. 48.285, de 10 de junho de 1960, 47.783, de 10 de fevereiro de 1960, 45.042, de 10 de dezembro de 1958, e 47.053, de 20 de outubro de 1959, e dá outras providências.

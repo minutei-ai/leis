@@ -1,5 +1,3 @@
-###DEC-089356-0-000-07-02-1984@@@
-
 decreto nº 89.356 de 07 fevereiro de 1984
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO E TELEVISÃO BANDEIRANTES DO RIO DE JANEIRO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

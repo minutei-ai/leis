@@ -1,5 +1,3 @@
-###DEC-073181-0-000-21-11-1973@@@
-
 DECRETO Nº 73.181 - de 21 DE NOVEMBRO DE 1973
 
 Concede recolhimento aos cursos de Pedagogia, Ciências, Letras e Estudos Sociais, da Faculdade de Filosofia, Ciências e Letras de Santo Ângelo, mantida pela Fundação Missioneira de Ensino Superior - FUNDAMES, com sede na Cidade de Santo Ângelo, Estado do Rio Grande do Sul.

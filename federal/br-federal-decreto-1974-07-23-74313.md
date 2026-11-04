@@ -1,5 +1,3 @@
-###DEC-074313-0-000-23-07-1974@@@
-
 DECRETO Nº 74.313 - de 23 de julho de 1974.
 
 Concede reconhecimento aos Cursos de Administração e de Ciências Contábeis da Faculdade de Ciências Contábeis e Administrativas São Judas Tadeu, mantida pela Instituição Educacional São Judas Tadeu, com sede na cidade de Porto Alegre, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-045408-0-000-12-02-1959@@@
-
 DECRETO Nº 45.408, DE 12 DE FEVEREIRO DE 1959.
 
 Outorga ao Govêrno do Estado do Paraná concessão para o aproveitamento da energia hidráulica de um desnível existente no curso dágua Andirá, Distrito e Município de São Jorge, Estado do Paraná.

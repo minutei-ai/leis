@@ -1,5 +1,3 @@
-###DEC-093175-0-000-26-08-1986@@@
-
 DECRETO Nº 93.175, DE 26 DE AGOSTO DE 1986
 
 Autoriza o funcionamento de habilitações do curso de Ciências da Faculdade de Filosofia, Ciências e Letras de Cachoeira do Sul.

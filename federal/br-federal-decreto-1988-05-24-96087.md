@@ -1,5 +1,3 @@
-###DEC-096087-0-000-24-05-1988@@@
-
 DECRETO N° 96.087, DE 24 DE MAIO DE 1988
 
 Autoriza o Banco Meridional do Brasil S.A. e suas controladas a procederem a aumentos do capital social.

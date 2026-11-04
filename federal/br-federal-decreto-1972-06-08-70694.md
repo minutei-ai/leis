@@ -1,5 +1,3 @@
-###DEC-070694-0-000-08-06-1972@@@
-
 DECRETO Nº 70.694, DE 8 DE JUNHO DE 1972.
 
 Altera artigo 1º, do Decreto número 68.172, de 4 de fevereiro de 1971, que cria o Parque Nacional da Serra da Bocaina, e dá outras providências.

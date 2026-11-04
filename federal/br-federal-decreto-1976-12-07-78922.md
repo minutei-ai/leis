@@ -1,5 +1,3 @@
-###DEC-078922-0-000-07-12-1976@@@
-
 DECRETO Nº 78.922, DE 7 DE DEZEMBRO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Jaguariaiva Limitada, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Jaguariaiva, Estado do Paraná.

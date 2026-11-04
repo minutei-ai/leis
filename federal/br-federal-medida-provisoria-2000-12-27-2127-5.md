@@ -1,5 +1,3 @@
-###MPV-002127-0-005-27-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.127-5, DE 27 DE DEZEMBRO DE 2000.
 
 Altera o art. 10 da Lei nº 9.478, de 6 de agosto de 1997, que dispõe sobre a política energética nacional, as atividades relativas ao monopólio do petróleo, institui o Conselho Nacional de Política Energética e a Agência Nacional de Petróleo, e acresce dispositivos ao art. 10 da Lei nº 9.847, de 26 de outubro de 1999, que dispõe sobre a fiscalização das atividades relativas ao abastecimento nacional de combustíveis e estabelece sanções administrativas.

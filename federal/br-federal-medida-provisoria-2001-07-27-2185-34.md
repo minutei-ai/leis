@@ -1,5 +1,3 @@
-###MPV-002185-0-034-27-07-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.185‑34, DE 27 DE JUlHO DE 2001.
 
 Estabelece critérios para a consolidação, a assunção e o refinanciamento, pela União, da dívida pública mobiliária e outras que especifica, de responsabilidade dos Municípios.

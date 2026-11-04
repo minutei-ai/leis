@@ -1,5 +1,3 @@
-###DEC-073750-0-000-06-03-1974@@@
-
 DECRETO Nº 73.750, DE 6 DE MARÇO DE 1974.
 
 Concede à Companhia de Mármores do Piauí - COMAPI, o direito de lavrar mármore, nos Municípios de Pio IX e Fronteiras, Estado do Piauí.

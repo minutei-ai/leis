@@ -1,5 +1,3 @@
-###DEL-009133-0-000-05-04-1946@@@
-
 DECRETO-LEI N. 9.133 – DE 5 DE ABRIL DE 1946
 
 Dispõe sôbre reclassificação de importância transferida da extinta Coordenação da Mobilização Econômica para o Ministério do Trabalho, Indústria e Comércio.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211147)<br>
-
 # DECRETO N° 69.674, DE 03 DE JULHO DE 2025
 
 ### _Dispõe sobre a classificação institucional da Secretaria de Esportes nos Sistemas de Administração Financeira e Orçamentária do Estado._

@@ -1,5 +1,3 @@
-###DEC-076043-0-000-29-07-1975@@@
-
 DECRETO Nº 76.043 - DE 29 DE JULHO DE 1975.
 
 Declara cessação de privilégios, outorga concessão à Centrais Elétricas de Santa Catarina S.A. - CELESC, no Município de Concórdia, Estado de Santa Catarina, revoga Decreto e dá outras providências.

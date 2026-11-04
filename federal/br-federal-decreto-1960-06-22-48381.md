@@ -1,5 +1,3 @@
-###DEC-048381-0-000-22-06-1960@@@
-
 DECRETO Nº 48.381, DE 22 DE JUnHO DE 1960.
 
 Retifica o art. 1º do Decreto nº 47.128, de 27 de outubro de 1959.

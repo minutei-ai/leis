@@ -1,5 +1,3 @@
-###MPV-001713-0-003-27-11-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.713-3, DE 27 DE NOVEMbRO DE 1998
 
 Altera a redação do art. 34 da Lei nº 6.368, de 21 de outubro de 1976, que dispõe sobre medidas de prevenção e repressão ao tráfico ilícito e uso indevido de substâncias entorpecentes ou que determinem dependência física ou psíquica.

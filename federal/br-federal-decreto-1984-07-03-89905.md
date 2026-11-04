@@ -1,5 +1,3 @@
-###DEC-089905-0-000-03-07-1984@@@
-
 Decreto nº 89.905, de 03 de julho de 1984
 
 Declara de interesse social, para fins de desapropriação, imóvel rural constituído de parte da "Fazenda Mimoso", situado no Município de Paranaíba, no Estado de Mato Grasso do Sul, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 89.904, de 03 de julho de 1984.

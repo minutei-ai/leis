@@ -1,5 +1,3 @@
-###DEC-071508-0-000-07-12-1972@@@
-
 DECRETO Nº 71.508 - DE 7 DE DEZEMBRO DE 1972
 
 Torna sem efeito aproveitamento de disponível na Universidade Federal da Bahia e cassa a disponibilidade do mesmo.

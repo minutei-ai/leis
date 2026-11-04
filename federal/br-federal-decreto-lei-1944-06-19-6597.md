@@ -1,5 +1,3 @@
-###DEL-006597-0-000-19-06-1944@@@
-
 DECRETO-LEI N. 6.597 – DE 19 DE JUNHO DE 1944
 
 Torna sem aplicação a importância de Cr$ 270. 000,00, em dotação orçamentária do Ministério do Trabalho, Indústria e Comércio, e abre crédito suplementar da igual quantia à verba que especifica.

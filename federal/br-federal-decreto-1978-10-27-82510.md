@@ -1,5 +1,3 @@
-###DEC-082510-0-000-27-10-1978@@@
-
 Decreto nº 82.510, de 27 de outubro de 1978.
 
 Retifica a autorização de lavra conferida à Companhia de Mineração Novalimense pelo Decreto nº 41.317, de 10 de abril de 1957, alterado pelo Decreto nº 49.663, de 31 de dezembro de 1960.

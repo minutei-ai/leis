@@ -1,5 +1,3 @@
-###DEC-060057-0-000-13-01-1967@@@
-
 DECRETA Nº 60.057, DE 13 DE JANEIRO DE 1967.
 
 Revoga o Decreto nº 53.387, de 31 de dezembro de 1963.

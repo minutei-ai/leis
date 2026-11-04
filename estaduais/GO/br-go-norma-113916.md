@@ -16,76 +16,1103 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">COFINANCIAMENTO DA REDE DE ATENÇÃO PSICOSSOCIAL</td><td style=" width:85px;    ">10 301 1043 2505</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">41</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 12.050.520,39</td><td style=" width:85px;    ">R$ 864.883,14</td><td style=" width:85px;    ">R$ 12.915.403,53</td></tr><tr><td style=" width:85px;    ">COFINANCIAMENTO DE LEITOS PSIQUIÁTRICOS</td><td style=" width:85px;    ">10 301 1043 2507</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">41</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 613.617,50</td><td style=" width:85px;    ">R$ 1.800.852,50</td><td style=" width:85px;    ">R$ 2.414.470,00</td></tr><tr><td style=" width:85px;    ">CONTRAPARTIDA DA ATENÇÃO PRIMÁRIA À&nbsp; SAÚDE</td><td style=" width:85px;    ">10 301 1043 2493</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">41</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 32.286.588,50</td><td style=" width:85px;    ">R$ 77.861.537,20</td><td style=" width:85px;    ">R$ 110.148.125,70</td></tr><tr><td style=" width:85px;    ">ATENÇÃO AO USUÁRIO DE MEDICAMENTOS DO COMPONENTE ESPECIALIZADO (ALTO CUSTO) E TERMO DE COOPERAÇÃO TÉCNICA</td><td style=" width:85px;    ">10 303 1043 2599</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 13.904.640,93</td><td style=" width:85px;    ">R$ 53.241.224,16</td><td style=" width:85px;    ">R$ 67.145.865,09</td></tr><tr><td style=" width:85px;    ">DISPONIBILIZAÇÃO DE MEDICAMENTOS À S UNIDADES DE SERVIÇO DE ASSISTÊNCIA ESPECIALIZADA - SAE</td><td style=" width:85px;    ">10 303 1043 2514</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 79.741,00</td><td style=" width:85px;    ">R$ 89.741,00</td></tr><tr><td style=" width:85px;    ">COFINANCIAMENTO DE COMPONENTE BÁSICO DA ASSISTÊNCIA FARMACÊUTICA</td><td style=" width:85px;    ">10 303 1043 2506</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">41</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 6.721.462,14</td><td style=" width:85px;    ">R$ 18.890.790,75</td><td style=" width:85px;    ">R$ 25.612.252,89</td></tr><tr><td style=" width:85px;    ">AQUISIÇÃO E DISPONIBILIZAÇÃO DE MEDICAMENTOS E INSUMOS DOS PLANOS DE CONTINGÊNCIA</td><td style=" width:85px;    ">10 303 1043 2491</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 198.892,25</td><td style=" width:85px;    ">R$ 198.892,25</td></tr><tr><td style=" width:85px;    ">GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES</td><td style=" width:85px;    ">10 302 1043 2516</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.245.135.953,60</td><td style=" width:85px;    ">R$ 16.007.280,24</td><td style=" width:85px;    ">R$ 2.261.143.233,84</td></tr><tr><td style=" width:85px;    ">CONTRAPARTIDA DO SERVIÇO DE ATENDIMENTO MÓVEL DE URGÊNCIA / SAMU 192</td><td style=" width:85px;    ">10 302 1043 2510</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">41</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 72.158.719,01</td><td style=" width:85px;    ">R$ 15.500.524,81</td><td style=" width:85px;    ">R$ 87.659.243,82</td></tr><tr><td style=" width:85px;    ">ATENDIMENTO ESPECIALIZADO AO PORTADOR DE XERODERMA</td><td style=" width:85px;    ">10 302 1043 2503</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">41</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 372.500,00</td><td style=" width:85px;    ">R$ 1.067.500,00</td><td style=" width:85px;    ">R$ 1.440.000,00</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE ATENDIMENTO NOS SERVIÇOS DE SAÚDE DE MÉDIA E ALTA COMPLEX. (TRATAMENTO FORA DO DOMICÍLIO - TFD)</td><td style=" width:85px;    ">10 302 1043 2523</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.260.375,00</td><td style=" width:85px;    ">R$ 1.333.081,56</td><td style=" width:85px;    ">R$ 3.593.456,56</td></tr><tr><td style=" width:85px;    ">COFINANCIAMENTO DAS AÇÕES DE VIGILÂNCIA EM SAÚDE</td><td style=" width:85px;    ">10 305 1043 2489</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">41</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 3.000.000,00</td><td style=" width:85px;    ">R$ 1.270.259,84</td><td style=" width:85px;    ">R$ 4.270.259,84</td></tr><tr><td style=" width:85px;    ">COFINANCIAMENTO DE COMPLEXOS REGULADORES</td><td style=" width:85px;    ">10 302 1043 2492</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">41</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.240.000,00</td><td style=" width:85px;    ">R$ 1.000.000,00</td><td style=" width:85px;    ">R$ 3.240.000,00</td></tr><tr><td style=" width:85px;    ">COFINANCIAMENTO PARA A SAÚDE DE POPULAÇÕES ESPECÍFICAS</td><td style=" width:85px;    ">10 301 1043 2508</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">41</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 11.493.059,00</td><td style=" width:85px;    ">R$ 31.181.676,00</td><td style=" width:85px;    ">R$ 42.674.735,00</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE APORTE FINANCEIRO PARA O PROGRAMA DE QUALIFICAÇÃO DA ATENÇÃO PRIMÁRIA À&nbsp; SAUDE (QUALIFICA-APS)</td><td style=" width:85px;    ">10 301 1043 2496</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">41</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.704.500,00</td><td style=" width:85px;    ">R$ 5.073.500,00</td><td style=" width:85px;    ">R$ 6.778.000,00</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 225.371.743,45</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 225.371.743,45</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+COFINANCIAMENTO DA REDE DE ATENÇÃO PSICOSSOCIAL
+
+10 301 1043 2505
+
+15000100
+
+41
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 12.050.520,39
+
+R$ 864.883,14
+
+R$ 12.915.403,53
+
+COFINANCIAMENTO DE LEITOS PSIQUIÁTRICOS
+
+10 301 1043 2507
+
+15000100
+
+41
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 613.617,50
+
+R$ 1.800.852,50
+
+R$ 2.414.470,00
+
+CONTRAPARTIDA DA ATENÇÃO PRIMÁRIA À  SAÚDE
+
+10 301 1043 2493
+
+15000100
+
+41
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 32.286.588,50
+
+R$ 77.861.537,20
+
+R$ 110.148.125,70
+
+ATENÇÃO AO USUÁRIO DE MEDICAMENTOS DO COMPONENTE ESPECIALIZADO (ALTO CUSTO) E TERMO DE COOPERAÇÃO TÉCNICA
+
+10 303 1043 2599
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 13.904.640,93
+
+R$ 53.241.224,16
+
+R$ 67.145.865,09
+
+DISPONIBILIZAÇÃO DE MEDICAMENTOS À S UNIDADES DE SERVIÇO DE ASSISTÊNCIA ESPECIALIZADA - SAE
+
+10 303 1043 2514
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 10.000,00
+
+R$ 79.741,00
+
+R$ 89.741,00
+
+COFINANCIAMENTO DE COMPONENTE BÁSICO DA ASSISTÊNCIA FARMACÊUTICA
+
+10 303 1043 2506
+
+15000100
+
+41
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 6.721.462,14
+
+R$ 18.890.790,75
+
+R$ 25.612.252,89
+
+AQUISIÇÃO E DISPONIBILIZAÇÃO DE MEDICAMENTOS E INSUMOS DOS PLANOS DE CONTINGÊNCIA
+
+10 303 1043 2491
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 198.892,25
+
+R$ 198.892,25
+
+GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES
+
+10 302 1043 2516
+
+15000100
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.245.135.953,60
+
+R$ 16.007.280,24
+
+R$ 2.261.143.233,84
+
+CONTRAPARTIDA DO SERVIÇO DE ATENDIMENTO MÓVEL DE URGÊNCIA / SAMU 192
+
+10 302 1043 2510
+
+15000100
+
+41
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 72.158.719,01
+
+R$ 15.500.524,81
+
+R$ 87.659.243,82
+
+ATENDIMENTO ESPECIALIZADO AO PORTADOR DE XERODERMA
+
+10 302 1043 2503
+
+15000100
+
+41
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 372.500,00
+
+R$ 1.067.500,00
+
+R$ 1.440.000,00
+
+REALIZAÇÃO DE ATENDIMENTO NOS SERVIÇOS DE SAÚDE DE MÉDIA E ALTA COMPLEX. (TRATAMENTO FORA DO DOMICÍLIO - TFD)
+
+10 302 1043 2523
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.260.375,00
+
+R$ 1.333.081,56
+
+R$ 3.593.456,56
+
+COFINANCIAMENTO DAS AÇÕES DE VIGILÂNCIA EM SAÚDE
+
+10 305 1043 2489
+
+15000100
+
+41
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 3.000.000,00
+
+R$ 1.270.259,84
+
+R$ 4.270.259,84
+
+COFINANCIAMENTO DE COMPLEXOS REGULADORES
+
+10 302 1043 2492
+
+15000100
+
+41
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.240.000,00
+
+R$ 1.000.000,00
+
+R$ 3.240.000,00
+
+COFINANCIAMENTO PARA A SAÚDE DE POPULAÇÕES ESPECÍFICAS
+
+10 301 1043 2508
+
+15000100
+
+41
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 11.493.059,00
+
+R$ 31.181.676,00
+
+R$ 42.674.735,00
+
+REALIZAÇÃO DE APORTE FINANCEIRO PARA O PROGRAMA DE QUALIFICAÇÃO DA ATENÇÃO PRIMÁRIA À  SAUDE (QUALIFICA-APS)
+
+10 301 1043 2496
+
+15000100
+
+41
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.704.500,00
+
+R$ 5.073.500,00
+
+R$ 6.778.000,00
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 225.371.743,45
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 225.371.743,45
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>100 - ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS</b><br>101 - GABINETE DO PRESIDENTE DA ASSEMBLEIA LEGISLATIVA</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">AQUISIÇÃO DE BENS IMÓVEIS</td><td style=" width:85px;    ">01 031 4200 4249</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">5 - INVERSÕES FINANCEIRAS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 14.106.166,67</td><td style=" width:85px;    ">R$ 14.106.166,67</td></tr></tbody></table>
+**100 - ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS**
+101 - GABINETE DO PRESIDENTE DA ASSEMBLEIA LEGISLATIVA
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4300 - SECRETARIA DE ESTADO DA INFRAESTRUTURA</b><br>4301 - GABINETE DE SEC. DE ESTADO DA INFRAESTRUTURA</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO DE EDIFICAÇÕES PÚBLICAS</td><td style=" width:85px;    ">15 451 1055 3351</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 848.847,27</td><td style=" width:85px;    ">R$ 848.847,27</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>100 - ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS</b><br>101 - GABINETE DO PRESIDENTE DA ASSEMBLEIA LEGISLATIVA</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO DE CONVÊNIOS, TERMOS DE COOPERAÇÃO E CONGÊNERES FIRMADOS PELA ALEGO</td><td style=" width:85px;    ">01 031 4200 4246</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 764.749,56</td><td style=" width:85px;    ">R$ 764.749,56</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1500 - CONTROLADORIA-GERAL DO ESTADO</b><br>1501 - GABINETE DO SECRETÁRIO - CHEFE DA CONTROLADORIA GERAL DO ESTADO</td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">APRIMORAMENTO DO COMPLIANCE PÚBLICO</td><td style=" width:85px;    ">04 124 1047 2330</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.000.000,00</td><td style=" width:85px;    ">R$ 1.000.000,00</td></tr><tr><td style=" width:85px;    ">GOVERNO ABERTO E PARTICIPAÇÃO CIDADÃ</td><td style=" width:85px;    ">04 124 1047 2050</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.144.460,42</td><td style=" width:85px;    ">R$ 1.144.460,42</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1261-AGÊNCIA BRASIL CENTRAL - ABC</b></td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">DESENVOLVIMENTO E IMPLEMENTAÇÃO DE RECURSOS EM PLATAFORMA DIGITAL DE COMUNICAÇÃO PÚBLICA</td><td style=" width:85px;    ">04 131 1047 2471</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 2.509.845,44</td><td style=" width:85px;    ">R$ 2.509.845,44</td></tr></tbody></table>
+**VALOR A REDUZIR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4093-METROBUS TRANSPORTE COLETIVO S/A</b></td></tr></tbody></table>
+AQUISIÇÃO DE BENS IMÓVEIS
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">15 453 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 743.120,67</td><td style=" width:85px;    ">R$ 743.120,67</td></tr><tr><td style=" width:85px;    ">ESTRUTURAÇÃO PARA RECEPÇÃO DE ÔNIBUS ELÉTRICO</td><td style=" width:85px;    ">15 453 1003 3276</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.770.000,00</td><td style=" width:85px;    ">R$ 1.770.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DA FROTA DE ÔNIBUS À&nbsp; COMBUSTÃO</td><td style=" width:85px;    ">15 453 1003 2432</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 3.309.570,42</td><td style=" width:85px;    ">R$ 3.309.570,42</td></tr></tbody></table>
+01 031 4200 4249
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>3100 - SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO</b><br>3101 - GAB. DA SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO</td></tr></tbody></table>
+15000100
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO DOS SERVIÇOS DO PLANO DIRETOR DA EDUCAÇÃO SUPERIOR DO ESTADO DE GOIÁS</td><td style=" width:85px;    ">19 364 1054 2391</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.240.000,00</td><td style=" width:85px;    ">R$ 1.240.000,00</td></tr><tr><td style=" width:85px;    ">IMPLEMENTAÇÃO DO PROGRAMA DE INTERNACIONALIZAÇÃO DE EMPRESAS</td><td style=" width:85px;    ">19 573 1054 2396</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">IMPLEMENTAÇÂO DO PROGRAMA DE INOVAÇÃO ABERTA</td><td style=" width:85px;    ">19 572 1049 3199</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">IMPLEMENTAÇÃO DO PROGRAMA DE INTERNACIONALIZAÇÃO DE AMBIENTES</td><td style=" width:85px;    ">19 573 1054 2395</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">CRIAÇÃO E ATRAÇÃO DE ACELERADORAS</td><td style=" width:85px;    ">19 572 1049 3196</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">CRIAÇÃO E ATRAÇÃO DE ACELERADORAS</td><td style=" width:85px;    ">19 572 1049 3196</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO DOS SERVIÇOS DA CULTURA, TERRITORIALIZAÇÃO E CAPACITAÇÃO PARA UM DESENVOLVIMENTO SUSTENTÁVEL</td><td style=" width:85px;    ">19 573 1049 2389</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 2.700.000,00</td><td style=" width:85px;    ">R$ 2.700.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO DOS SERVIÇOS DA CULTURA, TERRITORIALIZAÇÃO E CAPACITAÇÃO PARA UM DESENVOLVIMENTO SUSTENTÁVEL</td><td style=" width:85px;    ">19 573 1049 2389</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO DE EVENTOS DE INOVAÇÃO E DE INTELIGÊNCIA ARTIFICIAL</td><td style=" width:85px;    ">19 573 1049 2387</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 5.000.000,00</td><td style=" width:85px;    ">R$ 5.000.000,00</td></tr></tbody></table>
+90
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1706 - RESERVA DE CONTINGÊNCIA</td></tr></tbody></table>
+5 - INVERSÕES FINANCEIRAS
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">RESERVA DE CONTINGÊNCIA</td><td style=" width:85px;    ">99 999 9999 9000</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">99</td><td style=" width:85px;    ">9 - RESERVA DE CONTINGÊNCIA</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 131.482.121,15</td><td style=" width:85px;    ">R$ 131.482.121,15</td></tr></tbody></table>
+R$ 0,00
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1800 - SECRETARIA DE ESTADO DA ADMINISTRAÇÃO</b><br>1801 - GABINETE DO SECRETÁRIO DE ESTADO DA ADMINISTRAÇÃO</td></tr></tbody></table>
+R$ 14.106.166,67
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO DE COMPRAS, PATRIMÔNIO, LOGÍSTICA</td><td style=" width:85px;    ">04 122 1047 3251</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 17.197.596,35</td><td style=" width:85px;    ">R$ 17.197.596,35</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">04 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 2.802.403,65</td><td style=" width:85px;    ">R$ 2.802.403,65</td></tr></tbody></table>
+R$ 14.106.166,67
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>3000 - SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL</b><br>3001 - GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO SOCIAL</td></tr></tbody></table>
+**4300 - SECRETARIA DE ESTADO DA INFRAESTRUTURA**
+4301 - GABINETE DE SEC. DE ESTADO DA INFRAESTRUTURA
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">08 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 4.002.482,06</td><td style=" width:85px;    ">R$ 4.002.482,06</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4200 - SECRETARIA DE ESTADO DA RETOMADA</b><br>4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">04 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 3.052.625,42</td><td style=" width:85px;    ">R$ 3.052.625,42</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>800 - DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS</b><br>801 - GABINETE DO DEFENSOR PÚBLICO DO ESTADO DE GOIÁS</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS UNIDADES DE ATENDIMENTO</td><td style=" width:85px;    ">03 092 1007 2328</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS UNIDADES DE ATENDIMENTO</td><td style=" width:85px;    ">03 092 1007 2328</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.443.132,68</td><td style=" width:85px;    ">R$ 1.443.132,68</td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV</td><td style=" width:85px;    ">28 846 0100 7119</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 54.730,00</td><td style=" width:85px;    ">R$ 54.730,00</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA DPEGO</td><td style=" width:85px;    ">03 092 4200 4242</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA DPEGO</td><td style=" width:85px;    ">03 092 4200 4242</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 22.791.520,92</td><td style=" width:85px;    ">R$ 22.791.520,92</td></tr><tr><td style=" width:85px;    ">INSTALAÇÃO DE NOVAS UNIDADES DE ATENDIMENTO</td><td style=" width:85px;    ">03 092 1007 3153</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">INSTALAÇÃO DE NOVAS UNIDADES DE ATENDIMENTO</td><td style=" width:85px;    ">03 092 1007 3153</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.520.652,68</td><td style=" width:85px;    ">R$ 1.520.652,68</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE ATIVIDADE ITINERANTE</td><td style=" width:85px;    ">03 092 1007 2329</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE ATIVIDADE ITINERANTE</td><td style=" width:85px;    ">03 092 1007 2329</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.497.199,96</td><td style=" width:85px;    ">R$ 1.497.199,96</td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4062-UNIVERSIDADE ESTADUAL DE GOIÁS - UEG</b></td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">ESTRUTURAÇÃO DO CENTRO REGIONAL INTEGRADO DE PESQUISA, PÓS-GRADUAÇÃO E INOVAÇÃO</td><td style=" width:85px;    ">12 364 1008 3207</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 3.168.000,00</td><td style=" width:85px;    ">R$ 3.168.000,00</td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>100 - ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS</b><br>101 - GABINETE DO PRESIDENTE DA ASSEMBLEIA LEGISLATIVA</td></tr></tbody></table>
+**VALOR A REDUZIR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO DA PROMOÇÃO E DIVULGAÇÃO DAS ATIVIDADES DA ALEGO</td><td style=" width:85px;    ">01 031 4200 4247</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.122.518,13</td><td style=" width:85px;    ">R$ 1.122.518,13</td></tr></tbody></table>
+CONSTRUÇÃO DE EDIFICAÇÕES PÚBLICAS
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+15 451 1055 3351
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 225.371.743,45</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 225.371.743,45</td></tr></tbody></table>
+15000100
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+90
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 225.371.743,45</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 225.371.743,45</td></tr></tbody></table>
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 848.847,27
+
+R$ 848.847,27
+
+**100 - ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS**
+101 - GABINETE DO PRESIDENTE DA ASSEMBLEIA LEGISLATIVA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO DE CONVÊNIOS, TERMOS DE COOPERAÇÃO E CONGÊNERES FIRMADOS PELA ALEGO
+
+01 031 4200 4246
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 764.749,56
+
+R$ 764.749,56
+
+**1500 - CONTROLADORIA-GERAL DO ESTADO**
+1501 - GABINETE DO SECRETÁRIO - CHEFE DA CONTROLADORIA GERAL DO ESTADO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+APRIMORAMENTO DO COMPLIANCE PÚBLICO
+
+04 124 1047 2330
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 1.000.000,00
+
+R$ 1.000.000,00
+
+GOVERNO ABERTO E PARTICIPAÇÃO CIDADÃ
+
+04 124 1047 2050
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 1.144.460,42
+
+R$ 1.144.460,42
+
+**1261-AGÊNCIA BRASIL CENTRAL - ABC**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+DESENVOLVIMENTO E IMPLEMENTAÇÃO DE RECURSOS EM PLATAFORMA DIGITAL DE COMUNICAÇÃO PÚBLICA
+
+04 131 1047 2471
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 2.509.845,44
+
+R$ 2.509.845,44
+
+**4093-METROBUS TRANSPORTE COLETIVO S/A**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+15 453 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 743.120,67
+
+R$ 743.120,67
+
+ESTRUTURAÇÃO PARA RECEPÇÃO DE ÔNIBUS ELÉTRICO
+
+15 453 1003 3276
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 1.770.000,00
+
+R$ 1.770.000,00
+
+GESTÃO E MANUTENÇÃO DA FROTA DE ÔNIBUS À  COMBUSTÃO
+
+15 453 1003 2432
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 3.309.570,42
+
+R$ 3.309.570,42
+
+**3100 - SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO**
+3101 - GAB. DA SECRETARIA DE ESTADO DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO DOS SERVIÇOS DO PLANO DIRETOR DA EDUCAÇÃO SUPERIOR DO ESTADO DE GOIÁS
+
+19 364 1054 2391
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 1.240.000,00
+
+R$ 1.240.000,00
+
+IMPLEMENTAÇÃO DO PROGRAMA DE INTERNACIONALIZAÇÃO DE EMPRESAS
+
+19 573 1054 2396
+
+15000100
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+IMPLEMENTAÇÂO DO PROGRAMA DE INOVAÇÃO ABERTA
+
+19 572 1049 3199
+
+15000100
+
+50
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+IMPLEMENTAÇÃO DO PROGRAMA DE INTERNACIONALIZAÇÃO DE AMBIENTES
+
+19 573 1054 2395
+
+15000100
+
+50
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+CRIAÇÃO E ATRAÇÃO DE ACELERADORAS
+
+19 572 1049 3196
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+CRIAÇÃO E ATRAÇÃO DE ACELERADORAS
+
+19 572 1049 3196
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+GESTÃO DOS SERVIÇOS DA CULTURA, TERRITORIALIZAÇÃO E CAPACITAÇÃO PARA UM DESENVOLVIMENTO SUSTENTÁVEL
+
+19 573 1049 2389
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 2.700.000,00
+
+R$ 2.700.000,00
+
+GESTÃO DOS SERVIÇOS DA CULTURA, TERRITORIALIZAÇÃO E CAPACITAÇÃO PARA UM DESENVOLVIMENTO SUSTENTÁVEL
+
+19 573 1049 2389
+
+15000100
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+GESTÃO DE EVENTOS DE INOVAÇÃO E DE INTELIGÊNCIA ARTIFICIAL
+
+19 573 1049 2387
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 5.000.000,00
+
+R$ 5.000.000,00
+
+**1700 - SECRETARIA DE ESTADO DA ECONOMIA**
+1706 - RESERVA DE CONTINGÊNCIA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+RESERVA DE CONTINGÊNCIA
+
+99 999 9999 9000
+
+15000100
+
+99
+
+9 - RESERVA DE CONTINGÊNCIA
+
+R$ 0,00
+
+R$ 131.482.121,15
+
+R$ 131.482.121,15
+
+**1800 - SECRETARIA DE ESTADO DA ADMINISTRAÇÃO**
+1801 - GABINETE DO SECRETÁRIO DE ESTADO DA ADMINISTRAÇÃO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO DE COMPRAS, PATRIMÔNIO, LOGÍSTICA
+
+04 122 1047 3251
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 17.197.596,35
+
+R$ 17.197.596,35
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+04 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 2.802.403,65
+
+R$ 2.802.403,65
+
+**3000 - SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL**
+3001 - GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO SOCIAL
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+08 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 4.002.482,06
+
+R$ 4.002.482,06
+
+**4200 - SECRETARIA DE ESTADO DA RETOMADA**
+4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+04 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 3.052.625,42
+
+R$ 3.052.625,42
+
+**800 - DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS**
+801 - GABINETE DO DEFENSOR PÚBLICO DO ESTADO DE GOIÁS
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO E MANUTENÇÃO DAS UNIDADES DE ATENDIMENTO
+
+03 092 1007 2328
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+GESTÃO E MANUTENÇÃO DAS UNIDADES DE ATENDIMENTO
+
+03 092 1007 2328
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 1.443.132,68
+
+R$ 1.443.132,68
+
+PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV
+
+28 846 0100 7119
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 54.730,00
+
+R$ 54.730,00
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA DPEGO
+
+03 092 4200 4242
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA DPEGO
+
+03 092 4200 4242
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 22.791.520,92
+
+R$ 22.791.520,92
+
+INSTALAÇÃO DE NOVAS UNIDADES DE ATENDIMENTO
+
+03 092 1007 3153
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+INSTALAÇÃO DE NOVAS UNIDADES DE ATENDIMENTO
+
+03 092 1007 3153
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 1.520.652,68
+
+R$ 1.520.652,68
+
+REALIZAÇÃO DE ATIVIDADE ITINERANTE
+
+03 092 1007 2329
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+REALIZAÇÃO DE ATIVIDADE ITINERANTE
+
+03 092 1007 2329
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 1.497.199,96
+
+R$ 1.497.199,96
+
+**4062-UNIVERSIDADE ESTADUAL DE GOIÁS - UEG**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+ESTRUTURAÇÃO DO CENTRO REGIONAL INTEGRADO DE PESQUISA, PÓS-GRADUAÇÃO E INOVAÇÃO
+
+12 364 1008 3207
+
+15000100
+
+50
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 3.168.000,00
+
+R$ 3.168.000,00
+
+**100 - ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS**
+101 - GABINETE DO PRESIDENTE DA ASSEMBLEIA LEGISLATIVA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO DA PROMOÇÃO E DIVULGAÇÃO DAS ATIVIDADES DA ALEGO
+
+01 031 4200 4247
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 1.122.518,13
+
+R$ 1.122.518,13
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 225.371.743,45
+
+**TOTAL**
+
+R$ 225.371.743,45
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 225.371.743,45
+
+**TOTAL**
+
+R$ 225.371.743,45

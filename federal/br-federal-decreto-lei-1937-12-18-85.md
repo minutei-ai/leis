@@ -1,5 +1,3 @@
-###DEL-000085-0-000-18-12-1937@@@
-
 DECRETO-LEI N. 85 – DE 18 DE DEZEMBRO DE 1937
 
 Cria dois lugares de contador na Justiça Local do Distrito Federal

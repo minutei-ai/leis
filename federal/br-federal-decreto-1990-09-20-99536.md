@@ -1,5 +1,3 @@
-###DEC-099536-0-000-20-09-1990@@@ 
-
 DECRETO N° 99.536, DE 20 DE SETEMBRO DE 1990
 
 Exclui do regime de disponibilidade remunerada os Agentes de Vigilância, Agentes de Segurança, Auxiliares de Segurança, Guardas de Vigilância, Vigias e Vigilantes constantes dos anexos dos decretos que menciona, e dá outras providências.

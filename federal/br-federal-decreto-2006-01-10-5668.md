@@ -1,5 +1,3 @@
-###DEC-005668-0-000-10-01-2006@@@
-
 DECRETO Nº 5.668, DE 10 DE JANEIRO DE 2006.
 
 Determina que a Agência Nacional de Energia Elétrica - ANEEL seja o órgão anuente no Sistema Integrado do Comércio Exterior - SISCOMEX nas operações de importação e exportação de energia elétrica no Sistema Isolado e no Sistema Interligado Nacional - SIN, e dá outras providências.

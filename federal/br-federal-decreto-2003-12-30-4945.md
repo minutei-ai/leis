@@ -1,5 +1,3 @@
-###DEC-004945-0-000-30-12-2003@@@
-
 DECRETO Nº 4.945,  DE 30 DE DEZEMBRO DE 2003.
 
 Fixa o número de dias para a exibição de obras audiovisuais cinematográficas brasileiras no ano de 2004 e dá outras providências.

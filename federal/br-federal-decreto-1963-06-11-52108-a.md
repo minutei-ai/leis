@@ -1,5 +1,3 @@
-###DEC-052108-A-000-11-06-1963@@@
-
 DECRETO Nº 52.108-A, de 11 de junho de 1963.
 
 Inclui a categoria de “Mecânico” no Art. 320 e acrescenta parágrafo único ao art. 379 do Regulamento para o tráfego marítimo.

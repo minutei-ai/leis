@@ -1,5 +1,3 @@
-###DEC-006254-0-000-13-11-2007@@@
-
 DECRETO Nº 6.254, DE 13 DE NOVEMBRO DE 2007.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, de empreendimento de transmissão de energia elétrica integrante da Rede Básica do Sistema Interligado Nacional - SIN, determina à Agencia Nacional de Energia Elétrica - ANEEL a promoção e o acompanhamento do processo de licitação dessa concessão, e dá outra providência.
@@ -23,5 +21,3 @@ LUIZ INÁCIO LULA DA SILVA
 Ivan João Guimarães Ramalho
 
 Nelson Jose Hubner Moreira
-
-Este texto não substitui o publicado no DOU de 14.11.2007

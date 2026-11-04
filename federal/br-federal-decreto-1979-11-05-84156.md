@@ -1,5 +1,3 @@
-###DEC-084156-0-000-05-11-1979@@@
-
 decreto nº 84.156, de 05 de novembro de 1979.
 
 Altera o Estatuto da Empresa Pública Banco Nacional de Habitação.

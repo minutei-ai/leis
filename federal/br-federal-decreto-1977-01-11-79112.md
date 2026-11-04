@@ -1,5 +1,3 @@
-###DEC-079112-0-000-11-01-1977@@@
-
 decreto nº 79.112, de 11 de janeiro de 1977.
 
 Fixa as proporções para o cálculo do número mínimo de vagas que deveriam ser abertas em 1976, para a aplicação da Quota Compulsória no Ministério da Marinha.

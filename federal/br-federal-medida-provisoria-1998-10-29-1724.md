@@ -1,5 +1,3 @@
-###MPV-001724-0-000-29-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.724, dE 29 DE OUTUBRO DE 1998
 
 Altera a Legislação Tributária Federal.

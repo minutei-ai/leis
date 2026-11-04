@@ -1,5 +1,3 @@
-###DEC-083073-0-000-23-01-1979@@@
-
 ### Decreto nº 83.073, de 23 de janeiro de 1979
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa faixa de terra destinada á passagem de  linha de transmissão da LIGHT - Serviços de Eletricidade S.A, no Estado do Rio de Janeiro.

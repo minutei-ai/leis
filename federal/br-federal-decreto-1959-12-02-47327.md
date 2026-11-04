@@ -1,5 +1,3 @@
-###DEC-047327-0-000-02-12-1959@@@
-
 decreto nº 47.327, de 2 de dezembro de 1959.
 
 Autoriza o cidadão brasileiro Lafaiete Pimenta de Aguiar a pesquisar mica no município de Santa Maria do Suassuí, Estado de Minas Gerais.

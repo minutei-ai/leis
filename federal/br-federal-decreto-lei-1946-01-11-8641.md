@@ -1,5 +1,3 @@
-###DEL-008641-0-000-11-01-1946@@@
-
 DECRETO-LEI N. 8.641 – DE 11 DE JANEIRO DE 1946
 
 Cria, no Quadro Permanente da Prefeitura do Distrito Federal, cargos isolados, de provimento em comissão.

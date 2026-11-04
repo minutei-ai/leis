@@ -1,5 +1,3 @@
-###DEC-075834-0-000-09-06-1975@@@
-
 DECRETO Nº 75.834, DE 9 DE JUNHO DE 1975.
 
 Aprova o Regulamento para o Centro de Sinalização Náutica e Reparos "Almirante Moraes Rego".

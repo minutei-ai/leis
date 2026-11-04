@@ -1,5 +1,3 @@
-###DEC-046393-0-000-08-07-1959@@@
-
 DECRETO Nº 46.393, DE 8 DE JULHO DE 1959.
 
 Autoriza o Ministro de Estado dos Negócios da Agricultura alterar as especificações para classificação e fiscalização da exportação da banana anã ou nanica.

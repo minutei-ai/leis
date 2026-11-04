@@ -1,5 +1,3 @@
-###DEC-072123-0-000-24-04-1973@@@
-
 Decreto nº 72.123, de 24 de abril de 1973.
 
 Concede reconhecimento à Faculdade de Educação Física de Santo André, mantida pela Associação de Ensino "João Ramalho", com sede na cidade de Santo André, Estado de São Paulo.

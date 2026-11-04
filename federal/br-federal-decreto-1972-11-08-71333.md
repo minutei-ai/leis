@@ -1,5 +1,3 @@
-###DEC-071333-0-000-08-11-1972@@@
-
 DECRETO Nº 71.333 - DE 8 DE NOVEMBRO DE 1972.
 
 Autoriza o funcionamento do Curso de Licenciatura em Ciências da Faculdade de Filosofia, Ciências e Letras de S. José do Rio Preto - SP.

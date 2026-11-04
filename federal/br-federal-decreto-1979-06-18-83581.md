@@ -1,5 +1,3 @@
-###DEC-083581-0-000-18-06-1979@@@
-
 Decreto nº 83.581, de 18 de junho de 1979
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona, situado no Município de Guarujá, Estado de São Paulo.

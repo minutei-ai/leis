@@ -1,5 +1,3 @@
-###DEC-062317-0-000-28-02-1968@@@
-
 DECRETO Nº 62.317, DE 28 DE FEVEREIRO DE 1968.
 
 Aprova o Plano de Reestruturação da Universidade Federal de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-084203-0-000-13-11-1979@@@
-
 Decreto nº 84.203, de 13 de novembro de 1979.
 
 Promulga a Convenção que Estabelece a Comissão Sericícola Internacional.

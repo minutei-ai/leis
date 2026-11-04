@@ -1,5 +1,3 @@
-###DEC-004847-0-000-25-09-2003@@@
-
 DECRETO Nº 4.847,  DE 25 DE SETEMBRO DE 2003.
 
        Altera os Anexos I, II, III, IV, V, VI, VII, XII, XIII e XIV do Decreto no 4.591, de 10 de fevereiro de 2003, e dá outras providências.
@@ -28,6 +26,8 @@ b) R$ 554.730.000,00 (quinhentos e cinqüenta e quatro milhões, setecentos e tr
 
         Brasília, 25 de setembro de 2003; 182º da Independência e 115º da República.
 
-JOSÉ ALENCAR GOMES DA SILVA<br>
-Antonio Palocci Filho<br>
+JOSÉ ALENCAR GOMES DA SILVA
+
+Antonio Palocci Filho
+
 Guido Mantega

@@ -1,5 +1,3 @@
-###DEC-054202-0-000-24-08-1964@@@
-
 decreto nº 54.202, de 24 de agôsto de 1964.
 
 Concede reconhecimento ao Curso de Auxiliar de Enfermagem da Escola de Auxiliares de Enfermagem Ponte Nova, de Itacira, Estado da Bahia.

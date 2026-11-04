@@ -1,5 +1,3 @@
-###DEC-050730-0-000-06-06-1961@@@
-
 DECRETO Nº 50.730, DE 6 JUNHO DE 1961.
 
 Autoriza a Prefeitura Municipal de Belo Horizonte a pesquisar minério de ferro no município de Betim, Estado de Minas Gerais.

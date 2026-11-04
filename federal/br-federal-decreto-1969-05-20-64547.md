@@ -1,5 +1,3 @@
-###DEC-064547-0-000-20-05-1969@@@
-
 DECRETO Nº 64.547, DE 20 DE maio DE 1969.
 
 Autoriza o funcionamento de Curso de Engenharia Operacional.

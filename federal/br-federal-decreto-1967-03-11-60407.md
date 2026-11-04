@@ -1,5 +1,3 @@
-###DEC-060407-0-000-11-03-1967@@@
-
 DECRETO Nº 60.407, DE 11 DE MARÇO DE 1967.
 
 Estabelece teto para reajustes de contratos e dispõe sôbre a rescisão dos mesmos.

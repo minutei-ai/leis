@@ -1,5 +1,3 @@
-###DEC-059184-0-000-08-09-1966@@@
-
 Decreto nº 59.184, de 8 de setembro de 1966.
 
 Autoriza o cidadão brasileiro José Feliciano Ferreira da Rosa Aquino a pesquisar argila, no município de Cotia, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-055485-0-000-08-01-1965@@@
-
 decreto nº 55.485, de 8 de janeiro de 1965.
 
 Autoriza o cidadão brasileiro Alberto Freire de Carvalho a pesquisar minério de manganês no município de Conceição do Mato Dentro, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-049319-0-000-22-11-1960@@@
-
 DECRETO Nº 49.319, DE 22 DE NOVEMBRO DE 1960.
 
 Concede à Mineração Retiro do Sapecado Ltda, autorização para funcionar como emprêsa de Mineração.

@@ -1,5 +1,3 @@
-###DEL-009783-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.783 – DE 6 DE SETEMBRO DE 1946
 
 Dispõe sôbre a admissão, para cotação em Bôlsa, de ações ou obrigações ao portador.

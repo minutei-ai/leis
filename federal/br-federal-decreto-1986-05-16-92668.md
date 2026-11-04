@@ -1,5 +1,3 @@
-###DEC-092668-0-000-16-05-1986@@@
-
 DECRETO Nº 92.668, DE 16 DE MAIO DE 1986
 
 Renova a concessão outorgada à RÁDIO EDUCAÇÃO RURAL LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Campo Grande, Estado do Mato Grosso do Sul.

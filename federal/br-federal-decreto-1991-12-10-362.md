@@ -1,7 +1,3 @@
-1
-
-###DEC-000362-0-000-10-12-1991@@@
-
 DECRETO Nº 362, DE 10 DE DEZEMBRO DE 1991
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Centro Latino‑Americano de Física (CLAF) sobre suas Obrigações, Direitos e Privilégios em Território Brasileiro.

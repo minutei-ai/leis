@@ -1,5 +1,3 @@
-###DEC-048473-0-000-07-07-1960@@@
-
 DECRETO Nº 48.473, DE 7 DE JULHO DE 1960.
 
 Cria cargos e funções gratificadas no Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas e dá outras providências.

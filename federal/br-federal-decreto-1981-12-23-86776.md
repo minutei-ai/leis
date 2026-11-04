@@ -1,5 +1,3 @@
-###DEC-086776-0-000-23-12-1981@@@
-
 Decreto nº 86.776, de 23 de dezembro de 1981
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que menciona.

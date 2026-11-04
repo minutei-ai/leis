@@ -1,5 +1,3 @@
-###DEC-074387-0-000-09-08-1974@@@
-
 DECRETO Nº 74.387 - DE 9 DE AGOSTO DE 1974.
 
 Concede à Mineração Palestina S.A. o direito de lavrar argila caulinítica no Município de Caruaru, Estado de Pernambuco.

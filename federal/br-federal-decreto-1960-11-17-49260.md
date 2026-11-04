@@ -1,5 +1,3 @@
-###DEC-049260-0-000-17-11-1960@@@
-
 DECRETO Nº 49.260, DE 17 DE NOVEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Levino Gonçalves da Silva a pesquisar mica, no município de Santa Maria, Estado de Minas Gerais.

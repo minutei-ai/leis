@@ -1,5 +1,3 @@
-###DEC-064231-0-000-20-03-1969@@@
-
 DECRETO nº 64.231, de 20 de março de 1969.
 
 Outorga concessão à Companhia de Telecomunicações do Pará - COTELPA - para executar serviço de  telefonia público urbano (municipal) no Estado do Pará.

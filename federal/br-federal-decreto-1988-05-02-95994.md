@@ -1,5 +1,3 @@
-###DEC-095994-0-000-02-05-1988@@@
-
 DECRETO N° 95.994, DE 02 DE MAIO DE 1988
 
 Renova a concessão outorgada à RÁDIO CLUBE DE REALEZA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Realeza, Estado do Paraná.

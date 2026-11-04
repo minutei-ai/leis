@@ -1,5 +1,3 @@
-###DEC-007212-0-000-15-06-2010-PUB-01@@@
-
 DECRETO Nº 7.212, DE 15 DE JUNHO DE 2010
 
 Regulamenta a cobrança, fiscalização,  arrecadação e administração do Imposto sobre Produtos Industrializados - IPI.

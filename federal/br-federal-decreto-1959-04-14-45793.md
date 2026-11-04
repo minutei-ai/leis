@@ -1,5 +1,3 @@
-###DEC-045793-0-000-14-04-1959@@@
-
 DECRETO Nº 45.793, DE 14 DE ABRIL DE 1959.
 
 Autoriza E. Togni & Cia. a pesquisar bauxita e argila no município de poços de Caldas, Estado de Minas Gerais.

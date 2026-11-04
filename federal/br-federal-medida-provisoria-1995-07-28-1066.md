@@ -1,7 +1,3 @@
-1
-
-###MPV-001066-0-000-28-07-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.066, DE 28 DE JULHO DE 1995.
 
 Dispõe sobre o pagamento dos servidores civis e militares do Poder Executivo Federal, inclusive suas autarquias e fundações, bem como dos empregados das empresas públicas e das sociedades de economia mista, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-000254-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 254, DE 28 DE FEVEREiro DE 1967
 
 Código da Propriedade Industrial.
@@ -1404,4 +1402,144 @@ TAXAS DE SERVIÇOS FEDERAIS
 
 I - Privilégio de Invenção
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>NCr$</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 - Depósito de pedido de privilégio de patente de invenção, de desenho ou de modêlo industrial:</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) até cinco pontos característicos .....................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) por ponto característico que exceder de cinco, mais ......................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2 - Busca de patente .........................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3 - Taxa suplementar pela alteração do relatório ou do desenho, quando não fôr exigido pelo D.N.P.I. ..........................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4 - Taxa suplementar pela apresentação, quando posterior ao depósito do pedido de registro de patente de invenção, de desenho ou de modêlo industrial, do certificado do país de origem .........................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5 - Pedido de restauração de processo de patente de invenção, de desenho ou de modêlo industrial ...........................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6 - Expedição de carta-patente de privilégio de invenção, de desenho ou de modêlo industrial ................................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7 - Taxa de período de patente de invenção, de desenho ou de modêlo industrial ..</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8 - Pedido de prorrogação do prazo de vigência de patente de invenção, de desenho ou de modêlo industrial ........................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>80,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>9 - Pedido de garantia de prioridade ...................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10 - Pedido de cancelamento de garantia de prioridade .....................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>11 - Anotação de qualquer contrato de licença para uso ou exploração de patente</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>12 - Pedido para conceção de licença obrigatória ..............................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>13 - Pedido de caducidade de patente ...............................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>14 - Pedido de registro de recompensa industrial ...............................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II - Marcas e semelhantes</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15 - Depósito de qualquer pedido de registro de marcas, nome de emprêsa, título de estabelecimento, insígnia e expressão, ou sinal de propaganda ...........</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>16 - Busca sôbre a existência de marcas, nomes de emprêsa, título de estabelecimento, insígnia e expressão ou sinal de propaganda ..........................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>17 - Taxa suplementar por classe nos depósitos de pedidos de registro de marca, nome de emprêsa, título de estabelecimento, insígnia e expressão ou sinal de propaganda que excederem de três classes .........................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>18 - Expedição de certificado de registro ............................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>19 - Pedido de prorrogação do prazo de registro de marca, nome de emprêsa, título de estabelecimento, insígnia e expressão ou sinal de propaganda:</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) quando apresentado dentro de seis meses antes do término do prazo de vigência do registro ............................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) quando apresentado dentro de três meses depois de vencido o prazo de vigência do registro ............................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20 - Anotação de qualquer contrato de licença para uso ou exploração de marca, insígnia e expressão ou sinal de propaganda .........................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>21 - Pedido de caducidade de registro ...............................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III - Diversos</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>22 - Interposição de oposição, impugnação, aditamento, recurso e réplica ........</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>23 - Anotação de cessão de transferência ou de alteração de nome do titular de patente, marca, título, insígnia e expressão ou sinal de propaganda ..................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>24 - Certidão de têrmo de depósito de pedido de patente de invenção, marca ou semelhantes .................................................................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>25 - Certidão não especificada, por fôlha ...........................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>26 - Cópia de livro ou documento, autenticada, por fôlha....................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1,50</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>27 - Pedido de arquivamento de procuração ......................................................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>28 - Inscrição em prova de habilitação para Agente da Propriedade Industrial ...</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>29 - Admissão como preposto de Agente da Propriedade Industrial ...................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30 - Recurso ao Conselho de Recursos da Propriedade Industrial .....................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>31 - Recurso extraordinário ao Ministro da Indústria e do Comércio ...................</span></p></td><td style="width:31.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>100,00</span></p></td></tr></tbody></table>
+NCr$
+
+1 - Depósito de pedido de privilégio de patente de invenção, de desenho ou de modêlo industrial:
+
+a) até cinco pontos característicos .....................................................................
+
+50,00
+
+b) por ponto característico que exceder de cinco, mais ......................................
+
+5,00
+
+2 - Busca de patente .........................................................................................
+
+5,00
+
+3 - Taxa suplementar pela alteração do relatório ou do desenho, quando não fôr exigido pelo D.N.P.I. ..........................................................................................
+
+10,00
+
+4 - Taxa suplementar pela apresentação, quando posterior ao depósito do pedido de registro de patente de invenção, de desenho ou de modêlo industrial, do certificado do país de origem .........................................................................
+
+10,00
+
+5 - Pedido de restauração de processo de patente de invenção, de desenho ou de modêlo industrial ...........................................................................................
+
+20,00
+
+6 - Expedição de carta-patente de privilégio de invenção, de desenho ou de modêlo industrial ................................................................................................
+
+50,00
+
+7 - Taxa de período de patente de invenção, de desenho ou de modêlo industrial ..
+
+50,00
+
+8 - Pedido de prorrogação do prazo de vigência de patente de invenção, de desenho ou de modêlo industrial ........................................................................
+
+80,00
+
+9 - Pedido de garantia de prioridade ...................................................................
+
+10,00
+
+10 - Pedido de cancelamento de garantia de prioridade .....................................
+
+5,00
+
+11 - Anotação de qualquer contrato de licença para uso ou exploração de patente
+
+10,00
+
+12 - Pedido para conceção de licença obrigatória ..............................................
+
+20,00
+
+13 - Pedido de caducidade de patente ...............................................................
+
+20,00
+
+14 - Pedido de registro de recompensa industrial ...............................................
+
+10,00
+
+II - Marcas e semelhantes
+
+15 - Depósito de qualquer pedido de registro de marcas, nome de emprêsa, título de estabelecimento, insígnia e expressão, ou sinal de propaganda ...........
+
+30,00
+
+16 - Busca sôbre a existência de marcas, nomes de emprêsa, título de estabelecimento, insígnia e expressão ou sinal de propaganda ..........................
+
+10,00
+
+17 - Taxa suplementar por classe nos depósitos de pedidos de registro de marca, nome de emprêsa, título de estabelecimento, insígnia e expressão ou sinal de propaganda que excederem de três classes .........................................
+
+10,00
+
+18 - Expedição de certificado de registro ............................................................
+
+30,00
+
+19 - Pedido de prorrogação do prazo de registro de marca, nome de emprêsa, título de estabelecimento, insígnia e expressão ou sinal de propaganda:
+
+a) quando apresentado dentro de seis meses antes do término do prazo de vigência do registro ............................................................................................
+
+20,00
+
+b) quando apresentado dentro de três meses depois de vencido o prazo de vigência do registro ............................................................................................
+
+30,00
+
+20 - Anotação de qualquer contrato de licença para uso ou exploração de marca, insígnia e expressão ou sinal de propaganda .........................................
+
+10,00
+
+21 - Pedido de caducidade de registro ...............................................................
+
+20,00
+
+III - Diversos
+
+22 - Interposição de oposição, impugnação, aditamento, recurso e réplica ........
+
+20,00
+
+23 - Anotação de cessão de transferência ou de alteração de nome do titular de patente, marca, título, insígnia e expressão ou sinal de propaganda ..................
+
+10,00
+
+24 - Certidão de têrmo de depósito de pedido de patente de invenção, marca ou semelhantes .................................................................................................
+
+2,00
+
+25 - Certidão não especificada, por fôlha ...........................................................
+
+1,00
+
+26 - Cópia de livro ou documento, autenticada, por fôlha....................................
+
+1,50
+
+27 - Pedido de arquivamento de procuração ......................................................
+
+5,00
+
+28 - Inscrição em prova de habilitação para Agente da Propriedade Industrial ...
+
+50,00
+
+29 - Admissão como preposto de Agente da Propriedade Industrial ...................
+
+50,00
+
+30 - Recurso ao Conselho de Recursos da Propriedade Industrial .....................
+
+50,00
+
+31 - Recurso extraordinário ao Ministro da Indústria e do Comércio ...................
+
+100,00

@@ -1,5 +1,3 @@
-###DEC-052161-0-000-27-06-1963@@@
-
 Decreto nº 52.161, de 27 de junho de 1963.
 
 Dispõe sôbre a Comissão Coordenadora do Plano Trienal de Educação.

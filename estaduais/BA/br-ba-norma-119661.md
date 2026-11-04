@@ -4,7 +4,8 @@ Dispõe sobre as diretrizes orçamentárias para o exercício de 1997 e dá outr
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 1º - Ficam estabelecidas as diretrizes orçamentárias do Estado para o exercício de 1997, compreendendo:
@@ -21,7 +22,8 @@ V - a política de aplicação de recursos das agências financeiras estaduais d
 
 VI - a organização e estrutura dos orçamentos.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DAS PRIORIDADES E METAS DA ADMINISTRAÇÃO PÚBLICA ESTADUAL
 
 Art. 2º - Constituem prioridades da Administração Pública Estadual a serem contempladas na sua programação orçamentária anual:
@@ -86,10 +88,12 @@ VII - o desenvolvimento de uma política, de programas estratégicos, priorizand
 
 Art. 3º - As prioridades estabelecidas no [artigo anterior](https://www.legislabahia.ba.gov.br/documentos/lei-no-6959-de-04-de-julho-de-1996#LO_6_959_Art__2) terão precedência na alocação de recursos nos orçamentos de 1997, observadas as metas programáticas constantes do Plano Plurianual do Estado 1996-1999, aprovado pela Lei nº 6.913, de 1º de novembro de 1995.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DAS DIRETRIZES PARA A ELABORAÇÃO DOS ORÇAMENTOS DO ESTADO
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DAS DIRETRIZES GERAIS
 
 Art. 4º - No projeto de lei orçamentária anual e nos quadros que o acompanham, as receitas e despesas serão orçadas a preços vigentes em julho de 1996.
@@ -154,7 +158,8 @@ Art. 13 - Nos orçamentos fiscal e da seguridade social serão constituídas res
 
 Parágrafo único - As reservas de contingência de que tratam o "caput" deste artigo serão constituídas em montante correspondente a até 3% (três por cento) do valor global dos referidos orçamentos.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DAS DIRETRIZES DOS ORÇAMENTOS FISCAL E DA SEGURIDADE SOCIAL
 
 Art. 14 - Os orçamentos fiscal e da seguridade social compreenderão a receita e a programação da despesa dos Poderes do Estado, seus fundos, órgãos da administração direta, autarquias e fundações instituídas e mantidas pelo Poder Público.
@@ -165,7 +170,8 @@ Art. 14 - Os orçamentos fiscal e da seguridade social compreenderão a receita 
 
 Art. 15 - O orçamento da seguridade social abrangerá os recursos e as programações dos órgãos e entidades da administração direta e indireta do Estado, inclusive seus fundos e fundações, que atuem nas áreas de saúde, previdência e assistência social.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DAS DIRETRIZES DO ORÇAMENTO DE INVESTIMENTO DAS EMPRESAS
 
 Art. 16 - O orçamento de investimento das empresas em que o Estado, direta ou indiretamente, detenha a maioria do capital social com direito a voto, será apresentado por cada empresa, discriminadas as fontes de financiamento e as despesas, segundo a classificação funcional-programática, expressa por categoria de programação em seu menor nível.
@@ -176,7 +182,8 @@ Art. 17 - Não se aplicam às empresas integrantes do orçamento de investimento
 
 Art. 18 - A programação dos investimentos à conta de recursos oriundos dos orçamentos fiscal e da seguridade social observará o valor e a destinação previstos nas dotações do orçamento original.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DAS DISPOSIÇÕES RELATIVAS ÀS DESPESAS DO ESTADO COM PESSOAL E ENCARGOS SOCIAIS
 
 Art. 19 - As dotações orçamentárias destinadas às despesas com pessoal e encargos sociais, em cada Poder, serão estimadas, para o exercício de 1997, com base nas despesas executadas no mês de julho de 1996, observados, além da legislação pertinente em vigor:
@@ -207,7 +214,8 @@ i) serviços judiciários.
 
 Art. 21 - As dotações para atendimento das despesas com a admissão de pessoal sob regime especial de contratação, nos termos do inciso IX, do art. 37, da Constituição Federal, serão alocadas em atividade específica.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DAS DISPOSIÇÕES SOBRE ALTERAÇÕES NA LEGISLAÇÃO TRIBUTÁRIA DO ESTADO E MEDIDAS PARA INCREMENTO DA RECEITA
 
 Art. 22 - Em caso de necessidade, o Poder Executivo encaminhará à Assembléia Legislativa projeto de lei dispondo sobre alterações na legislação tributária estadual e incremento da receita, incluindo:
@@ -222,7 +230,8 @@ IV - geração de receita própria pelas entidades da administração indireta, 
 
 Parágrafo único - Os recursos eventualmente decorrentes das alterações previstas neste artigo serão incorporados aos orçamentos do Estado, mediante a abertura de créditos adicionais no decorrer do exercício, observada a legislação vigente.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DA POLÍTICA DE APLICAÇÃO DE RECURSOS PELAS AGÊNCIAS FINANCEIRAS ESTADUAIS DE FOMENTO
 
 Art. 23 - As agências financeiras estaduais de fomento, na concessão de financiamento, observarão, além de sua compatibilização com o Plano Plurianual 1996-1999, as seguintes políticas:
@@ -243,7 +252,8 @@ VII - o estímulo a pesquisa tecnológica, aplicada à agropecuária.
 
 Parágrafo único - A concessão de empréstimos ou financiamentos na forma deste artigo, a Municípios, inclusive às suas autarquias, fundações, empresas e sociedades de economia mista e outras sob seu controle, sem prejuízo das demais normas regulamentares pertinentes, fica condicionada à comprovação a que se refere o [art. 8º](https://www.legislabahia.ba.gov.br/documentos/lei-no-6959-de-04-de-julho-de-1996#LO_6_959_Art__8) desta Lei e às normas do Banco Central.
 
-CAPÍTULO VII -<br>
+CAPÍTULO VII -
+
 DA ORGANIZAÇÃO E ESTRUTURA DOS ORÇAMENTOS
 
 Art. 24 - A proposta orçamentária anual que o Poder Executivo encaminhará à Assembléia Legislativa, até 30 de setembro de 1996, será composta, além da mensagem e do respectivo projeto de lei, de:

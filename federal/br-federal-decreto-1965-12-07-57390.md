@@ -1,5 +1,3 @@
-###DEC-057390-0-000-07-12-1965@@@
-
 DECRETO Nº 57.390, DE 7 DE DEZEMBRO DE 1965.
 
 Reajuste os preços básicos mínimos relativos à safra do ano agrícola 1965-66 para o feijão das águas e o amendoim das águas da região Centro-Meridional, constantes no Decreto nº 56,822, de 1º de setembro de 1965.

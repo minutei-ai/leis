@@ -1,5 +1,3 @@
-###DEC-054577-0-000-26-10-1964@@@
-
 DECRETO Nº 54.577, DE 26 DE OUTUBRO DE 1964.
 
 Extingue os Consulados Privativos do Brasil em Posadas (República Argentina) e Salto (Uruguai).

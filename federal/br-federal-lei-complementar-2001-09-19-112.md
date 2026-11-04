@@ -1,5 +1,3 @@
-###LCP-000112-0-000-19-09-2001@@@
-
 LEI COMPLEMENTAR Nº 112, DE 19 DE SETEMBRO DE 2001
 
  Autoriza o Poder Executivo a criar a Região Integrada de Desenvolvimento da Grande Teresina e instituir o Programa Especial de Desenvolvimento da Grande Teresina e dá outras providências.

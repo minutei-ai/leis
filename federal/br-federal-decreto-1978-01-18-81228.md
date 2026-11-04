@@ -1,5 +1,3 @@
-###DEC-081228-0-000-18-01-1978@@@
-
 Decreto nº 81.228, de 18 de janeiro de 1978.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona, situados nos Municípios de Matinhos, Estado do Paraná; Rio de Janeiro e Cabo Frio, Estado do Rio de janeiro.

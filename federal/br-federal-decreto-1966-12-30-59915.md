@@ -1,5 +1,3 @@
-###DEC-059915-0-000-30-12-1966@@@
-
 DECRETO Nº 59.915, DE 30 DE dezeMBRO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento dos Correios e Telegráfos o imóvel situado na Quadra 13, Setor Comercial Sul ,em Brasília, D.F.

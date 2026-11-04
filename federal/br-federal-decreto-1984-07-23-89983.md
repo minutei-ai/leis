@@ -1,5 +1,3 @@
-###DEC-089983-0-000-23-07-1984@@@
-
 Decreto nº 89.983, de 23 de julho de 1984
 
 Altera o Decreto nº 88.207, de 30 de março de 1983, que define prioridades a serem observadas na execução da Política de Reflorestamento, pelo Instituto Brasileiro de Desenvolvimento Florestal - IBDF, com as alterações introduzidas pelo Decreto nº 88.329, de 25 de maio de 1983.

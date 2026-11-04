@@ -1,5 +1,3 @@
-###DEC-088373-0-000-07-06-1983@@@
-
 # Decreto nº 88.373, de 07 de junho de 1983
 
 Outorga concessão à AMPLA RADIO E COMUNICAÇÕES LTDA., para explorar serviço de radio difusão sonora em onda média de âmbito regional, na cidade de Pato Branco, Estado do Paraná.

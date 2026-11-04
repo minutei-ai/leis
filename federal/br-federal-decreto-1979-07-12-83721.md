@@ -1,5 +1,3 @@
-###DEC-083721-0-000-12-07-1979@@@
-
 Decreto nº 83.721, de 12 de julho de 1979.
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios de Rio de Janeiro, Niterói e Mangaratiba, Estado do Rio de Janeiro; Paulista e Recife, Estado de Pernambuco.

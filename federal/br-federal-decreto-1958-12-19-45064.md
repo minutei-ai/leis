@@ -1,5 +1,3 @@
-###DEC-045064-0-000-19-12-1958@@@
-
 DECRETO Nº 45.064, DE 19 DE DEZEMBRO DE 1958.
 
 Institui a “Campanha Nacional Educativa de Trânsito” e dá outras providências.

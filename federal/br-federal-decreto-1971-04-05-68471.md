@@ -1,5 +1,3 @@
-###DEC-068471-0-000-05-04-1971@@@
-
 DECRETO Nº 68.471, DE 5 DE ABRIL DE 1971.
 
 Confisca bens de Brasil-Reflorestamento e Celulose Ltda. -  CELUBRÁS - e dá outras providências.

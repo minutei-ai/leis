@@ -1,5 +1,3 @@
-###DEC-054582-0-000-26-10-1964@@@
-
 DECRETO Nº 54.582, DE 26 DE OUTUBRO DE 1964.
 
 Transfere do Município de Lambari para a Companhia Sul Mineira de Eletricidade a concessão para distribuir energia elétrica.

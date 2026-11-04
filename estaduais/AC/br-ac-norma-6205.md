@@ -1,6 +1,10 @@
 > **LEI Nº 4.426, DE 29 DE OUTUBRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei Complementar nº 419, de 15 de dezembro de 2022, que estabelece a estrutura básica da administração do Poder Executivo; para dispor sobre as áreas de competência da Secretaria de Estado de Administração e promover adequação de nomenclatura da Secretaria de Estado de Educação e Cultura.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei Complementar nº 419, de 15 de dezembro de 2022, que estabelece a estrutura básica da administração do Poder Executivo; para dispor sobre as áreas de competência da Secretaria de Estado de Administração e promover adequação de nomenclatura da Secretaria de Estado de Educação e Cultura.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

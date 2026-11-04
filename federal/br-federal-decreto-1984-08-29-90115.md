@@ -1,5 +1,3 @@
-###DEC-090115-0-000-29-08-1984@@@
-
 DECRETO Nº 90.115, de 29 de agosto de 1984.
 
 Dá nova redação aos artigos 3º, 5º e 10, do Decreto nº 84.333, de 20 de dezembro de 1979, que cria o Quadro Auxiliar de Oficiais (QAO), extingue os Quadros de Oficiais de Administração (QOA) e de Oficiais Especialistas (QOE), e dá outras providências

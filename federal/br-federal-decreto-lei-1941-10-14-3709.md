@@ -1,5 +1,3 @@
-###DEL-003709-0-000-14-10-1941@@@
-
 DECRETO-LEI N. 3.709 – DE 14 DE OUTUBRO DE 1941
 
 Reorganiza o Serviço de Alimentação da Previdência Social e dá outras providências

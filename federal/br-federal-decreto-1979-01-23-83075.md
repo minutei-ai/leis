@@ -1,5 +1,3 @@
-###DEC-083075-0-000-23-01-1979@@@
-
 DECRETO Nº 83.075, DE 23 DE JANEIRO DE 1979
 
 Concede reconhecimento ao curso de Turismo, da Faculdade de Turismo de Belo Horizonte, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

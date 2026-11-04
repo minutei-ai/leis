@@ -1,5 +1,3 @@
-###DEC-005045-0-000-08-04-2004@@@
-
 DECRETO Nº 5.045,  DE 8 DE ABRIL DE 2004
 
 Dá nova redação aos arts. 3º, 4º, 9º, 12 e 13 do Decreto nº 3.990, de 30 de outubro de 2001, que regulamenta os dispositivos da Lei nº 10.205, de 21 de março de 2001.

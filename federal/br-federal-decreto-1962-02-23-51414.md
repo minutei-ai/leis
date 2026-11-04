@@ -1,5 +1,3 @@
-###DEC-051414-0-000-23-02-1962@@@
-
 DECRETO Nº 51.414, DE 23 DE FEVEREIRO DE 1962.
 
 Autoriza a subscrição pública de ações para constituição do capital do Banco da Produção do Estado de Alagoas S.A.

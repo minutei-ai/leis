@@ -1,5 +1,3 @@
-###DEC-060047-0-000-11-01-1967@@@
-
 Decreto nº 60.047, de 11 de janeiro de 1967.
 
 Concede à Italsul Mineração Ltda., Autorização para funcionar, como emprêsa de mineração.

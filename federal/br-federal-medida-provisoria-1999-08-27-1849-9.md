@@ -1,5 +1,3 @@
-###MPV-001849-0-009-27-08-1999@@@
-
 MEDIDA PROVISORIA N° 1.849-9, DE 27 DE AGOSTO DE 1999.
 
 Dispõe sobre a aquisição de produtos para a implementação de ações de saúde no âmbito do Ministério da Saúde.

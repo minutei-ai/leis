@@ -1,5 +1,3 @@
-###DEL-000003-0-000-27-01-1966@@@
-
 DECRETO-LEI Nº 3, DE 27 dE JANeiro DE 1966
 
 Disciplina as relações jurídicas do pessoal que integra o sistema de atividades portuárias; altera disposições da Consolidação das Leis do Trabalho e dá outras providências.

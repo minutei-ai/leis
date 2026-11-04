@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210424)<br>
-
 # LEI N° 18.073, DE 27 DE DEZEMBRO DE 2024
 
 ## (Projeto de lei n° 470/2021, do Deputado Barros Munhoz – PSB)

@@ -1,5 +1,3 @@
-###DEC-045268-0-000-20-01-1959@@@
-
 Decreto nº 45.268, de 20 de janeiro de 1959.
 
 Concede autorização para o funcionamento do curso de bacharelado da Faculdade de Direito e Taubaté.

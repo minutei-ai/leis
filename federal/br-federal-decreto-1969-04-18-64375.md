@@ -1,5 +1,3 @@
-###DEC-064375-0-000-18-04-1969@@@
-
 DECRETO Nº 64.375, DE 18 DE ABRIL DE 1969.
 
 Altera dispositivos do regulamento do Alto Comando da Aeronáutica.

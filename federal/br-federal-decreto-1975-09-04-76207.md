@@ -1,5 +1,3 @@
-###DEC-076207-0-000-04-09-1975@@@
-
 DECRETO Nº 76.207 - DE 4 DE SETEMBRO DE 1975
 
 Autoriza o funcionamento do curso de Letras do Instituto de Ensino Superior do Alto Uruguai - IESAU, com sede na cidade de Frederico, Westphalen, Estado do Rio grande do Sul

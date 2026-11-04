@@ -4,7 +4,8 @@ Dispõe sobre o Programa Estadual de Organizações Sociais, na forma que indica
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO PROGRAMA ESTADUAL DE ORGANIZAÇÕES SOCIAIS
 
 **Art. 1º** - O Programa Estadual de Organizações Sociais tem por objetivo fomentar parcerias do Estado com entidades privadas sem fins lucrativos, qualificadas como Organizações Sociais, na forma desta Lei, para a gestão e a execução de serviços não exclusivos do Estado, no âmbito da educação, saúde, cultura, direitos da cidadania, trabalho, ação social, habitação, meio ambiente, desenvolvimento institucional, ciência e tecnologia, agricultura, turismo, desporto e lazer.
@@ -67,7 +68,8 @@ DO PROGRAMA ESTADUAL DE ORGANIZAÇÕES SOCIAIS
 
 **Parágrafo único -** O CONGEOS poderá estabelecer hipóteses de dispensa de manifestação em matérias de sua competência.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA PUBLICIZAÇÃO
 
 **Art. 5º** - O Poder Executivo Estadual poderá autorizar a transferência para as Organizações Sociais dos serviços indicados no art. 1º desta Lei, mediante Contrato de Gestão, observado o disposto nesta norma.
@@ -84,10 +86,12 @@ DA PUBLICIZAÇÃO
 
 **Art. 6º** - Cessadas a conveniência e a oportunidade em manter o serviço publicizado, o respectivo órgão deverá adotar as providências necessárias à despublicização do serviço.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA SELEÇÃO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Normas Gerais
 
 **Art. 7º** - A seleção de entidades, para fins da transferência de que trata esta Lei, se fará com a observância das seguintes etapas:
@@ -108,7 +112,8 @@ Normas Gerais
 
 **§ 4**º - Configurado o impedimento previsto no § 3º deste artigo, deverá ser designado membro substituto.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Do Edital de Seleção e da Proposta da Entidade
 
 **Art. 8º** - O processo de Seleção Pública se inicia com a divulgação em 01 (uma) vez no D.O.E., em jornal diário de grande circulação e no sítio oficial da Administração Pública na _internet_, de extrato de convocação para apresentação e abertura, em única sessão pública, das propostas de trabalho e dos documentos de habilitação.
@@ -207,7 +212,8 @@ Do Edital de Seleção e da Proposta da Entidade
 
 **Art. 15** - A comprovação da habilitação econômico-financeira da entidade se fará através da apresentação do balanço patrimonial e demonstrações contábeis do último exercício, já exigíveis e apresentados na forma da lei, que comprovem a boa situação financeira da entidade através de índices contábeis com base na Norma Brasileira de Contabilidade e previstos no edital.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Julgamento das Propostas
 
 **Art. 16** - O julgamento das propostas será realizado de acordo com os seguintes critérios:
@@ -250,14 +256,16 @@ Julgamento das Propostas
 
 **Art. 20** - Não constitui condição indispensável para a participação no procedimento de seleção, a prévia qualificação como Organização Social da entidade interessada.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 Da dispensa e da inexigibilidade de seleção
 
 **Art. 21** - É dispensável a seleção, no que couber, nas hipóteses previstas de dispensa de licitação estabelecidas na legislação federal de licitações e contratos.
 
 **Art. 22** - Será considerada inexigível a seleção na hipótese de inviabilidade de competição, especialmente em razão da natureza singular do objeto da contratação.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 Das vedações
 
 **Art. 23** - Ficará impedida de celebrar Contrato de Gestão a Organização Social que:
@@ -290,10 +298,12 @@ Das vedações
 
 **§ 3**º - Em qualquer hipótese prevista no _caput_ deste artigo, persiste o impedimento para celebrar Contrato de Gestão enquanto não houver o ressarcimento do dano ao erário, pelo qual seja responsável a Organização Social ou seu dirigente.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DA QUALIFICAÇÃO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Normas Gerais
 
 **Art. 24** - O Poder Executivo poderá qualificar como Organização Social pessoa jurídica de direito privado, sem fins lucrativos, vencedora do processo de seleção, atendidos aos requisitos previstos nesta Lei.
@@ -376,7 +386,8 @@ Normas Gerais
 
 **VI -** relatórios de prestação de contas do Contrato de Gestão.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Das competências dos órgãos colegiados da entidade quanto à execução do Contrato de Gestão
 
 **Art. 31** - O órgão deliberativo da entidade, quanto à execução do Contrato de Gestão, terá por competência:
@@ -409,7 +420,8 @@ Das competências dos órgãos colegiados da entidade quanto à execução do Co
 
 **Art. 34** - A participação nos órgãos deliberativo e de fiscalização não será remunerada à conta do Contrato de Gestão.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DO CONTRATO DE GESTÃO
 
 **Art. 35** - Para os efeitos desta Lei, entende-se por Contrato de Gestão o acordo firmado entre o Poder Público e a entidade qualificada como Organização Social, para gestão e execução dos serviços publicizados.
@@ -534,7 +546,8 @@ DO CONTRATO DE GESTÃO
 
 **Parágrafo único -** A aplicação da medida prevista no inciso I do _caput_ deste artigo ficará a critério da Administração Pública, que poderá dar continuidade ao serviço por execução direta ou indireta.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DO MONITORAMENTO E AVALIAÇÃO
 
 **Art. 48** - Os Contratos de Gestão serão monitorados e avaliados com base nas diretrizes previstas nesta Lei, bem como de acordo com normas suplementares aprovadas pelo CONGEOS.
@@ -591,7 +604,8 @@ DO MONITORAMENTO E AVALIAÇÃO
 
 **Art. 61** - Sem prejuízo dos mecanismos de monitoramento e avaliação previstos nesta Lei e da atuação dos órgãos de controle, os Contratos de Gestão poderão ser acompanhados pelos competentes conselhos de políticas públicas.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DA INTERVENÇÃO DO ESTADO NO SERVIÇO TRANSFERIDO
 
 **Art. 62** - Na hipótese de risco quanto ao regular cumprimento das obrigações assumidas no Contrato de Gestão, poderá o Estado assumir a execução dos serviços que foram publicizados a fim de manter a sua continuidade.
@@ -608,7 +622,8 @@ DA INTERVENÇÃO DO ESTADO NO SERVIÇO TRANSFERIDO
 
 **§ 6**º - Enquanto durar a intervenção, os atos praticados pelo interventor deverão seguir todos os procedimentos legais que regem a Administração Pública Estadual.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DO SERVIDOR PÚBLICO NA ORGANIZAÇÃO SOCIAL
 
 **Art. 63** - Poderão ser colocados à disposição de Organização Social servidores do Estado que estiverem vinculados ao serviço transferido.
@@ -631,7 +646,8 @@ DO SERVIDOR PÚBLICO NA ORGANIZAÇÃO SOCIAL
 
 **Art. 68** - O valor pago pelo Estado, a título de remuneração e de contribuição previdenciária do servidor colocado à disposição da Organização Social, será abatido do valor de cada repasse financeiro, quando o montante relativo àquelas rubricas estiver previsto no orçamento do Contrato de Gestão.
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 **Art. 69** - O Estado poderá conceder às Organizações Sociais o uso de bens públicos necessários ao cumprimento dos objetivos pactuados no Contrato de Gestão, através de contrato de concessão de uso de bens móveis e imóveis.

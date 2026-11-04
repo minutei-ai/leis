@@ -1,5 +1,3 @@
-###DEC-084700-0-000-13-05-1980@@@
-
 decreto nº 84.700, de 13 de maio de 1980.
 
 Altera disposições do Decreto nº 84.052, de 03 de outubro de 1979, que regulamenta a concessão da Gratificação de Produtividade aos funcionários incluídos na Categoria Funcional de Fiscal de Tributos Federais do Grupo Tributação, Arrecadação e Fiscalização, código: TAF-600.

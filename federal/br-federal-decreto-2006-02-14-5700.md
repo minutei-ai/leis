@@ -1,5 +1,3 @@
-###DEC-005700-0-000-14-02-2006@@@
-
 DECRETO Nº 5.700, DE 14 DE FEVEREIRO DE 2006.
 
 Regulamenta a Gratificação de Desempenho de Atividade Médico-Pericial - GDAMP de que trata a Lei no 10.876, de 2 de junho de 2004, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-092910-0-000-09-07-1986@@@
-
 DECRETO Nº 92.910, DE 9 DE JULHO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da nova estação transformadora de distribuição Penha, da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

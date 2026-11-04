@@ -1,30 +1,28 @@
-###DEC-033195-0-000-29-06-1953@@@
+**DECRETO Nº 33.195, DE 29 DE JUNHO DE 1953.**
 
-<strong>DECRETO Nº 33.195, DE 29 DE JUNHO DE 1953.</strong>
+***Aprova o Regulamento para a Diretoria de Portos e Costas da Marinha.***
 
-<em><strong>Aprova o Regulamento para a Diretoria de Portos e Costas da Marinha.</strong></em>
+**O PRESIDENTE DA REPUBLICA**, usando da atribuição que lhe confere o artigo 87,inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPUBLICA</strong>, usando da atribuição que lhe confere o artigo 87,inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º - Fica aprovado o Regulamento para a Diretoria de Portos e Costas da Marinha, que com êste baixa, assinado pelo Ministro de Estado da Marinha.
 
-<strong>Art</strong>. 1º - Fica aprovado o Regulamento para a Diretoria de Portos e Costas da Marinha, que com êste baixa, assinado pelo Ministro de Estado da Marinha.
-
-<strong>Art</strong>. 2º - Êste decreto entrara em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º - Êste decreto entrara em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 29 de junho de 1953; 132º da Independência e 65º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Renato de Almeida Guillobel
 
-<strong>REGULAMENTO PARA A DIRETORIA DE PORTOS E COSTAS DA MARINHA</strong>
+**REGULAMENTO PARA A DIRETORIA DE PORTOS E COSTAS DA MARINHA**
 
-<strong>CAPITULO - I</strong>
+**CAPITULO - I**
 
-<em>DOS FINS</em>
+*DOS FINS*
 
-<strong>Art</strong>. 1º A Diretoria de Portos e Costas da Marinha (DPC) é o órgão do Ministério da Marinha que tem por finalidade dirigir, coordenar e controlar tôdas as atividades técnicas e administrativas relacionadas com as embarcações não pertencentes à MB, com o pessoal que as guarnece e atende aos serviços correlatos, com os socorros marítimos no interior dos portos, com a policia naval e com a praticagem em todo o território nacional, orientando e preparando tais atividades para que satisfaçam aos interesses normais do Pais e aos de sua defesa.
+**Art**. 1º A Diretoria de Portos e Costas da Marinha (DPC) é o órgão do Ministério da Marinha que tem por finalidade dirigir, coordenar e controlar tôdas as atividades técnicas e administrativas relacionadas com as embarcações não pertencentes à MB, com o pessoal que as guarnece e atende aos serviços correlatos, com os socorros marítimos no interior dos portos, com a policia naval e com a praticagem em todo o território nacional, orientando e preparando tais atividades para que satisfaçam aos interesses normais do Pais e aos de sua defesa.
 
 Parágrafo único - A DPC é subordinada:
 
@@ -34,7 +32,7 @@ b) ao Estado-Maior da Armada, quanto ao comando e a logística de consumo;
 
 c) à Secretaria Geral da Marinha, quanto à logística de produção e à administração dos negócios da MB.
 
-<strong>Art</strong>. 2º À DPC competira especificamente:
+**Art**. 2º À DPC competira especificamente:
 
 a) planejar suas atividades;
 
@@ -72,13 +70,13 @@ r) cooperar e exercer ação coordenada com os órgãos da MB, com os Ministéri
 
 s) propor ao Ministro da Marinha a ampliação, redução ou extinção dos órgãos e atividades sob sua jurisdição.
 
-<strong>CAPITULO - II</strong>
+**CAPITULO - II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<em>Estrutura Orgânica</em>
+*Estrutura Orgânica*
 
-<strong>Art</strong>. 3º Além do Diretor-Geral de Portos e Costas da Marinha e seu Gabinete, a DPC disporá de uma Vice-Diretoria, de um grupo de Inspeção e dos seguintes Departamentos:
+**Art**. 3º Além do Diretor-Geral de Portos e Costas da Marinha e seu Gabinete, a DPC disporá de uma Vice-Diretoria, de um grupo de Inspeção e dos seguintes Departamentos:
 
 Depart. do Pessoal...(DPC - 10),
 
@@ -92,21 +90,21 @@ Parágrafo único - A Vice-Diretoria será constituida pelo Vice-Diretor de Port
 
 Atribuiçao dos Diversos Órgãos
 
-<strong>Art</strong>. 4º O Diretor Geral de Portos e Costas da Marinha (DGPC), Assessor Técnico do Ministro da Marinha quanto a todos os assuntos relacionados com a marinha mercante e com os portos e costas, será o responsável pelo fornecimento do apoio logístico às Fôrças, Estabelecimentos Navais e Serviços da MB em tudo o que depender da DPC.
+**Art**. 4º O Diretor Geral de Portos e Costas da Marinha (DGPC), Assessor Técnico do Ministro da Marinha quanto a todos os assuntos relacionados com a marinha mercante e com os portos e costas, será o responsável pelo fornecimento do apoio logístico às Fôrças, Estabelecimentos Navais e Serviços da MB em tudo o que depender da DPC.
 
-<strong>Art</strong>. 5º O DGPC será o responsável pela elaboração, direção e controle dos programas referentes às atividades da DPC e dos órgãos que lhe forem subordinados.
+**Art**. 5º O DGPC será o responsável pela elaboração, direção e controle dos programas referentes às atividades da DPC e dos órgãos que lhe forem subordinados.
 
-<strong>Art</strong>. 6º O DGPC será o Presidente do Conselho da Marinha Mercante e das Comissões que vierem a ser constituídas e tenham relação com êste assunto.
+**Art**. 6º O DGPC será o Presidente do Conselho da Marinha Mercante e das Comissões que vierem a ser constituídas e tenham relação com êste assunto.
 
-<strong>Art</strong>. 7º O DGPC manterá estreita colaboração com o Inspetor Geral da Marinha, visando aperfeiçoar os serviços e corrigir falhas ou erros que forem verificados.
+**Art**. 7º O DGPC manterá estreita colaboração com o Inspetor Geral da Marinha, visando aperfeiçoar os serviços e corrigir falhas ou erros que forem verificados.
 
-<strong>Art</strong>. 8º No desempenho de suas atribuições, o DGPC terá como auxiliares imediatos o Vice-Diretor e seu Gabinete.
+**Art**. 8º No desempenho de suas atribuições, o DGPC terá como auxiliares imediatos o Vice-Diretor e seu Gabinete.
 
 Vice-Diretoria
 
 (DGP-05)
 
-<strong>Art</strong>. 9º À Vice-Diretoria (DPC-05) competirá:
+**Art**. 9º À Vice-Diretoria (DPC-05) competirá:
 
 a) providenciar a execução das diretivas e ordens do DGPC;
 
@@ -130,7 +128,7 @@ Grupo de Inspeção
 
 (DPC - 06)
 
-<strong>Art</strong>. 10 Ao Grupo de Inspeção (DPC - 06), constituído por um Chefe assessorado por oficiais da própria DPC, competirá:
+**Art**. 10 Ao Grupo de Inspeção (DPC - 06), constituído por um Chefe assessorado por oficiais da própria DPC, competirá:
 
 a) inspecionar períódicamente todos os órgãos sob o contrôle técnico ou administrativo da DPC, de acôrdo com as ordens do DGPC e atendendo às instruções ou recomendações da Inspetoria Geral da Marinha e procurando especialmente constatar:
 
@@ -146,9 +144,9 @@ c) apresentar ao DGPC relatório das inspeções a que proceder, sugerindo-lhe p
 
 Departamentos
 
-<strong>Art</strong>. 11. Os Departamentos serão dirigidos por Chefes com ampla iniciativa, dentro de suas respectivas esferas de ação, e responsáveis pela perfeita execução do que lhes compete, conforme abaixo se especifica.
+**Art**. 11. Os Departamentos serão dirigidos por Chefes com ampla iniciativa, dentro de suas respectivas esferas de ação, e responsáveis pela perfeita execução do que lhes compete, conforme abaixo se especifica.
 
-<strong>Art</strong>. 12. Ao Departamento do Pessoal (DPC - 10) competirá;
+**Art**. 12. Ao Departamento do Pessoal (DPC - 10) competirá;
 
 a) prover e orientar o ensino profissional do pessoal marítimo e de pesca, inclusive organizando os currículos dos cursos e o regimen de matrículas neles, de seu funcionamento e das provas de habilitação;
 
@@ -162,7 +160,7 @@ e) cuidar das tripulações das embarcações a cargo da DPC e do pessoal de ser
 
 f) executar a estatística das atividades do Departamento
 
-<strong>Art</strong>. 13. Ao Departamento do material (DPC-20)competirá:
+**Art**. 13. Ao Departamento do material (DPC-20)competirá:
 
 a) orientar os requisitos técnicos a que devem atender às embarcações a cargo da DPC, bem como as instalações e equipamentos que se relacionam com suas atividades;
 
@@ -178,7 +176,7 @@ f) estabelecer as condições a que deverão satisfazer a instalação e o funci
 
 g) executar a estatística atividades do Departamento.
 
-<strong>Art</strong>. 14 Ao Departamento de Organização (DPC – 30) competirá:
+**Art**. 14 Ao Departamento de Organização (DPC – 30) competirá:
 
 a) orientar e fiscalizar os serviços de praticagem nas costas, nos portos e nas vias navegáveis, fluviais e lacustres;
 
@@ -198,7 +196,7 @@ h) elaborar os pareceres técnicos do DPC;
 
 i) executar a estatística das atividades do Departamento.
 
-<strong>Art</strong>. 15 Ao Departamento de Intendência (DPC – 40) competirá:
+**Art**. 15 Ao Departamento de Intendência (DPC – 40) competirá:
 
 a) lavrar contratos;
 
@@ -216,7 +214,7 @@ Gabinete
 
 (DPC – 02)
 
-<strong>Art</strong>. 17 Ao Gabinete do DGPC (DPC – 02) competirá:
+**Art**. 17 Ao Gabinete do DGPC (DPC – 02) competirá:
 
 a) o desempenho de funções de representação;
 
@@ -224,11 +222,11 @@ b) a correspondência de caráter pessoal do DGPC;
 
 c) a execução de estudos e trabalhos determinados pelo DGPC.
 
-<strong>CAPÍTULO - III</strong>
+**CAPÍTULO - III**
 
-<em>DO PESSOAL</em>
+*DO PESSOAL*
 
-<strong>Art</strong>. 18 A DPC disporá do seguinte pessoal:
+**Art**. 18 A DPC disporá do seguinte pessoal:
 
 a) um Diretor-Geral de Portos e Costas, oficial general, da ativa, do Corpo de Armada;
 
@@ -254,39 +252,39 @@ l) tantos oficiais, da ativa ou da reserva, dos diversos Corpos e Quadros da MB,
 
 m) tantos suboficiais, sargentos, marinheiros, fuzileiros, taifeiros e servidores civis quantos forem necessários, de acôrdo com os efetivos que forem fixados no Regimento Interno.
 
-Parágrafo único - Enquanto perdurar a falta de oficiais do CETN, mediante entendimento da DPC com outra Diretoria, as funções de que trata a alínea <em>g</em> poderão ser exercidas cumulativamente por um oficial da Diretoria de Engenharia da Marinha ou do Arsenal de Marinha do Rio de Janeiro.
+Parágrafo único - Enquanto perdurar a falta de oficiais do CETN, mediante entendimento da DPC com outra Diretoria, as funções de que trata a alínea *g* poderão ser exercidas cumulativamente por um oficial da Diretoria de Engenharia da Marinha ou do Arsenal de Marinha do Rio de Janeiro.
 
-<strong>Art</strong>. 19. As atribuições do pessoal serão discriminadas no Regimento Interno da DPC.
+**Art**. 19. As atribuições do pessoal serão discriminadas no Regimento Interno da DPC.
 
-<strong>Art</strong>. 20. O pessoal da DPC será nomeado, designado ou admitido de acôrdo com a legislação em vigor.
+**Art**. 20. O pessoal da DPC será nomeado, designado ou admitido de acôrdo com a legislação em vigor.
 
-<strong>CAPÍTULO - IV</strong>
+**CAPÍTULO - IV**
 
-<em>DAS DISPOSIÇÕES GERAIS</em>
+*DAS DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 21 Ficarão subordinados à DPC todos os órgãos dos seguintes tipos: Capitanias de Portos, suas Agências e Capatazias; Escolas de Marinha Mercante; Cursos e Escola para instrução de pessoal marítimo e de pesca; Corporações de Práticos.
+**Art**. 21 Ficarão subordinados à DPC todos os órgãos dos seguintes tipos: Capitanias de Portos, suas Agências e Capatazias; Escolas de Marinha Mercante; Cursos e Escola para instrução de pessoal marítimo e de pesca; Corporações de Práticos.
 
 Parágrafo único os regulamentos ou regimento internos dos diversos órgãos especificarão, quando necessário, a natureza da subordinação.
 
-<strong>Art</strong>. 22 os representantes da MB nas Delegacias do Trabalho Marítimo receberão da DPC a orientação que fôr necessária ao desempenho de suas funções.
+**Art**. 22 os representantes da MB nas Delegacias do Trabalho Marítimo receberão da DPC a orientação que fôr necessária ao desempenho de suas funções.
 
-<strong>Art</strong>. 23 O serviço interno da DPC obedecerá a um Regimento Interno que será expedido dentro de 180 dias a contar da data de aprovação deste Regulamento.
+**Art**. 23 O serviço interno da DPC obedecerá a um Regimento Interno que será expedido dentro de 180 dias a contar da data de aprovação deste Regulamento.
 
-<strong>CAPÍTULO - V</strong>
+**CAPÍTULO - V**
 
-<em>DAS DISPOSIÇÕES TRANSITÓRIAS</em>
+*DAS DISPOSIÇÕES TRANSITÓRIAS*
 
-<strong>Art</strong>. 24 Durante o prazo fixado no artigo 23 o DGPC expedirá as instruções necessárias à regularização das atividades da DPC.
+**Art**. 24 Durante o prazo fixado no artigo 23 o DGPC expedirá as instruções necessárias à regularização das atividades da DPC.
 
-<strong>Art</strong>. 25 Antes da criação de qualquer novo Estabelecimento ou Serviço, deverá ser elaborado e aprovado o regulamento ou regimento interno, conforme o caso, pelo qual se deverá reger.
+**Art**. 25 Antes da criação de qualquer novo Estabelecimento ou Serviço, deverá ser elaborado e aprovado o regulamento ou regimento interno, conforme o caso, pelo qual se deverá reger.
 
-<strong>Art</strong>. 26 Imediatamente após a entrada em vigor dêste Regulamento, deverão ser revistos os regulamentos ou regimentos internos que regem os Estabelecimentos e Serviços existentes, de modo a enquadrá-los no que vem de ser estabelecido, devendo seu acêrto ser proposto dentro de 120 dias.
+**Art**. 26 Imediatamente após a entrada em vigor dêste Regulamento, deverão ser revistos os regulamentos ou regimentos internos que regem os Estabelecimentos e Serviços existentes, de modo a enquadrá-los no que vem de ser estabelecido, devendo seu acêrto ser proposto dentro de 120 dias.
 
-<strong>Art</strong>. 27 Êste Regulamento deverá ser revisto dentro do prazo de doze meses, contados a partir de sua aprovação.
+**Art**. 27 Êste Regulamento deverá ser revisto dentro do prazo de doze meses, contados a partir de sua aprovação.
 
 Rio de Janeiro, D. F. em 10 de junho de 1953.
 
-<strong>RENATO DE ALMEIDA GUILLOBEL</strong>
+**RENATO DE ALMEIDA GUILLOBEL**
 
 Vice-Almirante
 

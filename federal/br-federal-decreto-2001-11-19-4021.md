@@ -1,5 +1,3 @@
-###DEC-004021-0-000-19-11-2001@@@
-
 DECRETO Nº 4.021, DE 19 DE NOVEMBRO DE 2001
 
 Promulga a Convenção sobre a Marcação de Explosivos Plásticos para Fins de Detecção.
@@ -224,6 +222,48 @@ Entende-se por agente de detecção qualquer uma das substâncias presentes na t
 
 Tabela
 
-<table cellspacing="0" cellpadding="0" style="margin-left:78.8pt; margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr style="height:35.25pt"><td style="width:113.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Nome do agente de detecção</span></p></td><td style="width:95pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; font-size:10pt"><span>Fórmula Molecular</span></p><p style="text-indent:0pt; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:53pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; font-size:10pt"><span>Peso Molecular</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:58.25pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; font-size:10pt"><span>Concentração</span></p><p style="text-indent:0pt; font-size:10pt"><span>Mínima</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr style="height:41.25pt"><td style="width:113.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Dinitrato de etilênio glicosado (EGDN)</span></p></td><td style="width:95pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; font-size:10pt"><span>C</span><span style="font-family:'Palatino Linotype'">₂</span><span>H</span><span style="font-family:'Palatino Linotype'">₄(NO₃)₂</span><span></span></p><p style="margin-bottom:0pt; text-indent:0pt; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p style="text-indent:0pt; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:53pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p style="margin-bottom:0pt; text-indent:0pt; font-size:10pt"><span>152</span></p><p style="text-indent:0pt; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:58.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p style="margin-bottom:0pt; text-indent:0pt; font-size:10pt"><span>0,2</span><span style="font-family:'Palatino Linotype'">% por massa</span></p><p style="text-indent:0pt; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr style="height:52.5pt"><td style="width:113.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span>2,3 Dimetil – 2,3 Dinitrobutanio (DMNB)</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:95pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; font-size:10pt"><span>C</span><span style="font-family:'Palatino Linotype'">₆</span><span>H12(NO</span><span style="font-family:'Palatino Linotype'">₂</span><span>)</span><span style="font-family:'Palatino Linotype'">₂</span></p><p style="text-indent:0pt; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:53pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p style="margin-bottom:0pt; text-indent:0pt; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p style="text-indent:0pt; font-size:10pt"><span>176</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:58.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:0pt; text-indent:0pt; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p style="margin-bottom:0pt; text-indent:0pt; font-size:10pt"><span>0,1</span><span style="font-family:'Palatino Linotype'">%</span><span> por massa</span></p><p style="text-indent:0pt; font-size:10pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr style="height:48.75pt"><td style="width:113.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span>Para-Mononitrotoluenio</span></p><p class="Anexo" style="text-indent:0pt"><span>(pMNT)</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:95pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>C</span><span style="font-family:'Palatino Linotype'">₇</span><span>H</span><span style="font-family:'Palatino Linotype'">₇</span><span>NO</span><span style="font-family:'Palatino Linotype'">₂</span></p></td><td style="width:53pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>137</span></p></td><td style="width:58.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0,5% por massa</span></p></td></tr><tr style="height:40.5pt"><td style="width:113.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="text-indent:0pt"><span>Orto-Mononitrolueno (o MNT)</span></p><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>C</span><span style="font-family:'Palatino Linotype'">₇</span><span>H</span><span style="font-family:'Palatino Linotype'">₇</span><span>NO</span><span style="font-family:'Palatino Linotype'">₂</span></p></td><td style="width:53pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>137</span></p></td><td style="width:58.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0,5% por massa</span></p></td></tr></tbody></table>
+Nome do agente de detecção
+
+Fórmula Molecular
+
+Peso Molecular
+
+Concentração
+
+Mínima
+
+Dinitrato de etilênio glicosado (EGDN)
+
+C₂H₄(NO₃)₂
+
+152
+
+0,2% por massa
+
+2,3 Dimetil – 2,3 Dinitrobutanio (DMNB)
+
+C₆H12(NO₂)₂
+
+176
+
+0,1% por massa
+
+Para-Mononitrotoluenio
+
+(pMNT)
+
+C₇H₇NO₂
+
+137
+
+0,5% por massa
+
+Orto-Mononitrolueno (o MNT)
+
+C₇H₇NO₂
+
+137
+
+0,5% por massa
 
 Qualquer explosivo que, como resultado de sua fórmula normal, incluir quaisquer agentes de detecção no nível mínimo de concentração requisitado ou acima deste estará apto à marcação.

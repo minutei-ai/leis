@@ -1,5 +1,3 @@
-###DEC-070075-0-000-28-01-1972@@@
-
 DECRETO Nº 70.075, DE 28 DE JANEIRO DE 1972.
 
 Institui Grupo de Trabalho para examinar e propor a uniformização do regime de remuneração do pessoal civil e militar que serve no exterior e dá outras providências.

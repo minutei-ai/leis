@@ -1,6 +1,10 @@
 > **LEI Nº 4.606, DE 15 DE JULHO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Denomina o sistema de Digitalização da Vigilância Sanitária do Estado Meu Amer.Lan.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Denomina o sistema de Digitalização da Vigilância Sanitária do Estado Meu Amer.Lan.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

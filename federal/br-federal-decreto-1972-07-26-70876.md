@@ -1,5 +1,3 @@
-###DEC-070876-0-000-26-07-1972@@@
-
 DECRETO Nº 70.876, DE 26 DE JULHO DE 1972.
 
 Declara extintas as concessões outorgadas à Telefônica de Inhumas S. A. e à Companhia Telefônica de Piracanjuba S. A. e outorga concessão à Companhia de Telecomunicações de Goiás para execução dos serviços de telefonia nos Municípios de Inhumas e Piracanjuba, Estado de Goiás.

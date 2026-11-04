@@ -1,5 +1,3 @@
-###DEC-076224-0-000-09-09-1975@@@
-
 DECRETO Nº 76.224 - DE 9 DE SETEMBRO DE 1975
 
 Autoriza o funcionamento da habilitação em Comércio Exterior no curso de Administração do Instituto Municipal de Ensino Superior de São Caetano do Sul, com sede na cidade de São Caetano do Sul, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-001417-0-000-02-09-1975@@@
-
 # DECRETO-LEI Nº 1.417, DE 2 DE SETEMBRO DE 1975
 
 Da nova redação a dispositivo do Decreto-lei nº 343, de 28 de dezembro de 1967, alterado pelo Decreto-lei nº 1.091, de 12 de março de 1970, relativo à percentagem da arrecadação do Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos, a ser creditada à NUCLEBRÁS.

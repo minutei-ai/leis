@@ -1,5 +1,3 @@
-###DEC-070818-0-000-11-07-1972@@@
-
 decreto nº 70.818, de 11 de julho de 1972.
 
 Autoriza o funcionamento da Faculdade de Ciências Econômicas, Administrativas e Contábeis de Aracaju-Sergipe

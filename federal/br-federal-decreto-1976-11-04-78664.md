@@ -1,5 +1,3 @@
-###DEC-078664-0-000-04-11-1976@@@
-
 DECRETO Nº 78.664, DE 4 DE NOVEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Odontologia, da Faculdade de Odontologia de Campos, com sede na cidade de Campos, Estado do Rio de Janeiro.

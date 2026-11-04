@@ -12,5 +12,6 @@ Art. 2º Revogadas as disposições em contrário, esta Lei entrará em vigor na
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 12 de dezembro de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal

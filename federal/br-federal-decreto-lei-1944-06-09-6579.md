@@ -1,5 +1,3 @@
-###DEL-006579-0-000-09-06-1944@@@
-
 DECRETO-LEI N. 6.579 – DE 9 DE JUNHO DE 1944
 
 Altera a carreira de Oficial Administrativo do Quadro Permanente do Ministério da Guerra

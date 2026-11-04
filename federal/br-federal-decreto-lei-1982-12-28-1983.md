@@ -1,5 +1,3 @@
-###DEL-001983-0-000-28-12-1982@@@
-
 # DECRETO-LEI Nº 1.983, De 28 de dezembro de 1982.
 
 Reajusta o valor do soldo base de cálculo da remuneração dos militares.

@@ -1,5 +1,3 @@
-###DEL-005533-0-000-28-05-1943@@@
-
 DECRETO‑LEI N. 5.533 – DE 28 DE MAIO DE 1943
 
 Cria urna coletoria federal no Município de Itamonte no Estado de Minas Gerais, e dá outras providências

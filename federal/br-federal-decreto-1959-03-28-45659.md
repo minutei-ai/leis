@@ -1,5 +1,3 @@
-###DEC-045659-0-000-28-03-1959@@@
-
 DECRETO Nº 45.659, DE 28 DE MARÇO DE 1959.
 
 Concede o abono provisório aos servidores da Caixa Econômica Federal do Rio Grande do Norte.

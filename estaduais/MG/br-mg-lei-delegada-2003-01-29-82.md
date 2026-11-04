@@ -145,7 +145,3 @@ ANEXO XXXIX
 Instituto de Geociências Aplicadas – IGA
 
 UNIDADE ADMINISTRATIVA CLASSE DE CARGOS Nº DE CARGOS FATOR DE AJUSTAMENTO Diretoria Geral Diretor-Geral 01 1,85057 Diretoria de Planejamento, Gestão e Finanças Diretor 01 1,57298 Diretoria de Geociências Diretor 01 1,57298 Gabinete Chefe de Gabinete 01 1,23810 Assessoria Jurídica Assessor Jurídico 01 1,23810 Auditoria Seccional Auditor Seccional 01 0,90000
-
-\-------------------------------------
-
-Data da última atualização:25/1/2011.

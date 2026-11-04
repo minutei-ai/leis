@@ -1,5 +1,3 @@
-###DEC-046448-0-000-17-07-1959@@@
-
 DECRETO Nº 46.448, DE 17 DE JULHO DE 1959.
 
 Autoriza o cidadão brasileiro José Alves Teixeira a pesquisar quartzo, no município de Teófilo Otônio, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-074400-0-000-13-08-1974@@@
-
 DECRETO Nº 74.400 - DE 13 DE AGOSTO DE 1974.
 
 Concede à S.A. Industrias Votorantim o direito de lavrar calcário no Município de Capão Bonito, Estado de São Paulo.

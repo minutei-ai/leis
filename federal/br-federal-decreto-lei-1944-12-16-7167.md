@@ -1,5 +1,3 @@
-###DEL-007167-0-000-16-12-1944@@@
-
 DECRETO-LEI N. 7.167 – DE 16 DE DEZEMBRO DE 1944
 
 Dispõe sôbre o pessoal da Comissão, de Marinha Mercante

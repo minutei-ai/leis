@@ -1,5 +1,3 @@
-###DEC-004303-0-000-15-07-2002@@@
-
 DECRETO Nº 4.303, DE 15 DE JULHO DE 2002
 
 Dá nova redação ao art. 6º do Decreto nº 4.298, de 11 de julho de 2002, que dispõe sobre a atuação dos órgãos e entidades da Administração Pública Federal durante o processo de transição governamental.

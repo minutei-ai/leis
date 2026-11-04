@@ -1,5 +1,3 @@
-###DEC-001832-0-000-04-03-1996@@@
-
 DECRETO N° 1.832, DE 4 DE MARÇO DE 1996.
 
 Aprova o Regulamento dos Transportes Ferroviários.

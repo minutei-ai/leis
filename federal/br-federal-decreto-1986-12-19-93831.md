@@ -1,5 +1,3 @@
-###DEC-093831-0-000-19-12-1986@@@
-
 DECRETO Nº 93.831, DE 19 DE DEZEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "ACARI-UNIÃO", situado no Município de Alenquer, no Estado do Pará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.623, de 02 de maio de 1986, classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, e dá outras providências.

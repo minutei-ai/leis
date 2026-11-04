@@ -1,5 +1,3 @@
-###DEL-003895-0-000-05-12-1941@@@
-
 DECRETO-LEI N. 3.895 – DE 5 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 6.400:000$0, para despesas com a execução de obras rodoviárias

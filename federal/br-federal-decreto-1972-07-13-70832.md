@@ -1,5 +1,3 @@
-###DEC-070832-0-000-13-07-1972@@@
-
 DECRETO Nº 70.832, DE 13 DE JUlHO DE 1972.
 
 Retifica o Decreto nº 63.566, de 6 de novembro de 1968, que provou o enquadramento definitivo dos servidores do Ministério da Marinha, beneficiados pelo parágrafo único do artigo 23, da Lei nº 4.069, de 11 de junho de 1962, e dá outras providências.

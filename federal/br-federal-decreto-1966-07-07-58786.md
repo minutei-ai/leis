@@ -1,5 +1,3 @@
-###DEC-058786-0-000-07-07-1966@@@
-
 DECRETO Nº 58.786, DE 7 DE JULHO DE 1966.
 
 Aprova as alterações introduzidas nos Estatutos da Companhia Nacional de Seguros Ipiranga, inclusive aumento do capital social.

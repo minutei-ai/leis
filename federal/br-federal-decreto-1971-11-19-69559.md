@@ -1,5 +1,3 @@
-###DEC-069559-0-000-19-11-1971@@@
-
 DECRETO Nº 69.559 - 19 de novembro de 1971
 
 Redistribui cargo do Ministério da Aeronáutica para o Ministério da Fazenda, e dá outras providências.

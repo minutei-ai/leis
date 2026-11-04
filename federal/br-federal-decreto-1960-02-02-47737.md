@@ -1,5 +1,3 @@
-###DEC-047737-0-000-02-02-1960@@@
-
 DECRETO Nº 47.737, de 2 de fevereiro de 1960.
 
 Concede autorização para o funcionamento de cursos.

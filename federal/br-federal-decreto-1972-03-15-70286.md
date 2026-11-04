@@ -1,5 +1,3 @@
-###DEC-070286-0-000-15-03-1972@@@
-
 DECRETO Nº 70.286, DE 15 DE MARÇO DE 1972.
 
 Retifica o Decreto nº 68.829, de 30 de junho de 1971, que redistribuiu cargo, com a respectiva ocupante, para a Universidade Federal de Pernambuco.

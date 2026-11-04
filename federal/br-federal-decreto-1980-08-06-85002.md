@@ -1,5 +1,3 @@
-###DEC-085002-0-000-06-08-1980@@@
-
 DECRETO Nº 85.002, DE 06 DE AGOSTO DE 1980.
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO SOCIEDADE DE FEIRA DE SANTANA LIMITADA, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Feira de Santana, Estado da Bahia.

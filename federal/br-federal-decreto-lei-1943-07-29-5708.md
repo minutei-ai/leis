@@ -1,5 +1,3 @@
-###DEL-005708-0-000-29-07-1943@@@
-
 DECRETO‑LEI N. 5.708 – DE 29 DE JULHO DE 1943
 
 Dispõe sôbre a alienação de imóveis do domínio da Prefeitura do Distrito Federal

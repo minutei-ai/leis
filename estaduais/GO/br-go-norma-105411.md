@@ -1,4 +1,5 @@
-DECRETO Nº 10.076, DE 25 DE ABRIL DE 2022<br>
+DECRETO Nº 10.076, DE 25 DE ABRIL DE 2022
+
 \- [Revogado pelo Decreto nº 10.341, de 13-11-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108074/decreto-10341), art. 4º, II.
 
 ~~Autoriza a Secretaria de Estado da Saúde – SES a celebrar e manter os contratos temporários que especifica, e altera o [Decreto nº 6.949](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/63859/decreto-6949), de 9 de julho de 2009, e dá outras providências.~~
@@ -20,8 +21,6 @@ DECRETO Nº 10.076, DE 25 DE ABRIL DE 2022<br>
 ~~Art. 4º Este Decreto entra em vigor na data de sua publicação.~~
 
 ~~Goiânia, 25 de abril de 2022, 134º da República.~~
-
-<br>
 
 ~~RONALDO CAIADO~~
 

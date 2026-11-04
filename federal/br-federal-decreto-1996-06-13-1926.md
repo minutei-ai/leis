@@ -1,5 +1,3 @@
-###DEC-001926-0-000-13-06-1996@@@
-
 DECRETO Nº 1.926, DE 13 DE JUNHO DE 1996.
 
 Acresce parágrafos ao art. 6° do Decreto n° 95.076, de 22 de outubro de 1987, que dispõe sobre a Carreira Finanças e Controle.

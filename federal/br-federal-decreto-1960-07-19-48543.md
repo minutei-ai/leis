@@ -1,5 +1,3 @@
-###DEC-048543-0-000-19-07-1960@@@
-
 DECRETO Nº 48.543, DE 19 DE JULHO DE 1960.
 
 Aprova os Estatutos da Fundação das Pioneiras Sociais.

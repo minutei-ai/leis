@@ -1,7 +1,3 @@
-1
-
-###DEC-097967-0-000-17-07-1989@@@
-
 DECRETO Nº 97.967, DE 17 DE JULHO DE 1989
 
 Autoriza o funcionamento do curso de Matemática Aplicada à Informática, das Faculdades São Marcos.

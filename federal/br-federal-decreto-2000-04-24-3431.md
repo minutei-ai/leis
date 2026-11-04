@@ -1,5 +1,3 @@
-###DEC-003431-0-000-24-04-2000@@@
-
 DECRETO Nº 3.431, DE 24 DE ABRIL DE 2000.
 
 Regulamenta a execução do Programa de Recuperação Fiscal - REFIS.

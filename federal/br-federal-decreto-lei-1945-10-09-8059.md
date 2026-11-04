@@ -1,5 +1,3 @@
-###DEL-008059-0-000-09-10-1945@@@
-
 DECRETO-LEI N. 8.059 – DE 9 DE OUTUBRO DE 1945
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 1.586,70 para pagamento de gratificação de magistério.

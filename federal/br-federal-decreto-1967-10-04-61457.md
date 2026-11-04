@@ -1,5 +1,3 @@
-###DEC-061457-0-000-04-10-1967@@@
-
 DECRETO Nº 61.457, DE 4 DE OUTUBRO DE 1967.
 
 Autoriza a firma De Avila & Pozzebon Limitada a comprar pedras preciosas.

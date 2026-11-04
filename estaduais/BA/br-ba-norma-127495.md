@@ -6,12 +6,14 @@ O PRESIDENTE DO TRIBUNAL DE JUSTIÇA, NO EXERCÍCIO DO CARGO DE GOVERNADOR DO ES
 
 Art. 1º - Ficam criados, no Poder Judiciário, 08 (oito) cargos de Desembargador e 34 (trinta e quatro) cargos de Juiz Substituto de Segundo Grau, de entrância final, e extintos 34 (trinta e quatro) cargos de Juiz de Direito das Varas de Substituição, à medida que vagarem.
 
-Redação de acordo com a Lei nº [13.217](javascript: openDoc\() de 30 de dezembro de 2014.<br>
+Redação de acordo com a Lei nº [13.217](javascript: openDoc\() de 30 de dezembro de 2014.
+
 Redação original: "Art. 1º - Ficam criados, no Poder Judiciário, 04 (quatro) cargos de Desembargador e 34 (trinta e quatro) cargos de Juiz Substituto de Segundo Grau, de entrância final, e extintos 34 (trinta e quatro) cargos de Juiz de Direito das Varas de Substituição, à medida que vagarem."
 
 Art. 2º - Os 08 (oito) cargos de Desembargador, criados por esta Lei, compõem o quadro do Tribunal de Justiça, podendo destinar-se, conforme a necessidade do serviço, à implantação e funcionamento da Câmara Especial do Extremo Oeste Baiano, cuja autorização encontra-se disciplinada no inciso I do art. 41 da Lei nº 10.845, de 27 de novembro de 2007.
 
-Redação de acordo com a Lei nº [13.217](javascript: openDoc\() de 30 de dezembro de 2014.<br>
+Redação de acordo com a Lei nº [13.217](javascript: openDoc\() de 30 de dezembro de 2014.
+
 Redação original: "Art. 2º - Os 04 (quatro) cargos de Desembargador e 04 (quatro) cargos de Juiz Substituto de Segundo Grau, criados por esta Lei, destinam-se à implantação e funcionamento da Câmara Especial do Extremo Oeste Baiano, cuja autorização encontra-se disciplinada no inciso I do art. 41 da Lei nº 10.845, de 27 de novembro de 2007."
 
 Art. 3º - A Câmara Especial a que se refere o art. 2º desta Lei terá competência para apreciar e julgar os feitos originários e em grau de recursos oriundos das Comarcas de Angical, Baianópolis, Barreiras, Bom Jesus da Lapa, Cocos, Coribe, Correntina, Cotegipe, Cristópolis, Formosa do Rio Preto, Luiz Eduardo Magalhães, Riachão das Neves, Santa Rita de Cássia, Santa Maria da Vitória, Santana, São Desidério, Serra Dourada, Wanderley e seus respectivos Distritos Judiciários, observadas as demais disposições desta Lei e do Regimento Interno deste Tribunal.
@@ -34,7 +36,8 @@ V -assessorar os Órgãos diretivos do Tribunal, assim como as Comissões, por d
 
 VI - exercer jurisdição plena nas Varas de Comarcas de Entrância Final que assumirem por designação do Presidente do Tribunal de Justiça;
 
-Redação de acordo com a Lei nº 13.217 de 30 de dezembro de 2014.<br>
+Redação de acordo com a Lei nº 13.217 de 30 de dezembro de 2014.
+
 Redação original: "VI - exercer outras atribuições a serem definidas pelo Tribunal."
 
 VII -     substituir, nas Varas de Comarcas de Entrância Final, os Juízes titulares em suas férias, licenças, afastamentos, faltas, impedimentos e suspeição, bem como nos casos de vacância;

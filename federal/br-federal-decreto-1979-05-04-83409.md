@@ -1,5 +1,3 @@
-###DEC-083409-0-000-04-05-1979@@@
-
 Decreto nº 83.409, de 04 de maio de 1979.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linhas de transmissão da LIGHT - Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

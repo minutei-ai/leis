@@ -1,5 +1,3 @@
-###DEC-055461-0-000-05-01-1965@@@
-
 decreto nº 55.461, de 5 de janeiro de 1965.
 
 Renova o Decreto nº 49.443, de 6 de dezembro de 1960.

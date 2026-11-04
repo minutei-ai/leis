@@ -1,5 +1,3 @@
-###MPV-000104-0-000-09-01-2003@@@
-
 MEDIDA PROVISÓRIA Nº 104, DE 9 DE JANEIRO 2003.
 
 Revoga o art. 374 da Lei no 10.406, de 10 de janeiro de 2002 - Código Civil.
@@ -12,5 +10,6 @@ Revoga o art. 374 da Lei no 10.406, de 10 de janeiro de 2002 - Código Civil.
 
         Brasília, 9 de janeiro de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Márcio Thomaz Bastos

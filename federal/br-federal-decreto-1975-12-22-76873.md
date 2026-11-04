@@ -1,5 +1,3 @@
-###DEC-076873-0-000-22-12-1975@@@
-
 decreto nº 76.873, de 22 de dezembro de 1975.
 
 Fixa o capital inicial da Empresa Brasileira de Assistência Técnica e Extensão Rural - EMBRATER e dá outras Providências.

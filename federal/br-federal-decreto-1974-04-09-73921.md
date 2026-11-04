@@ -1,5 +1,3 @@
-###DEC-073921-0-000-09-04-1974@@@
-
 DECRETO Nº 73.921, DE 9 DE ABRIL DE 1974.
 
 Redistribui cargos com os respectivos ocupantes, e dá outras providências.

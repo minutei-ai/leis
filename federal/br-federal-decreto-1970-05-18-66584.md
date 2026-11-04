@@ -1,5 +1,3 @@
-###DEC-066584-0-000-18-05-1970@@@
-
 DECRETO Nº 66.584, DE 18 DE MAIO DE 1970.
 
 Concede à sociedade Metro - Golduyn Mayer do Brasil autorização para continuar a funcionar na República Federativa do Brasil.

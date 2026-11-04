@@ -1,5 +1,3 @@
-###DEL-005627-0-000-28-06-1943@@@
-
 DECRETO‑LEI N. 5.627 – DE 28 DE JUNHO DE 1943
 
 Cria funções gratificadas no Ministério da Educação e Saúde e dá outras providências

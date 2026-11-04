@@ -1,5 +1,3 @@
-###DEC-061578-0-000-20-10-1967@@@
-
 Decreto nº 61.578, de 20 de outubro de 1967.
 
 Declara de utilidade pública, para fins de desapropriação, os imóveis que menciona, necessário ao Ministério das Minas e Energia.

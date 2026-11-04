@@ -1,7 +1,3 @@
-1
-
-###DEC-000380-0-000-24-12-1991@@@
-
 DECRETO Nº 380, DE 24 DE DEZEMBRO DE 1991
 
 Homologa a demarcação administrativa da Área Indígena Anambé, no Estado do Pará.

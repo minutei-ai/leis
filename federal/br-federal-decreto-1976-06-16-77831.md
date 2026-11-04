@@ -1,5 +1,3 @@
-###DEC-077831-0-000-16-06-1976@@@
-
 DECRETO Nº 77.831, DE 16 DE JUNHO DE 1976.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado de Mato Grosso.

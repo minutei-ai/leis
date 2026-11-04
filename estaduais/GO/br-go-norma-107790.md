@@ -62,7 +62,8 @@ k) Vice-Presidente de entidade da administração pública autárquica e fundaci
 
 l) Pró-Reitor da Universidade Estadual de Goiás.
 
-m) Chefe de Polícia Judiciária.<br>
+m) Chefe de Polícia Judiciária.
+
 \- [Acrescido pela Lei nº 22.382, de 14-11-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108077/lei-22382).
 
 Parágrafo único. Aos beneficiários da verba indenizatória de que trata este artigo não serão devidos valores referentes a diárias para o desempenho das suas atividades dentro do Estado de Goiás.
@@ -82,8 +83,6 @@ Art. 4º O recebimento da verba indenizatória tratada nesta Lei não é cumulat
 Art. 5º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 15 de setembro de 2023; 135º da República.
-
-<br>
 
 RONALDO CAIADO
 

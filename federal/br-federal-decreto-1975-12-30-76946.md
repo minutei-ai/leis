@@ -1,5 +1,3 @@
-###DEC-076946-0-000-30-12-1975@@@
-
 DECRETO Nº 76.946, DE 30 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento aos cursos de Letras, Matemática Pedagogia e Estudos Sociais, da Faculdade Riopretense de Filosofia, Ciências e Letras com sede na Cidade de São José do Rio Preto, Estado de São Paulo.

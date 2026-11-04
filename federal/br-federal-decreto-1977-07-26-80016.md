@@ -1,5 +1,3 @@
-###DEC-080016-0-000-26-07-1977@@@
-
 DECRETO Nº 80.016, DE 26 de JULHO DE 1977
 
 Concede reconhecimento ao curso de Direito, da Faculdade Cândido Mendes, Ipanema, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-063991-0-000-15-01-1969@@@
-
 DECRETO Nº 63.991, DE 15 DE JANEIRO DE 1969.
 
 Delega competência ao Ministro dos Transportes para aprovar modificações estatutárias de órgãos vinculados àquele Ministério.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/0a4bd915-650e-4aff-a846-7667c75b43a7/texto#nowhere)
 
-###DEL-000769-0-000-18-08-1969@@@
-
 DECRETO-LEI Nº 769, DE 18 DE AGÔSTO DE 1969
 
 Revoga o Decreto-lei nº 7.039, de 10 de novembro de 1944 (Lei de Movimento de Quadros) e dá outras providências.

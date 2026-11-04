@@ -1,14 +1,12 @@
-###DEC-040005-0-000-20-09-1956@@@
+**DECRETO Nº 40.005, DE 20 DE SETEMBRO DE 1956.**
 
-<strong>DECRETO Nº 40.005, DE 20 DE SETEMBRO DE 1956.</strong>
+***Altera o Regulamento do Serviço Social Rural aprovado pelo Decreto nº 39.319, de 5-6-1956.***
 
-<em><strong>Altera o Regulamento do Serviço Social Rural aprovado pelo Decreto nº 39.319, de 5-6-1956.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os arts. 13; 14; parágrafo único; 16, alíneas <em>d</em>, <em>g</em> e <em>h</em>; 18, alínea <em>c</em>; 20, alínea <em>c</em>; 21, 22 alíneas e e <em>f</em>; e art. 30 do Regulamento ao Serviço Social Rural aprovado pelo Decreto nº 39.319, de 5 de junho de 1956, passam a ter a seguinte redação:
+**Art**. 1º Os arts. 13; 14; parágrafo único; 16, alíneas *d*, *g* e *h*; 18, alínea *c*; 20, alínea *c*; 21, 22 alíneas e e *f*; e art. 30 do Regulamento ao Serviço Social Rural aprovado pelo Decreto nº 39.319, de 5 de junho de 1956, passam a ter a seguinte redação:
 
 "Art. 13. As atividades técnicas e de administração geral do S. S. R. serão coordenadas e controladas por um Departamento Técnico-Administrativo (D.T.A.) que poderá ser subdividido em Divisões, Serviços e Seções, de acôrdo com as conveniências e necessidades dos trabalhos.
 
@@ -56,12 +54,12 @@ e) propor ao presidente do C. N. nomeação, promoção, remoção ou punição 
 
 f) conceder licenças, abonar faltas e aprovar a escala de férias de seus subordinados.
 
-Art. 30. O montante das contribuições de que tratam as alíneas <em>a</em> e <em>b</em> do art. 25 dêste regulamento será recolhido às Agências de Bancos oficiais de Caixa Econômica Federal mais próxima do domicílio do contribuinte ou, na falta de tais agencias, em bancos ou organizações de reconhecida idoneidade a critério do Conselho Nacional, não podendo na última hipótese as importâncias permaneceram em poder de tais entidades por mais de 30 dias.
+Art. 30. O montante das contribuições de que tratam as alíneas *a* e *b* do art. 25 dêste regulamento será recolhido às Agências de Bancos oficiais de Caixa Econômica Federal mais próxima do domicílio do contribuinte ou, na falta de tais agencias, em bancos ou organizações de reconhecida idoneidade a critério do Conselho Nacional, não podendo na última hipótese as importâncias permaneceram em poder de tais entidades por mais de 30 dias.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 20 de setembro de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Ernesto Dornelles

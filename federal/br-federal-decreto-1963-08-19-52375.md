@@ -1,5 +1,3 @@
-###DEC-052375-0-000-19-08-1963@@@
-
 Decreto Nº 52.375, DE 19 DE AgÔsto DE 1963.
 
 Institui Grupo de Trabalho para estudar a produção e industrialização do leite e propor medidas para a solução de seus problemas.

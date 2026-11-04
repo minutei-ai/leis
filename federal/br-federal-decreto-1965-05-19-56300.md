@@ -1,5 +1,3 @@
-###DEC-056300-0-000-19-05-1965@@@
-
 DECRETO Nº 56.300, de 19 de maio de 1965.
 
 Declara de utilidade pública a “Sociedade Divina Providência”, com sede em Florianópolis, Estado de Santa Catarina.

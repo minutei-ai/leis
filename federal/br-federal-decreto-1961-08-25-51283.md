@@ -1,5 +1,3 @@
-###DEC-051283-0-000-25-08-1961@@@
-
 DECRETO Nº 51.283, DE 25 DE AGÔSTO DE 1961.
 
 Concede à Menegaldo & Cia., Mineração, indústria e Comércio, autorização para funcionar como empresa de mineração.

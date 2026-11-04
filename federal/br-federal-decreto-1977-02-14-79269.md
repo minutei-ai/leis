@@ -1,5 +1,3 @@
-###DEC-079269-0-000-14-02-1977@@@
-
 decreto nº 79.269, de 14 de fevereiro de 1977.
 
 Concede reconhecimento ao curso de Letras, da Faculdade de Educação, Filosofia, Ciências e Letras "Senador Fláquer", com sede na cidade de Santo André, Estado de São Paulo.

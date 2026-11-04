@@ -1,5 +1,3 @@
-###DEC-044906-0-000-28-11-1958@@@
-
 DECRETO Nº 44.906, DE 28 DE NOVEMBRO DE 1958.
 
 Autoriza cidadão brasileiro Manoel Simplício Lopes, a pesquisar quartzo, feldspato e associados, no município de Maricá, Estado do Rio de Janeiro.

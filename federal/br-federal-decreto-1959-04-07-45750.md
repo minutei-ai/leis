@@ -1,5 +1,3 @@
-###DEC-045750-0-000-07-04-1959@@@
-
 DECRETO Nº 45.750, DE 7 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro o Armando Bartholo a lavrar água potável de mesa, no município de São José do Rio Prêto, Estado de São Paulo.

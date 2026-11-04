@@ -1,5 +1,3 @@
-###DEC-049421-0-000-03-12-1960@@@
-
 decreto nº 49.421, de 3 de dezembro de 1960.
 
 Declara de utilidade pública o Instituto Auxiliadora, com sede em São João Del Rei, Estado de Minas Gerais.

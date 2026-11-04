@@ -1,5 +1,3 @@
-###DEC-085947-0-000-28-04-1981@@@
-
 Decreto nº 85.947, de 28 de abril de 1981.
 
 Concede ao Banco Nacional de Crédito Cooperativo S.A. - BNCC autorização para proceder ao aumento de seu Capital Social.

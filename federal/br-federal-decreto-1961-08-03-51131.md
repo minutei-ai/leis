@@ -1,5 +1,3 @@
-###DEC-051131-0-000-03-08-1961@@@
-
 DECRETO Nº 51.131, DE 3 DE AGÔSTO DE 1961.
 
 Abre, ao Poder Judiciário - Justiça Eleitoral - Tribunais Regionais Eleitorais, o crédito especial de Cr$67.899.673,00, para o fim que especifica.

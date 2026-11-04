@@ -44,20 +44,26 @@ DAS PRIORIDADES E DAS METAS DA ADMINISTRAÇÃO PÚBLICA ESTADUAL
 
 Art. 3º A elaboração, a aprovação e a execução do PLO de 2025 deverão ser compatíveis com a obtenção da meta de resultado primário estabelecida no Anexo de Metas Fiscais desta Lei.
 
-§ 1º Não serão consideradas na meta de resultado primário de que trata o caput deste artigo as empresas estatais não dependentes, isto é, as empresas públicas ou as sociedades de economia mista em que o Estado de Goiás, direta ou indiretamente, detenha a maior parte do capital social com direito a voto e que não recebam do ente controlador recursos financeiros para pagar despesas com custeio, pessoal e investimento, excluídos os provenientes de aumento de participação acionária.<br>
+§ 1º Não serão consideradas na meta de resultado primário de que trata o caput deste artigo as empresas estatais não dependentes, isto é, as empresas públicas ou as sociedades de economia mista em que o Estado de Goiás, direta ou indiretamente, detenha a maior parte do capital social com direito a voto e que não recebam do ente controlador recursos financeiros para pagar despesas com custeio, pessoal e investimento, excluídos os provenientes de aumento de participação acionária.
+
 [\- Constituído § 1° com a nova redação pela Lei n° 23.867, de 24-11-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111616)
 
-§ 2º Para a demonstração da compatibilidade referida no caput deste artigo, os intervalos de tolerância para a verificação do cumprimento das metas anuais de resultado primário serão convertidos em valores correntes e fixados com base no produto interno bruto estadual previsto nesta Lei, observados os seguintes limites:<br>
+§ 2º Para a demonstração da compatibilidade referida no caput deste artigo, os intervalos de tolerância para a verificação do cumprimento das metas anuais de resultado primário serão convertidos em valores correntes e fixados com base no produto interno bruto estadual previsto nesta Lei, observados os seguintes limites:
+
 [\- Acrescido pela Lei n° 23.867, de 24-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111616).
 
-I – limite inferior: valor equivalente a menos 0,25 (vinte e cinco centésimos) ponto percentual do PIB estadual previsto nesta Lei; e<br>
+I – limite inferior: valor equivalente a menos 0,25 (vinte e cinco centésimos) ponto percentual do PIB estadual previsto nesta Lei; e
+
 [\- Acrescido pela Lei n° 23.867, de 24-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111616).
 
-II – limite superior: valor equivalente a mais 0,25 (vinte e cinco centésimos) ponto percentual do PIB estadual previsto nesta Lei.<br>
+II – limite superior: valor equivalente a mais 0,25 (vinte e cinco centésimos) ponto percentual do PIB estadual previsto nesta Lei.
+
 [\- Acrescido pela Lei n° 23.867, de 24-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111616).
 
-§ 3º A obtenção do resultado que exceda ao limite superior de que trata o inciso II do § 2º deste artigo não implica o<br>
-descumprimento da meta a que se refere o caput, também deste artigo.<br>
+§ 3º A obtenção do resultado que exceda ao limite superior de que trata o inciso II do § 2º deste artigo não implica o
+
+descumprimento da meta a que se refere o caput, também deste artigo.
+
 [\- Acrescido pela Lei n° 23.867, de 24-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111616).
 
 ~~Parágrafo único. Não serão consideradas na meta de resultado primário de que trata o _caput_ deste artigo as empresas estatais não dependentes, isto é, as empresas públicas ou as sociedades de economia mista cuja maioria do capital social com direito a voto pertence, direta ou indiretamente, ao Estado de Goiás e que não recebem do ente controlador recursos financeiros para pagar despesas de custeio, pessoal e investimento, excluídos os provenientes de aumento de participação acionária.~~
@@ -156,7 +162,8 @@ X – fonte ou destinação de recursos: o agrupamento de receitas que possuem a
 
 § 2º A subfunção, nível de agregação imediatamente inferior à função, deve evidenciar cada área da atuação governamental.
 
-~~§ 3º Para cada ação orçamentária do tipo atividade e projeto, exceto as de manutenção de órgão e as derivadas de emendas individuais impositivas, deverá constar um único produto no demonstrativo de metas previsto no parágrafo único do art. 16 desta Lei, sem prejuízo ao monitoramento de outros resultados, parciais ou intermediários, na mesma ação.~~<br>
+~~§ 3º Para cada ação orçamentária do tipo atividade e projeto, exceto as de manutenção de órgão e as derivadas de emendas individuais impositivas, deverá constar um único produto no demonstrativo de metas previsto no parágrafo único do art. 16 desta Lei, sem prejuízo ao monitoramento de outros resultados, parciais ou intermediários, na mesma ação.~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, III, a.
 
 § 4º A lista de ações orçamentárias disponíveis para o uso na elaboração do PLO de 2025 e em seus créditos adicionais será disponibilizada para consulta no site da ECONOMIA, [www.economia.go.gov.br](http://www.economia.go.gov.br/), com, no mínimo, código, título, descrição e produto.
@@ -501,7 +508,8 @@ Art. 39. Considera-se crédito especial o que se destina a despesas para as quai
 
 § 9º A abertura de créditos adicionais deverá ser compatível com a obtenção das metas de resultado primário e nominal fixadas nesta Lei, de acordo com o que estiver demonstrado no relatório bimestral de avaliação e disposto na Lei Complementar nº 159, de 2017.
 
-§ 10. Os créditos especiais aprovados pela ALEGO serão considerados automaticamente abertos com a sanção e a publicação da respectiva lei e serão operacionalizados diretamente no SIOFINet e, no que couber, no Sistema de Planejamento e Monitoramento – SIPLAM.<br>
+§ 10. Os créditos especiais aprovados pela ALEGO serão considerados automaticamente abertos com a sanção e a publicação da respectiva lei e serão operacionalizados diretamente no SIOFINet e, no que couber, no Sistema de Planejamento e Monitoramento – SIPLAM.
+
 \- [Redação dada pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009).
 
 ~~§ 10. Os créditos especiais aprovados pela ALEGO serão considerados automaticamente abertos com a sanção e a publicação da respectiva lei e serão operacionalizados diretamente no SIOFINet e no Sistema de Planejamento e Monitoramento – SIPLAM.~~
@@ -518,7 +526,8 @@ a) obrigatórias, entendidas como as derivadas de obrigação legal; e
 
 b) despesas discricionárias, entendidas como as que decorrem da autonomia decisória dos ordenadores de despesa e que variam com o nível de serviço e com as ações finalísticas e as políticas públicas executadas pelo órgão, com destaque às direcionadas ao atendimento às ações, aos projetos e aos programas prioritários de governo.
 
-~~§ 12. Os projetos de lei destinados à abertura de créditos especiais deverão indicar o produto a ser criado no Plano Plurianual 2024-2027, quando ele for inexistente, ou a alteração necessária no Plano Plurianual.~~<br>
+~~§ 12. Os projetos de lei destinados à abertura de créditos especiais deverão indicar o produto a ser criado no Plano Plurianual 2024-2027, quando ele for inexistente, ou a alteração necessária no Plano Plurianual.~~
+
 \- [Revogado pela Lei nº 23.009, de 20-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109501/lei-23009), art. 3º, III, a.
 
 § 13. Os créditos especiais e extraordinários terão vigência no exercício financeiro em que forem autorizados, salvo se o ato de autorização for promulgado nos últimos quatro meses do exercício, caso em que, reabertos nos limites de seus saldos, serão incorporados ao orçamento do exercício financeiro subsequente e operacionalizados diretamente no SIOFINet.
@@ -1161,5 +1170,6 @@ RONALDO CAIADO
 
 Governador do Estado
 
-[ANEXOS I e II](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18538)<br>
+[ANEXOS I e II](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18538)
+
 [\*Vide Lei n° 23.867, de 24-11-2025, que altera os Anexos I e II](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111616)

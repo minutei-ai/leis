@@ -1,5 +1,3 @@
-###DEC-003629-0-000-11-10-2000@@@
-
 DECRETO Nº 3.629, DE 11 DE OUTUBRO DE 2000.
 
 Dispõe sobre o exercício de função militar e dá outras providências.

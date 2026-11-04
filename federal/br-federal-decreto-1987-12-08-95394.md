@@ -1,5 +1,3 @@
-###DEC-095394-0-000-08-12-1987@@@
-
 DECRETO Nº 95.394, DE 08 DE DEZEMBRO DE 1987
 
 Prorroga o prazo para a implementação do Programa Ruas em Paz e dá outras providências.

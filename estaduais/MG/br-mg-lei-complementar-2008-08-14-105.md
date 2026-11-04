@@ -1247,7 +1247,3 @@ COMARCAS DE ENTRÂNCIA ESPECIAL
 22 – Uberlândia
 
 23 – Varginha.
-
-\===================
-
-Data da última atualização: 11/11/2016

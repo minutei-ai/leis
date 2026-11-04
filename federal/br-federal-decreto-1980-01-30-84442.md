@@ -1,5 +1,3 @@
-###DEC-084442-0-000-30-01-1980@@@
-
 DECRETO Nº 84.442 DE 30 DE JANEIRO DE 1980
 
 Declara de utilidade pública, para fins de desapropriação, unidade hospitalar situada no município de Nova Iguaçu, Estado do Rio de Janeiro.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099013-0-000-05-03-1990@@@
-
 DECRETO Nº 99.013, DE 5 DE MARÇO DE 1990.
 
 Dispõe sobre a execução do Quinto Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/80, entre o Brasil e a Bolívia (Acordo nº 8).

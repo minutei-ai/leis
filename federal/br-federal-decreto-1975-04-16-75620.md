@@ -1,5 +1,3 @@
-###DEC-075620-0-000-16-04-1975@@@
-
 DECRETO Nº 75.620, DE 16 DE ABRIL DE 1975.
 
 Concede reconhecimento ao curso de Pedagogia, licenciatura plena, da Faculdade de Pedagogia e Letras "Professor Lourenço Filho", mantida pelo Instituo Superior de Ensino Celso Lisboa, com sede na Cidade do Rio de Janeiro, Estado do Rio de Janeiro.

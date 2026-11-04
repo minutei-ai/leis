@@ -1,5 +1,3 @@
-###DEC-062587-0-000-23-04-1968@@@
-
 DECRETO Nº 62.587, DE 23 DE ABRIL DE 1968.
 
 Concede à sociedade Gruppo Industrie Elettro Meccaniche Per Impianti All’ Estero Gie - S.P A autorização para continuar a funcionar na República do Brasil.

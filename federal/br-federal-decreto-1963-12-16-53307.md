@@ -1,5 +1,3 @@
-###DEC-053307-0-000-16-12-1963@@@
-
 DECRETO Nº 53.307, DE 16 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Geraldo Arnoldi Pedrozo a pesquisar bauxita, no município de Alemquer - Estado do Pará.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001456-0-000-17-04-1995@@@
-
 # DECRETO Nº 1.456, DE 17 DE ABRIL DE 1995
 
 Dá nova redação ao parágrafo único do art. 8º do Decreto nº 1.398, de 16 de fevereiro de 1995.

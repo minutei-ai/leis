@@ -1,5 +1,3 @@
-###DEC-069545-0-000-18-11-1971@@@
-
 DECRETO Nº 69.545 - DE 18 DE NOVEMBRO DE 1971
 
 Retifica o artigo 1º do Decreto número 46.155, de 5 de junho de 1959, e estabelece áreas de servidão.

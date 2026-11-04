@@ -1,5 +1,3 @@
-###DEC-088671-0-000-02-09-1983@@@
-
 Decreto nº 88.271, de 02 de setembro de 1983.
 
 Altera dispositivos do Sistema de Balizamento Marítimo, Região "B", da Associação Internacional de Sinalização Náutica - IALA, aprovado pelo Decreto nº 88.264, de 28 de abril de 1983.

@@ -1,5 +1,3 @@
-###DEC-052435-0-000-02-09-1963@@@
-
 DECRETO Nº 52.435, DE 2 DE SETEMBRO DE 1963.
 
 Declara em vigor as condições gerais e a Tarifa do Seguro Pecuário de Equídeos.
@@ -21,8 +19,6 @@ Brasília, 2 de setembro de 1963, 142º da Independência e 75º da República.
 João Goulart
 
 Egydio Michaelsen
-
-###DEC-052435-0-000-02-09-1963@@@RET01+++
 
 DECRETO Nº 52.435, DE 2 DE SETEMBRO DE 1963.
 

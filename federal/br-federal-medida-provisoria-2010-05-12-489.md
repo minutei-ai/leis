@@ -1,5 +1,3 @@
-###MPV-000489-0-000-12-05-2010@@@
-
 MEDIDA PROVISÓRIA Nº 489, DE 12 DE MAIO DE 2010.
 
 Autoriza a União a integrar, na forma de consórcio público de regime especial, a Autoridade Pública Olímpica - APO, e dá outras providências.

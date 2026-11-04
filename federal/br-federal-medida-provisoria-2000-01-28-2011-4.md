@@ -1,5 +1,3 @@
-###MPV-002011-0-004-28-01-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.011-4, DE 28 DE janeiro de 2000.
 
 Altera dispositivos da Lei nº 9.615, de 24 de março de 1998, institui a Taxa de Autorização do Bingo, e dá outras providências.

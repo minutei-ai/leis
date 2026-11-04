@@ -1,5 +1,3 @@
-###DEC-066610-0-000-21-05-1970@@@
-
 Decreto nº 66.610, de 21 de maio de 1970.
 
 Autoriza funcionamento da Faculdade de Odontologia da Autarquia Educacional de Uberlândia, no Estado de Minas Gerais.

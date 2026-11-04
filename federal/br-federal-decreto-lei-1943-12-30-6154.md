@@ -1,5 +1,3 @@
-###DEL-006154-0-000-30-12-1943@@@
-
 DECRETO‑LEI N. 6.154 – DE 30 DE DEZEMBRO DE 1943
 
 Retifica tabela anexa ao decreto‑lei nº 5.976, de 10 de novembro de 1943

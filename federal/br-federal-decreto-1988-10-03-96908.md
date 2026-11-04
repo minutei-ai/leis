@@ -1,5 +1,3 @@
-###DEC-096908-0-000-03-10-1988@@@
-
 DECRETO N° 96.908, DE 3 DE OUTUBRO DE 1988
 
 Outorga concessão a TELEVISÃO TAMBAÚ Ltda., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de João Pessoa, Estado da Paraíba.
@@ -12,7 +10,7 @@ Art. 1° Fica outorgada concessão à Televisão Tambaú Ltda., para explorar, p
 
 Parágrafo único. A concessão ora outorgada reger-se-á pelo Código Brasileiro de Telecomunicações, leis subseqüentes e seus regulamentos e, cumulativamente, de conformidade com preceitos e obrigações enumerados no artigo 28 do Regulamento dos Serviços de Radiodifusão com à redação que lhe foi dada pelo Decreto n° 88 067, de 26 de janeiro de 1983, bem como às obrigações assumidas pela outorgada em sua proposta.
 
-Art. 2° O contrato decorrente desta concessão deverá ser assinado dentro de 60 (sessenta) dias, a contar da publicação deste Decreto no <I>Diário Oficial<D> sob pena de se tornar nulo, de pleno direito, o ato de outorga.
+Art. 2° O contrato decorrente desta concessão deverá ser assinado dentro de 60 (sessenta) dias, a contar da publicação deste Decreto no *Diário Oficial<D> sob pena de se tornar nulo, de pleno direito, o ato de outorga.
 
 Art. 3° Este Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 

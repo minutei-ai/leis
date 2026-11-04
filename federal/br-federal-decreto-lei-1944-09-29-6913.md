@@ -1,5 +1,3 @@
-###DEL-006913-0-000-29-09-1944@@@
-
 DECRETO-LEI N. 6.913 – DE 29 DE SETEMBRO DE 1944
 
 Cria funções gratificadas no Quadro Permanente do Ministério da Educação e Saúde

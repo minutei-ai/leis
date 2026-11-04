@@ -1,5 +1,3 @@
-###DEC-006460-0-000-19-05-2008@@@
-
 DECRETO Nº 6.460, DE 19 DE MAIO DE 2008.
 
 Acresce parágrafos ao art. 6o do Decreto no 2.655, de 2 de julho de 1998, que regulamenta o Mercado Atacadista de Energia Elétrica, define as regras de organização do Operador Nacional de Sistema Elétrico, de que trata a Lei no 9.648, de 27 de maio de 1998.
@@ -26,11 +24,7 @@ Brasília, 19 de maio de 2008; 187o da Independência e 120o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Edison Lobão
-
-Este texto não substitui o publicado no DOU de 20.5.2008
-
-DECRETO No- 6.460, DE 19 DE MAIO DE 2008(\*)
+Edison LobãoDECRETO No- 6.460, DE 19 DE MAIO DE 2008(\*)
 
 Acresce parágrafos ao art. 6o do Decreto no 2.655, de 2 de julho de 1998, que regulamenta o Mercado Atacadista de Energia Elétrica, define as regras de organização do Operador Nacional de Sistema Elétrico, de que trata a Lei no 9.648, de 27 de maio de 1998.
 

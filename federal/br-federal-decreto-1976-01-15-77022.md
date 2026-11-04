@@ -1,5 +1,3 @@
-###DEC-077022-0-000-15-01-1976@@@
-
 DECRETO Nº 77.022, DE 15 DE JANEIRO DE 1976.
 
 Extingue a Previdência dos Subtenentes e Sargentos do Exércitos e dá outras providências.

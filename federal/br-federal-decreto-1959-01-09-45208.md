@@ -1,5 +1,3 @@
-###DEC-045208-0-000-09-01-1959@@@
-
 DECRETO Nº 45.208, DE 9 DE JANEIRO DE 1959.
 
 Outorga concessão a Emissora de Televisão Continental Sociedade  Anônima - TV Continental para instalar uma estação de radiotelevisão.

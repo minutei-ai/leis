@@ -1,5 +1,3 @@
-###DEC-065441-0-000-13-10-1969@@@
-
 DECRETO Nº 65.441 - DE 13 DE OUTUBRO DE 1969.
 
 Promulga o Protocolo Preliminar sôbre navegação permanente dos rios bolivianos e brasileiros do sistema fluvial do Amazonas.

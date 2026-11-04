@@ -1,5 +1,3 @@
-###DEC-079062-0-000-30-12-1976@@@
-
 DECRETO Nº 79.062, DE 30 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Serviço Social, da Universidade Federal do Espirito Santo, com sede na Cidade de Vitória, Estado do Espirito Santo.

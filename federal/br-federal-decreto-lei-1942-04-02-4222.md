@@ -1,5 +1,3 @@
-###DEL-004222-0-000-02-04-1942@@@
-
 DECRETO-LEI N. 4.222 – DE 2 DE ABRIL DE 1942
 
  Regula a convocação de oficiais da reserva do Exército

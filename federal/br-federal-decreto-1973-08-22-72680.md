@@ -1,5 +1,3 @@
-###DEC-072680-0-000-22-08-1973@@@
-
 DECRETO Nº 72.680, DE 22 DE AGOSTO DE 1973.
 
 Altera o Decreto nº 60.790, de 1 de junho de 1967, que aprovou o enquadramento das funções e empregos da extinta Comissão do Imposto Sindical, e dá outras providências.

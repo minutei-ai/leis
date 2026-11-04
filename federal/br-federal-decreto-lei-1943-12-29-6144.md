@@ -1,5 +1,3 @@
-###DEL-006144-0-000-29-12-1943@@@
-
 DECRETO‑LEI N. 6.144 – DE 29 DE DEZEMBRO DE 1943
 
 Institue o "Plano de Obras e Equipamentos", e dá outras providências

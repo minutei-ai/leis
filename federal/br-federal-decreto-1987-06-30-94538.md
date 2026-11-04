@@ -1,5 +1,3 @@
-###DEC-094538-0-000-30-06-1987@@@
-
 DECRETO N° 94.538, DE 30 DE JUNHO DE 1987
 
 Altera os arts. 3º, 5° e 6° do Decreto n° 91.248, de 15 de maio de 1985, que dispõe sobre a finalidade, estrutura e competência do Conselho Nacional de Desenvolvimento Urbano - CNDU.

@@ -1,5 +1,3 @@
-###DEC-090398-0-000-07-11-1984@@@
-
 Decreto nº 90.398, de 07 de novembro de 1984
 
 Autoriza a NUCLEBRÁS a incorporar a sua subsidiária NUCON.

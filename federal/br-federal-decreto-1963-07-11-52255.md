@@ -1,5 +1,3 @@
-###DEC-052255-0-000-11-07-1963@@@
-
 DECRETO Nº 52.255, DE 11 DE JULHO DE 1963.
 
 Dispõe sôbre os poderes especiais do Superintendente da SUDEPE e sôbre as atribuições do Administrador da Caixa de Crédito da Pesca.

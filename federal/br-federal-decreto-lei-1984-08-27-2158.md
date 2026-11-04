@@ -1,5 +1,3 @@
-###DEL-002158-0-000-27-08-1984@@@
-
 # DECRETO-LEI Nº 2.158, DE 27 DE AGOSTO DE 1984.
 
 Autoriza a elevação do capital do Banco Nacional de Desenvolvimento Econômico e Social - BNDES e dá outras providências.

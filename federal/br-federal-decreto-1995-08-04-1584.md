@@ -1,7 +1,3 @@
-1
-
-###DEC-001584-0-000-04-08-1995@@@
-
 DECRETO Nº 1.584, DE 4 DE AGOSTO DE 1995.
 
 Dispõe sobre a execução, no território nacional, da Resolução nº 1.003 (1995) do Conselho de Segurança das Nações Unidas que prorroga, até 18 de setembro de 1995, o levantamento parcial das sanções contra a Iugoslávia.

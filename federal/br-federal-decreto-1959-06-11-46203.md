@@ -1,5 +1,3 @@
-###DEC-046203-0-000-11-06-1959@@@
-
 DECRETO Nº 46.203, DE 11 DE JUNHO DE 1959.
 
 Autoriza o cidadão brasileiro Francisco de Assis Drumond a pesquisar minérios de ferro e manganês no município de Itabira, Estado de Minas Gerais.

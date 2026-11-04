@@ -1,5 +1,3 @@
-###DEC-052556-0-000-30-09-1963@@@
-
 DECRETO Nº 52.556, DE 30 DE SETEMBRO DE 1963.
 
 Outorga à Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul concessão para distribuir energia elétrica no município de Tôrres, Estado do Rio Grande do Sul.

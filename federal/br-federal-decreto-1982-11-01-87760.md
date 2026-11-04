@@ -1,5 +1,3 @@
-###DEC-087760-0-000-01-11-1982@@@
-
 Decreto nº 87.760, de 01 de novEmbro de 1982
 
 Autoriza empresas de Telecomunicações controladas pelas Telecomunicações Brasileiras S.A. - TELEBRÁS a promover aumento de capital social.

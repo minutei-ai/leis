@@ -1,16 +1,14 @@
-###DEC-034395-0-000-28-10-1953@@@
+**DECRETO N. 34.395 – DE 28 DE OUTUBRO DE 1953**
 
-<strong>DECRETO N. 34.395 – DE 28 DE OUTUBRO DE 1953</strong>
-
-<em><strong>Regulamenta o artigo 252, item II, da Lei nº 1.711, de 28 de outubro de 1952, no que respeita aos extranumerários da União, e dá outras providências.</strong></em>
+***Regulamenta o artigo 252, item II, da Lei nº 1.711, de 28 de outubro de 1952, no que respeita aos extranumerários da União, e dá outras providências.***
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art.</strong> 1º O regime jurídico do Estatuto dos Funcionários Públicos Civis da União, consubstanciado na Lei número 1.711, de 28 de outubro de 1952, e extensivo aos extranumerários mensalistas, contratados e tarefeiros da União, nos têrmos dêste regulamento.
+**Art.** 1º O regime jurídico do Estatuto dos Funcionários Públicos Civis da União, consubstanciado na Lei número 1.711, de 28 de outubro de 1952, e extensivo aos extranumerários mensalistas, contratados e tarefeiros da União, nos têrmos dêste regulamento.
 
-<strong>Art.</strong> 2º São aplicáveis aos mensalistas, contratados e tarefeiros as disposições relativas a:
+**Art.** 2º São aplicáveis aos mensalistas, contratados e tarefeiros as disposições relativas a:
 
 I – fiança;
 
@@ -88,9 +86,9 @@ XXXIII – formas de afastamento previstas no artigo 79, exceto as reguladas nos
 
 § 3º – O processamento das licenças obedecerá às normas do Estatuto dos Funcionários, respeitando-se, no caso do tarefeiro, a fixação do salário médio regulada nos artigos 9º e 13 do Decreto-Iei nº 6.031, de 27 de junho de 1944.
 
-<strong>Art.</strong> 3º Aplica-se aos mensalistas e contratados o regime de gratificação pela prestação de serviço extraordinário.
+**Art.** 3º Aplica-se aos mensalistas e contratados o regime de gratificação pela prestação de serviço extraordinário.
 
-<strong>Art.</strong> 4º São aplicáveis aos mensalistas os seguintes institutos:
+**Art.** 4º São aplicáveis aos mensalistas os seguintes institutos:
 
 a) promoção, sob a forma de melhoria de salário, de acôrdo com o Decreto nº 32.015, de 29 de dezembro de 1952;
 
@@ -108,9 +106,9 @@ g) gratificação pela representação de gabinete;
 
 h) gratificação adicional por tempo de serviço, nos tèrmos do Decreto nº 31.922, de 15 de dezembro de 1952.
 
-<strong>Art.</strong> 5º Continuam a prevalecer, quanto aos mensalistas, as formas de preenchimento de que trata  o artigo 26 do Decreto-lei nº 5.175, de 7 de janeiro de 1943, e, no que respeita a contratados e tarefeiros, as normas de admissão estabelecidas tio mesmo Decreto-lei.
+**Art.** 5º Continuam a prevalecer, quanto aos mensalistas, as formas de preenchimento de que trata  o artigo 26 do Decreto-lei nº 5.175, de 7 de janeiro de 1943, e, no que respeita a contratados e tarefeiros, as normas de admissão estabelecidas tio mesmo Decreto-lei.
 
-<strong>Art.</strong> 6º A vacância de função de extranumerário decorrerá de:
+**Art.** 6º A vacância de função de extranumerário decorrerá de:
 
 a) dispensa;
 
@@ -132,21 +130,21 @@ g) falecimento.
 
 § 3º Na hipótese de aposentadoria, o exercício na vaga resultante sòmente poderá ocorrer no primeiro dia do mês seguinte àquêle em que fôr publicado o ato de concessão, quando se tratar de extranumerário sujeito ao regime do Decreto-lei nº 3.768, de 28 de outubro de 1941.
 
-<strong>Art.</strong> 7º A contagem de tempo de serviço obedecerá às disposições do Estatuto dos Funcionários.
+**Art.** 7º A contagem de tempo de serviço obedecerá às disposições do Estatuto dos Funcionários.
 
 Parágrafo único. Na apuração de tempo de serviço prestado na qualidade de tarefeiro e diarista, o número de dias será convertido em anos, considerado o ano como de 300 dias.
 
-<strong>Art.</strong> 8º A aposentadoria do extranumerário continua a reger-se pelo Decreto-lei nº 3.768, de 28 de outubro de 1941, e modificações posteriores.
+**Art.** 8º A aposentadoria do extranumerário continua a reger-se pelo Decreto-lei nº 3.768, de 28 de outubro de 1941, e modificações posteriores.
 
-<strong>Art.</strong> 9º Aos extranumerarios beneficiados pelos artigos 18, parágrafo único, do Ato das Disposições Constitucionais Transitórias e 261 da Lei numero 1.711, de 28 de outubro de 1952, aplicam-se as disposições do Estatuto dos Funcionários relativas a reintegração e licença especial.
+**Art.** 9º Aos extranumerarios beneficiados pelos artigos 18, parágrafo único, do Ato das Disposições Constitucionais Transitórias e 261 da Lei numero 1.711, de 28 de outubro de 1952, aplicam-se as disposições do Estatuto dos Funcionários relativas a reintegração e licença especial.
 
-<strong>Art.</strong> 10 Êste Decreto entrará, em vigor na data de sua publicação.
+**Art.** 10 Êste Decreto entrará, em vigor na data de sua publicação.
 
-<strong>Art.</strong> 11 Revogam-se as disposições em contrário.
+**Art.** 11 Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 28 de outubro de 1953, 132º da Independência e 65º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Tancredo de Almeida Neves
 

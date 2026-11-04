@@ -1,5 +1,3 @@
-###DEC-005724-0-000-16-03-2006@@@
-
 DECRETO Nº 5.724, DE 16 DE MARÇO DE 2006.
 
 Dispõe sobre os cargos privativos de Oficial-General do Exército em tempo de paz.

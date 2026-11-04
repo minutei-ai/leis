@@ -1,5 +1,3 @@
-###DEL-003254-0-000-09-05-1941@@@
-
 DECRETO-LEI N. 3.254 – DE 9 DE MAIO DE 1941
 
  Cria uma tesouraria e uma Secção de Pessoal na Diretoria Regional dos Correios e Telégrafos em Porto Velho e dá outras providências

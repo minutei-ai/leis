@@ -1,5 +1,3 @@
-###DEL-009096-0-000-26-03-1946@@@
-
 DECRETO-LEI N. 9.096 – DE 26 DE MARÇO DE 1946
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ .. 3.409,70, para atender ao pagamento dos salários devidos a Paul Arbousse Bastide.

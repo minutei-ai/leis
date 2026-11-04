@@ -1,5 +1,3 @@
-###DEC-057458-0-000-20-12-1965@@@
-
 DECRETO Nº 57.458, DE 20 DE DEZEMBRO DE 1965.
 
 Regulamenta o art. 86 da Lei número 4.506, de 30 de novembro de 1964 e dá nova redação ao § 3º do art. 5º do Decreto nº 54.252, de 3 de setembro e 1964.
@@ -25,8 +23,6 @@ Brasília, 20 de dezembro de 1965; 144º da Independência e 77º da República.
 H. CASTELLO BRANCO
 
 Octávio Gouveia de Bulhões
-
-###DEC-057458-0-000-20-12-1965@@@RET01+++
 
 decreto nº 57.458, de 20 de dezembro de 1965.
 

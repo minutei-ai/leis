@@ -1,5 +1,3 @@
-###DEC-079891-0-000-29-06-1977@@@
-
 DECRETO Nº 79.891, DE 29 DE JUNHO DE 1977
 
 Acrescenta dispositivos ao Regulamento do Fundo de Garantia do Tempo de Serviço (FGTS), aprovado pelo Decreto nº 59.820, de 20 de dezembro de 1966, e dá outras providências.

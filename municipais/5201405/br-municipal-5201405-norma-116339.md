@@ -22,8 +22,10 @@ Art. 8º Esta lei entrará em vigor na data sua publicação.
 
 Gabinete do Município de Aparecida Goiânia-GO, 08 de março de 2019.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-OLAVO NOLETO ALVES<br>
+OLAVO NOLETO ALVES
+
 Chefe da Casa Civil

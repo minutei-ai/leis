@@ -1,5 +1,3 @@
-###DEL-000276-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 276, DE 28 DE FevereIRO DE 1967
 
 Altera dispositivos da Lei nº 4.214, de 2 de março de 1963, e dá outras providências.

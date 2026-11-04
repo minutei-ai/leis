@@ -1,5 +1,3 @@
-###DEC-048602-0-000-25-07-1960@@@
-
 DECRETO N. 48.602 – DE 25 JULHO DE 1960
 
 Autoriza o cidadão brasileiro José Casemiro Ramos Neiva a pesquisar lmenita, no município de Tutoia, Estado do Maranhão.

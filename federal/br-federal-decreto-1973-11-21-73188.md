@@ -1,5 +1,3 @@
-###DEC-073188-0-000-21-11-1973@@@
-
 DECRETO Nº 73.188 - DE 21 DE NOVEMBRO DE 1973
 
 Declara perempta a concessão outorgada à Rádio Guanabara S.A., para executar serviço de radiodifusão sonora em onda tropical, na Cidade de Rio de Janeiro, Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEL-008062-0-000-09-10-1945@@@
-
 DECRETO-LEI N. 8.062 – DE 9 DE OUTUBRO DE 1945
 
 Cria função gratificada no Quadro Permanente do Ministério da Educação e Saúde

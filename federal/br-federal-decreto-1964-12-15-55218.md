@@ -1,5 +1,3 @@
-###DEC-055218-0-000-15-12-1964@@@
-
 DECRETO Nº 55.218, DE 15 DE DEZEMBRO DE 1964.
 
 Declara a caducidade da exploração dos serviços de energia elétrica no Município de Catu, Estado da Bahia, e outorga concessão à Companhia de Eletricidade do Estado da Bahia.

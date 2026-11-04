@@ -1,5 +1,3 @@
-###DEC-084666-0-000-28-04-1980@@@
-
 Decreto nº 84.666, de 28 de Abril de 1980.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de distribuição da Centrais Elétricas de Minas Gerais S.A. - CEMIG, no Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-005534-0-000-06-09-2005@@@
-
 DECRETO Nº  5.534, DE 6 DE SETEMBRO DE 2005
 
 Prorroga para o Estado do Rio Grande do Sul a autorização prevista no art. 36 da Lei n o 11.105, de 24 de março de 2005.

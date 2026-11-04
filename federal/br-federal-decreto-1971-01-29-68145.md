@@ -1,5 +1,3 @@
-###DEC-068145-0-000-29-01-1971@@@
-
 decreto nº 68.145, de 29 de janeiro de 1971.
 
 Autoriza o funcionamento da Faculdade Estadual de Medicina do Pará.

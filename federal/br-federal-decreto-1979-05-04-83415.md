@@ -1,5 +1,3 @@
-###DEC-083415-0-000-04-05-1979@@@
-
 DecRETo nº 83.415, de 04 de maio de 1979.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra e benfeitorias necessárias à formação do reservatório da Usina Hidrelétrica de Emborcação, da Centrais Hidrelétricas de Minas Gerais S.A. CEMIG, nos Estados de Minas Gerais e Goiás.

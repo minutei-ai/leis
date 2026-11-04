@@ -1,7 +1,3 @@
-1
-
-###DEC-098167-0-000-22-09-1989@@@
-
 DECRETO N° 98.167, DE 22 DE SETEMBRO DE 1989
 
 Abre ao Ministério Público da União e ao Ministério da Justiça, em favor de diversas Unidades Orçamentárias, o crédito suplementar de NCz$ 105.388.000,00, para reforço de dotações consignadas no vigente Orçamento.

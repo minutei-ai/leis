@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ce61fcea-57db-441a-ad24-2bcf5a2349e3/texto#nowhere)
 
-###DEL-002093-0-000-27-12-1983@@@
-
 # Decreto nº 2.093, de 27 de dezembor de 1983
 
 Reajusta os vencimentos, salários e proventos dos servidores das Secretarias do Superior Tribunal Militar e das Auditorias da Justiça Militar, e dá outras providências.
@@ -23,8 +21,6 @@ Brasília, 27 de dezembro de 1983; 162º da Independência e 95º da República.
 JoÃO FIGUEIREDO
 
 Ibrahim Abi-Ackel
-
-###DEL-002093-0-000-27-12-1983@@@RET01+++
 
 # DECRETO-LEI Nº 2.093, DE 27 DE DEZEMBRO De 1983.
 

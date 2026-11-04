@@ -1,5 +1,3 @@
-###DEC-086926-0-000-16-02-1982@@@
-
 DECRETO Nº 86.926, DE 16 DE FEVEREIRO DE 1982
 
 Autoriza a Indústria Caborquímica Catarinense S.A. - ICC a proceder ao aumento do limite de seu Capital Social.

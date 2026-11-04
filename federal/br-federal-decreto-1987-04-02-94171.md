@@ -1,5 +1,3 @@
-###DEC-094171-0-000-02-04-1987@@@
-
 DECRETO N° 94.171, DE 02 DE MARÇO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Santa Ernestina", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado nos Municípios de Jacobina e Morro do Chapéu, no Estado da Bahia, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.689, de 19 de maio de 1986, e dá outras providências.

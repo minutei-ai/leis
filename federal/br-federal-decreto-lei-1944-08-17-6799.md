@@ -1,5 +1,3 @@
-###DEL-006799-0-000-17-08-1944@@@
-
 DECRETO-LEI N. 6.799 – DE 17 DE AGÔSTO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 4.037,80, para pagamento ao Mosteiro de São Bento do Rio de Janeiro

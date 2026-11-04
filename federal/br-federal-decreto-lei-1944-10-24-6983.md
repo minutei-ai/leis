@@ -1,5 +1,3 @@
-###DEL-006983-0-000-24-10-1944@@@
-
 DECRETO-LEI N. 6.983 – DE 24 DE OUTUBRO DE 1944
 
 Dispõe sôbre o exercício, nas repartições centrais, do pessoal extranumerário do Instituto Brasileiro de Geografia e Estatística

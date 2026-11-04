@@ -1,5 +1,3 @@
-###DEC-092934-0-000-17-07-1986@@@
-
 DECRETO Nº 92.934, DE 17 DE JULHO DE 1986
 
 Dispõe sobre a execução da Ata de Retificação do Primeiro Protocolo Adicional ao Acordo Regional de Abertura de Mercados em favor da Bolívia (Acordo Regional nº 1).

@@ -1,5 +1,3 @@
-###MPV-002201-0-002-24-08-2001@@@
-
 MEDIDA PROVISÓRIA N° 2.201-2, DE 24 DE agosto DE 2001
 
 Altera a Lei nº 10.233, de 5 de junho de 2001, que dispõe sobre a reestruturação dos transportes aquaviário e terrestre, cria o Conselho Nacional de Integração de Políticas de Transporte, a Agência Nacional de Transportes Terrestres, a Agência Nacional de Transportes Aquaviários e o Departamento Nacional de Infra-Estrutura de Transportes, e dá outras providências.

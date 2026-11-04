@@ -1,5 +1,3 @@
-###DEC-092478-0-000-20-03-1986@@@
-
 DECRETO Nº 92.478, DE 20 DE MARÇO DE 1986
 
 Outorga concessão à RÁDIO E TELEVISÃO ARACAJU LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Aracaju, Estado de Sergipe.

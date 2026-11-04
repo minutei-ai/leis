@@ -1,5 +1,3 @@
-###DEC-086212-0-000-15-07-1981@@@
-
 Decreto nº 86.212, de 15 julho de 1981.
 
 Estabelece restrições à criação, no âmbito federal, de autarquias, empresas públicas, sociedades de economia mista e fundações e dispõe sobre o artigo 172 do Decreto-lei 200, de 25 de fevereiro de 1967.

@@ -1,5 +1,3 @@
-###DEC-067042-0-000-12-08-1970@@@
-
 DECRETO Nº 67.042, DE 12 DE AGÔSTO DE 1970.
 
 Aprova o Regulamento de Uniformes do Exército (R/124 - RUE).

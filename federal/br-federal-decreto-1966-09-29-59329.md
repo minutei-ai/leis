@@ -1,5 +1,3 @@
-###DEC-059329-0-000-29-09-1966@@@
-
 DECRETO Nº 59.329, DE 29 DE SETEMBRO DE 1966.
 
 Declara públicas, de uso comum, as águas do curso que especifica.

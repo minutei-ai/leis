@@ -1,5 +1,3 @@
-###DEC-005675-0-000-12-01-2006@@@
-
 DECRETO Nº 5.675, DE 12 DE JANEIRO DE 2006.
 
 Dá nova redação aos arts. 3º e 6º do Decreto nº 5.185, de 17 de agosto de 2004, que instituiu Comitê Técnico Interministerial para acompanhamento e reformulação do Programa de Garantia da Atividade Agropecuária -  PROAGRO.

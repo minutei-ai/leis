@@ -1,5 +1,3 @@
-###DEC-054802-0-000-03-11-1964@@@
-
 decreto nº 54.802, de 3 de novembro de 1964.
 
 Autoriza o cidadão brasileiro Zenon Afonso Carlos Pereira a pesquisar quartzo no município de Simonésia, Estado de Minas Gerais.

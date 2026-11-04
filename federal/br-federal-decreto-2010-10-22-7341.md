@@ -1,5 +1,3 @@
-###DEC-007341-0-000-22-10-2010-PUB-01@@@
-
 DECRETO Nº 7.341, DE 22 DE OUTUBRO DE 2010.
 
 Regulamenta a Lei no 11.952, de 25 de junho de 2009, para dispor sobre a regularização fundiária das áreas urbanas situadas em terras da União no âmbito da Amazônia Legal, definida pela Lei Complementar no 124, de 3 de janeiro de 2007, e dá outras providências.

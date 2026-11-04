@@ -1,5 +1,3 @@
-###DEC-068448-0-000-31-03-1971@@@
-
 DECRETO Nº 68.448, DE 31 DE MARÇO DE 1971.
 
 Cria a Escola Nacional de Informações e dá outras providências.

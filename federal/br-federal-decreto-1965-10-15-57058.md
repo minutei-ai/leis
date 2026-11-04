@@ -1,5 +1,3 @@
-###DEC-057058-0-000-15-10-1965@@@
-
 DECRETO Nº 57.058, DE 15 DE OUTUBRO DE 1965.
 
 Aprova as alterações introduzidas nos Estatutos da Companhia de Seguros da Bahia, inclusive aumento do capital social.

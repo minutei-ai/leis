@@ -1,7 +1,3 @@
-1
-
-###DEC-099027-0-000-05-03-1990@@@
-
 DECRETO Nº 99.027, DE 5 DE MARÇO DE 1990.
 
 Aprova o Regulamento para o Corpo de Praças do Corpo de Fuzileiros Navais.
@@ -30,7 +26,255 @@ Henrique Saboia
 
 ## Índice - Artigos
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">CAPÍTULO</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">I</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Da Organização .........................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">1º ao 4º</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">CAPÍTULO</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">II</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Da Inclusão ................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">5º</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">CAPÍTULO</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">III</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Da Carreira .................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">6º ao 9º</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">CAPÍTULO</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">IV</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Do Comportamento ....................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">10 ao 20</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">CAPÍTULO</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">V</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Da Aptidão para a Carreira ........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">21 ao 28</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">CAPÍTULO</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">VI</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Da Habilitação Profissional ........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">29 a 31</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">CAPÍTULO</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">VII</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Dos Cursos</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:1.11em; font-style:normal">Seção</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">I</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Dos Cursos em Geral ................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">32 ao 33</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:1.11em; font-style:normal">Seção</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">II</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Da Matrícula em Curso ..............................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">34 ao 38</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:1.11em; font-style:normal">Seção</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">III</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Dos Cursos de Especialização ..................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">39 ao 42</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:1.11em; font-style:normal">Seção</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">IV</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Dos Cursos de Subespecialização ............................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">43 ao 45</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:1.11em; font-style:normal">Seção</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">V</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Dos Cursos de Formação de Sargentos ....................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">46 ao 50</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:1.11em; font-style:normal">Seção</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">VI</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Dos Cursos de Aperfeiçoamento ................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">51 ao 54</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:1.11em; font-style:normal">Seção</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">VII</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Dos Cursos de Qualificação para Funções Técnicas..</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">55 e 56</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:1.11em; font-style:normal">Seção</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">VIII</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Dos Demais Cursos ....................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">57 ao 60</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">CAPÍTULO</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">VIII</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Dos Estágios</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:1.11em; font-style:normal">Seção</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">I</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Dos Estágios de Avaliação .........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">61 e 62</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:1.11em; font-style:normal">Seção</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">II</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Da Habilitação nos Estágios de Avaliação .................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">63 ao 66</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">CAPÍTULO</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">IX</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Do Desenvolvimento da Carreira</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:1.11em; font-style:normal">Seção</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">I</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Das Fases da Carreira ...............................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">67 ao 70</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:1.11em; font-style:normal">Seção</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">II</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Das Promoções .........................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">71 ao 81</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:1.11em; font-style:normal">Seção</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">III</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Dos Requisitos para Promoção .................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">82 ao 90</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:1.11em; font-style:normal">Seção</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">IV</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Das Escalas de Promoção .........................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">91 ao 95</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:1.11em; font-style:normal">Seção</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">V</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Dos Compromissos de Tempo de Serviço .................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">96 ao 101</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:1.11em; font-style:normal">Seção</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">VI</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Do Desligamento ........................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">102 ao 107</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">CAPÍTULO</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">X</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Da Transferência para a Reserva Remunerada ........</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">108 ao 110</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">CAPÍTULO</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">XI</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Da Aplicação da Quota Compulsória .........................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">111 ao 116</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">CAPÍTULO</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">XII</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Da Agregação, da Reversão e da Reinclusão ...........</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">117 ao 119</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">CAPÍTULO</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">XIII</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Da Parcela Especial ...................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">120 ao 121</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">CAPÍTULO</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">XIV</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Do Quadro Especial de Sargentos .............................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">122 ao 126</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">CAPÍTULO</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">XV</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Das Disposições Gerais .............................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">127 ao 132</span></p></td></tr><tr><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">CAPÍTULO</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">XVI</span></p></td><td style="width:248.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt"><span style="font-size:1.11em; font-style:normal">- Das Disposições Transitórias .....................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:0pt; text-align:right"><span style="font-size:1.11em; font-style:normal">133 e 134</span></p></td></tr></tbody></table>
+CAPÍTULO
+
+I
+
+- Da Organização .........................................................
+
+1º ao 4º
+
+CAPÍTULO
+
+II
+
+- Da Inclusão ................................................................
+
+5º
+
+CAPÍTULO
+
+III
+
+- Da Carreira .................................................................
+
+6º ao 9º
+
+CAPÍTULO
+
+IV
+
+- Do Comportamento ....................................................
+
+10 ao 20
+
+CAPÍTULO
+
+V
+
+- Da Aptidão para a Carreira ........................................
+
+21 ao 28
+
+CAPÍTULO
+
+VI
+
+- Da Habilitação Profissional ........................................
+
+29 a 31
+
+CAPÍTULO
+
+VII
+
+- Dos Cursos
+
+Seção
+
+I
+
+- Dos Cursos em Geral ................................................
+
+32 ao 33
+
+Seção
+
+II
+
+- Da Matrícula em Curso ..............................................
+
+34 ao 38
+
+Seção
+
+III
+
+- Dos Cursos de Especialização ..................................
+
+39 ao 42
+
+Seção
+
+IV
+
+- Dos Cursos de Subespecialização ............................
+
+43 ao 45
+
+Seção
+
+V
+
+- Dos Cursos de Formação de Sargentos ....................
+
+46 ao 50
+
+Seção
+
+VI
+
+- Dos Cursos de Aperfeiçoamento ................................
+
+51 ao 54
+
+Seção
+
+VII
+
+- Dos Cursos de Qualificação para Funções Técnicas..
+
+55 e 56
+
+Seção
+
+VIII
+
+- Dos Demais Cursos ....................................................
+
+57 ao 60
+
+CAPÍTULO
+
+VIII
+
+- Dos Estágios
+
+Seção
+
+I
+
+- Dos Estágios de Avaliação .........................................
+
+61 e 62
+
+Seção
+
+II
+
+- Da Habilitação nos Estágios de Avaliação .................
+
+63 ao 66
+
+CAPÍTULO
+
+IX
+
+- Do Desenvolvimento da Carreira
+
+Seção
+
+I
+
+- Das Fases da Carreira ...............................................
+
+67 ao 70
+
+Seção
+
+II
+
+- Das Promoções .........................................................
+
+71 ao 81
+
+Seção
+
+III
+
+- Dos Requisitos para Promoção .................................
+
+82 ao 90
+
+Seção
+
+IV
+
+- Das Escalas de Promoção .........................................
+
+91 ao 95
+
+Seção
+
+V
+
+- Dos Compromissos de Tempo de Serviço .................
+
+96 ao 101
+
+Seção
+
+VI
+
+- Do Desligamento ........................................................
+
+102 ao 107
+
+CAPÍTULO
+
+X
+
+- Da Transferência para a Reserva Remunerada ........
+
+108 ao 110
+
+CAPÍTULO
+
+XI
+
+- Da Aplicação da Quota Compulsória .........................
+
+111 ao 116
+
+CAPÍTULO
+
+XII
+
+- Da Agregação, da Reversão e da Reinclusão ...........
+
+117 ao 119
+
+CAPÍTULO
+
+XIII
+
+- Da Parcela Especial ...................................................
+
+120 ao 121
+
+CAPÍTULO
+
+XIV
+
+- Do Quadro Especial de Sargentos .............................
+
+122 ao 126
+
+CAPÍTULO
+
+XV
+
+- Das Disposições Gerais .............................................
+
+127 ao 132
+
+CAPÍTULO
+
+XVI
+
+- Das Disposições Transitórias .....................................
+
+133 e 134
 
 # REGULAMENTO PARA O CORPO DE PRAÇAS DO CORPO
 
@@ -1010,7 +1254,33 @@ Art. 110 - A transferência para a RRm, “ex officio”, verificar-se-á sempre
 
 I - atingirem as seguintes idades-limite:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:42.55pt; border-collapse:collapse"><tbody><tr><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold; font-style:italic">Graduação</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:right; font-size:12pt"><span style="font-family:'Times New Roman'; font-weight:bold; font-style:italic">Idade</span></p></td></tr><tr><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'">Suboficial</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:right; font-size:12pt"><span style="font-family:'Times New Roman'">54 anos</span></p></td></tr><tr><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'">Primeiro-Sargento</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:right; font-size:12pt"><span style="font-family:'Times New Roman'">52 anos</span></p></td></tr><tr><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'">Segundo-Sargento</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:right; font-size:12pt"><span style="font-family:'Times New Roman'">50 anos</span></p></td></tr><tr><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'">Terceiro-Sargento</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:right; font-size:12pt"><span style="font-family:'Times New Roman'">49 anos</span></p></td></tr><tr><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'">Cabo</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:right; font-size:12pt"><span style="font-family:'Times New Roman'">48 anos</span></p></td></tr><tr><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Times New Roman'">Soldado</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:right; font-size:12pt"><span style="font-family:'Times New Roman'">44 anos</span></p></td></tr></tbody></table>
+Graduação
+
+Idade
+
+Suboficial
+
+54 anos
+
+Primeiro-Sargento
+
+52 anos
+
+Segundo-Sargento
+
+50 anos
+
+Terceiro-Sargento
+
+49 anos
+
+Cabo
+
+48 anos
+
+Soldado
+
+44 anos
 
 II - Forem abrangidas pela Quota Compulsória;
 

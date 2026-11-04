@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59418)
-
 # LEI Nº 12.161, DE 20 DE DEZEMBRO DE 2005
 
 ## (PL 776/2004 - Caldini Crespo)

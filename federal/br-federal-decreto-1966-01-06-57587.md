@@ -1,5 +1,3 @@
-###DEC-057587-0-000-06-01-1966@@@
-
 DECRETO Nº 57.587, DE 6 DE JANEIRO DE 1966.
 
 Aprova o Plano Preferencial de Serviços e Obras do Departamento Nacional de Obras de Saneamento e da outras providências.

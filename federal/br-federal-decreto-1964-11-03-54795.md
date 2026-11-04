@@ -1,5 +1,3 @@
-###DEC-054795-0-000-03-11-1964@@@
-
 DECRETO Nº 54.795, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Marcelo Palma a pesquisar água mineral, no município de Aratiba, Estado do Rio Grande do Sul.

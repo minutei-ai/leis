@@ -1,5 +1,3 @@
-###DEC-004002-0-000-07-11-2001@@@
-
 DECRETO Nº 4.002, DE 7 DE NOVEMBRO DE 2001
 
 Dá nova redação ao inciso II do art. 5º do Decreto nº 3.892, de 20 de agosto de 2001, que dispõe sobre a aquisição de bilhetes de passagem aérea e compras de materiais e serviços, mediante utilização do Cartão de Crédito Corporativo pelos órgãos e pelas entidades da Administração Pública Federal direta, autárquica e fundacional, e dá outras providências.

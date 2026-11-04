@@ -1,5 +1,3 @@
-###DEC-044990-0-000-02-12-1958@@@
-
 Decreto nº 44.990, de 2 de dezembro de 1958.
 
 Autoriza o cidadão brasileiro Moacyr Pinheiro Ferreira a pesquisar ouro no município de Pôrto de Moz, Estado do Pará.

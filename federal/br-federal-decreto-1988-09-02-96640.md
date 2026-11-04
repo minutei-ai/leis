@@ -1,5 +1,3 @@
-###DEC-096640-0-000-02-09-1988@@@
-
 DECRETO N° 96 640, DE 2 DE SETEMBRO DE 1988
 
 Outorga concessão à RADIODIFUSÃO CIDADE DE PALMITAL LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Palmital, Estado do Paraná.

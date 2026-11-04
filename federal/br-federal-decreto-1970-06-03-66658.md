@@ -1,5 +1,3 @@
-###DEC-066658-0-000-03-06-1970@@@
-
 DECRETO Nº 66.658, DE 3 DE JUNHO DE 1970.
 
 Dispõe sobre a criação e extinção de cargos do Instituto Nacional do Cinema.

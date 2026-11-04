@@ -1,5 +1,3 @@
-###DEC-082852-0-000-18-12-1978@@@
-
 Decreto nº 82.852, de 18 de dezembro de 1978.
 
 Suspende a execução da Lei nº 8.031, de 1 de dezembro de 1975, do Estado de Goiás.

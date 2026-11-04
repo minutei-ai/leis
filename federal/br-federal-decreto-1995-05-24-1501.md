@@ -1,7 +1,3 @@
-1
-
-###DEC-001501-0-000-24-05-1995@@@
-
 DECRETO Nº 1.501, DE 24 DE MAIO DE 1995
 
 Dispões sobre a fiscalização da distribuição, do armazenamento e do comércio de combustíveis, apuração das infrações e penalidades, e dá outras providências.

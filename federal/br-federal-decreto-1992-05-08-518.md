@@ -1,5 +1,3 @@
-###DEC-000518-0-000-08-05-1992@@@
-
 DECRETO Nº 518, DE 8 DE MAIO DE 1992
 
 Dispõe sobre a adoção, pela Administração Pública Federal, do modelo de referência para comunicação e interoperação de sistemas de tratamento da informação.

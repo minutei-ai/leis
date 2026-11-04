@@ -1,5 +1,3 @@
-###DEC-057068-0-000-15-10-1965@@@
-
 Decreto nº 57.068, de 15 de outubro de 1965.
 
 Autoriza a Mineração Tejucana S/A a pesquisar diamantes e ouro no município de Bocaíuva, Estado de Minas Gerais.

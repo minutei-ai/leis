@@ -1,5 +1,3 @@
-###DEC-070268-0-000-08-03-1972@@@
-
 DECRETO Nº 70.268, DE 8 DE MARÇO DE 1972.
 
 Muda a denominação da Escola de Agronomia da Amazônia para Faculdade de Ciências Agrárias do Pará.

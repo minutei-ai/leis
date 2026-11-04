@@ -1,5 +1,3 @@
-###DEC-056040-0-000-23-04-1965@@@
-
 DECRETO Nº 56.040, DE 23 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro Chrystalino Bernardino da Costa a pesquisar água mineral, no município de Anápolis, no Estado de Goiás.

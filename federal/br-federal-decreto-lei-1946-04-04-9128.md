@@ -1,5 +1,3 @@
-###DEL-009128-0-000-04-04-1946@@@
-
 DECRETO-LEI N. 9.128 – DE 4 DE ABRIL DE 1946
 
 Autoriza a Ministério da Justiça e Negócios lnteriores a aplicar no íncio da construção de uma escola para menores desamparados, saldos de verbas que menciona.

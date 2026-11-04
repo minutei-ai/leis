@@ -1,5 +1,3 @@
-###DEC-069432-0-000-27-10-1971@@@
-
 DECRETO Nº 69.432 - de 27 de outubro de 1971
 
 Autoriza o atêrro por Minerações Brasileiras Reunidas S.A., de duas áreas de mar, na costa da Ilha Guaíba, Município de Mangaratiba, Estado do Rio de Janeiro, bem como a cessão dos terrenos resultantes, nas condições que menciona.

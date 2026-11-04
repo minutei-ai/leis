@@ -2,7 +2,8 @@ LEI Nº. 7.283, DE 27 DE JUNHO DE 2022.
 
 Institui programa de auxílio alimentação no âmbito da UniRV - Universidade de Rio Verde.
 
-**CONSOLIDADA COM AS LEIS:**<br>
+**CONSOLIDADA COM AS LEIS:**
+
 [Lei nº 7.485/2024 ........................... (26/02/2024)](https://legisla.casacivil.go.gov.br/rio-verde/pesquisa_legislacao/115152/lei-ordinaria-7485)
 
 **A CÂMARA MUNICIPAL DE RIO VERDE APROVA E EU SANCIONO A SEGUINTE LEI:**

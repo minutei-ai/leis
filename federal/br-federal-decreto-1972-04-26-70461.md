@@ -1,5 +1,3 @@
-###DEC-070461-0-000-26-04-1972@@@
-
 decreto nº 70.461, de 26 de abril de 1972.
 
 Redistribui, com a respectiva ocupante, cargo do Ministério da Agricultura, para o Ministério da Educação e Cultura, e dá outras providências.

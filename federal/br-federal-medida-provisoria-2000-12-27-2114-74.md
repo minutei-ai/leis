@@ -1,5 +1,3 @@
-###MPV-002114-0-074-27-12-2000@@@
-
 medida provisória nº 2.114-74, de 27 de dezembro de 2000.
 
 Dá nova redação aos arts. 6º e  9º da Lei nº 8.019, de 11 de abril de 1990, e acresce dispositivo à Lei nº 9.365, de 16 de dezembro de 1996.

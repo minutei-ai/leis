@@ -1,5 +1,3 @@
-###DEC-075583-0-000-09-04-1975@@@
-
 DECRETO Nº 75.583, DE 9 DE ABRIL DE 1975.
 
 Regulamenta a Lei nº 6.138, de 8 de novembro de 1974 que dispõe sobre a inspeção e fiscalização do comércio de fertilizantes, corretivos e inoculantes destinados à agricultura.

@@ -1,5 +1,3 @@
-###DEC-055336-0-000-31-12-1964@@@
-
 DECRETO Nº 55.336, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza a Companhia Siderúrgica Nacional a pesquisar minérios de ferro e de manganês e bauxita no município de Ouro Prêto - Estado de Minas Gerais.

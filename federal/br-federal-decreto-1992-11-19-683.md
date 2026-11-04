@@ -1,7 +1,3 @@
-1
-
-###DEC-000683-0-000-19-11-1992@@@
-
 DECRETO Nº 683, DE 19 DE NOVEMBRO DE 1992
 
 Dá nova redação a dispositivos do Regulamento de Promoções da Carreira de Diplomata do Serviço Exterior, aprovado pelo Decreto nº 93.326, de 1º de outubro de 1986.

@@ -1,14 +1,12 @@
-###DEC-031636-0-000-23-10-1952@@@
+**DECRETO Nº 31.636, DE 23 DE OUTUBRO DE 1952.**
 
-<strong>DECRETO Nº 31.636, DE 23 DE OUTUBRO DE 1952.</strong>
+***Dispõe sôbre a Tabela Numérica de Pessoal do Instituto Nacional do Mate.***
 
-<em><strong>Dispõe sôbre a Tabela Numérica de Pessoal do Instituto Nacional do Mate.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam extintas as seguintes funções na Tabela Numérica do Pessoal do Instituto Nacional do Mate.
+**Art**. 1º Ficam extintas as seguintes funções na Tabela Numérica do Pessoal do Instituto Nacional do Mate.
 
 Parte Permanente:
 
@@ -56,12 +54,12 @@ d) Séries Funcionais.
 
 1 (uma) de Tesoreiro, referência ........................................................................................27
 
-<strong>Art</strong>. 2º O presente Decreto vigorará a partir da data de sua publicação.
+**Art**. 2º O presente Decreto vigorará a partir da data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 23 de outubro de 1952, 131º da Independência e 64º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 João Cleofas

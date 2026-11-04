@@ -1,5 +1,3 @@
-###DEC-093887-0-000-30-12-1986@@@
-
 DECRETO Nº 93.887, DE 30 DE DEZEMBRO DE 1986
 
 Concede à Empresa PHILIP MORRIS MARKETING S.A., autorização para aumentar o destaque de capital de sua filial no Brasil e alterar o seu objeto social.

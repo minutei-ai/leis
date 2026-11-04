@@ -1,5 +1,3 @@
-###DEC-097030-0-000-03-11-1988@@@
-
 DECRETO N° 97.030, DE 03 DE NOVEMBRO DE 1988
 
 Altera os incisos I e VI do artigo 1° do Decreto n° 95.492 de 15 de dezembro de 1987, que fixa os efetivos do Exército para 1988.

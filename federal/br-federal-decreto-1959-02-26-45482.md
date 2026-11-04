@@ -1,5 +1,3 @@
-###DEC-045482-0-000-26-02-1959@@@
-
 DECRETO Nº 45.482, DE 26 DE FEVEREIRO DE 1959.
 
 Declara sem efeito o Decreto número 42.108, de 19 de agôsto de 1957.

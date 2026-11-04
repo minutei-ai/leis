@@ -1,5 +1,3 @@
-###MPV-001765-0-045-11-02-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.765-45, DE 11 DE FEVEREIRO DE 1999.
 
 Altera a legislação referente ao Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e ao Fundo da Marinha Mercante - FMM, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-004274-0-000-20-06-2002@@@
-
 DECRETO Nº 4.274, DE 20 DE JUNHO DE 2002
 
 Dispõe sobre a prorrogação estabelecida na Lei nº 10.459, de 15 de maio de 2002, relativa ao prazo da autorização de que tratam o art. 1º da Lei nº 10.309, de 22 de novembro de 2001, e o Decreto nº 3.953, de 5 de outubro de 2001.

@@ -1,5 +1,3 @@
-###DEC-006017-0-000-17-01-2007@@@
-
 DECRETO Nº 6.017, DE 17 DE JANEIRO DE 2007.
 
 Regulamenta a Lei no 11.107, de 6 de abril de 2005, que dispõe sobre normas gerais de contratação de consórcios públicos.
@@ -523,5 +521,3 @@ LUIZ INÁCIO LULA DA SILVA
             Dilma Rousseff
 
              Tarso Genro
-
-Este texto não substitui o publicado no DOU de 18.1.2007

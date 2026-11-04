@@ -1,5 +1,3 @@
-###DEC-004056-0-000-14-12-2001@@@
-
 DECRETO Nº 4.056, DE 14 DE DEZEMBRO DE 2001.
 
 Altera alíquota do Imposto sobre Produtos Industrializados - IPI, incidente sobre os produtos que menciona.

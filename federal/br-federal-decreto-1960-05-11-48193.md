@@ -1,5 +1,3 @@
-###DEC-048193-0-000-11-05-1960@@@
-
 DECRETO Nº 48.193, DE 11 DE MAIO DE 1960.
 
 Autoriza o cidadão brasileiro Antônio Magalhães Bastos a pesquisar argila no município de Taubaté, Estado de São Paulo.

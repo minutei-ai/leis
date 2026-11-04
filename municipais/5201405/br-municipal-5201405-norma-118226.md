@@ -34,8 +34,10 @@ Art. 2º. Este Decreto entra em vigor na data de sua publicação, retroagindo s
 
 PREFEITURA MUNICIPAL DE APARECIDA DE GOIÂNIA, aos 06 de Julho de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-LUIZ ANTÔNIO F. MARONEZI<br>
+LUIZ ANTÔNIO F. MARONEZI
+
 Presidente da CODAP

@@ -1,5 +1,3 @@
-###DEL-004937-0-000-09-11-1942@@@
-
 DECRETO-LEI N. 4.937 – DE 9 DE NOVEMBRO DR 1942
 
 Assegura o pleno funcionamento dos estabelecirnentos fabrís militares e civís, produtores de materiais bélicos

@@ -1,5 +1,3 @@
-###DEL-000133-0-000-01-02-1967@@@
-
 DECRETO-LEI Nº 133, de 1 DE fevereiro DE 1967
 
 Dispõe sôbre regime de trabalho nas emprêsas, em decorrência do racionamento de energia elétrica, e dá outras providências.

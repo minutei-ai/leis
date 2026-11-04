@@ -1,5 +1,3 @@
-###DEC-066551-0-000-11-05-1970@@@
-
 DECRETO Nº 66.551, DE 11 DE MAIO DE 1970.
 
 Declara de utilidade pública a Irmandade da Santa Casa de Misericórdia de Santa Isabel, com sede em Santa Isabel, Estado de São Paulo.

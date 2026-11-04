@@ -1,5 +1,3 @@
-###DEC-079064-0-000-30-12-1976@@@
-
 DECRETO Nº 79.064, DE 30 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Administração, da Faculdade de Ciências Comerciais e Administrativas de Santos, com sede na Cidade de Santos, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-070659-0-000-30-05-1972@@@
-
 decreto nº 70.659, de 30 de Maio de 1972.
 
 Prorroga o prazo da concessão outorgada a Mendes Lima. S.A. - Indústria e Comércio.

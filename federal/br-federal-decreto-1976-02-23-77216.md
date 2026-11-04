@@ -1,5 +1,3 @@
-###DEC-077216-0-000-23-02-1976@@@
-
 DECRETO Nº 77.216, DE 23 DE FEVEREIRO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Progresso Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Novo Hamburgo, Estado do Rio Grande do Sul.

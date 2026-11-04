@@ -1,7 +1,3 @@
-1
-
-###DEC-001147-0-000-24-05-1994@@@
-
 DECRETO N° 1.147, DE 24 DE MAIO DE 1994
 
 Institui o Dia Nacional da Botânica, declara, a palmeira brasileira Carnaúba, planta símbolo do Jardim Botânico do Rio de Janeiro, cria a Medalha do Mérito Jardim Botânico do Rio de Janeiro, e dá outras providências.

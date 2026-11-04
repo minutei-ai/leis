@@ -1,5 +1,3 @@
-###MPV-000360-0-000-28-03-2007@@@
-
 MEDIDA PROVISÓRIA Nº 360, DE 28 DE MARÇO DE 2007.
 
 Altera a Lei no 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.
@@ -79,5 +77,3 @@ Paulo Bernardo Silva
 Dilma Rousseff
 
 Luiz Soares Dulci
-
-Este texto não substitui o publicado no DOU de 29.3.2007 - Edição extra

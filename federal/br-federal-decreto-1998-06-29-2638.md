@@ -1,5 +1,3 @@
-###DEC-002638-0-000-29-06-1998@@@
-
 DECRETO Nº 2.638, DE 29 DE JUNHO DE 1998
 
 Altera o Decreto nº 2.072, de 14 de novembro de 1996, que dispõe sobre a redução do imposto de importação para os produtos que especifica e dá outras providências.

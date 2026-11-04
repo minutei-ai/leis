@@ -1,5 +1,3 @@
-###DEC-007784-0-000-07-08-2012-PUB-01@@@
-
 DECRETO Nº 7.784, DE 7 DE AGOSTO DE 2012
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério do Esporte.

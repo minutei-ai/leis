@@ -1,5 +1,3 @@
-###DEC-081031-0-000-15-12-1977@@@
-
 Decreto nº 81.031, de 15 de dezembro de 1977.
 
 Concede reconhecimento ao curso de Ciências Econômicas da Faculdade de Economia da Fundação Armando Álvares Penteado, com sede na cidade de São Paulo, Estado de São Paulo.

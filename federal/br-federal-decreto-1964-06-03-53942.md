@@ -1,5 +1,3 @@
-###DEC-053942-0-000-03-06-1964@@@
-
 DECRETO Nº 53.942, DE 3 DE JUNHO DE 1964.
 
 Estabelece local para a instalação do Salão Nacional de Arte Moderna e do Salão Nacional de Belas Artes.

@@ -1,5 +1,3 @@
-###DEL-009611-0-000-19-08-1946@@@
-
 DECRETO-LEI N. 9.611 – DE 19 DE AGÔSTO DE 1946
 
 Retifica o Decreto-lei nº 9.490, de 19 de Julho de 1946.

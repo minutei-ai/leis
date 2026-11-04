@@ -1,5 +1,3 @@
-###DEL-004411-0-000-26-06-1942@@@
-
 DECRETO-LEI N. 4.411 – DE 26 DE JUNHO DE 1942
 
 Cria, os 2º e 3º Grupos Móveis de Artilharia de Costa, na 7ª Região Militar

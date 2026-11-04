@@ -1,5 +1,3 @@
-###DEL-003677-0-000-02-10-1941@@@
-
 DECRETO-LEI N. 3.677 – DE 2 DE OUTUBRO DE 1941
 
 Considera data de celebração pública o dia 4 de outubro de 1941, centenário do nascimento de Prudente José de Morais Barros

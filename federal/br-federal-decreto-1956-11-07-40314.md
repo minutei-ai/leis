@@ -1,14 +1,12 @@
-###DEC-040314-0-000-07-11-1956@@@
+**DECRETO Nº 40.314, DE 7 DE NOVEMBRO DE 1956.**
 
-<strong>DECRETO Nº 40.314, DE 7 DE NOVEMBRO DE 1956.</strong>
+***Transfere, sem aumento de despesa, funções de Tabelas Numéricas Especiais de Extranumerário-Mensalista de repartições do Ministério da Agricultura, na forma que menciona.***
 
-<em><strong>Transfere, sem aumento de despesa, funções de Tabelas Numéricas Especiais de Extranumerário-Mensalista de repartições do Ministério da Agricultura, na forma que menciona.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam transferidas, com os respectivos ocupantes, as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-Mensalista, do Ministério da Agricultura, abaixo indicadas:
+**Art**. 1º Ficam transferidas, com os respectivos ocupantes, as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-Mensalista, do Ministério da Agricultura, abaixo indicadas:
 
 I - uma (1) função de Artífice Especializado, referência 22, ocupada por Nair Galvão Antunes, da Tabela Numérica Especial de Extranumerário-Mensalista da Turma da Diretoria, da Divisão de Fomento da Produção Mineral do Departamento Nacional da Produção Mineral, para idêntica tabela da Divisão do Material do Departamento de Administração;
 
@@ -42,12 +40,12 @@ XV - uma (1) função de Auxiliar de Campo, referência 22, ocupada por José An
 
 XVI - uma (1) função de Tratorista, referência 22, ocupada por Afonso Tagliarini, da Tabela Numérica Especial de Extranumerário-Mensalista da Fazenda Ipanema, da Divisão de Fomento Nacional da Produção Vegetal, do Departamento Nacional da Produção Vegetal, para idêntica tabela da Seção de Fomento Agrícola em São Paulo, da Divisão de Fomento da Produção Vegetal, do Departamento Nacional da Produção Vegetal.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 7 de novembro de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Mário Meneghetti

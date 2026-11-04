@@ -1,5 +1,3 @@
-###DEL-005306-0-000-05-03-1943@@@
-
 DECRETO‑LEI N. 5.306 – DE 5 DE MARÇO DE 1943
 
 Abre, ao Ministério da Educação e Saude, o crédito especial de Cr$ 2.283,90, para pagamento de gratificacão de magistério

@@ -12,7 +12,8 @@ II – ao Imposto sobre a Propriedade de Veículos Automotores – IPVA; e
 
 III – ao Imposto sobre a Transmissão Causa Mortis e Doação de Quaisquer Bens ou Direitos – ITCD.
 
-Art. 2º As medidas facilitadoras instituídas por esta Lei abrangem créditos tributários cujos fatos geradores ou a prática de infração tenham ocorrido até 30 de setembro de 2025.<br>
+Art. 2º As medidas facilitadoras instituídas por esta Lei abrangem créditos tributários cujos fatos geradores ou a prática de infração tenham ocorrido até 30 de setembro de 2025.
+
 [\- Redação dada pela Lei nº 24.107, de 6-3-2026.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113455)
 
 ~~Art. 2º As medidas facilitadoras instituídas por esta Lei abrangem créditos tributários cujos fatos geradores ou a prática de infração tenham ocorrido até 31 de março de 2025, desde que não sejam abrangidos pela [Lei Complementar nº 197](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109502 "Abrir Lei Complementar nº 197, de 2024 em nova aba"), de 20 de setembro de 2024.~~
@@ -33,7 +34,8 @@ V – não constituídos, desde que sejam confessados espontaneamente; ou
 
 VI – decorrentes de lançamento sobre o qual tenha sido realizada representação fiscal para fins penais.
 
-~~§ 3º As medidas facilitadoras instituídas por esta Lei não abrangem créditos tributários com transação rescindida, nos termos da Lei Complementar nº 197, de 2024.~~<br>
+~~§ 3º As medidas facilitadoras instituídas por esta Lei não abrangem créditos tributários com transação rescindida, nos termos da Lei Complementar nº 197, de 2024.~~
+
 [\- Revogado pela Lei 24.107, de 6-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113455), art. 2°.
 
 Art. 3º As medidas facilitadoras compreendem:
@@ -64,7 +66,8 @@ II – pagar apenas a parte não litigiosa do crédito tributário; e
 
 III – efetuar o pagamento parcial do crédito tributário à vista, observada a imputação do valor pago na forma prevista no § 3º do art. 166 da [Lei nº 11.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87836 "Abrir Lei Ordinária nº 11651, de 1991 em nova aba"), de 26 de dezembro de 1991, Código Tributário do Estado de Goiás – CTE.
 
-Art. 4º O sujeito passivo, para usufruir dos benefícios ora instituídos, deve formalizar sua adesão até nove meses do início de produção de efeitos desta Lei.<br>
+Art. 4º O sujeito passivo, para usufruir dos benefícios ora instituídos, deve formalizar sua adesão até nove meses do início de produção de efeitos desta Lei.
+
 [\- Redação dada pela Lei nº 24.491, de 14-8-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116722/lei-24491).
 
 ~~Art. 4º O sujeito passivo, para usufruir dos benefícios ora instituídos, deve formalizar sua adesão até seis meses do início de produção de efeitos desta Lei.~~
@@ -191,5 +194,6 @@ Goiânia, 23 de dezembro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado

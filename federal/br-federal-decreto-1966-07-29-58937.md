@@ -1,5 +1,3 @@
-###DEC-058937-0-000-29-07-1966@@@
-
 DECRETO Nº 58.937, DE 29 DE JULHO DE 1966.
 
 Autoriza o cidadão brasileiro José Terra de Oliveira a pesquisar minérios de cromo e manganês no município de Piui, Estado de Minas Gerais.

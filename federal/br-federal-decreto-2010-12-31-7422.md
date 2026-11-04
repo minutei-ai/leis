@@ -1,5 +1,3 @@
-###DEC-007422-0-000-31-12-2010-PUB-01@@@
-
 DECRETO Nº 7.422, DE 31 DE DEZEMBRO DE 2010.
 
 Regulamenta os incentivos de que tratam o art 11-A da Lei no 9.440, de 14 de março de 1997, e o art. 1o da Lei no 9.826, de 23 de agosto de 1999.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/8e32339f-abaa-4656-bd9b-0b85e87b4546/texto#nowhere)
 
-###DEL-000470-0-000-14-02-1969@@@
-
 DECRETO-LEI Nº 470, DE 14 DE FEVEREIRO De 1969
 
 Transfere para a Secretaria da Receita Federal as dotações orçamentárias dos Departamentos extintos pelo Decreto nº 63.659, de 20 de novembro de 1968.

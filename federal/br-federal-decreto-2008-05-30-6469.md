@@ -1,5 +1,3 @@
-###DEC-006469-0-000-30-05-2008@@@
-
 DECRETO Nº 6.469, DE 30 DE MAIO DE 2008
 
 Adota a Recomendação no 007, de 28 de maio de 2008, do Conselho Nacional do Meio Ambiente - CONAMA.

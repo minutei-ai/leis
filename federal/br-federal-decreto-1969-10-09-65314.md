@@ -1,5 +1,3 @@
-###DEC-065314-0-000-09-10-1969@@@
-
 DECRETO Nº 65.314 - DE 9 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública a Santa Casa de Misericórdia de Vitória, com sede em Vitória, Estado do Espírito Santo.

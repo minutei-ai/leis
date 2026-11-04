@@ -1,5 +1,3 @@
-###DEC-079501-0-000-13-04-1977@@@
-
 DECRETO Nº 79.501, DE 13 DE ABRIL DE 1977.
 
 Concede à Companhia Niquel Tocantins o direito de lavrar calcário no Município de Corumbá de Goiás, Estado de Goiás.

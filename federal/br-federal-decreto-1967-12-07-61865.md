@@ -1,5 +1,3 @@
-###DEC-061865-0-000-07-12-1967@@@
-
 DECRETO Nº 61.865, DE 7 DE DEZEMBRO DE 1967.
 
 Abre ao Ministério da Agricultura o crédito especial de NCr$4.898.600,00 para o fim que especifica.

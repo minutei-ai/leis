@@ -1,5 +1,3 @@
-###DEC-046939-0-000-30-09-1959@@@
-
 DECRETO Nº 46.939, DE 30 DE SETEMBRO DE 1959.
 
 Concede à Sociedade Tocantins & Daibes Limitada, autorização para funcionar como emprêsa de navegação de cabotagem.

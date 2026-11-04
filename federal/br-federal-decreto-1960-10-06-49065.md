@@ -1,5 +1,3 @@
-###DEC-049065-0-000-06-10-1960@@@
-
 decreto nº 49.065, de 6 de outubro de 1960.
 
 Concede reconhecimento a curso.

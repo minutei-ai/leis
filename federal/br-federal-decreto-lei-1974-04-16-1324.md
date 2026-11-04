@@ -1,5 +1,3 @@
-###DEL-001324-0-000-16-04-1974@@@
-
 # DECRETO-LEI Nº 1.324, DE 16 DE ABRIL DE 1974
 
 Concede aumento de vencimentos e salários aos servidores das Secretarias do Superior Tribunal Militar das Auditorias da Justiça Militar, e dá outras providências.

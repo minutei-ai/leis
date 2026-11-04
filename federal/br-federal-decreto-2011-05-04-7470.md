@@ -1,5 +1,3 @@
-###DEC-007470-0-000-04-05-2011-PUB-01@@@
-
 DECRETO Nº 7.470, DE 4 DE MAIO DE 2011
 
 Altera os Anexos I e II do Decreto nº 7.063, de 13 de janeiro de 2010, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério do Planejamento, Orçamento e Gestão, e o Decreto nº  6.025, de 22 de janeiro de 2007, que institui o Programa de Aceleração do Crescimento - PAC e o seu Comitê  Gestor, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-053160-0-000-11-12-1963@@@
-
 DECRETO Nº 53.160, DE 11 DE DEZEMBRO DE 1963.
 
 Autoriza a Companhia Carbonífera Minas de Butiá a pesquisar carvão mineral, no município de Triunfo, Estado do Rio Grande do Sul.

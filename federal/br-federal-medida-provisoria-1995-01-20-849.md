@@ -1,7 +1,3 @@
-1
-
-###MPV-000849-0-000-20-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 849, DE 20 DE JANEIRO DE 1995
 
 Dá nova redação a dispositivos das Leis nºs 8.849, de 28 de janeiro de 1994, e 8.541, de 23 de dezembro de 1992, que alteram a legislação do imposto sobre a renda e proventos de qualquer natureza, e dá outras providências.

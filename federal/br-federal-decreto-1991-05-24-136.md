@@ -1,5 +1,3 @@
-###DEC-000136-0-000-24-05-1991@@@
-
 DECRETO N° 136, DE 24 DE MAIO DE 1991
 
 Dispõe sobre a execução do Vigésimo Protocolo Adicional ao Acordo Comercial nº 16, no Setor da Indústria Petroquímica, subscrito entre o Brasil e a Argentina.

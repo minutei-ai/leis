@@ -1,5 +1,3 @@
-###DEC-094617-0-000-14-07-1987@@@
-
 DECRETO N° 94.617, DE 14 DE JULHO DE 1987
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "FAZENDA SERRINHa" e "FAZENDA TÁBUA", classificados no Cadastro de Imóveis Rurais do INCRA, como latifúndios por exploração, situados no Município de Quinjingue, no Estado da Bahia, compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.689, de 19 de maio de 1986, e dá outras providências.

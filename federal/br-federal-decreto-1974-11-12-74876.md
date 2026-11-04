@@ -1,5 +1,3 @@
-###DEC-074876-0-000-12-11-1974@@@
-
 DECRETO Nº 74.876, DE 12 DE NOVEMBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada a Mossoró Rádio Sociedade Ltda., para executar serviço de radiodifusão sonora em onda tropical, na Cidade de Mossóro, Estado do Rio Grande do Norte.

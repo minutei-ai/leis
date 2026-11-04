@@ -1,5 +1,3 @@
-###DEC-076695-0-000-01-12-1975@@@
-
 decreto nº 76.695, de 1 de dezembro de 1975.
 
 Promulga o Acordo sobre Cooperação no Campo dos Usos Pacíficos da Energia Nuclear Brasil-República Federal da Alemanha.

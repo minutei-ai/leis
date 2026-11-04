@@ -1,5 +1,3 @@
-###DEC-083739-0-000-18-07-1979@@@
-
 Decreto nº 83.739, de 18 de julho de 1979.
 
 Concede à S.A. Indústrias Votorantim o direito de lavrar calcário nos Municípios de Guapiara e Capão Bonito, Estado de São Paulo.

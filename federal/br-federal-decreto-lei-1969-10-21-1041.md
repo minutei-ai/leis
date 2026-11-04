@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7cebb097-6a12-4b15-bb71-07668818e4a6/texto#nowhere)
 
-###DEL-001041-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.041, DE 21 DE OUTUBRO DE 1969
 
 Permite ao segurado da Previdência Social o cômputo do tempo de serviço militar voluntário, para efeito de aposentadoria.

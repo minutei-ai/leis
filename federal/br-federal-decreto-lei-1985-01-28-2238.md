@@ -1,5 +1,3 @@
-###DEL-002238-0-000-28-01-1985@@@
-
 # Decreto-lei nº 2.238, de 28 de janeiro de 1985
 
 Concede isenção dos impostos de importação e sobre produtos industrializados aos materiais e equipamentos importados para a construção e manutenção de embarcações.

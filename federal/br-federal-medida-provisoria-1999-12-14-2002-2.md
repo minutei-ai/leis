@@ -1,5 +1,3 @@
-###MPV-002002-0-002-14-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 2.002-2, DE 14 DE DEZEMBRO DE 1999.
 
 Altera dispositivos da Lei nº 9.615, de 24 de março de 1998, institui a Taxa de Autorização do Bingo, e dá outras providências.

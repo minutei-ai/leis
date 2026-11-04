@@ -1,5 +1,3 @@
-###DEC-057258-0-000-16-11-1965@@@
-
 DECRETO Nº 57.258, de 16 de Novembro DE 1965.
 
 Autoriza o cidadão brasileiro Carlos Freire de Siqueira a pesquisar calcário, no município de Euclides da Cunha, Estado da Bahia.

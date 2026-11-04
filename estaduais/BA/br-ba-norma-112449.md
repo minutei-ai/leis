@@ -72,7 +72,8 @@ a) Fundação de Hematologia e Hemoterapia da Bahia - HEMOBA.
 
 § 10 - A Coordenação de Controle Interno tem por finalidade desempenhar as funções de acompanhamento, controle e fiscalização da execução orçamentária e financeira e patrimonial, em estreita articulação com o Órgão estadual de controle interno.
 
-Redação de acordo com o art. [35](https://www.legislabahia.ba.gov.br/documentos/lei-no-11373-de-05-de-fevereiro-de-2009#art35) da Lei nº 11.373, de 05 de fevereiro de 2009.<br>
+Redação de acordo com o art. [35](https://www.legislabahia.ba.gov.br/documentos/lei-no-11373-de-05-de-fevereiro-de-2009#art35) da Lei nº 11.373, de 05 de fevereiro de 2009.
+
 Redação original: "§ 10 - A Coordenação de Controle Interno, unidade sistêmica, subordinada administrativamente ao Secretário e tecnicamente à Controladoria Geral do Estado, tem por finalidade executar as atividades de controle interno, no âmbito de sua atuação, em cumprimento às diretrizes da Controladoria Geral do Estado."
 
 § 11 - A Superintendência de Vigilância e Proteção à Saúde tem por finalidade propor e implementar políticas públicas relativas à promoção, vigilância e proteção à saúde, assim como à prevenção e ao controle de doenças e agravos.
@@ -85,17 +86,20 @@ Redação original: "§ 10 - A Coordenação de Controle Interno, unidade sistê
 
 § 15 - A Superintendência de Atenção Integral à Saúde tem por finalidade a formulação, o apoio e o acompanhamento da implementação da Política de Atenção à Saúde no Estado da Bahia, bem como gerenciar, controlar e avaliar as unidades de saúde, sob administração direta e indireta, inclusive monitorar o desenvolvimento dos sistemas municipais de saúde.
 
-Redação de acordo com o art. [35](https://www.legislabahia.ba.gov.br/documentos/lei-no-11373-de-05-de-fevereiro-de-2009#art35) da Lei nº 11.373, de 05 de fevereiro de 2009.<br>
+Redação de acordo com o art. [35](https://www.legislabahia.ba.gov.br/documentos/lei-no-11373-de-05-de-fevereiro-de-2009#art35) da Lei nº 11.373, de 05 de fevereiro de 2009.
+
 Redação original: "§ 10 - A Coordenação de Controle Interno, unidade sistêmica, subordinada administrativamente ao Secretário e tecnicamente à Controladoria Geral do Estado, tem por finalidade executar as atividades de controle interno, no âmbito de sua atuação, em cumprimento às diretrizes da Controladoria Geral do Estado."
 
 § 16 - A Diretoria Executiva do Fundo Estadual de Saúde tem por finalidade gerir os recursos do Fundo Estadual de Saúde ? FES/BA, bem como executar as atividades de administração financeira e contábil, de programação, orçamentação, acompanhamento, avaliação, estudos e análises, em estreita articulação com os Sistemas Financeiro e de Contabilidade do Estado e Estadual de Planejamento.
 
-Redação de acordo com o art. [35](https://www.legislabahia.ba.gov.br/documentos/lei-no-11373-de-05-de-fevereiro-de-2009#art35) da Lei nº 11.373, de 05 de fevereiro de 2009.<br>
+Redação de acordo com o art. [35](https://www.legislabahia.ba.gov.br/documentos/lei-no-11373-de-05-de-fevereiro-de-2009#art35) da Lei nº 11.373, de 05 de fevereiro de 2009.
+
 Redação original: "§ 16 - A Diretoria Executiva do Fundo Estadual de Saúde tem por finalidade gerir os recursos do Fundo Estadual de Saúde - FES/BA executando as atividades de administração financeira e de contabilidade, de planejamento, programação, orçamentação, acompanhamento e avaliação de estudos e análises na aplicação dos recursos do FES/BA, em estreita articulação com os Sistemas Estadual de Planejamento e Financeiro e de Contabilidade do Estado."
 
 § 17 - A Diretoria Geral tem por finalidade executar as atividades de administração de material, patrimônio, serviços, modernização administrativa e informática, bem como das licitações e contratos, em estreita articulação com as unidades centrais dos Sistemas Estadual de Administração e de Gestão de Tecnologia de Informação e Comunicação do Estado da Bahia.
 
-Redação de acordo com o art. [35](https://www.legislabahia.ba.gov.br/documentos/lei-no-11373-de-05-de-fevereiro-de-2009#art35) da Lei nº 11.373, de 05 de fevereiro de 2009.<br>
+Redação de acordo com o art. [35](https://www.legislabahia.ba.gov.br/documentos/lei-no-11373-de-05-de-fevereiro-de-2009#art35) da Lei nº 11.373, de 05 de fevereiro de 2009.
+
 Redação original: "§ 17 - A Diretoria Geral tem por finalidade coordenar os sistemas formalmente instituídos, na sua área de atuação, executar as atividades de execução orçamentária, de administração financeira, de contabilidade, de recursos logísticos, de contratos e convênios, bem como acompanhar e subsidiar os processos licitatórios."
 
 § 18 - As Diretorias Regionais de Saúde têm por finalidade atender a descentralização de responsabilidades administrativas e delegação de atividades de gestão junto às instâncias municipais.
@@ -140,4 +144,176 @@ ANEXO ÚNICO
 
 QUADRO DE CARGOS EM COMISSÃO DA SECRETARIA DA SAÚDE ? SESAB
 
-<table style="border-collapse: collapse; border: none; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt; mso-border-insideh: .5pt solid windowtext; mso-border-insidev: .5pt solid windowtext;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">CARGO</p></td><td style="width: 100.45pt; border: solid windowtext 1.0pt; border-left: none; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">SÍMBOLO</p></td><td style="width: 119.35pt; border: solid windowtext 1.0pt; border-left: none; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">QUANTIDADE</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Subsecretário</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAS-1</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Chefe de Gabinete</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAS-2A</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Superintendente</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAS-2A</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">05</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Diretor Geral</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAS-2B</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Diretor</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAS-2B</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">05</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Diretor</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAS-2C</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">37</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Assessor Especial</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAS-2C</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">05</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Assessor de Comunicação Social</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAS-2C</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Coordenador I</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAS-2C</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">03</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Diretor Adjunto</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAS-2C</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Diretor</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAS-2D</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">64</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Coordenador Técnico</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAS-2D</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">08</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Diretor</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAS-3</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">07</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Coordenador II</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAS-3</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">224</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Assessor Técnico</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAS-3</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">39</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Assessor de Comunicação Social I</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAS-3</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Secretário de Gabinete</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAS-3</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">02</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Assistente de Conselho I</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAS-3</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">03</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Assistente de Conselho II</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAI-4</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Coordenador III</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAI-4</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">347</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Assistente Orçamentário</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAI-4</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">07</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Assistente Administrativo</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAI-4</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">21</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Oficial de Gabinete</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAI-5</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">02</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Coordenador IV</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAI-5</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">520</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Assistente de Execução Orçamentária</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAI-5</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">10</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Secretário Administrativo I</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAI-5</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">49</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Secretário Administrativo II</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAI-6</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">69</p></td></tr><tr><td style="width: 194.9pt; border: solid windowtext 1.0pt; border-top: none; mso-border-top-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="260"><p class="Tabela-Texto">Coordenador V</p></td><td style="width: 100.45pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="134"><p class="Tabela-Texto">DAI-6</p></td><td style="width: 119.35pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; mso-border-top-alt: solid windowtext .5pt; mso-border-left-alt: solid windowtext .5pt; mso-border-alt: solid windowtext .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="159"><p class="Tabela-Texto">136</p></td></tr></tbody></table>
+CARGO
+
+SÍMBOLO
+
+QUANTIDADE
+
+Subsecretário
+
+DAS-1
+
+01
+
+Chefe de Gabinete
+
+DAS-2A
+
+01
+
+Superintendente
+
+DAS-2A
+
+05
+
+Diretor Geral
+
+DAS-2B
+
+01
+
+Diretor
+
+DAS-2B
+
+05
+
+Diretor
+
+DAS-2C
+
+37
+
+Assessor Especial
+
+DAS-2C
+
+05
+
+Assessor de Comunicação Social
+
+DAS-2C
+
+01
+
+Coordenador I
+
+DAS-2C
+
+03
+
+Diretor Adjunto
+
+DAS-2C
+
+01
+
+Diretor
+
+DAS-2D
+
+64
+
+Coordenador Técnico
+
+DAS-2D
+
+08
+
+Diretor
+
+DAS-3
+
+07
+
+Coordenador II
+
+DAS-3
+
+224
+
+Assessor Técnico
+
+DAS-3
+
+39
+
+Assessor de Comunicação Social I
+
+DAS-3
+
+01
+
+Secretário de Gabinete
+
+DAS-3
+
+02
+
+Assistente de Conselho I
+
+DAS-3
+
+03
+
+Assistente de Conselho II
+
+DAI-4
+
+01
+
+Coordenador III
+
+DAI-4
+
+347
+
+Assistente Orçamentário
+
+DAI-4
+
+07
+
+Assistente Administrativo
+
+DAI-4
+
+21
+
+Oficial de Gabinete
+
+DAI-5
+
+02
+
+Coordenador IV
+
+DAI-5
+
+520
+
+Assistente de Execução Orçamentária
+
+DAI-5
+
+10
+
+Secretário Administrativo I
+
+DAI-5
+
+49
+
+Secretário Administrativo II
+
+DAI-6
+
+69
+
+Coordenador V
+
+DAI-6
+
+136

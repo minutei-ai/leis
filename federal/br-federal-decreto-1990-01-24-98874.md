@@ -1,7 +1,3 @@
-1
-
-###DEC-098874-0-000-24-01-1990@@@
-
 DECRETO Nº 98.874, DE 24 DE JANEIRO DE 1990
 
 Dispõe sobre a execução do Estabelecimento do Regime Geral de Origem, da Resolução nº 78, entre o Brasil e a Associação Latino-Americana de Integração ALADI.

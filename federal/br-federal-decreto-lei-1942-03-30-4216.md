@@ -1,5 +1,3 @@
-###DEL-004216-0-000-30-03-1942@@@
-
 DECRETO-LEI N. 4.216 – DE 30 DE MARÇO DE 1942
 
 Prorroga o prazo fixado no artigo 4º do decreto-lei n. 4.166, de 11 de março de 1942.

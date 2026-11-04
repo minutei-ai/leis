@@ -1,7 +1,3 @@
-1
-
-###DEC-001725-0-000-04-12-1995@@@
-
 DECRETO Nº 1.725, DE 4 DE DEZEMBRO DE 1995.
 
 Dispõe sobre a execução do Vigésimo Protocolo Adicional ao Acordo de Complementação Econômica Nº 2, entre Brasil e Uruguai, de 1º de setembro de 1995.

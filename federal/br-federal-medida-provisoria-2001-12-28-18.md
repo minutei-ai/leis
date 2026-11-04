@@ -1,8 +1,12 @@
-###MPV-000018-0-000-28-12-2001@@@
-
 MEDIDA PROVISÓRIA Nº 18, DE 28 DE DEZEMBRO DE 2001.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr style="height:15.75pt"><td style="width:202.35pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"></p></td><td style="width:237.5pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:10.3pt"><span>Dispõe sobre subvenções ao preço e ao transporte do álcool combustível e subsídios ao preço do gás liqüefeito de petróleo - GLP, e dá outras providências.</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr style="height:15.75pt"><td style="width:202.35pt; vertical-align:top">
+
+</td><td style="width:237.5pt; vertical-align:top">
+
+Dispõe sobre subvenções ao preço e ao transporte do álcool combustível e subsídios ao preço do gás liqüefeito de petróleo - GLP, e dá outras providências.
+
+</td></tr></tbody></table>
 
 O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da Constituição, adota a seguinte Medida Provisória, com força de lei:
 

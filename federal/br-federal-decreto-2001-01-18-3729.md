@@ -1,5 +1,3 @@
-###DEC-003729-0-000-18-01-2001@@@
-
 DECRETO Nº 3.729, DE 18 DE JANEIRO DE 2001
 
 Fixa o número de vagas para promoção obrigatória, no ano-base de 2000, para os diversos postos dos Quadros de Oficiais da Aeronáutica.

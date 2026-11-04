@@ -1,5 +1,3 @@
-###DEC-045379-0-000-03-02-1959@@@
-
 DECRETO Nº 45.379, DE 3 DE FEVEREIRO DE 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Getúlio Vargas, no Estado do Rio Grande do Sul.

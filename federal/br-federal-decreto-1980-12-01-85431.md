@@ -1,5 +1,3 @@
-###DEC-085431-0-000-01-12-1980@@@
-
 Decreto nº 85.431, de 01 de dezembro de 1980.
 
 Dispõe sobre o Programa de Expansão e Melhoria do Ensino - PREMEN.

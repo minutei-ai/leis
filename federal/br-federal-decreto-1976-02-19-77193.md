@@ -1,5 +1,3 @@
-###DEC-077193-0-000-19-02-1976@@@
-
 DECRETO Nº 77.193, DE 19 DE FEVEREIRO DE 1976.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

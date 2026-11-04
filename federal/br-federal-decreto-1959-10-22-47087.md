@@ -1,5 +1,3 @@
-###DEC-047087-0-000-22-10-1959@@@
-
 DECRETO Nº 47.087, DE 22 DE OUTUBRO DE 1959.
 
 Atribui ao Serviço de Navegação da Bacia do Prata, do Ministério de Viação e Obras Públicas, a incumbência de promover o aproveitamento parcial do potencial da cachoeira de Sete Quedas, no rio Paraná, município de Guaíra, Estado do Paraná, e dá outras providências.

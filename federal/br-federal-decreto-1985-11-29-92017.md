@@ -1,5 +1,3 @@
-###DEC-092017-0-000-28-11-1985@@@
-
 Decreto nº 92.017, de 28 de novembro de 1985
 
 Concede a Carbonífera Próspera S.A, autorização para proceder a aumento de seu capital social.

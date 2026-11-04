@@ -1,5 +1,3 @@
-###DEL-006801-0-000-17-08-1944@@@
-
 DECRETO-LEI N. 6.801 – DE 17 DE AGÔSTO DE 1944
 
 Autoriza o Instituto Nacional do Sal a distribuir bonificação aos produtores do sal

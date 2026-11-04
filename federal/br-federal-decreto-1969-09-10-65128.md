@@ -1,5 +1,3 @@
-###DEC-065128-0-000-10-09-1969@@@
-
 DECRETO Nº 65.128 - de 10 de Setembro de 1969.
 
 Declara caduco o Decreto nº 11.127, de 23 de dezembro de 1942.

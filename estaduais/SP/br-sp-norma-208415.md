@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208415)<br>
-
 # DECRETO N° 67.888, DE 17 DE AGOSTO DE 2023
 
 ### _Regulamenta o § 1° do artigo 23 da Lei federal n° 14.133, de 1° de abril de 2021, para dispor sobre o procedimento administrativo de definição do valor estimado para aquisição de bens e contratação de serviços em geral, no âmbito da Administração Pública direta e autárquica._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposições Gerais
 
 **Artigo 1° -** Este decreto regulamenta o § 1° do artigo 23 da Lei federal n° 14.133, de 1° de abril de 2021, para dispor sobre o procedimento administrativo de definição do valor estimado para aquisição de bens e contratação de serviços em geral, no âmbito da Administração Pública direta e autárquica.
@@ -19,7 +18,8 @@ Disposições Gerais
 
 2\. não se aplicam às contratações de obras e serviços de engenharia.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Das diretrizes e dos parâmetros para definição do valor estimado
 
 **Artigo 2° -** Na definição do valor estimado, sempre que possível, deverão ser observadas as condições comerciais praticadas, incluindo prazos e locais de entrega, instalação e montagem do bem ou execução do serviço, quantidade contratada, formas e prazos de pagamento, fretes, garantias exigidas e marcas e modelos, quando for o caso, com observância da potencial economia de escala e das peculiaridades do local de execução do objeto.
@@ -88,7 +88,8 @@ e) nome completo e identificação do responsável. 3. os fornecedores serão in
 
 **§ 6° -** Excepcionalmente, será admitida a utilização de dados fora dos prazos estipulados nos incisos deste artigo, desde que devidamente justificada nos autos pelo agente responsável e observado o índice de atualização de preços correspondente.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Do método para definição do valor estimado
 
 **Artigo 4° -** Serão utilizados, como método matemático para definição do valor estimado para a contratação, a média, a mediana ou o menor dos valores obtidos na pesquisa de preços, desde que o cálculo incida sobre um conjunto de três ou mais preços, oriundos de um ou mais dos parâmetros de que trata o artigo 3° deste decreto, desconsiderados, previamente ao cálculo, os valores inexequíveis, inconsistentes e os excessivamente elevados.
@@ -109,7 +110,8 @@ Do método para definição do valor estimado
 
 **Artigo 6° -** Desde que justificado, o valor estimado da contratação poderá ter caráter sigiloso, sem prejuízo da divulgação do detalhamento dos quantitativos e das demais informações necessárias para a elaboração das propostas, salvo na hipótese de licitação cujo critério de julgamento for por maior desconto incidente sobre o valor estimado.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Da formalização do valor estimado
 
 **Artigo 7° -** O valor estimado definido será formalizado em documento que conterá, ao menos, as seguintes informações:
@@ -130,7 +132,8 @@ VII - memória de cálculo do valor estimado e documentos que lhe dão suporte;
 
 VIII - justificativa da escolha dos fornecedores, no caso da pesquisa direta de que dispõe o inciso IV do artigo 3°.
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 Das regras específicas
 
 **Artigo 8° -** A contratação de serviços terceirizados utilizará os valores dos Estudos Técnicos de Serviços Terceirizados - CADTERC, disponíveis no endereço eletrônico http://www. cadterc.sp.gov.br.
@@ -147,7 +150,8 @@ Das regras específicas
 
 **§ 4° -** Na hipótese de dispensa de licitação com base nos incisos I e II do artigo 75 da Lei federal n° 14.133, de 1° de abril de 2021, a estimativa de preços poderá ser realizada concomitantemente à seleção da proposta economicamente mais vantajosa, mediante solicitação formal de cotações a fornecedores.
 
-#### SEÇÃO VI<br>
+#### SEÇÃO VI
+
 Disposições finais
 
 **Artigo 11 -** O Secretário de Gestão e Governo Digital poderá editar normas complementares necessárias à execução do disposto neste decreto.

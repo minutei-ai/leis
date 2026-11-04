@@ -1,5 +1,3 @@
-###DEC-092340-0-000-28-01-1986@@@
-
 DECRETO Nº 92.340, DE 28 DE JANEIRO DE 1986
 
 Autoriza o funcionamento do curso de Agronomia da Faculdade de Ciências Agrárias de Araripina.

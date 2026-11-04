@@ -1,5 +1,3 @@
-###DEC-056151-0-000-27-04-1965@@@
-
 DECRETO Nº 56.151, DE 27 DE ABRIL DE 1965.
 
 Autoriza Pereira & Alves Limitada a pesquisar talco e caulim, no município de Iguape, Estado de São Paulo.

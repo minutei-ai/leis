@@ -1,5 +1,3 @@
-###DEC-048426-0-000-24-06-1960@@@
-
 DECRETO Nº 48.426, DE 24 DE JUNHO DE 1960.
 
 Outorga à Jacó & João Cararo concessão para o aproveitamento de energia hidráulica da queda existente no rio Timbó, Distrito de Caraguatá, Município de Santa Cecília, Estado de Santa Catarina.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000960-0-000-13-10-1993@@@
-
 # DECRETO N° 960, DE 13 DE OUTUBRO DE 1993
 
 Torna mandatórios em todo o território nacional os embargos determinados pela Resolução n° 864/93 do Conselho de Segurança das Nações Unidas contra a União Nacional para a Independência Total de Angola - UNITA.

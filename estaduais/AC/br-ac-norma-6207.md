@@ -2,7 +2,11 @@ Modificada pela Lei nº [4.514, de 02 de Janeiro de 2025.](https://legis.ac.gov.
 
 > **LEI Nº 4.428, DE 29 DE OUTUBRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 2.009, de 2 de julho de 2008, e a Lei Complementar nº 419, de 15 de dezembro de 2022, e revoga a Lei nº 984, de 4 de julho de 1991, para dispor sobre a estrutura e a vinculação da Coordenadoria Estadual de Proteção e Defesa Civil.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 2.009, de 2 de julho de 2008, e a Lei Complementar nº 419, de 15 de dezembro de 2022, e revoga a Lei nº 984, de 4 de julho de 1991, para dispor sobre a estrutura e a vinculação da Coordenadoria Estadual de Proteção e Defesa Civil.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -73,8 +77,6 @@ Modificada pela Lei nº [4.514, de 02 de Janeiro de 2025.](https://legis.ac.gov.
 **§ 13-A.** O Diretor Executivo de Proteção e Defesa Civil perceberá gratificação na forma do § 1º do art. 24 da Lei nº 2009, de 2 de julho de 2008.
 
 ...” **(NR)**
-
-<br>
 
 **Art. 2º-A** O exercício dos cargos de Coordenador Estadual de Proteção e Defesa Civil e Diretor Executivo de Proteção e Defesa Civil deve ser considerado, para todos os efeitos, como de efetivo serviço nos postos correspondentes. (Incluído pela Lei nº 4.514, de 02/01/2025)
 

@@ -1,5 +1,3 @@
-###DEC-066893-0-000-17-07-1970@@@
-
 DECRETO Nº 66.893, DE 17 DE JULHO DE 1970.
 
 Declara caduco o Decreto nº 26.600, de 19 de abril de 1949.

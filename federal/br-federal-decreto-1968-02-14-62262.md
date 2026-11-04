@@ -1,5 +1,3 @@
-###DEC-062262-0-000-14-02-1968@@@
-
 DECRETO Nº 62.262, DE 14 DE FEVEREIRO DE 1968.
 
 Declara de utilidade pública a “Sociedade Beneficente de Campo Grande”, com sede em Campo Grande, Estado de Mato Grosso.

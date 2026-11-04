@@ -1,5 +1,3 @@
-###DEC-007871-0-000-21-12-2012-PUB-01@@@
-
 DECRETO Nº 7.871, DE 21 DE DEZEMBRO DE 2012
 
 Dispõe sobre as condições de delegação da exploração de aeródromos civis públicos por meio de autorização.

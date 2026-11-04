@@ -1,5 +1,3 @@
-###DEC-093925-0-000-14-01-1987@@@
-
 DECRETO Nº 93.925, DE 14 DE JANEIRO DE 1987
 
 Autoriza o funcionamento do curso de Fonoaudiologia da Faculdade de Ciências da Saúde São Camilo, em São Paulo - SP.

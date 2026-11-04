@@ -1,5 +1,3 @@
-###DEC-083359-0-000-23-04-1979@@@
-
 Decreto nº 83.359, de 23 de abril de 1979.
 
 Concede autorização a CELANESE DO BRASIL FIBRAS QUÍMICAS LTDA, com sede no Estado de São Paulo, para o funcionamento aos domingos e feriados civis e religioso nos setores que menciona, do seu estabelecimento industrial situado em São Bernardo do Campo no Estado de São Paulo.

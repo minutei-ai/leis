@@ -1,5 +1,3 @@
-###DEL-007175-0-000-20-12-1944@@@
-
 DECRETO-LEI N. 7.175 – DE 20 DE DEZEMBRO DE 1944
 
 Dispõe sôbre o pessoal do Departamento Nacional do Café

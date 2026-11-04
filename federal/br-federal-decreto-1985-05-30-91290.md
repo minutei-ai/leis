@@ -1,5 +1,3 @@
-###DEC-091290-0-000-30-05-1985@@@
-
 Decreto nº 91.290, de 30 de maio de 1985
 
 Desapropria as ações dos conglomerados Sul Brasileiro e Habitasul e dá outras providências.

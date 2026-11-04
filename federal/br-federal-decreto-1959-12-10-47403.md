@@ -1,5 +1,3 @@
-###DEC-047403-0-000-10-12-1959@@@
-
 DECRETO Nº 47.403, DE 10 DE DEZEMBRO DE 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação que faz o Município de Ponta Grossa, Estado do Paraná, de um terreno necessário ao Ministério da Guerra.

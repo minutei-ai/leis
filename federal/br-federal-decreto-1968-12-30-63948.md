@@ -1,5 +1,3 @@
-###DEC-063948-0-000-30-12-1968@@@
-
 DECRETO Nº 63.948, DE 30 DE DEZEMBRO DE 1968.
 
 Abre, ao Poder Judiciário, em favor da Justiça Federal de Primeira Instância, o crédito especial de NCr$ 227.521,20.

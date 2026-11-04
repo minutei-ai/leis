@@ -1,5 +1,3 @@
-###DEC-081243-0-000-23-01-1978@@@
-
 Decreto nº 81 243, de 23 de janeiro de 1978.
 
 Concede à Metais de Minas Gerais S.A. - METAMIG o direito de lavrar calcário nos Municípios de Arcos e Pains, Estado de Minas Gerais.

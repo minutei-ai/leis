@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211112)<br>
-
 # LEI N° 18.157, DE 27 DE JUNHO DE 2025
 
 ## (Projeto de lei n° 592/2020, do Deputado Gil Diniz - PL)

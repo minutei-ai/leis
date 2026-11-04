@@ -1,5 +1,3 @@
-###DEC-047649-0-000-15-01-1960@@@
-
 DECRETO Nº 47.649, DE 15 DE JANEIRO DE 1960.
 
 Autoriza a cidadã brasileira Angelina Gilardi Fazzini a pesquisar areia quartozosa, no município de Peruíba, Estado de São Paulo.

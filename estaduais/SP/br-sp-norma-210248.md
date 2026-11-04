@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210248)<br>
-
 # DECRETO N° 69.074, DE 22 DE NOVEMBRO DE 2024
 
 ### _Transfere, da Secretaria de Cultura, Economia e Indústria Criativas para a Secretaria da Justiça e Cidadania, a administração do imóvel que especifica, localizado no Município de São Paulo._

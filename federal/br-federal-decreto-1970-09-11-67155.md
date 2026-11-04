@@ -1,5 +1,3 @@
-###DEC-067155-0-000-11-09-1970@@@
-
 decreto nº 67.155, de 11 de setembro de 1970.
 
 Autoriza funcionamento de Curso.

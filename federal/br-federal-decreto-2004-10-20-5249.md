@@ -1,5 +1,3 @@
-###DEC-005249-0-000-20-10-2004@@@
-
 DECRETO Nº 5.249 DE 20 DE OUTUBRO DE 2004
 
 Dá nova redação ao inciso XI do § 2º do art. 1o do Decreto nº 5.163, de 30 de julho de 2004, que regulamenta a comercialização de energia elétrica, o processo de outorga de concessões e de autorizações de geração de energia elétrica.

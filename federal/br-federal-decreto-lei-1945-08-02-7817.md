@@ -1,5 +1,3 @@
-###DEL-007817-0-000-02-08-1945@@@
-
 DECRETO-LEI N. 7.817 – DE 2 DE AGÔSTO DE 1945
 
 Abre ao Ministério das Relações Exteriores o crédito suplementar de Cr$ 200.000,00, à verba que especifica.

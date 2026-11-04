@@ -1,5 +1,3 @@
-###DEC-058974-0-000-03-08-1966@@@
-
 Decreto nº 58.974, de 3 de agôsto de 1966.
 
 Autoriza sociedade por ações, com sede em Roma, Itália, a adquirir, em transferência de aforamento, o domínio útil do terreno de marinha que menciona, no Estado da Guanabara.

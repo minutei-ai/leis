@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ac5c0cde-5e76-4369-8d44-96f9acd3b579/texto#nowhere)
 
-###DEL-000892-0-000-26-09-1969@@@
-
 DECRETO-LEI Nº 892, DE 26 DE SETEMBRO DE 1969
 
 Autoriza a emissão de Obrigações Reajustáveis do Tesouro Nacional até o limite de NCr$30.000.000,00 (trinta milhões de cruzeiros novos), nas condições que menciona e dá outras providências.

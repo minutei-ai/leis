@@ -1,6 +1,10 @@
 > **LEI Nº 4.073, DE 26 DE DEZEMBRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a instituição da meia-entrada para professores da rede pública estadual e municipal de ensino em estabelecimentos que proporcionem lazer e entretenimento.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a instituição da meia-entrada para professores da rede pública estadual e municipal de ensino em estabelecimentos que proporcionem lazer e entretenimento.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

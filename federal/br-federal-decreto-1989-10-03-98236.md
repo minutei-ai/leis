@@ -1,7 +1,3 @@
-1
-
-###DEC-098236-0-000-03-10-1989@@@
-
 DECRETO Nº 98.236, DE 3 DE OUTUBRO DE 1989
 
 Revoga o Decreto nº 87.545, de 3 de setembro de 1982, que autoriza o funcionamento jurídico da empresa de transporte aéreo FLYING TIGER LINE INC. no Brasil.

@@ -1,5 +1,3 @@
-###DEC-086754-0-000-18-12-1981@@@
-
 Decreto nº 86.754, de 18 de dezembro de 1981
 
 Dispensa a licitação na alienação de terras públicas que menciona e dá outras providências.

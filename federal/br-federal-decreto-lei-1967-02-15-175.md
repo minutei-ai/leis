@@ -1,5 +1,3 @@
-###DEL-000175-0-000-15-02-1967@@@
-
 DECRETO-LEI Nº 175, DE 15 De FEVEREIRO DE 1967
 
 Autoriza o Poder Executivo a abrir, pelo Ministério da Fazenda, o crédito especial que menciona, e dá outras providências.

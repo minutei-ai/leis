@@ -1,5 +1,3 @@
-###DEC-071316-0-000-06-11-1972@@@
-
 DECRETO Nº 71.316 - DE 6 DE NOVEMBRO DE 1972.
 
 Aprova a alteração dos artigos 6º e 29 dos Estatutos da EMBRAER - Empresa Brasileira de Aeronáutica S.A.

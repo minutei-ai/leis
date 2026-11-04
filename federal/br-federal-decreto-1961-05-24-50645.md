@@ -1,5 +1,3 @@
-###DEC-050645-0-000-24-05-1961@@@
-
 DECRETO Nº 50.645, DE 24 DE MAIO DE 1961.
 
 Altera o Regulamento do Serviço de Identificação da Aeronáutica.

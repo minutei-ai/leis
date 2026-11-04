@@ -1,5 +1,3 @@
-###DEL-003808-0-000-07-11-1941@@@
-
 DECRETO-LEI N. 3.808 – DE 7 DE NOVEMBRO DE 1941
 
 Reorganiza a Secção de Segurança Nacional, do Ministério da Viação e Obras Públicas

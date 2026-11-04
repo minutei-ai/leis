@@ -1,5 +1,3 @@
-###DEC-001905-0-000-16-05-1996@@@
-
 # DECRETO Nº 1.905 DE 16 DE MAIO DE 1996.
 
 Promulga a Convenção sobre Zonas Úmidas de Importância Internacional, especialmente como Habitat de Aves Aquáticas, conhecida como Convenção de Ramsar, de 02 de fevereiro de 1971.

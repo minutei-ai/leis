@@ -1,5 +1,3 @@
-###DEC-078576-0-000-14-10-1976@@@
-
 DECRETO Nº 78.576, DE 14 DE OUTUBRO DE 1976.
 
 Fixa o fator de reajustamento salarial relativo a outubro de 1976.

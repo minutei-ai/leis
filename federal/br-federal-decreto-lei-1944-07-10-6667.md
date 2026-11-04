@@ -1,5 +1,3 @@
-###DEL-006667-0-000-10-07-1944@@@
-
 DECRETO-LEI N. 6.667 – DE 10 DE JULHO DE 1944
 
 Autoriza a emissão de "Letras do Tesouro"

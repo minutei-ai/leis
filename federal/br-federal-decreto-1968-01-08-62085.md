@@ -1,5 +1,3 @@
-###DEC-062085-0-000-08-01-1968@@@
-
 DECRETO Nº 62.085, DE 8 DE JANEIRO DE 1968.
 
 Autoriza a Emprêsa de Mineração do Planalto Ltda. a lavrar água mineral natural no município de Luziânia, Estado de Goiás.

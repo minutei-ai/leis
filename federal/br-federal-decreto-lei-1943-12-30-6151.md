@@ -1,5 +1,3 @@
-###DEL-006151-0-000-30-12-1943@@@
-
 DECRETO‑LEI N. 6.151 – DE 30 DE DEZEMBRO DE 1943
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 20.000.000,00, para aquisição de terrenos do antigo Derby Clube

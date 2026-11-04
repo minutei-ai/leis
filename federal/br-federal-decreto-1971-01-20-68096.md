@@ -1,5 +1,3 @@
-###DEC-068096-0-000-20-01-1971@@@
-
 DECRETO Nº 68.096, DE 20 DE JANEIRO DE 1971.
 
 Declara de utilidade pública a Conferência Vicentina Nossa Senhora dos Anjos, com sede em Itambacuri, Estado de Minas Gerais.

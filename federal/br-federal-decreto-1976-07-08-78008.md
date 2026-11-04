@@ -1,5 +1,3 @@
-###DEC-078008-0-000-08-07-1976@@@
-
 DECRETO Nº 78.008, DE 8 DE JULHO DE 1976.
 
 Concede reconhecimento ao curso de Geografia, da Faculdade de Filosofia, Ciências e Letras de Cajazeiras, com sede na cidade de Cajazeiras, Estado da Paraíba.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001335-0-000-09-12-1994@@@
-
 DECRETO Nº 1.335, DE 9 DE DEZEMBRO DE 1994
 
 Altera a redação do art. 1º do Decreto nº 408, de 27 de dezembro de 1991, alterado pelo Decreto nº 695, de 8 de dezembro de 1992, que regulamenta o art. 3º da Lei nº 8.242, de 12 de outubro de 1991, e dá outras providências.

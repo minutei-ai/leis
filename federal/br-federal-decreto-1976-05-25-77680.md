@@ -1,5 +1,3 @@
-###DEC-077680-0-000-25-05-1976@@@
-
 DECRETO Nº 77.680, DE 25 DE MAIO DE 1976
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona.

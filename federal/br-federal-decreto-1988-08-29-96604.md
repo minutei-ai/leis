@@ -1,5 +1,3 @@
-###DEC-096604-0-000-29-08-1988@@@
-
 DECRETO Nº 96.604, DE 29 DE AGOSTO DE 1988
 
 Introduz artigo no Estatuto da Petróleo Brasileiro S/A  PETROBRÁS.

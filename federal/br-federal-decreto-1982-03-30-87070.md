@@ -1,5 +1,3 @@
-###DEC-087070-0-000-30-03-1982@@@
-
 DECRETO Nº 87.070, DE 30 de março de 1982
 
 Autoriza o aumento de potência da SOBRAL - SOCIEDADE BUTIAENSE DE RADIODIFUSÃO LTDA., na cidade de Butiá, Estado do Rio Grande do Sul.

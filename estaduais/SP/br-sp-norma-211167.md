@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211167)<br>
-
 # DECRETO N° 69.680, DE 08 DE JULHO DE 2025
 
 ### _Institui, sob a coordenação da Secretaria de Desenvolvimento Econômico, a Política de Inclusão Produtiva e Empregabilidade para o Desenvolvimento Econômico do Estado de São Paulo, o Fórum de Qualificação Profissional e o Programa Trampolim, e dá outras providências._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Das Disposições Gerais
 
 **Artigo 1° -** Este decreto institui, sob a coordenação da Secretaria de Desenvolvimento Econômico, a Política de Inclusão Produtiva e Empregabilidade para o Desenvolvimento Econômico do Estado de São Paulo.
@@ -27,7 +26,8 @@ V - ativos sociais: recursos, redes ou estruturas sociais que têm valor e podem
 
 VI - vocações econômicas territoriais: conjunto de atividades econômicas que refletem o potencial que determinada região possui para desenvolver setores de mercado com base em suas características específicas, como recursos naturais, localização geográfica, clima, história, cultura e habilidades da população local.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Dos Princípios e Objetivos
 
 **Artigo 3° -** A Política de Inclusão Produtiva e Empregabilidade para o Desenvolvimento Econômico do Estado de São Paulo reger-se-á pelos seguintes objetivos gerais:
@@ -60,7 +60,8 @@ VII- incentivar, reconhecer e disseminar boas práticas voltadas à geração de
 
 VIII- instituir metodologias de gestão por evidências e resultados, alçando-as como fundamentos essenciais dos programas e ações, assegurando monitoramento, avaliação contínua e melhoria constante da política pública de inclusão produtiva e empregabilidade.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Dos Públicos Prioritários
 
 **Artigo 5° -** Para fins do disposto neste decreto, a Secretaria de Desenvolvimento Econômico poderá instituir programas e ações de inclusão produtiva para públicos específicos, em especial para:
@@ -89,10 +90,12 @@ XI - mulheres em situação de violência doméstica e familiar, em observância
 
 **Parágrafo único -** Para a finalidade prevista no "caput" deste artigo, serão constituídos grupos prioritários transversais e cumulativos da política de que trata este decreto, visando à execução de suas ações.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Dos Instrumentos da Política de Inclusão Produtiva e Empregabilidade para o Desenvolvimento Econômico
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Da Qualificação Profissional e Empreendedora
 
 **Artigo 6° -** A qualificação profissional e empreendedora compreende a oferta de formação destinada ao desenvolvimento de competências técnicas, comportamentais e empreendedoras, por meio de cursos, oficinas, mentorias e trilhas de aprendizagem alinhadas às demandas do mercado de trabalho.
@@ -111,7 +114,8 @@ V - disponibilizar ofertas de formação que contemplem conteúdos técnicos, in
 
 VI - assegurar a coerência entre os conteúdos formativos oferecidos e as vocações econômicas regionais, as transformações do mercado de trabalho e os contextos sociais específicos dos públicos atendidos.
 
-#### SUBSEÇÃO I<br>
+#### SUBSEÇÃO I
+
 Do Fórum de Qualificação Profissional
 
 **Artigo 8° -** Fica instituído o Fórum de Qualificação Profissional sob a coordenação da Secretaria de Desenvolvimento Econômico, com o objetivo de:
@@ -168,7 +172,8 @@ XI - de Serviços Sociais Autônomos e das entidades integrantes do Sistema "S",
 
 **§ 5° -** A presidência do Fórum poderá convidar, para participar das reuniões, sem prerrogativa de membros, outros representantes de órgãos e entidades públicas, privadas e da sociedade civil que, por seus conhecimentos e experiência, possam contribuir para a discussão ou implementação das propostas em exame.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Da Gestão Estadual do Sistema Nacional de Emprego (SINE)
 
 **Artigo 11 -** Os Postos de Atendimento ao Trabalhador (PATs), sob a coordenação da Secretaria de Desenvolvimento Econômico, constituem a principal estratégia de operacionalização da gestão estadual do Sistema Nacional de Emprego (SINE), com o objetivo de promover o acesso da população:
@@ -193,7 +198,8 @@ III- observar as diretrizes e normativas federais estabelecidas pelo Ministério
 
 **Artigo 14 -** Os Postos de Atendimento ao Trabalhador (PATs) poderão ser operados diretamente pela Secretaria de Desenvolvimento Econômico ou em parceria com Municípios paulistas, por meio da celebração de convênios.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Do Pacto pela Inclusão Produtiva e Empregabilidade
 
 **Artigo 15 -** O Pacto pela Inclusão Produtiva e Empregabilidade no Estado de São Paulo é instrumento de adesão voluntária, que visa promover um ambiente colaborativo, integrado e inovador para a geração de oportunidades de trabalho, renda e qualificação profissional em todas as regiões do Estado.
@@ -242,7 +248,8 @@ IV - publicar relatórios de progresso e resultados obtidos;
 
 V - estabelecer mecanismos de reconhecimento e certificação das organizações signatárias que demonstrarem atuação efetiva e compromisso com os objetivos da Política de Inclusão Produtiva e Empregabilidade, conforme critérios técnicos definidos pela Subsecretaria de Inclusão Produtiva e Empregabilidade.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Do Programa Trampolim
 
 **Artigo 20 -** Fica instituído, junto à Secretaria de Desenvolvimento Econômico, o Programa Trampolim, visando garantir a atuação transversal dos instrumentos que compõem a Política de Inclusão Produtiva e Empregabilidade para o Desenvolvimento Econômico do Estado de São Paulo.
@@ -271,7 +278,8 @@ I - as diretrizes da Lei federal n° 13.709, de 14 de agosto de 2018 - Lei Geral
 
 II - os padrões tecnológicos e metodológicos definidos pela Secretaria de Desenvolvimento Econômico, com observância da Política de Governança de Dados e Informações - PGDI e da Política de Proteção de Dados Pessoais - PPDP, editadas pelo Comitê Gestor de Governança de Dados e Informações do Estado de São Paulo, instituído pelo [Decreto n° 64.790, de 13 de fevereiro de 2020](https://www.al.sp.gov.br/norma/193127).
 
-#### SUBSEÇÃO I<br>
+#### SUBSEÇÃO I
+
 Da Cooperação com Municípios
 
 **Artigo 23 -** Os Municípios paulistas poderão aderir à Política de Inclusão Produtiva e Empregabilidade para o Desenvolvimento Econômico, por intermédio do Programa Trampolim.
@@ -286,7 +294,8 @@ Da Cooperação com Municípios
 
 4\. a participação em programas, formações e iniciativas promovidas pelo Estado, com foco na qualificação profissional, empregabilidade e geração de renda.
 
-#### SUBSEÇÃO II<br>
+#### SUBSEÇÃO II
+
 Da Inteligência Territorial e da Inovação Aplicada à Empregabilidade
 
 **Artigo 24 -** O Programa Trampolim contará com o desenvolvimento e a aplicação de estratégias baseadas em inteligência territorial e inovação, com o objetivo de:
@@ -301,7 +310,8 @@ I - a implantação de sistemas e práticas de coleta, cruzamento, visualizaçã
 
 II - o estabelecimento da rede de dados e informações sobre inclusão produtiva e empregabilidade, com a finalidade de integrar, sistematizar, atualizar e disponibilizar informações qualificadas sobre políticas, programas, serviços, iniciativas, públicos atendidos, territórios e resultados relacionados à inclusão produtiva e à empregabilidade no Estado de São Paulo.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Da Governança e Implementação
 
 **Artigo 26 -** A governança da Política de Inclusão Produtiva e Empregabilidade para o Desenvolvimento Econômico do Estado de São Paulo será exercida pela Secretaria de Desenvolvimento Econômico em estreita colaboração com outros órgãos e entidades da administração pública estadual, Municípios e consórcios municipais.

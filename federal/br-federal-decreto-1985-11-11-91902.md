@@ -1,5 +1,3 @@
-###DEC-091902-0-000-11-11-1985@@@
-
 Decreto nº 91.902, de 11 de novembro de 1985
 
 Regulamenta a Lei nº 7.360, de 10 de setembro de 1985, que altera dispositivos do Decreto lei nº 972, de 17 de outubro de 1969.

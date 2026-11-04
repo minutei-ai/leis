@@ -1,5 +1,3 @@
-###DEC-061508-0-000-10-10-1967@@@
-
 Decreto nº 61.508, de 10 de outubro de 1967.
 
 Abre ao Ministério do Interior - Departamento Nacional de Obras de Saneamento, o crédito especial de NCr$2.545.000,00 (dois milhões quinhentos e quarenta e cinco mil cruzeiros novos), para o fim que especifica.

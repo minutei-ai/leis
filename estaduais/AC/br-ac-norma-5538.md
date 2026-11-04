@@ -1,6 +1,6 @@
 > **LEI Nº 4.086, DE 16 DE MARÇO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei nº 1.781, de 3 de julho de 2006, que dispõe sobre a instituição do Plano de Cargos, Funções, Carreira e Remuneração dos servidores do Tribunal de Contas do Estado do Acre, e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+Altera dispositivos da Lei nº 1.781, de 3 de julho de 2006, que dispõe sobre a instituição do Plano de Cargos, Funções, Carreira e Remuneração dos servidores do Tribunal de Contas do Estado do Acre, e dá outras providências.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -46,6 +46,100 @@ Altera o Anexo IV a Lei nº 1.781, de 3 de julho de 2006
 
 **QUADRO DE CARGOS EM COMISSÃO E FUNÇÕES GRATIFICADAS**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>CARGOS E FUNÇÕES</span></strong></span></p></td><td><p><span><strong><span>PROVIMENTO</span></strong></span></p></td><td><p><span><strong><span>QUANTIDADE</span></strong></span></p></td><td><p><span><strong><span>VENCIMENTO</span></strong></span></p></td></tr><tr><td><p><span><span>...</span></span></p></td><td><p><span><span>...</span></span></p></td><td><p><span><span>...</span></span></p></td><td><p><span><span>...</span></span></p></td></tr><tr><td><p><span><span>Assessor Técnico de Procurador do MPE</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>8</span></span></p></td><td><p><span><span>8.501,06</span></span></p></td></tr><tr><td><p><span><span>...</span></span></p></td><td><p><span><span>...</span></span></p></td><td><p><span><span>...</span></span></p></td><td><p><span><span>...</span></span></p></td></tr><tr><td><p><span><span>Assessoria Administrativa</span></span></p></td><td><p><span><span>FG-02</span></span></p></td><td><p><span><span>20</span></span></p></td><td><p><span><span>1.700,21</span></span></p></td></tr><tr><td><p><span><span>Assistente Administrativo</span></span></p></td><td><p><span><span>FG-01</span></span></p></td><td><p><span><span>14</span></span></p></td><td><p><span><span>850,10</span></span></p></td></tr><tr><td><p><span><span>...</span></span></p></td><td><p><span><span>...</span></span></p></td><td><p><span><span>...</span></span></p></td><td><p><span><span>...</span></span></p></td></tr><tr><td><p><span><span>Assessoria Administrativa do MPE</span></span></p></td><td><p><span><span>FG-02</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>1.700,21</span></span></p></td></tr><tr><td><p><span><span>Assistente Administrativo do MPE</span></span></p></td><td><p><span><span>FG-01</span></span></p></td><td><p><span><span>2</span></span></p></td><td><p><span><span>850,10</span></span></p></td></tr><tr><td><p><span><span>Chefe de Gabinete da Vice-Presidência</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>8.501,06</span></span></p></td></tr><tr><td><p><span><span>Assessor Técnico da 1ª Câmara&nbsp;</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>8.501,06</span></span></p></td></tr><tr><td><p><span><span>Assessor Técnico da 2ª Câmara&nbsp;</span></span></p></td><td><p><span><span>CC/FG-03</span></span></p></td><td><p><span><span>1</span></span></p></td><td><p><span><span>8.501,06</span></span></p></td></tr></tbody></table>
+**CARGOS E FUNÇÕES**
+
+**PROVIMENTO**
+
+**QUANTIDADE**
+
+**VENCIMENTO**
+
+...
+
+...
+
+...
+
+...
+
+Assessor Técnico de Procurador do MPE
+
+CC/FG-03
+
+8
+
+8.501,06
+
+...
+
+...
+
+...
+
+...
+
+Assessoria Administrativa
+
+FG-02
+
+20
+
+1.700,21
+
+Assistente Administrativo
+
+FG-01
+
+14
+
+850,10
+
+...
+
+...
+
+...
+
+...
+
+Assessoria Administrativa do MPE
+
+FG-02
+
+1
+
+1.700,21
+
+Assistente Administrativo do MPE
+
+FG-01
+
+2
+
+850,10
+
+Chefe de Gabinete da Vice-Presidência
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Assessor Técnico da 1ª Câmara
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Assessor Técnico da 2ª Câmara
+
+CC/FG-03
+
+1
+
+8.501,06
 
 ” **(NR)**

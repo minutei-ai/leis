@@ -1,5 +1,3 @@
-###DEC-055328-0-000-31-12-1964@@@
-
 DECRETO Nº 55.328, DE 31 DE DEZEMBRO DE 1964.
 
 Concede à Mina da Boa Vista S. A. autorização para funcionar como emprêsa de mineração.

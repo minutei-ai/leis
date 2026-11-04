@@ -1,5 +1,3 @@
-###DEC-062051-0-000-05-01-1968@@@
-
 DECRETO Nº 62.051, DE 5 DE JANEIRO DE 1968.
 
 Autoriza Ravena Mineração Ltda., a lavrar minério de ferro, no município de Sabará, Estado de Minas Gerais.

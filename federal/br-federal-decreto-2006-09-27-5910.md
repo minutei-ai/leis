@@ -1,5 +1,3 @@
-###DEC-005910-0-000-27-09-2006@@@
-
 DECRETO Nº 5.910, DE 27 DE SETEMBRO DE 2006.
 
 Promulga a Convenção para a Unificação de Certas Regras Relativas ao Transporte Aéreo Internacional, celebrada em Montreal, em 28 de maio de 1999.
@@ -24,11 +22,7 @@ Brasília, 27 de setembro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 28.9.2006.
-
-CONVENÇÃO PARA A UNIFICAÇÃO DE CERTAS REGRAS RELATIVAS AO TRANSPORTE AÉREO INTERNACIONAL
+        Celso Luiz Nunes AmorimCONVENÇÃO PARA A UNIFICAÇÃO DE CERTAS REGRAS RELATIVAS AO TRANSPORTE AÉREO INTERNACIONAL
 
 OS ESTADOS PARTES NA PRESENTE CONVENÇÃO:
 

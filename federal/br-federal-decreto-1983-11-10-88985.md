@@ -1,5 +1,3 @@
-###DEC-088985-0-000-10-11-1983@@@
-
 Decreto nº 88.985, de 10 de novembro de 1983
 
 Regulamenta os artigos 44 e 45 da Lei nº 6.001, de 19 de dezembro de 1973, e dá outras providências.

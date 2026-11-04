@@ -1,5 +1,3 @@
-###DEC-051209-0-000-18-08-1961@@@
-
 DECRETO Nº 51.209, DE 18 DE AGÔSTO DE 1961.
 
 Aprova as novas especificações para a classificação e fiscalização da exportação da “Castanha do Brasil”.

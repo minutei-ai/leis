@@ -1,5 +1,3 @@
-###DEL-009437-0-000-08-07-1946@@@
-
 DECRETO-LEI N. 9.437 – DE 8 DE JULHO DE 1946
 
 Suprime cargos no Quadro do Pessoal do Território Federal do Rio Branco.

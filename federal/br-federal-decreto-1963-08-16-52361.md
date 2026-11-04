@@ -1,5 +1,3 @@
-###DEC-052361-0-000-16-08-1963@@@
-
 DECRETO Nº 52.361, DE 16 DE AGÔSTO DE 1963.
 
 Declara de utilidade pública a Associação Brasileira de Educadores Lassalistas, com sede em São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-067678-0-000-30-11-1970@@@
-
 decreto nº 67.678, de 30 de novembro de 1970.
 
 Concede reajustamento salarial aos servidores que indica, e dá outras providências.

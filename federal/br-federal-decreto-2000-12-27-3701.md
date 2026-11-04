@@ -1,5 +1,3 @@
-###DEC-003701-0-000-27-12-2000@@@
-
 DECRETO Nº 3.701, DE 27 DE DEZEMBRO DE 2000.
 
 Dispõe sobre a contratação de operações de crédito ao amparo do Programa de Revitalização de Cooperativas de Produção Agropecuária - RECOOP, de que tratam os Decretos nºs 2.936, de 11 de janeiro de 1999, 3.263, de 25 de novembro de 1999, e dá outras providências.

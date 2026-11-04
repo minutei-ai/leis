@@ -1,5 +1,3 @@
-###DEC-005462-0-000-09-06-2005@@@
-
 DECRETO Nº 5.462, DE 9 DE JUNHO DE 2005
 
 Dispõe sobre a execução do Segundo Protocolo Adicional ao Acordo de Alcance Parcial sobre Transporte Internacional Terrestre, entre os Governos da República Federativa do Brasil, da República Argentina, da República da Bolívia, da República do Chile, da República do Paraguai, da República do Peru e da República Oriental do Uruguai, de 16 de fevereiro de 2005.

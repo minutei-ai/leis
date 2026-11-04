@@ -1,5 +1,3 @@
-###DEL-007010-0-000-31-10-1944@@@
-
 DECRETO-LEI N. 7.010 – DE 31 DE OUTUBRO DE 1944
 
 Autoriza a cessão de terreno ao Estado da Bahia

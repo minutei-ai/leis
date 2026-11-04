@@ -1,5 +1,3 @@
-###DEC-005415-0-000-07-04-2005@@@
-
 DECRETO Nº 5.415 DE 7 DE ABRIL DE 2005
 
 Autoriza a prorrogação do prazo para assinatura do contrato de concessão outorgado à empresa VASP -  Viação Aérea São Paulo S.A., para a execução de serviços aéreos, e dá outras providências.

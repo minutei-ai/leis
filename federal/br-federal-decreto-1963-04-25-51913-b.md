@@ -1,5 +1,3 @@
-###DEC-051913-B-000-25-04-1963@@@
-
 Decreto nº 51.913-B, de 25 de abril de 1963.
 
 Autoriza a Companhia Paulista de Fôrça e Luz S.A. a ampliar suas instalações.

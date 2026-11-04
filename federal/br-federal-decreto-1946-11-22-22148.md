@@ -1,30 +1,28 @@
-###DEC-022148-0-000-22-11-1946@@@
+**DECRETO N. 22.148 – DE 22 DE NOVEMBRO DE 1946**
 
-<strong>DECRETO N. 22.148 – DE 22 DE NOVEMBRO DE 1946</strong>
-
-<em><strong>Aprova o Regimento do Serviço do Patrimônio da União, do Ministério da Fazenda</strong></em>
+***Aprova o Regimento do Serviço do Patrimônio da União, do Ministério da Fazenda***
 
 O Presidente da República, usando da  atribuição que lhe confere o artigo 87, nº I, da constituição,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Serviço do Patrimônio da União., (S. P. U.) que, assinado pelo Ministro de Estado dos Negócios da Fazenda, como êste baixa.
+**Art**. 1º Fica aprovado o Regimento do Serviço do Patrimônio da União., (S. P. U.) que, assinado pelo Ministro de Estado dos Negócios da Fazenda, como êste baixa.
 
-<strong>Art</strong>. 2º Fica revogado o Decreto nº 6.602, de 5 de Setembro de 1944, e demais disposições em contrário.
+**Art**. 2º Fica revogado o Decreto nº 6.602, de 5 de Setembro de 1944, e demais disposições em contrário.
 
 Rio de Janeiro, 22 de Novembro de 1946, 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
-Corrêa e Costro<em>.</em>
+Corrêa e Costro*.*
 
-<h1 style="margin-top:6pt; margin-bottom:24pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>REGIMENTO DO SERVIÇO DO PATRIMÔNIO DA UNIÃO</strong></span></span></h1>
+# **REGIMENTO DO SERVIÇO DO PATRIMÔNIO DA UNIÃO**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º O Serviço do Patrimônio da União (S. P. U.), órgão integrante do Ministério da Fazenda, diretamente subordinado à Direção Geral da Fazenda Nacional, tem por finalidade defender, guardar e conservar o patrimônio imóvel da União e promover a prosperidade do mesmo, cabendo-lhe, especificadamente:
+**Art**. 1º O Serviço do Patrimônio da União (S. P. U.), órgão integrante do Ministério da Fazenda, diretamente subordinado à Direção Geral da Fazenda Nacional, tem por finalidade defender, guardar e conservar o patrimônio imóvel da União e promover a prosperidade do mesmo, cabendo-lhe, especificadamente:
 
 I – cadastrar e fazer o tombamento dos bens imóveis da União, diretamente, com a colaboração de repartições federais ou mediante ajustes, contratos ou regime de tarefa, de acôrdo, no que fôr aplicável, com as disposições contidas no Decreto-lei n.º 6.749, de 29 de Julho de 1944, observadas as normas que forem fixadas para a sua execução;
 
@@ -64,17 +62,17 @@ XVIII – expedir títulos de domínio e posse concernentes a bens imóveis da U
 
 XIX – autorizar a demolição de prédios e outras construções da União, quando o conselharem as suas condições de estabilidade ou o exigirem plano de obra aprovado pelo Govêrno.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
- <em>DA ORGANIZAÇÃO</em>
+ *DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º O S. P. U. é constituído de:
+**Art**. 2º O S. P. U. é constituído de:
 
 I – órgão Central; supervisor e controlador, com a seguinte composição:
 
 a) Divisão de concessões, Vendas e Aquisições (D.A.);
 
-b<em>)</em> Divisão de Cadastro (D.C.);
+b*)* Divisão de Cadastro (D.C.);
 
 c) Divisão de Controle Econômico (D.E);
 
@@ -86,11 +84,11 @@ II  – Delegacia no Distrito Federal (D. D. F. ) nos Estados e Territórios ó
 
 § 2º As Divisões e Delegacias, de acôrdo com as necessidades do serviço, poderão ser subdivididas em outras turmas, além das previstas neste Regimento.
 
-<strong>Art</strong>. 3º O S P. U. e as suas Divisões serão dirigidos por Diretores, nomeados em comissões e as Delegacias e Seções por Chefes, designados na forma dêste Regimento.
+**Art**. 3º O S P. U. e as suas Divisões serão dirigidos por Diretores, nomeados em comissões e as Delegacias e Seções por Chefes, designados na forma dêste Regimento.
 
-<strong>Art</strong>. 4º <em>O D</em>iretor do S. P. U. terá um Secretário, um Assistente e os  auxiliares necessários, e cada Diretor de Divisão um Secretário, todos servidores da União e de livre escolha dos respectivos Diretores.
+**Art**. 4º *O D*iretor do S. P. U. terá um Secretário, um Assistente e os  auxiliares necessários, e cada Diretor de Divisão um Secretário, todos servidores da União e de livre escolha dos respectivos Diretores.
 
-<strong>Art</strong>. 5º Os cargos de direção e funções de chefia do S. P. U., bem como as substituições eventuais dos respectivos  ocupantes serão exercidas por servidores da União com dois (2) anos, no mínimo de exercício no Ministério da Fazenda, e que, nos casos adiante indicados, satisfaçam, também, aos requisitos seguintes:
+**Art**. 5º Os cargos de direção e funções de chefia do S. P. U., bem como as substituições eventuais dos respectivos  ocupantes serão exercidas por servidores da União com dois (2) anos, no mínimo de exercício no Ministério da Fazenda, e que, nos casos adiante indicados, satisfaçam, também, aos requisitos seguintes:
 
 I – O Diretor do S. P. U., os Diretores da D C. e da D. E., os Chefes das Delegacias, os chefes da, S. D. da D. C., da S. U. da, D. E., da S. Cd. da D. D. F. e o Chefe da Fazenda Nacional de Santa Cruz (F. N. S. C.) – diplomados em quaisquer das especializações profissionais da Engenharia;
 
@@ -98,21 +96,21 @@ II – O Diretor da D.A., os Chefes da S. Ct. e S. Aa. da D. A. e da s. et. da D
 
 Parágrafo único. Não havendo servidor que satisfaça aos requisitos exigidos neste artigo, as funções de chefia, bem como as de substituto eventual dos seus ocupantes, poderão enquanto os órgãos respectivos não dispuserem de servidor devidamente habilitado ser exercidas por servidor que os não satisfaça.
 
-<strong>Art</strong>. 6º As Delegações  nos Estados e  Territórios, têm sede nas respectivas capitais e jurisdição nas áreas das mesmas unidades da Federação, e a D. D. F. tem sede junto ao órgão central do S P. U. e jurisdição na área do Distrito Federal e da Fazenda Nacional de Santa Cruz.
+**Art**. 6º As Delegações  nos Estados e  Territórios, têm sede nas respectivas capitais e jurisdição nas áreas das mesmas unidades da Federação, e a D. D. F. tem sede junto ao órgão central do S P. U. e jurisdição na área do Distrito Federal e da Fazenda Nacional de Santa Cruz.
 
 § 1º O Diretor do S. P. U., por conveniência do serviço poderá, temporariamente, modificar a área de jurisdição das Delegacias.
 
 § 2º A vista do interêsse do serviço poderão, mediante autorização do Diretor do S. P. U., ser mantidas turmas das Delegacias junto às repartições arrecadadoras da União em outras localidades.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA ESTRUTURA E COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA ESTRUTURA E COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Da D. A.</em>
+*Da D. A.*
 
-<strong>Art</strong>. 7º A D. A. órgão de orientação e revisão de atos e contratos, compreende.
+**Art**. 7º A D. A. órgão de orientação e revisão de atos e contratos, compreende.
 
 Seção de Contratos de Rendimentos (S. Ct.)
 
@@ -120,11 +118,11 @@ Seção de Aquisições e Alienações (S. Aa.)
 
 Turma de Administração (T. A.).
 
-<strong>Art</strong>. 8º A S. Ct. compete examinar e dar parecer nos processos concernentes a aforamento, locação, ar rendimento e ocupação de bens imóveis, organizados pelas Delegacias e que devam ser submetidos ao Diretor do S.P. U.
+**Art**. 8º A S. Ct. compete examinar e dar parecer nos processos concernentes a aforamento, locação, ar rendimento e ocupação de bens imóveis, organizados pelas Delegacias e que devam ser submetidos ao Diretor do S.P. U.
 
-<strong>Art</strong>. 9º A S. A. compete examinar e dar parecer nos processos concernentes à aquisição, alienação, permuta, cessão e reivindicação de domínio de bens imóveis, organizados pelas Delegacias e que devam ser submetidos ao Diretor do S. P. U.
+**Art**. 9º A S. A. compete examinar e dar parecer nos processos concernentes à aquisição, alienação, permuta, cessão e reivindicação de domínio de bens imóveis, organizados pelas Delegacias e que devam ser submetidos ao Diretor do S. P. U.
 
-<strong>Art</strong>. 10. A S. Ct. e a S. A., de acôrdo com a competência respectiva, deverão:
+**Art**. 10. A S. Ct. e a S. A., de acôrdo com a competência respectiva, deverão:
 
 I – propor normas para execução dos atos e contratos concernentes bens imóveis;
 
@@ -146,13 +144,13 @@ IX – realizar os atos e contratos referentes a bens imóveis existentes nos Es
 
 X – organizar projeto de minuta  dos atos e contratos de que trata o item anterior.
 
-<strong>Art</strong>. 11. A T. A. compete realizar os atos concernentes à administração de pessoal, material e comunicações, inclusive o recebimento e entrega de processos, bem como executar quaisquer outras atividades meios da Divisão.
+**Art**. 11. A T. A. compete realizar os atos concernentes à administração de pessoal, material e comunicações, inclusive o recebimento e entrega de processos, bem como executar quaisquer outras atividades meios da Divisão.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Da D. C.</em>
+*Da D. C.*
 
-<strong>Art</strong>. 12. A D. C., órgão de orientação e revisão de assuntos de engenharia, cadastro, registro e guarda de documentação referente aos bens imóveis da União, compreende:
+**Art**. 12. A D. C., órgão de orientação e revisão de assuntos de engenharia, cadastro, registro e guarda de documentação referente aos bens imóveis da União, compreende:
 
 Seção de Coleta de Dados (S. D.)
 
@@ -160,7 +158,7 @@ Seção de Registro (S. R.) Mapoteca (Map.)
 
 Turma de Administração (T. A.)
 
-<strong>Art</strong>. 13. À S. D. compete:
+**Art**. 13. À S. D. compete:
 
 I – promover e orientar pesquisas relativas a direitos da União sôbre bens imóveis e propor as medidas necessárias á regularização da situação dêstes;
 
@@ -176,7 +174,7 @@ VI – fazer a revisão técnica, quanto a assuntos de engenharia, dos processos
 
 VII – promover o encaminhamento à Divisão de Obras do Ministério da Fazenda dos processos referentes a  obras em imóveis sob a jurisdição do S. P. U.
 
-<strong>Art</strong>. 14. A S. R. compete:
+**Art**. 14. A S. R. compete:
 
 I – registrar os bens imóveis da União, situados no país e no estrangeiro, à vista dos elementos obtidos diretamente ou por intermédio das Delegacias;
 
@@ -192,19 +190,19 @@ VI – manter sob sua guarda  arquivo dos processos que contenham documentos ou
 
 VII – organizar, para publicação periódica, catálogo dos bens imóveis da União.
 
-<strong>Art</strong>. 15. A Map. compete:
+**Art**. 15. A Map. compete:
 
 I – manter arquivo de plantas dos bens imóveis da União, bem como  do outro de interêsse do  S, P. U. ;
 
 II – executar serviços fotográficos bem como cópias, ampliações, reduções de plantas, mapas e outros documentos e demais trabalhos concernentes aos mesmos serviços.
 
-<strong>Art</strong>. 16. A T. A. compete realizar os atos concernentes à administração de pessoal, material de comunicações inclusive o recebimento e entrega de processos, bem como executar quaisquer outras atividades meios da  Divisão.
+**Art**. 16. A T. A. compete realizar os atos concernentes à administração de pessoal, material de comunicações inclusive o recebimento e entrega de processos, bem como executar quaisquer outras atividades meios da  Divisão.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
- <em>Da D. E</em>.
+ *Da D. E*.
 
-<strong>Art</strong>. 17. A D. E., órgão de orientação e estudo de utilização dos bens e de fiscalização da receita dêles proveniente, compreende:
+**Art**. 17. A D. E., órgão de orientação e estudo de utilização dos bens e de fiscalização da receita dêles proveniente, compreende:
 
 Seção de Inscrição dos Bens Produtivos (S. I.)
 
@@ -214,7 +212,7 @@ Seção de Estudo da  Utilização dos Bens (S. U.)
 
 Turma de Administração ( T. A.).
 
-<strong>Art</strong>. 18. A S. I. compete:
+**Art**. 18. A S. I. compete:
 
 I – coligir elementos concernentes bens imóveis da União suscetíveis de produzir renda;
 
@@ -222,7 +220,7 @@ II - inscrever os bens imóveis da União produtivos ou suscetíveis de produzir
 
 III – ter permanente conhecimento da aplicação econômica dos imóveis da União, propondo, quando fôr o caso, o estudo de sua melhor utilização.
 
-<strong>Art</strong>. 19. A S. C. compete:
+**Art**. 19. A S. C. compete:
 
 I – registrar e fiscalizar a arrecadação das rendas provenientes do patrimônio imóvel da União;
 
@@ -230,7 +228,7 @@ II – estimar a receita da União, no tocante a essas rendas;
 
 III – registrar as ocorrências de ordem econômica relativas a bens móveis da União;
 
-<strong>Art</strong>. 20. A S. U. compete:
+**Art**. 20. A S. U. compete:
 
 I – estudar a utilização dos bens imóveis da União;
 
@@ -242,13 +240,13 @@ IV – fazer estudos econômicos com base em levantamentos estatísticos da arre
 
 V – apreciar, na fase inicial, os processos de que possam resultar incorporação ou desincorporação de bens imóveis ao patrimônio da União, bem como, na mesma fase, ou que versarem sôbre utilização com fundamento em aproveitamento econômico de interêsse nacional.
 
-<strong>Art</strong>. 21. A T. A. compete realizar os atos concernentes á administração de pessoal, material e comunicações, inclusive o recebimento entrega de processos, bem como executar quaisquer outras atividades-meios da Divisão.
+**Art**. 21. A T. A. compete realizar os atos concernentes á administração de pessoal, material e comunicações, inclusive o recebimento entrega de processos, bem como executar quaisquer outras atividades-meios da Divisão.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Da D. A.</em>
+*Da D. A.*
 
-<strong>Art</strong>. 22. A S. A., órgão auxiliar especialmente incumbido das atividades-meios da repartição, compete:
+**Art**. 22. A S. A., órgão auxiliar especialmente incumbido das atividades-meios da repartição, compete:
 
 I – organizar e manter atualizados assentamentos referentes aos servidores lotados ou em exercício no S. P. U., bem como às carreiras e séries funcionais dos mesmos servidores, e quadros demonstrativos da situação das dotações orçamentária destinadas a atender às despesas de pessoal;
 
@@ -268,11 +266,11 @@ VIII – colecionar cópia do expediente do S. P. U.;
 
 IX – organizar coletânea da legislação e atos complementares concernentes a pessoal e material, bem como a outros assuntos  de interêsse S. P. U., promovendo a publicação periódica da legislação e das decisões concernentes ao patrimônio imóvel da União.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>Da Delegacia do Serviço do Patrimônio da União no Distrito Federal</em>
+*Da Delegacia do Serviço do Patrimônio da União no Distrito Federal*
 
-<strong>Art</strong>. 23 A D. D. F.<em>,</em> órgão local de administração e de execução de serviço de cadastro, de atos de contratos e de cobrança, compreende:
+**Art**. 23 A D. D. F.*,* órgão local de administração e de execução de serviço de cadastro, de atos de contratos e de cobrança, compreende:
 
 Seção de Cadastro (B. Cd)
 
@@ -284,7 +282,7 @@ Turma da Fazenda Nacional de Santa Cruz (T. F. N. S. C.)
 
 Turma de Administração  (T. A.).
 
-<strong>Art</strong>. 24. A S. Cd. compete:
+**Art**. 24. A S. Cd. compete:
 
 I – fazer o cadastro demarcação, avaliação e tombamento dos bens imóveis da União ou que a esta possam interessar;
 
@@ -304,7 +302,7 @@ VIII – promovem a execução de obras de ligeiros reparos em imóveis a cargos
 
 IX – opinar sôbre a utilização de imóveis da União.
 
-<strong>Art</strong>. 25. A S. Cb, compete:
+**Art**. 25. A S. Cb, compete:
 
 I – providenciar a regular  recolhimento de rendas  concernentes a bens imóveis;
 
@@ -322,7 +320,7 @@ VII – processar concorrências;
 
 VIII – estimar, anualmente para o exercício futuro, a receita proveniente e de bens imóveis.
 
-<strong>Art</strong>. 26. A S. Ct.. compete:
+**Art**. 26. A S. Ct.. compete:
 
 I – organizar os processos concernentes à incorporação e desincorporação de bens imóveis;
 
@@ -336,7 +334,7 @@ V – organizar projeto de minuta de atos e contratos referentes a imóveis;
 
 VI – realizar os atos e contratos referentes a imóveis da União;
 
-<strong>Art</strong>. 27. A D. D. F., compete ainda:
+**Art**. 27. A D. D. F., compete ainda:
 
 I – administrar os bens imóveis da União situados na zona de sua jurisdição, promovendo as medidas convenientes para sua conservação e defesa;
 
@@ -346,15 +344,15 @@ III – observar em seus trabalhos as normas e instruções prescritas pelo Dire
 
 IV – praticar os atos que, por fôrça de lei ou dêste Regimento, lhe caibam, e os demais que convenham aos interêsses da administração.
 
-<strong>Art</strong>. 28. À T. F. N. S. C., setor local de administração e de execução de serviços de cadastro, cobrança e de preparo de atos e contratos, tem em sua área de jurisdição, atribuições idênticas as das Seções da D. D. F., excetuadas as de que tratam os itens VII do art. 25 e V e VI do art. 26.
+**Art**. 28. À T. F. N. S. C., setor local de administração e de execução de serviços de cadastro, cobrança e de preparo de atos e contratos, tem em sua área de jurisdição, atribuições idênticas as das Seções da D. D. F., excetuadas as de que tratam os itens VII do art. 25 e V e VI do art. 26.
 
-<strong>Art</strong>. 29. A T. A. compete realizar os atos concernentes à administração de pessoal, material e comunicações, inclusive o recebimento e entrega de processos, diretamente, aos demais setores da D. D. F., bem como executar quaisquer outras atividades-meios da Delegacia.
+**Art**. 29. A T. A. compete realizar os atos concernentes à administração de pessoal, material e comunicações, inclusive o recebimento e entrega de processos, diretamente, aos demais setores da D. D. F., bem como executar quaisquer outras atividades-meios da Delegacia.
 
-<strong>SEÇÃO VI</strong>
+**SEÇÃO VI**
 
-<em>Das Delegacias nos Estados e Territórios Federais</em>
+*Das Delegacias nos Estados e Territórios Federais*
 
-<strong>Art</strong>. 30. As Delegacias (D) nos Estados e Territórios Federais, órgãos representativos do S. P. U. na área de sua jurisdição, subsidiários do órgão central e de execução de atividades locais compete além dos encargos constantes dos arts. 23 a 27.
+**Art**. 30. As Delegacias (D) nos Estados e Territórios Federais, órgãos representativos do S. P. U. na área de sua jurisdição, subsidiários do órgão central e de execução de atividades locais compete além dos encargos constantes dos arts. 23 a 27.
 
 I – promover as medidas administrativas e judiciais acauteladoras dos direitos da União sôbre bens de seu domínio;
 
@@ -362,11 +360,11 @@ II – ter sob sua guarda os processos que contenham documentos probatórios do 
 
 III – exercer as atividades que lhes forem aplicáveis dentre as cometidas à S. A. da repartição central, bem como executar os serviços de comunicações e arquivos.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 31. Ao Diretor do S. P. U. incumbe:
+**Art**. 31. Ao Diretor do S. P. U. incumbe:
 
 I – orientar, dirigir e coordenar as atividades do S. P. U.;
 
@@ -458,7 +456,7 @@ XLIV – delegar competência aos Diretores de Divisão, Chefes de Delegacia e a
 
 XLV – resolver os casos omissos, submetendo as respectivas decisões à aprovação do Diretor Geral da Fazenda Nacional.
 
-<strong>Art</strong>. 32. Aos Diretores de Divisão e ao Chefe da S. A. incumbe:
+**Art**. 32. Aos Diretores de Divisão e ao Chefe da S. A. incumbe:
 
 I – Orientar e coordenar as atividades da respectiva Divisão ou Seção;
 
@@ -506,7 +504,7 @@ Serviço os servidores que devam exercer outras funções gratificadas, bem como
 
 III – movimentar, de acôrdo com a conveniência dos trabalhos, o pessoal com exercício na Divisão.
 
-<strong>Art</strong>. 33. Aos Chefes de Delegacia incumbe:
+**Art**. 33. Aos Chefes de Delegacia incumbe:
 
 I – orientar, dirigir e coordenar as atividades da Delegacia;
 
@@ -534,7 +532,7 @@ XII – elogiar e aplicar penas disciplinares até a de suspensão por oito (8) 
 
 XIII – propor ao Diretor do Serviço a antecipação ou prorrogação no período normal de trabalho na Delegacia;
 
-XIV – conceder aforamento, <em>ad referendun</em> do Diretor do Serviço;
+XIV – conceder aforamento, *ad referendun* do Diretor do Serviço;
 
 XV – autorizar, resguardando o interêsse da Fazenda Nacional, o fornecimento de certidões e cópias de plantas e de outros documentos;
 
@@ -552,7 +550,7 @@ XX – reunir, periòdicamente, os Chefes dos diferentes setores da Delegacia pa
 
 I – representar o S. P. U, na área de sua jurisdição;
 
-II – entender-se, em matéria de <em>s</em>erviço, com autoridades federais, estaduais e municipais, dentro de sua jurisdição e, nos demais casos, por intermédio do Diretor do Serviço;
+II – entender-se, em matéria de *s*erviço, com autoridades federais, estaduais e municipais, dentro de sua jurisdição e, nos demais casos, por intermédio do Diretor do Serviço;
 
 III – encaminhar ao Procurador da Delegacia Fiscal ou Procurador da República os processos que versem assunto da competência do mesmo sôbre os quais necessite do seu pronunciamento;
 
@@ -564,7 +562,7 @@ I – despachar, pessoalmente, com o Diretor do Serviço;
 
 II – comparecer às reuniões para as quais seja convocado pelo Diretor do Serviço;
 
-<strong>Art</strong>. 34. Aos Chefes de Seção incumbe:
+**Art**. 34. Aos Chefes de Seção incumbe:
 
 I – opinar nos processos que lhe forem encaminhados e distribuir os trabalhos ao pessoal que lhes for diretamente subordinado;
 
@@ -582,9 +580,9 @@ VII – expedir boletins de merecimento dos servidores que lhes forem diretament
 
 VIII – velar pela disciplina nos recintos de trabalho.
 
-<strong>Art</strong>. 35. Ao Assistente do Diretor do Serviço incumbe estudar e preparar despachos de processos submetidos à decisão do Diretor do Serviço e executar outros trabalhos que lhe forem pelo mesmo cometidos.
+**Art**. 35. Ao Assistente do Diretor do Serviço incumbe estudar e preparar despachos de processos submetidos à decisão do Diretor do Serviço e executar outros trabalhos que lhe forem pelo mesmo cometidos.
 
-<strong>Art</strong>. 36. Aos secretários incumbe:
+**Art**. 36. Aos secretários incumbe:
 
 I – atender às pessoas que desejarem se comunicar com o respectivo Diretor;
 
@@ -592,40 +590,40 @@ II – representar o respectivo Diretor, quando para isso fôr designado.
 
 III – executar os demais serviços que lhes forem cometidos pelo respectivo Diretor.
 
-<strong>Art</strong>. 37. Aos demais servidores sem função especificadas nêste Regimento, cumpre executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
+**Art**. 37. Aos demais servidores sem função especificadas nêste Regimento, cumpre executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 38. O horário normal de trabalho será fixado pelo Diretor do S. P. U., respeitando o número de horas semanais ou mensais estabelecido para o serviço público civil.
+**Art**. 38. O horário normal de trabalho será fixado pelo Diretor do S. P. U., respeitando o número de horas semanais ou mensais estabelecido para o serviço público civil.
 
-<strong>Art</strong>. 39. O Diretor do S. P. U., os Diretores de Divisão e os Chefes de Delegacias não ficam sujeitos a ponto, devendo, porém, observar o horário fixado.
+**Art**. 39. O Diretor do S. P. U., os Diretores de Divisão e os Chefes de Delegacias não ficam sujeitos a ponto, devendo, porém, observar o horário fixado.
 
 Parágrafo único. Ficam, também, dispensados de ponto os servidores em serviço de campo, observado o número legal de hora de trabalha, comprovado de acôrdo com as instruções que forem baixadas pelo Diretor do Serviço.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 40. Serão substituídos automàticamente, em suas faltas ou impedimentos eventuais até trinta (30) dias:
+**Art**. 40. Serão substituídos automàticamente, em suas faltas ou impedimentos eventuais até trinta (30) dias:
 
 I – O Diretor do Serviço por um Diretor de Divisão ou Chefe da D. D. F., de sua indicação e designado pelo Diretor-Geral da Fazenda Nacional;
 
 II – Os Diretores de Divisão por Chefes de Seção, por êles indicados e designados pelo Diretor do S. P. V.;
 
-III – os chefes de Delegacia por Chefes de Seção ou, na falta dêstes, por servidores por eles indicados e designados pelo Diretor do S. P<em>.</em> U,;
+III – os chefes de Delegacia por Chefes de Seção ou, na falta dêstes, por servidores por eles indicados e designados pelo Diretor do S. P*.* U,;
 
 IV – os Chefes de Seção por servidores por êles indicados e designados pela autoridade imediatamente superior.
 
 Parágrafo único – Haverá, sempre, servidores, prèviamente designados para as substituições de que trata êste artigo.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DISPOSIÇÕES GERAIS E TRANSITÓRIAS</em>
+*DISPOSIÇÕES GERAIS E TRANSITÓRIAS*
 
-<strong>Art</strong>. 41. Nenhum servidor poderá fazer publicações e conferências ou dar entrevistas sôbre assuntos que se relacionem com a organização e as atividades do S. P. U.; sem autorização escrita do Diretor do Serviço.
+**Art**. 41. Nenhum servidor poderá fazer publicações e conferências ou dar entrevistas sôbre assuntos que se relacionem com a organização e as atividades do S. P. U.; sem autorização escrita do Diretor do Serviço.
 
-<strong>Art</strong>. 42. Poderão ser mantidos, a critério do Diretor do S. P. U., em funções de chefia os seus atuais ocupantes que não possam os requisitos exigidos no artigo 5º.
+**Art**. 42. Poderão ser mantidos, a critério do Diretor do S. P. U., em funções de chefia os seus atuais ocupantes que não possam os requisitos exigidos no artigo 5º.
 
 Rio de Janeiro, 22 de novembro de 1946. – Corrêa e Castro.

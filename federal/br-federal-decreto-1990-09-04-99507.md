@@ -1,7 +1,3 @@
-1
-
-###DEC-099507-0-000-04-09-1990@@@
-
 DECRETO Nº 99.507, DE 4 DE SETEMBRO DE 1990
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Secas (DNOCS), área de terra necessária à construção do açude público Atalho, nos Municípios de Brejo Santo e Jati, Estado do Ceará, e dá outras providências.

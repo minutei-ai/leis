@@ -1,5 +1,3 @@
-###DEC-078544-0-000-06-10-1976@@@
-
 Decreto nº 78.544, de 6 de outubro de 1976.
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados no Município Foz do Iguaçu, no Estado do Paraná, compreendidos na área prioritária para fins de Reforma Agrária, de que trata o Decreto nº 69.411, de 22 de outubro de 1971.

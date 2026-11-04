@@ -1,5 +1,3 @@
-###DEC-003977-0-000-22-10-2001@@@
-
 DECRETO Nº 3.977, DE 22 DE OUTUBRO DE 2001
 
 Dispõe sobre o remanejamento de Funções Comissionadas Técnicas - FCT para o Quadro de Pessoal do Instituto do Patrimônio Histórico e Artístico Nacional.

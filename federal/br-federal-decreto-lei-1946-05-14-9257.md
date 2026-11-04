@@ -1,5 +1,3 @@
-###DEL-009257-0-000-14-05-1946@@@
-
 DECRETO-LEI N. 9.257– DE 14 DE MAIO DE 1946
 
 Suspende, pelo prazo de seis meses, a cobrança dos direitos e demais taxas aduaneiras que incidem sôbre as cebolas importadas.

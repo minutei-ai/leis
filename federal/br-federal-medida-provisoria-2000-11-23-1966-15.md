@@ -1,5 +1,3 @@
-###MPV-001966-0-015-23-11-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.966-15, DE 23 de novembro de 2000.
 
 Altera dispositivos da Lei nº 9.365, de 16 de dezembro de 1996, que institui a Taxa de Juros de Longo Prazo - TJLP, dispõe sobre a remuneração dos recursos do Fundo de Participação PIS-PASEP, do Fundo de Amparo ao Trabalhador e do Fundo da Marinha Mercante.

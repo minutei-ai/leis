@@ -1,5 +1,3 @@
-###DEC-057063-0-000-15-10-1965@@@
-
 DECRETO Nº 57.063, DE 15 DE OUTUBRO DE 1965.
 
 Autoriza Bras-Humus S. A. - Adubos Orgânicos e Químicos a pesquisar apatita, no município de Registro, Estado de São Paulo.

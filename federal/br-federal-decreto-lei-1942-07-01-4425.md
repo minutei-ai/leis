@@ -1,5 +1,3 @@
-###DEL-004425-0-000-01-07-1942@@@
-
 DECRETO-LEI N. 4.425 – DE 1 DE JULHO DE 1942
 
 Abre ao Ministério da Educação e Saude o crédito especial de 6:000$0, para pagamento da despesa que especifica

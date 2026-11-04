@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62536)
-
 # LEI Nº 12.396, DE 01 DE AGOSTO DE 2006
 
 ### _Altera a Lei n. 10.332, de 21 de junho de 1999, que dispõe sobre o Fundo Especial de Despesa do Ministério Público do Estado de São Paulo_

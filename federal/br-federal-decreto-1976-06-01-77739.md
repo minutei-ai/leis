@@ -1,5 +1,3 @@
-###DEC-077739-0-000-01-06-1976@@@
-
 DECRETO Nº 77.739, DE 1º DE JUNHO DE 1976.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado na cidade de Maceió, Estado de Alagoas.

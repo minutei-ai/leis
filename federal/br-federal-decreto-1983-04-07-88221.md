@@ -1,5 +1,3 @@
-###DEC-088221-0-000-07-04-1983@@@
-
 Decreto nº 88.221, de 07 de abril de 1983
 
 Regulamenta a Lei nº 6.874, de 3 de dezembro de 1980, que atribui à empresa exploradora de serviços públicos de telecomunicações a edição de linhas telefônicas.

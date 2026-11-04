@@ -1,5 +1,3 @@
-###DEC-077773-0-000-08-06-1976@@@
-
 Decreto nº 77.773, de 8 de junho de 1976.
 
 Autoriza a Universidade Federal do Rio Grande do Norte a alienar bens imóveis de sua propriedade e dá outras providências.

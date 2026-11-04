@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/176022)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2015/compilacao-lei-15943-14.10.2015.html)
 
 # LEI N° 15.943, DE 14 DE OUTUBRO DE 2015

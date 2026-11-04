@@ -1,5 +1,3 @@
-###DEC-054918-0-000-04-11-1964@@@
-
 DECRETO Nº 54.918, DE 4 DE NOVEMBRO DE 1964.
 
 Renova o Decreto nº 49.701, de 31 de dezembro de 1960.

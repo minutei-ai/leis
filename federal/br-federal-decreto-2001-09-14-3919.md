@@ -1,5 +1,3 @@
-###DEC-003919-0-000-14-09-2001@@@
-
 DECRETO Nº 3.919, DE 14 DE SETEMBRO DE 2001
 
  Acrescenta artigo ao Decreto no 3.179, de 21 de setembro de 1999, que dispõe sobre a especificação das sanções aplicáveis às condutas e atividades lesivas ao meio ambiente, e dá outras providências.

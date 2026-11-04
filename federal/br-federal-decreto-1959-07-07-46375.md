@@ -1,5 +1,3 @@
-###DEC-046375-0-000-07-07-1959@@@
-
 DECRETO Nº 46.375, DE 7 DE JULHO DE 1959.
 
 Constitui Grupo de Trabalho com a finalidade de estudar e planejar as medidas necessárias ao aproveitamento das águas do rio São Francisco para irrigação da zona compreendida no Polígono das Sêcas no Estado de Alagoas.

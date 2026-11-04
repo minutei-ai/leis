@@ -1,4 +1,5 @@
-DECRETO Nº 9.675, DE 16 DE JUNHO DE 2020<br>
+DECRETO Nº 9.675, DE 16 DE JUNHO DE 2020
+
 \- [Revogado pelo decreto nº 10.602, de 16-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110152), art. 6º, IV.
 
 ~~Autoriza a Secretaria de Estado da Saúde a celebrar e a manter os contratos temporários que especifica.~~

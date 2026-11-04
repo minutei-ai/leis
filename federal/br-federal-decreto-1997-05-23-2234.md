@@ -1,5 +1,3 @@
-###DEC-002234-0-000-23-05-1997@@@
-
 DECRETO Nº 2.234, DE 23 DE MAIO DE 1997
 
 Dispõe sobre a execução da Ata de Retificação do Primeiro Protocolo Adicional ao Acordo de Complementação Econômica nº 35, entre os Governos dos Estados Partes do MERCOSUL e o Governo da República do Chile, de 31 de março de 1997.

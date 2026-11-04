@@ -1,5 +1,3 @@
-###DEC-054934-0-000-04-11-1964@@@
-
 DECRETO Nº 54.934, DE 4 DE NOVEMBRO DE 1964.
 
 Concede autorização para o funcionamento de cursos da Escola Superior de Artes Santa Cecília, de Cachoeira do Sul, Estado do Rio Grande do Sul.

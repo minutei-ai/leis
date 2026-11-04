@@ -1,5 +1,3 @@
-###DEC-066555-0-000-11-05-1970@@@
-
 DECRETO Nº 66.555, DE 11 DE MAIO DE 1970.
 
 Aprova Estatuto da Universidade Federal de Goiás.

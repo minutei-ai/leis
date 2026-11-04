@@ -1,5 +1,3 @@
-###DEC-053475-0-000-23-01-1964@@@
-
 DECRETO Nº 53.475, de 23 de janeiro de 1964.
 
 Documento comprobatório de quitação com o Serviço Militar - Acréscimo ao Art. 1º do Decreto nº 34.380, de 27 de outubro de 1953.

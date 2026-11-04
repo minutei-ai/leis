@@ -1,5 +1,3 @@
-###DEC-090340-0-000-17-10-1984@@@
-
 Decreto nº 90.340, de 17 de outubro de 1984
 
 Ratifica a revisão do projeto e da planta de situação, a que se refere o Decreto nº 87.233, de 01 de junho de 1982, que declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de trechos de linhas de transmissão.

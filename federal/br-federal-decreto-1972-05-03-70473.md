@@ -1,5 +1,3 @@
-###DEC-070473-0-000-03-05-1972@@@
-
 DECRETO Nº 70.473, DE 3 DE MAIO DE 1972.
 
 Autoriza o funcionamento do Curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Tibiriçá - SP.

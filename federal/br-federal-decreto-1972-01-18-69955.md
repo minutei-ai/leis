@@ -1,5 +1,3 @@
-###DEC-069955-0-000-18-01-1972@@@
-
 DECRETO Nº 69.955, DE 18 DE JANEIRO DE 1972.
 
 Concede reconhecimento à Faculdade de Odontologia da Universidade do Estado de Guanabara.

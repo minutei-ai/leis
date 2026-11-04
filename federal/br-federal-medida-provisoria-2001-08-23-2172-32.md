@@ -1,5 +1,3 @@
-###MPV-002172-0-032-23-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.172-32, DE 23 DE AGOSTO DE 2001
 
 Estabelece a nulidade das disposições contratuais que menciona e inverte, nas hipóteses que prevê, o ônus da prova nas ações intentadas para sua declaração.

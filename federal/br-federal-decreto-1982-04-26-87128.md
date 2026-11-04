@@ -1,5 +1,3 @@
-###DEC-087128-0-000-26-04-1982@@@
-
 DECRETO Nº 87.128, DE 26 DE ABRIL DE 1982
 
 Altera o Regulamento de Promoções de Graduados do Exército, aprovado pelo Decreto nº 77.920 de 28 de junho de 1976, e dá outras providências

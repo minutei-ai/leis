@@ -1,5 +1,3 @@
-###DEC-066488-0-000-24-04-1970@@@
-
 DECRETO Nº 66.488, DE 24 DE ABRIL DE 1970.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra destinada à construção da nova estação telefônica de Guaratinguetá, Estado de São Paulo.

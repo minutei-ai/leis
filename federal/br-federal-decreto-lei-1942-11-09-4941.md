@@ -1,5 +1,3 @@
-###DEL-004941-0-000-09-11-1942@@@
-
 DECRETO-LEI N. 4.941 – DE 9 DE NOVEMBRO DE 1942
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 106.311,40 para pagamento de vencimentos atrasados

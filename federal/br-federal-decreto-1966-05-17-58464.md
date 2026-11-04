@@ -1,5 +1,3 @@
-###DEC-058464-0-000-17-05-1966@@@
-
 DECRETO Nº 58.464, DE 17 DE MAIO DE 1966.
 
 Autoriza Centrais Elétricas de Goiás S.A. a construir linha de transmissão.

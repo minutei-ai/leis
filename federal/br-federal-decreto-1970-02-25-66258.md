@@ -1,5 +1,3 @@
-###DEC-066258-0-000-25-02-1970@@@
-
 decreto nº 66.258 - de 25 de Fevereiro de 1970
 
 Dispõe sôbre regime de trabalho e retribuição do pessoal docente do ensino superior federal.

@@ -1,5 +1,3 @@
-###DEL-004998-0-000-26-11-1942@@@
-
 DECRETO-LEI N. 4.998 – DE 26 DE NOVEMBRO DE 1942
 
 Abre ao Instituto Brasileiro de Geografia e Estatística o crédito suplementar de Cr$ 500.000,00 à verba que especifica

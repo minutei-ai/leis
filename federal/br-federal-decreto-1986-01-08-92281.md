@@ -1,5 +1,3 @@
-###DEC-092281-0-000-08-01-1986@@@
-
 DECRETO Nº 92.281, DE 08 DE JANEIRO DE 1986
 
 Dispõe sobre o limite do Capital Autorizado da Fertilizantes Fosfatados S.A. - FOSFÉRTIL.

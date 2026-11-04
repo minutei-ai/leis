@@ -1,5 +1,3 @@
-###DEC-094649-0-000-17-07-1987@@@
-
 DECRETO Nº 94.649, DE 17 DE JULHO DE 1987.
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados do Instituto Unificado de Ensino Superior, em Goiânia, Goiás.

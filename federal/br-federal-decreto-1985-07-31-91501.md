@@ -1,5 +1,3 @@
-###DEC-091501-0-000-31-07-1985@@@
-
 Decreto nº 91.501, de 31 de julho de 1985
 
 Institui a Comissão de Coordenação do Plano de Reforma da Administração Federal.

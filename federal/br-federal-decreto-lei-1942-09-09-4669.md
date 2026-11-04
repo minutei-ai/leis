@@ -1,5 +1,3 @@
-###DEL-004669-0-000-09-09-1942@@@
-
 DECRETO-LEI N. 4.669 – DE 9 DE SETEMBRO DE 1942
 
 Abre ao Ministério da Guerra o crédito especial de 628:276$3, para as despesas que especifica, e anula importância equivalente em subconsignação do Orçamento de Despesa vigente do mesmo Ministério.

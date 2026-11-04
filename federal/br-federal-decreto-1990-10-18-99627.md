@@ -1,5 +1,3 @@
-###DEC-099627-0-000-18-10-1990@@@
-
 DECRETO N° 99.627, DE 18 DE OUTUBRO DE 1990
 
 Fixa prazos de apresentação de informações relativas ao Orçamento de Investimento e ao Programa de Dispêndios Globais, e dá outras providêcias.

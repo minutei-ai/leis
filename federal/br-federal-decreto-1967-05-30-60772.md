@@ -1,5 +1,3 @@
-###DEC-060772-0-000-30-05-1967@@@
-
 DECRETO Nº 60.772, DE 30 DE MAIO DE 1967.
 
 Declara de utilidade pública a “Sociedade de Educação e Assistência”, com sede em Campos do Jordão, Estado de São Paulo.

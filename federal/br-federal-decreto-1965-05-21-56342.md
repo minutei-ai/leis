@@ -1,5 +1,3 @@
-###DEC-056342-0-000-21-05-1965@@@
-
 DECRETO Nº 56.342, DE 21 DE MAIO DE 1965.
 
 Concede à Mineração Santa Catarina Limitada autorização para funcionar como emprêsa de mineração.

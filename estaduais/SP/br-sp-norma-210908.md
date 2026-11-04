@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210908)<br>
-
 # DECRETO N° 69.516, DE 05 DE MAIO DE 2025
 
 ### _Dispõe sobre a classificação institucional da Secretaria de Desenvolvimento Econômico nos Sistemas de Administração Financeira e Orçamentária do Estado._

@@ -1,5 +1,3 @@
-###DEC-058966-0-000-01-08-1966@@@
-
 DECRETO Nº 58.966, DE 1 DE AGôSTO DE 1966.
 
 Autoriza Mineração Alto Paranaíba Ltda, a pesquisar bentonita, no município de Patrocínio, Estado de Minas Gerais.

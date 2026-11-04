@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/48e40d13-6c5c-446b-a925-4554bbf25041/texto#nowhere)
 
-###DEL-000768-0-000-18-08-1969@@@
-
 DECRETO-LEI Nº 768, DE 18 DE AGÔSTO DE 1969
 
 Dispõe sôbre a venda de imóveis residenciais de propriedade da Prefeitura do Distrito Federal.

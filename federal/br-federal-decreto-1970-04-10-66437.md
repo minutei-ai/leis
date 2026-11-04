@@ -1,5 +1,3 @@
-###DEC-066437-0-000-10-04-1970@@@
-
 DECRETO Nº 66.437, DE 10 DE ABRIL DE 1970.
 
 Concede à emprêsa Caisse Générale de Participations Foncières et Industrielles autorização para continuar a funcionar na República Federativa do Brasil.

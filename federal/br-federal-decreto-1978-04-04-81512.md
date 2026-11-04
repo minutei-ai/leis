@@ -1,5 +1,3 @@
-###DEC-081512-0-000-04-04-1978@@@
-
 Decreto nº 81.512, de 4 de abril de 1978.
 
 Dá nova redação a dispositivo do Regulamento das Divisões de Segurança e Informações dos Ministérios Civis e das Assessorias de Segurança e Informações aprovado pelo Decreto nº 75.640, de 22 de abril de 1975.

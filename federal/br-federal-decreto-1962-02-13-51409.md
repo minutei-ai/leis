@@ -1,5 +1,3 @@
-###DEC-051409-0-000-13-02-1962@@@
-
 DECRETO Nº 51.409, de 13 de fevereiro de 1962.
 
 Regulamenta o disposto no Art. 31 da Lei nº 4.024, de 20 de dezembro de 1961.

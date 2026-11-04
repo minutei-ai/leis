@@ -1,5 +1,3 @@
-###DEL-003806-0-000-06-11-1941@@@
-
 DECRETO-LEI N. 3.806 – DE 6 de NOVEMBRO DE 1941
 
 Cria uma coletoria federal no Município de Buenópolis, Estado de Minas Gerais, e dá outras providências.

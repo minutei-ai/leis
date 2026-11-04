@@ -1,5 +1,3 @@
-###DEL-009119-0-000-02-04-1946@@@
-
 DECRETO-LEI N. 9.119 – DE 2 DE ABRIL DE 1946
 
 Altera, sem aumento de despesa, o orçamento do Plano de Obras e Equipamentos.

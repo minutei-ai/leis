@@ -1,5 +1,3 @@
-###DEC-059726-0-000-15-12-1966@@@
-
 Decreto nº 59.726, de 15 de dezembro de 1966.
 
 Autoriza o Cidadão brasileiro Vilmar Freitas a pesquisar fluorita no Município de Orleães, Estado de Santa Catarina.

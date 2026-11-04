@@ -1,5 +1,3 @@
-###DEC-051830-0-000-12-03-1963@@@
-
 DECRETO Nº 51.830, DE 12 DE MARÇO DE 1963.
 
 Autoriza São Paulo Light S.A Serviços de Eletricidade a construir linha de transmissão no município de Santos, Estado de São Paulo, e dá outras providências.

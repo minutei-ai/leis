@@ -1,5 +1,3 @@
-###DEC-006334-0-000-28-12-2007@@@
-
 DECRETO Nº 6.334, DE 28 DE DEZEMBRO DE 2007.
 
 Dá nova redação aos incisos do art. 2o do Decreto no 3.917, de 13 de setembro de 2001.
@@ -27,5 +25,3 @@ Brasília, 28 de dezembro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 João Bernardo de Azevedo Bringel
-
-Este texto não substitui o publicado no DOU de 31.12.2007

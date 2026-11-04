@@ -1,5 +1,3 @@
-###DEL-002317-0-000-29-12-1986@@@
-
 # DECRETO-LEI Nº 2.317, DE 29 DE DEZEMbro de 1986
 
 Reajusta os vencimentos, salários, soldos e proventos dos servidores civis e da Polícia Militar e do Corpo de Bombeiros do Distrito Federal, dos membros e dos servidores do Tribunal de Contas do Distrito Federal e do respectivo Ministério Público, e dá outras providências.

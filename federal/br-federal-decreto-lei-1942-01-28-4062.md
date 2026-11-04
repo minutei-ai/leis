@@ -1,5 +1,3 @@
-###DEL-004062-0-000-28-01-1942@@@
-
 DECRETO-LEI N. 4.062 – DE 28 DE JANEIRO DE 1942
 
 Abre, pelo Ministério da Agricultura  o crédito especial de 5.340; 000$0, para atender às despesas com os trabalhos relativos ao melhor aproveitamento, do carvão nacional e, dá, outras, providências.

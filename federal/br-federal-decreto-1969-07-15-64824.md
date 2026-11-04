@@ -1,5 +1,3 @@
-###DEC-064824-0-000-15-07-1969@@@
-
 DECRETO Nº 64.824 - DE 15 DE JULHO DE 1969.
 
 Aprova o Plano de Reestruturação da Universidade Federal de Santa Catarina.

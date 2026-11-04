@@ -1,5 +1,3 @@
-###DEC-071075-0-000-12-09-1972@@@
-
 Decreto nº 71.075, de 12 de setembro de 1972.
 
 Autoriza o funcionamento da Faculdade de Ciências e Letras de Ourinhos - SP.

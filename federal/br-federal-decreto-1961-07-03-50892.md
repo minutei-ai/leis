@@ -1,5 +1,3 @@
-###DEC-050892-0-000-03-07-1961@@@
-
 Decreto Nº 50.892, de 3 de Julho de 1961.
 
 Concede à sociedade Navegação Ancora Ltda. autorização para funcionar como emprêsa de navegação de cabotagem.

@@ -1,5 +1,3 @@
-###DEC-075674-0-000-29-04-1975@@@
-
 DECRETO Nº 75.674, DE 29 DE ABRIL DE 1975.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa uma faixa de terra destinada à passagem de variantes de linhas de transmissão de propriedade de Furnas - Centrais Elétricas S.A., no Município de Poços de Caldas, Estado de Minas Gerais.

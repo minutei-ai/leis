@@ -1,5 +1,3 @@
-###DEL-006442-0-000-27-04-1944@@@
-
 DECRETO-LEI N. 6.442 – DE 27 DE ABRIL DE 1944
 
 Regula a arrecadação da contribuição de calçamento no Distrito Federal

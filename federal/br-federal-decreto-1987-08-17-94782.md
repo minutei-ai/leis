@@ -1,5 +1,3 @@
-###DEC-094782-0-000-17-08-1987@@@
-
 DECRETO N° 94.782, DE 17 DE AGOSTO DE 1987
 
 Declara de utilidade pública as instituições que menciona.

@@ -1,5 +1,3 @@
-###DEC-097060-0-000-10-11-1988@@@
-
 DECRETO Nº 97.060, DE 10 DE NOVEMBRO DE 1988
 
 Promulga o Acordo que cria uma Comissão Mista entre a República Federativa do Brasil e a República Gabonesa.

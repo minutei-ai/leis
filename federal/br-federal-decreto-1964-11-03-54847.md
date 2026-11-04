@@ -1,5 +1,3 @@
-###DEC-054847-0-000-03-11-1964@@@
-
 decreto nº 54.847, de 3 de novembro de 1964.
 
 Autoriza o cidadão brasileiro Osmar Joppert a pesquisar calcário no município de Almirante Tamandaré - Estado do Paraná.

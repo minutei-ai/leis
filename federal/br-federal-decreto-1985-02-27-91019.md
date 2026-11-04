@@ -1,5 +1,3 @@
-###DEC-091019-0-000-27-02-1985@@@
-
 DECRETO nº 91.019, de 27 de fevereiro de 1985
 
 Concede à IGREJA TENRIKYO DE DENDOTYO autorização para funcionar no Brasil.
@@ -142,4 +140,14 @@ ARTIGO 33º - Ficam revogadas as disposições em contrário constantes dos Esta
 
 BAURÚ, 11 da Junho de 1978.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">CHUJIRO OTAKE</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Presidente</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">SHICHIRO OTAKE</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Vice-Presidente</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">GIRO ISHICAVA</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1º Secretário</span></p></td></tr></tbody></table>
+CHUJIRO OTAKE
+
+Presidente
+
+SHICHIRO OTAKE
+
+Vice-Presidente
+
+GIRO ISHICAVA
+
+1º Secretário

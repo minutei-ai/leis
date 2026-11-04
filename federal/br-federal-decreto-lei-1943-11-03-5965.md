@@ -1,5 +1,3 @@
-###DEL-005965-0-000-03-11-1943@@@
-
 DECRETO‑LEI N. 5.965 – DE 3 DE NOVEMBRO DE 1943
 
 Dispõe sôbre a venda de estampilhas no Território de Fernando de Noronha

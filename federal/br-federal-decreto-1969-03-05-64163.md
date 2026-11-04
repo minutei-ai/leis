@@ -1,5 +1,3 @@
-###DEC-064163-0-000-05-03-1969@@@
-
 DECRETO Nº 64.163, DE 5 DE MARÇO DE 1969.
 
 Faculta o recolhimento de tributos federais através da via postal, por contribuintes domiciliados em município não servido por estabelecimento bancário autorizado ou órgão fazendário arrecadador.

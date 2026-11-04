@@ -1,5 +1,3 @@
-###DEC-081605-0-000-27-04-1978@@@
-
 decreto nº 81.605, de 27 de abril de 1978.
 
 Autoriza o Ministro da Fazenda a conceder garantia a operação de crédito externo.

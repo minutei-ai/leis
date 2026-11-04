@@ -1,5 +1,3 @@
-###DEC-053382-0-000-31-12-1963@@@
-
 DECRETO Nº 53.382, DE 31 DE DEZEMBRO DE 1963.
 
 Torna insubsistente o decreto 1.182, de 15 de junho de 1962.

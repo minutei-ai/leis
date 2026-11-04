@@ -1,5 +1,3 @@
-###DEL-009797-0-000-09-09-1946@@@
-
 DECRETO-LEI N. 9.797 – DE 9 DE SETEMBRO DE 1946
 
 Altera disposições da Consolidação das Leis do Trabalho referentes à Justiça do Trabalho, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-004234-0-000-06-04-1942@@@
-
 DECRETO-LEI N. 4.234 – DE 6 DE ABRIL DE 1942
 
 Cria a Secção de Cadastro do Pessoal Civil do Ministério da Guerra e dá outras providências

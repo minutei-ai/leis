@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209724)<br>
-
 # DECRETO N° 68.698, DE 15 DE JULHO DE 2024
 
 ### _Dá a denominação Escola Estadual "Professora Silvana Regina Gonçalves Ereno" à Escola Estadual Fazenda Vista Alegre, localizada no Município de Igaraçu do Tietê._

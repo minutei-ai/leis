@@ -29,4 +29,4 @@ SUPLEMENTAÇÃO
 
 TOTAL A SUPLEMENTAR POR FONTE: R$ 57.871.370,09
 
-<table><tbody><tr><td rowspan="1" style="width: 598px;">25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES</td><td style="width: 126px;">R$ 57.871.370,09</td></tr></tbody></table>
+<table><tbody><tr><td rowspan="1">25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES</td><td>R$ 57.871.370,09</td></tr></tbody></table>

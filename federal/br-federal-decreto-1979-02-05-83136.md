@@ -1,5 +1,3 @@
-###DEC-083136-0-000-05-02-1979@@@
-
 Decreto nº 83.136, de 05 de fevereiro de 1979
 
 Concede à PROVIGA - Indústria de Materiais para Contruções Ltda. o direito de lavrar quartzito no Município de Guararema, Estado de São Paulo.

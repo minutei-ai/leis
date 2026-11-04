@@ -1,5 +1,3 @@
-###DEC-079308-0-000-25-02-1977@@@
-
 Decreto Nº 79.308, de 25 de Fevereiro de 1977.
 
 Autoriza a transferência direta  para a Fundação Educacional União da Serra - Rádio Veranense de Veranópolis - da concessão outorgada à Rádio Emissora Veranense Ltda. Para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Veranópolis, Estado do Rio Grande do Sul.

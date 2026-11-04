@@ -1,5 +1,3 @@
-###DEC-006174-0-000-01-08-2007@@@
-
 DECRETO Nº 6.174, DE 1º DE AGOSTO DE 2007.
 
 Institui e regulamenta o Fórum Permanente das Microempresas e Empresas de Pequeno Porte e dá outras providências.
@@ -63,5 +61,3 @@ Brasília, 1º de agosto de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Miguel Jorge
-
-Este texto não substitui o publicado no DOU de 2.8.2007

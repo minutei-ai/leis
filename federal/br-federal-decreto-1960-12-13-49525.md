@@ -1,5 +1,3 @@
-###DEC-049525-0-000-13-12-1960@@@
-
 DECRETO Nº 49.525, DE 13 DE DEZEMBRO DE 1960.
 
 Retifica a redação do art. 1º do Decreto nº 43.719, de 20 de maio de 1958.

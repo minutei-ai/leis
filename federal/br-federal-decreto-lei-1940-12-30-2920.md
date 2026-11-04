@@ -96,7 +96,7 @@ Fernando Costa.
 
 Gustavo Capanema.
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAABCAYAAABaFGkLAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAEklEQVR4nGNgYGD4P4ppgsEAAOq0VauFEUoiAAAAAElFTkSuQmCC)Waldemar Falcão.
+![](../assets/md-inline/380e1a6b97fcd13e3efead3e16fa1a6ebdec7241850182fc54b4b9920b94d5de.png)Waldemar Falcão.
 
 \_\_\_\_\_\_\_\_\_\_
 

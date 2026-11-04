@@ -1,5 +1,3 @@
-###DEC-079048-0-000-27-12-1976@@@
-
 Decreto nº 79.048, de 27 de dezembro de 1976.
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados no Município de Sena Madureira, Estado do Acre, compreendidos na área prioritária de Reforma Agrária, assim declarada pelo Decreto nº 67.557, de 12 de novembro de 1970, e ampliada pelo Decreto nº 75.295, de 27 de janeiro de 1975.

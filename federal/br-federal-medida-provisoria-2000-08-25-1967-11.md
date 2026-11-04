@@ -1,5 +1,3 @@
-###MPV-001967-0-011-25-08-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.967-11, DE 25 DE agosto DE 2000.
 
 Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Ministério da Integração Nacional, crédito extraordinário no valor de R$240.000.000,00, para os fins que especifica.

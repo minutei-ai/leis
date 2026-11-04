@@ -1,5 +1,3 @@
-###DEC-075039-0-000-04-12-1974@@@
-
 DECRETO Nº 75.039, DE 4 DE DEZEMBRO DE 1974.
 
 Retifica o Decreto número 74.079, de 16 de maio de 1974, que declara de utilidade pública, para fins de desapropriação, uma área de terra urbana, sem benfeitorias, situada na Cidade de Belo Horizonte, Estado de Minas Gerais, destinada à construção de prédio para instalação do Serviço de Correspondência Agrupada - SERCA - da Empresa Brasileira de Correios e Telégrafos - ECT.

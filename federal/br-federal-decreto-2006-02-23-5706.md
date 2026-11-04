@@ -1,5 +1,3 @@
-###DEC-005706-0-000-23-02-2006@@@
-
 DECRETO Nº 5.706, DE 23 DE FEVEREIRO DE 2006.
 
 Dá nova redação ao art. 39 do Regulamento de Promoções da Carreira de Diplomata do Serviço Exterior, aprovado pelo Decreto no 4.248, de 23 de maio de 2002.

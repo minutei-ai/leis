@@ -1,5 +1,3 @@
-###DEC-066858-0-000-08-07-1970@@@
-
 decreto nº 66.858, de 8 de julho de 1970.
 
 Declara de utilidade pública a Escola de Enfermagem Luiza de Marillac, com sede no Estado da Guanabara.

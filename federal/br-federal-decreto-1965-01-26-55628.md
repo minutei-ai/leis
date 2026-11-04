@@ -1,5 +1,3 @@
-###DEC-055628-0-000-26-01-1965@@@
-
 DECRETO Nº 55.628, DE 26 DE JANEIRO DE 1965.
 
 Abre, pelo Ministério da Fazenda, o crédito especial, com vigência de quatro exercícios, de Cr$15.000.000.000,00 (quinze bilhões de cruzeiros), para atender as despesas que específica.

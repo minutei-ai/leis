@@ -1,5 +1,3 @@
-###DEC-092106-0-000-10-12-1985@@@
-
 Decreto nº 92.106, de 10 de dezembro de 1985
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação transformadora de distribuição Biritiba, da ELETROPAULO-Eletricidade de São Paulo S.A., no Estado de São Paulo.

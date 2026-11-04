@@ -1,5 +1,3 @@
-###MPV-002061-0-004-25-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.061-4, DE 25 DE JANEIRO DE 2001
 
 Dispõe sobre o Programa de Recuperação Fiscal - Refis.

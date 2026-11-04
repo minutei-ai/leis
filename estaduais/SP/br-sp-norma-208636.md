@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208636)<br>
-
 # LEI N° 17.790, DE 06 DE OUTUBRO DE 2023
 
 ## (Projeto de lei n° 163/2021, do Deputado Paulo Fiorilo - PT)

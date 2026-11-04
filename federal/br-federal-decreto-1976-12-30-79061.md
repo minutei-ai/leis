@@ -1,5 +1,3 @@
-###DEC-079061-0-000-30-12-1976@@@
-
 DECRETO Nº 79.061, DE 30 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Turismo, da Faculdade de Turismo do Litoral Santista, com sede na Cidade de Santos, Estado de São Paulo.

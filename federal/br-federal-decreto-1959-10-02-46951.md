@@ -1,5 +1,3 @@
-###DEC-046951-0-000-02-10-1959@@@
-
 DECRETO Nº 46.951, DE 2 DE OUTUBRO DE 1959.
 
 Declara de utilidade pública a faixa de terra destinada à passagem das linhas de transmissão da Companhia Hidroelétrica do Rio Pardo.

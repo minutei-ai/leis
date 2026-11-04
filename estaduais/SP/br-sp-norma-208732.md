@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208732)<br>
-
 # DECRETO N° 68.042, DE 30 DE OUTUBRO DE 2023
 
 ### _Declara luto oficial no Estado, por 3 (três) dias, pelo falecimento do sociólogo, filósofo e ex-seminarista Danilo Santos de Miranda._

@@ -1,5 +1,3 @@
-###DEC-005699-0-000-13-02-2006@@@
-
 DECRETO Nº 5.699, DE 13 DE FEVEREIRO DE 2006.
 
 Acresce e altera dispositivos do Regulamento da Previdência Social, aprovado pelo Decreto no 3.048, de 6 de maio de 1999.

@@ -1,5 +1,3 @@
-###MPV-001946-0-035-06-01-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.946-35, DE 6 DE JANEIRO DE 2000.
 
 Dispõe sobre o salário mínimo para o período de 1º de maio de 1997 a 30 de abril de 1998.

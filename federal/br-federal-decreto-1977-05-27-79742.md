@@ -1,5 +1,3 @@
-###DEC-079742-0-000-27-05-1977@@@
-
 DECRETO Nº 79.742, DE 27 DE MAIO DE 1977.
 
 Dispõe sobre os programas de aplicação dos recursos de que trata o Decreto-lei nº 1.555, de 27 de maio de 1977.

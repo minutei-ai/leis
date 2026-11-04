@@ -1,5 +1,3 @@
-###DEC-066807-0-000-30-06-1970@@@
-
 DECRETO Nº 66.807 - DE 30 DE JUNHO DE 1970
 
 Outorga à Madeireira Nacional S.A., concessão para o aproveitamento hidráulico de um trecho do rio Piquiri, no distrito de Santa Maria município de Pitanga, no Estado do Paraná.

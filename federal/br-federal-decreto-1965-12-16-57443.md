@@ -1,5 +1,3 @@
-###DEC-057443-0-000-16-12-1965@@@
-
 DECRETO Nº 57.443, DE 16 DE DEZEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro Leopoldo Gonçalves Guimarães Júnior a lavrar areia quartzosa, no município de Queluz, Estado de São Paulo.

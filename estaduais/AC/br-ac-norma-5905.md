@@ -1,6 +1,10 @@
 > **LEI Nº 4.274, DE 18 DE DEZEMBRO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei nº 4.131, de 17 de julho de 2023, que dispõe sobre o Plano de Cargos, Carreira e Remuneração – PCCR, dos Servidores do Ministério Público do Estado do Acre – MPAC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera dispositivos da Lei nº 4.131, de 17 de julho de 2023, que dispõe sobre o Plano de Cargos, Carreira e Remuneração – PCCR, dos Servidores do Ministério Público do Estado do Acre – MPAC.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

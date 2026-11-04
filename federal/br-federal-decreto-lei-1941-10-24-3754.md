@@ -1,5 +1,3 @@
-###DEL-003754-0-000-24-10-1941@@@
-
 DECRETO-LEI N. 3.754 – DE 24 DE OUTUBRO DE 1941
 
 Torna sem efeito o decreto n. 6.804, de 3 de fevereiro de 1941, e dá outras providências

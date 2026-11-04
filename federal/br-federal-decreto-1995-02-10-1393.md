@@ -1,7 +1,3 @@
-1
-
-###DEC-001393-0-000-10-02-1995@@@
-
 DECRETO Nº 1.393, DE 10 DE FEVEREIRO DE 1995
 
 Dispõe sobre a execução do Vigésimo Sétimo Protocolo Adicional ao Acordo de Complementação Econômica nº 14, entre Brasil e Argentina, de 12 de dezembro de 1994.

@@ -1,5 +1,3 @@
-###DEC-076218-0-000-09-09-1975@@@
-
 DECRETO Nº 76.218 - DE 9 DE SETEMBRO DE 1975
 
 Dispõe sobre a competência das Juntas de Recursos e do Conselho de  Recursos da Previdência Social e dá outras providências.

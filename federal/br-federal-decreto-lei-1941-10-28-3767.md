@@ -1,5 +1,3 @@
-###DEL-003767-0-000-28-10-1941@@@
-
 DECRETO-LEI N. 3.767 – DE 28 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito suplementar de 2:500$0, à verba que especifica

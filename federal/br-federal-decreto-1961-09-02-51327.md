@@ -1,5 +1,3 @@
-###DEC-051327-0-000-02-09-1961@@@
-
 (\*) DECRETO Nº 51.327, DE 2 DE SETEMBRO DE 1961.
 
 Retifica o Decreto nº 51.170, de 9 de agôsto de 1961.

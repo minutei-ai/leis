@@ -1,5 +1,3 @@
-###DEC-055041-0-000-19-11-1964@@@
-
 DECRETO Nº 55.041, DE 19 DE NOVEMBRO DE 1964.
 
 Institui, no Ministério da Saúde, a Comissão de Assuntos Internacionais.

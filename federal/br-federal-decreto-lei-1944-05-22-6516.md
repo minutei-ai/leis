@@ -1,5 +1,3 @@
-###DEL-006516-0-000-22-05-1944@@@
-
 DECRETO-LEI N. 6.516 – DE 22 DE MAIO DE 1944
 
 Eleva o limite da emissão de “Obrigações de Guerra” autorizada pelo Decreto-lei nº 4. 789, de 5 de outubro de 1942

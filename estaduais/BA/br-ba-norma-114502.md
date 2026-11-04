@@ -1,6 +1,7 @@
 LEI Nº 1.767 DE 30 DE JULHO DE 1962
 
-Ver também:<br>
+Ver também:
+
 Lei nº [13.720](https://www.legislabahia.ba.gov.br/documentos/decreto-simples-doe-14062013#_GoBack) , de 27 de abril de 2017. Atualiza, na forma da Lei 12.057/2011, os limites dos municípios de Acajutiba, Alagoinhas, Aporá, Araçás, Aramari, Cardeal da Silva, Catu, Conde, Crisópolis, Entre Rios, Esplanada, Inhambupe, Itanagra, Itapicuru, Jandaíra, Olindina, Ouriçangas, Pedrão, Pojuca e Rio Real.
 
 Cria o município de Itanagra, desmembrado dos de Mata de São João e Entre Rios.
@@ -59,4 +60,4 @@ LEIA-SE da seguinte maneira:
 
 Os limites com o município de Mata de São Jõao: Começa no rio Sauípe, na foz do rio Tibetuba, daí em reta ao marco no lugar Estiva e finalmente em reta ao lugar Covão, subindo pelo talvegue a foz do Rio Oricó Grande.
 
-* * *
+ *

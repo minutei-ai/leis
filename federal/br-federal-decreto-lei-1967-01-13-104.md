@@ -1,5 +1,3 @@
-###DEL-000104-0-000-13-01-1967@@@
-
 DECRETO-LEI Nº 104, DE 13 DE JANEIRO DE 1967
 
 Altera a legislação do impôsto sôbre produtos industrializados e dá outras providências.

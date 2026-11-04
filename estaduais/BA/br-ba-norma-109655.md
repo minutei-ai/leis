@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decre
 
 Art. 1º - Fica criado, na estrutura da Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social, o Conselho Estadual de Defesa do Consumidor, com a finalidade de prestar assessoramento na definição e formulação da política estadual de proteção e defesa do consumidor, bem como acompanhar, apoiar e avaliar os mecanismos governamentais que atuem visando aos interesses e direitos do consumidor.
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "Art. 1º - Fica criado, na estrutura da Secretaria da Justiça e Direitos Humanos, o Conselho Estadual de Defesa do Consumidor, com a finalidade de prestar assessoramento na definição e formulação da política estadual de proteção e defesa do consumidor, bem como acompanhar, apoiar e avaliar os mecanismos governamentais que atuem visando aos interesses e direitos do consumidor."
 
 Art. 2º - Compete ao Conselho Estadual de Defesa do Consumidor - CEDC/BA :
@@ -29,24 +30,28 @@ Art. 3º - O Conselho Estadual de Defesa do Consumidor - CEDC/BA terá a seguint
 
 I - o Secretário de Justiça, Direitos Humanos e Desenvolvimento Social, que o presidirá;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "I - o Secretário de Justiça e Direitos Humanos, que o presidirá;"
 
 II - um representante da Superintendência de Proteção e Defesa do Consumidor - PROCON/BA, da estrutura da Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "II - um representante da Superintendência de Proteção e Defesa do Consumidor - PROCON/BA, da estrutura da Secretaria da Justiça e Direitos Humanos;"
 
 III - um representante da Defensoria Pública do Estado;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "III - um representante da Defensoria Pública do Estado, da estrutura da Secretaria da Justiça e Direitos Humanos;"
 
 IV - um representante da Diretoria de Vigilância e Controle Sanitário, da estrutura da Secretaria da Saúde;
 
 V - um representante do Instituto Baiano de Metrologia, Normalização e Qualidade Industrial - IBAMETRO, da Secretaria de Desenvolvimento Econômico;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "V - um representante do Instituto Baiano de Metrologia, Normalização e Qualidade Industrial - IBAMETRO, da Secretaria da Indústria, Comércio e Mineração;"
 
 VI - um representante da Delegacia de Defesa do Consumidor, da estrutura da Secretaria da Segurança Pública;

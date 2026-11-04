@@ -1,5 +1,3 @@
-###DEC-058596-0-000-10-06-1966@@@
-
 decreto nº 58.596, de 10 de junho de 1966.
 
 Considera de alto interêsse nacional o projeto de instalação, no Brasil de uma Fábrica de Tintas marítimas, sob a responsabilidade da Hempel Tintas Marítimas Ltda.

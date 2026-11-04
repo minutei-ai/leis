@@ -1,5 +1,3 @@
-###DEC-081029-0-000-15-12-1977@@@
-
 DECRETO Nº 81.029, DE 15 DE DEZEMBRO DE 1977.
 
 Fixa o fator de reajustamento salariais relativo a dezembro de 1977.

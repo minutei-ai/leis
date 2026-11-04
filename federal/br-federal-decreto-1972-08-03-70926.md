@@ -1,5 +1,3 @@
-###DEC-070926-0-000-03-08-1972@@@
-
 DECRETO Nº 70.926, DE 3 DE AGOSTO DE 1972.
 
 Concede à Companhia Brasileira de Cobre o direito de lavrar minério de cobre no município de Caçapava do Sul, Estado do Rio Grande do Sul.

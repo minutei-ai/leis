@@ -1,5 +1,3 @@
-###DEC-086573-0-000-11-11-1981@@@
-
 Decreto nº 86.573, de 11 de novembro de 1981
 
 Declara de utilidade pública para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas do Sul do Brasil S.A., - ELETROSUL, no Estado de Mato Grosso do Sul.

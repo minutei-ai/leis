@@ -1,5 +1,3 @@
-###DEC-046594-0-000-14-08-1959@@@
-
 DECRETO Nº 46.594, de 14 de agÔsto de 1959.
 
 Concede à sociedade “Navical” Navegação Catarinense Ltda., autorização para continuar a funcionar como emprêsa de navegação de cabotagem.
@@ -15,8 +13,6 @@ Rio de Janeiro, 14 de agôsto de 1959; 138º da Independência e 71º da Repúbl
 Juscelino Kubitschek
 
 Fernando Nóbrega
-
-###DEC-046594-0-000-14-08-1959@@@RET01+++
 
 decreto nº 46.594, de 14 de agôsto de 1959.
 

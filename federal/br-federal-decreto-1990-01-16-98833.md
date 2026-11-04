@@ -1,7 +1,3 @@
-1
-
-###DEC-098833-0-000-16-01-1990@@@
-
 DECRETO N° 98.833, DE 16 DE JANEIRO DE 1990
 
 Dispõe sobre a elevação do capital social da Centrais Elétricas Brasileiras S.A. Eletrobrás.

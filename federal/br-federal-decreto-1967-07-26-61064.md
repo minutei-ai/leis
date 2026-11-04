@@ -1,5 +1,3 @@
-###DEC-061064-0-000-26-07-1967@@@
-
 DECRETO Nº 61.064, DE 26 DE JULHO DE 1967.
 
 Dá nova redação ao artigo 2º do Decreto nº 59.952, de 9 de janeiro de 1967.

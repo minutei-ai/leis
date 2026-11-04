@@ -1,5 +1,3 @@
-###DEC-091390-0-000-02-07-1985@@@
-
 DECRETO Nº 91.390, DE 02 DE JULHO DE 1985.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Estado do Paraná, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-091325-0-000-13-06-1985@@@
-
 DECRETO nº 91.325, de 13 de junho de 1985.
 
 Extingue o Vice-Consulado do Brasil em Cobe, Japão.

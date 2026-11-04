@@ -1,7 +1,3 @@
-1
-
-###DEC-095667-0-000-26-01-1988@@@
-
 DECRETO N° 95.667, DE 26 DE JANEIRO DE 1988
 
 Outorga concessão à SOCIEDADE RÁDIO PINDORAMA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Sidrolândia, Estado do Mato Grosso do Sul.

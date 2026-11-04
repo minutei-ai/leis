@@ -1,5 +1,3 @@
-###DEC-002809-0-000-22-10-1998@@@
-
 DECRETO Nº 2.809, DE 22 DE OUTUBRO DE 1998
 
 Dispõe sobre a aquisição e utilização de passagens aéreas pelos órgãos e entidades da Administração Pública Federal direta, autárquica e fundacional, e dá outras providências.

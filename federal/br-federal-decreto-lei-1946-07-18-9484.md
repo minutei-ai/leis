@@ -1,5 +1,3 @@
-###DEL-009484-0-000-18-07-1946@@@
-
 DECRETO-LEI N. 9.484 – DE 18 DE JULHO DE 1946
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 1.537.650,00, para pagamento de contribuição do Brasil à Organização de Alimentação e Agricultura das Nações Unidas.

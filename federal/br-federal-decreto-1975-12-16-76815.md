@@ -1,5 +1,3 @@
-###DEC-076815-0-000-16-12-1975@@@
-
 DECRETO Nº 76.815, DE 16 DE DEZEMBRO DE 1975.
 
 Autoriza o registro, em nome da União Federal, do imóveis que menciona, situados no Estado do Rio de Janeiro.

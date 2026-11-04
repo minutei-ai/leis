@@ -1,5 +1,3 @@
-###DEC-064089-0-000-11-02-1969@@@
-
 DECRETO Nº 64.089, DE 11 DE FEVEREIRO DE 1969.
 
 Institui, na estrutura do Ministério da Indústria e do Comércio, a Coordenação de Relações Públicas.

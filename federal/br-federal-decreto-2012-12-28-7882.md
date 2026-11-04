@@ -1,5 +1,3 @@
-###DEC-007882-0-000-28-12-2012-PUB-01@@@
-
 DECRETO Nº\- 7.882, DE 28 DE DEZEMBRO DE 2012
 
 Regulamenta o art. 2º da Lei nº 12.649, de 17 de maio de 2012, que dispõe sobre a rotulagem das embalagens de papel destinado à impressão de livros e periódicos.

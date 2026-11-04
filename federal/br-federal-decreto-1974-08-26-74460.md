@@ -1,5 +1,3 @@
-###DEC-074460-0-000-26-08-1974@@@
-
 DECRETO Nº 74.460, de 26 de agosto de 1974.
 
 Concede permissão, em caráter permanente, às Indústrias de Papel Rio Verde S.A., com sede na Capital do Estado de São Paulo, para funcionarem aos domingos e nos dias feriados civis e religiosos, nos seus estabelecimentos industriais localizados nos Municípios de Pirituba e Suzano, ambos no referido Estado.

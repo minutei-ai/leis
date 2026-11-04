@@ -1,5 +1,3 @@
-###DEC-048816-0-000-12-08-1960@@@
-
 DECRETO Nº 48.816, DE 12 DE AGôSTO DE 1960.
 
 Transfere da Companhia Fábrica de Papel Itajaí para a Olinkraft S.A. - Celulose e Papel a concessão para a produção de energia elétrica para uso exclusivo.

@@ -1,5 +1,3 @@
-###DEC-054980-0-000-12-11-1964@@@
-
 DECRETO Nº 54.980, DE 12 DE NOVEMBRO DE 1964.
 
 Autoriza Alceu Alves Peixoto a comprar pedras preciosas.

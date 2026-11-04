@@ -1,5 +1,3 @@
-###DEC-058438-0-000-17-05-1966@@@
-
 DECRETO nº 58.438, DE 17 MAIO DE 1966.
 
 Outorga a Centrais Elétricas do Pará S.A concessão Pará S.A concessão para distribuir energia elétrica.

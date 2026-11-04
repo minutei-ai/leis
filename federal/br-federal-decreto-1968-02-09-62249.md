@@ -1,5 +1,3 @@
-###DEC-062249-0-000-09-02-1968@@@
-
 DECRETO Nº 62.249, DE 9 DE FEVEREIRO DE 1968.
 
 Declara de utilidade pública o “Instituto Nossa Senhora da Glória”, com sede em Macaé, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-049646-0-000-31-12-1960@@@
-
 Decreto nº 49.646, de 31 de dezembro de 1960.
 
 Autoriza o cidadão brasileiro Raimundo de Oliveira Barros a pesquisar areias ilmeníticas no município de Barreirinhas, Estado do Maranhão.

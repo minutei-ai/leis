@@ -1,5 +1,3 @@
-###DEC-083678-0-000-03-07-1979@@@
-
 Decreto nº 83.678, de 03 de julho de 1979.
 
 Concede reconhecimento ao curso de Formação de Professores para Disciplinas Especializadas do Ensino de 2º Grau da Universidade do Estado do Rio de Janeiro, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

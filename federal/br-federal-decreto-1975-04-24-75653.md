@@ -1,5 +1,3 @@
-###DEC-075653-0-000-24-04-1975@@@
-
 DECRETO Nº 75.653, DE 24 DE ABRIL DE 1975.
 
 Torna sem efeito o Decreto número 36.693, de 29 de dezembro de 1954, na parte em que incluiu servidor na Tabela Única de Extranumerário Mensalista do Ministério da Fazenda.

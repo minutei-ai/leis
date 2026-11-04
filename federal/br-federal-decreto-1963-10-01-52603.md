@@ -1,5 +1,3 @@
-###DEC-052603-0-000-01-10-1963@@@
-
 DECRETO Nº 52.603, DE 1 DE OUTUBRO DE 1963.
 
 Outorga à Prefeitura Municipal de Uruguaiana concessão para distribuir energia elétrica no distrito de barra do Quaraí, município de Uruguaiana, Estado do Rio Grande do Sul.

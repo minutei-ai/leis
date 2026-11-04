@@ -1,5 +1,3 @@
-###DEC-085493-0-000-15-12-1980@@@
-
 DECRETO Nº 85.493, DE 15 DE DEZEMBRO DE 1980.
 
 Altera o Decreto nº 55.202, de 11 de dezembro de 1964, que define o filme brasileiro, com as modificações que lhe foram introduzidas pelo Decreto nº 69.161, de 2 de dezembro de 1971.

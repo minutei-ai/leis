@@ -1,7 +1,3 @@
-1
-
-###DEC-001214-0-000-08-08-1994@@@
-
 DECRETO Nº 1.214, DE 8 DE AGOSTO DE 1994
 
 Autoriza a utilização, no comércio interno, de container estrangeiro e seus acessórios, pelo prazo de doze meses.

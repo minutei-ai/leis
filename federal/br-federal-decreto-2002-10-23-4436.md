@@ -1,5 +1,3 @@
-###DEC-004436-0-000-23-10-2002@@@
-
 DECRETO Nº 4.436, DE 23 DE OUTUBRO DE 2002
 
 Cria, no âmbito do Ministério da Saúde, a Comissão Nacional de Bioética em Saúde (CNBioética), e dá outras providências.

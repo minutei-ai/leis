@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74626)
-
 # LEI Nº 12.772, DE 21 DE NOVEMBRO DE 2007
 
 ## (Projeto de lei nº 432/2007, do Deputado Hamilton Pereira - PT)

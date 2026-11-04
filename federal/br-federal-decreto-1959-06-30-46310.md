@@ -1,5 +1,3 @@
-###DEC-046310-0-000-30-06-1959@@@
-
 DECRETO Nº 46.310, DE 30 DE JUNHO DE 1959.
 
 Autoriza o cidadão brasileiro Antônio Aureliano Ferreira a pesquisar minério de manganês no município de Itaúna, Estado de Minas Gerais.

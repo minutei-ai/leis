@@ -1,5 +1,3 @@
-###DEC-068432-0-000-29-03-1971@@@
-
 DECRETO Nº 68.432, DE 29 DE MARÇO DE 1971.
 
 Declara de utilidade pública a Sociedade Pestalozzi do Estado do Rio de Janeiro, com sede em Niterói, Estado do Rio de Janeiro.

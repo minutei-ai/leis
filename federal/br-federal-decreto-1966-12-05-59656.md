@@ -1,5 +1,3 @@
-###DEC-059656-0-000-05-12-1966@@@
-
 DECRETO Nº 59.656, DE 5 DE DEZEMBRO DE 1966.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 48.692, de 4 de agôsto de 1960, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público “Tremedal”, no município de Tremedal, Estado da Bahia.

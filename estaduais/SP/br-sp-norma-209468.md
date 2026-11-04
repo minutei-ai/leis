@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209468)<br>
-
 # DECRETO N° 68.537, DE 20 DE MAIO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação e ocupação temporária pela Companhia do Metropolitano de São Paulo - METRÔ, os imóveis necessários à implantação de estações, ventilações e saída de emergência da Linha 19-Celeste, no Município de São Paulo, e dá providências correlatas._

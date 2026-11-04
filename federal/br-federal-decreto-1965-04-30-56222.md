@@ -1,5 +1,3 @@
-###DEC-056222-0-000-30-04-1965@@@
-
 DECRETO Nº 56.222, DE 30 DE ABRIL DE 1965.
 
 Autoriza Th Badin de Minérios Ltda. a pesquisar cassiterita nos municípios de Piatã e Rio das Contas, Estado da Bahia.

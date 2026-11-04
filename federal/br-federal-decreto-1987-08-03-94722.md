@@ -1,5 +1,3 @@
-###DEC-094722-0-000-03-08-1987@@@
-
 DECRETO Nº 94.722, DE 3 DE AGOSTO DE 1987.
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados da Faculdade de Ciências Econômicas, Administrativas e Contábeis de Belo Horizonte.

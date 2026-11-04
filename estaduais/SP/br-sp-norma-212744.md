@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212744)<br>
-
 # LEI N° 18.491, DE 16 DE JUNHO DE 2026
 
 ## (Projeto de lei n° 1092/2025, do Deputado Capitão Telhada - PP)

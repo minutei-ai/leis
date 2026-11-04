@@ -1,5 +1,3 @@
-###DEC-079596-0-000-26-04-1977@@@
-
 Decreto nº 79.596, de 26 de abril de 1977.
 
 Concede a Eliseu Angelo Togni- Mineração. Firma Individual o direito de lavrar argila e bauxita no Município de Bom Repouso, Estado de Minas Gerais.

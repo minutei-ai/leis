@@ -1,5 +1,3 @@
-###DEC-086590-0-000-17-11-1981@@@
-
 Decreto nº 86.590, de 17 de novembro de 1981
 
 Dispõe sobre o cargo de comandante da Polícia Militar do Estado de São Paulo e dá outras providências.

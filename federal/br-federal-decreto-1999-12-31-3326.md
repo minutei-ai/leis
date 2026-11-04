@@ -1,5 +1,3 @@
-###DEC-003326-0-000-31-12-1999@@@
-
 DECRETO Nº 3.326, DE 31 DE DEZEMBRO DE 1999.
 
 Fixa o valor mínimo anual por aluno de que trata o art. 6º, § 1º, da Lei nº 9.424, de 24 de dezembro de 1996, e dá outras providências.

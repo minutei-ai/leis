@@ -1,5 +1,3 @@
-###DEC-054265-0-000-08-09-1964@@@
-
 decreto nº 54.265, de 8 de setembro de 1964.
 
 Aprova a revisão do Quadro de Pessoal do Departamento Nacional de Obras Contra as Sêcas e dá outras providências.

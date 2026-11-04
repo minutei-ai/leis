@@ -1,5 +1,3 @@
-###DEC-068037-0-000-12-01-1971@@@
-
 DECRETO Nº 68.037, DE 12 DE JANEIRO DE 1971.
 
 Autoriza o funcionamento ininterrupto da fábrica localizada em Piaçaguera, Cubatão - Estado de São Paulo de propriedade de Ultrafértil S.A. Indústria e Comércio de Fertilizantes.

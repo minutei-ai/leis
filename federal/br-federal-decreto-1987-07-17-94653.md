@@ -1,5 +1,3 @@
-###DEC-094653-0-000-17-07-1987@@@
-
 DECRETO Nº 94.653, DE 17 DE JULHO DE 1987.
 
 Declara de utilidade pública as instituições que menciona.

@@ -1,5 +1,3 @@
-###DEC-052972-0-000-26-11-1963@@@
-
 DECRETO Nº 52.972, DE 26 DE NOVEMBRO DE 1963.
 
 Dá nova redação ao artigo 32, do Regulamento do Banco Nacional de Crédito Cooperativo.

@@ -1,5 +1,3 @@
-###DEC-094095-0-000-13-03-1987@@@
-
 DECRETO N° 94.095, DE 13 DE MARÇO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Engenho São José", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de São Benedito do Sul, Estado de Pernambuco, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.683, de 19 de maio de 1986, e dá outras providências.

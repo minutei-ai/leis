@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208834)<br>
-
 # DECRETO N° 68.107, DE 24 DE NOVEMBRO DE 2023
 
 ### _Regulamenta a Lei n° 17.054, de 6 de maio de 2019, que dispõe sobre o registro de empresas, o cadastro de produtos e a fiscalização do uso, do consumo, do comércio, do armazenamento, do transporte, da prestação de serviço na aplicação e da destinação de embalagens dos agrotóxicos e afins de uso fitossanitário em área agrícola, altera a Lei n° 15.266, de 26 de dezembro de 2013, que dispõe sobre o tratamento tributário relativo às taxas no âmbito do Poder Executivo Estadual, e dá outras providências._
@@ -8,12 +6,14 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposição Preliminar
 
 **Artigo 1° -** Este decreto regulamenta a [Lei n° 17.054, de 6 de maio de 2019](https://www.al.sp.gov.br/norma/190467), no que dispõe sobre o registro de empresas, ao cadastro de produtos e à fiscalização do uso, do comércio, do armazenamento, do transporte, da prestação de serviço na aplicação, da destinação de embalagens vazias dos agrotóxicos e afins de uso fitossanitário em área agrícola, bem como estabelece os procedimentos administrativos para aplicação das sanções previstas na referida lei e o recolhimento das taxas previstas na [Lei n° 15.266, de 26 de dezembro de 2013](https://www.al.sp.gov.br/norma/172124).
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Do Registro e do Cadastro
 
 **Artigo 2° -** Toda empresa localizada no Estado de São Paulo que produzir, formular, manipular, importar, exportar, armazenar, comercializar e prestar serviço na aplicação de agrotóxicos e afins de uso fitossanitário em área agrícola, assim como as Unidades de Recebimento de Embalagens Vazias - UREVs, deve obter registro junto à Coordenadoria de Defesa Agropecuária, sem prejuízo ao atendimento de outras exigências da legislação aplicável.
@@ -32,7 +32,8 @@ Do Registro e do Cadastro
 
 **Artigo 5° -** A Coordenadoria de Defesa Agropecuária disponibilizará a relação dos agrotóxicos e afins de uso fitossanitário em área agrícola cadastrados e das empresas registradas.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Das Taxas
 
 **Artigo 6° -** Os "Atos de Vigilância de Agrotóxicos e Afins de Uso Fitossanitário em Área Agrícola" estão sujeitos ao pagamento da taxa de que trata o Capítulo IV do Anexo II da [Lei 15.266, de 26 de dezembro de 2013](https://www.al.sp.gov.br/norma/172124).
@@ -41,7 +42,8 @@ Das Taxas
 
 **Artigo 8° -** Compete à Coordenadoria de Defesa Agropecuária a fiscalização do recolhimento das taxas referidas nesta Seção, sem prejuízo da competência dos Auditores Fiscais da Receita Estadual.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Da Fiscalização
 
 **Artigo 9° -** Compete à Coordenadoria de Defesa Agropecuária a prática dos atos a que se refere o artigo 3° da [Lei n° 17.054, de 6 de maio de 2019](https://www.al.sp.gov.br/norma/190467), bem como:
@@ -110,7 +112,8 @@ II - efetuar coleta de amostras fiscais de produtos de origem vegetal e seus sub
 
 **Artigo 15 -** Ato do Secretário de Agricultura e Abastecimento estabelecerá os procedimentos para realização das análises de produtos agrotóxicos coletados pela fiscalização.
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 Das Infrações e das Sanções
 
 **Artigo 16 -** As condutas arroladas no artigo 7° da [Lei n° 17.054, de 6 de maio de 2019](https://www.al.sp.gov.br/norma/190467), constituem infrações passíveis de sanção.
@@ -253,7 +256,8 @@ c) comercializar vegetais, parte de vegetais ou agrotóxicos e afins apreendidos
 
 **Parágrafo único -** Se ocorrer a substituição da UFESP, o valor da multa corresponderá à quantidade equivalente do novo índice adotado.
 
-#### SEÇÃO VI<br>
+#### SEÇÃO VI
+
 Do Processo Administrativo
 
 **Artigo 22 -** O procedimento administrativo para apuração de infrações de que trata este decreto rege-se pela [Lei n° 10.177, de 30 de dezembro de 1998](https://www.al.sp.gov.br/norma/7505), e por este decreto.
@@ -348,7 +352,8 @@ VI - manifestação da unidade regional da Coordenadoria de Defesa Agropecuária
 
 **Artigo 36 -** Na contagem dos prazos estabelecidos neste regulamento, será excluído o dia do início e incluído o dia do vencimento, prorrogando-se este até o primeiro dia útil subsequente quando vencer em sábado, domingo ou feriado.
 
-#### SEÇÃO VII<br>
+#### SEÇÃO VII
+
 Das Disposições Finais
 
 **Artigo 37 -** O usuário final deverá encaminhar anualmente à Coordenadoria de Defesa Agropecuária cópia da nota fiscal e receita agronômica dos agrotóxicos e afins de uso fitossanitário em área agrícola adquiridos em outras unidades da federação.

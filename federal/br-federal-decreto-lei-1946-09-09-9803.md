@@ -1,5 +1,3 @@
-###DEL-009803-0-000-09-09-1946@@@
-
 DECRETO-LEI N. 9.803 – DE 9 DE SETEMBRO DE 1946
 
 Altera, sem aumento de despesa, o Orçamento Geral da República para 1946.

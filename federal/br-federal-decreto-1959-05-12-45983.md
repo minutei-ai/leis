@@ -1,5 +1,3 @@
-###DEC-045983-0-000-12-05-1959@@@
-
 Decreto nº 45.983, De 12 de maio de 1959.
 
 Altera a estrutura e o Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-009489-0-000-19-07-1946@@@
-
 DECRETO-LEI N. 9.489 – DE 19 DE JULHO DE 1946
 
 Autoriza a modificação do quadro territorial do Estado da Bahia.

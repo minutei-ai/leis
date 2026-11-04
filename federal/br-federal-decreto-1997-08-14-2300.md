@@ -1,5 +1,3 @@
-###DEC-002300-0-000-14-08-1997@@@
-
 DECRETO Nº 2.300, DE 14 DE AGOSTO DE 1997
 
 Dispõe sobre a aquisição de ações da Companhia Energética de Alagoas - CEAL, pertencentes ao Estado de Alagoas.

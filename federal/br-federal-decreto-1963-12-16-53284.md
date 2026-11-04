@@ -1,5 +1,3 @@
-###DEC-053284-0-000-16-12-1963@@@
-
 DECRETO Nº 53.284, DE 16 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Norberto Baracuhy a pesquisar grafite, quartzo e mica, no município de Peixe, Estado de Goiás.

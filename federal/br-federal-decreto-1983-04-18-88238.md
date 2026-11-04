@@ -1,5 +1,3 @@
-###DEC-088238-0-000-18-04-1983@@@
-
 DECRETO nº 88.238, de 18 de abril de 1983
 
 Outorga concessão à RÁDIO FIFOM DE ITABIRA LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito regional, a na cidade de Itabira, Estado de Minas Gerais.

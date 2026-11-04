@@ -1,5 +1,3 @@
-###MPV-001950-0-068-21-09-2000@@@
-
 MEDIDA provisória nº 1.950-68, de 21 de setembro de 2000.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

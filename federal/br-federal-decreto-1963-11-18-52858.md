@@ -1,5 +1,3 @@
-###DEC-052858-0-000-18-11-1963@@@
-
 DECRETO Nº 52.858, DE 18 DE NOVEMBRO DE 1963.
 
 Autoriza a Centrais Elétricas de Minas Gerais S.A. a construir linha de transmissão.

@@ -1,5 +1,3 @@
-###DEC-061116-0-000-31-07-1967@@@
-
 DECRETO Nº 61.116, DE 31 DE JULHO DE 1967.
 
 Declara de utilidade pública a “Santa Casa de Misericórdia de São Simão”, com sede em São Paulo.

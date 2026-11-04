@@ -1,5 +1,3 @@
-###DEC-047670-0-000-19-01-1960@@@
-
 DECRETO Nº 47.670, DE 19 DE JANEIRO DE 1960.
 
 Concede reconhecimento a cursos.

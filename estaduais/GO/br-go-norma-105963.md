@@ -76,8 +76,6 @@ Art. 10. Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 26 de julho de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

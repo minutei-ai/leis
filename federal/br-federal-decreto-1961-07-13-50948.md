@@ -1,5 +1,3 @@
-###DEC-050948-0-000-13-07-1961@@@
-
 Decreto nº 50.948 de 13 de julho de 1961.
 
 Concede autorização para funcionamento de curso.

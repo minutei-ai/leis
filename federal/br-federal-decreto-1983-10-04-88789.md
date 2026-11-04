@@ -1,5 +1,3 @@
-###DEC-088789-0-000-04-10-1983@@@
-
 DECRETO Nº 88.789, DE 04 DE OUTUBRO DE 1983
 
 Declara de interesse social, para fins de desapropriação, imóvel rural constituído de parte da "Fazenda Taquari" e situado no Município de Parati, Estado do Rio de Janeiro, compreendido na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 88.788, de 04 de outubro de 1983.

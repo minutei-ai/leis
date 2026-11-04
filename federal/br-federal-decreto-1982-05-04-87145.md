@@ -1,5 +1,3 @@
-###DEC-087145-0-000-04-05-1982@@@
-
 DECRETO Nº 87.145, DE 04 DE MAIO DE 1982.
 
 Concede a FORJAS ACESITA S.A. autorização para proceder a aumento de seu capital social.

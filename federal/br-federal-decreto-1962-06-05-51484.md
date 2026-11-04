@@ -1,5 +1,3 @@
-###DEC-051484-0-000-05-06-1962@@@
-
 DECRETO Nº 51.484, DE 5 DE JUNHO DE 1962.
 
 Extingue o Conselho Coordenador do Abastecimento e dá outras providências.

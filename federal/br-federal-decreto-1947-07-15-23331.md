@@ -1,14 +1,12 @@
-###DEC-023331-0-000-15-07-1947@@@
+**DECRETO Nº 23.331, DE 15 DE JULHO DE 1947.**
 
-<strong>DECRETO Nº 23.331, DE 15 DE JULHO DE 1947.</strong>
+***Suprime cargos extintos***
 
-<em><strong>Suprime cargos extintos</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do artigo 1º, alínea *n* do Decreto-lei nº 3.195, de 14 de abril de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do artigo 1º, alínea <em>n</em> do Decreto-lei nº 3.195, de 14 de abril de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam suprimidos cargos das seguintes carreira dos Quadro Suplementar do Ministério da Educação e Saúde:
+**Art**. 1º Ficam suprimidos cargos das seguintes carreira dos Quadro Suplementar do Ministério da Educação e Saúde:
 
 Assistente (F.N.M. - U.B.), padrão I (1 cargo):
 
@@ -26,10 +24,10 @@ Zelador - classe F (1 cargo):
 
 Vago em virtude da promoção de Caracioli Emílio de Jesus, devendo a dotação correspondente ser levada a crédito da conta-corrente do Quadro Permanente do referido Ministério.
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 15 de julho 1947, 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clemente Mariani

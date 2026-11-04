@@ -1,5 +1,3 @@
-###DEC-006655-0-000-20-11-2008@@@
-
 DECRETO Nº 6.655, DE 20 DE NOVEMBRO DE 2008.
 
 Altera o Decreto n~~º~~ 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.

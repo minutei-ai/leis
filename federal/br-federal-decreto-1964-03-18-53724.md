@@ -1,5 +1,3 @@
-###DEC-053724-0-000-18-03-1964@@@
-
 DECRETO Nº 53.724, DE 18 DE MARÇO DE 1964.
 
 Concede à Braslusitana Companhia Nacional de Seguros Gerais autorização para funcionar e aprova os seus Estatutos.

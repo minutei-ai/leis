@@ -1,5 +1,3 @@
-###DEC-007723-0-000-04-05-2012-PUB-01@@@
-
 DECRETO N° 7.723, DE 4 DE MAIO DE 2012
 
 Prorroga o prazo de vigência do licenciamento compulsório, por interesse público, das patentes referentes ao Efavirenz para fins de uso público não comercial, de que trata o Decreto no 6.108, de 4 de maio de 2007.

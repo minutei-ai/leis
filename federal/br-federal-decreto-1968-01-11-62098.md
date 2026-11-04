@@ -1,5 +1,3 @@
-###DEC-062098-0-000-11-01-1968@@@
-
 DECRETO Nº 62.098, DE 11 DE JANEIRO DE 1968.
 
 Declara de utilidade pública a “Santa Casa de Caridade de Guaranésia”, com sede em Guaranésia, Estado de Minas Gerais.

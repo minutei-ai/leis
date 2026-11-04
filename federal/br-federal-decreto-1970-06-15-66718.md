@@ -1,5 +1,3 @@
-###DEC-066718-0-000-15-06-1970@@@
-
 DECRETO Nº 66.718, DE 15 DE JUNHO DE 1970.
 
 Retifica o artigo 1º do Decreto nº 65.175, de 17 de setembro de 1969.

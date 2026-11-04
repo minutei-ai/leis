@@ -1,5 +1,3 @@
-###MPV-001882-0-056-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.882-56, DE 29 DE JUNHO DE 1999.
 
 Dispõe sobre o pagamento dos militares e dos servidores públicos do Poder Executivo Federal, inclusive suas autarquias e fundações, bem como dos empregados das empresas públicas e das sociedades de economia mista e de suas subsidiárias, e dá outras providências.

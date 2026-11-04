@@ -1,5 +1,3 @@
-###DEC-067771-0-000-09-12-1970@@@
-
 decreto nº 67.771, de 9 de dezembro de 1970.
 
 Declara caduco o Decreto número 12.475, de 27 de maio de 1943.

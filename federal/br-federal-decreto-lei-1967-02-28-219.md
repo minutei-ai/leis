@@ -1,5 +1,3 @@
-###DEL-000219-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 219, DE 28 DE FEVEREIRO DE 1967
 
 Autoriza o Poder Executivo a abrir, ao Ministério da Agricultura, o crédito especial de NCr$4.898.600,00 (quatro milhões, oitocentos e noventa e oito mil e seiscentos cruzeiros novos).

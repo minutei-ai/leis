@@ -1,5 +1,3 @@
-###DEC-068924-0-000-15-07-1971@@@
-
 DECRETO Nº 68.924, DE 15 DE JULHO DE 1971.
 
 Dispõe sobre a autonomia administrativa e financeira do Centro de Treinamento e Desenvolvimento do Pessoal do Ministério da Fazenda - CETREMFA - e dá outras providências.

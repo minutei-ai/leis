@@ -1,5 +1,3 @@
-###DEC-051085-0-000-31-07-1961@@@
-
 DECRETO Nº 51.085, DE 31 DE JULHO DE 1961.
 
 Determina a inspeção permanente dos serviços assistenciais da previdência social.

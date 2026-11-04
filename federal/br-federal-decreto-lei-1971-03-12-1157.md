@@ -1,5 +1,3 @@
-###DEL-001157-0-000-12-03-1971@@@
-
 # DECRETO-LEI Nº 1.157, DE 12 DE MARÇO DE 1971
 
 Altera a legislação do impôsto sôbre produtos industrializados.

@@ -1,5 +1,3 @@
-###DEC-003950-0-000-04-10-2001@@@
-
 DECRETO Nº 3.950, DE 4 DE OUTUBRO DE 2001
 
 Altera o art. 31 do Anexo I ao Decreto nº 3.527, de 28 de junho de 2000, que trata da composição do Conselho Deliberativo da Política do Café.

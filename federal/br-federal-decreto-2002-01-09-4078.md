@@ -1,5 +1,3 @@
-###DEC-004078-0-000-09-01-2002@@@
-
 DECRETO Nº 4.078, DE 9 DE JANEIRO DE 2002.
 
 Qualifica como Organização Social o Centro de Gestão e Estudos Estratégicos.

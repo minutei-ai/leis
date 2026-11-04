@@ -1,5 +1,3 @@
-###DEC-092361-0-000-04-02-1986@@@
-
 DECRETO Nº 92.361, DE 04 DE FEVEREIRO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, terreno situado no Município de Tanabi, Estado de São Paulo, necessário ao Ministério da Aeronáutica.

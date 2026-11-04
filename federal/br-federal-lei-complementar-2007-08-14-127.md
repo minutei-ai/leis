@@ -1,5 +1,3 @@
-###LCP-000127-0-000-14-08-2007@@@
-
 LEI COMPLEMENTAR Nº 127, DE 14 DE AGOSTO DE 2007
 
 Altera a Lei Complementar no 123, de 14 de dezembro de 2006.
@@ -179,5 +177,3 @@ JOSÉ ALENCAR GOMES DA SILVA
 Tarso Genro
 
 Guido Mantega
-
-Este texto não substitui o publicado no D.O.U. de 15.1.2007.

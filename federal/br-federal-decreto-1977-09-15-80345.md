@@ -1,5 +1,3 @@
-###DEC-080345-0-000-15-09-1977@@@
-
 DECRETO Nº 80.345, DE 15 DE SETEMBRO DE 1977.
 
 Autoriza o registro, em nome da União Federal, do terreno que menciona, situado no Município de Urbano Santos, Estado do Maranhão.

@@ -1,5 +1,3 @@
-###DEC-082429-0-000-16-10-1978@@@
-
 Decreto nº 82.429,de 16 DE outubro de 1978.
 
 Concede à Cal Minas Ltda o direito de lavrar calcário no Município de Formiga, Estado de Minas Gerais.

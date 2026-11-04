@@ -1,5 +1,3 @@
-###DEC-080138-0-000-11-08-1977@@@
-
 DECRETO Nº 80.138, DE 11 DE AGOSTO DE 1977.
 
 Promulga o Protocolo Adicional ao Acordo de Migração de 9-12-60, entre Brasil e Itália.
@@ -187,8 +185,6 @@ Feito em Brasília a 30 de janeiro de 1974 em quatro exemplares originais, dois 
 Pelo Governo da República Federativa do Brasil: Júlio Barata
 
 Pelo Governo da República da Itália: Carlo E. Giblioti
-
-###DEC-080138-0-000-11-08-1977@@@
 
 DECRETO Nº 80.138, DE 11 DE AGOSTO DE 1977.
 

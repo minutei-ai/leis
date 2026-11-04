@@ -1,5 +1,3 @@
-###DEC-057573-0-000-04-01-1966@@@
-
 DECRETO Nº 57.573, DE 4 DE JANEIRO DE 1966.
 
 Altera o Decreto nº 55.871, de 26 de março de 1965, na parte referente à Comissão Permanente de Aditivos para Alimentos.

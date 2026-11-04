@@ -1,5 +1,3 @@
-###DEC-007224-0-000-30-06-2010@@@
-
 DECRETO Nº 7.224, DE 30 DE JUNHO DE 2010.
 
 Promulga o Memorando de Entendimento entre o Governo da República Federativa do Brasil e o Governo do Reino da Dinamarca sobre Cooperação nas Áreas de Energias Renováveis e Eficiência Energética, firmado em Copenhague, em 13 de setembro de 2007
@@ -128,4 +126,12 @@ O presente Memorando de Entendimento entrará em vigor mediante notificação pe
 
 Assinado em Copenhague, em 13 de setembro de 2007, em português, dinamarquês e inglês, sendo todos os textos igualmente idênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:216.8pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">CELSO AMORIM Ministro das Relações Exteriores</span><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp;</span></p></td><td style="width:208.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DO REINO DA DINAMARCA:</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">JAKOB AXEL NIELSEN Ministro de Transportes e Energia</span><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:216.8pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:&nbsp; CELSO AMORIM Ministro das Relações Exteriores&nbsp;&nbsp;
+
+</td><td style="width:208.4pt; vertical-align:top">
+
+PELO GOVERNO DO REINO DA DINAMARCA:&nbsp; JAKOB AXEL NIELSEN Ministro de Transportes e Energia&nbsp;
+
+</td></tr></tbody></table>

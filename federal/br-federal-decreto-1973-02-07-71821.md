@@ -1,5 +1,3 @@
-###DEC-071821-0-000-07-02-1973@@@
-
 DECRETO Nº 71.821, DE 7 DE FEVEREIRO DE 1973.
 
 Autoriza a cessão do acervo do Centro de Tratoristas e do Curso de Preparação de Economia Doméstica Rural que menciona.

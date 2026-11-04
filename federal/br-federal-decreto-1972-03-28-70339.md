@@ -1,5 +1,3 @@
-###DEC-070339-0-000-28-03-1972@@@
-
 Decreto nº 70.339, de 28 de março de 1972.
 
 Declara de interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas, área de terreno necessária à implantação do Projeto de Irrigação do Açude Aires de Souza, no município de Sobral, Estado do Ceará.

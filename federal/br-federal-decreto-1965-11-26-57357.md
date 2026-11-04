@@ -1,5 +1,3 @@
-###DEC-057357-0-000-26-11-1965@@@
-
 DECRETO Nº 57.357, DE 26 DE NOVEMBRO DE 1965.
 
 Autoriza a Mineração Nova Deli Limitada a lavrar minério de ferro, no município de Rio Piracicaba, Estado de Minas Gerais.

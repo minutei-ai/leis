@@ -1,7 +1,3 @@
-1
-
-###MPV-001320-0-000-09-02-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.320, DE 9 DE FEVEREIRO DE 1996.
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

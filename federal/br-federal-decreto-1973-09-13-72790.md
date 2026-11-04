@@ -1,5 +1,3 @@
-###DEC-072790-0-000-13-09-1973@@@
-
 DECRETO Nº 72.790, DE 13 SETeMBRO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação em favor da Petróleo Brasileiro S.A. - PETROBÁS, uma gleba de terra e respectivas benfeitorias, situada no Município de Canoas, Estado do Rio Grande do Sul.

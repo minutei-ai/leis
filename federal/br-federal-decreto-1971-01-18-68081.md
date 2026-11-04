@@ -1,5 +1,3 @@
-###DEC-068081-0-000-18-01-1971@@@
-
 DECRETO Nº 68.081, DE 18 DE JANEIRO DE 1971.
 
 Altera o enquadramento dos servidores do Ministério da Marinha, beneficiados pelo parágrafo único do artigo 23 da Lei nº 4.069, de 11 de junho de 1962, e dá outras providências.

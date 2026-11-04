@@ -1,5 +1,3 @@
-###DEL-000716-0-000-30-07-1969@@@
-
 DECRETO-LEI Nº 716, DE 30 DE JULHO DE 1969
 
 Isenta do impôsto de renda os juros remetidos para o exterior nas compras de bens a prazo realizados pelas concessionárias de linhas aéreas.

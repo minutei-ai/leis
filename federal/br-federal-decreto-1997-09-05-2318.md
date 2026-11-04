@@ -1,5 +1,3 @@
-###DEC-002318-0-000-05-09-1997@@@
-
 DECRETO Nº 2.318, DE 5 DE SETEMBRO DE 1997
 
 Concede indenização à família de pessoa desaparecida ou morta em razão de participação, ou acusação de participação, em atividades políticas, no período de 2 de setembro de 1961 a 15 de agosto de 1979.
@@ -18,4 +16,354 @@ FERNANDO HENRIQUE CARDOSO
 
 Íris Rezende
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:93.85pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; font-weight:bold">BENEFICIÁRIO</span></p></td><td style="width:123.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; font-weight:bold">DESAPARECIDO/MORTO</span></p></td><td style="width:82.55pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; font-weight:bold">PARENTESCO</span></p></td><td style="width:87.2pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; font-weight:bold">INDENIZAÇÃO R$</span></p></td></tr><tr><td style="width:93.85pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Rosimar de Araújo</span></p></td><td style="width:123.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Merival Araújo</span></p></td><td style="width:82.55pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">irmã</span></p></td><td style="width:87.2pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">124.110,00</span></p></td></tr><tr><td style="width:93.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Isabel Simplícia da Conceição</span></p></td><td style="width:123.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Manoel Aleixo da Silva</span></p></td><td style="width:82.55pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">companheira</span></p></td><td style="width:87.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Enes de Almeida</span></p></td><td style="width:123.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Nelson José de Almeida</span></p></td><td style="width:82.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">irmão</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">124.110,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Wladimir Ventura Torres Pomar</span></p></td><td style="width:123.85pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pedro Ventura Felipe de Araújo Pomar</span></p></td><td style="width:82.55pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">filho</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000,00</span></p></td></tr><tr><td style="width:93.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Marta Moraes Nehring e Maria Lygia Quartim de Moraes</span></p></td><td style="width:123.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Norberto Nehring</span></p></td><td style="width:82.55pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">cônjuge e filha</span></p></td><td style="width:87.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">111.360,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Nordana Benetazzo</span></p></td><td style="width:123.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Antônio Benetazzo</span></p></td><td style="width:82.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">irmão</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">111.360,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Vergilina de Barros Neubert</span></p></td><td style="width:123.85pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Avelmar Moreira de Barros</span></p></td><td style="width:82.55pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">filha</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000,00</span></p></td></tr><tr><td style="width:93.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Fabiano Cesar Casemiro</span></p></td><td style="width:123.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Dimas Antonio Casemiro</span></p></td><td style="width:82.55pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">filho</span></p></td><td style="width:87.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">124.110,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Elba Maria Goulart Silva</span></p></td><td style="width:123.85pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Helber José Gomes Goulart</span></p></td><td style="width:82.55pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">irmã</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">111.360,00</span></p></td></tr><tr><td style="width:93.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Joana Hirata</span></p></td><td style="width:123.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Luiz Hirata</span></p></td><td style="width:82.55pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">irmã</span></p></td><td style="width:87.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">111.360,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pedro Eduardo</span></p></td><td style="width:123.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Raimundo Eduardo da Silva</span></p></td><td style="width:82.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">pai</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">124.110,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Luiz Cietto</span></p></td><td style="width:123.85pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Roberto Cietto</span></p></td><td style="width:82.55pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">irmão</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000,00</span></p></td></tr><tr><td style="width:93.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Maria da Glória de Mello Topan Rudiger</span></p></td><td style="width:123.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Severino Elias de Mello</span></p></td><td style="width:82.55pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">filha</span></p></td><td style="width:87.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Alexandre Resende Cabral</span></p></td><td style="width:123.85pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Getúlio D’Oliveira Cabral</span></p></td><td style="width:82.55pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">filho</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">111.360,00</span></p></td></tr><tr><td style="width:93.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Maria Julieta Salgado Nóbrega</span></p></td><td style="width:123.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Lígia Maria Salgado Nóbrega</span></p></td><td style="width:82.55pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">irmã</span></p></td><td style="width:87.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">138.300,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Alba Valéria D’Oliveira</span></p></td><td style="width:123.85pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Divo Fernandes D’Oliveira</span></p></td><td style="width:82.55pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">filha</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000,00</span></p></td></tr><tr><td style="width:93.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Thereza de Lourdes Martins Fiél</span></p></td><td style="width:123.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Manoel Fiél Filho</span></p></td><td style="width:82.55pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cônjuge</span></p></td><td style="width:87.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Paulo Roberto Ramos</span></p></td><td style="width:123.85pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Vitor Carlos Ramos</span></p></td><td style="width:82.55pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">irmão</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">111.360,00</span></p></td></tr><tr><td style="width:93.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Manoel Augusto de Ornellas Neto e Juliana Carvalho de Ornellas Monteiro</span></p></td><td style="width:123.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Henrique Cintra Ferreira de Ornellas</span></p></td><td style="width:82.55pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">filhos</span></p></td><td style="width:87.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Lena Gesteira Barroso</span></p></td><td style="width:123.85pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Célio Augusto Guedes</span></p></td><td style="width:82.55pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">filha</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000,00</span></p></td></tr><tr><td style="width:93.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Zeni Bento Teixeira</span></p></td><td style="width:123.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">José Gomes Teixeira</span></p></td><td style="width:82.55pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">cônjuge</span></p></td><td style="width:87.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">111.360,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Odacy Foelkel de Andrade Netto</span></p></td><td style="width:123.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">José Maximino de Andrade Netto</span></p></td><td style="width:82.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">cônjuge</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Alfeu Morbini Monteiro, Cássia Pinheiro Monteiro e Maria Helena Pinheiro</span></p></td><td style="width:123.85pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Alfeu D’Alcântara Monteiro</span></p></td><td style="width:82.55pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">filhos</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000,00</span></p></td></tr><tr><td style="width:93.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Bento Cardoso da Silva</span></p></td><td style="width:123.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ângelo Cardoso da Silva</span></p></td><td style="width:82.55pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">irmão</span></p></td><td style="width:87.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">111.360,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ernestina Furtado Zanirato</span></p></td><td style="width:123.85pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Carlos Roberto Zanirato</span></p></td><td style="width:82.55pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">mãe</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">137.220,00</span></p></td></tr><tr><td style="width:93.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Noberto da Silva</span></p></td><td style="width:123.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Elvaristo Alves da Silva</span></p></td><td style="width:82.55pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">filho</span></p></td><td style="width:87.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Zoraide de Carvalho Beltrão</span></p></td><td style="width:123.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Gastone Lúcia de Carvalho Beltrão</span></p></td><td style="width:82.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">mãe</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">138.300,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Leovegildo Guimarães</span></p></td><td style="width:123.85pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Lucimar Brandão Guimarães</span></p></td><td style="width:82.55pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">pai</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">124.110,00</span></p></td></tr><tr><td style="width:93.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">José Pedro Macarini</span></p></td><td style="width:123.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Roberto Macarine</span></p></td><td style="width:82.55pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">irmão</span></p></td><td style="width:87.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">137.220,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">João Ferreira Pinto</span></p></td><td style="width:123.85pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Antônio Ferreira Pinto</span></p></td><td style="width:82.55pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">irmão</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000,00</span></p></td></tr><tr><td style="width:93.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Maria Pavan Lamarca</span></p></td><td style="width:123.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Carlos Lamarca</span></p></td><td style="width:82.55pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">cônjuge</span></p></td><td style="width:87.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Clara Charf e Carlos Augusto Marighella</span></p></td><td style="width:123.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Carlos Marighella</span></p></td><td style="width:82.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">cônjuge e filho</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Olival Campos Barreto, Ana Campos Barreto, Olderico Campos Barreto e Edinalva Campos Barreto</span></p></td><td style="width:123.85pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">José Campos Barreto</span></p></td><td style="width:82.55pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">irmãos</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">124.110,00</span></p></td></tr><tr><td style="width:93.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Avelina Cunha da Rocha</span></p></td><td style="width:123.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Epaminondas Gomes de Oliveira</span></p></td><td style="width:82.55pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">cônjuge</span></p></td><td style="width:87.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Maria Lacerda de Almeira da Silveira</span></p></td><td style="width:123.85pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Maurício Guilherme da Silveira</span></p></td><td style="width:82.55pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">mãe</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">137.220,00</span></p></td></tr><tr><td style="width:93.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cyro massa</span></p></td><td style="width:123.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Boanerges de Souza Massa</span></p></td><td style="width:82.55pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">irmão</span></p></td><td style="width:87.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cornélio Alves de Freitas</span></p></td><td style="width:123.85pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cassimiro Luis de Freitas</span></p></td><td style="width:82.55pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">filho</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Dalva Soares Pereira</span></p></td><td style="width:123.85pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Lourenço Camelo de Mesquita</span></p></td><td style="width:82.55pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">companheira</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Olival Campos Barreto, Ana Campos Barreto, Olderico Campos Barreto e Edinalva Campos Barreto</span></p></td><td style="width:123.85pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Otoniel Campos Barreto</span></p></td><td style="width:82.55pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">irmãos</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">137.220,00</span></p></td></tr><tr><td style="width:93.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Maria Assis Gomes</span></p></td><td style="width:123.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Jeová Assis Gomes</span></p></td><td style="width:82.55pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">mãe</span></p></td><td style="width:87.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">111.360,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Maria Corina Abreu Lima da Rosa</span></p></td><td style="width:123.85pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ary Abreu Lima da Rosa</span></p></td><td style="width:82.55pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">mãe</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">124.110,00</span></p></td></tr><tr><td style="width:93.85pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Raimunda Quaresma de Freitas</span></p></td><td style="width:123.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Edson Neves Quaresma</span></p></td><td style="width:82.55pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">irmã</span></p></td><td style="width:87.2pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1100.000,00</span></p></td></tr><tr><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ueliton Nascimento Jorge</span></p></td><td style="width:123.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Wlademiro Jorge Filho</span></p></td><td style="width:82.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">filho</span></p></td><td style="width:87.2pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="text-align:justify; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100.000,00</span></p></td></tr></tbody></table>
+BENEFICIÁRIO
+
+DESAPARECIDO/MORTO
+
+PARENTESCO
+
+INDENIZAÇÃO R$
+
+Rosimar de Araújo
+
+Merival Araújo
+
+irmã
+
+124.110,00
+
+Isabel Simplícia da Conceição
+
+Manoel Aleixo da Silva
+
+companheira
+
+100.000,00
+
+Enes de Almeida
+
+Nelson José de Almeida
+
+irmão
+
+124.110,00
+
+Wladimir Ventura Torres Pomar
+
+Pedro Ventura Felipe de Araújo Pomar
+
+filho
+
+100.000,00
+
+Marta Moraes Nehring e Maria Lygia Quartim de Moraes
+
+Norberto Nehring
+
+cônjuge e filha
+
+111.360,00
+
+Nordana Benetazzo
+
+Antônio Benetazzo
+
+irmão
+
+111.360,00
+
+Vergilina de Barros Neubert
+
+Avelmar Moreira de Barros
+
+filha
+
+100.000,00
+
+Fabiano Cesar Casemiro
+
+Dimas Antonio Casemiro
+
+filho
+
+124.110,00
+
+Elba Maria Goulart Silva
+
+Helber José Gomes Goulart
+
+irmã
+
+111.360,00
+
+Joana Hirata
+
+Luiz Hirata
+
+irmã
+
+111.360,00
+
+Pedro Eduardo
+
+Raimundo Eduardo da Silva
+
+pai
+
+124.110,00
+
+Luiz Cietto
+
+Roberto Cietto
+
+irmão
+
+100.000,00
+
+Maria da Glória de Mello Topan Rudiger
+
+Severino Elias de Mello
+
+filha
+
+100.000,00
+
+Alexandre Resende Cabral
+
+Getúlio D’Oliveira Cabral
+
+filho
+
+111.360,00
+
+Maria Julieta Salgado Nóbrega
+
+Lígia Maria Salgado Nóbrega
+
+irmã
+
+138.300,00
+
+Alba Valéria D’Oliveira
+
+Divo Fernandes D’Oliveira
+
+filha
+
+100.000,00
+
+Thereza de Lourdes Martins Fiél
+
+Manoel Fiél Filho
+
+Cônjuge
+
+100.000,00
+
+Paulo Roberto Ramos
+
+Vitor Carlos Ramos
+
+irmão
+
+111.360,00
+
+Manoel Augusto de Ornellas Neto e Juliana Carvalho de Ornellas Monteiro
+
+Henrique Cintra Ferreira de Ornellas
+
+filhos
+
+100.000,00
+
+Lena Gesteira Barroso
+
+Célio Augusto Guedes
+
+filha
+
+100.000,00
+
+Zeni Bento Teixeira
+
+José Gomes Teixeira
+
+cônjuge
+
+111.360,00
+
+Odacy Foelkel de Andrade Netto
+
+José Maximino de Andrade Netto
+
+cônjuge
+
+100.000,00
+
+Alfeu Morbini Monteiro, Cássia Pinheiro Monteiro e Maria Helena Pinheiro
+
+Alfeu D’Alcântara Monteiro
+
+filhos
+
+100.000,00
+
+Bento Cardoso da Silva
+
+Ângelo Cardoso da Silva
+
+irmão
+
+111.360,00
+
+Ernestina Furtado Zanirato
+
+Carlos Roberto Zanirato
+
+mãe
+
+137.220,00
+
+Noberto da Silva
+
+Elvaristo Alves da Silva
+
+filho
+
+100.000,00
+
+Zoraide de Carvalho Beltrão
+
+Gastone Lúcia de Carvalho Beltrão
+
+mãe
+
+138.300,00
+
+Leovegildo Guimarães
+
+Lucimar Brandão Guimarães
+
+pai
+
+124.110,00
+
+José Pedro Macarini
+
+Roberto Macarine
+
+irmão
+
+137.220,00
+
+João Ferreira Pinto
+
+Antônio Ferreira Pinto
+
+irmão
+
+100.000,00
+
+Maria Pavan Lamarca
+
+Carlos Lamarca
+
+cônjuge
+
+100.000,00
+
+Clara Charf e Carlos Augusto Marighella
+
+Carlos Marighella
+
+cônjuge e filho
+
+100.000,00
+
+Olival Campos Barreto, Ana Campos Barreto, Olderico Campos Barreto e Edinalva Campos Barreto
+
+José Campos Barreto
+
+irmãos
+
+124.110,00
+
+Avelina Cunha da Rocha
+
+Epaminondas Gomes de Oliveira
+
+cônjuge
+
+100.000,00
+
+Maria Lacerda de Almeira da Silveira
+
+Maurício Guilherme da Silveira
+
+mãe
+
+137.220,00
+
+Cyro massa
+
+Boanerges de Souza Massa
+
+irmão
+
+100.000,00
+
+Cornélio Alves de Freitas
+
+Cassimiro Luis de Freitas
+
+filho
+
+100.000,00
+
+Dalva Soares Pereira
+
+Lourenço Camelo de Mesquita
+
+companheira
+
+100.000,00
+
+Olival Campos Barreto, Ana Campos Barreto, Olderico Campos Barreto e Edinalva Campos Barreto
+
+Otoniel Campos Barreto
+
+irmãos
+
+137.220,00
+
+Maria Assis Gomes
+
+Jeová Assis Gomes
+
+mãe
+
+111.360,00
+
+Maria Corina Abreu Lima da Rosa
+
+Ary Abreu Lima da Rosa
+
+mãe
+
+124.110,00
+
+Raimunda Quaresma de Freitas
+
+Edson Neves Quaresma
+
+irmã
+
+1100.000,00
+
+Ueliton Nascimento Jorge
+
+Wlademiro Jorge Filho
+
+filho
+
+100.000,00

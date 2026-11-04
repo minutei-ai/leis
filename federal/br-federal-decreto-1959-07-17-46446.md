@@ -1,5 +1,3 @@
-###DEC-046446-0-000-17-07-1959@@@
-
 DECRETO Nº 46.446, DE 17 DE JULHO DE 1959.
 
 Dá nova redação ao art. 5º das especificações aprovadas pelo Decreto nº 35.510, de 19 de maio de 1954.

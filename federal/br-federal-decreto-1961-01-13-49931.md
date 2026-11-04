@@ -1,5 +1,3 @@
-###DEC-049931-0-000-13-01-1961@@@
-
 DECRETO Nº49.931,DE 13 DE JANEIRO 1961.
 
 Renova o decreto nº 43.747, de 21 de maio de 1958.

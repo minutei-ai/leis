@@ -1,5 +1,3 @@
-###DEC-070711-0-000-13-06-1972@@@
-
 Decreto nº 70.711, de 13 de junho de 1972.
 
 Aprova alterações introduzidas nos Estatutos da Petróleo Brasileiro S.A. - PETROBRÁS.

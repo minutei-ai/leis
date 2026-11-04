@@ -1,5 +1,3 @@
-###DEC-083147-0-000-08-02-1979@@@
-
 decreto nº 83.147, de 08 de fevereiro de 1979
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Clube de Votuporanga Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Votuporanga, Estado de São Paulo.

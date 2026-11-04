@@ -1,5 +1,3 @@
-###DEC-059356-0-000-04-10-1966@@@
-
 DECRETO Nº 59.356, DE 4 DE OUTUBRO DE 1966.
 
 Autoriza o cidadão brasileiro Euvaldo Freire de Carvalho Luz a pesquisar salgema no município, de Maceió, Estado de Alagoas.

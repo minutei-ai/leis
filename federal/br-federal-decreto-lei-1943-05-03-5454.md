@@ -1,5 +1,3 @@
-###DEL-005454-0-000-03-05-1943@@@
-
 DECRETO‑LEI N. 5.454 – DE 3 DE MAIO DE 1943
 
                                                                                          Altera o enunciado da dotação que especifica         

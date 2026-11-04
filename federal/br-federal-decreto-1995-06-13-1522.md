@@ -1,7 +1,3 @@
-1
-
-###DEC-001522-0-000-13-06-1995@@@
-
 DECRETO N° 1.522, DE 13 DE JUNHO DE 1995
 
 Altera o Regulamento Consolidado do Fundo de Garantia do Tempo de Serviço (FGTS), aprovado pelo Decreto nº 99.684, de 8 de novembro de 1990.

@@ -1,22 +1,20 @@
-###DEC-020255-0-000-20-12-1945@@@
+**DECRETO Nº 20.255, DE 20 DE DEZEMBRO DE 1945.**
 
-<strong>DECRETO Nº 20.255, DE 20 DE DEZEMBRO DE 1945.</strong>
+***Concede a Perfumerías Rety Montecarlo Sociedade Anônima, autorização para funcionar na República.***
 
-<em><strong>Concede a Perfumerías Rety Montecarlo Sociedade Anônima, autorização para funcionar na República.</strong></em>
+**O PRESIDENTE DA REPÚBLICA,** atendendo ao que requereu a Perfumerías Rety Montecarlo Sociedade Anônima, com sede em Montevidéu, República Oriental do Uruguai,
 
-<strong>O PRESIDENTE DA REPÚBLICA,</strong> atendendo ao que requereu a Perfumerías Rety Montecarlo Sociedade Anônima, com sede em Montevidéu, República Oriental do Uruguai,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. É concedida à Perfumerías Rety Montecarlo Sociedade Anônima, com sede em Montevidéu, República Oriental do Uruguai, autorização para funcionar na República, com o capital de Cr$ 250.000,00 (duzentos e cinqüenta mil cruzeiros) e com os estatutos que apresentou, mediante as cláusulas que êste acompanham, assinadas pelo Ministro do Trabalho, Indústria e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
 
 Rio de Janeiro, 20 de dezembro de 1945; 124º da Independência e 57º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 R. Carneiros de Mendonça
 
-<strong>CLÁUSULAS QUE ACOMPANHAM O DECRETO Nº 20.255 DESTA</strong>  <strong>DATA</strong>
+**CLÁUSULAS QUE ACOMPANHAM O DECRETO Nº 20.255 DESTA**  **DATA**
 
 I
 
@@ -42,4 +40,4 @@ A infração de qualquer das cláusulas, para a qual não esteja cominada pena e
 
 Rio de Janeiros, 20 de dezembro de 1945;
 
-<strong>R. CARNEIRO DE MENDONÇA</strong>
+**R. CARNEIRO DE MENDONÇA**

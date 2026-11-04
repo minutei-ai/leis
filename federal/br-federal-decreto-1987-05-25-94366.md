@@ -1,5 +1,3 @@
-###DEC-094366-0-000-25-05-1987@@@
-
 DECRETO Nº 94.366, DE 25 DE MAIO DE 1987.
 
 Torna insubsistente o Decreto nº 65.157, de 15 de setembro de 1969.

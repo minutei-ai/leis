@@ -1,5 +1,3 @@
-###DEC-003809-0-000-30-04-2001@@@
-
 DECRETO N° 3.809, DE 30 DE ABRIL DE 2001
 
 Dispõe sobre a execução do Vigésimo Oitavo Protocolo Adicional ao Acordo de Complementação Econômica n.º 18, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, de 29 de dezembro de 2000.

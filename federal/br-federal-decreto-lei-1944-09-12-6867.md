@@ -1,5 +1,3 @@
-###DEL-006867-0-000-12-09-1944@@@
-
 DECRETO-LEI N. 6.867 – DE 12 DE SETEMBRO DE 1944
 
 Revoga o parágrafo único da art. 1º do Decreto-lei nº 5.759, de 19 de agôsto de 1943 e dá outras providências

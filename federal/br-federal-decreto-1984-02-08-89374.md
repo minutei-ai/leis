@@ -1,5 +1,3 @@
-###DEC-089374-0-000-08-02-1984@@@
-
 Decreto nº 89.374, de 08 de fevereiro de 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de trecho de linha de distribuição da LIGHT-Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

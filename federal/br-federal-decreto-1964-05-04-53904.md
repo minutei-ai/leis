@@ -1,5 +1,3 @@
-###DEC-053904-0-000-04-05-1964@@@
-
 DECRETO Nº 53.904, DE 4 DE MAIO DE 1964.
 
 Dispõe sôbre a não realização, no corrente ano das Assembléias Gerais dos Conselhos Nacionais de Estatísticas e de Geografia.

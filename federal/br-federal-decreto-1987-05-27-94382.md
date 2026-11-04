@@ -1,5 +1,3 @@
-###DEC-094382-0-000-27-05-1987@@@
-
 DECRETO Nº 94.382, DE 27 DE MAIO DE 1987.
 
 Dispõe sobre a emissão de selo comemorativo da promulgação da nova Constituição Brasileira.

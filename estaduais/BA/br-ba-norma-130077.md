@@ -6,20 +6,24 @@ Institui o Projeto Estadual de Auxílio Permanência aos estudantes em condiçõ
 
 **O GOVERNADOR DO ESTADO DA BAHIA,**  faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS DISPOSIÇÕES GERAIS
 
 **Art. 1º** - Fica instituído o Projeto Estadual de Auxílio Permanência aos estudantes em condições de vulnerabilidade socioeconômica das Universidades Públicas Estaduais da Bahia, que será regido pelos princípios, objetivos, diretrizes e instrumentos estabelecidos nesta Lei.
 
 **Parágrafo único -**    O Projeto mencionado no _caput_ deste artigo norteará a elaboração e articulação de outros projetos e ações relacionados, direta ou indiretamente, à assistência e permanência de adultos, jovens e adolescentes nos cursos em que estejam regularmente matriculados, nas universidades públicas estaduais da Bahia.
 
-Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.<br>
+Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.
+
 Redação original: "Parágrafo único - O Projeto mencionado no caput deste artigo integra o Programa Educar para Transformar e norteará a elaboração de outros projetos e ações relacionados, direta ou indiretamente, à permanência de jovens e adolescentes nos cursos em que estejam regularmente matriculados, nas Universidades Públicas Estaduais da Bahia."
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DO PROJETO ESTADUAL DE AUXÍLIO PERMANÊNCIA
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Dos Princípios
 
 **Art. 2º** - O Projeto Estadual de Auxílio Permanência será conduzido pelos seguintes princípios:
@@ -40,7 +44,8 @@ Dos Princípios
 
 **VIII -** direito à educação pública, gratuita, integral, de qualidade, integrada às políticas de geração de emprego e renda.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Das Diretrizes
 
 **Art. 3º** - As ações do Projeto Estadual de Auxílio Permanência devem priorizar as seguintes linhas de atuação inter-relacionadas:
@@ -51,10 +56,12 @@ Das Diretrizes
 
 **III -**     acompanhamento e avaliação continuada da política pública de permanência e assistência estudantil disciplinada por esta Lei.
 
-Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.<br>
+Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.
+
 Redação original: "III - acompanhamento e avaliação continuada de políticas públicas."
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Dos Objetivos
 
 **Art. 4º** - O Projeto Estadual de Auxílio Permanência tem como objetivos:
@@ -69,15 +76,18 @@ Dos Objetivos
 
 **V -**      contribuir para a promoção da inclusão social e da redução das desigualdades pela educação.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DO AUXÍLIO PERMANÊNCIA
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Da Definição
 
 **Art. 5º -** O Auxílio Permanência é um auxílio financeiro que tem por finalidade minimizar as desigualdades sociais e contribuir para a permanência e a diplomação dos estudantes de graduação presencial das universidades públicas estaduais da Bahia, em condições de vulnerabilidade socioeconômica, composto por perfis de atendimento, considerando:
 
-Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.<br>
+Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.
+
 Redação original: "Art. 5º - O Auxílio Permanência é um auxílio financeiro que tem por finalidade minimizar as desigualdades sociais e contribuir para a permanência e a diplomação dos estudantes de Graduação das Universidades Públicas Estaduais da Bahia, em condições de vulnerabilidade socioeconômica."
 
 **I** - o registro no Cadastro Único para Programas Sociais do Governo Federal - Cadastro Único, ou outro que venha ser adotado, desde que validado oficialmente pelo Governo Federal;
@@ -120,7 +130,8 @@ Inciso III acrescido pelo art. 1º da Lei [14.360](https://www.legislabahia.ba.g
 
 **§ 1º -** O valor do Auxílio Permanência poderá ser revisto anualmente pelo Poder Executivo, observada a disponibilidade orçamentária e os limites da Lei Complementar Federal nº 101, de 04 de maio de 2000.
 
-Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.<br>
+Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.
+
 Redação original: " § 1º - O valor do Auxílio Permanência será estabelecido por Portaria do Secretário da Educação, no primeiro trimestre de cada ano do calendário civil. "
 
 **§ 2º -** Os estudantes beneficiados pelo Projeto Estadual instituído por esta Lei receberão o Auxílio Permanência por até 2/3 (dois terços) iniciais do período de duração total do curso em que estão regularmente matriculados, contados em semestres, nos termos do Regulamento.
@@ -129,14 +140,16 @@ Redação original: " § 1º - O valor do Auxílio Permanência será estabeleci
 
 **Art. 7º** - Será permitido o acúmulo do auxílio criado por instituições estaduais de ensino superior ou de outros entes federativos, desde que de natureza diversa do auxílio instituído por esta Lei, bem como será permitido o acúmulo do auxílio com bolsas meritórias.
 
-Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.<br>
+Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.
+
 Redação original: "7º- O Auxílio Permanência instituído por esta Lei não é acumulável com outras bolsas criadas por atos normativos de instituições estaduais de Ensino Superior ou de entes federativos diversos."
 
 **revogadoParágrafo único -**   O estudante que for beneficiário de bolsa concedida pelas instituições mencionadas no _caput_ deste artigo fará jus ao valor correspondente à diferença entre o Auxílio Permanência e a referida bolsa, desde que esta seja inferior ao Auxílio estipulado por esta Lei.
 
 Revogado pelo art. 3º da Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Dos Critérios de Elegibilidade
 
 **Art. 8º** - Poderá receber o Auxílio Permanência instituído por esta Lei o estudante que cumprir, cumulativamente, as seguintes condições:
@@ -157,7 +170,8 @@ Dos Critérios de Elegibilidade
 
 **VIII -** não titularizar auxílio criado por instituições estaduais de ensino superior ou de entes federativos diversos, exceto nas hipóteses previstas no inciso V do art. 5º e no art. 7º, ambos dessa Lei;
 
-Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.<br>
+Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.
+
 Redação original: "VIII - não titularizar benefício, criado por atos normativos de instituições estaduais de Ensino Superior ou de entes federativos diversos, desde que o seu valor seja inferior ao Auxílio Permanência estipulado por esta Lei, caso em que receberá a diferença dos valores;
 
 **IX -**     assinar o Termo de Compromisso, previsto em ato normativo próprio;
@@ -170,27 +184,32 @@ Inciso XI acrescido pelo art. 1º da Lei [14.360](https://www.legislabahia.ba.go
 
 **Parágrafo único -**   Além de cumprirem as condições estabelecidas no _caput_ deste artigo, os estudantes residentes a uma distância superior a 100km (cem quilômetros) do Município sede do campus de matrícula e frequência do curso superior deverão comprovar que residem com a família registrada no cadastro centralizado de Programas Sociais do Governo Federal e necessitarão mudar ou mudaram de residência para frequentar o curso.
 
-Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.<br>
+Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.
+
 Redação original: "Parágrafo único - Além de cumprirem as condições estabelecidas no caput deste artigo, os estudantes residentes a uma distância superior a 100 (cem) quilômetros do Município sede do campus de matrícula e frequência do curso superior deverão comprovar que residem com a família registrada no Cadastro Centralizado de Programas Sociais do Governo Federal e necessitarão mudar de domicílio para frequentar o curso."
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 Da Inscrição e do Banco de Dados
 
 **Art. 9º -** Para inscrição no Projeto Estadual de Auxílio Permanência de que trata esta Lei, além dos critérios de elegibilidade previstos no art. 8º desta Lei, os estudantes deverão manifestar interesse em sua participação e realizar cadastramento _online_/digital, disponibilizado durante processo de inscrição, definido em edital para cada processo seletivo, fornecido pela SEC.
 
-Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.<br>
+Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.
+
 Redação original: "Art. 9º - Para inscrição no Projeto Estadual de Auxílio Permanência de que trata esta Lei, além dos critérios de elegibilidade previstos no art. 8º desta Lei, os estudantes deverão manifestar interesse em sua participação, preenchendo cadastro específico fornecido pela Secretaria da Educação."
 
 **Parágrafo único -**  Os casos omissos referentes à inscrição no Projeto de que trata esta Lei serão resolvidos pelo Comitê Executivo em articulação com as universidades estaduais participantes do Projeto Estadual de Auxílio Permanência.
 
-Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.<br>
+Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.
+
 Redação original: "Parágrafo único - Os casos omissos referentes à inscrição no Projeto de que trata esta Lei serão resolvidos pelo Secretário da Educação."
 
 **Art. 10** - A Secretaria da Educação manterá banco de dados dos estudantes de Educação Superior das Universidades Públicas Estaduais da Bahia, em conformidade com as informações prestadas por estas, observado o princípio da publicidade.
 
 **Parágrafo único -** O banco de dados será atualizado regularmente com informações disponibilizadas pelas universidades e pelos estudantes beneficiários ou interessados em realizar cadastramento _online_/digital e deverá conter:
 
-Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.<br>
+Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.
+
 Redação original: "Parágrafo único - O banco de dados será atualizado semestralmente e deverá conter informações sobre:"
 
 **I -**        a renovação de matrícula regular no curso de nível superior;
@@ -203,7 +222,8 @@ Redação original: "Parágrafo único - O banco de dados será atualizado semes
 
 **V -**      o Cadastro Centralizado de Programas Sociais do Governo Federal, devidamente atualizado.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 Da Suspensão e do Cancelamento do Auxílio
 
 **Art. 11** \- O pagamento do Auxílio Permanência ao estudante beneficiário será imediatamente suspenso, quando forem constatadas:
@@ -212,7 +232,8 @@ Da Suspensão e do Cancelamento do Auxílio
 
 **II -**      ausência de apresentação de documentação comprobatória, a ser solicitada a qualquer tempo, nos termos do Regulamento ou por manifestação da SEC através do Comitê Executivo.
 
-Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.<br>
+Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.
+
 Redação original: "II - ausência de documentos comprobatórios solicitados para manutenção do Auxílio Permanência, nos termos do Regulamento."
 
 **§ 1º** \- O Comitê Executivo fixará prazo para que os estudantes que tiverem seu benefício suspenso providenciem a regularização de sua situação cadastral.
@@ -227,22 +248,26 @@ Redação original: "II - ausência de documentos comprobatórios solicitados pa
 
 **I -**        o alcance do prazo estabelecido para a percepção do Auxílio Permanência de que trata o § 2º do art. 6º dessa norma, ressalvadas as exceções previstas nesta Lei;
 
-Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.<br>
+Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.
+
 Redação original: "I - o alcance do prazo estabelecido para a percepção do Auxílio Permanência de que trata o § 2º do art. 6º desta Lei;"
 
 **II -**      o acúmulo indevido de benefícios, observada as exceções previstas no inciso V do art. 5º e no art. 7º, ambos dessa Lei;
 
-Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.<br>
+Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.
+
 Redação original: "II - o acúmulo indevido de benefícios, observada a exceção prevista no art. 7º desta Lei;"
 
 **III -**     mais de 04 (quatro) trancamentos em disciplinas previstas no currículo do curso, não cumulativos com as reprovações previstas no inciso IV deste artigo;
 
-Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.<br>
+Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.
+
 Redação original: "III - mais de 02 (dois) trancamentos em disciplinas previstas no currículo do curso, não cumulativos com as reprovações previstas no inciso IV deste artigo;"
 
 **IV -**     mais de 04 (quatro) reprovações em disciplinas previstas no currículo do curso, não cumulativas com os trancamentos previstos no inciso III deste artigo;
 
-Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.<br>
+Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.
+
 Redação original: "IV - mais de 02 (duas) reprovações em disciplinas previstas no currículo do curso, não cumulativas com os trancamentos previstos no inciso III deste artigo;"
 
 **V -**      trancamento total do curso.
@@ -255,15 +280,18 @@ Inciso VI ascrescido pelo art 1º da Lei [14.360](https://www.legislabahia.ba.go
 
  Parágrafo único ascrescido pelo art 1º da Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DO ESTÁGIO DE NÍVEL SUPERIOR, ATIVIDADES DE EXTENSÃO UNIVERSITÁRIA, AÇÕES COMUNITÁRIAS E INTERVENÇÕES SOCIAIS
 
-Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021<br>
+Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021
+
 Redação original : "CAPÍTULO IV - DO ESTÁGIO DE NÍVEL SUPERIOR"
 
 **Art. 13** - Os estudantes beneficiários do Projeto Estadual de Auxílio Permanência terão opção e prioridade para ingressar nas vagas de estágio de nível superior ofertadas pela Administração Pública direta, autárquica e fundacional do Poder Executivo Estadual, ou projetos/programas de ensino, pesquisa ou extensão aprovados pelos conselhos superiores das universidades, das seguintes formas:
 
-Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021<br>
+Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021
+
 Redação original : "Art. 13 - Os estudantes beneficiários do Projeto Estadual de Auxílio Permanência terão opção e prioridade para ingressar nas vagas de estágio de nível superior ofertadas pela Administração Pública direta, autárquica e fundacional do Poder Executivo Estadual, após a conclusão de 2/3 (dois terços) iniciais do período de duração total do curso em que estão regularmente matriculados, conforme o art. 6º desta Lei. "
 
 **I** - o estudante que concluir 50% (cinquenta por cento) do curso, poderá ingressar, de forma opcional, em 01 (uma) vaga de estágio ou projetos/programas de ensino, pesquisa ou extensão, vinculados às universidades e articulados com o Projeto Estadual de Auxílio Permanência, desde que haja oferta, e poderá permanecer até o prazo máximo de 02 (dois) anos;
@@ -298,10 +326,12 @@ Inciso V ascrescido pelo art 1º da Lei [14.360](https://www.legislabahia.ba.gov
 
 § 4º ascrescido pelo art 1º da Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DA EXECUÇÃO DO PROJETO
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 Do Comitê Executivo
 
 **Art. 14** - O Projeto Estadual de Auxílio Permanência será gerido pela Secretaria da Educação, com o apoio do Comitê Executivo, instância de consulta e proposição, que terá a seguinte composição:
@@ -340,7 +370,8 @@ Inciso VI ascrescido pelo art 1º da Lei [14.360](https://www.legislabahia.ba.go
 
 **Art. 16** - O funcionamento do Comitê Executivo, a representação dos membros e outras definições serão estabelecidos em Regulamento.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 Dos Participantes
 
 **Art. 17** - À Secretaria da Educação, caberá:
@@ -385,7 +416,8 @@ Dos Participantes
 
 **II -**      repassar à SEC, regularmente e sempre que requisitado, os dados relativos aos estudantes que fazem jus ao Auxílio Permanência previsto nesta Lei, constantes do cadastro centralizado para programas sociais do Governo Federal.
 
-Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021<br>
+Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021
+
 Redação original : "II - repassar, semestralmente, à Secretaria da Educação, os dados relativos aos estudantes que têm direito ao Auxílio Permanência previsto nesta Lei, constantes do Cadastro Centralizado para Programas Sociais do Governo Federal;"
 
 **III -**     designar representante, e seu eventual substituto, responsável pelo acompanhamento do Projeto e pela participação no Comitê Executivo de que trata esta Lei.
@@ -394,24 +426,28 @@ Redação original : "II - repassar, semestralmente, à Secretaria da Educação
 
 **I -**        realizar processo de verificação de elegibilidade, homologação e acompanhamento permanente via sistema tecnológico, em atendimento aos critérios estabelecidos em edital e por esta Lei, de modo a prestar orientações necessárias à efetiva participação dos estudantes;
 
-Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021<br>
+Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021
+
 Redação original : "I - cadastrar os estudantes que se candidatarem a participar do Projeto Estadual de Auxílio Permanência;"
 
 **II -**      solicitar aos estudantes beneficiários os documentos comprobatórios de sua elegibilidade e manutenção quanto aos critérios estabelecidos por esta Lei;
 
 **III -**      repassar à SEC, sempre que solicitado, os dados e documentos relativos aos estudantes que fazem jus ao Auxílio Permanência, inclusive a lista de todos os benefícios por eles percebidos de outros programas;
 
-Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021<br>
+Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021
+
 Redação original : "III - repassar, no ato da homologação do beneficiário, semestralmente, e sempre que solicitado, à Secretaria da Educação, os dados e documentos relativos aos estudantes que fazem jus ao Auxílio Permanência instituído por esta Lei, inclusive a lista de todos os benefícios por eles percebidos;"
 
 **IV -**     fornecer informações à SEC sobre trancamento, reprovação e abandono, dos estudantes beneficiados pelo Auxílio Permanência, bem como seu cumprimento da carga horária necessária à permanência no curso, com tolerância de 04 (quatro) reprovações ou 04 (quatro) trancamentos de disciplinas previstas no currículo do curso;
 
-Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021<br>
+Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021
+
 Redação original : " IV - fornecer informações à Secretaria da Educação sobre trancamento, reprovação e frequência dos estudantes beneficiados pelo Projeto instituído por esta Lei, bem como seu cumprimento da carga horária necessária à integralização curricular, com tolerância de 02 (duas) reprovações ou 02 (dois) trancamentos de disciplinas previstas no currículo do curso;"
 
 **V -**      designar representante e seu eventual substituto, para a efetivação e acompanhamento das atividades previstas nesta Lei, assim como, para acompanhamento e participação no Comitê Executivo;
 
-Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021<br>
+Redação de acordo com a Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021
+
 Redação original : " V - designar representante, e seu eventual substituto, na hipótese do art. 15, § 1º, desta Lei, para acompanhamento e participação no Comitê Executivo."
 
 **VI-**       fornecer devida e adequadamente banco de dados acadêmicos dos estudantes regularmente matriculados nos cursos de graduação presencial;
@@ -426,7 +462,8 @@ Inciso VII acrescido pelo art. 1º da Lei [14.360](https://www.legislabahia.ba.g
 
 Inciso VIII acrescido pelo art. 1º da Lei [14.360](https://www.legislabahia.ba.gov.br/documentos/lei-no-14360-de-01-de-setembro-de-2021) de 01 de setembro de 2021
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DISPOSIÇÕES FINAIS
 
 **Art. 22** - Aos alunos selecionados será concedido Auxílio Permanência, a ser pago diretamente aos beneficiários, por meio de crédito em conta-benefício, aberta em agência de instituição financeira conveniada ao Estado, indicada especificamente para esse fim e mediante a assinatura, pelo estudante beneficiado, de Termo de Compromisso previsto em Regulamento.

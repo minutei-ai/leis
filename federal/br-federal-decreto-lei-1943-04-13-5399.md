@@ -1,5 +1,3 @@
-###DEL-005399-0-000-13-04-1943@@@
-
 DECRE TO‑LEI N. 5.399 – DE 13 DE ABRIL DE 1943
 
 Cria função gratificada no Ministério da Educação e Saude, e dá outras

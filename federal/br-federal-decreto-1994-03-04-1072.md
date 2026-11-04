@@ -1,7 +1,3 @@
-1
-
-###DEC-001072-0-000-04-03-1994@@@
-
 DECRETO N° 1.072, DE 4 DE MARÇO DE 1994
 
 Dá nova redação à alínea b do § 2° do art. 6° do Anexo I ao Decreto n° 99.602, de 13 de outubro de 1990, que aprova a Estrutura Regimental do Instituto Brasileiro do Patrimônio Cultural-IBPC.

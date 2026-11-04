@@ -1,5 +1,3 @@
-###MPV-001943-0-052-27-04-2000@@@
-
 MEDIDA PROVISóRIA Nº 1.943-52, DE 27 de abril DE 2000.
 
 Altera a legislação do imposto de renda e dá outras providências.

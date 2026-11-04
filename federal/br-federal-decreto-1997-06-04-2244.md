@@ -1,5 +1,3 @@
-###DEC-002244-0-000-04-06-1997@@@
-
 DECRETO Nº 2.244, DE 4 DE JUNHO DE 1997
 
 Altera dispositivos do Decreto.nº 30.691,de 29 de março de 1952, que aprovou o Regulamento  da Inspeção Industrial e Sanitária de Produtos de Origem Animal, alterado pelos Decretos nº 1255, de 25 junho de 1962, nº 1.236, de 2 de setembro de 1994, e nº 1.812, de 8 de fevereiro de 1996.

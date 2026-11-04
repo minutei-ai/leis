@@ -1,5 +1,3 @@
-###DEC-045167-0-000-31-12-1958@@@
-
 decreto nº 45.167, de 31 de dezembro de 1958.
 
 Retifica o art. 1º do Decreto número 28.472, de 8 de agôsto de 1950.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208568)<br>
-
 # LEI N° 17.763, DE 27 DE SETEMBRO DE 2023
 
 ## (Projeto de lei n° 50/2020, da Deputada Leci Brandão - PCdoB)

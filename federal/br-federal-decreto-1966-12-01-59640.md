@@ -1,5 +1,3 @@
-###DEC-059640-0-000-01-12-1966@@@
-
 DECRETO Nº 59.640, DE 1 DE DEZEMBRO DE 1966.
 
 Declara de utilidade pública a “Escola Industrial Salesiana”, com sede em Belém, Estado do Pará.

@@ -1,5 +1,3 @@
-###DEC-091071-0-000-12-03-1985@@@
-
 Decreto nº 91.071 de 12 de março de 1985.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Concessão Simões'' situado no Município de Ibirama, no Estado de Santa Catarina, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 91.070, de 12 de março de 1985.

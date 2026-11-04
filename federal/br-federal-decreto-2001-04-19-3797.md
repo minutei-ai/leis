@@ -1,5 +1,3 @@
-###DEC-003797-0-000-19-04-2001@@@
-
 DECRETO Nº 3.797, DE 19 DE ABRIL DE 2001
 
 Dispõe sobre a execução do Trigésimo Quarto Protocolo Adicional ao Acordo de Complementação Econômica nº 2 (Veículos automotores), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 19 de dezembro de 2000.

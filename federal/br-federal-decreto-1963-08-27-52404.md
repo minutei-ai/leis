@@ -1,5 +1,3 @@
-###DEC-052404-0-000-27-08-1963@@@
-
 DECRETO Nº 52.404, DE 27 DE AGÔSTO DE 1963.
 
 Declara de utilidade pública, para efeito de desapropriação, a faixa de terrenos necessária à linha de transmissão Delmiro-Ôlho D’água das Flôres, no Estado de Alagoas.

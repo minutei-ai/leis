@@ -1,5 +1,3 @@
-###DEC-045418-0-000-12-02-1959@@@
-
 DECRETO Nº 45.418, DE 12 DE FEVEREIRO DE 1959.
 
 Transfere, sem aumento de despesa, função da Tabela Numérica Especial de Extranumerário-mensalista da Escola Técnica do Exército, para idêntica tabela do Gabinete do Ministro, ambas do Ministério da Guerra.

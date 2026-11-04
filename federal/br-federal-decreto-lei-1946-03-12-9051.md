@@ -1,5 +1,3 @@
-###DEL-009051-0-000-12-03-1946@@@
-
 DECRETO-LEI N. 9.051 – DE 12 DE MARÇO DE 1946
 
 Introduz alterações no Quadro 4 do Decreto-lei nº 6.019, de 23 de Novembro de 1943.

@@ -1,5 +1,3 @@
-###DEC-006689-0-000-11-12-2008@@@
-
 DECRETO Nº 6.689, DE 11 DE DEZEMBRO DE 2008.
 
 Aprova o Estatuto Social da Empresa Brasil de Comunicação S.A. - EBC e revoga o art. 4o do Decreto no 6.246, 24 de outubro de 2007.

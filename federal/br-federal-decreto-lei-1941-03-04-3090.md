@@ -1,5 +1,3 @@
-###DEL-003090-0-000-04-03-1941@@@
-
 DECRETO-LEI N. 3.090 – DE 4 de MARÇO DE 1941
 
 Dispõe sobre o Serviço de Registo de Estrangeiros           (S. R. E.) da Polícia Civil, do Distrito Federal e dá outras providências.

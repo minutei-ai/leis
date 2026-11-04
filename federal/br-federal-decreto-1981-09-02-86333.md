@@ -1,5 +1,3 @@
-###DEC-086333-0-000-02-09-1981@@@
-
 Decreto nº 86.333, de 02 de setembro de 1981
 
 Autoriza o aumento de potência da RÁDIO RENASCENÇA LTDA., na cidade de Ribeirão Preto, Estado de São Paulo.

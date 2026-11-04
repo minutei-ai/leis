@@ -1,5 +1,3 @@
-###DEL-003825-0-000-13-11-1941@@@
-
 DECRETO-LEI n. 3.825 – DE 13 DE NOVEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saúde, o crédito suplementar de 28:000$0, à verba que especifica

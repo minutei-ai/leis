@@ -1,5 +1,3 @@
-###DEC-091568-0-000-23-08-1985@@@
-
 Decreto nº 91.568, de 23 de agosto de 1985
 
 Renova a concessão outorgada à RÁDIO CERES LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade Não Me Toque, Estado do Rio Grande do Sul.

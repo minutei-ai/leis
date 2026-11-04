@@ -1,5 +1,3 @@
-###DEC-070704-0-000-08-06-1972@@@
-
 DECRETO Nº 70.704, DE 8 DE JUNHO DE 1972.
 
 Concede autorização às firmas Arthur Levy Boat Service Inc. e Arthur Levy do Brasil Ltda. para operação, em águas brasileiras, de embarcações de nacionalidade norte-americana.

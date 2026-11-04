@@ -1,5 +1,3 @@
-###DEC-053759-0-000-19-03-1964@@@
-
 DECRETO Nº 53.759, DE 19 DE MARÇO DE 1964.
 
 Concedo autorização para funcionar como emprêsa de energia elétrica.

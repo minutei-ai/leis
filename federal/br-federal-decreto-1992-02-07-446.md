@@ -1,5 +1,3 @@
-###DEC-000446-0-000-07-02-1992@@@
-
 DECRETO N° 446, DE 7 DE FEVEREIRO DE 1992
 
 Promulga o Acordo sobre Transporte Aéreo entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos da América.

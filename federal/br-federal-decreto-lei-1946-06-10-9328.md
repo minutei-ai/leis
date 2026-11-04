@@ -1,5 +1,3 @@
-###DEL-009328-0-000-10-06-1946@@@
-
 DECRETO-LEI N. 9.328 – DE 10 DE JUNHO DE 1946
 
 Dispõe sôbre a responsabilidade de diretores de Bancos e Casas Bancárias.

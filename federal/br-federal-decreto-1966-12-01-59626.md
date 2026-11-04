@@ -1,5 +1,3 @@
-###DEC-059626-0-000-01-12-1966@@@
-
 DECRETO Nº 59.626, DE 1º DE DEZEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Edmundo Ribeiro da Costa a pesquisar amianto e minério de manganês no município de Pilar de Goiás, Estado de Goiás.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210609)<br>
-
 # DECRETO N° 69.350, DE 11 DE FEVEREIRO DE 2025
 
 ### _Altera dispositivos do Decreto n° 69.348, de 7 de fevereiro de 2025._

@@ -1,5 +1,3 @@
-###DEC-048321-0-000-20-06-1960@@@
-
 DECRETO Nº 48.321, DE 20 DE JUNHO DE 1960.
 
 Autoriza Suprargila Ltda. a lavrar feldspato, no município de Paraibuna, Estado de São Paulo.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001430-0-000-30-03-1995@@@
-
 DECRETO Nº 1.430, DE 30 DE MARÇO DE 1995
 
 Altera áreas de jurisdição dos Comandos Militares de Área e das Regiões Militares no Ministério do Exercício e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-083372-0-000-25-04-1979@@@
-
 Decreto nº 83.372, de 25 de abril de 1979.
 
 Concede reconhecimento ao curso de Pedagogia, do Centro de Ensino Superior, em Erexim, Rio Grande do Sul.

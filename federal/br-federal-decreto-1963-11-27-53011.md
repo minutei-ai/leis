@@ -1,5 +1,3 @@
-###DEC-053011-0-000-27-11-1963@@@
-
 DECRETO Nº 53011, DE 27 DE NOVEMBRO DE 1963.
 
 Acrescenta a cláusula de co-produção cinematográfica às características enumeradas no art. 1º do Decreto nº 51.106, de 1º de agôsto de 1961.

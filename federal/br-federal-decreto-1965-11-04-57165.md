@@ -1,5 +1,3 @@
-###DEC-057165-0-000-04-11-1965@@@
-
 Decreto nº 57.165, de 4 de novembro de 1965.
 
 Autoriza a Cia. Materiais Sulfurosos Matsulfur a pesquisar calcário, no município de Montes Claros, Estado de Minas Gerais.

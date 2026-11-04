@@ -1,5 +1,3 @@
-###DEC-088182-0-000-15-03-1983@@@
-
 Decreto nº 88.182, de 15 de março de 1983.
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que menciona.

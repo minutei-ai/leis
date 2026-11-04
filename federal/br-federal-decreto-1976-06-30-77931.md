@@ -1,5 +1,3 @@
-###DEC-077931-0-000-30-06-1976@@@
-
 Decreto nº 77.931, de 30 de junho de 1976.
 
 Concede à Minérios Industriais do Sul S.A. - MINEL o direito de lavrar calcário no Município de Rio Pardo, Estado do Rio Grande do Sul.

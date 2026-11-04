@@ -1,5 +1,3 @@
-###DEL-003487-0-000-11-08-1941@@@
-
 DECRETO-LEI N. 3.487 – DE 11 DE AGOSTO DE 1941
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito suplementar de 36:000$0 à verba que especifica, e dá outras providências.

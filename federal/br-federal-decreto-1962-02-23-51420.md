@@ -1,5 +1,3 @@
-###DEC-051420-0-000-23-02-1962@@@
-
 DECRETO Nº 51.420, de 23 de fevereiro de 1962.
 
 Retifica a Tabela Numérica Especial de Mensalistas do Ministério da Saúde e dá outras providências.

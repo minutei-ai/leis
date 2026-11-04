@@ -1,5 +1,3 @@
-###DEC-093670-0-000-09-12-1986@@@
-
 DECRETO Nº 93.670, DE 9 DE DEZEMBRO DE 1986
 
 Altera dispositivo do Decreto nº 57.654, de 20 de janeiro de 1966.

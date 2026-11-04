@@ -1,5 +1,3 @@
-###DEC-006065-0-000-21-03-2007@@@
-
 DECRETO Nº 6.065, DE 21 DE MARÇO DE 2007.
 
 Dispõe sobre a Comissão de Coordenação das Atividades de Meteorologia, Climatologia e Hidrologia (CMCH), e dá outras providências.
@@ -165,5 +163,3 @@ Waldir Pires
 Luis Carlos Guedes Pinto
 
 Sergio Machado Rezende
-
-Este texto não substitui o publicado no DOU de 22.3.2007.

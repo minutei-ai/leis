@@ -1,5 +1,3 @@
-###DEC-044923-0-000-01-12-1958@@@
-
 DECRETO Nº 44.923, DE 1 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Roberto Paraíso Rocha a pesquisar caulim, no municipio de Piraí, Estado do Rio de Janeiro.

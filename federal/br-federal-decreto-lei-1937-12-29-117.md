@@ -1,5 +1,3 @@
-###DEL-000117-0-000-29-12-1937@@@
-
 DECRETO LEI N. 117 – DE 29 DE DEZEMBRO DE 1937
 
 Abre, pela Prefeitura do Distrito Federal, o crédito especial de 311:880$700, para pagamento de pessoal, nas condições que menciona 

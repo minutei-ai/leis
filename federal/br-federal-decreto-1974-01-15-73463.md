@@ -1,5 +1,3 @@
-###DEC-073463-0-000-15-01-1974@@@
-
 DECRETO Nº 73.463, DE 15 DE JANEIRO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério do Exército.

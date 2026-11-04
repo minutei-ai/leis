@@ -1,5 +1,3 @@
-###DEC-052358-0-000-14-08-1963@@@
-
 DECRETO Nº 52.358, DE 14 DE Agôsto DE 1963.
 
 Cria no Ministério da Aeronáutica a Comissão Especial de Estudos e Construção do Hospital da Aeronáutica da 4º Zona Aérea e dá outras providencias.

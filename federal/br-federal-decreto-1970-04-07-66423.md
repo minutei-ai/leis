@@ -1,5 +1,3 @@
-###DEC-066423-0-000-07-04-1970@@@
-
 DECRETO Nº 66.423, DE 7 DE ABRIL DE 1970.
 
 Declara de utilidade pública a Sociedade Beneficente Nossa Senhora da Imaculada Conceição, com sede em Nova Trento, Estado de Santa Catarina.

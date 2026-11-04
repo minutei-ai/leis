@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=147379)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2008/compilacao-lei-13286-18.12.2008.html)
 
 # LEI Nº 13.286, DE 18 DE DEZEMBRO DE 2008
@@ -7,8 +6,10 @@
 
 ### _Autoriza o Poder Executivo a alienar, ao Banco do Brasil S.A., ações de propriedade do Estado, representativas do capital social do Banco Nossa Caixa S.A., e dá providências correlatas._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
+
 **Artigo 1º -** Fica o Poder Executivo autorizado a alienar ao Banco do Brasil S.A. a totalidade das ações representativas do capital social do Banco Nossa Caixa S.A., de propriedade do Estado.
 
 **§ 1º -** A alienação deverá condicionar-se ao compromisso do Banco do Brasil S.A. de proceder à incorporação do Banco Nossa Caixa S.A., nos termos do artigo 227 da Lei federal no 6.404, de 15 de dezembro de 1976, bem como de não alienar, a qualquer título, o controle acionário do Banco Nossa Caixa S.A.
@@ -79,7 +80,8 @@ Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<
 
 ~~Parágrafo único - Os atuais empregados da COSESP poderão ser integrados ao quadro de pessoal da Nossa Caixa Desenvolvimento - Agência de Fomento do Estado de São Paulo, observadas as mesmas condições previstas no artigo 8º desta lei.~~
 
-**Artigo 9º -** Fica o Poder Executivo autorizado a alienar as ações de propriedade do Estado, representativas do capital social da Companhia de Seguros do Estado de São Paulo - COSESP, mediante avaliação prévia e observadas as disposições aplicáveis da Lei federal nº 8.666, de 21 de junho de 1993, ou deliberar a sua liquidação e subsequente extinção, nos termos da Lei federal nº 6.404, de 15 de dezembro de 1976. (NR)<br>
+**Artigo 9º -** Fica o Poder Executivo autorizado a alienar as ações de propriedade do Estado, representativas do capital social da Companhia de Seguros do Estado de São Paulo - COSESP, mediante avaliação prévia e observadas as disposições aplicáveis da Lei federal nº 8.666, de 21 de junho de 1993, ou deliberar a sua liquidação e subsequente extinção, nos termos da Lei federal nº 6.404, de 15 de dezembro de 1976. (NR)
+
 **Parágrafo único -** A avaliação das ações de propriedade do Estado será realizada por pessoa jurídica legalmente habilitada, de comprovada experiência na avaliação e apuração de seu valor de mercado, contratada especialmente para esse fim, com observância da Lei nº 8.666, de 21 de junho de 1993. (NR)
 
 _\- Artigo 9º com redação dada pela [Lei nº 13.917, de 22/12/2009](https://www.al.sp.gov.br/norma/158716)._
@@ -92,13 +94,22 @@ _\- Vide artigo 65 da [Lei nº 17.293, de 15/10/2020](https://www.al.sp.gov.br/n
 
 Disposição transitória
 
-**Artigo único -** Fica o Poder Executivo autorizado a atribuir ao Banco do Brasil S.A., após a incorporação do Banco Nossa Caixa S.A., a condição de agente financeiro do Tesouro do Estado, pelo prazo de 5 (cinco) anos, contados da transferência do controle acionário do Banco Nossa Caixa S.A.<br>
-Palácio dos Bandeirantes, aos 18 de dezembro de 2008.<br>
-José Serra<br>
-Mauro Ricardo Machado Costa<br>
-Secretário da Fazenda<br>
-Francisco Vidal Luna<br>
-Secretário de Economia e Planejamento<br>
-Aloysio Nunes Ferreira Filho<br>
-Secretário-Chefe da Casa Civil<br>
+**Artigo único -** Fica o Poder Executivo autorizado a atribuir ao Banco do Brasil S.A., após a incorporação do Banco Nossa Caixa S.A., a condição de agente financeiro do Tesouro do Estado, pelo prazo de 5 (cinco) anos, contados da transferência do controle acionário do Banco Nossa Caixa S.A.
+
+Palácio dos Bandeirantes, aos 18 de dezembro de 2008.
+
+José Serra
+
+Mauro Ricardo Machado Costa
+
+Secretário da Fazenda
+
+Francisco Vidal Luna
+
+Secretário de Economia e Planejamento
+
+Aloysio Nunes Ferreira Filho
+
+Secretário-Chefe da Casa Civil
+
 Publicada na Assessoria Técnico-Legislativa, aos 18 de dezembro de 2008.

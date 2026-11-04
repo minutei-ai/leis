@@ -1,5 +1,3 @@
-###DEL-007017-0-000-03-11-1944@@@
-
 DECRETO-LEI N. 7 .017 – DE 3 DE NOVEMBRO DE 1944
 
 Cria uma coletoria federal no município de Miracema, no Estado de Minas Gerais, e dá outras providências

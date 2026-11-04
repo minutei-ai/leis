@@ -1,5 +1,3 @@
-###DEL-003147-0-000-26-03-1941@@@
-
 DECRETO-LEI N. 3.147 – DE 26 DE MARÇO DE 1941
 
 Extingue um cargo de professor catedrático, padrão M, da cadeira de Medicina Legal, da Faculdade Nacional de Direito da Universidade do Brasil do Quadro I do Ministério da Educação e Saúde.

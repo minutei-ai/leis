@@ -684,5 +684,6 @@ Marcos Pereira
 
 Dyogo Henrique de Oliveira
 
-<<ANEXOS>><br>
+<<ANEXOS>>
+
 <<TABELAS>>

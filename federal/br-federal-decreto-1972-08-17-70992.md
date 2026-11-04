@@ -1,5 +1,3 @@
-###DEC-070992-0-000-17-08-1972@@@
-
 DECRETO Nº 70.992, DE 17 DE AGOSTO DE 1972.
 
 Concede à Empresa Águas Minerais do Pagé Ltda. o direito de lavrar água mineral no município de Sobral, Estado do Ceará.

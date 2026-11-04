@@ -1,5 +1,3 @@
-###DEC-005393-0-000-10-03-2005@@@
-
 DECRETO Nº 5.393 DE 10 DE MARÇO DE 2005
 
 Altera e acrescenta dispositivos ao Decreto nºo 4.901, de 26 de novembro de 2003, que institui o Sistema Brasileiro de Televisão Digital - SBTVD.

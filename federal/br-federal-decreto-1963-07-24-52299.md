@@ -1,5 +1,3 @@
-###DEC-052299-0-000-24-07-1963@@@
-
 DECRETO Nº 52.299, DE 24 DE JULHO DE 1963.
 
 Autoriza Cis José Salme, a comprar pedras preciosas.

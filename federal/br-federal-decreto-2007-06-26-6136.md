@@ -1,5 +1,3 @@
-###DEC-006136-0-000-26-06-2007@@@
-
 DECRETO Nº 6.136, DE 26 DE JUNHO DE 2007.
 
 Promulga a Convenção para a Supressão de Atos Ilícitos contra a Segurança da Navegação Marítima e o Protocolo para a Supressão de Atos Ilícitos contra a Segurança de Plataformas Fixas Localizadas na Plataforma Continental, ambos de 10 de março de 1988, com reservas ao item 2 do artigo 6o, ao artigo 8o e ao item 1 do artigo 16 da Convenção, bem como ao item 2 do artigo 3o do Protocolo.
@@ -24,11 +22,7 @@ Brasília, 26 de junho de 2007; 186º da Independência e 119º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 27.6.2007
-
-CONVENÇÃO PARA A SUPRESSÃO DE ATOS ILÍCITOS
+Celso Luiz Nunes AmorimCONVENÇÃO PARA A SUPRESSÃO DE ATOS ILÍCITOS
 
 CONTRA A SEGURANÇA DA NAVEGAÇÃO MARÍTIMA 
 

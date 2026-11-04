@@ -1,5 +1,3 @@
-###DEC-052047-0-000-24-05-1963@@@
-
 DECRETO Nº 52.047, DE 24 DE MAIO DE 1963.
 
 Autoriza a Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul a construir linhas de transmissão.

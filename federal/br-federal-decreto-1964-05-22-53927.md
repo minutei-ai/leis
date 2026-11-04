@@ -1,5 +1,3 @@
-###DEC-053927-0-000-22-05-1964@@@
-
 decreto nº 53.927, de 22 de maio de 1964.
 
 Extingue a Comissão de Assistência às Fundações Educacionais.

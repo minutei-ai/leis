@@ -1,5 +1,3 @@
-###DEL-000077-0-000-23-11-1966@@@
-
 Decreto-Lei nº 77, de 23 de novembro de 1966
 
 Acrescenta alínea à Lei nº 4.476, de 12 de novembro de 1964, que estabelece a precedência funcional entre Oficiais Generais dos postos de Almirante-de-Esquerda, General-de-Exército e Tenente-Brigadeiro.

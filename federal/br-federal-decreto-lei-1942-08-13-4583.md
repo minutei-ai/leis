@@ -1,5 +1,3 @@
-###DEL-004583-0-000-13-08-1942@@@
-
 DECRETO-LEI N. 4.583 – DE 13 DE AGOSTO DE 1942
 
 Dispõe a respeito da arrecadação nas fontes do imposto de renda sobre quotas-partes de multas, e dá outras providências

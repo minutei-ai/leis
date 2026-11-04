@@ -1,5 +1,3 @@
-###DEC-099566-0-000-09-10-1990@@@
-
 DECRETO N° 99.566, DE 9 DE OUTUBRO DE 1990
 
 Extingue o Vice-Consulado do Brasil em Nassau.

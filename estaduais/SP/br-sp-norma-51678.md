@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51678)
-
 # LEI Nº 11.783, DE 23 DE AGOSTO DE 2004
 
 ## (PL 934/2003 - Ary Fossen)

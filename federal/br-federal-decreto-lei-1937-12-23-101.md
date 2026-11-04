@@ -1,5 +1,3 @@
-###DEL-000101-0-000-23-12-1937@@@
-
 DECRETO-LEI N. 101 – DE 23 DE DEZEMBRO DE 1937
 
 Cria, no Ministério da Marinha, a Divisão de História Marítima do Brasil

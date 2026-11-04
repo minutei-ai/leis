@@ -1,5 +1,3 @@
-###DEC-064792-0-000-09-07-1969@@@
-
 Decreto nº 64.792 - de 9 de julho de 1969.
 
 Oficializa a "Medalha CNI - 50º da O.I.T".

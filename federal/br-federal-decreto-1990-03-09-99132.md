@@ -1,7 +1,3 @@
-1
-
-###DEC-099132-0-000-09-03-1990@@@
-
 DECRETO Nº 99.132, DE 9 DE MARÇO DE 1990
 
 Renova a concessão outorgada à RÁDIO RIO CLARO LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Iporá, Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEL-004989-0-000-24-11-1942@@@
-
 DECRETO-LEI N. 4.989 – DE 24 DE NOVEMBRO DE 1942
 
 Torna sem aplicação a quantia de Cr$ 95.000,00 de crédito orçamentário do Ministério da Educação e Saude e abre crédito especial de idêntica importância

@@ -1,5 +1,3 @@
-###DEC-097279-0-000-16-12-1988@@@
-
 DECRETO Nº 97.279, DE 16 DE DEZEMBRO DE 1988
 
 Torna insubsistente o Decreto nº 97.239, de 15 de dezembro de 1988, que abre crédito suplementar a Encargos Financeiros da União - Recursos sob a Supervisão do Ministério da Fazenda.

@@ -1,7 +1,3 @@
-1
-
-###DEC-097609-0-000-04-04-1989@@@
-
 DECRETO N° 97.609, DE 04 DE ABRIL DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado Gleba Itabocal, constituído pelos Lotes “O”, ” P”, “Q”, “S”, “T”, ” U”, “ X” ,”Y” e parte dos Lotes” “R e “V”, do Loteamento Mineiro, classificado como latifúndio por exploração, situado nos Municípios de Irituia e Capitão Poço, no Estado do Pará, compreendido na zona prioritária, fixada pelo Decreto n° 92.623, de 02 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-064101-0-000-12-02-1969@@@
-
 DECRETO Nº 64.101, DE 12 DE FEVEREIRO DE 1969.
 
 Concede reconhecimento à Escolar de Agronomia e Veterinária da Universidade Federal de Goiás

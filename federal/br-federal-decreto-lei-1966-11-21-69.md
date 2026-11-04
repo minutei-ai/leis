@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/edaf6143-427b-4762-a150-36fdd7eed215/texto#nowhere)
 
-###DEL-000069-0-000-21-11-1966@@@
-
 DECRETO-LEI Nº 69 - DE 21 DE NOVEMBRO DE 1966
 
 Complementa as Leis nº 4.415, de 24 de setembro de 1964, e nº 3.917, de 14 de julho de 1961, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-081219-0-000-16-01-1978@@@
-
 Decreto nº 81.819, de 16 de janeiro de 1978.
 
 Altera o Regulamento dos Serviços Rodoviários Interestaduais e Internacionais de Transporte Coletivo de Passageiros, aprovado pelo Decreto nº 68.961, de 20 de julho de 1971 e alterado pelo Decreto nº 71.984, de 23 de março de 1973.

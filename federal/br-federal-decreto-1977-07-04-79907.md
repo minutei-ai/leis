@@ -1,5 +1,3 @@
-###DEC-079907-0-000-04-07-1977@@@
-
 DECRETO Nº 79.907, DE 4 DE JULHO DE 1977.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União para a operação externa que menciona.

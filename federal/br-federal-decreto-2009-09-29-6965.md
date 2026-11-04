@@ -1,5 +1,3 @@
-###DEC-006965-0-000-29-09-2009@@@
-
 DECRETO Nº 6.965, DE 29 DE SETEMBRO DE 2009.
 
 Promulga o Memorando de Entendimento entre os Membros do Fórum de Diálogo Índia-Brasil-África do Sul, o Governo da República Federativa do Brasil, o Governo da República da África do Sul e o Governo da República da Índia, para Estabelecer Força-Tarefa Trilateral sobre Biocombustíveis, assinado em Brasília, em 13 de setembro de 2006.

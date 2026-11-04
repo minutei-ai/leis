@@ -1,5 +1,3 @@
-###DEL-004268-0-000-17-04-1942@@@
-
 DECRETO-LEI N. 4.268 – DE 17 DE ABRIL DE 1942
 
 Suspende, até ulterior deliberação, a execução do decreto-lei n. 3.695, de 8 de outubro da 1941

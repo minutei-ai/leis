@@ -1,4 +1,5 @@
-**DECRETO Nº 10.955 DE 10 DE JULHO DE 2026**<br>
+**DECRETO Nº 10.955 DE 10 DE JULHO DE 2026**
+
 \- [Revogado pelo Decreto nº 10.957, de 15-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116242), art. 11.
 
 ~~Institui Grupo de Trabalho destinado à elaboração, à coordenação e ao acompanhamento da agenda oficial das comemorações dos 300 (trezentos) anos da Cidade de Goiás e designa seus integrantes.~~
@@ -81,5 +82,6 @@
 
  
 
-~~DANIEL VILELA~~<br>
+~~DANIEL VILELA~~
+
 ~~Governador do Estado~~

@@ -1,5 +1,3 @@
-###DEC-068638-0-000-20-05-1971@@@
-
 DECRETO Nº 68.638, DE 20 DE MAIO DE 1971.
 
 Redistribui cargo, com a respectiva ocupante, para o Quadro de Pessoal do Ministério da Justiça.

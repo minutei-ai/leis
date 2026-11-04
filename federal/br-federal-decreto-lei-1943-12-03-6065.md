@@ -1,5 +1,3 @@
-###DEL-006065-0-000-03-12-1943@@@
-
 DECRETO‑LEI N. 6.065 – DE 3 DE DEZEMBRO DE 1943
 
 Modifica o emprêgo, a ser dado ao saldo duma parcela de crédito especial aberto ao Ministério da Guerra

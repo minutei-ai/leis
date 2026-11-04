@@ -1,5 +1,3 @@
-###DEC-003807-0-000-26-04-2001@@@
-
 DECRETO Nº 3.807, DE 26 DE ABRIL DE 2001
 
 Regulamenta a Lei nº 10.197, de 14 de fevereiro de 2001, que acresce dispositivos ao Decreto-Lei nº 719, de 31 de julho de 1969, para dispor sobre o financiamento a projetos de implantação e recuperação de infra-estrutura de pesquisa nas instituições públicas de ensino superior e de pesquisa, e dá outras providências.

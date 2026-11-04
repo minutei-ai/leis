@@ -1,5 +1,3 @@
-###DEC-092187-0-000-20-12-1985@@@
-
 Decreto nº 92.187, de 20 de dezembro de 1985
 
 Aprova o Regulamento para a concessão dos incentivos fiscais de que tratam os artigos 13 a 15 da Lei nº 7.232, de 29 de outubro de 1984, e dá outras providências.

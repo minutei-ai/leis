@@ -1,5 +1,3 @@
-###DEC-055256-0-000-22-12-1964@@@
-
 DECRETO Nº 55.256, DE 22 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Tosiuki Nonaka a pesquisar mármore no município de Itabirito, Estado de Minas Gerais.

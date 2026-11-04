@@ -1,5 +1,3 @@
-###DEL-005204-0-000-19-01-1943@@@
-
 DECRETO‑LEI N. 5.204 – DE 19 DE JANEIRO DE 1943
 
 Autoriza o Ministério da Aeronáutica a contratar com a Standard Oil Compagny of Brazil a construção e aparelhamento de depósitos de combustiveis de aviação em terrenos adjacentes à Base Aérea de Recife (Ibura), e dá outras providências.

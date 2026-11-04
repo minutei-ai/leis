@@ -1,5 +1,3 @@
-###DEC-050188-0-000-28-01-1961@@@
-
 DECRETO Nº 50.188, DE 28 DE JANEIRO DE 1961.
 
 Outorga concessão à Rádio Clube de Fronteira Ltda. para instalar uma estação radiodifusora.

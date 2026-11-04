@@ -1,5 +1,3 @@
-###DEC-076715-0-000-02-12-1975@@@
-
 DECRETO Nº 76.715, DE 2 DE DEZEMBRO DE 1975.
 
 Concede à "Línea Aérea del Cobre S.A - LADECO", autorização para funcionar no Brasil.

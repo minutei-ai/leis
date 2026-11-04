@@ -1,5 +1,3 @@
-###DEC-003923-0-000-17-09-2001@@@
-
 DECRETO Nº 3.923, DE 17 DE SETEMBRO DE 2001
 
  Dispõe sobre os locais autorizados a operar o regime especial de entreposto aduaneiro e revoga dispositivos do Regulamento Aduaneiro, aprovado pelo Decreto no 91.030, de 5 de março de 1985.

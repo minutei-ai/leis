@@ -1,5 +1,3 @@
-###DEC-004086-0-000-15-01-2002@@@
-
 DECRETO Nº 4.086, DE 15 DE JANEIRO DE 2002.
 
 Fixa as proporções, referentes ao ano-base 2001, a serem observadas para promoção obrigatória de Oficiais das Armas, Quadros e Serviços do Exército.
@@ -10,7 +8,113 @@ DECRETA:
 
 Art. 1~~º~~ São fixados, para o ano-base 2001, os seguintes números de vagas para promoção obrigatória no Exército:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:4.5pt groove #000000; border-collapse:collapse"><tbody><tr><td style="width:128.25pt; border-right-style:groove; border-right-width:4.5pt; border-bottom-style:groove; border-bottom-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">POSTOS ARMAS, QUADROS E SERVIÇOS</span></p></td><td style="width:53pt; border-right-style:groove; border-right-width:4.5pt; border-left-style:groove; border-left-width:4.5pt; border-bottom-style:groove; border-bottom-width:4.5pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">CORONEL</span></p></td><td style="width:61.85pt; border-right-style:groove; border-right-width:4.5pt; border-left-style:groove; border-left-width:4.5pt; border-bottom-style:groove; border-bottom-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">TENENTE CORONEL</span></p></td><td style="width:61.85pt; border-right-style:groove; border-right-width:4.5pt; border-left-style:groove; border-left-width:4.5pt; border-bottom-style:groove; border-bottom-width:4.5pt; vertical-align:middle"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">MAJOR</span></p></td><td style="width:61.85pt; border-right-style:groove; border-right-width:4.5pt; border-left-style:groove; border-left-width:4.5pt; border-bottom-style:groove; border-bottom-width:4.5pt; vertical-align:middle"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">CAPITÃO</span></p></td><td style="width:48.6pt; border-left-style:groove; border-left-width:4.5pt; border-bottom-style:groove; border-bottom-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">1</span><span style="font-size:10pt; text-decoration:line-through"><del>º</del></span><span style="font-size:10pt"> TENENTE</span></p></td></tr><tr><td style="width:128.25pt; border-top-style:groove; border-top-width:4.5pt; border-right-style:groove; border-right-width:4.5pt; border-bottom-style:groove; border-bottom-width:4.5pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Armas e QMB</span></p></td><td style="width:53pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">178</span></p></td><td style="width:61.85pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">267</span></p></td><td style="width:61.85pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">247</span></p></td><td style="width:61.85pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td><td style="width:48.6pt; border-top-style:groove; border-top-width:4.5pt; border-left-style:groove; border-left-width:4.5pt; border-bottom-style:groove; border-bottom-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td></tr><tr><td style="width:128.25pt; border-top-style:groove; border-top-width:4.5pt; border-right-style:groove; border-right-width:4.5pt; border-bottom-style:groove; border-bottom-width:4.5pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Intendentes</span></p></td><td style="width:53pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">16</span></p></td><td style="width:61.85pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">23</span></p></td><td style="width:61.85pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">22</span></p></td><td style="width:61.85pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td><td style="width:48.6pt; border-top-style:groove; border-top-width:4.5pt; border-left-style:groove; border-left-width:4.5pt; border-bottom-style:groove; border-bottom-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td></tr><tr><td style="width:128.25pt; border-top-style:groove; border-top-width:4.5pt; border-right-style:groove; border-right-width:4.5pt; border-bottom-style:groove; border-bottom-width:4.5pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">QEM</span></p></td><td style="width:53pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">26</span></p></td><td style="width:61.85pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">4</span></p></td><td style="width:61.85pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">27</span></p></td><td style="width:61.85pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td><td style="width:48.6pt; border-top-style:groove; border-top-width:4.5pt; border-left-style:groove; border-left-width:4.5pt; border-bottom-style:groove; border-bottom-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td></tr><tr><td style="width:128.25pt; border-top-style:groove; border-top-width:4.5pt; border-right-style:groove; border-right-width:4.5pt; border-bottom-style:groove; border-bottom-width:4.5pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Médicos</span></p></td><td style="width:53pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">25</span></p></td><td style="width:61.85pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">18</span></p></td><td style="width:61.85pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">45</span></p></td><td style="width:61.85pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td><td style="width:48.6pt; border-top-style:groove; border-top-width:4.5pt; border-left-style:groove; border-left-width:4.5pt; border-bottom-style:groove; border-bottom-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td></tr><tr><td style="width:128.25pt; border-top-style:groove; border-top-width:4.5pt; border-right-style:groove; border-right-width:4.5pt; border-bottom-style:groove; border-bottom-width:4.5pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Dentistas</span></p></td><td style="width:53pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">3</span></p></td><td style="width:61.85pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">17</span></p></td><td style="width:61.85pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">8</span></p></td><td style="width:61.85pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td><td style="width:48.6pt; border-top-style:groove; border-top-width:4.5pt; border-left-style:groove; border-left-width:4.5pt; border-bottom-style:groove; border-bottom-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td></tr><tr><td style="width:128.25pt; border-top-style:groove; border-top-width:4.5pt; border-right-style:groove; border-right-width:4.5pt; border-bottom-style:groove; border-bottom-width:4.5pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Farmacêuticos</span></p></td><td style="width:53pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">1</span></p></td><td style="width:61.85pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">6</span></p></td><td style="width:61.85pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">11</span></p></td><td style="width:61.85pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td><td style="width:48.6pt; border-top-style:groove; border-top-width:4.5pt; border-left-style:groove; border-left-width:4.5pt; border-bottom-style:groove; border-bottom-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td></tr><tr><td style="width:128.25pt; border-top-style:groove; border-top-width:4.5pt; border-right-style:groove; border-right-width:4.5pt; border-bottom-style:groove; border-bottom-width:4.5pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">SAREX</span></p></td><td style="width:53pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">0</span></p></td><td style="width:61.85pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">0</span></p></td><td style="width:61.85pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">0</span></p></td><td style="width:61.85pt; border-style:groove; border-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td><td style="width:48.6pt; border-top-style:groove; border-top-width:4.5pt; border-left-style:groove; border-left-width:4.5pt; border-bottom-style:groove; border-bottom-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td></tr><tr><td style="width:128.25pt; border-top-style:groove; border-top-width:4.5pt; border-right-style:groove; border-right-width:4.5pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">QAO</span></p></td><td style="width:53pt; border-top-style:groove; border-top-width:4.5pt; border-right-style:groove; border-right-width:4.5pt; border-left-style:groove; border-left-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td><td style="width:61.85pt; border-top-style:groove; border-top-width:4.5pt; border-right-style:groove; border-right-width:4.5pt; border-left-style:groove; border-left-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td><td style="width:61.85pt; border-top-style:groove; border-top-width:4.5pt; border-right-style:groove; border-right-width:4.5pt; border-left-style:groove; border-left-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">-</span></p></td><td style="width:61.85pt; border-top-style:groove; border-top-width:4.5pt; border-right-style:groove; border-right-width:4.5pt; border-left-style:groove; border-left-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">219</span></p></td><td style="width:48.6pt; border-top-style:groove; border-top-width:4.5pt; border-left-style:groove; border-left-width:4.5pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">281</span></p></td></tr></tbody></table>
+POSTOS ARMAS, QUADROS E SERVIÇOS
+
+CORONEL
+
+TENENTE CORONEL
+
+MAJOR
+
+CAPITÃO
+
+1<del>º</del> TENENTE
+
+Armas e QMB
+
+178
+
+267
+
+247
+
+-
+
+-
+
+Intendentes
+
+16
+
+23
+
+22
+
+-
+
+-
+
+QEM
+
+26
+
+4
+
+27
+
+-
+
+-
+
+Médicos
+
+25
+
+18
+
+45
+
+-
+
+-
+
+Dentistas
+
+3
+
+17
+
+8
+
+-
+
+-
+
+Farmacêuticos
+
+1
+
+6
+
+11
+
+-
+
+-
+
+SAREX
+
+0
+
+0
+
+0
+
+-
+
+-
+
+QAO
+
+-
+
+-
+
+-
+
+219
+
+281
 
 Art. 2~~º~~ Este Decreto entra em vigor na data de sua publicação.
 

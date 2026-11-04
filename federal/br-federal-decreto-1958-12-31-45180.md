@@ -1,5 +1,3 @@
-###DEC-045180-0-000-31-12-1958@@@
-
 decreto nº 45.180, de 31 de dezembro de 1958.
 
 Autoriza a Prefeitura Municipal de Ponta Grossa Estado do Paraná, a construir uma linha de transmissão.

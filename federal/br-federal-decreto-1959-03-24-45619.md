@@ -1,5 +1,3 @@
-###DEC-045619-0-000-24-03-1959@@@
-
 Decreto nº 45.619, de 24 de março de 1959.
 
 Autoriza estrangeira a adquirir o domínio pleno do terreno que menciona, situado no Distrito Federal.

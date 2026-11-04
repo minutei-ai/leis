@@ -1,5 +1,3 @@
-###DEC-002408-0-000-27-11-1997@@@
-
 DECRETO Nº 2.408, DE 27 DE NOVEMBRO DE 1997
 
 Prorroga o prazo estabelecido no art. 2º do Decreto nº 2.224, de 13 de maio de 1997.

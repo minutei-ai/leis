@@ -1,5 +1,3 @@
-###MPV-001746-0-011-08-04-1999@@@
-
 medida provisória nº 1.746-11, de 8 de abril de 1999.
 
 Dá nova redação ao art. 9º da Lei nº 8.723, de 28 de outubro de 1993, que dispõe sobre a redução de emissão de poluentes por veículos automotores, e dá outras providências.

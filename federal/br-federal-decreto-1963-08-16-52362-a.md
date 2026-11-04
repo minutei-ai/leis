@@ -1,5 +1,3 @@
-###DEC-052362-A-000-16-08-1963@@@
-
 DECRETO Nº 52.362-A, DE 16 DE AGôSTO DE 1963.
 
 Institui comissão para realizar sindicâncias sôbre denúncias de infrações contra a Fazenda Nacional e propor as medidas que menciona.

@@ -1,5 +1,3 @@
-###DEC-053607-0-000-25-02-1964@@@
-
 DECRETO Nº 53.607, DE 25 DE FEVEREIRO DE 1964.
 
 Altera o Decreto nº 51.500, de 8 de junho de 1962, que determinou a instalação de uma delegacia regional do IAPFESP no Estado de Mato Grosso, com sede em Cuiabá.

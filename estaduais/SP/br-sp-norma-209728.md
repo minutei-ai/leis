@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209728)<br>
-
 # DECRETO N° 68.702, DE 15 DE JULHO DE 2024
 
 ### _Ratifica convênio celebrado nos termos da Lei Complementar federal n° 24, de 7 de janeiro de 1975._

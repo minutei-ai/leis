@@ -1,5 +1,3 @@
-###DEC-085973-0-000-04-05-1981@@@
-
 DECRETO Nº 85.973, de 04 de maio de 1981
 
 Renova por 15 (quinze) anos a concessão outorgada à RÁDIO E TV DlFUSORA PORTOALEGRENSE S.A., e autoriza a transferência direta para a RÁDIO E TV PORTOVISÃO LTDA., que passará a executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Porto Alegre, Estado do Rio Grande do sul.

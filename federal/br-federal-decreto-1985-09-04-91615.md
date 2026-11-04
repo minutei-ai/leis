@@ -1,5 +1,3 @@
-###DEC-091615-0-000-04-09-1985@@@
-
 Decreto nº 91.615, de 04 de setembro de 1985.
 
 Dispõe sobre o funcionamento de Postos Revendedores de derivados de petróleo e de álcool etílico hidratado combustível e dá outras providências.

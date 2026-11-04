@@ -1,5 +1,3 @@
-###DEC-003528-0-000-30-06-2000@@@
-
 DECRETO Nº 3.528, DE 30 DE JUNHO DE 2000.
 
 Dispõe sobre o remanejamento, em caráter termporário, do cargo em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

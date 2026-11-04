@@ -1,5 +1,3 @@
-###DEC-049367-0-000-29-11-1960@@@
-
 DECRETO Nº 49.367, DE 29 DE NOVEMBRO DE 1960.
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$7.500.000.000,00, para o fim que especifica.

@@ -1,5 +1,3 @@
-###DEC-004870-0-000-30-10-2003@@@
-
 DECRETO Nº 4.870,  DE 30 DE OUTUBRO DE 2003.
 
 Altera o Regulamento da Inspeção do Trabalho, aprovado pelo Decreto nº 4.552, de 27 de dezembro de 2002.
@@ -40,5 +38,6 @@ XXIII - atuar em conformidade com as prioridades estabelecidas pelos planejament
 
         Brasília, 30 de outubro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Eva Maria Cella Dal Chiavon

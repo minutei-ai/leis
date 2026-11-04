@@ -1,5 +1,3 @@
-###DEC-061298-0-000-06-09-1967@@@
-
 DECRETO Nº 61.298, DE 6 DE SETEMBRO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Estradas de Rodagem, área de terreno situada na BR-116-RS, em Caixas do Sul.

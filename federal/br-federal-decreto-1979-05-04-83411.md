@@ -1,5 +1,3 @@
-###DEC-083411-0-000-04-05-1979@@@
-
 Decreto nº 83.411, de 04 de maio de 1979.
 
 Concede à Companhia Nacional de Mineração-Granito Tijuca o direito de lavrar gabro no Município do Rio de Janeiro, Estado do Rio de Janeiro.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000712-0-000-23-12-1992@@@
-
 DECRETO N° 712, DE 23 DE DEZEMBRO DE 1992
 
 Altera dispositivos do Decreto n ° 99.463, de 16 de agosto de 1990, e dá outras providências.

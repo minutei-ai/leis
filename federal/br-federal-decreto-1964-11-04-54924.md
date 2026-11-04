@@ -1,5 +1,3 @@
-###DEC-054924-0-000-04-11-1964@@@
-
 DECRETO Nº 54.924, DE 4 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Raimundo Figueiredo Cavalcante a pesquisar cassiterita no município de Pôrto Velho, território Federal de Rondônia.

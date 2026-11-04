@@ -1,5 +1,3 @@
-###MPV-002001-0-009-09-06-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.001-9, de 9 de junho de 2000.
 
 Dispõe sobre a realização de contratos de financiamento do Programa de Fortalecimento da Agricultura Familiar - PRONAF, e de projetos de estruturação dos assentados e colonos nos programas oficiais de assentamento, colonização e reforma agrária, aprovados pelo Instituto Nacional de Colonização e Reforma Agrária - INCRA, bem como dos beneficiários do Fundo de Terras e da Reforma Agrária - Banco da Terra, com risco para o Tesouro Nacional ou para os Fundos Constitucionais das Regiões Norte, Nordeste e Centro-Oeste.

@@ -1,5 +1,3 @@
-###DEC-078378-0-000-06-09-1976@@@
-
 Decreto nº 78.378, de 6 de setembro de 1976.
 
 Altera a composição da Comissão de Cartografia para incluir representante do Ministério do Interior.

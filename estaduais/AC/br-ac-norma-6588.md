@@ -1,6 +1,10 @@
 > **LEI Nº 4.657, DE 23 DE OUTUBRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 4.516, de 3 de janeiro de 2025, que institui o Programa Estadual de Compras Governamentais da Agricultura Familiar e Economia Solidária no Estado do Acre - PECAFES.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 4.516, de 3 de janeiro de 2025, que institui o Programa Estadual de Compras Governamentais da Agricultura Familiar e Economia Solidária no Estado do Acre - PECAFES.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

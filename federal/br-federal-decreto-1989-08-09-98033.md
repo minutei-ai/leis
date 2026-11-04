@@ -1,7 +1,3 @@
-1
-
-###DEC-098033-0-000-09-08-1989@@@
-
 DECRETO N° 98.033, DE 9 DE AGOSTO DE 1989
 
 Renova a concessão outorgada a REDE ELDORADO DE RÁDIO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Eldorado, Estado do Mato Grosso do Sul.

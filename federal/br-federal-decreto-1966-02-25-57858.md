@@ -1,5 +1,3 @@
-###DEC-057858-0-000-25-02-1966@@@
-
 DECRETO Nº 57.858, DE 25 DE FEVEREIRO DE 1966.
 
 Outorga à Sociedade Anônima de Eletrificação da Paraíba concessão para distribuir energia elétrica.

@@ -1,5 +1,3 @@
-###DEC-087665-0-000-05-10-1982@@@
-
 Decreto nº 87.665, dE 05 de outubro de 1982
 
 Autoriza o Governo do Estado do Maranhão, através do INSTITUTO MARANHENSE DE TECNOLOGIA EDUCACIONAL - IMTEC - TVE, a executar os serviços de radiodifusão de sons e imagens (televisão), na cidade de São Luís, Estado do Maranhão.

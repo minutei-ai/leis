@@ -1,7 +1,3 @@
-1
-
-###DEL-001779-0-000-26-03-1980@@@
-
 # DECRETO-LEI nº 1.779, de 26 de março de 1980
 
 Amplia o prazo estabelecido no Decreto-lei nº 1.096, de 23 de março de 1970, que “concede incentivos fiscais às empresas de mineração” e dá outras providências.

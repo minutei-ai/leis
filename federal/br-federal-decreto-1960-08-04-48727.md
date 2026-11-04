@@ -1,5 +1,3 @@
-###DEC-048727-0-000-04-08-1960@@@
-
 DECRETO Nº 48.727, DE 4 DE AGÔSTO DE 1960.
 
 Altera a redação do § 2º do art. 14 do Regulamento de Promoções para Oficiais da Marinha, aprovado pelo Decreto nº 42.808, de 13 de dezembro de 1957.

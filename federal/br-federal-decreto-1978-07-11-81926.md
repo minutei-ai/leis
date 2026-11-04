@@ -1,5 +1,3 @@
-###DEC-081926-0-000-11-07-1978@@@
-
 Decreto nº 81.926, de 11 de julho de 1978.
 
 Concede à Indústria Catarinense de Adubos e Mineração Ltda. o direito de lavrar conchas calcárias no Município de Laguna, Estado de Santa Catarina.

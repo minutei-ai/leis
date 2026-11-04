@@ -1,5 +1,3 @@
-###DEL-003054-0-000-13-02-1941@@@
-
 DECRETO-LEI N. 3.054 – DE 13 DE FEVEREIRO DE 1941
 
 Abre, pelo Ministério da Agricultura, o crédito especial de 15:000$0 para pagamento de gratificação de representação

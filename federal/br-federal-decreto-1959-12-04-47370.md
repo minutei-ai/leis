@@ -1,5 +1,3 @@
-###DEC-047370-0-000-04-12-1959@@@
-
 DECRETO Nº 47.370, DE 04 DE DEZEMBRO DE 1959.
 
 Altera o Decreto nº 34.828, de 17 de dezembro de 1953.

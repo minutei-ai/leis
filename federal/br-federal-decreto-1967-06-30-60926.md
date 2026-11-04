@@ -1,5 +1,3 @@
-###DEC-060926-0-000-30-06-1967@@@
-
 DECRETO Nº 60.926, DE 30 DE JUNHO DE 1967.
 
 Classifica funções gratificadas do Quadro de Pessoal do Ministério da Educação e Cultura.

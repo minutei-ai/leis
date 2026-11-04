@@ -1,7 +1,3 @@
-1
-
-###DEC-000735-0-000-27-01-1993@@@
-
 DECRETO Nº 735, DE 27 DE JANEIRO DE 1993
 
 Delega ao Ministro de Estado Chefe da Secreta-Geral da Presidência  da República, competência para praticar atos administrativos relativos ao Gabinete da Vice-Presidência da República.

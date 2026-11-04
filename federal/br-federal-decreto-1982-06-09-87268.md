@@ -1,5 +1,3 @@
-###DEC-087268-0-000-09-06-1982@@@
-
 DECRETO Nº 87 268, DE 09 DE JUNHO DE 1982
 
 Autoriza ROMOLO MAGGI, de nacionalidade italiana, a adquirir imóvel rural.

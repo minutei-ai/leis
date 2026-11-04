@@ -1,5 +1,3 @@
-###DEC-089685-0-000-21-05-1984@@@
-
 Decreto nº 89.685, de 21 de maio de 1984
 
 Declara de utilidade pública as instituições que menciona.

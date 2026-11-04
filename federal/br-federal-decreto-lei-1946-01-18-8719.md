@@ -1,5 +1,3 @@
-###DEL-008719-0-000-18-01-1946@@@
-
 DECRETO-LEI N. 8.719 – DE 18 DE JANEIRO DE 1946
 
 Altera a finalidade do crédito aberto pelo Decreto-lei nº 8.183, de 19 de novembro de 1945.

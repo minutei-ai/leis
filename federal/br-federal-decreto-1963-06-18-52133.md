@@ -1,5 +1,3 @@
-###DEC-052133-0-000-18-06-1963@@@
-
 DECRETO Nº 52.133, DE 18 DE JUNHO DE 1963.
 
 Concede autorização para funcionamento de cursos.

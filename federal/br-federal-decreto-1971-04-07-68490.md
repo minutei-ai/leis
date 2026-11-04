@@ -1,5 +1,3 @@
-###DEC-068490-0-000-07-04-1971@@@
-
 DECRETO Nº 68.490, DE 7 DE ABRIL DE 1971.
 
 Retifica o enquadramento de servidores do Ministério do Exército e dá outras providências.

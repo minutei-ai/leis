@@ -1,5 +1,3 @@
-###DEC-046615-0-000-14-08-1959@@@
-
 DECRETO Nº 46.615, DE 14 DE AGÔSTO DE 1959.
 
 Renova o Decreto nº 41.792, de 8 de julho de 1957

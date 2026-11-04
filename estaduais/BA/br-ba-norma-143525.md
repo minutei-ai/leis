@@ -4,7 +4,8 @@ Institui o Programa Bahia Sem Fome e cria a Rede de Equipamentos Integrados para
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES GERAIS
 
 **Art. 1º** - Fica instituído o Programa Bahia Sem Fome, com a finalidade de garantir às pessoas em situação de vulnerabilidade social o acesso a alimentos em qualidade e quantidade necessárias à garantia do direito humano à alimentação adequada e saudável, bem como promover a segurança alimentar e nutricional.
@@ -57,7 +58,8 @@ DAS DISPOSIÇÕES GERAIS
 
 **§ 2**º - Os editais e as chamadas públicas para a implementação das ações previstas no Programa Bahia Sem Fome farão referência expressa ao referido Programa.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS INSTRUMENTOS DO PROGRAMA BAHIA SEM FOME
 
 **Art. 3º** - Constituem instrumentos do Programa Bahia Sem Fome:
@@ -102,7 +104,8 @@ DOS INSTRUMENTOS DO PROGRAMA BAHIA SEM FOME
 
 **VI -** mobilizar os setores públicos e privados para o enfrentamento da fome, estimulando a convergência de esforços por meio da celebração de acordos específicos, priorizando-se o Pacto para Enfrentamento da Fome, da Desnutrição e da Promoção da Alimentação Saudável.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS COMPETÊNCIAS
 
 **Art. 7º** - No âmbito do Programa Bahia Sem Fome, compete:
@@ -143,7 +146,8 @@ DAS COMPETÊNCIAS
 
 **h)** fomentar estudos e pesquisas visando colaborar para o diagnóstico a respeito das causas estruturais da fome, com apontamento de soluções para sua redução, observadas as especificidades dos territórios e da população.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS DISPOSIÇÕES FINAIS
 
 **Art. 8º** - O controle social referente ao acompanhamento e monitoramento das ações do Programa Bahia Sem Fome será realizado, entre outros, pelo Conselho Estadual de Segurança Alimentar e Nutricional - CONSEA-BA, órgão integrante do Sistema Estadual de Segurança Alimentar e Nutricional, nos termos do Decreto nº 8.524, de 14 de maio de 2003.

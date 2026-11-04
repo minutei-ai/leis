@@ -1,5 +1,3 @@
-###DEC-089799-0-000-14-06-1984@@@
-
 Decreto nº 89.799, de 14 de junho de 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Minas Gerais S.A.-CEMIG, no Estado de Minas Gerais.

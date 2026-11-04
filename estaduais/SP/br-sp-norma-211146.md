@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211146)<br>
-
 # DECRETO N° 69.673, DE 03 DE JULHO DE 2025
 
 ### _Autoriza a Fazenda do Estado a receber, mediante concessão de direito real de uso, a título gratuito e pelo prazo de 50 (cinquenta) anos, do Município de Ribeirão Preto, o imóvel que especifica, e dá providências correlatas._

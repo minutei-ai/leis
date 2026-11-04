@@ -1,5 +1,3 @@
-###DEL-004029-0-000-19-01-1942@@@
-
 DECRETO-LEI N. 4.029 – DE 19 DE JANEIRO DE 1942
 
 Cria Bolsas de estudos, na Escola Nacional de Educação Física e Desportos

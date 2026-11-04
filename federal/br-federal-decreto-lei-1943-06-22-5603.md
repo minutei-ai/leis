@@ -1,5 +1,3 @@
-###DEL-005603-0-000-22-06-1943@@@
-
 DECRETO‑LEI N. 5.603 – DE 22 DE JUNHO DE 1943
 
 Cria função gratificado no Quadro Permanente do Ministério da Educação e Saúde, e dá entras providência,

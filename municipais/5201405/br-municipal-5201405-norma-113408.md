@@ -6,7 +6,8 @@ Art.1° Ficam desafetadas de sua destinação primitiva, passando à categoria d
 
 § 1° São consideradas áreas públicas municipais inservíveis aquelas remanescentes de loteamento aquelas de uso comum do povo constraídas por vielas, becos sem saídas e cabeças de quadras, desde que inaptas a edificação ou ao uso público por motivo de sua geometria, tamanho ou inviabilidade de implantação de equitamento público, contando que não haja prejuízo à mobilidade urbana em todos os casos.
 
-§2º Ficam excluídas da desafetação disposta no caput deste artigo as áreas localizadas em zona parque e as áreas instituídas na aprovação do parcelamento como verdes.<br>
+§2º Ficam excluídas da desafetação disposta no caput deste artigo as áreas localizadas em zona parque e as áreas instituídas na aprovação do parcelamento como verdes.
+
 (Redação alterada pela Lei Complementar nº 220, de 3 de outubro de 2023).
 
 ~~§ 2° Ficam excluídas da desafetação disposta no caput deste artigo as áreas do sistema viario destinadas ao transporte coletivo, as vias atingidas por diretrizes viárias, as áreas localizadas em zona parque e as áreas instituídas na aprovação do parcelamento como verdes.~~
@@ -15,7 +16,8 @@ Art.1° Ficam desafetadas de sua destinação primitiva, passando à categoria d
 
 I – Vielas, as vias com medidas de caixa de até 10,00m(dez metros) e as vias destinadas a circulação exclusiva de pedestres;
 
-II - becos, as vias que não possuem saída;<br>
+II - becos, as vias que não possuem saída;
+
 (Redação alterada pela Lei Complementar nº 220, de 3 de outubro de 2023).
 
 ~~II – Becos, as vielas que não possuem saída;~~
@@ -48,8 +50,10 @@ Art. 6° Esta Lei Complementar entrará em vigor na data de sua publicação, re
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia-GO, aos 14 de junho de 2019.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal
 
-OLAVO NOLETO ALVES<br>
+OLAVO NOLETO ALVES
+
 Chefe da Casa Civil

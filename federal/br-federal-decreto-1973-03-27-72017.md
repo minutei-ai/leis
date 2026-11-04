@@ -1,5 +1,3 @@
-###DEC-072017-0-000-27-03-1973@@@
-
 DECRETO Nº 72.017, DE 27 DE MARÇO DE 1973.
 
 Torna sem efeito aproveitamento de disponíveis na Universidade Federal da Bahia.

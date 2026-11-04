@@ -1,5 +1,3 @@
-###DEC-086092-0-000-09-06-1981@@@
-
 Decreto nº 86.092, de 09 de junho de 1981.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Força e Luz Cataguazes-Leopoldina, no Estado de Minas Gerais.

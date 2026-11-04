@@ -1,5 +1,3 @@
-###DEC-056538-0-000-05-07-1965@@@
-
 Decreto nº 56.538, de 5 de julho de 1965.
 
 Outorga a Companhia de Eletricidade de Alagoas concessão para distribuir energia elétrica.

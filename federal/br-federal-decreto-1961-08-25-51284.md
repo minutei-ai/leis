@@ -1,5 +1,3 @@
-###DEC-051284-0-000-25-08-1961@@@
-
 DECRETO Nº 51.284, DE 25 DE AGÔSTO DE 1961.
 
 Autoriza o cidadão brasileiro Benedito Ferreira de Sá a pesquisar mica no município de Coroaci, Estado de Minas Gerais.

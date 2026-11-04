@@ -1,5 +1,3 @@
-###DEL-007382-0-000-15-03-1945@@@
-
 DECRETO-LEI N. 7.382 – DE 15 DE MARÇO DE 1945
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 782.529,40, para pagamento de indenizações decorrentes de requisições

@@ -1,5 +1,3 @@
-###DEC-047832-0-000-04-03-1960@@@
-
 DECRETO Nº 47.832, DE 4 DE MARÇO DE 1960.
 
 Altera o Regulamento da Escola de Especialistas de Aeronáutica.

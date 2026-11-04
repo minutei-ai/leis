@@ -1,5 +1,3 @@
-###DEC-002798-0-000-08-10-1998@@@
-
 DECRETO Nº 2.798, DE 8 DE OUTUBRO DE 1998
 
 Estabelece limites para o provimento de cargos públicos efetivos no âmbito dos órgãos do Poder Executivo Federal, e dá outras providências.
@@ -32,4 +30,40 @@ ANEXO
 
 RELAÇÃO DOS CARGOS QUE PODERÃO SER PROVIDOS ATÉ 31 DE DEZEMBRO DE 1999
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Advogado da União</span></p></td></tr><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Agente de Polícia Federal</span></p></td></tr><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Analista de Comércio Exterior</span></p></td></tr><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Analista de Finanças e Controle</span></p></td></tr><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Analista de Orçamento</span></p></td></tr><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Assistente Jurídico da União</span></p></td></tr><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Auditor Fiscal do Tesouro Nacional</span></p></td></tr><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Delegado de Polícia Federal</span></p></td></tr><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Diplomata</span></p></td></tr><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Escrivão de Polícia Federal</span></p></td></tr><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Especialista em Políticas Públicas e Gestão Governamental</span></p></td></tr><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Fiscal do Trabalho</span></p></td></tr><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Papiloscopista de Polícia Federal</span></p></td></tr><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Patrulheiro Rodoviário Federal</span></p></td></tr><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Perito Criminal Federal</span></p></td></tr><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pesquisador em Ciência e Tecnologia</span></p></td></tr><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Procurador da Fazenda Nacional</span></p></td></tr><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Procurador e Advogado de Fundações e Autarquias</span></p></td></tr><tr><td style="width:432.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Supervisor Médico Pericial</span></p></td></tr></tbody></table>
+Advogado da União
+
+Agente de Polícia Federal
+
+Analista de Comércio Exterior
+
+Analista de Finanças e Controle
+
+Analista de Orçamento
+
+Assistente Jurídico da União
+
+Auditor Fiscal do Tesouro Nacional
+
+Delegado de Polícia Federal
+
+Diplomata
+
+Escrivão de Polícia Federal
+
+Especialista em Políticas Públicas e Gestão Governamental
+
+Fiscal do Trabalho
+
+Papiloscopista de Polícia Federal
+
+Patrulheiro Rodoviário Federal
+
+Perito Criminal Federal
+
+Pesquisador em Ciência e Tecnologia
+
+Procurador da Fazenda Nacional
+
+Procurador e Advogado de Fundações e Autarquias
+
+Supervisor Médico Pericial

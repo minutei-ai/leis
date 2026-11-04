@@ -1,7 +1,3 @@
-1
-
-###DEC-000943-0-000-30-09-1993@@@
-
 DECRETO N° 943, DE 30 DE SETEMBRO DE 1993
 
 Dispõe sobre a transferência da gestão financeira do Fundo de Defesa da Economia Cafeeira - FUNCAFE, do Ministério da Fazenda para o Ministério da Indústria, do Comércio e do Turismo.

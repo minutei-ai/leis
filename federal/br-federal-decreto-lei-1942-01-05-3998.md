@@ -1,5 +1,3 @@
-###DEL-003998-0-000-05-01-1942@@@
-
 DECRETO-LEI N. 3.998 – DE 5 DE JANEIRO DE 1942
 
 Dá sede provisória á Inspetoria do Primeiro Grupo de Regiões Militares

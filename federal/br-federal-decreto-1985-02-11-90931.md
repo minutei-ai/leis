@@ -1,5 +1,3 @@
-###DEC-090931-0-000-11-02-1985@@@
-
 Decreto nº 90.931, de 11 de fevereiro de 1985
 
 Fixa, para o exercício de 1985, o limite global de importações através da Zona Franca de Manaus, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-076798-0-000-15-12-1975@@@
-
 DECRETO Nº 76.798, DE 15 DE DEZEMBRO DE 1975
 
 Concede reconhecimento ao Curso de Ciências da Faculdade de Filosofia, Ciências e Letras Santa Marcelina, de Muriaé, Estado de Minas Gerais.

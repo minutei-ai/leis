@@ -1,5 +1,3 @@
-###DEC-051607-0-000-30-11-1962@@@
-
 DECRETO Nº 51.607, DE 30 DE NOVEMBRO DE 1962.
 
 Substitui membro da comissão a que se refere o Decreto nº 51.584, de 8 de novembro de 1962.

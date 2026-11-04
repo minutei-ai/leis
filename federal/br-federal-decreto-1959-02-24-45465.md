@@ -1,5 +1,3 @@
-###DEC-045465-0-000-24-02-1959@@@
-
 DECRETO Nº 45.465, DE 24 DE FEVEREIRO DE 1959.
 
 Dá nova redação ao Art. 73 do Regulamento para o Colégio Militar (Dec. nº 12.277, de 19 de abril de 1943).

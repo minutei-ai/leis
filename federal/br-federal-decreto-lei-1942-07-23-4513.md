@@ -1,5 +1,3 @@
-###DEL-004513-0-000-23-07-1942@@@
-
 DECRETO-LEI N. 4.513 – DE 23 DE JULHO DE 1942
 
 Abre ao Departamento de Imprensa e Propaganda o crédito especial de 150:000$0, para despesas com os festejos comemorativos da pacificação do movimento revolucionário de 1842

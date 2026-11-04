@@ -1,5 +1,3 @@
-###DEL-003124-0-000-19-03-1941@@@
-
 DECRETO-LEI N. 3.124 – DE 19 DE MARÇO DE 1941
 
 Cria o Instituto Nacional do Pinho e dá outras providências

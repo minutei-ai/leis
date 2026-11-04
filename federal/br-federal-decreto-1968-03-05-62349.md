@@ -1,5 +1,3 @@
-###DEC-062349-0-000-05-03-1968@@@
-
 DECRETO Nº 62.349, DE 5 DE MARÇO DE 1968.
 
 Autoriza o funcionamento da Faculdade de Administração de Emprêsas, de Ribeirão Prêto – SP.

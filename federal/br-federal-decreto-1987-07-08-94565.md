@@ -1,5 +1,3 @@
-###DEC-094565-0-000-08-07-1987@@@
-
 DECRETO N° 94.565, DE 8 DE JULHO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à implantação das estações de rádio SHF e estrada de acesso, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

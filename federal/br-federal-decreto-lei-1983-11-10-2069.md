@@ -1,5 +1,3 @@
-###DEL-002069-0-000-10-11-1983@@@
-
 # Decreto-lei nº 2.069, de 10 de nOvembro de 1983
 
 Autoriza a elevação do capital do Banco Nacional de Desenvolvimento Econômico e Social, (BNDES) e dá outras providências.

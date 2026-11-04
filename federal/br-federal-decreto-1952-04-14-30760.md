@@ -1,14 +1,12 @@
-###DEC-030760-0-000-14-04-1952@@@
+**DECRETO Nº 30.760, DE 14 DE ABRIL DE 1952.**
 
-<strong>DECRETO Nº 30.760, DE 14 DE ABRIL DE 1952.</strong>
+***Suprime cargos extintos***
 
-<em><strong>Suprime cargos extintos</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do art. 1º, alínea *n*, do Decreto-lei nº 3.195, de 14 de abril de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do art. 1º, alínea <em>n</em>, do Decreto-lei nº 3.195, de 14 de abril de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam suprimidos quarenta e dois (42) cargos da classe E, da carreira de Artífice, do Quadro Suplementar do Ministério da Guerra, vagos em virtude das promoções de Adolfo Francisco da Silva Filho, Agenor Luís de Azevedo, Aguinaldo Faria de Melo, Alberto Dias Barbosa, Anaurelino Silva, Aníbal de Sousa Filho, Anísio Sebastião Correia, Antônio Alfarone, Antônio Bartolet Buffel, Basilio Fernandes de Oliveira, Gabriel José Rodrigues, Gaudêncio José Domingues, João Almeida dos Santos, João Félix da Silva, João de Melo Lopes, João Paulo dos Santos, João Pinto da Silva, Joaquim Maria Leite, Jorge Carlos Ferreira, José Leão de Brito, José da Silva Vieira, Josué Nascimento de Oliveira, Jovelino Correia da Silva, Nestor Manuel Braga, Rosmínio Teodoro, Jurandir Tavares dos Santos, Moacir Antônio Pinto, Moacir Tavares dos Santos, Valdemiro da Costa Batista, Valker Serrão Batista de Oliveira, Viriato Fernandes Gonçalves, das aposentadorias de Amauri da Fonseca Dória, Isaura dos Santos Silva, Antônio Borges de Araújo, Augusto Rodrigues, Concínio da Silva, Gabriel Joaquim do Nascimento, João Fiúza de Lima, João Hipólito da Silva, Moacir dos Santos, Porfírio Lopes da Silva e do falecimento de João Praxedes dos Santos;
+**Art**. 1º Ficam suprimidos quarenta e dois (42) cargos da classe E, da carreira de Artífice, do Quadro Suplementar do Ministério da Guerra, vagos em virtude das promoções de Adolfo Francisco da Silva Filho, Agenor Luís de Azevedo, Aguinaldo Faria de Melo, Alberto Dias Barbosa, Anaurelino Silva, Aníbal de Sousa Filho, Anísio Sebastião Correia, Antônio Alfarone, Antônio Bartolet Buffel, Basilio Fernandes de Oliveira, Gabriel José Rodrigues, Gaudêncio José Domingues, João Almeida dos Santos, João Félix da Silva, João de Melo Lopes, João Paulo dos Santos, João Pinto da Silva, Joaquim Maria Leite, Jorge Carlos Ferreira, José Leão de Brito, José da Silva Vieira, Josué Nascimento de Oliveira, Jovelino Correia da Silva, Nestor Manuel Braga, Rosmínio Teodoro, Jurandir Tavares dos Santos, Moacir Antônio Pinto, Moacir Tavares dos Santos, Valdemiro da Costa Batista, Valker Serrão Batista de Oliveira, Viriato Fernandes Gonçalves, das aposentadorias de Amauri da Fonseca Dória, Isaura dos Santos Silva, Antônio Borges de Araújo, Augusto Rodrigues, Concínio da Silva, Gabriel Joaquim do Nascimento, João Fiúza de Lima, João Hipólito da Silva, Moacir dos Santos, Porfírio Lopes da Silva e do falecimento de João Praxedes dos Santos;
 
 Quatro (4) cargos da classe D, vagos em virtude das promoções de Ângelo Carlos de Abreu Teixeira, Antônio Menezes Nunes, Mário Lopes da Costa e Teodoro de Sousa;
 
@@ -30,10 +28,10 @@ Três (3) cargos da classe E, da carreira de Prático de Farmácia, do Quadro Su
 
 Vinte e nove (29) cargos da classe C, da carreira de Servente, do Quadro Suplementar do mesmo Ministério, vago em virtude das promoções de Adolfo Moreira de Araújo, Alcides Mendes de Azevedo, Américo Henrique dos Santos, Antenor Monteiro de Barros, Antônio Joaquim Goulart, Bruno Francisco de Sousa, Francisco Luques, Gabriel Pacheco de Medeiros, Genuíno Nunes de Lima, Gonçalo Rodrigues, João Dias Magalhães, José Adão, José Alves de Sousa, Luiz Ferreira de Carvalho Sobrinho, Manuel Joaquim dos Santos, Oscar Rodrigues Mathias, Oswaldo Pessoa de Mendonça, Pedro Fébula, Raimundo José da Silva, Sérgio Magalhães, Taurino Teixeira de Azevedo, Vicente Ferreira da Silva, das aposentadorias de Celso José de Vasconcelos, Ezequiel Antônio do Nascimento, Geraldino Rodrigues dos Santos, da exoneração de Pedro José da Silva, e dos falecimentos de Gonçalves e Francisco de Sousa, devendo a dotação correspondente ser levada a crédito da Conta-Corrente do Quadro Permanente do mesmo Ministério.
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 14 de abril de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Cyro Espirito Santo Cardoso

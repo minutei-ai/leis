@@ -1,5 +1,3 @@
-###DEC-079488-0-000-13-04-1977@@@
-
 DECRETO Nº 79.488, DE 13 DE ABRIL DE 1977.
 
 Concede reconhecimento aos cursos de Letras e de Estudos Sociais, da Faculdade de Filosofia, Ciências e Letras de Umuarama, com sede na cidade de Umuarama, Estado do Paraná.

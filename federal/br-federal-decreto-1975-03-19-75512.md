@@ -1,5 +1,3 @@
-###DEC-075512-0-000-19-03-1975@@@
-
 DECRETO Nº 75.512, DE 19 DE MARÇO DE 1975.
 
 Concede reconhecimento aos cursos de Filosofia, de Ciências Biológicas, de Matemática, de Física, de Química e de Desenho e Plástica da universidade Federal de Juiz de Fora, com sede na cidade de Juiz de Fora, Estado de Minas Gerais.

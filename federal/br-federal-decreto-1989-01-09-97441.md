@@ -1,5 +1,3 @@
-###DEC-097441-0-000-09-01-1989@@@
-
 DECRETO N° 97.441, DE 9 DE JANEIRO DE 1989
 
 Autoriza o aumento do capital social de BB - Administradora de Cartões de Crédito S.A.

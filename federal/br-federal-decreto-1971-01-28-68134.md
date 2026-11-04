@@ -1,5 +1,3 @@
-###DEC-068134-0-000-28-01-1971@@@
-
 DECRETO Nº 68.134, de 28 de janeiro de 1971.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra destinada à instalação de uma estação repetidora de microondas, e uma faixa de terra para o acesso à mesma, no Município de Colina, Estado de São Paulo, necessárias ao desenvolvimento do Plano Trienal das Rotas do Sistema de Microondas, a cargo da Companhia Telefônica Brasileira.

@@ -1,5 +1,3 @@
-###DEC-094230-0-000-15-04-1987@@@
-
 DECRETO Nº 94.230, DE 15 DE ABRIL DE 1987.
 
 Declara de utilidade pública as instituições que menciona.

@@ -1,5 +1,3 @@
-###DEC-051974-A-000-26-04-1963@@@
-
 DECRETO Nº 51.974-A, DE 26 DE ABRIL DE 1963.
 
 Autoriza a emprêsa de mineração Maria Luíza Ltda. a pesquisar xisto argiloso no município de Pirapora de Bom Jesus, Estado de são Paulo.

@@ -1,5 +1,3 @@
-###DEC-086542-0-000-05-11-1981@@@
-
 Decreto nº 86.542, de 05 de novembro de 1981
 
 Autoriza o aumento de potência da RÁDIO CULTURA DE MARMELEIRO LTDA., na cidade de Marmeleiro, Estado do Paraná.

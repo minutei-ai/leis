@@ -1,5 +1,3 @@
-###DEC-054841-0-000-03-11-1964@@@
-
 DECRETO Nº 54.841, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro João Sattim a pesquisar feldspato, quartzo e caulim, no município de Socorro, Estado de São Paulo.

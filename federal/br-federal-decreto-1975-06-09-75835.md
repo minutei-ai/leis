@@ -1,5 +1,3 @@
-###DEC-075835-0-000-09-06-1975@@@
-
 DECRETO Nº 75.835, DE 9 DE JUNHO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Capibaribe do Recife S. A., para executar serviço da radiodifusão sonora em onda média de âmbito regional, na cidade de Recife, Estado de Pernambuco.

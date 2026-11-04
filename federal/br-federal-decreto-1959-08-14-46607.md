@@ -1,5 +1,3 @@
-###DEC-046607-0-000-14-08-1959@@@
-
 DECRETO Nº 46.607, DE 14 DE AGÔSTO DE 1959.
 
 Autoriza o cidadão brasileiro Eduardo Mayrink de Azevedo Fraga a pesquisar diamante e minério de ouro no município de Jacundá, Estado do Pará.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210635)<br>
-
 # DECRETO N° 69.360, DE 19 DE FEVEREIRO DE 2025
 
 ### _Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Itaquaquecetuba, que declarou Situação de Emergência em áreas do Município._

@@ -1,5 +1,3 @@
-###DEC-088915-0-000-25-10-1983@@@
-
 DecreTo nº 88.915, de 25 de outubro de 1983
 
 Declara de utilidade pública, para fins de desapropriação, terrenos situados no lugar denominado Santa Terezinha - Município de Urubici, Estado de Santa Catarina.

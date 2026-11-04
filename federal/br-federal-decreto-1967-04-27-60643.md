@@ -1,5 +1,3 @@
-###DEC-060643-0-000-27-04-1967@@@
-
 DECRETO Nº 60.643, DE 27 DE ABRIL DE 1967.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel, em Curitiba – PR, destinado ao Ministério do Exército.

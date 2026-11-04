@@ -1,5 +1,3 @@
-###DEC-001789-0-000-12-01-1996@@@
-
 DECRETO Nº 1.789, DE 12 DE JANEIRO DE 1996
 
 Dispõe sobre o Intercâmbio de Remessas Postais Internacionais, disciplina seu controle aduaneiro e dá outras providências.

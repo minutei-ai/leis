@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/febff048-32c5-4660-b0a1-81c8ee11a57f/texto#nowhere)
 
-###DEL-001684-0-000-18-06-1979@@@
-
 # Decreto-lei nº 1.684, de 18 de junho de 1979
 
 Altera o artigo 2º do Decreto-lei nº 1.640, de 20 de novembro de 1978.

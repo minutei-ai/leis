@@ -1,5 +1,3 @@
-###DEC-064650-0-000-04-06-1969@@@
-
 DECRETO Nº 64.650, DE 4 DE JUNHO DE 1969.
 
 Concede à Mineração da Amazônia, Comércio e Indústria S.A. - MACISA o direito de lavrar cassiterita, no município de Lábrea, Estado do Amazonas.

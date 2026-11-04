@@ -1,5 +1,3 @@
-###DEC-001786-0-000-11-01-1996@@@
-
 DECRETO Nº 1.786, DE 11 DE JANEIRO DE 1996
 
 Delega competência ao Ministro de Estado da Aeronáutica para despachar, em caráter final, pedidos de autorização para continuar a funcionar no Brasil, formulados por empresas de transporte aéreo estrangeiras, em virtude de alterações estatutárias.

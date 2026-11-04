@@ -1,5 +1,3 @@
-###DEL-009123-0-000-03-04-1946@@@
-
 DECRETO-LEI N. 9.123 – DE 3 DE ABRIL DE 1946
 
 Dispõe sôbre a liberação de bens de súditos ítalianos

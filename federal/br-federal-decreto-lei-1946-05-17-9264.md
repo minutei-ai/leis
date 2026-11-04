@@ -1,5 +1,3 @@
-###DEL-009264-0-000-17-05-1946@@@
-
 DECRETO-LEI N. 9.264 – DE 17 DE MAIO DE 1946
 
 Autoriza a aquisição de Partes Beneficiárias da Companhia Siderúrgica Nacional, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-064630-0-000-03-06-1969@@@
-
 DECRETO Nº 64.630, DE 3 DE JUNHO DE 1969.
 
 Cria a Base Naval de Aratu e dá outras providências.

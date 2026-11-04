@@ -1,5 +1,3 @@
-###DEC-007944-0-000-06-03-2013-PUB-01@@@
-
 DECRETO N°\- 7.944, DE 6 DE MARÇO DE 2013
 
 Promulga a Convenção nº 151 e a Recomendação nº 159 da Organização Internacional do Trabalho sobre as Relações de Trabalho na Administração Pública, firmadas em 1978.

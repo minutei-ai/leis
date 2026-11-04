@@ -1,5 +1,3 @@
-###DEC-092745-0-000-04-06-1986@@@
-
 DECRETO Nº 92.745, DE 4 DE JUNHO DE 1986
 
 Autoriza o funcionamento do curso de Administração da Fundação João Pinheiro.

@@ -1,5 +1,3 @@
-###DEC-088506-0-000-12-07-1983@@@
-
 Decreto nº 88.506, de 12 de julho de 1983
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de um ramal de linha de transmissão da Companhia Paulista de Força Luz - CPFL, no Estado de São Paulo.

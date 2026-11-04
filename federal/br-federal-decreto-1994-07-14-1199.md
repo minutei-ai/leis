@@ -1,7 +1,3 @@
-1
-
-###DEC-001199-0-000-14-07-1994@@@
-
 DECRETO N° 1.199, DE 14 DE JULHO DE 1994
 
 Revoga o Decreto n° 98.134, de 12 de setembro de 1989, que declarou de utilidade pública, para fins de desapropriação, em favor da Telecomunicações de São Paulo S.A. - TELESP, área de terreno, com benfeitoria, que menciona, situada no Município e Comarca de São Paulo, Estado de São Paulo.

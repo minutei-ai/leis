@@ -1,5 +1,3 @@
-###DEC-060795-0-000-01-06-1967@@@
-
 DECRETO Nº 60.795, DE 1 DE JUNHO DE 1967.
 
 Delega ao Ministro da Justiça as atribuições para autorizar brasileiros a aceitar pensão , emprêgo ou comissão de governo estrangeiro.

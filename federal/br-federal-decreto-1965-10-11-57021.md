@@ -1,5 +1,3 @@
-###DEC-057021-0-000-11-10-1965@@@
-
 Decreto nº 57.021, de 11 de outubro de 1965.
 
 Autoriza a Alumínio Minas Gerais S.A. a pesquisar bauxita no município de Nova Lima, Estado de Minas Gerais.

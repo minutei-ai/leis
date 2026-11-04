@@ -1,5 +1,3 @@
-###DEC-066908-0-000-20-07-1970@@@
-
 Decreto nº 66.908, de 20 de julho de 1970.
 
 Autoriza funcionamento da Faculdade de Ciências Econômicas de Patos, no Estado da Paraíba.

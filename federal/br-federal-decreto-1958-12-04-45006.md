@@ -1,5 +1,3 @@
-###DEC-045006-0-000-04-12-1958@@@
-
 DECRETO Nº 45.006, DE 4 DE DEZEMBRO DE 1958.
 
 Retifica o Decreto nº 44.481, de 8 de setembro de 1958.

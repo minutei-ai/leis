@@ -1,5 +1,3 @@
-###DEC-075793-0-000-28-05-1975@@@
-
 Decreto nº 75.793, de 28 de maio de 1975.
 
 Autoriza o funcionamento do curso de Engenharia de Operação, da Faculdade de Engenharia de Operação, mantida pela Fundação Missioneira de Ensino Superior, com sede na cidade de Santo Ângelo, Estado do Rio Grande do Sul.

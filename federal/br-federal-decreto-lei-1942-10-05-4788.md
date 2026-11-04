@@ -1,5 +1,3 @@
-###DEL-004788-0-000-05-10-1942@@@
-
 DECRETO-LEI N. 4.788 – DE 5 DE OUTUBRO DE 1942
 
 Abre ao Ministério da Educação e Saude o crédito especial de 6:071$5 para pagamento da despesa que especifica

@@ -1,5 +1,3 @@
-###DEL-004604-0-000-20-08-1942@@@
-
 DECRETO-LEI N. 4.604 – DE 20 DE AGOSTO DE 1942
 
 Abre ao Ministério da Agricultura o crédito especial de 2.827:401$4, para aquisição de salitre do Chile.

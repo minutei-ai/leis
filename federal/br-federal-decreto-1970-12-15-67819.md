@@ -1,5 +1,3 @@
-###DEC-067819-0-000-15-12-1970@@@
-
 DECRETO Nº 67.819, de 15 de Dezembro de 1970.
 
 Torna sem efeito redistribuições, com os respectivos ocupantes, de cargos originários dos extintos Serviço de Navegação da Amazônia e de Administração do Porto do Pará e dá outras providências.

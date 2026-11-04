@@ -1,28 +1,39 @@
 LEI Nº 11.612 DE 08 DE OUTUBRO DE 2009
 
-Ver também:<br>
-Decreto nº [18.281](https://www.legislabahia.ba.gov.br/documentos/decreto-no-18281-de-23-de-marco-de-2018), de 23 de março de 2018 - Altera o Regulamento da Lei nº 10.431, de 20 de dezembro de 2006, e da Lei nº 11.612, de 08 de outubro de 2009, aprovado pelo Decreto nº 14.024, de 06 de junho de 2012.<br>
-Decreto nº [18.218](https://www.legislabahia.ba.gov.br/documentos/decreto-no-18218-de-26-de-janeiro-de-2018) de 26 de janeiro de 2018. - Altera o Regulamento da Lei nº 10.431, de 20 de dezembro de 2006, que instituiu a Política de Meio Ambiente e de Proteção à Biodiversidade do Estado da Bahia, e da Lei nº 11.612, de 08 de outubro de 2009, que dispõe sobre a Política Estadual de Recursos Hídricos e o Sistema Estadual de Gerenciamento de Recursos Hídricos, aprovado pelo Decreto nº 14.024, de 06 de junho de 2012.<br>
-Decreto nº [17.936](https://www.legislabahia.ba.gov.br/documentos/decreto-no-17936-de-06-de-setembro-de-2017) de 06 de setembro de 2017 - Altera o Regulamento da Lei nº 10.431, de 20 de dezembro de 2006, que instituiu a Política de Meio Ambiente e de Proteção à Biodiversidade do Estado da Bahia, e da Lei nº 11.612, de 08 de outubro de 2009, que dispõe sobre a Política Estadual de Recursos Hídricos e o Sistema Estadual de Gerenciamento de Recursos Hídricos, aprovado pelo Decreto nº 14.024, de 06 de junho de 2012.<br>
-Decreto nº [16.366](https://www.legislabahia.ba.gov.br/documentos/decreto-no-16366-de-16-de-outubro-de-2015) de 16 de outubro de 2015 - Altera o Regulamento da Lei nº 10.431, de 20 de dezembro de 2006, e da Lei nº 11.612, de 08 de outubro de 2009, aprovado pelo Decreto nº 14.024, de 06 de junho de 2012.<br>
-Decreto nº [15.682](https://www.legislabahia.ba.gov.br/documentos/decreto-no-15682-de-19-de-novembro-de-2014), de 19 de novembro de 2014 - Altera o Regulamento da Lei nº 10.431, de 20 de dezembro de 2006 e da Lei nº 11.612, de 08 de outubro de 2009, aprovado pelo Decreto nº 14.024, de 06 de junho de 2012.<br>
-Lei nº 12.932 de 07 de janeiro de 2014 - Institui a Política Estadual de Resíduos Sólidos, e dá outras providências.<br>
-Decreto nº [14.032](https://www.legislabahia.ba.gov.br/documentos/decreto-no-14032-de-15-de-junho-de-2012) de 15 de junho de 2012 - Altera o Regulamento da Lei nº 10.431, de 20 de dezembro de 2006 e da Lei nº 11.612, de 08 de outubro de 2009, aprovado pelo Decreto nº 14.024, de 06 de junho de 2012, e dá outras providências.<br>
+Ver também:
+
+Decreto nº [18.281](https://www.legislabahia.ba.gov.br/documentos/decreto-no-18281-de-23-de-marco-de-2018), de 23 de março de 2018 - Altera o Regulamento da Lei nº 10.431, de 20 de dezembro de 2006, e da Lei nº 11.612, de 08 de outubro de 2009, aprovado pelo Decreto nº 14.024, de 06 de junho de 2012.
+
+Decreto nº [18.218](https://www.legislabahia.ba.gov.br/documentos/decreto-no-18218-de-26-de-janeiro-de-2018) de 26 de janeiro de 2018. - Altera o Regulamento da Lei nº 10.431, de 20 de dezembro de 2006, que instituiu a Política de Meio Ambiente e de Proteção à Biodiversidade do Estado da Bahia, e da Lei nº 11.612, de 08 de outubro de 2009, que dispõe sobre a Política Estadual de Recursos Hídricos e o Sistema Estadual de Gerenciamento de Recursos Hídricos, aprovado pelo Decreto nº 14.024, de 06 de junho de 2012.
+
+Decreto nº [17.936](https://www.legislabahia.ba.gov.br/documentos/decreto-no-17936-de-06-de-setembro-de-2017) de 06 de setembro de 2017 - Altera o Regulamento da Lei nº 10.431, de 20 de dezembro de 2006, que instituiu a Política de Meio Ambiente e de Proteção à Biodiversidade do Estado da Bahia, e da Lei nº 11.612, de 08 de outubro de 2009, que dispõe sobre a Política Estadual de Recursos Hídricos e o Sistema Estadual de Gerenciamento de Recursos Hídricos, aprovado pelo Decreto nº 14.024, de 06 de junho de 2012.
+
+Decreto nº [16.366](https://www.legislabahia.ba.gov.br/documentos/decreto-no-16366-de-16-de-outubro-de-2015) de 16 de outubro de 2015 - Altera o Regulamento da Lei nº 10.431, de 20 de dezembro de 2006, e da Lei nº 11.612, de 08 de outubro de 2009, aprovado pelo Decreto nº 14.024, de 06 de junho de 2012.
+
+Decreto nº [15.682](https://www.legislabahia.ba.gov.br/documentos/decreto-no-15682-de-19-de-novembro-de-2014), de 19 de novembro de 2014 - Altera o Regulamento da Lei nº 10.431, de 20 de dezembro de 2006 e da Lei nº 11.612, de 08 de outubro de 2009, aprovado pelo Decreto nº 14.024, de 06 de junho de 2012.
+
+Lei nº 12.932 de 07 de janeiro de 2014 - Institui a Política Estadual de Resíduos Sólidos, e dá outras providências.
+
+Decreto nº [14.032](https://www.legislabahia.ba.gov.br/documentos/decreto-no-14032-de-15-de-junho-de-2012) de 15 de junho de 2012 - Altera o Regulamento da Lei nº 10.431, de 20 de dezembro de 2006 e da Lei nº 11.612, de 08 de outubro de 2009, aprovado pelo Decreto nº 14.024, de 06 de junho de 2012, e dá outras providências.
+
 Decreto nº [14.024](https://www.legislabahia.ba.gov.br/documentos/decreto-no-14024-de-06-de-junho-de-2012), de 06 de junho de 2012 - Aprova o Regulamento da Lei nº 10.431, de 20 de dezembro de 2006, que instituiu a Política de Meio Ambiente e de Proteção à Biodiversidade do Estado da Bahia, e da Lei nº 11.612, de 08 de outubro de 2009, que dispõe sobre a Política Estadual de Recursos Hídricos e o Sistema Estadual de Gerenciamento de Recursos Hídricos.
 
 Dispõe sobre a Política Estadual de Recursos Hídricos, o Sistema Estadual de Gerenciamento de Recursos Hídricos, e dá outras providências.
 
 **O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DA BAHIA,** no uso de atribuição prevista no art. 80, § 7º da Constituição do Estado da Bahia, combinando com o art. 41, XXII, da Resolução n.º 1193/85 (Regimento Interno), faço saber que o Plenário da Assembléia aprovou e eu promulgo a seguinte Lei:
 
-TÍTULO I -<br>
+TÍTULO I -
+
 DA POLÍTICA ESTADUAL DE RECURSOS HÍDRICOS
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS DISPOSIÇÕES GERAIS
 
 **Art. 1º -** A Política Estadual de Recursos Hídricos reger-se-á pelos princípios, objetivos e diretrizes estabelecidos por esta Lei e demais normas legais pertinentes à matéria.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DOS PRINCÍPIOS
 
 **Art. 2º** - A Política Estadual de Recursos Hídricos será conduzida pelos seguintes princípios:
@@ -41,12 +52,14 @@ DOS PRINCÍPIOS
 
 **VII -**    do usuário-pagador e do poluidor-pagador;
 
-Redação de acordo com o art. 5º da Lei nº [12.377](https://www.legislabahia.ba.gov.br/documentos/lei-no-12377-de-28-de-dezembro-de-2011), de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº [12.377](https://www.legislabahia.ba.gov.br/documentos/lei-no-12377-de-28-de-dezembro-de-2011), de 28 de dezembro de 2011.
+
 Redação original: "VII - do usuário-pagador, considerando que aquele que utiliza a água para fins econômicos deve estar sujeito à aplicação do instrumento da cobrança pela utilização de recursos hídricos;"
 
 **VIII -**   da responsabilidade e da ética ambiental.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DOS OBJETIVOS
 
 **Art. 3º -** São objetivos da Política Estadual de Recursos Hídricos:
@@ -59,7 +72,8 @@ DOS OBJETIVOS
 
 **IV -**      assegurar a eqüidade e a justa distribuição de ônus e benefícios pelo uso dos recursos hídricos.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DAS DIRETRIZES
 
 **Art. 4º -** São diretrizes da Política Estadual de Recursos Hídricos:
@@ -68,7 +82,8 @@ DAS DIRETRIZES
 
 **II -**       a inserção da dimensão ambiental e de recursos hídricos nas políticas, planos, programas, projetos e atos da Administração Pública;
 
-Redação de acordo com o art. 5º da Lei nº [12.377](https://www.legislabahia.ba.gov.br/documentos/lei-no-12377-de-28-de-dezembro-de-2011), de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº [12.377](https://www.legislabahia.ba.gov.br/documentos/lei-no-12377-de-28-de-dezembro-de-2011), de 28 de dezembro de 2011.
+
 Redação original: "II - a compatibilização do planejamento e da gestão do uso dos recursos hídricos com os objetivos estratégicos do Estado e com o Plano Plurianual - PPA do Estado da Bahia;"
 
 **III -**      a integração do gerenciamento dos recursos hídricos com as políticas públicas federais, estaduais ou municipais de meio ambiente, saúde, saneamento, habitação, uso do solo e desenvolvimento urbano e regional e outras de relevante interesse social que tenham inter-relação com a gestão das águas;
@@ -77,7 +92,8 @@ Redação original: "II - a compatibilização do planejamento e da gestão do u
 
 **V -**       a adequação sistemática dos recursos hídricos às diversidades físicas, bióticas, demográficas, econômicas, sociais e culturais das diversas regiões do Estado;
 
-Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "V - a adequação da gestão de recursos hídricos às características regionais;"
 
 **VI -**      a gestão integrada, sem dissociação dos aspectos quantitativo e qualitativo, considerando as fases do ciclo hidrológico;
@@ -86,7 +102,8 @@ Redação original: "V - a adequação da gestão de recursos hídricos às cara
 
 **VIII -**   a priorização de ações, serviços e obras que visem assegurar disponibilidade de águas nas regiões com escassez;
 
-Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "VIII - a priorização de ações, serviços e obras que visem assegurar disponibilidade de águas na Região Semi-árida;"
 
 **IX -**      o desenvolvimento permanente de programas de conservação e proteção das águas contra a poluição e a exploração excessiva ou não controlada;
@@ -101,7 +118,8 @@ Redação original: "VIII - a priorização de ações, serviços e obras que vi
 
 **XIV -**   a utilização de instrumentos econômicos e tributários de estímulo ao uso racional e à conservação dos recursos hídricos.
 
-TÍTULO II -<br>
+TÍTULO II -
+
 DOS INSTRUMENTOS
 
 **Art. 5º -** São instrumentos da Política Estadual de Recursos Hídricos:
@@ -118,12 +136,14 @@ DOS INSTRUMENTOS
 
 **VI -**      o Sistema Estadual de Informações Ambientais e de Recursos Hídricos - SEIA;
 
-Redação de acordo com o art. 5º da Lei nº [12.377](https://www.legislabahia.ba.gov.br/documentos/lei-no-12377-de-28-de-dezembro-de-2011), de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº [12.377](https://www.legislabahia.ba.gov.br/documentos/lei-no-12377-de-28-de-dezembro-de-2011), de 28 de dezembro de 2011.
+
 Redação original: "VI - o Sistema Estadual de Informações de Recursos Hídricos - SEIRH;"
 
 **VII -**    a qualidade e o monitoramento dos recursos hídricos;
 
-Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "VII - o monitoramento das águas;"
 
 **VIII -**   a fiscalização do uso de recursos hídricos;
@@ -138,7 +158,8 @@ Revogado pelo art. 14 da Lei nº 12.377, de 28 de dezembro de 2011.
 
 **§ 2º -** A Divisão Hidrográfica Estadual, constituída de Regiões de Planejamento e Gestão das Águas, será elaborada pelo órgão gestor e executor da Política Estadual de Recursos Hídricos e submetida à aprovação do Conselho Estadual de Recursos Hídricos - CONERH.
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DO PLANO ESTADUAL DE RECURSOS HÍDRICOS
 
 **Art. 6º -** O Plano Estadual de Recursos Hídricos - PERH é um Plano Diretor, de natureza estratégica e abrangência estadual, que visa fundamentar e orientar a implementação da Política Estadual de Recursos Hídricos e o gerenciamento dos recursos hídricos.
@@ -165,8 +186,10 @@ DO PLANO ESTADUAL DE RECURSOS HÍDRICOS
 
 **V -**       o monitoramento da qualidade e quantidade dos corpos d'água, bem como dos impactos ambientais resultantes do aproveitamento dos recursos hídricos.
 
-Redação de acordo com a Lei nº [14.034](https://www.legislabahia.ba.gov.br/documentos/lei-no-14034-de-19-de-dezembro-de-2018) de 19 de dezembro de 2018.<br>
-Redação de acordo com a Lei nº [12.035](https://www.legislabahia.ba.gov.br/documentos/lei-no-12035-de-22-de-novembro-de-2010), de 22 de novembro de 2010: "V - o  controle dos estudos da qualidade dos corpos d'água e o monitoramento dos impactos ambientais resultantes do aproveitamento dos recursos hídricos."<br>
+Redação de acordo com a Lei nº [14.034](https://www.legislabahia.ba.gov.br/documentos/lei-no-14034-de-19-de-dezembro-de-2018) de 19 de dezembro de 2018.
+
+Redação de acordo com a Lei nº [12.035](https://www.legislabahia.ba.gov.br/documentos/lei-no-12035-de-22-de-novembro-de-2010), de 22 de novembro de 2010: "V - o  controle dos estudos da qualidade dos corpos d'água e o monitoramento dos impactos ambientais resultantes do aproveitamento dos recursos hídricos."
+
 Redação original: "V - o rigoroso controle dos grandes impactos ambientais negativos resultantes de aproveitamento dos recursos hídricos."
 
 **Art. 9º -** O PERH tem um horizonte de planejamento de médio e longo prazo, compatível com o período de implementação de seus programas e projetos, devendo conter, no mínimo, os seguintes elementos:
@@ -189,8 +212,10 @@ Redação original: "V - o rigoroso controle dos grandes impactos ambientais neg
 
 **<Revogado> IX -**           medidas de controle de grandes impactos ambientais negativos nos corpos d'água decorrentes das obras e serviços de infra-estrutura hídrica;
 
-Revogado pela Lei nº [14.034](https://www.legislabahia.ba.gov.br/documentos/lei-no-14034-de-19-de-dezembro-de-2018) de 19 de dezembro de 2018.<br>
-Redação de acordo com a Lei nº 12.035, de 22 de novembro de 2010.<br>
+Revogado pela Lei nº [14.034](https://www.legislabahia.ba.gov.br/documentos/lei-no-14034-de-19-de-dezembro-de-2018) de 19 de dezembro de 2018.
+
+Redação de acordo com a Lei nº 12.035, de 22 de novembro de 2010.
+
 Redação original: "XII - medidas de controle de grandes impactos ambientais negativos decorrentes das obras e serviços de infra-estrutura hídrica;"
 
 **X -**       ações que atendam às peculiaridades regionais, em especial, a Região Semi-árida ou outras consideradas estratégicas nos Programas de Governo;
@@ -213,7 +238,8 @@ Redação original: "XII - medidas de controle de grandes impactos ambientais ne
 
 **Art. 10** - O PERH e as propostas de sua alteração deverão ser submetidos à aprovação do Conselho Estadual de Recursos Hídricos - CONERH, a quem compete estabelecer os procedimentos de elaboração, implementação e revisão do Plano.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DOS PLANOS DE BACIA HIDROGRÁFICA
 
 **Art. 11 -** Os Planos de Bacias Hidrográficas são planos diretores, de natureza estratégica e operacional, que têm por finalidade fundamentar a implementação da Política Estadual de Recursos Hídricos, compatibilizando os aspectos quantitativos e qualitativos do uso das águas, de modo a assegurar as metas e os usos neles previstos, na área da bacia ou região hidrográfica considerada.
@@ -226,7 +252,8 @@ DOS PLANOS DE BACIA HIDROGRÁFICA
 
 **III -**      programas, projetos e ações a serem desenvolvidos e implementados para o atendimento das metas previstas, por meio de:
 
-Redação de acordo com a Lei nº [12.035](https://www.legislabahia.ba.gov.br/documentos/lei-no-12035-de-22-de-novembro-de-2010), de 22 de novembro de 2010.<br>
+Redação de acordo com a Lei nº [12.035](https://www.legislabahia.ba.gov.br/documentos/lei-no-12035-de-22-de-novembro-de-2010), de 22 de novembro de 2010.
+
 Redação original: "III - programas, projetos e ações a serem desenvolvidos e implementados para o atendimento das metas previstas e os correspondentes procedimentos de financiamentos, por meio de:"
 
 **a)**   determinação dos valores cobrados pelo uso da água;
@@ -263,7 +290,8 @@ Redação original: "III - programas, projetos e ações a serem desenvolvidos e
 
 **Art. 13** - O Plano de Bacia Hidrográfica e as propostas de sua alteração deverão ser submetidos à aprovação do respectivo Comitê de Bacia Hidrográfica, a quem compete a regulamentação dos procedimentos de elaboração, implementação e revisão do referido Plano.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DO ENQUADRAMENTO DOS CORPOS DE ÁGUA EM CLASSES, SEGUNDO SEUS USOS PREPONDERANTES
 
 **Art. 14 -** O enquadramento dos corpos d’água de domínio estadual em classes, segundo seus usos preponderantes, será feito de forma a:
@@ -280,7 +308,8 @@ Revogado pelo art. 14 da Lei nº [12.377](https://www.legislabahia.ba.gov.br/doc
 
 **Art. 16 -** O CONERH deverá estabelecer condições, metas e prazos para que os lançamentos de esgotos e demais efluentes sólidos, líquidos ou gasosos sejam reutilizados, reciclados ou tratados antes do seu lançamento.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DA OUTORGA DE DIREITO DE USO DE RECURSOS HÍDRICOS
 
 **Art. 17 -** A outorga de direito de uso de recursos hídricos tem por objetivo efetuar o controle quantitativo e qualitativo do uso das águas e assegurar o direito de acesso à água, condicionada às prioridades de uso estabelecidas no Plano Estadual de Recursos Hídricos e nos Planos de Bacias Hidrográficas.
@@ -293,34 +322,42 @@ DA OUTORGA DE DIREITO DE USO DE RECURSOS HÍDRICOS
 
 **§ 4º -** Para a outorga de direito de uso de recursos hídricos, o órgão executor da Política Estadual de Recursos Hídricos deverá observar as diretrizes e os critérios gerais estabelecidos pelo CONERH, bem como as prioridades e os critérios específicos para outorga aprovadas pelo referido Conselho em situações de escassez.
 
-Redação de acordo com a Lei nº [14.034](https://www.legislabahia.ba.gov.br/documentos/lei-no-14034-de-19-de-dezembro-de-2018) de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº [14.034](https://www.legislabahia.ba.gov.br/documentos/lei-no-14034-de-19-de-dezembro-de-2018) de 19 de dezembro de 2018.
+
 Redação original: "§ 4º - Para a outorga de direito de uso de recursos hídricos, o órgão gestor e executor da Política Estadual de Recursos Hídricos deverá observar as diretrizes e os critérios gerais estabelecidos pelo CONERH, bem como as prioridades e os critérios específicos para outorga aprovadas pelo referido Conselho em situações de escassez."
 
 **Art. 18** - Ficam sujeitos à outorga de direito de uso de recursos hídricos pelo órgão executor da Política Estadual de Recursos Hídricos, na forma do regulamento, as seguintes atividades ou empreendimentos:
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
-Redação anterior de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011: "Art. 18 - Ficam sujeitos à outorga de direito de uso de recursos hídricos ou à manifestação prévia do órgão executor da Política Estadual de Recursos Hídricos, na forma do regulamento, as seguintes atividades ou empreendimentos:"<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
+Redação anterior de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011: "Art. 18 - Ficam sujeitos à outorga de direito de uso de recursos hídricos ou à manifestação prévia do órgão executor da Política Estadual de Recursos Hídricos, na forma do regulamento, as seguintes atividades ou empreendimentos:"
+
 Redação original: "Art. 18 - Ficam sujeitos à outorga de direito de uso de recursos hídricos ou manifestação prévia do órgão gestor e executor da Política Estadual de Recursos Hídricos, conforme regulamento:"
 
 **I -**         as atividades ou empreendimentos que captem ou derivem águas superficiais ou subterrâneas;
 
-Redação de acordo com o art. 3º da Lei nº [13.597](https://www.legislabahia.ba.gov.br/documentos/lei-no-13597-de-14-de-dezembro-de-2016), de 14 de dezembro de 2016.<br>
+Redação de acordo com o art. 3º da Lei nº [13.597](https://www.legislabahia.ba.gov.br/documentos/lei-no-13597-de-14-de-dezembro-de-2016), de 14 de dezembro de 2016.
+
 Redação original: "I - as atividades ou empreendimentos que captem ou derivem águas superficiais ou subterrâneas, para uso próprio ou para terceiros;"
 
 **II -**       a construção de barragens, a atividade de aquicultura em tanque-rede e o aproveitamento hidrelétrico;
 
-Redação de acordo com o art. 3º da Lei nº [13.597](https://www.legislabahia.ba.gov.br/documentos/lei-no-13597-de-14-de-dezembro-de-2016), de 14 de dezembro de 2016.<br>
-Redação anterior de acordo com a Lei nº 12.035, de 22 de novembro de 2010."II - as atividades, ações ou intervenções que possam alterar a quantidade, a qualidade ou o regime das águas superficiais ou subterrâneas, ou que alterem canais, álveos, correntes de águas, nascentes, açudes, aquíferos, lençóis freáticos, lagos e barragens;"<br>
+Redação de acordo com o art. 3º da Lei nº [13.597](https://www.legislabahia.ba.gov.br/documentos/lei-no-13597-de-14-de-dezembro-de-2016), de 14 de dezembro de 2016.
+
+Redação anterior de acordo com a Lei nº 12.035, de 22 de novembro de 2010."II - as atividades, ações ou intervenções que possam alterar a quantidade, a qualidade ou o regime das águas superficiais ou subterrâneas, ou que alterem canais, álveos, correntes de águas, nascentes, açudes, aquíferos, lençóis freáticos, lagos e barragens;"
+
 Redação original: "II - as atividades, ações ou intervenções que possam alterar a quantidade, a qualidade ou o regime das águas superficiais ou subterrâneas, ou que alterem canais, álveos, margens, terrenos marginais, correntes de águas, nascentes, açudes, aqüíferos, lençóis freáticos, lagos e barragens;"
 
 **III -** as interferências nos leitos dos rios e demais corpos hídricos para a extração/exploração mineral ou de outros materiais, conforme legislação específica;
 
-Redação de acordo com o art. 3º da Lei nº 13.597, de 14 de dezembro de 2016.<br>
+Redação de acordo com o art. 3º da Lei nº 13.597, de 14 de dezembro de 2016.
+
 Redação original:"III - as interferências nos leitos dos rios e demais corpos hídricos para a extração mineral ou de outros materiais, conforme legislação específica;"
 
 **IV -**      o lançamento de esgotos, de águas residuais e residuárias, e demais efluentes líquidos ou gasosos, tratados ou não, em corpos d'água, com finalidade de diluição, transporte ou disposição final;
 
-Redação de acordo com a Lei nº [14.034](https://www.legislabahia.ba.gov.br/documentos/lei-no-14034-de-19-de-dezembro-de-2018) de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº [14.034](https://www.legislabahia.ba.gov.br/documentos/lei-no-14034-de-19-de-dezembro-de-2018) de 19 de dezembro de 2018.
+
 Redação original: "IV - o lançamento de esgotos e demais efluentes sólidos, líquidos ou gasosos, tratados ou não, em corpos d’água, com finalidade de diluição, transporte ou disposição final;"
 
 **<Revogado> V -**            a perfuração de poços tubulares.
@@ -339,33 +376,40 @@ II - as derivações, captações e lançamentos considerados de pouca expressã
 
 III - as acumulações de volumes de água consideradas de pouca expressão, conforme regulamentação.
 
-Redação de acordo com a Lei nº [14.034](https://www.legislabahia.ba.gov.br/documentos/lei-no-14034-de-19-de-dezembro-de-2018) de 19 de dezembro de 2018.<br>
-Redação original: "§ 1º  \- Os lançamentos, captações, derivações e acumulações de volumes d´água considerados de pouca expressão pelo CONERH serão dispensados de outorga do direito de uso,  sem prejuízo de seu cadastramento para o monitoramento de uso, controle e fiscalização, e para fins de defesa da segurança, da saúde pública e da solução de conflitos.<br>
+Redação de acordo com a Lei nº [14.034](https://www.legislabahia.ba.gov.br/documentos/lei-no-14034-de-19-de-dezembro-de-2018) de 19 de dezembro de 2018.
+
+Redação original: "§ 1º  \- Os lançamentos, captações, derivações e acumulações de volumes d´água considerados de pouca expressão pelo CONERH serão dispensados de outorga do direito de uso,  sem prejuízo de seu cadastramento para o monitoramento de uso, controle e fiscalização, e para fins de defesa da segurança, da saúde pública e da solução de conflitos.
+
 a) Os usuários de recursos hídricos que se enquadrem no parágrafo acima deverão fazer seu cadastramento junto ao órgão gestor e executor da Política Estadual de Recursos Hídricos." (Alínea "a" acrescida pelo art. 5º da Lei nº 12.377, de 28 de dezembro de 2011. Alínea "a" revogada pela Lei nº 14.034 de 19 de dezembro de 2018.)
 
 **§ 2º -** Os usuários de recursos hídricos que se enquadrem no § 1º deste artigo deverão fazer seu cadastramento junto ao órgão gestor e executor da Política Estadual de Recursos Hídricos.
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "§ 2º  \- O lançamento de águas residuais e residuárias será passível de outorga, e o órgão gestor e executor da Política Estadual de Recursos Hídricos estimulará o reúso da água. "
 
 **§ 3º -** Os integrantes do Sistema Estadual de Gerenciamento de Recursos Hídricos - SEGREH estimularão o reuso da água.
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "§ 3º  \- O outorgado responderá objetivamente, na forma da legislação pertinente, por qualquer dano ao meio ambiente causado pela execução de obras de captação, lançamento, contenção ou derivação de águas."
 
 **§ 4º -** O outorgado responderá objetivamente, na forma da legislação pertinente, por qualquer dano ao meio ambiente e por infração às normas de uso de recursos hídricos causado pela execução de obras de captação, lançamento, contenção ou derivação de águas.
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "§ 4º  \- Os emolumentos administrativos para expedição de outorgas de direito de uso dos recursos hídricos de domínio estadual serão cobrados de acordo com os critérios estabelecidos em regulamento."
 
 **§ 5º** \- Os emolumentos administrativos para expedição de outorgas de direito de uso dos recursos hídricos de domínio estadual serão cobrados de acordo com os critérios estabelecidos em regulamento.
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação anterior de acordo com o art. 4º da Lei nº 12.377, de 28 de dezembro de 2011 que acresceu o § 5º  a esse artigo: "§ 5º - A perfuração de poços tubulares poderá ser dispensada de outorga de direito de uso de recursos hídricos ou de manifestação prévia conforme disposto em regulamento."
 
 **§ 6º** \- A perfuração de poços tubulares para extração de água subterrânea dependerá da manifestação prévia do órgão executor, garantindo a vazão caso disponível, sendo passível de outorga uma vez que seja verificada a capacidade de captação do poço tubular, não sendo considerada insignificante.
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação anterior de acordo com a Lei nº 13.457, de 03 de dezembro de 2015 que acresceu o § 5º  a esse artigo: "§ 6º - Estão dispensadas de outorga de água as barragens para acumulação menores que 200.000m3."
 
 § 7º - Estão dispensadas de outorga de água as barragens para acumulação menores que 200.000m³ (duzentos mil metros cúbicos).
@@ -380,7 +424,8 @@ Redação anterior de acordo com a Lei nº 13.457, de 03 de dezembro de 2015 que
 
 **III -**      necessidade de prevenir ou reverter grave dano aos recursos hídricos;
 
-Redação de acordo com a Lei nº [12.035](https://www.legislabahia.ba.gov.br/documentos/lei-no-12035-de-22-de-novembro-de-2010), de 22 de novembro de 2010.<br>
+Redação de acordo com a Lei nº [12.035](https://www.legislabahia.ba.gov.br/documentos/lei-no-12035-de-22-de-novembro-de-2010), de 22 de novembro de 2010.
+
 Redação original: "III - necessidade de prevenir ou reverter grave degradação ambiental;"
 
 **IV -**      necessidade de atender aos usos prioritários ou de interesse coletivo, para os quais não se disponha, comprovadamente, de fontes alternativas;
@@ -389,7 +434,8 @@ Redação original: "III - necessidade de prevenir ou reverter grave degradaçã
 
 **VI -**      necessidade de redução da vazão outorgada, conforme hipóteses aprovadas pelo CONERH;
 
-Redação de acordo com o art. 5º da Lei nº [12.377](https://www.legislabahia.ba.gov.br/documentos/lei-no-12377-de-28-de-dezembro-de-2011), de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº [12.377](https://www.legislabahia.ba.gov.br/documentos/lei-no-12377-de-28-de-dezembro-de-2011), de 28 de dezembro de 2011.
+
 Redação original: "VI - necessidade de redução da vazão outorgada, conforme hipóteses aprovadas pelo CONERH, na forma do disposto no inciso XIX do art. 46 desta Lei; "
 
 **VII -**    exploração de águas subterrâneas, em níveis que representem risco para o aqüífero;
@@ -426,14 +472,16 @@ Revogada pelo art. 3º da Lei nº 12.035, de 22 de novembro de 2010.
 
 **Art. 21 -** O órgão executor da Política Estadual de Recursos Hídricos poderá emitir outorgas preventivas de uso de recursos hídricos, com a finalidade de declarar a disponibilidade de água para os usos requeridos.
 
-Redação de acordo com o art. 5º da Lei nº [12.377](https://www.legislabahia.ba.gov.br/documentos/lei-no-12377-de-28-de-dezembro-de-2011), de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº [12.377](https://www.legislabahia.ba.gov.br/documentos/lei-no-12377-de-28-de-dezembro-de-2011), de 28 de dezembro de 2011.
+
 Redação original: "Art. 21 - O órgão gestor e executor da Política Estadual de Recursos Hídricos poderá emitir outorgas preventivas de uso de recursos hídricos, com a finalidade de declarar a disponibilidade de água para os usos requeridos, estando condicionadas, dentre outros aspectos, às prioridades de uso estabelecidas no Plano Estadual de Recursos Hídricos e nos Planos de Bacias Hidrográficas e ao enquadramento dos cursos d’água em classes de uso."
 
 **§ 1º -** A outorga preventiva não confere direito de uso de recursos hídricos e se destina apenas a reservar a vazão passível de outorga, possibilitando aos investidores o planejamento de grandes empreendimentos que necessitem desses recursos.
 
 **§ 2º -** O prazo de vigência da outorga preventiva será fixado levando-se em conta a complexidade do planejamento do empreendimento, limitando-se ao máximo de 03 (três) anos, renovável nos termos do regulamento.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DA COBRANÇA PELO USO DE RECURSOS HÍDRICOS
 
 **Art. 22 -** A cobrança pelo uso de recursos hídricos é instrumento gerencial que tem por objetivo:
@@ -490,25 +538,30 @@ Art. 23-A acrescido pela Lei nº 14.034 de 19 de dezembro de 2018.
 
 **§ 3º -** As unidades de gestão hidrográficas serão criadas pelo CONERH após avaliação de proposta elaborada pelo órgão gestor ou executor da Política Estadual de Recursos Hídricos, sendo constituída por uma bacia hidrográfica ou por bacias hidrográficas contíguas.
 
-Redação de acordo com o art. 5º da Lei nº [12.377](https://www.legislabahia.ba.gov.br/documentos/lei-no-12377-de-28-de-dezembro-de-2011), de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº [12.377](https://www.legislabahia.ba.gov.br/documentos/lei-no-12377-de-28-de-dezembro-de-2011), de 28 de dezembro de 2011.
+
 Redação original: "§ 3º - As unidades de gestão hidrográficas serão criadas pelo  CONERH após avaliação de proposta elaborada pelo órgão gestor e executor da Política Estadual de Recursos Hídricos,  sendo constituída por uma bacia hidrográfica ou por bacias hidrográficas contíguas. "
 
 **§ 4º -** O órgão executor da Política Estadual de Recursos Hídricos será o responsável pela arrecadação dos recursos e manterá registros que permitam identificar as receitas nas unidades de gestão hidrográfica em que foram geradas, com o objetivo de cumprir o estabelecido nos parágrafos 2º e 3º deste artigo.
 
-Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "§ 4º - O órgão gestor e executor da Política Estadual de Recursos Hídricos será o responsável pela arrecadação dos recursos e manterá registros que permitam identificar as receitas nas unidades de gestão hidrográfica em que foram geradas, com o objetivo de cumprir o estabelecido nos parágrafos 2º e 3º deste art.."
 
 **Art. 25** - A cobrança pelo uso de recursos hídricos para o aproveitamento dos potenciais hidráulicos para fins de geração de energia reger-se-á pela legislação federal.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DO SISTEMA ESTADUAL DE INFORMAÇÕES AMBIENTAIS E DE RECURSOS HÍDRICOS - SEIA
 
-Redação de acordo com o art. 12 da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 12 da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "CAPÍTULO VI - DO SISTEMA ESTADUAL DE INFORMAÇÕES DE RECURSOS HÍDRICOS"
 
 **Art. 26 -** O Sistema Estadual de Informações Ambientais e de Recursos Hídricos - SEIA, constituído pelo conjunto integrado de procedimento de coleta, tratamento, armazenamento, recuperação e disponibilização de informações relacionados com a gestão de recursos hídricos no Estado, além das finalidades traçadas pela lei da Política Estadual de Meio Ambiente e de Proteção à Biodiversidade, tem por objetivos:
 
-Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "Art. 26 - O Sistema Estadual de Informações de Recursos Hídricos - SEIRH, constituído pelo conjunto integrado de procedimentos de coleta, tratamento, armazenamento, recuperação e disponibilização de informações relacionados com a gestão de recursos hídricos no Estado, tem por objetivo:"
 
 **I -**         reunir, dar consistência e divulgar dados e informações sobre a situação quantitativa e qualitativa do uso das águas no Estado da Bahia;
@@ -521,7 +574,8 @@ Redação original: "Art. 26 - O Sistema Estadual de Informações de Recursos H
 
 **§ 2º -** O acesso aos dados e às informações do SEIA é garantido a toda sociedade.
 
-Redação de acordo com o art. 5º da Lei nº [12.377](https://www.legislabahia.ba.gov.br/documentos/lei-no-12377-de-28-de-dezembro-de-2011), de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº [12.377](https://www.legislabahia.ba.gov.br/documentos/lei-no-12377-de-28-de-dezembro-de-2011), de 28 de dezembro de 2011.
+
 Redação original: "§ 2º - O acesso aos dados e às informações do Sistema Estadual de Informações de Recursos Hídricos é garantido a toda sociedade."
 
 **Art. 26-A** - Fica instituído, no âmbito do SEIA, o Cadastro Estadual de Usuários dos Recursos Hídricos, de Obras de Infraestrutura Hídrica e Organizações Civis relacionadas à gestão e conservação de Recursos Hídricos - CERH para fins de controle e planejamento das ações de gerenciamento dos recursos hídricos.
@@ -532,7 +586,8 @@ Redação original: "§ 2º - O acesso aos dados e às informações do Sistema 
 
 Art. 26-A acrescido pelo art. 4º da Lei nº 12.377, de 28 de dezembro de 2011.
 
-CAPÍTULO VII -<br>
+CAPÍTULO VII -
+
 DO MONITORAMENTO DAS ÁGUAS
 
 **Art. 27** - O monitoramento da quantidade e qualidade das águas tem como objetivos:
@@ -563,12 +618,14 @@ Art. 27-A acrescido pelo art. 4º da Lei nº 12.377, de 28 de dezembro de 2011.
 
 Art. 27-B acrescido pelo art. 4º da Lei nº 12.377, de 28 de dezembro de 2011.
 
-CAPÍTULO VIII -<br>
+CAPÍTULO VIII -
+
 DA FISCALIZAÇÃO DO USO DE RECURSOS HÍDRICOS
 
 **Art. 28** - A fiscalização do uso dos recursos hídricos será exercida nas águas superficiais e subterrâneas de domínio do Estado da Bahia e será realizada com base nos fundamentos, princípios, objetivos e diretrizes estabelecidos por esta Lei e tendo como enfoques a orientação aos usuários, a fim de assegurar o cumprimento da legislação e a repressão às infrações administrativas de uso de recursos hídricos.
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "Art. 28 - A fiscalização do uso dos recursos será exercida nas águas superficiais e subterrâneas de domínio do Estado da Bahia e realizar-se-á com base nos fundamentos, princípios, objetivos e diretrizes estabelecidos por esta Lei e tendo como enfoques a orientação aos usuários, a fim de assegurar  o cumprimento da legislação ambiental e a repressão às infrações administrativas de recursos hídricos."
 
 **Art. 28-A** \- Aos agentes do órgão executor da Política Estadual de Recursos Hídricos ficam asseguradas a entrada e a permanência, pelo tempo que se tornar necessário, em estabelecimentos e propriedades públicos ou privados, quando do exercício da ação fiscalizadora.
@@ -581,7 +638,8 @@ Art. 28-A acrescido pelo art. 4º da Lei nº 12.377, de 28 de dezembro de 2011.
 
 Art. 28-B acrescido pelo art. 4º da Lei nº 12.377, de 28 de dezembro de 2011.
 
-CAPÍTULO IX -<br>
+CAPÍTULO IX -
+
 DO FUNDO ESTADUAL DE RECURSOS HÍDRICOS
 
 **Art. 29** - O Fundo Estadual de Recursos Hídricos da Bahia - FERHBA, vinculado à Secretaria de Meio Ambiente – SEMA, criado pela Lei nº. 8.194, de 21 de janeiro de 2002, tem como objetivo dar suporte financeiro à Política Estadual de Recursos Hídricos e às Ações previstas no Plano Estadual de Recursos Hídricos e nos Planos de Bacias Hidrográficas.
@@ -590,19 +648,24 @@ DO FUNDO ESTADUAL DE RECURSOS HÍDRICOS
 
 **§ 2º** \- O sistema de funcionamento do Fundo será regido em regulamento próprio, aprovado por Decreto.
 
-Redação de acordo com o art. 5º da Lei nº [12.377](https://www.legislabahia.ba.gov.br/documentos/lei-no-12377-de-28-de-dezembro-de-2011), de 28 de dezembro de 2011.<br>
-Redação original: "Art. 29 - O Fundo Estadual de Recursos Hídricos da Bahia - FERHBA, vinculado à Secretaria do Meio Ambiente - SEMA, criado pela Lei nº. 8.194, de 21 de janeiro de 2002, tem como objetivo dar suporte financeiro à Política Estadual de Recursos Hídricos e às ações previstas no Plano Estadual de Recursos Hídricos e nos Planos de Bacias Hidrográficas.<br>
+Redação de acordo com o art. 5º da Lei nº [12.377](https://www.legislabahia.ba.gov.br/documentos/lei-no-12377-de-28-de-dezembro-de-2011), de 28 de dezembro de 2011.
+
+Redação original: "Art. 29 - O Fundo Estadual de Recursos Hídricos da Bahia - FERHBA, vinculado à Secretaria do Meio Ambiente - SEMA, criado pela Lei nº. 8.194, de 21 de janeiro de 2002, tem como objetivo dar suporte financeiro à Política Estadual de Recursos Hídricos e às ações previstas no Plano Estadual de Recursos Hídricos e nos Planos de Bacias Hidrográficas.
+
 Parágrafo único - O Fundo de que trata este art. tem natureza patrimonial e terá plano plurianual de aplicação de seus recursos e contabilidade próprios."
 
 **Art. 30 -** O FERHBA será administrado por um Conselho Deliberativo integrado pelo Secretário do Meio Ambiente, que o presidirá, por representantes das entidades da Administração Pública Indireta vinculadas a SEMA e por dois representantes do CONERH, sendo um do setor usuário e uma da sociedade civil, conforme disposto em regulamento.
 
-Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "Art. 30 - O Fundo Estadual de Recursos Hídricos da Bahia - FERHBA será administrado por um Conselho de Administração integrado pelo Secretário do Meio Ambiente, que o presidirá, pelos dirigentes das entidades da Administração Pública Indireta vinculadas à SEMA e por dois representantes do CONERH, sendo um do setor usuário e um da sociedade civil, conforme disposto em regulamento."
 
 **Art. 31** \- Os Planos Plurianuais de Aplicação dos Recursos do FERHBA deverão ser elaborados pela SEMA, em articulação com o órgão executor da Política Estadual de Recursos Hídricos, com base nos critérios definidos pelo CONERH, para aprovação do Conselho Deliberativo.
 
-Redação de acordo com o art. 4º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
-Redação original: "Art. 31 - Os planos plurianuais de aplicação dos recursos do FERHBA deverão ser elaborados pelo órgão gestor e executor da Política Estadual de Recursos Hídricos, em articulação com a SEMA, com base nos critérios definidos pelo CONERH, para aprovação do Conselho de Administração do Fundo.<br>
+Redação de acordo com o art. 4º da Lei nº 12.377, de 28 de dezembro de 2011.
+
+Redação original: "Art. 31 - Os planos plurianuais de aplicação dos recursos do FERHBA deverão ser elaborados pelo órgão gestor e executor da Política Estadual de Recursos Hídricos, em articulação com a SEMA, com base nos critérios definidos pelo CONERH, para aprovação do Conselho de Administração do Fundo.
+
 Parágrafo único - Os planos de aplicação dos recursos arrecadados com a cobrança pelo uso dos recursos hídricos, previstos na alínea “c” do inciso VI do art. 63 desta Lei, após aprovação do CONERH, integrarão os planos plurianuais de aplicação."
 
 **Art. 32 -** A gestão e o controle orçamentário, financeiro e patrimonial do FERHBA serão exercidas pela SEMA, conforme critérios aprovados pelo Conselho de Administração do Fundo, observado o disposto na legislação orçamentária pertinente.
@@ -613,7 +676,8 @@ Parágrafo único - Os planos de aplicação dos recursos arrecadados com a cobr
 
 **II -**       O valor correspondente até 20% (vinte por cento) dos recursos destinados à gestão e preservação do meio ambiente e dos recursos hídricos, na forma prevista no inciso I, do art. 1º, da Lei Estadual nº 9.281, de 07 de outubro de 2004, referente às compensações financeiras previstas no § 1º do art. 20 da Constituição Federal.
 
-Redação de acordo com o art. 4º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 4º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "II - o valor correspondente a 20% (vinte por cento) dos recursos destinados à gestão e preservação do meio ambiente e dos recursos hídricos , na forma prevista no inciso III, do art. 1º, da Lei Estadual nº 9.281, de 07 de outubro de 2004, referente às compensações financeiras previstas no § 1º do art. 20 da Constituição Federal;"
 
 **III -**      os recursos que lhe forem transferidos em decorrência de dotações orçamentárias;
@@ -630,12 +694,14 @@ Redação original: "II - o valor correspondente a 20% (vinte por cento) dos rec
 
 **<Revogado> § 1º** - Será destinado ao órgão executor da Politica Estadual de Recursos Hídricos, através de repasses específicos, o valor correspondente a 7,5% (sete e meio por cento)  do total arrecadado com a cobrança pelo uso dos recursos hídricos no pagamento de despesas de implantação e no custeio administrativo dos órgãos e entidades integrantes do Sistema Estadual de Gerenciamento de Recursos Hídricos.
 
-§ 1º revogado pela Lei nº [14.034](https://www.legislabahia.ba.gov.br/documentos/14.034) de 19 de dezembro de 2018.<br>
+§ 1º revogado pela Lei nº [14.034](https://www.legislabahia.ba.gov.br/documentos/14.034) de 19 de dezembro de 2018.
+
 § 1º acrescido pelo art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
 
 **<Revogado> § 2º** \- Fica mantida a destinação dos recursos previstos no §1º do art. 24, nos termos desta Lei, do total arrecadado, com  a cobrança pelo uso dos recursos  hídricos  no pagamento de despesas de implantação e no custeio administrativo dos órgãos e entidades integrantes do Sistema Estadual de Gerenciamento de Recursos Hídricos.
 
-§ 2º revogado pela Lei nº 14.034 de 19 de dezembro de 2018.<br>
+§ 2º revogado pela Lei nº 14.034 de 19 de dezembro de 2018.
+
 § 2º acrescido pelo art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
 
 **Art. 34 -** Os recursos do FERHBA serão empregados em:
@@ -676,17 +742,20 @@ Revogado pelo art. 14 da Lei nº 12.377, de 28 de dezembro de 2011.
 
 **§ 3º -** O Fundo será auditado pelo órgão de controle interno da Administração Pública e pelo Tribunal de Contas do Estado.
 
-Redação de acordo com o art. 5º da Lei nº [12.377](https://www.legislabahia.ba.gov.br/documentos/lei-no-12377-de-28-de-dezembro-de-2011), de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº [12.377](https://www.legislabahia.ba.gov.br/documentos/lei-no-12377-de-28-de-dezembro-de-2011), de 28 de dezembro de 2011.
+
 Redação original: "§ 3º - O Fundo será auditado pelo órgão de controle interno da Administração Pública e pelo Tribunal de Contas do Estado."
 
-CAPÍTULO X -<br>
+CAPÍTULO X -
+
 CONFERÊNCIA ESTADUAL DO MEIO AMBIENTE
 
 **<Revogado> Art. 35** - A Conferência Estadual do Meio Ambiente é um instrumento de gestão ambiental e de recursos hídricos, com ampla participação da sociedade, que contempla todo o território do Estado e promove a transversalidade das questões relacionadas ao meio ambiente, na forma disposta na lei que dispõe sobre a Política Estadual de Meio Ambiente.
 
 Art. 35 revogado pela Lei nº 14.034 de 19 de dezembro de 2018.
 
-TÍTULO III -<br>
+TÍTULO III -
+
 DAS ÁGUAS SUBTERRÂNEAS
 
 **Art. 36** - São consideradas subterrâneas as águas que ocorrem natural ou artificialmente no subsolo.
@@ -697,7 +766,8 @@ DAS ÁGUAS SUBTERRÂNEAS
 
 **Parágrafo único -** Para assegurar a quantidade e a qualidade naturais das águas subterrâneas, o órgão executor da Política Estadual de Recursos Hídricos deverá:
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "Parágrafo único - Para assegurar a quantidade e a qualidade naturais das águas subterrâneas, o órgão gestor e executor da Política Estadual de Recursos Hídricos deverá:"
 
 **<Revogado> I -** instituir área de proteção dos aqüíferos;
@@ -730,7 +800,8 @@ Art. 38-A acrescido pela Lei nº 14.034 de 19 de dezembro de 2018.
 
 **Art. 39 -** A exploração de águas subterrâneas em níveis que representem risco para o aquífero demandará do órgão executor da Política Estadual de Recursos Hídricos as seguintes medidas:
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "Art. 39 - A exploração de águas subterrâneas, em níveis que representem risco para o aqüífero, demandará do órgão gestor e executor da Política Estadual de Recursos Hídricos as seguintes medidas:"
 
 **I -**         a suspensão da outorga de direito de uso nos termos do inciso VII do art. 19 desta Lei;
@@ -749,10 +820,12 @@ Redação original: "Art. 39 - A exploração de águas subterrâneas, em nívei
 
 **Art. 42 -** As águas classificadas como minerais terão a sua utilização regida pela legislação federal, e no que couber, pelas disposições complementares fixadas pelos órgãos ou entidades competentes.
 
-TÍTULO IV -<br>
+TÍTULO IV -
+
 DO SISTEMA ESTADUAL DE GERENCIAMENTO DE RECURSOS HÍDRICOS
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DOS OBJETIVOS
 
 **Art. 43 -** O Sistema Estadual de Gerenciamento de Recursos Hídricos - SEGREH  tem o objetivo de:
@@ -771,7 +844,8 @@ DOS OBJETIVOS
 
 **III -**      o Sistema Estadual do Meio Ambiente - SISEMA.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA COMPOSIÇÃO
 
 **Art. 45 -** Integram o Sistema Estadual de Gerenciamento de Recursos Hídricos - SEGREH:
@@ -782,7 +856,8 @@ DA COMPOSIÇÃO
 
 **III -**      o Instituto do Meio Ambiente e Recursos Hídricos - INEMA;
 
-Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "III - o Instituto de Gestão das Águas e Clima - INGÁ;"
 
 **IV -**      os Comitês de Bacia Hidrográfica;
@@ -791,33 +866,40 @@ Redação original: "III - o Instituto de Gestão das Águas e Clima - INGÁ;"
 
 **VI -**      os órgãos setoriais ou sistêmicos, cujas atividades ou competências guardem relação com a gestão dos recursos hídricos do Estado da Bahia;
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "VI - os órgãos setoriais e/ou sistêmicos, cujas atividades ou competências guardem relação com a gestão ou uso dos recursos hídricos do Estado da Bahia;"
 
 **<Revogado> VII -**         Companhia de Engenharia Ambiental e Recursos Hídricos - CERB.
 
-Revogado pela Lei nº 14.034 de 19 de dezembro de 2018.<br>
-Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Revogado pela Lei nº 14.034 de 19 de dezembro de 2018.
+
+Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "VII - a Companhia de Engenharia Ambiental  da Bahia - CERB."
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DO CONSELHO ESTADUAL DE RECURSOS HÍDRICOS
 
 **Art. 46 -** O Conselho Estadual de Recursos Hídricos - CONERH, órgão superior do SEGREH, com funções de natureza consultiva, normativa, deliberativa, recursal e de representação, tem por finalidade o planejamento e acompanhamento da política e das diretrizes governamentais voltadas para a gestão dos recursos hídricos, competindo-lhe:
 
-Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "Art. 46 - O Conselho Estadual de Recursos Hídricos - CONERH, órgão colegiado superior da Secretaria do Meio Ambiente - SEMA, com caráter consultivo, normativo, deliberativo, recursal e de representação, tem por finalidade formular, em caráter suplementar, a Política Estadual de Recursos Hídricos, competindo-lhe:"
 
 **I -**         estabelecer diretrizes complementares para implementação da Política Estadual de Recursos Hídricos, aplicação de seus instrumentos e atuação do SEGREH;
 
-Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "I - estabelecer normas para implementação da Política Estadual de Recursos Hídricos e para a aplicação de seus instrumentos;"
 
 **II -**       estabelecer os procedimentos de elaboração, implementação e revisão do Plano Estadual de Recursos Hídricos;
 
 **III -**      aprovar o Plano Estadual de Recursos Hídricos e suas alterações;
 
-Redação de acordo com o art. 5º da Lei nº [12.377](https://www.legislabahia.ba.gov.br/documentos/lei-no-12377-de-28-de-dezembro-de-2011), de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº [12.377](https://www.legislabahia.ba.gov.br/documentos/lei-no-12377-de-28-de-dezembro-de-2011), de 28 de dezembro de 2011.
+
 Redação original: "III - aprovar o Plano Estadual de Recursos Hídricos e suas alterações, atendendo ao disposto no inciso III do art. 52 desta Lei, e acompanhar a sua implementação;"
 
 **IV -**      fomentar a articulação do planejamento de recursos hídricos com os planejamentos nacionais, regionais, estaduais e dos setores usuários;
@@ -834,12 +916,14 @@ Redação original: "III - aprovar o Plano Estadual de Recursos Hídricos e suas
 
 **X -**       aprovar a criação de unidades de gestão de recursos hídricos, constituídas por uma bacia hidrográfica ou por bacias hidrográficas contíguas;
 
-Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "X - aprovar a criação de unidades de gestão hidrográficas, constituídas por uma bacia hidrográfica ou por bacias hidrográficas contíguas, atendendo ao disposto no inciso XV do art. 52 desta Lei;"
 
 **XI -**      aprovar o enquadramento dos corpos de água do domínio estadual, em classes, segundo seus usos preponderantes;
 
-Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "XI - aprovar o enquadramento dos corpos de água do domínio estadual, em classes, segundo seus usos preponderantes, atendendo ao disposto no art. 54, inciso VI, alínea “g” desta Lei;"
 
 **XII -**    estabelecer condições, metas e prazos para que os lançamentos de esgotos e demais efluentes sólidos, líquidos ou gasosos sejam reutilizados, reciclados ou tratados antes do seu lançamento;
@@ -852,14 +936,16 @@ Redação original: "XI - aprovar o enquadramento dos corpos de água do domíni
 
 **XVI -**   definir critérios para aplicação dos recursos do Fundo Estadual de Recursos Hídricos;
 
-Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "XVI - definir critérios para aplicação dos recursos oriundos da cobrança pelo uso de recursos hídricos e para aplicação dos recursos do Fundo Estadual de Recursos Hídricos, observado o disposto no Plano Estadual de Recursos Hídricos - PERH e nos Planos de Bacias Hidrográficas existentes;"
 
 **XVII -**     aprovar os planos de aplicação dos recursos arrecadados com a cobrança pelo uso dos recursos hídricos, para aplicação prioritária nas respectivas unidades de gestão hidrográfica, atendendo ao disposto na alínea “c”, do inciso VI, do art. 54 desta Lei;
 
 **XVIII -**    aprovar os volumes das acumulações, derivações, captações e lançamentos considerados de pouca expressão, para efeito de dispensa de outorga de direito de uso dos Recursos Hídricos;
 
-Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "XVIII - aprovar as vazões das acumulações, derivações, captações e lançamentos considerados de pouca expressão, para efeito de dispensa de outorga de direito de uso pelo órgão gestor e executor da Política Estadual de Recursos Hídricos, atendendo ao disposto na alínea “d”, do inciso VI, do art. 54 desta Lei;"
 
 **<Revogado> XIX -**        aprovar as reduções das vazões outorgadas, para efeito de revisão de outorgas de direito de uso de recursos hídricos, atendendo ao disposto na alínea “f”, do inciso VI, do art. 54 desta Lei;
@@ -870,19 +956,22 @@ Revogado pelo art. 14 da Lei nº 12.377, de 28 de dezembro de 2011.
 
 **XXI -**   aprovar as prioridades e os critérios específicos para outorga de direito de uso de recursos hídricos em situações de escassez;
 
-Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "XXI - aprovar as prioridades e os critérios específicos para outorga de direito de uso de recursos hídricos em situações de escassez, atendendo ao disposto na alínea “e”, do inciso VI, do art. 54 desta Lei;"
 
 **XXII** - autorizar a delegação do exercício de funções de competência de Agência de Bacia Hidrográfica às organizações civis de recursos hídricos;
 
-Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "XXII - autorizar a delegação do exercício de funções de competência de Agência de Bacia Hidrográfica às organizações civis de recursos hídricos, na forma do disposto no art. 64 desta Lei;"
 
 **XXIII -**    aprovar a Divisão Hidrográfica Estadual, atendendo ao disposto no inciso XIX do art. 52 desta Lei;
 
 **XXIV -**    decidir, em grau de recurso, como última instância administrativa, sobre as penalidades administrativas impostas pelo órgão executor da Política Estadual de Recursos Hídricos;
 
-Redação de acordo com o art. 5º da Lei nº [12.377](https://www.legislabahia.ba.gov.br/documentos/lei-no-12377-de-28-de-dezembro-de-2011), de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº [12.377](https://www.legislabahia.ba.gov.br/documentos/lei-no-12377-de-28-de-dezembro-de-2011), de 28 de dezembro de 2011.
+
 Redação original: "XXIV - decidir, em grau de recurso, como última instância administrativa, sobre as penalidades administrativas impostas pelo órgão gestor e executor da Política Estadual de Recursos Hídricos;"
 
 **XXV -**     arbitrar, em última instância administrativa, os conflitos relacionados com o uso das águas de domínio estadual;
@@ -923,18 +1012,22 @@ Art. 46-A acrescido pelo art. 4º da Lei nº 12.377, de 28 de dezembro de 2011.
 
 **I** \-         09 (nove) representantes do Poder Público, sendo 08 (oito) do Poder Executivo do Estado e 01 (um) representante de Município;
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
-Redação anterior de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011: "I - 09 (nove) representantes do Poder Público Estadual;"<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
+Redação anterior de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011: "I - 09 (nove) representantes do Poder Público Estadual;"
+
 Redação original: "I - 10 (dez) representantes do Poder Público;"
 
 **II** -       09 (nove) representantes dos usuários de recursos hídricos;
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "II - 06 (seis) representantes dos usuários de recursos hídricos;"
 
 **III** -      09 (nove) representantes de organizações civis de recursos hídricos, definidas na forma dos arts. 47 e 48 da Lei Federal nº 9.433, de 08 de janeiro de 1997;
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "III - 05 (cinco) representantes de organizações civis de recursos hídricos, definidas na forma dos art.s 47 e 48 da Lei Federal nº 9.433, de 08 de janeiro de 1997;"
 
 **<Revogado> IV** -           02 (dois) representantes do Poder Público Municipal, sendo um usuário de recursos hídricos.
@@ -943,13 +1036,16 @@ Revogado pela Lei nº 14.034 de 19 de dezembro de 2018.
 
 **§ 1º -** Os representantes do Poder Público Municipal, dos usuários de recursos hídricos e das organizações civis de recursos hídricos terão 02 (dois) suplentes para substituí-los em suas ausências e impedimentos, conforme previsto no Regimento, e terão mandato de 04 (quatro) anos, sendo permitida a reeleição por igual período.
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "§ 1º - Cada membro do CONERH contará com 02 (dois) suplentes para substituí-lo em suas ausências e impedimentos, conforme previsto no Regimento Interno."
 
 **§ 2º -** Os representantes dos usuários de recursos hídricos e das organizações civis de recursos hídricos serão escolhidos entre seus pares nos termos do edital de convocação, aprovados pelo CONERH.
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
-Redação anterior de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011: "§ 2º - Os representantes do Poder Público Municipal, dos usuários de recursos hídricos e das organizações civis de recursos hídricos serão escolhidos entre seus pares nos termos do edital de convocação, aprovados pelo CONERH, e terão mandato de 02 (dois) anos, sendo permitida a recondução por igual período."<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
+Redação anterior de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011: "§ 2º - Os representantes do Poder Público Municipal, dos usuários de recursos hídricos e das organizações civis de recursos hídricos serão escolhidos entre seus pares nos termos do edital de convocação, aprovados pelo CONERH, e terão mandato de 02 (dois) anos, sendo permitida a recondução por igual período."
+
 Redação original: "§ 2º - Os representantes do Poder Público Municipal, dos usuários de recursos hídricos e das organizações civis de recursos hídricos serão escolhidos entre seus pares nos termos do regulamento desta Lei, e terão mandato de 02 (dois) anos, sendo permitida a recondução por igual período."
 
 **<Revogado> § 3º -** Para os efeitos desta Lei, são reconhecidos como organizações civis de recursos hídricos os Povos e Comunidades Tradicionais.
@@ -972,12 +1068,14 @@ Revogado pelo art. 14 da Lei nº 12.377, de 28 de dezembro de 2011.
 
 Revogado pelo art. 14 da Lei nº 12.377, de 28 de dezembro de 2011.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DA SECRETARIA EXECUTIVA DO CONSELHO ESTADUAL DE RECURSOS HÍDRICOS
 
 **Art. 49 -** A Secretaria Executiva do CONERH será exercida pela Secretaria Estadual do Meio Ambiente.
 
-Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original revogada pelo art. 149 da Lei nº 12.212, de 04 de maio de 2011: "Art. 49 - A Secretaria Executiva do CONERH será exercida pelo órgão gestor e executor da Política Estadual de Recursos Hídricos."
 
 **Art. 50 -** À Secretaria Executiva do CONERH compete:
@@ -992,71 +1090,86 @@ Redação original revogada pelo art. 149 da Lei nº 12.212, de 04 de maio de 20
 
 **V -**       outras atribuições a ela conferidas pelo Presidente ou pelo Conselho.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DA SECRETARIA DO MEIO AMBIENTE - SEMA
 
 **Art. 51 -** À Secretaria do Meio Ambiente - SEMA, que tem por finalidade planejar, coordenar, supervisionar e controlar a política estadual e as diretrizes governamentais fixadas para o meio ambiente, a biodiversidade e os recursos hídricos, compete:
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
-Redação original: "Art. 51 - À Secretaria do Meio Ambiente - SEMA, que tem por finalidade assegurar a promoção do desenvolvimento sustentável do Estado da Bahia, formulando e implementando as políticas públicas, voltadas para harmonizar a preservação, conservação e uso sustentável do meio ambiente, relativamente à Política Estadual de Recursos Hídricos, compete:"<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
+Redação original: "Art. 51 - À Secretaria do Meio Ambiente - SEMA, que tem por finalidade assegurar a promoção do desenvolvimento sustentável do Estado da Bahia, formulando e implementando as políticas públicas, voltadas para harmonizar a preservação, conservação e uso sustentável do meio ambiente, relativamente à Política Estadual de Recursos Hídricos, compete:"
+
 Art. 51 revogado pelo art. 149 da Lei nº 12.212, de 04 de maio de 2011.
 
 **I -**         planejar, coordenar, supervisionar e controlar a Política Estadual do Meio Ambiente e de Proteção à Biodiversidade, da Política Estadual de Recursos Hídricos, da Política Estadual sobre Mudança do Clima e da Política Estadual de Educação Ambiental;
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "I - planejar, coordenar, orientar e integrar as ações relativas ao Sistema Estadual do Meio Ambiente - SISEMA e ao Sistema Estadual de Gerenciamento de Recursos Hídricos - SEGREH;"
 
 **II -**       planejar, coordenar, orientar e integrar as ações relativas ao Sistema Estadual do Meio Ambiente - SISEMA e ao Sistema Estadual de Gerenciamento de Recursos Hídricos - SEGREH;
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "II - formular, coordenar, acompanhar e avaliar a Política Estadual de Recursos Hídricos;"
 
 **III -**      promover a integração das políticas ambientais do Estado entre si e com as políticas públicas setoriais, bem como a articulação de sua atuação com o Sistema Nacional do Meio Ambiente - SISNAMA e com o Sistema Nacional de Gerenciamento de Recursos Hídricos - SINGREH;
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "III - presidir o Conselho Estadual de Recursos Hídricos - CONERH;"
 
 **IV -**      elaborar o Plano Estadual de Meio Ambiente, o Plano Estadual de Recursos Hídricos e o Plano Estadual sobre Mudança do Clima, supervisionando a sua implementação;
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "IV - promover a integração das políticas setoriais com a política ambiental, estabelecendo mecanismos de compatibilização com os planos, programas e projetos;"
 
 **V -**       gerir o Fundo de Recursos para o Meio Ambiente - FERFA, o Fundo Estadual de Recursos Hídricos - FERHBA e a Câmara de Compensação Ambiental, exercendo o controle orçamentário, financeiro e patrimonial dos mesmos;
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "V - promover a integração da Política Estadual de Recursos Hídricos com a Política Nacional de Gerenciamento de Recursos Hídricos, estabelecendo mecanismos de compatibilização com os respectivos planos, programas e projetos;"
 
 **VI -**      exercer a Secretaria Executiva do CEPRAM e do CONERH;
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "VI - coordenar e promover a realização de estudos e pesquisas destinados à elaboração e execução de programas, projetos e ações integradas de preservação e conservação ambiental, da biodiversidade, das florestas, dos recursos hídricos e das mudanças climáticas;"
 
 **VII -**    gerir e operacionalizar o SEIA, promovendo a integração com os demais sistemas relacionados com a sua área de atuação;
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "VII - estabelecer normas e procedimentos para a integração das ações relacionadas com o meio ambiente;"
 
 **VIII -**   planejar, coordenar e executar ações para a promoção de estudos e pesquisas voltados ao desenvolvimento tecnológico e científico para o uso sustentável e racional dos recursos ambientais e hídricos;
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "VIII - gerir o Fundo Estadual de Recursos Hídricos - FERHBA, exercendo o controle orçamentário, financeiro e patrimonial do mesmo;"
 
 **IX -**      apoiar o fortalecimento da gestão ambiental municipal, podendo delegar competência;
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "IX - coordenar o Sistema Estadual de Informações de Recursos Hídricos - SEIRH, promovendo sua integração com os demais sistemas relacionados com a sua área de atuação;"
 
 **X -**       promover e estimular a celebração de convênios e acordos entre entidades públicas, privadas e organizações não-governamentais, nacionais, estrangeiras e internacionais, com vistas à otimização da gestão ambiental e de recursos hídricos no Estado;
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "X - promover e estimular a celebração de convênios e acordos entre entidades públicas, privadas e organizações não-governamentais, nacionais, estrangeiras e internacionais, tendo em vista a viabilização técnico-financeira e visando à otimização da gestão ambiental e de recursos hídricos no Estado;"
 
 **XI -**      exercer outras competências definidas em legislação específica.
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "XI - demais competências definidas em Lei específica."
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 DO INSTITUTO DE GESTÃO DAS ÁGUAS E CLIMA
 
 **Art. 52 -** Ao Instituto de Gestão das Águas e Clima - INGÁ, estruturado pela Lei Estadual nº 11.050, de 06 de junho de 2008, autarquia vinculada à Secretaria do Meio Ambiente - SEMA, que tem por finalidade gerir e executar a Política Estadual de Recursos Hídricos e de Prevenção, Mitigação e Adaptação dos Efeitos das Mudanças Climáticas, compete:
@@ -1115,14 +1228,16 @@ Art. 52 revogado pelo art. 149 da Lei nº 12.212, de 04 de maio de 2011.
 
 **XXVI -**    promover, amigável ou judicialmente, a desapropriação de bens necessários ao exercício de suas finalidades previamente declarados pelo Estado como de utilidade pública;
 
-Redação de acordo com a Lei nº 12.035, de 22 de novembro de 2010.<br>
+Redação de acordo com a Lei nº 12.035, de 22 de novembro de 2010.
+
 Redação original: "XXVI - promover, amigável ou judicialmente, a desapropriação de bens necessários ao exercício de suas finalidades previamente declarados de utilidade pública;"
 
 **XXVII -** estabelecer normas técnicas e administrativas que assegurem a operacionalidade das suas atividades;
 
 **XXVIII -**             exercer as atribuições que lhe forem delegadas com base em lei e demais competências definidas em lei específica.
 
-SEÇÃO V -<br>
+SEÇÃO V -
+
 DOS COMITÊS DE BACIA HIDROGRÁFICA
 
 **Art. 53** - Os Comitês de Bacia Hidrográfica são órgãos colegiados de caráter consultivo, normativo e deliberativo, vinculados ao Conselho Estadual de Recursos Hídricos - CONERH, com área de atuação na unidade de gestão hidrográfica, conforme definido no ato de sua criação.
@@ -1171,7 +1286,8 @@ Revogado pelo art. 14 da Lei nº 12.377, de 28 de dezembro de 2011.
 
 **I -**         do órgão executor da política estadual de recursos hídricos;
 
-Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "I - do órgão gestor e executor da Política Estadual de Recursos Hídricos;"
 
 **II -**       dos órgãos e entidades integrantes da Administração Pública  do Estado, com atuação na unidade de gestão hidrográfica;
@@ -1186,7 +1302,8 @@ Redação original: "I - do órgão gestor e executor da Política Estadual de R
 
 **§ 2º -** O número de representantes de cada setor mencionado neste artigo, bem como os critérios para sua indicação, serão estabelecidos nos regimentos dos comitês, limitada a representação de cada segmento a 1/3 (um terço) do total de membros
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "§ 2º -  O número de representantes de cada setor mencionado neste art., bem como os critérios para sua indicação, serão estabelecidos nos regimentos dos comitês, limitada a representação do Poder Público à metade do total de membros."
 
 **§ 3º -** Nos Comitês de Bacia Hidrográfica cujos territórios abranjam terras indígenas, devem ser incluídos representantes das comunidades indígenas ali residentes ou com interesse na bacia e da Fundação Nacional do Índio - FUNAI.
@@ -1205,10 +1322,12 @@ Redação original: "§ 2º -  O número de representantes de cada setor mencio
 
 **Art. 59 -** Ao órgão executor da Política Estadual de Recursos Hídricos compete fomentar a organização e a criação dos Comitês de Bacia Hidrográfica, bem como garantir seu funcionamento.
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "Art. 59 - Ao órgão gestor e executor da Política Estadual de Recursos Hídricos compete fomentar a organização e a criação dos Comitês de Bacia Hidrográfica, bem como garantir seu funcionamento."
 
-SEÇÃO VI -<br>
+SEÇÃO VI -
+
 DAS AGÊNCIAS DE BACIA HIDROGRÁFICA
 
 **Art. 60 -** As Agências de Bacia Hidrográfica são entidades dotadas de personalidade jurídica, autonomia financeira e administrativa, às quais caberão exercer a Secretaria Executiva do respectivo ou respectivos Comitês de Bacia Hidrográfica, prestando-lhes o suporte técnico, administrativo e operacional.
@@ -1233,7 +1352,8 @@ DAS AGÊNCIAS DE BACIA HIDROGRÁFICA
 
 **IV -**      efetuar, mediante delegação do órgão gestor da Política Estadual de Recursos Hídricos, cobrança pelo uso de recursos hídricos;
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "IV - efetuar, mediante delegação do órgão gestor e executor da Política Estadual de Recursos Hídricos, a arrecadação da cobrança pelo uso de recursos hídricos;"
 
 **V -**       analisar e emitir parecer técnico sobre os projetos e obras a serem financiados com recursos oriundos da cobrança pelo uso dos recursos hídricos;
@@ -1256,13 +1376,16 @@ Redação original: "IV - efetuar, mediante delegação do órgão gestor e exec
 
 **Parágrafo único** - Na ausência de Agência de Bacia Hidrográfica, as competências previstas neste artigo serão exercidas pelo órgão gestor da Política Estadual de Recursos Hídricos, ressalvada a competência da Companhia de Engenharia Hídrica e de Saneamento da Bahia - CERB para emitir parecer técnico sobre os projetos e obras referidos no inciso V do _caput_ deste artigo.
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
-Redação anterior de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011: "Parágrafo único - Na ausência de Agência de Bacia Hidrográfica, as competências previstas neste artigo serão exercidas pelo órgão executor da Política Estadual de Recursos Hídricos, ressalvada a competência da Companhia de Engenharia Ambiental e Recursos Hídricos - CERB para emitir parecer técnico sobre os projetos e obras referidos no inciso V do caput deste artigo. "<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
+Redação anterior de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011: "Parágrafo único - Na ausência de Agência de Bacia Hidrográfica, as competências previstas neste artigo serão exercidas pelo órgão executor da Política Estadual de Recursos Hídricos, ressalvada a competência da Companhia de Engenharia Ambiental e Recursos Hídricos - CERB para emitir parecer técnico sobre os projetos e obras referidos no inciso V do caput deste artigo. "
+
 Redação original: "Parágrafo único - Na ausência de Agência de Bacia Hidrográfica as competências previstas neste artigo serão exercidas pelo órgão gestor e executor da Política Estadual de Recursos Hídricos."
 
 **Art. 64** - O órgão executor da Política Estadual de Recursos Hídricos poderá firmar contratos de gestão, por prazo determinado, com entidades sem fins lucrativos que se enquadrem no disposto pelo art. 47 da Lei Federal nº 9.433, de 8 de janeiro de 1997, que receberem delegação do CONERH para o exercício de funções de competência de Agência de Bacia Hidrográfica, previstas nos arts. 60 e 63 desta Lei, excetuando-se a atribuição estabelecida no inciso IV do art. 63 desta Lei.
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "Art. 64 - O órgão gestor e executor da Política Estadual de Recursos Hídricos poderá firmar contratos de gestão, por prazo determinado, com entidades sem fins lucrativos que se enquadrem no disposto pelo art. 47 da Lei Federal nº 9.433, de 8 de janeiro de 1997, que receberem delegação do CONERH para o exercício de funções de competência de Agência de Bacia Hidrográfica, previstas nos arts. 60 e 63 desta Lei, excetuando-se a atribuição estabelecida no inciso IV do art. 63 desta Lei. "
 
 **§ 1º -** Para a delegação a que se refere o _caput_ deste art., o CONERH observará as mesmas condições estabelecidas pelos art.s 60 e 61 desta Lei.
@@ -1277,7 +1400,8 @@ Redação original: "Art. 64 - O órgão gestor e executor da Política Estadual
 
 **III -**      a obrigação de a entidade delegatária apresentar ao órgão executor da Política Estadual de Recursos Hídricos e ao respectivo ou respectivos Comitês de Bacia Hidrográfica, ao término de cada exercício, relatório sobre a execução do contrato de gestão, contendo comparativo específico das metas propostas com os resultados alcançados, acompanhado de prestação de contas dos gastos e receitas efetivamente realizados, independentemente das previsões mencionadas no inciso II do _caput_ deste artigo;
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "III - a obrigação da entidade delegatária apresentar ao órgão gestor e executor da Política Estadual de Recursos Hídricos e ao respectivo ou respectivos Comitês de Bacia Hidrográfica, ao término de cada exercício, relatório sobre a execução do contrato de gestão, contendo comparativo específico das metas propostas com os resultados alcançados, acompanhado de prestação de contas dos gastos e receitas efetivamente realizados, independentemente das previsões mencionadas no inciso II do caput deste art.;"
 
 **IV -**      a publicação, no Diário Oficial do Estado, de extrato do instrumento firmado e de demonstrativo de sua execução físico-financeira;
@@ -1288,19 +1412,22 @@ Redação original: "III - a obrigação da entidade delegatária apresentar ao 
 
 **§ 1º -** O órgão executor da Política Estadual de Recursos Hídricos complementará a definição do conteúdo e exigências a serem incluídas nos contratos de gestão de que seja signatária, observando-se as peculiaridades das respectivas unidades de gestão hidrográficas.
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "§ 1º - O órgão gestor e executor da Política Estadual de Recursos Hídricos complementará a definição do conteúdo e exigências a serem incluídas nos contratos de gestão de que seja signatária, observando-se as peculiaridades das respectivas unidades de gestão hidrográficas."
 
 **§ 2º -** O termo de contrato deve ser submetido, após manifestação do respectivo ou respectivos Comitês de Bacia Hidrográfica, à aprovação do Secretário Estadual do Meio Ambiente.
 
 **Art. 66** - O órgão executor da Política Estadual de Recursos Hídricos constituirá comissão de avaliação que analisará, periodicamente, os resultados alcançados com a execução do contrato de gestão e encaminhará relatório conclusivo sobre a avaliação procedida, contendo comparativo específico das metas propostas com os resultados alcançados, acompanhado da prestação de contas correspondente ao exercício financeiro, à Secretaria Estadual do Meio Ambiente, ao CONERH e ao respectivo ou respectivos Comitês de Bacia Hidrográfica.
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "Art. 66 - O órgão gestor e executor da Política Estadual de Recursos Hídricos constituirá comissão de avaliação que analisará, periodicamente, os resultados alcançados com a execução do contrato de gestão e encaminhará relatório conclusivo sobre a avaliação procedida, contendo comparativo específico das metas propostas com os resultados alcançados, acompanhado da prestação de contas correspondente ao exercício financeiro, à Secretaria Estadual do Meio Ambiente, ao CONERH e ao respectivo ou respectivos Comitês de Bacia Hidrográfica."
 
 **§ 1º -** A Comissão de que trata o _caput_ deste artigo será composta por especialistas, com qualificação adequada, do órgão executor da Política Estadual de Recursos Hídricos, da Secretaria do Meio Ambiente, de 02 (dois) representantes do CONERH, sendo 01 (um) do setor usuário e 01 (um) das organizações civis de recursos hídricos, e de outros órgãos e entidades da Administração Pública Estadual, conforme regulamento.
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "§ 1º - A Comissão de que trata o caput deste art. será composta por especialistas, com qualificação adequada, do órgão gestor e executor da Política Estadual de Recursos Hídricos, da Secretaria do Meio Ambiente, de 02 (dois) representantes do CONERH, sendo um do setor usuário e um da sociedade civil, e de outros órgãos e entidades da Administração Pública Estadual, conforme regulamento."
 
 **§ 2º -** A periodicidade de que trata o _caput_ deste art. não poderá ser superior a 12 (doze) meses.
@@ -1315,7 +1442,8 @@ Redação original: "§ 1º - A Comissão de que trata o caput deste art. será 
 
 **Art. 68 -** O órgão gestor e o órgão executor da Política Estadual de Recursos Hídricos poderão designar servidor do seu quadro de pessoal para auxiliar a implementação das atividades da entidade delegatária.
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "Art. 68 - O órgão gestor e executor da Política Estadual de Recursos Hídricos poderá designar servidor do seu quadro de pessoal para auxiliar a implementação das atividades da entidade delegatária."
 
 **§ 1º -** A designação terá o prazo máximo de 06 (seis) meses, admitida uma prorrogação.
@@ -1324,7 +1452,8 @@ Redação original: "Art. 68 - O órgão gestor e executor da Política Estadual
 
 **Art. 69** - O órgão gestor ou o órgão executor da Política Estadual de Recursos Hídricos, ao tomar conhecimento de qualquer irregularidade ou ilegalidade na utilização de recursos ou bens de origem pública pela entidade delegatária dela dará ciência aos órgãos de controle interno e externo competentes, sob pena de responsabilidade solidária de seus dirigentes.
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "Art. 69 - O órgão gestor e executor da Política Estadual de Recursos Hídricos, ao tomar conhecimento de qualquer irregularidade ou ilegalidade na utilização de recursos ou bens de origem pública pela entidade delegatária, dela dará ciência aos órgãos de controle interno e externo competentes, sob pena de responsabilidade solidária de seus dirigentes."
 
 **Parágrafo único** - O Comitê de Bacia Hidrográfica deverá ser notificado pelo órgão executor da Política Estadual de Recursos Hídricos de qualquer irregularidade ou ilegalidade na utilização de recursos ou bens de origem pública pela entidade delegatária.” (NR)
@@ -1333,12 +1462,14 @@ Parágrafo único acrescido pela Lei nº 14.034 de 19 de dezembro de 2018.
 
 **Art. 70 -** O órgão executor da Política Estadual de Recursos Hídricos, na função de secretaria executiva do respectivo ou respectivos Comitês de Bacia Hidrográfica, poderá ser depositário e gestor de bens e valores da entidade delegatária, cujos seqüestro ou indisponibilidade tenham sido decretados pelo juízo competente ou administrativamente considerados por ela necessários à continuidade da implementação das atividades previstas no contrato de gestão, facultando lhe disponibilizá-los a outra entidade delegatária ou Agência de Bacia Hidrográfica, mediante novo contrato de gestão.
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "Art. 70 - O órgão gestor e executor da Política Estadual de Recursos Hídricos, na função de secretaria-executiva do respectivo ou respectivos Comitês de Bacia Hidrográfica, poderá ser depositário e gestor de bens e valores da entidade delegatária, cujos seqüestro ou indisponibilidade tenham sido decretados pelo juízo competente ou administrativamente considerados por ela necessários à continuidade da implementação das atividades previstas no contrato de gestão, facultando-lhe disponibilizá-los a outra entidade delegatária ou Agência de Bacia Hidrográfica, mediante novo contrato de gestão."
 
 **Art. 71 -** O órgão executor da Política Estadual de Recursos Hídricos deverá promover a rescisão do contrato de gestão, se constatado o descumprimento das suas disposições.
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "Art. 71 - O órgão gestor e executor da Política Estadual de Recursos Hídricos deverá promover a rescisão do contrato de gestão, se constatado o descumprimento das suas disposições."
 
 **§ 1º -** A rescisão será precedida de processo administrativo, assegurado o direito de ampla defesa, respondendo os dirigentes da entidade, individual e solidariamente, pelos danos ou prejuízos decorrentes de sua ação ou omissão.
@@ -1347,15 +1478,18 @@ Redação original: "Art. 71 - O órgão gestor e executor da Política Estadual
 
 **Art. 72 -** Os procedimentos que a entidade delegatária adotará para a seleção e recrutamento de pessoal, bem como para as compras e contratação de obras e serviços com emprego de recursos públicos serão estabelecidos em regulamento pelos órgãos gestor e executor da Política Estadual de Recursos Hídricos, observando os princípios estabelecidos no art. 37 da Constituição Federal e as normas previstas na legislação pertinente.
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "Art. 72 - Os procedimentos que a entidade delegatária adotará para a seleção e recrutamento de pessoal, bem como para as compras e contratação de obras e serviços com emprego de recursos públicos serão estabelecidos em regulamento pelo órgão gestor e executor da Política Estadual de Recursos Hídricos, observando os princípios estabelecidos no art. 37 da Constituição Federal e as normas previstas na legislação pertinente."
 
-SEÇÃO VII -<br>
+SEÇÃO VII -
+
 DOS ÓRGÃOS SETORIAIS E/OU SISTÊMICOS
 
 **Art. 73** \- São considerados Órgãos Setoriais ou Sistêmicos do Sistema Estadual de Gerenciamento de Recursos Hídricos - SEGREH - os órgãos e entidades da Administração Pública, cujas atividades ou competências guardem relação com a gestão dos recursos hídricos do Estado da Bahia.
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "Art. 73 - São considerados Órgãos Setoriais e/ou Sistêmicos do Sistema Estadual de Gerenciamento de Recursos Hídricos - SEGREH os órgãos e entidades da Administração Pública, cujas atividades ou competências guardem relação com a gestão ou uso dos recursos hídricos do Estado da Bahia."
 
 **Art. 74 -** Aos Órgãos Setoriais e/ou Sistêmicos compete:
@@ -1366,12 +1500,14 @@ Redação original: "Art. 73 - São considerados Órgãos Setoriais e/ou Sistêm
 
 **III -**      propor ao CONERH procedimentos e normas necessários à integração das políticas setoriais e/ou sistêmicas com a Política Estadual de Recursos Hídricos.
 
-TÍTULO V -<br>
+TÍTULO V -
+
 DA INTEGRAÇÃO ENTRE O SISTEMA ESTADUAL DE GERENCIAMENTO DE RECURSOS HÍDRICOS E O SISTEMA ESTADUAL DO MEIO AMBIENTE
 
 **Art. 75 -** O Sistema Estadual de Gerenciamento de Recursos Hídricos SEGREH articular-se-á com o Sistema Estadual do Meio Ambiente - SISEMA, para assegurar que:
 
-Redação de acordo com a Lei nº 12.035, de 22 de novembro de 2010.<br>
+Redação de acordo com a Lei nº 12.035, de 22 de novembro de 2010.
+
 Redação original: "Art. 75 - O Sistema Estadual de Gerenciamento de Recursos Hídricos SEGREH articular-se-á com o Sistema Estadual de Meio Ambiente - SISEMA, para assegurar que:"
 
 **I -**         a utilização dos recursos hídricos não comprometa o patrimônio natural e cultural;
@@ -1398,7 +1534,8 @@ Inciso VII e § 1º e 2º acrescidos pela Lei nº 12.035, de 22 de novembro de 2
 
 **Parágrafo único -** O Conselho Estadual de Recursos Hídricos - CONERH e o Conselho Estadual de Meio Ambiente - CEPRAM poderão ser convocados pelo Secretário Estadual do Meio Ambiente para decidirem, em conjunto, sobre questões estratégicas referentes à gestão dos recursos ambientais, inclusive por intermédio de deliberações em conjunto.
 
-TÍTULO VI -<br>
+TÍTULO VI -
+
 DAS INFRAÇÕES E SANÇÕES
 
 **Art. 76 -** Constitui infração a ação ou a omissão que viole as normas de uso dos recursos hídricos, em especial:
@@ -1409,19 +1546,22 @@ DAS INFRAÇÕES E SANÇÕES
 
 **III -**      perfurar poços para a extração de água subterrânea sem a manifestação prévia do órgão executor da Política Estadual de Recursos Hídricos ou colocá-los em operação sem a outorga;
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "III - perfurar poços para a extração de água subterrânea sem a manifestação prévia do órgão gestor e executor da Política Estadual de Recursos Hídricos ou colocá-los em operação sem a outorga;"
 
 **IV -**      exercer atividades ou realizar serviços e obras sem a outorga ou em desacordo com a mesma, que possam afetar os canais, álveos, correntes de águas, nascentes, açudes, aquíferos, lençóis freáticos, lagos e barragens, bem como a quantidade, a qualidade, e o regime das águas superficiais e subterrâneas;
 
-Redação de acordo com a Lei nº 12.035, de 22 de novembro de 2010.<br>
+Redação de acordo com a Lei nº 12.035, de 22 de novembro de 2010.
+
 Redação original: "IV - exercer atividades ou realizar serviços e obras sem a outorga ou em desacordo com a mesma, que possam afetar os canais, álveos, margens, terrenos marginais, correntes de águas, nascentes, açudes, aqüíferos, lençóis freáticos, lagos e barragens, bem como a quantidade, a qualidade e o regime das águas superficiais e subterrâneas;"
 
 **V -**       fraudar as medições dos volumes de água utilizados ou declarar valores diferentes dos medidos;
 
 **VI -**      realizar interferências nos leitos dos rios e demais corpos hídricos para a extração mineral ou de outros materiais sem a autorização do órgão executor da Política Estadual de Recursos Hídricos, quando couber;
 
-Redação de acordo com a Lei nº 12.035, de 22 de novembro de 2010.<br>
+Redação de acordo com a Lei nº 12.035, de 22 de novembro de 2010.
+
 Redação original: "VI - realizar interferências nos leitos dos rios e demais corpos hídricos para a extração mineral ou de outros materiais sem as autorizações dos órgãos competentes;"
 
 **VII -**    exercer atividade que resulte alteração no regime, na quantidade ou na qualidade das águas, sem a outorga do órgão competente;
@@ -1454,7 +1594,8 @@ Art. 76-B acrescido pelo art. 4º da Lei nº 12.377, de 28 de dezembro de 2011.
 
 **I -**         advertência;
 
-Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "I - advertência por escrito, na qual serão estabelecidos prazos para a correção das irregularidades;"
 
 **<Revogado> II -**            sanções restritivas de direito;
@@ -1469,7 +1610,8 @@ Revogado pelo art. 14 da Lei nº 12.377, de 28 de dezembro de 2011.
 
 **c)**    infrações gravíssimas.
 
-Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "III - multa simples;"
 
 **<Revogado> IV -**           multa diária;
@@ -1478,7 +1620,8 @@ Revogado pelo art. 14 da Lei nº 12.377, de 28 de dezembro de 2011.
 
 **V -**       embargo temporário ou definitivo;
 
-Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "V - embargo ou interdição de obras ou atividades;"
 
 **VI -**      demolição da obra;
@@ -1511,7 +1654,8 @@ Incisos IX a XII acrescidos pelo art. 5º da Lei nº 12.377, de 28 de dezembro d
 
 **§ 1º -** O órgão executor da Política Estadual de Recursos Hídricos é competente para lavrar auto de infração, instaurar processo administrativo e aplicar penalidades decorrentes de infrações às normas de utilização de recursos hídricos.
 
-Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "§ 1º - O órgão gestor e executor da Política Estadual de Recursos Hídricos é competente para lavrar auto de infração, instaurar processo administrativo e aplicar penalidades decorrentes de infrações às normas de utilização de recursos hídricos."
 
 **§ 2º -** As infrações serão apuradas em processo administrativo próprio, assegurando o direito de ampla defesa e o contraditório, com os meios e recursos a ele inerentes, observadas as disposições legais.
@@ -1548,12 +1692,14 @@ Revogado pelo art. 14 da Lei nº 12.377, de 28 de dezembro de 2011.
 
 **II -**       opuser embaraço à fiscalização do órgão executor da Política Estadual de Recursos Hídricos.
 
-Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.<br>
+Redação de acordo com a Lei nº 14.034 de 19 de dezembro de 2018.
+
 Redação original: "II - opuser embaraço à fiscalização do órgão gestor e executor da Política Estadual de Recursos Hídricos."
 
 **§ 1º -** O valor das multas está limitado entre o mínimo de R$500,00 (quinhentos reais) e máximo de R$50.000.000,00 (cinqüenta milhões de reais), valores que serão corrigidos periodicamente, conforme dispuser o regulamento.
 
-Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "§ 1º - O valor das multas está limitado entre o mínimo de R$500,00 (quinhentos reais) e o máximo de R$1.000.000,00 (um milhão de reais), valores que serão corrigidos periodicamente, conforme dispuser o regulamento."
 
 **<Revogado> § 2º -** Na aplicação da multa, será observada a seguinte classificação:
@@ -1570,7 +1716,8 @@ Revogado pelo art. 14 da Lei nº 12.377, de 28 de dezembro de 2011.
 
 **Parágrafo único** - A multa diária será devida até que o infrator adote medidas eficazes para a cessação das irregularidades constatadas ou dos efeitos da ação prejudicial, podendo ser suspensa, a critério da autoridade competente, nos casos previstos no regulamento.
 
-Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.<br>
+Redação de acordo com o art. 5º da Lei nº 12.377, de 28 de dezembro de 2011.
+
 Redação original: "Art. 82 - No caso de infração continuada, será aplicada multa diária correspondente a 5% (cinco por cento) do valor da multa simples."
 
 **Art. 82-A** - O pagamento das multas poderá ser parcelado na forma prevista em regulamento.
@@ -1611,7 +1758,8 @@ Art. 82-A acrescido pelo art. 4º da Lei nº 12.377, de 28 de dezembro de 2011.
 
 **Parágrafo único -** O CONERH, na apreciação do recurso, poderá, mediante ato devidamente motivado, cancelar a penalidade imposta, reduzir seu valor ou transformá-la em outro tipo de penalidade, inclusive em prestação de serviços de preservação, proteção, melhoria e recuperação da qualidade da água, observados os critérios gerais estabelecidos em regulamento.
 
-TÍTULO VII -<br>
+TÍTULO VII -
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 **Art. 86 -** O Poder Executivo regulamentará esta Lei, no que for necessário à sua aplicação, no prazo de 90 (noventa) dias a partir da data da sua publicação.

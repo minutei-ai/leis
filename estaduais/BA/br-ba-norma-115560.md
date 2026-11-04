@@ -8,7 +8,8 @@ Art. 1º - Fica o Poder Executivo autorizado a instituir, vinculada à Secretari
 
 Art. 2º - A Fundação terá por objetivo criar uma Faculdade de Fundação de Professores em Jequié, com as funções de ensino, pesquisa e extensão.
 
-Redação de acordo com a Lei nº 3.139, de 11 de julho de 1973.<br>
+Redação de acordo com a Lei nº 3.139, de 11 de julho de 1973.
+
 Redação original: Art. 2º - A Fundação terá por objeto criar e manter a Faculdade de Educação de Jequié, com as funções de ensino, pesquisa e extensão."
 
 Art. 3º - O patrimônio da Fundação será constituído por direitos e bens destinados pelos poderes públicos, recursos e bens doados por particulares e por entidades públicas, inclusive as da administração descentralizada ou privadas.

@@ -1,5 +1,3 @@
-###DEC-096086-0-000-24-05-1988@@@
-
 # DECRETO N° 96.086, DE 24 DE MAIO DE 1988
 
 Regulamenta o Decreto-lei nº 2.437, de 24 de maio de 1988 e dá outras providências.

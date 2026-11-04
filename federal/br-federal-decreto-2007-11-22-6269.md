@@ -1,5 +1,3 @@
-###DEC-006269-0-000-22-11-2007@@@
-
 DECRETO Nº 6.269, DE 22 DE NOVEMBRO DE 2007.
 
 Altera e acresce dispositivos ao Decreto no 5.390, de 8 de março de 2005, que aprova o Plano Nacional de Políticas para as Mulheres - PNPM e institui o Comitê de Articulação e Monitoramento.
@@ -71,5 +69,3 @@ Brasília, 22 de novembro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Erenice Guerra
-
-Este texto não substitui o publicado no DOU de 23.11.2007

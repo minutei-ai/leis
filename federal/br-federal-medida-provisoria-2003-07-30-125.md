@@ -1,5 +1,3 @@
-###MPV-000125-0-000-30-07-2003@@@
-
 MEDIDA PROVISÓRIA Nº 125, DE 30 DE JULHO 2003.
 
        Institui no Brasil o Sistema de Certificação do Processo de Kimberley \- SCPK, relativo à exportação e à importação de diamantes brutos, e dá outras providências.
@@ -64,7 +62,10 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da 
 
         Brasília, 30 de julho de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Antonio Palocci Filho<br>
-Luiz Fernando Furlan<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Antonio Palocci Filho
+
+Luiz Fernando Furlan
+
 Dilma Vana Rouseff

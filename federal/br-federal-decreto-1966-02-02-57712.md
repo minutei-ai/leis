@@ -1,5 +1,3 @@
-###DEC-057712-0-000-02-02-1966@@@
-
 DECRETO Nº 57.712, DE 2 DE FEVEREIRO DE 1966.
 
 Autoriza o cidadão brasileiro Afonso Rodrigues de Lima a pesquisar hematita no município de São José do Belmonte, Estado de Pernambuco.

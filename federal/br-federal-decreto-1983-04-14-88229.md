@@ -1,5 +1,3 @@
-###DEC-088229-0-000-14-04-1983@@@
-
 DecretO nº 88.229, de 14 de abril de 1983.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação de RÁDIO UHF São Roque e da estrada de acesso, da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

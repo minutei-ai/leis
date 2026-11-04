@@ -1,7 +1,3 @@
-1
-
-###DEC-099327-0-000-19-06-1990@@@
-
 DECRETO N° 99.327, DE 19 DE JUNHO DE 1990
 
 Cria Grupo de Trabalho com a finalidade de propor solução para os débitos de responsabilidade de empresas estatais federais.

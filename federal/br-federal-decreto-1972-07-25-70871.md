@@ -1,5 +1,3 @@
-###DEC-070871-0-000-25-07-1972@@@
-
 DECRETO Nº 70.871, de 25 de julho de 1972.
 
 Reduz alíquotas do Imposto sobre Produtos Industrializados.

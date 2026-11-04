@@ -1,5 +1,3 @@
-###DEC-059978-0-000-10-01-1967@@@
-
 DECRETO Nº 59.978, DE 10 DE JANEIRO DE 1967.
 
 Autoriza a Mineração Itaitú Ltda. a lavrar baritina, no município de Miguel Calmon, Estado da Bahia.

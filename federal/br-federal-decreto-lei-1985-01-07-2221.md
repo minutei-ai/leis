@@ -1,5 +1,3 @@
-###DEL-002221-0-000-07-01-1985@@@
-
 # Decreto-lei nº 2.221, de 07 de janeiro de 1985
 
 Reajusta os valores de vencimentos, salários e proventos dos servidores da secretária do Tribunal de Justiça do Distrito Federal e dos Ofícios Judiciais da Justiça do Distrito Federal e dos Territórios.

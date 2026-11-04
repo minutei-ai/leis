@@ -1,5 +1,3 @@
-###DEL-005441-0-000-30-04-1943@@@
-
 DECRETO‑LEI N. 5.441 – DE 30 DE ABRIL DE 1943
 
 Transfere gratuitamente à Fundação Darcí Vargas, para a instalação da Cidade das Meninas, o domínio pleno de terras, que menciona, situadas no Muni­cípio de Nova Iguassú, no Estado do Rio de janeiro, e dá outras provi­dências.

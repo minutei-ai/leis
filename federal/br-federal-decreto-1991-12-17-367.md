@@ -1,7 +1,3 @@
-1
-
-###DEC-000367-0-000-17-12-1991@@@
-
 DECRETO Nº 367, DE 17 DE DEZEMBRO DE 1991
 
 Dispõe sobre a transferência de direitos, créditos a receber a qualquer título e participações societárias do Instituto do Açúcar e do Álcool - IAA, em extinção.

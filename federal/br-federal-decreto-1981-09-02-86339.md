@@ -1,5 +1,3 @@
-###DEC-086339-0-000-02-09-1981@@@
-
 Decreto nº 86.339, de 02 de setembro de 1981
 
 Concede à Telecomunicações Brasileiras S.A. - TELEBRÁS, empresa vinculada ao Ministério das Comunicações, autorização para promover aumento do seu capital social.

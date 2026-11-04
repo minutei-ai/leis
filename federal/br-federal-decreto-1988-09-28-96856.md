@@ -1,5 +1,3 @@
-###DEC-096856-0-000-28-09-1988@@@
-
 DECRETO Nº 96.856, DE 28 DE SETEMBRO DE 1988
 
 Atribui ao Departamento Nacional de Trânsito do Ministério da Justiça autonomia administrativa e financeira limitada, cria o Fundo Nacional de Segurança e Educação de Transito e dá outras providencias.

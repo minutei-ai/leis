@@ -1,5 +1,3 @@
-###DEL-002305-0-000-10-12-1986@@@
-
 # DECRETO-LEI Nº 2.305, DE 10 DE DEZEMBRO DE 1986
 
 Revoga isenção de IPI, sobre caminhões-tratores.

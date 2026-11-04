@@ -1,5 +1,3 @@
-###DEL-004790-0-000-05-10-1942@@@
-
 DECRETO-LEI N. 4.790 – DE 5 DE OUTUBRO DE 1942
 
 Autoriza a emissão de “Letras do Tesouro”.

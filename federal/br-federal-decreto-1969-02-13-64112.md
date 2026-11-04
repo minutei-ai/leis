@@ -1,5 +1,3 @@
-###DEC-064112-0-000-13-02-1969@@@
-
 DECRETO Nº 64.112, DE 13 DE FEVEREIRO DE 1969.
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Águas e Energia Elétrica, do Ministério das Minas e Energia, imóvel situado na cidade de Niterói, Estado do Rio de Janeiro.

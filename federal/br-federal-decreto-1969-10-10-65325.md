@@ -1,5 +1,3 @@
-###DEC-065325-0-000-10-10-1969@@@
-
 DECRETO Nº 65.325 - DE 10 DE OUTUBRO DE 1969.
 
 Institui o Plano Nacional de Fabricação de Tratores de Esteiras e dá outras providências.

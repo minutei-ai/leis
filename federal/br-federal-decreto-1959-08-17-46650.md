@@ -1,5 +1,3 @@
-###DEC-046650-0-000-17-08-1959@@@
-
 decreto nº 46.650, de 17 de agôsto de 1959.
 
 Declara caduco o Decreto nº 33.998, de 30 de setembro de 1953.

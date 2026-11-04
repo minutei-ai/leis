@@ -1,5 +1,3 @@
-###DEC-070088-0-000-02-02-1972@@@
-
 DECRETO Nº 70.088, DE 2 DE FEVEREIRO DE 1972.
 
 Aproveita no Quadro de Pessoal do Ministério da Marinha, servidores em disponibilidade, e dá outras providências.

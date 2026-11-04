@@ -1,5 +1,3 @@
-###DEC-057846-0-000-18-02-1966@@@
-
 Decreto nº 57.846, de 18 de fevereiro de 1966.
 
 Institui o Estoque de Reserva de Borrachas Vegetais e dá outras providências.

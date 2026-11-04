@@ -1,5 +1,3 @@
-###DEC-092088-0-000-09-12-1985@@@
-
 Decreto nº 92.088, de 09 de dezembro de 1985
 
 Renova a concessão outorgada à FUNDAÇÃO PADRE PELÁGIO - RÁDIO XAVANTES DE IPAMERI, para explorar serviço de radiodifusão sonora em onda média, na cidade de Ipameri, Estado de Goiás.

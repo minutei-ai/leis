@@ -1,5 +1,3 @@
-###DEC-065270-0-000-03-10-1969@@@
-
 DECRETO Nº 65.270 - DE 3 DE OUTUBRO DE 1969.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte especial - do Ministério do Exército, cargo originário do extinto Lloyd Brasileiro - Patrimônio Nacional e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-075310-0-000-27-01-1975@@@
-
 DECRETO Nº 75.310, DE 27 DE JANEIRO DE 1975.
 
 Altera o artigo 1º, do decreto número 74.463, de 26 de agosto de 1974, que interdita, temporariamente, uma área no município de Airão, estado do Amazonas, para fins de atração e pacificação de grupos indígenas.

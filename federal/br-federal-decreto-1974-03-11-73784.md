@@ -1,5 +1,3 @@
-###DEC-073784-0-000-11-03-1974@@@
-
 DECRETO nº 73.784, de 11 de março de 1974.
 
 Torna sem efeito aproveitamento de disponível no Quadro Único de Pessoal da Universidade Federal do Rio de Janeiro e dá outras providencias.

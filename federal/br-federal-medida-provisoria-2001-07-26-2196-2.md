@@ -1,5 +1,3 @@
-###MPV-002196-0-002-26-07-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.196‑2, DE 26 DE JULHO DE 2001.
 
 Estabelece o Programa de Fortalecimento das Instituições Financeiras Federais e autoriza a criação da Empresa Gestora de Ativos ‑ EMGEA.
@@ -87,8 +85,6 @@ Art. 14. A Lei nº 7.827, de 27 de setembro de 1989, passa a vigorar acrescida d
 "Art. 9º‑A. Os recursos dos Fundos Constitucionais poderão ser repassados aos próprios bancos administradores, para que estes, em nome próprio e com seu risco exclusivo, realizem as operações de crédito autorizadas por esta Lei e pela Lei nº 10.177, de 12 de janeiro de 2001.
 
 § 1º O montante dos repasses a que se referem o caput estará limitado a proporção do patrimônio líquido da instituição financeira, fixada pelo Conselho Monetário Nacional .                                                        
-
-<br>
 
 § 2º O retorno dos recursos aos Fundos Constitucionais se subordina à manutenção da proporção a que se refere o § 3º e independe do adimplemento, pelos mutuários, das obrigações contratadas pelas instituições financeiras com tais recursos.
 

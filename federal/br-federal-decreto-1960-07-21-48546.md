@@ -1,5 +1,3 @@
-###DEC-048546-0-000-21-07-1960@@@
-
 DECRETO Nº 48.546, DE 21 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro Bernardo Hermann Wolfgang Werner a pesquisar minério de ferro, no município de Luiz Alves, Estado de Santa Catarina.

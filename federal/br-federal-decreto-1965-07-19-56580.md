@@ -1,5 +1,3 @@
-###DEC-056580-0-000-19-07-1965@@@
-
 DECRETO Nº 56.580, DE 19 DE JULHO DE 1965.
 
 Concede à Companhia Anglo Latina de Seguros Gerais autorização para funcionar e aprovar os seus Estatutos.

@@ -1,5 +1,3 @@
-###DEC-058649-0-000-16-06-1966@@@
-
 DECRETO Nº 58.649, de 16 de junho de 1966.
 
 Altera o Regimento do Departamento dos Correios e Telégrafos, aprovado pelo Decreto nº 51.902, de 19 de abril de 1963, e dá outras providências.

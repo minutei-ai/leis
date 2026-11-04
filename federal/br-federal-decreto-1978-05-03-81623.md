@@ -1,5 +1,3 @@
-###DEC-081623-0-000-03-05-1978@@@
-
 Decreto nº 81.623, de 3 de maio de 1978.
 
 Renova por 15 (quinze) anos a concessão outorgada à Rádio Rio Ltda., cuja razão social foi alterada para Rádio e TV Rio S.A., e, posteriormente, transferida a Brasilino - Rádio e Televisão Ltda., para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Brasília, Distrito Federal.

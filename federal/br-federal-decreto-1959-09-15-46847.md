@@ -1,5 +1,3 @@
-###DEC-046847-0-000-15-09-1959@@@
-
 DECRETO Nº 46.847, DE 15 DE SETEMBRO DE 1959.
 
 Outorga ao Estado do Paraná concessão para distribuir energia elétrica.

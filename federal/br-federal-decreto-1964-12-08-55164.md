@@ -1,5 +1,3 @@
-###DEC-055164-0-000-08-12-1964@@@
-
 DECRETO Nº 55.164, DE 8 DE Dezembro DE 1964.
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$51.572.000,00 para atender às despesas que especifica.

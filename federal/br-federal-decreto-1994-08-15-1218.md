@@ -1,7 +1,3 @@
-1
-
-###DEC-001218-0-000-15-08-1994@@@
-
 DECRETO Nº 1.218, DE 15 DE AGOSTO DE 1994
 
 Atribui ao Ministro de Estado do Meio Ambiente e da Amazônia Legal competência para praticar os atos que menciona.

@@ -1,5 +1,3 @@
-###DEC-046777-0-000-03-09-1959@@@
-
 Decreto nº 46.777, de 3 de setembro de 1959.
 
 Autoriza o cidadão brasileiro João Henrique Bianchini a pesquisar fluorita no Município de Palhoça, Estado de Santa Catarina.

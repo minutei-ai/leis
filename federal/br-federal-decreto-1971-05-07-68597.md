@@ -1,5 +1,3 @@
-###DEC-068597-0-000-07-05-1971@@@
-
 Decreto nº 68.597 - de 7 de maio de 1971.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel urbano situado na Rua Rui Barbosa, em Salvador, Estado da Bahia, onde se encontra instalada uma agência postal telegráfica da Emprêsa Brasileira de Correios e Telégrafos - ECT.

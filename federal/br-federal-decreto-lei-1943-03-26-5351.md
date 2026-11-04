@@ -1,5 +1,3 @@
-###DEL-005351-0-000-26-03-1943@@@
-
 DECRETO-LEI N. 5.351 – DE 26 DE MARÇO DE 1943
 
 Cria o 3º  Batalhão de Carros de Combate com sede na Capital Federal

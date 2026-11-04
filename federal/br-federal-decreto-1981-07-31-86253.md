@@ -1,5 +1,3 @@
-###DEC-086253-0-000-31-07-1981@@@
-
 decreto nº 86.253, de 31 de julho de 1981
 
 Autoriza a Petrobrás Comércio Internacional S.A. - INTERBRÁS a proceder ao aumento do limite do seu Capital Social.

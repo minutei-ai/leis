@@ -1,5 +1,3 @@
-###DEC-071085-0-000-13-09-1972@@@
-
 DECRETO Nº 71.085, DE 13 DE SETEMBRO DE 1972.
 
 Prorroga prazo de concessão de aproveitamento de energia hidráulica, para uso exclusivo.

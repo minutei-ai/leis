@@ -1,5 +1,3 @@
-###DEC-088383-0-000-13-06-1983@@@
-
 # Decreto nº 88.383, de 13 de junho de 1983
 
 Renova prazo de concessão outorgada Companhia de Cimento Portland Maringá para o aproveitamento progressivo da energia hidráulica do Salto da Barra, existente no rio Apiaí-Guaçu, no Município de Itapeva, Estado de São Paulo.

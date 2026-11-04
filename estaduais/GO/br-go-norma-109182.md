@@ -10,15 +10,14 @@ Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 10 de julho de 2024; 136º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
 
 ANEXO ÚNICO
 
-“Anexo VII – Autorizações de acréscimos de despesas de pessoal para 2024 (Nos termos do art. 169, § 1º, inciso II, da Constituição Federal)<br>
+“Anexo VII – Autorizações de acréscimos de despesas de pessoal para 2024 (Nos termos do art. 169, § 1º, inciso II, da Constituição Federal)
+
 ([LEI Nº 22.536](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108392), DE 9 DE JANEIRO DE 2024)
 
 | ITEM | TIPO DE PODER | DESCRIÇÃO | ACRÉSCIMO AUTORIZADO |

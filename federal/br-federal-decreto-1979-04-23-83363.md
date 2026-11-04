@@ -1,5 +1,3 @@
-###DEC-083363-0-000-23-04-1979@@@
-
 Decreto nº 83.363, de 23 de abril de 1979.
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios de Salvador, Estado da Bahia; Cabedelo, Estado da Paraíba; Rio de Janeiro e Niterói, Estado de Rio de Janeiro e Matinhos, Estado do Paraná.

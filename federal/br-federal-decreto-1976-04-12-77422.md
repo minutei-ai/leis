@@ -1,5 +1,3 @@
-###DEC-077422-0-000-12-04-1976@@@
-
 DECRETO Nº 77.422 - DE 12 DE ABRIL DE 1976
 
 Concede reconhecimento ao curso de Estudos Sociais, do Centro de Ensino Superior de São Carlos, em São Carlos, Estado de São Paulo.

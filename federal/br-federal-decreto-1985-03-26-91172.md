@@ -1,5 +1,3 @@
-###DEC-091172-0-000-26-03-1985@@@
-
 decreto nº 91.172, de 26 de março de 1985
 
 Altera a denominação da Coordenação de Relações Públicas da Secretaria de Planejamento da Presidência da República e estabelece suas competências.

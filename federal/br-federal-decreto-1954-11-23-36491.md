@@ -1,14 +1,12 @@
-###DEC-036491-0-000-23-11-1954@@@
+**DECRETO Nº 36.491, DE 23 DE NOVEMBRO DE 1954.**
 
-<strong>DECRETO Nº 36.491, DE 23 DE NOVEMBRO DE 1954.</strong>
+***Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.***
 
-<em><strong>Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 (Código de Minas),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica alterada a lotação numérica da repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura, para efeito de serem transferidos os seguintes cargos:
+**Art**. 1º Fica alterada a lotação numérica da repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura, para efeito de serem transferidos os seguintes cargos:
 
 a) um da carreira de Zootécnista com o respectivo ocupante, Valdemar Raite de Queiroz e Silva, da produção Animal para igual vocação da Escola Nacional de Agronomia;
 
@@ -36,12 +34,12 @@ l) um da carreira de Agrônomo com o respectivo ocupante, Wilson Sales Leão, da
 
 m) um da carreira de Agrônomo, com o respectivo ocupante, Lauro Carneiro Dias Vieira, da lotação permanente da Agência do Serviço de Econômia Rural no Piauí para igual lotação na sede do referido serviço.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se na disposições em contrário.
+**Art**. 3º Revogam-se na disposições em contrário.
 
 Rio de Janeiro, em 23 de novembro de 1954; 133º da Independência e 66º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Costa Porto

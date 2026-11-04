@@ -1,7 +1,3 @@
-1
-
-###DEC-085790-0-000-06-03-1981@@@
-
 Decreto nº 85.790, de 06 de março de 1981.
 
 Altera o Decreto nº 84.067, de 8 de outubro de 1979, que cria a Secretaria Especial de Informática, como órgão complementar do Conselho de Segurança Nacional, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-077390-0-000-06-04-1976@@@
-
 Decreto nº 77.390 - de 6 de abril de 1976
 
 Autoriza o registro, em nome da União Federal do imóvel que menciona, situado no Município de Alcântara, Estado do Maranhão.

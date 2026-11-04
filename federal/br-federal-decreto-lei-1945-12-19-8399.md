@@ -1,5 +1,3 @@
-###DEL-008399-0-000-19-12-1945@@@
-
 DECRETO-LEI N. 8.399 – DE 19 DE DEZEMBRO DE 1945
 
 Altera e cria carreiras no Quadro Suplementar do Ministério da Aeronáutica.

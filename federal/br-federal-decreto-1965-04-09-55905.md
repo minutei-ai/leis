@@ -1,5 +1,3 @@
-###DEC-055905-0-000-09-04-1965@@@
-
 DECRETO Nº 55.905, DE 9 DE ABRIL DE 1965.
 
 Extingue o Consulado honorário do Brasil em Talcahuano, Chile.

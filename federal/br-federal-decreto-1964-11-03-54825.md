@@ -1,5 +1,3 @@
-###DEC-054825-0-000-03-11-1964@@@
-
 DECRETO Nº 54.825, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Esio Toledo Martins a pesquisar água mineral, no município de Piracicaba, Estado de São Paulo.

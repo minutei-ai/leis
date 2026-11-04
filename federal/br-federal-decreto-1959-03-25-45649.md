@@ -1,32 +1,30 @@
-###DEC-045649-0-000-25-03-1959@@@
+**DECRETO Nº 45.649, DE 25 DE MARÇO DE 1959.**
 
-<strong>DECRETO Nº 45.649, DE 25 DE MARÇO DE 1959.</strong>
+***Aprova o Regulamento para o Serviço de Administração e Tombamento dos Próprios Nacionais do Ministério da Marinha.***
 
-<em><strong>Aprova o Regulamento para o Serviço de Administração e Tombamento dos Próprios Nacionais do Ministério da Marinha.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento para o Serviço de Administração e Tombamento dos Próprios Nacionais do Ministério da Marinha, que com êste baixa assinado pelo Ministro de Estado da Marinha.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento para o Serviço de Administração e Tombamento dos Próprios Nacionais do Ministério da Marinha, que com êste baixa assinado pelo Ministro de Estado da Marinha.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro , 25 de março de 1959; 138º da Independência e 71º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Jorge do Paço Mattoso Maia
 
-<strong>REGULAMENTO PARA O “SERVIÇO DE ADMINISTRAÇÃO E TOMBAMENTO DOS PRÓPRIOS NACIONAIS DO MINISTÉRIO DA MARINHA”</strong>
+**REGULAMENTO PARA O “SERVIÇO DE ADMINISTRAÇÃO E TOMBAMENTO DOS PRÓPRIOS NACIONAIS DO MINISTÉRIO DA MARINHA”**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Dos Fins</em>
+*Dos Fins*
 
-<strong>Art</strong>. 1º O Serviço de Administração e Tombamento dos Próprios Nacionais do Ministério da Marinha (SATPN) é o órgão da MB destinado a administrar, preservar e controlar os bens imóveis do patrimônio da União, sob a jurisdição do Ministério da Marinha.
+**Art**. 1º O Serviço de Administração e Tombamento dos Próprios Nacionais do Ministério da Marinha (SATPN) é o órgão da MB destinado a administrar, preservar e controlar os bens imóveis do patrimônio da União, sob a jurisdição do Ministério da Marinha.
 
-<strong>Art</strong>. 2º Para a consecução da sua finalidade, cabe especificamente ao SATPN:
+**Art**. 2º Para a consecução da sua finalidade, cabe especificamente ao SATPN:
 
 I - cadastrar, organizar e manter o tombamento dos bens imóveis;
 
@@ -54,17 +52,17 @@ XII - opinar nos processos de aforamento, procedentes do Serviço do Patrimônio
 
 XIII - opinar em outros casos correlatos, quando ordenado ou solicitado por autoridade competente.
 
-<strong>Art</strong>. 3º O SATPN está subordinado:
+**Art**. 3º O SATPN está subordinado:
 
 I - ao Comando do 1º distrito Naval, quanto ao Comando Militar e Contrôle de Coordenação;
 
 II - à Secretaria Geral da Marinha, quanto ao Contrôle de Administração.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 4º O SATPN, sob a direção de um Diretor, auxiliado pelo Vice-Diretor e por um Adjunto, compreende as seguintes divisões:
+**Art**. 4º O SATPN, sob a direção de um Diretor, auxiliado pelo Vice-Diretor e por um Adjunto, compreende as seguintes divisões:
 
 I - Divisão do Contencioso
 
@@ -78,13 +76,13 @@ III - Divisão de Serviços Gerais
 
 (SATPN-30).
 
-<strong>Art</strong>. 5º As Divisões terão sua constituição prevista no Regimento Interno.
+**Art**. 5º As Divisões terão sua constituição prevista no Regimento Interno.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do Pessoal</em>
+*Do Pessoal*
 
-<strong>Art</strong>. 6º O SATPN dispõe do seguinte pessoal:
+**Art**. 6º O SATPN dispõe do seguinte pessoal:
 
 I - Diretor - Capitão-de-Mar-e-Guerra;
 
@@ -96,26 +94,26 @@ IV - Tantos oficiais dos diversos Corpos e Quadros de Oficiais da Marinha quanto
 
 V - Tantos servidores civis das diferentes tabelas do Ministério da Marinha ou contratados quantos forem necessários aos serviços, de conformidade com o previsto no Regimento Interno.
 
-<strong>Art</strong>. 7º A nomeação do Diretor será feita por decreto e a do Vice-Diretor por portaria do Ministro da Marinha. Os demais oficiais e o pessoal subalterno serão designados pelo Diretor-Geral do Pessoal da Marinha para servir no SATPN, sendo distribuídos pelas diferentes funções pelo seu Diretor, na conformidade da respectiva lotação.
+**Art**. 7º A nomeação do Diretor será feita por decreto e a do Vice-Diretor por portaria do Ministro da Marinha. Os demais oficiais e o pessoal subalterno serão designados pelo Diretor-Geral do Pessoal da Marinha para servir no SATPN, sendo distribuídos pelas diferentes funções pelo seu Diretor, na conformidade da respectiva lotação.
 
-<strong>Art</strong>. 8º O SATPN deve apresentar anualmente, junto com a proposta orçamentária, a correspondente às alterações de lotação do pessoal civil, para atendimento dos programas que forem estabelecidos para as suas atividades.
+**Art**. 8º O SATPN deve apresentar anualmente, junto com a proposta orçamentária, a correspondente às alterações de lotação do pessoal civil, para atendimento dos programas que forem estabelecidos para as suas atividades.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das Disposições Gerais</em>
+*Das Disposições Gerais*
 
-<strong>Art</strong>. 9º Êste Regulamento será complementado por um Regimento Interno elaborado e aprovado de acôrdo com as normas em vigor.
+**Art**. 9º Êste Regulamento será complementado por um Regimento Interno elaborado e aprovado de acôrdo com as normas em vigor.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Das Disposições Transitórias</em>
+*Das Disposições Transitórias*
 
-<strong>Art</strong>. 10., No prazo de sessenta dias, a partir da publicação do presente Regulamento no Boletim do Ministério da Marinha, o Secretário-Geral da Marinha deverá submeter à aprovação do Ministro da Marinha o projeto do Regimento Interno para o SATPN.
+**Art**. 10., No prazo de sessenta dias, a partir da publicação do presente Regulamento no Boletim do Ministério da Marinha, o Secretário-Geral da Marinha deverá submeter à aprovação do Ministro da Marinha o projeto do Regimento Interno para o SATPN.
 
-<strong>Art</strong>. 11. Os atuais Presidente e Vice-Presidente da Comissão de Administração e Tombamento dos Próprios Nacionais ficam investidos respectivamente nos cargos de Diretor e Vice-Diretor do SATPN, mencionados neste Regulamento.
+**Art**. 11. Os atuais Presidente e Vice-Presidente da Comissão de Administração e Tombamento dos Próprios Nacionais ficam investidos respectivamente nos cargos de Diretor e Vice-Diretor do SATPN, mencionados neste Regulamento.
 
-<strong>Art</strong>. 12. O Diretor do SATPN fica autorizado a baixar os atos necessários à execução do presente Regulamento, até a aprovação do Regimento Interno.
+**Art**. 12. O Diretor do SATPN fica autorizado a baixar os atos necessários à execução do presente Regulamento, até a aprovação do Regimento Interno.
 
 Rio de Janeiro D.F., em 25 de março de 1959
 
-<strong>JORGE DO PAÇO MATTOSO MAIA</strong>
+**JORGE DO PAÇO MATTOSO MAIA**

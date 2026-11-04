@@ -1,5 +1,3 @@
-###DEC-061842-0-000-05-12-1967@@@
-
 decreto nº 61.842, de 5 de dezembro de 1967.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Santa Rosa de Viterbo, Estado de São Paulo.

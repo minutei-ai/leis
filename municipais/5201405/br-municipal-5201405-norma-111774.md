@@ -94,9 +94,10 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, 23 de Dezembro de 2020.
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
 [ANEXO I](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18674)
 
-[ANEXO II](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18675)<br>
+[ANEXO II](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18675)

@@ -1,5 +1,3 @@
-###DEC-002622-0-000-09-06-1998@@@
-
 DECRETO Nº 2.622, DE 9 DE JUNHO DE 1998
 
 Regulamenta a Lei Complementar nº 93, de 4 de fevereiro de 1998, que criou o Fundo de Terras e da Reforma Agrária - Banco da Terra, e dá outras providências

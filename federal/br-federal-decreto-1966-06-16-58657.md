@@ -1,5 +1,3 @@
-###DEC-058657-0-000-16-06-1966@@@
-
 DECRETO Nº 58.657, DE 16 DE JUNHO DE 1966.
 
 Concede reconhecimento à Faculdade de Serviço Social de Piracicaba, no Estado de São Paulo.

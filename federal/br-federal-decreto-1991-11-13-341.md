@@ -1,7 +1,3 @@
-1
-
-###DEC-000341-0-000-13-11-1991@@@
-
 DECRETO N° 341, DE 13 DE NOVEMBRO DE 1991
 
 Altera o caput do art. 34 do Decreto n° 77.919, de 25 de junho de 1976, que regulamenta a Lei do Ensino no Exército.

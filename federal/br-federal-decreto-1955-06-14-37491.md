@@ -1,6 +1,4 @@
-###DEC-037491-0-000-14-06-1955@@@
-
-<strong>DECRETO Nº 37.491, DE 14 DE JUNHO DE 1955.</strong>
+**DECRETO Nº 37.491, DE 14 DE JUNHO DE 1955.**
 
 <!-- fac-simile-oficial:inicio -->
 

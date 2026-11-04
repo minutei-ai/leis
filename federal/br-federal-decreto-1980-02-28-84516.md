@@ -1,5 +1,3 @@
-###DEC-084516-0-000-28-02-1980@@@
-
 Decreto nº 84.516, de 28 de Fevereiro de 1980
 
 Cria Grupo Executivo para a Região do Baixo Amazonas e dá outras Providências.

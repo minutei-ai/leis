@@ -1,5 +1,3 @@
-###DEC-005115-0-000-24-06-2004@@@
-
 DECRETO Nº 5.115, DE 24 DE JUNHO DE 2004
 
 Institui Comissão Especial Interministerial \- CEI de revisão dos atos administrativos praticados pelas comissões criadas pelos Decretos nºs 1.498 e 1.499, de 24 de maio de 1995, e 3.363, de 11 de fevereiro de 2000, referentes a processos de anistia de que trata a Lei nº 8.878, de 11 de maio de 1994, e dá outras providências.

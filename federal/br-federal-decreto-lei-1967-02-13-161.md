@@ -1,5 +1,3 @@
-###DEL-000161-0-000-13-02-1967@@@
-
 DECRETO-LEI Nº 161, DE 13 DE FEVEREIRO DE 1967
 
 Autoriza o Poder Executivo a instituir a “Fundação Instituto Brasileiro de Geografia e Estatística” e dá outras providências.

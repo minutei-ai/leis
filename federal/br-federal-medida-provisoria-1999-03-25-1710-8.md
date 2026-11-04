@@ -1,5 +1,3 @@
-###MPV-001710-0-008-25-03-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.710-8, DE 25 DE MARÇO DE 1999.
 
 Acrescenta dispositivo à Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.

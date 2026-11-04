@@ -1,5 +1,3 @@
-###DEC-006344-0-000-04-01-2008@@@
-
 DECRETO Nº 6.344, DE 4 DE JANEIRO DE 2008.
 
 Dá nova redação ao § 1o do art. 66 do Decreto no 99.066, 8 de março de 1990, que regulamenta a Lei no 7.678, de 8 de novembro de 1988, que dispõe sobre a produção, circulação e comercialização do vinho e derivados do vinho e da uva.
@@ -19,5 +17,3 @@ Brasília, 4 de janeiro de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Reinhold Stephanes
-
-Este texto não substitui o publicado no DOU de 7.1.2008

@@ -1,5 +1,3 @@
-###DEL-009394-0-000-21-06-1946@@@
-
 DECRETO-LEI N. 9.394 – DE 21 DE JUNHO DE 1946
 
 Abre ao Ministério da Agricultura  a crédito especial de Cr$ 50.000.000,00, para a execução de um plano de emergência de fomento da produção.

@@ -1,5 +1,3 @@
-###DEC-081921-0-000-11-07-1978@@@
-
 Decreto nº 81.921, de 11 de julho de 1978
 
 Concede à Mineração Miranda S.A. o direito de lavrar calcário no Município de Santa Rosa da Serra, Estado de Minas Gerais.

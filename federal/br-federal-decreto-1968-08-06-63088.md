@@ -1,20 +1,18 @@
-###DEC-063088-0-000-06-08-1968@@@
+**DECRETO Nº 63.088, DE 6 DE AGÔSTO DE 1968.**
 
-<strong>DECRETO Nº 63.088, DE 6 DE AGÔSTO DE 1968.</strong>
+***Concede à “Linea Aérea Nacional - Chile”, autorização para funcionar no Brasil.***
 
-<em><strong>Concede à “Linea Aérea Nacional - Chile”, autorização para funcionar no Brasil.</strong></em>
+**O PRESIDENTE DA REPUBLICA**, usando das atribuições que lhe confere o artigo 83, item II, da Constituição, e tendo em vista os têrmos do Decreto número 35.514, de 18 de maio de 1954,
 
-<strong>O PRESIDENTE DA REPUBLICA</strong>, usando das atribuições que lhe confere o artigo 83, item II, da Constituição, e tendo em vista os têrmos do Decreto número 35.514, de 18 de maio de 1954,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º É concedida à ”Linea Aérea Nacional - Chile”, emprêsa estatal de transporte aéreo, com sede na cidade de Santiago do Chile, autorização para funcionar no Brasil, com os Estatutos Sociais que apresentou e com o capital destinado à suas operações no Brasil estimado em NCr$1.000,00 (um mil cruzeiros novos), obrigada a mesmo sociedade a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da presente autorização.
 
-<strong>Art</strong>. 1º É concedida à ”Linea Aérea Nacional - Chile”, emprêsa estatal de transporte aéreo, com sede na cidade de Santiago do Chile, autorização para funcionar no Brasil, com os Estatutos Sociais que apresentou e com o capital destinado à suas operações no Brasil estimado em NCr$1.000,00 (um mil cruzeiros novos), obrigada a mesmo sociedade a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da presente autorização.
+**Art**. 2º A êste Decreto em sua publicação, acompanham os Estatutos Sociais e demais atos mencionados no artigo, 2º do Decreto nº 25.514, de 18 de maio de 1954.
 
-<strong>Art</strong>. 2º A êste Decreto em sua publicação, acompanham os Estatutos Sociais e demais atos mencionados no artigo, 2º do Decreto nº 25.514, de 18 de maio de 1954.
+**Art**. 3º Fica entendido que o exercício efetivo de qualquer atividade da “Linea Aérea Nacional - Chile” no Brasil relacionada com os serviços de transporte aéreo ficará sujeito à legislação brasileira que lhe fôr aplicável.
 
-<strong>Art</strong>. 3º Fica entendido que o exercício efetivo de qualquer atividade da “Linea Aérea Nacional - Chile” no Brasil relacionada com os serviços de transporte aéreo ficará sujeito à legislação brasileira que lhe fôr aplicável.
-
-<strong>Art</strong>. 4º Ficam ainda estabelecidas as seguintes cláusulas;
+**Art**. 4º Ficam ainda estabelecidas as seguintes cláusulas;
 
 a) a “Linea Aérea Nacional - Chile” é obrigada a manter, permanentemente, Representante Geral no Brasil, com plenos e limitados podêres para tratar e definitivamente resolver as questões que se suscitarem, quer com o Govêrno , que com particulares, podendo ser demandado e receber citação inicial pela sociedade;
 
@@ -30,10 +28,10 @@ f) a presente autorização é dada sem prejuízo de achar-se a sociedade sujeit
 
 g) a infração de qualquer das cláusulas para as quais não exista cominação especial será punida com a multa de NCr$1.000,00 (um mil cruzeiros novos) a NCr$10.000,00 (dez mil cruzeiro novos) sendo que, em caso de reincidência poderá ser casada a autorização concedida.
 
-<strong>Art</strong>. 5º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrario.
+**Art**. 5º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrario.
 
 Brasília, 6 de agôsto de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Márcio de Souza e Mello

@@ -1,5 +1,3 @@
-###DEC-062152-0-000-19-01-1968@@@
-
 DECRETO Nº 62.152, DE 19 DE JANEIRO DE 1968.
 
 Promulga a Conceção da OIT número 116 sôbre revisão dos artigos finais.

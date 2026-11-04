@@ -1,5 +1,3 @@
-###DEC-047263-0-000-19-11-1959@@@
-
 DECRETO Nº 47.263, DE 19 DE NOVEMBRO DE 1959.
 
 Transfere, sem aumento de despesa, função de Tabela Numérica Especial de Extranumerário-mensalistas do Ministério da Guerra.

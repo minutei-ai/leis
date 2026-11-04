@@ -1,5 +1,3 @@
-###DEC-088138-0-000-02-03-1983@@@
-
 Decreto nº 88.138, de 02 de março de 1983
 
 Dispõe sobre o limite do Capital Autorizado da Companhia de Pesquisa de Recursos Minerais - CPRM e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-045602-0-000-23-03-1959@@@
-
 DECRETO Nº 45.602, DE 23 DE MARÇO DE 1959.
 
 Concede à Navegação e Comércio S/A em que se transforma a sociedade Navegação e Comércio Tamio Ltda. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

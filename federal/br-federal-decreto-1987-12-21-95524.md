@@ -1,5 +1,3 @@
-###DEC-095524-0-000-21-12-1987@@@
-
 DECRETO Nº 95.524, DE 21 DE DEZEMBRO DE 1987
 
 Altera o Decreto nº 91.370, de 26 de junho de 1985, e dá outras providências.

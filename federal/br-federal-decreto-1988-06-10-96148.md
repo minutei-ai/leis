@@ -1,5 +1,3 @@
-###DEC-096148-0-000-10-06-1988@@@
-
 DECRETO N° 96.148, DE 10 DE JUNHO DE 1988
 
 Outorga concessão a RÁDIO MARANATA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Firminópolis, Estado de Goiás.

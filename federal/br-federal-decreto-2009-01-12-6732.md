@@ -1,5 +1,3 @@
-###DEC-006732-0-000-12-01-2009@@@
-
 DECRETO Nº 6.732, DE 12 DE JANEIRO DE 2009.
 
 Promulga o Acordo de Cooperação Econômica entre o Governo da República Federativa do Brasil e o Governo da República da Hungria, celebrado em Brasília, em 5 de maio de 2006.

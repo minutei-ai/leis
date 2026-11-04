@@ -1,5 +1,3 @@
-###DEC-081630-0-000-05-05-1978@@@
-
 Decreto nº 81.630, de 05 de maio de 1978.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Tijuco Preto, de FURNAS - Centrais Elétricas S.A., no Estado de São Paulo.

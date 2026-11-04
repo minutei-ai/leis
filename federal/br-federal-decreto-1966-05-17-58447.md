@@ -1,5 +1,3 @@
-###DEC-058447-0-000-17-05-1966@@@
-
 DECRETO Nº 58.447, DE 17 DE MAIO DE 1967.
 
 Autoriza o cidadão brasileiro Ledoar Nogueira Castilho a pesquisar feldspato e quartzo no município de Bueno Brandão, Estado de Minas Gerais.

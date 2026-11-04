@@ -1,5 +1,3 @@
-###DEL-008459-0-000-26-12-1945@@@
-
 DECRETO-LEI N. 8.459 – DE 26 DE DEZEMBRO DE 1945
 
 Dispõe sôbre a matéria de que trata o Decreto-lei nº 5.098, de 22-7-1943

@@ -1,5 +1,3 @@
-###DEC-061527-0-000-13-10-1967@@@
-
 DECRETO Nº 61.527, DE 13 DE OUTUBRO DE 1967.
 
 Provê sôbre a instituição da Semana do Livro.

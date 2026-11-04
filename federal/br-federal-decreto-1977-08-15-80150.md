@@ -1,5 +1,3 @@
-###DEC-080150-0-000-15-08-1977@@@
-
 DECRETO N° 80.150, DE 15 DE AGOSTO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária a implantação da Subestação da Ipiranga, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

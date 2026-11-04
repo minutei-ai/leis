@@ -1,5 +1,3 @@
-###DEC-089582-0-000-24-04-1984@@@
-
 Decreto nº 89.582, de 24 de abril de 1984
 
 Renova prazo de concessão outorgada à Knorr & Cia Ltda para o aproveitamento da energia hidráulica de uma queda d'água no rio Palmeira, no Município de Panambi, Estado do Rio Grande do Sul.

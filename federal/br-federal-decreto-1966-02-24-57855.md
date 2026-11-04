@@ -1,5 +1,3 @@
-###DEC-057855-0-000-24-02-1966@@@
-
 DECRETO Nº 57.855, DE 24 DE FEVEREIRO DE 1966.
 
 Declara de utilidade pública o “Instituto São Pedro de Educação e Assistência”, com sede em Bagê, Estado do Rio Grande do Sul.

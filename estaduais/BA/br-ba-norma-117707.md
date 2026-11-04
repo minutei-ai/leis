@@ -1,7 +1,9 @@
 LEI Nº 4.844 DE 24 DE FEVEREIRO DE 1989
 
-Ver também:<br>
-Lei nº [13.366](https://www.legislabahia.ba.gov.br/documentos/lei-no-13366-de-29-de-junho-de-2015#LO%2013.366) de 29 de junho de 2015 - Atualiza os limites dos municípios, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Caém, Capim Grosso, Jacobina, Miguel Calmon, Mirangaba, Ourolândia, Quixabeira, Saúde, Serrolândia, Umburanas e Várzea Nova.<br>
+Ver também:
+
+Lei nº [13.366](https://www.legislabahia.ba.gov.br/documentos/lei-no-13366-de-29-de-junho-de-2015#LO%2013.366) de 29 de junho de 2015 - Atualiza os limites dos municípios, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Caém, Capim Grosso, Jacobina, Miguel Calmon, Mirangaba, Ourolândia, Quixabeira, Saúde, Serrolândia, Umburanas e Várzea Nova.
+
 Lei nº 12.629 de 04 de janeiro de 2013 - Atualiza os limites dos Municípios que integram o Território de Identidade do Velho Chico, na forma da Lei 12.057/2011, a saber: Barra, Bom Jesus da Lapa, Carinhanha, Feira da Mata, Ibotirama, Igaporã, Malhada, Matina, Morpará, Muquém do São Francisco, Oliveira dos Brejinhos, Paratinga, Riacho de Santana, Serra do Ramalho e Sítio do Mato.
 
 Cria o Município de Umburanas, desmembrado do Município de Campo Formoso.

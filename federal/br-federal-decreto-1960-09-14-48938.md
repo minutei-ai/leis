@@ -1,5 +1,3 @@
-###DEC-048938-0-000-14-09-1960@@@
-
 DECRETO Nº 48.938, DE 14 DE SETEMBRO DE 1960
 
 Dispõe sôbre execução da Lei número 1.295, de 27 de dezembro de 1950, na parte relativa a registro de diplomas de cursos superiores.

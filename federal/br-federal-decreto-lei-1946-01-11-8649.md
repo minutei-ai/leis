@@ -1,5 +1,3 @@
-###DEL-008649-0-000-11-01-1946@@@
-
 DECRETO-LEI N. 8.649 – DE 11 DE JANEIRO DE 1946
 
 Altera as carreiras de Continuo e Ser vente do Q. S. do Ministério da Agricultura, e dá outras providências

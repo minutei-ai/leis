@@ -1,5 +1,3 @@
-###DEC-094685-0-000-27-07-1987@@@
-
 DECRETO N° 94.685, DE 27 DE JULHO DE 1987
 
 Concede autorização ao navio de pesquisa "KNORR", de bandeira norte-americana, para realizar em águas jurisdicionais brasileiras os serviços que especifica.

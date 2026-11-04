@@ -1,5 +1,3 @@
-###DEL-004797-0-000-06-10-1942@@@
-
 DECRETO-LEI N. 4.797 – DE 6 DE OUTUBRO DE 1942
 
 Cria os 37º e 40º Batalhões de Caçadores, na 7º Região Militar

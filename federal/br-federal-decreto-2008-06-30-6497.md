@@ -1,5 +1,3 @@
-###DEC-006497-0-000-30-06-2008@@@
-
 DECRETO Nº 6.497, DE 30 DE JUNHO DE 2008.
 
 Acresce dispositivos ao Decreto no 6.170, de 25 de julho de 2007, que dispõe sobre as normas relativas às transferências de recursos da União mediante convênios e contratos de repasse

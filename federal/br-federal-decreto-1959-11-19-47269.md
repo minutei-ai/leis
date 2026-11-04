@@ -1,5 +1,3 @@
-###DEC-047269-0-000-19-11-1959@@@
-
 DECRETO Nº 47.269, DE 19 DE NOVEMBRO DE 1959.
 
 Autoriza o Estado da Bahia a construir uma linha de transmissão de energia elétrica.

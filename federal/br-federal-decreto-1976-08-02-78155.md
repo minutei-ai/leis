@@ -1,5 +1,3 @@
-###DEC-078155-0-000-02-08-1976@@@
-
 DECRETO Nº 78.155, DE 2 DE AGOSTO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Independência do Paraná Ltda. Para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Curitiba, Estado do Paraná.

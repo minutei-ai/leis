@@ -1,5 +1,3 @@
-###DEC-053877-0-000-08-04-1964@@@
-
 DECRETO Nº 53.877, DE 08 DE ABRIL DE 1964.
 
 Altera o Regulamento Orgânico do Ministério das Relações Exteriores, aprovado pelo Decreto nº 1, de 21 de setembro de 1961.

@@ -1,7 +1,3 @@
-1
-
-###DEC-097623-0-000-10-04-1989@@@
-
 DECRETO N° 97.623, DE 10 DE ABRIL DE 1989
 
 Autoriza o funcionamento do curso de Comunicação Social da Faculdade de Co­municação Social de Uberlândia.

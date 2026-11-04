@@ -1,5 +1,3 @@
-###DEL-006537-0-000-29-05-1944@@@
-
 DECRETO-LEI N. 6.537 – DE 29 DE MAIO DE 1944
 
 Abre, ao Ministério da Educação e Saúde, o crédito de Cr$ 792.000,00 (setecentos e noventa e dois mil cruzeiros), suplementar à Verba que indica

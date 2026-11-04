@@ -1,5 +1,3 @@
-###DEC-057346-0-000-25-11-1965@@@
-
 DECRETO Nº 57.346, DE 25 DE NOVEMBRO DE 1965.
 
 Retifica o Decreto nº 56.343, de 21 maio de 1965.

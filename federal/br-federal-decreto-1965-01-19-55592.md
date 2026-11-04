@@ -1,5 +1,3 @@
-###DEC-055592-0-000-19-01-1965@@@
-
 DECRETO Nº 55.592, DE 19 DE JANEIRO DE 1965.
 
 Cria fundação na antiga Tabela Única de Extranumerários-mensalistas do Ministério da Educação e Cultura, em cumprimento de decisão judicial passada em julgado e dá outras providências.

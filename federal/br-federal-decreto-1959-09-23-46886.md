@@ -1,5 +1,3 @@
-###DEC-046886-0-000-23-09-1959@@@
-
 DECRETO Nº 46.886, DE 23 DE SETEMBRO DE 1959.
 
 Declara de utilidade pública, para desapropriação, terrenos que menciona em Barbacena (MG), necessários ao Ministério da Aeronáutica.

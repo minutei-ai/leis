@@ -1,5 +1,3 @@
-###DEL-008453-0-000-26-12-1945@@@
-
 DECRETO-LEI N. 8.453 – DE 26 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 119.416,10

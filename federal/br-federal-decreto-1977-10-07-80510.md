@@ -1,5 +1,3 @@
-###DEC-080510-0-000-07-10-1977@@@
-
 DECRETO Nº 80.510, DE 7 DE OUTUBRO DE 1977.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona, situado no Município de Conceição da Barra, no Estado do Espírito Santo.

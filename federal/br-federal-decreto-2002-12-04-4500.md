@@ -1,5 +1,3 @@
-###DEC-004500-0-000-04-12-2002@@@
-
 DECRETO Nº 4.500, DE 4 DE DEZEMBRO DE 2002
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão do Instituto Nacional de Tecnologia da Informação - ITI, e dá outras providências.

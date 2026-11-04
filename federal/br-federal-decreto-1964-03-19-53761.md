@@ -1,5 +1,3 @@
-###DEC-053761-0-000-19-03-1964@@@
-
 DECRETO Nº 53.761, DE 19 DE MARÇO DE 1964.
 
 Dá nova estrutura e redação ao artigo 28 do Decreto nº 42.251, de 6 de setembro de 1957, que regulamentou a Lei nº 3.222, de 21 de julho de 1957.

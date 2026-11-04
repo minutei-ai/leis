@@ -1,5 +1,3 @@
-###DEC-004677-0-000-23-04-2003@@@
-
 DECRETO Nº 4.677, DE 23 DE ABRIL DE 2003.
 
 Dispõe sobre a execução do Trigésimo Sexto Protocolo Adicional ao Acordo de Complementação Econômica no 35, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai, da República Oriental do Uruguai e da República do Chile, de 20 de fevereiro de 2003.
@@ -20,12 +18,9 @@ Dispõe sobre a execução do Trigésimo Sexto Protocolo Adicional ao Acordo de 
 
 Brasília, 23 de abril de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Celso Luiz Nunes Amorim
+LUIZ INÁCIO LULA DA SILVA
 
-Este texto não substitui o publicado no D.O.U. de 24.4.2003
-
-ACORDO DE COMPLEMENTAÇÃO ECONOMICA Nº 35 CELEBRADO ENTRE OS GOVERNOS DOS ESTADOS PARTES DO MERCOSUL E O GOVERNO DA REPÚBLICA DO CHILE
+Celso Luiz Nunes AmorimACORDO DE COMPLEMENTAÇÃO ECONOMICA Nº 35 CELEBRADO ENTRE OS GOVERNOS DOS ESTADOS PARTES DO MERCOSUL E O GOVERNO DA REPÚBLICA DO CHILE
 
 Trigésimo Sexto Protocolo Adicional
 

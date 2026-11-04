@@ -1,5 +1,3 @@
-###DEC-045540-0-000-05-03-1959@@@
-
 DECRETO Nº 45.540, DE 5 DE MARÇO DE 1959.
 
 Renova o Decreto nº 39.983, de 13 de setembro de 1956.

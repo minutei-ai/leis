@@ -1,5 +1,3 @@
-###DEC-089061-0-000-28-11-1983@@@
-
 DECRETO Nº 89.061, DE 28 DE NOVEMBRO DE 1983
 
 Outorga concessão à TELEVISÃO MIRANTE LTDA., para explorar serviço de radiodifusão de sons e imagens - televisão, na cidade de São Luís, Estado do Maranhão.

@@ -1,5 +1,3 @@
-###DEC-095033-0-000-14-10-1987@@@
-
 DECRETO Nº 95.033, DE 14 DE OUTUBRO DE 1987
 
 Dispõe sobre a incorporação da Fundação Abrigo do Cristo Redentor à Fundação Legião Brasileira de Assistência, e dá outras providências.

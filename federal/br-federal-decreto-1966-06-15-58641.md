@@ -1,5 +1,3 @@
-###DEC-058641-0-000-15-06-1966@@@
-
 DECRETO Nº 58.641, DE 15 DE JUNHO DE 1966.
 
 Declara de utilidade pública a “Fundação de Assistência ao Menor”, com sede em Poços de Caldas, Estado de Minas Gerais.

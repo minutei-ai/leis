@@ -1,12 +1,10 @@
-###DEC-042162-0-000-28-08-1957@@@
+**DECRETO Nº 42.162, DE 28 DE AGÔSTO DE 1957.**
 
-<strong>DECRETO Nº 42.162, DE 28 DE AGÔSTO DE 1957.</strong>
+***Retifica decreto que autoriza cessão de terreno nacional interior, situado na Vila Militar, no Distrito Federal.***
 
-<em><strong>Retifica decreto que autoriza cessão de terreno nacional interior, situado na Vila Militar, no Distrito Federal.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. O artigo 1º do Decreto nº 39.968, de 12 de setembro de 1956, passa a ter a seguinte redação:
 
@@ -14,7 +12,7 @@ Artigo único. O artigo 1º do Decreto nº 39.968, de 12 de setembro de 1956, pa
 
 Rio de Janeiro, em 28 de agôsto de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 João de Oliveira Castro
 

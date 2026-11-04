@@ -1,5 +1,3 @@
-###DEC-069821-0-000-22-12-1971@@@
-
 decreto nº 69.821 - de 22 DE DEZEMBRO de 1971
 
 Declara de utilidade pública a Sociedade Educativa de Montes Claros - SOEMOC, com sede em Montes Claros, Estados de Minas Gerais.

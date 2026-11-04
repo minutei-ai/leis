@@ -1,5 +1,3 @@
-###DEL-000153-0-000-10-02-1967@@@
-
 DECRETO-LEI Nº 153, DE 10 DE FEVEREIRO DE 1967
 
 Estabelece normas para o funcionamento da Companhia Brasileira de Dragagem, constituída nos têrmos do artigo 26, da Lei nº 4.213, de 14 de fevereiro de 1963, e de acôrdo com o disposto no Decreto nº 54.046, de 23-7-64.

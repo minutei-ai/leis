@@ -1,5 +1,3 @@
-###DEC-060121-0-000-24-01-1967@@@
-
 DECRETO Nº 60.121, DE 24 DE JANEIRO DE 1967.
 
 Aprova a alteração introduzida nos Estatutos da Companhia de Seguros Garantia Industrial Paulista, relativa ao aumento do capital social.

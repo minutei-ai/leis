@@ -1,5 +1,3 @@
-###DEC-049002-0-000-04-10-1960@@@
-
 DECRETO Nº 49.002, DE 4 DE OUTUBRO DE 1960.
 
 Autoriza o cidadão brasileiro Dírceu Santos a pesquisar minério de ferro no município de Mariana, Estado de Minas Gerais.

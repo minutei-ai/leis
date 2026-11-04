@@ -1,5 +1,3 @@
-###DEC-081173-0-000-03-01-1978@@@
-
 Decreto nº 81 173 de 3 de Janeiro de 1978
 
 Concede reconhecimento às habilitações em Magistério de Educação Especial para os Deficientes Mentais e em Magistério de Educação Especial para os Deficientes da Audiocomunicação, do curso de Pedagogia, da Universidade de Caxias do Sul, Estado do Rio Grande do Sul

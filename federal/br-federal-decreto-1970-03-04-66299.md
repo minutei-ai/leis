@@ -1,5 +1,3 @@
-###DEC-066299-0-000-04-03-1970@@@
-
 DECRETO Nº 66.299 - de 4 DE MARÇO DE 1970
 
 Revoga os Decretos que concederam à emprêsa Crédit Foncier du Brésil et de L'Amérique du Sud S.A. autorização para funcionar e continuar a funcionar na República Federativa do Brasil.

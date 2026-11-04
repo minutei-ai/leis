@@ -1,5 +1,3 @@
-###DEC-061086-0-000-27-07-1967@@@
-
 decreto nº 61.086, de 27 de julho de 1967.
 
 Abre ao Ministério da Educação e Cultura, em favor da Escola Industrial Federal de Mato Grosso, o crédito suplementar de NCr$256.000,00 (duzentos e cinqüenta e seis mil cruzeiros novos) para os fins que especifica.

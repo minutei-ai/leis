@@ -1,5 +1,3 @@
-###DEC-052987-0-000-27-11-1963@@@
-
 Decreto nº 52.987, de 27 de novembro de 1963.
 
 Autoriza Industrial, Comercial e Agrícola Rio Pilões S.A. a pesquisar calcário, argila e xisto argiloso no município de Guapiara, Estado de São Paulo.

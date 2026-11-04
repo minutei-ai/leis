@@ -1,5 +1,3 @@
-###DEC-050639-0-000-20-05-1961@@@
-
 Decreto nº 50.639, de 20 de maio de 1961.
 
 Modifica o Decreto nº 50.278, de 17 de dezembro de 1961, que cria o Grupo Executivo da Indústria Cinematográfica.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098873-0-000-24-01-1990@@@
-
 DECRETO Nº 98.873, DE 24 DE JANEIRO DE 1990
 
 Renova a concessão outorgada à TELEVISÃO RIO GRANDE S.A., para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade do Rio Grande, Estado do Rio Grande do Sul.

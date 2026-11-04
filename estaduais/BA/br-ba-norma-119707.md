@@ -14,7 +14,8 @@ II - a investimentos na implantação ou expansão de sistemas integrados de tra
 
 III - ao financiamento da contrapartida do Estado, em contratos de operação de crédito celebrado com agentes nacionais e internacionais, com os mesmos objetivos dos incisos I e II."
 
-Redação do Parágrafo único do art. 1º de acordo como o [art. 1º da Lei nº 7.246, de 12 de deezembro de 1997](https://www.legislabahia.ba.gov.br/documentos/lei-no-7246-de-12-de-dezembro-de-1997#LO_7_246_Art__1).<br>
+Redação do Parágrafo único do art. 1º de acordo como o [art. 1º da Lei nº 7.246, de 12 de deezembro de 1997](https://www.legislabahia.ba.gov.br/documentos/lei-no-7246-de-12-de-dezembro-de-1997#LO_7_246_Art__1).
+
 Redação original: "Parágrafo único - Os recursos oriundos da operação autorizada nesta Lei destinam-se a investimentos em programas estaduais referentes à ampliação da oferta hídrica no semi-árido, saneamento básico e implantação de infra-estrutura para o desenvolvimento turístico, bem como ao financiamento da contrapartida do Estado, em contratos de operação de crédito celebrados com agentes financeiros nacionais e internacionais, com os mesmos objetivos."
 
 Art. 2º - As garantias e contragarantias a serem oferecidas para o cumprimento do disposto nesta Lei serão constituídas, durante o prazo de vigência do respectivo contrato, de parcelas necessárias e suficientes, das cotas de que o Estado da Bahia é titular por força do disposto no art. 159, inciso I, alínea "a", da Constituição Federal, ou outras garantias em direito admitidas.

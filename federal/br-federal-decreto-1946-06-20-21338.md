@@ -1,14 +1,12 @@
-###DEC-021338-0-000-20-06-1946@@@
+**DECRETO Nº 21.338, DE 20 DE JUNHO DE 1946.**
 
-<strong>DECRETO Nº 21.338, DE 20 DE JUNHO DE 1946.</strong>
+***Modifica os artigos 4.º e 14 do Decreto n.º 20.697, de 7 de Março de 1946, que altera o Regulamento da Secretaria geral do Ministério da Guerra.***
 
-<em><strong>Modifica os artigos 4.º e 14 do Decreto n.º 20.697, de 7 de Março de 1946, que altera o Regulamento da Secretaria geral do Ministério da Guerra.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1.º O artigo 4.º do Decreto n.º 20.968, de 7 de Março do corrente ano passa a ter a seguinte redação:
+**Art**. 1.º O artigo 4.º do Decreto n.º 20.968, de 7 de Março do corrente ano passa a ter a seguinte redação:
 
 “Art. 4.º A secretaria Geral do Ministério da Guerra, comportará o número de oficiais, adiante designados, e bem assim os funcionários civis segundo lotação estabelecida e o pessoal extranumerário de acôrdo com as necessidades do serviço.
 
@@ -68,7 +66,7 @@ Adjuntos:
 
 Um Capitão da ativa.
 
-<em>1.ª SUB-DIVISÃO</em>
+*1.ª SUB-DIVISÃO*
 
 Chefe:
 
@@ -108,14 +106,14 @@ Encarregado:
 
 Um subalterno do Q.A.O. ou da Reserva.
 
-<strong>Art</strong>. 2.º O artigo 13, alínea e, do citado Decreto n.º 20.697, passa a ter a seguinte redação:
+**Art**. 2.º O artigo 13, alínea e, do citado Decreto n.º 20.697, passa a ter a seguinte redação:
 
 “e) organizar o Boletim do Exército e o Almanaque do Ministério da Guerra”.
 
-<strong>Art</strong>. 3.º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3.º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 20 de Junho de 1946, 125.º da Independência e 58.º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 P. Góes Monteiro

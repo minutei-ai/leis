@@ -1,5 +1,3 @@
-###DEC-067132-0-000-03-09-1970@@@
-
 DECRETO Nº 67.132, DE 3 DE SETEMBRO DE 1970.
 
 Autorização para o funcionamento de Curso de Psicologia da Faculdade de Filosofia, Ciências e Letras "Sagrado Coração de Jesus" de Bauru, São Paulo.

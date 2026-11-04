@@ -1,5 +1,3 @@
-###DEL-003323-0-000-30-05-1941@@@
-
 DECRETO-LEI N. 3.323 – DE 30 DE MAIO DE 1941
 
 Aprova os uniformes destinados ao uso dos oficiais e praças da Força Aérea Brasileira

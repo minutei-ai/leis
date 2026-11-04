@@ -1,5 +1,3 @@
-###DEC-045824-0-000-16-04-1959@@@
-
 DECRETO Nº 45.824, DE 16 DE ABRIL DE 1959.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$12.000.000,00, para o fim que específica.

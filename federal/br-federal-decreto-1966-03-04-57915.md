@@ -1,5 +1,3 @@
-###DEC-057915-0-000-04-03-1966@@@
-
 DECRETO Nº 57.915, DE 4 DE MaRÇO DE 1966.
 
 Autoriza o cidadão brasileiro José Ignacio de Mesquita Sampaio a lavrar apatita, magnetita e calcário no município de Jacupiranga, Estado de São Paulo.

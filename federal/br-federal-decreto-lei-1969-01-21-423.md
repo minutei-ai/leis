@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/483967e5-1a1a-40ef-9550-244a9c233010/texto#nowhere)
 
-###DEL-000423-0-000-21-01-1969@@@
-
 DECRETO-LEI Nº 423, DE 21 DE JANEIRO DE 1969
 
 Dá nova redação ao artigo 4º da Lei nº 5.371, de 5 de dezembro de 1967.

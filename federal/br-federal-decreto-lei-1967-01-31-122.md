@@ -1,5 +1,3 @@
-###DEL-000122-0-000-31-01-1967@@@
-
 DECRETo-LEI Nº 122, De 31 DE janeiro DE 1967
 
 Reorganiza o Departamento Nacional de Estradas de Rodagem e dá outras providências.

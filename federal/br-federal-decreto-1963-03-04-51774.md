@@ -1,5 +1,3 @@
-###DEC-051774-0-000-04-03-1963@@@
-
 Decreto nº 51.774, de 04 de MARÇO de 1963.
 
 Autoriza a Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul a ampliar suas instalações.

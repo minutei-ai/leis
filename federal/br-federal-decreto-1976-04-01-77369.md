@@ -1,5 +1,3 @@
-###DEC-077369-0-000-01-04-1976@@@
-
 DECRETO Nº 77.369 - DE 1º DE ABRIL DE 1976
 
 Concede reconhecimento ao curso de Odontologia, do Centro de Ciências Biológicas e da Saúde, da Universidade Regional do Nordeste, com sede na Cidade de Campina Grande, Estado da Paraíba.

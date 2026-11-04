@@ -1,5 +1,3 @@
-###DEL-005268-0-000-22-02-1943@@@
-
 DECRETO‑LEI N. 5.268 – DE 22 DE FEVEREIRO DE 1943
 
 Eleva o padrão de vencimento dos cargos de Diretor das Escolas Técnicas e das Escolas Industriais, e dá outras providências

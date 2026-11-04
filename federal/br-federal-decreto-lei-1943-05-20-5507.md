@@ -1,5 +1,3 @@
-###DEL-005507-0-000-20-05-1943@@@
-
 DECRETO-LEI N. 5.507 – DE 20 DE MAIO DE 1943
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 10.000,00, à verba que especifica

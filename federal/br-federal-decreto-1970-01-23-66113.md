@@ -1,5 +1,3 @@
-###DEC-066113-0-000-23-01-1970@@@
-
 DECRETO Nº 66.113 - DE 23 DE JANEIRO DE 1970
 
 Cria a Embaixada do Brasil no Reino da Arábia Saudita

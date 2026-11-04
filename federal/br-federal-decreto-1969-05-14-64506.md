@@ -1,5 +1,3 @@
-###DEC-064506-0-000-14-05-1969@@@
-
 DECRETO Nº 64.506, DE 14 DE MAIO DE 1969.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão que se entenderá desde a subestação de Retiro Saudoso à localidade de Fazendinha, no Município de Resende, no Estado do Rio de Janeiro.

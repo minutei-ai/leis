@@ -1,5 +1,3 @@
-###DEC-007466-0-000-26-04-2011-PUB-01@@@
-
 DECRETO Nº 7.466, DE 26 DE ABRIL DE 2011
 
 Prorroga a vacatio legis dos Decretos nºs 7.462, de 19 de abril de 2011, e 7.465, de 25 de abril de 2011.

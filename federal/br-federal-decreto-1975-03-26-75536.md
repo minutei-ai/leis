@@ -1,5 +1,3 @@
-###DEC-075536-0-000-26-03-1975@@@
-
 DECRETO Nº 75.536, DE 26 DE MARÇO DE 1975.
 
 Autoriza o funcionamento da habilitação em Educação Moral e Cívica no curso de Estudos Sociais da Faculdade de Filosofia, Ciência e Letras de Duque de Caxias mantida pela Fundação Educacional de Duque de Caxias, com sede na Cidade de Duque de Caxias, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-086219-0-000-15-07-1981@@@
-
 Decreto nº 86.219, de 15 de julho de 1981
 
 Renova por 15 (quinze) anos a concessão outorgada à RÁDIO E TELEVISÃO IGUAÇU S.A., para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Curitiba, Estado do Paraná.

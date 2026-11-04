@@ -1,5 +1,3 @@
-###DEC-091202-0-000-25-04-1985@@@
-
 Decreto nº 91.202, de 25 de abril de 1985.
 
 Altera o artigo 4º do Decreto nº 91.177, de 29 de março de 1985, que instituiu Comissão Nacional para reformulação da educação superior.

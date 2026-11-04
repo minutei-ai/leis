@@ -1,5 +1,3 @@
-###DEC-050511-0-000-26-04-1961@@@
-
 DECRETO Nº 50.511, DE 26 DE ABRIL DE 1961.
 
 Coloca à disposição do Ministério de Minas e Energia o pessoal que especifica.

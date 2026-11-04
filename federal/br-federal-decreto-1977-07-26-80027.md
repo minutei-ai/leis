@@ -1,5 +1,3 @@
-###DEC-080027-0-000-26-07-1977@@@
-
 DECRETO Nº 80.027,DE 26 DE JULHO DE 1977
 
 Concede reconhecimento ao curso de Estudos Sociais, do Centro de Ensino Superior, com sede na cidade de Chapecó, Estado de Santa Catarina.

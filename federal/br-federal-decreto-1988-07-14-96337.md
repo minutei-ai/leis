@@ -1,5 +1,3 @@
-###DEC-096337-0-000-14-07-1988@@@
-
 DECRETO N° 96.337, DE 14 DE JULHO DE 1988
 
 Outorga concessão ao SISTEMA TROPICAL RONDONIENSE DE COMUNICAÇÕES LTDA. para explorar serviço de radiodifusão de sons e imagens /televisão, na Cidade de Pimenta Bueno, Estado de Rondônia.

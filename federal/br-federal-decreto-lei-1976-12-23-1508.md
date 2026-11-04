@@ -1,5 +1,3 @@
-###DEL-001508-0-000-23-12-1976@@@
-
 # DECRETO-LEI Nº 1.508, DE 23 DE dezembro DE 1976
 
 Altera para o exercício de 1977 a distribuição do produto da arrecadação dos impostos que menciona.

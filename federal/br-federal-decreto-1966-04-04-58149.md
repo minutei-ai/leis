@@ -1,5 +1,3 @@
-###DEC-058149-0-000-04-04-1966@@@
-
 DECRETO Nº 58.149, DE 4 DE ABRIL DE 1966.
 
 Autoriza o cidadão brasileiro Vicente Martins Fernandes a pesquisar diatomita no município de Ceará-Mirim, Estado do Rio Grande do Norte.

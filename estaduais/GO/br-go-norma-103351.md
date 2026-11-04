@@ -12,16 +12,10 @@ Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
 PALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 02 de setembro de 2020; 132º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
 
 CORONEL ADAILTON
 
-Deputado Estadual
-
-Este texto não substitui o publicado no D.O. de 03-09-
-
-2020.
+Deputado Estadual2020.

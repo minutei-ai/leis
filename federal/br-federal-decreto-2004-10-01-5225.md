@@ -1,5 +1,3 @@
-###DEC-005225-0-000-01-10-2004@@@
-
 DECRETO Nº 5.225 DE 1º DE OUTUBRO DE 2004
 
 Altera dispositivos do Decreto nº 3.860, de 9 de julho de 2001, que dispõe sobre a organização do ensino superior e a avaliação de cursos e instituições, e dá outras providências.

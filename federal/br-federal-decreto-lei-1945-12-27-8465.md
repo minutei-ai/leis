@@ -1,5 +1,3 @@
-###DEL-008465-0-000-27-12-1945@@@
-
 DECRETO-LEI N. 8.465 – DE 27 DE DEZEMBRO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a vender aos servidores da Prefeitura, por intermédio do Banco da Prefeitura do Distrito Federal S.A., os imóveis que menciona.

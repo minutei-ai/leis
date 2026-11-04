@@ -1,5 +1,3 @@
-###DEC-089429-0-000-08-03-1984@@@
-
 Decreto nº 89.429, de 08 de março de 1984.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Unaí, no Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-088087-0-000-08-02-1983@@@
-
 DECRETO Nº 88.087, DE 8 DE FEVEREIRO DE 1983.
 
 Autoriza o aumento do Capital Social da Companhia Siderúrgica da Amazônia - SIDERAMA.

@@ -18,11 +18,14 @@ Art. 3º Esta Lei entra em vigor na data de sua publicação.
 
 Aparecida de Goiânia, 13 de julho de 2026.
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia
 
-TATA TEIXEIRA<br>
+TATA TEIXEIRA
+
 Vereador
 
-TALES DE CASTRO<br>
+TALES DE CASTRO
+
 Vereador

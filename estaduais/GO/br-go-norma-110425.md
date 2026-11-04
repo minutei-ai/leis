@@ -12,7 +12,8 @@ Art. 1º Fica instituído, na Secretaria de Estado da Educação – SEDUC, o Au
 
 § 2º Poderão ser beneficiários do Auxílio-Locomoção ao Gestor Escolar os comandantes dos Colégios da Polícia Militar do Estado de Goiás no desempenho dessa função.
 
-~~§ 3º Fica vedado o pagamento do benefício instituído por este Decreto ao Gestor Escolar que estiver lotado em escola conveniada.~~<br>
+~~§ 3º Fica vedado o pagamento do benefício instituído por este Decreto ao Gestor Escolar que estiver lotado em escola conveniada.~~
+
 \- [Revogado pelo Decreto nº 10.724, de 8-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111042), art. 2º.
 
 Art. 2º O Auxílio-Locomoção ao Gestor Escolar, de caráter indenizatório, caracteriza-se como rendimento não tributável, sem incidência de contribuição previdenciária, e não será incorporado, em qualquer hipótese, à remuneração mensal do servidor nem computado para efeito do 13º salário e para a base de cálculo da margem consignável, também não será acumulado para a concessão de quaisquer outros acréscimos pecuniários ulteriores, sob o mesmo título ou idêntico fundamento.

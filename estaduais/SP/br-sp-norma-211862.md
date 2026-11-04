@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211862)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/ato.da.mesa/2025/compilacao-ato.da.mesa-32-17.11.2025.html)
 
 # ATO DA MESA N° 32, DE 17 DE NOVEMBRO DE 2025

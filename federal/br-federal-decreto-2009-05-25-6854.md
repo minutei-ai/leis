@@ -1,5 +1,3 @@
-###DEC-006854-0-000-25-05-2009@@@
-
 DECRETO Nº 6.854, DE 25 DE MAIO DE 2009.
 
 Dispõe sobre o Regulamento da Reserva da Aeronáutica.

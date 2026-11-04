@@ -1,5 +1,3 @@
-###DEC-057523-0-000-28-12-1965@@@
-
 Decreto nº 57.523, de 28 de Dezembro de 1965.
 
 Renova o Decreto n.º 1.708, de 29 de maio de 1962.

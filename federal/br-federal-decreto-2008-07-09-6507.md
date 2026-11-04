@@ -1,5 +1,3 @@
-###DEC-006507-0-000-09-07-2008@@@
-
 DECRETO Nº 6.507, DE 9 DE JULHO DE 2008.
 
 Regulamenta a Gratificação pela Qualidade do Desempenho no Inmetro - GQDI, de que trata o art. 61 da Lei no 11.355, de 19 de outubro de 2006.

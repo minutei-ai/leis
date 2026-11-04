@@ -1,5 +1,3 @@
-###DEC-061599-0-000-24-10-1967@@@
-
 DECRETO Nº 61.599, DE 24 DE OUTUBRO DE 1967.
 
 Altera a Tabela Única de Mensalistas do Ministério da Aeronáutica e dá outras providências.

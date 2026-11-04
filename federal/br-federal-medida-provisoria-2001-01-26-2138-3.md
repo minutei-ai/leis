@@ -1,5 +1,3 @@
-###MPV-002138-0-003-26-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.138-3, DE 26 DE JANEIRO DE 2001
 
 Define normas de regulação para o setor de medicamentos, institui a Fórmula Paramétrica de Reajuste de Preços de Medicamentos - FPR, cria a Câmara de Medicamentos e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-052158-0-000-25-06-1963@@@
-
 DECRETO Nº 52.158, DE 25 DE JUNHO DE 1963.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 38.262, de 30 de novembro de 1955, para efeito de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, de área de terreno necessária à construção do açude público “Zé Manuel”, no Município de Casa Nova, no Estado da Bahia.

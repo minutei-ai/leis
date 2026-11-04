@@ -1,19 +1,17 @@
-###DEC-024252-0-000-23-12-1947@@@
+**DECRETO N. 24.252 – DE 23 DE DEZEMBRO DE 1947**
 
-<strong>DECRETO N. 24.252 – DE 23 DE DEZEMBRO DE 1947</strong>
+***Extingue cargo excedente***
 
-<em><strong>Extingue cargo excedente</strong></em>
+O Presidente da República, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do art. 1º, alínea *n* do Decreto-lei nº 3.195 de 14-4-41,
 
-O Presidente da República, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do art. 1º, alínea <em>n</em> do Decreto-lei nº 3.195 de 14-4-41,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art.** 1º Fica extinto um cargo excedente da classe I da carreira de Técnico de Administração do Quadro Permanente do Departamento Administrativo do Serviço Público, vago em virtude da exoneração de Ney Gomes Pereira, devendo a dotação correspondente ser levada a crédito da Conta Corrente do mesmo Quadro do referido Departamento.
 
-<strong>Art.</strong> 1º Fica extinto um cargo excedente da classe I da carreira de Técnico de Administração do Quadro Permanente do Departamento Administrativo do Serviço Público, vago em virtude da exoneração de Ney Gomes Pereira, devendo a dotação correspondente ser levada a crédito da Conta Corrente do mesmo Quadro do referido Departamento.
-
-<strong>Art.</strong> 2º Revogam-se as disposições em contrário.
+**Art.** 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 23 de dezembro de 1947, 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Adroaldo Mesquita da Costa.

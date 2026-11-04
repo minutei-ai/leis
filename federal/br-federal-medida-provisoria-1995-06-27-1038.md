@@ -1,7 +1,3 @@
-1
-
-###MPV-001038-0-000-27-06-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.038, DE 27 DE JUNHO 1995.
 
 Dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

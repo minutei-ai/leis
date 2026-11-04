@@ -1,5 +1,3 @@
-###DEC-054992-0-000-13-11-1964@@@
-
 DECRETO Nº 54.992, DE 13 DE NOVEMBRO DE 1964.
 
 Abre pelo Ministério da Fazenda o crédito especial de Cr$800.000.000,00 para o fim que especifica.

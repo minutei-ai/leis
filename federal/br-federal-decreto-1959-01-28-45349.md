@@ -1,5 +1,3 @@
-###DEC-045349-0-000-28-01-1959@@@
-
 Decreto nº 45.349, de 28 de janeiro de 1959.
 
 Autoriza o Serviço do Patrimônio da União aceitar a doação do terreno que menciona, situado no Município de Monte Alto, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-053177-0-000-11-12-1963@@@
-
 DECRETO Nº 53.177, DE 11 DE DEZEMBRO DE 1963.
 
 Autoriza Mineração Bico D’Arara S.A. a lavrar cassiterita no município de Carnaúba dos Dantas, Estado do Rio Grande do Norte.

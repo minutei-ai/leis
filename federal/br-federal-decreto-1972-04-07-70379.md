@@ -1,5 +1,3 @@
-###DEC-070379-0-000-07-04-1972@@@
-
 DECRETO Nº 70.379, DE 7 DE ABRIL DE 1972.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de Santo André, com os Cursos de Ciências Sociais, Matemática, Letras e Pedagogia - Santo André - SP.

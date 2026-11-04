@@ -1,5 +1,3 @@
-###DEC-069476-0-000-05-11-1971@@@
-
 DECRETO Nº 69.476 - DE 5 DE NOVEMBRO DE 1971
 
 Autoriza contratação de operação externa e dá outras providências.

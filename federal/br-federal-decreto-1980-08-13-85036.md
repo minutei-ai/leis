@@ -1,5 +1,3 @@
-###DEC-085036-0-000-13-08-1980@@@
-
 Decreto nº 85.036, de 13 de agosto de 1980.
 
 Autoriza o aumento da potência da RÁDIO PLANETÁRIO LTDA., na cidade de Espumoso, Estado do Rio Grande do Sul.

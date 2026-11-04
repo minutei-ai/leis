@@ -1,5 +1,3 @@
-###DEC-057104-0-000-19-10-1965@@@
-
 Decreto nº 57.104, de 19 de outubro de 1965.
 
 Declara de utilidade pública o Herbário “Barbosa Rodrigues”, com sede em Itajaí, Estado de Santa Catarina.

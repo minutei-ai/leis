@@ -1,5 +1,3 @@
-###DEC-058121-0-000-30-03-1966@@@
-
 DECRETO Nº 58.121, DE 30 DE MARÇO DE 1966.
 
 Concede autorização para funcionar como emprêsa de energia elétrica.

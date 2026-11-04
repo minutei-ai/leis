@@ -40,21 +40,125 @@ TABELA ESPECIAL
 
 MAGISTRATURA
 
-<table style="width: 326.05pt; margin-left: 63.8pt; border-collapse: collapse; border: none; mso-border-alt: solid black .75pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="435" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 7.0cm; border: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Cargos</span></p></td><td style="width: 127.6pt; border: solid black .75pt; border-left: none; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>Vencimentos mensal</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Desembargador</span></p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>Cr$180.000,00</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Juiz de Direito de 4ª Entrância</span></p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>162.000,00</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Juiz de Direito de 3ª Entrância</span></p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>137,700,00</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Juiz de Direito de 2ª Entrância</span></p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>117.000,00</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Juiz de Direito de 1ª Entrância</span></p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>99.500,00</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Pretor de 4ª Entrância</span></p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>137.700,00</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Pretor de 3ª Entrância</span></p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>117.000,00</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Pretor de 2ª Entrância</span></p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>99.500,00</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Pretor de 1ª Entrância</span></p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>84.500,00</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Auditor da Polícia Militar</span></p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>137.700,00</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Subistituto do Auditor da Policia Militar</span></p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>84.500,00</span></p></td></tr></tbody></table>
+Cargos
+
+Vencimentos mensal
+
+Desembargador
+
+Cr$180.000,00
+
+Juiz de Direito de 4ª Entrância
+
+162.000,00
+
+Juiz de Direito de 3ª Entrância
+
+137,700,00
+
+Juiz de Direito de 2ª Entrância
+
+117.000,00
+
+Juiz de Direito de 1ª Entrância
+
+99.500,00
+
+Pretor de 4ª Entrância
+
+137.700,00
+
+Pretor de 3ª Entrância
+
+117.000,00
+
+Pretor de 2ª Entrância
+
+99.500,00
+
+Pretor de 1ª Entrância
+
+84.500,00
+
+Auditor da Polícia Militar
+
+137.700,00
+
+Subistituto do Auditor da Policia Militar
+
+84.500,00
 
 MINISTÉRIO PÚBLICO
 
-<table style="width: 326.05pt; margin-left: 63.8pt; border-collapse: collapse; border: none; mso-border-alt: solid black .75pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="435" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 7.0cm; border: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Procurador</span></p></td><td style="width: 127.6pt; border: solid black .75pt; border-left: none; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>180.000,00</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Sub-Procurador</span></p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>162.000,00</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Sub-Procurador do Tribunal de Contas</span></p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>162.000,00</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Aux. do Subprocurador do Tribunal de Contas</span></p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>137.000,00</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Curador</span></p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>137.700,00</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Sub-Procurador das Massas Falidas</span></p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>117.000,00</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Adjunto de Prom. Público da Capital</span></p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>117.000,00</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Promotor Público de 4ª Entrância</span></p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>137.700,00</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Promotor Público da 3ª Entrância</span></p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>117.000,00</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Promotor Público da 2ª Entrância</span></p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>99.500,00</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Promotor Público de 1ª Entrância</span></p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>84.500,00</span></p></td></tr></tbody></table>
+Procurador
+
+180.000,00
+
+Sub-Procurador
+
+162.000,00
+
+Sub-Procurador do Tribunal de Contas
+
+162.000,00
+
+Aux. do Subprocurador do Tribunal de Contas
+
+137.000,00
+
+Curador
+
+137.700,00
+
+Sub-Procurador das Massas Falidas
+
+117.000,00
+
+Adjunto de Prom. Público da Capital
+
+117.000,00
+
+Promotor Público de 4ª Entrância
+
+137.700,00
+
+Promotor Público da 3ª Entrância
+
+117.000,00
+
+Promotor Público da 2ª Entrância
+
+99.500,00
+
+Promotor Público de 1ª Entrância
+
+84.500,00
 
 TRIBUNAL DE CONTAS
 
-<table style="width: 326.05pt; margin-left: 63.8pt; border-collapse: collapse; border: none; mso-border-alt: solid black .75pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="435" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 7.0cm; border: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Conselheiro</span></p></td><td style="width: 127.6pt; border: solid black .75pt; border-left: none; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>180.000,00</span></p></td></tr></tbody></table>
+Conselheiro
+
+180.000,00
 
 ADVOGADOS DO ESTADO
 
-<table style="width: 326.05pt; margin-left: 63.8pt; border-collapse: collapse; border: none; mso-border-alt: solid black .75pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="435" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 7.0cm; border: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Consultor Jurídico</span></p></td><td style="width: 127.6pt; border: solid black .75pt; border-left: none; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>137.700,00</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Assistente Jurídico</span></p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>137.700,00</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Procurador Judicial</span></p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>137.700,00</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Advogado Assist. da Justiça Militar</span></p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto"><span>137.700,00</span></p></td></tr></tbody></table>
+Consultor Jurídico
 
-* * *
+137.700,00
+
+Assistente Jurídico
+
+137.700,00
+
+Procurador Judicial
+
+137.700,00
+
+Advogado Assist. da Justiça Militar
+
+137.700,00
+
+ *
 
 1.845
 

@@ -1,5 +1,3 @@
-###DEC-055700-0-000-02-02-1965@@@
-
 DECRETO Nº 55.700, DE 2 DE FEVEREIRO DE 1965.
 
 Autoriza o cidadão brasileiro Cláudio Sant’Anna a pesquisar mármore e calcita, no município de Cachoeiro do Itapemirim, Estado do Espirito Santo.

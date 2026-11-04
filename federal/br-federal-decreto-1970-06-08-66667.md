@@ -1,5 +1,3 @@
-###DEC-066667-0-000-08-06-1970@@@
-
 DECRETO Nº 66.667, DE 8 DE JUNHO DE 1970.
 
 Declara de utilidade pública a Associação Cultural Educativa e de Assistência Social, com sede em Governador Valadares, Estado de Minas Gerais.

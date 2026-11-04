@@ -1,5 +1,3 @@
-###DEL-006526-0-000-24-05-1944@@@
-
 DECRETO-LEI N. 6.526 – DE 24 DE MAIO DE 1944
 
 Cria função gratificada no Quadro Permanente do Ministério da Agricultura e dá outras providências

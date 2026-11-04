@@ -1,5 +1,3 @@
-###DEC-057174-0-000-04-11-1965@@@
-
 Decreto nº 57.174, de 4 de novembro de 1965.
 
 Altera o Decreto nº 43.101, de 24 de janeiro de 1958.

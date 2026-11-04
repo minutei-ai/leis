@@ -1,5 +1,3 @@
-###DEC-060238-0-000-17-02-1967@@@
-
 DECRETO Nº 60.238, DE 17 DE FEVEREIRO DE 1967.
 
 Concede à “Nobara” - Sociedade de Mineração Comércio e Indústria Limitada, autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-052463-0-000-12-09-1963@@@
-
 DECRETO Nº 52.463, DE 12 DE SETEMBRO DE 1963.
 
 Cria, diretamente subordinado ao Ministério de Estado das Minas e Energia, o Setor de Hidrogeologia.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099709-0-000-21-11-1990@@@
-
 DECRETO N° 99.709, DE 21 DE NOVEMBRO DE 1990
 
 Dispõe sobre a administração dos assuntos relativos aos servidores dos extintos Territórios Federais do Acre, Amapá, Rondônia e Roraima.

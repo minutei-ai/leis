@@ -1,5 +1,3 @@
-###DEC-047699-0-000-22-01-1960@@@
-
 DECRETO Nº 47.699, DE 22 DE JANEIRO DE 1960.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Apucarana, no Estado do Paraná.

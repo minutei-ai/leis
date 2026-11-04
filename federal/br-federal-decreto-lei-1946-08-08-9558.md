@@ -1,5 +1,3 @@
-###DEL-009558-0-000-08-08-1946@@@
-
 dECRETO-LEI N. 9.558 – DE 8 DE AGÔSTO DE 1946
 
 Dispõe sôbre o pessoal extranumerário e o pessoal de obras da Prefeitura do Distrito Federal.

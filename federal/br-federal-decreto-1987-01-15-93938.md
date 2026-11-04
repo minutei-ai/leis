@@ -1,5 +1,3 @@
-###DEC-093938-0-000-15-01-1987@@@
-
 DECRETO Nº 93.938, DE 15 DE JANEIRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, objetivando a reforma agrária, o imóvel rural denominado "ARARAS", no Município de Marabá, Estado do Pará, compreendido na área prioritária de que trata o Decreto nº 92.623, de 02 de maio de 1986, e dá outras providências.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/85b356ae-a053-44d2-83dd-88e16437b612/texto#nowhere)
 
-###DEL-000773-0-000-20-08-1969@@@
-
 DECRETO-LEI Nº 773, DE 20 de AGÔSTO DE 1969
 
 Provê sôbre a criação da Federação das Escolas Federais Isoladas do Estado da Guanabara (FEFIEG), e dá outras providências.

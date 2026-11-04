@@ -1,5 +1,3 @@
-###DEL-006294-0-000-25-02-1944@@@
-
 DECRETO-LEI N. 6.294 – DE 25 DE FEVEREIRO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 43.882.625,10, para liquidação de débitos da Rêde de Viação Paraná-Santa Catarina

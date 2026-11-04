@@ -1,5 +1,3 @@
-###DEC-070848-0-000-17-07-1972@@@
-
 DECRETO Nº 70.848, DE 17 DE JULHO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Ciências Econômicas, Administrativas e Contábeis, da Fundação Universitária Municipal de São João Del Rei - MG.

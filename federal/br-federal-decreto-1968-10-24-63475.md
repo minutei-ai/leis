@@ -1,6 +1,4 @@
-###DEC-063475-0-000-24-10-1968@@@
-
-<strong>DECRETO Nº 63.475, DE 24 DE OUTUBRO DE 1968.</strong>
+**DECRETO Nº 63.475, DE 24 DE OUTUBRO DE 1968.**
 
 <!-- fac-simile-oficial:inicio -->
 

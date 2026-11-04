@@ -1,5 +1,3 @@
-###DEC-054452-0-000-14-10-1964@@@
-
 Decreto nº 54.452, de 14 de outubro de 1964.
 
 Outorga à Companhia de Eletricidade do Estado da Bahia, concessão para distribuir energia elétrica e dá outras providências.

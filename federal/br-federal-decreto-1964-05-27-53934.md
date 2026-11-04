@@ -1,5 +1,3 @@
-###DEC-053934-0-000-27-05-1964@@@
-
 DECRETO Nº 53.934, DE 27 DE MAIO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação, os imóveis que menciona, em Belém, Estado do Pará.

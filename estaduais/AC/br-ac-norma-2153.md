@@ -1,6 +1,10 @@
 > **LEI Nº 3.396, DE 26 DE JULHO DE 2018**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Estabelece a obrigatoriedade das unidades básicas de saúde a disponibilizarem a segunda via da carteira de vacinação da criança, ou documento similar, devidamente atualizada, no âmbito do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Estabelece a obrigatoriedade das unidades básicas de saúde a disponibilizarem a segunda via da carteira de vacinação da criança, ou documento similar, devidamente atualizada, no âmbito do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

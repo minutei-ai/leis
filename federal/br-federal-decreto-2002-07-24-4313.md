@@ -1,5 +1,3 @@
-###DEC-004313-0-000-24-07-2002@@@
-
 DECRETO Nº 4.313, DE 24 DE JULHO DE 2002
 
 Regulamenta o Programa Nacional de Renda Mínima vinculado à educação - "Bolsa Escola", e dá outras providências.

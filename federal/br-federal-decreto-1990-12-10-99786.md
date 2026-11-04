@@ -1,7 +1,3 @@
-1
-
-###DEC-099786-0-000-10-12-1990@@@
-
 # DECRETO N° 99.786, DE 10 DE DEZEMBRO DE 1990
 
 Dispõe sobre a execução das Atas de Retificação do Quarto Protocolo Adicional ao Acordo de Alcance Parcial de Complementação Econômica, entre o Brasil e o Uruguai (Acordo nº 2).

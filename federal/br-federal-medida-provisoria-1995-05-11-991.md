@@ -1,7 +1,3 @@
-1
-
-###MPV-000991-0-000-11-05-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 991, DE 11 DE MAIO DE 1995
 
 Estabelece normas para outorga e prorrogação das concessões e permissões de serviços públicos, e dá outras providências.

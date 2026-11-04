@@ -1,5 +1,3 @@
-###DEC-001936-0-000-20-06-1996@@@
-
 DECRETO N° 1.936, DE 20 DE JUNHO DE 1996.
 
 Altera dispositivos do Decreto n° 1.488, de 11 de maio de 1995, que regulamenta as normas que disciplinam os procedimentos administrativos relativos à aplicação de medidas de salvaguarda.

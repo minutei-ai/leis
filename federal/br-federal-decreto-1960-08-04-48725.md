@@ -1,5 +1,3 @@
-###DEC-048725-0-000-04-08-1960@@@
-
 DECRETO N. 48.725 – DE 4 DE AGÔSTO DE 1960
 
 Concede permissão para que a Companhia Industrial de Papel Pirahy, estabelecida no Distrito de Santanásia, Município de Pírai, Estado do Rio de Janeiro, funcione aos domingos e nos feriados civis e religiosos.

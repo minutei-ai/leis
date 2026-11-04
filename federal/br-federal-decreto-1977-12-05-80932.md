@@ -1,5 +1,3 @@
-###DEC-080932-0-000-05-12-1977@@@
-
 DECRETO Nº 80.932, DE 05 DE DEZEMBRO DE 1977.
 
 Revoga o Decreto nº 60.445, de 13 de março de 1967, que autorizou a Rádio Ribeirão Preto S.A. a aumentar a potência de seus transmissores.

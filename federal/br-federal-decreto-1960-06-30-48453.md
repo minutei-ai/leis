@@ -1,5 +1,3 @@
-###DEC-048453-0-000-30-06-1960@@@
-
 decreto nº 48.453, de 30 de junho de 1960.
 
 Transfere função da Tabela Numérica Especial de Extranumerário-mensalista da base Aérea do Recife para a do Quartel General da 2ª Zona Aérea.

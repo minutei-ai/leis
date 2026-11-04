@@ -1,5 +1,3 @@
-###DEC-079921-0-000-11-07-1977@@@
-
 DECRETO Nº 79.921, DE 11 DE JULHO DE 1977
 
 Declara a caducidade da concessão de lavra que menciona.

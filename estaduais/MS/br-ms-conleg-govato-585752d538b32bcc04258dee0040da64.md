@@ -6,15 +6,16 @@ Declara de Utilidade Pública Estadual a Associação de Proteção Animal do Mu
 
 Publicada no Diário Oficial nº 12.146, de 5 de maio de 2026, página 2.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica declarada de Utilidade Pública Estadual a Associação de Proteção Animal do Município de Jardim MS (APAJ), com sede no Município de Jardim.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica declarada de Utilidade Pública Estadual a Associação de Proteção Animal do Município de Jardim MS (APAJ), com sede no Município de Jardim.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 4 de maio de 2026.
 
-<br>
-EDUARDO CORRÊA RIEDEL<br>
+EDUARDO CORRÊA RIEDEL
+
 Governador do Estado

@@ -1,5 +1,3 @@
-###DEC-090725-0-000-19-12-1984@@@
-
 # Decreto nº 90.725, de 19 de dezembro de 1984
 
 Institui a Comissão Assessora de Assuntos Científicos e Tecnológicos das Forças Armadas.

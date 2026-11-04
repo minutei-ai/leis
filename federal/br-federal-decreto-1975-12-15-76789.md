@@ -1,5 +1,3 @@
-###DEC-076789-0-000-15-12-1975@@@
-
 decreto nº 76.789, de 15 de dezembro de 1975.
 
 Concede reconhecimento ao curso de Engenharia de Materiais da Universidade Federal de São Carlos, com sede na cidade de São Carlos, Estado de São Paulo

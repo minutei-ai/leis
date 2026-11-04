@@ -1,7 +1,3 @@
-1
-
-###DEC-095591-0-000-05-01-1988@@@
-
 # DECRETO N.° 95.591, DE 5 DE JANEIRO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da Subestação de Bom Jardim, no Município de Bom Jardim, Estado do Rio de Janeiro.

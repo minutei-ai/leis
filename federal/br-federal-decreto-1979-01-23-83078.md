@@ -1,5 +1,3 @@
-###DEC-083078-0-000-23-01-1979@@@
-
 Decreto nº 83.078, de 23 de janeiro de 1979
 
 Concede reconhecimento ao curso de Formação de Professores das Disciplinas Especializadas do Ensino do 2º grau, ministrado pelo Centro de Ciências Sociais Aplicadas, com sede na cidade de Natal, Estado do Rio Grande Norte.

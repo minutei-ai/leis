@@ -1,5 +1,3 @@
-###DEC-068784-0-000-21-06-1971@@@
-
 DECRETO Nº 68.784 - DE 21 DE JUNHO DE 1971.
 
 Cria o 7º Regimento de Cavalaria Mecanizado e dá outras providências.

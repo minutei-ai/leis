@@ -1,5 +1,3 @@
-###DEC-055452-0-000-05-01-1965@@@
-
 Decreto nº 55.452, de 5 de janeiro de 1965.
 
 Autoriza Th. Badin de Minérios Ltda. a pesquisar corídon nos municípios de Andaraí, Itaberaba , Maracás e Santa Terezinha, no Estado da Bahia.

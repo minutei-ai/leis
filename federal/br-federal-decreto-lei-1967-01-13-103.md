@@ -1,5 +1,3 @@
-###DEL-000103-0-000-13-01-1967@@@
-
 DECRETO-LEI Nº 103, DE 13 DE JANEIRO DE 1967
 
 Dispõe sôbre a elevação do capital social da Fábrica Nacional de Motores S.A. e de sua transferência para o setor privado.

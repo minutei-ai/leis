@@ -1,5 +1,3 @@
-###DEC-083551-0-000-05-06-1979@@@
-
 DECRETO Nº 83.551, DE 05 DE JUNHO DE 1979.
 
 Autoriza a transferência direta para a Rádio Marumby Ltda., da concessão outorga à emissora Diário da Manhã Ltda., para executar serviço de radiodifusão sonora em onda curta, na cidade de Florianópolis, Estado de Santa Catarina.

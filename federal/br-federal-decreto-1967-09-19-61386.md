@@ -1,5 +1,3 @@
-###DEC-061386-0-000-19-09-1967@@@
-
 DECRETO Nº 61.386, DE 19 DE SETEMBRO DE 1967.
 
 Dispõe sôbre a implantação dos Sistemas de Administração Financeira, Contabilidade e Auditoria; instala as Inspetorias Gerais de Finanças e fixa sua estrutura e atribuições, e dá outras providências.

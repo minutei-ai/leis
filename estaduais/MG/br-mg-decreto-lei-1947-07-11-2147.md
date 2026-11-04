@@ -465,7 +465,3 @@ Art. 45 - Revogadas as disposições em contrário, entrará este Decreto-lei em
 Palácio da Liberdade, em Belo Horizonte, 11 de julho de 1947.
 
 Milton Soares Campos - Governador do Estado
-
-\================================================================
-
-Data da última atualização: 06/09/2006.

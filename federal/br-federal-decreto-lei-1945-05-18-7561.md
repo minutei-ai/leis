@@ -1,5 +1,3 @@
-###DEL-007561-0-000-18-05-1945@@@
-
 DECRETO-LEI N. 7.561 – DE 18 DE MAIO DE 1945
 
 Dispõe sôbre as concessões e cessões de terras devolutas à Fundação Brasil Central

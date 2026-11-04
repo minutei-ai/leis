@@ -1,5 +1,3 @@
-###DEC-081739-0-000-30-05-1978@@@
-
 Decreto nº 81.739, de 30 maio de 1978.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Emissora Veranense Ltda., posteriormente transferida à Fundação Educacional União da Serra - Rádio Veranense de Veranópolis, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Veranópolis, Estado do Rio Grande do Sul.

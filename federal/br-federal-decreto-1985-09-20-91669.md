@@ -1,5 +1,3 @@
-###DEC-091669-0-000-20-09-1985@@@
-
 Decreto nº 91.669, de 20 de setembro de 1985
 
 Renova as concessões outorgadas às entidades que menciona para explorarem serviços de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

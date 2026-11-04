@@ -1,5 +1,3 @@
-###DEC-089614-0-000-04-05-1984@@@
-
 Decreto nº 89.614, de 04 de maio de 1984
 
 Autoriza o funcionamento de habilitações do curso de Educação Artística da Faculdade de Filosofia, Ciências e Letras de Maceió.

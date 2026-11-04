@@ -1,5 +1,3 @@
-###DEC-067882-0-000-18-12-1970@@@
-
 DECRETO Nº 67.882, DE 18 DE DEZEMBRO DE 1970.
 
 Redistribui cargos, com os respectivos ocupantes para o Instituto Nacional da Previdência Social e dá outras providências.

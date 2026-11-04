@@ -1,5 +1,3 @@
-###DEC-051561-0-000-11-10-1962@@@
-
 DECRETO Nº 51.561, DE 11 DE OUTUBRO DE 1962
 
 Considera de interêsse militar funções exercidas na Superintendência do Plano de Valorização Econômica da Região da Fronteira Sudoeste.

@@ -1,5 +1,3 @@
-###DEC-082165-0-000-24-08-1978@@@
-
 Decreto nº 82.165, de 24 de agosto de 1978.
 
 Concede reconhecimento ao curso de Filosofia, ministrado pela Universidade Federal do Pará, com sede na cidade de Belém, Estado do Pará.

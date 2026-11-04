@@ -1,5 +1,3 @@
-###DEC-082279-0-000-18-09-1978@@@
-
 Decreto nº 82.279, de 18 de setembro de 1978.
 
 Dispõe sobre a encampação do Porto de Vitória, no Estado do Espírito Santo, e dá outras providências.

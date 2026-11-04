@@ -1,5 +1,3 @@
-###MPV-001901-0-027-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.901-27, DE 29 DE JUNHO DE 1999.
 
 Acresce e altera dispositivos do Decreto-Lei nº 3.365, de 21 de junho de 1941, e da Lei nº 8.629, de 25 de fevereiro de 1993, e dá outras providências.

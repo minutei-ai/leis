@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/2751)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2001/compilacao-lei-10863-03.09.2001.html)
 
 # LEI N° 10.863, DE 03 DE SETEMBRO DE 2001

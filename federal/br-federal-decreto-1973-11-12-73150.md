@@ -1,5 +1,3 @@
-###DEC-073150-0-000-12-11-1973@@@
-
 DECRETO Nº 73.150 - DE 12 NOVEMBRO DE 1973.
 
 Autoriza, até 31 de dezembro de 1974, o aproveitamento dos navios estrangeiros na cabotagem nacional.

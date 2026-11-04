@@ -1,5 +1,3 @@
-###DEC-049276-0-000-17-11-1960@@@
-
 decreto nº 49.276, de 17 de novembro de 1960.
 
 Altera a lotação de repartições atendidas pelo Quadros Permanente e Suplementar do Ministério da Agricultura.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210498)<br>
-
 # DECRETO N° 69.273, DE 30 DE DEZEMBRO DE 2024
 
 ### _Dispõe sobre a fixação de valor máximo anual para fins de pagamento da Bonificação por Resultados - BR da Secretaria da Educação, relativa ao exercício de 2024._

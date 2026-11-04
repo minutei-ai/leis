@@ -1,5 +1,3 @@
-###DEC-066404-0-000-01-04-1970@@@
-
 DECRETO Nº 66.404, DE 1º DE ABRIL DE 1970.
 
 Acrescenta item ao artigo 49 do Regulamento do Código de Mineração.

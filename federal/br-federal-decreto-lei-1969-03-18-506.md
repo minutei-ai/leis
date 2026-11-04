@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/f734a7e5-43d8-41fe-b9ca-6d7deead48cb/texto#nowhere)
 
-###DEL-000506-0-000-18-03-1969@@@
-
 DECRETO-LEI Nº 506, de 18 de março de 1969
 
 Altera a redação do item I e do § 5º do art. 576 da Consolidação das Leis do Trabalho.

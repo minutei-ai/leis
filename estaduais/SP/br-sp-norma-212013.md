@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212013)<br>
-
 # DECRETO N° 70.217, DE 16 DE DEZEMBRO DE 2025
 
 ### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de São Paulo, os imóveis que especifica._

@@ -1,5 +1,3 @@
-###DEC-072951-0-000-18-10-1973@@@
-
 Decreto nº 72.951, de 18 de outubro de 1973.
 
 Redistribui cargos com respectivos ocupantes, e dá outras providências.

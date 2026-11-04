@@ -1,5 +1,3 @@
-###DEC-052854-0-000-18-11-1963@@@
-
 DECRETO Nº 52.854, DE 18 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Aloysio Ottilio Rohr a pesquisar água mineral, no município de Pato Branco, Estado do Paraná.

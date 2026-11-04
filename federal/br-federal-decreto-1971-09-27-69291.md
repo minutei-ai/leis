@@ -1,5 +1,3 @@
-###DEC-069291-0-000-27-09-1971@@@
-
 DECRETO Nº 69.291, DE 27 de SETEMBRO DE 1971.
 
 Redistribui com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Marinha, cargos originários do extinto Serviço de Navegaao da Amazônia e de Administração do Pôrto do Pará e dá outras providências.

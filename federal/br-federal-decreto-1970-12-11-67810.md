@@ -1,5 +1,3 @@
-###DEC-067810-0-000-11-12-1970@@@
-
 DECRETO Nº 67.810, de 11 de dezembro de 1970.
 
 Declara de utilidade pública, para de constituição de servidão ou desapropriação, em favor da Petróleo Brasileiro S. A. - PETROBRÁS, imóveis, terras e benfeitorias necessários à pesquisa e lavra de petróleo, situados nos Estados da Bahia e do Espírito Santo.

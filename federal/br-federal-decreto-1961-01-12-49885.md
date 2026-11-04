@@ -1,5 +1,3 @@
-###DEC-049885-0-000-12-01-1961@@@
-
 decreto nº 49.885, de 12 de janeiro de 1961.
 
 Concede autorização à Cooperativa de Crédito dos Funcionários do Banco do Brasil para modificar seu estatuto social.

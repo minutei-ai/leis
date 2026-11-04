@@ -1,5 +1,3 @@
-###DEC-000201-0-000-26-08-1991@@@
-
 DECRETO Nº 201, DE 26 DE AGOSTO DE 1991
 
 Dispõe sobre o afastamento de servidores federais para servir em organismos internacionais.

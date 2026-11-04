@@ -1,5 +1,3 @@
-###DEC-091075-0-000-12-03-1985@@@
-
 DECRETO Nº 91.075, dE 12 DE março dE 1985
 
 Renova a concessão outorgada à RÁDIO GUAÍBA S/A, para explorar serviço de radiodifusão sonora em ondas curtas, na cidade de Porto Alegre, Estado do Rio Grande do Sul.

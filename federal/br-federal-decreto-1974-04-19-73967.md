@@ -1,5 +1,3 @@
-###DEC-073967-0-000-19-04-1974@@@
-
 Decreto nº 73.967, de 19 de abril de 1974.
 
 Concede permissão, em caráter permanente, à Companhia de Papéis - COPA, com sede no Rio de Janeiro, Estado da Guanabara, para funcionar aos domingos e nos dias feriados civis e religiosos, no estabelecimento que menciona.

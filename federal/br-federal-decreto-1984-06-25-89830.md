@@ -1,5 +1,3 @@
-###DEC-089830-0-000-25-06-1984@@@
-
 Decreto nº 89.830, de 25 de junho de 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem do ramal de linha de transmissão da Companhia Paulista de Força e Luz-CPFL, no Estado de São Paulo.

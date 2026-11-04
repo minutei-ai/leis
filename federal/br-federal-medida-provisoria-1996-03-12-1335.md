@@ -1,7 +1,3 @@
-1
-
-###MPV-001335-0-000-12-03-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.335,  DE 12 DE MARÇO DE 1996.
 
 Institui a Taxa de Juros de Longo Prazo - TJLP, dispõe sobre a remuneração dos recursos do Fundo de Participação PIS-PASEP, do Fundo de Amparo ao Trabalhador, do Fundo da Marinha Mercante, e dá outras providências.

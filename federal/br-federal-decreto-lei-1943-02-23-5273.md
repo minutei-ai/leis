@@ -1,5 +1,3 @@
-###DEL-005273-0-000-23-02-1943@@@
-
 DECRETO‑LEI N. 5.273 – DE 23 DE FEVEREIRO DE 1943
 
 Considera insalubre a zona de Brasília, no Alto Acre

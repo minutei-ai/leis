@@ -1,5 +1,3 @@
-###DEC-050908-0-000-05-07-1961@@@
-
 DECRETO Nº 50.908, DE 5 DE JULHO DE 1961.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 36.674, de 28 de dezembro de 1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público TAMBORIL, no Município de Ouricuri, no Estado de Pernambuco.

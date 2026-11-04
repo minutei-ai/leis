@@ -1,5 +1,3 @@
-###DEC-074198-0-000-21-06-1974@@@
-
 DECRETO Nº 74.198, DE 21 DE JUNHO DE 1974.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de Nova Iguaçu, mantida pela Sociedade de Ensino Superior de Nova Iguaçu, com sede na Cidade de Nova Iguaçu, Estado do Rio de Janeiro.

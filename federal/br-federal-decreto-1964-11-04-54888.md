@@ -1,5 +1,3 @@
-###DEC-054888-0-000-04-11-1964@@@
-
 DECRETO Nº 54.888, DE 4 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro, Cupertino Pinto Ribas a pesquisar diamante no município de Gouveia, Estado de Minas Gerais.

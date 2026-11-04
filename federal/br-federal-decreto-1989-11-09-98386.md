@@ -1,7 +1,3 @@
-1
-
-###DEC-098386-0-000-09-11-1989@@@
-
 DECRETO Nº 98.386, DE 09 DE NOVEMBRO DE 1989
 
 Promulga a Convenção Interamericana para Prevenir e Punir a Tortura.

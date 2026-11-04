@@ -1,5 +1,3 @@
-###DEL-000045-0-000-07-12-1937@@@
-
 DECRETO-LEI N. 45 – DE 7 DE DEZEMBRO DE 1937
 
 Abre, pelo Ministério das Relações Exteriores, o crédito especial 150:000$000 para a Comissão de Limites do Setor Oéste

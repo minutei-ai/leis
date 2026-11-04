@@ -1,5 +1,3 @@
-###DEC-082065-0-000-03-08-1978@@@
-
 Decreto nº 82.065, de 03 de agosto de 1978.
 
 Aprova a incorporação da Companhia Leste Mineira de Eletricidade pela Companhia Força e Luz Cataguazes-Leopoldina, outorga e transfere concessões e dá outras providências.

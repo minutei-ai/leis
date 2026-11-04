@@ -1,5 +1,3 @@
-###DEC-064531-0-000-19-05-1969@@@
-
 DECRETO Nº 64.531, DE 19 DE MAIO DE 1969.
 
 Declara de utilidade pública a Liga Espírita do Estado da Guanabara, com sede no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###LEI-000000-B-000-20-10-1823@@@
-
 LEI - DE 20 DE OUTUBRO DE 1823
 
 Prohibe que os Deputados á Assembléa Geral Constituinte exerçam qualquer outro emprego durante a sua Deputação, e que peçam e aceitem para si ou para outrem qualquer graça ou emprego.

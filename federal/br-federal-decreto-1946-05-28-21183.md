@@ -1,22 +1,20 @@
-###DEC-021183-0-000-28-05-1946@@@
+**DECRETO Nº 21.183, DE 28 DE MAIO DE 1946.**
 
-<strong>DECRETO Nº 21.183, DE 28 DE MAIO DE 1946.</strong>
+***Concede à sociedade “British South American Airways Limited” autorização para funcionar na República.***
 
-<em><strong>Concede à sociedade “British South American Airways Limited” autorização para funcionar na República.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, atendendo ao que requereu a sociedade “British South American Airways Limited”,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, atendendo ao que requereu a sociedade “British South American Airways Limited”,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. É concedida à sociedade “British South American Airways Limited”, com sede na cidade de Londres, Inglaterra, autorização para funcionar na República, com o capital de Cr$388.900,00 e com os estatutos que apresentou, mediante as cláusulas que com êste acompanham, assinadas pelo Ministro do Estado dos Negócios do Trabalho, Indústria e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
 
 Rio de Janeiro, 28 de maio de 1946, 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Octacilio Negrão de Lima
 
-<strong>CLÁUSULAS QUE ACOMPANHAM O DECRETO Nº 21.183, DESTA DATA.</strong>
+**CLÁUSULAS QUE ACOMPANHAM O DECRETO Nº 21.183, DESTA DATA.**
 
 I
 
@@ -46,4 +44,4 @@ A infração de qualquer das cláusulas para a qual não esteja cominada pena es
 
 Rio de Janeiro, 28 de Maio de 1946.
 
-<strong>OCTACILIO NEGRÃO DE LIMA</strong>
+**OCTACILIO NEGRÃO DE LIMA**

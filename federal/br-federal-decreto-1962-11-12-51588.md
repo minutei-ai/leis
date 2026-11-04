@@ -1,5 +1,3 @@
-###DEC-051588-0-000-12-11-1962@@@
-
 DECRETO Nº 51.588, DE 12 DE NOVEMBRO DE 1962.
 
 Suprime cargo extinto.

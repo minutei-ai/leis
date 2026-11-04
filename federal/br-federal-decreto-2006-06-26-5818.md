@@ -1,5 +1,3 @@
-###DEC-005818-0-000-26-06-2006@@@
-
 DECRETO Nº 5.818, DE 26 DE JUNHO DE 2006.
 
 Dá nova redação ao art. 7o e ao inciso I do § 2o do art. 14 do Decreto no 5.474, de 22 de junho de 2005.
@@ -31,5 +29,3 @@ I - independentemente da fonte do recurso, a homologação prévia dos projetos 
           Bernard Appy
 
           Dilma Rousseff
-
-Este texto não substitui o publicado no D.O.U. de 27.6.2006.

@@ -1,5 +1,3 @@
-###DEL-006937-0-000-06-10-1944@@@
-
 DECRETO-LEI N 6.937- DE 6 DE OUTUBRO DE 1944
 
 Reorganiza o Serviço de Estatística Demográfica, Moral e Política e dá outras providências

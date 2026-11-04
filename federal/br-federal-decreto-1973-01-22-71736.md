@@ -1,5 +1,3 @@
-###DEC-071736-0-000-22-01-1973@@@
-
 DECRETO Nº 71.736, DE 22 DE JANEIRO DE 1973.
 
 Dispõe sobre a subordinação do Centro Regional de Pesquisas Educacionais João Pinheiro e dá outras providências.

@@ -10,7 +10,8 @@ Parágrafo único - Os recursos resultantes da operação autorizada neste artig
 
 Art. 2º - As garantias e contragarantias a serem oferecidas para cumprimento do disposto nesta Lei são constituídas, durante o prazo de vigência do respectivo contrato, de parcelas necessárias e suficientes, das cotas de que o Estado da Bahia é titular, por força do disposto no artigo 159, inciso I, alínea "a", da Constituição da República Federativa do Brasil, assim como de outros bens ou direitos legais admitidos.
 
-Redação do art. 2º de acordo com o [art. 1º da Lei nº 6.904, de 22 de setembro de 1995](https://www.legislabahia.ba.gov.br/documentos/lei-no-6904-de-22-de-setembro-de-1995#LO_6_904_Art__1) .<br>
+Redação do art. 2º de acordo com o [art. 1º da Lei nº 6.904, de 22 de setembro de 1995](https://www.legislabahia.ba.gov.br/documentos/lei-no-6904-de-22-de-setembro-de-1995#LO_6_904_Art__1) .
+
 Redação original: "Art. 2º - As garantias e contragarantias a serem oferecidas para cumprimento do disposto nesta Lei serão constituídas, durante o prazo de vigência do respectivo contrato, de parcelas necessárias e suficientes, das cotas de que o Estado da Bahia é titular por força do disposto no art. 159, inciso I, alínea "a", da Constituição da República Federativa do Brasil."
 
 Art. 3º - Esta Lei entra em vigor na data da sua publicação, revogadas as disposições em contrário.

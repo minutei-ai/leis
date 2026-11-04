@@ -34,10 +34,12 @@ c) área da Avenida W-1 e Rua J-62, sendo uma parte com medidas a serem calculad
 
 d) uma parte da área pública que limita com o Clube Paraíso cuja área será calculada;
 
-e) área da quadra 64 com 33 lotes no total de 12.274,00 m².<br>
+e) área da quadra 64 com 33 lotes no total de 12.274,00 m².
+
 (Redação alterada pela Lei Ordinária nº 3.581, de 21 de setembro de 2020).
 
-~~II – Parque Municipal da Criança, situado no loteamento Mansões Paraíso, nos imóveis públicos seguintes:<br>
+~~II – Parque Municipal da Criança, situado no loteamento Mansões Paraíso, nos imóveis públicos seguintes:
+
 Paraíso, nos imóveis públicos seguintes.~~ 
 
 ~~a)    área do Clube Paraíso com 44.285,00 m²;~~
@@ -62,11 +64,14 @@ Art. 4º - Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos 23 dias do mês de abril de 2008.
 
-JOSÉ MACEDO DE ARAÚJO<br>
+JOSÉ MACEDO DE ARAÚJO
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO
 
-PAULO HENRIQUE DE TOLEDO CARDOSO<br>
+PAULO HENRIQUE DE TOLEDO CARDOSO
+
 SEC. DE REGULAÇÃO URBANA

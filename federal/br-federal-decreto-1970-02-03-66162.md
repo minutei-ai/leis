@@ -1,5 +1,3 @@
-###DEC-066162-0-000-03-02-1970@@@
-
 DECRETO Nº 66.162 - DE 3 DE FEVEREIRO DE 1970
 
 Altera dispositivos do Decreto número 64.867, de 24 de julho de 1969, que institui o Fundo Nacional de Saúde. (FNS).

@@ -1,5 +1,3 @@
-###DEC-006987-0-000-20-10-2009@@@
-
 DECRETO Nº 6.987, DE 20 DE OUTUBRO DE 2009.
 
 Dá nova redação ao § 2o do art. 2o do Decreto no 4.622, de 21 de março de 2003, que dispõe sobre a Medalha de Serviço Amazônico.

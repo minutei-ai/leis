@@ -1,5 +1,3 @@
-###DEC-048218-0-000-13-05-1960@@@
-
 decreto nº 48.218, de 13 de maio de 1960.
 
 Autoriza o cidadão brasileiro Geraldo Alves de Souza a lavrar agalmatolito, no município de Pará de Minas, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-091496-0-000-29-07-1985@@@
-
 Decreto nº 91.496, de 29 de julho de 1985
 
 Renova a concessão outorgada à TELEVISÃO VERDES MARES LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Fortaleza, Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEC-000040-0-000-15-02-1991@@@
-
 DECRETO Nº 40, DE 15 DE FEVEREIRO DE 1991
 
 Promulga a Convenção Contra a Tortura e Outros Tratamentos ou Penas Cruéis, Desumanos ou Degradantes.

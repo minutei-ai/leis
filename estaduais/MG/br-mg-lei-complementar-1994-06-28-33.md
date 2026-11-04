@@ -993,7 +993,3 @@ HÉLIO GARCIA
 Evandro de Pádua Abreu
 
 Kildare Gonçalves Carvalho
-
-\================================================================
-
-Data da última atualização: 21/1/2008.

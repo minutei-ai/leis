@@ -1,5 +1,3 @@
-###DEC-062494-0-000-01-04-1968@@@
-
 DECRETO Nº 62.494, DE 1 DE ABRIL DE 1968.
 
 Dispõe sôbre a cessão de área sob a Jurisdição do Ministério da Aeronáutica, para instalação de uma substação transformadora da Ligth Serviços de Eletrecidade S.A.

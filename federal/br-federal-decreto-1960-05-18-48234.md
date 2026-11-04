@@ -1,5 +1,3 @@
-###DEC-048234-0-000-18-05-1960@@@
-
 DECRETO Nº 48.234, DE 18 DE MAIO DE 1960.
 
 Concede à Cerâmica de Guarulhos S.A. autorização para funcionar como emprêsa de mineração.

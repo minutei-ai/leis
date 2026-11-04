@@ -1,5 +1,3 @@
-###DEC-077269-0-000-09-03-1976@@@
-
 DECRETO Nº 77.269, DE 9 DE MARÇO DE 1976.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado na Cidade de Campina Grande, Estado da Paraíba.

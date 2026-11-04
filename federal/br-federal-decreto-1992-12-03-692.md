@@ -1,7 +1,3 @@
-1
-
-###DEC-000692-0-000-03-12-1992@@@
-
 DECRETO N° 692, DE 3 DE DEZEMBRO DE 1992
 
 Revoga o inciso III do art. 25 do Decreto n° 92.512, de 2 de abril de 1986, que estabelece normas, condições de atendimento e indenizações para assistência médico-hospitalar ao militar e seus dependentes, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-082963-0-000-29-12-1978@@@
-
 Decreto nº 82 963,de 29 de dezembro de 1978
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Quixadá, Estado do Ceará.

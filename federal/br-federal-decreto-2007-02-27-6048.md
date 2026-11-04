@@ -1,5 +1,3 @@
-###DEC-006048-0-000-27-02-2007@@@
-
 DECRETO Nº 6.048, DE 27 DE FEVEREIRO DE 2007.
 
 Altera os arts. 11, 19, 27, 34 e 36 do Decreto no 5.163, de 30 de julho de 2004, que regulamenta a comercialização de energia elétrica, o processo de outorga de concessões e de autorizações de geração de energia elétrica.
@@ -61,5 +59,3 @@ Brasília, 27  de fevereiro  de 2007; 186o da Independência e 119o da Repúbl
 LUIZ INÁCIO LULA DA SILVA
 
 Silas Rondeau Cavalcante Silva
-
-Este texto não substitui o publicado no DOU de 28.2.2007.

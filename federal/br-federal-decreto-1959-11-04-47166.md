@@ -1,5 +1,3 @@
-###DEC-047166-0-000-04-11-1959@@@
-
 DECRETO Nº 47.166, DE 4 DE NOVEMBRO DE 1959.
 
 Dá nova redação ao art. 2º do Decreto nº 44.600, de 27 de 1958.

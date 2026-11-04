@@ -1,5 +1,3 @@
-###DEC-004395-0-000-27-09-2002@@@
-
 DECRETO Nº 4.395, DE 27 DE SETEMBRO DE 2002
 
 Altera a competência relativa a matérias objeto de julgamento pelos Segundo e Terceiro Conselhos de Contribuintes do Ministério da Fazenda e dá outras providências.

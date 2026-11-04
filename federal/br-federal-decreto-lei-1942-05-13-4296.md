@@ -1,5 +1,3 @@
-###DEL-004296-0-000-13-05-1942@@@
-
 DECRETO-LEI N. 4.296 – DE 13 DE MAIO DE 1942
 
 Cria, no Departamento Nacional de Saúde, cursos de aperfeiçoamento e especialização e dá outras providências.

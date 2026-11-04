@@ -1,5 +1,3 @@
-###DEC-080632-0-000-26-10-1977@@@
-
 DECRETO Nº 80.632, DE 26 DE OUTUBRO DE 1977.
 
 Acrescenta os §§ 3º e 4º ao artigo 1º do Decreto número 73.686, de 20 de fevereiro de 1974.

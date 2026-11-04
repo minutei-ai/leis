@@ -1,26 +1,24 @@
-###DEC-024512-0-000-12-02-1948@@@
+**DECRETO Nº 24.512, DE 12 DE FEVEREIRO DE 1948.**
 
-<strong>DECRETO Nº 24.512, DE 12 DE FEVEREIRO DE 1948.</strong>
+***Outorga concessão à Rádio “A Voz do Oeste Limitada”, para estabelecer, na cidade de Cuiabá, Estado de Mato Grosso, uma estação radiodifusora.***
 
-<em><strong>Outorga concessão à Rádio “A Voz do Oeste Limitada”, para estabelecer, na cidade de Cuiabá, Estado de Mato Grosso, uma estação radiodifusora.</strong></em>
+**O PRESIDENTE DA REPÚBLICA,** usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, atendendo ao que requereu a Rádio “A Voz do Oeste Limitada” e tendo em vista o disposto no art. 5º, nº XII, da mesma Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA,</strong> usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, atendendo ao que requereu a Rádio “A Voz do Oeste Limitada” e tendo em vista o disposto no art. 5º, nº XII, da mesma Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica outorgada a concessão à Rádio “A Voz do Oeste Limitada” para estabelecer, na cidade de Cuiabá, Estado de Mato Grosso, uma estação destinada a executar os serviços de radiodifusão, nos têrmos das cláusulas que com êste baixam, assinadas pelo Ministro da Viação e Obras Públicas.
 
-<strong>Art</strong>. 1º Fica outorgada a concessão à Rádio “A Voz do Oeste Limitada” para estabelecer, na cidade de Cuiabá, Estado de Mato Grosso, uma estação destinada a executar os serviços de radiodifusão, nos têrmos das cláusulas que com êste baixam, assinadas pelo Ministro da Viação e Obras Públicas.
+**Art**. 2º A concessionária não poderá alterar em qualquer tempo seus estatutos nem fazer transferência de ações sem que tenha havido prévia autorização do Govêrno.
 
-<strong>Art</strong>. 2º A concessionária não poderá alterar em qualquer tempo seus estatutos nem fazer transferência de ações sem que tenha havido prévia autorização do Govêrno.
-
-<strong>Art</strong>. 3º O contrato decorrente desta concessão deverá ser assinado dentro do prazo de 60 dias, a contar da data de publicação dêste Decreto no <em>Diário Oficial</em>, sob pena de ser logo considerada nula a concessão.
+**Art**. 3º O contrato decorrente desta concessão deverá ser assinado dentro do prazo de 60 dias, a contar da data de publicação dêste Decreto no *Diário Oficial*, sob pena de ser logo considerada nula a concessão.
 
 Rio de Janeiro, 12 de fevereiro de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clóvis Pestana
 
-<strong>CLÁUSULAS A QUE SE REFERE O DECRETO Nº 24.512, DESTA DATA</strong>
+**CLÁUSULAS A QUE SE REFERE O DECRETO Nº 24.512, DESTA DATA**
 
 I
 
@@ -78,7 +76,7 @@ VI
 
 Pela inobservância de qualquer das presentes cláusulas em que não esteja prevista a imediata caducidade da concessão, o Govêrno poderá, pelo órgão fiscalizador, impor à concessionária multa de Cr$100,00 (cem cruzeiros) a Cr$5.000,00 (cinco mil cruzeiros), conforme a gravidade da infração.
 
-Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data de notificação feita diretamente à concessionária ou da publicação do ato no <em>Diário Oficial</em>.
+Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data de notificação feita diretamente à concessionária ou da publicação do ato no *Diário Oficial*.
 
 VII
 
@@ -88,9 +86,9 @@ VIII
 
 A concessão será considerada caduca, para todos os efeitos, sem direito a qualquer indenização:
 
-a) se, em todo o tempo, for verificada inobservância das disposições contidas nas alíneas <em>a, b, c, d e</em> (infine), <em>j, k,</em> e <em>l</em>  da cláusula III;
+a) se, em todo o tempo, for verificada inobservância das disposições contidas nas alíneas *a, b, c, d e* (infine), *j, k,* e *l*  da cláusula III;
 
-b) se não forem pagas, dentro dos prazos estabelecidos a quota e contribuições a que se refere a alínea <em>e</em> da cláusula III bem como a importância de qualquer multa imposta nos têrmos da cláusula VI;
+b) se não forem pagas, dentro dos prazos estabelecidos a quota e contribuições a que se refere a alínea *e* da cláusula III bem como a importância de qualquer multa imposta nos têrmos da cláusula VI;
 
 c) se, em qualquer tempo, se verificar o emprego da estação para outros fins que não os determinados na concessão e admitidos pela legislação que reger a matéria.
 
@@ -104,4 +102,4 @@ b) se a concessionária incidir reiteradamente em infrações passíveis de mult
 
 Rio de Janeiro, 12 de fevereiro de 1948.
 
-<strong>CLOVIS PESTANA</strong>
+**CLOVIS PESTANA**

@@ -1,5 +1,3 @@
-###DEL-007533-0-000-07-05-1945@@@
-
 DECRETO-LEI N. 7.533 – DE 7 DE MAIO DE 1945 
 
 Promoção por serviços relevastes

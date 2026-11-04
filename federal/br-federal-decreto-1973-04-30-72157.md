@@ -1,5 +1,3 @@
-###DEC-072157-0-000-30-04-1973@@@
-
 DECRETO Nº 72.157, DE 30 DE ABRIL DE1973.
 
 Renova por 10 (dez) anos a concessão outorgada à Lins Rádio Clube S.A. para executar serviço de radiodifusão sonora em onda tropical, na cidade de Lins, Estado de São Paulo.

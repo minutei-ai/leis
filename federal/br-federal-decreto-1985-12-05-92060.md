@@ -1,5 +1,3 @@
-###DEC-092060-0-000-05-12-1985@@@
-
 Decreto nº 92.060, de 5 de dezembro de 1985.
 
 Destina recursos ao Fundo Nacional de Ação Comunitária - FUNAC.
@@ -19,8 +17,6 @@ Brasília, 5 de dezembro de 1985; 164º da Independência e 97º da República.
 JOSÉ SARNEY
 
 José Hugo Castelo Branco
-
-###DEC-092060-0-000-05-12-1985@@@RET01+++
 
 # DECRETO Nº 92.060, DE 5 DE DEZEMBRO DE 1985
 

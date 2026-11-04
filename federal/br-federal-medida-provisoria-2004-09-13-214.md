@@ -1,5 +1,3 @@
-###MPV-000214-0-000-13-09-2004@@@
-
 MEDIDA PROVISÓRIA Nº 214, DE 13 DE SETEMBRO DE 2004
 
 Altera dispositivos das Leis nºs 9.478, de 6 de agosto de 1997, e 9.847, de 26 de outubro de 1999.

@@ -1,4 +1,5 @@
-LEI Nº 21.671, DE 6 DE DEZEMBRO DE 2022<br>
+LEI Nº 21.671, DE 6 DE DEZEMBRO DE 2022
+
  
 
 Altera as [Leis nº 11.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87836/lei-11651), de 26 de dezembro de 1991, Código Tributário do Estado de Goiás – CTE, nº [13.194](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82287/lei-13194), de 26 de dezembro de 1997, e nº [13.453](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81297/lei-13453), de 16 de abril de 1999, que tratam de matéria tributária.
@@ -77,24 +78,30 @@ Art. 3º A [Lei nº 13.453](https://legisla.casacivil.go.gov.br/pesquisa_legisla
 
 Art. 4º Fica o Chefe do Poder Executivo autorizado a condicionar a fruição de benefícios ou incentivos fiscais concedidos mediante a celebração de convênio no âmbito do Conselho Nacional de Política Fazendária – CONFAZ ao pagamento de contribuição a fundo destinado ao desenvolvimento econômico ou à manutenção do equilíbrio das finanças públicas estaduais.
 
-Art. 5º Esta Lei entra em vigor na data de sua publicação e produz efeitos até 31 de dezembro de 2025, quanto aos seguintes dispositivos:<br>
+Art. 5º Esta Lei entra em vigor na data de sua publicação e produz efeitos até 31 de dezembro de 2025, quanto aos seguintes dispositivos:
+
 \- [Redação dada pela Lei nº 24.133, de 13-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113561).
 
 ~~Art. 5º Esta Lei entra em vigor na data de sua publicação, produzindo efeitos, porém, somente até 31 de dezembro de 2026.~~
 
-I - da [Lei nº 11.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87836), de 26 de dezembro de 1991:<br>
+I - da [Lei nº 11.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87836), de 26 de dezembro de 1991:
+
 \- [Acrescido pela Lei nº 24.133, de 13-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113561).
 
-a) o art. 38-A; e<br>
+a) o art. 38-A; e
+
 \- [Acrescida dada pela Lei nº 24.133, de 13-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113561).
 
-b) a alínea ‘b’ do inciso II do § 1º, o § 1º-A e a alínea ‘c’ do inciso V do § 2º, todos do art. 50;<br>
+b) a alínea ‘b’ do inciso II do § 1º, o § 1º-A e a alínea ‘c’ do inciso V do § 2º, todos do art. 50;
+
 \- [Acrescida  pela Lei nº 24.133, de 13-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113561).
 
-II - o inciso II do § 1º e o § 1º-A, ambos do art. 2º da [Lei nº 13.194](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82287), de 26 de dezembro de 1997; e<br>
+II - o inciso II do § 1º e o § 1º-A, ambos do art. 2º da [Lei nº 13.194](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82287), de 26 de dezembro de 1997; e
+
 \- [Acrescido pela Lei nº 24.133, de 13-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113561).
 
-III - o § 5º do art. 2º da [Lei nº 13.453](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81297), de 16 de abril de 1999.<br>
+III - o § 5º do art. 2º da [Lei nº 13.453](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81297), de 16 de abril de 1999.
+
 \- [Acrescido pela Lei nº 24.133, de 13-3-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113561).
 
 Goiânia, 6 de dezembro de 2022; 134º da República.

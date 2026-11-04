@@ -1,5 +1,3 @@
-###DEC-053656-0-000-04-03-1964@@@
-
 DECRETO Nº 53.656, DE 4 DE MARÇO DE 1964.
 
 Retifica o Decreto nº 52.316, de 1 de agôsto de 1963.

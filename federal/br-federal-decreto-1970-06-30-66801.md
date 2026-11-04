@@ -1,5 +1,3 @@
-###DEC-066801-0-000-30-06-1970@@@
-
 DECRETO Nº 66.801 - DE 30 DE JUNHO DE 1970
 
 Declara de utilidade pública para fins de Constituição de servidão administrativa uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a subestação de Catolé do Rocha, Município de Catolé do Rocha, Estado da Paraíba, até a subestação de Marcelino Vieira, município de Marcelino Vieira, no Estado do Rio Grande do Norte.

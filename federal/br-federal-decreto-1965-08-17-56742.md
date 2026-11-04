@@ -1,5 +1,3 @@
-###DEC-056742-0-000-17-08-1965@@@
-
 decreto nº 56.742, de 17 de agôsto de 1965.
 
 Dispõe sôbre as solenidades comemorativas do centenário de nascimento de Olavo Bilac.

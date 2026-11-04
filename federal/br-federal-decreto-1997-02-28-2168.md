@@ -1,5 +1,3 @@
-###DEC-002168-0-000-28-02-1997@@@
-
 DECRETO Nº 2.168, DE 28 DE FEVEREIRO DE 1997
 
 Amplia as hipóteses de outorga de regimes aduaneiros e os prazos de .concessão ou permissão de recintos alfandegados de uso público, e dá outras providências.

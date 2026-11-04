@@ -1,5 +1,3 @@
-###DEC-081123-0-000-26-12-1977@@@
-
 Decreto nº 81.123, de 26 de dezembro de 1977.
 
 Autoriza a cessão, sob o registro de aforamento, do terreno que menciona, situado no Município de Vila Velha, Estado do Espírito Santo.

@@ -1,5 +1,3 @@
-###DEC-087227-0-000-31-05-1982@@@
-
 Decreto nº 87.227, de 31 de maio de 1982.
 
 Transfere da Companhia Industrial Paraense para Companhia Tecidos Santanense a concessão para o aproveitamento da energia hidráulica, para uso exclusivo, no Município de Pará de Minas, Estado de Minas Gerais.

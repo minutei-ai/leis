@@ -1,5 +1,3 @@
-###DEL-008535-0-000-02-01-1946@@@
-
 DECRETO-LEI N. 8.535 – DE 2 DE JANEIRO DE 1946
 
 Passa a Diretorias subordinadas imediatamente ao Ministro da Educação e Saúde as Divisões de Ensino Superior, Ensino Segundário, Ensino Comercial e Ensino Industrial do Departamento Nacional de Educação, e dá outras providência.

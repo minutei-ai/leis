@@ -90,68 +90,84 @@ Parágrafo único. A construção da unidade habitacional, após a demolição e
 
 Art. 4º O Programa Pra Ter Onde Morar, quanto à construção, tem o objetivo de construir ou concluir unidades habitacionais de interesse social em municípios do Estado de Goiás, para posterior doação a famílias vulneráveis social e economicamente.
 
-§ 1º Para a modalidade prevista no caput deste artigo, o candidato titular inscrito no processo seletivo deverá preencher os seguintes requisitos:<br>
+§ 1º Para a modalidade prevista no caput deste artigo, o candidato titular inscrito no processo seletivo deverá preencher os seguintes requisitos:
+
 [\- Redação dada pela Lei nº 23.811, de 7-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111549).
 
 ~~§ 1º Para a modalidade prevista no _caput_ deste artigo, as famílias interessadas deverão preencher os seguintes requisitos:~~
 
-I – ter renda bruta familiar de até 1,5 (um vírgula cinco) salário mínimo;<br>
+I – ter renda bruta familiar de até 1,5 (um vírgula cinco) salário mínimo;
+
 [\- Redação dada pela Lei nº 23.811, de 7-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111549).
 
 ~~I – ter renda familiar de até 1 (um) salário mínimo;~~
 
-II – não ser proprietário, cessionário ou promitente comprador de imóvel de qualquer natureza;<br>
+II – não ser proprietário, cessionário ou promitente comprador de imóvel de qualquer natureza;
+
 [\- Redação dada pela Lei nº 23.811, de 7-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111549).
 
 ~~II – não ser proprietárias, cessionárias ou promitentes compradoras de imóvel de qualquer natureza;~~
 
-III – não ter recebido, em qualquer momento, imóvel oriundo de programa habitacional de interesse social de ente municipal, estadual, distrital ou federal;<br>
+III – não ter recebido, em qualquer momento, imóvel oriundo de programa habitacional de interesse social de ente municipal, estadual, distrital ou federal;
+
 [\- Redação dada pela Lei nº 23.811, de 7-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111549).
 
 ~~III – não ter recebido do Estado de Goiás nenhum benefício referente a casa, a apartamento ou a recursos para construção;~~
 
 IV – ser o titular maior de 18 (dezoito) anos ou emancipado;
 
-V – comprovar vínculo ininterrupto dos últimos três anos com o município onde será concedido o benefício;<br>
+V – comprovar vínculo ininterrupto dos últimos três anos com o município onde será concedido o benefício;
+
 [\- Redação dada pela Lei nº 23.811, de 7-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111549).
 
 ~~V – comprovar vínculo mínimo de 3 (três) anos com o município onde será concedido o benefício;~~
 
-VI – ter inscrição ativa e atualizada no CadÚnico, no município para o qual pleiteia o benefício;<br>
+VI – ter inscrição ativa e atualizada no CadÚnico, no município para o qual pleiteia o benefício;
+
 [\- Redação dada pela Lei nº 23.811, de 7-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111549).
 
 ~~VI – ter inscrição ativa no CadÚnico no município para o qual pleiteia o benefício; e~~
 
-VII – residir no município para o qual pleiteia o benefício; e<br>
+VII – residir no município para o qual pleiteia o benefício; e
+
 [\- Redação dada pela Lei nº 23.811, de 7-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111549).
 
 ~~VII – residir no município para o qual pleiteia o benefício.~~
 
-VIII – comprovar domicílio eleitoral no município onde reside e para o qual pleiteia o benefício, mediante a apresentação do título de eleitor e do comprovante de votação pelo menos do último pleito eleitoral, exceto para o interessado cujo voto for facultativo, ou, na ausência do título de eleitor, apresentar a certidão de quitação eleitoral.<br>
+VIII – comprovar domicílio eleitoral no município onde reside e para o qual pleiteia o benefício, mediante a apresentação do título de eleitor e do comprovante de votação pelo menos do último pleito eleitoral, exceto para o interessado cujo voto for facultativo, ou, na ausência do título de eleitor, apresentar a certidão de quitação eleitoral.
+
 [\- Acrescido pela Lei nº 23.811, de 7-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111549).
 
-§ 1º-A Em núcleo familiar constituído por cônjuge ou companheiro, ambos deverão comprovar o que está previsto nos incisos I, II e III do § 1º deste artigo.<br>
+§ 1º-A Em núcleo familiar constituído por cônjuge ou companheiro, ambos deverão comprovar o que está previsto nos incisos I, II e III do § 1º deste artigo.
+
 [\- Acrescido pela Lei nº 23.811, de 7-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111549).
 
-§ 1º-B Para concorrer às unidades habitacionais construídas em loteamentos ou terrenos localizados em distrito municipal, as famílias beneficiárias deverão ter o vínculo e a residência previstos nos incisos V e VII do § 1º deste artigo comprovados no respectivo distrito.<br>
+§ 1º-B Para concorrer às unidades habitacionais construídas em loteamentos ou terrenos localizados em distrito municipal, as famílias beneficiárias deverão ter o vínculo e a residência previstos nos incisos V e VII do § 1º deste artigo comprovados no respectivo distrito.
+
 [\- Acrescido pela Lei nº 23.811, de 7-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111549).
 
-§ 1º-C Os contratos e os registros efetivados no Programa Pra Ter Onde Morar serão formalizados, preferencialmente, em nome da mulher.<br>
+§ 1º-C Os contratos e os registros efetivados no Programa Pra Ter Onde Morar serão formalizados, preferencialmente, em nome da mulher.
+
 [\- Acrescido pela Lei nº 23.811, de 7-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111549).
 
-§ 1º-D Na pendência da dissolução da união estável ou do divórcio, o título translativo de propriedade do imóvel, mesmo nessa hipótese, será registrado em nome da mulher ou transferido a ela, independentemente do regime de bens aplicável.<br>
+§ 1º-D Na pendência da dissolução da união estável ou do divórcio, o título translativo de propriedade do imóvel, mesmo nessa hipótese, será registrado em nome da mulher ou transferido a ela, independentemente do regime de bens aplicável.
+
 [\- Acrescido pela Lei nº 23.811, de 7-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111549).
 
-§ 1º-E No caso previsto no § 1º-D deste artigo, caso haja filhos do casal com a guarda unilateral estabelecida em favor de um dos pais, o título translativo de propriedade do imóvel será registrado em nome do detentor da referida guarda.<br>
+§ 1º-E No caso previsto no § 1º-D deste artigo, caso haja filhos do casal com a guarda unilateral estabelecida em favor de um dos pais, o título translativo de propriedade do imóvel será registrado em nome do detentor da referida guarda.
+
 [\- Acrescido pela Lei nº 23.811, de 7-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111549).
 
-§ 1º-F A AGEHAB poderá:<br>
+§ 1º-F A AGEHAB poderá:
+
 [\- Acrescido pela Lei nº 23.811, de 7-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111549).
 
-I – oportunizar ao município, com a justa motivação, a indicação de critério adicional para atender às especificidades da realidade social local; e<br>
+I – oportunizar ao município, com a justa motivação, a indicação de critério adicional para atender às especificidades da realidade social local; e
+
 [\- Acrescido pela Lei nº 23.811, de 7-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111549).
 
-II – estabelecer critérios para a hierarquização do perfil socioeconômico das famílias, como renda per capita e número de filhos, obedecidos os limites e os requisitos estabelecidos nesta Lei.<br>
+II – estabelecer critérios para a hierarquização do perfil socioeconômico das famílias, como renda per capita e número de filhos, obedecidos os limites e os requisitos estabelecidos nesta Lei.
+
 [\- Acrescido pela Lei nº 23.811, de 7-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111549).
 
 § 2º A ação prevista no _caput_ deste artigo poderá ser efetivada em lote de propriedade municipal desde que ele esteja livre e desembaraçado de ônus de qualquer natureza ou impedimento legal e possua infraestrutura mínima, também desde que haja lei municipal de autorização de doação da área para famílias do município, que serão beneficiadas após sorteio e aprovação da AGEHAB.
@@ -172,10 +188,12 @@ V – na elaboração dos projetos de arquitetura e complementares e na execuç�
 
 § 5º O valor destinado à construção de 1 (uma) unidade habitacional térrea prevista no inciso II do § 3º deste artigo terá como valor máximo aquele definido nas especificações técnicas do projeto padrão da AGEHAB, denominado Casa Goiás Social, que contemplará todos os serviços com características padronizadas ou não, bem como todas as opções de sistema construtivo, e deverá ser corrigido pelo Índice Nacional da Construção Civil – INCC, com orçamentos atualizados a cada 6 (seis) meses, conforme tabelas referenciais da Agência Goiana de Infraestrutura e Transportes – GOINFRA e do Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil – SINAPI.
 
-§ 6º Nos empreendimentos destinados à implantação de habitações unifamiliares, a AGEHAB se limitará à aprovação de cada módulo, com, no mínimo, trinta e, no máximo, cinquenta unidades por ciclo.<br>
+§ 6º Nos empreendimentos destinados à implantação de habitações unifamiliares, a AGEHAB se limitará à aprovação de cada módulo, com, no mínimo, trinta e, no máximo, cinquenta unidades por ciclo.
+
 \- [Acrescido pela Lei nº 23.811, de 7-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111549).
 
-Art. 4º-A Os beneficiários do Programa Pra Ter Onde Morar especificados no art. 4º desta Lei, além de não se sujeitarem à cobrança do Imposto sobre a Transmissão _Causa Mortis_ e Doação – ITCD, na forma do art. 79, inciso III, da [Lei estadual nº 11.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87836 "Abrir Lei Ordinária nº 11651, de 1991 em nova aba"), de 26 de dezembro de 1991, são isentos de custas, taxas e emolumentos para os atos relacionados ao registro do contrato de doação do imóvel, à averbação da construção e à expedição das certidões que comprovem a condição de proprietários, nos termos do art. 36, inciso XIV, da [Lei estadual nº 14.376](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81941), de 27 de dezembro de 2002.<br>
+Art. 4º-A Os beneficiários do Programa Pra Ter Onde Morar especificados no art. 4º desta Lei, além de não se sujeitarem à cobrança do Imposto sobre a Transmissão _Causa Mortis_ e Doação – ITCD, na forma do art. 79, inciso III, da [Lei estadual nº 11.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87836 "Abrir Lei Ordinária nº 11651, de 1991 em nova aba"), de 26 de dezembro de 1991, são isentos de custas, taxas e emolumentos para os atos relacionados ao registro do contrato de doação do imóvel, à averbação da construção e à expedição das certidões que comprovem a condição de proprietários, nos termos do art. 36, inciso XIV, da [Lei estadual nº 14.376](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81941), de 27 de dezembro de 2002.
+
 \- [Acrescido pela Lei nº 23.750, de 15-10-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111440/lei-23750).
 
 Art. 5º Para a seleção das famílias das ações previstas nos arts. 2º e 4º desta Lei, poderá a AGEHAB firmar ajustes de parcerias com pessoas jurídicas de direito público e privado, as quais deverão, obrigatoriamente, observar os critérios estabelecidos nesta Lei.

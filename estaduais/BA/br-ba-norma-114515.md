@@ -8,7 +8,8 @@ Art. 1º - Fica o Governo do Estado autorizado a abrir na Secretaria da Fazenda 
 
 Art. 2º - As despesas decorrentes da abertura do presente crédito correrão por conta da verba 3.05.08-1.6.21.1, do orçamento vigente.
 
-Redção de acordo com a Lei nº 1.967, de 26 de outubro de 1963.<br>
+Redção de acordo com a Lei nº 1.967, de 26 de outubro de 1963.
+
 Redação original: "Art. 2º - As despesas decorrentes desta Lei correrão por conta da Consignação - 1.6.00 - subconsignação 8.07.4 - 1.6.21, do Orçamento em vigor." 
 
 Art. 3º - Revogam-se as disposições em contrário.
@@ -23,4 +24,4 @@ Josaphat Marinho
 
 Wilson Lins
 
-* * *
+ *

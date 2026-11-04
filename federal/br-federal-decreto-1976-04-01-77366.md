@@ -1,5 +1,3 @@
-###DEC-077366-0-000-01-04-1976@@@
-
 DECRETO Nº 77.366 - DE 1º DE ABRIL DE 1976
 
 Concede reconhecimento ao curso de Música da Escola de Música do Espírito Santo, com sede na cidade de Vitória, Estado do Espírito Santo.

@@ -1,5 +1,3 @@
-###DEL-001630-0-000-17-07-1978@@@
-
 # DeCreto-lei nº 1.630, de 17 de julho de 1978
 
 Concede benefícios tributários ao Programa Nuclear Brasileiro e dá outras providências.

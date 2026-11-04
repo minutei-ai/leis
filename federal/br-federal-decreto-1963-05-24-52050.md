@@ -1,5 +1,3 @@
-###DEC-052050-0-000-24-05-1963@@@
-
 DECRETO Nº 52.050, DE 24 DE MAIO DE 1963.
 
 Autoriza a Fosforita Olinda S.A. - FASA - a lavrar fosfato, no município de Paulista, Estado de Pernambuco.

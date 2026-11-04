@@ -1,5 +1,3 @@
-###DEC-053346-0-000-23-12-1963@@@
-
 DECRETO Nº 53.346, DE 23 DE DEZEMBRO DE 1963.
 
 Aprova as alterações introduzidas nos Estatutos da Companhia Aliança Rio Grandense de Seguros Gerais, inclusive aumento do capital social.

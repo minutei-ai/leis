@@ -1,5 +1,3 @@
-###DEC-080930-0-000-05-12-1977@@@
-
 Decreto nº 80.930, de 05 de dezembro de 1977.
 
 Cria o Programa de Apoio ao Desenvolvimento de Mão-de-Obra (PRODEMO) e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-000239-0-000-18-02-2005@@@
-
 MEDIDA PROVISÓRIA Nº 239, DE 18 DE FEVEREIRO DE 2005
 
 Acrescenta artigo à Lei nº 9.985, de 18 de julho de 2000, que regulamenta o art. 225, § 1º, incisos I, II, III e VII da Constituição Federal e institui o Sistema Nacional de Unidades de Conservação da Natureza.

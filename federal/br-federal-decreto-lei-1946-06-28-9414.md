@@ -1,5 +1,3 @@
-###DEL-009414-0-000-28-06-1946@@@
-
 DECRETO-LEI N. 9.414 – DE 28 DE JUNHO DE 1946
 
 Concede autonomia às Caixas Econômicas anexas às Delegacias Fiscais do Tesouro Nacional nos Estados do Piauí, Rio Grande do Norte, Paraíba, Alagoas, Sergipe e Goiás, e dá outras providências.

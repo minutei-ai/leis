@@ -1,5 +1,3 @@
-###DEC-000610-0-000-21-07-1992@@@
-
 DECRETO Nº 610, DE 21 DE JULHO DE 1992
 
 Dispõe sobre o ajuste dos valores trimestrais estabelecidos pelo Decreto nº 475, de 13 de março de 1992, alterado pelo Decreto nº 587, de 30 de junho de 1992, e dá outras providências.

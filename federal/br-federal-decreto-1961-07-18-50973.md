@@ -1,5 +1,3 @@
-###DEC-050973-0-000-18-07-1961@@@
-
 DECRETO Nº 50.973, DE 18 DE JULHO DE 1961.
 
 Declara públicas, de uso comum, do domínio da União as águas do rio denominado Peixe, Peixe e Peixe-Paraibuna, respectivamente nos seus trechos superior, médio e inferior.

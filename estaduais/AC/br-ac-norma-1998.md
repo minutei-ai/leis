@@ -1,6 +1,10 @@
 > **LEI Nº 3.349, DE 18 DE DEZEMBRO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Programa de Regularização Ambiental das propriedades e posses rurais no âmbito do Estado do Acre - PRA-Acre.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Programa de Regularização Ambiental das propriedades e posses rurais no âmbito do Estado do Acre - PRA-Acre.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

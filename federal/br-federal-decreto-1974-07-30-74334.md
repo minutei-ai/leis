@@ -1,5 +1,3 @@
-###DEC-074334-0-000-30-07-1974@@@
-
 DECRETO Nº 74.334 - DE 30 DE JULHO DE 1974.
 
 Autoriza a Universidade de Passo Fundo a manter, em Venâncio Aires, Rio Grande do Sul, os cursos de licenciatura em Ciências, Letras, Estudos Sociais e Pedagogia.

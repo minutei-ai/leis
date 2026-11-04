@@ -1,5 +1,3 @@
-###DEC-064169-0-000-06-03-1969@@@
-
 DECRETO Nº 64.169, DE 6 DE MARÇO DE 1969.
 
 Autoriza o funcionamento de Curso de Engenharia Química.

@@ -1,5 +1,3 @@
-###DEL-009030-0-000-01-03-1946@@@
-
 DECRETO-LEI N. 9.030 – DE 1 DE MARÇO DE 1946
 
 Altera o regime de aplicação do crédito especial a que se refere o Decreto - Lei n.º 8.761, de 21 de Janeiro de 1946.

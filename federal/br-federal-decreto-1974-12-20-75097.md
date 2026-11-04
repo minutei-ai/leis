@@ -1,5 +1,3 @@
-###DEC-075097-0-000-20-12-1974@@@
-
 DECRETO Nº 75.097, DE 20 DE DEZEMBRO DE 1974.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Estado do Rio Grande do Sul.

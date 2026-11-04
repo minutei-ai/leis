@@ -1,5 +1,3 @@
-###DEC-046463-0-000-20-07-1959@@@
-
 DECRETO Nº 46.463, DE 20 de julho de 1959.
 
 Declara de utilidade pública a “Organização de Auxílio Fraterno - O A.F.”, com sede em São Paulo, Estado de São Paulo.

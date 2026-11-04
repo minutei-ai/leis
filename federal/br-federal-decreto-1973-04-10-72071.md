@@ -1,5 +1,3 @@
-###DEC-072071-0-000-10-04-1973@@@
-
 Decreto Nº 72.071, DE 10 DE ABRIL DE 1973.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão, no Estado de Goiás.

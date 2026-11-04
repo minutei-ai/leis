@@ -40,8 +40,6 @@ Art. 9º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 19 de julho de 2024; 136º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

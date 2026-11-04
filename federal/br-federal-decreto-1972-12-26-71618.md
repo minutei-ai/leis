@@ -1,5 +1,3 @@
-###DEC-071618-0-000-26-12-1972@@@
-
 DECRETO Nº 71.618 - DE 26 DE DEZEMBRO DE 1972
 
 Regulamenta a aplicação da Lei Complementar nº 8, de 3 de dezembro de 1970, que instituiu o Programa de Formação do Patrimônio do Servidor Público - PASEP.

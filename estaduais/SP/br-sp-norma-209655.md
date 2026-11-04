@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209655)<br>
-
 # LEI N° 17.951, DE 01 DE JULHO DE 2024
 
 ## (Projeto de lei n° 100/2023, da Deputada Leticia Aguiar - PP)

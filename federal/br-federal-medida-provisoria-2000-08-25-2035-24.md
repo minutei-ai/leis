@@ -1,5 +1,3 @@
-###MPV-002035-0-024-25-08-2000@@@
-
 medida provisória Nº 2.035-24, de 25 de agosto de 2000.
 
 Dispõe sobre as operações com recursos dos Fundos Constitucionais de Financiamento do Norte, do Nordeste e do Centro-Oeste, de que trata a Lei nº 7.827, de 27 de setembro de 1989, e dá outras providencias.

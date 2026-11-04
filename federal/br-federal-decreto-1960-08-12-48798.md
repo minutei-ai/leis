@@ -1,5 +1,3 @@
-###DEC-048798-0-000-12-08-1960@@@
-
 decreto nº 48.798, de 12 de agôsto de 1960.
 
 Concede a C.M.B. - Cia. de Minérios Brasileiros, autorização para funcionar como emprêsa de mineração.

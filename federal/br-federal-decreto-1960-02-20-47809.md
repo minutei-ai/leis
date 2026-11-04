@@ -1,5 +1,3 @@
-###DEC-047809-0-000-20-02-1960@@@
-
 DECRETO Nº 47.809, DE 20 DE FEVEREIRO DE 1960.
 
 Altera a redação dos arts. 3º. 4º 5º, e 6º e seu parágrafo único e art. 8º do Decreto nº 46.364, de 7 de julho de 1959 e dá outras providências.

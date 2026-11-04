@@ -1,6 +1,10 @@
 > **LEI Nº 4.548, DE 24 DE MARÇO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 1.478, de 15 de janeiro de 2003, e a Lei nº 3.717, de 15 de janeiro de 2021, para dispor sobre o provimento de cargos de direção e chefia no âmbito do Instituto de Defesa Agropecuária e Florestal do Estado do Acre - IDAF.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 1.478, de 15 de janeiro de 2003, e a Lei nº 3.717, de 15 de janeiro de 2021, para dispor sobre o provimento de cargos de direção e chefia no âmbito do Instituto de Defesa Agropecuária e Florestal do Estado do Acre - IDAF.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

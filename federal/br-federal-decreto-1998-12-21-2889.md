@@ -1,5 +1,3 @@
-###DEC-002889-0-000-21-12-1998@@@
-
 DECRETO Nº 2.889, DE 21 DE DEZEMBRO DE 1998.
 
 Dispõe sobre admissão temporária de bens para utilização econômica no País.

@@ -1,5 +1,3 @@
-###DEC-057927-0-000-04-03-1966@@@
-
 decreto nº 57.927, de 4 de março de 1966
 
 Retifica o Decreto nº 54.261 , de 4 de setembro de 1964 , do Ministério da Aeronáutica.

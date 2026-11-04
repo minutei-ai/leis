@@ -1,5 +1,3 @@
-###DEC-088274-0-000-03-05-1983@@@
-
 Decreto nº 88.274, de 03 de maio de 1983.
 
 Declara de utilidade pública as instituições que menciona.

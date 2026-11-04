@@ -1,7 +1,3 @@
-1
-
-###DEC-099169-0-000-13-03-1990@@@
-
 DECRETO N° 99.169, DE 13 DE MARCO DE 1990
 
 Outorga concessão à TV Amazônia Ltda., para explorar serviço de radiodifusão de sons e imagens - TELEVISÃO, na Cidade de Macapá, Estado do Amapá.

@@ -1,5 +1,3 @@
-###DEC-006397-0-000-13-03-2008@@@
-
 DECRETO Nº 6.397, DE 13 DE MARÇO DE 2008.
 
 Promulga o Acordo de Cooperação entre o Governo da República Federativa do Brasil e o Governo da República do Líbano sobre o Combate à Produção, ao Consumo e ao Tráfico Ilícito de Entorpecentes e Substâncias Psicotrópicas e sobre o Combate às Atividades de Lavagem de Dinheiro e outras Transações Financeiras Fraudulentas Afins, celebrado em Beirute, em 4 de dezembro de 2003.
@@ -22,11 +20,7 @@ Brasília, 13 de março de 2008; 187º da Independência e 120º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no DOU de 14.3.2008
-
-ACORDO DE COOPERAÇÃO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL 
+Samuel Pinheiro Guimarães NetoACORDO DE COOPERAÇÃO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL 
 
 E  O  GOVERNO  DA  REPÚBLICA  DO  LÍBANO  SOBRE O COMBATE À PRODUÇÃO,
 

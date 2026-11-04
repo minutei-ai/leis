@@ -1,5 +1,3 @@
-###DEC-047691-0-000-20-01-1960@@@
-
 DECRETO Nº 47.691, DE 20 DE JANEIRO DE 1960.
 
 Autoriza a Prefeitura Municipal de Pirenópolis, no Estado de Goiás, a encampar os bens e instalações vinculadas ao serviço de exploração da energia elétrica no município.

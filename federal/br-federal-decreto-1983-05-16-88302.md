@@ -1,5 +1,3 @@
-###DEC-088302-0-000-16-05-1983@@@
-
 Decreto Nº 88.302, de 16 de maio de 1983.
 
 Aprova alteração introduzida no Estatuto da Petróleo Brasileiro S.A. - PETROBRÁS.

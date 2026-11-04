@@ -1,5 +1,3 @@
-###DEC-085661-0-000-22-01-1981@@@
-
 DECRETO nº 85.661, de 22 de janeiro de 1981
 
 Declara de interesse social, para fins de desapropriação, imóvel situado no Município de Cachoeiras de Macacu, Estado do Rio de Janeiro, compreendido na área prioritária de reforma agrária, fixada pelo Decreto nº 70.986, de 16 de agosto de 1972, ampliada pelo Decreto nº 72.134, de 26 de abril de 1973, e cuja vigência foi prorrogada pelo Decreto nº 80.113, de 10 de agosto de 1977.

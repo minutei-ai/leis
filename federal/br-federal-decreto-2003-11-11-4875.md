@@ -1,5 +1,3 @@
-###DEC-004875-0-000-11-11-2003@@@
-
 DECRETO Nº 4.875,  DE 11 DE NOVEMBRO DE 2003.
 
        Institui o "Projeto Milton Santos de Acesso ao Ensino Superior", no âmbito do Ministério da Educação.
@@ -20,5 +18,6 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 11 de novembro de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Cristovam Ricardo Cavalcanti Buarque

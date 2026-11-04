@@ -1,7 +1,3 @@
-1
-
-###DEC-099470-0-000-23-08-1990@@@
-
 DECRETO N° 99.470, DE 23 DE AGOSTO DE 1990
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel situado na Quadra 510 do Setor de Edifícios Públicos Norte (SEPNJ), em Brasília, Distrito Federal.

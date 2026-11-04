@@ -1,5 +1,3 @@
-###DEC-058157-0-000-05-04-1966@@@
-
 DECRETO Nº 58.157, DE 5 DE ABRIL DE 1966.
 
 Dá nova redação aos incisos II, letra b, e III, do artigo 226 do Regulamento aprovado pelo Decreto número 4.959-A, de 19 de setembro de 1960.

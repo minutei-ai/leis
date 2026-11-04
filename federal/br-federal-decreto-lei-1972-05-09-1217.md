@@ -1,7 +1,3 @@
-1
-
-###DEL-001217-0-000-09-05-1972@@@
-
 # DECRETO-LEI Nº 1.217, DE 9 DE MAIO DE 1972
 
 Dispõe sobre incentivos à pesca e dá outras providências.

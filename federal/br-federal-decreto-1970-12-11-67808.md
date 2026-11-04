@@ -1,5 +1,3 @@
-###DEC-067808-0-000-11-12-1970@@@
-
 DECRETO Nº 67.808, DE 11 DE DEZEMBRO DE 1970.
 
 Declara de utilidade pública o "Nosso Lar" com sede em Itabuna, Estado da Bahia.

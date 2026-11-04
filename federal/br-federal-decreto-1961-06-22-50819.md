@@ -1,5 +1,3 @@
-###DEC-050819-0-000-22-06-1961@@@
-
 DECRETO Nº 50.819, DE 22 DE JUNHO DE 1961.
 
 Cria o Serviço Nacional de Assistência aos Inventores (SENAIN), e dá outras providencias.

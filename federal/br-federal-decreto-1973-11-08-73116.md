@@ -1,5 +1,3 @@
-###DEC-073116-0-000-08-11-1973@@@
-
 DECRETO Nº 73.116 - DE 8 DE NOVEMBRO DE 1973
 
 Regulamenta a Lei nº 5.760, de 3 de dezembro de 1971, e dá outras providências.

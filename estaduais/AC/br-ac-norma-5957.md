@@ -1,6 +1,10 @@
 > **LEI Nº 4.319, DE 05 DE JANEIRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a criação da Política Estadual de Saúde Funcional e sobre o uso da Classificação Internacional de Funcionalidade, Incapacidade e Saúde no Estado - CIF.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a criação da Política Estadual de Saúde Funcional e sobre o uso da Classificação Internacional de Funcionalidade, Incapacidade e Saúde no Estado - CIF.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

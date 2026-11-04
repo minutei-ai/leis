@@ -1,5 +1,3 @@
-###DEC-089518-0-000-04-04-1984@@@
-
 DeCreto nº 89.518, de 04 de abril de 1984
 
 Autoriza o funcionamento do curso de Tecnólogo em Transmissão e Distribuição de Energia Elétrica da Sociedade de Ensino Superior do Rio de Janeiro.

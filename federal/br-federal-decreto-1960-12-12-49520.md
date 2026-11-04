@@ -1,5 +1,3 @@
-###DEC-049520-0-000-12-12-1960@@@
-
 DECRETO Nº 49.520, DE 12 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Alcides de Salles Bastos a pesquisar ametista no município de Sobral, Estado do Ceará.

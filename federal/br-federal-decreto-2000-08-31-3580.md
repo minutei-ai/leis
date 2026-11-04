@@ -1,5 +1,3 @@
-###DEC-003580-0-000-31-08-2000@@@
-
 DECRETO Nº 3.580, DE 31 DE AGOSTO DE 2000.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 3.497, de 1º de junho de 2000.

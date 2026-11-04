@@ -1,5 +1,3 @@
-###DEC-004022-0-000-19-11-2001@@@
-
 DECRETO Nº 4.022, DE 19 DE NOVEMBRO DE 2001
 
 Altera o Programa de Dispêndios Globais - PDG das empresas do Grupo PETROBRÁS, para 2001, aprovado pelo Decreto nº 3.747, de 6 de fevereiro de 2001, e dá outras providências.

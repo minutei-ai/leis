@@ -1,5 +1,3 @@
-###DEC-001282-0-000-19-10-1994@@@
-
 DECRETO Nº 1.282, DE 19 DE OUTUBRO DE 1994
 
 Regulamenta os arts. 15, 19, 20 e 21, da Lei nº. 4.771, de 15 de setembro de 1965, e dá outras providências.

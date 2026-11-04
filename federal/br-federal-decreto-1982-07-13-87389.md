@@ -1,5 +1,3 @@
-###DEC-087389-0-000-13-07-1982@@@
-
 decreto nº 87.389, de 13 de julho de 1982
 
 Declara de utilidade pública, para fins de desapropriação, o terreno que menciona, situado no Município de São José, Estado de Santa Catarina.

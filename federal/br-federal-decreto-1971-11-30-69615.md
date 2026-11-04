@@ -1,5 +1,3 @@
-###DEC-069615-0-000-30-11-1971@@@
-
 DECRETO Nº 69.615 - DE 30 DE NOVEMBRO DE 1971
 
 Torna sem efeito o Decreto número 66.442, de 14 de abril de 1970, que distribuiu servidora do extinto Lloyd Brasileiro - Patrimônio Nacional.

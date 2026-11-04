@@ -1,5 +1,3 @@
-###MPV-001747-0-004-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.747-4, DE 14 DE DEZEMBRO DE 1998.
 
 Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Ministério do Planejamento e Orçamento, crédito extraordinário no valor de R$7.556.000,00, para os fins que especifica.

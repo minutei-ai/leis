@@ -1,5 +1,3 @@
-###DEC-089955-0-000-11-07-1984@@@
-
 Decreto nº 89.955, de 11 de julho de 1984
 
 Estabelece condições para que o Ministro da Fazenda autorize a aquisição de ações, prevista no Decreto-lei nº 2.132, de 26 de junho de 1984.

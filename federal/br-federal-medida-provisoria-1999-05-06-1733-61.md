@@ -1,5 +1,3 @@
-###MPV-001733-0-061-06-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.733-61, DE 06 DE MAIO DE 1999.
 
 Dispõe sobre o valor total anual das mensalidades escolares e dá outras providências.

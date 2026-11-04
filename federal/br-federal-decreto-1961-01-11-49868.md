@@ -1,5 +1,3 @@
-###DEC-049868-0-000-11-01-1961@@@
-
 DECRETO N.º 49.868, DE 11 DE janeiro DE 1961.
 
 Dá nova redação ao art. 9º do Regulamento para as Escolas de Aprendizes-Marinheiros.

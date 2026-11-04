@@ -1,5 +1,3 @@
-###DEC-053157-0-000-11-12-1963@@@
-
 DECRETO Nº 53.157, DE 11 DE DEZEMBRO DE 1963.
 
 Autoriza a Mineração Rio das Mortes S. A. a pesquisar ouro e cassiterita, no município de Macapá, Território Federal do Amapá.

@@ -1,36 +1,34 @@
-###DEC-046348-0-000-03-07-1959@@@
+**DECRETO Nº 46.348, DE JULHO DE 1959.**
 
-<strong>DECRETO Nº 46.348, DE JULHO DE 1959.</strong>
+***Aprova o Regimento do Serviço de Assistência Médica Domiciliar e de Urgência (S.A.M.D.U.).***
 
-<em><strong>Aprova o Regimento do Serviço de Assistência Médica Domiciliar e de Urgência (S.A.M.D.U.).</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Serviço de Assistência Médica Domiciliar e de Urgência - (SAMDU) que com êste baixa, assinado pelo Ministro do Trabalho, Indústria e Comércio.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Serviço de Assistência Médica Domiciliar e de Urgência - (SAMDU) que com êste baixa, assinado pelo Ministro do Trabalho, Indústria e Comércio.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 3 de julho de 1959; 138º da Independência e 71º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Fernando Nóbrega
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º O Serviço de Assistência Médica Domiciliar e de Urgência (SAMDU), criado pelo Decreto número 27.664, de 30 de dezembro de 1949, instituição de âmbito nacional, com sede e fôro na Capital da República, subordinado ao Ministério do Trabalho, Indústria e Comércio, tem por finalidade prestar assistência médica de urgência, em ambulatórios e hospitais a êsse fim destinados, bem como no domicílio ou local de trabalho, aos segurados ativos e inativos, seus dependentes e aos pensionistas dos Institutos de Aposentadoria e Pensões dos Industriários, Comerciários, Bancários, Marítimos e Empregados em Transportes e Cargas e da Caixa de Aposentadoria e Pensões dos Ferroviários e Empregados em Serviços Públicos.
+**Art**. 1º O Serviço de Assistência Médica Domiciliar e de Urgência (SAMDU), criado pelo Decreto número 27.664, de 30 de dezembro de 1949, instituição de âmbito nacional, com sede e fôro na Capital da República, subordinado ao Ministério do Trabalho, Indústria e Comércio, tem por finalidade prestar assistência médica de urgência, em ambulatórios e hospitais a êsse fim destinados, bem como no domicílio ou local de trabalho, aos segurados ativos e inativos, seus dependentes e aos pensionistas dos Institutos de Aposentadoria e Pensões dos Industriários, Comerciários, Bancários, Marítimos e Empregados em Transportes e Cargas e da Caixa de Aposentadoria e Pensões dos Ferroviários e Empregados em Serviços Públicos.
 
-<strong>Art</strong>. 2º O SAMDU prestará, ainda, através dos seus Postos, nas localidades em que as Instituições, a que se refere o artigo anterior, não possuam serviço médico, o socorro inicial aos segurados acidentados do trabalho.
+**Art**. 2º O SAMDU prestará, ainda, através dos seus Postos, nas localidades em que as Instituições, a que se refere o artigo anterior, não possuam serviço médico, o socorro inicial aos segurados acidentados do trabalho.
 
-Parágrafo único. A prestação de assistência médica de urgência poderá ser feita a entidades federais, estaduais, municipais e privadas, mediante convênio, <em>ad referendum</em> o Ministério do Trabalho, Indústria e Comércio.
+Parágrafo único. A prestação de assistência médica de urgência poderá ser feita a entidades federais, estaduais, municipais e privadas, mediante convênio, *ad referendum* o Ministério do Trabalho, Indústria e Comércio.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<strong>Art</strong>. 3º O SAMDU compreende os seguintes órgãos.
+**Art**. 3º O SAMDU compreende os seguintes órgãos.
 
 A - ÓRGÃO DE DELIBERAÇÃO COLETIVO:
 
@@ -204,13 +202,13 @@ D - ÓRGÃOS REGIONAIS:
 
 3\) Centro Médico-Cirúrgico.
 
-<strong>Art</strong>. 4º O SAMDU será administrado por um Diretor Geral e terá uma Junta Consultiva, nos têrmos deste Regimento.
+**Art**. 4º O SAMDU será administrado por um Diretor Geral e terá uma Junta Consultiva, nos têrmos deste Regimento.
 
-<strong>Art</strong>. 5º As Delegacias Regionais e os Postos isolados terão autonomia administrativa dentro dos limites e de acôrdo com s condições estabelecidas neste Regimento.
+**Art**. 5º As Delegacias Regionais e os Postos isolados terão autonomia administrativa dentro dos limites e de acôrdo com s condições estabelecidas neste Regimento.
 
-<strong>Art</strong>. 6º As Delegacias Regionais ficam classificadas em 1ª, 2ª e 3ª categorias.
+**Art**. 6º As Delegacias Regionais ficam classificadas em 1ª, 2ª e 3ª categorias.
 
-<strong>Art</strong>. 7º Cada Delegacia de 1ª categoria terá a seguinte estrutura:
+**Art**. 7º Cada Delegacia de 1ª categoria terá a seguinte estrutura:
 
 I - Gabinete do Delegado:
 
@@ -238,7 +236,7 @@ Comunicação e Arquivos.
 
 IV - Postos:
 
-<strong>Art</strong>. 8º Cada Delegacia de 2ª Categoria terá a seguinte estrutura:
+**Art**. 8º Cada Delegacia de 2ª Categoria terá a seguinte estrutura:
 
 I - Gabinete do Delegado
 
@@ -266,7 +264,7 @@ Almoxarifado.
 
 IV - Postos.
 
-<strong>Art</strong>. 9º Cada Delegacia de 3ª categoria terá a seguinte estrutura:
+**Art**. 9º Cada Delegacia de 3ª categoria terá a seguinte estrutura:
 
 I - Gabinete do Delegado
 
@@ -292,7 +290,7 @@ Almoxarifado
 
 III - Postos
 
-<strong>Art</strong>. 10. Nas Delegacias, cada Seção terá um Chefe, cada Turma terá um Encarregado: o Almoxarifado terá um Encarregado constituindo função de confiança. A Tesouraria será chefiada por um Caixa, função de confiança, designado pelo Diretor-Geral.
+**Art**. 10. Nas Delegacias, cada Seção terá um Chefe, cada Turma terá um Encarregado: o Almoxarifado terá um Encarregado constituindo função de confiança. A Tesouraria será chefiada por um Caixa, função de confiança, designado pelo Diretor-Geral.
 
 § 1º Nas Delegacias de 1ª categoria, o Delegado será assessorado por um Assistente de Administração, um Assistente Médico, e um Inspetor Médico. Nas Delegacias de 2ª categoria, haverá um (1) Assistente de Administração e um (1) Inspetor Médico. Nas Delegacias de 3ª categoria o Delegado será assessorado por um Assistente, ocupante de função de confiança.
 
@@ -300,19 +298,19 @@ III - Postos
 
 § 3º Os Postos, integrados nas Delegacias e tendo a designação do local em que forem instalados, classificam-se nos tipos A, B e C, conforme a lotação de pessoal, a área servida e as circunstâncias locais, mediante tabela que fôr aprovada e revista periodicamente pelo Diretor-Geral.
 
-<strong>Art</strong>. 11. Os Postos tipo “A” terão Chefe de Pôsto, Chefe de Equipe, Setor de Administração e Setor de Material.
+**Art**. 11. Os Postos tipo “A” terão Chefe de Pôsto, Chefe de Equipe, Setor de Administração e Setor de Material.
 
-<strong>Art</strong>. 12. Os Postos tipo “B” terão: Chefe de Pôsto, Setor de Administração e Setor de Material.
+**Art**. 12. Os Postos tipo “B” terão: Chefe de Pôsto, Setor de Administração e Setor de Material.
 
-<strong>Art</strong>. 13. Os Postos tipo “C” terão: Chefe de Pôsto e Setor de Administração.
+**Art**. 13. Os Postos tipo “C” terão: Chefe de Pôsto e Setor de Administração.
 
-<strong>Art</strong>. 14. Nas Capitais com mais de cinco (5) Postos, poderá ser instalado um Posto Central, no qual as equipes médicas serão constituídas de um cirurgião, um clínico, um pediatra e um obstetra.
+**Art**. 14. Nas Capitais com mais de cinco (5) Postos, poderá ser instalado um Posto Central, no qual as equipes médicas serão constituídas de um cirurgião, um clínico, um pediatra e um obstetra.
 
-<strong>Art</strong>. 15. A Junta Consultiva será constituída de cinco (5) membros, de livre escolha e designação do Ministro do Trabalho, Indústria e Comércio, dentre funcionários efetivos das Instituições enumeradas no artigo 1º dos quais pelo menos hum (1) deverá ser médico e hum (1) Contador.
+**Art**. 15. A Junta Consultiva será constituída de cinco (5) membros, de livre escolha e designação do Ministro do Trabalho, Indústria e Comércio, dentre funcionários efetivos das Instituições enumeradas no artigo 1º dos quais pelo menos hum (1) deverá ser médico e hum (1) Contador.
 
 Parágrafo único. Os membros da Junta Consultiva, bem como os respectivos suplentes, também de livre escolha e designação do Ministro do Trabalho, Indústria e Comércio, terão mandato de dois anos, podendo haver recondução por um vez.
 
-<strong>Art</strong>. 16. A direção ou chefia dos órgãos do SAMDU será exercida:
+**Art**. 16. A direção ou chefia dos órgãos do SAMDU será exercida:
 
 I - a direção-geral por um Diretor Geral, nomeado, em comissão pelo Presidente da República, devendo tomar posse perante o Ministro do Trabalho, Indústria e Comércio;
 
@@ -326,17 +324,17 @@ V - a direção das Delegacias Regionais, respectivamente, por Delegados Regiona
 
 VI - a chefia das Seções, Hospital, Serviço Médico Auxiliar de diagnóstico e tratamento, Pôsto Central e Postos, Setores, Oficinas Centrais e Secretaria, Biblioteca e Publicações, por Chefes designados em comissão pelo Diretor-Geral.
 
-<strong>Art</strong>. 17. O Diretor-Geral será assessorado por 4 (quatro) Assistentes, por êle admitidos em comissão, bem como dois assessores e hum (1) secretário, ocupante de função de confiança.
+**Art**. 17. O Diretor-Geral será assessorado por 4 (quatro) Assistentes, por êle admitidos em comissão, bem como dois assessores e hum (1) secretário, ocupante de função de confiança.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Junta Consultiva</em>
+*Da Junta Consultiva*
 
-<strong>Art</strong>. 18. Compete a Junta Consultiva:
+**Art**. 18. Compete a Junta Consultiva:
 
 a) acompanhar a execução orçamentária, analisando os balancetes mensais;
 
@@ -344,7 +342,7 @@ b) opinar sobre o processo anual de tomada de contas;
 
 c) examinar a proposta orçamentária, propondo as alterações que julgar conveniente;
 
-d) examinar os processos da concorrência para a aquisição de material, referidas nas alíneas <em>b</em> e <em>c</em> do art. 28;
+d) examinar os processos da concorrência para a aquisição de material, referidas nas alíneas *b* e *c* do art. 28;
 
 e) opinar no caso de alienação de bens móveis;
 
@@ -358,11 +356,11 @@ i) representar ao Ministro de Estado sobre irregularidades porventura verificada
 
 j) organizar a própria secretaria, com empregados requisitados pelo Diretor-Geral.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA DIREÇÃO GERAL</em>
+*DA DIREÇÃO GERAL*
 
-<strong>Art</strong>. 19. Compete ao Gabinete do Diretor-Geral:
+**Art**. 19. Compete ao Gabinete do Diretor-Geral:
 
 a) auxiliar do Diretor-Geral na elaboração e execução dos seus trabalhos e assistí-lo na direção, coordenação e fiscalização dos serviços do SAMDU;
 
@@ -374,13 +372,13 @@ d) representar o Diretor-Geral, quando para isso designado;
 
 e) preparar os despachos do Diretor-Geral e minutar a correspondência sôbre assuntos de sua competência.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DOS ÓRGÃOS EXECUTIVOS CENTRAIS</em>
+*DOS ÓRGÃOS EXECUTIVOS CENTRAIS*
 
 Da Divisão Médica
 
-<strong>Art</strong>. 20. Compete à Divisão Médica:
+**Art**. 20. Compete à Divisão Médica:
 
 A - ATRAVÉS DO SERVIÇO DE ASSISTÊNCIA TÉCNICA ÀS DELEGACIAS
 
@@ -414,9 +412,9 @@ f) estabelecer intercâmbio científico com organizações similares, nacionais 
 
 Da Divisão de Administração
 
-<strong>Art</strong>. 21. Compete à Divisão de Administração orientar, controlar e executar as atividades relativas a pessoal, material, orçamento e contabilidade, comunicações e transporte e administração de imóveis.
+**Art**. 21. Compete à Divisão de Administração orientar, controlar e executar as atividades relativas a pessoal, material, orçamento e contabilidade, comunicações e transporte e administração de imóveis.
 
-<strong>Art</strong>. 22. Compete ao Serviço do Pessoal:
+**Art**. 22. Compete ao Serviço do Pessoal:
 
 A - ATRAVÉS DA SEÇÃO DE CADASTRO:
 
@@ -464,7 +462,7 @@ d) lavrar certidões de documentos arquivados ou providenciar e reprodução de 
 
 e) dar vista do parecer e despachos em processos arquivados, mediante ordem por escrito da autoridade competente.
 
-<strong>Art</strong>. 23. Compete ao Serviço de Material:
+**Art**. 23. Compete ao Serviço de Material:
 
 A - ATRAVÉS DA SEÇÃO DE PREVISÃO E CONTRÔLE:
 
@@ -502,7 +500,7 @@ a) controlar os estoques e o seu consumo;
 
 b) enviar semestralmente, à Seção de Previsão e Contrôle, através da autoridade competente, relação circunstanciada das necessidades de material.
 
-<strong>Art</strong>. 24. Compete ao Serviço financeiro:
+**Art**. 24. Compete ao Serviço financeiro:
 
 A - ATRAVÉS DA TESOURARIA:
 
@@ -562,13 +560,13 @@ c) proceder à revisão e análise dos balanços e balancetes;
 
 d) organizar o processo de prestação anual de contas do Diretor-Geral;
 
-e) examinar “<em>a posteriori</em>” para fins de aprovação ou impugnação, as prestações de contas de órgãos ou servidores detentores de suprimentos;
+e) examinar “*a posteriori*” para fins de aprovação ou impugnação, as prestações de contas de órgãos ou servidores detentores de suprimentos;
 
 f) manter o registro dos suprimentos concedidos a órgãos e servidores, controlando os prazos das respectivas prestações de contas e comunicando a sua transgressão.
 
 Do Serviço de Engenharia
 
-<strong>Art</strong>. 25. Compete ao Serviço de Engenharia:
+**Art**. 25. Compete ao Serviço de Engenharia:
 
 A - ATRAVÉS DA SEÇÃO DE OBRAS E ADMINISTRAÇÃO DE IMÓVEIS:
 
@@ -614,7 +612,7 @@ c) executar serviços de reparos e recuperação de móveis e utensílios.
 
 Das Delegacias e Postos
 
-<strong>Art</strong>. 26. Compete às Delegacias e Postos, no território de sua jurisdição:
+**Art**. 26. Compete às Delegacias e Postos, no território de sua jurisdição:
 
 a) cumprir e fazer cumprir as normas legais e regulamentares relativas aos seus serviços;
 
@@ -626,7 +624,7 @@ d) representar o SAMDU perante as entidades públicas e privadas, sediadas na su
 
 Do Centro Médico Cirúrgico no Distrito Federal
 
-<strong>Art</strong>. 27. Caberá ao Centro Médico no D.F.:
+**Art**. 27. Caberá ao Centro Médico no D.F.:
 
 A - ATRAVÉS DO HOSPITAL:
 
@@ -640,15 +638,15 @@ C - ATRAVÉS DO PÔSTO CENTRAL:
 
 Cooperar com o Hospital e os Pôstos de esclarecimento diagnóstico e no tratamento de doentes que lhe forem encaminhados.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES E NO REGIME DO PESSOAL</em>
+*DAS ATRIBUIÇÕES E NO REGIME DO PESSOAL*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Do Diretor-Geral</em>
+*Do Diretor-Geral*
 
-<strong>Art</strong>. 28. Compete ao Diretor - Geral:
+**Art**. 28. Compete ao Diretor - Geral:
 
 a) dirigir, fiscalizar, superintender, diretamente tôdos os serviços da Instituição;
 
@@ -690,11 +688,11 @@ s) representar o SAMDU em juízo e fora dêle;
 
 t) tomar as demais providências para assegurar a perfeita execução das finalidades do SAMDU.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Dos Diretores, dos Chefes de Serviço e de Seção</em>
+*Dos Diretores, dos Chefes de Serviço e de Seção*
 
-<strong>Art</strong>. 29. Compete aos Diretores de Divisão:
+**Art**. 29. Compete aos Diretores de Divisão:
 
 a) orientar, dirigir e fiscalizar os trabalhos dos órgãos sob sua orientação;
 
@@ -718,7 +716,7 @@ j) organizar e alterar a escala de férias dos seus servidores;
 
 k) apresentar, anualmente, ao Diretor-Geral relatórios das atividades do respectivo órgão.
 
-<strong>Art</strong>. 30. Compete aos Chefes de Serviço e de Seção:
+**Art**. 30. Compete aos Chefes de Serviço e de Seção:
 
 a) dirigir e fiscalizar os trabalhos dos órgãos sob sua responsabilidade;
 
@@ -730,284 +728,282 @@ d) propor a aplicação de penalidades a seus subordinados;
 
 e) apresentar ao chefe imediato relatório das atividades do respectivo órgão.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Dos demais servidores</em>
+*Dos demais servidores*
 
-<strong>Art</strong>. 31. Compete, em geral, a tôdos os servidores executar os trabalhos que lhes forem determinados pelo chefe imediato.
+**Art**. 31. Compete, em geral, a tôdos os servidores executar os trabalhos que lhes forem determinados pelo chefe imediato.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Do Regime do Pessoal</em>
+*Do Regime do Pessoal*
 
-<strong>Art</strong>. 32. O regime do pessoal admitido para o SAMDU é o estabelecido no Decreto-lei nº 5.452, de 1º de maio de 1943, que aprova a Consolidação das Leis do Trabalho, e demais legislação posterior.
+**Art**. 32. O regime do pessoal admitido para o SAMDU é o estabelecido no Decreto-lei nº 5.452, de 1º de maio de 1943, que aprova a Consolidação das Leis do Trabalho, e demais legislação posterior.
 
-<strong>Art</strong>. 33. Os empregados do SAMDU não poderão ser requisitados para servir em Entidades Federais, Estaduais, Municipais ou Autárquicas.
+**Art**. 33. Os empregados do SAMDU não poderão ser requisitados para servir em Entidades Federais, Estaduais, Municipais ou Autárquicas.
 
-<strong>Art</strong>. 34. Os servidores do SAMDU serão executados por empregados admitidos para as séries profissionais ou para os cargos de confiança, constantes da Tabela aprovada pelo Ministro do Trabalho, Indústria e Comércio.
+**Art**. 34. Os servidores do SAMDU serão executados por empregados admitidos para as séries profissionais ou para os cargos de confiança, constantes da Tabela aprovada pelo Ministro do Trabalho, Indústria e Comércio.
 
 Parágrafo único. Em casos excepcionais, poderá, ainda, haver pessoal para a prestação de serviços de natureza eventual pago mediante recibo.
 
-<strong>Art</strong>. 35. O quadro de Empregados do SAMDU será constituído de pessoal admitido para as Séries profissionais e cargos de confiança, e de funções de confiança na forma do Decreto-lei nº 5.452, de 1-5-43.
+**Art**. 35. O quadro de Empregados do SAMDU será constituído de pessoal admitido para as Séries profissionais e cargos de confiança, e de funções de confiança na forma do Decreto-lei nº 5.452, de 1-5-43.
 
-<strong>Art</strong>. 36. As funções de confiança (FC) serão exercidas privativamente por empregados do Quadro, designados pelo Diretor-Geral do SAMDU;
+**Art**. 36. As funções de confiança (FC) serão exercidas privativamente por empregados do Quadro, designados pelo Diretor-Geral do SAMDU;
 
-<strong>Art</strong>. 37. Os empregados do SAMDU serão segurados obrigatórios do Instituto de Aposentadoria e Pensões dos Comerciários, exceto os motoristas que o serão do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas.
+**Art**. 37. Os empregados do SAMDU serão segurados obrigatórios do Instituto de Aposentadoria e Pensões dos Comerciários, exceto os motoristas que o serão do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 38. O horário normal de trabalho será fixado pelo Diretor-Geral, atendendo às exigências do serviço, em cada setor, e respeitado o que dispõe a Consolidação das Leis do Trabalho.
+**Art**. 38. O horário normal de trabalho será fixado pelo Diretor-Geral, atendendo às exigências do serviço, em cada setor, e respeitado o que dispõe a Consolidação das Leis do Trabalho.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 39. Nas suas ausências e impedimentos, o Diretor-Geral, será substituído pelo Diretor que fôr por êle designado.
+**Art**. 39. Nas suas ausências e impedimentos, o Diretor-Geral, será substituído pelo Diretor que fôr por êle designado.
 
-<strong>Art</strong>. 40. Cada Diretor de Divisão será substituído pelo Chefe de Serviço, seu subordinado, designado prèviamente pelo Diretor-Geral.
+**Art**. 40. Cada Diretor de Divisão será substituído pelo Chefe de Serviço, seu subordinado, designado prèviamente pelo Diretor-Geral.
 
-<strong>Art</strong>. 41. Cada Chefe de Serviço será substituído pelo Chefe de Seção, seu subordinado, designado prèviamente pelo Diretor-Geral.
+**Art**. 41. Cada Chefe de Serviço será substituído pelo Chefe de Seção, seu subordinado, designado prèviamente pelo Diretor-Geral.
 
-<strong>Art</strong>. 42. Cada Chefe de Seção será substituído pelo servidor, seu subordinado, designado prèviamente pelo Diretor da respectivo Divisão - Fernando Nóbrega.
+**Art**. 42. Cada Chefe de Seção será substituído pelo servidor, seu subordinado, designado prèviamente pelo Diretor da respectivo Divisão - Fernando Nóbrega.
 
 REGIMENTO
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Da Competência dos Órgãos</em>
+*Da Competência dos Órgãos*
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Das Atribuições e do Regime do Pessoal</em>
+*Das Atribuições e do Regime do Pessoal*
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>Do Horário</em>
+*Do Horário*
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-###DEC-046348-0-000-03-07-1959@@@RET01+++
+**DECRETO Nº 46.348, DE 3 DE JULHO DE 1959.**
 
-<strong>DECRETO Nº 46.348, DE 3 DE JULHO DE 1959.</strong>
+Publicado no *DiárioOficial* de 8 do mesmo mês.
 
-Publicado no <em>Diário</em> <em>Oficial</em> de 8 do mesmo mês.
-
-<strong>RETIFICAÇÃO</strong>
+**RETIFICAÇÃO**
 
 No art. 1º,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 “criado pelo Decreto nº 27.664, de 30 de dezembro de 1949,
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 “regulado pelo Decreto nº 27.884, de 30 de dezembro de 1949”, e
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 “subordinado ao Ministério do Trabalho, Indústria e Comércio
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 “subordinado ao Ministro do Trabalho, Indústria e Comércio”.
 
 No art. 2º, parágrafo único,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
-“<em>ad</em> <em>referendium</em> do Ministério do Trabalho, Indústria e Comércio
+“*adreferendium* do Ministério do Trabalho, Indústria e Comércio
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
-“<em>ad</em> <em>referendium</em> do Ministro do Trabalho, Indústria e Comércio”,
+“*adreferendium* do Ministro do Trabalho, Indústria e Comércio”,
 
-No art. 3º, letra <em>A</em>,
+No art. 3º, letra *A*,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 “Órgão de Deliberação Coletivo”,
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 “Órgão de Deliberação Coletiva”; na letra C, inciso I, item 1)
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 “Serviço de Assistência Técnica,
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 “Serviço de Assistência Técnica às item 2) antes da alínea a)
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 “Hospital”
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 “A - Hospital”; no item C, inciso I, número 2) antes do Setor de Administração,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 “Serviço Médico de Diagnóstico e Terapêutica”,
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 “B - Serviço Médico Auxiliar de Diagnóstico e Terapêutica”, no item C, inciso I, número 2), antes de Laboratório de Sorologia e Imunologia,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 “Laboratório de Química”,
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 “Laboratório de Bioquímica”, no item C, inciso I, nº 2, antes de Laboratório de Patologia,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 “Laboratório de Bacteriologia, Virologia, Microbiologia, e Parasitologia”,
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 “Laboratório de Bacteriologia, Virologia, Micologia e Parasitologia”, no item C, inciso I, nº 2, antes de Laboratório de Fisioterapia,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 “Laboratório de Hemoterapia”,
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 “Laboratório de Hematologia e Hemoterapia”; no item C, inciso I, nº 2, antes de Pôsto Central,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 “Laboratório de Fisioterapia”,
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 Item C, inciso I, nº 2) depois de Laboratório de Fisioterapia,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 “Pôsto Central”,
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 “C - Pôsto Central”; no item C, inciso II, nº 4, letra b,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 “Seção de Transporte e Contrôle de Oficinas Regionais”,
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 “Seção de Contrôle de Transportes e de Oficinas Regionais”.
 
 No art. 14,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 “serão constituídas de um cirurgião”,
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 “serão constituídas, no mínimo, por um cirurgião”
 
 No art. 16, inciso I,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 “por um Diretor-Geral, nomeado”
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 Por um Diretor-Geral, médico, nomeado”; no artigo 16, inciso V,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 “por Delegados Regionais nomeados”,
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 “por Delegados Regionais, médicos, nomeados”.
 
-No art. 18, letra <em>d</em>),
+No art. 18, letra *d*),
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
-“nas alíneas <em>b</em> e <em>c</em> do art. 28”,
+“nas alíneas *b* e *c* do art. 28”,
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
-“nas alíneas <em>b</em> e <em>c</em> do art. 13, do Regulamento”.
+“nas alíneas *b* e *c* do art. 13, do Regulamento”.
 
 No art. 25, inciso B,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 “Através da Seção de Transporte e Contrôle de Oficinas Regionais”,
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 “Através da Seção de Contrôle de Transportes e de Oficinas Regionais”.
 
 No art. 27, inciso B,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 “Através do Serviço Médico Auxiliar de Diagnóstico e Tratamento”,
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 “Através do Serviço Médico Auxiliar de Diagnóstico e Terapêutica”.
 
-No art. 28, letra <em>K</em>,
+No art. 28, letra *K*,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 “referentes a pessoal e bens imóveis”,
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
-“referentes a pessoal e bens imóveis, bem como a concessão de créditos especiais e suplementares”, e na letra <em>O</em>,
+“referentes a pessoal e bens imóveis, bem como a concessão de créditos especiais e suplementares”, e na letra *O*,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ‘Tesoureiro ou na sua falta com o Chefe de Serviço Financeiro”,
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 “Tesoureiro e com o Chefe do Serviço Financeiro”
 
 No art. 35,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 “Séries Profissionais e cargos de confiança e funções de confiança”
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 “Série Profissionais e de cargos e funções de confiança”.
 
 No art. 39,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 “O Diretor-Geral será substituído pelo Diretor que fôr por êle “designado”,
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 “O Diretor-Geral será substituído pelo ocupante de cargo de confiança que fôr por êle designando”.

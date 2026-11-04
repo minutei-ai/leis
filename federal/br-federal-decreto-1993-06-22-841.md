@@ -1,7 +1,3 @@
-1
-
-###DEC-000841-0-000-22-06-1993@@@
-
 DECRETO N° 841, DE 22 DE JUNHO DE 1993
 
 Prorroga o prazo para apresentação de projetos ao Fundo Nacional de Cultura, no exercício de 1993.

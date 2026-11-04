@@ -1,5 +1,3 @@
-###DEC-052849-0-000-18-11-1963@@@
-
 DECRETO Nº 52.849, DE 18 DE NOVEMBRO DE 1963.
 
 Autorizo o cidadão Athos Fontes Ferreira a lavrar dolomita no município de itararé, Estado de São Paulo.
@@ -29,8 +27,6 @@ Brasília, 18 de novembro de 1963; 142º a Independência e 75º da República.
 João Goulart
 
 Oswaldo Lima Filho
-
-###DEC-052849-0-000-18-11-1963@@@RET01+++
 
 DECRETO Nº 52.849, DE 18 DE NOVEMBRO DE 1963.
 

@@ -1,5 +1,3 @@
-###DEC-007560-0-000-08-09-2011-PUB-01@@@
-
 DECRETO N° 7.560, DE 8 DE SETEMBRO DE 2011
 
 Dispõe sobre os procedimentos a serem  observados pelos órgãos da Administração Pública federal quanto às ações do Poder Executivo federal no âmbito da Autoridade Pública Olímpica - APO.

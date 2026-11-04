@@ -1,5 +1,3 @@
-###DEC-089243-0-000-27-12-1983@@@
-
 DECRETO nº 89.243, DE 27 DE DEZEMBRO DE 1983
 
 Regulamenta a Lei nº 7.149, de 28 de novembro de 1983, que dispõe sobre a emissão de uma série especial de selos, comemorativa do primeiro centenário da abolição da escravatura no Estado do Ceará.

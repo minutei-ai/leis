@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209005)<br>
-
 # DECRETO N° 68.234, DE 22 DE DEZEMBRO DE 2023
 
 ### _Regulamenta a Lei 17.615, de 27 de dezembro de 2022, que institui o Fundo de Aval para Desenvolvimento da Eficiência Energética no Estado de São Paulo - FAEE, e constitui o Conselho Estadual de Orientação de Eficiência Energética, e dá providências correlatas._

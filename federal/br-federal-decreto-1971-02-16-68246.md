@@ -1,5 +1,3 @@
-###DEC-068246-0-000-16-02-1971@@@
-
 decreto nº 68.246, de 16 de fevereiro 1971.
 
 Declara anulado o Decreto nº 66.334, de 18 de março de 1970. Retifica o art. 1° do decreto nº.58.453, de 17 de maio de 1966.

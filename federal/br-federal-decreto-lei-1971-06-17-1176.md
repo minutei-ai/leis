@@ -1,5 +1,3 @@
-###DEL-001176-0-000-17-06-1971@@@
-
 # DECRETO-LEI Nº 1.176, DE 17 DE JUNHO DE 1971
 
 Dispõe sôbre a regularização de situações fiscais decorrentes da legislação salineira, e dá outras providências.

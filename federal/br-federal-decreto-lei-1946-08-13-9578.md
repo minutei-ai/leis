@@ -1,5 +1,3 @@
-###DEL-009578-0-000-13-08-1946@@@
-
 DECRETO-LEI N. 9.578 – DE 13 DE AGôSTO DE 1946
 
 Aprova a linha divisória entre os Estados de Pernambuco e Alagoas

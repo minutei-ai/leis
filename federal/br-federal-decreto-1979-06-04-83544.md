@@ -1,5 +1,3 @@
-###DEC-083544-0-000-04-06-1979@@@
-
 Decreto nº 83.544, de 04 de junho de 1979.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Florianópolis, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-064247-0-000-21-03-1969@@@
-
 DECRETO Nº 64.247, DE 21 de MARÇO DE 1969.
 
 Declara caduco o decreto nº 55.028, de 18 de novembro de 1964.

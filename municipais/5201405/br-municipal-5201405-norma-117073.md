@@ -4,7 +4,8 @@ Cria o Conselho Municipal de Habitação de Interesse Social Aparecida de Goiân
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVA E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO CONSELHO MUNICIPAL DE HABITAÇÃO, DOS PRINCÍPIOS, DOS OBJETIVOS, DAS DIRETRIZES, DAS COMPETÊNCIAS E DA COMPOSIÇÃO.
 
 Art. 1º Fica criado o Conselho Municipal de Habitação de Interesse Social de Aparecida de Goiânia – CMHIS –com as funções de deliberar, normatizar e, fiscalizar a implantação dos programas de habitação de Interesse Social no Município de Aparecida de Goiânia e da outras providencias.
@@ -149,7 +150,8 @@ Art.11 O presidente (a) do CMHIS será eleito entre seus pares com mandato de 3 
 
 Art.12 Os membros do CMHIS terão seu assento garantido na composição do Conselho Gestor do Fundo Municipal de Habitação de Interesse Social-FMHIS.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 Art.13 O CMHIS para o melhor desempenho de suas funções poderá solicitar ao Poder Executivo Municipal - Aparecida de Goiânia e às entidades de classe a indicação de profissionais para prestar serviços de assessoria ao Conselho, sempre que se fizer necessário mediante prévia solicitação.
@@ -168,11 +170,14 @@ Art.18 Esta Lei entrará em vigor a partir de sua publicação, revogadas as dis
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA GOIÂNIA, ESTADO DE GOIÁS, AOS 11 DIAS DO MÊS DE JUNHO DO ANO DE 2014.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-RONNIE VIEIRA BARBOSA<br>
+RONNIE VIEIRA BARBOSA
+
 Secretário Municipal de Habitação e Regularização Fundiária

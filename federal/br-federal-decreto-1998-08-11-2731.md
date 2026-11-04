@@ -1,5 +1,3 @@
-###DEC-002731-0-000-11-08-1998@@@
-
 DECRETO Nº 2.731, DE 11 DE AGOSTO DE 1998
 
 Alerta dispositivos dos Regulamentos aprovados pelos Decretos nº 96.304, de 12 de julho de 1988, e 98.314, de 19 de outubro de 1989, e revoga dispositivo do Decreto nº 71.848, de 16 de fevereiro de 1973.

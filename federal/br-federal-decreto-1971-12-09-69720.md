@@ -1,5 +1,3 @@
-###DEC-069720-0-000-09-12-1971@@@
-
 DECRETO Nº 69.720 - DE 9 DE DEZEMBRO DE 1971
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de domínio direto de imóveis, em Natal - RN, destinado ao Ministério do Exército.

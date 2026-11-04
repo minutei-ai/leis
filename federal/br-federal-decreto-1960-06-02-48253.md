@@ -1,5 +1,3 @@
-###DEC-048253-0-000-02-06-1960@@@
-
 Decreto nº 48.253, de 2 de junho de 1960.
 
 Oficializa o X Congresso Pan-Americano de Estradas de Ferro.

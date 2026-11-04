@@ -8,7 +8,8 @@ Art. 1º Autoriza o Poder Executivo a contratar e garantir operação de crédit
 
 Parágrafo único. Os recursos resultantes do financiamento autorizado neste artigo serão obrigatoriamente aplicados na execução de projeto integrante do PMAT – Programa de Modernização da Administração Tributária e a Gestão dos Setores Sociais Básicos, do BNDES – Banco Nacional de Desenvolvimento Econômico e Social, vedada a aplicação de tais recursos em despesas correntes, em consonância com o § 1º do art. 35, da Lei Complementar Federal nº 101, de 04 de maio de 2000.
 
-Art. 2º Fica o Poder Executivo autorizado a ceder e/ou vincular em garantia dos pagamentos de principal e encargos da operação de crédito, em caráter irrevogável e irretratável, a modo pro solvendo, por todo o tempo de vigência da operação de crédito e até sua liquidação, as receitas de transferência previstas na Constituição Federal do Imposto Sobre Operações Relativas à Circulação de Mercadorias e Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicações – ICMS de sua titularidade, de que trata o art. 158, IV e do Fundo de Participação dos Municípios  - FPM, de que trata o art. 159, I, b.<br>
+Art. 2º Fica o Poder Executivo autorizado a ceder e/ou vincular em garantia dos pagamentos de principal e encargos da operação de crédito, em caráter irrevogável e irretratável, a modo pro solvendo, por todo o tempo de vigência da operação de crédito e até sua liquidação, as receitas de transferência previstas na Constituição Federal do Imposto Sobre Operações Relativas à Circulação de Mercadorias e Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicações – ICMS de sua titularidade, de que trata o art. 158, IV e do Fundo de Participação dos Municípios  - FPM, de que trata o art. 159, I, b.
+
 (Redação alterada pela Lei Ordinária nº 3.256, de 5 de fevereiro de 2015).
 
 ~~Art. 2º Fica o Poder Executivo autorizado a ceder e/ou vincular em garantia dos pagamentos de principal e encargos, em caráter irrevogável e irretratável, a modo pro solvendo, por todo o tempo de vigência da operação de crédito e até sua liquidação, as receitas tributárias municipais das formas seguintes:~~
@@ -17,29 +18,34 @@ I – Cessão como meio de pagamento do crédito concedido, das receitas de tran
 
 II – Vinculação em garantia do pagamento dos débitos vencidos e não pagos, das receitas provenientes do Fundo de Participação dos Municípios - FPM, de que trata o art. 159, I, b, da Constituição Federal.
 
-§ 1º Para efetivação da cessão e/ou vinculação em garantia dos recursos previstos no “caput” deste artigo, fica(m) o(s) Banco(s) Depositário(s) do(s) mesmo(s) autorizados a transferir os recursos cedidos e/ou vinculados à conta e ordem do Banco Nacional de Desenvolvimento Econômico e Social – BNDES, nos montantes necessários à amortização da dívida, nos prazos contratualmente estipulados, em caso de cessão, ou ao pagamento dos débitos vencidos e não pagos, em caso de vinculação.<br>
+§ 1º Para efetivação da cessão e/ou vinculação em garantia dos recursos previstos no “caput” deste artigo, fica(m) o(s) Banco(s) Depositário(s) do(s) mesmo(s) autorizados a transferir os recursos cedidos e/ou vinculados à conta e ordem do Banco Nacional de Desenvolvimento Econômico e Social – BNDES, nos montantes necessários à amortização da dívida, nos prazos contratualmente estipulados, em caso de cessão, ou ao pagamento dos débitos vencidos e não pagos, em caso de vinculação.
+
 (Redação alterada pela Lei Ordinária nº 3.256, de 5 de fevereiro de 2015).
 
 ~~§ 1º Na hipótese de insuficiência dos recursos previstos nos incisos do caput, fica o Poder Executivo Municipal autorizado a vincular, mediante prévia aceitação do BNDES, outros recursos para assegurar o pagamento das obrigações financeiras decorrentes do contrato celebrado.~~
 
-§ 2º Na hipótese de insuficiência dos recursos previstos no _caput_, fica o Poder Executivo Municipal autorizado a vincular, mediante prévia aceitação do BNDES, outros recursos para assegurar o pagamento das obrigações financeiras decorrentes do contrato celebrado.<br>
+§ 2º Na hipótese de insuficiência dos recursos previstos no _caput_, fica o Poder Executivo Municipal autorizado a vincular, mediante prévia aceitação do BNDES, outros recursos para assegurar o pagamento das obrigações financeiras decorrentes do contrato celebrado.
+
 (Redação alterada pela Lei Ordinária nº 3.256, de 5 de fevereiro de 2015).
 
 ~~§ 2º Fica o Poder Executivo obrigado a promover o empenho das despesas nos montantes necessários à amortização da dívida nos prazos contratualmente estipulados, para cada um dos exercícios financeiros em que se efetuar as amortizações de principal, juros e encargos da dívida, até o seu pagamento final.~~
 
-§ 3º Fica o Poder Executivo obrigado a promover o empenho das despesas nos montantes necessários à amortização da dívida nos prazos contratualmente estipulados, para cada um dos exercícios financeiros em que se efetuar as amortizações de principal, juros e encargos da dívida, até o seu pagamento final.<br>
+§ 3º Fica o Poder Executivo obrigado a promover o empenho das despesas nos montantes necessários à amortização da dívida nos prazos contratualmente estipulados, para cada um dos exercícios financeiros em que se efetuar as amortizações de principal, juros e encargos da dívida, até o seu pagamento final.
+
 (Redação alterada pela Lei Ordinária nº 3.256, de 5 de fevereiro de 2015).
 
 ~~§ 3º As receitas indicadas nos incisos do caput serão alteradas, em caso de extinção, pelas receitas que vierem a ser estabelecidas constitucionalmente em sua substituição, independentemente de nova autorização.~~
 
-§ 4º  As receitas indicadas no _caput_ serão alteradas, em caso de extinção, pelas receitas que vierem a ser estabelecidas constitucionalmente em sua substituição, independentemente de nova autorização.<br>
+§ 4º  As receitas indicadas no _caput_ serão alteradas, em caso de extinção, pelas receitas que vierem a ser estabelecidas constitucionalmente em sua substituição, independentemente de nova autorização.
+
 (Redação acrescentada pela Lei Ordinária nº 3.256, de 5 de fevereiro de 2015).
 
 ~~Art. 3º O chefe do Poder Executivo fica autorizado a constituir o BNDES em mandatário do Município, com poderes irrevogáveis e irretratáveis para receber junto às fontes pagadoras das receitas de transferências mencionadas nos incisos I e II do artigo anterior, os recursos vinculados, podendo o BNDES utilizar esses recursos no pagamento do que lhe for devido por força da operação de crédito de que trata esta lei.~~
 
 ~~§ 1º As receitas de que tratam os incisos do artigo anterior serão exigidas nos vencimentos das obrigações pactuadas pelo Poder Executivo, ficando o BNDES autorizado a requerer as transferências dos referidos recursos para quitação dos débitos diretamente às instituições financeiras depositárias.~~
 
-~~§ 2º Em se tratando do recebimento dos recursos referidos no inciso II do artigo anterior, os poderes mencionados no caput deste artigo se limitam aos casos de inadimplemento do Município e se restringem às parcelas vencidas e não pagas da dívida.~~<br>
+~~§ 2º Em se tratando do recebimento dos recursos referidos no inciso II do artigo anterior, os poderes mencionados no caput deste artigo se limitam aos casos de inadimplemento do Município e se restringem às parcelas vencidas e não pagas da dívida.~~
+
 (Revogado pela Lei Ordinária nº 3.256, de 5 de fevereiro de 2015).
 
 Art. 4º Os recursos provenientes da operação de crédito objeto do financiamento serão consignados como receita no orçamento ou em créditos adicionais.
@@ -56,15 +62,208 @@ Art. 8º Esta Lei entrará em vigor na data da sua publicação, revogadas as di
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA, Estado de Goiás, aos 25 dias do mês de fevereiro do ano de 2014.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-GEOLIANO DE SOUZA LIMA<br>
+GEOLIANO DE SOUZA LIMA
+
 Secretário de Administração e Recursos Humanos
 
 ANEXO ÚNICO (art. 7º parágrafo único da Lei n.º 3.160, de 25 de fevereiro de 2014, que “Autoriza o Poder Executivo Municipal a contratar operação de crédito junto ao BNDES – Banco Nacional de Desenvolvimento Econômico e Social, com recursos do PMAT- Programa de Modernização da Administração Tributária e Gestão dos Setores Sociais Básicos, a oferecer garantias e dá outras providências correlatas").
 
-<table class="Table" style="width:587px; margin-left:4px; border-collapse:collapse" width="587"><tbody><tr><td style=" width:266px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>FONTE DE RECURSO:&nbsp; 100 - ORDINÁRIO</b><b>&nbsp;</b></td><td style=" width:85px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>2014</b></td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top"><b>2015</b></td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top"><b>2016</b></td><td style=" width:75px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top"><b>TOTAL</b></td></tr><tr><td style=" width:266px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>4.4.90.14 - DIARIAS – CIVIL</b></td><td style=" width:85px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">10.000,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">10.000,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">10.000,00</td><td style=" width:75px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>30.000,00</b></td></tr><tr><td style=" width:266px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>4.4.90.30 - MATERIAL DE CONSUMO</b></td><td style=" width:85px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">50.000,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">80.000,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">70.000,00</td><td style=" width:75px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>200.000,00</b></td></tr><tr><td style=" width:266px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>4.4.90.33 - PASSAGENS E DESPESAS COM LOCOMOCAO</b></td><td style=" width:85px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">49.992,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">50.000,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">50.000,00</td><td style=" width:75px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>149.992,00</b></td></tr><tr><td style=" width:266px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>4.4.90.35 – SERVIÇOS DE CONSULTORIA</b></td><td style=" width:85px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">1,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">199.900,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">100,00</td><td style=" width:75px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>200.001,00</b></td></tr><tr><td style=" width:266px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>4.4.90.36 - OUTROS SERVI.TERCEIROS-PESSOA FISIC</b></td><td style=" width:85px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">3,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">10.000,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">10.000,00</td><td style=" width:75px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>20.003,00</b></td></tr><tr><td style=" width:266px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>4.4.90.39 - OUTROS SERV.DE TERCEIROS-PES.JURID</b></td><td style=" width:85px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">2,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">500.000,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">500.000,00</td><td style=" width:75px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>1.000.002,00</b></td></tr><tr><td style=" width:266px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>4.4.90.51 – OBRAS E INSTALAÇÕES</b></td><td style=" width:85px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">2,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">500.000,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">500.000,00</td><td style=" width:75px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>1.000.002,00</b></td></tr><tr><td style=" width:266px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>4.4.90.52 - EQUIPAMENTOS E MATERIAL PERMANENTE</b></td><td style=" width:85px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">50.000,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">900.000,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">50.000,00</td><td style=" width:75px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>1.000.000,00</b></td></tr><tr><td style=" width:266px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>TOTAL DA FONTE DE RECURSO FONTE RECURSOS ORDINÁRIO&nbsp;</b></td><td style=" width:85px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>&nbsp;</b> <b>162.014,00</b></td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">&nbsp; <b>2.251.915,00</b></td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">&nbsp; <b>1.192.116,00</b></td><td style=" width:75px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">&nbsp; <b>3.600.000,00</b></td></tr><tr><td style=" width:266px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom">&nbsp;</td><td style=" width:85px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom">&nbsp;</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">&nbsp;</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">&nbsp;</td><td style=" width:75px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">&nbsp;</td></tr><tr><td style=" width:266px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>FONTE DE RECURSO: 190 – OPERAÇÃO&nbsp; DE CREDITO INTERNA</b></td><td style=" width:85px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom">&nbsp;</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">&nbsp;</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">&nbsp;</td><td style=" width:75px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">&nbsp;</td></tr><tr><td style=" width:266px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>4.4.90.14 - DIARIAS – CIVIL</b></td><td style=" width:85px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">1,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">10.000,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">10.000,00</td><td style=" width:75px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">20.001,00</td></tr><tr><td style=" width:266px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>4.4.90.30 - MATERIAL DE CONSUMO</b></td><td style=" width:85px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">1,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">10.000,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">10.000,00</td><td style=" width:75px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">20.001,00</td></tr><tr><td style=" width:266px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>4.4.90.33 - PASSAGENS E DESPESAS COM LOCOMOCAO</b></td><td style=" width:85px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">1,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">50.000,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">50.000,00</td><td style=" width:75px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">100,001,00</td></tr><tr><td style=" width:266px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>4.4.90.35 – SERVIÇOS DE CONSULTORIA</b></td><td style=" width:85px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">800.000,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">800.000,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">500.000,00</td><td style=" width:75px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">2.100.000,00</td></tr><tr><td style=" width:266px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>4.4.90.36 - OUTROS SERVI.TERCEIROS-PESSOA FISIC</b></td><td style=" width:85px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">1,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">50.000,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">50.000,00</td><td style=" width:75px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">100.001,00</td></tr><tr><td style=" width:266px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>4.4.90.39 - OUTROS SERV.DE TERCEIROS-PES.JURID</b></td><td style=" width:85px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">3.000.000,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">4.000.000,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">1.159.996,00</td><td style=" width:75px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">8.159.996,00</td></tr><tr><td style=" width:266px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>4.4.90.51 – OBRAS E INSTALAÇÕES</b></td><td style=" width:85px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">4.000.000,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">10.000.000,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">4.000.000,00</td><td style=" width:75px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">18.000.000,00</td></tr><tr><td style=" width:266px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>4.4.90..52 - EQUIPAMENTOS E MATERIAL PERMANENTE</b></td><td style=" width:85px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">4.500.000,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">2.000.000,00</td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">1.000.000,00</td><td style=" width:75px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top">7.500.000,00</td></tr><tr><td style=" width:266px; padding:0cm 5px 0cm 5px; height:20px;   " valign="bottom"><b>TOTAL DA FONTE DE RECURSO FONTE OPERAÇÃO DE CREDITO EXTERNA&nbsp;</b></td><td style=" width:85px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top"><b>12.300.004,00</b></td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top"><b>16.920.000,00</b></td><td style=" width:81px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top"><b>6.779.996,00</b></td><td style=" width:75px; padding:0cm 5px 0cm 5px; height:20px;   " valign="top"><b>36.000.000,00</b></td></tr></tbody></table>
+**FONTE DE RECURSO:  100 - ORDINÁRIO **
+
+**2014**
+
+**2015**
+
+**2016**
+
+**TOTAL**
+
+**4.4.90.14 - DIARIAS – CIVIL**
+
+10.000,00
+
+10.000,00
+
+10.000,00
+
+**30.000,00**
+
+**4.4.90.30 - MATERIAL DE CONSUMO**
+
+50.000,00
+
+80.000,00
+
+70.000,00
+
+**200.000,00**
+
+**4.4.90.33 - PASSAGENS E DESPESAS COM LOCOMOCAO**
+
+49.992,00
+
+50.000,00
+
+50.000,00
+
+**149.992,00**
+
+**4.4.90.35 – SERVIÇOS DE CONSULTORIA**
+
+1,00
+
+199.900,00
+
+100,00
+
+**200.001,00**
+
+**4.4.90.36 - OUTROS SERVI.TERCEIROS-PESSOA FISIC**
+
+3,00
+
+10.000,00
+
+10.000,00
+
+**20.003,00**
+
+**4.4.90.39 - OUTROS SERV.DE TERCEIROS-PES.JURID**
+
+2,00
+
+500.000,00
+
+500.000,00
+
+**1.000.002,00**
+
+**4.4.90.51 – OBRAS E INSTALAÇÕES**
+
+2,00
+
+500.000,00
+
+500.000,00
+
+**1.000.002,00**
+
+**4.4.90.52 - EQUIPAMENTOS E MATERIAL PERMANENTE**
+
+50.000,00
+
+900.000,00
+
+50.000,00
+
+**1.000.000,00**
+
+**TOTAL DA FONTE DE RECURSO FONTE RECURSOS ORDINÁRIO **
+
+** 162.014,00**
+
+**2.251.915,00**
+
+**1.192.116,00**
+
+**3.600.000,00**
+
+**FONTE DE RECURSO: 190 – OPERAÇÃO  DE CREDITO INTERNA**
+
+**4.4.90.14 - DIARIAS – CIVIL**
+
+1,00
+
+10.000,00
+
+10.000,00
+
+20.001,00
+
+**4.4.90.30 - MATERIAL DE CONSUMO**
+
+1,00
+
+10.000,00
+
+10.000,00
+
+20.001,00
+
+**4.4.90.33 - PASSAGENS E DESPESAS COM LOCOMOCAO**
+
+1,00
+
+50.000,00
+
+50.000,00
+
+100,001,00
+
+**4.4.90.35 – SERVIÇOS DE CONSULTORIA**
+
+800.000,00
+
+800.000,00
+
+500.000,00
+
+2.100.000,00
+
+**4.4.90.36 - OUTROS SERVI.TERCEIROS-PESSOA FISIC**
+
+1,00
+
+50.000,00
+
+50.000,00
+
+100.001,00
+
+**4.4.90.39 - OUTROS SERV.DE TERCEIROS-PES.JURID**
+
+3.000.000,00
+
+4.000.000,00
+
+1.159.996,00
+
+8.159.996,00
+
+**4.4.90.51 – OBRAS E INSTALAÇÕES**
+
+4.000.000,00
+
+10.000.000,00
+
+4.000.000,00
+
+18.000.000,00
+
+**4.4.90..52 - EQUIPAMENTOS E MATERIAL PERMANENTE**
+
+4.500.000,00
+
+2.000.000,00
+
+1.000.000,00
+
+7.500.000,00
+
+**TOTAL DA FONTE DE RECURSO FONTE OPERAÇÃO DE CREDITO EXTERNA **
+
+**12.300.004,00**
+
+**16.920.000,00**
+
+**6.779.996,00**
+
+**36.000.000,00**

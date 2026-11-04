@@ -1,5 +1,3 @@
-###DEC-074045-0-000-10-05-1974@@@
-
 DECRETO Nº 74.045, DE 10 DE MAIO DE 1974.
 
 Concede autorização ao "Woods Hole Oceanographic Institution", de nacionalidade norte-americana, para realizar, no mar territorial do Brasil, os serviços que especifica.

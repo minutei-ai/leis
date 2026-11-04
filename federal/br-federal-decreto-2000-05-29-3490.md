@@ -1,5 +1,3 @@
-###DEC-003490-0-000-29-05-2000@@@
-
 DECRETO Nº 3.490, DE 29 DE MAIO DE 2000.
 
 Acresce dispositivos ao art. 128 do Decreto nº 2.637, de 25 de junho de 1998, que regulamenta a cobrança do Imposto sobre Produtos Industrializados.

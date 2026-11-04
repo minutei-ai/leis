@@ -1,5 +1,3 @@
-###DEC-004947-0-000-06-01-2004@@@
-
 DECRETO Nº 4.947,  DE 6 DE JANEIRO DE 2004.
 
 Altera dispositivos do Regulamento de Promoções da Carreira de Diplomata do Serviço Exterior, aprovado pelo Decreto no 4.248, de 23 de maio de 2002.

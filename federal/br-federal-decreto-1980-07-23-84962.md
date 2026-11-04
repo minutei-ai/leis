@@ -1,5 +1,3 @@
-###DEC-084962-0-000-23-07-1980@@@
-
 Decreto nº 84.962, de 23 de julho de 1980.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural situado no Município de Dona Inês, Estado da Paraíba, compreendido na área prioritária de reforma agrária, de que trata o Decreto nº 56.583, de 19 de julho de 1965, e cuja vigência foi prorrogada pelo Decreto nº 82.884, de 19 de dezembro de 1978.

@@ -1,5 +1,3 @@
-###DEL-006043-0-000-26-11-1943@@@
-
 DECRETO‑LEI N. 6.043 – DE 26 DE NOVEMBRO DE 1943
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 6.189.723,90, para despesas com a execução de obras relacionadas com o melhor aproveitamento do carvão nacional.

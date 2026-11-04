@@ -1,5 +1,3 @@
-###DEC-061108-0-000-28-07-1967@@@
-
 DECRETO Nº 61.108, DE 28 DE JULHO DE 1967.
 
 Cria Comissão de Desportos da Aeronáutica

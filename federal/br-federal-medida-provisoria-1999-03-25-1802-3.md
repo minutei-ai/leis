@@ -1,5 +1,3 @@
-###MPV-001802-0-003-25-03-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.802-3, DE 25 DE MARÇO DE 1999
 
 Dispõe sobre a aquisição de produtos para a implementação de ações de saúde no âmbito do Ministério da Saúde.

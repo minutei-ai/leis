@@ -1,7 +1,3 @@
-1
-
-###DEC-098796-0-000-05-01-1990@@@
-
 Decreto Nº 98.796, DE 5 DE JANEIRO DE 1990
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados das Faculdades Integradas de Maringá.

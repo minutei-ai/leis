@@ -1,5 +1,3 @@
-###DEC-058724-0-000-27-06-1966@@@
-
 Decreto nº 58.724, de 27 de junho de 1966.
 
 Outorga à Centrais Elétricas do Pará S. A. concessão para distribuir energia elétrica.

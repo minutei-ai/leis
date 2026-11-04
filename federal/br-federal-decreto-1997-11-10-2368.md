@@ -1,5 +1,3 @@
-###DEC-002368-0-000-10-11-1997@@@
-
 DECRETO Nº 2.368, DE 10 DE NOVEMBRO DE 1997
 
 Dispõe sobre a concessão de garantias pela União.

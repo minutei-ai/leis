@@ -1,5 +1,3 @@
-###DEC-087970-0-000-21-12-1982@@@
-
 Decreto nº 87.970, de 21 de dezembro de 1982
 
 Concede à Companhia Brasileira de Cobre - CBC autorização para proceder a aumento do seu capital autorizado.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098669-0-000-27-12-1989@@@
-
 DECRETO N° 98.669, DE 27 DE DEZEMBRO DE 1989
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Hidro Elétrica do São Francisco - Chesf, nos Municípios de Bom Jesus da Lapa e Barreiras, Estado da Bahia.

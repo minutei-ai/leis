@@ -1,5 +1,3 @@
-###DEC-069662-0-000-03-12-1971@@@
-
 DECRETO Nº 69.662 - DE 3 DE DEZEMBRO DE 1971
 
 Redistribui, com os respectivos ocupantes, cargos do Ministério da Justiça para a Agência Nacional, e dá outras providências.

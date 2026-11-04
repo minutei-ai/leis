@@ -1,5 +1,3 @@
-###DEC-003522-0-000-26-06-2000@@@
-
 DECRETO Nº 3.522, DE 26 DE JUNHO DE 2000.
 
 Aprova o Regulamento da Ordem do Mérito Militar, e dá outras providências.

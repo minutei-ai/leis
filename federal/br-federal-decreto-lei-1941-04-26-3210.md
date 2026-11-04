@@ -1,5 +1,3 @@
-###DEL-003210-0-000-26-04-1941@@@
-
 DECRETO-LEI N. 3.210 – DE 26 DE ABRIL DE 1941
 
 Interpreta o decreto-lei nº 251, de 4 de fevereiro de 1938, e o decreto municipal, nº 4.612, de 2 de janeiro de 1934

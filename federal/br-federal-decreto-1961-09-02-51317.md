@@ -1,5 +1,3 @@
-###DEC-051317-0-000-02-09-1961@@@
-
 Decreto Nº 51.317, DE 2 DE SETEMBRO DE 1961.
 
 Prorroga feriado bancário estabelecido pelo Decreto nº 51.315, de 30 de agôsto de 1961.

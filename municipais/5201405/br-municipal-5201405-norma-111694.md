@@ -1,7 +1,7 @@
 ÍNDICE
 
-<br>
-LEI ORGÂNICA DO MUNICÍPIO DE APARECIDA DE GOIÂNIA<br>
+LEI ORGÂNICA DO MUNICÍPIO DE APARECIDA DE GOIÂNIA
+
 2008
 
 PREÂMBULO.............................................................................................06
@@ -218,7 +218,8 @@ TÍTULO X ......................................................................
 
 DAS DISPOSIÇÕES GERAIS (art. 189 a 211)...............................................78
 
-LEI ORGÂNICA DO<br>
+LEI ORGÂNICA DO
+
 MUNICÍPIO DE APARECIDA DE GOIÂNIA
 
 2008
@@ -235,10 +236,12 @@ Considerando a urgência na regularização do processo legislativo municipal co
 
 Considerando a importância da Lei Orgânica para o Município, os vereadores com os poderes investidos pela Constituição da República para elaborar a lei basilar de ordem municipal autônoma e democrática, que fundada na participação direta da sociedade civil, instrumentalize a descentralização e a desconcentração do poder político como forma de assegurar ao cidadão o controle do seu exercício, o acesso de todos à cidadania plena e à convivência em uma sociedade fraterna, igualitária, pluralista e sem preconceitos, sob o império de justiça social e, sob a proteção de Deus, promulgamos a seguinte Lei Orgânica Municipal:
 
-TÍTULO I<br>
+TÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DOS PRINCÍPIOS FUNDAMENTAIS
 
 Art. 1º - O Município de Aparecida de Goiânia integra, com autonomia política, administrativa e financeira, a República Federativa do Brasil e o Estado de Goiás, nos termos da Constituição Federal e da Constituição Estadual.
@@ -269,10 +272,12 @@ Art. 4º - São poderes do Município, independentes e harmônicos entre si, o L
 
 Parágrafo Único – Salvo as exceções previstas nesta Lei Orgânica, é vedado a qualquer dos Poderes delegarem atribuição e, a quem for investido na função de um deles, exercer a de outro.
 
-TITULO II<br>
+TITULO II
+
 DOS DIREITOS E GARANTIAS FUNDAMENTAIS
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DOS DIREITOS INDIVIDUAIS, COLETIVOS E SOCIAIS
 
 Art. 5º A todos os munícipes, nos termos da Constituição Federal, Estadual e desta Lei Orgânica, sem distinção de qualquer natureza, é assegurado o direito à vida, à liberdade, à igualdade, à segurança, nos seguintes termos:
@@ -291,10 +296,12 @@ VI - todos têm direito a receber dos órgãos públicos municipais informaçõe
 
 Art. 6º- São direitos sociais, a educação, a saúde, o trabalho, o lazer, o esporte, a segurança, a previdência social, a proteção à maternidade, à infância e à adolescência, ao idoso, aos portadores de necessidades especiais, a assistência aos desamparados, na forma desta Lei Orgânica.
 
-TITULO III <br>
+TITULO III 
+
 DA COMPETÊNCIA
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA COMPETÊNCIA PRIVATIVA DO MUNICIPIO
 
 Art. 7º - Ao Município compete, além das atribuições contidas nas Constituições Federal e Estadual, prover a tudo quanto respeite aos assuntos de interesse local, tendo por objetivo o pleno desenvolvimento de suas funções sociais, garantindo o bem-estar de sua população, cabendo-lhe privativamente:
@@ -387,7 +394,8 @@ XIV – prover de instalações adequadas o Poder Legislativo Municipal.
 
 XV - organizar, manter e prestar, com a cooperação técnica e financeira da União e do Estado, programas de educação pré-escolar e de ensino fundamental, serviços de atendimento a saúde da população e serviços de assistência social em geral e especialmente à família, à criança, ao adolescente, aos portadores de necessidades especiais e ao idoso;
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA COMPETÊNCIA COMUM
 
 Art. 8º - É da competência administrativa comum do Município, do Estado e da União, observada a lei complementar federal, o exercício das seguintes medidas:
@@ -416,7 +424,8 @@ VI - fazer cessar, no exercício do poder de polícia administrativa, as ativida
 
 VII - controlar a qualidade dos alimentos produzidos e distribuídos no seu território do ponto de vista da saúde pública, e fiscalizar, nos locais de venda, as condições sanitárias dos gêneros alimentícios.
 
-CAPÍTULO III <br>
+CAPÍTULO III 
+
 DAS VEDAÇÕES
 
 Art. 9º - Ao Município é vedado:
@@ -427,10 +436,12 @@ II - outorgar isenções e anistias fiscais ou permitir a remissão de dívidas,
 
 III - destinar recursos públicos a instituições particulares de caráter lucrativo.
 
-TÍTULO IV<br>
+TÍTULO IV
+
 DA DIVISÃO ADMINISTRATIVA DO MUNICÍPIO
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS ADMINISTRAÇÕES REGIONAIS
 
 Art. 10 – É mantido o atual território do Município, cujos limites só podem ser alterados nos termos da Constituição do Estado.
@@ -439,7 +450,8 @@ Parágrafo Único – Depende de lei a criação, organização e supressão de 
 
 TÍTULO V
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL
 
 Art. 11 – A atividade de administração pública dos Poderes do Município e de entidade descentralizada obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e razoabilidade.
@@ -476,7 +488,8 @@ V – às demais entidades de direto privado, sob o controle direto ou indireto 
 
 ~~§ 4º - Entidade da administração indireta somente pode ser instituída para a prestação de serviço público.~~
 
-~~§ 5º - Todas as fundações do Município, para terem direito ao recebimento de subvenções, auxílios, ajudas ou quaisquer verbas da Prefeitura, de forma direta ou indireta, se obrigam a prestar contas, mensalmente.~~<br>
+~~§ 5º - Todas as fundações do Município, para terem direito ao recebimento de subvenções, auxílios, ajudas ou quaisquer verbas da Prefeitura, de forma direta ou indireta, se obrigam a prestar contas, mensalmente.~~
+
 **(REVOGADO PELA EMENDA À LEI ORGÂNICA Nº 006, DE 7 DE NOVEMBRO DE 2019).**
 
 Art. 14 – Para o procedimento de licitação, obrigatório para contratação de obra, serviço, compra, alienação e concessão, o Município observará as normas gerais expedidas pela União e normas suplementares.
@@ -495,7 +508,8 @@ Art. 18 – O Município manterá os livros necessários ao registro de seus ser
 
 Parágrafo Único – Os livros poderão ser substituídos por ficha ou sistema informatizado, com garantia de fidedignidade.
 
-~~Art. 19 – O Prefeito, o Vice-Prefeito, os Vereadores, os ocupantes de cargo em comissão ou função de confiança, as pessoas ligadas a qualquer deles por matrimônio ou parentesco, afim ou consangüíneo, até o segundo grau, ou por adoção, e os servidores e empregados públicos municipais, não poderão contratar com o Município, subsistindo a proibição até seis meses depois de findas as respectivas funções.~~ <br>
+~~Art. 19 – O Prefeito, o Vice-Prefeito, os Vereadores, os ocupantes de cargo em comissão ou função de confiança, as pessoas ligadas a qualquer deles por matrimônio ou parentesco, afim ou consangüíneo, até o segundo grau, ou por adoção, e os servidores e empregados públicos municipais, não poderão contratar com o Município, subsistindo a proibição até seis meses depois de findas as respectivas funções.~~ 
+
 (**ARTIGO SUPRIMIDO PELA EMENDA À LEI ORGÂNICA Nº 001, DE 9 DE JUNHO DE 2009).**
 
 Art. 19 – A ação administrativa do Poder Executivo será organizada segundo os critérios de descentralização, regionalização e participação popular.
@@ -512,7 +526,8 @@ III – unidade administrativa.
 
 § 2º - Unidade administrativa é a parte de órgão central ou de entidade da administração indireta.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS SERVIÇOS E OBRAS PÚBLICAS
 
 Art. 21 – O Município, para organizar e regulamentar os serviços públicos observará os requisitos de comodidade, conforto e bem-estar dos usuários.
@@ -569,20 +584,24 @@ III – a execução de quaisquer outras obras destinadas a assegurar a funciona
 
 § 5º - O Município poderá embargar a implantação de obras e serviços executados pela União e o Estado, que não sejam de interesse público local.
 
-TÍTULO VI<br>
+TÍTULO VI
+
 DA ORGANIZAÇÃO DOS PODERES MUNICIPAIS
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO PODER LEGISLATIVO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DA CAMARA DOS VEREADORES
 
 Art. 25 O Poder Legislativo Municipal é exercido pela Câmara Municipal, composta de 25 (vinte e cinco) Vereadores, nos moldes do art. 29, inciso IV, alínea “i”, Constituição Federal de 1988, eleitos pelo sistema proporcional, através do voto direto, secreto e universal, respeitadas as condições de elegibilidade previstas no § 3º do artigo 14, da Constituição Federal de 1988.
 
 § 1º Cada legislatura terá a duração de 4 (quatro) anos, iniciando-se no dia 1º de janeiro do ano seguinte ao da respectiva eleição.
 
-§ 2º O número de Vereadores poderá ser modificado de acordo com os critérios estabelecidos no art. 29 da Constituição Federal de 1988, utilizando-se os dados do último Censo Populacional divulgado pelo Instituto Brasileiro de Geografia e Estatística – IBGE, devendo ser feito mediante alteração desta Lei Orgânica.<br>
+§ 2º O número de Vereadores poderá ser modificado de acordo com os critérios estabelecidos no art. 29 da Constituição Federal de 1988, utilizando-se os dados do último Censo Populacional divulgado pelo Instituto Brasileiro de Geografia e Estatística – IBGE, devendo ser feito mediante alteração desta Lei Orgânica.
+
 **(REDAÇÃO ATUALIZADA PELA EMENDA À LEI ORGÂNICA Nº 004 DE 20 DE MARÇO DE 2014)**
 
 ~~Art. 25 – O Poder Legislativo é exercido pela Câmara de Vereadores, composta de acordo com seu quantitativo populacional nos termos do artigo 29, inciso IV, da Constituição Federal, representantes do povo, eleitos pelo sistema proporcional, pelo voto direto e secreto, a iniciar-se no ano seguinte ao da eleição, respeitadas as condições de elegibilidade previstas no § 3º do artigo 14, da Constituição Federal.~~
@@ -597,7 +616,8 @@ Art. 25 O Poder Legislativo Municipal é exercido pela Câmara Municipal, compos
 
 ~~§ 5º - O número de Vereadores será fixado nos termos dos §§ 2º e 3º deste artigo, por decreto legislativo e comunicado às autoridades competentes.~~
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA POSSE
 
 Art.26- A Câmara Municipal reunir-se-á em sessão ordinária, independentemente de convocação, no período de 1º de fevereiro a 30 de junho e de 1º de agosto a 15 de dezembro de cada ano.
@@ -610,7 +630,8 @@ Art. 27 –No primeiro ano de cada legislatura, cuja duração coincide com a do
 
 § 3º - no ato da posse e ao término do mandato, os vereadores deverão fazer declaração de seus bens, a qual será transcrita em livro próprio, constando da ata o seu resumo, sem o que não será empossado.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DA MESA DA CÂMARA
 
 Art. 28 - A Mesa da Câmara, a ser eleita conforme o artigo anterior, até 2 (dois) dias após a posse, será composta por presidente, vice-presidente, primeiro secretário e segundo secretário.
@@ -659,7 +680,8 @@ V – depositar no fundo de reaparelhamento da Câmara Municipal o saldo de caix
 
 VI - apresentar ao plenário, até o dia 20 de cada mês, o balancete relativo aos recursos recebidos e às despesas do mês anterior.
 
-SEÇAO IV<br>
+SEÇAO IV
+
 DAS COMISSÕES
 
 Art. 33 - A Câmara Municipal terá comissões permanentes e especiais, constituídas na forma e com as atribuições definidas no Regimento interno ou no ato de que resulta a sua criação.
@@ -684,7 +706,8 @@ VII - acompanhar, junto à Prefeitura Municipal, a elaboração da proposta orç
 
 VIII – acompanhar a implantação dos planos e programas instituídos pelo Município e exercer a fiscalização dos recursos neles investidos.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DAS ATRIBUIÇÕES DA CÂMARA MUNICIPAL
 
 Art. 34 – A Câmara se reunirá em sessões ordinárias, extraordinárias e solenes, conforme dispuser o seu Regimento.
@@ -819,7 +842,8 @@ XXIX - autorizar por dois terços de seus membros, a instauração do processo c
 
 XXX - processar e julgar o Prefeito e Vice-Prefeito nos crimes de responsabilidade.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 DOS VEREADORES
 
 Art. 40 – O Vereador é inviolável no exercício do mandato e na circunscrição do Município, por suas opiniões, palavras e votos.
@@ -900,7 +924,8 @@ Art. 47 – As Comissões Especiais de Inquérito, observada a legislação espe
 
 § 3º - O agente público municipal obriga-se a atender à convocação das Comissões Especiais de Inquérito, sob pena de responsabilidade.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO PROCESSO LEGISLATIVO
 
 Art. 48 – O processo legislativo compreende a elaboração de:
@@ -1049,15 +1074,18 @@ Art. 60 – O Decreto Legislativo destina-se a regular matéria de competência 
 
 Art. 61 – O Processo Legislativo das Resoluções e dos Decretos Legislativos se dará conforme determinado no Regimento Interno da Câmara, observando no que couber, o disposto nesta Lei Orgânica.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO PODER EXECUTIVO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DISPOSIÇÕES GERAIS
 
 Art. 62 – O Poder Executivo é exercido pelo Prefeito do Município, auxiliado pelos Secretários Municipais.
 
-§ 1º - O subsídio do Prefeito, Vice-Prefeito e Secretários serão fixados por lei de iniciativa da Câmara Municipal, em cada legislatura, para ter vigência na subseqüente, devendo ser aprovado até o dia 15 de dezembro, por voto aberto da maioria de seus membros.<br>
+§ 1º - O subsídio do Prefeito, Vice-Prefeito e Secretários serão fixados por lei de iniciativa da Câmara Municipal, em cada legislatura, para ter vigência na subseqüente, devendo ser aprovado até o dia 15 de dezembro, por voto aberto da maioria de seus membros.
+
 (**ATUALIZADA PELA EMENDA À LEI ORGÂNICA Nº 002 DE 05 DE SETEMBRO DE 2012).**
 
 ~~§ 1º - O subsídio do Prefeito, será fixado pela Câmara Municipal até trinta dias antes das eleições municipais para vigorar na legislatura seguinte.~~
@@ -1106,7 +1134,8 @@ Parágrafo Único- No caso do inciso II, o pedido de licença, amplamente motiva
 
 Art. 70 – O Prefeito pode ser convocado pela Câmara ou por iniciativa popular subscrita por 5% (cinco por cento) do eleitorado municipal, para prestar informações ou esclarecimentos referentes aos negócios públicos do Município.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DAS ATRIBUIÇÕES DO PREFEITO MUNICIPAL
 
 Art. 71 – Compete privativamente ao Prefeito:
@@ -1155,7 +1184,8 @@ XXI – exercer, com o auxílio do Vice-Prefeito, dos Secretários Municipais ou
 
 XXII – exercer outras atribuições previstas nesta Lei Orgânica.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DA RESPONSABILIDADE DO PREFEITO MUNICIPAL
 
 Art. 72 – São crimes de responsabilidade, os atos do Prefeito que atentem contra as Constituições da República e do Estado, esta Lei Orgânica e, especialmente, contra:
@@ -1254,7 +1284,8 @@ II – sofrer condenação por crime doloso, comissivo ou omissivo em decisão t
 
 III – renunciar.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DOS SECRETÁRIOS MUNICIPAIS
 
 Art. 77 – O Secretário Municipal será escolhido dentre brasileiros maiores de 25 (vinte e cinco) anos de idade, em pleno gozo dos direitos políticos, de comprovada idoneidade moral e administrativa, observada a qualificação para o exercício do cargo ou função.
@@ -1273,7 +1304,8 @@ V – praticar os atos pertinentes às atribuições que lhe forem outorgadas ou
 
 VI – comparecer à Câmara, nos casos e para os fins previstos nesta Lei Orgânica.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DA PROCURADORIA DO MUNICÍPIO
 
 Art. 79 - A Procuradoria Geral do Município é a instituição diretamente subordinada ao Prefeito Municipal, incumbida da representação judicial do Município, da consultoria e assessoramento jurídicos do Poder Executivo, bem como, da execução da dívida ativa.
@@ -1284,10 +1316,12 @@ Art. 79 - A Procuradoria Geral do Município é a instituição diretamente subo
 
 § 3º - A Procuradoria do Município tem por chefe o Procurador Geral do Município, de livre designação e nomeação pelo Prefeito, dentre advogados de reconhecido saber jurídico e reputação ilibada.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 DA FISCALIZAÇÃO E DOS CONTROLES
 
-SUBSEÇÃO ÚNICA<br>
+SUBSEÇÃO ÚNICA
+
 DISPOSIÇÕES GERAIS
 
 Art. 80 – Toda entidade da sociedade civil de âmbito municipal poderá requerer ao Prefeito ou autoridade competente do Município a realização de audiência pública, para que esclareça determinado ato ou projeto da administração.
@@ -1334,10 +1368,12 @@ I – utilizar, arrecadar, guardar, gerenciar ou administrar dinheiro, bem ou va
 
 II – assumir, em nome do Município ou de entidade da administração direta, obrigações de natureza pecuniária.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DA ADMINISTRAÇÃO FINANCEIRA
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DOS TRIBUTOS MUNICIPAIS
 
 Art. 86 – Compete ao Município instituir os seguintes tributos:
@@ -1388,7 +1424,8 @@ II - excluir de sua incidência exportações e serviços para o exterior.
 
 CAPÍTULO V
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DAS LIMITAÇÕES AO PODER DE TRIBUTAR
 
 Art. 87 – É vedado ao Município:
@@ -1441,7 +1478,8 @@ b) a obtenção de certidões em repartições públicas para defesa de direitos
 
 § 7.º - Do lançamento do tributo cabe recurso aos órgãos de julgamento do contencioso administrativo, assegurado para sua interposição o prazo de quinze dias, contados a partir da notificação.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA PARTICIPAÇÃO DO MUNICÍPIO NAS RECEITAS TRIBUTÁRIAS
 
 Art. 88 – Pertence ao Município:
@@ -1468,7 +1506,8 @@ Art. 90 – A União entregará ao Município 70% (setenta por cento) do montant
 
 Art. 91 – O Município divulgará, até o último dia do mês subseqüente ao da arrecadação, os montantes de cada um dos tributos arrecadados, dos recursos recebidos, os valores de origem tributária entregues e a entregar, e a expressão numérica dos critérios de rateio.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DO ORÇAMENTO
 
 Art. 92 – O planejamento das atividades do Governo Municipal obedecerá às diretrizes deste capítulo e será feito por meio de elaboração e manutenção atualizada, conforme dispõe o artigo 77, inciso VIII, da Constituição Estadual, entre outros, dos seguintes instrumentos:
@@ -1569,18 +1608,22 @@ I – se houver prévia dotação orçamentária suficiente para atender às pro
 
 II – se houver autorização específica na lei de diretrizes orçamentárias, ressalvadas as empresas públicas e as sociedades de economia mista.
 
-TÍTULO VII<br>
+TÍTULO VII
+
 DA SOCIEDADE
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA ORDEM SOCIAL
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DISPOSIÇÃO GERAL
 
 Art. 100 – a ordem social tem como base o primado do trabalho, e como objetivo o bem-estar e a justiça social.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA SAÚDE
 
 Art. 101 – A saúde é direito de todos os Munícipes e dever do Poder Público, assegurado mediante políticas econômicas, sociais, ambientais e outras que visem à prevenção e à eliminação do risco de doenças e outros agravos, e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação, sem qualquer discriminação, incluindo-se nesta o ambiente de trabalho.
@@ -1695,7 +1738,8 @@ Art. 108 – O Município se responsabilizará pela implementação do Sistema �
 
 § 5º - Criação de ambulatório com recursos humanos e materiais adequados ao atendimento médico, odontológico, fonoaudiológico, neuropsicológico, laboratorial e de medicamentos gratuitos e ambulância permanente para os casos de urgência.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DA EDUCAÇÃO
 
 Art. 109 – A educação, direito de todos e dever do Município e da família, será promovida e incentivada com a colaboração da sociedade, visando ao pleno desenvolvimento da pessoa, seu preparo para o exercício da cidadania e sua qualificação para o trabalho, devendo ser ministrada com base nos princípios estabelecidos nas Constituições da República e do Estado de Goiás e nas demais legislações pertinentes.
@@ -1832,7 +1876,8 @@ IV – promover a integração das redes de ensino do Município;
 
 V – zelar pelo cumprimento da legislação aplicável à educação e ao ensino.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DA FAMÍLIA, DA CRIANÇA, DO ADOLESCENTE, DO IDOSO E DO PORTADOR DE NECESSIDADES ESPECIAIS
 
 Art. 119 - A família, base da sociedade, receberá proteção na forma de programas de assistência à criança, ao adolescente e ao idoso e ao portador de necessidades especiais, para assegurar:
@@ -1871,7 +1916,8 @@ Art. 122 - O Município apoiará programas visando a integração familiar e soc
 
 Art. 123 - Para assegurar amparo às pessoas idosas, será criado organismo permanente, destinado a garantir a participação das mesmas na comunidade, defender sua dignidade, bem-estar e direito à vida.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DA CULTURA, DO DESPORTO E DO LAZER
 
 Art. 124 - O Município estimulara o desenvolvimento das ciências, das artes, das letras, da cultura em geral, do esporte e lazer, observando o disposto nas Constituições Federal e Estadual.
@@ -1892,7 +1938,8 @@ Art. 126- As atividades fiscais sistematizadas, os jogos recreativos, os desport
 
 Art. 127 - Fica instituído o Conselho Municipal de Desportos, a ser regulamento por lei.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 DA HABITAÇÃO
 
 Art. 128 - O acesso à moradia é competência comum do Estado, do Município e da sociedade, e direito de todos, na forma da lei.
@@ -1923,7 +1970,8 @@ Art. 131 - As áreas urbanas desapropriadas, nos termos que estabelece o art. 18
 
 Art. 132 - O Poder Público Municipal estabelecerá estímulos e assistência técnica operacional à criação de cooperativas para construção de casa própria.
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 DA CIÊNCIA E TECNOLOGIA
 
 Art. 133 - O Município, visando o bem-estar da população, promoverá e incentivará o desenvolvimento e a capacitação científica e tecnológica, com prioridade à pesquisa e à difusão do conhecimento técnico - científico.
@@ -1960,7 +2008,8 @@ Art. 141 - O Município incentivará a realização de cursos, palestras e outro
 
 Art. 142 - A lei disporá, entre outros estímulos, sobre concessão de isenções, incentivos e benefícios, observados os limites desta Lei Orgânica, a empresa brasileira de capital nacional, com sede e administração no Município, que concorra para a viabilização de autonomia tecnológica nacional.
 
-SEÇÃO VIII<br>
+SEÇÃO VIII
+
 DO MEIO AMBIENTE
 
 Art. 143 – Todos têm direito ao meio ambiente saudável ecologicamente equilibrado, bem de uso comum e essencial à adequada qualidade de vida, impondo-se à coletividade e, em especial, ao Poder Executivo, o dever de defendê-lo e preservá-lo para o benefício das gerações atuais e futuras.
@@ -2033,7 +2082,8 @@ Art. 152 – Nos serviços públicos prestados pelo Município e na sua concess�
 
 Parágrafo Único – As empresas concessionárias ou permissionárias de serviços públicos deverão atender rigorosamente aos dispositivos de proteção ambiental, não sendo permitida a renovação de permissão ou concessão, no caso de reincidência da infração.
 
-SEÇÃO IX<br>
+SEÇÃO IX
+
 DO ABASTECIMENTO E DA POLÍTICA RURAL
 
 Art. 153 – O Município, nos limites de sua competência, em cooperação com a União e o Estado, organizará o abastecimento com vistas a melhorar as condições de acesso a alimentos pela população, especialmente a de baixo poder aquisitivo.
@@ -2058,7 +2108,8 @@ Art. 154 – O Município manterá assistência técnica ao trabalhador e ao peq
 
 Parágrafo único: Do produtor rural do Município não será cobrada taxa de licença ou alvará para venda diretamente de seus produtos ao consumidor
 
-SEÇÃO X<br>
+SEÇÃO X
+
 DOS TRANSPORTES
 
 Art. 155 – O transporte é um direito fundamental do cidadão, sendo de responsabilidade do Poder Executivo Municipal o planejamento, o gerenciamento e a operação do sistema de transporte público coletivo ou individual, entre outros, pelo transporte coletivo por ônibus e microônibus, por táxi, moto-táxi, pelo transporte de fretamento, moto-frete, pelo transporte coletivo suplementar e pelo transporte escolar, por sua conta ou através de concessão, permissão ou autorização, nos moldes do artigo 30, inciso V, da Constituição Federal, assegurando-se.
@@ -2151,7 +2202,8 @@ Parágrafo Único – Em entidade da administração indireta, pelo menos um car
 
 Art. 168 – Os vencimentos dos servidores públicos, e os subsídios somente poderão ser fixados ou alterados por Lei específica - observada a iniciativa privativa em cada caso -, assegurada a revisão anual, sempre no 1º (primeiro) dia do mês de maio, sem distinção de índices.
 
-§ 1º. Os vencimentos dos servidores públicos organizados em carreira, poderá ser fixada por subsídio em parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória, obedecido, em qualquer caso, subsídio percebido pelo Prefeito, ressalvado, para todos os fins de direito, o pagamento referente ao adicional de férias, acrescidas do terço constitucional e 13º salário, por serem considerados direitos sociais garantidos, conforme artigo 7º, VIII e XVII da Constituição Federal.<br>
+§ 1º. Os vencimentos dos servidores públicos organizados em carreira, poderá ser fixada por subsídio em parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória, obedecido, em qualquer caso, subsídio percebido pelo Prefeito, ressalvado, para todos os fins de direito, o pagamento referente ao adicional de férias, acrescidas do terço constitucional e 13º salário, por serem considerados direitos sociais garantidos, conforme artigo 7º, VIII e XVII da Constituição Federal.
+
 **(REDAÇÃO ALTERADA PELA EMENDA À LEI ORGÂNICA Nº 005, DE 23 DE JUNHO DE 2017)**
 
 ~~§ 1º. Os vencimentos dos servidores públicos organizados em carreira, poderá ser fixada por subsídio em parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória, obedecido, em qualquer caso, subsídio percebido pelo Prefeito.~~
@@ -2252,18 +2304,22 @@ III - mediante procedimento de avaliação periódica de desempenho, na forma de
 
 § 5º - É assegurado o prazo de dois anos de efetivo exercício para aquisição de estabilidade aos servidores em estágio probatório até a data da publicação da Emenda Constitucional nº 19/98, sem prejuízo da avaliação profissional.
 
-Art. 180 – O Regime Próprio de Previdência do Município de Aparecida de Goiânia tem como benefícios previdenciários regulamentados as Aposentadorias e Pensão por Morte, conforme normas constitucionais.<br>
+Art. 180 – O Regime Próprio de Previdência do Município de Aparecida de Goiânia tem como benefícios previdenciários regulamentados as Aposentadorias e Pensão por Morte, conforme normas constitucionais.
+
  **(REDAÇÃO DADA PELA EMENDA À LEI ORGÂNICA Nº 007, DE 6 DE FEVEREIRO DE 2024)**
 
 Parágrafo único: Os requisitos de idade e tempo de contribuição seguirão sempre que necessário aqueles estabelecidos na Constituição Federal e alterados através de lei própria do município. **(REDAÇÃO DADA PELA EMENDA À LEI ORGÂNICA Nº 007, DE 6 DE FEVEREIRO DE 2024).**
 
-Art. 180-A - A previdência própria do município de Aparecida de Goiânia destinada aos servidores efetivos e seus dependentes, será regulamentada por lei própria para concessão dos benefícios de aposentadoria e pensão por morte, seguindo sempre os critérios constitucionais em vigor e quando necessários. <br>
+Art. 180-A - A previdência própria do município de Aparecida de Goiânia destinada aos servidores efetivos e seus dependentes, será regulamentada por lei própria para concessão dos benefícios de aposentadoria e pensão por morte, seguindo sempre os critérios constitucionais em vigor e quando necessários. 
+
 **(REDAÇÃO DADA PELA EMENDA À LEI ORGÂNICA Nº 007, DE 6 DE FEVEREIRO DE 2024)**
 
-§ 1º - Somente aplicará ao regime de previdência municipal as regras constitucionais modificadas quando essas tiverem eficácia plena e imediata, caso contrário, haverá necessidade de alteração da legislação previdenciária municipal através de lei própria do ente federativo. <br>
+§ 1º - Somente aplicará ao regime de previdência municipal as regras constitucionais modificadas quando essas tiverem eficácia plena e imediata, caso contrário, haverá necessidade de alteração da legislação previdenciária municipal através de lei própria do ente federativo. 
+
 **(REDAÇÃO DADA PELA EMENDA À LEI ORGÂNICA Nº 007, DE 6 DE FEVEREIRO DE 2024)**
 
-§ 2º - A representação do regime próprio de previdência municipal, bem como do regime de previdência complementar, será designada nos termos da Constituição Federal, Constituição do Estado de Goiás, desta Lei orgânica e de Lei Própria. (Art. incluído pela Emenda nº 007/2024)<br>
+§ 2º - A representação do regime próprio de previdência municipal, bem como do regime de previdência complementar, será designada nos termos da Constituição Federal, Constituição do Estado de Goiás, desta Lei orgânica e de Lei Própria. (Art. incluído pela Emenda nº 007/2024)
+
  **(REDAÇÃO DADA PELA EMENDA À LEI ORGÂNICA Nº 007, DE 6 DE FEVEREIRO DE 2024)**
 
 ~~Art. 180 - Ao servidor, titular de cargo efetivo do Município, incluído suas autarquias e fundações, é assegurado o regime de previdência de caráter contributivo, observados critérios que preservem o equilíbrio financeiro e atuarial e o disposto neste artigo.~~
@@ -2326,10 +2382,12 @@ Art. 183 – O Município concederá, sem prejuízo do cargo e vencimentos, lice
 
 §6º O direito previsto no “caput” só será renovado após o interstício de dois anos, sendo que na hipótese de casal adotante a licença só se aplica à servidora. (Artigo Suspenso, pela Liminar Concedida, em 13 de maio de 2009, até julgamento final da Ação Direta de Inconstitucionalidade nº 433-5/200 (200900507459), proposta pelo Prefeito Municipal de Aparecida de Goiânia, em curso perante o Tribunal de Justiça do Estado de Goiás - Corte Especial).
 
-TÍTULO IX<br>
+TÍTULO IX
+
 DA SEGURANÇA
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DA GUARDA MUNICIPAL
 
 Art. 184 - A Guarda Municipal, entidade de caráter civil mantida pelo Município, terá a finalidade precípua de proteger o patrimônio, bens, serviços e instalações públicas, além do que a lei dispuser.
@@ -2352,14 +2410,16 @@ Parágrafo único - O conselho de que trata este artigo encaminhará regularment
 
 Art. 187 - Fica garantida, com a fiscalização do conselho, a formação e o aperfeiçoamento permanente dos membros da Guarda Municipal, assegurando-lhes formação humanista com conhecimentos gerais dos direitos humanos e jurídicos.
 
-SEÇÃO II <br>
+SEÇÃO II 
+
 DA DEFESA CIVIL
 
 Art. 188 - Será criado o Conselho Municipal de Defesa Civil – COMUDEC, cuja composição, funcionamento e competência serão estabelecidos em lei, incumbido de promover todas as atividades de defesa civil no âmbito do Município, caracterizadas pela existência de situação de emergência ou de estado de calamidade pública, bem como a efetivação de outras medidas preventivas e assistenciais, voltadas à consecução do bem-estar social.
 
 Parágrafo único - A situação de emergência ou de calamidade pública poderá ter atendimento descentralizado, mediante a criação de comissões de defesa civil, que funcionarão nos bairros e edificações residenciais.
 
-TÍTULO X<br>
+TÍTULO X
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 189 - A lei reservará percentual dos cargos e empregos públicos para as pessoas portadoras de necessidades especiais, garantindo as adaptações necessárias para sua participação nos concursos públicos e definirá os critérios de sua admissão.
@@ -2426,19 +2486,24 @@ Aparecida de Goiânia, 16 de Dezembro de 2008.
 
  
 
-Vagner da Silva Ferreira<br>
+Vagner da Silva Ferreira
+
 **Presidente da Mesa Diretora da Constituinte**
 
-William Ludovico de Almeida<br>
+William Ludovico de Almeida
+
 **Relator**
 
-Hilário Giacomet<br>
+Hilário Giacomet
+
 **Vice-Presidente**
 
-Josiel Santos Meneses<br>
+Josiel Santos Meneses
+
 **Secretário**
 
-Sebastião Ramoncito Nunes<br>
+Sebastião Ramoncito Nunes
+
 **2º Secretário**
 
 1\. Vereador Daniel Curtinhas da Silva
@@ -2475,10 +2540,12 @@ Sebastião Ramoncito Nunes<br>
 
 17\. Vereador William Ludovico de Almeida
 
-João Antonio Borges<br>
+João Antonio Borges
+
 **Presidente da Mesa Diretora da Câmara**
 
-João Bosco Boaventura<br>
+João Bosco Boaventura
+
 **Assessor Jurídico da Câmara**
 
 **\- [Emenda à Lei Orgânica do Município, nº 001, de 9 de junho de 2009](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18659).**

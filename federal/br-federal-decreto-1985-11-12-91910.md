@@ -1,5 +1,3 @@
-###DEC-091910-0-000-12-11-1985@@@
-
 Decreto nº 91.910, de 12 de novembro de 1985
 
 Altera a composição da Comissão Especial incumbida de elaborar estudos para reformulação da legislação sobre o uso e fiscalização de agrotóxicos e biocidas.

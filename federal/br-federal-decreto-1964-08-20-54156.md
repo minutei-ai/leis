@@ -1,5 +1,3 @@
-###DEC-054156-0-000-20-08-1964@@@
-
 DECRETO Nº 54.156, DE 20 DE AGÔSTO DE 1964.
 
 Autoriza a Companhia Ferro e Aço de Vitória a montar grupos geradores para uso exclusivo.

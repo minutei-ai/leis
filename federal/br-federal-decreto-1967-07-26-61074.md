@@ -1,5 +1,3 @@
-###DEC-061074-0-000-26-07-1967@@@
-
 DECRETO Nº 61.074, DE 26 DE JULHO DE 1967.
 
 Outorga à Companhia de Eletrificação Rural do Nordeste concessão para distribuir energia elétrica no município de Itapipoca, Estado do Ceará.

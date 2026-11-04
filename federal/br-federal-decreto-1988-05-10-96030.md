@@ -1,5 +1,3 @@
-###DEC-096030-0-000-10-05-1988@@@
-
 DECRETO N° 96.030, DE 10 DE MAIO DE 1988
 
 Outorga à Companhia de Saneamento Básico do Estado de São Paulo - SABESP concessão para captação de água do rio Canoas, para abastecimento público, no Esta­do de São Paulo.

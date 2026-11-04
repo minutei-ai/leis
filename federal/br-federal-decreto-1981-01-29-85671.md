@@ -1,5 +1,3 @@
-###DEC-085671-0-000-29-01-1981@@@
-
 Decreto nº 85 671, de 29 de janeiro de 1981
 
 Autoriza o funcionamento da habilitação Português - Inglês, no curso de Letras da Faculdade de Ciências e Letras Geral do Rezende, em Suzano, Estado de São Paulo.

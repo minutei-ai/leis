@@ -1,5 +1,3 @@
-###DEC-069825-0-000-22-12-1971@@@
-
 DECRETO Nº 69.825 - DE 22 DE DEZEMBRO DE 1971
 
 Dá nova redação a dispositivos do Regulamento Geral dos Transportes para as Estradas de Ferro Brasileiras, aprovado pelo Decreto nº 51.813, de 8 de março de 1963.

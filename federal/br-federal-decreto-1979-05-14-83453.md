@@ -1,5 +1,3 @@
-###DEC-083453-0-000-14-05-1979@@@
-
 Decreto nº 83.453, de 14 de maio de 1979.
 
 Autoriza o registro, em nome da União Federal, do terreno que menciona, situado no Município de Recife, Estado de Pernambuco.

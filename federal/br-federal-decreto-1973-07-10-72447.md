@@ -1,5 +1,3 @@
-###DEC-072447-0-000-10-07-1973@@@
-
 DECRETO Nº 72.447, DE 10 DE JULHO DE 1973.
 
 Torna sem efeito a inclusão de cargo e respectivo ocupantes oriundos do extinto SAPS no Quadro de Pessoal do Ministério da Marinha.

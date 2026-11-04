@@ -1,7 +1,3 @@
-1
-
-###DEL-000755-0-000-11-08-1969@@@
-
 DECRetO-LEI Nº 755, DE 11 DE AGÔSTO DE 1969
 
 Dá nova redação ao § 2º do Art. 19 da Lei nº 2.004, de 3 de outubro de 1953, alterado pelo Art. 1º do Decreto-Lei nº 688, de 18 de julho de 1969, que dispõe sôbre a política nacional do petróleo.

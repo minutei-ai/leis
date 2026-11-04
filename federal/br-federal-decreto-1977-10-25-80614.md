@@ -1,5 +1,3 @@
-###DEC-080614-0-000-25-10-1977@@@
-
 DECRETO Nº 80.614, DE 25 DE OUTUBRO DE 1977.
 
 Concede à Minérios Metalúrgicos do Nordeste S.A. o direito de lavrar quartzo no Município de Jacobina, Estado da Bahia.

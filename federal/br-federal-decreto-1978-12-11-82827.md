@@ -1,5 +1,3 @@
-###DEC-082827-0-000-11-12-1978@@@
-
 Decreto nº 82 827, de 11 de dezembro de 1978
 
 Autoriza o Serviço do Patrimônio da União a formalizar a não aceitação da doação do terreno que menciona, situado no Município de Chapecó, Estado de Santa Catarina.

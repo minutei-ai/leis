@@ -1,5 +1,3 @@
-###DEC-094032-0-000-16-02-1987@@@
-
 DECRETO Nº 94.032, DE 16 DE FEVEREIRO DE 1987.
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Fazenda Cavaco", classificado no Cadastro de Imóveis Rurais do INCRA como "latifúndio por exploração", situado no Município de Cantagalo, no Estado do Paraná, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.622, de 02 de maio de 1986, e dá outras providências.

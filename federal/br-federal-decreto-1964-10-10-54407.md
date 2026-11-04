@@ -1,5 +1,3 @@
-###DEC-054407-0-000-10-10-1964@@@
-
 DECRETO Nº 54.407, DE 10 DE OUTUBRO DE 1964.
 
 Concede à Sociedade Brasileira de Mineração Santa Bárbara Limitada autorização para funcionar como emprêsa de mineração.

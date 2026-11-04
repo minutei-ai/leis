@@ -1,7 +1,3 @@
-1
-
-###DEC-095828-0-000-15-03-1988@@@
-
 DECRETO N° 95.828, DE 15 DE MARÇO DE 1988
 
 Declara de interesse social, para fins de desapropriação, os imóveis rural denominados "FAZENDAS SÃO PEDRO E CIPÓ", classificados como latifúndio por exploração situados no Município de Unaí, no Estado de Minas Gerais, compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.694, de 19 de maio de 1986, e dá outras providências.

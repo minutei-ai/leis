@@ -1,5 +1,3 @@
-###DEC-002822-0-000-27-10-1998@@@
-
 DECRETO Nº 2.822, DE 27 DE OUTUBRO DE 1998
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.419, de 15 de dezembro de 1997.

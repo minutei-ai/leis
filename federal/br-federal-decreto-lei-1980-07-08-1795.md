@@ -1,5 +1,3 @@
-###DEL-001795-0-000-08-07-1980@@@
-
 # Decreto-lei nº 1.795, de 8 de julho de 1980.
 
 Altera a composição da Diretoria do Banco Central do Brasil.

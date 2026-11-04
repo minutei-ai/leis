@@ -1,40 +1,38 @@
-###DEC-039073-0-000-24-04-1956@@@
+**DECRETO Nº 39.073, DE 24 DE ABRIL DE 1956.**
 
-<strong>DECRETO Nº 39.073, DE 24 DE ABRIL DE 1956.</strong>
+***Altera o Regulamento do Serviço de Intendência da Aeronáutica (R.S. I. Aer.)***
 
-<em><strong>Altera o Regulamento do Serviço de Intendência da Aeronáutica (R.S. I. Aer.)</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º O Regulamento do Serviço de Intendência da Aeronáutica, aprovado pelo Decreto nº 25.832, de 12 de novembro de 1948 e alterado pelo Decreto nº 35.659, de 15 de junho de 1954, fica alterado na forma do que com êste baixa, assinado pelo Ministro de Estado dos Negócios da Aeronáutica.
 
-<strong>Art</strong>. 1º O Regulamento do Serviço de Intendência da Aeronáutica, aprovado pelo Decreto nº 25.832, de 12 de novembro de 1948 e alterado pelo Decreto nº 35.659, de 15 de junho de 1954, fica alterado na forma do que com êste baixa, assinado pelo Ministro de Estado dos Negócios da Aeronáutica.
-
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 24 de abril de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Fleiuss
 
-<strong>REGULAMENTO DO SERVIÇO DE INTENDÊNCIA DA AERONÁUTICA</strong>
+**REGULAMENTO DO SERVIÇO DE INTENDÊNCIA DA AERONÁUTICA**
 
 (R.S.I. Aer.)
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Finalidades</em>
+*Finalidades*
 
-<strong>Art</strong>. 1º Tem êste Regulamento por finalidade estabelecer a constituição, a missão, a organização, as atribuições e o funcionamento de Intendência da Aeronáutica (S.I. Aer.).
+**Art**. 1º Tem êste Regulamento por finalidade estabelecer a constituição, a missão, a organização, as atribuições e o funcionamento de Intendência da Aeronáutica (S.I. Aer.).
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Constituição e Missão</em>
+*Constituição e Missão*
 
-<strong>Art</strong>. 2º O S. I. Aer. É constituído das Organizações e órgãos do Ministério da Aeronáutica e da Fôrça Aérea Brasileira e tem por principal missão fornecer econômica e eficientemente no local indicado, em quantidade suficiente e no momento oportuno, os elementos necessários à vida vegetativa e ao bem-estar, inclusive os correspondentes recursos financeiros, dos componentes da Fôrça Aérea Brasileira e, como missão secundária, estender, quando autorizado, as medidas resultantes das atribuições acima mencionadas aos dependentes dos constituintes daquela Fôrça.
+**Art**. 2º O S. I. Aer. É constituído das Organizações e órgãos do Ministério da Aeronáutica e da Fôrça Aérea Brasileira e tem por principal missão fornecer econômica e eficientemente no local indicado, em quantidade suficiente e no momento oportuno, os elementos necessários à vida vegetativa e ao bem-estar, inclusive os correspondentes recursos financeiros, dos componentes da Fôrça Aérea Brasileira e, como missão secundária, estender, quando autorizado, as medidas resultantes das atribuições acima mencionadas aos dependentes dos constituintes daquela Fôrça.
 
-<strong>Art</strong>. 3º Compete ao S.I. Aer. o cuidado das questões:
+**Art**. 3º Compete ao S.I. Aer. o cuidado das questões:
 
 I - Relativas às finanças:
 
@@ -112,11 +110,11 @@ IV - Correspondente a inspeções dos órgãos subordinados:
 
 \- para ostentação de uniformidades nos procedimentos.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Organização</em>
+*Organização*
 
-<strong>Art</strong>. 4º O S. I. Aer, compreende:
+**Art**. 4º O S. I. Aer, compreende:
 
 I - Organizações e Órgãos de Direção:
 
@@ -166,15 +164,15 @@ IV - Organizações e Órgãos de Execução:
 
 \- Formação de Intendência (FI), em tôdas as Unidades Administrativas.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Atribuições</em>
+*Atribuições*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Das organizações e órgãos de direção</em>
+*Das organizações e órgãos de direção*
 
-<strong>Art</strong>. 5º À Chefia do S. I. Aer., em tempo de paz, compete especialmente:
+**Art**. 5º À Chefia do S. I. Aer., em tempo de paz, compete especialmente:
 
 a) - dirigir e superintender as atividades técnicas e administrativas relativas ao S. I. Aer;
 
@@ -186,7 +184,7 @@ d) - estudar e propor ao Estado-Maior da Aeronáutica, para aprovação pelo Min
 
 e) - manter entendimentos com os Chefes dos Serviços de Intendência do Exército e Marinha, com o o objetivo de assegurar, em tempo de paz, um adequado e recíproco apoio logistico para as situações de estado de guerra.
 
-<strong>Art</strong>. 6º Em tempo de guerra, a Chefia do S. I. Aer. terá as seguintes atribuições:
+**Art**. 6º Em tempo de guerra, a Chefia do S. I. Aer. terá as seguintes atribuições:
 
 a) - exercer contrôle sôbre o emprêgo de tôdas as unidades órgãos e organizações do S. I. Aer., que não estejam integrados ou à disposição dos Altos Comandos (Fôça Aérea e Territorial);
 
@@ -208,7 +206,7 @@ f) - planejar e supervisionar os trabalhos do S. I. Aer., principalmente os rela
 
 (4) - à busca, análise e difusão, em coordenação com o A-2 de informes relativos às atividades do serviço de intendência inimigo.
 
-<strong>Art</strong>. 7º Em tempo de guerra, a chefia do S. I. Aer. como órgão de Direção Geral do Serviço de Intendência, será exercida, em escalão superior, distintamente da direção da D.I.Aer.
+**Art**. 7º Em tempo de guerra, a chefia do S. I. Aer. como órgão de Direção Geral do Serviço de Intendência, será exercida, em escalão superior, distintamente da direção da D.I.Aer.
 
 Parágrafo único. A Chefia do S. I. Aer. nessa emergência, exercerá ação técnica sôbre:
 
@@ -216,9 +214,9 @@ a) - A Chefia do S. I. Aer. da Zona Interior (S. I. da Z.I.), exercida pelo Dire
 
 b) - A Chefia do S. I. Aer. de Teatro de Operações (S. I. Aer de TO) e de S. I. Aer. de Zona Defesa (S. I. Aer. de ZD).
 
-<strong>Art</strong>. 8º A D.I.Aer. é o órgão do Ministério da Aeronáutica que, em tempo de paz, trata das questões e das atividades especializadas e administrativas do S. I. Aer., no âmbito da Aeronáutica.
+**Art**. 8º A D.I.Aer. é o órgão do Ministério da Aeronáutica que, em tempo de paz, trata das questões e das atividades especializadas e administrativas do S. I. Aer., no âmbito da Aeronáutica.
 
-<strong>Art</strong>. 9º A D.I.Aer. é dirigida pelo Diretor Geral da Intendência (DGI), que se subordina diretamente ao Ministro da Aeronáutica, respeitada ascendência coordenadora do Chefe do Estado-Maior da Aeronáutica.
+**Art**. 9º A D.I.Aer. é dirigida pelo Diretor Geral da Intendência (DGI), que se subordina diretamente ao Ministro da Aeronáutica, respeitada ascendência coordenadora do Chefe do Estado-Maior da Aeronáutica.
 
 Parágrafo único. O DGI orientará a administração do S. I. Aer. de modo uniforme em todo o território nacional assegurando a observância:
 
@@ -226,29 +224,29 @@ a) - das normas, procedimentos, instruções e regulamentos de aplicação geral
 
 b) - das normas, diretrizes e instruções do Chefe do Estado-Maior da Aeronáutica, relativas à Fôrça Aérea Brasileira,em cumprimento às decisões superiores.
 
-<strong>Art</strong>. 10. As Subdiretorias são órgãos de direção especializada, subordinados imediata e administrativamente á D.I.Era, possuem autonomia funcional que se traduz pela faculdade de entender-se diretamente com as diferentes organizações da Aeronáutica a respeito dos assuntos de sua alçada, que dispensem a audiência dos comandos intermediários, bem como de resolver os problemas que lhes sejam submetidos e para os quais já haja doutrina estabelecida.
+**Art**. 10. As Subdiretorias são órgãos de direção especializada, subordinados imediata e administrativamente á D.I.Era, possuem autonomia funcional que se traduz pela faculdade de entender-se diretamente com as diferentes organizações da Aeronáutica a respeito dos assuntos de sua alçada, que dispensem a audiência dos comandos intermediários, bem como de resolver os problemas que lhes sejam submetidos e para os quais já haja doutrina estabelecida.
 
 Parágrafo único. Êsses entendimentos serão realizados através dos respectivos Comandantes.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Do órgão consultivo</em>
+*Do órgão consultivo*
 
-<strong>Art</strong>. 11. Ao Conselho do S. I. Aer. (C.S. I. Aer.), de natureza consultiva, compete estudar os problemas relacionados com a missão do aludido Serviço e sugerir as providências que conduzam à necessárias continuidade nos planos elaborados.
+**Art**. 11. Ao Conselho do S. I. Aer. (C.S. I. Aer.), de natureza consultiva, compete estudar os problemas relacionados com a missão do aludido Serviço e sugerir as providências que conduzam à necessárias continuidade nos planos elaborados.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Dos órgãos de coordenação</em>
+*Dos órgãos de coordenação*
 
-<strong>Art</strong>. 12. O S. I. Aer. de alto Comando (Territorial ou de Fôrça Aérea Numerada) (SIC) é o órgão diretamente subordinado ao Comandante da Fôrça ou Território, incumbido de coordenar, orientar e supervisionar as questões pertinentes aos serviços de intendência de sua jurisdição.
+**Art**. 12. O S. I. Aer. de alto Comando (Territorial ou de Fôrça Aérea Numerada) (SIC) é o órgão diretamente subordinado ao Comandante da Fôrça ou Território, incumbido de coordenar, orientar e supervisionar as questões pertinentes aos serviços de intendência de sua jurisdição.
 
-<strong>Art</strong>. 13. Os Serviços de Intendência das organizações de Alta Administração (Diretorias provedoras) (SIA) são órgãos diretamente subordinados aos Diretores Gerais para auxiliá-los em trabalho de coordenação e orientação técnicas das atividades das Formações de Intendência (FI) que integram as diversas Unidades Administrativas sob jurisdição daquelas organizações, inclusive a própria.
+**Art**. 13. Os Serviços de Intendência das organizações de Alta Administração (Diretorias provedoras) (SIA) são órgãos diretamente subordinados aos Diretores Gerais para auxiliá-los em trabalho de coordenação e orientação técnicas das atividades das Formações de Intendência (FI) que integram as diversas Unidades Administrativas sob jurisdição daquelas organizações, inclusive a própria.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Das organizações e órgãos de execução geral</em>
+*Das organizações e órgãos de execução geral*
 
-<strong>Art</strong>. 14. As seguintes organizações e órgãos de execução geral ligam-se a Chefia do S. I. Aer, por intermédio dos órgãos indicados:
+**Art**. 14. As seguintes organizações e órgãos de execução geral ligam-se a Chefia do S. I. Aer, por intermédio dos órgãos indicados:
 
 1\) - Tesouraria Geral (TG), parte integrante da Subdiretoria de Finanças: arrecada as receitas e faz os pagamentos da competência dessa Subdiretoria;
 
@@ -258,31 +256,31 @@ Parágrafo único. Êsses entendimentos serão realizados através dos respectiv
 
 4\) - As unidades de Intendência - Subordinadas às Subdiretorias de correlatas atividades: ministram a instrução especializada, bem como fornecem a mão de obra indispensável  ao funcionamento  das diversas atividades do S. I. Aer.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>Das organizações e órgãos de execução regional ou jurisdicional</em>
+*Das organizações e órgãos de execução regional ou jurisdicional*
 
-<strong>Art</strong>. 15. As organizações e órgãos de execução regional ou jurisdicional, sem prejuízo da orientação e da coordenação-técnicas das respectivas Subdiretorias, estão diretamente subordinados ao Alto Comando ou à Alta Administração e compreendem:
+**Art**. 15. As organizações e órgãos de execução regional ou jurisdicional, sem prejuízo da orientação e da coordenação-técnicas das respectivas Subdiretorias, estão diretamente subordinados ao Alto Comando ou à Alta Administração e compreendem:
 
 a) - Estabelecimentos de Intendência (EI) incumbidos de centralizar os suprimentos de numerário e de material a cargo do S. I. Aer. para atender à área ou à Fôrça destacada;
 
 b) - Unidades de Intendência, destinadas a ministrar a instrução especializada do pessoal para os diferentes ramos de atividades de intendência e apoiar o S. I. Aer.
 
-<strong>SEÇÃO VI</strong>
+**SEÇÃO VI**
 
-<em>Dos órgãos de execução local</em>
+*Dos órgãos de execução local*
 
-<strong>Art</strong>. 16. Os órgãos de execução local fazem parte integrante da Unidade Administrativa a que servem e constituem as Formações de Intendência (FI), em tôdas as Unidades Adminstrativas.
+**Art**. 16. Os órgãos de execução local fazem parte integrante da Unidade Administrativa a que servem e constituem as Formações de Intendência (FI), em tôdas as Unidades Adminstrativas.
 
 Parágrafo único. A estruturação e a linha de subordinação da FI são variáveis, dependendo principalmente do vulto de seus encargos em relação à Unidade Administrativa a que pertence.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Funcionamento</em>
+*Funcionamento*
 
-<strong>Art</strong>. 17. As organizações e órgãos do S. I. Aer. prestar-se-ão mútua colaboração, de maneira a facilitar o perfeito desempenho de seus encargos.
+**Art**. 17. As organizações e órgãos do S. I. Aer. prestar-se-ão mútua colaboração, de maneira a facilitar o perfeito desempenho de seus encargos.
 
-<strong>Art</strong>. 18. Em princípio, os suprimentos de intendência serão tabelados em função de:
+**Art**. 18. Em princípio, os suprimentos de intendência serão tabelados em função de:
 
 a) - quantidades necessárias a cada homem;
 
@@ -292,7 +290,7 @@ c) - consumo dispendido no serviço de rotina;
 
 d) - tempo de duração decorrido para o desgaste ou perecimento do material.
 
-<strong>Art</strong>. 19. Os suprimentos e as atividades especializadas de intendência obedecerão aos seguintes escalões:
+**Art**. 19. Os suprimentos e as atividades especializadas de intendência obedecerão aos seguintes escalões:
 
 a) - 1º Escalão - Elementos utilizadores  (homens ou sub-unidades);
 
@@ -312,47 +310,47 @@ d) - 4º Escalão - Tesouraria Geral, Depósito Central de Intendência e Pôsto
 
 § 5º As organizações de execução geral devem estar aptas para exercer, simultâneamente com as suas atribuições, as do Escalão imediatamente inferior, a fim de suprirem diretamente a área em que se acham situadas.
 
-<strong>Art</strong>. 20. O S. I. Aer. reunir-se-á ordinariamente uma vez por mês e extraordinariamente sempre que fôr convocado pelo seu Presidente.
+**Art**. 20. O S. I. Aer. reunir-se-á ordinariamente uma vez por mês e extraordinariamente sempre que fôr convocado pelo seu Presidente.
 
-<strong>Art</strong>. 21. As comprovações do emprêgo dos recursos mateiras e financeiros, facultados às Unidades Adminstrativas, seguirão a direção inversa do fluxo dos suprimentos, sem prejuízo de variantes regulamentares que visem a melhorar a fiscalização dos atos administrativos.
+**Art**. 21. As comprovações do emprêgo dos recursos mateiras e financeiros, facultados às Unidades Adminstrativas, seguirão a direção inversa do fluxo dos suprimentos, sem prejuízo de variantes regulamentares que visem a melhorar a fiscalização dos atos administrativos.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do Pessoal</em>
+*Do Pessoal*
 
-<strong>Art</strong>. 22. Em tempo de paz, a Chefia do S. I. Aer., exercida cumulativamente com a direção da D.I.Aer., será cargo privativo de Oficial-General oriundo do Quadro de Oficiais Intendentes da Aeronáutica.
+**Art**. 22. Em tempo de paz, a Chefia do S. I. Aer., exercida cumulativamente com a direção da D.I.Aer., será cargo privativo de Oficial-General oriundo do Quadro de Oficiais Intendentes da Aeronáutica.
 
 Parágrafo único. Para o tempo de guerra, a chefia do S. I. Aer. será fixada por lei especial.
 
-<strong>Art</strong>. 23. As atribuições específicas, pertinentes às organizações e órgãos do S. I. Aer., serão privativas do Quadro de Oficiais Intendentes da Aeronáutica fixando-se nos respectivos regulamentos os postos convenientes.
+**Art**. 23. As atribuições específicas, pertinentes às organizações e órgãos do S. I. Aer., serão privativas do Quadro de Oficiais Intendentes da Aeronáutica fixando-se nos respectivos regulamentos os postos convenientes.
 
-<strong>Art</strong>. 24. As Tabelas de Organização e Lotação das organizações e órgãos do S. I. Aer. serão fixadas de conformidade com a legislação aplicável.
+**Art**. 24. As Tabelas de Organização e Lotação das organizações e órgãos do S. I. Aer. serão fixadas de conformidade com a legislação aplicável.
 
-<strong>Art</strong>. 25. A movimentação dos Oficiais do S. I. Aer. será feita mediante indicação do DGI ao Diretor Geral do Pessoal que aplicará as normas gerais que a regulem.
+**Art**. 25. A movimentação dos Oficiais do S. I. Aer. será feita mediante indicação do DGI ao Diretor Geral do Pessoal que aplicará as normas gerais que a regulem.
 
-<strong>Art</strong>. 26. As chefias das organizações e órgãos de Direção, de Coordenação e de Execução Geral são privativas de oficiais com o Curso de Direção de Serviços da ECEMAR, ou equivalente.
+**Art**. 26. As chefias das organizações e órgãos de Direção, de Coordenação e de Execução Geral são privativas de oficiais com o Curso de Direção de Serviços da ECEMAR, ou equivalente.
 
 Parágrafo único. As Chefias das organizações e dos órgãos de execução (Regional ou Jurisdicional e Local) são privativas de oficiais com o Curso de Aperfeiçoamento de Oficiais de Serviços da EAOAR.
 
-<strong>Art</strong>. 27. O C.S.I. Aer. É constituído dos seguintes membros:
+**Art**. 27. O C.S.I. Aer. É constituído dos seguintes membros:
 
 Presidente - O Diretor Geral de Intendência;
 
-Vogais - O Chefe da 4<sup>a</sup> Seção do Estado-Maior da Aeronáutica, como coordenador dos Serviços e traduzindo o pensamento do Chefe do E.M.Aer, os Subdiretores, o Inspetor de Intendência e o Chefe do SIC da 3<sup>a</sup> Zona Aérea.
+Vogais - O Chefe da 4ª Seção do Estado-Maior da Aeronáutica, como coordenador dos Serviços e traduzindo o pensamento do Chefe do E.M.Aer, os Subdiretores, o Inspetor de Intendência e o Chefe do SIC da 3ª Zona Aérea.
 
 Parágrafo único. Servirá de Secretário do C.S.I. Aer o Chefe do Gabinete da Diretoria da Intendência da Aeronáutica.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 28. Os Estabelecimentos de Intendência (EI), conforme as ordens em vigor, atendem às organizações localizadas na mesma área de um Alto Comando ou Alta Administração, ou em áreas de diferentes jurisdições, podendo abranger tôdas as atividades, ou parte delas, inerentes ao S. I. Aer.
+**Art**. 28. Os Estabelecimentos de Intendência (EI), conforme as ordens em vigor, atendem às organizações localizadas na mesma área de um Alto Comando ou Alta Administração, ou em áreas de diferentes jurisdições, podendo abranger tôdas as atividades, ou parte delas, inerentes ao S. I. Aer.
 
-<strong>Art</strong>. 29. As Unidades de Intendência são previstas principalmente para tempo de guerra, destinando-se a atender às atividades especializadas e a operar as organizações do Serviço de Intendência da Aeronáutica.
+**Art**. 29. As Unidades de Intendência são previstas principalmente para tempo de guerra, destinando-se a atender às atividades especializadas e a operar as organizações do Serviço de Intendência da Aeronáutica.
 
 Parágrafo único. Para fins de instrução e aplicação, poderão ser organizadas, em tempo de paz, Unidades de Intendência, obedecendo-se ao critério de organização celular.
 
-<strong>Art</strong>. 30. A organização prevista nêste Regulamento demanda os seguintes atos complementares:
+**Art**. 30. A organização prevista nêste Regulamento demanda os seguintes atos complementares:
 
 a) - Regulamento da Diretoria de Intendência (RDI. Aer), abrangendo os órgãos de direção geral e especializada;
 
@@ -368,26 +366,26 @@ d) - Atos Ministeriais referentes a:
 
 \- Funcionamento do C.S. I. Aer.
 
-<strong>Art</strong>. 31. Os dispositivos referentes à organização interna, no tocante aos SIC, SIA e FI, deverão constar nos Regulamentos das organizações de que fazem parte integrante.
+**Art**. 31. Os dispositivos referentes à organização interna, no tocante aos SIC, SIA e FI, deverão constar nos Regulamentos das organizações de que fazem parte integrante.
 
 Parágrafo único. Êsses SIC, SIA ou FI, com objetivo de atender à designação homogênea, poderão receber denominação divisionária equivalente à dos demais órgãos correlatos, sem prejuízo de suas finalidades, atribuições e responsabilidades.
 
-<strong>Art</strong>. 32. Na estruturação dos SIC e SIA respeitar-se-á, no que tange aos respectivos chefes, a sua característica de elementos de Estado-Maior Especialista, com atividades coordenadas pelo Estado-Maior do Alto Comando considerado.
+**Art**. 32. Na estruturação dos SIC e SIA respeitar-se-á, no que tange aos respectivos chefes, a sua característica de elementos de Estado-Maior Especialista, com atividades coordenadas pelo Estado-Maior do Alto Comando considerado.
 
-<strong>Art</strong>. 33. A organização da Diretoria Geral do S. I. Aer. para tempo de paz, abrangendo a chefia do S. I. Aer. e a Diretoria de Intendência (D.I.Aer), far-se-á de modo a permitir as fases de previsão, planejamento e fiscalização, no tocante às responsabilidades do S. I. Aer. dentro da Administração Geral do Ministério da Aeronáutica.
+**Art**. 33. A organização da Diretoria Geral do S. I. Aer. para tempo de paz, abrangendo a chefia do S. I. Aer. e a Diretoria de Intendência (D.I.Aer), far-se-á de modo a permitir as fases de previsão, planejamento e fiscalização, no tocante às responsabilidades do S. I. Aer. dentro da Administração Geral do Ministério da Aeronáutica.
 
-<strong>Art</strong>. 34. A ativação das organizações e órgãos previstos nêste Regulamento, será feita por ato ministerial, mediante proposta do Estado-Maior da Aeronáutica e indicação do DGI.
+**Art**. 34. A ativação das organizações e órgãos previstos nêste Regulamento, será feita por ato ministerial, mediante proposta do Estado-Maior da Aeronáutica e indicação do DGI.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Disposições Transitórias</em>
+*Disposições Transitórias*
 
-<strong>Art</strong>. 35. Enquanto não forem publicados os Regulamentos e Dispositivos de que trata o art. 30, as organizações e os órgãos do S. I. Aer. continuarão a reger-se pelos dispositivos em vigor, naquilo que não colidir com o presente Regulamento.
+**Art**. 35. Enquanto não forem publicados os Regulamentos e Dispositivos de que trata o art. 30, as organizações e os órgãos do S. I. Aer. continuarão a reger-se pelos dispositivos em vigor, naquilo que não colidir com o presente Regulamento.
 
-<strong>Art</strong>. 36. As disposições constantes do art. 26, entrarão em vigor dois anos após a publicação dêste Regulamento; as do parágrafo único do mesmo artigo dentro de um ano contado da data da aludida publicação.
+**Art**. 36. As disposições constantes do art. 26, entrarão em vigor dois anos após a publicação dêste Regulamento; as do parágrafo único do mesmo artigo dentro de um ano contado da data da aludida publicação.
 
 Rio de Janeiro, em 24 de abril de 1956.
 
-<strong>BRIGADEIRO DO AR HENRIQUE FLEIUSS</strong>
+**BRIGADEIRO DO AR HENRIQUE FLEIUSS**
 
 Ministro da Aeronáutica

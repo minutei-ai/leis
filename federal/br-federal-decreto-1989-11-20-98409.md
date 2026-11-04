@@ -1,7 +1,3 @@
-1
-
-###DEC-098409-0-000-20-11-1989@@@
-
 DECRETO Nº 98.409, DE 20 DE NOVEMBRO DE 1989
 
 Aprova alteração no Regulamento de Movimentação para Oficiais e Praças do Exército - (R-50).

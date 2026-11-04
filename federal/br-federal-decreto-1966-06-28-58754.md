@@ -1,5 +1,3 @@
-###DEC-058754-0-000-28-06-1966@@@
-
 Decreto nº 58.754, de 28 de junho de 1966.
 
 Abre ao Ministério das Relações Exteriores, o crédito especial de Cr$60.000.000 para atender às despesas decorrentes da realização da VIII Bienal de São Paulo.

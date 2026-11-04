@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210286)<br>
-
 # DECRETO N° 69.106, DE 03 DE DEZEMBRO DE 2024
 
 ### _Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Vinhedo, que declarou Situação de Emergência em áreas do Município._

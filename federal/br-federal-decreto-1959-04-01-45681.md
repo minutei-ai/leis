@@ -1,5 +1,3 @@
-###DEC-045681-0-000-01-04-1959@@@
-
 decreta nº 45.681, de 1 de abril de 1959.
 
 Concede o abono provisório aos servidores da Caixa Econômica Federal de Pernambuco.

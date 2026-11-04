@@ -1,5 +1,3 @@
-###DEL-007729-0-000-12-07-1945@@@
-
 DECRETO-LEI N. 7.729 – DE 12 DE JULHO DE 1945
 
 Dispõe sôbre Aperfeiçoamento, especialização, viagens de estudo e missões de trabalho de servidores públicos civis federais no estrangeiro e dá outras providências.

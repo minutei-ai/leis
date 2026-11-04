@@ -1,5 +1,3 @@
-###DEC-092510-0-000-01-04-1986@@@
-
 DECRETO Nº 92.510, DE 1º DE ABRIL DE 1986
 
 Altera o artigo 13 do Estatuto aprovado pelo Decreto nº 88.293, de 9 de maio de 1983.

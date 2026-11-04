@@ -1,5 +1,3 @@
-###DEC-096848-0-000-28-09-1988@@@
-
 DECRETO Nº 96.848, DE 28 DE SETEMBRO DE 1988
 
 Outorga concessão ao SISTEMA ITATIUNGA DE COMUNICAÇÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Patos, Estado da Paraíba.

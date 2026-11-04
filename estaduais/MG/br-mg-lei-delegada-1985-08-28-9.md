@@ -37,7 +37,3 @@ Carlos Alberto Cotta
 Walfrido Silvino dos Mares Guia Neto
 
 Maurício Pádua Souza
-
-\================================
-
-Data da última atualização: 28/7/2016.

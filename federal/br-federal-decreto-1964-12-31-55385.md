@@ -1,5 +1,3 @@
-###DEC-055385-0-000-31-12-1964@@@
-
 DECRETO Nº 55.385, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Iwan Oleg Von Hertwig a pesquisar quartzito, no município de Nova Trento, Estado de Santa Catarina.

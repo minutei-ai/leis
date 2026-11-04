@@ -1,5 +1,3 @@
-###DEC-002119-0-000-13-01-1997@@@
-
 DECRETO Nº 2.119, DE 13 DE JANEIRO DE 1997
 
 Dispõe sobre o Programa Piloto para a Proteção das Florestas Tropicais do Brasil e sobre a sua Comissão de Coordenação, e dá outras providências.

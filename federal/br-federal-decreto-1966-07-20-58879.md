@@ -1,5 +1,3 @@
-###DEC-058879-0-000-20-07-1966@@@
-
 DECRETO Nº 58.879, DE 20 DE JULHO DE 1966.
 
 Autoriza o cidadão brasileiro Geraldo Ferreira do Amaral a pesquisar calcário no município de Pains, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-087961-0-000-21-12-1982@@@
-
 Decreto nº 87.961, de 21 de dezembro de 1982
 
 Declara extinta concessão outorgada à Amazônia Mineração S.A. - AMZA, em face da incorporação pela Cia. Vale do Rio Doce-CVRD. Outorga concessão à CVRD para construção, uso e gozo, sem ônus para a União, de uma estrada de ferro, entre a Serra dos Carajás, no Estado do Pará e a Baía de São Marcos, no Estado do Maranhão, e dá outras providências.

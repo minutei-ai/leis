@@ -1,5 +1,3 @@
-###DEC-066974-0-000-28-07-1970@@@
-
 DECRETO Nº 66.974, DE 28 DE JULHO DE 1970.
 
 Declara caduco o Decreto nº 22.430, de 11 de janeiro de 1947.

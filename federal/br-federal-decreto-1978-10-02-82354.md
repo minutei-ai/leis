@@ -1,5 +1,3 @@
-###DEC-082354-0-000-02-10-1978@@@
-
 Decreto nº 82.354, de 02 de outubro de 1978
 
 Revoga o "Regulamento do Centro de Recrutamento do Corpo de Fuzileiros Navais" e dá outras providências.

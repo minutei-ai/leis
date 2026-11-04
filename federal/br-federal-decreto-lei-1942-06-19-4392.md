@@ -1,5 +1,3 @@
-###DEL-004392-0-000-19-06-1942@@@
-
 DECRETO-LEI N. 4.392 – DE 19 DE JUNHO DE 1942
 
 Abre ao Ministério da Guerra o crédito especial de 392:200$0, para admissão de pessoal extranumerário

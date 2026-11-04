@@ -1,7 +1,3 @@
-1
-
-###DEC-001907-0-000-17-05-1996@@@
-
 # DECRETO N° 1.907, DE 17 DE MAIO DE 1996
 
 Altera o art. 4° do Decreto n° 1.647, de 26 de setembro de 1995, com a redação que lhe foi dada pelo Decreto n° 1.785, de 11 de janeiro de 1996.

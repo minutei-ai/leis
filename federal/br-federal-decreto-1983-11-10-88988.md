@@ -1,5 +1,3 @@
-###DEC-088988-0-000-10-11-1983@@@
-
 Decreto nº 88.988, de 10 de novembro de 1983
 
 Concede à Centrais Elétricas Brasileiras S.A. - ELETROBRÁS, autorização para proceder a aumento do seu capital social.

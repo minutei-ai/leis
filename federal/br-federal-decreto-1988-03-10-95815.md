@@ -1,7 +1,3 @@
-1
-
-###DEC-095815-0-000-10-03-1988@@@
-
 DECRETO N° 95.815, DE 10 DE MARÇO DE 1988
 
 Altera a redação dos artigos 10, 16 e 38 do Regulamento do Serviço Especial de Televisão por Assinatura TVA, aprovado pelo Decreto n° 95.744, de 23 de fevereiro de 1988.

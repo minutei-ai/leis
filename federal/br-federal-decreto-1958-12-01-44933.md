@@ -1,5 +1,3 @@
-###DEC-044933-0-000-01-12-1958@@@
-
 DECRETO Nº 44.933, DE 1 DE DEZEMBRO DE 1958.
 
 Autoriza Magnesium do Brasil limitada a pesquisar magnesita no município de Iguatú, estado do ceará.

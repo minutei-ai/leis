@@ -1,5 +1,3 @@
-###DEC-078843-0-000-26-11-1976@@@
-
 DECRETO Nº 78.843, DE 26 DE NOVEMBRO DE 1976.
 
 Outorga concessão à Rádio Progresso de Russas Ltda. para estabelecer uma estação de radiodifusão sonora em onda média de âmbito regional, na Cidade de Russas - Estado do Ceará.

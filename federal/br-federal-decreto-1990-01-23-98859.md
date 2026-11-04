@@ -1,7 +1,3 @@
-1
-
-###DEC-098859-0-000-23-01-1990@@@
-
 DECRETO N° 98.859, DE 23 DE JANEIRO DE 1990
 
 Renova a concessão outorgada à RÁDIO EDUCAÇÃO E CULTURA DE SERTÃOZINHO LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Sertãozinho, Estado de São Paulo.

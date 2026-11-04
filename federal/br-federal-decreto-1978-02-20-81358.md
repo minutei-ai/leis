@@ -1,5 +1,3 @@
-###DEC-081358-0-000-20-02-1978@@@
-
 Decreto nº 81.358, de 20 de fevereiro de 1978
 
 Concede à Minerações Brasileiras Reunidas S/A - MBR o direito de lavrar minério de ferro nos Municípios de Brumadinho e Ibirité, Estado de Minas Gerais.

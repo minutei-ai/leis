@@ -1,5 +1,3 @@
-###DEC-003857-0-000-03-07-2001@@@
-
 DECRETO Nº 3.857, DE 3 DE JULHO DE 2001
 
 Dispõe sbre a execução do Quadragésimo Segundo Protocolo Adicional ao Acordo de Complementação Econômica nº 2, (prorrogação do ACE‑2), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 30 de abril de 2001.

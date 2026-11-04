@@ -1,5 +1,3 @@
-###DEC-050733-0-000-07-06-1961@@@
-
 DECRETO Nº 50.733, DE 7 DE JUNHO DE 1961.
 
 Extingue funções gratificadas no quadro do pessoal do Instituto do Açúcar e do Álcool.

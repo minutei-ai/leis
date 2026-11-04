@@ -1,5 +1,3 @@
-###DEC-066322-0-000-16-03-1970@@@
-
 DECRETO Nº 66.322 - DE 16 DE MARÇO DE 1970
 
 Declara de utilidade pública a Instituição Toledo de Ensino, com sede em Bauru, Estado de São Paulo.

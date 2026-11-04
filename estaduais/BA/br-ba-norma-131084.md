@@ -6,7 +6,8 @@ Regulamenta a publicidade infantil de alimentos no Estado da Bahia.
 
 **Art. 1º -** Fica proibida, no Estado da Bahia, a comunicação mercadológica dirigida às crianças nos estabelecimentos de educação básica.
 
-Redação de acordo com a Lei n° [14.045](https://www.legislabahia.ba.gov.br/documentos/lei-no-14045-de-27-de-dezembro-de-2018) de 27 de dezembro de 2018.<br>
+Redação de acordo com a Lei n° [14.045](https://www.legislabahia.ba.gov.br/documentos/lei-no-14045-de-27-de-dezembro-de-2018) de 27 de dezembro de 2018.
+
 Redação original: "Art. 1º -Fica proibida no Estado da Bahia a publicidade, dirigida a crianças, de alimentos e bebidas pobres em nutrientes e com alto teor de açúcar, gorduras saturadas ou sódio."
 
 **revogado § 1º -** A vedação se estenderá no período compreendido entre 06 (seis) e 21 (vinte e uma) horas, no rádio e televisão, e em qualquer horário nas escolas públicas e privadas. 
@@ -45,7 +46,8 @@ Inciso III revogado pela Lei n° 14.045 de 27 de dezembro de 2018.
 
 **Art. 4º -** Por comunicação mercadológica entende-se toda e qualquer atividade de comunicação comercial, inclusive publicidade, para a divulgação de produtos, serviços, marcas e empresas independentemente do suporte, da mídia ou do meio utilizado.
 
-Redação de acordo com a Lei n° 14.045 de 27 de dezembro de 2018.<br>
+Redação de acordo com a Lei n° 14.045 de 27 de dezembro de 2018.
+
 Redação original: "Art. 4º -  Entende-se por publicidade qualquer forma de veiculação do produto ou marca, seja de forma ostensiva ou implícita em programas dirigidos ao público infantil. "
 
 **Art. 5º -** Esta Lei entra em vigor na data de sua publicação.

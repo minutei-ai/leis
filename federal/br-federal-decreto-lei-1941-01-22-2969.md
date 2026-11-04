@@ -1,5 +1,3 @@
-###DEL-002969-0-000-22-01-1941@@@
-
 DECRETO-LEI N. 2.969 – DE 22 DE JANEIRO DE 1941
 
 Cria cargos e funções gratificadas no Quadro único do Ministério do Trabalho, industria e Comércio, e dá outras providências

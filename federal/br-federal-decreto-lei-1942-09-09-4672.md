@@ -1,5 +1,3 @@
-###DEL-004672-0-000-09-09-1942@@@
-
 DECRETO-LEI N. 4.672 – DE 9 DE SETEMBRO DE 1942
 
 Cria o 4º Grupo Movel de Artilharia de Costa, na 7ª Região Militar

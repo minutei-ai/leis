@@ -1,5 +1,3 @@
-###DEC-086823-0-000-05-01-1982@@@
-
 Decreto nº 86.823, de 05 de janeiro de 1982.
 
 Altera localização de sede e subordinação do 1º Batalhão de Engenharia de Construção e dá outras providências.

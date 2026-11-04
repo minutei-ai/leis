@@ -102,10 +102,12 @@ Art. 8º Esta lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito do Município de Aparecida Goiânia, aos dias 04 do mês de Janeiro do ano de 2016.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
 [MEMORIAL DESCRITIVO](https://admin.legisla.casacivil.go.gov.br/api/v1/admin/arquivos/19055/anexo)

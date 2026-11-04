@@ -1,5 +1,3 @@
-###DEC-083061-0-000-22-01-1979@@@
-
 DECRETO Nº 83.061, DE 22 DE JANEIRO DE 1979
 
 Altera o Decreto nº 76.063, de 31 de julho de 1975.

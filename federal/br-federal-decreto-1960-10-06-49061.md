@@ -1,5 +1,3 @@
-###DEC-049061-0-000-06-10-1960@@@
-
 DECRETO Nº 49.061, DE 6 DE OUTUBRO DE 1960.
 
 Concede reconhecimento a cursos.

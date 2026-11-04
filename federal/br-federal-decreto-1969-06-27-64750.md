@@ -1,5 +1,3 @@
-###DEC-064750-0-000-27-06-1969@@@
-
 DECRETO Nº 64.750, DE 27 DE JUNHO DE 1969.
 
 Concede reconhecimento a Curso de Educação Musical.

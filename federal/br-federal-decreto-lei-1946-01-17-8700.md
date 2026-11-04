@@ -1,5 +1,3 @@
-###DEL-008700-0-000-17-01-1946@@@
-
 DECRETO-LEI N. 8.700 – DE 17 DE JANEIRO DE 1946
 
 Dispõe sôbre o provimento em cargos da classe inicial da carreira de Oficial Administrativo e dá outras providências.

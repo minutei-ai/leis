@@ -1,5 +1,3 @@
-###DEL-008703-0-000-17-01-1946@@@
-
 DECRETO-LEI N. 8.703 – DE 17 DE JANEIRO DE 1946
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 2.250.378,10, para pagamento de materiais fornecidos pela Rubber Development Carporation á Estrada  de Ferro Madeira-Mamoré.

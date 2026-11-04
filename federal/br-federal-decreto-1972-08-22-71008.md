@@ -1,5 +1,3 @@
-###DEC-071008-0-000-22-08-1972@@@
-
 DECRETO Nº 71.008, DE 22 DE AGOSTO DE 1972.
 
 Cria o Consulado Honorário do Brasil em Matadi, República do Zaire.

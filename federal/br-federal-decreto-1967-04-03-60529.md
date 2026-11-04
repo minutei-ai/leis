@@ -1,5 +1,3 @@
-###DEC-060529-0-000-03-04-1967@@@
-
 DECRETO Nº 60.529, DE 3 DE ABRIL DE 1967.
 
 Altera o Regimento do Gabinete do Ministro da Justiça, aprovado pelo Decreto nº 59.045, de 10 de agôsto de 1966, e a Tabela de Funções Gratificadas constante do Decreto nº 59.044 de 10 de agôsto de 1966,

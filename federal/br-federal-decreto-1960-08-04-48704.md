@@ -1,5 +1,3 @@
-###DEC-048704-0-000-04-08-1960@@@
-
 DECRETO Nº 48.704, DE 04 DE agôsto DE 1960.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 35.376, de 13-4-1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público Poço do Barro no Município de Morada Nova, Estado do Ceará.

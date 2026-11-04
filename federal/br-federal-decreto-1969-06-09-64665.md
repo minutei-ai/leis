@@ -1,5 +1,3 @@
-###DEC-064665-0-000-09-06-1969@@@
-
 DECRETO Nº 64.665, DE 9 DE JUNHO DE 1969.
 
 Autoriza o funcionamento do curso de Engenharia de Operação na Escola Naval do Ministério da Marinha.

@@ -1,5 +1,3 @@
-###DEC-090032-0-000-08-08-1984@@@
-
 decreto nº 90.032, de 08 de agosto de 1984
 
 Autoriza o aumento do Capital Social da Centrais Elétricas de Roraima - CER.

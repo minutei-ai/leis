@@ -1,5 +1,3 @@
-###DEC-073314-0-000-17-12-1973@@@
-
 Decreto nº 73.314 - de 17 de dezembro de 1973
 
 Retifica o Decreto nº 62.416, de 15 de março de 1968, alterado pelo de nº 64.298 de 1º de abril de 1969 que classificou os cargos de nível superior da  Universidade Federal de Pernambuco.

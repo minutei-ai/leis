@@ -1,5 +1,3 @@
-###DEC-076665-0-000-24-11-1975@@@
-
 DECRETO Nº 76.665, DE 24 DE NOVEMBRO DE 1975.
 
 Reclassifica órgãos de deliberação coletiva na área do Ministério da Fazenda

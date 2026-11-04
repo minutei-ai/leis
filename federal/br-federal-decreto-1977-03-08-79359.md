@@ -1,5 +1,3 @@
-###DEC-079359-0-000-08-03-1977@@@
-
 DECRETO Nº 79.359, DE 8 DE MARÇO DE 1977.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado na Cidade e Estado do Rio de Janeiro.

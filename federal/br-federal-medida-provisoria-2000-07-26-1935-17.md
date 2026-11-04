@@ -1,5 +1,3 @@
-###MPV-001935-0-017-26-07-2000@@@
-
 medida provisória nº 1.935-17, de 26 de julho de 2000.
 
 Autoriza o Poder Executivo a abrir aos Orçamentos da Seguridade Social e Fiscal da União, em favor da Presidência da República e do Ministério da Defesa, créditos extraordinários no valor de R$132.242.089,00, para os fins que especifica.

@@ -1,5 +1,3 @@
-###DEC-050607-0-000-17-05-1961@@@
-
 Decreto nº 50.607, de 17 de maio de 1961.
 
 Dispõe sôbre a Delegação do Brasil em Genebra.

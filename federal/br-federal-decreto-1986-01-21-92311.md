@@ -1,5 +1,3 @@
-###DEC-092311-0-000-21-01-1986@@@
-
 DECRETO Nº 92.311, DE 21 DE JANEIRO DE 1986
 
 Altera o método de faturamento de energia elétrica fornecida a unidades consumidoras do Grupo A atingidas por medidas de racionamento implantadas nos Estados da Região Sul.

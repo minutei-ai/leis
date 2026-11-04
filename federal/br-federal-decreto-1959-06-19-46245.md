@@ -1,5 +1,3 @@
-###DEC-046245-0-000-19-06-1959@@@
-
 DECRETO Nº 46.245, DE 19 DE JUNHO DE 1959.
 
 Autoriza Geraldo Dias a comprar pedras preciosas.

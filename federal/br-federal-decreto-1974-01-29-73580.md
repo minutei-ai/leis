@@ -1,5 +1,3 @@
-###DEC-073580-0-000-29-01-1974@@@
-
 DECRETO Nº 73.580, DE 29 DE JANEIRO DE 1974.
 
 Retifica o artigo 1º, do Decreto número 40.098, de 9 de outubro de 1956, através do qual foi concedido à Companhia de Cimento Portland Paraíso o direito de lavrar calcário, no município de Euclidelândia , Estado do Rio de Janeiro.

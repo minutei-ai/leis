@@ -1,5 +1,3 @@
-###DEC-083119-0-000-01-02-1979@@@
-
 Decreto nº 83.119, de 01 de fevereiro de 1979.
 
 Extingue a exigência de certificado internacional de vacinação contra a varíola.

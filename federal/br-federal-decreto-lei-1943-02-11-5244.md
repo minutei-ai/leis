@@ -1,5 +1,3 @@
-###DEL-005244-0-000-11-02-1943@@@
-
 DECRETO‑LEI N. 5.244 – DE 11 DE FEVEREIRO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 4.200.000,00 para construção de rodovia

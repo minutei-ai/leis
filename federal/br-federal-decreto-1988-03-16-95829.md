@@ -1,7 +1,3 @@
-1
-
-###DEC-095829-0-000-16-03-1988@@@
-
 DECRETO N° 95.829, DE 16 DE MARÇO DE 1988
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Fazendas Baixa Grande, São Borja e Pau Preto," classificados como latifúndio por exploração, situados no Município de Morro do Chapéu, no Estado da Bahia, compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.689, de 19 de maio de 1986, e dá outras providencias.

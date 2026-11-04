@@ -1,5 +1,3 @@
-###DEL-001554-0-000-24-05-1977@@@
-
 # dECRETO-LEI Nº 1.554, DE 24 DE MAIO DE 1977
 
 Concede isenção de impostos aos objetos integrantes de uma coleção representativa de desenho industrial, importados pela Federação das Indústrias do Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-096942-0-000-11-10-1988@@@
-
 DECRETO Nº 96.942, DE 11 DE OUTUBRO DE 1988
 
 Altera dispositivo do Regulamento para o Corpo de Praças da Armada, aprovado pelo Decreto nº 87.179, de 18 de maio de 1982.

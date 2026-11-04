@@ -1,5 +1,3 @@
-###DEC-083900-0-000-27-08-1979@@@
-
 Decreto nº 83.900, de 27 de agosto de 1979.
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Filosofia, Ciências e Letras "Madre Gertrudes de São José", com sede na cidade de Cachoeiro do Itapemirim, Estado do Espírito Santo.

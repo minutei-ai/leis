@@ -1,5 +1,3 @@
-###DEC-076088-0-000-06-08-1975@@@
-
 Decreto Nº 76.088 - DE 6 DE AGOSTO DE 1975
 
 Declara a cessação de privilégio, outorga concessão ao Departamento de Águas e Energia Elétrica do Estado de Minas Gerais, revoga Decreto e dá outras providências.

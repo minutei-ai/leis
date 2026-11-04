@@ -1,5 +1,3 @@
-###DEC-064393-0-000-23-04-1969@@@
-
 Decreto nº 64.393, de 23 de abril de 1969.
 
 Concede a Alumínio Poços de Caldas S.A. a lavrar bauxita no município de Mariana, Estado de Minas Gerais.

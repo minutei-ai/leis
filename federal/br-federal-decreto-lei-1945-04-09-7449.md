@@ -1,5 +1,3 @@
-###DEL-007449-0-000-09-04-1945@@@
-
 DECRETO-LEI N. 7.449 – DE 9 DE ABRIL DE 1945
 
 Dispõe sôbre a organização da vida rural

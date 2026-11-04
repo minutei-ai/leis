@@ -1,5 +1,3 @@
-###DEC-052670-0-000-11-10-1963@@@
-
 DECRETO Nº 52.670, DE 11 DE OUTUBRO DE 1963.
 
 Altera dispositivos da Ordenança Geral para o Serviço da Armada.

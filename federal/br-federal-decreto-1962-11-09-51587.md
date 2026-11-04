@@ -1,5 +1,3 @@
-###DEC-051587-0-000-09-11-1962@@@
-
 DECRETO Nº 51.587, DE 9 DE NOVEMBRO DE 1962.
 
 Inclui funções gratificadas no Ministério da Educação e Cultura, e dá outras providências.

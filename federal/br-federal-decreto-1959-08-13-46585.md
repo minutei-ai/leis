@@ -1,5 +1,3 @@
-###DEC-046585-0-000-13-08-1959@@@
-
 DECRETO Nº 46.585, DE 13 DE AGÔSTO DE 1959.
 
 Oficializa medalha comemorativa.

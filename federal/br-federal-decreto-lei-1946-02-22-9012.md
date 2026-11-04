@@ -1,5 +1,3 @@
-###DEL-009012-0-000-22-02-1946@@@
-
 DECRETO-LEI N. 9.012 – DE 22 DE FEVEREIRO DE 1946
 
 Abre crédito especial ao Departamento Administrativo do Serviço Público.

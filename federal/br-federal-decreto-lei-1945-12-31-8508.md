@@ -1,5 +1,3 @@
-###DEL-008508-0-000-31-12-1945@@@
-
 DECRETO-LEI N. 8.508 – DE 31 DE DEZEMBRO DE 1945
 
 Cria cargos isolados, de provimento efetivo, no Quadro Permanente do Ministério da Fazenda.

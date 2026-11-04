@@ -1,5 +1,3 @@
-###DEC-069573-0-000-22-11-1971@@@
-
 Decreto nº 69.573 - de 22 de novembro de 1971
 
 Declara de utilidade pública, para fins de constituição a servidão, faixa de terra destinada a passagem de linha de transmissão entre Arenópolis e Bom Jardim de Goiás, no Estado de Goiás.

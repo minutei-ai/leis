@@ -1,5 +1,3 @@
-###DEC-079349-0-000-08-03-1977@@@
-
 DECRETO Nº 79.349, DE 8 DE MARÇO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra e benfeitorias, necessárias a implantação da Subestação denominada "Graça", da Companhia de Eletricidade do Estado da Bahia - COELBA, no Estado da Bahia.

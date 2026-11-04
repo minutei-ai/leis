@@ -1,5 +1,3 @@
-###DEC-084465-0-000-07-02-1980@@@
-
 Decreto nº 84.465, de 07 de fevereiro de 1980.
 
 Aprova a constituição de COALBRA - Coque e Álcool da Madeira S.A. e dá outras providências.

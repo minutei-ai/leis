@@ -1,5 +1,3 @@
-###DEC-055800-0-000-25-02-1965@@@
-
 DECRETO Nº 55.800, DE 25 DE FEVEREIRO DE 1965.
 
 Dispõe sôbre a dispensa de servidores dos Serviços de Propaganda e Expansão Comercial - SEPRO.

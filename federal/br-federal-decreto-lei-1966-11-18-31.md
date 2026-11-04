@@ -1,5 +1,3 @@
-###DEL-000031-0-000-18-11-1966@@@
-
 DECRETO-LEI Nº 31, DE 18 DE NOVEMBRO DE 1966
 
 Prorroga o período de vigência do crédito especial autorizado pela Lei nº 5.010, de 30 de maio de 1966.

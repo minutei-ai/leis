@@ -1,5 +1,3 @@
-###DEL-009219-0-000-02-05-1946@@@
-
 DECRETO-LEI N. 9.219 – DE 2 DE MAIO DE 1946
 
 Dispõe sôbre tributação de inseticidas

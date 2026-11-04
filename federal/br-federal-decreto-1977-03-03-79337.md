@@ -1,5 +1,3 @@
-###DEC-079337-0-000-03-03-1977@@@
-
 Decreto nº 79.337, de 3 de março de 1977.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural situado no Município de Cascavel Estado do Paraná, compreendido na área prioritária de reforma agrária, de que tratam os Decretos números 69.411, de 22 de outubro de 1971 e 78.422, de 15 de setembro de 1976.

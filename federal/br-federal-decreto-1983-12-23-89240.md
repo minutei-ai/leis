@@ -1,5 +1,3 @@
-###DEC-089240-0-000-23-12-1983@@@
-
 Decreto nº 89.240, de 23 de dezembro de 1983
 
 Suspende a execução de parte do § 2º do artigo 12 do Decreto-Lei Complementar nº 7, de 06 de novembro de 1969, do Estado de São Paulo.

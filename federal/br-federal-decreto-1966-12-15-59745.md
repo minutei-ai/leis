@@ -1,5 +1,3 @@
-###DEC-059745-0-000-15-12-1966@@@
-
 DECRETO Nº 59.745, de 15 de dezembro de 1966.
 
 Retifica o art. 1º do Decreto 43.488 de 2 de abril de 1958.

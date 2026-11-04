@@ -1,5 +1,3 @@
-###DEC-059702-0-000-09-12-1966@@@
-
 DECRETO Nº 59.702, DE 9 DE DEZEMBRO DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da Sul América Companhia Nacional de Seguros de Vida, relativa ao aumento de capital social.

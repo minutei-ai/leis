@@ -1,5 +1,3 @@
-###DEC-061792-0-000-29-11-1967@@@
-
 Decreto nº 61.792, de 29 de Novembro de 1967.
 
 Concede à Rádio Emissora Veranense Ltda., autorização para aumentar a potência de seus transmissores de 250 watts para 1 kw.

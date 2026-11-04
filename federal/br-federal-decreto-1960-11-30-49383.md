@@ -1,5 +1,3 @@
-###DEC-049383-0-000-30-11-1960@@@
-
 DECRETO Nº 49.383, DE 30 DE NOVEMBRO DE 1960.
 
 Restabelece o funcionamento das Caixas de Acidentes do Trabalho dos Sindicatos dos Estivadores do Rio de Janeiro e de Santos e dá outras providências.

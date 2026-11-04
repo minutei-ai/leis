@@ -1,5 +1,3 @@
-###DEC-054990-0-000-13-11-1964@@@
-
 DECRETO Nº 54.990, DE 13 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Eduardo Gomes Ferreira Leite a pesquisar cassiterita, no município de Pôrto Velho, Território Federal de Rondônia.

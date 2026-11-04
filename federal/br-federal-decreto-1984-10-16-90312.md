@@ -1,5 +1,3 @@
-###DEC-090312-0-000-16-10-1984@@@
-
 DECRETo Nº 90.312, DE 16 DE OUTUBRO DE 1984
 
 Renova a concessão outorgada à RÁDIO E TELEVISÃO UBERABA S/A, para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Uberaba, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-058264-0-000-27-04-1966@@@
-
 DECRETO Nº 58.264, DE 27 DE ABRIL DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da União Brasileira Companhia de Serviços Gerais, relativas ao aumento do capital social.
@@ -17,8 +15,6 @@ Brasília, 27 de abril de 1966; 145º da Independência e 78º da República.
 H. CASTELLO BRANCO
 
 Paulo Egydio Martins
-
-###DEC-058264-0-000-27-04-1966@@@RET01+++
 
 DECRETO Nº 58.264, de 27 de abril de 1966.
 

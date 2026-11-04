@@ -1,5 +1,3 @@
-###DEC-046107-0-000-21-05-1959@@@
-
 Decreto nº 46.107, de 21 de maio de 1959.
 
 Outorga concessão à Rádio Itatiaia Limitada para instalar uma estação radiodifusora.

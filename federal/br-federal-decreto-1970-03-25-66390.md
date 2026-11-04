@@ -1,5 +1,3 @@
-###DEC-066390-0-000-25-03-1970@@@
-
 DECRETO Nº 66.390 - DE 25 DE MARÇO DE 1970
 
 Autoriza funcionamento de Faculdade.

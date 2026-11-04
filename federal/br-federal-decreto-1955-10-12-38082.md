@@ -1,22 +1,20 @@
-###DEC-038082-0-000-12-10-1955@@@
+**DECRETO Nº 38.082, DE 12 DE OUTUBRO DE 1955.**
 
-<strong>DECRETO Nº 38.082, DE 12 DE OUTUBRO DE 1955.</strong>
+***Outorga concessão à Rádio Cultura de Cuiabá Ltda. para instalar uma estação radiodifusora de ondas médias.***
 
-<em><strong>Outorga concessão à Rádio Cultura de Cuiabá Ltda. para instalar uma estação radiodifusora de ondas médias.</strong></em>
+**O PRESIDENTE A REPUBLICA**, usando da atribuição que lhe confere o art. 87, nº I, da Constituição, atendendo ao que requereu a Rádio Cultura de Cuiabá Ltda., com sede na cidade de Cuiabá, Estado de Mato Grosso, e tendo em vista o disposto no artigo 5º nº XII, da mesma Constituição,
 
-<strong>O PRESIDENTE A REPUBLICA</strong>, usando da atribuição que lhe confere o art. 87, nº I, da Constituição, atendendo ao que requereu a Rádio Cultura de Cuiabá Ltda., com sede na cidade de Cuiabá, Estado de Mato Grosso, e tendo em vista o disposto no artigo 5º nº XII, da mesma Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica outorgada concessão à Rádio Cultura de Cuiabá Ltda., nos têrmos do art. 11, do Decreto nº 24.655, de 11 de julho de 1934, e art. 16, do Decreto nº 21.111 de 1º de março de 1932, para estabelecer na cidade de Cuiabá, Estado do Mato Grosso, sem direito de exclusividade, um estação radiodifusora de ondas médias destinada a executar o serviço de radiodifusão.
 
-<strong>Art</strong>. 1º Fica outorgada concessão à Rádio Cultura de Cuiabá Ltda., nos têrmos do art. 11, do Decreto nº 24.655, de 11 de julho de 1934, e art. 16, do Decreto nº 21.111 de 1º de março de 1932, para estabelecer na cidade de Cuiabá, Estado do Mato Grosso, sem direito de exclusividade, um estação radiodifusora de ondas médias destinada a executar o serviço de radiodifusão.
+Parágrafo único. O contrato decorrente desta concessão obedecerá às cláusulas que com êste baixam, rubricadas pelo Ministro de Estado dos Negócios Da Viação de Obras Públicas, e deverá ser assinado dentro de 60 dias, a contar da data da publicação dêste decreto no *DiárioOficial*, sob pena de ser considerada nula a concessão.
 
-Parágrafo único. O contrato decorrente desta concessão obedecerá às cláusulas que com êste baixam, rubricadas pelo Ministro de Estado dos Negócios Da Viação de Obras Públicas, e deverá ser assinado dentro de 60 dias, a contar da data da publicação dêste decreto no <em>Diário</em> <em>Oficial</em>, sob pena de ser considerada nula a concessão.
-
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 12 de outubro de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Octávio Marcondes Ferraz
 

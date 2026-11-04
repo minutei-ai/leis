@@ -1,5 +1,3 @@
-###DEC-074193-0-000-20-06-1974@@@
-
 DECRETO Nº 74.193, DE 20 DE JUNHO DE 1974.
 
 Autoriza o funcionamento dos cursos de Ciências Contábeis e de Administração da Faculdade de Ciências Políticas e Econômicas de Cachoeira do Sul, mantida pela Fundação Educacional do Vale do Jacuí, com sede na cidade de Cachoeira do Sul, Estado do Rio Grande do Sul.

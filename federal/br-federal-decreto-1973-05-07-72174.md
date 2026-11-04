@@ -1,5 +1,3 @@
-###DEC-072174-0-000-07-05-1973@@@
-
 DECRETO Nº 72.174, DE 7 DE MAIO DE 1973.
 
 Concede reconhecimento à Escola Superior de Relações Públicas do Recife, mantida pelo Centro de Relações Públicas de Pernambuco, com sede na cidade do Recife, Estado de Pernambuco.

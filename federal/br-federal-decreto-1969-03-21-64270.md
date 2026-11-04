@@ -1,5 +1,3 @@
-###DEC-064270-0-000-21-03-1969@@@
-
 DECRETO Nº 64.270, DE 21 DE MARÇO DE 1969.
 
 Declara de utilidade pública a fundação Miguel Pereira, com sede em Miguel Pereira, Estado do Rio de Janeiro.

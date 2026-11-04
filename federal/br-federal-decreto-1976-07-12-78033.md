@@ -1,5 +1,3 @@
-###DEC-078033-0-000-12-07-1976@@@
-
 DECRETO Nº 78.033, DE 12 DE JULHO DE 1976.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra dstinada à passagem de linhas de transmissão das Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, no Estado do Paraná.

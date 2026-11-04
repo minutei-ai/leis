@@ -1,5 +1,3 @@
-###DEL-006559-0-000-06-06-1944@@@
-
 DECRETO-LEI N. 6.559 – DE 6 DE JUNHO DE 1944
 
 Autoriza a emissão de "Letras do Tesouro”

@@ -1,5 +1,3 @@
-###DEC-092481-0-000-21-03-1986@@@
-
 DECRETO Nº 92.481, DE 21 DE MARÇO DE 1986
 
 Revoga a concessão outorgada à RÁDIO CULTURA DE SERGIPE S.A., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Aracajú, Estado de Sergipe.

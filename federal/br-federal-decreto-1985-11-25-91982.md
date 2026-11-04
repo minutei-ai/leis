@@ -1,5 +1,3 @@
-###DEC-091982-0-000-25-11-1985@@@
-
 # Decreto nº 91.982, de 25 de novembro de 1985.
 
 Dispõe sobre a composição do Conselho de Desenvolvimento Social - CDS.

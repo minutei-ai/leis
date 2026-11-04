@@ -1,5 +1,3 @@
-###DEC-061809-0-000-30-11-1967@@@
-
 Decreto nº 61.809, de 30 de novembro de 1967.
 
 Retifica o artigo 2º do Decreto número 61.431, de 3 de outubro de 1967, que abre ao Ministério do Interior - Fundação Interestadual para o Desenvolvimento dos Vales do Tocantins - Araguaia e Paraguai - Cuiabá (FIRTOP), o crédito especial de NCr$125.000,00 (cento e vinte e cinco mil cruzeiros novos).

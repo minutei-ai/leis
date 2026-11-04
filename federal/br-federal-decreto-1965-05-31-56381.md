@@ -1,5 +1,3 @@
-###DEC-056381-0-000-31-05-1965@@@
-
 DECRETO Nº 56.381, DE 31 DE MAIO DE 1965.
 
 Declara de utilidade pública para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terreno situada no Município de Osório - Estado do Rio Grande do Sul.

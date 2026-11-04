@@ -1,5 +1,3 @@
-###DEL-001344-0-000-16-09-1974@@@
-
 # decreto-LEI nº 1.344, de 16 DE SETEMBro DE 1974
 
 Autoriza o Tesouro Nacional a subscrever aumento do capital do Banco do Brasil S.A. e dá outras providências.
@@ -12,7 +10,37 @@ Art. 1º Fica o Tesouro Nacional autorizado a promover a subscrição, no aument
 
 Art. 2º Para atender à despesa a que se refere o artigo anterior, fica aberto no Ministério da Fazenda um crédito especial de Cr$440.000.000,00 (quatrocentos e quarenta milhões de cruzeiros), observada a seguinte classificação:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:38.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>28.00</span></p></td><td style="width:318.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>- Encargos Gerais da União</span></p></td></tr><tr><td style="width:38.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>28.01</span></p></td><td style="width:318.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>- Recursos sob Supervisão do Ministério da Fazenda</span></p></td></tr><tr><td style="width:38.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>18.00</span></p></td><td style="width:318.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>- Dispêndios Gerais</span></p></td></tr><tr><td style="width:38.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>1.043</span></p></td><td style="width:318.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>- Participação da União no capital de empresas</span></p></td></tr><tr><td style="width:38.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>013</span></p></td><td style="width:318.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- Sociedade de Economia Mista Banco do Brasil S.A.</span></p></td></tr><tr><td style="width:38.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>4.0.0.0</span></p></td><td style="width:318.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>- Despesa de Capital</span></p></td></tr><tr><td style="width:38.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>4.2.0.0</span></p></td><td style="width:318.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:1.7pt; text-align:left"><span>- Inversões Financeiras</span></p></td></tr><tr><td style="width:38.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>4.2.2.0</span></p></td><td style="width:318.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="margin-left:1.7pt; text-indent:0pt; text-align:left"><span>- Participação em Constituição ou Aumento de Capital de Empresas ou Entidades Comerciais ou Financeiras.</span></p></td></tr></tbody></table>
+28.00
+
+- Encargos Gerais da União
+
+28.01
+
+- Recursos sob Supervisão do Ministério da Fazenda
+
+18.00
+
+- Dispêndios Gerais
+
+1.043
+
+- Participação da União no capital de empresas
+
+013
+
+- Sociedade de Economia Mista Banco do Brasil S.A.
+
+4.0.0.0
+
+- Despesa de Capital
+
+4.2.0.0
+
+- Inversões Financeiras
+
+4.2.2.0
+
+- Participação em Constituição ou Aumento de Capital de Empresas ou Entidades Comerciais ou Financeiras.
 
 Art. 3º É o Ministério da Fazenda autorizado a subscrever, pelo Tesouro Nacional, as ações necessárias à integralização do novo capital.
 

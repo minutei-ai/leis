@@ -1,5 +1,3 @@
-###DEC-076506-0-000-23-10-1975@@@
-
 DECRETO Nº 76.506, DE 23 DE Outubro DE 1975.
 
 Declara de utilidade pública, para fins de constituição de serviço administrativa, uma faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Goiás S.A. - CELG, no Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-094228-0-000-15-04-1987@@@
-
 DECRETO Nº 94.228, DE 15 DE ABRIL DE 1987.
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Morro Agudo" e "Lagoa", situados nos Municípios de Novas Russas e Hidrolândia, no Estado do Ceará, compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.617, de 2 de maio de 1986, classificado no Cadastro Imóveis Rurais do INCRA como latifúndio por exploração, e dá outras providências.

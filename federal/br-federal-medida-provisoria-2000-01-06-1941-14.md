@@ -1,5 +1,3 @@
-###MPV-001941-0-014-06-01-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.941-14, DE 6 DE JANEIRO DE 2000.
 
 Dispõe sobre a aquisição de produtos para a implementação de ações de saúde no âmbito do Ministério da Saúde.

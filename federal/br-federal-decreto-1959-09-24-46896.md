@@ -1,5 +1,3 @@
-###DEC-046896-0-000-24-09-1959@@@
-
 Decreto nº 46.896, de 24 de setembro de 1959.
 
 Altera, temporáriamente, dispositivos do Regulamento de Promoções para Oficiais da Marinha.

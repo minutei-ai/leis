@@ -1,7 +1,3 @@
-1
-
-###DEC-000633-0-000-19-08-1992@@@
-
 DECRETO N° 633, DE 19 DE AGOSTO DE 1992
 
 Promulga o Convênio Básico de Cooperação Técnica, Científica e Tecnológica, entre o Governo da República Federativa do Brasil e o Reino da Espanha.

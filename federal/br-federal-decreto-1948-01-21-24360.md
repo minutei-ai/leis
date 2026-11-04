@@ -1,14 +1,12 @@
-###DEC-024360-0-000-21-01-1948@@@
+**DECRETO N. 24.360 – DE 21 DE JANEIRO DE 1948**
 
-<strong>DECRETO N. 24.360 – DE 21 DE JANEIRO DE 1948</strong>
-
-<em><strong>Suprime cargos extintos</strong></em>
+***Suprime cargos extintos***
 
 O Presidente da República usando da atribuição que lhe confere o artigo 87, ítem I, da Constituição, e nos têrmos do artigo 1º, alínea n do Decreto-lei nº 3.195, de 14 de abril de 1941,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art.</strong> 1º Ficam suprimidos os cargos das seguintes carreiras do Quadro Suplementar do Ministério da Educação e Saúde;
+**Art.** 1º Ficam suprimidos os cargos das seguintes carreiras do Quadro Suplementar do Ministério da Educação e Saúde;
 
 Artífice – 4 cargos da classe D, vagos em virtude da promoção de Adelaide Pires da Silva, Manuel de Santana, Manuel Vitor de Oliveira e da aposentadoria de Arnaldo Mário Fagundes;
 
@@ -30,10 +28,10 @@ Trabalhador – 3 cargos da classe B, vagos em virtude da aposentadoria de Álva
 
 Servente – 14 cargos da classe B, vagos em virtude da promoção de: Eduardo Jaguaríbe Maldonado, Isolina Passos da Costa, João Carlos Ribeiro, José Pereira de Sousa, Maria Balbina Vieira, Marta Ventura Patriota, Oscar Viana Sales Severino Francisco de Araújo, Sílvio de Sousa Pereira, Everaldo Azevedo Silva, José da Silva, Manuel Dias da Silva, Tomás Aquino dos Santos Filho e do falecimento de João de Oliveira Lira, devendo a dotação correspondente ser levada a crédito da contra-corrente do mesmo Quadro do referido Ministério.
 
-<strong>Art.</strong> 2º Revogam-se as disposições em contrário.
+**Art.** 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 21 de janeiro de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Clemente Mariani.

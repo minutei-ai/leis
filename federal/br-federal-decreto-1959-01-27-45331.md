@@ -1,5 +1,3 @@
-###DEC-045331-0-000-27-01-1959@@@
-
 decreto nº 45.331, de 27 de janeiro de 1959.
 
 Renova o Decreto nº 32.620, de 24 de abril de 1953, que criou o Núcleo Colonial de Mearim, no Estado do Maranhão.

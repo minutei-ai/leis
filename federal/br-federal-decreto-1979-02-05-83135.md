@@ -1,5 +1,3 @@
-###DEC-083135-0-000-05-02-1979@@@
-
 DECRETO Nº 83.135, DE 05 DE FEVEREIRO DE 1979
 
 Declara sem efeito o Decreto nº 27.565, de 07 de dezembro de 1949, retificado pelo Decreto nº 27.814, de 24 de fevereiro de 1950, que autorizou o cidadão brasileiro José Schwerber a lavrar ocre e associados no Município de Ouro Preto, Estado de Minas Gerais.

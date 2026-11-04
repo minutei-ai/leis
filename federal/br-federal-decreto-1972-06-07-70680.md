@@ -1,5 +1,3 @@
-###DEC-070680-0-000-07-06-1972@@@
-
 DECRETO Nº 70.680, de 7 de junho de 1972.
 
 Declara de utilidade pública as instituições que menciona.

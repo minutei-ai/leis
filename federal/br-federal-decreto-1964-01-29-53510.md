@@ -1,5 +1,3 @@
-###DEC-053510-0-000-29-01-1964@@@
-
 DECRETO nº 53.510, de 29 de Janeiro de 1964.
 
 Modifica funções privativas dos diferentes Postos e Quadros do Corpo de Oficiais da Aeronáutica.

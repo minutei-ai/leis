@@ -1,5 +1,3 @@
-###DEL-005741-0-000-12-08-1943@@@
-
 DECRETO-LEI N. 5.741 – DE 12 DE AGÔSTO DE 1943
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 62.032,80, para pagamento de gratificação de representação

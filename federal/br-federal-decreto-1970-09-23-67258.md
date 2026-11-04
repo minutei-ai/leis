@@ -1,5 +1,3 @@
-###DEC-067258-0-000-23-09-1970@@@
-
 DECRETO Nº 67.258, DE 23 DE SETEMBRO DE 1970.
 
 Altera o § 2º do artigo 3º do Decreto nº 66.509, de 28 de abril de 1970.

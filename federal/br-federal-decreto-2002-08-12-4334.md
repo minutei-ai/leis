@@ -1,5 +1,3 @@
-###DEC-004334-0-000-12-08-2002@@@
-
 DECRETO Nº 4.334, DE 12 DE AGOSTO DE 2002
 
 Dispõe sobre as audiências concedidas a particulares por agentes públicos em exercício na Administração Pública Federal direta, nas autarquias e fundações públicas federais.

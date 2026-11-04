@@ -1,5 +1,3 @@
-###DEC-085128-0-000-10-09-1980@@@
-
 Decreto nº 85.128, de 10 de setembro de 1980.
 
 Aprova o Regulamento da Secretaria-Geral do Conselho de Segurança Nacional.

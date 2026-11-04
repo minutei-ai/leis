@@ -1,7 +1,3 @@
-1
-
-###DEC-001403-0-000-21-02-1995@@@
-
 DECRETO N° 1.403, DE 21 DE FEVEREIRO DE 1995
 
 Institui o Sistema de Acompanhamento Legislativo e dá outras providências.

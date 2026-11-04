@@ -1,5 +1,3 @@
-###DEC-085209-0-000-29-09-1980@@@
-
 Decreto nº 85.209, de 29 de Setembro de 1980.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à ampliação da subestação de Laranjeiras da Companhia Paulista de Força de Luz - CPFL, no Estado de São Paulo.

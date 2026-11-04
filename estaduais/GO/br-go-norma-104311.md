@@ -24,20 +24,21 @@ XIII — na hipótese prevista no art. 148, é obrigatório o preenchimento dos 
 
 ..........................................................................................................................”(NR)
 
-Art. 2º Este Decreto entra em vigor na data de sua publicação e produz efeitos a partir de 1º de julho de 2023.<br>
+Art. 2º Este Decreto entra em vigor na data de sua publicação e produz efeitos a partir de 1º de julho de 2023.
+
 \- [Redação dada pelo Decreto nº 10.226, de 28-02-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106767/decreto-10226).
 
-~~Art. 2º Este Decreto entra em vigor na data de sua publicação, mas seus feitos serão produzidos a partir de 1º de janeiro de 2023.~~<br>
+~~Art. 2º Este Decreto entra em vigor na data de sua publicação, mas seus feitos serão produzidos a partir de 1º de janeiro de 2023.~~
+
 \- [Redação dada pelo Decreto nº 10.086, de 11-05-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105546/decreto-10086).
 
-~~Art. 2º Este Decreto entra em vigor na data de sua publicação, porém produz efeitos a partir de 1º de junho de 2022.~~<br>
+~~Art. 2º Este Decreto entra em vigor na data de sua publicação, porém produz efeitos a partir de 1º de junho de 2022.~~
+
 [\- Redação dada pelo Decreto nº 10.002, de 16-12-2021, art. 2º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104694/decreto-10002)
 
 ~~Art. 2º Este Decreto entra em vigor na data de sua publicação, com efeitos a partir de 1º de janeiro de 2022.~~
 
 Goiânia, 16 de setembro de 2021; 133º da República.
-
-<br>
 
 RONALDO CAIADO
 

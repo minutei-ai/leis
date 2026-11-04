@@ -1,5 +1,3 @@
-###DEC-048807-0-000-12-08-1960@@@
-
 DECRETO Nº 48.807, DE 12 DE AGÔSTO DE 1960.
 
 Concede autorização à Cooperativa de Crédito Agrícola de Rio Claro, com sede na cidade de Rio Claro, para modificar seu estatuto social.

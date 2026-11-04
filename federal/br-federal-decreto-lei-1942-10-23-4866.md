@@ -1,5 +1,3 @@
-###DEL-004866-0-000-23-10-1942@@@
-
 DECRETO-LEI N. 4.866 – DE 23 DE OUTUBRO DE 1942
 
 Dispõe sobre a aplicação do art. 50 do decreto-lei n. 3.688, de 3 de outubro de 1941

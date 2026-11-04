@@ -31,7 +31,3 @@ Cláudio Roberto Mourão da Silveira
 João Heraldo Lima
 
 Arésio A. de Almeida Dâmaso e Silva
-
-\================================
-
-Data da última atualização: 29/7/2016.

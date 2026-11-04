@@ -1,5 +1,3 @@
-###DEC-071196-0-000-04-10-1972@@@
-
 DECRETO Nº 71.196, DE 4 DE OUTUBRO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Ciências e Letras Alta Sorocabana de Presidente Prudente - SP.

@@ -1,5 +1,3 @@
-###DEC-048427-0-000-24-06-1960@@@
-
 decreto nº 48.427, de 24 de junho de 1960.
 
 Legaliza a ampliação de instalações da Companhia Luz e Fôrça Hulha Branca, em Curvelo, Estado de Minas Gerais.

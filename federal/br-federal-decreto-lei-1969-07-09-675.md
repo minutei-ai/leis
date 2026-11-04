@@ -1,5 +1,3 @@
-###DEL-000675-0-000-09-07-1969@@@
-
 deCRETo-LEi nº 675, DE 9 DE JULhO DE 1969
 
 Aprova a reforma do ex-soldado Adalberto Baia cujo registro foi negado pelo Tribunal de Contas da União.

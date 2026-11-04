@@ -1,5 +1,3 @@
-###DEC-072787-0-000-13-09-1973@@@
-
 DECRETO Nº 72.787, DE 13 DE SETEMBRO DE 1973.
 
 Redistribui cargo, com o respectivo ocupante, para o Tribunal Regional do Trabalho da 1ª Região, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-092142-0-000-16-12-1985@@@
-
 Decreto nº 92.142, de 16 de dezembro de 1985.
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Gleba Arnaldo", situado no Município de Santa Helena, no Estado do Paraná, compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 69.411, de 22 de outubro de 1971; alterado pelos Decretos nºs 78.422, de 15 de setembro de 1976 e 84.969, de 28 de julho de 1980, e dá outras providências.

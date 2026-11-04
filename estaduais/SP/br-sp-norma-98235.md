@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=98235)
-
 # LEI COMPLEMENTAR Nº 1.051, DE 24 DE JUNHO DE 2008
 
 ### _Dispõe sobre a conversão, em pecúnia, de parcela da licença-prêmio, para os integrantes da carreira de Agente de Segurança Penitenciária e da classe de Agente de Escolta e Vigilância Penitenciária, do Quadro da Secretaria da Administração Penitenciária_

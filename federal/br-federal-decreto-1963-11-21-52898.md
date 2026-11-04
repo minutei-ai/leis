@@ -1,5 +1,3 @@
-###DEC-052898-0-000-21-11-1963@@@
-
 Decreto nº 52.898, de 21 de novembro de 1963.
 
 Aprova alterações introduzidas nos Estatutos da Companhia Internacional de Capitalização.

@@ -1,5 +1,3 @@
-###DEC-051148-0-000-05-08-1961@@@
-
 DECRETO Nº 51.148, DE 5 DE AGÔSTO DE 1961.
 
 Altera a redação do art. 7º do Decreto nº 51.104, de 1º de agôsto de 1961.

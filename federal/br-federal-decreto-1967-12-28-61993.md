@@ -1,5 +1,3 @@
-###DEC-061993-0-000-28-12-1967@@@
-
 DECRETO Nº 61.993, DE 28 DE DEZEMBRO DE 1967.
 
 Dispõe sôbre o sistema de disciplinamento dos reajustes de preços.

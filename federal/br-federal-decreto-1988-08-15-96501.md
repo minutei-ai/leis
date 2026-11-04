@@ -1,5 +1,3 @@
-###DEC-096501-0-000-15-08-1988@@@
-
 DECRETO N° 96.501, DE 15 DE AGOSTO DE 1988
 
 Reestrutura o Grupo Executivo de Movimentação de Safras - GREMOS e dá outras providencias.

@@ -1,5 +1,3 @@
-###DEC-080697-0-000-09-11-1977@@@
-
 decreto nº 80.697, de 9 de novembro de 1977.
 
 Concede à S/A. Indústrias Votorantim o direito de lavrar calcário nos Municípios de Guapiara, Capão Bonito e Iporanga, Estado de São Paulo.

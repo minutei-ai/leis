@@ -1,5 +1,3 @@
-###DEC-074620-0-000-26-09-1974@@@
-
 DECRETO Nº 74.620, DE 26 DE SETEMBRO DE 1974.
 
 Concede reconhecimento ao curso de Agronomia da Faculdade de Agronomia "Luiz Meneghel", mantida pela Fundação Faculdade de Agronomia "Luiz Meneghel", com sede na cidade de Bandeirantes, Estado do Paraná

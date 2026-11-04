@@ -1,5 +1,3 @@
-###DEC-074315-0-000-23-07-1974@@@
-
 DECRETO Nº 74.315 - DE 23 DE JULHO DE 1974.
 
 Autoriza o funcionamento da Faculdade Integrada de Ciências Biológicas, mantida pela Fundação Educacional Sul Mineira, com sede na cidade de Machado, Estado de Minas Gerais.

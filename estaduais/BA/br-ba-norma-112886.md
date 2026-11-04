@@ -6,22 +6,26 @@ O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decre
 
 Art. 1º - À esposa não desquitada e na falta desta à companheira, aos filhos menores de qualquer condição e aos maiores inválidos exclusivamente dependentes da economia paterna, de funcionários da magistratura, de serventuário da Justiça ou de autoridades policiais que morrerem em conseqüência de agressão não provocada ou de acidente decorrente do comprimento do dever na defesa das instituições, de sociedade, da ordem ou do erário público, o Estado assegurará uma pensão especial equivalente ao total dos seus vencimentos.
 
-Redação de acordo com a Lei nº [2.026](https://www.legislabahia.ba.gov.br/documentos/lei-no-2026-de-04-de-junho-de-1964) , 04 de junho de 1964.<br>
+Redação de acordo com a Lei nº [2.026](https://www.legislabahia.ba.gov.br/documentos/lei-no-2026-de-04-de-junho-de-1964) , 04 de junho de 1964.
+
 Redação original: "Art. 1º - A esposa não desquitada e, na falta desta, a companheira aos filhos menores de qualquer condição e aos maiores inválidos exclusivamente dependentes da economia paterna, de funcionários públicos ou servidores industriais do Estado, bem como de membros da magistratura, de serventuários da Justiça ou de autoridades policiais que morrerem em conseqüência de agressão não provocada, decorrente do cumprimento do dever de defesa das instituições, da sociedade, da ordem ou do erário público o Estado assegurará uma pensão especial equivalente ao total dos seus vencimentos."
 
 § 1º - A pensão prevista neste artigo será dividida em duas partes iguais cabendo uma a esposa ou companheira, sendo a outra subdividida pelos filhos em quinhões iguais.
 
-Redação de acordo com a Lei nº [2.026](https://www.legislabahia.ba.gov.br/documentos/lei-no-2026-de-04-de-junho-de-1964) , de 04 de junho de 1964.<br>
+Redação de acordo com a Lei nº [2.026](https://www.legislabahia.ba.gov.br/documentos/lei-no-2026-de-04-de-junho-de-1964) , de 04 de junho de 1964.
+
 Redação original: "§ 1º - A pensão prevista neste artigo será dividida em duas partes iguais, cabendo uma à esposa ou companheira, e sendo a outra subdividida pelos filhos em quinhões iguais."
 
 § 2º - Se o falecido não deixar esposa ou companheira, se aquela ou esta falecer, contrair novas núpcias ou se fizer companheira de outro ou for nomeada para cargo público remunerado, a parte que lhe caberia será destinada aos filhos do falecido.
 
-Redação de acordo com a Lei nº [2.026](https://www.legislabahia.ba.gov.br/documentos/lei-no-2026-de-04-de-junho-de-1964) , de 04 de junho de 1964.<br>
+Redação de acordo com a Lei nº [2.026](https://www.legislabahia.ba.gov.br/documentos/lei-no-2026-de-04-de-junho-de-1964) , de 04 de junho de 1964.
+
 Redação original: "§ 2º - Se o falecido não deixar esposa ou companheira, se aquela ou esta falecer, contrair novas núpcias ou se fizer companheira de outrem ou for nomeada para cargo público remunerado, a parte que lhe caberia será destinada aos filhos do falecido."
 
 § 3º - Na falta das pessoas enumeradas no "caput" deste artigo serão beneficiários da pensão especial os pais dependentes do servidor falecido e entre eles será rateada em partes iguais; ocorrendo o falecimento de um destes beneficiários, sua cota reverterá em benefício do que lhe sobreviver".
 
-Acrescido pela Lei nº [3.487](https://www.legislabahia.ba.gov.br/documentos/lei-no-3487-de-07-de-julho-de-1976) , de 07 de julho de 1976. Revogado pelo art. [3](https://www.legislabahia.ba.gov.br/documentos/lei-no-2485-de-16-de-novembro-de-1967#art3) da , de 16 de novembro de 1967.<br>
+Acrescido pela Lei nº [3.487](https://www.legislabahia.ba.gov.br/documentos/lei-no-3487-de-07-de-julho-de-1976) , de 07 de julho de 1976. Revogado pelo art. [3](https://www.legislabahia.ba.gov.br/documentos/lei-no-2485-de-16-de-novembro-de-1967#art3) da , de 16 de novembro de 1967.
+
 Redação anterior: "§ 3º - Os beneficiados neste artigo amparados desde 06 de junho de 1948, na forma da citada Lei, poderão no prazo de cento e oitenta (180) dias, a partir da publicação desta, requerer a pensão a que tem direito." Acrescido pela Lei nº [2.026](https://www.legislabahia.ba.gov.br/documentos/lei-no-2026-de-04-de-junho-de-1964) , 04 de junho de 1964.
 
 Art. 2º - O filho dos titulares referidos no art. 1º perderá o direito à pensão instituída nesta lei:

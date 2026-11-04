@@ -1,5 +1,3 @@
-###DEC-002171-0-000-05-03-1997@@@
-
 DECRETO 2.171 DE 5 DE MARÇO DE 1997
 
 Altera os arts. 1º e 2º do Decreto Nº 1.422, de 20 de março de 1995, que dispõe sobre a composição e o funcionamento do Conselho Nacional de Metrologia, Normalização e Qualidade Industrial  \-  CONMETRO.

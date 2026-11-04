@@ -1,5 +1,3 @@
-###DEC-073405-0-000-02-01-1974@@@
-
 DECRETO Nº 73.405, DE 2 DE JANEIRO DE 1974.
 
 Concede autorização à Companhia Boat Operators Limited, para executar trabalhos de perfuração de poços na plataforma continental, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

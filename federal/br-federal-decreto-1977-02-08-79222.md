@@ -1,5 +1,3 @@
-###DEC-079222-0-000-08-02-1977@@@
-
 DECRETO Nº 79.222, DE 8 DE FEVEREIRO DE 1977.
 
 Concede reconhecimento ao curso de Estudos Sociais, da Faculdade de Filosofia, Ciências e Letras de Tupã, com sede na cidade de Tupã, Estado de São Paulo.

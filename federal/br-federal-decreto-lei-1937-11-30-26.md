@@ -1,5 +1,3 @@
-###DEL-000026-0-000-30-11-1937@@@
-
 DECRETO-LEI N. 26 – DE 30 DE NOVEMBRO DE 1937
 
 Dispõe sôbre a utilização, nos trabalhos de panificação, de farinha de trigo fabricada no país, e dá outras providências

@@ -1,7 +1,3 @@
-1
-
-###DEC-098021-0-000-03-08-1989@@@
-
 DECRETO N° 98.021, DE 3 DE AGOSTO DE 1989
 
 Dispõe sobre a requisição ou cessão de servidores e a prestação de serviços extraordinários.

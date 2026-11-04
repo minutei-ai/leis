@@ -1,5 +1,3 @@
-###DEC-097440-0-000-08-01-1989@@@
-
 DECRETO N° 97.440, DE 8 DE JANEIRO DE 1989
 
 Declara luto oficial

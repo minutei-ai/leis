@@ -1,5 +1,3 @@
-###DEC-070647-0-000-29-05-1972@@@
-
 DECRETO Nº 70.647, DE 29 DE MAIO DE 1972.
 
 Altera o Decreto número 65.395, de 13 de outubro de 1969.

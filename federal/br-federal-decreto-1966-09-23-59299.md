@@ -1,5 +1,3 @@
-###DEC-059299-0-000-23-09-1966@@@
-
 decreto nº 59.299, de 23 de setembro de 1966.
 
 Autoriza a Centrais Elétricas Brasileiras S. A. a construir linha de transmissão.

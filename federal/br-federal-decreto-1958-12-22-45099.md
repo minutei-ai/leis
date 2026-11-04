@@ -1,5 +1,3 @@
-###DEC-045099-0-000-22-12-1958@@@
-
 DECRETO Nº 45.099, DE 22 DE DEZEMBRO DE 1958.
 
 Autoriza o Serviço Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Aimorés, no Estado de Minas Gerais.

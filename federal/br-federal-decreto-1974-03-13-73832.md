@@ -1,5 +1,3 @@
-###DEC-073832-0-000-13-03-1974@@@
-
 DECRETO Nº 73.832, DE 13 DE MARÇO DE 1974.
 
 Redistribui cargo, com o respectivo ocupante, para o Quadro Único de Pessoal da Universidade Federal de Alagoas, e dá outras providências.

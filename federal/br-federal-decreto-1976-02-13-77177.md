@@ -1,5 +1,3 @@
-###DEC-077177-0-000-13-02-1976@@@
-
 DECRETO Nº 77.177, DE 13 DE FEVEREIRO DE 1976
 
 Regula os valores da Diária de Alimentação do Pessoal Militar.

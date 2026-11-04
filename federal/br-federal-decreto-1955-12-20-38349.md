@@ -1,14 +1,12 @@
-###DEC-038349-0-000-20-12-1955@@@
+**DECRETO Nº 38.349, DE 20 DE DEZEMBRO DE 1955.**
 
-<strong>DECRETO Nº 38.349, DE 20 DE DEZEMBRO DE 1955.</strong>
+***Abre ao Ministério da Agricultura o crédito suplementar de Cr$ 84.251.953,00 autorizado pela Lei nº 2.687, de 19 dezembro de 1955.***
 
-<em><strong>Abre ao Ministério da Agricultura o crédito suplementar de Cr$ 84.251.953,00 autorizado pela Lei nº 2.687, de 19 dezembro de 1955.</strong></em>
+**O VICE-PRESIDENTE DO SENADOFEDERAL**, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usanda a autorização contida no artigo 1º da Lei nº 2.687 de 19 de dezembro corrente, e tendo ouvido o Tribunal de Contas, nos têrmos do artigo 92 do regulamento geral de Contabilidade Pública,
 
-<strong>O VICE-PRESIDENTE DO SENADO</strong> <strong>FEDERAL</strong>, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usanda a autorização contida no artigo 1º da Lei nº 2.687 de 19 de dezembro corrente, e tendo ouvido o Tribunal de Contas, nos têrmos do artigo 92 do regulamento geral de Contabilidade Pública,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica aberto, ao Ministério da Agricultura, o crédito suplementar de Cr$ 84.215.953,00(oitenta e quatro milhões, duzentos e cinquenta e um mil novecentos e cinquenta e três cruzeiros) para refôrço das dotações abaixo discriminadas, constante do orçamento vigente (Lei número 2.368, de 9 de dezembro de 1954):
+**Art**. 1º Fica aberto, ao Ministério da Agricultura, o crédito suplementar de Cr$ 84.215.953,00(oitenta e quatro milhões, duzentos e cinquenta e um mil novecentos e cinquenta e três cruzeiros) para refôrço das dotações abaixo discriminadas, constante do orçamento vigente (Lei número 2.368, de 9 de dezembro de 1954):
 
 MINISTÉRIO DA AGRICULTURA
 
@@ -56,17 +54,17 @@ Consignação 11- Diversos
 
 05 - Serviço Escolar
 
-1\) Manutenção do restaurante da Universidade Rural ..................................... <u>1.978.743,00</u>
+1\) Manutenção do restaurante da Universidade Rural ..................................... 1.978.743,00
 
-......................................................................................................................... <u>84.251.953,00</u>
+......................................................................................................................... 84.251.953,00
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 20 de dezembro de 1955; 134º da Independência e 67º da República.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 Eduardo Catalano
 

@@ -1,5 +1,3 @@
-###DEL-008401-0-000-19-12-1945@@@
-
 DECRETO-LEI N. 8.401 – DE 19 DE DEZEMBRO DE 1945
 
 Revoga os decretos-leis ns. 5.893, De 19 de outubro de 1943 e 6.274, de 14 de fevereiro de 1944, exceto as disposições dos arts. 104 a 118, e seus parágrafos, revigorando o decreto-lei n.º 581, de 1 de agôsto de 1938 e a lei n.º 22.239, de 19 de dezembro de 1932.

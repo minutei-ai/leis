@@ -1,5 +1,3 @@
-###MPV-001765-0-048-06-05-1999@@@
-
 mEDIDA PROVISÓRIA Nº 1.765-48, DE 6 DE MAIO DE 1999.
 
 Altera a legislação referente ao Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e ao Fundo da Marinha Mercante - FMM, e dá outras providências.

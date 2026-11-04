@@ -1,5 +1,3 @@
-###DEL-001679-0-000-13-03-1979@@@
-
 # DECRETO-LEI nº 1.679, DE 13 DE MARÇO DE 1979
 
 Concede incentivos à capitalização da empresa privada nacional e ao financiamento da pequena e média empresa de regiões menos desenvolvidas e dá outras providências.

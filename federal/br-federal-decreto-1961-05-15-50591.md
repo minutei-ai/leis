@@ -1,5 +1,3 @@
-###DEC-050591-0-000-15-05-1961@@@
-
 DECRETO Nº 50.591, DE 15 DE MAIO DE 1961.
 
 Torna sem efeito o Art. 1º do Decreto nº 49.617, de 29 de dezembro de 1960.

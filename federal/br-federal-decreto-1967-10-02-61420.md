@@ -1,5 +1,3 @@
-###DEC-061420-0-000-02-10-1967@@@
-
 DECRETO Nº 61.420, de 2 de outubro de 1967.
 
 Declara de utilidade pública a “Benemérita Sociedade Portuguêsa Beneficente do Pará”, sede em Belém, Estado do Pará.

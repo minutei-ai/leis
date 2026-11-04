@@ -1,5 +1,3 @@
-###DEC-057453-0-000-17-12-1965@@@
-
 decRETO Nº 57.453, DE 17 DE DEZEMBRO DE 1965.
 
 Concede nacionalização à sociedade anônima S.S. White Dental Manufacturing Company of Brazil, sob a denominação de S.S. White Artigos Dentários S.A.

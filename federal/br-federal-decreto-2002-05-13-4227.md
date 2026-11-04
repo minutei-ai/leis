@@ -1,5 +1,3 @@
-###DEC-004227-0-000-13-05-2002@@@
-
 DECRETO Nº 4.227, DE 13 DE MAIO DE 2002
 
 Cria o Conselho Nacional dos Direitos do Idoso - CNDI, e dá outras providências.

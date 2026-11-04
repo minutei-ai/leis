@@ -1,5 +1,3 @@
-###DEL-003753-0-000-24-10-1941@@@
-
 DECRETO-LEI N. 3.753 – DE 24 DE OUTUBRO DE 1941
 
 Autoriza a Companhia Força e Luz do Avanhandava a modificar e ampliar as instalações de captação, adução e produção de energia hidro-elétrica da usina do Avanhandava no rio Tieté, Estado de São Paulo

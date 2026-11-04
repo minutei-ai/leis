@@ -1,5 +1,3 @@
-###DEC-064276-0-000-21-03-1969@@@
-
 DECRETO Nº 64.276, DE 21 DE MARÇO DE 1969.
 
 Declara de utilidade pública o Centro Juvenil de Orientação e Pesquisa (CEJOP), com sede em Niterói, Estado do Rio de Janeiro.

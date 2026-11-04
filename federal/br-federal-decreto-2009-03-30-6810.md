@@ -1,5 +1,3 @@
-###DEC-006810-0-000-30-03-2009@@@
-
 DECRETO Nº 6.810, DE 30 DE MARÇO DE 2009.
 
 Dá nova redação ao art. 2o do Decreto no 4.212, de 26 de abril de 2002, que define os setores da economia prioritários para o desenvolvimento regional, nas áreas de atuação da Superintendência do Desenvolvimento da Amazônia - SUDAM.

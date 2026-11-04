@@ -1,5 +1,3 @@
-###DEC-066679-0-000-09-06-1970@@@
-
 DECRETO Nº 66.679, DE 9 DE JUNHO DE 1970.
 
 Retifica no Decreto nº 66.117, de 23 de janeiro de 1970, publicado no "Diário Oficial" do dia 29 do mesmos mês e ano, a parte da relação nominal de que trata o artigo 1º.

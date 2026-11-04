@@ -1,5 +1,3 @@
-###DEC-048306-0-000-17-06-1960@@@
-
 DECRETO Nº 48.306, DE 17 DE JUNHO DE 1960.
 
 Autoriza a Companhia Vale do Rio Doce S.A. a pesquisar minério de ferro, no município de Conceição do mato Dentro, Estado de Minas Gerais.

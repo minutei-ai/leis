@@ -1,5 +1,3 @@
-###DEC-082364-0-000-04-10-1978@@@
-
 Decreto nº 82.364, de 04 de outubro de 1978
 
 Concede à Emílio Schupp & Cia. o direito de lavrar quartzo róseo no Município de São João do Paraíso, Estado de Minas Gerais.

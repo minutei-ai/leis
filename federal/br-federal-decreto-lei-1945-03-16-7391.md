@@ -1,5 +1,3 @@
-###DEL-007391-0-000-16-03-1945@@@
-
 DECRETO-LEI N. 7.391 – DE 16 DE MARÇO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a conceder isenção de impôsto, em favor da instituição de beneficência que menciona, destinada a crianças desamparadas

@@ -1,5 +1,3 @@
-###DEC-076984-0-000-05-01-1976@@@
-
 DECRETO Nº 76.984, DE 5 DE JANEIRO DE 1976.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Força e Luz Cataguazes-Leopoldina no Estado de Minas Gerais.

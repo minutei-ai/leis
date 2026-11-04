@@ -1,5 +1,3 @@
-###DEC-087649-0-000-24-09-1982@@@
-
 Decreto nº 87.649, de 24 de setembro de 1982
 
 Dispõe sobre a vinculação do Instituto Nacional de Colonização e Reforma Agrária ao Ministro de Estado Extraordinário para Assuntos Fundiários e dá outras providências.

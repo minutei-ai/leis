@@ -1,5 +1,3 @@
-###DEC-049176-0-000-01-11-1960@@@
-
 DECRETO Nº 49.176, DE 1 DE NOVEMBRO DE 1960.
 
 Cria cargos e funções no Quadro de Pessoal Permanente do Instituto de Aposentadoria e Pensões dos Ferroviários e Empregados em Serviços Públicos e dá outras providências.

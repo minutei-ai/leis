@@ -1,5 +1,3 @@
-###DEC-051293-0-000-25-08-1961@@@
-
 DECRETO Nº 51.293, DE 25 DE AGôSTO DE 1961.
 
 Autoriza a Mineração Lajeado Ltda., a pesquisar minério de chumbo, no município de Bocaiúva do Sul, Estado do Paraná.

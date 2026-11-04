@@ -1,5 +1,3 @@
-###DEC-071823-0-000-07-02-1973@@@
-
 decreto nº 71.823, de 7 de fevereiro de 1973.
 
 Reorganiza o Departamento de Ensino e Pesquisa do Ministério do Exército e dá outras providências.

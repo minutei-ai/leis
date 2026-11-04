@@ -1,5 +1,3 @@
-###DEC-074291-0-000-16-07-1974@@@
-
 DECRETO Nº 74.291 - DE 16 DE JULHO DE 1974.
 
 Promulga o Acordo de Co-Produção Cinematográfica Brasil-Itália.

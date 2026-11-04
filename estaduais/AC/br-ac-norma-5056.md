@@ -1,6 +1,10 @@
 > **LEI Nº 3.903, DE 19 DE JANEIRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre penalidades ao responsável pelo acionamento indevido dos serviços telefônicos de atendimento (trote telefônico) a emergências envolvendo remoções ou resgates, combate a incêndios, ocorrências policiais ou atendimento de desastres.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre penalidades ao responsável pelo acionamento indevido dos serviços telefônicos de atendimento (trote telefônico) a emergências envolvendo remoções ou resgates, combate a incêndios, ocorrências policiais ou atendimento de desastres.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

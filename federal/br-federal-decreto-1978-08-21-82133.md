@@ -1,5 +1,3 @@
-###DEC-082133-0-000-21-08-1978@@@
-
 Decreto nº 82.133, de 21 de agosto de 1978.
 
 Revoga o banimento de MARIA NAZARETH CUNHA DA ROCHA e dá outras providências.

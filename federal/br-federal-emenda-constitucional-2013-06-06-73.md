@@ -27,7 +27,6 @@ sha256_markdown: "02e0f667956180e1638e4c66c022d9933d4a63f92eaf154bb65814fec63a04
 manifesto: "provas/emendas-cf1988/faixa-051-100/manifesto.json"
 contrato_versao: 1
 ---
-
 Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 73, DE 6 DE JUNHO DE 2013
@@ -44,8 +43,7 @@ Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
-> Este texto não substitui o publicado no DOU de 7.6.2013
->
+>>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-051-100/reconciliacao-br-federal-emenda-constitucional-2013-06-06-73.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -82,8 +80,4 @@ Brasília, em 6 de junho de 2013.
 | Deputado SIMÃO SESSIM 2º Secretário | Senador JAYME CAMPOS 2º Suplente de Secretário |
 | Deputado MAURÍCIO QUINTELLA LESSA 3º Secretário |  |
 | Deputado ANTONIO CARLOS BIFFI 4º Secretário |  |
-| Deputado GONZAGA PATRIOTA 1º Suplente de Secretário |  |
-
-Este texto não substitui o publicado no DOU 7.6.2013
-
-\*
+| Deputado GONZAGA PATRIOTA 1º Suplente de Secretário |  |\*

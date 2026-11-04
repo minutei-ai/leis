@@ -1,5 +1,3 @@
-###DEC-060073-0-000-16-01-1967@@@
-
 decreto nº 60.073, de 16 de janeiro de 1967.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de terreno que menciona, situado no Município de Votuporanga, Estado de São Paulo.

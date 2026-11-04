@@ -1,5 +1,3 @@
-###DEC-002470-0-000-22-01-1998@@@
-
 DECRETO Nº 2.470, DE 22 DE JANEIRO DE 1998
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.337, de 6 de outubro de 1997.

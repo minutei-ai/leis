@@ -1,5 +1,3 @@
-###DEC-068394-0-000-23-03-1971@@@
-
 DECRETO Nº 68.394, DE 23 DE MARÇO DE 1971.
 
 Declara de utilidade pública a Mocidade Espírita "Emile des Touches" (M. E. E. D. T.). com sede em Campos, Estado do Rio de Janeiro.

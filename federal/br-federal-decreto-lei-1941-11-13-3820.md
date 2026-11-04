@@ -1,5 +1,3 @@
-###DEL-003820-0-000-13-11-1941@@@
-
 DECRETO-LEI n. 3.820 – DE 13 DE NOVEMBRO DE 1941
 
 Dispõe sobre a representação do Brasil no Conselho Administrativo da Repartição Internacional Trabalho.

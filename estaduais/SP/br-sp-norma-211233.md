@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211233)<br>
-
 # DECRETO N° 69.736, DE 22 DE JULHO DE 2025
 
 ### _Altera o Decreto n° 34.064, de 28 de outubro de 1991, que regulamentou a Lei n° 7.524, de 28 de outubro de 1991, que instituiu o auxílio-alimentação._

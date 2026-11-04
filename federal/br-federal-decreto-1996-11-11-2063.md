@@ -1,5 +1,3 @@
-###DEC-002063-0-000-11-11-1996@@@
-
 DECRETO Nº 2.063, DE 11 DE NOVEMBRO DE 1996.
 
 Revoga o Decreto nº 74.102, de 24 de maio de 1974, que classifica os Parques de Material Aeronáutico.

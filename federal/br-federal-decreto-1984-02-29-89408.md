@@ -1,5 +1,3 @@
-###DEC-089408-0-000-29-02-1984@@@
-
 DECRETO nº 89.408, de 29 de fevereiro de 1984
 
 Autoriza a transferência direta da concessão outorgada à SOCIEDADE RÁDIO GUARUJÁ DE ORLEANS LTDA., para a RÁDIO SOCIEDADE CRUZ DE MALTA LTDA.

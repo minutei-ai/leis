@@ -1,7 +1,3 @@
-1
-
-###DEC-099285-0-000-06-06-1990@@@
-
 DECRETO N° 99.285, DE 6 DE JUNHO DE 1990
 
 Dá nova redação a dispositivos do Decreto n° 68.099, de 20 de janeiro de 1971, que cria a Comissão Brasileira de Atividades Espaciais.

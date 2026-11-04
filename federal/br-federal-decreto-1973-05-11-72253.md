@@ -1,5 +1,3 @@
-###DEC-072253-0-000-11-05-1973@@@
-
 DECRETO N° 72.253, DE 11 DE MAIO DE 1973.
 
 Concede à firma individual Alberto Martins o direito de lavrar calcário no Município de Iporanga, Estado de São Paulo.

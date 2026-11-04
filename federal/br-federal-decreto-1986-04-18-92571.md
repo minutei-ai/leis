@@ -1,5 +1,3 @@
-###DEC-092571-0-000-18-04-1986@@@
-
 DECRETO Nº 92.571, DE 18 DE ABRIL DE 1986
 
 Dispõe sobre o disciplinamento de terras federais incluídos na área afetada no Centro de Lançamento de Alcântara - CLA, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-060693-0-000-08-05-1967@@@
-
 DECRETO Nº 60.693, DE 8 DE MAIO DE 1967.
 
 Inclui confederações nas relacionadas na letra “j” do art. 2º do Decreto nº 40.556, de 17 de dezembro de 1956.

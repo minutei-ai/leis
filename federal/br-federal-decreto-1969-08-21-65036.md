@@ -1,5 +1,3 @@
-###DEC-065036-0-000-21-08-1969@@@
-
 DECRETO Nº 65.036 - DE 21 DE AGÔSTO DE 1969.
 
 Transfere cargo da Caixa Econômica Federal do Estado do Rio de Janeiro para o Ministério da Justiça, com fundamento no artigo 17 § 1º da Lei nº 4.863, de 29 de novembro de 1965.

@@ -1,5 +1,3 @@
-###MPV-000530-0-000-25-04-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 530, DE 25 DE ABRIL DE 2011
 
 Institui, no âmbito do Ministério da Educação, o plano especial de recuperação da rede física escolar pública, com a finalidade de prestar assistência financeira para recuperação das redes físicas das escolas públicas estaduais, do Distrito Federal e municipais afetadas por desastres.

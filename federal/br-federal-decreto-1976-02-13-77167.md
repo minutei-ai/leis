@@ -1,5 +1,3 @@
-###DEC-077167-0-000-13-02-1976@@@
-
 DECRETO Nº 77.167, de 13 de Fevereiro de 1976.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Ciências Econômicas Administrativas e Contábeis de São João del Rei, com sede na Cidade de São João del Rei, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-006367-0-000-23-03-1944@@@
-
 DECRETO-LEI N. 6. 367 – DE 23 DE MARÇO DE 1944
 
 Cria uma coletoria federal no município de Dores de Campos, no Estado de Minas Gerais, e dá outras providências

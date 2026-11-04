@@ -1,5 +1,3 @@
-###DEC-079470-0-000-05-04-1977@@@
-
 DECRETO Nº 79.470, DE 5 DE ABRIL DE 1977.
 
 Concede á S.A. Cerâmica Iguaçu o direito de lavrar caulim no Município de São José dos Pinhais Estado do Paraná.

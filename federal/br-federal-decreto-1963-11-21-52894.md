@@ -1,5 +1,3 @@
-###DEC-052894-0-000-21-11-1963@@@
-
 DECRETO Nº 52.894, DE 21 DE NOVEMBRO DE 1963.
 
 Aprova alterações introduzidas nos Estatutos da Interamericana Companhia de Seguros Gerais.

@@ -1,5 +1,3 @@
-###DEC-086279-0-000-10-08-1981@@@
-
 Decreto nº 86.279, de 10 de agosto de 1981.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Espírito Santo Centrais Elétricas S.A. - ESCELSA, no Estado do Espírito Santo.

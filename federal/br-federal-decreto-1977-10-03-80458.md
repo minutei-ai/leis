@@ -1,5 +1,3 @@
-###DEC-080458-0-000-03-10-1977@@@
-
 decreto nº 80.458, de 03 de outubro de 1977.
 
 Concede à Carbonífera Palermo Limitada o direito de lavrar carvão no Município de Orleans, Estado de Santa Catarina.

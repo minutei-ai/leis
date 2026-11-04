@@ -1,5 +1,3 @@
-###DEC-060067-0-000-16-01-1967@@@
-
 DECRETO Nº 60.067, DE 16 DE JANEIRO DE 1967.
 
 Autoriza a Companhia Soutex de Roupas a instalar um turbogerador para uso exclusivo.

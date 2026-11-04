@@ -1,5 +1,3 @@
-###DEC-007740-0-000-30-05-2012-PUB-01@@@
-
 DECRETO Nº 7.740, DE 30 DE MAIO DE 2012
 
 Altera o Decreto nº 7.680, de 17 de fevereiro de 2012, que dispõe sobre a programação orçamentária e financeira, estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2012, e dá outras providências.

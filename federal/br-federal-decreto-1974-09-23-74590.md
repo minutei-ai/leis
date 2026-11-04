@@ -1,5 +1,3 @@
-###DEC-074590-0-000-23-09-1974@@@
-
 Decreto nº 74.590, de 23 de setembro de 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Atlântica de Santos Ltda., ex-Sociedade Rádio Atlântica, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Santos, Estado de São Paulo.

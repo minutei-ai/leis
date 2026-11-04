@@ -6,7 +6,8 @@ FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFE
 
 Art. 1.º Fica instituído no Município de Aparecida de Goiânia o “Serviço de Transporte Individual de Passageiros em Automóvel de Aluguel provido de taxímetro” (Táxi), destinado ao transporte individual de passageiros, observadas no que se refere à sua organização, planejamento, controle e fiscalização, as condições básicas impostas por essa Lei e pela regulamentação que será baixada pelo Chefe do Poder Executivo, no prazo máximo de 90 (noventa) dias.
 
-Art. 2° - O serviço será gerenciado pelo Órgão de Trânsito e Transportes do Município de Aparecida, para operação sob o regime de permissão, devendo ser exercido por pessoa física ou Microempreendedor individual (MEI), que demonstre capacidade de exercê-lo por sua conta e risco.<br>
+Art. 2° - O serviço será gerenciado pelo Órgão de Trânsito e Transportes do Município de Aparecida, para operação sob o regime de permissão, devendo ser exercido por pessoa física ou Microempreendedor individual (MEI), que demonstre capacidade de exercê-lo por sua conta e risco.
+
 (Redação alterada pela Lei Ordinária nº 3.498, de 9 de setembro de 2019).
 
 ~~Art. 2.º O Serviço será gerenciado pela Superintendência Municipal de Trânsito e Transportes de Aparecia de Goiânia (SMTA) para operação sob o regime de permissão, devendo ser exercido por pessoa física que demonstre capacidade de exercê-lo por sua conta e risco.~~
@@ -15,7 +16,8 @@ Art. 2° - O serviço será gerenciado pelo Órgão de Trânsito e Transportes d
 
 § 2º A delegação da permissão definida no caput dar-se-á através de licitação, segundo disposto na Lei Federal nº 8.666/93 e suas alterações, bem como a Lei Federal 8.987/95 e demais legislações aplicáveis.
 
-§ 3° - Ficam mantidas as permissões concedidas aos permissionários do serviço de táxi que exerciam as atividades anterior à edição da Lei Municipal N° 3.154, de 27 de fevereiro de 2014, sendo o prazo da permissão será o mesmo dos atuais permissionários, mediante anuência e Termo de Permissão do poder público municipal.<br>
+§ 3° - Ficam mantidas as permissões concedidas aos permissionários do serviço de táxi que exerciam as atividades anterior à edição da Lei Municipal N° 3.154, de 27 de fevereiro de 2014, sendo o prazo da permissão será o mesmo dos atuais permissionários, mediante anuência e Termo de Permissão do poder público municipal.
+
 (Redação alterada pela Lei Ordinária nº 3.498, de 9 de setembro de 2019).
 
 ~~§ 3º Ficam mantidas as permissões concedidas aos atuais permissionários do serviço de táxi.~~
@@ -36,31 +38,38 @@ Art.6º Nos crimes previstos no Código de Trânsito Brasileiro, o permissionár
 
 Art.7º O direito à exploração de serviços de táxi poderá ser outorgado a qualquer interessado que satisfaça os requisitos exigidos pelo poder público local.
 
-§ 1° - Fica permitida a transferência da outorga a terceiros, de acordo com as disposições da Lei federal 12.587, de 3 de janeiro de 2012 e critérios estabelecidos a seguir. <br>
+§ 1° - Fica permitida a transferência da outorga a terceiros, de acordo com as disposições da Lei federal 12.587, de 3 de janeiro de 2012 e critérios estabelecidos a seguir. 
+
 (Redação alterada pela Lei Ordinária nº 3.498, de 9 de setembro de 2019).
 
 ~~§ 1º  A transferência do direito de exploração do serviço de táxi é permitida única e exclusivamente no caso de invalidez permanente ou falecimento do outorgado, passando a outorga a seus sucessores legítimos, nos termos dos arts. 1.829 e seguintes da Lei nº 10.406, de 10 janeiro de 2002 – Código Civil.~~
 
-§ 2° - No caso de falecimento,invalidez e doença grave do outorgado que impossibilite a execução dos serviços, o direito à exploração do serviço será transferido aos seus sucessores legítimos, nos termos do art. 1829 e seguintes  da Lei n° 10.406, de janeiro de 2002 – Código Civil.<br>
+§ 2° - No caso de falecimento,invalidez e doença grave do outorgado que impossibilite a execução dos serviços, o direito à exploração do serviço será transferido aos seus sucessores legítimos, nos termos do art. 1829 e seguintes  da Lei n° 10.406, de janeiro de 2002 – Código Civil.
+
 (Redação alterada pela Lei Ordinária nº 3.498, de 9 de setembro de 2019).
 
 ~~§ 2º  A transferência de que trata o parágrafo acima está condicionada à prévia anuência do Poder Público Municipal, desde que cumpridos os requisitos fixados para a outorga.~~
 
-§ 3° - As transferências de que tratam is parágrafos acima, dar-se-ão pelo prazo da outorga e estão condicionadas à prévia anuência do Poder Público Municipal,desde que cumpridos os requisitos fixados para a outorga.<br>
+§ 3° - As transferências de que tratam is parágrafos acima, dar-se-ão pelo prazo da outorga e estão condicionadas à prévia anuência do Poder Público Municipal,desde que cumpridos os requisitos fixados para a outorga.
+
 (Redação alterada pela Lei Ordinária nº 3.498, de 9 de setembro de 2019).
 
 ~~§ 3º  As transferências de que tratam os §§ 1o e 2o dar-se-ão pelo prazo da outorga e são condicionadas à prévia anuência do poder público municipal e ao atendimento dos requisitos fixados para a outorga.~~
 
-§ 4° - Para obter o direito à sucessâo, nos termos dos §§ 1º e 2º, deverá o interessado requere-la no prazo de 90 (noventa) dias, contados da data da ocorrência, mediante comprovação prévia, a condição de sucessor e apresentando declaraçâo de desistencia dos demais que o precedem, bem como cumprir todas os requisitos desta Lei e outros julgados necessários pelo Órgão de Trânsito municipal.<br>
+§ 4° - Para obter o direito à sucessâo, nos termos dos §§ 1º e 2º, deverá o interessado requere-la no prazo de 90 (noventa) dias, contados da data da ocorrência, mediante comprovação prévia, a condição de sucessor e apresentando declaraçâo de desistencia dos demais que o precedem, bem como cumprir todas os requisitos desta Lei e outros julgados necessários pelo Órgão de Trânsito municipal.
+
 (Redação acrescentada pela Lei Ordinária nº 3.498, de 9 de setembro de 2019).
 
-§ 5° - A transferência para terceiro, sem grau de parentesco, poderá ser realizada desde que atenda aos requisitos exigidos na presente lei e por um período não inferior a 12 (doze) meses de exploração do serviço, sendo que não atendidas as condições a permissão retornará ao Poder Público.<br>
+§ 5° - A transferência para terceiro, sem grau de parentesco, poderá ser realizada desde que atenda aos requisitos exigidos na presente lei e por um período não inferior a 12 (doze) meses de exploração do serviço, sendo que não atendidas as condições a permissão retornará ao Poder Público.
+
 (Redação acrescentada pela Lei Ordinária nº 3.498, de 9 de setembro de 2019).
 
-§ 6° - Autorizada a transferência em processo  administrativo, será emitido o Termo de Permissão de uso, mediante o pagamento das taxas pertinentes estabelecidas na legislação municipal.<br>
+§ 6° - Autorizada a transferência em processo  administrativo, será emitido o Termo de Permissão de uso, mediante o pagamento das taxas pertinentes estabelecidas na legislação municipal.
+
 (Redação acrescentada pela Lei Ordinária nº 3.498, de 9 de setembro de 2019).
 
-§ 7° - Somente será concedido uma outorga por permissionário e cadastro de 01 (um) veículo por permissão.<br>
+§ 7° - Somente será concedido uma outorga por permissionário e cadastro de 01 (um) veículo por permissão.
+
 (Redação acrescentada pela Lei Ordinária nº 3.498, de 9 de setembro de 2019).
 
 Art. 8º Os permissionários não poderão deter qualquer outra concessão, permissão ou autorização outorgada pela SMTA, bem como de outro serviço público Municipal, Estadual ou Federal.
@@ -83,14 +92,16 @@ Art. 11 O serviço de táxi será restrito ao município de Aparecida de Goiâni
 
 § 1º Os táxis deverão estar sempre à disposição do público usuário, não podendo os condutores auxiliares ou permissionários recusarem-se à prestação de serviços nas condições previstas na legislação pertinente e respeitada uma jornada de trabalho de oito horas diárias.
 
-§ 2º.  O serviço de táxi em Aparecida de Goiânia utilizará as seguintes bandeiras taximétricas:<br>
+§ 2º.  O serviço de táxi em Aparecida de Goiânia utilizará as seguintes bandeiras taximétricas:
+
 (Redação alterada pela Lei Ordinária nº 3.209, de 19 de agosto de 2014).
 
 ~~§ 2º O Serviço Municipal de Táxi aplicará única e exclusivamente a Bandeira Taximétrica 1 (Bandeira 1).~~
 
 a)    BANDEIRA 1:  de segunda à sexta-feira, entre  06:00h e 22:00h, e aos sábados, entre 06:00h e 13:00h;
 
-b)    BANDEIRA 2:  de segunda à sexta-feira, entre  22:00h e 05:59h, e aos sábados, após as 13:00h, e em domingos e feriados. <br>
+b)    BANDEIRA 2:  de segunda à sexta-feira, entre  22:00h e 05:59h, e aos sábados, após as 13:00h, e em domingos e feriados. 
+
 (Redação acrescentada pela Lei Ordinária nº 3.209, de 19 de agosto de 2014).
 
 § 3º As tarifas a serem cobradas dos usuários do Serviço de Transporte Individual de Passageiros em Automóvel de Aluguel provido de Taxímetro (Taxi) serão fixadas pela Municipalidade, através de decreto do Chefe do Poder Executivo, em função da justa remuneração dos investimentos e do custo operacional.
@@ -115,7 +126,8 @@ V – Viagem para o exterior.
 
 § 2° - O disposto no inciso II, IV e V deste artigo deverá ser comprovado através de documentação especifica.
 
-§  3° - O disposto no inciso III deste artigo deverá ser comprovado atráves de nota fiscal em caso de aquisição de veiculos novos e de transferência para veículos usados.<br>
+§  3° - O disposto no inciso III deste artigo deverá ser comprovado atráves de nota fiscal em caso de aquisição de veiculos novos e de transferência para veículos usados.
+
 (Redação alterada pela Lei Ordinária nº 3.498, de 9 de setembro de 2019).
 
 ~~Art. 13 Os permissionários poderão requerer, por até 120 (cento e vinte) dias, a reserva da permissão nas seguintes situações:~~
@@ -172,10 +184,12 @@ I – Satisfazer as exigências do Código de Trânsito Brasileiro e legislativo
 
 II – ser de fabricação não superior a 04 (quatro) anos para cadastramento e não superior a 08 (oito) anos para a última vistoria.
 
-III – Outras contidas em regulamentação própria;<br>
+III – Outras contidas em regulamentação própria;
+
 (Redação alterada pela Lei Ordinária nº 3.498, de 9 de setembro de 2019).
 
-Parágrafo Único. Os veículos a serem utilizados no serviço de transporte individual de passageiros poderão ser próprios ou de terceiros, quando de terceiros no cadastramentoe vistorias exigir-se-á procuração pública específica.<br>
+Parágrafo Único. Os veículos a serem utilizados no serviço de transporte individual de passageiros poderão ser próprios ou de terceiros, quando de terceiros no cadastramentoe vistorias exigir-se-á procuração pública específica.
+
 (Redação acrescentada pela Lei Ordinária nº 3.498, de 9 de setembro de 2019).
 
 ~~Art. 19 Os veículos a serem utilizados no serviço definido nesta lei deverão ser da categoria automóvel, com 04 (quatro) portas e capacidade para no mínimo 05 (cinco) pessoas incluindo o motorista, na cor branca e encontrar-se em bom estado de conservação, funcionamento, segurança, higiene e:~~
@@ -186,7 +200,8 @@ Parágrafo Único. Os veículos a serem utilizados no serviço de transporte ind
 
 ~~III – outras contidas em regulamentação própria;~~
 
-Art. 20 - Os veículos deverão ser submetidos a vistorias programadas anualmente, em local e data definidas por portaria de Órgão de Trânsito de Município, para verificação da segurança, conservação, conforto, higiene, equipamentos e características definidas nesta Lei e no Regulamento.<br>
+Art. 20 - Os veículos deverão ser submetidos a vistorias programadas anualmente, em local e data definidas por portaria de Órgão de Trânsito de Município, para verificação da segurança, conservação, conforto, higiene, equipamentos e características definidas nesta Lei e no Regulamento.
+
 (Redação alterada pela Lei Ordinária nº 3.498, de 9 de setembro de 2019).
 
 ~~Art. 20. Os veículos deverão ser submetidos a vistorias programadas semestrais em local e data definidas por resolução da SMTA, para verificação da segurança, conservação, conforto, higiene, equipamentos e características definidas nesta Lei e no Regulamento.~~
@@ -251,11 +266,14 @@ Art. 33 Esta Lei entrará em vigor na data de sua publicação, revogando a Lei 
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA, ESTADO DE GOIÁS, AOS 27 DIAS DO MÊS DE FEVEREIRO DO ANO DE 2014.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-VALDEMIR SOUTO<br>
+VALDEMIR SOUTO
+
 Superintendente Municipal de Trânsito e Transportes de Aparecida de Goiânia - SMTA

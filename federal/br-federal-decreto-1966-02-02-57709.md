@@ -1,5 +1,3 @@
-###DEC-057709-0-000-02-02-1966@@@
-
 DECRETO Nº 57.709, de 2 de fevereiro de 1966.
 
 Autoriza o Departamento de Águas e Energia Elétrica do Estado de São Paulo a construir linha de transmissão.

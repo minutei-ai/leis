@@ -1,5 +1,3 @@
-###DEC-060568-0-000-10-04-1967@@@
-
 DECRETO Nº 60.568, DE 10 DE ABRIL DE 1967.
 
 Cria Grupo de Trabalho para o fim que menciona.

@@ -1,5 +1,3 @@
-###DEC-053325-0-000-18-12-1963@@@
-
 DECRETO Nº 53.325, DE 18 DE DEZEMBRO DE 1963.
 
 Institui o Programa de Expansão do Ensino Tecnológico.

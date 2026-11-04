@@ -1,5 +1,3 @@
-###DEC-066841-0-000-03-07-1970@@@
-
 DECRETO Nº 66.841, DE 3 DE JUlHO DE 1970.
 
 Declara de utilidade pública a Associação Congregação de Santa Catarina, com sede em São Paulo,  Estado de São Paulo.

@@ -1,30 +1,28 @@
-###DEC-040165-0-000-18-10-1956@@@
+**DECRETO Nº 40.165, DE 18 DE OUTUBRO DE 1956.**
 
-<strong>DECRETO Nº 40.165, DE 18 DE OUTUBRO DE 1956.</strong>
+***Aprova o Regulamento do Fundo de Mecanização da Lavoura no Vale do São Francisco.***
 
-<em><strong>Aprova o Regulamento do Fundo de Mecanização da Lavoura no Vale do São Francisco.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição e tendo em vista o que dispõe o artigo 17, alínea *d*, da Lei nº 2.599, de 13 de setembro de 1955,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição e tendo em vista o que dispõe o artigo 17, alínea <em>d</em>, da Lei nº 2.599, de 13 de setembro de 1955,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento do Fundo de Mecanização da Lavoura da Comissão do Vale do São Francisco, que com êste baixa, assinado pelo Ministro de Estado da Justiça e Negócios Interiores.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento do Fundo de Mecanização da Lavoura da Comissão do Vale do São Francisco, que com êste baixa, assinado pelo Ministro de Estado da Justiça e Negócios Interiores.
-
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 18 de outubro de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Nereu Ramos
 
-<strong>COMISSÃO DO VALE DO SÃO FRANCISCO REGULAMENTO DO FUNDO DE MECANIZAÇÃO DA LAVOURA</strong>
+**COMISSÃO DO VALE DO SÃO FRANCISCO REGULAMENTO DO FUNDO DE MECANIZAÇÃO DA LAVOURA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Organização e finalidade</em>
+*Organização e finalidade*
 
-<strong>Art</strong>. 1º O Fundo de Mecanização da Lavoura da Comissão do Vale do Rio São Francisco, instituído em obediência ao artigo 17, alínea <em>d</em>, da Lei nº 2.599, de 13 de setembro de 1955, será constituído de recursos provenientes:
+**Art**. 1º O Fundo de Mecanização da Lavoura da Comissão do Vale do Rio São Francisco, instituído em obediência ao artigo 17, alínea *d*, da Lei nº 2.599, de 13 de setembro de 1955, será constituído de recursos provenientes:
 
 a) das dotações orçamentárias especificadamente destinadas a êsse fim;
 
@@ -44,19 +42,19 @@ h) da contribuição de outras entidades públicas que firmarem acôrdo ou conv�
 
 Parágrafo único. As dotações e rendas a que se refere êste artigo, terão o caráter de rotatividade e serão, regularmente, contabilizadas.
 
-<strong>Art</strong>. 2º Os recursos aludidos no artigo anterior serão depositados no Banco Nacional do Desenvolvimento Econômico, Caixa Econômica Federal, Banco Nordeste do Brasil e Banco Nacional de Crédito Cooperativo, além do Banco do Brasil S.A., em conta especial que será movimentada pelo Superintendente ou por pessoa pelo mesmo delegada.
+**Art**. 2º Os recursos aludidos no artigo anterior serão depositados no Banco Nacional do Desenvolvimento Econômico, Caixa Econômica Federal, Banco Nordeste do Brasil e Banco Nacional de Crédito Cooperativo, além do Banco do Brasil S.A., em conta especial que será movimentada pelo Superintendente ou por pessoa pelo mesmo delegada.
 
 Parágrafo único. Quando não houver, nas sedes dos órgãos responsáveis pela prestação de serviços, agência dos estabelecimentos referidos neste artigo, os recursos destinados ao Fundo serão depositados na agência da localidade mais próxima.
 
-<strong>Art</strong>. 3º Os preços dos serviços prestados aos agricultores, por meio das Patrulhas Motomecanizadas e pelo benefício e transformação dos produtos agrícolas, serão, anualmente, revistos pela Diretoria de Produção e Assistência que baixará, no começo de cada exercício, as necessárias instruções.
+**Art**. 3º Os preços dos serviços prestados aos agricultores, por meio das Patrulhas Motomecanizadas e pelo benefício e transformação dos produtos agrícolas, serão, anualmente, revistos pela Diretoria de Produção e Assistência que baixará, no começo de cada exercício, as necessárias instruções.
 
-<strong>Art</strong>. 4º Trimestralmente, a Diretoria de Produção e Assistência organizará o balancete do movimento financeiro para conhecimento da Superintendência, devendo o mesmo especificar as importâncias recolhidas e as empregadas, quer na aquisição de materiais destinados à agricultura e pequenas indústrias de transformação, quer no pagamento de pessoal, quer, ainda, na execução dos trabalhos previstos no artigo 5º dêste Regulamento.
+**Art**. 4º Trimestralmente, a Diretoria de Produção e Assistência organizará o balancete do movimento financeiro para conhecimento da Superintendência, devendo o mesmo especificar as importâncias recolhidas e as empregadas, quer na aquisição de materiais destinados à agricultura e pequenas indústrias de transformação, quer no pagamento de pessoal, quer, ainda, na execução dos trabalhos previstos no artigo 5º dêste Regulamento.
 
-<strong>Art</strong>. 5º Os trabalhos de mecanização da lavoura e os relativos ao benefício e transformação dos produtos serão realizados pelos Distritos, Residências Agrícolas, Postos de Irrigação, Colônias Agropecuárias e qualquer outros órgãos que venham a ser criados, inclusive, também, pelos Executores dos Acôrdos celebrados entre a Comissão do Vale do São Francisco e outras entidades da administração pública do país.
+**Art**. 5º Os trabalhos de mecanização da lavoura e os relativos ao benefício e transformação dos produtos serão realizados pelos Distritos, Residências Agrícolas, Postos de Irrigação, Colônias Agropecuárias e qualquer outros órgãos que venham a ser criados, inclusive, também, pelos Executores dos Acôrdos celebrados entre a Comissão do Vale do São Francisco e outras entidades da administração pública do país.
 
-<strong>Art</strong>. 6º Os Chefes das dependências citadas no artigo anterior, mensalmente, remeterão à D.P.A., balancetes do movimento relativo às rendas resultantes dos trabalhos executados, devendo essas rendas ser recolhidas aos estabelecimentos bancários mencionados no art. 2º dêste Regulamento.
+**Art**. 6º Os Chefes das dependências citadas no artigo anterior, mensalmente, remeterão à D.P.A., balancetes do movimento relativo às rendas resultantes dos trabalhos executados, devendo essas rendas ser recolhidas aos estabelecimentos bancários mencionados no art. 2º dêste Regulamento.
 
-<strong>Art</strong>. 7º O Fundo de Mecanização da Lavoura terá por finalidade:
+**Art**. 7º O Fundo de Mecanização da Lavoura terá por finalidade:
 
 a) mecanizar tôdas as fases da produção agrícola através de patrulhas motomecanizadas, inclusive transformar e beneficiar os produtos oriundos da agricultura;
 
@@ -70,13 +68,13 @@ e) atender ao pagamento de pessoal das patrulhas, dos conjuntos de benefício e 
 
 f) dar iniciamento aos trabalhos irrigatórios, promovendo meios para aquisição do material necessário.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Das Patrulhas Motomecanizadas</em>
+*Das Patrulhas Motomecanizadas*
 
-<strong>Art</strong>. 8º As Patrulhas Motomecanizadas serão constituídas dos tratores e implementos já existentes, dos que venham a ser adquiridos e dos que as mesmas possam ser integrados, por fôrça de acordos ou de convênios entre a Comissão do Vale do São Francisco e outros órgãos da administração pública do país.
+**Art**. 8º As Patrulhas Motomecanizadas serão constituídas dos tratores e implementos já existentes, dos que venham a ser adquiridos e dos que as mesmas possam ser integrados, por fôrça de acordos ou de convênios entre a Comissão do Vale do São Francisco e outros órgãos da administração pública do país.
 
-<strong>Art</strong>. 9º A função de cada patrulha é a mecanizar todos os trabalhos pertinentes à agricultura, tais como:
+**Art**. 9º A função de cada patrulha é a mecanizar todos os trabalhos pertinentes à agricultura, tais como:
 
 a) desmatamento, destocamento, encoivamento, limpeza e remoção de todos e nivelamento dos terrenos;
 
@@ -94,7 +92,7 @@ g) pequena açudagem, barragens e poços tubulares;
 
 h) pequenas vias de penetração.
 
-<strong>Art</strong>. 10. As patrulhas operarão de acôrdo com as seguintes normas:
+**Art**. 10. As patrulhas operarão de acôrdo com as seguintes normas:
 
 a) os contratos de serviços serão executados, rigorosamente, pela ordem de inscrição, podendo, todavia, ser alterada quando, por escrito, o agricultor ceder a sua vez ou, ainda, quando houver interêsse do serviço a juízo da administração;
 
@@ -110,19 +108,19 @@ f) para efeito estatístico, devem ser adotados o número de hectares, mecanicam
 
 g) os encarregados das patrulhas, ouvidos os agricultores, apresentarão, anualmente, sugestões sôbre o valor da taxa a ser cobrada.
 
-<strong>Art</strong>. 11. O terreno para instalação de cada Patrulha deverá ter, no mínimo, dois hectares e ficar próximo ao local onde haja energia elétrica e água.
+**Art**. 11. O terreno para instalação de cada Patrulha deverá ter, no mínimo, dois hectares e ficar próximo ao local onde haja energia elétrica e água.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do benefício e transformação dos produtos agrícolas</em>
+*Do benefício e transformação dos produtos agrícolas*
 
-<strong>Art</strong>. 12. Os conjuntos de benefício dos produtos de natureza agrícola, pertencentes à Comissão do Vale do São Francisco, ficarão integrados, para efeito de funcionamento, reparos e ampliações, ao Fundo de Mecanização da Lavoura.
+**Art**. 12. Os conjuntos de benefício dos produtos de natureza agrícola, pertencentes à Comissão do Vale do São Francisco, ficarão integrados, para efeito de funcionamento, reparos e ampliações, ao Fundo de Mecanização da Lavoura.
 
-<strong>Art</strong>. 13. Poderão ser instalados, à conta dos recursos do Fundo de Mecanização da Lavoura, quaisquer tipos de máquinas que se destinem ao benefício dos produtos agrícolas, em locais dos mais indicados na bacia do São Francisco.
+**Art**. 13. Poderão ser instalados, à conta dos recursos do Fundo de Mecanização da Lavoura, quaisquer tipos de máquinas que se destinem ao benefício dos produtos agrícolas, em locais dos mais indicados na bacia do São Francisco.
 
-<strong>Art</strong>. 14. Poderão, ainda, à conta dos recursos citados, no artigo anterior, ser instalados aparelhos e máquinas para transformação dos produtos oriundos da agricultura e da pecuária.
+**Art**. 14. Poderão, ainda, à conta dos recursos citados, no artigo anterior, ser instalados aparelhos e máquinas para transformação dos produtos oriundos da agricultura e da pecuária.
 
-<strong>Art</strong>. 15. O Fundo de Mecanização da Lavoura será orientada pela Diretoria de Produção e Assistência, sob a supervisão da Superintendência.
+**Art**. 15. O Fundo de Mecanização da Lavoura será orientada pela Diretoria de Produção e Assistência, sob a supervisão da Superintendência.
 
 Parágrafo único. À Diretoria de Produção e Assistência competirá:
 
@@ -142,10 +140,10 @@ g) exigir dos órgãos, que realizam, no Vale, os trabalhos relativos à mecaniz
 
 h) expedir circulares e instruções às dependências ligadas às atividades relativas ao Fundo.
 
-<strong>Art</strong>. 16. Os agricultores deverão, no ato de assinatura dos contratos de serviços, apresentar o certificado de registro de sua propriedade no Ministério da Agricultura.
+**Art**. 16. Os agricultores deverão, no ato de assinatura dos contratos de serviços, apresentar o certificado de registro de sua propriedade no Ministério da Agricultura.
 
-<strong>Art</strong>. 17. Os casos omissos no presente Regulamento serão resolvidos pela Comissão, mediante proposta da Diretoria de Produção e Assistência.
+**Art**. 17. Os casos omissos no presente Regulamento serão resolvidos pela Comissão, mediante proposta da Diretoria de Produção e Assistência.
 
 Rio de Janeiro, 18 de outubro de 1956.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**

@@ -1,5 +1,3 @@
-###DEL-008755-0-000-21-01-1946@@@
-
 DECRETO-LEI Nº 8.755, DE 21 DE JANEIRO DE 1946
 
 Autoriza o Departamento Nacional do Café a conceder aumento de salário ao seu pessoal.

@@ -1,5 +1,3 @@
-###DEL-007967-0-000-18-09-1945@@@
-
 DECRETO-LEI N. 7.967 – DE 18 DE SETEMBRO DE 1945
 
 Dispõe sôbre a Imigração e Colonização, e dá outras providências

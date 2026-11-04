@@ -4,7 +4,8 @@ Cria a Unidade de Acolhimento Institucional para Crianças do Município de Apar
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA UNIDADE E DOS OBJETIVOS
 
 Art. 1º Fica criada a Unidade de Acolhimento Institucional para Crianças do Município de Aparecida de Goiânia, cuja administração e gestão está diretamente vinculada à Secretaria Municipal de Assistência Social, obedecidas as disposições da Lei nº 8.069, de 13 de julho de 1990.
@@ -19,7 +20,8 @@ Art. 2º A unidade de Acolhimento Institucional para Crianças tem como finalida
 
 § 4º A equipe técnica/profissional deverá ser composta por, no mínimo 01 (uma) coordenadora, 01 (uma) assistente social, 01 (uma) psicóloga e 01 (uma) pedagoga e educadoras sociais, preferencialmente por profissionais do quadro permanente da Administração Municipal.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO PROCEDIMENTO DE ACOLHIMENTO, PLANO INDIVIDUAL DE ATENDIMENTO
 
 Art. 3º As crianças encaminhadas pelo Juizado da Infância e Juventude, pelo Ministério Público ou pelo Conselho Tutelar serão acolhidas na unidade mediante o preenchimento da Guia de Acolhimento e recebimento dos documentos do (a) acolhido (a), devendo a educadora realizar todos os procedimentos necessários a acolhida.
@@ -38,7 +40,8 @@ IV – necessidade de preparação da criança para o desligamento, em parceria 
 
 Art. 4º Não poderão ser instaladas placas indicativas da natureza institucional do imóvel onde funcionará a unidade de acolhimento, evitando-se nomenclatura que remetam a aspectos negativos ou que estigmatizem as crianças ali atendidas.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO REGIMENTO E REGISTRO
 
 Art. 5º O Regimento Interno próprio deverá ser elaborado em até 90 (noventa) dias, após a aprovação da alteração da Lei, definindo as diretrizes de organização e funcionamento, seguindo as “Orientações Técnicas: Serviço de Acolhimento Institucional para Crianças e Adolescentes”, a Tipificação Nacional dos Serviços Socioassistenciais, e o “Estatuto da Criança e do Adolescente – ECA,” dentre outros marcos regulatórios.
@@ -53,11 +56,14 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 03 de
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-MAYARA MENDANHA<br>
+MAYARA MENDANHA
+
 Secretaria de Assistência Social
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Chefe da Casa Civil

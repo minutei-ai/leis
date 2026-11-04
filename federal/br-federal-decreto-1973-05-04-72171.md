@@ -1,5 +1,3 @@
-###DEC-072171-0-000-04-05-1973@@@
-
 DECRETO Nº 72.171, DE 4 DE MAIO DE 1973.
 
 Declara de utilidade pública as instituições que menciona.
@@ -67,8 +65,6 @@ Brasília, 4 de maio de 1973; 152º da Independência e 85º da República.
 Alfredo Buzaid
 
 EMILIO G. MÉDICI
-
-###DEC-072171-0-000-04-05-1973@@@
 
 DECRETO Nº 72.171, DE 4 DE MAIO DE 1973.
 

@@ -1,5 +1,3 @@
-###DEC-079241-0-000-10-02-1977@@@
-
 DECRETO Nº 79.241, DE 10 DE FEVEREIRO DE 1977.
 
 Concede reconhecido ao curso de Odontologia, da Faculdade Bandeirante de Odontologia, com sede na cidade de Bragança Paulista, Estado de São Paulo.

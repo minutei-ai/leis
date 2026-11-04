@@ -1,5 +1,3 @@
-###DEC-003664-0-000-17-11-2000@@@
-
 DECRETO Nº 3.664, DE 17 DE NOVEMBRO DE 2000.
 
 Regulamenta a Lei nº 9.972, de 25 de maio de 2000, que institui a classificação de produtos vegetais, seus subprodutos e resíduos de valor econômico e dá outras providências.

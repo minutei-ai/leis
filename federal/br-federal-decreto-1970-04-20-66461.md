@@ -1,5 +1,3 @@
-###DEC-066461-0-000-20-04-1970@@@
-
 DECRETO Nº 66.461, DE 20 DE ABRIL DE 1970.
 
 Fixa normas a serem adotadas para a utilização dos saldos dos recursos provenientes do Decreto nº 65.207, de 22 de setembro de 1969, e dá outras providências.

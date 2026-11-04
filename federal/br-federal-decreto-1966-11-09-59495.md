@@ -1,5 +1,3 @@
-###DEC-059495-0-000-09-11-1966@@@
-
 DECRETO Nº 59.495, DE 9 DE NOVEMBRO DE 1966.
 
 Concede novos prazos para apresentação da Declaração de Propriedade Rural e para pagamento do Impôsto Territorial Rural, regula as respectivas reclamações e recursos e dá outras providências.

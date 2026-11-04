@@ -1,5 +1,3 @@
-###DEC-097523-0-000-16-02-1989@@@
-
 DECRETO Nº 97.523, DE 16 DE FEVEREIRO DE 1989
 
 Homologa a demarcação administrativa da terra indígena YANOMAMI, que menciona, no Estado do Amazonas.

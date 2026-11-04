@@ -1,5 +1,3 @@
-###DEC-062529-0-000-16-04-1968@@@
-
 Decreto nº 62.529, de 16 de abril de 1968.
 
 Autoriza o Ministro das Minas e Energia a instituir Comissão Especial de Alto Nível, com a atribuição de rever e atualizar o Código de Águas.

@@ -1,5 +1,3 @@
-###DEC-069613-0-000-29-11-1971@@@
-
 DECRETO Nº 69.613 - DE 29 DE NOVEMBRO DE 1971
 
 Concede reconhecimento ao Curso de Licenciatura em Desenho e Plástica, da Faculdade de Belas Artes de São Paulo - SP.

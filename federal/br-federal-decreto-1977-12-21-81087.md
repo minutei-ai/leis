@@ -1,5 +1,3 @@
-###DEC-081087-0-000-21-12-1977@@@
-
 decreto nº 81.087, de 21 de dezembro de 1977.
 
 Concede reconhecimento aos cursos de Comunicação Social e de Ciências Biológicas da Universidade do Amazonas, com sede na cidade de Manaus, Estado do Amazonas.

@@ -1,5 +1,3 @@
-###DEC-056972-0-000-01-10-1965@@@
-
 DECRETO Nº 56.972, DE 1º DE OUTUBRO DE 1965.
 
 Declara de utilidade pública a associação civil “Escolas Profissionais Salesianas”, com sede em São Paulo, Estado de São Paulo.

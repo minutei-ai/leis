@@ -1,7 +1,3 @@
-1
-
-###DEC-099025-0-000-05-03-1990@@@
-
 DECRETO Nº 99.025, DE 5 DE MARÇO DE 1990
 
 Autoriza o funcionamento do curso de Administração de Empresas da Faculdade de Administração de Itumbiara.

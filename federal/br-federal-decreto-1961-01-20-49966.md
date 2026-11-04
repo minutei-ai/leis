@@ -1,5 +1,3 @@
-###DEC-049966-0-000-20-01-1961@@@
-
 DECRETO Nº 49.966, DE 20 DE JANEIRO DE 1961
 
 Outorga concessão á Radio Cultura de Poços de Caldas S.A para instalar uma estação radiodifusão.

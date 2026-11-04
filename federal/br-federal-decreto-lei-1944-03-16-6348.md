@@ -1,5 +1,3 @@
-###DEL-006348-0-000-16-03-1944@@@
-
 DECRETO-LEI N. 6.348 – DE 16 DE MARÇO DE 1944
 
 Abre, sem aumento de despesa, créditos suplementares ao Ministério da Viação e Obras Públicas, e dá outras providências

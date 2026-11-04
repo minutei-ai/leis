@@ -50,7 +50,8 @@ Edelvino da Silva Góes Filho
 
 Secretário da Administração
 
-Cláudio Ramos Peixoto<br>
+Cláudio Ramos Peixoto
+
 Secretário do Planejamento
 
 Manoel Vitório da Silva Filho

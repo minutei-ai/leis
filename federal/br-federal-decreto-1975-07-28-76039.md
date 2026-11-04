@@ -1,5 +1,3 @@
-###DEC-076039-0-000-28-07-1975@@@
-
 DECRETO Nº 76.039 - DE 28 DE JULHO 1975.
 
 Dispões sobre a estrutura básica do instituto de Previdência e Assistência dos Servidores do Estado (IPASE) e dá outras providências.

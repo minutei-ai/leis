@@ -1,5 +1,3 @@
-###DEC-067161-0-000-11-09-1970@@@
-
 decreto nº 67.161, de 11 de setembro de 1970.
 
 Outorga à Companhia Hidroelétrica São Patrício concessão para o aproveitamento progressivo da energia hidráulica de um trecho do Rio Maranhão, no município de Niquelândia, no Estado de Goiás.

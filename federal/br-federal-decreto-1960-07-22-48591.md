@@ -1,5 +1,3 @@
-###DEC-048591-0-000-22-07-1960@@@
-
 DECRETO Nº 48.591, DE 22 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro Alvaro Costa a pesquisar argila no município de Amparo, Estado de São Paulo.

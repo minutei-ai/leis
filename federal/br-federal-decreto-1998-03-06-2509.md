@@ -1,5 +1,3 @@
-###DEC-002509-0-000-06-03-1998@@@
-
 DECRETO Nº 2.509, DE 6 DE MARÇO DE 1998
 
 Regulamenta a Lei nº 9.531, de 10 de dezembro de 1997, que cria o Fundo de Garantia para a Promoção da Competitividade - FGPC, e dá outras providências.
@@ -104,7 +102,29 @@ II - compensado mediante provimento de recursos correspondentes ao percentual do
 
 Art. 14. Quando ocorrer a alienação judicial de bens penhorados em processo de execução de crédito com garantia de provimento de recursos pelo FGPC, caberá ao BNDES ou à FINAME, no caso de operação direta, ou à instituição financeira repassadora, no caso de operação de repasse, parcela do produto da alienação, calculada em função do risco assumido pelos mesmos, na operação, conforme abaixo:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:27.98pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:173.5pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">PARCELA DA OPERAÇÃO COM RISCO DO BNDES, DA FINAME OU DA INSTITUIÇÃO FINANCEIRA REPASSADORA</span></p></td><td style="width:208.9pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">PARCELA DA ALIENAÇÃO JUDICIAL QUE REVERTERÁ PARA O BNDES, A FINAME OU A INSTITUIÇÃO FINANCEIRA REPASSADORA</span></p></td></tr><tr><td style="width:173.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">30%</span></p></td><td style="width:208.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">40%</span></p></td></tr><tr><td style="width:173.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">40%</span></p></td><td style="width:208.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">50%</span></p></td></tr><tr><td style="width:173.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">50%</span></p></td><td style="width:208.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">55%</span></p></td></tr><tr><td style="width:173.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">60%</span></p></td><td style="width:208.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">65%</span></p></td></tr><tr><td style="width:173.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">70%</span></p></td><td style="width:208.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">75%</span></p></td></tr></tbody></table>
+PARCELA DA OPERAÇÃO COM RISCO DO BNDES, DA FINAME OU DA INSTITUIÇÃO FINANCEIRA REPASSADORA
+
+PARCELA DA ALIENAÇÃO JUDICIAL QUE REVERTERÁ PARA O BNDES, A FINAME OU A INSTITUIÇÃO FINANCEIRA REPASSADORA
+
+30%
+
+40%
+
+40%
+
+50%
+
+50%
+
+55%
+
+60%
+
+65%
+
+70%
+
+75%
 
 § 1º O critério de rateio estabelecido no “caput” deste artigo vigorará até a total satisfação da parcela do crédito com risco do BNDES, da FINAME ou das instituições financeiras repassadoras.
 

@@ -1,5 +1,3 @@
-###DEL-004106-0-000-11-02-1942@@@
-
 DECRETO-LEI N. 4.106 – DE 11 DE FEVEREIRO DE 1942
 
 Dispõe sobre o pagamento dos militares inativos oriundos da Aeronáutica

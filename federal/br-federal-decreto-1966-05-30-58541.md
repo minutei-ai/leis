@@ -1,5 +1,3 @@
-###DEC-058541-0-000-30-05-1966@@@
-
 decreto Nº 58.541, de 30 de maio de 1966.
 
 Autoriza o cidadão brasileiro Salim Cesar Curi a pesquisar cassiterita no Município de Amapá, Território Federal do Amapá.

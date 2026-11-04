@@ -1,5 +1,3 @@
-###DEC-049737-0-000-31-12-1960@@@
-
 DECRETO Nº 49.737, DE 31 DE DEZEMBRO DE 1960.
 
 Transfere de Victor de Souza Breves para a Emprêsa Luz e Fôrça de Mangaratiba Limitada a concessão para a produção e fornecimento de energia elétrica ao distrito sede e ao distrito de Vila Muriqui, do Município de Mangaratiba, Estado do Rio de Janeiro.

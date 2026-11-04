@@ -1,5 +1,3 @@
-###DEC-005842-0-000-13-07-2006@@@
-
 DECRETO Nº 5.842, DE 13 DE JULHO DE 2006.
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Instituto Nacional de Metrologia, Normalização e Qualidade Industrial - Inmetro, e dá outras providências.
@@ -28,11 +26,7 @@ LUIZ INÁCIO LULA DA SILVA
 
          Paulo Bernardo Silva
 
-                  Luiz Fernando Furlan
-
-Este texto não substitui o publicado no D.O.U. de 14.7.2006
-
-ANEXO I
+                  Luiz Fernando FurlanANEXO I
 
 ESTRUTURA REGIMENTAL DO INSTITUTO NACIONAL DE
 

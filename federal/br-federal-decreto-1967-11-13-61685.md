@@ -1,5 +1,3 @@
-###DEC-061685-0-000-13-11-1967@@@
-
 DECRETO Nº 61.685, DE 13 DE NOVEMBRO DE 1967.
 
 Torna a Embaixada do Brasil em Nicosia, cumulativa com a Embaixada em Tel-Aviv.

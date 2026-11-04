@@ -1,5 +1,3 @@
-###DEC-062372-0-000-08-03-1968@@@
-
 DECRETO Nº 62.372, DE 8 DE MARÇO DE 1968.
 
 Autoriza companhia Paulista de Fôrça e Luz a construir linha de transmissão.

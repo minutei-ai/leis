@@ -1,5 +1,3 @@
-###DEC-095952-0-000-22-04-1988@@@
-
 DECRETO N° 95.952, DE 22 DE ABRIL DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA DOIS IRMÃOS DO PARÁ”, constituído dos lotes 86 e 87, classificado como “latifúndio por exploração”, situado no Município de Santana do Araguaia, no Estado do Pará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.623, de 02 de maio de 1986, e dá outras providências.

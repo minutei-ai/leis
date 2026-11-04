@@ -1,7 +1,3 @@
-1
-
-###MPV-000938-0-000-16-03-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 938, DE 16 DE MARÇO DE 1995
 
 Altera dispositivos da Lei nº 4.024, de 20 de dezembro de 1961, e da Lei nº 5.540, de 28 de novembro de 1968, e dá outras providências.

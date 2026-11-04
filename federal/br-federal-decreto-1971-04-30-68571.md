@@ -1,5 +1,3 @@
-###DEC-068571-0-000-30-04-1971@@@
-
 Decreto Nº 68.571 - DE 30 DE ABRIL DE 1971.
 
 Retifica o Decreto nº 67.966, de 28 de dezembro de 1970, que redistribuiu para o Quadro de Pessoal - Parte Especial - Ministério da Saúde, cargo originário da extinta Estrada de Ferro de Bragança, Do Ministério dos Transportes.

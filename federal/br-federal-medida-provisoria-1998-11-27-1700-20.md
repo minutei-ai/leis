@@ -1,5 +1,3 @@
-###MPV-001700-0-020-27-11-1998@@@
-
 Medida Provisória nº 1.700-20, de 27 de novembro de 1998.
 
 Dispõe sobre a concessão de financiamento vinculado à exportação de bens ou serviços nacionais, e dá outras providências.

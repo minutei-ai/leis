@@ -1,5 +1,3 @@
-###DEC-071775-0-000-31-01-1973@@@
-
 DECRETO Nº 71.775, DE 31 DE JANEIRO DE 1973.
 
 Concede à Companhia de Cimento Salvador o direito de lavrar calcário no município de São Francisco do Conde - Estado da Bahia.

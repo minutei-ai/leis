@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59909)
-
 # LEI Nº 12.223, DE 11 DE JANEIRO DE 2006
 
 ## (Projeto de lei nº 477/2002, do Deputado Geraldo Vinholi - PDT)

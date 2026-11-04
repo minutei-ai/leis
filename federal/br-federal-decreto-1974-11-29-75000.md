@@ -1,5 +1,3 @@
-###DEC-075000-0-000-29-11-1974@@@
-
 DECRETO Nº 75.000, DE 29 DE NOVEMBRO DE 1974.
 
 Autoriza o aterro de área em mar e a cessão dos terrenos que menciona, situados em Niterói, Estado do Rio de Janeiro.

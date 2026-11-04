@@ -1,5 +1,3 @@
-###DEC-007674-0-000-20-01-2012-PUB-01@@@
-
 DECRETO Nº 7.674, DE 20 DE JANEIRO DE 2012
 
 Dispõe sobre o Subsistema de Relações de Trabalho no Serviço Público Federal.

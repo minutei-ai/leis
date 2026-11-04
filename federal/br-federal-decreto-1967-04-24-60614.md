@@ -1,5 +1,3 @@
-###DEC-060614-0-000-24-04-1967@@@
-
 DECRETO Nº 60.614, DE 24 DE ABRIL DE 1967.
 
 Cargos de Comandante de Esquadrão de Saúde e Unidades de Instrução da Fôrça Aérea Brasileira e de Chefe de Serviços Médicos em Estabelecimentos de Ensino da Aeronáutica.

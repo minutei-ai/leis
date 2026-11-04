@@ -1,5 +1,3 @@
-###DEL-000128-0-000-29-12-1937@@@
-
 DECRETO-LEI N. 128 – DE 29 DE DEZEMBRO DE 1937
 
 Abre, pela Prefeitura do Distrito Federal, o crédito especial de réis 200:000$000, para ocorrer às despesas que menciona

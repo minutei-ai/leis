@@ -1,5 +1,3 @@
-###DEL-002076-0-000-20-12-1983@@@
-
 # DecretO-lei nº 2.076, de 20 de dezembro de 1983
 
 Altera o artigo 16 da Lei nº 4.595, de 31 de dezembro de 1964, com a redação dada pelo artigo 1º do Decreto-lei nº 1.638, de 6 de outubro de 1978.

@@ -1,5 +1,3 @@
-###MPV-002131-0-002-23-02-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.131-2, DE 23 DE FEVEREIRO DE 2001
 
 Dispõe sobre a reestruturação da remuneração dos militares das Forças Armadas, altera as Leis n 3.765, de 4 de maio de 1960, e 6.880, de 9 de dezembro de 1980, e dá outras providências.

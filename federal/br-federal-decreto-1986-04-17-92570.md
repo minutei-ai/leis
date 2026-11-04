@@ -1,5 +1,3 @@
-###DEC-092570-0-000-17-04-1986@@@
-
 DECRETO Nº 92.570, DE 17 DE ABRIL DE 1986
 
 Autoriza o Governo do Estado de Goiás a explorar, através do Consórcio de Empresas de Radiodifusão e Notícias do Estado - CERNE, na cidade de Goiânia, Estado de Goiás, serviço de radiodifusão sonora em onda tropical mediante convênio a ser celebrado com o Ministério das Comunicações, e dá outras providências.

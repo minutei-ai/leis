@@ -1,14 +1,12 @@
-###DEC-037210-0-000-23-04-1955@@@
+**DECRETO Nº 37.210, DE 23 DE ABRIL DE 1955.**
 
-<strong>DECRETO Nº 37.210, DE 23 DE ABRIL DE 1955.</strong>
+***Declara de utilidade pública diversas áreas de terra, necessárias às obras relativas ao aproveitamento hidroelétrico de Peixoto, situado no Rio Grande, 24Km, a montante da foz do rio Canoas, próximo ao lugar denominado Ponte dos Peixotos, entre o município de Ibiraci, distrito do mesmo nome e o município de Sacramento, distrito de Desemboque, no Estado de Minas Gerais de que trata o Decreto nº 31.132, de 11 de julho de 1952, e autoriza a Companhia Paulista de Fôrça e Luz Sociedade Anônima a promover a desapropriação das mesmas.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terra, necessárias às obras relativas ao aproveitamento hidroelétrico de Peixoto, situado no Rio Grande, 24Km, a montante da foz do rio Canoas, próximo ao lugar denominado Ponte dos Peixotos, entre o município de Ibiraci, distrito do mesmo nome e o município de Sacramento, distrito de Desemboque, no Estado de Minas Gerais de que trata o Decreto nº 31.132, de 11 de julho de 1952, e autoriza a Companhia Paulista de Fôrça e Luz Sociedade Anônima a promover a desapropriação das mesmas.</strong></em>
+**O PRESIDENTE DA CÂMARA DOS DEPUTADOS**, no exercício do cargo de PRESIDENTE da REPÚBLICA, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição, tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
 
-<strong>O PRESIDENTE DA CÂMARA DOS DEPUTADOS</strong>, no exercício do cargo de PRESIDENTE da REPÚBLICA, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição, tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam declaradas de utilidade pública as seguintes áreas de terra situadas nos municípios de Ibiraci, Sacramento, Delfinópolis, Pratápolis, Cassia, Passos e São João Batista da Glória, todos do Estado de Minas Gerais, constantes das plantas aprovadas pelo Ministro da Agricultura necessárias as obras para o aproveitamento hidroelétrico no rio Grande, 24Km, a montante da foz rio Canoas, próximo ao lugar denominado Ponte dos Peixotos, de que trata o Decreto nº 31.132, de 11 de julho de 1953.
+**Art**. 1º Ficam declaradas de utilidade pública as seguintes áreas de terra situadas nos municípios de Ibiraci, Sacramento, Delfinópolis, Pratápolis, Cassia, Passos e São João Batista da Glória, todos do Estado de Minas Gerais, constantes das plantas aprovadas pelo Ministro da Agricultura necessárias as obras para o aproveitamento hidroelétrico no rio Grande, 24Km, a montante da foz rio Canoas, próximo ao lugar denominado Ponte dos Peixotos, de que trata o Decreto nº 31.132, de 11 de julho de 1953.
 
 1 - Área de trezentos e setenta e seis mil e novecentos (376.900) metros quadrados, de propriedade atribuída a Ravizio Martins da Silva.
 
@@ -466,7 +464,7 @@
 
 228 - Área de nove mil e quinhentos (9.500) metros quadrados, de propriedade atribuída a José Quintino Filho.
 
-229 - Área de setenta e três mil e trezentos (73.300) metros quadrados, de propriedade atribuída a Gladstone <em>Bartolozzi</em>.
+229 - Área de setenta e três mil e trezentos (73.300) metros quadrados, de propriedade atribuída a Gladstone *Bartolozzi*.
 
 230 - Área de trinta e dois mil e cem (32.100) metros quadrados, de propriedade atribuída a João de Melo Pádua.
 
@@ -484,16 +482,16 @@
 
 237 - Área de dois milhões e sessenta e cinco mil (2.065.000) metros quadrados, de propriedade atribuída a José Timóteo de Andrade.
 
-<strong>Art</strong>. 2º Fica autorizada a Companhia Paulista de Fôrça e Luz, Sociedade Anônima a promover a desapropriação das referidas áreas de terra, na forma da legislação vigente.
+**Art**. 2º Fica autorizada a Companhia Paulista de Fôrça e Luz, Sociedade Anônima a promover a desapropriação das referidas áreas de terra, na forma da legislação vigente.
 
-<strong>Art</strong>. 3º A presente desapropriação é declarada de caráter urgente para os efeitos do art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pelos de nº 4.152, e 9.811 respectivamente de 6 de março de 1942 e 9 de setembro de 1946.
+**Art**. 3º A presente desapropriação é declarada de caráter urgente para os efeitos do art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pelos de nº 4.152, e 9.811 respectivamente de 6 de março de 1942 e 9 de setembro de 1946.
 
-<strong>Art</strong>. 4º O presente Decreto entrará em vigor na data de sua publicação.
+**Art**. 4º O presente Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 5º Revogam-se as disposições em contrário.
+**Art**. 5º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 23 de abril de 1955; 134º da Independência e 67º da República.
 
-<strong>CARLOS COIMBRA DA LUZ</strong>
+**CARLOS COIMBRA DA LUZ**
 
 Costa Porto

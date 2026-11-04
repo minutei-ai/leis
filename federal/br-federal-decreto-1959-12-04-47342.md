@@ -1,5 +1,3 @@
-###DEC-047342-0-000-04-12-1959@@@
-
 DECRETO Nº 47.342, DE 4 DE DEZEMBRO DE 1959.
 
 Prorroga, até 31 de dezembro de 1960, a vigência dos Decretos ns. 45.217, de 14 de janeiro de 1959 e 45.260, de 16 de janeiro de 1959.

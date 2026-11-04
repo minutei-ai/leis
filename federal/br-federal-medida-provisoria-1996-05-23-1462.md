@@ -1,7 +1,3 @@
-1
-
-###MPV-001462-0-000-23-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.462, DE 23 DE MAIO DE 1996.
 
 Isenta do Imposto de Importação e do Imposto sobre Produtos Industrializados bens de informática adquiridos pelo Tribunal Superior Eleitoral.

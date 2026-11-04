@@ -1,7 +1,3 @@
-1
-
-###DEC-001304-0-000-09-11-1994@@@
-
 DECRETO N° 1.304, DE 9 DE NOVEMBRO DE 1994
 
 Aprova o regimento interno da Comissão Técnica da Moeda e do Crédito, que funcionará junto ao Conselho Monetário Nacional.

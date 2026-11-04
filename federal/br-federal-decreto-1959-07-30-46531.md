@@ -1,5 +1,3 @@
-###DEC-046531-0-000-30-07-1959@@@
-
 DECRETO Nº 46.531, DE 30 DE JULHO DE 1959.
 
 Autoriza a Rêde Ferroviária Federal S.A., a criar uma subsidiária destinada a construir e operar um sistema nacional de armazéns gerais, frigoríficos e silos.

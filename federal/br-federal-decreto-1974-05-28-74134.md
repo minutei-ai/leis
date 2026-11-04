@@ -1,5 +1,3 @@
-###DEC-074134-0-000-28-05-1974@@@
-
 DECRETO Nº 74.134, DE 28 DE MAIO DE 1974.
 
 Renova por 10 (dez) anos, a concessão outorgada ao Estado de Minas Gerais - Rádio Inconfidência, para que a Fundação Pandiá Calógeras - Universidade Mineira de Rádio e TV Educativos passe a executar serviço de radiodifusão sonora em onda média de âmbito nacional, na Cidade de Belo Horizonte, Estado de Minas Gerais.

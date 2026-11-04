@@ -1,5 +1,3 @@
-###DEC-056129-0-000-27-04-1965@@@
-
 Decreto nº 56.129, de 27 de abril de 1965.
 
 Aprova alteração introduzida nos Estatutos da Companhia Ceará de Seguros Gerais, relativa ao aumento de capital social.

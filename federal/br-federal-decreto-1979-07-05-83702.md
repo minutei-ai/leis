@@ -1,5 +1,3 @@
-###DEC-083702-0-000-05-07-1979@@@
-
 decreto nº 83.702, de 05 de julho de 1979.
 
 Altera o Regulamento de Promoções de Graduados do Exército, aprovado pelo Decreto nº 77.920, de 28 de junho de 1976.

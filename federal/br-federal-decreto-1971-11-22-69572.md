@@ -1,5 +1,3 @@
-###DEC-069572-0-000-22-11-1971@@@
-
 DECRETO Nº 69.572 - DE 22 DE NOVEMBRO DE 1971
 
 Declara de utilidade pública, para fins de constituição de servidão, faixa de terra destinada a passagem de transmissão no Estado de Goiás.

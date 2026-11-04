@@ -1,5 +1,3 @@
-###DEC-068160-0-000-03-02-1971@@@
-
 DECRETO Nº 68.160, DE 3 DE FEVEREIRO DE 1971.
 
 Autoriza a contratação de operação externa com a Agência Norte-Americana para o Desenvolvimento Internacional e dá outras providências.

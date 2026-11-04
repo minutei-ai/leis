@@ -1,5 +1,3 @@
-###DEC-078130-0-000-29-07-1976@@@
-
 DECRETO Nº 78.130, DE 29 DE JULHO DE 1976.
 
 Concede reconhecimento ao curso de Ciências Biológicas da Universidade de São Carlos, com sede na cidade de São Carlos, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-006822-0-000-16-04-2009@@@
-
 DECRETO Nº 6.822, DE 16 DE ABRIL DE 2009.
 
 Distribui os efetivos de oficiais da Marinha em tempo de paz, para o ano de 2009, e fixa os percentuais mínimos dos cargos do Corpo de Intendentes da Marinha e do Corpo de Saúde da Marinha, que deverão ser ocupados exclusivamente por oficiais do sexo masculino.

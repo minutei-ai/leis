@@ -1,5 +1,3 @@
-###DEC-061373-0-000-18-09-1967@@@
-
 DECRETO Nº 61.373, DE 18 DE SETEMBRO DE 1967.
 
 Declara de utilidade pública o “Centro de Estatística Religiosa e Investigações Sociais”, com sede no estado da Guanabara.

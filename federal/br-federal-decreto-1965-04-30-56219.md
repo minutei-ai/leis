@@ -1,5 +1,3 @@
-###DEC-056219-0-000-30-04-1965@@@
-
 DECRETO Nº 56.219, DE 30 DE ABRIL DE 1965.
 
 Declara caduco o Decreto nº 29.646, de 7 de junho de 1951.

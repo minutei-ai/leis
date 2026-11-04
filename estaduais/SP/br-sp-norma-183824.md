@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183824)
-
 # DECRETO Nº 62.901, DE 30 DE OUTUBRO DE 2017
 
 ### _Autoriza a Fazenda do Estado a receber, mediante doação, sem quaisquer ônus ou encargos, da Fundação Municipal para Educação Comunitária - FUMEC de Campinas, o imóvel que especifica_
@@ -18,10 +16,16 @@ Palácio dos Bandeirantes, 30 de outubro de 2017
 
 GERALDO ALCKMIN
 
-José Renato Nalini<br>
-Secretário da Educação<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+José Renato Nalini
+
+Secretário da Educação
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 30 de outubro de 2017.

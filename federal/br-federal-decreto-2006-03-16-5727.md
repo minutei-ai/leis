@@ -1,5 +1,3 @@
-###DEC-005727-0-000-16-03-2006@@@
-
 DECRETO Nº 5.727, DE 16 DE MARÇO DE 2006.
 
 Aprova alterações no Regimento do Serviço Nacional de Aprendizagem Industrial - SENAI, de que trata o Decreto no 494, de 10 de janeiro de 1962.

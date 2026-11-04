@@ -1,5 +1,3 @@
-###DEC-046734-0-000-26-08-1959@@@
-
 DECRETO Nº 46.734, DE 26 DE AGÔSTO DE 1959.
 
 Autoriza a Emprêsa de Água Mineral Avaí Ltda. a lavrar água mineral no município de Itaperuna, Estado do Rio de Janeiro.

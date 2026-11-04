@@ -1,7 +1,3 @@
-1
-
-###MPV-000726-0-000-25-11-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 726, DE 25 DE NOVEMBRO DE 1994
 
 Autoriza o Poder Executivo a contratar com a Itaipu pagamento de débito junto ao Tesouro Nacional com títulos da dívida externa brasileira, denominados Brazil Investment Bond (BIB), em valor correspondente a até US$ 92.800,000.00 (noventa e dois milhões e oitocentos mil dólares dos Estados Unidos da América).

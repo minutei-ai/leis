@@ -1,5 +1,3 @@
-###DEC-046671-0-000-17-08-1959@@@
-
 DECRETO Nº 46.671, DE 17 DE AGÔSTO DE 1959.
 
 Autoriza a Sociedade Mineração Comercial Limitada - SOMICOL a pesquisar minério de manganês no município de Maraú, Estado da Bahia.

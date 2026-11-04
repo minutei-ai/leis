@@ -1,5 +1,3 @@
-###DEL-000141-0-000-02-02-1967@@@
-
 DECRETO-LEI Nº 141, DE 2 DE FEVEREIRO DE 1967
 
 Dispõe sôbre liquidação dos direitos e obrigações das autarquias extintas.

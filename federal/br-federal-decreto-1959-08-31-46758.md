@@ -1,5 +1,3 @@
-###DEC-046758-0-000-31-08-1959@@@
-
 DECRETO Nº 46.758, DE 31 DE AGÔSTO DE 1959.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura e dá outras providências.

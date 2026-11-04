@@ -1,5 +1,3 @@
-###DEC-004024-0-000-21-11-2001@@@
-
 DECRETO Nº 4.024, DE 21 DE NOVEMBRO DE 2001.
 
 Estabelece critérios e procedimentos para implantação ou financiamento de obras de infra-estrutura hídrica com recursos financeiros da União e dá outras providências.

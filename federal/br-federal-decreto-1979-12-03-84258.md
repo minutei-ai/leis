@@ -1,5 +1,3 @@
-###DEC-084258-0-000-03-12-1979@@@
-
 Decreto nº 84.258, de 03 de dezembro de 1979.
 
 Dispõe sobre a concessão de Prêmios de Pesquisas Estudantil.

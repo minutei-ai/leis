@@ -28,4 +28,18 @@ TABELA DE VENCIMENTOS DOS CARGOS DE ESCRIVÃO, SUB-
 
 ESCRIVÃO E AVALIADOR JUDICIAL DA COMARCA DA CAPITAL.
 
-<table style="width: 276.4pt; margin-left: 63.8pt; border-collapse: collapse; border: none; mso-border-alt: solid black .75pt; mso-padding-alt: 0in 5.4pt 0in 5.4pt;" width="369" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 180.6pt; border: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="241"><p class="Tabela-Texto"><span>CARGOS</span></p></td><td style="width: 95.8pt; border: solid black .75pt; border-left: none; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="128"><p class="Tabela-Texto"><span>VENCIMENTOS</span></p></td></tr><tr><td style="width: 180.6pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="241"><p class="Tabela-Texto"><span>ESCRIVÃO</span></p></td><td style="width: 95.8pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="128"><p class="Tabela-Texto"><span>4.968,00</span></p></td></tr><tr><td style="width: 180.6pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="241"><p class="Tabela-Texto"><span>SUB-ESCRIVÃO</span></p></td><td style="width: 95.8pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="128"><p class="Tabela-Texto"><span>2.484,00</span></p></td></tr><tr><td style="width: 180.6pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="241"><p class="Tabela-Texto"><span>AVALIADOR JUDICIAL</span></p></td><td style="width: 95.8pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="128"><p class="Tabela-Texto"><span>4.968,00</span></p></td></tr></tbody></table>
+CARGOS
+
+VENCIMENTOS
+
+ESCRIVÃO
+
+4.968,00
+
+SUB-ESCRIVÃO
+
+2.484,00
+
+AVALIADOR JUDICIAL
+
+4.968,00

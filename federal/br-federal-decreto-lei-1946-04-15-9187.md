@@ -1,5 +1,3 @@
-###DEL-009187-0-000-15-04-1946@@@
-
 DECRETO-LEI N. 9.187 – DE 15 DE ABRIL DE 1946
 
 Altera o Decreto-lei nº 9.116, de 1 de Abril de 1946.

@@ -1,5 +1,3 @@
-###DEC-058201-0-000-15-04-1966@@@
-
 Decreto Nº 58.201, de 15 de Abril de 1966.
 
 Autoriza estrangeiros a adquirirem, em transferência de aforamento, o dominío útil do terreno de marinha que menciona, no Estado do Rio de Janeiro.

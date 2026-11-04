@@ -1,5 +1,3 @@
-###DEC-003703-0-000-27-12-2000@@@
-
 DECRETO Nº 3.703, DE 27 DE DEZEMBRO DE 2000.
 
 Inclui parágrafo único ao art. 1º do Decreto nº 3.605, de 20 de setembro de 2000, que qualifica como Organização Social a Associação Instituto Nacional de Matemática Pura e Aplicada - IMPA.

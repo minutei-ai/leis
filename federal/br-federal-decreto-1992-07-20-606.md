@@ -1,5 +1,3 @@
-###DEC-000606-0-000-20-07-1992@@@
-
 DECRETO Nº 606, DE 20 DE JULHO DE 1992
 
 Regulamenta a Lei nº 8.020, de 12 de abril de 1990, que dispõe sobre as relações entre as entidades fechadas de previdência privada e suas patrocinadoras, no âmbito da Administração Pública Federal.

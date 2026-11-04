@@ -1,5 +1,3 @@
-###DEC-096060-0-000-20-05-1988@@@
-
 DECRETO N.° 96.060, DE 20 DE MAIO DE 1988
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais originariamente denominados Fazendas “MACACO”, “PIRIÁ”, “ARIRAIMA”, “SANTA MARIA”, e “GURUPI-MIRIM”, também conhecidos como “GLEBA CIDAPAR”, situados no Município de Viseu, Estado do Pará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.623, de 2 de maio de 1986, e dá outras providências.

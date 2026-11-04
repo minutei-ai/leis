@@ -1,5 +1,3 @@
-###DEC-046932-0-000-30-09-1959@@@
-
 DECRETA Nº 46.932, DE 30 DE SETEMBRO DE 1959.
 
 Autoriza estrangeiros a adquirir, em transferência de aforamento, fração ideal do domínio útil do terreno de marinha que menciona, no Distrito Federal.

@@ -1,5 +1,3 @@
-###DEC-088025-0-000-06-01-1983@@@
-
 DECRETO Nº 88.025, DE 06 DE JANEIRO DE 1983
 
 Dá nova redação ao inciso XVI, do artigo 1º do Decreto nº 83.323, de 11 de abril de 1979, alterado pelo Decreto nº 83.855, de 15 de agosto de 1979, e pelo Decreto nº 85.776, de 26 de fevereiro de 1981, e dá outras providências.

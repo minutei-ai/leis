@@ -1,5 +1,3 @@
-###DEC-090004-0-000-26-07-1984@@@
-
 Decreto nº 90.004, de 26 de julho de 1984
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado ''São Salvador'', situado no Municipio de Jaru, no estado de Rondônia, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 67.557, de 12 de novembro de 1970, alterado pelos Decretos nºs 75.295, de 27 de janeiro de 1975 e 85.075, de 27 de agosto de 1980.

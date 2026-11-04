@@ -1,5 +1,3 @@
-###DEC-068217-0-000-11-02-1971@@@
-
 DECRETO nº 68.217, de 11 de Fevereiro de 1971.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra Sêcas, área de terreno necessária à construção do açude público "Mendobim", no Município de Açu, Estado do Rio Grande do Norte.

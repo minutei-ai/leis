@@ -1,5 +1,3 @@
-###DEC-083519-0-000-29-05-1979@@@
-
 DECRETO Nº 83.519, DE 29 DE MAIO DE 1979.
 
 Concede reconhecimento ao curso de Tecnólogo de Produção de Açúcar e Álcool da Universidade de Metodista, de Piracicaba, São Paulo.

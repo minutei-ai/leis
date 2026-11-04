@@ -1,5 +1,3 @@
-###DEC-051236-0-000-22-08-1961@@@
-
 decreto nº 51.326,de 22 de agôsto de 1961.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Itápolis, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-087596-0-000-21-09-1982@@@
-
 Decreto nº 87.596, de 21 de setembro de 1982
 
 Dispõe sobre a classificação de órgão de deliberação coletiva na área do Ministério da Educação e Cultura.

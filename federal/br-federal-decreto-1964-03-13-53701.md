@@ -1,5 +1,3 @@
-###DEC-053701-0-000-13-03-1964@@@
-
 DECRETO Nº 53.701, DE 13 DE MARÇO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação em favor da Petróleo Brasileiro S A - PETROBRÁS, em caráter de urgência, as ações da companhias permissionárias do refino de petróleo.

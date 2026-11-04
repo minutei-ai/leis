@@ -1,5 +1,3 @@
-###DEL-006498-0-000-13-05-1944@@@
-
 DECRETO-LEI N. 6.498 – DE 13 DE MAIO DE 1944
 
 Cria a 2ª Companhia Rodoviária Independente

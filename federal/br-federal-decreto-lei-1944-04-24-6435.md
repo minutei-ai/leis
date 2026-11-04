@@ -1,5 +1,3 @@
-###DEL-006435-0-000-24-04-1944@@@
-
 DECRETO-LEI N. 6.435 – DE 24 DE ABRIL DE 1944
 
 Dispõe sôbre a aposentadoria do pessoal extranumerário da Prefeitura do Distrito Federal, e dá outras providências
@@ -76,11 +74,11 @@ Coeficientes de cálculo do Provento da Aposentadoria
 
 (Por Cr$ 100,00 de salário e por ano de serviço)
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADSCAYAAACLv6oIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGElEQVR4nGNgYGD4zzBKjBKjxCgBISAAANe3zzGDXSWwAAAAAElFTkSuQmCC)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADSCAYAAACLv6oIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGElEQVR4nGNgYGD4zzBKjBKjxCgBISAAANe3zzGDXSWwAAAAAElFTkSuQmCC)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaIAAAABCAYAAACc9KqbAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGklEQVR4nGNgYGD4P4pH8SgexaN4FA8ABgMAYruecA1rTLcAAAAASUVORK5CYII=)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADSCAYAAACLv6oIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGElEQVR4nGNgYGD4zzBKjBKjxCgBISAAANe3zzGDXSWwAAAAAElFTkSuQmCC) 
+![](../assets/md-inline/e27969c7e77ff88865a33b31d1a8d624e3d5d52e688e439240a5d95e5d361a26.png)![](../assets/md-inline/e27969c7e77ff88865a33b31d1a8d624e3d5d52e688e439240a5d95e5d361a26.png)![](../assets/md-inline/0919397e66dbf985dc92928a44c534051df277059fdda20245e547f89b29edeb.png)![](../assets/md-inline/e27969c7e77ff88865a33b31d1a8d624e3d5d52e688e439240a5d95e5d361a26.png) 
 
         Idade     Coeficiente       Idade         Coeficiente 
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaIAAAABCAYAAACc9KqbAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGklEQVR4nGNgYGD4P4pH8SgexaN4FA8ABgMAYruecA1rTLcAAAAASUVORK5CYII=) 
+![](../assets/md-inline/0919397e66dbf985dc92928a44c534051df277059fdda20245e547f89b29edeb.png) 
 
         16               6,28                46                 2,58
 
@@ -90,9 +88,9 @@ Coeficientes de cálculo do Provento da Aposentadoria
 
  ...... 19............   5,74.............. .50..........       2,34
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADSCAYAAACLv6oIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGElEQVR4nGNgYGD4zzBKjBKjxCgBISAAANe3zzGDXSWwAAAAAElFTkSuQmCC)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADSCAYAAACLv6oIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGElEQVR4nGNgYGD4zzBKjBKjxCgBISAAANe3zzGDXSWwAAAAAElFTkSuQmCC)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADSCAYAAACLv6oIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGElEQVR4nGNgYGD4zzBKjBKjxCgBISAAANe3zzGDXSWwAAAAAElFTkSuQmCC)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaIAAAABCAYAAACc9KqbAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGklEQVR4nGNgYGD4P4pH8SgexaN4FA8ABgMAYruecA1rTLcAAAAASUVORK5CYII=) 
+![](../assets/md-inline/e27969c7e77ff88865a33b31d1a8d624e3d5d52e688e439240a5d95e5d361a26.png)![](../assets/md-inline/e27969c7e77ff88865a33b31d1a8d624e3d5d52e688e439240a5d95e5d361a26.png)![](../assets/md-inline/e27969c7e77ff88865a33b31d1a8d624e3d5d52e688e439240a5d95e5d361a26.png)![](../assets/md-inline/0919397e66dbf985dc92928a44c534051df277059fdda20245e547f89b29edeb.png) 
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaIAAAABCAYAAACc9KqbAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGklEQVR4nGNgYGD4P4pH8SgexaN4FA8ABgMAYruecA1rTLcAAAAASUVORK5CYII=)                 Idade      Coeficiente        Idade       Coeficiente
+![](../assets/md-inline/0919397e66dbf985dc92928a44c534051df277059fdda20245e547f89b29edeb.png)                 Idade      Coeficiente        Idade       Coeficiente
 
                    20               5,56                50              2,34
 
@@ -102,7 +100,7 @@ Coeficientes de cálculo do Provento da Aposentadoria
 
                    23               5,04                53              2,18
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADSCAYAAACLv6oIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGElEQVR4nGNgYGD4zzBKjBKjxCgBISAAANe3zzGDXSWwAAAAAElFTkSuQmCC)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADSCAYAAACLv6oIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGElEQVR4nGNgYGD4zzBKjBKjxCgBISAAANe3zzGDXSWwAAAAAElFTkSuQmCC)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADSCAYAAACLv6oIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGElEQVR4nGNgYGD4zzBKjBKjxCgBISAAANe3zzGDXSWwAAAAAElFTkSuQmCC)                   24               4,89                54              2,12
+![](../assets/md-inline/e27969c7e77ff88865a33b31d1a8d624e3d5d52e688e439240a5d95e5d361a26.png)![](../assets/md-inline/e27969c7e77ff88865a33b31d1a8d624e3d5d52e688e439240a5d95e5d361a26.png)![](../assets/md-inline/e27969c7e77ff88865a33b31d1a8d624e3d5d52e688e439240a5d95e5d361a26.png)                   24               4,89                54              2,12
 
                    25               4,73                55              2,07
 
@@ -116,9 +114,9 @@ Coeficientes de cálculo do Provento da Aposentadoria
 
                    30               4,05                60              1,82
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADSCAYAAACLv6oIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGElEQVR4nGNgYGD4zzBKjBKjxCgBISAAANe3zzGDXSWwAAAAAElFTkSuQmCC)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADSCAYAAACLv6oIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGElEQVR4nGNgYGD4zzBKjBKjxCgBISAAANe3zzGDXSWwAAAAAElFTkSuQmCC)                   31               3,93                61              1,77
+![](../assets/md-inline/e27969c7e77ff88865a33b31d1a8d624e3d5d52e688e439240a5d95e5d361a26.png)![](../assets/md-inline/e27969c7e77ff88865a33b31d1a8d624e3d5d52e688e439240a5d95e5d361a26.png)                   31               3,93                61              1,77
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADSCAYAAACLv6oIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGElEQVR4nGNgYGD4zzBKjBKjxCgBISAAANe3zzGDXSWwAAAAAElFTkSuQmCC)                   32               3,81                62              1,72
+![](../assets/md-inline/e27969c7e77ff88865a33b31d1a8d624e3d5d52e688e439240a5d95e5d361a26.png)                   32               3,81                62              1,72
 
                    33               3,70                63              1,67
 
@@ -130,7 +128,7 @@ Coeficientes de cálculo do Provento da Aposentadoria
 
                    37               3,29                67              1,57
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADSCAYAAACLv6oIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGElEQVR4nGNgYGD4zzBKjBKjxCgBISAAANe3zzGDXSWwAAAAAElFTkSuQmCC)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADSCAYAAACLv6oIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGElEQVR4nGNgYGD4zzBKjBKjxCgBISAAANe3zzGDXSWwAAAAAElFTkSuQmCC)![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAADSCAYAAACLv6oIAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGElEQVR4nGNgYGD4zzBKjBKjxCgBISAAANe3zzGDXSWwAAAAAElFTkSuQmCC)                   38               3,20                68              1,56
+![](../assets/md-inline/e27969c7e77ff88865a33b31d1a8d624e3d5d52e688e439240a5d95e5d361a26.png)![](../assets/md-inline/e27969c7e77ff88865a33b31d1a8d624e3d5d52e688e439240a5d95e5d361a26.png)![](../assets/md-inline/e27969c7e77ff88865a33b31d1a8d624e3d5d52e688e439240a5d95e5d361a26.png)                   38               3,20                68              1,56
 
 39                                  3,11
 
@@ -146,4 +144,4 @@ Coeficientes de cálculo do Provento da Aposentadoria
 
                    45               2,65             
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaIAAAABCAYAAACc9KqbAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGklEQVR4nGNgYGD4P4pH8SgexaN4FA8ABgMAYruecA1rTLcAAAAASUVORK5CYII=)
+![](../assets/md-inline/0919397e66dbf985dc92928a44c534051df277059fdda20245e547f89b29edeb.png)

@@ -1,5 +1,3 @@
-###DEC-062005-0-000-29-12-1967@@@
-
 DECRETO Nº 62.005, DE 29 DE DEZEMBRO DE 1967.
 
 Regulamenta o disposto no artigo 35 do Decreto-lei nº 43, de 18 de novembro de 1966.

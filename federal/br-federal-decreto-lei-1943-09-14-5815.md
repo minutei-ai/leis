@@ -1,5 +1,3 @@
-###DEL-005815-0-000-14-09-1943@@@
-
 DECRETO–LEI N. 5.815 – DE 14 DE SETEMBRO DE 1943
 
 Abre no Ministério da Educação e Saúde o crédito especial de Cr$ 28.800,00, para pagamento de proventos de disponibilidade

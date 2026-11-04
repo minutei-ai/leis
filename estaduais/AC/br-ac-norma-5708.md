@@ -1,6 +1,10 @@
 > **LEI Nº 4.156, DE 09 DE AGOSTO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Estabelece medidas protetivas e procedimentos de segurança para contrapor a violência contra os servidores da saúde.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Estabelece medidas protetivas e procedimentos de segurança para contrapor a violência contra os servidores da saúde.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

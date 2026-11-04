@@ -1,5 +1,3 @@
-###DEC-002528-0-000-24-03-1998@@@
-
 DECRETO Nº 2.528, DE 24 DE MARÇO DE 1998
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.149, de 14 de fevereiro de 1997.

@@ -1,5 +1,3 @@
-###DEC-096750-0-000-22-09-1988@@@
-
 DECRETO N° 96.750, DE 22 DE SETEMBRO DE 1988
 
 Outorga concessão a RÁDIO BRASÍLIA LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Brasília, Distrito Federal.

@@ -1,5 +1,3 @@
-###DEC-096713-0-000-19-09-1988@@@
-
 DECRETO N° 96.713, DE 19 DE SETEMBRO DE 1988
 
 Retifica o Decreto n° 96.590, de 25 de agosto de 1988.

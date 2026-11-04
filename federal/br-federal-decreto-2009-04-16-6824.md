@@ -1,5 +1,3 @@
-###DEC-006824-0-000-16-04-2009@@@
-
 DECRETO Nº 6.824, DE 16 DE ABRIL DE 2009.
 
 Altera o caput do art. 18 do Decreto no 5.209, de 17 de setembro de 2004, atualizando os valores referenciais para caracterização das situações de pobreza e extrema pobreza no âmbito do Programa Bolsa Família, previstos no art. 2o, §§ 2o e 3o, da Lei no 10.836, de 9 de janeiro de 2004.

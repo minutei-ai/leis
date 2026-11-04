@@ -1,5 +1,3 @@
-###DEC-069107-0-000-23-08-1971@@@
-
 DECRETO Nº 69.107, DE 23 DE AGôSTO DE 1971.
 
 Declara de utilidade pública o Ginásio São Vicente de Paulo, com sede em Bom Jesus da Lapa, Estado da Bahia.

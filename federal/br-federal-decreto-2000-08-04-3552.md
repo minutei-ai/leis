@@ -1,5 +1,3 @@
-###DEC-003552-0-000-04-08-2000@@@
-
 DECRETO Nº 3.552, DE 4 DE AGOSTO DE 2000.
 
 Dispõe sobre a adição de álcool etílico anidro combustível à gasolina.

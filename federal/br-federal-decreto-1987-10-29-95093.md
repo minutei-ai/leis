@@ -1,5 +1,3 @@
-###DEC-095093-0-000-29-10-1987@@@
-
 DECRETO Nº 95.093, DE 29 DE OUTUBRO DE 1987
 
 Reajusta o valor do Salário Mínimo de Referência.

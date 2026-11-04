@@ -1,6 +1,10 @@
 > **LEI Nº 3.395, DE 26 DE JULHO DE 2018**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a criação, o comércio e o transporte de abelhas sem ferrão (meliponídeas) no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a criação, o comércio e o transporte de abelhas sem ferrão (meliponídeas) no Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

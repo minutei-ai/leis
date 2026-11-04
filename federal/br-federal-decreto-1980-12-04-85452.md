@@ -1,5 +1,3 @@
-###DEC-085452-0-000-04-12-1980@@@
-
 decreto nº 85.452, de 04 de dezembro de 1980.
 
 Altera dispositivos do Regulamento para os Quadros Complementares de Oficiais da Marinha, aprovado pelo Decreto nº 74.467, de 28 de agosto de 1974.

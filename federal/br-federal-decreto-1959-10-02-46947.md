@@ -1,5 +1,3 @@
-###DEC-046947-0-000-02-10-1959@@@
-
 DECRETO Nº 46.947, DE 2 DE OUTUBRO DE 1959.
 
 Transfere da Emprêsa Dorense de Eletricidade para a “Centrais Elétricas de Minas Gerais S.A.,” a concessão para distribuir energia elétrica no município de Boa Esperança, Estado de Minas Gerais, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-089569-0-000-23-04-1984@@@
-
 Decreto nº 89.569, De 23 de Abril de 1984
 
 Altera os limites da Reserva Biológica do Córrego do Veado, criada pelo Decreto nº 87.590, de 20 de setembro de 1982.

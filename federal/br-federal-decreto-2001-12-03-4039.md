@@ -1,5 +1,3 @@
-###DEC-004039-0-000-03-12-2001@@@
-
 DECRETO Nº 4.039, DE 3 DE DEZEMBRO DE 2001.
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Instituto Nacional de Metrologia, Normalização e Qualidade Industrial - INMETRO, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-007856-0-000-13-08-1945@@@
-
 DECRETO-LEI N. 7.856 – DE 13 DE AGÔSTO DE 1945
 
 Altera carreiras, abre, sem aumento de despesa, crédito suplementar ao Ministério da Fazenda e dá outras providências.

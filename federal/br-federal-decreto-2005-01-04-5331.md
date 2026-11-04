@@ -1,5 +1,3 @@
-###DEC-005331-0-000-04-01-2005@@@
-
 DECRETO Nº 5.331 DE 4 DE JANEIRO DE 2005
 
 Regulamenta o parágrafo único do art. 52 da Lei nº 9.096, de 19 de setembro de 1995, e o art. 99 da Lei nº 9.504, de 30 de setembro de 1997, para os efeitos de compensação fiscal pela divulgação gratuita da propaganda partidária ou eleitoral.

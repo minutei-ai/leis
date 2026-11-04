@@ -1,5 +1,3 @@
-###DEC-058414-0-000-17-05-1966@@@
-
 Decreto nº 58.414, de 17 de maio de 1966.
 
 Autoriza a S.A. de Cimento Mineração e Cabotagem “CINIMAR” a lavrar caulim no município de Itapecerica da Serra, Estado de São Paulo.

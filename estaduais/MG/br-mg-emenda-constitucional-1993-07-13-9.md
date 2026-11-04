@@ -33,7 +33,3 @@ O 3º-Secretário - Bené Guedes
 O 4º-Secretário - Sebastião Helvécio
 
 O 5º-Secretário - Amílcar Padovani
-
-\================================================================
-
-Data da última atualização: 27/12/2010.

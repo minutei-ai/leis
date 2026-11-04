@@ -1,5 +1,3 @@
-###DEC-005565-0-000-24-10-2005@@@
-
 DECRETO Nº 5.565, DE 24 DE OUTUBRO DE 2005.
 
 Dispõe sobre a execução do Acordo de Alcance Parcial para a Concessão de Preferências Tarifárias para o Comércio de Arroz entre a República Federativa do Brasil e a República do Suriname, de 21 de abril de 2005.

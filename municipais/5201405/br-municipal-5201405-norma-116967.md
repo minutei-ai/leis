@@ -6,7 +6,7 @@ FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFE
 
 Art. 1º. Fica alterado no art. 2º da Lei Municipal nº 3.250 de 23 de dezembro de 2014, o quadro resumo de áreas, conforme a seguir:
 
-| **CLASSIFICAÇÃO DAS ÁREAS** | **DISTRIBUIÇÃO DAS ÁREAS** **VILA IZAURA** |
+| **CLASSIFICAÇÃO DAS ÁREAS** | **DISTRIBUIÇÃO DAS ÁREASVILA IZAURA** |
 | --- | --- |
 | DISCRIMINAÇÃO | Área (m²) | Quantitativo | Percentual % |
 | Área total do imóvel | 71.098,08 | \- | \- |
@@ -21,8 +21,10 @@ Art. 2º - Esta lei entrará em vigor na data de sua publicação.
 
 GABINETE DO PREFEITO DO MUNICÍPIO DE APARECIDA DE GOIÂNIA, Estado de Goiás, aos 05 dias do mês de fevereiro do ano 2015.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER DE MORAIS<br>
+EULER DE MORAIS
+
 Secretario Municipal de Governo e Integração Institucional

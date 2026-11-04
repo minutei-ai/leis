@@ -1,5 +1,3 @@
-###DEC-088584-0-000-02-08-1983@@@
-
 Decreto nº 88.584, de 02 de agosto de 1983
 
 Renova por 10 (dez)  anos, a concessão outorgada à RÁDIO GLOBO ELDORADO LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito nacional, na cidade de Rio de Janeiro, Estado do Rio de Janeiro.

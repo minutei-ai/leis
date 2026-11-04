@@ -1,5 +1,3 @@
-###DEC-059931-0-000-30-12-1966@@@
-
 DECRETO Nº 59.931, de 30 de dezembro de 1966.
 
 Autoriza a firma Xavier & Bueno Limitada a pesquisas calcário na município de Castro, Estado do Paraná.

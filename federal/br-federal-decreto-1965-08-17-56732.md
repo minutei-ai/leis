@@ -1,5 +1,3 @@
-###DEC-056732-0-000-17-08-1965@@@
-
 DECRETO Nº 56.732, DE 17 DE AGÔSTO DE 1965.
 
 Transformação de função gratificada para cargo de provimento em comissão.

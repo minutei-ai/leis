@@ -1,5 +1,3 @@
-###DEC-002373-0-000-10-11-1997@@@
-
 DECRETO Nº 2.373, DE 10 DE NOVEMBRO DE 1997
 
 Estabelece limites para o provimento de cargos públicos efetivos no âmbito dos órgãos e entidades do Poder Executivo, e dá outras providências.

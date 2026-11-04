@@ -1,7 +1,3 @@
-1
-
-###DEC-098210-0-000-27-09-1989@@@
-
 DECRETO N° 98.210, DE 27 DE SETEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “ARANHA”, também conhecido por “FAZENDA DO ARANHA e LAGEADO do ARANHA”, situado no Município de Campos Novos, Estado de Santa Catarina, e dá outras providências.

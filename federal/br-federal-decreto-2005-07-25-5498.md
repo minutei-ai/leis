@@ -1,5 +1,3 @@
-###DEC-005498-0-000-25-07-2005@@@
-
 DECRETO Nº 5.498, DE 25 DE JULHO DE 2005.
 
        Acresce parágrafo ao art. 54 do Anexo I ao Decreto no 5.032, de 5 de abril de 2004, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério das Relações Exteriores.
@@ -19,5 +17,3 @@ O PRESIDENTE DA REPÚBLICA no uso das atribuições que lhe confere o art. 84, i
 LUIZ INÁCIO LULA DA SILVA
 
 Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 26.7.2005

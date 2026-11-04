@@ -1,5 +1,3 @@
-###DEC-074850-0-000-08-11-1974@@@
-
 DECRETO Nº 74.850, DE 8 DE NOVEMBRO DE 1974.
 
 Concede novo prazo para utilização de imóvel situado no Território Federal do Amapá e dá outras providências.

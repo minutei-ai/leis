@@ -1,5 +1,3 @@
-###DEC-085588-0-000-30-12-1980@@@
-
 Decreto nº 85.588, de 30 de dezembro de 1980
 
 Autoriza o aumento de potência da SOCIEDADE DE PEDRITENSE DE RÁDIO LTDA., na cidade de Dom Pedrito, Estado do Rio Grande do Sul.

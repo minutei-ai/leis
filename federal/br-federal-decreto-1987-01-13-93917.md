@@ -1,5 +1,3 @@
-###DEC-093917-0-000-13-01-1987@@@
-
 DECRETO Nº 93.917, DE 13 DE JANEIRO DE 1987
 
 Declara de utilidade pública para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S/A - PETROBRÁS, os imóveis constituídos de terras e benfeitorias, de propriedade particular, situados nos Municípios de Jaboatão e Igarassu, no Estado de Pernambuco, necessários à construção de acessos às áreas das Estações Redutoras de pressão do Gasoduto do Nordeste, naquela região.

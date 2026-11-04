@@ -1,10 +1,10 @@
-<strong>EMENDA CONSTITUCIONAL N° 10</strong>
+**EMENDA CONSTITUCIONAL N° 10**
 
-<em><strong>Altera os arts. 71 e 72 do Ato das Disposições Constitucionais Transitórias, introduzidos pela Emenda Constitucional de Revisão n° 1, de 1994.</strong></em>
+***Altera os arts. 71 e 72 do Ato das Disposições Constitucionais Transitórias, introduzidos pela Emenda Constitucional de Revisão n° 1, de 1994.***
 
 As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3° do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-<strong>Art.</strong> 1° O art. 71 do Ato das Disposições Constitucionais Transitórias passa a vigorar com a seguinte redação:
+**Art.** 1° O art. 71 do Ato das Disposições Constitucionais Transitórias passa a vigorar com a seguinte redação:
 
 “Art. 71. Fica instituído, nos exercícios financeiros de 1994 e 1995, bem assim no período de 1º de janeiro de 1996 a 30 de junho de 1997, o Fundo Social de Emergência, com o objetivo de saneamento financeiro da Fazenda Pública Federal e de estabilização econômica, cujos recursos serão aplicados prioritariamente no custeio das ações dos sistemas de saúde e educação, benefícios previdenciários e auxílios assistenciais de prestação continuada, inclusive liquidação de passivo previdenciário, e despesas orçamentária associadas a programas de relevante interesse econômico e social.
 
@@ -14,7 +14,7 @@ As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3° do a
 
 § 3° O Poder Executivo publicará demonstrativo da execução orçamentária, de periodicidade bimestral, no qual se discriminarão as fontes e usos do Fundo criado por este artigo."
 
-<strong>Art.</strong> 2° O art. 72 do Ato das Disposições Constitucionais Transitórias passa a vigorar com a seguinte redação:
+**Art.** 2° O art. 72 do Ato das Disposições Constitucionais Transitórias passa a vigorar com a seguinte redação:
 
 "Art. 72. Integram o Fundo Social de Emergência:
 
@@ -40,11 +40,11 @@ VI - ...........................................................................
 
 § 5° A parcela dos recursos provenientes do imposto sobre renda e proventos de qualquer natureza, destinada ao Fundo Social de Emergência, nos termos do incisos II deste artigo, não poderá exceder a cinco inteiros e seis décimos por cento do total do produto da sua arrecadação."
 
-<strong>Art.</strong> 3° Esta Emenda Constitucional entra em vigor na data de sua publicação.
+**Art.** 3° Esta Emenda Constitucional entra em vigor na data de sua publicação.
 
 Brasília, 4 de março de 1996.
 
-<strong>MESA DA CÂMARA DOS DEPUTADOS</strong> <strong>MESA DO SENADO FEDERAL</strong>
+**MESA DA CÂMARA DOS DEPUTADOS** **MESA DO SENADO FEDERAL**
 
 Deputado LUÍS EDUARDO   Senador JOSÉ SARNEY
 

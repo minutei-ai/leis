@@ -1,5 +1,3 @@
-###DEC-049275-0-000-17-11-1960@@@
-
 decreto nº 49.275, de 17 de novembro de 1960.
 
 Transfere, sem aumento de despesa, função de Tabela Numérica Especial, de Extranumerário-Mensalista de repartições do Ministério da Agricultura, na forma que Menciona.

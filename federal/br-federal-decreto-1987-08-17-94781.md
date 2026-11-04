@@ -1,5 +1,3 @@
-###DEC-094781-0-000-17-08-1987@@@
-
 DECRETO N° 94.781, DE 17 DE AGOSTO DE 1987
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados do Centro de Ensino Superior de Juiz de Fora.

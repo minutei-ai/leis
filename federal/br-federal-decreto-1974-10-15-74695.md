@@ -1,5 +1,3 @@
-###DEC-074695-0-000-15-10-1974@@@
-
 decreto nº 74.695, de 15 de outubro de 1974.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel, em Coxim - MT, destinado ao Ministério do Exército.

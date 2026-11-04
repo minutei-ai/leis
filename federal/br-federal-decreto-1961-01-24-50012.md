@@ -1,5 +1,3 @@
-###DEC-050012-0-000-24-01-1961@@@
-
 DECRETO Nº 50.012, DE 24 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro Ernesto Malaquias Tavares a pesquisar mica, no município de Mendes Pimentel, Estado de Minas Gerais.

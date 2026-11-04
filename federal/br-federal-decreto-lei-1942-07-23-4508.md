@@ -1,5 +1,3 @@
-###DEL-004508-0-000-23-07-1942@@@
-
 DECRETO-LEI N. 4.508 – DE 23 DE JUlHO DE 1942
 
 Dispõe sobre financiamento de construções de conjuntos residenciais operários, pelo Instituto de Aposentadoria e Pensões dos Industriarios

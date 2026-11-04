@@ -1,5 +1,3 @@
-###DEL-007996-0-000-24-09-1945@@@
-
 DECRETO-LEI N. 7.996 – DE 24 DE SETEMBRO DE 1945
 
 Altera o art. 5º do Decreto-lei número 8.919, de 3 de outubro de 1944, que dispõe sôbre o pessoal do Instituto Nacional do Sal

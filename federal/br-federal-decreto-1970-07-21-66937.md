@@ -1,5 +1,3 @@
-###DEC-066937-0-000-21-07-1970@@@
-
 DECRETO Nº 66.937, DE 21 DE JULHO DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - da Superintendência do Desenvolvimento da Pesca cargo do Quadro de Pessoal - Parte Permanente - do Ministério da Agricultura, e dá outras providências.

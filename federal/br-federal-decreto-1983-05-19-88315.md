@@ -1,5 +1,3 @@
-###DEC-088315-0-000-19-05-1983@@@
-
 # decreto nº 88.315 de 19 de maio de 1983
 
 Autoriza o aumento do Capital Social da Companhia Siderúrgica da Amazônia - SIDERAMA.

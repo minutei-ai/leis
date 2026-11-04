@@ -1,5 +1,3 @@
-###DEC-067345-0-000-05-10-1970@@@
-
 DECRETO Nº 67.345, DE 5 DE OUTUBRO DE 1970.
 
 Declara de utilidade pública a Fundação Bela Lopes de Oliveira, com sede no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-071305-0-000-01-11-1972@@@
-
 DECRETO Nº 71.305, DE 1º DE NOVEMBRO DE 1972.
 
 Autoriza o funcionamento do Instituto Superior de Mococa, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-081149-0-000-02-01-1978@@@
-
 Decreto nº 81 149, de 02 de janeiro de 1978.
 
 Concede à INEL - Industrial Extrativa Ltda. O direito de lavrar silex e argila nos Municípios de Gravatal e Braço do Norte, Estado de Santa Catarina.

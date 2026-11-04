@@ -1,7 +1,3 @@
-1
-
-###MPV-000730-0-000-25-11-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 730, DE 25 DE NOVEMBRO DE 1994
 
 Altera o artigo 60 da Lei nº 8.694, de 12 de agosto de 1993, que dispõe sobre as diretrizes para a elaboração e execução da lei orçamentária anual de 1994 e dá outras providências.

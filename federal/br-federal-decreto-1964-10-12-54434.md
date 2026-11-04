@@ -1,5 +1,3 @@
-###DEC-054434-0-000-12-10-1964@@@
-
 DECRETO Nº 54.434, DE 12 DE OUTUBRO DE 1964.
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$2.000.000.000,00 (dois bilhões de cruzeiros) para atender as despesas que especifica.

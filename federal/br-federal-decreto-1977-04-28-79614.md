@@ -1,5 +1,3 @@
-###DEC-079614-0-000-28-04-1977@@@
-
 DECRETO Nº 79.614, DE 28 DE ABRIL DE 1977.
 
 Concede à Companhia de Indústrias Gerais, Obras e Terras - INDUBRÁS o direito de lavrar calcário dolomítico no Município de Bagé, Estado do Rio Grande do Sul.

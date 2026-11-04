@@ -1,5 +1,3 @@
-###DEL-005409-0-000-14-04-1943@@@
-
 DECRETO-LEI N. 5.409 – DE 14 DE ABRIL DE 1943
 
 Cria, no local denominado São Vicente, município de Cuiabá, Estado de Mato Grosso, um Aprendizado Agrícola, subordinado à Superintendência do En­sino Agrícola e Veterinário do Ministério da Agricultura

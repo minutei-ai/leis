@@ -1,5 +1,3 @@
-###DEC-085613-0-000-05-01-1981@@@
-
 Decreto nº 85.613, de 05 de janeiro 1981
 
 Autoriza o aumento de potência de RAIODIFUSORA CARDEAL ARCOVERDE LTDA., na cidade Arcoverde, Estado de Pernambuco.

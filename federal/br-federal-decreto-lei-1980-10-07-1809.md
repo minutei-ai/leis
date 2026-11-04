@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/409975b9-26da-43b5-851e-6709cd44dfa3/texto#nowhere)
 
-###DEL-001809-0-000-07-10-1980@@@
-
 # Decreto-lei nº 1.809, de 7 de outubro de 1980.
 
 Institui o Sistema de Proteção ao Programa Nuclear Brasileiro, e dá outras providências.

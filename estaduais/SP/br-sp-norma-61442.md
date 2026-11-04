@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=61442)
-
 # LEI Nº 12.282, DE 22 DE FEVEREIRO DE 2006
 
 ## (Projeto de lei nº 878/2003, do Deputado Eli Corrêa Filho - PFL)

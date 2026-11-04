@@ -1,5 +1,3 @@
-###DEC-054553-0-000-23-10-1964@@@
-
 DECRETO Nº 54.553, DE 23 DE OUTUBRO DE 1964.
 
 Declara de utilidade pública a Sociedade Civil Arnaldinum São José com sede em Belo Horizonte, Estado de Minas Gerais.

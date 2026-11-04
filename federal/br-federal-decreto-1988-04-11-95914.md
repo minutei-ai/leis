@@ -1,5 +1,3 @@
-###DEC-095914-0-000-11-04-1988@@@
-
 DECRETO N° 95.914, DE 11 DE ABRIL DE 1988
 
 Outorga concessão à RÁDIO MONTANHEZA DE VAZANTE LTDA. para explorar serviço de radiodifusão sonora em onda média, na cidade de Vazante, Estado de Minas Gerais.

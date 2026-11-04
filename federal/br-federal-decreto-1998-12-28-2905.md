@@ -1,5 +1,3 @@
-###DEC-002905-0-000-28-12-1998@@@
-
 DECRETO Nº 2.905, DE 28 DE DEZEMBRO DE 1998
 
 Altera o art. 1º do Decreto nº 2.661, de 8 de julho de 1998.

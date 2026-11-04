@@ -1,5 +1,3 @@
-###DEC-088571-0-000-02-08-1983@@@
-
 Decreto nº 88.571, de 02 de agosto de 1983
 
 Autoriza o funcionamento do curso de Ciências das Faculdades Integradas da Católica de Brasília.

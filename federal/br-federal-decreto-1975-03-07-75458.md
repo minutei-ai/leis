@@ -1,5 +1,3 @@
-###DEC-075458-0-000-07-03-1975@@@
-
 decreto nº 75.458, de 7 de março de 1975.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado na cidade do Rio de Janeiro.

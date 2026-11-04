@@ -1,5 +1,3 @@
-###DEC-006118-0-000-22-05-2007@@@
-
 DECRETO Nº 6.118, DE 22 DE MAIO DE 2007.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1.747, de 24 de março de 2007, do Conselho de Segurança das Nações Unidas (CSNU), a  qual aprofunda as sanções previstas na Resolução no 1.737 (2006) do CSNU - incorporada ao ordenamento jurídico interno pelo Decreto no 6.045, de 21 de fevereiro de 2007, e, entre outras disposições, conclama os Estados partes a absterem-se de novos compromissos no que se refere à concessão de doações, assistência financeira e empréstimos ao Irã; proíbe o fornecimento, venda ou transferência de armas pelo Irã ou seus nacionais; e exorta os Estados partes a restringirem o fornecimento, venda ou transferência àquele País de carros de combate, veículos blindados, sistemas de artilharia de grosso calibre, aviões de combate, helicópteros de ataque, navios de guerra e mísseis.
@@ -18,11 +16,7 @@ Brasília, 22 de maio de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Ruy Nunes Pinto Nogueira
-
-Este texto não substitui o publicado no DOU de 23.5.2007.
-
-ANEXO
+Ruy Nunes Pinto NogueiraANEXO
 
  Resolução no1747 (2007) do Conselho de Segurança das Nações Unidas
 

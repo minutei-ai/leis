@@ -1,5 +1,3 @@
-###DEL-009585-0-000-15-08-1946@@@
-
 DECRETO-LEI N. 9.585 - DE 15 DE AGÔSTO DE 1946
 
  Concede o título de Engenheiro Agrônomo aos diplomados por estabelecimentos de ensino               superior de Agronomia.

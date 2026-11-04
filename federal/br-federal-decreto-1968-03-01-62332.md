@@ -1,5 +1,3 @@
-###DEC-062332-0-000-01-03-1968@@@
-
 DECRETO Nº 62.332, DE 1º DE MARÇO DE 1968.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A., concessão para distribuir energia elétrica no município de Ouro Verde de Minas, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-088753-0-000-26-09-1983@@@
-
 Decreto nº 88.753, de 26 de setembro de 1983
 
 Outorga concessão à RÁDIO ANDRADAS LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Andradas, Estado de Minas Gerais.

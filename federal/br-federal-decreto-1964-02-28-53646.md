@@ -1,5 +1,3 @@
-###DEC-053646-0-000-28-02-1964@@@
-
 Decreto nº 53.646, de 28 de fevereiro de 1964.
 
 Fixa o preço básico mínimo para o financiamento ou aquisição de feijão produzido no Nordeste do País, do gênero “macaçar” ou “de corda”, para o ano agrícola de 1964.

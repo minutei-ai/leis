@@ -1,5 +1,3 @@
-###DEC-069218-0-000-17-09-1971@@@
-
 DECRETO Nº 69.218, DE 17 DE SETEMBRO DE 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem de linha de transmissão no Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-045670-0-000-31-03-1959@@@
-
 DECRETO Nº 45.670, DE 31 DE MARÇO DE 1959.
 
 Concede o abono provisório aos servidores do Serviço Social Rural.

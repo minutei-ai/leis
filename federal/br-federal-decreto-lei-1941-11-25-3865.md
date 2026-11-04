@@ -1,5 +1,3 @@
-###DEL-003865-0-000-25-11-1941@@@
-
 DECRETO-LEI N. 3.865 – DE 25 DE NOVEMBRO DE 1941
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito suplementar de 33:600$0 à verba que especifica

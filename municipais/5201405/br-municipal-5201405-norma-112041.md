@@ -1,4 +1,5 @@
-LEI COMPLEMENTAR N° 180, DE 21 DE DEZEMBRO DE 2020<br>
+LEI COMPLEMENTAR N° 180, DE 21 DE DEZEMBRO DE 2020
+
 (REVOGADA PELA LEI COMPLEMENTAR Nº 234, DE 22 DE AGOSTO DE 2024).
 
 ~~Altera o Art. 80 da Lei Complementar nº. 010/2005 que Dispõe sobre a adequação do Regime Próprio de Previdência Social de Aparecida de Goiânia à Emenda Constitucional nº 41/03 e dá outras providências.~~
@@ -25,5 +26,6 @@ LEI COMPLEMENTAR N° 180, DE 21 DE DEZEMBRO DE 2020<br>
 
  
 
-~~GUSTAVO MENDANHA<br>
+~~GUSTAVO MENDANHA
+
 Prefeito Municipal~~

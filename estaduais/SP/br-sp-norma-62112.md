@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62112)
-
 # LEI Nº 12.344, DE 24 DE ABRIL DE 2006
 
 ## (Projeto de lei nº 1000/2003, do Deputado Carlinhos Almeida - PT)

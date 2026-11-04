@@ -1,5 +1,3 @@
-###DEC-050589-0-000-13-05-1961@@@
-
 DECRETO Nº 50.589, DE 13 MAIO DE 1961.
 
 Altera os requisitos para admissão no Corpo de Policiamento Especial Feminino.

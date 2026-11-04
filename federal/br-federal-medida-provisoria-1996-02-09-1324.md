@@ -1,7 +1,3 @@
-1
-
-###MPV-001324-0-000-09-02-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.324, DE 9 DE FEVEREIRO DE 1996.
 
 Dispõe sobre a alocação, em depósitos especiais, remunerados, de recursos das disponibilidades financeiras do Fundo de Amparo ao Trabalhador - FAT.

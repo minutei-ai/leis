@@ -1,7 +1,3 @@
-1
-
-###MPV-001250-0-000-04-01-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.250, de 4 de JANEIRO DE 1996.
 
 Dispõe sobre medidas de fortalecimento do Sistema Financeiro Nacional e dá outras providências.

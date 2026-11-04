@@ -1,5 +1,3 @@
-###DEC-067164-0-000-11-09-1970@@@
-
 Decreto nº 67.164, de 11 de setembro de 1970.
 
 Declara sem efeito o Decreto número 41.916, de 29 de julho de 1957.

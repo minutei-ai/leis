@@ -1,7 +1,3 @@
-1
-
-###DEC-000831-0-000-03-06-1993@@@
-
 DECRETO N° 831, DE 3 DE JUNHO DE 1993
 
 Dispõe sobre a execução, no território nacional, da Resolução 820 (1993) do Conselho de Segurança das Nações Unidas.

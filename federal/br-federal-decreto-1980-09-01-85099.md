@@ -1,5 +1,3 @@
-###DEC-085099-0-000-01-09-1980@@@
-
 Decreto nº 85.099, de 1º de setembro de 1980.
 
 Autoriza o aumento da potência da RÁDIO RAINHA DO OESTE DE ALTÔNIA LTDA., na cidade de Altônia, Estado do Paraná.

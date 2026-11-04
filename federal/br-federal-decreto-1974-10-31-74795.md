@@ -1,5 +1,3 @@
-###DEC-074795-0-000-31-10-1974@@@
-
 DECRETO Nº 74.795, DE 31 DE OUTUBRO DE 1974.
 
 Torna sem efeito o aproveitamento de servidores no Quadro Único de Pessoal da Universidade Federal do Rio de Janeiro e dá outras providências.

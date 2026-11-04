@@ -1,5 +1,3 @@
-###DEC-076607-0-000-17-11-1975@@@
-
 DECRETO Nº 76.607, DE 17 DE NOVEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Administração das Faculdades Integradas Estácio de Sá, com sede na Cidade do Rio de Janeiro, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###MPV-001994-0-034-14-12-1999@@@
-
 Medida Provisória nº 1.994-34, de 14 de dezembro de 1999.
 
 Dispõe sobre a concessão de financiamento vinculado à exportação de bens ou serviços nacionais, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-047145-0-000-27-10-1959@@@
-
 DECRETO Nº 47.145, DE 27 DE OUTUBRO DE 1959.
 
 Autoriza Novas Indústrias Olinda S.A., a pesquisar fosforita no município de Paulista, Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-003916-0-000-13-09-2001@@@
-
 DECRETO Nº 3.916, DE 13 DE SETEMBRO DE 2001
 
  Institui a hora de verão, em parte do Território Nacional, no período que indica.

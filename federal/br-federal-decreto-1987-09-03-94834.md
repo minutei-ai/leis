@@ -1,5 +1,3 @@
-###DEC-094834-0-000-03-09-1987@@@
-
 DECRETO Nº 94.834, DE 3 DE SETEMBRO DE 1987.
 
 Outorga concessão à RBS TV SANTA CRUZ LTDA., para explorar serviço de radio difusão de sons e imagens (televisão), na cidade de Santa Cruz do Sul, Estado do Rio Grande do Sul.

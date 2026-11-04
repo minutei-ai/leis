@@ -1,5 +1,3 @@
-###DEC-052060-0-000-27-05-1963@@@
-
 DECRETO Nº 52.060, DE 27 DE MAIO DE 1963.
 
 Declara de utilidade pública a ”Federação dos Estudantes da Universidade do Rio Grande do Sul”, com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

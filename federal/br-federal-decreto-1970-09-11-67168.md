@@ -1,5 +1,3 @@
-###DEC-067168-0-000-11-09-1970@@@
-
 DECRETO Nº 67.168, DE 11 DE SETEMBRO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Agricultura cargos originários do extintos Lloyd Brasileiro - Patrimônio Nacional de Navegação Costeira.

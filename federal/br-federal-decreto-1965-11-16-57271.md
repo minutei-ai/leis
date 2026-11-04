@@ -1,5 +1,3 @@
-###DEC-057271-0-000-16-11-1965@@@
-
 DECRETO Nº 57.271, DE 16 DE NOVEMBRO DE 1965.
 
 Institui o sistema de incentivos à estabilização de preços e dá outras providências.
@@ -109,8 +107,6 @@ Octávio Gouveia de Bulhões
 Roberto Campos
 
 Daniel Faraco
-
-###DEC-057271-0-000-16-11-1965@@@RET01+++
 
 decreto nº 57.271, de 16 de novembro de 1965.
 

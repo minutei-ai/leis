@@ -1,5 +1,3 @@
-###DEC-072547-0-000-30-07-1973@@@
-
 decreto nº 72.547, de 30 de julho de 1973.
 
 Retifica o Decreto nº 64.126, de 19 de fevereiro de 1969, que aprovou o enquadramento do pessoal beneficiado pelo parágrafo único, do artigo 23, da Lei nº 4.069, de 11 de junho de 1962, do Ministério da Educação e Cultura, e dá outras providências.

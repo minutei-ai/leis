@@ -1,6 +1,4 @@
-###DEC-063261-0-000-20-09-1968@@@
-
-<strong>DECRETO Nº 63.261, DE 20 DE SETEMBRO DE 1968.</strong>
+**DECRETO Nº 63.261, DE 20 DE SETEMBRO DE 1968.**
 
 <!-- fac-simile-oficial:inicio -->
 

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/1dcbdcc8-dcee-4305-8d46-ff5c1af95337/texto#nowhere)
 
-###DEL-000735-0-000-05-08-1969@@@
-
 DECRETO-LEI Nº 735, DE 5 DE AGÔSTO DE 1969
 
 Aprova a reforma do ex-soldado Farid João Mussi, cujo registro foi negado pelo Tribunal de Contas da União.

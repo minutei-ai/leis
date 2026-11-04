@@ -1,5 +1,3 @@
-###DEC-059193-0-000-08-09-1966@@@
-
 DECRETO Nº 59.193, DE 8 DE SETEMBRO DE 1966.
 
 Dá nova redação ao Decreto nº 58.483, de 23 de maio de 1965, que dispõe sôbre os serviços das Agências de Viagens.

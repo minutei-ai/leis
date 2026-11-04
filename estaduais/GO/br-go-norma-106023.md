@@ -242,8 +242,6 @@ Art. 32. Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 31 de agosto de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

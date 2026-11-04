@@ -1,5 +1,3 @@
-###DEC-053143-0-000-10-12-1963@@@
-
 DECRETO Nº 53.143, DE 10 DE DEZEMBRO DE 1963.
 
 Concede à Sociedade Mineradora Escavamina Limitada a funcionar como emprêsa de  mineração.

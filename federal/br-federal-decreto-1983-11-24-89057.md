@@ -1,5 +1,3 @@
-###DEC-089057-0-000-24-11-1983@@@
-
 Decreto nº 89.057, de 24 de novembro de 1983
 
 Declara de utilidade pública as instituições que menciona.

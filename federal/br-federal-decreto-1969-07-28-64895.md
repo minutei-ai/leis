@@ -1,5 +1,3 @@
-###DEC-064895-0-000-28-07-1969@@@
-
 DECRETO Nº 64.895 - DE 28 DE JULHO DE 1969.
 
 Autoriza o funcionamento da Faculdade de Direito de Itu - SP.

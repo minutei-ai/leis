@@ -1,5 +1,3 @@
-###DEC-072420-0-000-02-07-1973@@@
-
 DECRETO Nº 72.420, DE 2 DE JULHO DE 1973.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural situado no município de Magé, Estado do Rio de Janeiro.

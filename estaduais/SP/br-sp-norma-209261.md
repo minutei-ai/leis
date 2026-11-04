@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209261)<br>
-
 # DECRETO N° 68.418, DE 02 DE ABRIL DE 2024
 
 ### _Reorganiza a Comissão Estadual do Zoneamento Ecológico-Econômico de São Paulo (CEZEE-SP), criada pelo Decreto n° 64.526, de 15 de outubro de 2019._

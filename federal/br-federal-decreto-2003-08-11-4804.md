@@ -1,5 +1,3 @@
-###DEC-004804-0-000-11-08-2003@@@
-
 DECRETO Nº 4.804,  DE 11 DE AGOSTO DE 2003.
 
 Altera o art. 2º do Decreto nº 4.686, de 29 de abril de 2003, que dispõe sobre o Conselho Nacional de Turismo.

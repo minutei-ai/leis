@@ -1,5 +1,3 @@
-###DEC-072444-0-000-10-07-1973@@@
-
 DECRETO Nº 72.444, DE 10 DE julho DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, imóvel situado em Alegrete, Estado do Rio de Grande do Sul, casa onde nasceu Oswaldo Euclides de Sousa Aranha.

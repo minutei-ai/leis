@@ -1,5 +1,3 @@
-###DEC-056670-0-000-06-08-1965@@@
-
 Decreto nº 56.670, de 6 de agÔsto de 1965.
 
 Autoriza a Dragagem de Ouro Ltda, a pesquisar ouro e diamantes, nos municípios  de Diamantina, Corinto e Gouveia, Estado de Minas Gerais.

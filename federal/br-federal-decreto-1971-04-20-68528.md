@@ -1,5 +1,3 @@
-###DEC-068528-0-000-20-04-1971@@@
-
 Decreto nº 68.528 - de 20 de abril de 1971.
 
 Autorização para funcionamento da Faculdade de Educação "Campos Salles", S.P.

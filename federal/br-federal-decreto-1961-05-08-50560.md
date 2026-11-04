@@ -1,5 +1,3 @@
-###DEC-050560-0-000-08-05-1961@@@
-
 DECRETO Nº 50.560, DE 8 DE MAIO DE 1961.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital de responsabilidade da “Royal Exchange Assurance”.

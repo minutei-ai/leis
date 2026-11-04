@@ -1,5 +1,3 @@
-###DEL-006428-0-000-17-04-1944@@@
-
 DECRETO-LEI N. 6.428 – DE 17 DE ABRIL DE 1944
 
 Incorpora ao Patrimônio da União a Estrada de Ferro Guaíra-Pôrto Mendes, explorada pela Companhia Mata Laranjeiras S. A., e dá outras providências

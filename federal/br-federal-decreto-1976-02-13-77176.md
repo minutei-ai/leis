@@ -1,5 +1,3 @@
-###DEC-077176-0-000-13-02-1976@@@
-
 DECRETO Nº 77.176, DE 13 DE FEVEREIRO DE 1976.
 
 Altera dispositivo do Decreto número 73.787, de 11 de março de 1974, que estabelece normas, condições de atendimento e indenizações para a assistência médico-hospitalar ao militar e seu dependentes.

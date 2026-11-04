@@ -1,5 +1,3 @@
-###DEL-008113-0-000-18-10-1945@@@
-
 DECRETO-LEI  N. 8.113  – DE 18 DE OUTUBRO DE 1945
 
 Abre ao Ministério das Relações Exteriores o crédito, suplementar de Cr$ 100.000.00, á verba que especifica

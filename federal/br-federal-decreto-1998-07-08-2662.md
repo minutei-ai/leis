@@ -1,5 +1,3 @@
-###DEC-002662-0-000-08-07-1998@@@
-
 DECRETO Nº 2.662, DE 8 DE JULHO DE 1998
 
 Dispõe sobre medidas a serem implementadas na Amazônia Legal, para monitoramento, prevenção, educação ambiental e combate a incêndios florestais.

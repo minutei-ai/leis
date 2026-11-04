@@ -1,5 +1,3 @@
-###DEC-000059-0-000-14-03-1991@@@
-
 DECRETO Nº 59, DE 14 DE MARCO DE 1991
 
 Promulga o Acordo sobre Cooperação Sanitária Fronteiriça entre o Governo da República Federativa do Brasil e o Governo da República da Venezuela.

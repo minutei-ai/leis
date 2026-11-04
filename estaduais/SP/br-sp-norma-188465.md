@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=188465)
-
 # DECRETO Nº 63.848, DE 26 DE NOVEMBRO DE 2018
 
 ### _Declara de utilidade pública para fins de desapropriação pela Concessionária RODOVIAS INTEGRADAS DO OESTE S.A.-SPVIAS, os imóveis necessários à execução das obras da Praça de Pedágio, km 128+900m da Rodovia Antônio Romano Schincariol, SP-127, Município e Comarca de Tatuí, no trecho que especifica e dá providências correlatas_

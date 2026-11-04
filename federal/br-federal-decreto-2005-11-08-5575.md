@@ -1,5 +1,3 @@
-###DEC-005575-0-000-08-11-2005@@@
-
 DECRETO Nº 5.575, DE 8 DE NOVEMBRO DE 2005.
 
      Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Bulgária sobre Isenção Parcial de Vistos, celebrado em Sófia, em 10 de abril de 2003.  
@@ -24,11 +22,7 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
 LUIZ INÁCIO LULA DA SILVA
 
-Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no DOU de 9.11.2005
-
-ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E
+Samuel Pinheiro Guimarães NetoACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E
 
 O GOVERNO DA REPÚBLICA DA BULGÁRIA
 

@@ -1,7 +1,3 @@
-1
-
-###DEL-001018-0-000-21-10-1969@@@
-
 Decreto-lei nº 1.018, de 21 de outubro de 1969
 
 Transfere cargo do Instituto Nacional de Desenvolvimento Agrário para o Ministério da Justiça.

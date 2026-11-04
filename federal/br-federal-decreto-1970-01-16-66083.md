@@ -1,5 +1,3 @@
-###DEC-066083-0-000-16-01-1970@@@
-
 Decreto nº 66.083 - de 16 de janeiro de 1970
 
 Autoriza o funcionamento de Faculdade.

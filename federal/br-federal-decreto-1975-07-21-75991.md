@@ -1,5 +1,3 @@
-###DEC-075991-0-000-21-07-1975@@@
-
 DECRETO Nº 75.991 - DE 21 DE JULHO DE 1975.
 
 Concede reconhecimento ao curso de Engenharia Civil da Escola de Engenharia de Volta Redonda, mantida pela Fundação Osvaldo Aranha, com sede na cidade de Volta Redonda, Estado do Rio de Janeiro.

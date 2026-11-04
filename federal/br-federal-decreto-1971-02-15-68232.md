@@ -1,5 +1,3 @@
-###DEC-068232-0-000-15-02-1971@@@
-
 decreto nº 68.232, de 15 de Fevereiro de 1971.
 
 Outorga à Centrais Elétricas de Goiás S.A. concessão para o aproveitamento da energia hidráulica de um trecho do rio Mosquito, denominado Cachoeira do Ronca, situado entre os municípios de Taguatinga e Campos Belos, no Estado de Goiás.

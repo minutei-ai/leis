@@ -1,5 +1,3 @@
-###DEC-054710-0-000-29-10-1964@@@
-
 DECRETO Nº 54.710, DE 29 DE OUTUBRO DE 1964.
 
 Autoriza a Indústria de Cal Ituaçu Ltda. a pesquisar calcário, no município de Ituaçu, no Estado da Bahia.

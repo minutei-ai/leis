@@ -1,5 +1,3 @@
-###DEL-006779-0-000-09-08-1944@@@
-
 DECRETO-LEI N. 6.779 – DE 9 DE AGÔSTO DE 1944
 
 Altera, sem aumento de despesa, o atual orçamento do Ministério da Educação e Saúde

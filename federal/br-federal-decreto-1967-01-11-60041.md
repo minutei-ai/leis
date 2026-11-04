@@ -1,5 +1,3 @@
-###DEC-060041-0-000-11-01-1967@@@
-
 decreto nº 60.041, de 11 de janeiro de 1967.
 
 Declara caduco o Decreto nº 53.297, de 16 de dezembro de 1963.

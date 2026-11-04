@@ -1,5 +1,3 @@
-###DEC-072525-0-000-25-07-1973@@@
-
 DECRETO Nº 72.525, de 25 de julho de 1973.
 
 Autoriza o funcionamento da Faculdade de Formação de Professores da Fundação Centro de Treinamento de Professores do Estado do Rio de Janeiro, com sede na Cidade de São Gonçalo, Estado do Rio de Janeiro.

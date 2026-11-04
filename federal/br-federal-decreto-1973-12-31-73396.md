@@ -1,5 +1,3 @@
-###DEC-073396-0-000-31-12-1973@@@
-
 DECRETO Nº 73.396 - de 31 de Dezembro de 1973
 
 Concede permissão, em caráter permanente, à Indústrias Químicas Eletro Cloro S.A., com sede em São Paulo, para funcionar, no seu estabelecimento industrial situado em Vila Elclor Km 38, da Estrada de Ferro Santos Jundiaí, no município de Santo André, Estado de São Paulo, nos setores de: água, vapor, ar, nitrogênio, óleo diesel, laboratório geral, segurança, embalagem e expedição, portaria, instrumentação, manutenção mecânica e elétrica de emergência, enfermaria e restaurante, aos domingos e nos dias de feriados civis e religiosos.

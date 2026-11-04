@@ -1,5 +1,3 @@
-###DEC-056042-0-000-26-04-1965@@@
-
 DECRETO Nº 56.042, DE 26 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro Olavo da Costa Galvão a pesquisar quartzo e pedras coradas, no município de Teófilo Otôni, Estado de Minas Gerais.

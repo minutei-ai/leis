@@ -1,5 +1,3 @@
-###DEC-070628-0-000-26-05-1972@@@
-
 decreto Nº 70.628, de 26 de maio de 1972.
 
 Torna sem efeito Decreto nº 70.182, de 22 de fevereiro de 1972, que aproveita, no Ministério da Aeronáutica, servidor em disponibilidade.

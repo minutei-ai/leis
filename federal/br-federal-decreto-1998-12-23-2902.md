@@ -1,5 +1,3 @@
-###DEC-002902-0-000-23-12-1998@@@
-
 DECRETO Nº 2.902, DE 23 DE DEZEMBRO DE 1998.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.340, de 7 de outubro de 1997.

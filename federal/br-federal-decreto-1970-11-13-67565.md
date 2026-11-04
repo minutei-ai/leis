@@ -1,5 +1,3 @@
-###DEC-067565-0-000-13-11-1970@@@
-
 Decreto nº 67.565, de 13 de novembro de 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal do Tribunal Marítimo, cargos originários da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal.

@@ -1,5 +1,3 @@
-###DEC-059728-0-000-15-12-1966@@@
-
 DECRETO Nº 59.728, DE 15 DE DEZEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Ubirajara Keutenedjian a pesquisar quartzo, no município de Jacupiranga, Estado de São Paulo.

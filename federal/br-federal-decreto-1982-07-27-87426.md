@@ -1,5 +1,3 @@
-###DEC-087426-0-000-27-07-1982@@@
-
 DECRETO Nº 87.426, DE 27 DE JULHO DE 1982
 
 Cargos Privativos de Oficial-General do Exército em tempo de paz.

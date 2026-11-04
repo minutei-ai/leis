@@ -1,5 +1,3 @@
-###DEC-005151-0-000-22-07-2004@@@
-
 DECRETO Nº 5.151,  DE 22 DE JULHO DE 2004
 
 Dispõe sobre os procedimentos a serem observados pelos órgãos e pelas entidades da Administração Pública Federal direta e indireta, para fins de celebração de atos complementares de cooperação técnica recebida de organismos internacionais e da aprovação e gestão de projetos vinculados aos referidos instrumentos.

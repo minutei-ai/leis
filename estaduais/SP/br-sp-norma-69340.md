@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69340)
-
 # LEI Nº 12.451, DE 22 DE DEZEMBRO DE 2006
 
 ## (Projeto de lei nº 124/2006, do Deputado Milton Flávio)

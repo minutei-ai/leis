@@ -1,5 +1,3 @@
-###DEC-085264-0-000-17-10-1980@@@
-
 DECRETO Nº 85.264, DE 17 DE OUTUBRO DE 1980.
 
 Altera dispositivo do Regulamento do Custeio da Previdência Social, aprovado pelo Decreto nº 83.081, de 24 de janeiro de 1979.

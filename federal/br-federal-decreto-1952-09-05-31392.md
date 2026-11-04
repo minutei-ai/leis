@@ -1,14 +1,12 @@
-###DEC-031392-0-000-05-09-1952@@@
+**DECRETO Nº 31.392, DE 5 DE SETEMBRO DE 1952.**
 
-<strong>DECRETO Nº 31.392, DE 5 DE SETEMBRO DE 1952.</strong>
+***Designa as funções privativas de Generais de Brigada, em tempo de paz.***
 
-<em><strong>Designa as funções privativas de Generais de Brigada, em tempo de paz.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando a atribuição que lhe confere o Art. 87, inciso I, da Constituição e de acôrdo com o Art. 3º da Lei nº 1.632, de 30 de junho de 1952,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando a atribuição que lhe confere o Art. 87, inciso I, da Constituição e de acôrdo com o Art. 3º da Lei nº 1.632, de 30 de junho de 1952,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art.</strong> 1º São funções privativas de Generais de Brigada:
+**Art.** 1º São funções privativas de Generais de Brigada:
 
 I – Das Armas
 
@@ -114,9 +112,9 @@ I – Das Armas
 
 51\. Assistente da Escola Superior de Guerra.
 
-<em>II – Dos Serviços</em>
+*II – Dos Serviços*
 
-<em>A) De Saúde</em>
+*A) De Saúde*
 
 1\. Diretor Administrativo;
 
@@ -124,7 +122,7 @@ I – Das Armas
 
 3\. Diretor do Hospital Central.
 
-<em>B) De Interndência</em>
+*B) De Interndência*
 
 1\. Diretor de Finanaças;
 
@@ -132,13 +130,13 @@ I – Das Armas
 
 3\. Diretor de Transporte.
 
-<em>C) De Veterinária</em>
+*C) De Veterinária*
 
 1\. Diretor de Veterinária;
 
 2\. Diretor da escola de Veterinária.
 
-<em>III – Técnicos</em>
+*III – Técnicos*
 
 1\. Diretor de Obras e Fortificações;
 
@@ -166,6 +164,6 @@ I – Das Armas
 
 § 2.º As funções constantes dos itens II e III  do presente Decreto poderão ser exercidas por Generais Graduados dos Serviços Técnicos.
 
-<strong>Art</strong>. 2.º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2.º Êste Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 5 de setembro de 1952; 131.º da Indenpendência e 64.º da República.

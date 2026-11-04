@@ -1,12 +1,10 @@
-###LEI-000719-0-000-27-05-1949@@@
+**LEI Nº 719, DE 27 DE MAIO DE 1949**
 
-<strong>LEI Nº 719, DE 27 DE MAIO DE 1949</strong>
+***Inclui no Quadro de Dentistas, em extinção, de acôrdo com a Lei nº 11, de 28 de dezembro de 1946, dentistas extranumerários mensalistas do Ministério da Guerra, oficiais e sargentos de armas ou serviços, diplomados em odontologia e oficiais dentistas da reserva convocados.***
 
-<em><strong>Inclui no Quadro de Dentistas, em extinção, de acôrdo com a Lei nº 11, de 28 de dezembro de 1946, dentistas extranumerários mensalistas do Ministério da Guerra, oficiais e sargentos de armas ou serviços, diplomados em odontologia e oficiais dentistas da reserva convocados.</strong></em>
+**O VICE-PRESIDENTE DA REPÚBLICA**, em exercício no cargo de PRESIDENTE DA REPÚBLICA, faço saber que CONGRESSO NACIONAL decreta e eu sanciono a seguinte Lei:
 
-<strong>O VICE-PRESIDENTE DA REPÚBLICA</strong>, em exercício no cargo de PRESIDENTE DA REPÚBLICA, faço saber que CONGRESSO NACIONAL decreta e eu sanciono a seguinte Lei:
-
-<strong>Art</strong>. 1º São extensivos os benefícios da Lei nº 11, de 28 de dezembro de 1946:
+**Art**. 1º São extensivos os benefícios da Lei nº 11, de 28 de dezembro de 1946:
 
 a) a todos os atuais oficiais dentistas da reserva, dentistas extranumerários mensalistas do Ministério da Guerra, que serviram no Exército como convocados ou não, como profissionais ou não, por mais de um ano, no período de 22 de agôsto de 1942 a 15 de agôsto de 1945;
 
@@ -14,9 +12,9 @@ b) às praças de pré que, por mais de um ano, prestaram serviço como dentista
 
 c) aos oficiais dentistas subalternos da reserva, ex-sargentos, escriturários do Ministério da Guerra, que tenham prestado serviços dentários por mais de cinco anos no Exercício, cooperado nos trabalhos da Junta de Saúde, para a seleção dos convocados da F. E. B., e que, por seus esforços, foram distinguidos com a medalha de guerra.
 
-<strong>Art</strong>. 2º Os tenentes dentistas extranumerários mensalistas os sargentos e demais praças beneficiadas pela presente Lei, são incluídos no Quadro de Dentistas, em extinção, do Exército, com o posto de 2º tenente, logo após o último 2º tenente nomeado pela Lei nº 11, de 28 de dezembro de 1946, e de acôrdo com a precedência que estabelecer o tempo de serviço de cada um prestado no Exército.
+**Art**. 2º Os tenentes dentistas extranumerários mensalistas os sargentos e demais praças beneficiadas pela presente Lei, são incluídos no Quadro de Dentistas, em extinção, do Exército, com o posto de 2º tenente, logo após o último 2º tenente nomeado pela Lei nº 11, de 28 de dezembro de 1946, e de acôrdo com a precedência que estabelecer o tempo de serviço de cada um prestado no Exército.
 
-<strong>Art</strong>. 3º Para os benefícios da presente Lei são exigidos:
+**Art**. 3º Para os benefícios da presente Lei são exigidos:
 
 a) idade máxima de 43 anos;
 
@@ -24,11 +22,11 @@ b) conceito favorável do seu comandante ou chefe;
 
 c) aptidão física comprovada em inspeção de saúde.
 
-Parágrafo único. São dispensados da idade da letra “<em>a</em>” dêste artigo os cirurgiões-dentistas que hajam prestado serviço por mais de cinco anos, os quais continuarão em serviço até o limite estabelecido em lei para os seus postos.
+Parágrafo único. São dispensados da idade da letra “*a*” dêste artigo os cirurgiões-dentistas que hajam prestado serviço por mais de cinco anos, os quais continuarão em serviço até o limite estabelecido em lei para os seus postos.
 
-<strong>Art</strong>. 4º São extensivos aos oficiais dentistas subalternos da reserva, convocados, que, no período de 22 de agôsto de 1942 a 15 de agôsto de 1945, tenham servido por mais de seis meses, os benefícios da Lei nº 11, de 28 de dezembro de 1946, independente da letra “<em>a</em>”, do artigo 3º, da presente Lei.
+**Art**. 4º São extensivos aos oficiais dentistas subalternos da reserva, convocados, que, no período de 22 de agôsto de 1942 a 15 de agôsto de 1945, tenham servido por mais de seis meses, os benefícios da Lei nº 11, de 28 de dezembro de 1946, independente da letra “*a*”, do artigo 3º, da presente Lei.
 
-<strong>Art</strong>. 5º Os subtenentes e sargentos do Exército, de armas ou serviços não abrangidos por esta Lei, e que diplomados em Odontologia por escola oficial ou reconhecida, desejarem os benefícios da Lei nº 11, de 28 de dezembro de 1946, serão submetidos a provas de seleção e incluídos no Quadro de Dentistas, em extinção, do Exército, uma vez preenchidas as seguintes condições:
+**Art**. 5º Os subtenentes e sargentos do Exército, de armas ou serviços não abrangidos por esta Lei, e que diplomados em Odontologia por escola oficial ou reconhecida, desejarem os benefícios da Lei nº 11, de 28 de dezembro de 1946, serão submetidos a provas de seleção e incluídos no Quadro de Dentistas, em extinção, do Exército, uma vez preenchidas as seguintes condições:
 
 a) cumprimento das exigências constantes do artigo 3º desta Lei;
 
@@ -40,10 +38,10 @@ c) aprovação em concurso de seleção, que será homologado pelo Ministro da G
 
 § 2º Os interessados deverão requerer ao Ministério da Guerra, dentro de sessenta dias, a datar da vigência desta Lei.
 
-<strong>Art</strong>. 6º A presente Lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 6º A presente Lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 27 de maio de 1949; 123º da Independência e 61º da República.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 Canrobert P. da Costa

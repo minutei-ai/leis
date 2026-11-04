@@ -1,5 +1,3 @@
-###DEC-051291-0-000-25-08-1961@@@
-
 DECRETO Nº 51.291, DE 25 DE AGÔSTO DE 1961.
 
 Autoriza o cidadão brasileiro Narciso Colares a pesquisar água marinhas no município de Caraí, Estado de Minas Gerais.

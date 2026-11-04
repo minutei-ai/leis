@@ -2,7 +2,8 @@ LEI Nº 7.555 DE 15 DE DEZEMBRO DE 1999
 
 Altera os limites do município de Central, criado em 1958, através da [Lei nº 1.017](https://www.legislabahia.ba.gov.br/documentos/lei-no-1017-de-12-de-agosto-de-1958#LO_1_017) , desmembrado do município de Xique-Xique.
 
-Ver também:<br>
+Ver também:
+
 Lei nº 13.357 de 29 de junho de 2015 - Atualiza, na forma da Lei nº 12.057, de 11 de janeiro de 2011, os limites dos seguintes municípios: América Dourada, Barro Alto, Cafarnaum, Canarana, Central, Gentio do Ouro, Ibipeba, Ibititá, Ipupiara, Irecê, Itaguaçu da Bahia, João Dourado, Jussara, Lapão, Mulungu do Morro, Presidente Dutra, São Gabriel, Uibaí e Xique-Xique.
 
 O VICE-GOVERNADOR, NO EXERCÍCIO DO CARGO DE GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
@@ -33,4 +34,4 @@ Luiz Antonio Vasconcellos Carreira
 
 Secretário do Planejamento, Ciência e Tecnologia
 
-* * *
+ *

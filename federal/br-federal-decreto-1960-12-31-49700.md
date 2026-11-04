@@ -1,5 +1,3 @@
-###DEC-049700-0-000-31-12-1960@@@
-
 decreto nº 49.700, de 31 de dezembro de 1960.
 
 Autoriza o cidadão brasileiro Mário Pinheiro a pesquisar carvão mineral, no município de Criciúma, Estado de Santa Catarina.

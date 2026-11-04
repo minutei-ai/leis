@@ -1,5 +1,3 @@
-###DEC-067417-0-000-19-10-1970@@@
-
 Decreto Nº 67.417, de 19 de outubro de 1970.
 
 Declara de utilidade pública a Santa Casa de Misericórdia de Grama, com sede em São Sebastião da Grama, Estado de São Paulo.

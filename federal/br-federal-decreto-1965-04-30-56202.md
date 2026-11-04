@@ -1,5 +1,3 @@
-###DEC-056202-0-000-30-04-1965@@@
-
 DECRETO Nº 56.202, DE 30 DE ABRIL DE 1965.
 
 Aprova e manda executar o Regimento Interno da Seção de Segurança Nacional, do Ministério da Saúde.

@@ -1,5 +1,3 @@
-###DEC-077888-0-000-22-06-1976@@@
-
 decreto nº 77.888, de 22 de junho de 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Sociedade Rádio Emissora Continental de Porto Alegre Ltda. para executar serviço de radiodifusão sonora em onda media de âmbito regional, na cidade de Porto Alegre, Estado do Rio Grande do Sul.

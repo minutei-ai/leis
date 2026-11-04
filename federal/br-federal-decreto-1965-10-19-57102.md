@@ -1,5 +1,3 @@
-###DEC-057102-0-000-19-10-1965@@@
-
 Decreto nº 57.102, de 19 de outubro de 1965.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno no município de Reriutaba, no Estado do Ceará.

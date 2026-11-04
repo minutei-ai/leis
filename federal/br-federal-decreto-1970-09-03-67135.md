@@ -1,5 +1,3 @@
-###DEC-067135-0-000-03-09-1970@@@
-
 decreto nº 67.135, de 3 de setembro de 1970.
 
 Declara caduco o Decreto nº 20.363 de 9 de janeiro de 1946.

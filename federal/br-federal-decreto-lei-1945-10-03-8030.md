@@ -1,5 +1,3 @@
-###DEL-008030-0-000-03-10-1945@@@
-
 DECRETO-LEI N. 8.030 – DE 3 DE OUTUBRO DE 1945
 
 Incorpora ao patrimônio da União o Hospital Pedro Ernesto e dá outras providencias.

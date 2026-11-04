@@ -1,5 +1,3 @@
-###DEC-092214-0-000-26-12-1985@@@
-
 Decreto nº 92.214, de 26 de dezembro de 1985.
 
 Dispõe sobre a fixação de áreas prioritárias, para fins de reforma agrária, nos Municípios de Glória, Rodelas, Chorrochó, Abaré, Belém de São Francisco, Floresta, ltacuruba e Petrolândia, nos Estados da Bahia e Pernambuco, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-094133-0-000-23-03-1987@@@
-
 DECRETO Nº 94.133, DE 23 DE MARÇO DE 1987.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária, à implantação da estação transformadora de distribuição Itupeva da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

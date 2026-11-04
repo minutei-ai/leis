@@ -1,5 +1,3 @@
-###DEC-063992-0-000-15-01-1969@@@
-
 DECRETO Nº 63.992, DE 15 DE JANEIRO DE 1969.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial, da Caixa Econômica Federal do Rio de Janeiro, cargo originário da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal.

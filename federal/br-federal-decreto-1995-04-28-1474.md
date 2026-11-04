@@ -1,7 +1,3 @@
-1
-
-###DEC-001474-0-000-28-04-1995@@@
-
 DECRETO Nº 1.474, DE 28 DE ABRIL DE 1995
 
 Altera o Anexo I do Estatuto da Fundação Alexandre de Gusmão, aprovado pelo Decreto n° 896, de 16 de agosto de 1993.

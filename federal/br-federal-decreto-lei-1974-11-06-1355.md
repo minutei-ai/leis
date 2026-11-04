@@ -1,5 +1,3 @@
-###DEL-001355-0-000-06-11-1974@@@
-
 # decreto-lei nº 1.355, de 6 de novembro de 1974
 
 Prorroga o prazo da isenção dos impostos de importação e sobre produtos industrializados para equipamentos cinematográficos.

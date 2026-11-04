@@ -1,5 +1,3 @@
-###DEC-054963-0-000-10-11-1964@@@
-
 DECRETO Nº 54.963, DE 10 DE NOVEMBRO DE 1964.
 
 Declara de utilidade pública a Fundação Nossa Senhora Auxiliadora do Ipiranga, com sede em São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-072945-0-000-17-10-1973@@@
-
 DECRETO Nº 72.945, DE 17 DE OUTUBRO DE 1973.
 
 Concede permissão, em caráter permanente, à COCELPA - Companhia de Celulose e Papel do Paraná, para funcionar aos domingos e nos dias feriados civis e religiosos, no seu estabelecimento industrial, situado na Rodovia do Xisto -Km 5, no Município de Araucária, no Estado do Paraná.

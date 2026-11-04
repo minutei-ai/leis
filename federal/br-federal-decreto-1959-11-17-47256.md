@@ -1,5 +1,3 @@
-###DEC-047256-0-000-17-11-1959@@@
-
 DECRETO Nº 47.256, DE 17 DE NOVEMBRO DE 1959.
 
 Autoriza estrangeira a adquirir, em transferência de aforamento, fração ideal do domínio útil do terreno de marinha que menciona, no Distrito Federal.

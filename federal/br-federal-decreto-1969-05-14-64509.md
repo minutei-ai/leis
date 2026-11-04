@@ -1,5 +1,3 @@
-###DEC-064509-0-000-14-05-1969@@@
-
 DECRETO Nº 64.509, DE 14 DE MAIO DE 1969.
 
 Declara caduco o Decreto nº 40.217 de 30 de outubro de 1956.

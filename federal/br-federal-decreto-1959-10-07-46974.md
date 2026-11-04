@@ -1,5 +1,3 @@
-###DEC-046974-0-000-07-10-1959@@@
-
 DECRETO Nº 46.974, DE 7 DE OUTUBRO DE 1959.
 
 Altera a lotação de repartições atendidas pelos quadros Permanente e Suplementar, do Ministério da Agricultura.

@@ -1,5 +1,3 @@
-###DEC-096240-0-000-30-06-1988@@@
-
 DECRETO N° 96.240, DE 30 DE JUNHO DE 1988
 
 Dispõe sobre a execução do Nono Protocolo Adicional ao Acordo de Complementação Econômica subscrito entre o Brasil e o Uruguai (Acordo nº 2).

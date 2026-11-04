@@ -1,5 +1,3 @@
-###DEL-009741-0-000-05-09-1946@@@
-
 DECRETO-LEI N. 9.741– DE 5 DE SETEMBRO DE 1946
 
 Abre crédito suplementar de Cr$ 1.937.423.777,90 às verbas que especifica, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-094831-0-000-03-09-1987@@@
-
 DECRETO Nº 94.831, DE 3 DE SETEMBRO DE 1987.
 
 Renova a concessão outorgada à RÁDIO EDUCADORA DE FRANCISCO BELTRÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Francisco Beltrão, Estado do Paraná.

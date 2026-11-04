@@ -1,5 +1,3 @@
-###DEC-055924-0-000-14-04-1965@@@
-
 DECRETO nº 55.924, DE 14 DE ABRIL DE 1965.
 
 Suprime cargos vagos no Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado - Hospital dos Servidores do Estado.

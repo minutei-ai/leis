@@ -1,5 +1,3 @@
-###DEC-092302-0-000-16-01-1986@@@
-
 DECRETO Nº 92.302, DE 16 DE JANEIRO DE 1986
 
 Regulamenta o Fundo para Reconstituição de Bens Lesados de que trata a Lei nº 7.347, de 24 de julho de 1985, e dá outras providências.

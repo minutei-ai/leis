@@ -1,5 +1,3 @@
-###DEC-095937-0-000-20-04-1988@@@
-
 DECRETO N° 95.937, DE 20 DE ABRIL DE 1988
 
 Inclui, na composição do Conselho de Administração da Superintendência da Zona Franca de Manaus - SUFRAMA, representante do Banco Nacional de Desenvolvimento Econômico e Social - BNDES.

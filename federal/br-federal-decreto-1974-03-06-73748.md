@@ -1,5 +1,3 @@
-###DEC-073748-0-000-06-03-1974@@@
-
 DECRETO Nº 73.748, DE 06 DE MARÇO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, duas áreas de terras rurais, sem benfeitorias, e, para fins de constituição de servidão de passagem, as respectivas faixas de acesso, situadas no Município de Muriaé, Estado de Minas Gerais, destinadas à construção rádio e torre de refletor passivo, respectivamente, pela Telecomunicações de Minas Gerais S.A . - TELEMIG.

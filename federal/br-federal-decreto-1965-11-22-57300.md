@@ -1,5 +1,3 @@
-###DEC-057300-0-000-22-11-1965@@@
-
 DECRETO Nº 57.300, DE 22 DE NOVEMBRO DE 1965.
 
 Suspende o funcionamento, pelo prazo de seis meses, da “Liga Democrática Radical”, sediada no Estado da Guanabara.

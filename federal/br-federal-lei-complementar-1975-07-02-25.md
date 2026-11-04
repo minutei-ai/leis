@@ -1,5 +1,3 @@
-###LCP-000025-0-000-02-07-1975@@@
-
 # LEI COMPLEMENTAR Nº 25, DE 2 dE JULhO DE 1975
 
 Estabelece critério e limites para a fixação da remuneração de Vereadores.

@@ -1,5 +1,3 @@
-###DEC-061616-0-000-03-11-1967@@@
-
 DECRETO Nº 61.616, DE 3 DE NOVEMBRO DE 1967.
 
 Declara de utilidade pública o “Fundo de Assistência Social de Santos” - F.A.S.S. com sede em Santos, Estado de São Paulo.

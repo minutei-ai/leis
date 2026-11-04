@@ -1,5 +1,3 @@
-###DEC-095948-0-000-22-04-1988@@@
-
 DECRETO Nº 95.948, DE 22 DE ABRIL DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA ARRAIAS”, classificado como “latifúndio por exploração”, situado no Município de Conceição do Araguaia, no Estado do Pará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto no 92.623, de 02 de maio de 1986, e dá outras providências.

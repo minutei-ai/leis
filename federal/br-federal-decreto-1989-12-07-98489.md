@@ -1,5 +1,3 @@
-###DEC-098489-0-000-07-12-1989@@@
-
 DECRETO N° 98.489, DE 07 DE DEZEMBRO DE 1989
 
 Abre ao Ministério do Desenvolvimento da Indústria e do Comércio crédito suplementar de NCz$ 378.000.000,00, para reforço de dotações consignadas no vigente Orçamento.

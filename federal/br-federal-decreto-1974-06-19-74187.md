@@ -1,5 +1,3 @@
-###DEC-074187-0-000-19-06-1974@@@
-
 DECRETO Nº 74.187, DE 19 DE JUNHO DE 1974
 
 Autoriza o Ministro da Fazenda a negociar e a contratar, em nome da União Federal, um empréstimo, em moeda estrangeira, com o Banco Interamericano de Desenvolvimento para o fim que menciona.

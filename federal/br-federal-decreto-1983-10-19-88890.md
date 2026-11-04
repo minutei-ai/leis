@@ -1,5 +1,3 @@
-###DEC-088890-0-000-19-10-1983@@@
-
 DECRETO Nº 88.890, DE 19 DE OUTUBRO DE 1983
 
 Renova por 10 (dez) anos a concessão outorgada à SOCIEDADE RÁDIO GUARUJÁ LTDA., para explorar serviço de radiodifusão sonora em onda curta, na cidade de Florianópolis, Estado de Santa Catarina.

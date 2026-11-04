@@ -1,5 +1,3 @@
-###DEC-058787-0-000-07-07-1966@@@
-
 DECRETO Nº 58.787, DE 7 DE JULHO DE 1966.
 
 Aprova as alterações introduzidas nos Estatutos da Companhia Anchieta de Seguros Gerais, inclusive aumento do capital social.
@@ -17,8 +15,6 @@ Brasília, 7 de julho de 1966; 145º da Independência e 78º da República.
 h. castello branco
 
 Paulo Egydio Martins
-
-###DEC-058787-0-000-07-07-1966@@@REP01+++
 
 (\*) DECRETO Nº 58.787, DE 7 DE JULHO DE 1966.
 

@@ -1,5 +1,3 @@
-###DEC-058800-0-000-13-07-1966@@@
-
 DECRETO N° 58.800, DE 13 DE JULHO DE 1966.
 
 Aprova o Regimento do Curso de Museus, do Museu Histórico Nacional.

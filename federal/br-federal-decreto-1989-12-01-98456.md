@@ -1,7 +1,3 @@
-1
-
-###DEC-098456-0-000-01-12-1989@@@
-
 DECRETO Nº 98.456, DE 1º DE DEZEMBRO DE 1989
 
 Declara o valor do salário-minimo do mês de dezembro de 1989, na forma da Lei n° 7.789, de 03 de julho de 1989.

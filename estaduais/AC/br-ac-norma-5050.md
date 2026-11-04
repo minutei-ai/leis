@@ -1,6 +1,10 @@
 > **LEI Nº 3.897, DE 19 DE JANEIRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui a campanha permanente de combate ao racismo nas escolas, eventos esportivos e culturais do Estado e cria o selo “Acre pela promoção da igualdade racial”.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui a campanha permanente de combate ao racismo nas escolas, eventos esportivos e culturais do Estado e cria o selo “Acre pela promoção da igualdade racial”.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

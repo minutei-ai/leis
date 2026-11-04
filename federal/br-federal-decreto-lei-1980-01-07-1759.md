@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/272d8588-8b3d-4ec5-b2b4-4d621087d012/texto#nowhere)
 
-###DEL-001759-0-000-07-01-1980@@@
-
 # decreto-lei nº 1.759, de 7 de janeiro de 1980
 
 Reajusta os vencimentos e proventos dos servidores das Secretarias das Seções Judiciárias da Justiça Federal de Primeira Instância e dá outras providências.

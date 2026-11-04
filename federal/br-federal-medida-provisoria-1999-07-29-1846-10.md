@@ -1,5 +1,3 @@
-###MPV-001846-0-010-29-07-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.846-10, DE 29 DE JULHO DE 1999.
 
 Dispõe sobre as operações com recursos dos Fundos Constitucionais de Financiamento do Norte, do Nordeste e do Centro-Oeste, de que trata a Lei nº 7.827, de 27 de setembro de 1989, e dá outras providências.

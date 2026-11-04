@@ -1,5 +1,3 @@
-###DEC-088058-0-000-25-01-1983@@@
-
 # Decreto nº 88.058, de 25 de janeiro de 1983
 
 Concede autorização à COMPANHIA ESSO PROSPECÇÃO DO BRASIL, para operar no mar territorial do Brasil, fixado pelo Decreto-Lei nº 1.098, de 25 de março de 1970, a serviço da Petróleo Brasileiro S.A. -  PETROBRÁS.

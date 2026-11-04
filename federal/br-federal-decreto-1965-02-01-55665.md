@@ -1,5 +1,3 @@
-###DEC-055665-0-000-01-02-1965@@@
-
 DECRETO Nº 55.665, DE 1º de FEVEREIRO DE 1965.
 
 Concede reconhecimento à Faculdade de Filosofia de Caxias do Sul, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-004445-0-000-28-10-2002@@@
-
 DECRETO Nº 4.445, DE 28 DE OUTUBRO DE 2002
 
 Promulga o Acordo Básico de Cooperação Técnica, Científica e Tecnológica entre o Governo da República Federativa do Brasil e o Governo da República da Bolívia, celebrado em Fortaleza, em 17 de dezembro de 1996.

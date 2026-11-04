@@ -1,5 +1,3 @@
-###DEC-070989-0-000-17-08-1972@@@
-
 DECRETO Nº 70.989, DE 17 DE AGOSTO DE 1972.
 
 Concede à MINEBRA - Minérios Brasileiros S.A. - Mineração e Industrialização o direito de lavrar magnesita e talco no município de Brumado, Estado da Bahia,

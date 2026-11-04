@@ -1,5 +1,3 @@
-###DEC-057091-0-000-19-10-1965@@@
-
 DECRETO Nº 57.091, DE 19 DE OUTUBRO DE 1965.
 
 Retifica o art. 1º do Decreto número 53.256, de 13 de dezembro de 1963.

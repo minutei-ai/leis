@@ -1,5 +1,3 @@
-###DEL-000242-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 242, DE 28 DE FEVEREIRO DE 1967
 
 Dispõe sôbre o custeio do Plano Nacional de Cultura.

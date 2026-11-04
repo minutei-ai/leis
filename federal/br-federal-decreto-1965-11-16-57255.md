@@ -1,5 +1,3 @@
-###DEC-057255-0-000-16-11-1965@@@
-
 Decreto nº 57.255, de 16 de novembro de 1965.
 
 Autoriza o cidadão brasileiro João Keber a pesquisar argila, no município de Cajamar, Estado de São Paulo.

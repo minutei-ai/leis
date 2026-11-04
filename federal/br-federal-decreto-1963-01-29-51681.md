@@ -1,5 +1,3 @@
-###DEC-051681-0-000-29-01-1963@@@
-
 Decreto nº 51.681, de 29 de janeiro de 1963.
 
 Estende aos comerciais atacadistas de farinha de trigo as disposições do Decreto número 2.096, de 18 de Janeiro de 1963.

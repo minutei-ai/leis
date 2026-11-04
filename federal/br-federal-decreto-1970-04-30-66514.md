@@ -1,5 +1,3 @@
-###DEC-066514-0-000-30-04-1970@@@
-
 Decreto nº 66.514, de 30 de abril de 1970.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de Araçatuba, no Estado de São Paulo.

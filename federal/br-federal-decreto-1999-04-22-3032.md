@@ -1,5 +1,3 @@
-###DEC-003032-0-000-22-04-1999@@@
-
 DECRETO Nº 3.032, DE 22 DE ABRIL DE 1999
 
 Promulga o Protocolo Relativo a uma Emenda à Convenção sobre Aviação Civil Internacional, concluído em Montreal, em 10 de maio de 1984.

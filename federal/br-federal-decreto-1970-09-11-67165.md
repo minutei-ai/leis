@@ -1,5 +1,3 @@
-###DEC-067165-0-000-11-09-1970@@@
-
 DECRETO Nº 67.165, DE 11 DE SETEMBRO DE1970.
 
 Declara caduco o Decreto nº 42.079, de 19 de agosto de 1957.

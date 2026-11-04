@@ -1,5 +1,3 @@
-###DEC-071769-0-000-26-01-1973@@@
-
 DECRETO Nº 71.769, DE 26 DE JANEIRO DE 1973.
 
 Autoriza a instalação, no Campus avançado da Universidade Federal de Santa Maria, em Boa Vista, Território Federal de Roraima, dos cursos de Estudos Sociais e Letras.

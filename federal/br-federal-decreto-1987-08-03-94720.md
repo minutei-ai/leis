@@ -1,5 +1,3 @@
-###DEC-094720-0-000-03-08-1987@@@
-
 DECRETO Nº 94.720, DE 3 DE AGOSTO DE 1987.
 
 Aprova o "Regulamento para a Representação do Brasil na Junta Interamericana de Defesa", e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-071014-0-000-23-08-1972@@@
-
 DECRETO Nº 71.014, DE 23 DE AGOSTO DE 1972.
 
 Autoriza a cessão, sob a forma de utilização gratuita de parte do imóvel que menciona, situado em Recife, no Estado de Pernambuco.

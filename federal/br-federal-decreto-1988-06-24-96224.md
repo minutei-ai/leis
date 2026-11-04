@@ -1,5 +1,3 @@
-###DEC-096224-0-000-24-06-1988@@@
-
 DECRETO N° 96.224, DE 24 DE JUNHO DE 1988
 
 Renova a concessão outorgada à RÁDIO A VOZ DO SERTÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Serra Talhada, Estado de Pernambuco.

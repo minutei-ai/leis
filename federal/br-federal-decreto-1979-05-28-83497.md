@@ -1,5 +1,3 @@
-###DEC-083497-0-000-28-05-1979@@@
-
 Decreto nº 83.497, de 28 de maio de 1979.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Minas Gerais S.A. - CEMIG, no Estado de Minas Gerais.

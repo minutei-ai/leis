@@ -1,5 +1,3 @@
-###DEC-074916-0-000-19-11-1974@@@
-
 DECRETO Nº 74.916, DE 19 DE NOVEMBRO DE 1974.
 
 Concede à Indústria de Calcáreo Itá Ltda., o direito de lavrar calcário dolomítico no Município de Tietê, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-097018-0-000-25-10-1988@@@
-
 DECRETO N.° 97.018, DE 25 DE OUTUBRO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Ingá da Com­panhia de Eletricidade do Estado do Rio de Janeiro - CERJ, no Estado do Rio de Janeiro.

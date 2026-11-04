@@ -1,5 +1,3 @@
-###DEC-060165-0-000-01-02-1967@@@
-
 DECRETO Nº 60.165, DE 1º DE FEVEREIRO DE 1967.
 
 Cria o Consulado Honorário do Brasil em Malmô, Suécia.

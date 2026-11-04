@@ -1,5 +1,3 @@
-###DEC-057274-0-000-16-11-1965@@@
-
 DECRETO Nº 57.274, dE 16 DE NOVEMBRO DE 1965.
 
 Aprova regulamento para o transporte e distribuição de correspondência Postal por emprêsas privadas, e dá outras providências.

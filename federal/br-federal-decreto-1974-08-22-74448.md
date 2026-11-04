@@ -1,5 +1,3 @@
-###DEC-074448-0-000-22-08-1974@@@
-
 DECRETO Nº 74.448 - DE 22 DE AGOSTO DE 1974.
 
 Dispõe sobre a lotação de cargos funções e empregos dos órgãos da Administração Federal direta e das Autarquias e dá outras providências.

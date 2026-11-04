@@ -1,5 +1,3 @@
-###DEC-086860-0-000-19-01-1982@@@
-
 Decreto nº 86.860, de 19 de janeiro de 1982
 
 Declara de utilidade pública, para fins desapropriação, áreas de terra necessárias à formação do Reservatório para abastecimento d'água da subestação de Foz do Iguaçu-Conversora, FURNAS - Centrais Elétricas S.A., no Estado do Paraná.

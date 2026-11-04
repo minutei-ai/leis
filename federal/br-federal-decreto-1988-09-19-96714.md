@@ -1,5 +1,3 @@
-###DEC-096714-0-000-19-09-1988@@@
-
 DECRETO N° 96.714, DE 19 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO MATOZINHO AM LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Paraíba do Sul, Estado do Rio de Janeiro.

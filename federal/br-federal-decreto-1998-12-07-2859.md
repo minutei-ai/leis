@@ -1,5 +1,3 @@
-###DEC-002859-0-000-07-12-1998@@@
-
 DECRETO Nº 2.859, DE 7 DE DEZEMBRO DE 1998.
 
 Localiza Unidade Aérea da Força Aérea Brasileira.

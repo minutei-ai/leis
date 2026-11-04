@@ -1,5 +1,3 @@
-###DEC-046565-0-000-11-08-1959@@@
-
 DECRETO Nº 46.565, DE 11 DE AGÔSTO DE 1959.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da COLONIAL - Companhia Nacional de Seguros Gerais.

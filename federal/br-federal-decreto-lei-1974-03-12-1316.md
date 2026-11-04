@@ -1,5 +1,3 @@
-###DEL-001316-0-000-12-03-1974@@@
-
 # DECRETO-LEI Nº 1.316, DE 12 DE Março DE 1974
 
 Declara de interesse da Segurança Nacional, nos termos do artigo 15, § 1º, alínea “b”, da Constituição, os Municípios de Casa Nova, Sento Sé, Pilão Arcado e Remanso, todos do Estado da Bahia, e dá outras providências.

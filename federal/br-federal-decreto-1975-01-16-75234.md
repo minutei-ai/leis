@@ -1,5 +1,3 @@
-###DEC-075234-0-000-16-01-1975@@@
-
 Decreto nº 75.234, de 16 de janeiro de 1975.
 
 Concede reconhecimento aos cursos de Letras, de Estudos Sociais, de Ciências Sociais e de Matemática da Faculdade de Filosofia, Ciências e Letras "Santana", mantida pelo Instituto Santanense de Ensino Superior, com sede na cidade de São Paulo, Estado de São Paulo, Estado de São Paulo.

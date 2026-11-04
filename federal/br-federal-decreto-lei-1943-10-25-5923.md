@@ -1,5 +1,3 @@
-###DEL-005923-0-000-25-10-1943@@@
-
 DECRETO‑LEI N. 5.923 – DE 25 DE OUTUBRO DE 1943
 
 Dispõe sôbre as gratificações dos Secretários do Presidente a do Conselho Pleno, do Conselho Nacional do Trabalho, cria funções gratificadas de Auxiliar do Presidente do mesmo Conselho e dá outras providências.

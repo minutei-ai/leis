@@ -1,5 +1,3 @@
-###DEC-074452-0-000-23-08-1974@@@
-
 DECRETO Nº 74.452 - DE 23 DE AGOSTO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, um lote de terreno urbano, com benfeitorias, situado na cidade de Maricá, Estado do Rio de Janeiro, destinado à instalação de uma estação telefônica automática, pela Companhia Telefônica Brasileira - CTB.

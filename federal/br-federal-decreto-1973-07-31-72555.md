@@ -1,5 +1,3 @@
-###DEC-072555-0-000-31-07-1973@@@
-
 DECRETO Nº 72.555, DE 31 DE JULHO DE 1973.
 
 Acrescenta alínea ao artigo 29, do Regulamento da Superintendência Nacional da Abastecimento (SUNAB), aprovado pelo Decreto nº 51.620, de 13 de dezembro de 1962.

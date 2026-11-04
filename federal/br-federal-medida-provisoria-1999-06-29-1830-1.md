@@ -1,5 +1,3 @@
-###MPV-001830-0-001-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.830-1, DE 29 DE JUnhO DE 1999.
 
 Acresce parágrafo ao art. 12 da lei nº 7.738, de 9 de março de 1989, que baixa normas complementares para execução da Lei nº 7.730, de 31 de janeiro de 1989.

@@ -1,5 +1,3 @@
-###DEC-088308-0-000-16-05-1983@@@
-
 Decreto nº 88.308, de 16 de maio de 1983
 
 Extingue o Vice-Consulado do Brasil em Corrientes, Argentina.

@@ -1,5 +1,3 @@
-###DEC-082288-0-000-19-09-1978@@@
-
 Decreto nº 82.288, de 19 de setembro de 1978
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem da linha de transmissão da Centrais Elétricas de Minas Gerais S.A. - CEMIG, no Estado de Minas Gerais.

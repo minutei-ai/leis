@@ -1,5 +1,3 @@
-###DEC-005686-0-000-31-01-2006@@@
-
 DECRETO Nº 5.686, DE 31 DE JANEIRO DE 2006.
 
 Dispõe sobre a criação da Embaixada do Brasil na República do Cazaquistão, com sede em Astana.

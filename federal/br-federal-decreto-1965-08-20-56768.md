@@ -1,5 +1,3 @@
-###DEC-056768-0-000-20-08-1965@@@
-
 DECRETO Nº 56.768, DE 20 DE AGÔSTO DE 1965.
 
 Altera o Decreto nº 55.618, de 22 de janeiro de 1965.

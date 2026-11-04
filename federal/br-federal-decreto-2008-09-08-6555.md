@@ -1,5 +1,3 @@
-###DEC-006555-0-000-08-09-2008@@@
-
 DECRETO Nº 6.555, DE 8 DE SETEMBRO DE 2008.
 
 Dispõe sobre as ações de comunicação do Poder Executivo Federal e dá outras providências.

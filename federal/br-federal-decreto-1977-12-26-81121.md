@@ -1,5 +1,3 @@
-###DEC-081121-0-000-26-12-1977@@@
-
 Decreto nº 81.121, de 26 de dezembro de 1977
 
 Declara de utilidade pública, para fins de desapropriação em favor da Petróleo Brasileiro S.A. - PETROBRÁS, o domínio útil e benfeitorias dos imóveis a Rua Carlos Sieidl nº 90 e 128 a 144, na Cidade e Estado do Rio de Janeiro.

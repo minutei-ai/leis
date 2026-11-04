@@ -1,5 +1,3 @@
-###DEC-003505-0-000-13-06-2000@@@
-
 DECRETO Nº 3.505, DE 13 DE JUNHO DE 2000.
 
 Institui a Política de Segurança da Informação nos órgãos e entidades da Administração Pública Federal.

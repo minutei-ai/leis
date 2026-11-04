@@ -1,5 +1,3 @@
-###DEC-056766-0-000-20-08-1965@@@
-
 DECRETO Nº 56.766, DE 20 AGÔSTO DE 1965.
 
 Renova o Decreto nº 51.933-A, de 26 de abril de 1963.

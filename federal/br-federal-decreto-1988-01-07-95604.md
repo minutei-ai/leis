@@ -1,7 +1,3 @@
-1
-
-###DEC-095604-0-000-07-01-1988@@@
-
 DECRETO N° 95.604, DE 7 DE JANEIRO DE 1988
 
 Promulga o Acordo Comercial entre a República Federativa do Brasil e a República Popular do Congo.

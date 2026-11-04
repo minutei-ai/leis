@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/c5b418ec-60e4-44bb-b299-07c380bb66b1/texto#nowhere)
 
-###DEL-000083-0-000-26-12-1966@@@
-
 DECRETo-LEI Nº 83, DE 26 DE Dezembro DE 1966
 
 Estabelece normas para cobrança pelas Administrações de Portos de taxas portuárias incidentes sôbre mercadorias movimentadas em terminais ou embarcadouros de uso privativo e instalações rudimentares, e dá outras providências.
@@ -95,8 +93,6 @@ Octavio Bulhões
 Juarez Távora
 
 Roberto Campos
-
-###DEL-000083-0-000-26-12-1966@@@REP01+++
 
 DECREto-lei Nº 83, DE 26 DE DEZEMBRO DE 1966
 

@@ -2,7 +2,8 @@ O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DA BAHIA PROMULGA E FAZ PUBLIC
 
 LEI Nº 6.328 DE 21 DE OUTUBRO DE 1991
 
-Ver também:<br>
+Ver também:
+
 Lei nº 13.357 de 29 de junho de 2015 - Atualiza, na forma da Lei nº 12.057, de 11 de janeiro de 2011, os limites dos seguintes municípios: América Dourada, Barro Alto, Cafarnaum, Canarana, Central, Gentio do Ouro, Ibipeba, Ibititá, Ipupiara, Irecê, Itaguaçu da Bahia, João Dourado, Jussara, Lapão, Mulungu do Morro, Presidente Dutra, São Gabriel, Uibaí e Xique-Xique. 
 
 Altera a redação do art. 1º, item 3, da Lei nº 4.439/85 , nos limites do Município de Barro Alto com o Município de Canarana e dá outras providências.

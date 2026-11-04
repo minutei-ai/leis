@@ -1,5 +1,3 @@
-###DEL-009559-0-000-08-08-1946@@@
-
 DeCRETO-LEI N. 9.559 – DE 8 DE AGôSTO DE 1946
 
 Torna extensivo ao Ministério da Marinha o disposto no Decreto-lei número 9.511, de 24 de Julho de 1946.

@@ -1,5 +1,3 @@
-###DEL-005237-0-000-09-02-1943@@@
-
 DECRETO‑LEI N. 5.237 – DE 9 DE FEVEREIRO DE 1943
 
 Dispõe sobre a nomeação dos vogais e suplentes, representantes dos empregados e dos empregadores, nos Conselhos Regionais do Trabalho, e dá outras providências.

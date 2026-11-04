@@ -1,5 +1,3 @@
-###DEL-000128-0-000-31-01-1967@@@
-
 DECRETO-LEI Nº 128, DE 31 DE JANEIRO DE 1967
 
 Dispõe sôbre a alienação de imóveis integrantes dos acervos das emprêsas concessionárias dos serviços portuários.

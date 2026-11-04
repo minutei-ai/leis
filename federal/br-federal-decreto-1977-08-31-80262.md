@@ -1,5 +1,3 @@
-###DEC-080262-0-000-31-08-1977@@@
-
 Decreto nº 80.262, de 31 de agosto de 1977.
 
 Concede à Indústrias Brasileiras de Artigos Refratários S.A. - "IBAR" o direito de lavrar argila refratária no Município de Poços de Caldas, Estado de Minas Gerais.

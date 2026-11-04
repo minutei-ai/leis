@@ -1,14 +1,12 @@
-###DEC-019896-0-000-29-10-1945@@@
+**DECRETO Nº 19**. **896, DE 29 DE OUTUBRO DE 1945.**
 
-<strong>DECRETO Nº 19</strong>. <strong>896, DE 29 DE OUTUBRO DE 1945.</strong>
+***Concede ao Govêrno do Estado do Rio Grande do Sul um conjunto de aproveitamentos de energia hidráulica, autoriza o mesmo Govêrno a construir usinas têrmo-elétricas, e dá outras providências relativas à execução do plano de eletrificação daquele Estado.*
 
-<em><strong>Concede ao Govêrno do Estado do Rio Grande do Sul um conjunto de aproveitamentos de energia hidráulica, autoriza o mesmo Govêrno a construir usinas têrmo-elétricas, e dá outras providências relativas à execução do plano de eletrificação daquele Estado</strong></em><em>.</em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 74, letra *a*, da Constituição, e tendo em vista o disposto nos artigos 164, letra *c* e 167 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934), e no art. 10 do Decreto-lei nº 2.281, de 5 de junho de 1940,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 74, letra <em>a</em>, da Constituição, e tendo em vista o disposto nos artigos 164, letra <em>c</em> e 167 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934), e no art. 10 do Decreto-lei nº 2.281, de 5 de junho de 1940,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros, são outorgadas, sob as condições estabelecidas neste decreto, ao Govêrno do Estado do Rio Grande do Sul ou à emprêsa que, na forma da legislação vigente, organizar:
+**Art**. 1º Respeitados os direitos de terceiros, são outorgadas, sob as condições estabelecidas neste decreto, ao Govêrno do Estado do Rio Grande do Sul ou à emprêsa que, na forma da legislação vigente, organizar:
 
 a) concessão para utilização imediata do potencial hidráulico do Passo do Inferno, no rio Santa Cruz, no Município São Francisco de Paula, com a potência total aproximada de 1.600Kw;
 
@@ -36,7 +34,7 @@ l) concessão para o aproveitamento progressivo da energia hidráulica do rio An
 
 m) concessão para o aproveitamento progressivo da energia hidráulica existente no rio Guaporé, entre os municípios desse mesmo nome de Encantado e Soledade, e em suas cabeceiras, no município de Passo Fundo, à jusante de grande reprêsa, já em construção nesse município, para a regularização das águas utilizadas na atual usina hidroelétrica da Prefeitura Municipal de Passo Fundo;
 
-n) concessão para o aproveitamento dos potenciais hidráulicos existentes no rio da Prata e seus afluentes, entre os municípios de Veranópolis, Antônio Prado. Nova Prata e Lagoa Vermelha e no município de Vacaria, à jusante das acumulações para regularização das águas, interessando ao aproveitamento referido na alínea <em>k</em>;
+n) concessão para o aproveitamento dos potenciais hidráulicos existentes no rio da Prata e seus afluentes, entre os municípios de Veranópolis, Antônio Prado. Nova Prata e Lagoa Vermelha e no município de Vacaria, à jusante das acumulações para regularização das águas, interessando ao aproveitamento referido na alínea *k*;
 
 o) concessão progressiva da energia hidráulica das Cachoeiras do rio Forquilha, Município de Lagoa Vermelha, com a utilização inicial de cerca de 400Kw e final de 800Kw;
 
@@ -62,7 +60,7 @@ x) autorização para encampar, incorporar ou fundir, com assistência da Divis�
 
 § 3º No caso de surgir outro pretendente, para o aproveitamento imediato da parte não utilizada das concessões relacionadas nas alíneas dêste artigo, serão observadas as restrições constantes do parágrafos do art. 164 do Código de Águas.
 
-<strong>Art</strong>. 2º As concessões e autorizações outorgadas neste decreto, ficam sujeitas às seguintes condições que o Govêrno do Rio Grande do Sul, ou emprêsa que organizar, deve satisfazer, sob pena de caducidade:
+**Art**. 2º As concessões e autorizações outorgadas neste decreto, ficam sujeitas às seguintes condições que o Govêrno do Rio Grande do Sul, ou emprêsa que organizar, deve satisfazer, sob pena de caducidade:
 
 I - Registrar o presente decreto na Divisão de Águas, Departamento Nacional de Produção Mineral do Ministério da Agricultura, dentro do prazo de trinta (30) dias, a partir de sua publicação;
 
@@ -78,30 +76,30 @@ V - Apresentar o mesmo contrato à Divisão de Águas, para fins de registro, at
 
 § 2º Mediante requerimento do concessionário, os prazos estipulados neste artigo poderão ser ampliados, por portaria do Ministro da Agricultura, de acôrdo com o interêsse das obras e a possibilidades de sua realização.
 
-<strong>Art</strong>. 3º O prazo da presente concessão é de cinqüenta (50) anos, contados a partir da data do registro de que trata o número I do art. 2º.
+**Art**. 3º O prazo da presente concessão é de cinqüenta (50) anos, contados a partir da data do registro de que trata o número I do art. 2º.
 
-<strong>Art</strong>. 4º O capital a remunerar, chamado Investimento, será o efetivamente gasto na propriedade do concessionário, desde que em função permanente de sua indústria, concorrendo, direta ou indiretamente, para a produção, transmissão, transformação e distribuição da energia.
+**Art**. 4º O capital a remunerar, chamado Investimento, será o efetivamente gasto na propriedade do concessionário, desde que em função permanente de sua indústria, concorrendo, direta ou indiretamente, para a produção, transmissão, transformação e distribuição da energia.
 
-<strong>Art</strong>. 5º As tabelas de preço de energia serão fixadas pela Divisão de Águas no momento oportuno, e trienalmente revistas, do acôrdo com o disposto no art. 180 do Código de Águas, sendo que a justa remuneração do capital será de dez por cento ao ano (10% aa.), conforme estipulado no art. 9º do Decreto-lei número 3.128, de 19 de março de 1941.
+**Art**. 5º As tabelas de preço de energia serão fixadas pela Divisão de Águas no momento oportuno, e trienalmente revistas, do acôrdo com o disposto no art. 180 do Código de Águas, sendo que a justa remuneração do capital será de dez por cento ao ano (10% aa.), conforme estipulado no art. 9º do Decreto-lei número 3.128, de 19 de março de 1941.
 
-<strong>Art</strong>. 6º Para manutenção de integridade do capital, a que se refere o art. 8º do presente decreto, será criada uma reserva, que proverá as renovações determinadas pela depreciação ou impostas por acidentes.
+**Art**. 6º Para manutenção de integridade do capital, a que se refere o art. 8º do presente decreto, será criada uma reserva, que proverá as renovações determinadas pela depreciação ou impostas por acidentes.
 
 Parágrafo único. A constituição dessa reserva, que se denominará “reserva de renovação”, far-se-á pela aplicação de uma taxa especial sôbre o montante do consumo e demanda debitados aos consumidores, em cada mês, e inclusão do seu produto nas contas respectivas, como parcela do total, pelos mesmos devido. Esta taxa será determinada, para cada período de tarifas, pela relação entre os encargos de depreciação do investimento e a receita da operação, estimadas para o período.
 
-<strong>Art</strong>. 7º No caso de existência da emprêsa prevista no art. 1º, onde haja participação do capital privado, tôda a propriedade da concessionária, que no momento existir em função exclusiva e permanente da produção, transmissão, transformação e distribuição da energia elétrica, referente aos aproveitamentos hidroelétricas concedidos, reverterá para o Govêrno da União, para o do Estado do Rio Grande do Sul ou para os dos Municípios dêste Estado, em conformidade com os arts. 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a “reserva de renovação” a que se refere o parágrafo único do art. 6º dêste decreto.
+**Art**. 7º No caso de existência da emprêsa prevista no art. 1º, onde haja participação do capital privado, tôda a propriedade da concessionária, que no momento existir em função exclusiva e permanente da produção, transmissão, transformação e distribuição da energia elétrica, referente aos aproveitamentos hidroelétricas concedidos, reverterá para o Govêrno da União, para o do Estado do Rio Grande do Sul ou para os dos Municípios dêste Estado, em conformidade com os arts. 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a “reserva de renovação” a que se refere o parágrafo único do art. 6º dêste decreto.
 
 § 1º Se o Govêrno da União, o do Estado e os dos Municípios não fizerem uso dos seus direitos à reversão, do que fôr atribuído a cada um dêles, a emprêsa poderá requerer, ao primeiro, a renovação da concessão, no todo ou em parte, na forma que, no respectivo contrato, deverá estar prevista.
 
 § 2º A reversão das instalações termoelétricas, assim como das linhas de interligação de usinas, far-se-á para o Govêrno do Estado.
 
-<strong>Art</strong>. 8º Dois anos antes do esgotamento do prazo da concessão, referido no art. 3º dêste decreto, o Govêrno do Estado do Rio Grande do Sul, se estiver explorando diretamente a mesma, obriga-se a requerer a renovação do contrato relativo à parte não reversível para a União ou para os Municípios.
+**Art**. 8º Dois anos antes do esgotamento do prazo da concessão, referido no art. 3º dêste decreto, o Govêrno do Estado do Rio Grande do Sul, se estiver explorando diretamente a mesma, obriga-se a requerer a renovação do contrato relativo à parte não reversível para a União ou para os Municípios.
 
-<strong>Art</strong>. 9º O Govêrno do Estado do Rio Grande do Sul, ou emprêsa que organizar, na forma prevista no artigo 1º, gozará, desde a data do registro de que trata o número I do art. 2º do presente decreto, e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre o assunto.
+**Art**. 9º O Govêrno do Estado do Rio Grande do Sul, ou emprêsa que organizar, na forma prevista no artigo 1º, gozará, desde a data do registro de que trata o número I do art. 2º do presente decreto, e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre o assunto.
 
-<strong>Art</strong>. 10. Êste decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 10. Êste decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 29 de outubro de 1945; 124º da Independência e 57º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Apolonio Sales

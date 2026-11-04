@@ -1,5 +1,3 @@
-###DEL-009217-0-000-30-04-1946@@@
-
 DECRETO-LEI N. 9.217– DE 30 DE ABRIL DE 1946
 
 Revoga o Decreto-lei nº 9.080, de 20 de Março de 1946.

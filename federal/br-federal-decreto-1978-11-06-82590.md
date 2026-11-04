@@ -1,5 +1,3 @@
-###DEC-082590-0-000-06-11-1978@@@
-
 decreto nº 82.590, de 06 de novembro de 1978.
 
 Regulamenta a Lei nº 6.546, de 4 de julho de 1978, que dispõe sobre a regulamentação das profissões de Arquivista e de técnico de Arquivo.

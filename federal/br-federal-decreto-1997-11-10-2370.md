@@ -1,5 +1,3 @@
-###DEC-002370-0-000-10-11-1997@@@
-
 DECRETO Nº 2.370, DE 10 DE NOVEMBRO DE 1997
 
 Dispõe sobre a concessão de novas bolsas de estudo e de pesquisa no âmbito dos Ministérios da Educação e do Desporto e da Ciência e Tecnologia, no exercício de 1998, e dá outras providências.

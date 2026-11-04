@@ -1,5 +1,3 @@
-###DEC-088830-0-000-10-10-1983@@@
-
 Decreto nº 88.830, de 10 de outubro de 1983
 
 Renova por 10 (dez) anos a concessão outorgada à FUNDAÇÃO FREI JOÃO BATISTA VOGEL O.F.M. - RÁDIO SÃO FRANCISCO, para explorar serviço de radiodifusão sonora em onda média, na cidade de Anápolis, Estado de Goiás.

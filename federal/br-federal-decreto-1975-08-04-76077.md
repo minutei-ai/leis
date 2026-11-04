@@ -1,5 +1,3 @@
-###DEC-076077-0-000-04-08-1975@@@
-
 DECRETO Nº 76.077, DE 4 DE AGOSTO DE 1975.
 
 Aprova o Estatuto da Cruz Vermelha Brasileira.

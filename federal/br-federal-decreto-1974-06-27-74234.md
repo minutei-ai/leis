@@ -1,5 +1,3 @@
-###DEC-074234-0-000-27-06-1974@@@
-
 DECRETO Nº 74.234, DE 27 DE JUNHO de 1974.
 
 Dispõe sobre contribuições do Salário-Educação não recolhidas pela empresa que menciona.

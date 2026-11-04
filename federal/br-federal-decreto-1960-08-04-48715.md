@@ -1,5 +1,3 @@
-###DEC-048715-0-000-04-08-1960@@@
-
 DECRETO Nº 48.715, DE 4 DE AGÔSTO DE 1960.
 
 Autoriza a cessão sob o regime de aforamento, do terreno que menciona, no Estado do Rio Grande do Norte.

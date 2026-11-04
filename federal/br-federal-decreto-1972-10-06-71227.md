@@ -1,5 +1,3 @@
-###DEC-071227-0-000-06-10-1972@@@
-
 DECRETO Nº 71.227 - de 6 de Outubro de 1972.
 
 Torna em efeito redistribuição de cargo, com o respectivo ocupante, para o Quadro de Pessoal do Departamento de Polícia Federal.

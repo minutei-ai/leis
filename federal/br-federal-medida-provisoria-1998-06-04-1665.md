@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/64d3c59c-95ae-41ea-80c4-65a226a7af5d/texto#nowhere)
 
-###MPV-001665-0-000-04-06-1998@@@
-
 # MEDIDA PROvisória Nº 1.665, DE 4 DE JUNHO DE 1998
 
 Altera dispositivos da Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos e seguros privados de assistência à saúde, e dá outras providências.

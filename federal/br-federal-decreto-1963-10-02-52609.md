@@ -1,5 +1,3 @@
-###DEC-052609-0-000-02-10-1963@@@
-
 DECRETO Nº 52.609, DE 2 DE OUTUBRO DE 1963.
 
 Concede á Mineração Cabral Ltda., autorização para funcionar como Emprêsa de Mineração.

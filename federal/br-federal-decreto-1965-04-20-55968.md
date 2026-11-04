@@ -1,5 +1,3 @@
-###DEC-055968-0-000-20-04-1965@@@
-
 DECRETO Nº 55.968, DE 20 DE ABRIL DE 1965.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação dos terrenos que menciona, situados no Município de Goiás, Estado de Goiás.

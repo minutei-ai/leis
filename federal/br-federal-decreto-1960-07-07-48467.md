@@ -1,5 +1,3 @@
-###DEC-048467-0-000-07-07-1960@@@
-
 decreto nº 48.467, de 7 de julho de 1960.
 
 Concede à Emprêsa de Navegação e Comércio Acre Pará Limitada autorização para funcionar como emprêsa de navegação de cabotagem.

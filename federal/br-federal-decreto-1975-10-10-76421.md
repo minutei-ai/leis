@@ -1,5 +1,3 @@
-###DEC-076421-0-000-10-10-1975@@@
-
 DECRETO Nº 76.421, DE 10 DE OUTUBRO DE 1975.
 
 Concede à Cia Cimento Portland de Sergipe o direito de lavrar calcário nos Municípios de Nossa Senhora do Socorro e Laranjeiras, Estado de Sergipe.

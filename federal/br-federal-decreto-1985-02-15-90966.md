@@ -1,5 +1,3 @@
-###DEC-090966-0-000-15-02-1985@@@
-
 DECRETO Nº 90.966, dE 15 de fevereiro dE 1985
 
 Concede à empresa FISHCAM MARKETING S/A, autorização para funcionar na República Federativa do Brasil.

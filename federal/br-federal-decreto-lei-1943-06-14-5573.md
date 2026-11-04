@@ -1,5 +1,3 @@
-###DEL-005573-0-000-14-06-1943@@@
-
 DECRETO-LEI N. 5.573 – DE 14 DE JUNHO DE 1943
 
 Dispõe sôbre o pronunciamento do Conselho Nacional de Águas e Energia Elétrica

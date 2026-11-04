@@ -1,5 +1,3 @@
-###DEL-009192-0-000-23-04-1946@@@
-
 DECRETO-LEI N. 9.192 – DE 23 DE ABRIL DE 1946
 
 Aprova a mudança de denominação e transformação de cadeiras, no programa de ensino da Escola Nacional de Música da Universidade do Brasil.

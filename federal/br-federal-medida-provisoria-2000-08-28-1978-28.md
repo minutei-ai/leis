@@ -1,5 +1,3 @@
-###MPV-001978-0-028\-28-08-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.978-28, DE 28 de agosto DE 2000.
 
 Dispõe sobre a renegociação de dívidas no âmbito do Programa de Crédito Educativo, e dá outras providências.

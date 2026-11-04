@@ -1,5 +1,3 @@
-###DEC-094611-0-000-14-07-1987@@@
-
 DECRETO N° 94.611, 14 DE JULHO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Currais Novos", classificado no Cadastro de Imóveis Rurais do INCRA, como latifúndio por exploração, situado no Município de Barras, no Estado do Piauí, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.680, de 19 de maio de 1986, e dá outras providências.

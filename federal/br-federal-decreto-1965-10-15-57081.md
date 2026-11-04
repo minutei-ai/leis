@@ -1,5 +1,3 @@
-###DEC-057081-0-000-15-10-1965@@@
-
 DECRETO Nº 57.081, DE 15 DE OUTUBRO DE 1965.
 
 Dispõe sôbre a criação de área prioritária de emergência, para fins de Reforma Agrária, e dá outras providências.

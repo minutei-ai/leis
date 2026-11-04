@@ -1,5 +1,3 @@
-###DEC-094224-0-000-14-04-1987@@@
-
 DECRETO Nº 94.224, DE 14 DE ABRIL DE 1987.
 
 Declara de ocupação indígena e homologa a demarcação administrativa da Área Indígena Rio Branco que menciona, no Estado de São Paulo.

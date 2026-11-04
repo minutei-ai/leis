@@ -1,5 +1,3 @@
-###DEC-060202-0-000-10-02-1967@@@
-
 DECRETO Nº 60.202, DE 10 DE FEVEREIRO DE 1967.
 
 Declara de utilidade pública o “Colégio Salesiano Dom Bosco”, com sede em Piracicaba, Estado de São Paulo.

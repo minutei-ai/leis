@@ -1,5 +1,3 @@
-###DEC-077395-0-000-07-04-1976@@@
-
 DECRETO Nº 77.395 - DE 7 DE ABRIL DE 1976
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão de FURNAS - Centrais Elétricas S.A. no Estado do Rio de Janeiro.

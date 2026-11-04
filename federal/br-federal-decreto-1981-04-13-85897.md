@@ -1,5 +1,3 @@
-###DEC-085897-0-000-13-04-1981@@@
-
 Decreto nº 85.897, de 13 de abril de 1981.
 
 Dispõe sobre a estrutura básica da Superintendência Nacional da Marinha Mercante - SUNAMAM

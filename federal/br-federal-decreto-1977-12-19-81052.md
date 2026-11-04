@@ -1,5 +1,3 @@
-###DEC-081052-0-000-19-12-1977@@@
-
 DECRETO Nº 81.052, DE 19 DE DEZEMBRO DE 1977.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União a operação de crédito externo a ser contratada pela empresa de Portos do Brasil S.A. - PORTOBRÁS.

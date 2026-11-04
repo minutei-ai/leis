@@ -1,24 +1,22 @@
-###DEC-019551-0-000-03-09-1945@@@
+**DECRETO N. 19.551 – DE 3 DE SETEMBRO DE 1945**
 
-<strong>DECRETO N. 19.551 – DE 3 DE SETEMBRO DE 1945</strong>
+***Altera a lotação do Ministério da Agricultura***
 
-<em><strong>Altera a lotação do Ministério da Agricultura</strong></em>
+O Presidente da República, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-O Presidente da República, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art.</strong> 1º Fica alterada a lotação numérica das repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura, da seguinte maneira:
+**Art.** 1º Fica alterada a lotação numérica das repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura, da seguinte maneira:
 
 I – a carreira de Agrônomo Fitos-sanitarista passa a figurar na lotação permanente com 56 cargos, assim distribuídos:
 
-<strong>Departamento Nacional da Produção Vegetal</strong>
+**Departamento Nacional da Produção Vegetal**
 
-<strong>Divisão de Defesa Sanitária Vegetal:</strong>
+**Divisão de Defesa Sanitária Vegetal:**
 
 Diretoria e Seções da sede............................................................................................................................. 18
 
-<strong>Postos de Defesa Sanitária Vegetal:</strong>
+**Postos de Defesa Sanitária Vegetal:**
 
 Distrito Federal ..................................................................................................................................................3
 
@@ -36,7 +34,7 @@ Pôrto Alegre ..................................................................
 
 Rio Grande ........................................................................................................................................................1
 
-<strong>Postos de Defesa Agrícola:</strong>
+**Postos de Defesa Agrícola:**
 
 Paraíba ............................................................................................................................................................ 1
 
@@ -56,7 +54,7 @@ Santa Catarina .................................................................
 
 Seção de Investigação Fitossanitária de S. Bento ........................................................................................ 15
 
-<strong>Centro Nacional de Ensino e Pesquisas Agronômicas</strong>
+**Centro Nacional de Ensino e Pesquisas Agronômicas**
 
 Serviço Nacional de Pesquisas Agronômicas:
 
@@ -68,12 +66,12 @@ II – Os cargos isolados, de provimento em comissão, de Administrador de Núcl
 
 III – com as alterações dos itens anteriores, passa a lotação numérica das repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura a figurar com um total de 3.665 cargos, sendo 2.984 na lotação permanente e 681 na lotação suplementar.
 
-<strong>Art.</strong> 2º Êste Decreto vigorará partir do dia 1 de setembro de 1945.
+**Art.** 2º Êste Decreto vigorará partir do dia 1 de setembro de 1945.
 
-<strong>Art.</strong> 3º Revogam-se as disposições em contrário.
+**Art.** 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 3 de setembro de 1945, 124º da Independência e 57º da República.
 
-<strong>GETULIO VARGAS.</strong>
+**GETULIO VARGAS.**
 
 Apolonio Salles.

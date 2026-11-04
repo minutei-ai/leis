@@ -1,5 +1,3 @@
-###DEC-080612-0-000-25-10-1977@@@
-
 DECRETO Nº 80.612, DE 25 DE OUTUBRO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à implantação da subestação de Siderópolis da Centrais Elétricas de Santa Catarina S.A. - CELESC, no Estado de Santa Catarina.

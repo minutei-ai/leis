@@ -1,5 +1,3 @@
-###DEC-045719-0-000-06-04-1959@@@
-
 DECRETO Nº 45.719, DE 6 DE ABRIL DE 1959.
 
 Autoriza a cidadã brasileira Josepha Cerqueira Leite a pesquisar minério de ferro e manganês no município de Raposos, Estado de Minas Gerais.

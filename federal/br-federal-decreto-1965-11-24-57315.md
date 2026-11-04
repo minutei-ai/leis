@@ -1,5 +1,3 @@
-###DEC-057315-0-000-24-11-1965@@@
-
 DECRETO Nº 57.315, de 24 de novembro de 1965.
 
 Aprova a alteração introduzida nos Estatutos da Pátria Companhia Brasileira de Seguros Gerais. Relativa ao aumento do capital social.

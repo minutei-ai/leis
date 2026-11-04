@@ -1,5 +1,3 @@
-###DEC-056835-0-000-03-09-1965@@@
-
 DECRETO Nº 56.835, DE 3 DE SETEMBRO DE 1965.
 
 Cria o “Fundo Geral para Agricultura e Indústria” - FUNAGRI - e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-006447-0-000-07-05-2008@@@
-
 DECRETO Nº 6.447, DE 7 DE MAIO DE 2008.
 
 Regulamenta o art. 19 da Lei no 10.696, de 2 de julho de 2003, que institui o Programa de Aquisição de Alimentos.
@@ -93,5 +91,3 @@ Paulo Bernardo Silva
 Patrus Ananias
 
 Guilherme Cassel
-
-Este texto não substitui o publicado no DOU de 8.5.2008

@@ -1,5 +1,3 @@
-###DEC-044858-0-000-21-11-1958@@@
-
 DECRETO Nº 44.858, DE 21 DE NOVEMBRO DE 1958.
 
 Declara de utilidade pública, para efeito de desapropriação, a área mencionada.

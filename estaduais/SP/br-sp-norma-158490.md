@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/158490)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2009/compilacao-lei-13835-30.11.2009.html)
 
 # LEI N° 13.835, DE 30 DE NOVEMBRO DE 2009

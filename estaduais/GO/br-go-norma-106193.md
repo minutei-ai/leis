@@ -94,8 +94,6 @@ II – 1º de junho de 2022, quanto aos arts. 167– Q e 248– M.
 
 Goiânia, 21 de outubro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

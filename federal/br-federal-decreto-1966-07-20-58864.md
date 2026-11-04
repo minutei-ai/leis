@@ -1,5 +1,3 @@
-###DEC-058864-0-000-20-07-1966@@@
-
 DECRETO Nº 58.864, DE 20 DE JULHO DE 1966.
 
 Concede autorização para o funcionamento da Faculdade de Direito de Barra Mansa, Estado do Rio de Janeiro.

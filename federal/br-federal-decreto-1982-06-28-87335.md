@@ -1,5 +1,3 @@
-###DEC-087335-0-000-28-06-1982@@@
-
 Decreto nº 87.335, de 28 de junho de 1982
 
 Dispõe sobre autonomia administrativa, financeira e técnica do Departamento de Imprensa Nacional e dá outras providências.

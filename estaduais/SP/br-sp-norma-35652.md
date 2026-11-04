@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/35652)<br>
-
 # LEI N° 3.004, DE 17 DE SETEMBRO DE 1981
 
 ### _Dá a denominação de "Othogamiz Luiz Arantes" à Casa da Agricultura de Votuporanga_

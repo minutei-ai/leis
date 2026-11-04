@@ -1,5 +1,3 @@
-###DEC-048596-0-000-22-07-1960@@@
-
 DECRETO Nº 48.596, de 22 DE Julho DE 1960.
 
 Cria o núcleo Colonial Dom Marcolino Dantas em terras situadas no Município de Maxaranguape, no Estado do Rio Grande do Norte.

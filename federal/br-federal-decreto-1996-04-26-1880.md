@@ -1,5 +1,3 @@
-###DEC-001880-0-000-26-04-1996@@@
-
 DECRETO Nº 1.880, DE 26 DE ABRIL DE 1996
 
 Dispõe sobre a execução do Vigésimo Protocolo Adicional ao Acordo Comercial Nº 18, Setor da Indústria Fotográfica, entre Brasil e Venezuela, de 30 de dezembro de 1994.

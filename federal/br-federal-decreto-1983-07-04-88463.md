@@ -1,5 +1,3 @@
-###DEC-088463-0-000-04-07-1983@@@
-
 Decreto nº 88.463, dE 04 de JUlho de 1983
 
 Cria a Reserva Ecológica Ilha dos Lobos, e dá outras previdências.

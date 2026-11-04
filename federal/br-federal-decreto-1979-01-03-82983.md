@@ -1,5 +1,3 @@
-###DEC-082983-0-000-03-01-1979@@@
-
 Decreto nº 82.983, de 03 de janeiro de 1979
 
 Concede reconhecimento ao curso de Administração da Faculdade de Ciências Econômicas do Triângulo Mineiro, com sede na cidade de Uberaba, Estado de Minas Gerais.

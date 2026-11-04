@@ -1,5 +1,3 @@
-###DEC-044985-0-000-02-12-1958@@@
-
 DECRETO Nº 44.985, DE 2 DE DEZEMBRO DE 1958.
 
 Autoriza a Companhia de Mineração Novalimense a lavrar minério de ferro no município de Brumadinho, Estado de Minas Gerais.

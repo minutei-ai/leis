@@ -1,5 +1,3 @@
-###DEC-048968-0-000-26-09-1960@@@
-
 DECRETO Nº 48.968, DE 26 DE SETEMBRO DE 1960.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$210.000.000,00, para o fim que menciona.

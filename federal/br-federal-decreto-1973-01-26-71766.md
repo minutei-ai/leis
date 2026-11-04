@@ -1,5 +1,3 @@
-###DEC-071766-0-000-26-01-1973@@@
-
 DECRETO Nº 71.766, DE 26 DE JANEIRO DE 1973.
 
 Autoriza o funcionamento da Faculdade de Educação Antônio Augusto Reis Neves, da Associação Universitária Soares de Oliveira, Barretos, São Paulo.

@@ -1,5 +1,3 @@
-###DEC-084557-0-000-12-03-1980@@@
-
 Decreto nº 84.557, de 12 de março de 1980.
 
 Regulamenta o Decreto-lei nº 1.177, de 21 de junho de 1971, que dispõe sobre aerolevantamento no território nacional e dá outras providências.

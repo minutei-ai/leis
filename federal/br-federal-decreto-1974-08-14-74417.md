@@ -1,5 +1,3 @@
-###DEC-074417-0-000-14-08-1974@@@
-
 DECRETO Nº 74.417, DE 14 DE AGOSTO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Difusora Paraná Ltda., para executar serviço de radiodifusão sonora em onda tropical, na Cidade de Londrina, Estado do Paraná.

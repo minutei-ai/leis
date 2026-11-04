@@ -1,5 +1,3 @@
-###DEC-094009-0-000-09-02-1987@@@
-
 DECRETO Nº 94.009, DE 09 DE FEVEREIRO DE 1987
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA, a doar o imóvel que menciona.

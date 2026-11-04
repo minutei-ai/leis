@@ -1,5 +1,3 @@
-###DEL-005044-0-000-04-12-1942@@@
-
 DECRETO-LEI N. 5.044 – DE 4 DE DEZEMBRO DE 1942
 
 Cria a Superintendência de Abastecimento do Vale Amazônico (S. A. V. A.), e dá outras providências

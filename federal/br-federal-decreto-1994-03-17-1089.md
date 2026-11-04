@@ -1,7 +1,3 @@
-1
-
-###DEC-001089-0-000-17-03-1994@@@
-
 DECRETO Nº 1.089, DE 17 DE MARÇO DE 1994
 
 Dispõe sobre o cancelamento da autorização concedida ao Deutsche Bank Aktiengesellschaft para funcionar no País.

@@ -1,5 +1,3 @@
-###DEC-005816-0-000-26-06-2006@@@
-
 DECRETO Nº 5.816, DE 26 DE JUNHO DE 2006.
 
 Promulga o Memorando de Entendimento entre o Governo da República Federativa do Brasil e o Governo da República da Índia referente à Cooperação Tecnológica na Área de Mistura de Etanol em Combustíveis para Transportes, celebrado em Nova Delhi, em 8 de abril de 2002.
@@ -24,11 +22,7 @@ Brasília, 26 de junho de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 27.6.2006.
-
-MEMORANDO DE ENTENDIMENTO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DA ÍNDIA REFERENTE A COOPERAÇÃO TECNOLÓGICA NA ÁREA DE MISTURA DE ETANOL EM COMBUSTÍVEIS PARA TRANSPORTES
+        Celso Luiz Nunes AmorimMEMORANDO DE ENTENDIMENTO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DA ÍNDIA REFERENTE A COOPERAÇÃO TECNOLÓGICA NA ÁREA DE MISTURA DE ETANOL EM COMBUSTÍVEIS PARA TRANSPORTES
 
                         O Governo da República Federativa do Brasil
 

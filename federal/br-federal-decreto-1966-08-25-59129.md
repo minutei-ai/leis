@@ -1,5 +1,3 @@
-###DEC-059129-0-000-25-08-1966@@@
-
 DECRETO Nº 59.129, DE 25 DE AGôSTO DE 1966.
 
 Autoriza o cidadão brasileiro Helvécio de Jesus Resende Chaves a pesquisar cassiterita no município de Resende Costa, Estado de Minas Gerais.

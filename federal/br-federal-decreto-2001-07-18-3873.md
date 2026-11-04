@@ -1,5 +1,3 @@
-###DEC-003873-0-000-18-07-2001@@@
-
 DECRETO Nº 3.873, DE 18 DE JULHO DE 2001
 
  Altera o art. 61 do Regulamento da Agência Nacional de Telecomunicações, aprovado pelo Decreto nº 2.338, de 7 de outubro de 1997.

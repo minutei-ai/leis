@@ -1,5 +1,3 @@
-###DEC-046290-0-000-29-06-1959@@@
-
 DECRETO Nº 46.290, DE 29 DE junho DE 1959.
 
 Autoriza o cidadão brasileiro. Gileno de Carli, a pesquisar quartzo no município de Galiléia, Estado de Minas Gerais.

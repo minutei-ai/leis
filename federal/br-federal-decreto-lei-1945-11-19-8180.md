@@ -1,5 +1,3 @@
-###DEL-008180-0-000-19-11-1945@@@
-
 DECRETO-LEI N. 8.180 – DE 19 DE NOVEMBRO DE 1945
 
 Reorganiza o quadro de Intendência da Aeronáutica

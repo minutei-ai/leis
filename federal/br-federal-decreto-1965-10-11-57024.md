@@ -1,5 +1,3 @@
-###DEC-057024-0-000-11-10-1965@@@
-
 DECRETO Nº 57.024, DE 11 DE OUTUBRO DE 1965.
 
 Autoriza a Companhia Paulista de Fôrça e Luz a ampliar suas instalações.

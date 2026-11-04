@@ -1,5 +1,3 @@
-###DEC-060324-0-000-08-03-1967@@@
-
 Decreto Nº 60.324, de 8 de março de 1967.
 
 Revoga o Decreto nº 849, de 6 de abril de 1962.

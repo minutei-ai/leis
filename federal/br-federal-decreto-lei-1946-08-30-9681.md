@@ -1,5 +1,3 @@
-###DEL-009681-0-000-30-08-1946@@@
-
 DECRETO-LEI N. 9.681 – DE 30 DE AGÔSTO DE 1946
 
 Autoriza a emissão de Obrigações Portuárias e dá outras providências.

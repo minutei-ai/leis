@@ -1,5 +1,3 @@
-###DEC-004845-0-000-24-09-2003@@@
-
 DECRETO Nº 4.845,  DE 24 DE SETEMBRO DE 2003.
 
        Altera o art. 9º do Regulamento da Previdência Social, aprovado pelo Decreto nº 3.048, de 6 de maio de 1999, e estabelece a regra de direito intertemporal de aplicação da alteração.
@@ -28,5 +26,6 @@ II \- a pessoa física, proprietária ou não, que explora atividade agropecu�
 
         Brasília, 24 de setembro de 2003; 182º da Independência e 115º da República.
 
-JOSÉ ALENCAR GOMES DA SILVA<br>
+JOSÉ ALENCAR GOMES DA SILVA
+
 Ricardo Jose Ribeiro Berzoini

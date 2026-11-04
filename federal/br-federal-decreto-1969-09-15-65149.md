@@ -1,5 +1,3 @@
-###DEC-065149-0-000-15-09-1969@@@
-
 DECRETO Nº 65.149 - DE 15 DE setemBRO DE 1969.
 
 Declara caduco o Decreto nº 15.648, de 24 de maio de 1944.

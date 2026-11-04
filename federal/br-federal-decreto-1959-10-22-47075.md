@@ -1,5 +1,3 @@
-###DEC-047075-0-000-22-10-1959@@@
-
 DECRETO Nº 47.075, DE 22 DE OUTUBRO DE 1959.
 
 Revoga o Decreto nº 16.996, de 26 de outubro de 1944.

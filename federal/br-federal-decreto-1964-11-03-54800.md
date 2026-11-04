@@ -1,5 +1,3 @@
-###DEC-054800-0-000-03-11-1964@@@
-
 DECRETO Nº 54.800, DE 3 NOVEMBRO DE 1964.
 
 Autoriza Águas Minerais Naturais Limitada a pesquisar água mineral no município de Nova Iguaçu, Estado do Rio de Janeiro.

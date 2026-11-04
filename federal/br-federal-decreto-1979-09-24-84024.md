@@ -1,5 +1,3 @@
-###DEC-084024-0-000-24-09-1979@@@
-
 decreto nº 84.024, de setembro de 1979.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Serra Negra, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-006258-0-000-10-02-1944@@@
-
 DECRETO-LEI N. 6.258 – DE 10 DE FEVEREIRO DE 1944
 
 Abra ao Ministério da Fazenda o crédito especial de Cr$ 8.311.412,10, para atender à restituição devida ao Estado do Ceará

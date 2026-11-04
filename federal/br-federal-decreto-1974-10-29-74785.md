@@ -1,5 +1,3 @@
-###DEC-074785-0-000-29-10-1974@@@
-
 DECRETO Nº 74.785, DE 29 de outubro DE 1974.
 
 Torna sem efeito o aproveitamento de disponível no Quadro Único de Pessoal da Universidade Federal do Rio de Janeiro, e dá outras providências.

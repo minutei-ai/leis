@@ -1,5 +1,3 @@
-###DEC-004065-0-000-27-12-2001@@@
-
 DECRETO Nº 4.065, DE 27 DE DEZEMBRO DE 2001
 
 Desvincula ações do Fundo Nacional de Desestatização - FND, de que trata o art. 9o da Lei no 9.491, de 9 de setembro de 1997, autoriza o aumento de capital social da Companhia Docas do Rio de Janeiro - CDRJ, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-089907-0-000-03-07-1984@@@
-
 Decreto nº 89.907, de 03 de julho de 1984
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Santa Luzia", situado no Município de Guia Lopes da Laguna, no Estado de Mato Grosso do Sul, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 89.906, de 03 de julho de 1984.

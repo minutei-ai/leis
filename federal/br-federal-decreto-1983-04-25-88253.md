@@ -1,5 +1,3 @@
-###DEC-088253-0-000-25-04-1983@@@
-
 Decreto nº 88.253, de 25 de abril de 1983
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO GLOBO S.A., para explorar serviço de radiodifusão sonora em onda média de âmbito nacional, na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

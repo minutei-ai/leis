@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/18cbc722-247e-4258-b904-dc42c90f4465/texto#nowhere)
 
-###DEL-001871-0-000-08-05-1981@@@
-
 # Decreto-lei nº 1.871, 08 dE maio de 1981.
 
 Dispõe sobre a isenção de impostos e taxas nas importações realizadas pela PRÓLOGO S.A. PRODUTOS ELETRÔNICOS.

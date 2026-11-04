@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74979)
-
 # LEI COMPLEMENTAR Nº 1.032, DE 28 DE DEZEMBRO DE 2007
 
 ### _O subsídio mensal dos Procuradores de Justiça passa a corresponder a noventa inteiros e vinte e cinco centésimos por cento do subsídio mensal dos Ministros do Supremo Tribunal Federal_

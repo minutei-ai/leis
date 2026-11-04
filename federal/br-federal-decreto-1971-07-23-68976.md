@@ -1,5 +1,3 @@
-###DEC-068976-0-000-23-07-1971@@@
-
 DECRETO Nº 68.976, DE 23 DE JULHO DE 1971.
 
 Declara de utilidade pública, para desapropriação, imóveis situados às Ruas Bellini e Murajuba, Vila Madalena - bairro Pinheiros e Avenida General Waldomiro Lima - Parque Vila Jabaquara, Município de São Paulo, Estado de São Paulo.

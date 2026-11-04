@@ -1,5 +1,3 @@
-###DEC-083366-0-000-23-04-1979@@@
-
 DECRETO Nº 83.366, DE 23 DE ABRIL DE 1979.
 
 Altera dispositivos do Decreto nº 71.727, de 17 de janeiro de 1973, alterado pelos Decretos nºs 75.635, de 18 de abril de 1975, 75.689, de 2 de maio de 1975, 78.673, de 5 de novembro de 1976, 81.658, de 15 de maio de 1978, e 81.960, de 11 de julho de 1978, que regulamenta, para a Marinha, a Lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções de Oficiais da ativa das Forças Armadas.

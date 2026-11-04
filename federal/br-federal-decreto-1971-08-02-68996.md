@@ -1,5 +1,3 @@
-###DEC-068996-0-000-02-08-1971@@@
-
 decreto nº 68.996, de 2 de AGÔSTO de 1971.
 
 Cria o Colégio Militar de Manaus e dá outras providências.

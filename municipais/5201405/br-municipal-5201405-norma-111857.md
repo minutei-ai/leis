@@ -20,13 +20,16 @@ V – não ter sofrido penalidade em processo administrativo disciplinar nos úl
 
 Parágrafo único. Circunstâncias excepcionais não previstas nesta Lei e que tenham influído na não manutenção ou na queda de proficiência serão analisadas pela SME, desde que sejam comunicadas antecipadamente.” (NR)
 
-“Art.18.....................................................................................................<br>
+“Art.18.....................................................................................................
+
 ........................................................................................................................................
 
-V – ser ou ter sido integrante do quadro funcional da instituição na qual pretende se candidatar, por período mínimo de 6 (seis) meses da lotação até a data de inscrição no pleito eleitoral;<br>
+V – ser ou ter sido integrante do quadro funcional da instituição na qual pretende se candidatar, por período mínimo de 6 (seis) meses da lotação até a data de inscrição no pleito eleitoral;
+
 ........................................................................................................................................
 
-VIII – participar de curso de capacitação sobre gestão escolar, com carga horária mínima de 40 (quarenta) horas, oferecido pela Secretaria Municipal de Educação no ano da eleição, com aproveitamento mínimo de 7.0 (sete) e frequência de, no mínimo, 75% (setenta e cinco por cento), e ser eleitor no Município de Aparecida de Goiânia;<br>
+VIII – participar de curso de capacitação sobre gestão escolar, com carga horária mínima de 40 (quarenta) horas, oferecido pela Secretaria Municipal de Educação no ano da eleição, com aproveitamento mínimo de 7.0 (sete) e frequência de, no mínimo, 75% (setenta e cinco por cento), e ser eleitor no Município de Aparecida de Goiânia;
+
 ..........................................................................................................................................
 
 § 1º O candidato ao cargo de Coordenador-Geral, que poderá compor a chapa, deverá ser servidor efetivo e estável, podendo ser professor ou ocupante de cargo previsto na Lei Complementar nº 95, de 2014, desde que possua, no mínimo, o ensino médio completo e tenha sido lotado por, pelo menos, 6 (seis) meses, na unidade escolar em que pretende se candidatar, observados os demais requisitos desta Lei.” (NR)
@@ -49,5 +52,6 @@ Aparecida de Goiânia, 8 de maio de 2025.
 
  
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia

@@ -1,5 +1,3 @@
-###DEC-072069-0-000-10-04-1973@@@
-
 DECRETO Nº 72.069 - DE 20 DE ABRIL DE 1973
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à construção de uma subestação no município de Nova Friburgo, no Estado do Rio de Janeiro.

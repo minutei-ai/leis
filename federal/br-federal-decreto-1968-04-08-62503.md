@@ -1,5 +1,3 @@
-###DEC-062503-0-000-08-04-1968@@@
-
 DECRETO Nº 62.503, DE 8 DE ABRIL DE 1968.
 
 Declara de interêsse social, para fins de desapropriação, imóvel rural situado no Município de São Francisco de Assis, no Estado do Rio Grande do Sul.

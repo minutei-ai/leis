@@ -1,5 +1,3 @@
-###DEC-092777-0-000-12-06-1986@@@
-
 DECRETO Nº 92.777, DE 12 DE JUNHO DE 1986
 
 Outorga concessão à TV PAMPA ZONA SUL LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Pelotas, Estado do Rio Grande do Sul.

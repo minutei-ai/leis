@@ -1,5 +1,3 @@
-###DEC-071886-0-000-09-03-1973@@@
-
 DECRETO Nº 71.886, de 9 DE MARÇO DE 1973.
 
 Autoriza o funcionamento da Escola Superior de Educação Física de Catanduva - SP.

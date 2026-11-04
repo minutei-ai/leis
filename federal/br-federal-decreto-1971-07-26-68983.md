@@ -1,5 +1,3 @@
-###DEC-068983-0-000-26-07-1971@@@
-
 DECRETO Nº 68.983, DE 26 DE JULHO DE 1971.
 
 Aprova os Programas de Pesquisas Tecnológicas e de Estudos Técnico-Econômicos da Comissão Executiva do Sal do Ministério da Indústria e do Comércio e dá outras providências.

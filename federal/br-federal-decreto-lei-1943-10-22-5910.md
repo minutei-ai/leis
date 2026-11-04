@@ -1,5 +1,3 @@
-###DEL-005910-0-000-22-10-1943@@@
-
 DECRETO‑LEI N. 5.910 – DE 22 DE OUTUBRO DE 1943
 
 Abre ao Ministério da Fazenda o crédito de Cr$ 156.000,00 para despesa com a execução de serviços relacionados com a subscrição das “Obrigações de Guerra”.

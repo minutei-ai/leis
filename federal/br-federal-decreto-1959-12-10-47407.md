@@ -1,5 +1,3 @@
-###DEC-047407-0-000-10-12-1959@@@
-
 DECRETO Nº 47.407, DE 10 DE DEZEMBRO DE 1959.
 
 Abre, pelo Ministério do Trabalho, Indústria e Comércio o crédito especial de Cr$100.000,00 para os fins que especifica.

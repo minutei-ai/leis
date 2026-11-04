@@ -1,5 +1,3 @@
-###DEC-048967-0-000-26-09-1960@@@
-
 decreto nº 48.967, de 26 de setembro de 1960.
 
 Prorroga prazo para conclusão de rodovia.

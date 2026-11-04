@@ -1,5 +1,3 @@
-###DEL-004049-0-000-23-01-1942@@@
-
 DECRETO-LEI N. 4.049 – DE 23 DE JANEIRO DE 1942
 
 Regulariza a situação de professores catedráticos do Ministério da Educação e Saúde, com exercício no Colégio Floriano

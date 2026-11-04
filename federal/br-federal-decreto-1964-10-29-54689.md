@@ -1,5 +1,3 @@
-###DEC-054689-0-000-29-10-1964@@@
-
 DECRETO Nº 54.689, DE 29 DE OUTUBRO DE 1964.
 
 Concede permissão à Incisa S.A. Indústria e Comércio, estabelecida na cidade de Rio Grande, Estado do Rio Grande do Sul, para funcionar com suas seções de produção de ácido sulfúrico, bem como as seções supridoras de energia e matéria-prima, em caráter permanente, nos dias de domingos e feriados civis e religiosos.

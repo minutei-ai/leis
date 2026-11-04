@@ -2,7 +2,11 @@ Modificada pelas Leis nº [4.290, de 27 de Dezembro de 2023;](https://legis.ac.g
 
 > **LEI Nº 3.885, DE 17 DE DEZEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a política de gestão patrimonial dos bens imóveis do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a política de gestão patrimonial dos bens imóveis do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -82,7 +86,7 @@ Modificada pelas Leis nº [4.290, de 27 de Dezembro de 2023;](https://legis.ac.g
 
 **XXIII -** outorga: compreende a concessão de direito real de uso, mediante concessão administrativa de uso, permissão de uso e autorização de uso de bens imóveis públicos. (Incluído pela Lei nº 4.290, de 27/12/2023)
 
-**~~Art. 3º~~** ~~Os recursos oriundos de alienação de bens imóve~~~~is públicos, bem como aqueles advindos de cessão de uso, concessão de uso, permissão de uso e autorização de uso, deverão ser destinados a fundo de natureza especial ou conta separada do tesouro estadual, criado (a) e gerenciado (a) pela Secretaria de Estado de Planejamento e Gestão - SEPLAG, com o objetivo exclusivo de cobertura para projetos de modernização da administração pública, vedada a destinação para o financiamento de despesa corrente, salvo se destinada por lei aos regimes de previdência social, geral e próprio dos servidores públicos.~~
+**~~Art. 3º~~** ~~Os recursos oriundos de alienação de bens imóveis públicos, bem como aqueles advindos de cessão de uso, concessão de uso, permissão de uso e autorização de uso, deverão ser destinados a fundo de natureza especial ou conta separada do tesouro estadual, criado (a) e gerenciado (a) pela Secretaria de Estado de Planejamento e Gestão - SEPLAG, com o objetivo exclusivo de cobertura para projetos de modernização da administração pública, vedada a destinação para o financiamento de despesa corrente, salvo se destinada por lei aos regimes de previdência social, geral e próprio dos servidores públicos.~~
 
 **~~Art. 3º~~** ~~Os recursos oriundos da alienação, locação, cessão, concessão, permissão e autorização de uso de bens imóveis públicos devem ser destinados a fundo de natureza especial ou conta separada do tesouro estadual, sob a administração do órgão central de gestão, vedada sua utilização para custeio de despesas correntes, salvo se destinadas por lei aos regimes de previdência social, geral e próprio de servidores públicos. (Redação dada pela Lei nº 4.290, de 27/12/2023)~~
 
@@ -92,15 +96,9 @@ Modificada pelas Leis nº [4.290, de 27 de Dezembro de 2023;](https://legis.ac.g
 
 **§ 1º** O Fundo de que trata o _caput_ fica vinculado ao órgão central de gestão. (Redação dada pela Lei nº 4.820, de 23/07/2026)
 
-<br>
-
 **§ 2º** Os recursos do Fundo devem ser aplicados de acordo com a sua natureza, admitindo-se o pagamento de despesas de capital e despesas correntes estritamente necessárias à sua administração, arrecadação, operacionalização, manutenção, conservação, regularização e fiscalização patrimonial. (Incluído pela Lei nº 4.820, de 23/07/2026)
 
-<br>
-
 **§ 3º** Os recursos oriundos da alienação de bens imóveis adquiridos em processos judiciais ou por dação em pagamento possuem destinação livre para despesas correntes, observando-se o disposto na legislação orçamentária e financeira. (Incluído pela Lei nº 4.820, de 23/07/2026)
-
-<br>
 
 **Art. 4º** O sistema de gestão do patrimônio imobiliário estadual compreende:
 
@@ -168,15 +166,9 @@ Modificada pelas Leis nº [4.290, de 27 de Dezembro de 2023;](https://legis.ac.g
 
 **§ 1º** O Governador poderá editar ato delegando aos dirigentes máximos de órgãos e entidades da administração pública estadual direta e indireta para praticar atos ordinatórios, atos de mera execução, representação institucional perante órgãos e entidades de outros Poderes e de outros entes federativos, bem como assinar termos e documentos relativos à gestão patrimonial imobiliária que não importem disposição do patrimônio. (Redação dada pela Lei nº 4.820, de 23/07/2026)
 
-<br>
-
 **§ 1º-A** É vedada a delegação de atos de alienação, doação, permuta, dação em pagamento e quaisquer outros atos de disposição patrimonial, bem como de atos que dependam de autorização legislativa. (Incluído pela Lei nº 4.820, de 23/07/2026)
 
-<br>
-
 **§ 2º** Para fins de inventário, registro contábil e regularização documental, inexistindo avaliação do valor de mercado, os órgãos e entidades da administração pública estadual direta e indireta podem adotar, provisoriamente, o valor venal adotado para fins tributários. (Incluído pela Lei nº 4.290, de 27/12/2023)
-
-<br>
 
 **Art. 5º** Às entidades da administração pública estadual indireta, constituídas ou mantidas pelo Poder Executivo, é assegurada a autonomia patrimonial, observadas as seguintes regras:
 
@@ -191,8 +183,6 @@ Modificada pelas Leis nº [4.290, de 27 de Dezembro de 2023;](https://legis.ac.g
 **~~Parágrafo único.~~** ~~No caso de extinção de entidades da administração pública estadual indireta, o seu patrimônio imobiliário será formalmente transferido ao órgão ou entidade da administração pública estadual direta ou indireta, indicado pela lei de extinção, com a baixa nos respectivos registros contábeis e patrimoniais.~~
 
 **§ 1º** No caso de extinção de entidades da administração pública estadual indireta, o seu patrimônio imobiliário reverte para a administração pública estadual direta, sob a gestão do órgão central de gestão, salvo se a própria lei de extinção lhe atribuir destinação diversa, devendo-se proceder aos ajustes contábeis e patrimoniais cabíveis. (Redação dada pela Lei nº 4.290, de 27/12/2023)
-
-<br>
 
 **§ 2º** Para os fins do § 1º, compete ao liquidante proceder à transferência dos bens imóveis públicos junto ao registro de imóveis. (Incluído pela Lei nº 4.290, de 27/12/2023)
 
@@ -221,8 +211,6 @@ Modificada pelas Leis nº [4.290, de 27 de Dezembro de 2023;](https://legis.ac.g
 **CAPÍTULO II**
 
 **Aquisição Imobiliária**
-
-<br>
 
 **SEÇÃO I**
 
@@ -344,17 +332,11 @@ Modificada pelas Leis nº [4.290, de 27 de Dezembro de 2023;](https://legis.ac.g
 
 **§ 3º** Quando não for exigida averbação em matrícula, o órgão central de gestão poderá formalizar a afetação de bens imóveis públicos, por meio do termo de que trata o _caput_, publicado no Diário Oficial do Estado. (Redação dada pela Lei nº 4.820, de 23/07/2026)
 
-<br>
-
 **~~§ 4º~~** ~~O órgão ou entidade ao qual estiver afetado formal ou tacitamente o bem imóvel público apenas se desincumbirá das respectivas obrigações e responsabilidades a partir da sua formal e efetiva devolução ao órgão central de gestão, ficando obrigado à guarda e ao pagamento das despesas incidentes pelo uso do bem até seu recebimento. (Incluído pela Lei nº 4.290, de 27/12/2023)~~
 
 **§ 4º** O órgão ou entidade ao qual estiver afetado, formalmente ou por uso informal, o bem imóvel público, apenas se desincumbirá das respectivas obrigações e responsabilidades a partir da sua formal e efetiva devolução ao órgão central de gestão, ficando obrigado à guarda e ao pagamento das despesas incidentes pelo uso do bem até seu recebimento. (Redação dada pela Lei nº 4.820, de 23/07/2026)
 
-<br>
-
 **§ 5º** A desafetação somente ocorrerá, efetivamente, quando da assinatura do termo de vistoria e recebimento do bem imóvel público por parte do órgão central de gestão. (Incluído pela Lei nº 4.290, de 27/12/2023)
-
-<br>
 
 **CAPÍTULO IV**
 
@@ -458,8 +440,6 @@ Modificada pelas Leis nº [4.290, de 27 de Dezembro de 2023;](https://legis.ac.g
 
 **§ 2º** No caso do § 1º deste artigo, as atividades a serem desenvolvidas pelo permissionário não podem beneficiar grupos sociais específicos ou fazer distinção quanto à cor, raça, religião, sexualidade, trabalho e grau de instrução dos beneficiários.
 
-<br>
-
 **§ 3º** Havendo prazo determinado de duração, a permissão de uso adquire natureza contratual, exigindo licitação e não podendo a vigência do contrato exceder a vinte anos, incluída eventual prorrogação. (Incluído pela Lei nº 4.290, de 27/12/2023)
 
 **SEÇÃO V**
@@ -484,8 +464,6 @@ Modificada pelas Leis nº [4.290, de 27 de Dezembro de 2023;](https://legis.ac.g
 
 **§ 2º** A decisão sobre a autorização de uso caberá ao órgão ou entidade responsável pelo bem imóvel público estadual, submetida à homologação do órgão central de gestão.
 
-<br>
-
 **§ 3º** Mediante justificativa de interesse público, poderá ser prorrogado o prazo de que trata o inciso II do _caput_. (Incluído pela Lei nº 4.642, de 07/08/2025)
 
 **~~SEÇÃO VI~~**
@@ -498,27 +476,17 @@ Modificada pelas Leis nº [4.290, de 27 de Dezembro de 2023;](https://legis.ac.g
 
 (Redação dada pela Lei nº 4.290, de 27/12/2023)
 
-<br>
-
-**~~Art. 17.~~** ~~As infor~~~~mações relativas às cessões de uso, concessões de uso, permissões de uso e autorizações de uso, deverão ser encaminhadas ao órgão central de gestão para fins de registro e homologação.~~
+**~~Art. 17.~~** ~~As informações relativas às cessões de uso, concessões de uso, permissões de uso e autorizações de uso, deverão ser encaminhadas ao órgão central de gestão para fins de registro e homologação.~~
 
 **Art. 17.** Os atos, contratos e respectivos aditivos referentes às aquisições, alienações, outorgas de uso e locações de bens imóveis deverão ser encaminhadas ao órgão central de gestão para fins de registro e gestão patrimonial. (Redação dada pela Lei nº 4.290, de 27/12/2023)
 
-<br>
-
 **Art. 17-A.** A outorga de uso de bens imóveis públicos será onerosa, vedada a fixação de preço inferior ao indicado na avaliação técnica oficial. (Incluído pela Lei nº 4.290, de 27/12/2023)
-
-<br>
 
 **§ 1º** Havendo previsão legal expressa, a outorga de uso poderá ser gratuita, mediante justificativa do interesse público. (Incluído pela Lei nº 4.290, de 27/12/2023)
 
 **§ 2º** O preço de outorga indicado na avaliação técnica oficial poderá ser reduzido até a metade, desde que se demonstre, mediante estudo técnico, ser isso vantajoso ou necessário para atender o interesse público. (Incluído pela Lei nº 4.290, de 27/12/2023)
 
-<br>
-
 **§ 3º** O estudo técnico referido no § 2º deverá considerar os aspectos sociais e econômicos da outorga de uso e os impactos positivos e negativos da redução do preço de outorga de uso do bem imóvel público. (Incluído pela Lei nº 4.290, de 27/12/2023)
-
-<br>
 
 **CAPÍTULO V**
 
@@ -553,8 +521,6 @@ Modificada pelas Leis nº [4.290, de 27 de Dezembro de 2023;](https://legis.ac.g
 **~~§ 4º~~** ~~O parcelamento poderá ser implementado em até quarenta e oito vezes, sendo as taxas e juros definido com base no Índice Nacional de Preços ao Consumidor Amplo - IPCA.~~
 
 **§ 4º** O parcelamento poderá ser implementado em até 120 (cento e vinte) vezes, sendo as taxas e juros definidos com base no Índice Nacional de Preços ao Consumidor Amplo - IPCA. (Redação dada pela Lei nº 4.820, de 23/07/2026)
-
-<br>
 
 **§ 5º** Será dispensada a autorização legislativa específica quando os bens imóveis públicos a serem alienados tiverem sido adquiridos em processos judiciais ou por dação em pagamento ou quando forem legalmente destinados à regularização fundiária, respeitada a legislação federal. (Incluído pela Lei nº 4.290, de 27/12/2023)
 
@@ -625,8 +591,6 @@ Modificada pelas Leis nº [4.290, de 27 de Dezembro de 2023;](https://legis.ac.g
 **§ 2º** O concessionário que desenvolver atividades de assistência social, saúde, esportes, educação ou religiosas, não possuir finalidade lucrativa e for declarada legalmente de utilidade pública, poderá ser isentada da onerosidade conforme dispuser o regulamento.
 
 **§ 3º** O cumprimento dos critérios estabelecidos para isenção da onerosidade será aferido mediante prévia manifestação técnica do órgão competente, sob a perspectiva de interesse social e assistencial, na forma do regulamento.
-
-<br>
 
 **§ 4º** Os benefícios previstos neste artigo poderão ser concedidos a pessoas físicas mediante permissão de uso, procedendo-se às adequações necessárias, nos termos desta Lei. (Incluído pela Lei nº 4.290, de 27/12/2023)
 

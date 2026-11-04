@@ -1,5 +1,3 @@
-###DEL-003198-0-000-14-04-1941@@@
-
 DECRETO-LEI N. 3.198 – DE 14 DE ABRIL DE 1941
 
 Reorganiza a Administração do Porto do Rio de Janeiro e dá outras providências.

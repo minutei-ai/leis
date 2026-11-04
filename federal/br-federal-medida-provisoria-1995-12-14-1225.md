@@ -1,7 +1,3 @@
-1
-
-###MPV-001225-0-000-14-12-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.225, DE 14 DE DEZEMBRO DE 1995.
 
 Cria a Gratificação de Desempenho e Produtividade - GDP das atividades de finanças, controle, orçamento e planejamento, e dá outras providências.

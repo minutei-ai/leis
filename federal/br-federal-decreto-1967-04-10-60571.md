@@ -1,5 +1,3 @@
-###DEC-060571-0-000-10-04-1967@@@
-
 DECRETO Nº 60.571, DE 10 DE ABRIL DE 1967.
 
 Institui a Comissão de Coordenação de Transportes a Granel e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-049597-0-000-28-12-1960@@@
-
 DECRETO Nº 49.597, DE 28 DE DEZEMBRO DE 1960.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação que faz o Município de Ponta Grossa, Estado do Paraná, de um terreno necessário ao Ministério da Guerra.

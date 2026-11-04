@@ -1,7 +1,3 @@
-1
-
-###DEC-000903-0-000-25-08-1993@@@
-
 DECRETO N° 903, DE 25 DE AGOSTO DE 1993
 
 Dispõe sobre as Gratificações de Representação de Órgãos da Presidência da República.
@@ -24,4 +20,62 @@ Romildo Canhim
 
 ## Quadro Distributivo das Gratificações de Representação
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:135pt; border-top:1.5pt solid #808080; border-bottom:0.75pt solid #808080; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Órgão</span></p></td><td style="width:38.95pt; border-top:1.5pt solid #808080; border-bottom:0.75pt solid #808080; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Auxiliar</span></p></td><td style="width:52.15pt; border-top:1.5pt solid #808080; border-bottom:0.75pt solid #808080; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Secretário</span></p></td><td style="width:58.5pt; border-top:1.5pt solid #808080; border-bottom:0.75pt solid #808080; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Especialista</span></p></td><td style="width:51.25pt; border-top:1.5pt solid #808080; border-bottom:0.75pt solid #808080; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Assistente</span></p></td><td style="width:54.35pt; border-top:1.5pt solid #808080; border-bottom:0.75pt solid #808080; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Supervisor</span></p></td></tr><tr><td style="width:135pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Secretaria de Administração Federal</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">64</span></p></td><td style="width:52.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">60</span></p></td><td style="width:58.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">19</span></p></td><td style="width:51.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">87</span></p></td><td style="width:54.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">93</span></p></td></tr><tr><td style="width:135pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Secretaria de Assuntos Estratégicos</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">96</span></p></td><td style="width:52.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">25</span></p></td><td style="width:58.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">54</span></p></td><td style="width:51.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">106</span></p></td><td style="width:54.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">69</span></p></td></tr><tr><td style="width:135pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Estado-Maior dasa Forças Arnadas</span></p></td><td style="width:38.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">65</span></p></td><td style="width:52.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">30</span></p></td><td style="width:58.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">52</span></p></td><td style="width:51.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">25</span></p></td><td style="width:54.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">20</span></p></td></tr><tr><td style="width:135pt; border-bottom:1.5pt solid #808080; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Secretaria de Planejamento, Orçamento e Coordenação</span></p></td><td style="width:38.95pt; border-bottom:1.5pt solid #808080; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">86</span></p></td><td style="width:52.15pt; border-bottom:1.5pt solid #808080; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">44</span></p></td><td style="width:58.5pt; border-bottom:1.5pt solid #808080; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">108</span></p></td><td style="width:51.25pt; border-bottom:1.5pt solid #808080; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">108</span></p></td><td style="width:54.35pt; border-bottom:1.5pt solid #808080; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">86</span></p></td></tr></tbody></table>
+Órgão
+
+Auxiliar
+
+Secretário
+
+Especialista
+
+Assistente
+
+Supervisor
+
+Secretaria de Administração Federal
+
+64
+
+60
+
+19
+
+87
+
+93
+
+Secretaria de Assuntos Estratégicos
+
+96
+
+25
+
+54
+
+106
+
+69
+
+Estado-Maior dasa Forças Arnadas
+
+65
+
+30
+
+52
+
+25
+
+20
+
+Secretaria de Planejamento, Orçamento e Coordenação
+
+86
+
+44
+
+108
+
+108
+
+86

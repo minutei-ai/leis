@@ -1,5 +1,3 @@
-###DEC-007438-0-000-11-02-2011-PUB-01@@@
-
 DECRETO Nº 7.438, DE 11 DE FEVEREIRO DE 2011
 
 Estabelece princípios e diretrizes para criação e elaboração do Livro Branco de Defesa Nacional, institui Grupo de Trabalho Interministerial com o objetivo de elaborar estudos sobre temas pertinentes àquele Livro, e dá outras providências.

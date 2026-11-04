@@ -1,5 +1,3 @@
-###DEC-056218-0-000-30-04-1965@@@
-
 DECRETO Nº 56.218, DE 30 DE ABRIL DE 1965.
 
 Outorga ao Município de Matutina concessão para distribuir energia elétrica.

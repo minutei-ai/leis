@@ -1,5 +1,3 @@
-###DEC-058322-0-000-02-05-1966@@@
-
 DECRETO Nº 58.322, DE 2 DE MAIO DE 1966.
 
 Autoriza o cidadão brasileiro Salvador Soares de Arruda a pesquisar água mineral no município de Serra Negra, Estado de São Paulo.

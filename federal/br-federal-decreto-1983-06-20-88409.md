@@ -1,5 +1,3 @@
-###DEC-088409-0-000-20-06-1983@@@
-
 Decreto nº 88.409, de 20 de junho de 1983
 
 Autoriza a Telecomunicações Brasileiras S.A.-TELEBRÁS e suas controladas a promoverem aumento de capital social.

@@ -1,5 +1,3 @@
-###DEC-078895-0-000-06-12-1976@@@
-
 DECRETO Nº 78.895, DE 6 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Direito, das Faculdades Integradas Bennett, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

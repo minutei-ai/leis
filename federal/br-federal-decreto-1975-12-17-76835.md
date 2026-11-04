@@ -1,5 +1,3 @@
-###DEC-076835-0-000-17-12-1975@@@
-
 DECRETO nº 76.835, DE 17 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Matemática da Faculdade de Filosofia, Ciências e Letras de Ituverava, com sede na cidade de Ituverava, Estado de São Paulo.

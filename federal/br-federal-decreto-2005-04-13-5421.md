@@ -1,5 +1,3 @@
-###DEC-005421-0-000-13-04-2005@@@
-
 DECRETO Nº 5.421 DE 13 DE ABRIL DE 2005
 
 Institui a carteira de identidade funcional dos membros da Carreira de Procurador do Banco Central do Brasil.

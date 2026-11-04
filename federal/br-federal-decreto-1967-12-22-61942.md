@@ -1,5 +1,3 @@
-###DEC-061942-0-000-22-12-1967@@@
-
 DECRETO Nº 61.942, DE 22 DE DEZEMBRO DE 1967.
 
 Abre ao Ministério do Trabalho e Previdência Social o crédito especial de NCr$42.000,00, para o fim que menciona.

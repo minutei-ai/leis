@@ -1,5 +1,3 @@
-###DEC-055355-0-000-31-12-1964@@@
-
 Decreto nº 55.355, de 31 de dezembro de 1964.
 
 Concede à Mineração Cruzeiro Limitada autorização para funcionar como emprêsa de mineração.

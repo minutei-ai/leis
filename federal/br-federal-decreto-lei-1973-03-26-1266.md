@@ -1,5 +1,3 @@
-###DEL-001266-0-000-26-03-1973@@@
-
 DECRETO-LEI N. 1.266 – DE 26 DE MARÇO DE 1973
 
 Dispõe sobre o Fundo Especial de Exportação, criado pela Lei n.º 4.870, de 1 de dezembro de 1965.

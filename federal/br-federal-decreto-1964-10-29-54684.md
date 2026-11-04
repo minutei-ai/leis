@@ -1,5 +1,3 @@
-###DEC-054684-0-000-29-10-1964@@@
-
 DECRETO Nº 54.684, DE 29 DE OUTUBRO DE 1964.
 
 Outorga ao Ministério de Ponte Branca, Estado de Mato Grosso, concessão para o aproveitamento da energia hidráulica de um desnível denominado Candieiros, no Município de Caiapônia, Estado de Goiás.

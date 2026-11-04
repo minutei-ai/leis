@@ -1,12 +1,10 @@
-###DEC-033785-0-000-09-09-1953@@@
+**DECRETO Nº 33.785, DE 9 DE SETEMBRO DE 1953.**
 
-<strong>DECRETO Nº 33.785, DE 9 DE SETEMBRO DE 1953.</strong>
+***Retifica o Decreto nº 33.510, de 5 de agôsto de 1953.***
 
-<em><strong>Retifica o Decreto nº 33.510, de 5 de agôsto de 1953.</strong></em>
+**O PRESIDENTE DA REPUBLICA**, usando da atribuição que lhe confere o artigo 87, nº l da Constituição e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 - (Código de Minas),
 
-<strong>O PRESIDENTE DA REPUBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº l da Constituição e nos têrmos do Decreto-lei nº 1.985, de 29 de janeiro de 1940 - (Código de Minas),
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único - Fica retificado o Decreto número trinta e três mil quinhentos e dez (33.510), de cinco (5) de agôsto de mil novecentos e cinqüenta e três (1953), que passa a ter a seguinte redação:
 
@@ -14,6 +12,6 @@ Artigo único - Fica retificado o Decreto número trinta e três mil quinhentos 
 
 Rio de Janeiro, em 9 de setembro de 1953; 132º da Independência e 65º da Republica.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

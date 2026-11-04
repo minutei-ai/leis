@@ -1,5 +1,3 @@
-###MPV-001683-0-006-26-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.683-6, DE 26 DE OUTUBRO DE 1998
 
 Institui o Programa Especial de Financiamento para combate aos efeitos da estiagem na área de atuação da Superintendência do Desenvolvimento do Nordeste - SUDENE, e dá outras providências.

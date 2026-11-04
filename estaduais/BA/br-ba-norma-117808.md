@@ -1,6 +1,7 @@
 LEI Nº 5.019 DE 13 DE JUNHO DE 1989
 
-Ver também:<br>
+Ver também:
+
 Lei nº [13.366](javascript: openDoc\() de 29 de junho de 2015 - Atualiza os limites dos municípios, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Caém, Capim Grosso, Jacobina, Miguel Calmon, Mirangaba, Ourolândia, Quixabeira, Saúde, Serrolândia, Umburanas e Várzea Nova.
 
 Cria o Município de Quixabeira, desmembrado do Município de Serrolândia.

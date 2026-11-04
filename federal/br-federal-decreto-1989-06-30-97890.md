@@ -1,7 +1,3 @@
-1
-
-###DEC-097890-0-000-30-06-1989@@@
-
 DECRETO Nº 97.890, DE 30 DE JUNHO DE 1989
 
 Altera os incisos I e VI do artigo 1° do Decreto n° 97.605, de 31 de março de 1989, que fixa os efetivos do Exército para 1989.

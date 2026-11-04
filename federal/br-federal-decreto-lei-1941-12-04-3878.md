@@ -1,5 +1,3 @@
-###DEL-003878-0-000-04-12-1941@@@
-
 DECRETO-LEI N. 3.878 – DE 4 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Fazenda, o crédito especial de 330:000$0, para despesas relativas à Conferência Nacional, de Legislação Tributária

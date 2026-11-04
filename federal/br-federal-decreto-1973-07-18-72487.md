@@ -1,5 +1,3 @@
-###DEC-072487-0-000-18-07-1973@@@
-
 DECRETO Nº 72.487, DE 18 DE JULHO DE 1973.
 
 Concede reconhecimento ao Curso de Bacharelado de Estatística do Instituto de Matemática, Estatística e Ciências da Computação, da Universidade Estadual de Campinas, com sede na Cidade de Campinas, Estado de São Paulo.

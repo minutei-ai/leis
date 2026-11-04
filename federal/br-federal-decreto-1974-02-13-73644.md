@@ -1,5 +1,3 @@
-###DEC-073644-0-000-13-02-1974@@@
-
 DECRETO Nº 73.644, de 13 de fevereiro de 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terras destinadas à passagem de linhas de transmissão, no Estado de São Paulo.

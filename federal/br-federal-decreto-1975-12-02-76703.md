@@ -1,5 +1,3 @@
-###DEC-076703-0-000-02-12-1975@@@
-
 DECRETO Nº 76.703, DE 2 DE DEZEMBRO DE 1975.
 
 Estabelece normas para a redução do consumo de combustível para auto-veículos por parte dos órgãos e entidades da administração federal direta e indireta e funções supervisionadas.

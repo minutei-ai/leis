@@ -1,5 +1,3 @@
-###DEC-084436-0-000-28-01-1980@@@
-
 DECRETO Nº 84 436, DE 28 DE JANEIRO DE 1980
 
 Dá nova redação a dispositivo do Decreto nº 77.919, de 25 de junho de 1976, que regulamenta a Lei nº 6.265, de 19 de novembro de 1975, Lei do Ensino do Exército.

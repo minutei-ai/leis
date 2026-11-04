@@ -1,5 +1,3 @@
-###DEL-005930-0-000-26-10-1943@@@
-
 DECRETO‑LEI N. 5.930 – DE 26 DE OUTUBRO DE 1943
 
 Altera a carreira de Escrivão (com função de escriturário) do Quadro Suplementar do Ministério da Fazenda e dá outras providências

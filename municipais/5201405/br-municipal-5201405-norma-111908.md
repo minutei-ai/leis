@@ -1,13 +1,15 @@
 Prefeitura Municipal de Aparecida de Goiânia 
 
-lEI MUNICIPAL Nº 1.208, DE 17 DE MAIO DE 1993.<br>
+lEI MUNICIPAL Nº 1.208, DE 17 DE MAIO DE 1993.
+
 [Revogada pela Lei Ordinária nº 3.835, de 6 de junho de 2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111905)
 
 ~~Dispõe sobre a Política de Promoção e Recuperação da Saúde, Vigilância Sanitária e Epidemiológica no Município de Aparecida de Goiânia e dá outras providências.~~
 
 ~~FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:~~
 
-~~CAPÍTULO I<br>
+~~CAPÍTULO I
+
 DISPOSIÇÕES GERAIS~~
 
 ~~Art. 1º - Todos os assuntos relacionados com a Promoção, Proteção e Recuperação da Saúde, com a Vigilância Sanitária e Epidemiológica no Município de Aparecida de Goiânia, serão regidos pelas disposições contidas nesta Lei, na sua regulamentação e nas normas técnicas especiais a serem determinadas pela Secretaria Municipal de Saúde, respeitadas as legislações federal e estadual.~~
@@ -34,7 +36,8 @@ DISPOSIÇÕES GERAIS~~
 
 ~~IX – colaborar com o controle e proteção de meio ambiente, nele compreendido e do trabalho.~~
 
-~~CAPÍTULO II<br>
+~~CAPÍTULO II
+
 DA VIGILÂNCIA EPIDEMIOLÓGICA~~
 
 ~~Art. 4º - As ações de Vigilância epidemiológica constituem responsabilidade imediata da rede de serviços de saúde da estrutura da Secretaria Municipal de Saúde, onde serão executadas de acordo com as diretrizes do sistema único de saúde.~~
@@ -47,7 +50,8 @@ DA VIGILÂNCIA EPIDEMIOLÓGICA~~
 
 ~~Art. 7º - A Secretaria Municipal fará realizar, periodicamente, cursos e programas de educação sanitária, destinados a promover, orientar e coordenar estudos para a formação de recursos humanos e incrementar o desenvolvimento cientifico e tecnológico na área de sua atuação.~~
 
-~~CAPÍTULO III<br>
+~~CAPÍTULO III
+
 DO SANEAMENTO BÁSICO~~
 
 ~~Art. 8º - Através da Coordenadoria de Vigilância Sanitária, conforme lhe for atribuído pelo regulamento, a Secretaria Municipal de Saúde, deverá participar da solução dos problemas que envolvem as questões de saneamento básico do Município.~~
@@ -60,7 +64,8 @@ DO SANEAMENTO BÁSICO~~
 
 ~~Art. 11º - A coleta, remoção e o destino do lixo processar-se-ão em condições que não tragam maléficos ou inconvenientes à saúde e ao bem-estar de coletividades.~~
 
-~~CAPÍTULO IV<br>
+~~CAPÍTULO IV
+
 DOS GÊNEROS ALIMENTÍCIOS~~
 
 ~~Art. 12º - Todo alimento destinado ao consumo humano, qualquer que seja a sua origem, estado ou procedência, produzido, transportado ou exposto à venda no Município, será objeto de ação fiscalizadora exercida pela vigilância sanitária da Secretaria Municipal de Saúde, nos termos desta Lei e da legislação federal e estadual em vigor.~~
@@ -79,14 +84,16 @@ DOS GÊNEROS ALIMENTÍCIOS~~
 
 ~~Parágrafo único – Igual procedimento deverá ser aplicado aos produtos e subprodutos de animais abatidos e aos demais gêneros alimentícios, quando oriundos de estabelecimentos não licenciados ou cuja procedências não possa ser comprovada.~~
 
-~~CAPÍTULO V<br>
+~~CAPÍTULO V
+
 DOS ESTABELECIMENTOS DE GÊNEROS ALIMENTÍCIOS E CONGÊNERES~~
 
 ~~Art. 19º - Todos os estabelecimentos onde se fabriquem, produzem, preparem, beneficiem, acondicionem ou vendam alimentos, ficam sujeitos à regulamentação e normas técnicas expedidas pelo Executivo Municipal e só poderão funcionar mediante a expedição de alvará sanitário de autorização. 1º - O alvará previsto neste artigo, renovável anualmente, será concedido após fiscalização e inspeção, deverá ser exposto em lugar visível no estabelecimento e será expedido pela Secretaria Municipal de Saúde. 2º - Nos estabelecimentos referidos neste artigo será obrigatória a Caderneta de Inspeção Sanitária, que ficará à disposição da autoridade competente, em lugar visível.~~
 
 ~~Art. 20º - Compete à Secretaria Municipal de Saúde os produtos alimentícios que não poderão ser comercializados através de venda ambulante e / ou em feiras.~~
 
-~~CAPÍTULO VI<br>
+~~CAPÍTULO VI
+
 DISPOSIÇÕES GERAIS E TRANSITÓRIAS~~
 
 ~~Art. 21º - Ficam sujeitos ao alvará sanitário de autorização, à regulamentação e às normas técnicas especiais, todos os estabelecimentos que, pela natureza das atividades desenvolvidas, possam comprometer a proteção e prevenção da saúde publica, individual e coletiva.~~
@@ -103,5 +110,6 @@ DISPOSIÇÕES GERAIS E TRANSITÓRIAS~~
 
 ~~Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos dezessete dias do mês de maio de hum mil novecentos e noventa e três.~~
 
-~~NORBERTO TEIXEIRA<br>
+~~NORBERTO TEIXEIRA
+
 PREFEITO MUNICIPAL~~

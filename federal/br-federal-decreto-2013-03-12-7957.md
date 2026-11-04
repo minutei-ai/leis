@@ -1,5 +1,3 @@
-###DEC-007957-0-000-12-03-2013-PUB-01@@@
-
 DECRETO N°\- 7.957, DE 12 DE MARÇO DE 2013
 
 Institui o Gabinete Permanente de Gestão Integrada para a Proteção do Meio Ambiente; regulamenta a atuação das Forças  Armadas na proteção ambiental; altera o Decreto n° 5.289, de 29 de novembro de 2004, e dá outras providências.

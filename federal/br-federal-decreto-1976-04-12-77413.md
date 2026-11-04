@@ -1,5 +1,3 @@
-###DEC-077413-0-000-12-04-1976@@@
-
 Decreto nº 77.413 - de 12 de abril de 1976
 
 Autoriza a transformação do curso de Música da Faculdade de Educação Musical do Paraná, com sede na cidade de Curitiba, Estado do Paraná.

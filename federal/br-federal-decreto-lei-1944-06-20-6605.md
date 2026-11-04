@@ -1,5 +1,3 @@
-###DEL-006605-0-000-20-06-1944@@@
-
 DECRETO-LEI N. 6.605 – DE 20 DE JUNHO DE 1944
 
 Autoriza o aumento de capital da Companhia Vale do Rio Doce S.A. e dá outras providências

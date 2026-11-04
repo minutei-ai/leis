@@ -1,5 +1,3 @@
-###DEC-006833-0-000-29-04-2009@@@
-
 DECRETO Nº 6.833, DE 29 DE ABRIL DE 2009.
 
 Institui o Subsistema Integrado de Atenção à Saúde do Servidor Público Federal - SIASS e o Comitê Gestor de Atenção à Saúde do Servidor.

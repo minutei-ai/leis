@@ -1,5 +1,3 @@
-###DEC-058061-0-000-23-03-1966@@@
-
 DECRETO Nº 58.061, DE 23 DE MARÇO DE 1966.
 
 Concede autorização para funcionar como emprêsa de energia elétrica.

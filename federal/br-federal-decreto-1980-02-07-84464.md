@@ -1,5 +1,3 @@
-###DEC-084464-0-000-07-02-1980@@@
-
 decreto nº 84.464, de 07 de fevereiro de 1980
 
 Dispõe sobre a criação do Grupo de Trabalho para revisão e reformulação da legislação florestal.

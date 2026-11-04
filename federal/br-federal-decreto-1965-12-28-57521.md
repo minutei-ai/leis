@@ -1,5 +1,3 @@
-###DEC-057521-0-000-28-12-1965@@@
-
 DECRETO Nº 57.521, DE 28 DE DEZEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro Milton Menezes da Costa a pesquisar sílica e quartzo, no município de Domingos Martins, no Estado do Espírito Santo.

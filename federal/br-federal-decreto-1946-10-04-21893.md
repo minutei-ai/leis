@@ -1,30 +1,28 @@
-###DEC-021893-0-000-04-10-1946@@@
+**DECRETO Nº 21.893, DE 4 DE OUTUBRO DE 1946.**
 
-<strong>DECRETO Nº 21.893, DE 4 DE OUTUBRO DE 1946.</strong>
+***Aprova o Regulamento para registro e fiscalização das fábricas de óleos, gorduras, ceras vegetais e seus derivados.***
 
-<em><strong>Aprova o Regulamento para registro e fiscalização das fábricas de óleos, gorduras, ceras vegetais e seus derivados.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento, que com êste baixa, assinado pelo Ministro de Estado da Agricultura, para execução das disposições que regulam o registro e a fiscalização das fábricas de óleos, gorduras, ceras vegetais e seus derivados, para comércio interestadual e internacional.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento, que com êste baixa, assinado pelo Ministro de Estado da Agricultura, para execução das disposições que regulam o registro e a fiscalização das fábricas de óleos, gorduras, ceras vegetais e seus derivados, para comércio interestadual e internacional.
-
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 4 de outubro de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Netto Campelo Júnior
 
-<strong>REGULAMENTO PARA REGISTRO E FISCALIZAÇÃO DAS FÁBRICAS DE ÓLEOS, GORDURAS, CERAS VEGETAIS E SEUS DERIVADOS.</strong>
+**REGULAMENTO PARA REGISTRO E FISCALIZAÇÃO DAS FÁBRICAS DE ÓLEOS, GORDURAS, CERAS VEGETAIS E SEUS DERIVADOS.**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DAS FÁBRICAS E PRODUTOS SUJEITOS A ÊSTE REGULAMENTO EM TODO O TERRITÓRIO NACIONAL</em>
+*DAS FÁBRICAS E PRODUTOS SUJEITOS A ÊSTE REGULAMENTO EM TODO O TERRITÓRIO NACIONAL*
 
-<strong>Art</strong>. 1º Ficam obrigadas a registro no Instituto de Óleos. (I.O.) e sujeitas à sua fiscalização as fábricas que produzem ou beneficiam para comércio interestadual e internacional, os seguintes produtos:
+**Art**. 1º Ficam obrigadas a registro no Instituto de Óleos. (I.O.) e sujeitas à sua fiscalização as fábricas que produzem ou beneficiam para comércio interestadual e internacional, os seguintes produtos:
 
 a) óleos e gorduras vegetais para quaisquer fins, hidrogenados ou não;
 
@@ -52,7 +50,7 @@ g) óleos essenciais naturais.
 
 § 6º As pessoas naturais ou jurídicas que exercerem atividades extrativas de óleos e gorduras comestíveis, desde que não pratiquem comércio interestaduais ou internacional, ficarão dispensados das exigências do presente regulamento, ficando, entretanto, os Entrepostos ou Fábricas que com elas mantenham transações sujeitos à apresentação das estatísticas previstas no § 1º.
 
-<strong>Art</strong>. 2º A. fiscalização de que trata o art. 1º será exercida pelo I.O. ou por delegação de poderes, pelo Serviço de Economia Rural.
+**Art**. 2º A. fiscalização de que trata o art. 1º será exercida pelo I.O. ou por delegação de poderes, pelo Serviço de Economia Rural.
 
 § 1º As análises de produtos destinados à exportação serão feitas pelo Serviço de Economia, Rural, ou na sua impossibilidade pelo I.O. ou por laboratórios oficiais, de conformidade com o disposto no Capítulo IV do presente regulamento.
 
@@ -60,15 +58,15 @@ g) óleos essenciais naturais.
 
 § 3º As medidas a que se refere o parágrafo anterior serão levadas a efeito mediante colaboração de outros órgãos, técnicos especializados do Ministério da Agricultura.
 
-<strong>Art</strong>. 3º - Aos funcionários incumbidos da fiscalização e da coleta de amostras serão fornecidas carteiras de identidade funcional que deverão ser obrigatòriamente exibidas nos estabelecimentos respectivos.
+**Art**. 3º - Aos funcionários incumbidos da fiscalização e da coleta de amostras serão fornecidas carteiras de identidade funcional que deverão ser obrigatòriamente exibidas nos estabelecimentos respectivos.
 
 Parágrafo único. Dos autos de infração, têrmos ou laudos constarão sempre, obrigatòriamente, o nome, cargo e identidade do funcionário.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DO REGISTRO</em>
+*DO REGISTRO*
 
-<strong>Art</strong>. 4º Os estabelecimentos de produtos comestíveis sujeitos ao registro de que trata o presente regulamento, deverão instruir o pedido de registro com os seguintes documentos:
+**Art**. 4º Os estabelecimentos de produtos comestíveis sujeitos ao registro de que trata o presente regulamento, deverão instruir o pedido de registro com os seguintes documentos:
 
 1\) - Planta do terreno, em plano e em elevação com indicação de localização em relação às propriedades vizinhas, vias de acesso e de escoamento existentes ou a serem realizadas e, no caso da zona onde a fábrica por sua natureza exija tratamento prévio dos despejos, localização das projetadas instalações de tratamento.
 
@@ -82,15 +80,15 @@ Parágrafo único. Dos autos de infração, têrmos ou laudos constarão sempre,
 
 6\) - Dados relativos à matéria prima a elaborar; sôbre a procedência, qualidade, tipo, quantidade desta matéria prima; sôbre qualidade e quantidade de produtos elaborados, residuos, tortas, farelos e outros sub-produtos; sôbre mercado de consumo e estatística de exportação, devendo a estatítisca remetida compreender os dois últimos anos antecedentes, tratando-se de fábrica já em funcionamento.
 
-<strong>Art</strong>. 5º O I.O. poderá, se julgar conveniente, mandar proceder vistoria local.
+**Art**. 5º O I.O. poderá, se julgar conveniente, mandar proceder vistoria local.
 
 § 1º O I.O. promoverá pelos meios legais a punição dos responsáveis pela construção ou vistorias que prestarem falsa declaração ou fantasiarem especificações nas plantas, desenhos, levantamentos ou memoriais descritivos das fábricas pendentes de registro, propondo a suspensão do seu registro profissional por tempo que variará de um a cinco anos.
 
 § 2º As fábricas que se utilizarem de dados inexatos para registro terão seu registro cassado ficando impedidas de funcionar para comércio interestadual ou internacional até que o I.O. considere satisfeitas as exigências regulamentares.
 
-<strong>Art</strong>. 6º As fábricas e entrepostos registrados no I.O. ficam obrigados à remessa de cópias de boletim estatístico, de conformidade com o modêlo adotado pelo Serviço de Estatística da Produção.
+**Art**. 6º As fábricas e entrepostos registrados no I.O. ficam obrigados à remessa de cópias de boletim estatístico, de conformidade com o modêlo adotado pelo Serviço de Estatística da Produção.
 
-<strong>Art</strong>. 7º Os estabelecimentos devem reunir as seguintes condições:
+**Art**. 7º Os estabelecimentos devem reunir as seguintes condições:
 
 a) luz natural e artificial abundante, ventilado suficiente em tôdas as dependências;
 
@@ -106,35 +104,35 @@ f) as instalações devem ser planejadas de modo que os produtos, desde a manipu
 
 g) as fábricas que manipulam com óleos não comestíveis, sementes tóxicas, etc., deverão adotar medidas técnicas que impeçam a contaminação dos óleos ou tortas empregados na alimentação, sob pena de suspensão do funcionamento, a critério da autoridade fiscalizadora, além da apreensão e desnaturamento dos produtos condenados.
 
-<strong>Art</strong>. 8º Satisfeitas tôdas as exigências dos arts. 4º, 5º, 6º e 7º. o I.O. autorizará a expedição do “Título de Registro” recebendo o estabelecimento, o número que, juntamente com as letras I.O. e a palavra “Brasil”, representará marca oficial pela qual será reconhecido.
+**Art**. 8º Satisfeitas tôdas as exigências dos arts. 4º, 5º, 6º e 7º. o I.O. autorizará a expedição do “Título de Registro” recebendo o estabelecimento, o número que, juntamente com as letras I.O. e a palavra “Brasil”, representará marca oficial pela qual será reconhecido.
 
 § 1º As letras I.O. constituem abreviatura de “Instituto de Óleos” e a palavra “Brasil” completará a identificação da produção nacional.
 
 § 2º A. forma e disposição dêsses característicos obedecerão aos modêlos regulamentares.
 
-<strong>Art</strong>. 9º Os estabelecimentos sob inspeção federal ficam isento a fiscalização estadual ou municipal, quanto aos produtos de sua elaboração.
+**Art**. 9º Os estabelecimentos sob inspeção federal ficam isento a fiscalização estadual ou municipal, quanto aos produtos de sua elaboração.
 
-<strong>Art</strong>. 10. Qualquer estabelecimento de produtos oleaginosos comestíveis que paralisar suas atividades por espaço superior a dois anos, deverá para reiniciar suas funções requerer ao I.O. a necessária autorização, que a concederá mediante laudo de inspeção técnica.
+**Art**. 10. Qualquer estabelecimento de produtos oleaginosos comestíveis que paralisar suas atividades por espaço superior a dois anos, deverá para reiniciar suas funções requerer ao I.O. a necessária autorização, que a concederá mediante laudo de inspeção técnica.
 
-<strong>Art</strong>. 11. Nenhuma alteração ou modificação nas dependências ou instalações dos estabelecimentos de produtos comestíveis poderá ser feita, sem prévia autorização do I.O e observando o disposto nas letras <em>a</em> e <em>b</em>, do art. 7º.
+**Art**. 11. Nenhuma alteração ou modificação nas dependências ou instalações dos estabelecimentos de produtos comestíveis poderá ser feita, sem prévia autorização do I.O e observando o disposto nas letras *a* e *b*, do art. 7º.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA HIGIENE DOS ESTABELECIMENTOS</em>
+*DA HIGIENE DOS ESTABELECIMENTOS*
 
-<strong>Art</strong>. 12. Todos os estabelecimentos que elaborem produtos oleaginosos deverão ser mantidos em rigorosas condições de higiene.
+**Art**. 12. Todos os estabelecimentos que elaborem produtos oleaginosos deverão ser mantidos em rigorosas condições de higiene.
 
-<strong>Art</strong>. 13. Na manipulação de óleos ou gorduras hidrogenadas, destinadas à alimentação humana deve ser evitado o mais possível o contato das mãos do manipulador.
+**Art**. 13. Na manipulação de óleos ou gorduras hidrogenadas, destinadas à alimentação humana deve ser evitado o mais possível o contato das mãos do manipulador.
 
-<strong>Art</strong>. 14. Não é permitida a entrada de animais domésticos no recinto dos estabelecimentos.
+**Art**. 14. Não é permitida a entrada de animais domésticos no recinto dos estabelecimentos.
 
-<strong>Art</strong>. 15. Os estabelecimentos devem ser mantidos livres de moscas, mosquitos, baratas, camondongos, ratos, etc., agindo-se cautelosamente quanto ao emprêgo de venenos, cujo uso só é permitido nos depósitos de produtos de uso industrial.
+**Art**. 15. Os estabelecimentos devem ser mantidos livres de moscas, mosquitos, baratas, camondongos, ratos, etc., agindo-se cautelosamente quanto ao emprêgo de venenos, cujo uso só é permitido nos depósitos de produtos de uso industrial.
 
-<strong>Art</strong>. 16. Nenhum operário poderá ser admitido a serviço das fábricas ou entrepostos sem que apresente sua carteira de saúde a qual deverá ser visada anualmente pela autoridade competente.
+**Art**. 16. Nenhum operário poderá ser admitido a serviço das fábricas ou entrepostos sem que apresente sua carteira de saúde a qual deverá ser visada anualmente pela autoridade competente.
 
-<strong>Art</strong>. 17. A inspeção de saúde poderá ser exigida tantas vezes quantas forem necessárias para qualquer empregado do estabelecimento.
+**Art**. 17. A inspeção de saúde poderá ser exigida tantas vezes quantas forem necessárias para qualquer empregado do estabelecimento.
 
-<strong>Art</strong>. 18. Os estabelecimentos que elaborem exclusivamente produtos industriais, não comestíveis ou que não possuam seções de refinação de óleo para fins comestíveis deverão se registrar com a documentação seguinte:
+**Art**. 18. Os estabelecimentos que elaborem exclusivamente produtos industriais, não comestíveis ou que não possuam seções de refinação de óleo para fins comestíveis deverão se registrar com a documentação seguinte:
 
 a) cópias dos projetos de fábricas, instalações, dependências e memorial descritivo sumário e completo da indústria;
 
@@ -148,11 +146,11 @@ e) estatística da matéria prima, dos produtos obtidos, fontes de obtenção e 
 
 Parágrafo único. As modificações de instalações, ampliações e transformações, serão comunicadas ao I.O para fins de anotação, acompanhada da documentação correspondente, quando tais modificações exigirem licenciamento de autoridades locais ou do Ministério do Trabalho.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ANÁLISES</em>
+*DAS ANÁLISES*
 
-<strong>Art</strong>. 19. Os produtos elaborados pela fábricas referidas nêste regulamento ficam sujeitos aos seguintes tipos de análises:
+**Art**. 19. Os produtos elaborados pela fábricas referidas nêste regulamento ficam sujeitos aos seguintes tipos de análises:
 
 1\) Análise fiscal, gratuita, da qualidade do produto, quanto elaborado de acôrdo com os padrões oficiais ou constantes especificadamente dos rótulos. Esta análise será procedida pelo I.O ou pelo S.E.R. sempre que julgar conveniente, mediante coleta de amostras, prova e contra-prova, nas próprias fábricas, seus depósitos ou nos mercados de consumo reservando-se as contra-provas para análises periciais.
 
@@ -170,11 +168,11 @@ Parágrafo único. As modificações de instalações, ampliações e transforma
 
 § 5º As perícias de contra-prova serão realizadas de acôrdo com o estabelecido no capítulo V do presente Regulamento.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DAS PERÍCIAS</em>
+*DAS PERÍCIAS*
 
-<strong>Art</strong>. 20. No caso de perícia para efeitos de análise de classificação, será ela procedida pelo I.O ou pelo próprio S.E.R. com a presença do técnico que realizou a análise, que assistirá à tôda perícia.
+**Art**. 20. No caso de perícia para efeitos de análise de classificação, será ela procedida pelo I.O ou pelo próprio S.E.R. com a presença do técnico que realizou a análise, que assistirá à tôda perícia.
 
 § 1º Excepcionalmente poderá a perícia de contra-prova ser realizada em outro laboratório oficial.
 
@@ -200,13 +198,13 @@ Parágrafo único. As modificações de instalações, ampliações e transforma
 
 § 12. No caso da perícia, os produtos dependentes de embarque poderão ser carregados mediante autorização do S.E.R., desde que o embarcador assuma plena responsabilidade pelos prejuízos decorrentes da condenação da partida nos portos de importação.
 
-<strong>Art</strong>. 21. As perícias, no caso de análises fiscais ou de aprovação, serão sempre realizadas no I.O sôbre a contra-prova respectiva, procedendo-se de acôrdo com o § 2º do artigo anterior e seguintes.
+**Art**. 21. As perícias, no caso de análises fiscais ou de aprovação, serão sempre realizadas no I.O sôbre a contra-prova respectiva, procedendo-se de acôrdo com o § 2º do artigo anterior e seguintes.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS CONDIÇÕES DOS PRODUTOS DESTINADOS AO CONSUMO E SUAS DEFINIÇÕES</em>
+*DAS CONDIÇÕES DOS PRODUTOS DESTINADOS AO CONSUMO E SUAS DEFINIÇÕES*
 
-<strong>Art</strong>. 22. “Óleo” designa os ésteres da glicerina que se apresentam fluídos e temperatura de + 20º C.
+**Art**. 22. “Óleo” designa os ésteres da glicerina que se apresentam fluídos e temperatura de + 20º C.
 
 1\) Óleo vegetal “cru” ou “bruto”é o óleo que não sofreu tratamento físico ou químico capaz de modificar os caracteres do mesmo, tal qual extraído.
 
@@ -236,19 +234,19 @@ Parágrafo único. As modificações de instalações, ampliações e transforma
 
 14\) “Composto de gordura vegetal” designa o produto obtido da mistura de óleos e gorduras de origem vegetal hidrogenada ou não.
 
-<strong>Art</strong>. 23. É expressamente proibido adicionar aos produtos referidos no artigo anterior, substâncias que modifiquem as qualidades que realmente possuem, (essências, aromas, corantes e outras), corrigir-lhes os dados analíticos iludindo assim o consumidor sôbre a sua verdadeira origem ou qualidade, a não ser as que forem permitidas por êste regulamento.
+**Art**. 23. É expressamente proibido adicionar aos produtos referidos no artigo anterior, substâncias que modifiquem as qualidades que realmente possuem, (essências, aromas, corantes e outras), corrigir-lhes os dados analíticos iludindo assim o consumidor sôbre a sua verdadeira origem ou qualidade, a não ser as que forem permitidas por êste regulamento.
 
-<strong>Art</strong>. 24. Os óleos vegetais, quando puros ou misturados, poderão ser adicionados de “Clorofila natural” em quantidade estritamente necessária para a obtenção de ligeira coloração verde.
+**Art**. 24. Os óleos vegetais, quando puros ou misturados, poderão ser adicionados de “Clorofila natural” em quantidade estritamente necessária para a obtenção de ligeira coloração verde.
 
 Parágrafo único. Os produtos a que se refere êste artigo, deverão trazer nos respectivos rótulos a expressão “clorofilado” em caracteres nunca inferiores a um têrço dos que indicam a marca do produto.
 
-<strong>Art</strong>. 25. As expressões “extra” ”fino” ou equivalente só serão reservadas para aqueles que, além de apresentarem caracteres organolépticos que assim permitam classificá-los, tenham uma acidez livre em soluto normal, por cento não superior à metade daquela permitida para cada produto.
+**Art**. 25. As expressões “extra” ”fino” ou equivalente só serão reservadas para aqueles que, além de apresentarem caracteres organolépticos que assim permitam classificá-los, tenham uma acidez livre em soluto normal, por cento não superior à metade daquela permitida para cada produto.
 
-<strong>Art</strong>. 26. Nenhum produto, destinado à alimentação humana, poderá ser pôsto à venda, mesmo no varejo, sem ser na embalagem original do fabricante.
+**Art**. 26. Nenhum produto, destinado à alimentação humana, poderá ser pôsto à venda, mesmo no varejo, sem ser na embalagem original do fabricante.
 
 Parágrafo único. Será permitida a venda em grosso em embalagem fichadas e autenticadas de 5, 10, 25 e até 100 quilos, sendo, porém, vedado aos compradores retalhar a mercadoria para revenda em embalagem que não seja a original o fabricante.
 
-<strong>Art</strong>. 27. - Todos os produtos a que se refere o presente regulamento deverão obedecer aos padrões aprovados pelas autoridades competentes.
+**Art**. 27. - Todos os produtos a que se refere o presente regulamento deverão obedecer aos padrões aprovados pelas autoridades competentes.
 
 Parágrafo único. Os padrões de produtos comestíveis de óleos e gorduras vegetais, são os que acompanham êste regulamento, assim subdividos:
 
@@ -260,17 +258,17 @@ c) óleos e gorduras vegetais hidrogenados comestíveis;
 
 d) compostos de gorduras vegetais.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DOS ÓLEOS VEGETAIS COMESTÍVEIS PUROS E ÓLEOS VEGETAIS COMESTÍVEIS COMPOSTOS</em>
+*DOS ÓLEOS VEGETAIS COMESTÍVEIS PUROS E ÓLEOS VEGETAIS COMESTÍVEIS COMPOSTOS*
 
-<strong>Art</strong>. 28. As misturas de óleos deverão ser apresentadas límpidas e isentas de água e detritos.
+**Art**. 28. As misturas de óleos deverão ser apresentadas límpidas e isentas de água e detritos.
 
 § 1º As constantes físicas e químicas deverão corresponder às que apresentam os componentes, guardadas as devidas proporções, sendo a acidez em soluto normal, por cento, não superior a 6 mil.
 
 § 2º Não será permitida quantidade inferior a 30% de qualquer dos óleos nas misturas a que se refere o presente artigo.
 
-<strong>Art</strong>. 29. Óleo de oliva, óleo de oliveira ou azeite, é o óleo genuíno extraído da polpa do fruto são e maduro da oliveira (Ólea européa).
+**Art**. 29. Óleo de oliva, óleo de oliveira ou azeite, é o óleo genuíno extraído da polpa do fruto são e maduro da oliveira (Ólea européa).
 
 Parágrafo único. Deverá ser límpido, isento de água e detritos, apresentar caracteres organolépticos normais e ainda:
 
@@ -284,7 +282,7 @@ d) refração absoluta a + 40º C. de 1.460 a 1.4616;
 
 e) título de 16 a 23.
 
-<strong>Art</strong>. 30. Óleo de caroço de algodão é o óleo genuíno extraído das sementes de algodoeiro (gossipium sp.).
+**Art**. 30. Óleo de caroço de algodão é o óleo genuíno extraído das sementes de algodoeiro (gossipium sp.).
 
 Parágrafo único. Deverá ser límpido, isento de água e detritos, apresentar caracteres organolépticos normais e ainda:
 
@@ -302,7 +300,7 @@ f) reação de Halphen fortemente positiva;
 
 g) permanecer brilhante e límpido após resfriamento a 0º C. durante 5 e meia horas.
 
-<strong>Art</strong>. 31. Estearina de óleo de caroço de algodão é o produto que se separa pelo resfriamento à temperatura capaz de produzir óleo correspondendo à prova do artigo 30 letra <em>g</em>.
+**Art**. 31. Estearina de óleo de caroço de algodão é o produto que se separa pelo resfriamento à temperatura capaz de produzir óleo correspondendo à prova do artigo 30 letra *g*.
 
 Parágrafo único. Quando fundido, deverá apresentar-se límpido, isento de água e detritos, apresentar caracteres organoletivos próprios do produto e ainda:
 
@@ -310,7 +308,7 @@ a) índice de iodo (Hubl, Hanus), de 88 a 194;
 
 b) índice de refração a + 40º C. 1.4633 (Média).
 
-<strong>Art</strong>. 32. Óleo de amendoim é o óleo genuíno extraído das sementes de amendoim (sp).
+**Art**. 32. Óleo de amendoim é o óleo genuíno extraído das sementes de amendoim (sp).
 
 Parágrafo único. Deverá ser límpido, isento de água e detritos, apresentar caracteres organolépticos normais e ainda:
 
@@ -324,7 +322,7 @@ d) refração absoluta a + 40º C. 1.4625, a 1.4650;
 
 e) ensaio de Blarez (cristais de araquidato de potássio) - positivo.
 
-<strong>Art</strong>. 33. Óleo de gergelin (sésamo) é o óleo genuíno extraído das sementes de gergelin (sessamun indicum).
+**Art**. 33. Óleo de gergelin (sésamo) é o óleo genuíno extraído das sementes de gergelin (sessamun indicum).
 
 Parágrafo único. Deverá ser limpido, isento de água e detritos, apresentar caracteres normais e ainda:
 
@@ -336,47 +334,47 @@ c) índice de iodo (Hubl, Manus) de 102 a 116;
 
 d) reação de Villavecchia e Fabris, fortemente positiva.
 
-<strong>Art</strong>. 34. Óleo de dendê é o óleo genuíno extraído do mosocarpo do fruto de dendê (Eloeis Guineenis).
+**Art**. 34. Óleo de dendê é o óleo genuíno extraído do mosocarpo do fruto de dendê (Eloeis Guineenis).
 
 Parágrafo único. Deverá ser límpido, isento de água e destritos, apresentar caracteres organolépticos próprios do produto e ainda:
 
 a) acidez livre, em soluto normal por cento, não superior a 25ml;
 
-b) índice de saponificação (<em>Koettstorfer</em>) de 195 a 205;
+b) índice de saponificação (*Koettstorfer*) de 195 a 205;
 
-c) índice de iodo (<em>Hubl</em>, <em>Hanus</em>) de 52 a 60;
+c) índice de iodo (*Hubl*, *Hanus*) de 52 a 60;
 
 d) refração absoluta a + 40ºC. 1.4531 e 1.4559.
 
-<strong>Art</strong>. 35. Óleo de Patuá é o óleo genuíno, extraído do fruto de patuá (Conocarpus patuá, Mart.).
+**Art**. 35. Óleo de Patuá é o óleo genuíno, extraído do fruto de patuá (Conocarpus patuá, Mart.).
 
 Parágrafo único. Deverá ser límpido, isento de água e detritos, apresentar caracteres organolépticos normais e ainda:
 
 a) acidez livre em soluto normal por cento, não superior a 6ml;
 
-b) índice de saponificação (<em>Koettstorfer</em>) de 190 a 198;
+b) índice de saponificação (*Koettstorfer*) de 190 a 198;
 
-c) índice de iodo (<em>Hubl</em>, <em>Hanus</em>) de 72 a 80;
+c) índice de iodo (*Hubl*, *Hanus*) de 72 a 80;
 
 d) refração absoluta a + 40ºC. 1.459 a 1.4620.
 
-<strong>Art</strong>. 36. Óleo de Bacaba é o óleo genuíno extraído da polpa do fruto da bacaba (Cenocarpus bacaba Mart).
+**Art**. 36. Óleo de Bacaba é o óleo genuíno extraído da polpa do fruto da bacaba (Cenocarpus bacaba Mart).
 
 Parágrafo único. Deverá ser límpido, isento de água e detritos, apresentar caracteres organolépticos normais e acidez livre em soluto normal por cento, não superior a 6ml.
 
-<strong>Art</strong>. 37. Óleo de coco da Bahia ou da praia é o óleo extraído da amêndoa dessecada (Copra) do coco.
+**Art**. 37. Óleo de coco da Bahia ou da praia é o óleo extraído da amêndoa dessecada (Copra) do coco.
 
 Parágrafo único. Quando fundido deverá apresentar-se límpido, isento de água e detritos, apresentar caracteres organolépticos, normais e ainda:
 
 a) acidez livre em soluto normal por cento, não superior a 2ml;
 
-b) índice do iodo (<em>Hubl</em>, <em>Hanus</em>) de treze a dezoito;
+b) índice do iodo (*Hubl*, *Hanus*) de treze a dezoito;
 
-c) índice de <em>Reichert</em>\-<em>Meissal</em> de 4 a 8;
+c) índice de *Reichert*\-*Meissal* de 4 a 8;
 
-d) índice de <em>Polenske</em> de 10 a 16.
+d) índice de *Polenske* de 10 a 16.
 
-<strong>Art</strong>. 38. Óleo de coco babaçu é o óleo genuíno extraído da amêndoa de coco da babaçu (Orbignia sp.).
+**Art**. 38. Óleo de coco babaçu é o óleo genuíno extraído da amêndoa de coco da babaçu (Orbignia sp.).
 
 Parágrafo único. Quando fundido deverá ser límpido, isento de água e detritos e apresentar caracteres organolépticos normais e ainda:
 
@@ -384,31 +382,31 @@ a) acidez livre em soluto normal por cento, não superior a 2ml;
 
 b) Índice de iódo de 13 a 18;
 
-c) Índice de <em>Reichert</em> <em>Meissal</em> de 4 a 8;
+c) Índice de *ReichertMeissal* de 4 a 8;
 
-d) Índice de <em>Polenske</em> de 10 a 16.
+d) Índice de *Polenske* de 10 a 16.
 
-<strong>Art</strong>. 39. Mistura de óleo de conquilho é o óleo extraído das amêndoas de vários coqueiros  e palmeiras.
+**Art**. 39. Mistura de óleo de conquilho é o óleo extraído das amêndoas de vários coqueiros  e palmeiras.
 
 Parágrafo único. Quando fundido, deverá ser límpido, isento de água e detritos e apresentar caracteres organolépticos, normais e ainda constantes físicas e químicas normais.
 
-<strong>Art</strong>. 40. Óleo de Girassol é o óleo genuíno extraído das semente do girassol (<em>Helianthus</em> <em>anuus</em>).
+**Art**. 40. Óleo de Girassol é o óleo genuíno extraído das semente do girassol (*Helianthusanuus*).
 
 Parágrafo único. Deverá ser límpido, isento de água e detritos, apresentar caracteres organolépticos normais e ainda:
 
 a) acidez livre em soluto normal por cento, não superior a 2ml;
 
-b) índice de separação (<em>Koettstorfer</em>) de 187 a 195;
+b) índice de separação (*Koettstorfer*) de 187 a 195;
 
-c) índice de iodo (<em>Hubl</em>, <em>Hanus</em>) 119 a 133.
+c) índice de iodo (*Hubl*, *Hanus*) 119 a 133.
 
-<strong>Art</strong>. 41. Os Óleos de milho, licuri, castanha do Pará e Soja, são óleos genuínos extraídos, respectivamente do milho (Zea mais) licuri (Côcos coronata) castanha do Pará (<em>Bertholletia</em> excelsa H.B.K.) soja (Sp.).
+**Art**. 41. Os Óleos de milho, licuri, castanha do Pará e Soja, são óleos genuínos extraídos, respectivamente do milho (Zea mais) licuri (Côcos coronata) castanha do Pará (*Bertholletia* excelsa H.B.K.) soja (Sp.).
 
 § 1º Os Óleos de que trata o presente artigo, somente poderão ser dados ao consumo quando em estado de pureza conseguida por processos industriais adequados.
 
 § 2º Os Óleos de que trata o parágrafo anterior deverão apresentar caracteres organolépticos constantes físicas e químicas normais, ser límpidos, isentos de água e de detritos.
 
-<strong>Art</strong>. 42. Os óleos genuínos e as misturas de óleos serão considerados impróprias, para consumo quando:
+**Art**. 42. Os óleos genuínos e as misturas de óleos serão considerados impróprias, para consumo quando:
 
 a) apresentarem caracteres organolépticos que denunciem alterações ou que tornem desaconselháveis como óleos comestíveis;
 
@@ -418,23 +416,23 @@ c) apresentarem turvação, detritos, sujidades ou quaisquer outras impurezas ou
 
 d) extraídos por solventes que não forem previamente aprovados.
 
-<strong>Art</strong>. 43. Serão considerados falsificados os óleos puros ou misturados, cujos os dados analíticos não estejão dentro dos padrões estabelecidos, para os óleo puros ou conforme o disposto no § 1º do artigo 28, no caso de misturas.
+**Art**. 43. Serão considerados falsificados os óleos puros ou misturados, cujos os dados analíticos não estejão dentro dos padrões estabelecidos, para os óleo puros ou conforme o disposto no § 1º do artigo 28, no caso de misturas.
 
-<strong>Art</strong>. 44. Os óleos genuínos ou misturas de óleos serão considerados fraudados:
+**Art**. 44. Os óleos genuínos ou misturas de óleos serão considerados fraudados:
 
 a) quando na qualidade, pêso ou medida, diversificarem na embalagem, rótulos ou etiquetas;
 
 b) quando os rótulos contiverem marcas, dizeres ou desenhos que possam induzir o consumidor, à falsa indicação.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DOS ÓLEOS VEGETAIS HIDROGENADOS COMESTÍVEIS</em>
+*DOS ÓLEOS VEGETAIS HIDROGENADOS COMESTÍVEIS*
 
-<strong>Art</strong>. 45. Como catalizador no processo de hidrogenização, será apenas tolerado níquel.
+**Art**. 45. Como catalizador no processo de hidrogenização, será apenas tolerado níquel.
 
-Parágrafo único. Será tolerado a presença do níquel no produto hidrogenado a ser dado consumo, quando a reação da <em>dimetilglioxima</em> procedida no resíduo, revelar catalizador em proporção inferior a um para 250.000.
+Parágrafo único. Será tolerado a presença do níquel no produto hidrogenado a ser dado consumo, quando a reação da *dimetilglioxima* procedida no resíduo, revelar catalizador em proporção inferior a um para 250.000.
 
-<strong>Art</strong>. 46. Os óleos hidrogenados deverão apresentar:
+**Art**. 46. Os óleos hidrogenados deverão apresentar:
 
 a) acidez livre em soluto normal %, inferior a dois ml;
 
@@ -444,9 +442,9 @@ c) substância gorda não inferior a 99%;
 
 d) cheiro e sabor agradável;
 
-e) como substância reveladora o amido (0,3%), óleo de caroço de algodão ou óleo de Gergelim (5%) ou em qualidade fàcilmente identificável por prcesso químico (água iodada, reação de <em>Halphen</em> e reação de <em>Villacechia</em> <em>Fabris</em>).
+e) como substância reveladora o amido (0,3%), óleo de caroço de algodão ou óleo de Gergelim (5%) ou em qualidade fàcilmente identificável por prcesso químico (água iodada, reação de *Halphen* e reação de *VillacechiaFabris*).
 
-<strong>Art</strong>. 47. Serão considerados impróprio para o consumo os óleos e gorduras hidrogenadas nas seguintes condições:
+**Art**. 47. Serão considerados impróprio para o consumo os óleos e gorduras hidrogenadas nas seguintes condições:
 
 a) apresentarem caractere organolépticos que denunciem alterações desaconselháveis para o consumo;
 
@@ -462,13 +460,13 @@ f) apresetarem disseminados na massa: insetos, detritos ou sujidades;
 
 g) apresentarem níquel, em quantidade superior a estabelecida pelo presente regulamento.
 
-<strong>Art</strong>. 48. Serão considerados falsificados os óleos e gorduras hidrogenados nas condições seguintes:
+**Art**. 48. Serão considerados falsificados os óleos e gorduras hidrogenados nas condições seguintes:
 
 a) quando o teor da susbstância gorda fôr inferior a 99%;
 
 b) quando os dados analíco estiverem em desacôrdo com os padrões rspectivos.
 
-<strong>Art</strong>. 49. Serão considerados fraudados os óleos e gorduras hidrogenados:
+**Art**. 49. Serão considerados fraudados os óleos e gorduras hidrogenados:
 
 a) que na qualidade, pêso e medida, diversificarem nas embalagens, rótulos ou etiquetas;
 
@@ -478,11 +476,11 @@ c) quando os rótulos contiverem nomes, dizeres ou desenhos que possam induzir o
 
 d) que não trouxerem nos rótulos a indicação “hidrogenado” em caracteres do mesmo tamanho e côr referente ao óleo básico.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>DOS COMPOSTOS DE GORDURA VEGETAL</em>
+*DOS COMPOSTOS DE GORDURA VEGETAL*
 
-<strong>Art</strong>. 50. Os compostos de gordura vegetal deverão satisfazer às seguintes exigências:
+**Art**. 50. Os compostos de gordura vegetal deverão satisfazer às seguintes exigências:
 
 a) apresentarem caracteres organolépticos peculiares ao produto dessa natureza;
 
@@ -496,9 +494,9 @@ e) conter como substância reveladora, o amido (0,3%), o óleo de caroço de alg
 
 f) apresentar perfeita homogenização de massa.
 
-<strong>Art</strong>. 51. Será tolerada a presença do níquel como catalizador, em quantidade não superior a 1 para 250,000.
+**Art**. 51. Será tolerada a presença do níquel como catalizador, em quantidade não superior a 1 para 250,000.
 
-<strong>Art</strong>. 52. Serão considerados impróprios para o consumo os compostos de gordura vegetal que:
+**Art**. 52. Serão considerados impróprios para o consumo os compostos de gordura vegetal que:
 
 a) não apresentarem caracteres organolépticos peculiares a êsses produtos;
 
@@ -514,7 +512,7 @@ f) contiverem substâncias conservadoras;
 
 g) apresentarem disseminados na massa: insetos, detritos e sujidades.
 
-<strong>Art</strong>. 53. Serão considerados falsificados os compostos de gordura vegetal:
+**Art**. 53. Serão considerados falsificados os compostos de gordura vegetal:
 
 a) cujo o teor de substância gorda fôr inferior a 99%;
 
@@ -522,11 +520,11 @@ b) que não apresentarem positivas as reações características de um dos revel
 
 c) cujo os dados analíticos não se assemelharem aos verificados por ocasião do devido registro.
 
-<strong>CAPÍTULO X</strong>
+**CAPÍTULO X**
 
-<em>DOS PRODUTOS EXTRATIVOS E INDUSTRIAIS NÃO COMESTÍVEIS</em>
+*DOS PRODUTOS EXTRATIVOS E INDUSTRIAIS NÃO COMESTÍVEIS*
 
-<strong>Art</strong>. 54. A fiscalização dos produtos extrativos e industrias não comestíveis processa-se-á de acôrdo com os padrões fornecidos de suas análises e aprovação, quando exigirem ou tendo em vista especificações aprovadas para sua padronização pelos órgãos competentes, ou as constantes dos cadernos de encargos de repartições oficiais.
+**Art**. 54. A fiscalização dos produtos extrativos e industrias não comestíveis processa-se-á de acôrdo com os padrões fornecidos de suas análises e aprovação, quando exigirem ou tendo em vista especificações aprovadas para sua padronização pelos órgãos competentes, ou as constantes dos cadernos de encargos de repartições oficiais.
 
 § 1º O I.O., em colaborção com os demais órgãos competentes, promoverá a padronização de todos o produtos não comestíveis a que se refere o presente regulamento;
 
@@ -552,7 +550,7 @@ a) sabor e cheiro adocicados;
 
 b) livre de umidade e depósitos;
 
-c) côr não excedente a 35 amarelo e 7,6 vermelho combinados, no <em>Lovibond</em> (133mm);
+c) côr não excedente a 35 amarelo e 7,6 vermelho combinados, no *Lovibond* (133mm);
 
 d) acidez livre, 0,25% no máximo;
 
@@ -588,7 +586,7 @@ d) densidade 0,95 mínimo, a 0,97 no máximo t. 15º, 5C;
 
 e) índice de refração 1.475 a 1.482 a 25ºC;
 
-f) côr: 20m amarelo e 2 vermelho, na escala <em>Lovinbond</em>.
+f) côr: 20m amarelo e 2 vermelho, na escala *Lovinbond*.
 
 Óleo de rícino industrial nº 3;
 
@@ -602,7 +600,7 @@ d) índice de refração 1.475 a 1.482 a 25ºC;
 
 e) densidade 0,95 mínimo a 0,97 no máximo t. 15º, 5C.;
 
-f) côr: amarelo 35 e vermelho 3 a 4 na escala <em>Lovibond</em>.
+f) côr: amarelo 35 e vermelho 3 a 4 na escala *Lovibond*.
 
 6 - Óleo bruto de Tungue:
 
@@ -662,7 +660,7 @@ d) índice de saponificação 190 a 193,5;
 
 e) índice de iódo 930m. (Wijs) 144 a 155;
 
-f) proca de aquecimento (<em>Brown</em>) 19 minutos;
+f) proca de aquecimento (*Brown*) 19 minutos;
 
 g) perda na secagem 0,15%, no máximo:
 
@@ -680,11 +678,11 @@ b) índice de refração a 25ºC. 1,5.095 a 1,514;
 
 c) número de ácido 8,0 na máximo;
 
-d) viscosidade (<em>Gardener</em> <em>Holt</em>) não menos que W menor;
+d) viscosidade (*GardenerHolt*) não menos que W menor;
 
 e) índice de saponificação 191 a 197;
 
-f) prova de aquecimento (Método de <em>Brown</em>) 15 minutos máximo;
+f) prova de aquecimento (Método de *Brown*) 15 minutos máximo;
 
 g) índice de iódo - Wijs - 133 a 146;
 
@@ -694,51 +692,51 @@ i) matéria insolúvel 0,04%, conforme a prova idêntica do óleo bruto número 
 
 Tortas e Farelos
 
-<strong>Art</strong>. 55. Entende-se por torta oleaginosa o resíduo direto da extração de um óleo ou gordura vegetal.
+**Art**. 55. Entende-se por torta oleaginosa o resíduo direto da extração de um óleo ou gordura vegetal.
 
-<strong>Art</strong>. 56. A torta pulverizada, denomina-se farelo.
+**Art**. 56. A torta pulverizada, denomina-se farelo.
 
-<strong>Art</strong>. 57. As tortas e farelos devem, ser sempre acompanhada de indicação clara quanto:
+**Art**. 57. As tortas e farelos devem, ser sempre acompanhada de indicação clara quanto:
 
 a) matéria prima de que provenham;
 
 b) grau de beneficiamento da matéria prima (descascada ou com casca);
 
-c) forma de extração (presença “<em>expeller</em>”, solvente). No caso de solvente êste deve ser especificado.
+c) forma de extração (presença “*expeller*”, solvente). No caso de solvente êste deve ser especificado.
 
-<strong>Art</strong>. 58. As tortas e farelos que podem ser usados na alimentação, deve, além das indicações exigidas, trazer a designação “comestíveis”.
+**Art**. 58. As tortas e farelos que podem ser usados na alimentação, deve, além das indicações exigidas, trazer a designação “comestíveis”.
 
 Parágrafo único. A designação ”comestível” importa na garantia por parte do vendedor dessa qualidade.
 
-<strong>Art</strong>. 59. As tortas ou farelos tóxicos, repelentes ou duvidosos, ou comestíveis que, devido a alterações diversas impróprias ao fim indicados só poderão ser usados como adubo ou combustível, e deverão trazer a indicação “adubo”ou “combustível”.
+**Art**. 59. As tortas ou farelos tóxicos, repelentes ou duvidosos, ou comestíveis que, devido a alterações diversas impróprias ao fim indicados só poderão ser usados como adubo ou combustível, e deverão trazer a indicação “adubo”ou “combustível”.
 
-<strong>Art</strong>. 60. É proibido conservar no mesmo recinto, ou de qualquer modo que possibilite mistura, tortas ou farelos comestíveis, ou matéria prima que os origina, e tortas, farelos ou sementes, não comestíveis, ou outros materiais nocivos.
+**Art**. 60. É proibido conservar no mesmo recinto, ou de qualquer modo que possibilite mistura, tortas ou farelos comestíveis, ou matéria prima que os origina, e tortas, farelos ou sementes, não comestíveis, ou outros materiais nocivos.
 
-<strong>Art</strong>. 61.. As tortas ou farelos comestíveis devem ser apresentados e mantidos em estado de conservação adequado, devendo ser suprimido o qualificativo “comestível”, desde que se manisfestem ataques por fungos ou animais parasitas, fermentação ou ranço, que os tornem impróprios ao uso alimentar.
+**Art**. 61.. As tortas ou farelos comestíveis devem ser apresentados e mantidos em estado de conservação adequado, devendo ser suprimido o qualificativo “comestível”, desde que se manisfestem ataques por fungos ou animais parasitas, fermentação ou ranço, que os tornem impróprios ao uso alimentar.
 
-<strong>Art</strong>. 62. As tortas de farelos comestíveis quando destinada ao comércio interestadual ou de exportação, devem ser acompanhados da indicação dos teores de proteína bruta e gordura residual, expresso sôbre a matéria sêca (o deve ser declarado) ou sôbre o teor padrão de umidade quando o comprador exigir, e determinados por métodos estabelecidos pelas autoridades competentes, ou quais devem ser especificados.
+**Art**. 62. As tortas de farelos comestíveis quando destinada ao comércio interestadual ou de exportação, devem ser acompanhados da indicação dos teores de proteína bruta e gordura residual, expresso sôbre a matéria sêca (o deve ser declarado) ou sôbre o teor padrão de umidade quando o comprador exigir, e determinados por métodos estabelecidos pelas autoridades competentes, ou quais devem ser especificados.
 
-<strong>Art</strong>. 63. Consideram-se fraudados as tortas e farelos que não estiverem de acôrdo com as indicações que acompanharem, tolerando-se uma diferença nos teores da gordura e proteina, de no máximo 2%.
+**Art**. 63. Consideram-se fraudados as tortas e farelos que não estiverem de acôrdo com as indicações que acompanharem, tolerando-se uma diferença nos teores da gordura e proteina, de no máximo 2%.
 
-<strong>Art</strong>. 64. O teor de umidade das tortas e farelos não devem ultrapassar 12%.
+**Art**. 64. O teor de umidade das tortas e farelos não devem ultrapassar 12%.
 
-<strong>Art</strong>. 65. As tortas e farelos comestíveis que contiverem matérias nocivas (semente de mamona, etc.) serão apreendidos e desnaturados, fincando o responsável sujeito às penalidades regulamenteres.
+**Art**. 65. As tortas e farelos comestíveis que contiverem matérias nocivas (semente de mamona, etc.) serão apreendidos e desnaturados, fincando o responsável sujeito às penalidades regulamenteres.
 
-<strong>Art</strong>. 66. As tortas e farelos mistos, devem trazer indicação da natureza e percentagem dos componentes.
+**Art**. 66. As tortas e farelos mistos, devem trazer indicação da natureza e percentagem dos componentes.
 
-<strong>CAPÍTULO XI</strong>
+**CAPÍTULO XI**
 
-<em>DAS MARCAS E RÓTULOS</em>
+*DAS MARCAS E RÓTULOS*
 
-<strong>Art</strong>. 67. Todos os produtos elaborados ou beneficiados em estabelecimentos registrados devem ter o carimbo ou marca oficial aplicado diretamente no produto, vasilhame ou continente, de acôrdo com as instruções do I.O.
+**Art**. 67. Todos os produtos elaborados ou beneficiados em estabelecimentos registrados devem ter o carimbo ou marca oficial aplicado diretamente no produto, vasilhame ou continente, de acôrdo com as instruções do I.O.
 
-<strong>Art</strong>. 68. Quando acondicionados em latas, vidros ou quaisquer outros recipientes, nestes serão afixados ou gravados os rótulos previamente registrados.
+**Art**. 68. Quando acondicionados em latas, vidros ou quaisquer outros recipientes, nestes serão afixados ou gravados os rótulos previamente registrados.
 
 § 1º Nestes rótulos deverá figurar em ponto bem visível a expressão: “Indútria Brasileira”, bem como o nome ou firma do fabricante e local da fabricação, pêso bruto e pêso líquido.
 
 § 2º não será permitido nenhuma declaração, palavra, desenho ou pintura que transmita falsa impressão ou forneça falsa indicação de origem ou qualidade. As expressões “extra” “fino” ou equivalentes só serão empregadas nos casos previsros no artigo 25 do corrente regulamento.
 
-<strong>Art</strong>. 69. O I.O. manterá um registro de rótulo para os produtos elaborados nos estabelecimentos sob fiscalização, quando se tratar de marcas especiais.
+**Art**. 69. O I.O. manterá um registro de rótulo para os produtos elaborados nos estabelecimentos sob fiscalização, quando se tratar de marcas especiais.
 
 § 1º Entende-se por rótulo para o efeito de registro, impressos litografados, impressos por gravação ou pressão, lacres, etiquetas, invólucros e receptáculos.
 
@@ -746,39 +744,39 @@ Parágrafo único. A designação ”comestível” importa na garantia por part
 
 § 3º Para efeito do registro dos rótulos destinados aos produtos comestíveis não será exigida comprovação de análise prévia procedida por laboratório oficial; quando se tratar de mistura, esta deve constar percentualmente dos rótulos, de acôrdo com o § 2º do art. 28, dêste regulamento.
 
-<strong>Art</strong>. 70. Os rótulos registrados só poderão ser utilizados na designação daqueles produtos para os quais tenham sido especialmente aprovados.
+**Art**. 70. Os rótulos registrados só poderão ser utilizados na designação daqueles produtos para os quais tenham sido especialmente aprovados.
 
-<strong>Art</strong>. 71. Nos produtos destinados ao comércio internacional é permitido o uso de rótulos ou impressos em língua estrangeira com a respectiva tradução em vernáculo.
+**Art**. 71. Nos produtos destinados ao comércio internacional é permitido o uso de rótulos ou impressos em língua estrangeira com a respectiva tradução em vernáculo.
 
-<strong>Art</strong>. 72. Nos recipientes a marca oficial pode ser gravada em alto relevo; neste caso poderá ser dispensada a reprodução da marca nos rótulos e etiquetas.
+**Art**. 72. Nos recipientes a marca oficial pode ser gravada em alto relevo; neste caso poderá ser dispensada a reprodução da marca nos rótulos e etiquetas.
 
 Parágrafo único - Nenhum rótulo, etiqueta ou sêlo poderá ser aplicado escondendo ou encobrindo a marca oficial.
 
-<strong>Art</strong>. 73. Quando os produtos forem envolvidos em papelão, papel, pano ou envólucro equivalentes, a marca oficial será aplicada no próprio envólucro, ou como etiqueta em relevo.
+**Art**. 73. Quando os produtos forem envolvidos em papelão, papel, pano ou envólucro equivalentes, a marca oficial será aplicada no próprio envólucro, ou como etiqueta em relevo.
 
-<strong>Art</strong>. 74. Todos os produtos alimentícios devem mencionar no recipiente, ou rótulos os pêsos líquidos e brutos.
+**Art**. 74. Todos os produtos alimentícios devem mencionar no recipiente, ou rótulos os pêsos líquidos e brutos.
 
-<strong>Art</strong>. 75. Os produtos não comestíveis, além de marca oficial litografada, gravada ou a fogo, no recipiente, terão ao lado em caracteres bem visíveis, as palavras “Uso Industrial”.
+**Art**. 75. Os produtos não comestíveis, além de marca oficial litografada, gravada ou a fogo, no recipiente, terão ao lado em caracteres bem visíveis, as palavras “Uso Industrial”.
 
-<strong>Art</strong>. 76. Os óleos vegetais, quando não constituam mistura deverão trazer a denominação”Óleo ou Azeite”, seguida imediatamente do nome do fruto ou semente que lhe deu origem em caracteres, de igual tamanho e côr ao lado da palavra “Óleo” ou “Azeite”. Ex: “Óleo de amendoim”ou “Azeite de amendoim”.
+**Art**. 76. Os óleos vegetais, quando não constituam mistura deverão trazer a denominação”Óleo ou Azeite”, seguida imediatamente do nome do fruto ou semente que lhe deu origem em caracteres, de igual tamanho e côr ao lado da palavra “Óleo” ou “Azeite”. Ex: “Óleo de amendoim”ou “Azeite de amendoim”.
 
-<strong>Art</strong>. 77. Na embalagem dos óleos e gorduras vegetais de que trata o artigo anterior, quando vendidos sob determinada marca comercial, deverá constar, além da declaração de origem do produto, caracteres no máximo duas vêzes maiores dos da marca, o nome do óleo ou gordura, embora possa ser de côr diversa.
+**Art**. 77. Na embalagem dos óleos e gorduras vegetais de que trata o artigo anterior, quando vendidos sob determinada marca comercial, deverá constar, além da declaração de origem do produto, caracteres no máximo duas vêzes maiores dos da marca, o nome do óleo ou gordura, embora possa ser de côr diversa.
 
-<strong>Art</strong>. 78. A mistura de óleos vegetais comestíveis deverá trazer em rótulo a expressão “óleo vegetal misto”, podendo ou não seguir-se a marca de comércio.
+**Art**. 78. A mistura de óleos vegetais comestíveis deverá trazer em rótulo a expressão “óleo vegetal misto”, podendo ou não seguir-se a marca de comércio.
 
 § 1º Os óleos mistos deverão trazer nos rótulos as especificações das misturas e suas respectivas percentagens em ordem decrecente, em caracteres uniformes e em uma só côr.
 
 § 2º As especificações exigidas no parágrafo anterior deverão ser expressas em caracteres uniformes, no mínimo de um terço dos empregados na designação do produto.
 
-<strong>Art</strong>. 79. Os óleos hidrogenados de origem vegetal serão designados por “gordura vegetal hidrogenada”, em caracteres de igual tamanho e côr.
+**Art**. 79. Os óleos hidrogenados de origem vegetal serão designados por “gordura vegetal hidrogenada”, em caracteres de igual tamanho e côr.
 
 § 1º Quando designados por marca de comércio, as expressões exigidas neste artigo deverão ser usadas em caracteres no máximo duas vêzes maiores, podendo ser em côres diversas.
 
 § 2º Essas denominações deverão ser seguidas imediatamente do nome do óleo que lhe deu origem com o qualitativo de hidrogenada com caracteres de igual tamanho e côr ao da expressão “Gordura Vegetal”. Ex: “Gordura Vegetal Cruzeiro”, hidrogenada; ou “Gordura de amendoim hidrogenada cruzeiro”, óleo hidrogenado de caroço de algodão.
 
-<strong>Art</strong>. 80. Nos rótulos referentes ao produto de que trata o artigo anterior é expressamente proibido o emprêgo da palavra “Banha”.
+**Art**. 80. Nos rótulos referentes ao produto de que trata o artigo anterior é expressamente proibido o emprêgo da palavra “Banha”.
 
-<strong>Art</strong>. 81. Os compostos constituídos exclusivamente de óleos e gorduras de origem vegetal hidrogenadas serão designadas por “compôsto de gordura Vegetal”, usados só letra de igual tamanho e côr.
+**Art**. 81. Os compostos constituídos exclusivamente de óleos e gorduras de origem vegetal hidrogenadas serão designadas por “compôsto de gordura Vegetal”, usados só letra de igual tamanho e côr.
 
 § 1º A marca comercial dos compostos de que trata o presente artigo, quando usada será em caracteres duas vêzes maior, no máximo, ao do nome do produto, emora possa ser de côr diversa.
 
@@ -786,21 +784,21 @@ Parágrafo único - Nenhum rótulo, etiqueta ou sêlo poderá ser aplicado escon
 
 § 3º Os caracteres a que se refere o parágrafo anterior terão no mínimo um terço do tamanho dos empregados na palavra que designa o produto.
 
-<strong>Art</strong>. 82. Os compostos de gordura vegetal trarão obrigatoriamente nos respectivos rótulos indicações relativas à variação dos índices”:
+**Art**. 82. Os compostos de gordura vegetal trarão obrigatoriamente nos respectivos rótulos indicações relativas à variação dos índices”:
 
 a) Iodo (indicando método).
 
 b) Refração absoluta à mais 40ºC.
 
-<strong>CAPÍTULO XII</strong>
+**CAPÍTULO XII**
 
-<em>DA REINSPEÇÃO</em>
+*DA REINSPEÇÃO*
 
-<strong>Art</strong>. 83. Os óleos e gorduras destinados à alimentação humana, serão inspecionados tantas vêzes quantas forem necessárias antes de serem expedidos pela fábrica para comécio internacional ou interestadual.
+**Art**. 83. Os óleos e gorduras destinados à alimentação humana, serão inspecionados tantas vêzes quantas forem necessárias antes de serem expedidos pela fábrica para comécio internacional ou interestadual.
 
 Parágrafo único. Os produtos que nesta reinspeção forem julgados impróprios para o consumo, serão condenados, retirados as marcas oficiais, desnaturados e encaminhados para uso industrial, ou devolvido para a devida refinação.
 
-<strong>Art</strong>. 84. A reinspeção visará especialmente:
+**Art**. 84. A reinspeção visará especialmente:
 
 a) identificar o produto pela marca oficial, e pelo rótulo que indique sua procedência;
 
@@ -810,7 +808,7 @@ c) exame dos caracteres organolépticos;
 
 d) eames e análise que forem julgados necessários.
 
-<strong>Art</strong>. 85. Em caso de dúvidas sôbre as condições sanitárias de qualquer produto comestível, ficará a partida sobrestada, sendo o interessado responsável por sua conservação, até esclarecimento final pelas análises previta na letra <em>d</em>, do art. 84.
+**Art**. 85. Em caso de dúvidas sôbre as condições sanitárias de qualquer produto comestível, ficará a partida sobrestada, sendo o interessado responsável por sua conservação, até esclarecimento final pelas análises previta na letra *d*, do art. 84.
 
 § 1º A autoridade que proceder à inspeção, fornecerá ao interessado uma amostra devidamente acondicionada e autenticada como contraprova.
 
@@ -818,11 +816,11 @@ d) eames e análise que forem julgados necessários.
 
 § 3º Confirmada a condenação do produto será observado o que dispõe o parágrafo único do art. 83.
 
-<strong>CAPÍTULO XIII</strong>
+**CAPÍTULO XIII**
 
-<em>DAS INFRAÇÕES E PENALIDADES</em>
+*DAS INFRAÇÕES E PENALIDADES*
 
-<strong>Art</strong>. 86. Serão aos que infrigirem ao dispositivos do presente regulamento, as seguintes penalidades:
+**Art**. 86. Serão aos que infrigirem ao dispositivos do presente regulamento, as seguintes penalidades:
 
 § 1º Multa de dois mil cruzeiros (Cr$2.000,00) e em dôbro na reincidência, aos responsávei pelos estabelecimento onde fôr verificado:
 
@@ -844,11 +842,11 @@ b) alterarem ou modificarem à composição dos produtos, sem prévia autorizaç
 
 § 4º Multa de cinco mil cruzeiros (Cr$5.000,00) e cassação de registro na reicidência aos propriétarios responsáveis que lançarem mão do rótulo ou marca oficiais para facilitar o escoamento de produto não legalizados para o comércio internacional.
 
-<strong>Art</strong>. 87. As faltas profiossionais previstas nos arts. 4º, nº 4, 19 e seus parágrafos serão punidos conforme o expresso no art. 5º §§ 1º e 2º e no art. 19 §§ 2º e 3º com multa de cinco mil cruzeiros (Cr$5.000,00) e em dôbro na reincidência aos que subordinarem, tentarem subordinar, ou usarem de violência contra qualquer contra qualquer funcionário no exercício de suas funções.
+**Art**. 87. As faltas profiossionais previstas nos arts. 4º, nº 4, 19 e seus parágrafos serão punidos conforme o expresso no art. 5º §§ 1º e 2º e no art. 19 §§ 2º e 3º com multa de cinco mil cruzeiros (Cr$5.000,00) e em dôbro na reincidência aos que subordinarem, tentarem subordinar, ou usarem de violência contra qualquer contra qualquer funcionário no exercício de suas funções.
 
-<strong>Art</strong>. 88. A responsabilidade dos funcionários públicos nos casos de conviniências da pática de contravenções, será apurada mediante proceso administrativo, de acôdo com a legislação específica, sujeitos as respectivas penalidades.
+**Art**. 88. A responsabilidade dos funcionários públicos nos casos de conviniências da pática de contravenções, será apurada mediante proceso administrativo, de acôdo com a legislação específica, sujeitos as respectivas penalidades.
 
-<strong>Art</strong>. 89. O infrator, uma vez multado, terá 8 dias para efetuar o pagamento da multa, exibir ao encarregado a inspecção o talão do recolhimento da importância correspondente, feita em qualquer repartição arrecadadora federal, sem o que não serão desembaraçados quaisquer produtos.
+**Art**. 89. O infrator, uma vez multado, terá 8 dias para efetuar o pagamento da multa, exibir ao encarregado a inspecção o talão do recolhimento da importância correspondente, feita em qualquer repartição arrecadadora federal, sem o que não serão desembaraçados quaisquer produtos.
 
 § 1º A autoridade que lavrar o auto da infração deverá extraí-lo em três (3) vias descrevendo a infração circunstanciadamente. A primeira via será entregue ao infrator, a segunda encaminhada à Diretoria do I.O. e a terceira constituirá o canhoto do próprio talão de lavraturado auto.
 
@@ -856,28 +854,28 @@ b) alterarem ou modificarem à composição dos produtos, sem prévia autorizaç
 
 § 3º Imposta a multa caberá recurso ao I.O. dentro do prazo de 8 dias, mediante depósito prévio da multa.
 
-<strong>Art</strong>. 90. A aplicação das penas de que trata o presente Regulamento não isenta o infrator da responsabilidade criminal que no caso couber.
+**Art**. 90. A aplicação das penas de que trata o presente Regulamento não isenta o infrator da responsabilidade criminal que no caso couber.
 
-<strong>CAPÍTULO XIV</strong>
+**CAPÍTULO XIV**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 91. As dúvidas que por ventura surgirem na execução do presente Regulamento, serão resolvidas em cooperação pela Diretoria do instituto de Óleos, e pela Diretoria do S.E.R.
+**Art**. 91. As dúvidas que por ventura surgirem na execução do presente Regulamento, serão resolvidas em cooperação pela Diretoria do instituto de Óleos, e pela Diretoria do S.E.R.
 
 Parágrafo único. Quando se tratar de assunto referente à exportação de produtos e estejam ao mesmo afeto ao Serviço de Economia Rural, caberá a êste decidir em última instância, ou vida quando fôr o caso a diretoria do Instituto de Óleos.
 
-<strong>Art</strong>. 92. Aos produtos de que trata o presente Regulamento, quando destinados à exportação, aplicam-se as disposições do Decreto-lei nº 834, de 15 de março de 1938 e Decreto número 5.739, de 29 de maio de 1940.
+**Art**. 92. Aos produtos de que trata o presente Regulamento, quando destinados à exportação, aplicam-se as disposições do Decreto-lei nº 834, de 15 de março de 1938 e Decreto número 5.739, de 29 de maio de 1940.
 
-<strong>Art</strong>. 93. Os produtos analizados serão considerados, para efeito de cobrança da taxa de fiscalização de exportação, como produtos classificados.
+**Art**. 93. Os produtos analizados serão considerados, para efeito de cobrança da taxa de fiscalização de exportação, como produtos classificados.
 
 Parágrafo único. O Serviço de Economia Rural proporá as taxas a serem cobradas nos caso omissos.
 
-<strong>Art</strong>. 94. O Ministério da Agricultura, por proposta do I.O. e de acôdo com o S.E.R. poderá alterar as especificações dos produtos já padronizados ou criar novos padões, de acôrdo com a evolução científica e técnica da indústria de óleos.
+**Art**. 94. O Ministério da Agricultura, por proposta do I.O. e de acôdo com o S.E.R. poderá alterar as especificações dos produtos já padronizados ou criar novos padões, de acôrdo com a evolução científica e técnica da indústria de óleos.
 
-<strong>Art</strong>. 95. Caberá ao I.O., em colaboração com o S.E.R. expedir as instruções que julgar necessária à fiel execusão do presente Regulamento.
+**Art**. 95. Caberá ao I.O., em colaboração com o S.E.R. expedir as instruções que julgar necessária à fiel execusão do presente Regulamento.
 
-<strong>Art</strong>. 96. O presente Regulamento entrará em vigor na data de sua publiicação, ficando estabelecido o prazo de um ano para que as fábricas já em fundamento efetuem o registro aqui previsto e se enquadrem nos seus dispositivos.
+**Art**. 96. O presente Regulamento entrará em vigor na data de sua publiicação, ficando estabelecido o prazo de um ano para que as fábricas já em fundamento efetuem o registro aqui previsto e se enquadrem nos seus dispositivos.
 
 Rio de janeiro, 4 de outubro de 1946.
 
-<strong>NETTO CAMPELO JUNIOR</strong>
+**NETTO CAMPELO JUNIOR**

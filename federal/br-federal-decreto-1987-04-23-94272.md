@@ -1,5 +1,3 @@
-###DEC-094272-0-000-23-04-1987@@@
-
 DECRETO Nº 94.272, DE 23 DE ABRIL DE 1987.
 
 Dispõe sobre o voto dos Governadores de Estado nas deliberações do Conselho Deliberativo da Superintendência do Desenvolvimento do Nordeste - SUDENE.

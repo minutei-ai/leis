@@ -1,5 +1,3 @@
-###MPV-001870-0-033-23-11-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.870-33, DE 23 DE NOVEMBRO DE 1999.
 
 Dispõe sobre o salário mínimo para o período de 1º de maio de 1997 a 30 de abril de 1998.

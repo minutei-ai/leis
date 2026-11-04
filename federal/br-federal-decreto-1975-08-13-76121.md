@@ -1,5 +1,3 @@
-###DEC-076121-0-000-13-08-1975@@@
-
 DECRETO Nº 76.121 - DE 13 DE AGOSTO DE 1975
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Administração de São Paulo, mantida pela Sociedade Civil Ateneu Brasil, com sede na cidade de São Paulo.

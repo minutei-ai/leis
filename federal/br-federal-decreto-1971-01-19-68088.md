@@ -1,5 +1,3 @@
-###DEC-068088-0-000-19-01-1971@@@
-
 DECRETO Nº 68.088, DE 19 DE JANEIRO DE 1971.
 
 Modifica a categoria das Repartições Consulares do Brasil em Chicago, Los Angeles e Houston e extingue as Repartições Consulares de Carreira em São Francisco, Baltimore, Boston, Filadélfia, Vancouver, Stuttgart, Wellington, Manila e Cidade do México.

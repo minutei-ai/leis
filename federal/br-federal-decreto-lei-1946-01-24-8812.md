@@ -1,5 +1,3 @@
-###DEL-008812-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.812 – DE 24 DE JANEIRO DE 1946
 
 Dispõe sôbre a competência dos Estados e do Distrito Federal para estabelecer normas de fiscalização e inspeção de ovos.

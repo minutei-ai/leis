@@ -1,5 +1,3 @@
-###DEC-094021-0-000-13-02-1987@@@
-
 DECRETO Nº 94.021, DE 13 DE FEVEREIRO DE 1987.
 
 Autoriza o aumento do capital social do Hospital de Clínicas de Porto Alegre.

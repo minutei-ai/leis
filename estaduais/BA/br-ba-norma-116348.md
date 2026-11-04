@@ -6,7 +6,57 @@ O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decre
 
 Art. 1º - Mantidos os valores referentes aos vencimentos, a verba de representação atribuída aos cargos da Magistratura, da Justiça Militar, do Ministério Público e do Tribunal de Contas, a seguir indicados, fica acrescida dos seguintes valores a partir da vigência das [Tabelas III](https://www.legislabahia.ba.gov.br/documentos/lei-no-3578-de-16-de-junho-de-1977#LO_3_578_Anexo_3) , [IV](https://www.legislabahia.ba.gov.br/documentos/lei-no-3578-de-16-de-junho-de-1977#LO_3_578_Anexo_4) e [V anexas à Lei nº 3.578, de 16 de junho de 1977:](https://www.legislabahia.ba.gov.br/documentos/lei-no-3578-de-16-de-junho-de-1977#LO_3_578_Anexo_5)
 
-<table class="MsoTableGrid" style="border-collapse: collapse;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 216.1pt; border: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="288"><p style="text-align: justify;"><span style="text-decoration: underline;">MAGISTRATURA</span></p></td><td style="width: 87pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="116"><p style="text-align: justify;"><span style="text-decoration: underline;"><span style="text-decoration: none;">&nbsp;</span></span></p></td></tr><tr><td style="width: 216.1pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt;" valign="top" width="288"><p style="text-align: justify;">Desembargador</p></td><td style="width: 87pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="116"><p style="text-align: justify;">5.985,00</p></td></tr><tr><td style="width: 216.1pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt;" valign="top" width="288"><p style="text-align: justify;">Juiz de Entrância Especial</p></td><td style="width: 87pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="116"><p style="text-align: justify;">1.092,00</p></td></tr><tr><td style="width: 216.1pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt;" valign="top" width="288"><p style="text-align: justify;">Juiz de 3ª Entrância</p></td><td style="width: 87pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="116"><p style="text-align: justify;">1.271,00</p></td></tr><tr><td style="width: 216.1pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt;" valign="top" width="288"><p><span style="text-decoration: underline;">JUSTIÇA MILITAR</span></p></td><td style="width: 87pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="116"><p style="text-align: justify;">&nbsp;</p></td></tr><tr><td style="width: 216.1pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt;" valign="top" width="288"><p style="text-align: justify;">Auditor</p></td><td style="width: 87pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="116"><p style="text-align: justify;">1.092,00</p></td></tr><tr><td style="width: 216.1pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt;" valign="top" width="288"><p style="text-align: justify;">Auditor Substituto</p></td><td style="width: 87pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="116"><p style="text-align: justify;">1.092,00</p></td></tr><tr><td style="width: 216.1pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt;" valign="top" width="288"><p style="text-align: justify;">Advogado</p></td><td style="width: 87pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="116"><p style="text-align: justify;">1.271,00</p></td></tr><tr><td style="width: 216.1pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt;" valign="top" width="288"><p><span style="text-decoration: underline;">MINISTÉRIO PÚBLICO</span></p></td><td style="width: 87pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="116"><p style="text-align: justify;">&nbsp;</p></td></tr><tr><td style="width: 216.1pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt;" valign="top" width="288"><p style="text-align: justify;">Procurador da Justiça</p></td><td style="width: 87pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="116"><p style="text-align: justify;">5.985,00</p></td></tr><tr><td style="width: 216.1pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt;" valign="top" width="288"><p style="text-align: justify;">Promotor de Justiça da Entrância Especial</p></td><td style="width: 87pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="116"><p style="text-align: justify;">1.092,00</p></td></tr><tr><td style="width: 216.1pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt;" valign="top" width="288"><p style="text-align: justify;">Promotor de Justiça da 3ª Entrância</p></td><td style="width: 87pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="116"><p>1.271,00</p></td></tr><tr><td style="width: 216.1pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt;" valign="top" width="288"><p style="text-align: justify;">Defensor Público de Entrância Especial</p></td><td style="width: 87pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="116"><p style="text-align: justify;">1.271,00</p></td></tr><tr><td style="width: 216.1pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt;" valign="top" width="288"><p><span style="text-decoration: underline;">TRIBUNAL DE CONTAS</span></p></td><td style="width: 87pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="116"><p style="text-align: justify;">&nbsp;</p></td></tr><tr><td style="width: 216.1pt; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; padding: 0cm 5.4pt;" valign="top" width="288"><p style="text-align: justify;">Conselheiro</p></td><td style="width: 87pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="116"><p style="text-align: justify;">5.985,00</p></td></tr></tbody></table>
+MAGISTRATURA
+
+Desembargador
+
+5.985,00
+
+Juiz de Entrância Especial
+
+1.092,00
+
+Juiz de 3ª Entrância
+
+1.271,00
+
+JUSTIÇA MILITAR
+
+Auditor
+
+1.092,00
+
+Auditor Substituto
+
+1.092,00
+
+Advogado
+
+1.271,00
+
+MINISTÉRIO PÚBLICO
+
+Procurador da Justiça
+
+5.985,00
+
+Promotor de Justiça da Entrância Especial
+
+1.092,00
+
+Promotor de Justiça da 3ª Entrância
+
+1.271,00
+
+Defensor Público de Entrância Especial
+
+1.271,00
+
+TRIBUNAL DE CONTAS
+
+Conselheiro
+
+5.985,00
 
 Art. 2º - As despesas resultantes da execução desta lei, correrão à conta dos recursos orçamentários próprios, consignados para o corrente exercício.
 

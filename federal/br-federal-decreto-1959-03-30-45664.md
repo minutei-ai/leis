@@ -1,5 +1,3 @@
-###DEC-045664-0-000-30-03-1959@@@
-
 Decreto nº 45.664, de 30 de março de 1959.
 
 Concede prêmio a construção de armazéns, em Natal, Estado do Rio Grande do Norte.

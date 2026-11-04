@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209234)<br>
-
 # LEI N° 17.884, DE 21 DE MARÇO DE 2024
 
 ## (Projeto de lei n° 26/2022, do Deputado Valeria Bolsonaro - PRTB)

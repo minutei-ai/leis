@@ -1,5 +1,3 @@
-###DEL-001090-0-000-10-03-1970@@@
-
 # DECRETO-LEI Nº 1.090, DE 10 DE MARÇO DE 1970
 
 Prorroga prazo do Decreto-lei número 858, de 11 de setembro de 1969 e dá outras providências.

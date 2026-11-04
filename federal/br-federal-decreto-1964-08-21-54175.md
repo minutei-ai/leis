@@ -1,5 +1,3 @@
-###DEC-054175-0-000-21-08-1964@@@
-
 Decreto nº 54.175, de 21 de agÔsto de 1964.
 
 Autoriza o cidadão brasileiro Jair Rodrigues Pereira a pesquisar grafite, no Município de Santa Maria de Itabira, Estado de Minas Gerais.

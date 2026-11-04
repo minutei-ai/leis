@@ -1,5 +1,3 @@
-###DEC-049568-0-000-21-12-1960@@@
-
 DECRETO Nº 49.568, DE 21 DE dezEMBRO DE 1960.
 
 Altera o artigo 4º do Decreto número 41.490, de 14 de maio de 1957.

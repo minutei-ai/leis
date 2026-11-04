@@ -1,5 +1,3 @@
-###DEC-045473-0-000-26-02-1959@@@
-
 DECRETO Nº 45.473, DE 26 DE FEVEREIRO DE 1959.
 
 Transfere sem aumento de despesa, função de Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Agricultura.

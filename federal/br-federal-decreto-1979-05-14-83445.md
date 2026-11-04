@@ -1,5 +1,3 @@
-###DEC-083445-0-000-14-05-1979@@@
-
 Decreto nº 83.445, de 14 de maio de 1979.
 
 Concede autorização à empresa SANBRA - SOCIEDADE ALGODOEIRA DO NORDESTE BRASILEIRO S.A., com sede no Estado da Bahia, para o funcionamento aos domingos e feriados civis e religiosos nas seções que menciona, do seu estabelecimento fabril situado em Lobato, naquele Estado.

@@ -1,5 +1,3 @@
-###DEL-006503-0-000-16-05-1944@@@
-
 DECRETO-LEI N. 6.503 – DE 16 DE MAIO DE 1944
 
 Dispõe sôbre a substituição do procurador geral da Justiça Militar

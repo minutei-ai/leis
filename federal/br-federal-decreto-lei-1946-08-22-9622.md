@@ -1,5 +1,3 @@
-###DEL-009622-0-000-22-08-1946@@@
-
 DECRETO-LEI N. 9.622 – DE 22 DE AGÔSTO DE 1946
 
 Prorroga prazo para registro de partidos políticos

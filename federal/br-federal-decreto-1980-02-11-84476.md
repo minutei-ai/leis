@@ -1,5 +1,3 @@
-###DEC-084476-0-000-11-02-1980@@@
-
 Decreto nº 84.476, de 11 de fevereiro de 1980
 
 Revoga dispositivo do Decreto nº 71.834, de 12 de fevereiro de 1973.

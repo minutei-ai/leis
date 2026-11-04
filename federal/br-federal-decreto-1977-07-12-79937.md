@@ -1,5 +1,3 @@
-###DEC-079937-0-000-12-07-1977@@@
-
 DECRETO Nº 79.937, DE 12 DE JULHO DE 1977
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio Grande do Norte.

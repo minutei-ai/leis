@@ -1,5 +1,3 @@
-###DEC-004589-0-000-07-02-2003@@@
-
 DECRETO Nº 4.589, DE 7 DE FEVEREIRO DE 2003.
 
        Dispõe sobre a prorrogação do prazo dos trabalhos de inventariança do Departamento Nacional de Estradas de Rodagem - DNER, em extinção, a que alude o Decreto n~~º~~ 4.128, de 13 de fevereiro de 2002.

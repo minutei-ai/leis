@@ -1,5 +1,3 @@
-###DEC-067428-0-000-21-10-1970@@@
-
 Decreto Nº 67.428, de 21 de outubro de 1970.
 
 Declara de utilidade pública o Colégio Normal Imaculada Conceição, com sede em Montes Claros, Estado de Minas Gerais.

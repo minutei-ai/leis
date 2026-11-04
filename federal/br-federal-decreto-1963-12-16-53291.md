@@ -1,5 +1,3 @@
-###DEC-053291-0-000-16-12-1963@@@
-
 DECRETO Nº 53.291, DE 16 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Luiz Fellet a pesquisar caulim, no município de Santana do Deserto, no Estado de Minas Gerais.

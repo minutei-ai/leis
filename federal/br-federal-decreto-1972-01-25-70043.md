@@ -1,5 +1,3 @@
-###DEC-070043-0-000-25-01-1972@@@
-
 DECRETO Nº 70.043, DE 25 DE JANEIRO DE 1972.
 
 Regulamenta a Lei nº5.728, de 5 de novembro de 1971, que dispõe sobre a formação de Engenheiros Militares para o Quadro de Oficiais Engenheiros do Corpo de Oficiais da Aeronáutica da Ativa.

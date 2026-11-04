@@ -1,5 +1,3 @@
-###DEC-057375-0-000-02-12-1965@@@
-
 DECRETO Nº 57.375, DE 2DE DEZEMBRO DE 1965.
 
 A prova o Regulamento do serviço Social da Indústria (SESI).

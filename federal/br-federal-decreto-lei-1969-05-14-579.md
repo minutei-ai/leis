@@ -1,5 +1,3 @@
-###DEL-000579-0-000-14-05-1969@@@
-
 DECRETO-LEI Nº 579, DE 14 DE MAIO DE 1969
 
 Estabelece condições especiais de recolhimento de contribuições para a previdência social nos casos que especifica.

@@ -1,5 +1,3 @@
-###DEC-085074-0-000-27-08-1980@@@
-
 Decreto nº 85.074, de 27 de agosto de 1980.
 
 Altera a redação do artigo 2º do Decreto nº 77.284, de 11 de março de 1976 e dá outras providências.

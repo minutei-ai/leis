@@ -1,6 +1,10 @@
 > **LEI Nº 3.118, DE 08 DE JANEIRO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo a celebrar termos aditivos aos contratos de refinanciamento de dividas com a União, assinados ao amparo da Lei Federal nº 9.496, de 11 de setembro de 1997.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Poder Executivo a celebrar termos aditivos aos contratos de refinanciamento de dividas com a União, assinados ao amparo da Lei Federal nº 9.496, de 11 de setembro de 1997.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

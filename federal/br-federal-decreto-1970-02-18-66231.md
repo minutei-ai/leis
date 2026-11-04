@@ -1,5 +1,3 @@
-###DEC-066231-0-000-18-02-1970@@@
-
 DECRETO Nº 66.231 - DE 18 DE FEVEREIRO DE 1970
 
 Declara de utilidade pública a Associação das Irmãzinhas da Assunção, com sede em São Paulo, Estado de São Paulo.

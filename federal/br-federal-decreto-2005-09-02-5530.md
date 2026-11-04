@@ -1,5 +1,3 @@
-###DEC-005530-0-000-02-09-2005@@@
-
 DECRETO Nº  5.530, DE 2 DE SETEMBRO DE 2005
 
 Dispõe sobre a execução do Vigésimo Primeiro Protocolo Adicional ao Acordo de Complementação Econômica nº 39, entre os Governos da República Federativa do Brasil e da República Bolivariana da Venezuela, de 9 de dezembro de 2004.

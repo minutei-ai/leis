@@ -1,5 +1,3 @@
-###DEC-084130-0-000-30-10-1979@@@
-
 Decreto nº 84.130, de 30 de outubro de 1979.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da CESP Companhia Energética de São Paulo, no Estado de São Paulo.

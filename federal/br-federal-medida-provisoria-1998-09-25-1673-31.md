@@ -1,5 +1,3 @@
-###MPV-001673-0-031-25-09-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.673-31, DE 25 DE SETEMBRO DE 1998
 
 Altera a legislação do imposto de renda e dá outras providências.

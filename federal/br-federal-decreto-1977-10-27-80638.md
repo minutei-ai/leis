@@ -1,5 +1,3 @@
-###DEC-080638-0-000-27-10-1977@@@
-
 DECRETO Nº 80.638, DE 27 DE OUTUBRO DE 1977.
 
 Concede à Indústria Mineradora Pagliato Limitada o direito de lavrar calcário dolomítico no Município de Guapiara, Estado de São Paulo.

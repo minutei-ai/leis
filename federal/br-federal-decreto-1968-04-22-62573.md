@@ -1,5 +1,3 @@
-###DEC-062573-0-000-22-04-1968@@@
-
 DECRETO Nº 62.573, DE 22 DE ABRIL DE 1968.
 
 Declara de utilidade pública a “Função Vidal Ramos”, com sede em Florianópolis, Estado de Santa Catarina.

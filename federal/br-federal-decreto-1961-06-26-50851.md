@@ -1,5 +1,3 @@
-###DEC-050851-0-000-26-06-1961@@@
-
 DECRETO Nº 50.520, DE 26 DE JUNHO DE 1961.
 
 Cria o Serviço de Fiscalização do Sêlo nas Operações Bancárias nas Capitais de Pernambuco, Bahia e Rio Grande do Sul.

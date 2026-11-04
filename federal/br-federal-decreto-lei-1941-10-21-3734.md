@@ -1,5 +1,3 @@
-###DEL-003734-0-000-21-10-1941@@@
-
 DECRETO-LEI N. 3.734 – DE 21 DE OUTUBRO DE 1941
 
 Dispensa, nas condições que menciona, o pagamento das restituições que especifica

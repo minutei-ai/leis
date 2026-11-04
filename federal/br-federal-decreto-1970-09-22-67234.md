@@ -1,5 +1,3 @@
-###DEC-067234-0-000-22-09-1970@@@
-
 Decreto nº 67.234, de 22 de setembro de 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Permanente - do Departamento Administrativo do Pessoal Civil, cargo originário do Ministério da Agricultura, e dá outras providências.

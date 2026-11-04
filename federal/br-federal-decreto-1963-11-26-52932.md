@@ -1,5 +1,3 @@
-###DEC-052932-0-000-26-11-1963@@@
-
 DECRETO Nº 52.932, DE 26 DE NOVEMBRO DE 1963.
 
 Autoriza a Emprêsa de Cautim Limitada a lavrar feldspato e quartzo, no município de São Gonçalo, Estado do Rio de Janeiro.

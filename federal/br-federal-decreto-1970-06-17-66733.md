@@ -1,5 +1,3 @@
-###DEC-066733-0-000-17-06-1970@@@
-
 DECRETO Nº 66.733, DE 17 DE JUNHO DE 1970.
 
 Declara de utilidade pública o Centro Social Cristo Redentor, com sede no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEL-005624-0-000-24-06-1943@@@
-
 DECRETO‑LEI N. 5.624 – DE 24 DE JUNHO DE 1943
 
 Cria função gratificada no Ministério da Educação e Saúde e dá outras pro vidências

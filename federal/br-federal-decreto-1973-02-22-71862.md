@@ -1,5 +1,3 @@
-###DEC-071862-0-000-22-02-1973@@@
-
 DECRETO Nº 71.862, DE 22 DE FEVEREIRO DE 1973.
 
 Autoriza a contratação de operações de crédito externo para financiamento do projeto de construção da Usina de Água Vermelha.

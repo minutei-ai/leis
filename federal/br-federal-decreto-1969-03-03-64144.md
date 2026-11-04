@@ -1,5 +1,3 @@
-###DEC-064144-0-000-03-03-1969@@@
-
 DECRETO Nº 64.144, DE 3 DE MARÇO DE 1969.
 
 Modifica denominação de escola.

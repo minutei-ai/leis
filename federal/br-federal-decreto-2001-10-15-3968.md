@@ -1,5 +1,3 @@
-###DEC-003968-0-000-15-10-2001@@@
-
 DECRETO Nº 3.968, DE 15 DE OUTUBRO DE 2001
 
 Acresce parágrafo ao art. 6º do Anexo I ao Decreto nº 2.455, de 14 de janeiro de 1998, que implanta a Agência Nacional do Petróleo - ANP, autarquia sob regime especial, aprova sua Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e Funções de Confiança.

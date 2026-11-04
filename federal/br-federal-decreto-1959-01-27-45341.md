@@ -1,5 +1,3 @@
-###DEC-045341-0-000-27-01-1959@@@
-
 Decreto nº 45.341, de 27 de Janeiro de 1959.
 
 Concede reconhecimento do curso de jornalismo da Faculdade Católica de Filosofia de Curitiba.

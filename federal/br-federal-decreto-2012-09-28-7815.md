@@ -1,5 +1,3 @@
-###DEC-007815-0-000-28-09-2012-PUB-01@@@
-
 DECRETO N°\- 7.815, DE 28 DE SETEMBRO DE 2012
 
 Altera o Decreto nº 7.495, de 7 de junho de 2011, para prorrogar o prazo do Comitê Nacional de Organização da Conferência das Nações Unidas sobre Desenvolvimento Sustentável.

@@ -1,5 +1,3 @@
-###DEC-005227-0-000-04-10-2004@@@
-
 DECRETO Nº 5.227 DE 4 DE OUTUBRO DE 2004
 
 Dá nova redação ao inciso III do art. 4º do Decreto nº 4.803, de 8 de agosto de 2003, que dispõe sobre o encerramento dos trabalhos da inventariança do Departamento Nacional de Estradas de Rodagem – DNER.

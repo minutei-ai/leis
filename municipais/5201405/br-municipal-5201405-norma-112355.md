@@ -26,11 +26,14 @@ Art. 2º- Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos quatro dias do mês de junho de dois mil e nove.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 PREFEITO MUNICIPAL
 
-CARMEM SILVIA ESTEVÃO DE OLIVEIRA<br>
+CARMEM SILVIA ESTEVÃO DE OLIVEIRA
+
 SECRETÁRIA DE AÇÃO SOCIAL/1ª DAMA
 
-ELI DE FARIA<br>
+ELI DE FARIA
+
 SECRETÁRIO EXECUTIVO

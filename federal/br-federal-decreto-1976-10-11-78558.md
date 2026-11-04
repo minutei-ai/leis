@@ -1,5 +1,3 @@
-###DEC-078558-0-000-11-10-1976@@@
-
 DECRETO Nº 78.558, DE 11 DE OUTUBRO DE 1976.
 
 Autoriza o funcionamento do curso de Engenharia Civil, do Instituto de Tecnologia de Governador Valadares, com sede na cidade de Governador Valadares, Estado de Minas Gerais.

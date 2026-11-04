@@ -1,5 +1,3 @@
-###DEC-053500-0-000-28-01-1964@@@
-
 DECRETO Nº 53.500, DE 28 DE JANEIRO DE 1964.
 
 Cria Comissão Interministerial para o fim que especifica.

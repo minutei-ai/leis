@@ -1,5 +1,3 @@
-###DEC-052468-0-000-12-09-1963@@@
-
 decreto nº 52.468, de 12 de setembro de 1963.
 
 Regulamenta disposições relativas ao pagamento de diárias aos funcionários da carreira de Diplomata em serviço no exterior.

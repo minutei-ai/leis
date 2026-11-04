@@ -1,5 +1,3 @@
-###DEL-007783-0-000-26-07-1945@@@
-
 DECRETO-LEI N. 7.783 – DE 26 DE JULHO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a conceder isenção de impostos em favor do Orfanato “Casa de Lázaro”.

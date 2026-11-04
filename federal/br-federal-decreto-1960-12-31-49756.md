@@ -1,5 +1,3 @@
-###DEC-049756-0-000-31-12-1960@@@
-
 DECRETO Nº 49.756, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza Mineração Hannaco Ltda. A lavrar minério de ferro nos municípios de Nova Lima e Rio Acima, Estado de Minas Gerais.

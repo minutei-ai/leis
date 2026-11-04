@@ -1,5 +1,3 @@
-###DEC-003590-0-000-06-09-2000@@@
-
 DECRETO Nº 3.590, DE 6 DE SETEMBRO DE 2000
 
 Dispõe sobre o Sistema de Administração Financeira Federal e dá outras providências.

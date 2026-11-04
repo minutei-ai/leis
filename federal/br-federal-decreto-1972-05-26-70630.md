@@ -1,5 +1,3 @@
-###DEC-070630-0-000-26-05-1972@@@
-
 DECRETO Nº 70.630, DE 26 DE MAIO DE 1972.
 
 Redistribui cargos, com as respectivas ocupantes, para a Universidade Federal do Rio de Janeiro, e dá outras providências.

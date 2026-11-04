@@ -1,5 +1,3 @@
-###DEC-055042-0-000-20-11-1964@@@
-
 DECRETO Nº 55.042, DE 20 DE NOVEMBRO DE 1964.
 
 Altera o Regimento do Conselho Nacional de Proteção dos índios e dá outras providências.

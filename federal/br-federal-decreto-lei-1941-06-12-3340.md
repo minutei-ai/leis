@@ -1,5 +1,3 @@
-###DEL-003340-0-000-12-06-1941@@@
-
 DECRETO-LEI N. 3.340 – DE 12 DE JUNHO DE 1941
 
 Altera, sem aumento de despesa, o atual orçamento do Ministério da Agricultura

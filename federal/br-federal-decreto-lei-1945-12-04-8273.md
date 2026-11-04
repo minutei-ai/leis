@@ -1,5 +1,3 @@
-###DEL-008273-0-000-04-12-1945@@@
-
 DECRETO-LEI N. 8.273 – DE 4 DE DEZEMBRO DE 1945
 
 Dá nova organização às Fôrças Navais dos Estados Unidos do Brasil.

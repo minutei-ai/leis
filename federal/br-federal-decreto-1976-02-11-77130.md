@@ -1,5 +1,3 @@
-###DEC-077130-0-000-11-02-1976@@@
-
 DECRETO Nº 77.130, DE 11 DE FEVEREIRO DE 1976
 
 Autoriza a reativação da usina termelétrica de São Jerônimo, no Município de mesmo nome, no Estado do Rio Grande do Sul.

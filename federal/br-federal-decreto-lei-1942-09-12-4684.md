@@ -1,5 +1,3 @@
-###DEL-004684-0-000-12-09-1942@@@
-
 DECRETO-LEI N. 4.684 – DE 12 DE SETEMBRO DE 1942
 
 Regula condições para fundação e funcionamento de associações visando quaisquer objetivos de interesse da defesa nacional e dá outras providências

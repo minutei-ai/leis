@@ -1,5 +1,3 @@
-###DEL-001932-0-000-30-03-1982@@@
-
 # Decreto nº 1.932, de 30 de março de 1982
 
 Institui incentivo fiscal a projetos de interesse para o comércio exterior do País, situados em áreas da Amazônia Oriental.

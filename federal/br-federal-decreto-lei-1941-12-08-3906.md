@@ -1,5 +1,3 @@
-###DEL-003906-0-000-08-12-1941@@@
-
 DECRETO-LEI N. 3.906 – DE 8 DE DEZEMBRO DE 1941
 
 Concede uma pensão especial à víuva e filho menor de um guarda civil assassinado em serviço

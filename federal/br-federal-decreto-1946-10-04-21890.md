@@ -1,32 +1,30 @@
-###DEC-021890-0-000-04-10-1946@@@
+**DECRETO N. 21.890 – DE 4 DE OUTUBRO DE 1946**
 
-<strong>DECRETO N. 21.890 – DE 4 DE OUTUBRO DE 1946</strong>
-
-<em><strong>Aprova o Regimento da Diretoria da Despesa Pública do Ministério da Fazenda.</strong></em>
+***Aprova o Regimento da Diretoria da Despesa Pública do Ministério da Fazenda.***
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, e tendo em vista o disposto no art. 30 do Decreto-lei nº 9.813, de 9 de Setembro de 1946, alterado pelo Decreto-lei número 9.897, de 16 do mesmo mês e ano,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento da Diretoria da Despesa Pública do Tesouro Nacional – Ministério da Fazenda (D.D.P.), que com êste baixa, assinado pelo Ministro da Fazenda.
+**Art**. 1º Fica aprovado o Regimento da Diretoria da Despesa Pública do Tesouro Nacional – Ministério da Fazenda (D.D.P.), que com êste baixa, assinado pelo Ministro da Fazenda.
 
-<strong>Art</strong>. 2º Êste Decreto entrará, em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará, em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 4 de Outubro de 1946, 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Gastão Vidigal.
 
-<h1 style="margin-top:6pt; margin-bottom:24pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>REGIMENTO DA DIRETORIA DA DESPESA PÚBLICA</strong></span></span></h1>
+# **REGIMENTO DA DIRETORIA DA DESPESA PÚBLICA**
 
-<strong>CAPITULO I</strong>
+**CAPITULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º A Diretoria da Despesa Pública, D.D.P., órgão integrante do Tesouro Nacional e imediatamente subordinado à Direção Geral da Fazenda Nacional, tem por finalidade:
+**Art**. 1º A Diretoria da Despesa Pública, D.D.P., órgão integrante do Tesouro Nacional e imediatamente subordinado à Direção Geral da Fazenda Nacional, tem por finalidade:
 
 I – movimentar os créditos distribuídos ao Tesouro Nacional cuja escrituração lhe competir;
 
@@ -62,11 +60,11 @@ XVI – autorizar as operações de “Movimento de Fundos”;
 
 XVII – efetuar os pagamentos a cargo do Tesouro Nacional.
 
-<strong>CAPITULO II</strong>
+**CAPITULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art.</strong> 2º A D. D. P. compreende:
+**Art.** 2º A D. D. P. compreende:
 
 Serviço de Inativos e Pensionistas – S. I. P.
 
@@ -80,17 +78,17 @@ Tesouraria Geral – T. G.
 
 1ª Pagadoria e 2ª Pagadoria.
 
-<strong>Art</strong>. 3º Os Serviços e as Seções terão chefes designados na forma dêste Regimento.
+**Art**. 3º Os Serviços e as Seções terão chefes designados na forma dêste Regimento.
 
-<strong>Art</strong>. 4º O Diretor terá um Secretário e três Assessores, escolhidos dentre funcionários públicos.
+**Art**. 4º O Diretor terá um Secretário e três Assessores, escolhidos dentre funcionários públicos.
 
-<strong>Art</strong>. 5º Os Órgãos que integram a D. D. P. funcionarão perfeitamente coordenados, em regime de mútua colaboração, sob a orientação do Diretor.
+**Art**. 5º Os Órgãos que integram a D. D. P. funcionarão perfeitamente coordenados, em regime de mútua colaboração, sob a orientação do Diretor.
 
-<strong>CAPITULO III</strong>
+**CAPITULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>Art</strong>. 6º Ao S. I. P. compete:
+**Art**. 6º Ao S. I. P. compete:
 
 a) instruir os processos para concessão de abono provisório aos aposentados que devem receber no Tesouro Nacional;
 
@@ -126,7 +124,7 @@ q) apreciar os pedidos de licença de pensionistas para residir no estrangeiro;
 
 r) passar certidão de títulos de pensionistas, registrados no Serviço.
 
-<strong>Art</strong>. 7º O S. I. P. compreende:
+**Art**. 7º O S. I. P. compreende:
 
 Seção de Inativos – S. I.
 
@@ -134,7 +132,7 @@ Seção de Pensionistas – S. P.
 
 Parágrafo único. As Seções do S. I. P. competem, de conformidade com as atividades a que especificadamente destinam e as Instruções do Diretor, as atribuições constantes do artigo 6º.
 
-<strong>Art</strong>. 8º Ao S. A. compete:
+**Art**. 8º Ao S. A. compete:
 
 a) receber, registrar, distribuir, expedir e guardar a correspondência oficial e papéis relativos às atividades da D. D. P.;
 
@@ -178,7 +176,7 @@ u) preparar a proposta orçamentária, dentro de programas aprovados e em perfei
 
 v) preparar as tabelas de distribuição de créditos consignados à D. D. P.;
 
-<strong>Art</strong>. 9º O S. A. compreende:
+**Art**. 9º O S. A. compreende:
 
 Seção de Administração – S. Ad.
 
@@ -186,7 +184,7 @@ Seção de Expediente – S. E.
 
 Parágrafo único. As Seções do S. A. competem de conformidade com as atividades a que especificadamente se destinam e as Instruções do Diretor as atribuições constantes do art. 8º.
 
-<strong>Art</strong>. 10. Ao Serviço de Créditos – S. Cr., compete:
+**Art**. 10. Ao Serviço de Créditos – S. Cr., compete:
 
 a) escriturar as dotações orçamentárias, relativas às despesas dos diversos ministérios, depois de registradas pelo Tribunal de Contas.
 
@@ -206,13 +204,13 @@ h) propor abertura de créditos suplementares que, por ventura, sejam necessári
 
 i) fornecer ao S. A. os elementos necessários à organização da proposta orçamentária;
 
-<strong>Art</strong>. 11. O S. Cr. compreende.
+**Art**. 11. O S. Cr. compreende.
 
 Seção de Créditos do Ministério da Fazenda, movimentados pela D. D. P. e Seção de Créditos aos demais Ministérios.
 
 Parágrafo único. As Seções do S. Cr. competem, de conformidade com as atividades a que especificadamente se destinam e as Instruções do Diretor, as atribuições constantes do art. 10.
 
-<strong>Art</strong>. 12. Ao Serviço de Contrôle – S. C. Compete:
+**Art**. 12. Ao Serviço de Contrôle – S. C. Compete:
 
 a) examinar, instruir os papéis, em face das anotações necessárias, referentes às cauções, depósitos, adiantamentos, precatórias, restituições que tenham de produzir efeito na Tesouraria Geral;
 
@@ -260,7 +258,7 @@ x) expedir guias de trasnferências realtivas ao pessoal ativo, inativo e pensio
 
 y) fornecer ao S. A. os elementos necessários à organização da proposta orçamentária.
 
-<strong>Art</strong>. 13. O S. C. compreende:
+**Art**. 13. O S. C. compreende:
 
 Seção de Contrôle - S.C.;
 
@@ -270,7 +268,7 @@ Seção de Mecanização - S.M.
 
 Parágrafo único. Às Seções do S.C. compete, de conformidade com as atividades a que especificadamente se destinam e as Instruções do Diretor as atribuições constantes do art. 12.
 
-<strong>Art</strong>. 14. À Tesouraria Geral compete:
+**Art**. 14. À Tesouraria Geral compete:
 
 a) receber e escriturar a receita proveniente de suprimentos de numerário, de depósitos, cauções, fianças, operações de crédito ou de qualquer outra procedência legal;
 
@@ -308,7 +306,7 @@ r) manter atualizado o cadastro das procurações, com registos distintos dos ou
 
 s) ter sob sua responsabilidade o arquivo de cotratos comerciais, estatutos de sociedades anônimas, etc. para, efeito de que possa assegurar-se a administração pública da capacidade legal daqueles que, no ato do pagamento, se intitulam órgãos representativos da pessoa jurídica credora.
 
-<strong>Art</strong>. 15 – A 1ª Pagadoria compete:
+**Art**. 15 – A 1ª Pagadoria compete:
 
 a) pagar vencimento, remuneração, salário, provento e pensões;
 
@@ -322,7 +320,7 @@ e) manter registos especiais dos atos suspensivos ou impeditivos de pagamentos;
 
 f) manter atualizado o cadastro das procurações, com registos distintos dos outorgantes e dos outorgados;
 
-<strong>Art</strong>. 16 – A 2ª Pagadoria compete:
+**Art**. 16 – A 2ª Pagadoria compete:
 
 a) realizar o pagamento de “material” que estiver a cargo do Tesouro Nacional;
 
@@ -338,11 +336,11 @@ f) manter atualizado o cadastro das procurções, com registos especiais dos out
 
 g) ter sob sua responsabilidade o arquivo de contratos comerciais, estatutos de sociedades anônimas etc. para efeito de que possa assegurar-se a administração pública da capacidade legal daqueles que, no ato do pagamento, se intitulam órgãos representativos da pessoa jurídica credora.
 
-<strong>CAPITULO IV</strong>
+**CAPITULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 17 – Ao Diretor incumbe:
+**Art**. 17 – Ao Diretor incumbe:
 
 I – orientar e coordenar as atividades da. D. D. P.;
 
@@ -408,7 +406,7 @@ XXXI – mandar proceder a balanço, pelo menos duas vêzes por ano, nos cofres 
 
 XXXII – dar, semanalmente, audiência pública;
 
-<strong>Art</strong>. 18. Aos Chefes de Serviço incumbe :
+**Art**. 18. Aos Chefes de Serviço incumbe :
 
 a) orientar e coordenar as atividades do respectivo Serviço;
 
@@ -442,7 +440,7 @@ p) propor ao Diretor a antecipação ou prorrogação do período normal de trab
 
 q) assinar despachos interlocutórios, títulos, apostilas, certidões, bem como atos complementares decorrentes de despacho ou provenientes de delegação do Diretor.
 
-<strong>Art</strong>. 19. Aos Chefes de Seção incumbe:
+**Art**. 19. Aos Chefes de Seção incumbe:
 
 a) distribuir os trabalhos ao pessoal que lhe fôr subordinado;
 
@@ -462,7 +460,7 @@ h) – aplicar as penas de advertência e repreensão;
 
 i) – velar pela disciplina nos recintos de trabalho.
 
-<strong>Art</strong>. 20. Ao Secretário incumbe:
+**Art**. 20. Ao Secretário incumbe:
 
 a) – atender às pessoas que desejarem comunicar-se com o Diretor, encaminhando-as ou dando a êste conhecimento do assunto a tratar;
 
@@ -470,7 +468,7 @@ b) – assistir o Diretor, quando solicitado e representá-lo, quando para isso 
 
 c) – redigir a correspondência pessoal do Diretor.
 
-<strong>Art</strong>. 21. Aos Assessores incumbe:
+**Art**. 21. Aos Assessores incumbe:
 
 a) – estudar e preparar os despachos dos processos sujeitos à decisão do diretor;
 
@@ -478,33 +476,33 @@ b) – estudar e apresentar sugestões para solução de assuntos submetidos a e
 
 c) – executar os trabalhos que lhes forem determinados pelo Diretor.
 
-<strong>Art</strong>. 22. Aos Chefes da Tesouraria Geral e das Pagadorias, além das atribuições que lhes são próprias, compete exercer as que são comuns aos Chefes de Seção.
+**Art**. 22. Aos Chefes da Tesouraria Geral e das Pagadorias, além das atribuições que lhes são próprias, compete exercer as que são comuns aos Chefes de Seção.
 
-<strong>Art</strong>. 23. Aos Tesoureiros e Ajudantes de Tesoureiro incumbe exercer as atribuições constantes do regimento-padrão das tesourarias dos serviços públicos da União, aprovado pelo Decreto nº 8.740, de 11 de fevereiro de 1942 (D. O. 14-2-42) .
+**Art**. 23. Aos Tesoureiros e Ajudantes de Tesoureiro incumbe exercer as atribuições constantes do regimento-padrão das tesourarias dos serviços públicos da União, aprovado pelo Decreto nº 8.740, de 11 de fevereiro de 1942 (D. O. 14-2-42) .
 
-<strong>Art</strong>. 24. Aos demais servidores, sem funções especificadas neste Regimento incumbe excecutar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
+**Art**. 24. Aos demais servidores, sem funções especificadas neste Regimento incumbe excecutar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
 
-<strong>CAPITULO V</strong>
+**CAPITULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 25. A Diretaria da Despesa Pública terá a lotação aprovada em decreto.
+**Art**. 25. A Diretaria da Despesa Pública terá a lotação aprovada em decreto.
 
 Parágrafo único. Além dos funcionários constantes da lotação, a Diretoria da Despesa Pública poderá ter pessoal extranumerário.
 
-<strong>CAPITULO VI</strong>
+**CAPITULO VI**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 26. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais estabelecidas para o Serviço Público Civil.
+**Art**. 26. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais estabelecidas para o Serviço Público Civil.
 
-<strong>Art</strong>. 27. O Diretor e os Chefes de Serviço não ficam sujeitos a ponto, devendo, porém, observar o horário fixado.
+**Art**. 27. O Diretor e os Chefes de Serviço não ficam sujeitos a ponto, devendo, porém, observar o horário fixado.
 
-<strong>CAPITULO VII</strong>
+**CAPITULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 28. Serão substituídos, automàticamente, em suas faltas e impedimentos eventuais, até 30 dias:
+**Art**. 28. Serão substituídos, automàticamente, em suas faltas e impedimentos eventuais, até 30 dias:
 
 a) – o Diretor, por um dos Chefes de Serviço de sua indicação e designado pelo Diretor-Geral da Fazenda Nacional;
 
@@ -514,14 +512,14 @@ c) – os Chefes de Seção, por servidores de sua indicação e designados pelo
 
 Parágrafo único. Haverá, sempre, servidores prèviamente designados para as substituições de que trata êste artigo.
 
-<strong>CAPITULO VIII</strong>
+**CAPITULO VIII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 29. Mediante instruções de serviço do Diretor, as Seções poderão desdobrar-se em turmas, que terão Encarregados designados pelo Chefe do Serviço, por indicação dos respectivos Chefes de Seção.
+**Art**. 29. Mediante instruções de serviço do Diretor, as Seções poderão desdobrar-se em turmas, que terão Encarregados designados pelo Chefe do Serviço, por indicação dos respectivos Chefes de Seção.
 
-<strong>Art</strong>. 30. Cada Seção deverá organizar e manter atualizada uma coleção de leis, regulamentos, circulares, portarias, ordens e instruções de serviço que digam respeito às atividades específicas da mesma.
+**Art**. 30. Cada Seção deverá organizar e manter atualizada uma coleção de leis, regulamentos, circulares, portarias, ordens e instruções de serviço que digam respeito às atividades específicas da mesma.
 
-<strong>Art</strong>. 31. Nenhum servidor poderá fazer publicações e conferências ou dar entrevistas sobre assuntos que se relacionem com a organização e as atividades da Diretoria sem autorização escrita do  Diretor.
+**Art**. 31. Nenhum servidor poderá fazer publicações e conferências ou dar entrevistas sobre assuntos que se relacionem com a organização e as atividades da Diretoria sem autorização escrita do  Diretor.
 
 Rio de Janeiro, 4 de outubro de 1946. – Gastão Vidigal.

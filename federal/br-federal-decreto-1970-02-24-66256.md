@@ -1,5 +1,3 @@
-###DEC-066256-0-000-24-02-1970@@@
-
 DECRETO Nº 66.256 - DE 24 DE FEVEREIRO DE 1970
 
 Aprova o Regulamento para a Diretoria de Comunicação e Eletrônica da Marinha.

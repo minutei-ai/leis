@@ -1,5 +1,3 @@
-###DEC-048067-0-000-07-04-1960@@@
-
 DECRETO Nº 48.067, DE 07 DE abril DE 1960.
 
 Altera o Decreto nº 44.863, de 21 de novembro de 1958, que instituiu a Comissão Brasileira de Turismo, e dá outras providências.

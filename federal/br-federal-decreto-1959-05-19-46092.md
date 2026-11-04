@@ -1,5 +1,3 @@
-###DEC-046092-0-000-19-05-1959@@@
-
 DECRETO Nº 46.092, DE 19 DE MAIO DE 1959.
 
 Declara públicas de uso comum, do domínio da União e do Estado do Rio Grande do Sul, as águas do rio “Jaguari”.

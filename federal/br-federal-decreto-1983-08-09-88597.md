@@ -1,5 +1,3 @@
-###DEC-088597-0-000-09-08-1983@@@
-
 DECRETO Nº 88.597, DE 09 DE AGOSTO DE 1983.
 
 Concede ao Instituto de Resseguros do Brasil-IRB autorização para proceder a aumento do seu capital Social e altera seus Estatutos.

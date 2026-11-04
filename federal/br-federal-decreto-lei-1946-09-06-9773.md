@@ -1,5 +1,3 @@
-###DEL-009773-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.773 – DE 6 DE SETEMBRO DE 1946
 
 Restabelece cargos isolados de provimento efetivo

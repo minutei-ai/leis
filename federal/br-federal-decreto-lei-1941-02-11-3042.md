@@ -1,5 +1,3 @@
-###DEL-003042-0-000-11-02-1941@@@
-
 DECRETO-LEI N. 3.042 – DE 11 DE FEVEREIRO DE 1941
 
 Inclui cargos no Quadro Suplementar do pessoal civil do Ministério da Guerra, e dá outras providências.

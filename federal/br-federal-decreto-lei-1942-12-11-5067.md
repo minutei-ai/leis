@@ -1,5 +1,3 @@
-###DEL-005067-0-000-11-12-1942@@@
-
 DECRETO-LEI N. 5.067 – DE 11 DE DEZEMBRO DE 1942
 
 Cria cargos e abre créditos ao Ministério da Fazenda

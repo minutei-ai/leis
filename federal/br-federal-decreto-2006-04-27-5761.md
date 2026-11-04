@@ -1,5 +1,3 @@
-###DEC-005761-0-000-27-04-2006@@@
-
 DECRETO Nº 5.761, DE 27 DE ABRIL DE 2006
 
 Regulamenta a Lei nº 8.313, de 23 de dezembro de 1991, estabelece sistemática de execução do Programa Nacional de Apoio à Cultura - PRONAC e dá outras providências.

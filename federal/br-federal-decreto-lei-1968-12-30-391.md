@@ -1,5 +1,3 @@
-###DEL-000391-0-000-30-12-1968@@@
-
 DECRETO-LEI Nº 391, DE 30 DE DEZEmBRO DE 1968
 
 Autoriza a emissão de Obrigações Reajustáveis do Tesouro Nacional - criada pela Lei nº 4.357, de 16 de julho de 1964, para a liquidação peIa CODEBRÁS de empréstimo por ela contraído com o Banco Nacional da Habitação. Cria o Grupo Executivo da Complementação da Mudança de Órgãos da Administração Federal para Brasília - GEMUD, e dá outras providências.
@@ -37,8 +35,6 @@ Antônio Delfim Netto
 Hélio Beltrão
 
 Afonso A. Lima
-
-###DEL-000391-0-000-30-12-1968@@@RET01+++
 
 DECRETO-LEI Nº 391, DE 30 DE DEZEMBRO DE1968
 

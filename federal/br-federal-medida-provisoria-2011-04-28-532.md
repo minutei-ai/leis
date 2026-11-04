@@ -1,5 +1,3 @@
-###MPV-000532-0-000-28-04-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 532, DE 28 DE ABRIL DE 2011
 
 Acresce e dá nova redação a dispositivos das Leis nºs 9.478, de 6 de agosto de 1997, e 9.847, de 26 de outubro de 1999, que dispõem sobre a política e a fiscalização das atividades relativas ao abastecimento nacional de combustíveis; altera o § 1º do art. 9º da Lei nº 8.723, de 28 de outubro de 1993, que dispõe sobre a redução de emissão de poluentes por veículos automotores; dá nova redação aos arts. 1º , 2º e 3º do Decreto-Lei nº 509, de 20 de março de 1969, que dispõe sobre a transformação do Departamento dos Correios e Telégrafos em empresa pública; altera a Lei nº 10.683, de 28 de maio de 2003, que dispõe sobre a Organização da Presidência da República e dos Ministérios, e dá outras providências.

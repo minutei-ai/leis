@@ -1,5 +1,3 @@
-###DEL-003057-0-000-14-02-1941@@@
-
 DECRETO-LEI N. 3.057 – DE 14 DE FEVEREIRO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 9.493:213$2, para pagamento de despesas com a aquisição de material rodante

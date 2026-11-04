@@ -1,5 +1,3 @@
-###DEC-049698-0-000-31-12-1960@@@
-
 decreto nº 49.698, de 31 de dezembro de 1960.
 
 Autoriza o cidadão brasileiro Francisco das Chagas Veras Neves a pesquisar areias ilmeníticas no município de Barreirinhas, Estado do Maranhão.

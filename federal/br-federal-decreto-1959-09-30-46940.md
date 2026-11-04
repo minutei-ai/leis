@@ -1,5 +1,3 @@
-###DEC-046940-0-000-30-09-1959@@@
-
 DECRETO Nº 46.940, DE 30 DE SETEMBRO DE 1959.
 
 Concede à sociedade Comércio e Navegação Fluvial “Augustus” Ltda. autorização para funcionar como emprêsa de navegação de cabotagem.

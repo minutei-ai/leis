@@ -1,5 +1,3 @@
-###DEC-076053-0-000-30-07-1975@@@
-
 DECRETO Nº 76.053, de 30 DE JULHO DE 1975.
 
 Concede à Eletro São Marco Ltda, o direito de lavrar minérios de cobre e chumbo no Município de Adrianópolis, Estado do Paraná.

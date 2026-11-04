@@ -1,5 +1,3 @@
-###DEC-048179-0-000-10-05-1960@@@
-
 DECRETO Nº 48.179, DE 10 DE MAIO DE 1960.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$7.000.000.000,00 (sete bilhões de cruzeiros), destinado à pavimentação do Rodovia Rio-Bahia.

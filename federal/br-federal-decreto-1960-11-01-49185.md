@@ -1,5 +1,3 @@
-###DEC-049185-0-000-01-11-1960@@@
-
 DECRETO Nº 49.185, DE 1 DE NOVEMBRO DE 1960.
 
 Cria cargo no Quadro de Pessoal do Serviço de Alimentação da previdência Social.

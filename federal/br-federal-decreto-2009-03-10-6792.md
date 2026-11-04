@@ -1,5 +1,3 @@
-###DEC-006792-0-000-10-03-2009@@@
-
 DECRETO Nº 6.792, DE 10 DE MARÇO DE 2009.
 
 Altera e acresce dispositivos ao Decreto no 99.274, de 6 de junho de 1990, para dispor sobre a composição e funcionamento do Conselho Nacional do Meio Ambiente - CONAMA. 

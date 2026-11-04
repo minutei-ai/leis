@@ -1,5 +1,3 @@
-###DEC-055053-0-000-24-11-1964@@@
-
 DECRETO Nº 55.053, DE 24 DE NOVEMBRO DE 1964.
 
 Concede à Minérios São João Batista de Muqui Limitada autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-092141-0-000-16-12-1985@@@
-
 Decreto nº 92.141, de 16 de dezembro de 1985
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Obras de Saneamento - DNOS, áreas de terras e benfeitorias, necessárias à criação e melhoramento de centros populacionais, seu abastecimento regular de meios de subsistência e planos hidroagrícolas, destinadas a execução do PROGRAMA DE APROVEITAMENTO HIDROAGRÍCOLAS DECORRENTES DO PROJETO JAGUARIBE-APODI, na região da Chapada do Apodi, no Estado do Ceará, e dá outras providências.

@@ -1,6 +1,7 @@
 LEI Nº 1.754 DE 27 DE JULHO DE 1962
 
-Ver também:<br>
+Ver também:
+
 Lei nº [13.363](https://www.legislabahia.ba.gov.br/documentos/lei-no-13363-de-29-de-junho-de-2015#LO%2013.363) , de 29 de junho de 2015 - Atualiza, na forma da Lei nº 12.057, de 11 de janeiro de 2011, os limites dos Municípios Abaré, Chorrochó, Glória, Macururé, Paulo Afonso e Rodelas.
 
 Cria o Município de MACURURÉ, desmembrado do de Glória.
@@ -55,4 +56,4 @@ Leia-se da seguinte maneira:
 
 O artigo 3º: A eleição para Prefeito e Vereadores do Município de Macururé, se realizará no dia sete de outubro de 1962 e a instalação do município e posse dos eleitos efetivar-se-ao a sete de abril de 1963, ficando seu território até lá sob a administração do Município de Glória.
 
-* * *
+ *

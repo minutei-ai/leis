@@ -1,5 +1,3 @@
-###DEC-066217-0-000-17-02-1970@@@
-
 Decreto nº 66.217 - de 17 de fevereiro de 1970
 
 Cria o Dia do Diplomata.

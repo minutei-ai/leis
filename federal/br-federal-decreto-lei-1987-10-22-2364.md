@@ -1,7 +1,3 @@
-1
-
-###DEL-002364-0-000-22-10-1987@@@
-
 # DECRETO-LEI Nº 2.364, DE 22 DE OUTUBRO DE 1987.
 
 Fixa o valor do soldo base do cálculo da remuneração dos militares.

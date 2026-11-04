@@ -1,5 +1,3 @@
-###DEC-087177-0-000-18-05-1982@@@
-
 DEcreto nº 87.177, de 18 de Maio de 1982
 
 Inclui cargo no extinto Quadro de Pessoal - Parte Especial - da Universidade Federal do Ceará, e dá outras providências.

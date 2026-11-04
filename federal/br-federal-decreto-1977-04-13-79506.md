@@ -1,5 +1,3 @@
-###DEC-079506-0-000-13-04-1977@@@
-
 DECRETO Nº 79.506, DE 13 DE ABRIL DE 1977.
 
 Concede à CECRISA- Cerâmica Criciúma S. A; o direito de lavrar caulim no Município de Jaguaruna, Estado de Santa Catarina.

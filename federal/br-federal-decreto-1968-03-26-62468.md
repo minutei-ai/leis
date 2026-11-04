@@ -1,5 +1,3 @@
-###DEC-062468-0-000-26-03-1968@@@
-
 Decreto nº 62.468, de 26 de março de 1968.
 
 Declara de utilidade pública o “Colégio Sagrado Coração de Jesus”, com sede em Teresina, Estado do Piauí.

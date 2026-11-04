@@ -1,5 +1,3 @@
-###DEC-061689-0-000-13-11-1967@@@
-
 DECRETO Nº 61.689, DE 13 DE NOVEMBRO DE 1967.
 
 Cria o Consulado honorário em Auckland, Nova Zelândia.

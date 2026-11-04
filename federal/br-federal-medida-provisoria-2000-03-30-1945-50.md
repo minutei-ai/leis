@@ -1,5 +1,3 @@
-###MPV-001945-0-050-30-03-2000@@@
-
 MEDIDA PROVISÓRIA nº 1.945-50, de 30 de março de 2000.
 
 Dispõe sobre o salário mínimo para o período de 1º de maio de 1996 a 30 de abril de 1997.

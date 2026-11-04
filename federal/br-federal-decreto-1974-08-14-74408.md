@@ -1,5 +1,3 @@
-###DEC-074408-0-000-14-08-1974@@@
-
 DECRETO Nº 74.408, DE 14 DE AGOSTO DE 1974.
 
 Dispõe sobre a estruturação atribuições e funcionamento do Serviço Federal de Processamento de Dados (SERPRO) e dá outras providências.

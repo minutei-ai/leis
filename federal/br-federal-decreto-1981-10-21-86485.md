@@ -1,5 +1,3 @@
-###DEC-086485-0-000-21-10-1981@@@
-
 Decreto nº 86.485, de 21 de outubro de 1981
 
 Delega competência ao Ministro de Estado da Justiça para a prática dos atos que indica.

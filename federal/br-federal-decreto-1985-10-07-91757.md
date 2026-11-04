@@ -1,5 +1,3 @@
-###DEC-091757-0-000-07-10-1985@@@
-
 DECRETO Nº 91.757, DE 07 DE outubro DE 1985.
 
 Dispõe sobre a criação ou instalação, no exterior, de novas dependências de órgãos e entidades da Administração Federal, fundações sob supervisão ministerial e de empresas, sob o controle direto ou indireto da União; veda a locação de imóveis residenciais no exterior e a renovação dos contratos de locação em vigor, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-007843-0-000-09-08-1945@@@
-
 DECRETO-LEI N. 7.843 – DE 9 DE AGÔSTO DE 1945
 
 Dispõe sôbre carreiras do Quadro II – extinto – do Ministério da Viação e Obras Públicas e dá outras providências.

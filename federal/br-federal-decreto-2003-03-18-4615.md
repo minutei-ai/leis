@@ -1,5 +1,3 @@
-###DEC-004615-0-000-18-03-2003@@@
-
 DECRETO Nº 4.615, DE 18 DE MARÇO DE 2003.      
 
  Altera o art. 4o do Estatuto da Fundação Nacional de Saúde - FUNASA, aprovado pelo Decreto no 3.450, de 9 de maio de 2000, e dá outras providências.

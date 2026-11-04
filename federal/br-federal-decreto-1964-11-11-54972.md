@@ -1,5 +1,3 @@
-###DEC-054972-0-000-11-11-1964@@@
-
 DECRETO Nº 54.972, DE 11 DE NOVEMBRO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno necessária à construção do açude público “Mororó”, no Município de Pedra, no Estado de Pernambuco.

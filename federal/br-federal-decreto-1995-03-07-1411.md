@@ -1,7 +1,3 @@
-1
-
-###DEC-001411-0-000-07-03-1995@@@
-
 DECRETO N° 1.411, DE 7 DE MARÇO DE 1995
 
 Dispõe sobre a reavaliação dos contratos em vigor e das licitações em curso, no âmbito dos órgãos e entidades da Administração Pública Federal, e dá outras providências.

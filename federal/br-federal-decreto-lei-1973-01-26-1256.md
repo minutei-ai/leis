@@ -1,5 +1,3 @@
-###DEL-001256-0-000-26-01-1973@@@
-
 DECRETO-LEI N. 1.256 – DE 26 DE JANEIRO DE 1973
 
 Reajusta os vencimentos e salários dos servidores do Poder Executivo e dá outras providencias.

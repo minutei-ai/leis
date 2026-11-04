@@ -1,5 +1,3 @@
-###DEC-007620-0-000-21-11-2011-PUB-01@@@
-
 DECRETO N°\- 7.620, DE 21 DE NOVEMBRO DE 2011
 
 Altera o art. 10 do Decreto nº 4.449, de 30 de outubro de 2002, que regulamenta a Lei nº 10.267, de 28 de agosto de 2001.

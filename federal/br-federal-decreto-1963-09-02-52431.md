@@ -1,5 +1,3 @@
-###DEC-052431-0-000-02-09-1963@@@
-
 Decreto nº 52.431, de 2 de setembro de 1963.
 
 Altera o Regulamento da Escola de Comando e Estado-Maior da Aeronáutica (ECEMAR).

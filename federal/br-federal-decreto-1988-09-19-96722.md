@@ -1,5 +1,3 @@
-###DEC-096722-0-000-19-09-1988@@@
-
 DECRETO N° 96.722, DE 19 DE SETEMBRO DE 1988
 
 Autoriza A FUNDAÇÃO RÁDIO E TELEVISÃO DO PARANÁ a executar, na Cidade de Curitiba, Estado do Paraná, serviço de radiodifusão de sons e imagens (televisão), mediante convênio a ser celebrado com o Ministério das Comunicações,

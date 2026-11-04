@@ -1,5 +1,3 @@
-###DEC-050190-0-000-28-01-1961@@@
-
 DECRETO Nº 50.190, DE 28 DE JANEIRO DE 1961.
 
 Autoriza o Ministério da Viação e Obras Públicas a firmar, pela União Convênio com a Estrada de Ferro Araraquara, relativo à cessão de trecho da rodovia BR-31, e dá outras providências.

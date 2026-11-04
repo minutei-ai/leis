@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51053)
-
 # LEI Nº 11.735, DE 25 DE MAIO DE 2004
 
 ## ( PL 1136/2003 - Afonso Lobato)

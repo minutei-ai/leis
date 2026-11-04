@@ -28,7 +28,6 @@ sha256_markdown: "6f1efa7509d9dcde0eacd13a76666cfca2aec13f978c7c17ae159fd9e662cf
 manifesto: "metadados/nucleo-licitacoes.json"
 contrato_versao: 1
 ---
-
 Presidência da República Casa Civil Secretaria Especial para Assuntos Jurídicos
 
 # LEI COMPLEMENTAR Nº 238, DE 21 DE OUTUBRO DE 2026
@@ -139,8 +138,4 @@ II - 1º de janeiro de 2027, quanto aos demais dispositivos.
 
 Brasília, 21 de outubro de 2026; 205º da Independência e 138º da República.
 
-LUIZ INÁCIO LULA DA SILVA Dario Carnevalli Durigan Paulo Henrique Rodrigues Pereira Guilherme Castro Boulos
-
-Este texto não substitui o publicado no DOU de 21.10.2026 - Edição extra
-
-\*
+LUIZ INÁCIO LULA DA SILVA Dario Carnevalli Durigan Paulo Henrique Rodrigues Pereira Guilherme Castro Boulos\*

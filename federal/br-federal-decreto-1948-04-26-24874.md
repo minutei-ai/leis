@@ -1,14 +1,12 @@
-###DEC-024874-0-000-26-04-1948@@@
+**DECRETO Nº 24.874, DE 26 DE ABRIL DE 1948.**
 
-<strong>DECRETO Nº 24.874, DE 26 DE ABRIL DE 1948.</strong>
+***Declara de utilidade pública diversas áreas de terra necessárias à construção da linha de transmissão entre a usina de Gavião Peixoto e a sub-estação de Piracicaba, no Estado de São Paulo, em favor da Companhia Paulista de Fôrça e Luz e autoriza a desapropriá-las.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terra necessárias à construção da linha de transmissão entre a usina de Gavião Peixoto e a sub-estação de Piracicaba, no Estado de São Paulo, em favor da Companhia Paulista de Fôrça e Luz e autoriza a desapropriá-las.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o requerido pela interessada e o disposto no art. 151, letras *a* e *b*, do Código de Águas, e nos arts. 3º, 5º letra *h*, 15 do Decreto-lei nº 3.365, de 21 de junho de 1941 e o parágrafo único do art. 1º do Decreto-lei número 4.152, de 6 de março de 1942,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o requerido pela interessada e o disposto no art. 151, letras <em>a</em> e <em>b</em>, do Código de Águas, e nos arts. 3º, 5º letra <em>h</em>, 15 do Decreto-lei nº 3.365, de 21 de junho de 1941 e o parágrafo único do art. 1º do Decreto-lei número 4.152, de 6 de março de 1942,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam declaradas de utilidade pública nos têrmos dos arts. 3º, 5º letra <em>h</em>, e 15 do Decreto-lei número 3.365, de 21 de junho de 1941 e no parágrafo único do art. 1º do Decreto-lei nº 4.152, de 6 de março de 1942, as seguintes áreas de terra necessárias à construção da linha de transmissão entre a usina de Gavião Peixoto e a sub-estação de Piracicaba, Estado de São Paulo, autorizada pelo Decreto nº 21.543, de 31 de julho de 1946, de conformidade com as plantas aprovadas, anexas ao processo respectivo:
+**Art**. 1º Ficam declaradas de utilidade pública nos têrmos dos arts. 3º, 5º letra *h*, e 15 do Decreto-lei número 3.365, de 21 de junho de 1941 e no parágrafo único do art. 1º do Decreto-lei nº 4.152, de 6 de março de 1942, as seguintes áreas de terra necessárias à construção da linha de transmissão entre a usina de Gavião Peixoto e a sub-estação de Piracicaba, Estado de São Paulo, autorizada pelo Decreto nº 21.543, de 31 de julho de 1946, de conformidade com as plantas aprovadas, anexas ao processo respectivo:
 
 1 - Duas faixas de terra no município de Bôa Esperança do Sul, com início, uma na estaca 5 + 89, e outra na estaca 31+ 85, até as estacas respectivamente, 26 + 20 e 76 + 45, com uma largura de 40 metros, dando uma área total de 259.720 m2 (duzentos e cinqüenta e nove mil, setecentos e vinte metros quadrados) ambas de propriedade atribuída a Leonardo Carlos de Arruda Botelho.
 
@@ -36,14 +34,14 @@
 
 13 - Uma faixa de terra no município de Piracicaba, com início na estaca 1.088 + 66 até a estaca 1.094 + 99, com uma largura de 40 metros, dando uma área total de 25.400m2 (vinte e cinco mil e quatrocentos metros quadrados), de propriedade atribuída a Otávio Gava.
 
-<strong>Art</strong>. 2º A Companhia Paulista de Fôrça e Luz fica autorizada a promover a desapropriação das mencionadas áreas de terra com fundamento no art. 3º e de conformidade com o disposto no art. 15 do Decreto-lei número 3.365, de 21 de junho de 1941 e o parágrafo único do art. 1º do Decreto-lei nº 4.152 de 6 de março de 1942, citados.
+**Art**. 2º A Companhia Paulista de Fôrça e Luz fica autorizada a promover a desapropriação das mencionadas áreas de terra com fundamento no art. 3º e de conformidade com o disposto no art. 15 do Decreto-lei número 3.365, de 21 de junho de 1941 e o parágrafo único do art. 1º do Decreto-lei nº 4.152 de 6 de março de 1942, citados.
 
-<strong>Art</strong>. 3º O presente Decreto entrará em vigor na data de sua publicação.
+**Art**. 3º O presente Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 26 de abril de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

@@ -1,5 +1,3 @@
-###DEC-052931-0-000-26-11-1963@@@
-
 DECRETO Nº 52.931, DE 26 DE NOVEMBRO DE 1963.
 
 Autoriza Industrial, Comercial e Agrícola Rio Pilões S.A a pesquisar calcário, argila, xisto argiloso no município de Guapiára, Estado de são Paulo.

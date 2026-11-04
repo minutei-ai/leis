@@ -1,5 +1,3 @@
-###DEC-050300-0-000-27-02-1961@@@
-
 DECRETO Nº 50.300, de 27 DE fEVEREIRO DE 1961.
 
 Concede reconhecimento a curso.

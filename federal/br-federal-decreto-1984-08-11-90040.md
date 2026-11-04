@@ -1,5 +1,3 @@
-###DEC-090040-0-000-11-08-1984@@@
-
 DECRETO Nº 90.040, DE 11 DE AGOSTO DE 1984
 
 Cria a Ordem Nacional do Mérito da Justiça.

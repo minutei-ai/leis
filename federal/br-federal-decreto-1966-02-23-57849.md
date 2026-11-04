@@ -1,5 +1,3 @@
-###DEC-057849-0-000-23-02-1966@@@
-
 Decreto nº 57.849, de 23 de Fevereiro de 1966.
 
 Concede autorização para funcionamento da Faculdade de Filosofia, Ciências e Letras da Fundação Santo André, Estado de São Paulo.

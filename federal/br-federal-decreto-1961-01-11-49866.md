@@ -1,5 +1,3 @@
-###DEC-049866-0-000-11-01-1961@@@
-
 DECRETO Nº 49.866, DE 11 DE janeiro DE 1961.
 
 Eleva o limite do valor estabelecido pelo Decreto nº 23.669, de 11 de setembro de 1947.

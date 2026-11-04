@@ -1,5 +1,3 @@
-###DEC-068892-0-000-08-07-1971@@@
-
 DECRETO Nº 68.892, DE 8 DE JULHO DE 1971.
 
 Autoriza o funcionamento da Faculdade de Ciências Administrativas, com os cursos de Administração de Emprêsas e Ciências Contábeis, no Município de Joinville - SC.

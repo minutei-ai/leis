@@ -1,5 +1,3 @@
-###DEC-090278-0-000-03-10-1984@@@
-
 DeCreto nº 90.278, de 03 dE Outubro de 1984
 
 Renova as concessões outorgadas às entidades que menciona para explorarem serviço de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

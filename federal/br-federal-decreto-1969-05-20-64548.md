@@ -1,5 +1,3 @@
-###DEC-064548-0-000-20-05-1969@@@
-
 DECRETO Nº 64.548, DE 20 DE MAIO DE 1969.
 
 Altera os artigos 320 e 370 do Regulamento para o Tráfego Marítimo, aprovado pelo Decreto nº 5.798, de 11 de junho de 1940, e alterado pelos Decretos ns 50.114, de 26 de janeiro de 1961, 2.080, de 17 de janeiro de 1963, 62.179 de 25 de janeiro de 1968 e 64.015, de 22 de janeiro de 1969.
@@ -10,7 +8,19 @@ decreta:
 
 Art. 1º O 3º Grupo - Pescadores, estabelecido no artigo 320 do Regulamento para o Tráfego Marítimo passa a ter as seguintes seções e categorias:
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:133.85pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grupo</span></p></td><td style="width:133.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:133pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:133.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3º Grupo</span></p></td><td style="width:133.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">Convés</span></p></td><td style="width:133pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Patrão de Pesca de Alto Mar Patrão de Pesca Costeira Patrão de Pesca Regional Pescador Profissional Especializado Pescador Profissional Aprendiz de Pesca</span></p></td></tr><tr><td style="width:133.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pescadores</span></p></td><td style="width:133.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Máquinas</span></p></td><td style="width:133pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Condutor Motorista de Pesca Motorista de Pesca</span></p></td></tr></tbody></table>
+Grupo
+
+3º Grupo
+
+Convés
+
+Patrão de Pesca de Alto Mar Patrão de Pesca Costeira Patrão de Pesca Regional Pescador Profissional Especializado Pescador Profissional Aprendiz de Pesca
+
+Pescadores
+
+Máquinas
+
+Condutor Motorista de Pesca Motorista de Pesca
 
 Art. 2º O atual parágrafo único do artigo 320 do Regulamento para o Tráfego Marítimo passa a constituir o § 1º, ficando acrescentados ao mesmo artigo os seguintes parágrafos:
 

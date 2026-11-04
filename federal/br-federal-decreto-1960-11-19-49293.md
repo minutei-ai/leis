@@ -1,5 +1,3 @@
-###DEC-049293-0-000-19-11-1960@@@
-
 DECRETO Nº 49.293, de 19 de novembro de 1960.
 
 Concede à Tantalita S.A. autorização para funcionar como emprêsa de mineração.

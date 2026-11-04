@@ -1,7 +1,3 @@
-1
-
-###DEC-001661-0-000-06-10-1995@@@
-
 DECRETO Nº 1.661, DE 6 DE OUTUBRO DE 1995.
 
 Dispõe sobre a execução do Décimo Oitavo Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das preferências Outorgadas no Período 1962/1980, nº 13, entre Brasil e Venezuela, de 30 de dezembro de 1994.

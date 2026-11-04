@@ -1,5 +1,3 @@
-###DEC-069142-0-000-30-08-1971@@@
-
 DECRETO Nº 69.142, DE 30 DE AGÔSTO DE 1971.
 
 Concede à Companhia Thermas do Rio Quente o direito de lavrar Águas Termo-Minerais, no município de Caldas Novas, Estado de Goiás.

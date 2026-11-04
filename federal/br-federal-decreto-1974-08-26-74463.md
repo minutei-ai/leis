@@ -1,5 +1,3 @@
-###DEC-074463-0-000-26-08-1974@@@
-
 DECRETO Nº 74.463, DE 26 DE AGOSTO DE 1974.
 
 Declara interditada, temporariamente, para fins de atração e pacificação de grupos indígenas área que discrimina no Município de Airão, Estado do Amazonas.

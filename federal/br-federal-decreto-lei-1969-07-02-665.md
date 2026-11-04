@@ -1,5 +1,3 @@
-###DEL-000665-0-000-02-07-1969@@@
-
 DECRETO-LEI Nº 665, DE 2 DE JULHO DE 1969
 
 Altera o Artigo 8º da Lei nº 5.379, de 15 de dezembro de 1967, que provê sôbre a alfabetização funcional e a educação continuada de adolescentes e adultos.

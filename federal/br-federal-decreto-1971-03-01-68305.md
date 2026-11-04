@@ -1,5 +1,3 @@
-###DEC-068305-0-000-01-03-1971@@@
-
 DECRETO Nº 68.305, DE 1º DE MARÇO DE 1971.
 
 Altera o artigo 8º do Decreto nº 67.052, de 13 de agosto de 1970.

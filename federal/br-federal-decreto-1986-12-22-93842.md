@@ -1,5 +1,3 @@
-###DEC-093842-0-000-22-12-1986@@@
-
 DECRETO Nº 93.842, DE 22 DE DEZEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Muxuré Velho"/"São João", situado no Município de Quixeramobim, no Estado do Ceará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.617, de 2 de maio de 1986, classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração e dá outras providências.

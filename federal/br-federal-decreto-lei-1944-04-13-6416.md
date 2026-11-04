@@ -1,5 +1,3 @@
-###DEL-006416-0-000-13-04-1944@@@
-
 DECRETO-LEI N. 6.416 – DE 13 DE ABRIL DE 1944
 
 Altera dispositivo de Decreto-lei nº 5.436, de 30 de abril de 1943

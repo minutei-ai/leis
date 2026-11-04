@@ -1,5 +1,3 @@
-###DEC-056456-0-000-09-06-1965@@@
-
 decreto nº 56.456, de 9 de junho de 1965.
 
 Outorga à Centrais Elétricas do Rio das Contas S.A. concessão para distribuir energia elétrica.

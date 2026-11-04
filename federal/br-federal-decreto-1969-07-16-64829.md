@@ -1,5 +1,3 @@
-###DEC-064829-0-000-16-07-1969@@@
-
 decreto nº 64.829 - de 16 de julho de 1969.
 
 Inclui no Quadro de Pessoal do Ministério do Exército, com os respectivos recursos orçamentários, o pessoal que especifica, pertencente à Comissão Coordenadora da Criação do Cavalo Nacional.

@@ -1,5 +1,3 @@
-###DEL-002127-0-000-20-06-1984@@@
-
 # DECRETO-LEI Nº 2.127, dE 20 de junho De 1984
 
 Altera a legislação do imposto de renda aplicável aos rendimentos de cadernetas de poupança do Sistema Financeiro da Habitação.

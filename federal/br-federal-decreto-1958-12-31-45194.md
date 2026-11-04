@@ -1,5 +1,3 @@
-###DEC-045194-0-000-31-12-1958@@@
-
 Decreto nº 45.194, de 31 de dezembro de 1958.
 
 Altera valores monetários fixados pelo Decreto nº 39.067, de 1956.

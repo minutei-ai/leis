@@ -1,7 +1,3 @@
-1
-
-###DEL-002285-0-000-23-07-1986@@@
-
 # DECRETO-LEI Nº 2.285, DE 23 DE JULHO DE 1986
 
 Estende aos fundos em condomínio a que se refere o artigo 50 da Lei nº 4.728, 14 de julho de 1965, o tratamento fiscal previsto no Decreto-lei nº 1.986, de 28 de dezembro de 1982, e dá outras providências.

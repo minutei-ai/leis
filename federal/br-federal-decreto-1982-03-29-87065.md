@@ -1,5 +1,3 @@
-###DEC-087065-0-000-29-03-1982@@@
-
 Decreto nº 87.065, de 29 de março de 1982.
 
 Promulga o Acordo Básico de Cooperação Científica e Tecnológica entre o Governo da República Federativa do Brasil e o Governo da União das Repúblicas Socialistas Soviéticas.
@@ -98,4 +96,14 @@ ARTIGO IX
 
 Feito na cidade de Moscou, aos 16 dias do mês de abril de 1981, em dois exemplares originais, nas línguas portuguesa e russa, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:'Times New Roman'">PELO GOVERNO DA REPÚBLICA</span><span style="font-family:'Times New Roman'; -aw-import:spaces">&nbsp;</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:'Times New Roman'">PELO GOVERNO DA UNIÃO DAS</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:'Times New Roman'">FEDERATIVA DO BRASIL:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:'Times New Roman'">REPÚBLICAS SOCIALISTAS SOVIÉTICAS:</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:'Times New Roman'">João clemente Baena Soares</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:'Times New Roman'">Guri Ivanovitch Martchiuc</span></p></td></tr></tbody></table>
+PELO GOVERNO DA REPÚBLICA
+
+PELO GOVERNO DA UNIÃO DAS
+
+FEDERATIVA DO BRASIL:
+
+REPÚBLICAS SOCIALISTAS SOVIÉTICAS:
+
+João clemente Baena Soares
+
+Guri Ivanovitch Martchiuc

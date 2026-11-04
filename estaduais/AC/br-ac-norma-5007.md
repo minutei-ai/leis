@@ -1,6 +1,10 @@
 > **LEI Nº 3.841, DE 14 DE DEZEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Concede o Título de Cidadão Acreano ao Sr. Petrônio Aparecido Chaves Antunes.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Concede o Título de Cidadão Acreano ao Sr. Petrônio Aparecido Chaves Antunes.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

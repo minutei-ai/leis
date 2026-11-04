@@ -1,5 +1,3 @@
-###DEL-005194-0-000-15-01-1943@@@
-
 DECRETO‑LEI N. 5.194 – DE 15 DE JANEIRO DE 1943
 
 Declara extinta uma ação penal

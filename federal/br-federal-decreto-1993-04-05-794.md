@@ -1,7 +1,3 @@
-1
-
-###DEC-000794-0-000-05-04-1993@@@
-
 DECRETO N° 794, DE 5 DE ABRIL DE 1993
 
 Estabelece limite de dedução do Imposto de Renda das pessoas jurídicas, correspondentes às doações em favor dos Fundos dos Direitos da Criança e do Adolescente.

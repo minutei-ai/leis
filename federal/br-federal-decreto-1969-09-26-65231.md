@@ -1,5 +1,3 @@
-###DEC-065231-0-000-26-09-1969@@@
-
 DECRETO Nº 65.231 - DE 26 DE SETEMBRO DE 1969.
 
 Revalida, nos têrmos do artigo 1º do Decreto 62.347, de 4 de março de 1968, a autorização concedida em 24.10.60 para funcionamento no Brasil, da Internacional de Correios Telégrafos e Telefones (ICTT), sediada em Berna, na Suiça.

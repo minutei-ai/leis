@@ -1,5 +1,3 @@
-###DEC-072533-0-000-26-07-1973@@@
-
 Decreto nº 72.533, de 26 de julho de 1973.
 
 Autoriza a encampação dos bens e instalações vinculados às concessões dos serviços públicos de energia elétrica em diversos municípios dos Estados de Sergipe, Alagoas e Bahia.

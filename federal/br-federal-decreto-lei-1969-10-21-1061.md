@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/88fb8392-6314-4494-859f-f4659b0d6728/texto#nowhere)
 
-###DEL-001061-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.061, DE 21 DE OUTUBRO DE 1969
 
 Dispõe sôbre a integração a que se referem o artigo 3º, § 2º, dos Decretos-leis nºs 762 e 774, respectivamente, de 14 e 20 de agôsto de 1969.

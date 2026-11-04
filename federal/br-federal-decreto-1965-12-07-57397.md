@@ -1,5 +1,3 @@
-###DEC-057397-0-000-07-12-1965@@@
-
 DECRETO Nº 57.397, DE 7 DE DEZEMBRO DE 1965.
 
 Cria o Consulado honorário do Brasil em Dúblin, Irlanda.

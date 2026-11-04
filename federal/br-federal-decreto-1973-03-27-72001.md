@@ -1,5 +1,3 @@
-###DEC-072001-0-000-27-03-1973@@@
-
 DECRETO Nº 72.001, de 27 de março de 1973.
 
 Concede à Empresa de Mineração Brejão Limitada o direito de lavrar areia quartzosa no Município de Barueri, Estado de São Paulo.
@@ -27,8 +25,6 @@ Brasília, 27 de março de 1973; 152º da Independência e 85º da República.
 Emílio G. Médici
 
 Antônio Dias Leite Júnior
-
-###DEC-072001-0-000-27-03-1973@@@RET01+++
 
 DECRETO Nº 72.001, DE 27 DE MARÇO DE 1973.
 

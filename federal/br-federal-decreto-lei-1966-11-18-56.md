@@ -1,5 +1,3 @@
-###DEL-000056-0-000-18-11-1966@@@
-
 DECRETO-LEI Nº 56, DE 18 DE NOVEMBRO DE 1966
 
 Dispõe sôbre a arrecadação de taxas pelo Instituto do Açúcar e do Álcool, a produção, o comércio e o transporte do açúcar e do Álcool e dá outras providências.

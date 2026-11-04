@@ -1,5 +1,3 @@
-###DEC-006795-0-000-13-03-2009@@@
-
 DECRETO Nº 6.795, DE 13 DE MARÇO DE 2009.
 
 Regulamenta o art. 23 da Lei no 10.671, de 15 de maio de 2003, que dispõe sobre o controle das condições de segurança dos estádios desportivos.

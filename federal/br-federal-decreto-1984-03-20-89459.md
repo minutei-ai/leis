@@ -1,5 +1,3 @@
-###DEC-089459-0-000-20-03-1984@@@
-
 Decreto nº 89.459, de 20 de março de 1984
 
 Suspende a execução da Emenda Constitucional nº 17, de 27 de novembro de 1980, do Estado do Rio Grande do Sul.

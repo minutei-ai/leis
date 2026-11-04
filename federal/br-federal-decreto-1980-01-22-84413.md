@@ -1,5 +1,3 @@
-###DEC-084413-0-000-22-01-1980@@@
-
 Decreto nº 84.413 de 22 de janeiro de 1980
 
 Autoriza o funcionamento, em regime especial, dos cursos de Estudos Sociais, de Ciências e Letras e de Pedagogia da Faculdade de Filosofia, Ciência e Letras de Santo Ângelo, Rio Grande do Sul.

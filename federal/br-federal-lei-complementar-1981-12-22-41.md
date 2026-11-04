@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/3ed9e1b3-be4a-4fd8-8ac7-8f22dc5036a4/texto#nowhere)
 
-###LCP-000041-0-000-22-12-1981@@@
-
 # LEI COMPLEMENTAR Nº 41, DE 22 DE DEZEMBRO DE 1981
 
 Cria o Estado de Rondônia, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-085109-0-000-02-09-1980@@@
-
 Decreto nº 85.109, de 02 de setembro de 1980.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A. - CEMIG concessão para o aproveitamento da energia hidráulica de um trecho de Ribeirão das Três Barras, no Município de Conceição de Mato Dentro, Estado de Minas Gerais.

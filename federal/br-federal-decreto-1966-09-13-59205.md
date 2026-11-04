@@ -1,5 +1,3 @@
-###DEC-059205-0-000-13-09-1966@@@
-
 decreto nº 59.205, de 13 de setembro de 1966.
 
 Aprova a alteração introduzida nos Estatutos da Companhia Brasília de Seguros Gerais, relativa ao aumento do capital social.

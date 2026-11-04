@@ -1,5 +1,3 @@
-###DEC-067528-0-000-11-11-1970@@@
-
 decreto nº 67.528, de 11 de novembro de 1970.
 
 Altera a denominação de funções gratificadas do Estado-Maior das Fôrças Armadas e dá outras providências.

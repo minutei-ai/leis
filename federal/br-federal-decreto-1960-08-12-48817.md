@@ -1,5 +1,3 @@
-###DEC-048817-0-000-12-08-1960@@@
-
 DECRETO Nº 48.817, DE 12 DE AGôSTO DE 1960.
 
 Autoriza a Emprêsa Fôrça e Luz Santa Catarina S.A. a constituir hipoteca a favor do Banco Nacional do Desenvolvimento Econômico.

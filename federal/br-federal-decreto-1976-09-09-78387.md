@@ -1,5 +1,3 @@
-###DEC-078387-0-000-09-09-1976@@@
-
 DECRETO Nº 78.387, DE 9 DE SETEMBRO DE 1976.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado da Paraíba.

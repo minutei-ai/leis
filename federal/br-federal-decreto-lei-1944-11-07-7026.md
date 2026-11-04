@@ -1,5 +1,3 @@
-###DEL-007026-0-000-07-11-1944@@@
-
 DECRETO-LEI N. 7.026 – DE 7 DE NOVEMBRO DE 1944
 
 Altera dispositivo do Decreto-Iei n. 4.521, de 24-7-942

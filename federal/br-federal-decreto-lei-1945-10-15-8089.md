@@ -1,5 +1,3 @@
-###DEL-008089-0-000-15-10-1945@@@
-
 DECRETO-LEI N. 8.089 – DE 15 DE OUTUBRO DE 1945
 
 Desapropria, para fins de utilidade pública, duas casas a respectivos terrenos em Ijuí, Estado do Rio Grande do Sul.

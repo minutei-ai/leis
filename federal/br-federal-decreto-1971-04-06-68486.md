@@ -1,5 +1,3 @@
-###DEC-068486-0-000-06-04-1971@@@
-
 Decreto nº 68.486 - de 6 de abril de 1971.
 
 Declara de interêsse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno da bacia de irrigação do açude público "Cachoeira II", no município de Serra Talhada, Estado de Pernambuco.

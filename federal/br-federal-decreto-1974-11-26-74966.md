@@ -1,5 +1,3 @@
-###DEC-074966-0-000-26-11-1974@@@
-
 DECRETO Nº 74.966, DE 26 DE NOVEMBRO DE 1974.
 
 Regulamenta os artigos 8º a 12, do Decreto-lei nº 37, de 18 de novembro de 1966, que dispõem sobre isenção e redução do imposto de importação e dá outras providências.
@@ -56,7 +54,21 @@ Art. 9º Na transferência de propriedade ou uso de bens desembaraçados com ise
 
 § 1º A depreciação cabível obedecerá aos seguintes percentuais:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">mais de 12 até 24 meses ...............................................................................................</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">25%</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">mais de 24 até 36 meses ...............................................................................................</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50%</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">mais de 36 até 48 meses ...............................................................................................</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">75%</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">mais de 48 e menos de 60 meses .................................................................................</span></p></td><td style="width:42.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">90%</span></p></td></tr></tbody></table>
+mais de 12 até 24 meses ...............................................................................................
+
+25%
+
+mais de 24 até 36 meses ...............................................................................................
+
+50%
+
+mais de 36 até 48 meses ...............................................................................................
+
+75%
+
+mais de 48 e menos de 60 meses .................................................................................
+
+90%
 
 § 2º Os percentuais de depreciação fixados no § 1º deste artigo não se aplicam aos casos de bens desembaraçados com isenção na forma do Regulamento aprovado pelo Decreto número 61.324, de 11 de setembro de 1967, para os quais é mantido o tratamento previsto no parágrafo único do artigo 45, do referido Regulamento, com a nova redação dada pelo Decreto nº 74.177, de 12 de junho de 1974.
 

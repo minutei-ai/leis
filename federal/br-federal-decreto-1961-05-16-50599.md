@@ -1,5 +1,3 @@
-###DEC-050599-0-000-16-05-1961@@@
-
 DECRETO Nº 50.599, DE 16 DE MAIO DE 1961.
 
 Concede autorização para o funcionamento do curso que indica.

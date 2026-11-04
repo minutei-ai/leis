@@ -1,5 +1,3 @@
-###DEC-058060-0-000-23-03-1966@@@
-
 DECRETO Nº 58.060, DE 23 DE MARÇO DE 1966.
 
 Abre ao Poder Judiciário - Justiça do Trabalho - Tribunal Regional do Trabalho da 4ª Região, o crédito especial de Cr$35.000.000, para o fim que especifica.

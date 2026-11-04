@@ -1,5 +1,3 @@
-###DEL-001156-0-000-09-03-1971@@@
-
 # DECRETO-LEI Nº 1.156, DE 9 DE MARÇO DE 1971
 
 Dispõe sôbre a prestação dos serviços de propriedade industrial e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-004754-0-000-29-09-1942@@@
-
 DECRETO-LEI N. 4.754 – DE 29 DE SETEMBRO DE 1942
 
 Cria no Ministério da Aeronáutica o Quadro de Oficiais de Infantaria de Guarda, do Corpo de Oficiais da Aeronáutica

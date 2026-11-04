@@ -1,5 +1,3 @@
-###DEC-070976-0-000-14-08-1972@@@
-
 DECRETO Nº 70.976, DE 14 DE AGOSTO DE 1972.
 
 Concede à Mineração Rio Branco S.A. o direito de lavrar talco no município de Cananéia, Estado de São Paulo.

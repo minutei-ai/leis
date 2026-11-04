@@ -1,5 +1,3 @@
-###MPV-002055-0-003-09-11-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.055-3, DE 9 de novembro dE 2000.
 
 Altera e acrescenta dispositivos à Lei nº 8.884, de 11 de junho de 1994, que transforma o Conselho Administrativo de Defesa Econômica - CADE em autarquia, dispõe sobre a prevenção e repressão às infrações contra a ordem econômica, e dá outras providências.

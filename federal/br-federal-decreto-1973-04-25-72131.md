@@ -1,5 +1,3 @@
-###DEC-072131-0-000-25-04-1973@@@
-
 decreto nº 72.131, de 25 de abril de 1973.
 
 Concede reconhecimento à Faculdade de Ciências Econômicas, mantida pela Fundação Universidade de Itaúna - MG.

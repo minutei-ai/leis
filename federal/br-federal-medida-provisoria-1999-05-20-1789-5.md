@@ -1,5 +1,3 @@
-###MPV-001789-0-005-20-05-1999@@@
-
 MEDIDA prOVISóRIA Nº 1.789-5, DE 20 DE MAIO DE 1999.
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

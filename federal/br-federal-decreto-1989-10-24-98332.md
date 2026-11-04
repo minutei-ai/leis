@@ -1,7 +1,3 @@
-1
-
-###DEC-098332-0-000-24-10-1989@@@
-
 DECRETO N° 98.332, DE 24 DE OUTUBRO DE 1989
 
 Outorga concessão á RÁDIO DIFUSORA DE IVINHEMA LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Ivinhema, Estado do Mato Grosso do Sul.

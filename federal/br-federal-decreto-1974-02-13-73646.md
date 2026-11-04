@@ -1,5 +1,3 @@
-###DEC-073646-0-000-13-02-1974@@@
-
 DECRETO Nº 73.646, DE 13 DE FEVEREIRO DE 1974.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona situado em Recife, Estado de Pernambuco.

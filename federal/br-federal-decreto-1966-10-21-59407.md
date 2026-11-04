@@ -1,5 +1,3 @@
-###DEC-059407-0-000-21-10-1966@@@
-
 DECRETO Nº 59.407, DE 21 DE OUTUBRO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação imóveis necessários à expansão do “Campus” da Universidade Federal da Bahia.

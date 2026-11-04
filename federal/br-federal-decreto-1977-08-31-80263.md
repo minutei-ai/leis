@@ -1,5 +1,3 @@
-###DEC-080263-0-000-31-08-1977@@@
-
 Decreto nº 80.263, de 31 de agosto 1977.
 
 Concede à Minérios Industriais do Sul - S.A. - MINEL o direito de lavrar Argila no Município de Urussanga, Estado de Santa Catarina.

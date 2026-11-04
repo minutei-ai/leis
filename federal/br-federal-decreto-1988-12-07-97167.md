@@ -1,5 +1,3 @@
-###DEC-097167-0-000-07-12-1988@@@
-
 DECRETO Nº 97.167, DE 07 DE DEZEMBRO DE 1988
 
 Dá nova redação ao artigo 1º do Decreto nº 88.619, de 15 de agosto de 1983, alterado pelo Decreto nº  94.308, de 05 de maio de 1987.

@@ -1,5 +1,3 @@
-###DEC-050308-0-000-28-02-1961@@@
-
 DECRETO Nº 50.308, DE 28 DE FEVEREIRO DE 1961.
 
 Declara luto oficial pelo falecimento do Governador Roberto Silveira e dispõe sôbre os seus funerais.

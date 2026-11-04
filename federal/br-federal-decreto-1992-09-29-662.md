@@ -1,7 +1,3 @@
-1
-
-###DEC-000662-0-000-29-09-1992@@@
-
 DECRETO N° 662, DE 29 DE SETEMBRO DE 1992
 
 Dispõe sobre a composição do Conselho Nacional de Imigração.

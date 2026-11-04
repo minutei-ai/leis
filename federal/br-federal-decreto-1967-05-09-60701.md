@@ -1,5 +1,3 @@
-###DEC-060701-0-000-09-05-1967@@@
-
 DECRETO Nº 60.701, DE 9 DE MAIO DE 1967.
 
 Modifica o artigo 1º do Decreto número 60.609, de 24 de abril de 1967.

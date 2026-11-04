@@ -1,5 +1,3 @@
-###DEC-069863-0-000-30-12-1971@@@
-
 decreto nº 69.863 - de 30 de dezembro de 1971
 
 Altera o Decreto nº 69.321, de 6 de outubro de 1971, e dá outras providências.

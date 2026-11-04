@@ -1,5 +1,3 @@
-###DEC-069394-0-000-21-10-1971@@@
-
 DECRETO Nº 69.394, DE 21 DE OUTUBRO DE 1971.
 
 Autoriza a cessão gratuita de imóvel na cidade do Recife, Estado de Pernambuco e dá outras providências.

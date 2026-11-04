@@ -1,4 +1,5 @@
-DECRETO Nº 1.176, DE 10 DE ABRIL DE 2025<br>
+DECRETO Nº 1.176, DE 10 DE ABRIL DE 2025
+
 (Revogado pelo Decreto Numerado nº 1.481, de 3 de junho de 2025)
 
 ~~Dispõe sobre o desmembramento de imóvel, localizado no Município de Aparecida de Goiânia.~~
@@ -19,7 +20,8 @@ DECRETO Nº 1.176, DE 10 DE ABRIL DE 2025<br>
 
 ~~Aparecida de  Goiânia, 10 de abril de 2025.~~
 
-~~LEANDRO VILELA VELLOSO<br>
+~~LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia~~
 
 ~~ANEXO ÚNICO~~

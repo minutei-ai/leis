@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210776)<br>
-
 # DECRETO N° 69.423, DE 20 DE MARÇO DE 2025
 
 ### _Altera o Decreto n° 66.772, de 24 de maio de 2022, que regulamenta a Bonificação por Resultados - BR, instituída pela Lei Complementar n° 1.361, de 21 de outubro de 2021, e dá providências correlatas_
@@ -20,7 +18,8 @@ II - o inciso VII do artigo 8°:
 
 III - a seção IV e o artigo 9°:
 
-"SEÇÃO IV<br>
+"SEÇÃO IV
+
 Da Subsecretaria de Gestão
 
 Artigo 9° - Compete à Secretaria de Gestão e Governo Digital, por meio da Subsecretaria de Gestão, além das competências definidas pelo [Decreto n° 69.052, de 14 de novembro de 2024](https://www.al.sp.gov.br/norma/210215):

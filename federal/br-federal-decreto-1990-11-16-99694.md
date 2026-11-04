@@ -1,7 +1,3 @@
-1
-
-###DEC-099694-0-000-16-11-1990@@@
-
 DECRETO N° 99.694, DE 16 DE NOVEMBRO DE 1990
 
 Reduz a alíquota do Imposto sobre Produtos Industrializados, incidentes sobre as aeronaves que especifica.

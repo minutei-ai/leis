@@ -1,5 +1,3 @@
-###DEL-009777-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.777 – DE 6 DE SETEMBRO DE 1946
 
 Estabelece bases financeiras para a “Fundação da Casa Popular” e dá outras providências.

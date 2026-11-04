@@ -1,5 +1,3 @@
-###DEL-000045-0-000-18-11-1966@@@
-
 DECRETO-LEI Nº 45, DE 18 DE NOVEMBRO DE 1966
 
 Autoriza o Banco Nacional do Desenvolvimento Econômico a criar uma sociedade por ações que incorporará o FINAME, e dá outras providências.

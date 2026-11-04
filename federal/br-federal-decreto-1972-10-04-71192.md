@@ -1,5 +1,3 @@
-###DEC-071192-0-000-04-10-1972@@@
-
 Decreto nº 71.192, de 4 de outubro de 1972.
 
 Autoriza o funcionamento da Faculdade de Pedagogia e Letras "Professor Lourenço Filho", no Estado da Guanabara.

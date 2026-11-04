@@ -18,7 +18,8 @@ Art. 4º Este Decreto entra em vigor na data de sua publicação.
 
 Aparecida de Goiânia, 18 de agosto de 2025.
 
-JOÃO CAMPOS DE ARAUJO<br>
+JOÃO CAMPOS DE ARAUJO
+
 Prefeito de Aparecida de Goiânia em exercício
 
 ANEXO

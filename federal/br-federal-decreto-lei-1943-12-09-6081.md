@@ -1,5 +1,3 @@
-###DEL-006081-0-000-09-12-1943@@@
-
 DECRETO‑LEI N. 6.081 – DE 9 DE DEZEMBRO DE 1943
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 80.000,00 para desapropriação de terrenos, e dá outras providências

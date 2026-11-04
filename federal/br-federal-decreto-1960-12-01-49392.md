@@ -1,5 +1,3 @@
-###DEC-049392-0-000-01-12-1960@@@
-
 DECRETO Nº 49.392, DE 1º DE DEZEMBRO DE 1960.
 
 Aprova a instalação de filiais do The First National City Bank of New York em Brasília (DF) e Campinas (SP).

@@ -1,5 +1,3 @@
-###DEC-064386-0-000-22-04-1969@@@
-
 DECRETO nº 64.386, DE 22 DE ABRIL DE 1969.
 
 Autoriza o Ministro da Fazenda a negociar e a contratar, em nome da União Federal, empréstimo em moeda estrangeira, com o Banco Interamericano de Desenvolvimento, para o fim que menciona.

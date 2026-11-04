@@ -1,5 +1,3 @@
-###DEC-004034-0-000-26-11-2001@@@
-
 DECRETO Nº 4.034, DE 26 DE NOVEMBRO DE 2001
 
 Dispõe sobre as promoções de praças da Marinha e dá outras providências.

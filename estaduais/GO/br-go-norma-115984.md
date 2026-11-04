@@ -78,7 +78,8 @@ Art. 5º A vigência das alterações constantes do inciso II do art. 1º, do ar
 
 Art. 6º Este Decreto entra em vigor na data de sua publicação e produz efeitos a partir do primeiro dia do mês subsequente, com exceção do disposto no art. 5º deste Decreto.
 
-Goiânia, 29 de junho de 2026; 138º da República.<br>
+Goiânia, 29 de junho de 2026; 138º da República.
+
  
 
 DANIEL VILELA

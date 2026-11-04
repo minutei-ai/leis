@@ -1,5 +1,3 @@
-###DEC-004877-0-000-13-11-2003@@@
-
 DECRETO Nº 4.877, DE 13 DE NOVEMBRO DE 2003
 
 Disciplina o processo de escolha de dirigentes no âmbito dos Centros Federais de Educação Tecnológica, Escolas Técnicas Federais e Escolas Agrotécnicas Federais.

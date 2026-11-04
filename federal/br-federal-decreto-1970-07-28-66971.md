@@ -1,5 +1,3 @@
-###DEC-066971-0-000-28-07-1970@@@
-
 DECRETO Nº 66.971, DE 28 DE JULHO DE 1970.
 
 Declara caduco o Decreto nº 31.273 de 13 de agôsto de 1952.

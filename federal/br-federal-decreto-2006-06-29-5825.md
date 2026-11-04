@@ -1,5 +1,3 @@
-###DEC-005825-0-000-29-06-2006@@@
-
 DECRETO Nº 5.825, DE 29 DE JUNHO DE 2006.
 
 Estabelece as diretrizes para elaboração do Plano de Desenvolvimento dos Integrantes do Plano de Carreira dos Cargos Técnico-Administrativos em Educação, instituído pela Lei no 11.091, de 12 de janeiro de 2005.
@@ -179,5 +177,3 @@ LUIZ INÁCIO LULA DA SILVA
            Fernando Haddad
 
              Paulo Bernardo Silva
-
-Este texto não substitui o publicado no D.O.U. de 30.6.2006

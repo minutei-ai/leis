@@ -1,5 +1,3 @@
-###DEC-066906-0-000-17-07-1970@@@
-
 Decreto nº 66.906, de 17 de julho de 1970.
 
 Declara de utilidade pública a Escola Normal Josué Bezerra, com sede em Pombal, Estado da Paraíba.

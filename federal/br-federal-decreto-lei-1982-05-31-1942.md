@@ -1,5 +1,3 @@
-###DEL-001942-0-000-31-05-1982@@@
-
 # Decreto-lei nº 1.942, de 31 de maio de 1982
 
 Dispõe sobre terras situadas em área indispensável à segurança nacional, no Estado do Paraná, e dá outras providências.

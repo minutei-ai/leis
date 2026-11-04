@@ -27,7 +27,3 @@ HÉLIO CARVALHO GARCIA
 Carlos Alberto Cotta
 
 Evandro de Pádua Abreu
-
-\================================
-
-Data da última atualização: 28/7/2016.

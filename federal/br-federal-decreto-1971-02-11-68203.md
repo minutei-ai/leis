@@ -1,5 +1,3 @@
-###DEC-068203-0-000-11-02-1971@@@
-
 DECRETO Nº 68.203, DE 11 DE FEVEREIRO DE 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a subestação de Ilhota até a subestação de Brusque, localizadas nos municípios de mesmo nome, no Estado de Santa Catarina.

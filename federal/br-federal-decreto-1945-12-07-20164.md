@@ -1,30 +1,28 @@
-###DEC-020164-0-000-07-12-1945@@@
+**DECRETO Nº 20.164, DE 7 DE DEZEMBRO DE 1945.**
 
-<strong>DECRETO Nº 20.164, DE 7 DE DEZEMBRO DE 1945.</strong>
+***Aprova o Regimento do Departamento Nacional de Estradas de Rodagem (D. N. E. R.) do Ministério da Viação e Obras Públicas.***
 
-<em><strong>Aprova o Regimento do Departamento Nacional de Estradas de Rodagem (D. N. E. R.) do Ministério da Viação e Obras Públicas.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Departamento Nacional de Estradas e Rodagem, que, assinado pelo Ministro da Viação e Obras Públicas, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Departamento Nacional de Estradas e Rodagem, que, assinado pelo Ministro da Viação e Obras Públicas, com êste baixa.
-
-<strong>Art</strong>. 2º Êste decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 7 de dezembro de 1945, 124º da Independência e 57º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Mauricio Joppert da Silva
 
-<strong>REGIMENTO DO DEPARTAMENTO NACIONAL DE ESTRADAS DE RODAGEM</strong>
+**REGIMENTO DO DEPARTAMENTO NACIONAL DE ESTRADAS DE RODAGEM**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º O Departamento Nacional de Estradas de Rodagem (D. N. E. R.), órgão integrante do Ministério da Viação e Obras Públicas, diretamente subordinado ao Ministério de Estado, tem por finalidade a construção, conservação, melhoramentos e polícia das estradas de rodagem federais, competindo-lhe:
+**Art**. 1º O Departamento Nacional de Estradas de Rodagem (D. N. E. R.), órgão integrante do Ministério da Viação e Obras Públicas, diretamente subordinado ao Ministério de Estado, tem por finalidade a construção, conservação, melhoramentos e polícia das estradas de rodagem federais, competindo-lhe:
 
 I - realizar, de 5 em 5 anos ou quando necessário, os estudos para a revisão do Plano Rodoviário Nacional;
 
@@ -48,29 +46,29 @@ X - prestar informações ao Govêrno e instruir os processos concernentes a ass
 
 XI - divulgar, por meio de boletins, trabalhos de estradas de rodagem e estudos sôbre técnica, economia e administração rodoviária.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<strong>Art</strong>. 2º - O Departamento Nacional de Estradas de Rodagem compõe-se dos seguintes órgãos:
+**Art**. 2º - O Departamento Nacional de Estradas de Rodagem compõe-se dos seguintes órgãos:
 
 Divisão de Estudos e Projetos (D. E. P.)
 
 Divisão de construção e Projetos (D. C. C.) Laboratório Central (L. C) Serviço de Administração (S. A.)
 
-<strong>Art</strong>. 3º - O Departamento será dirigido por um Diretor Geral e as Divisões por Diretores.
+**Art**. 3º - O Departamento será dirigido por um Diretor Geral e as Divisões por Diretores.
 
 Parágrafo único - O Diretor Geral terá um Secretário e poderá designar para auxiliá-lo nos trabalhos de natureza técnica um engenheiro como Assistente Técnico.
 
-<strong>Art</strong>. 4º - O Laboratório Central, o Serviço de Equipamento Mecânico, os Distritos Rodoviários e os Serviços Administrativos terão chefes, designados na forma dêste Regimento.
+**Art**. 4º - O Laboratório Central, o Serviço de Equipamento Mecânico, os Distritos Rodoviários e os Serviços Administrativos terão chefes, designados na forma dêste Regimento.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA ORGANIZAÇÃO E ATRIBUIÇÕES DAS DIVISÕES E SERVIÇOS</em>
+*DA ORGANIZAÇÃO E ATRIBUIÇÕES DAS DIVISÕES E SERVIÇOS*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Da D. E. P.</em>
+*Da D. E. P.*
 
-<strong>Art</strong>. 5º A Divisão de Estudos e Projetos (D. E. P.) compreende:
+**Art**. 5º A Divisão de Estudos e Projetos (D. E. P.) compreende:
 
 Seção de Estudos e Traçados - (S. E. T.).
 
@@ -78,7 +76,7 @@ Seção de Obras de Arte - (S. O. A.).
 
 Seção de Investigações Técnico-Econômicas.
 
-<strong>Art</strong>. 6º Compete à Seção de Estudos e Traçados:
+**Art**. 6º Compete à Seção de Estudos e Traçados:
 
 I - Proceder aos estudos preliminares, fazendo reconhecimentos e realizar os trabalhos de exploração das estradas federais;
 
@@ -90,7 +88,7 @@ IV - Organizar tabelas de composição de preços unitários para elaboração d
 
 V - Propor, com a colaboração das demais seções, as modificações a introduzir no Plano Rodoviário Nacional.
 
-<strong>Art</strong>. 7º Compete à Seção de Obras de Arte:
+**Art**. 7º Compete à Seção de Obras de Arte:
 
 I - Elaborar projetos, especificações e orçamentos das pontes e demais obras de arte das obras complementares das entradas federais;
 
@@ -100,7 +98,7 @@ III - Preparar normas para execução dos serviços de construção de obras de 
 
 IV - Proceder aos estudos necessários à revisão das normas para cálculo das estruturas de madeira, de concreto armado e simples e de alvenaria.
 
-<strong>Art</strong>. 8º Compete à Seção de Investigações Técnico-Econômicas:
+**Art**. 8º Compete à Seção de Investigações Técnico-Econômicas:
 
 I - Proceder a estudos de economia rodoviária com base na estatística do tráfego;
 
@@ -116,13 +114,13 @@ VI - Realizar estudos comparativos com mira na caracterização de influência d
 
 VII - Orientar e dirigir o boletim do Departamento, publicação em que serão divulgadas suas atividades e estudos de técnica e economia rodoviária.
 
-<strong>Art</strong>. 9º À Divisão de Estudos e Projetos caberá manter o arquivo de projetos e de tôda a documentação técnica a êles relativa, bem como o documentário fotográfico das realizações do Departamento.
+**Art**. 9º À Divisão de Estudos e Projetos caberá manter o arquivo de projetos e de tôda a documentação técnica a êles relativa, bem como o documentário fotográfico das realizações do Departamento.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Da D. C. C.</em>
+*Da D. C. C.*
 
-<strong>Art</strong>. 10 À Divisão de Construção e Conservação compreende:
+**Art**. 10 À Divisão de Construção e Conservação compreende:
 
 Seção de Construção (S. C.).
 
@@ -130,7 +128,7 @@ Seção de Conservação (S. Co.).
 
 Seção de Tráfego (S. T.).
 
-<strong>Art</strong>. 11. Compete à Seção de Construção:
+**Art**. 11. Compete à Seção de Construção:
 
 I - realizar a locação, construção e melhoramentos das estradas federais, inclusive pontes e demais obras de arte e obras complementares;
 
@@ -146,7 +144,7 @@ VI - organizar o cadastro das estradas para uso da Seção de Conservação;
 
 VII - preparo e revisão das tabelas de preços para a execução de serviços, inclusive para os trabalhos de terra-planagem por processos mecânicos.
 
-<strong>Art</strong>. 12. Compete à Seção de Conservação:
+**Art**. 12. Compete à Seção de Conservação:
 
 I - a conservação e reparação das estradas federais, pontes e demais obras d’arte e complementares, assim como dos outros bens imóveis do Departamento;
 
@@ -156,7 +154,7 @@ III - fiscalizar os serviços de conservação das estradas federais que tenham 
 
 IV - Manter atualizado o cadastro das estradas e das propriedades do Departamento.
 
-<strong>Art</strong>. 13. Compete à Seção de Trâfego:
+**Art**. 13. Compete à Seção de Trâfego:
 
 I - fiscalizar o tráfego e exercer a polícia nas estradas federais;
 
@@ -166,15 +164,15 @@ III - fiscalizar as emprêsas concessionários dêsses serviços;
 
 IV - fazer a estatística do tráfego de modo a possibilitar os estudos técnicos sôbre pavimentação e econômicos sôbre o transporte rodoviário.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Do L. C.</em>
+*Do L. C.*
 
-<strong>Art</strong>. 14. Compete ao Laboratório Central:
+**Art**. 14. Compete ao Laboratório Central:
 
 I - proceder a ensaios de materiais empregados nas obras a cargo do Departamento;
 
-II - efetuar o serviço de contrôle da dosagem racional e da resistência dos concretos de cimento <em>Portland</em> aplicados em obras a cargo do Departamento;
+II - efetuar o serviço de contrôle da dosagem racional e da resistência dos concretos de cimento *Portland* aplicados em obras a cargo do Departamento;
 
 III - proceder a ensaios experimentais sôbre os diferente tipos de pavimentação e sôbre os materiais empregados em estradas de rodagem, visando sobretudo os existentes no País;
 
@@ -188,11 +186,11 @@ VII - preparar, em colaboração com a Associação Brasileira de Normas Técnic
 
 VIII - realizar provas de carga nas pontes do Departamento.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Do S. E. M.</em>
+*Do S. E. M.*
 
-<strong>Art</strong>. 15. Compete ao Serviço de Equipamento Mecânico;
+**Art**. 15. Compete ao Serviço de Equipamento Mecânico;
 
 I - prestar, obrigatòriamente, assistência técnica ao S. M. do S. A. no ato de recebimentos de máquinas e veículos adquiridos para o Departamento;
 
@@ -208,15 +206,15 @@ VI - fabricar, sempre que o aparelhamento das oficinas o permitir e desde que ec
 
 VIII - organizar e manter atualizado o registro de tôdas as máquinas e veículos do Departamento com as indicações essenciais dos seus característicos.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>Dos D. R</em>
+*Dos D. R*
 
-<strong>Art</strong>. 16 - Os trabalhos de estudos de campo, de construção e de conservação e a polícia das estradas de rodagem serão realizados ou fiscalizados por Distritos Rodoviários, cujo número, sede e jurisdição serão anualmente estabelecidos em portaria do Ministro da Viação, mediante proposta do Diretor Geral, devendo, em sua organização, obedecer, tanto quanto possível, à especialização de funções.
+**Art**. 16 - Os trabalhos de estudos de campo, de construção e de conservação e a polícia das estradas de rodagem serão realizados ou fiscalizados por Distritos Rodoviários, cujo número, sede e jurisdição serão anualmente estabelecidos em portaria do Ministro da Viação, mediante proposta do Diretor Geral, devendo, em sua organização, obedecer, tanto quanto possível, à especialização de funções.
 
-<strong>Art</strong>. 17. No desempenho das atribuições que lhes forem afetas, os Distritos Rodoviários ficarão diretamente subordinados aos órgãos centrais do Departamento, que a êles correspondam.
+**Art**. 17. No desempenho das atribuições que lhes forem afetas, os Distritos Rodoviários ficarão diretamente subordinados aos órgãos centrais do Departamento, que a êles correspondam.
 
-<strong>Art</strong>. 18. Aos Distritos Rodoviários compete, ainda:
+**Art**. 18. Aos Distritos Rodoviários compete, ainda:
 
 a). apresentar relatórios mensais de trabalhos sôbre o andamento dos trabalhos acompanhados das fôlhas de medição dos serviços executados e respectivos apropriação de despesas;
 
@@ -230,15 +228,15 @@ e) zelar pela conservação de tôdas as obras, aparelhagem e instalações a se
 
 f) organizar e remeter aos órgãos centrais do Departamento os boletins de medição dos trabalhos executados pelos empreiteiros.
 
-<strong>SEÇÃO VI</strong>
+**SEÇÃO VI**
 
-<em>Do S. A</em>
+*Do S. A*
 
-<strong>Art</strong>. 19. Ao S. A. compete promover as medidas necessárias à administração de pessoal, material, orçamento, comunicações, biblioteca e portaria do D. N. E. R.
+**Art**. 19. Ao S. A. compete promover as medidas necessárias à administração de pessoal, material, orçamento, comunicações, biblioteca e portaria do D. N. E. R.
 
 Parágrafo único. O. S. A. deverá funcionar perfeitamente articulado com o Departamento de Administração (D. A. V.) do Ministério da Viação e Obras Públicas, observando as normas e métodos de trabalho prescritos pelo mesmo, bem como com a Diretoria do Pessoal (D. P. V.) do mesmo Ministério.
 
-<strong>Art</strong>. 20. O. S. A. compõe-se de:
+**Art**. 20. O. S. A. compõe-se de:
 
 Seção de Pessoal (S. P.)
 
@@ -252,7 +250,7 @@ Biblioteca (B.)
 
 Portaria (P.)
 
-<strong>Art</strong>. 21. À S. P. compete:
+**Art**. 21. À S. P. compete:
 
 I - encaminhar à Divisão do Pessoal (D. P. V.) do D. A. V., devidamente instruídos, os processos referentes aos servidores em exercício no D. N. E. R.;
 
@@ -266,7 +264,7 @@ V - fornecer à S. O. os elementos necessários ao preparo da proposta orçament
 
 VI - promever as medidas necessárias à administração do pessoal para obras.
 
-<strong>Art</strong>. 22. À S. M. compete:
+**Art**. 22. À S. M. compete:
 
 I - fazer as estimativas de consumo e encaminhar ao órgão competente, nas épocas estabelecidas, as requisições do material a ser adquirido para abastecer o D. N. E. R.;
 
@@ -282,7 +280,7 @@ VI - sugerir a troca, cessão, venda ou baixa do material julgado imprestável o
 
 VII - fornecer à S. O. os elementos necessários ao preparo da proposta orçamentária do D. N. E. R. na parte relativa ao material.
 
-<strong>Art</strong>. 23. À S. O. compete:
+**Art**. 23. À S. O. compete:
 
 I - manter em dia a escrituração sintética dos créditos orçamentários e adicionais referentes a material concedidos ao D. N. E. R.;
 
@@ -296,13 +294,13 @@ V - colaborar na elaboração da proposta orçamentáaria relativa ao D. N.R. e 
 
 VI - organizar a demonstração documentada das despesas realizadas pelo D. N. E. R.
 
-<strong>Art</strong>. 24. À S. C. compete:
+**Art**. 24. À S. C. compete:
 
 I - receeber, registrar, distribuir, expedir e guardar a acorrespondência oficial e papéis relativos às atividades do D. N. E. R., controlando o respectivo andamento;
 
 II - atender ao público em seus pedidos de informações sôbre o andamento e despacho de papéis, bem como orientá-los no modo de apresentar suas solicitações, sugestões ou reclamações;
 
-III - promover a publicação, no <em>Diário Oficial</em>, dos atos e decisões relativas ás atividades do D. N. E. R.;
+III - promover a publicação, no *Diário Oficial*, dos atos e decisões relativas ás atividades do D. N. E. R.;
 
 IV - atender às requisições de processos e documentos sob sua guarda, quando pedidos por chefe de serviço;
 
@@ -310,7 +308,7 @@ V - passar certidões, quando autorizadas pelo Diretor do D. N. E. R.; e
 
 V - promover a incineração periódica de papéis julgados sem valor, mediante prévia autorização de comissão expressamente designada pelo Diretor Geeral para êsse fim.
 
-<strong>Art</strong>. 25. À Biblioteca compete:
+**Art**. 25. À Biblioteca compete:
 
 I - organizar e manter coleções de publicações nacionais e estrangeiras, sôbre assuntos relacionados com as atividades do Departamento;
 
@@ -328,7 +326,7 @@ VII- promover o conhecimento, pelo público, do que se contem na Biblioteca; e
 
 VIII- organizar e distribuir listas bibliográficas sôbre assuntos de interêsse do D. N. E. R.
 
-<strong>Art</strong>.26. À Portaria compete:
+**Art**.26. À Portaria compete:
 
 I - manter um servidor imcubido de prestar quaisquer informações solicitadas pelo público sobre a localidade e funcionamento dos órgãos do D. N. E. R.;
 
@@ -338,11 +336,11 @@ III - exercer vigilância permanente nos lugares de entrada e saída, especialme
 
 IV - efetuar e fiscalizar a distribuição da correspondecia externa recebida do S. C.
 
-<strong>CAPITULO IV</strong>
+**CAPITULO IV**
 
-<em>Das atribuições do pessoal</em>
+*Das atribuições do pessoal*
 
-<strong>Art.</strong> 27- Ao Diretor Geral compete:
+**Art.** 27- Ao Diretor Geral compete:
 
 I - orienta, dirigir e fiscalizar as atividades  do D.N.E.R.;
 
@@ -406,9 +404,9 @@ XXX - aprovar as tabelas de preços organizadas pelas as divisões; e
 
 XXXI - decidir sôbre os pedidos de relevação de muitas aplicadas pela S. T.
 
-<strong>Art</strong>.28. Ao Assistente Técnico compete coadjuvar o Diretor Geral no estudos dos assuntos que por êste lhe forem cometidos.
+**Art**.28. Ao Assistente Técnico compete coadjuvar o Diretor Geral no estudos dos assuntos que por êste lhe forem cometidos.
 
-<strong>Art</strong>.29. Ao Secretario do Diretor geral compete:
+**Art**.29. Ao Secretario do Diretor geral compete:
 
 I - atender às pessoas que desejarem comunicar-se com o Diretor geral, encaminhando-as ou dando a êste conhecimento do assunto a tratar;
 
@@ -416,7 +414,7 @@ II - representar o Diretor geral, quando para isto fôr designado;
 
 III - redigir a correspondência pessoal do Diretor geral.
 
-<strong>Art</strong>. 30. Aos Diretores de Divisão e ao chefe de serviço compete:
+**Art**. 30. Aos Diretores de Divisão e ao chefe de serviço compete:
 
 I - dirigir, coordenar e fiscalizar as atividades da respectiva Divisão ou do Serviço;
 
@@ -454,7 +452,7 @@ XVII - organizar e alterar a escala de férias do pessoal que lhes é diretament
 
 XVIII - elogiar e aplicar penas disciplinares, inclusive a de suspensão até 15 dias, aos servidores lotados na respectiva Divisão ou no Serviço, propondo ao Diretor Geral a aplicação de penalidade que excede de sua alçada.
 
-<strong>Art.</strong>31\. Aos chefes de seção e da biblioteca compete:
+**Art.**31\. Aos chefes de seção e da biblioteca compete:
 
 I - dirigir e fiscalizar os trabalhos dos respectivos setor;
 
@@ -478,7 +476,7 @@ X - elogiar e aplicar as penas de advertência e repreensão a seus subordinados
 
 XI - velar pela disciplina e manutenção do silêncio nos recintos de trabalho.
 
-<strong>Art</strong>. 32. Aos Engenheiros Chefes de Distrito compete:
+**Art**. 32. Aos Engenheiros Chefes de Distrito compete:
 
 I - exercer de um modo geral funções de direção, fiscalização e contrôle, análogas às dos chefes de seção a que forem imediatamente subordinados, em relação aos serviços que lhe forem cometidos;
 
@@ -502,7 +500,7 @@ X - propor à autoridade superior a remoção do pessoal do seu subordinado;
 
 XI - comunicar imediatamente ao chefe da divisão qualquer ocorrência de importância nas estradas a seu cargo.
 
-<strong>Art</strong>.33. Ao chefe da Portaria compete:
+**Art**.33. Ao chefe da Portaria compete:
 
 I - dirigir e organizar trabalhos a cargo da portaria;
 
@@ -520,33 +518,33 @@ VII - expedir boletins de merecimentos dos funcionários que forem diretamente s
 
 VIII - organizar a escala de plantão dos servidores da portaria sujeitos a êsse regime.
 
-<strong>Art</strong>. 34. Aos servidores do D.N.E.R. sem funções especificas neste regimento compete executar os trabalhos que lhe forem determinados pêlos seus superiores imediatas.
+**Art**. 34. Aos servidores do D.N.E.R. sem funções especificas neste regimento compete executar os trabalhos que lhe forem determinados pêlos seus superiores imediatas.
 
 Parágrafo único. O Chefe do S.E.M. será um engenheiro mecânico ou mecânico-eletricista.
 
-<strong>CAPITULO V</strong>
+**CAPITULO V**
 
-<em>Da lotação</em>
+*Da lotação*
 
-<strong>Art</strong>.35. O D.N.E.R. terá a lotação que fôr aprovada de acôrdo coma legislação vigente.
+**Art**.35. O D.N.E.R. terá a lotação que fôr aprovada de acôrdo coma legislação vigente.
 
 Parágrafo único. Além do pessoal constante da lotação, o D.N.E.R. poderão ter pessoal Extranumeração.
 
-<strong>CAPITULO VI</strong>
+**CAPITULO VI**
 
-<em>Do horário</em>
+*Do horário*
 
-<strong>Art</strong>. 36. O horário normal de trabalho será fixado pelo o Diretor Geral, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
+**Art**. 36. O horário normal de trabalho será fixado pelo o Diretor Geral, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
 
-<strong>Art</strong>. 37. A freqüência do pessoal em trabalho fora da sede será verificada por meio de boletins diários de produção, controlados pelo superior imediato.
+**Art**. 37. A freqüência do pessoal em trabalho fora da sede será verificada por meio de boletins diários de produção, controlados pelo superior imediato.
 
-<strong>Art</strong>. 38. O Diretor Geral e os Diretores de Divisão não ficam sujeitos a ponto, devendo, porém, observar o horário fixado.
+**Art**. 38. O Diretor Geral e os Diretores de Divisão não ficam sujeitos a ponto, devendo, porém, observar o horário fixado.
 
-<strong>CAPITULO VII</strong>
+**CAPITULO VII**
 
-<em>Das substituições</em>
+*Das substituições*
 
-<strong>Art</strong>. 39. Serão substituídos, automaticamente, em suas faltas ou impedimentos ocasionais, até 30 dias:
+**Art**. 39. Serão substituídos, automaticamente, em suas faltas ou impedimentos ocasionais, até 30 dias:
 
 I - o Diretor Geral por um Diretor de Divisão de sua indicação, designado pelo Ministro de Estado da Viação e Obras Públicas;
 
@@ -560,4 +558,4 @@ Parágrafo Único. Haverá, sempre, servidores previamente designados para subst
 
 Rio de Janeiro, 6 de dezembro de 1945.
 
-<strong>MAURÍCIO JOPPERT DA SILVA</strong>
+**MAURÍCIO JOPPERT DA SILVA**

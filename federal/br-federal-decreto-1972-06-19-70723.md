@@ -1,5 +1,3 @@
-###DEC-070723-0-000-19-06-1972@@@
-
 DECRETO Nº 70.723, DE 19 de JUNHO DE 1972
 
 Autoriza o funcionamento da Faculdade de Ciências Contábeis de Lucélia - Estado de São Paulo.

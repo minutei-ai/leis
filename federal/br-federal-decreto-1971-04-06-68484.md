@@ -1,5 +1,3 @@
-###DEC-068484-0-000-06-04-1971@@@
-
 DECRETO Nº 68.484 - DE 6 DE ABRIL DE 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à linha de transmissão que se estende da Usina Vai Vem até o povoado de Veríssimo, no município de Goiandira, no Estado de Goiás.

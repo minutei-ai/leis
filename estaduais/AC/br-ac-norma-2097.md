@@ -1,6 +1,6 @@
 > **LEI Nº 3.370, DE 28 DE DEZEMBRO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Estima a Receita e fixa a Despesa do Estado para o exercício financeiro de 2018, e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+Estima a Receita e fixa a Despesa do Estado para o exercício financeiro de 2018, e dá outras providências.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -18,7 +18,7 @@
 
 **Art. 3°** A receita estimada decorrerá da arrecadação de tributos e de outras receitas correntes e de capital, na forma da legislação vigente, discriminada nos quadros anexos a esta lei e que apresenta o seguinte desdobramento:
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span>&nbsp;</span></p><p><span><span>Discriminação das Receitas</span></span></p></td><td><p><span><span>&nbsp;</span></span></p><p><span><span>R$1,00</span></span></p></td></tr><tr><td><p><span><strong><span>Receitas</span></strong></span></p></td><td><p><span><strong><span>Valor</span></strong></span></p></td></tr><tr><td colspan="2"><p><span><strong><span>1 - RECURSOS PRÓPRIOS DO TESOURO</span></strong><span>&nbsp;– Estimativa da Receita</span></span></p></td></tr><tr><td><p><span><span>1.1 - Receitas Correntes</span></span></p></td><td><p><span><span>4.794.055.403,51</span></span></p></td></tr><tr><td><p><span><span>1.1.1 - Receita Tributária</span></span></p></td><td><p><span><span>1.392.243.901,15</span></span></p></td></tr><tr><td><p><span><span>1.1.2 - Receita Patrimonial</span></span></p></td><td><p><span><span>33.950.118,29</span></span></p></td></tr><tr><td><p><span><span>1.1.3 - Transferências Correntes</span></span></p></td><td><p><span><span>2.831.710.326,61</span></span></p></td></tr><tr><td><p><span><span>1.1.4 - Outras Receitas Correntes</span></span></p></td><td><p><span><span>536.151.057,46</span></span></p></td></tr><tr><td><p><span><span>1.2 - Dedução das Receitas Correntes (FUNDEB)</span></span></p></td><td><p><span><span>- 729.195.192,39</span></span></p></td></tr><tr><td><p><span><strong><span>Sub-total</span></strong></span></p></td><td><p><span><strong><span>4.064.860.211,12</span></strong></span></p></td></tr><tr><td colspan="2"><p><span><strong><span>2 - RECURSOS DE OUTRAS FONTES: Convênios, Recursos Próprios das Indiretas, Operações de Crédito, SUS, FUNDEB e Receitas Previdenciárias.</span></strong></span></p></td></tr><tr><td><p><span><span>2.1 - Receitas Correntes</span></span></p></td><td><p><span><span>1.332.615.736,41</span></span></p></td></tr><tr><td><p><span><span>2.1.1 - Receitas Tributárias</span></span></p></td><td><p><span><span>25.706.300,00</span></span></p></td></tr><tr><td><p><span><span>2.1.2 - Receitas de Contribuições</span></span></p></td><td><p><span><span>217.202.626,57</span></span></p></td></tr><tr><td><p><span><span>2.1.3 - Receita Patrimonial</span></span></p></td><td><p><span><span>11.099.236,32</span></span></p></td></tr><tr><td><p><span><span>2.1.4 - Receita Agropecuária</span></span></p></td><td><p><span><span>5.200.000,00</span></span></p></td></tr><tr><td><p><span><span>2.1.5 - Receita Industrial</span></span></p></td><td><p><span><span>400.000,00</span></span></p></td></tr><tr><td><p><span><span>2.1.6 - Receita de Serviços</span></span></p></td><td><p><span><span>112.874.003,69</span></span></p></td></tr><tr><td><p><span><span>2.1.7 - Transferências Correntes</span></span></p></td><td><p><span><span>902.560.184,61</span></span></p></td></tr><tr><td><p><span><span>2.1.8 - Outras Receitas Correntes</span></span></p></td><td><p><span><span>57.573.385,22</span></span></p></td></tr><tr><td><p><span><span>2.2 - Receita Intra-Orçamentária</span></span></p></td><td><p><span><span>728.289.614,00</span></span></p></td></tr><tr><td><p><span><span>2.3 - Receitas de Capital</span></span></p></td><td><p><span><span>517.485.108,12</span></span></p></td></tr><tr><td><p><span><span>2.2.1 - Operações de Crédito</span></span></p></td><td><p><span><span>229.435.500,00</span></span></p></td></tr><tr><td><p><span><span>2.2.3 - Transferências de Capital</span></span></p></td><td><p><span><span>288.049.608,12</span></span></p></td></tr><tr><td><p><span><span>2.4 - Dedução dos Investimentos do RPPS</span></span></p></td><td><p><span><span>- 9.000,00</span></span></p></td></tr><tr><td><p><span><strong><span>Sub-total</span></strong></span></p></td><td><p><span><strong><span>2.578.381.458,53</span></strong></span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td> &nbsp; Discriminação das Receitas </td><td> &nbsp; R$1,00 </td></tr><tr><td> **Receitas** </td><td> **Valor** </td></tr><tr><td colspan="2"> **1 - RECURSOS PRÓPRIOS DO TESOURO**&nbsp;– Estimativa da Receita </td></tr><tr><td> 1.1 - Receitas Correntes </td><td> 4.794.055.403,51 </td></tr><tr><td> 1.1.1 - Receita Tributária </td><td> 1.392.243.901,15 </td></tr><tr><td> 1.1.2 - Receita Patrimonial </td><td> 33.950.118,29 </td></tr><tr><td> 1.1.3 - Transferências Correntes </td><td> 2.831.710.326,61 </td></tr><tr><td> 1.1.4 - Outras Receitas Correntes </td><td> 536.151.057,46 </td></tr><tr><td> 1.2 - Dedução das Receitas Correntes (FUNDEB) </td><td> - 729.195.192,39 </td></tr><tr><td> **Sub-total** </td><td> **4.064.860.211,12** </td></tr><tr><td colspan="2"> **2 - RECURSOS DE OUTRAS FONTES: Convênios, Recursos Próprios das Indiretas, Operações de Crédito, SUS, FUNDEB e Receitas Previdenciárias.** </td></tr><tr><td> 2.1 - Receitas Correntes </td><td> 1.332.615.736,41 </td></tr><tr><td> 2.1.1 - Receitas Tributárias </td><td> 25.706.300,00 </td></tr><tr><td> 2.1.2 - Receitas de Contribuições </td><td> 217.202.626,57 </td></tr><tr><td> 2.1.3 - Receita Patrimonial </td><td> 11.099.236,32 </td></tr><tr><td> 2.1.4 - Receita Agropecuária </td><td> 5.200.000,00 </td></tr><tr><td> 2.1.5 - Receita Industrial </td><td> 400.000,00 </td></tr><tr><td> 2.1.6 - Receita de Serviços </td><td> 112.874.003,69 </td></tr><tr><td> 2.1.7 - Transferências Correntes </td><td> 902.560.184,61 </td></tr><tr><td> 2.1.8 - Outras Receitas Correntes </td><td> 57.573.385,22 </td></tr><tr><td> 2.2 - Receita Intra-Orçamentária </td><td> 728.289.614,00 </td></tr><tr><td> 2.3 - Receitas de Capital </td><td> 517.485.108,12 </td></tr><tr><td> 2.2.1 - Operações de Crédito </td><td> 229.435.500,00 </td></tr><tr><td> 2.2.3 - Transferências de Capital </td><td> 288.049.608,12 </td></tr><tr><td> 2.4 - Dedução dos Investimentos do RPPS </td><td> - 9.000,00 </td></tr><tr><td> **Sub-total** </td><td> **2.578.381.458,53** </td></tr></tbody></table>
 
 **Art. 4°** A despesa total, do mesmo valor da receita total, é fixada da seguinte maneira:
 
@@ -1780,11 +1780,27 @@ OBS: \* Outras fontes: Convênios, Operações de Crédito, SUS, FUNDEB, Receita
 
 **Art. 7°** A despesa do orçamento de Investimento, observada a programação em anexo a esta lei, é fixada em R$ 50.000,00 (inquenta mil reais), com a seguinte distribuição:
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><span>&nbsp;</span></span></p></td><td><p><span><span>R$ 1,00</span></span></p></td></tr><tr><td><p><span><strong><span>Órgão/Entidade</span></strong></span></p></td><td><p><span><strong><span>Total</span></strong></span></p></td></tr><tr><td><p><span><span>Companhia de Habitação do Estado do Acre – COHAB</span></span></p></td><td><p><span><span>50.000,00</span></span></p></td></tr></tbody></table>
+R$ 1,00
+
+**Órgão/Entidade**
+
+**Total**
+
+Companhia de Habitação do Estado do Acre – COHAB
+
+50.000,00
 
 **Art. 8°** As fontes de receita para cobertura da despesa fixada no artigo anterior, são estimadas com o seguinte desdobramento:
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>&nbsp;</span></strong></span></p></td><td><p><span><span>R$ 1,00</span></span></p></td></tr><tr><td><p><span><strong><span>Receitas</span></strong></span></p></td><td><p><span><strong><span>Total</span></strong></span></p></td></tr><tr><td><p><span><span>Recursos do Tesouro Estadual</span></span></p></td><td><p><span><span>50.000,00</span></span></p></td></tr></tbody></table>
+R$ 1,00
+
+**Receitas**
+
+**Total**
+
+Recursos do Tesouro Estadual
+
+50.000,00
 
 **Art. 9°** Fica o Poder Executivo autorizado a abrir crédito suplementar até o limite de trinta por cento da despesa fixada nesta lei, em conformidade com o art. 161 da Constituição Estadual e os arts. 7° e 43 da Lei Federal n. 4.320, de 17 de março de 1964 e, se necessário, alocar e redistribuir dotações de receitas e despesas, em conformidade com a Portaria Interministerial n. 163, de 4 de maio de 2000, Portaria Conjunta STN/SOF nº 2, de 22 de dezembro de 2016, Portaria STN nº 840, de 21 de dezembro de 2016, (7º EDIÇÃO), Manual de Contabilidade Aplicada ao Setor Público e demais alterações.
 

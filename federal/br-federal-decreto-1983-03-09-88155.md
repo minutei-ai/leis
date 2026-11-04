@@ -1,5 +1,3 @@
-###DEC-088155-0-000-09-03-1983@@@
-
 # Decreto nº 88.155, de 09 de março DE 1983.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Cabo Frio, no Estado do Rio de Janeiro, e dá outras providências.

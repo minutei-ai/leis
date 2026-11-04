@@ -1,5 +1,3 @@
-###DEC-047454-0-000-18-12-1959@@@
-
 decreto nº 47.454, de 18 de Dezembro de 1959.
 
 Suprime cargos extintos.

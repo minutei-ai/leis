@@ -1,5 +1,3 @@
-###DEC-002988-0-000-12-03-1999@@@
-
 DECRETO Nº 2.988, DE 12 DE MARÇO DE 1999.
 
 Excepciona a Petróleo Brasileiro S.A. - PETROBRÁS da aplicação de disposições dos Decretos nºs 757, de 19 de fevereiro de 1993, e 1.091, de 21 de março de 1994.

@@ -1,5 +1,3 @@
-###DEL-005717-0-000-31-07-1943@@@
-
 DECRETO‑LEI N. 5.717 – DE 31 DE JULHO DE 1943
 
 Cria funções gratificadas na Comissão Central de Requisições e  dá  outras providências

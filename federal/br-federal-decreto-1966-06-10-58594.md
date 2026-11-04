@@ -1,5 +1,3 @@
-###DEC-058594-0-000-10-06-1966@@@
-
 DECRETO nº 58.594, DE 10 DE JUNHO DE 1966.
 
 Aprova Regulamento da Diretoria do Serviço Geográfico e revoga os Decretos ns. 47.044, de 19 de outubro de 1959 e 53.979, de 22 de junho de 1964.

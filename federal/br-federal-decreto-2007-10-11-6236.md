@@ -1,5 +1,3 @@
-###DEC-006236-0-000-11-10-2007@@@
-
 DECRETO Nº 6.236, DE 11 DE OUTUBRO DE 2007.
 
 Dispõe sobre a criação da Embaixada do Brasil na República Islâmica da Mauritânia, com sede em Nouakchott.
@@ -19,5 +17,3 @@ Dispõe sobre a criação da Embaixada do Brasil na República Islâmica da Maur
 LUIZ INÁCIO LULA DA SILVA
 
 Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 15.10.2007.

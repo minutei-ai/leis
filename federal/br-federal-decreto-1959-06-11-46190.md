@@ -1,5 +1,3 @@
-###DEC-046190-0-000-11-06-1959@@@
-
 DECRETO Nº 46.190, DE 11 DE JUNHO DE 1959.
 
 Regula o exercício de função de Comando em Estabelecimento Militar de Ensino.

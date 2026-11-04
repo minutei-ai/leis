@@ -1,5 +1,3 @@
-###DEC-088828-0-000-10-10-1983@@@
-
 Decreto nº 88.828 de 10 de outubro 1983
 
 Renova por 10 (dez) anos a concessão outorgada à SOCIEDADE RÁDIO IMBIARA DE ARAXÁ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Araxá, Estado de Minas Gerais.

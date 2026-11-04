@@ -1,5 +1,3 @@
-###DEL-000213-0-000-27-02-1967@@@
-
 decRETO-Lei nº 213, DE 27 DE FEVEREIRO DE 1967
 
 Organiza o Departamento Nacional de Salário.
@@ -56,6 +54,92 @@ Eduardo Augusto Betas de Noronha
 
 TABELA A QUE SE REFERE O ARTIGO 3º DO DECRETO-LEI Nº 213, DE 27 DE FEVEREIRO DE 1967
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:336.5pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Séries de Classe ou Classes</span></p></td><td style="width:60.1pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Nº de cargos</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Economista TC 501.20.A ...........................................................................</span></p></td><td style="width:60.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>25</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Estatístico TC 1401.20.A ...........................................................................</span></p></td><td style="width:60.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>25</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Engenheiro TC 602.21.A ............................................................................</span></p></td><td style="width:60.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>8</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Arquiteto TC 601.21.A ...............................................................................</span></p></td><td style="width:60.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Atuário TC 301.20.A ..................................................................................</span></p></td><td style="width:60.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Contador TC 302.20.A ...............................................................................</span></p></td><td style="width:60.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Técnico de Administração AF 601.20.A ......................................................</span></p></td><td style="width:60.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Oficial de Administração AF 21.12.A ..........................................................</span></p></td><td style="width:60.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>30</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Assistente de Administração AF 602.14.A ..................................................</span></p></td><td style="width:60.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Auxiliar de Estatístico P 1402.8.A ..............................................................</span></p></td><td style="width:60.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>120</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Desenhista P 1001.12.A ............................................................................</span></p></td><td style="width:60.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>6</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Nutricionista P 1902.12.A ..........................................................................</span></p></td><td style="width:60.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tradutor P 2201.14.A ................................................................................</span></p></td><td style="width:60.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Carpinteiro A 601.8.A ................................................................................</span></p></td><td style="width:60.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Eletricista Instalador A 802.8.A ..................................................................</span></p></td><td style="width:60.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe de Portaria GL 303.7.13 ...................................................................</span></p></td><td style="width:60.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Auxiliar de Portaria GL 303.7.A ..................................................................</span></p></td><td style="width:60.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>10</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Servente GL 104.5 ....................................................................................</span></p></td><td style="width:60.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Bibliotecário EC 101.19.A ..........................................................................</span></p></td><td style="width:60.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td></tr><tr><td style="width:336.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Taquígrafo AF 501.14 ................................................................................</span></p></td><td style="width:60.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td></tr><tr><td style="width:336.5pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Datilografo AF 503.7.A ..............................................................................</span></p></td><td style="width:60.1pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>20</span></p></td></tr></tbody></table>
+Séries de Classe ou Classes
+
+Nº de cargos
+
+Economista TC 501.20.A ...........................................................................
+
+25
+
+Estatístico TC 1401.20.A ...........................................................................
+
+25
+
+Engenheiro TC 602.21.A ............................................................................
+
+8
+
+Arquiteto TC 601.21.A ...............................................................................
+
+2
+
+Atuário TC 301.20.A ..................................................................................
+
+3
+
+Contador TC 302.20.A ...............................................................................
+
+3
+
+Técnico de Administração AF 601.20.A ......................................................
+
+5
+
+Oficial de Administração AF 21.12.A ..........................................................
+
+30
+
+Assistente de Administração AF 602.14.A ..................................................
+
+5
+
+Auxiliar de Estatístico P 1402.8.A ..............................................................
+
+120
+
+Desenhista P 1001.12.A ............................................................................
+
+6
+
+Nutricionista P 1902.12.A ..........................................................................
+
+2
+
+Tradutor P 2201.14.A ................................................................................
+
+1
+
+Carpinteiro A 601.8.A ................................................................................
+
+1
+
+Eletricista Instalador A 802.8.A ..................................................................
+
+2
+
+Chefe de Portaria GL 303.7.13 ...................................................................
+
+2
+
+Auxiliar de Portaria GL 303.7.A ..................................................................
+
+10
+
+Servente GL 104.5 ....................................................................................
+
+5
+
+Bibliotecário EC 101.19.A ..........................................................................
+
+3
+
+Taquígrafo AF 501.14 ................................................................................
+
+2
+
+Datilografo AF 503.7.A ..............................................................................
+
+20
 
 OBS.: Os cargos constantes da tabela acima, criados em caráter provisório, serão extintos à medida em que vagarem.

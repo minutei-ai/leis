@@ -1,5 +1,3 @@
-###DEC-073951-0-000-17-04-1974@@@
-
 DECRETO Nº 73.951, DE 17 DE ABRIL DE 1974.
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Ciências Econômicas de Bauru, mantida pela Instituição Toledo de Ensino, com sede na cidade de Bauru, Estado de São Paulo.

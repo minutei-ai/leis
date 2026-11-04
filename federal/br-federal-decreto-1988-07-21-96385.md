@@ -1,5 +1,3 @@
-###DEC-096385-0-000-21-07-1988@@@
-
 DECRETO N° 96.385, DE 21 DE JULHO DE 1988
 
 Inclui parágrafo no art. 2º do Decreto n° 95.003, de 05 de outubro de 1987.

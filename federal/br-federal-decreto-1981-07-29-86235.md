@@ -1,5 +1,3 @@
-###DEC-086235-0-000-29-07-1981@@@
-
 DECRETO Nº 86.235, DE 29 De Julho de 1981
 
 Dispões sobre a fixação de área prioritária, para fins de reforma agrária, nos Municípios de Mazagão e Macapá, no Território Federal do Amapá, e dá outras providências.

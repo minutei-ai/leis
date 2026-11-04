@@ -1,5 +1,3 @@
-###DEC-070850-0-000-19-07-1972@@@
-
 DECRETO Nº 70.850, DE 19 DE JULHO DE 1972.
 
 Exclui do Quadro de Pessoal do Ministério da Fazenda cargos, com os respectivos ocupantes, oriundos do extinto SAPS.

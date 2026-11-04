@@ -1,5 +1,3 @@
-###DEC-058944-0-000-01-08-1966@@@
-
 DECRETO Nº 58.944, de 1 DE AGÔSTO DE 1966.
 
 Autoriza o cidadão brasileiro José Duarte Irmão a pesquisar mármore no Município de Curaçá, Estado da Bahia.

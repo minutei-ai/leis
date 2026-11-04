@@ -1,5 +1,3 @@
-###DEC-094076-0-000-05-03-1987@@@
-
 DECRETO N° 94.076, DE 05 DE MARÇO DE 1987
 
 Institui o Programa Nacional de Microbacias Hidrográficas, e dá outras providências.

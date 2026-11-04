@@ -1,5 +1,3 @@
-###DEL-004613-0-000-25-08-1942@@@
-
 DECRETO-LEI N. 4.613 – DE 25 AGOSTO DE 1942
 
 Institue, como medida de emergência, a entrega obrigatória ao Governo Federal de todo o carvão nacional e dá outras providências

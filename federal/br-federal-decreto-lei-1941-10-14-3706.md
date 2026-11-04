@@ -1,5 +1,3 @@
-###DEL-003706-0-000-14-10-1941@@@
-
 DECRETO-LEI N. 3.706 – DE 14 DE OUTUBRO DE 1941
 
 Autoriza transferência de um imovel ao Estado de Minas Gerais

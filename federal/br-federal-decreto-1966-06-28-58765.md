@@ -1,5 +1,3 @@
-###DEC-058765-0-000-28-06-1966@@@
-
 decreto nº 58.765, de 28 de junho de 1966.
 
 Outorga concessão à Televisão Erexim Ltda., para instalar uma emissora de radiodifusão de sons e imagens (televisão).

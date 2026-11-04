@@ -1,5 +1,3 @@
-###DEC-082825-0-000-11-12-1978@@@
-
 Decreto nº 82.825, de 11 de dezembro de 1978
 
 Concede reconhecimento ao curso de Engenharia de Operação, modalidade Têxtil, da Faculdade de Engenharia da Universidade do Estado do Rio de Janeiro.

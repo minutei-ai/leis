@@ -1,5 +1,3 @@
-###DEC-074074-0-000-16-05-1974@@@
-
 DECRETO N.º 74.074, DE 16 DE MAIO DE 1974.
 
 Interdita, para fins de atração e pacificação de grupos indígenas a área que discrimina, no Município de Diamantino, Estado de Mato Grosso.

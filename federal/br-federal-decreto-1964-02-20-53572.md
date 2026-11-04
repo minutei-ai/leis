@@ -1,5 +1,3 @@
-###DEC-053572-0-000-20-02-1964@@@
-
 DECRETO Nº 53.572, DE 20 DE FEVEREIRO DE 1964.
 
 Declara caduca a concessão outorgada pelo Decreto nº 45.524, de 3 de março de 1959.

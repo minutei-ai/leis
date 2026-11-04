@@ -1,5 +1,3 @@
-###DEC-057992-0-000-14-03-1966@@@
-
 Decreto nº 57.992, de 14 de março de 1966.
 
 Renova o Decreto nº 52.231, de 9 de julho de 1963.

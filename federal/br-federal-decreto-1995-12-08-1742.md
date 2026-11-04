@@ -1,7 +1,3 @@
-1
-
-###DEC-001742-0-000-08-12-1995@@@
-
 DECRETO N° 1.742, DE 8 DE DEZEMBRO DE 1995.
 
 Promulgo o Acordo, por troca de Notas, no Âmbito da Doação Cultural Japonesa, celebrado entre o Governo da República Federativa do Brasil e o Governo do Japão, em 30 de maio de 1995.

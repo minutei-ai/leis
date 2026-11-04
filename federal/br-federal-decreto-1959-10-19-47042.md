@@ -1,5 +1,3 @@
-###DEC-047042-0-000-19-10-1959@@@
-
 DECRETO Nº 47.042, DE 19 DE OUTUBRO DE 1959.
 
 Declara de utilidade pública, para efeitos de desapropriação, os imóveis que específica, situados em Fortaleza, Estado do Ceará.

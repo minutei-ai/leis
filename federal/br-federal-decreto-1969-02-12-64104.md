@@ -1,5 +1,3 @@
-###DEC-064104-0-000-12-02-1969@@@
-
 DECRETO Nº 64.104, DE 12 DE FEVEREIRO DE 1969.
 
 Concede reconhecimento dos Cursos de Licenciatura em Desenho e de Professor de Educação Musical do Instituto de Belas Artes de Passo Fundo - RS

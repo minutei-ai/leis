@@ -1,5 +1,3 @@
-###DEL-009291-0-000-27-05-1946@@@
-
 DECRETO-LEI N. 9.291 – DE 27 DE MAIO DE 1946
 
 Reorganiza os serviços e quadros das Secretarias da Câmara dos Deputados e do Senado Federal e dá outros providências.

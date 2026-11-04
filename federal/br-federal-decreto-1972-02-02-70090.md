@@ -1,5 +1,3 @@
-###DEC-070090-0-000-02-02-1972@@@
-
 DECRETO Nº 70.090, DE 2 DE FEVEREIRO DE 1972.
 
 Torna sem efeito a inclusão de servidores da extinta Superintendência do Plano de Valorização Econômica da Amazônia nos Quadros de Pessoal dos Ministérios da Aeronáutica e da Marinha, e dá outras providências.

@@ -1,6 +1,10 @@
 > **LEI Nº 4.313, DE 05 DE JANEIRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a obrigatoriedade do estudo de educação ambiental e crimes ambientais, incluindo maus-tratos aos animais domésticos e silvestres, como disciplina em conteúdo programático dos cursos de formação de policiais civis, militares e bombeiros.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a obrigatoriedade do estudo de educação ambiental e crimes ambientais, incluindo maus-tratos aos animais domésticos e silvestres, como disciplina em conteúdo programático dos cursos de formação de policiais civis, militares e bombeiros.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

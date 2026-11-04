@@ -1,5 +1,3 @@
-###DEC-094084-0-000-10-03-1987@@@
-
 DECRETO N° 94.084, DE 10 DE MARÇO DE 1987
 
 Institui o Programa Nacional de Material Escolar, dispõe sobre sua execução e dá outras providências.

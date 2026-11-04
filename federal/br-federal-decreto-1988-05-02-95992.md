@@ -1,5 +1,3 @@
-###DEC-095992-0-000-02-05-1988@@@
-
 DECRETO N° 95.992, DE 02 DE MAIO DE 1988
 
 Outorga concessão à RÁDIO DIFUSORA DE RIO REAL LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Rio Real, Estado da Bahia.

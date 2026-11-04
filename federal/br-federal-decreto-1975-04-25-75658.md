@@ -1,5 +1,3 @@
-###DEC-075658-0-000-25-04-1975@@@
-
 DECRETO Nº 75.658, DE 25 DE ABRIL DE 1975.
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados nos municípios de Bom Jesus da Lapa e Carinhanha, no Estado da Bahia, compreendidos na área prioritária  para fins de Reforma Agrária assim declarada pelo art. 1º do Decreto nº 73.072, de 1 de novembro de 1973 e ampliada pelo art. 1º do Decreto nº 74.366, de 7 de agosto de 1974.

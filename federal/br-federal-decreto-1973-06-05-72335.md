@@ -1,5 +1,3 @@
-###DEC-072335-0-000-05-06-1973@@@
-
 DECRETO Nº 72.335, DE 5 DE JUNHO DE 1973.
 
 Revoga Regulamento da Comissão de Promoções de Oficiais.

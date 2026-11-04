@@ -20,7 +20,8 @@ Art. 4º - O afastamento do servidor se dará mediante simples comunicação da 
 
 Parágrafo único - Quando se tratar de servidor da administração indireta, a comunicação a que alude este artigo, será encaminhada ao dirigente máximo do órgão descentralizado
 
-Redação do art. 4º de acordo com o [art. 1º da Lei nº 6.326, de 03 de outubro de 1991](https://www.legislabahia.ba.gov.br/documentos/lei-no-6326-de-03-de-outubro-de-1991#LO_6_326_Art__1) e a [Lei Complementar nº 04 de 03 de outubro de 1991](https://www.legislabahia.ba.gov.br/documentos/lc-no-004-de-03-de-outubro-de-1991#LEI_004) .<br>
+Redação do art. 4º de acordo com o [art. 1º da Lei nº 6.326, de 03 de outubro de 1991](https://www.legislabahia.ba.gov.br/documentos/lei-no-6326-de-03-de-outubro-de-1991#LO_6_326_Art__1) e a [Lei Complementar nº 04 de 03 de outubro de 1991](https://www.legislabahia.ba.gov.br/documentos/lc-no-004-de-03-de-outubro-de-1991#LEI_004) .
+
 Redação original: "Art. 4º - O direito à liberação do servidor será efetivado mediante comunicação encaminhada pela diretoria sindical empossada, ao titular da respectiva Secretaria de Estado, ao Presidente da Assembléia Legislativa e ao Tribunal de Justiça."
 
 Art. 5º - A presente Lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.

@@ -1,5 +1,3 @@
-###DEC-050335-0-000-13-03-1961@@@
-
 DECRETO Nº 50.335, de 13 DE março DE 1961.
 
 Altera o Regulamento da Escola Preparatória de Cadetes-do-Ar.

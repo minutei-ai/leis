@@ -1,4 +1,5 @@
-Prefeitura Municipal de Aparecida de Goiânia<br>
+Prefeitura Municipal de Aparecida de Goiânia
+
 LEI MUNICIPAL N.º 2.296, DE 20 DE AGOSTO DE 2002.
 
 Dá nova redação ao artigo 211, da lei Municipal nº 792, de 07 de dezembro de 1988 (código de Postura do Município).
@@ -15,11 +16,14 @@ Art.2º - Esta Lei entrara em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos vinte dias do mês de agosto de dois mil e um.
 
-ADEMIR MENEZES<br>
+ADEMIR MENEZES
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO
 
-MANOEL NASCIMENTO MACÊDO<br>
+MANOEL NASCIMENTO MACÊDO
+
 SEC.DE AÇÃO URBANA E MEIO AMBIENTE

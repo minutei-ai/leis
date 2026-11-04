@@ -1,5 +1,3 @@
-###DEC-072467-0-000-13-07-1973@@@
-
 DECRETO Nº 72.467, DE 13 DE JULHO DE 1973.
 
 Concede autorização à Companhia M.S. Drilling S.A., para operar no mar territorial do Brasil, fixado pelo Decreto-lei nº 1.098, de 25 de março de 1970, a embarcação de perfuração "Zephir II", de nacionalidade dinamarquesa, e as embarcações de reboque e apoio "Dearborn-48", de nacionalidade panamenha, "Quimano" e "Round-table", ambas de nacionalidade norte-americana, nos serviços que especifica.

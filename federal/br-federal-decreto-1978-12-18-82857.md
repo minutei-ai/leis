@@ -1,5 +1,3 @@
-###DEC-082857-0-000-18-12-1978@@@
-
 Decreto nº 82.857, de 18 de dezembro de 1978
 
 Autoriza o DEUTSCHE BANK AKTIENGESELLSCHAFT (BANCO ALEMÃO) como sucessor do DEUTSCHE UEBERSEEISCHE BANK (BANCO ALEMÃO TRANSATLÂNTICO) a funcionar no País e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-007196-0-000-27-12-1944@@@
-
 DECRETO-LEI N. 7.196 – DE 27 DE DEZEMBRO DE 1944
 
 Altera o artigo 7º do Decreto-lei n. 4.953, de 13 de novembro de 1942

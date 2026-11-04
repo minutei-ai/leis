@@ -1,5 +1,3 @@
-###DEL-003959-0-000-19-12-1941@@@
-
 DECRETO-LEI N. 3.959 – DE 19 DE DEZEMBRO DE 1941
 
 Organiza a 1ª Bateria Independente de Obuzes, com sede em Fernando de Noronha

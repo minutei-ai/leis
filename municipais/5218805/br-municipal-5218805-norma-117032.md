@@ -108,7 +108,7 @@ Secretário de Planejamento e Gestão
 
 “
 
-| **CARGO DE** **CONFIANÇA** **(CC)** | **ESPÉCIE/ NÍVEL** | **CARGO DE REFERÊNCIA** | **QUANTITATIVO** | **VALOR** |
+| **CARGO DECONFIANÇA(CC)** | **ESPÉCIE/ NÍVEL** | **CARGO DE REFERÊNCIA** | **QUANTITATIVO** | **VALOR** |
 | --- | --- | --- | --- | --- |
 | CC-1 | Secretário Municipal | 17 | ................. |
 | --- | --- | --- | --- |
@@ -123,6 +123,14 @@ A**NEXO II**
 
 **"**
 
-<table height="104" width="556"><tbody><tr><td style="width: 247px; text-align: center;"><strong>ÓRGÃO/ENTIDADE EXTINTO OU INCORPORADO</strong></td><td style="width: 277px; text-align: center;"><strong>ÓRGÃO/ENTIDADE SUCESSOR, CRIADO OU MANTIDO</strong></td></tr><tr><td style="width: 247px; text-align: center;">.................................................................</td><td style="width: 277px; text-align: center;">.................................................................</td></tr><tr><td style="width: 247px; text-align: center;">&nbsp;</td><td style="width: 277px; text-align: center;">Secretaria Municipal de Governo - SMG</td></tr></tbody></table>
+**ÓRGÃO/ENTIDADE EXTINTO OU INCORPORADO**
+
+**ÓRGÃO/ENTIDADE SUCESSOR, CRIADO OU MANTIDO**
+
+.................................................................
+
+.................................................................
+
+Secretaria Municipal de Governo - SMG
 
 "

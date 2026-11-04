@@ -1,5 +1,3 @@
-###DEC-081855-0-000-27-06-1978@@@
-
 Decreto nº 81.855, de 27 de junho de 1978.
 
 Concede à Mineração Santa Patrícia Ltda. o direito de lavrar bauxita no Município de Oriximiná, Estado do Pará.

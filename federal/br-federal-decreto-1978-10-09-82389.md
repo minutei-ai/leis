@@ -1,5 +1,3 @@
-###DEC-082389-0-000-09-10-1978@@@
-
 Decreto nº 82.389, de 09 de outubro de 1978.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão de passagem, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias que menciona.

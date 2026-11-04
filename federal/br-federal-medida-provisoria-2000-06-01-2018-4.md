@@ -1,5 +1,3 @@
-###MPV-002018-0-004-01-06-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.018-4, DE 1º DE junhO DE 2000.
 
 Abre crédito extraordinário, em favor do Ministério do Meio Ambiente, no valor de R$51.050.000,00, para os fins que especifica.

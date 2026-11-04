@@ -1,5 +1,3 @@
-###DEC-048541-0-000-19-07-1960@@@
-
 DECRETO Nº 48.541, DE 19 DE JULHO DE 1960.
 
 Dá nova redação aos números 2 e 3 do art. 210 do Regulamento Interno dos Serviços da Aeronáutica, aprovado pelo Decreto nº 40.043, de 27 de setembro de 1956.

@@ -1,5 +1,3 @@
-###DEC-060493-0-000-14-03-1967@@@
-
 decreto nº 60.493, de 14 de março de 1967.
 
 Constitui Grupo Especial de estudos dos problemas pertinentes à formação de preço do álcool para consumo industrial.

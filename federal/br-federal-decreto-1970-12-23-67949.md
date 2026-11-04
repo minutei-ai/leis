@@ -1,5 +1,3 @@
-###DEC-067949-0-000-23-12-1970@@@
-
 DECRETO Nº 67.949, DE 23 DE DEZEMBRO DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério da Justiça, cargo originário da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providencias.

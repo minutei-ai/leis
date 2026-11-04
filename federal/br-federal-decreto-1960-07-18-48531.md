@@ -1,5 +1,3 @@
-###DEC-048531-0-000-18-07-1960@@@
-
 DECRETO Nº 48.531, DE 18 DE JULHO DE 1960.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, a importação dos equipamentos novos, ora descritos e a serem trazidos do exterior pela Mirca S/A. Indústria e Comércio, de Salvador (Ba.).

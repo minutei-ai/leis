@@ -1,5 +1,3 @@
-###DEC-047099-0-000-26-10-1959@@@
-
 DECRETO Nº 47.099, DE 26 DE OUTUBRO DE 1959.
 
 Abre, ao Poder Judiciário - Justiça Eleitoral - Tribunal Superior Eleitoral - o crédito especial que especifica.

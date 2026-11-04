@@ -1,5 +1,3 @@
-###DEC-007290-0-000-01-09-2010-PUB-01@@@
-
 DECRETO Nº 7.290, DE 1º DE SETEMBRO DE 2010.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1.907, de 23 de dezembro de 2009, do Conselho de Segurança das Nações Unidas, que impõe regime de sanções contra o Estado da Eritreia

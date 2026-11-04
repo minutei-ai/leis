@@ -1,5 +1,3 @@
-###DEC-059918-0-000-30-12-1966@@@
-
 DECRETO Nº 59.918, DE 30 DE DEZEMBRO DE 1966.
 
 Presidência da República. Abre o crédito de Cr$24.000.000 (vinte e quatro milhões de cruzeiros) autorizado pela Lei nº 5.096, de 5 de julho de 1966, para atender a despesas que menciona.

@@ -6,15 +6,16 @@ Declara a Utilidade Pública a Associação Hikmat Shrine Pantanal - MS Club, co
 
 Publicada no Diário Oficial nº 11.240, de 11 de agosto de 2023, página 2.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica declarada de Utilidade Pública Estadual a Associação Hikmat Shrine Pantanal - MS Club, pessoa jurídica de direito privado, sem fins lucrativos, de natureza assistencial, com sede e foro no Município de Campo Grande.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica declarada de Utilidade Pública Estadual a Associação Hikmat Shrine Pantanal - MS Club, pessoa jurídica de direito privado, sem fins lucrativos, de natureza assistencial, com sede e foro no Município de Campo Grande.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 10 de agosto de 2023.
 
-<br>
-EDUARDO CORREA RIEDEL<br>
+EDUARDO CORREA RIEDEL
+
 Governador do Estado

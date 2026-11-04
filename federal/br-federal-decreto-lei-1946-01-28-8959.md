@@ -1,5 +1,3 @@
-###DEL-008959-0-000-28-01-1946@@@
-
 DECRETO-LEI N. 8.959 – DE 28 DE JANEIRO DE 1946
 
 Dispõe sôbre a organização e o pessoal do Serviço de Navegação da Bacia do Prata.

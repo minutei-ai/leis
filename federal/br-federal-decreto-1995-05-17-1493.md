@@ -1,5 +1,3 @@
-###DEC-001493-0-000-17-05-1995@@@
-
 DECRETO Nº 1.493, DE 17 DE MAIO DE 1995
 
 Dá nova redação ao inciso II do art. 2º do Decreto nº 1.359, de 30 de dezembro de 1994.
@@ -19,8 +17,6 @@ Brasília, 17 de maio de 1995; 174º da Independência e 107º da República.
 FERNANDO HENRIQUE CARDOSO
 
 Francisco Weffort
-
-###DEC-001493-0-000-19-05-1995@@@REP01+++
 
 DECRETO Nº 1.493, DE 19 DE MAIO DE 1995
 

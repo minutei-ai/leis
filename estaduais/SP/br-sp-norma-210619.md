@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210619)<br>
-
 # DECRETO N° 69.352, DE 14 DE FEVEREIRO DE 2025
 
 ### _Homologa, por 180 (cento e oitenta) dias, o decreto do Prefeito do Município de Embu das Artes, que declarou Situação de Emergência em áreas do Município._

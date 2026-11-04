@@ -1,5 +1,3 @@
-###DEC-050199-0-000-28-01-1961@@@
-
 DECRETO Nº 50.199, DE 28 DE JANEIRO DE 1961.
 
 Revoga o Decreto nº 49.609, de 29 de dezembro de 1960.

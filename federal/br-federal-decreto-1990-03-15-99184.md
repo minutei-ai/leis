@@ -1,7 +1,3 @@
-1
-
-###DEC-099184-0-000-15-03-1990@@@
-
 DECRETO N° 99.184, DE 15 DE MARÇO DE 1990
 
 Regulamenta o Cadastro Nacional de Bens Imóveis, e dá outras providências.

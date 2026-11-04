@@ -1,5 +1,3 @@
-###DEC-002853-0-000-02-12-1998@@@
-
 DECRETO Nº 2.853, DE 2 DE DEZEMBRO DE 1998
 
 Dá nova redação ao § 1º do art. 21 do Regulamento da Agência Nacional de Telecomunicações, aprovado pelo Decreto nº 2.338, de 7 de outubro de 1997.

@@ -1,5 +1,3 @@
-###DEC-076966-0-000-31-12-1975@@@
-
 DECRETO nº 76.966, DE 31 DE DEZEMBRO DE 1975.
 
 Cria a Embaixada do Brasil na República Democrática de São Tomé e Príncipe.

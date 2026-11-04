@@ -1,5 +1,3 @@
-###DEC-044905-0-000-28-11-1958@@@
-
 DECRETO Nº 44.905, DE 28 DE NOVEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Odorico Pereira Leite a pesquisar calcário no município de Delfim Moreira, Estado de Minas Gerais.

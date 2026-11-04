@@ -1,5 +1,3 @@
-###DEL-000335-0-000-15-03-1938@@@
-
 DECRETO-LEI N. 335 – DE 15 DE MARÇO DE 1938
 
 Cria o quadro de Oficiais Auxiliares da Marinha

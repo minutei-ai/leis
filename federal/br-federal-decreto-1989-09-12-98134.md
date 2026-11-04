@@ -1,7 +1,3 @@
-1
-
-###DEC-098134-0-000-12-09-1989@@@
-
 DECRETO N° 98.134, DE 12 DE SETEMBRO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, com benfeitorias, situada no Município e Comarca de São Paulo, destinada a atender as necessidades de manutenção e operação dos serviços públicos de telecomunicações, da Telecomunicações de São Paulo S.A.- TELESP, e dá outras providências.

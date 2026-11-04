@@ -1,5 +1,3 @@
-###DEC-077619-0-000-17-05-1976@@@
-
 Decreto nº 77.619, de 17 de maio de 1976
 
 Concede à Indústria Cerâmica Imbituba S/A o direito de lavrar silex no Município de Tubarão Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-049115-0-000-13-10-1960@@@
-
 DECRETO Nº 49.115, DE 13 DE OUTUBRO DE 1960.
 
 Transfere função da Tabela Numérica Especial de Extranumerário-mensalista da Base Aérea de Belém para a Tabela Numérica de Extranumerário-mensalista do Núcleo de Parque de Aeronáutica de Lagoa Santa.

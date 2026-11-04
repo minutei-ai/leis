@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/1d243251-4fcc-461a-bfae-1152b2b174a4/texto#nowhere)
 
-###DEL-001864-0-000-26-02-1981@@@
-
 # Decreto-lei nº 1.864, de 26 de fevereiro de 1981.
 
 Dispõe sobre a ocupação provisória de imóveis para pesquisa e lavra de petróleo.

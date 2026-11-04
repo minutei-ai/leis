@@ -1,5 +1,3 @@
-###DEC-068769-0-000-17-06-1971@@@
-
 DECRETO Nº 68.769 - DE 17 DE JUNHO DE 1971.
 
 Declara de utilidade pública a Fundação Universitária Sul-Fluminense (FUSF), com sede em Vassouras, Estado do Rio de Janeiro.

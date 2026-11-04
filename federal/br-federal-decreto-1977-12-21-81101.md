@@ -1,5 +1,3 @@
-###DEC-081101-0-000-21-12-1977@@@
-
 Decreto nº 81.101, de 21 de dezembro de 1977.
 
 Autoriza o Ministro da Fazenda a conceder garantia a operação externa.

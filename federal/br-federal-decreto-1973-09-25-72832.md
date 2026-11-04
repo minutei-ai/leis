@@ -1,5 +1,3 @@
-###DEC-072832-0-000-25-09-1973@@@
-
 DECRETO Nº 72.832, DE 25 DE sETEMBRO DE 1973.
 
 Autoriza o funcionamento da modalidade Português-Francês, no curso de Licenciatura Plena em Letras da Faculdade de Filosofia, Ciências e Letras de Araxá, mantida pela Fundação Cultural de Araxá, com sede na cidade de Araxá, mantida pela Fundação Cultura de Araxá, com sede na cidade de Araxá, Estado de Minas Gerais.

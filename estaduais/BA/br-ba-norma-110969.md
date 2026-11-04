@@ -10,7 +10,8 @@ Art. 1º - Ficam criadas, no Departamento de Crimes Contra a Vida, da estrutura 
 
 § 2º - Para gerir as atividades das Unidades Policiais de que trata este artigo, ficam criados, na estrutura de cargos em comissão da Secretaria da Segurança Pública, 08 (oito) cargos de Delegado Titular I, símbolo DAS-3, 03 (três) cargos de Coordenador III, símbolo DAI-4, 33 (trinta e três) cargos de Coordenador IV, símbolo DAI-5, e 20 (vinte) cargos de Coordenador V, símbolo DAI-6.
 
-Redação do § 2º do art. 1º de acordo com o [art. 2º da Lei nº 10.207, de 26 de maio de 2006](https://www.legislabahia.ba.gov.br/documentos/lei-no-10207-de-26-de-maio-de-2006#LO_10_207_Art__2) .<br>
+Redação do § 2º do art. 1º de acordo com o [art. 2º da Lei nº 10.207, de 26 de maio de 2006](https://www.legislabahia.ba.gov.br/documentos/lei-no-10207-de-26-de-maio-de-2006#LO_10_207_Art__2) .
+
 Redação original: "§ 2º - Para gerir as atividades das Unidades Policiais de que trata este artigo, ficam criados, na estrutura de cargos em comissão da Secretaria da Segurança Pública, 08 (oito) cargos de Delegado Titular, símbolo DAS-3, 16 (dezesseis) cargos de Coordenador IV, símbolo DAI-5, e 40 (quarenta) cargos de Coordenador V, símbolo DAI-6."
 
 Art. 2º - A Secretaria da Segurança Pública fica autorizada a adotar as providências necessárias à instalação e ao funcionamento das Unidades Policiais de que trata esta Lei.
@@ -39,4 +40,4 @@ Edson Sá Rocha
 
 Secretário da Segurança Pública
 
-* * *
+ *

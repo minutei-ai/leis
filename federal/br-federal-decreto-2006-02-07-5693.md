@@ -1,5 +1,3 @@
-###DEC-005693-0-000-07-02-2006@@@
-
 DECRETO Nº 5.693, DE 7 DE FEVEREIRO DE 2006.
 
 Prorroga o prazo a que se refere o parágrafo único do art. 3o do Decreto no 4.901, de 26 de novembro de 2003.

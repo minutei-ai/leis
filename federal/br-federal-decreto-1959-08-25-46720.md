@@ -1,5 +1,3 @@
-###DEC-046720-0-000-25-08-1959@@@
-
 DECRETO Nº 46.720, DE 25 DE AGÔSTO DE 1959.
 
 Aprova alterações introduzidas nos estatutos, inclusive aumento do capital social da Vera Cruz - Companhia Brasileira de Seguros.

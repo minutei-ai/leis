@@ -1,5 +1,3 @@
-###MPV-001526-0-000-05-11-1996@@@
-
 MEDIDA PROVISÓRIA Nº 1.526, DE 5 DE NOVEMBRO DE 1996.
 
 Dispõe sobre o regime tributário das microempresas e das empresas de pequeno porte, institui o Sistema Integrado de Pagamento de Impostos e Contribuições das Microempresas e das Empresas de Pequeno Porte - SIMPLES e dá outras providências.

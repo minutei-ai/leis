@@ -1,5 +1,3 @@
-###DEC-057097-0-000-19-10-1965@@@
-
 Decreto nº 57.097, de 19 de outubro de 1965.
 
 Regula o Recrutamento de Oficiais Médicos, Dentistas e Farmacêuticos da Aeronáutica.

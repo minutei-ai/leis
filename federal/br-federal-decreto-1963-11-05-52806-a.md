@@ -1,5 +1,3 @@
-###DEC-052806-A-000-05-11-1963@@@
-
 DECRETO Nº 52.806-A, DE 5 DE NOVEMBRO DE 1963.
 
 Promoção no Corpo do Pessoal Subalterno da Aeronáutica.

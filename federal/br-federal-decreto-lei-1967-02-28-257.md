@@ -1,5 +1,3 @@
-###DEL-000257-0-000-28-02-1967@@@
-
 DECReTO-LEI Nº 257, DE 28 DE FEVEREIRO DE 1967
 
 Dispõe sôbre a Política Econômica do Sal, regula sua execução e dá outras providências.

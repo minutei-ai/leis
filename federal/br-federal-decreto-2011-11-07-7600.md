@@ -1,5 +1,3 @@
-###DEC-007600-0-000-07-11-2011-PUB-01@@@
-
 DECRETO Nº 7.600, DE 7 DE NOVEMBRO DE 2011
 
 Altera o Decreto nº 6.233, de 11 de outubro de 2007, que estabelece critérios para efeito de habilitação ao Programa de Apoio ao Desenvolvimento Tecnológico da Indústria de Semicondutores - PADIS, instituído  pelos arts. 1º a 11 da Lei nº 11.484, de 31 de maio de 2007.

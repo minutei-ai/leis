@@ -1,5 +1,3 @@
-###MPV-002115-0-014-27-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.115-14, DE 27 DE DEZEMBRO DE 2000.
 
 Dispõe sobre a atuação das câmaras e dos prestadores de serviços de compensação e de liquidação, no âmbito do sistema de pagamentos brasileiros, e dá outras providências.

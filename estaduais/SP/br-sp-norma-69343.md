@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69343)
-
 # LEI Nº 12.454, DE 22 DE DEZEMBRO DE 2006
 
 ## (Projeto de lei nº 264/2006, do Deputado Roberto Engler)

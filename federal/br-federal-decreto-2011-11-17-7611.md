@@ -1,5 +1,3 @@
-###DEC-007611-0-000-17-11-2011-PUB-01@@@
-
 DECRETO Nº 7.611, DE 17 DE NOVEMBRO DE 2011
 
 Dispõe sobre a educação especial, o atendimento educacional especializado e dá outras providências.

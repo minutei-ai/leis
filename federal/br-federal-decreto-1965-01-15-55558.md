@@ -1,5 +1,3 @@
-###DEC-055558-0-000-15-01-1965@@@
-
 DECRETO nº 55.558, DE 15 DE JANEIRO DE 1965.
 
 Autoriza a “Cinal” Comércio, Indústria e Navegação Amapá Ltda. a pesquisar cassiterita, no município de Macapá, Território do Amapá.

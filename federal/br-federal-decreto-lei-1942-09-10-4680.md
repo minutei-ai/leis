@@ -1,5 +1,3 @@
-###DEL-004680-0-000-10-09-1942@@@
-
 DECRETO-LEI N. 4.680 – DE 10 DE SETEMBRO DE 1942
 
 Transfere ao Estado do Rio de Janeiro o domínio pleno do terreno nacional interior que menciona, situado na cidade de Niterói, Capital do mesmo Estado, em permuta com terrenos tambem mencionados, e dá outras providências

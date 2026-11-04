@@ -94,7 +94,8 @@ Fábio Vilas-Boas Pinto
 
 Secretário da Saúde
 
-Nelson Souza Leal<br>
+Nelson Souza Leal
+
 Secretário de Desenvolvimento Econômico
 
 Carlos Martins Marques de Santana

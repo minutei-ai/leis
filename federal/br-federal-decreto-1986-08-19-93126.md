@@ -1,5 +1,3 @@
-###DEC-093126-0-000-19-08-1986@@@
-
 DECRETO Nº 93.126, DE 19 DE AGOSTO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação transformadora de distribuição George Oeterer, da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

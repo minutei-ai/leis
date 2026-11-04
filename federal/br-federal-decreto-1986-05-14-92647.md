@@ -1,5 +1,3 @@
-###DEC-092647-0-000-14-05-1986@@@
-
 DECRETO Nº 92.647, DE 14 DE MAIO DE 1986
 
 Altera dispositivo do Decreto nº 75.911, de 26 de junho de 1975, que fixa a Lotação dos Adidos Militares junto às representações diplomáticas no exterior, alterado pelo Decreto nº 86.959, de 25 de fevereiro de 1982.

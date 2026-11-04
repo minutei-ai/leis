@@ -1,5 +1,3 @@
-###DEL-000102-0-000-23-12-1937@@@
-
 DECRETO-LEI N. 102 – DE 23 DE DEZEMBRO DE 1937
 
 Autoriza a aquisição de um terreno para ampliação das instalações da Fábrica de Projetis de Artilharia

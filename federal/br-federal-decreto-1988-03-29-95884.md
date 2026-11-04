@@ -1,7 +1,3 @@
-1
-
-###DEC-095884-0-000-29-03-1988@@@
-
 # DECRETO N° 95.884, DE 29 DE MARÇO DE 1988
 
 Reajusta o valor do Piso Nacional de Salários.

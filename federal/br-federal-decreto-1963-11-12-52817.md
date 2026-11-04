@@ -1,5 +1,3 @@
-###DEC-052817-0-000-12-11-1963@@@
-
 DECRETO Nº 52.817, DE 12 DE NOVEMBRO DE 1963.
 
 Altera a redação do art. 1º do Decreto nº 52.784, de 29 de outubro de 1963.

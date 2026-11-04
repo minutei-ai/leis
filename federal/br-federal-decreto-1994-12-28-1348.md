@@ -1,7 +1,3 @@
-1
-
-###DEC-001348-0-000-28-12-1994@@@
-
 DECRETO N° 1.348, DE 28 DE DEZEMBRO DE 1994
 
 Regula a participação de concessionário de serviço público de energia elétrica em aproveitamento hidrelétrico de outro concessionário.

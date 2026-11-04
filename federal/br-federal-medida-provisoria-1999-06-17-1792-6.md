@@ -1,5 +1,3 @@
-###MPV-001792-0-006-17-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.792-6, DE 17 DE JUNHO DE 1999.
 
 Dispõe sobre o recolhimento ao Tesouro Nacional de parcela da Tarifa de Embarque Internacional, e dá outras providências.

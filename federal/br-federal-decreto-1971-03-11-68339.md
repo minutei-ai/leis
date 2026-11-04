@@ -1,5 +1,3 @@
-###DEC-068339-0-000-11-03-1971@@@
-
 decreto nº 68.339, de 11 de março de 1971.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra destinada à instalação de uma estação repetidora de microondas e uma faixa de terra para o acesso ao terreno, citas no Município de Sete Lagoas, Estado de Minas Gerais, a cargo da Companhia Telefônica de Minas Gerais.

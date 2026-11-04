@@ -1,5 +1,3 @@
-###DEC-069005-0-000-03-08-1971@@@
-
 DECRETO Nº 69.005, DE 3 DE AGÔSTO DE 1971.
 
 Dispõe sôbre alteração no Quadro Único de Pessoal da Universidade Federal do Rio Grande do Norte e dá outras providências.

@@ -1,10 +1,7 @@
-###DEC-004157-0-000-12-03-2002@@@
-
 DECRETO Nº 4.157, DE 12 DE MARÇO DE 2002
 
 Regulamenta a Lei nº 10.332, de 19 de dezembro de 2001, na parte que institui MECANISMO DE FINANCIAMENTO PARA O PROgrama de Ciência e Tecnologia para o Agronegócio e dá outras providências.
 
-<br>
 O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, incisos IV e VI, alínea "a", da Constituição, e tendo em vista o disposto na Lei nº 10.332, de 19 de dezembro de 2001,
 
 D E C R E T A :

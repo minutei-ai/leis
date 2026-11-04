@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=57776)
-
 # LEI Nº 12.048, DE 21 DE SETEMBRO DE 2005
 
 ## (PL 577/1996 - Milton Flávio)

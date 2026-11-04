@@ -1,7 +1,3 @@
-1
-
-###DEC-000356-0-000-07-12-1991@@@
-
 # DECRETO N° 356, DE 7 DE DEZEMBRO DE 1991
 
 Aprova o Regulamento da Organização e do Custeio da Seguridade Social.
@@ -24,7 +20,295 @@ Antonio Magri
 
 # Sumário
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:67.4pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Divisão</span></p></td><td style="width:277.8pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Matéria</span></p></td><td style="width:65.95pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Artigos</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">PARTE I</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Da organização da Seguridade Social</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">TÍTULO I</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Dos princípios e diretrizes</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Capítulo I</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp;</span><span style="font-size:12pt">Introdução</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">1º</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp;</span><span style="font-size:12pt">Capítulo II</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp;</span><span style="font-size:12pt">Da Saúde</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">2º</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp; </span><span style="font-size:12pt">Capítulo III</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp;</span><span style="font-size:12pt">Da Previdência Social</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">3º</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp; </span><span style="font-size:12pt">Capítulo IV</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Da Assistência Social</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">4°</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">TÍTULO II</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Da organização da Seguridade Social</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">5° a 9º</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">TÍTULO III</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Do contribuinte da Seguridade Social</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Capítulo I</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Do segurado da Previdência Social</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">10 a 13</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp;</span><span style="font-size:12pt">Capítulo II</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Da empresa e do empregador doméstico</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">14</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">PARTE II</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Do Custeio da Seguridade Social</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp;</span><span style="font-size:12pt">TÍTULO I</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Do financiamento da Seguridade Social</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Capítulo I</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Introdução</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">15 e 16</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp;</span><span style="font-size:12pt">Capítulo II</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Da Contribuição da União</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">17 a 21</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp; </span><span style="font-size:12pt">Capítulo III</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Da contribuição do segurado</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Seção I</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Da contribuição dos segurados empregado, empregado doméstico e trabalhador avulso</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">22</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Seção II</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Da contribuição dos segurados empresário, facultativo e trabalhador autônomo</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">23</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp;</span><span style="font-size:12pt">Seção III</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Da contribuição do segurado especial</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">24</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Capítulo IV</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Das contribuições da empresa e do empregador do empregador doméstico</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Seção I</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Das contribuições da empresa</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">25 a 29</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp;</span><span style="font-size:12pt">Seção II</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Da isenção de contribuições</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">30 a 33</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp; </span><span style="font-size:12pt">Seção III</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Da contribuição do empregador doméstico</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">34</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Capítulo V</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Da contribuição sobre a receita de concursos de prognósticos</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">35</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Capítulo VI</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Das outras receitas</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">36</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Capítulo VII</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Do salário-de-contribuição</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">37 e 38</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Capítulo VIII</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Da arrecadação e recolhimento das contribuições</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Seção I</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Das normas gerais de arrecadação</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">39 a 41</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp;</span><span style="font-size:12pt">Seção II</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Da responsabilidade solidária</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">42 a 46</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp;</span><span style="font-size:12pt">Seção III</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Das obrigações acessórias</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">47</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp; </span><span style="font-size:12pt">Seção IV</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Da competência para arrecadar, fiscalizar e cobrar</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">48 e 49</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp;</span><span style="font-size:12pt">Seção V</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Do exame da contabilidade</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">50 a 56</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp;</span><span style="font-size:12pt">Seção VI</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Das contribuições e outras importâncias não recolhidas até o vencimento</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">57 a 69</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp; </span><span style="font-size:12pt">Seção VII</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Da decadência e prescrição</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">70 e 71</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:12pt">Seção VIII</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Da restituição de contribuições e outras importâncias</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">72 a 79</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp;</span><span style="font-size:12pt">Seção IX</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Do reembolso de pagamentos</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">80 e 81</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Capítulo IX</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Da matrícula da empresa</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">82 e 83</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Capítulo X</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Da prova de inexistência de débito</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">84 a 92</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp; </span><span style="font-size:12pt">Capítulo XI</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Das disposições diversas</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">93 a 101</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">TÍTULO II</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Das disposições gerais</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Capítulo I</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Das restrições</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">102 e 103</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp;</span><span style="font-size:12pt">Capítulo II</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Das infrações e das disposições penais</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Seção I</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Dos crimes</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">104 a 106</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp;</span><span style="font-size:12pt">Seção II</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Das infrações</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">107 a 110</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp; </span><span style="font-size:12pt">Seção III</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Das circunstâncias agravantes das infrações</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">111</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:12pt">Seção IV</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Das circunstâncias atenuantes das infrações</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">112</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp;</span><span style="font-size:12pt">Seção V</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Da gradação das multas</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">113 e 114</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Capítulo III</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Dos recursos das decisões</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">115 a 125</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">PARTE III</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Das disposições gerais</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp; </span><span style="font-size:12pt">TÍTULO I</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Da modernização da Previdência Social</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">126 a 145</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp; </span><span style="font-size:12pt">TÍTULO II</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Das disposições transitórias</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">146 a 155</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp; </span><span style="font-size:12pt">TÍTULO III</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Das disposições finais</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">156 a 165</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:277.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:65.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+Divisão
+
+Matéria
+
+Artigos
+
+PARTE I
+
+Da organização da Seguridade Social
+
+TÍTULO I
+
+Dos princípios e diretrizes
+
+Capítulo I
+
+Introdução
+
+1º
+
+Capítulo II
+
+Da Saúde
+
+2º
+
+Capítulo III
+
+Da Previdência Social
+
+3º
+
+Capítulo IV
+
+Da Assistência Social
+
+4°
+
+TÍTULO II
+
+Da organização da Seguridade Social
+
+5° a 9º
+
+TÍTULO III
+
+Do contribuinte da Seguridade Social
+
+Capítulo I
+
+Do segurado da Previdência Social
+
+10 a 13
+
+Capítulo II
+
+Da empresa e do empregador doméstico
+
+14
+
+PARTE II
+
+Do Custeio da Seguridade Social
+
+TÍTULO I
+
+Do financiamento da Seguridade Social
+
+Capítulo I
+
+Introdução
+
+15 e 16
+
+Capítulo II
+
+Da Contribuição da União
+
+17 a 21
+
+Capítulo III
+
+Da contribuição do segurado
+
+Seção I
+
+Da contribuição dos segurados empregado, empregado doméstico e trabalhador avulso
+
+22
+
+Seção II
+
+Da contribuição dos segurados empresário, facultativo e trabalhador autônomo
+
+23
+
+Seção III
+
+Da contribuição do segurado especial
+
+24
+
+Capítulo IV
+
+Das contribuições da empresa e do empregador do empregador doméstico
+
+Seção I
+
+Das contribuições da empresa
+
+25 a 29
+
+Seção II
+
+Da isenção de contribuições
+
+30 a 33
+
+Seção III
+
+Da contribuição do empregador doméstico
+
+34
+
+Capítulo V
+
+Da contribuição sobre a receita de concursos de prognósticos
+
+35
+
+Capítulo VI
+
+Das outras receitas
+
+36
+
+Capítulo VII
+
+Do salário-de-contribuição
+
+37 e 38
+
+Capítulo VIII
+
+Da arrecadação e recolhimento das contribuições
+
+Seção I
+
+Das normas gerais de arrecadação
+
+39 a 41
+
+Seção II
+
+Da responsabilidade solidária
+
+42 a 46
+
+Seção III
+
+Das obrigações acessórias
+
+47
+
+Seção IV
+
+Da competência para arrecadar, fiscalizar e cobrar
+
+48 e 49
+
+Seção V
+
+Do exame da contabilidade
+
+50 a 56
+
+Seção VI
+
+Das contribuições e outras importâncias não recolhidas até o vencimento
+
+57 a 69
+
+Seção VII
+
+Da decadência e prescrição
+
+70 e 71
+
+Seção VIII
+
+Da restituição de contribuições e outras importâncias
+
+72 a 79
+
+Seção IX
+
+Do reembolso de pagamentos
+
+80 e 81
+
+Capítulo IX
+
+Da matrícula da empresa
+
+82 e 83
+
+Capítulo X
+
+Da prova de inexistência de débito
+
+84 a 92
+
+Capítulo XI
+
+Das disposições diversas
+
+93 a 101
+
+TÍTULO II
+
+Das disposições gerais
+
+Capítulo I
+
+Das restrições
+
+102 e 103
+
+Capítulo II
+
+Das infrações e das disposições penais
+
+Seção I
+
+Dos crimes
+
+104 a 106
+
+Seção II
+
+Das infrações
+
+107 a 110
+
+Seção III
+
+Das circunstâncias agravantes das infrações
+
+111
+
+Seção IV
+
+Das circunstâncias atenuantes das infrações
+
+112
+
+Seção V
+
+Da gradação das multas
+
+113 e 114
+
+Capítulo III
+
+Dos recursos das decisões
+
+115 a 125
+
+PARTE III
+
+Das disposições gerais
+
+TÍTULO I
+
+Da modernização da Previdência Social
+
+126 a 145
+
+TÍTULO II
+
+Das disposições transitórias
+
+146 a 155
+
+TÍTULO III
+
+Das disposições finais
+
+156 a 165
 
 # REGULAMENTO DA ORGANIZAÇÃO E DO CUSTEIO
 
@@ -406,7 +690,25 @@ Art. 21. Os recursos oriundos da majoração das contribuições previstas neste
 
 Art. 22. A contribuição dos segurados empregado, inclusive o doméstico, e do trabalhador avulso é calculada mediante a aplicação da correspondente alíquota, de forma não cumulativa, sobre o seu salário de contribuição mensal, observado o disposto no art. 37, de acordo com a seguinte tabela:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:42.55pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:163.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Salário-de-Contribuição</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">(Cr$)</span></p></td><td style="width:209.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Alíquota</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">(%)</span></p></td></tr><tr><td style="width:163.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">Até 51.000,00</span></p></td><td style="width:209.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">8,0</span></p></td></tr><tr><td style="width:163.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">de</span><span style="font-size:12pt; -aw-import:spaces">&nbsp; </span><span style="font-size:12pt">51.000,00 a 85.000,00</span></p></td><td style="width:209.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt; -aw-import:spaces">&nbsp;</span><span style="font-size:12pt">9,0</span></p></td></tr><tr><td style="width:163.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:12pt">de</span><span style="font-size:12pt; -aw-import:spaces">&nbsp; </span><span style="font-size:12pt">85.000,00 a 170.000,00</span></p></td><td style="width:209.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">10,0</span></p></td></tr></tbody></table>
+Salário-de-Contribuição
+
+(Cr$)
+
+Alíquota
+
+(%)
+
+Até 51.000,00
+
+8,0
+
+de  51.000,00 a 85.000,00
+
+9,0
+
+de  85.000,00 a 170.000,00
+
+10,0
 
 Parágrafo único. Os valores do salário-de-contribuição serão reajustados, a partir de 1° de agosto de 1991, na mesma época e com os mesmos índices que os do reajustamento dos benefícios de prestação continuada da Previdência Social.
 
@@ -734,7 +1036,71 @@ Art. 38. O salário-base de que trata o inciso III do art. 37 é determinado de 
 
 Escala de Salário-Base
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Classe</span></p></td><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Salário-Base</span></p></td><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Número Mínimo de Meses de Permanência em cada Classe (Interstícios)</span></p></td></tr><tr><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">1</span></p></td><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:12pt">1 (um) salário-mínimo</span></p></td><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">12</span></p></td></tr><tr><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">2</span></p></td><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:12pt">Cr$ 34.000,00</span></p></td><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">12</span></p></td></tr><tr><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">3</span></p></td><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:12pt">Cr$ 51.000,00</span></p></td><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">12</span></p></td></tr><tr><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">4</span></p></td><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:12pt">Cr$ 68.000,00</span></p></td><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">12</span></p></td></tr><tr><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">5</span></p></td><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:12pt">Cr$ 85.000,00</span></p></td><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">24</span></p></td></tr><tr><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">6</span></p></td><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:12pt">Cr$ 102.000,00</span></p></td><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">36</span></p></td></tr><tr><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">7</span></p></td><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:12pt">Cr$ 119.000,00</span></p></td><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">36</span></p></td></tr><tr><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">8</span></p></td><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:12pt">Cr$ 136.000,00</span></p></td><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">60</span></p></td></tr><tr><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">9</span></p></td><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:12pt">Cr$ 153.000,00</span></p></td><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">60</span></p></td></tr><tr><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">10</span></p></td><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:12pt">Cr$ 170.000,00</span></p></td><td style="width:137.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">-</span></p></td></tr></tbody></table>
+Classe
+
+Salário-Base
+
+Número Mínimo de Meses de Permanência em cada Classe (Interstícios)
+
+1
+
+1 (um) salário-mínimo
+
+12
+
+2
+
+Cr$ 34.000,00
+
+12
+
+3
+
+Cr$ 51.000,00
+
+12
+
+4
+
+Cr$ 68.000,00
+
+12
+
+5
+
+Cr$ 85.000,00
+
+24
+
+6
+
+Cr$ 102.000,00
+
+36
+
+7
+
+Cr$ 119.000,00
+
+36
+
+8
+
+Cr$ 136.000,00
+
+60
+
+9
+
+Cr$ 153.000,00
+
+60
+
+10
+
+Cr$ 170.000,00
+
+-
 
 § 1° Os valores do salário-base serão reajustados, a partir de 1° de agosto de 1991, na mesma data e com os mesmos índices que os do reajustamento dos benefícios de prestação continuada da Previdência Social.
 
@@ -972,7 +1338,37 @@ I - juros de mora, a partir da competência janeiro de 1991, equivalentes a vari
 
 II - multa de mora, aplicada de acordo com a seguinte tabela, a partir da competência agosto de 1991:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:205.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Dias Transcorridos entre</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Vencimento e Pagamento</span></p></td><td style="width:209.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Multa Aplicável</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">(%)</span></p></td></tr><tr><td style="width:205.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Até</span><span style="font-size:12pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:12pt">15 dias</span></p></td><td style="width:209.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">1</span></p></td></tr><tr><td style="width:205.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">De</span><span style="font-size:12pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:12pt">16 a 30 dias</span></p></td><td style="width:209.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">3</span></p></td></tr><tr><td style="width:205.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">De</span><span style="font-size:12pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:12pt">31 a 45 dias</span></p></td><td style="width:209.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">10</span></p></td></tr><tr><td style="width:205.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">De</span><span style="font-size:12pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:12pt">46 a 60 dias</span></p></td><td style="width:209.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">20</span></p></td></tr><tr><td style="width:205.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">De</span><span style="font-size:12pt; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-size:12pt">61 a 90 dias</span></p></td><td style="width:209.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">30</span></p></td></tr><tr><td style="width:205.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">Acima de 90 dias</span></p></td><td style="width:209.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:12pt">40</span></p></td></tr></tbody></table>
+Dias Transcorridos entre
+
+Vencimento e Pagamento
+
+Multa Aplicável
+
+(%)
+
+Até         15 dias
+
+1
+
+De   16 a 30 dias
+
+3
+
+De   31 a 45 dias
+
+10
+
+De   46 a 60 dias
+
+20
+
+De   61 a 90 dias
+
+30
+
+Acima de 90 dias
+
+40
 
 § 1° A multa de mora, incidente sobre contribuição devida e não recolhida até o último dia útil do décimo segundo mês do vencimento, será acrescida da incidência da variação acumulada do INPC apurada a partir do quinto mês do vencimento até o mês do pagamento.
 

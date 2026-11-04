@@ -1,5 +1,3 @@
-###DEC-096175-0-000-16-06-1988@@@
-
 DECRETO N° 96.175, DE 16 DE JUNHO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, sem benfeitorias, situada no Município e Comarca de Osasco, destinada à instalação de Estação Telefônica da Telecomunicações de São Paulo S.A. - TELESP, e dá outras providências.

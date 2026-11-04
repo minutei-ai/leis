@@ -1,5 +1,3 @@
-###DEC-083465-0-000-21-05-1979@@@
-
 Decreto nº 83.465, de 21 de maio de 1979
 
 Autoriza o funcionamento da Faculdade de Ciências da Administração de Garanhus, com o curso de Administração, com sede na cidade de Garanhus, Estado de Pernambuco.

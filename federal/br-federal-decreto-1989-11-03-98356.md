@@ -1,7 +1,3 @@
-1
-
-###DEC-098356-0-000-03-11-1989@@@
-
 DECRETO Nº 98.356, DE 03 DE NOVEMBRO DE 1989
 
 Ajusta a estrutura básica da Secretaria de Planejamento e Coordenação da Presidência da República às disposições da Lei nº 7.739, de 16 de março de 1989, e dá outras providencias.

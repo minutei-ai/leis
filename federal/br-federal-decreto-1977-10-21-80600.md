@@ -1,5 +1,3 @@
-###DEC-080600-0-000-21-10-1977@@@
-
 DECRETO Nº 80.600, DE 21 DE OUTUBRO DE 1977.
 
 Aprova o Regulamento para o Centro de Análises de Sistemas Navais.

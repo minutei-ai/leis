@@ -1,5 +1,3 @@
-###DEL-008568-0-000-07-01-1946@@@
-
 DECRETO-LEI N. 8.568 – DE 7 DE JANEIRO DE 1946
 
 Prorroga o prazo de que trata o artigo 1º do Decreto-lei nº 3.182, de 9 de abril de 1941, para os estabelecimentos bancários nacionais de depósitos, e dá outras providências.

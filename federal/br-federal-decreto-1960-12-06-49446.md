@@ -1,5 +1,3 @@
-###DEC-049446-0-000-06-12-1960@@@
-
 DECRETO Nº 49.446, DE 6 DE DEZEMBRO DE 1960.
 
 Abre, ao Ministério da Educação e Cultura os créditos especiais de 1.000.000,00 e Cr$500.000,00, ao destinados ao pagamento das subvenções concedidas, respectivamente, à Academia Brasileira de Ciências e ao Instituto do Nordeste, relativas ao exercício de 1957.

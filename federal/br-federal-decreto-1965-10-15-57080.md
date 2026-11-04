@@ -1,5 +1,3 @@
-###DEC-057080-0-000-15-10-1965@@@
-
 DECRETO Nº 57.080, DE 15 DE OUTUBRO DE 1965.
 
 Declara caduco o Decreto nº 1.761, de 30 de novembro de 1962.

@@ -1,5 +1,3 @@
-###DEC-071799-0-000-01-02-1973@@@
-
 DECRETO Nº 71.799, DE 1 DE FEVEREIRO DE 1973
 
 Concede à Mineração Socoimex Ltda. o direito de lavrar minério de ferro no Município de São Gonçalo do Rio Abaixo, Estado de Minas Gerais.

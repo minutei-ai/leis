@@ -1,5 +1,3 @@
-###DEC-084596-0-000-26-03-1980@@@
-
 DECRETO Nº 84.596, DE 26 DE MARÇO DE 1980.
 
 Prorroga o prazo para execução do mapeamento integrado dos recursos naturais do território nacional.

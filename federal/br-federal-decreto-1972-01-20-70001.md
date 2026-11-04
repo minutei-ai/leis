@@ -1,5 +1,3 @@
-###DEC-070001-0-000-20-01-1972@@@
-
 Decreto Nº 70.001, De 20 de Janeiro de 1972.
 
 Declara de utilidade pública o Hospital São Roque, com sede em Cacique Doble, Estado do Rio Grande do Sul.

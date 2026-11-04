@@ -1,5 +1,3 @@
-###DEC-060400-0-000-11-03-1967@@@
-
 DECRETO Nº 60.400, DE 11 DE MARÇO DE 1967.
 
 Concede à Emprêsa Territorial e Construtora “Oásis” Ltda., autorização para funcionar como emprêsa de mineração.

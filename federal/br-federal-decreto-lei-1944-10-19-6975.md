@@ -1,5 +1,3 @@
-###DEL-006975-0-000-19-10-1944@@@
-
 DECRETO-LEI N. 6.975 – DE 19 DE OUTUBRO DE 1944
 
 Transfere gratuitamente à Associação Comercial de São Paulo o terreno que menciona

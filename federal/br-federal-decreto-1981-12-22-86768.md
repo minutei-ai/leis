@@ -1,5 +1,3 @@
-###DEC-086768-0-000-22-12-1981@@@
-
 dECRETO Nº 86.768, DE 22 DE DEZEMBRO DE 1981
 
 Estabelece área de proteção para fonte de água mineral.

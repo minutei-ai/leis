@@ -1,5 +1,3 @@
-###DEL-009449-0-000-12-07-1946@@@
-
 DECRETO-LEI N. 9.449 – DE 12 DE JULHO DE 1946
 
 Modifica o art. 23 e seus parágrafos do Decreto-lei nº 1.985, de 29 de Janeiro de 1940 – Código de Minas.

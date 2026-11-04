@@ -1,5 +1,3 @@
-###DEC-053940-0-000-03-06-1964@@@
-
 Decreto Nº 53.940, DE 3 DE junho DE 1964.
 
 Revoga o Decreto nº 53.533, de 5 de Fevereiro de 1964, que instituiu a Campanha Nacional de Desenvolvimento das Escolas da Comunidade (CANDEC).

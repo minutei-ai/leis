@@ -1,5 +1,3 @@
-###DEC-058945-0-000-01-08-1966@@@
-
 DECRETO Nº 58.945, DE 1 DE AGÔSTO DE 1966.
 
 Concede à “BRAZTYPS” Brasilian Typicals Ltda, autorização para funcionar como emprêsa de mineração.

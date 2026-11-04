@@ -573,7 +573,3 @@ TABELA DE ESCALONAMENTO VERTICAL DOS SOLDOS
 (Art. 5º, Parágrafo Único, da Lei Delegada nº 37, de 13 de janeiro de 1989)
 
 Posto e Graduações Índices Coronel 1.200 Tenente Coronel 1.000 Major 912 Capitão 708 1º Tenente 559 2º Tenente 486 Subtenente 395 1º Sargento 340 2º Sargento 295 3º Sargento 247 Cabo 192 Soldado 1ª Classe 160 Soldado 2ª Classe 82
-
-\============================================================
-
-Data da última atualização: 1º/4/2026.

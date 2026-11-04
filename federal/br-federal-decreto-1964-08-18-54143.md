@@ -1,5 +1,3 @@
-###DEC-054143-0-000-18-08-1964@@@
-
 DECRETO Nº 54.143, DE 18 DE AGÔSTO DE 1964.
 
 Concede à Beneficiadora de Minérios Pequeri Limitada autorização para funcionar como emprêsa de mineração.

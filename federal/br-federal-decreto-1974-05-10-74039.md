@@ -1,5 +1,3 @@
-###DEC-074039-0-000-10-05-1974@@@
-
 DECRETO Nº 74.039, DE 10 DE MAIO DE 1974.
 
 Concede reconhecimentos à Faculdade de Humanidades Pedro II, com os cursos de Letras, Ciências Biológicas, Física, Química, Matemática e Psicologia, com sede na cidade do Rio do Janeiro, Estado da Guanabara.

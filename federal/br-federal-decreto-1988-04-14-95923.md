@@ -1,5 +1,3 @@
-###DEC-095923-0-000-14-04-1988@@@
-
 DECRETO Nº 95.923, DE 14 DE ABRIL DE 1988
 
 Reduz alíquotas do Imposto sobre Produtos Industrializado ( IPI).

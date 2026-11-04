@@ -1,5 +1,3 @@
-###DEL-006630-0-000-27-06-1944@@@
-
 DECRETO-LEI N. 6.630 – DE 27 DE Junho DE 1944
 
 Abre à Coordenação da Mobilização Econômica o crédito especial de Cr$ 3.000.000,00, para auxílio à Fundação Brasil Central

@@ -1,5 +1,3 @@
-###DEC-057721-0-000-02-02-1966@@@
-
 DECRETO Nº 57.721, DE 2 DE FEVEREIRO DE 1966.
 
 Outorga concessão para distribuir energia elétrica.
@@ -41,8 +39,6 @@ Brasília, 2 de fevereiro de 1966; 145º da Independência e 78º da República.
 H. Castello Branco
 
 Mauro Thibau
-
-###DEC-057721-0-000-02-02-1966@@@RET01+++
 
 DECRETO Nº 57.721, de 2 de fevereiro de 1966.
 

@@ -1,5 +1,3 @@
-###DEC-058251-0-000-25-04-1966@@@
-
 DECRETO Nº 58.251, DE 25 DE ABRIL DE 1966.
 
 Altera o valor fixado pelo Decreto número 5.901, de 29 de junho de 1940, para mercadorias que deverão obrigatòriamente pagar seguro contra riscos em transportes.

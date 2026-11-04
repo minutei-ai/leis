@@ -1,5 +1,3 @@
-###DEC-045704-0-000-03-04-1959@@@
-
 DECRETO Nº 45.704, DE 3 DE ABRIL DE 1959.
 
 Autoriza Th. Badin de Minérios Limitada a pesquisar ouro no município de Rio de Contas, Estado da Bahia.

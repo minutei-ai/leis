@@ -1,5 +1,3 @@
-###DEL-007417-0-000-26-03-1945@@@
-
 DECRETO-LEI N. 7.417 – DE 26 DE MARÇO DE 1945
 
 Concede aos extranumerários diaristas e tarefeiros da Prefeitura do Distrito Federal as vantagens relativas a férias e licenças.

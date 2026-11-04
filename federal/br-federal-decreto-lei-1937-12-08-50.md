@@ -1,5 +1,3 @@
-###DEL-000050-0-000-08-12-1937@@@
-
 DECRETO-LEI N. 50 – DE 8 DE DEZEMBRO DE 1937
 
 Abre, pelo Ministério da Fazenda  crédito especial, de,‘3.000:000$000 para cunhagem de moedas auxiliares e divisionérias

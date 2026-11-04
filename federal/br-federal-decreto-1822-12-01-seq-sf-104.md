@@ -1,5 +1,3 @@
-###DEC-000000-0-104-01-12-1822@@@
-
 DECRETO - DO 1º DE DEZEMBRO DE 1822
 
 Crêa a Imperial Ordem do Cruzeiro.

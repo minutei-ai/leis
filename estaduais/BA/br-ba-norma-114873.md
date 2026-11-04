@@ -1,6 +1,7 @@
 LEI Nº 2.102 DE 04 DE JANEIRO DE 1965
 
-Ver também:<br>
+Ver também:
+
 Lei nº [2.295](javascript: openDoc\() , de 14 de janeiro de 1966 - Dispõe sobre empréstimo e pensões do Montepio, altera as Leis nºs. 502 de 27/11/52, [1.035](javascript: openDoc\() , de 14/08/58, [1.535](javascript: openDoc\() , de 25/10/61, [1.646](javascript: openDoc\() , de 19/03/62, [1.936](javascript: openDoc\() de 27/07/63, 2.102, de 04/01/65 e da outras providências.
 
 Eleva para oito milhões de cruzeiros (Cr$8.000.000) o teto dos empréstimos imobiliário do Monte Pio dos Servidores Públicos do Estado da Bahia e dá outras providências.
@@ -39,4 +40,4 @@ Governador
 
 Ivo Braga
 
-* * *
+ *

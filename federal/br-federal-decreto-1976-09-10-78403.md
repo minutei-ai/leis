@@ -1,5 +1,3 @@
-###DEC-078403-0-000-10-09-1976@@@
-
 DECRETO Nº 78.403, DE 10 DE SETEMBRO DE 1976.
 
 Concede à Compagnie Nationale Royal Air Maroc autorização para funcionar no Brasil.

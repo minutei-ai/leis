@@ -1,5 +1,3 @@
-###DEC-089924-0-000-05-07-1984@@@
-
 DECRETO Nº 89.924, DE 05 DE JULHO DE 1984.
 
 Dispõe sobre o montante do Capital Social da FERRITAS MAGNÉTICAS S.A. - FERMAG.

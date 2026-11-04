@@ -1,6 +1,10 @@
 > **LEI Nº 3.901, DE 19 DE JANEIRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Concede à gestante com deficiência auditiva, o direito a um intérprete da Língua Brasileira de Sinais - LIBRAS, para acompanhar a consulta de pré-natal e o trabalho de parto.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Concede à gestante com deficiência auditiva, o direito a um intérprete da Língua Brasileira de Sinais - LIBRAS, para acompanhar a consulta de pré-natal e o trabalho de parto.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

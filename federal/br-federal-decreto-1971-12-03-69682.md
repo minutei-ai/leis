@@ -1,5 +1,3 @@
-###DEC-069682-0-000-03-12-1971@@@
-
 DECRETO Nº 69.682 - DE 3 DE DEZEMBRO DE 1971
 
 Declara de utilidade pública a Associação Missão da Cruz, com sede no Estado da Guanabara.

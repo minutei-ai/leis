@@ -1,5 +1,3 @@
-###DEC-072956-0-000-18-10-1973@@@
-
 Decreto nº 72.956, de 18 de outubro de 1973.
 
 Concede à Mineração Geral do Nordeste S.A. o direito de lavrar areia quartzosa, no Município de Caaporã, Estado da Paraíba.

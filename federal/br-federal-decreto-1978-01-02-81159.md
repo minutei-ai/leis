@@ -1,5 +1,3 @@
-###DEC-081159-0-000-02-01-1978@@@
-
 Decreto n.º 81 159, de 02 de janeiro de 1978.
 
 Concede à Mineração Marino Cesca Ltda. o direito de lavrar fluorista no Município de Pedras Grandes, Estado de Santa Catarina.

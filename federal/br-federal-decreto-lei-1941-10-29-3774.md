@@ -1,5 +1,3 @@
-###DEL-003774-0-000-29-10-1941@@@
-
 DECRETO-LEI N. 3.774 – DE 29 DE OUTUBRO DE 1941
 
 Altera, sem aumento de despesa, o atual orçamento do Conselho de Imigração e Colonização

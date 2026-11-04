@@ -1,5 +1,3 @@
-###DEC-072162-0-000-30-04-1973@@@
-
 DECRETO Nº 72.162, DE 30 DE ABRIL DE 1973.
 
 Cria a Ala 435, extingue o Centro de Instrução de Helicópteros e dá outras providências.

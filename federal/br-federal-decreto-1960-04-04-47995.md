@@ -1,5 +1,3 @@
-###DEC-047995-0-000-04-04-1960@@@
-
 DECRETO Nº 47.995, DE 4 DE ABRIL DE 1960.
 
 Autoriza o Serviço do Patrimônio da União a receber as doações de terrenos, que fazem o Govêrno do Território de Ponta Porã e a Municipalidade da Cidade de Bela Vista, no mesmo Território.

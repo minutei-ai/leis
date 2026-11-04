@@ -1,5 +1,3 @@
-###DEL-003425-0-000-15-07-1941@@@
-
 DECRETO-LEI N. 3.425 – DE 15 DE JULHO DE 1941
 
 Dispõe sobre a nomeação de serventuários da Justiça do Distrito Federal.

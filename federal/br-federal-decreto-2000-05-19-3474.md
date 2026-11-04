@@ -1,5 +1,3 @@
-###DEC-003474-0-000-19-05-2000@@@
-
 DECRETO Nº 3.474, DE 19 DE MAIO DE 2000.
 
 Regulamenta a Lei nº 9.841, de 5 de outubro de 1999, que institui o Estatuto da Microempresa e da Empresa de Pequeno Porte, e dá outras providências.

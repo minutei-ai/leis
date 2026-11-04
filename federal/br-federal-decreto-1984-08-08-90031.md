@@ -1,5 +1,3 @@
-###DEC-090031-0-000-08-08-1984@@@
-
 Decreto nº 90.031, de 08 de agosto de 1984
 
 Altera o Decreto nº 88.207, de 30 de março de 1983, que define prioridades a serem observadas na execução da Política de Reflorestamento, pelo Instituto Brasileiro de Desenvolvimento Florestal - IBDF.

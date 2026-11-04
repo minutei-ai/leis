@@ -1,5 +1,3 @@
-###DEC-090896-0-000-05-02-1985@@@
-
 # DECRETO Nº 90.896, DE 05 DE FEVEREIRO DE 1985.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Guarapuava, no Estado do Paraná.

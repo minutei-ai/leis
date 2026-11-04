@@ -1,5 +1,3 @@
-###DEC-066980-0-000-28-07-1970@@@
-
 decreto nº 66.980, de 28 de julho de 1970.
 
 Altera dispositivos do Regimento do Gabinete Civil da Presidência da República.

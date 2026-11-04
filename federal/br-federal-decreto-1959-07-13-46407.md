@@ -1,5 +1,3 @@
-###DEC-046407-0-000-13-07-1959@@@
-
 DECRETO Nº 46.407, DE 13 DE JULHO DE 1959.
 
 Concede à Emprêsa de Navegação “Brasília” Ltda, autorização para funcionar como emprêsa de navegação de cabotagem.

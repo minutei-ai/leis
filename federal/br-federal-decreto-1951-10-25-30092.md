@@ -1,14 +1,12 @@
-###DEC-030092-0-000-25-10-1951@@@
+**DECRETO Nº 30.092, DE 25 DE OUTUBRO DE 1951.**
 
-<strong>DECRETO Nº 30.092, DE 25 DE OUTUBRO DE 1951.</strong>
+***Modifica a redação da alínea i do art. 3º do Decreto nº 29.829, de 31 de julho de 1951.***
 
-<em><strong>Modifica a redação da alínea i do art. 3º do Decreto nº 29.829, de 31 de julho de 1951.</strong></em>
+**O PRESIDENTE DA REPUBLICA**, usando da atribuição que lhe confere o art. 87, nº I da Constituição,
 
-<strong>O PRESIDENTE DA REPUBLICA</strong>, usando da atribuição que lhe confere o art. 87, nº I da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O art. 1º do Decreto número 29.829, de 31 de julho de 1951, que altera o artigo 3º do Decreto número 29.806, de 25 de julho de 1951, passa a ter a seguinte redação:
+**Art**. 1º O art. 1º do Decreto número 29.829, de 31 de julho de 1951, que altera o artigo 3º do Decreto número 29.806, de 25 de julho de 1951, passa a ter a seguinte redação:
 
 A Comissão será constituída:
 
@@ -30,11 +28,11 @@ h) de dois representantes da Confederação Nacional da Indústria, por esta ind
 
 i) de um representante da Confederação Rural Brasileira.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 25 de outubro de 1951; 130º da Independência e 63º da Republica.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Francisco Negrão de Lima
 

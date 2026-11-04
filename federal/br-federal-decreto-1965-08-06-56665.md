@@ -1,5 +1,3 @@
-###DEC-056665-0-000-06-08-1965@@@
-
 DECRETO Nº 56.665, de 6 de agôsto de 1965.
 
 Outorgada à Emprêsa Elétrica de Itabaiana Ltda. concessão para distribuir energia elétrica no Município de Itabaiana, Estados de Sergipe.

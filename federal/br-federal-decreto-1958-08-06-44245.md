@@ -1,14 +1,12 @@
-###DEC-044245-0-000-06-08-1958@@@
+**DECRETO Nº 44.245, DE 6 DE AGÔSTO DE 1958.**
 
-<strong>DECRETO Nº 44.245, DE 6 DE AGÔSTO DE 1958.</strong>
+***Cria funções gratificadas no Serviço Social Rural altera o Decreto número 43.638, de 3 de maio de 1958, e dá outras providências.***
 
-<em><strong>Cria funções gratificadas no Serviço Social Rural altera o Decreto número 43.638, de 3 de maio de 1958, e dá outras providências.</strong></em>
+O **PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e tendo em vista o disposto no § 1º do art. 19 da Lei nº 1.765, de 18 de dezembro de 1952,
 
-O <strong>PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e tendo em vista o disposto no § 1º do art. 19 da Lei nº 1.765, de 18 de dezembro de 1952,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam criadas as funções gratificadas abaixo discriminadas, com os respectivos símbolos, que integrarão o Quadro de Pessoal do Serviço Social Rural (S.S.R.), a que se refere a Lei nº 2.613, de 23 de setembro de 1955:
+**Art**. 1º Ficam criadas as funções gratificadas abaixo discriminadas, com os respectivos símbolos, que integrarão o Quadro de Pessoal do Serviço Social Rural (S.S.R.), a que se refere a Lei nº 2.613, de 23 de setembro de 1955:
 
 Símbolo FG-1
 
@@ -124,18 +122,18 @@ Símbolo FG-7
 
 1 - Chefe da Turma de Documentação Municipal do Serviço de Documentação e Divulgação (T.D.M.).
 
-<strong>Art</strong>. 2º Ficam classificados no Símbolo CC-4 os cargos isolados, de provimento em comissão, de Chefe do Serviço de Estatística e de Chefe do Serviço de Documentação e Divulgação e no Símbolo CC-7, os cargos isolados, de provimento em comissão, de Secretário do Presidente e de Secretário do Conselho Nacional, todos constantes do Decreto nº 43.638, de 3 de maio de 1958.
+**Art**. 2º Ficam classificados no Símbolo CC-4 os cargos isolados, de provimento em comissão, de Chefe do Serviço de Estatística e de Chefe do Serviço de Documentação e Divulgação e no Símbolo CC-7, os cargos isolados, de provimento em comissão, de Secretário do Presidente e de Secretário do Conselho Nacional, todos constantes do Decreto nº 43.638, de 3 de maio de 1958.
 
-<strong>Art</strong>. 3º Ficam criados os cargos isolados, de provimento em comissão, de Assessor da Presidência e de Assessor do Diretor-Geral do Departamento Técnico Administrativo Símbolo OC, os quais passarão a integrar o Quadro de Pessoal aprovado pelo Decreto nº 43.638, de 3 de maio de 1958.
+**Art**. 3º Ficam criados os cargos isolados, de provimento em comissão, de Assessor da Presidência e de Assessor do Diretor-Geral do Departamento Técnico Administrativo Símbolo OC, os quais passarão a integrar o Quadro de Pessoal aprovado pelo Decreto nº 43.638, de 3 de maio de 1958.
 
-<strong>Art</strong>. 4º A despesa com a execução dêste decreto correrá à conta da dotação orçamentária própria.
+**Art**. 4º A despesa com a execução dêste decreto correrá à conta da dotação orçamentária própria.
 
-<strong>Art</strong>. 5º Êste decreto entrará em vigor na data de sua publicação.
+**Art**. 5º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 6º Revogam-se as disposições em contrário.
+**Art**. 6º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 6 de agôsto de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Paulo Fróes da Cruz

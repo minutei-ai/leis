@@ -1,7 +1,3 @@
-1
-
-###DEC-001536-0-000-27-06-1995@@@
-
 DECRETO Nº 1.536, DE 27 DE JUNHO DE 1995.
 
 Altera a denominação do cargo em comissão que menciona.

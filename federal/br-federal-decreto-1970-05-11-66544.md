@@ -1,5 +1,3 @@
-###DEC-066544-0-000-11-05-1970@@@
-
 DECRETO Nº 66.544, DE 11 DE MAIO DE 1970
 
 Dispõe sôbre a composição do Conselho Federal de Educação.

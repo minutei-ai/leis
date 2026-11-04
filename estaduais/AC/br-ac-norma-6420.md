@@ -1,6 +1,10 @@
 > **LEI Nº 4.575, DE 24 DE MARÇO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui a Criação do Selo Salão de Beleza Amigo de Pacientes em Tratamento de Câncer.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui a Criação do Selo Salão de Beleza Amigo de Pacientes em Tratamento de Câncer.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

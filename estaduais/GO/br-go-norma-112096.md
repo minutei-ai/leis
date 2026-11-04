@@ -16,24 +16,284 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>4200 - SECRETARIA DE ESTADO DA RETOMADA</b><br>4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE EVENTOS DE PROMOÇÃO DA ECONOMIA</td><td style=" width:85px;    ">11 691 1054 3254</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">40</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 823.063,71</td><td style=" width:85px;    ">R$ 2.792.492,25</td><td style=" width:85px;    ">R$ 3.615.555,96</td></tr></tbody></table>
+**4200 - SECRETARIA DE ESTADO DA RETOMADA**
+4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 2.792.492,25</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 2.792.492,25</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+REALIZAÇÃO DE EVENTOS DE PROMOÇÃO DA ECONOMIA
+
+11 691 1054 3254
+
+15000100
+
+40
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 823.063,71
+
+R$ 2.792.492,25
+
+R$ 3.615.555,96
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 2.792.492,25
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 2.792.492,25
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>4200 - SECRETARIA DE ESTADO DA RETOMADA</b><br>4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">ATENDIMENTO AO ARTESÃO</td><td style=" width:85px;    ">11 334 1054 2445</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 193.431,92</td><td style=" width:85px;    ">R$ 164.069,52</td><td style=" width:85px;    ">R$ 164.069,52</td></tr><tr><td style=" width:85px;    ">FOMENTO A ARRANJOS PRODUTIVOS LOCAIS - APL'S</td><td style=" width:85px;    ">11 334 1054 2448</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 242.931,75</td><td style=" width:85px;    ">R$ 242.931,75</td><td style=" width:85px;    ">R$ 242.931,75</td></tr><tr><td style=" width:85px;    ">FOMENTO DE COOPERATIVA - RECICLA GOIÁS</td><td style=" width:85px;    ">11 334 1054 2447</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 168.740,00</td><td style=" width:85px;    ">R$ 168.740,00</td><td style=" width:85px;    ">R$ 168.740,00</td></tr><tr><td style=" width:85px;    ">CERTIFICAÇÃO EM QUALIFICAÇÃO PROFISSIONAL</td><td style=" width:85px;    ">12 363 1054 2443</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">04 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 50.000,00</td><td style=" width:85px;    ">R$ 50.000,00</td><td style=" width:85px;    ">R$ 50.000,00</td></tr><tr><td style=" width:85px;    ">ASSESSORIA DE COOPERATIVA PELA RETOMADA</td><td style=" width:85px;    ">11 334 1054 2446</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 200.000,00</td><td style=" width:85px;    ">R$ 200.000,00</td><td style=" width:85px;    ">R$ 200.000,00</td></tr><tr><td style=" width:85px;    ">OFERTA DE VAGAS DE EMPREGO - MAIS EMPREGO</td><td style=" width:85px;    ">11 333 1054 2450</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">CONCESSÃO DE CRÉDITO - MAIS CRÉDITO</td><td style=" width:85px;    ">11 334 1054 3255</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">5 - INVERSÕES FINANCEIRAS</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">OFERTA DE VAGAS DE EMPREGO - MAIS EMPREGO</td><td style=" width:85px;    ">11 333 1054 2450</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 340.200,00</td><td style=" width:85px;    ">R$ 340.200,00</td><td style=" width:85px;    ">R$ 340.200,00</td></tr><tr><td style=" width:85px;    ">INSERÇÃO / REINSERÇÃO DE TRABALHADOR &nbsp;NO MERCADO DE TRABALHO</td><td style=" width:85px;    ">11 334 1054 2449</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">04 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">91</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 516.531,00</td><td style=" width:85px;    ">R$ 516.531,00</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">04 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.451.503,63</td><td style=" width:85px;    ">R$ 1.070.019,98</td><td style=" width:85px;    ">R$ 1.070.019,98</td></tr></tbody></table>
+**4200 - SECRETARIA DE ESTADO DA RETOMADA**
+4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 2.792.492,25</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 2.792.492,25</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 2.792.492,25</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 2.792.492,25</td></tr></tbody></table>
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+ATENDIMENTO AO ARTESÃO
+
+11 334 1054 2445
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 193.431,92
+
+R$ 164.069,52
+
+R$ 164.069,52
+
+FOMENTO A ARRANJOS PRODUTIVOS LOCAIS - APL'S
+
+11 334 1054 2448
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 242.931,75
+
+R$ 242.931,75
+
+R$ 242.931,75
+
+FOMENTO DE COOPERATIVA - RECICLA GOIÁS
+
+11 334 1054 2447
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 168.740,00
+
+R$ 168.740,00
+
+R$ 168.740,00
+
+CERTIFICAÇÃO EM QUALIFICAÇÃO PROFISSIONAL
+
+12 363 1054 2443
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+04 122 4200 4243
+
+15000100
+
+50
+
+4 - INVESTIMENTOS
+
+R$ 50.000,00
+
+R$ 50.000,00
+
+R$ 50.000,00
+
+ASSESSORIA DE COOPERATIVA PELA RETOMADA
+
+11 334 1054 2446
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 200.000,00
+
+R$ 200.000,00
+
+R$ 200.000,00
+
+OFERTA DE VAGAS DE EMPREGO - MAIS EMPREGO
+
+11 333 1054 2450
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+CONCESSÃO DE CRÉDITO - MAIS CRÉDITO
+
+11 334 1054 3255
+
+15000100
+
+90
+
+5 - INVERSÕES FINANCEIRAS
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+OFERTA DE VAGAS DE EMPREGO - MAIS EMPREGO
+
+11 333 1054 2450
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 340.200,00
+
+R$ 340.200,00
+
+R$ 340.200,00
+
+INSERÇÃO / REINSERÇÃO DE TRABALHADOR  NO MERCADO DE TRABALHO
+
+11 334 1054 2449
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+04 122 4200 4243
+
+15000100
+
+91
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 516.531,00
+
+R$ 516.531,00
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+04 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.451.503,63
+
+R$ 1.070.019,98
+
+R$ 1.070.019,98
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 2.792.492,25
+
+**TOTAL**
+
+R$ 2.792.492,25
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 2.792.492,25
+
+**TOTAL**
+
+R$ 2.792.492,25

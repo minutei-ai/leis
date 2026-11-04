@@ -1,5 +1,3 @@
-###DEC-058337-0-000-03-05-1966@@@
-
 DECRETO Nº 58.337, DE 3 DE MAIO DE 1966.
 
 Outorga concessão.

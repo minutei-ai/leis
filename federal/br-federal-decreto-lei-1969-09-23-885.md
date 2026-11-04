@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/65b98494-0ed5-4e0c-8d70-c73194c9b15e/texto#nowhere)
 
-###DEL-000885-0-000-23-09-1969@@@
-
 DECRETO-LEI Nº 885, DE 23 DE SETEMBRO DE 1969
 
 Cria e classifica cargo em comissão no Quadro de Pessoal - Parte Permanente do Ministério  da Aeronáutica.

@@ -1,5 +1,3 @@
-###DEC-062181-0-000-29-01-1968@@@
-
 DECRETO Nº 62.181, DE 29 DE JANEIRO DE 1968.
 
 Altera dispositivos do Regimento do Conselho Federal de Educação.

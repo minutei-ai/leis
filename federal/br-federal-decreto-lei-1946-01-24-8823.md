@@ -1,5 +1,3 @@
-###DEL-008823-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.823 – DE 24 DE JANEIRO DE 1946
 
 Altera os Quadros Permanente e Suplementar do Ministério da Educação e Saúde e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-051644-0-000-26-12-1962@@@
-
 decreto nº 51.644, de 26 de dezembro de 1962.
 
 Cria funções gratificadas no Quadro de Pessoal do Ministério da Justiça e Negócios Interiores.

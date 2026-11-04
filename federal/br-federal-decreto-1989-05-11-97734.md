@@ -1,7 +1,3 @@
-1
-
-###DEC-097734-0-000-11-05-1989@@@
-
 DECRETO N° 97.734, DE 11 DE MAIO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, parte do imóvel rural denominado “SERINGAL PORTO RICO”, classificado como “latifúndio por exploração”, situado no Município de Xapuri, no Estado do Acre, compreendido na zona prioritária, fixada pelo Decreto n° 92.676, de 19 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-009070-0-000-15-03-1946@@@
-
 DECRETO-LEI N. 9.070 – DE 15 DE MARÇO DE 1946
 
 Dispõe sôbre a suspensão ou abandono coletivo do trabalho e dá outras providências.

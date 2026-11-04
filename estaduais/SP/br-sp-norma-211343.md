@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211343)<br>
-
 # LEI N° 18.180, DE 21 DE AGOSTO DE 2025
 
 ## (Projeto de lei n° 245/2021, do Deputado Edson Giriboni - PV)

@@ -1,5 +1,3 @@
-###DEL-004667-0-000-08-09-1942@@@
-
 DECRETO-LEI N. 4.667 – DE 8 DE SETEMBRO DE 1942
 
 Dispõe sobre o tempo de serviço prestado como diretor de estabelecimento de ensino para efeito de concessão de gratificação de magistério

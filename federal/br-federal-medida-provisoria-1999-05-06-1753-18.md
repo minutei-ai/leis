@@ -1,5 +1,3 @@
-###MPV-001753-0-018-06-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.753-18, DE 6 DE MAIO DE 1999
 
 Altera a legislação do imposto de renda relativamente à incidência na fonte sobre rendimentos de aplicações financeiras, inclusive de beneficiários residentes ou domiciliados no exterior, à conversão, em. capital social, de obrigações no exterior de pessoas Jurídicas domiciliadas no País, amplia as hipóteses dê opção, pelas pessoas físicas, pelo desconto simplificado, regula a informação, na declaração de rendimentos, de depósitos mantidos em bancos no exterior, e dá outras providências.

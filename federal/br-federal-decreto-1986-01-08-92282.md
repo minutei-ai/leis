@@ -1,5 +1,3 @@
-###DEC-092282-0-000-08-01-1986@@@
-
 DECRETO Nº 92.282, DE 08 DE JANEIRO DE 1986
 
 Estabelece a aplicação dos regimes de autorização de Pesquisa e Concessão de Lavra para o aproveitamento de substâncias minerais da Classe II, em áreas situadas nos Municípios de São Félix e Cachoeira, no Estado da Bahia, e dá outras providências.

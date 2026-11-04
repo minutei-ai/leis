@@ -1,6 +1,10 @@
 > **LEI Nº 4.557, DE 24 DE MARÇO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui a obrigatoriedade da facilitação para realização de aferição de glicemia regular em crianças a partir de três anos de idade, atendidas pelas redes públicas e privadas de saúde no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui a obrigatoriedade da facilitação para realização de aferição de glicemia regular em crianças a partir de três anos de idade, atendidas pelas redes públicas e privadas de saúde no Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

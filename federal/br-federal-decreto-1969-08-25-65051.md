@@ -1,5 +1,3 @@
-###DEC-065051-0-000-25-08-1969@@@
-
 DECRETO Nº 65.051 - DE 25 DE AGÔSTO DE 1969.
 
 Declara de utilidade pública o Hospital e Maternidade São Francisco de Assis, com sede em Paraguaçu - Estado de Minas Gerais.

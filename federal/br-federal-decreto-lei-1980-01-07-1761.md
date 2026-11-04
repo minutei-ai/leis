@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/c02daa12-1586-4a4d-b553-78e4228f0052/texto#nowhere)
 
-###DEL-001761-0-000-07-01-1980@@@
-
 # dECRETO-LEI Nº 1.761, DE 7 DE JaNEIro de 1980
 
 Reajusta os vencimentos e proventos dos funcionários da Secretaria do Tribunal Superior Eleitoral, e dá outras providências.
@@ -22,7 +20,23 @@ Art. 2º - Em decorrência do disposto no artigo anterior, os vencimentos dos ca
 
 Art. 3º - A estrutura salarial da Categoria Funcional de Taquígrafo Judiciário, Código TSE-AJ-022, do Grupo Apoio Judiciário, constante do Anexo ao Decreto-Lei nº 1.459, de 19 de abril de 1976, passa a ser a seguinte:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:131.25pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Categoria Funcional</span></p></td><td style="width:131.25pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Código</span></p></td><td style="width:131.25pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Referências de Vencimentos</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Classe Especial de 54 a 57</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Taquígrafo Judiciário</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>TSE-AJ-022</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Classe C de 49 a 53</span></p></td></tr><tr><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:131.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Classe B de 44 a 48</span></p></td></tr><tr><td style="width:131.25pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:131.25pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:131.25pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Classe A de 39 a 43</span></p></td></tr></tbody></table>
+Categoria Funcional
+
+Código
+
+Referências de Vencimentos
+
+Classe Especial de 54 a 57
+
+Taquígrafo Judiciário
+
+TSE-AJ-022
+
+Classe C de 49 a 53
+
+Classe B de 44 a 48
+
+Classe A de 39 a 43
 
 Art. 4º - O salário-família dos funcionários ativos e inativos do Tribunal Superior Eleitoral, passa a ser pago na importância de Cr$150,00 (cento e cinquenta cruzeiros) por dependente, a partir de 1º de janeiro de 1980.
 

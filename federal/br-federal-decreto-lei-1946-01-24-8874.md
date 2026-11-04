@@ -1,5 +1,3 @@
-###DEL-008874-0-000-24-01-1946@@@
-
 DECRETO N. 8.874 – DE 24 DE JANEIRO DE 1946
 
 Abre o crédito suplementar ao Ministério da Educação e Saúde.

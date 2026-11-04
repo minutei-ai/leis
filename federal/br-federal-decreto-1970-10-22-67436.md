@@ -1,5 +1,3 @@
-###DEC-067436-0-000-22-10-1970@@@
-
 DECRETO Nº 67.436, DE 22 DE OUTUBRO DE 1970.
 
 Redistribuí, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Conselho Nacional de Pesquisas, cargos originários da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal.

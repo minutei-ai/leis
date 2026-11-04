@@ -1,5 +1,3 @@
-###DEC-090748-0-000-20-12-1984@@@
-
 Decreto nº 90.748, de 20 de dezembro de 1984
 
 Outorga concessão à TELEVISÃO CABO BRANCO LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de João Pessoa, Estado da Paraíba.

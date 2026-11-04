@@ -1,5 +1,3 @@
-###DEC-072419-0-000-02-07-1973@@@
-
 DECRETO Nº 72.419, DE 2 DE JULHO DE 1973.
 
 Reintegra Telmo Vargas no cargo de Tesoureiro-Auxiliar do Ministério das Comunicações, e dá outras providências.

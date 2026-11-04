@@ -1,5 +1,3 @@
-###DEC-055159-0-000-04-12-1964@@@
-
 DECRETO Nº 55.159, DE 4 DE DEZEMBRO DE 1964.
 
 Decreta a intervenção na Companhia Nacional de Navegação Costeira.

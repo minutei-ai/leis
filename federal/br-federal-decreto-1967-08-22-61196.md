@@ -1,5 +1,3 @@
-###DEC-061196-0-000-22-08-1967@@@
-
 DECRETO Nº 61.196, DE 22 DE AGÔSTO DE 1967.
 
 Declara de utilidade pública a “Campanha Ajude uma Criança a Estudar”, com sede no Estado da Guanabara.

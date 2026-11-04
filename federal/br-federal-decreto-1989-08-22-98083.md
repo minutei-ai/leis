@@ -1,7 +1,3 @@
-1
-
-###DEC-098083-0-000-22-08-1989@@@
-
 DECRETO N.º 98.083, DE 22 DE AGOSTO DE 1989
 
 Declara de interesse social para fins de reforma agrária, o imóvel rural denominado “FAXINAL DOS SILVÉRIOS”, classificado como latifúndio por exploração, situado no Município de Pinhão, Estado do Paraná, compreendido na zona prioritária fixada pelo Decreto nº 92.622, de 2 de maio de 1986, e dá outras providencias.

@@ -1,6 +1,10 @@
 > **LEI Nº 3.727, DE 13 DE ABRIL DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre as obrigações dos clubes profissionais e escolinhas de futebol, sediados no Estado do Acre, que possuam atletas menores de 18 (dezoito) anos, de assegurar e de cobrar o pleno exercício escolar destes menores na forma que menciona.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre as obrigações dos clubes profissionais e escolinhas de futebol, sediados no Estado do Acre, que possuam atletas menores de 18 (dezoito) anos, de assegurar e de cobrar o pleno exercício escolar destes menores na forma que menciona.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,10 +1,8 @@
-###DEC-022444-0-000-14-01-1947@@@
+**DECRETO N.º 22.444, DE 14 DE JANEIRO DE 1947.**
 
-<strong>DECRETO N.º 22.444, DE 14 DE JANEIRO DE 1947.</strong>
+***Autoriza o Prefeito do Distrito Federal a fazer as operações de crédito que se tornarem necessárias para executar as obras complementares do plano de realizações urbanísticas e dá outras providências.***
 
-<em><strong>Autoriza o Prefeito do Distrito Federal a fazer as operações de crédito que se tornarem necessárias para executar as obras complementares do plano de realizações urbanísticas e dá outras providências.</strong></em>
-
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA:</strong>
+**OPRESIDENTE DA REPÚBLICA:**
 
 CONSIDERANDO que é indispensável prosseguir na execução do plano de realizações urbanísticas já aprovado e parcialmente empreendido pela Prefeitura do Distrito Federal;
 
@@ -14,9 +12,9 @@ CONSIDERANDO que não será possível, em face do vulto das realizações planej
 
 Usando da atribuição que lhe confere o art. 12 do Ato das Disposições Constituicionais Transitórias,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1.º Fica a Prefeitura do Distrito Federal autorizada a fazer, dentro do prazo de quatro anos, contado desta data e sob garantia de bens e direitos que lhe pertençam ou venham a lhe pertencer e que se encontram livres ou venham a ser liberados, as operações de crédito que se tornarem necessárias para executar as obras complementares do plano de realizações urbanísticas já aprovado e parcialmente executado e outras que venham a ser aprovadas pelo Prefeito e de que resultem a valorização urbana, o descongestionamento das vias públicas, o encurtamento das distâncias de penetração para os arrabaldes e da comunicação entre êles, a solução dos problemas do abastecimento dágua, das enchentes, da limpeza urbana, do destino final do lixo, da assistência educacional e hospitalar e a instalação convenientemente aparelhada dos diferentes órgãos e serviços da administração municipal.
+**Art**. 1.º Fica a Prefeitura do Distrito Federal autorizada a fazer, dentro do prazo de quatro anos, contado desta data e sob garantia de bens e direitos que lhe pertençam ou venham a lhe pertencer e que se encontram livres ou venham a ser liberados, as operações de crédito que se tornarem necessárias para executar as obras complementares do plano de realizações urbanísticas já aprovado e parcialmente executado e outras que venham a ser aprovadas pelo Prefeito e de que resultem a valorização urbana, o descongestionamento das vias públicas, o encurtamento das distâncias de penetração para os arrabaldes e da comunicação entre êles, a solução dos problemas do abastecimento dágua, das enchentes, da limpeza urbana, do destino final do lixo, da assistência educacional e hospitalar e a instalação convenientemente aparelhada dos diferentes órgãos e serviços da administração municipal.
 
 § 1.º Nas providências a pôr em prática para executar o plano de realizações indicado nesta artigo, deverão ficar compreendidas:
 
@@ -40,12 +38,12 @@ i)        a execução de obras e providências complementares e supletiv
 
 § 2.º O Prefeito do Distrito Federal fará as desapropriações que se tornarem necessárias para a realização das providências constantes do § 1.º.
 
-<strong>Art</strong>. 2.º Esta Lei entrará em vigor na data de sua publicação.
+**Art**. 2.º Esta Lei entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3.º Revogam-se as disposições em contrário.
+**Art**. 3.º Revogam-se as disposições em contrário.
 
 Rio de Janeiro,  14 de janeiro de 1947, 126.º da Independência e 59.º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Benedito Costa Netto

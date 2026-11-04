@@ -1,5 +1,3 @@
-###DEC-006073-0-000-03-04-2007@@@
-
 DECRETO Nº 6.073, DE 3 DE ABRIL DE 2007.
 
 Dá nova redação aos arts. 1º e 2º do Decreto nº 5.062, de 30 de abril de 2004, que fixa coeficiente para redução das alíquotas específicas do PIS/PASEP e da COFINS de que tratam o arts. 51 e 52 da Lei nº 10.833, de 29 de dezembro de 2003.
@@ -37,5 +35,3 @@ Brasília,  3 de  abril   de 2007; 186º da Independência e 119º da Repúb
 LUIZ INÁCIO LULA DA SILVA
 
 Bernard Appy
-
-Este texto não substitui o publicado no DOU de 4.4.2007

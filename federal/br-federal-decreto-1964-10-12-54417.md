@@ -1,5 +1,3 @@
-###DEC-054417-0-000-12-10-1964@@@
-
 DECRETO Nº 54.417, DE 12 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Elpídio Celso de Abreu rosa a pesquisar quartzo, no município de Morro do Pilar, Estado de Minas Gerais.

@@ -1,36 +1,34 @@
-###DEC-020283-0-000-28-12-1945@@@
+**DECRETO Nº 20.283, DE 28 DE DEZEMBRO DE 1945.**
 
-<strong>DECRETO Nº 20.283, DE 28 DE DEZEMBRO DE 1945.</strong>
+***Aprova o Regimento do Departamento Nacional de Iluminação e Gás do Ministério da Viação e Obras Públicas.***
 
-<em><strong>Aprova o Regimento do Departamento Nacional de Iluminação e Gás do Ministério da Viação e Obras Públicas.</strong></em>
+**O PRESIDENTE DA REPÚBLICA,** usando da atribuição que lhe confere o artigo 74, alínea *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA,</strong> usando da atribuição que lhe confere o artigo 74, alínea <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Departamento Nacional de Iluminação e Gás (D.N.I.G) assinado pelo Ministro da Aviação e Obras Públicas e que acompanha o presente decreto.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Departamento Nacional de Iluminação e Gás (D.N.I.G) assinado pelo Ministro da Aviação e Obras Públicas e que acompanha o presente decreto.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 28 de Dezembro de 1945; 124º da Independência e 57º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Mauricio Joppert da Silva
 
-<strong>REGIMENTO DO DEPARTAMENTO NACIONAL DE ILUMINAÇÃO A GÁS</strong>
+**REGIMENTO DO DEPARTAMENTO NACIONAL DE ILUMINAÇÃO A GÁS**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º O Departamento Nacional de Iluminação e Gás (D. N. I. G.), órgão integrante do Ministério da Viação e Obras Públicas, diretamente subordinando ao Ministro de Estado tem por finalidade promover orientar e instruir tôdas as questões relativas à iluminação pública e particular, produção e distribuição do gás combustível.
+**Art**. 1º O Departamento Nacional de Iluminação e Gás (D. N. I. G.), órgão integrante do Ministério da Viação e Obras Públicas, diretamente subordinando ao Ministro de Estado tem por finalidade promover orientar e instruir tôdas as questões relativas à iluminação pública e particular, produção e distribuição do gás combustível.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º O.D. N. I. G. compõe-se dos seguintes órgãos:
+**Art**. 2º O.D. N. I. G. compõe-se dos seguintes órgãos:
 
 Divisão de Iluminação Pública (D. I. P.).
 
@@ -42,33 +40,33 @@ Divisão de Laboratório Central (D. L. C.).
 
 Serviço de Administração (S. A.).
 
-<strong>Art</strong>. 3º O D. N. I. G. terá um Diretor Geral nomeado, em comissão, pelo Presidente da República e escolhido dentre engenheiros de comprovados conhecimentos em assunto das especializações do Departamento.
+**Art**. 3º O D. N. I. G. terá um Diretor Geral nomeado, em comissão, pelo Presidente da República e escolhido dentre engenheiros de comprovados conhecimentos em assunto das especializações do Departamento.
 
-<strong>Art</strong>. 4º As Divisões terão Diretores nomeados em comissão pelo Presidente da República, por indicação do Diretor Geral, e cujas funções só poderão ser desempenhadas por técnicos com conhecimento em assuntos das respectivas especializações.
+**Art**. 4º As Divisões terão Diretores nomeados em comissão pelo Presidente da República, por indicação do Diretor Geral, e cujas funções só poderão ser desempenhadas por técnicos com conhecimento em assuntos das respectivas especializações.
 
-<strong>Art</strong>. 5º As Seções das Divisões serão chefiadas por funcionários lotados no D. N. I. G. e designados pelo Diretor Geral, mediante indicação do respectivo Diretor da Divisão.
+**Art**. 5º As Seções das Divisões serão chefiadas por funcionários lotados no D. N. I. G. e designados pelo Diretor Geral, mediante indicação do respectivo Diretor da Divisão.
 
-<strong>Art</strong>. 6º O S.A. terá um chefe, escolhido dentre funcionários lotados no D. N. I. G. designado pelo Ministro de Estado da Viação e Obras Públicas, mediante indicação do Diretor Geral.
+**Art**. 6º O S.A. terá um chefe, escolhido dentre funcionários lotados no D. N. I. G. designado pelo Ministro de Estado da Viação e Obras Públicas, mediante indicação do Diretor Geral.
 
-<strong>Art</strong>. 7º As Seções, o Arquivo, a Biblioteca e a Portaria do S.A. terão chefes, escolhidos dentre os funcionários lotados no D. N. I. G. designados pelo Diretor Geral, mediante proposta do Chefe do S.A.
+**Art**. 7º As Seções, o Arquivo, a Biblioteca e a Portaria do S.A. terão chefes, escolhidos dentre os funcionários lotados no D. N. I. G. designados pelo Diretor Geral, mediante proposta do Chefe do S.A.
 
-<strong>Art</strong>. 8º O Diretor Geral terá secretário por êle designado.
+**Art**. 8º O Diretor Geral terá secretário por êle designado.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPOSIÇÃO E COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPOSIÇÃO E COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Da D. I. P.</em>
+*Da D. I. P.*
 
-<strong>Art</strong>. 9º A.D.I.P. compreende:
+**Art**. 9º A.D.I.P. compreende:
 
 Seção de Serviços de Fiscalização e Informações. (S. F. I).
 
 Seção de Projetos (S. P.).
 
-<strong>Art</strong>. 10 A S. F. I. compete:
+**Art**. 10 A S. F. I. compete:
 
 a) Fiscalizar a iluminação pública do Distrito Federal.
 
@@ -80,7 +78,7 @@ d) Manter um serviço de estatística relativa às questões de iluminação, n�
 
 e) Organizar e manter um museu de iluminação pública com finalidade educativa, exposto ao público segundo horário fixado pelo Diretor Geral.
 
-<strong>Art</strong>. 11 - À S. P. compete:
+**Art**. 11 - À S. P. compete:
 
 a) Estudar e projetar a iluminação pública do Distrito Federal.
 
@@ -90,17 +88,17 @@ c) Executar os desenhos relativos a projetos de iluminação e outros que digam 
 
 d) Estudar e projetar, em colaboração com as repartições públicas federais e os Govêrnos Estaduais ou Municipais todas as questões relativas à iluminação de estradas, cidades, edifícios e logradouros públicos.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Da D. I. E.</em> compreende<em>:</em>
+*Da D. I. E.* compreende*:*
 
-<strong>Art</strong>. 12 - A D. I. E compreende:
+**Art**. 12 - A D. I. E compreende:
 
 Seção de Instalações Elétricas Particulares (S. I. E. P.).
 
 Seção de Aferição de Medidores (S. A. M.).
 
-<strong>Art</strong>. 13 - À S. I. E. P. compete:
+**Art**. 13 - À S. I. E. P. compete:
 
 a) Fiscalizar a boa execução dos contratos para o fornecimento de energia elétrica do Distrito Federal.
 
@@ -128,21 +126,21 @@ l) Aplicar multas em casos de transgressões das disposições contratuais ou re
 
 m) Aplicar multas às emprêsas ou casas comerciais que fabricarem ou expuserem à venda material não aprovado.
 
-<strong>Art</strong>. 14 - À S. A. M. compete:
+**Art**. 14 - À S. A. M. compete:
 
 Proceder à aferição e selagem dos medidores elétricos a serem colocados nas residências dos consumidores.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Da D. G.</em>
+*Da D. G.*
 
-<strong>Art</strong>. 15 - A D. G. compreende
+**Art**. 15 - A D. G. compreende
 
 Seção de Instalações Particulares (S. I. P.).
 
 Seção de Aferição de Medidores (S. A. M).
 
-<strong>Art</strong>. 16 À S. I. P. compete:
+**Art**. 16 À S. I. P. compete:
 
 a) Fiscalizar a execução dos contratos relativos aos serviços de produção e distribuirão do gás no Distrito Federal.
 
@@ -166,15 +164,15 @@ j) Organizar instruções para vulgarização dos melhores preceitos práticos d
 
 k) Aplicar multas em casos de transgressões das disposições contratuais ou regulamentares e expedir guias para cobrança de taxas estabelecidas para aferição e exame de materiais, aparelhos e instalações.
 
-<strong>Art</strong>. 17 - À S. A. M. compete:
+**Art**. 17 - À S. A. M. compete:
 
 Proceder à aferição e selagem dos medidores de gás combustível a serem colocados nas residências dos consumidores.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Da D. L. C</em>
+*Da D. L. C*
 
-<strong>Art</strong>. 18 - À D. L. C. compete:
+**Art**. 18 - À D. L. C. compete:
 
 a) Proceder à todos os trabalhos de pesquisa, ensaios e estudos sôbre luminotécnica em geral e em particular sôbre iluminação pública, inclusive a determinação da altura de postes, seus tipos, espaçamento, intensidade luminosa de lâmpadas, efeitos de iluminação sôbre diferentes naturezas de calçamento, tipos de construção, etc.
 
@@ -196,11 +194,11 @@ i) Estudar especialmente os combustíveis nacionais suscetíveis de produzirem g
 
 j) Proceder, de acôrdo com as determinações das autoridades militares, aos estudos de recuperação e purificação dos subprodutos da destilação da hulha, de modo a poderem os mesmos ser aproveitados pelas industrias diretamente ligadas à defesa do país.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>Do S. A.</em>
+*Do S. A.*
 
-<strong>Art</strong>. 19 - O S. A. compreende:
+**Art**. 19 - O S. A. compreende:
 
 Seção de Expediente (S. E.)
 
@@ -216,7 +214,7 @@ Biblioteca (P.)
 
 Portaria (P.)
 
-<strong>Art</strong>. 20 - À S. E. compete:
+**Art**. 20 - À S. E. compete:
 
 a) organizar as propostas orçamentárias, tomando por base o programa dos trabalhos aprovados pelo Diretor Geral e os estudos parciais, quanto ao pessoal e ao material, realizados pelas seções competentes.
 
@@ -240,9 +238,9 @@ j) colher, de acôrdo com as Divisões técnicas, dados para o relatório anual 
 
 k) providenciar sôbre tôdo o expediente normal do D. N. I. G., a ser assinado pelo Diretor Geral.
 
-l) promover a publicação no <em>Diário</em> <em>Oficial</em> dos atos e decisões relativos às atividades do D. N. I. G.
+l) promover a publicação no *DiárioOficial* dos atos e decisões relativos às atividades do D. N. I. G.
 
-<strong>Art</strong>. 21 - À S. P. compete:
+**Art**. 21 - À S. P. compete:
 
 a) encaminhar à Divisão do Pessoal (D. P. V.) do D. A. V., devidamente instruídos, os processos relativos a servidores do D. N. I. G.
 
@@ -256,7 +254,7 @@ e) fornecer à Seção de Expediente os elementos necessários à proposta orça
 
 f) organizar os boletins de merecimento dos servidores do D. N. I. G., bem como os do movimento da seção e providenciar para a sua remessa a quem de direito de acôrdo com a lei.
 
-<strong>Art</strong>. 22 - À S. M. compete:
+**Art**. 22 - À S. M. compete:
 
 a) organizar o registro dos bens móveis e imóveis, bem como da aparelhagem do D. N. I. G., anotando os respectivos valores, depreciações e valorização dos mesmos, de acôrdo com a legislação vigente.
 
@@ -268,7 +266,7 @@ d) sugerir a troca, cessão, venda ou baixa do material julgado imprestável ou 
 
 e) fornecer à Seção de Expediente os elementos necessários ao preparo da proposta orçamentária do D. N. I. G., na parte relativa ao material.
 
-<strong>Art</strong>. 23 - À S. C. compete:
+**Art**. 23 - À S. C. compete:
 
 a) receber, registrar, distribuir, expedir e guardar a correspondência oficial e papéis, relativos às atividades do D. N. I. G., controlando o respectivo andamento.
 
@@ -276,7 +274,7 @@ b) atender ao público em seus pedidos de informações sôbre o andamento e des
 
 c) atender às requisições dos processos documentos sob sua guarda, quando pedidos pelos chefes de serviço.
 
-<strong>Art</strong>. 24 - Ao A. compete:
+**Art**. 24 - Ao A. compete:
 
 a) arquivar todos os papéis relativos às atividades do D. N. I. G., uma vêz processados, despachados e publicados.
 
@@ -286,7 +284,7 @@ c) conhecer e acompanhar a legislação nacional na parte que interessa aos trab
 
 d) promover a incineração periódica de papéis julgados sem valor, mediante prévia autorização do Diretor Geral, de acôrdo com o parecer de uma comissão nomeada pelo mesmo para êsse fim.
 
-<strong>Art</strong>. 25 - À B. compete:
+**Art**. 25 - À B. compete:
 
 a) organizar e manter coleções de publicações nacionais e estrangeiras sôbre os assuntos relacionados com as atividades do D. N. I. G.
 
@@ -300,7 +298,7 @@ e) orientar o leitor no uso da Biblioteca e auxiliá-lo nas pesquisas bibliográ
 
 f) organizar e distribuir listas bibliográficas sôbre assuntos de interêsse do D. N. I. G.
 
-<strong>Art</strong>. 26  \- À P. compete:
+**Art**. 26  \- À P. compete:
 
 a) prestar informações ao público sôbre quaisquer assuntos relativos à localização de funcionamento dos órgãos do D. N. I. G.
 
@@ -310,11 +308,11 @@ c) exercer vigilância permanente nos lugares de entrada e saída, especialmente
 
 d) efetuar a distribuição de correspondência externa recebida da S .C.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 27 - Ao Diretor Geral compete:
+**Art**. 27 - Ao Diretor Geral compete:
 
 a) orientar, dirigir e fiscalizar tôdas as atividades técnicas e administrativas do D. N. I. G.
 
@@ -362,7 +360,7 @@ v) autorizar a execução de serviços, para os quais haja verba prevista, até 
 
 x) organizar a escala de férias dos diretores de Divisão, de chefe do S. A. e de seu secretário.
 
-<strong>Art</strong>. 28 - Ao Secretário do Diretor Geral, incumbe:
+**Art**. 28 - Ao Secretário do Diretor Geral, incumbe:
 
 a) representá-lo oficialmente.
 
@@ -370,7 +368,7 @@ b) atender às pessoas que procuraram o Diretor Geral.
 
 c) ter a seu cargo os serviços de correspondência e de audiências do Diretor Geral.
 
-<strong>Art</strong>. 29 - Aos Diretores de Divisão e ao Chefe de S.A. incumbe:
+**Art**. 29 - Aos Diretores de Divisão e ao Chefe de S.A. incumbe:
 
 a) dirigir a execução e fiscalização dos trabalhos a cargo da Divisão e Serviço.
 
@@ -392,7 +390,7 @@ i) expedir boletins de merecimento
 
 j) propôr ao Diretor Geral as designações, na forma dêste Regimento.
 
-<strong>Art</strong>. 30 - Aos chefes de Seção, do Arquivo e da Biblioteca, incumbe:
+**Art**. 30 - Aos chefes de Seção, do Arquivo e da Biblioteca, incumbe:
 
 a) dirigir e fiscalizar os trabalhos que lhes forem afetos.
 
@@ -408,7 +406,7 @@ f) apresentar, mensalmente ao chefe imediato, relatórios dos trabalhos realizad
 
 g) propôr ao chefe imediato as providências necessárias ao aperfeiçoamento do serviço a seu cargo.
 
-<strong>Art</strong>. 31 - Ao Chefe da Portaria incumbe:
+**Art**. 31 - Ao Chefe da Portaria incumbe:
 
 a) zelar pela abertura e fechamento das dependências do Departamento às horas regulamentares.
 
@@ -428,35 +426,35 @@ h) Expedir boletins de merecimento.
 
 i) Impôr aos seus subordinados penas disciplinares de advertência e representar ao Chefe do S.A. quando a penalidade não couber na sua alçada.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 32. O D. N. I. G. terá a lotação que fôr aprovada em decreto.
+**Art**. 32. O D. N. I. G. terá a lotação que fôr aprovada em decreto.
 
 Parágrafo único. Além dos funcionários constantes da lotação, o D. N. I. G. poderá ter pessoal extranumérario admitido na forma da legislação em vigor.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DA HORÁRIO</em>
+*DA HORÁRIO*
 
-<strong>Art</strong>. 33. O horário normal de trabalho no D. N. I. G. será fixado pelo Diretor Geral, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
+**Art**. 33. O horário normal de trabalho no D. N. I. G. será fixado pelo Diretor Geral, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
 
 § 1º Para garantia dos serviços de fornecimento de energia elétrica e de gás, estarão os servidores responsáveis obrigados a dar providências, mesmo fora das horas de expediente, quando solicitadas por particulares ou pelas autoridades competentes.
 
 § 2º Haverá um serviço de plantão noturno, cujo horário será fixado pelo Diretor Geral, de acôrdo com as necessidades do momento, para o qual serão escalados os servidores necessários.
 
-<strong>Art</strong>. 34 O horário para os serviços externos será fixado pelo Diretor Geral, respeitado o número de horas semanais ou mensais estabelecido pelo Serviço Público Civil.
+**Art**. 34 O horário para os serviços externos será fixado pelo Diretor Geral, respeitado o número de horas semanais ou mensais estabelecido pelo Serviço Público Civil.
 
-<strong>Art</strong>. 35. A freqüência do pessoal em trabalho foram da sede será verificada por meio de boletins diários da produção, controlados pelo superior imediato.
+**Art**. 35. A freqüência do pessoal em trabalho foram da sede será verificada por meio de boletins diários da produção, controlados pelo superior imediato.
 
-<strong>Art</strong>. 36. Não ficam sujeitos a ponto o Diretor Geral, os Diretores de Divisão, devendo porém estar presente ao serviço durante o período normal de trabalho e sempre que a sua presença se tornar necessária.
+**Art**. 36. Não ficam sujeitos a ponto o Diretor Geral, os Diretores de Divisão, devendo porém estar presente ao serviço durante o período normal de trabalho e sempre que a sua presença se tornar necessária.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 37. Serão substituídos, automàticamente, em suas faltas ou impedimentos ocasionais, até 30 dias:
+**Art**. 37. Serão substituídos, automàticamente, em suas faltas ou impedimentos ocasionais, até 30 dias:
 
 a) o Diretor Geral por um Diretor de Divisão de sua indicação, designado pelo Ministro de Estado;
 
@@ -468,4 +466,4 @@ Parágrafo único. Haverá, sempre, servidores prèviamente designados para as s
 
 Rio de Janeiro, 27 de dezembro de 1945
 
-<strong>MAURICIO JOPPERT DA SILVA</strong>
+**MAURICIO JOPPERT DA SILVA**

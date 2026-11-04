@@ -1,5 +1,3 @@
-###DEC-084882-0-000-08-07-1980@@@
-
 Decreto nº 84.882, de 08 julho de 1980
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, no Estado de Santa Catarina.

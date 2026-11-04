@@ -1,5 +1,3 @@
-###DEL-008762-0-000-21-01-1946@@@
-
 DECRETO-LEI N. 8.762 – DE 21 DE JANEIRO DE 1946
 
 Abre crédito suplementar ao Ministério do Trabalho, Indústria e Comércio.

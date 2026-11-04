@@ -1,6 +1,10 @@
 > **LEI Nº 4.179, DE 11 DE OUTUBRO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 1.474, de 10 de janeiro de 2003, que institui o Conselho Penitenciário do Estado do Acre, para dispor sobre o pagamento de jetons aos seus membros.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 1.474, de 10 de janeiro de 2003, que institui o Conselho Penitenciário do Estado do Acre, para dispor sobre o pagamento de jetons aos seus membros.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

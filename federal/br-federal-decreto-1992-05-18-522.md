@@ -1,7 +1,3 @@
-1
-
-###DEC-000522-0-000-18-05-1992@@@
-
 DECRETO Nº 522, DE 18 DE MAIO DE 1992
 
 Dispõe sobre inclusão, no Programa Nacional de Desestatização - PND, das participações acionárias da Petrobrás Química S.A. - PETROQUISA na Companhia Química do Recôncavo - CQR e na POLIPROPILENO S.A.

@@ -1,5 +1,3 @@
-###DEC-077279-0-000-11-03-1976@@@
-
 DECRETO Nº 77.279, DE 11 DE MARÇO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Alvorada de Luziânia Ltda., posteriormente, Rádio Alvorada de Brasília S.A. para que a Rede Gaúcha Zero Hora de Comunicações Ltda. passe a executar serviço de radiodifusão sonora em onda média de âmbito regional na Cidade de Brasília, Distrito Federal.

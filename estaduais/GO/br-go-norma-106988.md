@@ -6,135 +6,174 @@ O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constituciona
 
 **DECRETA:**
 
-Art. 1º Ficam estabelecidas as regras e as diretrizes para a nomeação aos cargos de provimento em comissão direcionados à atuação nos Escritórios de Projetos Setoriais, também para a avaliação de desempenho necessária à concessão das Funções Comissionadas do Sistema Estruturador das Redes de Gestão – FCRGs e das Gratificações do Sistema Estruturador das Redes de Gestão – GRGs, instituídas pelo art. 107 da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023.<br>
+Art. 1º Ficam estabelecidas as regras e as diretrizes para a nomeação aos cargos de provimento em comissão direcionados à atuação nos Escritórios de Projetos Setoriais, também para a avaliação de desempenho necessária à concessão das Funções Comissionadas do Sistema Estruturador das Redes de Gestão – FCRGs e das Gratificações do Sistema Estruturador das Redes de Gestão – GRGs, instituídas pelo art. 107 da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023.
+
 \- [Redação dada pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ~~Art. 1º Ficam estabelecidas as regras e as diretrizes para a nomeação nos cargos de provimento em comissão para a atuação nos Escritórios de Projetos Setoriais, unidades administrativas que compõem a Rede de Gestão de Projetos, instituída pelo art. 107 da [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023.~~
 
 § 1º A Rede de Gestão de Projetos integra o Sistema de Gestão Estadual – SIGES, que é a convergência do Sistema Estruturador de Organização e Inovação Institucional e das Redes de Gestão.
 
-§ 2º As unidades administrativas básicas denominadas Escritórios de Projetos Setoriais encontram-se presentes nos órgãos e nas entidades especificados no [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), de 16 de fevereiro de 2023.<br>
+§ 2º As unidades administrativas básicas denominadas Escritórios de Projetos Setoriais encontram-se presentes nos órgãos e nas entidades especificados no [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), de 16 de fevereiro de 2023.
+
 \- [Redação dada pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ~~§ 2º As unidades administrativas básicas denominadas Escritórios de Projetos Setoriais encontram-se presentes nos seguintes órgãos e entidade, consoante dispõe o [Decreto estadual nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), de 16 de fevereiro de 2023:~~
 
-~~I – Secretaria– Geral de Governo, que é a unidade central da Rede de Gestão de Projetos;~~<br>
+~~I – Secretaria– Geral de Governo, que é a unidade central da Rede de Gestão de Projetos;~~
+
 \- [Revogado pelo Decreto nº 10.624, de 10-01-25, art 3°,I](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-~~II – Secretaria de Estado da Administração – SEAD;~~<br>
+~~II – Secretaria de Estado da Administração – SEAD;~~
+
 \- [Revogado pelo Decreto nº 10.624, de 10-01-25, art 3°,I](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-~~III – Secretaria de Estado da Cultura – SECULT;~~<br>
+~~III – Secretaria de Estado da Cultura – SECULT;~~
+
 \- [Revogado pelo Decreto nº 10.624, de 10-01-25, art 3°,I](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-~~IV – Secretaria de Estado da Saúde – SES;~~<br>
+~~IV – Secretaria de Estado da Saúde – SES;~~
+
 \- [Revogado pelo Decreto nº 10.624, de 10-01-25, art 3°,I](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-~~V – Secretaria de Estado da Educação – SEDUC;~~<br>
+~~V – Secretaria de Estado da Educação – SEDUC;~~
+
 \- [Revogado pelo Decreto nº 10.624, de 10-01-25, art 3°,I](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-~~VI – Secretaria de Estado de Ciência, Tecnologia e Inovação – SECTI;~~<br>
+~~VI – Secretaria de Estado de Ciência, Tecnologia e Inovação – SECTI;~~
+
 \- [Revogado pelo Decreto nº 10.624, de 10-01-25, art 3°,I](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-~~VII – Secretaria de Estado de Desenvolvimento Social – SEDS;~~<br>
+~~VII – Secretaria de Estado de Desenvolvimento Social – SEDS;~~
+
 \- [Revogado pelo Decreto nº 10.624, de 10-01-25, art 3°,I](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-~~VIII – Secretaria de Estado do Meio Ambiente e Desenvolvimento Sustentável – SEMAD;~~<br>
+~~VIII – Secretaria de Estado do Meio Ambiente e Desenvolvimento Sustentável – SEMAD;~~
+
 \- [Revogado pelo Decreto nº 10.624, de 10-01-25, art 3°,I](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-~~IX – Secretaria de Estado da Retomada – RETOMADA;~~<br>
+~~IX – Secretaria de Estado da Retomada – RETOMADA;~~
+
 \- [Revogado pelo Decreto nº 10.624, de 10-01-25, art 3°,I](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-~~X – Secretaria de Estado da Infraestrutura – SEINFRA; e~~<br>
+~~X – Secretaria de Estado da Infraestrutura – SEINFRA; e~~
+
 \- [Revogado pelo Decreto nº 10.624, de 10-01-25, art 3°,I](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-~~XI – Departamento Estadual de Trânsito – DETRAN.~~<br>
+~~XI – Departamento Estadual de Trânsito – DETRAN.~~
+
 \- [Revogado pelo Decreto nº 10.624, de 10-01-25, art 3°,I](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-§ 3º Além do cargo de Chefe do Escritório de Projetos, cada Escritório de Projetos Setorial deve ser composto por, no mínimo, 1 (um) cargo de provimento em comissão não integrante da estrutura básica e complementar do tipo Assessoramento Superior, símbolo “A5”, de que trata o Anexo III do [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), de 2023.<br>
+§ 3º Além do cargo de Chefe do Escritório de Projetos, cada Escritório de Projetos Setorial deve ser composto por, no mínimo, 1 (um) cargo de provimento em comissão não integrante da estrutura básica e complementar do tipo Assessoramento Superior, símbolo “A5”, de que trata o Anexo III do [Decreto nº 10.218](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106750), de 2023.
+
 \- [Redação dada pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ~~§ 3º A unidade administrativa básica de cada Escritório de Projetos Setorial é composta por:~~
 
-~~I – um Chefe;~~<br>
+~~I – um Chefe;~~
+
 \- [Revogado pelo Decreto nº 10.624, de 10-01-25, art 3°,II](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-~~II – um cargo em comissão de Assessor A5;~~<br>
+~~II – um cargo em comissão de Assessor A5;~~
+
 \- [Revogado pelo Decreto nº 10.624, de 10-01-25, art 3°,II](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-~~III – servidores que podem perceber a Gratificação das Redes de Gestão, no valor de R$ 3.000,00 (três mil reais) cada, conforme está disposto no art. 110 da [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023.~~<br>
+~~III – servidores que podem perceber a Gratificação das Redes de Gestão, no valor de R$ 3.000,00 (três mil reais) cada, conforme está disposto no art. 110 da [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023.~~
+
 \- [Revogado pelo Decreto nº 10.624, de 10-01-25, art 3°,II](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-§ 4º As FCRGs e as GRGs serão distribuídas por ato do Secretário-Geral de Governo aos órgãos e às entidades da administração estadual, vedada a concessão com data retroativa, observados os seguintes níveis, conforme as respectivas especificações estabelecidas no Anexo V deste Decreto:<br>
+§ 4º As FCRGs e as GRGs serão distribuídas por ato do Secretário-Geral de Governo aos órgãos e às entidades da administração estadual, vedada a concessão com data retroativa, observados os seguintes níveis, conforme as respectivas especificações estabelecidas no Anexo V deste Decreto:
+
 \- [Redação dada pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ~~§ 4º O estabelecimento de critérios para a concessão da Gratificação das Redes de Gestão de Projetos, e para a avaliação periódica de desempenho para a manutenção da percepção da gratificação, nos termos do inciso IV do art. 111 da [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023, será objeto de decreto específico.~~
 
-I - o Nível 1 receberá a GRG-1 ou a FCRG-1;<br>
+I - o Nível 1 receberá a GRG-1 ou a FCRG-1;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-II - o Nível 2 receberá a GRG-3 ou a FCRG-3; e<br>
+II - o Nível 2 receberá a GRG-3 ou a FCRG-3; e
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-III - o Nível 3 receberá a GRG-5 ou a FCRG-5.<br>
+III - o Nível 3 receberá a GRG-5 ou a FCRG-5.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-§ 5º A quantidade de GRGs ou FCRGs será calculada de acordo com os índices estabelecidos nos Anexos III e IV deste Decreto e poderá ser ajustada pela unidade central da Rede de Gestão de Projetos para que seja atendido o limite especificado no Anexo V, também deste Decreto.<br>
+§ 5º A quantidade de GRGs ou FCRGs será calculada de acordo com os índices estabelecidos nos Anexos III e IV deste Decreto e poderá ser ajustada pela unidade central da Rede de Gestão de Projetos para que seja atendido o limite especificado no Anexo V, também deste Decreto.
+
 \- [Redação dada pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ~~§ 5º Fixa-se o quantitativo global de 40 (quarenta) Gratificações da Rede de Gestão de Projetos, e ato do Secretário-Geral de Governo as distribuirá pelos órgãos pertinentes, conforme a demanda de projetos acompanhados.~~
 
-§ 6º Os índices a serem utilizados conforme os Anexos III e IV deste Decreto para o cálculo da quantidade de GRGs ou FCRGs a serem concedidas são os seguintes:<br>
+§ 6º Os índices a serem utilizados conforme os Anexos III e IV deste Decreto para o cálculo da quantidade de GRGs ou FCRGs a serem concedidas são os seguintes:
+
 \- [Redação dada pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ~~§ 6º O quantitativo mínimo global dos cargos em comissão de Assessor A5 para a atuação nos Escritórios de Projetos Setoriais é fixado em 11 (onze) unidades e observará o disposto nos arts. 5º e 6º deste Decreto.~~
 
-I    – impacto (I), correspondente à abrangência das atividades em relação às partes envolvidas, com as seguintes classificações:<br>
+I    – impacto (I), correspondente à abrangência das atividades em relação às partes envolvidas, com as seguintes classificações:
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-a)    baixo (peso 1): afeta o próprio órgão e/ou entidade do Governo;<br>
+a)    baixo (peso 1): afeta o próprio órgão e/ou entidade do Governo;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-b)    médio (peso 1,5): afeta mais de 1 (um) órgão e/ou entidade do Governo; e<br>
+b)    médio (peso 1,5): afeta mais de 1 (um) órgão e/ou entidade do Governo; e
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-c)    alto (peso 2): afeta mais de 1 (um) órgão e/ou entidade e repercute na imagem externa do Governo;<br>
+c)    alto (peso 2): afeta mais de 1 (um) órgão e/ou entidade e repercute na imagem externa do Governo;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-II    – dificuldade (D), correspondente ao nível de exigência da utilização de competências do servidor nas áreas de conhecimento de governança, gestão de portfólio, programas e projetos, com as seguintes classificações:<br>
+II    – dificuldade (D), correspondente ao nível de exigência da utilização de competências do servidor nas áreas de conhecimento de governança, gestão de portfólio, programas e projetos, com as seguintes classificações:
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-a)    baixa (peso 1): utilização básica de competências em atividade operacional com processos de trabalho definidos e recursos disponíveis;<br>
+a)    baixa (peso 1): utilização básica de competências em atividade operacional com processos de trabalho definidos e recursos disponíveis;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-b)    média (peso 1,5): aplicação de competências em sua totalidade em atividade tática com processos de trabalho que requererem análise específica, pesquisa e organização; e<br>
+b)    média (peso 1,5): aplicação de competências em sua totalidade em atividade tática com processos de trabalho que requererem análise específica, pesquisa e organização; e
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-c)    alta (peso 2): aplicação extrema de competências em atividade estratégica com processos de trabalho que requererem análise mercadológica, negociação em diferentes níveis e inovação;<br>
+c)    alta (peso 2): aplicação extrema de competências em atividade estratégica com processos de trabalho que requererem análise mercadológica, negociação em diferentes níveis e inovação;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-III    – quantidade (Q), correspondente ao número de projetos simultâneos em planejamento e em execução no órgão e/ou na entidade, com as seguintes classificações:<br>
+III    – quantidade (Q), correspondente ao número de projetos simultâneos em planejamento e em execução no órgão e/ou na entidade, com as seguintes classificações:
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-a)    peso 1,1: até 20 (vinte) projetos;<br>
+a)    peso 1,1: até 20 (vinte) projetos;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-b)    peso 1,2: de 21 (vinte e um) a 100 (cem) projetos; e<br>
+b)    peso 1,2: de 21 (vinte e um) a 100 (cem) projetos; e
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-c)    peso 1,3: acima de 100 (cem) projetos;<br>
+c)    peso 1,3: acima de 100 (cem) projetos;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-IV - complexidade (C), correspondente ao resultado da multiplicação do impacto pela dificuldade (I x D), com as classificações estipuladas conforme a tabela constante do Anexo III deste Decreto; e<br>
+IV - complexidade (C), correspondente ao resultado da multiplicação do impacto pela dificuldade (I x D), com as classificações estipuladas conforme a tabela constante do Anexo III deste Decreto; e
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-V    – total de GRGs ou FCRGs (T), correspondente ao número total de GRGs ou FCRGs a ser atribuído a cada órgão ou entidade que desempenhar atribuições de Escritórios de Projetos Setoriais, obtido pela multiplicação da complexidade (C) pela quantidade (Q), com a fórmula “T = (I x D) x Q”, conforme a tabela constante do Anexo IV deste Decreto.<br>
+V    – total de GRGs ou FCRGs (T), correspondente ao número total de GRGs ou FCRGs a ser atribuído a cada órgão ou entidade que desempenhar atribuições de Escritórios de Projetos Setoriais, obtido pela multiplicação da complexidade (C) pela quantidade (Q), com a fórmula “T = (I x D) x Q”, conforme a tabela constante do Anexo IV deste Decreto.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-§ 7º Fica vedada a indicação de servidores para a concessão da GRG ou da FCRG sem a observância das disposições deste Decreto, sob pena de responsabilidade do ordenador de despesas.<br>
+§ 7º Fica vedada a indicação de servidores para a concessão da GRG ou da FCRG sem a observância das disposições deste Decreto, sob pena de responsabilidade do ordenador de despesas.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-§ 8º A concessão da GRG ou da FCRG produzirá efeitos, inclusive financeiros, a partir do 1º (primeiro) dia do mês subsequente à publicação do ato do Secretário-Geral de Governo, observado o calendário de fechamento da folha de pagamento.<br>
+§ 8º A concessão da GRG ou da FCRG produzirá efeitos, inclusive financeiros, a partir do 1º (primeiro) dia do mês subsequente à publicação do ato do Secretário-Geral de Governo, observado o calendário de fechamento da folha de pagamento.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 Art. 2º Este Decreto considera:
@@ -143,146 +182,184 @@ I – unidade central da Rede de Gestão de Projetos: unidade administrativa da 
 
 II – unidade setorial da Rede de Gestão de Projetos: unidade administrativa da estrutura organizacional de um órgão setorial, responsável por implementar as diretrizes e as normas definidas pela unidade central à qual se subordina tecnicamente, sem prejuízo da subordinação administrativa ao órgão a que está vinculada.
 
-III – unidade correlata da Rede de Gestão de Projetos: unidade administrativa que desenvolve entregas e atividades complementares ou similares à unidade setorial que atua na realização de governança e gestão de projetos.<br>
+III – unidade correlata da Rede de Gestão de Projetos: unidade administrativa que desenvolve entregas e atividades complementares ou similares à unidade setorial que atua na realização de governança e gestão de projetos.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 Parágrafo único. A unidade central da Rede de Gestão de Projetos, de acordo com o inciso II do § 1º do art. 108 da [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023, é a Superintendência do Escritório de Projetos da Subsecretaria de Governança, da Secretaria-Geral de Governo, e a cabe a ela:
 
-I – gerir estrategicamente a Rede de Gestão de Projetos na administração pública estadual;<br>
+I – gerir estrategicamente a Rede de Gestão de Projetos na administração pública estadual;
+
 \- [Redação dada pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ~~I – gerir a Rede de Gestão de Projetos na administração estadual;~~
 
-II – estabelecer diretrizes gerais para orientar as unidades setoriais a fim de institucionalizar cultura de integração e de visão sistêmica do portfólio de projetos governamentais, essencial para a criação de valor e a implementação de políticas públicas;<br>
+II – estabelecer diretrizes gerais para orientar as unidades setoriais a fim de institucionalizar cultura de integração e de visão sistêmica do portfólio de projetos governamentais, essencial para a criação de valor e a implementação de políticas públicas;
+
 \- [Redação dada pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ~~II – estabelecer as diretrizes gerais para orientar as unidades setoriais a fim de institucionalizar a cultura de integração e de visão sistêmica, essencial à criação de valor público;~~
 
-III - promover o alinhamento estratégico central e setorial conforme as prioridades governamentais;<br>
+III - promover o alinhamento estratégico central e setorial conforme as prioridades governamentais;
+
 \- [Redação dada pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ~~III – promover o alinhamento estratégico central e setorial, conforme as prioridades governamentais;~~
 
-IV – formular a política de capacitação e desenvolvimento dos integrantes da Rede de Gestão de Projetos;<br>
+IV – formular a política de capacitação e desenvolvimento dos integrantes da Rede de Gestão de Projetos;
+
 \- [Redação dada pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ~~IV – formular a política de capacitação e desenvolvimento dos integrantes da Rede de Gestão de Projetos a ser estabelecida em ato próprio do titular da pasta;~~
 
-V – estabelecer regras e diretrizes para a elaboração e o gerenciamento de projetos no Poder Executivo estadual;<br>
+V – estabelecer regras e diretrizes para a elaboração e o gerenciamento de projetos no Poder Executivo estadual;
+
 \- [Redação dada pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ~~V – estabelecer as regras e as diretrizes para a elaboração e o gerenciamento dos projetos no Poder Executivo estadual;~~
 
-VI - instituir a governança metodológica e tecnológica da gestão de portfólio, programas e projetos para a elaboração e o gerenciamento de projetos no Poder Executivo estadual;<br>
+VI - instituir a governança metodológica e tecnológica da gestão de portfólio, programas e projetos para a elaboração e o gerenciamento de projetos no Poder Executivo estadual;
+
 \- [Redação dada pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ~~VI – instituir ferramenta informatizada para a elaboração e o gerenciamento dos projetos propostos pelas unidades setoriais;~~
 
-VII – orientar os órgãos e as entidades setoriais na governança e na gestão de portfólio, programas e projetos no Poder Executivo estadual;<br>
+VII – orientar os órgãos e as entidades setoriais na governança e na gestão de portfólio, programas e projetos no Poder Executivo estadual;
+
 \- [Redação dada pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ~~VII – orientar os órgãos e a entidade setoriais na elaboração dos projetos; e~~
 
-VIII - acompanhar a aplicação de diretrizes, padrões, processos e/ou metodologias adotadas para a governança e a gestão de portfólio, programas e projetos no Poder Executivo estadual;<br>
+VIII - acompanhar a aplicação de diretrizes, padrões, processos e/ou metodologias adotadas para a governança e a gestão de portfólio, programas e projetos no Poder Executivo estadual;
+
 \- [Redação dada pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ~~VIII – acompanhar a aplicação da metodologia adotada na execução dos projetos dos órgãos e da entidade setoriais.~~
 
-IX - definir os requisitos mínimos de governança e gestão de portfólio, bem como de programas e projetos para a entrega de resultados nos Escritórios de Projetos Setoriais;<br>
+IX - definir os requisitos mínimos de governança e gestão de portfólio, bem como de programas e projetos para a entrega de resultados nos Escritórios de Projetos Setoriais;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-X – definir os processos de governança e gestão de portfólio, bem como os programas e os projetos para fomentar a aderência estratégica aos portfólios dos órgãos e das entidades no Poder Executivo estadual conforme as prioridades governamentais; e<br>
+X – definir os processos de governança e gestão de portfólio, bem como os programas e os projetos para fomentar a aderência estratégica aos portfólios dos órgãos e das entidades no Poder Executivo estadual conforme as prioridades governamentais; e
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-XI – executar outras atividades que lhe forem atribuídas em sua área de atuação.<br>
+XI – executar outras atividades que lhe forem atribuídas em sua área de atuação.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-Art. 3º Compete aos Escritórios de Projetos Setoriais:<br>
+Art. 3º Compete aos Escritórios de Projetos Setoriais:
+
 \- [Redação dada pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ~~Art. 3º Compete às unidades setoriais de Escritórios de Projetos Setoriais, no mínimo:~~
 
-I  – implantar sua própria estrutura conforme as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;<br>
+I  – implantar sua própria estrutura conforme as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;
+
 \- [Redação dada pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ~~I – controlar e monitorar o portfólio do órgão por meio do plano físico e financeiro dos projetos e dos programas;~~
 
-II – instituir a Rede de Gestão de Projetos do órgão ou da entidade;<br>
+II – instituir a Rede de Gestão de Projetos do órgão ou da entidade;
+
 \- [Redação dada pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ~~II – certificar– se de que o escopo esteja definido e alinhado com a estratégia governamental;~~
 
-III – promover o engajamento dos membros da Rede de Gestão de Projetos, bem como de outros envolvidos no órgão ou na entidade, por meio de eventos, reuniões de sensibilização, orientação e treinamento conforme as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;<br>
+III – promover o engajamento dos membros da Rede de Gestão de Projetos, bem como de outros envolvidos no órgão ou na entidade, por meio de eventos, reuniões de sensibilização, orientação e treinamento conforme as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;
+
 \- [Redação dada pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ~~III – garantir o planejamento, a execução, as atualizações e o controle das atividades nos sistemas indicados;~~
 
-IV – apoiar na seleção e na priorização de projetos para definir o portfólio, observados a validação do dirigente, as demandas finalísticas do órgão ou da entidade, as prioridades governamentais e outros instrumentos estratégicos vigentes, caso isso seja necessário;<br>
+IV – apoiar na seleção e na priorização de projetos para definir o portfólio, observados a validação do dirigente, as demandas finalísticas do órgão ou da entidade, as prioridades governamentais e outros instrumentos estratégicos vigentes, caso isso seja necessário;
+
 \- [Redação dada pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ~~IV – implementar e disseminar a cultura de gestão de projetos no órgão e na entidade; e~~
 
-V – orientar os envolvidos para haver a correta inclusão das informações do portfólio do órgão ou da entidade no Sistema de Monitoramento e Acompanhamento de Projetos de Goiás – GOMAP e outros indicados, de acordo com as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;<br>
+V – orientar os envolvidos para haver a correta inclusão das informações do portfólio do órgão ou da entidade no Sistema de Monitoramento e Acompanhamento de Projetos de Goiás – GOMAP e outros indicados, de acordo com as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;
+
 \- [Redação dada pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ~~V – cumprir as diretrizes e os requisitos mínimos estabelecidos pela unidade central da Rede de Gestão de Projetos, conforme os instrumentos orientadores a serem implementados.~~
 
-VI – apoiar o monitoramento geral e sistêmico dos projetos do órgão ou da entidade no GOMAP para que essa atividade seja realizada corretamente segundo as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;<br>
+VI – apoiar o monitoramento geral e sistêmico dos projetos do órgão ou da entidade no GOMAP para que essa atividade seja realizada corretamente segundo as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-VII – participar de eventos, reuniões de planejamento e/ou acompanhamento/monitoramento para a melhoria da<br>
-performance do Escritório de Projetos Setorial;<br>
+VII – participar de eventos, reuniões de planejamento e/ou acompanhamento/monitoramento para a melhoria da
+
+performance do Escritório de Projetos Setorial;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-VIII – observar a adoção das boas práticas de governança e gestão de portfólio, programas e projetos pelas áreas finalísticas para que todos os projetos tenham, no mínimo, os planos de gerenciamento de escopo, cronograma, custo, engajamento de partes interessadas, comunicações e riscos;<br>
+VIII – observar a adoção das boas práticas de governança e gestão de portfólio, programas e projetos pelas áreas finalísticas para que todos os projetos tenham, no mínimo, os planos de gerenciamento de escopo, cronograma, custo, engajamento de partes interessadas, comunicações e riscos;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-IX – orientar o escopo dos projetos para que se considerem os objetivos SMART (específicos, mensuráveis, atingíveis, realistas e temporais/prazo) conforme a estratégia governamental, as partes interessadas envolvidas, os requisitos técnicos e/ou do negócio e os benefícios esperados, para buscar eficiência, eficácia e efetividade nas entregas;<br>
+IX – orientar o escopo dos projetos para que se considerem os objetivos SMART (específicos, mensuráveis, atingíveis, realistas e temporais/prazo) conforme a estratégia governamental, as partes interessadas envolvidas, os requisitos técnicos e/ou do negócio e os benefícios esperados, para buscar eficiência, eficácia e efetividade nas entregas;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-X  – orientar os projetos para que possuam um backlog do projeto/produto, das demandas e/ou do mapa visual das entregas referentes à Estrutura Analítica de Projetos – EAP;<br>
+X  – orientar os projetos para que possuam um backlog do projeto/produto, das demandas e/ou do mapa visual das entregas referentes à Estrutura Analítica de Projetos – EAP;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-XI – identificar, negociar e aprovar as alterações de escopo do projeto entre as partes interessadas, quando isso for necessário, com a promoção da gestão de mudanças;<br>
+XI – identificar, negociar e aprovar as alterações de escopo do projeto entre as partes interessadas, quando isso for necessário, com a promoção da gestão de mudanças;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-XII – orientar o controle das atividades do projeto para que ele seja realizado conforme seu ciclo de vida e/ou a abordagem de gerenciamento adotada e, se for pertinente, manter atualizadas em cronograma as linhas de base planejadas versus realizadas;<br>
+XII – orientar o controle das atividades do projeto para que ele seja realizado conforme seu ciclo de vida e/ou a abordagem de gerenciamento adotada e, se for pertinente, manter atualizadas em cronograma as linhas de base planejadas versus realizadas;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-XIII – orientar o gerenciamento dos custos para que ele seja realizado com a elaboração do cronograma financeiro, se for pertinente, e com a devida relação ao cronograma físico, em conformidade e consistência com os instrumentos estratégicos de orçamento e a previsão de desembolso financeiro;<br>
+XIII – orientar o gerenciamento dos custos para que ele seja realizado com a elaboração do cronograma financeiro, se for pertinente, e com a devida relação ao cronograma físico, em conformidade e consistência com os instrumentos estratégicos de orçamento e a previsão de desembolso financeiro;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-XIV – orientar a comunicação do projeto para que ela seja realizada com ferramentas como matriz de responsabilidade, técnicas de negociação, mediação de conflitos e outras, se for pertinente, conforme o ciclo de vida do projeto e/ou a abordagem de gerenciamento adotada;<br>
+XIV – orientar a comunicação do projeto para que ela seja realizada com ferramentas como matriz de responsabilidade, técnicas de negociação, mediação de conflitos e outras, se for pertinente, conforme o ciclo de vida do projeto e/ou a abordagem de gerenciamento adotada;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-XV – orientar os riscos para que eles sejam identificados por meio da elaboração da matriz de riscos, se isso for pertinente, para a classificação e a resposta conforme a probabilidade e o impacto;<br>
+XV – orientar os riscos para que eles sejam identificados por meio da elaboração da matriz de riscos, se isso for pertinente, para a classificação e a resposta conforme a probabilidade e o impacto;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-XVI – acompanhar e monitorar a execução dos projetos nas áreas finalísticas para otimizar o desempenho, com a observação de, no mínimo, gerenciamento de escopo, cronograma, orçamento, comunicações, engajamento das partes interessadas e riscos, se isso for pertinente, e em conformidade com o ciclo de vida do projeto e/ou a abordagem de gerenciamento adotada;<br>
+XVI – acompanhar e monitorar a execução dos projetos nas áreas finalísticas para otimizar o desempenho, com a observação de, no mínimo, gerenciamento de escopo, cronograma, orçamento, comunicações, engajamento das partes interessadas e riscos, se isso for pertinente, e em conformidade com o ciclo de vida do projeto e/ou a abordagem de gerenciamento adotada;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-XVII – elaborar relatórios de situação, indicadores e outros instrumentos conforme as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;<br>
+XVII – elaborar relatórios de situação, indicadores e outros instrumentos conforme as diretrizes gerais de governança, gestão de portfólio e projetos do Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-XVIII – realizar a governança de projetos, com o engajamento das áreas finalísticas e do dirigente do órgão ou da entidade nos ciclos de reuniões, para a informação de situação e a tomada de decisão nos níveis operacional, tático e estratégico;<br>
+XVIII – realizar a governança de projetos, com o engajamento das áreas finalísticas e do dirigente do órgão ou da entidade nos ciclos de reuniões, para a informação de situação e a tomada de decisão nos níveis operacional, tático e estratégico;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-XIX – orientar o planejamento do projeto para que seja realizado em ondas sucessivas, em busca de entregas de valor em ciclos curtos, e, se for possível, aplicar as diretrizes e os princípios de agilidade;<br>
+XIX – orientar o planejamento do projeto para que seja realizado em ondas sucessivas, em busca de entregas de valor em ciclos curtos, e, se for possível, aplicar as diretrizes e os princípios de agilidade;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-XX – dar visibilidade ao portfólio de projetos do órgão ou da entidade, com o balanceamento de recursos e a visão de entrega de valor estratégico;<br>
+XX – dar visibilidade ao portfólio de projetos do órgão ou da entidade, com o balanceamento de recursos e a visão de entrega de valor estratégico;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-XXI – fomentar a cultura relacionada aos temas governança, gestão de portfólio e projetos no órgão ou na entidade; e<br>
+XXI – fomentar a cultura relacionada aos temas governança, gestão de portfólio e projetos no órgão ou na entidade; e
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-XXII – encarregar-se de atividades correlatas.<br>
+XXII – encarregar-se de atividades correlatas.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-§ 1º O Escritório de Projetos Setorial fica subordinado técnica e normativamente à Superintendência dos Escritórios de Projetos, unidade integrante da Subsecretaria de Governança da Secretaria-Geral de Governo – SGG, sem prejuízo à subordinação administrativa ao titular do órgão ou da entidade a que ele pertencer.<br>
+§ 1º O Escritório de Projetos Setorial fica subordinado técnica e normativamente à Superintendência dos Escritórios de Projetos, unidade integrante da Subsecretaria de Governança da Secretaria-Geral de Governo – SGG, sem prejuízo à subordinação administrativa ao titular do órgão ou da entidade a que ele pertencer.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-§ 2º As competências previstas neste artigo serão desempenhadas por todos os servidores que atuam nos Escritórios de Projetos Setoriais e nas unidades correlatas.<br>
+§ 2º As competências previstas neste artigo serão desempenhadas por todos os servidores que atuam nos Escritórios de Projetos Setoriais e nas unidades correlatas.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 Art. 4º São requisitos desejáveis aos servidores que atuarão nos Escritórios de Projetos Setoriais:
@@ -329,171 +406,224 @@ VI – desejável experiência na área de negócio do órgão; e
 
 VII – experiência profissional com habilidade na elaboração de planilhas, gráficos e apresentações e desejável _expertise_ em análise de dados, estatística, Banco de Dados, _Business_ _Inteligence_ e/ou ferramenta de gerenciamento de projetos.
 
-§ 1º É desejável que o ocupante tenha atualização continuada com a participação em cursos, palestras, seminários e oficinas em sua área de gestão, a ser definida pela unidade central.<br>
+§ 1º É desejável que o ocupante tenha atualização continuada com a participação em cursos, palestras, seminários e oficinas em sua área de gestão, a ser definida pela unidade central.
+
 \- [Redação dada pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ~~§ 1º Para o provimento no cargo de Assessor de Projetos, que corresponde ao cargo em comissão de Assessor A5, é exigido curso de nível superior completo e a desejável experiência descrita nos incisos V a VII do art. 5º deste Decreto.~~
 
-§ 2º Para o provimento no cargo de Chefe do Escritório de Projetos e nos cargos de assessoramento previstos neste Decreto é exigido curso do Ensino Superior completo e é desejável a experiência descrita nos incisos V a VII do caput deste artigo.<br>
+§ 2º Para o provimento no cargo de Chefe do Escritório de Projetos e nos cargos de assessoramento previstos neste Decreto é exigido curso do Ensino Superior completo e é desejável a experiência descrita nos incisos V a VII do caput deste artigo.
+
 \- [Redação dada pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ~~§ 2º O cargo de Assessor A5 e as Gratificações da Rede de Gestão de Projetos destinam-se a servidores efetivos, comissionados e empregados públicos.~~
 
-Art. 6º Para a concessão das GRGs ou das FCRGs de que trata o § 4º do art. 1º aos servidores que atuam nos Escritórios de Projetos Setoriais e nas unidades correlatas, serão observados os seguintes critérios:<br>
+Art. 6º Para a concessão das GRGs ou das FCRGs de que trata o § 4º do art. 1º aos servidores que atuam nos Escritórios de Projetos Setoriais e nas unidades correlatas, serão observados os seguintes critérios:
+
 \- [Redação dada pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ~~Art. 6º Os interessados deverão efetuar registro, via _internet_, em formulário digital a ser disponibilizado pelo setor responsável para o cargo pretendido e inserir currículo, certificados de conclusão de curso e, conforme o caso, demais documentos que se fizerem necessários.~~
 
-~~Parágrafo único. Se na análise curricular forem atendidos os requisitos mínimos estabelecidos neste Decreto para a ocupação nos cargos conferidos, o candidato será submetido a entrevistas pelo órgão demandante e, eventualmente, pela unidade responsável na Subsecretaria de Governança.<br>
+~~Parágrafo único. Se na análise curricular forem atendidos os requisitos mínimos estabelecidos neste Decreto para a ocupação nos cargos conferidos, o candidato será submetido a entrevistas pelo órgão demandante e, eventualmente, pela unidade responsável na Subsecretaria de Governança.
+
 ~~\- [Revogado pelo Decreto nº 10.624, de 10-01-25, art 3°,III](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-I – para o Nível 1, é exigido o atendimento dos incisos I, II, III, IV, V e VII do art. 5º deste Decreto, considerada especificamente a experiência mínima de 2 (dois) anos em relação ao que dispõem os incisos V e VII, e é desejável a experiência descrita no inciso VI do mesmo artigo;<br>
+I – para o Nível 1, é exigido o atendimento dos incisos I, II, III, IV, V e VII do art. 5º deste Decreto, considerada especificamente a experiência mínima de 2 (dois) anos em relação ao que dispõem os incisos V e VII, e é desejável a experiência descrita no inciso VI do mesmo artigo;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-II – para o Nível 2, é exigido o atendimento dos incisos I, IV, V e VII do art. 5º deste Decreto, considerada especificamente a experiência mínima de 1 (um) ano em relação ao que dispõem os incisos V e VII, e é desejável a experiência descrita no inciso VI do mesmo artigo; e<br>
+II – para o Nível 2, é exigido o atendimento dos incisos I, IV, V e VII do art. 5º deste Decreto, considerada especificamente a experiência mínima de 1 (um) ano em relação ao que dispõem os incisos V e VII, e é desejável a experiência descrita no inciso VI do mesmo artigo; e
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-III – para o Nível 3, é exigido o atendimento aos incisos I, V e VII do art. 5º deste Decreto e é desejável a experiência descrita no inciso VI do mesmo artigo.<br>
+III – para o Nível 3, é exigido o atendimento aos incisos I, V e VII do art. 5º deste Decreto e é desejável a experiência descrita no inciso VI do mesmo artigo.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-Art. 7º Os interessados em atuar nos Escritórios de Projetos Setoriais deverão efetuar o registro, via internet, em formulário digital a ser disponibilizado pela Gerência Central dos Escritórios de Projetos, para o cargo e a função ou a gratificação pretendidos e inserir currículo, certificados de conclusão de cursos e, conforme o caso, outros documentos que se fizerem necessários.<br>
+Art. 7º Os interessados em atuar nos Escritórios de Projetos Setoriais deverão efetuar o registro, via internet, em formulário digital a ser disponibilizado pela Gerência Central dos Escritórios de Projetos, para o cargo e a função ou a gratificação pretendidos e inserir currículo, certificados de conclusão de cursos e, conforme o caso, outros documentos que se fizerem necessários.
+
 \- [Redação dada pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ~~Art. 7º As indicações para nomeações aos cargos que compõem o Escritório de Projetos Setoriais deverão ser submetidas previamente à Secretaria-Geral de Governo para a averiguação dos requisitos.~~
 
-~~Parágrafo único. A indicação de pressupostos para a nomeação aos cargos em comissão de chefe de Escritórios de Projetos Setoriais e de Assessor A5 de que trata este Decreto não vincula a autoridade administrativa à decisão de exonerar de ofício o nomeado, nos termos do inciso II do art. 37 da Constituição federal, observada a natureza _ad nutum_ do cargo em comissão, que é de livre exoneração, a qualquer tempo e independente de motivação.~~<br>
+~~Parágrafo único. A indicação de pressupostos para a nomeação aos cargos em comissão de chefe de Escritórios de Projetos Setoriais e de Assessor A5 de que trata este Decreto não vincula a autoridade administrativa à decisão de exonerar de ofício o nomeado, nos termos do inciso II do art. 37 da Constituição federal, observada a natureza _ad nutum_ do cargo em comissão, que é de livre exoneração, a qualquer tempo e independente de motivação.~~
+
 \- [Revogado pelo Decreto nº 10.624, de 10-01-25, art 3°,IV](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-§ 1º As indicações de nomeações para os cargos que compõem os Escritórios de Projetos Setoriais, assim como as indicações para a concessão de GRG ou FCRG, deverão ser submetidas previamente à SGG para a averiguação dos requisitos.<br>
+§ 1º As indicações de nomeações para os cargos que compõem os Escritórios de Projetos Setoriais, assim como as indicações para a concessão de GRG ou FCRG, deverão ser submetidas previamente à SGG para a averiguação dos requisitos.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-§ 2º A indicação dos requisitos referentes à nomeação para os cargos em comissão de Chefe de Escritório de Projetos Setorial e de assessoramento de que trata este Decreto não vincula a autoridade administrativa quanto à possibilidade de exoneração de ofício do nomeado, considerados o disposto no inciso II do art. 37 da Constituição federal e a natureza jurídica desses cargos, cuja exoneração é livre e independe de motivação.<br>
+§ 2º A indicação dos requisitos referentes à nomeação para os cargos em comissão de Chefe de Escritório de Projetos Setorial e de assessoramento de que trata este Decreto não vincula a autoridade administrativa quanto à possibilidade de exoneração de ofício do nomeado, considerados o disposto no inciso II do art. 37 da Constituição federal e a natureza jurídica desses cargos, cuja exoneração é livre e independe de motivação.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-Art. 7º-A O processo de seleção ocorrerá com a avaliação curricular indispensável à ocupação dos cargos do Escritório de Projetos Setorial ou à obtenção das funções comissionadas ou das gratificações relativas a ele, que será realizada pela unidade central da Rede de Gestão de Projetos, observados:<br>
+Art. 7º-A O processo de seleção ocorrerá com a avaliação curricular indispensável à ocupação dos cargos do Escritório de Projetos Setorial ou à obtenção das funções comissionadas ou das gratificações relativas a ele, que será realizada pela unidade central da Rede de Gestão de Projetos, observados:
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-I – a possibilidade de indicação preferencial de até 3 (três) lotações pelo servidor, para a análise de futuros replanejamentos;<br>
+I – a possibilidade de indicação preferencial de até 3 (três) lotações pelo servidor, para a análise de futuros replanejamentos;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-II – o não reconhecimento de direito líquido e certo sobre possível aprovação;<br>
+II – o não reconhecimento de direito líquido e certo sobre possível aprovação;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-III – a possibilidade de formação de banco de talentos;<br>
+III – a possibilidade de formação de banco de talentos;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-IV – a apresentação de currículo profissional atualizado nos últimos 30 (trinta) dias; e<br>
+IV – a apresentação de currículo profissional atualizado nos últimos 30 (trinta) dias; e
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-V – a eventual entrevista para a avaliação e a validação curricular.<br>
+V – a eventual entrevista para a avaliação e a validação curricular.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-Parágrafo único. O servidor selecionado conforme o caput deste artigo poderá ser lotado em qualquer unidade componente da Rede de Gestão de Projetos desde que seja aprovado pelo titular do órgão ou da entidade de lotação.<br>
+Parágrafo único. O servidor selecionado conforme o caput deste artigo poderá ser lotado em qualquer unidade componente da Rede de Gestão de Projetos desde que seja aprovado pelo titular do órgão ou da entidade de lotação.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-Art. 7º-B Além de atenderem os requisitos para terem direito ao recebimento da FCRG ou da GRG, os servidores deverão, obrigatoriamente, firmar plano de trabalho no qual serão estipuladas as ações a serem realizadas, alinhadas às da unidade central.<br>
+Art. 7º-B Além de atenderem os requisitos para terem direito ao recebimento da FCRG ou da GRG, os servidores deverão, obrigatoriamente, firmar plano de trabalho no qual serão estipuladas as ações a serem realizadas, alinhadas às da unidade central.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-§ 1º O plano de trabalho deverá ser registrado no Sistema Eletrônico de Informações – SEI e submetido à Superintendência dos Escritórios de Projetos conforme o modelo disponibilizado pela unidade central da Rede de Gestão de Projetos, com, no mínimo:<br>
+§ 1º O plano de trabalho deverá ser registrado no Sistema Eletrônico de Informações – SEI e submetido à Superintendência dos Escritórios de Projetos conforme o modelo disponibilizado pela unidade central da Rede de Gestão de Projetos, com, no mínimo:
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-I – o nome do órgão ou da entidade;<br>
+I – o nome do órgão ou da entidade;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-II – o nome da unidade administrativa responsável;<br>
+II – o nome da unidade administrativa responsável;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-III – os dados do responsável pelas entregas (nome, e-mail corporativo e telefone celular); e<br>
+III – os dados do responsável pelas entregas (nome, e-mail corporativo e telefone celular); e
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-IV – as entregas (nome, tipo, quantidade ou percentual e data limite).<br>
+IV – as entregas (nome, tipo, quantidade ou percentual e data limite).
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-§ 2º O plano de trabalho poderá ser revisto a qualquer momento, conforme as prioridades e as necessidades da unidade central da Rede de Gestão de Projetos.<br>
+§ 2º O plano de trabalho poderá ser revisto a qualquer momento, conforme as prioridades e as necessidades da unidade central da Rede de Gestão de Projetos.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-§ 3º A Superintendência dos Escritórios de Projetos será responsável por acompanhar a evolução das ações descritas no plano de trabalho.<br>
+§ 3º A Superintendência dos Escritórios de Projetos será responsável por acompanhar a evolução das ações descritas no plano de trabalho.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-§ 4º O plano de trabalho a que se refere o caput deste artigo deverá estar alinhado aos demais planos de trabalho da unidade central da Rede de Gestão de Projetos, para garantir a eficiência, a eficácia e a efetividade de todas as ações, bem como evitar conflitos e sobrecarga de operações no âmbito setorial.<br>
+§ 4º O plano de trabalho a que se refere o caput deste artigo deverá estar alinhado aos demais planos de trabalho da unidade central da Rede de Gestão de Projetos, para garantir a eficiência, a eficácia e a efetividade de todas as ações, bem como evitar conflitos e sobrecarga de operações no âmbito setorial.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-Art. 7º-C Os servidores que perceberem as funções comissionadas e as gratificações do Escritório de Projetos Setorial serão submetidos à avaliação semestral de desempenho, considerados os seguintes critérios, especificados no Anexo II deste Decreto:<br>
+Art. 7º-C Os servidores que perceberem as funções comissionadas e as gratificações do Escritório de Projetos Setorial serão submetidos à avaliação semestral de desempenho, considerados os seguintes critérios, especificados no Anexo II deste Decreto:
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-I – assiduidade;<br>
+I – assiduidade;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-II – pontualidade;<br>
+II – pontualidade;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-III – disciplina e responsabilidade no cumprimento de suas atividades;<br>
+III – disciplina e responsabilidade no cumprimento de suas atividades;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-IV – cooperação e trabalho em equipe;<br>
+IV – cooperação e trabalho em equipe;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-V – organização e priorização de atividades;<br>
+V – organização e priorização de atividades;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-VI – produtividade qualitativa;<br>
+VI – produtividade qualitativa;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-VII – produtividade quantitativa;<br>
+VII – produtividade quantitativa;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-VIII – cumprimento de prazos internos e externos;<br>
+VIII – cumprimento de prazos internos e externos;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-IX – domínio dos assuntos dos projetos do órgão ou da entidade;<br>
+IX – domínio dos assuntos dos projetos do órgão ou da entidade;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-X – domínio da legislação do Governo e da que for pertinente aos negócios do órgão ou da entidade;<br>
+X – domínio da legislação do Governo e da que for pertinente aos negócios do órgão ou da entidade;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-XI – domínio de gerenciamento de projetos; e<br>
+XI – domínio de gerenciamento de projetos; e
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-XII – domínio de ferramentas de gestão de projetos.<br>
+XII – domínio de ferramentas de gestão de projetos.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-Art. 7º-D A pontuação do servidor avaliado será calculada por meio da Ficha de Avaliação de Desempenho de Assessor, cujo modelo consta do Anexo I, observadas para o seu preenchimento as instruções previstas no Anexo II, ambos deste Decreto, com a obtenção das seguintes classificações:<br>
+Art. 7º-D A pontuação do servidor avaliado será calculada por meio da Ficha de Avaliação de Desempenho de Assessor, cujo modelo consta do Anexo I, observadas para o seu preenchimento as instruções previstas no Anexo II, ambos deste Decreto, com a obtenção das seguintes classificações:
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-I – ótima, de 97 (noventa e sete) a 120 (cento e vinte) pontos;<br>
+I – ótima, de 97 (noventa e sete) a 120 (cento e vinte) pontos;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-II – boa, de 73 (setenta e três) a 96 (noventa e seis) pontos;<br>
+II – boa, de 73 (setenta e três) a 96 (noventa e seis) pontos;
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-III – regular, de 61 (sessenta e um) a 72 (setenta e dois) pontos; e<br>
+III – regular, de 61 (sessenta e um) a 72 (setenta e dois) pontos; e
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-IV – fraca, de 0 (zero) a 60 (sessenta) pontos.<br>
+IV – fraca, de 0 (zero) a 60 (sessenta) pontos.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-§ 1º Não fará jus à manutenção da percepção da GRG ou da FCRG:<br>
+§ 1º Não fará jus à manutenção da percepção da GRG ou da FCRG:
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-I – o servidor avaliado que obtiver até 72 (setenta e dois) pontos do total semestral; ou<br>
+I – o servidor avaliado que obtiver até 72 (setenta e dois) pontos do total semestral; ou
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-II  – o servidor que sofrer advertência escrita ou suspensão.<br>
+II  – o servidor que sofrer advertência escrita ou suspensão.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-§ 2º Serão indicados treinamento e acompanhamento para o servidor avaliado que obtiver até 96 (noventa e seis) pontos do total semestral.<br>
+§ 2º Serão indicados treinamento e acompanhamento para o servidor avaliado que obtiver até 96 (noventa e seis) pontos do total semestral.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-Art. 7º-E A avaliação de desempenho conterá a ciência do servidor avaliado, do chefe imediato e do titular do órgão ou da entidade a que ele pertencer e será submetida à Superintendência dos Escritórios de Projetos, da SGG, até o 5º (quinto) dia útil do mês subsequente ao período avaliado para validação.<br>
+Art. 7º-E A avaliação de desempenho conterá a ciência do servidor avaliado, do chefe imediato e do titular do órgão ou da entidade a que ele pertencer e será submetida à Superintendência dos Escritórios de Projetos, da SGG, até o 5º (quinto) dia útil do mês subsequente ao período avaliado para validação.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-Parágrafo único. A avaliação poderá ser realizada, excepcionalmente, a requerimento do servidor ou, de ofício, pelo chefe imediato, em caso de juízo discricionário de merecimento ou falta de desempenho do servidor, e será submetida à Superintendência dos Escritórios de Projetos para validação.<br>
+Parágrafo único. A avaliação poderá ser realizada, excepcionalmente, a requerimento do servidor ou, de ofício, pelo chefe imediato, em caso de juízo discricionário de merecimento ou falta de desempenho do servidor, e será submetida à Superintendência dos Escritórios de Projetos para validação.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-Art. 7º-F A Superintendência dos Escritórios de Projetos deverá manter, conjuntamente aos Escritórios de Projetos Setoriais e às unidades correlatas, a atualização do controle dos servidores e dos empregados públicos que auferirem GRGs ou FCRGs.<br>
+Art. 7º-F A Superintendência dos Escritórios de Projetos deverá manter, conjuntamente aos Escritórios de Projetos Setoriais e às unidades correlatas, a atualização do controle dos servidores e dos empregados públicos que auferirem GRGs ou FCRGs.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
-Art. 7º-G A realização de atribuições divergentes das previstas neste Decreto, por servidores contemplados com GRGs ou FCRGs será considerada desvio de função e descumprimento dos objetivos estabelecidos no art. 7º do [Decreto nº 10.263](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107154), de 19 de maio de 2023, e poderá ocasionar a perda da GRG ou da FCRG.<br>
+Art. 7º-G A realização de atribuições divergentes das previstas neste Decreto, por servidores contemplados com GRGs ou FCRGs será considerada desvio de função e descumprimento dos objetivos estabelecidos no art. 7º do [Decreto nº 10.263](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107154), de 19 de maio de 2023, e poderá ocasionar a perda da GRG ou da FCRG.
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 Art. 8º Este Decreto entra em vigor na data da sua publicação.
@@ -506,32 +636,32 @@ RONALDO CAIADO
 
 Governador do Estado
 
-ANEXO I<br>
+ANEXO I
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25, art. 2º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 FICHA DE AVALIAÇÃO DE DESEMPENHO DE ASSESSOR
 
-<table style="width: 500px;"><tbody><tr><td colspan="8" style="text-align: center;">Identificação do servidor</td></tr><tr><td style="width: 89px;">Nome</td><td colspan="7" rowspan="1" style="width: 367px;">&nbsp;</td></tr><tr><td style="width: 89px;">CPF</td><td colspan="7" rowspan="1" style="width: 367px;">&nbsp;</td></tr><tr><td style="width: 89px;">Cargo</td><td colspan="7" rowspan="1" style="width: 367px;">&nbsp;</td></tr><tr><td style="width: 89px;">Lotação</td><td colspan="7" rowspan="1" style="width: 367px;">&nbsp;</td></tr><tr><td style="width: 89px;">Nível – GRG ou FCRG</td><td colspan="7" rowspan="1" style="width: 367px;">&nbsp;</td></tr><tr><td colspan="8" style="text-align: center;">Avaliação</td></tr><tr><td colspan="2" rowspan="2" style="width: 209px;"><p class="titulo-centralizado">&nbsp; a) aspectos administrativos</p></td><td colspan="6" rowspan="1" style="width: 247px;"><p class="titulo-centralizado">Classificação</p></td></tr><tr><td colspan="2" style="width: 87px;"><p class="titulo-centralizado">Ótima<br>(10)</p></td><td><p class="titulo-centralizado">Boa (8)</p></td><td style="width: 38px;"><p class="titulo-centralizado">Regular<br>6)</p></td><td colspan="2" style="width: 45px;"><p class="titulo-centralizado">Fraca<br>(5)</p></td></tr><tr><td style="width: 89px;">1</td><td style="width: 104px;">Assiduidade</td><td colspan="2" rowspan="1" style="width: 102px;">&nbsp;</td><td rowspan="1" style="width: 102px;">&nbsp;</td><td rowspan="1" style="width: 102px;">&nbsp;</td><td colspan="3" rowspan="1" style="width: 102px;">&nbsp;</td></tr><tr><td rowspan="2" style="width: 89px;">2</td><td rowspan="2" style="width: 104px;">Pontualidade/cumprimento da carga horária</td><td colspan="2" rowspan="2" style="width: 111px;">&nbsp;</td><td colspan="1" rowspan="2" style="width: 111px;">&nbsp;</td><td colspan="1" rowspan="2" style="width: 111px;">&nbsp;</td></tr><tr><td style="width: 111px;">&nbsp;</td></tr><tr><td colspan="2" style="width: 111px;"><p class="titulo-centralizado">Sub-total “a”:</p><p class="titulo-centralizado">&nbsp;</p></td><td colspan="8" style="width: 111px;">&nbsp;</td></tr><tr><td colspan="2" rowspan="2" style="width: 89px;">&nbsp;&nbsp; b) aspectos comportamentais</td><td colspan="6" rowspan="1" style="width: 111px;"><p class="titulo-centralizado">Classificação</p></td></tr><tr><td colspan="2" style="width: 111px;"><p class="titulo-centralizado">Ótima<br>(10)</p></td><td><p class="titulo-centralizado">Boa (8)</p></td><td style="width: 38px;"><p class="titulo-centralizado">Regular<br>(6)</p></td><td colspan="2" style="width: 45px;"><p class="titulo-centralizado">Fraca<br>(5)</p></td></tr><tr><td style="width: 89px;">3</td><td style="width: 104px;">Disciplina e responsabilidade no cumprimento das atividades</td><td colspan="2" style="width: 111px;">&nbsp;</td><td>&nbsp;</td><td style="width: 38px;">&nbsp;</td><td colspan="2" style="width: 45px;">&nbsp;</td></tr><tr><td style="width: 89px;">4</td><td style="width: 104px;">Cooperação e trabalho em equipe</td><td colspan="2" style="width: 111px;">&nbsp;</td><td>&nbsp;</td><td style="width: 38px;">&nbsp;</td><td colspan="2" style="width: 45px;">&nbsp;</td></tr><tr><td style="width: 89px;">5</td><td style="width: 104px;">Organização e priorização de atividades</td><td colspan="2" style="width: 111px;">&nbsp;</td><td>&nbsp;</td><td style="width: 38px;">&nbsp;</td><td colspan="2" style="width: 45px;">&nbsp;</td></tr><tr><td colspan="2" style="width: 89px;"><p class="titulo-centralizado">Sub-total “b”:</p></td><td colspan="6" rowspan="1" style="width: 89px;">&nbsp;</td></tr><tr><td colspan="2" rowspan="2" style="width: 89px;"><p class="titulo-centralizado">&nbsp; c) aspectos técnicos/de negócio</p></td><td colspan="6" rowspan="1" style="width: 111px;"><p class="titulo-centralizado">Classificação</p></td></tr><tr><td colspan="2" style="width: 111px;"><p class="titulo-centralizado">Ótima<br>(10)</p></td><td><p class="titulo-centralizado">Boa (8)</p></td><td style="width: 38px;"><p class="titulo-centralizado">Regular<br>(6)</p></td><td colspan="2" style="width: 45px;"><p class="titulo-centralizado">Fraca<br>(5)</p></td></tr><tr><td style="width: 89px;">6</td><td style="width: 104px;">Produtividade quantitativa</td><td colspan="2" style="width: 111px;">&nbsp;</td><td>&nbsp;</td><td style="width: 38px;">&nbsp;</td><td colspan="2" style="width: 45px;">&nbsp;</td></tr><tr><td style="width: 89px;">7</td><td style="width: 104px;">Produtividade qualitativa</td><td colspan="2" style="width: 111px;">&nbsp;</td><td>&nbsp;</td><td style="width: 38px;">&nbsp;</td><td colspan="2" style="width: 45px;">&nbsp;</td></tr><tr><td style="width: 89px;">8</td><td style="width: 104px;">Cumprimento dos prazos internos e externos</td><td colspan="2" style="width: 111px;">&nbsp;</td><td>&nbsp;</td><td style="width: 38px;">&nbsp;</td><td colspan="2" style="width: 45px;">&nbsp;</td></tr><tr><td style="width: 89px;">9</td><td style="width: 104px;">Domínio dos assuntos dos projetos da pasta</td><td colspan="2" style="width: 111px;">&nbsp;</td><td>&nbsp;</td><td style="width: 38px;">&nbsp;</td><td colspan="2" style="width: 45px;">&nbsp;</td></tr><tr><td style="width: 89px;">10</td><td style="width: 104px;">Domínio da legislação do Governo e pertinente aos negócios da pasta</td><td colspan="2" style="width: 111px;">&nbsp;</td><td>&nbsp;</td><td style="width: 38px;">&nbsp;</td><td colspan="2" style="width: 45px;">&nbsp;</td></tr><tr><td style="width: 89px;">11</td><td style="width: 104px;">Domínio de gerenciamento de projetos (escopo, cronograma, custos, riscos, aquisições, comunicação e partes interessadas)</td><td colspan="2" style="width: 111px;">&nbsp;</td><td>&nbsp;</td><td style="width: 38px;">&nbsp;</td><td colspan="2" style="width: 45px;">&nbsp;</td></tr><tr><td style="width: 89px;">12</td><td style="width: 104px;">Domínio das ferramentas de gestão de projetos indicadas pela unidade central</td><td colspan="2" style="width: 111px;">&nbsp;</td><td>&nbsp;</td><td style="width: 38px;">&nbsp;</td><td colspan="2" style="width: 45px;">&nbsp;</td></tr><tr><td colspan="2" rowspan="1" style="width: 89px;"><p class="titulo-centralizado">Sub-total “c”:</p></td><td colspan="6" rowspan="1" style="width: 111px;">&nbsp;</td></tr><tr><td colspan="2" style="width: 89px;"><p class="titulo-centralizado">XTOTAL “a” + “b” + “c”:</p></td><td colspan="6" style="width: 111px;">&nbsp;</td></tr><tr><td colspan="8" style="width: 89px;"><p class="titulo-centralizado">Observações Gerais</p></td></tr><tr><td colspan="8" style="width: 89px;"><p class="titulo-centralizado">Apresenta necessidade de:</p></td></tr><tr><td style="width: 89px;">Acompanhamento</td><td style="width: 104px;"><p class="titulo-centralizado">( ) sim</p></td><td colspan="6" rowspan="1" style="width: 111px;"><p class="titulo-centralizado">( ) não</p></td></tr><tr><td style="width: 89px;">Treinamento</td><td style="width: 104px;"><p class="titulo-centralizado">( ) sim</p></td><td colspan="6" rowspan="1" style="width: 111px;"><p class="titulo-centralizado">( ) não</p></td></tr><tr><td style="width: 89px;">Remoção da GRG ou da FCRG</td><td style="width: 104px;"><p class="titulo-centralizado">( ) sim</p></td><td colspan="6" rowspan="1" style="width: 111px;"><p class="titulo-centralizado">( ) não</p></td></tr><tr><td style="width: 89px;">Data</td><td colspan="7" rowspan="1" style="width: 104px;"><p class="titulo-centralizado">Ciência do servidor</p></td></tr><tr><td style="width: 89px;">&nbsp;</td><td colspan="7" rowspan="1" style="width: 104px;">&nbsp;</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">Identificação do servidor</td></tr><tr><td>Nome</td><td colspan="7" rowspan="1">&nbsp;</td></tr><tr><td>CPF</td><td colspan="7" rowspan="1">&nbsp;</td></tr><tr><td>Cargo</td><td colspan="7" rowspan="1">&nbsp;</td></tr><tr><td>Lotação</td><td colspan="7" rowspan="1">&nbsp;</td></tr><tr><td>Nível – GRG ou FCRG</td><td colspan="7" rowspan="1">&nbsp;</td></tr><tr><td colspan="8">Avaliação</td></tr><tr><td colspan="2" rowspan="2"> &nbsp; a) aspectos administrativos </td><td colspan="6" rowspan="1"> Classificação </td></tr><tr><td colspan="2"> Ótima (10) </td><td> Boa (8) </td><td> Regular 6) </td><td colspan="2"> Fraca (5) </td></tr><tr><td>1</td><td>Assiduidade</td><td colspan="2" rowspan="1">&nbsp;</td><td rowspan="1">&nbsp;</td><td rowspan="1">&nbsp;</td><td colspan="3" rowspan="1">&nbsp;</td></tr><tr><td rowspan="2">2</td><td rowspan="2">Pontualidade/cumprimento da carga horária</td><td colspan="2" rowspan="2">&nbsp;</td><td colspan="1" rowspan="2">&nbsp;</td><td colspan="1" rowspan="2">&nbsp;</td></tr><tr><td>&nbsp;</td></tr><tr><td colspan="2"> Sub-total “a”: &nbsp; </td><td colspan="8">&nbsp;</td></tr><tr><td colspan="2" rowspan="2">&nbsp;&nbsp; b) aspectos comportamentais</td><td colspan="6" rowspan="1"> Classificação </td></tr><tr><td colspan="2"> Ótima (10) </td><td> Boa (8) </td><td> Regular (6) </td><td colspan="2"> Fraca (5) </td></tr><tr><td>3</td><td>Disciplina e responsabilidade no cumprimento das atividades</td><td colspan="2">&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td colspan="2">&nbsp;</td></tr><tr><td>4</td><td>Cooperação e trabalho em equipe</td><td colspan="2">&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td colspan="2">&nbsp;</td></tr><tr><td>5</td><td>Organização e priorização de atividades</td><td colspan="2">&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td colspan="2">&nbsp;</td></tr><tr><td colspan="2"> Sub-total “b”: </td><td colspan="6" rowspan="1">&nbsp;</td></tr><tr><td colspan="2" rowspan="2"> &nbsp; c) aspectos técnicos/de negócio </td><td colspan="6" rowspan="1"> Classificação </td></tr><tr><td colspan="2"> Ótima (10) </td><td> Boa (8) </td><td> Regular (6) </td><td colspan="2"> Fraca (5) </td></tr><tr><td>6</td><td>Produtividade quantitativa</td><td colspan="2">&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td colspan="2">&nbsp;</td></tr><tr><td>7</td><td>Produtividade qualitativa</td><td colspan="2">&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td colspan="2">&nbsp;</td></tr><tr><td>8</td><td>Cumprimento dos prazos internos e externos</td><td colspan="2">&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td colspan="2">&nbsp;</td></tr><tr><td>9</td><td>Domínio dos assuntos dos projetos da pasta</td><td colspan="2">&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td colspan="2">&nbsp;</td></tr><tr><td>10</td><td>Domínio da legislação do Governo e pertinente aos negócios da pasta</td><td colspan="2">&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td colspan="2">&nbsp;</td></tr><tr><td>11</td><td>Domínio de gerenciamento de projetos (escopo, cronograma, custos, riscos, aquisições, comunicação e partes interessadas)</td><td colspan="2">&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td colspan="2">&nbsp;</td></tr><tr><td>12</td><td>Domínio das ferramentas de gestão de projetos indicadas pela unidade central</td><td colspan="2">&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td colspan="2">&nbsp;</td></tr><tr><td colspan="2" rowspan="1"> Sub-total “c”: </td><td colspan="6" rowspan="1">&nbsp;</td></tr><tr><td colspan="2"> XTOTAL “a” + “b” + “c”: </td><td colspan="6">&nbsp;</td></tr><tr><td colspan="8"> Observações Gerais </td></tr><tr><td colspan="8"> Apresenta necessidade de: </td></tr><tr><td>Acompanhamento</td><td> ( ) sim </td><td colspan="6" rowspan="1"> ( ) não </td></tr><tr><td>Treinamento</td><td> ( ) sim </td><td colspan="6" rowspan="1"> ( ) não </td></tr><tr><td>Remoção da GRG ou da FCRG</td><td> ( ) sim </td><td colspan="6" rowspan="1"> ( ) não </td></tr><tr><td>Data</td><td colspan="7" rowspan="1"> Ciência do servidor </td></tr><tr><td>&nbsp;</td><td colspan="7" rowspan="1">&nbsp;</td></tr></tbody></table>
 
  
 
-<br>
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 Assinatura do Chefe Imediato
 
-<br>
 INSTRUÇÃO PARA O PREENCHIMENTO DA PONTUAÇÃO NA FICHA DE AVALIAÇÃO
 
-<table style="width: 500px;"><tbody><tr><td>a) classificação dos aspectos administrativos</td><td colspan="2" style="width: 111px;"><p>Ótima</p></td><td><p>Boa&nbsp;</p></td><td style="width: 38px;"><p>Regular</p></td><td colspan="2" style="width: 45px;"><p>Fraca</p></td></tr><tr><td><p class="titulo-centralizado">Notas</p></td><td colspan="2" rowspan="1"><p class="titulo-centralizado">(10)</p></td><td><p class="titulo-centralizado">(8)</p></td><td><p class="titulo-centralizado">(6)</p></td><td><p class="titulo-centralizado">(5)</p></td></tr></tbody></table>
+<table><tbody><tr><td>a) classificação dos aspectos administrativos</td><td colspan="2"> Ótima </td><td> Boa&nbsp; </td><td> Regular </td><td colspan="2"> Fraca </td></tr><tr><td> Notas </td><td colspan="2" rowspan="1"> (10) </td><td> (8) </td><td> (6) </td><td> (5) </td></tr></tbody></table>
 
-<table style="width: 500px;"><tbody><tr><td>b) classificação dos aspectos comportamentais</td><td colspan="2" style="width: 111px;"><p>Ótima</p></td><td><p>Boa&nbsp;</p></td><td style="width: 38px;"><p>Regular</p></td><td colspan="2" style="width: 45px;"><p>Fraca</p></td></tr><tr><td><p class="titulo-centralizado">Notas</p></td><td colspan="2" rowspan="1"><p class="titulo-centralizado">(10)</p></td><td><p class="titulo-centralizado">(8)</p></td><td><p class="titulo-centralizado">(6)</p></td><td colspan="2" rowspan="1"><p class="titulo-centralizado">(5)</p></td></tr></tbody></table>
+<table><tbody><tr><td>b) classificação dos aspectos comportamentais</td><td colspan="2"> Ótima </td><td> Boa&nbsp; </td><td> Regular </td><td colspan="2"> Fraca </td></tr><tr><td> Notas </td><td colspan="2" rowspan="1"> (10) </td><td> (8) </td><td> (6) </td><td colspan="2" rowspan="1"> (5) </td></tr></tbody></table>
 
-<table style="width: 500px;"><tbody><tr><td>c) classificação dos aspectos técnicos</td><td colspan="2" style="width: 111px;"><p>Ótima</p></td><td><p>Boa&nbsp;</p></td><td style="width: 38px;"><p>Regular</p></td><td colspan="2" style="width: 45px;"><p>Fraca</p></td></tr><tr><td><p class="titulo-centralizado">Notas</p></td><td colspan="2" rowspan="1"><p class="titulo-centralizado">(10)</p></td><td><p class="titulo-centralizado">(8)</p></td><td><p class="titulo-centralizado">(6)</p></td><td colspan="2" rowspan="1"><p class="titulo-centralizado">(5)</p></td></tr></tbody></table>
+<table><tbody><tr><td>c) classificação dos aspectos técnicos</td><td colspan="2"> Ótima </td><td> Boa&nbsp; </td><td> Regular </td><td colspan="2"> Fraca </td></tr><tr><td> Notas </td><td colspan="2" rowspan="1"> (10) </td><td> (8) </td><td> (6) </td><td colspan="2" rowspan="1"> (5) </td></tr></tbody></table>
 
 Total (“a” + “b” + “c”): nota final de desempenho obtida pelo servidor, mediante a soma do subtotal “a”, do subtotal “b” e do subtotal “c”. 
 
-<br>
-ANEXO II<br>
+ANEXO II
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25, art. 2º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 CRITÉRIOS PARA O PREENCHIMENTO DA FICHA DE AVALIAÇÃO
@@ -916,7 +1046,8 @@ CRITÉRIOS PARA O PREENCHIMENTO DA FICHA DE AVALIAÇÃO
 
 12.4.2 possivelmente precisar de orientação constante para lidar com questões básicas e para se manter atualizado sobre as ferramentas de gestão de projetos recomendadas pela unidade central.
 
-ANEXO III<br>
+ANEXO III
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25, art. 2º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ÍNDICES PARA O CÁLCULO DA COMPLEXIDADE (C)
@@ -951,7 +1082,8 @@ ANEXO III<br>
 | 2 | 2 | 4 |
 | 2 | 2 | 4 |
 
-ANEXO IV<br>
+ANEXO IV
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25, art. 2º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 ÍNDICES PARA O CÁLCULO DO TOTAL DE GRGs OU FCRGs (T)
@@ -986,7 +1118,8 @@ ANEXO IV<br>
 | 4 | 1,2 | 5 |
 | 4 | 1,3 | 5 |
 
-ANEXO V<br>
+ANEXO V
+
 \- [Acrescido pelo Decreto nº 10.624, de 10-01-25, art. 2º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110375).
 
 GRATIFICAÇÃO DA REDE DE GESTÃO DE PROJETOS

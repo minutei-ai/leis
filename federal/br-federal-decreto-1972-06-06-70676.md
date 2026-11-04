@@ -1,5 +1,3 @@
-###DEC-070676-0-000-06-06-1972@@@
-
 DECRETO Nº 70.676, DE 6 DE JUNHO DE 1972.
 
 Redistribui, com o respectivo ocupante, para o Ministério da Justiça, cargo do Ministério da Saúde, e dá outra providências.

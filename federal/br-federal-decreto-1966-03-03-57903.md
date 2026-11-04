@@ -1,5 +1,3 @@
-###DEC-057903-0-000-03-03-1966@@@
-
 DECRETO Nº 57.903, DE 3 DE MARÇO DE 1966.
 
 Declara de utilidade pública o Centro Social “Sagrada Família”, com sede em Campinas, Estado de São Paulo.

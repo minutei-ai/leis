@@ -1,5 +1,3 @@
-###DEC-054035-0-000-21-07-1964@@@
-
 DECRETO Nº 54.035, DE 21 DE JULHO DE 1964.
 
 Aprova a revisão dos Quadros de Pessoal, provisórios, do Conselho Nacional de Pesquisas, do Instituto Brasileiro de Bibliografia e Documentação e do Instituto Nacional de Pesquisas da Amazônia e dá outras providências.

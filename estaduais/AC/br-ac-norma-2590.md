@@ -2,7 +2,11 @@ Modificada pela Lei nº [3.751, de 08 de Julho de 2021.](https://legis.ac.gov.br
 
 > **LEI Nº 3.599, DE 09 DE JANEIRO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Veda a inauguração de obra pública incompleta ou que não atenda ao fim a que se destina, no âmbito da administração direta, autárquica e fundacional do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Veda a inauguração de obra pública incompleta ou que não atenda ao fim a que se destina, no âmbito da administração direta, autárquica e fundacional do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -28,7 +32,7 @@ Modificada pela Lei nº [3.751, de 08 de Julho de 2021.](https://legis.ac.gov.br
 
 **~~II~~** ~~\- não possuir Iicenças e alvarás de funcionamento.~~
 
-**II –** não possuir licenças e alvarás de funcionamento, salvo nos casos em que se comprove ter havido a formalização, no âmbito dos órgãos competentes, de pedido para a expedição desses documentos há mais de sessenta dias e tenha autorização provisória. (Redação dada pela Lei nº 3.751, de 08/07/2021)<br>
+**II –** não possuir licenças e alvarás de funcionamento, salvo nos casos em que se comprove ter havido a formalização, no âmbito dos órgãos competentes, de pedido para a expedição desses documentos há mais de sessenta dias e tenha autorização provisória. (Redação dada pela Lei nº 3.751, de 08/07/2021)
 
 **§ 2º** Para os fins desta lei, obra pública que não atende aos fins a que se destina é aquela que não apresenta condições de funcionamento por, dentre outros motivos:
 

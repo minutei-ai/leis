@@ -1,5 +1,3 @@
-###DEC-060043-0-000-11-01-1967@@@
-
 DECRETo Nº 60.043, DE 11 DE JANEIRO DE 1967.
 
 Autoriza o cidadão brasileiro Valmor Manoel de Freitas a pesquisar calcário no município de Siderópolis, Estado de Santa Catarina.

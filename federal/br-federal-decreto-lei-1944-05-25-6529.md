@@ -1,5 +1,3 @@
-###DEL-006529-0-000-25-05-1944@@@
-
 DECRETO-LEI N. 6.529 – DE 25 DE MAIO DE 1944
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 227.000,00, à verba que especifica

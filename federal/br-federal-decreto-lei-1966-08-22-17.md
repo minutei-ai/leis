@@ -1,5 +1,3 @@
-###DEL-000017-0-000-22-08-1966@@@
-
 DECRETO-LEI Nº 17, DE 22 DE AGÔSTO DE 1966
 
 Introduz alterações em dispositivos, que menciona do Decreto-lei nº 15, de 29 de julho de 1966.

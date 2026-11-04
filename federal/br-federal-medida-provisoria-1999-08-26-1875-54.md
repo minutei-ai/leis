@@ -1,5 +1,3 @@
-###MPV-001875-0-054-26-08-1999@@@
-
 MEDIDA PROViSóRiA Nº 1 875-54, De 26 AGOSTO De 1999.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-078559-0-000-11-10-1976@@@
-
 DECRETO Nº 78.559, 11 DE OUTUBRO DE 1976.
 
 Concede reconhecimento ao cursos de Letras, da Faculdade de Filosofia , Ciências e Letras Isabela Hendrix, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

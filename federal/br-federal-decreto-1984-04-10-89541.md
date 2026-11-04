@@ -1,5 +1,3 @@
-###DEC-089541-0-000-10-04-1984@@@
-
 Decreto nº 89.541, de 10 de abril de 1984.
 
 Autoriza a FORJAS ACESITA S.A. a proceder ao aumento do seu capital social.

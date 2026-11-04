@@ -1,5 +1,3 @@
-###DEL-000075-0-000-16-12-1937@@@
-
 DECRETO-LEI N. 75 – DE 16 DE DEZEMBRO DE 1937
 
 Autoriza o Ministério da Guerra a adquirir um imóvel situado à avenida Brigadeiro Luís Antônio, em São Paulo

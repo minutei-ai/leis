@@ -1,5 +1,3 @@
-###DEL-000205-0-000-27-02-1967@@@
-
 DECRETO-LEI Nº 205, DE 27 DE FEVEREIRO DE 1967
 
 Dispõe sôbre a organização, funcionamento e extinção de aeroclubes, e dá outras providências.

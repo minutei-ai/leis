@@ -1,5 +1,3 @@
-###DEL-007030-0-000-08-11-1944@@@
-
 DECRETO-LEI N. 7.030 – DE 8 DE NOVEMBRO DE 1944
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 24.000,00 para atender ao pagamento de gratificação de representação

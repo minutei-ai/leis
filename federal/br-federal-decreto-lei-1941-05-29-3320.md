@@ -1,5 +1,3 @@
-###DEL-003320-0-000-30-05-1941@@@
-
 DECRETO-LEI N. 3.320 – DE 30 DE MAIO DE 1941
 
 Homologa o acordo de limites entre os Estados de Minas Gerais e Goiaz

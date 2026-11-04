@@ -1,5 +1,3 @@
-###DEL-007213-0-000-30-12-1944@@@
-
 (\*) DECRETO-LEI N. 7.213 – DE 30 DE DEZEMBRO DE 1944
 
 Orça a receita e fixa a despesa do “Plano de Obras e Equipamentos”, para o exercício de 1945

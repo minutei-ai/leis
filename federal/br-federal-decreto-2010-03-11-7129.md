@@ -1,5 +1,3 @@
-###DEC-007129-0-000-11-03-2010@@@
-
 DECRETO Nº 7.129, DE 11 DE MARÇO DE 2010.
 
 O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, inciso IV, da Constituição, e tendo em vista o disposto na Lei no 10.438, de 26 de abril de 2002, no art. 3o da Lei no 10.604, de 17 de dezembro de 2002, na Lei no 10.848, de 15 de março de 2004, e na Lei no 11.943, de 28 de maio de 2009,

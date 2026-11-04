@@ -1,5 +1,3 @@
-###DEC-088502-0-000-12-07-1983@@@
-
 DECRETO Nº 88.502, DE 12 DE JULHO DE 1983
 
 Altera dispositivos do Decreto nº 79.531, de 13 de abril de 1977, que dispõe sobre a Organização Básica do Ministério do Exército.

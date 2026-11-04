@@ -1,5 +1,3 @@
-###DEC-091510-0-000-05-08-1985@@@
-
 DECRETO nº 91.510, de 05 de agosto de 1985.
 
 Altera a composição do Conselho Interministerial do Programa Grande Carajás.
@@ -25,8 +23,6 @@ Brasília, 05 de agosto de 1985; 164º da Independência e 97º da República.
 JOSÉ SARNEY
 
 Renato Archer
-
-###DEC-091510-0-000-05-08-1985@@@RET01+++
 
 DECRETO Nº 91.510, DE 05 DE AGOSTO DE 1985
 

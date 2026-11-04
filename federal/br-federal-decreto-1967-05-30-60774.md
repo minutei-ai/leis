@@ -1,5 +1,3 @@
-###DEC-060774-0-000-30-05-1967@@@
-
 decreto nº 60.774, de 30 de maio de 1967.
 
 Declara de utilidade pública o “Hospital de Caridade de Caràzinho, com sede em Caràzinho, Estado do Rio Grande do Sul.

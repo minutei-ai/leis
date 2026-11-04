@@ -1,5 +1,3 @@
-###DEC-049245-0-000-16-11-1960@@@
-
 DECRETO Nº 49.245, DE 16 DE NOVEMBRO DE 1960.
 
 Declara prioritária ao desenvolvimento do Nordeste para efeito de isenção de impostos e taxas federais, a importação do equipamento ora descrito e consignação a emprêsa SISAL do Brasil S.A. - Sibrasil, de Bayeux (Pb).

@@ -1,5 +1,3 @@
-###DEC-072101-0-000-18-04-1973@@@
-
 DECRETO Nº 72.101, DE 18 DE ABRIL DE 1973.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Campo Largo, Estado do Paraná.

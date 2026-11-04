@@ -1,7 +1,3 @@
-1
-
-###DEC-085839-0-000-24-03-1981@@@
-
 Decreto nº 85.839, DE 24 de março de 1981.
 
 Concede autorização para funcionar como empresa de energia elétrica a ELETROPAULO - Eletricidade de São Paulo S.A.

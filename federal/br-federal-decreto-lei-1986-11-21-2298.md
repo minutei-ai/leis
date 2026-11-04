@@ -1,5 +1,3 @@
-###DEL-002298-0-000-21-11-1986@@@
-
 # DECRETO-LEI Nº 2.298, DE 21 DE NOVEMBRO DE 1986
 
 Dispõe sobre mercado de títulos e valores mobiliários incentivados.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/98b4c911-9fca-4177-81f1-4683076473a8/texto#nowhere)
 
-###DEC-093217-0-000-05-09-1986@@@
-
 # DECRETO Nº 93.217, DE 5 DE SETEMBRO DE 1986
 
 Dispõe sobre a competência para autorização de viagens de servidores ao exterior, e dá outras providências.

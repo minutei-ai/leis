@@ -1,5 +1,3 @@
-###DEC-004934-0-000-23-12-2003@@@
-
 DECRETO Nº 4.934 DE 23 DE DEZEMBRO DE 2003.
 
 Autoriza a prorrogação da descentralização, até 31 de dezembro de 2005, das atividades que menciona.

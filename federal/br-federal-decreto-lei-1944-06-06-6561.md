@@ -1,5 +1,3 @@
-###DEL-006561-0-000-06-06-1944@@@
-
 DECRETO-LEI N. 6.561 – DE 6 DE JUNHO DE 1944
 
 Dispõe sôbre a concessão de auxílio para funeral à família dos funcionários inativos da União

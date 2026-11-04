@@ -1,5 +1,3 @@
-###DEL-005077-0-000-11-12-1942@@@
-
 DECRETO-LEI N. 5.077 – DE 11 DE DEZEMBRO DE 1942
 
 Modifica a legislação relativa ao Instituto Nacional do Sal e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-078369-0-000-03-09-1976@@@
-
 DECRETO Nº 78.369, DE 3 DE SETEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Administração da Escola de Administração de Empresas da Bahia com sede na cidade de Salvador, Estado da Bahia.

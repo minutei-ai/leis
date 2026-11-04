@@ -1,19 +1,27 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=170712)
-
 # LEI Nº 15.091, DE 22 DE JULHO DE 2013
 
 ## (Projeto de lei nº 263/12, da Deputada Regina Gonçalves - PV)
 
 ### _Dá denominação à Delegacia Seccional de Polícia que especifica_
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>
-**Artigo 1º -** Passa a denominar-se “Luiz Angleberto Machado” a Delegacia Seccional de Polícia de Itapetininga.<br>
-**Artigo 2º -** Esta lei entra em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 22 de julho de 2013.<br>
-GERALDO ALCKMIN<br>
-Fernando Grella Vieira<br>
-Secretário da Segurança Pública<br>
-Edson Aparecido dos Santos<br>
-Secretário-Chefe da Casa Civil<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:
+
+**Artigo 1º -** Passa a denominar-se “Luiz Angleberto Machado” a Delegacia Seccional de Polícia de Itapetininga.
+
+**Artigo 2º -** Esta lei entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 22 de julho de 2013.
+
+GERALDO ALCKMIN
+
+Fernando Grella Vieira
+
+Secretário da Segurança Pública
+
+Edson Aparecido dos Santos
+
+Secretário-Chefe da Casa Civil
+
 Publicada na Assessoria Técnico-Legislativa, aos 22 de julho de 2013.

@@ -1,5 +1,3 @@
-###DEC-052999-0-000-27-11-1963@@@
-
 DECRETO Nº 52.999, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza a Sociedade Brasileira de Mineração “Fama” Ltda. a pesquisar amianto no município de Lavras do Sul, Estado do Rio Grande do Sul.

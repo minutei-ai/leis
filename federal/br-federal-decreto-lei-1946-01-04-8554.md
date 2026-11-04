@@ -1,5 +1,3 @@
-###DEL-008554-0-000-04-01-1946@@@
-
 DECRETO-LEI N. 8.554 – DE 4 DE JANEIRO DE 1946
 
 Aprova o Regimento de Custas da Justiça do Distrito Federal.

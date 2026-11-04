@@ -1,5 +1,3 @@
-###DEC-051086-0-000-31-07-1961@@@
-
 DECRETO Nº 51.086, DE 31 DE JULHO DE 1961.
 
 Regulamenta o art. 17 da Lei nº 3.496, de 21 de dezembro de 1958.

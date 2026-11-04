@@ -1,5 +1,3 @@
-###DEC-071725-0-000-17-01-1973@@@
-
 DECRETO Nº 71.725, de 17 de janeiro de 1973.
 
 Torna sem efeito aproveitamento, no Quadro Único de Pessoal da Universidade Federal da Bahia, de disponíveis do Departamento Nacional de Obras Contra as Secas, e dá outras providências.

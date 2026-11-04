@@ -1,7 +1,3 @@
-1
-
-###MPV-000739-0-000-02-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 739, DE 2 DE DEZEMBRO DE 1994.
 
 Concede novo prazo para conclusão do inventário do Instituto Nacional de Assistência Médica da Previdência Social (Inamps), extinto pela Lei nº 8.689, de 27 de julho de 1993.

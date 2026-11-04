@@ -399,7 +399,3 @@ JÚLIO FERREIRA DE CARVALHO
 Fernando de Sousa Melo Viana
 
 João Franzen de Lima
-
-\=====================================
-
-Data da última atualização: 20/09/2011.

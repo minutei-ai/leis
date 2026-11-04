@@ -1,14 +1,12 @@
-###DEC-035408-0-000-28-04-1954@@@
+**DECRETO Nº 35.408 DE 28 DE ABRIL DE 1954.**
 
-<strong>DECRETO Nº 35.408 DE 28 DE ABRIL DE 1954.</strong>
+***Abre, ao Ministério da Saúde, o crédito especial de CR$100.000.000,00 destinado ao combate do câncer em todo o pais.***
 
-<em><strong>Abre, ao Ministério da Saúde, o crédito especial de CR$100.000.000,00 destinado ao combate do câncer em todo o pais.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da autorização contida na Lei número 2.143, de 26 de dezembro de 1953, e tendo ouvido o Tribunal de Contas nós têrmos do art. 93 do Regulamento Geral de Contabilidade Pública,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da autorização contida na Lei número 2.143, de 26 de dezembro de 1953, e tendo ouvido o Tribunal de Contas nós têrmos do art. 93 do Regulamento Geral de Contabilidade Pública,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica aberto, ao Ministério da Saúde, o crédito especial de CR$100.000.000,00 (cem milhões de cruzeiros) destinado à campanha contra o Câncer em todo território nacional quantias:
+**Art**. 1º Fica aberto, ao Ministério da Saúde, o crédito especial de CR$100.000.000,00 (cem milhões de cruzeiros) destinado à campanha contra o Câncer em todo território nacional quantias:
 
 § 1º. Do crédito de que trata êste artigo serão destacadas as seguintes quantias:
 
@@ -62,11 +60,11 @@ Mato Grosso ....................................................................
 
 Amazonas ...................................................................................................................... 500.000,00
 
-<strong>Art</strong>. 2º. O presente decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 2º. O presente decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 28 de abril de 1954; 133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Miguel Couto Filho
 

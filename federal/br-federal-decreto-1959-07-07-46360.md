@@ -1,5 +1,3 @@
-###DEC-046360-0-000-07-07-1959@@@
-
 DECRETO Nº 46.360, DE 7 DE JULHO DE 1959.
 
 Constitui Grupo de Trabalho com a finalidade de planejar e executar medidas necessárias ao desenvolvimento econômico e social do vale do rio Parnaíba, no Estado do Piauí, objetivando o abastecimento de Teresina.

@@ -1,5 +1,3 @@
-###DEC-072711-0-000-28-08-1973@@@
-
 DECRETO Nº 72.711, DE 28 DE AGOSTO DE 1973.
 
 Aproveita, no Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado, servidores em disponibilidade e dá outras providências.

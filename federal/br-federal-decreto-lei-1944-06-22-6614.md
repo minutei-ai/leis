@@ -1,5 +1,3 @@
-###DEL-006614-0-000-22-06-1944@@@
-
 DECRETO-LEI N. 6.614 – DE 22 de JUNHO DE 1944
 
 Revalida o prazo da concessão feita ao Jóquei Clube Brasileiro, para extrações do Sweepstake

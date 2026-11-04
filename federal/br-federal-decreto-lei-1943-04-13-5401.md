@@ -1,5 +1,3 @@
-###DEL-005401-0-000-13-04-1943@@@
-
 DECRETO‑LEi N. 5.401 – DE 13 DE ABRIL DE 1943
 
 Altera o decreto‑lei n. 2.035, de 27 de fevereiro de 1940, que dispôs sobre a justiça do Distrito Federal

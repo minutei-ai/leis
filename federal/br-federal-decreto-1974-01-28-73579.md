@@ -1,5 +1,3 @@
-###DEC-073579-0-000-28-01-1974@@@
-
 DECRETO Nº 73.579, DE 28 DE JANEIRO DE 1974.
 
 Especifica os bens imóveis a serem avaliados para a integralização do aumento do capital social da Companhia Auxiliar de Empresas Elétricas Brasileiras - CAEEB.

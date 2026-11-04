@@ -1,6 +1,10 @@
 > **LEI Nº 3.216, DE 29 DE DEZEMBRO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Fundo de Equilíbrio Fiscal do Estado do Acre - FEFAC e condiciona a fruição de incentivos ou benefícios fiscais ou financeiros à efetivação de depósitos no referido fundo, nos termos do Convênio ICMS 42, de 3 de maio de 2016.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Fundo de Equilíbrio Fiscal do Estado do Acre - FEFAC e condiciona a fruição de incentivos ou benefícios fiscais ou financeiros à efetivação de depósitos no referido fundo, nos termos do Convênio ICMS 42, de 3 de maio de 2016.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

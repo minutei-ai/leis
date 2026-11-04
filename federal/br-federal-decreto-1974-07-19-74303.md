@@ -1,5 +1,3 @@
-###DEC-074303-0-000-19-07-1974@@@
-
 DECRETO Nº 74.303 - DE 19 DE JULHO DE 1974.
 
 Encampa bens e instalações de concessão de que é titular a Companhia de Eletricidade do Amapá - CEA.

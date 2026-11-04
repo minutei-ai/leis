@@ -1,5 +1,3 @@
-###DEC-055639-0-000-27-01-1965@@@
-
 DECRETO Nº 55.639, DE 27 DE JANEIRO de 1965.
 
 Institui a “Hora de Verão”em todo o território nacional.

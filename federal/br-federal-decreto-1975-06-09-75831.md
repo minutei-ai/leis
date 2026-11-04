@@ -1,5 +1,3 @@
-###DEC-075831-0-000-09-06-1975@@@
-
 Decreto nº 75.831, de 9 de junho de 1975.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Osasco, Estado de São Paulo.

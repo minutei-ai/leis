@@ -1,5 +1,3 @@
-###DEL-005002-0-000-27-11-1942@@@
-
 DECRETO-LEI N. 5.002 – DE 27 DE NOVEMBRO DE 1942
 
 Reorganiza o Serviço de Intendência no Exército

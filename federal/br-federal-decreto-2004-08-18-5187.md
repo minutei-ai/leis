@@ -1,5 +1,3 @@
-###DEC-005187-0-000-18-08-2004@@@
-
 DECRETO Nº 5.187 DE 18 DE AGOSTO DE 2004
 
 Altera o art. 3º do Decreto nº 4.923, de 18 de dezembro de 2003, que dispõe sobre o Conselho de Transparência Pública e Combate à Corrupção.

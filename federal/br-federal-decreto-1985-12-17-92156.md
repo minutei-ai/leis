@@ -1,5 +1,3 @@
-###DEC-092156-0-000-17-12-1985@@@
-
 Decreto nº 92.156, de 17 de dezembro de 1985.
 
 Cria Funções de Assessoramento Superior (FAS) para os Ministérios da Cultura, do Desenvolvimento Urbano e Meio Ambiente, da Reforma e do Desenvolvimento Agrário, da Ciência e Tecnologia, e dá outras providências.

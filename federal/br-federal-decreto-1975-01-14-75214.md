@@ -1,5 +1,3 @@
-###DEC-075214-0-000-14-01-1975@@@
-
 DECRETO Nº 75.214, DE 14 DE JANEIRO DE 1975.
 
 Fixa as proporções a serrem observadas no cálculo de número de vagas referentes aos Quadros de Oficiais de Administração e de Oficiais Especialistas, no ano de 1974.

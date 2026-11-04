@@ -1,5 +1,3 @@
-###DEC-073728-0-000-04-03-1974@@@
-
 DECRETO Nº 73.728, DE 4 DE MARÇO DE 1974.
 
 Autoriza a cessão sob a forma de utilização gratuita do terreno que menciona, situado no Município de Colombo, Estado do Paraná.

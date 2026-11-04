@@ -1,5 +1,3 @@
-###DEL-002057-0-000-23-08-1983@@@
-
 # DECRETO-LEI Nº 2.057, DE 23 DE AGOSTO DE 1983.
 
 Altera e revoga dispositivos do Decreto-lei nº 221, de 28 de fevereiro de 1967, que dispõe sobre a proteção e estímulos à pesca, alterado pela Lei nº 6.276, de 01 de dezembro de 1975.

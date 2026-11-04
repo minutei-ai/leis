@@ -1,5 +1,3 @@
-###DEC-075014-0-000-02-12-1974@@@
-
 DECRETO Nº 75.014, DE 2 DE DEZEMBRO DE 1974.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de São Borja, mantida pela Fundação Educacional de São Borja, com sede na Cidade de São Borja, Estado do Rio Grande do Sul.

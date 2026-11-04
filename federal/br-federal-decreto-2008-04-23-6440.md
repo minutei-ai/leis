@@ -1,5 +1,3 @@
-###DEC-006440-0-000-23-04-2008@@@
-
 DECRETO Nº 6.440, DE 23 DE ABRIL DE 2008.
 
 Promulga o Acordo Relativo à Implementação da Parte XI da Convenção das Nações Unidas sobre o Direito do Mar, de 10 de dezembro de 1982, concluído em Nova York, em 29 de julho de 1994.
@@ -22,11 +20,7 @@ Brasília, 23 de abril de 2008; 187º da Independência e 120º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no DOU de 24.4.2008
-
-ACORDO RELATIVO À IMPLEMENTAÇÃO DA PARTE XI DA CONVENÇÃO DAS
+Samuel Pinheiro Guimarães NetoACORDO RELATIVO À IMPLEMENTAÇÃO DA PARTE XI DA CONVENÇÃO DAS
 
 NAÇÕES UNIDAS SOBRE O DIREITO DO MAR DE 10 DE DEZEMBRO DE 1982
 

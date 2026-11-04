@@ -1,5 +1,3 @@
-###DEC-045272-0-000-23-01-1959@@@
-
 decreto nº 45.272, de 23 de janeiro de 1959.
 
 Concede à sociedade L. Figueiredo Navegação S.A. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

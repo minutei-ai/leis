@@ -1,7 +1,3 @@
-1
-
-###DEL-000788-0-000-26-08-1969@@@
-
 (\*) Decreto-lei nº 788, DE 26 DE AGÔSTO DE 1969
 
 Institui a classe singular de Técnico de Tributação e dá outras providências.
@@ -57,8 +53,6 @@ A. COSTA E SILVA
 Antônio Delfim Netto
 
 Hélio Beltrão
-
-###DEL-000788-0-000-26-08-1969@@@REP01+++
 
 (\*) DECRETO-LEI Nº 788, DE 26 DE AGÔSTO DE 1969
 

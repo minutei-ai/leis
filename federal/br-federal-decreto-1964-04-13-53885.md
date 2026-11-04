@@ -1,5 +1,3 @@
-###DEC-053885-0-000-13-04-1964@@@
-
 DECRETO Nº 53.885, DE 13 DE ABRIL DE 1964.
 
 Revoga os Decretos de nº 53.372 e 53.373, de 31 de Dezembro de 1963, referente à Universidade Federal de São Paulo e dá outras providências.

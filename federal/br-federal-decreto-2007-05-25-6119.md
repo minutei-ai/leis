@@ -1,5 +1,3 @@
-###DEC-006119-0-000-25-05-2007@@@
-
 DECRETO Nº 6.119, DE 25 DE MAIO DE 2007.
 
 Dá nova redação ao art. 2o do Decreto no 5.255, de 27 de outubro de 2004, que dispõe sobre o remanejamento de cargos em comissão e das funções gratificadas que menciona, e dá outras providências.
@@ -39,5 +37,3 @@ LUIZ INÁCIO LULA DA SILVA
 Paulo Bernardo Silva
 
 Jose Antonio Dias Toffoli
-
-Este texto não substitui o publicado no DOU de 28.5.2007.

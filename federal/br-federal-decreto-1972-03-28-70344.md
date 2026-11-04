@@ -1,5 +1,3 @@
-###DEC-070344-0-000-28-03-1972@@@
-
 DECRETO Nº 70.344, DE 28 DE MARÇO DE 1972.
 
 Redistribui, com os respectivos ocupantes, cargos do Ministério da Agricultura para o Instituto Brasileiro de Desenvolvimento Florestal, e dá outras providências.

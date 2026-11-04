@@ -10,7 +10,8 @@ Parágrafo único - Os recursos oriundos da operação de crédito autorizada ne
 
 Art. 2º - Para a garantia da operação de que trata o artigo anterior, o Estado da Bahia se obriga a vincular, como contra garantia à garantia da União, as cotas de repartição constitucional das receitas tributárias estabelecidas nos artigos 157 e 159, completadas pelos recursos próprios, nos termos do art. 167, inciso IV, todos da Constituição Federal, ou outras garantias em direito admitidas.
 
-Redação do art. 2º de acordo com o [art. 1º da Lei nº 6.862, de 07 de junho de 1995](https://www.legislabahia.ba.gov.br/documentos/lei-no-6862-de-07-de-junho-de-1995#LO_6_862_Art__1) .<br>
+Redação do art. 2º de acordo com o [art. 1º da Lei nº 6.862, de 07 de junho de 1995](https://www.legislabahia.ba.gov.br/documentos/lei-no-6862-de-07-de-junho-de-1995#LO_6_862_Art__1) .
+
 Redação original: "Art. 2º - As garantias e contragarantia a serem oferecidas para cumprimento do disposto nesta Lei serão constituídas, durante o prazo de vigência do respectivo contrato, de parcelas necessárias e suficientes das cotas de que o Estado da Bahia é titular, por força do disposto no art. 159, inciso I, alínea "a", da Constituição Federal."
 
 Art. 3º - Fica instituído o Fundo de Desenvolvimento Urbano - FUNDURBANO, de caráter rotativo, com a finalidade de financiar programas, projetos e ações, visando dotar as cidades de infra-estrutura urbana compatível com a demanda da população, bem como capacitar as instituições públicas envolvidas.

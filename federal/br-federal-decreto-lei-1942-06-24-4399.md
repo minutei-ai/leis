@@ -1,5 +1,3 @@
-###DEL-004399-0-000-24-06-1942@@@
-
 DECRETO-LEI N. 4.399 – DE 24 DE JUNHO DE 1942
 
 Revigora o decreto-lei n. 3.943, de 17-12-41, que abriu, ao Ministério da Agricultura, o crédito especial de cento e trinta e seis contos e oitocentos mil réis (136:800$0), para atender a despesas com pessoal extranumerário

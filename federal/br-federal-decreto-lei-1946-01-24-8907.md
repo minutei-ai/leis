@@ -1,5 +1,3 @@
-###DEL-008907-0-000-24-01-1946@@@
-
 DECRETO-LEI 8.907 – DE 24 DE JANEIRO DE 1946
 
 Altera, sem aumento de despesa, o vigente orçamento do Ministério de Educação e Saúde.
@@ -20,7 +18,7 @@ S/c nº 04 – Contratados.
 
 06 – Divisão do Pessoal.
 
-<table cellspacing="0" cellpadding="0" style="margin-left:106.35pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td rowspan="2" style="width:95.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>Cr$</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>12.009.600,00</span></p></td></tr><tr><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Passa de ................................................................................</span></p></td></tr><tr><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Para ........................................................................................</span></p></td><td style="width:95.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>11.760.000,00</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td> &nbsp; </td><td rowspan="2"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr$ 12.009.600,00 </td></tr><tr><td> Passa de ................................................................................ </td></tr><tr><td> Para ........................................................................................ </td><td> 11.760.000,00 </td></tr></tbody></table>
 
 S/c nº 05 – Mensalistas.
 
@@ -28,7 +26,7 @@ S/c nº 05 – Mensalistas.
 
 06 – Divisão do Pessoal.
 
-<table cellspacing="0" cellpadding="0" style="margin-left:106.35pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td rowspan="2" style="width:95.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>Cr$</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>69.524.200,00</span></p></td></tr><tr><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Passa de ................................................................................</span></p></td></tr><tr><td style="width:269.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Para .......................................................................................</span></p></td><td style="width:95.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>69.773.800,00</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td> &nbsp; </td><td rowspan="2"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cr$ 69.524.200,00 </td></tr><tr><td> Passa de ................................................................................ </td></tr><tr><td> Para ....................................................................................... </td><td> 69.773.800,00 </td></tr></tbody></table>
 
 Art. 2º Êste Decreto-lei entrará em vigor em 1 de janeiro de 1946.
 

@@ -1,5 +1,3 @@
-###DEC-065400-0-000-13-10-1969@@@
-
 DECRETO nº 65.400 - DE 13 DE OUTUBRO DE 1969.
 
 Da nova redação a dispositivos do Decreto n° 57.651, de 19 de janeiro de 1966.

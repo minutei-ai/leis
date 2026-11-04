@@ -1,5 +1,3 @@
-###DEC-085411-0-000-25-11-1980@@@
-
 Decreto nº 85.411, de 25 de novembro de 1980.
 
 Acrescenta e altera dispositivos do Decreto nº 81.519, de 4 de abril de 1978, que regulamenta a Lei nº 6.511, de 19 de dezembro de 1977, alterada pela Lei nº 6.842, de 3 de novembro de 1980, que dispõe sobre os Prêmios Literários Nacionais.

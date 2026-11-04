@@ -1,5 +1,3 @@
-###DEC-068296-0-000-26-02-1971@@@
-
 DECRETO Nº 68.296, DE 26 DE FEVEREIRO DE 1971.
 
 Regulamenta o Decreto-lei nº 999, de 21 de outubro de 1969, que instituiu a Taxa Rodoviária Única.

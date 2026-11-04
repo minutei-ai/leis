@@ -1,5 +1,3 @@
-###DEC-070328-0-000-24-03-1972@@@
-
 DECRETO Nº 70.328, DE 24 DE MARÇO DE 1972.
 
 Aprova o Regulamento da Comissão Brasileira de Atividades Espaciais e dá outras providências.

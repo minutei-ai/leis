@@ -4,7 +4,8 @@ Dispõe sobre o Estatuto dos Servidores da Prefeitura e Câmara Municipal de Apa
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, SANCIONO A SEGUINTE LEI COMPLEMENTAR:
 
-TÍTULO I<br>
+TÍTULO I
+
 CAPÍTULO ÚNICO DISPOSIÇÕES PRELIMINARES
 
 Art. 1° - Esta lei institui o Estatuto dos Servidores Públicos do Município de Aparecida de Goiânia.
@@ -15,7 +16,8 @@ Art. 2° - Para os efeitos desta lei, servidor público é a pessoa legalmente i
 
 Art. 3° - Cargo público é o conjunto de atribuições e responsabilidades confiadas a servidor público e que tenha como características essenciais a criação por lei, em número certo, com denominação própria e remuneração paga pelo Município.
 
-Parágrafo único – Os cargos, empregos e funções públicas são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei, assim como aos estrangeiros, na forma da lei.<br>
+Parágrafo único – Os cargos, empregos e funções públicas são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei, assim como aos estrangeiros, na forma da lei.
+
 (Redação alterada pela Lei Complementar nº 69, de 20 de fevereiro de 2013).
 
 ~~Parágrafo único - Os cargos, empregos ou funções públicas são acessíveis aos brasileiros que preencham os requisitos estabelecidos em lei.~~
@@ -28,16 +30,20 @@ Art. 6° - É vedado atribuir ao servidor público outras atribuições além da
 
 Art. 7° - É proibida a prestação de serviços gratuitos, salvo os casos previstos em lei.
 
-TÍTULO II<br>
+TÍTULO II
+
 DO PROVIMENTO, VACÂNCIA, MOVIMENTAÇÃO E SUBSTITUIÇÃO
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO PROVIMENTO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DISPOSIÇÕES GERAIS
 
-Art. 8º. São requisitos básicos para ingresso no serviço público do Município, ressalvada a disciplina legal específica para a admissão de estrangeiros:<br>
+Art. 8º. São requisitos básicos para ingresso no serviço público do Município, ressalvada a disciplina legal específica para a admissão de estrangeiros:
+
 (Redação alterada pela Lei Complementar nº 69, de 20 de fevereiro de 2013).
 
 ~~Art. 8° - São requisitos básicos para ingresso no serviço público do Município:~~
@@ -90,7 +96,8 @@ V - reintegração;
 
 VI - recondução.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DO CONCURSO PÚBLICO
 
 Art. 12 - A investidura em cargo público de provimento efetivo será feita mediante aprovação em concurso público, de caráter eliminatório e classificatório, compreendendo provas ou provas e títulos.
@@ -123,7 +130,8 @@ II - não se abrirá novo concurso enquanto houver candidato aprovado em concurs
 
 III - aos candidatos assegurar-se-ão meios amplos de recursos, nas fases de homologação das inscrições, publicação de resultados parciais ou globais, homologação do concurso e nomeação dos aprovados.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DA NOMEAÇÃO
 
 Art. 16 - A nomeação far-se-á:
@@ -136,7 +144,8 @@ Parágrafo único. O servidor ocupante de cargo em comissão ou de natureza espe
 
 Art. 17 - A nomeação para cargo isolado de provimento efetivo ou de carreira depende de prévia habilitação em concurso público de provas ou provas e títulos, obedecidos a ordem de classificação e o prazo de sua validade.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DA POSSE E DO EXERCÍCIO
 
 Art. 18 - Posse é a aceitação expressa das atribuições, deveres e responsabilidades inerentes ao cargo público, com o compromisso de bem servir, formalizada com a assinatura do termo pela autoridade competente e pelo empossado.
@@ -183,8 +192,8 @@ Art. 24 - O servidor não poderá ausentar-se do Município, para estudo ou miss
 
 Art. 25 - O servidor preso preventivamente, em flagrante, ou em virtude de pronúncia, ou ainda, condenado por crime inafiançável, será afastado do exercício do cargo, até decisão final transitada em julgado.
 
-<br>
-SEÇÃO V<br>
+SEÇÃO V
+
 DA JORNADA DE TRABALHO E DA FREQÜÊNCIA AO SERVIÇO
 
 Art. 26 A jornada normal de trabalho do servidor público municipal, exceto os casos previstos em lei, será de 40 (quarenta) horas semanais ou 08 (oito) horas diárias.
@@ -199,7 +208,8 @@ Art. 26 A jornada normal de trabalho do servidor público municipal, exceto os c
 
 §5º Fica autorizado ao Chefe do Poder Executivo, por regulamento, instituir banco de horas de modo a assegurar o efetivo cumprimento da carga horária mensal, equivalente à carga horária semanal de que trata o caput ou, em se tratando de jornada especial, da carga horária fixada em Lei.
 
-§6º A compensação do saldo do banco de horas mensais deverá ser efetivada no prazo máximo de dois meses subsequentes, sob pena de perda das horas acumuladas ou desconto financeiro do equivalente em horas devidas.<br>
+§6º A compensação do saldo do banco de horas mensais deverá ser efetivada no prazo máximo de dois meses subsequentes, sob pena de perda das horas acumuladas ou desconto financeiro do equivalente em horas devidas.
+
 (Redação alterada pela Lei Complementar nº 157, de 18  de dezembro de 2018).
 
 ~~Art. 26 - A jornada normal de trabalho do servidor público municipal, exceto os casos previstos em lei, será de 40 (quarenta) horas semanais ou 08 (oito) horas diárias.~~
@@ -220,14 +230,16 @@ IV-    Centro de Atenção Integral à Saúde Nova Era;
 
 V-    Centro de Atenção Integral à Saúde Colina Azul;
 
-VI-    Maternidade Marlene Teixeira.<br>
+VI-    Maternidade Marlene Teixeira.
+
 (Redação acrescentada pela Lei Complementar nº 169, de 22 de outubro de 2019).
 
 Art. 27 - Poderá haver prorrogação da duração normal do trabalho, por necessidade do serviço, ou por motivo de força maior, sujeita autorização ou validação do chefe imediato ou do titular da Pasta ou entidade da administração indireta.
 
 §1º A prorrogação de que trata o caput deste artigo, desde que autorizada em ato do titular da Pasta ou órgão e convalidada pelo Conselho de Eficácia de Gestão, será remunerada ou compensada, não podendo exceder o limite máximo de duas horas diárias.
 
-§2º A compensação referida §1º se dará pela correspondente diminuição da jornada em outro dia, a pedido do servidor e por conveniência da administração, ou pelo regime de banco de horas. <br>
+§2º A compensação referida §1º se dará pela correspondente diminuição da jornada em outro dia, a pedido do servidor e por conveniência da administração, ou pelo regime de banco de horas. 
+
 (Redação alterada pela Lei Complementar nº 157, de 18 de dezembro de 2018).
 
 ~~Art. 27 - Poderá haver prorrogação da duração normal do trabalho, por necessidade do serviço, ou por motivo de força maior.~~
@@ -254,7 +266,8 @@ II - apresentação de atestado de frequência mensal, fornecido pela instituiç
 
 §6º Ao servidor inscrito em competição desportiva local, regional, nacional ou internacional, cuja relevância for atestada pela Pasta do Esporte, será concedido afastamento remunerado do serviço durante o período de translado, preparação e competição devidamente comprovada.
 
-§7º A não comprovação da efetiva participação na competição, de que trata o §6º, implicará em imputação de falta ao serviço durante o período do afastamento.<br>
+§7º A não comprovação da efetiva participação na competição, de que trata o §6º, implicará em imputação de falta ao serviço durante o período do afastamento.
+
 (Redação alterada pela Lei Complementar nº 157, de 18 de dezembro de 2018).
 
 ~~Art. 28 - Será concedido horário especial de trabalho ao servidor que seja estudante ou deficiente físico, observadas as seguintes condições:~~
@@ -271,14 +284,16 @@ II - apresentação de atestado de frequência mensal, fornecido pela instituiç
 
 Art. 29 - Não haverá expediente nas repartições públicas do Município aos sábados e domingos, salvo em órgão ou entidade cujos serviços, pela sua natureza, exijam plantão permanente ou escala.
 
-Parágrafo único. Poderá ser compensado o trabalho prestado aos sábados e domingos, com o correspondente descanso em dias úteis da semana, garantindo-se, pelo menos, o descanso em um domingo ao mês.<br>
+Parágrafo único. Poderá ser compensado o trabalho prestado aos sábados e domingos, com o correspondente descanso em dias úteis da semana, garantindo-se, pelo menos, o descanso em um domingo ao mês.
+
 (Redação alterada pela Lei Complementar nº 157, de 18 de dezembro de 2018).
 
 ~~Art. 29 - Não haverá expediente nas repartições públicas do Município aos sábados e domingos, salvo em órgão ou entidade cujos serviços, pela sua natureza, exijam plantão permanente.~~
 
 ~~Parágrafo único. Poderá ser compensado o trabalho prestado aos sábados e domingos, com o correspondente descanso em dias úteis da semana, garantindo-se, pelo menos, o descanso em um domingo ao mês.~~
 
-Art. 30 - A frequência dos servidores será apurada através de registro, a ser definido pela administração, pelo qual se verificarão, diariamente, as entradas e saídas, ou relatórios próprios quando de serviços externos.<br>
+Art. 30 - A frequência dos servidores será apurada através de registro, a ser definido pela administração, pelo qual se verificarão, diariamente, as entradas e saídas, ou relatórios próprios quando de serviços externos.
+
 (Redação alterada pela Lei Complementar nº 157, de 18 de dezembro de 2018). 
 
 ~~Art. 30 - A freqüência dos servidores será apurada através de registro, a ser definido pela administração, pelo qual se verificarão, diariamente, as entradas e saídas.~~
@@ -287,7 +302,8 @@ Art. 31 - Compete ao chefe imediato do servidor o controle e a fiscalização de
 
 Parágrafo único. A falta de registro de freqüência, ou a prática de ações que visem a sua burla, pelo servidor, implicará na adoção obrigatória das providências necessárias à aplicação de pena disciplinar.
 
-SUBSEÇÃO I<br>
+SUBSEÇÃO I
+
 DO ESTÁGIO PROBATÓRIO
 
 Art. 32 - Ao entrar em exercício, o servidor nomeado para cargo de provimento efetivo ficará sujeito a estágio probatório por um período de três anos, durante o qual sua aptidão e capacidade serão objeto de avaliação para o desempenho do cargo, observados os fatores a serem definidos em regulamento.
@@ -310,7 +326,8 @@ Art. 35 - Compete ao chefe imediato fazer o acompanhamento do servidor em estág
 
 § 3° - Pronunciando-se pela exoneração ou retorno do servidor ao cargo anteriormente ocupado, o Comitê Técnico encaminhará o processo à autoridade competente, no máximo até trinta dias antes de findar o prazo do estágio probatório, para a edição do ato correspondente.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 DA ESTABILIDADE
 
 Art. 36 - São estáveis, após três anos de efetivo exercício, os servidores nomeados para cargo de provimento efetivo em virtude de concurso público.
@@ -323,7 +340,8 @@ II - processo administrativo em que lhe seja assegurada ampla defesa;
 
 III - mediante procedimento de avaliação periódica de desempenho, na forma de lei complementar, assegurada ampla defesa.
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 DA READAPTAÇÃO
 
 Art. 38 - Readaptação é o aproveitamento do servidor em funções e responsabilidades compatíveis com seu cargo e com a limitação que tenha sofrido em sua capacidade física ou mental, verificada em inspeção médica oficial do Município.
@@ -336,7 +354,8 @@ Art. 38 - Readaptação é o aproveitamento do servidor em funções e responsab
 
 § 4º - Declarados insubsistentes os motivos determinantes da readaptação, o servidor poderá voltar ao cargo ou às funções de origem.
 
-SEÇÃO VIII<br>
+SEÇÃO VIII
+
 DA REVERSÃO
 
 Art. 39 - Reversão é o retorno à atividade de servidor aposentado por invalidez, quando, em inspeção pela Junta Médica do Município, forem declarados insubsistentes os motivos determinantes da aposentadoria.
@@ -353,7 +372,8 @@ Art. 40 - A reversão dar-se-á, a pedido ou de ofício, no mesmo cargo em que s
 
 Parágrafo único - Encontrando-se provido esse cargo, o servidor exercerá suas atribuições como excedente, até a ocorrência de vaga.
 
-SEÇÃO IX<br>
+SEÇÃO IX
+
 DA REINTEGRAÇÃO
 
 Art. 41 - Reintegração é o retorno do servidor estável ao cargo anteriormente ocupado, ou no cargo resultante de sua transformação, quando invalidada a sua demissão por decisão administrativa ou judicial, assegurado o ressarcimento dos vencimentos e das vantagens permanentes.
@@ -362,7 +382,8 @@ Art. 41 - Reintegração é o retorno do servidor estável ao cargo anteriorment
 
 § 2º - Invalidada por sentença judicial a demissão do servidor estável, será ele reintegrado, e o eventual ocupante da vaga, se estável, será reconduzido ao cargo de origem, sem direito a indenização, ou aproveitado em outro cargo, ou posto em disponibilidade com remuneração proporcional ao tempo de serviço.
 
-SEÇÃO X<br>
+SEÇÃO X
+
 DA RECONDUÇÃO
 
 Art. 42 - Recondução é o retorno do servidor ao cargo anteriormente ocupado, e decorrerá de:
@@ -373,7 +394,8 @@ II - reintegração do anterior ocupante.
 
 Parágrafo único. Encontrando-se provido o cargo de origem, o servidor será aproveitado em outro cargo de atribuições e vencimento compatíveis com o anteriormente ocupado, ou posto em disponibilidade remunerada, nos termos da lei.
 
-SEÇÃO XI<br>
+SEÇÃO XI
+
 DA DISPONIBILIDADE E DO APROVEITAMENTO
 
 Art. 43 - Extinto o cargo ou declarada a sua desnecessidade, o servidor estável ficará em disponibilidade, com remuneração proporcional ao tempo de serviço, até seu adequado aproveitamento em outro cargo.
@@ -390,7 +412,8 @@ Parágrafo único. Verificada a incapacidade definitiva, o servidor em disponibi
 
 Art. 46 - Será declarado sem efeito o aproveitamento e cassada a disponibilidade se o servidor não entrar em exercício no prazo legal, salvo por motivo de doença comprovada pela inspeção pela Junta Médica do Município.
 
-Capítulo II<br>
+Capítulo II
+
 DA VACÂNCIA
 
 Art. 47 - A vacância do cargo decorrerá de:
@@ -427,15 +450,18 @@ I - a juízo da autoridade competente;
 
 II - a pedido do próprio servidor.
 
-Capítulo III<br>
+Capítulo III
+
 DA MOVIMENTAÇÃO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DA REMOÇÃO
 
 Art. 50 - Remoção é a movimentação do servidor público no âmbito de um mesmo órgão ou entidade, de ofício ou a pedido, observado o interesse do serviço.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA REDISTRIBUIÇÃO
 
 Art. 51 - Redistribuição é o deslocamento do servidor público, com o respectivo cargo, para o quadro de pessoal de outro órgão ou entidade, cujos Planos de Carreira e Vencimentos sejam idênticos, observando sempre o interesse da administração.
@@ -446,12 +472,14 @@ Art. 51 - Redistribuição é o deslocamento do servidor público, com o respect
 
 § 3° - Decreto do Chefe do Poder Executivo regulamentará os casos de redistribuição e a forma com que esta se processará.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DA CESSÃO
 
 Art. 52. Cessão é o afastamento do servidor público, efetivo ou comissionado, para ter exercício em outro órgão ou entidade da administração pública, exclusivamente para o exercício de cargo comissionado ou função de confiança. ”
 
-§ 1º - Durante o período de cessão, o ônus da remuneração será do órgão ou entidade cessionária, ressalvada as hipóteses de reconhecido interesse público do Município de Aparecida de Goiânia, na prestação do serviço por parte do servidor cedido, sendo que, nesta última hipótese, a cessão deverá ser por meio de convênio, acordo, ajuste ou congênere, conforme sua legislação. <br>
+§ 1º - Durante o período de cessão, o ônus da remuneração será do órgão ou entidade cessionária, ressalvada as hipóteses de reconhecido interesse público do Município de Aparecida de Goiânia, na prestação do serviço por parte do servidor cedido, sendo que, nesta última hipótese, a cessão deverá ser por meio de convênio, acordo, ajuste ou congênere, conforme sua legislação. 
+
 (Redação alterada pela Lei Complementar nº 199, de 24 de junho de 2022).
 
 ~~Art. 52 - Cessão é o afastamento do servidor público para ter exercício em outro órgão ou entidade da administração pública, exclusivamente para o exercício de cargo em comissão ou função de confiança.~~
@@ -464,7 +492,8 @@ Art. 52. Cessão é o afastamento do servidor público, efetivo ou comissionado,
 
 Art. 53 - O ato de cessão para órgão ou entidade de outra esfera de governo, ou de um para outro Poder do Município, é de competência do Prefeito ou do Presidente da Câmara Municipal, de acordo com a lotação do servidor.
 
-Capítulo IV<br>
+Capítulo IV
+
 DA SUBSTITUIÇÃO
 
 Art. 54 - Substituição é o exercício temporário de cargo em comissão ou de função de confiança, nos casos de impedimento legal ou afastamento do titular.
@@ -475,10 +504,12 @@ Art. 54 - Substituição é o exercício temporário de cargo em comissão ou de
 
 § 3º - O substituto fará jus à remuneração do cargo em comissão ou função de confiança, paga na proporção dos dias de efetiva substituição, desde que seja superior a quinze dias consecutivos.
 
-TÍTULO III<br>
+TÍTULO III
+
 DOS DIREITOS E VANTAGENS
 
-Capítulo I<br>
+Capítulo I
+
 DO VENCIMENTO E DA REMUNERAÇÃO
 
 Art. 55 - Vencimento é a retribuição pecuniária pelo exercício de cargo público, com valor fixado em lei.
@@ -509,12 +540,14 @@ Art. 58 - Salvo por imposição legal ou mandado judicial, nenhum desconto incid
 
 § 1° - Mediante expressa autorização do servidor poderá haver consignação em folha de pagamento a favor de terceiros, a critério da administração, e com reposição de custos, na forma definida em regulamento.
 
-§ 2º A soma das consignações facultativas não poderá exceder a 40% (quarenta por cento) do vencimento ou provento do servidor. <br>
+§ 2º A soma das consignações facultativas não poderá exceder a 40% (quarenta por cento) do vencimento ou provento do servidor. 
+
 (Redação alterada pela Lei Complementar nº 210, de 25 de maio de 2023).
 
 ~~§ 2° - A soma das consignações facultativas não poderá exceder a trinta por cento do vencimento ou provento do servidor.~~
 
-§3º 5% (cinco por cento) do percentual estabelecido no parágrafo anterior serão reservados exclusivamente para amortização de despesas contraídas por meio de cartão de crédito ou para a utilização com a finalidade de saque por meio de cartão de crédito.<br>
+§3º 5% (cinco por cento) do percentual estabelecido no parágrafo anterior serão reservados exclusivamente para amortização de despesas contraídas por meio de cartão de crédito ou para a utilização com a finalidade de saque por meio de cartão de crédito.
+
 (Redação acrescentada pela Lei Complementar nº 210, de 25 de maio de 2023).
 
 Art. 59 - As reposições e indenizações ao Erário Municipal, serão descontadas em parcelas mensais não excedentes à décima parte da remuneração ou provento.
@@ -527,7 +560,8 @@ Art. 60 - O servidor em débito com o Erário Municipal, que for demitido, exone
 
 Art. 61 - O vencimento, a remuneração e o provento não serão objeto de arresto, seqüestro ou penhora, exceto nos casos de prestação de alimentos resultantes de decisão judicial e outros casos previstos em lei.
 
-Capítulo II<br>
+Capítulo II
+
 DAS VANTAGENS PECUNIÁRIAS
 
 Art. 62 - Além do vencimento, poderão ser pagas ao servidor as seguintes vantagens:
@@ -544,7 +578,8 @@ III - gratificações e adicionais.
 
 Art. 63 - As vantagens pecuniárias não serão computadas nem acumuladas para efeito de concessão de quaisquer outros acréscimos pecuniários ulteriores, sob o mesmo título ou idêntico fundamento.
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DAS INDENIZAÇÕES
 
 Art. 64 - Constituem indenizações ao servidor:
@@ -555,7 +590,8 @@ II – diárias.
 
 Art. 65 - Os valores das indenizações, assim como as condições para a sua concessão serão estabelecidas em lei ou regulamento.
 
-SUBSEÇÃO I<br>
+SUBSEÇÃO I
+
 DA AJUDA DE CUSTO
 
 Art. 66 - Será concedida ajuda de custo ao servidor que for designado para serviço, curso ou outra atividade fora do Município.
@@ -572,7 +608,8 @@ Parágrafo único. A ajuda de custo referida neste artigo destina-se exclusivame
 
 Art. 69 - O servidor deverá prestar conta dos recursos recebidos, quando do retorno à origem ou conclusão do curso referido no artigo anterior, no prazo de cinco dias úteis.
 
-SUBSEÇÃO II<br>
+SUBSEÇÃO II
+
 DAS DIÁRIAS
 
 Art. 70 - O servidor que, a serviço, se afastar da sede do Município, numa distância superior a 100 km, em caráter eventual ou transitório, fará jus a diárias, para cobrir as despesas de alimentação e hospedagem, independentemente de comprovação.
@@ -591,7 +628,8 @@ Parágrafo único. Na hipótese de o servidor retornar à sede do Município em 
 
 Art. 72 - A concessão de ajuda de custo não impede a concessão de diárias, ou vice-versa.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DAS GRATIFICAÇÕES E DOS ADICIONAIS
 
 Art. 73 - Além do vencimento e das vantagens previstas nesta lei, poderão ser deferidos aos servidores as seguintes gratificações e adicionais:
@@ -606,7 +644,8 @@ IV - décimo terceiro vencimento;
 
 V - adicional por tempo de serviço;
 
-VI – gratificação pelo exercício de atividades insalubres, perigosas e/ou penosas<br>
+VI – gratificação pelo exercício de atividades insalubres, perigosas e/ou penosas
+
 (Redação alterada pela Lei Complementar nº 126, de 22 de fevereiro de 2017).
 
 ~~VI – gratificação pelo exercício de atividades insalubres ou perigosas.~~
@@ -617,23 +656,28 @@ VIII - adicional noturno;
 
 IX - abono de férias;
 
-X – gratificação por produtividade;<br>
+X – gratificação por produtividade;
+
 (Redação alterada pela Lei Complementar nº 183, de 4 de janeiro de 2021).
 
-~~X – gratificação por produtividade;~~<br>
+~~X – gratificação por produtividade;~~
+
 ~~(Redação alterada pela Lei Complementar nº 125, de 11 de janeiro de 2017).~~
 
 ~~X - gratificação de produtividade fiscal;~~
 
 XI - gratificação de incentivo à produção.
 
-XII – bônus por metas alcançadas;<br>
+XII – bônus por metas alcançadas;
+
 (Redação acrescentada pela Lei Complementar nº 126, de 22 de fevereiro de 2017).
 
-XIII - gratificação por fator diferenciador das atividades prestadas;<br>
+XIII - gratificação por fator diferenciador das atividades prestadas;
+
 (Redação acrescentada pela Lei Complementar nº 126, de 22 de fevereiro de 2017).
 
-XIV – gratificação por encargos pessoais, nos termos da lei.<br>
+XIV – gratificação por encargos pessoais, nos termos da lei.
+
 (Redação acrescentada pela Lei Complementar nº 126, de 22 de fevereiro de 2017).
 
 § 1° - O Chefe do Poder Executivo regulamentará por decreto, no que couber, a concessão das gratificações e dos adicionais previstos neste artigo.
@@ -648,21 +692,26 @@ I - previstas nos incisos I, II e VII do caput deste artigo;
 
 II - previstas nos incisos X, XI e XII do caput deste artigo;
 
-III - previstas nos incisos III e XIII do caput deste artigo.<br>
+III - previstas nos incisos III e XIII do caput deste artigo.
+
 (Redação alterada pela Lei Complementar nº 126, de 22 de fevereiro de 2017).
 
 ~~§ 4° - São inacumuláveis as gratificações previstas nos incisos I, II, e VII.~~
 
-§5º. As gratificações dos incisos I, II, III, V, VII, X e XI do caput deste artigo são passíveis de concessão exclusivamente para servidores efetivos.<br>
+§5º. As gratificações dos incisos I, II, III, V, VII, X e XI do caput deste artigo são passíveis de concessão exclusivamente para servidores efetivos.
+
 (Redação acrescentada pela Lei Complementar nº 126, de 22 de fevereiro de 2017).
 
-§6º. Os bônus, gratificações e adicionais cuja vedação de inacumulatividade não consta do §4º deste artigo, poderão ser acumuláveis, desde que o fato gerador seja distinto.<br>
+§6º. Os bônus, gratificações e adicionais cuja vedação de inacumulatividade não consta do §4º deste artigo, poderão ser acumuláveis, desde que o fato gerador seja distinto.
+
 (Redação acrescentada pela Lei Complementar nº 126, de 22 de fevereiro de 2017).
 
-§7º. Poderá ser concedida, a título de gratificação por encargos pessoais, aos servidores efetivos e comissionados, gratificação prevista em legislação específica, desde que preenchidos os respectivos requisitos legais.<br>
+§7º. Poderá ser concedida, a título de gratificação por encargos pessoais, aos servidores efetivos e comissionados, gratificação prevista em legislação específica, desde que preenchidos os respectivos requisitos legais.
+
 (Redação acrescentada pela Lei Complementar nº 126, de 22 de fevereiro de 2017).
 
-SUBSEÇÃO I<br>
+SUBSEÇÃO I
+
 DAS GRATIFICAÇÕES PELO EXERCÍCIO DE CARGO EM COMISSÃO OU FUNÇÃO DE CONFIANÇA
 
 Art. 74 - Ao servidor ocupante de cargo efetivo investido em função de direção, chefia ou assessoramento, cargo de provimento em comissão ou de natureza especial é devida retribuição pelo seu exercício.
@@ -681,7 +730,8 @@ Art. 77 - A designação para o exercício de função de confiança é de compe
 
 Art. 78 - O servidor nomeado para o exercício de cargo em comissão poderá optar pelo vencimento de seu cargo efetivo e das vantagens permanentes de natureza individual, acrescido da gratificação do respectivo cargo comissionado.
 
-SUBSEÇÃO II<br>
+SUBSEÇÃO II
+
 DO ADICIONAL DE INCENTIVO À PROFISSIONALIZAÇÃO
 
 Art. 79 - O adicional de incentivo à profissionalização será devido em razão do aprimoramento da qualificação do servidor.
@@ -708,7 +758,8 @@ IV - dois e meio por cento, para um total igual ou superior a sessenta horas.
 
 § 3° - O adicional de incentivo à profissionalização incorpora-se ao vencimento do servidor, para efeito de aposentadoria e disponibilidade.
 
-SUBSEÇÃO III<br>
+SUBSEÇÃO III
+
 DO DÉCIMO TERCEIRO VENCIMENTO
 
 Art. 81 - O décimo terceiro vencimento corresponde a um doze avos da remuneração a que o servidor fizer jus no mês de dezembro, por mês de exercício, no respectivo ano.
@@ -725,7 +776,8 @@ Parágrafo único. Não fará jus ao décimo terceiro vencimento o servidor demi
 
 Art. 85 - O servidor exonerado de cargo em comissão ou dispensado de função de confiança perceberá o décimo terceiro vencimento, proporcionalmente aos meses de efetivo exercício, calculado sobre a remuneração do cargo ou função.
 
-SUBSEÇÃO IV<br>
+SUBSEÇÃO IV
+
 DO ADICIONAL POR TEMPO DE SERVIÇO
 
 Art. 86 - Por quinquênio de efetivo exercício no serviço público municipal de Aparecida de Goiânia, será concedido ao servidor um adicional correspondente a cinco por cento do vencimento de seu cargo efetivo, até o limite de sete quinquênios.
@@ -742,7 +794,8 @@ I – remuneração;
 
 II – gratificação de produtividade e;
 
-III – gratificação de periculosidade.<br>
+III – gratificação de periculosidade.
+
 (Parágrafo acrescentado pela Lei Complementar nº 33, de 8 de abril de 2011).
 
 § 5º - Aos servidores ocupantes da categoria funcional de Fiscal de Posturas, Fiscal de Saúde Pública, Assistente de Fiscal de Posturas e Assistente de Fiscal de Saúde Pública, Fiscal de Defesa Ambiental, Fiscal de Edificações e Loteamentos e demais fiscais da Prefeitura, será concedida, por qüinqüênio de efetivo serviço público, gratificação adicional de 5% (cinco por cento) calculados sobre a:
@@ -751,18 +804,22 @@ III – gratificação de periculosidade.<br>
 
 II – gratificação de produtividade e;
 
-III – gratificação de periculosidade.<br>
-(Parágrafo acrescentado pela Lei Complementar nº 39, de 6 de outubro de 2011).<br>
+III – gratificação de periculosidade.
+
+(Parágrafo acrescentado pela Lei Complementar nº 39, de 6 de outubro de 2011).
+
  
 
-SUBSEÇÃO V<br>
+SUBSEÇÃO V
+
 DAS GRATIFICAÇÕES DE INSALUBRIDADE, PERICULOSIDADE E PENOSIDADE
 
 Art. 87. Os servidores, efetivos ou comissionados, que trabalham com habitualidade em locais insalubres, ou em contato permanente com substâncias tóxicas, radioativas, ou com risco de vida e/ou em condições penosas fazem jus à gratificação sobre o vencimento do cargo ocupado, conforme dispuser o regulamento.
 
 §1º. O direito à gratificação de insalubridade, periculosidade e/ou penosidade cessa com a eliminação das condições ou riscos que deram causa a sua concessão.
 
-§2º O servidor que fizer jus às gratificações de insalubridade e periculosidade deverá optar por uma delas, não sendo acumuláveis estas vantagens.<br>
+§2º O servidor que fizer jus às gratificações de insalubridade e periculosidade deverá optar por uma delas, não sendo acumuláveis estas vantagens.
+
 (Redação alterada pela Lei Complementar nº 126, de 22 de fevereiro de 2017).
 
 ~~Art. 87. Os servidores, efetivos ou comissionados, que trabalham com habitualidade em locais insalubres, ou em contato permanente com substâncias tóxicas, radioativas, ou com risco de vida e/ou em condições penosas fazem jus à gratificação sobre o vencimento do cargo ocupado, conforme dispuser o regulamento.~~
@@ -771,7 +828,8 @@ Art. 87. Os servidores, efetivos ou comissionados, que trabalham com habitualida
 
 ~~§2º O servidor que fizer jus aos adicionais de insalubridade e periculosidade deverá optar por um deles, não sendo acumuláveis estas vantagens.~~
 
-Art. 88. A gratificação de periculosidade será paga à proporção de trinta por cento do vencimento do cargo ocupado pelo servidor, enquanto que a gratificação de insalubridade será paga à proporção de trinta, vinte ou dez por cento do vencimento, conforme os graus máximo, médio e mínimo, respectivamente, nas situações elencada em legislação própria.<br>
+Art. 88. A gratificação de periculosidade será paga à proporção de trinta por cento do vencimento do cargo ocupado pelo servidor, enquanto que a gratificação de insalubridade será paga à proporção de trinta, vinte ou dez por cento do vencimento, conforme os graus máximo, médio e mínimo, respectivamente, nas situações elencada em legislação própria.
+
 (Redação alterada pela Lei Complementar nº 126, de 22 de fevereiro de 2017).
 
 ~~Art. 88 - O adicional de periculosidade será pago à proporção de trinta por cento do vencimento do cargo efetivo do servidor, enquanto que o adicional de insalubridade será pago à proporção de trinta, vinte e dez por cento do vencimento, segundo se classifiquem nos graus máximo, médio e mínimo, respectivamente.~~
@@ -780,13 +838,16 @@ Art. 89 - Haverá permanente controle da atividade do servidor em operações co
 
 Parágrafo único. A servidora gestante ou lactante será afastada, enquanto durar a gestação e/ou a lactação, das operações e locais referidos neste artigo, após avaliação do risco para o concepto, pela Junta Médica do Município.
 
-Art. 89-A. Poderá ser concedida gratificação por penosidade aos servidores, efetivos ou comissionados, que desempenhem serviços e atividades comuns em condições anormais ou adversas, que provoquem pena e sofrimento, em que se exige atenção constante e vigilância acima do comum, desde que diferentes daquelas situações previstas como insalubres e perigosas.<br>
+Art. 89-A. Poderá ser concedida gratificação por penosidade aos servidores, efetivos ou comissionados, que desempenhem serviços e atividades comuns em condições anormais ou adversas, que provoquem pena e sofrimento, em que se exige atenção constante e vigilância acima do comum, desde que diferentes daquelas situações previstas como insalubres e perigosas.
+
 (Redação acrescentada pela Lei Complementar nº 126, de 22 de fevereiro de 2017).
 
-Art. 89-B. A condição de penosidade deverá ser comprovada e reavaliada periodicamente, conforme dispuser regulamento.<br>
+Art. 89-B. A condição de penosidade deverá ser comprovada e reavaliada periodicamente, conforme dispuser regulamento.
+
 (Redação acrescentada pela Lei Complementar nº 126, de 22 de fevereiro de 2017).
 
-Art. 90 – Na concessão das gratificações de insalubridade e periculosidade serão observadas as situações específicas na legislação própria.<br>
+Art. 90 – Na concessão das gratificações de insalubridade e periculosidade serão observadas as situações específicas na legislação própria.
+
 (Redação alterada pela Lei Complementar nº 126, de 22 de fevereiro de 2017).
 
 ~~Art. 90 - Na concessão dos adicionais de insalubridade e periculosidade serão observadas as situações específicas na legislação própria~~
@@ -795,7 +856,8 @@ Art. 91 - Os locais de trabalho e os servidores que operam com raios-X ou subst�
 
 Parágrafo único. Os servidores a que se refere este artigo serão submetidos a exames médicos a cada seis meses.
 
-SUBSEÇÃO VI<br>
+SUBSEÇÃO VI
+
 DO ADICIONAL POR SERVIÇO EXTRAORDINÁRIO
 
 Art. 92 - O serviço extraordinário será remunerado com acréscimo de cinqüenta por cento em relação à hora normal de trabalho, nos dias úteis, nos limites a serem fixados em regulamento.
@@ -808,14 +870,16 @@ Art. 93 - Somente serão permitidos serviços extraordinários para atender a si
 
 § 2° - O adicional pela prestação de serviço extraordinário, em nenhuma hipótese, será incorporado ao vencimento nem integrará o provento de aposentadoria do servidor.
 
-SUBSEÇÃO VII<br>
+SUBSEÇÃO VII
+
 DO ADICIONAL NOTURNO
 
 Art. 94 - O serviço noturno, prestado em horário compreendido entre vinte e duas horas de um dia e cinco horas do dia seguinte, terá o valor da hora acrescido de mais vinte por cento, computando-se cada hora como cinqüenta e dois minutos e trinta segundos.
 
 Parágrafo único. Em se tratando de serviços extraordinários, o acréscimo de que trata este artigo obedecerá ao que dispõe o artigo 92 desta lei.
 
-SUBSEÇÃO VIII<br>
+SUBSEÇÃO VIII
+
 DO ADICIONAL DE FÉRIAS
 
 Art. 95 - Independentemente de solicitação, será pago ao servidor, por ocasião das férias, um adicional de um terço da remuneração correspondente no período de férias:
@@ -830,24 +894,28 @@ SUBSEÇÃO IX
 
 Art. 97 - A gratificação por produtividade, em qualquer das carreiras regulamentadas por lei, somente será devida ao servidor ocupante de cargo de provimento efetivo, na forma e condições determinadas em regulamento próprio.
 
-Parágrafo único – A percepção de gratificação pelo exercício de função ou cargo em comissão pelo servidor efetivo não prejudica o direito à gratificação por produtividade prevista neste artigo, desde que o mesmo esteja no desempenho de atividades ou atribuições compatíveis com o seu cargo efetivo e dentro do seu órgão de origem.<br>
+Parágrafo único – A percepção de gratificação pelo exercício de função ou cargo em comissão pelo servidor efetivo não prejudica o direito à gratificação por produtividade prevista neste artigo, desde que o mesmo esteja no desempenho de atividades ou atribuições compatíveis com o seu cargo efetivo e dentro do seu órgão de origem.
+
 (Redação alterada pela Lei Complementar nº 183, de 4 de janeiro de 2021).
 
 ~~Art. 97 - A gratificação por produtividade, em qualquer das carreiras regulamentadas por lei, somente será devida ao servidor ocupante de cargo de provimento efetivo, na forma e condições determinadas em regulamento próprio.~~
 
-~~Parágrafo único – A percepção de gratificação pelo exercício de função ou cargo em comissão pelo servidor efetivo não prejudica o direito à gratificação por produtividade prevista neste artigo, desde que o mesmo esteja no desempenho de atividades ou atribuições compatíveis com o seu cargo efetivo e dentro do seu órgão de origem.~~<br>
+~~Parágrafo único – A percepção de gratificação pelo exercício de função ou cargo em comissão pelo servidor efetivo não prejudica o direito à gratificação por produtividade prevista neste artigo, desde que o mesmo esteja no desempenho de atividades ou atribuições compatíveis com o seu cargo efetivo e dentro do seu órgão de origem.~~
+
 ~~(Redação alterada pela Lei Complementar nº 125, de 11 de janeiro de 2017).~~
 
 ~~Art. 97 - A gratificação de produtividade fiscal somente é devida ao servidor ocupante de cargo integrante do Grupo Ocupacional Fiscalização, com atribuição inerente ou vinculada à fiscalização urbana municipal, na forma da lei e condições determinadas em regulamento.~~
 
 ~~Parágrafo único. Os critérios de concessão da gratificação de que trata este artigo deverão privilegiar o fiel cumprimento dos programas de fiscalização, a eficácia da ação fiscalizadora e seu retorno financeiro efetivo para o Município.~~
 
-SUBSEÇÃO X<br>
+SUBSEÇÃO X
+
 DA GRATIFICAÇÃO DE INCENTIVO À PRODUÇÃO
 
 Art. 98 - Ao servidor que esteja exercendo atividade com produção pré-determinada poderá ser concedida gratificação de incentivo à produção, nas proporções de dez, vinte ou trinta por cento sobre o vencimento de seu cargo efetivo, conforme dispuser regulamento próprio.
 
-SUBSEÇÃO XI<br>
+SUBSEÇÃO XI
+
 DO BÔNUS POR METAS ALCANÇADAS
 
 Art. 98-A. O bônus por metas alcançadas poderá ser concedido aos servidores, efetivos ou comissionados, de forma coletiva ou individual, conforme dispuser regulamento próprio, desde que observados os limites de valores previstos em lei.
@@ -856,10 +924,12 @@ Art. 98-A. O bônus por metas alcançadas poderá ser concedido aos servidores, 
 
 §2º. O bônus coletivo poderá ser concedido aos servidores que integrem equipe ou unidade administrativa e, nessa condição, atinjam os objetivos institucionais.
 
-§3º. As metas a serem alcançadas terão seus resultados aferidos periodicamente, sendo devido o bônus proporcionalmente em função do desempenho.<br>
+§3º. As metas a serem alcançadas terão seus resultados aferidos periodicamente, sendo devido o bônus proporcionalmente em função do desempenho.
+
 (Redação acrescentada pela Lei Complementar nº 126, de 22 de fevereiro de 2017).
 
-SUBSEÇÃO XII<br>
+SUBSEÇÃO XII
+
 DA GRATIFICAÇÃO POR FATOR DIFERENCIADOR DAS ATIVIDADES PRESTADAS
 
 Art. 98-B. A gratificação por fator diferenciador da atividade prestada poderá ser concedida aos servidores, efetivos ou comissionados, desde que seja verificado atendimento dos seguintes critérios diferenciadores, não constantes dos requisitos mínimos legais para o provimento do cargo em exercício:
@@ -874,14 +944,18 @@ IV – relevante experiência na área específica da atividade a qual foi desig
 
 V – outros fatores que não sejam pré-requisitos legais para provimento do cargo.
 
-Parágrafo único. A gratificação por fator diferenciador será valorada, observados os limites previstos em lei.<br>
-(Redação acrescentada pela Lei Complementar nº 126, de 22 de fevereiro de 2017).<br>
+Parágrafo único. A gratificação por fator diferenciador será valorada, observados os limites previstos em lei.
+
+(Redação acrescentada pela Lei Complementar nº 126, de 22 de fevereiro de 2017).
+
          
 
-SUBSEÇÃO XI<br>
+SUBSEÇÃO XI
+
 DO BÔNUS POR METAS ALCANÇADAS
 
-Capítulo III<br>
+Capítulo III
+
 DAS FÉRIAS
 
 Art. 99 Havendo concordância do servidor, as férias poderão ser usufruídas em até três períodos, sendo que não poderá ser inferior a dez dias.
@@ -902,7 +976,8 @@ Art. 99 Havendo concordância do servidor, as férias poderão ser usufruídas e
 
 § 8º Nenhuma unidade administrativa poderá ter mais de um terço de servidores em gozo de férias, salvo nas hipóteses de férias coletivas, observando-se sempre o interesse do serviço.
 
-§ 9º Os assuntos referente a férias de servidores deverão ser regulamentados por decreto<br>
+§ 9º Os assuntos referente a férias de servidores deverão ser regulamentados por decreto
+
 (Redação alterada pela Lei Complementar nº 163, de 24 de junho de 2019).
 
 ~~Art. 99 - O servidor gozará trinta dias consecutivos de férias por ano, concedidas de acordo com escala organizada pela chefia imediata e aprovada por decreto do Chefe do Executivo.~~
@@ -923,10 +998,12 @@ Art. 102 - O servidor que opera direta e permanentemente com raios X ou substân
 
 Art. 103 - O servidor exonerado sem ter gozado férias a que tenha feito jus, será delas indenizado, incluindo-se o adicional de férias, à razão de um doze avos por mês trabalhado.
 
-Capítulo IV<br>
+Capítulo IV
+
 DAS LICENÇAS
 
-Seção I<br>
+Seção I
+
 DISPOSIÇÕES GERAIS
 
 Art. 104 - Conceder-se-á, ao servidor, licença:
@@ -955,7 +1032,8 @@ VIII - para curso de capacitação profissional.
 
 Art. 105 - A licença concedida dentro de sessenta dias do término de outra da mesma espécie será considerada como prorrogação.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA LICENÇA POR MOTIVO DE DOENÇA EM PESSOA DA FAMÍLIA
 
 Art. 106 - Poderá ser concedida licença ao servidor, por motivo de doença do cônjuge ou companheiro, padastro ou madastra, ascendente e descendente, enteado, menor sob guarda ou tutela e irmãos, mediante comprovação pela Junta Médica do Município.
@@ -968,7 +1046,8 @@ Art. 106 - Poderá ser concedida licença ao servidor, por motivo de doença do 
 
 § 4° - Não se considera assistência pessoal prestada ao doente a representação dos seus interesses econômicos ou comerciais.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DA LICENÇA PARA ACOMPANHAMENTO DO CÔNJUGE OU COMPANHEIRO
 
 Art. 107 - Poderá ser concedida licença ao servidor para acompanhar o cônjuge ou companheiro, funcionário público federal, estadual ou municipal, que for mandado servir em outro ponto do território nacional, no exterior ou que for exercer mandato eletivo dos Poderes Executivo e Legislativo.
@@ -977,14 +1056,16 @@ Art. 107 - Poderá ser concedida licença ao servidor para acompanhar o cônjuge
 
 § 2° - Ao servidor em comissão ou função de confiança, nesta qualidade, não se concederá a licença de que trata este artigo.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DA LICENÇA PARA O SERVIÇO MILITAR
 
 Art. 108 - Ao servidor convocado para o serviço militar obrigatório será concedida licença, na forma e condições previstas na legislação específica, mediante apresentação do documento comprobatório de sua incorporação.
 
 Parágrafo único. Concluído o serviço militar, o servidor terá até trinta dias, sem remuneração, para assumir o exercício do cargo, findo o qual os dias de ausência serão considerados como faltas injustificadas.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 A LICENÇA PARA ATIVIDADE POLÍTICA
 
 Art. 109 - O servidor terá direito a licença sem remuneração, durante o período entre sua escolha, em convenção partidária, como candidato a cargo eletivo, e a entrada de pedido de registro de sua candidatura junto à Justiça Eleitoral.
@@ -993,7 +1074,8 @@ Art. 109 - O servidor terá direito a licença sem remuneração, durante o per�
 
 § 2° - O disposto neste artigo não se aplica aos ocupantes de cargo em comissão ou função de confiança.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 DA LICENÇA PARA TRATAR DE INTERESSE PARTICULAR
 
 Art. 110 - A critério da administração, poderá ser concedida ao servidor licença para tratar de interesses particulares, pelo prazo de três anos consecutivos, sem remuneração, podendo ser prorrogada, por igual período.
@@ -1012,7 +1094,8 @@ Art. 110 - A critério da administração, poderá ser concedida ao servidor lic
 
 Art. 111 - Ao servidor em comissão ou função de confiança não se concederá licença para tratar de interesses particulares.
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 DA LICENÇA PARA O DESEMPENHO DE MANDATO CLASSISTA
 
 Art. 112  É assegurado ao servidor o direito a licença para o desempenho de mandato em confederação, federação ou sindicato representativo da categoria, com a remuneração de seu cargo efetivo. 
@@ -1021,7 +1104,8 @@ Art. 112  É assegurado ao servidor o direito a licença para o desempenho de m
 
 § 2° A licença não poderá ser superior a 2 (dois) anos;
 
-§ 3° O servidor ocupante do cargo em comissão ou função de confiança para a obtenção da licença, deverá desincompatibilizar do cargo ou função.<br>
+§ 3° O servidor ocupante do cargo em comissão ou função de confiança para a obtenção da licença, deverá desincompatibilizar do cargo ou função.
+
 (Redação alterada pela Lei Complementar nº 177, de 18 de setembro de 2020).
 
 ~~Art. 112 - É assegurado ao servidor o direito a licença para o desempenho de mandato em confederação, federação ou sindicato representativo da categoria, Associação de Funcionários dos Poderes Executivo ou Legislativo, ou entidade fiscalizadora da profissão, com a remuneração de seu cargo efetivo.~~
@@ -1038,10 +1122,12 @@ Art. 112-A É assegurado ao servidor o direito a horário especial, com a diminu
 
 § 2° O horário especial de que trata o caput será concedido por até 02 (dois) anos;
 
-§ 3° o servidor ocupante de cargo em comissão ou função de confiança, para a obtenção do benefício de que trata o caput, deverá desincompatibilizar-se do cargo ou função. <br>
+§ 3° o servidor ocupante de cargo em comissão ou função de confiança, para a obtenção do benefício de que trata o caput, deverá desincompatibilizar-se do cargo ou função. 
+
 (Redação acrescentada pela Lei Complementar nº 177, de 18 de setembro de 2020).
 
-SEÇÃO VIII<br>
+SEÇÃO VIII
+
 DA LICENÇA-PRÊMIO
 
 Art. 113 - Após cada dez anos de efetivo exercício no serviço público municipal, o servidor fará jus a três (03) meses de licença-prêmio, com o vencimento do cargo efetivo, acrescido das vantagens permanentes.
@@ -1058,10 +1144,12 @@ Art. 113 - Após cada dez anos de efetivo exercício no serviço público munici
 
 § 6º - Após cada qüinqüênio de efetivo exercício, o servidor poderá, no interesse da administração, afastar-se do exercício do cargo efetivo com a respectiva remuneração, até 03 (três) meses, para participar de curso de capacitação profissional.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DOS AFASTAMENTOS
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DO AFASTAMENTO PARA EXERCÍCIO DE MANDATO ELETIVO
 
 Art. 114 - Ao servidor investido em mandato eletivo aplicam-se as seguintes disposições:
@@ -1082,7 +1170,8 @@ b) não havendo compatibilidade de horários, será afastado do cargo, sendo-Ihe
 
 § 3° - No caso de afastamento do cargo, o servidor contribuirá para a seguridade social, como se em exercício estivesse.
 
-Capítulo VII<br>
+Capítulo VII
+
 DAS CONCESSÕES
 
 Art. 115 - Sem qualquer prejuízo, poderá o servidor ausentar-se do serviço:
@@ -1097,7 +1186,8 @@ a) casamento;
 
 b) falecimento do cônjuge, companheiro, pais, madrasta ou padrasto, filhos, enteados, menor sob guarda ou tutela e irmãos.
 
-Capítulo VIII<br>
+Capítulo VIII
+
 DO TEMPO DE SERVIÇO
 
 Art. 116 - A apuração do tempo de serviço será feita em dias, que serão convertidos em anos, considerando o ano de trezentos e sessenta e cinco dias.
@@ -1158,7 +1248,8 @@ V - o tempo de serviço relativo a tiro de guerra.
 
 Parágrafo único. O tempo em que o servidor esteve aposentado ou em disponibilidade será apenas contado para nova aposentadoria ou disponibilidade.
 
-Capítulo IX<br>
+Capítulo IX
+
 DO DIREITO DE PETIÇÃO
 
 Art. 120 - É assegurado ao servidor o direito de requerer aos Poderes Públicos em defesa de direito ou de interesse legítimo.
@@ -1205,10 +1296,12 @@ Art. 130 - A administração deverá rever seus atos, a qualquer tempo, quando e
 
 Art. 131 - São fatais e improrrogáveis os prazos estabelecidos neste capítulo, salvo motivo de força maior.
 
-Título IV<br>
+Título IV
+
 DO REGIME DISCIPLINAR
 
-Capítulo I<br>
+Capítulo I
+
 DOS DEVERES
 
 Art. 132 - São deveres do servidor:
@@ -1245,7 +1338,8 @@ XII - representar contra ilegalidade, omissão ou abuso de poder.
 
 Parágrafo único. A representação de que trata o inciso XII deste artigo, será obrigatoriamente apurada pela autoridade superior àquela contra a qual é formulada, assegurando-se ao representando ampla defesa, com os meios e recursos a ela inerentes.
 
-Capítulo II<br>
+Capítulo II
+
 DAS PROIBIÇÕES
 
 Art. 133 - Ao servidor é proibido:
@@ -1300,7 +1394,8 @@ XXIV - revelar segredo de que teve conhecimento em função do cargo.
 
 Parágrafo único. É proibida a remoção, sem prévia autorização da autoridade competente, de documentos ou objetos de um órgão da administração municipal para outro, sob pena de responsabilidade e punição ativa e passiva.
 
-Capítulo III<br>
+Capítulo III
+
 DA ACUMULAÇÃO
 
 Art. 134.  Ressalvados os casos previstos na Constituição Federal, é vedada a acumulação remunerada de cargos públicos.
@@ -1309,7 +1404,8 @@ Art. 134.  Ressalvados os casos previstos na Constituição Federal, é vedada 
 
 §2° A acumulação de cargos, ainda que lícita, fica condicionada, em regra, que o exercício dos mesmos não implique em carga horária superior à 60 (sessenta) horas semanais, bem como à comprovação da compatibilidade de horários.
 
-§3° O servidor não poderá exercer mais de um cargo em comissão, nem ser remunerado pela participação em mais de um órgão de deliberação coletiva municipal, ressalvado a comprovação do interesse público e compatibilidade de horário.<br>
+§3° O servidor não poderá exercer mais de um cargo em comissão, nem ser remunerado pela participação em mais de um órgão de deliberação coletiva municipal, ressalvado a comprovação do interesse público e compatibilidade de horário.
+
 (Redação alterada pela Lei Complementar nº 157, de 18 de dezembro de 2018).
 
 ~~Art. 134 - Ressalvados os casos previstos na Constituição Federal, é vedada a acumulação remunerada de cargos públicos.~~
@@ -1322,7 +1418,8 @@ Art. 134.  Ressalvados os casos previstos na Constituição Federal, é vedada 
 
 Art. 135.  O servidor que acumular licitamente 02 (dois) cargos efetivos, quando investido em cargo de provimento em comissão, ficará afastado de um dos cargos efetivos, salvo na hipótese em que houver compatibilidade de horário e local com o exercício de um deles, desde a carga horária semanal total não ultrapasse 72 (setenta e duas) horas, declarada a necessidade do serviço pela autoridade máxima do órgão de exercício do cargo em comissão.
 
-Parágrafo único. Excepcionalmente, quando a acumulação constitucionalmente permitida implicar em carga horária semanal de 80 (oitenta) horas, o servidor poderá optar por requer a redução da carga horária de um dos cargos efetivos, sendo obrigatoriamente do qual não se encontrar afastado quando se tratar da hipótese do caput deste artigo, com redução proporcional do vencimento base, com vistas ao enquadramento nos limite supra estabelecidos neste artigo ou no §2º do art. 134, conforme o caso.<br>
+Parágrafo único. Excepcionalmente, quando a acumulação constitucionalmente permitida implicar em carga horária semanal de 80 (oitenta) horas, o servidor poderá optar por requer a redução da carga horária de um dos cargos efetivos, sendo obrigatoriamente do qual não se encontrar afastado quando se tratar da hipótese do caput deste artigo, com redução proporcional do vencimento base, com vistas ao enquadramento nos limite supra estabelecidos neste artigo ou no §2º do art. 134, conforme o caso.
+
 (Redação alterada pela Lei Complementar nº 157, de 18 de dezembro de 2018).
 
 ~~Art. 135 - O servidor vinculado ao regime desta lei, que acumular licitamente dois cargos de carreira, quando investido em cargo de provimento em comissão, ficará afastado de ambos os cargos efetivos.~~
@@ -1333,7 +1430,8 @@ Art. 136 - Verificada em processo administrativo a acumulação ilícita e prova
 
 § 2º - Na hipótese do parágrafo anterior e sendo um dos cargos, empregos ou funções públicas exercido em outro órgão ou entidade fora do âmbito do Município, a demissão será comunicada ao órgão ou entidade para as providências necessárias.·.
 
-Capítulo IV<br>
+Capítulo IV
+
 DAS RESPONSABILIDADES
 
 Art. 137 - O servidor responde civil, penal e administrativamente pelo exercício irregular de suas atribuições.
@@ -1354,7 +1452,8 @@ Art. 141 - As sanções civis, penais e administrativas poderão cumular-se, sen
 
 Art. 142 - A responsabilidade administrativa do servidor será afastada no caso de absolvição criminal, que negue a existência do fato ou a sua autoria.
 
-Capítulo V<br>
+Capítulo V
+
 DAS PENALIDADES
 
 Art. 143 - São penas disciplinares:
@@ -1445,15 +1544,18 @@ III - em cento e oitenta dias, quanto à advertência.
 
 § 4° - Interrompido o curso da prescrição, o prazo recomeçará a correr a partir do dia em que cessar a interrupção.
 
-Título V<br>
+Título V
+
 DO PROCESSO ADMINISTRATIVO DISCIPLINAR
 
-Capítulo I<br>
+Capítulo I
+
 DA SINDICÂNCIA
 
 Art. 156 - A autoridade que tiver ciência de irregularidade no serviço público é obrigada a promover a sua apuração imediata, mediante sindicância em seu órgão de origem, assegurada ao acusado ampla defesa.
 
-§1º. A sindicância será promovida por uma comissão especialmente constituída por ato de autoridade competente, composta por servidores em número mínimo de três e máximo de cinco, dentre eles ao menos um estável, isentos de quaisquer penalidades transitadas em julgado e não prescritas, devendo constar do ato a designação do presidente e do secretário da referida comissão.<br>
+§1º. A sindicância será promovida por uma comissão especialmente constituída por ato de autoridade competente, composta por servidores em número mínimo de três e máximo de cinco, dentre eles ao menos um estável, isentos de quaisquer penalidades transitadas em julgado e não prescritas, devendo constar do ato a designação do presidente e do secretário da referida comissão.
+
 (Redação alterada pela Lei Complementar nº 126, de 22 de fevereiro de 2017).
 
 ~~§ 1º - A sindicância será promovida por uma comissão especialmente designada pela autoridade que a houver determinado e será composta por servidores estáveis, em número mínimo de três e máximo de cinco servidores, escolhidos dentre aqueles isentos de quaisquer penalidades, devendo constar do ato a indicação do presidente e do secretário da referida comissão.~~
@@ -1468,15 +1570,18 @@ Art. 156 - A autoridade que tiver ciência de irregularidade no serviço públic
 
 § 6º - Quando o fato narrado não configurar evidente infração disciplinar ou ilícito penal, a denúncia será arquivada, por falta de objeto.
 
-§7º. No caso de falta a ser apurada em processo disciplinar, será o procedimento instaurado pelo titular da Pasta no qual se deu a sindicância e processado na Procuradoria Geral do Município, assegurada ao acusado a ampla defesa.<br>
+§7º. No caso de falta a ser apurada em processo disciplinar, será o procedimento instaurado pelo titular da Pasta no qual se deu a sindicância e processado na Procuradoria Geral do Município, assegurada ao acusado a ampla defesa.
+
 (Redação alterada pela Lei Complementar nº 126, de 22 de fevereiro de 2017).
 
 ~~§ 7º - No caso de falta a ser apurada em processo disciplinar, será o procedimento instaurado pelo Secretário Municipal de Administração, assegurada ao acusado ampla defesa.~~
 
-§8º. Sendo os indícios de irregularidades verificados pelo órgão central de controle interno, a sindicância será por ele instaurada.<br>
+§8º. Sendo os indícios de irregularidades verificados pelo órgão central de controle interno, a sindicância será por ele instaurada.
+
 (Redação acrescentada pela Lei Complementar nº 126, de 22 de fevereiro de 2017).
 
-§9º. Verificada pela sindicância materialidade passível de responsabilização, sendo inerte o titular da Pasta que a apurou em instaura o processo administrativo disciplinar, compete a Procuradoria Geral do Município sua instauração.<br>
+§9º. Verificada pela sindicância materialidade passível de responsabilização, sendo inerte o titular da Pasta que a apurou em instaura o processo administrativo disciplinar, compete a Procuradoria Geral do Município sua instauração.
+
 (Redação acrescentada pela Lei Complementar nº 126, de 22 de fevereiro de 2017).
 
 Art. 157 - Da sindicância poderá resultar:
@@ -1489,19 +1594,22 @@ III - instauração de processo disciplinar.
 
 § 1º - Sempre que o ilícito praticado pelo servidor ensejar a imposição de penalidade de suspensão por mais de trinta dias, de demissão, cassação de aposentadoria ou disponibilidade, ou destituição de cargo em comissão, será obrigatória a instauração de processo disciplinar.
 
-Capítulo II<br>
+Capítulo II
+
 DO AFASTAMENTO PREVENTIVO
 
 Art. 158 - Como medida cautelar e a fim de que o servidor não venha a influir na apuração da irregularidade, a autoridade instauradora do processo disciplinar poderá ordenar o seu afastamento do exercício do cargo, pelo prazo de até sessenta dias, sem prejuízo da remuneração.
 
 Parágrafo único. O afastamento poderá ser prorrogado por igual prazo, findo o qual cessarão os seus efeitos, ainda que não concluído o processo.
 
-Capítulo III<br>
+Capítulo III
+
 DO PROCESSO DISCIPLINAR
 
 Art. 159 - O processo disciplinar é o instrumento destinado a apurar responsabilidade de servidor por infração praticada no exercício de suas atribuições, ou que tenha relação mediata com as atribuições do cargo em que se encontre investido.
 
-Art. 160. O processo disciplinar será conduzido por Comissão Permanente, presidida por um Procurador do Município de caráter efetivo e estável, mais três (03) ou no máximo cinco (05) servidores outros, também efetivos e estáveis.<br>
+Art. 160. O processo disciplinar será conduzido por Comissão Permanente, presidida por um Procurador do Município de caráter efetivo e estável, mais três (03) ou no máximo cinco (05) servidores outros, também efetivos e estáveis.
+
 (Redação alterada pela Lei Complementar nº 83, de 20 de março de 2014).
 
 ~~Art. 160 - O processo disciplinar será conduzido por comissão permanente, composta de servidores estáveis, em número mínimo de três e máximo de cinco, escolhidos dentre aqueles isentos de quaisquer penalidades, a ser instituída por decreto do Chefe do Executivo.~~
@@ -1524,7 +1632,8 @@ Art. 163 - O prazo para conclusão do processo disciplinar não excederá a sess
 
 § 2° - As reuniões da comissão serão registradas em atas que deverão detalhar as deliberações adotadas.
 
-Seção I<br>
+Seção I
+
 DO INQUÉRITO
 
 Art. 164 - O inquérito administrativo obedecerá ao princípio do contraditório, assegurada ao acusado ampla defesa, com a utilização dos meios e recursos admitidos em direito.
@@ -1591,7 +1700,8 @@ Art. 176 - Apreciada a defesa, a comissão elaborará relatório minucioso, onde
 
 Art. 177 - O processo disciplinar, com o relatório conclusivo, será remetido à autoridade que determinou a sua instauração, para julgamento.
 
-Seção II<br>
+Seção II
+
 DO JULGAMENTO
 
 Art. 178 - No prazo de vinte dias, contados do recebimento do processo, a autoridade julgadora proferirá a sua decisão.
@@ -1620,7 +1730,8 @@ Art. 182 - Quando a infração estiver capitulada como crime, o processo discipl
 
 Art. 183 - O servidor que responde processo disciplinar só poderá ser exonerado a pedido, ou aposentado voluntariamente, após a conclusão do processo e o cumprimento da penalidade, caso aplicada.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DA REVISÃO DO PROCESSO
 
 Art. 184 - O processo disciplinar poderá ser revisto, a qualquer tempo, a pedido ou de ofício, quando se aduzirem fatos novos ou circunstâncias suscetíveis de justificar a inocência do punido ou a inadequação da penalidade aplicada.
@@ -1653,10 +1764,12 @@ Art. 192 - Julgada procedente a revisão, será declarada sem efeito a penalidad
 
 Parágrafo único. Da revisão do processo não poderá resultar agravamento de penalidade.
 
-Título VI<br>
+Título VI
+
 DA SEGURIDADE SOCIAL DO SERVIDOR
 
-Capítulo I<br>
+Capítulo I
+
 DISPOSIÇÕES GERAIS
 
 Art. 193 - O Município manterá Plano de Seguridade Social para o servidor submetido ao regime jurídico de que trata esta lei e para seus dependentes.
@@ -1705,13 +1818,16 @@ d) assistência à saúde.
 
 Parágrafo único. O recebimento indevido de benefícios havidos por fraude, dolo ou má fé, implicará na devolução ao Erário do Município do total auferido, atualizado monetariamente, sem prejuízo da ação penal cabível.
 
-Capítulo II<br>
+Capítulo II
+
 DOS BENEFÍCIOS
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DA APOSENTADORIA
 
-~~Art. 196 - Os servidores de que trata esta lei serão aposentados nos termos da Constituição Federal e Legislação Complementar.<br>
+~~Art. 196 - Os servidores de que trata esta lei serão aposentados nos termos da Constituição Federal e Legislação Complementar.
+
 ~~(Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 ~~Art. 197 - A aposentadoria voluntária ou por invalidez vigorará a partir da data da publicação do respectivo ato.~~
@@ -1720,19 +1836,22 @@ DA APOSENTADORIA
 
 ~~§ 2° - Expirado o prazo de licença e não estando em condições de reassumir o cargo, ou de ser readaptado, o servidor será aposentado.~~
 
-~~§ 3° - O lapso de tempo compreendido entre o término da licença médica e a publicação do ato de aposentadoria será considerado como de prorrogação da licença.<br>
+~~§ 3° - O lapso de tempo compreendido entre o término da licença médica e a publicação do ato de aposentadoria será considerado como de prorrogação da licença.
+
 ~~(Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 ~~Art. 198 - Os proventos da aposentadoria serão revistos, na mesma proporção e na mesma data, sempre que se modificar a remuneração dos servidores em atividade, inclusive quando decorrente da transformação ou reclassificação do cargo ou função em que se deu a aposentadoria.~~
 
 ~~§ 1º - É assegurado ao servidor aposentado ou que venha a se aposentar e que perceba até dois salários mínimos, o direito de ter incorporado a seus proventos um adicional de vinte por cento sobre os mesmos, desde que conte pelo menos vinte anos de efetivo serviço prestado à Prefeitura Municipal de Aparecida de Goiânia.~~
 
-~~§ 2º - O servidor aposentado por invalidez permanente decorrente de acidente em serviço, que não esteja exercendo cargo comissionado ou função de confiança, terá direito à percepção de um adicional de 25% (vinte e cinco por cento) sobre o seu salário base, a título de auxílio-acidente.~~<br>
+~~§ 2º - O servidor aposentado por invalidez permanente decorrente de acidente em serviço, que não esteja exercendo cargo comissionado ou função de confiança, terá direito à percepção de um adicional de 25% (vinte e cinco por cento) sobre o seu salário base, a título de auxílio-acidente.~~
+
 (Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 Art. 199 - Quando a aposentadoria for proporcional ao tempo de serviço, o provento não poderá ser inferior ao salário mínimo vigente no país.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DO AUXÍLIO-NATALIDADE
 
 Art. 200 - Conceder-se-á auxílio-natalidade ao servidor, por motivo de nascimento de filho, em quantia equivalente ao menor vencimento constante da Tabela de Vencimentos do Plano de Carreira, inclusive no caso de natimorto, mediante apresentação de certidão.
@@ -1743,7 +1862,8 @@ Art. 200 - Conceder-se-á auxílio-natalidade ao servidor, por motivo de nascime
 
 § 3° - Perderá o direito ao auxílio-natalidade, o servidor que não o requerer até noventa dias após o nascimento do filho.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DO SALÁRIO-FAMÍLIA
 
 Art. 201 - O salário-família é devido ao servidor ativo ou inativo, por dependente econômico, nos termos e valores estabelecidos em lei federal vigente.
@@ -1770,7 +1890,8 @@ Art. 206 - No caso de falecimento do servidor, o salário-família continuará a
 
 Parágrafo único. O salário-família devido ao pensionista, nos termos deste artigo, tem vigência até que este venha contrair novas núpcias ou passe a ter renda própria.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DA LICENÇA PARA TRATAMENTO DE SAÚDE
 
 Art. 207 - Será concedida licença para tratamento de saúde do servidor, a pedido ou de ofício, com base em perícia médica, sem prejuízo da remuneração a que fizer jus.
@@ -1785,7 +1906,8 @@ Art. 209 - No curso da licença, o servidor abster-se-á de exercer qualquer ati
 
 Art. 210 - O atestado e o laudo da Junta Médica do Município não se referirão ao nome ou natureza da doença, salvo quando se tratar de lesões produzidas por acidente em serviço e doença profissional.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DA LICENÇA À GESTANTE, À ADOTANTE E DA LICENÇA-PATERNIDADE
 
 Art. 211 - Será concedida licença à servidora gestante, por cento e vinte dias consecutivos, sem prejuízos da remuneração, mediante inspeção médica.
@@ -1802,7 +1924,8 @@ Art. 212 - Pelo nascimento ou adoção de filho, o servidor terá direito à lic
 
 Art. 213 - O servidor que adotar, ou obtiver guarda judicial de criança ou adolescente para fins de adoção, será concedida licença remunerada de cento e vinte dias, para ajustamento do adotado ao novo lar.
 
- Parágrafo único - Para amamentar o filho, até a idade de seis meses, a servidora lactante terá direito, durante a jornada de trabalho, a uma hora de descanso, que poderá ser parcelada em dois períodos de meia hora.<br>
+ Parágrafo único - Para amamentar o filho, até a idade de seis meses, a servidora lactante terá direito, durante a jornada de trabalho, a uma hora de descanso, que poderá ser parcelada em dois períodos de meia hora.
+
 (Redação alterada pela Lei Complementar nº 178, de 18 de setembro de 2020).
 
 ~~Art. 213 - À servidora que adotar, ou obtiver guarda judicial de criança de até um ano de idade, será concedida licença remunerada de noventa dias, para ajustamento do adotado ao novo lar.~~
@@ -1811,7 +1934,8 @@ Art. 213 - O servidor que adotar, ou obtiver guarda judicial de criança ou adol
 
 ~~§ 2º - Para amamentar o filho, até a idade de seis meses, a servidora lactante terá direito, durante a jornada de trabalho, a uma hora de descanso, que poderá ser parcelada em dois períodos de meia hora.~~
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 DA LICENÇA POR ACIDENTE EM SERVIÇO
 
 Art. 214 - Será licenciado, com remuneração integral, o servidor acidentado em serviço
@@ -1830,17 +1954,20 @@ Parágrafo único. O tratamento de que trata este constitui medida de exceção 
 
 Art. 216 - A prova do acidente será feita no prazo de dez dias, prorrogável quando as circunstâncias o exigirem.
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 DA PENSÃO
 
-~~Art. 217 - Por morte do servidor ativo ou aposentado, os dependentes fazem jus a uma pensão mensal de valor correspondente ao da respectiva remuneração ou provento, a partir da data do óbito, observado o limite estabelecido no artigo 256 desta Lei.<br>
+~~Art. 217 - Por morte do servidor ativo ou aposentado, os dependentes fazem jus a uma pensão mensal de valor correspondente ao da respectiva remuneração ou provento, a partir da data do óbito, observado o limite estabelecido no artigo 256 desta Lei.
+
 ~~(Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 ~~Art. 218 - As pensões distinguem-se, quanto à natureza, em vitalícias e temporárias.~~
 
 ~~§ 1° A pensão vitalícia é composta de cota ou cotas permanentes, que somente se extinguem ou revertem com a morte de seus beneficiários.~~
 
-~~§ 2° A pensão temporária é composta de cota ou cotas que podem se extinguir ou reverter por motivo de morte, cessação de invalidez ou maioridade do beneficiário.~~<br>
+~~§ 2° A pensão temporária é composta de cota ou cotas que podem se extinguir ou reverter por motivo de morte, cessação de invalidez ou maioridade do beneficiário.~~
+
 (Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 ~~Art. 219 - São beneficiários das pensões:~~
@@ -1867,7 +1994,8 @@ DA PENSÃO
 
 ~~§ 1° A concessão de pensão vitalícia aos beneficiários de que tratam as alíneas "a" ou "c" do inciso I deste artigo exclui desse direito os demais beneficiários referidos na alínea "d".~~
 
-~~§ 2° A concessão da pensão temporária aos beneficiários de que tratam as alíneas "a" e "b" do inciso II deste artigo exclui desse direito os demais beneficiários referidos nas alíneas "c" e "d".<br>
+~~§ 2° A concessão da pensão temporária aos beneficiários de que tratam as alíneas "a" e "b" do inciso II deste artigo exclui desse direito os demais beneficiários referidos nas alíneas "c" e "d".
+
 ~~(Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 ~~Art. 220 - A pensão será concedida integralmente ao titular da pensão vitalícia, exceto se existirem beneficiários da pensão temporária.~~
@@ -1876,15 +2004,18 @@ DA PENSÃO
 
 ~~§ 2° Ocorrendo habilitação às pensões vitalícia e temporária, metade do valor caberá ao titular ou titulares da pensão vitalícia, sendo a outra metade rateada em partes iguais, entre os titulares da pensão temporária.~~
 
-~~§ 3° Ocorrendo habilitação somente à pensão temporária, o valor integral da pensão será rateado, em partes iguais, entre os que se habilitarem.<br>
+~~§ 3° Ocorrendo habilitação somente à pensão temporária, o valor integral da pensão será rateado, em partes iguais, entre os que se habilitarem.
+
 ~~(Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 ~~Art. 221 - A pensão poderá ser requerida a qualquer tempo, prescrevendo tão-somente as prestações exigíveis há mais de 1 (um) ano.~~
 
-~~Parágrafo único. Concedida a pensão, qualquer prova posterior ou habilitação tardia que implique exclusão de beneficiário ou redução de pensão só produzirá efeitos a partir da data em que for oferecida.<br>
+~~Parágrafo único. Concedida a pensão, qualquer prova posterior ou habilitação tardia que implique exclusão de beneficiário ou redução de pensão só produzirá efeitos a partir da data em que for oferecida.
+
 ~~(Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
-~~Art. 222 - Não faz jus à pensão o beneficiário condenado pela prática de crime doloso de que tenha resultado a morte do servidor.<br>
+~~Art. 222 - Não faz jus à pensão o beneficiário condenado pela prática de crime doloso de que tenha resultado a morte do servidor.
+
 ~~(Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 ~~Art. 223 - Será concedida pensão provisória por morte presumida do servidor, nos seguintes casos:~~
@@ -1895,7 +2026,8 @@ DA PENSÃO
 
 ~~III - desaparecimento no desempenho das atribuições do cargo ou em missão de segurança.~~
 
-~~Parágrafo único. A pensão provisória será transformada em vitalícia ou temporária, conforme o caso, decorridos 5 (cinco) anos de sua vigência, ressalvado o eventual reaparecimento do servidor, hipótese em que o benefício será automaticamente cancelado.<br>
+~~Parágrafo único. A pensão provisória será transformada em vitalícia ou temporária, conforme o caso, decorridos 5 (cinco) anos de sua vigência, ressalvado o eventual reaparecimento do servidor, hipótese em que o benefício será automaticamente cancelado.
+
 ~~(Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 ~~Art. 224 - Acarreta perda da qualidade de beneficiário:~~
@@ -1912,23 +2044,28 @@ DA PENSÃO
 
 ~~VI - a renúncia expressa;~~
 
-~~VII - o auferimento de renda suficiente para a subsistência ou o exercício de atividade remunerada, quando se tratar de beneficiários de pensão temporária.<br>
+~~VII - o auferimento de renda suficiente para a subsistência ou o exercício de atividade remunerada, quando se tratar de beneficiários de pensão temporária.
+
 ~~(Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
 ~~Art. 225 - Por morte ou perda da qualidade de beneficiário, a respectiva cota reverterá:~~
 
 ~~I - da pensão vitalícia para os remanescentes desta pensão ou para os titulares da pensão temporária, se não houver pensionista remanescente da pensão vitalícia;~~
 
-~~II - da pensão temporária para os co-beneficiários ou, na falta destes, para o beneficiário da pensão vitalícia.~~<br>
+~~II - da pensão temporária para os co-beneficiários ou, na falta destes, para o beneficiário da pensão vitalícia.~~
+
 (Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
-~~Art. 226 - As pensões serão automaticamente atualizadas na mesma data e na mesma proporção dos reajustes dos vencimentos dos servidores, aplicando-se o disposto do art. 198 desta lei.<br>
+~~Art. 226 - As pensões serão automaticamente atualizadas na mesma data e na mesma proporção dos reajustes dos vencimentos dos servidores, aplicando-se o disposto do art. 198 desta lei.
+
 ~~(Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
-~~Art. 227 - Ressalvado o direito de opção, é vedada a percepção cumulativa de mais de duas pensões.<br>
+~~Art. 227 - Ressalvado o direito de opção, é vedada a percepção cumulativa de mais de duas pensões.
+
 ~~(Revogado pela Lei Complementar nº 219, de 26 de setembro de 2023).
 
-SEÇÃO VIII<br>
+SEÇÃO VIII
+
 DO AUXÍLIO FUNERAL
 
 Art. 228 - O auxílio-funeral é devido à família do servidor falecido na atividade ou do aposentado, no valor equivalente ao menor vencimento constante da Tabela de Vencimentos do Plano de Carreira.
@@ -1943,7 +2080,8 @@ Art. 229 - Se o funeral for custeado por terceiros, este será indenizado, media
 
 Art. 230 - Em caso de falecimento de servidor em serviço fora do local de trabalho, inclusive no exterior, as despesas de transporte do corpo correrão à conta dos recursos do Município.
 
-SEÇÃO IX<br>
+SEÇÃO IX
+
 DO AUXÍLIO-RECLUSÃO
 
 Art. 231 - À família do servidor ativo é devido o auxílio-reclusão, nos seguintes valores:
@@ -1956,7 +2094,8 @@ II - metade da remuneração, durante o afastamento, em virtude de condenação,
 
 § 2º - O pagamento do auxílio-reclusão cessará a partir do dia imediato àquele em que o servidor, for posto em liberdade, ainda que condicional.
 
-SEÇÃO XI<br>
+SEÇÃO XI
+
 DA REABILITAÇÃO PROFISSIONAL
 
 Art. 232 - A reabilitação profissional proporciona aos servidores, quando portadores de incapacidade física ou mental, decorrente de acidente ou doença, os meios de reeducação ou readaptação profissional indicados, para que possam exercer atividade produtiva.
@@ -1981,19 +2120,22 @@ I - servidor com incapacidade, decorrente de doença ou acidente do trabalho;
 
 II - servidores em licença para tratamento de saúde.
 
-Capítulo III<br>
+Capítulo III
+
 DA ASSISTÊNCIA À SAÚDE
 
 Art. 233 - A assistência à saúde do servidor, ativo ou inativo, e de sua família, compreende assistência médica, hospitalar, laboratorial, odontológica, psicológica e farmacêutica, prestada mediante instituição própria, ou ainda na forma de convênio, conforme o estabelecido em regulamento.
 
-Capítulo IV<br>
+Capítulo IV
+
 DO CUSTEIO
 
 Art. 234 - O Plano de Seguridade Social do servidor será instituído por lei específica, no prazo máximo de 90 (noventa) dias, custeado com recursos do Tesouro Municipal e com o produto da arrecadação em contribuições sociais obrigatórias dos servidores efetivos dos dois Poderes do Município.
 
 Parágrafo único. A contribuição do servidor, diferenciada em função da remuneração mensal, será fixada em lei.
 
-Título VII<br>
+Título VII
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 235 - Consideram-se da família, além do cônjuge e filhos, quaisquer pessoas que vivam a expensas do servidor e constem de seu assentamento individual, mediante comprovação judicial.
@@ -2052,7 +2194,8 @@ Art. 250 - Será fornecido uniforme ao servidor, quando seu uso for obrigatório
 
 Art. 251 - Os benefícios previstos neste Estatuto somente serão concedidos mediante requerimento do servidor.
 
-Título VIII<br>
+Título VIII
+
 DAS DISPOSIÇÕES TRANSITÓRIAS E FINAIS
 
 Art. 252 - São considerados estáveis no serviço público do Município os servidores em exercício que, mesmo não tendo sido admitidos mediante aprovação em concurso público, contavam com pelo menos cinco anos continuados de exercício no serviço público no dia 05 de outubro de 1988.
@@ -2065,18 +2208,22 @@ Art. 255 - É assegurada a isonomia de vencimentos para cargos de atribuições 
 
 Art. 256 - Ressalvados os casos de acumulação lícita, os servidores municipais não poderão perceber mensalmente importância superior a cinqüenta e cinco por cento da remuneração total, em espécie, atribuída ao Prefeito Municipal.
 
-Art. 257 - Esta Lei Complementar entrará em vigor na data de sua publicação, prevalecendo as gratificações a serem concedidas até 31 de maio de 2003 e as que já foram concedidas durante a vigência da Lei Municipal nº 663/87, a qual fica expressamente revogada, juntamente com as Leis Municipais nos 1.496/95, 1.246/93 e demais disposições em contrário.<br>
+Art. 257 - Esta Lei Complementar entrará em vigor na data de sua publicação, prevalecendo as gratificações a serem concedidas até 31 de maio de 2003 e as que já foram concedidas durante a vigência da Lei Municipal nº 663/87, a qual fica expressamente revogada, juntamente com as Leis Municipais nos 1.496/95, 1.246/93 e demais disposições em contrário.
+
 (Redação alterada pela Lei Complementar nº 006, de 11 de julho de 2002).
 
 ~~Art. 257 - Esta Lei Complementar entrará em vigor na data de sua publicação, prevalecendo as gratificações vintenárias a serem concedidas até 31 de maio de 2003 e as que já foram concedidas durante a vigência da Lei Municipal nº 663/87, a qual fica expressamente revogada, juntamente com as Leis Municipais nos 1.496/95, 1.246/93 e demais disposições em contrário.~~
 
 Gabinete do Prefeito de Aparecida de Goiânia, aos vinte e oito dias do mês de dezembro de dois mil e um.
 
-ADEMIR MENEZES<br>
+ADEMIR MENEZES
+
 PREFEITO MUNICIPAL    
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO
 
-RONALDO AGUIAR DA SILVA<br>
-SEC. DE ADMINISTRAÇÃO<br>
+RONALDO AGUIAR DA SILVA
+
+SEC. DE ADMINISTRAÇÃO

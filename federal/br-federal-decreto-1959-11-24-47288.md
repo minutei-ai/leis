@@ -1,5 +1,3 @@
-###DEC-047288-0-000-24-11-1959@@@
-
 DECRETO Nº 47.288, DE 24 DE NOVEMBRO DE 1959.
 
 Outorga à Prefeitura Municipal de Borba, Estado do Amapá, concessão para distribuir energia elétrica.

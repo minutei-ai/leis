@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/feab1c2d-e5fb-4023-a192-144f6cff284d/texto#nowhere)
 
-###DEL-000737-0-000-05-08-1969@@@
-
 DECRETO-LEI Nº 737, DE 5 DE AGÔSTO DE 1969
 
 Aprova a reforma do ex-soldado Sebastião da Silva, cujo registro foi negado pelo Tribunal de Contas da União.

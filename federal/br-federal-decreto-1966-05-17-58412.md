@@ -1,5 +1,3 @@
-###DEC-058412-0-000-17-05-1966@@@
-
 DECRETO Nº 58.412, DE 17 DE MAIO DE 1966.
 
 Transfere competência à Centrais Elétricas Brasileiras S.A. - Eletrobrás.

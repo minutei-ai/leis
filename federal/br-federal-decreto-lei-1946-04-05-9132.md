@@ -1,5 +1,3 @@
-###DEL-009132-0-000-05-04-1946@@@
-
 DECRETO-LEI N. 9.132 – DE 5 DE ABRIL DE 1946
 
 Autoriza a Companhia Rádio Internacional, do Brasil a executar serviço radiotelegráfico público restrito internacional.

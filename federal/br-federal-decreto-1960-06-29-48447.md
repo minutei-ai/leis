@@ -1,5 +1,3 @@
-###DEC-048447-0-000-29-06-1960@@@
-
 DECRETO Nº 48.447, DE 29 DE JUNHO 1960.
 
 Cria o cargo de Adjunto de Adido Naval junto às Embaixadas do Brasil em Washington, Estados Unidos da América do Norte, e Ottawa, Canadá, e dá outras providências.

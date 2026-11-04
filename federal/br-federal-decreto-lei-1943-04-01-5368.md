@@ -1,5 +1,3 @@
-###DEL-005368-0-000-01-04-1943@@@
-
 DECRETO‑LEI N. 5.368 – DE 1 DE ABRIL DE 1943                                                                                         
 
 Extingue a faculdade de cobrança de impostos interestaduais

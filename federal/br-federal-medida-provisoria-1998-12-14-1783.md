@@ -1,5 +1,3 @@
-###MPV-001783-0-000-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.783, DE 14 DE DEZEMBRO DE 1998.
 
 Institui o Auxílio-Transporte aos servidores e empregados públicos da administração federal direta, autárquica e fundacional da União, e revoga o § 1º do art. 1º da Lei nº 7.418, de 16 de dezembro de 1985.

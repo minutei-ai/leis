@@ -1,5 +1,3 @@
-###DEC-057743-0-000-03-02-1966@@@
-
 DECRETO Nº 57.743, DE 3 DE FEVEREIRO DE 1966.
 
 Aprova o Regimento do Serviço de Saúde dos Portos, criado pelo Decreto-lei nº 3.171, de 2 de abril de 1941.

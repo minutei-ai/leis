@@ -1,5 +1,3 @@
-###MPV-002031-0-034-25-08-2000@@@
-
 medida provisoria nº 2.031-34, de 25 de agosto de 2000.
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

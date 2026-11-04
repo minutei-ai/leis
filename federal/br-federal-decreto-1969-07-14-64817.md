@@ -1,5 +1,3 @@
-###DEC-064817-0-000-14-07-1969@@@
-
 DECRETO Nº 64.817 - DE 14 DE JULHO DE 1969.
 
 Redistribui, com os respectivos ocupantes para o Quadro de Pessoal - Parte Especial - do Conselho Nacional de Telecomunicações, cargos originários dos extintos Companhia Nacional de Navegação Costeira - Autarquia Federal e Lloyd Brasileiro - Patrimônio Nacional e dá outras providências.

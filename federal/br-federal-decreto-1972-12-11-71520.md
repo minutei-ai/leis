@@ -1,5 +1,3 @@
-###DEC-071520-0-000-11-12-1972@@@
-
 decreto nº 71.520 - de 11 de dezembro de 1972
 
 Concede à Mineração Irapuru Ltda. o direito de lavrar calcário no município de Castro, Estado do Paraná.

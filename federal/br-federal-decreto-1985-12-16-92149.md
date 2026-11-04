@@ -1,5 +1,3 @@
-###DEC-092149-0-000-16-12-1985@@@
-
 Decreto nº 92.149, de 16 De dezembro de 1985.
 
 Dispõe sobre o aumento do Capital Autorizado da PETROFLEX INDÚSTRIA E COMÉRCIO S.A.

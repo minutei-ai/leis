@@ -1,5 +1,3 @@
-###DEC-006725-0-000-12-01-2009@@@
-
 DECRETO Nº 6.725, DE 12 DE JANEIRO DE 2009.
 
 Dá nova redação ao art. 8o do Decreto no 5.995, de 19 de dezembro de 2006, que institui o Sistema de Gestão do Projeto de Integração do Rio São Francisco com as Bacias Hidrográficas do Nordeste Setentrional.

@@ -1,5 +1,3 @@
-###DEC-007688-0-000-02-03-2012-PUB-01@@@
-
 DECRETO N°\- 7.688, DE 2 DE MARÇO DE 2012
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão da Secretaria-Geral da Presidência da República, dispõe sobre o remanejamento de cargos em comissão, altera o Anexo II do Decreto n° 5.135, de 7 de julho de 2004, os Anexos I e II do Decreto n° 6.188, de 17 de agosto de 2007, e os Anexos I e II do Decreto n° 7.480, de 16 de maio de 2011.

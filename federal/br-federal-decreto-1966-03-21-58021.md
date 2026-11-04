@@ -1,5 +1,3 @@
-###DEC-058021-0-000-21-03-1966@@@
-
 DECRETO Nº 58.021, DE 21 DE MARÇO DE 1966.
 
 Retifica a Tabela Numérica Especial de Mensalistas do Ministério da Saúde, aprovada pelo Decreto número 49.346, de 26 de novembro de 1960.

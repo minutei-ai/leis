@@ -1,5 +1,3 @@
-###DEC-049714-0-000-31-12-1960@@@
-
 DECRETO Nº 49.714, DE 31 DE dezembro DE 1960.
 
 Aprova alterações introduzidas nos Estatutos inclusive aumento do capital social da “Meridional” -Companhia de Seguros Gerais.

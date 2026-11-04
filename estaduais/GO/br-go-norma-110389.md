@@ -1,6 +1,5 @@
 LEI Nº 23.229, DE 16 DE JANEIRO DE 2025
 
-<br>
 Altera a [Lei nº 11.651](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/87836/lei-11651), de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás.
 
 A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual-), decreta e eu sanciono a seguinte Lei:

@@ -1,5 +1,3 @@
-###DEC-067615-0-000-19-11-1970@@@
-
 DECRETO Nº 67.615, DE 19 DE NOVEMBRO DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Permanente - do Instituto Brasileiro de Desenvolvimento Florestal, cargo do Quadro de Pessoal - Parte Permanente - do Ministério da Agricultura.

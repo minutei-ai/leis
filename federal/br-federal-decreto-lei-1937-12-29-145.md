@@ -1,5 +1,3 @@
-###DEL-000145-0-000-29-12-1937@@@
-
 DECRETO-LEI N. 145 – DE 29 DE DEZEMBRO DE 1937
 
 Regula, em caráter transitório, o ingresso nas carreiras de "oficial Administrativo",  "Estatístico" e "Contínuo"

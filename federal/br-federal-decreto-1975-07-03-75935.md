@@ -1,5 +1,3 @@
-###DEC-075935-0-000-03-07-1975@@@
-
 DECRETO Nº 75.935 - DE 3 DE JULHO DE 1975.
 
 Declara a caducidade do Manifesto de Mina que menciona.

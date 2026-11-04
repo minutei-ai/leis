@@ -1,7 +1,3 @@
-1
-
-###MPV-001406-0-000-11-04-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.406, DE 11 DE ABRIL DE 1996
 
 Dispõe sobre a alocação, em depósitos especiais, remunerados, de recursos das disponibilidades financeiras do Fundo de Amparo ao Trabalhador - FAT.

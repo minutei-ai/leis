@@ -1,5 +1,3 @@
-###DEC-049288-0-000-18-11-1960@@@
-
 Decreto nº 49.288, de 18 de novembro de 1960.
 
 Autoriza estrangeiro a adquirir terrenos nacionais interiores e benfeitorias que menciona, situados no Estado da Guanabara.

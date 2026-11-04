@@ -1,7 +1,3 @@
-1
-
-###MPV-001178-0-000-01-11-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.178, de 1º de NOVEMBRO de 1995.
 
 Dispõe sobre a alocação, em depósitos especiais, remunerados, de recursos das disponibilidades financeiras do Fundo de Amparo ao Trabalhador - FAT.

@@ -1,5 +1,3 @@
-###DEC-045293-0-000-27-01-1959@@@
-
 DECRETO Nº 45.293, DE 27 DE janeiro DE 1959.
 
 Concede à Orientadora Imobiliária Limitada autorização para funcionar como emprêsa de mineração.

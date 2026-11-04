@@ -1,5 +1,3 @@
-###DEC-048913-0-000-31-08-1960@@@
-
 Decreto nº 48.913, de 31 de agôsto de 1960.
 
 Estabelece normas para a execução do Plano de Contenção de Despesas, para o Exercício Financeiro de 1960.

@@ -1,5 +1,3 @@
-###DEC-078641-0-000-27-10-1976@@@
-
 DECRETO Nº 78.641, de 27 de outubro de 1976
 
 Inclui representante do Ministério da Marinha no Grupo Setorial I - Indústria de Bens de Capital, do Conselho de Desenvolvimento Industrial.

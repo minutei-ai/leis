@@ -1,14 +1,12 @@
-###DEC-019972-0-000-19-11-1945@@@
+**DECRETO Nº 19.972, DE 19 DE NOVEMBRO DE 1945.**
 
-<strong>DECRETO Nº 19.972, DE 19 DE NOVEMBRO DE 1945.</strong>
+***Altera a lotação numérica do Ministério da Agricultura.***
 
-<em><strong>Altera a lotação numérica do Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Passa a lotação numérica das repartições atendidas pelos Quadros Permanentes e Suplementar do Ministério da Agricultura a vigorar com as seguintes alterações:
+**Art**. 1º Passa a lotação numérica das repartições atendidas pelos Quadros Permanentes e Suplementar do Ministério da Agricultura a vigorar com as seguintes alterações:
 
 I - na carreira de Escriturário:
 
@@ -32,12 +30,12 @@ a) transfere-se um cargo da lotação permanente de Inspetoria Regional em Flori
 
 b) transfere-se um cargo da lotação permanente da Inspetoria Regional em Salvador, Bahia, para a Inspetoria Regional em Belo Horizonte, Minas Gerais, ambas da Divisão de Defesa Sanitária Animal, do Departamento Nacional da Produção Animal.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data da sua publicação.
+**Art**. 2º Êste decreto entrará em vigor na data da sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 19 de novembro de 1945, 124º da Independência e 57º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Theodureto de Camargo

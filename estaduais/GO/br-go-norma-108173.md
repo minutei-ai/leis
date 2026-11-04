@@ -1,4 +1,5 @@
-DECRETO Nº 10.355, DE 5 DE DEZEMBRO DE 2023<br>
+DECRETO Nº 10.355, DE 5 DE DEZEMBRO DE 2023
+
 \- [Vide Decreto nº 10.533, de 22-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109400) - Altera a estrutura administrativa da SGG.
 
 Aprova o Regulamento da Secretaria-Geral de Governo – SGG.
@@ -189,7 +190,8 @@ f) Subsecretaria de Governança:
 
 5\. Superintendência de Prioridades Governamentais:
 
-~~5.1. Assessoria Técnica de Engenharia da Governadoria;~~<br>
+~~5.1. Assessoria Técnica de Engenharia da Governadoria;~~
+
 \- [Revogado pelo Decreto nº 10.949, de 6-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116101), art. 5º, II, a.
 
 5.2. Gerência de Assuntos Sociais;
@@ -2088,7 +2090,8 @@ VII – Gerência de Execução e Monitoramento de Projetos de Captação de Rec
 
 VIII – Superintendência de Prioridades Governamentais;
 
-~~IX – Assessoria Técnica de Engenharia da Governadoria;~~<br>
+~~IX – Assessoria Técnica de Engenharia da Governadoria;~~
+
 \- [Revogado pelo Decreto nº 10.949, de 6-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116101), art. 5º, II, b.
 
 X – Gerência de Assuntos Sociais;
@@ -2291,7 +2294,8 @@ VI – encarregar–se de competências correlatas.
 
 Parágrafo único. Além das competências constantes do _caput_ deste artigo, compete à Superintendência de Prioridades Governamentais exercer as funções de organização, coordenação e supervisão técnica das seguintes unidades:
 
-~~I – Assessoria Técnica de Engenharia da Governadoria;~~<br>
+~~I – Assessoria Técnica de Engenharia da Governadoria;~~
+
 \- [Revogado pelo Decreto nº 10.949, de 6-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116101), art. 5º, II, c.
 
 II – Gerência de Assuntos Sociais;
@@ -2306,22 +2310,28 @@ VI – Gerência de Assuntos Educacionais.
 
 ~~Subseção I~~
 
-~~Da Assessoria Técnica de Engenharia da Governadoria~~<br>
+~~Da Assessoria Técnica de Engenharia da Governadoria~~
+
 \- [Revogado pelo Decreto nº 10.949, de 6-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116101), art. 5º, II, d.
 
-~~Art. 63. Compete à Assessoria Técnica de Engenharia da Governadoria:~~<br>
+~~Art. 63. Compete à Assessoria Técnica de Engenharia da Governadoria:~~
+
 \- [Revogado pelo Decreto nº 10.949, de 6-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116101), art. 5º, II, d.
 
-~~I – acompanhar e prestar orientações técnicas para o monitoramento dos projetos prioritários;~~<br>
+~~I – acompanhar e prestar orientações técnicas para o monitoramento dos projetos prioritários;~~
+
 \- [Revogado pelo Decreto nº 10.949, de 6-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116101), art. 5º, II, d.
 
-~~II – realizar o acompanhamento físico das obras de construção, conservação, operação e manutenção dos projetos prioritários;~~<br>
+~~II – realizar o acompanhamento físico das obras de construção, conservação, operação e manutenção dos projetos prioritários;~~
+
 \- [Revogado pelo Decreto nº 10.949, de 6-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116101), art. 5º, II, d.
 
-~~III – gerenciar e reportar dados e/ou informações técnicas de planejamento, execução e operação dos projetos prioritários que envolvam obras de engenharia; e~~<br>
+~~III – gerenciar e reportar dados e/ou informações técnicas de planejamento, execução e operação dos projetos prioritários que envolvam obras de engenharia; e~~
+
 \- [Revogado pelo Decreto nº 10.949, de 6-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116101), art. 5º, II, d.
 
-~~IV – encarregar–se de outras competências que lhe forem atribuídas em sua área de atuação.~~<br>
+~~IV – encarregar–se de outras competências que lhe forem atribuídas em sua área de atuação.~~
+
 \- [Revogado pelo Decreto nº 10.949, de 6-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116101), art. 5º, II, d.
 
 Subseção II

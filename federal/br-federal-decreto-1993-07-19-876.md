@@ -1,7 +1,3 @@
-1
-
-###DEC-000876-0-000-19-07-1993@@@ 
-
 DECRETO N° 876, DE 19 DE JULHO DE 1993
 
 Estabelece as características da Nota do Tesouro Nacional - Série I - NTN-I, para fins de equalização das taxas de juros de operações de financiamento a exportações de bens e serviços brasileiros, amparados pelo Programa de Financiamento às Exportações - PROEX.

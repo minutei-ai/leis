@@ -1,5 +1,3 @@
-###DEC-086578-0-000-16-11-1981@@@
-
 Decreto nº 86.578, de 16 de novembro de 1981
 
 Autoriza a Petrobrás Internacional S.A. - BRASPETRO a proceder ao aumento do limite de seu Capital Social.

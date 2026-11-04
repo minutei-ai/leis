@@ -1,5 +1,3 @@
-###DEC-085915-0-000-15-04-1981@@@
-
 Decreto Nº 85.915, de 15 dE abril dE 1981.
 
 Autoriza a Petrobrás Mineração S.A. - PETROMISA a proceder ao aumento do limite do seu Capital Social.

@@ -1,5 +1,3 @@
-###DEC-063940-0-000-30-12-1968@@@
-
 DECRETO Nº 63.940, DE 30 DE DEZEMBRO DE 1968.
 
 Dispõe sobre a aquisição de aeronaves para as emprêsas de transporte aéreo regular.

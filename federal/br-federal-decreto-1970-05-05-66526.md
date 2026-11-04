@@ -1,5 +1,3 @@
-###DEC-066526-0-000-05-05-1970@@@
-
 decreto nº 66.526, de 5 de maio de 1970.
 
 Autoriza estrangeiros a adquirirem direitos sôbre terrenos que menciona.

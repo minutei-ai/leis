@@ -1,5 +1,3 @@
-###DEC-048019-0-000-05-04-1960@@@
-
 DECRETO Nº 48.019, DE 5 DE ABRIL DE 1960.
 
 Concede à Casa Eliseu Mardegan S.A. Comércio e Indústria autorização para funcionar como emprêsa de mineração.

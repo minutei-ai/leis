@@ -1,5 +1,3 @@
-###DEC-052117-0-000-17-06-1963@@@
-
 DECRETO Nº 52.117, DE 17 DE JUNHO DE 1963.
 
 Autoriza a constituição, mediante subscrição pública, do Banco do Estado do Ceará, S.A.

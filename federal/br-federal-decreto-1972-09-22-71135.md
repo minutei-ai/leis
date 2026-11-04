@@ -1,5 +1,3 @@
-###DEC-071135-0-000-22-09-1972@@@
-
 DECRETO Nº 71.135, DE 22 DE SETEMBRO de 1972.
 
 Reconhece a Confederação Brasileira de Judô.

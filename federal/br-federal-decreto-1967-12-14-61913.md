@@ -1,5 +1,3 @@
-###DEC-061913-0-000-14-12-1967@@@
-
 DECRETO Nº 61.913, DE 14 DE DEZEMBRO DE 1967.
 
 Autoriza o Serviço do Patrimônio da União à aceitar doação de imóvel, em Uberlândia - MG, destinado ao Ministério do Exército.

@@ -1,5 +1,3 @@
-###DEC-054633-0-000-27-10-1964@@@
-
 DECRETO Nº 54.633, de 27 de outubro de 1964.
 
 Aprova alterações introduzidas nos Estatutos da Companhia Espírito Santo de Seguros, inclusive transferência de sede social.

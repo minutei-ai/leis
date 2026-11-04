@@ -1,5 +1,3 @@
-###DEC-079149-0-000-19-01-1977@@@
-
 DECRETO Nº 79.149, DE 19 DE JANEIRO DE 1977.
 
 Cria Comissão de Coordenação do Reescalonamento de Horários de Atividades Comerciais, Industriais e Outras.

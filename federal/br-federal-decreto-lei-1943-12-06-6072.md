@@ -1,5 +1,3 @@
-###DEL-006072-0-000-06-12-1943@@@
-
 DECRETO‑LEI N. 6.072 – DE 6 DE DEZEMBRO DE 1943
 
 Suprime função gratificada no Quadro Permanente do Ministério da Educação e Saúde

@@ -1,5 +1,3 @@
-###DEC-005688-0-000-01-02-2006@@@
-
 DECRETO Nº 5.688, DE 1º DE FEVEREIRO DE 2006.
 
 Altera e acresce dispositivos ao Decreto no 2.233, de 23 de maio de 1997, que dispõe sobre os setores das atividades econômicas excluídos das restrições previstas no art. 39 da Lei no 4.131, de 3 de setembro de 1962.

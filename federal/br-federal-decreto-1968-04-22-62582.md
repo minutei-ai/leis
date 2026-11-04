@@ -1,5 +1,3 @@
-###DEC-062582-0-000-22-04-1968@@@
-
 DECRETO Nº 62.582, DE 22 DE ABRIL DE 1968.
 
 Transfere função gratificada.

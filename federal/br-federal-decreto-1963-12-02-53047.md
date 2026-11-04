@@ -1,5 +1,3 @@
-###DEC-053047-0-000-02-12-1963@@@
-
 Decreto nº 53.047, de 2 de dezembro de 1963.
 
 Altera o Regulamento de Uniformes para a Marinha do Brasil, aprovado pelo Decreto nº 34.868 de 3 de dezembro de 1953.

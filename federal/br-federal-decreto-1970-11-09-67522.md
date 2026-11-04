@@ -1,5 +1,3 @@
-###DEC-067522-0-000-09-11-1970@@@
-
 DECRETO Nº 67.522, DE 9 DE NOVEMBRO DE 1970.
 
 Declara caduco o Decreto nº 21.098, de 9-5-1946, retificado pelo de nº 25.713, de 25-10-1948.

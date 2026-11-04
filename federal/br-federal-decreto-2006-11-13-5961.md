@@ -1,5 +1,3 @@
-###DEC-005961-0-000-13-11-2006@@@
-
 DECRETO Nº 5.961 DE 13 DE NOVEMBRO DE 2006.
 
 Institui o Sistema Integrado de Saúde Ocupacional do Servidor Público Federal - SISOSP.
@@ -85,5 +83,3 @@ Brasília, 14 de novembro de 2006; 185o da Independência e 118o da República.
 ALDO REBELO
 
 Joao Bernardo de Azevedo Bringel
-
-Este texto não substitui o publicado no DOU de 14.11.2006

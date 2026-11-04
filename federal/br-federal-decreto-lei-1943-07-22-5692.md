@@ -1,5 +1,3 @@
-###DEL-005692-0-000-22-07-1943@@@
-
 DECRETO‑LEI N.  5.692 – DE 22 DE JULHO DE 1943
 
 Prorroga a vigência do crédito especial aberto pelo decreto‑lei n. 3.115, de 13 de março de 1941

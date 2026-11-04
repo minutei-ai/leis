@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209509)<br>
-
 # RESOLUÇÃO DA ALESP N° 943, DE 29 DE MAIO DE 2024
 
 ## (Projeto de Resolução n° 11, de 2024)

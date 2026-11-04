@@ -1,5 +1,3 @@
-###DEC-060245-0-000-20-02-1967@@@
-
 DECRETO Nº 60.245, DE 20 DE FEVEREIRO DE 1967.
 
 Altera o Regimento do Departamento de Administração do Ministério da Saúde, aprovado pelo Decreto número 42.917, de 30 de dezembro de 1957.

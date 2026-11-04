@@ -1,5 +1,3 @@
-###DEC-059250-0-000-19-09-1966@@@
-
 Decreto nº 59.250, de 19 de setembro de 1966.
 
 Autoriza o cidadão brasileiro Marcelo Junqueira Santos na qualidade de administrador do Condomínio do Imóvel Campo da Cachoeira a Lavrar bauxita no município de Poços de Caldas, Estado de Minas Gerais.

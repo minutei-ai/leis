@@ -1,5 +1,3 @@
-###DEL-000310-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 310, DE 28 DE FEVEREIRO DE 1967
 
 Dispõe sôbre a Delegacia do Tesouro Brasileiro no Exterior e dá outras providências.

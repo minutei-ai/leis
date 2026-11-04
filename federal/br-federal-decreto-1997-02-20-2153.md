@@ -1,5 +1,3 @@
-###DEC-002153-0-000-20-02-1997@@@
-
 DECRETO N.º 2.153, DE 20 DE FEVEREIRO DE 1997
 
 Estabelece e organiza as Forças Navais, Aeronavais e de Fuzileiros Navais da Marinha, dispõe sobre as áreas de jurisdição dos Comandos de Distritos Navais e dá outras providências.

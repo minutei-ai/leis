@@ -1,5 +1,3 @@
-###DEC-080122-0-000-10-08-1977@@@
-
 DECRETO Nº 80.122, DE 10 de agosto de 1977.
 
 Concede à Mineração Condado Ltda. o direito de lavrar muscovita, lepidolita, turmalina e rubelita no Município de Quixeramobim, Estado do Ceará.

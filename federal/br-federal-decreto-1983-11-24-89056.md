@@ -1,5 +1,3 @@
-###DEC-089056-0-000-24-11-1983@@@
-
 DEcreto nº 89.056, de 24 de novembro de 1983
 
 Regulamenta a Lei nº 7.102, de 20 de junho de 1983, que "dispõe sobre segurança para estabelecimentos financeiros, estabelece normas para constituição e funcionamento das empresas particulares que exploram serviços de vigilância e de transporte de valores e dá outras providências".

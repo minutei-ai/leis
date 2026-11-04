@@ -1,5 +1,3 @@
-###DEC-057034-0-000-11-10-1965@@@
-
 DECRETO Nº 57.034, DE 11 DE OUTUBRO DE 1965.
 
 Autoriza João Alfredo Lima, a comprar pedras preciosas.

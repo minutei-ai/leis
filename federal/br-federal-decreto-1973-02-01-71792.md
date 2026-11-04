@@ -1,5 +1,3 @@
-###DEC-071792-0-000-01-02-1973@@@
-
 DECRETO N° 71.792, DE 1 DE FEVEREIRO DE 1973.
 
 Concede reconhecimento aos cursos de Geologia, Ciências Biológicas e Ciências (Licenciatura e 1º grau) da Universidade de Brasília, mantida pela Fundação Universidade de Brasília, Brasília.

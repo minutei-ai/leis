@@ -1,5 +1,3 @@
-###DEC-059158-0-000-01-09-1966@@@
-
 Decreto Nº 59.158, DE 1º DE SETEMBRO DE 1966.
 
 Declara de utilidade pública a “Associação Médica de Brasília”, com sede no Distrito Federal.

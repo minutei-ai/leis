@@ -1,7 +1,3 @@
-1
-
-###DEC-098141-0-000-14-09-1989@@@
-
 DECRETO N° 98.141 DE 14 DE SETEMBRO DE 1989
 
 Outorga concessão à RÁDIO VITÓRIA DE BATALHA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Batalha, Estado do Piauí.

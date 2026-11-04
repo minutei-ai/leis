@@ -1,5 +1,3 @@
-###DEC-091679-0-000-24-09-1985@@@
-
 Decreto nº 91.679, de 24 de setembro de 1985.
 
 Altera o artigo 9º do Estatuto da Caixa Econômica Federal - CEF, dispondo sobre o aumento de seu capital.

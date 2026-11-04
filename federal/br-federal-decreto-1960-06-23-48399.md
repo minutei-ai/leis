@@ -1,5 +1,3 @@
-###DEC-048399-0-000-23-06-1960@@@
-
 DECRETO Nº 48.399, DE 23 DE JUNHO DE 1960.
 
 Autoriza a Emprêsa Comercial e Técnica de Minérios S.A. a pesquisar minério de manganês, no município de Caetité, Estado da Bahia.

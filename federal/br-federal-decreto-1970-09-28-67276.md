@@ -1,5 +1,3 @@
-###DEC-067276-0-000-28-09-1970@@@
-
 DECRETO Nº 67.276, DE 28 DE SETEMBRO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Educação e Cultura, cargos originários da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal.

@@ -1,5 +1,3 @@
-###DEC-074107-0-000-27-05-1974@@@
-
 DECRETO Nº 74.107, DE 27 DE MAIO DE 1974.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona situado no Estado da Guanabara.

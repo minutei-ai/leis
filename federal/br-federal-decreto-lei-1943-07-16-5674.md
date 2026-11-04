@@ -1,5 +1,3 @@
-###DEL-005674-0-000-16-07-1943@@@
-
 DECRETO‑LEI  N.  5.674 – DE 16 DE JULHO DE 1943
 
 Modifica a organização do Batalhão de Guardas sediado nesta Capital

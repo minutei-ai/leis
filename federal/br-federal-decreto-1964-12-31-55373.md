@@ -1,5 +1,3 @@
-###DEC-055373-0-000-31-12-1964@@@
-
 DECRETO Nº 55.373, DE 31 DE DEZEMBRO DE 1964.
 
 Outorga a Knorr & Companhia Limitada concessão para o aproveitamento da energia hidráulica de um desnível no rio Caxambu, Estado do Rio Grande do Sul.

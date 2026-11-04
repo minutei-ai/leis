@@ -1,5 +1,3 @@
-###DEC-097537-0-000-21-02-1989@@@
-
 DECRETO N° 97.537, DE 21 DE FEVEREIRO DE 1989
 
 Altera a denominação de Capitanias dos Portos.

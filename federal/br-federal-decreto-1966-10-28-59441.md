@@ -1,5 +1,3 @@
-###DEC-059441-0-000-28-10-1966@@@
-
 DECRETO Nº 59.441, DE 28 DE OUTUBRO DE 1966.
 
 Ministério da Fazenda. Abre o crédito especial de Cr$31.900.000.000 (trinta e um bilhões e novecentos milhões de cruzeiros) para prosseguimento dos programas de obras e serviços a cargo da Cia. Urbanizadora da Nova Capital S.A. - NOVACAP.

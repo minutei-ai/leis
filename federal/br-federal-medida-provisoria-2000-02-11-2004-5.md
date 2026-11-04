@@ -1,5 +1,3 @@
-###MPV-002004-0-005-11-02-2000@@@
-
 MEDIDA PROVISÓRIA nº 2.004-5, de 11 de fevereiro de 2000.
 
 Institui o Programa de Recuperação Fiscal - REFIS.

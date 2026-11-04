@@ -1,5 +1,3 @@
-###DEC-080682-0-000-09-11-1977@@@
-
 DECRETO Nº 80.682, DE 09 DE NOVEMBRO DE 1977.
 
 Concede reconhecimento aos cursos de Matemática, Física e Química, da Universidade Federal da Paraíba, com sede na cidade de João Pessoa, Estado da Paraíba.

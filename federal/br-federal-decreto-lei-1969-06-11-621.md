@@ -1,5 +1,3 @@
-###DEL-000621-0-000-11-06-1969@@@
-
 Decreto-Lei nº 621, de 11 de Junho de 1969
 
 Autoriza constituição de aforamento em favor da Companhia de Navegação Lloyd Brasileiro e dá outras providências.

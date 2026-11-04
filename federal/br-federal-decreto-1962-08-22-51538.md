@@ -1,5 +1,3 @@
-###DEC-051538-0-000-22-08-1962@@@
-
 DECRETO Nº 51.538, DE 22 DE AGÔSTO DE 1962.
 
 Cria funções gratificadas no Quadro do Pessoal do Ministério da Aeronáutica, e dá outras providências.

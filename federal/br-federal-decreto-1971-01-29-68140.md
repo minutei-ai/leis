@@ -1,5 +1,3 @@
-###DEC-068140-0-000-29-01-1971@@@
-
 DECRETO Nº 68.140, DE 29 DE JANEIRO DE 1971.
 
 Autoriza o funcionamento da Escola Superior de Educação Física e Técnicas Desportivas de Araçatuba, SP.

@@ -1,5 +1,3 @@
-###DEC-060687-0-000-05-05-1967@@@
-
 DECRETO Nº 60.687, DE 5 DE MAIO DE 1967.
 
 Transfere à Rio Light S.A. - Serviços de Eletricidade concessão para distribuir energia elétrica.
@@ -37,8 +35,6 @@ Brasília, 5 de maio d e1967; 146º da Independência e 79º da República.
 A. COSTA E SILVA
 
 José Costa Cavalcanti
-
-###DEC-060687-0-000-05\-05\-1967@@@RET01+++
 
 DECRETO Nº 60.687, DE 5 DE MAIO DE 1967.
 

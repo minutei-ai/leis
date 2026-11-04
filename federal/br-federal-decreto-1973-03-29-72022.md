@@ -1,5 +1,3 @@
-###DEC-072022-0-000-29-03-1973@@@
-
 DECRETO Nº 72.022, DE 29 DE MARÇO DE 1973.
 
 Altera dispositivo do Decreto número 61.998, de 28 de dezembro de 1967, que dispõe sobre a dispensa de ponto de servidores públicos federais.

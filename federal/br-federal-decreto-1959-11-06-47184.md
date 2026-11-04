@@ -1,5 +1,3 @@
-###DEC-047184-0-000-06-11-1959@@@
-
 decreto nº 47.184, de noveMbro de 1959.
 
 Renova o Decreto nº 42.293, de 20 de setembro de 1957.

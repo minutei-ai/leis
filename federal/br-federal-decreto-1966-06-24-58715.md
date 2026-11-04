@@ -1,5 +1,3 @@
-###DEC-058715-0-000-24-06-1966@@@
-
 DECRETO Nº 58.715, DE 24 DE JUNHO DE 1966.
 
 Declara caduco o decreto nº 23.523, de 18 de agôsto de 1947.

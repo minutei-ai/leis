@@ -1,5 +1,3 @@
-###DEC-060593-0-000-13-04-1967@@@
-
 DECRETO Nº 60.593, DE 13 DE ABRIL DE 1967.
 
 Prorroga prazo para a posse do pessoal aproveitado em cargos do Quadro de Pessoal da Justiça Federal.

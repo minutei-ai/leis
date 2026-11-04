@@ -1,5 +1,3 @@
-###DEC-086671-0-000-30-11-1981@@@
-
 Decreto nº 86.671, de 30 de novembro de 1981
 
 Autoriza empresas de telecomunicações controladas pela Telecomunicações Brasileiras S.A. - TELEBRÁS a promover aumento de capital.

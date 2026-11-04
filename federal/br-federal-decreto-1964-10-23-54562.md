@@ -1,5 +1,3 @@
-###DEC-054562-0-000-23-10-1964@@@
-
 DECRETO Nº 54.562, DE 23 DE OUTUBRO DE 1964.
 
 Autoriza a firma Mica do Brasil Ltda., “Micabrasil”, a comprar pedras preciosas.

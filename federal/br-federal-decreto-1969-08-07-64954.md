@@ -1,5 +1,3 @@
-###DEC-064954-0-000-07-08-1969@@@
-
 DECRETO Nº 64.954 - DE 7 de AGÔSTO DE 1969.
 
 Redistribui, com os respectivos ocupantes, para Quadro de Pessoal - Parte Especial do Ministério da Marinha, cargos originários dos extintos Serviços de Navegação da Amazônia e da Administração do Pôrto do Pará, Serviço de Navegação da Bacia do Prata, Companhia Nacional de Navegação Costeira - Autarquia Federal e Lloyd Brasileiro - Patrimônio Nacional, e dá outras providências.

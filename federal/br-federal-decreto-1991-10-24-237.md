@@ -1,7 +1,3 @@
-1
-
-###DEC-000237-0-000-24-10-1991@@@
-
 DECRETO Nº 237, DE 24 DE OUTUBRO DE 1991
 
 Acrescenta inciso ao art. 2º do Decreto nº 99.540, de 21 de setembro de 1990, que instituiu a Comissão Coordenadora do Zoneamento Ecológico-Econômico do Território Nacional.

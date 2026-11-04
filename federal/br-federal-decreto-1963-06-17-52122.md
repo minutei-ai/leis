@@ -1,5 +1,3 @@
-###DEC-052122-0-000-17-06-1963@@@
-
 decreto nº 52.122, de 17 de junho de 1963.
 
 Altera a lotação numérica da Parte Permanente do Quadro de Pessoal do Ministério da Fazenda.

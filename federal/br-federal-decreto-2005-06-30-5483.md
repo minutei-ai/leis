@@ -1,5 +1,3 @@
-###DEC-005483-0-000-30-06-2005@@@
-
 DECRETO Nº 5.483, DE 30 DE JUNHO DE 2005
 
 Regulamenta, no âmbito do Poder Executivo Federal, o art. 13 da Lei no 8.429, de 2 de junho de 1992, institui a sindicância patrimonial e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-007309-0-000-08-02-1945@@@
-
 DECRETO-LEI N. 7.309 – DE 8 DE FEVEREIRO DE 1945
 
  Interpreta o art. 35, do Decreto-lei nº 1.202, de 3 de abril de 1939

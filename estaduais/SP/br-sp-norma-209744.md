@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209744)<br>
-
 # LEI N° 17.994, DE 23 DE JULHO DE 2024
 
 ## (Projeto de lei n° 1526/2023, do Deputado Marcos Damasio - PL)

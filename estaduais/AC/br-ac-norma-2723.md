@@ -1,6 +1,10 @@
 > **LEI Nº 3.280, DE 20 DE JULHO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Cria Licença de Segurança para estabelecimentos que exploram atividades comerciais ou promovam eventos que exijam a fiscalização ou a atuação dos órgãos de segurança pública.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Cria Licença de Segurança para estabelecimentos que exploram atividades comerciais ou promovam eventos que exijam a fiscalização ou a atuação dos órgãos de segurança pública.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

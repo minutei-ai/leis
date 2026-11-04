@@ -1,5 +1,3 @@
-###DEC-072895-0-000-09-10-1973@@@
-
 DECRETO Nº 72.895 DE 9 DE OUTUBRO DE 1973.
 
 Autoriza o funcionamento da Faculdade de Educação, Ciências e Letras " Marechal Castelo Branco", mantida pelo Centro Educacional de Realengo, com sede na Cidade do Rio de Janeiro, Estado da Guanabara.

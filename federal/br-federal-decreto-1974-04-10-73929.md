@@ -1,5 +1,3 @@
-###DEC-073929-0-000-10-04-1974@@@
-
 DECRETO Nº 73.929, DE 10 DE ABRIL DE 1974.
 
 Concede à Caraça Ferro e Aço Sociedade Anônima, o direito de lavrar minério de ferro e bauxita no Município de Santa Bárbara, Estado de Minas Gerais.

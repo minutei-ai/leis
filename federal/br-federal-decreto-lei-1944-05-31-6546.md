@@ -1,5 +1,3 @@
-###DEL-006546-0-000-31-05-1944@@@
-
 DECRETO-LEI N. 6.546 – DE 31 DE MAIO DE 1944
 
 Altera o art. 2º do Decreto-lei nº 5.219, de 22 de janeiro de 1943, e substitui as cláusulas que o acompanharam

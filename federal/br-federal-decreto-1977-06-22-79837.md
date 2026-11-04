@@ -1,5 +1,3 @@
-###DEC-079837-0-000-22-06-1977@@@
-
 Decreto nº 79.837, de 22 de junho de 1977
 
 Concede reconhecimento aos cursos de Estudos Sociais e de Letras, da Faculdade de Filosofia, Ciências e Letras de Duque de Caxias, com sede na cidade de Duque de Caxias, Estado do Rio de Janeiro.

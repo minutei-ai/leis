@@ -1,5 +1,3 @@
-###DEC-097554-0-000-03-03-1989@@@
-
 DECRETO N° 97.554, DE 3 DE MARÇO DE 1989
 
 Autoriza o funcionamento do curso de Letras da Faculdade de Letras Tiradentes, em Aracaju, Sergipe.

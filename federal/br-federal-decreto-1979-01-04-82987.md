@@ -1,5 +1,3 @@
-###DEC-082987-0-000-04-01-1979@@@
-
 DECRETO Nº 82.987, DE 04 DE JANEIRO DE 1979
 
 Dispõe sobre avaliação de desempenho e interstício, para efeito de Progressão Funcional e Aumento por Mérito, dos servidores que específica, e dá outras providências.

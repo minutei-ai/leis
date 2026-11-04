@@ -1,5 +1,3 @@
-###DEC-059680-0-000-07-12-1966@@@
-
 decreto Nº 59.680, de 7 de dezembro de 1966.
 
 Autoriza o cidadão brasileiro Geraldo Perpétuo da Silva a lavrar diamantes no município de Diamantina, Estado de Minas Gerais.

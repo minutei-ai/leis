@@ -26,6 +26,32 @@ Governador do Estado
 
 ~~DIAS ALUSIVOS~~
 
-<table><tbody><tr><td><center><s>DIA</s></center></td><td><center><s>NOVEMBRO</s></center></td><td><center><s>LEI ORIGINAL Nº</s></center></td></tr><tr><td><p><s>..........................</s></p></td><td><p><s>........................................................................</s></p></td><td><p><s>.................................</s></p></td></tr><tr><td><p><s>Quarta quinta-feira do mês</s></p></td><td><p><s>Dia Estadual de Ação de Graças</s></p></td><td><p class="normal_(Web)"></p></td></tr><tr><td><p><s>DIA</s></p></td><td><p><s>DEZEMBRO</s></p></td><td><p><s>LEI ORIGINAL Nº</s></p></td></tr><tr><td><p><s>..........................</s></p></td><td><p><s>........................................................................</s></p></td><td><p class="normal_(Web)"><s>.................................</s></p></td></tr></tbody></table>
+~~DIA~~
+
+~~NOVEMBRO~~
+
+~~LEI ORIGINAL Nº~~
+
+~~..........................~~
+
+~~........................................................................~~
+
+~~.................................~~
+
+~~Quarta quinta-feira do mês~~
+
+~~Dia Estadual de Ação de Graças~~
+
+~~DIA~~
+
+~~DEZEMBRO~~
+
+~~LEI ORIGINAL Nº~~
+
+~~..........................~~
+
+~~........................................................................~~
+
+~~.................................~~
 
 ~~” (NR)~~

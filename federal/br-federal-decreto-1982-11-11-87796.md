@@ -1,5 +1,3 @@
-###DEC-087796-0-000-11-11-1982@@@
-
 Decreto nº 87.796, de 11 de novembro de 1982
 
 Concede à Telecomunicações do Paraná S.A. - TELEPAR, empresa controlada da Telecomunicações Brasileiras S.A. - TELEBRÁS, autorização para emitir debêntures conversíveis em ações e para promover aumento respectivo de seu capital social.

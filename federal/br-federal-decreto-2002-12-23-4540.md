@@ -1,5 +1,3 @@
-###DEC-004540-0-000-23-12-2002@@@
-
 DECRETO N. 4.540 – DE 23 DE DEZEMBRO DE 2002
 
 Regulamenta a Gratificação de Desempenho de Atividade de Controle e Segurança de Tráfego Aéreo GDASA e dá outras providências.
@@ -136,9 +134,40 @@ ANEXO I
 
 TABELA DE VALOR DOS PONTOS DA GDASA
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:237.45pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">NÍVEL DO CARGO</span></p></td><td style="width:237.45pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">VALOR DO PONTO (EM R$)</span></p></td></tr><tr><td style="width:237.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Superior</span></p></td><td style="width:237.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">14,37</span></p></td></tr><tr><td style="width:237.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Intermediário</span></p></td><td style="width:237.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">5,85</span></p></td></tr></tbody></table>
+NÍVEL DO CARGO
 
-<br>
+VALOR DO PONTO (EM R$)
+
+Superior
+
+14,37
+
+Intermediário
+
+5,85
+
 ANEXO II
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:237.45pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">PERCENTUAL DE ALCANCE DAS METAS DE DESEMPENHO INSTITUCIONAL</span></p></td><td style="width:237.45pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">PONTUAÇÃO A SER ATRIBUÍDA AOS SERVIDORES</span></p></td></tr><tr><td style="width:237.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">A partir de 80%</span></p></td><td style="width:237.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">20 pontos</span></p></td></tr><tr><td style="width:237.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">De 65 a 79,99%</span></p></td><td style="width:237.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">18 pontos</span></p></td></tr><tr><td style="width:237.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">De 50% a 64,99%</span></p></td><td style="width:237.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">15 pontos</span></p></td></tr><tr><td style="width:237.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">De 35% a 49,99%</span></p></td><td style="width:237.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">12 pontos</span></p></td></tr><tr><td style="width:237.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Abaixo de 35%</span></p></td><td style="width:237.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">0 pontos</span></p></td></tr></tbody></table>
+PERCENTUAL DE ALCANCE DAS METAS DE DESEMPENHO INSTITUCIONAL
+
+PONTUAÇÃO A SER ATRIBUÍDA AOS SERVIDORES
+
+A partir de 80%
+
+20 pontos
+
+De 65 a 79,99%
+
+18 pontos
+
+De 50% a 64,99%
+
+15 pontos
+
+De 35% a 49,99%
+
+12 pontos
+
+Abaixo de 35%
+
+0 pontos

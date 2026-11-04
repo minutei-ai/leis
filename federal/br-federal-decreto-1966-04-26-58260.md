@@ -1,5 +1,3 @@
-###DEC-058260-0-000-26-04-1966@@@
-
 DECRETO Nº 58.260, DE 26 DE ABRIL DE 1966.
 
 Altera o Decreto nº 57.926, de 4 de março de 1966, que dispõe sôbre as Delegações do Brasil às Sessões da Assembléia Geral das Nações Unidas.

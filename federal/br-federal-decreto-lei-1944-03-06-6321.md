@@ -1,5 +1,3 @@
-###DEL-006321-0-000-06-03-1944@@@
-
 DECRETO-LEI N. 6.321 – DE 6 DE MARÇO DE 1944
 
 Cria função gratificada no Quadro Permanente do Ministério da Educação e Saúde, e dá outras providências

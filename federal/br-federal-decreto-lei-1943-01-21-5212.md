@@ -1,5 +1,3 @@
-###DEL-005212-0-000-21-01-1943@@@
-
 DECRETO‑LEI N. 5.212 – DE 21 DE JANEIRO DE 1943
 
 Cria a Comissão de Financiamento da Produção (C. F. P.) e dá outras providências

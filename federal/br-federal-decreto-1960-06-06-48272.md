@@ -1,5 +1,3 @@
-###DEC-048272-0-000-06-06-1960@@@
-
 DECRETO Nº 48.272, DE 6 DE JUNHO DE 1960.
 
 Dispõe sôbre o regime previdenciário de pessoal do Ministério da Saúde e dá outras providências.

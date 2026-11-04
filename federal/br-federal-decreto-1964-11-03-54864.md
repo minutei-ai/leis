@@ -1,5 +1,3 @@
-###DEC-054864-0-000-03-11-1964@@@
-
 DECRETO Nº 54.864, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Nelson Simplício da Silva a pesquisar diamantes, no município de Diamantina, Estado de Minas Gerais.

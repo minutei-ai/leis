@@ -1,5 +1,3 @@
-###DEL-002179-0-000-04-12-1984@@@
-
 # Decreto-lei nº 2.179, de 04 de dezembro de 1984.
 
 Dispõe sobre a percepção de vencimento pelos candidatos submetidos aos cursos de formação profissional de que trata o artigo 8º da Lei nº 4.878, de 3 de dezembro de 1965, que instituiu o regime jurídico peculiar aos funcionários policiais civis da União e do Distrito Federal, e dá outras providências.

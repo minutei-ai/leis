@@ -1,12 +1,12 @@
-**LEI COMPLEMENTAR Nº 165, DE 02 DE ABRIL DE 2004.**<br>
-<br>
-. Autor: Poder Executivo<br>
-. Publicada no DOE de 02/04/2004, p. 01.<br>
+**LEI COMPLEMENTAR Nº 165, DE 02 DE ABRIL DE 2004.**
+
+. Autor: Poder Executivo
+
+. Publicada no DOE de 02/04/2004, p. 01.
+
 . Alterou a LC [50/98](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/178e4c93dbd56778042567c1006edf6b?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%2050).
 
-**Institui o Fundo de Gratificação Natalina, no âmbito da Secretaria de Estado de Administração**\-**SAD, e** **dá outras providências.**
-
-<br>
+**Institui o Fundo de Gratificação Natalina, no âmbito da Secretaria de Estado de Administração**\-**SAD, edá outras providências.**
 
 **A ASSEMBLÉIA LEGISLATIVA DO ESTADO DE MATO GROSSO**, tendo em vista o que dispõe o art. 45 da Constituição Estadual, aprova e o Governador do Estado sanciona a seguinte lei complementar.
 
@@ -18,7 +18,7 @@ Parágrafo único. A Secretaria de Estado de Administração encaminhará à Sec
 
 **Art. 3º** A gratificação natalina será paga ao servidor público civil, militar, aposentado e pensionista até o dia 31 (trinta e um) de dezembro de cada ano.
 
-**Art.** **4º** O Fundo de Gratificação Natalina será administrado pelo Conselho Diretor, o qual será composto pelo Secretário de Estado de Administração, pelo Secretário de Estado de Fazenda, pelo Secretário de Estado de Planejamento e Coordenação Geral, pelo Secretário Extraordinário de Projetos Estratégicos, pelo Procurador-Geral do Estado e pelo Secretário Auditor-Chefe da Auditoria-Geral do Estado.
+**Art.4º** O Fundo de Gratificação Natalina será administrado pelo Conselho Diretor, o qual será composto pelo Secretário de Estado de Administração, pelo Secretário de Estado de Fazenda, pelo Secretário de Estado de Planejamento e Coordenação Geral, pelo Secretário Extraordinário de Projetos Estratégicos, pelo Procurador-Geral do Estado e pelo Secretário Auditor-Chefe da Auditoria-Geral do Estado.
 
 Parágrafo único. Os resultados das aplicações financeiras do Fundo de Gratificação Natalina serão revertidos ao Tesouro do Estado.
 
@@ -30,28 +30,50 @@ Parágrafo único. Os resultados das aplicações financeiras do Fundo de Gratif
 
 Palácio Paiaguás, em Cuiabá, 02 de abril de 2004, 183º da Independência e 116º da República.
 
-**BLAIRO BORGES MAGGI**<br>
-CÉLIO WILSON DE OLIVEIRA<br>
-JOAQUIM SUCENA RASGA<br>
-WALTER DE FATIMA PEREIRA<br>
-YÊNES JESUS DE MAGALHÃES<br>
-WALDIR JÚLIO TEIS<br>
-SÍRIO PINHEIRO DA SILVA<br>
-HOMERO ALVES PEREIRA<br>
-ALEXANDRE HERCULANA COELHO DE SOUZA FURLAN<br>
-TEREZINHA DE SOUSA MAGGI<br>
-RICARDO LUIZ HENRY<br>
-LUIZ ANTONIO PAGOTI<br>
-ANA CARLA MUNIZ<br>
-MARCOS HENRIQUE MACHADO<br>
-GERALDO LUIZ GONÇALVES FILHO<br>
-JOÃO VIRGÍLIO DO NASCIMENTO SOBRINHO<br>
-FÁBIO CÉSAR GUIMARÃES NETO<br>
-LOUREMBERG NUNES ROCHA<br>
-CLOVES FELÍCIO VETTRATO<br>
-MOACIR PIRES DE MIRANDA FILHO<br>
-JOSÉ JOAQUIM DE SOUZA FILHO<br>
-BENEDITO PAULO DE CAMPOS<br>
-FLÁVIA MARIA DE BARROS NOGUEIRA<br>
-JOÃO BATISTA DE OLIVEIRA<br>
-<br>
+**BLAIRO BORGES MAGGI**
+
+CÉLIO WILSON DE OLIVEIRA
+
+JOAQUIM SUCENA RASGA
+
+WALTER DE FATIMA PEREIRA
+
+YÊNES JESUS DE MAGALHÃES
+
+WALDIR JÚLIO TEIS
+
+SÍRIO PINHEIRO DA SILVA
+
+HOMERO ALVES PEREIRA
+
+ALEXANDRE HERCULANA COELHO DE SOUZA FURLAN
+
+TEREZINHA DE SOUSA MAGGI
+
+RICARDO LUIZ HENRY
+
+LUIZ ANTONIO PAGOTI
+
+ANA CARLA MUNIZ
+
+MARCOS HENRIQUE MACHADO
+
+GERALDO LUIZ GONÇALVES FILHO
+
+JOÃO VIRGÍLIO DO NASCIMENTO SOBRINHO
+
+FÁBIO CÉSAR GUIMARÃES NETO
+
+LOUREMBERG NUNES ROCHA
+
+CLOVES FELÍCIO VETTRATO
+
+MOACIR PIRES DE MIRANDA FILHO
+
+JOSÉ JOAQUIM DE SOUZA FILHO
+
+BENEDITO PAULO DE CAMPOS
+
+FLÁVIA MARIA DE BARROS NOGUEIRA
+
+JOÃO BATISTA DE OLIVEIRA

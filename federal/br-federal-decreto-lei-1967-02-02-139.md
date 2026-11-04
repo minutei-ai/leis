@@ -1,5 +1,3 @@
-###DEL-000139-0-000-02-02-1967@@@
-
 deCRetO-LEI Nº 139, de 2 de FEVEreiRO DE 1967
 
 Reestrutura o Conselho Nacional de Transportes.

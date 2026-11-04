@@ -1,5 +1,3 @@
-###DEC-095961-0-000-25-04-1988@@@
-
 DECRETO N° 95.961, DE 25 DE ABRIL DE 1988
 
 Outorga concessão à RÁDIO CIDADE MODÊLO LTDA.,  para explorar serviço de radiodifusão sonora em onda média, na cidade de Bocaina, Estado do Piauí.

@@ -1,5 +1,3 @@
-###DEC-088822-0-000-10-10-1983@@@
-
 Decreto nº 88.822, de 10 de outubro de 1983.
 
 Aprova o Regulamento da Comissão Marítima Nacional

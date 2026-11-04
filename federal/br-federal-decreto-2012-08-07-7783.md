@@ -1,5 +1,3 @@
-###DEC-007783-0-000-07-08-2012-PUB-01@@@
-
 DECRETO Nº 7.783, DE 7 DE AGOSTO DE 2012
 
 Regulamenta a Lei nº 12.663, de 5 de junho de 2012, que dispõe sobre as medidas relativas à Copa das Confederações FIFA 2013, à Copa do Mundo FIFA 2014 e à Jornada Mundial da Juventude - 2013.

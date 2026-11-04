@@ -6,14 +6,16 @@ LEI MUNICIPAL Nº. 1.787, DE 01 DE JULHO DE 1998.
 
 ~~FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL SANCIONO A SEGUINTE LEI: CÓDIGO DE EDIFICAÇÕES TITULO I DISPOSIÇÕES GERAIS~~
 
-~~CAPÍTULO I<br>
+~~CAPÍTULO I
+
 DAS DISPOSIÇÕES GERAIS~~
 
 ~~Art. 1º Este Código de Edificações disciplina. Toda construção, reconstrução, modificação, demolição e fiscalização realizada na área urbana do município de Aparecida de Goiânia, por qualquer proprietário.~~
 
 ~~Art. 2º Qualquer construção, reconstrução, Modificação reforma ou demolição só poderá ser iniciada, dentro da área urbana, após aprovação na Prefeitura.~~
 
-~~Parágrafo único – Será exigido das empresas publicas, autarquias, concessionárias e/ou suas contratadas, projetos de viabilidade técnica que evidencie qualquer ocupação ou modificação do espaço no Município.~~<br>
+~~Parágrafo único – Será exigido das empresas publicas, autarquias, concessionárias e/ou suas contratadas, projetos de viabilidade técnica que evidencie qualquer ocupação ou modificação do espaço no Município.~~
+
 ~~(Redação acrescentada pela Lei Ordinária nº 1.951, de 16 de agosto de 1999).~~
 
 ~~Art. 3º Para efeitos deste Código ficam dispensados a apresentação de projeto com responsabilidade técnica ficando porem sujeitos a concessão de licença para construção, edificações destinadas a habitação e a pequena reforma com as seguintes características:~~
@@ -32,7 +34,8 @@ DAS DISPOSIÇÕES GERAIS~~
 
 ~~Art. 5º Os projetos deverão estar de acordo com esta lei e Legislação Municipal vigente sobre zoneamento e parcelamento do solo.~~
 
-~~CAPÍTULO II<br>
+~~CAPÍTULO II
+
 DA APRESENTAÇÃO E APROVAÇÃO DE PROJETOS~~
 
 ~~Art. 6º Toda construção terá um responsável técnico e obedecerá a um projeto elaborado por profissional legalmente habilitado. Exceto as citadas no Art. 3 deste Capítulo.~~
@@ -101,7 +104,8 @@ DA APRESENTAÇÃO E APROVAÇÃO DE PROJETOS~~
 
 ~~§4º A aprovação do projeto não implica no reconhecimento, por parte da Prefeitura, do direito do propriedade do terreno.~~
 
-~~CAPÍTULO III<br>
+~~CAPÍTULO III
+
 DO ALVARÁ DE CONSTRUÇÃO~~
 
 ~~Art. 10 Nenhuma construção, reconstrução, acréscimo ou demolição, será feita sem a prévia licença da Prefeitura.~~
@@ -118,7 +122,8 @@ DO ALVARÁ DE CONSTRUÇÃO~~
 
 ~~Parágrafo 1º. A aprovação simplificada só poderá ser solicitada para os imóveis em que não haja nenhum tipo de construção, exceto muros de vedação nas divisas no terreno.~~
 
-~~Parágrafo 2º. O procedimento simplificado especificado no caput deverá ser regulamentando por meio de Decreto expedido pelo Chefe do Poder Executivo.~~<br>
+~~Parágrafo 2º. O procedimento simplificado especificado no caput deverá ser regulamentando por meio de Decreto expedido pelo Chefe do Poder Executivo.~~
+
 ~~(Artigo acrescentado pela Lei Complementar nº 106, de 13 de outubro de 2015).~~
 
 ~~Art. 11-B Os projetos que se enquadrem nas classificações de Edificações Comerciais, Edificações para Prestação de Serviço e Edificações para Atendimento Coletivo só podem ser aprovados de forma simplificada desde que, cumulativamente:~~
@@ -133,12 +138,14 @@ DO ALVARÁ DE CONSTRUÇÃO~~
 
 ~~V – estejam dispensados de aprovação por parte da Secretaria Municipal de Meio Ambiente;~~
 
-~~VI – estejam dispensados de aprovação por parte do Departamento Nacional de Infraestrutura de Transportes.~~<br>
+~~VI – estejam dispensados de aprovação por parte do Departamento Nacional de Infraestrutura de Transportes.~~
+
 ~~(Artigo acrescentado pela Lei Complementar nº 106, de 13 de outubro de 2015).~~
 
 ~~Art. 12 Quando expirado o prazo do alvará e a obra não estiver concluída, deverá ser providenciada a solicitação de uma nova licença que poderá ser concedida em prazo de 1 ano sempre após vistoria da obra pelo órgão municipal competente, caso a obra recomece com alterações.~~
 
-~~CAPÍTULO IV<br>
+~~CAPÍTULO IV
+
 DA CONCLUSÃO E ENTREGA DO HABITE-SE~~
 
 ~~Art. 13 Uma obra é considerada concluída quando tiver condições de habitalidade, estando em funcionamento as instalações hidro - sanitárias elétricas.~~
@@ -171,19 +178,22 @@ DA CONCLUSÃO E ENTREGA DO HABITE-SE~~
 
 ~~IV – O habite-se parcial somente poderá ser concedido caso não haja perigo para o público e para os habitantes.~~
 
-~~CAPÍTULO V<br>
+~~CAPÍTULO V
+
 DEMOLIÇÕES~~
 
 ~~Art. 16 No caso de demolição total ou parcial, de qualquer obra, o interessado deverá obter prévia autorização da Prefeitura, solicitada por requerimento acompanhado pela planta de locação e pelo projeto, se for o caso.~~
 
 ~~Parágrafo Único - Se a edificação a demolir tiver mais de 2 (dois) pavimentos ou mais de 7,00 (sete metros) de altura, será exigida responsabilidade técnica de profissional legalmente habilitado.~~
 
-~~TITULO II<br>
+~~TITULO II
+
 DAS NORMAS GERAIS RELATIVAS AS EDIFICAÇÕES~~
 
 ~~Art. 17 As normas constantes deste Título são aplicáveis a toda e qualquer edificação.~~
 
-~~CAPÍTULO I<br>
+~~CAPÍTULO I
+
 MATERIAIS DE CONSTRUÇÃO E PROCESSOS CONSTRUTIVOS~~
 
 ~~Art. 18 As fundações, estruturas, lajes, coberturas, paredes e acabamentos, serão projetados, calculados e executados, de acordo com as respectivas normas e técnicas oficiais.~~
@@ -206,7 +216,8 @@ MATERIAIS DE CONSTRUÇÃO E PROCESSOS CONSTRUTIVOS~~
 
 ~~Art. 25 Nas edificações implantadas no alinhamento dos logradouros, as águas pluviais provenientes dos telhados, marquises e outros locais voltados para o logradouro, deverão ser captadas em calhas e condutores para despejo na sarjeta do logradouro, passando sob os passeios.~~
 
-~~CAPÍTULO II<br>
+~~CAPÍTULO II
+
 DOS MUROS, CALÇADAS E PASSEIOS~~
 
 ~~Art. 26 A Prefeitura Municipal poderá exigir dos proprietários, a construção de muros de arrimo e de proteção sempre que o nível do terreno for superior ao logradouro público, ou que possa ameaçar a segurança pública.~~
@@ -215,7 +226,8 @@ DOS MUROS, CALÇADAS E PASSEIOS~~
 
 ~~Art. 28 Os proprietários dos imóveis que tenham frente para logradouro público pavimentado ou dotado de meio fio, são obrigados a pavimentar e manter em bom estado os passeios em frente de seus lotes.~~
 
-~~CAPÍTULO III<br>
+~~CAPÍTULO III
+
 DOS ALINHAMENTO E DOS AFASTAMENTOS~~
 
 ~~Art. 29 Todos os prédios construídos ou reconstruídos dentro da área urbana deverão obedecer ao alinhamento e ao recuo obrigatório.~~
@@ -228,7 +240,8 @@ DOS ALINHAMENTO E DOS AFASTAMENTOS~~
 
 ~~b) Afastamentos laterais 1,50 m (um metro e meio) quando existir abertura lateral para iluminação e ventilação.~~
 
-~~CAPÍTULO IV<br>
+~~CAPÍTULO IV
+
 MARQUISES E BALANCOS~~
 
 ~~Art. 31 As marquises nas fachadas de edifícios construídos no alinhamento de logradouro deverão obedecer às seguintes exigências:~~
@@ -281,10 +294,12 @@ MARQUISES E BALANCOS~~
 
 ~~Art. 36 Em lotes de esquina, situados em zona onde não houver obrigatoriedade de recuo frontal, e o chanfro não ultrapassar a dimensão de 7,50 m (sete metros e cinqüenta centímetros), será permitido balanço aberto ou fechado sobre o mesmo, desde que atinja no máximo o prolongamento dos limites frontais do lote.~~
 
-~~CAPITULO V<br>
+~~CAPITULO V
+
 DAS INSTALAÇÕES HIDRÁULICAS E SANITÁRIAS~~
 
-~~SEÇÃO I<br>
+~~SEÇÃO I
+
 ESGOSTOS SANITÁRIOS~~
 
 ~~Art. 37 É obrigatório a ligação da rede domiciliar às redes de água e esgoto, quando tais redes existirem na via pública onde se situar a edificação.~~
@@ -297,7 +312,8 @@ ESGOSTOS SANITÁRIOS~~
 
 ~~§3º As fossas com sumidouro deverão ficar a uma distância mínima de 15,00 m (quinze metros), de raio de poços de captação de água, situados no mesmo terreno ou em terrenos vizinhos.~~
 
-~~SEÇÃO II<br>
+~~SEÇÃO II
+
 BANHEIROS E SANITÁRIOS~~
 
 ~~Art. 39 Os banheiros e sanitários serão definidos de acordo com as peças que possui:~~
@@ -330,10 +346,12 @@ BANHEIROS E SANITÁRIOS~~
 
 ~~§2º O pé-direito mínimo do compartimento a que se refere o presente artigo será de 2,25 m (dois metros e vinte cinco centímetros).~~
 
-~~CAPÍTULO VI<br>
+~~CAPÍTULO VI
+
 DA ILUMINAÇÃO E VENTILAÇÃO~~
 
-~~SEÇÃO I<br>
+~~SEÇÃO I
+
 DISPOSIÇÕES GERAIS~~
 
 ~~Art. 41 Para efeito de iluminação e ventilação, todo compartimento, seja qual for o seu destino, deverá dispor de aberturas comunicando diretamente com os logradouros ou com espaços livres dentro do lote.~~
@@ -350,7 +368,8 @@ DISPOSIÇÕES GERAIS~~
 
 ~~Art. 45 As aberturas de compartimentos de permanência prolongada, quando confrontantes, em economias distintas, não poderão ter, entre elas, distância inferior a 3,00 m (três metros) embora sejam da mesma edificação.~~
 
-~~SEÇÃO II<br>
+~~SEÇÃO II
+
 CLASSIFICAÇÃO DOS COMPARTIMENTOS~~
 
 ~~Art. 46 São considerados compartimentos de permanência prolongada, os compartimentos destinados à atividades de dormir ou repousar; estar ou lazer, consumo de alimentos, trabalhar, ensinar ou estudar, tratamento ou recuperação, reunir ou recrear.~~
@@ -427,7 +446,8 @@ CLASSIFICAÇÃO DOS COMPARTIMENTOS~~
 
 ~~b) As câmaras frigoríficas, cofres-fortes caixas d’água e similares.~~
 
-~~SEÇÃO III<br>
+~~SEÇÃO III
+
 DIMENSÕES DAS ABERTURAS~~
 
 ~~Art. 50 Nos compartimentos de permanência prolongada e transitória os vãos destinados a iluminação e ventilação deverão ter área mínima de 1/6 (com SEXTO) e 1/8 (um Oitavo) da área do piso respectivamente.~~
@@ -448,7 +468,8 @@ DIMENSÕES DAS ABERTURAS~~
 
 ~~Art. 53 Os compartimentos especiais que, em face das suas características e condições vinculadas a destinação, não devem ter aberturas diretas para o exterior, ficam dispensados da exigência do artigo 56. Esses compartimentos deverão porém, apresentar, conforme a função ou atividade neles exercidas, condições adequadas segundo as normas técnicas oficiais de iluminação e ventilação por meios especiais, bem como se for o caso controle satisfatório de temperatura e de grau de umidade do ar.~~
 
-~~SEÇÃO IV<br>
+~~SEÇÃO IV
+
 ILUMINAÇÃO E VENTILAÇÃO INDIRETA OU ARTIFICIAL~~
 
 ~~Art. 54 As aberturas para o exterior poderão ser dispensadas, nos casos expressamente previstos no presente artigo, desde que fiquem, asseguradas, para os compartimentos, a iluminação por eletricidade e a perfeita renovação de ar, por meio de poços de ventilação e forro falso.~~
@@ -485,12 +506,81 @@ ILUMINAÇÃO E VENTILAÇÃO INDIRETA OU ARTIFICIAL~~
 
 ~~Parágrafo Único - Nos demais compartimentos, será tolerada iluminação e ventilação zenital quando esta concorrer no máximo com até 50% (cinqüenta por cento) da iluminação e ventilação requeridas, sendo a restante proveniente de abertura direta para o exterior, no plano vertical.~~
 
-~~CAPÍTULO VII<br>
+~~CAPÍTULO VII
+
 DAS EDIFICAÇÕES RESIDENCIAIS~~
 
 ~~Art. 58 Os compartimentos das edificações para fins residenciais conforme sua utilização, obedecerão às seguintes condições quanto as dimensões mínimas:~~ 
 
-<table><tbody><tr><td style=" width:104px;  height:18px;   "><s><b>COMPART.</b></s></td><td style=" width:115px;  height:18px;   "><s><b>ÁREA MIN</b></s></td><td style=" width:95px;  height:18px;   "><s><b>LARG MIN</b></s></td><td style=" width:98px;  height:18px;   "><s><b>PÉ-DIR MIN</b></s></td><td style=" width:138px;  height:18px;   "><s><b>VÃO DE ACESSO</b></s></td></tr><tr><td style=" width:104px;  height:18px;   "><s><b>Sala</b></s></td><td style=" width:115px;  height:18px;   "><s><b>10,00 m2</b></s></td><td style=" width:95px;  height:18px;   "><s><b>2,50 m</b></s></td><td style=" width:98px;  height:18px;   "><s><b>2,50</b></s></td><td style=" width:138px;  height:18px;   "><s><b>0,80</b></s></td></tr><tr><td style=" width:104px;  height:18px;   "><s><b>Quarto</b></s></td><td style=" width:115px;  height:18px;   "><s><b>9,00 m2</b></s></td><td style=" width:95px;  height:18px;   "><s><b>2,50 m</b></s></td><td style=" width:98px;  height:18px;   "><s><b>2,50</b></s></td><td style=" width:138px;  height:18px;   "><s><b>0,80</b></s></td></tr><tr><td style=" width:104px;  height:18px;   "><s><b>Cozinha:</b></s></td><td style=" width:115px;  height:18px;   "><s><b>5,00 m2</b></s></td><td style=" width:95px;  height:18px;   "><s><b>1,80 m</b></s></td><td style=" width:98px;  height:18px;   "><s><b>2,50</b></s></td><td style=" width:138px;  height:18px;   "><s><b>0,70</b></s></td></tr><tr><td style=" width:104px;  height:18px;   "><s><b>Copa</b></s></td><td style=" width:115px;  height:18px;   "><s><b>5,00 m2</b></s></td><td style=" width:95px;  height:18px;   "><s><b>2,50 m</b></s></td><td style=" width:98px;  height:18px;   "><s><b>2,50</b></s></td><td style=" width:138px;  height:18px;   "><s><b>0,70</b></s></td></tr><tr><td style=" width:104px;  height:18px;   "><s><b>Banheiro</b></s></td><td style=" width:115px;  height:18px;   "><s><b>2,00 m2</b></s></td><td style=" width:95px;  height:18px;   "><s><b>1,00 m</b></s></td><td style=" width:98px;  height:18px;   "><s><b>2,25</b></s></td><td style=" width:138px;  height:18px;   "><s><b>0,60</b></s></td></tr><tr><td style=" width:104px;  height:18px;   "><s><b>Área Serviço</b></s></td><td style=" width:115px;  height:18px;   "><s><b>1,80 m2</b></s></td><td style=" width:95px;  height:18px;   "><s><b>1,00 m</b></s></td><td style=" width:98px;  height:18px;   "><s><b>2,25</b></s></td><td style=" width:138px;  height:18px;   "><s><b>0,60</b></s></td></tr></tbody></table>
+~~**COMPART.**~~
+
+~~**ÁREA MIN**~~
+
+~~**LARG MIN**~~
+
+~~**PÉ-DIR MIN**~~
+
+~~**VÃO DE ACESSO**~~
+
+~~**Sala**~~
+
+~~**10,00 m2**~~
+
+~~**2,50 m**~~
+
+~~**2,50**~~
+
+~~**0,80**~~
+
+~~**Quarto**~~
+
+~~**9,00 m2**~~
+
+~~**2,50 m**~~
+
+~~**2,50**~~
+
+~~**0,80**~~
+
+~~**Cozinha:**~~
+
+~~**5,00 m2**~~
+
+~~**1,80 m**~~
+
+~~**2,50**~~
+
+~~**0,70**~~
+
+~~**Copa**~~
+
+~~**5,00 m2**~~
+
+~~**2,50 m**~~
+
+~~**2,50**~~
+
+~~**0,70**~~
+
+~~**Banheiro**~~
+
+~~**2,00 m2**~~
+
+~~**1,00 m**~~
+
+~~**2,25**~~
+
+~~**0,60**~~
+
+~~**Área Serviço**~~
+
+~~**1,80 m2**~~
+
+~~**1,00 m**~~
+
+~~**2,25**~~
+
+~~**0,60**~~
 
 ~~Parágrafo Único - Quando se tratarem de contos habitacionais ou projetos populares, cujas residências possuírem dois (02) ou mais quartos, um dos quartos poderá ficar com área mínima de 7,50 M2.~~
 
@@ -502,7 +592,8 @@ DAS EDIFICAÇÕES RESIDENCIAIS~~
 
 ~~Art. 61  Os dormitórios de empregados domésticos terão área mínima de 5,00 m2 (cinco metros quadrados), e forma tal que permita a inscrição no plano do piso, de um circulo de diâmetro mínimo de 2,00 m (dois metros).~~
 
-~~CAPÍTULO VIII<br>
+~~CAPÍTULO VIII
+
 CIRCULAÇÃO HORIZONTAL - CORREDORES~~
 
 ~~Art. 62  Os corredores dos edifícios terão dimensões mínimas de:~~
@@ -513,15 +604,18 @@ CIRCULAÇÃO HORIZONTAL - CORREDORES~~
 
 ~~III    - De circulação coletiva acima de 50,00 (cinqüenta metros) de comprimento - largura de 4% (quatro por cento) do comprimento, com um mínimo de 3,00 m (três metros);~~
 
-~~IV    - Pé direito mínimo de 2,25 m (dois metros e vinte e cinco<br>
+~~IV    - Pé direito mínimo de 2,25 m (dois metros e vinte e cinco
+
 centímetros).~~
 
 ~~Art. 63  Todo corredor que tiver mais de 10,00 m2 (dez metros quadrados) de área, deverá ter iluminação natural e ventilação permanente adequada para cada 10,00 m2 (dez metros quadrados) de área, no mínimo.~~
 
-~~CAPÍTULO IX<br>
+~~CAPÍTULO IX
+
 CIRCULAÇÃO VERTICAL~~
 
-~~SEÇÃO I<br>
+~~SEÇÃO I
+
 ESCADAS E RAMPAS~~
 
 ~~Art. 64  As escadas, com exceção dos templos religiosos, terão as seguintes larguras mínimas:~~
@@ -556,7 +650,8 @@ ESCADAS E RAMPAS~~
 
 ~~Art. 67  Nas escadas em caracol, as dimensões dos degraus estabelecidas no parágrafo 1 do artigo 66, serão medidas a 0,50 cm (cinqüenta centímetros) da borda interna.~~
 
-~~Parágrafo Único - As larguras mínimas das escadas serão de 0,60 m (sessenta centímetros) quando de uso privativo e de 1,50 m (hum metro e cinqüenta centímetros) para uso público.~~<br>
+~~Parágrafo Único - As larguras mínimas das escadas serão de 0,60 m (sessenta centímetros) quando de uso privativo e de 1,50 m (hum metro e cinqüenta centímetros) para uso público.~~
+
  
 
 ~~Art. 68  As  escadas de edificações deverão dispor de passagem com altura livre de 2,00 m (dois metros) do acesso à escada.~~
@@ -571,12 +666,14 @@ ESCADAS E RAMPAS~~
 
 ~~III    - A  inclinação máxima será de 15% (quinze por cento);~~
 
-~~IV    - A largura mínima deverá ser de  1,20 m (hum metro e vinte<br>
+~~IV    - A largura mínima deverá ser de  1,20 m (hum metro e vinte
+
 centímetros);~~
 
 ~~V    - A altura mínima livre deverá ser  de 2,00 m (dois metros).~~
 
-~~SEÇÃO II<br>
+~~SEÇÃO II
+
 ELEVADORES~~
 
 ~~Art. 71  A obrigatoriedade de assentamento de elevadores é regulamentada de acordo com os diversos parágrafos deste artigo, entendendo-se que o pavimento aberto em pilotis, a sobreloja e o pavimento de garagem são considerados, para efeito deste artigo, como paradas do elevador ou pavimentos.~~
@@ -595,7 +692,8 @@ ELEVADORES~~
 
 ~~Art. 72  Em qualquer dos casos de obrigatoriedade de assentamento de elevador, deverá ser satisfeito o cálculo de tráfego e intervalo na forma prevista em norma adequada da ABNT.~~
 
-~~CAPÍTULO X<br>
+~~CAPÍTULO X
+
 DAS GARAGENS E DOS ESTACIONAMENTOS E VEÍCULOS~~
 
 ~~Art. 73  As vagas para estacionamento serão adequadas aos diferentes tipos de veículos. Em qualquer caso, excluídos os espaços de acesso, circulação e manobra, as vagas não terão área inferior a 12,50 m2 (doze vírgula cinqüenta metros quadrados), com largura mínima de 2,50 m (dois metros e cinqüenta centímetros), sendo obrigatório o mínimo de uma vaga por unidade comercial e residencial.~~
@@ -610,7 +708,8 @@ DAS GARAGENS E DOS ESTACIONAMENTOS E VEÍCULOS~~
 
 ~~a)   Terão abertura que assegurem ventilação permanente;~~
 
-~~b)   Terão teto de    material    incombustível quando tiver,<br>
+~~b)   Terão teto de    material    incombustível quando tiver,
+
 pavimento superior.~~
 
 ~~Art. 76  Nas garagens coletivas, privativas ou comerciais, atenderão ao seguinte:~~
@@ -627,33 +726,40 @@ pavimento superior.~~
 
 ~~VI    - Nos projetos deverão constar, obrigatoriamente, as indicações gráficas referentes à localização de cada vaga e dos esquemas de circulação desses veículos, não sendo permitido considerar, para efeito de cálculo das áreas necessárias os locais de estacionamento, as rampas, as passagens, os acessos e a circulação.~~
 
-~~TÍTULO III<br>
+~~TÍTULO III
+
 NORMAS ESPECÍFICAS~~
 
-<br>
-~~CAPÍTULO I<br>
+~~CAPÍTULO I
+
 APLICAÇÃO~~
 
-~~Art. 77  As normas  específicas são complementares às normas genéticas das edificações, devendo os projetos obedecer a ambas as categorias, prevalecendo a especificidade apenas nos casos dos artigos seguintes.<br>
- <br>
-CAPÍTULO II<br>
+~~Art. 77  As normas  específicas são complementares às normas genéticas das edificações, devendo os projetos obedecer a ambas as categorias, prevalecendo a especificidade apenas nos casos dos artigos seguintes.
+
+ 
+
+CAPÍTULO II
+
 LOCAIS DE MORADIA~~
 
-<br>
-~~SEÇÃO I<br>
+~~SEÇÃO I
+
 GENERALIDADE~~
 
 ~~Art. 78  São considerados locais de moradias, as residências isoladas, as residências geminadas, as residências em séries, os conjuntos residenciais, os edifícios de apartamentos, os hotéis, os motéis, as pensões e similares.~~
 
-~~SEÇÃO III<br>
+~~SEÇÃO III
+
 RESIDÊNCIAS ISOLADA~~
 
 ~~Art. 79  Consideram-se residências isoladas as habitações unifamiliares com 1 (um) ou 2 (dois) pavimentos, ou em função da topografia, no máximo 3 (três) pavimentos.~~
 
-~~Art. 80     A cada residência isolada deverá corresponder 1 (um)<br>
+~~Art. 80     A cada residência isolada deverá corresponder 1 (um)
+
 lote.~~
 
-~~SEÇÃO III<br>
+~~SEÇÃO III
+
 RESIDÊNCIAS GEMINADAS~~
 
 ~~Art. 81 Consideram-se residências geminadas    2 (duas) unidades de moradia contínuas, que possuam uma parede comum.~~
@@ -676,7 +782,8 @@ RESIDÊNCIAS GEMINADAS~~
 
 ~~II    -    Atender às    condições de    ocupação estabelecidas pela Lei de Zoneamento.~~
 
-~~SEÇÃO IV<br>
+~~SEÇÃO IV
+
 RESIDÊNCIAS EM SÉRIE TRANSVERSAIS AO ALINHAMENTO PREDIAL~~
 
 ~~Art. 84  Consideram-se residências em série transversais ao alinhamento predial, o agrupamento de 3,00 (três) ou mais moradia cuja disposição exija a abertura de corredor de acesso, não podendo ser superior a 10 (dez) o número de unidades de moradia no mesmo alinhamento.~~
@@ -701,7 +808,8 @@ RESIDÊNCIAS EM SÉRIE TRANSVERSAIS AO ALINHAMENTO PREDIAL~~
 
 ~~VI    -   O terreno  deverá permanecer de propriedade de uma só pessoa ou de um condomínio, mantendo-se as exigências fixadas pela Lei de Zoneamento.~~
 
-~~SEÇÃO V<br>
+~~SEÇÃO V
+
 RESIDÊNCIAS EM SÉRIE, PARALELAS AO ALINHAMENTO PREDIAL~~
 
 ~~Art. 86  Consideram-se em série, paralelas ao alinhamento predial aquela que, situando-se ao longo do logradouro público oficial, dispensam a abertura de corredor de acesso às unidades de moradia, não podendo ser em número superior a 20 (vinte) ou inferior a 3 (três).~~
@@ -720,7 +828,8 @@ RESIDÊNCIAS EM SÉRIE, PARALELAS AO ALINHAMENTO PREDIAL~~
 
 ~~IV    - Cada uma das unidades deverá obedecer às demais normas estabelecidas por este código.~~
 
-~~SEÇÃO VI<br>
+~~SEÇÃO VI
+
 CONJUNTOS RESIDENCIAIS~~
 
 ~~Art. 88  Consideram-se conjuntos residenciais aqueles que tenham 50 (cinqüenta) ou mais unidades de moradia, respeitadas as seguintes condições:~~
@@ -733,7 +842,8 @@ CONJUNTOS RESIDENCIAIS~~
 
 ~~IV    -    Os acessos às moradias deverão ser pavimentado;~~
 
-~~V    -    Cada moradia terá área livre igual à área de projeção da<br>
+~~V    -    Cada moradia terá área livre igual à área de projeção da
+
 moradia;~~
 
 ~~VI    -    Para cada 20 (vinte) unidades de moradia ou fração haverá "play ground" comum, com área equivalente a 1/5 (um quinto) da soma das áreas de projeção das moradias;~~
@@ -744,15 +854,18 @@ moradia;~~
 
 ~~IX    -    Serão previstas rede de iluminação e rede de água e esgoto;~~
 
-~~X    - Os conjuntos poderão ser constituídos de prédios de apartamentos e ou de moradias isoladas;~~<br>
+~~X    - Os conjuntos poderão ser constituídos de prédios de apartamentos e ou de moradias isoladas;~~
+
  
 
 ~~XI    - O terreno, no todo ou em partes, poderá ser desmembrado em várias propriedades, de uma só pessoa ou condomínio, desde que cada parcela desmembrada atenda às determinações fixadas pela Lei de Zoneamento;~~
 
-~~XII    - As edificações deverão obedecer às demais exigências deste<br>
+~~XII    - As edificações deverão obedecer às demais exigências deste
+
 código.~~
 
-~~SEÇÃO VII<br>
+~~SEÇÃO VII
+
 EDIFÍCIOS RESIDENCIAIS~~
 
 ~~Art. 89  Os edifícios de 3 (três) ou mais pavimentos, e/ou 8 (oito) ou mais apartamentos possuirão, no hall de entrada, local destinado à portaria, dotado de caixa receptora de correspondência.~~
@@ -769,7 +882,8 @@ EDIFÍCIOS RESIDENCIAIS~~
 
 ~~I    - Para edifícios com apartamentos de área até 60,00 m2 (sessenta metros quadrados), uma vaga para cada 2 (dois) apartamentos;~~
 
-~~II    - Para edifícios com apartamentos de área entre 60,00 (sessenta metros quadrados) e 180,00 m2 (cento e oitenta metros quadrados) uma vaga para cada apartamento;~~<br>
+~~II    - Para edifícios com apartamentos de área entre 60,00 (sessenta metros quadrados) e 180,00 m2 (cento e oitenta metros quadrados) uma vaga para cada apartamento;~~
+
  
 
 ~~III    - Para edifícios com apartamentos de área entre 180,00 m2 (cento e oitenta metros quadrados) e 250,00 m2 (duzentos e cinqüenta metros quadrados), 1 1/2 (uma e meia) vaga para cada apartamento;~~
@@ -780,7 +894,8 @@ EDIFÍCIOS RESIDENCIAIS~~
 
 ~~I    - Ter área correspondente a 3% (três por cento) de área total de construção, observada a área mínima de 22,50 m2 (vinte e dois vírgula cinqüenta metros quadrados);~~
 
-~~II    - Conter no plano do piso, um círculo de diâmetro mínimo de<br>
+~~II    - Conter no plano do piso, um círculo de diâmetro mínimo de
+
 3,00 m (três metros);~~
 
 ~~III    - Situar-se  junto  a espaços livres externos ou internos;~~
@@ -791,7 +906,8 @@ EDIFÍCIOS RESIDENCIAIS~~
 
 ~~VI    - Ser dotado, se estiver em piso acima do solo, de fecho de altura mínima de 1,80 m (uma metro e oitenta centímetros), para proteção contra queda.~~
 
-~~SEÇÃO VIII<br>
+~~SEÇÃO VIII
+
 HOTÉIS, PENSIONATOS E SIMILARES~~
 
 ~~Art. 92 Os  edifícios de  hotéis, pensionatos, casas de pensão, motéis e similares são os que se destinam á hospedagem de permanência temporária, com existência de  serviços comuns.~~
@@ -818,14 +934,16 @@ HOTÉIS, PENSIONATOS E SIMILARES~~
 
 ~~I    - Sanitário  conforme  dispositivo do anexo V;~~
 
-~~II    - Depósito ou armários para material de limpeza, de consertos e<br>
+~~II    - Depósito ou armários para material de limpeza, de consertos e
+
 outros fins;~~
 
 ~~III    - Vestiário com área mínima de 4,00 m2 (quatro metros quadrados) e forma tal que permita, no plano do piso, a inscrição de um círculo com diâmetro mínimo de 1,50 m (um metro e cinqüenta centímetros).~~
 
 ~~Parágrafo Único - Nos edifícios com área inferior a 750,00 m2 (setecentos e cinqüenta metros quadrados) será obrigatório apenas o compartimento mencionado no item I deste artigo.~~
 
-~~SUBSEÇÃO 1A<br>
+~~SUBSEÇÃO 1A
+
 HOTÉIS~~
 
 ~~Art. 96  Todos os hotéis com área total de construção superior a 750,00 m2 (setecentos e cinqüenta metros quadrados) deverão satisfazer ainda aos seguintes requisitos:~~
@@ -850,8 +968,10 @@ HOTÉIS~~
 
 ~~b)     Ter área mínima fixada na alínea anterior acrescida de 1,00 m2 (um metro quadrado) para cada 10,00 m2 (dez metros quadrados) ou fração, da área total de compartimentos para hospedagem, que exceda a 250,00 m2 (duzentos e cinqüenta metros quadrados).~~
 
-~~II    - Os compartimentos para copa, despensa e lavanderia terão cada um a área mínima de 6,00 m  (seis  metros quadrados),  a  que  será  também<br>
- <br>
+~~II    - Os compartimentos para copa, despensa e lavanderia terão cada um a área mínima de 6,00 m  (seis  metros quadrados),  a  que  será  também
+
+ 
+
 acrescida de 1,00 m2 (um metro quadrado) para cada 50,00 m (cinqüenta metros quadrados) ou a fração da área total de compartimentos para hospedagem que exceder a 250,00 m2 (duzentos e cinqüenta metros quadrados);~~
 
 ~~III    - O vestiário de empregados terá área mínima de 4,00 m2 (quatro metros quadrados) a qual será acrescida de 1,00 (um metro quadrado), para cada 100,00 m2 (cem metros quadrados)  ou fração da área total de compartimentos para hospedagem que exceder a 250,00 m2 (duzentos e cinqüenta metros quadrados);~~
@@ -860,7 +980,8 @@ acrescida de 1,00 m2 (um metro quadrado) para cada 50,00 m (cinqüenta metros qu
 
 ~~Art. 98  Deverá ser prevista área para estacionamento de veículos, correspondente a 1/2 (meia) vaga para cada apartamento ou quarto.~~
 
-~~Subseção 2a<br>
+~~Subseção 2a
+
 Pensionatos~~
 
 ~~Art. 99  Os pensionatos, casas de estudantes e outras modalidades de hospedagem semipermanente deverão obedecer ainda aos seguintes requisitos:~~
@@ -875,7 +996,8 @@ Pensionatos~~
 
 ~~III    - os apartamentos de hóspede observarão as mesmas áreas mínimas estabelecidas no item anterior e terão em anexo pelo menos um banheiro - CHWC, com área mínima de 2,00 m2 (dois metros quadrados).~~
 
-~~IV    - Os dormitórios coletivos ou alojamentos terão área correspondente a 4,00 m2 (quatro metros quadrados) por leito.~~<br>
+~~IV    - Os dormitórios coletivos ou alojamentos terão área correspondente a 4,00 m2 (quatro metros quadrados) por leito.~~
+
  
 
 ~~Art. 100  Além de compartimentos expressamente exigidos nos artigos anteriores desta seção. Os pensionatos terão pelo menos, salas de estar ou visitas e compartimentos destinados a refeições, despensa, lavanderia e escritório do encarregado do estabelecimento, de acordo com as seguintes condições:~~
@@ -888,7 +1010,8 @@ Pensionatos~~
 
 ~~II        - os compartimentos para copa, despensa e lavanderia terão, cada um, a área mínima de 4,00 m2 (quatro metros quadrados) a qual será também acrescida de 1,00 m2 (um metro quadrado) para cada 70,00 m2 (setenta metros quadrados) ou    fração, da    área    total    de compartimentos para hospedagem que    exceder    de 150,00 m2 (cento e cinqüenta metros quadrados);~~
 
-~~Subseção 3a<br>
+~~Subseção 3a
+
 Casas de Pensão~~
 
 ~~Art. 101  As casas de pensão e outras modalidades de hospedaria de permanência mais prolongada do que os hotéis, deverão obedecer ainda aos seguintes requisitos:~~
@@ -897,7 +1020,8 @@ Casas de Pensão~~
 
 ~~II    - os quartos de hóspedes terão:~~
 
-~~a)    área mínima de 5,00 m2 (cinco metros quadrados) e forma tal que permita, no plano do piso, a inscrição de um círculo com diâmetro mínimo de 2,00 m (dois metros) quando destinado a uma pessoa;~~<br>
+~~a)    área mínima de 5,00 m2 (cinco metros quadrados) e forma tal que permita, no plano do piso, a inscrição de um círculo com diâmetro mínimo de 2,00 m (dois metros) quando destinado a uma pessoa;~~
+
  
 
 ~~b)    área mínima de 8,00 m2 (oito metros quadrados) e forma tal que permita, no plano do piso, a inscrição de um círculo com diâmetro mínimo de 2,50 (dois metros e cinqüenta centímetros quando destinado a 2 (duas) pessoas.~~
@@ -914,7 +1038,8 @@ Casas de Pensão~~
 
 ~~Art. 104  Se a edificação apresentar área total de construção superior a 750,00 m2 (setecentos e cinqüenta metros quadrados) deverá satisfazer às condições fixadas para os hotéis (subseção1a).~~
 
-~~SUBSEÇÃO 4A<br>
+~~SUBSEÇÃO 4A
+
 MOTÉIS~~
 
 ~~Art. 105  Os motéis se caracterizam pelo estacionamento de veículos próximos às respectivas unidades distintas e autônomas destinadas a hospedagem, devendo satisfazer às seguintes exigências:~~
@@ -923,7 +1048,8 @@ MOTÉIS~~
 
 ~~a)     Quarto com área de 5,00 m2 (cinco metros quadrados) quando destinado a uma pessoa ou com área mínima de 8,00 m2 (oito metros quadrados) quando destinado a duas pessoas e forma tal que permita, no plano de piso, a inscrição de um círculo com diâmetro mínimo de 2,00 m (dois metros) e 2,50 m (dois metros e cinqüenta centímetros) respectivamente;~~
 
-~~b)     Instalação sanitária dispondo, pelo menos, de lavatório, vaso sanitário e chuveiro, em compartimento cuja área não seja inferior a 2,00 (dois metros)<br>
+~~b)     Instalação sanitária dispondo, pelo menos, de lavatório, vaso sanitário e chuveiro, em compartimento cuja área não seja inferior a 2,00 (dois metros)
+
 \- CHWC. Não se aplica a este caso o disposto no Anexo V.~~
 
 ~~II    - Terão compartimentos para recepção escritório e registro (portaria), com área mínima de 8,00 m2 (oito metros quadrados) e forma tal que permita, no plano do piso, a inscrição de um círculo com diâmetro mínimo de 2,00 m (dois    metros);~~
@@ -932,7 +1058,8 @@ MOTÉIS~~
 
 ~~IV    - Terão espaço para acesso e estacionamento de veículos na proporção mínima de uma vaga para cada unidade  distinta e autônoma que possa ser utilizada para hospedagem.~~
 
-~~Art. 106  Se o motel tiver serviço de refeição, deverá ser provido<br>
+~~Art. 106  Se o motel tiver serviço de refeição, deverá ser provido
+
 ainda de:~~
 
 ~~I    - Compartimento para refeições e cozinha, ligados entre si. Cada um desses compartimentos deverá:~~
@@ -943,8 +1070,10 @@ ainda de:~~
 
 ~~II    - Compartimentos para copa, despensa e lavanderia, cada um com área de 6,00 m2 (quatro metros quadrados), a qual será acrescida de 1,00 m2 (um metro quadrado) para cada 50,00 m2 (cinqüenta metros quadrados) ou fração da área total dos compartimentos para hospedagem que exceder a 250,00 m2 (duzentos e cinqüenta metros quadrados).~~
 
-~~CAPÍTULO III<br>
-COMÉRCIO E VAREJO~~<br>
+~~CAPÍTULO III
+
+COMÉRCIO E VAREJO~~
+
  
 
 ~~Art. 107  Para as edificações destinadas a comércio a varejo e serviços, além das disposições deste Código referentes ás edificações em geral, é obrigatório o atendimento dos requisitos constantes neste Capítulo.~~
@@ -957,7 +1086,8 @@ COMÉRCIO E VAREJO~~<br>
 
 ~~III    - Para área superior a 300,00 m2 (trezentos metros quadrados) será acrescido um lavatório e um vaso sanitário para cada 100,00 m2 (cem metros quadrados) ou fração que exceda a 300,00 m2 (trezentos metros quadrados).~~
 
-~~SEÇÃO I<br>
+~~SEÇÃO I
+
 DISPOSIÇÕES GERAIS~~
 
 ~~Art. 109 As lojas deverão    atender    às seguintes exigências;~~
@@ -976,7 +1106,8 @@ DISPOSIÇÕES GERAIS~~
 
 ~~IV    - Ter pé-direito mínimo de 2,00 m (dois metros) quando a área da sobreloja corresponder a menos de 20% (vinte por cento) da área da loja.~~
 
-~~SEÇÃO II<br>
+~~SEÇÃO II
+
 EDIFÍCIOS COMERCIAIS~~
 
 ~~Art. 111  Nos edifícios comerciais as salas para escritório poderão ter:~~
@@ -993,10 +1124,10 @@ EDIFÍCIOS COMERCIAIS~~
 
 ~~Parágrafo Único - Nos edifícios que tenham menos de 10 (dez) salas, será obrigatória a instalação de caixa coletora de correspondência por sala, em local visível no hall.~~
 
-~~SEÇÃO III<br>
+~~SEÇÃO III
+
 DAS GALERIAS~~
 
-<br>
  
 
 ~~Art. 113  Será permitida, nos edifícios, a abertura de galerias de passagens internas, no pavimento térreo ou em pavimento imediatamente superior ou inferior ao térreo, com largura mínima de 4,00 m (quatro metros) e pé-direito mínimo de 2,50 (dois metros e cinqüenta centímetros), para o fim especial de acesso a lojas e/ou conexão entre duas ruas.~~
@@ -1009,8 +1140,8 @@ DAS GALERIAS~~
 
 ~~Parágrafo Único - As lojas de que trata o presente artigo deverão ter abertura de iluminação e ventilação com área igual a, no mínimo 1/4 (um quarto) da área de seu piso.~~
 
-<br>
-~~SEÇÃO IV<br>
+~~SEÇÃO IV
+
 COMÉRCIO ESPECIAL~~
 
 ~~Art. 115  Os edifícios de comércio especial destinam-se às atividades abaixo relacionadas:~~
@@ -1021,20 +1152,22 @@ COMÉRCIO ESPECIAL~~
 
 ~~III    - Supermercados.~~
 
-~~§1º As normas peculiares a cada atividade são estabelecidas nos artigos e subseções seguintes:~~<br>
+~~§1º As normas peculiares a cada atividade são estabelecidas nos artigos e subseções seguintes:~~
+
  
 
 ~~§2º Os depósitos de material de limpeza, consertos e outros fins, bem como os eventuais compartimentos para per noite de empregados ou vigia e a residência do zelador, não poderão estar no mesmo local, nem ter comunicação direta com os compartimentos destinados a consumo de alimentos, a cozinha, a fabrico, a manipulação, a depósito de matérias primas ou gêneros, e a guarda de produtos acabados.~~
 
-<br>
-~~SUBSEÇÃO 1a<br>
+~~SUBSEÇÃO 1a
+
 RESTAURANTES~~
 
 ~~Art. 116  Nos restaurantes, os salões de refeições deverão ter área de no mínimo 30,00 m2 (trinta metros quadrados).~~
 
 ~~Art. 117  Se os compartimentos de consumo de alimentos não dispuserem de aberturas externas pelo menos em duas faces, deverão ter instalação de renovação de ar.~~
 
-~~Art. 118  Além da parte destinada a consumação, os restaurantes<br>
+~~Art. 118  Além da parte destinada a consumação, os restaurantes
+
 deverão dispor:~~
 
 ~~I    - De cozinha - cuja área que não será inferior a 5,00 m2 (cinco metros quadrados), deverá corresponder à relação mínima de 1:10 (um por dez) da área total dos compartimentos que possam ser utilizados para consumo.~~
@@ -1045,11 +1178,12 @@ deverão dispor:~~
 
 ~~Art. 119  As instalações sanitárias para o uso do público deverão atender ao disposto no Anexo VI.~~
 
-~~Art. 120  As instalações sanitárias para os funcionários, não poderão ter comunicação direta com os compartimentos de preparo e venda de alimentos, nem com os depósitos dos produtos e salões de refeições, devendo atender ao disposto no Anexo VII.~~<br>
+~~Art. 120  As instalações sanitárias para os funcionários, não poderão ter comunicação direta com os compartimentos de preparo e venda de alimentos, nem com os depósitos dos produtos e salões de refeições, devendo atender ao disposto no Anexo VII.~~
+
  
 
-<br>
-~~SUBSEÇÃO 2a<br>
+~~SUBSEÇÃO 2a
+
 LANCHONETE, BARES, CONFEITARIAS, PADARIAS, AÇOUGUES, PEIXARIAS, MERCIARIAS E QUITANDAS~~
 
 ~~Art. 121  A área dos compartimentos destinadas à venda, realização de refeições ligeiras, consumo de alimentos, ao trabalho e à manipulação de alimentos deverá ter cada uma área igual ou superior a 14,00 (quatorze metros quadrados) e forma tal que permita, no plano do piso, a inscrição de um círculo com diâmetro mínimo de 3,00 m (três metros).~~
@@ -1072,10 +1206,12 @@ LANCHONETE, BARES, CONFEITARIAS, PADARIAS, AÇOUGUES, PEIXARIAS, MERCIARIAS E QU
 
 ~~IV    - Ter suficiente iluminação natural  e artificial;~~
 
-~~Art. 124  No caso de açougues, peixarias, quitandas e mercadorias as instalações sanitárias obedecerão ao disposto no artigo 95.~~<br>
+~~Art. 124  No caso de açougues, peixarias, quitandas e mercadorias as instalações sanitárias obedecerão ao disposto no artigo 95.~~
+
  
 
-~~Subseção 3a<br>
+~~Subseção 3a
+
 Mercados e Supermercados~~
 
 ~~Art. 125  Os mercados, particulares ou não, caracterizam-se pela distribuição de produtos variados destinados a comércio, em recintos semi-abertos, como bancas ou boxe, voltados para acesso que apresente condições de trânsito de pessoas e veículos.~~
@@ -1096,7 +1232,8 @@ Mercados e Supermercados~~
 
 ~~V    - os acessos principais e  secundários terão:~~
 
-~~a)     o piso de material impermeável  e  resistente ao trânsito de pessoas e veículos;~~<br>
+~~a)     o piso de material impermeável  e  resistente ao trânsito de pessoas e veículos;~~
+
  
 
 ~~b)     declividade longitudinal e transversal não inferior a 1% (um por cento) nem superior a 3% (três por cento), de modo que o ofereça livre escoamento para as águas.~~
@@ -1123,9 +1260,12 @@ Mercados e Supermercados~~
 
 ~~c)     instalação ao longo dos acessos principais e secundários de registros apropriados a ligação de mangueiras para lavagem espaçadas entre si, no máximo 25,00m (vinte e cinco metros);~~
 
-~~d)     alimentação das instalações sanitárias.<br>
- <br>
-Vll - as instalações sanitárias serão separadas por sexo, sendo dimensionadas em função do número de bancas ou boxes conforme o disposto no anexo Vlll e distribuídos de forma que estejam a mais de 50.00m (cinqüenta metros) de distância   de nenhum recinto de comercialização;<br>
+~~d)     alimentação das instalações sanitárias.
+
+ 
+
+Vll - as instalações sanitárias serão separadas por sexo, sendo dimensionadas em função do número de bancas ou boxes conforme o disposto no anexo Vlll e distribuídos de forma que estejam a mais de 50.00m (cinqüenta metros) de distância   de nenhum recinto de comercialização;
+
 lX - dispor de compartimentos para administração e fiscalização municipal, com área não inferior a 15.00m2 (quinze metros quadrados) sempre disto resulte qualquer ônus para a prefeitura;~~
 
 ~~X    - deverão ser previstos frigoríficos adequados a guarda de verduras, frios, peixes e carnes;~~
@@ -1188,10 +1328,12 @@ lX - dispor de compartimentos para administração e fiscalização municipal, c
 
 ~~Art. 130 Deverá ser prevista no mercado e supermercado área para estacionamento de veículos correspondente a uma vaga para cada 50,00 m2 (cinqüenta metros quadrados), da área total da construção.~~
 
-~~CAPÍTULO IV<br>
+~~CAPÍTULO IV
+
 SERVIÇOS ESPECIAIS~~
 
-~~SEÇÃO I <br>
+~~SEÇÃO I 
+
 POSTOS DE SERVIÇOS AUTOMOBILÍSTICOS~~
 
 ~~Art. 131 Os postos  de serviços automobilísticos destinam-se às atividades de abastecimento, lubrificação, lavagem e lavagem automática, que podem ser exercidos em conjunto ou isoladamente.~~
@@ -1218,8 +1360,10 @@ POSTOS DE SERVIÇOS AUTOMOBILÍSTICOS~~
 
 ~~V    - As bombas para abastecimento deverão observar a distância mínima de 4,00 m (quatro metros) de qualquer ponto da edificação e das divisas laterais e de fundo;~~
 
-~~VI    - Os pisos das áreas de acesso, circulação, abastecimento e serviços, bem como dos boxe de lavagem deverão ser impermeáveis, refratários ao<br>
- <br>
+~~VI    - Os pisos das áreas de acesso, circulação, abastecimento e serviços, bem como dos boxe de lavagem deverão ser impermeáveis, refratários ao
+
+ 
+
 desgaste e ao solvente e anti-derrapante, ter declividade mínima de 1% (um por cento) e máxima de 3% (três por cento). Serão dotados de ralos para escoamento das águas de lavagem e de torneiras de água corrente.~~
 
 ~~Art. 134 Os equipamentos para lavagem deverão ficar em compartimentos exclusivos dos quais:~~
@@ -1242,13 +1386,14 @@ desgaste e ao solvente e anti-derrapante, ter declividade mínima de 1% (um por 
 
 ~~III    - Depósito de material de limpeza, de conserto e outros fins, com área mínima de 2,00 m2 (dois metros quadrados).~~
 
-~~Art. 136  Os postos de serviços automobilísticos deverão dispor de instalação ou construções de tal forma que os vizinhos ou logradouros públicos não sejam atingidos pelos ruídos, vapores, jatos e aspersão de água ou óleo originados dos serviços de abastecimentos, lubrificação ou lavagem.~~<br>
+~~Art. 136  Os postos de serviços automobilísticos deverão dispor de instalação ou construções de tal forma que os vizinhos ou logradouros públicos não sejam atingidos pelos ruídos, vapores, jatos e aspersão de água ou óleo originados dos serviços de abastecimentos, lubrificação ou lavagem.~~
+
  
 
 ~~Parágrafo Único - As instalações e depósitos de combustíveis ou inflamáveis deverão obedecer às normas próprias estabelecidas no Código de Postura do Município.~~
 
-<br>
-~~Seção II<br>
+~~Seção II
+
 Edifícios e Garagem~~
 
 ~~Art. 137  Nos postos de serviços automobilísticos, eventuais instalações de bares ou lanchonetes deverão observar as exigências das respectivas normas específicas.~~
@@ -1289,7 +1434,8 @@ Edifícios e Garagem~~
 
 ~~VII - haverá compartimentos ou ambientes para administração e serviços com área na proporção mínima de 1,00 m2 (um metro quadrado) para cada 400,00 m2 (quatrocentos metros quadrados) da área total de estacionamento, respeitada a área mínima de 10,00 m2 (dez metros quadrados);~~
 
-~~Seção III<br>
+~~Seção III
+
 Garagens ou Estacionamentos Coletivos~~
 
 ~~Art. 140  Os locais cobertos ou descobertos para estacionamento ou guarda de veículos para fins comerciais no interior dos lotes, além do disposto do Capítulo VIII do Título II, deverão atender ao seguinte:~~
@@ -1312,7 +1458,8 @@ Garagens ou Estacionamentos Coletivos~~
 
 ~~Art. 144  Não será permitido o exercício de qualquer outra atividade no terreno, nem sequer lavagem, troca de óleo, consertos de pneus ou pequenos reparos dos veículos.~~
 
-~~CAPÍTULO V<br>
+~~CAPÍTULO V
+
 ESTABELECIMENTOS DE SAÚDE~~
 
 ~~Art. 145 Os edifícios de que trata esse capítulo deverão obedecer aos seguintes requisitos:~~
@@ -1321,7 +1468,8 @@ ESTABELECIMENTOS DE SAÚDE~~
 
 ~~II    - Terão compartimento ou ambiente de estar para visitante ou acompanhante com área mínima de 12,00 m2 (doze metros quadrados);~~
 
-~~III    - As salas de consulta terão área mínima de 10,00 m2 (dez<br>
+~~III    - As salas de consulta terão área mínima de 10,00 m2 (dez
+
 metros quadrados);~~
 
 ~~IV    - Os corredores de circulação interna quando destinados ao trânsito de pacientes, acesso a salas de cirurgia e outros compartimentos de igual importância, terão largura mínima de 2,00 m (dois metros) e os corredores secundários, largura mínima de 1,00 m (um metro), devendo atender às  especificações do Capítulo VI Título II;~~
@@ -1448,7 +1596,8 @@ metros quadrados);~~
 
 ~~III    - Área de estacionamento de veículos na proporção de uma vaga (2,50 x 5,00 m ) para cada 100,00 m2 (cem metros quadrados) ou fração da área total da construção.~~
 
-~~Seção II<br>
+~~Seção II
+
 Clínicas, Laboratórios e Pronto - Socorro~~
 
 ~~Art. 152  Os edifícios de clínicas, laboratórios de análises e pronto - socorros destinam-se as seguintes atividades:~~
@@ -1487,10 +1636,10 @@ Clínicas, Laboratórios e Pronto - Socorro~~
 
 ~~Art. 154  Além do estabelecido no artigo anterior, deverão ser atendida as especificações constantes na Seção I deste Capítulo.~~
 
-~~CAPÍTULO VI<br>
+~~CAPÍTULO VI
+
 LOCAIS DE REUNIÕES DISPOSIÇÕES GERAIS~~
 
-<br>
  
 
 ~~Art. 155  Os edifícios para locais de reuniões são os que se destinam à pratica de atos da natureza esportiva, recreativa, social, cultural ou religiosa e que, para tanto, comportem a reunião de numerosas pessoas.~~
@@ -1583,7 +1732,8 @@ LOCAIS DE REUNIÕES DISPOSIÇÕES GERAIS~~
 
 ~~IX    - Havendo balcões exigir-se-á:~~
 
-~~a)     Que a sua área não seja superior a 2/5 (dois quintos) da área<br>
+~~a)     Que a sua área não seja superior a 2/5 (dois quintos) da área
+
 destinada ao recinto;~~
 
 ~~b)     Que tenham pé-direito livre de 3,00 m (três metros) no mínimo, e que o espaço do recinto situado sob eles também tenha pé-direito livre de 3,00 m (três metros) no mínimo;~~
@@ -1642,11 +1792,12 @@ destinada ao recinto;~~
 
 ~~Art. 172  Se existir serviço de refeição, como restaurante, lanches, bares bufetes ou similares, deverão ser observadas as normas próprias específicas estabelecidas neste Código;~~
 
-~~SEÇÃO I<br>
+~~SEÇÃO I
+
 TEATROS E CINEMAS~~
 
-<br>
-~~SUBSEÇÃO 1ª<br>
+~~SUBSEÇÃO 1ª
+
 TEATROS~~
 
 ~~Art. 173  As edificações para teatros e similares deverão atender, ainda, aos seguintes requisitos:~~
@@ -1671,7 +1822,8 @@ TEATROS~~
 
 ~~VII    - Os compartimentos destinados aos artistas, músicos, praticantes, serviçais e empregados em geral, terão acesso para o exterior separado do destinado ao público.~~
 
-~~SUBSEÇÃO 2ª<br>
+~~SUBSEÇÃO 2ª
+
  CINEMAS~~
 
 ~~Art. 174  As edificações para cinema ou projeção    similares deverão satisfazer, ainda, aos seguintes requisitos:~~
@@ -1702,7 +1854,8 @@ TEATROS~~
 
 ~~IV    - A cabina deverá dispor, em local próximo, de instalação sanitária contendo pelo menos lavatório, vaso sanitário e chuveiro.~~
 
-~~Seção II<br>
+~~Seção II
+
 Religiosos~~
 
 ~~Art. 175  Os edifícios para locais de fins religiosos definam-se às atividades abaixo relacionadas:~~
@@ -1717,12 +1870,14 @@ Religiosos~~
 
 ~~Art. 177  Se os edifícios religiosos abrigarem outras atividades compatíveis afim a que se destinam, como escolas, pensionatos ou residência deverão satisfazer também as exigências próprias prevista na respectiva norma específica deste Código.~~
 
-<br>
-~~CAPÍTULO VII<br>
+~~CAPÍTULO VII
+
 ESTABELECIMENTOS DE ENSINO~~
 
-~~SEÇÃO I<br>
-DISPOSIÇÕES GERAIS~~<br>
+~~SEÇÃO I
+
+DISPOSIÇÕES GERAIS~~
+
  
 
 ~~Art. 178  Os edifícios de escolas destinam-se a abrigar a realização do processo construtivo - educativo ou instrutivo da pessoa.~~
@@ -1751,7 +1906,8 @@ DISPOSIÇÕES GERAIS~~<br>
 
 ~~III    - as escadas de uso comum ou coletivos terão largura mínima de 2,50 m (dois metros e cinqüenta centímetros) e degraus com largura mínima de 0,31 m (trinta e um centímetros) e altura máxima de 0,16 (dezesseis centímetros);~~
 
-~~IV    - as rampas de uso comum ou coletivo terão largura mínima de 2,50 m (dois metros e cinqüenta centímetros) e declividade máxima de 12% (doze por cento).~~<br>
+~~IV    - as rampas de uso comum ou coletivo terão largura mínima de 2,50 m (dois metros e cinqüenta centímetros) e declividade máxima de 12% (doze por cento).~~
+
  
 
 ~~Art. 182  Os edifícios de escolas deverão dispor de instalações sanitárias para uso dos alunos e dos empregados, em número correspondente ao total da área constituída dos andares servidos, conforme estabelecido no anexo XII.~~
@@ -1796,8 +1952,10 @@ DISPOSIÇÕES GERAIS~~<br>
 
 ~~II    - As salas de aulas expositivas terão área correspondente a 1,50 m2 (um vírgula cinqüenta metros quadrados) por aluno com mínimo de 56,00 m2 (cinqüenta e seis metros quadrados) e forma tal que permitirá a inscrição, no plano do piso, de um círculo com diâmetro mínimo de 4,50 m (quatro metros e cinqüenta centímetros); Salvo em casos especiais de escolas particulares de ensino fundamental (maternal à 4ª série) onde a área mínima da sala de aula poderá ser 32,00 m2 (trinta e dois metros quadrados).~~
 
-~~III    - As salas de trabalhos manuais terão área correspondente a 2,00 m2 (dois metros quadrados) por aluno com o mínimo de 32,00 m2 (trinta e dois<br>
- <br>
+~~III    - As salas de trabalhos manuais terão área correspondente a 2,00 m2 (dois metros quadrados) por aluno com o mínimo de 32,00 m2 (trinta e dois
+
+ 
+
 metros quadrados) e forma tal que permite a inscrição no plano de piso, de um círculo com diâmetro mínimo de 4,50 m (quatro metros e cinqüenta centímetros);~~
 
 ~~IV    - O espaço descoberto destinado a esporte e recreação terá área correspondente a 4,00 m2 (quatro metros quadrados);~~
@@ -1816,13 +1974,14 @@ metros quadrados) e forma tal que permite a inscrição no plano de piso, de um 
 
 ~~Art. 191  Além do disposto neste Capítulo, deverão ser observadas as especificações constantes do Plano Estadual de Educação de Goiás.~~
 
-~~Seção II<br>
+~~Seção II
+
 Ensino Superior~~
 
 ~~Art. 192 As edificações destinadas a ensino superior serão aplicadas as disposições constantes na Seção I, deste Capítulo devendo estas, ainda atender as normas fixadas pelo Ministério da Educação e Cultura para este fim.~~
 
-<br>
-~~Seção III <br>
+~~Seção III 
+
 Ensino não Seriado~~
 
 ~~Art. 193  Os edifícios destinados a ensino não seriado ou livre, caracterizado pela menor duração do curso e por serem ministrada aulas isoladas compreendem os cursos preparatório, cursos supletivos, datilografia e estenografia, desenhos e decoração, danças, programação de dados, auto escolas e outros.~~
@@ -1835,11 +1994,12 @@ Ensino não Seriado~~
 
 ~~II    - aplica-se-lhes o disposto no inciso IV do artigo 229, reduzindo-se a área mínima exigida para 6,00 m2 (seis metros quadrados) para compartimentos ou ambientes da administração.~~
 
-~~CAPÍTULO VIII<br>
+~~CAPÍTULO VIII
+
 OFICINAS E INDÚSTRIAS~~
 
-<br>
-~~SEÇÃO I<br>
+~~SEÇÃO I
+
 DISPOSIÇÕES GERAIS~~
 
 ~~Art. 196  Os edifícios e instalações de oficinas e indústrias destinam-se às atividades de manutenção, consertos ou confecções, bem como de extração, transformação, beneficiamento ou desdobramento de materiais.~~
@@ -1862,7 +2022,8 @@ DISPOSIÇÕES GERAIS~~
 
 ~~III    - Despensa ou depósito de gêneros alimentícios com área na proporção mínima de 1,00 m2 (um metro quadrado) para cada 180,00 m2 (cento e oitenta metros quadrados) ou fração da área total de construção respeitada a área mínima de 4,00 m2 (quatro metros quadrados).~~
 
-~~Art. 200  A estrutura, as paredes e os pavimentos da edificação deverão ser de material resistente a 4 (quatro) horas de fogo, no mínimo. As paredes situadas nas divisas do imóvel deverão elevar-se pelo menos, 1,00 m (um metro) acima das coberturas.<br>
+~~Art. 200  A estrutura, as paredes e os pavimentos da edificação deverão ser de material resistente a 4 (quatro) horas de fogo, no mínimo. As paredes situadas nas divisas do imóvel deverão elevar-se pelo menos, 1,00 m (um metro) acima das coberturas.
+
 Art. 201 As aberturas para iluminação e ventilação dos compartimentos de trabalho ou atividade terão área correspondente  a  pelo menos 1/6 (um    sexto)    da    área    do compartimento,    que    deverá satisfazer as condições de permanência prolongada.~~
 
 ~~§1º Quando forem utilizadas na iluminação estruturas tipo Shed, as aberturas deverão ficar voltadas para direção situada entre os rumos do quadrante S e E.~~
@@ -1885,7 +2046,8 @@ Art. 201 As aberturas para iluminação e ventilação dos compartimentos de tra
 
 ~~IV    - As chaminés industriais deverão ter altura que ultrapasse, no mínimo de 5,00 m (cinco metros) e edificação mais alta, em um ralo de 50,00 m (cinqüenta metros) e dispor de câmaras de lavagem dos gases de combustão e detentoras de fagulhas;~~
 
-~~V    - Adotar-se-ão medidas construtivas e instalações de equipamentos próprios para o devido controle da emissão de gases, vapores, poeiras, <br>
+~~V    - Adotar-se-ão medidas construtivas e instalações de equipamentos próprios para o devido controle da emissão de gases, vapores, poeiras, 
+
 fagulhas e outros agentes que possam    ser danosos ao trabalho ou atividade nos recintos, prejudicando a saúde dos empregados;~~
 
 ~~VI    - Adotar-se-ão igualmente providências para evitar o despejo externo do resíduos gasosos, líquidos ou sólidos que sejam danosos à saúde ou bens públicos ou que contribuam para causar incômodos ou por em risco a segurança de  pessoas ou propriedades;~~
@@ -1894,7 +2056,8 @@ fagulhas e outros agentes que possam    ser danosos ao trabalho ou atividade 
 
 ~~VIII- As máquinas ou equipamentos deverão ser instalados com as precauções convenientes para reduzir a propagação de choque, vibrações ou trepidações, evitando a sua transmissão às partes vizinhas.~~
 
-~~Seção II<br>
+~~Seção II
+
 Oficinas~~
 
 ~~Art. 203    os edifícios de oficinas    destinam-se, entre outras, às seguintes atividades:~~
@@ -1933,7 +2096,8 @@ Oficinas~~
 
 ~~Art. 207  As oficinas deverão ter pé-direito mínimo de 3,00 m (três metros), salvo os compartimentos destinados à administração, almoxarifado, vestiário e sanitários.~~
 
-~~Seção III<br>
+~~Seção III
+
 Indústrias em Geral~~
 
 ~~Art. 208  Os edifícios de indústrias destinam-se ao serviço de extração, transformação, beneficiamento ou desdobramento de matéria - primas em produtos acabados ou semi-acabados, bem como aos serviços de montagem, acoplagem e similares. Compreendem as atividades abaixo relacionadas;~~
@@ -1984,7 +2148,8 @@ Indústrias em Geral~~
 
 ~~Art. 210  os edifícios  de indústrias sujeitos a normas adicionais mais específicas, são objeto de disposição das seções subsequentes deste capítulo;~~
 
-~~Seção lV<br>
+~~Seção lV
+
 Indústria de Produtos Alimentícios~~
 
 ~~Art.    211  As indústrias    de    produtos destinam-se as dividas abaixo relacionadas;~~
@@ -2131,8 +2296,8 @@ Indústria de Produtos Alimentícios~~
 
 ~~§2º  As edificações serão providas de chaminés, na forma prevista no item IV do artigo 165, devidamente munidas de aparelhos de aspiração e retenção de fuligem de películas ou resíduos da torrefação de café, bem como de dispositivos para retenção do odor característico.~~
 
-<br>
-~~SEÇÃO V<br>
+~~SEÇÃO V
+
 INDÚSTRIAS QUÍMICAS E FARMACÊUTICAS~~
 
 ~~Art. 224  As indústrias de produtos químicos e farmacêuticos possuirão, no mínimo, as seguintes dependências:~~
@@ -2167,7 +2332,8 @@ INDÚSTRIAS QUÍMICAS E FARMACÊUTICAS~~
 
 ~~Art. 228  As exigências contidas nos artigos 227, 228 e 229 são extensivas ás edificações destinada a laboratórios de análises e pesquisas.~~
 
-~~CAPÍTULO IX<br>
+~~CAPÍTULO IX
+
 INFLAMÁVEIS E EXPLOSIVOS~~
 
 ~~Art. 229  Os edifícios e instalações de inflamáveis e explosivos destinam-se á fabricação, manipulação ou depósito de combustíveis, inflamáveis ou explosivos, uns e outros em estado sólido, líquido ou gasoso.~~
@@ -2228,13 +2394,16 @@ INFLAMÁVEIS E EXPLOSIVOS~~
 
 ~~§1º As edificações ou instalações sem prejuízo do estabelecido na lei de zoneamento, ficarão afastadas:~~
 
-~~a)     No mínimo 4,00 m (quatro metros) entre si ou de quaisquer outras edificações e 2,00 m das divisas do imóvel;~~<br>
+~~a)     No mínimo 4,00 m (quatro metros) entre si ou de quaisquer outras edificações e 2,00 m das divisas do imóvel;~~
+
  
 
-~~b)    No    mínimo 5,00 m    ( cinco metros )    do    alinhamento dos logradouros;~~<br>
+~~b)    No    mínimo 5,00 m    ( cinco metros )    do    alinhamento dos logradouros;~~
+
  
 
-~~§2º Para quantidade superiores a 10.000 kg (dez mil quilogramas) ou 100,00 m3 (cem metros cúbicos), os afastamentos serão de 10,00 m (dez metros) no mínimo.~~<br>
+~~§2º Para quantidade superiores a 10.000 kg (dez mil quilogramas) ou 100,00 m3 (cem metros cúbicos), os afastamentos serão de 10,00 m (dez metros) no mínimo.~~
+
  
 
 ~~Art. 232  As edificações deverão conter, pelo menos, compartimentos, instalações ou locais para:~~
@@ -2297,16 +2466,18 @@ INFLAMÁVEIS E EXPLOSIVOS~~
 
 ~~V    - As portas de comunicação entre as seções ou de comunicação destas com os outros ambientes ou compartimentos, terão resistência ao fogo de 1h30 m (uma hora e trinta minutos) no mínimo. Serão do tipo corta fogo e dotadas de dispositivo de fechamento automático protegido contra entraves ao seu funcionamento;~~
 
-~~VI    - As portas para o exterior    deverão abrir no sentido de saída<br>
+~~VI    - As portas para o exterior    deverão abrir no sentido de saída
+
 dos pavilhões.~~
 
 ~~Art. 237  As edificações e instalações de que trata o presente Capítulo, além do disposto nos artigos constantes do mesmo, deverão obedecer ás normas técnicas oficiais referentes á matéria.~~
 
-~~TÍTULO IV<br>
+~~TÍTULO IV
+
 PENALIDADES~~
 
-<br>
-~~CAPÍTULO I<br>
+~~CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES~~
 
 ~~Art. 238 São passíveis de penalidades o profissional responsável por projeto arquitetônico de edificação o profissional responsável pela construção, a firma responsável pelo projeto ou pela construção e o proprietário das edificações.~~
@@ -2355,10 +2526,12 @@ DAS DISPOSIÇÕES PRELIMINARES~~
 
 ~~§3º O infrator terá prazo de 5 (cinco) dias, a partir da data da lavratura do auto de infração, para apresentar defesa, por meio de requerimento dirigido à autoridade competente.~~
 
-~~§ 4º - Na fixação das penalidades serão consideradas a gravidade da infração, as circunstancia agravantes e atenuantes, bem como as condições financeiras do infrator.~~<br>
+~~§ 4º - Na fixação das penalidades serão consideradas a gravidade da infração, as circunstancia agravantes e atenuantes, bem como as condições financeiras do infrator.~~
+
 ~~(Redação acrescentada pela Lei Ordinária nº 2233, de 28 de dezembro de 2001).~~
 
-~~§ 5º - Verificadas a incapacidades financeiras do ingfrator, devidamente apurada em processo regular, após ouvida a Assistência Social, a multa fixada na forma do parágrafo anterior poderá ser em até 50% (cinquenta pôr cento) do seu valor.~~<br>
+~~§ 5º - Verificadas a incapacidades financeiras do ingfrator, devidamente apurada em processo regular, após ouvida a Assistência Social, a multa fixada na forma do parágrafo anterior poderá ser em até 50% (cinquenta pôr cento) do seu valor.~~
+
 ~~(Redação acrescentada pela Lei Ordinária nº 2233, de 28 de dezembro de 2001).~~
 
 ~~Art. 242  O profissional e a firma suspensos ou excluídos do registro de profissionais e firmas legalmente habilitados, não poderão apresentar projetos para aprovação, iniciar obras de qualquer tipo, nem prosseguir nas que tiverem executando, enquanto viger a penalidade.~~
@@ -2377,22 +2550,26 @@ DAS DISPOSIÇÕES PRELIMINARES~~
 
 ~~Art. 244  A aplicação de penalidades referidas nesta Lei não isenta o infrator das demais penalidades que lhe forem aplicáveis pelos mesmos motivos e previstas pela Legislação Federal ou estadual, nem da obrigação de reparar os danos resultantes da infração, na forma do artigo 159 do Código Civil.~~
 
-~~CAPÍTULO II<br>
-DAS ADVERTÊNCIAS~~<br>
+~~CAPÍTULO II
+
+DAS ADVERTÊNCIAS~~
+
  
 
 ~~Art. 245  A penalidade de advertência pode ser aplicável ao profissional responsável, à firma ou ao proprietário.~~
 
 ~~Parágrafo Único - A advertência será aplicada quando for apresentado projeto em flagrante desacordo com as disposições do Código de Edificação ou com a Legislação sobre o uso do solo do local a ser edificado.~~
 
-~~CAPÍTULO III<br>
+~~CAPÍTULO III
+
 DAS MULTAS~~
 
 ~~Art. 246 – A multa aplicável a profissional ou firma responsável pôr projeto ou pela execução de obras é a seguinte:~~
 
 ~~I- 100 (cem ) UVFA, por falsear cálculos do projeto, elementos de memorial descritivo ou por viciar projeto aprovado, introduzindo-lhe, integralmente, alterações de qualquer espécie;~~
 
-~~Parágrafo Único – A multa especificada do presente artigo é extensiva a administradores e contratantes de obras públicas ou instituições oficiais.~~<br>
+~~Parágrafo Único – A multa especificada do presente artigo é extensiva a administradores e contratantes de obras públicas ou instituições oficiais.~~
+
 ~~(Redação alterada pela Lei Ordinária nº 2233, de 28 de dezembro de 2001).~~
 
 ~~Art. 246  As multas aplicáveis a profissional ou firma responsável por projeto ou pela execução de obra serão as seguintes:~~
@@ -2423,7 +2600,8 @@ DAS MULTAS~~
 
 ~~V – 50 (cinquenta) UVFA, pelo não cumprimento de intimação em virtude de vistoria ou de determinações fixadas no laudo de vistoria.~~
 
-~~Parágrafo Único – As multas específicas do presente artigo serão extensivas a administradores e contratantes de obras públicas ou instituições oficiais.~~<br>
+~~Parágrafo Único – As multas específicas do presente artigo serão extensivas a administradores e contratantes de obras públicas ou instituições oficiais.~~
+
 ~~(Redação alterada pela Lei Ordinária nº 2233, de 28 de dezembro de 2001).~~
 
 ~~Art. 247  As multas aplicáveis simultaneamente a profissional ou firma responsável e a propriedade serão as seguintes:~~
@@ -2450,7 +2628,8 @@ DAS MULTAS~~
 
 ~~II – 100 (cem) UVFA, por subdividir compartimentos sem a devida licença do órgão competente da Prefeitura;~~
 
-~~III – 15 (quinze) UVFA, por dia de não cumprimento de ordem, nos casos de obras embargadas e não paralisadas.~~<br>
+~~III – 15 (quinze) UVFA, por dia de não cumprimento de ordem, nos casos de obras embargadas e não paralisadas.~~
+
 ~~(Redação alterada pela Lei Ordinária nº 2233, de 28 de dezembro de 2001).~~
 
 ~~Art. 248  As multas aplicáveis a proprietários de edificações serão seguintes:~~
@@ -2483,9 +2662,10 @@ DAS MULTAS~~
 
 ~~Art. 256  Aplicada a multa não fica o infrator desobrigado do cumprimento da exigência a que tiver determinado.~~
 
-<br>
-~~CAPÍTULO IV<br>
-DA SUSPENSÃO~~<br>
+~~CAPÍTULO IV
+
+DA SUSPENSÃO~~
+
  
 
 ~~Art. 257  A penalidade de suspensão será aplicada ao profissional responsável nos seguintes casos:~~
@@ -2510,8 +2690,10 @@ DA SUSPENSÃO~~<br>
 
 ~~§3º No caso de reincidência, pela mesma pessoa física ou jurídica dentro do período de 2 (dois) anos, contados a partir da data da vigência da penalidade anterior, o prazo de suspensão será aplicado em dobro.~~
 
-~~CAPÍTULO V<br>
-DA EXCLUSÃO DE PROFISSIONAL OU FIRMA~~<br>
+~~CAPÍTULO V
+
+DA EXCLUSÃO DE PROFISSIONAL OU FIRMA~~
+
  
 
 ~~Art. 258  A penalidade de exclusão de profissional ou firma do registro dos profissionais e firmas legalmente habilitados, existente no órgão competente da Prefeitura, será aplicada quando for comprovado mediante sindicância:~~
@@ -2526,8 +2708,8 @@ DA EXCLUSÃO DE PROFISSIONAL OU FIRMA~~<br>
 
 ~~V    - Ter reincidido nos casos previstos nos itens do artigo anterior por mais de uma vez, no período de 24 (vinte e quatro) meses, a contar da data da primeira suspensão.~~
 
-<br>
-~~CAPÍTULO VI<br>
+~~CAPÍTULO VI
+
 DO EMBARGO~~
 
 ~~Art. 259  Qualquer construção ou modificação de edificação, em execução ou concluída poderá ser embargada, sem prejuízo de multa para os seguintes casos:~~
@@ -2564,10 +2746,12 @@ DO EMBARGO~~
 
 ~~§6º Se a obra embargada não for legalizável, só poderá verificar-se o levantamento do embargo após a correção ou eliminação do que tiver sido executado em desacordo com dispositivos do Código de Edificações.~~
 
-~~§7º O embargo de obras públicas em geral ou de instituições oficiais, através de mandato judicial será efetuado quando não surtirem efeito os pedidos de providências encaminhados por vias administrativas, em ofícios da chefia do órgão competente da Prefeitura ao Diretor da Repartição ou instituição responsável pelas obras, bem como de comunicações escrita do Prefeito ao Ministro ou Secretário ao qual as mesmas estiverem subordinadas.<br>
+~~§7º O embargo de obras públicas em geral ou de instituições oficiais, através de mandato judicial será efetuado quando não surtirem efeito os pedidos de providências encaminhados por vias administrativas, em ofícios da chefia do órgão competente da Prefeitura ao Diretor da Repartição ou instituição responsável pelas obras, bem como de comunicações escrita do Prefeito ao Ministro ou Secretário ao qual as mesmas estiverem subordinadas.
+
 §8º No caso de desrespeito ao embargo administrativo, em obras pertencentes a empresas concessionárias de serviços públicos, deverá serviços públicos, deverá ser providenciado mandato judicial.~~
 
-~~CAPÍTULO VII<br>
+~~CAPÍTULO VII
+
 DA DEMOLIÇÃO~~
 
 ~~Art. 260  A demolição parcial ou total das edificações será aplicável nos seguintes casos:~~
@@ -2592,7 +2776,8 @@ DA DEMOLIÇÃO~~
 
 ~~§5º Quando a demolição for executada pela Prefeitura, o proprietário ou construtor ficará responsável pelo pagamento dos custos dos serviços, acrescidos de 20%. a título de despesas de administração.~~
 
-~~CAPÍTULO VIII<br>
+~~CAPÍTULO VIII
+
 DA CASSAÇÃO DA LICENÇA PARA CONSTRUIR A EDIFICAÇÃO~~
 
 ~~Art. 261  A penalidade de cassação de licença para construir a edificação será aplicada ao proprietário nos seguintes casos:~~
@@ -2601,10 +2786,12 @@ DA CASSAÇÃO DA LICENÇA PARA CONSTRUIR A EDIFICAÇÃO~~
 
 ~~II    - Quando forem    executados serviços em desacordo com os dispositivos do Código de Edificação.~~
 
-~~Parágrafo Único - Será incorporado, negativamente, ao histórico do profissional ou firma co-responsável pelas infrações enumeradas neste artigo, o fato de cassação da licença para construir, sem prejuízo das penalidades a que estiverem sujeitos.~~<br>
+~~Parágrafo Único - Será incorporado, negativamente, ao histórico do profissional ou firma co-responsável pelas infrações enumeradas neste artigo, o fato de cassação da licença para construir, sem prejuízo das penalidades a que estiverem sujeitos.~~
+
  
 
-~~TÍTULO V<br>
+~~TÍTULO V
+
 DISPOSIÇÕES FINAIS~~
 
 ~~Art. 262  Unidade de Valor Fiscal de Referência (UFIR) é a base de cobrança de tributos e multas previstas em legislação específica do Município.~~
@@ -2635,65 +2822,66 @@ DISPOSIÇÕES FINAIS~~
 
 ~~GABINETE DO PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA, AOS PRIMEIROS DIAS DO MÊS DE JULHO DE UM MIL NOVECENTOS E NOVENTA E OITO.~~
 
-<br>
-~~ADEMIR    MENEZES    DR. <br>
+~~ADEMIR    MENEZES    DR. 
+
 Prefeito Municipal~~
 
-~~WALTER DE CARVALHO E SILVA<br>
+~~WALTER DE CARVALHO E SILVA
+
 Secretário Executivo~~
 
-<br>
-~~JOÃO ANTONIO BORGES<br>
+~~JOÃO ANTONIO BORGES
+
 Secretário de Planejamento~~
 
 ~~ANEXO I~~
 
-<table><tbody><tr><td colspan="2" style=" width:470px;  height:31px;   "><s><b>POÇO DE VENTILAÇÃO PARA SANITÁRIOS</b> <b>Área mínima da seção Horizontal do poço</b></s></td><td style=" width:120px;  height:31px;   "><s><b>ANEXO I</b></s></td></tr><tr><td style=" width:295px;  height:15px;   "><s><b>Número de Pavimentos</b></s></td><td colspan="2" style=" width:295px;  height:15px;   "><s><b>Área Mínima (m2)</b></s></td></tr><tr><td style=" width:295px;  height:31px;   "><s><b>1<sup>o</sup> Pavimento</b></s></td><td colspan="2" style=" width:295px;  height:31px;   "><s><b>0,360</b></s></td></tr><tr><td style=" width:295px;  height:15px;   "><s><b>2<sup>o</sup> Pavimento</b></s></td><td colspan="2" style=" width:295px;  height:15px;   "><s><b>0,360</b></s></td></tr><tr><td style=" width:295px;  height:15px;   "><s><b>3<sup>o</sup> Pavimento</b></s></td><td colspan="2" style=" width:295px;  height:15px;   "><s><b>0,468</b></s></td></tr><tr><td style=" width:295px;  height:15px;   "><s><b>4<sup>o</sup> Pavimento</b></s></td><td colspan="2" style=" width:295px;  height:15px;   "><s><b>0,624</b></s></td></tr><tr><td style=" width:295px;  height:15px;   "><s><b>5<sup>o</sup> Pavimento</b></s></td><td colspan="2" style=" width:295px;  height:15px;   "><s><b>0,780</b></s></td></tr><tr><td style=" width:295px;  height:15px;   "><s><b>6<sup>o</sup> Pavimento</b></s></td><td colspan="2" style=" width:295px;  height:15px;   "><s><b>0,936</b></s></td></tr><tr><td style=" width:295px;  height:15px;   "><s><b>7<sup>o</sup> Pavimento</b></s></td><td colspan="2" style=" width:295px;  height:15px;   "><s><b>1,092</b></s></td></tr><tr><td style=" width:295px;  height:15px;   "><s><b>8<sup>o</sup> Pavimento</b></s></td><td colspan="2" style=" width:295px;  height:15px;   "><s><b>1,248</b></s></td></tr><tr><td style=" width:295px;  height:15px;   "><s><b>9<sup>o</sup> Pavimento</b></s></td><td colspan="2" style=" width:295px;  height:15px;   "><s><b>1,404</b></s></td></tr><tr><td style=" width:295px;  height:15px;   "><s><b>10<sup>o</sup> Pavimento</b></s></td><td colspan="2" style=" width:295px;  height:15px;   "><s><b>1,560</b></s></td></tr><tr><td style=" width:295px;  height:15px;   "><s><b>11<sup>o</sup> Pavimento</b></s></td><td colspan="2" style=" width:295px;  height:15px;   "><s><b>1,716</b></s></td></tr><tr><td style=" width:295px;  height:46px;   "><s><b>12<sup>o</sup> Pavimento</b></s></td><td colspan="2" style=" width:295px;  height:46px;   "><s><b>1,872</b></s></td></tr><tr><td colspan="3" style=" width:590px;  height:46px;   "><s><b>Acima de 12 Pavimentos Acresce 0,16 m2 por Pavimento</b></s></td></tr></tbody></table>
+<table><tbody><tr><td colspan="2"><s>**POÇO DE VENTILAÇÃO PARA SANITÁRIOSÁrea mínima da seção Horizontal do poço**</s></td><td><s>**ANEXO I**</s></td></tr><tr><td><s>**Número de Pavimentos**</s></td><td colspan="2"><s>**Área Mínima (m2)**</s></td></tr><tr><td><s>**1º Pavimento**</s></td><td colspan="2"><s>**0,360**</s></td></tr><tr><td><s>**2º Pavimento**</s></td><td colspan="2"><s>**0,360**</s></td></tr><tr><td><s>**3º Pavimento**</s></td><td colspan="2"><s>**0,468**</s></td></tr><tr><td><s>**4º Pavimento**</s></td><td colspan="2"><s>**0,624**</s></td></tr><tr><td><s>**5º Pavimento**</s></td><td colspan="2"><s>**0,780**</s></td></tr><tr><td><s>**6º Pavimento**</s></td><td colspan="2"><s>**0,936**</s></td></tr><tr><td><s>**7º Pavimento**</s></td><td colspan="2"><s>**1,092**</s></td></tr><tr><td><s>**8º Pavimento**</s></td><td colspan="2"><s>**1,248**</s></td></tr><tr><td><s>**9º Pavimento**</s></td><td colspan="2"><s>**1,404**</s></td></tr><tr><td><s>**10º Pavimento**</s></td><td colspan="2"><s>**1,560**</s></td></tr><tr><td><s>**11º Pavimento**</s></td><td colspan="2"><s>**1,716**</s></td></tr><tr><td><s>**12º Pavimento**</s></td><td colspan="2"><s>**1,872**</s></td></tr><tr><td colspan="3"><s>**Acima de 12 Pavimentos Acresce 0,16 m2 por Pavimento**</s></td></tr></tbody></table>
 
 ~~ANEXO II~~
 
-<table><tbody><tr><td colspan="2" style=" width:376px;  height:31px;   "><s><b>ÁREAS ABERTAS PARA ILUMINAÇÃO E VENTILAÇÃO</b> <b>Dimensão mínima das seções horizontais</b></s></td><td style=" width:215px;  height:31px;   "><s>&nbsp; <b>ANEXO II</b></s></td></tr><tr><td style=" width:140px;  height:15px;   ">&nbsp;</td><td colspan="2" style=" width:451px;  height:15px;   "><s><b>Diâmetro mínimo do círculo inscrito</b></s></td></tr><tr><td style=" width:140px;  height:61px;   "><s>&nbsp; <b>Nº DE PAVIMENTOS</b></s></td><td style=" width:236px;  height:61px;   "><s>&nbsp; <b>Para compartimentos de Permanência Prolongada</b></s></td><td style=" width:215px;  height:61px;   "><s>&nbsp; <b>Para compartimentos de Permanência Transitória</b></s></td></tr><tr><td style=" width:140px;  height:184px;   "><s><b>Até 3<sup>o</sup> pav.</b> <b>4<sup>o</sup> pav.</b> <b>5<sup>o</sup> pav.</b> <b>6<sup>o</sup> pav.</b> <b>7</b><b>o&nbsp; </b><b>pav.</b> <b>8<sup>o</sup> pav.</b> <b>9<sup>o</sup> pav. 10<sup>o</sup> pav. 11<sup>o</sup> pav. 12<sup>o</sup> pav.</b></s></td><td style=" width:236px;  height:184px;   "><s><b>2,00</b> <b>2,20</b> <b>2,40</b> <b>2,60</b> <b>2,80</b> <b>2,00</b> <b>3,20</b> <b>3,40</b> <b>3,60</b> <b>3,80</b></s></td><td style=" width:215px;  height:184px;   "><s><b>1,50</b> <b>1,50</b> <b>1,50</b> <b>1,50</b> <b>1,50</b> <b>1,62</b> <b>1,75</b> <b>1,87</b> <b>2,00</b> <b>2,12</b></s></td></tr><tr><td style=" width:140px;  height:31px;   "><s><b>Acima do 12<sup>o</sup> pavimento</b></s></td><td style=" width:236px;  height:31px;   "><s><b>acresce 0,10 m p/pav.</b></s></td><td style=" width:215px;  height:31px;   "><s><b>acresce 0,10m p/pav.</b></s></td></tr><tr><td colspan="3" style=" width:590px;  height:31px;   "><s><b>OBS. Nas áreas onde houver obrigatoriedade de recuo, prevalecem aquelas fixadas pela lei de Zoneamento e constantes em seu Quadro 2.</b> &nbsp;</s></td></tr></tbody></table>
+<table><tbody><tr><td colspan="2"><s>**ÁREAS ABERTAS PARA ILUMINAÇÃO E VENTILAÇÃODimensão mínima das seções horizontais**</s></td><td><s>&nbsp; **ANEXO II**</s></td></tr><tr><td>&nbsp;</td><td colspan="2"><s>**Diâmetro mínimo do círculo inscrito**</s></td></tr><tr><td><s>&nbsp; **Nº DE PAVIMENTOS**</s></td><td><s>&nbsp; **Para compartimentos de Permanência Prolongada**</s></td><td><s>&nbsp; **Para compartimentos de Permanência Transitória**</s></td></tr><tr><td><s>**Até 3º pav.4º pav.5º pav.6º pav.7o&nbsp; pav.8º pav.9º pav. 10º pav. 11º pav. 12º pav.**</s></td><td><s>**2,002,202,402,602,802,003,203,403,603,80**</s></td><td><s>**1,501,501,501,501,501,621,751,872,002,12**</s></td></tr><tr><td><s>**Acima do 12º pavimento**</s></td><td><s>**acresce 0,10 m p/pav.**</s></td><td><s>**acresce 0,10m p/pav.**</s></td></tr><tr><td colspan="3"><s>**OBS. Nas áreas onde houver obrigatoriedade de recuo, prevalecem aquelas fixadas pela lei de Zoneamento e constantes em seu Quadro 2.** &nbsp;</s></td></tr></tbody></table>
 
 ~~ANEXO III~~
 
-<table><tbody><tr><td colspan="2" style=" width:385px;  height:46px;   "><s><b>ÁREA SEMI-ABERTA PARA ILUMINAÇÃO E VENTILAÇÃO</b> <b>Dimensão mínima das seções horizontais</b></s></td><td style=" width:205px;  height:46px;   "><s><b>ANEXO III</b></s></td></tr><tr><td style=" width:140px;  height:15px;   ">&nbsp;</td><td colspan="2" style=" width:451px;  height:15px;   "><s><b>Diâmetro mínimo do círculo inscrito</b></s></td></tr><tr><td style=" width:140px;  height:61px;   "><s><b>Nº DE PAVIMENTOS</b></s></td><td style=" width:246px;  height:61px;   "><s><b>Para compartimentos de Permanência Prolongada</b></s></td><td style=" width:205px;  height:61px;   "><s><b>Para compartimentos de Permanência Transitória</b></s></td></tr><tr><td style=" width:140px;  height:184px;   "><s><b>Até 3<sup>o</sup> pav.</b> <b>4<sup>o</sup> pav.</b> <b>5</b><b>o&nbsp; </b><b>pav.</b> <b>6<sup>o</sup> pav.</b> <b>7<sup>o</sup> pav.</b> <b>8<sup>o</sup> pav.</b> <b>9<sup>o</sup> pav. 10<sup>o</sup> pav. 11</b><b>o </b><b>pav. 12<sup>o</sup> pav.</b></s></td><td style=" width:246px;  height:184px;   "><s><b>2,00</b> <b>2,40</b> <b>2,80</b> <b>2,08</b> <b>3,36</b> <b>3,64</b> <b>3,92</b> <b>4,20</b> <b>4,48</b> <b>4,76</b></s></td><td style=" width:205px;  height:184px;   "><s><b>1,50</b> <b>1,50</b> <b>1,75</b> <b>1,92</b> <b>2,10</b> <b>2,27</b> <b>2,45</b> <b>2,62</b> <b>2,80</b> <b>2,97</b></s></td></tr><tr><td style=" width:140px;  height:31px;   "><s><b>Acima de 12 pavimento</b></s></td><td style=" width:246px;  height:31px;   "><s><b>5,00</b></s></td><td style=" width:205px;  height:31px;   "><s><b>3,50</b></s></td></tr></tbody></table>
+<table><tbody><tr><td colspan="2"><s>**ÁREA SEMI-ABERTA PARA ILUMINAÇÃO E VENTILAÇÃODimensão mínima das seções horizontais**</s></td><td><s>**ANEXO III**</s></td></tr><tr><td>&nbsp;</td><td colspan="2"><s>**Diâmetro mínimo do círculo inscrito**</s></td></tr><tr><td><s>**Nº DE PAVIMENTOS**</s></td><td><s>**Para compartimentos de Permanência Prolongada**</s></td><td><s>**Para compartimentos de Permanência Transitória**</s></td></tr><tr><td><s>**Até 3º pav.4º pav.5o&nbsp; pav.6º pav.7º pav.8º pav.9º pav. 10º pav. 11o pav. 12º pav.**</s></td><td><s>**2,002,402,802,083,363,643,924,204,484,76**</s></td><td><s>**1,501,501,751,922,102,272,452,622,802,97**</s></td></tr><tr><td><s>**Acima de 12 pavimento**</s></td><td><s>**5,00**</s></td><td><s>**3,50**</s></td></tr></tbody></table>
 
 ~~ANEXO IV~~
 
-<table><tbody><tr><td colspan="4" style=" width:470px;  height:31px;   "><s><b>ÁREAS FECHADAS PARA ILUMINAÇÃO E VENTILAÇÃO</b> <b>Dimensões</b><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; áreas&nbsp;&nbsp;&nbsp;&nbsp; mínimas&nbsp;&nbsp;&nbsp;&nbsp; das&nbsp;&nbsp;&nbsp;&nbsp; seções&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; horizontais</b></s></td><td style=" width:120px;  height:31px;   "><s>&nbsp; <b>ANEXO IV</b></s></td></tr><tr><td style=" width:121px;  height:31px;   ">&nbsp;</td><td colspan="2" style=" width:235px;  height:31px;   "><s><b>Para Compartimentos de Permanências Prolongada</b></s></td><td colspan="2" style=" width:235px;  height:31px;   "><s><b>Para Compartimentos de Permanência Transitória</b></s></td></tr><tr><td style=" width:121px;  height:61px;   "><s><b>Nº DE PAVIMENTOS</b></s></td><td style=" width:117px;  height:61px;   "><s><b>Diâmetro Mínimo do cir. inscrito</b></s></td><td style=" width:117px;  height:61px;   "><s><b>Área Mínima</b></s></td><td style=" width:115px;  height:61px;   "><s><b>Diâmetro </b><b>Mínimo do circ. inscrito</b></s></td><td style=" width:120px;  height:61px;   "><s><b>Área Mínima</b></s></td></tr><tr><td style=" width:121px;  height:215px;   "><s>&nbsp; &nbsp; <b>Até 2<sup>o</sup> pav.</b> <b>3<sup>o</sup> pav.</b> <b>4</b><b>o&nbsp; </b><b>pav.</b> <b>5<sup>o</sup> pav.</b> <b>6<sup>o</sup> pav.</b> <b>7<sup>o</sup> pav.</b> <b>8<sup>o</sup> pav.</b> <b>9<sup>o</sup> pav. 10</b><b>o </b><b>pav. 11<sup>o</sup> pav. 12<sup>o</sup> pav.</b></s></td><td style=" width:117px;  height:215px;   "><s>&nbsp; &nbsp; <b>3,00</b> <b>3,00</b> <b>3,60</b> <b>4,00</b> <b>4,40</b> <b>4,80</b> <b>5,20</b> <b>5,60</b> <b>6,00</b> <b>6,40</b> <b>6,80</b></s></td><td style=" width:117px;  height:215px;   "><s>&nbsp; &nbsp; <b>9,00</b> <b>10,24</b> <b>14,44</b> <b>21,16</b> <b>29,16</b> <b>38,44</b> <b>49,00</b> <b>60,48</b> <b>73,96</b> <b>88,36</b> <b>104,04</b></s></td><td style=" width:115px;  height:215px;   "><s>&nbsp; &nbsp; <b>2,00</b> <b>2,00</b> <b>2,25</b> <b>2,50</b> <b>2,75</b> <b>3,00</b> <b>3,25</b> <b>3,50</b> <b>3,75</b> <b>4,00</b> <b>4,25</b></s></td><td style=" width:120px;  height:215px;   "><s>&nbsp; &nbsp; <b>6,00</b> <b>6,12</b> <b>6,44</b> <b>6,75</b> <b>9,00</b> <b>11,56</b> <b>14,44</b> <b>17,64</b> <b>21,16</b> <b>25,00</b> <b>29,16</b></s></td></tr><tr><td style=" width:121px;  height:31px;   "><s><b>Acima de 12 Pavimentos</b></s></td><td style=" width:117px;  height:31px;   "><s><b>7,20m dimensão mínima fixa</b></s></td><td style=" width:117px;  height:31px;   "><s><b>Acresce 16,00 m2 por pav.</b></s></td><td style=" width:115px;  height:31px;   "><s><b>5,00m dimensão mínima fixa</b></s></td><td style=" width:120px;  height:31px;   "><s><b>acresce 4,00m2 por pavimento</b></s></td></tr></tbody></table>
+<table><tbody><tr><td colspan="4"><s>**ÁREAS FECHADAS PARA ILUMINAÇÃO E VENTILAÇÃODimensões&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; e&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; áreas&nbsp;&nbsp;&nbsp;&nbsp; mínimas&nbsp;&nbsp;&nbsp;&nbsp; das&nbsp;&nbsp;&nbsp;&nbsp; seções&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; horizontais**</s></td><td><s>&nbsp; **ANEXO IV**</s></td></tr><tr><td>&nbsp;</td><td colspan="2"><s>**Para Compartimentos de Permanências Prolongada**</s></td><td colspan="2"><s>**Para Compartimentos de Permanência Transitória**</s></td></tr><tr><td><s>**Nº DE PAVIMENTOS**</s></td><td><s>**Diâmetro Mínimo do cir. inscrito**</s></td><td><s>**Área Mínima**</s></td><td><s>**Diâmetro Mínimo do circ. inscrito**</s></td><td><s>**Área Mínima**</s></td></tr><tr><td><s>&nbsp; &nbsp; **Até 2º pav.3º pav.4o&nbsp; pav.5º pav.6º pav.7º pav.8º pav.9º pav. 10o pav. 11º pav. 12º pav.**</s></td><td><s>&nbsp; &nbsp; **3,003,003,604,004,404,805,205,606,006,406,80**</s></td><td><s>&nbsp; &nbsp; **9,0010,2414,4421,1629,1638,4449,0060,4873,9688,36104,04**</s></td><td><s>&nbsp; &nbsp; **2,002,002,252,502,753,003,253,503,754,004,25**</s></td><td><s>&nbsp; &nbsp; **6,006,126,446,759,0011,5614,4417,6421,1625,0029,16**</s></td></tr><tr><td><s>**Acima de 12 Pavimentos**</s></td><td><s>**7,20m dimensão mínima fixa**</s></td><td><s>**Acresce 16,00 m2 por pav.**</s></td><td><s>**5,00m dimensão mínima fixa**</s></td><td><s>**acresce 4,00m2 por pavimento**</s></td></tr></tbody></table>
 
 ~~ANEXO V~~
 
-<table><tbody><tr><td colspan="6" style=" width:470px;  height:31px;   "><s><b>INSTALAÇÕES SANITÁRIAS PARA HOTÉIS, PENSÕES E SIMILARES</b> <b>Instalações Mínimas Obrigatórias</b></s></td><td colspan="2" style=" width:121px;  height:31px;   "><s><b>ANEXO V</b></s></td></tr><tr><td style=" width:158px;  height:46px;   "><s><b>Total da área do andar mais dos eventuais an- dares cont. servidos.</b></s></td><td colspan="3" style=" width:189px;  height:46px;   "><s>&nbsp; &nbsp; <b>HÓSPEDES</b></s></td><td colspan="4" style=" width:243px;  height:46px;   "><s>&nbsp; &nbsp; <b>EMPREGADOS</b></s></td></tr><tr><td style=" width:158px;  height:24px;   ">&nbsp;</td><td style=" width:62px;  height:24px;   "><s><b>lavat.</b></s></td><td style=" width:62px;  height:24px;   "><s><b>V. Sanit.</b></s></td><td style=" width:66px;  height:24px;   "><s><b>Chuveiros</b></s></td><td style=" width:61px;  height:24px;   "><s><b>lavat.</b></s></td><td style=" width:61px;  height:24px;   "><s><b>V. Sanit.</b></s></td><td style=" width:60px;  height:24px;   "><s><b>Mictório</b></s></td><td style=" width:61px;  height:24px;   "><s><b>Chuveiro</b><b> </b><b>s</b></s></td></tr><tr><td style=" width:158px;  height:54px;   "><s>&nbsp; <b>Até</b><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; m2</b></s></td><td style=" width:62px;  height:54px;   "><s>&nbsp; <b>1</b></s></td><td style=" width:62px;  height:54px;   "><s>&nbsp; <b>1</b></s></td><td style=" width:66px;  height:54px;   "><s>&nbsp; <b>1</b></s></td><td style=" width:61px;  height:54px;   "><s>&nbsp; <b>1</b></s></td><td style=" width:61px;  height:54px;   "><s>&nbsp; <b>1</b></s></td><td style=" width:60px;  height:54px;   "><s>&nbsp; <b>-</b></s></td><td style=" width:61px;  height:54px;   "><s>&nbsp; <b>-</b></s></td></tr><tr><td style=" width:158px;  height:23px;   "><s><b>de</b><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 60 a 119 m2</b></s></td><td style=" width:62px;  height:23px;   "><s><b>2</b></s></td><td style=" width:62px;  height:23px;   "><s><b>2</b></s></td><td style=" width:66px;  height:23px;   "><s><b>2</b></s></td><td style=" width:61px;  height:23px;   "><s><b>1</b></s></td><td style=" width:61px;  height:23px;   "><s><b>1</b></s></td><td style=" width:60px;  height:23px;   "><s><b>1</b></s></td><td style=" width:61px;  height:23px;   "><s><b>1</b></s></td></tr><tr><td style=" width:158px;  height:15px;   "><s><b>de 120 a 249 m2</b></s></td><td style=" width:62px;  height:15px;   "><s><b>3</b></s></td><td style=" width:62px;  height:15px;   "><s><b>3</b></s></td><td style=" width:66px;  height:15px;   "><s><b>3</b></s></td><td style=" width:61px;  height:15px;   "><s><b>1</b></s></td><td style=" width:61px;  height:15px;   "><s><b>1</b></s></td><td style=" width:60px;  height:15px;   "><s><b>1</b></s></td><td style=" width:61px;  height:15px;   "><s><b>1</b></s></td></tr><tr><td style=" width:158px;  height:15px;   "><s><b>de 260 a 499 m2</b></s></td><td style=" width:62px;  height:15px;   "><s><b>4</b></s></td><td style=" width:62px;  height:15px;   "><s><b>4</b></s></td><td style=" width:66px;  height:15px;   "><s><b>4</b></s></td><td style=" width:61px;  height:15px;   "><s><b>2</b></s></td><td style=" width:61px;  height:15px;   "><s><b>2</b></s></td><td style=" width:60px;  height:15px;   "><s><b>1</b></s></td><td style=" width:61px;  height:15px;   "><s><b>2</b></s></td></tr><tr><td style=" width:158px;  height:15px;   "><s><b>de 500 a 999 m2</b></s></td><td style=" width:62px;  height:15px;   "><s><b>6</b></s></td><td style=" width:62px;  height:15px;   "><s><b>6</b></s></td><td style=" width:66px;  height:15px;   "><s><b>6</b></s></td><td style=" width:61px;  height:15px;   "><s><b>2</b></s></td><td style=" width:61px;  height:15px;   "><s><b>2</b></s></td><td style=" width:60px;  height:15px;   "><s><b>2</b></s></td><td style=" width:61px;  height:15px;   "><s><b>2</b></s></td></tr><tr><td style=" width:158px;  height:15px;   "><s><b>de 1000 a 1999 m2</b></s></td><td style=" width:62px;  height:15px;   "><s><b>8</b></s></td><td style=" width:62px;  height:15px;   "><s><b>8</b></s></td><td style=" width:66px;  height:15px;   "><s><b>8</b></s></td><td style=" width:61px;  height:15px;   "><s><b>3</b></s></td><td style=" width:61px;  height:15px;   "><s><b>3</b></s></td><td style=" width:60px;  height:15px;   "><s><b>3</b></s></td><td style=" width:61px;  height:15px;   "><s><b>3</b></s></td></tr><tr><td style=" width:158px;  height:61px;   "><s><b>de 2000 a 3000 m2</b></s></td><td style=" width:62px;  height:61px;   "><s><b>10</b></s></td><td style=" width:62px;  height:61px;   "><s><b>10</b></s></td><td style=" width:66px;  height:61px;   "><s><b>10</b></s></td><td style=" width:61px;  height:61px;   "><s><b>4</b></s></td><td style=" width:61px;  height:61px;   "><s><b>4</b></s></td><td style=" width:60px;  height:61px;   "><s><b>4</b></s></td><td style=" width:61px;  height:61px;   "><s><b>4</b></s></td></tr><tr><td style=" width:158px;  height:55px;   "><s><b>acima de 3000 m2 *</b></s></td><td style=" width:62px;  height:55px;   "><s><b>1/300m2</b> <b>ou</b><b> fração</b></s></td><td style=" width:62px;  height:55px;   "><s><b>1/300m2</b> <b>ou</b><b> fração</b></s></td><td style=" width:66px;  height:55px;   "><s><b>1/300m2</b> <b>ou</b><b> fração</b></s></td><td style=" width:61px;  height:55px;   "><s><b>1/500m2</b> <b>ou</b><b> fração</b></s></td><td style=" width:61px;  height:55px;   "><s><b>1/500m2</b> <b>ou</b><b> fração</b></s></td><td style=" width:60px;  height:55px;   "><s><b>1/600m2</b> <b>ou</b><b> fração</b></s></td><td style=" width:61px;  height:55px;   "><s><b>1/600m2</b> <b>ou</b><b> fração</b></s></td></tr><tr><td colspan="8" style=" width:590px;  height:55px;   "><s><b>* Acresce uma peça para cada 300 - 500 - 600 m2 ou fração.</b> &nbsp;</s></td></tr></tbody></table>
+<table><tbody><tr><td colspan="6"><s>**INSTALAÇÕES SANITÁRIAS PARA HOTÉIS, PENSÕES E SIMILARESInstalações Mínimas Obrigatórias**</s></td><td colspan="2"><s>**ANEXO V**</s></td></tr><tr><td><s>**Total da área do andar mais dos eventuais an- dares cont. servidos.**</s></td><td colspan="3"><s>&nbsp; &nbsp; **HÓSPEDES**</s></td><td colspan="4"><s>&nbsp; &nbsp; **EMPREGADOS**</s></td></tr><tr><td>&nbsp;</td><td><s>**lavat.**</s></td><td><s>**V. Sanit.**</s></td><td><s>**Chuveiros**</s></td><td><s>**lavat.**</s></td><td><s>**V. Sanit.**</s></td><td><s>**Mictório**</s></td><td><s>**Chuveiro s**</s></td></tr><tr><td><s>&nbsp; **Até&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; m2**</s></td><td><s>&nbsp; **1**</s></td><td><s>&nbsp; **1**</s></td><td><s>&nbsp; **1**</s></td><td><s>&nbsp; **1**</s></td><td><s>&nbsp; **1**</s></td><td><s>&nbsp; **-**</s></td><td><s>&nbsp; **-**</s></td></tr><tr><td><s>**de&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 60 a 119 m2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**1**</s></td></tr><tr><td><s>**de 120 a 249 m2**</s></td><td><s>**3**</s></td><td><s>**3**</s></td><td><s>**3**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**1**</s></td></tr><tr><td><s>**de 260 a 499 m2**</s></td><td><s>**4**</s></td><td><s>**4**</s></td><td><s>**4**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**1**</s></td><td><s>**2**</s></td></tr><tr><td><s>**de 500 a 999 m2**</s></td><td><s>**6**</s></td><td><s>**6**</s></td><td><s>**6**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td></tr><tr><td><s>**de 1000 a 1999 m2**</s></td><td><s>**8**</s></td><td><s>**8**</s></td><td><s>**8**</s></td><td><s>**3**</s></td><td><s>**3**</s></td><td><s>**3**</s></td><td><s>**3**</s></td></tr><tr><td><s>**de 2000 a 3000 m2**</s></td><td><s>**10**</s></td><td><s>**10**</s></td><td><s>**10**</s></td><td><s>**4**</s></td><td><s>**4**</s></td><td><s>**4**</s></td><td><s>**4**</s></td></tr><tr><td><s>**acima de 3000 m2 ***</s></td><td><s>**1/300m2ou fração**</s></td><td><s>**1/300m2ou fração**</s></td><td><s>**1/300m2ou fração**</s></td><td><s>**1/500m2ou fração**</s></td><td><s>**1/500m2ou fração**</s></td><td><s>**1/600m2ou fração**</s></td><td><s>**1/600m2ou fração**</s></td></tr><tr><td colspan="8"><s>*** Acresce uma peça para cada 300 - 500 - 600 m2 ou fração.** &nbsp;</s></td></tr></tbody></table>
 
 ~~ANEXO VI~~
 
-<table><tbody><tr><td colspan="3" style=" width:442px;  height:31px;   "><s><b>INSTALAÇÕES SANITÁRIAS PARA PÚBLICO EM RESTAURANTES</b> <b>Instalações Mínimas Necessárias</b></s></td><td style=" width:149px;  height:31px;   "><s><b>ANEXO VI</b></s></td></tr><tr><td style=" width:196px;  height:15px;   ">&nbsp;</td><td colspan="2" style=" width:246px;  height:15px;   "><s><b>MULHERES</b></s></td><td style=" width:149px;  height:15px;   ">&nbsp;</td></tr><tr><td style=" width:196px;  height:15px;   ">&nbsp;</td><td colspan="2" style=" width:246px;  height:15px;   "><s><b>HOMENS</b></s></td><td style=" width:149px;  height:15px;   ">&nbsp;</td></tr><tr><td style=" width:196px;  height:31px;   "><s><b>Área Total do Salão de Refeições</b></s></td><td style=" width:113px;  height:31px;   "><s><b>Lavatório</b></s></td><td style=" width:132px;  height:31px;   "><s><b>V. Sanitário</b></s></td><td style=" width:149px;  height:31px;   "><s><b>Mictórios</b></s></td></tr><tr><td style=" width:196px;  height:39px;   "><s><b>Até 50 m2</b></s></td><td style=" width:113px;  height:39px;   "><s><b>1</b></s></td><td style=" width:132px;  height:39px;   "><s><b>1</b></s></td><td style=" width:149px;  height:39px;   "><s><b>-</b></s></td></tr><tr><td style=" width:196px;  height:23px;   "><s><b>de</b><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50 a 119&nbsp;&nbsp;&nbsp; m2</b></s></td><td style=" width:113px;  height:23px;   "><s><b>2</b></s></td><td style=" width:132px;  height:23px;   "><s><b>2</b></s></td><td style=" width:149px;  height:23px;   "><s><b>1</b></s></td></tr><tr><td style=" width:196px;  height:15px;   "><s><b>de 120 a 249&nbsp;&nbsp;&nbsp; m2</b></s></td><td style=" width:113px;  height:15px;   "><s><b>3</b></s></td><td style=" width:132px;  height:15px;   "><s><b>3</b></s></td><td style=" width:149px;  height:15px;   "><s><b>2</b></s></td></tr><tr><td style=" width:196px;  height:15px;   "><s><b>de 250 a 449&nbsp;&nbsp;&nbsp; m2</b></s></td><td style=" width:113px;  height:15px;   "><s><b>4</b></s></td><td style=" width:132px;  height:15px;   "><s><b>4</b></s></td><td style=" width:149px;  height:15px;   "><s><b>3</b></s></td></tr><tr><td style=" width:196px;  height:15px;   "><s><b>de 500 a 999&nbsp;&nbsp;&nbsp; m2</b></s></td><td style=" width:113px;  height:15px;   "><s><b>6</b></s></td><td style=" width:132px;  height:15px;   "><s><b>6</b></s></td><td style=" width:149px;  height:15px;   "><s><b>4</b></s></td></tr><tr><td style=" width:196px;  height:15px;   "><s><b>de 1000 a 1999 m2</b></s></td><td style=" width:113px;  height:15px;   "><s><b>8</b></s></td><td style=" width:132px;  height:15px;   "><s><b>8</b></s></td><td style=" width:149px;  height:15px;   "><s><b>5</b></s></td></tr><tr><td style=" width:196px;  height:46px;   "><s><b>de 2000 a 3000 m2</b></s></td><td style=" width:113px;  height:46px;   "><s><b>10</b></s></td><td style=" width:132px;  height:46px;   "><s><b>10</b></s></td><td style=" width:149px;  height:46px;   "><s><b>6</b></s></td></tr><tr><td style=" width:196px;  height:46px;   "><s><b>Acima de 3000 m2 *</b></s></td><td style=" width:113px;  height:46px;   "><s><b>1/300 m2</b> <b>ou </b><b>fração</b></s></td><td style=" width:132px;  height:46px;   "><s><b>1/300 m2</b> <b>ou </b><b>fração</b></s></td><td style=" width:149px;  height:46px;   "><s><b>1/500 m2</b> <b>ou </b><b>fração</b></s></td></tr><tr><td colspan="4" style=" width:590px;  height:46px;   "><s><b>* Acresce uma peça para cada 300 - 500 m2 ou fração.</b> &nbsp;</s></td></tr></tbody></table>
+<table><tbody><tr><td colspan="3"><s>**INSTALAÇÕES SANITÁRIAS PARA PÚBLICO EM RESTAURANTESInstalações Mínimas Necessárias**</s></td><td><s>**ANEXO VI**</s></td></tr><tr><td>&nbsp;</td><td colspan="2"><s>**MULHERES**</s></td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td colspan="2"><s>**HOMENS**</s></td><td>&nbsp;</td></tr><tr><td><s>**Área Total do Salão de Refeições**</s></td><td><s>**Lavatório**</s></td><td><s>**V. Sanitário**</s></td><td><s>**Mictórios**</s></td></tr><tr><td><s>**Até 50 m2**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**-**</s></td></tr><tr><td><s>**de&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50 a 119&nbsp;&nbsp;&nbsp; m2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**1**</s></td></tr><tr><td><s>**de 120 a 249&nbsp;&nbsp;&nbsp; m2**</s></td><td><s>**3**</s></td><td><s>**3**</s></td><td><s>**2**</s></td></tr><tr><td><s>**de 250 a 449&nbsp;&nbsp;&nbsp; m2**</s></td><td><s>**4**</s></td><td><s>**4**</s></td><td><s>**3**</s></td></tr><tr><td><s>**de 500 a 999&nbsp;&nbsp;&nbsp; m2**</s></td><td><s>**6**</s></td><td><s>**6**</s></td><td><s>**4**</s></td></tr><tr><td><s>**de 1000 a 1999 m2**</s></td><td><s>**8**</s></td><td><s>**8**</s></td><td><s>**5**</s></td></tr><tr><td><s>**de 2000 a 3000 m2**</s></td><td><s>**10**</s></td><td><s>**10**</s></td><td><s>**6**</s></td></tr><tr><td><s>**Acima de 3000 m2 ***</s></td><td><s>**1/300 m2ou fração**</s></td><td><s>**1/300 m2ou fração**</s></td><td><s>**1/500 m2ou fração**</s></td></tr><tr><td colspan="4"><s>*** Acresce uma peça para cada 300 - 500 m2 ou fração.** &nbsp;</s></td></tr></tbody></table>
 
 ~~ANEXO VII~~
 
-<table><tbody><tr><td colspan="4" style=" width:470px;  height:46px;   "><s><b>INSTALAÇÕES SANITÁRIAS PARA EMPREGADOS EM RESTAURANTES</b> <b>Instalações Mínimas Obrigatórias</b></s></td><td style=" width:120px;  height:46px;   "><s><b>ANEXO VII</b></s></td></tr><tr><td style=" width:130px;  height:46px;   "><s><b>Área Total do Salão de Refeições</b></s></td><td style=" width:115px;  height:46px;   "><s><b>Lavatórios</b></s></td><td style=" width:115px;  height:46px;   "><s><b>V. Sanitário</b></s></td><td style=" width:110px;  height:46px;   "><s><b>Mictório</b></s></td><td style=" width:120px;  height:46px;   "><s><b>Chuveiro</b></s></td></tr><tr><td style=" width:130px;  height:39px;   "><s><b>Até</b><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; m2</b></s></td><td style=" width:115px;  height:39px;   "><s><b>1</b></s></td><td style=" width:115px;  height:39px;   "><s><b>1</b></s></td><td style=" width:110px;  height:39px;   "><s><b>-</b></s></td><td style=" width:120px;  height:39px;   "><s><b>-</b></s></td></tr><tr><td style=" width:130px;  height:23px;   "><s><b>de&nbsp; 50 a&nbsp;&nbsp;&nbsp;&nbsp; 119 m2</b></s></td><td style=" width:115px;  height:23px;   "><s><b>1</b></s></td><td style=" width:115px;  height:23px;   "><s><b>1</b></s></td><td style=" width:110px;  height:23px;   "><s><b>1</b></s></td><td style=" width:120px;  height:23px;   "><s><b>1</b></s></td></tr><tr><td style=" width:130px;  height:15px;   "><s><b>de 120 a&nbsp;&nbsp;&nbsp;&nbsp; 249 m2</b></s></td><td style=" width:115px;  height:15px;   "><s><b>2</b></s></td><td style=" width:115px;  height:15px;   "><s><b>2</b></s></td><td style=" width:110px;  height:15px;   "><s><b>1</b></s></td><td style=" width:120px;  height:15px;   "><s><b>1</b></s></td></tr><tr><td style=" width:130px;  height:15px;   "><s><b>de 250 a 499 m2</b></s></td><td style=" width:115px;  height:15px;   "><s><b>2</b></s></td><td style=" width:115px;  height:15px;   "><s><b>2</b></s></td><td style=" width:110px;  height:15px;   "><s><b>2</b></s></td><td style=" width:120px;  height:15px;   "><s><b>2</b></s></td></tr><tr><td style=" width:130px;  height:15px;   "><s><b>de 500 a 999 m2</b></s></td><td style=" width:115px;  height:15px;   "><s><b>3</b></s></td><td style=" width:115px;  height:15px;   "><s><b>3</b></s></td><td style=" width:110px;  height:15px;   "><s><b>3</b></s></td><td style=" width:120px;  height:15px;   "><s><b>3</b></s></td></tr><tr><td style=" width:130px;  height:15px;   "><s><b>de 1000 a 1999 m2</b></s></td><td style=" width:115px;  height:15px;   "><s><b>4</b></s></td><td style=" width:115px;  height:15px;   "><s><b>4</b></s></td><td style=" width:110px;  height:15px;   "><s><b>4</b></s></td><td style=" width:120px;  height:15px;   "><s><b>4</b></s></td></tr><tr><td style=" width:130px;  height:46px;   "><s><b>de 2000 a 3000 m2</b></s></td><td style=" width:115px;  height:46px;   "><s><b>6</b></s></td><td style=" width:115px;  height:46px;   "><s><b>6</b></s></td><td style=" width:110px;  height:46px;   "><s><b>5</b></s></td><td style=" width:120px;  height:46px;   "><s><b>5</b></s></td></tr><tr><td style=" width:130px;  height:46px;   "><s>&nbsp; <b>Acima de 3000 m2</b></s></td><td style=" width:115px;  height:46px;   "><s><b>1/500 m2</b> <b>ou </b><b>fração</b></s></td><td style=" width:115px;  height:46px;   "><s><b>1/5000 m2</b> <b>ou </b><b>fração</b></s></td><td style=" width:110px;  height:46px;   "><s><b>1/500 m2</b> <b>ou </b><b>fração</b></s></td><td style=" width:120px;  height:46px;   "><s><b>1/500 m2</b> <b>ou </b><b>fração</b></s></td></tr><tr><td colspan="5" style=" width:591px;  height:46px;   "><s><b>* Acresce uma peça para cada 500 - 600 m2 ou fração.</b> &nbsp;</s></td></tr></tbody></table>
+<table><tbody><tr><td colspan="4"><s>**INSTALAÇÕES SANITÁRIAS PARA EMPREGADOS EM RESTAURANTESInstalações Mínimas Obrigatórias**</s></td><td><s>**ANEXO VII**</s></td></tr><tr><td><s>**Área Total do Salão de Refeições**</s></td><td><s>**Lavatórios**</s></td><td><s>**V. Sanitário**</s></td><td><s>**Mictório**</s></td><td><s>**Chuveiro**</s></td></tr><tr><td><s>**Até&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; m2**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**-**</s></td><td><s>**-**</s></td></tr><tr><td><s>**de&nbsp; 50 a&nbsp;&nbsp;&nbsp;&nbsp; 119 m2**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**1**</s></td></tr><tr><td><s>**de 120 a&nbsp;&nbsp;&nbsp;&nbsp; 249 m2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**1**</s></td><td><s>**1**</s></td></tr><tr><td><s>**de 250 a 499 m2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td></tr><tr><td><s>**de 500 a 999 m2**</s></td><td><s>**3**</s></td><td><s>**3**</s></td><td><s>**3**</s></td><td><s>**3**</s></td></tr><tr><td><s>**de 1000 a 1999 m2**</s></td><td><s>**4**</s></td><td><s>**4**</s></td><td><s>**4**</s></td><td><s>**4**</s></td></tr><tr><td><s>**de 2000 a 3000 m2**</s></td><td><s>**6**</s></td><td><s>**6**</s></td><td><s>**5**</s></td><td><s>**5**</s></td></tr><tr><td><s>&nbsp; **Acima de 3000 m2**</s></td><td><s>**1/500 m2ou fração**</s></td><td><s>**1/5000 m2ou fração**</s></td><td><s>**1/500 m2ou fração**</s></td><td><s>**1/500 m2ou fração**</s></td></tr><tr><td colspan="5"><s>*** Acresce uma peça para cada 500 - 600 m2 ou fração.** &nbsp;</s></td></tr></tbody></table>
 
 ~~ANEXO VIII~~
 
-<table><tbody><tr><td colspan="4" style=" width:470px;  height:31px;   "><s><b>INSTALAÇÃO SANITÁRIA EM MERCADOS</b> <b>Para cada 20 bancas ou boxes, ou fração</b></s></td><td style=" width:120px;  height:31px;   "><s><b>ANEXO VIII</b></s></td></tr><tr><td style=" width:130px;  height:15px;   "><s><b>Separação por sexo</b></s></td><td style=" width:115px;  height:15px;   "><s><b>V. Sanitário</b></s></td><td style=" width:115px;  height:15px;   "><s><b>Chuveiro</b></s></td><td style=" width:110px;  height:15px;   "><s><b>Lavatório</b></s></td><td style=" width:120px;  height:15px;   "><s><b>Mictório</b></s></td></tr><tr><td style=" width:130px;  height:77px;   "><s>&nbsp; &nbsp; <b>Masculino</b></s></td><td style=" width:115px;  height:77px;   "><s>&nbsp; &nbsp; <b>1</b></s></td><td style=" width:115px;  height:77px;   "><s>&nbsp; &nbsp; <b>1</b></s></td><td style=" width:110px;  height:77px;   "><s>&nbsp; &nbsp; <b>1</b></s></td><td style=" width:120px;  height:77px;   "><s>&nbsp; &nbsp; <b>1</b></s></td></tr><tr><td style=" width:130px;  height:77px;   "><s>&nbsp; <b>Feminino</b></s></td><td style=" width:115px;  height:77px;   "><s>&nbsp; <b>2</b></s></td><td style=" width:115px;  height:77px;   "><s>&nbsp; <b>1</b></s></td><td style=" width:110px;  height:77px;   "><s>&nbsp; <b>1</b></s></td><td style=" width:120px;  height:77px;   "><s>&nbsp; <b>-</b></s></td></tr></tbody></table>
+<table><tbody><tr><td colspan="4"><s>**INSTALAÇÃO SANITÁRIA EM MERCADOSPara cada 20 bancas ou boxes, ou fração**</s></td><td><s>**ANEXO VIII**</s></td></tr><tr><td><s>**Separação por sexo**</s></td><td><s>**V. Sanitário**</s></td><td><s>**Chuveiro**</s></td><td><s>**Lavatório**</s></td><td><s>**Mictório**</s></td></tr><tr><td><s>&nbsp; &nbsp; **Masculino**</s></td><td><s>&nbsp; &nbsp; **1**</s></td><td><s>&nbsp; &nbsp; **1**</s></td><td><s>&nbsp; &nbsp; **1**</s></td><td><s>&nbsp; &nbsp; **1**</s></td></tr><tr><td><s>&nbsp; **Feminino**</s></td><td><s>&nbsp; **2**</s></td><td><s>&nbsp; **1**</s></td><td><s>&nbsp; **1**</s></td><td><s>&nbsp; **-**</s></td></tr></tbody></table>
 
 ~~ANEXO IX~~
 
-<table><tbody><tr><td colspan="7" style=" width:480px;  height:46px;   "><s><b>INSTALAÇÕES SANITÁRIAS PARA PÚBLICO E EMPREGADOS EM RESTAURANTES DE SAÚDE</b> <b>Instalações Mínimas Obrigatórias</b></s></td><td colspan="2" style=" width:111px;  height:46px;   "><s><b>ANEXO IX</b></s></td></tr><tr><td style=" width:149px;  height:15px;   ">&nbsp;</td><td colspan="5" style=" width:274px;  height:15px;   "><s><b>EMPREGADOS</b></s></td><td colspan="3" style=" width:168px;  height:15px;   "><s><b>PÚBLICO</b></s></td></tr><tr><td style=" width:149px;  height:77px;   "><s><b>Total</b><b>&nbsp;&nbsp;&nbsp;&nbsp; da&nbsp;&nbsp;&nbsp;&nbsp; Área&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; do Andar</b> <b>Mais</b><b>&nbsp;&nbsp;&nbsp;&nbsp; dos&nbsp;&nbsp;&nbsp;&nbsp; Eventuais andares</b> <b>Contíguos</b><b>&nbsp;&nbsp;&nbsp;&nbsp; Servidos</b></s></td><td style=" width:57px;  height:77px;   "><s>&nbsp; <b>Lav.</b></s></td><td colspan="2" style=" width:81px;  height:77px;   "><s>&nbsp; <b>Vasos</b></s></td><td style=" width:61px;  height:77px;   "><s>&nbsp; <b>Mict.</b></s></td><td style=" width:76px;  height:77px;   "><s>&nbsp; <b>Chuveiro</b></s></td><td style=" width:57px;  height:77px;   "><s>&nbsp; <b>Lavat</b></s></td><td style=" width:57px;  height:77px;   "><s>&nbsp; <b>V.San</b></s></td><td style=" width:54px;  height:77px;   "><s>&nbsp; <b>Mict</b></s></td></tr><tr><td style=" width:149px;  height:39px;   "><s><b>Até</b><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; m2</b></s></td><td style=" width:57px;  height:39px;   "><s><b>1</b></s></td><td style=" width:76px;  height:39px;   "><s><b>1</b></s></td><td colspan="2" style=" width:66px;  height:39px;   "><s><b>-</b></s></td><td style=" width:76px;  height:39px;   "><s><b>-</b></s></td><td style=" width:57px;  height:39px;   "><s><b>-</b></s></td><td style=" width:57px;  height:39px;   "><s><b>-</b></s></td><td style=" width:54px;  height:39px;   "><s><b>-</b></s></td></tr><tr><td style=" width:149px;  height:23px;   "><s><b>de&nbsp; 50 a 119 m2</b></s></td><td style=" width:57px;  height:23px;   "><s><b>1</b></s></td><td style=" width:76px;  height:23px;   "><s><b>1</b></s></td><td colspan="2" style=" width:66px;  height:23px;   "><s><b>1</b></s></td><td style=" width:76px;  height:23px;   "><s><b>1</b></s></td><td style=" width:57px;  height:23px;   "><s><b>-</b></s></td><td style=" width:57px;  height:23px;   "><s><b>-</b></s></td><td style=" width:54px;  height:23px;   "><s><b>-</b></s></td></tr><tr><td style=" width:149px;  height:15px;   "><s><b>de 120 a 249 m2</b></s></td><td style=" width:57px;  height:15px;   "><s><b>2</b></s></td><td style=" width:76px;  height:15px;   "><s><b>2</b></s></td><td colspan="2" style=" width:66px;  height:15px;   "><s><b>1</b></s></td><td style=" width:76px;  height:15px;   "><s><b>1</b></s></td><td style=" width:57px;  height:15px;   "><s><b>-</b></s></td><td style=" width:57px;  height:15px;   "><s><b>-</b></s></td><td style=" width:54px;  height:15px;   "><s><b>-</b></s></td></tr><tr><td style=" width:149px;  height:15px;   "><s><b>de 250 a 499 m2</b></s></td><td style=" width:57px;  height:15px;   "><s><b>2</b></s></td><td style=" width:76px;  height:15px;   "><s><b>2</b></s></td><td colspan="2" style=" width:66px;  height:15px;   "><s><b>2</b></s></td><td style=" width:76px;  height:15px;   "><s><b>2</b></s></td><td style=" width:57px;  height:15px;   "><s><b>1</b></s></td><td style=" width:57px;  height:15px;   "><s><b>1</b></s></td><td style=" width:54px;  height:15px;   "><s><b>1</b></s></td></tr><tr><td style=" width:149px;  height:15px;   "><s><b>de 500 a 999 m2</b></s></td><td style=" width:57px;  height:15px;   "><s><b>3</b></s></td><td style=" width:76px;  height:15px;   "><s><b>3</b></s></td><td colspan="2" style=" width:66px;  height:15px;   "><s><b>3</b></s></td><td style=" width:76px;  height:15px;   "><s><b>3</b></s></td><td style=" width:57px;  height:15px;   "><s><b>2</b></s></td><td style=" width:57px;  height:15px;   "><s><b>2</b></s></td><td style=" width:54px;  height:15px;   "><s><b>2</b></s></td></tr><tr><td style=" width:149px;  height:15px;   "><s><b>de 100 a 1999 m2</b></s></td><td style=" width:57px;  height:15px;   "><s><b>4</b></s></td><td style=" width:76px;  height:15px;   "><s><b>4</b></s></td><td colspan="2" style=" width:66px;  height:15px;   "><s><b>4</b></s></td><td style=" width:76px;  height:15px;   "><s><b>4</b></s></td><td style=" width:57px;  height:15px;   "><s><b>3</b></s></td><td style=" width:57px;  height:15px;   "><s><b>3</b></s></td><td style=" width:54px;  height:15px;   "><s><b>2</b></s></td></tr><tr><td style=" width:149px;  height:46px;   "><s><b>de 2000 a 3000 m2</b></s></td><td style=" width:57px;  height:46px;   "><s><b>6</b></s></td><td style=" width:76px;  height:46px;   "><s><b>6</b></s></td><td colspan="2" style=" width:66px;  height:46px;   "><s><b>5</b></s></td><td style=" width:76px;  height:46px;   "><s><b>5</b></s></td><td style=" width:57px;  height:46px;   "><s><b>4</b></s></td><td style=" width:57px;  height:46px;   "><s><b>4</b></s></td><td style=" width:54px;  height:46px;   "><s><b>3</b></s></td></tr><tr><td style=" width:149px;  height:61px;   "><s>&nbsp; <b>Acima de 3000 m2</b></s></td><td style=" width:57px;  height:61px;   "><s><b>1/500</b> <b>m2 ou fração</b></s></td><td style=" width:76px;  height:61px;   "><s><b>1/600m2</b> <b>ou </b><b>fração</b></s></td><td colspan="2" style=" width:66px;  height:61px;   "><s><b>1/600m2</b> <b>ou </b><b>fração</b></s></td><td style=" width:76px;  height:61px;   "><s><b>1/600m2</b> <b>ou </b><b>fração</b></s></td><td style=" width:57px;  height:61px;   "><s><b>1/750m </b><b>2 ou fração</b></s></td><td style=" width:57px;  height:61px;   "><s><b>1/750</b> <b>m2 ou fração</b></s></td><td style=" width:54px;  height:61px;   "><s><b>1/100</b> <b>ou </b><b>fração</b></s></td></tr><tr><td colspan="9" style=" width:591px;  height:61px;   "><s><b>* Acresce uma peça para cada 500 - 600 - 750 -1000 m2 ou fração.</b> &nbsp;</s></td></tr></tbody></table>
+<table><tbody><tr><td colspan="7"><s>**INSTALAÇÕES SANITÁRIAS PARA PÚBLICO E EMPREGADOS EM RESTAURANTES DE SAÚDEInstalações Mínimas Obrigatórias**</s></td><td colspan="2"><s>**ANEXO IX**</s></td></tr><tr><td>&nbsp;</td><td colspan="5"><s>**EMPREGADOS**</s></td><td colspan="3"><s>**PÚBLICO**</s></td></tr><tr><td><s>**Total&nbsp;&nbsp;&nbsp;&nbsp; da&nbsp;&nbsp;&nbsp;&nbsp; Área&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; do AndarMais&nbsp;&nbsp;&nbsp;&nbsp; dos&nbsp;&nbsp;&nbsp;&nbsp; Eventuais andaresContíguos&nbsp;&nbsp;&nbsp;&nbsp; Servidos**</s></td><td><s>&nbsp; **Lav.**</s></td><td colspan="2"><s>&nbsp; **Vasos**</s></td><td><s>&nbsp; **Mict.**</s></td><td><s>&nbsp; **Chuveiro**</s></td><td><s>&nbsp; **Lavat**</s></td><td><s>&nbsp; **V.San**</s></td><td><s>&nbsp; **Mict**</s></td></tr><tr><td><s>**Até&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; m2**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td colspan="2"><s>**-**</s></td><td><s>**-**</s></td><td><s>**-**</s></td><td><s>**-**</s></td><td><s>**-**</s></td></tr><tr><td><s>**de&nbsp; 50 a 119 m2**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td colspan="2"><s>**1**</s></td><td><s>**1**</s></td><td><s>**-**</s></td><td><s>**-**</s></td><td><s>**-**</s></td></tr><tr><td><s>**de 120 a 249 m2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td colspan="2"><s>**1**</s></td><td><s>**1**</s></td><td><s>**-**</s></td><td><s>**-**</s></td><td><s>**-**</s></td></tr><tr><td><s>**de 250 a 499 m2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td colspan="2"><s>**2**</s></td><td><s>**2**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**1**</s></td></tr><tr><td><s>**de 500 a 999 m2**</s></td><td><s>**3**</s></td><td><s>**3**</s></td><td colspan="2"><s>**3**</s></td><td><s>**3**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td></tr><tr><td><s>**de 100 a 1999 m2**</s></td><td><s>**4**</s></td><td><s>**4**</s></td><td colspan="2"><s>**4**</s></td><td><s>**4**</s></td><td><s>**3**</s></td><td><s>**3**</s></td><td><s>**2**</s></td></tr><tr><td><s>**de 2000 a 3000 m2**</s></td><td><s>**6**</s></td><td><s>**6**</s></td><td colspan="2"><s>**5**</s></td><td><s>**5**</s></td><td><s>**4**</s></td><td><s>**4**</s></td><td><s>**3**</s></td></tr><tr><td><s>&nbsp; **Acima de 3000 m2**</s></td><td><s>**1/500m2 ou fração**</s></td><td><s>**1/600m2ou fração**</s></td><td colspan="2"><s>**1/600m2ou fração**</s></td><td><s>**1/600m2ou fração**</s></td><td><s>**1/750m 2 ou fração**</s></td><td><s>**1/750m2 ou fração**</s></td><td><s>**1/100ou fração**</s></td></tr><tr><td colspan="9"><s>*** Acresce uma peça para cada 500 - 600 - 750 -1000 m2 ou fração.** &nbsp;</s></td></tr></tbody></table>
 
 ~~ANEXO X~~
 
-<table><tbody><tr><td colspan="7" style=" width:489px;  height:46px;   "><s><b>INSTALAÇÕES SANITÁRIAS PARA PÚBLICO E EMPREGADOS EM LOCAIS DE REUNIÃO</b> <b>Instalações Mínimas Obrigatórias</b></s></td><td colspan="2" style=" width:101px;  height:46px;   "><s><b>ANEXO X</b></s></td></tr><tr><td style=" width:158px;  height:61px;   "><s><b>Área total dos recintos e locais de reunião e do&nbsp; compartimentos&nbsp; de</b> <b>perm. Prolongada.</b></s></td><td colspan="3" style=" width:170px;  height:61px;   "><s>&nbsp; &nbsp; <b>EMPREGADOS</b></s></td><td colspan="5" style=" width:262px;  height:61px;   "><s>&nbsp; &nbsp; <b>PÚBLICO</b></s></td></tr><tr><td style=" width:158px;  height:31px;   ">&nbsp;</td><td style=" width:57px;  height:31px;   "><s><b>Lav.</b></s></td><td style=" width:57px;  height:31px;   "><s><b>V. San.</b></s></td><td style=" width:57px;  height:31px;   "><s><b>Mict.</b></s></td><td style=" width:57px;  height:31px;   "><s><b>Lav.</b></s></td><td style=" width:47px;  height:31px;   "><s><b>V.Sa</b> <b>n</b></s></td><td style=" width:57px;  height:31px;   "><s><b>Mic.</b></s></td><td style=" width:50px;  height:31px;   "><s><b>Lav.</b></s></td><td style=" width:50px;  height:31px;   "><s><b>V.San</b></s></td></tr><tr><td style=" width:158px;  height:38px;   "><s><b>Até</b><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 80&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; m2</b></s></td><td style=" width:57px;  height:38px;   "><s><b>1</b></s></td><td style=" width:57px;  height:38px;   "><s><b>1</b></s></td><td style=" width:57px;  height:38px;   "><s><b>-</b></s></td><td style=" width:57px;  height:38px;   "><s><b>-</b></s></td><td style=" width:47px;  height:38px;   "><s><b>-</b></s></td><td style=" width:57px;  height:38px;   "><s><b>-</b></s></td><td style=" width:50px;  height:38px;   "><s><b>-</b></s></td><td style=" width:50px;  height:38px;   "><s><b>-</b></s></td></tr><tr><td style=" width:158px;  height:23px;   "><s><b>de&nbsp; 80 a 119&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; m2</b></s></td><td style=" width:57px;  height:23px;   "><s><b>1</b></s></td><td style=" width:57px;  height:23px;   "><s><b>1</b></s></td><td style=" width:57px;  height:23px;   "><s><b>1</b></s></td><td style=" width:57px;  height:23px;   "><s><b>1</b></s></td><td style=" width:47px;  height:23px;   "><s><b>1</b></s></td><td style=" width:57px;  height:23px;   "><s><b>1</b></s></td><td style=" width:50px;  height:23px;   "><s><b>1</b></s></td><td style=" width:50px;  height:23px;   "><s><b>1</b></s></td></tr><tr><td style=" width:158px;  height:15px;   "><s><b>de 120 a 249&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; m2</b></s></td><td style=" width:57px;  height:15px;   "><s><b>2</b></s></td><td style=" width:57px;  height:15px;   "><s><b>2</b></s></td><td style=" width:57px;  height:15px;   "><s><b>1</b></s></td><td style=" width:57px;  height:15px;   "><s><b>1</b></s></td><td style=" width:47px;  height:15px;   "><s><b>1</b></s></td><td style=" width:57px;  height:15px;   "><s><b>1</b></s></td><td style=" width:50px;  height:15px;   "><s><b>1</b></s></td><td style=" width:50px;  height:15px;   "><s><b>1</b></s></td></tr><tr><td style=" width:158px;  height:15px;   "><s><b>de 250 a 499&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; m2</b></s></td><td style=" width:57px;  height:15px;   "><s><b>2</b></s></td><td style=" width:57px;  height:15px;   "><s><b>2</b></s></td><td style=" width:57px;  height:15px;   "><s><b>2</b></s></td><td style=" width:57px;  height:15px;   "><s><b>2</b></s></td><td style=" width:47px;  height:15px;   "><s><b>2</b></s></td><td style=" width:57px;  height:15px;   "><s><b>2</b></s></td><td style=" width:50px;  height:15px;   "><s><b>2</b></s></td><td style=" width:50px;  height:15px;   "><s><b>2</b></s></td></tr><tr><td style=" width:158px;  height:15px;   "><s><b>de 500 a 999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; m2</b></s></td><td style=" width:57px;  height:15px;   "><s><b>3</b></s></td><td style=" width:57px;  height:15px;   "><s><b>3</b></s></td><td style=" width:57px;  height:15px;   "><s><b>3</b></s></td><td style=" width:57px;  height:15px;   "><s><b>3</b></s></td><td style=" width:47px;  height:15px;   "><s><b>3</b></s></td><td style=" width:57px;  height:15px;   "><s><b>3</b></s></td><td style=" width:50px;  height:15px;   "><s><b>3</b></s></td><td style=" width:50px;  height:15px;   "><s><b>3</b></s></td></tr><tr><td style=" width:158px;  height:15px;   "><s><b>de 1000 a 1999&nbsp;&nbsp;&nbsp; m2</b></s></td><td style=" width:57px;  height:15px;   "><s><b>4</b></s></td><td style=" width:57px;  height:15px;   "><s><b>4</b></s></td><td style=" width:57px;  height:15px;   "><s><b>4</b></s></td><td style=" width:57px;  height:15px;   "><s><b>4</b></s></td><td style=" width:47px;  height:15px;   "><s><b>4</b></s></td><td style=" width:57px;  height:15px;   "><s><b>4</b></s></td><td style=" width:50px;  height:15px;   "><s><b>4</b></s></td><td style=" width:50px;  height:15px;   "><s><b>4</b></s></td></tr><tr><td style=" width:158px;  height:61px;   "><s><b>de 2000 a 3000&nbsp;&nbsp;&nbsp; m2</b></s></td><td style=" width:57px;  height:61px;   "><s><b>5</b></s></td><td style=" width:57px;  height:61px;   "><s><b>5</b></s></td><td style=" width:57px;  height:61px;   "><s><b>5</b></s></td><td style=" width:57px;  height:61px;   "><s><b>5</b></s></td><td style=" width:47px;  height:61px;   "><s><b>5</b></s></td><td style=" width:57px;  height:61px;   "><s><b>5</b></s></td><td style=" width:50px;  height:61px;   "><s><b>5</b></s></td><td style=" width:50px;  height:61px;   "><s><b>5</b></s></td></tr><tr><td style=" width:158px;  height:61px;   "><s>&nbsp; <b>Acima de 3000 m2 *</b></s></td><td style=" width:57px;  height:61px;   "><s><b>1/500m</b> <b>2</b> <b>ou </b><b>fração</b></s></td><td style=" width:57px;  height:61px;   "><s><b>1/500</b> <b>m2 ou fração</b></s></td><td style=" width:57px;  height:61px;   "><s><b>1/600m</b> <b>2</b> <b>fração</b></s></td><td style=" width:57px;  height:61px;   "><s><b>1/600</b> <b>m2ou </b><b>fração</b></s></td><td style=" width:47px;  height:61px;   "><s><b>1/600</b> <b>m2ou</b> <b>fra- </b><b>ção</b></s></td><td style=" width:57px;  height:61px;   "><s><b>1/600m </b><b>2ou </b><b>fração</b></s></td><td style=" width:50px;  height:61px;   "><s><b>1/600</b> <b>m2</b> <b>fra- </b><b>ção</b></s></td><td style=" width:50px;  height:61px;   "><s><b>1/600</b> <b>m2ou</b> <b>fra- </b><b>ção</b></s></td></tr><tr><td colspan="9" style=" width:590px;  height:61px;   "><s><b>* Acresce uma peça para cada 500 - 600 m2 ou fração.</b> &nbsp;</s></td></tr></tbody></table>
+<table><tbody><tr><td colspan="7"><s>**INSTALAÇÕES SANITÁRIAS PARA PÚBLICO E EMPREGADOS EM LOCAIS DE REUNIÃOInstalações Mínimas Obrigatórias**</s></td><td colspan="2"><s>**ANEXO X**</s></td></tr><tr><td><s>**Área total dos recintos e locais de reunião e do&nbsp; compartimentos&nbsp; deperm. Prolongada.**</s></td><td colspan="3"><s>&nbsp; &nbsp; **EMPREGADOS**</s></td><td colspan="5"><s>&nbsp; &nbsp; **PÚBLICO**</s></td></tr><tr><td>&nbsp;</td><td><s>**Lav.**</s></td><td><s>**V. San.**</s></td><td><s>**Mict.**</s></td><td><s>**Lav.**</s></td><td><s>**V.San**</s></td><td><s>**Mic.**</s></td><td><s>**Lav.**</s></td><td><s>**V.San**</s></td></tr><tr><td><s>**Até&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 80&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; m2**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**-**</s></td><td><s>**-**</s></td><td><s>**-**</s></td><td><s>**-**</s></td><td><s>**-**</s></td><td><s>**-**</s></td></tr><tr><td><s>**de&nbsp; 80 a 119&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; m2**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**1**</s></td></tr><tr><td><s>**de 120 a 249&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; m2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**1**</s></td></tr><tr><td><s>**de 250 a 499&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; m2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td></tr><tr><td><s>**de 500 a 999&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; m2**</s></td><td><s>**3**</s></td><td><s>**3**</s></td><td><s>**3**</s></td><td><s>**3**</s></td><td><s>**3**</s></td><td><s>**3**</s></td><td><s>**3**</s></td><td><s>**3**</s></td></tr><tr><td><s>**de 1000 a 1999&nbsp;&nbsp;&nbsp; m2**</s></td><td><s>**4**</s></td><td><s>**4**</s></td><td><s>**4**</s></td><td><s>**4**</s></td><td><s>**4**</s></td><td><s>**4**</s></td><td><s>**4**</s></td><td><s>**4**</s></td></tr><tr><td><s>**de 2000 a 3000&nbsp;&nbsp;&nbsp; m2**</s></td><td><s>**5**</s></td><td><s>**5**</s></td><td><s>**5**</s></td><td><s>**5**</s></td><td><s>**5**</s></td><td><s>**5**</s></td><td><s>**5**</s></td><td><s>**5**</s></td></tr><tr><td><s>&nbsp; **Acima de 3000 m2 ***</s></td><td><s>**1/500m2ou fração**</s></td><td><s>**1/500m2 ou fração**</s></td><td><s>**1/600m2fração**</s></td><td><s>**1/600m2ou fração**</s></td><td><s>**1/600m2oufra- ção**</s></td><td><s>**1/600m 2ou fração**</s></td><td><s>**1/600m2fra- ção**</s></td><td><s>**1/600m2oufra- ção**</s></td></tr><tr><td colspan="9"><s>*** Acresce uma peça para cada 500 - 600 m2 ou fração.** &nbsp;</s></td></tr></tbody></table>
 
 ~~ANEXO XI~~
 
-<table><tbody><tr><td colspan="4" style=" width:489px;  height:31px;   "><s><b>INSTALAÇÕES SANITÁRIAS PARA ATLETAS EM LOCAIS ESPORTIVOS</b> <b>Instalações Mínimas Obrigatórias</b></s></td><td style=" width:101px;  height:31px;   "><s><b>ANEXO XI</b></s></td></tr><tr><td style=" width:177px;  height:46px;   "><s><b>Área total dos recintos e dos compartimentos de</b> <b>permanência</b><b> </b><b>prolongada</b></s></td><td style=" width:103px;  height:46px;   "><s>&nbsp; <b>Lavatórios</b></s></td><td style=" width:103px;  height:46px;   "><s>&nbsp; <b>V. Sanitários</b></s></td><td style=" width:105px;  height:46px;   "><s>&nbsp; <b>Mictórios</b></s></td><td style=" width:101px;  height:46px;   "><s>&nbsp; <b>Chuveiros</b></s></td></tr><tr><td style=" width:177px;  height:38px;   "><s><b>Até 80 m2</b></s></td><td style=" width:103px;  height:38px;   "><s><b>-</b></s></td><td style=" width:103px;  height:38px;   "><s><b>-</b></s></td><td style=" width:105px;  height:38px;   "><s><b>-</b></s></td><td style=" width:101px;  height:38px;   "><s><b>-</b></s></td></tr><tr><td style=" width:177px;  height:23px;   "><s><b>de</b><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 80 a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 119m2</b></s></td><td style=" width:103px;  height:23px;   "><s><b>-</b></s></td><td style=" width:103px;  height:23px;   "><s><b>-</b></s></td><td style=" width:105px;  height:23px;   "><s><b>-</b></s></td><td style=" width:101px;  height:23px;   "><s><b>-</b></s></td></tr><tr><td style=" width:177px;  height:15px;   "><s><b>de 120 a&nbsp;&nbsp;&nbsp;&nbsp; 249m2</b></s></td><td style=" width:103px;  height:15px;   "><s><b>1</b></s></td><td style=" width:103px;  height:15px;   "><s><b>1</b></s></td><td style=" width:105px;  height:15px;   "><s><b>1</b></s></td><td style=" width:101px;  height:15px;   "><s><b>1</b></s></td></tr><tr><td style=" width:177px;  height:15px;   "><s><b>de 250 a&nbsp;&nbsp;&nbsp;&nbsp; 499m2</b></s></td><td style=" width:103px;  height:15px;   "><s><b>2</b></s></td><td style=" width:103px;  height:15px;   "><s><b>2</b></s></td><td style=" width:105px;  height:15px;   "><s><b>2</b></s></td><td style=" width:101px;  height:15px;   "><s><b>2</b></s></td></tr><tr><td style=" width:177px;  height:15px;   "><s><b>de 500 a&nbsp;&nbsp;&nbsp;&nbsp; 999m2</b></s></td><td style=" width:103px;  height:15px;   "><s><b>3</b></s></td><td style=" width:103px;  height:15px;   "><s><b>3</b></s></td><td style=" width:105px;  height:15px;   "><s><b>3</b></s></td><td style=" width:101px;  height:15px;   "><s><b>3</b></s></td></tr><tr><td style=" width:177px;  height:15px;   "><s><b>de 1000 a 1999m2</b></s></td><td style=" width:103px;  height:15px;   "><s><b>4</b></s></td><td style=" width:103px;  height:15px;   "><s><b>4</b></s></td><td style=" width:105px;  height:15px;   "><s><b>4</b></s></td><td style=" width:101px;  height:15px;   "><s><b>4</b></s></td></tr><tr><td style=" width:177px;  height:46px;   "><s><b>de 2000 a 3000m2</b></s></td><td style=" width:103px;  height:46px;   "><s><b>6</b></s></td><td style=" width:103px;  height:46px;   "><s><b>6</b></s></td><td style=" width:105px;  height:46px;   "><s><b>5</b></s></td><td style=" width:101px;  height:46px;   "><s><b>6</b></s></td></tr><tr><td style=" width:177px;  height:46px;   "><s>&nbsp; <b>Acima de 3000 m2 *</b></s></td><td style=" width:103px;  height:46px;   "><s><b>1/500m2</b> <b>ou </b><b>fração</b></s></td><td style=" width:103px;  height:46px;   "><s><b>1/500m2</b> <b>ou </b><b>fração</b></s></td><td style=" width:105px;  height:46px;   "><s><b>1/600m2</b> <b>ou </b><b>fração</b></s></td><td style=" width:101px;  height:46px;   "><s><b>1/500m2</b> <b>ou </b><b>fração</b></s></td></tr><tr><td colspan="5" style=" width:590px;  height:46px;   "><s>&nbsp; &nbsp; <b>* Acresce um peça para cada 500 -600 m2 ou fração.</b> &nbsp;</s></td></tr></tbody></table>
+<table><tbody><tr><td colspan="4"><s>**INSTALAÇÕES SANITÁRIAS PARA ATLETAS EM LOCAIS ESPORTIVOSInstalações Mínimas Obrigatórias**</s></td><td><s>**ANEXO XI**</s></td></tr><tr><td><s>**Área total dos recintos e dos compartimentos depermanência prolongada**</s></td><td><s>&nbsp; **Lavatórios**</s></td><td><s>&nbsp; **V. Sanitários**</s></td><td><s>&nbsp; **Mictórios**</s></td><td><s>&nbsp; **Chuveiros**</s></td></tr><tr><td><s>**Até 80 m2**</s></td><td><s>**-**</s></td><td><s>**-**</s></td><td><s>**-**</s></td><td><s>**-**</s></td></tr><tr><td><s>**de&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 80 a&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 119m2**</s></td><td><s>**-**</s></td><td><s>**-**</s></td><td><s>**-**</s></td><td><s>**-**</s></td></tr><tr><td><s>**de 120 a&nbsp;&nbsp;&nbsp;&nbsp; 249m2**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**1**</s></td></tr><tr><td><s>**de 250 a&nbsp;&nbsp;&nbsp;&nbsp; 499m2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td></tr><tr><td><s>**de 500 a&nbsp;&nbsp;&nbsp;&nbsp; 999m2**</s></td><td><s>**3**</s></td><td><s>**3**</s></td><td><s>**3**</s></td><td><s>**3**</s></td></tr><tr><td><s>**de 1000 a 1999m2**</s></td><td><s>**4**</s></td><td><s>**4**</s></td><td><s>**4**</s></td><td><s>**4**</s></td></tr><tr><td><s>**de 2000 a 3000m2**</s></td><td><s>**6**</s></td><td><s>**6**</s></td><td><s>**5**</s></td><td><s>**6**</s></td></tr><tr><td><s>&nbsp; **Acima de 3000 m2 ***</s></td><td><s>**1/500m2ou fração**</s></td><td><s>**1/500m2ou fração**</s></td><td><s>**1/600m2ou fração**</s></td><td><s>**1/500m2ou fração**</s></td></tr><tr><td colspan="5"><s>&nbsp; &nbsp; *** Acresce um peça para cada 500 -600 m2 ou fração.** &nbsp;</s></td></tr></tbody></table>
 
 ~~ANEXO XII~~
 
-<table><tbody><tr><td colspan="7" style=" width:477px;  height:46px;   "><s><b>INSTALAÇÕES SANITÁRIAS PARA ALUNOS E EMPREGADOS EM ESTABELECIMENTOS DE ENSINO</b> <b>Instalações Mínimas Obrigatórias</b></s></td><td colspan="2" style=" width:113px;  height:46px;   "><s><b>ANEXO XII</b></s></td></tr><tr><td style=" width:140px;  height:61px;   "><s><b>Total da área do andar mais dos</b> <b>eventuais andares contíguos servidos.</b></s></td><td colspan="4" style=" width:225px;  height:61px;   "><s>&nbsp; <b>ALUNOS</b></s></td><td colspan="4" style=" width:225px;  height:61px;   "><s>&nbsp; <b>EMPREGADOS</b></s></td></tr><tr><td style=" width:140px;  height:15px;   ">&nbsp;</td><td style=" width:56px;  height:15px;   "><s><b>Lav.</b></s></td><td style=" width:56px;  height:15px;   "><s><b>V. San.</b></s></td><td style=" width:56px;  height:15px;   "><s><b>Mict.</b></s></td><td style=" width:56px;  height:15px;   "><s><b>Chuv.</b></s></td><td style=" width:56px;  height:15px;   "><s><b>Lav.</b></s></td><td style=" width:56px;  height:15px;   "><s><b>V. San.</b></s></td><td style=" width:56px;  height:15px;   "><s><b>Mict.</b></s></td><td style=" width:56px;  height:15px;   "><s><b>Chuv.</b></s></td></tr><tr><td style=" width:140px;  height:38px;   "><s><b>Até</b><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50 m2</b></s></td><td style=" width:56px;  height:38px;   "><s><b>1</b></s></td><td style=" width:56px;  height:38px;   "><s><b>1</b></s></td><td style=" width:56px;  height:38px;   "><s><b>-</b></s></td><td style=" width:56px;  height:38px;   "><s><b>-</b></s></td><td style=" width:56px;  height:38px;   "><s><b>1</b></s></td><td style=" width:56px;  height:38px;   "><s><b>1</b></s></td><td style=" width:56px;  height:38px;   "><s><b>-</b></s></td><td style=" width:56px;  height:38px;   "><s><b>-</b></s></td></tr><tr><td style=" width:140px;  height:23px;   "><s><b>de</b><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50 a&nbsp;&nbsp;&nbsp;&nbsp; 119 m2</b></s></td><td style=" width:56px;  height:23px;   "><s><b>2</b></s></td><td style=" width:56px;  height:23px;   "><s><b>2</b></s></td><td style=" width:56px;  height:23px;   "><s><b>1</b></s></td><td style=" width:56px;  height:23px;   "><s><b>1</b></s></td><td style=" width:56px;  height:23px;   "><s><b>1</b></s></td><td style=" width:56px;  height:23px;   "><s><b>1</b></s></td><td style=" width:56px;  height:23px;   "><s><b>1</b></s></td><td style=" width:56px;  height:23px;   "><s><b>1</b></s></td></tr><tr><td style=" width:140px;  height:15px;   "><s><b>de 120 a&nbsp;&nbsp;&nbsp;&nbsp; 249 m2</b></s></td><td style=" width:56px;  height:15px;   "><s><b>2</b></s></td><td style=" width:56px;  height:15px;   "><s><b>2</b></s></td><td style=" width:56px;  height:15px;   "><s><b>2</b></s></td><td style=" width:56px;  height:15px;   "><s><b>2</b></s></td><td style=" width:56px;  height:15px;   "><s><b>2</b></s></td><td style=" width:56px;  height:15px;   "><s><b>2</b></s></td><td style=" width:56px;  height:15px;   "><s><b>1</b></s></td><td style=" width:56px;  height:15px;   "><s><b>1</b></s></td></tr><tr><td style=" width:140px;  height:15px;   "><s><b>de 250 a&nbsp;&nbsp;&nbsp;&nbsp; 499 m2</b></s></td><td style=" width:56px;  height:15px;   "><s><b>3</b></s></td><td style=" width:56px;  height:15px;   "><s><b>3</b></s></td><td style=" width:56px;  height:15px;   "><s><b>3</b></s></td><td style=" width:56px;  height:15px;   "><s><b>4</b></s></td><td style=" width:56px;  height:15px;   "><s><b>2</b></s></td><td style=" width:56px;  height:15px;   "><s><b>2</b></s></td><td style=" width:56px;  height:15px;   "><s><b>2</b></s></td><td style=" width:56px;  height:15px;   "><s><b>2</b></s></td></tr><tr><td style=" width:140px;  height:15px;   "><s><b>de 500 a&nbsp;&nbsp;&nbsp;&nbsp; 999 m2</b></s></td><td style=" width:56px;  height:15px;   "><s><b>4</b></s></td><td style=" width:56px;  height:15px;   "><s><b>4</b></s></td><td style=" width:56px;  height:15px;   "><s><b>4</b></s></td><td style=" width:56px;  height:15px;   "><s><b>6</b></s></td><td style=" width:56px;  height:15px;   "><s><b>3</b></s></td><td style=" width:56px;  height:15px;   "><s><b>3</b></s></td><td style=" width:56px;  height:15px;   "><s><b>3</b></s></td><td style=" width:56px;  height:15px;   "><s><b>3</b></s></td></tr><tr><td style=" width:140px;  height:15px;   "><s><b>de 1000 a 1999&nbsp;&nbsp;&nbsp; m2</b></s></td><td style=" width:56px;  height:15px;   "><s><b>6</b></s></td><td style=" width:56px;  height:15px;   "><s><b>6</b></s></td><td style=" width:56px;  height:15px;   "><s><b>5</b></s></td><td style=" width:56px;  height:15px;   "><s><b>8</b></s></td><td style=" width:56px;  height:15px;   "><s><b>4</b></s></td><td style=" width:56px;  height:15px;   "><s><b>4</b></s></td><td style=" width:56px;  height:15px;   "><s><b>4</b></s></td><td style=" width:56px;  height:15px;   "><s><b>4</b></s></td></tr><tr><td style=" width:140px;  height:46px;   "><s><b>de 2000 a 3000&nbsp;&nbsp;&nbsp; m2</b></s></td><td style=" width:56px;  height:46px;   "><s><b>8</b></s></td><td style=" width:56px;  height:46px;   "><s><b>8</b></s></td><td style=" width:56px;  height:46px;   "><s><b>6</b></s></td><td style=" width:56px;  height:46px;   "><s><b>10</b></s></td><td style=" width:56px;  height:46px;   "><s><b>6</b></s></td><td style=" width:56px;  height:46px;   "><s><b>6</b></s></td><td style=" width:56px;  height:46px;   "><s><b>5</b></s></td><td style=" width:56px;  height:46px;   "><s><b>5</b></s></td></tr><tr><td style=" width:140px;  height:46px;   "><s><b>Acima de 3000 m2 *</b></s></td><td style=" width:56px;  height:46px;   "><s><b>1/375</b> <b>m2 ou fração</b></s></td><td style=" width:56px;  height:46px;   "><s><b>1/375</b> <b>m2 ou fração</b></s></td><td style=" width:56px;  height:46px;   "><s><b>1/500</b> <b>m2 ou fração</b></s></td><td style=" width:56px;  height:46px;   "><s><b>1/300</b> <b>m2 ou fração</b></s></td><td style=" width:56px;  height:46px;   "><s><b>1/500</b> <b>m2 ou fração</b></s></td><td style=" width:56px;  height:46px;   "><s><b>1/500</b> <b>m2 ou fração</b></s></td><td style=" width:56px;  height:46px;   "><s><b>1/600</b> <b>m2 ou fração</b></s></td><td style=" width:56px;  height:46px;   "><s><b>1/600</b> <b>m2 ou fração</b></s></td></tr><tr><td colspan="9" style=" width:590px;  height:46px;   "><s><b>Acresce uma peça para cada 300 - 375 - 500 - 600 m2 ou fração.</b> &nbsp;</s></td></tr></tbody></table>
+<table><tbody><tr><td colspan="7"><s>**INSTALAÇÕES SANITÁRIAS PARA ALUNOS E EMPREGADOS EM ESTABELECIMENTOS DE ENSINOInstalações Mínimas Obrigatórias**</s></td><td colspan="2"><s>**ANEXO XII**</s></td></tr><tr><td><s>**Total da área do andar mais doseventuais andares contíguos servidos.**</s></td><td colspan="4"><s>&nbsp; **ALUNOS**</s></td><td colspan="4"><s>&nbsp; **EMPREGADOS**</s></td></tr><tr><td>&nbsp;</td><td><s>**Lav.**</s></td><td><s>**V. San.**</s></td><td><s>**Mict.**</s></td><td><s>**Chuv.**</s></td><td><s>**Lav.**</s></td><td><s>**V. San.**</s></td><td><s>**Mict.**</s></td><td><s>**Chuv.**</s></td></tr><tr><td><s>**Até&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50 m2**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**-**</s></td><td><s>**-**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**-**</s></td><td><s>**-**</s></td></tr><tr><td><s>**de&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 50 a&nbsp;&nbsp;&nbsp;&nbsp; 119 m2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**1**</s></td></tr><tr><td><s>**de 120 a&nbsp;&nbsp;&nbsp;&nbsp; 249 m2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**1**</s></td><td><s>**1**</s></td></tr><tr><td><s>**de 250 a&nbsp;&nbsp;&nbsp;&nbsp; 499 m2**</s></td><td><s>**3**</s></td><td><s>**3**</s></td><td><s>**3**</s></td><td><s>**4**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td></tr><tr><td><s>**de 500 a&nbsp;&nbsp;&nbsp;&nbsp; 999 m2**</s></td><td><s>**4**</s></td><td><s>**4**</s></td><td><s>**4**</s></td><td><s>**6**</s></td><td><s>**3**</s></td><td><s>**3**</s></td><td><s>**3**</s></td><td><s>**3**</s></td></tr><tr><td><s>**de 1000 a 1999&nbsp;&nbsp;&nbsp; m2**</s></td><td><s>**6**</s></td><td><s>**6**</s></td><td><s>**5**</s></td><td><s>**8**</s></td><td><s>**4**</s></td><td><s>**4**</s></td><td><s>**4**</s></td><td><s>**4**</s></td></tr><tr><td><s>**de 2000 a 3000&nbsp;&nbsp;&nbsp; m2**</s></td><td><s>**8**</s></td><td><s>**8**</s></td><td><s>**6**</s></td><td><s>**10**</s></td><td><s>**6**</s></td><td><s>**6**</s></td><td><s>**5**</s></td><td><s>**5**</s></td></tr><tr><td><s>**Acima de 3000 m2 ***</s></td><td><s>**1/375m2 ou fração**</s></td><td><s>**1/375m2 ou fração**</s></td><td><s>**1/500m2 ou fração**</s></td><td><s>**1/300m2 ou fração**</s></td><td><s>**1/500m2 ou fração**</s></td><td><s>**1/500m2 ou fração**</s></td><td><s>**1/600m2 ou fração**</s></td><td><s>**1/600m2 ou fração**</s></td></tr><tr><td colspan="9"><s>**Acresce uma peça para cada 300 - 375 - 500 - 600 m2 ou fração.** &nbsp;</s></td></tr></tbody></table>
 
 ~~ANEXO XIII~~
 
-<table><tbody><tr><td colspan="4" style=" width:480px;  height:46px;   "><s><b>INSTALAÇÕES SANITÁRIAS PARA EMPREGADOS EM OFICINAS E INDÚSTRIAS</b> <b>Instalações Mínimas Obrigatórias</b></s></td><td style=" width:110px;  height:46px;   "><s><b>ANEXO XIII</b></s></td></tr><tr><td style=" width:149px;  height:61px;   "><s><b>Área total do andar mais dos eventuais andares contíguos</b> <b>servidos</b></s></td><td style=" width:110px;  height:61px;   "><s>&nbsp; <b>Lavatório</b></s></td><td style=" width:110px;  height:61px;   "><s>&nbsp; <b>V. Sanitário</b></s></td><td style=" width:110px;  height:61px;   "><s>&nbsp; <b>Mictório</b></s></td><td style=" width:110px;  height:61px;   "><s>&nbsp; <b>Chuveiro</b></s></td></tr><tr><td style=" width:149px;  height:38px;   "><s><b>Até 120 m2</b></s></td><td style=" width:110px;  height:38px;   "><s><b>1</b></s></td><td style=" width:110px;  height:38px;   "><s><b>1</b></s></td><td style=" width:110px;  height:38px;   "><s><b>-</b></s></td><td style=" width:110px;  height:38px;   "><s><b>1</b></s></td></tr><tr><td style=" width:149px;  height:23px;   "><s><b>de 120 a&nbsp;&nbsp;&nbsp;&nbsp; 249 m2</b></s></td><td style=" width:110px;  height:23px;   "><s><b>2</b></s></td><td style=" width:110px;  height:23px;   "><s><b>2</b></s></td><td style=" width:110px;  height:23px;   "><s><b>1</b></s></td><td style=" width:110px;  height:23px;   "><s><b>2</b></s></td></tr><tr><td style=" width:149px;  height:15px;   "><s><b>de 250 a&nbsp;&nbsp;&nbsp;&nbsp; 499 m2</b></s></td><td style=" width:110px;  height:15px;   "><s><b>3</b></s></td><td style=" width:110px;  height:15px;   "><s><b>3</b></s></td><td style=" width:110px;  height:15px;   "><s><b>2</b></s></td><td style=" width:110px;  height:15px;   "><s><b>2</b></s></td></tr><tr><td style=" width:149px;  height:15px;   "><s><b>de 500 a&nbsp;&nbsp;&nbsp;&nbsp; 999 m2</b></s></td><td style=" width:110px;  height:15px;   "><s><b>4</b></s></td><td style=" width:110px;  height:15px;   "><s><b>4</b></s></td><td style=" width:110px;  height:15px;   "><s><b>3</b></s></td><td style=" width:110px;  height:15px;   "><s><b>3</b></s></td></tr><tr><td style=" width:149px;  height:15px;   "><s><b>de 1000 a 1999 m2</b></s></td><td style=" width:110px;  height:15px;   "><s><b>6</b></s></td><td style=" width:110px;  height:15px;   "><s><b>6</b></s></td><td style=" width:110px;  height:15px;   "><s><b>4</b></s></td><td style=" width:110px;  height:15px;   "><s><b>4</b></s></td></tr><tr><td style=" width:149px;  height:46px;   "><s><b>de 2000 a 3000 m2</b></s></td><td style=" width:110px;  height:46px;   "><s><b>8</b></s></td><td style=" width:110px;  height:46px;   "><s><b>8</b></s></td><td style=" width:110px;  height:46px;   "><s><b>5</b></s></td><td style=" width:110px;  height:46px;   "><s><b>5</b></s></td></tr><tr><td style=" width:149px;  height:46px;   "><s><b>Acima de 3000 m2 *</b></s></td><td style=" width:110px;  height:46px;   "><s><b>1/300 m2</b> <b>ou </b><b>fração</b></s></td><td style=" width:110px;  height:46px;   "><s><b>1/300 m2</b> <b>ou </b><b>fração</b></s></td><td style=" width:110px;  height:46px;   "><s><b>1/500 m2</b> <b>ou </b><b>fração</b></s></td><td style=" width:110px;  height:46px;   "><s><b>1/500 m2</b> <b>ou </b><b>fração</b></s></td></tr><tr><td colspan="5" style=" width:590px;  height:46px;   "><s><b>* Acresce uma peça para cada 300 - 500 m2 ou fração.</b> &nbsp;</s></td></tr></tbody></table>
+<table><tbody><tr><td colspan="4"><s>**INSTALAÇÕES SANITÁRIAS PARA EMPREGADOS EM OFICINAS E INDÚSTRIASInstalações Mínimas Obrigatórias**</s></td><td><s>**ANEXO XIII**</s></td></tr><tr><td><s>**Área total do andar mais dos eventuais andares contíguosservidos**</s></td><td><s>&nbsp; **Lavatório**</s></td><td><s>&nbsp; **V. Sanitário**</s></td><td><s>&nbsp; **Mictório**</s></td><td><s>&nbsp; **Chuveiro**</s></td></tr><tr><td><s>**Até 120 m2**</s></td><td><s>**1**</s></td><td><s>**1**</s></td><td><s>**-**</s></td><td><s>**1**</s></td></tr><tr><td><s>**de 120 a&nbsp;&nbsp;&nbsp;&nbsp; 249 m2**</s></td><td><s>**2**</s></td><td><s>**2**</s></td><td><s>**1**</s></td><td><s>**2**</s></td></tr><tr><td><s>**de 250 a&nbsp;&nbsp;&nbsp;&nbsp; 499 m2**</s></td><td><s>**3**</s></td><td><s>**3**</s></td><td><s>**2**</s></td><td><s>**2**</s></td></tr><tr><td><s>**de 500 a&nbsp;&nbsp;&nbsp;&nbsp; 999 m2**</s></td><td><s>**4**</s></td><td><s>**4**</s></td><td><s>**3**</s></td><td><s>**3**</s></td></tr><tr><td><s>**de 1000 a 1999 m2**</s></td><td><s>**6**</s></td><td><s>**6**</s></td><td><s>**4**</s></td><td><s>**4**</s></td></tr><tr><td><s>**de 2000 a 3000 m2**</s></td><td><s>**8**</s></td><td><s>**8**</s></td><td><s>**5**</s></td><td><s>**5**</s></td></tr><tr><td><s>**Acima de 3000 m2 ***</s></td><td><s>**1/300 m2ou fração**</s></td><td><s>**1/300 m2ou fração**</s></td><td><s>**1/500 m2ou fração**</s></td><td><s>**1/500 m2ou fração**</s></td></tr><tr><td colspan="5"><s>*** Acresce uma peça para cada 300 - 500 m2 ou fração.** &nbsp;</s></td></tr></tbody></table>

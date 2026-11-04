@@ -1,5 +1,3 @@
-###DEC-066045-0-000-07-01-1970@@@
-
 DECRETO Nº 66.045 - DE 7 DE JANEIRO DE 1970
 
 Declara de utilidade pública o Hospital São Vicente de Paulo, com sede em Rio Pomba, Estado de Minas Gerais.

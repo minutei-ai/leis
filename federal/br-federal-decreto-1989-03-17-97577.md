@@ -1,5 +1,3 @@
-###DEC-097577-0-000-17-03-1989@@@
-
 DECRETO N° 97.577, DE 17 DE MARÇO DE 1989
 
 Dispõe sobre o aumento do capital social da Petróleo Brasileiro S.A. - PETROBRÁS.

@@ -1,5 +1,3 @@
-###DEC-057133-0-000-27-10-1965@@@
-
 decreto Nº 57.133, de 27 de outubro de 1965.
 
 Aprova as Instruções Gerais para as relações entre as Fôrças Armadas Brasileiras e os Adidos Militares Estrangeiros.

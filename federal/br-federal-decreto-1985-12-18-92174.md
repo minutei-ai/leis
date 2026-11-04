@@ -1,5 +1,3 @@
-###DEC-092174-0-000-18-12-1985@@@
-
 Decreto nº 92.174, de 18 de dezembro de 1985.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Gleba 1.500 Alqueires", compreendido na referida área, no Município de Pontes e Lacerda, no Estado de Mato Grosso, e dá outras providências.

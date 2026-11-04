@@ -1,5 +1,3 @@
-###DEC-050180-0-000-28-01-1961@@@
-
 DECRETO Nº 50.180, DE 28 DE JANEIRO DE 1961.
 
 Renova o Decreto nº 44.547, de 25 de setembro de 1958.

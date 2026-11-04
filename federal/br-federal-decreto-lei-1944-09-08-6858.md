@@ -1,5 +1,3 @@
-###DEL-006858-0-000-08-09-1944@@@
-
 DECRETO N. 6.858 – DE 8 DE SETEMBRO DE 1944
 
 Autoriza o Ministério da Fazenda a alienar à Prefeitura Municipal de Recife, do Estado de Pernambuco, o domínio pleno da área de terreno nacional interior que menciona, e dá outras providências.

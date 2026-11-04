@@ -1,5 +1,3 @@
-###DEC-066720-0-000-16-06-1970@@@
-
 DECRETO Nº 66.720, DE 16 DE JUNHO DE 1970.
 
 Declara de utilidade pública o Enducandário Nossa Senhora do Perpétuo Socorro, com sede em Belo Horizonte, Estado de Minas Gerais.

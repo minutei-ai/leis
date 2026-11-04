@@ -1,5 +1,3 @@
-###MPV-001575-0-000-04-06-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.575, DE 4 DE JUNHO DE 1997
 
 Dispõe sobre normas e condições gerais de proteção ao trabalho portuário, institui multas pela inobservância de seus preceitos, e dá outras providências.

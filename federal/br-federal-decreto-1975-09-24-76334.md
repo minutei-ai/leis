@@ -1,5 +1,3 @@
-###DEC-076334-0-000-24-09-1975@@@
-
 DECRETO Nº 76.334 - DE 24 DE SETEMBRO DE 1975
 
 Exclusão do Quadro de Pessoal, Parte Permanente, do Ministério da Indústria e do Comércio do ex- servidor da extinta COFAP.

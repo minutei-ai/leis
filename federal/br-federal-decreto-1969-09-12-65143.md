@@ -1,5 +1,3 @@
-###DEC-065143-0-000-12-09-1969@@@
-
 DECRETO Nº 65.143, DE 12 DE SETEMBRO DE 1969.
 
 Muda denominação de Organização do Ministério da Aeronáutica, aprova o Regulamento do Departamento de Aviação Civil e dá outras providências.

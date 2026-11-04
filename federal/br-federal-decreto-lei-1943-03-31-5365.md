@@ -1,5 +1,3 @@
-###DEL-005365-0-000-31-03-1943@@@
-
 DECRETO‑LEI N. 5.365 – DE 31 DE MARÇO DE 1943
 
 Dispõe sobre pagamento de aposentadoria de funcionários públicos contribuintes de caixas de aposentadoria e pensões, aposentados no interesse do serviço público

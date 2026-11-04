@@ -1,5 +1,3 @@
-###DEC-050847-0-000-24-06-1961@@@
-
 decreto nº 50.847, de 24 de junho de 1961.
 
 Cria o Consulado honorário no Brasil em Mossâmedes, Província de Angola.

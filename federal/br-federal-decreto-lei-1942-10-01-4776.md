@@ -1,5 +1,3 @@
-###DEL-004776-0-000-01-10-1942@@@
-
 DECRETO-LEI N. 4.776 – DE 1 DE OUTUBRO DE 1942
 
 Autoriza emissão especial de selos comemorativos do Farol de Colombo e dá outras providências

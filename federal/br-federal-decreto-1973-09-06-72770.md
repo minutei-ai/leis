@@ -1,5 +1,3 @@
-###DEC-072770-0-000-06-09-1973@@@
-
 DECRETO Nº 72.770, DE 6 de SETEMBRO DE 1973.
 
 Declara de utilidade pública, para fins de instituição de servidão ou desapropriação total ou parcial em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis, constituídos de terras e benfeitorias, situados nos Municípios de São Francisco do Sul e Garuva no Estado de Santa Catarina, e Municípios de Guaratuba, Tijucas do Sul, São José dos Pinhais, Mandirituba, Curitiba e Araucária, no Estado do Paraná.

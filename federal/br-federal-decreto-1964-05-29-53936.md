@@ -1,5 +1,3 @@
-###DEC-053936-0-000-29-05-1964@@@
-
 DECRETO Nº 53.936, DE 29 DE MAIO DE 1964.
 
 Suspende a execução do disposto no Decreto nº 52.275, de 17 de julho de 1963 e no Decreto nº 53.010, de 27 de novembro de 1963 e dá outras providências.

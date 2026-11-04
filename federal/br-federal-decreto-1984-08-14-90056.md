@@ -1,5 +1,3 @@
-###DEC-090056-0-000-14-08-1984@@@
-
 DEcreto nº 90.056, de 14 de agosto de 1984
 
 Outorga concessão à TV SÃO JOSÉ DO RIO PRETO LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de São José do Rio Preto, Estado de São Paulo.

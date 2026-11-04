@@ -1,5 +1,3 @@
-###DEC-083652-0-000-28-06-1979@@@
-
 Decreto nº 83.652, de 28 de junho de 1979.
 
 Concede reconhecimento ao curso de Agronomia da Universidade Federal de Mato Grosso, com sede na cidade de Cuiabá, Estado do Mato Grosso.

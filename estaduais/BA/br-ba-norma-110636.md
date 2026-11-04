@@ -1,18 +1,21 @@
 LEI Nº 9.425 DE 27 DE JANEIRO DE 2005
 
-Ver também:<br>
+Ver também:
+
 Lei nº [10.964](https://www.legislabahia.ba.gov.br/documentos/lei-no-10964-de-16-de-abril-de-2008) , de 16 de abril de 2008 - Dispõe sobre o reajuste dos vencimentos dos servidores ocupantes dos cargos de provimento efetivo e temporário e dos proventos de aposentadoria da Assembléia Legislativa, na forma que indica, e dá outras providências.
 
 Reestrutura e regulamenta o funcionamento da Procuradoria Geral da Assembléia Legislativa e dá outras providências.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DISPOSIÇÃO PRELIMINAR
 
 Art. 1º - Esta Lei, na esteira do que dispõem os incisos I e II do art. 71 da [Constituição do Estado da Bahia](https://www.legislabahia.ba.gov.br/documentos/lei-no-9425-de-27-de-janeiro-de-2005#) , reestrutura a Procuradoria Geral da Assembléia Legislativa, define competências e dispõe sobre o exercício do cargo de Procurador da Assembléia Legislativa do Estado da Bahia.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA ESTRUTURA E DAS COMPETÊNCIAS
 
 Art. 2º - A consultoria, assessoramento jurídico e a representação judicial para a defesa das prerrogativas e interesses específicos da Assembléia Legislativa do Estado da Bahia, ressalvada a competência da Procuradoria Geral do Estado, competem à Procuradoria Geral da Assembléia, órgão diretamente subordinado ao seu Presidente, cabendo-lhe as seguintes atribuições:
@@ -93,7 +96,8 @@ V - executar outras tarefas correlatas que lhes sejam atribuídas pelo Procurado
 
 Art. 6º - Para a coordenação e desenvolvimento das atividades administrativas necessárias ao seu funcionamento, contará a Procuradoria Geral com 03 (três) Oficiais de Gabinete, símbolo FC-2, do Quadro Geral de Pessoal da Assembléia, além dos demais servidores administrativos que lhe sejam destinados.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DO QUADRO DE PROCURADORES
 
 Art. 7º - O quadro específico de Procuradores da Assembléia Legislativa fica fixado em 08 (oito) Procuradores e será organizado em carreira da forma prevista na Lei nº [8.971](https://www.legislabahia.ba.gov.br/documentos/lei-no-9425-de-27-de-janeiro-de-2005#) , de 05 de janeiro de 2004, que instituiu e regulamentou o Plano de Carreira Cargos e Salários da Assembléia Legislativa.
@@ -108,7 +112,8 @@ II - opinando o Procurador Geral pela não permanência, será constituída uma 
 
 III - a conclusão da Comissão Processante constituirá matéria a ser decidida pelo Presidente da Assembléia Legislativa.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DOS DIREITOS E DEVERES DOS PROCURADORES
 
 Art. 10 - Constituem direitos do Procurador da Assembléia, além das garantias e prerrogativas inerentes à profissão de advogado:
@@ -145,7 +150,8 @@ VI - agir, no cumprimento de seus deveres funcionais, com isenção e imparciali
 
 VII - fixar domicílio dentro dos limites da Região Metropolitana de Salvador.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DAS VEDAÇÕES
 
 Art. 12 - Além das proibições decorrentes do exercício de cargo público, ao Procurador da Assembléia é vedado:
@@ -174,7 +180,8 @@ Art. 15 - A vedação de que trata o artigo anterior estende-se ao Procurador Ge
 
 Art. 16 - É vedado ao Procurador Geral e Subprocurador Geral o exercício da advocacia privada, não se estendendo tal vedação aos Procuradores e aos Assistentes Jurídicos, exceto no patrocínio de causas contra a Fazenda Pública que os remunera.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DA IDENTIDADE FUNCIONAL
 
 Art. 17 - Fica instituída a Carteira de Identidade Funcional da Procuradoria Geral da Assembléia Legislativa, que será expedida em papel especial, com foto impressa eletronicamente, subscrita pelo Presidente da Assembléia Legislativa e recoberta por plastificação inviolável.
@@ -185,7 +192,8 @@ II - Conterá, ainda, a cédula, menção especial aos direitos e prerrogativas 
 
 Art. 18 - A Carteira de Identidade Funcional instituída por esta lei é de uso privativo dos Procuradores, dos Assistentes Jurídicos, do Subprocurador Geral e do Procurador Geral da Assembléia Legislativa.
 
-CAPÍTULO VII -<br>
+CAPÍTULO VII -
+
 DAS DISPOSIÇÕES COMPLEMENTARES
 
 Art. 19 - Aplicam-se aos Procuradores da Assembléia as disposições da Lei nº 8.971/2004 e, no que couber, do Estatuto dos Servidores Públicos Civis do Estado da Bahia.
@@ -206,4 +214,300 @@ ANEXO I
 
 QUADRO DE PESSOAL
 
-<table style="width: 490.55pt; border-collapse: collapse; mso-padding-alt: 0cm 1.5pt 0cm 1.5pt;" width="654" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 12.5pt;" valign="top" width="238"><p class="Tabela-Texto">CARGOS FUNÇÕES GRATIFICADAS FUNÇÕES COMISSIONADAS</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 12.5pt;" valign="top" width="76"><p class="Tabela-Texto">FC<span style="mso-spacerun: yes;">&nbsp; </span>FG<span style="mso-spacerun: yes;">&nbsp; </span>FGR</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 12.5pt;" valign="top" width="66"><p class="Tabela-Texto">QTDE</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 12.5pt;" valign="top" width="208"><p class="Tabela-Texto">CARGOS EM EXTINÇÃO</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 12.5pt;" valign="top" width="66"><p class="Tabela-Texto">QTDE</p></td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Auxiliar Administrativo</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">-</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">73</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208"><p class="Tabela-Texto">Atendente</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">1</p></td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Técnico de Nível Médio</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">-</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">187</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208"><p class="Tabela-Texto">Auxiliar de Artes Gráficas</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">1</p></td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Técnico de Nível Superior</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">-</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">142</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208"><p class="Tabela-Texto">Auxiliar de Op de Ar condicionado</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">1</p></td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Procurador</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">-</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">8</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208"><p class="Tabela-Texto">Carpinteiro</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">2</p></td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Assistente de Gabinete</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC01</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">8</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208"><p class="Tabela-Texto">Eletricista</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">2</p></td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Auxiliar de Gabinete</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC01</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">26</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208"><p class="Tabela-Texto">Encanador</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">1</p></td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Oficial de Gabinete</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC02</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">16</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208"><p class="Tabela-Texto">Garçon</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">2</p></td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Assessor de Comunicação Social II</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC03</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">4</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208"><p class="Tabela-Texto">Impressor</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">1</p></td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Assistente Técnico</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC03</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">27</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208"><p class="Tabela-Texto">Mecânico</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">1</p></td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Técnico de Segurança do Trabalho</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC03</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">2</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208"><p class="Tabela-Texto">Pedreiro/Pintor</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">1</p></td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Secretário da Presidência</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC04</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">5</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208"><p class="Tabela-Texto">Polidor de Móveis</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">1</p></td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Assistente Cerimonial</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC05</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">1</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208"><p class="Tabela-Texto">Taquígrafo Auxiliar</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">1</p></td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Assistente da Mesa Diretora</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC05</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">1</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208"><p class="Tabela-Texto">Técnico em Refrigeração</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">2</p></td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Assessor de Comunicação Social I</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC05</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">4</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208"><p class="Tabela-Texto">TOTAL</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">17</p></td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Engenheiro de Segurança do Trabalho</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC05</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">1</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Assessor de Imprensa</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC05</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">1</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Assessor Técnico</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC05</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">45</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Assessor da Presidência</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC06</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">3</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Assessor Especial</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC06</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">12</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Chefe de Gabinete</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC06</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">7</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Assistente Jurídico</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC06</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">6</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Assistente Civil</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC07</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">2</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Chefe do Cerimonial</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC07</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">1</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Assistente Militar</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC07</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">1</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Chefe da Assessoria</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC07</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">2</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Auditor Adjunto</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC07</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">1</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Chefe de Gabinete Presidência</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC07</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">1</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Subprocurador Geral</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC07</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">1</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Secretário Geral</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC07</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">2</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Diretor</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC07</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">5</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Auditor Chefe</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC08</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">1</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Superintendente</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC08</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">3</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Procurador Geral</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FC08</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">1</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Coordenador de Unidade / Chefe de Seção</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FGR01</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">36</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Gerente de Departamento / Chefe Divisão</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FGR02</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">22</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Auxiliar Administrativo</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FG01</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">32</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Agente Administrativo</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FG02</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">10</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238"><p class="Tabela-Texto">Assistente Administrativo</p></td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">FG03</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">94</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr><tr><td style="width: 178.7pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="238">&nbsp;</td><td style="width: 2.0cm; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="76"><p class="Tabela-Texto">TOTAL</p></td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66"><p class="Tabela-Texto">794</p></td><td style="width: 155.95pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="208">&nbsp;</td><td style="width: 49.6pt; padding: 0cm 1.5pt 0cm 1.5pt; height: 15.0pt;" valign="top" width="66">&nbsp;</td></tr></tbody></table>
+CARGOS FUNÇÕES GRATIFICADAS FUNÇÕES COMISSIONADAS
+
+FC  FG  FGR
+
+QTDE
+
+CARGOS EM EXTINÇÃO
+
+QTDE
+
+Auxiliar Administrativo
+
+-
+
+73
+
+Atendente
+
+1
+
+Técnico de Nível Médio
+
+-
+
+187
+
+Auxiliar de Artes Gráficas
+
+1
+
+Técnico de Nível Superior
+
+-
+
+142
+
+Auxiliar de Op de Ar condicionado
+
+1
+
+Procurador
+
+-
+
+8
+
+Carpinteiro
+
+2
+
+Assistente de Gabinete
+
+FC01
+
+8
+
+Eletricista
+
+2
+
+Auxiliar de Gabinete
+
+FC01
+
+26
+
+Encanador
+
+1
+
+Oficial de Gabinete
+
+FC02
+
+16
+
+Garçon
+
+2
+
+Assessor de Comunicação Social II
+
+FC03
+
+4
+
+Impressor
+
+1
+
+Assistente Técnico
+
+FC03
+
+27
+
+Mecânico
+
+1
+
+Técnico de Segurança do Trabalho
+
+FC03
+
+2
+
+Pedreiro/Pintor
+
+1
+
+Secretário da Presidência
+
+FC04
+
+5
+
+Polidor de Móveis
+
+1
+
+Assistente Cerimonial
+
+FC05
+
+1
+
+Taquígrafo Auxiliar
+
+1
+
+Assistente da Mesa Diretora
+
+FC05
+
+1
+
+Técnico em Refrigeração
+
+2
+
+Assessor de Comunicação Social I
+
+FC05
+
+4
+
+TOTAL
+
+17
+
+Engenheiro de Segurança do Trabalho
+
+FC05
+
+1
+
+Assessor de Imprensa
+
+FC05
+
+1
+
+Assessor Técnico
+
+FC05
+
+45
+
+Assessor da Presidência
+
+FC06
+
+3
+
+Assessor Especial
+
+FC06
+
+12
+
+Chefe de Gabinete
+
+FC06
+
+7
+
+Assistente Jurídico
+
+FC06
+
+6
+
+Assistente Civil
+
+FC07
+
+2
+
+Chefe do Cerimonial
+
+FC07
+
+1
+
+Assistente Militar
+
+FC07
+
+1
+
+Chefe da Assessoria
+
+FC07
+
+2
+
+Auditor Adjunto
+
+FC07
+
+1
+
+Chefe de Gabinete Presidência
+
+FC07
+
+1
+
+Subprocurador Geral
+
+FC07
+
+1
+
+Secretário Geral
+
+FC07
+
+2
+
+Diretor
+
+FC07
+
+5
+
+Auditor Chefe
+
+FC08
+
+1
+
+Superintendente
+
+FC08
+
+3
+
+Procurador Geral
+
+FC08
+
+1
+
+Coordenador de Unidade / Chefe de Seção
+
+FGR01
+
+36
+
+Gerente de Departamento / Chefe Divisão
+
+FGR02
+
+22
+
+Auxiliar Administrativo
+
+FG01
+
+32
+
+Agente Administrativo
+
+FG02
+
+10
+
+Assistente Administrativo
+
+FG03
+
+94
+
+TOTAL
+
+794

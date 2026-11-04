@@ -1,5 +1,3 @@
-###DEC-084919-0-000-16-07-1980@@@
-
 Decreto nº 84.919, de 16 de julho de 1980.
 
 Institui a Comissão Nacional do Ano Internacional das Pessoas Deficientes.

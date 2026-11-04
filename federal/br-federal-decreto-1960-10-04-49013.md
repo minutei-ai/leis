@@ -1,5 +1,3 @@
-###DEC-049013-0-000-04-10-1960@@@
-
 DECRETO Nº 49.013, DE 4 DE Outubro DE 1960.
 
 Autoriza o cidadão brasileiro Oscar Maurício Rodrigues a pesquisar feldspato no município Mercês, Estado de Minas Gerais.

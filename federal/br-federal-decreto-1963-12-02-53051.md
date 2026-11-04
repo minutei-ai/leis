@@ -1,5 +1,3 @@
-###DEC-053051-0-000-02-12-1963@@@
-
 DECRETO Nº 53.051, DE 2 DE DEZEMBRO DE 1963.
 
 Altera temporàriamente, o Artigo 69 alínea c), do regulamento de Promoções para Oficiais da Marinha, aprovado pelo Decreto nº 42.808 de 13 de dezembro de 1957.

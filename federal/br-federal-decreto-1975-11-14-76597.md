@@ -1,5 +1,3 @@
-###DEC-076597-0-000-14-11-1975@@@
-
 DECRETO Nº 76.597, de 14 DE NOVEMBRO DE 1975.
 
 Fixa o preço mínimo único básico para financiamento ou aquisição de óleo bruto de menta "arvensis" da safra de 1975-76, produzido nas Unidades da Federação que menciona.

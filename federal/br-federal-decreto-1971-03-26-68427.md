@@ -1,5 +1,3 @@
-###DEC-068427-0-000-26-03-1971@@@
-
 Decreto nº 68.427, de 26 de março de 1971.
 
 Redistribui, com os respectivos ocupantes, cargos do Quadro de Pessoal do Ministério da Justiça para o do Ministério da Saúde.

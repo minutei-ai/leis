@@ -1,5 +1,3 @@
-###DEC-065144-0-000-12-09-1969@@@
-
 DECRETO Nº 65.144 - DE 12 DE SETEMBRO DE 1969.
 
 Institui o Sistema de Aviação Civil do Ministério da Aeronáutica e dá outras providências.

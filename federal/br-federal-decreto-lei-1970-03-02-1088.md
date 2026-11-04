@@ -1,5 +1,3 @@
-###DEL-001088-0-000-02-03-1970@@@
-
 # Decreto-LEI nº 1.088, DE 2 DE MARÇO DE 1970
 
 Acrescenta parágrafos aos artigos 6º e 19 da Lei nº 4.878, de 3 de dezembro de 1965.

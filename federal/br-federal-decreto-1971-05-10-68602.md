@@ -1,5 +1,3 @@
-###DEC-068602-0-000-10-05-1971@@@
-
 DECRETO Nº 68.602, De 10 de maio de 1971.
 
 Redistribui com a respectiva ocupante, para o Ministério das Relações Exteriores, cargo da atual Emprêsa Brasileira de Correios e Telégrafos, e dá outras providências.

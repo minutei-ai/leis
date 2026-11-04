@@ -1,5 +1,3 @@
-###DEC-055912-0-000-12-04-1965@@@
-
 DECRETO Nº 55.912, DE 12 DE ABRIL DE 1965.
 
 Concede  autorização para o funcionamento dos cursos da Faculdade de Filosofia, Ciências e Letras de Mogi das Cruzes, no Estado de São Paulo.

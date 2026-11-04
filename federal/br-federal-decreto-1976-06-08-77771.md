@@ -1,5 +1,3 @@
-###DEC-077771-0-000-08-06-1976@@@
-
 DECRETO Nº 77.771, DE 8 DE JUNHO DE 1976.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de São Gonçalo, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEL-003503-0-000-14-08-1941@@@
-
 DECRETO-LEI N. 3.503 – DE 14 DE AGOSTO DE 1941
 
 Torna sem efeito o disposto no artigo 3º, ítem 5º, do decreto n. 21.380, de 27 de abril de 1932

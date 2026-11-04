@@ -1,5 +1,3 @@
-###DEC-058989-0-000-04-08-1966@@@
-
 decreto Nº 58.989, de 4 de agôsto de 1966.
 
 Altera o Regulamento da Superintendência do Plano de Valorização Econômica da Amazônia, aprovado pelo Decreto nº 34.132, de 9 de outubro de 1953, e dá outras providências.

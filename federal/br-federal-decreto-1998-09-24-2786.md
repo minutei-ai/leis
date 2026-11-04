@@ -1,5 +1,3 @@
-###DEC-002786-0-000-24-09-1998@@@
-
 DECRETO Nº 2.786, DE 24 DE SETEMBRO DE 1998
 
 Promulga o Acordo, por troca de Notas, que emenda o Acordo para Serviços Aéreos entre seus Respectivos Territórios e Além, de 11 de agosto de 1992, celebrado entre o Governo da República Federativa do Brasil e o Governo da República da Coréia, em Brasília, em 29 de fevereiro de 1996.

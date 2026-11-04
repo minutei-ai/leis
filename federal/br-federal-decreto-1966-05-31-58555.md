@@ -1,5 +1,3 @@
-###DEC-058555-0-000-31-05-1966@@@
-
 DECRETO Nº 58.555, DE 31 DE MAIO DE 1966.
 
 Aprova o Regulamento dos Serviços de Radioamador.

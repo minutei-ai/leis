@@ -1,5 +1,3 @@
-###DEL-009296-0-000-27-05-1946@@@
-
 DECRETO-LEI N. 9.296 – DE 27 DE MAIO DE 1946
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 60.875,00, para pagamento de vencimentos e de salário-família, em virtude de reintegração.

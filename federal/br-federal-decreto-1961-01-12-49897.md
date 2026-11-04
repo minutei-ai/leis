@@ -1,5 +1,3 @@
-###DEC-049897-0-000-12-01-1961@@@
-
 DECRETO Nº 49.897, DE 12 DE JANEIRO DE 1961.
 
 Autoriza S.A. Mineração da Trindade a lavrar bauxita no Município de Mariana, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-045467-0-000-26-02-1959@@@
-
 DECRETO Nº 45.467, DE 26 DE FEVEREIRO DE 1959.
 
 Concede à sociedade anônima Luiz G. A. Valente S. A. - Comércio e Navegação autorização para funcionar como emprêsa de navegação de cabotagem.

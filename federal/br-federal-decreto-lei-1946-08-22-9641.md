@@ -1,5 +1,3 @@
-###DEL-009641-0-000-22-08-1946@@@
-
 DECRETO-LEI N. 9.641 – DE 22 DE AGÔSTO DE 1946
 
 Aceita as doações feitas à União de quatro terrenos situados no Município de Sousa, Estado da Paraíba, e dá outras providencias.

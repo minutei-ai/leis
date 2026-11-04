@@ -1,5 +1,3 @@
-###DEC-064899-0-000-29-07-1969@@@
-
 DECRETO Nº 64.899 - DE 29 DE JULHO DE 1969.
 
 Aprova o Regimento Geral da Universidade Federal da Bahia.

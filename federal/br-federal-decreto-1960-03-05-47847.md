@@ -1,5 +1,3 @@
-###DEC-047847-0-000-05-03-1960@@@
-
 DECRETO Nº 47.847, DE 5 DE MARÇO DE 1960.
 
 Abre, ao Poder Judiciário - Justiça Eleitoral - Tribunal Regional Eleitoral do Pará, o crédito especial que especifica.

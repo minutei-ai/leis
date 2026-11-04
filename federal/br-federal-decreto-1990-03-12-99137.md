@@ -1,7 +1,3 @@
-1
-
-###DEC-099137-0-000-12-03-1990@@@
-
 DECRETO Nº 99.137, DE 12 DE MARÇO DE 1990
 
 Altera o estatuto da empresa pública Financiadora de Estudos e Projetos FINEP.

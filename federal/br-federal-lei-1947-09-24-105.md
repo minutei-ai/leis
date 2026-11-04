@@ -1,8 +1,6 @@
-###LEI-000105-0-000-24-09-1947@@@
+**LEI N. 105 – DE 24 DE SETEMBRO DE 1947**
 
-<strong>LEI N. 105 – DE 24 DE SETEMBRO DE 1947</strong>
-
-<em><strong>Prorroga, até o encerramento do exercício de 1948, a vigência do crédito especial aberto ao Ministério da Viação e Obras Públicas pelo Decreto-lei nº 6.906, de 1944.</strong></em>
+***Prorroga, até o encerramento do exercício de 1948, a vigência do crédito especial aberto ao Ministério da Viação e Obras Públicas pelo Decreto-lei nº 6.906, de 1944.***
 
 O Presidente da República:
 
@@ -12,7 +10,7 @@ Artigo único. É prorrogada, até o encerramento do exercício de 1948, a vigê
 
 Rio de Janeiro, em 24 de setembro de 1947; 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Clovis Pestana.
 

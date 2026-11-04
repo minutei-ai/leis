@@ -1,5 +1,3 @@
-###DEC-056142-0-000-27-04-1965@@@
-
 DECRETO Nº 56.142, DE 27 DE ABRIL DE 1965.
 
 Aprova alteração introduzida nos Estatutos de A Piratininga Companhia Nacional de Seguros Gerais e Acidentes de Trabalho, relativa ao aumento do capital social.

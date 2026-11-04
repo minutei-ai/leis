@@ -1,5 +1,3 @@
-###DEC-055134-0-000-02-12-1964@@@
-
 DECRETO Nº 55.134, DE 2 DE DEZEMBRO DE 1964.
 
 Fixa o número mínimo de vagas para a cota compulsória, no Ministério da Aeronáutica.

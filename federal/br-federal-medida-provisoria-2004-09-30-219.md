@@ -1,5 +1,3 @@
-###MPV-000219-0-000-30-09-2004@@@
-
 MEDIDA PROVISÓRIA Nº 219, DE 30 DE SETEMBRO DE 2004.
 
        Dispõe sobre o desconto de crédito na apuração da Contribuição Social sobre o Lucro Líquido - CSLL e da Contribuição para o PIS/PASEP e COFINS não-cumulativas, e dá outras providências.
@@ -54,5 +52,6 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da 
 
         Brasília, 30 de setembro de 2004; 183o da Independência e 116o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Bernard Appy

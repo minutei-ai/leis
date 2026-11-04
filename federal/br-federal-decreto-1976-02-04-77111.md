@@ -1,5 +1,3 @@
-###DEC-077111-0-000-04-02-1976@@@
-
 DECRETO Nº 77.111, DE 4 DE FEVEREIRO DE 1976.
 
 Declara de utilidade pública para fins de desapropriação, uma área de terreno urbano, com benfeitorias, no Município de Itaocara, Estado do Rio de Janeiro, destinada à instalação de uma estação telefônica automática pela Companhia Telefônica Brasileira - CTB.

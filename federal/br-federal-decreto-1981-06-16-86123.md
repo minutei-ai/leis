@@ -1,5 +1,3 @@
-###DEC-086123-0-000-16-06-1981@@@
-
 Decreto nº 86.123, DE 16 de juNho de 1981.
 
 Outorga à Centrais Elétricas de Goiás S.A. - CELG concessão para o aproveitamento de energia hidráulica de um trecho do Ribeirão Vai-Vem, no Município de Ipameri, Estado de Goiás.

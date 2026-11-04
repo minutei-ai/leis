@@ -1,5 +1,3 @@
-###DEC-084474-0-000-11-02-1980@@@
-
 Decreto nº 84.474, de 11 de fevereiro de 1980.
 
 Revoga o Decreto n º 70.858, de 24 de julho de 1972, que aprovou a Tabela de Empregos destinada a atender as atividades do Serviço de Tarifa do Ministério do Exército.

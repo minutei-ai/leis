@@ -1,5 +1,3 @@
-###DEC-082882-0-000-19-12-1978@@@
-
 Decreto nº 82.882, de 19 de dezembro de 1978
 
 Outorga à Construtora Civil e Industrial S.A. - CONCISA concessão para o aproveitamento da energia hidráulica de um trecho do Igarapé da Serra, no Estado de Mato Grosso, para uso exclusivo.

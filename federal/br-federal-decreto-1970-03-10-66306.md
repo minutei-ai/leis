@@ -1,5 +1,3 @@
-###DEC-066306-0-000-10-03-1970@@@
-
 DECRETO Nº 66.306 - DE 10 DE MARÇO DE 1970
 
 Declara de utilidade pública o Instituto Madre Mazzarello, com sede em São Paulo, Estado de São Paulo.

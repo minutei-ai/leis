@@ -1,5 +1,3 @@
-###DEC-065070-0-000-27-08-1969@@@
-
 DECRETO Nº 65.070, DE 27 DE AGÔSTO DE 1969.
 
 Dispõe sôbre a administração dos estabelecimentos de ensino industrial e a remuneração de seus diretores.

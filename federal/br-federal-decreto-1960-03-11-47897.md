@@ -1,5 +1,3 @@
-###DEC-047897-0-000-11-03-1960@@@
-
 Decreto nº 47.897, de 11 de março de 1960
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de um terreno que a Municipalidade de Santos, Estado de São Paulo, lhe deseja fazer para ser utilizado, com encargos, pelo Ministério da Marinha.

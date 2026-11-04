@@ -1,5 +1,3 @@
-###DEC-006451-0-000-12-05-2008@@@
-
 DECRETO Nº 6.451, DE 12 DE MAIO DE 2008.
 
 Regulamenta o art. 56 da Lei Complementar no 123, de 14 de dezembro de 2006, que dispõe sobre a constituição do Consórcio Simples por microempresas e empresas de pequeno porte optantes pelo Simples Nacional.
@@ -95,5 +93,3 @@ Brasília, 12 de maio de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 13.5.2008

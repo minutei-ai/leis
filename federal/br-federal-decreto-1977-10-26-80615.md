@@ -1,5 +1,3 @@
-###DEC-080615-0-000-26-10-1977@@@
-
 DECRETO Nº 80.615, DE 26 DE outuBRO DE 1977.
 
 Concede reconhecimento ao curso de Direito das Faculdades Integradas Augusto Motta, e ao curso de Serviço Social da Faculdade do Serviço Social, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

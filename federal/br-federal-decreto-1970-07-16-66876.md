@@ -1,5 +1,3 @@
-###DEC-066876-0-000-16-07-1970@@@
-
 DECRETO Nº 66.876, DE 16 DE JULHO DE 1970
 
 Declara de utilidade pública, para fins de desapropriação, um terreno situado em São Roque, no Estado de São Paulo, destinado à construção da nova Estação Telefônica daquela cidade, a cargo da Companhia Telefônica Brasileira.

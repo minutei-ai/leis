@@ -1,5 +1,3 @@
-###DEC-057356-0-000-26-11-1965@@@
-
 DECRETO Nº 57.356, DE 26 DE NOVEMBRO DE 1965.
 
 Renova o Decreto nº 51.928, de 26 abril de 1963.

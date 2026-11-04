@@ -1,4 +1,5 @@
-DECRETO Nº 9.883, DE 08 DE JUNHO DE 2021<br>
+DECRETO Nº 9.883, DE 08 DE JUNHO DE 2021
+
 \- [Revogado Pelo Decreto nº 10.387, de 9-1-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108397/decreto-10387), art. 2º.
 
 ~~Aprova o Regulamento da Secretaria de Estado da Retomada.~~
@@ -12,8 +13,6 @@ DECRETO Nº 9.883, DE 08 DE JUNHO DE 2021<br>
 ~~Art. 2º Este Decreto entra em vigor na data de sua publicação.~~
 
 ~~Goiânia, 08 de junho de 2021; 133º da República.~~
-
-<br>
 
 ~~RONALDO CAIADO~~
 
@@ -673,26 +672,30 @@ DECRETO Nº 9.883, DE 08 DE JUNHO DE 2021<br>
 
 ~~XIII – funcionar como Secretaria Executiva do Conselho Estadual do Trabalho, Emprego e Renda – CTER, com a realização das tarefas técnico– administrativas e com a operacionalização das decisões do referido colegiado, apoiada pela Gerência de Avaliações e Informações; e~~
 
-~~XIV – a promoção, o apoio e a participação na realização de feiras, exposições, congressos, conferências e eventos congêneres, tradicionais do Calendário Cívico, Cultural e Turístico do Estado de Goiás e dos calendários oficiais dos municípios goianos, que tenham como objetivo o fomento às políticas públicas de geração de emprego e renda, bem como o desenvolvimento nos âmbitos econômico, humano e social; e<br>
+~~XIV – a promoção, o apoio e a participação na realização de feiras, exposições, congressos, conferências e eventos congêneres, tradicionais do Calendário Cívico, Cultural e Turístico do Estado de Goiás e dos calendários oficiais dos municípios goianos, que tenham como objetivo o fomento às políticas públicas de geração de emprego e renda, bem como o desenvolvimento nos âmbitos econômico, humano e social; e
+
 \- [Redação dada pelo Decreto nº 10.099, de 14-06-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105663/decreto-10099).~~
 
 ~~XIV – realizar competências correlatas.~~
 
-~~XV – realizar competências correlatas.<br>
+~~XV – realizar competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.099, de 14-06-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105663/decreto-10099).~~
 
 ~~Parágrafo único. Além das competências constantes do _caput_, compete à Superintendência da Retomada, do Trabalho, do Emprego e da Renda exercer as funções de organização, coordenação e supervisão técnica das seguintes gerências:~~
 
 ~~I – Gerência de Desenvolvimento de Áreas Vulneráveis;~~
 
-~~II – Gerência do Artesanato;~~<br>
+~~II – Gerência do Artesanato;~~
+
 ~~\- [Redação dada pelo Decreto nº 10.099, de 14-06-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105663/decreto-10099).~~
 
 ~~II – Gerência de Arranjos Produtivos Locais;~~
 
 ~~III – Gerência de Intermediação e Recolocação do Trabalho;~~
 
-~~IV – Gerência de Mobilização para Emprego e Renda e Arranjos Produtivos Locais;~~<br>
+~~IV – Gerência de Mobilização para Emprego e Renda e Arranjos Produtivos Locais;~~
+
 ~~\- [Redação dada pelo Decreto nº 10.099, de 14-06-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105663/decreto-10099).~~
 
 ~~IV – Gerência de Mobilização para Emprego e Renda;~~
@@ -883,31 +886,38 @@ DECRETO Nº 9.883, DE 08 DE JUNHO DE 2021<br>
 
 ~~XV – acompanhar a frequência dos servidores e fornecer o seu atesto a cada Superintendente e ao Chefe de Gabinete dos servidores vinculados às suas unidades;~~
 
-~~XVI – elaborar relatórios periódicos das atividades executadas;~~<br>
+~~XVI – elaborar relatórios periódicos das atividades executadas;~~
+
 ~~\- [Redação dada pelo Decreto nº 10.062, de 29-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105255/decreto-10062).~~
 
 ~~XVI – elaborar relatórios periódicos das atividades executadas; e~~
 
-~~XVII – participar de eventos, atividades de capacitação, fóruns, comissões, conselhos e debates;~~<br>
+~~XVII – participar de eventos, atividades de capacitação, fóruns, comissões, conselhos e debates;~~
+
 ~~\- [Redação dada pelo Decreto nº 10.062, de 29-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105255/decreto-10062).~~
 
 ~~XVII – participar de eventos, atividades de capacitação, fóruns, comissões, conselhos e debates.~~
 
-~~XVIII – identificar e gerir os riscos dos processos organizacionais e dos programas de governo nos seus respectivos âmbitos de atuação, considerada a dimensão dos prejuízos que possam causar;~~<br>
+~~XVIII – identificar e gerir os riscos dos processos organizacionais e dos programas de governo nos seus respectivos âmbitos de atuação, considerada a dimensão dos prejuízos que possam causar;~~
+
 ~~\- [Acrescido pelo Decreto nº 10.062, de 29-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105255/decreto-10062).~~
 
-~~XIX – observar, divulgar e cobrar o cumprimento do Código de Ética e Conduta Profissional do Servidor e da Alta Administração, instituído pelo [Decreto nº 9.837](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103904/decreto-9837), de 23 de março de 2021;~~<br>
+~~XIX – observar, divulgar e cobrar o cumprimento do Código de Ética e Conduta Profissional do Servidor e da Alta Administração, instituído pelo [Decreto nº 9.837](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103904/decreto-9837), de 23 de março de 2021;~~
+
 ~~\- [Acrescido pelo Decreto nº 10.062, de 29-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105255/decreto-10062).~~
 
-~~XX – observar, divulgar e cobrar as regras estabelecidas no programa de _Compliance_ Público para a execução e a disseminação da cultura da ética, da transparência, da responsabilização e da gestão de riscos em todos os processos e as atividades do órgão;~~<br>
+~~XX – observar, divulgar e cobrar as regras estabelecidas no programa de _Compliance_ Público para a execução e a disseminação da cultura da ética, da transparência, da responsabilização e da gestão de riscos em todos os processos e as atividades do órgão;~~
+
 ~~\- [Acrescido pelo Decreto nº 10.062, de 29-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105255/decreto-10062).~~
 
 ~~XXI – monitorar a efetividade dos controles para o tratamento dos riscos sob sua responsabilidade, observados o apetite pelo risco e a tolerância ao risco definidos pelo órgão; \- [Acrescido pelo Decreto nº 10.062, de 29-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105255/decreto-10062).~~
 
-~~XXII – reportar, por meio de relatórios periódicos, a evolução do gerenciamento dos riscos sob sua responsabilidade ao Comitê Setorial de _Compliance_ Público; e~~<br>
+~~XXII – reportar, por meio de relatórios periódicos, a evolução do gerenciamento dos riscos sob sua responsabilidade ao Comitê Setorial de _Compliance_ Público; e~~
+
 ~~\- [Acrescido pelo Decreto nº 10.062, de 29-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105255/decreto-10062).~~
 
-~~XXIII – desempenhar outras atividades decorrentes do pleno exercício do cargo e as que lhes forem atribuídas por seu superior hierárquico.~~<br>
+~~XXIII – desempenhar outras atividades decorrentes do pleno exercício do cargo e as que lhes forem atribuídas por seu superior hierárquico.~~
+
 ~~\- [Acrescido pelo Decreto nº 10.062, de 29-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105255/decreto-10062).~~
 
 ~~TÍTULO VIII~~
@@ -1204,32 +1214,40 @@ DECRETO Nº 9.883, DE 08 DE JUNHO DE 2021<br>
 
 ~~XVI – desenvolver a análise crítica e o tratamento digital crescente das informações, dos processos e dos procedimentos, para maximizar a eficácia, a economicidade, a abrangência e a escala;~~
 
-~~XVII – articular tempestivamente e com parcimônia os recursos humanos, materiais, tecnológicos e normativos necessários à implementação, nos prazos estabelecidos pela autoridade competente, de medida ou ação prevista no plano de trabalho ou no gerenciamento de rotina;~~<br>
+~~XVII – articular tempestivamente e com parcimônia os recursos humanos, materiais, tecnológicos e normativos necessários à implementação, nos prazos estabelecidos pela autoridade competente, de medida ou ação prevista no plano de trabalho ou no gerenciamento de rotina;~~
+
 ~~\- [Redação dada pelo Decreto nº 10.062, de 29-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105255/decreto-10062).~~
 
 ~~XVII – articular tempestivamente e com parcimônia os recursos humanos, materiais, tecnológicos e normativos necessários à implementação, nos prazos estabelecidos pela autoridade competente, de medida ou ação prevista no plano de trabalho ou no gerenciamento de rotina; e~~
 
-~~XVIII – zelar pela boa administração pública, observados os princípios e as diretrizes do programa de  _Compliance_ Público, com a promoção da cultura da ética, da transparência, da responsabilização e da gestão de riscos;~~<br>
+~~XVIII – zelar pela boa administração pública, observados os princípios e as diretrizes do programa de  _Compliance_ Público, com a promoção da cultura da ética, da transparência, da responsabilização e da gestão de riscos;~~
+
 ~~\- [Redação dada pelo Decreto nº 10.062, de 29-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105255/decreto-10062).~~
 
 ~~XVIII – desempenhar outras atribuições decorrentes do pleno exercício do cargo e as que lhe forem atribuídas por seus superiores hierárquicos.~~
 
-~~XIX – divulgar, disseminar e cumprir os princípios, os dispositivos e as recomendações do Código de Ética e Conduta Profissional;~~<br>
+~~XIX – divulgar, disseminar e cumprir os princípios, os dispositivos e as recomendações do Código de Ética e Conduta Profissional;~~
+
 ~~\- [Acrescido pelo Decreto nº 10.062, de 29-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105255/decreto-10062).~~
 
-~~XX – identificar e gerir os riscos dos processos organizacionais e de programas de governos nos seus respectivos âmbitos de atuação, considerada a dimensão dos prejuízos que possam causar;~~<br>
+~~XX – identificar e gerir os riscos dos processos organizacionais e de programas de governos nos seus respectivos âmbitos de atuação, considerada a dimensão dos prejuízos que possam causar;~~
+
 ~~\- [Acrescido pelo Decreto nº 10.062, de 29-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105255/decreto-10062).~~
 
-~~XXI – monitorar a efetividade dos controles para o tratamento dos riscos sob sua responsabilidade, observados o apetite pelo risco e a tolerância ao risco definidos pelo órgão;~~<br>
+~~XXI – monitorar a efetividade dos controles para o tratamento dos riscos sob sua responsabilidade, observados o apetite pelo risco e a tolerância ao risco definidos pelo órgão;~~
+
 ~~\- [Acrescido pelo Decreto nº 10.062, de 29-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105255/decreto-10062).~~
 
-~~XXII – propor e implementar, quando isso se fizer necessário, novos controles internos para o tratamento dos riscos sob sua responsabilidade;~~<br>
+~~XXII – propor e implementar, quando isso se fizer necessário, novos controles internos para o tratamento dos riscos sob sua responsabilidade;~~
+
 ~~\- [Acrescido pelo Decreto nº 10.062, de 29-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105255/decreto-10062).~~
 
-~~XXIII – reportar, por meio de relatórios periódicos, a evolução do gerenciamento dos riscos sob sua responsabilidade ao Comitê Setorial de _Compliance_ Público; e~~<br>
+~~XXIII – reportar, por meio de relatórios periódicos, a evolução do gerenciamento dos riscos sob sua responsabilidade ao Comitê Setorial de _Compliance_ Público; e~~
+
 ~~\- [Acrescido pelo Decreto nº 10.062, de 29-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105255/decreto-10062).~~
 
-~~XXIV – desempenhar outras atribuições decorrentes do pleno exercício do cargo e as que lhe forem atribuídas por seus superiores hierárquicos.~~<br>
+~~XXIV – desempenhar outras atribuições decorrentes do pleno exercício do cargo e as que lhe forem atribuídas por seus superiores hierárquicos.~~
+
 ~~\- [Acrescido pelo Decreto nº 10.062, de 29-03-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105255/decreto-10062).~~
 
 ~~TÍTULO X~~

@@ -1,5 +1,3 @@
-###DEC-046204-0-000-11-06-1959@@@
-
 DECRETO Nº 46.204, DE 11 DE JUNHO DE 1959.
 
 Autoriza o cidadão brasileiro Pedro Tobias Duarte a pesquisar areais ilmeníticas no município de Primeira Cruz, Estado do Maranhão.

@@ -1,14 +1,12 @@
-###DEC-022769-0-000-19-03-1947@@@
+**DECRETO Nº 22.769, DE 19 DE MARÇO DE 1947.**
 
-<strong>DECRETO Nº 22.769, DE 19 DE MARÇO DE 1947.</strong>
+***Outorga à sociedade Luz e Fôrça do Mucurí Limitada, com sede na Capital Federal, concessão para o aproveitamento progressivo de energia hidráulica existente no rio Mucurí, distrito de Nanuque, município de Carlos Chagas, Estado de Minas Gerais.***
 
-<em><strong>Outorga à sociedade Luz e Fôrça do Mucurí Limitada, com sede na Capital Federal, concessão para o aproveitamento progressivo de energia hidráulica existente no rio Mucurí, distrito de Nanuque, município de Carlos Chagas, Estado de Minas Gerais.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto número 24.643, de 10 de Julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto número 24.643, de 10 de Julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada à sociedade Luz e Fôrça Mucurí Limitada, com sede na Capital Federal, concessão para o aproveitamento progressivo de energia hidráulica da cachoeira Santa Clara, no dio Mucurí, distrito de Nanuque, município de Carlos Chagas, Estado de Minas Gerais.
+**Art**. 1º Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada à sociedade Luz e Fôrça Mucurí Limitada, com sede na Capital Federal, concessão para o aproveitamento progressivo de energia hidráulica da cachoeira Santa Clara, no dio Mucurí, distrito de Nanuque, município de Carlos Chagas, Estado de Minas Gerais.
 
 § 1º Em portaria do Ministro da Agricultura, na ocasião da aprovação dos projetos, serão determinadas a altura de queda a aproveitar, bem como a descarga e a potência concedidas.
 
@@ -16,7 +14,7 @@
 
 § 3º O aproveitamento inicial objetivará a instalação de um grupo hidro-elétrico de 1.200 KWA.
 
-<strong>Art</strong>. 2º Sob pena de caducidade do presente título a concessionária obriga-se a:
+**Art**. 2º Sob pena de caducidade do presente título a concessionária obriga-se a:
 
 I - Registrá-lo na Divisão de Águas dentro de trinta dias, após a sua publicação.
 
@@ -70,34 +68,34 @@ V - Obedecer, em todos os projetos, às prescrições de ordem técnica determin
 
 Parágrafo único. Os prazos a que se refere êste artigo, poderão ser prorrogados por ato do Ministro da Agricultura, ouvida a Divisão de Águas do Departamento Nacional da Produção Mineral do Ministério da Agricultura.
 
-<strong>Art</strong>. 3º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
+**Art**. 3º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
 
-<strong>Art</strong>. 4º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo contrato na Divisão de Águas.
+**Art**. 4º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo contrato na Divisão de Águas.
 
-<strong>Art</strong>. 5º A concessionária fica obrigada a construir e manter, nas proximidades do local do aproveitamento, onde e desde quanto fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga do curso dágua que vai utilizar e a realizar as observações de acôrdo com as instruções  da mesma Divisão.
+**Art**. 5º A concessionária fica obrigada a construir e manter, nas proximidades do local do aproveitamento, onde e desde quanto fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga do curso dágua que vai utilizar e a realizar as observações de acôrdo com as instruções  da mesma Divisão.
 
-<strong>Art</strong>. 6º A concessionária é assegurada, durante a vigência da presente concessão, e respeitados os direitos de terceiros anteriormente adquiridos, a autorização de fazer o comércio de energia hidro-elétrica na zona discriminada no parágrafo 3º, do art. 1º do presente Decreto
+**Art**. 6º A concessionária é assegurada, durante a vigência da presente concessão, e respeitados os direitos de terceiros anteriormente adquiridos, a autorização de fazer o comércio de energia hidro-elétrica na zona discriminada no parágrafo 3º, do art. 1º do presente Decreto
 
-<strong>Art</strong>. 7º O capital a ser remunerado será o efetivamente invertido nas instalações da concessionária, em função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão, transformação e distribuição de energia elétrica.
+**Art**. 7º O capital a ser remunerado será o efetivamente invertido nas instalações da concessionária, em função de sua indústria, concorrendo, de forma permanente, para a produção, transmissão, transformação e distribuição de energia elétrica.
 
-<strong>Art</strong>. 8º As tabelas de preço de energia serão fixadas pela Divisão de Águas, no momento oportuno, e trienamente revistas de acôrdo com o disposto no art. 180 do Código de Águas, de maneira que seja sempre proporcionada ao capital uma justa remuneração (item III do citdao artigo 180) dentro dos limites que deverão ser estipulados no contrato disciplinar da presente concessão.
+**Art**. 8º As tabelas de preço de energia serão fixadas pela Divisão de Águas, no momento oportuno, e trienamente revistas de acôrdo com o disposto no art. 180 do Código de Águas, de maneira que seja sempre proporcionada ao capital uma justa remuneração (item III do citdao artigo 180) dentro dos limites que deverão ser estipulados no contrato disciplinar da presente concessão.
 
-<strong>Art</strong>. 9º Para manutençaõ da integridade do capital a que se refere o art. 7º do presente Decreto, será criado um fundo especial de reserva, que promoverá às renovações determinadas pela depreciação ou impostas por acidentes.
+**Art**. 9º Para manutençaõ da integridade do capital a que se refere o art. 7º do presente Decreto, será criado um fundo especial de reserva, que promoverá às renovações determinadas pela depreciação ou impostas por acidentes.
 
 Parágrafo único. A constituição dêsse fundo, que se denominará reserva de renovação será realizada por cotas especiais que incidirão sôbre as tarifas , sob forma de percentagem. Estas cotas serão determinadas conforme a duração média do material a cuja renovação dita reserva tiver de atender, podendo ser modificadas, trienalmente, na época da revisão das tarifas.             
 
-<strong>Art</strong>. 10º Findo o prazo da concessão, tôda a propriedade da concessionária que, no momento existir em função exclusiva e permanente da produção, transmissão, transformação e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Governo da União, em conformidade com o estipulado nos artigos 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzido a reserva de renovação a que se refere o parágrafo único do art. 9º dêste Decreto.
+**Art**. 10º Findo o prazo da concessão, tôda a propriedade da concessionária que, no momento existir em função exclusiva e permanente da produção, transmissão, transformação e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Governo da União, em conformidade com o estipulado nos artigos 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzido a reserva de renovação a que se refere o parágrafo único do art. 9º dêste Decreto.
 
 § 1º Se o Govêrno da União não fizer uso do seu direito a essa reversão, a concessionária poderá requerer ao referido Govêrno que a concessão seja renovada pela forma que, no respectivo contrato fôr prevista.
 
 § 2º Para os efeitos do § 1º dêste artigo, fica a concessionária obrigada a dar conhecimento ao Govêrno Federal da decisão que tomar, apresentando o requerimento de prorrogação da concessão ou desistência desta, até seis (6) meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 11º A concessionária gozará, desde a data do registro de que trata a art. 4º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 11º A concessionária gozará, desde a data do registro de que trata a art. 4º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 12º O presente Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 12º O presente Decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 19 de março de 1946, 125º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

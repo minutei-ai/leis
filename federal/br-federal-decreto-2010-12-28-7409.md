@@ -1,5 +1,3 @@
-###DEC-007409-0-000-28-12-2010-PUB-01@@@
-
 DECRETO Nº\- 7.409, DE 28 DE DEZEMBRO DE 2010
 
 Altera o Anexo I do Decreto nº 7.094, de 3 de fevereiro de 2010, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2010.

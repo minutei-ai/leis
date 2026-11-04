@@ -1,5 +1,3 @@
-###DEC-094527-0-000-26-06-1987@@@
-
 DECRETO N° 94.527, DE 26 DE JUNHO DE 1987.
 
 Renova a concessão outorgada à Z PUBLICIDADE DO AMAPÁ LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Macapá - Território Federal do Amapá.

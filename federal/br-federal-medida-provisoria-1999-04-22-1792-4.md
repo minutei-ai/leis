@@ -1,5 +1,3 @@
-###MPV-001792-0-004-22-04-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.792-4, DE 22 DE ABRIL DE 1999.
 
 Dispõe sobre o recolhimento ao Tesouro Nacional de parcela da Tarifa de Embarque Internacional, e dá outras providências.

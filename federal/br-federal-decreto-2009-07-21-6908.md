@@ -1,5 +1,3 @@
-###DEC-006908-0-000-21-07-2009@@@
-
 DECRETO Nº 6.908, DE 21 DE JULHO DE 2009.
 
 Altera e acrescenta dispositivos ao Decreto no 6.202, de 30 de agosto de 2007, que dispõe sobre o Prêmio Objetivos de Desenvolvimento do Milênio Brasil.

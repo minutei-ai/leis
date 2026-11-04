@@ -1,5 +1,3 @@
-###DEC-075867-0-000-13-06-1975@@@
-
 DECRETO Nº 75.867, DE 13 DE JUNHO DE 1975.
 
 Autoriza o funcionamento do curso de Direito da Faculdade de Direito Prof. Milton Campos, mantida pelo Centro Educacional de Formação Superior, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

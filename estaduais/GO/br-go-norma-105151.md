@@ -42,8 +42,6 @@ Art. 8º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 18 de março de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

@@ -1,7 +1,3 @@
-1
-
-###DEC-001158-0-000-21-06-1994@@@
-
 DECRETO N° 1.158, DE 21 DE JUNHO DE 1994
 
 Dispõe sobre a execução do Sexto Protocolo Adicional ao Acordo Comercial n° 12, entre Brasil e México, de 12.11.93.

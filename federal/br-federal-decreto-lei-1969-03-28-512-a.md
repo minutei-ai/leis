@@ -1,7 +1,3 @@
-1
-
-###DEL-000512-A-000-28-03-1969@@@
-
 DECRETO-LEI Nº 512-a, DE 28 DE MARÇO DE 1969
 
 Altera a Lei nº 5.020, de 7 de junho de 1966, modificada pela Lei nº 5.500, de 20 de setembro de 1968, que dispõe sôbre a promoção dos Oficiais da Aeronáutica.

@@ -1,5 +1,3 @@
-###MPV-001602-0-000-14-11-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.602, DE 14 DE NOVEMBRO DE 1997
 
 Altera a legislação tributária federal e dá outras providências,

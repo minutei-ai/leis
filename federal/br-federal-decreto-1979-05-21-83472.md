@@ -1,5 +1,3 @@
-###DEC-083472-0-000-21-05-1979@@@
-
 Decreto nº 83.472 de 21 de maio de 1979.
 
 Autoriza o funcionamento das habilitações Supervisão Escolar 1º e 2º Graus do curso de Pedagogia, Português e Literatura da Língua Portuquesa do curso de Letras da Faculdade de Filosofia, Ciências e Letras de Palmas, Estado do Paraná.

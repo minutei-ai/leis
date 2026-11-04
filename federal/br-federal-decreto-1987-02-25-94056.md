@@ -1,5 +1,3 @@
-###DEC-094056-0-000-25-02-1987@@@
-
 DECRETO N° 94.056, DE 25 DE FEVEREIRO DE 1987
 
 Dispõe sobre a Embaixada do Brasil em Saint George's, Granada, e dá outras providências.

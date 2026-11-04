@@ -1,5 +1,3 @@
-###DEC-082788-0-000-04-12-1978@@@
-
 Decreto nº 82.788, de 04 de dezembro de 1978.
 
 Renova por 10 (dez) anos a concessão outorgada à Empresa Jornal do Comércio S.A. para que a Emissoras Guararapes Ltda. passe a executar serviços de radiodifusão sonora em onda média de âmbito regional, na cidade de Pesqueira, Estado de Pernambuco.

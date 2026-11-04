@@ -1,5 +1,3 @@
-###DEL-009776-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.776 – DE 6 DE SETEMBRO DE 1946
 
 Inclusão de Oficiais da Reserva de 1ª Classe do Exército, no Quadro de Oficiais de Infantaria de Guarda da Aeronáutica.

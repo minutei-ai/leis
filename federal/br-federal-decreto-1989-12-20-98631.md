@@ -1,7 +1,3 @@
-1
-
-###DEC-098631-0-000-20-12-1989@@@
-
 DECRETO Nº 98.631, DE 20 DE DEZEMBRO DE 1989
 
 Outorga concessão à Rádio RPC FM LTDA., para explorar Serviço Especial de Televisão por Assinatura - TVA, na região metropolitana do Rio de Janeiro, Estado do Rio de Janeiro.

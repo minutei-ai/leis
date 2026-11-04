@@ -1,7 +1,3 @@
-1
-
-###DEC-097760-0-000-18-05-1989@@@
-
 DECRETO Nº 97.760, DE 18 DE MAIO DE 1989
 
 Reestrutura a Comissão Especial de Recursos do Ministério da Agricultura, e dá outras providências.

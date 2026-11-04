@@ -1,5 +1,3 @@
-###DEC-005628-0-000-22-12-2005@@@
-
 DECRETO Nº 5.628, DE 22 DE DEZEMBRO DE 2005.
 
        Dispõe sobre os bens importados por empresas estabelecidas na Zona Franca de Manaus objeto da suspensão da exigência da Contribuição para o PIS/PASEP-Importação e da COFINS-Importação, na forma do art. 50 da Lei no 11.196, de 21 de novembro de 2005.
@@ -23,5 +21,3 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 LUIZ INÁCIO LULA DA SILVA
 
         Antonio Palocci Filho
-
-Este texto não substitui o publicado no DOU de 23.12.2005

@@ -1,5 +1,3 @@
-###DEC-004124-0-000-13-02-2002@@@
-
 DECRETO Nº 4.124, DE 13 DE FEVEREIRO DE 2002.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República Tcheca sobre Cooperação Técnica e Procedimentos Sanitários e Fitossanitários, celebrado em Brasília, em 18 de novembro de 1999.
@@ -86,4 +84,14 @@ Artigo VI
 
 Feito em Brasília, em 18 de novembro de 1999, em dois exemplares originais, nos idiomas português, tcheco e inglês, sendo todos os textos igualmente autênticos. Em caso de divergência na interpretação, o texto em inglês deverá prevalecer.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:257.3pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:185.15pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República Tcheca</span></p></td></tr><tr><td style="width:257.3pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Marcus Vinícios Pratini de Moraes</span></p></td><td style="width:185.15pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Jan Fencl</span></p></td></tr><tr><td style="width:257.3pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Ministro da Agricultura e do Abastecimento</span></p></td><td style="width:185.15pt; vertical-align:middle"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Ministro de Estado da Agricultura</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil
+
+Pelo Governo da República Tcheca
+
+Marcus Vinícios Pratini de Moraes
+
+Jan Fencl
+
+Ministro da Agricultura e do Abastecimento
+
+Ministro de Estado da Agricultura

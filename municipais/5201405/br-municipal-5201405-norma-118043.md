@@ -38,8 +38,10 @@ Art. 5º Este decreto entrará em vigor na data de sua publicação.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 25 de Abril de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal
 
-CLAUDIO EVERSON DA SILVA<br>
+CLAUDIO EVERSON DA SILVA
+
 Secretário Municipal de Meio Ambiente e Sustentabilidade

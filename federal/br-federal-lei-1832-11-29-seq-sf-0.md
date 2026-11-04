@@ -1,5 +1,3 @@
-###LEI-000000-0-000-29-11-1832@@@
-
 LEI - DE 29 DE NOVEMBRO DE 1832
 
 Promulga o Codigo do Processo Criminal de primeira instancia com disposição provisoria ácerca da administração da Justiça Civil.

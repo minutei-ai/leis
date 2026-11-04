@@ -1,5 +1,3 @@
-###DEC-055439-0-000-31-12-1964@@@
-
 DECRETO Nº 55.439, DE 31 DE DEZEMBRO DE 1964.
 
 Concede à “BEMIL” - Beneficiamento de Minérios Ltda. autorização para funcionar como emprêsa de mineração.

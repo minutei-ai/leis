@@ -1,5 +1,3 @@
-###DEL-009711-0-000-03-09-1946@@@
-
 DECRETO-LEI N. 9.711 – DE 3 DE SETEMBRO DE 1946
 
 Determina o destino a ser dado aos pneumáticos e câmaras de ar apreendidos por motivo de infração das disposições legais em vigor

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=188520)
-
 # DECRETO Nº 63.854, DE 28 DE NOVEMBRO DE 2018
 
 ### _Oficializa a Medalha "Heróis Anônimos", a Medalha "Heróis do Trem Blindado" e o Colar "Heróis do Trem Blindado" do Núcleo M.M.D.C - Jundiaí "Heróis do Trem Blindado" e dá providências correlatas_
@@ -26,11 +24,7 @@ Secretário de Governo
 
 Publicado na Secretaria de Governo, aos 28 de novembro de 2018.
 
-<br>
-
 #### REGULAMENTO DA MEDALHA “HERÓIS ANÔNIMOS”, A MEDALHA “HERÓIS DO TREM BLINDADO” E O COLAR “HERÓIS DO TREM BLINDADO” DO NÚCLEO M.M.D.C - JUNDIAÍ “HERÓIS DO TREM BLINDADO”
-
-<br>
 
 **a que se refere o artigo 1º do [Decreto nº 63.854, de 28 de novembro de 2018](https://www.al.sp.gov.br/norma/188520)**
 
@@ -56,7 +50,8 @@ c) fita: o medalhão pende de uma fita de gorgorão de seda chamalotada listrada
 
 **II** - Medalha “Heróis do Trem Blindado”:
 
-a) anverso: escudo redondo de ouro, de 32mm (trinta e dois milímetros) de diâmetro, ao centro a locomotiva de um trem (fantasia) blindado em alto relevo, que se desloca sobre trilhos na direção do observador, na diagonal da destra, inferior, para a sinistra superior, ao fundo os contornos de montanhas (Serra do Japi); sobreposta de tudo, encaixada, a uma engrenagem de 40mm (quarenta milímetros) de diâmetro, de oito dentes distribuídos de forma equidistante, com 4mm (quatro milímetros) de altura, 6mm (seis milímetros) de largura na base superior e 8mm (oito milímetros) na base inferior;<br>
+a) anverso: escudo redondo de ouro, de 32mm (trinta e dois milímetros) de diâmetro, ao centro a locomotiva de um trem (fantasia) blindado em alto relevo, que se desloca sobre trilhos na direção do observador, na diagonal da destra, inferior, para a sinistra superior, ao fundo os contornos de montanhas (Serra do Japi); sobreposta de tudo, encaixada, a uma engrenagem de 40mm (quarenta milímetros) de diâmetro, de oito dentes distribuídos de forma equidistante, com 4mm (quatro milímetros) de altura, 6mm (seis milímetros) de largura na base superior e 8mm (oito milímetros) na base inferior;
+
 b) reverso: escudo redondo de ouro, em chefe, o brasão da Sociedade Veteranos de 32, e em ponta, em relevo, caracteres versais maiúsculos a seguinte inscrição:
 
 1\. MMDC JUNDIAHY;

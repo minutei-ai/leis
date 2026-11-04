@@ -1,4 +1,5 @@
-DECRETO “N” Nº 602 DE 13 DE SETEMBRO DE 2023<br>
+DECRETO “N” Nº 602 DE 13 DE SETEMBRO DE 2023
+
 (Revogado pelo Decreto "N" Nº 641, de 6 de outubro de 2023).
 
 ~~Dispõe sobre remembramento e desmembramento.~~
@@ -47,7 +48,77 @@ DECRETO “N” Nº 602 DE 13 DE SETEMBRO DE 2023<br>
 | ~~LOTE 03A~~ | ~~240,00~~ |
 | ~~LOTE 03B~~ | ~~240,00~~ |
 
-<table><thead></thead><tbody><tr><td style="text-align:center"><s>LOTE 04A</s></td><td style="text-align:center"><s>240,00</s></td></tr><tr><td style="text-align:center"><s>LOTE 04B</s></td><td style="text-align:center"><s>240,00</s></td></tr><tr><td style="text-align:center"><s>LOTE 05A</s></td><td style="text-align:center"><s>240,00</s></td></tr><tr><td style="text-align:center"><s>LOTE 05B</s></td><td style="text-align:center"><s>240,00</s></td></tr><tr><td style="text-align:center"><s>LOTE 06A</s></td><td style="text-align:center"><s>240,00</s></td></tr><tr><td style="text-align:center"><s>LOTE 07A</s></td><td style="text-align:center"><s>240,00</s></td></tr><tr><td style="text-align:center"><s>LOTE 08A</s></td><td style="text-align:center"><s>240,00</s></td></tr><tr><td style="text-align:center"><s>LOTE 09A</s></td><td style="text-align:center"><s>240,00</s></td></tr><tr><td style="text-align:center"><s>LOTE 10A</s></td><td style="text-align:center"><s>240,00</s></td></tr><tr><td style="text-align:center"><s>LOTE 26A</s></td><td style="text-align:center"><s>240,00</s></td></tr><tr><td style="text-align:center"><s>LOTE 26B</s></td><td style="text-align:center"><s>240,00</s></td></tr><tr><td style="text-align:center"><s>LOTE 27A</s></td><td style="text-align:center"><s>240,00</s></td></tr><tr><td style="text-align:center"><s>LOTE 31A</s></td><td style="text-align:center"><s>240,00</s></td></tr><tr><td style="text-align:center"><s>LOTE 31B</s></td><td style="text-align:center"><s>240,00</s></td></tr><tr><td style="text-align:center"><s>LOTE 32A</s></td><td style="text-align:center"><s>240,00</s></td></tr><tr><td style="text-align:center"><s>LOTE 32B</s></td><td style="text-align:center"><s>240,00</s></td></tr><tr><td style="text-align:center"><s>LOTE 33A</s></td><td style="text-align:center"><s>240,00</s></td></tr><tr><td style="text-align:center"><s>LOTE 34A</s></td><td style="text-align:center"><s>240,00</s></td></tr></tbody></table>
+~~LOTE 04A~~
+
+~~240,00~~
+
+~~LOTE 04B~~
+
+~~240,00~~
+
+~~LOTE 05A~~
+
+~~240,00~~
+
+~~LOTE 05B~~
+
+~~240,00~~
+
+~~LOTE 06A~~
+
+~~240,00~~
+
+~~LOTE 07A~~
+
+~~240,00~~
+
+~~LOTE 08A~~
+
+~~240,00~~
+
+~~LOTE 09A~~
+
+~~240,00~~
+
+~~LOTE 10A~~
+
+~~240,00~~
+
+~~LOTE 26A~~
+
+~~240,00~~
+
+~~LOTE 26B~~
+
+~~240,00~~
+
+~~LOTE 27A~~
+
+~~240,00~~
+
+~~LOTE 31A~~
+
+~~240,00~~
+
+~~LOTE 31B~~
+
+~~240,00~~
+
+~~LOTE 32A~~
+
+~~240,00~~
+
+~~LOTE 32B~~
+
+~~240,00~~
+
+~~LOTE 33A~~
+
+~~240,00~~
+
+~~LOTE 34A~~
+
+~~240,00~~
 
 ~~Parágrafo único. O remembramento/desmembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2023.104.701, aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana.~~
 
@@ -55,8 +126,10 @@ DECRETO “N” Nº 602 DE 13 DE SETEMBRO DE 2023<br>
 
 ~~Aparecida de Goiânia, Estado de Goiás, aos 13 de setembro de 2023.~~
 
-~~POLLYANA OLIVEIRA BORGES<br>
+~~POLLYANA OLIVEIRA BORGES
+
 Secretária Interina de Governo~~
 
-~~JÚLIO CÉSAR CHAGAS MENDES<br>
+~~JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário Interino de Planejamento e Regulação Urbana~~

@@ -1,5 +1,3 @@
-###DEC-097408-0-000-23-12-1988@@@
-
 DECRETO N° 97.408, DE 23 DE DEZEMBRO DE 1988
 
 Prorroga os trabalhos de garimpagem na localidade de Serra Pelada, de acordo com o estabelecido na Lei n° 7.194, de 11 de junho de 1984, e posterior alteração da Lei n° 7.599, de 15 de maio de 1987.

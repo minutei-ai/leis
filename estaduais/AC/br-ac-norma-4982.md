@@ -1,6 +1,10 @@
 > **LEI Nº 3.888, DE 22 DE DEZEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Estado a receber em doação, com encargo, um imóvel urbano destinado à construção da Unidade Ministerial do Ministério Público do Estado do Acre - MPE, no Município de Assis Brasil.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Estado a receber em doação, com encargo, um imóvel urbano destinado à construção da Unidade Ministerial do Ministério Público do Estado do Acre - MPE, no Município de Assis Brasil.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-064018-0-000-22-01-1969@@@
-
 Decreto nº 64.018, de 22 de janeiro de 1969.
 
 Declara interdita a área indígena que discrimina e dá outras providências.

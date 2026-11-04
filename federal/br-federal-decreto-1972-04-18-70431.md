@@ -1,5 +1,3 @@
-###DEC-070431-0-000-18-04-1972@@@
-
 DECReTO Nº 70.431, DE 18 DE ABRIL DE 1972.
 
 Autoriza a contratação de operações de crédito externo para financiamento das obras do Aeroporto Internacional Principal do Brasil, no Galeão, e dá outras providências.

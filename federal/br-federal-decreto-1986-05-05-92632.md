@@ -1,5 +1,3 @@
-###DEC-092632-0-000-05-05-1986@@@
-
 Decreto nº 92.632, de 5 de maio de 1986
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA, a doar o imóvel que menciona.

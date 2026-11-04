@@ -1,5 +1,3 @@
-###DEC-061351-0-000-15-09-1967@@@
-
 DECRETO Nº 61.351, DE 15 DE SETEMBRO DE 1967.
 
 Aprova as alterações introduzidas nos Estatutos da Indiana Companhia de Seguros Gerais, inclusive aumento do capital social.

@@ -1,5 +1,3 @@
-###DEC-091014-0-000-27-02-1985@@@
-
 Decreto nº 91.014, de 27 de fevereiro de 1985
 
 Renova as concessões outorgadas às entidades que menciona para explorarem serviços de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

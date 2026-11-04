@@ -1,7 +1,3 @@
-1
-
-###MPV-001153-0-000-24-10-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.153, DE 24 DE OUTUBRO DE 1995.
 
 Cria a Gratificação de Desempenho e Produtividade - GDP das atividades de finanças, controle, orçamento e planejamento, e dá outras providências.

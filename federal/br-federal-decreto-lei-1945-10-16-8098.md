@@ -1,5 +1,3 @@
-###DEL-008098-0-000-16-10-1945@@@
-
 DECRETO-LEI N. 8.098 – DE 16 DE OUTUBRO DE 1945
 
 Cria funções gratificadas no Quadro Permanente do Ministério da Justiça e Negócios Interiores e dá outras providências.

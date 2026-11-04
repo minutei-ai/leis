@@ -1,5 +1,3 @@
-###DEC-089378-0-000-14-02-1984@@@
-
 Decreto nº 89.378, de 14 de fevereiro de 1984
 
 Outorga à Companhia Paranaense de Energia - COPEL concessão para produção de energia elétrica através de usinas hidrelétricas em operação no Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-055313-0-000-31-12-1964@@@
-
 DECRETO Nº 55.313, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Afonso Murilo Souto a pesquisar ouro no Município de Peixe, Estado de Goiás.

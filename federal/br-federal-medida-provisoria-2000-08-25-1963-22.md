@@ -1,5 +1,3 @@
-###MPV-001963-0-022-25-08-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.963-22, DE 25 DE agosto DE 2000.
 
 Dispõe sobre a administração dos recursos de caixa do Tesouro Nacional, consolida e atualiza a legislação pertinente ao assunto e dá outras providências.

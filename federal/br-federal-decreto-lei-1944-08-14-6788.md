@@ -1,5 +1,3 @@
-###DEL-006788-0-000-14-08-1944@@@
-
 DECRETO-LEI N. 6.788 – DE 14 DE AGÔSTO DE 1944
 
 Dispõe sôbre o montepio dos ministros do Supremo Tribunal Federal

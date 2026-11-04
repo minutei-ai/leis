@@ -1,5 +1,3 @@
-###DEC-068116-0-000-27-01-1971@@@
-
 DECRETO Nº 68.116, de 27 de JANEIRO DE 1971.
 
 Muda a denominação do Departamento de Provisão Geral do Ministério do Exército.

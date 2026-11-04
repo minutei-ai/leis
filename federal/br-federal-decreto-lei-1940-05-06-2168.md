@@ -1,5 +1,3 @@
-###DEL-002168-0-000-06-05-1940@@@
-
 DECRETO-LEI N. 2.168 – DE 6 DE MAIO DE 1940
 
 Cria a função de Delegado Regional do Ministério do Trabalho, Indústria e Comércio e dá outras providências

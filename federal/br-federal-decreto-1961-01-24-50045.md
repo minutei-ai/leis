@@ -1,5 +1,3 @@
-###DEC-050045-0-000-24-01-1961@@@
-
 DECRETO Nº 50.045, DE 24 DE Janeiro DE 1961.
 
 Autoriza Águas Minerais Santa Clara S. A., a lavrar água mineral no município de Recife, Estado de Pernambuco.

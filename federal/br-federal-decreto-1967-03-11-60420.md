@@ -1,5 +1,3 @@
-###DEC-060420-0-000-11-03-1967@@@
-
 DECRETO Nº 60.420, DE 11 DE MARÇO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona necessário ao Ministério da Saúde.

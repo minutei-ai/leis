@@ -1,5 +1,3 @@
-###DEC-092826-0-000-26-06-1986@@@
-
 DECRETO Nº 92.826, DE 26 DE JUNHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Lagoa do Mineiro" ou "Córrego do Mineiro", situado nos Municípios de Acaraú e Itapipoca, no Estado do Ceará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.617, de 2 de maio de 1986 e dá outras providências.

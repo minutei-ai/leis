@@ -1,5 +1,3 @@
-###DEC-053299-0-000-16-12-1963@@@
-
 decreto nº 53.299,de 16 dezembro de 1963.
 
 Autoriza o cidadão brasileiro Pedro Larocca a lavrar xisto argiloso no município de Pirapora do Bom Jesus, Estado de São Paulo.

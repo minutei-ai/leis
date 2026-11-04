@@ -1,5 +1,3 @@
-###DEC-050085-0-000-25-01-1961@@@
-
 DECRETO Nº 50.085, DE 25 DE JANEIRO 1961.
 
 Outorga concessão à Rádio Ribeirão Preto Limitada para estabelecer uma estação de radiodifusão.

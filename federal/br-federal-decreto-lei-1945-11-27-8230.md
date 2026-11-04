@@ -1,5 +1,3 @@
-###DEL-008230-0-000-27-11-1945@@@
-
 DECRETO-LEI N. 8.230 – DE  27 DE NOVEMBRO DE 1945
 
 Abre crédito suplementar de Cr$ 250.00,00 à dotação especifica.

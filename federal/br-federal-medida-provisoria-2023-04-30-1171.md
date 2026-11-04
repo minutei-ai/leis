@@ -260,7 +260,41 @@ X – a partir do mês de maio do ano-calendário de 2023:
 
 Tabela Progressiva Mensal
 
-<table cellspacing="2" cellpadding="0" style="width:355.1pt; margin-left:70.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; border-spacing:1.5pt"><tbody><tr><td style="width:130.15pt; border-style:solid; border-width:0.75pt; padding:0.75pt; vertical-align:middle; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold">Base de Cálculo (RS)</span></p></td><td style="width:67.15pt; border-style:solid; border-width:0.75pt; padding:0.75pt; vertical-align:middle; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold">Alíquota (%)</span></p></td><td style="width:144.3pt; border-style:solid; border-width:0.75pt; padding:0.75pt; vertical-align:middle; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:0pt; text-align:center; font-size:10pt"><span style="font-weight:bold">Parcela a Deduzir do IR (R$)</span></p></td></tr><tr><td style="width:130.15pt; border-style:solid; border-width:0.75pt; padding:0.75pt; vertical-align:middle; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt"><span>Até 2.112,00</span></p></td><td style="width:67.15pt; border-style:solid; border-width:0.75pt; padding:0.75pt; vertical-align:middle; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt"><span>zero</span></p></td><td style="width:144.3pt; border-style:solid; border-width:0.75pt; padding:0.75pt; vertical-align:middle; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt"><span>zero</span></p></td></tr><tr><td style="width:130.15pt; border-style:solid; border-width:0.75pt; padding:0.75pt; vertical-align:middle; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt"><span>De 2.112,01 até 2.826,65</span></p></td><td style="width:67.15pt; border-style:solid; border-width:0.75pt; padding:0.75pt; vertical-align:middle; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt"><span>7,5</span></p></td><td style="width:144.3pt; border-style:solid; border-width:0.75pt; padding:0.75pt; vertical-align:middle; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt"><span>158,40</span></p></td></tr><tr><td style="width:130.15pt; border-style:solid; border-width:0.75pt; padding:0.75pt; vertical-align:middle; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt"><span>De 2.826,66 até 3.751,05</span></p></td><td style="width:67.15pt; border-style:solid; border-width:0.75pt; padding:0.75pt; vertical-align:middle; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt"><span>15</span></p></td><td style="width:144.3pt; border-style:solid; border-width:0.75pt; padding:0.75pt; vertical-align:middle; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt"><span>370,40</span></p></td></tr><tr><td style="width:130.15pt; border-style:solid; border-width:0.75pt; padding:0.75pt; vertical-align:middle; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt"><span>De 3.751,06 até 4.664,68</span></p></td><td style="width:67.15pt; border-style:solid; border-width:0.75pt; padding:0.75pt; vertical-align:middle; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt"><span>22,5</span></p></td><td style="width:144.3pt; border-style:solid; border-width:0.75pt; padding:0.75pt; vertical-align:middle; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt"><span>651,73</span></p></td></tr><tr><td style="width:130.15pt; border-style:solid; border-width:0.75pt; padding:0.75pt; vertical-align:middle; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt"><span>Acima de 4.664,68</span></p></td><td style="width:67.15pt; border-style:solid; border-width:0.75pt; padding:0.75pt; vertical-align:middle; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt"><span>27,5</span></p></td><td style="width:144.3pt; border-style:solid; border-width:0.75pt; padding:0.75pt; vertical-align:middle; -aw-border:0.5pt single"><p style="margin-top:0pt; margin-bottom:0pt; font-size:10pt"><span>884,96</span></p></td></tr></tbody></table>
+Base de Cálculo (RS)
+
+Alíquota (%)
+
+Parcela a Deduzir do IR (R$)
+
+Até 2.112,00
+
+zero
+
+zero
+
+De 2.112,01 até 2.826,65
+
+7,5
+
+158,40
+
+De 2.826,66 até 3.751,05
+
+15
+
+370,40
+
+De 3.751,06 até 4.664,68
+
+22,5
+
+651,73
+
+Acima de 4.664,68
+
+27,5
+
+884,96
 
 ......................................................” (NR)
 

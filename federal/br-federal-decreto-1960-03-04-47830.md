@@ -1,5 +1,3 @@
-###DEC-047830-0-000-04-03-1960@@@
-
 DECRETO Nº 47.830, DE 4 DE MARÇO DE 1960.
 
 Aprova a reforma estatuária do Banco da Prefeitura do Distrito Federal S.A. com sede nesta Capital.

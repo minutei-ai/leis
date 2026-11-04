@@ -6,7 +6,8 @@ Dispõe sobre organização, planejamento, fiscalização e poder de polícia do
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1º - Esta Lei dispõe sobre organização, planejamento, fiscalização e poder de polícia do Sistema de Transporte Rodoviário Intermunicipal de Passageiros do Estado da Bahia - SRI.
@@ -17,7 +18,8 @@ Art. 3º - O transporte rodoviário intermunicipal de passageiros do Estado da B
 
 Art. 4º - O Sistema de Transporte Rodoviário Intermunicipal de Passageiros do Estado da Bahia - SRI compreende os serviços de transporte realizados entre pontos terminais, considerados início e fim, transpondo limites de um ou mais municípios, com itinerários, seções, tarifas e horários definidos, realizados por estradas federais, estaduais ou municipais, abrangendo o transporte de passageiros, suas bagagens e encomendas de terceiros.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DO PLANEJAMENTO E DA IMPLANTAÇÃO DOS SERVIÇOS
 
 Art. 5º - Os serviços do SRI serão operacionalmente planejados, coordenados, controlados, concedidos, permitidos, regulados e fiscalizados pela AGERBA, autarquia sob regime especial vinculada à Secretaria de Infra-Estrutura - SEINFRA.
@@ -52,7 +54,8 @@ III - os meios alternativos a serem utilizados em situações emergenciais e o c
 
 IV - os índices de acidentes por categoria e as conclusões dos respectivos laudos periciais.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 PLANO DIRETOR
 
 Art. 8º - A Secretaria de Infra-Estrutura deverá elaborar e manter atualizado Plano Diretor de Transporte Rodoviário Intermunicipal de Passageiros que contemple as diretrizes de ação em todos os aspectos relacionados com o transporte de passageiros, com vistas à eficiência na prestação do serviço público.
@@ -81,7 +84,8 @@ VII - o processo dinâmico da oferta de serviços de interesse público, visando
 
 VIII - a aplicação e expansão do Programa de Qualidade do Transporte, visando atingir todas as concessionárias e permissionárias do Sistema de Transporte Rodoviário.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DA ESTRUTURAÇÃO BÁSICA
 
 Art. 10 - O SRI será composto dos seguintes subsistemas:
@@ -144,7 +148,8 @@ Art. 20 - O transporte rodoviário intermunicipal de passageiros no Estado da Ba
 
 Art. 21 - A AGERBA editará normas que promovam a acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, mediante, entre outras medidas, a supressão de barreiras e obstáculos nos equipamentos e serviços do SRI, observadas as normas técnicas brasileiras relativas à matéria.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DA REMUNERAÇÃO DOS OPERADORES
 
 Art. 22 - Os serviços do SRI serão remunerados mediante receitas provenientes das tarifas pagas pelos usuários desses serviços, as quais serão calculadas e revistas periodicamente pela AGERBA.
@@ -163,7 +168,8 @@ Art. 24 - Somente poderão viajar sem o bilhete de passagem ou o cupom fiscal fu
 
 § 2º - A lei que instituir a gratuidade total ou parcial indicará a forma de custeio.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DO CONTROLE E DA FISCALIZAÇÃO
 
 Art. 25 - O controle e a fiscalização dos serviços do SRI serão exercidos pela AGERBA.
@@ -182,7 +188,8 @@ Art. 27 - As infrações às normas do SRI são classificadas quanto à sua natu
 
 Art. 28 - A transportadora que deixar de efetuar a renovação do registro cadastral na data que lhe for designada pela AGERBA é punível com multa no valor equivalente, em reais, a 1% (um por cento) do valor de um veículo padrão zero quilômetro utilizado pelo Permissionário ou Concessionário, adotado na composição tarifária vigente, aplicável a cada trimestre de inadimplemento de sua obrigação.
 
-Retificado no D.O.E. de 17.06.2009.<br>
+Retificado no D.O.E. de 17.06.2009.
+
 Redação anterior: "...a 7% (sete por cento) do valor de um veículo ônibus rodoviário zero quilômetro,..."
 
 Art. 29 - As medidas administrativas, instrumento do poder de polícia da AGERBA, são ações coercitivas e expeditas, adotadas pelas autoridades ou seus agentes, visando interromper, de imediato, uma prática inadequada, nociva ou perigosa à segurança do SRI, nos termos no Anexo Único desta Lei.
@@ -285,7 +292,8 @@ Art. 42-A - Fica afastada a aplicação da penalidade de multa descrita no Anexo
 
 Art. 42-A acrescido pelo art. 5º da Lei nº [14.031](https://www.legislabahia.ba.gov.br/documentos/lei-no-14031-de-12-de-dezembro-de-2018) de 12 de dezembro de 2018.
 
-CAPÍTULO VII -<br>
+CAPÍTULO VII -
+
 DO PROCESSO ADMINISTRATIVO E DOS RECURSOS
 
 Art. 43 - A cada infração às normas do SRI, ou a usurpação da competência do Estado para operá-lo, corresponderá a lavratura de um auto de infração pelo agente ou autoridade da AGERBA que o constatar, registrando-se a natureza da transgressão e a medida administrativa adotada.
@@ -310,7 +318,8 @@ Art. 48 - Após o trânsito em julgado administrativo da decisão que julgar pro
 
 Art. 49 - A Câmara Superior de que trata o artigo antecedente manterá ou reformará a decisão, encerrando a instância administrativa.
 
-CAPÍTULO VIII -<br>
+CAPÍTULO VIII -
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 50 - O regulamento do SRI será expedido mediante decreto do Chefe do Poder Executivo.
@@ -319,19 +328,22 @@ Art. 51 - Fica criada na estrutura da AGERBA a Câmara Superior de Julgamento de
 
 § 1º - O órgão de que trata o caput deste artigo terá formação mista, com participação dos operadores do SRI, do SHI e do Poder Público, na forma seguinte:
 
-Redação de acordo com o art. 60 da Lei nº 12.044, de 04 de dezembro de 2011.<br>
+Redação de acordo com o art. 60 da Lei nº 12.044, de 04 de dezembro de 2011.
+
 Redação original: "§ 1º - O órgão de que trata o caput deste artigo terá formação mista, com participação dos operadores do SRI e do Poder Público, na forma seguinte:"
 
 I - 02 (dois) representantes da AGERBA, um dos quais o presidirá;
 
 II - 01 (um) representante dos operadores do SRI;
 
-Redação de acordo com o art. 60 da Lei nº 12.044, de 04 de dezembro de 2011.<br>
+Redação de acordo com o art. 60 da Lei nº 12.044, de 04 de dezembro de 2011.
+
 Redação original: "II - 02 (dois) representantes dos operadores do SRI, sendo 01 (um) do subsistema complementar;"
 
 III - 01 (um) representante dos operadores do SHI;
 
-Redação de acordo com o art. 60 da Lei nº 12.044, de 04 de dezembro de 2011.<br>
+Redação de acordo com o art. 60 da Lei nº 12.044, de 04 de dezembro de 2011.
+
 Redação original: "III - 01 (um) representante da SEINFRA."
 
 VI - 01 (um) representante da SEINFRA.
@@ -366,7 +378,8 @@ Antonio Carlos Batista Neves
 
 Secretário de Infra-Estrutura
 
-GRUPO I -<br>
+GRUPO I -
+
 INFRAÇÕES DE NATUREZA LEVE
 
 1 - Manter em serviço pessoal de contato permanente com o público sem uniforme ou sem exibir em lugar visível crachá de identificação, com indicação de sua função, fornecida pela empresa:
@@ -421,7 +434,8 @@ Penalidade - multa.
 
 Penalidade - multa.
 
-GRUPO II -<br>
+GRUPO II -
+
 INFRAÇÕES DE NATUREZA MÉDIA
 
 1 - Recusar ou dificultar o livre acesso dos agentes da AGERBA às instalações e veículos da transportadora, devidamente credenciada e em serviço:
@@ -512,7 +526,8 @@ Penalidade - multa.
 
 Penalidade - multa.
 
-GRUPO III -<br>
+GRUPO III -
+
 INFRAÇÕES DE NATUREZA GRAVE
 
 1 - Recusar ou retardar o fornecimento de documentos, dados e informações estatísticas, financeiras e contábeis dos serviços e da transportadora, ou fornecê-los de forma parcial, enganosa ou falseada:
@@ -575,7 +590,8 @@ Penalidade - multa.
 
 Penalidade - multa.
 
-GRUPO IV -<br>
+GRUPO IV -
+
 INFRAÇÕES DE NATUREZA GRAVÍSSIMA
 
 1 - Deixar de apresentar, no interior do veículo em serviço, Certificado de Vistoria expedido pela AGERBA e/ou a documentação exigida em lei:

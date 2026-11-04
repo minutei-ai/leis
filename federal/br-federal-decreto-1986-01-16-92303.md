@@ -1,5 +1,3 @@
-###DEC-092303-0-000-16-01-1986@@@
-
 DECRETO Nº 92.303, DE 16 DE JANEIRO DE 1986
 
 Autoriza o funcionamento do curso de Química Industrial das Faculdades "Farias Brito".

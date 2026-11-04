@@ -1,5 +1,3 @@
-###DEC-068878-0-000-06-07-1971@@@
-
 DECRETO Nº 68.878, DE 06 de JULHO DE 1971.
 
 Autoriza estrangeiro a adquirir o domínio pleno do imóvel que menciona, no Estado da Guanabara.

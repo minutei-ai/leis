@@ -1,5 +1,3 @@
-###DEL-006723-0-000-24-07-1944@@@
-
 DECRETO-LEI N. 6.723 – DE 24 DE JULHO DE 1944
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 235.800,00, à verba que especifica

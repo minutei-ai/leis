@@ -1,5 +1,3 @@
-###DEC-056681-0-000-09-08-1965@@@
-
 Decreto nº 56.681, de 9 de agôsto de 1965.
 
 Autoriza a Companhia Estadual de Energia Elétrica do Rio Grande do Sul, a instalar grupo Diesel-elétrico.

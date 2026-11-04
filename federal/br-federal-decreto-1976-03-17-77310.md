@@ -1,5 +1,3 @@
-###DEC-077310-0-000-17-03-1976@@@
-
 DECRETO Nº 77.310, DE 17 DE MARÇO DE 1976
 
 Autoriza a transformação do Curso de Desenho e Plástica da Faculdade de Belas Artes de São Paulo e revoga o Decreto nº 75.965, de 11de julho de 1975.

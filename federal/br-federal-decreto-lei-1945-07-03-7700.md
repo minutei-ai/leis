@@ -1,5 +1,3 @@
-###DEL-007700-0-000-03-07-1945@@@
-
 DECRETO-LEI N. 7.700 – DE 3 DE JULHO DE 1945
 
 Dispõe sôbre o afastamento dos membros dos Tribunais Regionais e Juizes Eleitorais.

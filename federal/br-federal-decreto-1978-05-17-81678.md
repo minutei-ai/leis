@@ -1,5 +1,3 @@
-###DEC-081678-0-000-17-05-1978@@@
-
 Decreto nº 81.678, de 17 de maio de 1978
 
 Modifica o Decreto nº 81.199,de 09 de janeiro de 1978, que alterou a constituição do Comando-Geral  de Apoio.

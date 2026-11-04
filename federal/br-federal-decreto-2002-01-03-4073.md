@@ -1,5 +1,3 @@
-###DEC-004073-0-000-03-01-2002@@@
-
 DECRETO Nº 4.073, DE 3 DE JANEIRO DE 2002.
 
 Regulamenta a Lei no 8.159, de 8 de janeiro de 1991, que dispõe sobre a política nacional de arquivos públicos e privados.

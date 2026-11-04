@@ -1,5 +1,3 @@
-###DEC-057530-0-000-28-12-1965@@@
-
 DECRETO Nº 57.530, DE 28 DE DEZEMBRO DE 1965.
 
 Incluir cargos no Quadro do Pessoal do Ministério da Educação e Cultura e dá outras providências.

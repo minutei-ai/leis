@@ -1,5 +1,3 @@
-###DEC-059153-0-000-31-08-1966@@@
-
 DECRETO Nº 59.153, DE 31 DE AGôSTO DE 1966.
 
 Institui, no Ministério da Saúde, a Campanha de Erradicação da Varíola e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-085565-0-000-18-12-1980@@@
-
 Decreto nº 85.565, de 18 de dezembro de 1980.
 
 Regulamenta o Decreto-lei nº 1.809, de 7 de outubro de 1980, que institui o Sistema de Proteção ao Programa Nuclear Brasileiro e dá outras providências.

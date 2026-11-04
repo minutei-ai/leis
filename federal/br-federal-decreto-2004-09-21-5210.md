@@ -1,5 +1,3 @@
-###DEC-005210-0-000-21-09-2004@@@
-
 DECRETO Nº 5.210 DE 21 DE SETEMBRO DE 2004
 
 Dá nova redação ao art. 6o do Estatuto da Caixa Econômica Federal, aprovado pelo Decreto nºo 5.056, de 29 de abril de 2004.

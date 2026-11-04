@@ -1,5 +1,3 @@
-###DEC-065263-0-000-02-10-1969@@@
-
 DECRETO Nº 65.263 - DE 2 DE OUTUBRO DE 1969.
 
 Retifica a Tabela Numérica Especial de Mensalistas do Ministério da Saúde, criada pelo Decreto nº 49.346, de 26 de novembro de 1960, e dá outras providências.

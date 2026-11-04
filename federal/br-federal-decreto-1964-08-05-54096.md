@@ -1,5 +1,3 @@
-###DEC-054096-0-000-05-08-1964@@@
-
 DECRETO Nº 54.096, DE 5 DE AGÔSTO DE 1964.
 
 Declara de utilidade pública, para fins de servidão ou de desapropriação em favor da Petróleo Brasileiro S.A. – Petrobrás - imóveis necessários à pesquisa e lavra de petróleo, situados no Estado da Bahia.

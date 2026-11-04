@@ -1,5 +1,3 @@
-###DEC-051953-0-000-26-04-1963@@@
-
 DECRETO Nº 51.953, DE 26 DE ABRIL DE 1963.
 
 Concede à SONAVE - Sociedade Armadora de Navegação de Cabotagem S.A. autorização para funcionar como emprêsa de navegação de cabotagem.

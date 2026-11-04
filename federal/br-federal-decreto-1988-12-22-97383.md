@@ -1,5 +1,3 @@
-###DEC-097383-0-000-22-12-1988@@@
-
 DECRETO Nº 97.383, DE 22 DE DEZEMBRO DE 1988
 
 Aprova o Estatuto da Fundação Cultural Palmares - FCP e dá outras providências.

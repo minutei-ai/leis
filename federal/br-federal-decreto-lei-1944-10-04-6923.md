@@ -1,5 +1,3 @@
-###DEL-006923-0-000-04-10-1944@@@
-
 DECRETO-LEI N. 6.923 – DE 4 DE OUTUBRO DE 1944
 
 Concede pensão especial à viúva e aos filhos menores de Marcial Mozart, vítima de acidente em serviço

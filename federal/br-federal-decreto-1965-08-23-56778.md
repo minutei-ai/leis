@@ -1,5 +1,3 @@
-###DEC-056778-0-000-23-08-1965@@@
-
 DECRETO Nº 56.778, de 23 de agôsto de 1965.
 
 Autoriza o cidadão brasileiro Manoel Joaquim de Carvalho a pesquisar cristal de rocha no município de Itaberaba, Estado da Bahia.

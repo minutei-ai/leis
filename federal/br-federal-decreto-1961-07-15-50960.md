@@ -1,5 +1,3 @@
-###DEC-050960-0-000-15-07-1961@@@
-
 DECRETO Nº 50.960, de 15 DE Julho DE 1961.
 
 Constitui um Grupo de Trabalho para o fim especial que específica.

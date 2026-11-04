@@ -1,5 +1,3 @@
-###DEC-082546-0-000-01-11-1978@@@
-
 Decreto nº 82.546, de 01 de novembro de 1978.
 
 Declara a caducidade da autorização de lavra que menciona.

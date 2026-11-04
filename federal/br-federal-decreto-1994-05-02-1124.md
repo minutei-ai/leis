@@ -1,7 +1,3 @@
-1
-
-###DEC-001124-0-000-02-05-1994@@@
-
 DECRETO N° 1.124, DE 2 DE MAIO DE 1994
 
 Modifica, no Ministério das Relações Exteriores, o Conselho Diplomático.

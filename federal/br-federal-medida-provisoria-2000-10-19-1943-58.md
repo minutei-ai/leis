@@ -1,5 +1,3 @@
-###MPV-001943-0-058-19-10-2000@@@
-
 MEDIDA PROVISóRIA Nº 1.943-58, DE 19 de outubro DE 2000.
 
 Altera a legislação do imposto de renda e dá outras providências.

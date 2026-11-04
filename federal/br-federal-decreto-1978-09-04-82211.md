@@ -1,5 +1,3 @@
-###DEC-082211-0-000-04-09-1978@@@
-
 Decreto nº 82.211, de 04 de setembro de 1978.
 
 Concede reconhecimento ao curso de Ciências da Faculdade Auxilium de Filosofia, Ciências e Letras, com sede na cidade de Lins, Estado de São Paulo.

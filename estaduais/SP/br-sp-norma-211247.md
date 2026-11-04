@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211247)<br>
-
 # DECRETO N° 69.748, DE 28 DE JULHO DE 2025
 
 ### _Autoriza a Fazenda do Estado a receber, mediante doação, do Município de Piracicaba, o imóvel que especifica._

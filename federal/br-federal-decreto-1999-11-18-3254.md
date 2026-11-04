@@ -1,5 +1,3 @@
-###DEC-003254-0-000-18-11-1999@@@
-
 DECRETO Nº 3.254, DE 18 DE NOVEMBRO DE 1999.
 
 Altera dispositivos do Decreto nº 3.031, de 20 de abril de 1999, que dispõe sobre a compatibilização entre a realização da receita e execução da despesa, sobre a programação orçamentária e financeira do Poder Executivo para o exercício de 1999, e dá outras providências.

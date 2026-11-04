@@ -1,5 +1,3 @@
-###DEC-051079-0-000-31-07-1961@@@
-
 DECRETO Nº 51.079, DE 31 DE JULHO DE 1961.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 36.699, de 28 de dezembro de 1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público Ponciano, no município de Traipu, no Estado de Alagoas.

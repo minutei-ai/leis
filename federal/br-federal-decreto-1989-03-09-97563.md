@@ -1,5 +1,3 @@
-###DEC-097563-0-000-09-03-1989@@@
-
 DECRETO N.° 97.563, DE 9 DE MARÇO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA NOVA ERA” classificado como latifúndio por exploração, situado no Município de Natividade, no Estado do Tocantins, compreendido na zona prioritária, fixada pelo Decreto n° 92.690, de 19 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-004139-0-000-21-02-2002@@@
-
 DECRETO Nº 4.139, DE 21 DE FEVEREIRO DE 2002
 
 Dispõe sobre a prorrogação estabelecida na Medida Provisória nº 32, de 18 de fevereiro de 2002, relativa ao prazo da autorização de que trata o art. 1º da Lei nº 10.309, de 22 de novembro de 2001, e o Decreto nº 3.953, de 5 de outubro de 2001.

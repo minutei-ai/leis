@@ -1,5 +1,3 @@
-###DEC-064056-0-000-03-02-1969@@@
-
 DECRETO Nº 64.056, DE 3 DE FEVEREIRO DE 1969.
 
 Cria, no Ministério da Aeronáutica, o Serviço de Informações de Segurança da Aeronáutica, e dá outras providências.

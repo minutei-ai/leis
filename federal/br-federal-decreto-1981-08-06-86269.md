@@ -1,5 +1,3 @@
-###DEC-086269-0-000-06-08-1981@@@
-
 Decreto nº 86.269, de 06 de agosto de 1981.
 
 Autoriza a transferência direta de concessão para executar serviço de radiodifusão sonora em onda média de âmbito regional na cidade de Concórdia, Estado de Santa Catarina.

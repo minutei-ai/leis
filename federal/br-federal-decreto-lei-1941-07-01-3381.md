@@ -1,5 +1,3 @@
-###DEL-003381-0-000-01-07-1941@@@
-
 DECRETO-LEI N. 3.381 – DE 1 DE JULHO DE 1941
 
 Dispõe sobre o estabelecimento de preços para a exportação de café para o exterior

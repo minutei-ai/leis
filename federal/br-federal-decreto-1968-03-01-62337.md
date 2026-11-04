@@ -1,5 +1,3 @@
-###DEC-062337-0-000-01-03-1968@@@
-
 DECRETO Nº 62.337, DE 1º DE MARÇO DE 1968.
 
 Declara a cessação da exploração dos serviços de energia elétrica pela Prefeitura Municipal de Arcos no município de Arcos, Estado de Minas Gerais, outorga concessão à Centrais Elétricas de Minas Gerais S. A., no município de Arcos, Estado de Minas Gerais e dá outras providências.

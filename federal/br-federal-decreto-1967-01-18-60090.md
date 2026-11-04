@@ -1,5 +1,3 @@
-###DEC-060090-0-000-18-01-1967@@@
-
 DECRETo Nº 60.090, DE 18 DE JANEIRO DE 1967.
 
 Cria Comissão Especial no Estado-Maior das Fôrças Armadas e dá outras providências.

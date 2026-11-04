@@ -1,5 +1,3 @@
-###DEC-075185-0-000-03-01-1975@@@
-
 DECRETO Nº 75.185, DE 3 DE JANEIRO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra destinada à ampliação da subestação Sete Pontes, da Companhia Brasileira de Energia Elétrica - CBEE, no Município de São Gonçalo - Estado do Rio de Janeiro.

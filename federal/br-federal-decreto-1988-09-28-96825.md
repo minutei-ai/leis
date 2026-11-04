@@ -1,5 +1,3 @@
-###DEC-096825-0-000-28-09-1988@@@
-
 DECRETO N° 96.825, DE 28 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO CLUBE DE ITAITUBA LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Itaituba, Estado do Pará.

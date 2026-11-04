@@ -1,5 +1,3 @@
-###DEC-003908-0-000-04-09-2001@@@
-
 DECRETO Nº 3.908, DE 4 DE SETEMBRO DE 2001
 
 Dá nova redação ao § 3º do art. 10 do Decreto nº 3.860, de 9 de julho de 2001, que dispõe sobre a organização do ensino superior, a avaliação de cursos e instituições.

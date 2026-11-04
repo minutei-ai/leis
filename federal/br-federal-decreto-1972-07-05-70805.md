@@ -1,5 +1,3 @@
-###DEC-070805-0-000-05-07-1972@@@
-
 decreto nº 70.805, de 5 de julho de 1972.
 
 Prorroga o prazo da concessão, para uso exclusivo da Cachoeira do Furado, no rio Taquaraçu, outorgada à Companhia Siderúrgica Belgo Mineira.

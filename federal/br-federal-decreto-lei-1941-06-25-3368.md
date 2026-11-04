@@ -1,5 +1,3 @@
-###DEL-003368-0-000-25-06-1941@@@
-
 DECRETO-LEI N. 3.368 – DE 25 DE JUNHO DE 1941
 
 Abre, pelo Ministério do Trabalho, lndústria e Comércio, o crédito especial de 4.000:000$0 para liquidação de compromissos

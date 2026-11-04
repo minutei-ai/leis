@@ -1,5 +1,3 @@
-###DEC-073245-0-000-04-12-1973@@@
-
 DECRETO Nº 73.245 - DE 4 DE DEZEMBRO DE 1973
 
 Autoriza a alteração do artigo 9º do Estatuto da Empresa de Engenharia e Construção de Obras Especiais - ECEX.

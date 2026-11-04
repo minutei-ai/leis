@@ -1,5 +1,3 @@
-###DEC-054292-0-000-16-09-1964@@@
-
 DECRETO Nº 54.292, DE 16 DE SETEMBRO DE 1964.
 
 Outorga à Centrais Elétricas de Rio das Contas S. A. concessão para distribuir energia elétrica nos municípios de Buerarema, Ibicaraí, Itajuipe, Maraú, Ubaitaba, e Ubatã, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-080501-0-000-06-10-1977@@@
-
 DECRETO Nº 80.501, DE 6 DE OUTUBRO DE 1977.
 
 Altera dispositivo do Decreto nº 79.706, de 18 de maio de 1977, que dispôs sobre controle de preços.

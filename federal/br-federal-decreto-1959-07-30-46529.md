@@ -1,5 +1,3 @@
-###DEC-046529-0-000-30-07-1959@@@
-
 DECRETO Nº 46.529, DE 30 DE JULHO DE 1959.
 
 Abre ao Poder Judiciário - Tribunal Federal de Recursos - o crédito especial de Cr$7.277.091,50 (sete milhões, duzentos e setenta e sete mil, noventa e um cruzeiros e cinquenta centavos) para o fim que especifica.

@@ -1,5 +1,3 @@
-###DEL-003681-0-000-02-10-1941@@@
-
 DECRETO-LEI N. 3.681 – DE 2 DE OUTUBRO DE 1941
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito especial de 71:000$0 para despesas com os funcionários da Polícia Civil do Distrito Federal, designados para prestar serviços no estrangeiro.

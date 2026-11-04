@@ -1,5 +1,3 @@
-###DEC-007766-0-000-25-06-2012-PUB-01@@@
-
 DECRETO Nº 7.766, DE 25 DE JUNHO DE 2012
 
 Aprova o Estatuto da Empresa Brasileira de Pesquisa Agropecuária - EMBRAPA.

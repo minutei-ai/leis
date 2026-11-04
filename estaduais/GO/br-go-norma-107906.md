@@ -22,7 +22,8 @@ Art. 4º Para o exercício de 2023, as redações do art. 50 e do _caput_ do art
 
 Art. 5º As despesas dos Grupos 3, 4 e 5 deverão ter seus empenhos emitidos até o dia 1º de novembro de 2023.
 
-§ 1º A data limite para a liquidação das despesas empenhadas será o dia 11 de dezembro de 2023.<br>
+§ 1º A data limite para a liquidação das despesas empenhadas será o dia 11 de dezembro de 2023.
+
 \- [Data alterada para 22/12/2023, pela Resolução nº 5/2023, de 14-12-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108245/resolucao-5). 
 
 § 2º Para efeito do disposto no § 1º deste artigo, somente poderá ser liquidada a despesa que atenda a 1 (um) dos seguintes requisitos:
@@ -106,8 +107,6 @@ Art. 12. Os demais prazos de encerramento do exercício não dispostos neste Dec
 Art. 13. Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 30 de outubro de 2023; 135º da República.
-
-<br>
 
 RONALDO CAIADO
 

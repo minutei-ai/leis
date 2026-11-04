@@ -1,5 +1,3 @@
-###DEC-080185-0-000-17-08-1977@@@
-
 decreto nº 80.185, de 17 de agosto de 1977.
 
 Concede à Mineração Floresta Ltda. o direito de lavrar caulim no Município de São Bento do Sul, Estado de Santa Catarina.

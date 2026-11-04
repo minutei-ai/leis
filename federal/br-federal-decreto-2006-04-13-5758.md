@@ -1,5 +1,3 @@
-###DEC-005758-0-000-13-04-2006@@@
-
 DECRETO Nº 5.758, DE 13 DE ABRIL DE 2006.
 
 Institui o Plano Estratégico Nacional de Áreas Protegidas - PNAP, seus princípios, diretrizes, objetivos e estratégias, e dá outras providências.

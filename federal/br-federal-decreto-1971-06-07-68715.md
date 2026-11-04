@@ -1,5 +1,3 @@
-###DEC-068715-0-000-07-06-1971@@@
-
 DECRETO Nº 68.715 - de 7 de junho de 1971.
 
 Declara de utilidade pública a Santa Casa de Misericórdia de Patrocínio Paulista, com sede em Patrocínio Paulista, Estado de São Paulo.

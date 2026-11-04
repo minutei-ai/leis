@@ -1,5 +1,3 @@
-###DEC-055774-0-000-19-02-1965@@@
-
 DECRETO Nº 55.774, DE 19 DE FEVEREIRO DE 1965.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxa e impostos federais, a importação dos equipamentos novos, sem similar nacional registrado, neste descritos e consignados a “S.A. Agenor Gordilho Comércio e Indústria”, de Salvador (Ba).
@@ -14,7 +12,35 @@ Decreta:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste para efeito de isenção de quaisquer taxas e impostos federais, com a ressalva neste expressa e pertinente aos motores elétricos que acompanham a maquinaria, a importação dos equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à emprêsa ”S.A. Agenor Gordilho Comércio e Indústria”, de Salvador, Bahia;
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item - Especificação</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Valor Total</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CIF-US$</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Máquina noveleira semi-automática, tipo RLM 49, com 15 fusos, capacidade de 40 quilos horários, acompanhada dos seguintes acessórios: dispositivo para cortar e juntar fios, um jôgo de 15 fusos para novelos até 100mm de diâmetro; um dispositivo para esticador de fios; um dispositivo para acoplamento de fios até três cabos; um motor automático AEC, com 1,5 MM, trifásico, acoplado à máquina, com pêso bruto total de 2.610 quilos e pêso líquido de 2.350 quilos ...</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5.037,12</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Todos êsses equipamentos são de procedência italiana, fabricação de “Tecnomeccanica Lombarda”, de Milão, Itália</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Super espuladeira automática, tipo MSL, nº 12, de 24 fusos, velocidade de 12.000 revoluções por minuto, equipado com rotor, alimentação automática de espulas vazias, ventiladores em ambos os lados, por cima de máquina, com aspiradores de pó e respectivo filtro de ar, recipientes individuais para cada fuso, envolvendo bobinadeira alimentadora e freio de tensão, acompanhada de um motor elétrico de 4 MM, 1.750 rpm, um motor elétrico de 0,4 mm, 1.150 rpm e um motor elétrico de 2,75 MM, 3.480 rpm devidamente acoplados à máquina ...........................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>11.541.66</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Êsses equipamentos são de procedência suíça, de fabricação da </span><span style="font-style:italic">Schweiter Engineering Workg </span><span>Limitada, de </span><span style="font-style:italic">Horgon</span><span>, </span><span style="font-style:italic">Zurich</span><span>, Suíça</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:308.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>TOTAL ..................................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>16.578,78</span></p></td></tr></tbody></table>
+Item - Especificação
+
+Quantidade a ser importada
+
+Valor Total
+
+CIF-US$
+
+Máquina noveleira semi-automática, tipo RLM 49, com 15 fusos, capacidade de 40 quilos horários, acompanhada dos seguintes acessórios: dispositivo para cortar e juntar fios, um jôgo de 15 fusos para novelos até 100mm de diâmetro; um dispositivo para esticador de fios; um dispositivo para acoplamento de fios até três cabos; um motor automático AEC, com 1,5 MM, trifásico, acoplado à máquina, com pêso bruto total de 2.610 quilos e pêso líquido de 2.350 quilos ...
+
+1
+
+5.037,12
+
+Todos êsses equipamentos são de procedência italiana, fabricação de “Tecnomeccanica Lombarda”, de Milão, Itália
+
+Super espuladeira automática, tipo MSL, nº 12, de 24 fusos, velocidade de 12.000 revoluções por minuto, equipado com rotor, alimentação automática de espulas vazias, ventiladores em ambos os lados, por cima de máquina, com aspiradores de pó e respectivo filtro de ar, recipientes individuais para cada fuso, envolvendo bobinadeira alimentadora e freio de tensão, acompanhada de um motor elétrico de 4 MM, 1.750 rpm, um motor elétrico de 0,4 mm, 1.150 rpm e um motor elétrico de 2,75 MM, 3.480 rpm devidamente acoplados à máquina ...........................................................................
+
+1
+
+11.541.66
+
+Êsses equipamentos são de procedência suíça, de fabricação da Schweiter Engineering Workg Limitada, de Horgon, Zurich, Suíça
+
+TOTAL ..................................................................................................
+
+-
+
+16.578,78
 
 Parágrafo único. Para efeito de isenção de que trata o presente decreto e com respeito aos motores elétricos citados na descrição retro, fica sua similaridade para ser executada pela alfândega do destino, quando do desembaraço aduaneiro, na hipótese de os mesmos seguirem regime tarifário próprio, observando-se o disposto na Circular nº 16, de 20 de agôsto de 1960, do Senhor Ministro da Fazenda.
 

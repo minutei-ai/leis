@@ -1,5 +1,3 @@
-###DEC-059630-0-000-01-12-1966@@@
-
 Decreto nº 59.630, de 1º de dezembro de 1966.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação dos equipamentos novos, sem similar nacional registrado, neste descritos e consignados à emprêsa “Indústria de Laticínios de Campina Grande”, de Campina Grande (Pb).
@@ -14,7 +12,57 @@ Decreta:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação de equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à emprêsa “Industrial de Laticínios de Campina Grande S.A. - ILCASA”, de Campina Grande (Pb):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>ITEM – ESPECIFICAÇÃO</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor Total CIF US$</span></p></td></tr><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>1. Controlador de vazão do leite de aço inoxidável, sua função é manter constante o volume de leite por hora no pasteurizador ......</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Procedência: Inglaterra</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>336,00</span></p></td></tr><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>2. Pasteurizador APV tipo HXP - de aço inoxidável, com capacidade de 300 CL p/hora consistindo em: um têrmo registrador duplo para o registro gráfico das temperaturas; um controlador automático de temperatura com sinais luminosos e acústicos; quatro termômetros de mercúrio; um manômetro de pressão de leite; um válvula de retôrno do leite; tubo de aço inoxidável p/leite e água; uma válvula de redução de pressão de vapor; uma válvula de regulagem de vapor ....................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Procedência: Inglaterra.</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>6.834,60</span></p></td></tr><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>3. Padronizadora Alfa Laval, mod. 2181, com capacidade de 5.000 L p/hora tipo hermético, consistindo em uma bomba embutida: dispositivo de padronização; cremômetro e válvula de graduação do creme; discos de aço inoxidável, polia p/correia em “V” e base e motor elétrico; medidor de fluxo .................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Procedência: Suécia.</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3.006,10</span></p></td></tr><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>4. Máquina tetra Pak de envasilhar 3.600 1/hora mod. 1.000</span><span style="font-size:0.67em; vertical-align:super">A</span><span> com empacotador automático e sobressalentes .....................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Procedência: Suécia.</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>17.405,00</span></p></td></tr><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>5. Máquina para empacotar manteiga ou queijo marca “Benhil Jr. 11 - tipo 8331, com capacidade de 50 pacotes por minuto ............</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Procedência: Alemanha.</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>6.916,00</span></p></td></tr><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total ................................................................................................</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>34.497,70</span></p></td></tr></tbody></table>
+ITEM – ESPECIFICAÇÃO
+
+Quantidade a ser importada
+
+Valor Total CIF US$
+
+1. Controlador de vazão do leite de aço inoxidável, sua função é manter constante o volume de leite por hora no pasteurizador ......
+
+Procedência: Inglaterra
+
+1
+
+336,00
+
+2. Pasteurizador APV tipo HXP - de aço inoxidável, com capacidade de 300 CL p/hora consistindo em: um têrmo registrador duplo para o registro gráfico das temperaturas; um controlador automático de temperatura com sinais luminosos e acústicos; quatro termômetros de mercúrio; um manômetro de pressão de leite; um válvula de retôrno do leite; tubo de aço inoxidável p/leite e água; uma válvula de redução de pressão de vapor; uma válvula de regulagem de vapor ....................................
+
+Procedência: Inglaterra.
+
+1
+
+6.834,60
+
+3. Padronizadora Alfa Laval, mod. 2181, com capacidade de 5.000 L p/hora tipo hermético, consistindo em uma bomba embutida: dispositivo de padronização; cremômetro e válvula de graduação do creme; discos de aço inoxidável, polia p/correia em “V” e base e motor elétrico; medidor de fluxo .................................
+
+Procedência: Suécia.
+
+1
+
+3.006,10
+
+4. Máquina tetra Pak de envasilhar 3.600 1/hora mod. 1.000A com empacotador automático e sobressalentes .....................................
+
+Procedência: Suécia.
+
+1
+
+17.405,00
+
+5. Máquina para empacotar manteiga ou queijo marca “Benhil Jr. 11 - tipo 8331, com capacidade de 50 pacotes por minuto ............
+
+Procedência: Alemanha.
+
+1
+
+6.916,00
+
+Total ................................................................................................
+
+-
+
+34.497,70
 
 Parágrafo único. Com respeito ao motor elétrico que acompanha a maquinaria, fica sua similaridade, para efeito da isenção de que trata o presente Decreto, para ser examinada pela Alfândega de destino, quando do desembaraço aduaneiro, na hipótese de o mesmo seguir regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agôsto de 1958, do Senhor Ministro da Fazenda.
 

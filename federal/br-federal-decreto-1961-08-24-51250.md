@@ -1,5 +1,3 @@
-###DEC-051250-0-000-24-08-1961@@@
-
 DECRETO Nº 51.250, DE 24 DE AGÔSTO DE 1961.
 
 Estende ao pessoal do Instituto Brasileiro de Geografia e Estatística as vantagens da Lei nº 1.741, de 22 de novembro de 1952.

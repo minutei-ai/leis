@@ -1,5 +1,3 @@
-###DEC-047397-0-000-10-12-1959@@@
-
 DECRETO Nº 47.397, DE 10 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Délio Guerra a pesquisar vermiculita no município de Mercês, Estado do Minas Gerais.

@@ -1,6 +1,7 @@
 LEI COMPLEMENTAR Nº 242, DE 1º DE ABRIL DE 2022.
 
-   <br>
+   
+
 Altera a Lei Complementar nº 3.853/1999 e a [Lei Complementar nº 3.968/2000.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170)
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**
@@ -43,299 +44,538 @@ Procurador-Geral
 
 Secretário de Planejamento e Gestão
 
-**ANEXO I<br>
+**ANEXO I
+
 (Inclusão no Anexo II da Lei nº 3.853/1999 – Especificações de Funções)**
 
-**Cargo**: Agente de Apoio da Educação Especial<br>
-**Categoria**: Operacional<br>
-**Descrição da Função:**<br>
-**Sumário:**<br>
-Auxiliar os alunos com deficiências em suas Atividades de Vida Diária (AVD´s) como: higiene, alimentação e locomoção junto ao Professor(a) regente.<br>
-**Tarefas:**<br>
- Acompanhar, auxiliar e orientar os alunos nas Atividades de Vida Diária (AVD´s) como: higiene, alimentação e locomoção; <br>
-• Auxiliar o(a) Professor(a) na realização das atividades junto a todos os alunos, ora oferecendo suporte à turma para que o professor realize atividades com os alunos público da educação especial, ora apoiando os alunos com deficiência na realização das atividades planejadas pelo professor regente; <br>
-• Propor sugestões ao professor(a) regente para a elaboração e execução do planejamento e material didático; <br>
-• Cooperar com o professor(a) na observação dos alunos com deficiência para o preenchimento do relatório de avaliação pedagógica; <br>
-•Respeitar a singularidade do aluno, bem como criar situações que elevam a autoestima dos alunos, tratando-os com afetividade e fortalecendo o vínculo; <br>
-• Participar das reuniões de pais, sempre que necessário, para a promoção de ações referentes à rotina nas Unidades Escolares; <br>
-• Participar de eventos na Unidade Escolar a fim de incluir a criança com deficiência;<br>
-• Atender 01 (um) ou mais alunos em uma mesma turma, de acordo com a especificidade, conforme determinado pelo superior imediato;<br>
-• Participar das formações continuadas e buscar se atualizar na área específica;<br>
-• Desempenhar atividades relativas ao cargo de Auxiliar de Educação Infantil, quando necessário;<br>
+**Cargo**: Agente de Apoio da Educação Especial
+
+**Categoria**: Operacional
+
+**Descrição da Função:**
+
+**Sumário:**
+
+Auxiliar os alunos com deficiências em suas Atividades de Vida Diária (AVD´s) como: higiene, alimentação e locomoção junto ao Professor(a) regente.
+
+**Tarefas:**
+
+ Acompanhar, auxiliar e orientar os alunos nas Atividades de Vida Diária (AVD´s) como: higiene, alimentação e locomoção; 
+
+• Auxiliar o(a) Professor(a) na realização das atividades junto a todos os alunos, ora oferecendo suporte à turma para que o professor realize atividades com os alunos público da educação especial, ora apoiando os alunos com deficiência na realização das atividades planejadas pelo professor regente; 
+
+• Propor sugestões ao professor(a) regente para a elaboração e execução do planejamento e material didático; 
+
+• Cooperar com o professor(a) na observação dos alunos com deficiência para o preenchimento do relatório de avaliação pedagógica; 
+
+•Respeitar a singularidade do aluno, bem como criar situações que elevam a autoestima dos alunos, tratando-os com afetividade e fortalecendo o vínculo; 
+
+• Participar das reuniões de pais, sempre que necessário, para a promoção de ações referentes à rotina nas Unidades Escolares; 
+
+• Participar de eventos na Unidade Escolar a fim de incluir a criança com deficiência;
+
+• Atender 01 (um) ou mais alunos em uma mesma turma, de acordo com a especificidade, conforme determinado pelo superior imediato;
+
+• Participar das formações continuadas e buscar se atualizar na área específica;
+
+• Desempenhar atividades relativas ao cargo de Auxiliar de Educação Infantil, quando necessário;
+
 • Desenvolver outras atividades pertinentes e necessárias ao desempenho das funções do cargo determinadas pelo superior hierárquico ou previstas em regulamento.
 
-**Requisitos:**<br>
-• Diploma devidamente registrado de conclusão de curso de graduação em Pedagogia, Educação Especial ou Psicologia, fornecido por instituição credenciada pelo MEC;<br>
+**Requisitos:**
+
+• Diploma devidamente registrado de conclusão de curso de graduação em Pedagogia, Educação Especial ou Psicologia, fornecido por instituição credenciada pelo MEC;
+
 • Diploma devidamente registrado, de conclusão de curso de Extensão e/ou Aperfeiçoamento na Educação Especial de no mínimo 80 horas;
 
-•Experiência comprovada mínima de 06 meses em Educação Especial;<br>
-• Teste de aptidão física.<br>
-**Carga horária:** 200 horas mensais.
+•Experiência comprovada mínima de 06 meses em Educação Especial;
 
-<br>
- 
-
-**Cargo:** Agente de Suporte e Higienização<br>
-**Categoria:** Operacional<br>
-**Descrição da Função:<br>
-Sumário:**<br>
-Atuar junto aos profissionais que trabalham com alunos da rede pública municipal de ensino, realizando a limpeza das roupas de cama, mesa e banho, bem como a higienização e manutenção diária das condições ambientais de sua responsabilidade.<br>
-**Tarefas:**<br>
-• Realizar a limpeza e higienização dos brinquedos pedagógicos, mamadeiras, copos e roupas de cama, mesa e banho utilizados pelas crianças na instituição durante o horário de sono, de alimentação, dos locais apropriados para troca das fraldas e da acomodação dos pertences de cada criança;<br>
-• Acompanhar e realizar o banho, a troca de fraldas e roupas, escovação e demais cuidados de cada criança em parceria com os demais profissionais da instituição; <br>
-• Zelar pelo correto uso e destinação das ferramentas usadas na higienização dos pertences das crianças e da instituição;<br>
-• Realizar a passagem das roupas lavadas na Unidade Escolar; <br>
-• Fazer o manuseio das máquinas de lavar utilizadas para limpeza das roupas; <br>
-• Organizar e preparar os alimentos consumidos pelas crianças, conforme orientação da direção e da nutricionista, bem como, fazer a correta higienização de frutas e verduras utilizadas nos preparos das papinhas;<br>
-• Desenvolver outras atividades pertinentes e necessárias ao desempenho das funções do cargo determinadas pelo superior hierárquico ou previstas em regulamento.<br>
-**Requisitos:**<br>
-• Diploma devidamente registrado, de conclusão de curso de Ensino Médio Completo, fornecido por instituição credenciada pelo MEC;<br>
-• Sexo feminino;<br>
 • Teste de aptidão física.
 
-<br>
 **Carga horária:** 200 horas mensais.
 
-**Cargo:** Auxiliar de Educação Infantil<br>
-**Categoria:** Operacional<br>
-**Descrição da Função:<br>
-Sumário:**<br>
-Auxiliar as crianças nas atividades programadas e recreativas, sob a orientação dos profissionais que atuam diretamente com as crianças, assegurando o desenvolvimento e aprendizado das mesmas.<br>
-**Tarefas:**<br>
-• Atender global e permanentemente grupos de crianças, segundo orientações recebidas dos profissionais da Unidade Escolar, da coordenação e direção escolar;<br>
-• Executar as atividades lúdicas programadas e garantir a interação entre as crianças; <br>
-• Realizar higiene individual das crianças e providenciar a higiene do ambiente físico e dos materiais, segundo as normas estabelecidas pela Unidade Escolar, quando necessário; <br>
-• Valorizar e ajudar a desenvolver as capacidades das crianças, considerando as necessidades: corporais, cognitivas, afetivas, emocionais e éticas, bem como, garantir os direitos de aprendizagem; <br>
-• Estar comprometido com a criança, dando-lhe atenção e cuidados necessários para o crescimento e desenvolvimento, compreendendo sua singularidade; <br>
-• Acompanhar, juntamente com os profissionais da Unidade Escolar, a aprendizagem das crianças no que se refere aos registros dos relatórios de desenvolvimento das crianças; <br>
-• Garantir a segurança e o desenvolvimento saudável das crianças em situação de risco social ou com necessidades especiais; <br>
-• Desenvolver outras atividades pertinentes e necessárias ao desempenho das funções do cargo determinadas pelo superior hierárquico ou previstas em regulamento.<br>
-**Requisitos:**<br>
-• Diploma devidamente registrado, de conclusão de curso de graduação em Pedagogia, fornecido por instituição credenciada pelo MEC;<br>
-• Experiência comprovada mínima de 06 meses na área de Educação Infantil.<br>
+ 
+
+**Cargo:** Agente de Suporte e Higienização
+
+**Categoria:** Operacional
+
+**Descrição da Função:
+
+Sumário:**
+
+Atuar junto aos profissionais que trabalham com alunos da rede pública municipal de ensino, realizando a limpeza das roupas de cama, mesa e banho, bem como a higienização e manutenção diária das condições ambientais de sua responsabilidade.
+
+**Tarefas:**
+
+• Realizar a limpeza e higienização dos brinquedos pedagógicos, mamadeiras, copos e roupas de cama, mesa e banho utilizados pelas crianças na instituição durante o horário de sono, de alimentação, dos locais apropriados para troca das fraldas e da acomodação dos pertences de cada criança;
+
+• Acompanhar e realizar o banho, a troca de fraldas e roupas, escovação e demais cuidados de cada criança em parceria com os demais profissionais da instituição; 
+
+• Zelar pelo correto uso e destinação das ferramentas usadas na higienização dos pertences das crianças e da instituição;
+
+• Realizar a passagem das roupas lavadas na Unidade Escolar; 
+
+• Fazer o manuseio das máquinas de lavar utilizadas para limpeza das roupas; 
+
+• Organizar e preparar os alimentos consumidos pelas crianças, conforme orientação da direção e da nutricionista, bem como, fazer a correta higienização de frutas e verduras utilizadas nos preparos das papinhas;
+
+• Desenvolver outras atividades pertinentes e necessárias ao desempenho das funções do cargo determinadas pelo superior hierárquico ou previstas em regulamento.
+
+**Requisitos:**
+
+• Diploma devidamente registrado, de conclusão de curso de Ensino Médio Completo, fornecido por instituição credenciada pelo MEC;
+
+• Sexo feminino;
+
+• Teste de aptidão física.
+
 **Carga horária:** 200 horas mensais.
 
-**Cargo:** Cuidador Social<br>
-**Categoria:** Operacional<br>
-**Descrição da Função:<br>
-Sumário:**<br>
-Apoiar e recepcionar os usuários das unidades de acolhimento, sejam eles idosos, crianças ou pessoas com deficiência. Promover a participação social, autonomia e autoestima desses atendidos.<br>
-**Tarefas:**<br>
-•Orientar, encaminhar e informar sobre serviços, projetos e benefícios concedidos aos usuários e seus familiares;<br>
-• Acompanhar nos serviços de educação, saúde e outras necessárias no dia a dia, bem como aquelas que requerem saídas dos centros de acolhimento;<br>
-• Desenvolver atividades recreativas;<br>
-• Executar atividades de higiene e cuidados básicos aos usuários;<br>
-• Zelar pela saúde e integridade dos pacientes;<br>
-• Orientar e auxiliar na alimentação e locomoção;<br>
-• Acompanhar e avaliar o processo de desenvolvimento psicomotor e comportamental do usuário;<br>
-• Ministrar medicamentos, conforme prescrição médica;<br>
-• Prestar primeiros socorros e pequenos curativos;<br>
-• Desenvolver outras atividades pertinentes e necessárias ao desempenho das funções do cargo determinadas pelo superior hierárquico ou previstas em regulamento.<br>
-**Requisitos:**<br>
-• Diploma devidamente registrado de conclusão do Ensino Médio, fornecido por instituição credenciada pelo MEC.<br>
+**Cargo:** Auxiliar de Educação Infantil
+
+**Categoria:** Operacional
+
+**Descrição da Função:
+
+Sumário:**
+
+Auxiliar as crianças nas atividades programadas e recreativas, sob a orientação dos profissionais que atuam diretamente com as crianças, assegurando o desenvolvimento e aprendizado das mesmas.
+
+**Tarefas:**
+
+• Atender global e permanentemente grupos de crianças, segundo orientações recebidas dos profissionais da Unidade Escolar, da coordenação e direção escolar;
+
+• Executar as atividades lúdicas programadas e garantir a interação entre as crianças; 
+
+• Realizar higiene individual das crianças e providenciar a higiene do ambiente físico e dos materiais, segundo as normas estabelecidas pela Unidade Escolar, quando necessário; 
+
+• Valorizar e ajudar a desenvolver as capacidades das crianças, considerando as necessidades: corporais, cognitivas, afetivas, emocionais e éticas, bem como, garantir os direitos de aprendizagem; 
+
+• Estar comprometido com a criança, dando-lhe atenção e cuidados necessários para o crescimento e desenvolvimento, compreendendo sua singularidade; 
+
+• Acompanhar, juntamente com os profissionais da Unidade Escolar, a aprendizagem das crianças no que se refere aos registros dos relatórios de desenvolvimento das crianças; 
+
+• Garantir a segurança e o desenvolvimento saudável das crianças em situação de risco social ou com necessidades especiais; 
+
+• Desenvolver outras atividades pertinentes e necessárias ao desempenho das funções do cargo determinadas pelo superior hierárquico ou previstas em regulamento.
+
+**Requisitos:**
+
+• Diploma devidamente registrado, de conclusão de curso de graduação em Pedagogia, fornecido por instituição credenciada pelo MEC;
+
+• Experiência comprovada mínima de 06 meses na área de Educação Infantil.
+
 **Carga horária:** 200 horas mensais.
 
-**Cargo:** Especialista em Serviços Ambientais<br>
-**Categoria:** Operacional<br>
-**Descrição da Função:<br>
-Sumário:**<br>
-Atuar com planejamento e fiscalização ambiental, organizacional e estratégico afeto à execução das políticas de meio ambiente formuladas no âmbito do Município de Rio Verde. <br>
-**Tarefas:**<br>
-• Realizar atividades de regulação, controle, fiscalização, perícia, licenciamento e auditoria ambiental;<br>
-• Executar monitoramento ambiental; gestão, proteção e controle da qualidade ambiental; ordenamento dos recursos florestais; conservação dos ecossistemas e das espécies neles inseridas, incluindo seu manejo e proteção;<br>
-• Estimular e difundir tecnologias e informação;<br>
-• Executar programas de educação ambiental;<br>
+**Cargo:** Cuidador Social
+
+**Categoria:** Operacional
+
+**Descrição da Função:
+
+Sumário:**
+
+Apoiar e recepcionar os usuários das unidades de acolhimento, sejam eles idosos, crianças ou pessoas com deficiência. Promover a participação social, autonomia e autoestima desses atendidos.
+
+**Tarefas:**
+
+•Orientar, encaminhar e informar sobre serviços, projetos e benefícios concedidos aos usuários e seus familiares;
+
+• Acompanhar nos serviços de educação, saúde e outras necessárias no dia a dia, bem como aquelas que requerem saídas dos centros de acolhimento;
+
+• Desenvolver atividades recreativas;
+
+• Executar atividades de higiene e cuidados básicos aos usuários;
+
+• Zelar pela saúde e integridade dos pacientes;
+
+• Orientar e auxiliar na alimentação e locomoção;
+
+• Acompanhar e avaliar o processo de desenvolvimento psicomotor e comportamental do usuário;
+
+• Ministrar medicamentos, conforme prescrição médica;
+
+• Prestar primeiros socorros e pequenos curativos;
+
+• Desenvolver outras atividades pertinentes e necessárias ao desempenho das funções do cargo determinadas pelo superior hierárquico ou previstas em regulamento.
+
+**Requisitos:**
+
+• Diploma devidamente registrado de conclusão do Ensino Médio, fornecido por instituição credenciada pelo MEC.
+
+**Carga horária:** 200 horas mensais.
+
+**Cargo:** Especialista em Serviços Ambientais
+
+**Categoria:** Operacional
+
+**Descrição da Função:
+
+Sumário:**
+
+Atuar com planejamento e fiscalização ambiental, organizacional e estratégico afeto à execução das políticas de meio ambiente formuladas no âmbito do Município de Rio Verde. 
+
+**Tarefas:**
+
+• Realizar atividades de regulação, controle, fiscalização, perícia, licenciamento e auditoria ambiental;
+
+• Executar monitoramento ambiental; gestão, proteção e controle da qualidade ambiental; ordenamento dos recursos florestais; conservação dos ecossistemas e das espécies neles inseridas, incluindo seu manejo e proteção;
+
+• Estimular e difundir tecnologias e informação;
+
+• Executar programas de educação ambiental;
+
 • Diagnosticar, planejar, executar, controlar e monitorar planos, programas e projetos relacionados à proteção e recuperação de recursos naturais, ao uso sustentável e à conservação da biodiversidade;
 
 • Atuar em atividades administrativas e logísticas de apoio relativas ao exercício das competências do órgão ambiental municipal;
 
 • Levantar, interpretar, analisar, processar e armazenar dados e informações espaciais, inclusive os adquiridos por sensoriamento remoto (de aerofotogrametria, radar e imagens de satélite) relacionadas ao uso e ocupação do solo;
 
-• Analisar e interpretar dados ambientais;<br>
-• Manipular software de geoprocessamento – sensoriamento remoto, sistema de informação geográfica e banco de dados relacional;<br>
-• Montar banco de dados georreferenciados seleção, processamento, análise e representação espacial de dados e informações ambientais;<br>
-• Interpretar e elaborar cartas e mapas em meio digital;<br>
-• Elaborar diagnósticos e prognósticos ambientais; cenários e planos ambientais, planos de gestão de unidades de conservação;<br>
-• Desenvolver trabalhos de planejamento participativo e de avaliação ambiental estratégica; e indicadores ambientais;<br>
-• Elaborar e desenvolver instrumentos de gestão ambiental;<br>
-• Observar o atendimento às políticas ambientais vigentes no País no desenvolvimento de propostas normativas de gestão territorial e ambiental de ocupação de solo e uso dos recursos naturais;<br>
-• Efetuar levantamentos topográficos, geológicos e geofísicos, estudos, pareceres e pesquisas de geologia;<br>
+• Analisar e interpretar dados ambientais;
+
+• Manipular software de geoprocessamento – sensoriamento remoto, sistema de informação geográfica e banco de dados relacional;
+
+• Montar banco de dados georreferenciados seleção, processamento, análise e representação espacial de dados e informações ambientais;
+
+• Interpretar e elaborar cartas e mapas em meio digital;
+
+• Elaborar diagnósticos e prognósticos ambientais; cenários e planos ambientais, planos de gestão de unidades de conservação;
+
+• Desenvolver trabalhos de planejamento participativo e de avaliação ambiental estratégica; e indicadores ambientais;
+
+• Elaborar e desenvolver instrumentos de gestão ambiental;
+
+• Observar o atendimento às políticas ambientais vigentes no País no desenvolvimento de propostas normativas de gestão territorial e ambiental de ocupação de solo e uso dos recursos naturais;
+
+• Efetuar levantamentos topográficos, geológicos e geofísicos, estudos, pareceres e pesquisas de geologia;
+
 • Emitir laudos, pareceres, relatórios, notificações, advertência e auto de infração sobre matéria ambiental;
 
-• Desenvolver outras atividades pertinentes e necessárias ao desempenho das funções do cargo determinadas pelo superior hierárquico ou previstas em regulamento.<br>
-**Requisitos:**<br>
-• Concurso público de provas ou de provas e títulos;<br>
-• Experiência mínima de 06 (seis) meses;<br>
-• Diploma devidamente registrado, de conclusão de curso superior em: a) Geologia, b) Engenharia de Minas, c) Tecnólogo em Geoprocessamento, d) Engenharia Civil, e) Engenharia Florestal, f) Engenharia Sanitária, g) Bioquímica, h) Farmácia, d) Biomedicina, e) Enfermagem, f) Engenharia Química, g) Medicina Veterinária, h) Engenharia Ambiental, i) Engenharia Agronômica, j) Engenharia Química, k) Química, l) Ciências Biológicas, ou m) Geografia. <br>
-\- Além dos requisitos previstos acima, poderão ser exigidos formação específica (vide abaixo), experiência (na área do cargo ou na área de formação específica) e registro profissional, a serem definidos em regulamento ou especificados em edital de concurso.<br>
-\- As atividades do cargo de Especialista em Serviços Ambientais poderão ser estruturadas por área de atuação comum e especializada, compreendendo esta a execução de atividades para as quais se exija dos titulares o devido registro nos órgãos fiscalizadores do exercício de profissões ou o domínio de habilidades específicas, a critério da Administração.<br>
-\- O concurso público para ingresso no cargo poderá, a critério da Administração, ser realizado por área de atuação específica, podendo-se exigir, no edital, formação específica dentre as previstas para o cargo.<br>
-\- No caso da realização do concurso por área de atuação específica, o cargo de Especialista em Serviços Ambientais será acrescido da expressão correspondente à formação exigida (ex.: Especialista em Serviços Ambientais – Geólogo).<br>
-\- O Especialista em Serviços Ambientais aprovado em concurso que exija formação específica atuará nas atividades próprias do cargo que exigem essa formação ou o domínio de habilidades específicas, bem como nas áreas de atuação comum.<br>
-**Carga horária:** 200 horas mensais.
-
-**Cargo:** Especialista em Serviços de Inspeção Municipal<br>
-**Categoria:** Operacional<br>
-**Descrição da Função:<br>
-Sumário:**<br>
-Desenvolver atividades de inspeção, fiscalização e orientação dos estabelecimentos de beneficiamento artesanais e industriais, bem como dos feirantes nas feiras livres em geral e de pessoas sujeitas às ações do serviço de inspeção sanitária municipal de produtos alimentícios de origem animal ou vegetal. Emitindo relatórios, laudos, termos, pareceres, e lavrando peças fiscais próprias do ato fiscalizador.<br>
-**Tarefas:**<br>
-• Exercer fiscalização do exercício profissional da medicina, farmácia, odontologia, veterinária, enfermagem e outros afins;<br>
-• Efetuar a apreensão e interdição de medicamentos, produtos químicos de higiene, cosméticos e outros, em desacordo com as normas da DIMED;<br>
-• Exercer a fiscalização da aquisição, venda, consumo e do receituário de produtos entorpecentes e equipamentos, nos hospitais, drogarias, farmácias e similares;<br>
-• Exercer a fiscalização e o controle da distribuição de “Amostras Grátis” de produtos controlados;<br>
-• Exercer a fiscalização sanitária dos seguintes estabelecimentos: comerciais e industriais de produtos farmacêuticos químicos, biológicos, aparelhos acessórios para uso odontológico, aparelho ortopédicos, aparelhos acessórios e produtos analíticos para uso médico, cirúrgico, hospitalar ou para fins de diagnósticos, produtos veterinários, de toucador, cosméticos, de higiene pessoal ou ambiental e similares;<br>
-• Atender às reclamações do público consumidor sobre suspeitas de adulteração, alteração, deterioração e envenenamento de gêneros e produtos alimentícios;<br>
-• Orientar quanto à apresentação de relatórios solicitados pela Secretaria Nacional de Vigilância Sanitária, para fins de registro de empresas junto à DIMED, DICOP e DISAD;<br>
-• Efetuar a apreensão de medicamentos, produtos químicos de higiene, cosméticos e outros em desacordo com as normas da DIMED, DICOP, DISAD;<br>
-• Estudar os problemas específicos do seu campo de ação, propondo medidas solucionadoras, bem como emitir pareceres ou expedientes.
-
-• Desenvolver as atividades de inspeção, fiscalização e orientação dos estabelecimentos de beneficiamento artesanais e industriais e de pessoas sujeitas às ações do serviço de inspeção sanitária municipal de produtos alimentícios de origem animal, principalmente quanto às disposições do Serviço de Inspeção Municipal – S.I.M.;<br>
-• Emitir relatórios, laudos, termos, pareceres, referentes ao serviço de inspeção sanitária municipal de produtos alimentícios;<br>
-• Lavrar peças fiscais próprias do ato fiscalizador, lavrar auto de infração, aplicar multa ou penalidades administrativas decorrentes do poder de polícia;<br>
-• Controlar, registrar, cancelar e cassar registro de estabelecimento de beneficiamento industrial, e agroindustrial quando o exercício de suas atividades não respeitar os comandos legais;<br>
-• Registrar e aprovar os produtos e rótulos de origem animal;<br>
-• Realizar auditorias técnicas e operacionais, análises, avaliações, monitoramento, análise e avaliação de risco no processamento alimentar à saúde pública;<br>
-• Realizar ações de combate a clandestinidade, no que se refere a saúde alimentar;<br>
-• Analisar tecnicamente as plantas arquitetônicas emitindo parecer sobre o fluxo e setores, coletar para análise água de abastecimento, alimentos processados, matéria prima e subprodutos de origem animal ou vegetal na indústria e agroindústria para averiguação das características físicas, químicas e microbiológicas;<br>
-• Apresentar proposta técnica para modificações na legislação sanitária de inspeção agropecuária embasadas nos estudos realizados;<br>
-• Realizar supervisões técnicas;<br>
-• Desenvolver projetos, participar da elaboração de programas e projetos relacionados como a política e estratégias da Administração Agropecuária do Município ao controle de beneficiamento e processamento de alimentos de origem animal e vegetal;<br>
-• Fiscalizar o cumprimento da legislação das feiras livres do município e fiscalizar e orientar todos os feirantes quanto à localização, tamanho e tipo de barracas a serem montadas;<br>
-• Realizar a marcação e numeração dos pontos das barracas nas Feiras Livres;<br>
-• Realizar a realocação de feirantes para pontos adequados de acordo com sua atividade;<br>
-• Fiscalizar se os produtos ali vendidos estão de acordo com o cadastro e autorização emitidos pela SMAPA – Secretaria Municipal de Agricultura, Pecuária e Abastecimento;<br>
-• Orientar os feirantes quanto as suas obrigações de acordo com a legislação vigente;<br>
-• Orientar quanto aos produtos de origem animal/vegetal ali comercializados que devem ter o selo do S.I.M. – Serviço de Inspeção Municipal quando necessário;<br>
-• Coibir a presença de feirantes não cadastrados na SMAPA;<br>
-• Realizar o recadastramento dos feirantes quando solicitado pela SMAPA;<br>
-• Distribuir aos feirantes as informações e comunicações da SMAPA;<br>
-• Trabalhar em conjunto com outros órgãos de fiscalização do município quando solicitados;<br>
-• Desenvolver outras atividades pertinentes e necessárias ao desempenho das funções do cargo determinadas pelo superior hierárquico ou previstas em regulamento.<br>
-**Requisitos:**<br>
-• Diploma, devidamente registrado, de conclusão de curso de graduação em nível superior em Engenharia Agronômica ou Medicina Veterinária, fornecido por instituição credenciada pelo MEC, conforme área de atuação a ser estabelecida no edital de concurso;<br>
-• Registro profissional no órgão de classe.<br>
- 
-
-**Carga horária:** 200 horas mensais.
-
-**Cargo:** Instrutor de Braille<br>
-**Categoria:** Operacional<br>
-**Descrição da Função:<br>
-Sumário:**<br>
-Instruir e acompanhar o aluno cego no ambiente escolar, trabalhando noções de orientação e mobilidade, visando desenvolver a autonomia do aluno, bem como, realizar audiodescrição em atividades extraclasse.<br>
-**Tarefas:**<br>
-• Realizar o acompanhamento do aluno cego no ambiente escolar; <br>
-• Dominar e aplicar a grafia Braille nas atividades escolares; <br>
-• Trabalhar noções de orientação e mobilidade, desenvolvendo autonomia do aluno, bem como, realizar audiodescrição em atividades extraclasse; <br>
-• Participar de eventos escolares e das formações continuadas buscando atualizar-se na área específica, a fim de incluir a criança cega;<br>
-• Fazer a correta orientação aos familiares, sobre os recursos pedagógicos e de acessibilidade utilizados pelo aluno;<br>
-• Desempenhar tarefas de informática em nível básico (word, excel, powerpoint e internet);<br>
-• Desenvolver outras atividades pertinentes e necessárias ao desempenho das funções do cargo determinadas pelo superior hierárquico ou previstas em regulamento.<br>
-**Requisitos:**<br>
-• Diploma devidamente registrado, de conclusão de curso de graduação em Pedagogia, fornecido por instituição credenciada pelo MEC; <br>
-• Diploma devidamente registrado, de conclusão de Curso de Deficiência Visual/Braille, fornecido por instituição credenciada pelo MEC (Carga horária mínima 120 horas);<br>
-• Experiência comprovada mínima de 06 meses na Instrução de Braille.<br>
-**Carga horária:** 200 horas mensais.
-
-**Cargo:** Intérprete de Libras<br>
-**Categoria:** Operacional<br>
-**Descrição da Função:<br>
-Sumário:**<br>
-Interpretar o conteúdo exposto pelo (a) professor (a) e transmitir ao aluno sem interferir diretamente no processo de aprendizagem, oferecendo suporte no entendimento da diversidade linguística e cultural dos surdos.<br>
-**Tarefas:**<br>
-• Interpretar o conteúdo exposto pelo (a) professor (a) e transmitir ao aluno sem interferir diretamente no processo de aprendizagem; <br>
-• Trabalhar em parceria com o professor regente, oferecendo suporte no entendimento da diversidade linguística e cultural dos surdos;  <br>
-• Participar do planejamento pedagógico da Unidade Escolar; <br>
-• Interpretar reuniões e eventos quando for solicitado, inclusive em outras secretarias;<br>
-• Participar dos ciclos de estudos, encontros pedagógicos e reuniões com os professores na Unidade Escolar; <br>
-• Participar e multiplicar os cursos, encontros e outros, promovidos pela Secretaria Municipal de Educação; <br>
-• Propiciar melhor comunicação entre professores, alunos e familiares; <br>
-• Esclarecer e apoiar os professores regentes no que diz respeito à escrita dos surdos, acompanhando os professores, caso necessário e mediante à solicitação, na correção das avaliações e na leitura dos textos dos alunos; <br>
-• Traduzir todas as questões da avaliação – do português escrito para a libras – sem acréscimo de esclarecimentos e adendos, exemplificações ou demais auxílios, pois eles quando necessários, dizem respeito somente ao professor; <br>
-• Auxiliar os alunos, durante a avaliação, no que se refere, exclusivamente, à Língua Portuguesa: significado, estrutura, léxico, contexto; <br>
-• Redirecionar ao professor (a) os questionamentos, dúvidas, sugestões e observações dos alunos, a respeito das aulas, pois é a referência no processo de ensino e aprendizagem; <br>
-• Esclarecer aos alunos somente as questões pertinentes à língua e ao processo interpretativo, salvo em casos extraordinários em que a instituição o incumbir de algum aviso específico aos surdos; <br>
 • Desenvolver outras atividades pertinentes e necessárias ao desempenho das funções do cargo determinadas pelo superior hierárquico ou previstas em regulamento.
 
-**Requisitos:**<br>
-• Diploma devidamente registrado, de conclusão de curso de graduação em Pedagogia, Letras ou Letras Libras, fornecido por instituição credenciada pelo MEC;<br>
-• Diploma devidamente registrado, de conclusão de Curso de Proficiência em Tradução/Interpretação, Libras/Português (Pro Libras) ou CAS (Centro de Capacitação do Surdo);<br>
-• Experiência comprovada mínima de 06 meses na área de Instrução de Libras.<br>
+**Requisitos:**
+
+• Concurso público de provas ou de provas e títulos;
+
+• Experiência mínima de 06 (seis) meses;
+
+• Diploma devidamente registrado, de conclusão de curso superior em: a) Geologia, b) Engenharia de Minas, c) Tecnólogo em Geoprocessamento, d) Engenharia Civil, e) Engenharia Florestal, f) Engenharia Sanitária, g) Bioquímica, h) Farmácia, d) Biomedicina, e) Enfermagem, f) Engenharia Química, g) Medicina Veterinária, h) Engenharia Ambiental, i) Engenharia Agronômica, j) Engenharia Química, k) Química, l) Ciências Biológicas, ou m) Geografia. 
+
+\- Além dos requisitos previstos acima, poderão ser exigidos formação específica (vide abaixo), experiência (na área do cargo ou na área de formação específica) e registro profissional, a serem definidos em regulamento ou especificados em edital de concurso.
+
+\- As atividades do cargo de Especialista em Serviços Ambientais poderão ser estruturadas por área de atuação comum e especializada, compreendendo esta a execução de atividades para as quais se exija dos titulares o devido registro nos órgãos fiscalizadores do exercício de profissões ou o domínio de habilidades específicas, a critério da Administração.
+
+\- O concurso público para ingresso no cargo poderá, a critério da Administração, ser realizado por área de atuação específica, podendo-se exigir, no edital, formação específica dentre as previstas para o cargo.
+
+\- No caso da realização do concurso por área de atuação específica, o cargo de Especialista em Serviços Ambientais será acrescido da expressão correspondente à formação exigida (ex.: Especialista em Serviços Ambientais – Geólogo).
+
+\- O Especialista em Serviços Ambientais aprovado em concurso que exija formação específica atuará nas atividades próprias do cargo que exigem essa formação ou o domínio de habilidades específicas, bem como nas áreas de atuação comum.
+
 **Carga horária:** 200 horas mensais.
 
-**Cargo:** Motorista de Veículos Pesados II<br>
-**Categoria:** Operacional<br>
-**Descrição da Função:<br>
-Sumário:**<br>
-Executar atividades de dirigir veículos pesados, tais como caminhões, carretas e ônibus, acionando os comandos de marcha e direção e conduzindo-o em trajeto determinado, segundo as regras de trânsito, para transportar passageiros ou cargas.<br>
-**Tarefas:**<br>
-•Dirigir veículos pesados (caminhões, carretas, ônibus); <br>
-• Verificar, diariamente, as condições do veículo, antes de sua utilização: pneus, água do radiador, bateria, nível e pressão do óleo, amperímetro, sinaleiras, freios, embreagem, direção, faróis, combustível, entre outros; <br>
-• Fazer pequenos reparos de emergência que não requeiram conhecimentos especiais, bem como trocar pneus, quando necessário; <br>
-• Anotar e comunicar ao chefe imediato quaisquer defeitos que necessitem de serviços de mecânica para reparo ou conserto; <br>
-• Preencher mapas e formulários sobre a utilização diária do veículo, anotando a quilometragem no começo e final dos serviços, os horários de saída e chegada e os dados relativos ao abastecimento para controle; <br>
-• Comunicar à chefia imediata, tão rapidamente quanto possível, qualquer ocorrência extraordinária; <br>
-• Transportar e recolher passageiros em local e hora determinada, conduzindo-os conforme itinerários estabelecidos ou instruções específicas; <br>
-• Zelar pelo bom andamento da viagem, adotando as medidas cabíveis na prevenção ou solução de qualquer incidente, para garantir a segurança dos passageiros, transeuntes e outros veículos; <br>
-• Recolher periodicamente, o veículo à oficina para revisão e lubrificação; <br>
-• Manter a boa aparência do veículo; <br>
-• Recolher o veículo, após o serviço, deixando-o em local apropriado, com portas e janelas trancadas, e entregar as chaves ao responsável pela guarda; <br>
-• Desenvolver atividades administrativas (documentos, registros, encaminhamentos, outros) relativas ao exercício do cargo, utilizando-se dos meios mecânicos e/ou informatizados disponíveis para esse fim; <br>
-• Utilizar os equipamentos de proteção individual, pertinentes ao exercício de suas atribuições; <br>
-• Desenvolver outras atividades pertinentes e necessárias ao desempenho das funções do cargo determinadas pelo superior hierárquico ou previstas em regulamento.<br>
-**Requisitos:**<br>
-• Diploma devidamente registrado, de conclusão do Ensino Fundamental Completo, fornecido por instituição credenciada pelo MEC;<br>
-• CNH - Categoria “D”;<br>
-• Certificado de curso de transporte de passageiros emitido pelo órgão competente.<br>
-**Carga horária:** 200 horas mensais.
+**Cargo:** Especialista em Serviços de Inspeção Municipal
 
-**Cargo:** Operador de Máquinas Leves II<br>
-**Categoria:** Operacional<br>
-**Descrição da Função:<br>
-Sumário:**<br>
-Executar atividades de construção, pavimentação e conservação de vias, operando máquinas leves.<br>
-**Tarefas:**<br>
-• Operar máquinas como tratores e bobcat;<br>
-• Zelar pela boa qualidade do serviço, controlando o andamento das operações e efetuando os ajustes necessários para garantir sua correta execução;<br>
-• Adotar as medidas de segurança recomendadas para operação de máquinas, para evitar possíveis acidentes;<br>
-• Limpar e lubrificar a máquina e seus implementos, seguindo as instruções de manutenção do fabricante, bem como providenciar a troca de peças, quando necessária;<br>
-• Desenvolver outras atividades pertinentes e necessárias ao desempenho das funções do cargo determinadas pelo superior hierárquico ou previstas em regulamento.<br>
-**Requisitos:**<br>
-• Diploma devidamente registrado, de conclusão do Ensino Fundamental Completo, fornecido por instituição credenciada pelo MEC;<br>
-• CNH - Categoria “C”;<br>
-• Experiência mínima de 01 (um) ano nas funções do cargo.<br>
-**Carga horária:** 200 horas mensais.<br>
-\- O concurso público para ingresso no cargo poderá ser realizado para máquinas específicas, a critério da Administração.
+**Categoria:** Operacional
 
-**Cargo:** Operador de Máquinas Pesadas II<br>
-**Categoria:** Operacional<br>
-**Descrição da Função:<br>
-Sumário:**<br>
-Executar atividades de construção, pavimentação e conservação de vias, operando máquinas pesadas.<br>
-**Tarefas:**<br>
-• Operar motoniveladora, escavadeira hidráulica, pá carregadeira, vibro acabadora, retroescavadeira, rolo vibratório vap, trator de esteira, rolo compactador e trator de pneus de grande porte e outros; <br>
-• Conduzir e manobrar máquinas, acionando motores, e manipulando os comandos de marcha e direção para posicioná-la conforme as necessidades do serviço; <br>
-• Operar mecanismos de tração e movimentação dos implementos da máquina, acionando pedais e alavancas de comando, para escavar, carregar, mover e levantar ou descarregar terra, areia, cascalho, pedras e materiais análogos; <br>
-• Executar serviços de escavação, terraplenagem, nivelamento de solo e similares; - Executar serviços de construção, pavimentação e conservação de vias; <br>
-• Efetuar carregamento e descarregamento de material; <br>
-• Zelar pela boa qualidade do serviço controlando o andamento das operações e efetuando os ajustes necessários, a fim de garantir sua correta execução; <br>
-• Por em prática as medidas de segurança recomendadas para a operação e estacionamento da máquina, a fim de evitar possíveis acidentes; <br>
-• Limpar e lubrificar a máquina e seus implementos, seguindo as instruções de manutenção do fabricante, bem como trocar pneus, quando necessário; <br>
-• Efetuar pequenos reparos, utilizando as ferramentas apropriadas para assegurar o bom funcionamento do equipamento; - acompanhar os serviços de manutenção preventiva e corretiva da máquina e seus implementos e após executados, efetuar os testes necessários; <br>
-• Anotar, segundo normas estabelecidas, dados e informações sobre os trabalhos realizados, consumo de combustível, conservação e outras ocorrências para controle da chefia;<br>
-• Desenvolver outras atividades pertinentes e necessárias ao desempenho das funções do cargo determinadas pelo superior hierárquico ou previstas em regulamento.<br>
-**Requisitos:**<br>
-• Diploma devidamente registrado, de conclusão do Ensino Fundamental Completo, fornecido por instituição credenciada pelo MEC;<br>
-• CNH - Categoria “D”;<br>
-• Experiência mínima de 01 (um) ano nas funções do cargo.<br>
-**Carga horária:** 200 horas mensais.<br>
-\- O concurso público para ingresso no cargo poderá ser realizado para máquinas específicas, a critério da Administração.
+**Descrição da Função:
 
-<br>
+Sumário:**
+
+Desenvolver atividades de inspeção, fiscalização e orientação dos estabelecimentos de beneficiamento artesanais e industriais, bem como dos feirantes nas feiras livres em geral e de pessoas sujeitas às ações do serviço de inspeção sanitária municipal de produtos alimentícios de origem animal ou vegetal. Emitindo relatórios, laudos, termos, pareceres, e lavrando peças fiscais próprias do ato fiscalizador.
+
+**Tarefas:**
+
+• Exercer fiscalização do exercício profissional da medicina, farmácia, odontologia, veterinária, enfermagem e outros afins;
+
+• Efetuar a apreensão e interdição de medicamentos, produtos químicos de higiene, cosméticos e outros, em desacordo com as normas da DIMED;
+
+• Exercer a fiscalização da aquisição, venda, consumo e do receituário de produtos entorpecentes e equipamentos, nos hospitais, drogarias, farmácias e similares;
+
+• Exercer a fiscalização e o controle da distribuição de “Amostras Grátis” de produtos controlados;
+
+• Exercer a fiscalização sanitária dos seguintes estabelecimentos: comerciais e industriais de produtos farmacêuticos químicos, biológicos, aparelhos acessórios para uso odontológico, aparelho ortopédicos, aparelhos acessórios e produtos analíticos para uso médico, cirúrgico, hospitalar ou para fins de diagnósticos, produtos veterinários, de toucador, cosméticos, de higiene pessoal ou ambiental e similares;
+
+• Atender às reclamações do público consumidor sobre suspeitas de adulteração, alteração, deterioração e envenenamento de gêneros e produtos alimentícios;
+
+• Orientar quanto à apresentação de relatórios solicitados pela Secretaria Nacional de Vigilância Sanitária, para fins de registro de empresas junto à DIMED, DICOP e DISAD;
+
+• Efetuar a apreensão de medicamentos, produtos químicos de higiene, cosméticos e outros em desacordo com as normas da DIMED, DICOP, DISAD;
+
+• Estudar os problemas específicos do seu campo de ação, propondo medidas solucionadoras, bem como emitir pareceres ou expedientes.
+
+• Desenvolver as atividades de inspeção, fiscalização e orientação dos estabelecimentos de beneficiamento artesanais e industriais e de pessoas sujeitas às ações do serviço de inspeção sanitária municipal de produtos alimentícios de origem animal, principalmente quanto às disposições do Serviço de Inspeção Municipal – S.I.M.;
+
+• Emitir relatórios, laudos, termos, pareceres, referentes ao serviço de inspeção sanitária municipal de produtos alimentícios;
+
+• Lavrar peças fiscais próprias do ato fiscalizador, lavrar auto de infração, aplicar multa ou penalidades administrativas decorrentes do poder de polícia;
+
+• Controlar, registrar, cancelar e cassar registro de estabelecimento de beneficiamento industrial, e agroindustrial quando o exercício de suas atividades não respeitar os comandos legais;
+
+• Registrar e aprovar os produtos e rótulos de origem animal;
+
+• Realizar auditorias técnicas e operacionais, análises, avaliações, monitoramento, análise e avaliação de risco no processamento alimentar à saúde pública;
+
+• Realizar ações de combate a clandestinidade, no que se refere a saúde alimentar;
+
+• Analisar tecnicamente as plantas arquitetônicas emitindo parecer sobre o fluxo e setores, coletar para análise água de abastecimento, alimentos processados, matéria prima e subprodutos de origem animal ou vegetal na indústria e agroindústria para averiguação das características físicas, químicas e microbiológicas;
+
+• Apresentar proposta técnica para modificações na legislação sanitária de inspeção agropecuária embasadas nos estudos realizados;
+
+• Realizar supervisões técnicas;
+
+• Desenvolver projetos, participar da elaboração de programas e projetos relacionados como a política e estratégias da Administração Agropecuária do Município ao controle de beneficiamento e processamento de alimentos de origem animal e vegetal;
+
+• Fiscalizar o cumprimento da legislação das feiras livres do município e fiscalizar e orientar todos os feirantes quanto à localização, tamanho e tipo de barracas a serem montadas;
+
+• Realizar a marcação e numeração dos pontos das barracas nas Feiras Livres;
+
+• Realizar a realocação de feirantes para pontos adequados de acordo com sua atividade;
+
+• Fiscalizar se os produtos ali vendidos estão de acordo com o cadastro e autorização emitidos pela SMAPA – Secretaria Municipal de Agricultura, Pecuária e Abastecimento;
+
+• Orientar os feirantes quanto as suas obrigações de acordo com a legislação vigente;
+
+• Orientar quanto aos produtos de origem animal/vegetal ali comercializados que devem ter o selo do S.I.M. – Serviço de Inspeção Municipal quando necessário;
+
+• Coibir a presença de feirantes não cadastrados na SMAPA;
+
+• Realizar o recadastramento dos feirantes quando solicitado pela SMAPA;
+
+• Distribuir aos feirantes as informações e comunicações da SMAPA;
+
+• Trabalhar em conjunto com outros órgãos de fiscalização do município quando solicitados;
+
+• Desenvolver outras atividades pertinentes e necessárias ao desempenho das funções do cargo determinadas pelo superior hierárquico ou previstas em regulamento.
+
+**Requisitos:**
+
+• Diploma, devidamente registrado, de conclusão de curso de graduação em nível superior em Engenharia Agronômica ou Medicina Veterinária, fornecido por instituição credenciada pelo MEC, conforme área de atuação a ser estabelecida no edital de concurso;
+
+• Registro profissional no órgão de classe.
+
  
 
-**ANEXO II<br>
+**Carga horária:** 200 horas mensais.
+
+**Cargo:** Instrutor de Braille
+
+**Categoria:** Operacional
+
+**Descrição da Função:
+
+Sumário:**
+
+Instruir e acompanhar o aluno cego no ambiente escolar, trabalhando noções de orientação e mobilidade, visando desenvolver a autonomia do aluno, bem como, realizar audiodescrição em atividades extraclasse.
+
+**Tarefas:**
+
+• Realizar o acompanhamento do aluno cego no ambiente escolar; 
+
+• Dominar e aplicar a grafia Braille nas atividades escolares; 
+
+• Trabalhar noções de orientação e mobilidade, desenvolvendo autonomia do aluno, bem como, realizar audiodescrição em atividades extraclasse; 
+
+• Participar de eventos escolares e das formações continuadas buscando atualizar-se na área específica, a fim de incluir a criança cega;
+
+• Fazer a correta orientação aos familiares, sobre os recursos pedagógicos e de acessibilidade utilizados pelo aluno;
+
+• Desempenhar tarefas de informática em nível básico (word, excel, powerpoint e internet);
+
+• Desenvolver outras atividades pertinentes e necessárias ao desempenho das funções do cargo determinadas pelo superior hierárquico ou previstas em regulamento.
+
+**Requisitos:**
+
+• Diploma devidamente registrado, de conclusão de curso de graduação em Pedagogia, fornecido por instituição credenciada pelo MEC; 
+
+• Diploma devidamente registrado, de conclusão de Curso de Deficiência Visual/Braille, fornecido por instituição credenciada pelo MEC (Carga horária mínima 120 horas);
+
+• Experiência comprovada mínima de 06 meses na Instrução de Braille.
+
+**Carga horária:** 200 horas mensais.
+
+**Cargo:** Intérprete de Libras
+
+**Categoria:** Operacional
+
+**Descrição da Função:
+
+Sumário:**
+
+Interpretar o conteúdo exposto pelo (a) professor (a) e transmitir ao aluno sem interferir diretamente no processo de aprendizagem, oferecendo suporte no entendimento da diversidade linguística e cultural dos surdos.
+
+**Tarefas:**
+
+• Interpretar o conteúdo exposto pelo (a) professor (a) e transmitir ao aluno sem interferir diretamente no processo de aprendizagem; 
+
+• Trabalhar em parceria com o professor regente, oferecendo suporte no entendimento da diversidade linguística e cultural dos surdos;  
+
+• Participar do planejamento pedagógico da Unidade Escolar; 
+
+• Interpretar reuniões e eventos quando for solicitado, inclusive em outras secretarias;
+
+• Participar dos ciclos de estudos, encontros pedagógicos e reuniões com os professores na Unidade Escolar; 
+
+• Participar e multiplicar os cursos, encontros e outros, promovidos pela Secretaria Municipal de Educação; 
+
+• Propiciar melhor comunicação entre professores, alunos e familiares; 
+
+• Esclarecer e apoiar os professores regentes no que diz respeito à escrita dos surdos, acompanhando os professores, caso necessário e mediante à solicitação, na correção das avaliações e na leitura dos textos dos alunos; 
+
+• Traduzir todas as questões da avaliação – do português escrito para a libras – sem acréscimo de esclarecimentos e adendos, exemplificações ou demais auxílios, pois eles quando necessários, dizem respeito somente ao professor; 
+
+• Auxiliar os alunos, durante a avaliação, no que se refere, exclusivamente, à Língua Portuguesa: significado, estrutura, léxico, contexto; 
+
+• Redirecionar ao professor (a) os questionamentos, dúvidas, sugestões e observações dos alunos, a respeito das aulas, pois é a referência no processo de ensino e aprendizagem; 
+
+• Esclarecer aos alunos somente as questões pertinentes à língua e ao processo interpretativo, salvo em casos extraordinários em que a instituição o incumbir de algum aviso específico aos surdos; 
+
+• Desenvolver outras atividades pertinentes e necessárias ao desempenho das funções do cargo determinadas pelo superior hierárquico ou previstas em regulamento.
+
+**Requisitos:**
+
+• Diploma devidamente registrado, de conclusão de curso de graduação em Pedagogia, Letras ou Letras Libras, fornecido por instituição credenciada pelo MEC;
+
+• Diploma devidamente registrado, de conclusão de Curso de Proficiência em Tradução/Interpretação, Libras/Português (Pro Libras) ou CAS (Centro de Capacitação do Surdo);
+
+• Experiência comprovada mínima de 06 meses na área de Instrução de Libras.
+
+**Carga horária:** 200 horas mensais.
+
+**Cargo:** Motorista de Veículos Pesados II
+
+**Categoria:** Operacional
+
+**Descrição da Função:
+
+Sumário:**
+
+Executar atividades de dirigir veículos pesados, tais como caminhões, carretas e ônibus, acionando os comandos de marcha e direção e conduzindo-o em trajeto determinado, segundo as regras de trânsito, para transportar passageiros ou cargas.
+
+**Tarefas:**
+
+•Dirigir veículos pesados (caminhões, carretas, ônibus); 
+
+• Verificar, diariamente, as condições do veículo, antes de sua utilização: pneus, água do radiador, bateria, nível e pressão do óleo, amperímetro, sinaleiras, freios, embreagem, direção, faróis, combustível, entre outros; 
+
+• Fazer pequenos reparos de emergência que não requeiram conhecimentos especiais, bem como trocar pneus, quando necessário; 
+
+• Anotar e comunicar ao chefe imediato quaisquer defeitos que necessitem de serviços de mecânica para reparo ou conserto; 
+
+• Preencher mapas e formulários sobre a utilização diária do veículo, anotando a quilometragem no começo e final dos serviços, os horários de saída e chegada e os dados relativos ao abastecimento para controle; 
+
+• Comunicar à chefia imediata, tão rapidamente quanto possível, qualquer ocorrência extraordinária; 
+
+• Transportar e recolher passageiros em local e hora determinada, conduzindo-os conforme itinerários estabelecidos ou instruções específicas; 
+
+• Zelar pelo bom andamento da viagem, adotando as medidas cabíveis na prevenção ou solução de qualquer incidente, para garantir a segurança dos passageiros, transeuntes e outros veículos; 
+
+• Recolher periodicamente, o veículo à oficina para revisão e lubrificação; 
+
+• Manter a boa aparência do veículo; 
+
+• Recolher o veículo, após o serviço, deixando-o em local apropriado, com portas e janelas trancadas, e entregar as chaves ao responsável pela guarda; 
+
+• Desenvolver atividades administrativas (documentos, registros, encaminhamentos, outros) relativas ao exercício do cargo, utilizando-se dos meios mecânicos e/ou informatizados disponíveis para esse fim; 
+
+• Utilizar os equipamentos de proteção individual, pertinentes ao exercício de suas atribuições; 
+
+• Desenvolver outras atividades pertinentes e necessárias ao desempenho das funções do cargo determinadas pelo superior hierárquico ou previstas em regulamento.
+
+**Requisitos:**
+
+• Diploma devidamente registrado, de conclusão do Ensino Fundamental Completo, fornecido por instituição credenciada pelo MEC;
+
+• CNH - Categoria “D”;
+
+• Certificado de curso de transporte de passageiros emitido pelo órgão competente.
+
+**Carga horária:** 200 horas mensais.
+
+**Cargo:** Operador de Máquinas Leves II
+
+**Categoria:** Operacional
+
+**Descrição da Função:
+
+Sumário:**
+
+Executar atividades de construção, pavimentação e conservação de vias, operando máquinas leves.
+
+**Tarefas:**
+
+• Operar máquinas como tratores e bobcat;
+
+• Zelar pela boa qualidade do serviço, controlando o andamento das operações e efetuando os ajustes necessários para garantir sua correta execução;
+
+• Adotar as medidas de segurança recomendadas para operação de máquinas, para evitar possíveis acidentes;
+
+• Limpar e lubrificar a máquina e seus implementos, seguindo as instruções de manutenção do fabricante, bem como providenciar a troca de peças, quando necessária;
+
+• Desenvolver outras atividades pertinentes e necessárias ao desempenho das funções do cargo determinadas pelo superior hierárquico ou previstas em regulamento.
+
+**Requisitos:**
+
+• Diploma devidamente registrado, de conclusão do Ensino Fundamental Completo, fornecido por instituição credenciada pelo MEC;
+
+• CNH - Categoria “C”;
+
+• Experiência mínima de 01 (um) ano nas funções do cargo.
+
+**Carga horária:** 200 horas mensais.
+
+\- O concurso público para ingresso no cargo poderá ser realizado para máquinas específicas, a critério da Administração.
+
+**Cargo:** Operador de Máquinas Pesadas II
+
+**Categoria:** Operacional
+
+**Descrição da Função:
+
+Sumário:**
+
+Executar atividades de construção, pavimentação e conservação de vias, operando máquinas pesadas.
+
+**Tarefas:**
+
+• Operar motoniveladora, escavadeira hidráulica, pá carregadeira, vibro acabadora, retroescavadeira, rolo vibratório vap, trator de esteira, rolo compactador e trator de pneus de grande porte e outros; 
+
+• Conduzir e manobrar máquinas, acionando motores, e manipulando os comandos de marcha e direção para posicioná-la conforme as necessidades do serviço; 
+
+• Operar mecanismos de tração e movimentação dos implementos da máquina, acionando pedais e alavancas de comando, para escavar, carregar, mover e levantar ou descarregar terra, areia, cascalho, pedras e materiais análogos; 
+
+• Executar serviços de escavação, terraplenagem, nivelamento de solo e similares; - Executar serviços de construção, pavimentação e conservação de vias; 
+
+• Efetuar carregamento e descarregamento de material; 
+
+• Zelar pela boa qualidade do serviço controlando o andamento das operações e efetuando os ajustes necessários, a fim de garantir sua correta execução; 
+
+• Por em prática as medidas de segurança recomendadas para a operação e estacionamento da máquina, a fim de evitar possíveis acidentes; 
+
+• Limpar e lubrificar a máquina e seus implementos, seguindo as instruções de manutenção do fabricante, bem como trocar pneus, quando necessário; 
+
+• Efetuar pequenos reparos, utilizando as ferramentas apropriadas para assegurar o bom funcionamento do equipamento; - acompanhar os serviços de manutenção preventiva e corretiva da máquina e seus implementos e após executados, efetuar os testes necessários; 
+
+• Anotar, segundo normas estabelecidas, dados e informações sobre os trabalhos realizados, consumo de combustível, conservação e outras ocorrências para controle da chefia;
+
+• Desenvolver outras atividades pertinentes e necessárias ao desempenho das funções do cargo determinadas pelo superior hierárquico ou previstas em regulamento.
+
+**Requisitos:**
+
+• Diploma devidamente registrado, de conclusão do Ensino Fundamental Completo, fornecido por instituição credenciada pelo MEC;
+
+• CNH - Categoria “D”;
+
+• Experiência mínima de 01 (um) ano nas funções do cargo.
+
+**Carga horária:** 200 horas mensais.
+
+\- O concurso público para ingresso no cargo poderá ser realizado para máquinas específicas, a critério da Administração.
+
+ 
+
+**ANEXO II
+
 (Inclusão no Anexo IV da Lei nº 3.853/1999 – Quadro de Quantitativos de Cargo)**
 
 | Cargo | Quantitativo |
@@ -359,8 +599,10 @@ Executar atividades de construção, pavimentação e conservação de vias, ope
 | Padeiro | 10 |
 | Telefonista | 50 |
 
-**ANEXO III<br>
-(Inclusão no Anexo VIII da Lei nº 3.853/1999 – Quadro de Cargos e Padrão de Vencimento)**<br>
+**ANEXO III
+
+(Inclusão no Anexo VIII da Lei nº 3.853/1999 – Quadro de Cargos e Padrão de Vencimento)**
+
  
 
 | Cargo | Nível | Padrão Originário (Anexo IX) |
@@ -377,7 +619,8 @@ Executar atividades de construção, pavimentação e conservação de vias, ope
 | Operador de Máquinas Leves | sing. | V - A |
 | Operador de Máquinas Pesadas | sing. | VIII - A |
 
-**ANEXO IV<br>
+**ANEXO IV
+
 (Inclusão no Anexo X da Lei nº 3.853/1999 – Tabela do Quadro de Cargos em Extinção - Geral)**
 
 | Cargo em extinção | Quantitativo |

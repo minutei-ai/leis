@@ -1,5 +1,3 @@
-###DEC-087725-0-000-19-10-1982@@@
-
 Decreto nº 87.725, de 19 de outubro de 1982
 
 Extingue a Comissão Especial Supervisora de Aplicação de Recursos-CESAR, da Universidade Federal do Rio de Janeiro.

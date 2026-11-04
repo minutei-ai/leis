@@ -1,5 +1,3 @@
-###DEC-074357-0-000-02-08-1974@@@
-
 DECRETO Nº 74.357, DE 2 DE AGOSTO DE 1974.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Castro, Estado do Paraná.

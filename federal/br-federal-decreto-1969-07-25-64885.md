@@ -1,5 +1,3 @@
-###DEC-064885-0-000-25-07-1969@@@
-
 DECRETO Nº 64.885 - DE 25 DE JULHO DE 1969.
 
 Declara caduco o Decreto nº 22.239, de 6 de dezembro de 1946.

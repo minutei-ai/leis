@@ -1,5 +1,3 @@
-###DEL-007501-0-000-30-04-1945@@@
-
 DECRETO-LEI N. 7.501 – DE 30 DE ABRIL DE 1945
 
 Altera a redação dos artigos 132 e 134 do Decreto-lei nº 1.713, de 28 de outubro de 1939

@@ -54,4 +54,4 @@ Brasília, 15 de janeiro de 2020; 199º da Independência e 132º da República.
 
 JAIR MESSIAS BOLSONARO
 
-Renato de Lima França<br>
+Renato de Lima França

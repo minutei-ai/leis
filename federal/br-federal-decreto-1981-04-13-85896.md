@@ -1,5 +1,3 @@
-###DEC-085896-0-000-13-04-1981@@@
-
 Decreto nº 85.896, de 13 dE Abril de 1981.
 
 Declara de utilidade pública as instituições que menciona.

@@ -1,5 +1,3 @@
-###MPV-000136-0-000-17-11-2003@@@
-
 MEDIDA PROVISÓRIA Nº 136, DE 17 DE OUTUBRO 2003.
 
        Acrescenta artigo à Lei nº 8.884, de 11 de junho de 1994, que transforma o Conselho Administrativo de Defesa Econômica – CADE em Autarquia e dispõe sobre a prevenção e a repressão às infrações contra a ordem econômica.
@@ -16,5 +14,6 @@ Parágrafo único.  A contratação referida no caput poderá ser prorrogada, 
 
         Brasília, 17 de novembro de 2003; 182º da independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 José Dirceu de Oliveira e Silva

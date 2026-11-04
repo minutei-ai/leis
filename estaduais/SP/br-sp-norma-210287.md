@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210287)<br>
-
 # DECRETO N° 69.107, DE 03 DE DEZEMBRO DE 2024
 
 ### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, de Pau Brasil Empreendimentos Imobiliários Ltda., o imóvel que especifica._

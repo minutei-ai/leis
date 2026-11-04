@@ -1,5 +1,3 @@
-###DEC-072688-0-000-24-08-1973@@@
-
 decreto nº 72.688, de 24 de agosto de 1973.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciência e Letras de Araxá, mantida pela Fundação Cultural de Araxá, com sede na cidade de Araxá, Estado de Minas Gerais.

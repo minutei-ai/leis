@@ -1,5 +1,3 @@
-###DEC-073892-0-000-05-04-1974@@@
-
 decreto nº 73.892, de 5 de abril de 1974
 
 Institui Comissão Especial para reexame da legislação tributária e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-002242-0-000-02-06-1997@@@
-
 DECRETO Nº 2.242, DE 2 DE JUNHO DE 1997
 
 Promulga o Acordo de Cooperação Mútua para a Redução da Demanda, Prevenção do Uso Indevido e Combate à Produção e ao Tráfico Ilícitos de Entorpecentes, celebrado entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos da América, em Brasília, em 12 de abril de 1995.
@@ -126,4 +124,22 @@ Artigo X
 
 Feito em Brasília, em 12 de abril de 1995, em dois exemplares originais, nas línguas portuguesa e inglesa, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:228.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Normal0" style="margin-top:6pt; margin-bottom:0pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República</span></p></td><td style="width:228.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Normal0" style="margin-top:6pt; margin-bottom:0pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Pelo Governo dos Estados</span></p></td></tr><tr><td style="width:228.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Normal0" style="margin-top:6pt; margin-bottom:0pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Federativa do Brasil</span></p></td><td style="width:228.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Normal0" style="margin-top:6pt; margin-bottom:0pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Unidos da América</span></p></td></tr><tr><td style="width:228.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Normal0" style="margin-top:6pt; margin-bottom:0pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Luiz Felipe Lampreia</span></p></td><td style="width:228.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Normal0" style="margin-top:6pt; margin-bottom:0pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Melvyn Levitsky</span></p></td></tr><tr><td style="width:228.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Normal0" style="margin-top:6pt; margin-bottom:0pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Ministro de Estado das</span></p></td><td style="width:228.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Normal0" style="margin-top:6pt; margin-bottom:0pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Embaixador Extraordinário</span></p></td></tr><tr><td style="width:228.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Normal0" style="margin-top:6pt; margin-bottom:0pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Relações Exteriores</span></p></td><td style="width:228.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Normal0" style="margin-top:6pt; margin-bottom:0pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt">e Plenipotenciário</span></p></td></tr></tbody></table>
+Pelo Governo da República
+
+Pelo Governo dos Estados
+
+Federativa do Brasil
+
+Unidos da América
+
+Luiz Felipe Lampreia
+
+Melvyn Levitsky
+
+Ministro de Estado das
+
+Embaixador Extraordinário
+
+Relações Exteriores
+
+e Plenipotenciário

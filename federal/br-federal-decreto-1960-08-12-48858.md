@@ -1,5 +1,3 @@
-###DEC-048858-0-000-12-08-1960@@@
-
 Decreto nº 48.858, de 12 de agôsto de 1960.
 
 Outorga concessão à Rádio Cruzeiro da Bahia Limitada para instalar uma estação radiodifusora.

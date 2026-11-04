@@ -1,5 +1,3 @@
-###MPV-000398-0-000-10-10-2007@@@
-
 MEDIDA PROVISÓRIA Nº 398, DE 10 DE OUTUBRO DE 2007.
 
 Institui os princípios e objetivos dos serviços de radiodifusão pública explorados pelo Poder Executivo ou outorgados a entidades de sua administração indireta, autoriza o Poder Executivo a constituir a Empresa Brasil de Comunicação - EBC, e dá outras providências.                       
@@ -265,5 +263,3 @@ Paulo Bernardo Silva
 Dilma Rousseff
 
 Franklin Martins
-
-Este texto não substitui o publicado no DOU de 11.10.2007

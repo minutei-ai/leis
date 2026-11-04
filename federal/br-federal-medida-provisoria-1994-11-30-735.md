@@ -1,7 +1,3 @@
-1
-
-###MPV-000735-0-000-30-11-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 735, de 30 de NOVEMBRO de 1994.
 
 Cria, na estrutura organizacional do Ministério da Justiça o Conselho Federal de que trata o art. 13 da Lei nº 7.347, de 24 de julho de 1985, altera os arts. 4º, 39, 82, 91 e 98 da Lei nº 8.078, de 11 de setembro de 1990, e dá outras providências.

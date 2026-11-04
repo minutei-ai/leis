@@ -1,5 +1,3 @@
-###DEC-059406-0-000-21-10-1966@@@
-
 DECRETO Nº 59.406, DE 21 DE OUTUBRO DE 1966.
 
 Concede autorização para o funcionamento da Faculdade de Direito de Pinhal, no Estado de São Paulo.

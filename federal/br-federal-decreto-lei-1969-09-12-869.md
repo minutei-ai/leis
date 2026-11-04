@@ -1,5 +1,3 @@
-###DEL-000869-0-000-12-09-1969@@@
-
 DECReto-LEI Nº 869, de 12 DE SetemBrO De 1969
 
 Dispõe sôbre a inclusão da Educação Moral e Cívica como disciplina obrigatória, nas escolas de todos os graus e modalidades, dos sistemas de ensino no País, e dá outras providências.

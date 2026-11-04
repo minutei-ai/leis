@@ -1,5 +1,3 @@
-###DEC-090647-0-000-10-12-1984@@@
-
 Decreto nº 90.647, de 10 de dezembro de 1984
 
 Outorga concessão À RÁDIO ATALAIA DE SERGIPE LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Simão Dias, Estado de Sergipe.

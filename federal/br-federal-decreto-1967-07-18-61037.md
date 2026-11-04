@@ -1,5 +1,3 @@
-###DEC-061037-0-000-18-07-1967@@@
-
 decreto nº 61.037, de 18 de julho de 1957.
 
 Declara de utilidade pública a associação “Meninos de Dom Bosco”, com sede em Araxá, Estado de Minas Gerais.

@@ -1,7 +1,3 @@
-1
-
-###DEC-094377-0-000-26-05-1987@@@
-
 # DECRETO Nº 94.377, DE 26 DE MAIO DE 1987.
 
 Dispõe sobre a execução do Protocolo Modificativo do Acordo de Alcance Regional nº 4.

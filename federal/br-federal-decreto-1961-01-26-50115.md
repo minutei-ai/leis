@@ -1,5 +1,3 @@
-###DEC-050115-0-000-26-01-1961@@@
-
 decreto nº 50.115, de 26 de janeiro de 1961.
 
 Outorga concessão à Rádio Paulista Limitada para estabelecer uma estação de radiodifusão.

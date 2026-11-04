@@ -1,5 +1,3 @@
-###DEC-086949-0-000-17-02-1982@@@
-
 decreto nº 86.949, de 17 de fevereiro de 1982
 
 Transfere atribuição da Subchefia do Serviço de Assistência Religiosa ao Comando da Força de Fuzileiros da Esquadra.

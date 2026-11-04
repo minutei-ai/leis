@@ -1,5 +1,3 @@
-###DEC-084927-0-000-17-07-1980@@@
-
 Decreto nº 84.927, de 17 de julho de 1980.
 
 Declara perempta a concessão outorgada à Rádio Difusora São Paulo S.A., para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de São Paulo, Estado de São Paulo.

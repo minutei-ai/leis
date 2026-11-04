@@ -1,5 +1,3 @@
-###DEC-051305-0-000-25-08-1961@@@
-
 DECRETO Nº 51.305, DE 25 DE AGÔSTO DE 1961.
 
 Outorga ao Estado da Bahia concessão para distribuir energia elétrica.

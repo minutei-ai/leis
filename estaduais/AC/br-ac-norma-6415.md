@@ -1,6 +1,10 @@
 > **LEI Nº 4.560, DE 24 DE MARÇO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre Protocolo Individualizado de Avaliação - PIA para os alunos com Transtornos Globais do Desenvolvimento, incluindo-se Transtorno do Espectro Autista - TEA, nas Instituições de Ensino do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre Protocolo Individualizado de Avaliação - PIA para os alunos com Transtornos Globais do Desenvolvimento, incluindo-se Transtorno do Espectro Autista - TEA, nas Instituições de Ensino do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

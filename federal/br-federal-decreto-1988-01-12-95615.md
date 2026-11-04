@@ -1,7 +1,3 @@
-1
-
-###DEC-095615-0-000-12-01-1988@@@
-
 DECRETO N° 95.615, DE 12 DE JANEIRO DE 1988
 
 Outorga à CASIL S.A. - Carbureto de Silício, concessão para o aproveitamento da energia hidráulica de um trecho do rio Preto, no local denominado Cachoeira da Fumaça, no Município de Passa Vinte, Estado de Minas Gerais.

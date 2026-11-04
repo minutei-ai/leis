@@ -1,5 +1,3 @@
-###DEC-096439-0-000-28-07-1988@@@
-
 DECRETO N,° 96.439, DE 28 DE JULHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado Fazenda Arapuá, também conhecido como Corgão, Curiongongo e Macaúbas classificado como latifúndio por exploração, situado no Município de Varzelândia, no Estado de Minas Gerais, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.694, de 19 de maio de 1986, e dá outras providências.

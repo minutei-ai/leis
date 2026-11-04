@@ -1,5 +1,3 @@
-###DEC-055299-0-000-29-12-1964@@@
-
 decreto nº 55.299, DE 29 de dezembro de 1964.
 
 Altera o Regulamento de Uniformes para a marinha do Brasil, aprovado pelo Decreto número 34.868 de 3 de dezembro de 1953.

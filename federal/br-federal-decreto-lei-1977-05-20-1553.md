@@ -1,5 +1,3 @@
-###DEL-001553-0-000-20-05-1977@@@
-
 # dECRETO-LEI Nº 1.553, de 20 DE MAIO DE 1977
 
 Reajusta os vencimentos e salários dos servidores da Secretaria do Tribunal de Justiça do Distrito Federal e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-006068-0-000-03-12-1943@@@
-
 DECRETO-LEI N. 6.068 – DE 3 DE DEZEMBRO DE 1943
 
 Dispõe sôbre penalidades para os infratores de disposições do decreto n. 14.167 de 3 de dezembro de 1943

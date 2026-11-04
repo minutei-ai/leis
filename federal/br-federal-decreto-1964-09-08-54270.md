@@ -1,5 +1,3 @@
-###DEC-054270-0-000-08-09-1964@@@
-
 DECRETO Nº 54.270, DE 8 DE SETEMBRO DE 1964.
 
 Autoriza o Departamento Nacional de Portos e Vias Navegáveis a ceder, gratuitamente, ao Instituto do Açúcar e do Álcool, área de terreno localizada no pôrto de Aracaju, Estado de Sergipe.

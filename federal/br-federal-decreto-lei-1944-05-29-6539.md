@@ -1,5 +1,3 @@
-###DEL-006539-0-000-29-05-1944@@@
-
 DECRETO-LEI N. 6.539 – DE 29 DE MAIO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a isentar do pagamento do impôsto predial os imóveis que menciona

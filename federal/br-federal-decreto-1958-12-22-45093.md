@@ -1,5 +1,3 @@
-###DEC-045093-0-000-22-12-1958@@@
-
 DECRETO Nº 45.093, DE 24 DE DEZEMBRO DE 1958.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, o domínio útil do terreno de marinha que menciona, no Distrito Federal.

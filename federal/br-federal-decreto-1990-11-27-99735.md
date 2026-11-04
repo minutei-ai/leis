@@ -1,5 +1,3 @@
-###DEC-099735-0-000-27-11-1990@@@
-
 DECRETO N° 99.735, DE 27 DE NOVEMBRO DE 1990
 
 Dispõe sobre a transformação da Diretoria de Assuntos Culturais, Educação Física e Desportos, em Diretoria de Assu­tos Culturais, no Ministério do Exército

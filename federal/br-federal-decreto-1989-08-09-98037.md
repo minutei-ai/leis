@@ -1,7 +1,3 @@
-1
-
-###DEC-098037-0-000-09-08-1989@@@
-
 DECRETO N° 98 037, DE 9 DE AGOSTO DE 1989
 
 Outorga concessão à RIO SÃO FRANCISCO RADIODIFUSÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Bom Jesus da Lapa, Estado da Bahia.

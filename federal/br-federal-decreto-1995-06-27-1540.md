@@ -1,7 +1,3 @@
-1
-
-###DEC-001540-0-000-27-06-1995@@@
-
 DECRETO Nº 1.540, DE 27 DE JUNHO DE 1995
 
 Dispõe sobre a composição e o funcionamento do Grupo de Coordenação incumbido da atualização do Plano Nacional de Gerenciamento Costeiro (PNGC).

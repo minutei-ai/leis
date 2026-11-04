@@ -1,5 +1,3 @@
-###DEC-088549-0-000-26-07-1983@@@
-
 Decreto nº 88.549, de 26 de Julho de 1983
 
 Concede à Companhia Brasileira do Cobre - CBC autorização para proceder ao aumento do seu capital autorizado.

@@ -1,5 +1,3 @@
-###DEC-072909-0-000-10-10-1973@@@
-
 DECRETO Nº 72.909, DE 10 DE OUTUBRO DE 1973.
 
 Cria, no Ministério da Aeronáutica, o Grupo de Apoio dos Afonsos (GAP AF), aprova seu Regulamento e dá outras providências.

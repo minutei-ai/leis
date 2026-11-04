@@ -1,5 +1,3 @@
-###DEC-070998-0-000-17-08-1972@@@
-
 DECRETO Nº 70.998, de 17 de agosto de 1972
 
 Declara de utilidade pública as instituições que menciona.

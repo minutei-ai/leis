@@ -1,5 +1,3 @@
-###DEC-051549-A-000-11-09-1962@@@
-
 Decreto Nº 51.549-A, DE 11 de Setembro DE 1962.
 
 “Transforma em Comissão Arbitral para o período do atual Govêrno, a Comissão criada pelo Decreto nº 51.421, de 28 fevereiro de 1962”.

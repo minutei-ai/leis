@@ -1,5 +1,3 @@
-###DEC-060850-0-000-09-06-1967@@@
-
 Decreto nº 60.850, de 9 de junho de 1967.
 
 Concede à Sociedade Westinghouse Eletric Company S. A., autorização para continuar a funcionar no Brasil.

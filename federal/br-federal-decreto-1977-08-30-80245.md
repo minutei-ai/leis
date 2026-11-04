@@ -1,5 +1,3 @@
-###DEC-080245-0-000-30-08-1977@@@
-
 Decreto nº 80.245, de 30 de agosto de 1977.
 
 Concede à Cerâmica Togni S. A. o direito de lavrar argila no Município de Sacramento, Estado de Minas Gerais.

@@ -1,14 +1,12 @@
-###DEC-030955-0-000-07-06-1952@@@
+**DECRETO Nº 30.955, DE 7 DE JUNHO DE 1952.**
 
-<strong>DECRETO Nº 30.955, DE 7 DE JUNHO DE 1952.</strong>
+***Dispõe sôbre funções consideradas de caráter ou interêsse militar.***
 
-<em><strong>Dispõe sôbre funções consideradas de caráter ou interêsse militar.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, n.º I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, n.º I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º São consideradas de caráter ou de interêsse militar, para efeito do disposto nos artigos 24, letra <em>e</em>, e 29, letra <em>i</em>, da Lei nº 1.316, de 20 de janeiro de 1951, as seguintes funções:
+**Art**. 1º São consideradas de caráter ou de interêsse militar, para efeito do disposto nos artigos 24, letra *e*, e 29, letra *i*, da Lei nº 1.316, de 20 de janeiro de 1951, as seguintes funções:
 
 a) No Exército:
 
@@ -44,11 +42,11 @@ c) Na Aeronáutica:
 
 4\. Da pesquisa sôbre pólvoras, explosivos, energia atômica e engenhos aeronáuticos em estabelecimentos civis ou institutos científicos, reconhecidos para êsse fim pelo Govêrno Federal.
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 7 de junho de 1952; 131º da Independência e 64º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Francisco Negrão de Lima
 

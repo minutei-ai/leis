@@ -1,5 +1,3 @@
-###DEL-008810-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.810 – DE 24 DE JANEIRO DE 1946
 
 Extingue a Comissão Executiva de Frutas, criada pelo Decreto-lei número 5.032, de 4 de Dezembro de 1942.

@@ -1,5 +1,3 @@
-###DEC-074618-0-000-25-09-1974@@@
-
 DECRETO Nº 74.618, DE 25 DE SETEMBRO DE 1974.
 
 Concede autorização às firmas Western Geophisical Company of America, norte-americana, e SERMAR - Serviços Marítimos Ltda., brasileira, para substituírem a embarcação especializada "M/V Cynthia Walter" pela M/V "Western Reef", na operação de que trata o Decreto nº 74.071, de 15 de maio de 1974.

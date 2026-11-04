@@ -1,7 +1,3 @@
-1
-
-###DEC-097698-0-000-27-04-1989@@@
-
 DECRETO N° 97.698, DE 27 DE ABRIL DE 1989
 
 Renova a concessão outorgada à RÁDIO IMPERATRIZ SOCIEDADE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Imperatriz, Estado do Maranhão.

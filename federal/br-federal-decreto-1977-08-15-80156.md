@@ -1,5 +1,3 @@
-###DEC-080156-0-000-15-08-1977@@@
-
 DECRETO N.º 80156, DE 15 DE AGOSTO DE 1977
 
 Concede reconhecimento ao curso de Pedagogia, das Faculdades Integradas Santo Antônio, com sede na cidade de São Paulo, Estado de São Paulo.

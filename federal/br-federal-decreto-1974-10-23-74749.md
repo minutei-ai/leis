@@ -1,5 +1,3 @@
-###DEC-074749-0-000-23-10-1974@@@
-
 decreto nº 74.749, de 23 de outubro de 1974.
 
 Concede reconhecimento ao curso de Letras da Faculdade de Ciências, Letras e Educação de Presidente Prudente, mantida pela Associação Prudentina de Educação e Cultura, com sede na Cidade de Presidente Prudente, Estado de São Paulo.

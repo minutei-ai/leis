@@ -1,5 +1,3 @@
-###DEL-004272-0-000-17-04-1942@@@
-
 DECRETO-LEI N. 4.272 – DE 17 DE ABRIL DE 1942
 
 Estabelece o racionamento de automoveis e caminhões, e dá outras providências

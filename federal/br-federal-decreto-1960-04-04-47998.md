@@ -1,5 +1,3 @@
-###DEC-047998-0-000-04-04-1960@@@
-
 DECRETO Nº 47.998, DE 4 DE ABRIL DE 1960.
 
 Estabelece normas para a concessão das diárias e ajuda de custo de que trata o Decreto nº 47.433, de 15 de dezembro de 1959.

@@ -1,5 +1,3 @@
-###DEC-068833-0-000-30-06-1971@@@
-
 Decreto Nº 68.833 - DE 30 DE junho DE 1971.
 
 Autorização para funcionamento da Faculdade de Direito de Olinda, PE.

@@ -1,5 +1,3 @@
-###DEC-069968-0-000-19-01-1972@@@
-
 DECRETO Nº 69.968, DE 19 DE JANEIRO DE 1972.
 
 Classifica órgãos de deliberação coletiva, existentes na área da Presidência da República.

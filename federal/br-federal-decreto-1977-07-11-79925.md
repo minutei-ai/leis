@@ -1,5 +1,3 @@
-###DEC-079925-0-000-11-07-1977@@@
-
 DECRETO Nº 79.925, DE 11 DE JULHO DE 1977
 
 Concede à CEARITA - Empresa de Mineração Industrial Ltda. o direito de lavrar diatomita no Município de Aquiraz, Estado do Ceará.

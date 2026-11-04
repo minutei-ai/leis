@@ -1,5 +1,3 @@
-###DEC-070191-0-000-24-02-1972@@@
-
 DECRETO Nº 70.191, DE 24 DE FEVEREIRO DE 1972.
 
 Redistribui cargo, com respectiva ocupante, para o Departamento Nacional de Obras de Saneamento, do Ministério do Interior, e dá outras providências.

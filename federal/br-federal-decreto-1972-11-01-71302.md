@@ -1,5 +1,3 @@
-###DEC-071302-0-000-01-11-1972@@@
-
 DECRETO Nº 71.302, DE 1 DE NOVEMBRO DE 1972.
 
 Concede reconhecimento aos Cursos de Letras (licenciatura plena) e Ciências Sociais, da Faculdade de Filosofia, Ciências e Letras "Barão de Mauá".

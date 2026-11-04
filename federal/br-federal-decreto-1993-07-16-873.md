@@ -1,7 +1,3 @@
-1
-
-###DEC-000873-0-000-16-07-1993@@@
-
 DECRETO N° 873, DE 16 DE JULHO DE 1993
 
 Dispõe sobre a execução do Protocolo de Adequação ao Acordo Comercial n° 9, no setor da indústria de equipamentos de geração, transmissão e distribuição de eletricidade, entre Brasil e México, de 30 de novembro de 1992.

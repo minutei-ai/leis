@@ -1,5 +1,3 @@
-###DEL-006895-0-000-23-09-1944@@@
-
 DECRETO-LEI N. 6.895 – DE 23 DE SETEMBRO DE 1944
 
 Dispõe sôbre o pagamento por cheque à Fazenda Nacional

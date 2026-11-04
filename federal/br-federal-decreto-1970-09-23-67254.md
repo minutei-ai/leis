@@ -1,5 +1,3 @@
-###DEC-067254-0-000-23-09-1970@@@
-
 DECRETO Nº 67.254, DE 23 DE SETEMBRO DE 1970.
 
 Declara caduco o Decreto nº 47.010, de 13 de outubro de 1959, retificado pelo Decreto nº 2.083, de 17 de janeiro de 1963.

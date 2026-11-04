@@ -1,5 +1,3 @@
-###DEL-008673-0-000-14-01-1946@@@
-
 DECRETO-LEI N. 8.673 – DE 14 DE JANEIRO DE 1946
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial Cr$..... 15.435,40, para pagamento de gratificação.

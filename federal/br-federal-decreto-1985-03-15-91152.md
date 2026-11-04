@@ -1,5 +1,3 @@
-###DEC-091152-0-000-15-03-1985@@@
-
 DECRETO Nº 91.152, DE 15 DE MARÇO DE 1985
 
 Cria o Conselho de Recursos do Sistema Financeiro Nacional e dá outras providências.

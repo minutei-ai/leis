@@ -1,5 +1,3 @@
-###DEC-072182-0-000-07-05-1973@@@
-
 DECRETO Nº 72.182, DE 7 DE MAIO DE 1973.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão no Estado da Guanabara.

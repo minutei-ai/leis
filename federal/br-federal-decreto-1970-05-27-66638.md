@@ -1,5 +1,3 @@
-###DEC-066638-0-000-27-05-1970@@@
-
 DECRETO Nº 66.638, DE 27 DE MAIO DE 1970.
 
 Declara de utilidade pública a Ação Social Diocesana - ASDI, com sede em Chapecó, Estado de Santa Catarina.

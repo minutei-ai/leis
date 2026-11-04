@@ -1,5 +1,3 @@
-###DEC-092983-0-000-24-07-1986@@@
-
 DECRETO Nº 92.983, DE 24 DE JULHO DE 1986
 
 Outorga concessão à RÁDIO VALE APRAZÍVEL LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Jaguaquara, Estado da Bahia.

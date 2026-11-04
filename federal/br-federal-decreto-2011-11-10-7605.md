@@ -1,5 +1,3 @@
-###DEC-007605-0-000-10-11-2011-PUB-01@@@
-
 DECRETO Nº 7.605, DE 10 DE NOVEMBRO DE 2011
 
 Altera os Anexos I e II ao Decreto nº 7.375, de 29 de novembro de 2010, relativos ao Programa de Dispêndios Globais - PDG das empresas estatais federais para 2011, e dá outras providências.

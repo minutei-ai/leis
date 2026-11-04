@@ -1,5 +1,3 @@
-###DEC-044961-0-000-01-12-1958@@@
-
 DECRETO Nº 44.961, DE 1 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro José Rodrigues da Cruz a pesquisar mica, quartzo, no município de Poté, Estado de Minas Gerais.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=130330)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/emenda.constitucional/2000/compilacao-emenda.constitucional-9-19.05.2000.html)
 
 # EMENDA CONSTITUCIONAL Nº 9, DE 19 DE MAIO DE 2000
@@ -27,11 +26,6 @@
 
 ~~a) Paschoal Thomeu - 2º Secretário~~
 
-<br>
-
 Declarada inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal.
 
 _\- Norma declarada inconstitucional, em controle concentrado, pelo Supremo Tribunal Federal, nos autos da [ADI nº 5289](https://portal.stf.jus.br/)._
-
-<br>
-<br>

@@ -1,5 +1,3 @@
-###DEC-088435-0-000-22-06-1983@@@
-
 Decreto nº 88.435, de 22 de junho de 1983
 
 Aprova o Regulamento da Secretaria de Economia e Finanças da Aeronáutica.

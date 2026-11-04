@@ -1,5 +1,3 @@
-###DEC-075253-0-000-21-01-1975@@@
-
 DECRETO Nº 75.253, DE 21 DE JANEIRO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Ibituruna Ltda, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Governador Valadares, Estado de Minas Gerais.

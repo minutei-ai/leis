@@ -1,5 +1,3 @@
-###DEC-086797-0-000-29-12-1981@@@
-
 decreto nº 86.797, de 29 de dezembro de 1981.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à ampliação da Estação Transformadora de Distribuição da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

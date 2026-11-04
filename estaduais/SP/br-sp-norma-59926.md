@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59926)
-
 # LEI Nº 12.234, DE 17 DE JANEIRO DE 2006
 
 ## (Projeto de lei nº 748/2001, do Deputado Milton Flávio - PSDB)

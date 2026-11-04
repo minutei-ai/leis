@@ -1,5 +1,3 @@
-###DEL-005885-0-000-06-10-1943@@@
-
 DECRETO‑LEI N. 5.885 – DE 6 DE OUTUBRO DE 1943
 
 Funde, no Quadro Suplementar do Ministério da Guerra, as carreiras de Prático de Farmácia e Prático de Laboratório

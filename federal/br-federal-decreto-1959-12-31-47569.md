@@ -1,5 +1,3 @@
-###DEC-047569-0-000-31-12-1959@@@
-
 DECRETO Nº 47.569, DE 31 DE DEZEMBRO DE 1959.
 
 Aprova as especificações para a classificação e fiscalização da exportação da Pimenta do Reino.

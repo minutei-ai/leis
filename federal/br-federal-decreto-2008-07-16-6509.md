@@ -1,5 +1,3 @@
-###DEC-006509-0-000-16-07-2008@@@
-
 DECRETO Nº 6.509, DE 16 DE JULHO DE 2008.
 
 Dá nova redação a dispositivos do Decreto nº  4.885, de 20 de novembro de 2003, que dispõe sobre a composição, estruturação, competências e funcionamento do Conselho Nacional de Promoção da Igualdade Racial - CNPIR, e dá outras providências.

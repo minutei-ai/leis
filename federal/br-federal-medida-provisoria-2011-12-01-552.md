@@ -1,5 +1,3 @@
-###MPV-000552-0-000-01-12-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 552, DE 1º DE DEZEMBRO DE 2011
 
 Altera o art. 4º da Lei nº 10.931, de 2 de agosto de 2004, e os arts. 1º e 8º da Lei nº 10.925, de 23 de julho de 2004.

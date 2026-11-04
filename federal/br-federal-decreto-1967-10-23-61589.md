@@ -1,5 +1,3 @@
-###DEC-061589-0-000-23-10-1967@@@
-
 DECRETO Nº 61.589, DE 23 DE OUTUBRO DE 1967.
 
 Retifica disposições do Decreto número 60.459, de 13 de março de 1967, no que tange a capitais, ao início da cobertura do risco e emissão da apólice, à obrigação do pagamento do prêmio e da indenização e à cobrança bancária.

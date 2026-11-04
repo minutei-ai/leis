@@ -1,5 +1,3 @@
-###DEC-089755-0-000-05-06-1984@@@
-
 DECRETO Nº 89.755, DE 05 DE JUNHO DE 1984.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural constituído de parte da "Fazenda Camelo", situado no Município de Floresta, no Estado de Pernambuco, e compreendido na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 89.754, de 05 de junho de 1984.

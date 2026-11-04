@@ -1,5 +1,3 @@
-###DEL-003046-0-000-13-02-1941@@@
-
 DECRETO-LEI N. 3.046 – DE 13 DE FEVEREIRO DE 1941
 
 Dispõe sobre a aposentadoria de Catullo da Paixão Cearense

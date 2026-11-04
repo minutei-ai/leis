@@ -1,6 +1,5 @@
 LEI complementar Nº  4.810, DE 18 DE MAIO DE 2004.
 
-<br>
 Altera [Lei n. 3.968/2000](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170), Estatuto dos Servidores do Município
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**

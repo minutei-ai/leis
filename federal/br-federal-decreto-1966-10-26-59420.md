@@ -1,5 +1,3 @@
-###DEC-059420-0-000-26-10-1966@@@
-
 decreto nº 59.420, de 26 de outubro de 1966.
 
 Abre, ao Tribunal de Contas da União, o crédito especial de Cr$23.804.739, para atender ao pagamento das despesas com pessoal pôsto em disponibilidade pela Lei nº 4.210-63, relativas ao período de 10 de julho de 1965.

@@ -1,5 +1,3 @@
-###DEC-053681-0-000-12-03-1964@@@
-
 DECRETO Nº 53.681, de 12 de março de 1964.
 
 Cria Grupo de Trabalho para elaboração de estudos preliminares visando a implantação da Fábrica Nacional de Inseticidas, no Município de Igaraçu, Estado de Pernambuco, e dá outras providências.

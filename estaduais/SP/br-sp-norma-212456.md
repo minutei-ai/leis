@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212456)<br>
-
 # DECRETO N° 70.524, DE 07 DE ABRIL DE 2026
 
 ### _Transfere, da Secretaria de Turismo e Viagens para a Secretaria de Parcerias em Investimentos, a administração do imóvel que especifica, localizado no Município de São Paulo._

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/65084970-e45c-47de-9dec-7673d53d2696/texto#nowhere)
 
-###DEL-000497-0-000-12-03-1969@@@
-
 DECRETO-LEI Nº 497, DE 12 DE MARÇO DE 1969
 
 Dispõe sôbre a transferência e permuta dos imóveis que menciona, situados no Estado de Santa Catarina e dá outras providências.

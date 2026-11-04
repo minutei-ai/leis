@@ -1,5 +1,3 @@
-###DEC-083213-0-000-28-02-1979@@@
-
 DECRETO Nº 83.213, DE 28 DE FEVEREIRO DE 1979
 
 Autoriza a conversão dos cursos de Ciências, licenciatura de 1º grau, de Ciências Biológicas e de Matemática em curso de Ciências, licenciatura de 1º grau e licenciatura plena, ministrados pela Universidade de Passo Fundo, com sede na cidade de Passo Fundo, Estado do Rio Grande do Sul.

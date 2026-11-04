@@ -1,5 +1,3 @@
-###DEC-072097-0-000-18-04-1973@@@
-
 DECRETO N° 72.097, DE 18 DE ABRIL DE 1973.
 
 Declara de utilidade pública, para fins de Constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão no Estado do Espírito Santo.

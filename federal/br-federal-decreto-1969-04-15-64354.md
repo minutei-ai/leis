@@ -1,5 +1,3 @@
-###DEC-064354-0-000-15-04-1969@@@
-
 Decreto Nº 64.354, DE 15 DE ABRIL DE 1969.
 
 Modifica nome de Instituto.

@@ -1,5 +1,3 @@
-###DEC-055108-0-000-02-12-1964@@@
-
 Decreto nº 55.108, de 2 de dezembro de 1964.
 
 Renova o Decreto nº 48.336, de 21 de junho de 1960.

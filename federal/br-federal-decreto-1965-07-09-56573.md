@@ -1,14 +1,12 @@
-###DEC-056573-0-000-09-07-1965@@@
+**DECRETO Nº 56.573, DE 9 DE JULHO DE 1965.**
 
-<strong>DECRETO Nº 56.573, DE 9 DE JULHO DE 1965.</strong>
+***Altera a redação dos artigos 4º, 5º e 6º do Regulamento para as Casas do Marinheiro, aprovado pelo Decreto nº 50.644, de 24 de maio de 1961.***
 
-<em><strong>Altera a redação dos artigos 4º, 5º e 6º do Regulamento para as Casas do Marinheiro, aprovado pelo Decreto nº 50.644, de 24 de maio de 1961.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam alterados os artigos 4º, 5º e 6º do Regulamento para as Casas do Marinheiro, aprovado pelo Decreto nº 50.644, de 24 de maio de 1961, que passam a ter a seguinte redação:
+**Art**. 1º Ficam alterados os artigos 4º, 5º e 6º do Regulamento para as Casas do Marinheiro, aprovado pelo Decreto nº 50.644, de 24 de maio de 1961, que passam a ter a seguinte redação:
 
 “Art. 4º As Casas do Marinheiro estão subordinadas:
 
@@ -46,10 +44,10 @@ V - tantas praças do CPSA e do CPSCFN quantas forem necessárias aos serviços,
 
 VI - tantos servidores civis dos diversos Quadros e Tabelas do Ministério da Marinha, ou contratados quantos forem necessários aos serviços”.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 9 de julho de 1965; 144º da Independência e 77º da República.
 
-<strong>H. CASTELLO BRANCO</strong>
+**H. CASTELLO BRANCO**
 
 Paulo Bosisio

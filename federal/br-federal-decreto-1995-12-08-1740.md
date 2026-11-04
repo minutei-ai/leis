@@ -1,7 +1,3 @@
-1
-
-###DEC-001740-0-000-08-12-1995@@@
-
 DECRETO nº 1.740, de 8 de dezembro de 1995
 
 Extingue o Comando da 4ª Região Militar, transforma o Comando da 4ª Divisão de Exército e altera a subordinação e a sede da 4ª Brigada de Infantaria Motorizada, no Ministério do Exército, e dá outras providências.

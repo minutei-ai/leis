@@ -1,5 +1,3 @@
-###DEC-076686-0-000-27-11-1975@@@
-
 DECRETO Nº 76.686, DE 27 DE NOVEMBRO DE 1975.
 
 Aprova o Regulamento para a Comissão de Desportos da Marinha, e dá outras providências.

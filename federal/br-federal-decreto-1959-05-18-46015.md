@@ -1,5 +1,3 @@
-###DEC-046015-0-000-18-05-1959@@@
-
 decreto nº 46.015, de 18 de maio de 1959
 
 Retifica o art. 1º do Decreto número 38.798, de 29 de fevereiro de 1956.

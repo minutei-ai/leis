@@ -1,5 +1,3 @@
-###DEC-056710-0-000-11-08-1965@@@
-
 decreta nº 56.710, de 11 de agôsto de 1965.
 
 Aprova a alteração introduzida nos Estatutos da Sul América Companhia Nacional de Seguros de Vida, relativa ao aumento dos honorários da Diretoria.

@@ -1,5 +1,3 @@
-###DEC-005860-0-000-26-07-2006@@@
-
 DECRETO Nº 5.860, DE 26 DE JULHO DE 2006.
 
 Altera e acresce dispositivos aos arts. 35 e 36 do Regulamento Consolidado do Fundo de Garantia do Tempo de Serviço - FGTS, aprovado pelo Decreto no 99.684, de 8 de novembro de 1990, e altera o art. 5o do Decreto no 3.913, de 11 de setembro de 2001, que tratam da movimentação da conta vinculada do FGTS.
@@ -57,5 +55,3 @@ Brasília, 26 de julho de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
          Luiz Marinho
-
-Este texto não substitui o publicado no D.O.U. de 27.7.2006

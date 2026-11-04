@@ -1,5 +1,3 @@
-###DEL-004772-0-000-01-10-1942@@@
-
 DECRETO-LEI N. 4.772 – DE 1 DE OUTUBRO DE 1942
 
 Abre ao Ministério da Agricultura o crédito especial de 100:000$0 e torna sem aplicação igual quantia em dotação que especifica

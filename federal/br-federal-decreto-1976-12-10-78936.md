@@ -1,5 +1,3 @@
-###DEC-078936-0-000-10-12-1976@@@
-
 DECRETO Nº 78.936, de 10 de Dezembro de 1976.
 
 Prorroga prazo para o arrolamento e a avaliação de bens a serem incorporados ao patrimônio da Empresa Brasileira de Radiodifusão - RADIOBRÁS.

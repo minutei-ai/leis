@@ -1,5 +1,3 @@
-###DEC-053013-0-000-27-11-1963@@@
-
 DECRETO Nº 53.013, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Newton de Paiva Ferreira a pesquisar dolomita e minérios de ferro e manganês no Município de Sabará, Estado de Minas Gerais.

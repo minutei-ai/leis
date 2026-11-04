@@ -1,5 +1,3 @@
-###DEC-088543-0-000-22-07-1983@@@
-
 Decreto nº 88.543, de 22 de julho de 1983
 
 Concede à Forjas Acesita S.A. autorização para proceder a aumento do seu capital social.

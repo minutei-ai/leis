@@ -1,5 +1,3 @@
-###MPV-000484-0-000-30-03-2010@@@
-
 MEDIDA PROVISÓRIA Nº 484, DE 30 DE MARÇO DE 2010.
 
 Dispõe sobre a prestação de apoio financeiro pela União aos Estados e ao Distrito Federal, institui o Programa Especial de Fortalecimento do Ensino Médio, para o exercício de 2010, e dá outras providências

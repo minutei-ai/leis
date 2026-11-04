@@ -1,5 +1,3 @@
-###DEC-055116-0-000-02-12-1964@@@
-
 DECRETO Nº 55.116, de 2 de dezembro de 1964.
 
 Concede à Companhia de fiação e Tecidos de Minas Gerais, autorização para funcionar como emprêsa de mineração.

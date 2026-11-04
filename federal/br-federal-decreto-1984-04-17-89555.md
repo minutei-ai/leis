@@ -1,5 +1,3 @@
-###DEC-089555-0-000-17-04-1984@@@
-
 DECRETO Nº 89.555, de 17 de abril de 1984.
 
 Extingue a Colônia Militar de Tabatinga, no Ministério do Exército e dá outras providências.

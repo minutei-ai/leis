@@ -1,5 +1,3 @@
-###DEC-054566-0-000-23-10-1964@@@
-
 DECRETO Nº 54.566, DE 23 DE OUTUBRO DE 1964.
 
 Autoriza José Vieira dos Santos a comprar pedras preciosas.

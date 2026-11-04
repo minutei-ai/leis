@@ -14,7 +14,8 @@ Goiânia, 29 de junho de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
 ANEXO ÚNICO
@@ -25,7 +26,17 @@ ANEXO ÚNICO
 
 QUADRO DE OFICIAIS POLICIAIS MILITARES – QOPM
 
-<table><thead></thead><tbody><tr><td style="text-align:center">Posto</td><td style="text-align:center">Quantidade</td></tr><tr><td style="text-align:center">Coronel</td><td style="text-align:center">50</td></tr><tr><td style="text-align:center">....................................................</td><td style="text-align:center">..................................................</td></tr></tbody></table>
+Posto
+
+Quantidade
+
+Coronel
+
+50
+
+....................................................
+
+..................................................
 
 ” (NR)
 
@@ -35,11 +46,47 @@ QUADRO DE OFICIAIS DE SAÚDE – QOS
 
 Médicos
 
-<table><thead></thead><tbody><tr><td style="text-align:center">Posto</td><td style="text-align:center">Quantidade</td></tr><tr><td style="text-align:center">..................................</td><td style="text-align:center">.......................................................</td></tr><tr><td style="text-align:center">Tenente-Coronel</td><td style="text-align:center">9</td></tr><tr><td style="text-align:center">Major</td><td style="text-align:center">16</td></tr><tr><td style="text-align:center">..................................</td><td style="text-align:center">.......................................................</td></tr></tbody></table>
+Posto
+
+Quantidade
+
+..................................
+
+.......................................................
+
+Tenente-Coronel
+
+9
+
+Major
+
+16
+
+..................................
+
+.......................................................
 
 Odontólogos
 
-<table><thead></thead><tbody><tr><td style="text-align:center">Posto</td><td style="text-align:center">Quantidade</td></tr><tr><td style="text-align:center">.................................. ..................................</td><td style="text-align:center">.......................................................</td></tr><tr><td style="text-align:center">Tenente-Coronel</td><td style="text-align:center">9</td></tr><tr><td style="text-align:center">Major</td><td style="text-align:center">16</td></tr><tr><td style="text-align:center">..................................</td><td style="text-align:center">.......................................................</td></tr></tbody></table>
+Posto
+
+Quantidade
+
+.................................. ..................................
+
+.......................................................
+
+Tenente-Coronel
+
+9
+
+Major
+
+16
+
+..................................
+
+.......................................................
 
 ..........................................................................................................................” (NR)
 
@@ -47,6 +94,20 @@ Odontólogos
 
 QUADRO DE PRAÇAS POLICIAIS MILITARES – QPPM
 
-<table><thead></thead><tbody><tr><td style="text-align:center">Graduação</td><td style="text-align:center">Quantidade</td></tr><tr><td style="text-align:center">..................................</td><td style="text-align:center">.......................................................</td></tr><tr><td style="text-align:center">Soldado 2ª Classe</td><td style="text-align:center">8.430</td></tr><tr><td style="text-align:center">..................................</td><td style="text-align:center">.......................................................</td></tr></tbody></table>
+Graduação
+
+Quantidade
+
+..................................
+
+.......................................................
+
+Soldado 2ª Classe
+
+8.430
+
+..................................
+
+.......................................................
 
 ” (NR)

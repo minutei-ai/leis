@@ -1,5 +1,3 @@
-###DEC-007177-0-000-12-05-2010@@@
-
 DECRETO Nº 7.177, DE 12 DE MAIO DE 2010.
 
 Altera o Anexo do Decreto no 7.037, de 21 de dezembro de 2009, que aprova o Programa Nacional de Direitos Humanos - PNDH-3.

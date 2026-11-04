@@ -1,5 +1,3 @@
-###DEC-090628-0-000-05-12-1984@@@
-
 Decreto nº 90.628, de 05 de dezembro de 1984.
 
 Autoriza o funcionamento do curso de Biblioteconomia das Faculdades Integradas Tiradentes.

@@ -1,5 +1,3 @@
-###DEC-076219-0-000-09-09-1975@@@
-
 DECRETO Nº 76.219 - DE 9 SETEMBRO DE 1975
 
 Declara de utilização pública, para fins de constituição de servidão administrativa, faixa de linha destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz do Estado de São Paulo.

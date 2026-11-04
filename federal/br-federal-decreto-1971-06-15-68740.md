@@ -1,5 +1,3 @@
-###DEC-068740-0-000-15-06-1971@@@
-
 DECRETO Nº 68.740 - DE 15 DE JUNHO DE 1971.
 
 Declara de utilidade pública o Colégio Nossa Senhora Auxiliadora (Carmo), com sede em Vitória, Estado do Espírito Santo.

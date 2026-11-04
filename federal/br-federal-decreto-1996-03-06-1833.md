@@ -1,5 +1,3 @@
-###DEC-001833-0-000-06-03-1996@@@
-
 DECRETO Nº 1.833, DE 6 DE MARÇO DE 1996.
 
 Altera dispositivos do art. 1º do Decreto nº 1.096, de 23 de março de 1994, que dispõe sobre Cargos Privativos de Oficial-General do Exército em Tempo de Paz.

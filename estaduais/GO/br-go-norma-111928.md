@@ -16,10 +16,64 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>4091-GOIAS TELECOMUNICACOES S.A. - GOIASTELECOM</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">INSTALAÇÃO DE PONTOS DE CONECTIVIDADE NOS ÓRGÃOS PÚBLICOS</td><td style=" width:85px;    ">24 722 1049 2562</td><td style=" width:85px;    ">15010220</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 170.621,33</td><td style=" width:85px;    ">R$ 170.621,33</td></tr><tr><td style=" width:85px;    ">INSTALAÇÃO DE PONTOS DE CONECTIVIDADE NOS ÓRGÃOS PÚBLICOS</td><td style=" width:85px;    ">24 722 1049 2562</td><td style=" width:85px;    ">15010220</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.169,16</td><td style=" width:85px;    ">R$ 96.040,00</td><td style=" width:85px;    ">R$ 97.209,16</td></tr></tbody></table>
+**4091-GOIAS TELECOMUNICACOES S.A. - GOIASTELECOM**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS</td><td style=" width:340px;  height:19px;   ">R$ 266.661,33</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 266.661,33</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+INSTALAÇÃO DE PONTOS DE CONECTIVIDADE NOS ÓRGÃOS PÚBLICOS
+
+24 722 1049 2562
+
+15010220
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 170.621,33
+
+R$ 170.621,33
+
+INSTALAÇÃO DE PONTOS DE CONECTIVIDADE NOS ÓRGÃOS PÚBLICOS
+
+24 722 1049 2562
+
+15010220
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.169,16
+
+R$ 96.040,00
+
+R$ 97.209,16
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS
+
+R$ 266.661,33
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 266.661,33

@@ -1,5 +1,3 @@
-###DEC-080038-0-000-28-07-1977@@@
-
 DECRETO Nº 80.038, DE 28 DE JULHO DE 1977
 
 Dispõe sobre intervenção em faixa de terra no Parque Indígena do Araguaia, Ilha do Bananal, e dá outras providências.

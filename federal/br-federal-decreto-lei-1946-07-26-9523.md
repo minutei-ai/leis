@@ -1,5 +1,3 @@
-###DEL-009523-0-000-26-07-1946@@@
-
 DECRETO-LEI N. 9.523 – DE 26 DE JULHO DE 1946
 
 Regula a liquidação do câmbio destinado ao pagamento de importações

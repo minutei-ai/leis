@@ -1,5 +1,3 @@
-###DEL-003343-0-000-12-06-1941@@@
-
 DECRETO-LEI N. 3.343 – DE 12 DE JUNHO DE 1941
 
 Abre, pelo Ministério da Marinha, o crédito especial de 800:000$0, para aquisição de instalações da hidro-base de Refoles da “Air France”, em Natal.

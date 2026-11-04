@@ -1,5 +1,3 @@
-###DEC-050887-0-000-30-06-1961@@@
-
 decreto nº 50.887, de 30 de junho de 1961.
 
 Aprova novo orçamento da construção da variante de Pinha a Cruz Alta, da Viação Férrea do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-007384-0-000-06-12-2010-PUB-01@@@
-
 DECRETO Nº 7.384, DE 6 DE DEZEMBRO DE 2010.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República do Benim sobre o Exercício de Atividade Remunerada por parte de Dependentes do Pessoal Diplomático, Consular, Militar, Administrativo e Técnico, firmado em Cotonou, em 13 de março de 2009.

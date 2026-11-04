@@ -1,5 +1,3 @@
-###DEC-094876-0-000-16-09-1987@@@
-
 DECRETO Nº 94.876, DE 16 DE SETEMBRO DE 1987
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - DNOCS - áreas de terra abrangidas pelo Projeto de Irrigação "Vale do Gurguéia", nos Municípios de Cristino Castro e Elizeu Martins, Estado do Piauí, para a execução do Programa de Irrigação do Nordeste - Proine, e dá outras providências.

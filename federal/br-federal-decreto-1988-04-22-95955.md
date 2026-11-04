@@ -1,5 +1,3 @@
-###DEC-095955-0-000-22-04-1988@@@
-
 DECRETO N° 95.955, DE 22 DE ABRIL DE 1988
 
 Dá nova redação ao art. 1° do Decreto n° 95.916, de 12 de abril de 1988, que autoriza a Empresa Brasileira de Radiodifusão - RADIOBRÁS a alienar as emissoras de rá­dio e televisão que menciona.

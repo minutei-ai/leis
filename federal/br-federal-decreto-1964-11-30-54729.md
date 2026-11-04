@@ -1,5 +1,3 @@
-###DEC-054729-0-000-30-10-1964@@@
-
 DECRETO Nº 54.729, DE 30 DE OUTUBRO DE 1964.
 
 Amplia a zona de concessão da Companhia Paranaense de Energia Elétrica, Estado do Paraná.
@@ -33,8 +31,6 @@ Brasília, 30 de outubro de 1964; 143º da Independência e 76º da República.
 H. CASTELLO BRANCO
 
 Mauro Thibau
-
-###DEC-054729-0-000-30-10-1964@@@RET01+++
 
 decreto nº 54.729, de 30 de outubro de 1964.
 

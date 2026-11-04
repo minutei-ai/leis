@@ -1,5 +1,3 @@
-###DEL-003864-0-000-24-11-1941@@@
-
 DECRETO-LEI N. 3.864 – DE 24 DE NOVEMBRO DE 1941
 
 Estatutos dos Militares

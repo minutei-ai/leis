@@ -1,5 +1,3 @@
-###DEC-004976-0-000-03-02-2004@@@
-
 DECRETO Nº 4.976,  DE 3 DE FEVEREIRO DE 2004.
 
 Cria o Comissariado Brasileiro para coordenar a participação brasileira no "Ano do Brasil na França", a ser comemorado em 2005.

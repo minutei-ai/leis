@@ -1,5 +1,3 @@
-###DEC-081199-0-000-09-01-1978@@@
-
 Decreto nº 81.199, de 9 de janeiro de 1978.
 
 Altera a Constituição do Comando-Geral de Apoio e dá outras providências.

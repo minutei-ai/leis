@@ -1,5 +1,3 @@
-###DEC-000127-0-000-22-05-1991@@@
-
 DECRETO N° 127, DE 22 DE MAIO DE 1991
 
 Promulga a Convenção nº 161, da Organização Internacional do Trabalho -  OIT, relativa aos Serviços de Saúde do Trabalho.

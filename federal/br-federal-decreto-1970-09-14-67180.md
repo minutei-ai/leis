@@ -1,5 +1,3 @@
-###DEC-067180-0-000-14-09-1970@@@
-
 DECRETO Nº 67.180, DE 14 DE SETEMBRO DE 1970.
 
 Declaro de utilidade pública o Colégio Izabela Hendrix, com sede em Belo Horizonte, Estado de Minas Gerais.

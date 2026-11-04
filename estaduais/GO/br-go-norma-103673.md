@@ -46,7 +46,8 @@ XIV – tempo de exercício de atividade de natureza militar: o tempo exercido e
 
 XV – tempo de serviço: o tempo exercido em atividade de natureza militar acrescido dos períodos de tempo de contribuição em regimes obrigatórios de previdência, devidamente averbados, na forma desta Lei; e
 
-XVI – quota compulsória: a medida tomada por lei que conterá necessariamente seus critérios, quadro de vagas, tempo de serviço exigido, critérios de desempate entre militares e temporariedade ou excepcionalidade, sempre que o número de promoções anuais para cada posto for superior ao número de vagas disponíveis ou quando houver comprovado excesso no número de oficiais ou praças, e essa cota poderá ser manejada, a critério do Governador do Estado, ainda que ocorra por corporação de modo autônomo, para dar fluxo às carreiras de praças ou oficiais e manter o equilíbrio e a renovação dos efetivos das corporações militares.<br>
+XVI – quota compulsória: a medida tomada por lei que conterá necessariamente seus critérios, quadro de vagas, tempo de serviço exigido, critérios de desempate entre militares e temporariedade ou excepcionalidade, sempre que o número de promoções anuais para cada posto for superior ao número de vagas disponíveis ou quando houver comprovado excesso no número de oficiais ou praças, e essa cota poderá ser manejada, a critério do Governador do Estado, ainda que ocorra por corporação de modo autônomo, para dar fluxo às carreiras de praças ou oficiais e manter o equilíbrio e a renovação dos efetivos das corporações militares.
+
 \- [Acrescido pela Lei nº 23.118, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109989/lei-23118).
 
 Seção II
@@ -95,7 +96,8 @@ II – com a remuneração de inatividade proporcional, calculada com base em ta
 
 § 3º Para a aplicação do disposto nos parágrafos anteriores, serão observados a ampla defesa e o contraditório.
 
-Art. 6º A transferência de ofício para a reserva remunerada ocorrerá sempre que o militar se enquadrar em uma das seguintes hipóteses:<br>
+Art. 6º A transferência de ofício para a reserva remunerada ocorrerá sempre que o militar se enquadrar em uma das seguintes hipóteses:
+
 \- [Redação dada pela Lei nº 23.118, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109989/lei-23118).
 
 ~~Art. 6º A transferência de ofício para a reserva remunerada com a remuneração de inatividade proporcional ao tempo de serviço ocorrerá sempre que o militar se enquadrar em uma das seguintes hipóteses:~~
@@ -110,7 +112,8 @@ c) 63 (sessenta e três) anos, nos postos de Major, Capitão e oficiais subalter
 
 II – para os praças que atingirem a idade-limite de 63 (sessenta e três) anos;
 
-III – se o oﬁcial completar 6 (seis) anos de permanência no último posto previsto na hierarquia de seu respectivo quadro e se ele tiver completado os requisitos à transferência para a reserva remunerada a pedido, salvo os oﬁciais no exercício dos cargos de provimento em comissão de Comandante-Geral, Subcomandante-Geral, ou Chefe do Estado-Maior Estratégico, da respectiva corporação;<br>
+III – se o oﬁcial completar 6 (seis) anos de permanência no último posto previsto na hierarquia de seu respectivo quadro e se ele tiver completado os requisitos à transferência para a reserva remunerada a pedido, salvo os oﬁciais no exercício dos cargos de provimento em comissão de Comandante-Geral, Subcomandante-Geral, ou Chefe do Estado-Maior Estratégico, da respectiva corporação;
+
 \- [Redação dada pela Lei nº 23.118, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109989/lei-23118).
 
 ~~III – se o oficial ultrapassar 8 (oito) anos de permanência no último posto previsto na hierarquia de seu respectivo quadro, se tiver completado os anos de serviço e os de atividade de natureza militar exigidos para a transferência para a reserva remunerada a pedido, salvo os oficiais no exercício dos cargos de provimento em comissão de Comandante-Geral ou de Subcomandante-Geral ou de Chefe do Estado-Maior Estratégico da respectiva corporação;~~
@@ -131,13 +134,16 @@ X – se o militar tomar posse em cargo ou emprego público civil permanente, re
 
 XI – se o militar for diplomado em cargo eletivo, na forma do inciso II do § 8º do art. 14 da Constituição Federal, de 5 de outubro de 1988.
 
-§ 1º Nas hipóteses dos incisos I, II, V, VI, VII, VIII, IX, X e XI do _caput_ deste artigo, a remuneração de inatividade será proporcional ao tempo de serviço e reajustada pela paridade entre ativos e inativos.<br>
+§ 1º Nas hipóteses dos incisos I, II, V, VI, VII, VIII, IX, X e XI do _caput_ deste artigo, a remuneração de inatividade será proporcional ao tempo de serviço e reajustada pela paridade entre ativos e inativos.
+
 \- [Acrescido pela Lei nº 23.118, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109989/lei-23118).
 
-§ 2º Na hipótese prevista no inciso III do _caput_ deste artigo, a remuneração de inatividade sempre será calculada pela totalidade da última remuneração do oficial militar transferido e reajustada pela paridade entre ativos e inativos.<br>
+§ 2º Na hipótese prevista no inciso III do _caput_ deste artigo, a remuneração de inatividade sempre será calculada pela totalidade da última remuneração do oficial militar transferido e reajustada pela paridade entre ativos e inativos.
+
 \- [Acrescido pela Lei nº 23.118, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109989/lei-23118).
 
-§ 3º Na hipótese prevista no inciso IV deste artigo, os requisitos de elegibilidade à transferência para a reserva remunerada deverão ser adimplidos sempre que a quota compulsória for manejada e a remuneração de inatividade deverá ser calculada pela totalidade da última remuneração do militar transferido e reajustada pela paridade entre ativos e inativos.<br>
+§ 3º Na hipótese prevista no inciso IV deste artigo, os requisitos de elegibilidade à transferência para a reserva remunerada deverão ser adimplidos sempre que a quota compulsória for manejada e a remuneração de inatividade deverá ser calculada pela totalidade da última remuneração do militar transferido e reajustada pela paridade entre ativos e inativos.
+
 \- [Acrescido pela Lei nº 23.118, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109989/lei-23118).
 
 Seção II
@@ -258,7 +264,8 @@ III – como se fosse de atividade de natureza militar para aquele que exercer c
 
 IV – que ultrapassar 1 (um) ano, contínuo ou não, em licença para tratamento de saúde de pessoa da família;
 
-V – passado em licença para tratar de interesse particular, exceto se o militar tiver contribuído durante o período afastado, que contará como tempo de efetivo exercício e não poderá contar para efeito de interstício à promoção;<br>
+V – passado em licença para tratar de interesse particular, exceto se o militar tiver contribuído durante o período afastado, que contará como tempo de efetivo exercício e não poderá contar para efeito de interstício à promoção;
+
 \- [Redação dada pela Lei nº 23.118, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109989/lei-23118).
 
 ~~V – passado em licença para tratar de interesse particular;~~
@@ -389,7 +396,8 @@ CAPÍTULO V
 
 DA AVERBAÇÃO DE TEMPO DE CONTRIBUIÇÃO
 
-Art. 33. A averbação de tempo de contribuição do militar é de competência exclusiva da GOIASPREV, com a observância da legislação federal pertinente.<br>
+Art. 33. A averbação de tempo de contribuição do militar é de competência exclusiva da GOIASPREV, com a observância da legislação federal pertinente.
+
 \- [Redação dada pela Lei nº 23.118, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109989/lei-23118).
 
 ~~Art. 33. A averbação de tempo de contribuição do militar é de competência exclusiva da GOIASPREV.~~
@@ -610,19 +618,22 @@ VII – inscrição em instituição de assistência médica de que constem o mi
 
 § 9º O pedido inicial para a concessão de pensão militar, instruído com decisão judicial transitada em julgado, com efeitos declaratórios, expedida após o óbito do militar instituidor, que reconheceu a união estável ou a dependência econômica, dispensará a adoção dos procedimentos constantes neste artigo.
 
-§ 10. A comprovação da invalidez, no caso dos beneﬁciários previstos no art. 43, inciso I, alíneas “c” e “d”, e inciso III, desta Lei, deverá ser feita por laudo médico emitido pela junta médica da corporação do militar falecido.<br>
+§ 10. A comprovação da invalidez, no caso dos beneﬁciários previstos no art. 43, inciso I, alíneas “c” e “d”, e inciso III, desta Lei, deverá ser feita por laudo médico emitido pela junta médica da corporação do militar falecido.
+
 \- [Redação dada pela Lei nº 23.118, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109989/lei-23118).
 
 ~~§ 10. A comprovação da invalidez, no caso dos beneficiários previstos no art. 43, inciso I, “c” e “d” e III, deverá ser feita por laudo médico emitido pelo serviço médico oficial da GOIASPREV ou por ela designado.~~
 
-§ 11. Caso o segurado seja portador de doença prevista no rol do art. 6º, inciso XIV, da Lei federal nº 7.713, de 22 de dezembro de 1988, a junta médica da corporação do militar deverá indicar no laudo médico pericial a identiﬁcação da moléstia para que se garanta a isenção do Imposto de Renda Retido na Fonte.<br>
+§ 11. Caso o segurado seja portador de doença prevista no rol do art. 6º, inciso XIV, da Lei federal nº 7.713, de 22 de dezembro de 1988, a junta médica da corporação do militar deverá indicar no laudo médico pericial a identiﬁcação da moléstia para que se garanta a isenção do Imposto de Renda Retido na Fonte.
+
 \- [Redação dada pela Lei nº 23.118, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109989/lei-23118).
 
 ~~§ 11. Caso o segurado seja portador de doença prevista no rol do art. 6º, inciso XIV, da [Lei nº 7.713](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88735), de 22 de dezembro de 1988, o serviço médico oficial da GOIASPREV, ou por ela designado, deverá consignar no laudo médico pericial a identificação da moléstia que lhe garanta a isenção do Imposto de Renda Retido na Fonte.~~
 
 § 12. Se for comprovado que o(a) pensionista está acometido(a) de alienação mental deverá ser representado(a) por curador, mediante apresentação do termo de curatela, ainda que seja provisório.
 
-§ 13. O(a) pensionista na condição de inválido(a) ou que tenha deﬁciência intelectual, mental ou grave, deverá submeter-se, periodicamente, à perícia da junta médica da corporação do militar falecido.<br>
+§ 13. O(a) pensionista na condição de inválido(a) ou que tenha deﬁciência intelectual, mental ou grave, deverá submeter-se, periodicamente, à perícia da junta médica da corporação do militar falecido.
+
 \- [Redação dada pela Lei nº 23.118, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109989/lei-23118).
 
 ~~§ 13. O(a) pensionista na condição de inválido(a) ou que tenha deficiência intelectual, mental ou grave, deverá submeter-se, periodicamente, à perícia da junta médica previdenciária da GOIASPREV, ou por ela designada:~~
@@ -645,7 +656,8 @@ II – incluída na folha de pagamento do mês subsequente ao da regularização
 
 § 16. A não realização de perícia médica no prazo de 12 (doze) meses, contados do primeiro mês do bloqueio do pagamento da pensão, implicará o cancelamento do benefício, assegurados o contraditório e a ampla defesa.
 
-§ 17. Quando a junta médica da corporação do militar falecido constatar a cessação da causa da invalidez ou da deficiência intelectual, mental ou grave do(a) pensionista, deverá comunicar à GOIASPREV a causa do cancelamento da pensão, assegurados o contraditório e a ampla defesa.<br>
+§ 17. Quando a junta médica da corporação do militar falecido constatar a cessação da causa da invalidez ou da deficiência intelectual, mental ou grave do(a) pensionista, deverá comunicar à GOIASPREV a causa do cancelamento da pensão, assegurados o contraditório e a ampla defesa.
+
 \- [Redação dada pela Lei nº 23.118, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109989/lei-23118).
 
 ~~§ 17. Quando a junta médica da GOIASPREV, ou por ela designada, constatar a cessação da causa da invalidez ou da deficiência intelectual, mental ou grave do(a) pensionista, a pensão será cancelada, assegurados o contraditório e a ampla defesa.~~
@@ -794,13 +806,16 @@ a) um dos seguintes documentos: Registro Geral – RG, Carteira de Trabalho, Pas
 
 b) comprovante de endereço atualizado, com CEP válido; e
 
-~~II – original e uma fotocópia:~~<br>
+~~II – original e uma fotocópia:~~
+
 \- [Revogado pela Lei nº 23.118, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109989/lei-23118), art. 9º, I.
 
-~~a) Certidão de Nascimento atualizada para filho, enteado, menor tutelado ou irmão do segurado, que possuam mais de 16 (anos) de idade, mesmo se forem inválidos; e~~<br>
+~~a) Certidão de Nascimento atualizada para filho, enteado, menor tutelado ou irmão do segurado, que possuam mais de 16 (anos) de idade, mesmo se forem inválidos; e~~
+
 \- [Revogado pela Lei nº 23.118, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109989/lei-23118), art. 9º, I.
 
-~~b) Certidão de Casamento ou de Nascimento atualizada, com inteiro teor, para viúvo(a) , companheiro(a) ou ex-cônjuge, ex-companheiro(a) ou cônjuge separado de fato, com direito a recebimento de pensão alimentícia do segurado falecido, de acordo com seu estado civil.~~<br>
+~~b) Certidão de Casamento ou de Nascimento atualizada, com inteiro teor, para viúvo(a) , companheiro(a) ou ex-cônjuge, ex-companheiro(a) ou cônjuge separado de fato, com direito a recebimento de pensão alimentícia do segurado falecido, de acordo com seu estado civil.~~
+
 \- [Revogado pela Lei nº 23.118, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109989/lei-23118), art. 9º, I.
 
 § 1º Para o recadastramento, serão exigidos:
@@ -811,7 +826,8 @@ II – para os pensionistas:
 
 a) os documentos a que se referem o inciso I, alíneas “a” e “b”, do _caput_ deste artigo; e
 
-~~b) o exigido no inciso II do _caput_ deste artigo, conforme sua qualidade de pensionista em relação ao instituidor; e~~<br>
+~~b) o exigido no inciso II do _caput_ deste artigo, conforme sua qualidade de pensionista em relação ao instituidor; e~~
+
 \- [Revogado pela Lei nº 23.118, de 27-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109989/lei-23118), art. 9º, II.
 
 III – a indicação de endereço eletrônico pelo militar inativo ou pensionista, com a ciência de que as notificações lhes serão encaminhadas para o referido endereço.

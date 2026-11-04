@@ -1,7 +1,3 @@
-1
-
-###LCP-000029-0-000-05-07-1976@@@
-
 # LEI COMPLEMENTAR Nº 29, DE 5 DE JULHO DE 1976
 
 Permite aposentadoria voluntária, nas condições que especifica, aos funcionários incluídos em Quadros Suplementares ou postos em disponibilidade.

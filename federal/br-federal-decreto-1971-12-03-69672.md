@@ -1,5 +1,3 @@
-###DEC-069672-0-000-03-12-1971@@@
-
 DECRETO Nº 69.672 - DE 3 DE DEZEMBRO DE 1971
 
 Dispõe Sôbre a transferência da execução do Plano de Melhoramento da Alimentação e do Manejo do Gado Leiteiro para a Associação Brasileira de Crédito e Assistência Rural, e dá outras providências.

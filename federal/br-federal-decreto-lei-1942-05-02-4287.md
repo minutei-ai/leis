@@ -1,5 +1,3 @@
-###DEL-004287-0-000-02-05-1942@@@
-
 DECRETO-LEI N. 4.287 – DE 2 DE MAIO DE 1942
 
 Autoriza a emissão de papel-moeda até 600.000:000$0

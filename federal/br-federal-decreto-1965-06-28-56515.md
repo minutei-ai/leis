@@ -1,5 +1,3 @@
-###DEC-056515-0-000-28-06-1965@@@
-
 DECRETO Nº 56.515, DE 28 DE JUNHO de 1965.
 
 Aprova as “Regras para visitas de navios de guerra estrangeiros aos portos e águas do Brasil em tempo de paz”.

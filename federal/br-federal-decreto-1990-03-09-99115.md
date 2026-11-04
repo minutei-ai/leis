@@ -1,7 +1,3 @@
-1
-
-###DEC-099115-0-000-09-03-1990@@@
-
 # DECRETO Nº 99.115, DE 9 DE MARÇO DE 1990
 
 Outorga concessão à Rádio Cultura de Quixadá Ltda., para explorar serviços de radiodifusão sonora em onda média, na Ci­dade de Quixadá, Estado do Ceará.

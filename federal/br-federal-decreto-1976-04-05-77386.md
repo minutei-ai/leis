@@ -1,5 +1,3 @@
-###DEC-077386-0-000-05-04-1976@@@
-
 DECRETO Nº 77.386 - DE 5 DE ABRIL DE 1976
 
 Dispõe sobre a estrutura básica da Superintendência da Borracha (SUDHEVEA) e dá outras providências.

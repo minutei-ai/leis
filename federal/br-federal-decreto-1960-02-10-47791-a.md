@@ -1,5 +1,3 @@
-###DEC-047791-A-000-10-02-1960@@@
-
 DECRETO Nº 47.791-A, DE 10 DE FEVEREIRO DE 1960.
 
 Aprova o Regulamento da Diretoria de Vias de Transporte. (DVT).

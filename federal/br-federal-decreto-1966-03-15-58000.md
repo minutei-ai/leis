@@ -1,5 +1,3 @@
-###DEC-058000-0-000-15-03-1966@@@
-
 DECRETO Nº 58.000, DE 15 DE MARÇO DE 1966.
 
 Outorga à Sociedade Anônima de Eletrificação da Paraíba concessão para distribuir energia elétrica

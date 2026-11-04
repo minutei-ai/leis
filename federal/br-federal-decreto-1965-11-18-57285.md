@@ -1,5 +1,3 @@
-###DEC-057285-0-000-18-11-1965@@@
-
 Decreto nº 57.285, de 18 de novembro de 1965.
 
 Altera a lotação numérica e nominal do Ministério da Fazenda.

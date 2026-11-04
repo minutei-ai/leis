@@ -1,5 +1,3 @@
-###DEC-075773-0-000-26-05-1975@@@
-
 DECRETO Nº 75.773, DE 26 DE MAIO DE 1975.
 
 Altera o Decreto nº 66.183, de 5 de fevereiro de 1970, que dispõe sobre a comercialização do leite cru.

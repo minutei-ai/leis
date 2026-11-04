@@ -1,5 +1,3 @@
-###DEC-092002-0-000-28-11-1985@@@
-
 DECRETO Nº 92.002, DE 28 DE novembro DE 1985
 
 Institui o Conselho Interministerial de Remuneração e Proventos - CIRP, e dá outras providências.

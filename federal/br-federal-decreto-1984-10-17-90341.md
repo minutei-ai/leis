@@ -1,5 +1,3 @@
-###DEC-090341-0-000-17-10-1984@@@
-
 Decreto nº 90.341, de 17 de outubro de 1984
 
 Renova prazo de concessão outorgada à "Faixa Azul" Indústria de Móveis para Escritório Ltda. para o aproveitamento progressivo da energia hidráulica de um desnível existente no rio do Peixe, para uso exclusivo, no Município de Piedade, Estado de São Paulo.

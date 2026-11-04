@@ -1,5 +1,3 @@
-###DEC-061699-0-000-13-11-1967@@@
-
 DECRETO Nº 61.699, DE 13 DE NOVEMBRO DE 1967.
 
 Declara a cessação da exploração dos serviços de energia elétrica no município de Antonina, estado do Paraná, outorga concessão no mencionado município à Companhia Paranaense de Energia Elétrica e da outras providências.

@@ -1,5 +1,3 @@
-###MPV-000533-0-000-10-05-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 533, DE 10 DE MAIO DE 2011
 
 Autoriza a União a transferir recursos financeiros  aos Municípios e ao Distrito Federal, com a finalidade de prestar apoio financeiro à manutenção de novos estabelecimentos públicos de educação infantil, e dá outras providências.

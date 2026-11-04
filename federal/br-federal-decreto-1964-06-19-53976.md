@@ -1,5 +1,3 @@
-###DEC-053976-0-000-19-06-1964@@@
-
 DECRETO Nº 53.976, DE 19 DE JUNHO DE 1964.
 
 Revoga os Decretos ns. 50.322 de 7 de março de 1961 e 1.895, de 18 de dezembro de 1962.

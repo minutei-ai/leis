@@ -42,21 +42,119 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, 30 de outubro de 2017.
 
  
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil
 
-TARCISIO FRANCISCO DOS SANTOS<br>
+TARCISIO FRANCISCO DOS SANTOS
+
 Presidente
 
 ANEXO ÚNICO
 
-ANEXO III<br>
+ANEXO III
+
 Cargos Efetivos
 
-<table><tbody><tr><td style=" width:198px;    "><i>CARGA HORARIA</i> <i>SEMANAL</i></td><td style=" width:66px;    "><i>QUANT.</i></td><td style=" width:180px;    "><i>CARGO</i></td><td style=" width:151px;    "><i>VENCIMENTO</i></td></tr><tr><td style=" width:198px;    "><i>20h</i></td><td style=" width:66px;    "><i>03</i></td><td style=" width:180px;    "><i>Médico Perito Previdenciário</i></td><td style=" width:151px;    "><i>4.000,00</i></td></tr><tr><td style=" width:198px;    "><i>40h</i></td><td style=" width:66px;    "><i>01</i></td><td style=" width:180px;    "><i>Contador</i></td><td style=" width:151px;    "><i>4.000,00</i></td></tr><tr><td style=" width:198px;    "><i>40h</i></td><td style=" width:66px;    "><i>02</i></td><td style=" width:180px;    "><i>Analista Previdenciário</i></td><td style=" width:151px;    "><i>4.000,00</i></td></tr><tr><td style=" width:198px;    "><i>40h</i></td><td style=" width:66px;    "><i>02</i></td><td style=" width:180px;    "><i>Assessor Jurídico</i></td><td style=" width:151px;    "><i>4.000,00</i></td></tr><tr><td style=" width:198px;    "><i>40h</i></td><td style=" width:66px;    "><i>01</i></td><td style=" width:180px;    "><i>Analista Financeiro</i></td><td style=" width:151px;    "><i>4.000,00</i></td></tr><tr><td style=" width:198px;    "><i>40h</i></td><td style=" width:66px;    "><i>01</i></td><td style=" width:180px;    "><i>Analista de TI</i></td><td style=" width:151px;    "><i>3.000,00</i></td></tr><tr><td style=" width:198px;    "><i>40h</i></td><td style=" width:66px;    "><i>04</i></td><td style=" width:180px;    "><i>Técnico Previdenciário</i></td><td style=" width:151px;    "><i>2.200,00</i></td></tr><tr><td style=" width:198px;    "><i>40h</i></td><td style=" width:66px;    "><i>06</i></td><td style=" width:180px;    "><i>Assistente Administrativo</i></td><td style=" width:151px;    "><i>2.200,00</i></td></tr><tr><td style=" width:198px;    "><i>40h</i></td><td style=" width:66px;    "><i>02</i></td><td style=" width:180px;    "><i>Motorista</i></td><td style=" width:151px;    "><i>1.600,00</i></td></tr><tr><td style=" width:198px;    "><i>40h</i></td><td style=" width:66px;    "><i>03</i></td><td style=" width:180px;    "><i>Auxiliar Administrativo</i></td><td style=" width:151px;    "><i>1.300,00</i></td></tr><tr><td style=" width:198px;    "><i>40h</i></td><td style=" width:66px;    "><i>04</i></td><td style=" width:180px;    "><i>Auxiliar de Serviços Gerais</i></td><td style=" width:151px;    "><i>937,00</i></td></tr></tbody></table>
+*CARGA HORARIASEMANAL*
+
+*QUANT.*
+
+*CARGO*
+
+*VENCIMENTO*
+
+*20h*
+
+*03*
+
+*Médico Perito Previdenciário*
+
+*4.000,00*
+
+*40h*
+
+*01*
+
+*Contador*
+
+*4.000,00*
+
+*40h*
+
+*02*
+
+*Analista Previdenciário*
+
+*4.000,00*
+
+*40h*
+
+*02*
+
+*Assessor Jurídico*
+
+*4.000,00*
+
+*40h*
+
+*01*
+
+*Analista Financeiro*
+
+*4.000,00*
+
+*40h*
+
+*01*
+
+*Analista de TI*
+
+*3.000,00*
+
+*40h*
+
+*04*
+
+*Técnico Previdenciário*
+
+*2.200,00*
+
+*40h*
+
+*06*
+
+*Assistente Administrativo*
+
+*2.200,00*
+
+*40h*
+
+*02*
+
+*Motorista*
+
+*1.600,00*
+
+*40h*
+
+*03*
+
+*Auxiliar Administrativo*
+
+*1.300,00*
+
+*40h*
+
+*04*
+
+*Auxiliar de Serviços Gerais*
+
+*937,00*
 
 MÉDICO PERITO PREVIDENCIÁRIO
 
@@ -88,49 +186,42 @@ REFERÊNCIAS: Deve ter boa formação, manter-se atualizado com as diversas téc
 
 ATRIBUIÇÕES: Fechamento dos balancetes mensais do APARECIDAPREV para o Tribunal de Contas dos Municípios – TCM; Fechamento dos balancetes mensais do APARECIDAPREV para o Ministério da Previdência; Fornecimento dos dados contábeis para transmissão semestral do Relatório de Gestão Fiscal (RGF), em cumprimento a Leis Complementar 101/2000; Fornecimento dos dados contábeis para transmissão bimestral do Relatório Resumido de Execução Orçamentária (RREO), em cumprimento a Leis Complementar 101/2000; Elaboração do Plano Orçamentário do Instituto, facilitando a elaboração do Orçamento Geral; análise de registro de operações e rotinas contábeis.
 
-<br>
 ANALISTA PREVIDENCIÁRIO
 
 REQUISITOS: Diploma ou certificado de conclusão em curso de graduação de nível superior em Direito.
 
 ATRIBUIÇÕES: Executar atividades de instrução e de análise de processos, de cálculos previdenciários, de manutenção e de revisão de direitos ao recebimento de benefícios previdenciários; proceder à orientação previdenciária e ao atendimento aos usuários; realizar estudos técnicos e estatísticos; executar, em caráter geral, as demais atividades inerentes às competências do APARECIDAPREV.
 
-<br>
 ASSESSOR JURÍDICO
 
 REQUISITOS: Diploma ou certificado de conclusão em curso de graduação de nível superior em Direito, com inscrição na Ordem dos Advogados do Brasil.
 
 ATRIBUIÇÕES: Executar as atividades jurídicas do RPPS; Opinar e executar atividades da área, em assuntos sobre questões judiciais e extrajudiciais; Emissão de pareceres relativos a processos administrativos de concessão de benefícios previdenciários e consultas jurídicas diversas relativas a área; Executar atividades específicas de acordo com as determinações da alta administração e do Coordenador Jurídico; Elaborar e acompanhar, junto com o Presidente, Diretor Jurídico e/ou Coordenador Jurídico, ações judiciais contra terceiros, defendendo os interesses do Instituto de Previdência de Aparecida de Goiânia - APARECIDAPREV; Assessorar o Diretor Jurídico e o Coordenador Jurídico em suas atribuições legais.
 
-<br>
 ANALISTA FINANCEIRO
 
 REQUISITOS: Certificado ou Certificado de conclusão de curso de nível superior em Administração, Ciências Econômicas ou Ciências Contábeis.
 
 ATRIBUIÇÕES: Responsável por auxiliar nas atividades da Diretoria Administrativa Financeira do APARECIDAPREV; Preparar, organizar, analisar, controlar e arquivar documentos; Emissão de relatórios em geral, planilha, elaboração de gráficos e documentos para analise gerencial; Planejamento orçamentário com acompanhamento das receitas e despesas prevista; Preenchimento de cheques, realizar conciliação bancária, emissão de extratos; Prestação de contas perante aos órgãos competentes e seus segurados; Controlar e conferir os processos de pagamento (fornecedores, folha de pagamento, impostos, encargos, contribuições previdenciárias, etc.); Colaborar na redação, geração, conferência de cartas, ofícios e relatórios financeiros; Acompanhar as reuniões administrativas com os Conselhos: Suporte e atualização aos procedimentos e nos processos internos; Auxiliar em todas as fases do processo de compras; Controle de matérias de expedientes e contratos; Receber e respeitar orientações sobre ética, responsabilidade social e Princípios  Constitucionais aplicados ao Direito da Administração da atividade pública; Possuir domínio da matemática básica e financeira, domínio nas ferramentas de informática, ser proativo, organizado, paciente, ter espirito de liderança, saber gerir crises, ser concentrado e trabalhar em equipe.
 
-<br>
 ANALISTA DE TECNOLOGIA DA INFORMAÇÃO
 
 REQUISITOS: Diploma ou certificado de conclusão em curso de graduação de nível superior em Ciências da Computação, Sistema de Informação, Análise e Desenvolvimento de Sistemas, Engenharia da Computação ou curso equivalente.
 
 ATRIBUIÇÕES: Apoio aos usuários em suas necessidades que envolvem o uso de serviços oferecidos pela autarquia, esclarecimento de dúvidas, respostas a consultas e atendimento de solicitações dos usuários; Administração de dados; Administração de bancos de dados; Projetos, desenvolvimento, implantação e manutenção de sistemas de informações; Administração, projeto e implantação da rede de comunicação de dados e serviços associados; implantação e suporte a sistemas operacionais; Manutenção técnica, monitoramento e operação dos equipamentos de informática; Manutenção técnica, monitoramento e operação da rede de comunicação de dados e serviços associados; Execução de rotinas de salvamento de dados.  
 
-<br>
 TÉCNICO PREVIDENCIÁRIO
 
 REQUISITOS: Certificado de conclusão de curso de nível médio (antigo 2.º grau) expedido por instituição oficial de ensino reconhecida pelo Ministério da Educação.
 
 ATRIBUIÇÕES: Executar atividades de suporte e de apoio técnico especializado quanto a orientação previdenciária e ao atendimento aos usuários, abertura e tramitação de processos de benefícios previdenciários e pensões, inerentes às atividades previdenciárias de competência do APARECIDAPREV.
 
-<br>
 ASSISTENTE ADMINISTRATIVO
 
 REQUISITOS: Certificado de conclusão de curso de nível médio (antigo 2º grau), expedido por instituição oficial de ensino reconhecida pelo Ministério da Educação.
 
 ATRIBUIÇÕES: Executar as atividades rotineiras e no controle de gestão da administração, organização de arquivos, gerência de informações, revisão de documentos entre outras atividades, atender telefonemas e esclarecer dúvidas sobre a administração, elaborar e apresentar relatório administrativo coordenando o departamento de compras e sempre manter organizados arquivos e cadastros da autarquia e atendimento ao público em geral.
 
-<br>
 MOTORISTA
 
 REQUISITOS: Certificado de conclusão de curso de nível fundamental (antigo 1.º grau) expedido por instituição oficial de ensino reconhecida pelo Ministério da Educação.
@@ -147,4 +238,4 @@ AUXILIAR DE SERVIÇOS GERAIS
 
 REQUISITOS: Certificado de conclusão de curso de nível fundamental (antigo 1.º grau) expedido por instituição oficial de ensino reconhecida pelo Ministério da Educação.
 
-ATRIBUIÇÕES: Proceder a limpeza, conservação e arrumação dos locais de trabalho e instalações, mantendo limpos os equipamentos, materiais e maquinas da autarquia, de acordo com a necessidade; realizar trabalhos de natureza manual ou braçal.<br>
+ATRIBUIÇÕES: Proceder a limpeza, conservação e arrumação dos locais de trabalho e instalações, mantendo limpos os equipamentos, materiais e maquinas da autarquia, de acordo com a necessidade; realizar trabalhos de natureza manual ou braçal.

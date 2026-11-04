@@ -1,5 +1,3 @@
-###DEC-047185-0-000-06-11-1959@@@
-
 DECRETO Nº 47.185, DE 6 DE NOVEMBRO DE 1959.
 
 Renova o Decreto nº 42.307, de 20 de setembro de 1957.

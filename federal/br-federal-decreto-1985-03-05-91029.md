@@ -1,5 +1,3 @@
-###DEC-091029-0-000-05-03-1985@@@
-
 DECRETO Nº 91.029, de 05 de março de 1985
 
 Regulamenta a Lei nº 7.291, de 19 de dezembro de 1984, que dispõe sobre as atividades da eqüídeo-cultura no País e dá outras providências.

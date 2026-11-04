@@ -1,5 +1,3 @@
-###DEC-007700-0-000-15-03-2012-PUB-01@@@
-
 DECRETO Nº 7.700, DE 15 DE MARÇO DE 2012
 
 Dispõe sobre a execução, no território nacional, da Resolução nº 2025, de 14 de dezembro de 2011, do Conselho de Segurança das Nações Unidas, que, entre outras disposições, renova o regime de sanções aplicadas à Libéria.

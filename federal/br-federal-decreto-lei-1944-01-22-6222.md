@@ -1,5 +1,3 @@
-###DEL-006222-0-000-22-01-1944@@@
-
 DECRETO-LEI N. 6.222 – DE 22 DE JANEIRO DE 1944
 
 Dá nova redação ao artigo 4º do decreto n. 5.964 de 3 de novembro de 1943 

@@ -1,5 +1,3 @@
-###DEC-070237-0-000-06-03-1972@@@
-
 Decreto nº 70.237, De 6 De março de 1972.
 
 Autoriza a cessão da área de terra que menciona ao Instituto Brasileiro de Desenvolvimento Florestal.

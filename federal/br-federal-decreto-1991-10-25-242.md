@@ -1,7 +1,3 @@
-1
-
-###DEC-000242-0-000-25-10-1991@@@
-
 DECRETO Nº 242, DE 25 DE OUTUBRO DE 1991
 
 Dispõe sobre a transferência de bens, haveres e contencioso judicial da Empresa Brasileira de Assistência Técnica e Extensão Rural EMBRATER, em liquidação.

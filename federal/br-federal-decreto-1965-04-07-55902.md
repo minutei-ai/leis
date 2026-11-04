@@ -1,5 +1,3 @@
-###DEC-055902-0-000-07-04-1965@@@
-
 DECRETO Nº 55.902, DE 7 DE ABRIL DE 1965.
 
 Revoga os decretos ns 42.410, de 5 de outubro de 1957 e 52.272, de 17 de julho de 1963.

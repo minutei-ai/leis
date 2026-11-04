@@ -1,5 +1,3 @@
-###DEC-077307-0-000-17-03-1976@@@
-
 DECRETO Nº 77.307, DE 17 DE MARÇO DE 1976.
 
 Concede reconhecimento ao curso de Educação Física da Universidade Estadual de Mato Grosso, com sede na cidade de Campo Grande, Estado de Mato Grosso.

@@ -1,5 +1,3 @@
-###DEC-061551-0-000-17-10-1967@@@
-
 DECRETO Nº 61.551, DE 17 DE OUTUBRO DE 1967.
 
 Declara de utilidade pública o “Conselho Particular de Ouro Prêto” (Sociedade São Vicente de Paulo), com sede em Ouro Prêto, Estado de Minas Gerais.

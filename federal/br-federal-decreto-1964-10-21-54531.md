@@ -1,5 +1,3 @@
-###DEC-054531-0-000-21-10-1964@@@
-
 DECRETO Nº 54.531, DE 21 DE OUTUBRO DE 1964.
 
 Autoriza à Mineração Brasileira de Fluorita Ltda. a pesquisar fluorita, no município de Bom Jesus da Lapa, Estado da Bahia.

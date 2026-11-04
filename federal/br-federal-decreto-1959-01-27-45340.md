@@ -1,5 +1,3 @@
-###DEC-045340-0-000-27-01-1959@@@
-
 decreto nº 45.340, de 27 de janeiro de 1959.
 
 Concede reconhecimento ao curso de Didática da Faculdade de Filosofia Nossa Senhora Medianeira.

@@ -1,5 +1,3 @@
-###DEC-082679-0-000-21-11-1978@@@
-
 DECRETO Nº 82.679, DE 21 DE NOVEMBRO DE 1978
 
 Retifica a autorização de lavra conferida à Companhia de Mineração Novalimense pelo Decreto nº 44.985, de 02 de dezembro de 1958.

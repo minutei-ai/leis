@@ -1,5 +1,3 @@
-###DEC-081203-0-000-11-01-1978@@@
-
 Decreto nº 81.203, de 11 de janeiro de 1978.
 
 Fixa o fator de reajustamento salarial relativo a janeiro de 1978.

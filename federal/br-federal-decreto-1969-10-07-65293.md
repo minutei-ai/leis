@@ -1,5 +1,3 @@
-###DEC-065293-0-000-07-10-1969@@@
-
 DECRETO Nº 65.293 - DE 7 DE OUTUBRO DE 1969.
 
 Altera o enquadramento do pessoal da Estrada de Ferro Tocantins de que trata o Decreto nº 51.441 de 2 de abril de 1962.

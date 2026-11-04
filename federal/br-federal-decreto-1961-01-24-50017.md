@@ -1,5 +1,3 @@
-###DEC-050017-0-000-24-01-1961@@@
-
 DECRETO Nº 50.017, DE 24 DE JANEIRO DE 1961.
 
 Renova o Decreto nº 44.552, de 25 de setembro de 1958.

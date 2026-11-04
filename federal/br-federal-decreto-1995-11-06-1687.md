@@ -1,7 +1,3 @@
-1
-
-###DEC-001687-0-000-06-11-1995@@@
-
 DECRETO Nº 1.687, DE 6 DE NOVEMBRO DE 1995.
 
 Altera o Estatuto da Empresa Brasileira de Correios e Telégrafos - ECT.

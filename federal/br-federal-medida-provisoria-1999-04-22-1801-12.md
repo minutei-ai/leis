@@ -1,5 +1,3 @@
-###MPV-001801-0-012-22-04-1999@@@
-
 MEDIDA PROVISÓRiA Nº 1.801-12, DE 22 DE ABRIL DE 1999.
 
 Altera dispositivos da Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos e seguros privados de assistência à saúde, e dá outras providências.

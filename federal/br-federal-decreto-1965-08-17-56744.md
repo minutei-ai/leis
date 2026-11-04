@@ -1,5 +1,3 @@
-###DEC-056744-0-000-17-08-1965@@@
-
 DECRETO Nº 56.744, DE 17 DE AGÔSTO DE 1965.
 
 Concede à Material de Construção e Pedreira Vera Cruz Ltda. autorização para funcionar como empresa de mineração.

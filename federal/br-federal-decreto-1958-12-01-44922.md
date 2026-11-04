@@ -1,5 +1,3 @@
-###DEC-044922-0-000-01-12-1958@@@
-
 decreto nº 44.922, de 1 de dezembro de 1958.
 
 Autoriza a cidadã brasileira Alda Baptista de Freitas a pesquisar mica no município de Resplendor, Estado de Minas Gerais.

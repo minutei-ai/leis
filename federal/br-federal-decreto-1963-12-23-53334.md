@@ -1,5 +1,3 @@
-###DEC-053334-0-000-23-12-1963@@@
-
 Decreto nº 53.334, de 23 de dezembro de 1963.
 
 Altera a redação do art. 2º e seu parágrafo, do Decreto nº 50.685, de 31 de maio de 1961.

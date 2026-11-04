@@ -1,5 +1,3 @@
-###DEL-005562-0-000-09-06-1943@@@
-
 DECRETO‑LEI N. 5.562 – DE 9 DE JUNHO DE 1943
 
 Dispõe sôbre a aplicação, dos créditos orçamentários e adicionais destinados às Colônias Agrícolas Nacionais e Núcleos Coloniais

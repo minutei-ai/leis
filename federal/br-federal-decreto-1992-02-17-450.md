@@ -1,7 +1,3 @@
-1
-
-###DEC-000450-0-000-17-02-1992@@@
-
 DECRETO N° 450, DE 17 DE FEVEREIRO DE 1992
 
 Altera dispositivos do Regulamento da Ordem do Mérito Militar.

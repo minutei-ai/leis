@@ -1,5 +1,3 @@
-###DEC-089059-0-000-25-11-1983@@@
-
 Decreto nº 89.059, de 25 de novembro de 1983
 
 Aprova o Regulamento do Estado-Maior da Aeronáutica e dá outras providências.

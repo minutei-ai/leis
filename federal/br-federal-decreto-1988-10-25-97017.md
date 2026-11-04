@@ -1,5 +1,3 @@
-###DEC-097017-0-000-25-10-1988@@@
-
 DECRETO N° 97.017, DE 25 DE OUTUBRO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Bra­sileiro S/A - PETROBRÁS, os imóveis constituídos de terras e benfeitorias, de propriedade particular, situados nos Mu­nicípios de São Miguel dos Campos, Campo Alegre, Junqueiro, Coruripe, Penedo e Igreja Nova, no Estado de Alagoas, e Neó­polis, Japoatã, Japaratuba e Carmopólis, no Estado de Sergipe, necessários à construção do gasoduto Furado/Carmópolis, outros dutos e instalações comple­mentares.

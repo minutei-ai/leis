@@ -1,5 +1,3 @@
-###DEC-059061-0-000-11-08-1966@@@
-
 DECRETO Nº 59.061, DE 11 DE AGÔSTO DE 1966.
 
 Autoriza o cidadão brasileiro Geraldo de Lima e Mello a pesquisar minério de ferro no município de Brumadinho, Estado de Minas gerais.

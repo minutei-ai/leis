@@ -1,5 +1,3 @@
-###DEC-052098-0-000-06-06-1963@@@
-
 Decreto nº 52.098, de 6 de junho de 1963.
 
 Altera a lotação numérica da Parte Permanente do Quadro de Pessoal do Ministério da Fazenda.

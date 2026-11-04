@@ -1,5 +1,3 @@
-###DEC-057339-0-000-25-11-1965@@@
-
 decreto nº 57.339, de 25 de novembro de 1965.
 
 Retifica os Decretos nºs 54.015, de 13 de julho de 1964, e 55.204, 11 de dezembro de 1964.

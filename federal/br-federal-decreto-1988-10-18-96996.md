@@ -1,5 +1,3 @@
-###DEC-096996-0-000-18-10-1988@@@
-
 DECRETO Nº 96.996, DE 18 DE OUTUBRO DE 1988
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade de Ciências e Letras de Santa Fé do Sul.

@@ -1,5 +1,3 @@
-###DEC-047811-0-000-23-02-1960@@@
-
 Decreto nº 47.811, de 23 de fevereiro de 1960.
 
 Altera os parágrafos 2º e 3º do artigo 1º e o art. 8º do Decreto nº 41.427, de 25 de abril de 1957.

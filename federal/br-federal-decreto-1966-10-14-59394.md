@@ -1,5 +1,3 @@
-###DEC-059394-0-000-14-10-1966@@@
-
 DECRETO Nº 59.394, DE 14 DE OUTUBRO DE 1966.
 
 Aprova o Regulamento para o “Presídio da Marinha”.

@@ -1,5 +1,3 @@
-###DEC-088257-0-000-27-04-1983@@@
-
 DECRETO Nº 88.257, DE 27 DE ABRIL DE 1983.
 
 Dispões sobre o limite do Capital Autorizado da COPESUL - Companhia Petroquímica do Sul.

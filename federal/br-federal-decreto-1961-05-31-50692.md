@@ -1,5 +1,3 @@
-###DEC-050692-0-000-31-05-1961@@@
-
 DECRETO Nº 50.692, DE 31 DE MAIO DE 1961.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da “A Preferencial” - Companhia de Seguros Gerais

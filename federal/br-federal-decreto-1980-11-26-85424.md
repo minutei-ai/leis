@@ -1,5 +1,3 @@
-###DEC-085424-0-000-26-11-1980@@@
-
 decreto nº 85.424, de 26 de novembro de 1980.
 
 Regula os valores da Indenização de Representação dos policiais-militares das Polícias Militares dos Territórios Federais do Amapá, de Rondônia e de Roraima, e dá outras providências.

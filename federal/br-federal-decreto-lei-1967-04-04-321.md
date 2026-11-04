@@ -1,5 +1,3 @@
-###DEL-000321-0-000-04-04-1967@@@
-
 DECRETO-LEI Nº 321, DE 4 DE ABRIL DE 1967
 
 Dá nova redação do Art. 52 da Lei nº 5.020, de 7 de junho de 1966, alterado pelo Decreto-Lei nº 174, de 15 de fevereiro de 1967, que dispõe sôbre as Promoções dos Oficiais da ativa da Aeronáutica, e dá outras providências.

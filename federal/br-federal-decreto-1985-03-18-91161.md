@@ -1,5 +1,3 @@
-###DEC-091161-0-000-18-03-1985@@@
-
 DECRETO Nº 91.161, DE 18 DE MARÇO DE 985
 
 Cria a Comissão de Avaliação dos Salários do Pessoal de Empresas Estatais em Serviço no Exterior.

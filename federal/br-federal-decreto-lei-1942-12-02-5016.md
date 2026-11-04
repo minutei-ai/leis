@@ -1,5 +1,3 @@
-###DEL-005016-0-000-02-12-1942@@@
-
 DECRETO-LEI N. 5.016 – DE 2 DE DEZEMBRO DE 1942
 
 Cria cargos no Quadro Permanente do Ministério da Fazenda e dá outras providências

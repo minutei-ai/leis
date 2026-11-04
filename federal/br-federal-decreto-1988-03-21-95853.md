@@ -1,7 +1,3 @@
-1
-
-###DEC-095853-0-000-21-03-1988@@@
-
 DECRETO Nº 95.853, DE 21 DE MARÇO DE 1988
 
 Renova a concessão outorgada à RÁDIO METRÓPOLE DE CRISSIUMAL LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Crissiumal, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEL-002945-0-000-13-01-1941@@@
-
 DECRETO-LEI N. 2.945 – DE 13 DE JANEIRO DE 1941
 
 Cria funções gratificadas no Quadro único do Ministério da Agricultura

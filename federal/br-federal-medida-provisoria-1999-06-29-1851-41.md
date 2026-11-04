@@ -1,5 +1,3 @@
-###MPV-001851-0-041-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.851-41, DE 29 DE JUNHO DE 1999.
 
 Altera a legislação do imposto de renda e dá outras providências.

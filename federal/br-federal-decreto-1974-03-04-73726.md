@@ -1,5 +1,3 @@
-###DEC-073726-0-000-04-03-1974@@@
-
 DECRETO N° 73.726, DE 4 DE MARÇO DE 1974.
 
 Retifica o artigo 1º do Decreto n° 63.295, de 27 de setembro de 1968, através do qual foi concedido à Mineração Atlântica Ltda., o direito de lavrar areia quartzosa no Município de Mongaguá, Estado de São Paulo.

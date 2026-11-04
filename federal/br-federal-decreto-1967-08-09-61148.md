@@ -1,5 +1,3 @@
-###DEC-061148-0-000-09-08-1967@@@
-
 DECRETO Nº 61.148, DE 9 DE AGÔSTO DE 1967.
 
 Prorroga os mandatos dos atuais membros da Comissão Executiva do Instituto do Açúcar e do Álcool.

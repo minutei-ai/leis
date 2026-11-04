@@ -1,5 +1,3 @@
-###DEL-005742-0-000-12-08-1943@@@
-
 DECRETO–LEI N. 5.742 – DE 12 DE AGÔSTO DE 1943
 
 Transfere, gratuitamente, sob condição expressa que cita, à mitra Arquiepis­copal do Rio de Janeiro a propriedade plena do imóvel que menciona, situada na capital Federal, e dá outras Providências.

@@ -1,7 +1,3 @@
-1
-
-###MPV-000918-0-000-24-02-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 918, de 24 de FEVEREIRO de 1995
 
 Institui a Taxa de Juros de Longo Prazo (TJLP), dispõe sobre a remuneração dos recursos do Fundo de Participação PIS-Pasep, do Fundo de Amparo ao Trabalhador, do Fundo da Marinha Mercante, e dá outras providências.

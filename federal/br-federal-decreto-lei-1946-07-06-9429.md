@@ -1,5 +1,3 @@
-###DEL-009429-0-000-06-07-1946@@@
-
 DECRETO-LEI N. 9.429 – DE 6 DE JULHO DE 1946
 
 Dispõe sôbre o produto da arrecadação de bens vacantes.

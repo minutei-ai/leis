@@ -1,5 +1,3 @@
-###DEC-082244-0-000-11-09-1978@@@
-
 Decreto nº 82.244, de 11 de setembro de 1978.
 
 Concede reconhecimento aos cursos de Comunicação Social e de Turismo, ministrado pela Escola de Comunicação e Artes da Universidade de São Paulo, com sede na cidade de São Paulo, Estado de São Paulo.

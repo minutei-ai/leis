@@ -1,5 +1,3 @@
-###DEC-089902-0-000-03-07-1984@@@
-
 Decreto nº 89.902, de 03 de julho de 1984
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Clevelândia, no Estado do Paraná.

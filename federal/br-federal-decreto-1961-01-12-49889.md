@@ -1,5 +1,3 @@
-###DEC-049889-0-000-12-01-1961@@@
-
 DECRETO Nº 49.889, DE 12 DE JANEIRO DE 1961.
 
 Autoriza Mineração Hanna do Brasil Ltda., a lavrar minério de ferro no município de Nova Lima, Estado de Minas Gerais.

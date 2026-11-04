@@ -1,5 +1,3 @@
-###MPV-001944-0-009-09-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.944-9, DE 9 DE DEZEMBRO DE 1999.
 
 Cria o programa de Arredamento Residencial, institui o arrendamento residencial com opção e da outras providências.

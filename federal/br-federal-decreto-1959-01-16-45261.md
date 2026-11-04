@@ -1,5 +1,3 @@
-###DEC-045261-0-000-16-01-1959@@@
-
 decreto nº 45.261, de 16 de janeiro de 1959
 
 Abre, ao Ministério da Viação e Obras Públicas, o crédito extraordinário de Cr$88.750.000,00, destinado a custear as despesas efetuadas pelo 1º grupamento de Engenharia com obras de emergência, auxílios a flagelados e aquisição de materiais indispensáveis aos trabalhos realizados na região assolada pela sêca, no Nordeste.

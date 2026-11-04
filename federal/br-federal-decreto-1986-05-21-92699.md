@@ -1,5 +1,3 @@
-###DEC-092699-0-000-21-05-1986@@@
-
 DECRETO Nº 92.699, DE 21 DE MAIO DE 1986
 
 Autoriza o funcionamento do curso de Engenharia Agrícola das Faculdades Canoenses, no Estado do Rio Grande do Sul.

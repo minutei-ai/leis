@@ -1,5 +1,3 @@
-###DEL-002946-0-000-15-01-1941@@@
-
 DECRETO-LEI N. 2.946 – DE 15 DE JANEIRO DE 1941
 
 Transfere, a título precário, ao Governo do Estado da Baía, o Posto Agrícola de Queimadas, situado no município do mesmo nome, naquele Estado, e dá outras providências.

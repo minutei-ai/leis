@@ -1,5 +1,3 @@
-###DEC-097153-0-000-01-12-1988@@@
-
 DECRETO Nº 97.153, DE 1º DE DEZEMBRO DE 1988
 
 Autoriza efetivar o aumento de potência das entidades que menciona, executantes de serviço de radiodifusão sonora em onda média, nas cidades e unidades de federação indicadas.

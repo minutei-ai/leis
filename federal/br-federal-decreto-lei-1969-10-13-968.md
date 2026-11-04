@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/5da89b8d-8244-4716-b457-bea964853d6d/texto#nowhere)
 
-###DEL-000968-0-000-13-10-1969@@@
-
 Decreto-lei nº 968, de 13 de Outubro de 1969
 
 dispõe sôbre o exercício da supervisão ministerial relativamente às entidades incumbidas da fiscalização do exercício de profissões liberais.

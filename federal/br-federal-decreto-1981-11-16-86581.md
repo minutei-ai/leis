@@ -1,5 +1,3 @@
-###DEC-086581-0-000-16-11-1981@@@
-
 Decreto nº 86.581, de 16 de novembro de 1981.
 
 Autoriza o aumento do Capital Social da Centrais Elétricas de Rondônia S.A. - CERON.

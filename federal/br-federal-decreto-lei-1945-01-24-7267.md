@@ -1,5 +1,3 @@
-###DEL-007267-0-000-24-01-1945@@@
-
 DECRETO-LEI N. 7.267 – DE 24 DE JANEIRO DE 1945
 
 Extingue cargos de Coletor e de Escrivão (de Coletoria) e dá outras providências

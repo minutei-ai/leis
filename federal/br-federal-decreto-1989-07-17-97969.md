@@ -1,7 +1,3 @@
-1
-
-###DEC-097969-0-000-17-07-1989@@@
-
 DECRETO Nº 97.969, DE 17 DE JULHO DE 1989
 
 Declara de utilidade pública para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S.A. - PETROBRÁS, o imóvel constituído de terras e benfeitorias, de propriedade particular, situado no Município de Itaguaí, estado do Rio de Janeiro, necessário à construção de uma estação de medição e redução de pressão para a Baixada Fluminense.

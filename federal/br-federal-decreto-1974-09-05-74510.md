@@ -1,5 +1,3 @@
-###DEC-074510-0-000-05-09-1974@@@
-
 DECRETO Nº 74.510, DE 5 DE SETEMBRO DE 1974
 
 Concede à Amazônia Mineração S.A. o direito de lavrar minério de ferro, no Distrito e Município de São Félix do Xingú, Estado do Pará.

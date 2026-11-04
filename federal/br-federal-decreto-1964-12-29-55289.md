@@ -1,5 +1,3 @@
-###DEC-055289-0-000-29-12-1964@@@
-
 decreto nº 55.289, de 29 de dezembro de 1964.
 
 Aprova as alterações introduzidas nos Estatutos da Ultramar Companhia Brasileira de Seguros, inclusive aumento do capital social.

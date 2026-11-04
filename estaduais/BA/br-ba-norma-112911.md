@@ -8,7 +8,8 @@ Art. 1º - Fica o Poder Executivo autorizado a promover os meios necessários pa
 
 Art. 2º - A construção a que se refere o artigo anterior será realizada em cooperação e dirigida pela "Fundação Casa do Estudante da Bahia", a cujo patrimônio será incorporada.
 
-Art. 3º - O auxílio do Estado será realizado em dinheiro, mediante créditos orçamentários ou especiais destinados ao cumprimento desta lei ou em garantia de empréstimos em que o Estado assuma a responsabilidade pelo pagamento total ou parcial de juros e prestações de amortização, nos termos convencionados e oportunamente aprovados pela Assembléia Legislativa, de acordo com a legislação vigente.<br>
+Art. 3º - O auxílio do Estado será realizado em dinheiro, mediante créditos orçamentários ou especiais destinados ao cumprimento desta lei ou em garantia de empréstimos em que o Estado assuma a responsabilidade pelo pagamento total ou parcial de juros e prestações de amortização, nos termos convencionados e oportunamente aprovados pela Assembléia Legislativa, de acordo com a legislação vigente.
+
 Art. 4º - Para auxílio inicial das obras da Casa do Estudante da Bahia fica o Poder Executivo autorizado a abrir um ou mais créditos especiais até o limite de um milhão e quinhentos mil cruzeiros, cuja despesa correrá por conta de qualquer dos recursos referidos no [artigo 6º da Lei nº 75, de 27 de junho de 1948](https://www.legislabahia.ba.gov.br/documentos/lei-no-75-de-27-de-julho-de-1948#LO_75_Art__6) .
 
 Art. 5º - A Fundação Casa do Estudante da Bahia deverá submeter o projeto da construção e suas especificações dentro do prazo de 180 dias à aprovação do Poder Executivo.

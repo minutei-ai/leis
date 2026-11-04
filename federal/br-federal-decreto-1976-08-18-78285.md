@@ -1,5 +1,3 @@
-###DEC-078285-0-000-18-08-1976@@@
-
 DECRETO Nº 78.285, DE 18 DE AGOSTO DE 1976.
 
 Cria Organizações Militares e dá outras providências.

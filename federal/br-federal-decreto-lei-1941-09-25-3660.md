@@ -1,5 +1,3 @@
-###DEL-003660-0-000-25-09-1941@@@
-
 DECRETO-LEI N. 3.660 – DE 25 DE SETEMBRO DE 1941
 
 Cria a função gratificada de chefe de Portaria do Serviço de Estatística Econômica e Financeira e dá outras providências

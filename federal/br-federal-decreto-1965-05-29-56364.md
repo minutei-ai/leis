@@ -1,5 +1,3 @@
-###DEC-056364-0-000-27-05-1965@@@
-
 DECRETO Nº 56.364, DE 27 DE MAIO DE 1965.
 
 Declara de utilidade pública, para desapropriação, os imóveis e benfeitorias para os fins que especifica.

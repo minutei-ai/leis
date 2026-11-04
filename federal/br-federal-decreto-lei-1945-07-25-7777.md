@@ -1,5 +1,3 @@
-###DEL-007777-0-000-25-07-1945@@@
-
 DECRETO-LEI N. 7.777 – DE 25 DE JULHO DE 1945
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 1.200.000,00, em favor da Comissão de Readaptação dos Incapazes das Fôrças Armadas.

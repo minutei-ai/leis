@@ -1,5 +1,3 @@
-###DEC-000589-0-000-02-07-1992@@@
-
 DECRETO N° 589, DE 2 DE JULHO DE 1992
 
 Dá nova redação ao art. 1° do Decreto n° 99.608, de 13 de outubro de 1990, que criou o grupo de trabalho com a finalidade de coordenar e estabelecer diretrizes para a negociação de débitos de entidades da Administração Pública Federal.

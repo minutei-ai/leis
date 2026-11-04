@@ -1,5 +1,3 @@
-###DEL-008797-0-000-23-01-1946@@@
-
 DECRETO-LEI  N. 8.797 – DE 23 DE JANEIRO DE 1946
 
 Altera a Tabela IV que acompanha o Decreto-lei nº 8.512, de 31 de dezembro de 1945
@@ -10,7 +8,99 @@ Decreta:
 
 Art. 1º A Tabela, IV que acompanha o Decreto-lei n.º 8.512, de 31 de dezembro de 1945, passa a ter a seguinte redação, na parte referente aos marinheiros e taifeiros
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:180.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Mensal</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Anual</span></p></td></tr><tr><td style="width:180.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cabo</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span>700,00</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>8.400,00</span></p></td></tr><tr><td style="width:180.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Marinheiro 2º classe ou Sq. N.</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span>600,00</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>7.200,00</span></p></td></tr><tr><td style="width:180.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Marinheiro 2º classe ou Sc. N</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span>500,00</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>6.000,00</span></p></td></tr><tr><td style="width:180.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Taifeiro CO 1ª classe</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 1.500,00</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 18.000,00</span></p></td></tr><tr><td style="width:180.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Taifeiro CO 2ª classe</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 1.200,00</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 14.400,00</span></p></td></tr><tr><td style="width:180.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Taifeiro CO 3ª classe</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span>900,00</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 10.800,00</span></p></td></tr><tr><td style="width:180.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Taifeiro AR 1ª classe</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 1.000,00</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 12.000,00</span></p></td></tr><tr><td style="width:180.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Taifeiro AR 2ª classe</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span>800,00</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>9.600,00</span></p></td></tr><tr><td style="width:180.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Taifeiro AR 3ª classe</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span>660,00</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>7.920,00</span></p></td></tr><tr><td style="width:180.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Taifeiro BA 1ª classe</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 1.000,00</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 12.000,00</span></p></td></tr><tr><td style="width:180.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Taifeiro BA 2ª classe</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span>800,00</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>9.600,00</span></p></td></tr><tr><td style="width:180.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Taifeiro BA 3ª classe</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span>660,00</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>7.920,00</span></p></td></tr><tr><td style="width:180.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Taifeiro PA 1 classe</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 1.000,00</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 12.000,00</span></p></td></tr><tr><td style="width:180.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Taifeiro PA 2 classe</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span>800,00</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>9.600,00</span></p></td></tr><tr><td style="width:180.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Taifeiro PA 3 classe</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp; </span><span>660,00</span></p></td><td style="width:85.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp;&nbsp; </span><span>7.920,00</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+Mensal
+
+Anual
+
+Cabo
+
+Cr$    700,00
+
+Cr$   8.400,00
+
+Marinheiro 2º classe ou Sq. N.
+
+Cr$    600,00
+
+Cr$   7.200,00
+
+Marinheiro 2º classe ou Sc. N
+
+Cr$    500,00
+
+Cr$   6.000,00
+
+Taifeiro CO 1ª classe
+
+Cr$ 1.500,00
+
+Cr$ 18.000,00
+
+Taifeiro CO 2ª classe
+
+Cr$ 1.200,00
+
+Cr$ 14.400,00
+
+Taifeiro CO 3ª classe
+
+Cr$    900,00
+
+Cr$ 10.800,00
+
+Taifeiro AR 1ª classe
+
+Cr$ 1.000,00
+
+Cr$ 12.000,00
+
+Taifeiro AR 2ª classe
+
+Cr$    800,00
+
+Cr$   9.600,00
+
+Taifeiro AR 3ª classe
+
+Cr$    660,00
+
+Cr$   7.920,00
+
+Taifeiro BA 1ª classe
+
+Cr$ 1.000,00
+
+Cr$ 12.000,00
+
+Taifeiro BA 2ª classe
+
+Cr$    800,00
+
+Cr$   9.600,00
+
+Taifeiro BA 3ª classe
+
+Cr$    660,00
+
+Cr$   7.920,00
+
+Taifeiro PA 1 classe
+
+Cr$ 1.000,00
+
+Cr$ 12.000,00
+
+Taifeiro PA 2 classe
+
+Cr$    800,00
+
+Cr$   9.600,00
+
+Taifeiro PA 3 classe
+
+Cr$    660,00
+
+Cr$   7.920,00
 
 Art. 2º A presente Tabela entra em vigor a partir de 1 de janeiro corrente.
 

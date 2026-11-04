@@ -1,5 +1,3 @@
-###DEC-093215-0-000-03-09-1986@@@
-
 DECRETO Nº 93.215, DE 03 DE SETEMBRO DE 1986
 
 Dispõe sobre o controle e a fiscalização das atividades a cargo das unidades organizacionais integrantes do Sistema de Pessoal Civil da Administração Federal, e dá outras providências.

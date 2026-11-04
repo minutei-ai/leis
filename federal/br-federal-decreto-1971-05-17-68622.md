@@ -1,5 +1,3 @@
-###DEC-068622-0-000-17-05-1971@@@
-
 DECRETO Nº 68.622 - DE 17 DE MAIO DE 1971.
 
 Declara de utilidade pública o Instituto Santo Antônio, com sede em Paraibuna, Estado de São Paulo.

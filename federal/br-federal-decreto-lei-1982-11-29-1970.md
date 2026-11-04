@@ -1,5 +1,3 @@
-###DEL-001970-0-000-29-11-1982@@@
-
 # Decreto-lei nº 1.970, de 29 de novembro de 1982
 
 Elimina as frações de Cruzeiro nas operações de natureza orçamentária, financeira e contábil

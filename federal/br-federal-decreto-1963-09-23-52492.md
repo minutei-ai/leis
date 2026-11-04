@@ -1,5 +1,3 @@
-###DEC-052492-0-000-23-09-1963@@@
-
 DECRETO Nº 52.492, DE 23 DE SETEMBRO DE 1963.
 
 Declara de utilidade pública, para efeitos de desapropriação, a faixa de terrenos necessária à linha de transmissão Matozinhos - Mocambeiro - Fidalgo, no Estado de Minas Gerais.
@@ -21,8 +19,6 @@ Art. 5º O presente Decreto entrará em vigor na data de sua publicação.
 Brasília, 23 de setembro de 1963; 142º da Independência e 75º da República.
 
 João Goulart
-
-###DEC-052492-0-000-23-09-1963@@@RET01+++
 
 DECRETO Nº 52.492, DE 23 DE SETEMBRO DE 1963.
 

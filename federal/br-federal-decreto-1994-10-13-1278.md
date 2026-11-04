@@ -1,7 +1,3 @@
-1
-
-###DEC-001278-0-000-13-10-1994@@@
-
 DECRETO Nº 1.278, DE 13 DE OUTUBRO DE 1994
 
 Cria a Zona de Processamento de Exportação- ZPE de Itaguaí, no Estado do Rio de Janeiro.

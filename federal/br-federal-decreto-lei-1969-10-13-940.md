@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/fb5ea088-75f6-4df8-bad9-7f05e4230659/texto#nowhere)
 
-###DEL-000940-0-000-13-10-1969@@@
-
 DECRETO-LEI Nº 940, de 13 de outubro de 1969
 
 Estende o disposto na Lei nº 4.656, de 2 de junho de 1965, a beneficiários de ex-servidores públicos civis, nas condições que indica.

@@ -1,4 +1,5 @@
-LEI Nº 21.231, DE 10 DE JANEIRO DE 2022<br>
+LEI Nº 21.231, DE 10 DE JANEIRO DE 2022
+
 \- [Vide Decreto nº 10.899, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114180), art. 9º, III.
 
 Dispõe sobre a regularização de passivos ambientais de imóveis rurais e urbanos, bem como a compensação florestal e a compensação por danos para regularizar a supressão da vegetação nativa realizada sem a prévia autorização do órgão ambiental competente, também a definição dos parâmetros da compensação florestal e da reposição florestal no Estado de Goiás.
@@ -27,14 +28,16 @@ Art. 1º Sem prejuízo de outros instrumentos previstos na legislação, os pass
 
 Art. 2º Declarada a existência de passivos ambientais por meio da DAI de que trata o art. 1º desta Lei, será gerado eletronicamente o Termo de Compromisso Ambiental – TCA, com força de título executivo extrajudicial, conforme o art. 87 da [Lei estadual nº 18.102](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90204/lei-18102), de 18 de julho de 2013, e o art. 31 da [Lei estadual nº 20.694](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100893), de 2019, para permitir que as pessoas físicas e jurídicas possam promover as correções necessárias de suas atividades e atender ao que dispõe a legislação ambiental aplicável.
 
-§ 1º Se não existirem irregularidades, será gerada a Declaração de Inexistência de Passivos Ambientais, com caráter de Certidão Negativa de Passivos Ambientais.<br>
+§ 1º Se não existirem irregularidades, será gerada a Declaração de Inexistência de Passivos Ambientais, com caráter de Certidão Negativa de Passivos Ambientais.
+
 \- [Redação dada pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
 ~~§ 1º Se não existirem irregularidades, será gerada a Declaração de Inexistência de Passivos Ambientais.~~
 
 § 2º O cumprimento integral das obrigações assumidas no TCA ensejará a emissão da Declaração de Inexistência de Passivos Ambientais.
 
-§ 3º Enquanto forem cumpridas as obrigações assumidas no TCA, os imóveis que são objeto desse termo receberão o mesmo tratamento dispensado aos imóveis que tenham obtido a Declaração de Inexistência de Passivos Ambientais, com caráter de Certidão Positiva com Efeito de Negativa de Passivos Ambientais.<br>
+§ 3º Enquanto forem cumpridas as obrigações assumidas no TCA, os imóveis que são objeto desse termo receberão o mesmo tratamento dispensado aos imóveis que tenham obtido a Declaração de Inexistência de Passivos Ambientais, com caráter de Certidão Positiva com Efeito de Negativa de Passivos Ambientais.
+
 \- [Redação dada pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
 ~~§ 3º Enquanto forem cumpridas as obrigações assumidas no TCA, os imóveis que são objeto desse termo receberão o mesmo tratamento dispensado aos imóveis que tenham obtido a Declaração de Inexistência de Passivos Ambientais.~~
@@ -57,12 +60,14 @@ V – passivos diversos existentes na poligonal da atividade ou do empreendiment
 
 Art. 5º O formulário DAI será distinto em razão das exigências legais para a regularização de passivos ambientais, conforme as seguintes categorias:
 
-I – propriedades rurais de até 4 (quatro) módulos fiscais;<br>
+I – propriedades rurais de até 4 (quatro) módulos fiscais;
+
 \- [Redação dada pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
 ~~I – propriedades rurais de até 4 (quatro) módulos rurais;~~
 
-II – propriedades rurais acima de 4 (quatro) módulos fiscais; e<br>
+II – propriedades rurais acima de 4 (quatro) módulos fiscais; e
+
 \- [Redação dada pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
 ~~II – propriedades rurais acima de 4 (quatro) módulos rurais; e~~
@@ -77,7 +82,8 @@ Art. 6º Em qualquer modalidade de licenciamento ambiental de atividades ou empr
 
 § 3º A existência de sanções administrativas referentes ao passivo ambiental regularizado na DAI não impedirá a realização de atividades ou empreendimentos no respectivo imóvel, nem a tramitação de licenciamento ambiental ou a emissão da respectiva licença, quando for o caso.
 
-§ 4º Para a concretização do que dispõe o § 3º deste artigo, a emissão da Declaração de Inexistência de Passivos Ambientais ou a celebração do TCA será considerada para a suspensão de embargos, interdições ou medidas administrativas congêneres decorrentes dos passivos ambientais declarados, observada a regularização da atividade que deu causa ao embargo.<br>
+§ 4º Para a concretização do que dispõe o § 3º deste artigo, a emissão da Declaração de Inexistência de Passivos Ambientais ou a celebração do TCA será considerada para a suspensão de embargos, interdições ou medidas administrativas congêneres decorrentes dos passivos ambientais declarados, observada a regularização da atividade que deu causa ao embargo.
+
 \- [Redação dada pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
 ~~§ 4º Para a concretização do que dispõe o § 3º deste artigo, a emissão da Declaração de Inexistência de Passivos Ambientais ou a celebração do TCA suspenderá imediatamente os efeitos de embargos, interdições, suspensões ou medidas administrativas congêneres decorrentes de passivos ambientais, cuja regularização se pretende promover por meio da DAI.~~
@@ -152,7 +158,8 @@ VI – em áreas passíveis de supressão para uso alternativo do solo, objeto d
 
 § 7º A regularização de passivo ambiental de que trata este artigo não impede a instauração ou a tramitação de procedimento para apuração de infração ambiental, quando cabível, observadas as disposições desta Lei, notadamente quanto à utilização de informações constantes da DAI e do TCA, à utilização do imóvel objeto de regularização e à forma de recomposição ou compensação por danos ambientais, bem como as políticas de incentivo à regularização previstas na legislação, a exemplo do contido no § 2º do art. 60 do [Decreto estadual nº 9.710](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103356/decreto-9710), de 2020.
 
-Art. 14. A regularização da conversão do uso do solo para implantação de empreendimentos ou atividades não contemplados no art. 13 desta Lei realizada sem prévia autorização entre os dias 22 de julho de 2008 e 27 de dezembro de 2019, conforme o disposto no art. 30 da [Lei estadual nº 20.694](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100893/lei-20694), de 2019, e no § 2º do art. 44 do [Decreto estadual nº 9.710](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103356/decreto-9710), de 2020, observará o disposto nesta Lei, inclusive nos parâmetros definidos em seu Anexo II, assim descritos:<br>
+Art. 14. A regularização da conversão do uso do solo para implantação de empreendimentos ou atividades não contemplados no art. 13 desta Lei realizada sem prévia autorização entre os dias 22 de julho de 2008 e 27 de dezembro de 2019, conforme o disposto no art. 30 da [Lei estadual nº 20.694](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100893/lei-20694), de 2019, e no § 2º do art. 44 do [Decreto estadual nº 9.710](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103356/decreto-9710), de 2020, observará o disposto nesta Lei, inclusive nos parâmetros definidos em seu Anexo II, assim descritos:
+
 \- [Vide Decreto nº 10.899, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114180).
 
 I – em áreas de preservação permanente ou de uso restrito:
@@ -205,40 +212,50 @@ VII – em áreas passíveis de supressão para uso alternativo do solo, será d
 
 § 6º Será instaurado procedimento para apuração da infração ambiental.
 
-Art. 15. Salvo nas hipóteses em que seja obrigatória a recuperação da própria área desmatada sem autorização ou licença, a compensação florestal e a compensação por danos ambientais, conforme os parâmetros estabelecidos pelos arts. 13, 14 e 18, poderão ser realizadas mediante:<br>
+Art. 15. Salvo nas hipóteses em que seja obrigatória a recuperação da própria área desmatada sem autorização ou licença, a compensação florestal e a compensação por danos ambientais, conforme os parâmetros estabelecidos pelos arts. 13, 14 e 18, poderão ser realizadas mediante:
+
 \- [Redação dada pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
 ~~Art. 15. Salvo nas hipóteses em que seja obrigatória a recuperação da própria área desmatada sem autorização ou licença, a compensação florestal e a compensação por danos ambientais, conforme os parâmetros estabelecidos pelos arts. 13 e 14, poderão ser realizadas mediante:~~
 
 I – servidão ambiental perpétua sobre área de vegetação nativa conservada, constituída nos termos dos arts. 9º– A, 9º– B e 9º– C da Lei federal nº 6.938, de 31 de agosto de 1981;
 
-II – doação de imóvel no interior de unidade de conservação para regularização fundiária em igual proporção, em hectares, à do cálculo da compensação florestal e da compensação por danos, a critério do órgão gestor;<br>
+II – doação de imóvel no interior de unidade de conservação para regularização fundiária em igual proporção, em hectares, à do cálculo da compensação florestal e da compensação por danos, a critério do órgão gestor;
+
 \- [Vide Decreto nº 10.899, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114180).
 
-III – plantio compensatório com espécies nativas vinculado a servidão ambiental perpétua nos termos do arts. 9º– A, 9º– B e 9º– C da Lei federal nº 6.938, de 1981;<br>
+III – plantio compensatório com espécies nativas vinculado a servidão ambiental perpétua nos termos do arts. 9º– A, 9º– B e 9º– C da Lei federal nº 6.938, de 1981;
+
 \- [Vide Decreto nº 10.899, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114180).
 
 IV – recuperação de área degradada no interior de unidade de conservação de proteção integral;
 
-V – participação em projetos de revitalização de bacias hidrográficas ou de recuperação ambiental, inclusive em áreas de mananciais de captação para abastecimento público em igual proporção, em hectares, à do cálculo da compensação florestal e da compensação por danos; e<br>
+V – participação em projetos de revitalização de bacias hidrográficas ou de recuperação ambiental, inclusive em áreas de mananciais de captação para abastecimento público em igual proporção, em hectares, à do cálculo da compensação florestal e da compensação por danos; e
+
 \- [Vide Decreto nº 10.899, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114180).
 
-VI – depósito em conta específica vinculada ao fundo de compensação ambiental de que trata o art. 85–A da [Lei nº 18.102](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90204), de 18 de julho de 2013, cujos valores serão direcionados para ações de recuperação ambiental, conforme as seguintes situações:<br>
+VI – depósito em conta específica vinculada ao fundo de compensação ambiental de que trata o art. 85–A da [Lei nº 18.102](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90204), de 18 de julho de 2013, cujos valores serão direcionados para ações de recuperação ambiental, conforme as seguintes situações:
+
 \- [Redação dada pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
 ~~VI – depósito em conta específica vinculada ao fundo de compensação ambiental de que trata o art. 85– A da [Lei estadual nº 18.102](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90204/lei-18102), de 2013, conforme valores estabelecidos no Anexo III desta Lei para regularizações de conversão do uso do solo sem licença ocorridas até o dia 27 de dezembro de 2019, e valores estabelecidos no Anexo IV desta Lei para regularizações de conversão do uso do solo sem licença ocorridas após essa data.~~
 
-a) valores estabelecidos no Anexo III desta Lei para regularizações de conversão do uso do solo sem licença, ocorridas até o dia 27 de dezembro de 2019;<br>
+a) valores estabelecidos no Anexo III desta Lei para regularizações de conversão do uso do solo sem licença, ocorridas até o dia 27 de dezembro de 2019;
+
 \- [Acrescida pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
-b) valores equivalentes à obrigação estabelecida no inciso III deste artigo, cujos critérios serão definidos em regulamento do Poder Executivo estadual para a regularização de conversão do uso do solo sem licença, ocorrida após 27 de dezembro de 2019;<br>
-\- [Acrescida pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).<br>
+b) valores equivalentes à obrigação estabelecida no inciso III deste artigo, cujos critérios serão definidos em regulamento do Poder Executivo estadual para a regularização de conversão do uso do solo sem licença, ocorrida após 27 de dezembro de 2019;
+
+\- [Acrescida pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
+
 \- [Vide Decreto nº 10.899, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114180).
 
-VII – créditos oriundos do não exercício do direito de conversão de uso do solo em áreas passíveis de autorização de supressão, conforme regulamento do Poder Executivo estadual; e<br>
+VII – créditos oriundos do não exercício do direito de conversão de uso do solo em áreas passíveis de autorização de supressão, conforme regulamento do Poder Executivo estadual; e
+
 \- [Acrescido pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
-VIII – projetos, próprios do interessado ou de terceiros, de arborização urbana, recuperação de nascentes, em áreas rurais ou urbanas, recuperação de áreas de preservação permanente urbanas degradadas ou formação e recuperação de parques urbanos, no mesmo município onde ocorreu a supressão, exclusivamente para compensações florestais e por danos, oriundas de desmatamentos em áreas urbanas, conforme regulamento do Poder Executivo estadual.<br>
+VIII – projetos, próprios do interessado ou de terceiros, de arborização urbana, recuperação de nascentes, em áreas rurais ou urbanas, recuperação de áreas de preservação permanente urbanas degradadas ou formação e recuperação de parques urbanos, no mesmo município onde ocorreu a supressão, exclusivamente para compensações florestais e por danos, oriundas de desmatamentos em áreas urbanas, conforme regulamento do Poder Executivo estadual.
+
 \- [Acrescido pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
 Parágrafo único. Nas hipóteses de conservação ou recuperação de áreas, o interessado deverá averbar, na matrícula de registro de imóveis, a instituição da servidão, e essa obrigação poderá ser caracterizada como condicionante do Termo de Compromisso Ambiental.
@@ -249,36 +266,42 @@ Parágrafo único. O disposto no _caput_ deste artigo aplica-se às infraçõe
 
 Art. 17. Nas hipóteses em que a conversão do uso do solo sem prévia autorização ou licença ocorrer no Bioma Mata Atlântica, serão observadas regras previstas na legislação específica, com observância também do regulamento do órgão ambiental licenciador.
 
-Art. 18. A regularização da conversão do uso do solo, em áreas passíveis, para implantação de atividades ou empreendimentos de qualquer natureza, bem como a regularização do desmatamento sem licença, realizado em áreas especialmente protegidas, depois do dia 27 de dezembro de 2019, far-se-ão de forma voluntária, por meio da Declaração Ambiental do Imóvel – DAI ou no licenciamento ou registro corretivo da atividade que deu causa à conversão do uso do solo, observando-se as seguintes condições, concomitantemente:<br>
+Art. 18. A regularização da conversão do uso do solo, em áreas passíveis, para implantação de atividades ou empreendimentos de qualquer natureza, bem como a regularização do desmatamento sem licença, realizado em áreas especialmente protegidas, depois do dia 27 de dezembro de 2019, far-se-ão de forma voluntária, por meio da Declaração Ambiental do Imóvel – DAI ou no licenciamento ou registro corretivo da atividade que deu causa à conversão do uso do solo, observando-se as seguintes condições, concomitantemente:
+
 \- [Redação dada pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
 ~~Art. 18. A regularização da conversão do uso do solo para implantação de atividades ou empreendimentos de qualquer natureza realizada sem prévia autorização depois do dia 27 de dezembro de 2019 se fará por meio de autorização corretiva no Sistema Ipê, com a observação das seguintes condições, concomitantemente:~~
 
-I – deverá ser inferida a formação vegetacional originalmente existente na área suprimida, por meio da apresentação, pelo interessado, de um ou mais dos seguintes documentos: imagens de satélite da área suprimida, estudos, levantamentos e inventários florestais de vegetação testemunho em área adjacente ou de inventário florestal da própria área, elaborado antes da supressão irregular, acompanhados da anotação de responsabilidade técnica do responsável técnico, no conselho profissional;<br>
+I – deverá ser inferida a formação vegetacional originalmente existente na área suprimida, por meio da apresentação, pelo interessado, de um ou mais dos seguintes documentos: imagens de satélite da área suprimida, estudos, levantamentos e inventários florestais de vegetação testemunho em área adjacente ou de inventário florestal da própria área, elaborado antes da supressão irregular, acompanhados da anotação de responsabilidade técnica do responsável técnico, no conselho profissional;
+
 \- [Redação dada pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
 ~~I – deverá ser inferida a tipologia vegetacional originalmente existente na área suprimida, por meio da apresentação, pelo infrator, de estudos, levantamentos e inventários florestais de vegetação testemunho em área adjacente ou de inventário florestal da própria área, elaborado antes da supressão irregular, também do respectivo registro de responsabilidade técnica no conselho profissional;~~
 
-II – inexistência de restrição legal ao uso alternativo do solo na área suprimida e/ou regularização dos passivos ambientais constituídos em áreas especialmente protegidas, nos termos desta Lei.<br>
+II – inexistência de restrição legal ao uso alternativo do solo na área suprimida e/ou regularização dos passivos ambientais constituídos em áreas especialmente protegidas, nos termos desta Lei.
+
 \- [Redação dada pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
 ~~II – inexistência de restrição legal ao uso alternativo do solo na área suprimida; e~~
 
-III – recolhimento, pelo infrator, da taxa de reposição florestal, da taxa de licenciamento ambiental, também das compensações florestais e compensações por danos nas mesmas proporções previstas no Anexo II desta Lei.<br>
+III – recolhimento, pelo infrator, da taxa de reposição florestal, da taxa de licenciamento ambiental, também das compensações florestais e compensações por danos nas mesmas proporções previstas no Anexo II desta Lei.
+
 \- [Vide Decreto nº 10.899, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114180), art. 9º, II.
 
 § 1º Nas hipóteses de supressão de vegetação irregular em que não houver a comprovação do efetivo uso alternativo do solo no prazo de 3 (três) anos após a regularização, a área deverá ser totalmente recuperada pelo infrator ambiental.
 
 § 2º O descumprimento da execução das compensações estabelecidas com fundamento no inciso III deste artigo ensejará a cassação da autorização corretiva e sujeitará o responsável à regeneração da área com supressão irregular, sem prejuízo das demais obrigações assumidas.
 
-§ 3º As compensações devidas, conforme o disposto no inciso III do _caput_ deste artigo, poderão ser realizadas conforme as opções definidas nos incisos I a VIII do art. 15 desta Lei.<br>
+§ 3º As compensações devidas, conforme o disposto no inciso III do _caput_ deste artigo, poderão ser realizadas conforme as opções definidas nos incisos I a VIII do art. 15 desta Lei.
+
 \- [Redação dada pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
 ~~§ 3º As compensações devidas poderão ser efetuadas por meio de depósito em conta específica vinculada ao fundo de que trata o art. 85-A da [Lei estadual nº 18.102](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90204/lei-18102), de 2013, conforme valores estabelecidos no Anexo IV desta Lei, aplicáveis somente às áreas consideradas passíveis de autorização.~~
 
 § 4º Será instaurado procedimento para apuração da infração ambiental.
 
-Art. 19. A regularização da conversão do uso do solo de pastagens para outros usos que envolvam o corte de árvores isoladas sem licença se dará por meio da adoção das seguintes providências:<br>
+Art. 19. A regularização da conversão do uso do solo de pastagens para outros usos que envolvam o corte de árvores isoladas sem licença se dará por meio da adoção das seguintes providências:
+
 \- [Vide Decreto nº 10.899, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114180), art. 9º, I.
 
 I – para cortes de árvores isoladas ocorridos antes do dia 27 de dezembro de 2019, mediante DAI, sem a necessidade de compensação florestal ou compensação por danos;
@@ -307,7 +330,8 @@ Seção I
 
 Dos parâmetros aplicáveis a compensação florestal e a reposição florestal decorrentes de conversões do uso do solo
 
-Art. 21. As autorizações de Conversão do Uso do Solo no bioma Cerrado, nos termos do inciso II do § 4º do art. 26 da Lei federal nº 12.651, de 2012, do art. 65 da [Lei estadual nº 18.104](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90203/lei-18104), de 2013, também dos arts. 43 e 44 do [Decreto estadual nº 9.710](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103356/decreto-9710), de 2020, ficarão condicionadas à realização de compensação florestal ou reposição florestal, observado o disposto no art. 24 desta Lei quanto às situações de isenção de cumprimento da obrigação, conforme os parâmetros definidos no Anexo V também desta Lei, assim descritos:<br>
+Art. 21. As autorizações de Conversão do Uso do Solo no bioma Cerrado, nos termos do inciso II do § 4º do art. 26 da Lei federal nº 12.651, de 2012, do art. 65 da [Lei estadual nº 18.104](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90203/lei-18104), de 2013, também dos arts. 43 e 44 do [Decreto estadual nº 9.710](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103356/decreto-9710), de 2020, ficarão condicionadas à realização de compensação florestal ou reposição florestal, observado o disposto no art. 24 desta Lei quanto às situações de isenção de cumprimento da obrigação, conforme os parâmetros definidos no Anexo V também desta Lei, assim descritos:
+
 \- [Vide Decreto nº 10.899, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114180).
 
 I – em áreas de preservação permanente e áreas de uso restrito, para instalação de atividade ou obra considerada de utilidade pública ou interesse social, conforme as alíneas “e”, “f” e “g” do inciso IX do art. 3º da Lei federal nº 12.651, de 2012, a compensação florestal será equivalente a 1 x 1 (um hectare para cada hectare de intervenção);
@@ -320,7 +344,8 @@ IV – em zonas de amortecimento das unidades de conservação, nas áreas pass�
 
 V – em áreas passíveis de supressão de vegetação nativa para uso alternativo do solo, será devida compensação florestal equivalente a 1 x 1 (um hectare para cada hectare de intervenção); e
 
-VI – em áreas de reserva legal, para atividade ou obra considerada de utilidade pública, interesse social, exploração mineral, pesquisa científica ou construção de barragens, a compensação florestal devida será equivalente a 1 x 1 (um hectare para cada hectare de intervenção).<br>
+VI – em áreas de reserva legal, para atividade ou obra considerada de utilidade pública, interesse social, exploração mineral, pesquisa científica ou construção de barragens, a compensação florestal devida será equivalente a 1 x 1 (um hectare para cada hectare de intervenção).
+
 \- [Redação dada pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
 ~~VI – em áreas de reserva legal, para atividade ou obra considerada de utilidade pública, interesse social, exploração mineral, pesquisa científica ou construção de barragens, a compensação florestal devida será equivalente a 1 x 1 (um hectare para cada hectare de intervenção) e condicionada a realocação da RL dentro da propriedade ou realocação da RL extra propriedade ou ainda a doação de área equivalente em unidade de conservação.~~
@@ -339,13 +364,16 @@ VI – em áreas de reserva legal, para atividade ou obra considerada de utilida
 
 § 7º A conversão do uso do solo, em área de reserva legal, nos termos do inciso VI deste artigo, dependerá de prévia definição quanto ao critério da compensação, a ser definida no âmbito do CAR, e, no caso de atividades minerárias, incidirá adicional de 5% (cinco por cento) sobre o critério adotado nesta Lei.
 
-§ 8º No caso de empreendimentos considerados de utilidade pública ou interesse social, que vierem a afetar reservas legais próprias ou de terceiros, o empreendedor deverá realizar, à sua própria conta, as compensações devidas conforme o _caput_ deste artigo, entre as opções estabelecidas nos incisos I a VI do art. 15 desta Lei, observado ainda o disposto no art. 30 da [Lei nº 18.104](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90203), de 18 de julho de 2013.<br>
+§ 8º No caso de empreendimentos considerados de utilidade pública ou interesse social, que vierem a afetar reservas legais próprias ou de terceiros, o empreendedor deverá realizar, à sua própria conta, as compensações devidas conforme o _caput_ deste artigo, entre as opções estabelecidas nos incisos I a VI do art. 15 desta Lei, observado ainda o disposto no art. 30 da [Lei nº 18.104](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90203), de 18 de julho de 2013.
+
 \- [Acrescido pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
-§ 9º Na hipótese do § 8º deste artigo caberá ao empreendedor promover a comunicação, no CAR individual de cada imóvel cuja reserva legal foi afetada, para fins de registro, quanto à compensação da reserva legal da área afetada, ficando isento o proprietário rural cuja reserva legal foi afetada, de outras providências, conforme dispuser o regulamento do órgão ambiental competente, inclusive no tocante à fase de transição para adaptação do sistema de cadastro ambiental rural para atender essa obrigação.<br>
+§ 9º Na hipótese do § 8º deste artigo caberá ao empreendedor promover a comunicação, no CAR individual de cada imóvel cuja reserva legal foi afetada, para fins de registro, quanto à compensação da reserva legal da área afetada, ficando isento o proprietário rural cuja reserva legal foi afetada, de outras providências, conforme dispuser o regulamento do órgão ambiental competente, inclusive no tocante à fase de transição para adaptação do sistema de cadastro ambiental rural para atender essa obrigação.
+
 \- [Acrescido pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
-§ 10. Na hipótese do § 8º deste artigo, caso o empreendimento promova o isolamento de áreas de reservas legais de terceiros, na forma de capões ou fragmentos isolados na paisagem, deverá efetuar a compensação da reserva legal contemplando adicionalmente esses remanescentes, que poderão ter autorização de supressão concedida, aplicando-se o disposto no art. 50-A da [Lei nº 18.104](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90203), de 18 de julho de 2013.<br>
+§ 10. Na hipótese do § 8º deste artigo, caso o empreendimento promova o isolamento de áreas de reservas legais de terceiros, na forma de capões ou fragmentos isolados na paisagem, deverá efetuar a compensação da reserva legal contemplando adicionalmente esses remanescentes, que poderão ter autorização de supressão concedida, aplicando-se o disposto no art. 50-A da [Lei nº 18.104](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90203), de 18 de julho de 2013.
+
 \- [Acrescido pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
 Art. 22. Para a instalação de barragens, a compensação florestal devida será a recuperação da APP do próprio barramento, garantida no mínimo a proporcionalidade em área de 1 x 1 (um hectare de recuperação de APP para cada hectare de intervenção).
@@ -356,27 +384,34 @@ Art. 23. A compensação florestal prevista no art. 21 desta Lei poderá ser rea
 
 I – servidão ambiental conforme os arts. 9º– A, 9º– B e 9º– C da Lei federal nº 6.938, de 1981;
 
-II – doação de imóvel no interior de unidade de conservação para regularização fundiária;<br>
+II – doação de imóvel no interior de unidade de conservação para regularização fundiária;
+
 \- [Vide Decreto nº 10.899, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114180).
 
-III – plantio compensatório com espécies nativas, vinculado a servidão ambiental perpétua, conforme os arts. 9º– A, 9º– B e 9º– C da Lei federal nº 6.938, de 1981;<br>
+III – plantio compensatório com espécies nativas, vinculado a servidão ambiental perpétua, conforme os arts. 9º– A, 9º– B e 9º– C da Lei federal nº 6.938, de 1981;
+
 \- [Vide Decreto nº 10.899, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114180).
 
 IV – recuperação de área degradada no interior de unidade de conservação de proteção integral;
 
-V – participação em projetos de revitalização de bacias hidrográficas ou de recuperação ambiental, inclusive em áreas de mananciais de captação para abastecimento público, por meio do apoio financeiro equivalente ao valor de recuperação, por hectare devido, avaliado para o projeto; e<br>
+V – participação em projetos de revitalização de bacias hidrográficas ou de recuperação ambiental, inclusive em áreas de mananciais de captação para abastecimento público, por meio do apoio financeiro equivalente ao valor de recuperação, por hectare devido, avaliado para o projeto; e
+
 \- [Vide Decreto nº 10.899, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114180).
 
-VI – depósito em conta específica vinculada ao fundo de compensação ambiental de que trata o art. 85–A da [Lei nº 18.102](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90204), de 18 de julho de 2013, cujos valores serão direcionados para ações de recuperação ambiental, conforme valores equivalentes à obrigação estabelecida no inciso III deste artigo, cujos critérios serão definidos em regulamento do Poder Executivo estadual;<br>
-\- [Redação dada pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).<br>
+VI – depósito em conta específica vinculada ao fundo de compensação ambiental de que trata o art. 85–A da [Lei nº 18.102](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90204), de 18 de julho de 2013, cujos valores serão direcionados para ações de recuperação ambiental, conforme valores equivalentes à obrigação estabelecida no inciso III deste artigo, cujos critérios serão definidos em regulamento do Poder Executivo estadual;
+
+\- [Redação dada pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
+
 \- [Vide Decreto nº 10.899, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114180).
 
 ~~VI – depósito em conta específica vinculada ao fundo de compensação ambiental de que trata o art. 85– A da [Lei estadual nº 18.102](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90204/lei-18102), de 2013, conforme os valores estabelecidos no Anexo VI desta Lei.~~
 
-VII – créditos oriundos do não exercício do direito de conversão de uso do solo em áreas passíveis de autorização de supressão, conforme regulamento do Poder Executivo estadual; e<br>
+VII – créditos oriundos do não exercício do direito de conversão de uso do solo em áreas passíveis de autorização de supressão, conforme regulamento do Poder Executivo estadual; e
+
 \- [Acrescido pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
-VIII – projetos, próprios do interessado ou de terceiros, de arborização urbana, recuperação de nascentes, em áreas rurais ou urbanas, recuperação de áreas de preservação permanente urbanas degradadas ou formação e recuperação de parques urbanos, no mesmo município onde ocorreu a supressão, exclusivamente para compensações florestais e por danos, oriundas de desmatamentos em áreas urbanas, conforme o disposto em regulamento do Poder Executivo estadual.<br>
+VIII – projetos, próprios do interessado ou de terceiros, de arborização urbana, recuperação de nascentes, em áreas rurais ou urbanas, recuperação de áreas de preservação permanente urbanas degradadas ou formação e recuperação de parques urbanos, no mesmo município onde ocorreu a supressão, exclusivamente para compensações florestais e por danos, oriundas de desmatamentos em áreas urbanas, conforme o disposto em regulamento do Poder Executivo estadual.
+
 \- [Acrescido pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
 Parágrafo único. Em quaisquer hipóteses previstas neste artigo, a área objeto da compensação florestal ficará impedida a novas autorizações de supressão, e sua poligonal deverá ser averbada na matrícula do imóvel.
@@ -385,7 +420,8 @@ Art. 24. Ficam isentas da obrigação de compensação florestal:
 
 I – a conversão do uso do solo em propriedades rurais de até 2 (dois) hectares em áreas passíveis de supressão a ser realizada a cada 5 (cinco) anos, cujo material lenhoso seja destinado para uso na propriedade e desde que não seja em APP e RL, sujeita a registro, nos termos do inciso IX do art. 22 da [Lei estadual nº 20.694](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100893/lei-20694), de 2019;
 
-II – a conversão do uso do solo para o desenvolvimento das atividades de agricultura, pecuária e silvicultura, exceto quando se tratar da supressão de espécies florestais classificadas como imunes, criticamente em perigo, em perigo, protegidas, vulneráveis ou endêmicas;<br>
+II – a conversão do uso do solo para o desenvolvimento das atividades de agricultura, pecuária e silvicultura, exceto quando se tratar da supressão de espécies florestais classificadas como imunes, criticamente em perigo, em perigo, protegidas, vulneráveis ou endêmicas;
+
 \- [Redação dada pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
 ~~II – a conversão do uso do solo para o desenvolvimento das atividades de agricultura, pecuária e silvicultura, exceto quando se tratar da supressão de espécies florestais classificadas como imunes, criticamente em perigo, em perigo, protegidas, vulneráveis ou endêmicas;~~
@@ -398,10 +434,12 @@ V – a abertura de picadas, trilhas ou acesso para turismo e lazer com, no máx
 
 VI – a abertura de picadas, trilhas ou acesso no interior da propriedade para deslocamento de animais, máquinas e equipamentos com, no máximo, 2 (dois) metros de largura por propriedade ou fora de APP e RL, sujeita a registro, nos termos do inciso VI do art. 22 da [Lei estadual nº 20.694](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100893/lei-20694), de 2019;
 
-VII – a supressão de vegetação para uso temporário, não superior a 1 (um) ano, observada a recuperação ambiental da área afetada;<br>
+VII – a supressão de vegetação para uso temporário, não superior a 1 (um) ano, observada a recuperação ambiental da área afetada;
+
 \- [Acrescido pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
-VIII – a intervenção em área de preservação permanente para construção de pontes, pontilhões e travessias de cursos d’água, desde que a intervenção seja menor do que 2 (dois) hectares.<br>
+VIII – a intervenção em área de preservação permanente para construção de pontes, pontilhões e travessias de cursos d’água, desde que a intervenção seja menor do que 2 (dois) hectares.
+
 \- [Acrescido pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
 Art. 25. Será devida a reposição florestal pelas pessoas físicas ou jurídicas que adquiram ou utilizem o material lenhoso oriundo da supressão de vegetação nativa autorizada como matéria-prima florestal em suas atividades econômicas, nos termos do art. 33 da Lei federal nº 12.651, de 2012, e do art. 56 da [Lei estadual nº 18.104](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90203/lei-18104), de 2013, com a substituição da compensação florestal prevista nesta Lei.
@@ -438,7 +476,8 @@ II – por meio das associações ou das cooperativas de reposição florestal, 
 
 III – pela execução ou participação em programas de fomento florestal, estabelecidas pela SEMAD; e
 
-IV – pelo recolhimento ao fundo de compensação ambiental de que trata o art. 85– A da [Lei estadual nº 18.102/2013](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90204/lei-18102), do valor pecuniário equivalente aos custos de implantação e efetiva manutenção da reposição florestal, exceto quanto aos grandes consumidores não sediados em Goiás, sujeitos à reposição florestal mediante o plantio equivalente ao volume consumido, sendo:<br>
+IV – pelo recolhimento ao fundo de compensação ambiental de que trata o art. 85– A da [Lei estadual nº 18.102/2013](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90204/lei-18102), do valor pecuniário equivalente aos custos de implantação e efetiva manutenção da reposição florestal, exceto quanto aos grandes consumidores não sediados em Goiás, sujeitos à reposição florestal mediante o plantio equivalente ao volume consumido, sendo:
+
 \- [Vide Decreto nº 10.899, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114180), art. 9º, II.
 
 a) R$ 18,00 (dezoito reais) por m³ (metro cúbico) ;
@@ -447,22 +486,28 @@ b) R$ 36,00 (trinta e seis reais) por mdc (metro de carvão) ; e
 
 c) R$ 12,00 (doze reais) por st (estéreo) .
 
-§ 1º Nos casos em que não for possível estabelecer a volumetria devida, a reposição florestal levará em consideração os seguintes volumes:<br>
+§ 1º Nos casos em que não for possível estabelecer a volumetria devida, a reposição florestal levará em consideração os seguintes volumes:
+
 \- [Acrescido pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
-I – para o Bioma Mata Atlântica: 100 m³ (cem metros cúbicos) por hectare;<br>
+I – para o Bioma Mata Atlântica: 100 m³ (cem metros cúbicos) por hectare;
+
 \- [Acrescido pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
-II – para o Bioma Cerrado:<br>
+II – para o Bioma Cerrado:
+
 \- [Acrescido pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
-a) formação florestal: 40 m³ (quarenta metros cúbicos) por hectare;<br>
+a) formação florestal: 40 m³ (quarenta metros cúbicos) por hectare;
+
 \- [Acrescida pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
-b) formação savânica ou campestre: 20 m³ (vinte metros cúbicos) por hectare.<br>
+b) formação savânica ou campestre: 20 m³ (vinte metros cúbicos) por hectare.
+
 \- [Acrescida pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
-§ 2º Os valores previstos no inciso IV deste artigo serão reajustados anualmente pelo Índice Geral de Preços – Disponibilidade Interna (IGP-DI).<br>
+§ 2º Os valores previstos no inciso IV deste artigo serão reajustados anualmente pelo Índice Geral de Preços – Disponibilidade Interna (IGP-DI).
+
 \- [Acrescido pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
 Art. 29. O detentor da autorização de conversão do uso do solo ou supressão de vegetação deverá informar ao órgão ambiental licenciador o destino que será dado à matéria-prima de origem florestal para que a obrigação de reposição florestal seja estabelecida antes da emissão da autorização.
@@ -487,7 +532,8 @@ III – restrições e recomendações previstas em normas específicas, inclusi
 
 § 3º Nos casos em que o órgão licenciador reconhecer a inexistência de alternativa técnica e locacional, atestada pelo responsável técnico requerente, para a implantação de empreendimento ou atividade que acarrete o corte dessas espécies, a supressão poderá ser autorizada mediante a adoção de medidas compensatórias.
 
-Art. 32. A compensação pelo corte de espécies florestais Imunes de Corte, Criticamente em Perigo – CR, Em Perigo – EN, Vulneráveis – VU, protegidas ou endêmicas do Cerrado e da Mata Atlântica observará:<br>
+Art. 32. A compensação pelo corte de espécies florestais Imunes de Corte, Criticamente em Perigo – CR, Em Perigo – EN, Vulneráveis – VU, protegidas ou endêmicas do Cerrado e da Mata Atlântica observará:
+
 [\- Vide Instrução Normativa nº 4/2022 - SEMAD.](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17624)
 
 I – plantio de 9 (nove) mudas da mesma espécie para cada árvore suprimida para espécies classificadas como Imunes de Corte ou Criticamente em Perigo;
@@ -502,7 +548,8 @@ III – plantio de 5 (cinco) mudas da mesma espécie para cada árvore suprimida
 
 § 3º Será admitida a compensação por meio do plantio compensatório ou da doação de área em unidade de conservação de proteção integral, para a regularização fundiária, observada a mesma fitofisionomia.
 
-Art. 33. O plantio compensatório pela supressão de espécies classificadas nas categorias Imune de Corte, Criticamente em Perigo – CR, Em Perigo – EN, Vulnerável – VU, protegidas ou endêmicas do Cerrado ou endêmicas da Mata Atlântica poderá ser substituído pela destinação de uma área do imóvel objeto da solicitação, com cobertura vegetal nativa, correspondente a 5% (cinco por cento) da área total a ser suprimida, vinculada a instituição de servidão ambiental perpétua, nos termos dos arts. 9º-A, 9º-B e 9º-C da Lei federal nº 6.938, de 1981.<br>
+Art. 33. O plantio compensatório pela supressão de espécies classificadas nas categorias Imune de Corte, Criticamente em Perigo – CR, Em Perigo – EN, Vulnerável – VU, protegidas ou endêmicas do Cerrado ou endêmicas da Mata Atlântica poderá ser substituído pela destinação de uma área do imóvel objeto da solicitação, com cobertura vegetal nativa, correspondente a 5% (cinco por cento) da área total a ser suprimida, vinculada a instituição de servidão ambiental perpétua, nos termos dos arts. 9º-A, 9º-B e 9º-C da Lei federal nº 6.938, de 1981.
+
 [\- Vide Instrução Normativa nº 4/2022 - SEMAD.](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17624)
 
 § 1º A área destinada à instituição da servidão ambiental deverá ser contígua à área de preservação permanente e/ou à reserva legal do imóvel, sempre que possível.
@@ -513,7 +560,8 @@ Art. 33. O plantio compensatório pela supressão de espécies classificadas nas
 
 Art. 34. Na hipótese de supressão das espécies classificadas nas categorias Imune de Corte, Criticamente em Perigo – CR, Em Perigo – EN, Vulnerável – VU, protegidas ou endêmicas do Cerrado e típicas de fitofisionomias campestres, a compensação deverá ocorrer na forma de destinação de área de mesma fitofisionomia, no mesmo grau de conservação, para instituição de servidão ambiental perpétua nos termos dos arts. 9º-A, 9º-B e 9º-C da Lei federal nº 6.938, de 1981.
 
-Art. 34-A. Os valores da compensação financeira por danos para conversão do uso do solo realizada sem autorização ou licença até o dia 27 de dezembro de 2019, definidos no Anexo III desta Lei, terão seus valores corrigidos anualmente pelo Índice Geral de Preços – Disponibilidade Interna (IGP-DI).<br>
+Art. 34-A. Os valores da compensação financeira por danos para conversão do uso do solo realizada sem autorização ou licença até o dia 27 de dezembro de 2019, definidos no Anexo III desta Lei, terão seus valores corrigidos anualmente pelo Índice Geral de Preços – Disponibilidade Interna (IGP-DI).
+
 \- [Acrescido pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
 Art. 35. Esta Lei entra em vigor na data de sua publicação.
@@ -526,7 +574,8 @@ RONALDO CAIADO
 
 Governador do Estado
 
-ANEXO I<br>
+ANEXO I
+
 \- [Redação dada pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
 COMPENSAÇÃO FLORESTAL E COMPENSAÇÃO POR DANOS EM CASO DE SUPRESSÃO SEM AUTORIZAÇÃO OU LICENÇA, PARA IMPLANTAÇÃO DAS ATIVIDADES DE AGRICULTURA, PECUÁRIA E SILVICULTURA:
@@ -547,8 +596,10 @@ COMPENSAÇÃO FLORESTAL E COMPENSAÇÃO POR DANOS EM CASO DE SUPRESSÃO SEM AUTO
 | ~~ÁREAS DENTRO DE UNIDADES DE CONSERVAÇÃO~~ | ~~De acordo com plano de manejo~~ | ~~Lei nº 20.694, de 2019~~ | ~~De acordo com plano de manejo~~ |
 | ~~ÁREAS PASSÍVEIS DE SUPRESSÃO PARA USO ALTERNATIVO DO SOLO~~ | ~~Não se aplica~~ | ~~Não se aplica~~ | ~~Não~~ |
 
-ANEXO II<br>
-\- [Redação dada pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).<br>
+ANEXO II
+
+\- [Redação dada pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
+
 \- [Vide Decreto nº 10.899, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114180).
 
 COMPENSAÇÃO FLORESTAL E COMPENSAÇÃO POR DANOS EM CASO DE SUPRESSÃO SEM AUTORIZAÇÃO OU LICENÇA VISANDO À REGULARIZAÇÃO DA CONVERSÃO DO USO DO SOLO, EM ÁREAS PASSÍVEIS, PARA IMPLANTAÇÃO DE ATIVIDADES OU EMPREENDIMENTOS DE QUALQUER NATUREZA, REALIZADA SEM PRÉVIA AUTORIZAÇÃO, DEPOIS DO DIA 27 DE DEZEMBRO DE 2019
@@ -592,7 +643,8 @@ Sim, mediante autorização do órgão gestor
 | ~~EM ZONA DE AMORTECIMENTO DE UNIDADE DE CONSERVAÇÃO~~ | ~~1 X 1~~ | ~~1,5 X 1~~ | ~~Não~~ |
 | ~~ÁREAS PASSÍVEIS DE SUPRESSÃO PARA USO ALTERNATIVO DO SOLO~~ | ~~1 X 1~~ | ~~1 X 1~~ | ~~Nã~~o |
 
-ANEXO III<br>
+ANEXO III
+
 \- [Redação dada pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
 
 COMPENSAÇÃO FINANCEIRA POR DANOS PARA CONVERSÃO DO SOLO REALIZADO SEM AUTORIZAÇÃO OU LICENÇA ATÉ O DIA 27 DE DEZEMBRO DE 2019
@@ -621,7 +673,8 @@ Observação: será aplicado, somente à administração direta e autarquias, de
 
 ~~Observação: será aplicado, somente à administração direta e autarquias, desconto de até 80% com obra financiada com recurso do Tesouro Estadual.~~
 
-~~ANEXO IV~~<br>
+~~ANEXO IV~~
+
 \- [Revogado pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017) , art. 8º, I.
 
 ~~– COMPENSAÇÃO FINANCEIRA POR DANOS PARA CONVERSÃO DO SOLO REALIZADO SEM AUTORIZAÇÃO OU LICENÇA APÓS O DIA 27 DE DEZEMBRO DE 2019~~
@@ -635,8 +688,10 @@ Observação: será aplicado, somente à administração direta e autarquias, de
 | ~~100 (CEM) A 500 (QUINHENTOS)~~ | ~~R$ 1.600,00 (mil e seiscentos reais)~~ |
 | ~~ACIMA DE 500 (QUINHENTOS)~~ | ~~R$ 2.000,00 (dois mil reais)~~ |
 
-ANEXO V<br>
-\- [Redação dada pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).<br>
+ANEXO V
+
+\- [Redação dada pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017).
+
 \- [Vide Decreto nº 10.899, de 30-4-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114180).
 
 COMPENSAÇÃO FLORESTAL DEVIDA PELA CONVERSÃO DO USO DO SOLO AUTORIZADA MEDIANTE LICENÇA, QUANDO DEVIDA
@@ -663,7 +718,8 @@ COMPENSAÇÃO FLORESTAL DEVIDA PELA CONVERSÃO DO USO DO SOLO AUTORIZADA MEDIANT
 | ~~ÁREAS PASSÍVEIS DE SUPRESSÃO PARA USO ALTERNATIVO DO SOLO~~ | ~~1 X 1~~ | ~~Não~~ |
 | ~~EM ÁREA DE RESERVA LEGAL, COM INTERVENÇÃO PERMITIDA POR LEI (UTILIDADE PÚBLICA OU INTERESSE SOCIAL, CONFORME AS ALÍNEAS “E”, “F” E “G” DO INCISO IX DO ART. 3º DA LEI FEDERAL Nº 12.651, DE 2012) OU PARA EXPLORAÇÃO MINERAL, PESQUISA CIENTÍFICA OU CONSTRUÇÃO DE BARRAGENS, MEDIANTE O LICENCIAMENTO DO ÓRGÃO AMBIENTAL ESTADUAL COMPETENTE~~ | ~~1 X 1~~ | ~~Condicionada a realocação da RL dentro da propriedade ou realocação da RL extra propriedade ou ainda doação de área equivalente em unidade de conservação~~ |
 
-~~ANEXO VI~~<br>
+~~ANEXO VI~~
+
 \- [Revogado pela Lei nº 22.017, de 14-6-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107233/lei-22017), art. 8º, I.
 
 ~~COMPENSAÇÃO FINANCEIRA PARA CONVERSÃO DO SOLO REALIZADO COM AUTORIZAÇÃO, QUANDO APLICÁVEL, NOS TERMOS DESTA LEI~~

@@ -1,5 +1,3 @@
-###DEC-083611-0-000-25-06-1979@@@
-
 Decreto nº 83.611, de 25 de junho de 1979.
 
 Regulamenta o artigo 17 e seus parágrafos do Decreto-lei nº 5, de 04 de abril de 1966, com a nova redação dada pela Lei nº 5.480, de 10 de agosto de 1968, baixando normas para a execução do serviço de vigilância em navios por vigias portuários, para o exercício da profissão e dá providências.

@@ -1,5 +1,3 @@
-###DEC-094326-0-000-13-05-1987@@@
-
 DECRETO Nº 94.326, DE 13 DE MAIO DE 1987
 
 Dispõe sobre a coordenação do programa nacional do Centenário da Abolição da Escravatura.

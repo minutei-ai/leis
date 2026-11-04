@@ -1,5 +1,3 @@
-###DEC-049196-0-000-09-11-1960@@@
-
 Decreto nº 49.196, de 9 de novembro de 1960.
 
 Autoriza a cessão gratuita do imóvel que menciona, situado no Estado da Guanabara.

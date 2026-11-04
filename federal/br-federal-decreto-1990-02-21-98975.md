@@ -1,7 +1,3 @@
-1
-
-###DEC-098975-0-000-21-02-1990@@@
-
 DECRETO Nº 98.975, DE 21 DE FEVEREIRO DE 1990
 
 Outorga concessão à RÁDIO E TELEVISÃO NORTE  LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade do Rio Branco, Estado do Acre.

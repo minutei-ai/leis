@@ -1,5 +1,3 @@
-###DEC-046854-0-000-15-09-1959@@@
-
 decreto nº 46.854, de 15 de setembro de 1959.
 
 Transfere do Estado do Paraná para a Companhia Paranaense de Energia Elétrica (COPEL) a concessão para a produção e fornecimento de energia elétrica ao município de Maringá, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-072000-0-000-27-03-1973@@@
-
 DECRETO Nº 72.000, de 27 de março de 1973.
 
 Concede à Companhia Estanifera do Brasil o direito de lavrar petalita e feldspato no Município de Itinga, Estado de Minas Gerais.

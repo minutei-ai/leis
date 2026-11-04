@@ -1,5 +1,3 @@
-###DEL-000119-0-000-31-01-1967@@@
-
 DECRETO-LEI Nº 119, DE 31 DE JANEIRO DE 1967
 
 Autoriza o Serviço de Navegação da Bacia do Prata (SNBP) a alienar, em concorrência pública, o navio “Cidade Murtinho” de sua propriedade.

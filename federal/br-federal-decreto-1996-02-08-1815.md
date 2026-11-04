@@ -1,5 +1,3 @@
-###DEC-001815-0-000-08-02-1996@@@
-
 DECRETO Nº 1.815, DE 8 DE FEVEREIRO DE 1996
 
 Dispõe sobre o Imposto sobre Operações de Crédito, Câmbio e Seguro e sobre Operações relativas a Títulos e Valores Mobiliários - IOF.

@@ -1,5 +1,3 @@
-###DEL-006448-0-000-28-04-1944@@@
-
 DECRETO LEI N. 6.448 – DE 28 DE ABRIL DE 1944
 
 Dá nova redação ao art. 226 do Decreto-lei nº 739, de 24 de setembro de 1938

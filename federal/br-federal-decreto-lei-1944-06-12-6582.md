@@ -1,5 +1,3 @@
-###DEL-006582-0-000-12-06-1944@@@
-
 DECRETO-LEI N. 6.582 – DE 12 DE JUNHO DE 1944
 
 Dispõe sôbre funções gratificadas dos Aprendizados Agrícolas “Ildefonso Simões Lopes” e “Gustavo Dutra”, do Ministério da Agricultura

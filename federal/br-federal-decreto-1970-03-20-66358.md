@@ -1,5 +1,3 @@
-###DEC-066358-0-000-20-03-1970@@@
-
 DECRETO Nº 66.358 - DE 20 DE MARÇO DE 1970
 
 Revoga o Decreto que concedeu à empresa Casa Leon Weil Sociedad Anonima Comercial autorização para funcionar na República Federativa do Brasil.

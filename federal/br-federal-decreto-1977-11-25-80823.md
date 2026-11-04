@@ -1,5 +1,3 @@
-###DEC-080823-0-000-25-11-1977@@@
-
 DECRETO Nº 80.823, DE 25 DE NOVEMBRO DE 1977.
 
 Autoriza o Sindicato dos Despachantes Aduaneiros de Santos a filiar-se à Associação Americana de Profissionais Aduaneiros - ASAPRA.

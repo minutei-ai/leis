@@ -1,5 +1,3 @@
-###DEC-075576-0-000-08-04-1975@@@
-
 DECRETO Nº 75.576, DE 8 DE ABRIL DE 1975.
 
 Autoriza o funcionamento do curso de Engenharia Civil da Faculdade de Engenharia São Paulo, mantida pela Sociedade Educacional São Paulo, com sede na Cidade de São Paulo, Estado de São Paulo.

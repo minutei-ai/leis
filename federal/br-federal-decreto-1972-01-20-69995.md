@@ -1,5 +1,3 @@
-###DEC-069995-0-000-20-01-1972@@@
-
 DECRETO Nº 69.995, DE 20 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Irmandade da Santa Casa de Misericórdia de Laranjal Paulista, com sede em Laranjal Paulista, Estado de São Paulo.

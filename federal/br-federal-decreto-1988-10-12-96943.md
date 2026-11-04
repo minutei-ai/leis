@@ -1,5 +1,3 @@
-###DEC-096943-0-000-12-10-1988@@@
-
 # DECRETO Nº 96.943, DE 12 DE OUTUBRO DE 1988
 
 Dispõe sobre os incentivos e créditos oficiais a projetos agrícolas e pecuários na Amazônia Legal e dá outras providências.

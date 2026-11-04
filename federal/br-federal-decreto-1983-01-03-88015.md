@@ -1,5 +1,3 @@
-###DEC-088015-0-000-03-01-1983@@@
-
 Decreto nº 88.015, de 03 de janeiro de 1983.
 
 Outorga à Centrais Elétricas do Sul do Brasil S.A. -ELETROSUL concessão para o aproveitamento de energia hidráulica de um trecho do Rio Uruguai, nos Municípios de Itá e Aratiba, Estados de Santa Catarina e Rio Grande do Sul.

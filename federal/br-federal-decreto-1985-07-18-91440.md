@@ -1,5 +1,3 @@
-###DEC-091440-0-000-18-07-1985@@@
-
 Decreto nº 91.440, de 18 de julho de 1985
 
 Renova a concessão outorgada à RÁDIO PROGRESSO DE ALAGOAS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Maceió, Estado de Alagoas.

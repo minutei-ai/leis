@@ -1,5 +1,3 @@
-###DEC-069553-0-000-18-11-1971@@@
-
 DECRETO Nº 69.553 - DE 18 DE NOVEMBRO DE 1971
 
 Institui a Fundação Alexandre de Gusmão.

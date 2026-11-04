@@ -1,5 +1,3 @@
-###DEC-045871-0-000-25-04-1959@@@
-
 DECRETO Nº 45.871, DE 25 DE ABRIL DE 1959.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$12.000.000,00 para atender as despesas com a realização do V Congresso Nacional de Municípios.

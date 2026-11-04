@@ -1,5 +1,3 @@
-###DEC-046142-0-000-05-06-1959@@@
-
 DECRETO N. 46.142 – DE 5 DE JUNHO DE 1959
 
 Abre, ao Poder Judiciário justiça Eleitoral –   Tribunal Regional Eleitoral de Goiás, o crédito especial de Cr$ 300.000,00 para o fim que especifica.

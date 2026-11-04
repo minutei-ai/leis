@@ -1,7 +1,3 @@
-1
-
-###MPV-000716-0-000-18-11-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 716, DE 18 DE NOVEMBRO DE 1994
 
 Dispõe sobre a assunção, pela União, de crédito da Export Development Corporation (EDC) e de debêntures emitidas pela EMBRAER - Empresa Brasileira de Aeronáutica S.A., bem como sobre a utilização de créditos da União junto à EMBRAER - Empresa Brasileira de Aeronáutica S.A.

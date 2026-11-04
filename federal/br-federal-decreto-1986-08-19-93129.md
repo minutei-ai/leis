@@ -1,5 +1,3 @@
-###DEC-093129-0-000-19-08-1986@@@
-
 DECRETO Nº 93.129, DE 19 DE AGOSTO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação transformador de distribuição Ferraz da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

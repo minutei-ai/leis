@@ -14,8 +14,10 @@ Art. 2º Este Decreto entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito de Aparecida de Goiânia-GO, 05 de dezembro de 2024.
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito
 
-ALANNA RITIELLE P. DE ARAÚJO FRANÇA<br>
+ALANNA RITIELLE P. DE ARAÚJO FRANÇA
+
 Secretária de Governo

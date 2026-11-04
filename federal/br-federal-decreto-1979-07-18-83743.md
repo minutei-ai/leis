@@ -1,5 +1,3 @@
-###DEC-083743-0-000-18-07-1979@@@
-
 Decreto nº 83.743, de 18 de julho de 1979
 
 Concede à Cimentos do Brasil S.A - CIBRASA o direito de lavrar calcário no Município de Capanema, Estado de Pará.

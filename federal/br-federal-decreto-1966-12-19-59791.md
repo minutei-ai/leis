@@ -1,5 +1,3 @@
-###DEC-059791-0-000-19-12-1966@@@
-
 DECRETO Nº 59.791, DE 19 DE DEZEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Arthur Herman Lundgren a lavrar fosfatos, no município de Paulista - Estado de Pernambuco.

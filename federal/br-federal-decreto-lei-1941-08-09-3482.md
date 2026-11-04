@@ -1,5 +1,3 @@
-###DEL-003482-0-000-09-08-1941@@@
-
 DECRETO-LEI N. 3.482 – DE 9 DE AGOSTO DE 1941
 
 Autoriza o Prefeito do Distrito Federal a conceder o título de cidadão honorário da cidade do Rio de Janeiro ao Doutor Julio Dantas

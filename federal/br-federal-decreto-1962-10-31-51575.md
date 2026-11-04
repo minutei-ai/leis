@@ -1,5 +1,3 @@
-###DEC-051575-0-000-31-10-1962@@@
-
 DECRETO Nº 51.575, DE 31 DE OUTUBRO DE 1962.
 
 Atribui poderes ao Presidente da Comissão Federal de Abastecimento e Preços.

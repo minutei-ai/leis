@@ -1,5 +1,3 @@
-###DEC-067543-0-000-12-11-1970@@@
-
 decreto nº 67.543, de 12 de novembro de 1970.
 
 Restabelece cargo de Tesoureiro Auxiliar do antigo Quadro III, Parte Suplementar, do ex-Ministério da Viação e Obras Públicas.

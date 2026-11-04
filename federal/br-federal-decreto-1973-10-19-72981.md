@@ -1,5 +1,3 @@
-###DEC-072981-0-000-19-10-1973@@@
-
 DECRETO Nº 72.981, DE 19 DE OUTUBRO DE 1973.
 
 Torna sem efeito aproveitamento de disponível do INPS no Quadro de Pessoal do Ministério da Educação e Cultura.

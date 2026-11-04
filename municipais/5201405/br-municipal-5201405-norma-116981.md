@@ -296,8 +296,10 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 2
 
  
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 PREFEITO MUNICIPAL
 
-ELI DE FARIA<br>
+ELI DE FARIA
+
 SECRETÁRIO EXECUTIVO

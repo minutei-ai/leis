@@ -1,5 +1,3 @@
-###DEC-006547-0-000-25-08-2008@@@
-
 DECRETO Nº 6.547, DE 25 DE AGOSTO DE 2008.
 
 Altera o art. 4o do Decreto n~~º~~ 4.732, de 10 de junho de 2003, que dispõe sobre a Câmara de Comércio Exterior - CAMEX, do Conselho de Governo.

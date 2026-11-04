@@ -1,5 +1,3 @@
-###DEC-074466-0-000-27-08-1974@@@
-
 DECRETO nº 74.466, DE 27 DE AGOSTO DE 1974.
 
 Concede autorização, em caráter permanente, à Fábrica de Tecidos Tatuapé S.A, com sede na Capital do Estado de São Paulo, para funcionar aos domingos e nos dias feriados civis e religiosos, nos setores que menciona.

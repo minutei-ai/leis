@@ -1,5 +1,3 @@
-###DEC-047036-0-000-15-10-1959@@@
-
 DECRETO Nº 47.036, DE 15 DE OUTUBRO DE 1959.
 
 Altera o Regulamento da Ordem do Mérito Médico, aprovado pelo Decreto nº 29.198, de 24 de janeiro de 1951.

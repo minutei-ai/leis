@@ -1,5 +1,3 @@
-###DEC-072739-0-000-04-09-1973@@@
-
 decreto nº 72.739, de 4 de setembro de 1973.
 
 Concede à Mineração Cambuí S.A . o direito de lavrar argila no Município de Balsa Nova, Estado do Paraná.

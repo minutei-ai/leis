@@ -1,5 +1,3 @@
-###DEL-002277-0-000-02-04-1985@@@
-
 # DECRETO Nº 2.277, DE 02 DE ABRIL DE 1985
 
 Reajusta os limites de que trata o art. 1º do Decreto-lei nº 1.312, de 15 de fevereiro de 1974, alterado pelos Decretos-leis nºs 1.460, de 22 de abril de 1976, 1.562, de 19 de julho de 1977, 1.651, de 21 de dezembro de 1978, 1.756, de 31 de dezembro de 1979, e 2.048, de 26 de julho de 1983.

@@ -1,5 +1,3 @@
-###DEC-062496-0-000-01-04-1968@@@
-
 DECRETO Nº 62.496, DE 1º DE ABRIL DE 1968.
 
 Aprova aditamento à Ata de Constituição da Companhia Docas do Pará, para o fim de incluir o artigo 26 de seus Estatutos Sociais.

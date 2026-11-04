@@ -1,5 +1,3 @@
-###DEC-062035-0-000-29-12-1967@@@
-
 Decreto nº 62.035, de 29 de Dezembro de 1967.
 
 Autoriza a Companhia Brasileira de Alumínio a lavrar bauxita no município de poços de Caldas, Estado de Minas Gerais.
@@ -27,8 +25,6 @@ Brasília, 29 de dezembro de 1967; 146º da Independência e 79º da República.
 A. Costa e Silva
 
 José Costa Cavalcanti
-
-###DEC-062035-0-000-29-12-1967@@@@RET01+++
 
 DECRETO Nº 62.035, DE 29 DE DEZEMBRO DE 1967.
 

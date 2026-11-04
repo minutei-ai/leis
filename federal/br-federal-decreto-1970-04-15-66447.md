@@ -1,5 +1,3 @@
-###DEC-066447-0-000-15-04-1970@@@
-
 DECRETO Nº 66.447, DE 15 DE ABRIL DE 1970.
 
 Retifica o Decreto nº 65.435, de 13 de outubro de 1969, que redistribuiu para o Quadro Único de Pessoal - Parte Especial da Universidade Federal do Rio de Janeiro cargos originários dos extintos Lloyd Brasileiro - Patrimônio Nacional e Companhia Nacional de Navegação Costeira - Autarquia Federal.

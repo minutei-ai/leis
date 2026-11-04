@@ -1,5 +1,3 @@
-###DEC-084479-0-000-13-02-1980@@@
-
 DECRETO Nº 84.479, DE 13 DE FEVEREIRO DE 1980
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária – INCRA a doar o imóvel que menciona.

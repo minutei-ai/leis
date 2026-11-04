@@ -1,19 +1,21 @@
-**LEI COMPLEMENTAR N° 231, DE 15 DE DEZEMBRO DE 2005.**<br>
-<br>
-Autor: Poder Executivo<br>
-. Consolidada até LC 473/12.<br>
-. Alterada pelas Leis Complementares [244/06](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/f5f8f082a324c01c0425715c0066e97c?OpenDocument#LEICOMPLEMENTAR%20N%C2%BA%20244%2C%20DE%2017%20DE), [248/06](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/02edb1801dcea985042571b00056b9e2?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20248%2C%20DE), [279/07,](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/0a417d85122e9126042573540052c95f?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20279%2C) [285/07,](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/17f2418264082fe2042573a3003f9565?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20285%2C%20DE%2029) [336/08,](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/5862ba9caf5ac7120425750b0064fe56?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20336%2C%20DE%2019%20DE) [348/09,](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/be2c730f4bd92857042575980049fd76?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20348%2C%20DE%2013) [366/09,](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/9313fbb38db573eb842576550048fc5e?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20366%2C%20DE%2007%20DE) [386/10](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/4107f1dc01b62c99842576e0006da14d?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20386%2C%20DE%2005), [408/10](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/25dd3b579262691a84257757007c9c20?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20408%2C), [453/11](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/33e6a4b75c7802878425796d006a0d2f?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20453%2C%20DE%2020), [473/12](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/42e9c8966b1bb92284257a68005f6731?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20473%2C%20DE%2027%20D)<br>
-. Revogada pela LC [555/14](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/d314360abff2a92484257dc100692fb3?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20555%2C%20DE), com ressalva quanto aos dispositivos que tratam da etapa fardamento, que permanecem em vigor até 1º de janeiro de 2016.<br>
+**LEI COMPLEMENTAR N° 231, DE 15 DE DEZEMBRO DE 2005.**
+
+Autor: Poder Executivo
+
+. Consolidada até LC 473/12.
+
+. Alterada pelas Leis Complementares [244/06](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/f5f8f082a324c01c0425715c0066e97c?OpenDocument#LEICOMPLEMENTAR%20N%C2%BA%20244%2C%20DE%2017%20DE), [248/06](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/02edb1801dcea985042571b00056b9e2?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20248%2C%20DE), [279/07,](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/0a417d85122e9126042573540052c95f?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20279%2C) [285/07,](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/17f2418264082fe2042573a3003f9565?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20285%2C%20DE%2029) [336/08,](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/5862ba9caf5ac7120425750b0064fe56?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20336%2C%20DE%2019%20DE) [348/09,](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/be2c730f4bd92857042575980049fd76?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20348%2C%20DE%2013) [366/09,](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/9313fbb38db573eb842576550048fc5e?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20366%2C%20DE%2007%20DE) [386/10](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/4107f1dc01b62c99842576e0006da14d?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20386%2C%20DE%2005), [408/10](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/25dd3b579262691a84257757007c9c20?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20408%2C), [453/11](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/33e6a4b75c7802878425796d006a0d2f?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20453%2C%20DE%2020), [473/12](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/42e9c8966b1bb92284257a68005f6731?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20473%2C%20DE%2027%20D)
+
+. Revogada pela LC [555/14](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/d314360abff2a92484257dc100692fb3?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20555%2C%20DE), com ressalva quanto aos dispositivos que tratam da etapa fardamento, que permanecem em vigor até 1º de janeiro de 2016.
 
 **Dispõe sobre o Estatuto dos Militares do Estado de Mato Grosso.**
 
 **A ASSEMBLÉIA LEGISLATIVA DO ESTADO DE MATO GROSSO**, tendo em vista o que dispõe o art. 45 da Constituição Estadual, aprova e o Governador do Estado sanciona a seguinte lei complementar:
 
-<br>
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
+
 **Das Disposições Preliminares**
 
-<br>
 **Art. 1º** O presente Estatuto regula a situação, obrigações, deveres, direitos e prerrogativas dos militares do Estado de Mato Grosso.
 
 **Art. 2º** Os militares do Estado de Mato Grosso integram a Polícia Militar do Estado de Mato Grosso (PM/MT) e o Corpo de Bombeiros Militar do Estado de Mato Grosso (CBM/MT), instituições militares estaduais permanentes, integrantes do sistema de segurança pública e defesa social, organizadas com base na hierarquia e na disciplina.
@@ -48,29 +50,31 @@ Parágrafo único. Unidade Militar Estadual (UME), Unidade Policial Militar/Unid
 
 **Art. 9º** Sede é todo o território do município ou, quando for o caso, dos municípios vizinhos, quando ligados por freqüentes meios de transportes, dentro do qual se localizam as instalações de uma Unidade Militar Estadual.
 
-<br>
-**CAPÍTULO II**<br>
+**CAPÍTULO II**
+
 **Do Ingresso e da Carreira**
 
-**Seção I**<br>
+**Seção I**
+
 **Do Ingresso**
 
-<br>
 **Art. 10** O ingresso nas carreiras militares é facultado a todos os brasileiros, sem distinção de raça ou crença religiosa, mediante concurso público, observadas as condições prescritas nesta lei complementar.
 
 § 1º _(revogado)_ **_LC_** [**_408/10_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/25dd3b579262691a84257757007c9c20?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20408%2C)
 
-**Redação original:**<br>
+**Redação original:**
+
 § 1º O curso de formação constituirá uma das fases do concurso público fazendo jus o aluno a uma bolsa (estudantil) com valor definido em lei, e estando este sujeito a todas as normas e regulamentos da carreira militar.
 
 § 2º _(revogado)_ **_LC_** [**_408/10_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/25dd3b579262691a84257757007c9c20?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20408%2C)
 
-**Redação original:**<br>
+**Redação original:**
+
 § 2º Não tendo o aluno alcançado o aproveitamento mínimo exigido para a sua aprovação no curso de formação será automaticamente eliminado do concurso público.
 
-§ 3º O curso de formação constituirá uma das fases do concurso público fazendo jus o aluno a uma bolsa formação com valor definido em edital, estando este sujeito a todas as normas e regulamentos da carreira militar. **_(Acrescentado pela_** [**_LC 453/11_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/33e6a4b75c7802878425796d006a0d2f?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20453%2C%20DE%2020)**_, e_****_feitos financeiros a partir de 1º/05/11.)_**<br>
-<br>
-§ 4º Não tendo o aluno alcançado o aproveitamento mínimo exigido para a sua aprovação no curso de formação será automaticamente eliminado do concurso público**.** **_(Acrescentado pela_** [**_LC 453/11_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/33e6a4b75c7802878425796d006a0d2f?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20453%2C%20DE%2020)**_)_**
+§ 3º O curso de formação constituirá uma das fases do concurso público fazendo jus o aluno a uma bolsa formação com valor definido em edital, estando este sujeito a todas as normas e regulamentos da carreira militar. **_(Acrescentado pela_** [**_LC 453/11_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/33e6a4b75c7802878425796d006a0d2f?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20453%2C%20DE%2020)**_, e__feitos financeiros a partir de 1º/05/11.)_**
+
+§ 4º Não tendo o aluno alcançado o aproveitamento mínimo exigido para a sua aprovação no curso de formação será automaticamente eliminado do concurso público**._(Acrescentado pela_** [**_LC 453/11_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/33e6a4b75c7802878425796d006a0d2f?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20453%2C%20DE%2020)**_)_**
 
 **Art. 11** São requisitos para ingresso nas carreiras militares:
 
@@ -78,7 +82,8 @@ I - ser brasileiro;
 
 II - estar, no mínimo, com 18 (dezoito) e, no máximo, com 30 (trinta) anos; **_(Nova redação dada pela LC_** [**_366/09_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/9313fbb38db573eb842576550048fc5e?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20366%2C%20DE%2007%20DE)**_)._**
 
-**Redação original:**<br>
+**Redação original:**
+
 II - estar, no mínimo, com dezoito e, no máximo, com vinte e cinco anos;
 
 III - possuir ilibada conduta pública e privada;
@@ -95,35 +100,34 @@ VIII - ser considerado aprovado em sindicância sobre sua vida pregressa, onde l
 
 IX - possuir, no mínimo, ensino médio completo.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Das Carreiras Militares Estaduais**
 
-**Subseção I**<br>
+**Subseção I**
+
 **Do Nível Hierárquico Superior**
 
-<br>
 **Art. 12** O nível hierárquico superior das carreiras militares é composto pelos Oficiais das instituições militares estaduais.
 
 § 1º O Aspirante-a-Oficial PM/BM, também denominado Praça Especial, para os efeitos desta lei complementar, compõe nível hierárquico superior das carreiras militares.
 
 § 2º O ingresso no nível hierárquico superior das carreiras militares dar-se-á como aluno-a-oficial da instituição militar estadual, para o Quadro de Oficiais Combatente (QOCPM/QOCBM) e de Saúde (QOSPM/QOSBM).
 
-<br>
-**Subseção II**<br>
+**Subseção II**
+
 **Do Nível Hierárquico Médio**
 
-<br>
 **Art. 13** O nível hierárquico médio das carreiras militares é formado por praças das instituições militares estaduais.
 
-<br>
-**CAPÍTULO III**<br>
+**CAPÍTULO III**
+
 **Do Cargo Militar, das Substituições, da Função Militar e da Estabilidade**
 
-**Seção I**<br>
+**Seção I**
+
 **Do Cargo Militar**
 
-<br>
 **Art. 14** Cargo militar é aquele que só pode ser exercido por militar estadual em serviço ativo e que se encontra especificado nos Quadros de Organização das Corporações estabelecidos nesta lei complementar.
 
 § 1º A cada cargo militar corresponde um conjunto de atribuições, deveres e responsabilidades que configuram as obrigações do respectivo titular.
@@ -152,27 +156,32 @@ VII - tenha sido excluído.
 
 Parágrafo único. O declarante, a seu critério, poderá entregar cópia da declaração anual de bens apresentada à Delegacia da Receita Federal na conformidade da legislação do Imposto sobre a Renda e Proventos de Qualquer Natureza, com as necessárias atualizações, para suprir a exigência contida no _caput_.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Das Substituições**
 
-<br>
 **Art. 16** Nos casos de ausência ou impedimento eventual do titular do cargo, a substituição dar-se-á mediante designação, que terá sempre caráter temporário.
 
 **Art. 17** _(revogado)_ [**LC 453/11**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/33e6a4b75c7802878425796d006a0d2f?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20453%2C%20DE%2020)
 
-**Redação original:**<br>
-**Art. 17** O substituto faz jus à remuneração equivalente à do titular do posto ou graduação, devendo a Diretoria de Recursos Humanos independente de requerimento incluir na folha de pagamento a respectiva diferença, desde que o período de substituição seja igual ou superior a 30 (trinta) dias.<br>
-Parágrafo único. O disposto neste artigo também se aplica aos militares que forem nomeados ou designados para exercerem cargos e funções privativas de militares de grau hierárquico superior.<br>
-**Redação anterior,** renumerado de § unico para §1º pela LC. 244/2006<br>
-§ 1º O disposto neste artigo também se aplica aos militares que forem nomeados ou designados para exercerem cargos e funções privativas de militares de grau hierárquico superior, ressalvados os casos em que houver mais de um posto ou graduação de diferença entre o titular e seu substituto, quando a remuneração do substituto será igual a do posto ou graduação imediatamente superior ao seu.<br>
-**Redação original,** acrescentado dada pela LC. [244/2006](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/f5f8f082a324c01c0425715c0066e97c?OpenDocument#LEICOMPLEMENTAR%20N%C2%BA%20244%2C%20DE%2017%20DE)<br>
+**Redação original:**
+
+**Art. 17** O substituto faz jus à remuneração equivalente à do titular do posto ou graduação, devendo a Diretoria de Recursos Humanos independente de requerimento incluir na folha de pagamento a respectiva diferença, desde que o período de substituição seja igual ou superior a 30 (trinta) dias.
+
+Parágrafo único. O disposto neste artigo também se aplica aos militares que forem nomeados ou designados para exercerem cargos e funções privativas de militares de grau hierárquico superior.
+
+**Redação anterior,** renumerado de § unico para §1º pela LC. 244/2006
+
+§ 1º O disposto neste artigo também se aplica aos militares que forem nomeados ou designados para exercerem cargos e funções privativas de militares de grau hierárquico superior, ressalvados os casos em que houver mais de um posto ou graduação de diferença entre o titular e seu substituto, quando a remuneração do substituto será igual a do posto ou graduação imediatamente superior ao seu.
+
+**Redação original,** acrescentado dada pela LC. [244/2006](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/f5f8f082a324c01c0425715c0066e97c?OpenDocument#LEICOMPLEMENTAR%20N%C2%BA%20244%2C%20DE%2017%20DE)
+
 § 2º Para o cumprimento do disposto neste artigo dever-se-á observar Decreto a ser editado pelo Poder Executivo.
 
-**Seção III**<br>
+**Seção III**
+
 **Da Função Militar**
 
-<br>
 **Art. 18** É considerado no exercício de função militar, o militar estadual da ativa ocupante dos seguintes cargos:
 
 I - estabelecidos no âmbito da corporação a que pertence;
@@ -207,28 +216,30 @@ VIII - outros órgãos estaduais, desde que expressamente designados pelo Govern
 
 §5º - _(revogado)_ [**_LC. 386/10_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/4107f1dc01b62c99842576e0006da14d?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20386%2C%20DE%2005)
 
-**Redação original:**<br>
+**Redação original:**
+
 § 5º O militar estadual nomeado para o cargo de natureza militar será agregado, não acarretando abertura de vagas para efeito de promoção.
 
 **Art. 20** - _(revogado)_ [**_LC. 386/10_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/4107f1dc01b62c99842576e0006da14d?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20386%2C%20DE%2005)
 
-**Redação original:**<br>
-Art. 20 Os militares da ativa, no exercício de cargo ou função enquadrado nos incisos do artigo anterior desta lei complementar, somente poderão permanecer nesta situação por um período de 04 (quatro) anos, prorrogável por igual período.<br>
+**Redação original:**
+
+Art. 20 Os militares da ativa, no exercício de cargo ou função enquadrado nos incisos do artigo anterior desta lei complementar, somente poderão permanecer nesta situação por um período de 04 (quatro) anos, prorrogável por igual período.
+
 Parágrafo único. O não-cumprimento do disposto no caput implicará em responsabilidade para o militar estadual e para a autoridade a qual esteja diretamente subordinado, estando ainda o militar sujeito a prejuízo em sua promoção ou progressão na carreira, conforme dispuser a legislação.
 
-**CAPÍTULO IV**<br>
+**CAPÍTULO IV**
+
 **Da Estabilidade do Militar**
 
-<br>
 **Art. 21** O praça atinge a estabilidade quando ultrapassa 03 (três) anos de efetivo serviço, a contar da data de declaração de Soldado PM/BM classe “A”.
 
 Parágrafo único. O Aspirante-a-Oficial possui estabilidade a partir do ato de declaração de aspirante.
 
-<br>
-**CAPÍTULO V**<br>
+**CAPÍTULO V**
+
 **Da Hierarquia e da Disciplina**
 
-<br>
 **Art. 22** A hierarquia e a disciplina são as bases institucionais das corporações militares estaduais.
 
 Parágrafo único**.** A autoridade e a responsabilidade do militar estadual crescem juntamente com o grau hierárquico.
@@ -293,14 +304,14 @@ III - entre os alunos de um mesmo órgão de formação de militar estadual, de 
 
 § 4º Para efeito de antiguidade relacionada neste artigo, os integrantes dos Quadros de Oficiais e Praças das instituições militares estaduais (QOPM/BM e QPPM/BM) terão precedência sobre os demais quadros.
 
-<br>
-**CAPÍTULO VI**<br>
+**CAPÍTULO VI**
+
 **Da Ética, dos Valores e dos Deveres dos Militares Estaduais**
 
-**Seção I**<br>
+**Seção I**
+
 **Da Ética**
 
-<br>
 **Art. 34** Os militares devem ter conduta compatível com os preceitos éticos desta lei complementar e, em especial, com as seguintes disposições:
 
 I - os atos dos militares deverão ser direcionados para a preservação da credibilidade das instituições militares estaduais;
@@ -313,11 +324,10 @@ IV - os militares não podem omitir ou falsear a verdade, ainda que contrária a
 
 V - os militares devem trabalhar em harmonia com a estrutura organizacional, respeitando seus companheiros e cada concidadão.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Dos Valores Militares**
 
-<br>
 **Art. 35** São manifestações essenciais dos valores militares:
 
 I - o patriotismo, traduzido na vontade inabalável de cumprir suas atribuições e no solene juramento de fidelidade à Pátria e à Instituição;
@@ -332,14 +342,14 @@ V - o aprimoramento técnico e profissional;
 
 VI - a dedicação integral à defesa da sociedade.
 
-<br>
-**Seção III**<br>
+**Seção III**
+
 **Dos Deveres do Militar Estadual**
 
-**Subseção I**<br>
+**Subseção I**
+
 **Dos Deveres Fundamentais**
 
-<br>
 **Art. 36** Os deveres do militar emanam de vínculos racionais e morais que o ligam à comunidade.
 
 § 1º O militar atua junto à comunidade e nunca deverá ser instrumento de grupos ou instituições, devendo conhecer os limites que as leis impõem para o exercício de suas atribuições.
@@ -402,11 +412,10 @@ XXVII - zelar pelo prestígio e pela dignidade da corporação;
 
 XXVIII - cumprir as obrigações e ordens.
 
-<br>
-**Subseção II**<br>
+**Subseção II**
+
 **Dos Deveres para com os Membros das Instituições Militares Estaduais**
 
-<br>
 **Art. 37** São deveres do militar para com os demais membros das instituições militares do Estado de Mato Grosso:
 
 I - abster-se de fazer referências prejudiciais ou de qualquer modo desabonadoras dos seus superiores, pares, companheiros e subordinados.
@@ -421,11 +430,10 @@ V - tratar o subordinado dignamente e com urbanidade.
 
 Parágrafo único. A solidariedade, mesmo a superior hierárquico, não induz nem justifica a participação ou conivência com o erro ou com atos infringentes das normas éticas ou legais.
 
-<br>
-**Seção IV**<br>
+**Seção IV**
+
 **Das Vedações**
 
-<br>
 **Art. 38** É vedado ao militar:
 
 I - macular a corporação com atos e ações contrários aos princípios e determinações desta lei complementar;
@@ -464,11 +472,10 @@ XVI - a sindicalização, a greve e a filiação a partido político.
 
 § 2º A violação dos deveres, vedações e obrigações previstos nesta lei complementar serão apuradas através de processo administrativo previsto em lei específica.
 
-<br>
-**CAPÍTULO VII**<br>
+**CAPÍTULO VII**
+
 **Do Compromisso do Militar Estadual**
 
-<br>
 **Art. 39** Todo cidadão, ao ingressar nas instituições militares estaduais, prestará compromisso de honra, no qual afirmará a sua aceitação consciente das obrigações e dos deveres militares e manifestará a sua firme disposição de bem cumpri-los.
 
 **Art. 40** O compromisso a que se refere o artigo anterior terá caráter solene e será prestado na presença de tropa, tão logo o militar estadual tenha adquirido um grau de instrução compatível com o perfeito entendimento de seus deveres como integrante das instituições militares estaduais, conforme os seguintes dizeres: “Ao ingressar na(o) Polícia Militar do Estado de Mato Grosso/Corpo de Bombeiros Militar do Estado de Mato Grosso, prometo regular a minha conduta pelos preceitos da moral, cumprir rigorosamente as ordens das autoridades a que estiver subordinado e dedicar-me inteiramente ao serviço militar estadual, à preservação da ordem pública e a segurança da comunidade, mesmo com o risco da própria vida”.
@@ -481,11 +488,10 @@ I - para oficial da Polícia Militar do Estado de Mato Grosso: “Perante a Band
 
 II - para oficial do Corpo de Bombeiros Militar do Estado de Mato Grosso: “Perante a Bandeira do Brasil e pela minha honra, prometo cumprir os deveres de Oficial do Corpo de Bombeiros Militar do Estado de Mato Grosso e dedicar-me inteiramente ao seu serviço”.
 
-<br>
-**CAPÍTULO VIII**<br>
+**CAPÍTULO VIII**
+
 **Do Comando e da Subordinação**
 
-<br>
 **Art. 43** Comando é a soma de autoridade e responsabilidade de que o militar estadual é investido por lei, quando conduz homens ou dirige uma Unidade Militar Estadual.
 
 § 1º O Comando é vinculado ao grau hierárquico e constitui uma prerrogativa impessoal, em cujo exercício o militar se define e se caracteriza como chefe.
@@ -504,11 +510,10 @@ II - para oficial do Corpo de Bombeiros Militar do Estado de Mato Grosso: “Per
 
 **Art. 49** Ao Praça Especial cabe a rigorosa observância das prescrições e dos regulamentos que lhe é pertinente, exigindo-lhe inteira dedicação ao estudo e ao aprendizado técnico-profissional.
 
-<br>
-**CAPÍTULO IX**<br>
+**CAPÍTULO IX**
+
 **Da Violação das Obrigações e dos Deveres do Militar Estadual**
 
-<br>
 **Art. 50** A violação da ética, das obrigações e dos deveres do militar estadual constituirá crime, contravenção penal ou transgressão disciplinar, conforme dispuser esta lei complementar, o Regulamento Disciplinar e a legislação penal militar.
 
 **Art. 51** A inobservância dos deveres especificados nas leis e regulamentos ou a falta de exação ao cumprimento dos mesmos, acarreta para o militar estadual, responsabilidade funcional, pecuniária, disciplinar ou penal, nos termos da legislação vigente.
@@ -537,11 +542,10 @@ II - concorrer diretamente, por ação ou omissão, para o cometimento da transg
 
 § 2º A violação da disciplina militar estadual será tanto mais grave quanto mais elevado for o grau hierárquico daquele que a cometer, configurando agravante.
 
-<br>
-**CAPÍTULO X**<br>
+**CAPÍTULO X**
+
 **Do Conselho de Justificação e do Conselho de Disciplina**
 
-<br>
 **Art. 54** O oficial PM/BM que presumivelmente seja incapaz de permanecer como militar estadual da ativa, será submetido a Conselho de Justificação na forma prevista em lei específica.
 
 Parágrafo único. O Oficial PM/BM, ao ser submetido a Conselho de Justificação, será afastado do exercício de suas funções, permanecendo à disposição do órgão de pessoal de sua respectiva instituição, até solução final do processo, podendo exercer apenas serviços internos em unidade militar a ser designada.
@@ -554,14 +558,14 @@ Parágrafo único. O Oficial PM/BM, ao ser submetido a Conselho de Justificaçã
 
 **Art. 56** O Conselho de Justificação e o Conselho de Disciplina serão regulados por leis específicas.
 
-<br>
-**CAPÍTULO XI**<br>
+**CAPÍTULO XI**
+
 **Dos Direitos, das Prerrogativas e do Subsídio**
 
-**Seção I**<br>
+**Seção I**
+
 **Dos Direitos e Prerrogativas**
 
-<br>
 **Art. 57** São direitos e prerrogativas dos militares estaduais, nas condições e nas limitações previstas nesta lei complementar:
 
 I - garantia da patente, em toda a sua plenitude, com as vantagens, prerrogativas e deveres a ela inerente, quando Oficial PM/BM;
@@ -610,11 +614,10 @@ XXI - gratificação por serviço voluntário, a ser paga ao militar que, volunt
 
 **Art. 59** Todo e qualquer direito da policial que se encontra gestante ou em gozo de licença maternidade, não poderá ser suprimido em razão desta condição, inclusive vaga quando aprovada em concurso de progressão de carreira.
 
-<br>
-**Subseção I**<br>
+**Subseção I**
+
 **Das Diárias**
 
-<br>
 **Art. 60** Diárias são indenizações destinadas a atender despesas extraordinárias e serão concedidas ao servidor militar que se deslocar temporariamente da respectiva sede, no desempenho de suas atribuições, na realização de diligências do serviço público, em missão ou estudo, dentro ou fora do país, relacionadas com o cargo, função ou atividade, do posto ou da graduação que exerce.
 
 **Art. 61** A diária será concedida por dia de afastamento, sendo devida pela metade quando o deslocamento não exigir pernoite fora da sede.
@@ -647,11 +650,10 @@ III - cumulativamente com a ajuda de custo, exceto nos dias de viagem em que a a
 
 Parágrafo único. Na hipótese de o servidor militar retornar à sede em prazo menor do que o previsto para o seu afastamento, restituirá as diárias em excesso, em igual prazo.
 
-<br>
-**Subseção II**<br>
+**Subseção II**
+
 **Do Regime de Trabalho**
 
-<br>
 **Art. 69** O regime de trabalho do servidor militar será definido em escala de serviço, conforme dispuser as normas emanadas do Comando-Geral.
 
 § 1º No estabelecimento da escala de serviço deverá ser observado o descanso obrigatório do servidor militar.
@@ -660,11 +662,10 @@ Parágrafo único. Na hipótese de o servidor militar retornar à sede em prazo 
 
 § 3º O Comandante-Geral da corporação regulamentará as situações e os critérios de convocação extraordinária.
 
-<br>
-**Subseção III**<br>
+**Subseção III**
+
 **Da Ajuda de Custo**
 
-<br>
 **Art. 70** A ajuda de custo destina-se a compensar as despesas de instalação do militar que, no interesse do serviço e por determinação do Comandante-Geral, passar a ter exercício em nova sede por mais de 30 (trinta) dias.
 
 **Art. 71** A ajuda de custo corresponderá ao valor de 01 (uma) remuneração mensal do militar, não podendo exceder a importância correspondente a 10 (dez) vezes a menor remuneração paga pelo Poder Executivo Estadual.
@@ -695,11 +696,10 @@ I - após ter seguido destino, for mandado regressar;
 
 II - ocorrer o falecimento do servidor militar, quando já se encontrar no destino.
 
-<br>
-**Subseção IV**<br>
+**Subseção IV**
+
 **Do Transporte**
 
-<br>
 **Art. 75** O servidor militar, nas movimentações por interesse do serviço e determinação do Comandante-Geral, tem direito a transporte, de residência a residência, por conta do Estado, nele compreendidas a passagem e translação da respectiva bagagem, móveis e utensílios domésticos.
 
 § 1º Se as movimentações importarem na mudança da sede do militar com seus dependentes, a estes estende o mesmo direito deste artigo.
@@ -720,11 +720,10 @@ III - enteados e tutelados nas mesmas condições do inciso I deste artigo.
 
 **Art. 77** O transporte corresponderá ao valor das despesas comprovadamente efetuadas pelo militar, não podendo exceder a importância correspondente a 10 (dez) vezes a menor remuneração paga pelo Poder Executivo Estadual.
 
-<br>
-**Subseção V**<br>
+**Subseção V**
+
 **Da Etapa Fardamento**
 
-<br>
 **Art. 78** Fardamento é a denominação que se dá ao uniforme a que faz jus o servidor militar quando no desempenho de suas funções regulamentares e nos termos desta lei complementar.
 
 § 1º O Aluno-a-Oficial, os cabos e soldados têm direito a uma indenização no valor correspondente ao menor subsídio dos praças, devendo este ser pago na data de aniversário do servidor militar, por conta do Estado, para a aquisição de uniformes de uso obrigatório, de acordo com os regulamentos de uniformes das respectivas corporações.
@@ -743,29 +742,26 @@ Parágrafo único. Ao Comandante do servidor militar prejudicado cabe, ao recebe
 
 **Art. 80-A** Todos os auxílios e indenizações previstos nesta Subseção somente serão concedidos nos casos em que o fardamento não for fornecido pela Corporação, sendo que para o cumprimento do disposto nesta Subseção, será observado o disposto em Decreto a ser editado pelo Poder Executivo. **_(Acrescentado pela LC. nº_** [**_244/2006_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/f5f8f082a324c01c0425715c0066e97c?OpenDocument#LEICOMPLEMENTAR%20N%C2%BA%20244%2C%20DE%2017%20DE)**_)._**
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Do Subsídio**
 
-<br>
 **Art. 81** O sistema remuneratório no âmbito das corporações militares do Estado de Mato Grosso é estabelecido através de subsídio fixado em parcela única, vedado o acréscimo de qualquer gratificação, adicional, abono, prêmio, verba de representação ou outra espécie remuneratória, obedecido, em qualquer caso, o disposto nos arts. 144, § 9º; 39, § 4º e 37, X e XI, todos da Constituição Federal.
 
 Parágrafo único. A remuneração de que trata o _caput_ deste artigo observará percentuais entre os postos e as graduações, sendo estabelecida em legislação especifica.
 
-<br>
-**Seção III**<br>
+**Seção III**
+
 **Da Gratificação Natalina**
 
-<br>
 **Art. 82** A gratificação natalina corresponde a 1/12 (um doze avos) de remuneração a que o servidor fizer jus ao mês de dezembro, por mês de exercício, no respectivo ano, sendo extensível aos inativos.
 
 Parágrafo único. A fração igual ou superior a 15 (quinze) dias será considerada como mês integral.
 
-<br>
-**Seção IV**<br>
+**Seção IV**
+
 **Das Férias**
 
-<br>
 **Art. 83** O militar fará jus a 30 (trinta) dias de férias, que podem ser acumuladas até o máximo de dois períodos, mediante comprovada necessidade de serviço.
 
 § 1º Independente de solicitação será pago ao militar estadual, por ocasião das férias, adicional de 1/3 (um terço) do subsídio correspondente ao período de suas férias regulamentares.
@@ -788,11 +784,10 @@ Parágrafo único. A fração igual ou superior a 15 (quinze) dias será conside
 
 § 4º A conversão das férias em abono pecuniário, previstos neste artigo, ficam condicionados à existência de disponibilidade financeira.
 
-<br>
-**Seção V**<br>
+**Seção V**
+
 **Da Pensão e dos Beneficiários**
 
-<br>
 **Art. 85** Por morte do militar estadual, o cônjuge ou companheira e seus dependentes fazem jus a uma pensão mensal de valor correspondente ao do respectivo subsídio, sendo majorada na mesma proporção sempre que houver reajuste no subsídio do militar estadual da ativa.
 
 **Art. 86** A pensão distingue-se, quanto à natureza, em vitalícia e temporária.
@@ -867,46 +862,44 @@ II - da pensão temporária, para os co-beneficiários ou, na falta destes, para
 
 Parágrafo único. Ressalvado o direito de opção, é vedada a percepção cumulativa de mais de duas pensões.
 
-<br>
-**Seção VI**<br>
+**Seção VI**
+
 **Da Assistência Médico-Hospitalar e Auxílio Funeral**
 
-<br>
 **Art. 94** O militar terá hospitalização e tratamento custeados pelo Estado, em razão de doença ou ferimentos contraídos no exercício ou em decorrência do serviço.
 
 **Art. 95** O auxílio funeral será devido, quando o óbito ocorrer em serviço e corresponderá ao valor equivalente às despesas desta natureza, devidamente comprovadas, no limite máximo de 10 (dez) vezes a menor remuneração paga no serviço público estadual, sendo concedido apenas uma vez, no caso de acúmulo legal de cargos.
 
 Parágrafo único. As despesas decorrentes do auxílio funeral serão custeadas por meio do Fundo Estadual de Segurança Pública - FESP, no caso da Polícia Militar, e do Fundo de Reequipamento do Corpo de Bombeiros Militar do Estado de Mato Grosso - FREBOM, no caso do Corpo de Bombeiros Militar, de acordo com as respectivas leis específicas.
 
-<br>
-**Seção VII**<br>
+**Seção VII**
+
 **Das Condições de Elegibilidade**
 
-<br>
 **Art. 96.** O militar estadual alistável é elegível, atendidas as seguintes condições:
 
 I - se contar menos de 10 (dez) anos de serviço, deverá afastar-se da atividade;
 
 II - se contar mais de 10 (dez) anos de serviço, será agregado pela autoridade superior e, se eleito, passará automaticamente, no ato da diplomação, para a inatividade, mediante reserva remunerada proporcional.
 
-<br>
-**Seção VIII**<br>
+**Seção VIII**
+
 **Do Sistema de Promoção**
 
-**Subseção I**<br>
+**Subseção I**
+
 **Disposições Gerais**
 
-<br>
 **Art. 97** A promoção constitui ato administrativo e tem como finalidade o preenchimento seletivo das vagas pertinentes ao posto, à graduação ou classe imediatamente superior, com base em critérios a serem definidos em legislação especifica.
 
-<br>
-**Seção IX**<br>
+**Seção IX**
+
 **Dos Afastamentos Temporários do Serviço e das Licenças**
 
-**Subseção I**<br>
+**Subseção I**
+
 **Dos Afastamentos**
 
-<br>
 **Art. 98** O militar tem direito aos seguintes períodos de afastamento do serviço:
 
 I - núpcias, 08 (oito) dias;
@@ -921,11 +914,10 @@ III - trânsito e instalação, 30 (trinta) dias.
 
 § 3º A concessão de trânsito e instalação será automática quando da transferência e apresentação do militar estadual, e o período a ser concedido será estabelecido pelos respectivos Comandantes-Gerais, atendidas as peculiaridades de distância e dificuldade de locomoção de sede a sede.
 
-<br>
-**Subseção II**<br>
+**Subseção II**
+
 **Das Licenças**
 
-<br>
 **Art. 99** Licença é a autorização para o afastamento total do serviço, em caráter temporário.
 
 Parágrafo único. A licença pode ser:
@@ -1016,11 +1008,16 @@ VIII - em casos de instauração de Conselho de Justificação ou Conselho de Di
 
 **Redação original:**
 
-Art. 105 Será concedida à militar estadual gestante licença por 120 (cento e vinte) dias consecutivos, sem prejuízo do subsídio.<br>
-§ 1º A licença poderá ter início no primeiro dia do nono mês de gestação, salvo antecipação por prescrição médica.<br>
-§ 2º No caso de nascimento prematuro, a licença terá início a partir do parto.<br>
-§ 3º No caso de natimorto, decorridos 30 (trinta) dias do evento, a militar estadual será submetida a exame médico e, se julgada apta, reassumirá o serviço.<br>
-§ 4º No caso de aborto não criminoso atestado por médico, a militar terá direito a 30 (trinta) dias de repouso remunerado.<br>
+Art. 105 Será concedida à militar estadual gestante licença por 120 (cento e vinte) dias consecutivos, sem prejuízo do subsídio.
+
+§ 1º A licença poderá ter início no primeiro dia do nono mês de gestação, salvo antecipação por prescrição médica.
+
+§ 2º No caso de nascimento prematuro, a licença terá início a partir do parto.
+
+§ 3º No caso de natimorto, decorridos 30 (trinta) dias do evento, a militar estadual será submetida a exame médico e, se julgada apta, reassumirá o serviço.
+
+§ 4º No caso de aborto não criminoso atestado por médico, a militar terá direito a 30 (trinta) dias de repouso remunerado.
+
 § 5º A policial militar, quando no período de gestação, deverá exercer preferencialmente, atividades administrativas diurnas.
 
 **Art. 106** À militar estadual que adotar ou obtiver guarda judicial de criança de até 01 (um) ano de idade, serão concedidos 90 (noventa) dias de licença remunerada, para ajustamento do adotado ao novo lar.
@@ -1047,14 +1044,14 @@ Art. 105 Será concedida à militar estadual gestante licença por 120 (cento e 
 
 Parágrafo único. O militar em licença para a disputa a cargo eletivo não fará jus ao subsídio correspondente ao seu posto ou graduação no período em que permanecer afastado.
 
-<br>
-**CAPÍTULO XII**<br>
+**CAPÍTULO XII**
+
 **Do Desligamento, da Transferência para a Reserva Remunerada, da Reforma e da Incapacidade**
 
-**Seção I**<br>
+**Seção I**
+
 **Do Desligamento ou Exclusão do Serviço Ativo**
 
-<br>
 **Art. 110** O desligamento ou a exclusão do serviço ativo ou a inatividade será feito em conseqüência de:
 
 I - transferência para a reserva remunerada;
@@ -1079,11 +1076,10 @@ Parágrafo único. O desligamento do serviço ativo será processado após a exp
 
 **Art. 111** A transferência para a reserva remunerada ou reforma não isentam o militar de indenização dos prejuízos causados à fazenda estadual ou a terceiros, nem o pagamento de pensões decorrentes de sentença judicial.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Da Transferência para a Reserva Remunerada**
 
-<br>
 **Art. 112** A passagem à situação de inatividade, mediante transferência para a reserva remunerada, se efetua:
 
 I - compulsoriamente;
@@ -1092,9 +1088,10 @@ II - a pedido.
 
 **Art. 113** O militar será transferido compulsoriamente para a inatividade:
 
-I - com subsídio integral, o oficial superior PM/BM com 05 (cinco) anos de permanência no último posto previsto na hierarquia do seu quadro, desde que, também, conte com 30 (trinta) anos de contribuição. **_(_****_Nova redação dada pela LC_** [**_248/06_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/02edb1801dcea985042571b00056b9e2?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20248%2C%20DE)**_)_**
+I - com subsídio integral, o oficial superior PM/BM com 05 (cinco) anos de permanência no último posto previsto na hierarquia do seu quadro, desde que, também, conte com 30 (trinta) anos de contribuição. **_(__Nova redação dada pela LC_** [**_248/06_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/02edb1801dcea985042571b00056b9e2?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20248%2C%20DE)**_)_**
 
-**Redação original:**<br>
+**Redação original:**
+
 I - com subsídio integral, o oficial superior PM/BM com 05 (cinco) anos de permanência no último posto previsto na hierarquia do seu quadro, desde que, também, conte com 30 (trinta) anos de contribuição
 
 II - com subsídios proporcionais ao seu tempo de contribuição quando for diplomado em cargo eletivo, na forma do art. 14, § 8º, II, da Constituição da República
@@ -1103,10 +1100,9 @@ III - o militar da ativa que, de acordo com a lei, tomar posse em cargo, emprego
 
 Parágrafo único. O disposto no inciso I, deste artigo, não se aplica ao militar que esteja ocupando cargo comissionado de livre nomeação e exoneração pelo Governador do Estado, de natureza militar, nível DGA-1. **_(Acrescentado pela LC._** [**_285/07_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/17f2418264082fe2042573a3003f9565?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20285%2C%20DE%2029)**_)_**
 
-<br>
-§ 1º A previsão de transferência para a inatividade a que se refere o caput, na forma do inciso I, não se aplica ao Comandante Geral da Polícia Militar, ao Comandante Geral do Corpo de Bombeiros Militar e ao Secretário-Chefe da Casa Militar. **_(Acrescentado pela LC_** [**_473/12_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/42e9c8966b1bb92284257a68005f6731?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20473%2C%20DE%2027%20D)**_)_**<br>
-<br>
-§ 2º Quando ocorrer de as autoridades previstas no parágrafo anterior se enquadrarem no disposto no inciso I do caput, o Governador do Estado poderá autorizar a abertura de vagas no Quadro respectivo. **_(Acrescentado pela LC_** [**_473/12_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/42e9c8966b1bb92284257a68005f6731?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20473%2C%20DE%2027%20D)**_)_**<br>
+§ 1º A previsão de transferência para a inatividade a que se refere o caput, na forma do inciso I, não se aplica ao Comandante Geral da Polícia Militar, ao Comandante Geral do Corpo de Bombeiros Militar e ao Secretário-Chefe da Casa Militar. **_(Acrescentado pela LC_** [**_473/12_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/42e9c8966b1bb92284257a68005f6731?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20473%2C%20DE%2027%20D)**_)_**
+
+§ 2º Quando ocorrer de as autoridades previstas no parágrafo anterior se enquadrarem no disposto no inciso I do caput, o Governador do Estado poderá autorizar a abertura de vagas no Quadro respectivo. **_(Acrescentado pela LC_** [**_473/12_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/42e9c8966b1bb92284257a68005f6731?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20473%2C%20DE%2027%20D)**_)_**
 
 **Art. 114** A transferência compulsória para a reserva remunerada, com subsídio proporcional ao tempo de contribuição será efetuada quando o militar atingir as seguintes idades:
 
@@ -1126,25 +1122,28 @@ Parágrafo único. Aplica-se o disposto no _caput_ aos militares que contem com 
 
 **Art. 118** O militar da reserva remunerada poderá ser convocado para o serviço ativo, por ato do Governador do Estado, nos casos previstos em lei bem como para compor Conselho de Justificação ou para ser encarregado de Inquérito Policial Militar **_(Nova redação dada pela_** [**_LC 279/07_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/0a417d85122e9126042573540052c95f?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20279%2C)**_)_**
 
-**Redação original:**<br>
+**Redação original:**
+
 Art. 118 O oficial da reserva remunerada poderá ser convocado para o serviço ativo, por ato do Governador do Estado, para compor Conselho de Justificação ou para ser encarregado de Inquérito Policial Militar, na falta de oficial da ativa em situação hierarquicamente superior à do oficial envolvido.
 
 § 1º O militar convocado nos termos deste artigo terá os mesmos direitos e deveres conferidos ao militar da ativa de igual situação hierárquica, exceto quanto à promoção que não concorrerá. **_(Nova redação dada pela_** [**_LC 279/07_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/0a417d85122e9126042573540052c95f?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20279%2C)**_)_**
 
-**Redação original:**<br>
+**Redação original:**
+
 § 1º O oficial convocado nos termos deste artigo terá os mesmos direitos e deveres conferidos ao oficial da ativa de igual situação hierárquica, exceto quanto à promoção que não concorrerá, e contará com acréscimo esse tempo de serviço desde que haja contribuição previdenciária.
 
 § 2º A convocação de que trata este artigo terá a duração necessária ao cumprimento da atividade que a ela deu origem, observando-se o Código de Processo Penal Militar e a Lei de Organização Básica Militar.
 
 3º O militar fará inspeção de saúde no início e no término da convocação. **_(Nova redação dada pela_** [**_LC 279/07_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/0a417d85122e9126042573540052c95f?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20279%2C)**_)_**
 
-**Redação original:**<br>
+**Redação original:**
+
 § 3º O oficial fará inspeção de saúde no início e no término da convocação.
 
-**Seção III**<br>
+**Seção III**
+
 **Da Reforma**
 
-<br>
 **Art. 119** A passagem do militar estadual à situação de inatividade, mediante reforma, se efetua _ex-officio_, quando:
 
 I - atingir a idade limite de 65 anos de permanência na reserva remunerada, se oficial, e 60 anos, se praça;
@@ -1163,11 +1162,10 @@ VI - sendo Aspirante-a-Oficial PM/BM ou praça com estabilidade assegurada, for 
 
 Parágrafo único. A situação de inatividade do militar estadual da reserva remunerada, quando reformado por limite de idade, não sofre solução de continuidade, exceto quanto às condições de convocação.
 
-<br>
-**Seção IV**<br>
+**Seção IV**
+
 **Incapacidade**
 
-<br>
 **Art. 121** A incapacidade definitiva pode sobrevir em conseqüência de:
 
 I - ferimento recebido em serviço de manutenção da ordem pública, bem como enfermidade nessa situação ou que nela tenha sua causa ou efeito;
@@ -1188,14 +1186,14 @@ I - com subsídio proporcional ao tempo de contribuição;
 
 II - com subsídio integral do posto ou da graduação, desde que, com qualquer tempo de serviço, seja considerado impossibilitado total e permanentemente para qualquer trabalho, nos casos das moléstias e doenças previstas no art. 213, § 1º, da Lei Complementar nº 04, de 15 de outubro de 1990.
 
-<br>
-**CAPÍTULO XIII**<br>
+**CAPÍTULO XIII**
+
 **Da Demissão e Outras Formas de Desligamento**
 
-**Seção I**<br>
+**Seção I**
+
 **Da Demissão e Exoneração**
 
-<br>
 **Art. 122** A demissão é aplicada exclusivamente aos oficiais e é efetuada mediante Conselho de Justificação, assegurado o contraditório e a ampla defesa.
 
 **Art. 123** A exoneração será concedida mediante requerimento do interessado:
@@ -1212,11 +1210,10 @@ II - com indenização das despesas feitas pelo Estado com a preparação e form
 
 § 4º O direito à exoneração pode ser suspenso na vigência do estado de guerra, calamidade pública, perturbação da ordem interna, estado de sítio ou em caso de mobilização.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Da Perda do Posto e da Patente, da Declaração de Indignidade ou Incompatibilidade com o Oficialato**
 
-<br>
 **Art. 124** O Oficial que houver perdido o posto e a patente será demitido _ex-officio_, sem direito a qualquer remuneração ou indenização, e terá a sua situação militar definida pela Lei do Serviço Militar.
 
 **Art. 125** O Oficial perderá o posto e a patente se for declarado indigno do oficialato ou com ele incompatível por decisão do Tribunal de Justiça do Estado de Mato Grosso.
@@ -1231,11 +1228,10 @@ III - incidir nos casos previstos em lei específica que motivem o julgamento po
 
 IV - ter perdido a nacionalidade brasileira.
 
-<br>
-**Seção III**<br>
+**Seção III**
+
 **Da Exclusão**
 
-<br>
 **Art. 127** A exclusão do serviço ativo é aplicada somente aos praças e procede:
 
 I - a pedido;
@@ -1260,11 +1256,10 @@ II - a bem da disciplina.
 
 **Art. 128** O direito de exclusão a pedido poderá ser suspenso na vigência de estado de guerra, calamidade pública, perturbação da ordem interna, estado de defesa, estado de sítio ou em caso de mobilização.
 
-<br>
-**Seção IV**<br>
+**Seção IV**
+
 **Da Exclusão a Bem da Disciplina**
 
-<br>
 **Art. 129** A exclusão a bem da disciplina será aplicada _ex-officio_ ao Aspirante-a-Oficial PM/BM ou ao praça com estabilidade assegurada:
 
 I - quando houver decisão do conselho permanente de justiça militar ou da justiça comum transitada em julgado, cominando pena restritiva da liberdade individual superior a 04 (quatro) anos;
@@ -1279,11 +1274,10 @@ Parágrafo único. O Aspirante-a-Oficial PM/BM ou o praça com estabilidade asse
 
 **Art. 131** A exclusão do praça a bem da disciplina acarreta a perda do seu grau hierárquico e não o isenta das indenizações dos prejuízos causados à fazenda estadual ou a terceiros, nem das pensões decorrentes de sentença judicial.
 
-<br>
-**Seção V**<br>
+**Seção V**
+
 **Da Deserção**
 
-<br>
 **Art. 132** A deserção do militar estadual acarreta uma interrupção do serviço militar, com a conseqüente demissão, para oficial, ou exclusão do serviço ativo, para o praça.
 
 § 1º A demissão do oficial ou exclusão do praça com estabilidade assegurada processar-se-á após 01 (um) ano de agregação, se não houver captura ou apresentação voluntária antes deste prazo.
@@ -1294,11 +1288,10 @@ Parágrafo único. O Aspirante-a-Oficial PM/BM ou o praça com estabilidade asse
 
 § 4º A reinclusão em definitivo, de que trata o parágrafo anterior, dependerá de sentença do conselho de justiça militar ou de decisão judicial.
 
-<br>
-**Seção VI**<br>
+**Seção VI**
+
 **Do Falecimento e do Extravio**
 
-<br>
 **Art. 133** O falecimento do militar da ativa acarreta interrupção do serviço militar com o conseqüente desligamento e exclusão do serviço ativo, a partir da data da ocorrência do óbito.
 
 **Art. 134** O extravio do militar estadual da ativa acarreta interrupção do serviço militar estadual com o conseqüente afastamento temporário do serviço ativo, a partir da data em que o mesmo for oficialmente considerado extraviado.
@@ -1311,14 +1304,14 @@ Parágrafo único. O Aspirante-a-Oficial PM/BM ou o praça com estabilidade asse
 
 Parágrafo único. O militar reaparecido será submetido a conselho de justificação ou a conselho de disciplina, por decisão fundamentada do Comandante-Geral.
 
-<br>
-**CAPÍTULO XIV**<br>
+**CAPÍTULO XIV**
+
 **Da Agregação, da Reversão e Outras Medidas**
 
-**Seção I**<br>
+**Seção I**
+
 **Da Agregação**
 
-<br>
 **Art. 136** A agregação é a situação temporária durante a qual o militar da ativa fica afastado da atividade profissional, não acarretando em qualquer hipótese abertura de vagas para efeito de promoção.
 
 § 1º O militar deve ser agregado quando:
@@ -1369,22 +1362,20 @@ m) ter-se candidatado a cargo eletivo, desde que conte com mais de 10 (dez) anos
 
 Parágrafo único. A agregação far-se-á por ato do Comandante-Geral da respectiva corporação a que pertencer o militar.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Da Reversão**
 
-<br>
 **Art. 138** Reversão é o ato pelo qual o militar agregado retorna à atividade fim tão logo cesse o motivo que determinou a sua agregação.
 
 Parágrafo único. A qualquer tempo poderá ser determinada a reversão do militar agregado, exceto nos casos previstos nas alíneas “a”, “b”, “c”, “f”, “g”, “j” e “l” do inciso III do § 1º do art. 133 desta lei complementar.
 
 **Art. 139** A reversão será efetuada mediante ato do Comandante-Geral da respectiva instituição.
 
-<br>
-**Seção III**<br>
+**Seção III**
+
 **Do Ausente e do Desertor**
 
-<br>
 **Art. 140** É considerado ausente o militar que, por mais de 24 (vinte e quatro) horas consecutivas:
 
 I - deixar de comparecer à sua unidade militar estadual, sem comunicar qualquer motivo de impedimento;
@@ -1395,22 +1386,20 @@ Parágrafo único. Decorrido o prazo mencionado neste artigo, serão observadas 
 
 **Art. 141** O militar é considerado desertor nos casos previstos na legislação penal militar.
 
-<br>
-**Seção IV**<br>
+**Seção IV**
+
 **Do Desaparecimento e do Extravio**
 
-<br>
 **Art. 142** É considerado desaparecido o militar da ativa que, no desempenho de qualquer serviço, operações militares ou em caso de calamidade pública tiver paradeiro ignorado por mais de 08 (oito) dias.
 
 Parágrafo único. A situação de desaparecido só será considerada quando não houver indício de deserção.
 
 **Art. 143** O militar que, na forma do artigo anterior, permanecer desaparecido por mais de 30 (trinta) dias, será oficialmente considerado extraviado, inclusive se estiver na inatividade.
 
-<br>
-**Seção V**<br>
+**Seção V**
+
 **Da Readaptação**
 
-<br>
 **Art. 144** O militar estável poderá ser readaptado _ex-officio_ ou a pedido em função mais compatível, por motivo de doença verificada em inspeção médica oficial do Estado de Mato Grosso.
 
 Parágrafo único. A readaptação será homologada pela perícia médica estadual, através de junta pericial.
@@ -1427,11 +1416,10 @@ Parágrafo único. A readaptação não acarretará redução nem elevação do 
 
 Parágrafo único. É vedado o emprego dos militares estaduais readaptados em atividades operacionais, bem como os mesmos fazerem uso do uniforme em deslocamentos ou em via pública, sendo seu uso restrito apenas às atividades internas da Corporação.
 
-<br>
-**Seção VI**<br>
+**Seção VI**
+
 **Da Reintegração**
 
-<br>
 **Art. 147** A reintegração é o retorno à atividade do militar que, reformado por invalidez, por laudo pericial expedido pela perícia médica estadual, tiver declarados insubsistentes os motivos determinantes da reforma.
 
 **Art. 148** A reintegração far-se-á no mesmo posto ou graduação, com o subsídio integral.
@@ -1444,23 +1432,22 @@ I - a pedido;
 
 II - _ex-officio_.
 
-<br>
-**CAPÍTULO XV**<br>
+**CAPÍTULO XV**
+
 **Do Tempo de Serviço e sua Contagem**
 
-**Seção I**<br>
+**Seção I**
+
 **Da Contagem do Tempo de Serviço e da Data de Inclusão**
 
-<br>
 **Art. 151** O militar começa a contar o tempo de serviço a partir da data de sua inclusão na corporação.
 
 Parágrafo único. Considera-se como data de inclusão a data de publicação do ato em que o militar estadual é matriculado, nomeado, incluído em uma das instituições militares estaduais.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Do Tempo de Efetivo Serviço e Anos de Serviço e da Contribuição**
 
-<br>
 **Art. 152** Na apuração do tempo de serviço distingue-se:
 
 I - tempo de efetivo serviço;
@@ -1509,14 +1496,14 @@ Parágrafo único. Havendo contribuição previdenciária, o tempo será computa
 
 § 4º Em nenhuma hipótese será considerado o tempo de contribuição fictício.
 
-<br>
-**CAPÍTULO XVI**<br>
+**CAPÍTULO XVI**
+
 **Das Disposições GERAIS**
 
-**Seção I**<br>
+**Seção I**
+
 **Do Ensino nas Instituições Militares Estaduais**
 
-<br>
 **Art. 160** As instituições militares do Estado de Mato Grosso manterão sistemas próprios de ensino, com a finalidade de formar, capacitar, preparar, especializar, aperfeiçoar e treinar os militares estaduais, bem como proporcionar assistência educacional aos seus dependentes.
 
 § 1º A Academia de Polícia Militar Costa Verde é o órgão responsável pela formação, aperfeiçoamento, capacitação e especialização dos oficiais da Polícia Militar do Estado de Mato Grosso.
@@ -1527,11 +1514,10 @@ Parágrafo único. Havendo contribuição previdenciária, o tempo será computa
 
 § 4º Os concursos para inclusão nas corporações poderão ser realizados por entidades públicas ou privadas, por meio de convênio ou contrato de prestação de serviços.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Da Alimentação**
 
-<br>
 **Art. 161** O militar terá direito à alimentação:
 
 I - quando em serviço em unidade militar, ou ainda em operação militar;
@@ -1542,34 +1528,34 @@ III - quando matriculado em regime de internato.
 
 Parágrafo único. A forma pela qual será prestada a alimentação será regulamentada por decreto.
 
-<br>
-**Seção III**<br>
+**Seção III**
+
 **Do Uso de Uniformes**
 
-<br>
 **Art. 162** O uso de uniformes, com seus distintivos, insígnias e emblemas, bem como os modelos, descrição, composição, peças, acessórios e outros dispositivos são estabelecidos no Regulamento de Uniformes das corporações.
 
 § 1º É proibido ao militar estadual o uso de uniforme: **_(Redação dada pela LC._** [**_336/08_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/5862ba9caf5ac7120425750b0064fe56?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20336%2C%20DE%2019%20DE)**_)._**
 
-**Redação anterior:**<br>
+**Redação anterior:**
+
 Parágrafo único. É proibido ao militar estadual o uso de uniforme:
 
 I - em reunião, propaganda, ou qualquer outra manifestação de caráter político partidário, salvo estando a serviço;
 
 II - na inatividade, salvo para comparecer às solenidades militares e, quando autorizado pelo Comandante-Geral da respectiva Instituição a que pertença o militar, nas cerimônias cívicas ou atos sociais solenes e para a feitura de documento de identificação, que conterá realçada a denominação “INATIVO” no anverso; **_(Nova redação dada pela LC_** [**_336/08_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/5862ba9caf5ac7120425750b0064fe56?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20336%2C%20DE%2019%20DE)**_)._**
 
-**Redação anterior:**<br>
+**Redação anterior:**
+
 II - na inatividade, salvo para comparecer às solenidades militares e, quando autorizado, nas cerimônias cívicas ou atos sociais solenes.
 
 III - no estrangeiro, quando em atividade não relacionada com a missão, salvo quando expressamente determinado ou autorizado. **_(Acrescentado pela LC_** [**_336/008_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/5862ba9caf5ac7120425750b0064fe56?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20336%2C%20DE%2019%20DE)**_)._**
 
 § 2º O militar na inatividade, cuja conduta possa ser considerada como ofensiva à dignidade da classe, por decisão do Comandante-Geral de sua respectiva Instituição Militar, poderá ser definitivamente proibido de usar uniforme. **_(Acrescentado pela LC._** [**_336/08_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/5862ba9caf5ac7120425750b0064fe56?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20336%2C%20DE%2019%20DE)**_)._**
 
-<br>
-**CAPÍTULO XVII**<br>
+**CAPÍTULO XVII**
+
 **Das Disposições Finais e Transitórias**
 
-<br>
 **Art. 163** Depende de autorização do Governador do Estado o deslocamento dos militares designados para missões no exterior.
 
 **Art. 164** Na transferência de domicílio do militar será assegurado, para si e seus dependentes, para qualquer grau, independentemente da existência de vaga, o direito de transferência e matrícula em estabelecimento de ensino estadual.
@@ -1614,43 +1600,58 @@ Parágrafo único. O não-cumprimento do disposto no _caput_ deste artigo implic
 
 Palácio Paiaguás, em Cuiabá, 15 de dezembro de 2005, 184º da Independência e 117º da República.
 
-**BLAIRO BORGES MAGGI**<br>
-CÉLIO WILSON DE OLIVEIRA<br>
-LUIZ ANTONIO PAGOT<br>
-ORESTES TEODORO DE OLIVEIRA<br>
-YÊNES JESUS DE MAGALHÃES<br>
-WALDIR JÚLIO TEIS<br>
-SÍRIO PINHEIRO DA SILVA<br>
-CLOVES FELÍCIO VETTORATO<br>
-ALEXANDRE HERCULANO COELHO DE SOUZA FURLAN<br>
-TEREZINHA DE SOUZA MAGGI<br>
-YÊDA MARLI DE OLIVEIRA ASSIS<br>
-VILCEU FRANCISCO MARCHETTI<br>
-ANA CARLA MUNIZ<br>
-GERALDO APARECIDO DE VITTO JÚNIOR<br>
-AUGUSTINHO MORO<br>
-MARCOS HENRIQUE MACHADO<br>
-JOSÉ CARLOS DIAS<br>
-JOÃO VIRGÍLIO DO NASCIMENTO SOBRINHO<br>
-LOUREMBERG RIBEIRO NUNES ROCHA<br>
-JOSÉ JOAQUIM DE SOUZA FILHO<br>
-JOÃO CARLOS VICENTE FERREIRA<br>
+**BLAIRO BORGES MAGGI**
+
+CÉLIO WILSON DE OLIVEIRA
+
+LUIZ ANTONIO PAGOT
+
+ORESTES TEODORO DE OLIVEIRA
+
+YÊNES JESUS DE MAGALHÃES
+
+WALDIR JÚLIO TEIS
+
+SÍRIO PINHEIRO DA SILVA
+
+CLOVES FELÍCIO VETTORATO
+
+ALEXANDRE HERCULANO COELHO DE SOUZA FURLAN
+
+TEREZINHA DE SOUZA MAGGI
+
+YÊDA MARLI DE OLIVEIRA ASSIS
+
+VILCEU FRANCISCO MARCHETTI
+
+ANA CARLA MUNIZ
+
+GERALDO APARECIDO DE VITTO JÚNIOR
+
+AUGUSTINHO MORO
+
+MARCOS HENRIQUE MACHADO
+
+JOSÉ CARLOS DIAS
+
+JOÃO VIRGÍLIO DO NASCIMENTO SOBRINHO
+
+LOUREMBERG RIBEIRO NUNES ROCHA
+
+JOSÉ JOAQUIM DE SOUZA FILHO
+
+JOÃO CARLOS VICENTE FERREIRA
+
 FLÁVIA MARIA DE BARROS NOGUEIRA
 
-<br>
-
-<br>
 **ANEXO I**
 
-<table border="1"><tbody><tr valign="top"><td width="210" rowspan="3"><ul><font size="4" face="Arial">Círculo de Oficiais PM/BM</font></ul></td><td width="318"><div align="center"><font size="4" face="Arial">Oficiais Superiores</font><br></div><br></td><td width="236"><ul><font size="4" face="Arial">Coronel</font><br><font size="4" face="Arial">Tenente-Coronel</font><br><font size="4" face="Arial">Major</font></ul></td></tr><tr valign="top"><td width="318"><div align="center"><font size="4" face="Arial">Oficial Intermediário</font></div></td><td width="236"><ul><font size="4" face="Arial">Capitão</font></ul></td></tr><tr valign="top"><td width="318"><div align="center"><font size="4" face="Arial">Oficiais Subalternos</font></div></td><td width="236"><ul><font size="4" face="Arial">1º Tenente</font><br><font size="4" face="Arial">2º Tenente</font></ul></td></tr><tr valign="top"><td width="210" rowspan="2"><ul><font size="4" face="Arial">Círculo de Praças PM/BM</font></ul></td><td width="318"><div align="center"><font size="4" face="Arial">Subtenentes e Sargentos</font></div></td><td width="236"><ul><font size="4" face="Arial">Subtenente</font><br><font size="4" face="Arial">1º Sargento</font><br><font size="4" face="Arial">2º Sargento</font><br><font size="4" face="Arial">3º Sargento</font></ul></td></tr><tr valign="top"><td width="318"><div align="center"><font size="4" face="Arial">Cabos e Soldados</font></div></td><td width="236"><ul><font size="4" face="Arial">Cabo</font><br><font size="4" face="Arial">Soldado</font></ul></td></tr></tbody></table>
+<table><tbody><tr valign="top"><td rowspan="3"><ul>Círculo de Oficiais PM/BM</ul></td><td>Oficiais Superiores </td><td><ul>Coronel Tenente-Coronel Major</ul></td></tr><tr valign="top"><td>Oficial Intermediário</td><td><ul>Capitão</ul></td></tr><tr valign="top"><td>Oficiais Subalternos</td><td><ul>1º Tenente 2º Tenente</ul></td></tr><tr valign="top"><td rowspan="2"><ul>Círculo de Praças PM/BM</ul></td><td>Subtenentes e Sargentos</td><td><ul>Subtenente 1º Sargento 2º Sargento 3º Sargento</ul></td></tr><tr valign="top"><td>Cabos e Soldados</td><td><ul>Cabo Soldado</ul></td></tr></tbody></table>
 
 **ANEXO II**
 
-<table border="1"><tbody><tr valign="top"><td width="90" rowspan="2"><div align="center"><font size="4" face="Arial">Praças Especiais</font></div></td><td width="546"><font size="4" face="Arial">Freqüenta o Circulo de Oficiais Subalternos</font></td><td width="174"><font size="4" face="Arial">Aspirante-a-Oficial</font></td></tr><tr valign="top"><td width="546"><font size="4" face="Arial">Excepcionalmente ou em reuniões sociais tem acesso ao círculo de Oficiais</font></td><td width="174"><font size="4" face="Arial">Aluno-a-Oficial</font></td></tr></tbody></table>
+<table><tbody><tr valign="top"><td rowspan="2">Praças Especiais</td><td>Freqüenta o Circulo de Oficiais Subalternos</td><td>Aspirante-a-Oficial</td></tr><tr valign="top"><td>Excepcionalmente ou em reuniões sociais tem acesso ao círculo de Oficiais</td><td>Aluno-a-Oficial</td></tr></tbody></table>
 
 **ANEXO III**
 
-<table border="1"><tbody><tr valign="top"><td width="84" rowspan="3"><font size="4" face="Arial">Praças em</font><br><font size="4" face="Arial">Situação</font><br><font size="4" face="Arial">Especial</font></td><td width="378"><font size="4" face="Arial">Excepcionalmente ou em reuniões sociais tem acesso ao círculo de Oficiais.</font></td><td width="348"><font size="4" face="Arial">Alunos do Curso de Habilitação para o Oficialato.</font></td></tr><tr valign="top"><td width="378"><font size="4" face="Arial">Excepcionalmente ou em reuniões sociais tem acesso ao círculo de Subtenentes e Sargentos</font></td><td width="348"><font size="4" face="Arial">Alunos do Curso de Formação de Sargentos PM/BM.</font></td></tr><tr valign="top"><td width="378"><font size="4" face="Arial">Freqüenta o Círculo de Cabos PM/BM e Soldados PM/BM</font></td><td width="348"><font size="4" face="Arial">Alunos do Curso de Formação de Cabos PM/BM e do Curso de Formação de Soldados PM/BM</font></td></tr></tbody></table>
-
-<br>
-<br>
+<table><tbody><tr valign="top"><td rowspan="3">Praças em Situação Especial</td><td>Excepcionalmente ou em reuniões sociais tem acesso ao círculo de Oficiais.</td><td>Alunos do Curso de Habilitação para o Oficialato.</td></tr><tr valign="top"><td>Excepcionalmente ou em reuniões sociais tem acesso ao círculo de Subtenentes e Sargentos</td><td>Alunos do Curso de Formação de Sargentos PM/BM.</td></tr><tr valign="top"><td>Freqüenta o Círculo de Cabos PM/BM e Soldados PM/BM</td><td>Alunos do Curso de Formação de Cabos PM/BM e do Curso de Formação de Soldados PM/BM</td></tr></tbody></table>

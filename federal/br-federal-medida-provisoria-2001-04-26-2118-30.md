@@ -1,5 +1,3 @@
-###MPV-002118-0-030-26-04-2001@@@
-
 MEDIDA PROVISÓRIA N°  2.118- 30, DE 26 DE ABRIL DE 2001
 
 Estabelece critérios para a consolidação, a assunção e o refinanciamento, pela União, da dívida pública mobiliária e outras que especifica, de responsabilidade dos Municípios.

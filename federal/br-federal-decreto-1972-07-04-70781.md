@@ -1,5 +1,3 @@
-###DEC-070781-0-000-04-07-1972@@@
-
 Decreto nº 70.781, de 4 de julho de 1972.
 
 Revoga o Decreto nº 8.506, de 4 de janeiro de 1911, que concedeu à empresa Brazilian Trade Corporation autorizado para funcionar na República Federativa do Brasil.

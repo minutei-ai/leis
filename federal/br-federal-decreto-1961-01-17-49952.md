@@ -1,5 +1,3 @@
-###DEC-049952-0-000-17-01-1961@@@
-
 DECRETO Nº 49.952, DE 17 DE JANEIRO DE 1961.
 
 Aprova alteração do Regimento do Departamento Nacional de Obras de Saneamento.

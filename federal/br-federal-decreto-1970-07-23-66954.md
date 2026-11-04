@@ -1,5 +1,3 @@
-###DEC-066954-0-000-23-07-1970@@@
-
 DECRETO Nº 66.954, DE 23 DE JULHO DE 1970.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra destinada à instalação de uma tôrre repetidora de microondas e duas faixas de terra para o acesso à mesma, no Município de Maria da Fé, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-073077-0-000-01-11-1973@@@
-
 DECRETO Nº 73.077 - DE 1 DE NOVEMBRO DE 1973
 
 Estabelece normas complementares à autonomia financeira da Central de Medicamentos (CEME).

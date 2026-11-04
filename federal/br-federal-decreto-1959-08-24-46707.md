@@ -1,5 +1,3 @@
-###DEC-046707-0-000-24-08-1959@@@
-
 DECRETO Nº 46.707, DE 24 DE AGôSTO DE 1959.
 
 Autoriza o Serviço do Patrimônio da União a transferir para a jurisdição do Ministério da Guerra o imóvel que menciona, situado em Caçapava, Estado do Rio Grande do Sul.

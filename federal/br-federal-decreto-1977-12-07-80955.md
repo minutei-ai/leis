@@ -1,5 +1,3 @@
-###DEC-080955-0-000-07-12-1977@@@
-
 decreto nº 80.955, de 07 de dezembro de 1977.
 
 Concede à Empresa de Calcário São Luiz Ltda. o direito de lavrar dolomito no Município de Tapiratiba, Estado de são Paulo.

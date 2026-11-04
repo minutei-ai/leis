@@ -1,5 +1,3 @@
-###DEC-050030-0-000-24-01-1961@@@
-
 DECRETO Nº 50.030, DE 24 DE JANEIRO DE 1961.
 
 Autoriza a cidadã brasileira D. Iolanda Leite de Castro Silva a pesquisar caulim no município de Magé, Estado do Rio de Janeiro.

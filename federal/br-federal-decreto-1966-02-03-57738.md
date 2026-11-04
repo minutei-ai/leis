@@ -1,5 +1,3 @@
-###DEC-057738-0-000-03-02-1966@@@
-
 DECRETO Nº 57.738, DE 3 DE FEVEREIRO DE 1966.
 
 Declara de utilidade pública uma faixa de terra destinada a passagem de linha de transmissão.

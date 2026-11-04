@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/2881)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2001/compilacao-lei-10993-21.12.2001.html)
 
 # LEI N° 10.993, DE 21 DE DEZEMBRO DE 2001

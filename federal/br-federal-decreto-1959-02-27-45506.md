@@ -1,5 +1,3 @@
-###DEC-045506-0-000-27-02-1959@@@
-
 DECRETO Nº 45.506, DE 27 DE FEVEREIRO DE 1959.
 
 Concede à sociedade Navegação Schmitt Garcia Ltda., autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

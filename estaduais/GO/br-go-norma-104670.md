@@ -134,14 +134,16 @@ II – 2 (dois) suplentes, os quais substituirão os titulares em suas ausência
 
 Art. 10 . Aos servidores referidos no art. 2º deste Decreto, é assegurado amplo conhecimento do resultado da ADIM, e caberá à Superintendência do Sistema Socioeducativo adotar medidas para a publicidade dele.
 
-Parágrafo único. O resultado apurado em cada ADIM, com a relação nominal e as notas dos servidores, será disponibilizado no sítio eletrônico da Secretaria de Estado de Desenvolvimento Social.<br>
-<br>
+Parágrafo único. O resultado apurado em cada ADIM, com a relação nominal e as notas dos servidores, será disponibilizado no sítio eletrônico da Secretaria de Estado de Desenvolvimento Social.
 
-CAPÍTULO II<br>
-DA AVALIAÇÃO DE DESEMPENHO INDIVIDUAL<br>
+CAPÍTULO II
+
+DA AVALIAÇÃO DE DESEMPENHO INDIVIDUAL
+
 DE MÉRITO PARA A CONCESSÃO DA GASE
 
-Seção I<br>
+Seção I
+
 Da avaliação e seus objetivos
 
 Art. 11. A Avaliação de Desempenho Individual de Mérito, que considerará habilidades funcionais, qualidade do trabalho, frequência e produtividade, objetivará primordialmente:
@@ -358,8 +360,8 @@ Art. 16. A aferição dos indicadores de assiduidade e pontualidade deverá ser 
 
 Art. 17. Nos casos das unidades que ainda não são contempladas com o SFR, a medição deve ser baseada nas Fichas de Frequência Mensal manuais, com os registros de entrada e saída efetuados de acordo com a hora real de cada evento.
 
-<br>
-Seção IV<br>
+Seção IV
+
 Da pontuação
 
 Art. 18. A pontuação máxima que o servidor poderá obter na Avaliação de Desempenho Individual é de 100 (cem) pontos, observados os pesos estabelecidos para cada indicador, conforme os Anexos III, IV, V e VI deste Decreto, distribuídos de acordo com os incisos I a IV deste artigo:
@@ -374,10 +376,10 @@ IV – 30 (trinta) pontos para a avaliação dos indicadores de desempenho, da p
 
 § 1º Caso haja impossibilidade de preenchimento da autoavaliação pelo servidor em decorrência de afastamento, será considerada a nota da autoavaliação do ciclo anterior.
 
-§ 2º O resultado final será calculado pelo somatório das notas de cada anexo com os seus respectivos pesos, que comporá a pontuação final.<br>
-<br>
+§ 2º O resultado final será calculado pelo somatório das notas de cada anexo com os seus respectivos pesos, que comporá a pontuação final.
 
-Seção V<br>
+Seção V
+
 Das responsabilidades
 
 Art. 19. Os envolvidos no processo de Avaliação de Desempenho Individual de Mérito são:
@@ -488,10 +490,10 @@ II – registrar em tempo hábil e com rigor ético o seu desempenho no formulá
 
 III – receber devolutiva de avaliações e empenhar– se para o seu desenvolvimento profissional; e
 
-IV – dar ciência em suas avaliações, salvo se afastado durante o período dedevolutiva de avaliação.<br>
-<br>
+IV – dar ciência em suas avaliações, salvo se afastado durante o período dedevolutiva de avaliação.
 
-Seção VI<br>
+Seção VI
+
 Da aplicação
 
 Art. 26. A Avaliação de Desempenho Individual de Mérito será realizada por meio do preenchimento de formulários a serem disponibilizados eletronicamente para os servidores e para as chefias imediatas, conforme os Anexos II a VI deste Decreto, assim distribuídos:
@@ -516,8 +518,8 @@ V – avaliação dos indicadores, da produtividade, da assiduidade e da pontual
 
 Art. 27. Para publicação, fica resguardado o sigilo das notas atribuídas pelo avaliador por indicador de desempenho, com publicidade apenas da pontuação final.
 
-<br>
-Seção VII<br>
+Seção VII
+
 Dos recursos
 
 Art. 28. Do resultado da Avaliação de Desempenho Individual de Mérito, poderá ser interposto recurso, devidamente justificado, em formulário próprio, conforme o Anexo VII deste Decreto.
@@ -550,7 +552,8 @@ III – titular da Superintendência do Sistema Socioeducativo.
 
 Parágrafo único. A tramitação total do recurso nas três instâncias não ultrapassará o prazo máximo de 30 (trinta) dias.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 Art. 33. Os avaliados receberão orientações da CEAD quanto à aplicação dos formulários de avaliação, dos indicadores, do período de avaliação, bem como das rotinas do processamento da ADIM.
@@ -576,8 +579,6 @@ Art. 39. Fica revogado o [Decreto nº 7.723](https://legisla.casacivil.go.gov.br
 Art. 40. Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 2 de dezembro de 2021; 133º da República.
-
-<br>
 
 RONALDO CAIADO
 

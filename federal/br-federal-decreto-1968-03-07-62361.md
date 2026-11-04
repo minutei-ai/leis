@@ -1,5 +1,3 @@
-###DEC-062361-0-000-07-03-1968@@@
-
 decreto nº 62.361, de 7 de março de 1968.
 
 Autorização para funcionamento do Curso de Administração na Faculdade de Ciências Políticas e Econômicas do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-064085-0-000-11-02-1969@@@
-
 decreto nº 64.085, de 11 de fevereiro de 1969.
 
 Provê sôbre a instituição de Comissão Executiva do Programa de Implantação dos Centros Regionais de Pós-Graduação.

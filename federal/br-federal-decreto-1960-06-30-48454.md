@@ -1,14 +1,12 @@
-###DEC-048454-0-000-30-06-1960@@@
+**DECRETO Nº 48.454, DE 30 DE JUNHO DE 1960.**
 
-<strong>DECRETO Nº 48.454, DE 30 DE JUNHO DE 1960.</strong>
+***Transfere funções das Tabelas Numéricas Especiais de Extranumerário-mensalista do Ministério da Aeronáutica, que menciona.***
 
-<em><strong>Transfere funções das Tabelas Numéricas Especiais de Extranumerário-mensalista do Ministério da Aeronáutica, que menciona.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam transferidas as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-mensalista abaixo indicadas:
+**Art**. 1º Ficam transferidas as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-mensalista abaixo indicadas:
 
 I - uma função de Zelador, referência 19, ocupada por Carlos da Silva, da Tabela do Serviço de Administração do Edifício da Aeronáutica para a Diretoria da Aeronáutica Civil;
 
@@ -20,16 +18,16 @@ IV - uma função de Servente, referência 19, ocupada por Waldomiro de Mattos, 
 
 V - uma função de Auxiliar de Artifície, referência 18, ocupada por Almir de Souza Maciel, da Tabela do Comando de Transporte Aéreo para a da Escola de Comando e Estado Maior da Aeronáutica;
 
-VI - uma função de Serviçal, referência 20, ocupada por Murilo Augusto Alves Ferreira, da Tabela Numérica Especial Extranumarário-mensalista do Gabinete do Ministro para a do Quartel General da 3<sup>a</sup> Zona Aérea;
+VI - uma função de Serviçal, referência 20, ocupada por Murilo Augusto Alves Ferreira, da Tabela Numérica Especial Extranumarário-mensalista do Gabinete do Ministro para a do Quartel General da 3ª Zona Aérea;
 
 VII - uma função de Serviçal, referência 19, ocupada por Antônio José dos Santos, da Tabela do Gabinete do Ministro para a do Instituto de Seleção, Contrôle e Pesquisa;
 
 VIII - uma função de Serviçal, referência 19, ocupada por Romualdo Maximiano Dias, da Tabela do Gabinete do Ministro para a do Hospital de Aeronáutica do Galeão.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 30 de junho de 1960; 139º da Independência e 72º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Francisco de Mello

@@ -1,5 +1,3 @@
-###DEL-007475-0-000-18-04-1945@@@
-
 DECRETO-LEI N. 7.475 – DE 18 DE ABRIL DE 1945
 
 Cria o Hôrto Florestal de Pelotas, subordinado ao Serviço Florestal do Ministério da Agricultura

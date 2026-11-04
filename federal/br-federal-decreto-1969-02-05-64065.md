@@ -1,5 +1,3 @@
-###DEC-064065-0-000-05-02-1969@@@
-
 DECRETO Nº 64.065, DE 5 DE FEVEREIRO DE 1969.
 
 Dispõe sôbre atribuições do Conselho Nacional do Petróleo e institui o Grupo de Assessoria para o Gás Combustível.

@@ -1,5 +1,3 @@
-###DEL-006375-0-000-27-03-1944@@@
-
 DECRETO-LEI N. 6.375 – DE 27 DE MARÇO DE 1944
 
 Autoriza o Estado do Rio Grande do Sul a contratar, através do Instituto Rio-grandense do Arroz, operações de crédito com o Banco do Brasil S. A.

@@ -1,5 +1,3 @@
-###DEC-090774-0-000-28-12-1984@@@
-
 Decreto nº 90.774, de 28 de dezembro de 1984.
 
 Autoriza o funcionamento do curso de Ciências Econômicas da Fundação de Ciências Humanas de Francisco Beltrão-PR.

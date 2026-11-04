@@ -1,5 +1,3 @@
-###DEC-090039-0-000-09-08-1984@@@
-
 DECRETO Nº 90.039, de 09 de agosto de 1984.
 
 Altera o Decreto nº 76.195, de 02 de setembro de 1975, que dispõe sobre a Medalha do Pacificador e dá outras providências.

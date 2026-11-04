@@ -1,5 +1,3 @@
-###DEC-054524-0-000-21-10-1964@@@
-
 DECRETO Nº 54.524, DE 21 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro José Souza Franco a lavrar feldspato, no município de Andradas, Estado de Minas Gerais.

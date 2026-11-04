@@ -1,5 +1,3 @@
-###DEL-009306-0-000-27-05-1946@@@
-
 DECRETO-LEI N. 9.306 – DE 27 DE MAIO DE 1946
 
 Autoriza o Govêrno a intervir no pôrto de Santos

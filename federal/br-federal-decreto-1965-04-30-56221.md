@@ -1,5 +1,3 @@
-###DEC-056221-0-000-30-04-1965@@@
-
 DECRETO Nº 56.221, DE 30 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro José Joaquim Eugênio a pesquisar gipsita, no município de Ipubi, no Estado de Pernambuco.

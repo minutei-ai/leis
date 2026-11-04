@@ -1,5 +1,3 @@
-###DEC-066647-0-000-29-05-1970@@@
-
 DECRETo Nº 66.647, DE 29 DE MAIO DE 1970.
 
 Fixa o valôr de remuneração dos Diretores Executivos da Comissão Nacional de Energia Nuclear (CNEN).

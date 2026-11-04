@@ -1,5 +1,3 @@
-###DEC-080158-0-000-15-08-1977@@@
-
 DECRETO Nº 80.158, DE 15 DE AGOSTO DE 1977.
 
 Autoriza a transformação do curso de Matemática em curso de Ciências, das Faculdades Associadas do Ipiranga, com sede na Cidade de São Paulo, Estado de São Paulo.

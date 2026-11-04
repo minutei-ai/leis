@@ -1,5 +1,3 @@
-###DEC-053097-0-000-10-12-1963@@@
-
 DECRETO Nº 53.097, DE 10 DE DEZEMBRO DE 1963.
 
 Renova o decreto nº 49.038, de 5 de outubro de 1960.

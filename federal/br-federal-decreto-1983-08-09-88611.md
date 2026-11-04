@@ -1,5 +1,3 @@
-###DEC-088611-0-000-09-08-1983@@@
-
 decreto nº 88.611, de 09 de agosto de 1983.
 
 Promulgo Acordo sobre Turismo, entre o Governo da República Federativa do Brasil e o Governo da República da Colômbia.

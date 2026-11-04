@@ -1,5 +1,3 @@
-###DEC-049710-0-000-31-12-1960@@@
-
 Decreto nº 49.710, de 31 de dezembro de 1960.
 
 Aprova alteração introduzida nos Estatutos da Interamericana, Companhia de Seguros Gerais.

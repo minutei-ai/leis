@@ -1,5 +1,3 @@
-###DEC-059043-0-000-10-08-1966@@@
-
 Decreto nº 59.043, de 10 de agôsto de 1966.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério da Aeronáutica.

@@ -34,99 +34,175 @@ ANEXO ÚNICO
 
 | FUNÇÃO TEMPORÁRIA | QUANTITATIVO | CARGA HORÁRIA SEMANAL | VENCIMENTO | ATRIBUIÇÕES | REQUISITOS |
 | --- | --- | --- | --- | --- | --- |
-| administrador | 11<br>
-~~16~~ | 40 horas | R$ 4.415,51<br>
-~~R$ 4.220,52~~ | 1 – elaborar pareceres, relatórios, planos, projetos, arbitragens e laudos, em que se exija a aplicação de conhecimentos inerentes às técnicas de organização;<br>
-2 – elaborar planejamento organizacional e implementar programas e projetos;<br>
-3 – pesquisar, estudar, analisar, interpretar, planejar, implantar, coordenar e controlar os trabalhos nos campos de administração geral, como administração de recursos humanos, patrimônio, materiais, informações financeiras e tecnológicas, relações públicas, com seus desdobramentos e conexões;<br>
-4 – promover estudos de racionalização e controlar o desempenho organizacional;<br>
-5 – assessorar as atividades de ensino, pesquisa e extensão;<br>
-6 – exercer as funções de assessoramento e consultoria em órgãos (ou seus compartimentos) da administração pública ou de entidades privadas, cujas atribuições envolvam principalmente a aplicação de conhecimentos inerentes às técnicas de administração; e<br>
+| administrador | 11
+
+~~16~~ | 40 horas | R$ 4.415,51
+
+~~R$ 4.220,52~~ | 1 – elaborar pareceres, relatórios, planos, projetos, arbitragens e laudos, em que se exija a aplicação de conhecimentos inerentes às técnicas de organização;
+
+2 – elaborar planejamento organizacional e implementar programas e projetos;
+
+3 – pesquisar, estudar, analisar, interpretar, planejar, implantar, coordenar e controlar os trabalhos nos campos de administração geral, como administração de recursos humanos, patrimônio, materiais, informações financeiras e tecnológicas, relações públicas, com seus desdobramentos e conexões;
+
+4 – promover estudos de racionalização e controlar o desempenho organizacional;
+
+5 – assessorar as atividades de ensino, pesquisa e extensão;
+
+6 – exercer as funções de assessoramento e consultoria em órgãos (ou seus compartimentos) da administração pública ou de entidades privadas, cujas atribuições envolvam principalmente a aplicação de conhecimentos inerentes às técnicas de administração; e
+
 7 – realizar atividades correlatas | Diploma de conclusão do Ensino Superior em Administração expedido por instituição devidamente reconhecida pelo Ministério da Educação – MEC |
 | \- [Quantitativo e vencimento alterado pelo Decreto nº 10.602, de 16-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110152). |
-| Arquiteto | 12<br>
-~~20~~ | 40 horas | R$ 8.000,00<br>
-~~R$ 4.220,52~~ | 1 – elaborar, analisar e aprovar projetos e termos de referência;<br>
-2 – realizar estudos e pesquisas e gerenciar e avaliar projetos;<br>
-3 – verificar a adoção de efetivas ações preventivas ou corretivas;<br>
-4 – realizar medições de serviços executados;<br>
-5 – elaborar estudos e tabelas de custos referenciais de serviços; e<br>
+| Arquiteto | 12
+
+~~20~~ | 40 horas | R$ 8.000,00
+
+~~R$ 4.220,52~~ | 1 – elaborar, analisar e aprovar projetos e termos de referência;
+
+2 – realizar estudos e pesquisas e gerenciar e avaliar projetos;
+
+3 – verificar a adoção de efetivas ações preventivas ou corretivas;
+
+4 – realizar medições de serviços executados;
+
+5 – elaborar estudos e tabelas de custos referenciais de serviços; e
+
 6 – realizar atividades correlatas | Diploma de conclusão do Ensino Superior em Arquitetura e Urbanismo expedido por instituição devidamente reconhecida pelo MEC |
 | \- [Quantitativo e vencimento alterado pelo Decreto nº 10.602, de 16-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110152). |
-| Assessor jurídico | 5<br>
-~~15~~ | 40 horas | R$ 4.415,51<br>
-~~R$ 4.220,52~~ | 1 – assessorar a elaboração de minutas de ajustes em geral e de atos normativos, bem como a instrução processual em consonância com as normas aplicáveis à execução dos projetos finalísticos da SES;<br>
-2 – gerir, autuar e tramitar processos e documentos no Sistema Eletrônico de Informações – SEI;<br>
-3 – auxiliar a elaboração de manifestações jurídicas e a produção de atos normativos;<br>
-4 – controlar as informações em sistemas jurídicos;<br>
-5 – analisar documentos, contratos, acordos e processos nos aspectos técnico, administrativo, operacional e jurídico, na condição de auxiliar; e<br>
+| Assessor jurídico | 5
+
+~~15~~ | 40 horas | R$ 4.415,51
+
+~~R$ 4.220,52~~ | 1 – assessorar a elaboração de minutas de ajustes em geral e de atos normativos, bem como a instrução processual em consonância com as normas aplicáveis à execução dos projetos finalísticos da SES;
+
+2 – gerir, autuar e tramitar processos e documentos no Sistema Eletrônico de Informações – SEI;
+
+3 – auxiliar a elaboração de manifestações jurídicas e a produção de atos normativos;
+
+4 – controlar as informações em sistemas jurídicos;
+
+5 – analisar documentos, contratos, acordos e processos nos aspectos técnico, administrativo, operacional e jurídico, na condição de auxiliar; e
+
 6 – realizar atividades correlatas | Diploma de conclusão do Ensino Superior em Direito expedido por instituição devidamente reconhecida pelo MEC |
 | \- [Quantitativo e vencimento alterado pelo Decreto nº 10.602, de 16-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110152). |
-| Contador | 14<br>
-~~19~~ | 40 horas | R$ 4.415,51<br>
-~~R$ 4.220,52~~ | 1 – elaborar e manter atualizados os relatórios com informações contábeis, financeiras, patrimoniais e tributárias e prestar informações em pareceres;<br>
-2 – executar lançamentos contábeis no sistema financeiro, orçamentário, patrimonial e de compensação;<br>
-3 – orientar e coordenar trabalhos da área patrimonial, contábil e financeira, bem como as tomadas de contas de responsáveis por bens;<br>
-4 – acompanhar as informações de sistemas próprios de orçamento, contratos, convênios, bem como outras transferências financeiras para municípios ou entidades sem fins lucrativos;<br>
-5 – acompanhar a análise e a fiscalização da prestação de contas das entidades geridas por organizações sociais;<br>
-6 – elaborar cálculos para os recebimentos de remunerações, retribuições pecuniárias, folha de pagamento e taxas de fiscalização, com a utilização de técnicas contábeis;<br>
-7 – periciar o desempenho econômico-financeiro dos prestadores de serviços públicos regulados, controlados e fiscalizados pela SES;<br>
-8 – elaborar relatórios e pareceres contábeis, financeiros e orçamentários, de caráter obrigatório, com a observância de prazos, formalidades da legislação e determinações e orientações dos órgãos de controle e fiscalização;<br>
-9– participar da implantação e da execução das normas estabelecidas pelos órgãos de controle e fiscalização;<br>
-10 – avaliar o comportamento dos parâmetros operacionais e indicadores econômico-financeiros dos serviços públicos;<br>
-11 – desenvolver a implementação de modelos de acompanhamento e controle do equilíbrio econômico **\-**financeiro dos prestadores de serviços públicos;<br>
-12 – analisar planos de contabilização de custos, balancetes e balanços dos prestadores de serviços públicos;<br>
-13 – assessorar as áreas técnicas na construção e na manutenção do Portal Transparência; e<br>
+| Contador | 14
+
+~~19~~ | 40 horas | R$ 4.415,51
+
+~~R$ 4.220,52~~ | 1 – elaborar e manter atualizados os relatórios com informações contábeis, financeiras, patrimoniais e tributárias e prestar informações em pareceres;
+
+2 – executar lançamentos contábeis no sistema financeiro, orçamentário, patrimonial e de compensação;
+
+3 – orientar e coordenar trabalhos da área patrimonial, contábil e financeira, bem como as tomadas de contas de responsáveis por bens;
+
+4 – acompanhar as informações de sistemas próprios de orçamento, contratos, convênios, bem como outras transferências financeiras para municípios ou entidades sem fins lucrativos;
+
+5 – acompanhar a análise e a fiscalização da prestação de contas das entidades geridas por organizações sociais;
+
+6 – elaborar cálculos para os recebimentos de remunerações, retribuições pecuniárias, folha de pagamento e taxas de fiscalização, com a utilização de técnicas contábeis;
+
+7 – periciar o desempenho econômico-financeiro dos prestadores de serviços públicos regulados, controlados e fiscalizados pela SES;
+
+8 – elaborar relatórios e pareceres contábeis, financeiros e orçamentários, de caráter obrigatório, com a observância de prazos, formalidades da legislação e determinações e orientações dos órgãos de controle e fiscalização;
+
+9– participar da implantação e da execução das normas estabelecidas pelos órgãos de controle e fiscalização;
+
+10 – avaliar o comportamento dos parâmetros operacionais e indicadores econômico-financeiros dos serviços públicos;
+
+11 – desenvolver a implementação de modelos de acompanhamento e controle do equilíbrio econômico **\-**financeiro dos prestadores de serviços públicos;
+
+12 – analisar planos de contabilização de custos, balancetes e balanços dos prestadores de serviços públicos;
+
+13 – assessorar as áreas técnicas na construção e na manutenção do Portal Transparência; e
+
 14 – realizar atividades correlatas | Diploma de conclusão do Ensino Superior em Ciências Contábeis expedido por instituição devidamente reconhecida pelo MEC |
 | \- [Quantitativo e vencimento alterado pelo Decreto nº 10.602, de 16-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110152). |
-| Engenheiro Biomédico/ Engenheiro Clínico | 7<br>
-~~11~~ | 40 horas | R$ 8.000,00<br>
-~~R$ 4.220,52~~ | 1 – redigir informações técnicas e pareceres para processos e/ou assinatura de contratos e/ou convênios, bem como demais orientações necessárias aos trabalhos das áreas meio e finalística da pasta;<br>
-2 – redigir documentos oficiais (ofícios, despachos, atas e portarias), além de produzir materiais similares de interesse do serviço da sua área de lotação;<br>
-3 – receber equipamentos, conferir notas de empenho, ordem de fornecimento e atesto de notas fiscais e acompanhar os equipamentos até a instalação;<br>
-4 – atuar como gestor de contratos, convênios ou outros ajustes que envolvam alto valor financeiro ou projetos de grande impacto na SES;<br>
-5 – participar dos processos de aquisição de equipamentos hospitalares, monitoramento, inservibilidade, educação continuada, fiscalização e projetos;<br>
-6 – planejar, definir e executar questões financeiras relacionadas a equipamentos médico-hospitalares; e<br>
+| Engenheiro Biomédico/ Engenheiro Clínico | 7
+
+~~11~~ | 40 horas | R$ 8.000,00
+
+~~R$ 4.220,52~~ | 1 – redigir informações técnicas e pareceres para processos e/ou assinatura de contratos e/ou convênios, bem como demais orientações necessárias aos trabalhos das áreas meio e finalística da pasta;
+
+2 – redigir documentos oficiais (ofícios, despachos, atas e portarias), além de produzir materiais similares de interesse do serviço da sua área de lotação;
+
+3 – receber equipamentos, conferir notas de empenho, ordem de fornecimento e atesto de notas fiscais e acompanhar os equipamentos até a instalação;
+
+4 – atuar como gestor de contratos, convênios ou outros ajustes que envolvam alto valor financeiro ou projetos de grande impacto na SES;
+
+5 – participar dos processos de aquisição de equipamentos hospitalares, monitoramento, inservibilidade, educação continuada, fiscalização e projetos;
+
+6 – planejar, definir e executar questões financeiras relacionadas a equipamentos médico-hospitalares; e
+
 7 – realizar atividades correlatas | Diploma de conclusão do Ensino Superior em Engenharia e/ou Engenharia Biomédica expedido por instituição devidamente reconhecida pelo MEC. |
 | \- [Quantitativo e vencimento alterado pelo Decreto nº 10.602, de 16-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110152). |
-| Engenheiro Civil | 9<br>
-~~15~~ | 40 horas | R$ 8.000,00<br>
-~~R$ 4.220,52~~ | 1 – fiscalizar, executar e medir obras;<br>
-2 – gerenciar projetos, obras e serviços ;<br>
-3 – verificar a adoção de efetivas ações preventivas ou corretivas;<br>
-4 – padronizar, mensurar e realizar o controle de qualidade;<br>
-5 – medir serviços executados; 6 – realizar levantamentos de quantitativos de serviços para construção, reformas e adequação de obra civil;<br>
-7 – realizar estudos, pesquisas, gerenciamento e avaliação de projetos; 8 – elaborar estudos e tabelas de custos referenciais de serviços; e<br>
+| Engenheiro Civil | 9
+
+~~15~~ | 40 horas | R$ 8.000,00
+
+~~R$ 4.220,52~~ | 1 – fiscalizar, executar e medir obras;
+
+2 – gerenciar projetos, obras e serviços ;
+
+3 – verificar a adoção de efetivas ações preventivas ou corretivas;
+
+4 – padronizar, mensurar e realizar o controle de qualidade;
+
+5 – medir serviços executados; 6 – realizar levantamentos de quantitativos de serviços para construção, reformas e adequação de obra civil;
+
+7 – realizar estudos, pesquisas, gerenciamento e avaliação de projetos; 8 – elaborar estudos e tabelas de custos referenciais de serviços; e
+
 9 – realizar atividades correlatas | Diploma de conclusão do Ensino Superior em Engenharia Civil expedido por instituição devidamente reconhecida pelo MEC |
 | \- [Quantitativo e vencimento alterado pelo Decreto nº 10.602, de 16-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110152). |
-| Engenheiro Mecânico | 6<br>
-~~4~~<br>
-~~5~~ | 40 horas | R$ 8.000,00<br>
-~~R$ 4.220,52~~ | 1 – elaborar, analisar e aprovar projetos e termos de referência;<br>
-2 – realizar estudos, pesquisas e avaliação de projetos;<br>
-3 – verificar a adoção de efetivas ações preventivas ou corretivas;<br>
-4 – medir serviços executados;<br>
-5 – elaborar estudos e tabelas de custos referenciais de serviços; 6 – elaborar e realizar o gerenciamento de projetos;<br>
-7 – fiscalizar, gerir, executar e medir obras;<br>
-8 – realizar levantamentos de quantitativos de serviços para reformas e adequação de instalações de climatização, gases medicinais, elevadores, caldeiras, câmaras frias; e<br>
+| Engenheiro Mecânico | 6
+
+~~4~~
+
+~~5~~ | 40 horas | R$ 8.000,00
+
+~~R$ 4.220,52~~ | 1 – elaborar, analisar e aprovar projetos e termos de referência;
+
+2 – realizar estudos, pesquisas e avaliação de projetos;
+
+3 – verificar a adoção de efetivas ações preventivas ou corretivas;
+
+4 – medir serviços executados;
+
+5 – elaborar estudos e tabelas de custos referenciais de serviços; 6 – elaborar e realizar o gerenciamento de projetos;
+
+7 – fiscalizar, gerir, executar e medir obras;
+
+8 – realizar levantamentos de quantitativos de serviços para reformas e adequação de instalações de climatização, gases medicinais, elevadores, caldeiras, câmaras frias; e
+
 9 – realizar atividades correlatas | Diploma de conclusão do Ensino Superior em Engenharia Mecânica expedido por instituição devidamente reconhecida pelo MEC |
-| <br>
-\- [Quantitativo alterado pelo Decreto nº 10.618, de 27-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110291).<br>
-<br>
+|
+
+\- [Quantitativo alterado pelo Decreto nº 10.618, de 27-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110291).
+
 \- [Quantitativo e vencimento alterado pelo Decreto nº 10.602, de 16-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110152). |
-| Engenheiro Eletricista | 7<br>
-~~14~~ | 40 horas | R$ 8.000,00<br>
-~~R$ 4.220,52~~ | 1 – fiscalizar, gerir, executar e medir obras;<br>
-2 – gerenciar projetos, obras e serviços;<br>
-3 – verificar a adoção de efetivas ações preventivas ou corretivas;<br>
-4 – realizar padronização, mensuração e controle de qualidade;<br>
-5 – medir serviços executados;<br>
-6 – realizar levantamentos de quantitativos de serviços para reformas e adequação de obra civil;<br>
-7 – elaborar estudos e tabelas de custos referenciais de serviços; e<br>
+| Engenheiro Eletricista | 7
+
+~~14~~ | 40 horas | R$ 8.000,00
+
+~~R$ 4.220,52~~ | 1 – fiscalizar, gerir, executar e medir obras;
+
+2 – gerenciar projetos, obras e serviços;
+
+3 – verificar a adoção de efetivas ações preventivas ou corretivas;
+
+4 – realizar padronização, mensuração e controle de qualidade;
+
+5 – medir serviços executados;
+
+6 – realizar levantamentos de quantitativos de serviços para reformas e adequação de obra civil;
+
+7 – elaborar estudos e tabelas de custos referenciais de serviços; e
+
 8 – realizar atividades correlatas | Diploma de conclusão do Ensino Superior em Engenharia Elétrica expedido por instituição devidamente reconhecida pelo MEC |
 | \- [Quantitativo e vencimento alterado pelo Decreto nº 10.602, de 16-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110152). |
-| TOTAL: | 71<br>
-~~69~~<br>
+| TOTAL: | 71
+
+~~69~~
+
 ~~115~~ |   |   |   |   |
-| \- [Quantitativo total alterado pelo Decreto nº 10.618, de 27-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110291).<br>
+| \- [Quantitativo total alterado pelo Decreto nº 10.618, de 27-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110291).
+
 \- [Quantitativo total alterado pelo Decreto nº 10.602, de 16-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110152). |

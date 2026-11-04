@@ -1,5 +1,3 @@
-###DEC-054677-0-000-29-10-1964@@@
-
 Decreto nº 54.677, de 29 de outubro de 1964.
 
 Aprova alterações introduzidas nos Estatutos da Aliança da Bahia Capitalização S. A., inclusive aumento do capital social.

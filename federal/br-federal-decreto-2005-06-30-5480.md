@@ -1,5 +1,3 @@
-###DEC-005480-0-000-30-06-2005@@@
-
 DECRETO Nº 5.480, DE 30 DE JUNHO DE 2005
 
 Dispõe sobre o Sistema de Correição do Poder Executivo Federal, e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-001972-0-017-28-08-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.972-17, DE 28 DE agosto DE 2000.
 
 Dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior e dá outras providências.

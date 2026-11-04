@@ -1,7 +1,3 @@
-1
-
-###DEC-000901-0-000-25-08-1993@@@
-
 DECRETO N° 901, DE 25 DE AGOSTO DE 1993
 
 Dispõe sobre a atuação do Ministro de Estado Extraordinário para a Articulação de Ações na Amazônia Legal.

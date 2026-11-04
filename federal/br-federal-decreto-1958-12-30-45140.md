@@ -1,5 +1,3 @@
-###DEC-045140-0-000-30-12-1958@@@
-
 decreto nº 45.140, de 30 de dezembro de 1958.
 
 Autoriza a cessão gratuita à Associação Médica do Distrito Federal, do domínio útil do terreno que menciona.

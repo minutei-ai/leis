@@ -1,5 +1,3 @@
-###DEC-055166-0-000-09-12-1964@@@
-
 DECRETO Nº 55.166, DE 9 DE DEZEMBRO DE 1964.
 
 Concede reconhecimento ao curso de Professor de Educação Musical da Faculdade de Música da Universidade Católica de Campinas.

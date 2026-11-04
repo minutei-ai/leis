@@ -1,5 +1,3 @@
-###DEC-080413-0-000-27-09-1977@@@
-
 DECRETO Nº 80.413, DE 27 DE SETEMBRO DE 1977
 
 Concede à Companhia Nacional de Cimento Portland o direito de lavrar argila no Município de Cantagalo, Estado do Rio de Janeiro.

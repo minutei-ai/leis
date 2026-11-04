@@ -1,5 +1,3 @@
-###DEC-047485-0-000-24-12-1959@@@
-
 DECRETO Nº 47.485, DE 24 DE DEZEMBRO DE 1959.
 
 Concede reconhecimento aos Cursos de Pintura, Escultura e Desenho Aplicado da Escola Goiana de Belas Artes, da Universidade de Goiás.

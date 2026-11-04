@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211283)<br>
-
 # DECRETO N° 69.773, DE 11 DE AGOSTO DE 2025
 
 ### _Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias à recuperação da pista, pavimentação de acostamentos e melhoria do trecho entre os km 1,20m e 46,00m da Rodovia Floriano Rodrigues Pinheiro, SP-123, nos Municípios de Taubaté, Tremembé, Pindamonhangaba, Santo Antônio do Pinhal e Campos do Jordão, e dá providências correlatas._

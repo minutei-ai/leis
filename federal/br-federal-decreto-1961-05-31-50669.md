@@ -1,5 +1,3 @@
-###DEC-050669-0-000-31-05-1961@@@
-
 DECRETO Nº 50.669, DE 31 DE MAIO DE 1961.
 
 Cria a Inspetoria de Saúde do Aeroporto de Brasília.

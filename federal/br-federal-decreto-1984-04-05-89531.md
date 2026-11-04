@@ -1,5 +1,3 @@
-###DEC-089531-0-000-05-04-1984@@@
-
 Decreto nº 89.531, de 05 de abril de 1984
 
 Regulamenta a Lei nº 6.888, de 10 de dezembro de 1980, que dispõe sobre o exercício da profissão de sociólogo e dá outras providências.

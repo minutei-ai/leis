@@ -1,5 +1,3 @@
-###DEC-059290-0-000-23-09-1966@@@
-
 DECRETO Nº 59.290, DE 23 DE SETEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Levindo da Costa Pereira a lavrar minério de manganês no município de Barbacena, Estado de Minas Gerais.

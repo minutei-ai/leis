@@ -1,5 +1,3 @@
-###DEL-007172-0-000-19-12-1944@@@
-
 DECRETO-LEI N. 7.172 – DE 19 DE DEZEMBRO DE 1944
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 25.000,00, para pagamento de gratificação de representação

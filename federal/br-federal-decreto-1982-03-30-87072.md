@@ -1,5 +1,3 @@
-###DEC-087072-0-000-30-03-1982@@@
-
 decreto nº 87.072, de 30 de março de 1982
 
 Cassa a concessão outorgada à RÁDIO NOTÍCIA BRASILEIRAS LTDA., para executar serviços de radiodifusão sonora em ondas médias de âmbito regional, na cidade de Itabira, Estado de Minas Gerais.

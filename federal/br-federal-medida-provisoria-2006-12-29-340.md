@@ -1,5 +1,3 @@
-###MPV-000340-0-000-29-12-2006@@@
-
 MEDIDA PROVISÓRIA Nº 340, DE 29 DE DEZEMBRO 2006.
 
 Efetua alterações na tabela do imposto de renda da pessoa física, dispõe sobre o desconto de crédito na apuração da Contribuição Social sobre o Lucro Líquido - CSLL, dispõe sobre a redução a zero da alíquota da CPMF nas hipóteses que menciona, altera as Leis nos 10.260, de 12 de julho de 2001, que dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior, 11.128, de 28 de julho de 2005, que dispõe sobre o Programa Universidade para Todos - PROUNI, e 6.194, de 19 de dezembro de 1974, que dispõe sobre o Seguro Obrigatório de Danos Pessoais causados por veículos automotores de via terrestre, ou por sua carga, a pessoas transportadas ou não (DPVAT), prorroga o prazo de que trata o art. 19 da Lei no 11.314, de 3 de julho de 2006, e dá outras providências.
@@ -12,25 +10,113 @@ I - para o ano-calendário de 2007:
 
 ## Tabela Progressiva Mensal
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:188.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Base de Cálculo em R$</span></p></td><td style="width:80.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:'Times New Roman'; font-weight:bold">Alíquota %</span></p></td><td style="width:168.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Parcela a Deduzir do Imposto em R$</span></p></td></tr><tr><td style="width:188.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Até 1.313,69</span></p></td><td style="width:80.9pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:168.65pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td></tr><tr><td style="width:188.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De 1.313,70 até 2.625,12</span></p></td><td style="width:80.9pt; border-left-style:solid; border-left-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">15</span></p></td><td style="width:168.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">197,05</span></p></td></tr><tr><td style="width:188.45pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Acima de 2.625,12</span></p></td><td style="width:80.9pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">27,5</span></p></td><td style="width:168.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">525,19</span></p></td></tr></tbody></table>
+Base de Cálculo em R$
+
+Alíquota %
+
+Parcela a Deduzir do Imposto em R$
+
+Até 1.313,69
+
+-
+
+-
+
+De 1.313,70 até 2.625,12
+
+15
+
+197,05
+
+Acima de 2.625,12
+
+27,5
+
+525,19
 
 II - para o ano-calendário de 2008:
 
 ## Tabela Progressiva Mensal
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:188.8pt; border-top-style:solid; border-top-width:0.75pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Base de Cálculo em R$</span></p></td><td style="width:79.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:'Times New Roman'; font-weight:bold">Alíquota %</span></p></td><td style="width:169.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Parcela a Deduzir do Imposto em R$</span></p></td></tr><tr><td style="width:188.8pt; border-top-style:solid; border-top-width:0.75pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Arial                   '">Até 1.372,81</span></p></td><td style="width:79.45pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:169.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td></tr><tr><td style="width:188.8pt; border-top-style:solid; border-top-width:0.75pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De 1.372,82 até 2.743,25</span></p></td><td style="width:79.45pt; border-left-style:solid; border-left-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">15</span></p></td><td style="width:169.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">205,92</span></p></td></tr><tr><td style="width:188.8pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="font-size:12pt"><span style="font-family:'  Arial           '">Acima de 2.743,25</span></p></td><td style="width:79.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:12pt"><span style="font-family:'  Arial           '">27,5</span></p></td><td style="width:169.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">548,82</span></p></td></tr></tbody></table>
+Base de Cálculo em R$
+
+Alíquota %
+
+Parcela a Deduzir do Imposto em R$
+
+Até 1.372,81
+
+-
+
+-
+
+De 1.372,82 até 2.743,25
+
+15
+
+205,92
+
+Acima de 2.743,25
+
+27,5
+
+548,82
 
  III - para o ano-calendário de 2009:
 
 ## Tabela Progressiva Mensal
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:186.5pt; border-top-style:solid; border-top-width:0.75pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Base de Cálculo em R$</span></p></td><td style="width:84.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Alíquota %</span></p></td><td style="width:167.1pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Parcela a Deduzir do Imposto em R$</span></p></td></tr><tr><td style="width:186.5pt; border-top-style:solid; border-top-width:0.75pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Arial                   '">Até 1.434,59</span></p></td><td style="width:84.4pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:167.1pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td></tr><tr><td style="width:186.5pt; border-top-style:solid; border-top-width:0.75pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De 1.434,60 até 2.866,70</span></p></td><td style="width:84.4pt; border-left-style:solid; border-left-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">15</span></p></td><td style="width:167.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">215,19</span></p></td></tr><tr><td style="width:186.5pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Acima de 2.866,70</span></p></td><td style="width:84.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">27,5</span></p></td><td style="width:167.1pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">573,52</span></p></td></tr></tbody></table>
+Base de Cálculo em R$
+
+Alíquota %
+
+Parcela a Deduzir do Imposto em R$
+
+Até 1.434,59
+
+-
+
+-
+
+De 1.434,60 até 2.866,70
+
+15
+
+215,19
+
+Acima de 2.866,70
+
+27,5
+
+573,52
 
 IV - a partir do ano-calendário de 2010:
 
 ## Tabela Progressiva Mensal
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:186.5pt; border-top-style:solid; border-top-width:0.75pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Base de Cálculo em R$</span></p></td><td style="width:84.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Alíquota %</span></p></td><td style="width:167.1pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Parcela a Deduzir do Imposto em R$</span></p></td></tr><tr><td style="width:186.5pt; border-top-style:solid; border-top-width:0.75pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Até 1.499,15</span></p></td><td style="width:84.4pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:167.1pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">-</span></p></td></tr><tr><td style="width:186.5pt; border-top-style:solid; border-top-width:0.75pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="font-size:12pt"><span style="font-family:'Arial                   '">De 1.499,16 até 2.995,70</span></p></td><td style="width:84.4pt; border-left-style:solid; border-left-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">15</span></p></td><td style="width:167.1pt; border-left-style:solid; border-left-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">224,87</span></p></td></tr><tr><td style="width:186.5pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.75pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Acima de 2.995,70</span></p></td><td style="width:84.4pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">27,5</span></p></td><td style="width:167.1pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.75pt; padding-left:0.38pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">599,34</span></p></td></tr></tbody></table>
+Base de Cálculo em R$
+
+Alíquota %
+
+Parcela a Deduzir do Imposto em R$
+
+Até 1.499,15
+
+-
+
+-
+
+De 1.499,16 até 2.995,70
+
+15
+
+224,87
+
+Acima de 2.995,70
+
+27,5
+
+599,34
 
 Parágrafo único.  O imposto de renda anual devido incidente sobre os rendimentos de que trata o caput deste artigo será calculado de acordo com tabela progressiva anual correspondente à soma das tabelas progressivas mensais vigentes nos meses de cada ano-calendário.
 
@@ -249,5 +335,3 @@ LUIZ INÁCIO LULA DA SILVA
         Fernando Haddad
 
         Luiz Fernando Furlan
-
-Este texto não substitui o publicado no DOU. de 29.12.2006 - Edição extra

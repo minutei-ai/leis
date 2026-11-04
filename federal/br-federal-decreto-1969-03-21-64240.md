@@ -1,5 +1,3 @@
-###DEC-064240-0-000-21-03-1969@@@
-
 decreto nº 64.240, de 21 de marÇo de 1969.
 
 Restabelece a situação de servidor do Departamento de Polícia Federal alterada pelo Decreto nº 63.612, de 13 de Novembro de 1968.

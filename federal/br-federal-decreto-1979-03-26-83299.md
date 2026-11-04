@@ -1,5 +1,3 @@
-###DEC-083299-0-000-26-03-1979@@@
-
 Decreto nº 83.299, de 26 de março de 1979
 
 Concede reconhecimento ao curso de Agrimensura da Universidade Federal de Viçosa, Estado de Minas Gerais.

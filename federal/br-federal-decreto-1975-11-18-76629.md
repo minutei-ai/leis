@@ -1,5 +1,3 @@
-###DEC-076629-0-000-18-11-1975@@@
-
 DECRETO Nº 76.629, DE 18 DE NOVEMBRO DE 1975.
 
 Declara-se de Utilidade Pública para fins de desapropriação, o imóvel que menciona destinado ao Ministério do Exército.

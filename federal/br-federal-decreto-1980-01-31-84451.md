@@ -1,5 +1,3 @@
-###DEC-084451-0-000-31-01-1980@@@
-
 Decreto nº 84.451, de 31 de janeiro de 1980.
 
 Dispõe sobre os atos notariais e de registro civil do serviço consular brasileiro.

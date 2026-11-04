@@ -1,5 +1,3 @@
-###DEC-092522-0-000-07-04-1986@@@
-
 DECRETO Nº 92.522, DE 7 DE ABRIL DE 1986
 
 Aprova o II Plano Setorial para os Recursos do Mar.

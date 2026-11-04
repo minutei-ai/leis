@@ -20,11 +20,14 @@ Art. 2º. Esta Lei entrará em vigor na data de sua publicação, revogadas as d
 
 Gabinete do Prefeito Municipal, aos vinte e três dias do mês de agosto de dois mil e sete.
 
-JOSÉ MACEDO DE ARAÚJO<br>
+JOSÉ MACEDO DE ARAÚJO
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO
 
-ZANONE RODRIGUES PEREIRA<br>
+ZANONE RODRIGUES PEREIRA
+
 SEC. DA FAZENDA

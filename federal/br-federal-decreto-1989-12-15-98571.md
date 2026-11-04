@@ -1,7 +1,3 @@
-1
-
-###DEC-098571-0-000-15-12-1989@@@
-
 DECRETO Nº 98.571, DE 15 DE DEZEMBRO DE 1989
 
 Altera o Decreto n° 97.566, de 9 de março de 1989, que declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA MOCAMBO OU MUCAMBO” Firme, situado no Município de São Domingos, Estado de Goiás.

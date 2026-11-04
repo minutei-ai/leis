@@ -1,5 +1,3 @@
-###DEC-074798-0-000-01-11-1974@@@
-
 DECRETO Nº 74.798, DE 1 DE NOVEmBRO DE 1974.
 
 Autoriza a cessão, sob o regime de locação, do imóvel que menciona, situado na cidade de Itajubá, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-048105-0-000-12-04-1960@@@
-
 DECRETO Nº 48.105, DE 12 DE ABRIL DE 1960.
 
 Retifica a Tabela Numérica de Mensalistas da Comissão Federal de Abastecimento e Preços e dá outras providências.

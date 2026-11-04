@@ -1,5 +1,3 @@
-###DEC-057960-0-000-10-03-1966@@@
-
 DECRETO Nº 57.960, DE 10 DE MARÇO DE 1966.
 
 Autoriza a cidadã brasileira Maria da Conceição a pesquisar feldspato, quartzito  e dolomita, no município de Piedade, Estado de São Paulo.

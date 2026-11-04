@@ -1,5 +1,3 @@
-###DEC-003864-0-000-11-07-2001@@@
-
 DECRETO Nº 3.864, DE 11 DE JULHO DE 2001
 
 Acresce dispositivo ao Decreto nº 3.860, de 9 de julho de 2001, que dispõe sobre a organização do ensino superior e a avaliação de cursos e instituições.

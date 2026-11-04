@@ -1,5 +1,3 @@
-###DEC-067768-0-000-09-12-1970@@@
-
 DECRETO Nº 67.768, DE 9 DE DEZEMBRO DE 1970.
 
 Declara caduco o Decreto nº 17.074, de 8 de novembro de 1944.

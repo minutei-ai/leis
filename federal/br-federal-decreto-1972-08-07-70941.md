@@ -1,5 +1,3 @@
-###DEC-070941-0-000-07-08-1972@@@
-
 DECRETO Nº 70.941, DE 7 DE AGOSTO DE 1972.
 
 Autoriza o funcionamento do Curso de Administração da Faculdade de Ciências Econômicas de Franca, SP.

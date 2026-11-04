@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211269)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/ato.da.mesa/2025/compilacao-ato.da.mesa-22-01.08.2025.html)
 
 # ATO DA MESA N° 22, DE 01 DE AGOSTO DE 2025

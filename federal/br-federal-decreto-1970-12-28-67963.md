@@ -1,5 +1,3 @@
-###DEC-067963-0-000-28-12-1970@@@
-
 Decreto nº 67.963, de 28 de dezembro de 1970.
 
 Declara extinta a concessão outorgada à DC-TV Rádio Sociedade Anônima.

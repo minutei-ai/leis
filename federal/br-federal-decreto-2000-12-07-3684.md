@@ -1,5 +1,3 @@
-###DEC-003684-0-000-07-12-2000@@@
-
 DECRETO Nº 3.684, DE 7 DE Dezembro DE 2000.
 
 Dispõe sobre o Imposto de Exportação incidente sobre os couros e peles compreendidos nos códigos 4104.10, 4104.22 e 4104.29.00 da Nomenclatura Comum do MERCOSUL - NCM.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098883-0-000-25-01-1990@@@
-
 DECRETO Nº 98.883, DE 25 DE JANEIRO DE 1990
 
 Outorga concessão à RÁDIO CIDADE DE APIAÍ LTDA., para explorar serviço de radiodifusão sonora em onda media, na Cidade de Apiaí, Estado de São Paulo.

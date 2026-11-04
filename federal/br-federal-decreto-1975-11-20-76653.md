@@ -1,5 +1,3 @@
-###DEC-076653-0-000-20-11-1975@@@
-
 DECRETO Nº 76.653, DE 20 DE NOVEMBRO DE 1975.
 
 Declara luto Oficial.

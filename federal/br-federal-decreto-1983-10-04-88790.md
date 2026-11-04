@@ -1,5 +1,3 @@
-###DEC-088790-0-000-04-10-1983@@@
-
 DECRETO Nº 88.790, DE 04 DE OUTUBRO DE 1983.
 
 Dispõe sobre a fixação de área proprietária, para fins de reforma agrária, no Município de Paratí, Estado do Rio de Janeiro.

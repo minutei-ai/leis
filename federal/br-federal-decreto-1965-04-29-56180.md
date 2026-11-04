@@ -1,5 +1,3 @@
-###DEC-056180-0-000-29-04-1965@@@
-
 DECRETO Nº 56.180, DE 29 DE ABRIL DE 1965.
 
 Revoga os Decretos  52.900 de 221 de novembro de 1963 e 54.402, de 9 de janeiro de  1964 e dá outras providencias.

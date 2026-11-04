@@ -1,5 +1,3 @@
-###DEC-056553-0-000-08-07-1965@@@
-
 DECRETO Nº 56.553, DE 8 DE JULHO DE 1965.
 
 Altera a redação do Decreto nº 56.414, de 4 de junho de 1965, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001275-0-000-13-10-1994@@@
-
 DECRETO Nº 1275, DE 13 DE OUTUBRO DE 1994
 
 Dispõe sobre a Zona de Processamento de Exportação - ZPE de João Pessoa, no Estado da Paraíba.

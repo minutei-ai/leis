@@ -4,7 +4,8 @@ Dispõe sobre as diretrizes para a elaboração da Lei Orçamentária para o exe
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1º Ficam estabelecidas, em cumprimento ao disposto no art. 165, § 2º, da Constituição Federal, ao art. 92 §2º, da Lei Orgânica do Município de Aparecida de Goiânia e das disposições contidas na Lei Complementar nº 101, de 04 de maio de 2000, as diretrizes gerais para elaboração dos orçamentos do Município, para o exercício de 2017, compreendendo:
@@ -29,14 +30,16 @@ IX – incentivo á participação popular;
 
 X – as disposições gerais.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DAS PRIORIDADES E METAS DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL
 
 Art. 2° As prioridades contempladas nesta Lei estão definidas na Lei Municipal nº 3.149 de 20 de dezembro de 2013, e suas alterações posteriores que dispõe sobre o Plano Plurianual para o quadriênio 2014-2017, especificadas no Anexo de Metas e Prioridades, as quais terão precedência na alocação de recursos na lei orçamentária para 2017, e na sua execução, não se constituindo, porém, em limite à programação das despesas.
 
 Art. 3º Integram esta lei os anexos de Metas Fiscais, de Riscos Fiscais e de Metas para o exercício financeiro de 2017, estabelecidos para o próximo exercício, em conformidade com o que dispõe os §§ 1º e 3º do art. 4º da Lei Complementar nº. 101, de 04 de maio de 2000 - Lei de Responsabilidade Fiscal.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DA ORGANIZAÇÃO E ESTRUTURA DOS ORÇAMENTOS
 
 Art. 4° Para efeito desta lei entende-se por:
@@ -95,7 +98,8 @@ III – orçamento fiscal e da seguridade social dos Poderes Executivo, Legislat
 
 § 1º  O Projeto de Lei Orçamentária conterá ainda a programação referente à manutenção e desenvolvimento do ensino, nos termos do art. 113, da Lei Orgânica Municipal.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DAS DIRETRIZES GERAIS PARA A ELABORAÇÃO E EXECUÇÃO DOS ORÇAMENTOS DO MUNICÍPIO E SUAS ALTERAÇÕES.
 
 Art. 7º A elaboração do projeto de lei, a aprovação e a execução da lei orçamentária para o exercício vindouro evidenciarão a transparência da gestão fiscal, observados os princípios da publicidade e a garantia do acesso popular através de audiências públicas (presenciais ou eletrônicas) previamente programadas.
@@ -210,7 +214,8 @@ Art.30 Na programação dos investimentos, aqueles em fase de execução terão 
 
 Art. 31 A administração pública poderá destinar recursos para, direta ou indiretamente, cobrir necessidades de pessoas físicas, comprovadamente carentes, tanto por meio de auxílios financeiros quanto por meio de material de distribuição gratuita, observado o art. 26 da Lei Complementar nº 101/2000.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DAS DISPOSIÇÕES RELATIVAS ÀS DESPESAS COM PESSOAL E ENCARGOS SOCIAIS
 
 Art. 32 As despesas totais com pessoal serão limitadas em 60% (sessenta por cento) da receita corrente líquida do Município, sendo 6% (seis por cento) para o Legislativo e 54% (cinquenta e quatro por cento) para o Poder Executivo, nos termos do art. 20, III da Lei Complementar nº 101/2000, excetuando-se os casos de:
@@ -239,23 +244,28 @@ Art. 34 É nulo de pleno direito o ato que provoque aumento da despesa com pesso
 
 Art. 35 Nenhum benefício ou serviço relativo à seguridade social poderá ser criado, majorado ou estendido, sem fonte de custeio total.
 
-Art. 36. Desde que não ultrapasse o limite legal de gastos com pessoal conforme previsto na Lei de Responsabilidade Fiscal, ficam autorizadas as nomeações e contratações dos aprovados em concursos públicos, para provimento de cargo efetivo, bem como a contratação por prazo determinado em substituição de servidores e atribuição de gratificações legalmente instituídas.<br>
+Art. 36. Desde que não ultrapasse o limite legal de gastos com pessoal conforme previsto na Lei de Responsabilidade Fiscal, ficam autorizadas as nomeações e contratações dos aprovados em concursos públicos, para provimento de cargo efetivo, bem como a contratação por prazo determinado em substituição de servidores e atribuição de gratificações legalmente instituídas.
+
 (Redação alterada pela Lei Ordinária nº 3.380, de 21 de setembro de 2017).
 
 ~~Art. 36 Desde que não ultrapasse o limite legal de gastos com pessoal conforme previsto na Lei de Responsabilidade Fiscal, ficam autorizadas as nomeações e contratações dos aprovados em concursos públicos, para provimento de cargo efetivo, bem como a contratação por prazo determinado em substituição de servidores.~~
 
-§1º. Fica autorizada a criação de 13 (treze) cargos efetivos de Guarda Civil Municipal, da Guarda Civil Municipal de Aparecida de Goiânia.<br>
+§1º. Fica autorizada a criação de 13 (treze) cargos efetivos de Guarda Civil Municipal, da Guarda Civil Municipal de Aparecida de Goiânia.
+
 (Redação alterada pela Lei Ordinária nº 3.380, de 21 de setembro de 2017).
 
-~~Parágrafo único. Fica autorizada a criação de 13 (treze) cargos efetivos de Guarda Civil Municipal, da Guarda Civil Municipal de Aparecida de Goiiânia.~~<br>
+~~Parágrafo único. Fica autorizada a criação de 13 (treze) cargos efetivos de Guarda Civil Municipal, da Guarda Civil Municipal de Aparecida de Goiiânia.~~
+
 ~~(Redação acrescentada pela Lei Complementar nº 129, de 26 de junho de 2017).~~
 
-§2º. Ficam autorizadas as instituições do Regime Especial de Trabalho dos Servidores Efetivos da Estratégia de Saúde da Família e do NASF – Núcleo de Apoio a Família – e da gratificação de produtividade para agentes comunitários de saúde, respeitados os limites estabelecidos na LRF.<br>
+§2º. Ficam autorizadas as instituições do Regime Especial de Trabalho dos Servidores Efetivos da Estratégia de Saúde da Família e do NASF – Núcleo de Apoio a Família – e da gratificação de produtividade para agentes comunitários de saúde, respeitados os limites estabelecidos na LRF.
+
 ​​​​​​​​​​​​​​(Redação acrescentada pela Lei Ordinária nº 3.380, de 21 de setembro de 2017).
 
 Art. 37 O Poder Executivo poderá proceder à revisão geral anual na remuneração básica dos servidores públicos e nos subsídios de conformidade com artigo 37, da Constituição Federal.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 DAS DISPOSIÇÕES SOBRE ALTERAÇÕES NA LEGISLAÇÃO TRIBUTÁRIA DO MUNICÍPIO.
 
 Art. 38 O Poder Executivo Municipal poderá enviar à Câmara Municipal projeto de lei dispondo sobre alterações na legislação tributária, cujos efeitos poderão ser considerados, especialmente sobre:
@@ -276,7 +286,8 @@ VII - Instituição de novas taxas pela prestação de serviços públicos e pel
 
 VIII - Revisão das isenções tributárias, para manter o interesse público e a justiça social;
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 CRITÉRIOS E FORMAS DE LIMITAÇÃO DE EMPENHO
 
 Art.39 Na hipótese de ocorrência das circunstancias estabelecidas no caput do art. 9º e no inciso II do § 1º do art. 31, da Lei Complementar nº 101/2000, o Poder Executivo e o Poder Legislativo precederão à respectiva limitação de empenho e de movimentação financeira, calculada de forma proporcional à participação dos Poderes no total das dotações iniciais constantes da lei orçamentária de 2017, utilizando para tal fim as cotas orçamentárias e financeiras.
@@ -307,7 +318,8 @@ VIII - investimentos novos.
 
 § 5º Se verificado, ao final de um bimestre, que a realização da receita não será suficiente para garantir o equilíbrio das contas públicas, adotar-se-ão as mesmas medidas previstas neste artigo.
 
-SEÇÃO VIII<br>
+SEÇÃO VIII
+
 PARAMETROS PARA A ELABORAÇÃO DAS METAS BIMESTRAIS DE ARRECADAÇÃO E O CRONOGRAMA MENSAL DE DESEMBOLSO
 
 Art.40 O Poder Executivo por meio da Secretaria de Planejamento, estabelecerá por ato próprio, até 30 (trinta) dias, após a publicação da Lei Orçamentária de 2017, o cronograma mensal de desembolso, e as metas bimestrais de arrecadação, respectivamente, nos termos dos arts. 8º e 13 da Lei Complementar nº 101/2000.
@@ -318,7 +330,8 @@ Art.40 O Poder Executivo por meio da Secretaria de Planejamento, estabelecerá p
 
 § 3º A programação financeira e o cronograma mensal de desembolso de que trata o caput deste artigo servirão de base para a limitação de empenhos, além de garantir o cumprimento da meta de resultado primário.
 
-SEÇÃO IX<br>
+SEÇÃO IX
+
 DEFINIÇÃO DE CRITÉRIOS PARA INICIO DE NOVOS PROJETOS
 
 Art.41 Além da observância das metas e prioridades definidas nos termos do art. 2º desta Lei, a lei orçamentária de 2017 e seus créditos adicionais, observado o disposto no art. 45 da Lei complementar nº 101/2000 somente incluirão novos projetos se:
@@ -333,7 +346,8 @@ IV – os recursos alocados destinarem-se a contrapartidas de recursos federais,
 
 Parágrafo Único. Considera-se projeto em andamento, para os efeitos desta Lei, aquele cuja execução iniciar-se até a data de encaminhamento da proposta orçamentária para o exercício de 2017, cujo cronograma de execução ultrapasse o término do exercício de 2016.
 
-SEÇÃO X<br>
+SEÇÃO X
+
 INCENTIVO À PARTICIPAÇÃO POPULAR
 
 Art. 42 O projeto de lei orçamentária do Município, relativo ao exercício financeiro de 2017, deverá assegurar a transparência na elaboração e execução do orçamento.
@@ -348,7 +362,8 @@ I – elaboração da proposta orçamentária de 2017;
 
 II – demonstração dos resultados obtidos pela Administração, na execução do planejamento;
 
-SEÇÃO XI<br>
+SEÇÃO XI
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 44 A programação de receitas e despesas a serem previstas no Orçamento para o exercício de 2017, deverá ser compatível com os objetivos e metas do Plano Plurianual (PPA) e da Lei de Diretrizes Orçamentárias (LDO).
@@ -365,13 +380,16 @@ Art. 48 Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 09 dias do mês de novembro do ano de 2016.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 PREFEITO MUNICIPAL
 
-EULER DE MORAIS<br>
+EULER DE MORAIS
+
 SECRETÁRIO DE GOVERNO
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 SECRETÁRIO DE PLANEJAMENTO
 
 ANEXOS

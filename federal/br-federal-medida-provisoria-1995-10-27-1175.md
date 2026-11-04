@@ -1,7 +1,3 @@
-1
-
-###MPV-001175-0-000-27-10-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.175, DE 27 DE OUTUBRO DE 1995.
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-057605-0-000-07-01-1966@@@
-
 DECRETO Nº 57.605, DE 7 DE JANEIRO DE 1966.
 
 Considera como Gabinete, para efeito do Decreto nº 56.598, de 21 de julho de 1965, a Presidência dos Conselhos Setorias das Autarquias vinculadas ou subordinadas ao MVOP.

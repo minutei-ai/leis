@@ -1,7 +1,3 @@
-1
-
-###DEC-000236-0-000-23-10-1991@@@
-
 DECRETO Nº 236, DE 23 DE OUTUBRO DE 1991
 
 Disciplina a aquisição de imóvel rural, por compra e venda, para fins de reforma agrária.

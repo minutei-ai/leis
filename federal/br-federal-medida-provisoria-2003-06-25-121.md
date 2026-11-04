@@ -1,5 +1,3 @@
-###MPV-000121-0-000-25-06-2003@@@
-
 MEDIDA PROVISÓRIA Nº 121, DE 25 DE JUNHO 2003.
 
        Dispõe sobre a criação de subsidiárias integrais do Banco do Brasil S.A., para atuação no segmento de microfinanças e consórcios.
@@ -24,5 +22,6 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da
 
         Brasília, 25 de junho de 2003, 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Antonio Palocci Filho

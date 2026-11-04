@@ -1,5 +1,3 @@
-###DEC-084550-0-000-11-03-1980@@@
-
 Decreto nº 84.550, de 11 de março de 1980.
 
 Concede autorização à HISPANICA PETRÓLEOS S.A. - (HISPANOIL) e HUDBAY OIL (BRAZIL) LTD. para operarem no mar territorial do Brasil, fixado pelo Decreto-Lei nº 1.098, de 25 de março de 1970, a serviço da PETRÓLEO BRASILEIRO S.A. - PETROBRÁS.

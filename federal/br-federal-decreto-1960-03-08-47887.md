@@ -1,5 +1,3 @@
-###DEC-047887-0-000-08-03-1960@@@
-
 DECRETO Nº 47.887, DE 8 DE março DE 1960.
 
 Estabelece o Plano de Obras para o Escritório técnico da cidade Universitária da Universidade do Brasil e dá outras providências.

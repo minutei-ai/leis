@@ -1,5 +1,3 @@
-###DEC-075618-0-000-16-04-1975@@@
-
 DECRETO Nº 75.618, DE 16 DE ABRIL DE 1975.
 
 Autoriza o funcionamento do curso de Professores para as Disciplinas de Formação Especial no Ensino de 2º Grau do Centro de Formação de Professores de Disciplinas Especializadas para o Ensino de 2º Grau, da Faculdade de Filosofia, Ciências e Letras Nossa Senhora do Patrocínio, mantida pela Sociedade de Educação Nossa Senhora do Patrocínio, com sede na Cidade de Itú, Estado de São Paulo.

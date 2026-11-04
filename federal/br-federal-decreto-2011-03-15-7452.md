@@ -1,5 +1,3 @@
-###DEC-007452-0-000-15-03-2011-PUB-01@@@
-
 DECRETO Nº 7.452, DE 15 DE MARÇO DE 2011
 
 Regulamenta a Lei nº 12.310, de 19 de agosto de 2010, que autoriza a União a doar ao Estado de Mato Grosso as áreas de domínio federal nas Glebas denominadas Maiká e Cristalino/Divisa.

@@ -1,5 +1,3 @@
-###DEC-054936-0-000-04-11-1964@@@
-
 DECRETO Nº 54.936, DE 4 DE NOVEMBRO DE 1964.
 
 Regulamenta, para as emprêsas concessionárias de serviços de energia elétrica, a aplicação do art. 5º da Lei nº 3.470, de 23 de novembro de 1958 e dos arts 3º a 6º da Lei nº 4.357, de 16 de junho de 1964, relativos à correção da tradução monetária do valor original dos bens do ativo imobilizado das pessoas jurídicas.

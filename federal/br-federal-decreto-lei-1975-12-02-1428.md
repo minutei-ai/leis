@@ -1,5 +1,3 @@
-###DEL-001428-0-000-02-12-1975@@@
-
 # DECRETO-LEI Nº 1.428, DE 2 DE DEZEMBRO DE 1975
 
 Dispõe sobre isenções de impostos na importação, cria incentivos fiscais à indústria nacional de bens de capital, regulamenta a concessão de estímulos a ampliação de produção destinada a exportação e dá outras providências.

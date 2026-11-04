@@ -1,5 +1,3 @@
-###DEL-009840-0-000-11-09-1946@@@
-
 DECRETO-LEI N. 9.840 – DE 11 DE  SETEMBRO DE 1946
 
 Consolida infrações sôbre crimes contra a economia popular e dá outras providências.

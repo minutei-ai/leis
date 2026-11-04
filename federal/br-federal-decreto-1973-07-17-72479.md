@@ -1,5 +1,3 @@
-###DEC-072479-0-000-17-07-1973@@@
-
 DECRETO Nº 72.479, DE 17 DE JULHO DE 1973.
 
 Torna sem efeito aproveitamento de disponível no Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado.

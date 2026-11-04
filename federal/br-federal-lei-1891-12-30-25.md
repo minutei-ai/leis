@@ -1,14 +1,12 @@
-###LEI-000025-0-000-30-12-1891@@@
+**LEI N. 25 – DE 30 DE DEZEMBRO DE 1891**
 
-<strong>LEI N. 25 – DE 30 DE DEZEMBRO DE 1891</strong>
-
-<em><strong>Orça a receita geral da Republica dos Estados Unidos do Brazil para o exercicio de 1892, e dá outras providencias.</strong></em>
+***Orça a receita geral da Republica dos Estados Unidos do Brazil para o exercicio de 1892, e dá outras providencias.***
 
 O Vice-Presidente da Republica dos Estados Unidos do Brazil: Faço saber que o Congresso Nacional decreta e eu sancciono a lei seguinte:
 
 RECEITA GERAL
 
-<strong>Art.</strong> 1º A receita geral da Republica dos Estados Unidos do Brazil é orçada na quantia de 207.992:120$ e será realizada com o producto do que for arrecadado dentro do exercicio da presente lei, sob os titulos abaixo assignados:
+**Art.** 1º A receita geral da Republica dos Estados Unidos do Brazil é orçada na quantia de 207.992:120$ e será realizada com o producto do que for arrecadado dentro do exercicio da presente lei, sob os titulos abaixo assignados:
 
 RECEITA ORDINARIA
 
@@ -130,7 +128,7 @@ Saldo ou excesso entre os recebimentos e as restituições.
 
 DISPOSIÇÕES GERAES
 
-<strong>Art.</strong> 2º E' o Governo autorizado:
+**Art.** 2º E' o Governo autorizado:
 
 1º, a expedir regulamento para a cobrança do imposto do consumo do fumo, podendo estabelecer penas de multa de 50$ a 500$ aos infractores, que poderão ser elevadas ao duplo no caso de reincidencia;
 
@@ -150,17 +148,17 @@ Os saldos que resultem do encontro das entradas com as sahidas poderão ser appl
 
 4º, a rever as tarifas aduaneiras, as do imposto de doca e das armazenagens, podendo estender ao xarque importado o imposto addicional de 50 %, si julgar conveniente aos interesses do paiz.
 
-<strong>Art.</strong> 3º As directorias dos bancos, companhias e sociedades anonymas descontarão os dividendos distribuidos e juros pagos aos respectivos accionistas e portadores de debentures a $200 sobre 100$ do valor das acções e debentures ao portador, que serão recolhidos ao Thesouro Nacional dentro de 15 dias de annuncio do pagamento dos mesmos dividendos e juros.
+**Art.** 3º As directorias dos bancos, companhias e sociedades anonymas descontarão os dividendos distribuidos e juros pagos aos respectivos accionistas e portadores de debentures a $200 sobre 100$ do valor das acções e debentures ao portador, que serão recolhidos ao Thesouro Nacional dentro de 15 dias de annuncio do pagamento dos mesmos dividendos e juros.
 
-<strong>Art.</strong> 4º O Poder Executivo continuará a arrecadar nos Estados ainda não organizados, e até que estes se organizem, os impostos que, em virtude de disposição constitucional, lhes são transferidos, procedendo do mesmo modo em relação ao Districto Federal.
+**Art.** 4º O Poder Executivo continuará a arrecadar nos Estados ainda não organizados, e até que estes se organizem, os impostos que, em virtude de disposição constitucional, lhes são transferidos, procedendo do mesmo modo em relação ao Districto Federal.
 
-<strong>Art.</strong> 5º E' permittido aos Estados do Rio de Janeiro, S. Paulo, Minas Geraes e Espirito Santo a arrecadação de seus impostos de exportação no Districto Federal, procedendo cada um desses Estados de harmonia com sua legislação fiscal.
+**Art.** 5º E' permittido aos Estados do Rio de Janeiro, S. Paulo, Minas Geraes e Espirito Santo a arrecadação de seus impostos de exportação no Districto Federal, procedendo cada um desses Estados de harmonia com sua legislação fiscal.
 
-<strong>Art.</strong> 6º Fica o Governo autorizado a fazer nos orçamentos da Justiça, Instrucção Publica e Interior as modificações precisas, de accordo com a lei n. 23 de 30 de outubro deste anno, que reorganizou os serviços federaes, sem exceder a verba total votada para esses diversos orçamentos parciaes.
+**Art.** 6º Fica o Governo autorizado a fazer nos orçamentos da Justiça, Instrucção Publica e Interior as modificações precisas, de accordo com a lei n. 23 de 30 de outubro deste anno, que reorganizou os serviços federaes, sem exceder a verba total votada para esses diversos orçamentos parciaes.
 
-<strong>Art.</strong> 7º Fica em vigor o decreto n. 947 A de 4 de novembro de 1890, que regula e fiscaliza as concessões de isenção de direitos de importação ou consumo, comprehendendo, nos termos do seu art. 8º, as concessões anteriores á sua publicação.
+**Art.** 7º Fica em vigor o decreto n. 947 A de 4 de novembro de 1890, que regula e fiscaliza as concessões de isenção de direitos de importação ou consumo, comprehendendo, nos termos do seu art. 8º, as concessões anteriores á sua publicação.
 
-<strong>Art.</strong> 8º Ficam revogadas as disposições em contrario.
+**Art.** 8º Ficam revogadas as disposições em contrario.
 
 Mando, portanto, a todas as autoridades a quem o conhecimento e execução desta lei pertencerem que a executem e a façam executar e observar fiel e inteiramente como nella se contém.
 
@@ -168,7 +166,7 @@ O Ministro de Estado interino dos Negocios da Fazenda a faça imprimir e publica
 
 Capital Federal, 30 de Dezembro de 1891, 3º da Republica.
 
-<strong>FLORIANO PEIXOTO.</strong>
+**FLORIANO PEIXOTO.**
 
 Antão Gonçalves de Faria.
 

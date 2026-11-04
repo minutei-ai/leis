@@ -1,5 +1,3 @@
-###DEC-007667-0-000-11-01-2012-PUB-01@@@
-
 DECRETO Nº 7.667, DE 11 DE JANEIRO DE 2012
 
 Promulga o Tratado Constitutivo da União de Nações Sul-Americanas, firmado em Brasília, em 23 de maio de 2008.

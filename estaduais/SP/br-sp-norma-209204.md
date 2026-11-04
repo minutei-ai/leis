@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209204)<br>
-
 # LEI N° 17.876, DE 18 DE MARÇO DE 2024
 
 ## (Projeto de lei n° 1403/2023, do Deputado Mauro Bragato - PSDB)

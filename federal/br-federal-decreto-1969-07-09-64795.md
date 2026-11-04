@@ -1,5 +1,3 @@
-###DEC-064795-0-000-09-07-1969@@@
-
 DECRETO Nº 64.795 - DE 9 DE JULHO DE 1969.
 
 Delega competência ao Ministro dos Transportes para aprovar modificações estatutárias de entidades vinculadas àquele Ministério.

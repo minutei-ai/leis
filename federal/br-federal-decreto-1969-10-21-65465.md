@@ -1,5 +1,3 @@
-###DEC-065465-0-000-21-10-1969@@@
-
 Decreto nº 65.465 - de 21 de outubro de 1969.
 
 Aprova o Regimento da Comissão Coordenadora criada pelo artigo 4º do Decreto nº 64.086, de 11 de fevereiro de 1969.

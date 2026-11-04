@@ -1,5 +1,3 @@
-###DEL-008272-0-000-03-12-1945@@@
-
 DECRETO-LEI N. 8.272 – DE 3 DE DEZEMBRO DE 1945
 
 Organiza como unidade técnico-administrativa a Faculdade Nacional de Farmácia da Universidade do Brasil.

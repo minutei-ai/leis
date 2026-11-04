@@ -1,5 +1,3 @@
-###DEC-048637-0-000-29-07-1960@@@
-
 DECRETO Nº 48.637, DE 29 DE JULHO DE 1960.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de impostos e taxas federais, a importação dos equipamentos novos, neste descritos e consignados à emprêsa Tubos Guararapes S.A. de Recife (Pe).

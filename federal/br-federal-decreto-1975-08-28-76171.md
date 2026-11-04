@@ -1,5 +1,3 @@
-###DEC-076171-0-000-28-08-1975@@@
-
 DECRETO Nº 76.171 - DE 28 DE AGOSTO DE 1975
 
 Retifica o Decreto nº 75.822, de 4 de junho de 1975, que autorizou o funcionamento dos cursos de Letras e de Geografia e História da Escola Superior de Ciências e Pedagogia, da Fundação Educacional do Sul de Santa Catarina.

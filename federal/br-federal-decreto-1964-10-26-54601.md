@@ -1,5 +1,3 @@
-###DEC-054601-0-000-26-10-1964@@@
-
 DECRETO Nº 54.601, DE 26 DE OUTUBRO DE 1964.
 
 Renova o Decreto nº 46.312, de 30 de junho de 1959.

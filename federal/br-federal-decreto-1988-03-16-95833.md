@@ -1,7 +1,3 @@
-1
-
-###DEC-095833-0-000-16-03-1988@@@
-
 DECRETO N° 95.833, DE 16 DE MARÇO DE 1988
 
 Declara de interesse social para fins de desapropriação, o imóvel rural denominado "Fazenda Ubá", classificado como “latifúndio por exploração”, situado nos Municípios de Santa Quitéria e Sobral, no Estado do Ceará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.617, de 2 de maio de l986, e dá outras providências.

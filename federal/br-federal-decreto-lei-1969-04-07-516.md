@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/98de7fd4-bc04-4b78-899a-926d0432abb5/texto#nowhere)
 
-###DEL-000516-0-000-07-04-1969@@@
-
 DECRETO-LEI Nº 516, DE 7 DE ABRil DE 1969
 
 Altera a denominação do Grupo Executivo de Integração da Política de Transportes e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-072861-0-000-27-09-1973@@@
-
 DECRETO Nº 72.861, de 27 de Novembro de 1973.
 
 Concede à Mineração Curimbaba Ltda, o direito de lavrar bauxita no Município de Poços de Caldas, Estado de Minas Gerais.

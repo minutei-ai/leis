@@ -1,5 +1,3 @@
-###DEC-082823-0-000-11-12-1978@@@
-
 Decreto nº 82 823, de 11 de dezembro de 1978
 
 Concede reconhecimento aos cursos de Ciências, Pedagogia e Letras da Faculdade de Filosofia, Ciências e Letras, com sede na cidade de Irati, Estado do Paraná.

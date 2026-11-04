@@ -1,5 +1,3 @@
-###DEC-051267-0-000-25-08-1961@@@
-
 DECRETO Nº 51.267, DE 25 DE AGÔSTO DE 1961.
 
 Outorga à Centrais Elétricas do Rio das Contas S.A. concessão para o aproveitamento progressivo da energia hidráulica nos rios das Contas e Gongogi, no Estado da Bahia.

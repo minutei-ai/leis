@@ -1,7 +1,3 @@
-1
-
-###DEL-000408-0-000-31-12-1968@@@
-
 DECRETO-LEI Nº 408, DE 31 DE DEZEMBRO DE 1968.
 
 Altera a Lei nº 5.546, de 29 de novembro de 1968, que estima a Receita e Fixa a Despesa da União para o exercício de 1969.
@@ -25,8 +21,6 @@ A. COSTA E SILVA
 Antônio Delfim Netto
 
 Hélio Beltrão
-
-###DEL-000408-0-000-31-12-1968@@@RET01+++
 
 DECRETO-LEI Nº 408, DE 31 DE DEZEMBRO DE 1968
 

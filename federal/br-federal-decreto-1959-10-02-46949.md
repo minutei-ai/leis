@@ -1,5 +1,3 @@
-###DEC-046949-0-000-02-10-1959@@@
-
 decreto nº 46.949, de 02 de outubro de 1959.
 
 Transfere da Emprêsa Luz e Fôrça de Areias para a Prefeitura Municipal de Areias a concessão para a produção e fornecimento de energia elétrica ao município de Areias, Estado de São Paulo.

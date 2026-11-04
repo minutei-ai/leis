@@ -1,5 +1,3 @@
-###DEC-053880-0-000-10-04-1964@@@
-
 DECRETO Nº 53.880, de 10 de abril 1964.
 
 Dispõe sôbre regaste do empréstimo Publico da Emergência instituído pela Lei nº 4.069, de 11 de junho de 1962, e dá outras providências.

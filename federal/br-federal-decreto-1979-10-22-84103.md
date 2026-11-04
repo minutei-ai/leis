@@ -1,5 +1,3 @@
-###DEC-084103-0-000-22-10-1979@@@
-
 Decreto nº 84.103, de 22 de outubro de 1979.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra onde deverá ser construída a sede da Procuradoria da República na Estado do Pará.

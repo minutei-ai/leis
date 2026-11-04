@@ -1,5 +1,3 @@
-###MPV-000418-0-000-14-02-2008@@@
-
 MEDIDA PROVISÓRIA Nº 418, DE 14 DE FEVEREIRO DE 2008.
 
 Altera as Leis nos 11.508, de 20 de julho de 2007, que dispõe sobre o regime tributário, cambial e administrativo das Zonas de Processamento de Exportação, e 8.256, de 25 de novembro de 1991, que cria áreas de livre comércio nos municípios de Pacaraima e Bonfim, no Estado de Roraima, e dá outras providências.
@@ -211,5 +209,3 @@ LUIZ INÁCIO LULA DA SILVA
 Guido Mantega
 
 Miguel Jorge
-
-Este texto não substitui o publicado no DOU de 15.2.2008.

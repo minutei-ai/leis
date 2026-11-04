@@ -1,5 +1,3 @@
-###DEC-070039-0-000-24-01-1972@@@
-
 DECRETO Nº 70.039, DE 24 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Associação Mantenedora da Creche São José do Itamarati, com sede em Petrópolis, Estado do Rio de Janeiro.

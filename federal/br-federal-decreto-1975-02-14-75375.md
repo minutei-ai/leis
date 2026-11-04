@@ -1,5 +1,3 @@
-###DEC-075375-0-000-14-02-1975@@@
-
 DECRETO Nº 75.375, DE 14 DE FEVEREIRO DE 1975.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural situado no Município de João Pinheiro, Estado de Minas Gerais compreendido na área prioritária de emergência para fins de Reforma Agrária, de que tratam os Decretos nºs 56.795, de 27 de agosto de 1965, 58.716, de 24 de junho de 1966, 66.034, de 31 de dezembro de 1969 e 72.381, de 19 de junho de 1973.

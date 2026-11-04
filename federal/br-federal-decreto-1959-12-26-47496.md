@@ -1,5 +1,3 @@
-###DEC-047496-0-000-26-12-1959@@@
-
 Decreto nº 47.496, de 26 de dezembro de 1959.
 
 Concede reconhecimento à Faculdade de Medicina do Triângulo Mineiro.

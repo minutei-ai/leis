@@ -1,5 +1,3 @@
-###MPV-002037-0-024-23-11-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.037-24, DE 23 de novembro DE 2000.
 
 Altera a legislação das Contribuições para a Seguridade Social - COFINS, para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP e do Imposto sobre a Renda, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-059022-0-000-08-08-1966@@@
-
 DECRETO Nº 59.022, DE 8 DE AGôSTO DE 1966.
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$86.087.100, para atender às despesas decorrentes das Segundas Reuniões Anuais Ordinárias do Conselho Interamericano Econômico e Social (CIES) da Organização dos Estados Americanos.

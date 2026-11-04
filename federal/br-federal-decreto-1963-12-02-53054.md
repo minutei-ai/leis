@@ -1,5 +1,3 @@
-###DEC-053054-0-000-02-12-1963@@@
-
 Decreto nº 53.054, de 2 de dezembro de 1963.
 
 Suprime o cargo extinto.

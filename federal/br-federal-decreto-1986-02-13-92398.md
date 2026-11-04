@@ -1,5 +1,3 @@
-###DEC-092398-0-000-13-02-1986@@@
-
 DECRETO Nº 92.398, DE 13 DE FEVEREIRO DE 1986
 
 Autoriza o aumento do capital social da Companhia Siderúrgica da Amazônia - SIDERAMA.

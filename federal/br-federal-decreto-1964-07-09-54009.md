@@ -1,5 +1,3 @@
-###DEC-054009-0-000-09-07-1964@@@
-
 DECRETO Nº 54.009, de 9 de julho de 1964.
 
 Fixa os preços básicos mínimos para o financiamento ou aquisição de Farinha de Mandioca da safra de 1964.

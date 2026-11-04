@@ -1,5 +1,3 @@
-###DEC-007953-0-000-12-03-2013-PUB-01@@@
-
 DECRETO N° 7.953, DE 12 DE MARÇO DE 2013
 
 Promulga o Acordo sobre Tráfico Ilícito de Migrantes entre os Estados Partes do Mercosul, firmado em Belo Horizonte, em 16 de dezembro de 2004, com as correções contidas do texto da Fé de Erratas ao Acordo, firmado em 28 de junho de 2007.

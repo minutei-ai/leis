@@ -1,5 +1,3 @@
-###DEC-053565-0-000-19-02-1964@@@
-
 DECRETO Nº 53.565, DE 19 DE FEVEREIRO DE 1964.
 
 Cria a Policlínica Militar de Pôrto Alegre e dá outras providências.

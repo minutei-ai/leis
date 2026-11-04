@@ -1,7 +1,3 @@
-1
-
-###DEL-000549-0-000-24-04-1969@@@
-
 DECRETO-LEI Nº 549, DE 24 DE ABRIL DE 1969
 
 Dá nova redação ao § 2º do artigo 6º da Lei nº 4.375, de 17 de agôsto de 1964.

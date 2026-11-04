@@ -1,5 +1,3 @@
-###DEC-049706-0-000-31-12-1960@@@
-
 DECRETO Nº 49.706, DE 31 DE DEZEMBRO DE 1960.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Jaraguá-Companhia de Seguros Gerais.

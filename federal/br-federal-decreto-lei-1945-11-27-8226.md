@@ -1,5 +1,3 @@
-###DEL-008226-0-000-27-11-1945@@@
-
 DECRETO-LEI N. 8.226 – DE 27 DE NOVEMBRO DE 1945
 
 Dispõe sôbre as carreiras de Dentistas dos Ministério da Aeronáutica, Agricultura, Educação e Saúde e Justiça e Negócios interiores.

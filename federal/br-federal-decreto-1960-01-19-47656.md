@@ -1,5 +1,3 @@
-###DEC-047656-0-000-19-01-1960@@@
-
 Decreto nº 47.656, de 19 de janeiro de 1960.
 
 Transfere, sem aumento de despesas, função de referência única da Tabela Única de Extranumerário-Mensalista do Departamento de Imprensa Nacional para idêntica Tabela do Departamento Administrativo do Serviço Público, e dá outras providências.

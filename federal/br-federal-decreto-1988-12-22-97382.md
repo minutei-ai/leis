@@ -1,5 +1,3 @@
-###DEC-097382-0-000-22-12-1988@@@
-
 DECRETO Nº 97.382, DE 22 DE DEZEMBRO DE 1988
 
 Altera os Estatutos da Indústria de Material Bélico do Brasil - IMBEL, empresa vinculada ao Ministério do Exército.

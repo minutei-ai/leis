@@ -1,5 +1,3 @@
-###DEC-046274-0-000-27-06-1959@@@
-
 DECRETO Nº 46.274, DE 27 DE JUNHO DE 1959.
 
 Outorga concessão à Sociedade Rádio Emissora Continental de Pôrto Alegre Limitada para instalar uma estação radiodifusora.

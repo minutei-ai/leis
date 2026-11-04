@@ -1,5 +1,3 @@
-###DEL-007851-0-000-10-08-1945@@@
-
 DECRETO-LEI N. 7.851 – DE 10 DE AGÔSTO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a dispensar, nas condições que menciona, o pagamento de multas de mora relativas aos impostos predial e territorial devidos por brasileiros afastados do Distrito Federal em serviço de guerra

@@ -1,5 +1,3 @@
-###DEC-068050-0-000-13-01-1971@@@
-
 DECRETO Nº 68.050, DE 13 DE JANEIRO DE 1971.
 
 Dispõe sobre o banimento do Território Nacional de Afonso Junqueira de Alvarenga e outros.

@@ -1,5 +1,3 @@
-###DEC-073257-0-000-05-12-1973@@@
-
 DECRETO Nº 73.257 - DE 5 DE DEZEMBRO DE 1973
 
 Concede reconhecimento ao curso de Licenciatura em Música e Belas Artes do Paraná, com sede na cidade de Curitiba, Estado do Paraná.

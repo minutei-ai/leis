@@ -1,5 +1,3 @@
-###DEC-094657-0-000-20-07-1987@@@
-
 DECRETO Nº 94.657, DE 20 DE JULHO DE 1987.
 
 Dispõe sobre a criação do Programa de Desenvolvimento de Sistemas Unificados e Descentralizados de Saúde nos Estados (SUDS), e dá outras providências.

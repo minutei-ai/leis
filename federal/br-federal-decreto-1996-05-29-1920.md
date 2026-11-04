@@ -1,7 +1,3 @@
-1
-
-###DEC-001920-0-000-29-05-1996@@@
-
 DECRETO Nº 1.920, DE 29 DE MAIO DE 1996.
 
 Dá nova redação ao art. 7º do Decreto n° 101, de 17 de abril de 1991, e dá outras providências.

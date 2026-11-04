@@ -1,5 +1,3 @@
-###DEL-005213-0-000-21-01-1943@@@
-
 DECRETO‑LEI N. 5.213 – DE 21 DE JANEIRO DE  1943
 
 Modifica o art. 16 da lei sobre a organização e proteção da família

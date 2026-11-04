@@ -1,5 +1,3 @@
-###DEC-068193-0-000-10-02-1971@@@
-
 DECRETO Nº 68.193, DE 10 DE FEVEREIRO DE 1971.
 
 Concede a Companhia Minas da Passagem o direito de lavrar minério de ferro, no município de Mariana, Estado de Minas Gerais.

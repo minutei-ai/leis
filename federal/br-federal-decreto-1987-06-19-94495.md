@@ -1,5 +1,3 @@
-###DEC-094495-0-000-19-06-1987@@@
-
 DECRETO N° 94.495, DE 19 DE JUNHO DE 1987
 
 Revoga os Decretos n°s 38.020/55 e 41.658/57, que aprovaram e alteraram, respectivamente, o Regulamento para os Distritos Navais.

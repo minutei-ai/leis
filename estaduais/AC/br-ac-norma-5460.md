@@ -1,6 +1,10 @@
 > **LEI Nº 4.070, DE 15 DE DEZEMBRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Reconhece a prática do wheeling, bem como outras práticas que se assemelhem às exibições típicas do segmento de motociclismo, como modalidade esportiva no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Reconhece a prática do wheeling, bem como outras práticas que se assemelhem às exibições típicas do segmento de motociclismo, como modalidade esportiva no Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-068890-0-000-08-07-1971@@@
-
 Decreto nº 68.890, de 8 de julho de 1971.
 
 Declara de utilidade pública a Santa Casa de Misericórdia do Pará, com sede em Belém, Estado do Pará.

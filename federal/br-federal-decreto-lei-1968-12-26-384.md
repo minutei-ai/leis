@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/0c61657c-5b3c-4e8f-8485-06c9fda0a172/texto#nowhere)
 
-###DEL-000384-0-000-26-12-1968@@@
-
 dECRETO-LEI Nº 384, DE 26 DE DEZEMBRO DE 1968
 
 Estabelece critérios para a criação de novas Seções da Justiça Federal e cria a Seção da Justiça Federal na Cidade de Santos, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-058633-0-000-15-06-1966@@@
-
 DECRETO Nº 58.633, DE 15 DE JUNHO DE 1966.
 
 Extingue a Legação do Brasil junto ao Reino do Camboja, e revoga os Decretos nº 50.564, de 9 de maio de 1961 e 52.496, de 23 de setembro de 1963.

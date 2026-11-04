@@ -1,5 +1,3 @@
-###DEC-077725-0-000-01-06-1976@@@
-
 DECRETO Nº 77.725, DE 1º DE JUNHO DE 1976.
 
 Declara sem efeito a transferência dos direitos que menciona à Companhia de Pesquisa de Recursos Minerais - CPRM e dá outras providências.

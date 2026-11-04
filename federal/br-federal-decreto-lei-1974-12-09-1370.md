@@ -1,5 +1,3 @@
-###DEL-001370-0-000-09-12-1974@@@
-
 # DECreTO-LEI Nº 1.370, DE 9 DE DEZEMBRO DE 1974
 
 Dispõe sobre a tributação dos rendimentos auferidos por garimpeiros matriculados e dá outras providências.

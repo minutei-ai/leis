@@ -1,5 +1,3 @@
-###DEC-089239-0-000-23-12-1983@@@
-
 Decreto nº 89.239, de 23 de dezembro de 1983
 
 Autoriza o funcionamento do curso de Ciências na Faculdade Riopretense de Filosofia, Ciências e Letras, São Paulo.

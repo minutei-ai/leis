@@ -1,5 +1,3 @@
-###DEC-055772-0-000-19-02-1965@@@
-
 DECRETO Nº 55.772, de 19 de fevereiro de 1965.
 
 Abre, pelo Ministério da Fazenda crédito especial de Cr$5.000.000.000 (cinco bilhões de cruzeiros) para atender às despesas que especifica.

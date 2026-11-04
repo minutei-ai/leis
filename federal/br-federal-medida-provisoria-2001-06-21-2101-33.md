@@ -1,5 +1,3 @@
-###MPV-002101-0-033-21-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.101-33, DE 21 DE JUNHO DE 2001
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

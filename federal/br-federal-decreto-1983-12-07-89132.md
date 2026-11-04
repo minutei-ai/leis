@@ -1,5 +1,3 @@
-###DEC-089132-0-000-07-12-1983@@@
-
 Decreto nº 89.132, de 07 de dezembro de 1983
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas do Sul do Brasil S.A.-ELETROSUL, nos Estados do Paraná e Santa Catarina.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209368)<br>
-
 # DECRETO N° 68.484, DE 26 DE ABRIL DE 2024
 
 ### _Dá nova redação a dispositivo do Decreto n° 66.173, de 26 de outubro de 2021, que dispõe sobre a disciplina acerca da celebração de convênios, no âmbito da Administração direta e autárquica, e sobre a instrução dos processos respectivos._

@@ -1,5 +1,3 @@
-###DEC-055693-0-000-02-02-1965@@@
-
 DECRETO Nº 55.693, DE 2 DE FEVEREIRO DE 1965.
 
 Autoriza o cidadão brasileiro João Antônio do Nascimento a pesquisar minérios de ferro e de manganês, no município de Gouveia, Estado de Minas Gerais.

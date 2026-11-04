@@ -1,4 +1,5 @@
-DECRETO Nº 10.056, DE 9 DE MARÇO DE 2022.<br>
+DECRETO Nº 10.056, DE 9 DE MARÇO DE 2022.
+
 \- [Revogado pelo Decreto nº 10.231, de 10-03-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106827/decreto-10231), art. 4º. 
 
 ~~Fixa a Tabela de Deságio para o pagamento de precatórios por intermédio de acordo direto e revoga o [Decreto nº 8.467](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/67547/decreto-8467), de 8 de outubro de 2015.~~
@@ -22,8 +23,6 @@ DECRETO Nº 10.056, DE 9 DE MARÇO DE 2022.<br>
 ~~Art. 5º Este Decreto entra em vigor na data de sua publicação.~~
 
 ~~Goiânia, 9 de março de 2022; 134º da República.~~
-
-<br>
 
 ~~RONALDO CAIADO~~
 

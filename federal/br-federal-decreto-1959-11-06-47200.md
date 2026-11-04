@@ -1,5 +1,3 @@
-###DEC-047200-0-000-06-11-1959@@@
-
 DECRETO Nº 47.200, DE 6 DE NOVEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Modesto Roma a pesquisar minério de ferro, no município de Castro, Estado do Paraná.

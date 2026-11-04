@@ -1,5 +1,3 @@
-###DEC-070398-0-000-12-04-1972@@@
-
 DECRETO Nº 70.398, DE 12 DE ABRIL DE 1972.
 
 Declara de utilidade pública a Sociedade Educadora e Beneficente, com sede em Jundiaí, Estado de são Paulo.

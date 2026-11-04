@@ -1,5 +1,3 @@
-###DEC-080408-0-000-26-09-1977@@@
-
 DECRETO Nº 80.408, DE 26 de setembro DE 1977.
 
 Outorga concessão à Rádio Sertão Central Ltda. para estabelecer uma estação de radiodifusão sonora em onda média de âmbito regional, na cidade de Senador Pompeu, Estado do Ceará.

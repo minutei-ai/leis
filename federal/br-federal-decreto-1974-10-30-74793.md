@@ -1,5 +1,3 @@
-###DEC-074793-0-000-30-10-1974@@@
-
 DECRETO Nº 74.793, DE 30 DE OUTUBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Sociedade de Rádio Difusão "Cacique de Sorocaba Ltda.," atual Rádio Cacique de Sorocaba Ltda., de radiodifusão sonora em onda tropical, na cidade de Sorocaba, Estado de São Paulo.

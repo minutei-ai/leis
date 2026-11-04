@@ -1,10 +1,8 @@
-###DEC-032375-0-000-04-03-1953@@@
+**DECRETO Nº 32.375, DE 4 DE MARÇO DE 1953.**
 
-<strong>DECRETO Nº 32.375, DE 4 DE MARÇO DE 1953.</strong>
+***Considera o Marechal Roberto Trompowsky Leitão de Almeida, “Patrono do Magistério da Exército”.***
 
-<em><strong>Considera o Marechal Roberto Trompowsky Leitão de Almeida, “Patrono do Magistério da Exército”.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e considerando:
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e considerando:
 
 \- que o espirito patriotico impõe o culto às personalidades dignas de respeito e da gratidão nacional;
 
@@ -16,15 +14,15 @@
 
 \- finalmente, que o Exército comemora, no corrente ano, o centenário de nascimento do insigne soldado e professor;
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º É considerado “Patrono do Magistério do Exército” o Marechal Roberto Trompowsky Leitão de Almeida.
+**Art**. 1º É considerado “Patrono do Magistério do Exército” o Marechal Roberto Trompowsky Leitão de Almeida.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
 Rio de Janeiro, em 4 de março de 1953; da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Tales de Azevedo
 

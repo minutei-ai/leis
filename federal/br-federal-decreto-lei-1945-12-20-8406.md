@@ -1,5 +1,3 @@
-###DEL-008406-0-000-20-12-1945@@@
-
 DECRETO-LEI N. 8.406 – DE 20 DE DEZEMBRO DE 1945
 
 Altera carreiras no Ministério da Justiça e Negócios Interiores

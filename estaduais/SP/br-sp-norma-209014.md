@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209014)<br>
-
 # DECRETO N° 68.243, DE 22 DE DEZEMBRO DE 2023
 
 ### _Dispõe sobre a remessa de bens e mercadorias entre estabelecimentos pertencentes ao mesmo titular_

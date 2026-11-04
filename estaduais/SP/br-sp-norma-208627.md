@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208627)<br>
-
 # LEI N° 17.785, DE 03 DE OUTUBRO DE 2023
 
 ### _Altera a Lei Estadual n° 11.608, de 29 de dezembro de 2003, que dispõe sobre a Taxa Judiciária incidente sobre os serviços públicos de natureza forense, e dá outras providências_

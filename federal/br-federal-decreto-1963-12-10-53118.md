@@ -1,5 +1,3 @@
-###DEC-053118-0-000-10-12-1963@@@
-
 DECRETO Nº 53.118, DE 10 DE DEZEMBRO DE 1963.
 
 Renova o decreto nº 46.732, de 20 de agôsto de 1959.

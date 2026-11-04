@@ -1,5 +1,3 @@
-###DEL-003884-0-000-04-12-1941@@@
-
 DECRETO-LEI N. 3.884 – DE 4 DE DEZEMBRO DE 1941
 
 Altera, sem aumento de despesa, o atual orçamento do Ministério da Educação e Saúde

@@ -1,5 +1,3 @@
-###DEC-078059-0-000-15-07-1976@@@
-
 DECRETO Nº 78.059, DE 15 DE JULHO DE 1976.
 
 Autoriza a transformação de curso da Faculdade de Artes Plásticas da Fundação Armando Álvares Penteado, com sede na Cidade de São Paulo, Estado de São Paulo.

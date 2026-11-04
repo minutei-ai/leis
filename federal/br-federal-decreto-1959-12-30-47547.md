@@ -1,5 +1,3 @@
-###DEC-047547-0-000-30-12-1959@@@
-
 DECRETO Nº 47.547, DE 30 DE dezembRO DE 1959.
 
 Autoriza Industrial São Tomé Limitada a lavrar quartzito sericítico no município de Baependi, Estado de Minas Gerais.

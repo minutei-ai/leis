@@ -1,5 +1,3 @@
-###DEC-083273-0-000-12-03-1979@@@
-
 DECRETO Nº 83.273, DE 12 DE MARÇO DE 1979
 
 Concede reconhecimento ao curso de Ciências Contábeis da Escola de Ciências Contábeis de Volta Redonda, na cidade de Volta Redonda, Estado do Rio de Janeiro.

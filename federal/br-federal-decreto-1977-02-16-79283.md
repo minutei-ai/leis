@@ -1,5 +1,3 @@
-###DEC-079283-0-000-16-02-1977@@@
-
 DECRETO Nº 79.283, DE 16 DE FEVEREIRO DE 1977.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Cultura "A Voz do Espaço", cuja denominação foi alterada para Rádio Cultura Sociedade Anônima e, posteriormente, transferida à Fundação "Padre Anchieta" - Centro Paulista de Rádio e TV Educativa, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de São Paulo, Estado de São Paulo.

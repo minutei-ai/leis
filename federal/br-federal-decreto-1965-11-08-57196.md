@@ -1,5 +1,3 @@
-###DEC-057196-0-000-08-11-1965@@@
-
 Decreto nº 57.196, de 8 de novembro de 1965.
 
 Autoriza o cidadão brasileiro Sebastião Rodrigues Chaves a pesquisar cassiterita, no município de Coronel Xavier Chaves - Estado de Minas Gerais.

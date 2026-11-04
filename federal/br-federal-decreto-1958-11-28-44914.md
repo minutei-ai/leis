@@ -1,5 +1,3 @@
-###DEC-044914-0-000-28-11-1958@@@
-
 DECRETO Nº 44.914, DE 28 DE NOVEMBRO DE 1958.
 
 Altera a lotação do Ministério da Educação e Cultura.

@@ -1,5 +1,3 @@
-###DEC-047131-0-000-27-10-1959@@@
-
 decreto nº 47.131, de 27 de outubro de 1959.
 
 Autoriza o cidadão brasileiro Hugo Sant’Ana a pesquisar água mineral no município de Tubarão, Estado de Santa Catarina.

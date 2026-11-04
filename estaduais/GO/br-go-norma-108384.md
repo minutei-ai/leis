@@ -148,8 +148,6 @@ Art. 14. Esta Lei entra em vigor na data da sua publicação e produz efeitos a 
 
 Goiânia, 5 de janeiro de 2024; 136º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

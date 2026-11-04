@@ -1,5 +1,3 @@
-###DEC-071533-0-000-12-12-1972@@@
-
 DECRETO Nº 71.533 - DE 12 DE DEZEMBRO DE 1972
 
 Regulamenta as férias e outros afastamentos totais do serviço, previstos no Estatuto dos Militares.

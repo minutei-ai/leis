@@ -1,5 +1,3 @@
-###DEC-074037-0-000-10-05-1974@@@
-
 DECRETO Nº 74.037, DE 10 DE MAIO DE 1974.
 
 Autoriza o funcionamento dos cursos de Psicologia, Estudos Sociais e Ciências Biológicas da Faculdade de Filosofia, Ciências e Letras de Santo Amaro, mantida pela Organização Santamarense de Educação e Cultura, com sede na Cidade de São Paulo, Estado de São Paulo.

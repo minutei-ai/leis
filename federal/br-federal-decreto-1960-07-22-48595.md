@@ -1,5 +1,3 @@
-###DEC-048595-0-000-22-07-1960@@@
-
 DECRETO Nº 48.595, DE 22 DE JULHO DE 1960.
 
 Dispõe sobre os convênios de cooperação interadministrativa para execução dos decretos resultantes do “I Encontro dos Bispos do Nordeste”, realizado em Campina Grande, Estado da Paraíba, em 26 de maio de 1956.

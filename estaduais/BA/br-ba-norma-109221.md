@@ -6,7 +6,8 @@ O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DA BAHIA, no uso de atribuiç�
 
 Art. 1º - Art. 1º - Fica declarado de utilidade pública o INSTITUTO ADESOL - AÇÃO PARA O DESENVOLVIMENTO SOCIAL INTEGRADO, com sede e foro no município de Salvador.
 
-Redação de acordo com a Lei nº [10.642](https://www.legislabahia.ba.gov.br/documentos/lei-no-10642-de-11-de-junho-de-2007) , de 11 de junho de 2007.<br>
+Redação de acordo com a Lei nº [10.642](https://www.legislabahia.ba.gov.br/documentos/lei-no-10642-de-11-de-junho-de-2007) , de 11 de junho de 2007.
+
 Redação original: "Art. 1º - Fica declarada de utilidade pública a ASSOCIAÇÃO PARA O DESENVOLVIMENTO SOCIAL INTEGRADO, com sede e foro no município de Salvador."
 
 Art. 2º - Esta Lei entra em vigor na data de sua publicação.

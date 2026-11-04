@@ -1,5 +1,3 @@
-###DEC-084658-0-000-28-04-1980@@@
-
 Decreto nº 84.658, de 28 de abril de 1980
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Aguaí, da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

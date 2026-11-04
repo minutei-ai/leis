@@ -1,5 +1,3 @@
-###DEC-081894-0-000-06-07-1978@@@
-
 Decreto nº 81.894, de 06 de julho de 1978
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados na Cidade e Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEL-007197-0-000-27-12-1944@@@
-
 DECRETO-LEI N. 7.197 – DE 27 DE DEZEMBRO DE 1944
 
 Estabelece a classificação comercial de lã de ovinos e dispõe sôbre o comércio dessa matéria prima

@@ -1,5 +1,3 @@
-###DEL-006286-0-000-19-02-1944@@@
-
 DECRETO-LEI N. 6.286 – DE 19 DE FEVEREIRO DE 1944
 
 Autoriza nova prorrogação do prazo do contrato de exploração do serviço da Loteria Federal

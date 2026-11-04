@@ -1,5 +1,3 @@
-###DEC-055842-0-000-16-03-1965@@@
-
 decreto nº 55.842, de 16 de março de 1965.
 
 Dispõe sôbre a aplicação do Fundo de Desenvolvimento da Indústria Salineira e dá outras providências.

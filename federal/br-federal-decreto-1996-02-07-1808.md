@@ -1,5 +1,3 @@
-###DEC-001808-0-000-07-02-1996@@@
-
 DECRETO Nº 1.808, DE 7 DE FEVEREIRO DE 1996
 
 Aprova o Estatuto da Financiadora de Estudos e Projetos - FINEP.

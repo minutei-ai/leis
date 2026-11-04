@@ -1,5 +1,3 @@
-###DEC-069592-0-000-23-11-1971@@@
-
 DECRETO Nº 69.592 - DE 23 de NOVEMBRO DE 1971
 
 Aproveita, no Quadro de Pessoal do Ministério da Marinha, servidor em disponibilidade e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-064952-0-000-07-08-1969@@@
-
 DECRETO Nº 64.952 - DE 7 DE AGôSTO DE 1969.
 
 Redistribui com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial do Ministério da Justiça cargo originário da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providências.

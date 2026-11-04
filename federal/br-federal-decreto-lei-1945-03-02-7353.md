@@ -1,5 +1,3 @@
-###DEL-007353-0-000-02-03-1945@@@
-
 DECRETO-LEI N. 7.353 – DE 2 DE MARÇO DE 1945
 
 Autoriza a garantia do Tesouro Nacional a uma operação de crédito em favor da Administração do Pôrto do Rio de janeiro

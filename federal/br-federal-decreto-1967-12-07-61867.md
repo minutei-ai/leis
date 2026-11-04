@@ -1,5 +1,3 @@
-###DEC-061867-0-000-07-12-1967@@@
-
 DECRETO Nº 61.867, DE 7 DE DEZEMBRO DE 1967.
 
 Regulamenta os seguros obrigatórios previstos no artigo 20 do Decreto-lei nº 73, de 21 de novembro de 1966, e dá outras providências.

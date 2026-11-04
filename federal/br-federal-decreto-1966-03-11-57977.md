@@ -1,5 +1,3 @@
-###DEC-057977-0-000-11-03-1966@@@
-
 DECRETO Nº 57.977, DE 11 DE MARÇO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno situada no município de Mata Grande, Estado de Alagoas.

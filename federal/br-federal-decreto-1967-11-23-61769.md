@@ -1,5 +1,3 @@
-###DEC-061769-0-000-23-11-1967@@@
-
 DECRETO Nº 61.769, DE 23 DE NOVEMBRO DE 1967.
 
 Dispõe sôbre o aproveitamento, no Quadro de Pessoal – Parte Permanente – do Ministério dos transportes, de servidores em disponibilidades, ex-integrantes da Parte Suplementar dos mesmos Quadros e Ministérios, e da outras providências.

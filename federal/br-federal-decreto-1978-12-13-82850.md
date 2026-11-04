@@ -1,5 +1,3 @@
-###DEC-082850-0-000-13-12-1978@@@
-
 DECRETO Nº 82.850, DE 13 DE DEZEMBRO DE 1978
 
 Autoriza o Ministro da Fazenda a conceder a garantia do Tesouro Nacional a operações de crédito externo da Companhia do Metropolitano do Rio de Janeiro- METRÔ

@@ -1,5 +1,3 @@
-###DEC-056023-0-000-23-04-1965@@@
-
 DECRETO Nº 56.023, DE 23 DE ABRIL DE 1965.
 
 Outorga ao Município de Alfredo Marcondes, Estado de São Paulo, concessão para distribuir energia elétrica e dá outras providências.

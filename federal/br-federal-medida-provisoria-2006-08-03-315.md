@@ -1,5 +1,3 @@
-###MPV-000315-0-000-03-08-2006@@@
-
 MEDIDA PROVISÓRIA Nº 315, DE 3 DE AGOSTO DE 2006.
 
 Dispõe sobre operações de câmbio, sobre registro de capitais estrangeiros, sobre o pagamento em lojas francas localizadas em zona primária de porto ou aeroporto, sobre a tributação do arrendamento mercantil de aeronaves, sobre a novação dos contratos celebrados nos termos do § 1o do art. 26 da Lei no 9.491, de 9 de setembro de 1997, altera o Decreto no 23.258, de 19 de outubro de 1933, a Lei no 4.131, de 3 de setembro de 1962, o Decreto-Lei no 1.455, de 7 de abril de 1976, e revoga dispositivo da Medida Provisória no 303, de 29 de junho de 2006.
@@ -107,5 +105,3 @@ LUIZ INÁCIO LULA DA SILVA
      Guido Mantega
 
           Henrique de Campos Meirelles
-
-Este texto não substitui o publicado no D.O.U. de 4.8.2006

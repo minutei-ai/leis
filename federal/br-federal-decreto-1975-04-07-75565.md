@@ -1,5 +1,3 @@
-###DEC-075565-0-000-07-04-1975@@@
-
 DECRETO Nº 75.565, DE 7 DE ABRIL DE 1975.
 
 Outorga à Madeireira Santa Maria S.A. concessão para o uso exclusivo do aproveitamento hidráulico de um trecho do rio Jordão, no local denominado Salto São Pedro, Município de Pinhão, no Estado do Paraná.
@@ -35,8 +33,6 @@ ernesto geisel
 Shigeaki Ueki
 
 RETIFICAÇÃO
-
-###DEC-075565-0-000-07-04-1975@@@
 
 DECRETO Nº 75.565, DE 7 DE ABRIL DE 1975.
 

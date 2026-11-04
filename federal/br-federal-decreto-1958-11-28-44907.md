@@ -1,5 +1,3 @@
-###DEC-044907-0-000-28-11-1958@@@
-
 Decreto Nº 44.907, DE 28 DE NOVEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Theofilo Badin a pesquisar cassiterita e associados, no Município de Livramento do Brumado, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEL-007066-0-000-23-11-1944@@@
-
 DECRETO-LEI N. 7.066 – DE 23 DE NOVEMBRO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 1.939.000,00, para despesas a cargo do Serviço de Navegação da Bacia do Prata

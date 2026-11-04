@@ -1,5 +1,3 @@
-###DEC-090157-0-000-05-09-1984@@@
-
 decreto nº 90.157, de 05 de setembro de 1984
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro, Niterói, Mangaratiba e Cabo Frio, Estado do Rio de Janeiro; Ipojuca, Estado de Pernambuco; Salvador, Estado da Bahia; Guarujá, Santos e São Vicente, Estado de São Paulo.

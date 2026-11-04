@@ -1,5 +1,3 @@
-###DEC-003625-0-000-09-10-2000@@@
-
 DECRETO Nº 3.625, DE 9 DE OUTUBRO DE 2000.
 
 Autoriza a cessão de uso das Atas do Congresso Anfictiônico do Panamá de 1826.

@@ -1,5 +1,3 @@
-###DEC-056837-0-000-03-09-1965@@@
-
 DECRETO Nº 56.837, de 3 de SETEMBRO de 1965.
 
 Abre o crédito extraordinário de Cr$2.500.000.000 para o fim que menciona.

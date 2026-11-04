@@ -1,5 +1,3 @@
-###DEC-062351-0-000-05-03-1968@@@
-
 DECRETO Nº 62.351, DE 5 DE MARÇO DE 1968.
 
 Altera a redação do Decreto nº 61.083, de 27.7.67.

@@ -1,5 +1,3 @@
-###DEC-070246-0-000-07-03-1972@@@
-
 DECRETO Nº 70.246, DE 7 DE MARÇO DE 1972.
 
 Declara de utilidade pública o Educandário Social "Lar de Frei Luiz", com sede em Jacarepaguá, Estado da Guanabara.

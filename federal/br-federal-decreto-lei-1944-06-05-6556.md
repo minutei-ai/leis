@@ -1,5 +1,3 @@
-###DEL-006556-0-000-05-06-1944@@@
-
 DECRETO-LEI N. 6.556 – DE 5 JUNHO DE 1944
 
  Concede pensão especial à viúva de Isidoro Francisco Soares

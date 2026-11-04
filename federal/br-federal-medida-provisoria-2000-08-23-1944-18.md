@@ -1,5 +1,3 @@
-###MPV-001944-0-018-23-08-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.944-18, DE 23 de agosto DE 2000.
 
 Cria o Programa de Arrendamento Residencial, institui o arrendamento residencial com opção de compra e dá outras providências.

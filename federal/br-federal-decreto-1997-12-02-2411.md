@@ -1,5 +1,3 @@
-###DEC-002411-0-000-02-12-1997@@@
-
 DECRETO Nº 2.411, DE 2 DE DEZEMBRO DE 1997
 
 Promulga a Convenção Interamericana sobre Eficácia Extraterritorial das Sentenças e Laudos Arbitrais Estrangeiros, concluída em Montevidéu em 8 de maio de 1979.

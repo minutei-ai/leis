@@ -1,5 +1,3 @@
-###DEC-047613-0-000-13-01-1960@@@
-
 decreto nº 47.613, de 13 de janeiro de 1960.
 
 Transfere, sem aumento de despesa, função da Tabela Única de Extranumerário Mensalista do Ministério da Educação e Cultura, para idêntica tabela do Ministério da Fazenda.

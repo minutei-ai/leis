@@ -1,5 +1,3 @@
-###DEC-003955-0-000-05-10-2001@@@
-
 DECRETO Nº 3.955, DE 5 DE OUTUBRO DE 2001
 
 Altera dispositivos do Decreto nº 3.564, de 17 de agosto de 2000, que dispõe sobre a estrutura e o funcionamento do Conselho de Aviação Civil - CONAC e dá outras providências.

@@ -6,11 +6,14 @@ A GOVERNADORA DO ESTADO DE PERNAMBUCO:
 
 Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei Complementar:
 
-**<br>
-TÍTULO I<br>
+**
+
+TÍTULO I
+
 DO PROGRAMA ESPECIAL DE RECUPERAÇÃO DE CRÉDITOS TRIBUTÁRIOS**
 
-**CAPÍTULO I<br>
+**CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES**
 
 Art. 1º Fica instituído o Novo Programa Especial de Recuperação de Créditos Tributários - PERC 2026, relativo ao Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS.
@@ -23,10 +26,12 @@ I - permite a utilização de crédito fiscal e de saldo credor acumulado para p
 
 II - flexibiliza as regras para pagamento parcelado do crédito tributário, conforme o disposto na Seção V do Capítulo II.
 
-**CAPÍTULO II<br>
+**CAPÍTULO II
+
 DA REDUÇÃO DO CRÉDITO TRIBUTÁRIO**
 
-**Seção I<br>
+**Seção I
+
 Da Aplicabilidade**
 
 Art. 3º A redução do crédito tributário somente se aplica àquele cujo pagamento integral à vista ou da parcela inicial, no caso de parcelamento, ocorra até 28 de dezembro de 2026, observados os prazos específicos previstos no Anexo 1.
@@ -67,10 +72,12 @@ I - substitui apenas os honorários advocatícios devidos nas execuções fiscai
 
 II - deve ser realizado na mesma data do pagamento do crédito tributário a que se refira.
 
-**Seção II<br>
+**Seção II
+
 Dos Percentuais de Redução**
 
-**Subseção I<br>
+**Subseção I
+
 Dos Percentuais de Redução do Crédito Tributário do ICMS**
 
 Art. 5º Os percentuais de redução do crédito tributário do ICMS são aqueles indicados (Convênio ICMS 35/2025):
@@ -105,7 +112,8 @@ II - houver causa independente para a aplicação da norma impeditiva ao uso do 
 
 § 7º Para os efeitos desta Lei Complementar, condutas impeditivas à utilização de benefício fiscal são situações previstas na legislação tributária que impedem a utilização do benefício fiscal por sujeito passivo originalmente autorizado por ato concessivo específico a utilizá-lo.
 
-**Subseção II<br>
+**Subseção II
+
 Dos Percentuais de Redução do Crédito Tributário do ICMS de Empresário ou Sociedade Empresária em Processo de Recuperação Judicial ou em Liquidação**
 
 Art. 6º Para empresário ou sociedade empresária em processo de recuperação judicial ou em liquidação, observadas as demais regras previstas nesta Lei Complementar, os percentuais de redução do crédito tributário do ICMS são aqueles indicados:
@@ -114,10 +122,12 @@ I - na Tabela A do Anexo 1, na hipótese de crédito tributário decorrente da p
 
 II - na Tabela B do Anexo 1 ou no Anexo 2, nas demais hipóteses (Convênio ICMS 115/2021).
 
-**Seção III<br>
+**Seção III
+
 Do Uso do Saldo Credor para Pagamento Parcial de Crédito Tributário Constituído**
 
-**Subseção I<br>
+**Subseção I
+
 Das Disposições Gerais**
 
 Art. 7º Ressalvada a aplicação das normas específicas sobre a utilização de saldo credor acumulado, fica permitido o uso de crédito fiscal decorrente de saldo credor acumulado para pagamento parcial, por compensação, de crédito tributário constituído relativo a fatos geradores ocorridos até 31 de dezembro de 2025, observado o disposto nesta Seção.
@@ -142,7 +152,8 @@ Art. 10. O pagamento por compensação extingue o crédito tributário.
 
 Parágrafo único. Na hipótese de constatação posterior de inexistência, total ou parcial, do saldo credor utilizado nos termos desta Seção, o valor do crédito fiscal indevidamente utilizado deve ser exigido do emitente da NF-e de que trata o art. 9º mediante lançamento de ofício, observadas as disposições sobre infrações e penalidades previstas em lei.
 
-**Subseção II<br>
+**Subseção II
+
 Do Crédito Tributário Decorrente da Utilização Indevida de Valor a Título de Crédito Fiscal**
 
 Art. 11. Fica permitido o uso de crédito fiscal decorrente de saldo credor acumulado para pagamento parcial, por compensação, de crédito tributário constituído mediante lançamento de ofício decorrente da utilização indevida de valor a título de crédito fiscal registrado na escrita fiscal do sujeito passivo.
@@ -159,7 +170,8 @@ II - aplicam-se as reduções de multas e juros previstas na Tabela B do Anexo 1
 
 § 2º Na hipótese de perda ou cancelamento do parcelamento, a parcela não utilizada do crédito fiscal de que trata o inciso I do _caput_ deve ser usada para compensar o saldo remanescente do crédito tributário.
 
-**Subseção III<br>
+**Subseção III
+
 Das Demais Hipóteses de Crédito Tributário Constituído**
 
 Art. 13. Fica permitido o uso de crédito fiscal decorrente de saldo credor acumulado, inclusive daquele previsto no art. 27 da [Lei nº 15.730, de 17 de março de 2016](https://legis.alepe.pe.gov.br/?lo157302016), para pagamento parcial, por compensação, de crédito tributário constituído que não decorra da situação descrita no art. 11.
@@ -182,7 +194,8 @@ V - na hipótese de parcelamento, a compensação relativa ao saldo credor utili
 
 § 4º Na hipótese do inciso V do § 1º, ocorrendo a perda ou cancelamento do parcelamento, aplica-se o disposto no § 2º do art. 12.
 
-**Seção IV<br>
+**Seção IV
+
 Do Uso de Crédito Fiscal para Pagamento Parcial, por Compensação, de Crédito Tributário**
 
 Art. 14. Fica permitida a utilização de crédito fiscal para pagamento parcial, por compensação, de crédito tributário constituído mediante lançamento de ofício.
@@ -205,7 +218,8 @@ I - a indicação do crédito tributário a ser compensado parcialmente; e
 
 II - a ciência do sujeito passivo de que, uma vez deferido o pedido de compensação, o direito ao crédito fiscal fica extinto pela sua utilização na forma desta Seção.
 
-**Seção V<br>
+**Seção V
+
 Das Regras Especiais de Parcelamento**
 
 Art. 16. Na hipótese de pagamento parcelado do crédito tributário, deve-se observar:
@@ -232,7 +246,8 @@ III - não se aplica o pagamento de percentual específico a título de entrada 
 
 Art. 17. Aplicam-se as disposições gerais relativas ao parcelamento, previstas na legislação estadual, naquilo que não estiver disciplinado nesta Lei Complementar.
 
-**TÍTULO II<br>
+**TÍTULO II
+
 DO PARCELAMENTO DA CONTRIBUIÇÃO AO FUNDO DE INOVAÇÃO DO ESTADO DE PERNAMBUCO**
 
 Art. 18. Pode ser parcelado em até 12 (doze) parcelas o valor correspondente à contribuição ao Fundo de Inovação do Estado de Pernambuco - INOVAR-PE, instituído no art. 4º da [Lei nº 15.063, de 4 de setembro de 2013](https://legis.alepe.pe.gov.br/?lo150632013).
@@ -287,7 +302,8 @@ Art. 26-D. Ao pagamento por compensação previsto no art. 26-C aplicam-se as di
 
 ..........................................................................................................................
 
-**CAPÍTULO XI-C<br>
+**CAPÍTULO XI-C
+
 Do Uso de Crédito Fiscal para Pagamento PARCIAL, por Compensação, de Crédito Tributário (AC)**
 
 Art. 40-J. Fica permitida a utilização de crédito fiscal para pagamento parcial, por compensação, de crédito tributário constituído mediante lançamento de ofício. (AC)
@@ -304,7 +320,8 @@ Art. 40-K. Para efeito do disposto neste Capítulo, o sujeito passivo deve apres
 
 .........................................................................................................................”
 
-**TÍTULO IV<br>
+**TÍTULO IV
+
 DAS DISPOSIÇÕES FINAIS**
 
 Art. 20. A inobservância de quaisquer das exigências estabelecidas no Título I implica revogação dos respectivos benefícios fiscais, com recomposição dos valores dispensados e exigibilidade imediata do crédito, observada a ressalva quanto à recomposição proporcional prevista nas disposições gerais relativas a perda ou cancelamento de parcelamento, constantes na legislação estadual.
@@ -327,227 +344,63 @@ FABRÍCIO MARQUES SANTOS
 
 BIANCA FERREIRA TEIXEIRA
 
-**<br>
 **
 
-**ANEXO 1<br>
-PERCENTUAIS DE REDUÇÃO DO CRÉDITO TRIBUTÁRIO DO ICMS<br>
+**
+
+**ANEXO 1
+
+PERCENTUAIS DE REDUÇÃO DO CRÉDITO TRIBUTÁRIO DO ICMS
+
 (art. 5º)**
 
-**TABELA A - CRÉDITO TRIBUTÁRIO DECORRENTE DA PRÁTICA DE CONDUTAS IMPEDITIVAS À UTILIZAÇÃO DE BENEFÍCIO FISCAL DE CRÉDITO PRESUMIDO<br>
+**TABELA A - CRÉDITO TRIBUTÁRIO DECORRENTE DA PRÁTICA DE CONDUTAS IMPEDITIVAS À UTILIZAÇÃO DE BENEFÍCIO FISCAL DE CRÉDITO PRESUMIDO
+
 (art. 5º, I; arts. 6º e 7º)**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr><td rowspan="2" style="border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">ITEM</span></p></td><td rowspan="2" style="border:inset black 1.0pt;border-left:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PERCENTUAL DE REDUÇÃO DO TOTAL DO CRÉDITO TRIBUTÁRIO</span></p></td><td rowspan="2" style="border:inset black 1.0pt;border-left:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PAGAMENTO À VISTA</span></p></td><td colspan="2" style="border:inset black 1.0pt;border-left:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PAGAMENTO PARCELADO</span></p></td><td rowspan="2" style="border:inset black 1.0pt;border-left:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Prazo MÁXIMO para Solicitação de Utilização de Saldo Credor</span></p><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">(art. 8º)</span></p></td></tr><tr style="height:4.0pt"><td style="padding:0cm 0cm 0cm 0cm;height:4.0pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">QUANTIDADE MÁXIMA DE</span></p><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PARCELAS</span></p></td><td style="padding:0cm 0cm 0cm 0cm;height:4.0pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PRAZO PARA QUITAÇÃO DA PRIMEIRA PARCELA</span></p></td></tr><tr><td style="border:inset black 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">1</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">90%</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">até 31.8.2026</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">-</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">-</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">17.8.2026</span></p></td></tr><tr><td style="border:inset black 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">2</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">80%</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">entre 1º.9.2026 e 30.10.2026</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">3</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">até 28.10.2026</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">15.10.2026</span></p></td></tr><tr style="height:10.5pt"><td rowspan="2" style="border:inset black 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm;
-  height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">3</span></p></td><td rowspan="2" style="padding:0cm 0cm 0cm 0cm;height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">70%</span></p></td><td rowspan="2" style="padding:0cm 0cm 0cm 0cm;height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">entre 1º.11.2026 e 28.12.2026</span></p></td><td rowspan="2" style="padding:0cm 0cm 0cm 0cm;height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">2</span></p></td><td rowspan="2" style="padding:0cm 0cm 0cm 0cm;height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">entre 29.10.2026 e 27.11.2026</span></p></td><td style="padding:0cm 0cm 0cm 0cm;height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">15.12.2026 (pagamento à vista)</span></p></td></tr><tr style="height:10.5pt"><td style="padding:0cm 0cm 0cm 0cm;height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">15.11.2026 (pagamento parcelado)</span></p></td></tr><tr><td style="border:inset black 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">4</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">50%</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">-</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">30</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">até 28.12.2026</span></p></td><td valign="top" style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">-</span></p></td></tr><tr><td style="border:inset black 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">40%</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">-</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">entre 31 e 60</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">até 28.12.2026</span></p></td><td valign="top" style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">-</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td rowspan="2"> ITEM </td><td rowspan="2"> PERCENTUAL DE REDUÇÃO DO TOTAL DO CRÉDITO TRIBUTÁRIO </td><td rowspan="2"> PAGAMENTO À VISTA </td><td colspan="2"> PAGAMENTO PARCELADO </td><td rowspan="2"> Prazo MÁXIMO para Solicitação de Utilização de Saldo Credor (art. 8º) </td></tr><tr><td> QUANTIDADE MÁXIMA DE PARCELAS </td><td> PRAZO PARA QUITAÇÃO DA PRIMEIRA PARCELA </td></tr><tr><td> 1 </td><td> 90% </td><td> até 31.8.2026 </td><td> - </td><td> - </td><td> 17.8.2026 </td></tr><tr><td> 2 </td><td> 80% </td><td> entre 1º.9.2026 e 30.10.2026 </td><td> 3 </td><td> até 28.10.2026 </td><td> 15.10.2026 </td></tr><tr><td rowspan="2"> 3 </td><td rowspan="2"> 70% </td><td rowspan="2"> entre 1º.11.2026 e 28.12.2026 </td><td rowspan="2"> 2 </td><td rowspan="2"> entre 29.10.2026 e 27.11.2026 </td><td> 15.12.2026 (pagamento à vista) </td></tr><tr><td> 15.11.2026 (pagamento parcelado) </td></tr><tr><td> 4 </td><td> 50% </td><td> - </td><td> 30 </td><td> até 28.12.2026 </td><td valign="top"> - </td></tr><tr><td> 5 </td><td> 40% </td><td> - </td><td> entre 31 e 60 </td><td> até 28.12.2026 </td><td valign="top"> - </td></tr></tbody></table>
 
 **TABELA B - CRÉDITO TRIBUTÁRIO DECORRENTE DA PRÁTICA DE INFRAÇÕES À LEGISLAÇÃO TRIBUTÁRIA ESTADUAL DISTINTAS DAQUELA PREVISTA NA TABELA A**
 
 **(arts. 5º, II, e 7º)**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr><td rowspan="2" style="border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">ITEM</span></b></p></td><td rowspan="2" style="border:inset black 1.0pt;border-left:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PERCENTUAL DE REDUÇÃO DE MULTA E JUROS</span></p></td><td rowspan="2" style="border:inset black 1.0pt;border-left:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PAGAMENTO À VISTA</span></p></td><td colspan="2" style="border:inset black 1.0pt;border-left:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PAGAMENTO PARCELADO</span></p></td><td rowspan="2" style="border:inset black 1.0pt;border-left:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PRAZO MÁXIMO PARA SOLICITAÇÃO DE UTILIZAÇÃO DE SALDO CREDOR</span></p><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">(art. 8º)</span></p></td></tr><tr style="height:4.0pt"><td style="padding:0cm 0cm 0cm 0cm;height:4.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">QUANTIDADE MÁXIMA DE</span></p><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PARCELAS</span></p></td><td style="padding:0cm 0cm 0cm 0cm;height:4.0pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PRAZO PARA QUITAÇÃO DA PRIMEIRA PARCELA</span></p></td></tr><tr><td style="border:inset black 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">1</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">95%</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">até 31.8.2026</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">-</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">-</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">17.8.2026</span></p></td></tr><tr><td style="border:inset black 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">2</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">85%</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">entre 1º.9. 2026 e 30.10.2026</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">3</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">até 28.10.2026</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">15.10.2026</span></p></td></tr><tr style="height:10.5pt"><td rowspan="2" style="border:inset black 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm;
-  height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">3</span></p></td><td rowspan="2" style="padding:0cm 0cm 0cm 0cm;height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">75%</span></p></td><td rowspan="2" style="padding:0cm 0cm 0cm 0cm;height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">entre 1º.11.2026 e 28.12.2026</span></p></td><td rowspan="2" style="padding:0cm 0cm 0cm 0cm;height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">2</span></p></td><td rowspan="2" style="padding:0cm 0cm 0cm 0cm;height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">entre 29.10.2026 e 27.11.2026</span></p></td><td style="padding:0cm 0cm 0cm 0cm;height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">15.12.2026 (pagamento à vista)</span></p></td></tr><tr style="height:10.5pt"><td style="padding:0cm 0cm 0cm 0cm;height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">15.11.2026 (pagamento à prazo)</span></p></td></tr><tr><td style="border:inset black 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">4</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">50%</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">-</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">30</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">até 28.12.2026</span></p></td><td valign="top" style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">-</span></p></td></tr><tr><td style="border:inset black 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">40%</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">-</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">entre 31 e 60</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">até 28.12.2026</span></p></td><td valign="top" style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-4.5pt;
-  margin-bottom:0cm;margin-left:-5.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">-</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td rowspan="2"> **ITEM** </td><td rowspan="2"> PERCENTUAL DE REDUÇÃO DE MULTA E JUROS </td><td rowspan="2"> PAGAMENTO À VISTA </td><td colspan="2"> PAGAMENTO PARCELADO </td><td rowspan="2"> PRAZO MÁXIMO PARA SOLICITAÇÃO DE UTILIZAÇÃO DE SALDO CREDOR (art. 8º) </td></tr><tr><td> QUANTIDADE MÁXIMA DE PARCELAS </td><td> PRAZO PARA QUITAÇÃO DA PRIMEIRA PARCELA </td></tr><tr><td> 1 </td><td> 95% </td><td> até 31.8.2026 </td><td> - </td><td> - </td><td> 17.8.2026 </td></tr><tr><td> 2 </td><td> 85% </td><td> entre 1º.9. 2026 e 30.10.2026 </td><td> 3 </td><td> até 28.10.2026 </td><td> 15.10.2026 </td></tr><tr><td rowspan="2"> 3 </td><td rowspan="2"> 75% </td><td rowspan="2"> entre 1º.11.2026 e 28.12.2026 </td><td rowspan="2"> 2 </td><td rowspan="2"> entre 29.10.2026 e 27.11.2026 </td><td> 15.12.2026 (pagamento à vista) </td></tr><tr><td> 15.11.2026 (pagamento à prazo) </td></tr><tr><td> 4 </td><td> 50% </td><td> - </td><td> 30 </td><td> até 28.12.2026 </td><td valign="top"> - </td></tr><tr><td> 5 </td><td> 40% </td><td> - </td><td> entre 31 e 60 </td><td> até 28.12.2026 </td><td valign="top"> - </td></tr></tbody></table>
 
 **TABELA C - CRÉDITO TRIBUTÁRIO QUE CONTENHA VALOR PASSÍVEL DE APROPRIAÇÃO COMO CRÉDITO FISCAL**
 
 **(arts. 14 e 15)**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin-left:6.75pt;background:white;border-collapse:collapse;
- border:none"><tbody><tr style="height:36.1pt"><td style="border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm;height:36.1pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">ITEM</span></p></td><td style="border:inset black 1.0pt;border-left:none;padding:0cm 0cm 0cm 0cm;
-  height:36.1pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PERCENTUAL DE REDUÇÃO DE MULTA E JUROS</span></p></td><td style="border:inset black 1.0pt;border-left:none;padding:0cm 0cm 0cm 0cm;
-  height:36.1pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PAGAMENTO À VISTA</span></p></td><td valign="top" style="border:inset black 1.0pt;border-left:none;padding:0cm 0cm 0cm 0cm;
-  height:36.1pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">PRAZO MÁXIMO PARA SOLICITAÇÃO DE PAGAMENTO POR COMPENSAÇÃO</span></p></td></tr><tr><td style="border:inset black 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">1</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">90%</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">até 31.8.2026</span></p></td><td valign="top" style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">até 17.8.2026</span></p></td></tr><tr><td style="border:inset black 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">2</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">80%</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">entre 1º.9.2026 e 30.10.2026</span></p></td><td valign="top" style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">até 15.10.2026</span></p></td></tr><tr><td style="border:inset black 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">3</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">70%</span></p></td><td style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">entre 1º.11.2026 e 28.12.2026</span></p></td><td valign="top" style="padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">até 15.12.2026</span></p></td></tr></tbody></table>
+ITEM
+
+PERCENTUAL DE REDUÇÃO DE MULTA E JUROS
+
+PAGAMENTO À VISTA
+
+PRAZO MÁXIMO PARA SOLICITAÇÃO DE PAGAMENTO POR COMPENSAÇÃO
+
+1
+
+90%
+
+até 31.8.2026
+
+até 17.8.2026
+
+2
+
+80%
+
+entre 1º.9.2026 e 30.10.2026
+
+até 15.10.2026
+
+3
+
+70%
+
+entre 1º.11.2026 e 28.12.2026
+
+até 15.12.2026
 
 **ANEXO 2**
 
@@ -555,40 +408,30 @@ PERCENTUAIS DE REDUÇÃO DO CRÉDITO TRIBUTÁRIO DO ICMS<br>
 
 **(art. 6º)**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="633" style="width:474.5pt;background:white;border-collapse:collapse;border:none"><tbody><tr><td width="352" style="width:264.0pt;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">PERCENTUAL DE REDUÇÃO DE MULTA E JUROS</span></p></td><td width="281" style="width:210.5pt;border:inset black 1.0pt;border-left:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">FORMA DE PAGAMENTO</span></p></td></tr><tr><td width="352" valign="top" style="width:264.0pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">95%</span></p></td><td width="281" valign="top" style="width:210.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Até 48 parcelas</span></p></td></tr><tr style="height:2.25pt"><td width="352" valign="top" style="width:264.0pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:2.25pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">90%</span></p></td><td width="281" valign="top" style="width:210.5pt;padding:0cm 0cm 0cm 0cm;
-  height:2.25pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">De 49 a 72 parcelas</span></p></td></tr><tr><td width="352" valign="top" style="width:264.0pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">85%</span></p></td><td width="281" valign="top" style="width:210.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">De 73 a 96 parcelas</span></p></td></tr><tr><td width="352" valign="top" style="width:264.0pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">80%</span></p></td><td width="281" valign="top" style="width:210.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">De 97 a 120 parcelas</span></p></td></tr><tr><td width="352" valign="top" style="width:264.0pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">75%</span></p></td><td width="281" valign="top" style="width:210.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">De 121 a 144 parcelas</span></p></td></tr><tr><td width="352" valign="top" style="width:264.0pt;border:inset black 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">70%</span></p></td><td width="281" valign="top" style="width:210.5pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">De 145 a 180 parcelas</span></p></td></tr></tbody></table>
+PERCENTUAL DE REDUÇÃO DE MULTA E JUROS
+
+FORMA DE PAGAMENTO
+
+95%
+
+Até 48 parcelas
+
+90%
+
+De 49 a 72 parcelas
+
+85%
+
+De 73 a 96 parcelas
+
+80%
+
+De 97 a 120 parcelas
+
+75%
+
+De 121 a 144 parcelas
+
+70%
+
+De 145 a 180 parcelas

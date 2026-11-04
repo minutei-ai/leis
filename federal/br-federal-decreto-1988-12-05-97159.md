@@ -1,5 +1,3 @@
-###DEC-097159-0-000-05-12-1988@@@
-
 DECRETO Nº 97.159, DE 5 DE DEZEMBRO DE 1988
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Filosofia, Ciências e Letras de Araguari.

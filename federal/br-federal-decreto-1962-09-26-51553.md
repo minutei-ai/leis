@@ -1,5 +1,3 @@
-###DEC-051553-0-000-26-09-1962@@@
-
 DECRETO Nº 51.553, DE 26 DE SETEMBRO DE 1962.
 
 Decreta luto oficial pelo falecimento do ex-Presidente do Conselho de Ministros, Professor Francisco Brochado da Rocha e dispõe sôbre homenagens de seus funerais.

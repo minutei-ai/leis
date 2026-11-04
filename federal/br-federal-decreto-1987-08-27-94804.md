@@ -1,5 +1,3 @@
-###DEC-094804-0-000-27-08-1987@@@
-
 DECRETO N° 94.804, DE 27 DE AGOSTO DE 1987
 
 Dispõe sobre a análise das medidas que impliquem aumento de despesa com pessoal à conta do Tesouro Nacional.

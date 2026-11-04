@@ -1,5 +1,3 @@
-###DEC-071726-0-000-17-01-1973@@@
-
 DECRETO Nº 71.726, de 17 de janeiro de 1973.
 
 Torna sem efeito aproveitamento de disponível no Instituto de Previdência e Assistência dos Servidores do Estado, e dá outras providências.

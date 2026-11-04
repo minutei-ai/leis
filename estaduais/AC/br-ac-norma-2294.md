@@ -2,7 +2,11 @@ Modificada pela Lei nº [3.221, de 16 de Janeiro de 2017.](https://legis.ac.gov.
 
 > **LEI Nº 3.153, DE 29 DE JULHO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Obriga os fornecedores de bens e serviços, que atuam no Estado, a fixar data e turno para entrega dos produtos ou realização dos serviços aos consumidores.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Obriga os fornecedores de bens e serviços, que atuam no Estado, a fixar data e turno para entrega dos produtos ou realização dos serviços aos consumidores.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -11,8 +15,6 @@ Modificada pela Lei nº [3.221, de 16 de Janeiro de 2017.](https://legis.ac.gov.
 **~~Art. 1°~~** ~~Ficam os fornecedores de bens e serviços, que atuam no Estado, obrigados a fixar data e turno para entrega dos produtos ou realização dos serviços aos consumidores.~~
 
 **Art. 1°** Ficam os fornecedores de bens e serviços, que atuam no Estado, obrigados a fixar data e turno para entrega dos produtos ou realização dos serviços aos consumidores, sem cobrança de valor adicional. (Redação dada pela Lei nº 3.153, de 16/01/2017)
-
-<br>
 
 **Parágrafo único.** As dimensões mínimas da forma a ser fixada, deverão ser de cinquenta centímetros de altura e sessenta centímetros de largura e deverão estar em lugar de fácil visualização do público consumidor.
 

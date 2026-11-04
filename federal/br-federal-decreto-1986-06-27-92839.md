@@ -1,5 +1,3 @@
-###DEC-092839-0-000-27-06-1986@@@
-
 DECRETO Nº 92.839, DE 27 DE JUNHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Água Sumida", situado no Município de Teodoro Sampaio, no Estado de São Paulo, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.688, de 19 de maio de 1986, e dá outras providências.

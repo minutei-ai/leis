@@ -1,5 +1,3 @@
-###DEC-092408-0-000-20-02-1986@@@
-
 DECRETO Nº 92.408, de 20 DE FEVEREIRO DE 1986
 
 Dispõe sobre a política nacional do abastecimento, cria o Conselho Interministerial de Abastecimento, e dá outras providências.

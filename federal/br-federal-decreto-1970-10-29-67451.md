@@ -1,5 +1,3 @@
-###DEC-067451-0-000-29-10-1970@@@
-
 DECRETO Nº 67.451 - DE 29 DE OUTUBRO DE 1970
 
 Considera insubsistente o Decreto nº 53.503, de 28 de janeiro de 1964.

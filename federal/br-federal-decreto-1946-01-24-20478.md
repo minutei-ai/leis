@@ -1,32 +1,30 @@
-###DEC-020478-0-000-24-01-1946@@@
+**DECRETO Nº 20.478, DE 24 DE JANEIRO DE 1946.**
 
-<strong>DECRETO Nº 20.478, DE 24 DE JANEIRO DE 1946.</strong>
+***Aprova o regimento da Biblioteca Nacional.***
 
-<em><strong>Aprova o regimento da Biblioteca Nacional.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o regimento da Biblioteca nacional que com êste baixa assinado pelo Ministro da Educação e Saúde.
 
-<strong>Art</strong>. 1º Fica aprovado o regimento da Biblioteca nacional que com êste baixa assinado pelo Ministro da Educação e Saúde.
+**Art**. 2º Êste decreto entrará em vigor na data da sua publicação.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data da sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 24 de Janeiro de 1946, 125º da Independência e 58º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Raul Leitão da Cunha
 
-<strong>REGIMENTO DA BIBLIOTECA NACIONAL</strong>
+**REGIMENTO DA BIBLIOTECA NACIONAL**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE E COMPETÊNCIA</em>
+*DA FINALIDADE E COMPETÊNCIA*
 
-<strong>Art</strong>. 1º A Biblioteca Nacional, subordinada ao Ministro da Educação e Saúde, tem por finalidade manter, conservar e enriquecer o seu acerva bibliográfico, competindo-lhe:
+**Art**. 1º A Biblioteca Nacional, subordinada ao Ministro da Educação e Saúde, tem por finalidade manter, conservar e enriquecer o seu acerva bibliográfico, competindo-lhe:
 
 I - manter:
 
@@ -36,11 +34,11 @@ b) serviço de coleta, na conformidade das disposições vigentes, de exemplar d
 
 II - promover, pelos meios ao seu alcance, a divulgação da cultura.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da organização</em>
+*Da organização*
 
-<strong>Art</strong>. 2º A Biblioteca compõe-se de:
+**Art**. 2º A Biblioteca compõe-se de:
 
 I - Divisão de Aquisição, que compreenderá:
 
@@ -94,15 +92,15 @@ Portaria;
 
 Zeladoria.
 
-<strong>Art</strong>. 3º A Biblioteca terá um diretor-geral subordinado imediatamente ao ministro; as divisões, o Curso de Biblioteconomia e o Serviço Auxiliar terão diretores subordinados imediatamente ao diretor-geral; as seções terão diretores de divisão; a Seção de Administração terá chefe e a Portaria e a Zeladoria terão encarregados, subordinados imediatamente ao diretor do Serviço Auxiliar.
+**Art**. 3º A Biblioteca terá um diretor-geral subordinado imediatamente ao ministro; as divisões, o Curso de Biblioteconomia e o Serviço Auxiliar terão diretores subordinados imediatamente ao diretor-geral; as seções terão diretores de divisão; a Seção de Administração terá chefe e a Portaria e a Zeladoria terão encarregados, subordinados imediatamente ao diretor do Serviço Auxiliar.
 
-<strong>Art</strong>. 4º O diretor-geral terá um secretário escolhido dentre os servidores do Ministério.
+**Art**. 4º O diretor-geral terá um secretário escolhido dentre os servidores do Ministério.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da competência dos órgãos</em>
+*Da competência dos órgãos*
 
-<strong>Art</strong>. 5º À Divisão de Aquisição compete:
+**Art**. 5º À Divisão de Aquisição compete:
 
 a) pela Seção de Compras:
 
@@ -124,7 +122,7 @@ II - providenciar sôbre as doações às instituições nacionais e estrangeira
 
 d) pela Seção de Encadernação, executar os trabalhos atinentes à encadernação e à restauração de peças bibliográficas;
 
-<strong>Art</strong>. 6º À Divisão de Catalogação compete:
+**Art**. 6º À Divisão de Catalogação compete:
 
 a) pela seção de Catalogação, estalogar as peças bibliográficas;
 
@@ -132,7 +130,7 @@ b) pela Seção de Classificação, classificar as peças bibliográficas;
 
 c) pela Seção de Manutenção dos catálogos, manter organizados os catálogos para uso do público e a êste prestar as informações que solicitar.
 
-<strong>Art</strong>. 7º À Divisão de Circulação compete:
+**Art**. 7º À Divisão de Circulação compete:
 
 a) pela Seção de leitura:
 
@@ -166,7 +164,7 @@ I - promover a conservação das peças bibliográficas do acervo da Biblioteca;
 
 II - providenciar sôbre a remessa à seção de Encadernação das peças bibliográficas a serem encadernadas.
 
-<strong>Art</strong>. 8º À Divisão de Obras Raras e publicações, compete:
+**Art**. 8º À Divisão de Obras Raras e publicações, compete:
 
 a) pela Seção de Livros Raros:
 
@@ -200,11 +198,11 @@ I - elaborar os trabalhos de microfilmes;
 
 II - manter franqueada à consulta do público a coleção de microfilmes.
 
-<strong>Art</strong>. 9º Ao Curso de Biblioteconomia compete a execução das disposições legais que a êle se referem.
+**Art**. 9º Ao Curso de Biblioteconomia compete a execução das disposições legais que a êle se referem.
 
 Parágrafo único. O curso terá regimento próprio.
 
-<strong>Art</strong>. 10º. Ao Serviço Auxiliar compete:
+**Art**. 10º. Ao Serviço Auxiliar compete:
 
 a) pela Seção de Administração: - elaborar os trabalhos mecanográficos e os atinentes a pessoal, material, orçamento e comunicações;
 
@@ -226,11 +224,11 @@ II - o policiamento interno e externo, diurno e noturno;
 
 III - pequenos reparos de urgência.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das atribuições do pessoal</em>
+*Das atribuições do pessoal*
 
-<strong>Art</strong>. 11. Ao diretor-geral incumbe:
+**Art**. 11. Ao diretor-geral incumbe:
 
 I - dirigir os trabalhos da Biblioteca;
 
@@ -272,7 +270,7 @@ XIX - apresentar ao ministro, no devido prazo, relatório circunstanciado dos tr
 
 XX - resolver os casos omissos neste Regimento.
 
-<strong>Art</strong>. 12. Aos diretores de divisão e ao diretor do Serviço Auxiliar incumbe, na alçada respectiva:
+**Art**. 12. Aos diretores de divisão e ao diretor do Serviço Auxiliar incumbe, na alçada respectiva:
 
 I - dirigir os trabalhos a seu cargo;
 
@@ -304,7 +302,7 @@ XII - aplicar aos subordinados as penas disciplinares inclusive a de suspensão 
 
 XIII - apresentar ao diretor geral no prazo por êste estabelecido, relatório circunstanciado dos trabalhos realizados durante o ano.
 
-<strong>Art</strong>. 13. - Ao chefe de Seção de Administração incumbe:
+**Art**. 13. - Ao chefe de Seção de Administração incumbe:
 
 I - chefiar os trabalhos a cargo da Seção;
 
@@ -324,7 +322,7 @@ VIII - aplicar aos subordinados as penas disciplinares de repreensão e advertê
 
 IX - apresentar anualmente ao diretor do Serviço Auxiliar no prazo devido, relatório circunstanciado dos trabalhos realizados durante o ano.
 
-<strong>Art</strong>. 14. Aos chefes de seção das Divisões incumbe, na alçada das respectivas Seções:
+**Art**. 14. Aos chefes de seção das Divisões incumbe, na alçada das respectivas Seções:
 
 I - chefiar os trabalhos a cargo da Seção;
 
@@ -342,7 +340,7 @@ VII - aplicar aos subordinados as penas disciplinares de advertência e repreens
 
 VIII - apresentar anualmente ao diretor de divisão, até 5 de Dezembro, relatório circunstanciado dos trabalhos realizados durante o ano.
 
-<strong>Art</strong>. 15. Ao Secretário do diretor geral incumbe:
+**Art**. 15. Ao Secretário do diretor geral incumbe:
 
 I - atender as pessoas que procurarem o diretor geral, encaminhando-as ou dando a êste conhecimento do assunto a tratar;
 
@@ -352,7 +350,7 @@ III - redigir a correspondência pessoal do diretor geral;
 
 IV - transmitir recomendações e ordens de serviço.
 
-<strong>Art</strong>. 16. Ao porteiro incumbe:
+**Art**. 16. Ao porteiro incumbe:
 
 I - chefiar os trabalhos da Portaria;
 
@@ -368,37 +366,37 @@ VI - examinar embrulhos e objetos de que sejam portadores quaisquer pessoas que 
 
 VII - encaminhar ao conveniente destino as pessoas que desejarem fazer consultas ou falar aos servidores da Biblioteca.
 
-<strong>Art</strong>. 17. Ao zelador incumbe:
+**Art**. 17. Ao zelador incumbe:
 
 I - dirigir os trabalhos da Zeladoria;
 
 II - zelar pelo asseio do edifício, providenciar sôbre os ligeiros reparos de urgência e recorrer ao diretor do Serviço Auxiliar quando se tratar de providências sôbre consertos que a Zeladoria não possa executar.
 
-<strong>Art</strong>. 18. Aos servidores que não têm incumbência especificada neste regimento cumpre executar os trabalhos próprios do seu cargo ou da sua função, que lhe forem determinados pelos seus chefes respectivos.
+**Art**. 18. Aos servidores que não têm incumbência especificada neste regimento cumpre executar os trabalhos próprios do seu cargo ou da sua função, que lhe forem determinados pelos seus chefes respectivos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da lotação</em>
+*Da lotação*
 
-<strong>Art</strong>. 19. A Biblioteca terá lotação fixada em decreto.
+**Art**. 19. A Biblioteca terá lotação fixada em decreto.
 
 Paragrafo único. Além dos funcionários lotados, a Biblioteca poderá ter pessoal extranumerário e colaboradores eventuais.
 
-<strong>CAPITULO VI</strong>
+**CAPITULO VI**
 
-<em>Do horário</em>
+*Do horário*
 
-<strong>Art</strong>. 20. O horário normal de trabalho da Biblioteca será estabelecido pelo ministro, respeitado o número de horas semanais fixado para o serviço público.
+**Art**. 20. O horário normal de trabalho da Biblioteca será estabelecido pelo ministro, respeitado o número de horas semanais fixado para o serviço público.
 
 Paragrafo único. O diretor geral, os diretores de divisão e o diretor do Serviço Auxiliar ficam isentos de assinatura de ponto.
 
-<strong>Art</strong>. 21. A freqüência do pessoal em exercício fora da sede será apurada mediante boletim diário de produção.
+**Art**. 21. A freqüência do pessoal em exercício fora da sede será apurada mediante boletim diário de produção.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Das substituições</em>
+*Das substituições*
 
-<strong>Art</strong>. 22. Serão substituídos nas faltas ocasionais e nos impedimentos transitórios:
+**Art**. 22. Serão substituídos nas faltas ocasionais e nos impedimentos transitórios:
 
 I - mediante prévia designação do ministro - o diretor geral, por um diretor de divisão ou pelo diretor do Serviço Auxiliar;
 
@@ -412,12 +410,12 @@ c) mediante designação dos diretores de divisão e do diretor do Serviço Auxi
 
 III - mediante prévia designação dos diretores de divisão e do diretor do Serviço Auxiliar, os chefes de seção e os encarregados da portaria e da zeladoria, por um dos seus subordinados.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Disposições gerais</em>
+*Disposições gerais*
 
-<strong>Art</strong>. 23. A Biblioteca Nacional poderá contratar pessoal especializado, nacional ou estrangeiro, para qualquer dos seus serviços.
+**Art**. 23. A Biblioteca Nacional poderá contratar pessoal especializado, nacional ou estrangeiro, para qualquer dos seus serviços.
 
 Rio de Janeiro, 24 de Janeiro de 1946.
 
-<strong>RAUL LEITÃO DA CUNHA</strong>
+**RAUL LEITÃO DA CUNHA**

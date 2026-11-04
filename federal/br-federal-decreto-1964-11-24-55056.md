@@ -1,5 +1,3 @@
-###DEC-055056-0-000-24-11-1964@@@
-
 DECRETO Nº 55.056, DE 24 DE NOVEMBRO DE 1964.
 
 Concede à Fervedouro Mineral Limitada autorização para funcionar como emprêsa de mineração.

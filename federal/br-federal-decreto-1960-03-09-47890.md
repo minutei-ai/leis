@@ -1,5 +1,3 @@
-###DEC-047890-0-000-09-03-1960@@@
-
 DECRETO Nº 47.890, DE 9 DE MARÇO DE 1960.
 
 Aprova o Regulamento da Lei 3.692, de 15 de dezembro de 1959, que criou a Superintendência do Desenvolvimento do Nordeste (SUDENE).

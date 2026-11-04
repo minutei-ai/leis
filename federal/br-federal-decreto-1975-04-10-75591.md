@@ -1,5 +1,3 @@
-###DEC-075591-0-000-10-04-1975@@@
-
 DECRETO Nº 75.591, DE 10 DE ABRIL DE 1975
 
 Concede reconhecimento ao curso de Engenharia Civil da Universidade Federal de Santa Catarina, com sede na cidade de Florianópolis, Estado de Santa Catarina.

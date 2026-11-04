@@ -1,5 +1,3 @@
-###DEC-045613-0-000-24-03-1959@@@
-
 DECRETO Nº 45.613, DE 24 DE MARÇO DE 1959.
 
 Autoriza estrangeira a adquirir fração ideal do domínio útil do terreno de acrescido de marinha que menciona, situado no Distrito Federal.

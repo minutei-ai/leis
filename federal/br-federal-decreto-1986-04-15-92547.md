@@ -1,5 +1,3 @@
-###DEC-092547-0-000-15-04-1986@@@
-
 DECRETO Nº 92.547, DE 15 DE ABRIL DE 1986
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial, ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S/A - PETROBRÁS, os imóveis constituídos de terras, acessões e benfeitorias que menciona, e dá outras providências.

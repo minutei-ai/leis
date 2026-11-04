@@ -1,5 +1,3 @@
-###DEC-090603-0-000-03-12-1984@@@
-
 Decreto nº 90.603, de 03 dezembro de 1984
 
 Autoriza, até 31 de dezembro de 1985, o aproveitamento dos navios estrangeiros na cabotagem nacional, em regime de afretamento.

@@ -1,5 +1,3 @@
-###DEC-070875-0-000-26-07-1972@@@
-
 DECRETO Nº 70.875, DE 26 DE JULHO DE 1972.
 
 Outorga concessão à Companhia de Telecomunicações do Pará - COTELPA, para executar serviço de telefonia público urbano no Estado do Pará.

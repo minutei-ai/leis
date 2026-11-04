@@ -1,5 +1,3 @@
-###DEC-086322-0-000-31-08-1981@@@
-
 Decreto nº 86.322, de 31 de agosto de 1981
 
 Inclui na classificação de órgãos de deliberação coletiva, aprovada pelo Decreto nº 70.310, de 21 de março de 1972, os Conselhos que menciona, existentes na área do Ministério da Indústria e do Comércio.

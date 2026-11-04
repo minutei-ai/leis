@@ -1,5 +1,3 @@
-###DEC-006662-0-000-25-11-2008@@@
-
 DECRETO Nº 6.662, DE 25 DE NOVEMBRO DE 2008.
 
 Regulamenta o art. 5~~º~~ da Lei n~~º~~ 11.727, de 23 de junho de 2008, que permite a restituição ou a compensação de valores retidos na fonte a título da Contribuição para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS.

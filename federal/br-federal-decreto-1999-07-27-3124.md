@@ -1,5 +1,3 @@
-###DEC-003124-0-000-27-07-1999@@@
-
 DECRETO Nº 3.124, DE 27 DE JULHO DE 1999.
 
 Cria, no Comando do Exército, o Comando Regional de Saúde, subordinado à 1a Região Militar, extingue a Inspetoria de Saúde do Comando Militar do Sul e dá outras providências.

@@ -8,12 +8,14 @@ CAPÍTULO I
 
 BOLSA QUALIFICAÇÃO
 
-Art. 1º  Fica criada, no âmbito da Secretaria de Estado da Retomada, a Bolsa Qualificação, que objetiva fomentar a qualificação da mão de obra das pessoas em situação de vulnerabilidade socioeconômica. <br>
+Art. 1º  Fica criada, no âmbito da Secretaria de Estado da Retomada, a Bolsa Qualificação, que objetiva fomentar a qualificação da mão de obra das pessoas em situação de vulnerabilidade socioeconômica. 
+
 [\- Redação dada pela Lei nº 21.185, de 30-11-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104658/lei-21185)
 
 ~~Art. 1º Fica criada, no âmbito da Secretaria de Estado da Retomada, a Bolsa Qualificação, que objetiva fomentar a qualificação da mão de obra das pessoas em situação de vulnerabilidade socioeconômica que participarem de cursos profissionalizantes ofertados pelos Colégios Tecnológicos do Estado de Goiás — COTECs.~~ 
 
-Parágrafo único.  A Bolsa Qualificação é direcionada aos alunos inscritos nos cursos profissionalizantes ofertados pelos Colégios Tecnológicos do Estado de Goiás - COTECs e por demais entidades sem fins lucrativos, mediante celebração de parceria com a Secretaria de Estado da Retomada.<br>
+Parágrafo único.  A Bolsa Qualificação é direcionada aos alunos inscritos nos cursos profissionalizantes ofertados pelos Colégios Tecnológicos do Estado de Goiás - COTECs e por demais entidades sem fins lucrativos, mediante celebração de parceria com a Secretaria de Estado da Retomada.
+
 [\- Redação dada pela Lei nº 21.185, de 30-11-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104658/lei-21185)
 
 ~~Parágrafo único.  A Bolsa Qualificação é direcionada aos alunos inscritos nos cursos profissionalizantes ofertados pelos Colégios Tecnológicos do Estado de Goiás - COTECs e por demais entidades sem fins lucrativos, mediante celebração de parceria com a Secretaria de Estado da Retomada.~~
@@ -44,30 +46,36 @@ V – os demais recursos a ela destinados.
 
 Art. 4º São requisitos mínimos necessários ao enquadramento como beneficiário da Bolsa Qualificação:
 
-I - estar matriculado em algum curso de qualificação ou capacitação ofertado pelos COTECs ou por outra entidade parceira da Secretaria de Estado da Retomada;<br>
+I - estar matriculado em algum curso de qualificação ou capacitação ofertado pelos COTECs ou por outra entidade parceira da Secretaria de Estado da Retomada;
+
 [\- Redação dada pela Lei nº 21.185, de 30-11-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104658/lei-21185)
 
 ~~I – estar matriculado em algum curso de qualificação ou capacitação ofertado pelos COTECs;~~
 
-II - estar inscrito no Cadastro Único para Programas Sociais - CADÚNICO e ser considerado de baixa renda, pobreza ou extrema pobreza;<br>
+II - estar inscrito no Cadastro Único para Programas Sociais - CADÚNICO e ser considerado de baixa renda, pobreza ou extrema pobreza;
+
 [\- Redação dada pela Lei nº 21.185, de 30-11-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104658/lei-21185)
 
 ~~II – não possuir vínculo em quadro proprietário de pessoa jurídica, exceto se for em cooperativa ou como produtor agrícola familiar;~~ 
 
-III - residir no Estado de Goiás; e<br>
+III - residir no Estado de Goiás; e
+
 [\- Redação dada pela Lei nº 21.185, de 30-11-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104658/lei-21185)
 
 ~~III – não possuir renda familiar média acima de 1 (um) salário– mínimo;~~  
 
-~~IV – não possuir vínculo trabalhista.<br>
+~~IV – não possuir vínculo trabalhista.
+
 ~~[\- Revogado pela Lei nº 21.185, de 30-11-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104658/lei-21185)
 
-Art. 5º  O benefício será no valor de R$ 250,00 (duzentos e cinquenta reais), destinado por meio de cartão-alimentação e concedido ao beneficiário matriculado em algum curso ofertado pelos COTECs ou por outra entidade parceira da Secretaria de Estado da Retomada.<br>
+Art. 5º  O benefício será no valor de R$ 250,00 (duzentos e cinquenta reais), destinado por meio de cartão-alimentação e concedido ao beneficiário matriculado em algum curso ofertado pelos COTECs ou por outra entidade parceira da Secretaria de Estado da Retomada.
+
 [\- Redação dada pela Lei nº 21.185, de 30-11-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104658/lei-21185)
 
 ~~Art. 5º O benefício será no valor de R$ 250,00 (duzentos e cinquenta reais), destinado por meio de cartão-alimentação e concedido ao beneficiário matriculado nos cursos dos COTECs.~~ 
 
-Parágrafo único.  Cada beneficiário poderá receber o benefício uma única vez, independentemente de quantos cursos realizar nos COTECs ou nas entidades parceiras, limitado a 3 (três) parcelas mensais no valor de R$ 250,00 (duzentos e cinquenta reais) cada, conforme a carga horária do curso.<br>
+Parágrafo único.  Cada beneficiário poderá receber o benefício uma única vez, independentemente de quantos cursos realizar nos COTECs ou nas entidades parceiras, limitado a 3 (três) parcelas mensais no valor de R$ 250,00 (duzentos e cinquenta reais) cada, conforme a carga horária do curso.
+
 [\- Redação dada pela Lei nº 21.185, de 30-11-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104658/lei-21185)
 
 ~~Parágrafo único. Cada beneficiário poderá receber o benefício uma única vez, independentemente de quantos cursos realizar nos COTECs, limitado a 3 (três) parcelas mensais no valor de R$ 250,00 (duzentos e cinquenta reais) cada, conforme a carga horária do curso.~~ 
@@ -149,8 +157,6 @@ Art. 17. A operacionalização dos recursos financeiros será exercida pela Agê
 Art. 18. Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 9 de agosto de 2021; 133º da República.
-
-<br>
 
 RONALDO CAIADO
 

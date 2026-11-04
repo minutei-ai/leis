@@ -1,5 +1,3 @@
-###DEC-004411-0-000-07-10-2002@@@
-
 DECRETO Nº 4.411, DE 7 DE OUTUBRO DE 2002
 
 Dispõe sobre a atuação das Forças Armadas e da Polícia Federal nas unidades de conservação e dá outras providências.

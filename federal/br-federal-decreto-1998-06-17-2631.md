@@ -1,5 +1,3 @@
-###DEC-002631-0-000-17-06-1998@@@
-
 DECRETO Nº 2.631, DE 17 DE JUNHO DE 1998
 
 Disciplina a transferência de saldos devedores decorrentes da alienação de imóveis funcionais, cria incentivo à quitação antecipada da dívida, e dá outras providências.

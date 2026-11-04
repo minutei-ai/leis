@@ -1,5 +1,3 @@
-###DEC-058406-0-000-17-05-1966@@@
-
 DECRETO Nº 58.406, DE 17 DE MAIO DE 1966.
 
 Autoriza o cidadão brasileiro João de Augustinis a pesquisar argila no município de Ijací, Estado de Minas Gerais.

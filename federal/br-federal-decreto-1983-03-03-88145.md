@@ -1,5 +1,3 @@
-###DEC-088145-0-000-03-03-1983@@@
-
 Decreto nº 88.145, de 03 de março de 1983.
 
 Promulga o Acordo no Campo da Propriedade Industrial entre o Governo da República Federativa do Brasil e o Governo da República Francesa.
@@ -102,4 +100,14 @@ Qualquer das Partes Contratantes pode denunciar o presente Acordo, mediante um a
 
 Feito em Paris, aos 30 dias do mês de janeiro de 1981, e dois exemplares originais, nas línguas portuguesa e francesa, os dois textos fazendo igualmente fé.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">FEDERATIVA DO BRASIL:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">FRANCESA:</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(Ramiro Saraiva Guerreiro)</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">(Jean François-Poncet)</span></p></td></tr></tbody></table>
+PELO GOVERNO DA REPÚBLICA
+
+PELO GOVERNO DA REPÚBLICA
+
+FEDERATIVA DO BRASIL:
+
+FRANCESA:
+
+(Ramiro Saraiva Guerreiro)
+
+(Jean François-Poncet)

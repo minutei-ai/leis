@@ -1,5 +1,3 @@
-###DEC-098111-0-000-31-08-1989@@@
-
 DECRETO Nº 98.111, DE 31 DE AGOSTO DE 1989
 
 Renova a concessão outorgada à RÁDIO ARAPUAN LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de João Pessoa, Estado da Paraíba.

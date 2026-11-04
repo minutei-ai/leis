@@ -1,5 +1,3 @@
-###DEC-050138-0-000-26-01-1961@@@
-
 DECRETO Nº 50.138, DE 26 DE Janeiro DE 1961.
 
 Altera o parágrafo 7º do artigo 138, do Regulamento aprovado com o Decreto nº 47.373, de 7 de dezembro de 1959.

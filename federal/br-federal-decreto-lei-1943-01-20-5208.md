@@ -1,5 +1,3 @@
-###DEL-005208-0-000-20-01-1943@@@
-
 DECRETO‑LEI N.  5.208 – DE 20 DE JANEIRO DE 1943
 
 Regula a contagem do tempo de efetivo serviço, para eleito da convocação e licenciamento durante o estado de guerra

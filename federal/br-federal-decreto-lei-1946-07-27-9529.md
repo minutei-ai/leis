@@ -1,5 +1,3 @@
-###DEL-009529-0-000-27-07-1946@@@
-
 DECRETO-LEI N. 9.529 – DE 27 DE JULHO DE 1946
 
 Abre ao Ministério da Educação e Saúde, o crédito suplementar de  Cr$ 41.250,00  à Verba que especifica

@@ -1,5 +1,3 @@
-###DEC-049114-0-000-13-10-1960@@@
-
 DECRETO Nº 49.114, DE 13 DE OUTUBRO DE 1960.
 
 Transfere função da Tabela Numérica Especial de Extranumerário-mensalista do Parque de Aeronáutica dos Afonsos para a do Gabinete do Ministro da Aeronáutica.

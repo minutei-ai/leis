@@ -1,5 +1,3 @@
-###DEL-005414-0-000-16-04-1943@@@
-
 DECRETO‑LEI N. 5.414 – DE 16 DE ABRIL DE 1943
 
 Altera o Orçamento Analítico do Ministério da Guerra, sem aumento de despesa

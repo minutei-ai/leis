@@ -1,5 +1,3 @@
-###DEC-076433-0-000-13-10-1975@@@
-
 DECRETO Nº 76.433, de 13 de outubro de 1975.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel em Cascavel - PR, destinado ao Ministério do Exército.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212446)<br>
-
 # ATO DA MESA N° 2, DE 01 DE ABRIL DE 2026
 
 A MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso das suas atribuições que lhe conferem as alíneas "a" e "f" do inciso II do artigo 14 da XIV Consolidação do seu Regimento Interno - [Resolução n° 576, de 26 de junho de 1970](https://www.al.sp.gov.br/norma/40681), considerando que o artigo 48 da Lei Complementar n.° 101, de 2000 - Lei de Responsabilidade Fiscal assegura a realização de audiências públicas nos processos de elaboração e discussão dos Projetos de Lei do ciclo orçamentário; considerando que o Regimento Interno desta Casa de Leis estabelece que compete à Comissão de Finanças, Orçamento e Planejamento analisar as proposições referentes ao ciclo orçamentário em todos os aspectos; considerando a necessidade de acompanhamento e apoio das reuniões regionais e demais atividades referentes às Audiências Públicas do Orçamento Estadual; RESOLVE:

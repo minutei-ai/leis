@@ -1,5 +1,3 @@
-###DEC-061617-0-000-03-11-1967@@@
-
 DECRETO Nº 61.617, DE 3 DE NOVEMBRO DE 1967.
 
 Concede reconhecimento à Faculdade Católica de Filosofia do Rio Grande, da Universidade Católica de Pelotas.

@@ -1,11 +1,13 @@
-LEI COMPLEMENTAR Nº 183, DE 04 DE JANEIRO DE 2021.<br>
+LEI COMPLEMENTAR Nº 183, DE 04 DE JANEIRO DE 2021.
+
 (REVOGADA PELA LEI COMPLEMENTAR Nº 203, DE 9 DE FEVEREIRO DE 2023)
 
 ~~Dispõe sobre a Estrutura Organizacional Administrativa da Prefeitura Municipal de Aparecida de Goiânia/GO e dá outras providências.~~
 
 ~~FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:~~
 
-~~CAPÍTULO I<br>
+~~CAPÍTULO I
+
 Da Estruturação das Secretarias~~
 
 ~~Art. 1º A estrutura organizacional administrativa da Prefeitura Municipal de Aparecida de Goiânia/GO é constituída pelos seguintes órgãos:~~
@@ -96,11 +98,10 @@ Da Estruturação das Secretarias~~
 
 ~~V.    Assessor Superior, que executa atividades de apoio administrativo, técnico e operacional, de nível superior em sua área de formação, compreendendo a execução auxiliar de trabalhos referentes a administração operacional e estratégica.~~
 
-<br>
-~~CAPÍTULO II<br>
+~~CAPÍTULO II
+
 Das Atribuições e Estrutura dos Órgãos Municipais~~
 
-<br>
      ~~Art. 3º O Gabinete do Prefeito tem a estrutura definida nesta Lei e possui as seguintes competências:~~
 
 ~~I.    assessorar administrativamente o Prefeito Municipal através das unidades administrativas que integram o Gabinete;~~
@@ -113,7 +114,8 @@ Das Atribuições e Estrutura dos Órgãos Municipais~~
 
 ~~V.    assessorar o Prefeito Municipal nos assuntos de sua competência e que nesta condição lhe forem cometidos e fornecer dados e informações a fim de subsidiar o processo decisório;~~
 
-~~VI.    outras atividades correlatas.<br>
+~~VI.    outras atividades correlatas.
+
     Art. 4º O Gabinete do Vice-Prefeito tem a estrutura definida e possui as seguintes competências:~~
 
 ~~I.    substituir o Prefeito em suas ausências, licenças e afastamentos legais;~~
@@ -122,7 +124,8 @@ Das Atribuições e Estrutura dos Órgãos Municipais~~
 
 ~~III.    promover o atendimento de autoridades e do público em geral;~~
 
-~~IV.    outras atividades correlatas.<br>
+~~IV.    outras atividades correlatas.
+
      Art. 5º A Secretaria Municipal da Fazenda tem a estrutura definida possui as seguintes competências:~~
 
 ~~I.    planejar, controlar e coordenar os procedimentos de inscrição de pessoas jurídicas e profissionais autônomos que compõem o Cadastro Mobiliário do município;~~
@@ -177,7 +180,8 @@ Das Atribuições e Estrutura dos Órgãos Municipais~~
 
 ~~XXVI.    elaborar o Plano Plurianual de Investimentos, Lei de Diretrizes Orçamentárias e Lei Orçamentária Anual;~~
 
-~~XXVII.    outras atividades correlatas.<br>
+~~XXVII.    outras atividades correlatas.
+
      Art. 6º  A Secretaria Municipal de Administração tem a estrutura definida e possui as seguintes competências:~~
 
 ~~I.    exercer as atividades relacionadas à prestação de serviços-meio necessários ao funcionamento regular das unidades da estrutura organizacional da Prefeitura, padronizando e racionalizando equipamentos, materiais e procedimentos;~~
@@ -198,14 +202,16 @@ Das Atribuições e Estrutura dos Órgãos Municipais~~
 
 ~~IX.    assessorar o Prefeito Municipal nos assuntos de sua competência e que nesta condição lhe forem cometidos e o fornecimento de dados e informações a fim de subsidiar o processo decisório;~~
 
-~~X.    outras atividades correlatas.<br>
+~~X.    outras atividades correlatas.
+
      Art. 7º A Secretaria Municipal de Articulação Política tem a estrutura definida e possui as seguintes competências:~~
 
 ~~I.    promover articulação com a Câmara de Vereadores (Poder Legislativo Municipal);~~
 
 ~~II.    coordenar a política de direitos humanos no Município;~~
 
-~~III.    implementar, desenvolver e fomentar as políticas públicas relacionadas à área da igualdade racial, desenvolvendo ações e projetos para erradicar ou minimizar qualquer tipo de racismo ou discriminação de gênero.<br>
+~~III.    implementar, desenvolver e fomentar as políticas públicas relacionadas à área da igualdade racial, desenvolvendo ações e projetos para erradicar ou minimizar qualquer tipo de racismo ou discriminação de gênero.
+
      Art. 8º A Secretaria Municipal de Governo tem a estrutura definida no e possui as seguintes competências:~~
 
 ~~I.    assessorar o Chefe do Poder Executivo Municipal no desempenho de suas atribuições constitucionais;~~
@@ -226,7 +232,8 @@ Das Atribuições e Estrutura dos Órgãos Municipais~~
 
 ~~IX.    redigir os atos oficiais do Prefeito, bem como elaborar projetos de leis do Poder Executivo a serem encaminhados à Câmara Municipal, dentro das competências previstas na Constituição Federal, Estadual e Lei Orgânica do Município;~~
 
-~~X.    outras atividades correlatas.<br>
+~~X.    outras atividades correlatas.
+
      Art. 9º A Secretaria Municipal de Relações Institucionais tem a estrutura definida e possui as seguintes competências:~~
 
 ~~I.    elaborar projetos e propostas visando a captação de recursos estaduais, nacionais e internacionais, em articulação com os demais órgãos da administração direta e indireta;~~
@@ -237,7 +244,8 @@ Das Atribuições e Estrutura dos Órgãos Municipais~~
 
 ~~IV.    captar recursos para projetos e programas específicos junto a órgãos, entidades e programas internacionais, federais e estaduais;~~
 
-~~V.    outras atividades correlatas.<br>
+~~V.    outras atividades correlatas.
+
      Art. 10 A Secretaria Municipal de Trabalho tem a estrutura e possui as seguintes competências:~~
 
 ~~I.    formular, coordenar e executar políticas públicas de promoção do trabalhador, tais como, formação profissional, orientação, visando a organização dos trabalhadores, identificação de oportunidade de trabalho e emprego, inserção de trabalhadores no mercado de trabalho e melhoria das relações de trabalho, inclusive em articulação com entidades de direito público interno ou externo de todas as esferas de governo e entidades de direito privado nacionais ou estrangeiras;~~
@@ -250,7 +258,8 @@ Das Atribuições e Estrutura dos Órgãos Municipais~~
 
 ~~V.    identificar junto a entidades de direito público interno ou externo ou de direito privado nacional ou estrangeira, recursos financeiros, para o desenvolvimento das ações da Secretaria;~~
 
-~~VI.    exercer outras atividades correlatas.<br>
+~~VI.    exercer outras atividades correlatas.
+
      Art. 11 A Secretaria Municipal de Desenvolvimento Econômico tem a estrutura definida no e possui as seguintes competências:~~
 
 ~~I.    organizar, implementar e fiscalizar a política municipal no fomento às atividades econômicas primárias, secundárias e terciárias, visando o desenvolvimento harmônico dessas atividades;~~
@@ -273,7 +282,8 @@ Das Atribuições e Estrutura dos Órgãos Municipais~~
 
 ~~X.    desenvolver a infraestrutura de turismo local;~~
 
-~~XI.    outras atividades correlatas.<br>
+~~XI.    outras atividades correlatas.
+
 Art. 12 A Secretaria Municipal de Habitação tem a estrutura definida no e possui as seguintes competências:~~
 
 ~~I.    implementar a política municipal de habitação de interesse social, visando atender a melhorias de qualidade de vida da população;~~ 
@@ -308,7 +318,8 @@ Art. 12 A Secretaria Municipal de Habitação tem a estrutura definida no e poss
 
 ~~XVI.    assessorar o Prefeito nos assuntos de sua competência e que nesta condição lhe forem cometidos e fornecer dados e informações a fim de subsidiar o processo decisório;~~
 
-~~XVII.    outras atividades correlatas.<br>
+~~XVII.    outras atividades correlatas.
+
      Art. 13 A Secretaria Municipal de Meio Ambiente e Sustentabilidade tem a estrutura definida e possui as seguintes competências:~~
 
 ~~I.    formular, coordenar, executar e fazer executar, em estreita articulação com a Secretaria Municipal de Infraestrutura e Secretaria Municipal de Regulação Urbana, de acordo com as diretrizes do Plano Diretor de Desenvolvimento Integrado, a política municipal do meio ambiente e a preservação, conservação e uso racional, fiscalização, controle e fomento dos recursos ambientais;~~
@@ -335,7 +346,8 @@ Art. 12 A Secretaria Municipal de Habitação tem a estrutura definida no e poss
 
 ~~XII.    assessorar o Prefeito Municipal nos assuntos de sua competência e que nesta condição lhe forem cometidos e fornecer dados e informações a fim de subsidiar o processo decisório;~~
 
-~~XIII.    outras atividades correlatas.<br>
+~~XIII.    outras atividades correlatas.
+
      Art. 14  A Secretaria Municipal de Esporte, Lazer e Juventude tem a estrutura definida e possui as seguintes competências:~~
 
 ~~I.    fomentar o esporte amador, as práticas desportivas comunitárias, recreação e lazer, bem como planejar e executar a política municipal de esporte por meio de programas e projetos de manutenção e expansão de atividades esportivas, recreativas, expressivas e motoras;~~
@@ -356,7 +368,8 @@ Art. 12 A Secretaria Municipal de Habitação tem a estrutura definida no e poss
 
 ~~IX.    assessorar o Prefeito Municipal nos assuntos de sua competência e que nesta condição lhe forem cometidos e fornecer dados e informações a fim de subsidiar o processo decisório;~~
 
-~~X.    outras atividades correlatas.<br>
+~~X.    outras atividades correlatas.
+
      Art. 15  A Secretaria Municipal de Planejamento e Regulação Urbana tem a estrutura definida e possui as seguintes competências:~~
 
 ~~I.    desenvolver o planejamento urbano e rural do Município, visando o desenvolvimento físico e social;~~ 
@@ -393,7 +406,8 @@ Art. 12 A Secretaria Municipal de Habitação tem a estrutura definida no e poss
 
 ~~XVII.    assessorar o Prefeito Municipal e os demais órgãos da administração municipal em assuntos de sua competência, além de fornecer dados e informações para subsidiar o processo decisório;~~
 
-~~XVIII.    outras atividades correlatas.<br>
+~~XVIII.    outras atividades correlatas.
+
 Art. 16  A Secretaria Municipal de Desenvolvimento Urbano tem a estrutura definida e possui as seguintes competências:~~
 
 ~~I.    coordenar e executar a política dos serviços de limpeza urbana, os serviços de coleta de entulhos e reciclagem;~~
@@ -404,7 +418,8 @@ Art. 16  A Secretaria Municipal de Desenvolvimento Urbano tem a estrutura defin
 
 ~~IV.    assessorar o Prefeito Municipal nos assuntos de sua competência e que nesta condição lhe forem cometidos e fornecer dados e informações a fim de subsidiar o processo decisório;~~
 
-~~V.    outras atividades correlatas.<br>
+~~V.    outras atividades correlatas.
+
      Art. 17 - A Secretaria Municipal de Transparência, Fiscalização e Controle tem a estrutura definida e possui as seguintes competências:~~
 
 ~~I.    avaliar o cumprimento das metas previstas no plano plurianual e a execução dos programas;~~
@@ -429,7 +444,8 @@ Art. 16  A Secretaria Municipal de Desenvolvimento Urbano tem a estrutura defin
 
 ~~XI.    assessorar o Prefeito e aos demais órgãos da administração municipal em assuntos de sua competência e que nesta condição lhe forem cometidos e fornecer dados e informações a fim de subsidiar o processo decisório;~~
 
-~~XII.    outras atividades correlatas.<br>
+~~XII.    outras atividades correlatas.
+
      Art. 18 A Procuradoria-Geral do Município tem a estrutura definida e possui as seguintes competências:~~
 
 ~~I.    promover a defesa judicial e extrajudicial do Município;~~
@@ -448,7 +464,8 @@ Art. 16  A Secretaria Municipal de Desenvolvimento Urbano tem a estrutura defin
 
 ~~VIII.    participar de inquéritos administrativos e presidir os processos administrativos disciplinares;~~
 
-~~IX.    assessorar o Prefeito Municipal nos assuntos de sua competência e que nesta condição lhe forem cometidos e o fornecimento de dados e informações a fim de subsidiar o processo decisório.<br>
+~~IX.    assessorar o Prefeito Municipal nos assuntos de sua competência e que nesta condição lhe forem cometidos e o fornecimento de dados e informações a fim de subsidiar o processo decisório.
+
      Art. 19 A Secretaria Municipal de Segurança Publica tem a estrutura definida e possui as seguintes competências:~~
 
 ~~I.    planejar, projetar, regulamentar e operar o trânsito de veículos, de pedestres e de animais, além de promover o desenvolvimento da circulação e da segurança dos ciclistas;~~
@@ -515,7 +532,8 @@ Art. 16  A Secretaria Municipal de Desenvolvimento Urbano tem a estrutura defin
 
 ~~XXXII.    assessorar o Prefeito Municipal nos assuntos de sua competência e que nesta condição lhe forem cometidos e fornecer dados e informações a fim de subsidiar o processo decisório;~~
 
-~~XXXIII.    outras atividades correlatas.<br>
+~~XXXIII.    outras atividades correlatas.
+
     Art. 20 A Secretaria Municipal de Saúde tem a estrutura definida e possui as seguintes competências:~~
 
 ~~I.    executar a política de saúde no Município, conforme Plano Municipal de Saúde, visando à promoção, proteção e recuperação da saúde da população, conforme os campos de atenção à saúde, levadas a efeito pelo Sistema Único de Saúde para o atendimento das demandas pessoais e das exigências ambientais, realizando através de seus órgãos;~~
@@ -530,9 +548,11 @@ Art. 16  A Secretaria Municipal de Desenvolvimento Urbano tem a estrutura defin
 
 ~~VI.    redigir em conjunto com a Procuradoria Geral do Município, convênios, acordos e contratos relacionados a área de sua competência;~~
 
-~~VII.  outras atividades correlatas.<br>~~  
+~~VII.  outras atividades correlatas.
+~~  
 
- ~~Parágrafo único. O Conselho Municipal de Saúde tem as atribuições, organização e composição definidas por Lei Municipal própria.<br>
+ ~~Parágrafo único. O Conselho Municipal de Saúde tem as atribuições, organização e composição definidas por Lei Municipal própria.
+
      Art. 21 A Secretaria Municipal de Educação tem a estrutura definida e possui as seguintes competências:~~
 
 ~~I.    programar, coordenar e executar a política referente às atividades educacionais no Município, bem como o planejamento, organização, administração, orientação e acompanhamento, controle e avaliação do sistema municipal de ensino, em consonância com os sistemas Estadual e Federal; manter o ensino infantil, fundamental e especial, obrigatório e gratuito, de acordo com a legislação vigente e garantir a sua universalização, inclusive para os que a ele não tiveram acesso na idade própria;~~
@@ -543,7 +563,8 @@ Art. 16  A Secretaria Municipal de Desenvolvimento Urbano tem a estrutura defin
 
 ~~IV.    realizar o planejamento operacional, formulação e execução da política de cultura no Município, bem como sua difusão em todas as suas manifestações;~~
 
-~~V.    outras atividades correlatas<br>
+~~V.    outras atividades correlatas
+
 Art. 21 A Secretaria Municipal de Cultura tem a estrutura definida e possui as seguintes competências:~~
 
 ~~I.    estimular e orientar as atividades culturais do município;~~
@@ -566,7 +587,8 @@ Art. 21 A Secretaria Municipal de Cultura tem a estrutura definida e possui as s
 
 ~~XI.    redigir em conjunto com a Procuradoria Geral do Município, convênios, acordos e contratos relacionados a área de sua competência;~~
 
-~~XII.    outras atividades correlatas.<br>
+~~XII.    outras atividades correlatas.
+
      Art. 22 A Secretaria Municipal de Infraestrutura tem a estrutura definida e possui as seguintes competências:~~
 
 ~~I.    programar, coordenar e executar a política de obras públicas do Município;~~
@@ -583,7 +605,8 @@ Art. 21 A Secretaria Municipal de Cultura tem a estrutura definida e possui as s
 
 ~~VII.    assessorar o Prefeito Municipal nos assuntos de sua competência e que nesta condição lhe forem cometidos, bem como fornecer dados e informações a fim de subsidiar o processo decisório;~~
 
-~~VIII.    outras atividades correlatas.<br>
+~~VIII.    outras atividades correlatas.
+
     Art. 23 A Secretaria Municipal de Assistência Social tem a estrutura definida e possui as seguintes competências:~~
 
 ~~I.    definir, implantar e executar a política de integração comunitária e atendimento às crianças quanto às garantias e direitos fundamentais e individuais, tendentes à valorização e à busca da cidadania plena;~~
@@ -600,7 +623,8 @@ Art. 21 A Secretaria Municipal de Cultura tem a estrutura definida e possui as s
 
 ~~VII.    assessorar o Prefeito nos assuntos de sua competência e que nesta condição lhe forem cometidos e fornecer dados e informações a fim de subsidiar o processo decisório;~~
 
-~~VIII.    outras atividades correlatas.<br>
+~~VIII.    outras atividades correlatas.
+
      Art. 24 A Secretaria Municipal de Ciência, Tecnologia e Inovação tem a estrutura definida e possui as seguintes competências:~~
 
 ~~I.    executar ações vinculadas à pesquisa e ao desenvolvimento tecnológico voltado para a inovação e pela otimização dos recursos tecnológicos do Governo Municipal;~~
@@ -649,7 +673,8 @@ Art. 21 A Secretaria Municipal de Cultura tem a estrutura definida e possui as s
 
 ~~VII.    assessorar o Prefeito Municipal nos assuntos de sua competência e que nesta condição lhe forem cometidos e fornecer dados e informações a fim de subsidiar o processo decisório;~~
 
-~~VIII.    outras atividades correlatas.<br>
+~~VIII.    outras atividades correlatas.
+
 Art. 26 A Secretaria Municipal de Articulação Metropolitana tem a estrutura definida e possui as seguintes competências:~~
 
 ~~I.    promover, elaborar, aprovar, fazer cumprir e controlar o planejamento integrado da Região;~~
@@ -660,7 +685,8 @@ Art. 26 A Secretaria Municipal de Articulação Metropolitana tem a estrutura de
 
 ~~IV.    coordenar os serviços comuns de interesse metropolitano empreendidos pelo Estado e Municípios da Região;~~
 
-~~V.    articular-se com os órgãos da União objetivando a compatibilização dos programas de interesse metropolitano;<br>
+~~V.    articular-se com os órgãos da União objetivando a compatibilização dos programas de interesse metropolitano;
+
 Art. 27 A Secretaria Municipal de Defesa do Consumidor tem a estrutura definida e possui as seguintes competências:~~
 
 ~~I.    assessorar o Prefeito Municipal na formulação da Política do Sistema Municipal de Proteção e Defesa do Consumidor;~~
@@ -701,14 +727,16 @@ Art. 27 A Secretaria Municipal de Defesa do Consumidor tem a estrutura definida 
 
 ~~V.    assessorar o Prefeito nos assuntos de interesse do Município  que envolvam ações integradas;~~
 
-~~VI.    outras atividades correlatas.~~<br>
+~~VI.    outras atividades correlatas.~~
+
  
 
 ~~Art. 29 A estrutura e as atribuições da Companhia de Desenvolvimento de Aparecida – CODAP será definida em Lei própria.~~
 
 ~~Art. 30 A estrutura e as atribuições do Instituto de Previdência de Aparecida de Goiânia – APARECIDAPREV será definida em lei própria.~~
 
-~~CAPÍTULO III<br>
+~~CAPÍTULO III
+
 DA REMUNERAÇÃO~~
 
 ~~Art. 31 Os ocupantes dos cargos descritos no Anexo I desta Lei, integrantes da estrutura administrativa organizacional de direção e assessoramento, serão remunerados na forma prevista no Anexo II desta Lei.~~
@@ -719,7 +747,8 @@ DA REMUNERAÇÃO~~
 
 ~~Parágrafo único. O servidor público, de qualquer esfera de Poder, que vier a ocupar o cargo em comissão de Secretário Municipal ou Presidente de Autarquia poderá optar pelo recebimento do valor estipulado no Anexo II ou por sua remuneração do cargo de origem, acrescida de um valor correspondente, em percentual, ao respectivo cargo de Secretário, a ser fixado através de decreto pelo Chefe do Poder Executivo.~~
 
-~~CAPÍTULO IV<br>
+~~CAPÍTULO IV
+
 DAS DISPOSIÇÕES GERAIS~~
 
 ~~Art. 33 Por Decreto do Prefeito Municipal, poderão ser remanejadas unidades administrativas de um órgão para outro, bem como alteradas as nomenclaturas e atribuições de órgãos já existentes, visando atender as necessidades e a racionalização das atividades administrativas, desde que não implique em aumento da despesa.~~
@@ -730,7 +759,8 @@ DAS DISPOSIÇÕES GERAIS~~
 
 ~~Art. 34 As despesas decorrentes da aplicação da presente lei correrão à conta de dotações próprias consignadas no orçamento vigente.~~
 
-~~CAPÍTULO V<br>
+~~CAPÍTULO V
+
 DAS DISPOSIÇÕES FINAIS~~
 
 ~~Art. 35 Ficam mantidas as disposições contidas na Lei Complementar nº 015, de 08 de agosto de 2008, Lei Complementar nº 111, de 08 de dezembro de 2015 e Lei Complementar nº 112, de 11 de dezembro de 2015, que não conflitarem com esta Lei.~~
@@ -781,13 +811,16 @@ DAS DISPOSIÇÕES FINAIS~~
 
 ~~GABINETE DO PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA-GO, aos 04 de janeiro de 2021.~~
 
-~~GUSTAVO MENDANHA<br>
+~~GUSTAVO MENDANHA
+
 Prefeito~~
 
-~~FÁBIO PASSAGLIA<br>
+~~FÁBIO PASSAGLIA
+
 Chefe da Casa Civil~~
 
-~~ANDRÉ LUIS FERREIRA DA ROSA<br>
+~~ANDRÉ LUIS FERREIRA DA ROSA
+
 Secretário da Fazenda~~
 
 ~~[ANEXOS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18699)~~

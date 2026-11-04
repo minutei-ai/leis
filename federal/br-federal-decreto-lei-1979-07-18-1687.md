@@ -1,5 +1,3 @@
-###DEL-001687-0-000-18-07-1979@@@
-
 # Decreto-lei nº 1.687, de 18 de Julho de 1979
 
 Dispõe sobre cobrança da Dívida Ativa da União e dá outras providências.

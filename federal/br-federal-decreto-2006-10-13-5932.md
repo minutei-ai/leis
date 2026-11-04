@@ -1,5 +1,3 @@
-###DEC-005932-0-000-13-10-2006@@@
-
 DECRETO Nº 5.932, DE 13 DE OUTUBRO DE 2006.
 
 Promulga o Protocolo de Intenções entre o Governo da República Federativa do Brasil e o Governo da Ucrânia sobre Cooperação em Assuntos Relacionados à Defesa, celebrado em Brasília, em 21 de outubro de 2003.
@@ -24,11 +22,7 @@ Brasília, 13 de outubro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-       Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 16.10.2006
-
-PROTOCOLO DE INTENÇÕES ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O
+       Celso Luiz Nunes AmorimPROTOCOLO DE INTENÇÕES ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O
 
 GOVERNO DA UCRÂNIA SOBRE COOPERAÇÃO EM ASSUNTOS RELACIONADOS À DEFESA
 

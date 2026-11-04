@@ -1,5 +1,3 @@
-###DEC-058327-0-000-03-05-1966@@@
-
 DECRETO Nº 58.327, DE 3 DE MAIO DE 1966.
 
 Transfere da Prefeitura Municipal de Pirenópolis para Centrais Elétricas de Goiás S.A. a concessão para produzir e distribuir energia elétrica no distrito sede do Município de Pirenópolis, Estado de Goiás.

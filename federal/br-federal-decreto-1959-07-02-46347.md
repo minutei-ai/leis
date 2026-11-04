@@ -1,5 +1,3 @@
-###DEC-046347-0-000-02-07-1959@@@
-
 DECRETO Nº 46.347, DE 2 DE JULHO DE 1959.
 
 Lotação de servidor no Departamento de Administração do Ministério da Viação e Obras Públicas.

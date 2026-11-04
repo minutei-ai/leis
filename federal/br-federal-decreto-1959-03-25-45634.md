@@ -1,5 +1,3 @@
-###DEC-045634-0-000-25-03-1959@@@
-
 Decreto nº 45.634, de 25 de março de 1959.
 
 Autoriza o cidadão brasileiro Abelar Marques da Costa a pesquisar mica no município de Galiléia, Estado de Minas Gerais.

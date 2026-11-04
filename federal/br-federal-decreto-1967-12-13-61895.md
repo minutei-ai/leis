@@ -1,5 +1,3 @@
-###DEC-061895-0-000-13-12-1967@@@
-
 DECRETO Nº 61.895, DE 13 DE DEZEMBRO DE 1967.
 
 Altera o Regulamento de Pessoal do Ministério das Relações Exteriores, aprovado pelo Decreto nº 2, de 21 de setembro de 1961.

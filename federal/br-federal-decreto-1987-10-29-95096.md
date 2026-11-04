@@ -1,5 +1,3 @@
-###DEC-095096-0-000-29-10-1987@@@
-
 DECRETO Nº 95.096, DE 29 DE OUTUBRO DE 1987
 
 Cria Grupo de Trabalho para elaborar estudos propondo diretrizes de uma política de desenvolvimento e integração do Brasil Central, e dá outras providências.

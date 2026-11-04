@@ -1,5 +1,3 @@
-###DEC-000058-0-000-13-03-1991@@@
-
 DECRETO Nº 58, DE 13 DE MAIO DE 1991
 
 Dispõe sobre os Quadros do Corpo de Oficiais da Ativa da Aeronáutica.

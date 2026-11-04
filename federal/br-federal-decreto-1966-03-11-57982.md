@@ -1,5 +1,3 @@
-###DEC-057982-0-000-11-03-1966@@@
-
 DECRETO Nº 57.982, de 11 de março de 1966.
 
 Outorgada à Companhia da Eletrificação Rural do Nordeste concessão para distribuir energia elétrica.

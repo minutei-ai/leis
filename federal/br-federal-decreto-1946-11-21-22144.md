@@ -1,22 +1,20 @@
-###DEC-022144-0-000-21-11-1946@@@
+**DECRETO N° 22.144, DE 22 DE NOVEMBRO DE 1946.**
 
-<strong>DECRETO N° 22.144, DE 22 DE NOVEMBRO DE 1946.</strong>
+***Concede à sociedade anônima "Frota Aérea Mercante Argentina" (F. A. M. A) autorização para funcionar na República.***
 
-<em><strong>Concede à sociedade anônima "Frota Aérea Mercante Argentina" (F. A. M. A) autorização para funcionar na República.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, atentado ao que requerer a sociedade anônima "Frota Aérea Mercante Argentina (F. A. M. A.)
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, atentado ao que requerer a sociedade anônima "Frota Aérea Mercante Argentina (F. A. M. A.)
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. É concedida à sociedade anônima "Frota Aérea Mercante Argentina (F. A. M. A.), com sede em Buenos Aires Argentina, autorização para funcionar na República com o capital de Cr$500.000,00 (quinhentos mil cruzeiros), destinado às suas operações no Brasil, e com os estatutos que apresentou, mediante as cláusulas que êste acompanham, assinados pelo Ministro de estado do Trabalho, Indústria e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto de referida autorização.
 
 Rio de Janeiro, 21 de novembro de 1946, 125° da Independência e 59° da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Morvan Figueiredo
 
-<strong>CLÁUSULAS QUE ACOMPANHAM O DECRETO N.° 22.144 DESTA DATA</strong>
+**CLÁUSULAS QUE ACOMPANHAM O DECRETO N.° 22.144 DESTA DATA**
 
 I
 
@@ -46,4 +44,4 @@ A infração de qualquer das cláusulas para a qual não esteja cominada pena es
 
 Rio de Janeiro, 21 de novembro de 1946.
 
-<strong>Morvan Figueiredo</strong>
+**Morvan Figueiredo**

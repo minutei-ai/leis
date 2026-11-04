@@ -1,5 +1,3 @@
-###DEC-050854-0-000-26-06-1961@@@
-
 Decreto nº 50.854, de 26 de junho de 1961.
 
 Acrescenta § ao Art. 1º do Decreto nº 50.268, de 8 de fevereiro de 1951, que dispõe sôbre depósitos bancários de entidades governamentais.

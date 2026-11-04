@@ -1,5 +1,3 @@
-###DEC-046654-0-000-17-08-1959@@@
-
 DECRETO Nº 46.654, DE 17 DE AGÔSTO DE 1959.
 
 Autoriza o cidadão brasileiro Joaquim de Oliveira Pontes a pesquisar minério de ferro, dolomita e quartzito no município de Santana de Parnaíba, Estado de São Paulo.

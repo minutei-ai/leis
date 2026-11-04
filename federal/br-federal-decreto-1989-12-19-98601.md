@@ -1,7 +1,3 @@
-1
-
-###DEC-098601-0-000-19-12-1989@@@
-
 DECRETO Nº 98.601, DE 19 DE DEZEMBRO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à formação da bacia de acumulação do reservatório da usina hidrelétrica de Serra da Mesa, de FURNAS -Centrais Elétricas S.A.

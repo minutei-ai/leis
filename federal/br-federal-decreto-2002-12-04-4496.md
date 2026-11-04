@@ -1,5 +1,3 @@
-###DEC-004496-0-000-04-12-2002@@@
-
 DECRETO Nº 4.496, DE 4 DE DEZEMBRO DE 2002
 
 Exclui o Decreto nº 119-A, de 7 de janeiro de 1890, do Anexo IV do Decreto nº 11, de 18 de janeiro de 1991.

@@ -1,5 +1,3 @@
-###DEC-007919-0-000-14-02-2013-PUB-01@@@
-
 DECRETO N°\- 7.919, DE 14 DE FEVEREIRO DE 2013
 
 Remaneja temporariamente cargos em comissão para atividades da Comissão Nacional da Verdade, criada pela Lei nº 12.528, de 18 de novembro de 2011.

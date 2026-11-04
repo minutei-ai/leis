@@ -1,5 +1,3 @@
-###DEL-005138-0-000-24-12-1942@@@
-
 DECRETO-LEI N. 5.138 – DE 24 DE DEZEMBRO 1942
 
 Abre, ao Ministério do Trabalho, Indústria e Comércio, o crédito suplementar de Cr$ 40.000,00, à dotação que especifica

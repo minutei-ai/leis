@@ -1,5 +1,3 @@
-###DEC-075345-0-000-04-02-1975@@@
-
 DECRETO Nº 75.345, DE 4 DE fevereiro de 1975.
 
 Concede Reconhecimento ao curso de Administração da Faculdade de Administração de Empresas de Ourinhos, mantida pela Fundação Educacional "Miguel Mofarrej" com sede na cidade de Ourinhos, Estado de São Paulo.

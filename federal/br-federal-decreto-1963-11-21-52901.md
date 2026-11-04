@@ -1,5 +1,3 @@
-###DEC-052901-0-000-21-11-1963@@@
-
 DECRETO Nº 52.901, DE 21 DE NOVEMBRO DE 1963.
 
 Dispõe sobre os Grupos Executivos e Grupos de Trabalho criados no Conselho do Desenvolvimento ou ao mesmo subordinados.

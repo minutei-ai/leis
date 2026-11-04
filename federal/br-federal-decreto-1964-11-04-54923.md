@@ -1,5 +1,3 @@
-###DEC-054923-0-000-04-11-1964@@@
-
 DECRETO Nº 54.923, DE 4 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Antero Amancio da Silva a pesquisar calcário no município de Rio Bonito - Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-084834-0-000-24-06-1980@@@
-
 DECRETO Nº 84.834, DE 24 DE JUNHO DE 1980.
 
 Autoriza o aumento do capital da Companhia de Água e Esgoto do Amapá - CAESA.

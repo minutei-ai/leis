@@ -1,5 +1,3 @@
-###DEC-080503-0-000-06-10-1977@@@
-
 DECRETO Nº 80.503, DE 6 DE OUTUBRO DE 1977
 
 Concede a Alfredo Carneiro Cabral, firma individual, o direito de lavrar calcário e basalto no Município de Miguel Pereira, Estado do Rio de Janeiro.

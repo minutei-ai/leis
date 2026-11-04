@@ -1,5 +1,3 @@
-###DEC-072957-0-000-18-10-1973@@@
-
 DECRETO Nº 72.957, DE 18 DE OUTUBRO DE 1973.
 
 Concede à Mineração Bianchi Ltda., o direito de lavrar caulim, no Município de Mogi das Cruzes, Estado de São Paulo.

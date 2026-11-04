@@ -1,5 +1,3 @@
-###DEC-060236-0-000-17-02-1967@@@
-
 DECRETO Nº 60.236, DE 17 DE FEVEREIRO DE 1967.
 
 Estabelece as anuidades e taxas a que se refere a Lei nº 2.800, de 18 de junho de 1956.

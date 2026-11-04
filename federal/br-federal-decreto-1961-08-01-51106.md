@@ -1,5 +1,3 @@
-###DEC-051106-0-000-01-08-1961@@@
-
 decreto nº 51.106, de 1º de agôsto de 1961.
 
 Define o que possa ser considerado filme brasileiro, para os efeitos legais, e dá outras providências.

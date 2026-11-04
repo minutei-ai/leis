@@ -1,5 +1,3 @@
-###DEL-007717-0-000-09-07-1945@@@
-
 DECRETO-LEI N. 7.717 – DE 9 DE JULHO DE 1945
 
 Altera a letra b, do § 3º, do artigo 144, do Código de Vencimentos e Vantagens dos Militares do Exército.

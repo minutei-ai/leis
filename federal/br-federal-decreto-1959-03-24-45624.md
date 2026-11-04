@@ -1,5 +1,3 @@
-###DEC-045624-0-000-24-03-1959@@@
-
 DECRETO Nº 45.624, DE 24 DE MARÇO DE 1959.
 
 Autoriza A. Stern Comércio e Indústria S.A., a comprar pedras preciosas.

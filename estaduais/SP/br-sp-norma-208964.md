@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208964)<br>
-
 # DECRETO N° 68.215, DE 15 DE DEZEMBRO DE 2023
 
 ### _Altera a denominação da Escola Estadual Ponte Alta V, localizada no Município de Guarulhos, para Escola Estadual "Professora Elisabete Nuccini"._

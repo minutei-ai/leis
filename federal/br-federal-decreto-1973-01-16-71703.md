@@ -1,5 +1,3 @@
-###DEC-071703-0-000-16-01-1973@@@
-
 Decreto nº 71.703, de 16 de janeiro de 1973.
 
 Aproveita, no Quadro de Pessoal do Ministério da Educação e Cultura, servidores em disponibilidade do Instituto Nacional de Previdência Social, e dá outras providências.

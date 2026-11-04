@@ -1,5 +1,3 @@
-###DEC-003294-0-000-15-12-1999@@@
-
 DECRETO Nº 3.294, DE 15 DE DEZEMBRO DE 1999.
 
 Institui o Programa Sociedade da Informação e dá outras providências.

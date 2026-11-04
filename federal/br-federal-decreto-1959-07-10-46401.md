@@ -1,5 +1,3 @@
-###DEC-046401-0-000-10-07-1959@@@
-
 DECRETO Nº 46.401, DE 10 DE JULHO DE 1959.
 
 Retifica e altera o Decreto nº 38.673, de 27 de janeiro de 1956, retificado pelo Decreto nº 38.966, 3 de abril de 1956.

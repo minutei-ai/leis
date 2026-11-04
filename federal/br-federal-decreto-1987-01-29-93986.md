@@ -1,5 +1,3 @@
-###DEC-093986-0-000-29-01-1987@@@
-
 DECRETO Nº 93.986, DE 29 DE JANEIRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados Lotes 13, 15 e 21 (parte), 22 e 33, compreendidos na Fazenda Mamoneiras, classificados no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situados no Município de Fazenda Nova, no Estado de Goiás, compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.690, de 19 de maio de 1986, e dá outras providências.

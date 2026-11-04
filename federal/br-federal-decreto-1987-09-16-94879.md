@@ -1,5 +1,3 @@
-###DEC-094879-0-000-16-09-1987@@@
-
 DECRETO N° 94.879, DE 16 DE SETEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Fisioterapia da Faculdade de Educação Física de Cruz Alta.

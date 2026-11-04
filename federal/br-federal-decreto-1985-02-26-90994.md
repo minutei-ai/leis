@@ -1,5 +1,3 @@
-###DEC-090994-0-000-26-02-1985@@@
-
 DECRETO Nº 90.994, de 26 de fevereiro de 1985
 
 Autoriza o funcionamento do curso de Ciências Contábeis e da habilitação em Matemática do curso de Ciências - da Fundação Faculdade de Educação Ciências e Letras de Irati/PR.

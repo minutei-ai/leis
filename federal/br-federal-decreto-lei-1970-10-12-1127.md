@@ -1,5 +1,3 @@
-###DEL-001127-0-000-12-10-1970@@@
-
 # DECRETO-LEI Nº 1.127, DE 12 DE OUTUBRO DE 1970
 
 Autoriza a instituição de regime especial de trabalho e de retribuição para servidores civis do Poder Executivo destacados para o desempenho de atividades compreendidas na primeira etapa do Programa de Integração Nacional.

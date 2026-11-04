@@ -1,6 +1,10 @@
 > **LEI Nº 3.609, DE 09 DE JANEIRO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Classifica o doente renal crônico como pessoa com deficiência, para fins de fruição dos direitos assegurados na Constituição do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Classifica o doente renal crônico como pessoa com deficiência, para fins de fruição dos direitos assegurados na Constituição do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

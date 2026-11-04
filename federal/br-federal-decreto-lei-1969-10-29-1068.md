@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/f79d1db8-b73e-4d41-b1bc-7946e8652fc4/texto#nowhere)
 
-###DEL-001068-0-000-29-10-1969@@@
-
 DecrEto-lei nº 1.068, de 29 de outubro de 1969
 
 Reestrutura o Quadro de Pessoal do Estado-Maior das Fôrças Armadas, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-067487-0-000-05-11-1970@@@
-
 decreto nº 67.487, de 5 de novembro de 1970.
 
 Altera os dispositivos do Regulamento do Estado-Maior do Exército (R-173), aprovado pelo Decreto nº 62.964, de 9 de julho de 1968.

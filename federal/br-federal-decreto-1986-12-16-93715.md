@@ -1,5 +1,3 @@
-###DEC-093715-0-000-16-12-1986@@@
-
 DECRETO Nº 93.715, DE 16 DE DEZEMBRO DE 1986
 
 Regulamenta o Decreto-lei nº 2.194/84, que dispõe sobre a Gratificação pelo Desempenho de Atividades Rodoviárias.

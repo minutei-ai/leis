@@ -1,5 +1,3 @@
-###DEC-079836-0-000-22-06-1977@@@
-
 DECRETO Nº 79.836, DE 22 DE JUNHO DE 1977
 
 Concede reconhecimento ao curso de Administração, da Faculdade de Ciências Econômicas da Universidade Regional do Rio Grande do Norte, com sede na Cidade de Mossoró, Estado do Rio Grande do Norte.

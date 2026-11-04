@@ -1,5 +1,3 @@
-###DEC-092703-0-000-21-05-1986@@@
-
 DECRETO Nº 92.703, DE 21 DE MAIO DE 1986
 
 Autoriza o funcionamento de habilitação do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras Tuiuti.

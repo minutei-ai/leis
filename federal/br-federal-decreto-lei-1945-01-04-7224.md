@@ -1,5 +1,3 @@
-###DEL-007224-0-000-04-01-1945@@@
-
 DECRETO-LEI N. 7.224 – DE 4 DE JANEIRO DE 1945
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito especial de Cr$ 1.846.509,60, para pagamento do passivo da Rádio Ipanema S. A.

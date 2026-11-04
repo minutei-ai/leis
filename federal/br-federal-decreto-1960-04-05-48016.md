@@ -1,5 +1,3 @@
-###DEC-048016-0-000-05-04-1960@@@
-
 DECRETO Nº 48.016, DE 5 DE ABRIL DE 1960.
 
 Autoriza cidadão brasileiro Manoel de Matos Júnior a pesquisar calcário no município de Itumirim, Estado de Minas Gerais.

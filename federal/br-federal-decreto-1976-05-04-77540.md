@@ -1,5 +1,3 @@
-###DEC-077540-0-000-04-05-1976@@@
-
 decreto nº 77.540, de 4 de maio de 1976
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - D.N.O.C.S., área de terra necessária à ampliação da Estação de Piscicultura "Valdemar Carneiro de França", ex-Amanari, no Município de Maranguape, no Estado do Ceará.

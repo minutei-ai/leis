@@ -1,5 +1,3 @@
-###DEC-056266-0-000-06-05-1965@@@
-
 DECRETO Nº 56.266, DE 6 DE MAIO DE 1965.
 
 Autoriza a admissão de pessoal especialista temporário no Instituto de Pesquisas da Marinha e dá outras providências.

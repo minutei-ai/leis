@@ -1,5 +1,3 @@
-###DEC-080646-0-000-01-11-1977@@@
-
 DECRETO Nº 80.646, DE 01 DE NOVEMBRO DE 1977.
 
 Autoriza estrangeiro a adquirirem direitos sobre os terrenos que menciona, situados na Cidade e Estado do Rio de Janeiro.

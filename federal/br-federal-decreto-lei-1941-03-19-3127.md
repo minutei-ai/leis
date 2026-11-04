@@ -1,5 +1,3 @@
-###DEL-003127-0-000-19-03-1941@@@
-
 DECRETO-LEI N. 3.127 – DE 19 DE MARÇO DE 1941
 
 Reorganiza o Departamento de Administração do Ministério da Agricultura e dá outras providências.

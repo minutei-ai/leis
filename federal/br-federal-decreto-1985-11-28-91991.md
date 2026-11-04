@@ -1,5 +1,3 @@
-###DEC-091991-0-000-28-11-1985@@@
-
 Decreto nº 91.991, de 28 de novembro de 1985
 
 Dispõe sobre o processo de privatização de empresas sob controle direto ou indireto do Governo Federal, e dá outras providências.

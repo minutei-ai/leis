@@ -1,5 +1,3 @@
-###DEL-006863-0-000-08-09-1944@@@
-
 DECRETO-LEI N. 6.863 – DE 8 DE SETEMBRO DE 1944
 
 Altera a carreira de Bibliotecário do Quadro Permanente, funde as de Bibliotecário Auxiliar dos Quadros Permanente e Suplementar do Ministério das Relações Exteriores, e dá outras providências.

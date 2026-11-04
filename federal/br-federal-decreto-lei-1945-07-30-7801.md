@@ -1,5 +1,3 @@
-###DEL-007801-0-000-30-07-1945@@@
-
 DECRETO-LEI N. 7.801 – DE 30 DE JULHO DE 1945
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 97.470.000,00, para subscrição de debêntures da Companhia Vale do Rio Doce S.A., e dá outras providências.

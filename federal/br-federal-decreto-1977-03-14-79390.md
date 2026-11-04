@@ -1,5 +1,3 @@
-###DEC-079390-0-000-14-03-1977@@@
-
 DECRETO Nº 79.390, 14 DE março DE 1977
 
 Concede autorização à empresa Compagnie Generale Pour Les Develo-pements Operationnes des Richesses Sous-Marines para operar no mar territorial do Brasil a embarcação M/V "Astragale", de nacionalidade francesa, a serviço da Petróleo Brasileiro S. A - PETROBRÁS.

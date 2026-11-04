@@ -1,5 +1,3 @@
-###DEC-094536-0-000-29-06-1987@@@
-
 DECRETO N° 94.536, DE 29 DE JUNHO DE 1987
 
 Regulamenta a Lei n° 7.573, de 23 de dezembro de 1986, que dispõe sobre o Ensino Profissional Marítimo.

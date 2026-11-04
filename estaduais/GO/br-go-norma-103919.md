@@ -26,8 +26,6 @@ Art. 3º Esta Lei entra em vigor na data de sua publicação, porém produz efei
 
 Goiânia, 30 de março de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

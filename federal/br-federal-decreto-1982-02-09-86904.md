@@ -1,5 +1,3 @@
-###DEC-086904-0-000-09-02-1982@@@
-
 Decreto nº 86.904, de 09 de fevereiro de 1982.
 
 Altera o Regulamento para Alto-Comando do Exército (R-189) aprovado pelo Decreto nº 85.326, de 06 de novembro de 1980.

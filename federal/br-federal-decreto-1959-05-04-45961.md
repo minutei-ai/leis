@@ -1,5 +1,3 @@
-###DEC-045961-0-000-04-05-1959@@@
-
 DECRETO Nº 45.961, DE 4 DE MAIO DE 1959.
 
 Autoriza o Instituto Nacional de Imigração e Colonização a ceder ao Ministério da Justiça e Negócios Interiores a Fazenda Madressilva, situada no Município de Macaé, no Estado do Rio de Janeiro, para o fim que menciona.

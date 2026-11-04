@@ -1,30 +1,28 @@
-###DEC-032488-0-000-30-03-1953@@@
+**DECRETO Nº 32.488, DE 30 DE MARÇO DE 1953.**
 
-<strong>DECRETO Nº 32.488, DE 30 DE MARÇO DE 1953.</strong>
+***Aprova e manda executar o Regulamento para a Diretoria de Saúde da Marinha.***
 
-<em><strong>Aprova e manda executar o Regulamento para a Diretoria de Saúde da Marinha.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. Fica aprovado o Regulamento para a Diretoria se Saúde da Marinha, que com êste baixa, assinado pelo ministro de Estado da marinha.
 
-<strong>Art</strong>. Fica aprovado o Regulamento para a Diretoria se Saúde da Marinha, que com êste baixa, assinado pelo ministro de Estado da marinha.
-
-<strong>Art</strong>. 2. Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2. Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 30 de março de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Renato de Almeida Guillobel
 
-<strong>REGULAMENTO PARA A DIRETORIA DE SAÚDE DA MARINHA</strong>
+**REGULAMENTO PARA A DIRETORIA DE SAÚDE DA MARINHA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DOS FINS</em>
+*DOS FINS*
 
-<strong>Art</strong>. 1º A Diretoria de Saúde da Marinha (DS) é o órgão do Ministério da Marinha que tem por finalidade dirigir, coordenar e controlar as atividades técnicas e administrativas relacionadas com o serviço de saúde da MB.
+**Art**. 1º A Diretoria de Saúde da Marinha (DS) é o órgão do Ministério da Marinha que tem por finalidade dirigir, coordenar e controlar as atividades técnicas e administrativas relacionadas com o serviço de saúde da MB.
 
 Parágrafo único. A DS é subordinada:
 
@@ -34,7 +32,7 @@ b) ao Estado Maior da Armada, quanto ao comando e à logística de consumo;
 
 c) à Secretaria Geral da Marinha, quanto à logística de produção e à administração dos negócios da MB.
 
-<strong>Art</strong>. 2º À DS competirá:
+**Art**. 2º À DS competirá:
 
 a) planejar suas atividades;
 
@@ -62,13 +60,13 @@ m) representar a MB em congressos e conferências técnicas sôbre assuntos de s
 
 n) emitir parecer sôbre os assuntos técnicos de sua alçada.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
 Estrutura Orgânica
 
-<strong>Art</strong>. 3º Além do Diretor Geral de Saúde e seu Gabinete, a DS disporá de uma Vice-Diretoria, um Grupo de Inspeção e dos cinco seguintes departamentos:
+**Art**. 3º Além do Diretor Geral de Saúde e seu Gabinete, a DS disporá de uma Vice-Diretoria, um Grupo de Inspeção e dos cinco seguintes departamentos:
 
 Departamento de Planejamento, Estudos e Pesquisas (DS-10);
 
@@ -86,17 +84,17 @@ Departamento de Intendência - (DS-50).
 
 Atribuições do Diversos Órgãos
 
-<strong>Art</strong>. 4º O Diretor Geral de Saúde (DGS), Assessor Técnico do Ministério da Marinha em assuntos de saúde, será o responsável pelo fornecimento dos requisitos de apoio logísticio às Fôrças, Estabelecimentos Navais e Serviços da MB, no que se referir ao serviço de saúde.
+**Art**. 4º O Diretor Geral de Saúde (DGS), Assessor Técnico do Ministério da Marinha em assuntos de saúde, será o responsável pelo fornecimento dos requisitos de apoio logísticio às Fôrças, Estabelecimentos Navais e Serviços da MB, no que se referir ao serviço de saúde.
 
-<strong>Art</strong>. 5º O DGS será o responsável pela elaboração, direção e contrôle dos programas referentes às atividades da DS e dos Estabelecimentos e Serviços que lhe forem subordinados.
+**Art**. 5º O DGS será o responsável pela elaboração, direção e contrôle dos programas referentes às atividades da DS e dos Estabelecimentos e Serviços que lhe forem subordinados.
 
-<strong>Art</strong>. 6º O DGS manterá assídua colaboração com o Inspetor Geral da Marinha, visando corrigir falhas ou erros que forem verificados e aperfeiçoar os serviços.
+**Art**. 6º O DGS manterá assídua colaboração com o Inspetor Geral da Marinha, visando corrigir falhas ou erros que forem verificados e aperfeiçoar os serviços.
 
-<strong>Art</strong>. 7º No desempenho de suas atribuições, o DGS terá como auxiliares diretos o Vice-Diretor seu Gabinete e a Junta Superior de Saúde.
+**Art**. 7º No desempenho de suas atribuições, o DGS terá como auxiliares diretos o Vice-Diretor seu Gabinete e a Junta Superior de Saúde.
 
 Vice Diretoria (DS-05)
 
-<strong>Art</strong>. 8º À Vice-Diretoria (DS-05) competirá:
+**Art**. 8º À Vice-Diretoria (DS-05) competirá:
 
 a) providenciar a execução das diretivas e ordens do DGS;
 
@@ -118,11 +116,11 @@ i) verificar todo o expediente a ser submetido ao DGS.
 
 Junta Superior de Saúde (DS-03)
 
-<strong>Art</strong>. 9º A Junta Superior de Saúde (DS-03), subordinada diretamente ao DGS, será constituída de um presidente e quatro membros, competindo - lhe inspecionar de saúde, em grau de recurso e em última instância, por concessão do DGS, aqueles que forem julgados incapazes pelas Juntas Ordinárias.
+**Art**. 9º A Junta Superior de Saúde (DS-03), subordinada diretamente ao DGS, será constituída de um presidente e quatro membros, competindo - lhe inspecionar de saúde, em grau de recurso e em última instância, por concessão do DGS, aqueles que forem julgados incapazes pelas Juntas Ordinárias.
 
 Grupo de Inspeção (DS-06)
 
-<strong>Art</strong>. 10 Ao Grupo de Inspeção (DS-06), constituído por um Chefe assessorado por oficiais da própria DS, competirá:
+**Art**. 10 Ao Grupo de Inspeção (DS-06), constituído por um Chefe assessorado por oficiais da própria DS, competirá:
 
 a) inspecionar periodicamente todos os órgãos sob o contrôle técnico ou administrativo da DS, atendendo às instruções ou recomendações da Inspetoria Geral da Marinha e procurando especialmente constatar:
 
@@ -140,9 +138,9 @@ d) manter o DGS a par da produção das fábricas, oficinas e laboratórios da D
 
 Departamentos
 
-<strong>Art</strong>. 11. Os Departamentos serão dirigidos por Chefes com ampla iniciativa, dentro de suas respectivas esferas de ação, e responsáveis pela perfeita execução do que lhes compete, conforme abaixo se especifica.
+**Art**. 11. Os Departamentos serão dirigidos por Chefes com ampla iniciativa, dentro de suas respectivas esferas de ação, e responsáveis pela perfeita execução do que lhes compete, conforme abaixo se especifica.
 
-<strong>Art</strong>. 12. Ao Departamento de Planejamento, Estudos e Pesquisas (DS-10) competirá:
+**Art**. 12. Ao Departamento de Planejamento, Estudos e Pesquisas (DS-10) competirá:
 
 a) elaborar os planos de atividades da DS e dos órgãos que lhe são subordinados, orientando e acompanhando sua execução e mantendo o DGS ao corrente de seu progresso;
 
@@ -166,7 +164,7 @@ j) realizar, promover e auxiliar experiências e pesquisas que interessem ao ser
 
 l) efetuar a perícia de todo o material médico, odontológico e farmacêutico adquirido para a MB.
 
-<strong>Art</strong>. 13 Ao Departamento de Medicina (DS-20) competirá:
+**Art**. 13 Ao Departamento de Medicina (DS-20) competirá:
 
 a) superintender o assuntos ligados à clínica médica, cirurgia, serviços médicos especializados e correlatos;
 
@@ -178,7 +176,7 @@ d) elaborar programas de especializações médicas e aperfeiçoamento às neces
 
 e) cooperar com a Secretaria Geral da Marinha e a Diretoria do Pessoal na seleção, instrução, especialização e aperfeiçoamento do pessoal técnico necessário à medicina e cirurgia.
 
-<strong>Art</strong>. 14 Ao Departamento de Odontologia (DS-30) competirá:
+**Art**. 14 Ao Departamento de Odontologia (DS-30) competirá:
 
 a) superinteder os assuntos ligados à odontologia;
 
@@ -190,7 +188,7 @@ d) elaborar programas de especializações odontológicas e aperfeiçoamentos, a
 
 e) cooperar com a Secretaria Geral da Marinha e a Diretoria do Pessoal na seleção, instrução, especialização e aperfeiçoamento do pessoal técnico necessário ao serviço de saúde, na parte referente à odontologia.
 
-<strong>Art</strong>. 15 Ao Departamento de Farmácia (DS-40) competirá:
+**Art**. 15 Ao Departamento de Farmácia (DS-40) competirá:
 
 a) superintender os assuntos ligados à farmácia;
 
@@ -200,7 +198,7 @@ c) orientar tecnicamente a assistência farmacêutica e prestada aos decendentes
 
 e) cooperar com a Secretaria Geral da Marinha e a Diretoria do Pessoal na seleção, instrução, especialização e aperfeiçoamento do pessoal técnico parte referente à farmácia.
 
-<strong>Art</strong>. 16 Ao Departamento de Intendência (DS-40) competirá:
+**Art**. 16 Ao Departamento de Intendência (DS-40) competirá:
 
 a) lavrar contratos;
 
@@ -216,51 +214,51 @@ f) elaborar a proposta orçamentária da DS e dos órgãos a ela subordinados;
 
 g) coligir e analisar os dados referentes à contabilidade industrial dos órgãos subordinados à DS, indicando providências para seu aperfeiçoamento.
 
-<strong>Art</strong>. 17 Os Departamentos serão subdivididos em tantas Divisões e Seções quantas forem necessárias, de acôrdo com o que estabelecer o Regimento Interno da DS.
+**Art**. 17 Os Departamentos serão subdivididos em tantas Divisões e Seções quantas forem necessárias, de acôrdo com o que estabelecer o Regimento Interno da DS.
 
 Gabinete (DS-02)
 
-<strong>Art</strong>. 18. Ao Gabinete do DGS (DS-02) competirá:
+**Art**. 18. Ao Gabinete do DGS (DS-02) competirá:
 
 a) o desempenho de funções de representação;
 
 b) a correspondência de caráter pessoal do DGS.
 
-<strong>Digitar o que falta.</strong>
+**Digitar o que falta.**
 
-<strong>Art</strong>. 20. As atribuições do pessoal discriminadas no Regimento Interno da DS.
+**Art**. 20. As atribuições do pessoal discriminadas no Regimento Interno da DS.
 
-<strong>Art</strong>. 21 O pessoal da DS será nomeado, designado, ou admitido de acôrdo com a legislação em vigor.
+**Art**. 21 O pessoal da DS será nomeado, designado, ou admitido de acôrdo com a legislação em vigor.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS DISPOSIÇÕES GERAIS</em>
+*DAS DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 22. Ficarão subordinados técnicamente à DS todos os órgãos dos seguintes tipos: Organização Hospitalares, Hospitais, Policlínicas, Odontoclínicas, Sanatórios Colônias de Férias, Enfermarias, Preventorios, Ambulatórios, Serviços de Pronto Socorro, Laboratórios de Pesquisas Clínicas, Laboratórios Farmacêutica.
+**Art**. 22. Ficarão subordinados técnicamente à DS todos os órgãos dos seguintes tipos: Organização Hospitalares, Hospitais, Policlínicas, Odontoclínicas, Sanatórios Colônias de Férias, Enfermarias, Preventorios, Ambulatórios, Serviços de Pronto Socorro, Laboratórios de Pesquisas Clínicas, Laboratórios Farmacêutica.
 
 § Nos diversos regulamentos ou regimento internos se especificará quais os órgãos subordinados administrativamente.
 
 § 2º Os diversos órgãos dos Serviços de Assistência Social, subornados à Diretoria do Pessoal, receberão orientação técnica da DS.
 
-<strong>Art</strong>. 23. Ficam subordinados ao DGS a Comissão da Campanha Antituberculose (CCAT), a Comissão Central de venereologia (CCV) e outras comissões permanentes que venham a ser criadas.
+**Art**. 23. Ficam subordinados ao DGS a Comissão da Campanha Antituberculose (CCAT), a Comissão Central de venereologia (CCV) e outras comissões permanentes que venham a ser criadas.
 
-<strong>Art</strong>. 24. O serviço interno da DS obedecerá a um Regimento Interno que será expedido dentro de 180 dias a contar da data da aprovação deste Regulamento.
+**Art**. 24. O serviço interno da DS obedecerá a um Regimento Interno que será expedido dentro de 180 dias a contar da data da aprovação deste Regulamento.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DAS DISPOSIÇÕES TRANSITÓRIAS</em>
+*DAS DISPOSIÇÕES TRANSITÓRIAS*
 
-<strong>Art</strong>. 25. Durante o prazo fixado no artigo 24, o DGS expedirá as instruções necessárias à adaptação das disposições contidas neste Regulamento.
+**Art**. 25. Durante o prazo fixado no artigo 24, o DGS expedirá as instruções necessárias à adaptação das disposições contidas neste Regulamento.
 
-<strong>Art</strong>. 26 Antes da criação de qualquer novo Estabelecimento ou Serviço , deverá ser elaborado e aprovado o regulamento ou regimento interno, conforme o caso, pela qual se deverá reger.
+**Art**. 26 Antes da criação de qualquer novo Estabelecimento ou Serviço , deverá ser elaborado e aprovado o regulamento ou regimento interno, conforme o caso, pela qual se deverá reger.
 
-<strong>Art</strong>. 27. Imediatamente após a entrada em vigor deste Regulamento, deverão ser revistos os regulamentos ou regimentos imternos que regem os Estabelecimentos e Serviços existentes, de modo a enquadrá - los no que vem de ser estabelecido. Os anteprojetos dos regulamentos ou regimentos internos atualizados deverão ser submetidos à aprovação dentro de 120 dias.
+**Art**. 27. Imediatamente após a entrada em vigor deste Regulamento, deverão ser revistos os regulamentos ou regimentos imternos que regem os Estabelecimentos e Serviços existentes, de modo a enquadrá - los no que vem de ser estabelecido. Os anteprojetos dos regulamentos ou regimentos internos atualizados deverão ser submetidos à aprovação dentro de 120 dias.
 
-<strong>Art</strong>. 28 Êste Regulamento após a ser revisto dentro do prazo de doze meses contados a partir de sua aprovação.
+**Art**. 28 Êste Regulamento após a ser revisto dentro do prazo de doze meses contados a partir de sua aprovação.
 
 Rio de Janeiro, D.F., 30 de março de 1953.
 
-<strong>RENATO DE ALEMIDA GUILLOBEL</strong>
+**RENATO DE ALEMIDA GUILLOBEL**
 
 Vice Almirante
 

@@ -1,5 +1,3 @@
-###DEC-072929-0-000-16-10-1973@@@
-
 DECRETO Nº 72.929, DE 16 DE OUTUBRO DE 1973.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada a passagem de linha de transmissão, no Estado de Goiás.

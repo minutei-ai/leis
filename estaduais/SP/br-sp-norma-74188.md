@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74188)
-
 # LEI Nº 12.698, DE 04 DE OUTUBRO DE 2007
 
 ### _Autoriza o Departamento de Estradas de Rodagem - DER a alienar, mediante doação, ao Município de Presidente Alves, a área que especifica._

@@ -1,5 +1,3 @@
-###DEC-073666-0-000-15-02-1974@@@
-
 DECRETO Nº 73.666, DE 15 DE FEVEREIRO DE 1974.
 
 Retifica o Decreto nº 72.213, de 11 de maio de 1973.

@@ -1,5 +1,3 @@
-###DEC-093062-0-000-01-08-1986@@@
-
 DECRETO Nº 93.062, DE 1º DE AGOSTO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, imóvel situado na cidade de Vitória, Estado do Espírito Santo, destinado ao Tribunal Regional do Trabalho da 1ª Região.

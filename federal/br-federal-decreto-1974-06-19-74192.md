@@ -1,5 +1,3 @@
-###DEC-074192-0-000-19-06-1974@@@
-
 DECRETO Nº 74.192, de 19 DE JUNHO DE 1974.
 
 Altera dispositivos do Regulamento para Formação de Oficiais Engenheiros e o Ingresso no Corpo de Engenheiros e Técnicos Navais, aprovado pelo Decreto nº 71.317, de 6 de novembro de 1972, e dá outras providências.

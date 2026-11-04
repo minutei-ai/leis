@@ -1,5 +1,3 @@
-###MPV-001777-0-010-08-04-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.777-10, DE 8 DE ABril DE 1999.
 
 Dispõe sobre a renegociação de dívidas no âmbito do Programa de Crédito Educativo, e dá outras providências.

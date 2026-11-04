@@ -1,5 +1,3 @@
-###DEC-058090-0-000-28-03-1966@@@
-
 DECRETO Nº 58.090, DE 28 DE MARÇO DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da Companhia de Seguros Vila Rica, relativa ao aumento do capital social.

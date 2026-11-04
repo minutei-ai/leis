@@ -1,5 +1,3 @@
-###DEC-094682-0-000-24-07-1987@@@
-
 DECRETO N° 94.682, DE 24 DE JULHO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, imóveis situados no Município e Comarca de Niterói, Estado do Rio de Janeiro, destinados à instalação de Estação Telefônica da Telecomunicações do Rio de Janeiro S.A. - TELERJ, e dá outras providências.

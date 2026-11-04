@@ -1,5 +1,3 @@
-###DEC-055771-0-000-19-02-1965@@@
-
 decreto nº 55.771, de 19 de fevereiro de 1965.
 
 Aprova o Regimento do Departamento de Arrecadação do Ministério da Fazenda, cria e extingue funções gratificadas.
@@ -12,13 +10,231 @@ Art. 1º Fica aprovado o Regimento do Departamento de Arrecadação do Ministér
 
 Art. 2º Ficam criadas na Parte Permanente do Quadro de Pessoal do Ministério da Fazenda, nos têrmos do art. 11 da Lei nº 3.730, de 12 de julho de 1960, as seguintes funções gratificadas, lotadas no Departamento de Arrecadação:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4</span></p></td><td style="width:368.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Assessôres do Diretor do DAr ...................................................................................</span></p></td><td style="width:23.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2-F</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1</span></p></td><td style="width:368.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Secretário do Diretor do DAr ......................................................................................</span></p></td><td style="width:23.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>9-F</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2</span></p></td><td style="width:368.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefes de Divisão do DAr ..........................................................................................</span></p></td><td style="width:23.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1-F</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>6</span></p></td><td style="width:368.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefes de Serviços do DAr ........................................................................................</span></p></td><td style="width:23.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2-F</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>10</span></p></td><td style="width:368.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Delegados Regionais .................................................................................................</span></p></td><td style="width:23.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1-F</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>20</span></p></td><td style="width:368.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Assessôres dos Delegados Regionais .......................................................................</span></p></td><td style="width:23.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3-F</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>10</span></p></td><td style="width:368.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Secretários dos Delegados Regionais .......................................................................</span></p></td><td style="width:23.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>15-F</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>50</span></p></td><td style="width:368.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefes de Seção do DRAr .........................................................................................</span></p></td><td style="width:23.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3-F</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>50</span></p></td><td style="width:368.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefes de Turmas das DRAr .....................................................................................</span></p></td><td style="width:23.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>6-F</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>13</span></p></td><td style="width:368.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Delegados Secionais .................................................................................................</span></p></td><td style="width:23.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2-F</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>13</span></p></td><td style="width:368.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Assessôres dos Delegados Seccionais .....................................................................</span></p></td><td style="width:23.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4-F</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>13</span></p></td><td style="width:368.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Secretário dos Delegados Seccionais .......................................................................</span></p></td><td style="width:23.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>16-F</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>52</span></p></td><td style="width:368.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefes de Seção da DSAr .........................................................................................</span></p></td><td style="width:23.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>5-F</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>78</span></p></td><td style="width:368.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefes de Turmas das DSAr .....................................................................................</span></p></td><td style="width:23.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>8-F</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>107</span></p></td><td style="width:368.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefes de Exatorias de 1ª classe ..............................................................................</span></p></td><td style="width:23.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2-F</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>601</span></p></td><td style="width:368.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefes de Exatorias de 2ª classe ..............................................................................</span></p></td><td style="width:23.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3-F</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1460</span></p></td><td style="width:368.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefes de Exatorias de 3ª classe ..............................................................................</span></p></td><td style="width:23.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4-F</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4</span></p></td><td style="width:368.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tesoureiros das Delegacias Regionais de Arrecadação (Guanabara, São Paulo, Belo Horizonte e Distrito Federal) ..............................................................................</span></p></td><td style="width:23.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2-F</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>6</span></p></td><td style="width:368.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tesoureiros Assistentes das Delegacias Regionais de Arrecadação (Guanabara, São Paulo e Belo Horizonte) ......................................................................................</span></p></td><td style="width:23.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4-F</span></p></td></tr></tbody></table>
+4
+
+Assessôres do Diretor do DAr ...................................................................................
+
+2-F
+
+1
+
+Secretário do Diretor do DAr ......................................................................................
+
+9-F
+
+2
+
+Chefes de Divisão do DAr ..........................................................................................
+
+1-F
+
+6
+
+Chefes de Serviços do DAr ........................................................................................
+
+2-F
+
+10
+
+Delegados Regionais .................................................................................................
+
+1-F
+
+20
+
+Assessôres dos Delegados Regionais .......................................................................
+
+3-F
+
+10
+
+Secretários dos Delegados Regionais .......................................................................
+
+15-F
+
+50
+
+Chefes de Seção do DRAr .........................................................................................
+
+3-F
+
+50
+
+Chefes de Turmas das DRAr .....................................................................................
+
+6-F
+
+13
+
+Delegados Secionais .................................................................................................
+
+2-F
+
+13
+
+Assessôres dos Delegados Seccionais .....................................................................
+
+4-F
+
+13
+
+Secretário dos Delegados Seccionais .......................................................................
+
+16-F
+
+52
+
+Chefes de Seção da DSAr .........................................................................................
+
+5-F
+
+78
+
+Chefes de Turmas das DSAr .....................................................................................
+
+8-F
+
+107
+
+Chefes de Exatorias de 1ª classe ..............................................................................
+
+2-F
+
+601
+
+Chefes de Exatorias de 2ª classe ..............................................................................
+
+3-F
+
+1460
+
+Chefes de Exatorias de 3ª classe ..............................................................................
+
+4-F
+
+4
+
+Tesoureiros das Delegacias Regionais de Arrecadação (Guanabara, São Paulo, Belo Horizonte e Distrito Federal) ..............................................................................
+
+2-F
+
+6
+
+Tesoureiros Assistentes das Delegacias Regionais de Arrecadação (Guanabara, São Paulo e Belo Horizonte) ......................................................................................
+
+4-F
 
 Art. 3º São mantidas as demais funções gratificadas de Tesoureiro previstos no Decreto nº 54.006, de 3 de julho de 1964.
 
 Art. 4º Ficam extintas as seguintes funções gratificadas da Parte Permanente do Quadro de Pessoal do Ministério da Fazenda:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:15.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1</span></p></td><td style="width:385.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe do Serviço de Coletorias Federais (D.R.I) ............................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3-F</span></p></td></tr><tr><td style="width:15.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2</span></p></td><td style="width:385.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefes do Serviço Regional de Coletorias (Minas e São Paulo) ....................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3-F</span></p></td></tr><tr><td style="width:15.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1</span></p></td><td style="width:385.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe da Seção de Adminstração do Serviço de Coletorias Federais ...........................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>5-F</span></p></td></tr><tr><td style="width:15.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1</span></p></td><td style="width:385.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe da Seção de Contrôle e Estatística do S.C.F. ......................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>6-F</span></p></td></tr><tr><td style="width:15.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1</span></p></td><td style="width:385.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe da Seção de Orientação e Inspeção do S.C.F. ....................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>5-F</span></p></td></tr><tr><td style="width:15.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2</span></p></td><td style="width:385.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefes de Seção de Administração do S.R.C. (Minas e São Paulo) ..............................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>5-F</span></p></td></tr><tr><td style="width:15.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1</span></p></td><td style="width:385.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe de Seção de Contrôle e Estatística do S.R.C. (São Paulo) ..................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>5-F</span></p></td></tr><tr><td style="width:15.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1</span></p></td><td style="width:385.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe de Seção de Contrôle e Estatística do S.R.C. (Minas Gerais) .............................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>6-F</span></p></td></tr><tr><td style="width:15.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1</span></p></td><td style="width:385.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe de Seção de Orientação e Inspeção do S.R.C. ( São Paulo) ...............................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>5-F</span></p></td></tr><tr><td style="width:15.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1</span></p></td><td style="width:385.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefe de Seção de Orientação e Inspeção S.R.C. (Minas Gerais) ................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>6-F</span></p></td></tr><tr><td style="width:15.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>9</span></p></td><td style="width:385.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefes de Seção Regional de Coletorias (Estados de : Amazonas, Bahia, Ceará, Pará, Paraná, Pernambuco Rio Grande do Sul, Rio de Janeiro, Santa Catarina) ..........</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4-F</span></p></td></tr><tr><td style="width:15.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>9</span></p></td><td style="width:385.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Chefes de Seção Regional de Coletorias (Estados de: Alagoas, Espirito Santo, Goiás, Maranhão, Mato Grosso, Paraíba, Piauí, Rio Grande do Norte e Sergipe) ....................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>5-F</span></p></td></tr><tr><td style="width:15.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>18</span></p></td><td style="width:385.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Encarregado da Turma de Administração da Seção Regional de Coletorias (Estado de Alagoas, Amazonas, Bahia, Ceará, Espiríto Santo, Goiás, Maranhão, Mato Grosso, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio Grande do Norte, Rio Grande do Sul, Rio de Janeiro, Santa Catarina e Sergipe) .........................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>17-F</span></p></td></tr><tr><td style="width:15.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>9</span></p></td><td style="width:385.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Encarregado da Turma de Contrôle e Estatística da Seção Regional de Coletorias (Estados de: Amazonas, Bahia, Ceará, Pará, Paraná, Pernambuco, Rio Grande do Sul, Rio de Janeiro e Santa Catariana) ...........................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>8-F</span></p></td></tr><tr><td style="width:15.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>9</span></p></td><td style="width:385.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Encarregado da Turma de Contrôle e Estatistica da Seção Regional de Coletorias (Estados de: Alagoas, Espirito Santo, Goiás, Maranhão, Mato Grosso, Paraíba, Piauí, Rio Grande do Norte e Sergipe) .....................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>9-F</span></p></td></tr><tr><td style="width:15.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>9</span></p></td><td style="width:385.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Encarregado da Turma de Orientação e Inspeção da Seção Regional de Coletorias (Estado de: Amazonas, Bahia, Ceará, Paraná, Pernambuco, Rio Grande do Sul, Rio de Janeiro e Santa Catarina) .........................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>8-F</span></p></td></tr><tr><td style="width:15.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>9</span></p></td><td style="width:385.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Encarregado da Turma de Orientação e Inspeção da Seção Regional de Coletorias (Estado de: Alagoas, Espírito Santo, Goiás, Maranhão, Mato Grosso, Paraíba, Piauí, Rio Grande do Norte e Sergipe ........................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>9-F</span></p></td></tr><tr><td style="width:15.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>81</span></p></td><td style="width:385.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Inspetores de Coletorias .................................................................................................</span></p></td><td style="width:21.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2-F</span></p></td></tr></tbody></table>
+1
+
+Chefe do Serviço de Coletorias Federais (D.R.I) ............................................................
+
+3-F
+
+2
+
+Chefes do Serviço Regional de Coletorias (Minas e São Paulo) ....................................
+
+3-F
+
+1
+
+Chefe da Seção de Adminstração do Serviço de Coletorias Federais ...........................
+
+5-F
+
+1
+
+Chefe da Seção de Contrôle e Estatística do S.C.F. ......................................................
+
+6-F
+
+1
+
+Chefe da Seção de Orientação e Inspeção do S.C.F. ....................................................
+
+5-F
+
+2
+
+Chefes de Seção de Administração do S.R.C. (Minas e São Paulo) ..............................
+
+5-F
+
+1
+
+Chefe de Seção de Contrôle e Estatística do S.R.C. (São Paulo) ..................................
+
+5-F
+
+1
+
+Chefe de Seção de Contrôle e Estatística do S.R.C. (Minas Gerais) .............................
+
+6-F
+
+1
+
+Chefe de Seção de Orientação e Inspeção do S.R.C. ( São Paulo) ...............................
+
+5-F
+
+1
+
+Chefe de Seção de Orientação e Inspeção S.R.C. (Minas Gerais) ................................
+
+6-F
+
+9
+
+Chefes de Seção Regional de Coletorias (Estados de : Amazonas, Bahia, Ceará, Pará, Paraná, Pernambuco Rio Grande do Sul, Rio de Janeiro, Santa Catarina) ..........
+
+4-F
+
+9
+
+Chefes de Seção Regional de Coletorias (Estados de: Alagoas, Espirito Santo, Goiás, Maranhão, Mato Grosso, Paraíba, Piauí, Rio Grande do Norte e Sergipe) ....................
+
+5-F
+
+18
+
+Encarregado da Turma de Administração da Seção Regional de Coletorias (Estado de Alagoas, Amazonas, Bahia, Ceará, Espiríto Santo, Goiás, Maranhão, Mato Grosso, Pará, Paraíba, Paraná, Pernambuco, Piauí, Rio Grande do Norte, Rio Grande do Sul, Rio de Janeiro, Santa Catarina e Sergipe) .........................................................
+
+17-F
+
+9
+
+Encarregado da Turma de Contrôle e Estatística da Seção Regional de Coletorias (Estados de: Amazonas, Bahia, Ceará, Pará, Paraná, Pernambuco, Rio Grande do Sul, Rio de Janeiro e Santa Catariana) ...........................................................................
+
+8-F
+
+9
+
+Encarregado da Turma de Contrôle e Estatistica da Seção Regional de Coletorias (Estados de: Alagoas, Espirito Santo, Goiás, Maranhão, Mato Grosso, Paraíba, Piauí, Rio Grande do Norte e Sergipe) .....................................................................................
+
+9-F
+
+9
+
+Encarregado da Turma de Orientação e Inspeção da Seção Regional de Coletorias (Estado de: Amazonas, Bahia, Ceará, Paraná, Pernambuco, Rio Grande do Sul, Rio de Janeiro e Santa Catarina) .........................................................................................
+
+8-F
+
+9
+
+Encarregado da Turma de Orientação e Inspeção da Seção Regional de Coletorias (Estado de: Alagoas, Espírito Santo, Goiás, Maranhão, Mato Grosso, Paraíba, Piauí, Rio Grande do Norte e Sergipe ........................................................................................
+
+9-F
+
+81
+
+Inspetores de Coletorias .................................................................................................
+
+2-F
 
 Parágrafo único. Tôdas as funções gratificadas existentes atualmente nas Recebedorias Federais na Guanabara, São Paulo e Belo Horizonte, face o que dispõe a Lei nº 4.503, de 30 de novembro de 1964, ficam também extintas.
 

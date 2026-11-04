@@ -1,5 +1,3 @@
-###DEC-082012-0-000-20-07-1978@@@
-
 DECRETO Nº 82.012, DE 20 DE JULHO DE 1978.
 
 Retifica a concessão de lavra outorgada à Minérios Industriais do Sul S.A - MINEL pelo Decreto nº 79.617, de 28 de abril de 1977.

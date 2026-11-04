@@ -1,5 +1,3 @@
-###DEC-089607-0-000-02-05-1984@@@
-
 Decreto nº 89.607 de 02 de maio de 1984
 
 Cassa a concessão outorgada à RÁDIO SOL DE CANAVIEIRAS LTDA., para executar serviços de radiodifusão sonora em onda média, na cidade de Canavieiras, Estado da Bahia.

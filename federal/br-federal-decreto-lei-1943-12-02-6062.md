@@ -1,5 +1,3 @@
-###DEL-006062-0-000-02-12-1943@@@
-
 DECRETO‑LEI N. 6.062 – DE 2 DE DEZEMBRO DE 1943
 
 Abre ao Ministério da justiça e Negócios Interiores, o crédito especial dá Cr$ 100.000,00, para as despesas com a reunião dos Conselhos Admi­nistrativos dos Estados

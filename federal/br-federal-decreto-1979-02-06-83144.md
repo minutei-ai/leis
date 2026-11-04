@@ -1,5 +1,3 @@
-###DEC-083144-0-000-06-02-1979@@@
-
 Decreto nº 83.144, de 06 de fevereiro de 1979
 
 Altera a denominação e fixa as finalidades do Centro Médico Naval Marcílio Dias; restabelece o Hospital Naval Marcílio Dias; e dá outras providências.

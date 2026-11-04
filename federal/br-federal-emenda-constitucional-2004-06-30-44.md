@@ -1,12 +1,10 @@
-###EMC-000044-0-000-30-06-2004@@@
+**EMENDA CONSTITUCIONAL Nº 44, DE 30 DE JUNHO DE 2004**
 
-<strong>EMENDA CONSTITUCIONAL Nº 44, DE 30 DE JUNHO DE 2004</strong>
-
-<em><strong>Altera o Sistema Tributário Nacional e dá outras providências.</strong></em>
+***Altera o Sistema Tributário Nacional e dá outras providências.***
 
       As MESAS da CÂMARA DOS DEPUTADOS e do SENADO FEDERAL, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
 
-        <strong>Art</strong>. 1º O inciso III do art. 159 da Constituição passa a vigorar com a seguinte redação:
+        **Art**. 1º O inciso III do art. 159 da Constituição passa a vigorar com a seguinte redação:
 
 "Art. 159. .................................................................
 
@@ -16,68 +14,68 @@ III - do produto da arrecadação da contribuição de intervenção no domínio
 
 ................................................................. (NR)
 
-        <strong>Art</strong>. 2º Esta Emenda à Constituição entra em vigor na data de sua publicação.
+        **Art**. 2º Esta Emenda à Constituição entra em vigor na data de sua publicação.
 
-<strong>MESA DA CÂMARA DOS DEPUTADOS</strong>
+**MESA DA CÂMARA DOS DEPUTADOS**
 
-<strong>DEPUTADO JOÃO PAULO CUNHA</strong>
+**DEPUTADO JOÃO PAULO CUNHA**
 
 Presidente
 
-<strong>DEPUTADO INOCÊNCIO DE OLIVEIRA</strong>
+**DEPUTADO INOCÊNCIO DE OLIVEIRA**
 
 1º Vice-Presidente
 
-<strong>DEPUTADO LUIZ PIAUHYLINO</strong>
+**DEPUTADO LUIZ PIAUHYLINO**
 
 2º Vice-Presidente
 
-<strong>DEPUTADO LUIZ PIAUHYLINO</strong>
+**DEPUTADO LUIZ PIAUHYLINO**
 
 2º Vice-Presidente
 
-<strong>DEPUTADO GEDDEL VIEIRA LIMA</strong>
+**DEPUTADO GEDDEL VIEIRA LIMA**
 
 1º Secretário
 
-<strong>DEPUTADO SEVERINO CAVALCANTI</strong>
+**DEPUTADO SEVERINO CAVALCANTI**
 
 2º Secretário
 
-<strong>DEPUTADO NILTON CAPIXABA</strong>
+**DEPUTADO NILTON CAPIXABA**
 
 3º Secretário
 
-<strong>DEPUTADO CIRO NOGUEIRA</strong>
+**DEPUTADO CIRO NOGUEIRA**
 
 4º Secretário
 
-<strong>MESA DO SENADO FEDERAL</strong>
+**MESA DO SENADO FEDERAL**
 
-<strong>SENADOR JOSÉ SARNEY</strong>
+**SENADOR JOSÉ SARNEY**
 
 Presidente
 
-<strong>SENADOR PAULO PAIM</strong>
+**SENADOR PAULO PAIM**
 
 1º Vice-Presidente
 
-<strong>SENADOR EDUARDO SIQUEIRA CAMPOS</strong>
+**SENADOR EDUARDO SIQUEIRA CAMPOS**
 
 2º Vice-Presidente
 
-<strong>SENADOR ROMEU TUMA</strong>
+**SENADOR ROMEU TUMA**
 
 1º Secretário
 
-<strong>SENADOR ALBERTO SILVA</strong>
+**SENADOR ALBERTO SILVA**
 
 2º Secretário
 
-<strong>SENADOR HERÁCLITO FORTES</strong>
+**SENADOR HERÁCLITO FORTES**
 
 3º Secretário
 
-<strong>SENADOR SÉRGIO ZAMBIASI</strong>
+**SENADOR SÉRGIO ZAMBIASI**
 
 4º Secretário

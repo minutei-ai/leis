@@ -1,5 +1,3 @@
-###DEC-051905-0-000-19-04-1963@@@
-
 DECRETO Nº 51.905, DE 19 DE ABRIL DE 1963.
 
 Declara de utilidade pública por interêsse social, para fins de desapropriação, as Fazendas “Penha” e “Caixão”, “Capivari”, “Piranema” e “Mato Grosso”, localizadas nos 2º e 3º Distritos do Município de Duque de Caxias, no Estado do Rio de Janeiro, e dá outras providências.

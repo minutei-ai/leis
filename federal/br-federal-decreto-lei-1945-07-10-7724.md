@@ -1,5 +1,3 @@
-###DEL-007724-0-000-10-07-1945@@@
-
 DECRETO-LEI N. 7.724 – DE 10 DE JULHO DE 1945
 
 Submete ao regime De aforamento as terras devolutas dentro da faixa de sessenta e seis quilômetros ao longo das fronteiras, e dá outras providências:

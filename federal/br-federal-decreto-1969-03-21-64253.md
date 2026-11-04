@@ -1,5 +1,3 @@
-###DEC-064253-0-000-21-03-1969@@@
-
 DECRETO Nº 64.253, DE 21 DE MARçO DE 1969.
 
 Outorga à Goetten & Cia Ltda. concessão para o aproveitamento hidráulico de um trecho do rio das Pedras, no distrito de Curitibanos, município de Curitibanos, Estado de Santa Catarina.

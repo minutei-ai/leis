@@ -1,5 +1,3 @@
-###DEC-002520-0-000-19-03-1998@@@
-
 DECRETO Nº 2.520, DE 19 DE MARÇO DE 1998
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e Funções Gratificadas do Fundo Nacional do Desenvolvimento da Educação (FNDE), e dá outras providências.
@@ -146,7 +144,6 @@ II – prestar apoio financeiro e logístico aos programas educacionais definido
 
 Art. 12. À Diretoria de Ações de Assistência Educacional compete a gerência:
 
-<br>
 I – do programa de alimentação escolar, priorizando os mecanismos de descentralização da execução;
 
 II – dos programas de assistência financeira para a manutenção e melhoria de gestão das escolas públicas de educação fundamental.

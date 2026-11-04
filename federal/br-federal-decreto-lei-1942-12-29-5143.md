@@ -1,5 +1,3 @@
-###DEL-005143-0-000-29-12-1942@@@
-
 DECRETO-LEI N. 5.143 – DE 29 DE DEZEMBRO DE 1942
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 2.000.000,00 para a Coordenação da Mobilização Econômica

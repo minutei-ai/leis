@@ -1,5 +1,3 @@
-###DEC-067360-0-000-07-10-1970@@@
-
 decreto nº 67.360, de 7 de outubro de 1970.
 
 Declara caduco o Decreto nº 38.444 de 28 de dezembro de 1955.

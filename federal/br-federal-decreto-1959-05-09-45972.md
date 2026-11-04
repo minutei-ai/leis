@@ -1,5 +1,3 @@
-###DEC-045972-0-000-09-05-1959@@@
-
 DECRETO Nº 45.972, DE 9 DE MAIO DE 1959.
 
 Outorga concessão à Rádio Clube Metrópole Limitada para instalar uma estação radiodifusora.

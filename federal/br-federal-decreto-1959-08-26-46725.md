@@ -1,5 +1,3 @@
-###DEC-046725-0-000-26-08-1959@@@
-
 DECRETO Nº 46.725, DE 26 DE AGÔSTO DE 1959.
 
 Aprova alterações introduzidas nos Estatutos da “São Paulo” - Companhia Nacional de Seguros de Vida.

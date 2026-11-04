@@ -1,5 +1,3 @@
-###DEC-064214-0-000-18-03-1969@@@
-
 DECRETO Nº 64.214, DE 18 DE MARÇO DE 1969.
 
 Regulamenta dispositivos das Leis números 4.239, de 27 de junho de 1963, 4.869 de 1º de dezembro de 1965 e 5.508, de 11 de outubro de 1968 referentes aos incentivos fiscais e financeiros administrativos pela Superintendência do Desenvolvimento do Nordeste (SUDENE) e dá outras providências.
@@ -364,7 +362,41 @@ Dos Critérios de Prioridade
 
 Art. 31. Para efeito de participação dos recursos dos "artigos 34 e 18" no esquema financeiro, os projetos beneficiários serão classificadas, na forma do artigo seguinte e do parágrafo único dêste artigo, em 5 (cinco) faixas de prioridade designadas pelas letras A, B, C, D e E, observados os limites abaixo indicados:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:138.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Faixas</span></p></td><td style="width:140.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Taxa de Participação dos Recursos dos "Artigos 34 e 18"</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Quantidade de Pontos</span></p></td></tr><tr><td style="width:138.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A</span></p></td><td style="width:140.65pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">75% (setenta e cinco por cento)</span></p></td><td style="width:139.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Igual ou maior do que 50</span></p></td></tr><tr><td style="width:138.25pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B</span></p></td><td style="width:140.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60% (sessenta por cento)</span></p></td><td style="width:139.45pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Igual ou maior do que 40 e menor do que 50</span></p></td></tr><tr><td style="width:138.25pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">C</span></p></td><td style="width:140.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50% (cinqüenta por cento)</span></p></td><td style="width:139.45pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Igual ou maior do que 30 e menor do que 40</span></p></td></tr><tr><td style="width:138.25pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">D</span></p></td><td style="width:140.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">40% (quarenta por cento)</span></p></td><td style="width:139.45pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Igual ou maior do que 25 e menor do que 30</span></p></td></tr><tr><td style="width:138.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">E</span></p></td><td style="width:140.65pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30% (trinta por cento)</span></p></td><td style="width:139.45pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Menor do que 25</span></p></td></tr></tbody></table>
+Faixas
+
+Taxa de Participação dos Recursos dos "Artigos 34 e 18"
+
+Quantidade de Pontos
+
+A
+
+75% (setenta e cinco por cento)
+
+Igual ou maior do que 50
+
+B
+
+60% (sessenta por cento)
+
+Igual ou maior do que 40 e menor do que 50
+
+C
+
+50% (cinqüenta por cento)
+
+Igual ou maior do que 30 e menor do que 40
+
+D
+
+40% (quarenta por cento)
+
+Igual ou maior do que 25 e menor do que 30
+
+E
+
+30% (trinta por cento)
+
+Menor do que 25
 
 Parágrafo único. A taxa de participação indicada para cada faixa será calculada sôbre o montante das inversões totais, inclusive capital de trabalho, deduzidos os financiamentos concedidos ao projeto por outras fontes de crédito.
 
@@ -412,7 +444,11 @@ i) Projetos que ensejem a tôda a mão-de-obra ocupada participação no resulta
 
 j) Projetos que propiciem absorção intensiva da mão-de-obra, sem prejuízo da tecnologia adequada, assim definidos levando-se em consideração (a) o número absoluto de empregos diretos criados e (b) a densidade de capital, expressa em têrmos do maior salário-mínimo vigente no país, observada para o cálculo dos pontos de classificação, em cada caso, a expressão abaixo, até o limite de .................................................................................................25
 
-<table cellspacing="0" cellpadding="0" style="margin-left:113.4pt; border-collapse:collapse"><tbody><tr><td style="width:42.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">1.250</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0,025 E</span></p></td></tr><tr><td style="width:42.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">D</span><span style="font-family:Arial; font-size:0.67em; vertical-align:sub">s</span></p></td><td style="width:35.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+1.250
+
+0,025 E
+
+Ds
 
 Onde
 

@@ -1,7 +1,3 @@
-1
-
-###MPV-000922-0-000-24-02-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 922, DE 24 DE FEVEREIRO DE 1995
 
 Cria Gratificação Temporária devida a integrantes da Carreira Policial Federal, e dá outras providências.

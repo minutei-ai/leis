@@ -1,5 +1,3 @@
-###DEC-006290-0-000-06-12-2007@@@
-
 DECRETO Nº 6.290, DE 6 DE DEZEMBRO DE 2007.
 
 Institui o Plano de Desenvolvimento Regional Sustentável para a Área de Influência da Rodovia BR-163 no Trecho Cuiabá/MT - Santarém/PA - Plano BR-163 Sustentável, e dá outras providências.
@@ -141,5 +139,3 @@ LUIZ INÁCIO LULA DA SILVA
 Marina Silva
 
 Geddel Vieira Lima
-
-Este texto não substitui o publicado no DOU de 7.12.2007

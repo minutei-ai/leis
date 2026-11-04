@@ -1,5 +1,3 @@
-###DEC-046827-0-000-15-09-1959@@@
-
 DECRETO Nº 46.827, DE 15 DE setembro DE 1959.
 
 Autoriza o cidadão brasileiro Mário Pugliese a pesquisar caulim no munuicípio de Itapecerica da Serra, Estado de São Paulo.

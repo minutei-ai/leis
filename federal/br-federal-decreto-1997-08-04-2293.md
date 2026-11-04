@@ -1,5 +1,3 @@
-###DEC-002293-0-000-04-08-1997@@@
-
 DECRETO Nº 2.293, DE 4 DE AGOSTO DE 1997
 
 Dá nova redação ao art. 1º do Decreto nº 1.500, de 24 de maio de 1995, que cria a Comissão Especial de Anistia, no âmbito do Ministério do Trabalho, e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=76501)
-
 # LEI COMPLEMENTAR Nº 1.038, DE 06 DE MARÇO DE 2008
 
 ### _Cria a Secretaria de Estado dos Direitos da Pessoa com Deficiência_

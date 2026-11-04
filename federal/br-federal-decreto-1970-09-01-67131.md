@@ -1,5 +1,3 @@
-###DEC-067131-0-000-01-09-1970@@@
-
 decreto n° 67.131, de 1 de setembro 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério das Minas e Energia, cargos originários do Ministério da Educação e Cultura e do Ministério do Trabalho e Previdência Social

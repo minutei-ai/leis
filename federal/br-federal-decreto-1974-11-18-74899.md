@@ -1,5 +1,3 @@
-###DEC-074899-0-000-18-11-1974@@@
-
 Decreto nº 74.899, de 18 de novembro de 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão das Centrais Elétricas de Goiás S.A., Estado de Goiás.

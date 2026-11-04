@@ -1,7 +1,3 @@
-1
-
-###DEC-000632-0-000-18-08-1992@@@
-
 DECRETO N° 632, DE 18 DE AGOSTO DE 1992
 
 Altera as alíquotas do Imposto sobre Produtos Industrializados incidente sobre os produtos que especifica.

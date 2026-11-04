@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/e4f522da-2c09-4c26-870d-46ee0dee8c97/texto#nowhere)
 
-###DEL-001882-0-000-01-09-1981@@@
-
 # decreto-lei nº 1.882, de 01 de setembro de 1981.
 
 Altera disposições da Lei nº 5.787, de 27 de junho de 1972, modificada pelos Decretos-leis nºs 1.824, de 22 de dezembro de 1980, e 1.848, de 6 de janeiro de 1981.

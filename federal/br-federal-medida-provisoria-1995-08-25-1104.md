@@ -1,7 +1,3 @@
-1
-
-###MPV-001104-0-000-25-08-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.104, DE 25 DE AGOSTO DE 1995.
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

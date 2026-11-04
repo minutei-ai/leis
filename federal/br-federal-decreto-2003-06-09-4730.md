@@ -1,5 +1,3 @@
-###DEC-004730-0-000-09-06-2003@@@
-
 DECRETO Nº 4.730, DE 9 DE JUNHO DE 2003.
 
        Declara a caducidade da permissão outorgada à empresa Silnave Navegação S.A. para a prestação de serviços públicos de movimentação e armazenagem de mercadorias na Estação Aduaneira Interior - EADI, na cidade de Santana, Estado do Amapá.

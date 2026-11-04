@@ -1,5 +1,3 @@
-###DEC-047272-0-000-20-11-1959@@@
-
 DECRETO Nº 47.272, DE 20 DE NOVEMBRO DE 1959.
 
 Autoriza a Companhia Agrícola Industrial Luiz Corrêa a construir uma linha de transmissão de energia elétrica, no município de Bom Jardim, Estado do Rio de Janeiro.

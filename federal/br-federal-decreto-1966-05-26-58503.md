@@ -1,5 +1,3 @@
-###DEC-058503-0-000-26-05-1966@@@
-
 Decreto nº 58.503, de 26 de maio de 1966.
 
 Concede à sociedade anônima Pfizer Corporation do Brasil autorização para continuar a funcionar na República dos Estados Unidos do Brasil.

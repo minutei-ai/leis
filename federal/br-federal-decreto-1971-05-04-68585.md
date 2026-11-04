@@ -1,5 +1,3 @@
-###DEC-068585-0-000-04-05-1971@@@
-
 Decreto Nº 68.585 - DE 4 DE MAIO DE 1971.
 
 Redistribui cargo, com o respectivo ocupante, para o Quadro de Pessoal do Ministério do Trabalho e Previdência Social, e dá outras providências.

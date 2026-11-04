@@ -1,5 +1,3 @@
-###DEL-000681-0-000-15-07-1969@@@
-
 DECRETO-LEI Nº 681, DE 15 DE JULHO DE 1969
 
 Aprova o Acôrdo Geral de Cooperação sôbre Ciências e Tecnologia concluído com a República Federal da Alemanha, assinado em Bonn, em 9 de junho de 1969.

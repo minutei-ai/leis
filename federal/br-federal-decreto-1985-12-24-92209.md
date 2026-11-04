@@ -1,5 +1,3 @@
-###DEC-092209-0-000-24-12-1985@@@
-
 Decreto nº 92.209, de 24 de dezembro de 1985.
 
 Promulga o Tratado de Amizade e Cooperação entre a República Federativa do Brasil e a República Cooperativista da Guiana.
@@ -98,4 +96,20 @@ EM TESTEMUNHO do quê, os abaixo-assinados, estando devidamente autorizados a ta
 
 Feito em Brasília, aos 05 dias do mês de outubro de 1982, em dois originais nos idiomas português e inglês, ambos os textos sendo igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:207.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA FEDERATIVA:</span></p></td><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA COOPERATIVISTA DA GUIANA:</span></p></td></tr><tr><td style="width:207.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Ramiro Saraiva Guerreiro</span></p></td><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Rashleigh Esmond Jackson</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:207.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA:
+
+</td><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA COOPERATIVISTA DA GUIANA:
+
+</td></tr><tr><td style="width:207.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Ramiro Saraiva Guerreiro
+
+</td><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Rashleigh Esmond Jackson
+
+</td></tr></tbody></table>

@@ -1,7 +1,3 @@
-1
-
-###DEC-095712-0-000-10-02-1988@@@
-
 DECRETO Nº 95.712, DE 10 DE FEVEREIRO DE 1988
 
 Dispõe sobre a execução do Primeiro Protocolo Adicional ao Acordo Comercial nº 17-A, do Setor da Indústria de Refrigeração e Ar Condicionado, entre o Brasil e a Argentina.

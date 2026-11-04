@@ -1,5 +1,3 @@
-###DEC-068275-0-000-19-02-1971@@@
-
 DECRETO Nº 68.275, de 19 de Fevereiro de 1971.
 
 Reorganiza o Departamento de Engenharia e Comunicação do Ministério do Exército e dá outras providencias.

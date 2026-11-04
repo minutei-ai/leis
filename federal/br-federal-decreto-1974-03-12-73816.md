@@ -1,5 +1,3 @@
-###DEC-073816-0-000-12-03-1974@@@
-
 DECRETO nº 73.816, de 12 de março de 1974.
 
 Autoriza o funcionamento do curso de Estudos Sociais do Centro de Ensino Superior de São Carlos, sito na cidade de São Carlos, mantido pela Associação Brasileira de Educadores Lassalistas - ABEL, com sede na cidade de São Paulo, Estado de São Paulo.

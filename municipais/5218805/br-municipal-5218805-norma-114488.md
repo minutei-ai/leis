@@ -16,11 +16,14 @@ Art. 2º Revogadas disposições em contrário, esta Lei entrará em vigor na da
 
 Gabinete do Prefeito de Rio Verde, aos 15 de agosto de 2006.
 
-PAULO ROBERTO CUNHA<br>
+PAULO ROBERTO CUNHA
+
 Prefeito de Rio Verde
 
-ARIOVALDO LOPES MACHADOS<br>
+ARIOVALDO LOPES MACHADOS
+
 Procurador-Geral
 
-LÉLIO VIEIRA GUIMARÃES<br>
+LÉLIO VIEIRA GUIMARÃES
+
 Secretário de Obras

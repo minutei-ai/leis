@@ -1,5 +1,3 @@
-###DEC-083155-0-000-12-02-1979@@@
-
 DECRETO Nº 83.155, DE 12 DE FEVEREIRO DE 1979
 
 Concede reconhecimento ao curso de Engenharia de Operação Mecânica da Escola Naval, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

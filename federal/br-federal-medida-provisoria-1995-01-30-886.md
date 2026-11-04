@@ -1,5 +1,3 @@
-###MPV-000886-0-000-30-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 886, DE 30 DE JANEIRO 1995
 
 Dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

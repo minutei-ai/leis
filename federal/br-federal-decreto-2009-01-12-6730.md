@@ -1,5 +1,3 @@
-###DEC-006730-0-000-12-01-2009@@@
-
 DECRETO Nº 6.730, DE 12 DE JANEIRO DE 2009.
 
 Dispõe sobre a execução do Quarto Protocolo Adicional ao Acordo de Alcance Parcial nº 38, entre os Governos da República Federativa do Brasil e da República Cooperativista da Guiana, de 26 de agosto de 2008.

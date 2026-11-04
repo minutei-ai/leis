@@ -1,5 +1,3 @@
-###DEC-006155-0-000-11-07-2007@@@
-
 DECRETO Nº 6.155, DE 11 DE JULHO DE 2007.
 
 Dá nova redação aos arts. 13 e 16 do Plano Geral de Metas para a Universalização do Serviço Telefônico Fixo Comutado Prestado no Regime Público - PGMU, aprovado pelo Decreto no 4.769, de 27 de junho de 2003.
@@ -57,5 +55,3 @@ Brasília, 11 de julho de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Hélio Costa
-
-Este texto não substitui o publicado no DOU de 12.7.2007

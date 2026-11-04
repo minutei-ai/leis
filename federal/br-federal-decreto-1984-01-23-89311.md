@@ -1,5 +1,3 @@
-###DEC-089311-0-000-23-01-1984@@@
-
 DECRETO Nº 89.311 DE 23 DE JANEIRO DE 1984
 
 Revoga os Decretos nºs 73.079, de 5 de novembro de 1973, e 75.369, de 13 de fevereiro de 1975.

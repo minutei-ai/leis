@@ -1,5 +1,3 @@
-###DEL-005979-0-000-10-11-1943@@@
-
 DECRETO‑LEI N. 5.979 – DE 10 DE NOVEMBRO DE 1943
 
 Institue o salário de compensação e dá outras providências

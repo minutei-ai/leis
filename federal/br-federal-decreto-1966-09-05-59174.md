@@ -1,5 +1,3 @@
-###DEC-059174-0-000-05-09-1966@@@
-
 decreto nº 59.174, de 5 de setembro de 1966.
 
 Concede à The Northern Assurance Company Limited autorização para aumentar o capital destinado as suas operações de seguros no Brasil.

@@ -1,5 +1,3 @@
-###DEC-081314-0-000-08-02-1978@@@
-
 decreto nº 81.314, de 08 de fevereiro de 1978.
 
 Declara de utilidade pública, para fins de desapropriação, o domínio útil de terreno com benfeitoria situado na cidade de Rio Branco, Estado do Acre, destinado à Junta de Conciliação e Julgamento de Rio Branco.

@@ -1,5 +1,3 @@
-###DEC-051142-0-000-04-08-1961@@@
-
 DECRETO Nº 51.142, DE 4 DE AGÔSTO DE1961.
 
 Dispõe sôbre o Quadro de Pessoal do Conselho Superior e das Caixas Econômicas Federais e dá outras providências.

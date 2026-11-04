@@ -1,5 +1,3 @@
-###DEC-049884-0-000-12-01-1961@@@
-
 DECRETO Nº 49.884, DE 12 DE JANEIRO 1961.
 
 Dispõe sôbre funções de extranumerário-mensalista para o enquadramento do pessoal da Superintendência e Emprêsas Incorporadas ao Patrimônio Nacional por fôrça do artigo 1º da Lei nº 2.904, de 8 de outubro de 1956, combinado com o artigo 6º § 2º, da Lei nº 2.193, de 9 de março de 1954, e dá outras providências.

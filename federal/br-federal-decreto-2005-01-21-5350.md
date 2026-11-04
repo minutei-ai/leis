@@ -1,5 +1,3 @@
-###DEC-005350-0-000-21-01-2005@@@
-
 DECRETO Nº 5.350 DE 21 DE JANEIRO DE 2005
 
 Dispõe sobre o remanejamento de cargos em comissão do Grupo-Direção e Assessoramento Superiores \- DAS que menciona, e dá outras providências.

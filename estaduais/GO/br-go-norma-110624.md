@@ -2690,20 +2690,24 @@ VI – monitorar e avaliar o desempenho dos projetos coordenados ou acompanhados
 
 VII – coordenar o processo de implementação e desenvolvimento da governança institucional;
 
-~~VIII – promover o processo de prestação de contas integradas, em conformidade com as diretrizes dos órgãos de controle;~~<br>
+~~VIII – promover o processo de prestação de contas integradas, em conformidade com as diretrizes dos órgãos de controle;~~
+
 \- [Revogado pelo Decreto nº 10.914, de 21-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114773), art. 2º.
 
-IX - manter o Gabinete do Secretário informado sobre as ações e os serviços desenvolvidos pela própria superintendência, com dados, relatórios, despachos, periódicos e outras formas de comunicação;<br>
+IX - manter o Gabinete do Secretário informado sobre as ações e os serviços desenvolvidos pela própria superintendência, com dados, relatórios, despachos, periódicos e outras formas de comunicação;
+
 \- [Redação dada pelo Decreto nº 10.914, de 21-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114773).
 
 ~~IX – manter o Gabinete do Secretário informado sobre as ações e os serviços desenvolvidos pela própria superintendência, com dados, relatórios, despachos, periódicos e outras formas de comunicação; e~~
 
-X - monitorar o ciclo de captação de recursos da pasta; e<br>
+X - monitorar o ciclo de captação de recursos da pasta; e
+
 \- [Redação dada pelo Decreto nº 10.914, de 21-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114773).
 
 ~~X – encarregar-se de competências correlatas.~~
 
-XI - encarregar-se de competências correlatas.<br>
+XI - encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.914, de 21-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114773).
 
 Parágrafo único. Além das competências constantes do _caput_, a Superintendência de Planejamento organiza, coordena e supervisiona tecnicamente as seguintes unidades:

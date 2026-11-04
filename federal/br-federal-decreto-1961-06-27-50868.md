@@ -1,5 +1,3 @@
-###DEC-050868-0-000-27-06-1961@@@
-
 Decreto nº 50.868, de 27 de junho de 1961.
 
 Concede reconhecimento a curso

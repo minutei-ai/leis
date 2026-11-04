@@ -1,5 +1,3 @@
-###DEC-048398-0-000-23-06-1960@@@
-
 decreto nº 48.398, de 23 de junho de 1960.
 
 Autoriza a emprêsa de mineração Koche & Floriani a pesquisar minérios de ferro e manganês, no município de Lages, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-079147-0-000-18-01-1977@@@
-
 DECRETO Nº 79.147, DE 18 DE JANEIRO DE 1977.
 
 Concede reconhecimento aos cursos de Educação Artística, de Ciências e de Estudos Sociais, da Faculdade de Filosofia, Ciências e Letras Nossa Senhora do Patrocínio, com sede na cidade de Itu, Estado de São Paulo.

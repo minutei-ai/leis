@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211789)<br>
-
 # DECRETO N° 70.067, DE 07 DE NOVEMBRO DE 2025
 
 ### _Autoriza a outorga de uso de parte do imóvel que especifica ao Município de Franco da Rocha e dá providências correlatas._

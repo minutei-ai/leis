@@ -1,5 +1,3 @@
-###DEC-086859-0-000-19-01-1982@@@
-
 Decreto nº 86.859, de 19 de janeiro de 1982
 
 Altera o Decreto nº 84.398, de 16 de janeiro de 1980, que dispõe sobre a ocupação de faixas de domínio de vias de transporte e de terrenos de domínio público e a travessia de vias de transporte, por linhas de transmissão, subtransmissão e distribuição de energia elétrica.

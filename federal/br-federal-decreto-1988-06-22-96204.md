@@ -1,5 +1,3 @@
-###DEC-096204-0-000-22-06-1988@@@
-
 DECRETO Nº 96.204, DE 22 DE JUNHO DE 1988
 
 Outorga concessão à RÁDIO EDUCADORA DE FREI PAULO LTDA., para explorar serviço de radiodifusão sonora, em onda média, na Cidade de Frei Paulo, Estado de Sergipe.

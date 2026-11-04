@@ -1,5 +1,3 @@
-###DEL-005361-0-000-30-03-1943@@@
-
 DECRETO‑LEI N. 5.361 – DE 30 DE MARÇO DE 1943
 
 Cria duas inspetorias regionais de fomento da produção animal, e dá outras providências

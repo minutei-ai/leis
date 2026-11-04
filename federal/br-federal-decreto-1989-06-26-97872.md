@@ -1,7 +1,3 @@
-1
-
-###DEC-097872-0-000-26-06-1989@@@
-
 DECRETO Nº 97.872, DE 26 DE JUNHO DE 1989
 
 Altera o art. 5º, I a VI, do Decreto nº 86.763, de 22 de dezembro de 1981, que regula os valores das indenizações devidas aos militares das Forças Armadas, e dá outras providências.

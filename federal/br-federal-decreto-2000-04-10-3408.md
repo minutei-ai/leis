@@ -1,5 +1,3 @@
-###DEC-003408-0-000-10-04-2000@@@
-
 DECRETO Nº 3.408, DE 10 DE ABRIL DE 2000.
 
 Regulamenta o art. 5º da Lei nº 9.960, de 28 de janeiro de 2000, que dispõe sobre a forma de arrecadação dos recursos provenientes da Taxa de Serviços Administrativos - TSA.

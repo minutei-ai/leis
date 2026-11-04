@@ -1,5 +1,3 @@
-###DEC-050945-0-000-13-07-1961@@@
-
 DECRETO Nº 50.945, DE 13 DE JULHO DE 1961.
 
 Permite aos portadores de curso colegial matrícula na 3ª série dos cursos industriais técnicos.

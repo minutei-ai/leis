@@ -1,7 +1,3 @@
-1
-
-###DEC-000785-0-000-27-03-1993@@@
-
 # DECRETO N° 785, DE 27 DE MARÇO DE 1993
 
 Dispõe sobre a publicidade da Administração Pública Federal, direta e indireta, das sociedades controladas pela União, institui o Sistema Integrado de Comunicação Social e dá outras providências.

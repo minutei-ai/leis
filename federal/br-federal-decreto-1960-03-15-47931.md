@@ -1,5 +1,3 @@
-###DEC-047931-0-000-15-03-1960@@@
-
 DECRETO Nº 47.931, DE 15 DE MARÇO DE 1.960.
 
 Inclui funções gratificadas no Quadro Permanente do Ministério da Educação e Cultura, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-009442-0-000-10-07-1946@@@
-
 DECRETO-LEI N. 9.442 – DE 10 DE JULHO DE 1946
 
 Altera a redação do art. 161 do Decreto-lei nº 1.187, de 4 de Abril de 1946

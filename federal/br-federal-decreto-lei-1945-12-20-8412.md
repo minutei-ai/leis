@@ -1,5 +1,3 @@
-###DEL-008412-0-000-20-12-1945@@@
-
 DECRETO-LEI N. 8.412 – DE 20 DE DEZEMBRO DE 1945
 
 Cria função gratificada no Quadro Permanente do Ministério do Trabalho, Indústria e Comércio e dá outras providências.

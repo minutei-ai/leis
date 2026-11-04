@@ -1,5 +1,3 @@
-###DEC-052892-0-000-21-11-1963@@@
-
 Decreto nº 52.892, de 21 de novembro de 1963.
 
 Concede nacionalização à Pepsi-Cola do Brasil S.A., sob nova forma social de Pepsi-Cola Refrigerantes Limitada.

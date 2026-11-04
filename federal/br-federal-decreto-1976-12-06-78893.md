@@ -1,5 +1,3 @@
-###DEC-078893-0-000-06-12-1976@@@
-
 DECRETO Nº 78.893, DE 6 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Pedagogia e de Letras, da Faculdade de Educação, Ciências e Letras Grande Rio, Granrio com sede na cidade de Duque de Caxias, Estado do Rio de Janeiro.

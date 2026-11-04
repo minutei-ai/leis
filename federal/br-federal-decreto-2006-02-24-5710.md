@@ -1,5 +1,3 @@
-###DEC-005710-0-000-24-02-2006@@@
-
 DECRETO Nº 5.710, DE 24 DE FEVEREIRO DE 2006.
 
        Altera o Decreto no 3.893, de 22 de agosto de 2001, que dispõe sobre a concessão de incentivo fiscal para o desenvolvimento regional, nos termos do art. 11 da Lei no 9.440, de 14 de março de 1997.
@@ -23,5 +21,3 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 LUIZ INÁCIO LULA DA SILVA
 
      Antonio Palocci Filho
-
-Este texto não substitui o publicado no DOU de 1º.3.2006

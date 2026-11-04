@@ -2,7 +2,8 @@ Decreto Numerado n° 9.756 / 2020
 
 ![](/assets/brasao_goias.gif)
 
-**GOVERNO DO ESTADO DE GOIÁS**<br>
+**GOVERNO DO ESTADO DE GOIÁS**
+
 **Secretaria de Estado da Casa Civil**
 
 **DECRETO Nº 9.756, DE 30 DE NOVEMBRO DE 2020**

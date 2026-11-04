@@ -1,5 +1,3 @@
-###DEC-066734-0-000-17-06-1970@@@
-
 DECRETO Nº 66.734, DE 17 DE JUNHO DE 1970.
 
 Autoriza a cessão, sob a forma de utilização gratuita, de terreno situado no Território Federal do Amapá.
@@ -21,8 +19,6 @@ EMÍLIO G. MÉDICI
 Antônio Delfim Netto
 
 Júlio Barata
-
-###DEC-066734-0-000-17-06-1970@@@RET01+++
 
 DECRETO Nº 66.734, DE 17 DE JUNHO DE 1970.
 

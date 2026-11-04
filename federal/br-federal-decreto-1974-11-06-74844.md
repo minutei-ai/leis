@@ -1,5 +1,3 @@
-###DEC-074844-0-000-06-11-1974@@@
-
 DECRETO Nº 74.844, DE 6 DE NOVEMBRO DE 1974.
 
 Autoriza o funcionamento do curso de Medicina da Faculdade de Medicina do Norte de Minas, mantida pela Fundação Norte Mineira de Ensino Superiores, com sede na Cidade de Montes Claros, Estado de Minas Gerais.

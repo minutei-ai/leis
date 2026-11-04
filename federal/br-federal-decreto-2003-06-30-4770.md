@@ -1,5 +1,3 @@
-###DEC-004770-0-000-30-06-2003@@@
-
 DECRETO Nº 4.770, DE 30 DE JUNHO DE 2003.
 
        Prorroga, em caráter excepcional, o prazo de duração do remanejamento dos cargos que menciona, e dá outras providências.
@@ -24,7 +22,8 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
         Brasília, 30 de junho de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
  
 
 Guido Mantega

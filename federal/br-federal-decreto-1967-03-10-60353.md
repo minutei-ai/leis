@@ -1,5 +1,3 @@
-###DEC-060353-0-000-10-03-1967@@@
-
 Decreto nº 60.353, de 10 de março de 1967.
 
 Aprova a alteração introduzida nos Estatutos da Companhia de Seguros Marítimos e Terrestres Pelotense, relativa ao aumento do capital social.

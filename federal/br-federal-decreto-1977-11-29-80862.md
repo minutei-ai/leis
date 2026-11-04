@@ -1,5 +1,3 @@
-###DEC-080862-0-000-29-11-1977@@@
-
 DECRETO Nº 80.862, DE 29 DE NOVEMBRO DE 1977.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Macau, Estado do Rio Grande do Norte.

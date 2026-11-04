@@ -1,5 +1,3 @@
-###MPV-000032-0-000-18-02-2002@@@
-
 MEDIDA PROVISÓRIA No 32, DE 18 DE FEVEREIRO 2002.
 
 Prorroga a autorização de que trata a Lei no 10.309, de 22 de novembro de 2001, que dispõe sobre a assunção pela União de responsabilidades civis perante terceiros no caso de atentados terroristas ou atos de guerra contra aeronaves de empresas aéreas brasileiras.

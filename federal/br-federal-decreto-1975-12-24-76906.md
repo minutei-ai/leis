@@ -1,5 +1,3 @@
-###DEC-076906-0-000-24-12-1975@@@
-
 DECRTO nº 76.906, de 24 de dezembro dE 1975.
 
 Promulga a convenção sobe Proteção de produtores de Fonogramas contra a Reprodução não Autorizada de seus Fonogramas.

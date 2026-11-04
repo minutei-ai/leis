@@ -1,5 +1,3 @@
-###DEC-048516-0-000-13-07-1960@@@
-
 DECRETO Nº 48.516, DE 13 DE JULHO DE 1960.
 
 Amplia o prazo de opção fixado pelos arts. 15, 20 e 27 do Decreto número 47.709 de 27 de janeiro de 1960, que regulamentou a Lei nº 3.654, de 4 de novembro de 1959.

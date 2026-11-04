@@ -1,5 +1,3 @@
-###DEC-044976-0-000-02-12-1958@@@
-
 Decreto nº 44.976, de 02 de dezembro de 1958.
 
 Autoriza o cidadão brasileiro Paulo Nilo de Medeiros Dourado a pesquisar feldspato no município de Maricá, Estado do Rio de Janeiro.

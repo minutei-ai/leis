@@ -1,5 +1,3 @@
-###DEC-056803-0-000-27-08-1965@@@
-
 DECRETO Nº 56.803, DE 27 DE AGôSTO DE 1965.
 
 Atualiza, de conformidade com o dispositivo no artigo 9º da Lei número 4.357, de 16.7.64, as multas previstas no artigo 13 do Decreto-lei número 3.100, de 7 de março de 1941, aplicáveis pela Comissão de Marinha Mercante.

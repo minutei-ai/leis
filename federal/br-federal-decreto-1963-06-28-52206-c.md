@@ -1,5 +1,3 @@
-###DEC-052206-C-000-28-06-1963@@@
-
 DECRETO Nº 52.206-C, DE 28 DE JUNHO DE 1963.
 
 Abre ao Poder Judiciário - Justiça do Trabalho da 4ª Região, o crédito especial de Cr$1.996.800,00, para o fim que especifica.

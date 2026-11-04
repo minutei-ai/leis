@@ -1,5 +1,3 @@
-###DEL-001099-0-000-25-03-1970@@@
-
 # DeCRETO-LEI Nº 1.099, DE 25 DE março DE 1970
 
 Dispõe sôbre a retribuição de servidores do Ministério da Fazenda e dá outras providências.

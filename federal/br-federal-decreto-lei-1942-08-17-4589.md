@@ -1,5 +1,3 @@
-###DEL-004589-0-000-17-08-1942@@@
-
 DECRETO-LEI N. 4.589 – DE 17 DE AGOSTO DE 1942
 
 Modifica a redação de uma rubrica, do Anexo 15 – Ministério da Educação e Saúde – do Orçamento em vigor

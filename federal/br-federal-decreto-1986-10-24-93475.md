@@ -1,5 +1,3 @@
-###DEC-093475-0-000-24-10-1986@@@
-
 DECRETO Nº 93.475, DE 24 DE OUTUBRO DE 1986.
 
 Aprova o Regulamento Geral dos Serviços de Praticagem.

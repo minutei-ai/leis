@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=58190)
-
 # LEI Nº 12.071, DE 04 DE OUTUBRO DE 2005
 
 ## (PL 467/2003 - Marcelo Bueno)

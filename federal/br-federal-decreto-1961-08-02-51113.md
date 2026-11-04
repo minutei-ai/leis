@@ -1,5 +1,3 @@
-###DEC-051113-0-000-02-08-1961@@@
-
 DECRETO Nº 51.113, DE 2 DE AGÔSTO DE 1961.
 
 Retifica o Decreto nº 48.133, de 20 de abril de 1960.

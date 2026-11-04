@@ -1,5 +1,3 @@
-###DEC-049424-0-000-03-12-1960@@@
-
 DECRETO Nº 49.424, DE 3 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Alcides Alves da Cunha a pesquisar minério de ferro e manganês no município de Mateus Leme, Estado de Minas Gerais.

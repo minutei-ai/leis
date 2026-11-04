@@ -1,5 +1,3 @@
-###DEC-078600-0-000-21-10-1976@@@
-
 DECRETO Nº 78.600, DE 21 DE OUTUBRO DE 1976.
 
 Autoriza a permuta do domínio útil do terreno que menciona, situado em Florianópolis, Estado de Santa Catarina.

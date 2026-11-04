@@ -1,5 +1,3 @@
-###DEC-061380-0-000-18-09-1967@@@
-
 DECRETO Nº 61.380, DE 18 DE SETEMBRO DE 1967.
 
 Autoriza o funcionamento da Faculdade de Medicina de Campos, da Fundação Benedito Pereira Nunes.

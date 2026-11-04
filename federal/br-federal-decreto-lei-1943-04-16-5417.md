@@ -1,5 +1,3 @@
-###DEL-005417-0-000-16-04-1943@@@
-
 DECRETO‑LEI N. 5.417 – DE 16 DE ABRIL DE 1943
 
 Dispõe sobre classificação de águas públicas em conformidade com o disposto no art. 5º, §§ 1º e 2º, do decreto‑lei n. 2.281, de 5 de junho de 1940

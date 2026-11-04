@@ -1,5 +1,3 @@
-###DEC-070689-0-000-08-06-1972@@@
-
 DECRETA Nº 70.689, DE 8 DE JUNHO DE 1972.
 
 Autoriza a cessão de estabelecimentos de ensino agrícola, da rede federal, a Governos Estaduais.

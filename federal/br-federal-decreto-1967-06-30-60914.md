@@ -1,5 +1,3 @@
-###DEC-060914-0-000-30-06-1967@@@
-
 Decreto Nº 60.914, DE 30 DE JUNHO DE 1967.
 
 Declara de utilidade pública a “Associação União Beneficente das Irmãs de São Vicente de Paulo de Gyzegem” com sede em São Paulo, Estado de São Paulo.

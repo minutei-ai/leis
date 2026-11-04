@@ -1,5 +1,3 @@
-###DEL-005457-0-000-03-05-1943@@@
-
 DECRETO‑LEI N. 5.457 – DE 3 DE MAIO DE 1943
 
 Conta antiguidade de posto

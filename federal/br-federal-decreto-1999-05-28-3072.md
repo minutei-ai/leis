@@ -1,5 +1,3 @@
-###DEC-003072-0-000-28-05-1999@@@
-
 DECRETO Nº 3.072, DE 28 DE MAIO DE 1999.
 
 Prorroga o prazo de remanejamento dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras Providências.

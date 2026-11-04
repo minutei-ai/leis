@@ -1,7 +1,3 @@
-1
-
-###MPV-001229-0-000-14-12-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.229, DE 14 DE DEZEMBRO DE 1995.
 
 Dá nova redação ao art. 2º da Lei nº 8.844, de 20 de janeiro de 1994.

@@ -1,5 +1,3 @@
-###DEC-059766-0-000-16-12-1966@@@
-
 DECRETO Nº 59.766, DE 16 DE DEZEMBRO DE 1966.
 
 Declara públicas, de uso comum, as águas do curso que especifica.

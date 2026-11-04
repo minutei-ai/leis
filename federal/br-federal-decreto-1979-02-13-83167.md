@@ -1,5 +1,3 @@
-###DEC-083167-0-000-13-02-1979@@@
-
 DECRETO Nº 83.167, DE 13 DE FEVEREIRO DE 1979
 
 Declara sem efeito o Decreto nº 24.462, de 04 de fevereiro de 1948, que autorizou o cidadão brasileiro João Paulo de Luca a lavrar jazida de carvão mineral no Município de Criciúma, Estado de Santa Catarina.

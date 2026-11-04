@@ -1,5 +1,3 @@
-###DEL-007808-0-000-01-08-1945@@@
-
 DECRETO-LEI N. 7.808 – DE 1 DE AGÔSTO DE 1945
 
 Suprime cargos do Ministério da Educação e Saúde e dá outras providências.

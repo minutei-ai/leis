@@ -6,15 +6,9 @@ O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sa
 
 Art. 1º - Fica o Executivo autorizado a instituir o Portal de Transparência da Matrícula Escolar Municipal, a ser disponibilizado em _site_ oficial da Prefeitura de Belo Horizonte - PBH, com a finalidade de ampliar o acesso público e simplificado às informações relativas à oferta de vagas e ao processo de matrícula na Rede Municipal de Educação - RME.
 
-<br>
-
 § 1º - O Executivo poderá definir a forma de criação, regulamentação e gestão do portal de que trata esta lei.
 
-<br>
-
 § 2º - A disponibilização das informações no portal de que trata esta lei observará as disposições da Lei Federal nº 13.709, de 14 de agosto de 2018, assegurando a proteção dos dados pessoais do estudante e de seu responsável.
-
-<br>
 
 Art. 2º - O portal de que trata esta lei poderá conter, entre outras, as seguintes informações:
 
@@ -36,19 +30,11 @@ V - histórico de eventuais alterações no processo de matrícula ou no número
 
 VI - seção de Perguntas Frequentes - FAQ - sobre o processo de matrícula.
 
-<br>
-
 Art. 3º - As informações disponibilizadas no portal de que trata esta lei poderão ser atualizadas com a frequência necessária para retratar de forma precisa a situação real da oferta de vagas e da lista de espera, promovendo a transparência e a previsibilidade no processo de matrícula escolar.
-
-<br>
 
 Art. 4º - O acesso ao portal de que trata esta lei deverá ser público e gratuito, com navegação responsiva e simplificada, podendo ser compatível com dispositivos móveis.
 
-<br>
-
 Art. 5º - A implementação do portal de que trata esta lei observará a conveniência e a oportunidade do Executivo, bem como os princípios da razoabilidade, economicidade e eficiência, respeitados os limites orçamentários e financeiros do Município.
-
-<br>
 
 Art. 6º - Esta lei entra em vigor na data de sua publicação.
 
@@ -59,5 +45,3 @@ Belo Horizonte, 23 de setembro de 2026.
 Prefeito de Belo Horizonte
 
 _(Originária do Projeto de Lei nº 481/25, de autoria do vereador Neném da Farmácia)_
-
-<br>

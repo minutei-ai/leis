@@ -1,5 +1,3 @@
-###DEL-003065-0-000-20-02-1941@@@
-
 DECRETO-LEI N. 3.065 – DE 20 DE FEVEREIRO DE 1941
 
 Abre, pelo Ministério da Fazenda, o crédito especial de 60:000$0 para a instalação da Mesa de Rendas Federal em São Borja

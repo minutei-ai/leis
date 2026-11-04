@@ -1,14 +1,12 @@
-###DEC-021932-0-000-09-10-1946@@@
+**DECRETO Nº 21.932, DE 9 DE OUTUBRO DE 1946.**
 
-<strong>DECRETO Nº 21.932, DE 9 DE OUTUBRO DE 1946.</strong>
+***Define as funções de General de Exército.***
 
-<em><strong>Define as funções de General de Exército.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Em princípio, são funções de General de Exército:
+**Art**. 1º Em princípio, são funções de General de Exército:
 
 \- Chefia do Estado Maior Geral
 
@@ -20,12 +18,12 @@
 
 \- Comandos de Zona Militar.
 
-<strong>Art</strong>. 2º O Chefe do Estado Maior do Exército quando General de Divisão não terá precedência sôbre os Generais de Exército.
+**Art**. 2º O Chefe do Estado Maior do Exército quando General de Divisão não terá precedência sôbre os Generais de Exército.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 9 de outubro de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Canrobert P. da Costa

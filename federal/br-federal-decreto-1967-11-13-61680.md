@@ -1,5 +1,3 @@
-###DEC-061680-0-000-13-11-1967@@@
-
 DECRETO Nº 61.680, DE 13 DE NOVEMBRO DE 1967.
 
 Transfere para o Instituto Brasileiro de Desenvolvimento Florestal as atribuições do extinto Instituto Nacional do Mate e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-007869-0-000-15-08-1945@@@
-
 DECRETO-LEI N. 7.869 – DE 15 DE AGÔSTO DE 1945
 
 E’ decretado feriado nacional o dia 15 de agôsto de 1945, em regozijo pelo fim da guerra mundial.

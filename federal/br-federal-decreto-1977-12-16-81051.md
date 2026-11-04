@@ -1,5 +1,3 @@
-###DEC-081051-0-000-16-12-1977@@@
-
 DECRETO Nº 81.051, DE 16 DE DEZEMBRO DE 1977.
 
 Concede à Mármores da Bahia S.A. o direito de lavrar mármore no Município de Belmonte, Estado da Bahia.

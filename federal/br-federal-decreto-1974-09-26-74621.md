@@ -1,5 +1,3 @@
-###DEC-074621-0-000-26-09-1974@@@
-
 DECRETO Nº 74.621, DE 26 DE SETEMBRO DE 1974.
 
 Eleva o capital da empresa pública Financiadora de Estudos e Projetos - FINEP.

@@ -1,5 +1,3 @@
-###DEC-061282-0-000-05-09-1967@@@
-
 decreto nº 61.282, de 5 de setembro de 1967.
 
 Autoriza a São Paulo Light S.A., - Serviços de Eletricidade a Construir linha de transmissão.

@@ -1,5 +1,3 @@
-###DEC-093712-0-000-15-12-1986@@@
-
 DECRETO Nº 93.712, DE 15 DE DEZEMBRO DE 1986
 
 Declara de utilidade pública as instituições que menciona.

@@ -1,5 +1,3 @@
-###DEC-073997-0-000-30-04-1974@@@
-
 DECRETO Nº 73.997, de 30 de abril de 1974.
 
 Declara de utilidade pública, para fins de desapropriação, um lote de terreno urbano, com benfeitorias, situado na Cidade de Sorocaba, Estado de São Paulo, necessário à construção de uma estação terminal de telecomunicações pela Empresa Brasileira de Telecomunicações S.A. - EMBRATEL.

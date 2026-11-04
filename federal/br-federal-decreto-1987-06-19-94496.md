@@ -1,5 +1,3 @@
-###DEC-094496-0-000-19-06-1987@@@
-
 DECRETO N° 94.496, DE 19 DE JUNHO DE 1987
 
 Revoga os Decretos n°s 63.980/69 e 76.048/75, que aprovaram e alteraram, respectivamente, o Regulamento para o Comando Naval de Brasília.

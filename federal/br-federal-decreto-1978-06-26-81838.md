@@ -1,5 +1,3 @@
-###DEC-081838-0-000-26-06-1978@@@
-
 Decreto nº 81.838, de 26 de junho de 1978.
 
 Concede reconhecimento ao curso de Psicologia, Licenciatura, ministrado pelas Faculdades Unidas Católicas de Mato Grosso, com sede em Campo Grande, Estado de Mato Grosso.

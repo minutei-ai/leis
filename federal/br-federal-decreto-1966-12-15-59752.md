@@ -1,5 +1,3 @@
-###DEC-059752-0-000-15-12-1966@@@
-
 DECRETO Nº 59.752, de 15 de dezembro de 1966.
 
 Autoriza o Espólio de Julia do Amaral Sobreira, na pessoa do administrador dos bens do Espólio, a pesquisar minério de ferro e de manganês, no município de Antônio Dias, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-049828-0-000-05-01-1961@@@
-
 DECRETO Nº 49.828, DE 5 DE JANEIRO DE 1961.
 
 Renova o decreto nº 44.150, de 25 de julho de 1958.

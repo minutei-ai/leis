@@ -1,5 +1,3 @@
-###DEC-059980-0-000-10-01-1967@@@
-
 DECRETO Nº 59.980, DE 10 DE JANEIRO DE 1967.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 48.697, de 4 de agôsto de 1960, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária á construção do açude público “Jatobá”, no município de Patos, Estados da Paraiba.

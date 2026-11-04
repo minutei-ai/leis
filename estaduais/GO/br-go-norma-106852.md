@@ -18,19 +18,19 @@ Art. 6º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 22 de março de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
 
 ANEXO ÚNICO
 
-| IMÓVEL DE PROPRIEDADE DO ESTADO DE GOIÁS AUTORIZADO A SER ALIENADO,<br>
+| IMÓVEL DE PROPRIEDADE DO ESTADO DE GOIÁS AUTORIZADO A SER ALIENADO,
+
 MEDIANTE DOAÇÃO ONEROSA, AO MUNICÍPIO DE BARRO ALTO/GO |
 | --- |
 | DENOMINAÇÃO | Área 2 |
-| LOCALIZAÇÃO | Fazenda Pouso Alegre, Avenida do Níquel/Rua Pedra de Fogo,<br>
+| LOCALIZAÇÃO | Fazenda Pouso Alegre, Avenida do Níquel/Rua Pedra de Fogo,
+
 Bairro Alfredo Sebastião Batista, Barro Alto/GO |
 | ÁREA | 11.554,04 m² |
 | MATRÍCULAS | Nº 928 (Parte) - Cartório de Registro de Imóveis de Barro Alto/GO |

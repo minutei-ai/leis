@@ -1,5 +1,3 @@
-###DEC-082934-0-000-22-12-1978@@@
-
 Decreto nº 82.934, de 22 de dezembro de 1978
 
 Dispõe sobre condições especiais de afastamento do pessoal de entidades da Administração federal indireta e fundações, para o Governo do Estado de Mato Grosso do Sul.

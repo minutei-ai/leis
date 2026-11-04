@@ -1,5 +1,3 @@
-###DEC-074974-0-000-26-11-1974@@@
-
 Decreto Nº 74.974, DE 26 DE NOVEMBRO DE 1974.
 
 Declara a utilidade pública, para fins de instituição de servidão de passagem ou desapropriação, total ou parcial, imóveis constituídos de terras e benfeitorias situados nos Municípios de São Sebastião, Caraguatatuba, Paraibuna, Salesópolis, Santa Braga e Guararema, no Estado de São Paulo.

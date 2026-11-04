@@ -1,5 +1,3 @@
-###DEC-054748-0-000-30-10-1964@@@
-
 DECRETO Nº 54.748, DE 30 DE OUTUBRO DE 1964.
 
 Declara de utilidade pública o “Hospital e Maternidade Samaritano”, com sede em Garça, Estado de São Paulo.

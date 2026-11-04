@@ -82,7 +82,8 @@ Art. 9º-A acrescido pela Lei [13.816](https://www.legislabahia.ba.gov.br/docume
 
 Art. 10 - A utilização dos benefícios de que trata esta Lei não poderá ser cumulativa com outros incentivos que, a critério do Conselho Deliberativo do Programa, sejam considerados com eles incompatíveis.
 
-Redação do art. 10 de acordo com o art. [13](https://www.legislabahia.ba.gov.br/documentos/lei-no-7980-de-12-de-dezembro-de-2001#art13) da Lei nº 8.534, de 13 de dezembro de 2002.<br>
+Redação do art. 10 de acordo com o art. [13](https://www.legislabahia.ba.gov.br/documentos/lei-no-7980-de-12-de-dezembro-de-2001#art13) da Lei nº 8.534, de 13 de dezembro de 2002.
+
 Redação original: "Art. 10 - A utilização dos benefícios de que trata esta Lei não poderá ser cumulativa com outros incentivos com eles incompatíveis."
 
 Art. 10-A - O Chefe do Poder Executivo poderá autorizar o enquadramento no DESENVOLVE de empresas que já sejam beneficiárias de outros programas estaduais de incentivo fiscal ou financeiro, em substituição a incentivo de que já sejam beneficiárias.

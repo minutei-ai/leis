@@ -1,5 +1,3 @@
-###DEC-083321-0-000-10-04-1979@@@
-
 Decreto nº 83.321, de 10 de abril de 1979.
 
 Concede reconhecimento à habilitação em Comércio Exterior do curso de Administração da Universidade do Vale do Rio dos Sinos, com sede em São Leopoldo, Estado do Rio Grande do Sul.

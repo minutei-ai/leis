@@ -1,5 +1,3 @@
-###DEC-047384-0-000-10-12-1959@@@
-
 DECRETO Nº 47.384, DE 10 DE DEZEMBRO DE 1959.
 
 Renova o Decreto nº 41.971, de 3 de agôsto de 1957.

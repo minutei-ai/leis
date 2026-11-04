@@ -1,5 +1,3 @@
-###DEC-093113-0-000-13-08-1986@@@
-
 DECRETO Nº 93.113, DE 13 DE AGOSTO DE 1986
 
 Autoriza o funcionamento do curso de Letras da Faculdade de Formação de Professores de Alagoinhas.

@@ -1,5 +1,3 @@
-###DEC-052156-0-000-25-06-1963@@@
-
 DECRETO Nº 52.156, DE 25 DE JUNHO DE 1963.
 
 Dispõe sôbre o horário de trabalho para servidores da Administração do Pôrto do Rio de Janeiro e dá outras providências.

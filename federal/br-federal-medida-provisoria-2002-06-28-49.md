@@ -1,5 +1,3 @@
-###MPV-000049-0-000-28-06-2002@@@
-
 MEDIDA PROVISÓRIA Nº 49, DE 28 DE JUNHO DE 2002
 
 Autoriza o Poder Executivo a contratar em nome da União operação de crédito interno e a conceder garantia da União a entidades da administração federal indireta, bem como a Estados, ao Distrito Federal, aos Municípios e às suas entidades da administração indireta, em operação de crédito interno, e dá outras providências.

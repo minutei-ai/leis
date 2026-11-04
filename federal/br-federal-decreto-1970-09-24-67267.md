@@ -1,5 +1,3 @@
-###DEC-067267-0-000-24-09-1970@@@
-
 DECRETO Nº 67.267, DE 24 DE SETEMBRO DE 1970.
 
 Declara sem efeito o Decreto número 10.990, de 2 de dezembro de 1942.

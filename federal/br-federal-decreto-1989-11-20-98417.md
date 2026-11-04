@@ -1,7 +1,3 @@
-1
-
-###DEC-098417-0-000-20-11-1989@@@
-
 DECRETO Nº 98.417, DE 20 DE NOVEMBRO DE 1989
 
 Homologa a demarcação de Terra Indígena que menciona, nos Estados de Mato Grosso e Rondônia.

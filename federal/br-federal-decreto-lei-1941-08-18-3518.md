@@ -1,5 +1,3 @@
-###DEL-003518-0-000-18-08-1941@@@
-
 DECRETO-LEI N. 3.518 – DE 18 DE AGOSTO DE 1941
 
 Abre, pelo ministério das Relações Exteriores, o crédito especial de 3.656:866$0, para despesas da Comissão Mista Brasileiro - Boliviana de Petróleo.

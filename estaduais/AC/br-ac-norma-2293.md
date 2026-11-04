@@ -1,6 +1,6 @@
 > **LEI Nº 3.513, DE 13 DE AGOSTO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a implementação do Programa Estadual de Qualidade do Açaí e cria o Selo de Qualidade para os estabelecimentos que produzam bebidas e alimentos de consumo humano de origem vegetal no Estado.</span></span></span></p></td></tr></tbody></table>
+Dispõe sobre a implementação do Programa Estadual de Qualidade do Açaí e cria o Selo de Qualidade para os estabelecimentos que produzam bebidas e alimentos de consumo humano de origem vegetal no Estado.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -28,7 +28,8 @@
 
 **Art. 5º** Para a implementação do Programa Estadual de Qualidade do Açaí, o governo do Estado poderá firmar convênios e acordos de cooperação técnica com entidades públicas ou privadas de notório saber e experiência técnica, visando a fundamentar suas decisões e a estruturar estratégias e projetos.
 
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
+
 **Das Definições**
 
 **Art. 6º** Para efeitos desta lei, considera-se:
@@ -327,4 +328,18 @@ Governador do Estado do Acre
 
 **HIGIENIZAÇÃO DO AÇAÍ (FRUTO)**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>QUANTIDADE DE HIPOCLORITO</span></strong></span></p></td><td><p><span><strong><span>QUANTIDADE DE ÁGUA</span></strong></span></p></td></tr><tr><td><p><span><span>7,5 ml</span></span></p></td><td><p><span><span>1L</span></span></p></td></tr><tr><td><p><span><span>75 ml</span></span></p></td><td><p><span><span>10L</span></span></p></td></tr><tr><td><p><span><span>750 ml</span></span></p></td><td><p><span><span>100L</span></span></p></td></tr></tbody></table>
+**QUANTIDADE DE HIPOCLORITO**
+
+**QUANTIDADE DE ÁGUA**
+
+7,5 ml
+
+1L
+
+75 ml
+
+10L
+
+750 ml
+
+100L

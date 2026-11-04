@@ -1,5 +1,3 @@
-###DEC-045266-0-000-19-01-1959@@@
-
 DECRETO N. 45.266 – DE 19 DE JANEIRO DE 1959
 
 Institui a Semana da Alimentação Escolar.

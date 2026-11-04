@@ -1,5 +1,3 @@
-###DEL-004920-0-000-05-11-1942@@@
-
 DECRETO-LEI N. 4.920 – DE 5 DE NOVEMBRO DE 1942
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 4.000,00 à verba que especifica

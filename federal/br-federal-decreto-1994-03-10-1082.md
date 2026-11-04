@@ -1,7 +1,3 @@
-1
-
-###DEC-001082-0-000-10-03-1994@@@
-
 DECRETO Nº 1.082, DE 10 DE MARÇO DE 1994
 
 Promulga o Acordo, por troca de Notas, que concede Status Autônomo ao Escritório de Representação do Fundo de Cooperação Econômica Ultramarina no Rio de Janeiro, entre o Governo da República Federativa do Brasil e o Governo do Japão, de 12.03.93.

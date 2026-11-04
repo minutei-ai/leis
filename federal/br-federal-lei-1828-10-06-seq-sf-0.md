@@ -1,5 +1,3 @@
-###LEI-000000-0-000-06-10-1828@@@
-
 LEI - DE 6 DE OUTUBRO DE 1828
 
 Extingue o officio de Selador de fazendas nas Alfandegas do Imperio, mandando arrecadar para o Thesouro os respectivos emolumentos.

@@ -1,5 +1,3 @@
-###DEC-055767-0-000-18-02-1965@@@
-
 DECRETO Nº 55.767, DE 18 DE FEVEREIRO DE 1965.
 
 Cria a 3ª Companhia Depósito de Armamento e Munição

@@ -1,5 +1,3 @@
-###DEL-006012-0-000-19-11-1943@@@
-
 DECRETO‑LEI N. 6.012 – DE 19 DE NOVEMBRO DE 1943
 
 Cria a Escola Militar de Resende e dá outras providências

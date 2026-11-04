@@ -1,5 +1,3 @@
-###DEL-007242-0-000-15-01-1945@@@
-
 DECRETO-LEI N. 7.242 – DE 15 DE JANEIRO DE 1945
 
 Dispõe sôbre o crédito aberto pelo Decreto-lei nº 6.999, de 30 de outubro de 1944

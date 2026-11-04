@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210384)<br>
-
 # LEI N° 18.063, DE 18 DE DEZEMBRO DE 2024
 
 ## (Projeto de lei n° 1669/2023, dos Deputados Paulo Correa Jr - PSD, Rafa Zimbaldi - CIDADANIA e Itamar Borges - MDB)

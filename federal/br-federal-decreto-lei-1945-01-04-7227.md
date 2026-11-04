@@ -1,5 +1,3 @@
-###DEL-007227-0-000-04-01-1945@@@
-
 DECRETO-LEI N.7.227 – DE 4 DE  JANEIRO DE 1945
 
 Exclui das disposições do Decreto-lei nº 2.803, de 21 de novembro de 1940, o terreno acrescido de marinha que menciona, situado no Distrito Federal; concede-lhe o aforamento condicional, com isenção de foros, à Sociedade Nacional de Agricultura, e dá outras providências

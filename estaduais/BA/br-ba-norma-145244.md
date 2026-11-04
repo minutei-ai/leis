@@ -82,23 +82,4 @@ Afonso Bandeira Florence
 
 Secretário da Casa Civil
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:339.95pt;border-collapse:collapse;border:none" width="0"><tbody><tr style="height:22.95pt"><td colspan="2" style="width:339.95pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top" width="453"><p class="Tabela-Texto"><b><span style="color:black">ANEXO ÚNICO<br>QUADRO GERAL DA DEFENSORIA PÚBLICA</span></b></p></td></tr><tr style="height:22.95pt"><td style="width:254.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top" width="340"><p class="Tabela-Texto"><b><span style="color:black">CLASSE</span></b></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:22.95pt" valign="top" width="113"><p class="Tabela-Texto"><b><span style="color:black">CARGOS</span></b></p></td></tr><tr style="height:22.95pt"><td style="width:254.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top" width="340"><p class="Tabela-Texto" style="margin-right:0cm"><span style="color:black">Classe de Defensor Público de Instância Superior</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:22.95pt" valign="top" width="113"><p class="Tabela-Texto"><span style="color:black">60</span></p></td></tr><tr style="height:22.95pt"><td style="width:254.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top" width="340"><p class="Tabela-Texto"><span style="color:black">Classe Final</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:22.95pt" valign="top" width="113"><p class="Tabela-Texto"><span style="color:black">250</span></p></td></tr><tr style="height:22.95pt"><td style="width:254.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top" width="340"><p class="Tabela-Texto"><span style="color:black">Classe Intermediária</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:22.95pt" valign="top" width="113"><p class="Tabela-Texto"><span style="color:black">79</span></p></td></tr><tr style="height:22.95pt"><td style="width:254.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top" width="340"><p class="Tabela-Texto"><span style="color:black">Classe Inicial II</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:22.95pt" valign="top" width="113"><p class="Tabela-Texto"><span style="color:black">59</span></p></td></tr><tr style="height:22.95pt"><td style="width:254.9pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt;height:22.95pt" valign="top" width="340"><p class="Tabela-Texto"><span style="color:black">Classe Inicial I</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:22.95pt" valign="top" width="113"><p class="Tabela-Texto"><span style="color:black">135</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"> **ANEXO ÚNICO QUADRO GERAL DA DEFENSORIA PÚBLICA** </td></tr><tr><td valign="top"> **CLASSE** </td><td valign="top"> **CARGOS** </td></tr><tr><td valign="top"> Classe de Defensor Público de Instância Superior </td><td valign="top"> 60 </td></tr><tr><td valign="top"> Classe Final </td><td valign="top"> 250 </td></tr><tr><td valign="top"> Classe Intermediária </td><td valign="top"> 79 </td></tr><tr><td valign="top"> Classe Inicial II </td><td valign="top"> 59 </td></tr><tr><td valign="top"> Classe Inicial I </td><td valign="top"> 135 </td></tr></tbody></table>

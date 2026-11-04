@@ -1,5 +1,3 @@
-###DEL-006338-0-000-10-03-1944@@@
-
 DECRETO-LEI N. 6.338 – DE 10 DE MARÇO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 82 210.315,20, para pagamento de contas de transportes efetuados pela Estrada de Ferro Central do Brasil

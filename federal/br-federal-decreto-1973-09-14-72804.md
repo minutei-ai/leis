@@ -1,5 +1,3 @@
-###DEC-072804-0-000-14-09-1973@@@
-
 DECRETO Nº 72.804, DE 14 DE SETEMBRO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terreno rural, sem benfeitorias destinada à construção da estação repetidora de microondas "Alto da Serra", e respectiva faixa de acesso, no município de Angra dos Reis, Estado do Rio de Janeiro, pela Companhia Telefônica Brasileira - CTB.

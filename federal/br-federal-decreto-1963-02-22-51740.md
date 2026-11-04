@@ -1,5 +1,3 @@
-###DEC-051740-0-000-22-02-1963@@@
-
 DECRETO Nº 51.740, de 22 de fevereiro de 1963.
 
 Outorga concessão à Emprêsa de Melhoramentos de Andradina - EMA - Construtora S.A. para executar serviço telefônico público interior.

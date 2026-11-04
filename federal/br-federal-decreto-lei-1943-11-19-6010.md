@@ -1,5 +1,3 @@
-###DEL-006010-0-000-19-11-1943@@@
-
 DECRETO‑LEI N. 6.010 – DE 19 DE NOVEMBRO DE 1943
 
 Torna sem efeito o decreto‑lei n. 3.503 de 14 de agôsto de 1941

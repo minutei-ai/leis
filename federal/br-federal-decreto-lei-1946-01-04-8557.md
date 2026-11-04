@@ -1,5 +1,3 @@
-###DEL-008557-0-000-04-01-1946@@@
-
 DECRETO-LEI N. 8.557 – DE 4 DE JANEIRO DE 1946
 
 Altera a carreira de Biologista do Quadro Permanente do Ministério da Agricultura e da outras providências.

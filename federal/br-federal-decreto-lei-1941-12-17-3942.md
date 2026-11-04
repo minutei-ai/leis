@@ -1,5 +1,3 @@
-###DEL-003942-0-000-17-12-1941@@@
-
 DECRETO-LEI N. 3.942 –  DE 17 DE DEZEMBRO DE 1941
 
 Instituo o selo “Pro-fauna”.

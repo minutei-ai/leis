@@ -1,5 +1,3 @@
-###DEC-077729-0-000-01-06-1976@@@
-
 Decreto nº 77.729, de 1º de junho de 1976.
 
 Concede reconhecimento aos cursos de Matemática, de Física e de Ciências Biológicas da Faculdade de Filosofia, Ciências e Letras de Vassouras, com sede na cidade de Vassouras, Estado do Rio de Janeiro.

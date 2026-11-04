@@ -1,5 +1,3 @@
-###DEL-000033-0-000-18-11-1966@@@
-
 DECRETO-LEI Nº 33, DE 18 DE NOVEMBRO DE 1966
 
 Dispõe sôbre a participação acionária de que trata a Lei nº 4.869, de 1º de dezembro de 1965, e dá outras providências.

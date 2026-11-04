@@ -1,5 +1,3 @@
-###DEC-061550-0-000-17-10-1967@@@
-
 DECRETO Nº 61.550, de 17 de Outubro de 1967.
 
 Declara de utilidade pública o “Hospital Beneficente São Francisco de Assis”, com sede em Ituverava, no Estado de São Paulo.

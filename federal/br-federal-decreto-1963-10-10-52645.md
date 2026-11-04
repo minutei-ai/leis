@@ -1,5 +1,3 @@
-###DEC-052645-0-000-10-10-1963@@@
-
 DECRETO Nº 52.645, DE 10 DE OUTUBRO DE 1963.
 
 Declara de utilidade pública a Associação de Educação Familiar e Social do Paraná com sede em Curitiba, Estado do Paraná.

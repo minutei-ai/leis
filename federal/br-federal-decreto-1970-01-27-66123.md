@@ -1,5 +1,3 @@
-###DEC-066123-0-000-27-01-1970@@@
-
 DECRETO Nº 66.123 - de 27 de janeiro de 1970
 
 Aprova o Regulamento do Centro de Formação de Pilôtos Militares.

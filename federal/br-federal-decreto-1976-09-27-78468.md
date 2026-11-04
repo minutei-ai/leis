@@ -1,5 +1,3 @@
-###DEC-078468-0-000-27-09-1976@@@
-
 DECRETO Nº 78.468, DE 27 DE SETEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Ciências Biológicas, do Centro de Ciências Biológicas da Fundação Universidade Estadual de Londrina, com sede na cidade de Londrina, Estado do Paraná.

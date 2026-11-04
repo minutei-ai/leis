@@ -1,5 +1,3 @@
-###DEC-061115-0-000-31-07-1967@@@
-
 Decreto nº 61.115, de 31 de julho de 1967.
 
 Declara de utilidade pública a “Sociedade de São Vicente de Paulo”, com sede em Piumhy, Estado de Minas Gerais.

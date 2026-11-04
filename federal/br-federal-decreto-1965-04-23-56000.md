@@ -1,5 +1,3 @@
-###DEC-056000-0-000-23-04-1965@@@
-
 DECRETO nº 56.000, DE 23 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro Carahy Azambuja Martins Pereira a pesquisar mica, quartzo e pedras coradas, no município de Macaé, Estado do Rio de Janeiro.

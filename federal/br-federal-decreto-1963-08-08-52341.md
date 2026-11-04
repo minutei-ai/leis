@@ -1,5 +1,3 @@
-###DEC-052341-0-000-08-08-1963@@@
-
 DECRETO Nº 52.341, DE 8 DE AGôSTO DE 1963.
 
 Aprova o Regimento da Consultoria Jurídica do Ministério da Agricultura.

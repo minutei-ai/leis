@@ -1,5 +1,3 @@
-###DEC-093241-0-000-09-09-1986@@@
-
 DECRETO Nº 93.241, DE 09 DE SETEMBRO DE 1986
 
 Altera o artigo 1º do Decreto nº 92.534, de 10 de abril de 1986 que fixa, para o exercício de 1986, o limite global de importações realizadas através da Zona Franca de Manaus.

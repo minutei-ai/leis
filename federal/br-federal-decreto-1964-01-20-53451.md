@@ -1,5 +1,3 @@
-###DEC-053451-0-000-20-01-1964@@@
-
 DECRETO Nº 53.451, DE 20 DE JANEIRO DE 1964.
 
 Regulamenta a Lei nº 4.131, de 3 de setembro de 1962, e dá outras providências.

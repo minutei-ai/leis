@@ -1,5 +1,3 @@
-###DEC-060597-0-000-19-04-1967@@@
-
 DECRETO Nº 60.597, DE 19 DE ABRIL DE 1967.
 
 Regulamenta o Decreto-lei nº 59, de 21 de novembro de 1966.

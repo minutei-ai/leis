@@ -1,5 +1,3 @@
-###DEC-091381-0-000-01-07-1985@@@
-
 DECRETO Nº 91.381, DE 01 DE JULHO DE 1985
 
 Renova a concessão outorgada à EMPRESA JORNAL DO COMÉRCIO S/A, e autoriza a transferência direta para a RÁDIOS JORNAL DO COMÉRCIO LTDA., para  explorar serviço de radiodifusão sonora em onda média, na cidade de. Caruaru, Estado de Pernambuco.

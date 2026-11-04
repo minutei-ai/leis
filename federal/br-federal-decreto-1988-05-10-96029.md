@@ -1,5 +1,3 @@
-###DEC-096029-0-000-10-05-1988@@@
-
 DECRETO N° 96.029, DE 10 DE MAIO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação da LIGHT - Serviços de Eletricidade S.A., no Mu­nicípio de Nova Iguaçu, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-085669-0-000-29-01-1981@@@
-
 Decreto nº 85.669, de 29 de janeiro de 1981
 
 Declara de utilidade pública as ações representativas do capital social da Companhia Pontagrossense de Telecomunicações - CPT, para fins de desapropriação pela Telecomunicações Brasileiras S. A. - TELEBRÁS.

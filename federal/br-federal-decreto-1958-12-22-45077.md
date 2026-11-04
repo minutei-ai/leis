@@ -1,5 +1,3 @@
-###DEC-045077-0-000-22-12-1958@@@
-
 Decreto nº 45.077, de 22 de dezembro de 1958.
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$10.000.000,00 para atender às despesas finais decorrentes da visita do Presidente da República Portuguêsa.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000843-0-000-23-06-1993@@@
-
 DECRETO N° 843, DE 23 DE JUNHO DE 1993
 
 Regulamenta a Lei n° 8.210, de 19 de julho de 1991, que cria a Área de Livre Comércio da Guajará-Mirim ALCGM, no Estado de Rondônia e dá outras providências.

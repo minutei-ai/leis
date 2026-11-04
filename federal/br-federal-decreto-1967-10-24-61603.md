@@ -1,5 +1,3 @@
-###DEC-061603-0-000-24-10-1967@@@
-
 DECRETO Nº 61.603, DE 24 DE OUTUBRO DE 1967.
 
 Altera o Regulamento para a Pagadoria de Inativos e Pensionistas da Marinha, aprovado pelo Decreto nº 51.722, de 18 de fevereiro de 1963.

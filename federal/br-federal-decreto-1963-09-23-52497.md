@@ -1,5 +1,3 @@
-###DEC-052497-0-000-23-09-1963@@@
-
 Decreto nº 52.497, de 23 de setembro de 1963.
 
 Disciplina a publicação de historias em quadrinhos e dá outras providências.

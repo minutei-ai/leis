@@ -1,5 +1,3 @@
-###DEC-053121-0-000-10-12-1963@@@
-
 DECRETO Nº 53.121, DE 10 DE DEZEMBRO DE 1963.
 
 Autoriza a Emibra - Emprêsa de Minérios Brasil Norte Nordeste Ltda., a pesquisar quartzo no município de Pedro II, Estado do Piauí.

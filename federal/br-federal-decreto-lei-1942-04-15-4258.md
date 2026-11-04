@@ -1,5 +1,3 @@
-###DEL-004258-0-000-15-04-1942@@@
-
 DECRETO-LEI N. 4.258 – DE 15 DE ABRIL DE 1942
 
 Cria o Serviço de Administração dos Estabelecimentos Ministro Mallet, e dá outras providências

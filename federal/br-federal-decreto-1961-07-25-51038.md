@@ -1,5 +1,3 @@
-###DEC-051038-0-000-25-07-1961@@@
-
 decreto nº 51.038, de 25 de juLho de 1961.
 
 Declara públicas, de uso comum, do domínio do Estado do Ceará, as águas do rio Jaibara.

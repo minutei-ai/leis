@@ -1,5 +1,3 @@
-###DEC-045781-0-000-14-04-1959@@@
-
 Decreto nº 45.781, de 14 de abril de 1959.
 
 Autoriza a emprêsa de mineração Th. Badin de Minérios Ltda, a pesquisar columbita no município de Rio de Contas, Estado da Bahia.

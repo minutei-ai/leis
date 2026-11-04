@@ -1,5 +1,3 @@
-###DEC-051948-A-000-26-04-1963@@@
-
 decreto nº 51.948-A – de 26 de abril de 1963
 
 Outorga à Companhia de Eletricidade de Alagoas concessão para distribuir energia elétrica no município de Maurici, no Estado de Alagoas, e dá outras providências.

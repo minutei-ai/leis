@@ -1,5 +1,3 @@
-###DEC-060723-0-000-12-05-1967@@@
-
 DECRETO nº 60.723, DE 12 DE MAIO DE 1967.
 
 Reajusta a remuneração dos dirigentes da Comissão do Plano ao Carvão Nacional.

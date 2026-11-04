@@ -1,5 +1,3 @@
-###DEL-005918-0-000-25-10-1943@@@
-
 DECRETO‑LEI N. 5.918 – DE 25 DE OUTUBRO DE 1943
 
 Desobriga da análise prévia os produtos de origem animal, procedentes de estabelecimentos sujeitos à inspeção federal e dá outras providências

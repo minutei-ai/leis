@@ -1,5 +1,3 @@
-###DEL-003687-0-000-03-10-1941@@@
-
 DECRETO-LEI N. 3.687 – DE 3 DE OUTUBRO DE 1941
 
 Regula a isenção do imposto de consumo sobre mercadorias de produção nacional exportadas para o estrangeiro, e dá outras providências.

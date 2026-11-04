@@ -4,7 +4,8 @@ Define critérios e parâmetros urbanísticos para a implantação de infraestru
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI COMPLEMENTAR:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art 1º.    Esta lei estabelece os critérios e parâmetros urbanísticos gerais para implantação de infraestrutura de suporte de redes de telecomunicações em áreas e bens públicos e privados ao nível do solo, no subsolo, no topo e nas fachadas das edificações localizados em zona urbana e rural do Município de Aparecida de Goiânia.
@@ -73,7 +74,8 @@ Art 4º.    As Estações Transmissoras de Radiocomunicação (ETR) e as resp
 
 §3°. Em razão da utilidade pública dos serviços regulados nesta Lei, o Município pode ceder o uso da área pública, de forma não exclusiva, para qualquer particular interessado, prestadora ou detentora, em realizar a instalação de Infraestrutura de suporte para Estação transmissora de radiocomunicação sendo, nesses casos, inexigível o processo licitatório, nos termos da vigente lei de licitações.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS CONDIÇÕES GERAIS PARA A IMPLANTAÇÃO
 
 Art 5º.    A implantação da infraestrutura de suporte para redes de telecomunicações devem atender às seguintes diretrizes:
@@ -122,10 +124,12 @@ b)      utiliza equipamentos que geram menor impacto visual negativo;
 
 c)      utiliza formas de mitigação do impacto visual negativo.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DOS PARÂMETROS ESPECÍFICOS DE INSTALAÇÃO
 
-Seção I<br>
+Seção I
+
 Nas Edificações
 
 Art 9º.    É admitida implantação de infraestrutura de suporte de redes de telecomunicações nas fachadas das edificações, desde que sejam respeitados os seguintes parâmetros:
@@ -156,7 +160,8 @@ VI.    ter o cabo, duto, conduto, caixa de passagem ou outros equipamentos co
 
 §3°. O comprimento do para-raios não é computado no cálculo do tamanho máximo definido para a infraestrutura de telecomunicações no inciso II.
 
-Seção II<br>
+Seção II
+
 No interior do lote
 
 Art. 11 A infraestrutura de suporte de redes de telecomunicações pode ser implantada no interior do lote, no solo, desde que respeitados o disposto na legislação de uso e ocupação do solo e os seguintes parâmetros:
@@ -175,7 +180,8 @@ II.    para infraestrutura de suporte com altura supeior a 30 (trinta) metros
 
 §2°. O comprimento do para-raios não é computado no cálculo do tamanho máximo definido para a infraestrutura de telecomunicações neste artigo.
 
-Seção III<br>
+Seção III
+
 Em Gleba
 
 Art 12.    A implantação de infraestrutura de suporte de redes de telecomunicações em gleba inserida em zona rural, de acordo com o plano diretor, deve priorizar a infraestrutura de suporte que possibilite o compartilhamento.
@@ -184,8 +190,8 @@ Art 13.    A implantação de suporte de redes de telecomunicações em gleba
 
 Parágrafo único: será permitido a implantação e/ou o funcionamento das Estações Transmissoras de Radiocomunicação (ETR) sem prévio parcelamento.
 
-<br>
-Seção IV<br>
+Seção IV
+
 Em Área Pública
 
 Art 14.    A implantação de infraestrutura de suporte de redes de telecomunicações em área pública deve atender às diretrizes e parâmetros desta Lei Complementar, salvo demonstração de inviabilidade técnica, e respeitar os seguintes critérios:
@@ -218,7 +224,8 @@ V -     prejudique o serviço da infraestrutura urbana implantada ou prevista
 
 VI -     inviabilize a manutenção da largura mínima para o passeio em calçada; 
 
-Art 16.    A implantação de infraestrutura de suporte de redes de telecomunicações em área pública enterrada no subsolo deve respeitar os projetos urbanísticos e paisagísticos da área, quando houver.<br>
+Art 16.    A implantação de infraestrutura de suporte de redes de telecomunicações em área pública enterrada no subsolo deve respeitar os projetos urbanísticos e paisagísticos da área, quando houver.
+
 Parágrafo único. Nos casos em que a infraestrutura de suporte de redes de telecomunicações de que trata o caput esteja implantada em áreas gramadas ou ajardinadas, é permitido ter altura máxima de 0,20 metro acima do nível do solo, aumentando-se para 0,40 metro em caso de solo desnivelado.
 
 Art 17.    A infraestrutura de suporte de redes de telecomunicações fixada em mobiliários urbanos deve atender às diretrizes desta Lei Complementar e se adequar ao modelo aprovado por meio de portaria conjunta do órgão gestor do planejamento urbano e do respectivo órgão gestor do mobiliário urbano do município, caso exista.
@@ -227,7 +234,8 @@ Art 17.    A infraestrutura de suporte de redes de telecomunicações fixada 
 
 §2°. Os cabos, dutos, condutos, caixas de passagem ou outros equipamentos complementares que integram a instalação da antena devem ser camuflados ou ocultos.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO LICENCIAMENTO
 
 Art 18.    O licenciamento de infraestrutura de suporte de redes de telecomunicações, poderá ocorrer com a emissão do Alvará de Autorização ou pela emissão da Licença de Projeto e Alvará de Construção, e a subsequente fiscalização e aprovação da execução da obra, através da Certidão de Conclusão de Obra, nos termos da Lei n° 171/2019 do Código de Obras e Edificações do Município de Aparecida de Goiânia.
@@ -274,7 +282,8 @@ XVII.    autorização para compartilhamento da infraestrutura de suporte, em
 
 XVIII.    caso a Estação Transmissora de Radiocomunicação (ETR) esteja localizada em áreas comuns de condomínio, deverá ser apresentada cópia da ata da assembleia de aprovação da instalação da Estação, assim como cópia da convenção de condomínio que elegeu seus representantes legais;
 
-Art 21.    A execução das obras relativas a infraestrutura de suporte de redes de telecomunicações somente poderá ser iniciada após a emissão do alvará de autorização ou alvará de construção.<br>
+Art 21.    A execução das obras relativas a infraestrutura de suporte de redes de telecomunicações somente poderá ser iniciada após a emissão do alvará de autorização ou alvará de construção.
+
 Paragráfo único. O poder público pode solicitar outros documentos não mencionados no § 1º do Art. 20, para fins de autorização das infraestruturas de telecomunicações.
 
 Art 22.    O prazo de validade do Alvará de Autorização, da Licença de Projeto e Alvará de Construção atenderá aos parâmetros do Código de Obras e Edificações do Município. O prazo para o Alvará de Funcionamento será definido nos termos do § 7º do Art. 7º da Lei Federal nº 13.116/2015.
@@ -283,14 +292,16 @@ Art 23.    Os licenciamentos de que tratam esta Lei, poderão ser cancelados 
 
 Parágrafo único. No caso do cancelamento de que trata o caput desse artigo, após processo administrativo com garantia de ampla defesa e contraditório, a empresa responsável pela estação deverá efetuar a retirada do equipamento no prazo de, no máximo, 180 (cento e oitenta) dias, contados da intimação da decisão.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DA FISCALIZAÇÃO
 
 Art 24.    Em caso de inobservância dos parâmetros estabelecidos nesta Lei Complementar, bem como de instalação de infraestrutura de telecomunicações sem o devido licenciamento, fica o infrator sujeito as penalidades previstas no nos termos da Lei n° 171/2019 do Código de Obras e Edificações do Município de Aparecida de Goiânia, caso não seja providenciada a adequação no prazo concedido, acarretando na remoção da infraestrutura instalada.
 
 Parágrafo único. Caso haja necessidade de remoção da infraestrutura de telecomunicações, deve o responsável pela estrutura, às suas expensas, providenciar a retirada no prazo estabelecido na intimação, sem prejuízo de que o poder público proceda à retirada à custa do responsável, em caso de inércia.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS DISPOSIÇÕES FINAIS
 
 Art 25.    As infraestruturas de suporte de redes de telecomunicações já instaladas até a publicação da presente Lei e já licenciadas pela Agência Nacional de Telecomunicações - Anatel, serão regularizadas pelo Município, mediante processo administrativo específico de licenciamento, desde que respeitado os parâmetros mínimos da Lei Federal nº 13.116  de 2015 e apresentada aprovações complementares, quando exigidas.
@@ -313,32 +324,38 @@ Parágrafo único: considera-se para efeitos do caput deste artigo, estruturas q
 
 Art 29.    Fica alterado o Artigo 157 A da Lei Complementar nº 124, de 14 de Dezembro de 2016, que passa a vigorar com a seguinte redação:
 
-“(..)<br>
-Art. 157 A - Excepcionalmente os parâmetros de Eixo de Integração III deverão se estender ao longo da quadra lindeira à ele, limitada a extensão de 250m (duzentos e cinquenta metros). A aprovação de empreendimentos nas ruas que possuam zoneamento de Eixo de Integração III, mas com largura inferior a 15,00m (quinze metros), não enquadrados em residencial unifamiliar ou com graus de incomodidade III e IV, ficam condicionados a um Parecer específico para aprovação da atividade considerando a largura da via emitido pela secretaria responsável pela mobilidade e trânsito.<br>
+“(..)
+
+Art. 157 A - Excepcionalmente os parâmetros de Eixo de Integração III deverão se estender ao longo da quadra lindeira à ele, limitada a extensão de 250m (duzentos e cinquenta metros). A aprovação de empreendimentos nas ruas que possuam zoneamento de Eixo de Integração III, mas com largura inferior a 15,00m (quinze metros), não enquadrados em residencial unifamiliar ou com graus de incomodidade III e IV, ficam condicionados a um Parecer específico para aprovação da atividade considerando a largura da via emitido pela secretaria responsável pela mobilidade e trânsito.
+
 (...)”
 
 Art 30.    Fica alterado o inciso VIII, do Artigo 191, da Lei Complementar nº 124, de 14 de Dezembro de 2016, que passa a vigorar com a seguinte redação:
 
 “(...)
 
-VIII- transportadoras, garagens de veículos de transporte de passageiros, concessionárias com área superior a 360,00m² (trezendo e sessenta metros quadrados);<br>
+VIII- transportadoras, garagens de veículos de transporte de passageiros, concessionárias com área superior a 360,00m² (trezendo e sessenta metros quadrados);
+
 (...)”
 
 Art 31.    Fica acrescido o Parágrafo único ao Art. 219, da Lei Complementar nº 124, de 14 de Dezembro de 2016, com a seguinte redação:
 
-“(...)<br>
+“(...)
+
 Parágrafo único: Admite-se, conforme legislação específica, a contratação de parcerias junto ao setor público e privado para exploração comercial de Áreas Verdes em loteamentos existentes ou a serem aprovados conforme regulamento a ser estabelecido pelo Poder Executivo.”
 
 Art 32.    Fica alterado o Artigo. 224 A, da Lei Complementar nº 124, de 14 de Dezembro de 2016, que passa a vigorar com a seguinte redação:
 
-“(...)<br>
+“(...)
+
 Artigo 224 A - Os projetos de parcelamento de solo, nas modalidades de loteamento, loteamento de acesso restrito, PUE e remanejamento para fins de novo loteamento deverão reservar, no mínimo 15% (quinze por cento) da área urbanizável para áreas públicas municipais, sendo no mínimo 10% (dez por cento) de área institucional e 5% (cinco por cento) para áreas verdes”. 
 
 Art 33.    Fica alterado o Artigo 225 da Lei Complementar nº 124, de 14 de Dezembro de 2016, que passa a vigorar com a seguinte redação:
 
 “(...)
 
-Art. 225 - As áreas classificadas pelo Zoneamento, Uso e Ocupação do Solo como Zona Parque, além do limite da APP, poderão ser parte das áreas institucionais e áreas verdes doadas ao Município na ocasião do parcelamento do solo, desde que limitada a 3% (três por cento) da área urbanizada total da gleba, mediante análise de conveniência e interesse público com parecer do Comitê Técnico de Análise de Uso e Ocupação do Solo e Diretrizes Viárias,”.<br>
+Art. 225 - As áreas classificadas pelo Zoneamento, Uso e Ocupação do Solo como Zona Parque, além do limite da APP, poderão ser parte das áreas institucionais e áreas verdes doadas ao Município na ocasião do parcelamento do solo, desde que limitada a 3% (três por cento) da área urbanizada total da gleba, mediante análise de conveniência e interesse público com parecer do Comitê Técnico de Análise de Uso e Ocupação do Solo e Diretrizes Viárias,”.
+
 Art 34.    Ficam acrescidos os Artigos 229-B e 229-C, à Lei Complementar nº 124, de 14 de Dezembro de 2016, com a seguinte redação:
 
 “(...)
@@ -367,17 +384,20 @@ Art. 249-B. Admitir-se-á desmembramento de terrenos em Eixo de Integração III
 
 Art 37.    Fica acrescido o Parágrafo único ao Art. 256 da Lei Complementar nº 124, de 14 de Dezembro de 2016, com a seguinte redação:
 
-“(...)<br>
+“(...)
+
 Parágrafo único: É facultado ao empreendedor a substituição de até 50% (cinquenta por cento) da extensão de que trata o caput deste artigo por área intra-muro, desde que garanta permeabilidade visual”
 
 Art 38.    O Parágrafo único do Artigo 257 da Lei Complementar nº 124, de 14 de Dezembro de 2016, passa a vigorar como § 1º, e com a seguinte redação: 
 
-“(...)<br>
+“(...)
+
 § 1º. Admitir-se-á construção de guarita de segurança sobre ilha de no máximo 10,00m² (dez metros quadrados), associada ou não à cobertura de proteção sobre via pública de até 400,00m² (quatrocentros metros quadrados)”.
 
 Art 39.    Fica acrescido do § 2º do Artigo 257 da Lei Complementar nº 124, de 14 de Dezembro de 2016, com a seguinte redação:
 
-(...)<br>
+(...)
+
 § 2º. Os lotes destinados/ocupados exclusivamente por complexo de portaria e administração terão parâmetros urbanísticos flexibilizados exceto quanto à atividade, índice de ocupação, coeficiente de aproveitamento, permeabilidade e, desde que a estrutura seja executada integralmente dentro dos limites dos lotes”
 
 Art 40.    Fica alterado o Artigo 271 da Lei Complementar nº 124, de 14 de Dezembro de 2016, que passa a vigorar com a seguinte redação:
@@ -390,13 +410,18 @@ Art 41.    Fica revogado o Art. 285 da Lei Complementar nº 124, de 14 de Dez
 
 Art 42.    Fica acrescido o Artigo 299 A, da Lei Complementar nº 124, de 14 de Dezembro de 2016, com a seguinte redação:
 
-<br>
-“Art. 299 A. Fica permitido o descaucionamento parcial de lotes para sua comercialização, desde que, apresentado:<br>
-•    requerimento informando a etapa executada, compatível ao orçamento apresentado.<br>
-•    orçamento referente a etapa executada da infraestrutura<br>
-•    relação de lotes a serem descaucionados<br>
-§ 1º.  A documentação acima será encaminhada à secretaria de infraestrtura a fim de que se manifeste sobre a infraestrutura executada e a compatibilidade do valor apresentado.<br>
- § 2º. Após compatibilização das informações, será emitido Decreto com o descaucionamento dos referidos lotes.<br>
+“Art. 299 A. Fica permitido o descaucionamento parcial de lotes para sua comercialização, desde que, apresentado:
+
+•    requerimento informando a etapa executada, compatível ao orçamento apresentado.
+
+•    orçamento referente a etapa executada da infraestrutura
+
+•    relação de lotes a serem descaucionados
+
+§ 1º.  A documentação acima será encaminhada à secretaria de infraestrtura a fim de que se manifeste sobre a infraestrutura executada e a compatibilidade do valor apresentado.
+
+ § 2º. Após compatibilização das informações, será emitido Decreto com o descaucionamento dos referidos lotes.
+
 § 3º.  O descaucionamento parcial será previsto para os casos de garantia de imóvel por escritura pública, carta fiança, seguro garantia ou qualquer outro meio permitido por Lei.”
 
 Art 43.    Fica alterado o Anexo 4 – Mapa das Zonas Básicas e Eixos de Integração, da Lei Complementar nº 124 de 14 de Dezembro de 2016, conforme anexo 1.
@@ -411,14 +436,193 @@ Art 47.    Esta Lei entra em vigor 30 (trinta) dias após a sua publicação,
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 14 de Dezembro de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito 
 
 [Anexos - LC Nº 226, DE 14 DE EZEMBRO DE 2023.](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18792)
 
 Anexo 5 – Tabela de Parâmetros, Afastamentos e Recuos
 
-<table><tbody><tr><td style=" width:105px;  height:109px;   "><b>ZONA</b></td><td style=" width:49px;  height:109px;   "><b>LOTE MÍMINO (M²)</b> <b>(E)</b></td><td style=" width:58px;  height:109px;   "><b>TESTADA MÍNIMA (M LINEAR)</b></td><td style=" width:100px;  height:109px;   "><b>COEFICIENTE DE APROVEITAMENTO BÁSICO</b></td><td style=" width:68px;  height:109px;   "><b>TAXA DE OCUPAÇÃO SUBSOLO (%) (G)</b></td><td style=" width:71px;  height:109px;   "><b>TAXA OCUPAÇÃO: TÉRREOI E PAVTO. SUPERIOR (%) – H=6,50M</b></td><td style=" width:68px;  height:109px;   "><b>TAXA DE OCUPAÇÃO TORRE (%)</b></td><td style=" width:96px;  height:109px;   "><b>TAXA DE PERMEABILIDADE (%)</b> <b>(F)</b></td><td style=" width:104px;  height:109px;   "><b>COEFICIENTE DE APROVENTAMENTO MÁXIMO</b> <b>(A)</b></td></tr><tr><td style=" width:105px;  height:16px;   "><b>ZUM I</b></td><td style=" width:49px;  height:16px;   ">180</td><td style=" width:58px;  height:16px;   ">06</td><td style=" width:100px;  height:16px;   ">01</td><td style=" width:68px;  height:16px;   ">70</td><td style=" width:71px;  height:16px;   ">70</td><td style=" width:68px;  height:16px;   ">-</td><td style=" width:96px;  height:16px;   ">15</td><td style=" width:104px;  height:16px;   ">01</td></tr><tr><td style=" width:105px;  height:15px;   "><b>ZUM II</b></td><td style=" width:49px;  height:15px;   ">180</td><td style=" width:58px;  height:15px;   ">06</td><td style=" width:100px;  height:15px;   ">01</td><td style=" width:68px;  height:15px;   ">50</td><td style=" width:71px;  height:15px;   ">50</td><td style=" width:68px;  height:15px;   ">-</td><td style=" width:96px;  height:15px;   ">30</td><td style=" width:104px;  height:15px;   ">01</td></tr><tr><td style=" width:105px;  height:16px;   "><b>ZEIS (K)</b></td><td style=" width:49px;  height:16px;   ">125</td><td style=" width:58px;  height:16px;   ">06</td><td style=" width:100px;  height:16px;   ">01</td><td style=" width:68px;  height:16px;   ">85</td><td style=" width:71px;  height:16px;   ">70</td><td style=" width:68px;  height:16px;   ">50</td><td style=" width:96px;  height:16px;   ">15</td><td style=" width:104px;  height:16px;   ">02</td></tr><tr><td style=" width:105px;  height:30px;   "><b>EIXO DE INTEGRAÇÃO I – EI-I</b></td><td style=" width:49px;  height:30px;   ">360</td><td style=" width:58px;  height:30px;   ">12</td><td style=" width:100px;  height:30px;   ">02</td><td style=" width:68px;  height:30px;   ">85</td><td style=" width:71px;  height:30px;   ">70 (d)(c)</td><td style=" width:68px;  height:30px;   ">50</td><td style=" width:96px;  height:30px;   ">15</td><td style=" width:104px;  height:30px;   ">06 (b)</td></tr><tr><td style=" width:105px;  height:46px;   "><b>EIXO DE INTEGRAÇÃO II – EI-II</b></td><td style=" width:49px;  height:46px;   ">360</td><td style=" width:58px;  height:46px;   ">12</td><td style=" width:100px;  height:46px;   ">01</td><td style=" width:68px;  height:46px;   ">85</td><td style=" width:71px;  height:46px;   ">70 (d)(c)</td><td style=" width:68px;  height:46px;   ">50</td><td style=" width:96px;  height:46px;   ">15</td><td style=" width:104px;  height:46px;   ">04 (b)</td></tr><tr><td style=" width:105px;  height:46px;   "><b>EIXO DE INTEGRAÇÃO III – EI-III</b></td><td style=" width:49px;  height:46px;   ">360</td><td style=" width:58px;  height:46px;   ">12</td><td style=" width:100px;  height:46px;   ">01</td><td style=" width:68px;  height:46px;   ">85</td><td style=" width:71px;  height:46px;   ">70 (d)(c)</td><td style=" width:68px;  height:46px;   ">50</td><td style=" width:96px;  height:46px;   ">15</td><td style=" width:104px;  height:46px;   ">03 (b)</td></tr><tr><td style=" width:105px;  height:46px;   "><b>EIXO DE DESENVOLVIMENTO ECONÔMICO (H)</b></td><td style=" width:49px;  height:46px;   ">720</td><td style=" width:58px;  height:46px;   ">20</td><td style=" width:100px;  height:46px;   ">01</td><td style=" width:68px;  height:46px;   ">85</td><td style=" width:71px;  height:46px;   ">70 (d)</td><td style=" width:68px;  height:46px;   ">50</td><td style=" width:96px;  height:46px;   ">15</td><td style=" width:104px;  height:46px;   ">02 (b)</td></tr><tr><td style=" width:105px;  height:15px;   "><b>ZDE (H)</b></td><td style=" width:49px;  height:15px;   ">1000</td><td style=" width:58px;  height:15px;   ">20</td><td style=" width:100px;  height:15px;   ">01</td><td style=" width:68px;  height:15px;   ">85</td><td style=" width:71px;  height:15px;   ">70</td><td style=" width:68px;  height:15px;   ">50</td><td style=" width:96px;  height:15px;   ">15</td><td style=" width:104px;  height:15px;   ">02</td></tr><tr><td style=" width:105px;  height:15px;   "><b>ZEPA II (I) (J)</b></td><td style=" width:49px;  height:15px;   ">250</td><td style=" width:58px;  height:15px;   ">08</td><td style=" width:100px;  height:15px;   ">01</td><td style=" width:68px;  height:15px;   ">-</td><td style=" width:71px;  height:15px;   ">50</td><td style=" width:68px;  height:15px;   ">-</td><td style=" width:96px;  height:15px;   ">30</td><td style=" width:104px;  height:15px;   ">01</td></tr></tbody></table>
+**ZONA**
+
+**LOTE MÍMINO (M²)(E)**
+
+**TESTADA MÍNIMA (M LINEAR)**
+
+**COEFICIENTE DE APROVEITAMENTO BÁSICO**
+
+**TAXA DE OCUPAÇÃO SUBSOLO (%) (G)**
+
+**TAXA OCUPAÇÃO: TÉRREOI E PAVTO. SUPERIOR (%) – H=6,50M**
+
+**TAXA DE OCUPAÇÃO TORRE (%)**
+
+**TAXA DE PERMEABILIDADE (%)(F)**
+
+**COEFICIENTE DE APROVENTAMENTO MÁXIMO(A)**
+
+**ZUM I**
+
+180
+
+06
+
+01
+
+70
+
+70
+
+-
+
+15
+
+01
+
+**ZUM II**
+
+180
+
+06
+
+01
+
+50
+
+50
+
+-
+
+30
+
+01
+
+**ZEIS (K)**
+
+125
+
+06
+
+01
+
+85
+
+70
+
+50
+
+15
+
+02
+
+**EIXO DE INTEGRAÇÃO I – EI-I**
+
+360
+
+12
+
+02
+
+85
+
+70 (d)(c)
+
+50
+
+15
+
+06 (b)
+
+**EIXO DE INTEGRAÇÃO II – EI-II**
+
+360
+
+12
+
+01
+
+85
+
+70 (d)(c)
+
+50
+
+15
+
+04 (b)
+
+**EIXO DE INTEGRAÇÃO III – EI-III**
+
+360
+
+12
+
+01
+
+85
+
+70 (d)(c)
+
+50
+
+15
+
+03 (b)
+
+**EIXO DE DESENVOLVIMENTO ECONÔMICO (H)**
+
+720
+
+20
+
+01
+
+85
+
+70 (d)
+
+50
+
+15
+
+02 (b)
+
+**ZDE (H)**
+
+1000
+
+20
+
+01
+
+85
+
+70
+
+50
+
+15
+
+02
+
+**ZEPA II (I) (J)**
+
+250
+
+08
+
+01
+
+-
+
+50
+
+-
+
+30
+
+01
 
 (a)    Coeficiente de Aproveitamento Máximo permitido para a edificação, válido para as áreas computáveis.
 
@@ -444,4 +648,4 @@ Anexo 5 – Tabela de Parâmetros, Afastamentos e Recuos
 
 Considerações Gerais:
 
-\*1- A aprovação de empreendimentos sobre lotes de área igual ou maior do que 5.000m² (cinco mil metros quadrados) obrigatoriamente estará sujeita a Estudo de Impacto de Vizinhança –EIV e, eventualmente, outros estudos e laudos complementares solicitados pelos órgãos competentes. Os empreendimentos, porém, não poderão ser aprovados sobre lotes de área superior à de uma quadra, estabelecidos a continuidade do sistema viário existente e projetado. As dimensões máximas das quadras urbanas, assim como as exceções ao tamanho máximo de empreendimentos permitidos são abordados no Capítulo de Parcelamento do Solo desta Lei.<br>
+\*1- A aprovação de empreendimentos sobre lotes de área igual ou maior do que 5.000m² (cinco mil metros quadrados) obrigatoriamente estará sujeita a Estudo de Impacto de Vizinhança –EIV e, eventualmente, outros estudos e laudos complementares solicitados pelos órgãos competentes. Os empreendimentos, porém, não poderão ser aprovados sobre lotes de área superior à de uma quadra, estabelecidos a continuidade do sistema viário existente e projetado. As dimensões máximas das quadras urbanas, assim como as exceções ao tamanho máximo de empreendimentos permitidos são abordados no Capítulo de Parcelamento do Solo desta Lei.

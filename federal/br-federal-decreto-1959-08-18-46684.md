@@ -1,5 +1,3 @@
-###DEC-046684-0-000-18-08-1959@@@
-
 DECRETO Nº 46.684, DE 18 DE AGÔSTOD E 1959.
 
 Outorga concessão à Rádio Guarathan Sociedade Anônima para estabelecer uma estação radiodifusora.

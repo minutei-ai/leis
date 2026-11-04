@@ -1,5 +1,3 @@
-###DEL-001935-0-000-20-04-1982@@@
-
 # Decreto-lei nº 1.935, de 20 dE abril de 1982
 
 Revigora, até 31 de dezembro de 1982, as disposições do Decreto-lei nº 1.627, de 02 de junho de 1978.

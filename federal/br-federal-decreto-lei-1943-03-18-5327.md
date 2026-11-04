@@ -1,5 +1,3 @@
-###DEL-005327-0-000-18-03-1943@@@
-
 DECRETO‑LEI N. 5.327 – DE 18 DE MARÇO DE 1943
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 19.558,00 para liquidação de despesas

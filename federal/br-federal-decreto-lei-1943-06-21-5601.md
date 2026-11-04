@@ -1,5 +1,3 @@
-###DEL-005601-0-000-21-06-1943@@@
-
 DECRETO‑LEI N. 5.601 – DE 21 DE JUNHO DE 1943
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 2.000.000,00, para despesas com a proprganda das "Obrigações de Guerra”

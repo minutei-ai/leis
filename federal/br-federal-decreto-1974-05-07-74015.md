@@ -1,5 +1,3 @@
-###DEC-074015-0-000-07-05-1974@@@
-
 DECRETO Nº 74.015, DE 7 DE MAIO DE 1974.
 
 Concede reconhecimento ao curso de Graduação em Educação Física da Escola Municipal de Educação Física de Presidente Prudente, Estado de São Paulo.

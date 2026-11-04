@@ -1,5 +1,3 @@
-###DEL-009135-0-000-05-04-1946@@@
-
 DECRETO-LEI N. 9.135 – DE 5 DE ABRIL DE 1946
 
 Cria o quadro único do Funcionalismo civil do Território Federal de  ponta Porá.

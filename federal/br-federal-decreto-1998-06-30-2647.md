@@ -1,5 +1,3 @@
-###DEC-002647-0-000-30-06-1998@@@
-
 DECRETO Nº 2.647, DE 30 DE JUNHO DE 1998
 
 Cria a Nota do Tesouro Nacional série U - NTN-U.

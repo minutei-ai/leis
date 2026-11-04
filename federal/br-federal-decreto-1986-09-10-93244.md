@@ -1,5 +1,3 @@
-###DEC-093244-0-000-10-09-1986@@@
-
 DECRETO Nº 93.244, DE 10 DE SETEMBRO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - DNOCS - área de terra abrangida pela bacia hidráulica e faixa seca do Açude Público ''EDSON QUEIROZ'', ex-SERROTE, no Município de Santa Quitéria, Estado do Ceará, para a execução do Programa de Irrigação do Nordeste - PROINE, e dá outras providências.

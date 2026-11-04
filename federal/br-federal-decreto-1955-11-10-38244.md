@@ -1,14 +1,12 @@
-###DEC-038244-0-000-10-11-1955@@@
+**DECRETO Nº 38.244, DE 10 DE NOVEMBRO DE 1955.**
 
-<strong>DECRETO Nº 38.244, DE 10 DE NOVEMBRO DE 1955.</strong>
+***Suprime cargos provisórios e extintos, e extingue cargos excedentes, dos Quadros Permanente e Suplementar do Ministério da Agricultura.***
 
-<em><strong>Suprime cargos provisórios e extintos, e extingue cargos excedentes, dos Quadros Permanente e Suplementar do Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA CÂMARA DOS DEPUTADOS**, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, item I, da Constituição e nos têrmos do artigo 1º, alínea *n*, do Decreto-lei número 3.195, de 14 de abril de 1941,
 
-<strong>O PRESIDENTE DA CÂMARA DOS DEPUTADOS</strong>, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, item I, da Constituição e nos têrmos do artigo 1º, alínea <em>n</em>, do Decreto-lei número 3.195, de 14 de abril de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam suprimidos os seguintes cargos no Ministério da Agricultura:
+**Art**. 1º Ficam suprimidos os seguintes cargos no Ministério da Agricultura:
 
 I - No Quadro Permanente:
 
@@ -102,7 +100,7 @@ j) Na carreira de Prático de Laboratório:
 
 3 - 1 (um) cargo extinto da classe F, vago em virtude da promoção de Hermani Monteiro da Silva.
 
-<strong>Art</strong>. 2º Ficam extintos, na carreira de Desenhista do Quadro Permanente do mesmo Ministério os seguintes cargos:
+**Art**. 2º Ficam extintos, na carreira de Desenhista do Quadro Permanente do mesmo Ministério os seguintes cargos:
 
 1 - 3 (três) cargos excedentes da classe I, vagos em virtude da promoção de Carlos Leal Lacerda, Paulo Benjamim de Viveiros e José Pedro de castro;
 
@@ -112,12 +110,12 @@ j) Na carreira de Prático de Laboratório:
 
 4 - 1 (um) cargo excedente da classe I, vago em virtude da exoneração de Antônio José de Matos Musso.
 
-<strong>Art</strong>. 3º As dotações correspondentes às supressões e extinções de cargos, a que se refere o presente decreto, serão levados a crédito da conta corrente do respectivo Quadro.
+**Art**. 3º As dotações correspondentes às supressões e extinções de cargos, a que se refere o presente decreto, serão levados a crédito da conta corrente do respectivo Quadro.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 10 de novembro de 1955; 134º da Independência e 67 da República.
 
-<strong>CARLOS COIMBRA DA LUZ</strong>
+**CARLOS COIMBRA DA LUZ**
 
 Munhoz da Rocha

@@ -1,5 +1,3 @@
-###DEC-070951-0-000-09-08-1972@@@
-
 DECRETO Nº 70.951, DE 9 DE AGOSTO DE 1972.
 
 Regulamenta a Lei nº 5.768, de 20 de dezembro de 1971, que dispõe sobre a distribuição gratuita de prêmios, mediante sorteio, vale-brinde ou concurso, a título de propaganda, e estabelece normas de proteção à poupança popular.
@@ -555,8 +553,6 @@ Brasília, 9 de agosto de 1972; 151º da Independência e 84º da República.
 emílio g. médici
 
 Antônio Delfim Netto
-
-###DEC-070951-0-000-09-08-1972@@@
 
 DECRETO Nº 70.951, DE 9 DE AGOSTO DE 1972.
 

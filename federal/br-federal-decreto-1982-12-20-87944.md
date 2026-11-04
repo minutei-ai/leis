@@ -1,5 +1,3 @@
-###DEC-087944-0-000-20-12-1982@@@
-
 decreto nº 87.944, de 20 de dezembro de 1982
 
 Estabelece o limite do Capital Autorizado da Petrobrás Química S.A. - PETROQUISA.

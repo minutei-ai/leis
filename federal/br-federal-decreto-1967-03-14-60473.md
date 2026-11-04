@@ -1,5 +1,3 @@
-###DEC-060473-0-000-14-03-1967@@@
-
 Decreto nº 60.473, de 14 de março de 1967.
 
 Institui uma Comissão Interministerial para a elaboração da regulamentação do Decreto-lei nº 127, de 31 de janeiro de 1967.

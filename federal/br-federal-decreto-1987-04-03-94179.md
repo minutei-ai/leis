@@ -1,5 +1,3 @@
-###DEC-094179-0-000-03-04-1987@@@
-
 DECRETO N° 94.179, DE 3 DE ABRIL DE 1987
 
 Dispõe sobre o abastecimento nacional de derivados de petróleo e álcool etílico combustível, e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209151)<br>
-
 # DECRETO N° 68.361, DE 01 DE MARÇO DE 2024
 
 ### _Institui a Medalha do Mérito da Comunicação Social da Polícia Militar do Estado de São Paulo e dá providências correlatas._

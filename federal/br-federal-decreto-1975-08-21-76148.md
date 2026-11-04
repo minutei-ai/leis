@@ -1,5 +1,3 @@
-###DEC-076148-0-000-21-08-1975@@@
-
 DECRETO Nº 76.148 - DE 21 DE AGOSTO DE 1975
 
 Concede reconhecimento aos cursos de Administração e de Ciências Contábeis da Faculdade de Ciências Administrativas de Joinville, mantida pela Fundação Joinvillense de Ensino, com sede na cidade de Joinville, Estado de Santa Catarina.

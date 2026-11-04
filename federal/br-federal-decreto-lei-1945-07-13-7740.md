@@ -1,5 +1,3 @@
-###DEL-007740-0-000-13-07-1945@@@
-
 DECRETO-LEI N. 7.740 – DE 13 DE JULHO DE 1945
 
 Altera carreiras dos Quadros I e Vl do Ministério da Viação e Obras Públicas, e dá outras providências.

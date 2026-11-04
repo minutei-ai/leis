@@ -1,5 +1,3 @@
-###DEC-083105-0-000-29-01-1979@@@
-
 Decreto nº 83.105, de 29 de janeiro de 1979
 
 Concede reconhecimento aos cursos de Desenho Industrial, de Comunicação Visual e de Comunicação Social da Faculdade de Artes e Comunicação, com sede na cidade de Bauru, Estado de São Paulo.

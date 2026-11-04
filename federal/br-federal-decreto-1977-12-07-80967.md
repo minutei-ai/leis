@@ -1,5 +1,3 @@
-###DEC-080967-0-000-07-12-1977@@@
-
 Decreto nº 80.967, de 07 de dezembro de 1977.
 
 Declara de utilidade pública, para fins de desapropriação, o terreno que menciona, situado no Município de Anápolis, no Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-091068-0-000-12-03-1985@@@
-
 Decreto nº 91.068 de 12 de março de 1985.
 
 Declara luto oficial.

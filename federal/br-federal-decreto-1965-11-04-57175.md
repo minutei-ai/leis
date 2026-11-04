@@ -1,5 +1,3 @@
-###DEC-057175-0-000-04-11-1965@@@
-
 decreto nº 57.175, de 04 de novembro de 1965.
 
 Dá nova redação a dispositivos do Decreto nº 37.406, de 31 de maio de 1955, que institui a “Medalha Marechal Hermes - Aplicação e Estudo” e revoga decretos.

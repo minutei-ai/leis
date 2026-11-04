@@ -1,5 +1,3 @@
-###DEC-061962-0-000-22-12-1967@@@
-
 decreto nº 61.962, de 22 de dezembro de 1967.
 
 Declara extinta a Caixa de Amortização do Ministério da Fazenda e dá outras providências.

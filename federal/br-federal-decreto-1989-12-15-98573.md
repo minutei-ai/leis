@@ -1,7 +1,3 @@
-1
-
-###DEC-098573-0-000-15-12-1989@@@
-
 DECRETO Nº 98.573, DE 15 DE DEZEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “CARIMÃ/SANTIAGO/JATOBÁ D'ÁGUA”, situado no Município de José de Freitas, Estado do Piauí, e dá outras providências.

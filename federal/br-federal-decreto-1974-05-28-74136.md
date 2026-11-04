@@ -1,5 +1,3 @@
-###DEC-074136-0-000-28-05-1974@@@
-
 DECRETO Nº 74.136, DE 28 DE MAIO DE 1974.
 
 Aproveita funcionários no Quadro de Pessoal - Parte Permanente - do Ministério da Fazenda e dá outras providências.

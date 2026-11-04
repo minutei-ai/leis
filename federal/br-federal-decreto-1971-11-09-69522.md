@@ -1,5 +1,3 @@
-###DEC-069522-0-000-09-11-1971@@@
-
 DECRETO Nº 69.522 - DE 9 DE NOVEMBRO DE 1971
 
 Declara de utilidade pública, para fins de desapropriação, imóveis situados nas linhas de Guarapari e em parte da Ilha Cananéia, no litoral do Estado de São Paulo.

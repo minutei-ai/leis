@@ -1,5 +1,3 @@
-###DEC-066946-0-000-23-07-1970@@@
-
 DECRETO Nº 66.946, DE 23 DE JULHO DE 1970.
 
 Altera dispositivo do Decreto número 65.683, de 31 de outubro de 1969, que regulamenta o Decreto-lei número 1.066, de 29 de outubro de 1969.

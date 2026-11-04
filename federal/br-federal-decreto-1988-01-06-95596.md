@@ -1,7 +1,3 @@
-1
-
-###DEC-095596-0-000-06-01-1988@@@
-
 DECRETO N° 95.596, DE 6 DE JANEIRO DE 1988
 
 Dispõe sobre a execução do Terceiro Protocolo Adicional ao Acordo Comercial n ° 5, no Setor da Indústria Química.

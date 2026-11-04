@@ -1,5 +1,3 @@
-###DEC-094250-0-000-22-04-1987@@@
-
 DECRETO Nº 94.250, DE 22 DE ABRIL DE 1987
 
 Autoriza o funcionamento da Universidade Estadual do Sudoeste da Bahia.

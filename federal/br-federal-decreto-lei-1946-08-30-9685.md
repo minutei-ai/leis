@@ -1,5 +1,3 @@
-###DEL-009685-0-000-30-08-1946@@@
-
 DECRETO-LEI N. 9.685 – DE 30 DE AGÔSTO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a realizar, com a Caixa Econômica Federal do Rio de Janeiro, a operação de crédito que menciona, e dá outras providências.

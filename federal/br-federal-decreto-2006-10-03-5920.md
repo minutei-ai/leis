@@ -1,5 +1,3 @@
-###DEC-005920-0-000-03-10-2006@@@
-
 DECRETO Nº 5.920, DE 3 DE OUTUBRO DE 2006.
 
 Institui a hora de verão, em parte do território nacional, no período que indica.
@@ -19,5 +17,3 @@ Brasília, 3 de outubro de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
           Silas Rondeau Cavalcante Silva
-
-Este texto não substitui o publicado no D.O.U. de 4.10.2006.

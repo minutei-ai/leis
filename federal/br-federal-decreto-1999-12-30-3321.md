@@ -1,5 +1,3 @@
-###DEC-003321-0-000-30-12-1999@@@
-
 DECRETO Nº 3.321, DE 30 DE DEZEMBRO DE 1999.
 
 Promulga o Protocolo Adicional à Convenção Americana sobre Direitos Humanos em Matéria de Direitos Econômicos, Sociais e Culturais "Protocolo de São Salvador", concluído em 17 de novembro de 1988, em São Salvador, El Salvador.

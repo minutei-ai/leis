@@ -1,5 +1,3 @@
-###DEC-069676-0-000-03-12-1971@@@
-
 Decreto nº 69.676 - de 3 dezembro de 1971
 
 Redistribui cargo, com o respectivo ocupante, para o Instituto Brasileiro de Desenvolvimento Florestal, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-004422-0-000-30-06-1942@@@
-
 DECRETO-LEI N. 4.422 – DE 30 JUNHO DE 1942
 
 Cria o Serviço de Documentação no Departamento de Administração, da Secretaria de Estado do Ministério das Relações Exteriores e dá outras providências

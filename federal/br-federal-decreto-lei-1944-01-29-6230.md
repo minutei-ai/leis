@@ -1,5 +1,3 @@
-###DEL-006230-0-000-29-01-1944@@@
-
 DECRETO-LEI N. 6.230 – DE 29 DE JANEIRO DE 1944
 
 Dispõe sôbre a formação do capital de emprêsas de mineração e dá outras providências

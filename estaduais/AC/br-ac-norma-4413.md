@@ -1,6 +1,10 @@
 > **LEI Nº 3.721, DE 06 DE ABRIL DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.674, de 31 de dezembro de 2020, que institui o Fundo Especial para a recuperação da Bacia do Igarapé São Francisco.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.674, de 31 de dezembro de 2020, que institui o Fundo Especial para a recuperação da Bacia do Igarapé São Francisco.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

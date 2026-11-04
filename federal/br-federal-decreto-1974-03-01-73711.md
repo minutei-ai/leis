@@ -1,5 +1,3 @@
-###DEC-073711-0-000-01-03-1974@@@
-
 DECRETO Nº 73.711, DE 1 DE MARÇO DE 1974.
 
 Autoriza o Ministro da Fazenda a negociar e a contratar, em nome da União Federal, um empréstimo, em moeda estrangeira, com o Banco interamericano de Desenvolvimento para o fim que menciona.

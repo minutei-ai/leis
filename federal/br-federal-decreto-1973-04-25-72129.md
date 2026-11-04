@@ -1,5 +1,3 @@
-###DEC-072129-0-000-25-04-1973@@@
-
 DECRETO Nº 72.129, DE 25 DE ABRIL DE 1973.
 
 Concede reconhecimento à Universidade de Mogi das Cruzes, mantida pela Organização Mogiana de Educação e Cultura, na cidade de Mogi das Cruzes - SP.

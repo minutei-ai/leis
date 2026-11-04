@@ -1,5 +1,3 @@
-###DEC-051935-A-000-26-04-1963@@@
-
 DECRETO Nº  51.935 - A, DE 26 dE abril de 1963
 
 Autoriza a Êmpresa de Caolim Limitada a lavrar areia quartzosa, na Restinga de Jacarepaguá, Estado da Guanabara.

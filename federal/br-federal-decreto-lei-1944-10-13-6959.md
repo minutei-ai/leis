@@ -1,5 +1,3 @@
-###DEL-006959-0-000-13-10-1944@@@
-
 DECRETO-LEI N. 6.959 – DE 13 DE OUTUBRO DE 1944
 
 Abre crédito suplementar ao Ministério da Educação e Saúde

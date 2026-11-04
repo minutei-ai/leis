@@ -1,5 +1,3 @@
-###DEC-006088-0-000-23-04-2007@@@
-
 DECRETO Nº 6.088, DE 23 DE ABRIL DE 2007.
 
 Dispõe sobre a execução do Sexagésimo Quinto Protocolo Adicional  ao Acordo de Complementação Econômica no 2, entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 29 de dezembro de 2006.
@@ -22,11 +20,7 @@ Brasília,  23 de  abril de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 24.4.2007
-
-ACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 2 CELEBRADO
+Celso Luiz Nunes AmorimACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 2 CELEBRADO
 
 ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA
 

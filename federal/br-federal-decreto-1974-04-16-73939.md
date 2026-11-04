@@ -1,5 +1,3 @@
-###DEC-073939-0-000-16-04-1974@@@
-
 DECRETO Nº 73.939, DE 16 DE ABRIL DE 1974.
 
 Concede à Itamármore - Empresa de Mineração Ltda. o direito de lavrar mármore no Município de Cachoeiro do Itapemirim, Estado do Espírito Santo.

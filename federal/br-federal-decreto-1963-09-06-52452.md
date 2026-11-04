@@ -1,5 +1,3 @@
-###DEC-052452-0-000-06-09-1963@@@
-
 DECRETO Nº 52.452, DE 6 DE SETEMBRO DE 1963.
 
 Declara de utilidade pública a “Sociedade Beneficente Hospitalar Paroquial São Pedro de Garibaldi” com sede em Garibaldi, Estado do Rio Grande do Sul.

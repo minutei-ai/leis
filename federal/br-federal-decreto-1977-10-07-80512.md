@@ -1,5 +1,3 @@
-###DEC-080512-0-000-07-10-1977@@@
-
 DECRETO Nº 80.512, DE 7 DE OUTUBRO DE 1977.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado em Bonsucesso, no Estado do Rio de Janeiro.

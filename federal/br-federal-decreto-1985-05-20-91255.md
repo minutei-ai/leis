@@ -1,5 +1,3 @@
-###DEC-091255-0-000-20-05-1985@@@
-
 Decreto nº 91.255, de 20 de maio 1985
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de serviço administrativa e/ou passagem, em favor de Petróleo Brasileiro S/A - PETROBRÁS, imóveis constituídos de terras, acessões e benfeitorias, de propriedade particular que menciona.

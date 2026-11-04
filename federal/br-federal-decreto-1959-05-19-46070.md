@@ -1,5 +1,3 @@
-###DEC-046070-0-000-19-05-1959@@@
-
 DECRETO Nº 46.070, DE 19 DE MAIO DE 1959.
 
 Revoga o Decreto nº 21.989, de 25 de outubro de 1946.

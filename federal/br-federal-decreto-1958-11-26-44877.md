@@ -1,5 +1,3 @@
-###DEC-044877-0-000-26-11-1958@@@
-
 decreto nº 44.877, de 26 de novembro de 1958.
 
 Concede, em caráter permanente, autorização para Usina Colombina S.A., estabelecida em S. Caetano do Sul, funcionar aos domingos e nos feriados civis e religiosos.

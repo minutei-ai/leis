@@ -1,7 +1,3 @@
-1
-
-###DEC-000543-0-000-27-05-1992@@@
-
 DECRETO Nº 543, DE 27 DE MAIO DE 1992
 
 Dá nova redação ao art. 3º do Decreto nº 74.557, de 12 de setembro de 1974, que cria a Comissão Interministerial para os Recursos do Mar - CIRM.

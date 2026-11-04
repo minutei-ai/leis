@@ -102,11 +102,14 @@ Art. 7º - Revoga-se o Decreto “N” nº 67, de 06 de fevereiro de 2024.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 22 de março de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo
 
-VALÉRIA PETTERSEN<br>
+VALÉRIA PETTERSEN
+
 Secretária de Meio Ambiente e Sustentabilidade

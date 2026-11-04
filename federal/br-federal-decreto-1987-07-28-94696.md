@@ -1,5 +1,3 @@
-###DEC-094696-0-000-28-07-1987@@@
-
 DECRETO Nº 94.696, DE 28 DE JULHO DE 1987.
 
 Outorga concessão à RÁDIO CAMPO MAIOR DE QUIXERAMOBIM LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Quixeramobim, Estado do Ceará.

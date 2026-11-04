@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/553adf3f-6784-4ecc-9971-55a5fa855e46/texto#nowhere)
 
-###DEL-000515-0-000-07-04-1969@@@
-
 DECRETO-LEI nº 515, DE 7 DE ABRIL DE 1969
 
 Define a emprêsa individual nas atividades imobiliárias.

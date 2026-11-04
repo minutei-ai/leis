@@ -1,5 +1,3 @@
-###DEC-066830-0-000-03-07-1970@@@
-
 DECRETO Nº 66.830, DE 3 DE JULHO DE 1970.
 
 Redistribui, com o respectivo ocupante para o Quadro de Pessoal - Parte Permanente - do Departamento Administrativo do Pessoal Civil, cargo originário da Administração do Pôrto do Rio de Janeiro.

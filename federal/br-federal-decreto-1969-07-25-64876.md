@@ -1,5 +1,3 @@
-###DEC-064876-0-000-25-07-1969@@@
-
 DECRETO Nº 64.876 - DE 25 DE JULHO DE 1969.
 
 Declara caduco o Decreto número 25.693, de 19 de outubro de 1948.

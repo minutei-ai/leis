@@ -1,5 +1,3 @@
-###DEC-067362-0-000-07-10-1970@@@
-
 DECRETO Nº 67.362, DE 7 DE OUTUBRO DE 1970.
 
 Declara caduco o decreto número 24.744, de 2 de abril de 1948.

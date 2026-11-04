@@ -1,5 +1,3 @@
-###DEC-068955-0-000-20-07-1971@@@
-
 DECRETO Nº 68.955, DE 20 DE JULHO DE 1971.
 
 Declara de utilidade pública a Casa de Santo Antônio, com sede em Belo Horizonte, Estado de Minas Gerais.

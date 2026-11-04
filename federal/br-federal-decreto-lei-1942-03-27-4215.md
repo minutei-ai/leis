@@ -1,5 +1,3 @@
-###DEL-004215-0-000-27-03-1942@@@
-
 DECRETO-LEI N. 4.215 – DE 27 DE MARÇO DE 1942
 
 Cria uma coletoria federal no município de Inhapim, no Estado de Minas Gerais, e dá outras providências.

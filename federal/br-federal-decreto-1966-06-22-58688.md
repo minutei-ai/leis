@@ -1,5 +1,3 @@
-###DEC-058688-0-000-22-06-1966@@@
-
 DECRETO Nº 58.688, DE 22 DE JUNHO DE 1966.
 
 Concede à Mineração Delta Ltda. autorização para funcionar como emprêsa de mineração.

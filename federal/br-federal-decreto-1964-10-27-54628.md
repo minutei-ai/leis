@@ -1,5 +1,3 @@
-###DEC-054628-0-000-27-10-1964@@@
-
 DECRETO Nº 54.628, DE 27 DE OUTUBRO DE 1964.
 
 Outorga ao Município de Itabi, Estado de Sergipe, concessão para distribuir energia elétrica.

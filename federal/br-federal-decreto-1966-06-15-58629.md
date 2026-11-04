@@ -1,5 +1,3 @@
-###DEC-058629-0-000-15-06-1966@@@
-
 DECRETO Nº 58.629, DE 15 DE JULHO DE 1966.
 
 Autoriza o cidadão brasileiro Jair de Oliveira Rosa a pesquisar calcário no município de Salto de Pirapora, Estado de São Paulo.

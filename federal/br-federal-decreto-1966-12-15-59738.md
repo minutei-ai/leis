@@ -1,5 +1,3 @@
-###DEC-059738-0-000-15-12-1966@@@
-
 DECRETO Nº 59.738, DE 15 DE DEZEMBRO DE 1966.
 
 Concede à ITASIL - Extração de Minérios Ltda. autorização para funcionar como emprêsa de mineração.

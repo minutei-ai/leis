@@ -1,5 +1,3 @@
-###DEC-005129-0-000-06-07-2004@@@
-
 DECRETO Nº 5.129, DE 6 DE JULHO DE 2004.
 
        Dispõe sobre a Patrulha Naval e dá outras providências.
@@ -58,5 +56,6 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
         Brasília, 6 de julho de 2004; 183º da Independência e 116º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 José Viegas Filho

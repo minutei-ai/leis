@@ -1,5 +1,3 @@
-###DEC-005158-0-000-27-07-2004@@@
-
 DECRETO Nº 5.158, DE 27 DE JULHO DE 2004
 
 Dispõe sobre a execução no Território Nacional da Resolução nº 1.526, de 30 de janeiro de 2004, do Conselho de Segurança das Nações Unidas, que altera o regime de sanções à organização Al Qaeda e ao Talibã.

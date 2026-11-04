@@ -1,5 +1,3 @@
-###DEC-052673-0-000-11-10-1963@@@
-
 DECRETO Nº 52.673, DE 11 DE OUTUBRO DE 1963.
 
 Abre ao Ministério da Guerra, o crédito especial de Cr$885.343,90, para ocorrer a despesa que especifica.

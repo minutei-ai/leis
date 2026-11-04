@@ -1,7 +1,3 @@
-1
-
-###DEL-002465-0-000-31-08-1988@@@
-
 # DECRETO‑LEI N° 2.465, DE 31 DE AGOSTO DE 1988
 
 Dispõe sobre medidas para redução de despesas com pessoal nos órgãos da Administração  Federais direta e autarquias federais e dá outras providências.

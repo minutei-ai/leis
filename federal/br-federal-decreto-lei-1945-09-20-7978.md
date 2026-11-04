@@ -1,5 +1,3 @@
-###DEL-007978-0-000-20-09-1945@@@
-
 DECRETO-LEI N. 7.978 – DE 20 DE SETEMBRO DE 1945
 
 Dispõe sôbre consignações em fôlhas de pagamento dos ex- funcionários e ex-extranumerários do Departamento Estadual do Trabalho, que, em virtude do disposto no Decreto-lei nº 7.128, de 7 de dezembro de 1944, passaram à condição de servidores públicos federais.

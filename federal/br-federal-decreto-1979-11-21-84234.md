@@ -1,5 +1,3 @@
-###DEC-084234-0-000-21-11-1979@@@
-
 Decreto nº 84.234, de 21 de novembro de 1979.
 
 Dispõe sobre a progressão funcional às categorias funcionais de Delegado de Polícia Federal, Perito Criminal e Técnico de Censura, integrantes do Grupo - Polícia Federal, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-053755-0-000-19-03-1964@@@
-
 DECRETO Nº 53.755, DE 19 DE MARÇO DE 1964.
 
 Restringe a zona de concessão do Município de Anicuns, Estado de Goiás, e dá outras providências.

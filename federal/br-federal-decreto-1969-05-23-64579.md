@@ -1,5 +1,3 @@
-###DEC-064579-0-000-23-05-1969@@@
-
 DECRETO Nº 64.579, DE 23 DE MAIO DE 1969.
 
 Regulamenta o Decreto-lei nº 592, de 23 de maio de 1969.

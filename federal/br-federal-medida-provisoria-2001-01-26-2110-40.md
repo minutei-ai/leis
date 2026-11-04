@@ -1,5 +1,3 @@
-###MPV-002110-0-040-26-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.110-40, DE 26 DE JANEIRO DE 2001
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

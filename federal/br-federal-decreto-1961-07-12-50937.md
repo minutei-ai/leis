@@ -1,5 +1,3 @@
-###DEC-050937-0-000-12-07-1961@@@
-
 Decreto nº 50.937, de 12 de julho de 1961.
 
 Autoriza estrangeiros a adquirir em revigoração de aforamento, o domínio útil, do terreno de marinha que menciona, no Estado do Rio de Janeiro.

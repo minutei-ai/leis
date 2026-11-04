@@ -1,5 +1,3 @@
-###DEC-046005-0-000-16-05-1959@@@
-
 DECRETO Nº 46.005, DE 16 DE MAIO DE 1959.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terreno necessário à construção ferroviária Brasília-Surubi, no Estado de Goiás.

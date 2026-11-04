@@ -1,5 +1,3 @@
-###MPV-000107-0-000-10-02-2003@@@
-
 MEDIDA PROVISÓRIA Nº 107, DE 10 DE FEVEREIRO 2003.
 
 Altera dispositivos das Leis nos 10.637, de 30 de dezembro de 2002, e 9.317, de 5 de dezembro de 1996, e dá outras providências.

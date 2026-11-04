@@ -1,5 +1,3 @@
-###DEC-078965-0-000-16-12-1976@@@
-
 DECRETO Nº 78.965, DE 16 DE DEZEMBRO DE 1976.
 
 Cria o registro de obras musicais gravadas ou fixadas em qualquer tipo de suporte material, acrescenta inciso ao artigo 74 do Regulamento aprovado pelo Decreto nº 20.493, de 24 de janeiro de 1946, parágrafo ao artigo 41 do Decreto nº 61.123, de 1º de agosto de 1967, e dá outras providências.

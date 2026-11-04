@@ -1,5 +1,3 @@
-###DEC-050615-0-000-18-05-1961@@@
-
 DECRETO Nº 50.615, DE 18 DE MAIO DE 1961.
 
 Suprime cargo extinto.

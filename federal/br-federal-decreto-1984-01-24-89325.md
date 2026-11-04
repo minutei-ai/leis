@@ -1,5 +1,3 @@
-###DEC-089325-0-000-24-01-1984@@@
-
 Decreto nº 89.325, de 24 de janeIro de 1984.
 
 Autoriza a concessão de dispensa de juros de mora e multas relativos ao Imposto sobre Circulação de Mercadorias devido nos Territórios Federais do Amapá e de Roraima, bem assim o parcelamento de créditos tributários da mesma origem.

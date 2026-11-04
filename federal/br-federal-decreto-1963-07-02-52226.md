@@ -1,5 +1,3 @@
-###DEC-052226-0-000-02-07-1963@@@
-
 decreto nº 52.226, de 2 de julho de 1963.
 
 Autoriza o cidadão brasileiro Virgílio Calegari a pesquisar dolomita e feldspato no município de Taubaté, Estado de São Paulo.

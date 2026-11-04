@@ -137,7 +137,3 @@ Manoel da Silva Costa Júnior
 Olavo Bilac Pinto Neto
 
 Wilson Nélio Brumer
-
-\-------------------------------------------------
-
-Data da última atualização: 13/6/2013.

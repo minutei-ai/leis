@@ -1,5 +1,3 @@
-###DEC-089267-0-000-30-12-1983@@@
-
 Decreto nº 89.267, de 30 de deZeMbro de 1983
 
 Altera a escolaridade para o ingresso na classe inicial de Auxiliar Operacional de Defesa Florestal.

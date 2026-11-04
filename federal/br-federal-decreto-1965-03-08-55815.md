@@ -1,5 +1,3 @@
-###DEC-055815-0-000-08-03-1965@@@
-
 DECRETO Nº 55.815, DE 8 DE MARCO DE 1965.
 
 Estabelece normas para a escrituração dos registros criados pela Lei numero 4.591, de 16 de dezembro de 1964, que dispõe sôbre Condomínio e Incorporações Imobiliárias, no Registro Geral de Imóveis.

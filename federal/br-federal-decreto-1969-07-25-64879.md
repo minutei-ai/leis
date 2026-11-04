@@ -1,5 +1,3 @@
-###DEC-064879-0-000-25-07-1969@@@
-
 DECRETO Nº 64.879 - DE 25 DE JULHO DE 1969.
 
 Declara caduco o Decreto nº 14.541 de 19 de janeiro de 1944.

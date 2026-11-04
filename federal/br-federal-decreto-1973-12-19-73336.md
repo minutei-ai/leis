@@ -1,5 +1,3 @@
-###DEC-073336-0-000-19-12-1973@@@
-
 decreto nº 73.336 - de 19 de dezembro de 1973
 
 Concede permissão em caráter permanente, à Companhia de Papéis e Papelão "Yazbek", sediada no município de Embu, no Estado de São Paulo, para funcionar aos domingos e nos dias de feriados civis e religiosos.

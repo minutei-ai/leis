@@ -1,32 +1,30 @@
-###DEC-060184-0-000-08-02-1967@@@
+**DECRETO Nº 60.184, DE 8 DE FEVEREIRO DE 1967.**
 
-<strong>DECRETO Nº 60.184, DE 8 DE FEVEREIRO DE 1967.</strong>
+***Aprova o Regimento do Conselho Nacional do Petróleo do Ministério das Minas e Energia.***
 
-<em><strong>Aprova o Regimento do Conselho Nacional do Petróleo do Ministério das Minas e Energia.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do art. 28 da Lei número 4.904, de 17 de dezembro de 1965,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do art. 28 da Lei número 4.904, de 17 de dezembro de 1965,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Conselho Nacional do Petróleo (C.N.P.), que com êste baixa, assinado pelo Ministro de Estado das Minas e Energia.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Conselho Nacional do Petróleo (C.N.P.), que com êste baixa, assinado pelo Ministro de Estado das Minas e Energia.
-
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 8 de fevereiro de 1967; 146º da Independência e 79º da República.
 
-<strong>H. CASTELLO BRANCO</strong>
+**H. CASTELLO BRANCO**
 
 Mauro Thibau
 
-<strong>REGIMENTO DO CONSELHO NACIONAL DO PETRÓLEO DO MINISTÉRIO DAS MINAS E ENERGIA</strong>
+**REGIMENTO DO CONSELHO NACIONAL DO PETRÓLEO DO MINISTÉRIO DAS MINAS E ENERGIA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da finalidade e competência</em>
+*Da finalidade e competência*
 
-<strong>Art</strong>. 1º O Conselho Nacional do Petróleo (C.N.P.), instituído pelo Decreto-lei nº 395, de 29 de abril de 1938, e incorporado ao Ministério das Minas e Energia pela Lei nº 3.782, de 22 de julho de 1960, é órgão consultivo, orientador e controlador da política nacional do Petróleo e seus derivados, diretamente subordinado ao Ministro de Estado.
+**Art**. 1º O Conselho Nacional do Petróleo (C.N.P.), instituído pelo Decreto-lei nº 395, de 29 de abril de 1938, e incorporado ao Ministério das Minas e Energia pela Lei nº 3.782, de 22 de julho de 1960, é órgão consultivo, orientador e controlador da política nacional do Petróleo e seus derivados, diretamente subordinado ao Ministro de Estado.
 
-<strong>Art</strong>. 2º Ao C.N.P. compete assessorar o Ministro de Estado em todos os assuntos de que trata o art. 1º, bem como:
+**Art**. 2º Ao C.N.P. compete assessorar o Ministro de Estado em todos os assuntos de que trata o art. 1º, bem como:
 
 I - orientar e fiscalizar o monopólio da União, instituído pelo artigo 1º da Lei nº 2.004, de 3 de outubro de 1953, mantendo sob sua responsabilidade o exame e a aprovação dos planos de atividades da Petróleo Brasileiro Sociedade Anônima - PETROBRÁS - bem como de suas subsidiárias;
 
@@ -48,11 +46,11 @@ e) estabelecimento, de comum acôrdo com o I.A.A., de índices de mistura de gas
 
 f) medidas adequadas para garantir o fiel cumprimento do Código de Minas e das disposições legais e regulamentares aplicáveis às atividades discriminadas neste artigo, compreendendo, inclusive, a apreensão de mercadorias, interdição de estabelecimentos faltosos, imposição de multas e proposição de ações penais, quando cabíveis.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da organização</em>
+*Da organização*
 
-<strong>Art</strong>. 3º O C.N.P. compõe-se dos seguintes órgãos:
+**Art**. 3º O C.N.P. compõe-se dos seguintes órgãos:
 
 I - Plenário (Pl);
 
@@ -68,9 +66,9 @@ VI - Serviço de Administração (S.A.);
 
 VII - Seção de Documentação (S.D.).
 
-<strong>Art</strong>. 4º O Plenário (Pl) terá uma Secretaria imediatamente subordinada ao seu Presidente.
+**Art**. 4º O Plenário (Pl) terá uma Secretaria imediatamente subordinada ao seu Presidente.
 
-<strong>Art</strong>. 5º A Divisão Técnica (D.T.) compreende:
+**Art**. 5º A Divisão Técnica (D.T.) compreende:
 
 I - Serviço de Exploração e Produção (DT.1) que inclui:
 
@@ -112,7 +110,7 @@ VI - Seção de Desenho (DT.6)
 
 VII - Turma de Administração (DT.7).
 
-<strong>Art</strong>. 6º A Divisão Econômica (D.E.) compreende:
+**Art**. 6º A Divisão Econômica (D.E.) compreende:
 
 I - Serviço de Abastecimento (DE.1) que inclui:
 
@@ -166,7 +164,7 @@ VII - Seção de Petroquímica (DE.7).
 
 VIII - Turma de Administração (DE.8).
 
-<strong>Art</strong>. 7º O Serviço de Administração compreende:
+**Art**. 7º O Serviço de Administração compreende:
 
 I - Seção de Arrecadação (SA-1);
 
@@ -198,29 +196,29 @@ VIII - Seção de Serviços Gerais (SA-8) que inclui:
 
 \- Zeladoria.
 
-<strong>Art</strong>. 8º O C.N.P. será dirigido por um Presidente nomeado em comissão, pelo Presidente da República, por indicação do Ministro de Estado.
+**Art**. 8º O C.N.P. será dirigido por um Presidente nomeado em comissão, pelo Presidente da República, por indicação do Ministro de Estado.
 
 Parágrafo único. O Presidente do Conselho terá 1 (um) Secretário, e será assessorado por um Gabinete.
 
-<strong>Art</strong>. 9º O Gabinete será dirigido por um Chefe e contará com 3 (três) Assessôres Técnicos e Auxiliares, todos designados pelo Presidente.
+**Art**. 9º O Gabinete será dirigido por um Chefe e contará com 3 (três) Assessôres Técnicos e Auxiliares, todos designados pelo Presidente.
 
-<strong>Art</strong>. 10. As Divisões e o Serviço de Administração terão Diretores nomeados, em comissão, pelo Presidente da República, por indicação do Ministro de Estado, mediante proposta do Presidente do CNP.
+**Art**. 10. As Divisões e o Serviço de Administração terão Diretores nomeados, em comissão, pelo Presidente da República, por indicação do Ministro de Estado, mediante proposta do Presidente do CNP.
 
 § 1º Os Diretores de Divisão terão, cada um, 2 (dois) Assistentes, 1 (um) Secretário e 2 (dois) Auxiliares.
 
 § 2º O Diretor do Serviço de Administração terá 1 (um) Assistente, 1 (um) Secretário e 1 (um) Auxiliar.
 
-<strong>Art</strong>. 11. A Assessoria Jurídica, a Secretaria do Plenário, os Serviços, as Seções, e a Portaria terão Chefes; as Turmas, o Almoxarifado e a Zeladoria terão Encarregados, designados pelos respectivos superiores imediatos.
+**Art**. 11. A Assessoria Jurídica, a Secretaria do Plenário, os Serviços, as Seções, e a Portaria terão Chefes; as Turmas, o Almoxarifado e a Zeladoria terão Encarregados, designados pelos respectivos superiores imediatos.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do Plenário do C.N.P.</em>
+*Do Plenário do C.N.P.*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Da Composição</em>
+*Da Composição*
 
-<strong>Art</strong>. 12. Além do Presidente do Conselho Nacional do Petróleo que participará, automàticamente, da sua composição e será o seu Presidente, integrarão o Plenário mais de 8 (oito) membros, representantes de cada um dos seguintes órgãos:
+**Art**. 12. Além do Presidente do Conselho Nacional do Petróleo que participará, automàticamente, da sua composição e será o seu Presidente, integrarão o Plenário mais de 8 (oito) membros, representantes de cada um dos seguintes órgãos:
 
 1 - Ministério da Guerra
 
@@ -238,7 +236,7 @@ Parágrafo único. O Presidente do Conselho terá 1 (um) Secretário, e será as
 
 8 - Federação das Associações Comerciais do Brasil.
 
-<strong>Art</strong>. 13. Para Presidente ou membro do Conselho é necessário:
+**Art**. 13. Para Presidente ou membro do Conselho é necessário:
 
 I - ser brasileiro nato, de notória competência e reputação ilibada, e maior de trinta anos de idade;
 
@@ -246,19 +244,19 @@ II - estar no gôzo dos seus direitos civis e políticos;
 
 III - não ter, no momento da designação, nem ter tido nos 5 (cinco) anos precedentes, interêsses diretos ou indiretos em emprêsas particulares que se dediquem ou se hajam dedicação à pesquisa, lavra, industrialização ou ao comércio de petróleo e derivados, bem como as indústrias de aproveitamento de outros hidrocarbonetos fluidos ou de gases raros.
 
-<strong>Art</strong>. 14. Os Conselheiros representantes dos Ministérios serão indicados pelo Ministro respectivo dentre oficiais generais ou superiores do serviço ativo, funcionários civis de alta categoria, membros do magistério superior ou, no caso de inexistência entre êsses de quem satisfaça os requisitos legais, dentre pessoas estranhas ao funcionalismo público.
+**Art**. 14. Os Conselheiros representantes dos Ministérios serão indicados pelo Ministro respectivo dentre oficiais generais ou superiores do serviço ativo, funcionários civis de alta categoria, membros do magistério superior ou, no caso de inexistência entre êsses de quem satisfaça os requisitos legais, dentre pessoas estranhas ao funcionalismo público.
 
-<strong>Art</strong>. 15. Os Conselheiros representantes da Confederação Nacional da Indústria e da Federação das Associações Comerciais do Brasil serão indicados pelo Ministro das Minas e Energia, mediante escolha em listas tríplices elaboradas por êsses órgãos.
+**Art**. 15. Os Conselheiros representantes da Confederação Nacional da Indústria e da Federação das Associações Comerciais do Brasil serão indicados pelo Ministro das Minas e Energia, mediante escolha em listas tríplices elaboradas por êsses órgãos.
 
-<strong>Art</strong>. 16. Os Conselheiros indicados na forma dos artigos anteriores serão designados pelo Presidente da República.
+**Art**. 16. Os Conselheiros indicados na forma dos artigos anteriores serão designados pelo Presidente da República.
 
-<strong>Art</strong>. 17. O Presidente e os Conselheiros, receberão, a investidura, pelo prazo de 3 (três) anos, podendo ser substituídos ou reconduzidos.
+**Art**. 17. O Presidente e os Conselheiros, receberão, a investidura, pelo prazo de 3 (três) anos, podendo ser substituídos ou reconduzidos.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Do Funcionamento</em>
+*Do Funcionamento*
 
-<strong>Art</strong>. 18. O Plenário reunir-se-á, com a presença da maioria dos Conselheiros, uma vez por semana e, extraordinàriamente, tôda vez que o Presidente o convocar.
+**Art**. 18. O Plenário reunir-se-á, com a presença da maioria dos Conselheiros, uma vez por semana e, extraordinàriamente, tôda vez que o Presidente o convocar.
 
 § 1º As sessões serão presididas pelo Presidente do Conselho; em sua falta ou impedimento, pelo Conselheiro mais antigo e, em última hipótese, pelo mais idoso.
 
@@ -270,9 +268,9 @@ III - não ter, no momento da designação, nem ter tido nos 5 (cinco) anos prec
 
 § 5º O Presidente da PETROBRÁS participará, sem direito a votos, das sessões em que se tiver de deliberar sôbre assunto de interêsse da Sociedade sob sua direção.
 
-<strong>Art</strong>. 19. O processo que deva ser submetido ao Plenário será distribuído pelo Presidente a um dos Conselheiros que terá, para relatório, o prazo de 20 (vinte) dias, prorrogável a juízo do Plenário.
+**Art**. 19. O processo que deva ser submetido ao Plenário será distribuído pelo Presidente a um dos Conselheiros que terá, para relatório, o prazo de 20 (vinte) dias, prorrogável a juízo do Plenário.
 
-<strong>Art</strong>. 20. A seqüência dos trabalhos das sessões será a seguinte:
+**Art**. 20. A seqüência dos trabalhos das sessões será a seguinte:
 
 I - leitura, votação e assinatura da ata sessão anterior;
 
@@ -286,25 +284,25 @@ V - indicações.
 
 Parágrafo único. Esta seqüência poderá ser alterada pelo Plenário para tratar de matéria urgente ou assunto para o qual peça preferência qualquer Conselheiro.
 
-<strong>Art</strong>. 21. A ordem do dia será organizada com os processos em pauta e com aquêles cuja discussão ou votação tenha sido adiada.
+**Art**. 21. A ordem do dia será organizada com os processos em pauta e com aquêles cuja discussão ou votação tenha sido adiada.
 
 Parágrafo único. Em caso de urgência, reconhecida pelo Plenário, poderão ser submetidos à discussão e votação processos não incluídos na ordem do dia.
 
-<strong>Art</strong>. 22. Para discussão dos relatórios e pareceres, o Presidente da sessão concederá a palavra aos Conselheiros que a solicitarem.
+**Art**. 22. Para discussão dos relatórios e pareceres, o Presidente da sessão concederá a palavra aos Conselheiros que a solicitarem.
 
-<strong>Art</strong>. 23. Durante a discussão, os Conselheiros poderão:
+**Art**. 23. Durante a discussão, os Conselheiros poderão:
 
 I - apresentar, por escrito, emendas ou substitutivos às conclusões dos pareceres;
 
 II - Formular requerimentos verbais ou escritos, propondo providências para a boa instrução do assunto em debate.
 
-<strong>Art</strong>. 24. O Conselheiro que não se julgar suficientemente esclarecido poderá pedir vista do processo ou adiamento da discussão.
+**Art**. 24. O Conselheiro que não se julgar suficientemente esclarecido poderá pedir vista do processo ou adiamento da discussão.
 
 § 1º O prazo de vista ou de adiamento da discussão será de 8 (oito) dias, salvo prorrogação a juízo do Plenário.
 
 § 2º Findo o prazo estabelecido no parágrafo anterior, sem que o processo haja sido restituído, entrará êste na ordem do dia se assim deliberar o Plenário.
 
-<strong>Art</strong>. 25. Após o encerramento da discussão, os pareceres e as emendas ou substitutivos serão submetidos à votação nominal.
+**Art**. 25. Após o encerramento da discussão, os pareceres e as emendas ou substitutivos serão submetidos à votação nominal.
 
 § 1º Qualquer Conselheiro poderá requerer preferência nas votações.
 
@@ -312,9 +310,9 @@ II - Formular requerimentos verbais ou escritos, propondo providências para a b
 
 § 3º Para encaminhamento da votação, o Presidente da Sessão concederá a palavra ao Conselheiro que a solicitar, durante o prazo que fôr determinado pelo Plenário.
 
-<strong>Art</strong>. 26. As dúvidas suscitadas na aplicação dêste Regimento, atinentes às atividades do Plenário, constituirão questões de ordem, que poderão ser levantadas em qualquer fase da sessão.
+**Art**. 26. As dúvidas suscitadas na aplicação dêste Regimento, atinentes às atividades do Plenário, constituirão questões de ordem, que poderão ser levantadas em qualquer fase da sessão.
 
-<strong>Art</strong>. 27. Da sessão, o Secretário do Plenário lavrará ata, com a exposição sucinta dos trabalhos.
+**Art**. 27. Da sessão, o Secretário do Plenário lavrará ata, com a exposição sucinta dos trabalhos.
 
 § 1º A ata, depois de lida e aprovada, será assinada pelo Presidente da sessão, pelos Conselheiros presentes e por quem a tiver lavrado.
 
@@ -322,19 +320,19 @@ II - Formular requerimentos verbais ou escritos, propondo providências para a b
 
 § 3º Não havendo sessão por falta de número, lavrar-se-á um têrmo de ata, para constar.
 
-<strong>Art</strong>. 28. Além das anotações para a ata, as sessões serão taquigrafadas, podendo as notas respectivas ser revistas pelos Conselheiros.
+**Art**. 28. Além das anotações para a ata, as sessões serão taquigrafadas, podendo as notas respectivas ser revistas pelos Conselheiros.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Da Competência dos Órgãos</em>
+*Da Competência dos Órgãos*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Do Plenário</em>
+*Do Plenário*
 
-<strong>Art</strong>. 29. Ao Plenário, constituído na forma do art. 12, compete deliberar sôbre a matéria relacionada com as atividades do Conselho e definidas neste Regimento como de interêsse da política nacional do Petróleo e seus derivados, que seja submetida ao seu exame.
+**Art**. 29. Ao Plenário, constituído na forma do art. 12, compete deliberar sôbre a matéria relacionada com as atividades do Conselho e definidas neste Regimento como de interêsse da política nacional do Petróleo e seus derivados, que seja submetida ao seu exame.
 
-<strong>Art</strong>. 30. À Secretaria do Plenário compete:
+**Art**. 30. À Secretaria do Plenário compete:
 
 I - coordenar e preparar os processos a serem encaminhados ao Plenário do CNP e aos relatores designados, prestando-lhes tôdas as informações solicitadas;
 
@@ -348,11 +346,11 @@ V - executar os trabalhos de taquigrafia e mecanografia relativos às sessões d
 
 VI - manter o contrôle dos prazos legais e regimentais referentes aos processos em andamento no Plenário, aos relatórios e recursos.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Do Gabinete do Presidente</em>
+*Do Gabinete do Presidente*
 
-<strong>Art</strong>. 31. Ao Gabinete do Presidente (G.P.) compete:
+**Art**. 31. Ao Gabinete do Presidente (G.P.) compete:
 
 I - assessorar o Presidente do CNP nas decisões a tomar;
 
@@ -366,11 +364,11 @@ V - fazer a triagem e classificação técnica da matéria de natureza especiali
 
 VI - estudar e elaborar parecer, quando solicitado pelo Presidente, sôbre assunto técnico-especializado.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Da Assessoria Jurídica</em>
+*Da Assessoria Jurídica*
 
-<strong>Art</strong>. 32. À Assessoria Jurídica (A.J.) compete:
+**Art**. 32. À Assessoria Jurídica (A.J.) compete:
 
 I - estudar, do ponto de vista legal, os pedidos de prorrogação ou renovação de prazos e os de autorização para o exercício de atividades ligadas ao abastecimento nacional do petróleo, pesquisa, lavra e destilação de rochas betuminosas e pirobetuminosas, registro das emprêsas de exploração da indústria petroquímica e das comerciais e industriais referentes a petróleo e derivados;
 
@@ -406,11 +404,11 @@ XVI - estudar os pedidos de certidões, cuja extração providenciará, quando c
 
 XVII - executar, de acôrdo com as normas ilegais em vigor, outras atribuições que lhe forem outorgadas por autoridade competente.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Da Divisão Técnica</em>
+*Da Divisão Técnica*
 
-<strong>Art</strong>. 33. A Divisão Técnica (D.T.) compete superintender, promover, orientar ou fiscalizar, do ponto de vista técnico, a execução do Código de Minas no que se refere às jazidas de rochas betuminosas e pirobetuminosas, a execução do monopólio da União, instituído pelo art. 1º da Lei número 2.004, de 3 de outubro de 1953 e o cumprimento das medidas relativas ao abastecimento nacional do petróleo, inclusive as que se refiram ao aproveitamento químico-industrial do gás natural e dos produtos e subprodutos da refinação do petróleo, do óleo de xisto e das rochas betuminosas e pirobetuminosas, conforme a discriminação a seguir:
+**Art**. 33. A Divisão Técnica (D.T.) compete superintender, promover, orientar ou fiscalizar, do ponto de vista técnico, a execução do Código de Minas no que se refere às jazidas de rochas betuminosas e pirobetuminosas, a execução do monopólio da União, instituído pelo art. 1º da Lei número 2.004, de 3 de outubro de 1953 e o cumprimento das medidas relativas ao abastecimento nacional do petróleo, inclusive as que se refiram ao aproveitamento químico-industrial do gás natural e dos produtos e subprodutos da refinação do petróleo, do óleo de xisto e das rochas betuminosas e pirobetuminosas, conforme a discriminação a seguir:
 
 A) Através do Serviço de Exploração e Produção (DT.1):
 
@@ -564,9 +562,9 @@ V - organizar trabalhos, sugerir sua divulgação e executar quaisquer outros se
 
 VI - supervisionar e coordenar a execução dos trabalhos a cargo das Seções subordinadas assim discriminados:
 
-1\) - Seção de Estatística (S. Es.), realizar às tarefas mencionadas nos itens I, IV, V, da letra <em>D</em> dêste artigo;
+1\) - Seção de Estatística (S. Es.), realizar às tarefas mencionadas nos itens I, IV, V, da letra *D* dêste artigo;
 
-2\) - Seção de Cadastro e Registro (S. Rg.), realizar as tarefas mencionadas nos itens II, III, IV e V da letra <em>D</em> dêste artigo.
+2\) - Seção de Cadastro e Registro (S. Rg.), realizar as tarefas mencionadas nos itens II, III, IV e V da letra *D* dêste artigo.
 
 E) Através do Serviço de Análises e Pesquisas (D.T.-5):
 
@@ -658,11 +656,11 @@ IX - articular-se com os demais órgãos do Conselho, no sentido de maior coorde
 
 X - executar outros serviços que forem atribuídos pelo Diretor.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>Da Divisão Econômica</em>
+*Da Divisão Econômica*
 
-<strong>Art</strong>. 34. À Divisão Econômica (D.E.) compete promover, orientar e superintender a execução das atividades econômicas do Conselho, opinar nos casos de compromissos internacionais a serem assumidos pelo Govêrno, organizar o Plano de Abastecimento Nacional do Petróleo e propor medidas no interêsse da orientação e fiscalização do monopólio estatal do petróleo, atividades que se desenvolverão conforme discriminação a seguir:
+**Art**. 34. À Divisão Econômica (D.E.) compete promover, orientar e superintender a execução das atividades econômicas do Conselho, opinar nos casos de compromissos internacionais a serem assumidos pelo Govêrno, organizar o Plano de Abastecimento Nacional do Petróleo e propor medidas no interêsse da orientação e fiscalização do monopólio estatal do petróleo, atividades que se desenvolverão conforme discriminação a seguir:
 
 A) Através do Serviço de Abastecimento (DE.-1):
 
@@ -962,11 +960,11 @@ VI - articular-se com os demais órgãos do Conselho no sentido de maior coorden
 
 VII - executar outros serviços que lhe forem atribuídos pelo Diretor.
 
-<strong>SEÇÃO VI</strong>
+**SEÇÃO VI**
 
-<em>Do Serviço de Administração</em>
+*Do Serviço de Administração*
 
-<strong>Art</strong>. 35. Ao Serviço de Administração (S.A.) compete promover, orientar e superintender a execução dos trabalhos a cargo das Seções subordinadas, assim discriminados:
+**Art**. 35. Ao Serviço de Administração (S.A.) compete promover, orientar e superintender a execução dos trabalhos a cargo das Seções subordinadas, assim discriminados:
 
 A) - Através da Seção de Arrecadação (AS.-1):
 
@@ -1102,7 +1100,7 @@ F) Através da Seção de Comunicações (SA. -6):
 
 I - receber, numerar, registrar, distribuir, expedir, arquivar, controlar a correspondência oficial e os demais papéis relativos às atividades do Conselho, preparar resumos e codificá-los;
 
-II - providenciar o encaminhamento dos atos do Conselho que devam ser publicados no <em>Diário</em> <em>Oficial</em> e órgãos da imprensa;
+II - providenciar o encaminhamento dos atos do Conselho que devam ser publicados no *DiárioOficial* e órgãos da imprensa;
 
 III - promover a tramitação dos processos entre os órgãos do C.N.P., de acôrdo com os despachos nêles exarados, respondendo pelo sigilo e pela integridade dos mesmos;
 
@@ -1154,11 +1152,11 @@ b) executar a limpeza das referidas dependências, zelando pelo bom estado de co
 
 Parágrafo único. Na execução de suas tarefas, as SA.-3, SA.-4 e SA.-5 manterão integral vinculação, respectivamente, com as Divisões do Orçamento Pessoal e Material, do Departamento de Administração.
 
-<strong>SEÇÃO VII</strong>
+**SEÇÃO VII**
 
-<em>Da Seção de Documentação</em>
+*Da Seção de Documentação*
 
-<strong>Art</strong>. 36. À Seção de Documentação (SD) compete:
+**Art**. 36. À Seção de Documentação (SD) compete:
 
 I - coligir, coordenar, classificar, guardar e conservar documentos ou textos documentários relacionados com as atividades do C.N.P. bem como seus pareceres, resoluções e acórdãos;
 
@@ -1178,11 +1176,11 @@ VIII - manter os serviços gerais de biblioteca, providenciando a aquisição de
 
 IX - Executar outros encargos que lhe forem atribuídos por autoridade competente, observadas as normas legais em vigor.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Das Atribuições do Pessoal</em>
+*Das Atribuições do Pessoal*
 
-<strong>Art</strong>. 37. Ao Presidente compete:
+**Art**. 37. Ao Presidente compete:
 
 I - presidir as sessões do Plenário, convocar sessões extraordinárias, designar a ordem do dia, os relatores e comissões de Conselheiros;
 
@@ -1232,7 +1230,7 @@ XXIII - orientar vistorias, inspeções, autos de infração e outras atividades
 
 Parágrafo único. O Presidente poderá delegar o exercício de atribuições de sua competência.
 
-<strong>Art</strong>. 38. Aos Conselheiros competem as atribuições de natureza deliberativa contidas no art. 2º dêste Regimento e especialmente:
+**Art**. 38. Aos Conselheiros competem as atribuições de natureza deliberativa contidas no art. 2º dêste Regimento e especialmente:
 
 I - comparecer às sessões do Plenário, e requerer a convocação do sessões extraordinárias, justificando a sua necessidade;
 
@@ -1252,7 +1250,7 @@ VIII - solicitar ao Presidente as medidas que considerem necessárias ao desempe
 
 Parágrafo único. Aos Conselheiros representantes dos Ministérios Militares cabe o direito de recursos previsto no art. 8º, § 2º, do Decreto-lei nº 538, de 7 de julho de 1938.
 
-<strong>Art</strong>. 39. Aos Diretores de Divisão e do Serviço de Administração (S.A.) compete:
+**Art**. 39. Aos Diretores de Divisão e do Serviço de Administração (S.A.) compete:
 
 I - distribuir, orientar, coordenar e fiscalizar os serviços afetos ou de interêsse da Divisão ou do S.A.;
 
@@ -1288,9 +1286,9 @@ XII - entender-se, em matéria de sua competência, com os dirigentes de órgão
 
 XIII - fornecer à Seção de Documentação, através do Gabinete para o relatório anual do Conselho os dados referentes às atividades da Divisão ou do S.A.;
 
-<strong>Art</strong>. 40. Compete ainda ao Diretor do Serviço de Administração manter entendimentos com os dirigentes das Divisões e Chefes do Gabinete e da Assessoria Jurídica, em assuntos de Administração-Geral.
+**Art**. 40. Compete ainda ao Diretor do Serviço de Administração manter entendimentos com os dirigentes das Divisões e Chefes do Gabinete e da Assessoria Jurídica, em assuntos de Administração-Geral.
 
-<strong>Art</strong>. 41. Aos Chefes do Gabinete e da Assessoria Jurídica competem as atribuições constantes do art. 39, no que couber.
+**Art**. 41. Aos Chefes do Gabinete e da Assessoria Jurídica competem as atribuições constantes do art. 39, no que couber.
 
 § 1º Compete ainda ao Chefe do Gabinete:
 
@@ -1324,7 +1322,7 @@ I - emitir pareceres e informações ou pronunciar-se a respeito de pareceres e 
 
 II - colaborar, nos assuntos da sua competência, com os demais órgãos.
 
-<strong>Art</strong>. 42. Compete aos Chefes de Serviço e de Seção:
+**Art**. 42. Compete aos Chefes de Serviço e de Seção:
 
 I - distribuir o pessoal sob suas ordens, de acôrdo com as necessidades dos serviços;
 
@@ -1344,7 +1342,7 @@ VIII - propor a escala de férias do pessoal em exercício no órgão que dirige
 
 IX - apresentar à autoridade superior o resumo mensal e o relatório anual das atividades do órgão sob a sua direção.
 
-<strong>Art</strong>. 43. Compete ainda ao Chefe da Seção de Documentação:
+**Art**. 43. Compete ainda ao Chefe da Seção de Documentação:
 
 I - orientar e coordenar os trabalhos afetos à Seção;
 
@@ -1352,7 +1350,7 @@ II - providenciar, junto aos demais órgãos, através da Chefia do Gabinete, os
 
 III - elaborar sob a coordenação do Chefe do Gabinete, o relatório anual do Conselho.
 
-<strong>Art</strong>. 44. Compete ao Chefe da Secretaria do Plenário:
+**Art**. 44. Compete ao Chefe da Secretaria do Plenário:
 
 I - as atribuições constantes do art. 42, no que couber;
 
@@ -1360,9 +1358,9 @@ II - orientar e coordenar os trabalhos afetos à Secretaria do Plenário;
 
 III - assistir às sessões do Plenário, adotando as providências necessárias ao bom andamento dos trabalhos e redigir a respectiva ata.
 
-<strong>Art</strong>. 45. Ao Chefe da Assessoria-Jurídica, aos Assessôres-Técnicos e aos Auxiliares do Gabinete compete executar as atribuições que lhes forem cometidas pelo Presidente ou pelo Chefe do Gabinete.
+**Art**. 45. Ao Chefe da Assessoria-Jurídica, aos Assessôres-Técnicos e aos Auxiliares do Gabinete compete executar as atribuições que lhes forem cometidas pelo Presidente ou pelo Chefe do Gabinete.
 
-<strong>Art</strong>. 46. Compete aos Assistentes das Divisões e do S.A.:
+**Art**. 46. Compete aos Assistentes das Divisões e do S.A.:
 
 I - estudar e emitir pareceres nos processos que lhes forem distribuídos;
 
@@ -1388,11 +1386,11 @@ VI - manter articulação com os dirigentes dos órgãos da Divisão ou do S.A.
 
 4\) cumprir outras missões especiais, inclusive como elemento de ligação com outros órgãos de serviços, dentro ou fora do Conselho, ou de eventual representação do Diretor do Serviço.
 
-<strong>Art</strong>. 47. Competem aos Secretários e Auxiliares as atribuições que lhes forem cometidas pela autoridade a que estiverem subordinados.
+**Art**. 47. Competem aos Secretários e Auxiliares as atribuições que lhes forem cometidas pela autoridade a que estiverem subordinados.
 
-<strong>Art</strong>. 48. Competem aos demais Chefes e Encarregados de órgãos executar, no que couber, as atribuições referidas no art. 42.
+**Art**. 48. Competem aos demais Chefes e Encarregados de órgãos executar, no que couber, as atribuições referidas no art. 42.
 
-<strong>Art</strong>. 49. Compete ainda:
+**Art**. 49. Compete ainda:
 
 I - aos Encarregados das Turmas de Transportes e Garagem e Oficina do Serviço de Administração:
 
@@ -1418,7 +1416,7 @@ II - aos Encarregados de Turma de Administração das D.T. e D.E.:
 
 5 ) executar outros serviços que lhes forem atribuídos pela autoridade competente.
 
-<strong>Art</strong>. 50. Ao Chefe da Portaria, compete:
+**Art**. 50. Ao Chefe da Portaria, compete:
 
 I - organizar os plantões e as escalas de serviço do pessoal que lhe fôr subordinado;
 
@@ -1426,23 +1424,23 @@ II - velar para que o pessoal sob suas ordens se apresente devidamente uniformiz
 
 III - atender, prontamente, às solicitações ou reclamações dos demais órgãos do Conselho.
 
-<strong>Art</strong>. 51. Compete aos servidores em geral, com exercício no Conselho, executar com presteza os trabalhos que lhes forem cometidos, zelando pela conservação e aproveitamento dos materiais e equipamentos de que se utilizarem.
+**Art**. 51. Compete aos servidores em geral, com exercício no Conselho, executar com presteza os trabalhos que lhes forem cometidos, zelando pela conservação e aproveitamento dos materiais e equipamentos de que se utilizarem.
 
-<strong>Art</strong>. 52. Além das atribuições especificadas neste título, outras poderão ser cometidas por ato expresso da autoridade superior, observada a legislação em vigor.
+**Art**. 52. Além das atribuições especificadas neste título, outras poderão ser cometidas por ato expresso da autoridade superior, observada a legislação em vigor.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Da Lotação</em>
+*Da Lotação*
 
-<strong>Art</strong>. 53. O C.N.P. terá lotação aprovada por decreto, na forma da legislação em vigor.
+**Art**. 53. O C.N.P. terá lotação aprovada por decreto, na forma da legislação em vigor.
 
 Parágrafo único. Além dos funcionários constantes da lotação, poderá o C.N.P. dispor de pessoal requisitado, na conformidade das normas vigentes.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Das substituições</em>
+*Das substituições*
 
-<strong>Art</strong>. 54. Serão substituídos, automaticamente, em suas faltas ou impedimentos eventuais, até 30 dias:
+**Art**. 54. Serão substituídos, automaticamente, em suas faltas ou impedimentos eventuais, até 30 dias:
 
 I - o Presidente do Conselho, pelo Chefe do Gabinete ou por um Diretor de Divisão, de sua indicação, designado pelo Ministro de Estado;
 
@@ -1456,34 +1454,34 @@ V - os Assistentes e Secretários, por servidores designados pelas autoridades a
 
 Parágrafo único. Haverá sempre servidores previamente designados para as substituições a que se refere êste artigo.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Do horário</em>
+*Do horário*
 
-<strong>Art</strong>. 55. O horário normal de trabalho será fixado pelo Presidente do Conselho, com observância do estabelecido na legislação vigente.
+**Art**. 55. O horário normal de trabalho será fixado pelo Presidente do Conselho, com observância do estabelecido na legislação vigente.
 
 § 1º Os servidores em exercício no C.N.P. poderão ter seus horários de trabalho antecipados ou prorrogados, na forma prevista neste Regimento e na legislação específica.
 
 § 2º A freqüência do pessoal será apurada mediante registro de ponto, de acôrdo com as leis vigentes e instruções que forem baixadas pelo Presidente do C.N.P.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>Disposições gerais e transitórias</em>
+*Disposições gerais e transitórias*
 
-<strong>Art</strong>. 56. As resoluções do Conselho Nacional do Petróleo vigoram a partir da data de sua publicação no <em>Diário</em> <em>Oficial</em>, salvo determinação expressa em contrário, constante do próprio texto da deliberação adotada.
+**Art**. 56. As resoluções do Conselho Nacional do Petróleo vigoram a partir da data de sua publicação no *DiárioOficial*, salvo determinação expressa em contrário, constante do próprio texto da deliberação adotada.
 
-§ 1º As decisões do Conselho serão publicadas no <em>Diário</em> <em>Oficial</em> e, sempre que possível, comunicadas diretamente aos interessados.
+§ 1º As decisões do Conselho serão publicadas no *DiárioOficial* e, sempre que possível, comunicadas diretamente aos interessados.
 
 § 2º Das comunicações expedidas deverá ser exigido recibo ou aviso postal de recebimento.
 
-<strong>Art</strong>. 57. Das decisões do Conselho caberá recurso para o Ministro de Estado, no prazo de trinta dias, contados da data de publicação no <em>Diário</em> <em>Oficial</em>.
+**Art**. 57. Das decisões do Conselho caberá recurso para o Ministro de Estado, no prazo de trinta dias, contados da data de publicação no *DiárioOficial*.
 
-<strong>Art</strong>. 58. Os conflitos de atribuição entre o Plenário e o Presidente do Conselho serão solucionados pelo Ministro de Estado.
+**Art**. 58. Os conflitos de atribuição entre o Plenário e o Presidente do Conselho serão solucionados pelo Ministro de Estado.
 
-<strong>Art</strong>. 59. Salvo prévia autorização do Presidente, é vedado divulgar quaisquer dados considerados sigilosos pelo Conselho.
+**Art**. 59. Salvo prévia autorização do Presidente, é vedado divulgar quaisquer dados considerados sigilosos pelo Conselho.
 
-<strong>Art</strong>. 60. O Presidente do C.N.P., por delegação do Ministro de Estado ou “<em>ad</em> <em>referendum</em>” da mesma autoridade, poderá deliberar em matéria que requeira decisão imediata, referente ao abastecimento nacional do petróleo e derivados, bem como suas implicações com a Segurança Nacional, em face dos encargos previstos na legislação vigente.
+**Art**. 60. O Presidente do C.N.P., por delegação do Ministro de Estado ou “*adreferendum*” da mesma autoridade, poderá deliberar em matéria que requeira decisão imediata, referente ao abastecimento nacional do petróleo e derivados, bem como suas implicações com a Segurança Nacional, em face dos encargos previstos na legislação vigente.
 
-<strong>Art</strong>. 61. Os casos omissos neste Regimento serão resolvidos pelo Ministro das Minas e Energia, nos têrmos da legislação em vigor.
+**Art**. 61. Os casos omissos neste Regimento serão resolvidos pelo Ministro das Minas e Energia, nos têrmos da legislação em vigor.
 
-<strong>MAURO THIBAU</strong>
+**MAURO THIBAU**

@@ -1,7 +1,3 @@
-1
-
-###DEC-099165-0-000-12-03-1990@@@
-
 DECRETO N° 99.165, DE 12 DE MARÇO DE 1990 (\*)
 
 Promulga a Convenção das Nações Unidas sobre o Direito do Mar.

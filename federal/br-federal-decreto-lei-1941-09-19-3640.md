@@ -1,5 +1,3 @@
-###DEL-003640-0-000-19-09-1941@@@
-
 DECRETO-LEI N. 3.640 – DE 19 DE SETEMBRO DE 1941
 
 Autoriza o Ministério da Viação e Obras Públicas a contratar o financiamento pelo 'Export-Import Bcnak”, de Washington, D. C.. da quanta ele s$s 1.220.000,00, destinada á Fábrica Nacional de Mostres

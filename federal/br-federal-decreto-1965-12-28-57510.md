@@ -1,5 +1,3 @@
-###DEC-057510-0-000-28-12-1965@@@
-
 DECRETO Nº 57.510, DE 28 DE DEZEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro Jacob Cardoso Lopes a pesquisar argila e caulim, no município de Mogi das Cruzes, Estado de São Paulo.

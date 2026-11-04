@@ -1,5 +1,3 @@
-###DEC-068029-0-000-11-01-1971@@@
-
 DECRETO Nº 68.029, DE 11 DE JANEIRO DE 1971.
 
 Declara de utilidade pública o Asilo de Mendigos de Pelotas, com sede em Pelotas, Estado do Rio Grande do Sul.

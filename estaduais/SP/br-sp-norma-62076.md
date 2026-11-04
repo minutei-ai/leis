@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62076)
-
 # LEI Nº 12.336, DE 12 DE ABRIL DE 2006
 
 ## (Projeto de lei nº 735/2005, da Deputada Maria Lúcia Prandi - PT)

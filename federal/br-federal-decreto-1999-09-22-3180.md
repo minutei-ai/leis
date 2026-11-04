@@ -1,5 +1,3 @@
-###DEC-003180-0-000-22-09-1999@@@
-
 DECRETO Nº 3.180, DE 22 DE SETEMBRO DE 1999.
 
 Altera o art. 21 do Decreto nº 825, de 28 de maio de 1993, que estabelece normas para a programação e execução orçamentária e financeira dos orçamentos fiscais e da seguridade social, aprova cotas trimestrais de despesa para o Poder Executivo, e dá outras providências.

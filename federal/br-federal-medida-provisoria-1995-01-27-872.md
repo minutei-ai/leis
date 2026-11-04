@@ -1,7 +1,3 @@
-1
-
-###MPV-000872-0-000-27-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 872, DE 27 DE JANEIRO DE 1995
 
 Dispõe sobre a concessão de abono aos trabalhadores no mês de janeiro de 1995.

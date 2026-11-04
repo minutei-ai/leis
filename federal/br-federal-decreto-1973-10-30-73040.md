@@ -1,5 +1,3 @@
-###DEC-073040-0-000-30-10-1973@@@
-
 Decreto nº 73.040, de 30 de outubro de 1973.
 
 Renova por 10 (dez) anos a concessão deferida à Rádio Rural de Concórdia Ltda., para executar serviço de radiodifusão sonora, em onda média de âmbito regional, na cidade de Concórdia, Estado de Santa Catarina.

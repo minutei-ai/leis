@@ -1,5 +1,3 @@
-###DEC-055293-0-000-29-12-1964@@@
-
 Decreto nº 55.293, de 29 de dezembro de 1964.
 
 Abre pelo Ministério da Fazenda o crédito especial de Cr$16.000.000.000,00 (dezesseis bilhões de cruzeiros), para atender às despesas que especifica.

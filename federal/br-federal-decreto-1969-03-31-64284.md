@@ -1,5 +1,3 @@
-###DEC-064284-0-000-31-03-1969@@@
-
 decreto nº 64.284, de 31 de março de 1969.
 
 Aprova o Regulamento da Inspetoria Geral da Aeronáutica.

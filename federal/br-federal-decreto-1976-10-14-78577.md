@@ -1,5 +1,3 @@
-###DEC-078577-0-000-14-10-1976@@@
-
 DECRETO Nº 78.577, DE 14 DE OUTUBRO DE 1976.
 
 Dá nova redação a dispositivos do Decreto nº 71.848, de 16 de fevereiro de 1973, que regulamenta, para o Exército, a Lei nº 5.821, de 10 de novembro de 1972 (Lei de Promoções dos Oficiais da Ativa das Forças Armadas).

@@ -8,7 +8,8 @@ Art. 1º - Fica assegurada, à Associação dos Magistrados da Bahia - AMAB, con
 
 Art. 2º - A contribuição referida no artigo anterior cor-responderá ao valor mensal equivalente a 1.175 (hum mil cento e setenta e cinco) Obrigações do Tesouro Nacional (OTN's ).
 
-Redação de acordo com o art. 3º da Lei nº 4.688, de 05 de dezembro de 1986.<br>
+Redação de acordo com o art. 3º da Lei nº 4.688, de 05 de dezembro de 1986.
+
 Redação original: "Art. 2º - A contribuição referida no artigo anterior será estabelecida, em cada exercício, segundo o índice 0,0006 (seis décimos milésimos) calculados sobre o montante da despesa realizada pela Administração Centralizada do Estado à conta do elemento 3.1.1.0 - Pessoal, no exercício imediatamente anterior."
 
 Parágrafo único - O valor da contribuição financeira mencionada neste artigo não ultrapassará, em qualquer hipótese, Cz$125.000,00 (cento e vinte e cinco mil cruzados).

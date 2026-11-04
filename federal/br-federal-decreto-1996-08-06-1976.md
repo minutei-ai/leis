@@ -1,5 +1,3 @@
-###DEC-001976-0-000-06-08-1996@@@
-
 DECRETO Nº 1.976, DE 6 DE AGOSTO DE L996.
 
 Regulamenta o art. 80 da Lei nº 8.713, de 30 de setembro de 1993, para efeito de ressarcimento fiscal pela propaganda eleitoral gratuita, relativa às eleições de 3 de outubro de 1994.

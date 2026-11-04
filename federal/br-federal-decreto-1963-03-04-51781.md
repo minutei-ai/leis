@@ -1,5 +1,3 @@
-###DEC-051781-0-000-04-03-1963@@@
-
 DECRETO Nº 51.781, DE 4 DE MARÇO DE 1963.
 
 Outorga à Companhia Sul Sergipana de Eletricidade (SULGIPE) concessão para distribuir energia elétrica e dá outras providências.

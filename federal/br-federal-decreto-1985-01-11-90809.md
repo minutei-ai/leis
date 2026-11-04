@@ -1,5 +1,3 @@
-###DEC-090809-0-000-11-01-1985@@@
-
 DECRETO Nº 90.809, DE 11 DE JANEIRO DE 1985
 
 Outorga concessão à TV PONTA NEGRA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Natal, Estado do Rio Grande do Norte.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001039-0-000-28-06-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.039, DE 28 DE JUNHO DE 1995
 
 Dá nova redação ao art. 2º da Lei nº 8.844, de 20 de janeiro de 1994.

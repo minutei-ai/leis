@@ -1,5 +1,3 @@
-###DEC-090631-0-000-05-12-1984@@@
-
 Decreto nº 90.631, de 05 de dezembro de 1984
 
 Autoriza o funcionamento de habilitações do curso de Engenharia do Instituto Politécnico do Ribeirão Preto, São Paulo.

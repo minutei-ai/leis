@@ -1,5 +1,3 @@
-###DEC-074781-0-000-29-10-1974@@@
-
 DECRETO Nº 74.781, DE 29 DE OUTUBRO DE 1974.
 
 Retifica o Decreto nº 74.455 de 26 de agosto de 1974, que concede reconhecimento do curso de Administração da Faculdade de Ciências Administrativas mantidas pela União de Negócios Administração - UNA, com sede na Cidade de Belo Horizonte, Estado de Minas Gerais.

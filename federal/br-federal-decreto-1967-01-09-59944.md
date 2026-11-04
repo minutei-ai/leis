@@ -1,5 +1,3 @@
-###DEC-059944-0-000-09-01-1967@@@
-
 DECRETO Nº 59.944, DE 9 DE JANEIRO DE 1967.
 
 Aprova a alteração introduzida nos Estatutos da Madepinho Seguradora S.A., relativa ao aumento do capital social.

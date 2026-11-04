@@ -1,5 +1,3 @@
-###DEC-085240-0-000-07-10-1980@@@
-
 Decreto nº 85.240, de 07 de outubro de 1980.
 
 Concede à Telecomunicações Aeronáuticas S.A - TASA, autorização para proceder o aumento de seu Capital.

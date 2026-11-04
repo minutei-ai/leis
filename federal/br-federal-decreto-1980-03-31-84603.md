@@ -1,5 +1,3 @@
-###DEC-084603-0-000-31-03-1980@@@
-
 Decreto nº 84.603, de 31 de março de 1980.
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados nos Municípios de Marmeleiro e Francisco Beltrão, no Estado do Paraná, compreendidos na área prioritária de reforma agrária de que tratam os Decretos nºs 69.411, de 22 de outubro de 1971, e 78.422, de 15 de setembro de 1976.
@@ -25,8 +23,6 @@ Brasília, DF, 31 de março de 1980; 159º da Independência e 92º da Repúblic
 JOão FIGUEIREDO
 
 Walter Pires
-
-###DEC-084603-0-000-31-03-1980@@@RET01+++
 
 DECRETO Nº 84.603, DE 31 DE MARÇO DE 1980.
 

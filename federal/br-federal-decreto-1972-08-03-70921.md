@@ -1,5 +1,3 @@
-###DEC-070921-0-000-03-08-1972@@@
-
 DECRETO Nº 70.921, DE 3 DE AGOSTO DE 1972.
 
 Redistribui cargos, com os respectivos ocupantes, e dá outras providências.

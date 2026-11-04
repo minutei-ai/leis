@@ -1,5 +1,3 @@
-###DEC-051614-0-000-04-12-1962@@@
-
 DECRETO Nº 51.614, de 4 de dezembro de 1962.
 
 Concede indulto a sentenciados que menciona e dá outras providências.

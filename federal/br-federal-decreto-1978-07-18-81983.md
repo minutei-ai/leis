@@ -1,5 +1,3 @@
-###DEC-081983-0-000-18-07-1978@@@
-
 DECRETO Nº 81.983, DE 18 DE JULHO DE 1978.
 
 Declara a caducidade da concessão de lavra que menciona.

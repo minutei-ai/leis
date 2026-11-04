@@ -1,5 +1,3 @@
-###DEC-054304-0-000-25-09-1964@@@
-
 DECRETO Nº 54.304, de 25 de setembro de 1964.
 
 Inclui função gratificada na Parte Permanente do Quadro de Pessoal - da Universidade do Brasil.

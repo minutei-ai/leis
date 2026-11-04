@@ -1,5 +1,3 @@
-###DEC-074402-0-000-13-08-1974@@@
-
 DECRETO Nº 74.402 - DE 13 DE aGOSTO DE 1974.
 
 Declara sem efeito o Decreto número 64.974, de 11 de agosto de 1969, que concedeu a Indústrias Brasileiras de Artigos Refratários S.A. - "IBAR" o direito de lavrar argila refratária.

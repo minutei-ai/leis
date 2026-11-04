@@ -1,5 +1,3 @@
-###DEC-057488-0-000-27-12-1965@@@
-
 DECRETO Nº 57.488, DE 27 DE DEZEMBRO DE 1965.
 
 Abre crédito suplementar autorizado pela Lei nº 4.847, de 19 de novembro de 1965.

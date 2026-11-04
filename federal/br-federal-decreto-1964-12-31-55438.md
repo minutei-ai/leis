@@ -1,5 +1,3 @@
-###DEC-055438-0-000-31-12-1964@@@
-
 DECRETO Nº 55.438, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Geraldo Batista Pereira a lavrar mica, no município de Santa Maria do Suaçul, Estado de Minas Gerais.

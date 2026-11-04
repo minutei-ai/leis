@@ -1,5 +1,3 @@
-###DEC-096249-0-000-30-06-1988@@@
-
 DECRETO N° 96.249, DE 30 DE JUNHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “PALMEIRA (PARTE)”, classificado como “latifúndio por exploração”, situado no Município de Esperantina, no Estado do Piauí, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.680, de 19 de maio de 1986 e dá outras providências.

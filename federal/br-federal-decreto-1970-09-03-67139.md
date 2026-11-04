@@ -1,5 +1,3 @@
-###DEC-067139-0-000-03-09-1970@@@
-
 decreto nº 67.139, de 3 de setembro de 1970.
 
 Declara caduco o Decreto nº 40.659, de 28 de dezembro de 1956.

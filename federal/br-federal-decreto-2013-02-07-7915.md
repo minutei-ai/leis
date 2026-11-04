@@ -1,5 +1,3 @@
-###DEC-007915-0-000-07-02-2013-PUB-01@@@
-
 DECRETO Nº\- 7.915, DE 7 DE FEVEREIRO DE 2013
 
 Dispõe sobre a criação da Embaixada do Brasil em Nuku'alofa, Reino de Tonga, cumulativa com a Embaixada em Wellington.

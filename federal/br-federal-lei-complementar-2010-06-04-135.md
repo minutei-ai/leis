@@ -1,5 +1,3 @@
-###LCP-000135-0-000-04-06-2010@@@
-
 LEI COMPLEMENTAR Nº 135, DE 4 DE JUNHO DE 2010
 
 Altera a Lei Complementar no 64, de 18 de maio de 1990, que estabelece, de acordo com o § 9o do art. 14 da Constituição Federal, casos de inelegibilidade, prazos de cessação e determina outras providências, para incluir hipóteses de inelegibilidade que visam a proteger a probidade administrativa e a moralidade no exercício do mandato.

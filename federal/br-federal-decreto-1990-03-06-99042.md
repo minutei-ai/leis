@@ -1,7 +1,3 @@
-1
-
-###DEC-099042-0-000-06-03-1990@@@
-
 DECRETO N° 99.042, DE 6 DE MARÇO DE 1990.
 
 Revoga o Decreto n° 97.847, de 20 de junho de 1989, que declarou de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA MAMONEIRAS”, situado no Município de Bonfinópolis de Minas, em Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-001840-0-000-20-03-1996@@@
-
 DECRETO N° 1.840, DE 20 DE MARÇO DE 1996.
 
 Dispõe sobre o custeio da estada dos ocupantes de cargos públicos que menciona, e dá outras providências.

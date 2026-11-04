@@ -1,5 +1,3 @@
-###DEC-075633-0-000-18-04-1975@@@
-
 DECRETO Nº 75.633, DE 18 DE ABRIL DE 1975.
 
 Altera o artigo 5º do Regulamento para a Diretoria do Pessoal Militar da Marinha, aprovado pelo Decreto nº 69.023, de 6 de agosto de 1971.

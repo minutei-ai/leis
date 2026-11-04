@@ -1,5 +1,3 @@
-###DEC-085346-0-000-11-11-1980@@@
-
 Decreto nº 85.346, de 11 de novembro de 1980.
 
 Concede à SALGEMA INDÚSTRIAS QUÍMICAS S.A. autorização para proceder a aumento do seu capital social.

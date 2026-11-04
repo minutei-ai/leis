@@ -1,5 +1,3 @@
-###DEL-005961-0-000-01-11-1943@@@
-
 DECRETO‑LEI N. 5.961– DE 1 DE NOVEMBRO DE 1943
 
 Cria a Ordem do Mérito Aeronáutico

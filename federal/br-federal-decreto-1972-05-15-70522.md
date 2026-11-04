@@ -1,5 +1,3 @@
-###DEC-070522-0-000-15-05-1972@@@
-
 DECRETO Nº 70.522, DE 15 DE MAIO DE 1972.
 
 Reduz as alíquotas do Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos.

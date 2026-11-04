@@ -1,5 +1,3 @@
-###DEC-007622-0-000-22-11-2011-PUB-01@@@
-
 DECRETO N°\- 7.622, DE 22 DE NOVEMBRO DE 2011
 
 Altera os arts. 8º e 12 e os Anexos I, II, VII, VIII e X do Decreto nº 7.445, de 1º de março de 2011, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2011.

@@ -1,5 +1,3 @@
-###DEC-060390-0-000-11-03-1967@@@
-
 decreto nº 60.390, de 11 de março de 1967.
 
 Suspende o funcionamento da Sociedade Thomas Mann com sede no Estado da Guanabara.

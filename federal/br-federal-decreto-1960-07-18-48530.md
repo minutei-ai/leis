@@ -1,5 +1,3 @@
-###DEC-048530-0-000-18-07-1960@@@
-
 DECRETO Nº 48.530, DE 18 DE JULHO DE 1960.
 
 Organiza a Secretaria Executiva da Superintendência do Desenvolvimento do Nordeste e dá outras providências.

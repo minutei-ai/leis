@@ -1,5 +1,3 @@
-###DEC-076688-0-000-27-11-1975@@@
-
 DECRETO Nº 76.688, DE 27 DE NOVEMBRO DE 1975.
 
 Altera dispositivo do Regulamento para a Diretoria do Pessoal Militar da Marinha, aprovado pelo Decreto nº 69.023 de 6 de agosto de 1971, alterado pelo Decreto nº 75.633 de 18 de abril de 1975.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099758-0-000-03-12-1990@@@
-
 # DECRETO N° 99.758, DE 3 DE DEZEMBRO DE 1990
 
 Promulga o Acordo sobre Prevenção, Controle, Fiscalização e Repressão ao Uso Indevido e ao Tráfico de Entorpecentes e de Substancias Psicotrópicas.

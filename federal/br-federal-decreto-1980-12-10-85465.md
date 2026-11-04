@@ -1,5 +1,3 @@
-###DEC-085465-0-000-10-12-1980@@@
-
 Decreto nº 85.465, de 10 de dezembro de 1980.
 
 Autoriza, até 31 de dezembro de 1981, o aproveitamento dos navios estrangeiros na cabotagem nacional.

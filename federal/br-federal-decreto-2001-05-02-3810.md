@@ -1,5 +1,3 @@
-###DEC-003810-0-000-02-05-2001@@@
-
 DECRETO N.º 3.810, DE 2 DE MAIO DE 2001
 
 Promulga o Acordo de Assistência Judiciária em Matéria Penal entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos da América, celebrado em Brasília, em 14 de outubro de 1997, corrigido em sua versão em português, por troca de Notas, em 15 de fevereiro de 2001.
@@ -297,15 +295,11 @@ Em fé do que, os abaixo‑assinados, devidamente autorizados por seus respectiv
 
 Feito em Brasília, em 14 de outubro de 1997, em dois exemptares originais nos idiomas, português e inglês, sendo ambos os textos igualmente autênticos.
 
-<br>
-
 Pelo Governo da República
 
 Federativa do Brasil  
 
 Pelo Governo dos Estados  Unidos da América
-
-<br>
 
 LUIZ FELIPE LAMPREIA   
 
@@ -316,8 +310,6 @@ Relações Exteriores     
 MADELEINE ALBRIGHT
 
 Secretária de Estado
-
-<br>
 
 Formulário A
 

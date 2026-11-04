@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/161203)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2011/compilacao-lei.complementar-1135-01.04.2011.html)
 
 # LEI COMPLEMENTAR N° 1.135, DE 01 DE ABRIL DE 2011

@@ -27,7 +27,6 @@ sha256_markdown: "4baf3b2bb5804b08da61839958311b7ad0998076f67127d7536a55ed8b612c
 manifesto: "provas/emendas-cf1988/faixa-101-141/manifesto.json"
 contrato_versao: 1
 ---
-
 Presidência da República Casa Civil Secretaria Especial para Assuntos Jurídicos
 
 # EMENDA CONSTITUCIONAL Nº 139, DE 5 DE MAIO DE 2026
@@ -44,8 +43,7 @@ Presidência da República Casa Civil Secretaria Especial para Assuntos Jurídic
 >
 > URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
 >
-> Este texto não substitui o publicado no DOU de 6.5.2026
->
+>>
 > Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2026-05-05-139.json`.
 >
 > 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
@@ -89,8 +87,4 @@ Brasília, 5 de maio de 2026.
 |  |  |  |
 | Deputada Delegada Katarina 3ª Secretária |  | Senadora Ana Paula Lobato 3ª Secretária |
 |  |  |  |
-| Deputado Sergio Souza 4º Secretário |  | Senador Laércio Oliveira 4º Secretário |
-
-Este texto não substitui o publicado no DOU 6.5.2026
-
-\*
+| Deputado Sergio Souza 4º Secretário |  | Senador Laércio Oliveira 4º Secretário |\*

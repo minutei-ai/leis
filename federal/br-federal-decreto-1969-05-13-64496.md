@@ -1,5 +1,3 @@
-###DEC-064496-0-000-13-05-1969@@@
-
 DECRETO Nº 64.496, DE 13 DE MAIO DE 1969.
 
 Autoriza a cessão, sob a forma de utilização gratuita, de terreno que menciona, situado no Município de São Borja, no Estado do Rio Grande do Sul.

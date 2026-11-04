@@ -1,5 +1,3 @@
-###MPV-001970-0-015-27-09-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1970-15, DE 27 de SETEMBRO de 2000.
 
 Institui, no âmbito do Poder Executivo da União, o Programa de Desligamento Voluntário \- PDV, a jornada de trabalho reduzida com remuneração proporcional e a licença sem remuneração com pagamento de incentivo em pecúnia, destinados ao servidor da administração pública direta, autárquica e fundacional.

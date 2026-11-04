@@ -1,5 +1,3 @@
-###DEL-007386-0-000-15-03-1945@@@
-
 DECRETO-LEI N. 7.386 – DE 15 DE MARÇO DE 1945
 
 Cria uma coletoria federal no município de Joaquim Távora, no Estado do Paraná, e dá outras providências.

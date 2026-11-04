@@ -1,5 +1,3 @@
-###DEL-004293-0-000-07-05-1942@@@
-
 DECRETO-LEI N. 4.293 – DE 7 DE MAIO DE 1942
 
 Dispõe sobre os prazos para a apresentação e exame dos balanços gerais do exercício de 1941

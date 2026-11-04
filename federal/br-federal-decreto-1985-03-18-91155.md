@@ -1,5 +1,3 @@
-###DEC-091155-0-000-18-03-1985@@@
-
 DECRETO Nº 91.155, DE 18 DE MARÇO DE 1985.
 
 Delega competência ao Ministro de Estado Extraordinário para Assuntos de Administração para a prática dos atos que menciona.

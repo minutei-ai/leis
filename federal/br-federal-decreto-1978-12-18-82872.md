@@ -1,5 +1,3 @@
-###DEC-082872-0-000-18-12-1978@@@
-
 Decreto nº 82 872, de 18 de dezembro de 1978
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

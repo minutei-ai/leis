@@ -1,5 +1,3 @@
-###DEC-066143-0-000-30-01-1970@@@
-
 DECRETO Nº 66.143 - DE 30 DE JANEIRO DE 1970
 
 Extingue a Superintendência da Exposição Mundial Comemorativa do Sesquicentenário da Independência do Brasil (EXPO-72) e dá outras providências.

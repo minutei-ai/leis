@@ -1,5 +1,3 @@
-###DEC-051965-0-000-26-04-1963@@@
-
 DECRETO Nº 51.965, DE 26 DE ABRIL DE 1963.
 
 Autoriza a Centrais Elétricas de Minas Gerias S.A., (CEMIG) a construir linha de transmissão.

@@ -1,30 +1,28 @@
-###DEC-052663-0-000-11-10-1963@@@
+**DECRETO Nº 52.663, DE 11 DE OUTUBRO DE 1963.**
 
-<strong>DECRETO Nº 52.663, DE 11 DE OUTUBRO DE 1963.</strong>
+***Aprova o Regimento do Departamento Econômico, do Ministério da Agricultura.***
 
-<em><strong>Aprova o Regimento do Departamento Econômico, do Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Departamento Econômico, do Ministério da Agricultura, que com êste baixa, assinado pelo Ministro de Estado.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Departamento Econômico, do Ministério da Agricultura, que com êste baixa, assinado pelo Ministro de Estado.
-
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 11 de outubro de 1963; 142º da Independência e 75º da República.
 
-<strong>JOÃO GOULART</strong>
+**JOÃO GOULART**
 
 Oswaldo Lima Filho
 
-<strong>REGIMENTO DO DEPARTAMENTO ECONÔMICO</strong>
+**REGIMENTO DO DEPARTAMENTO ECONÔMICO**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º O Departamento Econômico (D.E.), criado pela Lei Delegada nº 9, de 11 de outubro de 1962, diretamente subordinado ao Secretário-Geral da Agricultura, é o órgão central da programação e análise das atividades relacionadas com a economia, a previsão de safra e a estatística da produção, competindo-lhe:
+**Art**. 1º O Departamento Econômico (D.E.), criado pela Lei Delegada nº 9, de 11 de outubro de 1962, diretamente subordinado ao Secretário-Geral da Agricultura, é o órgão central da programação e análise das atividades relacionadas com a economia, a previsão de safra e a estatística da produção, competindo-lhe:
 
 I - Planejar, executar e controlar os estudos e pesquisas sôbre as condições econômicas das atividades agropecuárias e as relações com o conjunto da economia nacional;
 
@@ -44,11 +42,11 @@ VIII - Promover levantamento e realizar sistematização, análise e divulgaçã
 
 IX - Promover levantamento e elaborar previsões para as safras agropecuárias.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º O Departamento Econômico (D.E.) compreende:
+**Art**. 2º O Departamento Econômico (D.E.) compreende:
 
 A - Órgãos centrais
 
@@ -110,35 +108,35 @@ B - Órgãos regionais
 
 Parágrafo único. Funcionará junto à Diretoria Geral do D.E., sob a presidência do respectivo titular, um Conselho de Diretores, composto dos dirigentes da D.L.A.E., dos S.P.S. e S.E.P e da S.A.
 
-<strong>Art</strong>. 3º O D.E. será dirigido por um Diretor-Geral, nomeado pelo Presidente da República, entre os ocupantes dos cargos de Economista e Estatístico.
+**Art**. 3º O D.E. será dirigido por um Diretor-Geral, nomeado pelo Presidente da República, entre os ocupantes dos cargos de Economista e Estatístico.
 
 Parágrafo único. O Diretor-Geral do D.E. terá quatro (quatro) assessores, sendo 3 (três) para assuntos técnicos e 1 (um) para assuntos administrativos, um Secretário e 2 (dois) auxiliares, todos de sua livre escolha, entre funcionários públicos federais.
 
-<strong>Art</strong>. 4º A Divisão de Levantamento e Análise Econômica e o Serviço de Previsão de Safras terão diretores, nomeados em comissão pelo Presidente da República, escolhidos entre ocupantes de cargos técnicos, de preferência engenheiros agrônomos e economistas.
+**Art**. 4º A Divisão de Levantamento e Análise Econômica e o Serviço de Previsão de Safras terão diretores, nomeados em comissão pelo Presidente da República, escolhidos entre ocupantes de cargos técnicos, de preferência engenheiros agrônomos e economistas.
 
-<strong>Art</strong>. 5º O Serviço de Estatística da Produção terá diretor, nomeado em comissão pelo Presidente da República, escolhido dentre ocupantes de cargo de estatístico.
+**Art**. 5º O Serviço de Estatística da Produção terá diretor, nomeado em comissão pelo Presidente da República, escolhido dentre ocupantes de cargo de estatístico.
 
 § 1º Cada Diretor terá 2 (dois) assessores, um secretário e dois auxiliares, todos de sua livre escolha entre funcionários públicos federais.
 
 § 2º As funções de assessor de que trata o parágrafo anterior serão exercidas por ocupantes de cargos técnicos.
 
-<strong>Art</strong>. 6º As Seções e a Biblioteca terão chefes e as Turmas, encarregados.
+**Art**. 6º As Seções e a Biblioteca terão chefes e as Turmas, encarregados.
 
-<strong>Art</strong>. 7º As Agências Regionais terão dois assessores, designados pelo Diretor-Geral.
+**Art**. 7º As Agências Regionais terão dois assessores, designados pelo Diretor-Geral.
 
 Parágrafo único. As Agências Regionais terão dois assessores, designados pelo Diretor-Geral do D.E., para coordenação das atividades do Departamento na respectiva região.
 
-<strong>Art</strong>. 8º Os órgãos que integram o D.E. funcionarão em regime de mútua colaboração, sob a orientação do Diretor-Geral que coordenará, supervisionará, desenvolverá e avaliará as atividades gerais e específicas, nacionais ou regionais, do Departamento.
+**Art**. 8º Os órgãos que integram o D.E. funcionarão em regime de mútua colaboração, sob a orientação do Diretor-Geral que coordenará, supervisionará, desenvolverá e avaliará as atividades gerais e específicas, nacionais ou regionais, do Departamento.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Da competência dos órgãos</em>
+*Da competência dos órgãos*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Do conselho de diretores</em>
+*Do conselho de diretores*
 
-<strong>Art</strong>. 9º Ao Conselho de Diretores compete:
+**Art**. 9º Ao Conselho de Diretores compete:
 
 I - elaborar sob critérios prioritários e periódicos a longo e a curto prazo, planos e programas do D.E.;
 
@@ -150,7 +148,7 @@ IV - Discutir a proposta orçamentária do D.E.;
 
 V - Sugerir ao Diretor-Geral a vinda de técnicos estrangeiros de reconhecido valor, para o fim de realizarem palestras e cursos sôbre assuntos relativo a pesquisas econômicas aplicadas à agricultura.
 
-<strong>Art</strong>. 10. A Seção de Programação e Avaliação (SEPRA) compete:
+**Art**. 10. A Seção de Programação e Avaliação (SEPRA) compete:
 
 I - assessorar o Diretor-Geral no exame dos problemas relativos a planejamento, programação e avaliação das atividades a cargo do D.E., visando a harmonizar o trabalho dos diferentes órgãos, em função das diretrizes do Ministério e da Agricultura do País;
 
@@ -160,11 +158,11 @@ III - Cooperar na implantação da programação aprovada;
 
 IV - Prestar ao Conselho de Diretores a cooperação indispensável ao levantamento de necessidades e ao exame das tarefas atinentes ao D.E.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da divisão de levantamento e Análise Econômica</em>
+*Da divisão de levantamento e Análise Econômica*
 
-<strong>Art</strong>. 11. A Divisão de Levantamento e Análise Econômica (DLAE) compete:
+**Art**. 11. A Divisão de Levantamento e Análise Econômica (DLAE) compete:
 
 I - Promover, sistematicamente, os levantamentos econômicos básicos da agricultura do país;
 
@@ -182,7 +180,7 @@ VII - realizar estudos e pesquisas sôbre a estrutura dos mercados;
 
 VIII - Realizar estudos e pesquisas sôbre métodos e sistemas de investigação econômica a serem adotados.
 
-<strong>Art</strong>. 12. A Seção de Estudos da Economia Rural (SECRU) compete:
+**Art**. 12. A Seção de Estudos da Economia Rural (SECRU) compete:
 
 I - Realizar pesquisas que permitam determinar a situação econômica e social da agricultura, traçar os objetivos a serem por ela alcançados e sugerir medidas para a solução dos problemas da economia rural brasileira;
 
@@ -196,7 +194,7 @@ V - Realizar estudos que permitam sugerir bases para o desenvolvimento do crédi
 
 VI - Realizar pesquisas que permitam sugerir ao órgão específico diretrizes para o aprimoramento da estrutura agrária, para a elaboração do plano de desenvolvimento agropecuário nacional e também para a determinação de planos específicos ou setoriais, para a economia brasileira.
 
-<strong>Art</strong>. 13. A Seção de Administração de Emprêsas Rurais (SADEM) compete:
+**Art**. 13. A Seção de Administração de Emprêsas Rurais (SADEM) compete:
 
 I - Estudar o tamanho ideal de emprêsas e os tipos de explorações rurais mais eficientes, para as várias regiões do País, e os fatôres que determinam a baixa produtividade da terra, do trabalho e do capital;
 
@@ -210,7 +208,7 @@ V - estudar as implicações de crédito agrícola na rentabilidade das emprêsa
 
 VI - Incentivar contabilidade agrícola e fazer a análise econômico-financeira das emprêsas rurais.
 
-<strong>Art</strong>. 14. A Seção de Comercialização e Análise de Preços (SECIA), compete:
+**Art**. 14. A Seção de Comercialização e Análise de Preços (SECIA), compete:
 
 I - Determinar o custo da comercialização dos produtos agropecuários, em suas diferentes fases, visando a aumentar a sua eficiência inclusive para a conquista de novos mercados;
 
@@ -230,7 +228,7 @@ VIII - Determinar e analisar as relações entre os preços pagos e os recebidos
 
 IX - Estudar e analisar os fatôres responsáveis pelo desequilíbrio entre a oferta e a procura dos produtos agropecuários.
 
-<strong>Art</strong>. 15. A Seção de Análises de Custo e Rendas Agrícolas (SAREN) compete:
+**Art**. 15. A Seção de Análises de Custo e Rendas Agrícolas (SAREN) compete:
 
 I - Realizar pesquisas visando determinar e analisar o custo de produção;
 
@@ -238,11 +236,11 @@ II - Estudar a competição econômica entre as diversas culturas já existentes
 
 III - pesquisar e analisar os custos de diferentes níveis tecnológicos.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Do serviço de previsão de safras</em>
+*Do serviço de previsão de safras*
 
-<strong>Art</strong>. 16. Ao Serviço de Previsão de Safras compete:
+**Art**. 16. Ao Serviço de Previsão de Safras compete:
 
 I - Promover levantamento e elaborar estimativas das safras agropecuárias, realizando a divulgação dos seus resultados, em colaboração com o Serviço de Informação Agrícola;
 
@@ -252,13 +250,13 @@ III - Organizar e manter cadastros necessários aos seus trabalhos;
 
 IV - Acompanhar o comportamento das safras, visando a corrigir as suas previsões.
 
-<strong>Art</strong>. 17. A Seção de Métodos, Planejamento e Análise (SANAL) compete:
+**Art**. 17. A Seção de Métodos, Planejamento e Análise (SANAL) compete:
 
 I - Estabelecer as normas técnicas para levantamento de safras;
 
 II - Acompanhar e analisar o desenvolvimento técnico dos trabalhos executados pelas seções específicas.
 
-<strong>Art</strong>. 18. A Seção de Previsão de Culturas Temporárias (SETEM) compete:
+**Art**. 18. A Seção de Previsão de Culturas Temporárias (SETEM) compete:
 
 I - Realizar a previsão de safras das culturas temporárias, tendo em vista as áreas cultivadas, o ciclo de desenvolvimento e o início das colheitas;
 
@@ -268,7 +266,7 @@ III - Fixar as épocas de divulgação dos respectivos prognósticos.
 
 IV - Sistematizar os dados referentes aos respectivos devantamentos para efeito de divulgação.
 
-<strong>Art</strong>. 19. A Seção de Previsão de Culturas Permanentes (SEPRE) compete:
+**Art**. 19. A Seção de Previsão de Culturas Permanentes (SEPRE) compete:
 
 I - Realizar a previsão de safras das culturas permanentes, tendo em vista as áreas cultivadas, o ciclo de desenvolvimento e o início das colheitas;
 
@@ -278,7 +276,7 @@ III - Fixar as épocas de divulgação dos respectivos prognósticos;
 
 IV - Sistematizar os dados referentes aos respctivos levantamentos para efeito de divulgação.
 
-<strong>Art</strong>. 20. A Seção de Produtos Animais e Extrativos (SEANI) compete:
+**Art**. 20. A Seção de Produtos Animais e Extrativos (SEANI) compete:
 
 I - Realizar a previsão da produção de produtos animais e extrativos;
 
@@ -286,17 +284,17 @@ II - Fixar as épocas, de divulgação dos respectivos prognósticos;
 
 III - Sistematizar os dados referentes aos respectivos levantamentos para efeito de divulgação.
 
-<strong>Art</strong>. 21. A Seção de Cadastro e Registro de Lavradores e Criadores (SEREG) compete:
+**Art**. 21. A Seção de Cadastro e Registro de Lavradores e Criadores (SEREG) compete:
 
 I - Efetuar o registro dos agricultores e criadores, das propriedades e dos estabelecimentos agropecuários, procedendo à coleta de dados e efetuando a crítica dos mesmos;
 
 II - Organizar e manter atualizado o cadastro, relativo ao item primeiro, visando à aplicação do processo de amostragem nos levantamentos agropecuários, em proveito de uma mais perfeita técnica de previsão de safras, no âmbito nacional.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Do Serviço de Estatística da Produção</em>
+*Do Serviço de Estatística da Produção*
 
-<strong>Art</strong>. 22. Ao Serviço de Estatística da Produção (SEP) compete:
+**Art**. 22. Ao Serviço de Estatística da Produção (SEP) compete:
 
 I - Promover, coordenar e sistematizar dados estatísticos referentes à produção agropecuária e extrativa animal e vegetal, bem como sôbre as atividades industriais ligadas àquela produção;
 
@@ -306,7 +304,7 @@ III - Promover a divulgação da estatística que elaborar em colaboração com 
 
 IV - Promover levantamentos estatísticos específicos para atender às necessidades dos órgãos do Ministério da Agricultura.
 
-<strong>Art</strong>. 23. A Seção de Planejamento e Análise Estatística (SESTA) compete:
+**Art**. 23. A Seção de Planejamento e Análise Estatística (SESTA) compete:
 
 I - Planejar a aplicação de novas técnicas de levantamentos estatísticos, acompanhar as suas execuções pelas seções específicas, bem como aperfeiçoar as técnicas em uso;
 
@@ -322,7 +320,7 @@ VI - Coordenar os planos de divulgação, confeccionando gráficos e painéis qu
 
 VII - Sugerir novos levantamentos ou apenas novas tabulações visando ao melhor aproveitamento das pesquisas efetuadas.
 
-<strong>Art</strong>. 24. A Seção de Estatística da Produção Agrícola (SAGRI) compete:
+**Art**. 24. A Seção de Estatística da Produção Agrícola (SAGRI) compete:
 
 I - Coletar, criticar, apurar e sistematizar os dados estatísticos referentes à produção agrícola temporária, bem como sôbre as áreas plantadas e em produção e os respectivos rendimentos;
 
@@ -330,13 +328,13 @@ II - Coletar, criticar, apurar e sistematizar os dados estatísticos referentes 
 
 III - Coletar, criticar, apurar e sistematizar os dados estatísticos referentes a produtos agrícolas industrializados em primeira transformação (Indústrias primárias).
 
-<strong>Art</strong>. 25. A Seção de Estatística da Produção Pecuária (SETIS) compete:
+**Art**. 25. A Seção de Estatística da Produção Pecuária (SETIS) compete:
 
 I - Coletar, criticar, apurar e sistematizar os dados estatísticos referentes ao rebanho dos animais, à criação, seus produtos ao abate, ao aproveitamento das carnes, derivados e subprodutos;
 
 II - Coletar, criticar, apurar e sistematizar os dados estatísticos referentes aos produtos animais industrializados em primeira transformação (Indústrias primárias).
 
-<strong>Art</strong>. 26. A Seção de Estatística da Produção Extrativa (SETRA) compete:
+**Art**. 26. A Seção de Estatística da Produção Extrativa (SETRA) compete:
 
 I - Coletar, criticar, apurar e sistematizar os dados estatísticos referentes aos produtos extrativos vegetais, inclusive abate de árvores;
 
@@ -344,7 +342,7 @@ II - Coletar, criticar, apurar e sistematizar os dados estatísticos referentes 
 
 III - Coletar, criticar, apurar e sistematizar os dados estatísticos referentes aos produtos de origem extrativa vegetal e animal industrializados em primeira trasformação (Indústrias primárias).
 
-<strong>Art</strong>. 27. A Seção de Mecanização (SEMEC) compete:
+**Art**. 27. A Seção de Mecanização (SEMEC) compete:
 
 I - Perfurar e conferir cartões destinados à apuração constantes dos inquéritos realizados pelos órgãos do D.E.;
 
@@ -362,11 +360,11 @@ VI - Executar trabalhos especiais, dentro das possibilidades da Seção, sem que
 
 § 2º À Turma de Tabulação (TUTAB) incumbe a tabulação de acôrdo com a sistematização solicitada, segundo a programação da Seção.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da Biblioteca</em>
+*Da Biblioteca*
 
-<strong>Art</strong>. 28. À Biblioteca (BIBEC) compete:
+**Art**. 28. À Biblioteca (BIBEC) compete:
 
 I - Registrar, classificar, catalogar, guardar e conservar obras de interêsse do D.E.;
 
@@ -382,11 +380,11 @@ VI - Manter em dia um fichário de referência de leis, regulamentos e portarias
 
 VII - Manter intercâmbio bibliográfico com instituições científicas do Brasil e do estrangeiro.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Da Seção de Administração</em>
+*Da Seção de Administração*
 
-<strong>Art</strong>. 29. À Seção de Administração (S.A.) compete:
+**Art**. 29. À Seção de Administração (S.A.) compete:
 
 I - Elaborar o expediente administrativo do D.E.;
 
@@ -432,11 +430,11 @@ III - expedir certidões, exceto as relativas a tempo de serviço prestado ao D.
 
 IV - Providenciar a publicação no Diário Oficial de expediente do D.E.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Das Turmas de Administração</em>
+*Das Turmas de Administração*
 
-<strong>Art</strong>. 30. Às Turmas de Administração (T.A.) compete:
+**Art**. 30. Às Turmas de Administração (T.A.) compete:
 
 I - articular-se com a S.A., no que disser respeito aos trabalhos dos órgãos a que pertençam;
 
@@ -450,11 +448,11 @@ V - organizar e expedir os boletins de frequência dos funcionários;
 
 VI - elaborar o expediente dos órgãos a que pertençam, referente a pessoal orçamento e material.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Das Agências Regionais</em>
+*Das Agências Regionais*
 
-<strong>Art</strong>. 31 - As Agências Regionais (AGECO) compete:
+**Art**. 31 - As Agências Regionais (AGECO) compete:
 
 I - realizar estudos e pesquisas referentes à administração rural, comercialização mercados e preços de produtos agropecuários;
 
@@ -472,11 +470,11 @@ VII - levantar estatísticas referentes à exploração direta do solo, e ao ben
 
 VIII - cumprir as demais atribuições que lhes forem determinadas pelo Diretor-Geral do D.E.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Da Atribuição do Pessoal</em>
+*Da Atribuição do Pessoal*
 
-<strong>Art</strong>. 32. Ao Diretor-Geral do D.E. incumbe:
+**Art**. 32. Ao Diretor-Geral do D.E. incumbe:
 
 I - superintender, de acôrdo com a legislação, normas e instruções vigentes, as atividades a cargo do Departamento;
 
@@ -528,7 +526,7 @@ XXIV - examinar e aprovar os relatórios dos órgãos que lhe são subordinados;
 
 XXV - exercer quaisquer outras atribuições que lhe competirem por êste Regimento ou lhe forem cometidas pelo Secretário Geral da Agricultura ou pelo Ministro de Estado.
 
-<strong>Art</strong>. 33. Aos Diretores de Divisão e Serviços, ao Chefes de Agência Regional, SEPRA e S.A. no que couber incumbe:
+**Art**. 33. Aos Diretores de Divisão e Serviços, ao Chefes de Agência Regional, SEPRA e S.A. no que couber incumbe:
 
 I - dirigir, coordenar, orientar e fiscalizar os trabalhos a cargo do respectivo órgão, estabelecendo normas e métodos para execução dos mesmos;
 
@@ -594,7 +592,7 @@ XXXI - Emitir parecer sôbre a conveniência da publicação de trabalhos técni
 
 XXXII - Exercer tôdas as demais atividades não expressamente previstas neste Regimento que lhes caibam em virtude da legislação em vigor e que sejam necessárias à plena realização das atribuições afetas aos órgãos sob sua direção.
 
-<strong>Art</strong>. 34. Aos Chefes de Seção e de Biblioteca e aos Encarregados de Turma incumbe:
+**Art**. 34. Aos Chefes de Seção e de Biblioteca e aos Encarregados de Turma incumbe:
 
 I - Dirigir e fiscalizar os trabalhos das respectivas unidades administrativas;
 
@@ -624,9 +622,9 @@ XIII - Designar e dispensar quando lhe forem diretamente subordinados, os ocupan
 
 XIV - Exercer tôdas as demais atividades não expressamente previstas neste Regimento, que lhes caibam em virtude da legislação em vigor e que sejam necessárias à plena realização das atribuições afetas aos órgãos a que estiverem subordinados.
 
-<strong>Art</strong>. 35. Aos Assessôres incumbe o desempenho das atribuições de natureza especializada que lhes forem cometidas pelos respectivos superiores hierárquicos.
+**Art**. 35. Aos Assessôres incumbe o desempenho das atribuições de natureza especializada que lhes forem cometidas pelos respectivos superiores hierárquicos.
 
-<strong>Art</strong>. 36. Aos Secretários do Diretor-Geral e dos Diretores incube:
+**Art**. 36. Aos Secretários do Diretor-Geral e dos Diretores incube:
 
 I - Atender às pessoas de desejarem comunicar-se com a autoridade junto à qual servirem, encaminhando-se ou dando a esta conhecimento do assunto a tratar;
 
@@ -634,17 +632,17 @@ II - Redigir a correspondência que lhes fôr determinada;
 
 III - Realizar outras tarefas que lhes forem cometidas pelos respectivos superiores hierárquicos.
 
-<strong>Art</strong>. 37. Aos Auxiliares do Diretor-Geral e dos Diretores incumbe:
+**Art**. 37. Aos Auxiliares do Diretor-Geral e dos Diretores incumbe:
 
 I - Organizar e manter atualizado o contrôle da movimentação de processos submetidos a despacho da autoridade a que esstiverem subordinados;
 
 II - Executar trabalhos de datilografia e outros que lhes forem determinados.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-<strong>Art</strong>. 38. Serão substituídos automaticamente, em seus impedimentos eventuais até 30 dias;
+**Art**. 38. Serão substituídos automaticamente, em seus impedimentos eventuais até 30 dias;
 
 I - O Diretor-Geral do D.E. pelo Diretor de Divisão ou Diretor de Serviço, de usa indicação, designado pelo Secretário-Geral;
 
@@ -654,244 +652,242 @@ III - Os Chefes de Seção e os Encarregados de Turma, por funcionários por êl
 
 Parágrafo único. Haverá sempre servidores designados para s substituições de que trata êste artigo.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>Da Lotação</em>
+*Da Lotação*
 
-<strong>Art</strong>. 39. O D.E. terá a lotação que fôr aprovada em Decreto.
+**Art**. 39. O D.E. terá a lotação que fôr aprovada em Decreto.
 
 Parágrafo único. Além dos funcionários constantes de sua lotação o D.E. poderá dispor de pessoal requisitado na forma da legislação em vigor.
 
-<strong>TÍTULO VII</strong>
+**TÍTULO VII**
 
-<em>Do Horário</em>
+*Do Horário*
 
-<strong>Art</strong>. 40. O horário normal de trabalho é o fixado para o Serviço Público Federal respeitados os regimes especiais estabelecidos na legislação vigente.
+**Art**. 40. O horário normal de trabalho é o fixado para o Serviço Público Federal respeitados os regimes especiais estabelecidos na legislação vigente.
 
 § 1º Poderá ser estabelecido horário especial condizente com o gênero das atividades do D.E., desde que observado o número normal de horas semanais ou mensais.
 
 § 2º Nos trabalhos sem que houver necessidade de revezamento, observar-se-á a escala de distribuição dos servidores que fôr aprovada pelo respectivo chefe.
 
-<strong>TÍTULO VIII</strong>
+**TÍTULO VIII**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 41. O Departamento Econômico pedirá, mediante acôrdos, convênios ou ajustes, realizar estudos e pesquisas em colaboração com outros órgãos federais, estaduais e municipais e com instituições congêneres, nacionais e internacionais.
+**Art**. 41. O Departamento Econômico pedirá, mediante acôrdos, convênios ou ajustes, realizar estudos e pesquisas em colaboração com outros órgãos federais, estaduais e municipais e com instituições congêneres, nacionais e internacionais.
 
 Parágrafo único. Os acôrdos e atos a que se refere êste artigo serão executados segundo plano de trabalho elaborado pelo respectivo Diretor, aprovado pelo Diretor-Geral e submetido à Comissão de Planejamento da Política Agrícola.
 
-<strong>Art</strong>. 42. O D.E. promoverá, em colaboração com o órgão competente, a especialização do seu pessoal técnico-científico, através de cursos de aperfeiçoamento e de pós-graduação.
+**Art**. 42. O D.E. promoverá, em colaboração com o órgão competente, a especialização do seu pessoal técnico-científico, através de cursos de aperfeiçoamento e de pós-graduação.
 
 Parágrafo único. O preparo de auxiliares para pesquisas será realizado através de cursos práticos e intensivos.
 
-<strong>Art</strong>. 43. O D.E. publicará, em articulação com o Serviço de Informação Agrícola boletins para divulgação de estudos e pesquisas referentes à economia rural.
+**Art**. 43. O D.E. publicará, em articulação com o Serviço de Informação Agrícola boletins para divulgação de estudos e pesquisas referentes à economia rural.
 
-<strong>Art</strong>. 44. Nenhum servidor do D.E. poderá publicar artigos, livros e realizar conferências que digam respeito à orientação técnica ou administrativa da Divisão ou dos serviços sem prévio consentimento, por escrito, do Diretor-Geral.
+**Art**. 44. Nenhum servidor do D.E. poderá publicar artigos, livros e realizar conferências que digam respeito à orientação técnica ou administrativa da Divisão ou dos serviços sem prévio consentimento, por escrito, do Diretor-Geral.
 
-<strong>Art</strong>. 45. O D.E., através da sua Divisão ou dos seus Serviços, manterá contato permanente com a entidades públicas ou particulares que exercem atividades afins ou relacionadas com as que lhe são peculiares, desde que necessário à melhor consecução das suas finalidades.
+**Art**. 45. O D.E., através da sua Divisão ou dos seus Serviços, manterá contato permanente com a entidades públicas ou particulares que exercem atividades afins ou relacionadas com as que lhe são peculiares, desde que necessário à melhor consecução das suas finalidades.
 
-<strong>Art</strong>. 46. Os casos omissos no presente Regimento serão resolvidos pelo Ministro da Agricultura.
+**Art**. 46. Os casos omissos no presente Regimento serão resolvidos pelo Ministro da Agricultura.
 
 Brasília, 11 de outubro de 1963.
 
-<strong>OSWALDO LIMA FILHO</strong>
+**OSWALDO LIMA FILHO**
 
-###DEC-052663-0-000-11-10-1963@@@RET01+++
+**DECRETO Nº 52.663, DE 11 DE OUTUBRO DE 1963.**
 
-<strong>DECRETO Nº 52.663, DE 11 DE OUTUBRO DE 1963.</strong>
+***Aprova o Regimento do Departamento Econômico do Ministério da Agricultura.***
 
-<em><strong>Aprova o Regimento do Departamento Econômico do Ministério da Agricultura.</strong></em>
-
-<strong>RETIFICAÇÕES</strong>
+**RETIFICAÇÕES**
 
 Na 1ª página, art. 2º - A - Órgãos centrais,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 Secção de Métodos, Planejamento e Análises (SENAL)
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 Secção de Métodos, Planejamento e Análise (SANAL).
 
 Capítulo II
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 Da divisão de levantamento e Análise Econômica
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 DA DIVISÃO DE LEVANTAMENTO E ANÁLISE ECONÔMICA
 
 Na pagina 8.754, 2º coluna, no item III) do Artigo 13
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 de popriedade, em ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 de propriedades, em ...
 
 No Artigo 18,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 III ... respectivos prognóstico:
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 III ... respectivos prognósticos;
 
 Na página 8.754, 4ª coluna, item I do artigo 19,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ... vsta as áreas ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 vista as áreas ...
 
 No Art. 23,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 VI ... falicitem ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 VI ... facilitem ...
 
 Na página 8.755, 2ª coluna, item II, do art. 26,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ... dados esetatisticos referentes ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 dados estatístico referentes ...
 
 Na mesma página, 4ª coluna, logo após o item II do artigo 32,
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 item III
 
 Na página 8.756, 1ª coluna, item X do art. 32,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 tornar as providências ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 tomar as providências ...
 
 Na mesma página, 3ª coluna, item XIX do art. 33,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ... penas discippnares inclusive a de ... 20 dias, ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 ... penas disciplinares inclusive a de suspensão de 20 dias ...
 
 No item XXV
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ... relatórios dos ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 ... relatórios dos órgãos subordinados.
 
 No item XXVI,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ... a fim de ... seu, serviços ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 ... a fim de coordenar as atividades dos seus serviços ...
 
 Na mesma página e coluna, item IV art. 34,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ... solicitado, ... trabalhos ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 ... solicitado, boletins dos trabalhos ...
 
 Na 4ª coluna, item VII do mesmo artigo,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ... lhes forem subordiados:
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 ... lhes forem subordinados;
 
 No item XIII do mesmo artigo e coluna,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ... gratificadas e seus substitutivos eventuais:
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 ... gratificadas e seus substitutos eventuais;
 
 Ainda na 4ª coluna,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 Artigo 35 - ... desempenho das ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 Artigo 35 - Aos Assessôres incube o desempenho das ...
 
 Na página 8.757 1º coluna, repete-se o artigo 41 e seu parágrafo único por ter saído ilegível.
 
-<strong>Art</strong>. 41. O Departamento Econômico poderá, mediante acôrdos, convênios ou ajustes, realizar estudos e pesquisas em colaboração com outros órgãos federais, estaduais e municipais, e com instituições congêneres nacionais e internacionais.
+**Art**. 41. O Departamento Econômico poderá, mediante acôrdos, convênios ou ajustes, realizar estudos e pesquisas em colaboração com outros órgãos federais, estaduais e municipais, e com instituições congêneres nacionais e internacionais.
 
 Parágrafo único. Os acôrdos e atos a que se refere êste serão executados segundo plano de trabalho elaborado pelo respectivo Diretor-Geral e submetido à Comissão de Planejamento da Política Agrícola.
 
 No art. 42,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ... promoverá em ... a especialização ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 ... promoverá, em colaboração com o órgão competente, a especialização ...
 
 No art. 44,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ... técnica ou ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 ... técnicas ou administrativa da Divisão ou dos Serviços sem prévio consentimento, por escrito, do Diretor-Geral.
 
 No art. 45,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ... através da sua ... contato ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 ... através da sua Divisão ou dos seus Serviços, manterá contato ...

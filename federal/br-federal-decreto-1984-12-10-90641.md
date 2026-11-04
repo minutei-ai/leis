@@ -1,5 +1,3 @@
-###DEC-090641-0-000-10-12-1984@@@
-
 Decreto Nº 90.641, de 10 de dezembro de 1984.
 
 Altera o Decreto nº 86.600, de 17 de novembro de 1981, regulamentador da Lei nº 6.445, de 4 de outubro de 1977, que dispõe sobre consignações em folha de pagamento de servidores civis.

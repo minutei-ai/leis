@@ -1,5 +1,3 @@
-###DEC-080493-0-000-05-10-1977@@@
-
 decreto nº 80.493, de 5 de outubro de 1977.
 
 Autoriza a cessão, sob forma de utilização gratuita, do terreno que menciona, situado no Município de Foz do Iguaçu, no Estado do Paraná.

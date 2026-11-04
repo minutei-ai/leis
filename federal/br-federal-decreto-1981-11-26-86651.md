@@ -1,5 +1,3 @@
-###DEC-086651-0-000-26-11-1981@@@
-
 Decreto nº 86.651, de 26 de novembro de 1981
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação de áreas adicionais ao canteiro de obras da Usina Hidroelétrica de Rosana, da CESP - Companhia Energética de São Paulo, nos Estados do Paraná e São Paulo.

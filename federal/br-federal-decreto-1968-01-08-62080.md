@@ -1,5 +1,3 @@
-###DEC-062080-0-000-08-01-1968@@@
-
 DECRETO Nº 62.080, DE 8 DE JANEIRO DE 1968.
 
 Declara caduco o Decreto n.º 21.395, de 8 de julho de 1946.

@@ -1,5 +1,3 @@
-###DEL-003088-0-000-04-03-1941@@@
-
 DECRETO-LEI N. 3.088 – DE 4 DE MARÇO DE 1941
 
 Cria a função gratificada de secretário da Escola de Enfermeiras “Ana Neri” e dá outras providências

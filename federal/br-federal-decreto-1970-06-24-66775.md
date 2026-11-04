@@ -1,5 +1,3 @@
-###DEC-066775-0-000-24-06-1970@@@
-
 DECRETO Nº 66.775 - DE 24 DE JUNHO DE 1970
 
 Cria o Consulado honorário do Brasil em Guadalajara, México.

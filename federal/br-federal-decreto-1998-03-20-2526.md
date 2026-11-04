@@ -1,5 +1,3 @@
-###DEC-002526-0-000-20-03-1998@@@
-
 DECRETO Nº 2.526, DE 20 DE MARÇO DE 1998
 
 Dispõe sobre a execução do Nono Protocolo Adicional ao Acordo de Alcance Parcial de “Renegociação das Concessões Outorgadas no Período 1962/1980” nº 10 (Protocolo de Adequação), entre Brasil e Colômbia, de 18 de dezembro de 1997.
@@ -40,4 +38,20 @@ A Secretaria-Geral da Associação será depositária do presente Protocolo, do 
 
 EM FÉ DO QUE, os respectivos Plenipotenciários subscrevem o presente Protocolo na cidade de Montevidéu, aos dezoito dias do mês de dezembro de mil novecentos e noventa e sete, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-indent:28.35pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil:</span></p></td><td style="width:178.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-indent:28.35pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">José Artur Denot Medeiros</span></p></td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-indent:28.35pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">pelo Governo da República da Colômbia:</span></p></td><td style="width:178.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Manuel José Cárdenas</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil:
+
+</td><td style="width:178.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+José Artur Denot Medeiros
+
+</td></tr><tr><td style="width:242.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+pelo Governo da República da Colômbia:
+
+</td><td style="width:178.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Manuel José Cárdenas
+
+</td></tr></tbody></table>

@@ -1,5 +1,3 @@
-###DEC-060609-0-000-24-04-1967@@@
-
 Decreto nº 60.609, de 24 de abril de 1967.
 
 Declara estado de calamidade pública nas áreas do Nordeste, que especifica, abre o crédito extraordinário de NCr$2.000.000 (dois milhões de cruzeiros novos) e dá outras providências.

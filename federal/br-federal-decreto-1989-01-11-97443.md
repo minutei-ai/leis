@@ -1,5 +1,3 @@
-###DEC-097443-0-000-11-01-1989@@@
-
 DECRETO N° 97.443, DE 11 DE JANEIRO DE 1989
 
 Fixa, no Ministério da Marinha, os mínimos de vagas para promoção obrigatória, referentes ao ano-base 1988, nos diversos Corpos e Quadros de Oficiais da Marinha,

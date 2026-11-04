@@ -1,5 +1,3 @@
-###DEL-002148-0-000-02-07-1984@@@
-
 # decreto-lei nº 2.148, de 02 de julho de 1984
 
 Reajusta os atuais valores de vencimentos e proventos dos servidores da Secretaria-Geral do Tribunal de Contas da União e dá outras providências.

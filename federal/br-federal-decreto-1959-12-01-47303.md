@@ -1,5 +1,3 @@
-###DEC-047303-0-000-01-12-1959@@@
-
 DECRETO Nº 47.303, DE 1 DE DEZEMBRO DE 1959.
 
 Inclui funções gratificadas no Ministério do Trabalho, Indústria e Comércio, e dá outras providências.

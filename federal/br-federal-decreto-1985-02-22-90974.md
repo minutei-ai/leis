@@ -1,5 +1,3 @@
-###DEC-090974-0-000-22-02-1985@@@
-
 DECRETO Nº 90.974, de 22 de fevereiro de 1985
 
 Autoriza o funcionamento do curso de Turismo e das habilitações em Comércio Exterior e Administração de Hotéis do curso de Administração da Fundação Educacional de Foz do Iguaçu/PR.

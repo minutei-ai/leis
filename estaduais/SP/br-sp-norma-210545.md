@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210545)<br>
-
 # DECRETO N° 69.317, DE 16 DE JANEIRO DE 2025
 
 ### _Transfere para a Fundação para a Conservação e a Produção Florestal do Estado de São Paulo a administração das áreas do Parque Estadual das Fontes do Ipiranga e do Parque Estadual Alberto Löfgren que especifica e dá providências correlatas._
@@ -24,7 +22,8 @@ Arthur Luis Pinho de Lima
 
 Natália Resende Andrade Ávila
 
-#### ANEXO I<br>
+#### ANEXO I
+
 a que se refere o artigo 5° do [Decreto n° 51.453, de 29 de dezembro de 2006](https://www.al.sp.gov.br/norma/69454)
 
 1\. ESTAÇÃO ECOLÓGICA DE BANANAL;
@@ -271,7 +270,8 @@ a que se refere o artigo 5° do [Decreto n° 51.453, de 29 de dezembro de 2006](
 
 122\. RESERVA DE DESENVOLVIMENTO SUSTENTÁVEL ITAPANHAPIMA.
 
-#### ANEXO III<br>
+#### ANEXO III
+
 a que se refere o artigo 6° do [Decreto n° 65.274, de 26 de outubro de 2020](https://www.al.sp.gov.br/norma/195860)
 
 1\. ÁREAS DO PARQUE ESTADUAL ALBERTO LÖFGREN OBJETO DO CONTRATO DE CONCESSÃO DE USO CELEBRADO NOS TERMOS DO [DECRETO N° 65.769, DE 7 DE JUNHO DE 2021](https://www.al.sp.gov.br/norma/198583);

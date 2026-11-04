@@ -1,5 +1,3 @@
-###DEC-094110-0-000-18-03-1987@@@
-
 DECRETO N° 94.110, DE 18 DE MARÇO DE 1987
 
 Altera a composição do Conselho Nacional de Seguros Privados e dá outras providências.

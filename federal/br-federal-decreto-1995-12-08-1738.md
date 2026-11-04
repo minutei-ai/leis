@@ -1,7 +1,3 @@
-1
-
-###DEC-001738-0-000-08-12-1995@@@
-
 DECRETO Nº 1.738, DE 8 DE DEZEMBRO DE 1995.
 
 Institui, no âmbito do Ministério da Administração Federal e Reforma do Estado, o Conselho de Reforma do Estado, e dá outras providências.

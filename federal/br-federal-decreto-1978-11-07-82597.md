@@ -1,5 +1,3 @@
-###DEC-082597-0-000-07-11-1978@@@
-
 Decreto nº 82.597, de 07 de novembro de 1978.
 
 Concede reconhecimento ao Curso de Ciências Contábeis da Faculdade Canoense de Ciências Administrativas e Contábeis, com sede na cidade de Canoas, Rio Grande do Sul.

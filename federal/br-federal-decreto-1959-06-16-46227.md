@@ -1,5 +1,3 @@
-###DEC-046227-0-000-16-06-1959@@@
-
 DECRETO Nº 46.227, DE 16 DE JUNHO DE 1959.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 32.492, de 30 de março de 1953, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Secas, da área de terreno situada no Município de Petrolina, Estado de Pernambuco.

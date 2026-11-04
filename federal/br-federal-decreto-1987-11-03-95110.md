@@ -1,5 +1,3 @@
-###DEC-095110-0-000-03-11-1987@@@
-
 DECRETO Nº 95.110, DE 3 DE NOVEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Matemática Aplicada à Informática da Faculdade de Ciências Contábeis e Administração Guerreiro Britto.

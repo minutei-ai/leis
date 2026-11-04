@@ -1,5 +1,3 @@
-###DEC-064146-0-000-03-03-1969@@@
-
 DECRETO Nº 64.146, DE 3 DE MARÇO DE 1969.
 
 Altera a área de jurisdição do Comando Naval de Ladário, aprovada pelo Decreto nº 61.171, de 18 de agôsto de 1967.

@@ -1,5 +1,3 @@
-###DEC-093858-0-000-22-12-1986@@@
-
 DECRETO Nº 93.858, DE 22 DE DEZEMBRO DE 1986
 
 Autoriza o funcionamento da habilitação em Biologia da Faculdade de Educação, Ciências e Letras de Cascavel.

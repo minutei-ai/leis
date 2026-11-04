@@ -1,5 +1,3 @@
-###DEC-048069-0-000-07-04-1960@@@
-
 DECRETO Nº 48.069, DE 7 DE abril DE 1960.
 
 .Estende ao pessoal da Caixa de Aposentadoria e Pensões dos Ferroviários e Empregados em Serviços Públicos, as vantagens da Lei nº 1.741, de 22 de novembro de 1952.

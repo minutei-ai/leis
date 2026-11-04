@@ -1,5 +1,3 @@
-###DEC-059260-0-000-22-09-1966@@@
-
 DECRETO Nº 56.260, DE 22 DE SETEMBRO DE 1966.
 
 Retifica o enquadramento de cargos e funções da Universidade do Brasil, aprovado pelo Decreto nº 51.366, de 6 de dezembro de 1961, e dá outras providências.
@@ -23,8 +21,6 @@ Brasília, 22 de setembro de 1966; 145º da Independência e 78º da República.
 H. Castello Branco
 
 Raymundo Moniz de Aragão
-
-###DEC-059260-0-000-22-09-1966@@@RET01+++
 
 Decreto nº 59.260, de 22 de setembro de 1966.
 

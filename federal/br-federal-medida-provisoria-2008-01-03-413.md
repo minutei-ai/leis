@@ -1,5 +1,3 @@
-###MPV-000413-0-000-03-01-2008@@@
-
 MEDIDA PROVISÓRIA Nº 413, DE 3 DE JANEIRO DE 2008.
 
 Dispõe sobre medidas tributárias destinadas a estimular os investimentos e a modernização do setor de turismo, a reforçar o sistema de proteção tarifária brasileiro, a estabelecer a incidência de forma concentrada da Contribuição para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS na produção e comercialização de álcool, altera o art. 3o da Lei no 7.689, de 15 de dezembro de 1988, e dá outras providências.
@@ -239,5 +237,3 @@ Brasília, 3 de janeiro de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 3.1.2008 - Edição extra.

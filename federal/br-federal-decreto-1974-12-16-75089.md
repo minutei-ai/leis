@@ -1,5 +1,3 @@
-###DEC-075089-0-000-16-12-1974@@@
-
 DECRETO Nº 75.089, DE 16 DE DEZEMBRO DE 1974.
 
 Fixa os preços mínimos líquidos básicos para financiamento ou aquisição de seda da safra 1974-75, produzida os Estados do Espírito Santo, Goiás, Guanabara, Mato Grosso, Minas Gerais, Paraná, Rio de Janeiro, Rio Grande do Sul, Santa Catarina, São Paulo e no Distrito Federal.

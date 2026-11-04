@@ -1,5 +1,3 @@
-###MPV-000186-0-000-13-05-2004@@@
-
 MEDIDA PROVISÓRIA Nº 186, DE 13 DE MAIO 2004
 
  Altera e acrescenta dispositivos à Lei nº 10.748, de 22 de outubro de 2003, que cria o Programa Nacional de Estímulo ao Primeiro Emprego para os Jovens - PNPE, e dá outras providências.

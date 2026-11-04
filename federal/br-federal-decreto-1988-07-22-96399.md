@@ -1,5 +1,3 @@
-###DEC-096399-0-000-22-07-1988@@@
-
 DECRETO N° 96.399, de 22 DE JULHO DE 1988
 
 Autoriza o THE FIRTS NATIONAL BANK OF BOSTON a instalar mais sete filiais no Brasil.

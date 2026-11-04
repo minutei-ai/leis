@@ -1,5 +1,3 @@
-###DEC-081788-0-000-13-06-1978@@@
-
 Decreto nº 81.788, de 13 de junho de 1978
 
 Autoriza o Ministro da Fazenda a conceder garantia da República Federativa do Brasil a operação externa que menciona.

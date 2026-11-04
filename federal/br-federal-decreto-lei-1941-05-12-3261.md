@@ -1,5 +1,3 @@
-###DEL-003261-0-000-12-05-1941@@@
-
 DECRETO-LEI N. 3.261 – DE 12 DE MAIO DE 1941
 
 Autoriza a aquisição de um imóvel em Passo Fundo, Estado do Rio Grande do Sul, para a instalação da Formação Sanitária do III/8º R. I

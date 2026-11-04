@@ -1,5 +1,3 @@
-###DEC-094610-0-000-14-07-1987@@@
-
 DECRETO N° 94.610, DE 14 DE JULHO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Promissão" (partes das Glebas 12, 13 e 14)", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de São Domingos do Capim, no Estado do Pará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.623, de 2 de maio de 1986 e dá outras providências.

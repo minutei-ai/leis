@@ -1,5 +1,3 @@
-###DEC-076937-0-000-30-12-1975@@@
-
 DECRETO Nº 76.937, DE 30 DE DEZEMBRO DE 1975.
 
 Fixa o preço mínimo único básico para financiamento ou aquisição de babaçu da safra 1976, produzido nas Unidades da Federação que menciona.

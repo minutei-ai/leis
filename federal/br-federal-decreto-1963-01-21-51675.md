@@ -1,5 +1,3 @@
-###DEC-051675-0-000-21-01-1963@@@
-
 DECRETO Nº 51.675, DE 21 DE JANEIRO DE 1963.
 
 Cria funções gratificadas no Quadro de Pessoal do Ministério da Marinha.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208192)<br>
-
 # LEI N° 17.699, DE 13 DE JUNHO DE 2023
 
 ## (Projeto de lei n° 436, de 2022, do Deputado Campos Machado - AVANTE)

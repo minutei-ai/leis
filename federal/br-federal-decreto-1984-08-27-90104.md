@@ -1,5 +1,3 @@
-###DEC-090104-0-000-27-08-1984@@@
-
 DECRETO Nº 90.104, DE 27 DE Agosto DE 1984
 
 Eleva o capital do Banco Nacional de Desenvolvimento Econômico e Social - BNDES.

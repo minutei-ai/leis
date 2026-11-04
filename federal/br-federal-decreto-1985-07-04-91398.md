@@ -110,7 +110,25 @@ Art. 11 - O Quadro Ordinário da O.M.F.A. é constituído por Oficiais da Marinh
 
 Art. 12 - O Quadro Ordinário terá o seguinte efetivo:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; border-collapse:collapse"><tbody><tr><td style="width:334.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">I - Grã-Cruz..............................................................................................</span></p></td><td style="width:53.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">25</span></p></td></tr><tr><td style="width:334.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">II - Grande-Oficial......................................................................................</span></p></td><td style="width:53.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">60</span></p></td></tr><tr><td style="width:334.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">III - Comendador........................................................................................</span></p></td><td style="width:53.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">120</span></p></td></tr><tr><td style="width:334.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">IV - Oficial................................................................................................</span></p></td><td style="width:53.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">180</span></p></td></tr><tr><td style="width:334.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">V- Cavaleiro..............................................................................................</span></p></td><td style="width:53.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">250</span></p></td></tr></tbody></table>
+I - Grã-Cruz..............................................................................................
+
+25
+
+II - Grande-Oficial......................................................................................
+
+60
+
+III - Comendador........................................................................................
+
+120
+
+IV - Oficial................................................................................................
+
+180
+
+V- Cavaleiro..............................................................................................
+
+250
 
 Art. 13 - As vagas em cada grau do Quadro Ordinário dar-se-ão por promoção, transferência para o Quadro Suplementar, exclusão ou morte.
 
@@ -150,11 +168,47 @@ Art. 18 - As propostas para admissão no Quadro Ordinário serão de dois (02) t
 
 Art. 19 - As propostas pessoais para admissão no Quadro Ordinário serão apresentadas de acordo com a tabela abaixo:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:63.8pt; border-collapse:collapse"><tbody><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PROPONENTES</span></p></td><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Nº DE PROPOSTAS</span></p></td></tr><tr><td style="width:258.55pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">I - Membros do Conselho.................................................</span></p></td><td style="width:93.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Ilimitado</span></p></td></tr><tr><td style="width:258.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">II - Oficial Generais das Forças Armadas, do último posto da carreira, em serviço ativos e que pertençam à ordem......</span></p></td><td style="width:93.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">02</span></p></td></tr></tbody></table>
+PROPONENTES
+
+Nº DE PROPOSTAS
+
+I - Membros do Conselho.................................................
+
+Ilimitado
+
+II - Oficial Generais das Forças Armadas, do último posto da carreira, em serviço ativos e que pertençam à ordem......
+
+02
 
 Art. 20 - As propostas funcionais para admissão no Quadro Ordinário serão apresentadas de acordo com a distribuição a seguir:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:63.8pt; border-collapse:collapse"><tbody><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PROPONENTES</span></p></td><td style="width:93.85pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Nº DE PROPOSTAS</span></p></td></tr><tr><td style="width:258.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">I - Ministro de Estado da Marinha, do Exército e da Aeronáutica.....................................................................</span></p></td><td style="width:93.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">05</span></p></td></tr><tr><td style="width:258.55pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">II -</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">Comandante da ESG..................................................</span></p></td><td style="width:93.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">03</span></p></td></tr><tr><td style="width:258.55pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">III - Vice - CEMFA............................................................</span></p></td><td style="width:93.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">03</span></p></td></tr><tr><td style="width:258.55pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">IV - Subchefes e Chefe do Gabinete..................................</span></p></td><td style="width:93.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">02</span></p></td></tr><tr><td style="width:258.55pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">V - Diretor do HFA...........................................................</span></p></td><td style="width:93.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">02</span></p></td></tr><tr><td style="width:258.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">VI - Chefe da Delegação Brasileira na JID..........................</span></p></td><td style="width:93.85pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">01</span></p></td></tr></tbody></table>
+PROPONENTES
+
+Nº DE PROPOSTAS
+
+I - Ministro de Estado da Marinha, do Exército e da Aeronáutica.....................................................................
+
+05
+
+II -  Comandante da ESG..................................................
+
+03
+
+III - Vice - CEMFA............................................................
+
+03
+
+IV - Subchefes e Chefe do Gabinete..................................
+
+02
+
+V - Diretor do HFA...........................................................
+
+02
+
+VI - Chefe da Delegação Brasileira na JID..........................
+
+01
 
 Parágrafo Único - Estas propostas limitar-se-ão a Oficiais subordinados aos proponentes.
 
@@ -200,7 +254,25 @@ Art. 26 - O Quadro Suplementar não terá limitação de efetivo.
 
 Art. 27 - Os Graus de que se compõe o Quadro Suplementar serão concedidos em princípio:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:70.9pt; border-collapse:collapse"><tbody><tr><td style="width:95.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">I - Grã-Cruz...............</span></p></td><td style="width:249.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">a Chefe de Estado, e Príncipes Reinantes de casas estrangeiras;</span></p></td></tr><tr><td style="width:95.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">II - Grande-Oficial......</span></p></td><td style="width:249.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">a nacionais e estrangeiros: Ministro de Estados, Chefes de Forças, Chefes de Estado-Maior das Forças Armadas e Oficiais-Generais das Forças Armadas de posto equivalente, no mínimo, a Vice-Almirante;</span></p></td></tr><tr><td style="width:95.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">III - Comendador .......</span></p></td><td style="width:249.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">a Oficiais-Generais dos demais postos, nacionais ou estrangeiros;</span></p></td></tr><tr><td style="width:95.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">IV - Oficial................</span></p></td><td style="width:249.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">aos Oficiais Superiores das Forças Armadas, nacionais ou estrangeiros; e</span></p></td></tr><tr><td style="width:95.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">V - Cavaleiro.............</span></p></td><td style="width:249.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">a militares dos demais postos e graduações, nacionais ou estrangeiros.</span></p></td></tr></tbody></table>
+I - Grã-Cruz...............
+
+a Chefe de Estado, e Príncipes Reinantes de casas estrangeiras;
+
+II - Grande-Oficial......
+
+a nacionais e estrangeiros: Ministro de Estados, Chefes de Forças, Chefes de Estado-Maior das Forças Armadas e Oficiais-Generais das Forças Armadas de posto equivalente, no mínimo, a Vice-Almirante;
+
+III - Comendador .......
+
+a Oficiais-Generais dos demais postos, nacionais ou estrangeiros;
+
+IV - Oficial................
+
+aos Oficiais Superiores das Forças Armadas, nacionais ou estrangeiros; e
+
+V - Cavaleiro.............
+
+a militares dos demais postos e graduações, nacionais ou estrangeiros.
 
 § 1º Os civis serão admitidos nos graus correspondentes às funções que desempenhem e à sua posição social, devendo-se, procurar estabelecer correlação entre as situações civis e as militares acima enumeradas.
 
@@ -228,7 +300,29 @@ Parágrafo Único - As propostas deverão ser encaminhadas à Secretaria do Cons
 
 Art. 30 - As propostas para admissão e promoção no Quadro Suplementar obedecerão a distribuição a seguir:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:70.9pt; border-collapse:collapse"><tbody><tr><td style="width:251.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PROPONENTES</span></p></td><td style="width:93.95pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Nº DE PROPOSTAS</span></p></td></tr><tr><td style="width:251.45pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">I - Membros do Conselho...............................................</span></p></td><td style="width:93.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Ilimitado</span></p></td></tr><tr><td style="width:251.45pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">II - Oficiais-Generais das Forças Armadas, do último posto da carreira em serviço ativo e que pertençam à Ordem.........................................................................</span></p></td><td style="width:93.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">03</span></p></td></tr><tr><td style="width:251.45pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">III - Oficiais-Generais do EMFA.......................................</span></p></td><td style="width:93.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">02</span></p></td></tr><tr><td style="width:251.45pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">IV - Diretor do HFA........................................................</span></p></td><td style="width:93.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">02</span></p></td></tr><tr><td style="width:251.45pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">V - Chefe da Delegação Brasileira na JID.........................</span></p></td><td style="width:93.95pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">02</span></p></td></tr></tbody></table>
+PROPONENTES
+
+Nº DE PROPOSTAS
+
+I - Membros do Conselho...............................................
+
+Ilimitado
+
+II - Oficiais-Generais das Forças Armadas, do último posto da carreira em serviço ativo e que pertençam à Ordem.........................................................................
+
+03
+
+III - Oficiais-Generais do EMFA.......................................
+
+02
+
+IV - Diretor do HFA........................................................
+
+02
+
+V - Chefe da Delegação Brasileira na JID.........................
+
+02
 
 Art. 31 - Para ser admitida no Quadro Suplementar da O.M.F.A., a praça das Forças Armadas deverá possuir a correspondente Medalha Militar de Tempo de Serviço, e preencher uma das seguintes condições:
 
@@ -264,7 +358,25 @@ III - os estrangeiros condenados pela Justiça Brasileira em qualquer foro.
 
 Art. 34 - Os civis agraciados com a insígnia da O.M.F.A. terão direito a honras militares nos Atos da Ordem, observando-se a seguinte correspondência:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.35pt; border-collapse:collapse"><tbody><tr><td style="width:139.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">I - Grã-Cruz.............................</span></p></td><td style="width:248.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Almirante, ou equivalentes</span></p></td></tr><tr><td style="width:139.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">II - Grande-Oficial.....................</span></p></td><td style="width:248.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Alimirante-de-Esquadra ou equivalentes</span></p></td></tr><tr><td style="width:139.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">III - Comendador.......................</span></p></td><td style="width:248.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Demais Oficiais-Generais</span></p></td></tr><tr><td style="width:139.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">IV - Oficial...............................</span></p></td><td style="width:248.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Oficial Superior</span></p></td></tr><tr><td style="width:139.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">V - Cavaleiro............................</span></p></td><td style="width:248.5pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Oficial Intermediário</span></p></td></tr></tbody></table>
+I - Grã-Cruz.............................
+
+Almirante, ou equivalentes
+
+II - Grande-Oficial.....................
+
+Alimirante-de-Esquadra ou equivalentes
+
+III - Comendador.......................
+
+Demais Oficiais-Generais
+
+IV - Oficial...............................
+
+Oficial Superior
+
+V - Cavaleiro............................
+
+Oficial Intermediário
 
 CAPÍTULO VII
 

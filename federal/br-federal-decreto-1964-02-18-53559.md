@@ -1,5 +1,3 @@
-###DEC-053559-0-000-18-02-1964@@@
-
 DECRETO Nº 53.559, DE 18 DE FEVEREIRO DE 1964.
 
 Inclui funções gratificadas no Ministério da Educação e Cultura e dá outras providências.

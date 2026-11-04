@@ -1,5 +1,3 @@
-###DEC-052919-0-000-22-11-1963@@@
-
 DECRETO Nº 52.919, DE 22 DE NOVEMBRO DE 1963.
 
 Cria uma Embaixada autônoma do Brasil na República da Coréia.

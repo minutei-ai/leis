@@ -1,5 +1,3 @@
-###MPV-001892-0-033-23-11-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.892-33, DE 23 DE NOVEMBRO DE 1999.
 
 Dispõe sobre a concessão de financiamento vinculado à exportação de bens ou serviços nacionais, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-059995-0-000-10-01-1967@@@
-
 DECRETO Nº 59.995, DE 10 DE JANEIRO DE 1967.
 
 Autoriza o cidadão brasileiro Romeu Policelli a pesquisar bauxita e argila no município de Poços de Caldas, Estado de Minas Gerais.

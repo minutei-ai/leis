@@ -1,7 +1,3 @@
-1
-
-###DEC-097943-0-000-11-07-1989@@@
-
 DECRETO N° 97.943, DE 11 DE JULHO DE 1989
 
 Outorga concessão a TELECOMUNICAÇÕES CAMPOS DOURADOS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Cascavel, Estado do Paraná.

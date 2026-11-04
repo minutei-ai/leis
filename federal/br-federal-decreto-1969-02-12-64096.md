@@ -1,5 +1,3 @@
-###DEC-064096-0-000-12-02-1969@@@
-
 DECRETO Nº 64.096, DE 12 DE FEVEREIRO DE 1969.
 
 Retifica o Quadro Único de Pessoal da Universidade Federal do Rio de Janeiro.

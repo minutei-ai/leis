@@ -1,5 +1,3 @@
-###MPV-002114-0-075-26-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.114-75, DE 26 DE JANEIRO DE 2001
 
 Dá nova redação aos arts. 6º e 9º da Lei nº 8.019, de 11 de abril de 1990, e acresce dispositivo à Lei nº 9.365, de 16 de dezembro de 1996.

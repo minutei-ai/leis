@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211058)<br>
-
 # DECRETO N° 69.620, DE 11 DE JUNHO DE 2025
 
 ### _Autoriza a abertura de licitação para a concessão administrativa para a construção, reforma, adequação, manutenção, conservação, gestão e operação do Centro Administrativo Campos Elíseos, aprova o respectivo regulamento e dá providências correlatas._
@@ -52,12 +50,14 @@ Rafael Antonio Cren Benini
 
 #### REGULAMENTO DA CONCESSÃO ADMINISTRATIVA PARA A CONSTRUÇÃO, REFORMA, ADEQUEÇÃO, MANUTENÇÃO, CONSERVAÇÃO, GESTÃO E OPERAÇÃO DO CENTRO ADMINISTRATIVO CAMPOS ELÍSEOS
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Do Objetivo
 
 **Artigo 1° -** Este regulamento tem por objetivo disciplinar a Concessão Administrativa para a construção, reforma, adequação, manutenção, conservação, gestão e operação do Centro Administrativo Campos Elíseos.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Concessão
 
 **Artigo 2° -** O objeto da concessão compreende a construção, reforma, adequação, manutenção, conservação, gestão e operação do Centro Administrativo Campos Elíseos, nos termos do Caderno de Encargos que acompanha o Edital de licitação.
@@ -66,7 +66,8 @@ Da Concessão
 
 **Artigo 4° -** O prazo da Concessão será de 30 (trinta) anos, contado na forma prevista no Contrato de Concessão.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Dos Serviços Previstos
 
 **Artigo 5° -** A prestação dos serviços delegados inclui, entre outros estabelecidos nos anexos que acompanham o Edital de licitação:
@@ -83,7 +84,8 @@ V - jardinagem e gestão dos resíduos sólidos produzidos.
 
 VI - implantação das edificações e demais obras previstas, incluindo a elaboração dos projetos executivos, a execução das obras civis, a restauração e conservação dos bens tombados, a reforma e adequação das edificações integrantes do Centro Administrativo Campos Elíseos, bem como o fornecimento e a instalação dos mobiliários e equipamentos necessários à plena operação do complexo, tudo conforme especificações constantes no Edital e em seus anexos.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Dos Direitos e das Obrigações da Concessionária
 
 **Artigo 6° -** São direitos e obrigações da Concessionária, durante todo o prazo da Concessão, sem prejuízo do disposto no Contrato de Concessão e na legislação pertinente:
@@ -108,7 +110,8 @@ IX - cooperar e apoiar o desenvolvimento das atividades de acompanhamento e de f
 
 X - elaborar plano de proteção de dados, de acordo com a legislação e as disposições contratuais.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Dos Direitos e das Obrigações do Poder Concedente
 
 **Artigo 7° -** Incumbe ao Poder Concedente, dentre outros direitos e obrigações previstos no Contrato:
@@ -125,7 +128,8 @@ V - permitir à Concessionária o acesso a todos os locais, dependências e equi
 
 VI - emitir a ordem de início, após a satisfação das condições de eficácia previstas no contrato.
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Dos Direitos e Obrigações dos Servidores e Usuários
 
 **Artigo 8° -** São direitos e obrigações dos servidores e usuários beneficiários dos serviços da concessão:
@@ -148,7 +152,8 @@ VIII - ter garantida a proteção de suas informações pessoais, nos termos da 
 
 IX - usufruir das edificações, quadras e serviços sem qualquer tipo de discriminação de origem, raça, sexo, orientação sexual ou idade, assegurado o direito ao uso do nome social e o reconhecimento da identidade de gênero.
 
-#### CAPÍTULO VII<br>
+#### CAPÍTULO VII
+
 Da Fiscalização dos Serviços Concedidos, do Poder de Polícia Administrativa e das Penalidades
 
 **Artigo 9° -** A Agência Reguladora de Serviços Públicos do Estado de São Paulo - ARSESP atuará, na forma prevista no Contrato, no acompanhamento da Concessão e na fiscalização dos serviços concedidos.
@@ -175,7 +180,8 @@ c) a mensuração dos indicadores de desempenho realizada pelo verificador indep
 
 **§ 2° -** Os fatores a que se refere o § 1°deste artigo serão aferidos a partir dos parâmetros definidos nos Anexos do Contrato.
 
-#### CAPÍTULO VIII<br>
+#### CAPÍTULO VIII
+
 Das Receitas
 
 **Artigo 11 -** Constituem fontes de receita da Concessionária, a serem auferidas nos termos do Contrato de Concessão:
@@ -192,7 +198,8 @@ V - outras receitas previstas no Edital e no Contrato respectivo, ou que venham 
 
 **Parágrafo único -** A Concessionária receberá do Poder Concedente, em função dos investimentos efetivamente realizados, aporte de recursos na forma do artigo 6°, § 2°, da Lei federal n° 11.079/2004, na forma disciplinada no Contrato.
 
-#### CAPÍTULO IX<br>
+#### CAPÍTULO IX
+
 Das Disposições Gerais
 
 **Artigo 12 -** Extinta a Concessão, retornarão ao Poder Concedente todos os bens reversíveis, direitos e privilégios vinculados à Concessão Administrativa, transferidos à Concessionária ou por ela implantados, na forma prevista em lei e no Contrato.

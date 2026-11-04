@@ -1,4 +1,5 @@
-DECRETO Nº 10.400, DE 30 DE JANEIRO DE 2024<br>
+DECRETO Nº 10.400, DE 30 DE JANEIRO DE 2024
+
  
 
 Aprova o Regulamento da Secretaria de Estado de Relações Institucionais – SERINT e revoga o [Decreto nº 9.542](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72457), de 23 de outubro de 2019.
@@ -81,52 +82,68 @@ e) Gerência de Tecnologia; e
 
 f) Gerência de Contabilidade; e
 
-~~VII – Superintendência de Articulação Política e Apoio Municipal, com as seguintes gerências:~~<br>
+~~VII – Superintendência de Articulação Política e Apoio Municipal, com as seguintes gerências:~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, I.
 
-~~a) Gerência de Articulação Parlamentar e Municipal;~~<br>
+~~a) Gerência de Articulação Parlamentar e Municipal;~~
+
 \- [Revogada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, I.
 
-~~b) Gerência de Convênios; e~~<br>
+~~b) Gerência de Convênios; e~~
+
 \- [Revogada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, I.
 
-~~c) Gerência Extraordinária de Tomada de Contas Especial.~~<br>
+~~c) Gerência Extraordinária de Tomada de Contas Especial.~~
+
 \- [Revogada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, I.
 
-VIII – Assessoria-Executiva de Advocacia Dativa; e<br>
+VIII – Assessoria-Executiva de Advocacia Dativa; e
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-IX – Subsecretaria de Articulação e Gestão:<br>
+IX – Subsecretaria de Articulação e Gestão:
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-a) Superintendência de Articulação e Apoio aos Municípios:<br>
+a) Superintendência de Articulação e Apoio aos Municípios:
+
 \- [Acrescida pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-1\. Gerência de Apoio e Articulação;<br>
+1\. Gerência de Apoio e Articulação;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-2\. Gerência de Apoio e Acompanhamento do Processo Legislativo;<br>
+2\. Gerência de Apoio e Acompanhamento do Processo Legislativo;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-3\. Gerência de Projetos e Apoio Institucional; e<br>
+3\. Gerência de Projetos e Apoio Institucional; e
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-4\. Gerência de Apoio aos Municípios para Captação de Recursos Estaduais; e<br>
+4\. Gerência de Apoio aos Municípios para Captação de Recursos Estaduais; e
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-b) Superintendência de Gestão de Emendas Parlamentares:<br>
+b) Superintendência de Gestão de Emendas Parlamentares:
+
 \- [Acrescida pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-1\. Gerência de Convênios e Elaboração de Instrumentos;<br>
+1\. Gerência de Convênios e Elaboração de Instrumentos;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-2\. Gerência Extraordinária de Tomada de Contas Especial;<br>
+2\. Gerência Extraordinária de Tomada de Contas Especial;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-3\. Gerência de Prestação de Contas; e<br>
+3\. Gerência de Prestação de Contas; e
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-4\. Gerência de Execução e Monitoramento de Instrumentos.<br>
+4\. Gerência de Execução e Monitoramento de Instrumentos.
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 CAPÍTULO IV
@@ -147,7 +164,8 @@ III – promover e articular os contatos sociais e políticos do Secretário;
 
 IV – atender as pessoas que procuram o Gabinete do Secretário, orientá– las, prestar– lhes as informações necessárias e, quando for o caso, encaminhá– las ao titular da SERINT;
 
-~~V – supervisionar a análise e a instrução dos processos administrativos destinados ao pagamento de honorários aos advogados dativos, por serviços prestados de assistência judiciária na Justiça estadual, bem como encaminhá– los ao Secretário para pagamento com verbas oriundas do Fundo Especial de Pagamento dos Advogados Dativos e do Sistema de Acesso à Justiça – FUNDATIVOS;~~<br>
+~~V – supervisionar a análise e a instrução dos processos administrativos destinados ao pagamento de honorários aos advogados dativos, por serviços prestados de assistência judiciária na Justiça estadual, bem como encaminhá– los ao Secretário para pagamento com verbas oriundas do Fundo Especial de Pagamento dos Advogados Dativos e do Sistema de Acesso à Justiça – FUNDATIVOS;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, II.
 
 VI – coordenar e orientar os serviços de ouvidoria em consonância com as diretrizes do órgão central de ouvidoria;
@@ -252,17 +270,20 @@ V – acompanhar o trabalho do Poder Legislativo federal, com o monitoramento e 
 
 VI – atuar em colaboração com a bancada goiana no Congresso Nacional nas ações de interesse do Estado;
 
-VII – informar, de maneira contínua e sistemática, ao Governador os assuntos de interesse do Estado de Goiás no âmbito federal e na agenda nacional;<br>
+VII – informar, de maneira contínua e sistemática, ao Governador os assuntos de interesse do Estado de Goiás no âmbito federal e na agenda nacional;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~VII – informar de maneira contínua e sistemática ao Governador sobre os assuntos de interesse do Estado de Goiás no âmbito federal e na agenda nacional; e~~
 
-VIII – tratar de assuntos de interesse do Governador e dos secretários de Estado, presencialmente, nos órgãos e nos organismos internacionais sediados em Brasília/DF; e<br>
+VIII – tratar de assuntos de interesse do Governador e dos secretários de Estado, presencialmente, nos órgãos e nos organismos internacionais sediados em Brasília/DF; e
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~VIII – encarregar–se de competências correlatas.~~
 
-IX – encarregar-se de competências correlatas.<br>
+IX – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 Seção V
@@ -271,7 +292,8 @@ Da Gerência da Secretaria-Geral
 
 Art. 8º Compete à Gerência da Secretaria-Geral:
 
-I – receber, registrar, distribuir e expedir documentos da SERINT, bem como receber, autuar e distribuir as indicações de emendas parlamentares impositivas;<br>
+I – receber, registrar, distribuir e expedir documentos da SERINT, bem como receber, autuar e distribuir as indicações de emendas parlamentares impositivas;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~I – receber, registrar, distribuir e expedir documentos da SERINT;~~
@@ -324,7 +346,8 @@ IX – supervisionar as atividades referentes a pagamento, recebimento, controle
 
 X – coordenar o processo de elaboração e manutenção do Regulamento da SERINT;
 
-~~XI – coordenar a elaboração e a implementação do planejamento estratégico da SERINT, bem como o acompanhamento e a avaliação de seus resultados;~~<br>
+~~XI – coordenar a elaboração e a implementação do planejamento estratégico da SERINT, bem como o acompanhamento e a avaliação de seus resultados;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, III.
 
 XII – promover a disseminação da cultura de melhoria da gestão por processos, a governança, a inovação, a simplificação, a medição do desempenho, também a elaboração e a manutenção da carta de serviços, para a transformação da gestão pública e a melhoria contínua das atividades; e
@@ -351,308 +374,374 @@ Da Gerência de Gestão Institucional
 
 Art. 10. Compete à Gerência de Gestão Institucional:
 
-I – subsidiar o processo de prestação de contas integradas, em conformidade com as diretrizes dos órgãos de controle;<br>
+I – subsidiar o processo de prestação de contas integradas, em conformidade com as diretrizes dos órgãos de controle;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~I – supervisionar a implementação e a execução de políticas, planos, iniciativas, programas, projetos e ações na SERINT, relacionados com os instrumentos governamentais de planejamento;~~
 
-II – assessorar a definição de diretrizes, metas e prioridades organizacionais;<br>
+II – assessorar a definição de diretrizes, metas e prioridades organizacionais;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~II – promover o alinhamento dos instrumentos de planejamento da SERINT aos instrumentos governamentais de planejamento;~~
 
-III – supervisionar a carteira de projetos e investimentos estratégicos da SERINT;<br>
+III – supervisionar a carteira de projetos e investimentos estratégicos da SERINT;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~III – exercer, referentemente a planejamento, a função de órgão setorial do Sistema Estruturador de Organização e Inovação Institucional e acompanhar a execução das atividades relacionadas, em arranjo colaborativo com outros órgãos e sistemas, especialmente os de orçamento, finanças, inovação da gestão e serviços públicos;~~
 
-IV – coordenar e realizar, em conjunto com as áreas finalísticas responsáveis, as rotinas de monitoramento físico e financeiro dos programas e dos projetos para a correta vinculação das informações pertinentes;<br>
+IV – coordenar e realizar, em conjunto com as áreas finalísticas responsáveis, as rotinas de monitoramento físico e financeiro dos programas e dos projetos para a correta vinculação das informações pertinentes;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~IV – planejar, coordenar e orientar a execução das atividades setoriais relacionadas à unidade central de planejamento, em alinhamento e compatibilização com as diretrizes e os macroprocessos de orçamento, de gestão estratégica e de projetos da SERINT;~~
 
-V – assessorar o processo de execução do PPA em seus desdobramentos orçamentários e financeiros, observadas as diretrizes estratégicas definidas;<br>
+V – assessorar o processo de execução do PPA em seus desdobramentos orçamentários e financeiros, observadas as diretrizes estratégicas definidas;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~V – planejar, orientar, coordenar e acompanhar a gestão de portfólio, programas e projetos para a governança e a informação da situação das iniciativas adotadas;~~
 
-VI – revisar as peças orçamentárias antes da nota de empenho ou assinatura contratual para uma previsão de gastos mais assertiva;<br>
+VI – revisar as peças orçamentárias antes da nota de empenho ou assinatura contratual para uma previsão de gastos mais assertiva;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~VI – coletar e manter disponíveis e atualizadas as informações técnicas e cadastrais nos sistemas informacionais pertinentes;~~
 
-VII – apoiar o alinhamento e a adequação do plano de contratações anual desenvolvido pela Secretaria de Estado da Administração – SEAD ao ciclo do planejamento;<br>
+VII – apoiar o alinhamento e a adequação do plano de contratações anual desenvolvido pela Secretaria de Estado da Administração – SEAD ao ciclo do planejamento;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~VII – coordenar a elaboração de diagnóstico situacional da SERINT, com o apoio das áreas finalísticas, para fornecer insumos e subsídios à elaboração de planos e programas setoriais;~~
 
-VIII – executar os trâmites do envio dos eventos de Saúde e Segurança no Trabalho – SST no Sistema de Escrituração Digital das Obrigações Fiscais, Previdenciárias e Trabalhistas – eSocial;<br>
+VIII – executar os trâmites do envio dos eventos de Saúde e Segurança no Trabalho – SST no Sistema de Escrituração Digital das Obrigações Fiscais, Previdenciárias e Trabalhistas – eSocial;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~VIII – coordenar setorialmente e apoiar o processo de planejamento governamental quanto aos assuntos de interesse da SERINT, inclusive o ciclo do PPA e da proposta orçamentária anual, em consonância com as diretrizes da unidade central de planejamento;~~
 
-IX – executar as atividades de saúde e segurança no cumprimento das diretrizes definidas pela Diretoria-Executiva de Saúde e Segurança do Servidor – DESSS;<br>
+IX – executar as atividades de saúde e segurança no cumprimento das diretrizes definidas pela Diretoria-Executiva de Saúde e Segurança do Servidor – DESSS;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~IX – coordenar os processos de revisão do planejamento setorial;~~
 
-X – gerir a demanda de estagiários por área de atuação e os processos de concessão de estágio na SERINT;<br>
+X – gerir a demanda de estagiários por área de atuação e os processos de concessão de estágio na SERINT;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~X – conciliar as propostas de planejamento encaminhadas com a capacidade de execução financeira e operacional da SERINT, respeitados os limites financeiros aplicáveis;~~
 
-XI – gerir a integração do novo servidor e dos demais colaboradores, inclusive estagiários e jovens aprendizes;<br>
+XI – gerir a integração do novo servidor e dos demais colaboradores, inclusive estagiários e jovens aprendizes;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XI – propor, desenvolver e acompanhar modelo de governança setorial para a consecução das metas da SERINT;~~
 
-XII – acompanhar a atuação dos jovens aprendizes, em conformidade com as diretrizes e as políticas pertinentes estabelecidas para o Estado de Goiás;<br>
+XII – acompanhar a atuação dos jovens aprendizes, em conformidade com as diretrizes e as políticas pertinentes estabelecidas para o Estado de Goiás;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XII – subsidiar o processo de prestação de contas integradas, em conformidade com as diretrizes dos órgãos de controle;~~
 
-XIII – gerir os dados cadastrais funcionais e financeiros, os dossiês dos servidores e dos demais colaboradores em exercício e a respectiva documentação comprobatória, bem como emitir informações, inclusive para a aposentadoria;<br>
+XIII – gerir os dados cadastrais funcionais e financeiros, os dossiês dos servidores e dos demais colaboradores em exercício e a respectiva documentação comprobatória, bem como emitir informações, inclusive para a aposentadoria;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XIII – assessorar a definição de diretrizes, metas e prioridades organizacionais;~~
 
-XIV – validar a qualificação cadastral dos servidores e dos demais colaboradores em exercício na base de dados do eSocial;<br>
+XIV – validar a qualificação cadastral dos servidores e dos demais colaboradores em exercício na base de dados do eSocial;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XIV – supervisionar a carteira de projetos e investimentos estratégicos da SERINT;~~
 
-XV – elaborar a folha de pagamento dos servidores conforme os critérios e os parâmetros estabelecidos pela unidade central de gestão e desenvolvimento de pessoas;<br>
+XV – elaborar a folha de pagamento dos servidores conforme os critérios e os parâmetros estabelecidos pela unidade central de gestão e desenvolvimento de pessoas;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XV – coordenar e realizar, em conjunto com as áreas finalísticas responsáveis, as rotinas de monitoramento físico e financeiro dos programas e dos projetos para a correta vinculação das informações pertinentes;~~
 
-XVI – gerir os procedimentos que envolvem concessões de benefícios, gratificações, funções comissionadas e evoluções funcionais, nomeações em cargos de provimento em comissão e contratações por tempo determinado;<br>
+XVI – gerir os procedimentos que envolvem concessões de benefícios, gratificações, funções comissionadas e evoluções funcionais, nomeações em cargos de provimento em comissão e contratações por tempo determinado;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XVI – elaborar o planejamento financeiro dos projetos governamentais, observadas as diretrizes estratégicas definidas e as metas fiscais previstas;~~
 
-XVII – coordenar o processo de avaliação de desempenho do estágio probatório dos servidores, gerir a composição das comissões, orientar os partícipes do processo e aferir os procedimentos para a homologação do estágio probatório;<br>
+XVII – coordenar o processo de avaliação de desempenho do estágio probatório dos servidores, gerir a composição das comissões, orientar os partícipes do processo e aferir os procedimentos para a homologação do estágio probatório;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XVII – revisar as peças orçamentárias antes da nota de empenho ou assinatura contratual, no intuito de ter uma previsão de gastos mais assertiva;~~
 
-XVIII – coordenar o processo de avaliação da produtividade, gerir a composição das comissões, orientar partícipes do processo e aferir os procedimentos para a homologação da avaliação;<br>
+XVIII – coordenar o processo de avaliação da produtividade, gerir a composição das comissões, orientar partícipes do processo e aferir os procedimentos para a homologação da avaliação;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XVIII – apoiar o alinhamento e a adequação do plano de contratações anual desenvolvido pela Secretaria de Estado da Administração – SEAD ao ciclo do planejamento;~~
 
-XIX – levantar informações necessárias à elaboração dos estudos e dos impactos de pessoal;<br>
+XIX – levantar informações necessárias à elaboração dos estudos e dos impactos de pessoal;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XIX – apoiar a realização do processo de planejamento estratégico institucional, em articulação com a área de gestão estratégica e de projetos, para garantir o alinhamento ao PPA, a sua boa execução e o atingimento de metas;~~
 
-XX – estruturar a área de gestão do conhecimento com o foco na identificação, na organização, no incentivo à criação, na difusão e no compartilhamento do conhecimento;<br>
+XX – estruturar a área de gestão do conhecimento com o foco na identificação, na organização, no incentivo à criação, na difusão e no compartilhamento do conhecimento;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XX – assessorar o processo de execução do PPA em seus desdobramentos orçamentários e financeiros, observadas as diretrizes estratégicas definidas;~~
 
-XXI – promover o uso e a aplicação do conhecimento para a tomada de decisões, monitorar as ações de gestão do conhecimento e promover a gestão de dados e informações;<br>
+XXI – promover o uso e a aplicação do conhecimento para a tomada de decisões, monitorar as ações de gestão do conhecimento e promover a gestão de dados e informações;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XXI – gerir o planejamento e o dimensionamento da força de trabalho, o levantamento do perfil profissional e comportamental, o banco de talentos dos servidores e os processos de alocação e realocação na SERINT;~~
 
-XXII – identificar as competências e promover o alinhamento das competências individuais às competências organizacionais;<br>
+XXII – identificar as competências e promover o alinhamento das competências individuais às competências organizacionais;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XXII – gerir a demanda de estagiários por área de atuação e os processos de concessão de estágio na SERINT;~~
 
-XXIII – identificar a necessidade de desenvolvimento, treinamentos e ações de capacitação para os servidores;<br>
+XXIII – identificar a necessidade de desenvolvimento, treinamentos e ações de capacitação para os servidores;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XXIII – gerir a integração do novo servidor e demais colaboradores, inclusive estagiários e jovens aprendizes;~~
 
-XXIV – enviar à unidade central de gestão e desenvolvimento de pessoas as minutas dos contratos de gestão e de terceirização de pessoal para a análise prévia, bem como as informações para a prestação de contas gerencial, referentes à substituição de servidores ou empregados do quadro próprio ou à execução de atividades finalísticas da SERINT para a manifestação;<br>
+XXIV – enviar à unidade central de gestão e desenvolvimento de pessoas as minutas dos contratos de gestão e de terceirização de pessoal para a análise prévia, bem como as informações para a prestação de contas gerencial, referentes à substituição de servidores ou empregados do quadro próprio ou à execução de atividades finalísticas da SERINT para a manifestação;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XXIV – acompanhar a atuação dos jovens aprendizes, em conformidade com as diretrizes e as políticas pertinentes estabelecidas para o Estado de Goiás;~~
 
-XXV – implantar na SERINT as ações propostas pelo Programa MOVE Goiás voltadas ao merecimento, à oportunização, à valorização, ao envolvimento dos servidores e às melhores práticas de gestão e desenvolvimento de pessoas;<br>
+XXV – implantar na SERINT as ações propostas pelo Programa MOVE Goiás voltadas ao merecimento, à oportunização, à valorização, ao envolvimento dos servidores e às melhores práticas de gestão e desenvolvimento de pessoas;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XXV – gerir os dados cadastrais funcionais e financeiros, os dossiês dos servidores e dos demais colaboradores em exercício e a respectiva documentação comprobatória, bem como emitir informações, inclusive para a aposentadoria;~~
 
-XXVI – atender às demandas e às diretrizes da unidade central de gestão e desenvolvimento de pessoas;<br>
+XXVI – atender às demandas e às diretrizes da unidade central de gestão e desenvolvimento de pessoas;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XXVI – validar a qualificação cadastral dos servidores e dos demais colaboradores em exercício na base de dados do Sistema de Escrituração Digital das Obrigações Fiscais, Previdenciárias e Trabalhistas – eSocial;~~
 
-XXVII – orientar e aplicar a legislação de pessoal referente aos direitos, às vantagens, às responsabilidades, aos deveres e às ações disciplinares;<br>
+XXVII – orientar e aplicar a legislação de pessoal referente aos direitos, às vantagens, às responsabilidades, aos deveres e às ações disciplinares;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XXVII – elaborar a folha de pagamento dos servidores conforme os critérios e os parâmetros estabelecidos pela unidade central de gestão e desenvolvimento de pessoas;~~
 
-XXVIII – realizar o registro do exercício dos servidores efetivos nomeados para a prestação de contas no Tribunal de Contas do Estado de Goiás – TCE-GO e fornecer aos órgãos competentes os elementos necessários ao cumprimento de obrigações trabalhistas, previdenciárias e fiscais relativas aos servidores;<br>
+XXVIII – realizar o registro do exercício dos servidores efetivos nomeados para a prestação de contas no Tribunal de Contas do Estado de Goiás – TCE-GO e fornecer aos órgãos competentes os elementos necessários ao cumprimento de obrigações trabalhistas, previdenciárias e fiscais relativas aos servidores;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XXVIII – gerir os procedimentos que envolvem concessões de benefícios, gratificações, funções comissionadas e evoluções funcionais, nomeações em cargos de provimento em comissão e contratações por tempo determinado;~~
 
-XXIX – seguir orientações da Superintendência Central de Desenvolvimento Estratégico de Pessoal para mapear as competências e identificar as lacunas que requeiram capacitação;<br>
+XXIX – seguir orientações da Superintendência Central de Desenvolvimento Estratégico de Pessoal para mapear as competências e identificar as lacunas que requeiram capacitação;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XXIX – coordenar o processo de avaliação de desempenho do estágio probatório dos servidores, gerir a composição das comissões, orientar os partícipes do processo e aferir os procedimentos para a homologação do estágio probatório;~~
 
-XXX – realizar o levantamento das necessidades de capacitação e elaborar o Plano de Capacitação da SERINT;<br>
+XXX – realizar o levantamento das necessidades de capacitação e elaborar o Plano de Capacitação da SERINT;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XXX – coordenar o processo de avaliação da produtividade, gerir a composição das comissões, orientar partícipes do processo e aferir os procedimentos para a homologação da avaliação;~~
 
-XXXI – planejar e implementar ações educacionais de competências específicas da SERINT;<br>
+XXXI – planejar e implementar ações educacionais de competências específicas da SERINT;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XXXI – levantar informações necessárias à elaboração dos estudos e dos impactos de pessoal;~~
 
-XXXII – divulgar e incentivar as ações educacionais ofertadas pela Escola de Governo;<br>
+XXXII – divulgar e incentivar as ações educacionais ofertadas pela Escola de Governo;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XXXII – estruturar a área de gestão do conhecimento com foco na identificação, na organização, no incentivo à criação, na difusão e no compartilhamento do conhecimento;~~
 
-XXXIII – efetivar a inscrição das ações educacionais da Escola de Governo conforme os critérios estabelecidos;<br>
+XXXIII – efetivar a inscrição das ações educacionais da Escola de Governo conforme os critérios estabelecidos;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XXXIII – promover o uso e a aplicação do conhecimento para tomada de decisões, monitorar as ações de gestão do conhecimento e promover a gestão de dados e informações;~~
 
-XXXIV – avaliar a eficácia das ações educacionais realizadas;<br>
+XXXIV – avaliar a eficácia das ações educacionais realizadas;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XXXIV – identificar as competências e promover o alinhamento das competências individuais às competências organizacionais;~~
 
-XXXV – cumprir as normas de saúde e segurança previstas nos laudos técnicos relativos ao ambiente de trabalho e nos programas de saúde;<br>
+XXXV – cumprir as normas de saúde e segurança previstas nos laudos técnicos relativos ao ambiente de trabalho e nos programas de saúde;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XXXV – identificar a necessidade de desenvolvimento, treinamentos e ações de capacitação para os servidores;~~
 
-XXXVI – executar os procedimentos de controle de afastamentos por licenças médicas relativas aos servidores;<br>
+XXXVI – executar os procedimentos de controle de afastamentos por licenças médicas relativas aos servidores;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XXXVI – enviar à unidade central de gestão e desenvolvimento de pessoas as minutas dos contratos de gestão e de terceirização de pessoal para a análise prévia, bem como as informações para a prestação de contas gerencial, referentes à substituição de servidores ou empregados do quadro próprio ou à execução de atividades finalísticas da SERINT para a manifestação;~~
 
-XXXVII – encaminhar processos devidamente instruídos com a documentação pertinente e conforme os prazos estabelecidos;<br>
+XXXVII – encaminhar processos devidamente instruídos com a documentação pertinente e conforme os prazos estabelecidos;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XXXVII – implantar na SERINT as ações propostas pelo Programa MOVE Goiás voltadas ao merecimento, à oportunização, à valorização, ao envolvimento dos servidores e às melhores práticas de gestão e desenvolvimento de pessoas;~~
 
-XXXVIII – cumprir as orientações definidas no laudo médico pericial referente à capacidade laborativa residual e às adequações necessárias no ambiente de trabalho no processo de reabilitação profissional;<br>
+XXXVIII – cumprir as orientações definidas no laudo médico pericial referente à capacidade laborativa residual e às adequações necessárias no ambiente de trabalho no processo de reabilitação profissional;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XXXVIII – atender às demandas e às diretrizes da unidade central de gestão e desenvolvimento de pessoas;~~
 
-XXXIX – gerir o planejamento e o dimensionamento da força de trabalho, o levantamento do perfil profissional e comportamental, o banco de talentos dos servidores e os processos de alocação e realocação na SERINT;<br>
+XXXIX – gerir o planejamento e o dimensionamento da força de trabalho, o levantamento do perfil profissional e comportamental, o banco de talentos dos servidores e os processos de alocação e realocação na SERINT;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XXXIX – orientar e aplicar a legislação de pessoal referente aos direitos, às vantagens, às responsabilidades, aos deveres e às ações disciplinares;~~
 
-XL – manter atualizado o cadastro dos componentes da Rede de Transformação do Estado de Goiás e das suas sub– redes;<br>
+XL – manter atualizado o cadastro dos componentes da Rede de Transformação do Estado de Goiás e das suas sub– redes;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XL – realizar o registro do exercício dos servidores efetivos nomeados para a prestação de contas no Tribunal de Contas do Estado de Goiás – TCE–GO e fornecer aos órgãos competentes os elementos necessários ao cumprimento de obrigações trabalhistas, previdenciárias e fiscais relativas aos servidores;~~
 
-XLI – gerir e coordenar a elaboração do regulamento, conforme as diretrizes da unidade central de gestão de modelos organizacionais;<br>
+XLI – gerir e coordenar a elaboração do regulamento, conforme as diretrizes da unidade central de gestão de modelos organizacionais;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XLI – seguir orientações da Superintendência Central de Desenvolvimento Estratégico de Pessoal para mapear as competências e identificar as lacunas que requeiram capacitação;~~
 
-XLII – gerir e coordenar a identificação, a modelagem e a simplificação de processos, inclusive os de trabalho, atividades e entregas para a composição da cadeia de valor integrada do Estado de Goiás, bem como promover a melhoria contínua da entrega de valor com eficiência e eficácia;<br>
+XLII – gerir e coordenar a identificação, a modelagem e a simplificação de processos, inclusive os de trabalho, atividades e entregas para a composição da cadeia de valor integrada do Estado de Goiás, bem como promover a melhoria contínua da entrega de valor com eficiência e eficácia;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XLII – realizar o levantamento das necessidades de capacitação e elaborar o Plano de Capacitação da SERINT;~~
 
-XLIII – gerir o cadastro de unidades administrativas, para a atualização das informações, e solicitar à unidade central de gestão de modelos organizacionais a atualização dos dados, nos casos de criação, inativação, alteração de subordinação de unidades ou situações afins;<br>
+XLIII – gerir o cadastro de unidades administrativas, para a atualização das informações, e solicitar à unidade central de gestão de modelos organizacionais a atualização dos dados, nos casos de criação, inativação, alteração de subordinação de unidades ou situações afins;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XLIII – planejar e implementar ações educacionais de competências específicas da SERINT;~~
 
-XLIV – manifestar-se nos processos de atualização da organização administrativa da SERINT;<br>
+XLIV – manifestar-se nos processos de atualização da organização administrativa da SERINT;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XLIV – divulgar e incentivar as ações educacionais ofertadas pela Escola de Governo;~~
 
-XLV – estimular e promover a cultura e a prática da transformação da gestão e dos serviços públicos, com a realização de ações, projetos, eventos, oficinas, seminários e afins, conforme as diretrizes e as orientações da unidade central de transformação da gestão e dos serviços públicos;<br>
+XLV – estimular e promover a cultura e a prática da transformação da gestão e dos serviços públicos, com a realização de ações, projetos, eventos, oficinas, seminários e afins, conforme as diretrizes e as orientações da unidade central de transformação da gestão e dos serviços públicos;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XLV – efetivar a inscrição das ações educacionais da Escola de Governo conforme os critérios estabelecidos;~~
 
-XLVI – gerir e coordenar a identificação e a atualização de serviços componentes da Carta de Serviços ao Usuário, conforme as diretrizes e as orientações da unidade central de gestão da carta de serviços;<br>
+XLVI – gerir e coordenar a identificação e a atualização de serviços componentes da Carta de Serviços ao Usuário, conforme as diretrizes e as orientações da unidade central de gestão da carta de serviços;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XLVI – avaliar a eficácia das ações educacionais realizadas;~~
 
-XLVII – reportar, tempestivamente, à respectiva unidade central de transformação da gestão e dos serviços públicos o andamento das ações e dos projetos já realizados;<br>
+XLVII – reportar, tempestivamente, à respectiva unidade central de transformação da gestão e dos serviços públicos o andamento das ações e dos projetos já realizados;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XLVII – executar as atividades de saúde e segurança no cumprimento das diretrizes definidas pela Diretoria– Executiva de Saúde e Segurança do Servidor – DESSS;~~
 
-XLVIII – identificar e priorizar processos, inclusive de trabalho e serviços públicos para ações de simplificação;<br>
+XLVIII – identificar e priorizar processos, inclusive de trabalho e serviços públicos para ações de simplificação;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XLVIII – cumprir as normas de saúde e segurança previstas nos laudos técnicos relativos ao ambiente de trabalho e nos programas de saúde;~~
 
-XLIX – articular com a unidade setorial de tecnologia da informação a digitalização dos processos, inclusive os de trabalho e serviços públicos;<br>
+XLIX – articular com a unidade setorial de tecnologia da informação a digitalização dos processos, inclusive os de trabalho e serviços públicos;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XLIX – executar os trâmites do envio dos eventos de Saúde e Segurança no Trabalho – SST no eSocial;~~
 
-L – promover a melhoria da gestão e dos serviços públicos a partir da avaliação de dados e evidências, para subsidiar as tomadas de decisões nas ações de transformação pública;<br>
+L – promover a melhoria da gestão e dos serviços públicos a partir da avaliação de dados e evidências, para subsidiar as tomadas de decisões nas ações de transformação pública;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~L – executar os procedimentos de controle de afastamentos por licenças médicas relativas aos servidores;~~
 
-LI – promover a participação dos servidores nos programas de capacitação e formação definidos pela unidade central de transformação da gestão e dos serviços públicos, bem como pelas suas unidades vinculadas;<br>
+LI – promover a participação dos servidores nos programas de capacitação e formação definidos pela unidade central de transformação da gestão e dos serviços públicos, bem como pelas suas unidades vinculadas;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~LI – encaminhar processos devidamente instruídos com a documentação pertinente e conforme os prazos estabelecidos;~~
 
-LII – atender, tempestivamente, às orientações, às diretrizes e às solicitações da unidade central de transformação da gestão e dos serviços públicos e das suas unidades vinculadas, bem como aplicar esses conteúdos; e<br>
+LII – atender, tempestivamente, às orientações, às diretrizes e às solicitações da unidade central de transformação da gestão e dos serviços públicos e das suas unidades vinculadas, bem como aplicar esses conteúdos; e
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~LII – cumprir as orientações definidas no laudo médico pericial referente à capacidade laborativa residual e às adequações necessárias no ambiente de trabalho no processo de reabilitação profissional;~~
 
-LIII – encarregar-se de competências correlatas.<br>
+LIII – encarregar-se de competências correlatas.
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~LIII – atender, tempestivamente, às orientações, às diretrizes e às solicitações da unidade central de transformação da gestão e dos serviços públicos e das suas unidades vinculadas, bem como aplicar esses conteúdos;~~
 
-~~LIV – manter atualizado o cadastro dos componentes da Rede de Transformação do Estado de Goiás e das suas sub– redes;~~<br>
+~~LIV – manter atualizado o cadastro dos componentes da Rede de Transformação do Estado de Goiás e das suas sub– redes;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, IV.
 
-~~LV – gerir e coordenar a elaboração do regulamento, conforme as diretrizes da unidade central de gestão de modelos organizacionais;~~<br>
+~~LV – gerir e coordenar a elaboração do regulamento, conforme as diretrizes da unidade central de gestão de modelos organizacionais;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, IV.
 
-~~LVI – gerir e coordenar a identificação, a modelagem e a simplificação de processos, inclusive os de trabalho, atividades e entregas para a composição da cadeia de valor integrada do Estado de Goiás, bem como promover a melhoria contínua da entrega de valor com eficiência e eficácia;~~<br>
+~~LVI – gerir e coordenar a identificação, a modelagem e a simplificação de processos, inclusive os de trabalho, atividades e entregas para a composição da cadeia de valor integrada do Estado de Goiás, bem como promover a melhoria contínua da entrega de valor com eficiência e eficácia;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, IV.
 
-~~LVII – gerir o cadastro de unidades administrativas, para a atualização das informações, e solicitar à unidade central de gestão de modelos organizacionais a atualização dos dados, nos casos de criação, inativação, alteração de subordinação de unidades ou situações afins;~~<br>
+~~LVII – gerir o cadastro de unidades administrativas, para a atualização das informações, e solicitar à unidade central de gestão de modelos organizacionais a atualização dos dados, nos casos de criação, inativação, alteração de subordinação de unidades ou situações afins;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, IV.
 
-~~LVIII – manifestar–se nos processos de atualização da organização administrativa da SERINT;~~<br>
+~~LVIII – manifestar–se nos processos de atualização da organização administrativa da SERINT;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, IV.
 
-~~LIX – estimular e promover a cultura e a prática da transformação da gestão e dos serviços públicos, com a realização de ações, projetos, eventos, oficinas, seminários e afins, conforme as diretrizes e as orientações da unidade central de transformação da gestão e dos serviços públicos;~~<br>
+~~LIX – estimular e promover a cultura e a prática da transformação da gestão e dos serviços públicos, com a realização de ações, projetos, eventos, oficinas, seminários e afins, conforme as diretrizes e as orientações da unidade central de transformação da gestão e dos serviços públicos;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, IV.
 
-~~LX – gerir e coordenar a identificação e a atualização de serviços componentes da Carta de Serviços ao Usuário, conforme as diretrizes e as orientações da unidade central de gestão da carta de serviços;~~<br>
+~~LX – gerir e coordenar a identificação e a atualização de serviços componentes da Carta de Serviços ao Usuário, conforme as diretrizes e as orientações da unidade central de gestão da carta de serviços;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, IV.
 
-~~LXI – reportar, tempestivamente, à respectiva unidade central de transformação da gestão e dos serviços públicos o andamento das ações e dos projetos já realizados;~~<br>
+~~LXI – reportar, tempestivamente, à respectiva unidade central de transformação da gestão e dos serviços públicos o andamento das ações e dos projetos já realizados;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, IV.
 
-~~LXII – identificar e priorizar processos, inclusive de trabalho e serviços públicos para ações de simplificação;~~<br>
+~~LXII – identificar e priorizar processos, inclusive de trabalho e serviços públicos para ações de simplificação;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, IV.
 
-~~LXIII – articular com a unidade setorial de tecnologia da informação a digitalização dos processos, inclusive os de trabalho e serviços públicos;~~<br>
+~~LXIII – articular com a unidade setorial de tecnologia da informação a digitalização dos processos, inclusive os de trabalho e serviços públicos;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, IV.
 
-~~LXIV – promover a melhoria da gestão e dos serviços públicos a partir da avaliação de dados e evidências, para subsidiar as tomadas de decisão nas ações de transformação pública;~~<br>
+~~LXIV – promover a melhoria da gestão e dos serviços públicos a partir da avaliação de dados e evidências, para subsidiar as tomadas de decisão nas ações de transformação pública;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, IV.
 
-~~LXV – promover a participação dos servidores nos programas de capacitação e formação definidos pela unidade central de transformação da gestão e dos serviços públicos, bem como pelas suas unidades vinculadas; e~~<br>
+~~LXV – promover a participação dos servidores nos programas de capacitação e formação definidos pela unidade central de transformação da gestão e dos serviços públicos, bem como pelas suas unidades vinculadas; e~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, IV.
 
-~~LXVI – encarregar–se de competências correlatas.~~<br>
+~~LXVI – encarregar–se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, IV.
 
 Parágrafo único. A Gerência de Gestão Institucional fica subordinada técnica e normativamente, sem prejuízo à subordinação administrativa à Superintendência de Gestão Integrada:
@@ -1025,637 +1114,834 @@ Seção II
 
 Da Superintendência de Articulação Política e Apoio Municipal
 
-~~Art. 16. Compete à Superintendência de Articulação Política e Apoio Municipal:~~<br>
+~~Art. 16. Compete à Superintendência de Articulação Política e Apoio Municipal:~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~I – coordenar a articulação política e administrativa do Governo estadual com outros Poderes, órgãos, outras esferas governamentais e entidades representativas da sociedade civil;~~<br>
+~~I – coordenar a articulação política e administrativa do Governo estadual com outros Poderes, órgãos, outras esferas governamentais e entidades representativas da sociedade civil;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~II – supervisionar e articular as atividades legislativas nas esferas federal e estadual, em especial a tramitação de projetos de lei na Assembleia Legislativa do Estado de Goiás – ALEGO, na Câmara dos Deputados e no Senado Federal;~~<br>
+~~II – supervisionar e articular as atividades legislativas nas esferas federal e estadual, em especial a tramitação de projetos de lei na Assembleia Legislativa do Estado de Goiás – ALEGO, na Câmara dos Deputados e no Senado Federal;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~III – fornecer subsídios aos parlamentares para a formulação de proposições de interesse do Governo do Estado de Goiás;~~<br>
+~~III – fornecer subsídios aos parlamentares para a formulação de proposições de interesse do Governo do Estado de Goiás;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~IV – promover a interlocução e o apoio institucional do Governo do Estado de Goiás com os municípios, no que se refere aos seus interesses nas esferas estadual e federal, bem como o atendimento de demandas e pleitos destes encaminhados à SERINT;~~<br>
+~~IV – promover a interlocução e o apoio institucional do Governo do Estado de Goiás com os municípios, no que se refere aos seus interesses nas esferas estadual e federal, bem como o atendimento de demandas e pleitos destes encaminhados à SERINT;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~V – articular com o Governo e a sociedade civil a formulação de estratégias de atuação conjunta para o atendimento às demandas;~~<br>
+~~V – articular com o Governo e a sociedade civil a formulação de estratégias de atuação conjunta para o atendimento às demandas;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~VI – supervisionar a execução de programas, projetos e obras estaduais realizados nos municípios;~~<br>
+~~VI – supervisionar a execução de programas, projetos e obras estaduais realizados nos municípios;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~VII – formalizar, registrar e submeter à apreciação superior os pedidos de celebração de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos nos casos em que a SERINT for responsável pela transferência de recursos financeiros;~~<br>
+~~VII – formalizar, registrar e submeter à apreciação superior os pedidos de celebração de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos nos casos em que a SERINT for responsável pela transferência de recursos financeiros;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~VIII – supervisionar, fiscalizar, analisar e processar a prestação de contas dos convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos nos casos em que a SERINT for responsável pela transferência de recursos financeiros, bem como nos que lhe tenham sido transferidos;~~<br>
+~~VIII – supervisionar, fiscalizar, analisar e processar a prestação de contas dos convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos nos casos em que a SERINT for responsável pela transferência de recursos financeiros, bem como nos que lhe tenham sido transferidos;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~IX – supervisionar os planos e as ações de melhoria da gestão de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos;~~<br>
+~~IX – supervisionar os planos e as ações de melhoria da gestão de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~X – supervisionar a instauração e instruir os processos de tomada de contas especial, bem como notificar os órgãos de controle;~~<br>
+~~X – supervisionar a instauração e instruir os processos de tomada de contas especial, bem como notificar os órgãos de controle;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~XI – supervisionar e elaborar as diretrizes e os procedimentos à destinação, à indicação, à priorização e à execução das emendas parlamentares, inclusive a operacionalização desses recursos na modalidade de aplicação direta; e~~<br>
+~~XI – supervisionar e elaborar as diretrizes e os procedimentos à destinação, à indicação, à priorização e à execução das emendas parlamentares, inclusive a operacionalização desses recursos na modalidade de aplicação direta; e~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~XII – encarregar–se de competências correlatas.~~<br>
+~~XII – encarregar–se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~Parágrafo único. Além das competências constantes do _caput_ deste artigo, compete à Superintendência de Articulação Política e Apoio Municipal exercer as funções de organização, coordenação e supervisão técnica das seguintes unidades:~~<br>
+~~Parágrafo único. Além das competências constantes do _caput_ deste artigo, compete à Superintendência de Articulação Política e Apoio Municipal exercer as funções de organização, coordenação e supervisão técnica das seguintes unidades:~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~I – Gerência de Articulação Parlamentar e Municipal;~~<br>
+~~I – Gerência de Articulação Parlamentar e Municipal;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~II – Gerência de Convênios; e~~<br>
+~~II – Gerência de Convênios; e~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~III – Gerência Extraordinária de Tomada de Contas Especial.~~<br>
+~~III – Gerência Extraordinária de Tomada de Contas Especial.~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
 Subseção I
 
 Da Gerência de Articulação Parlamentar e Municipal
 
-~~Art. 17. Compete à Gerência de Articulação Parlamentar e Municipal:~~<br>
+~~Art. 17. Compete à Gerência de Articulação Parlamentar e Municipal:~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~I – recepcionar e assessorar as solicitações de municípios, órgãos e instituições, inclusive privadas;~~<br>
+~~I – recepcionar e assessorar as solicitações de municípios, órgãos e instituições, inclusive privadas;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~II – fornecer subsídios para o atendimento dos pleitos dos municípios e intermediar as ações da SERINT em relação a eles;~~<br>
+~~II – fornecer subsídios para o atendimento dos pleitos dos municípios e intermediar as ações da SERINT em relação a eles;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~III – supervisionar a interlocução e o apoio institucional do Governo do Estado de Goiás com os municípios, relativamente aos interesses destes na atividade parlamentar nas esferas estadual e federal;~~<br>
+~~III – supervisionar a interlocução e o apoio institucional do Governo do Estado de Goiás com os municípios, relativamente aos interesses destes na atividade parlamentar nas esferas estadual e federal;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~IV – auxiliar no estudo de alternativas para o desenvolvimento dos municípios;~~<br>
+~~IV – auxiliar no estudo de alternativas para o desenvolvimento dos municípios;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~V – supervisionar e articular as atividades legislativas federal e estadual, com a manutenção de intercâmbio com a ALEGO, a Câmara dos Deputados e o Senado Federal;~~<br>
+~~V – supervisionar e articular as atividades legislativas federal e estadual, com a manutenção de intercâmbio com a ALEGO, a Câmara dos Deputados e o Senado Federal;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~VI – fornecer subsídios aos parlamentares para a formulação de proposições de interesse do Governo do Estado de Goiás; e~~<br>
+~~VI – fornecer subsídios aos parlamentares para a formulação de proposições de interesse do Governo do Estado de Goiás; e~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~VII – encarregar–se de competências correlatas.~~<br>
+~~VII – encarregar–se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
 Subseção II
 
 Da Gerência de Convênios
 
-~~Art. 18. Compete à Gerência de Convênios:~~<br>
+~~Art. 18. Compete à Gerência de Convênios:~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~I – propor normas e orientações técnicas relativas à gestão de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos;~~<br>
+~~I – propor normas e orientações técnicas relativas à gestão de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~II – receber e processar as demandas para a celebração de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos;~~<br>
+~~II – receber e processar as demandas para a celebração de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~III – proceder à formalização, à instrução e ao acompanhamento de processos para a celebração e o aditamento de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos;~~<br>
+~~III – proceder à formalização, à instrução e ao acompanhamento de processos para a celebração e o aditamento de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~IV – elaborar extratos de convênios, termos aditivos e demais ajustes necessários e encaminhá– los para publicação;~~<br>
+~~IV – elaborar extratos de convênios, termos aditivos e demais ajustes necessários e encaminhá– los para publicação;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~V – controlar o prazo de vigência de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos;~~<br>
+~~V – controlar o prazo de vigência de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~VI – supervisionar e fiscalizar a execução de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos nos casos em que a SERINT for responsável pela transferência de recursos financeiros, bem como nos que lhe tenham sido transferidos;~~<br>
+~~VI – supervisionar e fiscalizar a execução de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos nos casos em que a SERINT for responsável pela transferência de recursos financeiros, bem como nos que lhe tenham sido transferidos;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~VII – apreciar, mediante parecer técnico–financeiro, a prestação de contas de convênio com os municípios e, quando for o caso, tomar as medidas administrativas prévias para a regularização de pendências e o ressarcimento do dano;~~<br>
+~~VII – apreciar, mediante parecer técnico–financeiro, a prestação de contas de convênio com os municípios e, quando for o caso, tomar as medidas administrativas prévias para a regularização de pendências e o ressarcimento do dano;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~VIII – encaminhar o processo para decisão pela autoridade competente quanto à regularidade ou à irregularidade da aplicação dos recursos transferidos;~~<br>
+~~VIII – encaminhar o processo para decisão pela autoridade competente quanto à regularidade ou à irregularidade da aplicação dos recursos transferidos;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~IX – encaminhar, fisicamente e mediante registro eletrônico, aos órgãos e às unidades de controle, atos e procedimentos relativos ao cadastramento, à formalização, à execução, ao monitoramento e à prestação de contas de convênios celebrados com os municípios;~~<br>
+~~IX – encaminhar, fisicamente e mediante registro eletrônico, aos órgãos e às unidades de controle, atos e procedimentos relativos ao cadastramento, à formalização, à execução, ao monitoramento e à prestação de contas de convênios celebrados com os municípios;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~X – elaborar e assinar, conjuntamente, o certificado de adimplência do município quanto a convênios no âmbito da SERINT;~~<br>
+~~X – elaborar e assinar, conjuntamente, o certificado de adimplência do município quanto a convênios no âmbito da SERINT;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~XI – assessorar, supervisionar, avaliar e harmonizar a implementação de planos, programas, projetos e atividades frutos de convênios celebrados entre o município e o Estado no âmbito de sua competência, bem como suas prestações de contas;~~<br>
+~~XI – assessorar, supervisionar, avaliar e harmonizar a implementação de planos, programas, projetos e atividades frutos de convênios celebrados entre o município e o Estado no âmbito de sua competência, bem como suas prestações de contas;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~XII – promover planos e ações de melhoria da gestão de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos; e~~<br>
+~~XII – promover planos e ações de melhoria da gestão de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos; e~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~XIII – encarregar–se de competências correlatas.~~<br>
+~~XIII – encarregar–se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-<br>
  
 
 Subseção III
 
 Da Gerência Extraordinária de Tomada de Contas Especial
 
-~~Art. 19. Compete à Gerência Extraordinária de Tomada de Contas Especial:~~<br>
+~~Art. 19. Compete à Gerência Extraordinária de Tomada de Contas Especial:~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~I – providenciar a autuação de processo específico em que será processada a tomada de contas especial, após decisão da autoridade competente ou determinação do TCE– GO pela instauração;~~<br>
+~~I – providenciar a autuação de processo específico em que será processada a tomada de contas especial, após decisão da autoridade competente ou determinação do TCE– GO pela instauração;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~II – instruir, na forma da lei e nos demais atos normativos pertinentes, os processos de tomada de contas especial no âmbito da SERINT, para propiciar o trabalho da comissão de tomada de contas especial designada, a fim de promover as ações tendentes à responsabilização do agente e ao ressarcimento de valores devidos;~~<br>
+~~II – instruir, na forma da lei e nos demais atos normativos pertinentes, os processos de tomada de contas especial no âmbito da SERINT, para propiciar o trabalho da comissão de tomada de contas especial designada, a fim de promover as ações tendentes à responsabilização do agente e ao ressarcimento de valores devidos;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~III – formular estudos e propor medidas, de caráter preventivo e corretivo, para a otimização de processos e para o aperfeiçoamento permanente dos trabalhos de tomada de contas especial;~~<br>
+~~III – formular estudos e propor medidas, de caráter preventivo e corretivo, para a otimização de processos e para o aperfeiçoamento permanente dos trabalhos de tomada de contas especial;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~IV – supervisionar, cumprir e observar todos os requisitos formais e materiais exigidos e os prazos fixados pela lei e demais atos normativos pertinentes à tomada de contas especial, inclusive editados pela CGE, pelo Tribunal de Contas dos Municípios do Estado de Goiás – TCM–GO e pelo TCE–GO;~~<br>
+~~IV – supervisionar, cumprir e observar todos os requisitos formais e materiais exigidos e os prazos fixados pela lei e demais atos normativos pertinentes à tomada de contas especial, inclusive editados pela CGE, pelo Tribunal de Contas dos Municípios do Estado de Goiás – TCM–GO e pelo TCE–GO;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~V – assinar, conjuntamente, o certificado de adimplência do município quanto a convênios no âmbito da SERINT;~~<br>
+~~V – assinar, conjuntamente, o certificado de adimplência do município quanto a convênios no âmbito da SERINT;~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~VI – informar ao dirigente máximo o andamento dos processos de tomada de contas especial, para que ele se pronuncie sobre eles e os encaminhe ao TCE–GO ou, eventualmente, peça prorrogação do prazo de encaminhamento; e~~<br>
+~~VI – informar ao dirigente máximo o andamento dos processos de tomada de contas especial, para que ele se pronuncie sobre eles e os encaminhe ao TCE–GO ou, eventualmente, peça prorrogação do prazo de encaminhamento; e~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-~~VII – encarregar–se de competências correlatas.~~<br>
+~~VII – encarregar–se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786), art. 2º, V.
 
-CAPÍTULO V-A<br>
+CAPÍTULO V-A
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 DA ASSESSORIA-EXECUTIVA DE ADVOCACIA DATIVA”
 
-Art. 19-A. Compete à Assessoria-Executiva de Advocacia Dativa supervisionar a análise e a instrução dos processos administrativos destinados ao pagamento de honorários aos advogados dativos, por serviços prestados de assistência judiciária na Justiça estadual, bem como encaminhá-los ao titular da SERINT para o pagamento com verbas oriundas do Fundo Especial de Pagamento dos Advogados Dativos e do Sistema de Acesso à Justiça – FUNDATIVOS.<br>
+Art. 19-A. Compete à Assessoria-Executiva de Advocacia Dativa supervisionar a análise e a instrução dos processos administrativos destinados ao pagamento de honorários aos advogados dativos, por serviços prestados de assistência judiciária na Justiça estadual, bem como encaminhá-los ao titular da SERINT para o pagamento com verbas oriundas do Fundo Especial de Pagamento dos Advogados Dativos e do Sistema de Acesso à Justiça – FUNDATIVOS.
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-CAPÍTULO V-B<br>
+CAPÍTULO V-B
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 DA SUBSECRETARIA DE ARTICULAÇÃO E GESTÃO
 
-Art. 19-B. Compete à Subsecretaria de Articulação e Gestão:<br>
+Art. 19-B. Compete à Subsecretaria de Articulação e Gestão:
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-I – coordenar a articulação política e administrativa do Governo Estadual com outros Poderes, órgãos, outras esferas governamentais e entidades representativas da sociedade civil;<br>
+I – coordenar a articulação política e administrativa do Governo Estadual com outros Poderes, órgãos, outras esferas governamentais e entidades representativas da sociedade civil;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-II – supervisionar e articular, como unidade de interlocução, as atividades legislativas, em especial a tramitação de projetos de lei na Assembleia Legislativa do Estado de Goiás – ALEGO, observadas as competências da Secretaria de Estado da Casa Civil – CASA CIVIL;<br>
+II – supervisionar e articular, como unidade de interlocução, as atividades legislativas, em especial a tramitação de projetos de lei na Assembleia Legislativa do Estado de Goiás – ALEGO, observadas as competências da Secretaria de Estado da Casa Civil – CASA CIVIL;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-III – fornecer subsídios aos parlamentares para a formulação de proposições de interesse do Governo do Estado de Goiás;<br>
+III – fornecer subsídios aos parlamentares para a formulação de proposições de interesse do Governo do Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-IV – promover a interlocução do Governo do Estado de Goiás com os municípios, também o apoio institucional a eles, no que se refere aos interesses deles na esfera estadual, bem como o atendimento a demandas e pleitos que encaminharem à SERINT;<br>
+IV – promover a interlocução do Governo do Estado de Goiás com os municípios, também o apoio institucional a eles, no que se refere aos interesses deles na esfera estadual, bem como o atendimento a demandas e pleitos que encaminharem à SERINT;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-V – articular com o Governo e a sociedade civil a formulação de estratégias de atuação conjunta para o atendimento às demandas;<br>
+V – articular com o Governo e a sociedade civil a formulação de estratégias de atuação conjunta para o atendimento às demandas;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VI – supervisionar a execução de programas, projetos e obras estaduais realizados nos municípios;<br>
+VI – supervisionar a execução de programas, projetos e obras estaduais realizados nos municípios;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VII – supervisionar as atividades gerais no âmbito da SERINT; e<br>
+VII – supervisionar as atividades gerais no âmbito da SERINT; e
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VIII – encarregar-se de competências correlatas.<br>
+VIII – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-Parágrafo único. Além das competências constantes do _caput_ deste artigo, compete à Subsecretaria de Articulação e Gestão exercer as funções de organização, coordenação e supervisão técnica das seguintes unidades:<br>
+Parágrafo único. Além das competências constantes do _caput_ deste artigo, compete à Subsecretaria de Articulação e Gestão exercer as funções de organização, coordenação e supervisão técnica das seguintes unidades:
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-I – Superintendência de Articulação e Apoio aos Municípios; e<br>
+I – Superintendência de Articulação e Apoio aos Municípios; e
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-II – Superintendência de Gestão de Emendas Parlamentares.<br>
+II – Superintendência de Gestão de Emendas Parlamentares.
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
- Seção I<br>
+ Seção I
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 Da Superintendência de Articulação e Apoio aos Municípios
 
-Art. 19-C. Compete à Superintendência de Articulação e Apoio aos Municípios:<br>
+Art. 19-C. Compete à Superintendência de Articulação e Apoio aos Municípios:
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-I – coordenar a articulação política e administrativa do Governo Estadual com outros Poderes, órgãos, outras esferas governamentais e entidades representativas da sociedade civil;<br>
+I – coordenar a articulação política e administrativa do Governo Estadual com outros Poderes, órgãos, outras esferas governamentais e entidades representativas da sociedade civil;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-II – supervisionar e articular, como unidade de interlocução, as atividades legislativas, em especial a tramitação de projetos de lei na ALEGO, observadas as competências da CASA CIVIL;<br>
+II – supervisionar e articular, como unidade de interlocução, as atividades legislativas, em especial a tramitação de projetos de lei na ALEGO, observadas as competências da CASA CIVIL;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-III – fornecer subsídios aos parlamentares para a formulação de proposições de interesse do Governo do Estado de Goiás;<br>
+III – fornecer subsídios aos parlamentares para a formulação de proposições de interesse do Governo do Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-IV – promover a interlocução do Governo do Estado de Goiás com os municípios, também o apoio institucional a eles, no que se refere aos interesses deles na esfera estadual, bem como o atendimento a demandas e pleitos que encaminharem à SERINT;<br>
+IV – promover a interlocução do Governo do Estado de Goiás com os municípios, também o apoio institucional a eles, no que se refere aos interesses deles na esfera estadual, bem como o atendimento a demandas e pleitos que encaminharem à SERINT;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-V – articular com o Governo e a sociedade civil a formulação de estratégias de atuação conjunta para o atendimento às demandas;<br>
+V – articular com o Governo e a sociedade civil a formulação de estratégias de atuação conjunta para o atendimento às demandas;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VI – supervisionar a execução de programas, projetos e obras estaduais realizados nos municípios; e<br>
+VI – supervisionar a execução de programas, projetos e obras estaduais realizados nos municípios; e
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VII – encarregar-se de competências correlatas.<br>
+VII – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-Parágrafo único. Além das competências constantes do caput deste artigo, compete à Superintendência de Articulação e Apoio aos Municípios exercer as funções de organização, coordenação e supervisão das seguintes unidades:<br>
+Parágrafo único. Além das competências constantes do caput deste artigo, compete à Superintendência de Articulação e Apoio aos Municípios exercer as funções de organização, coordenação e supervisão das seguintes unidades:
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-I – Gerência de Apoio e Articulação;<br>
+I – Gerência de Apoio e Articulação;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-II – Gerência de Apoio e Acompanhamento do Processo Legislativo;<br>
+II – Gerência de Apoio e Acompanhamento do Processo Legislativo;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-III – Gerência de Projetos e Apoio Institucional; e<br>
+III – Gerência de Projetos e Apoio Institucional; e
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-IV – Gerência de Apoio aos Municípios para Captação de Recursos Estaduais.”<br>
+IV – Gerência de Apoio aos Municípios para Captação de Recursos Estaduais.”
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
- Subseção I<br>
+ Subseção I
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 Da Gerência de Apoio e Articulação
 
-Art. 19-D. Compete à Gerência de Apoio e Articulação:<br>
+Art. 19-D. Compete à Gerência de Apoio e Articulação:
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-I – manter interlocução constante com os Poderes Executivo, Legislativo e Judiciário, para o fortalecimento das relações institucionais entre o Estado de Goiás e os entes federais;<br>
+I – manter interlocução constante com os Poderes Executivo, Legislativo e Judiciário, para o fortalecimento das relações institucionais entre o Estado de Goiás e os entes federais;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-II – identificar oportunidades de colaboração e parcerias institucionais com órgãos federais, tribunais e entidades ligadas aos Três Poderes;<br>
+II – identificar oportunidades de colaboração e parcerias institucionais com órgãos federais, tribunais e entidades ligadas aos Três Poderes;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-III – acompanhar a tramitação de iniciativas que possam impactar o Estado de Goiás;<br>
+III – acompanhar a tramitação de iniciativas que possam impactar o Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-IV – facilitar a participação de representantes do Governo Estadual em audiências, reuniões e outros eventos promovidos por entidades federais;<br>
+IV – facilitar a participação de representantes do Governo Estadual em audiências, reuniões e outros eventos promovidos por entidades federais;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-V – estabelecer e manter relações com entidades representativas da sociedade civil, organizações não governamentais, sindicatos e associações que tenham impacto nas políticas públicas de Goiás;<br>
+V – estabelecer e manter relações com entidades representativas da sociedade civil, organizações não governamentais, sindicatos e associações que tenham impacto nas políticas públicas de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VI – facilitar o diálogo entre o Governo Estadual e as entidades indicadas no inciso V para a transparência e a participação social nas decisões políticas e administrativas;<br>
+VI – facilitar o diálogo entre o Governo Estadual e as entidades indicadas no inciso V para a transparência e a participação social nas decisões políticas e administrativas;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VII – acompanhar as demandas da sociedade civil e representar os interesses do Estado de Goiás em reuniões e outros eventos promovidos por organizações do terceiro setor;<br>
+VII – acompanhar as demandas da sociedade civil e representar os interesses do Estado de Goiás em reuniões e outros eventos promovidos por organizações do terceiro setor;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VIII – promover parcerias entre o governo e entidades da sociedade civil para a implementação de projetos e programas sociais;<br>
+VIII – promover parcerias entre o governo e entidades da sociedade civil para a implementação de projetos e programas sociais;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-IX – identificar e mapear organizações e movimentos sociais relevantes com atuação federal para o desenvolvimento de políticas públicas, com a criação de base de dados atualizada sobre as principais entidades atuantes;<br>
+IX – identificar e mapear organizações e movimentos sociais relevantes com atuação federal para o desenvolvimento de políticas públicas, com a criação de base de dados atualizada sobre as principais entidades atuantes;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-X – encarregar-se de outras competências que lhe forem atribuídas pelo Superintendente; e<br>
+X – encarregar-se de outras competências que lhe forem atribuídas pelo Superintendente; e
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-XI – encarregar-se de competências correlatas.<br>
+XI – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
- Subseção II<br>
+ Subseção II
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 Da Gerência de Apoio e Acompanhamento do Processo Legislativo
 
-Art. 19-E. Compete à Gerência de Apoio e Acompanhamento do Processo Legislativo, como unidade de interlocução e respeitadas as competências da CASA CIVIL:<br>
+Art. 19-E. Compete à Gerência de Apoio e Acompanhamento do Processo Legislativo, como unidade de interlocução e respeitadas as competências da CASA CIVIL:
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-I – coordenar e supervisionar, em sua área de atuação, as atividades de apoio administrativo ao processo legislativo, que compreendem a elaboração, o registro, a publicação, a tramitação, o arquivamento e a recuperação de proposições e documentos legislativos;<br>
+I – coordenar e supervisionar, em sua área de atuação, as atividades de apoio administrativo ao processo legislativo, que compreendem a elaboração, o registro, a publicação, a tramitação, o arquivamento e a recuperação de proposições e documentos legislativos;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-II – prestar assessoria técnica à SERINT nos aspectos formais e procedimentais do processo legislativo;<br>
+II – prestar assessoria técnica à SERINT nos aspectos formais e procedimentais do processo legislativo;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-III – analisar a pauta das sessões plenárias;<br>
+III – analisar a pauta das sessões plenárias;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-IV – acompanhar os trabalhos legislativos da ALEGO;<br>
+IV – acompanhar os trabalhos legislativos da ALEGO;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-V – expedir, em nome da SERINT, ofícios, requerimentos, indicações e moções decorrentes do processo legislativo;<br>
+V – expedir, em nome da SERINT, ofícios, requerimentos, indicações e moções decorrentes do processo legislativo;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VI – acompanhar e subsidiar a atuação parlamentar do Governo do Estado em matérias relacionadas às leis orçamentárias;<br>
+VI – acompanhar e subsidiar a atuação parlamentar do Governo do Estado em matérias relacionadas às leis orçamentárias;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VII – articular-se com os órgãos e as entidades da administração pública estadual para a elaboração e a execução das emendas parlamentares;<br>
+VII – articular-se com os órgãos e as entidades da administração pública estadual para a elaboração e a execução das emendas parlamentares;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VIII – assessorar o titular da SERINT na interlocução com os Poderes Legislativo e Judiciário, o Ministério Público, o Tribunal de Contas e demais órgãos autônomos do Estado de Goiás, nos aspectos orçamentários e financeiros;<br>
+VIII – assessorar o titular da SERINT na interlocução com os Poderes Legislativo e Judiciário, o Ministério Público, o Tribunal de Contas e demais órgãos autônomos do Estado de Goiás, nos aspectos orçamentários e financeiros;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-IX – oferecer suporte técnico na análise de projetos legislativos e auxiliar na elaboração de pareceres e notas técnicas para subsidiar a tomada de decisões pelo titular da SERINT;<br>
+IX – oferecer suporte técnico na análise de projetos legislativos e auxiliar na elaboração de pareceres e notas técnicas para subsidiar a tomada de decisões pelo titular da SERINT;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-X – encarregar-se de outras competências que lhe forem atribuídas pelo Superintendente; e<br>
+X – encarregar-se de outras competências que lhe forem atribuídas pelo Superintendente; e
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-XI – encarregar-se de competências correlatas.<br>
+XI – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
- Subseção III<br>
+ Subseção III
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 Da Gerência de Projetos e Apoio Institucional
 
-Art. 19-F. Compete à Gerência de Projetos e Apoio Institucional:<br>
+Art. 19-F. Compete à Gerência de Projetos e Apoio Institucional:
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-I – planejar, coordenar e executar as atividades relacionadas à execução direta das emendas parlamentares individuais impositivas;<br>
+I – planejar, coordenar e executar as atividades relacionadas à execução direta das emendas parlamentares individuais impositivas;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-II – planejar, coordenar e executar as atividades relacionadas à aquisição de bens e serviços decorrentes de emendas parlamentares individuais impositivas;<br>
+II – planejar, coordenar e executar as atividades relacionadas à aquisição de bens e serviços decorrentes de emendas parlamentares individuais impositivas;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-III – prestar apoio técnico e administrativo às demais unidades da SERINT nas questões referentes a execuções direta, aquisições e doações;<br>
+III – prestar apoio técnico e administrativo às demais unidades da SERINT nas questões referentes a execuções direta, aquisições e doações;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-IV – elaborar relatórios gerenciais e prestar contas das atividades sob sua responsabilidade;<br>
+IV – elaborar relatórios gerenciais e prestar contas das atividades sob sua responsabilidade;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-V – orientar e apoiar os órgãos setoriais na gestão dos convênios e na prestação de contas das emendas parlamentares;<br>
+V – orientar e apoiar os órgãos setoriais na gestão dos convênios e na prestação de contas das emendas parlamentares;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VI – monitorar e avaliar a execução das emendas parlamentares nos órgãos setoriais, bem como o cumprimento dos prazos e dos requisitos legais;<br>
+VI – monitorar e avaliar a execução das emendas parlamentares nos órgãos setoriais, bem como o cumprimento dos prazos e dos requisitos legais;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VII – consolidar e divulgar as informações sobre as emendas parlamentares recebidas e executadas pelo Estado, além de manter atualizado o sistema de acompanhamento de emendas;<br>
+VII – consolidar e divulgar as informações sobre as emendas parlamentares recebidas e executadas pelo Estado, além de manter atualizado o sistema de acompanhamento de emendas;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VIII – articular-se com as demais unidades da SERINT para o acompanhamento da liberação dos recursos das emendas parlamentares;<br>
+VIII – articular-se com as demais unidades da SERINT para o acompanhamento da liberação dos recursos das emendas parlamentares;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-IX – encarregar-se de outras competências que lhe forem atribuídas pelo Superintendente; e<br>
+IX – encarregar-se de outras competências que lhe forem atribuídas pelo Superintendente; e
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-X – encarregar-se de competências correlatas.<br>
+X – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
- Subseção IV<br>
+ Subseção IV
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 Da Gerência de Apoio aos Municípios para Captação de Recursos Estaduais
 
-Art. 19-G. Compete à Gerência de Apoio aos Municípios para Captação de Recursos Estaduais:<br>
+Art. 19-G. Compete à Gerência de Apoio aos Municípios para Captação de Recursos Estaduais:
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-I – recepcionar e assessorar as solicitações de municípios, órgãos e instituições, inclusive privadas;<br>
+I – recepcionar e assessorar as solicitações de municípios, órgãos e instituições, inclusive privadas;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-II – fornecer subsídios para o atendimento aos pleitos dos municípios e intermediar as ações da SERINT em relação a eles;<br>
+II – fornecer subsídios para o atendimento aos pleitos dos municípios e intermediar as ações da SERINT em relação a eles;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-III – supervisionar a interlocução e o apoio institucional do Governo do Estado de Goiás com os municípios, relativamente aos interesses destes na atividade parlamentar nas esferas estadual e federal;<br>
+III – supervisionar a interlocução e o apoio institucional do Governo do Estado de Goiás com os municípios, relativamente aos interesses destes na atividade parlamentar nas esferas estadual e federal;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-IV – auxiliar no estudo de alternativas para o desenvolvimento dos municípios;<br>
+IV – auxiliar no estudo de alternativas para o desenvolvimento dos municípios;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-V – coordenar e executar, nos órgãos setoriais do Poder Executivo estadual, as atividades relacionadas ao acompanhamento das emendas parlamentares impositivas;<br>
+V – coordenar e executar, nos órgãos setoriais do Poder Executivo estadual, as atividades relacionadas ao acompanhamento das emendas parlamentares impositivas;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VI – encarregar-se de outras competências que lhe forem atribuídas pelo Superintendente; e<br>
+VI – encarregar-se de outras competências que lhe forem atribuídas pelo Superintendente; e
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VII – encarregar-se de competências correlatas.<br>
+VII – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
- Seção II<br>
+ Seção II
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 Da Superintendência de Gestão de Emendas Parlamentares
 
-Art. 19-H. Compete à Superintendência de Gestão de Emendas Parlamentares:<br>
+Art. 19-H. Compete à Superintendência de Gestão de Emendas Parlamentares:
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-I – coordenar a operação administrativa do Governo Estadual relativa às emendas parlamentares;<br>
+I – coordenar a operação administrativa do Governo Estadual relativa às emendas parlamentares;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-II – supervisionar e articular as atividades decorrentes das emendas parlamentares;<br>
+II – supervisionar e articular as atividades decorrentes das emendas parlamentares;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-III – fornecer subsídios aos parlamentares para a formulação de proposições de interesse do Governo do Estado de Goiás;<br>
+III – fornecer subsídios aos parlamentares para a formulação de proposições de interesse do Governo do Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-IV – promover a interlocução e o apoio institucional no âmbito das emendas parlamentares;<br>
+IV – promover a interlocução e o apoio institucional no âmbito das emendas parlamentares;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-V – supervisionar a execução das emendas parlamentares;<br>
+V – supervisionar a execução das emendas parlamentares;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VI – formalizar, registrar e submeter à apreciação superior os pedidos de celebração de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos nos casos em que a SERINT for responsável pela transferência de recursos financeiros;<br>
+VI – formalizar, registrar e submeter à apreciação superior os pedidos de celebração de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos nos casos em que a SERINT for responsável pela transferência de recursos financeiros;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VII – supervisionar, fiscalizar, analisar e processar a prestação de contas dos convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos nos casos em que a SERINT for responsável pela transferência de recursos financeiros, bem como nos que lhe tenham sido transferidos;<br>
+VII – supervisionar, fiscalizar, analisar e processar a prestação de contas dos convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos nos casos em que a SERINT for responsável pela transferência de recursos financeiros, bem como nos que lhe tenham sido transferidos;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VIII – supervisionar os planos e as ações de melhoria da gestão de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos;<br>
+VIII – supervisionar os planos e as ações de melhoria da gestão de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-XI – supervisionar a instauração e instruir os processos de tomada de contas especial, bem como notificar os órgãos de controle;<br>
+XI – supervisionar a instauração e instruir os processos de tomada de contas especial, bem como notificar os órgãos de controle;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-X – elaborar e supervisionar as diretrizes e os procedimentos à destinação, à indicação, à priorização e à execução das emendas parlamentares, inclusive a operacionalização desses recursos na modalidade de aplicação direta; e<br>
+X – elaborar e supervisionar as diretrizes e os procedimentos à destinação, à indicação, à priorização e à execução das emendas parlamentares, inclusive a operacionalização desses recursos na modalidade de aplicação direta; e
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-XI – encarregar-se de competências correlatas.<br>
+XI – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-Parágrafo único. Além das competências constantes do caput deste artigo, compete à Superintendência de Gestão de Emendas Parlamentares exercer as funções de organização, coordenação e supervisão das seguintes unidades:<br>
+Parágrafo único. Além das competências constantes do caput deste artigo, compete à Superintendência de Gestão de Emendas Parlamentares exercer as funções de organização, coordenação e supervisão das seguintes unidades:
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-I – Gerência de Convênios e Elaboração de Instrumentos;<br>
+I – Gerência de Convênios e Elaboração de Instrumentos;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-II – Gerência Extraordinária de Tomada de Contas Especial;<br>
+II – Gerência Extraordinária de Tomada de Contas Especial;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-III – Gerência de Prestação de Contas; e<br>
+III – Gerência de Prestação de Contas; e
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-IV – Gerência de Execução e Monitoramento de Instrumentos.<br>
+IV – Gerência de Execução e Monitoramento de Instrumentos.
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
- Subseção I<br>
+ Subseção I
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 Da Gerência de Convênios e Elaboração de Instrumentos
 
-Art. 19-I. Compete à Gerência de Convênios e Elaboração de Instrumentos:<br>
+Art. 19-I. Compete à Gerência de Convênios e Elaboração de Instrumentos:
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-I – propor normas e orientações técnicas relativas à gestão de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos;<br>
+I – propor normas e orientações técnicas relativas à gestão de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-II – receber e processar as demandas para a celebração de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos;<br>
+II – receber e processar as demandas para a celebração de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-III – proceder à formalização, à instrução e ao acompanhamento de processos para a celebração e o aditamento de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos;<br>
+III – proceder à formalização, à instrução e ao acompanhamento de processos para a celebração e o aditamento de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-IV – elaborar extratos de convênios, termos aditivos e demais ajustes necessários e encaminhá-los à publicação;<br>
+IV – elaborar extratos de convênios, termos aditivos e demais ajustes necessários e encaminhá-los à publicação;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-V – elaborar e assinar, conjuntamente, o certificado de adimplência do município em convênios no âmbito da SERINT;<br>
+V – elaborar e assinar, conjuntamente, o certificado de adimplência do município em convênios no âmbito da SERINT;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VI – assessorar, supervisionar, avaliar e harmonizar a implementação de planos, programas, projetos e atividades decorrentes de convênios celebrados entre o município e o Estado no âmbito de sua competência, bem como as respectivas prestações de contas;<br>
+VI – assessorar, supervisionar, avaliar e harmonizar a implementação de planos, programas, projetos e atividades decorrentes de convênios celebrados entre o município e o Estado no âmbito de sua competência, bem como as respectivas prestações de contas;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VII – promover planos e ações de melhoria da gestão de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos; e<br>
+VII – promover planos e ações de melhoria da gestão de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos; e
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VIII – encarregar-se de competências correlatas.<br>
+VIII – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-Subseção II<br>
+Subseção II
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 Da Gerência Extraordinária de Tomada de Contas Especial
 
-Art. 19-J. Compete à Gerência Extraordinária de Tomada de Contas Especial:<br>
+Art. 19-J. Compete à Gerência Extraordinária de Tomada de Contas Especial:
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-I – providenciar a autuação de processo específico em que será processada a tomada de contas especial, após a decisão da instauração pela autoridade competente ou a determinação pelo TCE-GO;<br>
+I – providenciar a autuação de processo específico em que será processada a tomada de contas especial, após a decisão da instauração pela autoridade competente ou a determinação pelo TCE-GO;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-II – instruir, na forma da lei e dos demais atos normativos pertinentes, os processos de tomada de contas especial no âmbito da SERINT, para propiciar o trabalho da comissão de tomada de contas especial designada, a fim de promover as ações para a responsabilização do agente e o ressarcimento dos valores devidos;<br>
+II – instruir, na forma da lei e dos demais atos normativos pertinentes, os processos de tomada de contas especial no âmbito da SERINT, para propiciar o trabalho da comissão de tomada de contas especial designada, a fim de promover as ações para a responsabilização do agente e o ressarcimento dos valores devidos;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-III – formular estudos e propor medidas de caráter preventivo e corretivo para a otimização de processos e para o aperfeiçoamento permanente dos trabalhos de tomada de contas especial;<br>
+III – formular estudos e propor medidas de caráter preventivo e corretivo para a otimização de processos e para o aperfeiçoamento permanente dos trabalhos de tomada de contas especial;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-IV – supervisionar, cumprir e observar todos os requisitos formais e materiais exigidos e os prazos fixados pela lei e pelos demais atos normativos pertinentes à tomada de contas especial, inclusive editados pela CGE, pelo Tribunal de Contas dos Municípios do Estado de Goiás – TCM-GO e pelo TCE-GO;<br>
+IV – supervisionar, cumprir e observar todos os requisitos formais e materiais exigidos e os prazos fixados pela lei e pelos demais atos normativos pertinentes à tomada de contas especial, inclusive editados pela CGE, pelo Tribunal de Contas dos Municípios do Estado de Goiás – TCM-GO e pelo TCE-GO;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-V – assinar, conjuntamente, o certificado de adimplência do município em convênios no âmbito da SERINT;<br>
+V – assinar, conjuntamente, o certificado de adimplência do município em convênios no âmbito da SERINT;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VI – informar ao dirigente máximo o andamento dos processos de tomada de contas especial, para que haja o pronunciamento sobre eles e os encaminhe ao TCE-GO ou, eventualmente, peça prorrogação do prazo de encaminhamento; e<br>
+VI – informar ao dirigente máximo o andamento dos processos de tomada de contas especial, para que haja o pronunciamento sobre eles e os encaminhe ao TCE-GO ou, eventualmente, peça prorrogação do prazo de encaminhamento; e
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VII – encarregar-se de competências correlatas.<br>
+VII – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-Subseção III<br>
+Subseção III
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 Da Gerência de Prestação de Contas
 
-Art. 19-K. Compete à Gerência de Prestação de Contas:<br>
+Art. 19-K. Compete à Gerência de Prestação de Contas:
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-I – coordenar e executar as atividades relacionadas à análise da prestação de contas dos recursos transferidos pelo Estado de Goiás;<br>
+I – coordenar e executar as atividades relacionadas à análise da prestação de contas dos recursos transferidos pelo Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-II – apoiar tecnicamente as unidades da SERINT na elaboração e na revisão das normas sobre a prestação de contas dos recursos repassados;<br>
+II – apoiar tecnicamente as unidades da SERINT na elaboração e na revisão das normas sobre a prestação de contas dos recursos repassados;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-III – monitorar e acompanhar o cumprimento dos prazos e das exigências legais para a apresentação das prestações de contas pelos gestores e pelos beneficiários dos recursos;<br>
+III – monitorar e acompanhar o cumprimento dos prazos e das exigências legais para a apresentação das prestações de contas pelos gestores e pelos beneficiários dos recursos;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-IV – propor medidas de aprimoramento dos sistemas informatizados e dos procedimentos operacionais relacionados à prestação de contas;<br>
+IV – propor medidas de aprimoramento dos sistemas informatizados e dos procedimentos operacionais relacionados à prestação de contas;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-V – subsidiar a instauração e a instrução dos processos de tomada de contas especial referentes aos recursos sob sua responsabilidade;<br>
+V – subsidiar a instauração e a instrução dos processos de tomada de contas especial referentes aos recursos sob sua responsabilidade;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VI – controlar o prazo de vigência de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos;<br>
+VI – controlar o prazo de vigência de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VII – supervisionar e fiscalizar a execução de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos nos casos em que a SERINT for responsável pela transferência de recursos financeiros e nos que lhe tenham sido transferidos;<br>
+VII – supervisionar e fiscalizar a execução de convênios com os municípios e os ajustes com as entidades privadas sem fins lucrativos nos casos em que a SERINT for responsável pela transferência de recursos financeiros e nos que lhe tenham sido transferidos;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VIII – apreciar, mediante parecer técnico– financeiro, a prestação de contas de convênio com os municípios e, quando for o caso, tomar as medidas administrativas prévias para a regularização de pendências e o ressarcimento do dano;<br>
+VIII – apreciar, mediante parecer técnico– financeiro, a prestação de contas de convênio com os municípios e, quando for o caso, tomar as medidas administrativas prévias para a regularização de pendências e o ressarcimento do dano;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-IX – encaminhar o processo para a decisão pela autoridade competente quanto à regularidade ou à irregularidade da aplicação dos recursos transferidos;<br>
+IX – encaminhar o processo para a decisão pela autoridade competente quanto à regularidade ou à irregularidade da aplicação dos recursos transferidos;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-X – encaminhar, fisicamente e mediante registro eletrônico, aos órgãos e às unidades de controle atos e procedimentos relativos ao cadastramento, à formalização, à execução, ao monitoramento e à prestação de contas dos convênios celebrados com os municípios; e<br>
+X – encaminhar, fisicamente e mediante registro eletrônico, aos órgãos e às unidades de controle atos e procedimentos relativos ao cadastramento, à formalização, à execução, ao monitoramento e à prestação de contas dos convênios celebrados com os municípios; e
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-XI – encarregar-se de competências correlatas.<br>
+XI – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-Subseção IV<br>
+Subseção IV
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 Da Gerência de Execução e Monitoramento de Instrumentos
 
-Art. 19-L. Compete à Gerência de Execução e Monitoramento de Instrumentos:<br>
+Art. 19-L. Compete à Gerência de Execução e Monitoramento de Instrumentos:
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-I – coordenar e supervisionar a execução física e financeira dos projetos e das atividades vinculados às emendas parlamentares individuais;<br>
+I – coordenar e supervisionar a execução física e financeira dos projetos e das atividades vinculados às emendas parlamentares individuais;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-II – acompanhar e controlar as demandas recebidas pela SERINT relativas aos programas, às ações e aos projetos do orçamento impositivo;<br>
+II – acompanhar e controlar as demandas recebidas pela SERINT relativas aos programas, às ações e aos projetos do orçamento impositivo;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-III – elaborar relatórios periódicos sobre o desempenho dos projetos e das atividades financiadas por emendas parlamentares, inclusive com indicadores de resultados e impactos;<br>
+III – elaborar relatórios periódicos sobre o desempenho dos projetos e das atividades financiadas por emendas parlamentares, inclusive com indicadores de resultados e impactos;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-IV – divulgar, por boletins informativos, redes sociais, _site_ institucional e outros meios de comunicação, as entregas de políticas públicas realizadas pela SERINT;<br>
+IV – divulgar, por boletins informativos, redes sociais, _site_ institucional e outros meios de comunicação, as entregas de políticas públicas realizadas pela SERINT;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-V – articular-se com as demais unidades da SERINT e com os órgãos parceiros para obter informações sobre as entregas de políticas públicas e disseminá-las aos públicos interessados;<br>
+V – articular-se com as demais unidades da SERINT e com os órgãos parceiros para obter informações sobre as entregas de políticas públicas e disseminá-las aos públicos interessados;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VI – apoiar as demais gerências da SERINT na elaboração de materiais de divulgação das ações e projetos realizados pelo órgão;<br>
+VI – apoiar as demais gerências da SERINT na elaboração de materiais de divulgação das ações e projetos realizados pelo órgão;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VII – supervisionar a implementação e a execução de políticas, planos, iniciativas, programas, projetos e ações na SERINT, relacionados com os instrumentos governamentais de planejamento;<br>
+VII – supervisionar a implementação e a execução de políticas, planos, iniciativas, programas, projetos e ações na SERINT, relacionados com os instrumentos governamentais de planejamento;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-VIII – alinhar os instrumentos de planejamento da SERINT aos instrumentos governamentais de planejamento;<br>
+VIII – alinhar os instrumentos de planejamento da SERINT aos instrumentos governamentais de planejamento;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-IX – exercer, referentemente a planejamento, a função de órgão setorial do Sistema Estruturador de Organização e Inovação Institucional e acompanhar a execução das atividades pertinentes, em arranjo colaborativo com outros órgãos e sistemas, especialmente os de orçamento, finanças, inovação da gestão e serviços públicos;<br>
+IX – exercer, referentemente a planejamento, a função de órgão setorial do Sistema Estruturador de Organização e Inovação Institucional e acompanhar a execução das atividades pertinentes, em arranjo colaborativo com outros órgãos e sistemas, especialmente os de orçamento, finanças, inovação da gestão e serviços públicos;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-X – planejar, coordenar e orientar a execução das atividades setoriais relacionadas à unidade central de planejamento, em compatibilização com as diretrizes e os macroprocessos de orçamento, de gestão estratégica e de projetos da SERINT;<br>
+X – planejar, coordenar e orientar a execução das atividades setoriais relacionadas à unidade central de planejamento, em compatibilização com as diretrizes e os macroprocessos de orçamento, de gestão estratégica e de projetos da SERINT;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-XI – planejar, orientar, coordenar e acompanhar a gestão de portfólio, programas e projetos para a governança e a informação da situação das iniciativas adotadas;<br>
+XI – planejar, orientar, coordenar e acompanhar a gestão de portfólio, programas e projetos para a governança e a informação da situação das iniciativas adotadas;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-XII – coletar e manter disponíveis e atualizadas as informações técnicas e cadastrais nos sistemas informacionais pertinentes;<br>
+XII – coletar e manter disponíveis e atualizadas as informações técnicas e cadastrais nos sistemas informacionais pertinentes;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-XIII – coordenar a elaboração de diagnóstico situacional da SERINT, com o apoio das áreas finalísticas, para fornecer insumos e subsídios à elaboração de planos e programas setoriais;<br>
+XIII – coordenar a elaboração de diagnóstico situacional da SERINT, com o apoio das áreas finalísticas, para fornecer insumos e subsídios à elaboração de planos e programas setoriais;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-XIV – coordenar setorialmente e apoiar o processo de planejamento governamental quanto aos assuntos de interesse da SERINT, inclusive o ciclo do PPA e da proposta orçamentária anual, em consonância com as diretrizes da unidade central de planejamento;<br>
+XIV – coordenar setorialmente e apoiar o processo de planejamento governamental quanto aos assuntos de interesse da SERINT, inclusive o ciclo do PPA e da proposta orçamentária anual, em consonância com as diretrizes da unidade central de planejamento;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-XV – coordenar os processos de revisão do planejamento setorial;<br>
+XV – coordenar os processos de revisão do planejamento setorial;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-XVI – conciliar as propostas de planejamento encaminhadas com a capacidade de execução financeira e operacional da SERINT, respeitados os limites financeiros aplicáveis;<br>
+XVI – conciliar as propostas de planejamento encaminhadas com a capacidade de execução financeira e operacional da SERINT, respeitados os limites financeiros aplicáveis;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-XVII – propor, desenvolver e acompanhar modelo de governança setorial para a consecução das metas da SERINT;<br>
+XVII – propor, desenvolver e acompanhar modelo de governança setorial para a consecução das metas da SERINT;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-XVIII – apoiar a realização do processo de planejamento estratégico institucional, em articulação com a área de gestão estratégica e de projetos, para garantir o alinhamento ao PPA, a sua boa execução e o atingimento de metas;<br>
+XVIII – apoiar a realização do processo de planejamento estratégico institucional, em articulação com a área de gestão estratégica e de projetos, para garantir o alinhamento ao PPA, a sua boa execução e o atingimento de metas;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-XIX – elaborar o planejamento financeiro dos projetos governamentais, observadas as diretrizes estratégicas definidas e as metas fiscais previstas;<br>
+XIX – elaborar o planejamento financeiro dos projetos governamentais, observadas as diretrizes estratégicas definidas e as metas fiscais previstas;
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-XX – coordenar a elaboração e a implementação do planejamento estratégico da SERINT, bem como acompanhar e avaliar os seus resultados; e<br>
+XX – coordenar a elaboração e a implementação do planejamento estratégico da SERINT, bem como acompanhar e avaliar os seus resultados; e
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-XXI – encarregar-se de competências correlatas.<br>
+XXI – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-§ 1º A Gerência de Execução e Monitoramento de Instrumentos fica subordinada técnica e normativamente, sem prejuízo à subordinação administrativa à Superintendência de Gestão de Emendas Parlamentares, à ECONOMIA, quanto às competências de planejamento.<br>
+§ 1º A Gerência de Execução e Monitoramento de Instrumentos fica subordinada técnica e normativamente, sem prejuízo à subordinação administrativa à Superintendência de Gestão de Emendas Parlamentares, à ECONOMIA, quanto às competências de planejamento.
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
-§ 2º No âmbito da SERINT, as atribuições de planejamento da Gerência de Execução e Monitoramento de Instrumentos serão feitas com a supervisão e a anuência dos Superintendentes da SERINT, da Chefia de Gabinete e das áreas correlatas.<br>
+§ 2º No âmbito da SERINT, as atribuições de planejamento da Gerência de Execução e Monitoramento de Instrumentos serão feitas com a supervisão e a anuência dos Superintendentes da SERINT, da Chefia de Gabinete e das áreas correlatas.
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 CAPÍTULO VI
@@ -1730,17 +2016,20 @@ XV – referendar as leis sancionadas pelo Governador e os decretos por ele assi
 
 XVI – providenciar a instauração de tomada de contas especial, sindicâncias e notificar os órgãos de controle;
 
-XVII – exercer a gestão de todo o ciclo de execução das emendas parlamentares, inclusive a publicação das diretrizes e dos procedimentos à destinação, à indicação, à priorização e à operacionalização dos recursos na modalidade de aplicação direta;<br>
+XVII – exercer a gestão de todo o ciclo de execução das emendas parlamentares, inclusive a publicação das diretrizes e dos procedimentos à destinação, à indicação, à priorização e à operacionalização dos recursos na modalidade de aplicação direta;
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XVII – exercer a gestão de todo o ciclo de execução das emendas parlamentares, incluindo a publicação de diretrizes e procedimentos à destinação, à indicação, à priorização e à operacionalização desses recursos na modalidade de aplicação direta; e~~
 
-XVIII – criar grupos de trabalho e comissões de estudo que não impliquem aumento de cargos; e<br>
+XVIII – criar grupos de trabalho e comissões de estudo que não impliquem aumento de cargos; e
+
 \- [Redação dada pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 ~~XVIII – encarregar–se de outras atribuições decorrentes do pleno exercício do cargo e as que lhe forem atribuídas pelo Governador.~~
 
-XIX – encarregar-se de outras atribuições decorrentes do pleno exercício do cargo e as que lhe forem atribuídas pelo Governador.<br>
+XIX – encarregar-se de outras atribuições decorrentes do pleno exercício do cargo e as que lhe forem atribuídas pelo Governador.
+
 \- [Acrescido pelo Decreto nº 10.786, de 24-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111301/decreto-10786).
 
 CAPÍTULO VIII

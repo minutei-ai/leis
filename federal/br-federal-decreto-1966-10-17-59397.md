@@ -1,5 +1,3 @@
-###DEC-059397-0-000-17-10-1966@@@
-
 decreto nº 59.397, de 17 de outubro de 1966.
 
 Declara de utilidade pública a “Santa Casa de Caridade de Uruguaiana”, com sede em Uruguaiana, Estado do Rio Grande do Sul.

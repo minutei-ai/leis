@@ -1,7 +1,3 @@
-1
-
-###DEC-000278-0-000-29-10-1991@@@
-
 DECRETO Nº 278, DE 29 DE OUTUBRO DE 1991
 
 Homologa a demarcação administrativa da Área Indigena Igarapé do Caucho, no Estado do Acre.

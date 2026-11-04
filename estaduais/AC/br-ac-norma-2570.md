@@ -1,6 +1,10 @@
 > **LEI Nº 3.246, DE 27 DE ABRIL DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Estado a receber em doação imóvel urbano, para fins de construção da sede da Defensoria Pública no Município de Tarauacá.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Estado a receber em doação imóvel urbano, para fins de construção da sede da Defensoria Pública no Município de Tarauacá.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

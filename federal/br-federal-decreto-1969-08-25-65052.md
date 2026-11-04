@@ -1,5 +1,3 @@
-###DEC-065052-0-000-25-08-1969@@@
-
 DECRETO Nº 65.052 - DE 25 DE AGÔSTO DE 1969.
 
 Declara de utilidade pública o Clube Naval, com sede no Estado da Guanabara.

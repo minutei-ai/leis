@@ -1,5 +1,3 @@
-###DEC-003328-0-000-05-01-2000@@@
-
 DECRETO nº 3.328, DE 5 DE JANEIRO DE 2000.
 
 Altera o Decreto nº 2.889, de 21 de dezembro de 1998, que dispõe sobre admissão temporária de bens para utilização econômica no País.

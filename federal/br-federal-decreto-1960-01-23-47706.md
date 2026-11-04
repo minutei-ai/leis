@@ -1,5 +1,3 @@
-###DEC-047706-0-000-23-01-1960@@@
-
 DECRETO Nº 47.706, DE 23 DE JANEIRO DE 1960.
 
 Dispõe sôbre aplicação da Lei número 3.205, de 15 de julho de 1957, do Conselho Federal de Contabilidade, e dá outras providências.

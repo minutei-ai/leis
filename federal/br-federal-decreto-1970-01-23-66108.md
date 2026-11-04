@@ -1,5 +1,3 @@
-###DEC-066108-0-000-23-01-1970@@@
-
 DECRETO Nº 66.108 - DE 23 DE JANEIRO DE 1970
 
 Restabelece a redação do item IV do artigo 74 do Decreto nº 57.651, de 19 de janeiro de 1966, e dá outras providências.

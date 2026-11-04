@@ -1,5 +1,3 @@
-###DEC-058460-0-000-17-05-1966@@@
-
 DECRETO Nº 58.460, DE 17 DE MAIO DE 1966.
 
 Transfere do Govêrno do Estado do Paraná para a Companhia Paraense de Energia Elétrica concessão para distribuir energia elétrica.

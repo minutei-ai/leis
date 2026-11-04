@@ -1,5 +1,3 @@
-###DEC-007716-0-000-03-04-2012-PUB-01@@@
-
 DECRETO Nº 7.716, DE 3 DE ABRIL DE 2012
 
 Regulamenta a Medida Provisória nº 563,de 3 de abril de 2012, na parte em que dispõe sobre regime especial de crédito do Imposto sobre Produtos Industrializados - IPI a que fazem jus as empresas fabricantes de produtos classificados nos códigos 87.01 a 87.06 da Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI.

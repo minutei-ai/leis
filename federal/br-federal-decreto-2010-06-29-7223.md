@@ -1,5 +1,3 @@
-###DEC-007223-0-000-29-06-2010@@@
-
 DECRETO Nº 7.223, DE 29 DE JUNHO DE 2010.
 
 Altera os arts. 19 e 169 do Regulamento da Previdência Social, aprovado pelo Decreto no 3.048, de 6 de maio de 1999, e o art. 3o do Decreto no 6.722, de 30 de dezembro de 2008

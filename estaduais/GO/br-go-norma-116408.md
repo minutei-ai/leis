@@ -6,7 +6,8 @@ Portaria Orçamentária nº 230/2026 - Economia
 
 Art. 1º Fica aberto ao GABINETE DO PROCURADOR GERAL DE JUSTIÇA, crédito suplementar no valor de R$ 1.500.000,00 (um milhão e quinhentos mil reais), para reforço de dotação consignada no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
 
-Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.<br>
+Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso III do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de anulação parcial de dotação orçamentária, de acordo com o Quadro 2 desta Portaria.
+
 \- [Vide Errata publicada no D.O. de 14-8-2026](https://diariooficial.abc.go.gov.br/portal/edicoes/download/7319).
 
 Art. 2º Esta portaria entra em vigor nesta data.
@@ -17,10 +18,12 @@ Goiânia, aos 02 dias do mês de Junho de 2026.
 
 HELENA MARIA ADORNO MACEDO
 
-QUADRO 1<br>
+QUADRO 1
+
 SUPLEMENTAÇÃO
 
-| **700 - MINISTÉRIO PÚBLICO**<br>
+| **700 - MINISTÉRIO PÚBLICO**
+
 **701 - GABINETE DO PROCURADOR GERAL DE JUSTICA** |
 | --- |
 | **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
@@ -29,13 +32,16 @@ SUPLEMENTAÇÃO
 
 TOTAL A SUPLEMENTAR POR FONTE: R$ 1.500.000,00
 
-<table><thead></thead><tbody><tr><td>15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style="text-align:right">R$ 1.500.000,00</td></tr></tbody></table>
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 1.500.000,00
 
 QUADRO 2
 
 REDUÇÃO
 
-| **700 - MINISTÉRIO PÚBLICO**<br>
+| **700 - MINISTÉRIO PÚBLICO**
+
 **701 - GABINETE DO PROCURADOR GERAL DE JUSTICA** |
 | --- |
 | **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
@@ -44,8 +50,12 @@ REDUÇÃO
 
 TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III: R$ 1.500.000,00
 
-<table><thead></thead><tbody><tr><td>15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style="text-align:right">R$ 1.500.000,00</td></tr></tbody></table>
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 1.500.000,00
 
 TOTAL POR FONTE: R$ 1.500.000,00
 
-<table><thead></thead><tbody><tr><td>15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style="text-align:right">R$ 1.500.000,00</td></tr></tbody></table>
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 1.500.000,00

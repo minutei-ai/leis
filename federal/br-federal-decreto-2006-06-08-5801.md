@@ -1,5 +1,3 @@
-###DEC-005801-0-000-08-06-2006@@@
-
 DECRETO Nº 5.801, DE 8 DE JUNHO DE 2006.
 
 Dispõe sobre a Escola de Altos Estudos, e dá outras providências.
@@ -49,5 +47,3 @@ Brasília, 8 de junho de 2006; 185º da Independência e 118º da República.
 LUIZ INÁCIO LULA DA SILVA
 
     Fernando Haddad
-
-Este texto não substitui o publicado no D.O.U. de 9.6.2006.

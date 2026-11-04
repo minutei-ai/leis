@@ -1,5 +1,3 @@
-###DEC-002683-0-000-21-07-1998@@@
-
 DECRETO Nº 2.683, DE 21 DE JULHO DE 1998
 
 Dispõe sobre o remanejamento, em caráter temporário, do cargo em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

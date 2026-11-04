@@ -1,5 +1,3 @@
-###DEC-056117-0-000-26-04-1965@@@
-
 Decreto nº 56.117, de 26 de abril de 1965.
 
 Autoriza a Cia. Desenvolvimento de Indústrias Minerais (CODIM) a pesquisar cassiterita e minérios de tântalo, no município de Nazareno, Estado de Minas Gerais.

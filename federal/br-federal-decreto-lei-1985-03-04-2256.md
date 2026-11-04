@@ -1,5 +1,3 @@
-###DEL-002256-0-000-04-03-1985@@@
-
 # Decreto-leI nº 2.256, de 04 de março de 1985
 
 Institui a Gratificação de Incentivo à Atividade Médico-Veterinária no Distrito Federal, e dá outras providências.

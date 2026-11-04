@@ -1,5 +1,3 @@
-###DEC-071680-0-000-08-01-1973@@@
-
 DECRETO Nº 71.680, DE 8 DE JANEIRO DE 1973.
 
 Concede à Mineração Geral do Nordeste S.A. o direito de lavrar argila no Município de Camaçari, Estado da Bahia.

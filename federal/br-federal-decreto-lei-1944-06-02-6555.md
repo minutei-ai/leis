@@ -1,5 +1,3 @@
-###DEL-006555-0-000-02-06-1944@@@
-
 DECRETO-LEI N. 6.555 – DE 2 DE JUNHO DE 1944
 
 Dispôe sôbre o pessoal do Instituto de Previdência e Assistência dos Servidores do Estado e dá outras Providência

@@ -1,5 +1,3 @@
-###DEC-072671-0-000-21-08-1973@@@
-
 DECRETO Nº 72.671, DE 21 DE AGOSTO DE 1973.
 
 Autoriza a encampação dos bens e instalações, vinculados à concessão do serviço público de energia elétrica no município de Frei Paulo, Estado de Sergipe.

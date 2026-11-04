@@ -1,5 +1,3 @@
-###DEC-071517-0-000-11-12-1972@@@
-
 DECRETO Nº 71.517 - de 11 de Dezembro de 1972
 
 Concede a Ibramar Mármore Limitada o direito de lavrar mármore e calcita no município de Cachoeiro do Itapemirim, Estado do Espírito Santo.

@@ -1,5 +1,3 @@
-###DEC-007722-0-000-20-04-2012-PUB-01@@@
-
 DECRETO N° 7.722, DE 20 DE ABRIL DE 2012
 
 Dispõe sobre a execução no Território Nacional das Resoluções n° 1540 (2004), e n° 1977 (2011), adotadas pelo Conselho de Segurança das Nações Unidas em 28 de abril de 2004 e em 20 de abril de 2011, as quais dispõem sobre o combate à proliferação de armas de destruição em massa e sobre a vigência do Comitê 1540.

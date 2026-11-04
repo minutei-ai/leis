@@ -10,7 +10,6 @@ coletado_em: "2026-10-22T15:14:42.000Z"
 sha256_fonte: "ee125fe160fb2335fb5d33f8d29d1ec225a755150269a21db76ce8ce003f4c81"
 sha256_markdown: "0a008d7fe29bdc7d4a79540352b36fb5d7c54b8c59d6ecc8b0661c11980fcc05"
 ---
-
 # LEI Nº 1.554, DE 19 DE DEZEMBRO DE 1994.
 
 ESTADO DE MATO GROSSO DO SUL
@@ -21,105 +20,104 @@ Acrescenta ao Anexo II, da Lei nº 1.464, de 21 de dezembro de 1993, que trata d
 
 Publicada no Diário Oficial nº 3.934, de 20 de dezembro de 1.994, página 3 e 4.
 
-**O Governador do Estado de Mato Grosso do Sul**, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Os quantitativos dos cargos previstos nos Quadros I, III, V e VII, do Anexo II, da [Lei nº 1.464, de 21 de dezembro de 1993](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/18b9463deb5d82da04256e450002ecc6?OpenDocument), passam a vigorar acrescidos dos cargos mencionados nos Quadros I a IV, dos Anexos I e II, desta Lei.<br>
-<br>
-Art. 2º Ficam extintos os cargos efetivos mencionados no Anexo III, desta Lei.<br>
-<br>
-Art. 3º Esta Lei entrará em vigor na data de sua publicação revogadas as disposições em contrário.<br>
-<br>
-Campo Grande, 19 de dezembro de 1994.<br>
-<br>
-PEDRO PEDROSSIAN<br>
-Governador<br>
+**O Governador do Estado de Mato Grosso do Sul**, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-<pre>       <b>ANEXO I                                                         </b>
-<b>   QUANTITATIVO DOS CARGOS CRIADOS                                     </b>
-<b>   GRUPO OCUPACIONAL - 1 - TCDS- 100                                   </b>
-<b>   DIREÇÃO SUPERIOR                                                    </b>
-<b>   QUADRO - 1 </b>-                                                                                                                             
- ------------------------------------------------------------------  
- SÍMBOLO        DENOMINAÇÃO DO CARGO              QUANTIDADE          
- ------------------------------------------------------------------  
- TCDS - 104     Chefe de Serviço                      01              
- ------------------------------------------------------------------  
-                                                                        <b>GRUPO OCUPACIONAL III                                               </b>
-<b>   ASSESSORAMENTO DIRETO - TCAD- 300                                   </b>
-<b>   QUADRO II </b>                                                                                                                               
- ------------------------------------------------------------------  
- SÍMBOLO      DENOMINAÇÃO DO CARGO                  QUANTIDADE       
- ------------------------------------------------------------------  
- TCAD- 301     Assistente Técnico de Informática         01          
-                                                                     
- TCAD-301      Secretário                                01          
-                                                                     
- TCAD-302      Secretário II                             01          
-                                                                     
- TCAD-303      Secretário III                            02          
-                                                                     
- TCAD-303      Assistente de Segurança                   03          
-                                                                     
- TCAD-305      Motorista Oficial                         05          
-                                                                     
- TCAD-306      Secretário VI                             04          
+Art. 1º Os quantitativos dos cargos previstos nos Quadros I, III, V e VII, do Anexo II, da [Lei nº 1.464, de 21 de dezembro de 1993](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/18b9463deb5d82da04256e450002ecc6?OpenDocument), passam a vigorar acrescidos dos cargos mencionados nos Quadros I a IV, dos Anexos I e II, desta Lei.
+
+Art. 2º Ficam extintos os cargos efetivos mencionados no Anexo III, desta Lei.
+
+Art. 3º Esta Lei entrará em vigor na data de sua publicação revogadas as disposições em contrário.
+
+Campo Grande, 19 de dezembro de 1994.
+
+PEDRO PEDROSSIAN
+
+Governador
+
+<pre>       **ANEXO I                                                         **
+**   QUANTITATIVO DOS CARGOS CRIADOS                                     **
+**   GRUPO OCUPACIONAL - 1 - TCDS- 100                                   **
+**   DIREÇÃO SUPERIOR                                                    **
+**   QUADRO - 1 **-
+ ------------------------------------------------------------------
+ SÍMBOLO        DENOMINAÇÃO DO CARGO              QUANTIDADE
+ ------------------------------------------------------------------
+ TCDS - 104     Chefe de Serviço                      01
+ ------------------------------------------------------------------
+                                                                        **GRUPO OCUPACIONAL III                                               **
+**   ASSESSORAMENTO DIRETO - TCAD- 300                                   **
+**   QUADRO II **
+ ------------------------------------------------------------------
+ SÍMBOLO      DENOMINAÇÃO DO CARGO                  QUANTIDADE
+ ------------------------------------------------------------------
+ TCAD- 301     Assistente Técnico de Informática         01
+
+ TCAD-301      Secretário                                01
+
+ TCAD-302      Secretário II                             01
+
+ TCAD-303      Secretário III                            02
+
+ TCAD-303      Assistente de Segurança                   03
+
+ TCAD-305      Motorista Oficial                         05
+
+ TCAD-306      Secretário VI                             04
  ------------------------------------------------------------------  </pre>
 
-<pre>                                                                       <b> ANEXO I                                                             </b>
-<b>   QUANTIFICAÇÃO DOS CARGOS CRIADOS                                    </b>
-<b>   GRUPO OCUPACIONAL - V - TCAC 500                                    </b>
-<b>   AUDITORIA E CONTROLE                                                </b>
-<b>   QUADRO III                                                          </b>
-                                                                      ------------------------------------------------------------------  
- CÓDIGO         DENOMINAÇÃO DO CARGO                  QUANTIDADE     
- ------------------------------------------------------------------  
- TCAC - 510      Auditor de Controle Externo               24        
- ------------------------------------------------------------------  
-                                                                     
-                                                                     
-<b>                              QUADRO IV                                                           </b>
-<b>                   GRUPO OCUPACIONAL VII - TCAD-700  </b>                                  
-                                                                     
- ------------------------------------------------------------------  
- CÓDIGO         DENOMINAÇÃO DO CARGO                  QUANTIDADE     
- ------------------------------------------------------------------  
- TCAD - 720     Técnico de Reprodução                      01        
+<pre>                                                                       ** ANEXO I                                                             **
+**   QUANTIFICAÇÃO DOS CARGOS CRIADOS                                    **
+**   GRUPO OCUPACIONAL - V - TCAC 500                                    **
+**   AUDITORIA E CONTROLE                                                **
+**   QUADRO III                                                          **
+                                                                      ------------------------------------------------------------------
+ CÓDIGO         DENOMINAÇÃO DO CARGO                  QUANTIDADE
+ ------------------------------------------------------------------
+ TCAC - 510      Auditor de Controle Externo               24
+ ------------------------------------------------------------------
+
+**                              QUADRO IV                                                           **
+**                   GRUPO OCUPACIONAL VII - TCAD-700  **
+
+ ------------------------------------------------------------------
+ CÓDIGO         DENOMINAÇÃO DO CARGO                  QUANTIDADE
+ ------------------------------------------------------------------
+ TCAD - 720     Técnico de Reprodução                      01
  ------------------------------------------------------------------  </pre>
 
-<pre>                                                                        <b>ANEXO II                                                            </b>
-<b>   PLANO DE CARGOS                                                     </b>
-<b>   QUANTITATIVO DE CARGOS CRIADOS                                      </b>
-<b>   GRUPO: AUDITORIA E CONTROLE - TCAC-500                              </b>
-<b>   POR ESPECIALIZAÇÃO                </b>                                                                                                       
- ------------------------------------------------------------------  
- CÓDIGO        CATEGORIA                                             
-               FUNCIONAL      ESPECIALIZAÇÃO         QUANTIDADE      
- ------------------------------------------------------------------  
-               AUDITOR DE    - Ciências Jurídicas         08         
- TCAC-510      CONTROLE      - Ciências Administrativas   01         
-               EXTERNO       - Ciências Contábeis         15         
+<pre>                                                                        **ANEXO II                                                            **
+**   PLANO DE CARGOS                                                     **
+**   QUANTITATIVO DE CARGOS CRIADOS                                      **
+**   GRUPO: AUDITORIA E CONTROLE - TCAC-500                              **
+**   POR ESPECIALIZAÇÃO                **
+ ------------------------------------------------------------------
+ CÓDIGO        CATEGORIA
+               FUNCIONAL      ESPECIALIZAÇÃO         QUANTIDADE
+ ------------------------------------------------------------------
+               AUDITOR DE    - Ciências Jurídicas         08
+ TCAC-510      CONTROLE      - Ciências Administrativas   01
+               EXTERNO       - Ciências Contábeis         15
  ------------------------------------------------------------------  </pre>
 
-<pre>                                                                      <b>  ANEXO III                                                           </b>
-<b>   CARGOS EXTINTOS                                                                                                                   </b>
-<b>   GRUPO VII - TCAC-600 - APOIO OFERACIONAL E ADMINISTRATIVO     </b>                                                                          
- ------------------------------------------------------------------  
- CÓDIGO         DENOMINAÇÃO DO CARGO EFETIVO          QUANTIDADE     
- ------------------------------------------------------------------  
- TCAD-610       Assistente de Apoio Técnico               14         
- ------------------------------------------------------------------  
-                                                                     
-                                                                     
- <b>          GRUPO VIII - TCSA-800 - SERVIÇOS AUXILIARES  </b>                       
-                                                                     
- ------------------------------------------------------------------  
- CÓDIGO         DENOMINAÇÃO DO CARGO EFETIVO          QUANTIDADE     
- ------------------------------------------------------------------  
- TCSA-810       Auxiliar de Apoio                         06         
-                                                                     
- TCSA-820       Agente de Serviços Gerais                 03         
-                                                                     
- TCSA-830       Motorista                                 07         
+<pre>                                                                      **  ANEXO III                                                           **
+**   CARGOS EXTINTOS                                                                                                                   **
+**   GRUPO VII - TCAC-600 - APOIO OFERACIONAL E ADMINISTRATIVO     **
+ ------------------------------------------------------------------
+ CÓDIGO         DENOMINAÇÃO DO CARGO EFETIVO          QUANTIDADE
+ ------------------------------------------------------------------
+ TCAD-610       Assistente de Apoio Técnico               14
+ ------------------------------------------------------------------
+
+ **          GRUPO VIII - TCSA-800 - SERVIÇOS AUXILIARES  **
+
+ ------------------------------------------------------------------
+ CÓDIGO         DENOMINAÇÃO DO CARGO EFETIVO          QUANTIDADE
+ ------------------------------------------------------------------
+ TCSA-810       Auxiliar de Apoio                         06
+
+ TCSA-820       Agente de Serviços Gerais                 03
+
+ TCSA-830       Motorista                                 07
  ------------------------------------------------------------------  </pre>
 
 **Conferência da versão do texto.** O texto acima (Consultoria Legislativa) não traz marcas de compilação posterior (sem trechos riscados, redação nova em itálico ou notas de alteração). Os rótulos e a sequência dos anexos, inclusive o segundo “ANEXO I” impresso no original, coincidem com os impressos; o conteúdo dos artigos foi comparado apenas por OCR (cobertura lexical de cerca de 0,91), sem leitura integral. Em caso de diferença entre o texto acima e as imagens, valem as imagens. Não foi feita conferência célula a célula dos anexos nem transcrição das imagens.

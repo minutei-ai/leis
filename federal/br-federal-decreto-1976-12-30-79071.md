@@ -1,5 +1,3 @@
-###DEC-079071-0-000-30-12-1976@@@
-
 DECRETO Nº 79.071, DE 30 DE DEZEMBRO DE 1976.
 
 Autoriza o funcionamento do curso de Terapia Ocupacional, da Faculdade de Reabilitação, da Associação de solidariedade à Criança Excepcional, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

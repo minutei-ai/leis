@@ -1,5 +1,3 @@
-###DEC-047646-0-000-15-01-1960@@@
-
 DECRETO Nº 47.646, DE 15 DE JANEIRO DE 1960.
 
 Autoriza o cidadão brasileiro Manuel Joaquim de Azevedo a pesquisar minério de manganês no município da Jacaraci, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-047197-0-000-06-11-1959@@@
-
 DECRETO Nº 47.197, DE 6 DE NOVEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro George Goro Kuroiwa a lavrar argila no município de são Bernardo do Campo, Estado de São Paulo.

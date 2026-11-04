@@ -1,32 +1,30 @@
-###DEC-036503-0-000-26-11-1954@@@
+**DECRETO Nº 36.503, DE 26 DE NOVEMBRO DE 1954.**
 
-<strong>DECRETO Nº 36.503, DE 26 DE NOVEMBRO DE 1954.</strong>
+***Aprova o Regimento dos Cursos do Departamento Nacional de Saúde.***
 
-<em><strong>Aprova o Regimento dos Cursos do Departamento Nacional de Saúde.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Ar**t. 1º Fica aprovado o Regimento dos Cursos do Departamento Nacional de Saúde, que êste baixa, assinado pelo Ministro da Saúde.
 
-<strong>Ar</strong>t. 1º Fica aprovado o Regimento dos Cursos do Departamento Nacional de Saúde, que êste baixa, assinado pelo Ministro da Saúde.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 26 de novembro de 1954; 133º da Independência e 66º República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Aramis Athayde
 
-<strong>REGIMENTO DOS CURSOS DO DEPARTAMENTO NACIONAL DE SAÚDE</strong>
+**REGIMENTO DOS CURSOS DO DEPARTAMENTO NACIONAL DE SAÚDE**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong> 1º Os Cursos do Departamento Nacional de Saúde (C.D.N.S.), órgão integrante do D.N.S., tem por finalidade preparar, aperfeiçoar e especializar, na forma da legislação em vigor, os servidores do referido Departamento e de outras repartições sanitárias, públicas ou particulares, bem como formar pessoal habilitado para as diversas atividades e funções dos serviços de higiene e saúde pública, cabendo-lhes para isso promover:
+**Art** 1º Os Cursos do Departamento Nacional de Saúde (C.D.N.S.), órgão integrante do D.N.S., tem por finalidade preparar, aperfeiçoar e especializar, na forma da legislação em vigor, os servidores do referido Departamento e de outras repartições sanitárias, públicas ou particulares, bem como formar pessoal habilitado para as diversas atividades e funções dos serviços de higiene e saúde pública, cabendo-lhes para isso promover:
 
 I - Cursos de Saúde Pública (C.S.P.).
 
@@ -34,11 +32,11 @@ II - Cursos de Aperfeiçoamento e Especialização (C.A..E).
 
 III - Cursos para Auxiliares de Saúde Pública (C.A.S.P.).
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º Os C.D.N.S. compreendem:
+**Art**. 2º Os C.D.N.S. compreendem:
 
 I - Seção de Ensino (S.E).
 
@@ -46,17 +44,17 @@ II - Seção de Administração (S.A.)
 
 Parágrafo único . A.S.E. terá uma Biblioteca (B), com um chefe.
 
-<strong>Art</strong>. 3º A.S. E e a S.A terão chefes designados pelo Diretor dos Cursos, dentre os servidores do Ministério da Saúde, mediante prévia aprovação do Diretor Geral do D.N.S., devendo a escolha do chefe da S.E. reciar, obrigatoriamente, num médico sanitarista.
+**Art**. 3º A.S. E e a S.A terão chefes designados pelo Diretor dos Cursos, dentre os servidores do Ministério da Saúde, mediante prévia aprovação do Diretor Geral do D.N.S., devendo a escolha do chefe da S.E. reciar, obrigatoriamente, num médico sanitarista.
 
-<strong>Art</strong>. 4º O Diretor dos Cursos terá um Secretário, escolhido dentre os servidores do Ministério da Saúde.
+**Art**. 4º O Diretor dos Cursos terá um Secretário, escolhido dentre os servidores do Ministério da Saúde.
 
-<strong>Art</strong>. 5º Os setores que integram os C.D.N.S., funcionarão perfeitamente articulados, em regime de mútua colaboração, scob a orientação do Diretor dos Cursos.
+**Art**. 5º Os setores que integram os C.D.N.S., funcionarão perfeitamente articulados, em regime de mútua colaboração, scob a orientação do Diretor dos Cursos.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Competência</em>
+*Da Competência*
 
-<strong>Art</strong>. 6º A.S.E. compete:
+**Art**. 6º A.S.E. compete:
 
 I - organizar, preparar, acompanhar e coordenar os Cursos do DNS.
 
@@ -68,13 +66,13 @@ IV - realizar investigações e análises dos cursos em realização e das neces
 
 V - manter contatos e estabelecer cooperação com os órgãos do D.N.S., demais órgãos do serviço público e instituições particulares, visando a organização de estágios períodos de treinamento e visitas dos alunos dos cursos.
 
-A<strong>r</strong>t. 7º A.S.A, compete:
+A**r**t. 7º A.S.A, compete:
 
 I - promover medidas preliminares necessárias à administração de pessoal material orçamento e comunicações, a cargo do Serviço de Administração do D.N.S., com qual deverá funcionar perfeitamente articulada, observando as normas e métodos de trabalho prescritos pelo mesmo.
 
 II - promover as medidas de ordem administrativa referente à organização e funcionamento dos cursos, estágios e visitas dos alunos.
 
-<strong>Art</strong>. 8º A.B compete:
+**Art**. 8º A.B compete:
 
 I - providenciar a aquisição de livros e publicações, de acôrdo com o plano aprovado pelo Diretor dos Cursos;
 
@@ -88,11 +86,11 @@ V - cooperar com as demais bibliotecas do Serviço Público Federal;
 
 VI - organizar e manter atualizada uma relação das instituições científicas nacionais e estrangeiras, para o fim da remessa e permuta de publicações de interêsse do D.N.S.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das Atribuições do Pessoal</em>
+*Das Atribuições do Pessoal*
 
-<strong>Art</strong>. 9º Ao Diretor compete orientar, coordenar e fiscalizar as atividades dos C.D.N.S., devendo:
+**Art**. 9º Ao Diretor compete orientar, coordenar e fiscalizar as atividades dos C.D.N.S., devendo:
 
 I - despachar pessoalmente com o Diretor-Geral do D.N.S.,
 
@@ -124,7 +122,7 @@ XIV - comparecer às reuniões convocadas pelo Diretor-Geral do D.N.S.;
 
 XV - manter estreita colaboração com os demais órgãos do D.N.S.
 
-<strong>Art</strong>. 10. Ao Chefe da S. E incube:
+**Art**. 10. Ao Chefe da S. E incube:
 
 I - dirigir, coordenar e fiscalizar a execução das atividades técnicas relacionadas com os cursos, bem como as atividades da biblioteca;
 
@@ -144,7 +142,7 @@ VIII - organizar e submeter a aprovação do Diretor a escala de férias dos ser
 
 IX - apresentar ao Diretor, mensalmente um boletim dos trabalhos realizados, e, anualmente, um relatório circunstanciado das atividades da S.E.
 
-<strong>Art</strong>. 11 - Ao Chefe da S.A incube:
+**Art**. 11 - Ao Chefe da S.A incube:
 
 I - dirigir coordenar e fiscalizar os trabalhos da S.A;
 
@@ -158,7 +156,7 @@ V - organizar e submeter à aprovação do Diretor a escala de férias do pessoa
 
 VI - apresentar ao Diretor, mensalmente, um boletim dos trabalhos realizados e, anualmente, um relatório circunstanciado dos trabalhos executados pela S.A.
 
-<strong>Art</strong>. 12 - Ao Secretário incumbe:
+**Art**. 12 - Ao Secretário incumbe:
 
 I - atender as pessoas que desejarem comunicar-se como o Diretor dos Cursos, encaminhando-as ou dando a êste conhecimento do assunto a tratar;
 
@@ -168,40 +166,40 @@ III - redigir a correspondência pessoal do Diretor dos Cursos;
 
 IV - encarregar-se de outras tarefas que lhe sejam cometidas pelo Diretor.
 
-<strong>Art</strong>. 13 - Aos servidores que não têm atribuições especificadas neste Regimento, cabe cumprir as ordens emanadas dos superiores a que estiverem diretamente subordinados.
+**Art**. 13 - Aos servidores que não têm atribuições especificadas neste Regimento, cabe cumprir as ordens emanadas dos superiores a que estiverem diretamente subordinados.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da lotação</em>
+*Da lotação*
 
-<strong>Art</strong>. 14 - Os C.D.N.S. terão a lotação que fôr aprovada por decreto.
+**Art**. 14 - Os C.D.N.S. terão a lotação que fôr aprovada por decreto.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do horário</em>
+*Do horário*
 
-<strong>Art</strong>. 15 - O período de trabalho do  C.D.N.S. será no mínimo de 33 (trinta e três) horas semanais.
+**Art**. 15 - O período de trabalho do  C.D.N.S. será no mínimo de 33 (trinta e três) horas semanais.
 
-<strong>Art</strong>. 16 - O horário do pessoal designado para serviço externo será estabelecido de acôrdo com as exigências dos trabalhos, observado o mínimo de 33 (trinta e três) horas semanais, sendo a freqüência apurada por meio de boletins diários de produção, examinados pelo Diretor.
+**Art**. 16 - O horário do pessoal designado para serviço externo será estabelecido de acôrdo com as exigências dos trabalhos, observado o mínimo de 33 (trinta e três) horas semanais, sendo a freqüência apurada por meio de boletins diários de produção, examinados pelo Diretor.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Das substituições</em>
+*Das substituições*
 
-<strong>Art</strong>. 17 - Serão automàticamente substituídos em suas faltas e impedimentos eventuais:
+**Art**. 17 - Serão automàticamente substituídos em suas faltas e impedimentos eventuais:
 
 I - O Diretor dos C.D.N.S. pelo chefe da S.E.;
 
 II - Os Chefes da Seção e Biblioteca pelos servidores pràeviamente designados pelo Diretor.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Disposições gerais</em>
+*Disposições gerais*
 
-<strong>Art</strong>. 18 - Só poderão ser publicados com a responsabilidade e nome dos C.D.N.S. os trabalhos autorizados apelo diretor.
+**Art**. 18 - Só poderão ser publicados com a responsabilidade e nome dos C.D.N.S. os trabalhos autorizados apelo diretor.
 
-<strong>Art</strong>. 19 - Os casos omissos deste Regimento serão resolvidos pelo Diretor-Geral do D.N.S., mediante proposta do Diretor dos C.D.N.S.
+**Art**. 19 - Os casos omissos deste Regimento serão resolvidos pelo Diretor-Geral do D.N.S., mediante proposta do Diretor dos C.D.N.S.
 
 Rio de Janeiro, em 26 de novembro de 1954.
 
-<strong>ARAMIS ATHAYDE</strong>
+**ARAMIS ATHAYDE**

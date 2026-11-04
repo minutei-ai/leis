@@ -1,5 +1,3 @@
-###DEC-003669-0-000-23-11-2000@@@
-
 decreto nº 3.669, de 23 de novembro de 2000.
 
 Delega competência ao Ministro de Estado da Educação para a prática dos atos que menciona.

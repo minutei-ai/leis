@@ -1,5 +1,3 @@
-###DEC-076618-0-000-17-11-1975@@@
-
 DECRETO Nº 76.618, DE 17 DE NOVEMBRO DE 1975.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da Centrais Elétricas de Santa Catarina - CELESC, no Estado de Santa Catarina.

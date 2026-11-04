@@ -1,5 +1,3 @@
-###DEC-060072-0-000-16-01-1967@@@
-
 decreto nº 60.072, de 16 de janeiro de 1967.
 
 Declara de utilidade pública, para fins de desapropriação pela Universidade Federal de Santa Maria, no Estado do Rio Grande do Sul, imóveis destinados à abertura de uma avenida de acesso à Universidade e à construção do setor residencial.

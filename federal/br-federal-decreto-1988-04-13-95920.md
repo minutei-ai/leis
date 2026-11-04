@@ -1,5 +1,3 @@
-###DEC-095920-0-000-13-04-1988@@@
-
 DECRETO N° 95.920, DE 13 DE ABRIL DE 1988
 
 Renova a concessão outorgada à RÁDIO TÉCNICA ATIBAIA LTDA. para explorar serviço de radiodifusão sonora em onda média, na cidade de Atibaia, Estado de São Paulo.

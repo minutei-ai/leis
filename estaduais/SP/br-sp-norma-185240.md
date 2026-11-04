@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185240)
-
 # DECRETO Nº 63.210, DE 16 DE FEVEREIRO DE 2018
 
 ### _Autoriza a Secretaria da Educação a adotar providências necessárias à renúncia do crédito que especifica_
@@ -14,12 +12,20 @@ Decreta:
 
 **Artigo 2º -** Este decreto entra em vigor na data de sua publicação.
 
-Palácio dos Bandeirantes, 16 de fevereiro de 2018<br>
-GERALDO ALCKMIN<br>
-José Renato Nalini<br>
-Secretário da Educação<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Palácio dos Bandeirantes, 16 de fevereiro de 2018
+
+GERALDO ALCKMIN
+
+José Renato Nalini
+
+Secretário da Educação
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 16 de fevereiro de 2018.

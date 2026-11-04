@@ -1,5 +1,3 @@
-###DEC-094801-0-000-25-08-1987@@@
-
 DECRETO N° 94.801, DE 25 DE AGOSTO DE 1987
 
 Altera o Estatuto da Companhia de Pesquisa de Recursos Minerais - CPRM.

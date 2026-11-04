@@ -1,5 +1,3 @@
-###DEC-076260-0-000-12-09-1975@@@
-
 Decreto Nº 76.260 - DE 12 DE SETEMBRO DE 1975
 
 Concede à Oxford S.A. Indústria e Comércio - OSAICO o direito de lavrar argila no Município de Pién, Estado do Paraná.

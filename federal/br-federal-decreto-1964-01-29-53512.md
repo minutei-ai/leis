@@ -1,5 +1,3 @@
-###DEC-053512-0-000-29-01-1964@@@
-
 DECRETO nº 53.512, de 29 de Janeiro de 1964.
 
 Modifica a jurisdição sôbre a Embaixada em Bamaco e dá outras providências.

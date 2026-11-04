@@ -1,5 +1,3 @@
-###DEC-000024-0-000-04-02-1991@@@
-
 DECRETO Nº 24, DE 4 DE FEVEREIRO DE 1991
 
 Dispõe sobre as ações visando a proteção do meio ambiente em terras indígenas.
@@ -41,8 +39,6 @@ FERNANDO COLLOR
 Jarbas Passarinho
 
 # republicação
-
-###DEC-000024-0-000-04-02-1991@@@REP01+++
 
 (\*) DECRETO Nº 24, DE 4 DE FEVEREIRO DE 1991
 

@@ -1,5 +1,3 @@
-###DEC-048587-0-000-22-07-1960@@@
-
 DECRETO N. 48.587 – DE 22 DE JULHO DE 1960
 
 Autoriza a cidadã brasileira Luiza Eulálio de Souza a pesquisar diamante, no município de Diamantina, Estado de Minas Gerais.

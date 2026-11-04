@@ -1,5 +1,3 @@
-###DEC-086397-0-000-25-09-1981@@@
-
 Decreto nº 86.397, de 25 de setembro de 1981
 
 Cassa a concessão outorgada à SOCIEDADE RÁDIO MARABÁ LTDA., para estabelecer, na cidade de Marabá, Estado do Pará, uma estação de radiodifusão sonora em onda média de âmbito regional.

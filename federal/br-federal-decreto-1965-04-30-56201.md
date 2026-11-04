@@ -1,5 +1,3 @@
-###DEC-056201-0-000-30-04-1965@@@
-
 DECRETO Nº 56.201, DE 30 DE ABRIL DE 1965.
 
 Abre, pelo Ministério da Fazenda, os créditos especiais autorizados pela Lei nº 4.430, de 20 de outubro de 1964, para os fins que especifica.

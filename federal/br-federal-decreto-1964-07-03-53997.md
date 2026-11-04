@@ -1,5 +1,3 @@
-###DEC-053997-0-000-03-07-1964@@@
-
 decreto nº 53.997, de 3 de julho de 1964.
 
 Extingue o Grupo Executivo da Industria Naval e dá outras providências.

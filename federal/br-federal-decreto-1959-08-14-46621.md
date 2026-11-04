@@ -1,5 +1,3 @@
-###DEC-046621-0-000-14-08-1959@@@
-
 DECRETO Nº 46.621, DE 14 DE AGÔSTO DE 1959.
 
 Autoriza a Companhia Paulista de Força e Luz a construir uma linha de transmissão entre um ponto da linha Jaú-Usina de Lençóis e a cidade de Botucatu, Estado de São Paulo.

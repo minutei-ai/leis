@@ -1,5 +1,3 @@
-###DEL-003095-0-000-06-03-1941@@@
-
 DECRETO-LEI N. 3.095 – DE 6 DE MARÇO DE 1941
 
 Distribue ao Banco do Brasil à disposição do Ministro do Trabalho, Indústria e Comércio o crédito especial aberto pelo decreto-lei n. 2.953, de 16-1-941

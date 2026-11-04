@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209732)<br>
-
 # LEI N° 17.988, DE 22 DE JULHO DE 2024
 
 ### _Altera a Lei n° 12.799, de 11 de janeiro de 2008, que dispõe sobre o Cadastro Informativo dos Créditos Não Quitados de órgãos e entidades estaduais - CADIN ESTADUAL, e dá outras providências._

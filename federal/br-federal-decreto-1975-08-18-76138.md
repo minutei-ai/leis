@@ -1,5 +1,3 @@
-###DEC-076138-0-000-18-08-1975@@@
-
 DECRETO Nº 76.138 - DE 18 DE AGOSTO DE 1975
 
 Fixa o fator de reajustamento salarial relativo a agosto de 1975.

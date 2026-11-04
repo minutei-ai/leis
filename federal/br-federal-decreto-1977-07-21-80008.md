@@ -1,5 +1,3 @@
-###DEC-080008-0-000-21-07-1977@@@
-
 DECRETO Nº 80.008, DE 21 DE JULHO DE 1977
 
 Concede à Companhia de Cimento Atol o direito de lavrar calcário no Município de São Miguel dos Campos, Estado de Alagoas.

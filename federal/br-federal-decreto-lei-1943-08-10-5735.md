@@ -1,5 +1,3 @@
-###DEL-005735-0-000-10-08-1943@@@
-
 DECRETO‑LEI N. 5.735 – DE 10 DE AGÔSTO DE 1943
 
 Abre, ao Ministério da Viação e Obras Públicas, o crédito de Cr$ 48.000,00 (quarenta e oito mil cruzeiros), suplementar à Verba que indica

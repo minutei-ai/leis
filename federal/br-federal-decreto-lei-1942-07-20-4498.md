@@ -1,5 +1,3 @@
-###DEL-004498-0-000-20-07-1942@@@
-
 DECRETO-LEI N. 4.498 – DE 20 DE JULHO DE 1942
 
 Abre, pelo Ministério da Educação e Saude, o crédito suplementar de réis 6:000$0, à verba que especifica

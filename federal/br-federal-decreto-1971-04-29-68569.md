@@ -1,5 +1,3 @@
-###DEC-068569-0-000-29-04-1971@@@
-
 DECRETO Nº 68.569 - DE 29 DE ABRIL DE 1971.
 
 Reduz as alíquotas do Impôsto Único sôbre Lubrificantes e Combustíveis Líquidos e Gasosos.

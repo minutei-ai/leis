@@ -1,7 +1,3 @@
-1
-
-###DEC-099113-0-000-09-03-1990@@@
-
 # DECRETO Nº 99.113, DE 9 DE MARÇO DE 1990
 
 Cria, no Estado do Amazonas, a Floresta Nacional Taracuá II com os limites que especifica, e dá outras providências.

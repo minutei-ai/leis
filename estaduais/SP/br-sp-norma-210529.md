@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210529)<br>
-
 # DECRETO N° 69.303, DE 09 DE JANEIRO DE 2025
 
 ### _Altera o Decreto n° 62.625, de 12 de junho de 2017, que autoriza a Fazenda do Estado a permitir o uso de bem imóvel nas condições e para os fins que especifica._

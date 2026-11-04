@@ -1,5 +1,3 @@
-###DEL-000617-0-000-10-06-1969@@@
-
 Decreto-lei nº 617, de 10 de Junho de 1969
 
 Aprova a aposentadoria de Minervino Fiuza Lima, no cargo de Ministro do Tribunal Superior do Trabalho, cujo registro foi negado pelo Tribunal de Contas.

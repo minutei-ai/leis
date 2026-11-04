@@ -1,5 +1,3 @@
-###DEC-007576-0-000-11-10-2011-PUB-01@@@
-
 DECRETO Nº 7.576, DE 11 OUTUBRO DE 2011.
 
 Discrimina ações do Programa de Aceleração do Crescimento - PAC a serem executadas por meio de transferência obrigatória.

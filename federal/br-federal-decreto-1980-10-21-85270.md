@@ -1,5 +1,3 @@
-###DEC-085270-0-000-21-10-1980@@@
-
 Decreto nº 85.270, de 21 de outubro de 1980.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República Portuguesa sobre Transporte e Navegação Marítima.
@@ -156,4 +154,20 @@ ARTIGO XV
 
 Feito em Brasília, aos 23 dias do mês de maio de 1978, em dois originais, os dois textos fazendo igualmente fé.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA PORTUGUESA:</span></p></td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Antonio F. Azeredo da Silveira</span></p></td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Victor Sá Machado</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:
+
+</td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA PORTUGUESA:
+
+</td></tr><tr><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Antonio F. Azeredo da Silveira
+
+</td><td style="width:212.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Victor Sá Machado
+
+</td></tr></tbody></table>

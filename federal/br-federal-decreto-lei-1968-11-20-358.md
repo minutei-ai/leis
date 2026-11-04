@@ -1,5 +1,3 @@
-###DEL-000358-0-000-20-11-1968@@@
-
 DECRETO-LEI nº 358, DE 20 DE NOVEMbRo DE 1968
 
 Autoriza a realização de operações de crédito adicionais, para obtenção do equilíbrio orçamentário da União.

@@ -6,18 +6,20 @@ Declara de Utilidade Pública Estadual a Associação dos Produtores do Assentam
 
 Publicada no Diário Oficial nº 9.675, de 14 de junho de 2018, página 1.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica declarada de Utilidade Pública Estadual a <i>Associação dos Produtores do Assentamento Sumatra</i>, com sede e foro no Município de Bodoquena-MS.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica declarada de Utilidade Pública Estadual a *Associação dos Produtores do Assentamento Sumatra*, com sede e foro no Município de Bodoquena-MS.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 12 de junho de 2018.
 
-<br>
-REINALDO AZAMBUJA SILVA<br>
-Governador do Estado<br>
-<br>
-ELISA CLEIA PINHEIRO RODRIGUES NOBRE<br>
+REINALDO AZAMBUJA SILVA
+
+Governador do Estado
+
+ELISA CLEIA PINHEIRO RODRIGUES NOBRE
+
 Secretária de Estado de Direitos Humanos, Assistência Social e Trabalho

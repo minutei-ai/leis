@@ -1,5 +1,3 @@
-###DEC-090589-0-000-29-11-1984@@@
-
 Decreto nº 90.589, de 29 de novembro de 1984
 
 Autoriza o funcionamento do curso de Geografia da Autarquia Universidade do Sudoeste - BA.

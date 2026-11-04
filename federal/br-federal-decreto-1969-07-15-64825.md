@@ -1,5 +1,3 @@
-###DEC-064825-0-000-15-07-1969@@@
-
 DECRETO Nº 64.825 - DE 15 DE JULHO DE 1969.
 
 Institui, sob a forma de fundação, a Universidade Federal de Viçosa e dispõe sôbre sua constituição.

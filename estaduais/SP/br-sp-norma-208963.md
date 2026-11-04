@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208963)<br>
-
 # DECRETO N° 68.214, DE 15 DE DEZEMBRO DE 2023
 
 ### _Altera o Decreto de 1° de dezembro de 1970, que Institui e Regulamenta a Concessão da "Medalha do Mérito Turístico"._

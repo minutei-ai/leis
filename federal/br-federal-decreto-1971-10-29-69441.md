@@ -1,5 +1,3 @@
-###DEC-069441-0-000-29-10-1971@@@
-
 decreto nº 69.441 - de 29 de outubro de 1971
 
 Extingue a Comissão de Construção Naval da Marinha, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-087047-0-000-23-03-1982@@@
-
 DECRETO Nº 87.047, DE 23 DE MARçO DE 1982
 
 Altera os artigos 139 e 148 do Regulamento do Código Nacional de Trânsito, aprovado pelo Decreto nº 62.127, de 16 de janeiro de 1968, com a redação dada pelo Decreto nº 84.513, de 27 de fevereiro de 1980.

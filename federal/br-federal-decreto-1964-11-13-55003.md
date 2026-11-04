@@ -1,5 +1,3 @@
-###DEC-055003-0-000-13-11-1964@@@
-
 DECRETO Nº 55.003, de 13 de novembro de 1964.
 
 Dispõe sôbre normas destinadas a disciplinar o ingresso em cargos públicos e a nomeação de candidatos habilitados em concurso, e dá outras providências.

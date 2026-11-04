@@ -1,7 +1,3 @@
-1
-
-###DEC-097683-0-000-20-04-1989@@@
-
 DECRETO Nº 97.683, DE 20 DE ABRIL DE 1989
 
 Autoriza a alienação das emissoras de rádio que menciona e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-004465-0-000-13-11-2002@@@
-
 DECRETO Nº 4.465, DE 13 DE NOVEMBRO DE 2002
 
 Dispõe sobre a organização administrativa da Fundação Universidade Federal do Vale do São Francisco, e dá outras providências.

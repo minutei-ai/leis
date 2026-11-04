@@ -1,5 +1,3 @@
-###DEC-058082-0-000-25-03-1966@@@
-
 decreto nº 58.082, de 25 de março de 1966.
 
 Altera disposições do Decreto nº 56.793, de 27 de agôsto de 1965.
@@ -39,8 +37,6 @@ Octávio Bulhões
 Walter Peracchi Barcellos
 
 Roberto Campos
-
-###DEC-058082-0-000-25-03-1966@@@RET01+++
 
 DECRETO Nº 58.082, DE 25 DE MARÇO DE 1966.
 

@@ -1,5 +1,3 @@
-###DEC-089578-0-000-24-04-1984@@@
-
 Decreto nº 89.578, dE 24 de abril de 1984
 
 Homologa a demarcação da Reserva Indígena, que menciona, no Estado de Mato Grosso do Sul.

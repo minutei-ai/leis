@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211036)<br>
-
 # DECRETO N° 69.600, DE 09 DE JUNHO DE 2025
 
 ### _Cria a Faculdade de Tecnologia - FATEC de Atibaia, no Município de Atibaia, como Unidade de Ensino Tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEC-003436-0-000-25-04-2000@@@
-
 DECRETO Nº 3.436, DE 25 DE ABRIL DE 2000.
 
 Promulga o Protocolo II sobre Proibições ou Restrições ao Emprego de Minas, Armadilhas e outros Artefatos, emendado em 3 de maio de 1996 e anexado à Convenção sobre Proibições ou Restrições ao Emprego de Certas Armas Convencionais que podem ser Consideradas Excessivamente Lesivas ou Geradoras de Efeitos Indiscriminados.

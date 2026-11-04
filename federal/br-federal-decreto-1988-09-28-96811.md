@@ -1,5 +1,3 @@
-###DEC-096811-0-000-28-09-1988@@@
-
 DECRETO N° 96.811, DE 28 DE SETEMBRO DE 1988
 
 Outorga concessão à TELEVISÃO NOVOS TEMPOS LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Natal, Estado do Rio Grande do Norte.

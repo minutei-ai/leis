@@ -1,5 +1,3 @@
-###DEC-072863-0-000-28-09-1973@@@
-
 DECRETO Nº 72.863, DE 28 DE SETEMBRO DE 1973.
 
 Autoriza o Ministério da Fazenda a contratar operação externa e dá outras providências.

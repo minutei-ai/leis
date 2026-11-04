@@ -1,5 +1,3 @@
-###DEC-083738-0-000-18-07-1979@@@
-
 Decreto nº 83.738, de 18 de julho de 1979.
 
 Concede à Companhia Níquel Tocantins o direito de lavrar minérios de cobalto, cobre e níquel no Município de Niquelândia, Estado de Goiás.

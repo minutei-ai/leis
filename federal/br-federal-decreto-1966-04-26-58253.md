@@ -1,5 +1,3 @@
-###DEC-058253-0-000-26-04-1966@@@
-
 DECRETO Nº 58.253, DE 26 DE ABRIL DE 1966.
 
 Concede à The Tokio Marine And Fire Insurance Company Limited, autorização para aumentar o capital destinado às suas operações de Seguros no Brasil.

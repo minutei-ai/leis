@@ -1,5 +1,3 @@
-###DEL-004819-0-000-08-10-1942@@@
-
 DECRETO-LEI N. 4.819 – DE 8 DE OUTUBRO DE 1942
 
 Regula a situação dos militares que se invalidarem e concede pensão aos herdeiros dos que falecerem ou venham a falecer vítimas de naufrágio, acidente ou quaisquer atos de agressão causados pelo inimigo

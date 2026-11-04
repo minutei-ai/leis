@@ -1,5 +1,3 @@
-###DEC-080267-0-000-31-08-1977@@@
-
 DECRETO Nº 80.267, DE 31 de agosto DE 1977.
 
 Autoriza o Banco Nacional do Desenvolvimento Econômico a garantir, em nome da União Federal, empréstimos a serem contraídos no exterior, pela LIGHT - Serviços de Eletricidade S.A., nas condições que menciona.

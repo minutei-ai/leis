@@ -1,5 +1,3 @@
-###DEC-074586-0-000-23-09-1974@@@
-
 DECRETO Nº 74.586, DE 23 DE SETEMBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Ribeirão Preto Ltda., atual Rádio Ribeirão Preto S.A., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Ribeirão Preto, Estado de São Paulo.

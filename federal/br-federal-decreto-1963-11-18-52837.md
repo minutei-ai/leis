@@ -1,5 +1,3 @@
-###DEC-052837-0-000-18-11-1963@@@
-
 DECRETO Nº 52.837, DE 18 DE NOVEMBRO DE 1963.
 
 Autoriza a Centrais Elétricas de Minas Gerais S.A., a construir linhas de transmissão.

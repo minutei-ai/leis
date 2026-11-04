@@ -1,5 +1,3 @@
-###DEC-084649-0-000-23-04-1980@@@
-
 DECRETO Nº 84.649, DE 23 DE ABRIL DE 1980.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural situado no Município de Aracoiaba, Estado do Ceará, compreendido na área prioritária de reforma agrária de que trata o Decreto nº 60.465, de 14.3.67, com prazo de intervenção governamental sucessivamente prorrogado para até 31.12.83.

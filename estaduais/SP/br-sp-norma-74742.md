@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74742)
-
 # LEI COMPLEMENTAR Nº 1.024, DE 06 DE DEZEMBRO DE 2007
 
 ### _Ficam criados, na Polícia Militar do Estado de São Paulo, no Quadro de Oficiais de Polícia Feminina (QOPF), 58 (cinqüenta e oito) postos de 2º Tenente PM_

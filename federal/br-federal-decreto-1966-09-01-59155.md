@@ -1,5 +1,3 @@
-###DEC-059155-0-000-01-09-1966@@@
-
 decreto nº 59.155, de 1º de setembro de 1966.
 
 Renova o Decreto nº 53.270, de 13 de dezembro de 1963.

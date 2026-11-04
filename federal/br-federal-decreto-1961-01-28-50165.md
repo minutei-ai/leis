@@ -1,5 +1,3 @@
-###DEC-050165-0-000-28-01-1961@@@
-
 Decreto Nº 50.165, DE 28 DE JANEIRO DE 1961.
 
 Concede autorização para funcionamento de curso.

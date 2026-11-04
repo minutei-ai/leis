@@ -1,5 +1,3 @@
-###DEC-006062-0-000-16-03-2007@@@
-
 DECRETO Nº 6.062, DE 16 DE MARÇO DE 2007.
 
 Institui o Programa de Fortalecimento da Capacidade Institucional para Gestão em Regulação - PRO-REG, e dá outras providências.
@@ -107,5 +105,3 @@ Guido Mantega
 Paulo Bernardo Silva
 
 Dilma Rousseff
-
-Este texto não substitui o publicado no DOU de 19.3.2007.

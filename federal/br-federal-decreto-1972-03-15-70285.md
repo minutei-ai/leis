@@ -1,5 +1,3 @@
-###DEC-070285-0-000-15-03-1972@@@
-
 DECRETO Nº 70.285, DE 15 DE MARÇO DE 1972.
 
 Redistribui, com o respectivo ocupante, cargo do ex-Departamento dos Correios e Telégrafos para a Universidade Federal do Rio Grande do Norte, e dá outras providências.

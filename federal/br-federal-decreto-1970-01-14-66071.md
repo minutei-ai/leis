@@ -1,5 +1,3 @@
-###DEC-066071-0-000-14-01-1970@@@
-
 DECRETO Nº 66.071 - DE 14 DE JANEIRO DE 1970
 
 Aprova o Regulamento para a Diretoria de Assistência Social da Marinha.

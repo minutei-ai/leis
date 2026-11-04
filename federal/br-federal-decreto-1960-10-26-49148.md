@@ -1,5 +1,3 @@
-###DEC-049148-0-000-26-10-1960@@@
-
 DECRETO Nº 49.148, DE 26 DE OUTUBRO DE 1960.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Rio Verde, no Estado de Goiás.

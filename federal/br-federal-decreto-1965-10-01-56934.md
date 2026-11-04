@@ -1,5 +1,3 @@
-###DEC-056934-0-000-01-10-1965@@@
-
 Decreto nº 56.934, de 1º de outubro de 1965.
 
 Concede à INCALESA - Indústria de Calcária Leme dos Santos Ltda. autorização para funcionar como Emprêsa de Mineração.

@@ -1,5 +1,3 @@
-###DEC-055919-0-000-13-04-1965@@@
-
 Decreto Nº 55.919, DE 13 DE ABRIL DE 1965.
 
 Autoriza estrangeira a adquirir, em regularização e revigoração de aforamento, o domínio útil de fração ideal ao terreno de marinha e acrescido que menciona, no Estado da Guanabara.

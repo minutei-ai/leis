@@ -1,5 +1,3 @@
-###DEC-089524-0-000-05-04-1984@@@
-
 Decreto nº 89.524, de 05 de abril de 1984
 
 Cassa a concessão outorgada à RÁDIO JUAZEIRO DA BAHIA LTDA., para executar serviços de radiodifusão sonora em onda tropical, na cidade de Juazeiro, Estado da Bahia.

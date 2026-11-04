@@ -1,5 +1,3 @@
-###DEC-056276-0-000-10-05-1965@@@
-
 decreto nº 56.276, de 10 de maio de 1965.
 
 Instala o Conselho Nacional da Fundação Nacional do Bem-Estar do Menor e dá outras providências.

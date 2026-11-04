@@ -1,5 +1,3 @@
-###DEL-003150-0-000-26-03-1941@@@
-
 DECRETO-LEI N. 3.150 – DE 26 DE MARÇO DE 1941
 
 Modifica o orçamento da União sem aumento de despesa

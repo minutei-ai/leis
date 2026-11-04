@@ -1,5 +1,3 @@
-###DEL-004081-0-000-03-02-1942@@@
-
 DECRETO-LEI N. 4.081 – DE 3 DE FEVEREIRO DE 1942
 
 Reorganiza o registo obrigatório dos estabelecimentos industriais existentes no território nacional e dá outras providências
