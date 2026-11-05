@@ -44448,9 +44448,21 @@
           "html": true
         }
       ],
-      "utilizavel": false,
-      "motivo": "corpo-html-ok-mas-anexos-essenciais-pendentes",
-      "estado_sugerido": "anexos-pendentes"
+      "utilizavel": true,
+      "motivo": "anexo essencial recuperado da publicação oficial do Suplemento Único do DSF nº 86, de 14/06/2018",
+      "anexo_pdf_oficial": {
+        "url": "https://legis.senado.leg.br/norma/27410175/publicacao/27411313",
+        "publicacao_id": "27411313",
+        "anexo_id_detalhe": "27411308",
+        "orgao": "Senado Federal — Suplemento Único do Diário do Senado Federal",
+        "arquivo": "provas/especies-legislativas-federais/anexos-rsf/rsf-2018-13/rsf13-dsf-suplemento-86.pdf",
+        "sha256": "9d71bc6e759d122452e4b9988cd889ff391e90ea5b682ff7acdd7a7716acdb7e",
+        "bytes": 33178282,
+        "paginas_pdf": 261,
+        "edicao": "Suplemento Único do Diário do Senado Federal nº 86, de 14 de junho de 2018",
+        "contem_anexo_integral": true,
+        "capturado_em": "2026-11-05T12:51:16Z"
+      }
     },
     "br-federal-resolucao-senado-federal-2018-06-06-12": {
       "tipo": "RSF",
