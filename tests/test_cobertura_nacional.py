@@ -42,7 +42,11 @@ class CoberturaNacionalTest(unittest.TestCase):
         ids = {e['norma_id'] for e in lc['entradas']}
         self.assertEqual(len(ids), 2)
         self.assertTrue((ROOT / 'federal/br-federal-lei-complementar-1967-11-09-1.md').is_file())
-        self.assertFalse(list(ROOT.glob('federal/br-federal-lei-complementar-1962-*-1.md')))
+        lc1962 = cn.export_document('federal/br-federal-lei-complementar-1962-07-17-1.md')
+        lc1967 = cn.export_document('federal/br-federal-lei-complementar-1967-11-09-1.md')
+        self.assertEqual(lc1962['numero'], lc1967['numero'])
+        self.assertNotEqual(lc1962['norma_id'], lc1967['norma_id'])
+        self.assertNotEqual(lc1962['data_ato'], lc1967['data_ato'])
 
     def test_opaque_path_not_legal_number(self):
         cand = cn.path_identity_candidate('estaduais/AC/br-ac-norma-1121.md')
@@ -118,6 +122,35 @@ class CoberturaNacionalTest(unittest.TestCase):
         self.assertIn('norma_id', meta)
         self.assertGreater(len(doc['markdown_integral']), 1000)
 
+    def test_acervo_comment_excludes_editorial_stub_from_integral_search(self):
+        rel = 'estaduais/MG/br-mg-decreto-1945-06-26-2160.md'
+        path = ROOT / rel
+        raw = path.read_bytes()
+        doc = cn.export_document(rel)
+        self.assertEqual(cn.parse_acervo_comment(path.read_text(encoding='utf-8'))['edicao_integral'], False)
+        self.assertEqual(cn.parse_acervo_comment(path.read_text(encoding='utf-8'))['excluir_denominador_integra'], True)
+        self.assertEqual(doc['status_publicacao'], 'nao_publicado_integra')
+        self.assertEqual(doc['corpo_status'], 'incompleto')
+        self.assertTrue(doc['corpo_legal_integral_pendente'])
+        self.assertTrue(doc['excluir_denominador_integra'])
+        self.assertFalse(doc['texto_integral_pesquisavel'])
+        self.assertEqual(doc['markdown_integral'], '')
+        self.assertEqual(doc['sha256_markdown'], cn.sha256_bytes(raw))
+        self.assertEqual(doc['sha256_arquivo_origem'], cn.sha256_bytes(raw))
+        self.assertEqual(doc['bytes_arquivo_origem'], len(raw))
+        self.assertEqual(doc['markdown_integral_bytes'], 0)
+        self.assertEqual(cn.apply_bm25_filters([doc], {}), [])
+
+        # Legítimos corpos recuperados com marcadores de fac-símile continuam exportáveis.
+        for recovered in (
+            'estaduais/MG/br-mg-decreto-1937-04-08-803.md',
+            'estaduais/MG/br-mg-decreto-2000-03-21-40955.md',
+        ):
+            recovered_doc = cn.export_document(recovered)
+            self.assertTrue(recovered_doc['markdown_integral'])
+            self.assertNotIn('excluir_denominador_integra', recovered_doc)
+            self.assertEqual(cn.apply_bm25_filters([recovered_doc], {}), [recovered_doc])
+
     def test_bm25_filter_and_negative_facsimile(self):
         demo = cn.load_json(PROVAS / 'bm25-demonstracao.json')
         self.assertTrue(demo['filtro_combinado_resultado'])
@@ -185,6 +218,131 @@ class CoberturaNacionalTest(unittest.TestCase):
 
     def test_verify_command(self):
         cn.cmd_verify()
+
+    def test_export_meta_omits_body_preserves_hash(self):
+        rel = 'federal/br-federal-lei-2021-04-01-14133.md'
+        meta = cn.export_document(rel, include_markdown=False)
+        full = cn.export_document(rel, include_markdown=True)
+        self.assertNotIn('markdown_integral', meta)
+        self.assertIn('markdown_integral', full)
+        self.assertEqual(meta['sha256_markdown'], full['sha256_markdown'])
+        self.assertEqual(meta['markdown_integral_bytes'], len(full['markdown_integral'].encode('utf-8')))
+        _, body, body_hash = cn.markdown_body_hash(ROOT / rel)
+        self.assertEqual(full['markdown_integral'], body)
+        self.assertEqual(full['sha256_markdown'], body_hash)
+
+    def test_opaque_path_without_frontmatter_keeps_numero_unknown(self):
+        # Amostra opaca sem frontmatter: provedor_id ≠ numero legal.
+        candidates = [
+            p.relative_to(ROOT).as_posix()
+            for p in (ROOT / 'estaduais/GO').glob('br-go-norma-*.md')
+            if not p.read_text(encoding='utf-8', errors='replace').startswith('---\n')
+        ][:3]
+        self.assertTrue(candidates)
+        for rel in candidates:
+            doc = cn.export_document(rel, include_markdown=False)
+            self.assertTrue(doc['provedor_id'])
+            self.assertIsNone(doc['numero'])
+            self.assertEqual(doc['numero_estado'], 'desconhecido')
+            self.assertEqual(doc['armazenamento_metadados'], 'sidecar-export')
+            self.assertEqual(doc['fonte_do_campo']['provedor_id'], 'caminho-opaco')
+            self.assertEqual(doc['orgao_emissor'], 'desconhecido')
+            self.assertEqual(doc['fonte_do_campo']['orgao_emissor'], 'desconhecido-explicito')
+
+    def test_municipal_canonical_path_candidate(self):
+        rel = 'municipais/3550308/br-municipal-3550308-decreto-2022-12-27-62100.md'
+        cand = cn.path_identity_candidate(rel)
+        self.assertEqual(cand['especie_candidata'], 'decreto')
+        self.assertEqual(cand['numero'], '62100')
+        self.assertEqual(cand['data_candidata'], '2022-12-27')
+        self.assertEqual(cand['estado_identidade'], 'derivada-do-caminho-candidata')
+        doc = cn.export_document(rel, include_markdown=False)
+        self.assertEqual(doc['especie'], 'decreto')
+        self.assertEqual(doc['numero'], '62100')
+        self.assertEqual(doc['fonte_do_campo']['especie'], 'caminho-canonico')
+
+    def test_bm25_filters_integrated_all_cases(self):
+        result = cn.verify_bm25_filters_integrated()
+        self.assertTrue(result['todos_ok'], result)
+        ids = {c['id'] for c in result['casos']}
+        self.assertIn('federal-lei-2021-historica', ids)
+        self.assertIn('federal-lei-complementar-numero-1-1967', ids)
+        self.assertIn('acre-opaco-provedor-nao-e-numero', ids)
+        self.assertIn('municipal-ibge-decreto', ids)
+        self.assertIn('facsimile-nao-texto-integral', ids)
+        self.assertIn('ato-sem-numero-seq-sf', ids)
+        for case in result['casos']:
+            self.assertTrue(case['ok'], case)
+
+    def test_export_acervo_streaming_resume(self):
+        import shutil
+        import tempfile
+
+        tmp = Path(tempfile.mkdtemp(prefix='acervo-export-'))
+        try:
+            # Lote pequeno via --limit (primeiros N do corpus ordenado).
+            r1 = cn.export_acervo_streaming(
+                out_dir=tmp,
+                shard_size=2,
+                resume=False,
+                include_markdown=False,
+                limit=4,
+            )
+            self.assertEqual(r1['manifesto']['total_edicoes'], 4)
+            self.assertTrue(r1['manifesto']['completo'])  # completo relativo ao limit
+            self.assertEqual(len(r1['manifesto']['shards']), 2)
+            r2 = cn.export_acervo_streaming(
+                out_dir=tmp / 'full',
+                shard_size=3,
+                resume=False,
+                include_markdown=False,
+                limit=6,
+            )
+            self.assertEqual(r2['manifesto']['total_edicoes'], 6)
+            self.assertEqual(r2['inventario']['total_edicoes'], 6)
+            self.assertEqual(r2['inventario']['anomalias']['provedor_id_igual_numero_sem_frontmatter'], 0)
+            # Nenhuma linha carrega markdown_integral.
+            n = 0
+            for shard in r2['manifesto']['shards']:
+                import gzip
+                with gzip.open((tmp / 'full') / shard['arquivo'], 'rt', encoding='utf-8') as fh:
+                    for line in fh:
+                        row = json.loads(line)
+                        self.assertNotIn('markdown_integral', row)
+                        self.assertIn('fonte_do_campo', row)
+                        self.assertFalse(row['vigencia_certificada'])
+                        n += 1
+            self.assertEqual(n, 6)
+            # Resume: processa 2, depois completa até 6.
+            partial = tmp / 'resume'
+            cn.export_acervo_streaming(
+                out_dir=partial, shard_size=2, resume=False, include_markdown=False, limit=2
+            )
+            ckpt = cn.load_json(partial / 'checkpoint.json')
+            self.assertEqual(ckpt['next_index'], 2)
+            cn.export_acervo_streaming(
+                out_dir=partial, shard_size=2, resume=True, include_markdown=False, limit=6
+            )
+            man = cn.load_json(partial / 'manifesto.json')
+            self.assertEqual(man['total_edicoes'], 6)
+            self.assertGreaterEqual(len(man['shards']), 2)
+        finally:
+            shutil.rmtree(tmp, ignore_errors=True)
+
+    def test_contrato_escolhe_sidecar_para_acervo_completo(self):
+        text = (ROOT / 'metadados/CONTRATO-acervo.md').read_text(encoding='utf-8')
+        self.assertIn('sidecars de exportação', text.lower())
+        self.assertIn('JSONL', text)
+        self.assertIn('export-acervo', text)
+
+    def test_full_inventory_artifact_covers_all_files(self):
+        inv = cn.load_json(PROVAS / 'inventario-campos-acervo.json')
+        total = len(cn.iter_markdown_rels())
+        self.assertEqual(inv['total_edicoes'], total)
+        self.assertEqual(inv['escolha_armazenamento']['metadados_acervo_geral'], 'sidecar-export-jsonl')
+        for field, states in inv['por_campo'].items():
+            self.assertEqual(sum(states.values()), total, field)
+        self.assertEqual(inv['anomalias']['provedor_id_igual_numero_sem_frontmatter'], 0)
 
 
 if __name__ == '__main__':

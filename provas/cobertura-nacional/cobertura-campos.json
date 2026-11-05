@@ -30,6 +30,12 @@
       "contrato": "metadados/CONTRATO-acervo.md",
       "manifesto": "metadados/acervo-geral-piloto.json",
       "campos_cabecalho": "conhecidos-com-campo_fontes-no-piloto"
+    },
+    "acervo-geral-export-sidecar": {
+      "contrato": "metadados/CONTRATO-acervo.md",
+      "manifesto": "provas/cobertura-nacional/export-acervo-manifesto.json",
+      "inventario": "provas/cobertura-nacional/inventario-campos-acervo.json",
+      "campos_cabecalho": "inventariados-no-export-completo-com-proveniencia"
     }
   },
   "campos": {
