@@ -1,160 +1,160 @@
 {
   "contrato_versao": 1,
-  "export_schema_versao": 1,
+  "export_schema_versao": 2,
   "gerado_por": "scripts/cobertura_nacional.py export-acervo",
   "include_markdown": false,
   "shard_size": 10000,
   "total_edicoes": 232659,
   "total_esperado": 232659,
   "completo": true,
-  "bytes_jsonl_nao_comprimidos": 458930796,
+  "bytes_jsonl_nao_comprimidos": 474999529,
   "shards": [
     {
       "arquivo": "shards/shard-00000.jsonl.gz",
       "registros": 10000,
-      "sha256": "625f9e504af3bf82cbfba5179c1367d5d29139bca101f9545a4a8ac12db0ae22",
-      "bytes": 756883
+      "sha256": "48a060185e579ec4cde95d37bec4e3a7311a1d25ba1c4020850d51a971ebe9ca",
+      "bytes": 765714
     },
     {
       "arquivo": "shards/shard-00001.jsonl.gz",
       "registros": 10000,
-      "sha256": "f0a2544c686d145582dc30323795a88b4f117f4ab18fbf638afeb174583bdb28",
-      "bytes": 742607
+      "sha256": "0783e15d87fc4cf35e237f360043de2a0770cb52537d4fe4f9268663076bbf20",
+      "bytes": 750263
     },
     {
       "arquivo": "shards/shard-00002.jsonl.gz",
       "registros": 10000,
-      "sha256": "4fd96b2570874b284813da44d6402d0f07bcee9169b332e3079e56fd80d0bf17",
-      "bytes": 741085
+      "sha256": "d7e73d3b9070351f6b04a49163c07d8fee44225aed44cabe7627286952bf3cae",
+      "bytes": 746074
     },
     {
       "arquivo": "shards/shard-00003.jsonl.gz",
       "registros": 10000,
-      "sha256": "86fc92ab43fafc2b0dedffd1be38f1fa46211afa9ac37970cc5fe10e0a1528be",
-      "bytes": 744262
+      "sha256": "d0fd1b12a6799de028293a7f364c46c8b6430ed37ee761c573c4a87280ef6cd4",
+      "bytes": 748222
     },
     {
       "arquivo": "shards/shard-00004.jsonl.gz",
       "registros": 10000,
-      "sha256": "c48fd8bac6437e9e2bfca9acba189de346ae0b399ccc792f836079a898c840e8",
-      "bytes": 747437
+      "sha256": "4a91994bfa0de1d1d1535d5d7712629d4f186cac4f689b7b454c17dfd6efb59b",
+      "bytes": 751899
     },
     {
       "arquivo": "shards/shard-00005.jsonl.gz",
       "registros": 10000,
-      "sha256": "52677101f3e04a5b65eb36f94d1588db85eb7f518907722f61406a655fa745d8",
-      "bytes": 760667
+      "sha256": "c83b7df43861feed005342fe9aa8ae5d9168f742e39c2af5f5e8c3b16ae63dd7",
+      "bytes": 763953
     },
     {
       "arquivo": "shards/shard-00006.jsonl.gz",
       "registros": 10000,
-      "sha256": "6a05d2240a993ce2effda926012f9a1f022b2193e8000a4f103984bceaea567f",
-      "bytes": 761262
+      "sha256": "dc9bd342ff85b5fe10fa0b9f78c2da9746453a8b8c7d745ca6701ffae52bd886",
+      "bytes": 767742
     },
     {
       "arquivo": "shards/shard-00007.jsonl.gz",
       "registros": 10000,
-      "sha256": "c954e064cb6c2abf04ec868d8671fc8f78502ffa2178fb17a925697529be371d",
-      "bytes": 790334
+      "sha256": "f55de249488b568721034a4eaee6091daac870f1d21dfcdfae2aa51f95423acd",
+      "bytes": 806449
     },
     {
       "arquivo": "shards/shard-00008.jsonl.gz",
       "registros": 10000,
-      "sha256": "2c90e257cfc50fd332d6f604a2dcd49502bc105db86d68196f613b568e516889",
-      "bytes": 822024
+      "sha256": "812b8606c6cbdb52edc60f78a910b449954ee4f58134725fc1997817a3f9fe6e",
+      "bytes": 830567
     },
     {
       "arquivo": "shards/shard-00009.jsonl.gz",
       "registros": 10000,
-      "sha256": "1588b02a1e9df45d78e738d3da950babe5b8c29b3f80bb090cf5e26c42f13d0d",
-      "bytes": 1027303
+      "sha256": "0ff02f5198fd3ead77ea78517271f8fb945066036b95422053d837764141fb87",
+      "bytes": 1044779
     },
     {
       "arquivo": "shards/shard-00010.jsonl.gz",
       "registros": 10000,
-      "sha256": "5df7b236dc267673cd30ca722b3a72c293663532e2d6b0ccc0c529fb516ce002",
-      "bytes": 747041
+      "sha256": "3a3e47034def522e71be9759d29d5868f41c1083fc0cffd1ebc3b1053758c2e5",
+      "bytes": 745460
     },
     {
       "arquivo": "shards/shard-00011.jsonl.gz",
       "registros": 10000,
-      "sha256": "3a24fad16277a511351276f5f5f1b61eb01b9a30c1b6622bb21633b5b027735d",
-      "bytes": 803144
+      "sha256": "fb513ad476a4a99f107f2d37b8947bedca04e227dc8889fc02435df9e0ef90e0",
+      "bytes": 802648
     },
     {
       "arquivo": "shards/shard-00012.jsonl.gz",
       "registros": 10000,
-      "sha256": "f12db10e9802deb1d7580967ab10981d06cf3de7def93a89713ef3fb31dd9f81",
-      "bytes": 944158
+      "sha256": "15511a2ee38460a567bd84181f6353718a97f58c0b6d4207622ee93f523662e4",
+      "bytes": 944437
     },
     {
       "arquivo": "shards/shard-00013.jsonl.gz",
       "registros": 10000,
-      "sha256": "093ebf1fae4df76b43146f7c001eabb17bb5f3367eccfd4ec265778fc8646a29",
-      "bytes": 1195571
+      "sha256": "94bc0400499ac9e3477b159790b2b2b72cb1d1dd83bd825bb79f835ecd77b23c",
+      "bytes": 1195475
     },
     {
       "arquivo": "shards/shard-00014.jsonl.gz",
       "registros": 10000,
-      "sha256": "6d7170317726ede73cfe0587b19ae131dc6bb635d0d248740be79b33df7a0a31",
-      "bytes": 1096378
+      "sha256": "3888cc08f4cdc1eae29759bb09aa1e75a6f183be8fb5467e6f5f1e76f3bcf6e7",
+      "bytes": 1094017
     },
     {
       "arquivo": "shards/shard-00015.jsonl.gz",
       "registros": 10000,
-      "sha256": "26b5aad5ab044b18dd1dff88b94897daaffc5742ad430637fe639417bd766eeb",
-      "bytes": 1165379
+      "sha256": "92eca2f1400fbc19d13c5d72a72ac03f3efdf58d3cfe2bdffc7ac67e5abf6cb0",
+      "bytes": 1164429
     },
     {
       "arquivo": "shards/shard-00016.jsonl.gz",
       "registros": 10000,
-      "sha256": "1b8caf482a2e62cdf53d2068b2c516252db519e43efd6d3c6febd9040bb9a0a7",
-      "bytes": 960817
+      "sha256": "8841433654d7b6b1bb4ac5d943484c7467f43c0f5871a6a9ce3ed54cb77d61e9",
+      "bytes": 961716
     },
     {
       "arquivo": "shards/shard-00017.jsonl.gz",
       "registros": 10000,
-      "sha256": "06ff7e4386861e81c381c0d6ee7101bc8e6a9bdf3205564d1d68e947e38d23c4",
-      "bytes": 823904
+      "sha256": "3151b52daa01ade195c5d37591d10fab1979e86fe09a05375b6212341acb45bd",
+      "bytes": 826279
     },
     {
       "arquivo": "shards/shard-00018.jsonl.gz",
       "registros": 10000,
-      "sha256": "bccc987ab4c2fbc2ad6c283567109d87ddcbfb36838bd5ab579fd3ef8207de63",
-      "bytes": 825378
+      "sha256": "2c65b8aca54cd02094c3b1138433fbec7345a79a859813158bfa2a6ed756b372",
+      "bytes": 827759
     },
     {
       "arquivo": "shards/shard-00019.jsonl.gz",
       "registros": 10000,
-      "sha256": "8cb63888bb95e027b8ef4f6d41587ddcb9c54f0572beac003f98852a3d334ef9",
-      "bytes": 890412
+      "sha256": "6a550a56f4f9453f6b90b0b5cc9271e53ec29b8aef5644cdf4e09ee114dbd111",
+      "bytes": 898529
     },
     {
       "arquivo": "shards/shard-00020.jsonl.gz",
       "registros": 10000,
-      "sha256": "42a1c7472a362a7707e9ccd7ea1bf31717a0270dad7748848d0cad9cc86607ed",
-      "bytes": 740144
+      "sha256": "5b090f1b0d67a722dd806dfc0876934d4fd14a35a556a0de790a6b4803a1ae80",
+      "bytes": 742694
     },
     {
       "arquivo": "shards/shard-00021.jsonl.gz",
       "registros": 10000,
-      "sha256": "a4a106818074b4953ae0bfdba7abc3073b13f6d556bf18ed697dd993e13532bb",
-      "bytes": 745285
+      "sha256": "2269c313d442ef35ce2fe1a712e95a3212593e46b3ed5036d2eb5218e49554cf",
+      "bytes": 748285
     },
     {
       "arquivo": "shards/shard-00022.jsonl.gz",
       "registros": 10000,
-      "sha256": "70fb8eed08a14b235c36b31fd8d16b0c3838ee1cf6ac6f7a544f75f89790e093",
-      "bytes": 760139
+      "sha256": "0d7b3e89c2bf778176156b07ff74449990c5c311ad7008c18835ae7ce2594fa6",
+      "bytes": 773945
     },
     {
       "arquivo": "shards/shard-00023.jsonl.gz",
       "registros": 2659,
-      "sha256": "f8ab54a6d819eeb94b7f815b3a6edcd670e722fbc29492bb0560e5256c6cb28e",
-      "bytes": 206913
+      "sha256": "2571fcc37e45d5b35362cb270ea874bd89bf4c68002e08a96ee4f7be36ecb236",
+      "bytes": 211852
     }
   ],
-  "elapsed_seconds": 108.547,
+  "elapsed_seconds": 142.889,
   "checkpoint": "checkpoint.json",
   "inventario_campos": "inventario-campos-acervo.json",
   "recuperacao_integra": {
@@ -164,6 +164,11 @@
   "filtros_bm25": [
     "esfera",
     "especie",
+    "orgao_emissor",
+    "fonte_orgao",
+    "serie_historica",
+    "senado_id",
+    "urn",
     "numero",
     "complemento",
     "numero_estado",
