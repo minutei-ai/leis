@@ -1,0 +1,180 @@
+[
+  {
+    "id": "br-federal-decreto-2019-09-03-10000",
+    "arquivo": "federal/br-federal-decreto-2019-09-03-10000.md",
+    "url": "https://www2.camara.leg.br/legin/fed/decret/2019/decreto-10000-3-setembro-2019-789065-publicacaooriginal-158992-pe.html",
+    "orgao": "camara",
+    "issue": 99,
+    "capturado_em": "2026-11-04T19:05:50Z",
+    "sha256_markdown": "83b4fc9a6d0713b365b6261f5409f61a331ce11623452e008c08ea0093a54df6",
+    "bytes_markdown": 19953,
+    "snapshot": "provas/identidade-federal-99-102-103/fontes/br-federal-decreto-2019-09-03-10000.html.xz",
+    "sha256_snapshot": "25470f42b6ebb0abb51a5f530a6f761ea678c4fc1d614812d2a24b6f7b9f85b8",
+    "bytes_snapshot": 12608
+  },
+  {
+    "id": "br-federal-decreto-2019-04-11-9764",
+    "arquivo": "federal/br-federal-decreto-2019-04-11-9764.md",
+    "url": "https://www2.camara.leg.br/legin/fed/decret/2019/decreto-9764-11-abril-2019-787971-publicacaooriginal-157745-pe.html",
+    "orgao": "camara",
+    "issue": 99,
+    "capturado_em": "2026-11-04T19:05:50Z",
+    "sha256_markdown": "791ed2546aa24e875f01ca211dbde08f1720e1cdee2d3dab9b4401ef60dc42e8",
+    "bytes_markdown": 18635,
+    "snapshot": "provas/identidade-federal-99-102-103/fontes/br-federal-decreto-2019-04-11-9764.html.xz",
+    "sha256_snapshot": "3ddeee30bc7e486de17c3abef17624749add0e8c4bcd981f0d4efed836082445",
+    "bytes_snapshot": 12528
+  },
+  {
+    "id": "br-federal-decreto-2018-06-29-9432",
+    "arquivo": "federal/br-federal-decreto-2018-06-29-9432.md",
+    "url": "https://www2.camara.leg.br/legin/fed/decret/2018/decreto-9432-29-junho-2018-786919-publicacaooriginal-155941-pe.html",
+    "orgao": "camara",
+    "issue": 99,
+    "capturado_em": "2026-11-04T19:05:50Z",
+    "sha256_markdown": "b461b87d730589ea0464d3744de56c0ce34067d68938b59d88b0e6f2ef1566f3",
+    "bytes_markdown": 3793,
+    "snapshot": "provas/identidade-federal-99-102-103/fontes/br-federal-decreto-2018-06-29-9432.html.xz",
+    "sha256_snapshot": "e1f2521be355c3f42d28ddcbbc1fa2b9ddbeb007fff2c0c62c89e05cdf45c504",
+    "bytes_snapshot": 8884
+  },
+  {
+    "id": "br-federal-decreto-2014-06-05-8264",
+    "arquivo": "federal/br-federal-decreto-2014-06-05-8264.md",
+    "url": "https://www2.camara.leg.br/legin/fed/decret/2014/decreto-8264-5-junho-2014-778862-publicacaooriginal-144326-pe.html",
+    "orgao": "camara",
+    "issue": 99,
+    "capturado_em": "2026-11-04T19:05:50Z",
+    "sha256_markdown": "e675ec707aa44979597e212e30eafe68c00a006337ee8c19afb3d9d950d0f8b1",
+    "bytes_markdown": 6255,
+    "snapshot": "provas/identidade-federal-99-102-103/fontes/br-federal-decreto-2014-06-05-8264.html.xz",
+    "sha256_snapshot": "2af15e24b98161d6092809c8ea17149685b370e5f3397a441035d85402190bcb",
+    "bytes_snapshot": 9660
+  },
+  {
+    "id": "br-federal-decreto-1959-12-23-47482",
+    "arquivo": "federal/br-federal-decreto-1959-12-23-47482.md",
+    "url": "https://www2.camara.leg.br/legin/fed/decret/1950-1959/decreto-47482-23-dezembro-1959-386943-retificacao-1-pe.html",
+    "orgao": "camara",
+    "issue": 99,
+    "nota": "publicacaooriginal 404; usada página de retificação da Câmara",
+    "capturado_em": "2026-11-04T19:05:50Z",
+    "sha256_markdown": "15925b6d942a8f943a084f21e3d617f6be05d898966eb71f8621e13721c4bc83",
+    "bytes_markdown": 1156,
+    "snapshot": "provas/identidade-federal-99-102-103/fontes/br-federal-decreto-1959-12-23-47482.html.xz",
+    "sha256_snapshot": "9a8e8121086ec8a454b7a2021d338b4c3358a8a6544f2fd40f47727cba0e55b3",
+    "bytes_snapshot": 8336
+  },
+  {
+    "id": "br-federal-lei-2014-06-02-12985",
+    "arquivo": "federal/br-federal-lei-2014-06-02-12985.md",
+    "url": "https://www2.camara.leg.br/legin/fed/lei/2014/lei-12985-2-junho-2014-778849-publicacaooriginal-144290-pl.html",
+    "orgao": "camara",
+    "issue": 103,
+    "capturado_em": "2026-11-04T19:05:50Z",
+    "sha256_markdown": "28c6c0821aafd8babe9419c8a95aa6b524fb57d2824998740104f50fe4a0b97e",
+    "bytes_markdown": 734,
+    "snapshot": "provas/identidade-federal-99-102-103/fontes/br-federal-lei-2014-06-02-12985.html.xz",
+    "sha256_snapshot": "aa83f9f8547048c5b6ea6e36a8215d9eb996cb1287c0c82b806e1e085563fd95",
+    "bytes_snapshot": 7692
+  },
+  {
+    "id": "br-federal-lei-2014-06-02-12988",
+    "arquivo": "federal/br-federal-lei-2014-06-02-12988.md",
+    "url": "https://www2.camara.leg.br/legin/fed/lei/2014/lei-12988-2-junho-2014-778852-publicacaooriginal-144295-pl.html",
+    "orgao": "camara",
+    "issue": 103,
+    "capturado_em": "2026-11-04T19:05:50Z",
+    "sha256_markdown": "530bceb037758398f361c1d368e0b7bd601a787bf4860b2f643102f37cc57310",
+    "bytes_markdown": 621,
+    "snapshot": "provas/identidade-federal-99-102-103/fontes/br-federal-lei-2014-06-02-12988.html.xz",
+    "sha256_snapshot": "2b05c8985918efc30577d0130cc4653d5d6f7158bcb0d5188fec2dd35a4bf497",
+    "bytes_snapshot": 7668
+  },
+  {
+    "id": "br-federal-decreto-lei-1942-01-13-4014-a",
+    "arquivo": "federal/br-federal-decreto-lei-1942-01-13-4014-a.md",
+    "url": "https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-4014-a-13-janeiro-1942-414027-publicacaooriginal-1-pe.html",
+    "orgao": "camara",
+    "issue": 102,
+    "divergencia_senado": {
+      "url_ficha": "https://legis.senado.leg.br/norma/529102",
+      "url_publicacao": "https://legis.senado.leg.br/norma/529102/publicacao/15820792",
+      "cabecalho_literal_senado": "DECRETO-LEI N. 1.014-A - DE 13 DE JANEIRO DE 1942",
+      "cabecalho_literal_camara": "DECRETO-LEI Nº 4.014-A, DE 13 DE JANEIRO DE 1942",
+      "snapshot_publicacao": "provas/identidade-federal-99-102-103/divergencias/senado-529102-publicacao-15820792.html.xz",
+      "snapshot_ficha": "provas/identidade-federal-99-102-103/divergencias/senado-529102-ficha.html.xz"
+    },
+    "capturado_em": "2026-11-04T19:05:50Z",
+    "sha256_markdown": "f984bd4e743bdfa95a8b80770eafc756607cbb538b1f9bb3396d37eb69f67318",
+    "bytes_markdown": 694,
+    "snapshot": "provas/identidade-federal-99-102-103/fontes/br-federal-decreto-lei-1942-01-13-4014-a.html.xz",
+    "sha256_snapshot": "f1615a9742ec03e6dd1bf9f171d0c50ac5ea4049e426c40a1f0fb17e931f04c7",
+    "bytes_snapshot": 8140
+  },
+  {
+    "id": "br-federal-decreto-lei-1981-05-27-1873",
+    "arquivo": "federal/br-federal-decreto-lei-1981-05-27-1873.md",
+    "url": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-1873-27-maio-1981-374519-norma-pe.html",
+    "orgao": "camara+planalto",
+    "issue": 104,
+    "anexos": [
+      {
+        "peca": "anexo-i",
+        "fonte": "planalto",
+        "pdf_url": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/1965-1988/anexo/andel1873-81.pdf",
+        "pdf_sha256": "3e351c8a7806a4ff4f9ac34d5da9654f1e85346020687f0253d8b347639aecf7",
+        "facsimile": "provas/identidade-federal-99-102-103/anexos/br-federal-decreto-lei-1981-05-27-1873-anexo-i-planalto.png",
+        "sha256_facsimile": "77fe016022f1f14c18ff9b17d080dc6a981d5302aa19e92dad053afa27b7ac66",
+        "bytes_facsimile": 130476
+      },
+      {
+        "peca": "anexo-i",
+        "fonte": "camara",
+        "pdf_url": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-1873-27-maio-1981-374519-anexoi-pe.pdf",
+        "pdf_sha256": "7f667e7e330a7bb463dd9b715f37fc170378f2d7612a915e0117d71d454b2a9f",
+        "facsimile": "provas/identidade-federal-99-102-103/anexos/br-federal-decreto-lei-1981-05-27-1873-anexo-i-camara.png",
+        "sha256_facsimile": "1a5bd47551672c2d382a874855d411743bf4ff3aa68666717b9d85765f4e3d22",
+        "bytes_facsimile": 87002
+      },
+      {
+        "peca": "anexo-ii",
+        "fonte": "camara",
+        "pdf_url": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-1873-27-maio-1981-374519-anexoii-pe.pdf",
+        "pdf_sha256": "443074e6f8e39fe222e1f1fd0de377228577ec5f9c6e13544078fcbf927e62ba",
+        "facsimile": "provas/identidade-federal-99-102-103/anexos/br-federal-decreto-lei-1981-05-27-1873-anexo-ii-camara.png",
+        "sha256_facsimile": "0f677ce214577d6122c447fe5e935c035c7d8e6c4fd48072663e69fd48322802",
+        "bytes_facsimile": 104812
+      }
+    ],
+    "capturado_em": "2026-11-04T19:05:50Z",
+    "sha256_markdown": "67860e6e45699099e46069312108ef187b711b3188450a4a7f3dc8d42078a15c",
+    "bytes_markdown": 7063
+  },
+  {
+    "id": "br-federal-decreto-lei-1984-04-04-2111",
+    "arquivo": "federal/br-federal-decreto-lei-1984-04-04-2111.md",
+    "url": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-2111-4-abril-1984-363069-norma-pe.html",
+    "orgao": "camara+planalto",
+    "issue": 104,
+    "anexos": [
+      {
+        "peca": "anexo",
+        "fonte": "camara",
+        "pdf_url": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-2111-4-abril-1984-363069-anexo-pe.pdf",
+        "pdf_sha256": "538b506b43da2d7515e774cd0233f0bad6f88d47c19d6303a4ced6adc91f0bb8",
+        "facsimile": "provas/identidade-federal-99-102-103/anexos/br-federal-decreto-lei-1984-04-04-2111-anexo-camara.png",
+        "sha256_facsimile": "5e8630c1eb1885c22ea9aa7f8d65bde0ab802a4f0db07e761b951c5dffc0834e",
+        "bytes_facsimile": 339970
+      },
+      {
+        "peca": "anexo",
+        "fonte": "planalto-html",
+        "url": "https://www.planalto.gov.br/ccivil_03/Decreto-Lei/1965-1988/Del2111.htm"
+      }
+    ],
+    "capturado_em": "2026-11-04T19:05:50Z",
+    "sha256_markdown": "fe1688a9ae21ece64d42c7cc732b1a98e11107e211d14d0a58667051b26166c7",
+    "bytes_markdown": 2343
+  }
+]
