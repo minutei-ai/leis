@@ -1,0 +1,1580 @@
+---
+id: "br-federal-medida-provisoria-2001-05-31-2150-39"
+norma_id: "br-federal-medida-provisoria-2001-05-31-2150-39"
+norma_tipo: "medida-provisoria"
+norma_numero: "2150-39"
+norma_data: "2001-05-31"
+titulo: "Medida Provisória nº 2.150-39, de 31 de maio de 2001"
+esfera: "federal"
+edicao_id: "br-federal-medida-provisoria-2001-05-31-2150-39@publicacao-original-senado+anexos-camara"
+edicao_tipo: "historica"
+edicao_integral: true
+edicao_relacionada: "nenhuma"
+fonte_orgao: "Senado Federal / Portal das Normas + Câmara dos Deputados (anexos)"
+fonte_url: "https://normas.leg.br/api/public/binario/3d51252c-936f-4ca9-a8ed-6863ef8a8323/texto"
+fonte_formato: "html+doc"
+fonte_conferencia: "camara-anexos-doc"
+capturado_em: "2026-11-04T19:21:03Z"
+sha256_fonte: "9d2f5eeef603496d76d2637b83512d888fb77447ae7aec63fcbd3b57b270c747"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 19
+tabelas: 10
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "eb3ec25d6c424099052580a8a206dd475e8e443142bf09a20f853fd3fc4f48ad"
+manifesto: "provas/mps-pre-ec32/matriz-publicacao.json"
+contrato_versao: 1
+serie_historica: "medida-provisoria-pre-ec32"
+urn: "urn:lex:br:federal:medida.provisoria:2001-05-31;2150-39"
+tipo_catalogo: "MPV-cs"
+---
+
+<!-- nota-edicao:inicio -->
+
+> **Medida Provisória nº 2150, reedição 39 de 2001-05-31 — publicação original com anexos Câmara.** Fonte: https://normas.leg.br/api/public/binario/3d51252c-936f-4ca9-a8ed-6863ef8a8323/texto (capturada em 2026-11-04T19:21:03Z, SHA-256 `9d2f5eeef603496d76d2637b83512d888fb77447ae7aec63fcbd3b57b270c747`). Snapshot: `provas/mps-pre-ec32/fontes/br-federal-medida-provisoria-2001-05-31-2150-39.html.xz`. O acervo não certifica vigência.
+>
+> Série histórica pré-EC 32/2001 (issue #95). Tipo de catálogo: `MPV-cs`. Identidade `numero[-reedicao]` preservada; não fundir com a numeração contínua pós-11/09/2001 (#84).
+>
+> Anexos recuperados da Câmara (LexML→norma-pe), `.doc`→HTML→Markdown, no lugar do placeholder oficial do HTML normas.leg.br:
+> - `https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2150-39-31-maio-2001-339775-anexo1-pe.doc` (SHA-256 `9da4fb45618a08e92a51ccdc856dd36196e3a4ae520f86b75192d0b52e5ca5ec`, snapshot `provas/mps-pre-ec32/anexos-camara/br-federal-medida-provisoria-2001-05-31-2150-39.0.medidaprovisoria-2150-39-31-maio-2001-339775-anexo1-pe.doc.xz`)
+> - `https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2150-39-31-maio-2001-339775-anexo10-pe.doc` (SHA-256 `f7ad44c75478053216dfddb3348f1488a78eb53386e1099cc11c6cc6fa1b3f2d`, snapshot `provas/mps-pre-ec32/anexos-camara/br-federal-medida-provisoria-2001-05-31-2150-39.1.medidaprovisoria-2150-39-31-maio-2001-339775-anexo10-pe.doc.xz`)
+> - `https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2150-39-31-maio-2001-339775-anexo11-pe.doc` (SHA-256 `fd86f3919ee558d503a4da54811da9c679ca43f015a1e1ca37336b9bd28b5c5d`, snapshot `provas/mps-pre-ec32/anexos-camara/br-federal-medida-provisoria-2001-05-31-2150-39.2.medidaprovisoria-2150-39-31-maio-2001-339775-anexo11-pe.doc.xz`)
+> - `https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2150-39-31-maio-2001-339775-anexo12-pe.doc` (SHA-256 `1f089ab3a1db3d8a52b2fac6cd25e4d2180ef3fe438a3bad012325b860666753`, snapshot `provas/mps-pre-ec32/anexos-camara/br-federal-medida-provisoria-2001-05-31-2150-39.3.medidaprovisoria-2150-39-31-maio-2001-339775-anexo12-pe.doc.xz`)
+> - `https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2150-39-31-maio-2001-339775-anexo13-pe.doc` (SHA-256 `4649df1762a1caba39998da6ad85685417b373ea6c1c98d15da9605798577a80`, snapshot `provas/mps-pre-ec32/anexos-camara/br-federal-medida-provisoria-2001-05-31-2150-39.4.medidaprovisoria-2150-39-31-maio-2001-339775-anexo13-pe.doc.xz`)
+> - `https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2150-39-31-maio-2001-339775-anexo14-pe.doc` (SHA-256 `25a3b78dcf6649a17228cb59965754a33c6396d4cde27e48717cbf17880595cb`, snapshot `provas/mps-pre-ec32/anexos-camara/br-federal-medida-provisoria-2001-05-31-2150-39.5.medidaprovisoria-2150-39-31-maio-2001-339775-anexo14-pe.doc.xz`)
+> - `https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2150-39-31-maio-2001-339775-anexo15-pe.doc` (SHA-256 `239f6ad47a62aafee29c7bbd4be9b0a1d41976c16d39dd2439cb2fe680fe978e`, snapshot `provas/mps-pre-ec32/anexos-camara/br-federal-medida-provisoria-2001-05-31-2150-39.6.medidaprovisoria-2150-39-31-maio-2001-339775-anexo15-pe.doc.xz`)
+> - `https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2150-39-31-maio-2001-339775-anexo16-pe.doc` (SHA-256 `7b119852b9adcb4e353c458363327dcc3e407bf1bcfb4c481d7c638f8b3008cf`, snapshot `provas/mps-pre-ec32/anexos-camara/br-federal-medida-provisoria-2001-05-31-2150-39.7.medidaprovisoria-2150-39-31-maio-2001-339775-anexo16-pe.doc.xz`)
+> - `https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2150-39-31-maio-2001-339775-anexo17-pe.doc` (SHA-256 `0c09d04a432b1fe57e4cae0e335f3c81292e6e7ba814925e365049f656d487a3`, snapshot `provas/mps-pre-ec32/anexos-camara/br-federal-medida-provisoria-2001-05-31-2150-39.8.medidaprovisoria-2150-39-31-maio-2001-339775-anexo17-pe.doc.xz`)
+> - `https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2150-39-31-maio-2001-339775-anexo18-pe.doc` (SHA-256 `175c097b4439e6ff3f0e60859768ced82b94129975fc01a7724b879460e08e82`, snapshot `provas/mps-pre-ec32/anexos-camara/br-federal-medida-provisoria-2001-05-31-2150-39.9.medidaprovisoria-2150-39-31-maio-2001-339775-anexo18-pe.doc.xz`)
+> - `https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2150-39-31-maio-2001-339775-anexo19-pe.doc` (SHA-256 `a66d765e917bcbd69837767832766b4b01849210a5e51a5759ad54b9a43843e7`, snapshot `provas/mps-pre-ec32/anexos-camara/br-federal-medida-provisoria-2001-05-31-2150-39.10.medidaprovisoria-2150-39-31-maio-2001-339775-anexo19-pe.doc.xz`)
+> - `https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2150-39-31-maio-2001-339775-anexo2-pe.doc` (SHA-256 `5a654fb7ad23bf1eab3461862c2610458960d032956beae52345bc6bfb403ef4`, snapshot `provas/mps-pre-ec32/anexos-camara/br-federal-medida-provisoria-2001-05-31-2150-39.11.medidaprovisoria-2150-39-31-maio-2001-339775-anexo2-pe.doc.xz`)
+> - `https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2150-39-31-maio-2001-339775-anexo3-pe.doc` (SHA-256 `d73ba62015f48edb618b96e5de7354ade0702f9229c149cb46201735da246f73`, snapshot `provas/mps-pre-ec32/anexos-camara/br-federal-medida-provisoria-2001-05-31-2150-39.12.medidaprovisoria-2150-39-31-maio-2001-339775-anexo3-pe.doc.xz`)
+> - `https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2150-39-31-maio-2001-339775-anexo4-pe.doc` (SHA-256 `89a0cd4f7af49c295b60f34468d45e9ff06d1c5cc4a846267db6ead372c0b277`, snapshot `provas/mps-pre-ec32/anexos-camara/br-federal-medida-provisoria-2001-05-31-2150-39.13.medidaprovisoria-2150-39-31-maio-2001-339775-anexo4-pe.doc.xz`)
+> - `https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2150-39-31-maio-2001-339775-anexo5-pe.doc` (SHA-256 `1799fa1d26f31fc7b58a3f5bcb561f8fbd0ca083f09d4b0736f80008f2f6c964`, snapshot `provas/mps-pre-ec32/anexos-camara/br-federal-medida-provisoria-2001-05-31-2150-39.14.medidaprovisoria-2150-39-31-maio-2001-339775-anexo5-pe.doc.xz`)
+> - `https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2150-39-31-maio-2001-339775-anexo6-pe.doc` (SHA-256 `31b7d4aeaf2485ca3d6bfe8fa45ebe322364e49f7f9db0ed24c6d1ac9af124a8`, snapshot `provas/mps-pre-ec32/anexos-camara/br-federal-medida-provisoria-2001-05-31-2150-39.15.medidaprovisoria-2150-39-31-maio-2001-339775-anexo6-pe.doc.xz`)
+> - `https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2150-39-31-maio-2001-339775-anexo7-pe.doc` (SHA-256 `b200ae1413150ebe3e7cc9a648fe5977e6e7924832bfa6943e8eab3b597c31aa`, snapshot `provas/mps-pre-ec32/anexos-camara/br-federal-medida-provisoria-2001-05-31-2150-39.16.medidaprovisoria-2150-39-31-maio-2001-339775-anexo7-pe.doc.xz`)
+> - `https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2150-39-31-maio-2001-339775-anexo8-pe.doc` (SHA-256 `5afade6e166f83f387e781db08b174b5bf4b6c199c50a508f31a161b89e45d15`, snapshot `provas/mps-pre-ec32/anexos-camara/br-federal-medida-provisoria-2001-05-31-2150-39.17.medidaprovisoria-2150-39-31-maio-2001-339775-anexo8-pe.doc.xz`)
+> - `https://www2.camara.leg.br/legin/fed/medpro/2001/medidaprovisoria-2150-39-31-maio-2001-339775-anexo9-pe.doc` (SHA-256 `2573b200ba23c93e5e764a5518887fc905d4b2d718698dab9728f80add969d9e`, snapshot `provas/mps-pre-ec32/anexos-camara/br-federal-medida-provisoria-2001-05-31-2150-39.18.medidaprovisoria-2150-39-31-maio-2001-339775-anexo9-pe.doc.xz`)
+>
+> Conversão/efeitos somente com evidência documentada; filtros #70 / rastreador #83.
+
+<!-- nota-edicao:fim -->
+
+# MEDIDA PROVISÓRIA Nº 2.150‑39, DE 31 DE MAIO DE 2001
+
+Dispõe sobre a criação, reestruturação e organização de carreiras, cargos e funções comissionadas técnicas no âmbito da Administração Pública Federal direta, autárquica e fundacional, e dá outras providências.
+
+O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da Constituição, adota a seguinte Medida Provisória, com força de lei:
+
+Art. 1º Esta Medida Provisória dispõe sobre a criação das Carreiras de Procurador Federal e de Fiscal Federal Agropecuário, reestrutura e organiza as seguintes carreiras e cargos:
+
+I ‑ Analista de Finanças e Controle e Técnico de Finanças e Controle;
+
+II ‑ Analista de Planejamento e Orçamento e Técnico de Planejamento e Orçamento;
+
+Ill ‑ Analista de Comércio Exterior;
+
+IV ‑ Especialista em Políticas Públicas e Gestão Governamental;
+
+V ‑ Técnico de Planejamento e Pesquisa e demais cargos de nível superior e de nível intermediário do Instituto de Pesquisa Econômica Aplicada ‑ IPEA;
+
+VI ‑ Técnico de Planejamento P‑1501 do Grupo P‑1500;
+
+VII ‑ Analista, Procurador e Técnico do Banco Central do Brasil;
+
+VIII ‑ Inspetor e Analista da Comissão de Valores Mobiliários ‑ CVM;
+
+IX ‑ Analista Técnico da Superintendência de Seguros Privados ‑ SUSEP;
+
+X ‑ Carreira de Pesquisa em Ciência e Tecnologia;
+
+XI ‑ Carreira de Desenvolvimento Tecnológico;
+
+XII ‑ Carreira de Gestão, Planejamento e Infra-Estrutura em Ciência e Tecnologia; e
+
+XIII ‑ Técnicos‑Administrativos das Instituições Federais de Ensino vinculadas ao Ministério da Educação.
+
+Art. 2º As carreiras e os cargos a que se referem o art. 1º são agrupados em classes ou categorias e padrões, na forma dos Anexos I, II e III.
+
+Art. 3° O ingresso nos cargos de que trata esta Medida Provisória far‑se‑á no padrão inicial da classe ou categoria inicial do respectivo cargo, mediante concurso público de provas ou de provas e títulos, exigindo‑se curso superior ou médio, ou equivalente, concluído, conforme o nível do cargo, observados os requisitos fixados na legislação pertinente.
+
+Parágrafo único. O concurso referido no caput poderá ser realizado por áreas de especialização, organizado em uma ou mais fases, incluindo, se for o caso, curso de formação, conforme dispuser o edital de abertura do certame, observada a legislação pertinente.
+
+Art. 4º O desenvolvimento do servidor nas carreiras e nos cargos de que tratam os arts. 1º e 55 desta Medida Provisória ocorrerá mediante progressão funcional e promoção.
+
+§ 1º Para fins desta Medida Provisória, progressão é a passagem do servidor para o padrão de vencimento imediatamente superior dentro de uma mesma classe ou categoria, e promoção, a passagem do servidor do último padrão de uma classe ou categoria para o primeiro padrão da classe ou categoria imediatamente superior.
+
+§ 2º A progressão funcional e a promoção observarão os requisitos fixados em regulamento.
+
+§ 3º O servidor em estágio probatório será objeto de avaliação específica, ao final da qual, se confirmado no cargo, obterá a progressão para o padrão imediatamente superior da classe ou categoria inicial, vedando‑se‑lhe, durante esse período, a progressão funcional.
+
+Art. 5º É de quarenta horas semanais a jornada de trabalho dos integrantes dos cargos e carreiras a que se refere esta Medida Provisória, ressalvados os casos amparados por legislação específica.
+
+CARREIRAS E CARGOS DO GRUPO GESTÃO
+
+Art. 6º Os cargos efetivos de que tratam os incisos I a VI do art. 1º da Lei nº 9.625, de 7 de abril de 1998, e o inciso II do art. 1º da Lei nº 9.620, de 2 de abril de 1998, reestruturados na forma do Anexo I, têm a sua correlação de cargos estabelecida no Anexo XVII.
+
+Parágrafo único. Os cargos vagos de Técnico de Planejamento e Orçamento existentes em 30 de junho de 2000, e os que vagarem a partir dessa data, ficam automaticamente extintos.
+
+Art. 7º Incumbe aos ocupantes dos cargos de que trata o art. 6º o exercício das atribuições previstas em leis e regulamentos específicos, em especial o disposto nos arts. 21 a 24 da Lei nº 9.625, de 1998, e no inciso II do art. 1º da Lei nº 9.620, de 1998.
+
+Art. 8º Ficam extintas a Gratificação de Desempenho e Produtividade ‑ GDP, de que trata o art. 1º da Lei n° 9.625, de 1998, e a Gratificação de Planejamento, Orçamento e de Finanças e Controle, de que trata o art. 7º da Lei nº 8.538, de 21 de dezembro de 1992, e instituída a Gratificação de Desempenho de Atividade do Ciclo de Gestão ‑ GCG, devida aos integrantes dos cargos referidos no art. 6º desta Medida Provisória, no percentual de até cinqüenta por cento, incidente sobre o vencimento básico do servidor, conforme valores estabelecidos nos Anexos VII e VIII.
+
+§ 1º A GCG será atribuída em função do efetivo desempenho do servidor, bem assim de metas de desempenho institucional fixadas, na forma estabelecida em ato do Poder Executivo.
+
+§ 2º Até vinte pontos percentuais da GCG serão atribuídos em função do alcance das metas institucionais.
+
+Art. 9° A Gratificação de Desempenho e Eficiência ‑ GDE, de que trata o art. 10 da Lei n° 9.620, de 1998, não será devida aos ocupantes do cargo de Analista de Comércio Exterior, a partir de 30 de junho de 2000.
+
+Art. 10. Os critérios de que tratam os arts. 1º , 7º e 8º da Lei nº 9.625, de 1998, e os arts. 16 e 17 da Lei nº 9.620, de 1998, aplicam‑se à GCG.
+
+Parágrafo único. Os ocupantes dos cargos efetivos da Carreira de Finanças e Controle, em exercício na Secretaria do Patrimônio da União, em 31 de dezembro de 1998, fazem jus à GCG.
+
+CARREIRAS E CARGOS DA CVM E DA SUSEP
+
+Art. 11. Os cargos efetivos de Inspetor e Analista da Comissão de Valores Mobiliários ‑ CVM e de Analista Técnico da Superintendência de Seguros Privados ‑SUSEP, de que tratam o Voto do Conselho Monetário Nacional ‑ CMN nº 401, de 28 de janeiro de 1987, e a Resolução do Conselho Nacional de Seguros Privados ‑CNSP nº 7, de 3 de outubro de 1988, reestruturados na forma do Anexo I, têm sua correlação de cargos estabelecida no Anexo XVII.
+
+Art. 12. Incumbe aos ocupantes dos cargos de que trata o art. 11 o exercício das atribuições previstas em leis e regulamentos específicos, em especial o disposto no art. 1º da Lei n° 9.015, de 30 de março de 1995.
+
+Art. 13. Ficam instituídas a Gratificação de Desempenho de Atividade de Auditoria de Valores Mobiliários - GDCVM, devida aos ocupantes dos cargos de Inspetor e Analista da CVM, e a Gratificação de Desempenho de Atividade de Auditoria de Seguros Privados ‑ GDSUSEP, devida aos ocupantes dos cargos de Analista Técnico da SUSEP, no percentual de até cinqüenta por cento, incidente sobre o vencimento básico do servidor, conforme valores estabelecidos no Anexo VII.
+
+§ 1º A GDCVM e a GDSUSEP serão atribuídas em função do efetivo desempenho do servidor, bem assim de metas de desempenho institucional fixadas, na forma estabelecida em ato do Poder Executivo.
+
+§ 2º Até vinte pontos percentuais das gratificações de que trata o caput deste artigo serão atribuídos em função do alcance das metas institucionais.
+
+Art. 14. Os ocupantes dos cargos de Inspetor e Analista da CVM e de Analista Técnico da SUSEP não fazem jus à percepção da Retribuição Variável da Comissão de Valores Mobiliários e da Retribuição Variável da Superintendência de Seguros Privados, respectivamente, de que trata a Lei nº 9.015, de 1995.
+
+Art. 15. A GDCVM e a GDSUSEP serão integralmente pagas, respectivamente, com os recursos arrecadados na forma das Leis nº 7.940 e nº 7.944, ambas de 20 de dezembro de 1989, que instituíram a Taxa de Fiscalização do Mercado de Valores Mobiliários e a Taxa de Fiscalização do Mercado de Seguros.
+
+Art. 16. Os servidores ocupantes dos cargos a que se refere o art. 14 desta Medida Provisória, quando cedidos, não perceberão a GDCVM e a GDSUSEP.
+
+CARREIRAS DA ÁREA DE CIÊNCIA E TECNOLOGIA
+
+Art. 17. Os cargos efetivos da Carreira de Pesquisa em Ciência e Tecnologia, da Carreira de Desenvolvimento Tecnológico e da Carreira de Gestão, Planejamento e Infra‑Estrutura em Ciência e Tecnologia, de que trata a Lei nº 8.691, de 28 de julho de 1993, reestruturados na forma do Anexo II, têm sua correlação estabelecida no Anexo V.
+
+Parágrafo único. Os vencimentos dos servidores de que trata este artigo corresponderão àqueles fixados no Anexo IX, para os respectivos níveis, classes e padrões.
+
+Art. 18. Ficam extintas a Gratificação de Atividades em Ciência e Tecnologia ‑ GCT, de que trata o art. 22 da Lei nº 8.691, de 1993, e a Gratificação de Desempenho de Atividade de Ciência e Tecnologia ‑ GDCT, de que tratam a Lei nº 9.638, de 20 de maio de 1998, e a Lei nº 9.647, de 26 de maio de 1998.
+
+Art. 19. Fica instituída a Gratificação de Desempenho de Atividade de Ciência e Tecnologia ‑ GDACT, devida aos ocupantes dos cargos efetivos integrantes das carreiras de que trata o art. 17 desta Medida Provisória.
+
+Parágrafo único. Fazem jus à gratificação de que trata o caput os empregados de nível superior mencionados no art. 27 da Lei nº 8.691 de 28 de julho de 1993.
+
+Art. 20. O valor da GDACT será de até trinta e cinco por cento para os cargos de nível superior, de até quinze por cento para os cargos de nível intermediário e de até cinco por cento para os cargos de nível auxiliar, incidentes sobre o vencimento básico do servidor.
+
+§ 1º Os ocupantes dos cargos de que trata o art. 17 somente farão jus à GDACT se em exercício de atividades inerentes às atribuições das respectivas carreiras nos órgãos e nas entidades a que se refere o § 1º do art. 1º da Lei nº 8.691, de 1993, e nas Organizações Sociais conforme disposto na Lei nº 9.637, de 15 de maio de 1998.
+
+§ 2º A GDACT será atribuída em função do efetivo desempenho do servidor e do alcance das metas de desempenho institucional fixadas em ato do dirigente máximo do órgão ou da entidade.
+
+§ 3º Os critérios e procedimentos de atribuição da GDACT serão estabelecidos em ato conjunto dos titulares dos Ministérios aos quais estejam vinculados os órgãos e as entidades de que trata o § 1º deste artigo e do Ministro de Estado do Planejamento, Orçamento e Gestão.
+
+Art. 21. A parcela da GDACT atribuída em função das metas institucionais será calculada observando‑se os seguintes limites:
+
+I ‑ até quatorze pontos percentuais, para os cargos de nível superior;
+
+lI ‑ até seis pontos percentuais, para os cargos de nível intermediário; e
+
+III ‑ até dois pontos percentuais para os cargos de nível auxiliar.
+
+Art. 22.0 titular de cargo efetivo das carreiras e dos cargos referidos no art. 17, quando investido em cargo em comissão de Natureza Especial, DAS 6 e DAS 5, ou equivalentes, fará jus ao valor máximo da GDACT.
+
+Art. 23. O titular de cargo efetivo das carreiras e dos cargos referidos no art. 17 que não se encontre em exercício nos órgãos e nas entidades a que se refere o § 1º do art. 1º da Lei n° 8.691, de 1993, excepcionalmente fará jus à GDACT nas seguintes situações:
+
+I ‑ quando cedido para a Presidência ou Vice-Presidência da República, perceberá a GDACT calculada com base nas regras aplicáveis aos órgãos e às entidades cedentes; e
+
+II ‑ quando cedido para órgãos ou entidades do Governo Federal, distintos dos indicados no § 1º do art. 1º da Lei nº 8.691, de 1993, e no inciso I, da seguinte forma:
+
+a) o servidor investido em cargo em comissão de Natureza Especial, DAS 6, DAS 5, ou equivalentes, perceberá a GDACT em valor calculado com base no disposto no art. 22; e
+
+b) o servidor investido em cargo em comissão DAS 4, ou equivalente, perceberá a GDACT no valor de setenta e cinco por cento do valor máximo da GDACT.
+
+Art. 24. O caput do art. 21 da Lei nº 8.691, de 1993, passa a vigorar com a seguinte redação:
+
+"Art. 21. Os servidores de que trata esta Lei, portadores de títulos de Doutor, Mestre e certificado de aperfeiçoamento ou de especialização farão jus a um adicional de titulação, no percentual de setenta por cento, trinta e cinco por cento e dezoito por cento, respectivamente, incidente sobre o vencimento básico." (NR)
+
+CARREIRA DE FISCAL FEDERAL AGROPECUÁRIO
+
+Art. 25. Fica criada a Carreira de Fiscal Federal Agropecuário, composta de cargos de igual denominação, no Quadro Geral de Pessoal do Ministério da Agricultura e do Abastecimento, regidos pela Lei nº 8.112, de 11 de dezembro de 1990.
+
+Art. 26. A Carreira de Fiscal Federal Agropecuário, estruturada na forma do Anexo I, tem a sua correlação estabelecida no Anexo IV.
+
+Art. 27. Os ocupantes do cargo de Fiscal Federal Agropecuário têm por atribuições assegurar, em todo o território nacional:
+
+I ‑ a sanidade das populações vegetais, seus produtos e subprodutos;
+
+II ‑ a saúde dos rebanhos animais, seus produtos e subprodutos;
+
+III ‑ a idoneidade dos insumos e dos serviços utilizados na agropecuária;
+
+IV ‑ a identidade e a segurança higiênico‑sanitária e tecnológica dos produtos agropecuários finais destinados aos consumidores;
+
+V ‑ a promoção, o fomento, a produção e as políticas agropecuárias; e
+
+VI ‑ os acordos, os tratados e as convenções internacionais dos quais o Brasil seja signatário.
+
+Parágrafo único. O Poder Executivo, observado o disposto neste artigo, disciplinará as atribuições dos cargos de Fiscal Federal Agropecuário em conformidade com as especificidades e as peculiaridades desenvolvidas por área de especialização funcional.
+
+Art. 28. São transformados em cargos de Fiscal Federal Agropecuário, os atuais cargos efetivos da Carreira de Fiscal de Defesa Agropecuária e de Médico Veterinário ‑ NS 910, cujos ocupantes estejam em efetivo exercício nas atividades de controle, inspeção, fiscalização e defesa agropecuária, do Quadro de Pessoal do Ministério da Agricultura e do Abastecimento, na forma do Anexo IV.
+
+§ 1° Serão enquadrados na Carreira de Fiscal Federal Agropecuário os atuais ocupantes dos cargos mencionados no caput deste artigo, desde que sua investidura haja observado as pertinentes normas constitucionais e ordinárias anteriores a 5 de outubro de 1988, e, se posterior a esta data, tenha decorrido de aprovação em concurso público.
+
+§ 2° Os atuais ocupantes do cargo de Médico Veterinário ‑ NS 910 que optarem por permanecer na situação atual deverão fazê‑lo, de forma irretratável, até 31 de julho de 2000, ficando, neste caso, em quadro em extinção.
+
+§ 3º Ficam criados duzentos e cinqüenta cargos de Fiscal Federal Agropecuário na Carreira de Fiscal Federal Agropecuário, no Quadro Geral de Pessoal do Ministério da Agricultura e do Abastecimento.
+
+Art. 29. Aos ocupantes do cargo de Fiscal Federal Agropecuário, não se aplica a jornada de trabalho a que se refere o § 2° e o caput do art. 1º da Lei n° 9.436, de 5 de fevereiro, de 1997, não mais se admitindo a percepção de dois vencimentos básicos.
+
+Art. 30. Fica instituída a Gratificação de Desempenho de Atividade de Fiscalização Agropecuária ‑ GDAFA, devida aos ocupantes dos cargos da Carreira de Fiscal Federal Agropecuário, quando em exercício de atividades inerentes às atribuições da respectiva carreira no Ministério da Agricultura e do Abastecimento, no percentual de até cinqüenta por cento incidente sobre o vencimento básico do servidor.
+
+Parágrafo único. A GDAFA será atribuída em função do efetivo desempenho do servidor, bem como do desempenho institucional do órgão, na forma estabelecida em ato do Poder Executivo.
+
+Art. 31. Os valores dos vencimentos dos cargos que compõem a Carreira de Fiscal Federal Agropecuário são os constantes do Anexo X.
+
+Art. 32. O titular de cargo efetivo da carreira de que trata o art. 25 desta Medida Provisória, quando investido em cargo de Natureza Especial ou DAS 6 e DAS 5, ou equivalentes, em órgãos ou entidades do Governo Federal, fará jus à respectiva gratificação calculada com base no limite máximo.
+
+Art. 33. O integrante da Carreira de Fiscal Federal Agropecuário, que não se encontre na situação prevista no art. 30 desta Medida Provisória, somente fará jus à GDAFA:
+
+I ‑ quando cedido para a Presidência ou Vice-Presidência da República, perceberá a respectiva gratificação calculada como se estivesse em exercício nos órgãos ou nas entidades cedentes; ou
+
+II ‑ quando cedido para outros órgãos ou entidades do Governo Federal, se investido em cargo em comissão DAS 4, ou equivalente, perceberá a respectiva gratificação em valor correspondente a trinta por cento do vencimento básico.
+
+Art. 34. Não são devidas aos ocupantes da Carreira de Fiscal Federal Agropecuário a Gratificação a que se refere o art. 7° da Lei nº 8.460, de 17 de setembro de 1992, a Gratificação de Desempenho de Atividade de Defesa Agropecuária, a que se referem as Leis nºs 9.620, de 2 de abril de 1998, e 9.641, de 25 de maio de 1998, e a Gratificação de Desempenho da Atividade de Fiscalização, a que se refere a Lei n° 9.775, de 21 de dezembro de 1998.
+
+CARREIRAS E CARGOS DA ÁREA JURÍDICA
+
+Art. 35. Fica criada a Carreira de Procurador Federal no âmbito da Administração Pública Federal, nas respectivas autarquias e fundações, composta de cargos de igual denominação, regidos pela Lei n° 8.112, de 1990, com a estrutura de cargo constante do Anexo III.
+
+Art. 36. O ingresso nos cargos de que trata o art. 35 far‑se‑á mediante concurso público, exigindo‑se diploma de Bacharel em Direito, observados os requisitos fixados na legislação pertinente.
+
+Parágrafo único. Os concursos serão disciplinados pelo Advogado‑Geral da União, presente, nas bancas examinadoras respectivas, a Ordem dos Advogados do Brasil.
+
+Art. 37. São atribuições dos titulares do cargo de Procurador Federal:
+
+I ‑ a representação judicial e extrajudicial da União, quanto às suas atividades descentralizadas a cargo de autarquias e fundações públicas, bem como a representação judicial e extrajudicial dessas entidades;
+
+II ‑ as atividades de consultoria e assessoramento jurídicos à União, em suas referidas atividades descentralizadas, assim como às autarquias e às fundações federais;
+
+III ‑ a apuração da liquidez e certeza dos créditos, de qualquer natureza, inerentes às suas atividades, inscrevendo-os em dívida ativa, para fins de cobrança amigável ou judicial; e
+
+IV ‑ a atividade de assistir a autoridade assessorada no controle interno da legalidade dos atos a serem por ela praticados ou já efetivados.
+
+§ 1º Os membros da Carreira de Procurador Federal são lotados e distribuídos pelo Advogado‑Geral da União.
+
+§ 2º A lotação de Procurador Federal nas autarquias e fundações públicas é proposta pelos titulares destas.
+
+Art. 38. Os integrantes da Carreira de Procurador Federal têm os direitos e deveres que lhes prevê a Lei n° 8.112, de 1990, e sujeitam‑se às proibições e aos impedimentos estabelecidos nesta Medida Provisória.
+
+§ 1º Ao Procurador Federal é proibido:
+
+I ‑ exercer a advocacia fora das atribuições do respectivo cargo;
+
+II ‑ contrariar súmula, parecer normativo ou orientação técnica, adotados pelo Advogado‑Geral da União;
+
+III ‑ manifestar‑se, por qualquer meio de divulgação, sobre assunto conexo às suas atribuições, salvo ordem, ou autorização expressa, do Advogado‑Geral da União;
+
+IV ‑ exercer suas atribuições em processo, judicial ou administrativo, em que seja parte ou interessado, ou haja atuado como advogado de qualquer das partes, ou no qual seja interessado parente consangüíneo ou afim, em linha reta ou colateral, até o segundo grau, bem como cônjuge ou companheiro, bem assim nas hipóteses da legislação, inclusive processual; e
+
+V ‑ participar de comissão ou banca de concurso e intervir no seu julgamento, quando concorrer parente consangüíneo ou afim, em linha reta ou colateral, até o segundo grau, bem como cônjuge ou companheiro.
+
+§ 2º Devem, os Procuradores Federais, dar‑se por impedidos nas hipóteses em que tenham proferido manifestação favorável à pretensão deduzida em juízo pela parte adversa e naquelas da legislação processual, cumprindo‑lhes comunicar, de pronto, o seu impedimento ao respectivo superior hierárquico, visando à designação de substituto.
+
+Art. 39. São transformados em cargos de Procurador Federal, os seguintes cargos efetivos, de autarquias e fundações federais:
+
+I ‑ Procurador Autárquico;
+
+II ‑ Procurador;
+
+III ‑ Advogado;
+
+IV ‑ Assistente Jurídico; e
+
+V ‑ Procurador e Advogado da Superintendência de Seguros Privados e da Comissão de Valores Mobiliários.
+
+Parágrafo único. O disposto neste artigo não se aplica ao Procurador do Banco Central do Brasil.
+
+Art. 40. São enquadrados na Carreira de Procurador Federal os titulares dos cargos de que trata o art. 39, cuja investidura nos respectivos cargos haja observado as pertinentes normas constitucionais e ordinárias anteriores a 5 de outubro de 1988, e, se posterior a essa data, tenha decorrido de aprovação em concurso público.
+
+§ 1º O enquadramento deve observar a correlação estabelecida no Anexo VI.
+
+§ 2º À Advocacia‑Geral da União incumbe verificar, caso a caso, a regularidade da aplicação deste artigo, quanto aos enquadramentos efetivados.
+
+Art. 41. Fica instituída a Gratificação de Desempenho de Atividade Jurídica – GDAJ, devida aos integrantes das Carreiras de Advogado da União e de Assistente Jurídico da Advocacia‑Geral da União, de Defensor Público da União e de Procurador Federal, no percentual de até trinta por cento, incidente sobre o vencimento básico do servidor, quando em exercício nas unidades jurídicas dos órgãos e das entidades da Administração Pública Federal direta, autárquica e fundacional.
+
+§ 1º A GDAJ será atribuída em função do efetivo desempenho do servidor e dos resultados alcançados pelos órgãos jurídicos dos órgãos e das entidades, na forma estabelecida em ato do Advogado‑Geral da União e, no caso do Defensor Público da União, em ato do Defensor‑Geral da União.
+
+§ 2º A Gratificação Temporária de que trata o art. 17 da Lei n° 9.028, de 12 de abril de 1995, atribuída exclusivamente a outros servidores, mantidos os fatores estabelecidos no Anexo III da referida Lei, será paga nos seguintes valores:
+
+I ‑ GT‑I, R$ 471,87 (quatrocentos e setenta e um reais e oitenta e sete centavos);
+
+II ‑ GT ‑ II, R$ 340,79 (trezentos e quarenta reais e setenta e nove centavos);
+
+III ‑ GT ‑ III, R$ 209,72 (duzentos e nove reais e setenta e dois centavos); e
+
+IV ‑ GT‑IV, R$ 157,29 (cento e cinqüenta e sete reais e vinte e nove centavos).
+
+Art. 42. O titular de cargo efetivo das carreiras de que trata o art. 41, quando investido em cargo de Natureza Especial ou em comissão dos níveis DAS 6 e DAS 5, ou equivalentes, em órgãos ou entidades do Governo Federal, fará jus à GDAJ calculada com base no limite máximo.
+
+Parágrafo único. O beneficiário da GDAJ, quando em exercício nas unidades jurídicas dos órgãos e das entidades da Administração Pública Federal direta, autárquica e fundacional, se investido em cargo em comissão do nível DAS 4, perceberá a referida Gratificação em valor não inferior a vinte por cento do respectivo vencimento básico.
+
+Art. 43. O titular de cargo efetivo das carreiras referidas no art. 41, que não se encontre nas situações previstas nos arts. 41 e 42, somente fará jus à GDAJ, nos termos deste artigo:
+
+I ‑ quando cedido para a Presidência ou Vice-Presidência da República, perceberá a respectiva gratificação calculada com base nas mesmas regras válidas como se estivesse em exercício nos órgãos ou nas entidades cedentes; e
+
+II ‑ quando cedido para outros órgãos ou entidades do Governo Federal, se investido em cargo em Comissão DAS 4, ou equivalente, perceberá a respectiva gratificação em valor correspondente a vinte por cento do vencimento básico.
+
+Art. 44. Os valores do vencimento dos cargos de Procurador Federal e dos cargos das Carreiras de Advogado da União e de Assistente Jurídico da Advocacia‑Geral da União e de Defensor Público da União são os constantes do Anexo XI.
+
+Parágrafo único. Aplica‑se aos cargos das Carreiras de Advogado da União e de Assistente Jurídico da Advocacia-Geral da União e de Defensor Público da União a correlação estabelecida no Anexo XIV.
+
+Art. 45. Não serão devidas as seguintes vantagens aos ocupantes dos cargos de que trata o art. 44, inclusive àqueles colocados em quadros suplementares:
+
+I ‑ Representação Mensal de que tratam o Decreto‑Lei nº 2.333, de 11 de junho de 1987, e Decreto‑Lei n° 2.371, de 18 de novembro de 1987;
+
+II ‑ Gratificação de que trata o art. 7º da Lei nº 8.460, de 1992;
+
+III ‑ Gratificação de Fiscalização e Arrecadação ‑ GEFA de que trata a Lei nº 8.538, de 21 de dezembro de 1992;
+
+IV ‑ Retribuição Variável da Comissão de Valores Mobiliários ‑ RVCVM de que trata a Lei nº 9.015, de 1995;
+
+V ‑ Retribuição Variável da Superintendência de Seguros Privados ‑ RVSUSEP de que trata a Lei n° 9.015, de 1995;
+
+VI ‑ Gratificação Temporária ‑ GT de que tratam as Leis nos 9.028, de 1995, e 9.651, de 1998;
+
+VII ‑ Gratificação Provisória – GP de que trata a Lei nº 9.651, de 1998;
+
+VIII ‑ Gratificação de Desempenho de Função Essencial à Justiça ‑ GFJ de que trata a Lei nº 9.651, de 1998; e
+
+IX ‑ Representação Mensal de que trata a Lei n° 9.366, de 16 de dezembro de 1996.
+
+Art. 46. Os cargos efetivos da Administração Federal direta, autárquica e fundacional, privativos de Bacharel em Direito, que não foram transpostos pela Lei nº 9.028, de 1995, nem por esta Medida Provisória, para as Carreiras de Assistente Jurídico e de Procurador Federal, comporão quadros suplementares em extinção.
+
+§ 1º O quadro suplementar relativo aos servidores da Administração Federal direta de que trata o caput inclui-se na Advocacia‑Geral da União.
+
+§ 2º O disposto neste artigo não se aplica aos integrantes da Carreira Policial Federal, aos cargos de Procurador do Banco Central do Brasil, Procurador da Procuradoria Especial da Marinha e Juiz do Tribunal Marítimo.
+
+Art. 47. Os cargos de Advogado da União e de Assistente Jurídico da Advocacia-Geral da União serão distribuídos pelas três categorias das respectivas carreiras, mediante ato do Advogado‑Geral da União.
+
+Art. 48. Aplicam‑se aos Procuradores da Procuradoria Especial da Marinha, de que trata a Lei nº 7.642, de 18 de dezembro de 1987, e aos ocupantes de cargos integrantes dos quadros suplementares de que trata o art. 46 a tabela de vencimento constante do Anexo XI, observada a correlação do Anexo VI e a gratificação de que trata o art. 41, observado o disciplinamento estabelecido por esta Medida Provisória.
+
+Parágrafo único. Os ocupantes do cargo de Juiz do Tribunal Marítimo farão jus, a título de vencimentos, ao valor correspondente ao padrão III da categoria especial da tabela constante do Anexo XI e à gratificação de que trata o art. 41, conforme disposto nesta Medida Provisória.
+
+Art. 49. O exercício, por Procurador da República, do direito de opção irretratável por Carreira da Advocacia-Geral da União, facultado pelo § 2º do art. 29 do Ato das Disposições Constitucionais Transitórias, poderá ser manifestado ao Advogado-Geral da União, no prazo de quinze dias estabelecido no art. 61 da Lei Complementar nº 73, de 10 de fevereiro de 1993, contado da publicação da lei de conversão desta Medida Provisória, e comunicado ao Procurador‑Geral da República.
+
+§ 1º Ficam assegurados ao optante o ingresso em cargo compatível da Carreira da Advocacia‑Geral da União e a percepção dos vencimentos e vantagens do cargo antes ocupado, salvo opção pela retribuição do novo cargo, respeitados o tempo de efetivo serviço e o direito a promoções, assim como as garantias e prerrogativas próprias a membros do Ministério Público Federal, no que não conflitar com a natureza da Advocacia‑Geral da União.
+
+§ 2º A opção de que trata este artigo implica a automática criação de cargo na carreira escolhida pelo optante, o qual integrará Quadro Especial, e será extinto quando vagar.
+
+Art. 50. O Advogado‑Geral da União editará os atos necessários ao cumprimento do disposto nesta Medida Provisória, relativamente aos cargos de Advogado da União e de Assistente Jurídico da Advocacia‑Geral da União e àqueles dos integrantes de seus órgãos vinculados.
+
+CARREIRAS E CARGOS DO BANCO CENTRAL DO BRASIL
+
+Art. 51. A Lei nº 9.650, de 27 de maio de 1998, passa a vigorar com as seguintes alterações:
+
+"Art. 3º São atribuições dos titulares do cargo de Analista do Banco Central do Brasil:
+
+I ‑ formulação, implementação, acompanhamento e avaliação de planos, programas e projetos relativos a:
+
+a) gestão das reservas internacionais;
+
+b) dívida pública interna e externa federal, estadual e municipal;
+
+c) política monetária, cambial e creditícia;
+
+d) emissão de moeda e papel‑moeda;
+
+e) saneamento do meio circulante; e
+
+f) gestão de instituições financeiras sob regimes especiais;
+
+II ‑ gestão do sistema de metas para a inflação;
+
+III ‑ regulamentação e fiscalização do Sistema Financeiro, compreendendo, entre outros pontos:
+
+a) o funcionamento do Sistema Financeiro;
+
+b) o acesso ao Sistema Financeiro;
+
+c) a supervisão direta de instituições financeiras;
+
+d) o monitoramento indireto de instituições financeiras, conglomerados, macrossegmentos e mercados; e
+
+e) a prevenção e o combate a ilícitos cambiais e financeiros;
+
+IV ‑ estudos e pesquisas relacionados a:
+
+a) políticas econômicas adotadas;
+
+b) acompanhamento do balanço de pagamentos;
+
+c) desempenho das instituições financeiras autorizadas a funcionar no País; e
+
+d) regulamentação de matérias de interesse do Banco Central do Brasil;
+
+V ‑ atuação em todas as atividades vinculadas às competências legais do Banco Central do Brasil;
+
+VI ‑ orientação aos agentes do Sistema Financeiro e ao público em geral sobre matérias de competência da Autarquia, mediante solução de assuntos objeto de consultas;
+
+VII ‑ representação da Autarquia junto a órgãos governamentais e instituições internacionais; e
+
+VIII ‑ atividades de natureza organizacional e outras a elas relacionadas." (NR)
+
+"Art. 4º São atribuições dos titulares do cargo de Procurador do Banco Central do Brasil:
+
+I ‑ a representação judicial e extrajudicial do Banco Central do Brasil;
+
+II ‑ as atividades de consultoria e assessoramento jurídicos ao Banco Central do Brasil;
+
+III ‑ a apuração da liquidez e certeza dos créditos, de qualquer natureza, inerentes às suas atividades, inscrevendo‑os em dívida ativa, para fins de cobrança amigável ou judicial; e
+
+IV ‑ assistir aos administradores do Banco Central do Brasil no controle interno da legalidade dos atos a serem por eles praticados ou já efetivados." (NR)
+
+‘’Art. 7º..........................................................................................................................
+
+§ 1º Progressão funcional é a passagem do servidor para o padrão de vencimento imediatamente superior dentro de uma mesma classe, observado o interstício de setecentos e trinta dias, redutível, mediante processo de avaliação de desempenho em até cento e oitenta e dois dias.
+
+..................................................................................................................................... " (NR)
+
+"Art. 11. É criada a Gratificação de Atividade do Banco Central do Brasil ‑ GABC, observados os seguintes critérios e percentuais:
+
+I ‑ cargos de Analista do Banco Central do Brasil e de Procurador do Banco Central do Brasil, incluídos nas classes D, C e B: setenta e cinco por cento, incidentes sobre o vencimento básico do padrão onde estiver posicionado o servidor;
+
+II ‑ cargos de Analista do Banco Central do Brasil e de Procurador do Banco Central do Brasil, incluídos nos padrões I, II e III da classe A: sessenta e cinco por cento, incidentes sobre o vencimento básico do padrão onde estiver posicionado o servidor;
+
+lIl ‑ cargos de Analista do Banco Central do Brasil e de Procurador do Banco Central do Brasil, incluídos no padrão IV da classe A: cinqüenta e cinco por cento, incidentes sobre o vencimento básico do padrão onde estiver posicionado o servidor; e
+
+IV ‑ cargo de Técnico do Banco Central do Brasil: noventa por cento, incidentes sobre o vencimento básico do padrão onde estiver posicionado o servidor.
+
+Parágrafo único. Os percentuais a que se refere o caput deste artigo poderão ser acrescidos de até dez pontos percentuais, nas condições a serem fixadas pela Diretoria do BACEN, enquanto estiver o servidor em exercício de atividades:
+
+I ‑ externas de fiscalização do Sistema Financeiro Nacional, inclusive de câmbio;
+
+II ‑ que importem risco de quebra de caixa; e
+
+III ‑ que requeiram profissionalização específica." (NR)
+
+"Art. 15. ........................................................................................................................
+
+§ 1º A contribuição mensal do servidor ativo, inativo ou do pensionista será de um por cento a três por cento de sua remuneração, provento ou pensão, e a contribuição relativa aos dependentes não presumidos será de um por cento a cinco por cento da remuneração ou provento do servidor contribuinte.
+
+..................................................................................................................................... " (NR)
+
+"Art. 17‑A. Além das proibições previstas no art. 17, ao Procurador do Banco Central do Brasil também é proibido:
+
+I ‑ exercer a advocacia fora das atribuições do respectivo cargo;
+
+II ‑ contrariar súmula, parecer normativo ou orientação técnica, adotadas pelo Procurador‑Geral do Banco Central do Brasil ou pelo Advogado‑Geral da União;
+
+III ‑ manifestar‑se, por qualquer meio de divulgação, sobre assuntos conexos às suas atribuições, salvo ordem, ou autorização expressa da Diretoria do Banco Central do Brasil;
+
+IV ‑ exercer suas atribuições em processo, judicial ou administrativo, em que seja parte ou interessado, ou haja atuado como advogado de qualquer das partes, ou no qual seja interessado parente consangüíneo ou afim, em linha reta ou colateral, até o segundo grau, bem como cônjuge ou companheiro, bem assim nas hipóteses da legislação, inclusive processual; e
+
+V ‑ participar de comissão ou banca de concurso e intervir no seu julgamento, quando concorrer parente consangüíneo ou afim, em linha reta ou colateral, até o segundo grau, bem como cônjuge ou companheiro.
+
+Parágrafo único. Devem os Procuradores do Banco Central do Brasil dar‑se por impedidos nas hipóteses em que tenham proferido manifestação favorável à pretensão deduzida em juízo pela parte adversa e naquelas da legislação processual, cumprindo‑lhes comunicar, de pronto, o seu impedimento ao respectivo superior hierárquico, visando à designação de substituto." (NR)
+
+Art. 52. O Anexo II à Lei nº 9.650, de 1998, passa a vigorar na forma do Anexo XII a esta Medida Provisória.
+
+Art. 53. Os ocupantes dos cargos de Analista do Banco Central do Brasil da Carreira de Especialista do Banco Central do Brasil e de Procurador do Banco Central do Brasil da Carreira Jurídica do Banco Central do Brasil são enquadrados, a partir de 1º de agosto de 2000, na forma do Anexo XV a esta Medida Provisória.
+
+Art. 54. O ingresso nos cargos de Analista do Banco Central do Brasil da Carreira de Especialista do Banco Central do Brasil, e de Procurador do Banco Central do Brasil da Carreira Jurídica do Banco Central do Brasil dos aprovados em concurso, cujo edital tenha sido publicado até 29 de junho de 2000, dar‑se‑á, excepcionalmente, na classe D padrão III.
+
+PESSOAL TÉCNICO‑ADMINISTRATIVO DAS INSTITUIÇÕES FEDERAIS DE ENSINO
+
+Art. 55. Os cargos efetivos de que trata a Lei nº 7.596, de 10 de abril de 1987, ressalvados os atingidos pelas Leis nº 9.678, de 3 de julho de 1998, e 10.187, de 12 de fevereiro de 2001, e os integrantes da área jurídica abrangidos por esta Medida Provisória, são reestruturados na forma da alínea "a" do Anexo I e têm a sua correlação de cargos estabelecida no Anexo IV.
+
+Art. 56. Fica instituída a Gratificação de Desempenho de Atividade Técnico‑Administrativa Educacional - GDAE, devida aos ocupantes dos cargos Técnicos‑Administrativos das instituições federais de ensino, vinculadas ao Ministério da Educação, referidos no art. 55, no percentual de até duzentos por cento incidente sobre o vencimento básico do servidor.
+
+§ 1º A GDAE será atribuída em função do efetivo desempenho do servidor, bem como do desempenho institucional da instituição federal de ensino, na forma estabelecida em ato do Poder Executivo.
+
+§ 2º As avaliações de desempenho individual deverão ser feitas em escala de zero a cem pontos, sendo que o desvio padrão deverá ser maior ou igual a cinco e a média aritmética das avaliações individuais deverá ser menor ou igual a noventa pontos, considerando o conjunto das avaliações de cada instituição federal de ensino.
+
+Art. 57. Os valores dos vencimentos dos cargos referidos no art. 55 desta Medida Provisória são os constantes do Anexo XVIII.
+
+FUNÇÕES COMISSIONADAS TÉCNICAS
+
+Art. 58. Ficam criadas no Ministério do Planejamento, Orçamento e Gestão, para uso no âmbito do Poder Executivo Federal, oito mil setecentas e três Funções Comissionadas Técnicas - FCT, cujos níveis e valores são os constantes do Anexo XIII.
+
+§ 1º As Funções Comissionadas Técnicas destinam‑se exclusivamente a ocupantes de cargos efetivos, constantes do Anexo V da Lei nº 9.367, de 16 de dezembro de 1996, que não tenham sido estruturados em carreiras ou abrangidos pelo art. 1º desta Medida Provisória.
+
+§ 2º O servidor ou empregado, investido nas Funções Comissionadas a que se refere o caput deste artigo, receberá pelo exercício desta função, a título de parcela variável, valor equivalente à diferença entre a remuneração ou o salário recebido pelo cargo ou emprego público e o valor unitário total da função que exerce, conforme estabelecido no Anexo XIII.
+
+§ 3º Para fins de cálculo da parcela variável a que se refere o § 2º , será considerada como remuneração a definida no inciso III do art. 1º da Lei nº 8.852, de 4 de fevereiro de 1994.
+
+§ 4º O servidor ou empregado a que se refere o § 2º deste artigo poderá optar por receber, pelo exercício da Função Comissionada Técnica, parcela variável correspondente ao valor da opção, conforme estabelecido no Anexo XIII, obedecidos aos limites fixados pela Lei nº 8.852, de 1994.
+
+§ 5º As Funções Comissionadas Técnicas não são cumulativas com os cargos em comissão de Natureza Especial e do Grupo‑Direção e Assessoramento Superiores, de que trata a Lei nº 9.030, de 13 de abril de 1995, com as Funções Gratificadas, criadas pelo art. 26 da Lei nº 8.216, de 13 de agosto de 1991, com as Gratificações de Representação da Presidência da República e dos órgãos que a integram e com os cargos de Direção e Funções Gratificadas de que trata o art. 1 ° da Lei n° 9.640, de 25 de maio de 1998.
+
+§ 6° A Função Comissionada Técnica a que se refere este artigo, caracterizada pela complexidade e responsabilidade, somente poderá ser ocupada por servidor ou empregado com qualificação, capacidade e experiência, na forma definida em ato do Poder Executivo.
+
+§ 7º O preenchimento das Funções Comissionadas Técnicas referidas no caput deste artigo deverá ser feito de forma gradual, observando‑se a disponibilidade orçamentária em cada exercício, e somente poderá ocorrer após a avaliação de cada posto de trabalho existente no órgão ou na entidade, de acordo com critérios a serem estabelecidos em regulamento.
+
+§ 8º As Funções Comissionadas Técnicas não se incorporam aos proventos da aposentadoria e às pensões.
+
+DISPOSIÇÕES GERAIS E TRANSITÓRIAS
+
+Art. 59. Para fins de incorporação aos proventos da aposentadoria ou às pensões, as Gratificações de que tratam os arts. 8º , 13, 19, 30, 41 e 56 desta Medida Provisória:
+
+I ‑ somente serão devidas, se percebidas há pelo menos cinco anos; e
+
+lI ‑ serão calculadas pela média aritmética dos últimos sessenta meses anteriores à aposentadoria ou instituição da pensão.
+
+§ 1º A aplicação do disposto nesta Medida Provisória a aposentados e pensionistas não poderá implicar redução de proventos e pensões.
+
+§ 2° Constatada a redução de proventos ou pensão decorrente da aplicação do disposto nesta Medida Provisória, a diferença será paga a título de vantagem pessoal nominalmente identificada.
+
+Art. 60. Aplicam‑se as disposições desta Medida Provisória às aposentadorias e pensões, exceto:
+
+I ‑ as gratificações a que se refere os arts. 8°, 13, 19, 30 e 41 desta Medida Provisória, relativamente às aposentadorias e pensões concedidas até 30 de junho de 2000; e
+
+II ‑ as gratificações a que se refere o art. 56 desta Medida Provisória relativamente às aposentadorias e pensões concedidas até 31 de maio de 2001.
+
+Art. 61. Enquanto não forem regulamentadas e até que sejam processados os resultados da avaliação de desempenho, as Gratificações referidas no art. 59 desta Medida Provisória corresponderão aos seguintes percentuais incidentes sobre o vencimento básico de cada servidor:
+
+I ‑ Gratificação de Desempenho de Atividade do Ciclo de Gestão, vinte e cinco por cento;
+
+II ‑ Gratificação de Desempenho de Atividade de Auditoria de Valores Mobiliários, vinte e cinco por cento;
+
+III ‑ Gratificação de Desempenho de Atividade de Auditoria de Seguros Privados, vinte e cinco por cento;
+
+IV ‑ Gratificação de Desempenho de Atividade de Ciência e Tecnologia, doze vírgula vinte e cinco por cento, cinco vírgula cinco por cento e dois vírgula cinco por cento, para os cargos de níveis superior, intermediário e auxiliar, respectivamente;
+
+V ‑ Gratificação de Desempenho de Atividade de Fiscalização Agropecuária, vinte e cinco por cento; e
+
+VI ‑ Gratificação de Desempenho de Atividade Jurídica, doze por cento; e
+
+VII ‑ Gratificação de Desempenho de Atividade Técnico‑Administrativa Educacional, cento e sessenta por cento.
+
+§ 1º O resultado da primeira avaliação gera efeitos financeiros a partir do início do período de avaliação, devendo ser compensadas eventuais diferenças pagas a maior ou menor.
+
+§ 2º O disposto neste artigo aplica‑se aos ocupantes de cargos ou funções comissionadas que fazem jus às gratificações de que tratam os incisos I a VII.
+
+Art. 62. Os valores dos vencimentos básicos constantes dos Anexos VII, VIII, IX, X, XI, XII e XVIII não poderão servir de base de cálculo para quaisquer outras gratificações ou vantagens de quaisquer outros servidores.
+
+Art. 63. Na hipótese de redução de remuneração decorrente da aplicação do disposto nesta Medida Provisória, a diferença será paga a título de vantagem pessoal nominalmente identificada, a ser absorvida por ocasião do desenvolvimento no cargo ou na carreira.
+
+Parágrafo único. Em se tratando de nomeados para cargos integrantes das Carreiras da Advocacia‑Geral da União, em decorrência de concursos públicos iniciados até 30 de junho de 2000, a diferença será calculada tendo‑se em vista a remuneração inicial de maior valor indicado em edital, assim também se calculando para os demais integrantes das respectivas categorias iniciais das mencionadas Carreiras.
+
+Art. 64. Os ocupantes dos cargos de que trata esta Medida Provisória não fazem jus à percepção da Gratificação de Atividade ‑ GAE, de que trata a Lei Delegada nº 13, de 27 de agosto de 1992.
+
+Art. 65. Até que seja aprovado o regulamento de que trata o § 2º do art. 4º desta Medida Provisória, aplicam‑se, para fins de progressão funcional e promoção, as normas vigentes na data de sua publicação.
+
+§ 1º Na contagem do interstício necessário à promoção e à progressão será aproveitado o tempo computado até a data em que tiver sido feito o enquadramento decorrente da aplicação do disposto nesta Media Provisória.
+
+§ 2º Para fins do disposto neste artigo, não será considerado como progressão funcional ou promoção o enquadramento decorrente da aplicação desta Medida Provisória.
+
+Art. 66. Nos casos de transposição ou novo enquadramento, as diferenças remuneratórias, decorrentes de alterações no vencimento básico, serão consideradas para todos os efeitos como parte integrante do novo vencimento básico.
+
+Art. 67. Será de cento e vinte dias, contados a partir de 30 de junho de 2000, o prazo para encaminhamento pelo Ministério do Planejamento, Orçamento e Gestão à Casa Civil da Presidência da República das propostas de regulamentação das Gratificações de que trata o art. 59.
+
+Art. 68. A remuneração dos Cargos em Comissão de Natureza Especial ‑ NES e do Grupo Direção e Assessoramento Superiores ‑ DAS 1, 2, 3, 4, 5 e 6, e dos Cargos de Direção das Instituições Federais de Ensino, passa a ser constituída de uma única parcela nos valores constantes do Anexo XVI desta Medida Provisória.
+
+§ 1º O servidor ocupante de cargo efetivo ou emprego permanente na Administração Pública Federal direta ou indireta, investido nos cargos a que se refere o caput deste artigo, poderá optar por uma das remunerações a seguir discriminadas, obedecidos os limites fixados pela Lei nº 8.852, de 4 de fevereiro de 1994:
+
+I ‑ a remuneração do Cargo em Comissão ou de Direção, acrescida dos anuênios;
+
+II ‑ a diferença entre a remuneração do Cargo em Comissão ou de Direção e a remuneração do cargo efetivo ou emprego; ou
+
+III ‑ a remuneração do cargo efetivo ou emprego, acrescida dos seguintes percentuais da remuneração do respectivo Cargo em Comissão ou de Direção:
+
+a) sessenta por cento da remuneração dos cargos DAS níveis 1, 2 e 3;
+
+b) vinte e cinco por cento dos cargos NES e DAS níveis 4, 5 e 6; e
+
+c) quarenta por cento dos CD níveis 1, 2, 3 e 4.
+
+§ 2º O docente da carreira de Magistério, integrante do Plano único de Classificação e Retribuição de Cargos e Empregos, a que se refere a Lei nº 7.596, de 10 de abril de 1987, submetido ao Regime de Dedicação Exclusiva, poderá ocupar Cargo de Direção ‑ CD ou Função Gratificada ‑ FG, nas Instituições Federais de Ensino, sendo‑lhe facultado optar nos termos da alínea "c", inciso III, § 1º , deste artigo.
+
+§ 3º O docente a que se refere o § 2° cedido para órgãos e entidades da Administração Pública Federal direta, autárquica e fundacional, para o exercício de Cargo em Comissão de Natureza Especial ou de Direção e Assessoramento Superiores, de níveis DAS 6, DAS 5 ou DAS 4, ou equivalentes, quando optante pela remuneração do cargo efetivo, perceberá o vencimento acrescido da vantagem relativa ao Regime de Dedicação Exclusiva.
+
+§ 4º O acréscimo previsto no § 3º poderá ser percebido, no caso de docente cedido para o Ministério da Educação, para o exercício de Cargo em Comissão de nível DAS 3.
+
+Art. 69. Caso venha a ser extinta autarquia ou fundação em cujo Quadro de Lotação de Pessoal se incluam Procuradores Federais, estes serão redistribuídos para outras entidades.
+
+§ 1º O disposto no caput deste artigo aplica‑se, também, às extinções ocorridas no período compreendido entre a criação da Carreira de Procurador Federal e o início de vigência desta Medida Provisória.
+
+§ 2º Na hipótese de extinção de autarquia ou fundação ocorrida anteriormente à criação da Carreira de Procurador Federal, será facultado, aos que ocupavam na entidade extinta qualquer um dos cargos elencados no art. 39 desta Medida Provisória, o enquadramento na Carreira de Procurador Federal, mediante opção do interessado, manifestada até 31 de janeiro de 2001, desde que atendidas todas as exigências necessárias ao enquadramento.
+
+Art. 70. Aplica‑se o disposto nos §§ 1º e 2º do art. 69 aos casos semelhantes de redistribuição, independentemente de haver sido ou não extinta a entidade de origem.
+
+Art. 71. Os arts. 1º e 2° do Decreto‑Lei nº 2.194, de 26 de dezembro de 1984, alcançam em seus efeitos os servidores do Departamento Nacional de Estradas de Rodagem - DNER, ativos e inativos, e os pensionistas que já estejam percebendo a vantagem deles decorrente.
+
+Parágrafo único. O disposto no caput não se aplica aos integrantes da Carreira de Procurador Federal.
+
+Art. 72. O art. 22 da Lei nº 9.986, de 18 de julho de 2000, passa a vigorar com a seguinte redação:
+
+"Art. 22. Ficam as Agências autorizadas a custear as despesas com remoção e estada para os profissionais que, em virtude de nomeação para Cargos Comissionados de Direção, de Gerência Executiva e de Assessoria dos níveis CD I e II, CGE I, lI, III e IV, CA I e II, e para os Cargos Comissionados Técnicos, nos níveis CCT V e IV, vierem a ter exercício em cidade diferente da de seu domicílio, conforme disposto em regulamento de cada Agência, observados os limites de valores estabelecidos para a Administração Pública Federal direta." (NR)
+
+Art. 73. O Quadro IV da Lei nº 10.171, de 5 de janeiro de 2001, fica acrescido das autorizações constantes no Anexo XIX desta Medida Provisória.
+
+Art. 74. O art. 4° da Lei nº 8.745, de 9 de dezembro de 1993, passa a vigorar com a seguinte redação:
+
+"Art. 4°...........................................................................................................................
+
+...............................................................................................................................................
+
+§ 7° Os contratos dos professores substitutos prorrogados com base no inciso III deste artigo poderão ser novamente prorrogados, pelo prazo de até doze meses, desde que o prazo final do contrato não ultrapasse 31 de dezembro de 2002, e tenha sido aberto processo seletivo simplificado, com ampla divulgação, sem a inscrição ou aprovação de candidatos." (NR)
+
+Art. 75. Ficam convalidados os atos praticados com base na Medida Provisória nº 2.136‑38, de 24 de maio de 2001.
+
+Art. 76. Esta Medida Provisória entra em vigor na data de sua publicação.
+
+Art. 77. Ficam revogados os arts. 4º, 9º, 10 e 11 do Decreto‑Lei nº 2.266, de 12 de março de 1985; a Lei nº 7.702, de 21 de dezembro de 1988; o art. 7° da Lei nº 8.538, de 21 de dezembro de 1992; o art. 22 da Lei nº 8.691, de 28 de julho de 1993; a Lei nº 9.638, de 20 de maio de 1998; a Lei nº 9.647, de 26 de maio de 1998; o art. 11 da Lei n° 9.620, de 2 de abril de 1998; os arts. 1° e 10 da Lei nº 9.641, de 25 de maio de 1998; o § 1° do art. 11, o § 2º do art. 12 e o Anexo III da Lei nº 9.650, de 27 de maio de 1998; os arts. 1° e 13 da Lei nº 9.651, de 27 de maio de 1998; o Decreto nº 2.665, de 10 de julho de 1998, e a Medida Provisória nº 2.136‑38, de 24 de maio de 2001.
+
+Brasília, 31 de maio de 2001; 180° da Independência e 113° da República.
+
+FERNANDO HENRIQUE CARDOSO
+
+Pedro Malan
+
+Eliseu Padilha Paulo Renato Souza
+
+Marcus Vinicius Pratini de Moraes
+
+José Serra
+
+Alcides LopesTápias
+
+Martus Tavares
+
+Roberto Brant
+
+Ronaldo Mola Sardenberg
+
+Gilmar Ferreira Mendes
+
+ANEXO XIX
+
+DEMONSTRATIVO DE QUE TRATA O ART. 62 DA LEI N°9.995, DE 2000, PARA ATENDIMENTO AO DISPOSTO NO ART. 169, § 1"‑, INCISO II, DA CONSTITUIÇÃO "4 ‑PODER EXECUTIVO:
+
+V‑ Ministério da Fazenda:
+
+1\) provimento, mediante concurso público, de 115 cargos de Analista do Banco Central do Brasil; e m) provimento, mediante concurso público, de 30 cargos de Procurador do Banco Central do Brasil.
+
+VII ‑ Ministério da Justiça:
+
+d) concessão da Gratificação de Operações Especiais ‑ GOE para os Policiais Rodoviários Federais.
+
+XVI ‑ Ministério da Defesa:
+
+b) implantação da Lei de Remuneração dos Militares;
+
+c) provimento, mediante concurso público, de até 8 cargos de Pesquisador Adjunto da Carreira de Ciência e Tecnologia no Comando da Aeronáutica;
+
+d) provimento, mediante concurso público, de até 18 cargos de Assistente de Pesquisa da Carreira de Ciência e Tecnologia no Comando da Aeronáutica;
+
+e) provimento, mediante concurso público, de até 3 cargos de Tecnologista Sênior da Carreira de Ciência e Tecnologia no Comando dá Aeronáutica;
+
+f) provimento, mediante concurso público, de até 5 cargos de Tecnologista Pleno 2 da Carreira de Ciência e Tecnologia no Comando da Aeronáutica;
+
+g) provimento, mediante concurso público, de até 10 cargos de Tecnologista Pleno 1 da Carreira de Ciência e Tecnologia no Comando da Aeronáutica;
+
+h) provimento, mediante concurso público, de até 136 cargos de Tecnologista Júnior da Carreira de Ciência e Tecnologia no Comando da Aeronáutica;
+
+i) provimento, mediante concurso público, de até 48 cargos de Analista em Ciência e Tecnologia &Carreira de Ciência e Tecnologia no Comando da Aeronáutica; ,
+
+j) provimento, mediante concurso público, de até 5 cargos de Técnico 3 da Carreira de Ciência é Tecnologia no Comando da Aeronáutica;
+
+k) provimento, mediante concurso público, de até 15 cargos de Técnico 2 da Carreira de Ciência e Tecnologia no Comando da Aeronáutica;
+
+1\) provimento, mediante concurso público, de até 108 cargos de Técnico 1 da Carreira de Ciência e Tecnologia no Comando da Aeronáutica;
+
+m) provimento, mediante concurso público, de. até 6 cargos de Professor de Ensino de 3' Grau para o Instituto Militar de Engenharia do Comando do Exército;
+
+n) provimento, mediante concurso público, de até 39 cargos de Professor de Ensino de 1 "‑ e 2=' Graus no Comando da Marinha; e
+
+o) provimento, mediante concurso público, de até 1.013 empregos diversos para. o Hospital das Forças Armadas. XVII ‑ Ministério da Educação:
+
+a) rcestruturação de cargos e carreiras integrantes do PUCRCE, Lei n°7.596, de 1987; e
+
+b) provimento, mediante concurso público, de até 2000 cargos efetivos de Professor de Ensino de 3°‑ Grau."
+
+ANEXO A SEGUIR:
+
+###### ANEXO
+
+ANEXO I
+
+ESTRUTURA DE CARGOS DA CARREIRA DE FISCAL FEDERAL AGROPECUÁRIO E DOS CARGOS TÉCNICOS-ADMINISTRATIVOS DAS INSTITUIÇÕES FEDERAIS DE ENSINO VINCULADAS AO MINISTÉRIO DA EDUCAÇÃO
+
+<table>
+<tr><th colspan="3">SITUAÇÃO NOVA</th></tr>
+<tr><td>CARGO</td><td>PADRÃO</td><td>CLASSE</td></tr>
+<tr><td></td><td>III</td><td>ESPECIAL</td></tr>
+<tr><td></td><td>II</td><td>ESPECIAL</td></tr>
+<tr><td></td><td>I</td><td>ESPECIAL</td></tr>
+<tr><td></td><td>VI</td><td>C</td></tr>
+<tr><td></td><td>V</td><td>C</td></tr>
+<tr><td></td><td>IV</td><td>C</td></tr>
+<tr><td></td><td>III</td><td>C</td></tr>
+<tr><td>Fiscal Federal Agropecuário</td><td>II</td><td>C</td></tr>
+<tr><td>Técnicos-Administrativos das Instituições Federais de Ensino Vinculadas ao Ministério da Educação</td><td>I</td><td>C</td></tr>
+<tr><td></td><td>VI</td><td>B</td></tr>
+<tr><td></td><td>V</td><td>B</td></tr>
+<tr><td></td><td>IV</td><td>B</td></tr>
+<tr><td></td><td>III</td><td>B</td></tr>
+<tr><td></td><td>II</td><td>B</td></tr>
+<tr><td></td><td>I</td><td>B</td></tr>
+<tr><td></td><td>V</td><td>A</td></tr>
+<tr><td></td><td>IV</td><td>A</td></tr>
+<tr><td></td><td>III</td><td>A</td></tr>
+<tr><td></td><td>II</td><td>A</td></tr>
+<tr><td></td><td>I</td><td>A</td></tr>
+</table>
+
+ESTRUTURA DE CARGOS DAS CARREIRAS E CARGOS DO GRUPO GESTÃO E DE NÍVEL SUPERIOR DA CVM E SUSEP
+
+<table>
+<tr><th colspan="3">SITUAÇÃO NOVA</th></tr>
+<tr><td>CARGO</td><td>PADRÃO</td><td>CLASSE</td></tr>
+<tr><td></td><td>IV</td><td>ESPECIAL</td></tr>
+<tr><td>Analista de Finanças e Controle, Analista</td><td>III</td><td>ESPECIAL</td></tr>
+<tr><td>de Planejamento e Orçamento,</td><td>II</td><td>ESPECIAL</td></tr>
+<tr><td>Especialista em Políticas Públicas e</td><td>I</td><td>ESPECIAL</td></tr>
+<tr><td></td><td>VII</td><td>C</td></tr>
+<tr><td>Gestão Governamental, Técnico de</td><td>VI</td><td>C</td></tr>
+<tr><td>Planejamento P-1501 do Grupo P-1500,</td><td>V</td><td>C</td></tr>
+<tr><td>Técnico de Planejamento e Pesquisa e</td><td>IV</td><td>C</td></tr>
+<tr><td>demais cargos de nível superior do</td><td>III</td><td>C</td></tr>
+<tr><td>Instituto de Pesquisa Econômica Aplicada</td><td>II</td><td>C</td></tr>
+<tr><td>- IPEA</td><td>I</td><td>C</td></tr>
+<tr><td></td><td>VII</td><td>B</td></tr>
+<tr><td>Analista de Comércio Exterior</td><td>VI</td><td>B</td></tr>
+<tr><td></td><td>V</td><td>B</td></tr>
+<tr><td>Inspetor e Analista da CVM</td><td>IV</td><td>B</td></tr>
+<tr><td>Analista Técnico da SUSEP</td><td>III</td><td>B</td></tr>
+<tr><td>Técnico de Finanças e Controle, Técnico</td><td>II</td><td>B</td></tr>
+<tr><td>de Planejamento e Orçamento e cargos de</td><td>I</td><td>B</td></tr>
+<tr><td>nível intermediário do Instituto de</td><td>VI</td><td>A</td></tr>
+<tr><td>Pesquisa Econômica Aplicada IPEA</td><td>V</td><td>A</td></tr>
+<tr><td></td><td>IV</td><td>A</td></tr>
+<tr><td></td><td>III</td><td>A</td></tr>
+<tr><td></td><td>II</td><td>A</td></tr>
+<tr><td></td><td>I</td><td>A</td></tr>
+</table>
+
+ANEXO X
+
+TABELA DE VENCIMENTO
+
+| CARGO | CLASSE | PADRÃO | VALOR (EM R$) |
+| --- | --- | --- | --- |
+|  |  | III | 3.400,55 |
+|  | ESPECIAL | II | 3.288,34 |
+|  |  | I | 3.179,82 |
+|  |  | VI | 3.017,65 |
+|  |  | V | 2.918,07 |
+|  | C | IV | 2.821,77 |
+|  |  | III | 2.728,65 |
+|  |  | II | 2.638,61 |
+|  |  | I | 2.551,53 |
+| Fiscal Federal Agropecuário |  | VI | 2.421,40 |
+|  |  | V | 2.341,50 |
+|  | B | IV | 2.264,23 |
+|  |  | III | 2.189,51 |
+|  |  | II | 2.117,26 |
+|  |  | I | 2.047,39 |
+|  |  | V | 1.942,97 |
+|  |  | IV | 1.878,85 |
+|  | A | III | 1.816,85 |
+|  |  | II | 1.756,89 |
+|  |  | I | 1.698,92 |
+
+ANEXO XI
+
+TABELA DE VENCIMENTO
+
+| CARGO | CATEGORIA | PADRÃO | VALOR (EM REAIS) |
+| --- | --- | --- | --- |
+|  |  | III | 5.446,34 |
+| Procurador Federal | ESPECIAL | II | 5.309,16 |
+|  |  | I | 5.176,14 |
+|  |  | V | 4.883,15 |
+| Advogado da União |  | IV | 4.749,68 |
+|  | PRIMEIRA | III | 4.619,86 |
+| Assistente Jurídico da Advogacia-Geral da |  | II | 4.493,59 |
+| União |  | I | 4.370,77 |
+|  |  | VII | 4.123,37 |
+| Defensor Público da União |  | VI | 3.927,02 |
+|  |  | V | 3.740,02 |
+| Procurador da Procuradoria Especial da | SEGUNDA | IV | 3.561,92 |
+| Marinha |  | III | 3.392,31 |
+|  |  | II | 3.230,77 |
+|  |  | I | 3.076,92 |
+
+ANEXO XII
+
+TABELA DE VENCIMENTO
+
+| CARGO | CLASSE | PADRÃO | VALOR (EM R$) (40h semanais) |
+| --- | --- | --- | --- |
+|  |  | IV | 3.903,30 |
+|  | A | III | 3.614,10 |
+|  |  | II | 3.361,24 |
+|  |  | I | 3.144,29 |
+|  |  | IV | 2.957,24 |
+|  | B | III | 2.796,44 |
+|  |  | II | 2.658,85 |
+| Analista do Banco Central |  | I | 2.541,92 |
+|  |  | IV | 2.443,57 |
+|  | C | III | 2.362,08 |
+|  |  | II | 2.296,06 |
+|  |  | I | 2.244,44 |
+|  |  | III | 2.206,38 |
+|  | D | II | 2.150,00 |
+|  |  | I | 2.007,78 |
+|  |  | IV | 1.165,01 |
+|  | A | III | 1.130,69 |
+|  |  | II | 1.087,01 |
+|  |  | I | 1.045,20 |
+|  |  | IV | 1.004,95 |
+|  | B | III | 966,26 |
+|  |  | II | 920,09 |
+| Técnico do Banco Central |  | I | 876,10 |
+|  |  | IV | 834,29 |
+|  | C | III | 794,35 |
+|  |  | II | 749,11 |
+|  |  | I | 706,68 |
+|  |  | III | 666,43 |
+|  | D | II | 628,68 |
+|  |  | I | 592,80 |
+|  |  | IV | 3.903,30 |
+|  | A | III | 3.614,10 |
+|  |  | II | 3.361,24 |
+|  |  | I | 3.144,29 |
+|  |  | IV | 2.957,24 |
+|  | B | III | 2.796,44 |
+|  |  | II | 2.658,85 |
+| Procurador do Banco Central |  | I | 2.541,92 |
+|  |  | IV | 2.443,57 |
+|  | C | III | 2.362,08 |
+|  |  | II | 2.296,06 |
+|  |  | I | 2.244,44 |
+|  |  | III | 2.206,38 |
+|  | D | II | 2.150,00 |
+|  |  | I | 2.105,27 |
+
+ANEXO XIII
+
+FUNÇÕES COMISSIONADAS TÉCNICAS
+
+| FUNÇÃO COMISSIONADA | QUANTITADIVO DE FUNÇÕES | VALOR UNITÁRIO (EM REAIS) | VALOR DA OPÇÃO (EM REAIS) |
+| --- | --- | --- | --- |
+| FCT 1 | 131 | 3.800,00 | 1.140,00 |
+| FCT 2 | 191 | 3.187,20 | 956,16 |
+| FCT 3 | 252 | 2.673,22 | 855,43 |
+| FCT 4 | 313 | 2.242,13 | 762,32 |
+| FCT 5 | 374 | 1.880,55 | 695,80 |
+| FCT 6 | 435 | 1.577,29 | 630,91 |
+| FCT 7 | 496 | 1.322,93 | 582,09 |
+| FCT 8 | 557 | 1.109,59 | 543,70 |
+| FCT 9 | 618 | 930,65 | 511,86 |
+| FCT 10 | 679 | 780,57 | 483,95 |
+| FCT 11 | 740 | 654,69 | 458,28 |
+| FCT 12 | 801 | 549,12 | 439,29 |
+| FCT 13 | 862 | 460,56 | 414,51 |
+| FCT 14 | 923 | 386,29 | 386,29 |
+| FCT 15 | 1.331 | 324,00 | 324,00 |
+| TOTAL | 8.703 |  |  |
+
+ANEXO XIV
+
+TABELA DE CORRELAÇÃO DE CARGOS
+
+<table>
+<tr><th colspan="2">SITUAÇÃO ATUAL</th><th colspan="3">SITUAÇÃO NOVA</th></tr>
+<tr><td>Cargos</td><td>Classe</td><td>Padrão</td><td>Categoria</td><td>Cargos</td></tr>
+<tr><td></td><td>ESPECIAL</td><td>III</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>II</td><td>ESPECIAL</td><td></td></tr>
+<tr><td>Advogado da União</td><td></td><td>I</td><td></td><td>Advogado da União</td></tr>
+<tr><td></td><td>PRIMEIRA</td><td>V</td><td></td><td></td></tr>
+<tr><td>Assistente Jurídico da</td><td></td><td>IV</td><td></td><td>Assistente Jurídico da</td></tr>
+<tr><td>Advocacia-Geral da União</td><td></td><td>III</td><td>PRIMEIRA</td><td>Advocacia-Geral da União</td></tr>
+<tr><td></td><td></td><td>II</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>I</td><td></td><td></td></tr>
+<tr><td>Defensor Público da União</td><td>SEGUNDA</td><td>VII</td><td></td><td>Defensor Público da União</td></tr>
+<tr><td></td><td></td><td>VI</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>V</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>IV</td><td>SEGUNDA</td><td></td></tr>
+<tr><td></td><td></td><td>III</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>II</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>I</td><td></td><td></td></tr>
+</table>
+
+ANEXO XV
+
+TABELA DE CORRELAÇÃO
+
+<table>
+<tr><th colspan="3">SITUAÇÃO ATUAL</th><th colspan="3">SITUAÇÃO NOVA</th></tr>
+<tr><td>CARGO</td><td>CLASSE</td><td>PADRÃO</td><td>PADRÃO</td><td>CLASSE</td><td>CARGO</td></tr>
+<tr><td></td><td></td><td>IV</td><td>IV</td><td></td><td></td></tr>
+<tr><td></td><td>A</td><td>III</td><td></td><td></td><td></td></tr>
+<tr><td>Analista do Banco Central</td><td></td><td>II</td><td>III</td><td>A</td><td>Analista do Banco</td></tr>
+<tr><td>do Brasil</td><td></td><td>I</td><td>II</td><td></td><td>Central do Brasil</td></tr>
+<tr><td></td><td></td><td>IV</td><td>I</td><td></td><td></td></tr>
+<tr><td></td><td>B</td><td>III</td><td>IV</td><td></td><td></td></tr>
+<tr><td>Procurador do Banco</td><td></td><td>II</td><td>III</td><td>B</td><td>Procurador do Banco</td></tr>
+<tr><td>Central do Brasil</td><td></td><td>I</td><td>II</td><td></td><td>Central do Brasil</td></tr>
+<tr><td></td><td></td><td>IV</td><td></td><td></td><td></td></tr>
+<tr><td></td><td>C</td><td>III</td><td>I</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>II</td><td>IV</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>I</td><td>III</td><td>C</td><td></td></tr>
+<tr><td></td><td></td><td>III</td><td>II</td><td></td><td></td></tr>
+<tr><td></td><td>D</td><td>II</td><td>I</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>I</td><td>III</td><td></td><td></td></tr>
+<tr><td></td><td colspan="2"></td><td>II</td><td>D</td><td></td></tr>
+<tr><td></td><td colspan="2"></td><td>I</td><td></td><td></td></tr>
+</table>
+
+ANEXO XVI
+
+TABELA DE REMUNERAÇÃO
+
+a) GRUPO DIREÇÃO E ASSESSORAMENTO SUPERIORES - DAS
+
+| CARGO | VALOR UNITÁRIO (EM REAIS) |
+| --- | --- |
+| DAS 101.6 e 102.6 | 6.000,00 |
+| DAS 101.5 e 102.5 | 5.200,00 |
+| DAS 101.4 e 102.4 | 3.800,00 |
+| DAS 101.3 e 102.3 | 1.390,19 |
+| DAS 101.2 e 102.2 | 1.240,45 |
+| DAS 101.1 e 102.1 | 1.120,14 |
+
+b) CARGOS DE NATUREZA ESPECIAL - NES
+
+| DENOMINAÇÃO | VALOR UNITÁRIO (EM REAIS) |
+| --- | --- |
+| Secretário Especial de Desenvolvimento Urbano | 8.000,00 |
+| Secretário de Estado de Assistência Social | 7.200,00 |
+| Secretário de Estado dos Direitos Humanos | 7.200,00 |
+| Comandante da Marinha | 7.200,00 |
+| Comandante do Exército | 7.200,00 |
+| Comandante da Aeronáutica | 7.200,00 |
+| Secretário-Geral de Contencioso | 6.200,00 |
+| Secretário-Geral de Consultoria | 6.200,00 |
+| Subdefensor Público Geral da União | 6.000,00 |
+| Demais cargos de natureza especial da estrutura da Presidência da República e dos Ministérios | 6.400,00 |
+
+c) CARGOS DE DIREÇÃO DAS INSTITUIÇÃO FEDERAIS DE ENSINO - CD
+
+| CARGO | VALOR UNITÁRIO (EM REAIS) |
+| --- | --- |
+| CD - 1 | 5.600,00 |
+| CD - 2 | 4.800,00 |
+| CD - 3 | 3.800,00 |
+| CD - 4 | 2.800,00 |
+
+ANEXO XVII
+
+TABELA DE CORRELAÇÃO
+
+<table>
+<tr><th colspan="3">SITUAÇÃO ATUAL</th><th colspan="3">SITUAÇÃO NOVA</th></tr>
+<tr><td>CARGO</td><td>CLASSE</td><td>PADRÃO</td><td>PADRÃO</td><td>CLASSE</td><td>CARGO</td></tr>
+<tr><td></td><td>ESPECIAL</td><td>III</td><td>IV</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>II</td><td>III</td><td>ESPECIAL</td><td></td></tr>
+<tr><td>Analista de Finanças e</td><td></td><td>I</td><td>II</td><td></td><td>Analista de Finanças e Controle,</td></tr>
+<tr><td>Controle, Analista de</td><td></td><td>VI</td><td>I</td><td></td><td>Analista de Planejamento e</td></tr>
+<tr><td>Planejamento e Orçamento,</td><td></td><td>V</td><td>VII</td><td>C</td><td>Orçamento, Especialista em</td></tr>
+<tr><td>Especialista em Políticas</td><td></td><td>IV</td><td>VI</td><td></td><td>Políticas Públicas e Gestão</td></tr>
+<tr><td>Públicas e Gestão</td><td>C</td><td>III</td><td>V</td><td></td><td>Governamental, Técnico de</td></tr>
+<tr><td>Governamental, Técnico de</td><td></td><td>II</td><td>IV</td><td></td><td>Planejamento P-1501 do Grupo P-</td></tr>
+<tr><td>Planejamento P-1501 do Grupo</td><td></td><td>I</td><td>III</td><td></td><td>1500, Técnico de Planejamento e</td></tr>
+<tr><td>P-1500, Técnico de</td><td></td><td>VI</td><td>II</td><td></td><td>Pesquisa e demais cargos de nível</td></tr>
+<tr><td>Planejamento e Pesquisa e</td><td></td><td>V</td><td>I</td><td></td><td>superior do Instituto de Pesquisa</td></tr>
+<tr><td>Demais cargos de nível superior</td><td></td><td>IV</td><td>VII</td><td></td><td>Econômica Aplicada IPEA</td></tr>
+<tr><td>do Instituto de Pesquisa</td><td>B</td><td>III</td><td>VI</td><td>B</td><td>Técnico de Finanças e Controle,</td></tr>
+<tr><td>Econômica Aplicada IPEA</td><td></td><td>II</td><td>V</td><td></td><td>Técnico de Planejamento e</td></tr>
+<tr><td>Técnico de Finanças e</td><td></td><td>I</td><td>IV</td><td></td><td>Orçamento e cargos de nível</td></tr>
+<tr><td>Controle, Técnico de</td><td></td><td>V</td><td>III</td><td></td><td>intermediário do Instituto de</td></tr>
+<tr><td>Planejamento e Orçamento e</td><td></td><td>IV</td><td>II</td><td></td><td>Pesquisa Econômica Aplicada</td></tr>
+<tr><td>Cargos de nível intermediário</td><td>A</td><td>III</td><td>I</td><td></td><td>IPEA</td></tr>
+<tr><td>do Instituto de Pesquisa</td><td></td><td>II</td><td>VI</td><td>A</td><td></td></tr>
+<tr><td>Econômica Aplicada IPEA</td><td></td><td>I</td><td>V</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>IV</td><td></td><td></td></tr>
+<tr><td>Analista de Comércio Exterior</td><td></td><td></td><td>III</td><td></td><td>Analista de Comércio Exterior</td></tr>
+<tr><td>Inspetor e Analista CVM</td><td></td><td></td><td>II</td><td></td><td>Inspetor e Analista CVM</td></tr>
+<tr><td>Analista Técnico da SUSEP</td><td></td><td></td><td>I</td><td></td><td>Analista Técnico da SUSEP</td></tr>
+</table>
+
+ANEXO XVIII
+
+TABELA DE VENCIMENTO
+
+a) Cargos de Nível Superior
+
+| CARGO | CLASSE | PADRÃO | VALOR (EM R$) |
+| --- | --- | --- | --- |
+|  |  | III | 644,89 |
+|  | ESPECIAL | II | 603,40 |
+|  |  | I | 563,87 |
+|  |  | VI | 555,50 |
+|  |  | V | 539,44 |
+|  | C | IV | 523,92 |
+| Técnicos-Administrativos das Instituições Federais de Ensino vinculadas ao Ministério da Educação |  | III | 508,85 |
+|  |  | II | 494,21 |
+|  |  | I | 480,01 |
+|  |  | VI | 466,21 |
+|  |  | V | 452,82 |
+|  | B | IV | 439,82 |
+|  |  | III | 427,19 |
+|  |  | II | 414,94 |
+|  |  | I | 403,05 |
+|  |  | V | 391,52 |
+|  |  | IV | 380,29 |
+|  | A | III | 318,89 |
+|  |  | II | 309,75 |
+|  |  | I | 300,87 |
+
+b) Cargos de Médio
+
+| CARGO | CLASSE | PADRÃO | VALOR (EM R$) |
+| --- | --- | --- | --- |
+|  |  | III | 387,68 |
+|  | ESPECIAL | II | 358,57 |
+|  |  | I | 343,62 |
+|  |  | VI | 329,29 |
+|  |  | V | 326,95 |
+|  | C | IV | 313,36 |
+| Técnicos-Administrativos das Instituições Federais de Ensino vinculadas ao Ministério da Educação |  | III | 300,34 |
+|  |  | II | 287,84 |
+|  |  | I | 275,92 |
+|  |  | VI | 264,47 |
+|  |  | V | 253,55 |
+|  | B | IV | 243,08 |
+|  |  | III | 233,04 |
+|  |  | II | 223,44 |
+|  |  | I | 214,25 |
+|  |  | V | 205,47 |
+|  |  | IV | 201,01 |
+|  | A | III | 198,40 |
+|  |  | II | 196,40 |
+|  |  | I | 194,40 |
+
+c) Cargos de Nível Auxiliar
+
+| CARGO | CLASSE | PADRÃO | VALOR (EM R$) |
+| --- | --- | --- | --- |
+|  |  | III | 218,07 |
+|  | ESPECIAL | II | 207,70 |
+|  |  | I | 203,81 |
+|  |  | VI | 200,60 |
+|  |  | V | 199,50 |
+|  | C | IV | 198,40 |
+| Técnicos-Administrativos das Instituições Federais de Ensino vinculadas ao Ministério da Educação |  | III | 197,30 |
+|  |  | II | 196,20 |
+|  |  | I | 195,10 |
+|  |  | VI | 194,00 |
+|  |  | v | 192,90 |
+|  | B | IV | 191,80 |
+|  |  | III | 190,70 |
+|  |  | II | 189,60 |
+|  |  | I | 188,50 |
+|  |  | V | 187,40 |
+|  |  | IV | 186,30 |
+|  | A | III | 185,20 |
+|  |  | II | 184,10 |
+|  |  | I | 183,00 |
+
+ANEXO XIX
+
+DEMONSTRATIVO DE QUE TRATA O ART. 62 DA
+
+LEI N°9.995, DE 2000, PARA ATENDIMENTO AO DISPOSTO NO
+
+ART. 169, § 1"-, INCISO II, DA CONSTITUIÇÃO
+
+"4 -PODER EXECUTIVO:
+
+.................................................................................................................................................................
+
+V- Ministério da Fazenda:
+
+.................................................................................................................................................................
+
+provimento, mediante concurso público, de 115 cargos de Analista do Banco Central do Brasil; e
+
+m) provimento, mediante concurso público, de 30 cargos de Procurador do Banco Central do Brasil.
+
+.................................................................................................................................................................
+
+VII - Ministério da Justiça:
+
+.................................................................................................................................................................
+
+d) concessão da Gratificação de Operações Especiais - GOE para os Policiais Rodoviários Federais.
+
+................................................................................................................................................................
+
+XVI - Ministério da Defesa:
+
+.................................................................................................................................................................
+
+b) implantação da Lei de Remuneração dos Militares;
+
+c) provimento, mediante concurso público, de até 8 cargos de Pesquisador Adjunto da Carreira de Ciência e Tecnologia no Comando da Aeronáutica;
+
+d) provimento, mediante concurso público, de até 18 cargos de Assistente de Pesquisa da Carreira de Ciência e Tecnologia no Comando da Aeronáutica;
+
+e) provimento, mediante concurso público, de até 3 cargos de Tecnologista Sênior da Carreira de Ciência e Tecnologia no Comando dá Aeronáutica;
+
+f) provimento, mediante concurso público, de até 5 cargos de Tecnologista Pleno 2 da Carreira de Ciência e Tecnologia no Comando da Aeronáutica;
+
+g) provimento, mediante concurso público, de até 10 cargos de Tecnologista Pleno 1 da Carreira de Ciência e Tecnologia no Comando da Aeronáutica;
+
+h) provimento, mediante concurso público, de até 136 cargos de Tecnologista Júnior da Carreira de Ciência e Tecnologia no Comando da Aeronáutica;
+
+i) provimento, mediante concurso público, de até 48 cargos de Analista em Ciência e Tecnologia &Carreira de Ciência e Tecnologia no Comando da Aeronáutica; ,
+
+j) provimento, mediante concurso público, de até 5 cargos de Técnico 3 da Carreira de Ciência é Tecnologia no Comando da Aeronáutica;
+
+k) provimento, mediante concurso público, de até 15 cargos de Técnico 2 da Carreira de Ciência e Tecnologia no Comando da Aeronáutica;
+
+l) provimento, mediante concurso público, de até 108 cargos de Técnico 1 da Carreira de Ciência e Tecnologia no Comando da Aeronáutica;
+
+m) provimento, mediante concurso público, de. até 6 cargos de Professor de Ensino de 3' Grau para o Instituto Militar de Engenharia do Comando do Exército;
+
+n) provimento, mediante concurso público, de até 39 cargos de Professor de Ensino de 1 "- e 2=' Graus no Comando da Marinha; e
+
+o) provimento, mediante concurso público, de até 1.013 empregos diversos para. o Hospital das Forças Armadas.
+
+XVII - Ministério da Educação:
+
+a) rcestruturação de cargos e carreiras integrantes do PUCRCE, Lei n°7.596, de 1987; e
+
+b) provimento, mediante concurso público, de até 2000 cargos efetivos de Professor de Ensino de 3°- Grau."
+
+ANEXO II
+
+ESTRUTURA DE CARGOS DA CARREIRA DE PESQUISA EM CIÊNCIA E TECNOLOGIA
+
+| NÍVEL | CARGO | PADRÃO | CLASSE |
+| --- | --- | --- | --- |
+|  |  | III |  |
+|  |  | II | TITULAR |
+|  |  | I |  |
+|  |  | III |  |
+|  |  | II | ASSOCIADO |
+| NS | Pesquisador | I |  |
+|  |  | III |  |
+|  |  | II | ADJUNTO |
+|  |  | I |  |
+|  |  | III | ASSISTENTE DE |
+|  |  | II | PESQUISA |
+|  |  | I |  |
+
+ESTRUTURA DE CARGOS DA CARREIRA DE DESENVOLVIMENTO TECNOLÓGICO
+
+| NÍVEL | CARGO | PADRÃO | CLASSE |
+| --- | --- | --- | --- |
+|  |  | III |  |
+|  |  | II | SÊNIOR |
+|  |  | I |  |
+|  |  | III |  |
+|  |  | II | PLENO 3 |
+|  |  | I |  |
+| NS | Tecnologista | III |  |
+|  |  | II | PLENO 2 |
+|  |  | I |  |
+|  |  | III |  |
+|  |  | II | PLENO 1 |
+|  |  | I |  |
+|  |  | III |  |
+|  |  | II | JÚNIOR |
+|  |  | I |  |
+|  |  | III |  |
+|  |  | II | TÉCNICO 3 |
+|  |  | I |  |
+|  |  | VI |  |
+|  |  | V |  |
+| NI | Técnico | IV | TÉCNICO 2 |
+|  |  | III |  |
+|  |  | II |  |
+|  |  | I |  |
+|  |  | VI |  |
+|  |  | V |  |
+|  |  | IV | TÉCNICO 1 |
+|  |  | III |  |
+|  |  | II |  |
+|  |  | I |  |
+|  |  | VI |  |
+|  |  | V |  |
+|  |  | IV | AUXILIAR |
+|  |  | III | TÉCNICO2 |
+| NA | Auxiliar Técnico | II |  |
+|  |  | I |  |
+|  |  | VI |  |
+|  |  | V |  |
+|  |  | IV | AUXILIAR |
+|  |  | III | TÉCNICO1 |
+|  |  | II |  |
+|  |  | I |  |
+
+c) ESTRUTURA DE CARGOS DA CARREIRA DE GESTÃO, PLANEJAMENTO E INFRA-ESTRUTURA EM CIÊNCIA E TECNOLOGIA
+
+| NÍVEL | CARGO | PADRÃO | CLASSE |
+| --- | --- | --- | --- |
+|  |  | III |  |
+|  |  | II | SÊNIOR |
+|  |  | I |  |
+|  |  | III |  |
+|  |  | II | PLENO 3 |
+|  |  | I |  |
+| NS | Analista em Ciência e | III |  |
+|  | Tecnologia | II | PLENO 2 |
+|  |  | I |  |
+|  |  | III |  |
+|  |  | II | PLENO 1 |
+|  |  | I |  |
+|  |  | III |  |
+|  |  | II | JÚNIOR |
+|  |  | I |  |
+|  |  | III |  |
+|  |  | II | ASSISTENTE 3 |
+| NI | Assistente em Ciência e | I |  |
+|  | Tecnologia | VI |  |
+|  |  | V |  |
+|  |  | IV | ASSISTENTE 2 |
+|  |  | III |  |
+|  |  | II |  |
+|  |  | I |  |
+|  |  | VI |  |
+|  |  | V |  |
+|  |  | IV | ASSISTENTE 1 |
+|  |  | III |  |
+|  |  | II |  |
+|  |  | I |  |
+|  |  | VI |  |
+|  |  | V |  |
+|  |  | IV | AUXILIAR 2 |
+|  |  | III |  |
+| NA | Auxiliar em Ciência e | II |  |
+|  | Tecnologia | I |  |
+|  |  | VI |  |
+|  |  | V |  |
+|  |  | IV | AUXILIAR 1 |
+|  |  | III |  |
+|  |  | II |  |
+|  |  | I |  |
+
+ANEXO III
+
+ESTRUTURA DE CARGOS
+
+| CARGO | PADRÃO | CATEGORIA |
+| --- | --- | --- |
+|  | III |  |
+|  | II | ESPECIAL |
+|  | I |  |
+|  | V |  |
+|  | IV |  |
+|  | III | PRIMEIRA |
+| Procurador Federal | II |  |
+|  | I |  |
+|  | VII |  |
+|  | VI |  |
+|  | V |  |
+|  | IV | SEGUNDA |
+|  | III |  |
+|  | II |  |
+|  | I |  |
+
+ANEXO IV
+
+TABELA DE CORRELAÇÃO
+
+<table>
+<tr><th colspan="3">SITUAÇÃO ATUAL</th><th colspan="3">SITUAÇÃO NOVA</th></tr>
+<tr><td>Cargo</td><td>Classe</td><td>Padrão</td><td>Padrão</td><td>Classe</td><td>Cargo</td></tr>
+<tr><td></td><td></td><td>III</td><td>III</td><td></td><td></td></tr>
+<tr><td></td><td>A</td><td>II</td><td>II</td><td>ESPECIAL</td><td></td></tr>
+<tr><td></td><td></td><td>I</td><td>I</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>VI</td><td>VI</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>V</td><td>V</td><td></td><td></td></tr>
+<tr><td></td><td>B</td><td>IV</td><td>IV</td><td>C</td><td></td></tr>
+<tr><td>Fiscal de Defesa</td><td></td><td>III</td><td>III</td><td></td><td>Fiscal Federal</td></tr>
+<tr><td>Agropecuária</td><td></td><td>II</td><td>II</td><td></td><td>Agropecuário</td></tr>
+<tr><td>Médico Veterinário</td><td></td><td>I</td><td>I</td><td></td><td></td></tr>
+<tr><td>Técnicos-Administrativos das Instituições Federais de Ensino Vinculadas ao Ministério da Educação</td><td></td><td>VI</td><td>VI</td><td></td><td>Técnicos-Administrativos das Instituições Federais de Ensino vinculadas ao Ministério da Educação</td></tr>
+<tr><td></td><td></td><td>V</td><td>V</td><td></td><td></td></tr>
+<tr><td></td><td>C</td><td>IV</td><td>IV</td><td>B</td><td></td></tr>
+<tr><td></td><td></td><td>III</td><td>III</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>II</td><td>II</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>I</td><td>I</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>V</td><td>V</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>IV</td><td>IV</td><td></td><td></td></tr>
+<tr><td></td><td>D</td><td>III</td><td>III</td><td>A</td><td></td></tr>
+<tr><td></td><td></td><td>II</td><td>II</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>I</td><td>I</td><td></td><td></td></tr>
+</table>
+
+ANEXO V
+
+a) TABELA DE CORRELAÇÃO DE CARGOS DA CARREIRA DE PESQUISA EM CIÊNCIA E TECNOLOGIA
+
+<table>
+<tr><th colspan="2">SITUAÇÃO ATUAL</th><th colspan="2">SITUAÇÃO NOVA</th></tr>
+<tr><td>CLASSE</td><td>PADRÃO</td><td>PADRÃO</td><td>CLASSE</td></tr>
+<tr><td></td><td>III</td><td>III</td><td></td></tr>
+<tr><td>TITULAR</td><td>II</td><td>II</td><td>TITULAR</td></tr>
+<tr><td></td><td>I</td><td>I</td><td></td></tr>
+<tr><td></td><td>III</td><td>III</td><td></td></tr>
+<tr><td>ASSOCIADO</td><td>II</td><td>II</td><td>ASSOCIADO</td></tr>
+<tr><td></td><td>I</td><td>I</td><td></td></tr>
+<tr><td></td><td>III</td><td>III</td><td></td></tr>
+<tr><td>ADJUNTO</td><td>II</td><td>II</td><td>ADJUNTO</td></tr>
+<tr><td></td><td>I</td><td>I</td><td></td></tr>
+<tr><td></td><td>III</td><td>III</td><td></td></tr>
+<tr><td>ASSISTENTE DE</td><td>II</td><td>II</td><td>ASSISTENTE DE</td></tr>
+<tr><td>PESQUISA</td><td>I</td><td>I</td><td>PESQUISA</td></tr>
+</table>
+
+b) TABELA DE CORRELAÇÃO DE CARGOS DA CARREIRA DE DESENVOLVIMENTO TECNOLÓGICO
+
+<table>
+<tr><th colspan="2">SITUAÇÃO ATUAL</th><th colspan="2">SITUAÇÃO NOVA</th></tr>
+<tr><td>CLASSE</td><td>PADRÃO</td><td>PADRÃO</td><td>CLASSE</td></tr>
+<tr><td></td><td>III</td><td>III</td><td></td></tr>
+<tr><td>SÊNIOR</td><td>II</td><td>II</td><td>SÊNIOR</td></tr>
+<tr><td></td><td>I</td><td>I</td><td></td></tr>
+<tr><td></td><td>III</td><td>III</td><td></td></tr>
+<tr><td>PLENO 3</td><td>II</td><td>II</td><td>PLENO 3</td></tr>
+<tr><td></td><td>I</td><td>I</td><td></td></tr>
+<tr><td></td><td>III</td><td>III</td><td></td></tr>
+<tr><td>PLENO 2</td><td>II</td><td>II</td><td>PLENO 2</td></tr>
+<tr><td></td><td>I</td><td>I</td><td></td></tr>
+<tr><td></td><td>III</td><td>III</td><td></td></tr>
+<tr><td>PLENO 1</td><td>II</td><td>II</td><td>PLENO 1</td></tr>
+<tr><td></td><td>I</td><td>I</td><td></td></tr>
+<tr><td></td><td>III</td><td>III</td><td></td></tr>
+<tr><td>JÚNIOR</td><td>II</td><td>II</td><td>JÚNIOR</td></tr>
+<tr><td></td><td>I</td><td>I</td><td></td></tr>
+<tr><td></td><td>III</td><td>III</td><td></td></tr>
+<tr><td>TÉCNICO 3</td><td>II</td><td>II</td><td>TÉCNICO 3</td></tr>
+<tr><td></td><td>I</td><td>I</td><td></td></tr>
+<tr><td></td><td>VI</td><td>VI</td><td></td></tr>
+<tr><td></td><td>V</td><td>V</td><td></td></tr>
+<tr><td>TÉCNICO 2</td><td>IV</td><td>IV</td><td>TÉCNICO 2</td></tr>
+<tr><td></td><td>III</td><td>III</td><td></td></tr>
+<tr><td></td><td>II</td><td>II</td><td></td></tr>
+<tr><td></td><td>I</td><td>I</td><td></td></tr>
+<tr><td></td><td>VI</td><td>VI</td><td></td></tr>
+<tr><td></td><td>V</td><td>V</td><td></td></tr>
+<tr><td>TÉCNICO 1</td><td>IV</td><td>IV</td><td>TÉCNICO 1</td></tr>
+<tr><td></td><td>III</td><td>III</td><td></td></tr>
+<tr><td></td><td>II</td><td>II</td><td></td></tr>
+<tr><td></td><td>I</td><td>I</td><td></td></tr>
+<tr><td></td><td>VI</td><td>VI</td><td></td></tr>
+<tr><td></td><td>V</td><td>V</td><td></td></tr>
+<tr><td>AUXILIAR</td><td>IV</td><td>IV</td><td>AUXILIAR</td></tr>
+<tr><td>TÉCNICO 2</td><td>III</td><td>III</td><td>TÉCNICO 2</td></tr>
+<tr><td></td><td>II</td><td>II</td><td></td></tr>
+<tr><td></td><td>I</td><td>I</td><td></td></tr>
+<tr><td></td><td>VI</td><td>VI</td><td></td></tr>
+<tr><td></td><td>V</td><td>V</td><td></td></tr>
+<tr><td>AUXILIAR</td><td>IV</td><td>IV</td><td>AUXILIAR</td></tr>
+<tr><td>TÉCNICO 1</td><td>III</td><td>III</td><td>TÉCNICO 1</td></tr>
+<tr><td></td><td>II</td><td>II</td><td></td></tr>
+<tr><td></td><td>I</td><td>I</td><td></td></tr>
+</table>
+
+c) TABELA DE CORRELAÇÃO DE CARGOS DA CARREIRA DE GESTÃO, PLANEJAMENTO E INFRA-ESTRUTURA EM CIÊNCIA E TECNOLOGIA
+
+<table>
+<tr><th colspan="2">SITUAÇÃO ATUAL</th><th colspan="2">SITUAÇÃO NOVA</th></tr>
+<tr><td>CLASSE</td><td>PADRÃO</td><td>PADRÃO</td><td>CLASSE</td></tr>
+<tr><td></td><td>III</td><td>III</td><td></td></tr>
+<tr><td>SÊNIOR</td><td>II</td><td>II</td><td>SÊNIOR</td></tr>
+<tr><td></td><td>I</td><td>I</td><td></td></tr>
+<tr><td></td><td>III</td><td>III</td><td></td></tr>
+<tr><td>PLENO 3</td><td>II</td><td>II</td><td>PLENO 3</td></tr>
+<tr><td></td><td>I</td><td>I</td><td></td></tr>
+<tr><td></td><td>III</td><td>III</td><td></td></tr>
+<tr><td>PLENO 2</td><td>II</td><td>II</td><td>PLENO 2</td></tr>
+<tr><td></td><td>I</td><td>I</td><td></td></tr>
+<tr><td></td><td>III</td><td>III</td><td></td></tr>
+<tr><td>PLENO 1</td><td>II</td><td>II</td><td>PLENO 1</td></tr>
+<tr><td></td><td>I</td><td>I</td><td></td></tr>
+<tr><td></td><td>III</td><td>III</td><td></td></tr>
+<tr><td>JÚNIOR</td><td>II</td><td>II</td><td>JÚNIOR</td></tr>
+<tr><td></td><td>I</td><td>I</td><td></td></tr>
+<tr><td></td><td>III</td><td>III</td><td></td></tr>
+<tr><td>ASSISTENTE 3</td><td>II</td><td>II</td><td>ASSISTENTE 3</td></tr>
+<tr><td></td><td>I</td><td>I</td><td></td></tr>
+<tr><td></td><td>VI</td><td>VI</td><td></td></tr>
+<tr><td></td><td>V</td><td>V</td><td></td></tr>
+<tr><td>ASSISTENTE 2</td><td>IV</td><td>IV</td><td>ASSISTENTE 2</td></tr>
+<tr><td></td><td>III</td><td>III</td><td></td></tr>
+<tr><td></td><td>II</td><td>II</td><td></td></tr>
+<tr><td></td><td>I</td><td>I</td><td></td></tr>
+<tr><td></td><td>VI</td><td>VI</td><td></td></tr>
+<tr><td></td><td>V</td><td>V</td><td></td></tr>
+<tr><td>ASSISTENTE 1</td><td>IV</td><td>IV</td><td>ASSISTENTE 1</td></tr>
+<tr><td></td><td>III</td><td>III</td><td></td></tr>
+<tr><td></td><td>II</td><td>II</td><td></td></tr>
+<tr><td></td><td>I</td><td>I</td><td></td></tr>
+<tr><td></td><td>VI</td><td>VI</td><td></td></tr>
+<tr><td></td><td>V</td><td>V</td><td></td></tr>
+<tr><td>AUXILIAR 2</td><td>IV</td><td>IV</td><td>AUXILIAR 2</td></tr>
+<tr><td></td><td>III</td><td>III</td><td></td></tr>
+<tr><td></td><td>II</td><td>II</td><td></td></tr>
+<tr><td></td><td>I</td><td>I</td><td></td></tr>
+<tr><td></td><td>VI</td><td>VI</td><td></td></tr>
+<tr><td></td><td>V</td><td>V</td><td></td></tr>
+<tr><td>AUXILIAR 1</td><td>IV</td><td>IV</td><td>AUXILIAR 1</td></tr>
+<tr><td></td><td>III</td><td>III</td><td></td></tr>
+<tr><td></td><td>II</td><td>II</td><td></td></tr>
+<tr><td></td><td>I</td><td>I</td><td></td></tr>
+</table>
+
+ANEXO VI
+
+TABELA DE CORRELAÇÃO DE CARGOS
+
+<table>
+<tr><th colspan="3">SITUAÇÃO ATUAL</th><th colspan="3">SITUAÇÃO NOVA</th></tr>
+<tr><td>Cargos</td><td>Categoria</td><td>Padrão</td><td>Padrão</td><td>Categoria</td><td>Cargo</td></tr>
+<tr><td></td><td></td><td>III</td><td>III</td><td></td><td></td></tr>
+<tr><td></td><td>A</td><td>II</td><td>II</td><td>ESPECIAL</td><td></td></tr>
+<tr><td></td><td></td><td>I</td><td>I</td><td></td><td></td></tr>
+<tr><td>Procurador Autárquico</td><td></td><td>VI</td><td>V</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>V</td><td>IV</td><td></td><td></td></tr>
+<tr><td></td><td>B</td><td>IV</td><td>III</td><td>PRIMEIRA</td><td></td></tr>
+<tr><td>Procurador</td><td></td><td>III</td><td>II</td><td></td><td></td></tr>
+<tr><td></td><td></td><td>II</td><td>I</td><td></td><td></td></tr>
+<tr><td>Advogado</td><td></td><td>I</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>VI</td><td></td><td></td><td></td></tr>
+<tr><td>Assistente Jurídico de</td><td></td><td>V</td><td>VII</td><td></td><td></td></tr>
+<tr><td>Autarquias e Fundações</td><td>C</td><td>IV</td><td></td><td></td><td>Procurador Federal</td></tr>
+<tr><td>Federais</td><td></td><td>III</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>II</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>I</td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td>V</td><td></td><td>SEGUNDA</td><td></td></tr>
+<tr><td></td><td>D</td><td>IV</td><td>VI</td><td></td><td></td></tr>
+<tr><td>Procurador e Advogado</td><td></td><td>III</td><td></td><td></td><td></td></tr>
+<tr><td>da Superintendência de</td><td></td><td>II</td><td></td><td></td><td></td></tr>
+<tr><td>Seguros Privados e da</td><td></td><td>I</td><td>V</td><td></td><td></td></tr>
+<tr><td>Comissão de Valores</td><td></td><td></td><td>IV</td><td></td><td></td></tr>
+<tr><td>Mobiliários</td><td></td><td></td><td>III</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>II</td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td>I</td><td></td><td></td></tr>
+</table>
+
+ANEXO VII
+
+TABELA DE VENCIMENTO
+
+| CARGO | CLASSE | PADRÃO | VALOR (EM R$) |
+| --- | --- | --- | --- |
+|  |  | IV | 4.490,21 |
+|  | ESPECIAL | III | 4.359,01 |
+|  |  | II | 4.232,05 |
+| Analista de Finanças e Controle, |  | I | 4.108,78 |
+| Analista de Planejamento e Orçamento, |  | VII | 3.950,75 |
+| Analista de Comércio Exterior, |  | VI | 3.835,68 |
+| Especialista em Políticas Públicas e |  | V | 3.723,96 |
+| Gestão Governamental, | C | IV | 3.615,50 |
+| Técnico de Planejamento P-1501 do |  | III | 3.510,19 |
+| Grupo P-1500, |  | II | 3.407,95 |
+| Técnico de Planejamento e Pesquisa, |  | I | 3.308,69 |
+| demais cargos de nível superior do |  | VII | 3.181,44 |
+| Instituto de Pesquisa Econômica |  | VI | 3.112,95 |
+| Aplicada - IPEA |  | V | 3.045,94 |
+|  | B | IV | 2.980,37 |
+|  |  | III | 2.916,22 |
+| Inspetor e Analista da CVM |  | II | 2.853,44 |
+|  |  | I | 2.792,02 |
+|  |  | VI | 2.684,63 |
+| Analista Técnico da SUSEP |  | V | 2.603,91 |
+|  | A | IV | 2.515,85 |
+|  |  | III | 2.440,21 |
+|  |  | II | 2.366,84 |
+|  |  | I | 2.295,67 |
+
+ANEXO VIII
+
+TABELA DE VENCIMENTO
+
+| CARGO | CLASSE | PADRÃO | VALOR (EM R$) |
+| --- | --- | --- | --- |
+|  |  | IV | 1.467,80 |
+|  | ESPECIAL | III | 1.441,85 |
+|  |  | II | 1.417,75 |
+|  |  | I | 1.395,42 |
+| Técnico de Finanças e Controle, |  | VII | 1.362,72 |
+| Técnico de Planejamento e Orçamento |  | VI | 1.338,62 |
+| e cargos de nível intermediário do |  | V | 1.316,25 |
+| Instituto de Pesquisa Econômica | C | IV | 1.295,52 |
+| Aplicada IPEA |  | III | 1.276,37 |
+|  |  | II | 1.258,75 |
+|  |  | I | 1.241,37 |
+|  |  | VII | 1.211,09 |
+|  |  | VI | 1.189,68 |
+|  |  | V | 1.168,64 |
+|  | B | IV | 1.147,98 |
+|  |  | III | 1.127,68 |
+|  |  | II | 1.107,74 |
+|  |  | I | 1.088,15 |
+|  |  | VI | 1.056,46 |
+|  |  | V | 1.032,71 |
+|  | A | IV | 1.008,50 |
+|  |  | III | 985,83 |
+|  |  | II | 963,67 |
+|  |  | I | 942,00 |
+
+ANEXO IX
+
+TABELA DE VENCIMENTO
+
+| NÍVEL | CARGO | PADRÃO | CLASSE | VALOR (EM R$) |
+| --- | --- | --- | --- | --- |
+|  |  | III |  | 2.387,96 |
+|  |  | II | TITULAR SÊNIOR | 2.291,71 |
+|  |  | I |  | 2.199,34 |
+|  |  | III | ASSOCIADO | 2.070,94 |
+|  |  | II | PLENO 3 | 1.987,46 |
+|  |  | I |  | 1.907,36 |
+| NS | Pesquisador | III | ADJUNTO | 1.796,00 |
+|  |  | II | PLENO 2 | 1.723,61 |
+|  |  | I |  | 1.654,14 |
+|  | Tecnologista | III | ASSISTENTE DE | 1.557,57 |
+|  |  | II | PESQUISA PLENO 1 | 1.494,79 |
+|  |  | I |  | 1.434,54 |
+|  |  | III |  | 1.350,79 |
+|  |  | II | JÚNIOR | 1.296,34 |
+|  | Analista em Ciência e Tecnologia | I |  | 1.244,09 |
+|  |  | III | ASSISTENTE 3 | 1.196,52 |
+|  |  | II | TÉCNICO 3 | 1.151,01 |
+|  |  | I |  | 1.107,15 |
+|  |  | VI |  | 1.064,84 |
+|  |  | V |  | 1.024,03 |
+|  |  | IV | ASSISTENTE 2 | 984,63 |
+|  |  | III | TÉCNICO 2 | 946,62 |
+|  |  | II |  | 909,85 |
+|  |  | I |  | 874,33 |
+|  |  | VI |  | 840,11 |
+|  |  | V |  | 806,97 |
+|  |  | IV | ASSISTENTE 1 | 774,96 |
+|  |  | III | TÉCNICO 1 | 743,98 |
+|  |  | II |  | 714,05 |
+|  |  | I |  | 685,01 |
+|  |  | VI |  | 530,32 |
+|  | Técnico | V |  | 516,88 |
+| NI |  | IV | AUXILIAR 2 | 503,79 |
+|  | Assistente em Ciência e Tecno- | III | AUXILIAR TÉCNI- | 491,02 |
+|  | logia | II | CO 2 | 478,58 |
+|  |  | I |  | 466,45 |
+|  |  | VI |  | 446,36 |
+|  | Auxiliar Técnico | V |  | 435,05 |
+| NA |  | IV | AUXILIAR 1 | 424,03 |
+|  | Auxiliar em Ciência e Tecno- | III | AUXILIAR TÉCNI- | 413,28 |
+|  | logia | II | CO 1 | 402,81 |
+|  |  | I |  | 392,60 |
+
+Publicado no DOU 01/06/2001
+
+Atos do Poder Executivo

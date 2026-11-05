@@ -1,0 +1,42 @@
+{
+  "br-federal-constituicao-1824-03-25": {
+    "blocos": 370,
+    "cobertura_blocos_markdown": true,
+    "sha256_markdown_corpo": "6dc70496002a933ad1d865d5cd73d1e88fe8b79dbe76d16cdc8356971bf4ba89"
+  },
+  "br-federal-constituicao-1891-02-24": {
+    "blocos": 388,
+    "cobertura_blocos_markdown": true,
+    "sha256_markdown_corpo": "95b2363fddf06829400b2444e8c7d91230e5d71fb3feb6cefea54dd27a249015"
+  },
+  "br-federal-constituicao-1934-07-16": {
+    "blocos": 922,
+    "cobertura_blocos_markdown": true,
+    "sha256_markdown_corpo": "45a372df4993a324e760ea29dc71bd6839be0a015fd832f47c0a3ac9f96bdfe8"
+  },
+  "br-federal-constituicao-1937-11-10": {
+    "blocos": 523,
+    "cobertura_blocos_markdown": true,
+    "sha256_markdown_corpo": "b6270e6598064eff297cb940567f1d07bd37ddcab96701a2bba6d8bd5a8f741f"
+  },
+  "br-federal-constituicao-1946-09-18": {
+    "blocos": 178,
+    "cobertura_blocos_markdown": true,
+    "sha256_markdown_corpo": "e0589f0b78b5d8103c04c1b642cad17b41eb345a5393e056709c5cc523ec76c2"
+  },
+  "br-federal-constituicao-1946-09-18-adct": {
+    "blocos": 14,
+    "cobertura_blocos_markdown": true,
+    "sha256_markdown_corpo": "f02756153a71830530cc3853a5dc090ebbc1f2d71924741fe3686cfca488f550"
+  },
+  "br-federal-constituicao-1967-01-24": {
+    "blocos": 418,
+    "cobertura_blocos_markdown": true,
+    "sha256_markdown_corpo": "8bec0729776242b89037eaaef4e5702a78baeaa2e8697c76f45a6e8cf6823c60"
+  },
+  "br-federal-emenda-constitucional-1969-10-17-1": {
+    "blocos": 1110,
+    "cobertura_blocos_markdown": true,
+    "sha256_markdown_corpo": "738c622019be3193e088c887afb5eea415afb1f19c3be0ef0116e3667a4fd659"
+  }
+}

@@ -4,6 +4,7 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
+**231.843 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
@@ -17,6 +18,19 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 
 | Esfera | Legislação | Normas |
 | --- | --- | ---: |
+| Federal | [Brasil](federal/) | 99.032 |
+| Estadual | [Acre](estaduais/AC/) | 1.681 |
+| Estadual | [Alagoas](estaduais/AL/) | 6 |
+| Estadual | [Amapá](estaduais/AP/) | 26 |
+| Estadual | [Amazonas](estaduais/AM/) | 10 |
+| Estadual | [Bahia](estaduais/BA/) | 14.379 |
+| Estadual | [Ceará](estaduais/CE/) | 112 |
+| Distrital | [Distrito Federal](estaduais/DF/) | 10 |
+| Estadual | [Espírito Santo](estaduais/ES/) | 23 |
+| Estadual | [Goiás](estaduais/GO/) | 9.669 |
+| Estadual | [Maranhão](estaduais/MA/) | 7 |
+| Estadual | [Mato Grosso](estaduais/MT/) | 338 |
+| Estadual | [Mato Grosso do Sul](estaduais/MS/) | 3.287 |
 | Estadual | [Minas Gerais](estaduais/MG/) | 65.933 |
 | Estadual | [Pará](estaduais/PA/) | 86 |
 | Estadual | [Paraíba](estaduais/PB/) | 3 |
@@ -46,6 +60,19 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Municipal | [Aparecida de Goiânia · GO](municipais/5201405/) | 4.229 |
 | Municipal | [Goiânia · GO](municipais/5208707/) | 1 |
 | Municipal | [Rio Verde · GO](municipais/5218805/) | 1.089 |
+| Municipal | [Porto Velho · RO](municipais/1100205/) | 2 |
+| Municipal | [Manaus · AM](municipais/1302603/) | 2 |
+| Municipal | [Boa Vista · RR](municipais/1400100/) | 1 |
+| Municipal | [Fortaleza · CE](municipais/2304400/) | 2 |
+| Municipal | [Natal · RN](municipais/2408102/) | 1 |
+| Municipal | [João Pessoa · PB](municipais/2507507/) | 1 |
+| Municipal | [Recife · PE](municipais/2611606/) | 1 |
+| Municipal | [Maceió · AL](municipais/2704302/) | 1 |
+| Municipal | [Aracaju · SE](municipais/2800308/) | 2 |
+| Municipal | [Salvador · BA](municipais/2927408/) | 1 |
+| Municipal | [Vitória · ES](municipais/3205309/) | 1 |
+| Municipal | [Curitiba · PR](municipais/4106902/) | 1 |
+| Municipal | [Porto Alegre · RS](municipais/4314902/) | 1 |
 
 As pastas municipais usam o código IBGE do município. As contagens da tabela representam normas e incluem constituições, emendas, decretos e outros atos normativos. Anexos em arquivos próprios são contados separadamente.
 
