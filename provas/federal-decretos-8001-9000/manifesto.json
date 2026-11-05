@@ -2,7 +2,7 @@
   "contrato_versao": 1,
   "lote": "federal-decretos-8001-9000",
   "descricao": "Decretos federais 8.001–9.000 (#81): amostra Planalto + lacunas Câmara com catálogo Senado DEC.",
-  "gerado_em": "2026-11-04T20:45:23Z",
+  "gerado_em": "2026-11-05T08:42:20Z",
   "vigencia_certificada": false,
   "documentos": [
     {
@@ -18571,7 +18571,7 @@
         "dou_aviso": "Este texto não substitui o publicado no DOU de 10.2.2017"
       },
       "prova": "provas/federal-decretos-8001-9000/reconciliacao-br-federal-decreto-2017-02-09-8986.json",
-      "sha256_markdown": "eb889e68e9056b798a0cdbb84f00ccd18fb15241b2123c9805637d46c5e5156c",
+      "sha256_markdown": "c501e8e9e6f73e20734941df5e7726ee8a182bc0bee7ca4bfc59b02bfbd2a11b",
       "estrutura": {
         "blocos": 18,
         "artigos": 3,

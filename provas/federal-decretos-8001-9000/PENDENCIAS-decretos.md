@@ -1,7 +1,7 @@
 # Pendências — decretos pós-1991 (#81)
 
 Reconciliação oficial Senado DEC (espécie + número/complemento + data) na faixa 8001–9000.
-Gerado em 2026-11-04T20:56:12Z. Não certifica vigência.
+Gerado em 2026-11-05T08:42:20Z. Não certifica vigência.
 
 ## Publicadas neste lote
 

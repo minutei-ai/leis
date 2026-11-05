@@ -850,6 +850,9 @@ def build_document_planalto(doc: dict, data: bytes, rec: dict):
     spec = all_sources()[doc["fonte"]]
     conv = nl.convert_html(data, spec["charset"], spec["url"])
     body = nl.blocks_to_markdown(conv.blocks, doc["title_pattern"])
+    # Python versions differ on urljoin(base, '#'). An empty fragment has
+    # no distinct target; canonicalize it without changing named anchors.
+    body = re.sub(r'(\]\(https?://[^)\s]+)#\)', r'\1)', body)
     src = nl.strip_fold(nl.source_text_chars_from_html(data, spec["charset"]))
     md_all = nl.strip_fold(nl.md_text_all(body))
     coverage_ok = src == md_all

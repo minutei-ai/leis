@@ -23,7 +23,7 @@ anexos_no_corpo: 1
 tabelas: 1
 imagens_omitidas: 0
 efeitos_diferidos: "preservados-nas-notas-do-texto"
-sha256_markdown: "eb889e68e9056b798a0cdbb84f00ccd18fb15241b2123c9805637d46c5e5156c"
+sha256_markdown: "c501e8e9e6f73e20734941df5e7726ee8a182bc0bee7ca4bfc59b02bfbd2a11b"
 manifesto: "provas/federal-decretos-8001-9000/manifesto.json"
 contrato_versao: 1
 ---
@@ -48,7 +48,7 @@ contrato_versao: 1
 
 Dispõe sobre o saldo remanescente das autorizações para provimento de cargos, empregos e funções constantes do Anexo V à Lei nº 13.115, de 20 de abril de 2015 - Lei Orçamentária Anual de 2015, e do Anexo V à Lei nº 13.255, de 14 de janeiro de 2016 - Lei Orçamentária Anual de 2016.
 
-[Texto compilado](https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Decreto/D8986.htm#view) [Texto atualizado](https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Decreto/D8986.htm#)
+[Texto compilado](https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Decreto/D8986.htm#view) [Texto atualizado](https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Decreto/D8986.htm)
 
 [Texto para impressão](https://www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Decreto/D8986.htm#textoimpressao)
 
