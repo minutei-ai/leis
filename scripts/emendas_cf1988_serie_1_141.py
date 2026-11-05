@@ -580,6 +580,28 @@ def load_reconciled_source_numbers() -> set[int]:
     """Numbers with preserved official captures and article reconciliation."""
     import lzma
 
+    def snapshot_hashes_match(capture: dict) -> bool:
+        snapshot = capture.get('snapshot')
+        if not snapshot:
+            return False
+        path = ROOT / snapshot
+        if not path.is_file():
+            return False
+        try:
+            stored = path.read_bytes()
+            raw = lzma.decompress(stored)
+        except (OSError, lzma.LZMAError):
+            return False
+        stored_hash = capture.get('sha256_snapshot_armazenado')
+        raw_hash = capture.get('sha256_fonte') or capture.get('sha256')
+        byte_count = capture.get('bytes_fonte', capture.get('bytes'))
+        return (
+            bool(stored_hash and raw_hash)
+            and sha256_bytes(stored) == stored_hash
+            and sha256_bytes(raw) == raw_hash
+            and (byte_count is None or len(raw) == byte_count)
+        )
+
     proven = set()
     sources = [
         (PROVAS / 'faixa-001-050/fontes.json', PROVAS / 'faixa-001-050/reconciliacao-camara-planalto.json'),
@@ -593,7 +615,8 @@ def load_reconciled_source_numbers() -> set[int]:
         official_nums = set()
         for key, value in data.items():
             match = re.search(r'(?:planalto-emc|camara-ec-)(\d+)', key)
-            if match and value.get('snapshot') and (ROOT / value['snapshot']).is_file():
+            is_text_capture = key.startswith('planalto-emc') or 'publicacaooriginal' in key
+            if match and is_text_capture and snapshot_hashes_match(value):
                 official_nums.add(int(match.group(1)))
         if reconciliation.is_file():
             reconciled = set(map(int, json.loads(reconciliation.read_text(encoding='utf-8'))))
@@ -607,7 +630,7 @@ def load_reconciled_source_numbers() -> set[int]:
     rec_path = OUT / 'fontes-conferencia/reconciliacao-artigos.json'
     if rec_path.is_file():
         reconciled_current = {int(item['emenda']) for item in json.loads(rec_path.read_text(encoding='utf-8')).get('items', [])}
-        proven.update(n for n, item in current.items() if n in reconciled_current and (ROOT / item['snapshot']).is_file())
+        proven.update(n for n, item in current.items() if n in reconciled_current and snapshot_hashes_match(item))
     legacy_manifest_path = OUT / 'fontes-conferencia/fontes-conferencia-legados-1-106.json'
     legacy_reconciliation_path = OUT / 'fontes-conferencia/reconciliacao-artigos-legados-1-106.json'
     if legacy_manifest_path.is_file() and legacy_reconciliation_path.is_file():
@@ -618,20 +641,14 @@ def load_reconciled_source_numbers() -> set[int]:
             if n not in recs:
                 continue
             capture = entry['fonte_legislativa']
-            stored = (ROOT / capture['snapshot']).read_bytes()
-            raw = lzma.decompress(stored)
-            if sha256_bytes(stored) == capture['sha256_snapshot_armazenado'] and sha256_bytes(raw) == capture['sha256_fonte']:
+            if snapshot_hashes_match(capture):
                 proven.add(n)
     ec1_path = OUT / 'fontes-conferencia/conferencia-senado-ec1.json'
     if ec1_path.is_file() and legacy_reconciliation_path.is_file():
         ec1 = json.loads(ec1_path.read_text(encoding='utf-8'))
         recs = {int(item['emenda']) for item in json.loads(legacy_reconciliation_path.read_text(encoding='utf-8')).get('items', [])}
         if 1 in recs:
-            valid = True
-            for capture in ec1['capturas'].values():
-                stored = (ROOT / capture['snapshot']).read_bytes()
-                raw = lzma.decompress(stored)
-                valid &= sha256_bytes(stored) == capture['sha256_snapshot_armazenado'] and sha256_bytes(raw) == capture['sha256_fonte']
+            valid = all(snapshot_hashes_match(capture) for capture in ec1['capturas'].values())
             if valid:
                 proven.add(1)
     return proven
