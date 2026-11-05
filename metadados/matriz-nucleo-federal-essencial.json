@@ -371,7 +371,7 @@
       "fonte_conferencia": "nenhuma",
       "capturado_em": "2026-11-04T12:22:09Z",
       "sha256_fonte": "ac63647218cb1b9a5907987cd0732907cb2e3bcd7276729412ed1d52ca1b4511",
-      "sha256_markdown": "691d0d274da5c9ec2ad2e2da913c200a52786ec95b4524a32da25d66e5d3cfc2",
+      "sha256_markdown": "eb6cf62b843cec9b6f3b64d226c28a8037bbe297fbacb5200d827e32db803315",
       "situacao": "nao-informada",
       "situacao_fundamento": "desconhecido",
       "vigencia_certificada": false,
@@ -393,7 +393,8 @@
       "integridade": {
         "edicao_integral_no_cabecalho": true,
         "leitura": "edicao_integral=true no Markdown significa reprodução conferida da fonte principal do lote; não equivale a ausência de divergência com fontes de conferência nem a certificação de vigência. Hashes e contagens não substituem a leitura das provas do lote."
-      }
+      },
+      "sha256_markdown_anterior_limpeza": "691d0d274da5c9ec2ad2e2da913c200a52786ec95b4524a32da25d66e5d3cfc2"
     },
     {
       "area": "violencia-domestica",
@@ -417,7 +418,7 @@
       "fonte_conferencia": "nenhuma",
       "capturado_em": "2026-11-04T12:22:09Z",
       "sha256_fonte": "b02420f09f0ce1a4de35f39efe44c79e4d6953a64342d2155813c7485fe92f8a",
-      "sha256_markdown": "dfdbd02ea474e193944d8e7e8d4410504ceb68db95167a2c1ea85cb0aff89e57",
+      "sha256_markdown": "d1fc32ec5cceff9e8fe05cf327a674377ef9833e5b2ac8956173c5aefdc41e12",
       "situacao": "nao-informada",
       "situacao_fundamento": "desconhecido",
       "vigencia_certificada": false,
@@ -439,7 +440,8 @@
       "integridade": {
         "edicao_integral_no_cabecalho": true,
         "leitura": "edicao_integral=true no Markdown significa reprodução conferida da fonte principal do lote; não equivale a ausência de divergência com fontes de conferência nem a certificação de vigência. Hashes e contagens não substituem a leitura das provas do lote."
-      }
+      },
+      "sha256_markdown_anterior_limpeza": "dfdbd02ea474e193944d8e7e8d4410504ceb68db95167a2c1ea85cb0aff89e57"
     }
   ],
   "diagnostico_unificado": {

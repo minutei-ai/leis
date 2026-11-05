@@ -113,19 +113,38 @@ para `keyword`. Ver [`provas/cobertura-nacional/bm25-mapeamento.json`](../provas
 
 ## Cabeçalhos no acervo geral
 
-Arquivos fora dos lotes setoriais podem receber o mesmo cabeçalho `---` quando
-os campos forem extraídos sem inventar dados. O piloto está em
-[`acervo-geral-piloto.json`](acervo-geral-piloto.json): corpo Markdown
-preservado byte-a-byte após o frontmatter; `provedor_id` de caminho opaco
-nunca vira número legal; `fonte_url`/`edicao_tipo`/`situacao` ficam
+Arquivos fora dos lotes setoriais **podem** receber o mesmo cabeçalho `---`
+quando os campos forem extraídos sem inventar dados. O piloto de quatro
+arquivos está em [`acervo-geral-piloto.json`](acervo-geral-piloto.json): corpo
+Markdown preservado byte-a-byte após o frontmatter; `provedor_id` de caminho
+opaco nunca vira número legal; `fonte_url`/`edicao_tipo`/`situacao` ficam
 `desconhecido` até haver captura registrada.
+
+## Sidecars / exportação do acervo completo
+
+A expansão para **todo** o acervo usa **sidecars de exportação** (JSONL
+streaming por edição), não a reescrita em massa dos Markdown:
+
+- Manifesto: `provas/cobertura-nacional/export-acervo-manifesto.json`
+- Inventário por campo (corpus completo):
+  `provas/cobertura-nacional/inventario-campos-acervo.json`
+- Shards retomáveis: `provas/cobertura-nacional/export-acervo/shards/*.jsonl.gz`
+  (gerados por `scripts/cobertura_nacional.py export-acervo`)
+
+Frontmatter já existente (lotes setoriais + piloto) é **reutilizado** no
+export. Corpos Markdown e hashes publicados permanecem intactos. A íntegra
+pesquisável é o arquivo `.md` + `sha256_markdown` (semântica explícita); o
+sidecar tipado não substitui nem trunca o corpo. Órgão, poder, âmbito, série
+e complemento só entram como conhecidos com prova (frontmatter/fonte); caso
+contrário ficam `desconhecido` / `nao-aplicavel` com `fonte_do_campo`.
 
 ## Cobertura de campos
 
-Nenhum campo é “coberto” por aparecer em amostra. O relatório em
-`provas/cobertura-nacional/cobertura-campos.json` classifica, por lote/fonte,
-cada campo como `conhecido`, `ausente`, `desconhecido`, `conflitante` ou
-`nao-aplicavel`, a partir dos arquivos publicados e dos contratos setoriais.
+Nenhum campo é “coberto” por aparecer em amostra. O relatório amostral em
+`provas/cobertura-nacional/cobertura-campos.json` e o inventário completo em
+`inventario-campos-acervo.json` classificam cada campo como `conhecido`,
+`ausente`, `desconhecido`, `conflitante` ou `nao-aplicavel`, a partir dos
+arquivos publicados e dos contratos setoriais.
 
 ## Fontes por jurisdição
 
@@ -138,5 +157,11 @@ de legislação por falta de pasta ou por erro HTTP (#74).
 ## Ferramenta
 
 `scripts/cobertura_nacional.py` gera/verifica inventários territoriais,
-fac-símiles, export de amostra, registro de fontes e a matriz nacional (#83),
+fac-símiles, export tipado, registro de fontes e a matriz nacional (#83),
 sem rede.
+
+```bash
+python3 scripts/cobertura_nacional.py export-acervo   # sidecars JSONL retomáveis
+python3 scripts/cobertura_nacional.py generate
+python3 scripts/cobertura_nacional.py verify
+```

@@ -159,7 +159,10 @@
     "territorial": "provas/cobertura-nacional/inventario-territorial.json",
     "fac_similes": "provas/cobertura-nacional/inventario-fac-similes.json",
     "campos": "provas/cobertura-nacional/cobertura-campos.json",
+    "campos_acervo_completo": "provas/cobertura-nacional/inventario-campos-acervo.json",
+    "export_acervo_manifesto": "provas/cobertura-nacional/export-acervo-manifesto.json",
     "bm25": "provas/cobertura-nacional/bm25-mapeamento.json",
+    "bm25_filtros_integrados": "provas/cobertura-nacional/bm25-filtros-integrados.json",
     "fontes_jurisdicao": "provas/cobertura-nacional/registro-fontes-jurisdicao.json",
     "reconciliacao_especies": "provas/cobertura-nacional/reconciliacao-especies-publicadas.json",
     "piloto_cabecalhos": "metadados/acervo-geral-piloto.json",
@@ -167,6 +170,7 @@
   },
   "avanco_desde_inventario_inicial": [
     "piloto de 4 cabeçalhos gerais com campo_fontes (#70)",
+    "export sidecar JSONL streaming do acervo completo + inventário por campo (#70)",
     "registro de fontes por UF + municípios publicados (#74)",
     "colação visual estrutural do formulário CPP (#77)",
     "contagem federal por espécie + blockers #102/#103 (#83)"

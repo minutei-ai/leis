@@ -1,0 +1,16 @@
+{
+  "norma_id": "br-ce-decreto-2023-01-19-35283",
+  "metodo": "pdftotext -raw do PDF DOE; recorte do bloco DECRETO 35.283 até 35.284",
+  "sha256_corpo_markdown": "3d348e924c6091b74622a6f1cf69bbe7f9a22c9adae72054bec1e00862423534",
+  "sha256_fonte": "9a599521d0fb2f6da923741e38110c1c2fd9cbdb4f86b20d334bfa40d0bf47e7",
+  "capturado_em": "2026-11-04T21:05:00Z",
+  "artigos_contados": 25,
+  "fold_ok": false,
+  "carater": "etp-tr",
+  "colacao_oficial_status": "desconhecido",
+  "proveniencia": "wayback-arquivo-url-oficial",
+  "wayback_timestamp": "20230323115514",
+  "edicao_identidade": "DOE CE SÉRIE 3 ANO XV Nº015 2023-01-20",
+  "equivalente_captura_oficial_atual": false,
+  "nota_fold": "Fonte PDF Wayback; fold do texto extraído não prova fidelidade além de consistência. Colação oficial atual: desconhecido."
+}

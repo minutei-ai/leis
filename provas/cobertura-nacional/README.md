@@ -10,6 +10,11 @@ Artefatos das issues #70 (contrato/export BM25), #74 (inventário territorial),
 - Piloto de cabeçalhos gerais (`metadados/acervo-geral-piloto.json`) com
   `campo_fontes` / `fonte_do_campo`, corpo Markdown preservado e desconhecidos
   explícitos (#70).
+- Export sidecar JSONL streaming de **todo** o acervo
+  (`export-acervo-manifesto.json`, `inventario-campos-acervo.json`, shards
+  retomáveis em `export-acervo/`) sem reescrever corpos Markdown; frontmatter
+  existente reutilizado; filtros BM25 integrados em
+  `bm25-filtros-integrados.json` (#70).
 - Captura IBGE de localidades (hash da resposta completa + slim publicado).
 - Inventário territorial com estados de trabalho; diretório ≠ completude;
   Brasília/DF e Fernando de Noronha como entidades especiais.
@@ -35,9 +40,11 @@ Artefatos das issues #70 (contrato/export BM25), #74 (inventário territorial),
 ## Reprodução
 
 ```bash
+python3 scripts/cobertura_nacional.py export-acervo
 python3 scripts/cobertura_nacional.py generate
 python3 scripts/cobertura_nacional.py verify
 python3 -m unittest tests.test_cobertura_nacional -v
 ```
 
-Somente leitura local; sem rede.
+`export-acervo` grava shards JSONL.gz retomáveis (metadados tipados; íntegra
+no `.md` + hash). Somente leitura local dos Markdown; sem rede.

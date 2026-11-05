@@ -19,7 +19,7 @@ O script `scripts/limpeza_markdown.py` remove do corpo pesquisável:
 ### Edições posteriores preservadas na integração
 
 Este lote de limpeza não conclui as issues #87, #98 e #100. Na integração,
-823 edições publicadas ou corrigidas depois da preparação do lote foram
+882 edições publicadas ou corrigidas depois da preparação do lote foram
 preservadas literalmente. Seus geradores e provas precisam de revalidação
 antes de alterar a representação Markdown; aplicar a versão antiga limpa
 apagaria metadados, correções de identidade ou anexos mais recentes.

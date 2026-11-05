@@ -1,0 +1,72 @@
+{
+  "quando": "2026-11-04T21:58:59Z",
+  "itens": [
+    {
+      "uf": "BA",
+      "norma_id": "br-ba-norma-27298",
+      "arquivo_existe": true,
+      "tem_nota_edicao": true,
+      "sha256_markdown_bate": true,
+      "sha256_fonte_bate": true,
+      "mencao_disposicoes_transitorias": true,
+      "vigencia_certificada_no_texto": false
+    },
+    {
+      "uf": "SC",
+      "norma_id": "br-sc-constituicao-1989",
+      "arquivo_existe": true,
+      "tem_nota_edicao": true,
+      "sha256_markdown_bate": true,
+      "sha256_fonte_bate": true,
+      "mencao_disposicoes_transitorias": true,
+      "vigencia_certificada_no_texto": false
+    },
+    {
+      "uf": "DF",
+      "norma_id": "br-df-lei-organica-1993-06-08",
+      "arquivo_existe": true,
+      "tem_nota_edicao": true,
+      "sha256_markdown_bate": true,
+      "sha256_fonte_bate": true,
+      "mencao_disposicoes_transitorias": true,
+      "vigencia_certificada_no_texto": false
+    },
+    {
+      "uf": "PE",
+      "norma_id": "br-pe-constituicao-1989",
+      "arquivo_existe": true,
+      "tem_nota_edicao": true,
+      "sha256_markdown_bate": true,
+      "sha256_fonte_bate": true,
+      "mencao_disposicoes_transitorias": true,
+      "vigencia_certificada_no_texto": false
+    },
+    {
+      "uf": "ES",
+      "norma_id": "br-es-norma-33122",
+      "arquivo_existe": true,
+      "identidade_nao_grep_constituic": true,
+      "tem_nota_edicao": true,
+      "prova_recaptura": true,
+      "mencao_disposicoes_transitorias": true
+    },
+    {
+      "uf": "PR",
+      "norma_id": "br-pr-ato-9779",
+      "arquivo_existe": true,
+      "identidade_nao_grep_constituic": true,
+      "tem_nota_edicao": true,
+      "prova_recaptura": true,
+      "mencao_disposicoes_transitorias": true
+    },
+    {
+      "uf": "SP",
+      "norma_id": "br-sp-norma-155101",
+      "arquivo_existe": true,
+      "identidade_nao_grep_constituic": true,
+      "tem_nota_edicao": true,
+      "prova_recaptura": true,
+      "mencao_disposicoes_transitorias": true
+    }
+  ]
+}

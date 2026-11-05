@@ -1,0 +1,13 @@
+{
+  "norma_id": "br-municipal-2800308-lei-organica-1990",
+  "metodo": "pdftotext -raw",
+  "sha256_fonte": "68300ed6855ff9ff5ed1efe69b0abe7ce45c20fd45f5ff96a84e7afdf3501ef4",
+  "capturado_em": "2026-11-04T21:09:02Z",
+  "artigos_contados": 337,
+  "artigos_max_marcador": 337,
+  "fold_ok": false,
+  "colacao_oficial_status": "desconhecido",
+  "nota_fold": "Fonte PDF; fold do texto extraído não prova fidelidade além de consistência.",
+  "adct_mencoes_texto": 2,
+  "sha256_corpo_markdown": "fc824fba8801010a1e53aab5c769ddd7b5750f796f5cb790faa840b0fe4c7977"
+}

@@ -1,0 +1,13 @@
+{
+  "uf": "AL",
+  "chave": "aleal-sapl-constituicao-1989",
+  "url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/1989/2/constituicao_de_alagoas_ate_emenda_52.pdf",
+  "url_final": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/1989/2/constituicao_de_alagoas_ate_emenda_52.pdf",
+  "content_type": "application/pdf",
+  "bytes": 14533817,
+  "sha256_conteudo": "f5ff5cbbf71447f668910cb3e21886de8772c673ebf42606261c9d4a6ed8cdd3",
+  "sha256_arquivo_xz": "038066eef6d243dad97ebf935304fe2f947f8530994851c2d780eb4b80ee654a",
+  "capturado_em": "2026-11-04T20:18:57Z",
+  "status": "ok",
+  "arquivo": "provas/constituicoes-estaduais/AL/fontes/aleal-sapl-constituicao-1989.pdf.xz"
+}

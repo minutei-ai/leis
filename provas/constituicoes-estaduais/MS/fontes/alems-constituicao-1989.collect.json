@@ -1,0 +1,13 @@
+{
+  "uf": "MS",
+  "chave": "alems-constituicao-1989",
+  "url": "https://www.al.ms.gov.br/upload/Pdf/2019_07_15_05_15_11_constituicao-do-estado-de-mato-grosso-do-sul-1989.pdf",
+  "url_final": "https://al.ms.gov.br/upload/Pdf/2019_07_15_05_15_11_constituicao-do-estado-de-mato-grosso-do-sul-1989.pdf",
+  "content_type": "application/pdf",
+  "bytes": 529172,
+  "sha256_conteudo": "2e3455d54328e210c8c14aea3458468e0ce446ce6254a34b8bad7e03c3715677",
+  "sha256_arquivo_xz": "46d55a6327beb98f16eb5897a3d2548a557def4d1323f9a394b0e45bad90c24c",
+  "capturado_em": "2026-11-04T20:22:53Z",
+  "status": "ok",
+  "arquivo": "provas/constituicoes-estaduais/MS/fontes/alems-constituicao-1989.pdf.xz"
+}

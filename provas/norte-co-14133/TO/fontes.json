@@ -1,0 +1,31 @@
+{
+  "capturado_em": "2026-11-04T21:18:06Z",
+  "nota": "DOE/TO PDF duas colunas → crop por coordenadas + colação visual. HTML edição 403 ≠ ausência.",
+  "fontes": [
+    {
+      "chave": "doe-to-4862-2023-03-28-colunas",
+      "url": "https://doe.to.gov.br/diario/4862/download",
+      "arquivo": "provas/norte-co-14133/TO/fontes/doe-4862-decreto-6606-colunas.txt.xz",
+      "sha256_pdf_original": "641db3f9e306a2ed788cbe404058a6e51b2aa5da8a23677dab31a196f88ed1d2",
+      "bytes_pdf": 3234747,
+      "sha256_conteudo": "da9422eb0163d335b097e6732a87a9a2b29993cab86c606b6801f2358dc44dcc",
+      "sha256_arquivo_xz": "bed8578926aaf0a1e3b9ae7845f34a6c93d5c25744f9a23bc414778dc337b4a7",
+      "sha256_corpo_markdown": "da9422eb0163d335b097e6732a87a9a2b29993cab86c606b6801f2358dc44dcc",
+      "sha256_markdown": "5918d39c745a18b8e0f451e52515e67b583e795d1a8017861d0e0db5e9689ab5",
+      "resultado": "publicado-colunas-coordenadas",
+      "carater": "regulamento-geral-estadual",
+      "edicao_site": "4862",
+      "edicao_impressa": "6299",
+      "http_pdf": 200,
+      "http_html_edicao": 403,
+      "metodo": "pdftotext-crop-colunas-L-then-R",
+      "colacao_visual_paginas": [
+        "1",
+        "34",
+        "35"
+      ],
+      "artigos": 334,
+      "evidencia_bloqueio_anterior": "provas/norte-co-14133/TO/fontes/doe-4862-bloqueio-colunas.txt.xz"
+    }
+  ]
+}

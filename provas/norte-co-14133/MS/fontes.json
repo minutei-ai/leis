@@ -1,0 +1,19 @@
+{
+  "capturado_em": "2026-11-04T20:46:41Z",
+  "nota": "Captura HTTP oficial SPDO/MS do Decreto 16.122/2023 (SRP). Específico ≠ geral. Não certifica vigência.",
+  "fontes": [
+    {
+      "chave": "spdo-decreto-16122-2023",
+      "url": "https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/fd8600de8a55c7fc04256b210079ce25/39fe1a8c4e5abd760425896e00440418?OpenDocument",
+      "arquivo": "provas/norte-co-14133/MS/fontes/spdo-decreto-16122-2023.html.xz",
+      "sha256_conteudo": "98812f8a58d35c98ca01673f99118de77e412c7fa485df86453b512821bbca2b",
+      "sha256_arquivo_xz": "41da751d233aefb80ed007a834dd48bd1da10679a332b3f610a8e132d5c5c2fb",
+      "bytes_fonte": 54813,
+      "capturado_em": "2026-11-04T20:46:41Z",
+      "sha256_corpo_markdown": "736974d278ff5deb94a30fad94d9b9b2e8b3abd211b7f8cb6f0ae9ebc7108676",
+      "sha256_markdown": "c1da416d6fc2771a5791c5f51c2e017544110570982e3d7d816e803b58cb2cb1",
+      "carater": "especifico-srp-arts-82-a-86",
+      "charset_detectado": "latin-1"
+    }
+  ]
+}

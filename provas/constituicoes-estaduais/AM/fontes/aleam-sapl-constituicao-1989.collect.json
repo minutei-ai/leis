@@ -1,0 +1,13 @@
+{
+  "uf": "AM",
+  "chave": "aleam-sapl-constituicao-1989",
+  "url": "https://sapl.al.am.leg.br/media/sapl/public/normajuridica/2018/10048/constituicao_atualizada_-_compilada_ate_a_ec_137.pdf",
+  "url_final": "https://sapl.al.am.leg.br/media/sapl/public/normajuridica/2018/10048/constituicao_atualizada_-_compilada_ate_a_ec_137.pdf",
+  "content_type": "application/pdf",
+  "bytes": 2271844,
+  "sha256_conteudo": "3e2b4133dafe8e1f01b4259e0daf28363cf1bbf640ae7a34081fc6951aa4f76c",
+  "sha256_arquivo_xz": "1345767d6b58371cca90a828f63dd6b46337ac9451ea4d11b11348788bd409f5",
+  "capturado_em": "2026-11-04T21:24:59Z",
+  "status": "ok",
+  "arquivo": "provas/constituicoes-estaduais/AM/fontes/aleam-sapl-constituicao-1989.pdf.xz"
+}
