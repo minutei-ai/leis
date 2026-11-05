@@ -3,17 +3,18 @@
   "fonte_principal": "planalto-L6015",
   "sha256_fonte_principal": "1e6fd0a0dfa805a812554e3cc6c2f85fda9c551f3e09a6ef2a47b7ed0873adff",
   "sha256_conteudo": "20fb7606f0535c4683e11b923f2b7844f088a222ef6028b60568520ef84a0a01",
-  "capturado_em": "2026-11-04T19:02:16Z",
+  "capturado_em": "2026-11-04T21:30:00Z",
   "url": "https://www.planalto.gov.br/ccivil_03/leis/L6015compilada.htm",
   "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L6015.htm.xz",
   "sha256_snapshot_armazenado": "67c864920c572659a8d13b000b6617d5f2134eb86dc74fb547df9a4409559846",
   "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
   "cobertura_texto": {
-    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
     "equivalente": true,
     "caracteres_normalizados_fonte": 179974,
     "caracteres_normalizados_markdown": 179974,
-    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
   },
   "conversao": {
     "trechos_riscados": 0,
@@ -84,12 +85,14 @@
       "tipo": "consolidada",
       "identidade": "compilado-planalto",
       "integral": true
-    }
+    },
+    "senado_id": null
   },
   "limites": [
     "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
     "O acervo não certifica vigência.",
     "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
-    "Lote parcial da #71; demais prioridades em PENDENCIAS-prioridade.md."
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
   ]
 }

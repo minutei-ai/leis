@@ -1,0 +1,72 @@
+{
+  "documento": "br-federal-lei-1976-12-07-6385",
+  "fonte_principal": "planalto-L6385",
+  "sha256_fonte_principal": "ef238281235062c88aa36b0d9523700cae6eafc172d4a4c9c4ccdde7f0024f08",
+  "sha256_conteudo": "c00a6f55366184456a46552b2983c730d78a4afe9eb8bcd8946283168977cefe",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L6385.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L6385.htm.xz",
+  "sha256_snapshot_armazenado": "444f689ff31699f1b7b92708d17f50125df8c36ddc081b74c4da63b9223b0525",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 64158,
+    "caracteres_normalizados_markdown": 64158,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 168,
+    "links": 304,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 469,
+    "artigos": 24,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "5",
+      "6",
+      "9"
+    ],
+    "ultimos_artigos": [
+      "27-F",
+      "28",
+      "31",
+      "32",
+      "33"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1976-12-07-6385",
+    "numero": "6385",
+    "data": "1976-12-07",
+    "titulo_fonte": "LEI Nº 6385, DE 7 DE DEZEMBRO DE 1976",
+    "ementa": "Dispõe sobre o mercado de valores mobiliários e cria a Comissão de Valores Mobiliários.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "548261"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

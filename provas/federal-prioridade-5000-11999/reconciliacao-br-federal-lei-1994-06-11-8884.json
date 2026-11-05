@@ -1,0 +1,72 @@
+{
+  "documento": "br-federal-lei-1994-06-11-8884",
+  "fonte_principal": "planalto-L8884",
+  "sha256_fonte_principal": "6aeeac27899c505a295a8f3955aad3f99e9ef7203a84c00facf1d1ad3a363324",
+  "sha256_conteudo": "008789612c3208937070373e1ffa9af0c46a21fdf5c1e331c5c17f0917c5887a",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L8884.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L8884.htm.xz",
+  "sha256_snapshot_armazenado": "f7a3602b358767870089719755d07b8653b8a7039805cb1a7fb01c152380310f",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 62224,
+    "caracteres_normalizados_markdown": 62224,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 522,
+    "links": 262,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 462,
+    "artigos": 93,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "84",
+      "85",
+      "86",
+      "87",
+      "88"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1994-06-11-8884",
+    "numero": "8884",
+    "data": "1994-06-11",
+    "titulo_fonte": "LEI Nº 8884, DE 11 DE JUNHO DE 1994",
+    "ementa": "Transforma o Conselho Administrativo de Defesa Econômica - CADE em Autarquia, dispõe sobre a prevenção e a repressão às infrações contra a ordem econômica e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "550760"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

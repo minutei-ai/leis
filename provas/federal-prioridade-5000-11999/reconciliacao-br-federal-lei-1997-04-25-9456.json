@@ -1,0 +1,72 @@
+{
+  "documento": "br-federal-lei-1997-04-25-9456",
+  "fonte_principal": "planalto-L9456",
+  "sha256_fonte_principal": "159cb4218d8426ce1933ea1d20d400f7b2de78fb50f8007ccf02b0533366896a",
+  "sha256_conteudo": "f7fe1e8ad92bad0f21fa77dfb7d79d2a13a8067a8dfb5245d83d11333db50fcd",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L9456.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L9456.htm.xz",
+  "sha256_snapshot_armazenado": "12c6b8dfc22811d34a3619b11e36811f2170e9b21d41f2fb4f94c48d85f7bdc6",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 29693,
+    "caracteres_normalizados_markdown": 29693,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 13,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 263,
+    "artigos": 57,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "52",
+      "53",
+      "54",
+      "55",
+      "56"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1997-04-25-9456",
+    "numero": "9456",
+    "data": "1997-04-25",
+    "titulo_fonte": "LEI Nº 9456, DE 25 DE ABRIL DE 1997",
+    "ementa": "Institui a Lei de Proteção de Cultivares e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "551332"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

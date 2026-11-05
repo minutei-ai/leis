@@ -3,17 +3,18 @@
   "fonte_principal": "planalto-L8987",
   "sha256_fonte_principal": "a011740cb79b6d8bf4f89e4fdd3ab3c75f987d6dba88ce60a5239da1a1bd4976",
   "sha256_conteudo": "fae4fade71ab2037b5e3fcf9802ef9edc1c0e7a4dc3e3a1f353615ef882a9130",
-  "capturado_em": "2026-11-04T19:02:16Z",
+  "capturado_em": "2026-11-04T21:30:00Z",
   "url": "https://www.planalto.gov.br/ccivil_03/leis/L8987compilada.htm",
   "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L8987.htm.xz",
   "sha256_snapshot_armazenado": "79ae1334e3cab5e58fcf21ffca54a6fc6c503e550732338fff6432bf507eea8e",
   "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
   "cobertura_texto": {
-    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
     "equivalente": true,
     "caracteres_normalizados_fonte": 32969,
     "caracteres_normalizados_markdown": 32969,
-    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
   },
   "conversao": {
     "trechos_riscados": 0,
@@ -58,12 +59,14 @@
       "tipo": "consolidada",
       "identidade": "compilado-planalto",
       "integral": true
-    }
+    },
+    "senado_id": null
   },
   "limites": [
     "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
     "O acervo não certifica vigência.",
     "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
-    "Lote parcial da #71; demais prioridades em PENDENCIAS-prioridade.md."
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
   ]
 }

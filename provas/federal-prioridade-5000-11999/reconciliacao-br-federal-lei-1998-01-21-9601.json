@@ -1,0 +1,72 @@
+{
+  "documento": "br-federal-lei-1998-01-21-9601",
+  "fonte_principal": "planalto-L9601",
+  "sha256_fonte_principal": "37acf558c8bc864f588e34be4c7d6012fe7c8964adb425c4b6e0daa2a685004d",
+  "sha256_conteudo": "0a4ce475c0c28d1ff7c50dbf18f553d696faf62780723e6a38fa76487507f48f",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L9601.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L9601.htm.xz",
+  "sha256_snapshot_armazenado": "196273b3bc68d1e176c48a715d5392ae085ba8a4e0414b5f53a9fe5305048e4f",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 7261,
+    "caracteres_normalizados_markdown": 7261,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 10,
+    "links": 29,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 49,
+    "artigos": 10,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1998-01-21-9601",
+    "numero": "9601",
+    "data": "1998-01-21",
+    "titulo_fonte": "LEI Nº 9601, DE 21 DE JANEIRO DE 1998",
+    "ementa": "Dispõe sobre o contrato de trabalho por prazo determinado e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "551477"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

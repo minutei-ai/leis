@@ -1,0 +1,72 @@
+{
+  "documento": "br-federal-lei-1995-07-07-9074",
+  "fonte_principal": "planalto-L9074",
+  "sha256_fonte_principal": "ef4f33daf5407efdef87ffc3f9c9f3a9a0f85bf3bb4611ab78e804046ce1506a",
+  "sha256_conteudo": "2a6f642759edf1d032fb9b62f376071770451d9d44e934e83a15d6306d452501",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L9074compilada.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L9074.htm.xz",
+  "sha256_snapshot_armazenado": "c0bea84cdac6c409ede4d8ee210cd96cc8712908f37f85b82e961074eb908377",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 44114,
+    "caracteres_normalizados_markdown": 44114,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 224,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 258,
+    "artigos": 50,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "4-A"
+    ],
+    "ultimos_artigos": [
+      "36",
+      "37",
+      "38",
+      "39",
+      "40"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1995-07-07-9074",
+    "numero": "9074",
+    "data": "1995-07-07",
+    "titulo_fonte": "LEI Nº 9074, DE 7 DE JULHO DE 1995",
+    "ementa": "Estabelece normas para outorga e prorrogações das concessões e permissões de serviços públicos e dá outras providências.",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "compilado-planalto",
+      "integral": true
+    },
+    "senado_id": "550950"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}
