@@ -1,0 +1,21 @@
+{
+  "capturado_em": "2026-11-04T21:45:00Z",
+  "nota": "Captura HTTP SAPL Natal — LO municipal consolidada. Não certifica vigência.",
+  "fontes": [
+    {
+      "chave": "br-municipal-2408102-lei-organica-1990",
+      "url": "http://sapl.natal.rn.leg.br/media/sapl/public/normajuridica/1990/193/lei_organica_atualizada.pdf",
+      "arquivo": "provas/nordeste-lei-14133/capitais/2408102/fontes/br-municipal-2408102-lei-organica-1990.pdf.xz",
+      "formato": "pdf",
+      "sha256_conteudo": "41c3a5e75035541559086faa1ade980903177a90162fe5834247179d3b15e44d",
+      "sha256_arquivo_xz": "1e96f202b7384959f766a5efa8aac7c888aa7764ea35c54956796b17f933fc98",
+      "bytes_fonte": 758517,
+      "capturado_em": "2026-11-04T21:45:00Z",
+      "sha256_corpo_markdown": "5d1bf8aca516d69dd692a144a609dcd8b7c675972402ce0647162ab139771f40",
+      "sha256_markdown": "aac09c14e22a93ef254398bb5d06033c94cb2a3d736a66ad0c638579e5549ea1",
+      "carater": "lei-organica-municipal",
+      "artigos_contados": 180,
+      "artigos_max_marcador": 181
+    }
+  ]
+}

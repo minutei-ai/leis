@@ -3,7 +3,7 @@
   "cobertura": "parcial",
   "contrato_versao": 1,
   "issue": 101,
-  "nota": "Inventário das 26 capitais estaduais (DF fora: Lei Orgânica do DF está na #86). Atualizado nesta entrega após publicação das normas prioritárias da #57. Só conta norma publicada no acervo; citação em outra norma não cobre.",
+  "nota": "Inventário das 26 capitais estaduais (DF fora: Lei Orgânica do DF está na #86). Só conta norma publicada no acervo; citação em outra norma não cobre. Decreto parcial-art60 (Goiânia 2.469) e decretos só de critério de julgamento (BH 18.289) não contam como regulamento geral. Erro HTTP/API indisponível ≠ ausência no ordenamento. Não certifica vigência.",
   "capitais": [
     {
       "uf": "RO",
@@ -36,7 +36,9 @@
       "lei_organica": "ausente",
       "decreto_14133": "ausente",
       "decreto_14133_carater": "ausente",
-      "notas": []
+      "notas": [
+        "Estado AM tem Decreto 47.133/2023 geral publicado no acervo estadual; decreto municipal de Manaus e LO seguem ausentes."
+      ]
     },
     {
       "uf": "RR",
@@ -187,11 +189,12 @@
       "ibge": "3106200",
       "pasta_existe": true,
       "arquivos_md": 17,
-      "lei_organica": "ausente",
+      "lei_organica": "pendente-acesso-sil-cmbh",
       "decreto_14133": "municipais/3106200/br-municipal-3106200-decreto-2023-03-28-18289.md",
       "decreto_14133_carater": "parcial-criterio-julgamento",
       "notas": [
-        "Lei Orgânica ausente; decretos 18.289/2023, 17.813/2021, 18.096/2022, 18.240/2023, 18.242/2023 e alterador 18.621/2024 publicados (nenhum é regulamento geral completo da 14.133; 18.621 é ato alterador, não consolidação)."
+        "Lei Orgânica: portal CMBH/SIL identificado, mas API SIL (cmbhsilint) inacessível neste ambiente na captura de 2026-11-04 — pendência de acesso, não ausência declarada.",
+        "Decretos 18.289/2023, 17.813/2021, 18.096/2022, 18.240/2023, 18.242/2023 e alterador 18.621/2024 publicados; nenhum é regulamento geral completo da 14.133."
       ]
     },
     {
@@ -292,19 +295,22 @@
       "decreto_14133": "municipais/5208707/br-municipal-5208707-decreto-2024-06-25-2469.md",
       "decreto_14133_carater": "parcial-art60",
       "notas": [
-        "Decreto 2.469/2024 é parcial (art. 60 desempate); Lei Orgânica ausente."
+        "Decreto 2.469/2024 é parcial-art60 (desempate) — NÃO conta como regulamento geral.",
+        "Lei Orgânica ausente no acervo."
       ]
     }
   ],
   "resumo": {
     "com_lei_organica": 1,
+    "com_lei_organica_pendente_acesso": 1,
     "com_decreto_14133_qualquer": 3,
     "com_decreto_14133_geral": 1,
     "pastas_existentes": 3
   },
   "pendencias": [
-    "Publicar Lei Orgânica das 25 capitais ainda sem LO no acervo.",
-    "Publicar decreto geral 14.133 das capitais sem cobertura (parcial de BH/Goiânia não conta como cobertura completa).",
-    "Criar pastas municipais ausentes no ato da primeira publicação de cada capital."
+    "Publicar Lei Orgânica das capitais ainda sem LO no acervo (BH: retomar SIL/CMBH quando API acessível).",
+    "Publicar decreto geral 14.133 das capitais sem cobertura; parcial de BH/Goiânia não conta como cobertura completa.",
+    "Criar pastas municipais ausentes no ato da primeira publicação de cada capital.",
+    "Manaus: aproveitar experiência do Decreto estadual AM 47.133 já publicado para localizar decreto municipal e LO."
   ]
 }

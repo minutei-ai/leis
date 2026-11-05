@@ -181,6 +181,9 @@ class TestLicitacoesLocaisIndex(unittest.TestCase):
                 self.assertTrue((ROOT / d["arquivo"]).is_file(), d["arquivo"])
         for p in idx["prioritarios_issue"]:
             self.assertEqual(p["status"].split("-")[0], "publicado")
+        mg = next(u for u in idx["ufs"] if u["uf"] == "MG")
+        mg_ids = {d["norma_id"] for d in mg["documentos"]}
+        self.assertIn("br-municipal-3106200-decreto-2024-02-05-18621", mg_ids)
 
     def test_bh_complementary_decrees_published(self) -> None:
         cat = json.loads((ROOT / "metadados/licitacoes-locais/MG.json").read_text(encoding="utf-8"))
@@ -217,6 +220,94 @@ class TestRegulamentacao14133Ufs(unittest.TestCase):
         self.assertEqual(df["status_acervo"], "decreto-geral-publicado")
         self.assertEqual(df["decretos_14133"][0]["norma_id"], "br-df-decreto-2023-03-16-44330")
         self.assertTrue((ROOT / df["decretos_14133"][0]["arquivo"]).is_file())
+        am = next(u for u in idx["ufs"] if u["uf"] == "AM")
+        self.assertEqual(am["status_acervo"], "decreto-geral-publicado")
+        self.assertEqual(am["decretos_14133"][0]["norma_id"], "br-am-decreto-2023-03-10-47133")
+        self.assertEqual(am["decretos_14133"][0]["carater"], "regulamento-geral-estadual")
+        self.assertTrue((ROOT / am["decretos_14133"][0]["arquivo"]).is_file())
+        self.assertEqual(set(idx["resumo"]["decreto_geral_publicado"]), {"PR", "DF", "AM"})
+
+    def test_opaque_id_reuse_and_classifications(self) -> None:
+        idx = json.loads(
+            (ROOT / "metadados/regulamentacao-14133-ufs/index.json").read_text(encoding="utf-8")
+        )
+        mg = next(u for u in idx["ufs"] if u["uf"] == "MG")
+        self.assertEqual(mg["status_acervo"], "suite-tematica-sem-decreto-geral")
+        mg_ids = {d["norma_id"] for d in mg["decretos_14133"]}
+        self.assertIn("br-mg-decreto-2024-02-23-48779", mg_ids)  # SRP
+        self.assertIn("br-mg-decreto-2023-03-17-48587", mg_ids)
+        for d in mg["decretos_14133"]:
+            self.assertTrue((ROOT / d["arquivo"]).is_file(), d["arquivo"])
+            self.assertNotEqual(d["carater"], "regulamento-geral-estadual")
+        sp = next(u for u in idx["ufs"] if u["uf"] == "SP")
+        self.assertEqual(sp["status_acervo"], "suite-tematica-e-transitorio")
+        sp67 = next(d for d in sp["decretos_14133"] if d["norma_id"] == "br-sp-norma-207462")
+        self.assertEqual(sp67["carater"], "aplicacao-transitoria-regulamentos-federais")
+        go = next(u for u in idx["ufs"] if u["uf"] == "GO")
+        self.assertEqual(go["status_acervo"], "suite-tematica-sem-decreto-geral")
+        pe = next(u for u in idx["ufs"] if u["uf"] == "PE")
+        self.assertEqual(pe["status_acervo"], "leis-e-decreto-especifico-sem-geral")
+        pe_dec = pe["decretos_14133"][0]
+        self.assertEqual(pe_dec["norma_id"], "br-pe-decreto-2023-12-12-55916")
+        self.assertEqual(pe_dec["carater"], "especifico-gratificacoes-lei-18384")
+        self.assertTrue((ROOT / pe_dec["arquivo"]).is_file())
+        rn = next(u for u in idx["ufs"] if u["uf"] == "RN")
+        self.assertEqual(rn["status_acervo"], "identificado-fora-do-acervo")
+        self.assertEqual(rn["decretos_14133"], [])
+
+    def test_am_47133_fold(self) -> None:
+        fontes = json.loads(
+            (ROOT / "provas/regulamentacao-14133-ufs/AM/fontes.json").read_text(encoding="utf-8")
+        )
+        entry = fontes["fontes"][0]
+        raw = lzma.open(ROOT / entry["arquivo"]).read()
+        self.assertEqual(sha256_bytes(raw), entry["sha256_conteudo"])
+        soup = BeautifulSoup(raw.decode("utf-8", errors="replace"), "lxml")
+        for tag in soup.find_all(["script", "style", "nav", "header", "footer"]):
+            tag.decompose()
+        html_fold = from_marker(
+            nl.strip_fold(soup.body.get_text(" ") if soup.body else ""),
+            ["decretono47133de10demarcode2023regulamenta"],
+        )
+        stop = "estetextonaosubstituiopublicadonodoede10demarcode2023"
+        hi = html_fold.find(stop)
+        if hi >= 0:
+            html_fold = html_fold[: hi + len(stop)]
+        md_full = (ROOT / "estaduais/AM/br-am-decreto-2023-03-10-47133.md").read_text(encoding="utf-8")
+        md = strip_note(md_full)
+        md_fold = from_marker(
+            nl.strip_fold(nl.md_text_all(md)),
+            ["decretono47133de10demarcode2023regulamenta"],
+        )
+        mi = md_fold.find(stop)
+        if mi >= 0:
+            md_fold = md_fold[: mi + len(stop)]
+        self.assertEqual(md_fold, html_fold)
+        self.assertEqual(sha256_bytes(md_full.encode("utf-8")), entry["sha256_markdown"])
+        self.assertEqual(sha256_bytes(md.encode("utf-8")), entry["sha256_corpo_markdown"])
+        self.assertIn("REGULAMENTA", md)
+        self.assertIn("14.133", md)
+
+    def test_pe_55916_fold(self) -> None:
+        fontes = json.loads(
+            (ROOT / "provas/regulamentacao-14133-ufs/PE/fontes.json").read_text(encoding="utf-8")
+        )
+        entry = fontes["fontes"][0]
+        self.assertEqual(entry["carater"], "especifico-gratificacoes-lei-18384")
+        raw = lzma.open(ROOT / entry["arquivo"]).read()
+        self.assertEqual(sha256_bytes(raw), entry["sha256_conteudo"])
+        soup = BeautifulSoup(raw.decode("utf-8", errors="replace"), "lxml")
+        div = soup.select_one("#divTexto")
+        self.assertIsNotNone(div)
+        html_fold = from_marker(nl.strip_fold(div.get_text(" ")), ["decretono55916"])
+        md_full = (ROOT / "estaduais/PE/br-pe-decreto-2023-12-12-55916.md").read_text(encoding="utf-8")
+        md = strip_note(md_full)
+        md_fold = from_marker(nl.strip_fold(nl.md_text_all(md)), ["decretono55916"])
+        self.assertEqual(md_fold, html_fold)
+        self.assertEqual(sha256_bytes(md_full.encode("utf-8")), entry["sha256_markdown"])
+        self.assertEqual(sha256_bytes(md.encode("utf-8")), entry["sha256_corpo_markdown"])
+        self.assertIn("18.384", md)
+        self.assertIn("Não é regulamento geral", md_full)
 
 
 class TestCapitaisInventario(unittest.TestCase):
@@ -231,6 +322,12 @@ class TestCapitaisInventario(unittest.TestCase):
         self.assertEqual(sp["decreto_14133_carater"], "geral")
         self.assertTrue((ROOT / sp["lei_organica"]).is_file())
         self.assertTrue((ROOT / sp["decreto_14133"]).is_file())
+        go = next(c for c in idx["capitais"] if c["ibge"] == "5208707")
+        self.assertEqual(go["decreto_14133_carater"], "parcial-art60")
+        bh = next(c for c in idx["capitais"] if c["ibge"] == "3106200")
+        self.assertEqual(bh["decreto_14133_carater"], "parcial-criterio-julgamento")
+        self.assertTrue(str(bh["lei_organica"]).startswith("pendente"))
+        self.assertEqual(idx["resumo"]["com_decreto_14133_geral"], 1)
 
 
 
