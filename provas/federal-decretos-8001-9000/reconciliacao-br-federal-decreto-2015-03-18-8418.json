@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-03-18-8418",
+  "fonte_principal": "camara-D8418",
+  "sha256_fonte_principal": "808628a5be3734bb8e454e2981984c0bbd2344d0ca1643333ce535b1fa41ff83",
+  "sha256_conteudo": "808628a5be3734bb8e454e2981984c0bbd2344d0ca1643333ce535b1fa41ff83",
+  "capturado_em": "2026-11-04T20:21:43Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8418-18-marco-2015-780296-publicacaooriginal-146381-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8418.htm.xz",
+  "sha256_snapshot_armazenado": "ba6b2e80c58b0fd8438dcbdf3d79f7f7900d0e538be52eabac32d98c03490c37",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 55,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-03-18-8418",
+    "numero": "8418",
+    "data": "2015-03-18",
+    "titulo_fonte": "DECRETO Nº 8418, DE 18 DE MARÇO DE 2015",
+    "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DO REINO DA SUÉCIA SOBRE O EXERCÍCIO DE ATIVIDADES REMUNERADAS POR PARTE DE DEPENDENTES DO PESSOAL DIPLOMÁTICO, CONSULAR, ADMINISTRATIVO E TÉCNICO, FIRMADO EM ESTOCOLMO, EM 11 DE SETEMBRO DE 2007.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "593876"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

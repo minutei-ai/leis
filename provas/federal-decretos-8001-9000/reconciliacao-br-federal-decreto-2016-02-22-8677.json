@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-02-22-8677",
+  "fonte_principal": "camara-D8677",
+  "sha256_fonte_principal": "ca856d240e3d10bf95abc2f622be6bbdf76db4824c8f2a9ec9d272061c9c6980",
+  "sha256_conteudo": "ca856d240e3d10bf95abc2f622be6bbdf76db4824c8f2a9ec9d272061c9c6980",
+  "capturado_em": "2026-11-04T20:25:54Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8677-22-fevereiro-2016-782413-publicacaooriginal-149515-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8677.htm.xz",
+  "sha256_snapshot_armazenado": "bb7c7978f7766e4d86a19dc7989cdd2f4f0f149404aee64aae69e278e6e94f26",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-02-22-8677",
+    "numero": "8677",
+    "data": "2016-02-22",
+    "titulo_fonte": "DECRETO Nº 8677, DE 22 DE FEVEREIRO DE 2016",
+    "ementa": "ALTERA O DECRETO Nº 8.275, DE 27 DE JUNHO DE 2014, QUE APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DA SUPERINTENDÊNCIA DE DESENVOLVIMENTO DA AMAZÔNIA - SUDAM, E REMANEJA CARGOS EM COMISSÃO.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414455"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

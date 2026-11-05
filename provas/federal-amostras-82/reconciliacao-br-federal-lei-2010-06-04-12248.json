@@ -1,0 +1,63 @@
+{
+  "documento": "br-federal-lei-2010-06-04-12248",
+  "fonte_principal": "planalto-L12248-2010-06-04",
+  "sha256_fonte_principal": "ee89c86406ef692c1cbe459d1948813796f4465ee1b5832d978cd64fdc91ad29",
+  "sha256_conteudo": "5f9fd317b0e46bfc1f79ba3322aa4a29a7ee736ab5235c18256fe0c114fd1d24",
+  "capturado_em": "2026-11-04T20:49:13Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/L12248.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12248-2010-06-04.htm.xz",
+  "sha256_snapshot_armazenado": "45cf18306884e90f316b2d4aebc01d0fbcf5a1f5199758d96fd4924ed54f5967",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 3,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "desconhecido",
+        "largura": "76",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/Decreto/Image4.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 11,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2010-06-04-12248",
+    "numero": "12248",
+    "data": "2010-06-04",
+    "titulo_fonte": "LEI Nº 12248, DE 4 DE JUNHO DE 2010",
+    "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério do Turismo, crédito suplementar no valor de R$ 442.723.360,00, para reforço de dotação constante da Lei Orçamentária vigente.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "575890"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

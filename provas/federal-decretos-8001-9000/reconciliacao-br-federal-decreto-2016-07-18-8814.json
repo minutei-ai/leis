@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-07-18-8814",
+  "fonte_principal": "camara-D8814",
+  "sha256_fonte_principal": "7f2e0163dac2c0885d2b2cda61978356c303b11e1d10cfe750c059725964e9ea",
+  "sha256_conteudo": "7f2e0163dac2c0885d2b2cda61978356c303b11e1d10cfe750c059725964e9ea",
+  "capturado_em": "2026-11-04T20:30:44Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8814-18-julho-2016-783380-publicacaooriginal-150802-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8814.htm.xz",
+  "sha256_snapshot_armazenado": "c0635e648f15e8ad0e65d999193ba244ee5d78528f5ea85d370b42efdd2f5c43",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 199,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-07-18-8814",
+    "numero": "8814",
+    "data": "2016-07-18",
+    "titulo_fonte": "DECRETO Nº 8814, DE 18 DE JULHO DE 2016",
+    "ementa": "PROMULGA A CONVENÇÃO INTERNACIONAL SOBRE SALVAMENTO MARÍTIMO - SALVAGE-89, FIRMADA PELA REPÚBLICA FEDERATIVA DO BRASIL, EM LONDRES, EM 28 DE ABRIL DE 1989.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "592275"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

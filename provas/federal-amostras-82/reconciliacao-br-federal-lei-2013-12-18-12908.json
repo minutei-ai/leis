@@ -1,0 +1,65 @@
+{
+  "documento": "br-federal-lei-2013-12-18-12908",
+  "fonte_principal": "planalto-L12908-2013-12-18",
+  "sha256_fonte_principal": "5070d62a0a5c87cc66865eda9a5f0b69fcaa3b0e7ff0cedfd67332602a8f9f3b",
+  "sha256_conteudo": "1fe00f600cfb0ad1c46d7bfc3fcbb43053421d994429560eb6357eb70c5d4789",
+  "capturado_em": "2026-11-04T20:51:14Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12908.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12908-2013-12-18.htm.xz",
+  "sha256_snapshot_armazenado": "7a9b376ca5fedc245a004b987c9569129c8f463c5ebec7b9af9474ae2d3e2442",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 2,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 13,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 13,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 16,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2013-12-18-12908",
+    "numero": "12908",
+    "data": "2013-12-18",
+    "titulo_fonte": "LEI Nº 12908, DE 18 DE DEZEMBRO DE 2013",
+    "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério do Meio Ambiente, crédito suplementar no valor de R$ 1.100.000,00, para reforço de dotação constante da Lei Orçamentária vigente.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "591356"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

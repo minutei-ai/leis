@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-09-28-8520",
+  "fonte_principal": "camara-D8520",
+  "sha256_fonte_principal": "0c0561f76770413bb05acefc6f8e2db5e80ab8180d8f98324d87cf3f65b64238",
+  "sha256_conteudo": "0c0561f76770413bb05acefc6f8e2db5e80ab8180d8f98324d87cf3f65b64238",
+  "capturado_em": "2026-11-04T20:22:51Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8520-28-setembro-2015-781631-publicacaooriginal-148264-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8520.htm.xz",
+  "sha256_snapshot_armazenado": "4679cfcca3882c6ee8ae6986864744a4667d34a2e383d2aa1507bc17e53d9a85",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 35,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-09-28-8520",
+    "numero": "8520",
+    "data": "2015-09-28",
+    "titulo_fonte": "DECRETO Nº 8520, DE 28 DE SETEMBRO DE 2015",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITÓRIO NACIONAL, DA RESOLUÇÃO 2174 (2014), DE 27 DE AGOSTO DE 2014, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE ALTERA O EMBARGO DE ARMAS APLICÁVEL À LÍBIA E AUTORIZA A IMPOSIÇÃO DE SANÇÕES A INDIVÍDUOS E A ENTIDADES.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414163"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

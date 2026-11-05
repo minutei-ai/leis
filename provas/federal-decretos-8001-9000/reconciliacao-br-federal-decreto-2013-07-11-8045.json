@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2013-07-11-8045",
+  "fonte_principal": "camara-D8045",
+  "sha256_fonte_principal": "21bcf4f8e2f1221668dce08eb2fb4fee332143378d4a7220b64280e6a6bd7e7e",
+  "sha256_conteudo": "21bcf4f8e2f1221668dce08eb2fb4fee332143378d4a7220b64280e6a6bd7e7e",
+  "capturado_em": "2026-11-04T20:14:01Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8045-11-julho-2013-776492-publicacaooriginal-140422-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8045.htm.xz",
+  "sha256_snapshot_armazenado": "494fa69acbc5d3d7bf9bd0cec09d8de4fc7bfcb96955a526bd134e222f17d352",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 143,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2013-07-11-8045",
+    "numero": "8045",
+    "data": "2013-07-11",
+    "titulo_fonte": "DECRETO Nº 8045, DE 11 DE JULHO DE 2013",
+    "ementa": "PROMULGA O TRATADO DE EXTRADIÇÃO ENTRE A REPUBLICA FEDERATIVA DO BRASIL E A REPUBLICA  DO PANAMA, FIRMADO NA CIDADE DO PANAMA, EM 10 DE AGOSTO DE 2007.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "413322"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

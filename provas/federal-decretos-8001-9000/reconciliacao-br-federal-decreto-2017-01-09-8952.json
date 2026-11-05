@@ -1,0 +1,104 @@
+{
+  "documento": "br-federal-decreto-2017-01-09-8952",
+  "fonte_principal": "planalto-D8952",
+  "sha256_fonte_principal": "d5064322112700b694f6206eb1635d20b9d1f20a7a267651383679f819a52e45",
+  "sha256_conteudo": "f09f4b917fc87412171c0de06184179f33e2e6af573a4b726881a9103e390eb3",
+  "capturado_em": "2026-11-04T20:44:19Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/D8952.htm",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/planalto-D8952.htm.xz",
+  "sha256_snapshot_armazenado": "dbbe8396e056b5af9e81715fe981273ad150e8608398e4e1ddc4ce36fb9132e8",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 554,
+    "links": 25,
+    "tabelas_markdown": 1,
+    "tabelas_html": 6,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 16,
+        "colunas_max": 4,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 9,
+        "colunas_max": 4,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 6,
+        "colunas_max": 4,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 5,
+        "colunas_max": 4,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 3,
+        "colunas_max": 4,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 112,
+        "colunas_max": 4,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 23,
+        "colunas_max": 6,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 58,
+    "artigos": 9,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2017-01-09-8952",
+    "numero": "8952",
+    "data": "2017-01-09",
+    "titulo_fonte": "DECRETO Nº 8952, DE 9 DE JANEIRO DE 2017",
+    "ementa": "ALTERA O DECRETO Nº 4.740, DE 13 DE JUNHO DE 2003, QUE APROVA O ESTATUTO E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DA FUNDAÇÃO INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA - IBGE, REMANEJA CARGOS EM COMISSÃO E FUNÇÕES DE CONFIANÇA E SUBSTITUI CARGOS EM COMISSÃO DO GRUPO-DIREÇÃO E ASSESSORAMENTO SUPERIORES - DAS POR FUNÇÕES COMISSIONADAS DO PODER EXECUTIVO - FCPE.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "603235"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

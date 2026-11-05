@@ -1,0 +1,69 @@
+{
+  "documento": "br-federal-lei-2010-09-15-12323",
+  "fonte_principal": "planalto-L12323-2010-09-15",
+  "sha256_fonte_principal": "61ce6ea56e0f4b623fab675fb0230d30815199a31ea8bbcc7d2601a22d7fb104",
+  "sha256_conteudo": "a74439bb353a0c235c305fbb873d7a3e0b097e52d6811d7000fb5333d14c8c71",
+  "capturado_em": "2026-11-04T20:49:17Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/L12323.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12323-2010-09-15.htm.xz",
+  "sha256_snapshot_armazenado": "5822b5907e6e464c119919f3bb05067421eb00ef00ff199b2e00716ea63cdc19",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 3,
+    "tabelas_markdown": 1,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "desconhecido",
+        "largura": "76",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/Decreto/Image4.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 4,
+        "colunas_max": 3,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 14,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2010-09-15-12323",
+    "numero": "12323",
+    "data": "2010-09-15",
+    "titulo_fonte": "LEI Nº 12323, DE 15 DE SETEMBRO DE 2010",
+    "ementa": "Cria cargos no Quadro de Pessoal Permanente da Agência Nacional de Cinema - ANCINE, de que trata a Lei nº 10.871, de 20 de maio de 2004.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "585320"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

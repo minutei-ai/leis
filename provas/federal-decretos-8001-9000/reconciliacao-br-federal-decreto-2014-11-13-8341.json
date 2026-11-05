@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-11-13-8341",
+  "fonte_principal": "camara-D8341",
+  "sha256_fonte_principal": "18826f9f31b1a2f823c909adf34355ec38eb1890206f80615a34f7d92afcbac2",
+  "sha256_conteudo": "18826f9f31b1a2f823c909adf34355ec38eb1890206f80615a34f7d92afcbac2",
+  "capturado_em": "2026-11-04T20:18:32Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8341-13-novembro-2014-779576-publicacaooriginal-145380-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8341.htm.xz",
+  "sha256_snapshot_armazenado": "5672d8b0d1de777f291e1e96477373bd5b67c96b6adc44511f6fffca69029fdc",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 70,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-11-13-8341",
+    "numero": "8341",
+    "data": "2014-11-13",
+    "titulo_fonte": "DECRETO Nº 8341, DE 13 DE NOVEMBRO DE 2014",
+    "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL E O GOVERNO  DA REPUBLICA DE MOÇAMBIQUE RELATIVO AO  RECONHECIMENTO MUTUO DE CARTEIRAS DE HABILITAÇÃO, FIRMADO EM BRASILIA, EM 17 DE JUNHO DE 2010.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "589172"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

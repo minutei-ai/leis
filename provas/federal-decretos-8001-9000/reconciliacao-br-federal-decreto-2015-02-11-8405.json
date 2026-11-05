@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-02-11-8405",
+  "fonte_principal": "camara-D8405",
+  "sha256_fonte_principal": "7048dcdfc978314fdd32038c2c8396ca2bc3a470117048e969f519def9d6fba1",
+  "sha256_conteudo": "7048dcdfc978314fdd32038c2c8396ca2bc3a470117048e969f519def9d6fba1",
+  "capturado_em": "2026-11-04T20:21:28Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8405-11-fevereiro-2015-780144-publicacaooriginal-146105-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8405.htm.xz",
+  "sha256_snapshot_armazenado": "43363c6cdc2cc1e4e1817d726e3ab5cbc2164217ce1341221ec3c9e1da48d2a1",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 146,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-02-11-8405",
+    "numero": "8405",
+    "data": "2015-02-11",
+    "titulo_fonte": "DECRETO Nº 8405, DE 11 DE FEVEREIRO DE 2015",
+    "ementa": "PROMULGA O ACORDO SOBRE A PREVIDÊNCIA SOCIAL ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E O REINO DA BÉLGICA, FIRMADO EM BRUXELAS, EM 4 DE OUTUBRO DE 2009.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "593829"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

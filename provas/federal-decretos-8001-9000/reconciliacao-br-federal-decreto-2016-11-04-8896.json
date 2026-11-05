@@ -1,0 +1,50 @@
+{
+  "documento": "br-federal-decreto-2016-11-04-8896",
+  "fonte_principal": "camara-D8896",
+  "sha256_fonte_principal": "7f41b7fc9aa4a3f600a6f5c1e548036cdb3c1cd286a22e366ee6899f272587bf",
+  "sha256_conteudo": "7f41b7fc9aa4a3f600a6f5c1e548036cdb3c1cd286a22e366ee6899f272587bf",
+  "capturado_em": "2026-11-04T20:33:48Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8896-4-novembro-2016-783882-publicacaooriginal-151357-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8896.htm.xz",
+  "sha256_snapshot_armazenado": "3514af87768ddc3ddc822a99d48e3961c1296c3a23fb8f61f0957f9bde413679",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 8,
+    "artigos": 1,
+    "primeiros_artigos": [
+      "9"
+    ],
+    "ultimos_artigos": [
+      "9"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-11-04-8896",
+    "numero": "8896",
+    "data": "2016-11-04",
+    "titulo_fonte": "DECRETO Nº 8896, DE 4 DE NOVEMBRO DE 2016",
+    "ementa": "ALTERA O DECRETO Nº 8.275, DE 27 DE JUNHO DE 2014, QUE APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DA SUPERINTENDÊNCIA DO DESENVOLVIMENTO DA AMAZÔNIA - SUDAM, REMANEJA FUNÇÕES GRATIFICADAS E SUBSTITUI CARGOS EM COMISSÃO DO GRUPO DIREÇÃO E ASSESSORAMENTO SUPERIORES- DAS POR FUNÇÕES COMISSIONADAS DO PODER EXECUTIVO - FCPE.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "604090"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

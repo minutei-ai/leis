@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-11-05-8330",
+  "fonte_principal": "camara-D8330",
+  "sha256_fonte_principal": "4c395d10f20d41ab063d5e6e4b0a00b125f56c6f80b451d9cf50d20fcba3fb86",
+  "sha256_conteudo": "4c395d10f20d41ab063d5e6e4b0a00b125f56c6f80b451d9cf50d20fcba3fb86",
+  "capturado_em": "2026-11-04T20:17:53Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8330-5-novembro-2014-779492-publicacaooriginal-145282-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8330.htm.xz",
+  "sha256_snapshot_armazenado": "e9e54b7664314fc6d2e15f24547c085313d0a939a8484f4fcd46defcf0c46ce4",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 352,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-11-05-8330",
+    "numero": "8330",
+    "data": "2014-11-05",
+    "titulo_fonte": "DECRETO Nº 8330, DE 5 DE NOVEMBRO DE 2014",
+    "ementa": "PROMULGA O ACORDO INTERNACIONAL DE MADEIRAS TROPICAIS, FIRMADO PELA REPUBLICA FEDERATIVA DO BRASIL, EM GENEBRA, EM 27 DE JANEIRO DE 2006.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "589129"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

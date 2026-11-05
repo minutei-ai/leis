@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-07-24-8288",
+  "fonte_principal": "camara-D8288",
+  "sha256_fonte_principal": "03a706305a59ca3d113594b397de7188aa27a3caec940c779d35492fd445d970",
+  "sha256_conteudo": "03a706305a59ca3d113594b397de7188aa27a3caec940c779d35492fd445d970",
+  "capturado_em": "2026-11-04T20:16:40Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8288-24-julho-2014-779110-publicacaooriginal-144653-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8288.htm.xz",
+  "sha256_snapshot_armazenado": "fa745d2e03f48e95f50cd37186744204cfb4f5927e45fd7603129702f640d75e",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 132,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-07-24-8288",
+    "numero": "8288",
+    "data": "2014-07-24",
+    "titulo_fonte": "DECRETO Nº 8288, DE 24 DE JULHO DE 2014",
+    "ementa": "PROMULGA O ACORDO DE PREVIDENCIA SOCIAL ENTRE A REPUBLICA FEDERATIVA DO BRASIL E O  CANADA, FIRMADO EM BRASILIA, EM 8 DE AGOSTO DE 2011.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "413788"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

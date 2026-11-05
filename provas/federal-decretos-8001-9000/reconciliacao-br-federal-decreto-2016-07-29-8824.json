@@ -1,0 +1,52 @@
+{
+  "documento": "br-federal-decreto-2016-07-29-8824",
+  "fonte_principal": "camara-D8824",
+  "sha256_fonte_principal": "254d0af2efb95ccc23c4adde02a1ce6686d5d3ce6db324c1e4ff7a1bf09adafa",
+  "sha256_conteudo": "254d0af2efb95ccc23c4adde02a1ce6686d5d3ce6db324c1e4ff7a1bf09adafa",
+  "capturado_em": "2026-11-04T20:31:11Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8824-29-julho-2016-783459-publicacaooriginal-150897-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8824.htm.xz",
+  "sha256_snapshot_armazenado": "ef23c0dbdd5c392d028b17fd4a7e5589941a33954081210a626cfd60ab51d9b0",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 9,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-07-29-8824",
+    "numero": "8824",
+    "data": "2016-07-29",
+    "titulo_fonte": "DECRETO Nº 8824, DE 29 DE JULHO DE 2016",
+    "ementa": "ALTERA O DECRETO Nº 8.670, DE 12 DE FEVEREIRO DE 2016, QUE DISPÕE SOBRE A PROGRAMAÇÃO ORÇAMENTÁRIA E FINANCEIRA E ESTABELECE O CRONOGRAMA MENSAL DE DESEMBOLSO DO PODER EXECUTIVO PARA O EXERCÍCIO DE 2016.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "592315"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "documento": "br-federal-decreto-2016-06-10-8785",
+  "fonte_principal": "planalto-D8785",
+  "sha256_fonte_principal": "dac0c99d43727c4da5b1515b7e510aae21e9a2827d3e2be7e00a6b33df940214",
+  "sha256_conteudo": "601cec5aa475e944387db1dd4c4ac7b6bca4e10b277b26c359618380822d003c",
+  "capturado_em": "2026-11-04T20:44:06Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8785.htm",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/planalto-D8785.htm.xz",
+  "sha256_snapshot_armazenado": "f377310a4e65c819cf93e158c102317a5a4c2f983644a69faa31188411495846",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 526,
+    "links": 4,
+    "tabelas_markdown": 7,
+    "tabelas_html": 1,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 27,
+        "colunas_max": 9,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 20,
+        "colunas_max": 6,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 7,
+        "colunas_max": 5,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 2,
+        "colunas_max": 8,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 4,
+        "colunas_max": 10,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 2,
+        "colunas_max": 7,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 2,
+        "colunas_max": 6,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 6,
+        "colunas_max": 3,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 45,
+    "artigos": 4,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-06-10-8785",
+    "numero": "8785",
+    "data": "2016-06-10",
+    "titulo_fonte": "DECRETO Nº 8785, DE 10 DE JUNHO DE 2016",
+    "ementa": "DISPÕE SOBRE O REMANEJAMENTO DE CARGOS EM COMISSÃO DO GRUPO-DIREÇÃO E ASSESSORAMENTO SUPERIORES, DE FUNÇÕES GRATIFICADAS E DE GRATIFICAÇÕES TEMPORÁRIAS DE ATIVIDADE EM ESCOLA DE GOVERNO PARA A SECRETARIA DE GESTÃO DO MINISTÉRIO DO PLANEJAMENTO, DESENVOLVIMENTO E GESTÃO.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "592164"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

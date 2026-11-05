@@ -1,0 +1,56 @@
+{
+  "documento": "br-federal-decreto-2017-03-08-9000",
+  "fonte_principal": "camara-D9000",
+  "sha256_fonte_principal": "3a04596d8536e1fb4c63bf554585059c2ec2ac35be3bbab8ba5ccfb2cab0072a",
+  "sha256_conteudo": "3a04596d8536e1fb4c63bf554585059c2ec2ac35be3bbab8ba5ccfb2cab0072a",
+  "capturado_em": "2026-11-04T20:37:50Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-9000-8-marco-2017-784420-publicacaooriginal-152083-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D9000.htm.xz",
+  "sha256_snapshot_armazenado": "e0b6a91280f665b482a6d6bf488ff6effc6ac893f45d15f0e887795a58562146",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 128,
+    "artigos": 4,
+    "primeiros_artigos": [
+      "3",
+      "5",
+      "18",
+      "20"
+    ],
+    "ultimos_artigos": [
+      "3",
+      "5",
+      "18",
+      "20"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2017-03-08-9000",
+    "numero": "9000",
+    "data": "2017-03-08",
+    "titulo_fonte": "DECRETO Nº 9000, DE 8 DE MARÇO DE 2017",
+    "ementa": "Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções de Confiança do Ministério dos Transportes, Portos e Aviação Civil, remaneja cargos em comissão e substitui cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS por Funções Comissionadas do Poder Executivo - FCPE e altera os Decretos nº 3.564, de 17 de agosto de 2000; nº 4.122 e nº 4.130, de 13 de fevereiro de 2002; nº 5.731, de 20 de março de 2006; nº 7.554, de 15 de agosto de 2011; e nº 7.860 e nº 7.861, de 6 de dezembro de 2012.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "17652478"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

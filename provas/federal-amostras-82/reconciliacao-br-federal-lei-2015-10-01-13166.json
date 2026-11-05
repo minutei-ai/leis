@@ -1,0 +1,73 @@
+{
+  "documento": "br-federal-lei-2015-10-01-13166",
+  "fonte_principal": "planalto-L13166-2015-10-01",
+  "sha256_fonte_principal": "2853c3922cc67af5323b95bf766cfe3d0381fe133f523c24bbb080cfe46d918f",
+  "sha256_conteudo": "6c986213866a5b9e7a23d01945247bb7d827f4f4f578453969e34af4f51cfce3",
+  "capturado_em": "2026-11-04T20:52:49Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13166.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L13166-2015-10-01.htm.xz",
+  "sha256_snapshot_armazenado": "976db1a0b3468ad3b14643e13e5c0c280d3b44624840781ea55cfae18080a84e",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 1,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 28,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 27,
+    "artigos": 7,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2015-10-01-13166",
+    "numero": "13166",
+    "data": "2015-10-01",
+    "titulo_fonte": "LEI Nº 13166, DE 1 DE OUTUBRO DE 2015",
+    "ementa": "Dispõe sobre a prestação de auxílio financeiro pela União aos Estados, ao Distrito Federal e aos Municípios, relativo ao exercício de 2014, com o objetivo de fomentar as exportações do País.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584978"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

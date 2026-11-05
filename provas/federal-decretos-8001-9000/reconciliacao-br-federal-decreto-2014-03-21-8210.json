@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-03-21-8210",
+  "fonte_principal": "camara-D8210",
+  "sha256_fonte_principal": "ab798209250477311ebe2b57fb3f9d150f6c9f1eff71f7a949ae4cd51c179f99",
+  "sha256_conteudo": "ab798209250477311ebe2b57fb3f9d150f6c9f1eff71f7a949ae4cd51c179f99",
+  "capturado_em": "2026-11-04T20:15:32Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8210-21-marco-2014-778304-publicacaooriginal-143624-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8210.htm.xz",
+  "sha256_snapshot_armazenado": "cb08a395310542ee9703ec130613e2905e2df3d23f747911a0770d025f441e07",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-03-21-8210",
+    "numero": "8210",
+    "data": "2014-03-21",
+    "titulo_fonte": "DECRETO Nº 8210, DE 21 DE MARÇO DE 2014",
+    "ementa": "DISTRIBUI O EFETIVO DE PESSOAL MILITAR DO EXERCITO PARA 2014.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "413647"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-05-23-8249",
+  "fonte_principal": "camara-D8249",
+  "sha256_fonte_principal": "39d735a1a6803ed5ad12e11625b51b92831da76299fd76be295180c44ea75554",
+  "sha256_conteudo": "39d735a1a6803ed5ad12e11625b51b92831da76299fd76be295180c44ea75554",
+  "capturado_em": "2026-11-04T20:16:03Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8249-23-maio-2014-778790-publicacaooriginal-144193-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8249.htm.xz",
+  "sha256_snapshot_armazenado": "056fcdca746fd3fe68229927b866bf86b272a3ebc07dd737b3e0eaddbf993151",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 7,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-05-23-8249",
+    "numero": "8249",
+    "data": "2014-05-23",
+    "titulo_fonte": "DECRETO Nº 8249, DE 23 DE MAIO DE 2014",
+    "ementa": "ALTERA O ANEXO AO DECRETO  8.228, DE 22 DE ABRIL DE 2014, PARA INCLUIR OS MUNICIPIOS COM AEROPORTOS PROXIMOS A SEDES DA COPA DO MUNDO FIFA 2014 NAS REGRAS ESPECIAIS DE VALOR DE DIARIAS.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "592060"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

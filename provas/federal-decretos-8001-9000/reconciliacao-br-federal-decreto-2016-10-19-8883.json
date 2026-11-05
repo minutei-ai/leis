@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-10-19-8883",
+  "fonte_principal": "camara-D8883",
+  "sha256_fonte_principal": "437cb6ea00fb431d850566654240bf2c576aa3d56caab6c654a26090d2f8533d",
+  "sha256_conteudo": "437cb6ea00fb431d850566654240bf2c576aa3d56caab6c654a26090d2f8533d",
+  "capturado_em": "2026-11-04T20:33:26Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8883-19-outubro-2016-783801-publicacaooriginal-151277-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8883.htm.xz",
+  "sha256_snapshot_armazenado": "3a46a29d18b07baf72e5823065c10c56ccae6ff6ce6fb35ee9400477bdddd6ff",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-10-19-8883",
+    "numero": "8883",
+    "data": "2016-10-19",
+    "titulo_fonte": "DECRETO Nº 8883, DE 19 DE OUTUBRO DE 2016",
+    "ementa": "ALTERA O PROGRAMA DE DISPÊNDIOS GLOBAIS - PDG PARA 2016 DAS EMPRESAS ESTATAIS FEDERAIS, APROVADO PELO DECRETO Nº 8.632, DE 30 DE DEZEMBRO DE 2015, E DÁ OUTRAS PROVIDÊNCIAS.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "604039"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

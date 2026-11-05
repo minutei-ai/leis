@@ -1,0 +1,52 @@
+{
+  "documento": "br-federal-decreto-2014-05-29-8258",
+  "fonte_principal": "camara-D8258",
+  "sha256_fonte_principal": "0bf404247592e462a0f4d73ed579eb3d5da39fd45b3c0e78d1dd7a0d66554e23",
+  "sha256_conteudo": "0bf404247592e462a0f4d73ed579eb3d5da39fd45b3c0e78d1dd7a0d66554e23",
+  "capturado_em": "2026-11-04T20:16:07Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8258-29-maio-2014-778832-publicacaooriginal-144262-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8258.htm.xz",
+  "sha256_snapshot_armazenado": "f1b1fdd5c3a5e48de11f59d5e14123d40ce065d7d0a03cafdf37f38fbcae12a4",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 15,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "22",
+      "33"
+    ],
+    "ultimos_artigos": [
+      "22",
+      "33"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-05-29-8258",
+    "numero": "8258",
+    "data": "2014-05-29",
+    "titulo_fonte": "DECRETO Nº 8258, DE 29 DE MAIO DE 2014",
+    "ementa": "APROVA A CONSOLIDAÇÃO DO ESTATUTO SOCIAL DA COMPANHIA DE DESENVOLVIMENTO DOS VALES  DO SÃO FRANCISCO E DO PARNAIBA - CODEVASF.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "592096"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

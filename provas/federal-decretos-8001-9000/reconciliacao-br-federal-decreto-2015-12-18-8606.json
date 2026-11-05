@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-12-18-8606",
+  "fonte_principal": "camara-D8606",
+  "sha256_fonte_principal": "9424d283e7c898e6781cb6bed9e9ed8ee59dbc7c00cbde8c92333aab626fba4f",
+  "sha256_conteudo": "9424d283e7c898e6781cb6bed9e9ed8ee59dbc7c00cbde8c92333aab626fba4f",
+  "capturado_em": "2026-11-04T20:24:45Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8606-18-dezembro-2015-782138-publicacaooriginal-149013-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8606.htm.xz",
+  "sha256_snapshot_armazenado": "171e5c47b54b8929f98b77f20a1d8f3a5acc980acd6cda67dc44484c0d516ad0",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 77,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-12-18-8606",
+    "numero": "8606",
+    "data": "2015-12-18",
+    "titulo_fonte": "DECRETO Nº 8606, DE 18 DE DEZEMBRO DE 2015",
+    "ementa": "PROMULGA AS EMENDAS AO ACORDO RELATIVO À ORGANIZAÇÃO INTERNACIONAL DE TELECOMUNICAÇÕES POR SATÉLITE E AO ACORDO OPERACIONAL, APROVADAS PELA 25ª ASSEMBLEIA DAS PARTES E PELA 31ª ASSEMBLEIA DE SIGNATÁRIOS.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414337"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

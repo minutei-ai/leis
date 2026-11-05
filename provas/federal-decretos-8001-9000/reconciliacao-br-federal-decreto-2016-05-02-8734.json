@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-05-02-8734",
+  "fonte_principal": "camara-D8734",
+  "sha256_fonte_principal": "db77ad3562df16db5bab5e80d3e041b97e955a5d153a56eaeb2e537ea6317dfa",
+  "sha256_conteudo": "db77ad3562df16db5bab5e80d3e041b97e955a5d153a56eaeb2e537ea6317dfa",
+  "capturado_em": "2026-11-04T20:28:24Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8734-2-maio-2016-782981-publicacaooriginal-150225-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8734.htm.xz",
+  "sha256_snapshot_armazenado": "71c543946cfd9194ca7143903091a3916bcbcc596d5d21fdce3661bcfead7755",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 19,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-05-02-8734",
+    "numero": "8734",
+    "data": "2016-05-02",
+    "titulo_fonte": "DECRETO Nº 8734, DE 2 DE MAIO DE 2016",
+    "ementa": "APROVA O REGULAMENTO PARA O QUADRO COMPLEMENTAR DE OFICIAIS DO EXÉRCITO (R-41).",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "590363"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

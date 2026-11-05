@@ -1,8 +1,8 @@
 {
   "contrato_versao": 1,
   "lote": "federal-amostras-82",
-  "descricao": "Amostras da #82 recuperadas do Planalto; catálogo amplo de pendências em provas/federal-lacunas-catalogo/.",
-  "gerado_em": "2026-11-04T19:27:22Z",
+  "descricao": "Amostras da #82: 9 Planalto + 3 Câmara (4920/4921/4926); denominadores em federal-lacunas-catalogo.",
+  "gerado_em": "2026-11-04T20:56:46Z",
   "vigencia_certificada": false,
   "documentos": [
     {
@@ -390,6 +390,135 @@
         "anexos_no_corpo": 0,
         "imagens_omitidas": 1,
         "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-1965-12-23-4920",
+      "arquivo": "federal/br-federal-lei-1965-12-23-4920.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "4920",
+        "data": "1965-12-23",
+        "titulo": "LEI Nº 4920, DE 23 DE DEZEMBRO DE 1965",
+        "ementa": "Autoriza o Poder Executivo a abrir ao Ministério das Minas e Energia o crédito especial de Cr$ 1.500.000.000,00 (um bilhão e quinhentos milhões de cruzeiros) para a complementação dos recursos destinados à construção da \"Usina Coaraci Nunes\", no Território Federal do Amapá.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "camara",
+        "edicao_id": "br-federal-lei-1965-12-23-4920@historica-camara"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "camara-L4920",
+        "orgao": "Câmara dos Deputados — LegIn",
+        "url": "https://www2.camara.leg.br/legin/fed/lei/1960-1969/lei-4920-23-dezembro-1965-368267-publicacaooriginal-1-pl.html",
+        "formato": "html",
+        "capturado_em": "2026-11-04T20:29:41Z",
+        "sha256": "c5ca7b7eb60a03d03f80c90d3e4e6bbc7cf85dd7fea658407e7ffe78a7d55387",
+        "sha256_conteudo": "c5ca7b7eb60a03d03f80c90d3e4e6bbc7cf85dd7fea658407e7ffe78a7d55387",
+        "snapshot": "provas/federal-amostras-82/fontes/camara-L4920.htm.xz",
+        "sha256_snapshot_armazenado": "fbd440e8d2aed37ab7835c5a6d9e34d2ce16db575f8a460f72f4bd32aab85d4f",
+        "dou_aviso": null
+      },
+      "prova": "provas/federal-amostras-82/reconciliacao-br-federal-lei-1965-12-23-4920.json",
+      "sha256_markdown": "1602d6e8824c3896b454a6300fb87070c48d25f6fb2b10d8c41caebaed412f45",
+      "estrutura": {
+        "blocos": 5,
+        "artigos": 0,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-lei-1965-12-23-4921",
+      "arquivo": "federal/br-federal-lei-1965-12-23-4921.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "4921",
+        "data": "1965-12-23",
+        "titulo": "LEI Nº 4921, DE 23 DE DEZEMBRO DE 1965",
+        "ementa": "Estende aos Serviços de Navegação da Amazônia e de Administração do Porto do Pará (SNAPP) a isenção de taxas de que gozam o Lloyd Brasileiro e a Companhia Nacional de Navegação Costeira.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "camara",
+        "edicao_id": "br-federal-lei-1965-12-23-4921@historica-camara"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "camara-L4921",
+        "orgao": "Câmara dos Deputados — LegIn",
+        "url": "https://www2.camara.leg.br/legin/fed/lei/1960-1969/lei-4921-23-dezembro-1965-368268-publicacaooriginal-1-pl.html",
+        "formato": "html",
+        "capturado_em": "2026-11-04T20:29:41Z",
+        "sha256": "0f275b0c530d8303ae9518790ee7e6dd74b7a09281674693941d00a89ef0db56",
+        "sha256_conteudo": "0f275b0c530d8303ae9518790ee7e6dd74b7a09281674693941d00a89ef0db56",
+        "snapshot": "provas/federal-amostras-82/fontes/camara-L4921.htm.xz",
+        "sha256_snapshot_armazenado": "5fc84ee805a9772cc90496c7e14a71532d40e6afeacabb9fb19a0043b57a7372",
+        "dou_aviso": null
+      },
+      "prova": "provas/federal-amostras-82/reconciliacao-br-federal-lei-1965-12-23-4921.json",
+      "sha256_markdown": "c04d28235117a672cbe177aa0591d212172b4131da6dafe604ee864aa2b98c2e",
+      "estrutura": {
+        "blocos": 5,
+        "artigos": 0,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-lei-1965-12-23-4926",
+      "arquivo": "federal/br-federal-lei-1965-12-23-4926.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "4926",
+        "data": "1965-12-23",
+        "titulo": "LEI Nº 4926, DE 23 DE DEZEMBRO DE 1965",
+        "ementa": "Isenta dos impostos de importação e de consumo equipamento para produção de formol a ser importado por \"Resinas Sintéticas S.A.\", com fábrica no Município de Gravataí, Estado do Rio Grande do Sul.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "camara",
+        "edicao_id": "br-federal-lei-1965-12-23-4926@historica-camara"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "camara-L4926",
+        "orgao": "Câmara dos Deputados — LegIn",
+        "url": "https://www2.camara.leg.br/legin/fed/lei/1960-1969/lei-4926-23-dezembro-1965-368283-publicacaooriginal-1-pl.html",
+        "formato": "html",
+        "capturado_em": "2026-11-04T20:29:41Z",
+        "sha256": "6c96d47d92bf80712695bb864ebf1a4ee29c85892c8ca334230d7ea61a9436a4",
+        "sha256_conteudo": "6c96d47d92bf80712695bb864ebf1a4ee29c85892c8ca334230d7ea61a9436a4",
+        "snapshot": "provas/federal-amostras-82/fontes/camara-L4926.htm.xz",
+        "sha256_snapshot_armazenado": "53203f4e29a329c77c4ffcc1fe4e6de4fbb00aedb22c83642e6b85b47f9bd907",
+        "dou_aviso": null
+      },
+      "prova": "provas/federal-amostras-82/reconciliacao-br-federal-lei-1965-12-23-4926.json",
+      "sha256_markdown": "c37d134e718e5651b444ec85a9a86e435f6a010711a0d2a802df82b28a97a7eb",
+      "estrutura": {
+        "blocos": 5,
+        "artigos": 0,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
       }
     }
   ],

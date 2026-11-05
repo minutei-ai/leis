@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-11-12-8335",
+  "fonte_principal": "camara-D8335",
+  "sha256_fonte_principal": "38d6680d8478fbaaf27ebe57c10e677e4c23fc83cb22c3d7c98fdb0dadd4d3fe",
+  "sha256_conteudo": "38d6680d8478fbaaf27ebe57c10e677e4c23fc83cb22c3d7c98fdb0dadd4d3fe",
+  "capturado_em": "2026-11-04T20:18:13Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8335-12-novembro-2014-779533-publicacaooriginal-145329-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8335.htm.xz",
+  "sha256_snapshot_armazenado": "9993609dede4f596693c3b7646e1bd868fec66ddd0592e998d19fc82c0eb6183",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 275,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-11-12-8335",
+    "numero": "8335",
+    "data": "2014-11-12",
+    "titulo_fonte": "DECRETO Nº 8335, DE 12 DE NOVEMBRO DE 2014",
+    "ementa": "PROMULGA A CONVENÇÃO ENTRE O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL E O GOVERNO  DA REPUBLICA DE TRINIDAD E TOBAGO PARA  EVITAR A DUPLA TRIBUTAÇÃO E PREVENIR A EVASÃO  FISCAL EM MATERIA DE IMPOSTOS SOBRE A  RENDA E PARA INCENTIVAR O COMERCIO E O  INVESTIMENTO BILATERAIS, FIRMADA EM BRASILIA, EM 23 DE JULHO DE 2008.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "589149"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

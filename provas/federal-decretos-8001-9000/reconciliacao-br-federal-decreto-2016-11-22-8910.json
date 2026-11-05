@@ -1,0 +1,52 @@
+{
+  "documento": "br-federal-decreto-2016-11-22-8910",
+  "fonte_principal": "camara-D8910",
+  "sha256_fonte_principal": "27c279ffe1e5d42e54398439cd50aa509aa4ffcf244938bdfc7bd38d5baa1c4f",
+  "sha256_conteudo": "27c279ffe1e5d42e54398439cd50aa509aa4ffcf244938bdfc7bd38d5baa1c4f",
+  "capturado_em": "2026-11-04T20:34:08Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8910-22-novembro-2016-783927-publicacaooriginal-151417-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8910.htm.xz",
+  "sha256_snapshot_armazenado": "8a3a39bb1bcefed7a48e467c338be50b37457a0605019fdf5846dcffe6a46534",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 84,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "3",
+      "4"
+    ],
+    "ultimos_artigos": [
+      "3",
+      "4"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-11-22-8910",
+    "numero": "8910",
+    "data": "2016-11-22",
+    "titulo_fonte": "DECRETO Nº 8910, DE 22 DE NOVEMBRO DE 2016",
+    "ementa": "APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DO MINISTÉRIO DA TRANSPARÊNCIA, FISCALIZAÇÃO E CONTROLADORIA- GERAL DA UNIÃO - CGU, REMANEJA CARGOS EM COMISSÃO E FUNÇÕES DE CONFIANÇA E SUBSTITUI CARGOS EM COMISSÃO DO GRUPO DIREÇÃO E ASSESSORAMENTO SUPERIORES - DAS POR FUNÇÕES COMISSIONADAS DO PODER EXECUTIVO - FCPE.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414867"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

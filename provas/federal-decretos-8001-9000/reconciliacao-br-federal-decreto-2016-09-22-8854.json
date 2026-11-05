@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-09-22-8854",
+  "fonte_principal": "camara-D8854",
+  "sha256_fonte_principal": "3064219cac27e836802bfb7315fb666f912992c3f19e3c7a48162dc22444e1e7",
+  "sha256_conteudo": "3064219cac27e836802bfb7315fb666f912992c3f19e3c7a48162dc22444e1e7",
+  "capturado_em": "2026-11-04T20:32:13Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8854-22-setembro-2016-783651-publicacaooriginal-151118-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8854.htm.xz",
+  "sha256_snapshot_armazenado": "4ac092c3b82f94d879a06cc76b8fcde35e38c81c3596c2a9bdc12b11803a3028",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-09-22-8854",
+    "numero": "8854",
+    "data": "2016-09-22",
+    "titulo_fonte": "DECRETO Nº 8854, DE 22 DE SETEMBRO DE 2016",
+    "ementa": "APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DO INSTITUTO NACIONAL DA PROPRIEDADE INDUSTRIAL, REMANEJA FUNÇÕES GRATIFICADAS, SUBSTITUI CARGOS EM COMISSÃO DO GRUPO DIREÇÃO E ASSESSORAMENTO SUPERIORES - DAS POR FUNÇÕES COMISSIONADAS DO PODER EXECUTIVO - FCPE E REVOGA O DECRETO Nº 8.686, DE 4 DE MARÇO DE 2016.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414818"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

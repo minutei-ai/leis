@@ -1,0 +1,56 @@
+{
+  "documento": "br-federal-decreto-2013-05-17-8016",
+  "fonte_principal": "camara-D8016",
+  "sha256_fonte_principal": "5d205f470b3ed06a4860347940147fa36e1b09b840b7e1e027f15715bc1e1de7",
+  "sha256_conteudo": "5d205f470b3ed06a4860347940147fa36e1b09b840b7e1e027f15715bc1e1de7",
+  "capturado_em": "2026-11-04T20:13:45Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8016-17-maio-2013-776025-publicacaooriginal-139859-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8016.htm.xz",
+  "sha256_snapshot_armazenado": "a26a33a1dc6ef603f551da90c6c206ca8d1e148c305494102671bfa5205355d4",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 134,
+    "artigos": 4,
+    "primeiros_artigos": [
+      "21",
+      "37",
+      "41",
+      "46"
+    ],
+    "ultimos_artigos": [
+      "21",
+      "37",
+      "41",
+      "46"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2013-05-17-8016",
+    "numero": "8016",
+    "data": "2013-05-17",
+    "titulo_fonte": "DECRETO Nº 8016, DE 17 DE MAIO DE 2013",
+    "ementa": "APROVA O ESTATUTO SOCIAL DA EMPRESA BRASILEIRA DE CORREIOS E TELEGRAFOS - ECT.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "590627"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

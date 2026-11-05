@@ -1,0 +1,58 @@
+{
+  "documento": "br-federal-decreto-2015-07-13-8492",
+  "fonte_principal": "camara-D8492",
+  "sha256_fonte_principal": "5c760746f3bb0eef612ed9e020e35331d1c443a242fb3c6480c82885c16f9975",
+  "sha256_conteudo": "5c760746f3bb0eef612ed9e020e35331d1c443a242fb3c6480c82885c16f9975",
+  "capturado_em": "2026-11-04T20:22:37Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8492-13-julho-2015-781237-publicacaooriginal-147561-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8492.htm.xz",
+  "sha256_snapshot_armazenado": "fd80f9b75858d4dcd0e50eb956c2008921ff5940aa59a5188fa0770da5717e62",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 551,
+    "artigos": 15,
+    "primeiros_artigos": [
+      "3",
+      "1",
+      "2",
+      "10",
+      "12"
+    ],
+    "ultimos_artigos": [
+      "39",
+      "44",
+      "45",
+      "46",
+      "47"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-07-13-8492",
+    "numero": "8492",
+    "data": "2015-07-13",
+    "titulo_fonte": "DECRETO Nº 8492, DE 13 DE JULHO DE 2015",
+    "ementa": "APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DO MINISTÉRIO DA AGRICULTURA, PECUÁRIA E ABASTECIMENTO, E REMANEJA CARGOS EM COMISSÃO.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584522"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

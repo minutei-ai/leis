@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-11-12-8569",
+  "fonte_principal": "camara-D8569",
+  "sha256_fonte_principal": "b6789c45e3b8a66dc5b2805c10349c8032c49dc930c8a3c54970af9baa94a9f8",
+  "sha256_conteudo": "b6789c45e3b8a66dc5b2805c10349c8032c49dc930c8a3c54970af9baa94a9f8",
+  "capturado_em": "2026-11-04T20:24:18Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8569-12-novembro-2015-781896-publicacaooriginal-148649-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8569.htm.xz",
+  "sha256_snapshot_armazenado": "1fecb7f06b5816e0f1eb4fc0f965794cd4f9cf3bd99c170c784c919dd6cb5bb4",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 21,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-11-12-8569",
+    "numero": "8569",
+    "data": "2015-11-12",
+    "titulo_fonte": "DECRETO Nº 8569, DE 12 DE NOVEMBRO DE 2015",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO DO OCTOGÉSIMO NONO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 18 (89PAACE18), FIRMANDO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, A REPÚBLICA DO PARAGUAI E A REPÚBLICA ORIENTAL DO URUGUAI, EM 12 DE OUTUBRO DE 2011.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "593299"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

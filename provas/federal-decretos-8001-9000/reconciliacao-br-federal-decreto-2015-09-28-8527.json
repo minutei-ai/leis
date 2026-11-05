@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-09-28-8527",
+  "fonte_principal": "camara-D8527",
+  "sha256_fonte_principal": "ae870ed3ba853200eaa9e34520c0c3046d002f8aaae66ceaa568d95781d586e8",
+  "sha256_conteudo": "ae870ed3ba853200eaa9e34520c0c3046d002f8aaae66ceaa568d95781d586e8",
+  "capturado_em": "2026-11-04T20:23:04Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8527-28-setembro-2015-781638-publicacaooriginal-148277-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8527.htm.xz",
+  "sha256_snapshot_armazenado": "a55802689afba4e3a4f9169b824a623cd27763d2717c95fbac43fcec3f32f8ad",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 78,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-09-28-8527",
+    "numero": "8527",
+    "data": "2015-09-28",
+    "titulo_fonte": "DECRETO Nº 8527, DE 28 DE SETEMBRO DE 2015",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITÓRIO NACIONAL, DA RESOLUÇÃO 2198 (2015), DE 29 DE JANEIRO DE 2015, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE RENOVA O EMBARGO DE ARMAS APLICÁVEL À REPÚBLICA DEMOCRÁTICA DO CONGO.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414191"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

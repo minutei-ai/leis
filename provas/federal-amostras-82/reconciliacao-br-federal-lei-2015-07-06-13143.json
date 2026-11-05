@@ -1,0 +1,81 @@
+{
+  "documento": "br-federal-lei-2015-07-06-13143",
+  "fonte_principal": "planalto-L13143-2015-07-06",
+  "sha256_fonte_principal": "9bef10355de6faf2df4210f214306e60c550468067a8ef806b864ee816df0f69",
+  "sha256_conteudo": "5a76c8c5c775029c7b07731fc890f2a4be108ea621dce57fb22f4b3d79728eb5",
+  "capturado_em": "2026-11-04T20:52:43Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13143.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L13143-2015-07-06.htm.xz",
+  "sha256_snapshot_armazenado": "7b4c00e662c0e5b8f9588ee27afd588e01df07a2b52658f7f5bd0f0a0865780c",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 3,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 13,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 4,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 7,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 22,
+    "artigos": 4,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2015-07-06-13143",
+    "numero": "13143",
+    "data": "2015-07-06",
+    "titulo_fonte": "LEI Nº 13143, DE 6 DE JULHO DE 2015",
+    "ementa": "Dispõe sobre a criação de cargos de provimento efetivo, de cargos em comissão e de funções comissionadas no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 18ª Região e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584955"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-04-13-8707",
+  "fonte_principal": "camara-D8707",
+  "sha256_fonte_principal": "ed8e7e3b0e3bf4522aba8b3fd14698796609b8c61a82bf24cae647df85c7dd68",
+  "sha256_conteudo": "ed8e7e3b0e3bf4522aba8b3fd14698796609b8c61a82bf24cae647df85c7dd68",
+  "capturado_em": "2026-11-04T20:26:55Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8707-13-abril-2016-782891-publicacaooriginal-150089-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8707.htm.xz",
+  "sha256_snapshot_armazenado": "9ed7e951e68a19ea2ce0964f548a82a3518c8fd75d9ff6113a8721540a38ba9c",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 71,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-04-13-8707",
+    "numero": "8707",
+    "data": "2016-04-13",
+    "titulo_fonte": "DECRETO Nº 8707, DE 13 DE ABRIL DE 2016",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO NO TERRITÓRIO NACIONAL DA RESOLUÇÃO 2206 (2015), DE 3 DE MARÇO DE 2015, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS QUE ESTABELECE REGIME DE SANÇÕES SOBRE O SUDÃO DO SUL.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "590255"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

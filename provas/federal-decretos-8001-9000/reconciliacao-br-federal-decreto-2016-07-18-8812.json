@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-07-18-8812",
+  "fonte_principal": "camara-D8812",
+  "sha256_fonte_principal": "88f5354c1c498056eb33e69b4e1764144aaa3b16c1c0e703ba4d869b02e9792e",
+  "sha256_conteudo": "88f5354c1c498056eb33e69b4e1764144aaa3b16c1c0e703ba4d869b02e9792e",
+  "capturado_em": "2026-11-04T20:30:33Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8812-18-julho-2016-783378-publicacaooriginal-150800-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8812.htm.xz",
+  "sha256_snapshot_armazenado": "17611bcd796a4d7265813f0cb0d16ef9679a3d4f283ad83f336197b542e71a28",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 77,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-07-18-8812",
+    "numero": "8812",
+    "data": "2016-07-18",
+    "titulo_fonte": "DECRETO Nº 8812, DE 18 DE JULHO DE 2016",
+    "ementa": "PROMULGA O ACORDO DE COOPERAÇÃO TÉCNICA ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DA GUINÉ, FIRMADO EM BRASÍLIA, EM 21 DE NOVEMBRO DE 2011.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "592267"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

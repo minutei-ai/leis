@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-09-24-8319",
+  "fonte_principal": "camara-D8319",
+  "sha256_fonte_principal": "4363d68c74b530462057d5e06f1ed5f0527c13752d41e3841a7a858dd08a6c8f",
+  "sha256_conteudo": "4363d68c74b530462057d5e06f1ed5f0527c13752d41e3841a7a858dd08a6c8f",
+  "capturado_em": "2026-11-04T20:17:43Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8319-24-setembro-2014-779373-publicacaooriginal-145040-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8319.htm.xz",
+  "sha256_snapshot_armazenado": "c8c14582f26e67f8b8ac49576304ccbe1cf1f43a7af02b0fadc8199746a6b018",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-09-24-8319",
+    "numero": "8319",
+    "data": "2014-09-24",
+    "titulo_fonte": "DECRETO Nº 8319, DE 24 DE SETEMBRO DE 2014",
+    "ementa": "ALTERA O DECRETO  6.061, DE 15 DE MARÇO DE 2007, QUE APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES  GRATIFICADAS DO MINISTERIO DA JUSTIÇA, ALOCA FUNÇÕES DE CONFIANÇA E REMANEJA FUNÇÕES GRATIFICADAS.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "589085"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

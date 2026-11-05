@@ -1,0 +1,64 @@
+{
+  "documento": "br-federal-decreto-2016-04-07-8706",
+  "fonte_principal": "planalto-D8706",
+  "sha256_fonte_principal": "01509052eaac0d6164374fb2c270f319a2984b176082538d8b94adfa17668718",
+  "sha256_conteudo": "15046f299f052ab42e77950577541f26277be6ca783308e78d848703d11202f1",
+  "capturado_em": "2026-11-04T20:43:43Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8706.htm",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/planalto-D8706.htm.xz",
+  "sha256_snapshot_armazenado": "be021e55869c2c9dc66e0ef6f7c6d953ac36d8c9f28009259066582bc07228e4",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 79,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-04-07-8706",
+    "numero": "8706",
+    "data": "2016-04-07",
+    "titulo_fonte": "DECRETO Nº 8706, DE 7 DE ABRIL DE 2016",
+    "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O CONSELHO FEDERAL SUÍÇO SOBRE COOPERAÇÃO EM CIÊNCIA E TECNOLOGIA, FIRMADO EM BERNA, EM 29 DE SETEMBRO DE 2009.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "590251"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

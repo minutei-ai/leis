@@ -1,0 +1,56 @@
+{
+  "documento": "br-federal-decreto-2016-10-24-8885",
+  "fonte_principal": "camara-D8885",
+  "sha256_fonte_principal": "ecbbe75a6c751371854e1f69b9a497f07544936cf3e035d2de5a54f7190fc93f",
+  "sha256_conteudo": "ecbbe75a6c751371854e1f69b9a497f07544936cf3e035d2de5a54f7190fc93f",
+  "capturado_em": "2026-11-04T20:33:30Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8885-24-outubro-2016-783829-publicacaooriginal-151309-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8885.htm.xz",
+  "sha256_snapshot_armazenado": "9d4827045ca8ebc117894d9c90496f74a5ed8f1244da84d2edf66343790c86f5",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 106,
+    "artigos": 4,
+    "primeiros_artigos": [
+      "1",
+      "20",
+      "55",
+      "86"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "20",
+      "55",
+      "86"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-10-24-8885",
+    "numero": "8885",
+    "data": "2016-10-24",
+    "titulo_fonte": "DECRETO Nº 8885, DE 24 DE OUTUBRO DE 2016",
+    "ementa": "APROVA O ESTATUTO DA CRUZ VERMELHA BRASILEIRA.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "604047"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-05-26-8458",
+  "fonte_principal": "camara-D8458",
+  "sha256_fonte_principal": "a26d6f4f0633d8013560abc5a3a7e12fef711c694cde7bc84be2a66de32bb549",
+  "sha256_conteudo": "a26d6f4f0633d8013560abc5a3a7e12fef711c694cde7bc84be2a66de32bb549",
+  "capturado_em": "2026-11-04T20:22:13Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8458-26-maio-2015-780860-publicacaooriginal-147042-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8458.htm.xz",
+  "sha256_snapshot_armazenado": "67ced775de4403a3070d3c3bdc59df3ee90a4d2e907715e381d9529c369d62b2",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 81,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-05-26-8458",
+    "numero": "8458",
+    "data": "2015-05-26",
+    "titulo_fonte": "DECRETO Nº 8458, DE 26 DE MAIO DE 2015",
+    "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DE BURKINA FASO SOBRE COOPERAÇÃO CULTURAL, FIRMADO EM BRASÍLIA, EM 12 DE NOVEMBRO DE 2009.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414098"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

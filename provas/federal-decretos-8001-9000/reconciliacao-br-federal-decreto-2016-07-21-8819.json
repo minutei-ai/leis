@@ -1,0 +1,50 @@
+{
+  "documento": "br-federal-decreto-2016-07-21-8819",
+  "fonte_principal": "camara-D8819",
+  "sha256_fonte_principal": "7bb73a81669aa58e9ae341046deebb28a33d4a45bf91d5df6e9a5f0261fd8ba6",
+  "sha256_conteudo": "7bb73a81669aa58e9ae341046deebb28a33d4a45bf91d5df6e9a5f0261fd8ba6",
+  "capturado_em": "2026-11-04T20:30:59Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8819-21-julho-2016-783395-publicacaooriginal-150824-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8819.htm.xz",
+  "sha256_snapshot_armazenado": "863f582cb775d8cd329276719bc50182ac40a5a7a01fd096fce83384f04b87a7",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 13,
+    "artigos": 1,
+    "primeiros_artigos": [
+      "2"
+    ],
+    "ultimos_artigos": [
+      "2"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-07-21-8819",
+    "numero": "8819",
+    "data": "2016-07-21",
+    "titulo_fonte": "DECRETO Nº 8819, DE 21 DE JULHO DE 2016",
+    "ementa": "ALTERA O DECRETO Nº 6.944, DE 21 DE AGOSTO DE 2009, QUE ESTABELECE MEDIDAS ORGANIZACIONAIS PARA O APRIMORAMENTO DA ADMINISTRAÇÃO PÚBLICA FEDERAL DIRETA, AUTÁRQUICA E FUNDACIONAL E DISPÕE SOBRE NORMAS GERAIS RELATIVAS A CONCURSOS PÚBLICOS, ORGANIZA SOB A FORMA DE SISTEMA AS ATIVIDADES DE ORGANIZAÇÃO E INOVAÇÃO INSTITUCIONAL DO GOVERNO FEDERAL.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "592295"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

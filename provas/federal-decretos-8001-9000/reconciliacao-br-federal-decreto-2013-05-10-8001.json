@@ -1,0 +1,58 @@
+{
+  "documento": "br-federal-decreto-2013-05-10-8001",
+  "fonte_principal": "camara-D8001",
+  "sha256_fonte_principal": "bfaba574797f64085b5f513b7e32031b0d21ea1e13d6520ce8419ee4ef925115",
+  "sha256_conteudo": "bfaba574797f64085b5f513b7e32031b0d21ea1e13d6520ce8419ee4ef925115",
+  "capturado_em": "2026-11-04T20:13:18Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8001-10-maio-2013-775961-publicacaooriginal-139780-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8001.htm.xz",
+  "sha256_snapshot_armazenado": "240eb866bf1e4f70dc49c55cbb09f57b07f8d05c20510a7624c4bfd1d68db5c8",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 132,
+    "artigos": 5,
+    "primeiros_artigos": [
+      "3",
+      "10",
+      "7",
+      "13",
+      "16"
+    ],
+    "ultimos_artigos": [
+      "3",
+      "10",
+      "7",
+      "13",
+      "16"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2013-05-10-8001",
+    "numero": "8001",
+    "data": "2013-05-10",
+    "titulo_fonte": "DECRETO Nº 8001, DE 10 DE MAIO DE 2013",
+    "ementa": "APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO DA SECRETARIA DA MICRO E PEQUENA EMPRESA DA PRESIDENCIA DA REPUBLICA, ALTERA O DECRETO  7.096, DE 4 DE FEVEREIRO DE 2010, QUE APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DO MINISTERIO DO DESENVOLVIMENTO, INDUSTRIA E COMERCIO EXTERIOR, E DA OUTRAS PROVIDENCIAS.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "590567"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

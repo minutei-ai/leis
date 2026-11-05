@@ -1,0 +1,50 @@
+{
+  "documento": "br-federal-decreto-2016-12-29-8949",
+  "fonte_principal": "camara-D8949",
+  "sha256_fonte_principal": "3355ff250f71df931e7823c7bbad046531c6637345adff298cbc6bbd05a0f516",
+  "sha256_conteudo": "3355ff250f71df931e7823c7bbad046531c6637345adff298cbc6bbd05a0f516",
+  "capturado_em": "2026-11-04T20:35:41Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8949-29-dezembro-2016-784161-publicacaooriginal-151779-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8949.htm.xz",
+  "sha256_snapshot_armazenado": "880d800d880d05ac1a3748ea62d88ba7b69b7ed7891878485827f24a7b722e30",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 47,
+    "artigos": 1,
+    "primeiros_artigos": [
+      "3"
+    ],
+    "ultimos_artigos": [
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-12-29-8949",
+    "numero": "8949",
+    "data": "2016-12-29",
+    "titulo_fonte": "DECRETO Nº 8949, DE 29 DE DEZEMBRO DE 2016",
+    "ementa": "APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DO MINISTÉRIO DO DESENVOLVIMENTO SOCIAL E AGRÁRIO, REMANEJA CARGOS EM COMISSÃO E FUNÇÕES GRATIFICADAS E SUBSTITUI CARGOS EM COMISSÃO DO GRUPO-DIREÇÃO E ASSESSORAMENTO SUPERIORES - DAS POR FUNÇÕES COMISSIONADAS DO PODER EXECUTIVO - FCPE.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "603223"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

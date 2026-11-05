@@ -1,0 +1,72 @@
+{
+  "documento": "br-federal-decreto-2016-05-10-8765",
+  "fonte_principal": "planalto-D8765",
+  "sha256_fonte_principal": "e1222bfff94fe96843ab050e97fbec75bf3932565ade24930eebfbd9ffc4f8b6",
+  "sha256_conteudo": "fdf386c9553fa575feb00764cb6606b5f36e597f0f0784f73c6da6a4982b7211",
+  "capturado_em": "2026-11-04T20:43:54Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8765.htm",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/planalto-D8765.htm.xz",
+  "sha256_snapshot_armazenado": "c99675eb23ba55364da1ce2d4d7467a2c22d7604d58d0e48840910e561338da9",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 44,
+    "tabelas_markdown": 1,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 3,
+        "colunas_max": 4,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 16,
+    "artigos": 4,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-05-10-8765",
+    "numero": "8765",
+    "data": "2016-05-10",
+    "titulo_fonte": "DECRETO Nº 8765, DE 10 DE MAIO DE 2016",
+    "ementa": "DISCRIMINA AÇÕES DO PROGRAMA DE ACELERAÇÃO DO CRESCIMENTO - PAC A SEREM EXECUTADAS POR MEIO DE TRANSFERÊNCIA OBRIGATÓRIA.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414640"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

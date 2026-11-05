@@ -1,0 +1,60 @@
+{
+  "documento": "br-federal-lei-2014-12-30-13079",
+  "fonte_principal": "planalto-L13079-2014-12-30",
+  "sha256_fonte_principal": "d119b9bf3eb056c32b262d4265a74fa00eb3792b2f5f9d2efa368e495e08f701",
+  "sha256_conteudo": "e4fc5aff2bf2f9fe6db169a0ae9d7090235bdf1d2df9a92fe78b2209713b4698",
+  "capturado_em": "2026-11-04T20:52:37Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13079.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L13079-2014-12-30.htm.xz",
+  "sha256_snapshot_armazenado": "70e29467c41313cd5effb9b9b20319c07691d8b96195824d8fb68901e59ba82e",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 4,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 96,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 16,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2014-12-30-13079",
+    "numero": "13079",
+    "data": "2014-12-30",
+    "titulo_fonte": "LEI Nº 13079, DE 30 DE DEZEMBRO DE 2014",
+    "ementa": "Abre ao Orçamento Fiscal da União, em favor da Justiça Federal e da Secretaria de Aviação Civil da Presidência da República, crédito especial no valor de R$ 145.620.436,00, para os fins que especifica.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584891"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}
