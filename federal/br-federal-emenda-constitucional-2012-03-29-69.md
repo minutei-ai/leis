@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2012-03-29-69"
+norma_id: "br-federal-emenda-constitucional-2012-03-29-69"
+norma_tipo: "emenda-constitucional"
+norma_numero: "69"
+norma_data: "2012-03-29"
+titulo: "EMENDA CONSTITUCIONAL Nº 69, DE 29/03/2012"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2012-03-29-69@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc69.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "4cf40832a6855c429de815d7a8a5b0d95d7f1a08f718d515c3a45fe52c1ab565"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 ###EMC-000069-0-000-29-03-2012-PUB-01@@@
 
 <strong>EMENDA CONSTITUCIONAL Nº</strong> <strong>69</strong>

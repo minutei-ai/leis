@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2004-12-08-45"
+norma_id: "br-federal-emenda-constitucional-2004-12-08-45"
+norma_tipo: "emenda-constitucional"
+norma_numero: "45"
+norma_data: "2004-12-08"
+titulo: "EMENDA CONSTITUCIONAL Nº 45, DE 2004"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2004-12-08-45@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: true
+fonte_orgao: "Câmara dos Deputados"
+fonte_url: "https://www2.camara.leg.br/legin/fed/emecon/2004/emendaconstitucional-45-8-dezembro-2004-535274-publicacaooriginal-22987-pl.html"
+fonte_formato: "html"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc45.htm"]
+capturado_em: "2026-11-04T12:33:02Z"
+sha256_fonte: "9eaff8544fc9734fe809c69c0e55e9b1c3a55c1decbea719c3476f4c146f1c32"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "989655a398dfaaec5f2468f946be7113c16ad0b1d994adae2915c2bb9ba51861"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "faixa-001-050"
+---
+
 EMENDA CONSTITUCIONAL Nº 45, DE 2004
 
 Altera dispositivos dos arts. 5º, 36, 52, 92, 93, 95, 98, 99, 102, 103, 104, 105, 107, 109, 111, 112, 114, 115, 125, 126, 127, 128, 129, 134 e 168 da Constituição Federal, e acrescenta os arts. 103-A, 103-B, 111-A e 130-A, e dá outras providências.

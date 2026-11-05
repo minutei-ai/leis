@@ -16507,6 +16507,102 @@
       "fonte": "br-federal-resolucao-camara-deputados-2025-04-09-16",
       "sha256_fonte": "d1ca8d1217478b78105f28982b399a94b136565fa0ef61f36f347f81a95f4c15",
       "sha256_markdown": "86e4bb9580b0d73c2680bc6066c268491427ca0aa0c114a2b631a64d40a9860e"
+    },
+    {
+      "id": "br-federal-resolucao-congresso-nacional-2025-06-23-2",
+      "arquivo": "federal/br-federal-resolucao-congresso-nacional-2025-06-23-2.md",
+      "tipo": "RCN",
+      "senado_id": "41071372",
+      "urn": "urn:lex:br:congresso.nacional:resolucao:2025-06-23;2",
+      "norma": {
+        "numero": "2",
+        "data": "2025-06-23",
+        "titulo": "Resolução do Congresso Nacional nº 2 de 23/06/2025"
+      },
+      "fonte": "br-federal-resolucao-congresso-nacional-2025-06-23-2",
+      "sha256_fonte": "57f04f9751987b30e2c22302e6faff41add7cd7a26ef56f25dba7df52d7c3dab",
+      "sha256_markdown": "6608f753d7fe0c093ec4d94c9c8f398b5c0867221eafe907fe0c79078e590e5f",
+      "anexo_fonte_alternativa": true
+    },
+    {
+      "id": "br-federal-resolucao-congresso-nacional-2025-03-14-1",
+      "arquivo": "federal/br-federal-resolucao-congresso-nacional-2025-03-14-1.md",
+      "tipo": "RCN",
+      "senado_id": "40435851",
+      "urn": "urn:lex:br:congresso.nacional:resolucao:2025-03-14;1",
+      "norma": {
+        "numero": "1",
+        "data": "2025-03-14",
+        "titulo": "Resolução do Congresso Nacional nº 1 de 14/03/2025"
+      },
+      "fonte": "br-federal-resolucao-congresso-nacional-2025-03-14-1",
+      "sha256_fonte": "65e6ae4b575b569f7c69f5723db5c40fcb1c56e2088cfd72709fa64464f898c5",
+      "sha256_markdown": "94e6c29a8e4be7d8883cd4ec8e19f05bd99774facfdc5f9267827613ed623880",
+      "anexo_fonte_alternativa": true
+    },
+    {
+      "id": "br-federal-resolucao-congresso-nacional-2014-01-16-2",
+      "arquivo": "federal/br-federal-resolucao-congresso-nacional-2014-01-16-2.md",
+      "tipo": "RCN",
+      "senado_id": "561151",
+      "urn": "urn:lex:br:congresso.nacional:resolucao:2014-01-16;2",
+      "norma": {
+        "numero": "2",
+        "data": "2014-01-16",
+        "titulo": "Resolução do Congresso Nacional nº 2 de 16/01/2014"
+      },
+      "fonte": "br-federal-resolucao-congresso-nacional-2014-01-16-2",
+      "sha256_fonte": "1e49e07a54589e5eacde80f039d986f057831bff57b2df09268b371cebc8e2dc",
+      "sha256_markdown": "5396b0ef70136d9b906695b944786f62eed111d4ff3338341abc151304c33699",
+      "anexo_fonte_alternativa": true
+    },
+    {
+      "id": "br-federal-resolucao-congresso-nacional-2013-11-22-3",
+      "arquivo": "federal/br-federal-resolucao-congresso-nacional-2013-11-22-3.md",
+      "tipo": "RCN",
+      "senado_id": "561164",
+      "urn": "urn:lex:br:congresso.nacional:resolucao:2013-11-22;3",
+      "norma": {
+        "numero": "3",
+        "data": "2013-11-22",
+        "titulo": "Resolução do Congresso Nacional nº 3 de 22/11/2013"
+      },
+      "fonte": "br-federal-resolucao-congresso-nacional-2013-11-22-3",
+      "sha256_fonte": "f09c6981e7fabd5c8beb21af461f2373d3fc1d055cabac7dc141d9333192b1f6",
+      "sha256_markdown": "849bd22d6b14bf1145f2bb1106830edd66262efd63b6b237925f1b334cf6524e",
+      "anexo_fonte_alternativa": true
+    },
+    {
+      "id": "br-federal-resolucao-congresso-nacional-2006-12-26-2",
+      "arquivo": "federal/br-federal-resolucao-congresso-nacional-2006-12-26-2.md",
+      "tipo": "RCN",
+      "senado_id": "561147",
+      "urn": "urn:lex:br:congresso.nacional:resolucao:2006-12-26;2",
+      "norma": {
+        "numero": "2",
+        "data": "2006-12-26",
+        "titulo": "Resolução do Congresso Nacional nº 2 de 26/12/2006"
+      },
+      "fonte": "br-federal-resolucao-congresso-nacional-2006-12-26-2",
+      "sha256_fonte": "80deb90aabb7c628eb0ac3087b07be0b79a9a5607be41f450fe2b6ffa41d9072",
+      "sha256_markdown": "03909e9da0870e0d170d7a47b9f7caa5ef74e9a98a699815449b4e58e6d4ba6a",
+      "anexo_fonte_alternativa": true
+    },
+    {
+      "id": "br-federal-resolucao-congresso-nacional-2006-12-22-1",
+      "arquivo": "federal/br-federal-resolucao-congresso-nacional-2006-12-22-1.md",
+      "tipo": "RCN",
+      "senado_id": "561123",
+      "urn": "urn:lex:br:congresso.nacional:resolucao:2006-12-22;1",
+      "norma": {
+        "numero": "1",
+        "data": "2006-12-22",
+        "titulo": "Resolução do Congresso Nacional nº 1 de 22/12/2006"
+      },
+      "fonte": "br-federal-resolucao-congresso-nacional-2006-12-22-1",
+      "sha256_fonte": "8fbc004d47b7fe6aa179497938a49ad81dae9abf75f1a13b6afad3900e7b2747",
+      "sha256_markdown": "2690ea53bd27f8d3edde972416774806b776bea4d0bc497ae9c8718bccf8f975",
+      "anexo_fonte_alternativa": true
     }
   ]
 }

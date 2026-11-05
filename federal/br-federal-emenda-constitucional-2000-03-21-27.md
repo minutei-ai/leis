@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2000-03-21-27"
+norma_id: "br-federal-emenda-constitucional-2000-03-21-27"
+norma_tipo: "emenda-constitucional"
+norma_numero: "27"
+norma_data: "2000-03-21"
+titulo: "EMENDA CONSTITUCIONAL Nº 27, DE 2000"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2000-03-21-27@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: true
+fonte_orgao: "Câmara dos Deputados"
+fonte_url: "https://www2.camara.leg.br/legin/fed/emecon/2000/emendaconstitucional-27-21-marco-2000-373981-publicacaooriginal-1-pl.html"
+fonte_formato: "html"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc27.htm"]
+capturado_em: "2026-11-04T12:33:02Z"
+sha256_fonte: "3949bb98af8443a0cab48bb71ec2cb90c5fb6533b450e87f6ff0a5b8b46ac3c6"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "724ca5c42a864929f85a118c3e299ba9ad9a18326bbce6678b758e0ebae18461"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "faixa-001-050"
+---
+
 EMENDA CONSTITUCIONAL Nº 27, DE 2000
 
 Acrescenta o art. 76 ao Ato das Disposições Constitucionais Transitórias, instituindo a desvinculação de arrecadação de impostos e contribuições sociais da União.

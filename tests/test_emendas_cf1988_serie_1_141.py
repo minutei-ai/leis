@@ -84,16 +84,16 @@ class TestEmendasCf1988Serie1141(unittest.TestCase):
         self.assertIn('vinculos-constituicao-adct', ids)
         self.assertIn('textos-integrais-com-dispositivos-autonomos', ids)
         self.assertIn('metadados-edicao-fonte-hashes', ids)
-        # Contagem sozinha não basta: vínculos/metadados ainda parciais.
         self.assertEqual(ids['matriz-por-numero-data-fonte-situacao']['estado'], 'satisfeito')
         self.assertEqual(ids['nao-recontar-consolidada']['estado'], 'satisfeito')
-        self.assertIn(ids['vinculos-constituicao-adct']['estado'], {'parcial', 'pendente'})
-        self.assertIn(ids['metadados-edicao-fonte-hashes']['estado'], {'parcial', 'pendente'})
-        self.assertGreaterEqual(self.criterios['resumo']['parciais'], 1)
+        self.assertEqual(ids['vinculos-constituicao-adct']['estado'], 'satisfeito')
+        self.assertEqual(ids['metadados-edicao-fonte-hashes']['estado'], 'satisfeito')
+        # Contagem sozinha não fecha: issue_fechavel permanece false.
+        self.assertGreaterEqual(self.criterios['resumo']['satisfeitos'], 5)
 
     def test_vinculos_constituicao_registrados(self):
         vin = self.matriz['vinculos_constituicao']
-        self.assertEqual(vin['estado'], 'registrado')
+        self.assertEqual(vin['estado'], 'registrado-com-mapa')
         self.assertTrue((ROOT / vin['constituicao_arquivo']).is_file())
         self.assertGreaterEqual(len(vin['emendas_citadas_na_constituicao']), 50)
         self.assertEqual(vin['citadas_sem_arquivo_autonomo'], [])
@@ -109,6 +109,37 @@ class TestEmendasCf1988Serie1141(unittest.TestCase):
             corrupted = re.sub(rf'(EMENDA CONSTITUCIONAL\s+N[ºo°\.]*)\s*{numero}\b', r'\1 XXX', body, flags=re.I)
             self.assertIsNone(re.search(rf'EMENDA CONSTITUCIONAL Nº\s*{numero}\b', corrupted, re.I))
             self.assertRegex(corrupted, re.compile(r'EMENDA CONSTITUCIONAL Nº\s*XXX\b', re.I))
+
+
+    def test_frontmatter_contrato_em_toda_serie(self):
+        for item in self.matriz['itens']:
+            with self.subTest(numero=item['numero']):
+                text = (ROOT / item['arquivo']).read_text(encoding='utf-8')
+                self.assertTrue(text.startswith('---\n'))
+                meta = lote.parse_frontmatter(text)
+                body = lote.body_of(text)
+                self.assertEqual(meta.get('contrato_versao'), 1)
+                self.assertIs(meta.get('vigencia_certificada'), False)
+                self.assertEqual(meta.get('sha256_markdown'), lote.sha256_text(body))
+                self.assertTrue(item['tem_frontmatter'])
+
+    def test_mapa_constituicao_adct_dispositivos(self):
+        mapa_path = PROVAS / 'mapa-constituicao-adct-dispositivos.json'
+        self.assertTrue(mapa_path.is_file())
+        mapa = json.loads(mapa_path.read_text(encoding='utf-8'))
+        self.assertEqual(mapa['issue'], 63)
+        self.assertEqual(mapa['contagem']['emendas'], 141)
+        self.assertEqual(len(mapa['itens']), 141)
+        self.assertEqual(
+            self.matriz['vinculos_constituicao']['estado'],
+            'registrado-com-mapa',
+        )
+        # Escopo literal do issue: vínculo ato/dispositivos; sem mapa CF inteira.
+        self.assertTrue(any('dispositivo-a-dispositivo' in x or 'literal' in mapa.get('escopo', '').lower() for x in mapa['limites']))
+        sample = next(i for i in mapa['itens'] if i['emenda'] == 19)
+        self.assertEqual(sample['estado'], 'mapeado')
+        self.assertTrue(sample['arquivo'])
+        self.assertTrue(isinstance(sample.get('dispositivos_do_ato'), list))
 
 
 if __name__ == '__main__':

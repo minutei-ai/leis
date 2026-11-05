@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-1997-11-22-17"
+norma_id: "br-federal-emenda-constitucional-1997-11-22-17"
+norma_tipo: "emenda-constitucional"
+norma_numero: "17"
+norma_data: "1997-11-22"
+titulo: "EMENDA CONSTITUCIONAL Nº 17"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-1997-11-22-17@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc17.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "339a351b1a39b333d017a5f8eee70816f5f689c7b56ab846a660fb63e11727b3"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 ###EMC-000017-0-000-22-11-1997@@@
 
 <h1 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>EMENDA CONSTITUCIONAL Nº 17</strong></span></span></h1>
