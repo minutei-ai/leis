@@ -258,6 +258,10 @@ class TestEspeciesLegislativasFederais(unittest.TestCase):
                 if self.fontes[slug].get('anexo_fonte_alternativa'):
                     _m2, body2 = nl.parse_frontmatter(md2)
                     _mp, body_pub = nl.parse_frontmatter(text)
+                    if (slug == 'br-federal-resolucao-congresso-nacional-2013-11-22-3'
+                            and meta.get('anexo_transcricao_tabela_visual')):
+                        self.assertIn(r'\<\<TABELA\>\>', body2)
+                        body2 = body2.replace(r'\<\<TABELA\>\>', '')
                     marker = '<!-- anexo-fonte-alternativa:inicio -->'
                     self.assertIn(marker, body_pub)
                     self.assertEqual(body2.rstrip(), body_pub.split(marker, 1)[0].rstrip())
@@ -369,6 +373,26 @@ class TestEspeciesLegislativasFederais(unittest.TestCase):
                 ))
 
 
+    def test_rcn_build_recarrega_tabela_visual_e_preserva_colunas(self):
+        import rcn_anexos_fontes_alternativas as rcn
+        slug = 'br-federal-resolucao-congresso-nacional-2013-11-22-3'
+        item = rcn.load_recovered_snapshots()['itens'][slug]
+        table = item['anexo_table_plain']
+        self.assertEqual(table, rcn.rcn3_table_markdown().strip())
+        self.assertNotEqual(table, item['anexo_plain'])
+        self.assertNotIn('→', table)
+        rows = [line for line in table.splitlines() if line.startswith('| ')]
+        self.assertTrue(all(len(line.split('|')[1:-1]) == 6 for line in rows))
+        capadr = next(line for line in rows if 'CAPADR' in line).split('|')
+        self.assertIn('Integração Nacional e Meio Ambiente', capadr[2])
+        self.assertNotIn('Ministério', capadr[2])
+        self.assertIn('Ministério do Desenvolvimento Agrário', capadr[3])
+        clp = next(line for line in rows if 'Legislação Participativa' in line).split('|')
+        self.assertEqual([x.strip() for x in clp[2:4]], ['', ''])
+        with patch.object(rcn, 'sha256', return_value='corrompido'):
+            with self.assertRaisesRegex(ValueError, 'hashes'):
+                rcn.load_recovered_snapshots()
+
     def test_rcn_2013_anexo_usa_limites_e_colacao_visual_integral(self):
         slug = 'br-federal-resolucao-congresso-nacional-2013-11-22-3'
         evidencia = json.loads(
@@ -471,7 +495,7 @@ class TestEspeciesLegislativasFederais(unittest.TestCase):
         commission_labels = [
             line.split('|')[1].strip()
             for line in table_text.splitlines()
-            if line.startswith('| ') and not line.startswith('| Comissão permanente')
+            if line.startswith('| ') and not line.startswith('| Comissão Permanente')
             and not line.startswith('|---')
         ]
         self.assertEqual(commission_labels, [
@@ -521,9 +545,9 @@ class TestEspeciesLegislativasFederais(unittest.TestCase):
             'Trabalho, de Administração e Serviço Público - CTASP',
             'Agricultura e Reforma Agrária - CRA',
             'Serviços de Infraestrutura-CI',
-            '| CÂMARA DOS DEPUTADOS | | 76 | 76 | 152 |',
-            '| SENADO FEDERAL | | 45 | 45 | 90 |',
-            '| TOTAL | | 121 | 121 | 242 |',
+            '| CÂMARA DOS DEPUTADOS | | | 76 | 76 | 152 |',
+            '| SENADO FEDERAL | | | 45 | 45 | 90 |',
+            '| TOTAL | | | 121 | 121 | 242 |',
         ):
             self.assertIn(exact, table_text)
         for invented in (

@@ -1535,6 +1535,10 @@ def verify() -> None:
             # Corpo reconvertido + anexo de fonte alternativa oficial (PDF Senado vazio).
             _meta2, body2 = nl.parse_frontmatter(md2)
             _meta_pub, body_pub = nl.parse_frontmatter(text)
+            if (slug == 'br-federal-resolucao-congresso-nacional-2013-11-22-3'
+                    and meta_fm.get('anexo_transcricao_tabela_visual')):
+                from rcn_anexos_fontes_alternativas import remove_replaced_table_marker
+                body2 = remove_replaced_table_marker(body2)
             # O prefixo do corpo publicado até o marcador de anexo alternativo deve
             # corresponder ao markdown reconvertido do HTML do corpo.
             marker = '<!-- anexo-fonte-alternativa:inicio -->'
