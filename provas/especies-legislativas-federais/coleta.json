@@ -729,9 +729,15 @@
           "html": true
         }
       ],
-      "utilizavel": false,
-      "motivo": "corpo-html-ok-mas-anexos-essenciais-pendentes",
-      "estado_sugerido": "anexos-pendentes"
+      "utilizavel": true,
+      "motivo": "anexos-recuperados-fonte-alternativa-oficial",
+      "estado_sugerido": "publicado",
+      "anexo_fonte_alternativa": {
+        "url": "https://www2.camara.leg.br/legin/fed/rescon/2025/resolucao-2-23-junho-2025-797630-anexo-pl.pdf",
+        "sha256": "a6528092afa324775e33373fc94c88fae83f1f0cc50707a0f21b0487f798ef89",
+        "orgao": "Câmara dos Deputados — legin anexo PDF",
+        "snapshot": "provas/especies-legislativas-federais/anexos-rcn/fontes/br-federal-resolucao-congresso-nacional-2025-06-23-2.anexo.pdf.xz"
+      }
     },
     "br-federal-resolucao-congresso-nacional-2025-03-14-1": {
       "tipo": "RCN",
@@ -816,9 +822,15 @@
         "publicacoes_texto": 1,
         "anexos_marcados_tem_texto": 9
       },
-      "utilizavel": false,
-      "motivo": "corpo-html-ok-mas-anexos-essenciais-pendentes",
-      "estado_sugerido": "anexos-pendentes"
+      "utilizavel": true,
+      "motivo": "anexos-recuperados-fonte-alternativa-oficial",
+      "estado_sugerido": "publicado",
+      "anexo_fonte_alternativa": {
+        "url": "https://www2.camara.leg.br/legin/fed/rescon/2025/resolucao-1-14-marco-2025-797194-anexo-pl.pdf",
+        "sha256": "8db1950f926bb3dc3e629f732a1c1899f2e568a32b35ea6c18803f46a5138ad8",
+        "orgao": "Câmara dos Deputados — legin anexo PDF / DCN",
+        "snapshot": "provas/especies-legislativas-federais/anexos-rcn/fontes/br-federal-resolucao-congresso-nacional-2025-03-14-1.anexo.pdf.xz"
+      }
     },
     "br-federal-resolucao-congresso-nacional-2024-05-20-1": {
       "tipo": "RCN",
@@ -1119,9 +1131,15 @@
           "html": true
         }
       ],
-      "utilizavel": false,
-      "motivo": "corpo-html-ok-mas-anexos-essenciais-pendentes",
-      "estado_sugerido": "anexos-pendentes"
+      "utilizavel": true,
+      "motivo": "anexos-recuperados-fonte-alternativa-oficial",
+      "estado_sugerido": "publicado",
+      "anexo_fonte_alternativa": {
+        "url": "https://www2.camara.leg.br/legin/fed/rescon/2014/resolucao-2-16-janeiro-2014-778014-publicacaooriginal-142934-pl.html",
+        "sha256": "673b3c304f074dd937a4ece4c542c3704d21e24b6464e75da25b8280a1ff6eef",
+        "orgao": "Câmara dos Deputados — legin publicação original (anexo no HTML)",
+        "snapshot": "provas/especies-legislativas-federais/anexos-rcn/fontes/br-federal-resolucao-congresso-nacional-2014-01-16-2.anexo.html.xz"
+      }
     },
     "br-federal-resolucao-congresso-nacional-2014-01-16-1": {
       "tipo": "RCN",
@@ -1212,9 +1230,15 @@
           "html": true
         }
       ],
-      "utilizavel": false,
-      "motivo": "corpo-html-ok-mas-anexos-essenciais-pendentes",
-      "estado_sugerido": "anexos-pendentes"
+      "utilizavel": true,
+      "motivo": "anexos-recuperados-fonte-alternativa-oficial",
+      "estado_sugerido": "publicado",
+      "anexo_fonte_alternativa": {
+        "url": "https://www2.camara.leg.br/legin/fed/rescon/2013/resolucao-3-22-novembro-2013-777453-anexo-pl.pdf",
+        "sha256": "9f2164763d620a0675799e73d2380c4ebc876bf9203b19763c050f3bbd85001b",
+        "orgao": "Câmara dos Deputados — legin anexo PDF",
+        "snapshot": "provas/especies-legislativas-federais/anexos-rcn/fontes/br-federal-resolucao-congresso-nacional-2013-11-22-3.anexo.pdf.xz"
+      }
     },
     "br-federal-resolucao-congresso-nacional-2013-07-11-1": {
       "tipo": "RCN",
@@ -1593,9 +1617,15 @@
         "publicacoes_texto": 1,
         "anexos_marcados_tem_texto": 1
       },
-      "utilizavel": false,
-      "motivo": "corpo-html-ok-mas-anexos-essenciais-pendentes",
-      "estado_sugerido": "anexos-pendentes"
+      "utilizavel": true,
+      "motivo": "anexos-recuperados-fonte-alternativa-oficial",
+      "estado_sugerido": "publicado",
+      "anexo_fonte_alternativa": {
+        "url": "https://legis.senado.leg.br/norma/561147/publicacao/36751146",
+        "sha256": "9c6ac09a908339a4e89be36aac43c0a608a45095ac2ffe3f22f572bede5173cd",
+        "orgao": "Senado Federal — publicação HTML alternativa do anexo (Sigen)",
+        "snapshot": "provas/especies-legislativas-federais/anexos-rcn/fontes/br-federal-resolucao-congresso-nacional-2006-12-26-2.anexo.html.xz"
+      }
     },
     "br-federal-resolucao-congresso-nacional-2006-12-22-1": {
       "tipo": "RCN",
@@ -1686,9 +1716,15 @@
         "publicacoes_texto": 2,
         "anexos_marcados_tem_texto": 10
       },
-      "utilizavel": false,
-      "motivo": "corpo-html-ok-mas-anexos-essenciais-pendentes",
-      "estado_sugerido": "anexos-pendentes"
+      "utilizavel": true,
+      "motivo": "anexos-recuperados-fonte-alternativa-oficial",
+      "estado_sugerido": "publicado",
+      "anexo_fonte_alternativa": {
+        "url": "https://www2.camara.leg.br/legin/fed/rescon/2006/resolucao-1-22-dezembro-2006-548706-anexo-pl.pdf",
+        "sha256": "4082e22797bfa10f206ed99373223f1a627c5f5fffcc45a2424ca1fc55803bb6",
+        "orgao": "Câmara dos Deputados — legin anexo PDF",
+        "snapshot": "provas/especies-legislativas-federais/anexos-rcn/fontes/br-federal-resolucao-congresso-nacional-2006-12-22-1.anexo.pdf.xz"
+      }
     },
     "br-federal-resolucao-congresso-nacional-2005-11-11-1": {
       "tipo": "RCN",

@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2009-12-09-62"
+norma_id: "br-federal-emenda-constitucional-2009-12-09-62"
+norma_tipo: "emenda-constitucional"
+norma_numero: "62"
+norma_data: "2009-12-09"
+titulo: "EMENDA CONSTITUCIONAL Nº 62"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2009-12-09-62@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc62.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "ca1479c1b2eecbb76ce1701f1fc6c5af934683378c505ab4af5be24693c33996"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 ###EMC-000062-0-000-09-12-2009@@@
 
 <strong>EMENDA CONSTITUCIONAL Nº 62</strong>

@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2020-05-07-106"
+norma_id: "br-federal-emenda-constitucional-2020-05-07-106"
+norma_tipo: "emenda-constitucional"
+norma_numero: "106"
+norma_data: "2020-05-07"
+titulo: "EMENDA CONSTITUCIONAL Nº 106"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2020-05-07-106@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc106.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "bcc1b7fec2dc345f14bc09f061a7bfbd54bfe56f018edc6b816ab6456041f03d"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 <strong>EMENDA CONSTITUCIONAL Nº 106</strong>
 
 <em><strong>Institui regime extraordinário fiscal, financeiro e de contratações para enfrentamento de calamidade pública nacional decorrente de pandemia.</strong></em>

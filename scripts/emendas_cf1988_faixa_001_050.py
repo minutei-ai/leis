@@ -26,6 +26,7 @@ from nucleo_licitacoes import (  # noqa: E402
     coverage,
     md_plain,
     md_text_all,
+    parse_frontmatter,
     sha256,
     split_articles,
     strip_fold,
@@ -321,7 +322,10 @@ def cmd_verify(args: argparse.Namespace) -> int:
         if not path.is_file():
             errors.append(f'EC {n}: arquivo publicado ausente')
             continue
-        body = path.read_text(encoding='utf-8')
+        published = path.read_text(encoding='utf-8')
+        meta, body = parse_frontmatter(published) if published.startswith('---\n') else ({}, published)
+        if meta and meta.get('sha256_markdown') != sha256(body.encode('utf-8')):
+            errors.append(f'EC {n}: hash do corpo no cabeçalho divergente')
         blocks, body2 = convert_camara(item, fontes)
         if body2 != body:
             errors.append(f'EC {n}: markdown publicado ≠ reconversão do snapshot')

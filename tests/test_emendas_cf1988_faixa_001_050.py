@@ -80,7 +80,11 @@ class EmendasFaixa001050Test(unittest.TestCase):
     def test_published_matches_reconversion(self):
         for item in self.catalogo:
             path = published_path(item)
-            body = path.read_text(encoding='utf-8')
+            from nucleo_licitacoes import parse_frontmatter, sha256
+            published = path.read_text(encoding='utf-8')
+            meta, body = parse_frontmatter(published) if published.startswith('---\n') else ({}, published)
+            if meta:
+                self.assertEqual(meta['sha256_markdown'], sha256(body.encode('utf-8')))
             _blocks, body2 = convert_camara(item, self.fontes)
             self.assertEqual(body, body2, f'EC {item["numero"]} reconversão')
             self.assertEqual(identity_guards_ok(item, body), [])

@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2003-12-19-42"
+norma_id: "br-federal-emenda-constitucional-2003-12-19-42"
+norma_tipo: "emenda-constitucional"
+norma_numero: "42"
+norma_data: "2003-12-19"
+titulo: "EMENDA CONSTITUCIONAL Nº 42, DE 2003"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2003-12-19-42@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: true
+fonte_orgao: "Câmara dos Deputados"
+fonte_url: "https://www2.camara.leg.br/legin/fed/emecon/2003/emendaconstitucional-42-19-dezembro-2003-497205-publicacaooriginal-1-pl.html"
+fonte_formato: "html"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc42.htm"]
+capturado_em: "2026-11-04T12:33:02Z"
+sha256_fonte: "ec36139c124a59314beccfa84426cbbffca554fdf6f164e79a7d54638515a00f"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "d431f1c2b5409d9da67c611830f1e22efcb1fc6bb0444d8ebf4b8c181c8a9a90"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "faixa-001-050"
+---
+
 EMENDA CONSTITUCIONAL Nº 42, DE 2003
 
 Altera o Sistema Tributário Nacional e dá outras providências.

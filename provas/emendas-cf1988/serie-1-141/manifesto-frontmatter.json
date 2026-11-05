@@ -1,0 +1,710 @@
+{
+  "lote": "emendas-cf1988-serie-1-141",
+  "papel": "frontmatter-serie-1-141",
+  "issue": 63,
+  "gerado_em": "2026-11-04T21:14:32Z",
+  "contrato_versao": 1,
+  "aviso": "Frontmatter acrescentado sem alterar o corpo jurídico. capturado_em/sha256_fonte=desconhecido quando a captura original do corpo publicado não estava registrada; fonte_conferencia pode apontar URL oficial Planalto só para conferência, sem atribuir captura retroativa.",
+  "atualizados": [
+    {
+      "numero": 1,
+      "arquivo": "federal/br-federal-emenda-constitucional-1992-03-31-1.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "a605d8b339a6e1442dad5b6fa81e5ccf428dbb230265332127d5a79cc6c27264",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 2,
+      "arquivo": "federal/br-federal-emenda-constitucional-1992-08-25-2.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "d015397b77267c60bafd3581c81991c88bf5a41a4dace7034fd59a863b64ef6a",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 3,
+      "arquivo": "federal/br-federal-emenda-constitucional-1993-03-17-3.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "c0164cc393cb289ed1c0ed35e6882c7060139a5b4453b09c8658c9a8825899e4",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 4,
+      "arquivo": "federal/br-federal-emenda-constitucional-1993-09-14-4.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "b070bbe64bd39689692d66b179107bdd0a66b4ea1beb0d6ea677666efbd54a88",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 5,
+      "arquivo": "federal/br-federal-emenda-constitucional-1995-08-15-5.md",
+      "metadados_origem": "faixa-001-050",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/emecon/1995/emendaconstitucional-5-15-agosto-1995-449370-publicacaooriginal-1-pl.html",
+      "sha256_markdown": "1b67387e256881a22870a3fcc0d6c212087510a7e19316779a4116eacc965459",
+      "capturado_em": "2026-11-04T12:33:02Z"
+    },
+    {
+      "numero": 6,
+      "arquivo": "federal/br-federal-emenda-constitucional-1995-08-15-6.md",
+      "metadados_origem": "faixa-001-050",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/emecon/1995/emendaconstitucional-6-15-agosto-1995-366937-publicacaooriginal-1-pl.html",
+      "sha256_markdown": "6b199f32396cf37cbc7dbe0f49812e336d42083d10c78eb59576a44974ebcc0e",
+      "capturado_em": "2026-11-04T12:33:02Z"
+    },
+    {
+      "numero": 7,
+      "arquivo": "federal/br-federal-emenda-constitucional-1995-08-15-7.md",
+      "metadados_origem": "faixa-001-050",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/emecon/1995/emendaconstitucional-7-15-agosto-1995-358348-publicacaooriginal-1-pl.html",
+      "sha256_markdown": "fd6032727c70dd581b6b4ae9e88021be8ee141d61461a7bb1cca27aabd0592f4",
+      "capturado_em": "2026-11-04T12:33:02Z"
+    },
+    {
+      "numero": 8,
+      "arquivo": "federal/br-federal-emenda-constitucional-1995-08-15-8.md",
+      "metadados_origem": "faixa-001-050",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/emecon/1995/emendaconstitucional-8-15-agosto-1995-354956-publicacaooriginal-1-pl.html",
+      "sha256_markdown": "196f8dda0535472e88de8f29176e0e2b3919c0dbfa1d3680324c3fdf4dec32ad",
+      "capturado_em": "2026-11-04T12:33:02Z"
+    },
+    {
+      "numero": 9,
+      "arquivo": "federal/br-federal-emenda-constitucional-1995-11-09-9.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "9eef19f0bf1df7002af29fe96a3d0af8ef2d6570b9d50095a88d4ab3956956a9",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 10,
+      "arquivo": "federal/br-federal-emenda-constitucional-1996-03-04-10.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "c7aece0ea8e12a5733f23854c3f7ee9039b75c5a1f68410f3601e1934c40662d",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 11,
+      "arquivo": "federal/br-federal-emenda-constitucional-1996-04-30-11.md",
+      "metadados_origem": "faixa-001-050",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/emecon/1996/emendaconstitucional-11-30-abril-1996-354959-publicacaooriginal-1-pl.html",
+      "sha256_markdown": "f57b7eea10b33264801eba1005d6bb5d8a51d454f2adcb8488b4761615bb2243",
+      "capturado_em": "2026-11-04T12:33:02Z"
+    },
+    {
+      "numero": 12,
+      "arquivo": "federal/br-federal-emenda-constitucional-1996-08-15-12.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "5f5a782a800cc54ceb5b92c752957ee3303b94f1a9180d77f5c83da606afc06a",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 13,
+      "arquivo": "federal/br-federal-emenda-constitucional-1996-08-21-13.md",
+      "metadados_origem": "faixa-001-050",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/emecon/1996/emendaconstitucional-13-21-agosto-1996-358365-publicacaooriginal-1-pl.html",
+      "sha256_markdown": "d7130713768c12d04163bdc5cb285729de8fc73ff1956b8e032ed9f881c1ec2f",
+      "capturado_em": "2026-11-04T12:33:02Z"
+    },
+    {
+      "numero": 14,
+      "arquivo": "federal/br-federal-emenda-constitucional-1996-09-12-14.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "27f64e8c6d939cf51dcb5dc94901a40638e241d184f7d8515f412d29d1545df5",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 15,
+      "arquivo": "federal/br-federal-emenda-constitucional-1996-09-12-15.md",
+      "metadados_origem": "faixa-001-050",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/emecon/1996/emendaconstitucional-15-12-setembro-1996-369745-publicacaooriginal-1-pl.html",
+      "sha256_markdown": "5f4a4a54ca57140528b3cec52139c4e36f6dc28d84152cb6cc1f25d75e94b950",
+      "capturado_em": "2026-11-04T12:33:02Z"
+    },
+    {
+      "numero": 16,
+      "arquivo": "federal/br-federal-emenda-constitucional-1997-06-04-16.md",
+      "metadados_origem": "faixa-001-050",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/emecon/1997/emendaconstitucional-16-4-junho-1997-355726-publicacaooriginal-1-pl.html",
+      "sha256_markdown": "1f6a6831b795f166d607f54437acdb2b3ceae292aad460fab5995796bed6c9ae",
+      "capturado_em": "2026-11-04T12:33:02Z"
+    },
+    {
+      "numero": 17,
+      "arquivo": "federal/br-federal-emenda-constitucional-1997-11-22-17.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "339a351b1a39b333d017a5f8eee70816f5f689c7b56ab846a660fb63e11727b3",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 18,
+      "arquivo": "federal/br-federal-emenda-constitucional-1998-02-05-18.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "04d114695965a4379df44eeef3f2a9d8b6b52342ecccbeaf55748d0023325106",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 19,
+      "arquivo": "federal/br-federal-emenda-constitucional-1998-06-04-19.md",
+      "metadados_origem": "faixa-001-050",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/emecon/1998/emendaconstitucional-19-4-junho-1998-372816-publicacaooriginal-1-pl.html",
+      "sha256_markdown": "e8772b68cf75b8411423593e9ef39119649ed4205808b37f933133f8bb01308d",
+      "capturado_em": "2026-11-04T12:33:02Z"
+    },
+    {
+      "numero": 20,
+      "arquivo": "federal/br-federal-emenda-constitucional-1998-12-15-20.md",
+      "metadados_origem": "faixa-001-050",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/emecon/1998/emendaconstitucional-20-15-dezembro-1998-356870-publicacaooriginal-1-pl.html",
+      "sha256_markdown": "14e31241bc6f604ec317c1a02209e66b7daaaec569a375f778ed43710cd3042a",
+      "capturado_em": "2026-11-04T12:33:02Z"
+    },
+    {
+      "numero": 21,
+      "arquivo": "federal/br-federal-emenda-constitucional-1999-03-18-21.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "3721bd1bcef455eb8840ef4773b679c5ff072d243820d7064a5e2e2d1c9227d6",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 22,
+      "arquivo": "federal/br-federal-emenda-constitucional-1999-03-18-22.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "2789ffdcdb4a17fa3d0278245d547787f71ceb59797f132bdb9d44c6446662fe",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 23,
+      "arquivo": "federal/br-federal-emenda-constitucional-1999-09-02-23.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "b172c92137451ab2b50c2ce21607dfee70084fb3319fd5a845d9208c69fab68f",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 24,
+      "arquivo": "federal/br-federal-emenda-constitucional-1999-12-09-24.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "73260dc523e7a2f7104de42d84a49783f1606315067ed88c4a062e4d9214f633",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 25,
+      "arquivo": "federal/br-federal-emenda-constitucional-2000-02-14-25.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "0ca81486daecb10012588fc8065b50caeff95d4f9f76e9ebca60d7420b6873d0",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 26,
+      "arquivo": "federal/br-federal-emenda-constitucional-2000-02-14-26.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "3a19ff5255b481ea97c448f567f836a57fe544fc15e8db1c80ae9e7483f3cb38",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 27,
+      "arquivo": "federal/br-federal-emenda-constitucional-2000-03-21-27.md",
+      "metadados_origem": "faixa-001-050",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/emecon/2000/emendaconstitucional-27-21-marco-2000-373981-publicacaooriginal-1-pl.html",
+      "sha256_markdown": "724ca5c42a864929f85a118c3e299ba9ad9a18326bbce6678b758e0ebae18461",
+      "capturado_em": "2026-11-04T12:33:02Z"
+    },
+    {
+      "numero": 28,
+      "arquivo": "federal/br-federal-emenda-constitucional-2000-05-25-28.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "26de9cb34aa038fb5827021e61b9b8bdad3309fb2aea1e538952c5865fd7da64",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 29,
+      "arquivo": "federal/br-federal-emenda-constitucional-2000-09-13-29.md",
+      "metadados_origem": "faixa-001-050",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/emecon/2000/emendaconstitucional-29-13-setembro-2000-354961-publicacaooriginal-1-pl.html",
+      "sha256_markdown": "ba8f94699280c7d049afe24c0b99a832a5b3980c51e9eb1a8ece9693ef7fd445",
+      "capturado_em": "2026-11-04T12:33:02Z"
+    },
+    {
+      "numero": 30,
+      "arquivo": "federal/br-federal-emenda-constitucional-2000-09-13-30.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "a80a55c24fd8b67edd7e76e126b60614e2151c1d79312afcf62d228ae146b34b",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 31,
+      "arquivo": "federal/br-federal-emenda-constitucional-2000-12-14-31.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "01c4462d1687cce4d61e41948caa8a9cfc0db9800dcf44606a998f95d4fa846f",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 32,
+      "arquivo": "federal/br-federal-emenda-constitucional-2001-09-11-32.md",
+      "metadados_origem": "faixa-001-050",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/emecon/2001/emendaconstitucional-32-11-setembro-2001-395730-publicacaooriginal-1-pl.html",
+      "sha256_markdown": "b7362de5367e6e9b0e8792dee6e685b33ddc149f2cc8046699e62f3a5b9177c3",
+      "capturado_em": "2026-11-04T12:33:02Z"
+    },
+    {
+      "numero": 33,
+      "arquivo": "federal/br-federal-emenda-constitucional-2001-12-11-33.md",
+      "metadados_origem": "faixa-001-050",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/emecon/2001/emendaconstitucional-33-11-dezembro-2001-426596-publicacaooriginal-1-pl.html",
+      "sha256_markdown": "26800d19ad5c3532c7d6e2ca139cef25f864c7a3fc1d2a0da2f594f59371f361",
+      "capturado_em": "2026-11-04T12:33:02Z"
+    },
+    {
+      "numero": 34,
+      "arquivo": "federal/br-federal-emenda-constitucional-2001-12-13-34.md",
+      "metadados_origem": "faixa-001-050",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/emecon/2001/emendaconstitucional-34-13-dezembro-2001-427152-publicacaooriginal-1-pl.html",
+      "sha256_markdown": "9dfc590c2252b752c1f8a3551623fc9793c5c7062f43c9b90f6ec8055db56126",
+      "capturado_em": "2026-11-04T12:33:02Z"
+    },
+    {
+      "numero": 35,
+      "arquivo": "federal/br-federal-emenda-constitucional-2001-12-20-35.md",
+      "metadados_origem": "faixa-001-050",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/emecon/2001/emendaconstitucional-35-20-dezembro-2001-429311-publicacaooriginal-1-pl.html",
+      "sha256_markdown": "cfd641a3b88dee30b4038f1c07168c1313dcc8da72c1f6dd728ea1f6fe0f3613",
+      "capturado_em": "2026-11-04T12:33:02Z"
+    },
+    {
+      "numero": 36,
+      "arquivo": "federal/br-federal-emenda-constitucional-2002-05-28-36.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "f9d290046cd7190a47a6b9eb6c89d7c6bce48746a7d8140932a1e8b6bc7852c6",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 37,
+      "arquivo": "federal/br-federal-emenda-constitucional-2002-06-12-37.md",
+      "metadados_origem": "faixa-001-050",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/emecon/2002/emendaconstitucional-37-12-junho-2002-395051-publicacaooriginal-1-pl.html",
+      "sha256_markdown": "0db69f142521b7c2a69857502e6f28782b0a1ab25e8a0d03aeb38941cafaf12d",
+      "capturado_em": "2026-11-04T12:33:02Z"
+    },
+    {
+      "numero": 38,
+      "arquivo": "federal/br-federal-emenda-constitucional-2002-06-12-38.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "a08334738088435a80c3c1a4379050ad895892f63a548f36b2aedb0dd9b2dc7f",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 39,
+      "arquivo": "federal/br-federal-emenda-constitucional-2002-12-19-39.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "174a83c95bb42c1a04f57394a4da95f24dc66e637bd1a754a1af91a96fd2c234",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 40,
+      "arquivo": "federal/br-federal-emenda-constitucional-2003-05-29-40.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "12470f548cb207df53010f4aeaa5a278829e91d19e7f9d490b324501c1430d86",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 41,
+      "arquivo": "federal/br-federal-emenda-constitucional-2003-12-19-41.md",
+      "metadados_origem": "faixa-001-050",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/emecon/2003/emendaconstitucional-41-19-dezembro-2003-497025-publicacaooriginal-1-pl.html",
+      "sha256_markdown": "eb765566416c3bb0e396861d4e173b397fe40b4c609e2fde4dc476e0adc11ba8",
+      "capturado_em": "2026-11-04T12:33:02Z"
+    },
+    {
+      "numero": 42,
+      "arquivo": "federal/br-federal-emenda-constitucional-2003-12-19-42.md",
+      "metadados_origem": "faixa-001-050",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/emecon/2003/emendaconstitucional-42-19-dezembro-2003-497205-publicacaooriginal-1-pl.html",
+      "sha256_markdown": "d431f1c2b5409d9da67c611830f1e22efcb1fc6bb0444d8ebf4b8c181c8a9a90",
+      "capturado_em": "2026-11-04T12:33:02Z"
+    },
+    {
+      "numero": 43,
+      "arquivo": "federal/br-federal-emenda-constitucional-2004-04-15-43.md",
+      "metadados_origem": "faixa-001-050",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/emecon/2004/emendaconstitucional-43-15-abril-2004-531712-publicacaooriginal-13677-pl.html",
+      "sha256_markdown": "6d6963e48f4ad3c29cfd812f72dba297bcccb260392c7511847c6e44c612ccf6",
+      "capturado_em": "2026-11-04T12:33:02Z"
+    },
+    {
+      "numero": 44,
+      "arquivo": "federal/br-federal-emenda-constitucional-2004-06-30-44.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "f8d90f7d4a0defc6ed253682333a67fe53a0c90f4638a3638f73bd0a981e8640",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 45,
+      "arquivo": "federal/br-federal-emenda-constitucional-2004-12-08-45.md",
+      "metadados_origem": "faixa-001-050",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/emecon/2004/emendaconstitucional-45-8-dezembro-2004-535274-publicacaooriginal-22987-pl.html",
+      "sha256_markdown": "989655a398dfaaec5f2468f946be7113c16ad0b1d994adae2915c2bb9ba51861",
+      "capturado_em": "2026-11-04T12:33:02Z"
+    },
+    {
+      "numero": 46,
+      "arquivo": "federal/br-federal-emenda-constitucional-2005-05-05-46.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "32f33ffcc6559905150fc72b820b04af47c8ada17aaac0d2394185caf5937719",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 47,
+      "arquivo": "federal/br-federal-emenda-constitucional-2005-07-05-47.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "a88ec9be6e605050811c55e1ec7ce559af5a148a546e21f199cd3aff7f7ec4d7",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 48,
+      "arquivo": "federal/br-federal-emenda-constitucional-2005-08-10-48.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "556ed3fe95b5fb7585681e7f7d3575063e60df71432ca756fab16ac0b9198b5b",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 49,
+      "arquivo": "federal/br-federal-emenda-constitucional-2006-02-08-49.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "6d4a62db370cc896bec0d3a5a103bdd87c65a61cc834d4c3809d25af067453ea",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 50,
+      "arquivo": "federal/br-federal-emenda-constitucional-2006-02-14-50.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "342aaf1eeae905961143979a8a1bded39bbf2cdbe3d4dc8b2362db5b6ab45ddd",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 51,
+      "arquivo": "federal/br-federal-emenda-constitucional-2006-02-14-51.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "3ac38acfeb9dd3d2520a93b9f809675d86c972c81704189adf5a797ad4960cb2",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 52,
+      "arquivo": "federal/br-federal-emenda-constitucional-2006-03-08-52.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "e93096bf7a5cd2fa01ee0f6f488afda3ac6ba7e39cec82e8edd4583cc5e7cbb5",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 55,
+      "arquivo": "federal/br-federal-emenda-constitucional-2007-09-20-55.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "237c2434acc88d2ceacc0b2f5b3aafe0f657073414bf37abd54073432ca08897",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 58,
+      "arquivo": "federal/br-federal-emenda-constitucional-2009-09-23-58.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "9e2a1e9d2e2ca656215745f308d3413d6e8149936847cef6802044fc249bde88",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 59,
+      "arquivo": "federal/br-federal-emenda-constitucional-2009-11-11-59.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "2957f84196d26b72658a573d8b07eebbb38995f4f1129b825adbcee7a2b8f277",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 60,
+      "arquivo": "federal/br-federal-emenda-constitucional-2009-11-11-60.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "74d3b7849f20c1ff818dd821630001d52893e4997920247649fc683e0c936622",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 61,
+      "arquivo": "federal/br-federal-emenda-constitucional-2009-11-11-61.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "fae98949ba2c30560749dc077629d53f13f1d78257d3312ae043ee16f11a75d5",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 62,
+      "arquivo": "federal/br-federal-emenda-constitucional-2009-12-09-62.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "ca1479c1b2eecbb76ce1701f1fc6c5af934683378c505ab4af5be24693c33996",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 65,
+      "arquivo": "federal/br-federal-emenda-constitucional-2010-07-13-65.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "9bad28441d2388a2a952b63f556c491379e9df5d6bc1d4fb5c9abe06e2667b95",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 66,
+      "arquivo": "federal/br-federal-emenda-constitucional-2010-07-13-66.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "659260e99825637a37f8653ced467c9c7c826c1e1749436db10602586a0d8e6f",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 67,
+      "arquivo": "federal/br-federal-emenda-constitucional-2010-12-22-67.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "7984d80f688e6207b64f266de6eed5e2fe05e5ae741ae118291a6760c079f16d",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 68,
+      "arquivo": "federal/br-federal-emenda-constitucional-2011-12-21-68.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "ba9d240b8b193d6076bf115f3ad275e6bced39e2ee9c9570c9b9c7360233443b",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 69,
+      "arquivo": "federal/br-federal-emenda-constitucional-2012-03-29-69.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "4cf40832a6855c429de815d7a8a5b0d95d7f1a08f718d515c3a45fe52c1ab565",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 70,
+      "arquivo": "federal/br-federal-emenda-constitucional-2012-03-29-70.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "34f63c68d27d5c4cc87723d4ead99d1d0c98942a00da59c8e452254d09883dc8",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 74,
+      "arquivo": "federal/br-federal-emenda-constitucional-2013-08-06-74.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "d17f880ade27345251b51e55c1534a56d95156faa080e9bf4d60e6445c811d2c",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 75,
+      "arquivo": "federal/br-federal-emenda-constitucional-2013-10-15-75.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "6477f561353ddd5770890eb56790113485e950e40dedcf6cd2adfc6d087f3d29",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 78,
+      "arquivo": "federal/br-federal-emenda-constitucional-2014-05-14-78.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "24f41a67af4e8c8fbbfcd3a01a1e073b75426b7185f1983f9dc4af2e6a48cd10",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 80,
+      "arquivo": "federal/br-federal-emenda-constitucional-2014-06-04-80.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "3f1b94b08c0d74083e0b8f43fcde48a9a6ef7ffcbe5f3bc8c86a01496aa90ee0",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 81,
+      "arquivo": "federal/br-federal-emenda-constitucional-2014-06-05-81.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "1c6ea7889b0545fa755ab4bff868ad64e4dabbd8b330f1e27329c8049848b082",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 84,
+      "arquivo": "federal/br-federal-emenda-constitucional-2014-12-02-84.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "9742a50254287cfba329db38de93ec5d2351292f83ca7b586604ad359e5b5ed4",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 100,
+      "arquivo": "federal/br-federal-emenda-constitucional-2019-06-26-100.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "56d33c8287b014c5a12d8e9b624da6953c75389b570b40f748a8aa6f088a0e23",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 101,
+      "arquivo": "federal/br-federal-emenda-constitucional-2019-07-03-101.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "c79646d34da9e0ba1ffe1e747586d94060e04a8997c23fff5ad99a8a5d09aa97",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 103,
+      "arquivo": "federal/br-federal-emenda-constitucional-2019-11-12-103.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "061b08cabfa183eb902c49c2ad16da9043f6bb4a3b093258b7c52e126608ee76",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 104,
+      "arquivo": "federal/br-federal-emenda-constitucional-2019-12-04-104.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "13f427a4c632d26a3d0c649bc08f839bc2410ade758f742de43db64888c23740",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 105,
+      "arquivo": "federal/br-federal-emenda-constitucional-2019-12-12-105.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "c64a88cabaa750bf8d2487e3a71a440e1494f04993fc0e657a1b8987b4465f4a",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 106,
+      "arquivo": "federal/br-federal-emenda-constitucional-2020-05-07-106.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "bcc1b7fec2dc345f14bc09f061a7bfbd54bfe56f018edc6b816ab6456041f03d",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 108,
+      "arquivo": "federal/br-federal-emenda-constitucional-2020-08-26-108.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "550ebfa2d19205c1521d0650a96edd4e6950148ccfbc87f9125e664d4b231bcd",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 110,
+      "arquivo": "federal/br-federal-emenda-constitucional-2021-07-12-110.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "cc46f1a6e2daf8f556ce63f28946b0b8a215c36f5fb1ae6aaa40583f2f0459d5",
+      "capturado_em": "desconhecido"
+    },
+    {
+      "numero": 119,
+      "arquivo": "federal/br-federal-emenda-constitucional-2022-04-27-119.md",
+      "metadados_origem": "corpo-preservado-pre-metadados",
+      "fonte_url": "desconhecido",
+      "sha256_markdown": "8f01970227ad01aafe57b2698d729acfb6f41711860ab2a07f7c88c047780bfe",
+      "capturado_em": "desconhecido"
+    }
+  ],
+  "ja_com_frontmatter": [
+    53,
+    54,
+    56,
+    57,
+    63,
+    64,
+    71,
+    72,
+    73,
+    76,
+    77,
+    79,
+    82,
+    83,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    102,
+    107,
+    109,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141
+  ],
+  "contagem": {
+    "atualizados": 79,
+    "ja_com_frontmatter": 62
+  }
+}

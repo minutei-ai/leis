@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-1996-03-04-10"
+norma_id: "br-federal-emenda-constitucional-1996-03-04-10"
+norma_tipo: "emenda-constitucional"
+norma_numero: "10"
+norma_data: "1996-03-04"
+titulo: "EMENDA CONSTITUCIONAL Nº 10, DE 04/03/1996"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-1996-03-04-10@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc10.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "c7aece0ea8e12a5733f23854c3f7ee9039b75c5a1f68410f3601e1934c40662d"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 <strong>EMENDA CONSTITUCIONAL N° 10</strong>
 
 <em><strong>Altera os arts. 71 e 72 do Ato das Disposições Constitucionais Transitórias, introduzidos pela Emenda Constitucional de Revisão n° 1, de 1994.</strong></em>
