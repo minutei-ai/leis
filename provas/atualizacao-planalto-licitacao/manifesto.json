@@ -1,0 +1,191 @@
+{
+  "contrato_versao": 1,
+  "lote": "atualizacao-planalto-licitacao",
+  "issue": 93,
+  "descricao": "Atualização da redação compilada do Planalto para os Decretos 11.246/2022 e 11.878/2024 e as Leis 12.527/2011 e 12.462/2011, com notas de alteração e registro da perda de eficácia da MP 1.349/2026.",
+  "gerado_em": "2026-11-04T19:51:30Z",
+  "vigencia_certificada": false,
+  "mp_1349_status": {
+    "materia_codigo": "173530",
+    "processo_id": "9029245",
+    "identificacao": "MPV 1349/2026",
+    "url_materia": "https://legis.senado.leg.br/dadosabertos/materia/173530.json",
+    "url_processo": "https://legis.senado.leg.br/dadosabertos/processo/9029245.json",
+    "indicador_tramitando": "Não",
+    "situacao_atual": "SEM EFICÁCIA",
+    "sigla_situacao_atual": "SEFICA",
+    "data_situacao_atual": "2026-08-06",
+    "decisao": {
+      "data": "2026-08-04",
+      "sigla": "PERDA_EFICACIA",
+      "descricao": "Perda de eficácia, em decorrência do término do prazo para sua votação no Congresso"
+    },
+    "destino": {
+      "sigla": "ARQUIVO",
+      "descricao": "Ao arquivo"
+    },
+    "leitura": "O Planalto ainda exibe o § 17 do art. 63 da Lei 12.462 com nota da MP 1.349/2026. O Senado/Congresso registra perda de eficácia em 2026-08-04 (SEFICA). O acervo reproduz a compilação do Planalto e registra a perda de eficácia; não certifica vigência residual do § 17 nem reconstrói lei de conversão inexistente."
+  },
+  "baseline_edicao_anterior": "provas/atualizacao-planalto-licitacao/baseline-edicao-anterior.json",
+  "documentos": [
+    {
+      "id": "br-federal-decreto-2022-10-27-11246",
+      "arquivo": "federal/br-federal-decreto-2022-10-27-11246.md",
+      "norma": {
+        "tipo": "decreto",
+        "numero": "11246",
+        "data": "2022-10-27",
+        "titulo": "DECRETO Nº 11.246, DE 27 DE OUTUBRO DE 2022",
+        "ementa": "Regulamenta o disposto no § 3º do art. 8º da Lei nº 14.133, de 1º de abril de 2021, para dispor sobre as regras de atuação do agente de contratação e da equipe de apoio, regras de designação do gestor e fiscais de contratos e regras sobre a atuação da comissão de contratação."
+      },
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "consolidada-planalto",
+        "edicao_id": "br-federal-decreto-2022-10-27-11246@consolidada-planalto",
+        "relacionada": "br-federal-decreto-2022-10-27-11246-historica",
+        "historica": "federal/edicoes/br-federal-decreto-2022-10-27-11246-historica.md"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-d11246",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/D11246.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:07:11Z",
+        "sha256": "d85394a46d55299b0bf5d92a196fcb39827b7f2ef3376db77d38fdee47899066",
+        "sha256_conteudo": "408957136087232654072a1064824bd9bf0f2c8f3ad0e9326f43ad5dcacbb5a6",
+        "snapshot": "provas/atualizacao-planalto-licitacao/fontes/planalto-d11246.htm.xz",
+        "sha256_snapshot_armazenado": "ab5391b1aad2c6985eb5f344d5bc5818b20605dcd5455d19a037a8a7d4120e01"
+      },
+      "prova": "provas/atualizacao-planalto-licitacao/reconciliacao-br-federal-decreto-2022-10-27-11246.json",
+      "sha256_markdown": "c79222b1f1b62939dfdf23547b4a11cfb7d22462085fba1e9f9e776001c8c209",
+      "regressao": [
+        "art8-par1-gestores",
+        "nota-13031",
+        "art25-gestor-setorial",
+        "fisc-admin-nota"
+      ]
+    },
+    {
+      "id": "br-federal-decreto-2024-01-09-11878",
+      "arquivo": "federal/br-federal-decreto-2024-01-09-11878.md",
+      "norma": {
+        "tipo": "decreto",
+        "numero": "11878",
+        "data": "2024-01-09",
+        "titulo": "DECRETO Nº 11.878, DE 9 DE JANEIRO DE 2024",
+        "ementa": "Regulamenta o art. 79, caput, incisos I a III, da Lei nº 14.133, de 1º de abril de 2021, para dispor sobre o procedimento auxiliar de credenciamento."
+      },
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "consolidada-planalto",
+        "edicao_id": "br-federal-decreto-2024-01-09-11878@consolidada-planalto",
+        "relacionada": "br-federal-decreto-2024-01-09-11878-historica",
+        "historica": "federal/edicoes/br-federal-decreto-2024-01-09-11878-historica.md"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-d11878",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d11878.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:07:11Z",
+        "sha256": "35c40b57c682d12eff0ff5537814dc2e4250cfad20aafbc7e23777d8d05fc276",
+        "sha256_conteudo": "b3f68cae175f429e885e4a82f78dc7c7c80dc27f14bbdae172d68b9a7248f564",
+        "snapshot": "provas/atualizacao-planalto-licitacao/fontes/planalto-d11878.htm.xz",
+        "sha256_snapshot_armazenado": "296e4dd3c4cadd93bf099d9db9c9b31f98b314ac25fcabae14cbab75b2d750ae"
+      },
+      "prova": "provas/atualizacao-planalto-licitacao/reconciliacao-br-federal-decreto-2024-01-09-11878.json",
+      "sha256_markdown": "dce9f3e8eecd2feaf42ea8e90bc6614d08c4285652a49948dab6c15c220ce408",
+      "regressao": [
+        "art1-incisos",
+        "nota-13106"
+      ]
+    },
+    {
+      "id": "br-federal-lei-2011-11-18-12527",
+      "arquivo": "federal/br-federal-lei-2011-11-18-12527.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "12527",
+        "data": "2011-11-18",
+        "titulo": "LEI Nº 12.527, DE 18 DE NOVEMBRO DE 2011",
+        "ementa": "Regula o acesso a informações previsto no inciso XXXIII do art. 5º, no inciso II do § 3º do art. 37 e no § 2º do art. 216 da Constituição Federal; altera a Lei nº 8.112, de 11 de dezembro de 1990; altera a Lei nº 8.159, de 8 de janeiro de 1991; e dá outras providências."
+      },
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "consolidada-planalto",
+        "edicao_id": "br-federal-lei-2011-11-18-12527@consolidada-planalto",
+        "relacionada": "br-federal-lei-2011-11-18-12527-historica",
+        "historica": "federal/edicoes/br-federal-lei-2011-11-18-12527-historica.md"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-l12527",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:07:11Z",
+        "sha256": "42bd8f2ff67bca8d19faead81c592576d26e37eadcf7e3d799de8463820f6ee6",
+        "sha256_conteudo": "9faed7c7363700f343776afba0255b8d3e4f1a8303a0bde21f60a8d862d076a2",
+        "snapshot": "provas/atualizacao-planalto-licitacao/fontes/planalto-l12527.htm.xz",
+        "sha256_snapshot_armazenado": "a7354999ce1c43a9ada33bcc45275e0fcdfa8e1ec6480344104bbd4b520bbe85"
+      },
+      "prova": "provas/atualizacao-planalto-licitacao/reconciliacao-br-federal-lei-2011-11-18-12527.json",
+      "sha256_markdown": "da6ff8f4d7298126448c00915279db1eeb5edad026a175e7ca10732c4a8be17f",
+      "regressao": [
+        "art-8a",
+        "art-8b",
+        "nota-15141"
+      ]
+    },
+    {
+      "id": "br-federal-lei-2011-08-04-12462",
+      "arquivo": "federal/br-federal-lei-2011-08-04-12462.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "12462",
+        "data": "2011-08-04",
+        "titulo": "LEI Nº 12.462, DE 4 DE AGOSTO DE 2011",
+        "ementa": "Institui o Regime Diferenciado de Contratações Públicas - RDC; altera a Lei nº 10.683, de 28 de maio de 2003; e dá outras providências."
+      },
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "consolidada-planalto",
+        "edicao_id": "br-federal-lei-2011-08-04-12462@consolidada-planalto",
+        "relacionada": "br-federal-lei-2011-08-04-12462-historica",
+        "historica": "federal/edicoes/br-federal-lei-2011-08-04-12462-historica.md"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-l12462",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12462.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:07:11Z",
+        "sha256": "eabebfdcf9559dfc16270ca51e6f51245d6d2d6f1e66448a38fe55a95759dcd4",
+        "sha256_conteudo": "86a270fbca32912063cbebbea96ac67e31585a6ef8346154444a8d3196d791fe",
+        "snapshot": "provas/atualizacao-planalto-licitacao/fontes/planalto-l12462.htm.xz",
+        "sha256_snapshot_armazenado": "9226b5301697a7fe752c4ab88d95b624839b58f4a18568e6a5ea57e2392de7b8"
+      },
+      "prova": "provas/atualizacao-planalto-licitacao/reconciliacao-br-federal-lei-2011-08-04-12462.json",
+      "sha256_markdown": "88e67c3b22c40923c1196679c6eae860f3c0b6366fa49101d4fd2b1c2f5714b3",
+      "regressao": [
+        "art63-par17",
+        "nota-mp1349"
+      ]
+    }
+  ]
+}

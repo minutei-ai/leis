@@ -4,11 +4,14 @@ on:
     paths:
       - '.github/workflows/nucleo-licitacoes.yml'
       - 'scripts/nucleo_licitacoes.py'
-      - 'tests/**'
-      - 'metadados/**'
+      - 'tests/test_nucleo_licitacoes.py'
+      - 'tests/test_decretos_atualizacao_14133.py'
+      - 'metadados/nucleo-licitacoes.json'
+      - 'metadados/CONTRATO.md'
       - 'provas/nucleo-licitacoes/**'
       - 'federal/br-federal-lei-2021-04-01-14133.md'
-      - 'federal/edicoes/**'
+      - 'federal/edicoes/br-federal-lei-2021-04-01-14133-consolidada.md'
+      - 'federal/edicoes/br-federal-lei-complementar-2006-12-14-123-planalto.md'
       - 'federal/br-federal-lei-2016-06-30-13303.md'
       - 'federal/br-federal-lei-1993-06-21-8666.md'
       - 'federal/br-federal-lei-2002-07-17-10520.md'
@@ -35,4 +38,4 @@ jobs:
       - name: Reconverter os snapshots e conferir Markdown, provas e manifesto
         run: $RUNNER_TEMP/venv/bin/python scripts/nucleo_licitacoes.py verify
       - name: Regressões do núcleo
-        run: $RUNNER_TEMP/venv/bin/python -m unittest discover -s tests -v
+        run: $RUNNER_TEMP/venv/bin/python -m unittest tests.test_nucleo_licitacoes tests.test_decretos_atualizacao_14133 -v
