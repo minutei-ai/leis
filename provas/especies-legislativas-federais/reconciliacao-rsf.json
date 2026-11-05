@@ -8,8 +8,8 @@
   "catalogo_registros": 6578,
   "chaves_unicas": 6578,
   "ambiguidade_ids": [],
-  "publicados": 432,
-  "identificados_nao_coletados": 6145,
+  "publicados": 434,
+  "identificados_nao_coletados": 6143,
   "intervalo_datas": {
     "inicio": "1937-02-22",
     "fim": "2026-09-04"
@@ -5893,8 +5893,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/31442009",
       "urn": "urn:lex:br:senado.federal:resolucao:2019-09-26;19",
       "slug": "br-federal-resolucao-senado-federal-2019-09-26-19",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2019-09-26-19.md",
       "orgao_emissor": "Senado Federal"
     },
     {
@@ -6233,8 +6233,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/30740583",
       "urn": "urn:lex:br:senado.federal:resolucao:2018-12-12;35",
       "slug": "br-federal-resolucao-senado-federal-2018-12-12-35",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-senado-federal-2018-12-12-35.md",
       "orgao_emissor": "Senado Federal"
     },
     {

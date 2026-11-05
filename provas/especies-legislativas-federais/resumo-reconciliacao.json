@@ -1,6 +1,6 @@
 {
   "lote": "especies-legislativas-federais",
-  "reconciliado_em": "2026-11-05T11:40:47Z",
+  "reconciliado_em": "2026-11-05T12:16:03Z",
   "especies": {
     "DLG": {
       "registros": 15944,
@@ -17,8 +17,8 @@
     "RSF": {
       "registros": 6578,
       "chaves_unicas": 6578,
-      "publicados": 432,
-      "identificados_nao_coletados": 6145,
+      "publicados": 434,
+      "identificados_nao_coletados": 6143,
       "ambiguidades": 0,
       "intervalo_datas": {
         "inicio": "1937-02-22",

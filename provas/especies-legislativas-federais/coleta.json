@@ -42500,13 +42500,54 @@
       "data": "2019-09-26",
       "normaNome": "Resolução do Senado Federal nº 19 de 26/09/2019",
       "ementa": "Autoriza o Município de Criciúma (SC) a contratar operação de crédito externo, com garantia da República Federativa do Brasil, com o Fundo Financeiro para o Desenvolvimento da Bacia do Prata (Fonplata), no valor de até US$ 17.250.000,00 (dezessete milhões, duzentos e cinquenta mil dólares dos Estados Unidos da América).",
-      "capturado_em": "2026-11-05T11:20:07Z",
+      "capturado_em": "2026-11-05T12:15:46Z",
       "dados_url": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Asenado.federal%3Aresolucao%3A2019-09-26%3B19&tipo_documento=maior-detalhe",
       "sha256_dados": "890f3223c15273237459af26a52b23fa064f18c794dcca0f44f989b33066a724",
       "dados_snapshot": "provas/especies-legislativas-federais/coletas/br-federal-resolucao-senado-federal-2019-09-26-19.dados.json.xz",
       "normas_html_motivo": "sem encoding HTML Current/Original",
-      "utilizavel": false,
-      "motivo": "detalhe 31442009: HTTP 503"
+      "detalhe_tentativas": [
+        {
+          "url": "https://legis.senado.leg.br/dadosabertos/legislacao/31442009.json",
+          "http_status": 200,
+          "url_final": "https://legis.senado.leg.br/dadosabertos/legislacao/31442009.json"
+        }
+      ],
+      "detalhe_snapshot": "provas/especies-legislativas-federais/coletas/31442009-695fc43d8d2e9212.detalhe-resposta.json.xz",
+      "detalhe_consulta": {
+        "url": "https://legis.senado.leg.br/dadosabertos/legislacao/31442009.json",
+        "capturado_em": "2026-11-05T12:15:46Z",
+        "sha256_resposta": "695fc43d8d2e9212bd5557359d4476e5136185e4351595de9e66d9247f049f3b",
+        "sha256_snapshot": "b5feb7679987406cc3f9f36b8b0d2d4254944aff041572380b142794cd521f2a",
+        "ids_retornados": [
+          "31442009"
+        ],
+        "id_selecionado": "31442009"
+      },
+      "anexos_senado": {
+        "anexos": [],
+        "publicacoes_texto": 1,
+        "anexos_marcados_tem_texto": 0
+      },
+      "fonte_url": "https://legis.senado.leg.br/norma/31442009/publicacao/43668860",
+      "fonte_orgao": "Senado Federal — publicação pagina",
+      "fonte_formato": "html",
+      "charset": "utf-8",
+      "sha256_fonte": "e910a44f68471ff0cef1710abadc3664bc6eea5527bfc8f4a1485233115bf7ad",
+      "sha256_pagina": "6320c560173df549bd0e0f7a9baae6772dc58e1edf8ae52f3e9ec9d093337597",
+      "bytes": 12810,
+      "snapshot": "provas/especies-legislativas-federais/coletas/br-federal-resolucao-senado-federal-2019-09-26-19.html.xz",
+      "pagina_snapshot": "provas/especies-legislativas-federais/coletas/br-federal-resolucao-senado-federal-2019-09-26-19.pagina.html.xz",
+      "origem": "senado-publicacao-html",
+      "publicacao": null,
+      "tentativas_publicacao": [
+        {
+          "url": "https://legis.senado.leg.br/norma/31442009/publicacao/43668860",
+          "http_status": 200,
+          "bytes": 51332,
+          "html": true
+        }
+      ],
+      "utilizavel": true
     },
     "br-federal-resolucao-senado-federal-2019-09-26-18": {
       "tipo": "RSF",
@@ -43304,13 +43345,54 @@
       "data": "2018-12-12",
       "normaNome": "Resolução do Senado Federal nº 35 de 12/12/2018",
       "ementa": "Autoriza o Estado do Piauí a contratar operação de crédito externo, com garantia da República Federativa do Brasil, com o Banco Interamericano de Desenvolvimento (BID), no valor de até US$ 44.935.000,00 (quarenta e quatro milhões, novecentos e trinta e cinco mil dólares dos Estados Unidos da América).",
-      "capturado_em": "2026-11-05T11:21:05Z",
+      "capturado_em": "2026-11-05T12:15:48Z",
       "dados_url": "https://normas.leg.br/api/public/normas?urn=urn%3Alex%3Abr%3Asenado.federal%3Aresolucao%3A2018-12-12%3B35&tipo_documento=maior-detalhe",
       "sha256_dados": "e7530af44200b42c437f11aa5964fc53211ee6cdf04bf00e3d87489591455185",
       "dados_snapshot": "provas/especies-legislativas-federais/coletas/br-federal-resolucao-senado-federal-2018-12-12-35.dados.json.xz",
       "normas_html_motivo": "sem encoding HTML Current/Original",
-      "utilizavel": false,
-      "motivo": "detalhe 30740583: HTTP 503"
+      "detalhe_tentativas": [
+        {
+          "url": "https://legis.senado.leg.br/dadosabertos/legislacao/30740583.json",
+          "http_status": 200,
+          "url_final": "https://legis.senado.leg.br/dadosabertos/legislacao/30740583.json"
+        }
+      ],
+      "detalhe_snapshot": "provas/especies-legislativas-federais/coletas/30740583-b208731d3fa4f551.detalhe-resposta.json.xz",
+      "detalhe_consulta": {
+        "url": "https://legis.senado.leg.br/dadosabertos/legislacao/30740583.json",
+        "capturado_em": "2026-11-05T12:15:49Z",
+        "sha256_resposta": "b208731d3fa4f551c9ba45df71747735d7d9041d04e5c1c8d9c94b6bfafda15f",
+        "sha256_snapshot": "fd8e1e26dedcaf95a64c3cc4f763823771503c19c04f2813c32e62462c3826c8",
+        "ids_retornados": [
+          "30740583"
+        ],
+        "id_selecionado": "30740583"
+      },
+      "anexos_senado": {
+        "anexos": [],
+        "publicacoes_texto": 1,
+        "anexos_marcados_tem_texto": 0
+      },
+      "fonte_url": "https://legis.senado.leg.br/norma/30740583/publicacao/30740745",
+      "fonte_orgao": "Senado Federal — publicação pagina",
+      "fonte_formato": "html",
+      "charset": "utf-8",
+      "sha256_fonte": "d5f01e7bee1f8c6c3ec84d7c0aa9b6d950c8a389c7d68f020be5833ab86146b9",
+      "sha256_pagina": "a207e3c2fbb9fd288d28cbe15c520d59e08674d5371b79382d2b9ff5577d561e",
+      "bytes": 16443,
+      "snapshot": "provas/especies-legislativas-federais/coletas/br-federal-resolucao-senado-federal-2018-12-12-35.html.xz",
+      "pagina_snapshot": "provas/especies-legislativas-federais/coletas/br-federal-resolucao-senado-federal-2018-12-12-35.pagina.html.xz",
+      "origem": "senado-publicacao-html",
+      "publicacao": null,
+      "tentativas_publicacao": [
+        {
+          "url": "https://legis.senado.leg.br/norma/30740583/publicacao/30740745",
+          "http_status": 200,
+          "bytes": 54945,
+          "html": true
+        }
+      ],
+      "utilizavel": true
     },
     "br-federal-resolucao-senado-federal-2018-12-05-34": {
       "tipo": "RSF",
@@ -46220,5 +46302,5 @@
       "utilizavel": true
     }
   },
-  "atualizado_em": "2026-11-05T11:24:09Z"
+  "atualizado_em": "2026-11-05T12:15:51Z"
 }

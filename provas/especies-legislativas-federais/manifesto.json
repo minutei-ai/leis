@@ -6,7 +6,7 @@
     89,
     94
   ],
-  "gerado_em": "2026-11-05T11:40:36Z",
+  "gerado_em": "2026-11-05T12:15:52Z",
   "documentos": [
     {
       "id": "br-federal-decreto-legislativo-2026-09-16-433",
@@ -18058,6 +18058,36 @@
       "fonte": "br-federal-resolucao-senado-federal-2016-09-14-39",
       "sha256_fonte": "a76c195c198b5df7895c71f00907f0a35a6fc39aa8e7fab34e8e77c085a13628",
       "sha256_markdown": "4c744b15172bcf49570dfc7629b6d75a3f8ab1b9d28f2f4cfa3c41876e091e22"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2019-09-26-19",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2019-09-26-19.md",
+      "tipo": "RSF",
+      "senado_id": "31442009",
+      "urn": "urn:lex:br:senado.federal:resolucao:2019-09-26;19",
+      "norma": {
+        "numero": "19",
+        "data": "2019-09-26",
+        "titulo": "Resolução do Senado Federal nº 19 de 26/09/2019"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2019-09-26-19",
+      "sha256_fonte": "e910a44f68471ff0cef1710abadc3664bc6eea5527bfc8f4a1485233115bf7ad",
+      "sha256_markdown": "b4457e8932a65b53fe98781512e1b2a8a9a6b04f4f1d3e32668ec211b569bf6f"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2018-12-12-35",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2018-12-12-35.md",
+      "tipo": "RSF",
+      "senado_id": "30740583",
+      "urn": "urn:lex:br:senado.federal:resolucao:2018-12-12;35",
+      "norma": {
+        "numero": "35",
+        "data": "2018-12-12",
+        "titulo": "Resolução do Senado Federal nº 35 de 12/12/2018"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2018-12-12-35",
+      "sha256_fonte": "d5f01e7bee1f8c6c3ec84d7c0aa9b6d950c8a389c7d68f020be5833ab86146b9",
+      "sha256_markdown": "5dd49ab44142bc9ffed03549288a741209118a7fd32f956ebb1491e56a175ae5"
     }
   ]
 }
