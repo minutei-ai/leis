@@ -33,6 +33,6 @@ Este texto não substitui o publicado no DOU de 5.4.1984.
 
 Fac-símile oficial (Câmara, edição original desta norma): `provas/identidade-federal-99-102-103/anexos/br-federal-decreto-lei-1984-04-04-2111-anexo-camara.png` (PDF https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-2111-4-abril-1984-363069-anexo-pe.pdf).
 
-Tabela HTML oficial (Planalto), conferida byte a byte com o fac-símile da Câmara nesta entrega: https://www.planalto.gov.br/ccivil_03/Decreto-Lei/1965-1988/Del2111.htm
+Tabela HTML oficial (Planalto), referência complementar ao fac-símile da Câmara: https://www.planalto.gov.br/ccivil_03/Decreto-Lei/1965-1988/Del2111.htm
 
 Nota de edição histórica: a Câmara assinala “(Anexo com redação dada pelo Decreto-Lei nº 2.196, de 26/12/1984)”. Esta entrega reproduz o anexo da edição do Decreto-Lei nº 2.111/1984 capturado nas URLs acima; não substitui silenciosamente a redação dada pelo Decreto-Lei nº 2.196/1984 nem atribui vigência atual por inferência.

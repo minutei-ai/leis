@@ -78,26 +78,31 @@ Nota: o PDF do Planalto `andel1873-81.pdf` reproduz o Anexo I e, na mesma peça,
 
 Grupo: OUTRAS ATIVIDADES DE NÍVEL SUPERIOR (NS-900 ou LT-NS-900)
 
-Colação visual do fac-símile: as referências de vencimento/salário por classe formam uma célula compartilhada pelas categorias da respectiva jornada (não uma linha por categoria).
+Colação visual do fac-símile: as referências dos blocos c) e d) ocupam células compartilhadas pelas quatro categorias médicas de cada bloco. O Odontólogo da linha j) tem célula própria; não recebe por repetição a célula do bloco d).
 
-### Jornada de 4 horas
+### Bloco c)
 
 | CATEGORIAS FUNCIONAIS | CÓDIGO | REFERÊNCIAS DE VENCIMENTO OU SALÁRIO POR CLASSE |
 | --- | --- | --- |
 | c) Médico | NS-901 ou LT-NS-901 | CLASSE ESPECIAL — NS-16 a 19; CLASSE C — NS-12 a 15; CLASSE B — NS-7 a 11; CLASSE A — NS-4 a 6 |
-| Médico de Saúde Pública (em extinção) | NS-902 ou LT-NS-902 | *(mesmas referências da jornada de 4 horas)* |
-| Médico do Trabalho | NS-903 ou LT-NS-903 | *(mesmas referências da jornada de 4 horas)* |
-| Médico Veterinário (jornada de 4 horas) | NS-910 ou LT-NS-910 | *(mesmas referências da jornada de 4 horas)* |
+| Médico de Saúde Pública (em extinção) | NS-902 ou LT-NS-902 | *(célula compartilhada do bloco c))* |
+| Médico do Trabalho | NS-903 ou LT-NS-903 | *(célula compartilhada do bloco c))* |
+| Médico Veterinário (jornada de 4 horas) | NS-910 ou LT-NS-910 | *(célula compartilhada do bloco c))* |
 
-### Jornada de 6 horas
+### Bloco d)
 
 | CATEGORIAS FUNCIONAIS | CÓDIGO | REFERÊNCIAS DE VENCIMENTO OU SALÁRIO POR CLASSE |
 | --- | --- | --- |
 | d) Médico | NS-901 ou LT-NS-901 | CLASSE ESPECIAL — NS-22 a 25; CLASSE C — NS-18 a 21; CLASSE B — NS-15 a 17; CLASSE A — NS-11 a 14 |
-| Médico de Saúde Pública (em extinção) | NS-902 ou LT-NS-902 | *(mesmas referências da jornada de 6 horas)* |
-| Médico do Trabalho | NS-903 ou LT-NS-903 | *(mesmas referências da jornada de 6 horas)* |
-| Médico Veterinário (jornada de 6 horas) | NS-910 ou LT-NS-910 | *(mesmas referências da jornada de 6 horas)* |
-| j) Odontólogo (jornada de 6 horas em extinção) | NS-909 ou LT-NS-909 | *(mesmas referências da jornada de 6 horas)* |
+| Médico de Saúde Pública (em extinção) | NS-902 ou LT-NS-902 | *(célula compartilhada do bloco d))* |
+| Médico do Trabalho | NS-903 ou LT-NS-903 | *(célula compartilhada do bloco d))* |
+| Médico Veterinário (jornada de 6 horas) | NS-910 ou LT-NS-910 | *(célula compartilhada do bloco d))* |
+
+### Linha j)
+
+| CATEGORIAS FUNCIONAIS | CÓDIGO | REFERÊNCIAS DE VENCIMENTO OU SALÁRIO POR CLASSE |
+| --- | --- | --- |
+| j) Odontólogo (jornada de 6 horas em extinção) | NS-909 ou LT-NS-909 | CLASSE C — NS-18 a 21; CLASSE B — NS-15 a 17; CLASSE A — NS-11 a 14 |
 
 Fac-símile oficial (Câmara): `provas/identidade-federal-99-102-103/anexos/br-federal-decreto-lei-1981-05-27-1873-anexo-ii-camara.png` (PDF https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-1873-27-maio-1981-374519-anexoii-pe.pdf).
 

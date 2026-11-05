@@ -114,6 +114,12 @@ class TestIdentidadeFederal99102103104(unittest.TestCase):
         self.assertNotIn('| b) Médico de Saúde Pública', anexo_ii)
         self.assertNotIn('| c) Médico do Trabalho', anexo_ii)
         self.assertNotIn('| f) Odontólogo', anexo_ii)
+        odontologo = next(line for line in anexo_ii.splitlines() if line.startswith('| j) Odontólogo'))
+        self.assertIn('CLASSE C — NS-18 a 21; CLASSE B — NS-15 a 17; CLASSE A — NS-11 a 14', odontologo)
+        self.assertNotIn('CLASSE ESPECIAL', odontologo)
+        self.assertNotIn('compartilhada', odontologo)
+        self.assertNotIn('mesmas referências', odontologo)
+
         self.assertIn('Odontólogo "j)"', anexo_ii)
         self.assertIn('XXII', text)
         self.assertNotIn('(**XXIV**)', text)
