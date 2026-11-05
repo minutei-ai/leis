@@ -1,0 +1,18 @@
+{
+  "capturado_em": "2026-11-04T18:57:00Z",
+  "nota": "Captura HTTP oficial ALESC da Constituição estadual de SC (HTML atualizado pelo portal).",
+  "fontes": [
+    {
+      "chave": "alesc-constituicao-estadual-1989",
+      "url": "http://leis.alesc.sc.gov.br/html/constituicao_estadual_1989.html",
+      "arquivo": "provas/constituicoes-estaduais/SC/fontes/alesc-constituicao-estadual-1989.html.xz",
+      "sha256_conteudo": "3ca0860ec368a52712bfb2c9ff456e1061986dbef0eb8b7cfabae1dc2a4a1f72",
+      "sha256_arquivo_xz": "a66a3743f60363d6d006611341a22e70574e8e66edfed427561541619efb52a2",
+      "bytes_fonte": 451609,
+      "capturado_em": "2026-11-04T18:57:00Z",
+      "atualizacao_informada_pelo_portal": "EC/101, de 2026",
+      "sha256_corpo_markdown": "6fb568a88aaf5f68aa29478642776b4893e16f825883b88a78ca903e9944ecba",
+      "sha256_markdown": "ea637c6de56e6226e20217cefc1d5d4908c7c03305c2516b324a804d0440e874"
+    }
+  ]
+}

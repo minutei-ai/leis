@@ -1,0 +1,24 @@
+{
+  "capturado_em": "2026-11-04T21:09:02Z",
+  "nota": "Captura HTTP SEPOG Fortaleza — Decreto 15.317/2022 transição (≠ geral). Não certifica vigência.",
+  "fontes": [
+    {
+      "chave": "br-municipal-2304400-decreto-2022-05-06-15317",
+      "norma_id": "br-municipal-2304400-decreto-2022-05-06-15317",
+      "url": "https://compras.sepog.fortaleza.ce.gov.br/publico/legislacao/municipal/lei-1433/Decreto_11.254_2022.pdf",
+      "arquivo": "provas/nordeste-lei-14133/capitais/2304400/fontes/br-municipal-2304400-decreto-2022-05-06-15317.pdf.xz",
+      "formato": "pdf",
+      "sha256_conteudo": "a5b7ec9b41a00c7acaf616b083c920d56170caaff79a296c66e6fa922649ca5b",
+      "sha256_arquivo_xz": "0e9e5abff99a9c5c906d25eadc330bf25b8d9f35fd9dfc283642e850d4e2e748",
+      "bytes_fonte": 1006898,
+      "capturado_em": "2026-11-04T21:09:02Z",
+      "carater": "marco-temporal-transicao",
+      "artigos_contados": 4,
+      "edicao_identidade": "DOM Fortaleza Ano LXVII N° 17.319, 09/05/2022 — Decreto 15.317/2022",
+      "colacao_oficial_status": "desconhecido",
+      "nota_divergencia_nome_arquivo": "Portal SEPOG usa Decreto_11.254_2022.pdf; epígrafe e corpo identificam Decreto 15.317/2022",
+      "sha256_markdown": "0b19b5bf36dfb8793d79e5448b61b85895453dd52c5dbb671be1eccc28b7fcd7",
+      "sha256_corpo_markdown": "282e15fc5878d42377798c60d918304eaf808b79acfff722e9b0763559827b31"
+    }
+  ]
+}

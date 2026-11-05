@@ -1,0 +1,8 @@
+{
+  "nota": "Versões usadas na conversão/congelamento do plain. A prova de fold PDF↔MD usa o plain congelado; recheck ao vivo com pdftotext só é obrigatório quando a versão coincide.",
+  "python": "3.14.9",
+  "beautifulsoup4": "4.15.0",
+  "lxml": "6.1.3.0",
+  "libxml2": "2.15.4",
+  "pdftotext": "pdftotext version 26.10.0"
+}

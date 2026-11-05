@@ -1,0 +1,233 @@
+{
+  "tema": "licitacoes-locais",
+  "cobertura": "parcial",
+  "contrato_versao": 1,
+  "issue": 57,
+  "nota": "Índice comum do núcleo temático de regulamentação local de licitações (issue #57). Integra os catálogos UF já publicados (PR, SP, MG, GO) sem duplicar Markdown. Seleção futura por ente/órgão contratante e âmbito do edital — nunca pelo endereço do fornecedor. Não certifica vigência nem inventário nacional. Auditoria 2026-11-04: inclui ato alterador BH 18.621 no índice MG.",
+  "prioritarios_issue": [
+    {
+      "ente": "Estado do Paraná",
+      "norma": "Decreto 10.086/2022",
+      "norma_id": "br-pr-ato-259084",
+      "status": "publicado",
+      "catalogo_uf": "PR"
+    },
+    {
+      "ente": "Município de São Paulo/SP",
+      "ibge": "3550308",
+      "norma": "Decreto 62.100/2022",
+      "norma_id": "br-municipal-3550308-decreto-2022-12-27-62100",
+      "status": "publicado",
+      "catalogo_uf": "SP"
+    },
+    {
+      "ente": "Município de Goiânia/GO",
+      "ibge": "5208707",
+      "norma": "Decreto 2.469/2024",
+      "norma_id": "br-municipal-5208707-decreto-2024-06-25-2469",
+      "status": "publicado-parcial-art60",
+      "catalogo_uf": "GO"
+    },
+    {
+      "ente": "Município de Belo Horizonte/MG",
+      "ibge": "3106200",
+      "norma": "Decreto 18.289/2023",
+      "norma_id": "br-municipal-3106200-decreto-2023-03-28-18289",
+      "status": "publicado",
+      "catalogo_uf": "MG"
+    }
+  ],
+  "ufs": [
+    {
+      "uf": "PR",
+      "catalogo": "metadados/licitacoes-locais/PR.json",
+      "cobertura": "parcial",
+      "documentos": [
+        {
+          "norma_id": "br-pr-ato-259084",
+          "arquivo": "estaduais/PR/br-pr-ato-259084.md",
+          "uf": "PR"
+        }
+      ],
+      "reutilizados": [],
+      "pendencias_resumo": [
+        {
+          "id": "pr-decretos-tipo11-inventario",
+          "descricao": "O coletor PR publicado no acervo privado ainda não inventariava decretos (tipoAto=11) no catálogo br-pr; este ato foi recuperado pontualmente por codAto=259084.",
+          "estado": "aberta"
+        },
+        {
+          "id": "pr-mapa-14133-completo",
+          "descricao": "Mapa integral de regulamentação dispositivo a dispositivo com a Lei 14.133 permanece parcial; só há vínculos com citação literal.",
+          "estado": "aberta"
+        },
+        {
+          "id": "pr-doe-facsimile-ato",
+          "descricao": "O PDF do DOE 11097 é a edição completa (230 páginas). Não foi recortado fac-símile só do Decreto 10.086; o hash da edição está em fontes.json.",
+          "estado": "aberta"
+        }
+      ],
+      "workflow": ".github/workflows/licitacoes-locais-pr.yml",
+      "testes": "tests/test_licitacoes_locais_pr.py"
+    },
+    {
+      "uf": "SP",
+      "catalogo": "metadados/licitacoes-locais/SP.json",
+      "cobertura": "parcial",
+      "documentos": [
+        {
+          "norma_id": "br-municipal-3550308-decreto-2022-12-27-62100",
+          "arquivo": "municipais/3550308/br-municipal-3550308-decreto-2022-12-27-62100.md",
+          "uf": "SP"
+        }
+      ],
+      "reutilizados": [
+        {
+          "norma_id": "br-sp-norma-207462",
+          "arquivo": "estaduais/SP/br-sp-norma-207462.md",
+          "uf": "SP"
+        }
+      ],
+      "pendencias_resumo": [
+        "Fac-símile do Diário Oficial da Cidade de São Paulo relativo à publicação do Decreto 62.100/2022 (27/12/2022, p. 1).",
+        "Edição histórica (texto original sem consolidações) do Decreto 62.100/2022, se/quando o catálogo ou o DOM a oferecerem de forma recuperável sem navegador/JS proprietário.",
+        "Conferência/captura própria do Decreto estadual 67.608/2023 (br-sp-norma-207462) para sair de edicao_integral=desconhecido.",
+        "Outras normas locais de licitações de SP (municípios além de 3550308; regulamentos estaduais posteriores ao 67.608) fora do recorte desta entrega."
+      ],
+      "workflow": ".github/workflows/licitacoes-locais-SP.yml",
+      "testes": "tests/test_licitacoes_locais_SP.py"
+    },
+    {
+      "uf": "MG",
+      "catalogo": "metadados/licitacoes-locais/MG.json",
+      "cobertura": "parcial",
+      "documentos": [
+        {
+          "norma_id": "br-municipal-3106200-decreto-2023-03-28-18289",
+          "arquivo": "municipais/3106200/br-municipal-3106200-decreto-2023-03-28-18289.md",
+          "uf": "MG"
+        },
+        {
+          "norma_id": "br-municipal-3106200-decreto-2021-12-21-17813",
+          "arquivo": "municipais/3106200/br-municipal-3106200-decreto-2021-12-21-17813.md",
+          "uf": "MG"
+        },
+        {
+          "norma_id": "br-municipal-3106200-decreto-2022-09-20-18096",
+          "arquivo": "municipais/3106200/br-municipal-3106200-decreto-2022-09-20-18096.md",
+          "uf": "MG"
+        },
+        {
+          "norma_id": "br-municipal-3106200-decreto-2023-01-19-18240",
+          "arquivo": "municipais/3106200/br-municipal-3106200-decreto-2023-01-19-18240.md",
+          "uf": "MG"
+        },
+        {
+          "norma_id": "br-municipal-3106200-decreto-2023-01-25-18242",
+          "arquivo": "municipais/3106200/br-municipal-3106200-decreto-2023-01-25-18242.md",
+          "uf": "MG"
+        },
+        {
+          "norma_id": "br-municipal-3106200-decreto-2024-02-05-18621",
+          "arquivo": "municipais/3106200/br-municipal-3106200-decreto-2024-02-05-18621.md",
+          "uf": "MG",
+          "nota": "Ato alterador do 18.289; não é consolidação nem regulamento geral."
+        }
+      ],
+      "reutilizados": [
+        {
+          "norma_id": "br-mg-decreto-2023-11-24-48723",
+          "arquivo": "estaduais/MG/br-mg-decreto-2023-11-24-48723.md",
+          "uf": "MG"
+        }
+      ],
+      "pendencias_resumo": [
+        {
+          "id": "bh-candidatos-complementares",
+          "tipo": "recuperacao-integral-concluida-parcial",
+          "descricao": "Íntegras DOM dos Decretos 17.813, 18.096, 18.240 e 18.242 publicadas nesta entrega. Conferência fold HTML↔Markdown e metadados de órgão/âmbito detalhados podem ser aprofundados; edição consolidada com alterações posteriores permanece fora.",
+          "itens_publicados": [
+            "br-municipal-3106200-decreto-2021-12-21-17813",
+            "br-municipal-3106200-decreto-2022-09-20-18096",
+            "br-municipal-3106200-decreto-2023-01-19-18240",
+            "br-municipal-3106200-decreto-2023-01-25-18242"
+          ]
+        },
+        {
+          "id": "bh-18289-consolidacao-18621",
+          "tipo": "edicao-alternativa-nao-recuperada",
+          "descricao": "Ato alterador 18.621/2024 publicado. Consolidação textual do 18.289 com alterações incorporadas permanece não recuperada; mapas dispositivo a dispositivo pendentes.",
+          "url_catalogo_alterador": "https://dom-web.pbh.gov.br/visualizacao/ato/434009"
+        }
+      ],
+      "workflow": ".github/workflows/licitacoes-locais-mg.yml",
+      "testes": "tests/test_licitacoes_locais_mg.py"
+    },
+    {
+      "uf": "GO",
+      "catalogo": "metadados/licitacoes-locais/GO.json",
+      "cobertura": "parcial",
+      "documentos": [
+        {
+          "norma_id": "br-municipal-5208707-decreto-2024-06-25-2469",
+          "arquivo": "municipais/5208707/br-municipal-5208707-decreto-2024-06-25-2469.md",
+          "uf": "GO"
+        }
+      ],
+      "reutilizados": [
+        {
+          "norma_id": "br-go-norma-106877",
+          "arquivo": "estaduais/GO/br-go-norma-106877.md",
+          "uf": "GO"
+        }
+      ],
+      "pendencias_resumo": [
+        "Conferência/captura própria do Decreto estadual GO 10.247/2023 (br-go-norma-106877) para sair de edicao_integral=desconhecido.",
+        "Outras normas locais de licitações de GO (municípios além de 5208707; regulamentos estaduais além do 10.247) fora do recorte desta entrega.",
+        "Mapa dispositivo a dispositivo completo entre o Decreto municipal 2.469/2024 e o art. 60 da Lei 14.133 (compatibilidade jurídica não presumida)."
+      ],
+      "workflow": ".github/workflows/licitacoes-locais-GO.yml",
+      "testes": "tests/test_licitacoes_locais_GO.py"
+    }
+  ],
+  "reutilizados_estaduais_mencionados_na_issue": [
+    {
+      "norma_id": "br-go-norma-106877",
+      "arquivo": "estaduais/GO/br-go-norma-106877.md",
+      "nota": "Decreto GO 10.247/2023 pregão eletrônico; reutilizado no catálogo GO"
+    },
+    {
+      "norma_id": "br-mg-decreto-2023-11-24-48723",
+      "arquivo": "estaduais/MG/br-mg-decreto-2023-11-24-48723.md",
+      "nota": "Decreto MG 48.723/2023; reutilizado no catálogo MG"
+    },
+    {
+      "norma_id": "br-sp-norma-207462",
+      "arquivo": "estaduais/SP/br-sp-norma-207462.md",
+      "nota": "Decreto SP 67.608/2023 transitório; reutilizado no catálogo SP"
+    }
+  ],
+  "selecao_para_ia": {
+    "chave": [
+      "ente",
+      "orgao",
+      "ambito_demonstrado_no_edital"
+    ],
+    "nao_usar": [
+      "endereco_do_fornecedor",
+      "localizacao_da_empresa"
+    ],
+    "alertas_a_preservar": [
+      "transicao",
+      "revogacao",
+      "conflito_por_dispositivo"
+    ]
+  },
+  "pendencias": [
+    "Candidatos BH 17.813/18.096/18.240/18.242 e alterador 18.621: íntegras publicadas; consolidação 18.289+18.621 e mapas dispositivo a dispositivo ainda pendentes.",
+    "Fac-símile DOM SP do Decreto 62.100/2022 pendente.",
+    "Goiânia 2.469 é parcial-art60 — não contar como regulamento geral municipal.",
+    "Demais entes/municípios fora do recorte PR/SP/Goiânia/BH: ver issues #73 e #101.",
+    "Não fechar #57 enquanto pendências materiais dos catálogos UF e consolidação BH permanecerem abertas."
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "nota": "Captura HTTP oficial LO Recife. Não certifica vigência.",
+  "fontes": [
+    {
+      "chave": "br-municipal-2611606-lei-organica-1990-04-04",
+      "url": "https://www.recife.pe.leg.br/atividade-legislativa/lei-organica-do-municipio/lei-organica_atualizada-em-15-12-2025-docx.pdf",
+      "arquivo": "provas/nordeste-lei-14133/capitais/2611606/fontes/br-municipal-2611606-lei-organica-1990-04-04.pdf.xz",
+      "formato": "pdf",
+      "sha256_conteudo": "579ec5c4d4b1468740d7a09251ebdfcf0e7b77fa512363d9e8301043e081ab3b",
+      "sha256_arquivo_xz": "9f2263fc15da7911246105f512b9ce3c13819e75a423e220c34a8247af7cf9fd",
+      "bytes_fonte": 1564976,
+      "capturado_em": "2026-11-04T21:30:00Z",
+      "sha256_corpo_markdown": "7c4e6108c07a9c94dc7ad063e0ef929559d28d4110b9b371a8feacbe3262a590",
+      "sha256_markdown": "09ce7e6d3d95ceec110ce96a1d304f9c1d39068d0e2c025677a3fc9e0bba19ae",
+      "carater": "lei-organica-municipal",
+      "artigos_contados": 186,
+      "artigos_max_marcador": 186
+    }
+  ]
+}

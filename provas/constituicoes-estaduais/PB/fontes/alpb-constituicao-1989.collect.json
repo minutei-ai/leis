@@ -1,0 +1,13 @@
+{
+  "uf": "PB",
+  "chave": "alpb-constituicao-1989",
+  "url": "https://www.al.pb.leg.br/wp-content/uploads/2023/10/constituicao_estadual.pdf",
+  "url_final": "https://www.al.pb.leg.br/wp-content/uploads/2023/10/constituicao_estadual.pdf",
+  "content_type": "application/pdf",
+  "bytes": 1987864,
+  "sha256_conteudo": "d85cd248c58aa1aba1e3e5ebe8d02b8994926e6d2679e2a29dc991226677ebf7",
+  "sha256_arquivo_xz": "fca01f0203f024946b66816a566e2b6577ed36fca21f1b1de9cfe2c336be6721",
+  "capturado_em": "2026-11-04T20:18:34Z",
+  "status": "ok",
+  "arquivo": "provas/constituicoes-estaduais/PB/fontes/alpb-constituicao-1989.pdf.xz"
+}

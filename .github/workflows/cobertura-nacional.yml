@@ -19,9 +19,11 @@ permissions:
 jobs:
   verify:
     runs-on: ubuntu-24.04
-    timeout-minutes: 30
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
+      - name: Export sidecar JSONL do acervo (streaming, retomável)
+        run: python3 scripts/cobertura_nacional.py export-acervo --no-resume --shard-size 10000
       - name: Verificar inventários, contrato e export BM25 offline
         run: python3 scripts/cobertura_nacional.py verify
       - name: Regressões

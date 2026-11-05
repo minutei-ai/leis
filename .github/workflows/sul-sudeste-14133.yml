@@ -1,0 +1,31 @@
+name: Sul/Sudeste 14.133
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/sul-sudeste-14133.yml'
+      - 'scripts/sul_sudeste_14133.py'
+      - 'tests/test_sul_sudeste_14133.py'
+      - 'metadados/sul-sudeste-14133/**'
+      - 'provas/sul-sudeste-14133/**'
+      - 'municipais/3205309/**'
+      - 'municipais/4106902/**'
+      - 'municipais/4314902/**'
+      - 'estaduais/SC/br-sc-decreto-2023-02-17-30.md'
+      - 'estaduais/ES/br-es-decreto-2023-02-15-5307-r.md'
+      - 'estaduais/ES/br-es-decreto-2023-03-28-5352-r.md'
+      - 'estaduais/ES/br-es-decreto-2023-03-28-5353-r.md'
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 -m venv "$RUNNER_TEMP/venv" && "$RUNNER_TEMP/venv/bin/pip" install beautifulsoup4==4.15.0 lxml==6.1.3 pypdf==6.7.0
+      - name: Instalar poppler-utils (pdftotext)
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+      - name: Verificar lote sul-sudeste-14133
+        run: $RUNNER_TEMP/venv/bin/python scripts/sul_sudeste_14133.py verify
+      - name: Testes sul-sudeste-14133
+        run: $RUNNER_TEMP/venv/bin/python -m unittest tests.test_sul_sudeste_14133 -v
