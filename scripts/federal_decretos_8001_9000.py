@@ -1160,6 +1160,8 @@ def verify() -> None:
             continue
         text = path.read_text(encoding="utf-8")
         if text != docs_out[slug]["markdown"]:
+            import difflib
+            print("".join(difflib.unified_diff(text.splitlines(True), docs_out[slug]["markdown"].splitlines(True), fromfile=str(path), tofile="reconversao", n=2))[:12000], flush=True)
             problems.append(f"{slug}: Markdown diverge da reconversão")
         meta, body = nl.parse_frontmatter(text)
         if meta.get("sha256_markdown") != nl.sha256(body.encode("utf-8")):
