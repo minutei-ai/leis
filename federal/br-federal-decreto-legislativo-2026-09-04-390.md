@@ -12,7 +12,7 @@ senado_id: "43755201"
 urn: "urn:lex:br:federal:decreto.legislativo:2026-09-04;390"
 edicao_id: "br-federal-decreto-legislativo-2026-09-04-390@original"
 edicao_tipo: "historica"
-edicao_integral: true
+edicao_integral: false
 fonte_orgao: "normas.leg.br / Congresso Nacional"
 fonte_url: "https://normas.leg.br/api/public/binario/0f2418b0-b4e6-4b97-98ff-d824f6534b13/texto"
 fonte_formato: "html"
@@ -30,6 +30,10 @@ efeitos_diferidos: "preservados-nas-notas-do-texto"
 sha256_markdown: "e3739e3e61c24d92fbd4259ec804a2501189e3f7b934d42717f2b0079b607aff"
 manifesto: "provas/especies-legislativas-federais/manifesto.json"
 contrato_versao: 1
+status_publicacao: "publicado-corpo-parcial"
+corpo_status: "parcial-remissao-explicita"
+excluir_denominador_integra: true
+remissoes_literais: ["O texto da Convenção acima citado está publicado no Diário do Senado Federal de 19 de junho de 2026"]
 ---
 
 <!-- nota-edicao:inicio -->

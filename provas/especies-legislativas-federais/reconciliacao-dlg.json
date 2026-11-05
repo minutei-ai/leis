@@ -8,8 +8,8 @@
   "catalogo_registros": 15944,
   "chaves_unicas": 15944,
   "ambiguidade_ids": [],
-  "publicados": 335,
-  "identificados_nao_coletados": 15609,
+  "publicados": 520,
+  "identificados_nao_coletados": 15366,
   "intervalo_datas": {
     "inicio": "1935-05-16",
     "fim": "2026-09-16"
@@ -5723,8 +5723,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43383396",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;85",
       "slug": "br-federal-decreto-legislativo-2026-06-08-85",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-85.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -5740,8 +5740,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43381827",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;134",
       "slug": "br-federal-decreto-legislativo-2026-06-08-134",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-134.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -5757,8 +5757,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43382355",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;66",
       "slug": "br-federal-decreto-legislativo-2026-06-08-66",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-66.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -5774,8 +5774,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43383087",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;71",
       "slug": "br-federal-decreto-legislativo-2026-06-08-71",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-71.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -5791,8 +5791,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43385834",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;131",
       "slug": "br-federal-decreto-legislativo-2026-06-08-131",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-131.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -5808,8 +5808,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43385241",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;116",
       "slug": "br-federal-decreto-legislativo-2026-06-08-116",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-116.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -5825,8 +5825,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43383280",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;78",
       "slug": "br-federal-decreto-legislativo-2026-06-08-78",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-78.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -5842,8 +5842,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43382003",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;137",
       "slug": "br-federal-decreto-legislativo-2026-06-08-137",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-137.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -5859,8 +5859,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43386023",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;130",
       "slug": "br-federal-decreto-legislativo-2026-06-08-130",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-130.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -5876,8 +5876,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43385121",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;113",
       "slug": "br-federal-decreto-legislativo-2026-06-08-113",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-113.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -5893,8 +5893,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43383183",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;77",
       "slug": "br-federal-decreto-legislativo-2026-06-08-77",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-77.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -5910,8 +5910,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43385170",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;115",
       "slug": "br-federal-decreto-legislativo-2026-06-08-115",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-115.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -5927,8 +5927,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43384414",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;98",
       "slug": "br-federal-decreto-legislativo-2026-06-08-98",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-98.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -5944,8 +5944,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43384259",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;106",
       "slug": "br-federal-decreto-legislativo-2026-06-08-106",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-106.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -5961,8 +5961,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43381654",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;65",
       "slug": "br-federal-decreto-legislativo-2026-06-08-65",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-65.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -5978,8 +5978,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43383750",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;93",
       "slug": "br-federal-decreto-legislativo-2026-06-08-93",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-93.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -5995,8 +5995,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43381725",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;144",
       "slug": "br-federal-decreto-legislativo-2026-06-08-144",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-144.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6012,8 +6012,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43384565",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;101",
       "slug": "br-federal-decreto-legislativo-2026-06-08-101",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-101.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6029,8 +6029,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43385473",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;120",
       "slug": "br-federal-decreto-legislativo-2026-06-08-120",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-120.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6046,8 +6046,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43385688",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;125",
       "slug": "br-federal-decreto-legislativo-2026-06-08-125",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-125.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6063,8 +6063,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43384890",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;114",
       "slug": "br-federal-decreto-legislativo-2026-06-08-114",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-114.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6080,8 +6080,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43385061",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;127",
       "slug": "br-federal-decreto-legislativo-2026-06-08-127",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-127.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6097,8 +6097,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43384041",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;90",
       "slug": "br-federal-decreto-legislativo-2026-06-08-90",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-90.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6114,8 +6114,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43383900",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;87",
       "slug": "br-federal-decreto-legislativo-2026-06-08-87",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-87.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6131,8 +6131,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43381966",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;136",
       "slug": "br-federal-decreto-legislativo-2026-06-08-136",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-136.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6148,8 +6148,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43384716",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;110",
       "slug": "br-federal-decreto-legislativo-2026-06-08-110",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-110.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6165,8 +6165,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43383477",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;73",
       "slug": "br-federal-decreto-legislativo-2026-06-08-73",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-73.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6182,8 +6182,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43383787",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;94",
       "slug": "br-federal-decreto-legislativo-2026-06-08-94",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-94.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6199,8 +6199,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43384522",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;100",
       "slug": "br-federal-decreto-legislativo-2026-06-08-100",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-100.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6216,8 +6216,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43382932",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;72",
       "slug": "br-federal-decreto-legislativo-2026-06-08-72",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-72.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6233,8 +6233,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43382463",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;143",
       "slug": "br-federal-decreto-legislativo-2026-06-08-143",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-143.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6250,8 +6250,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43382775",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;138",
       "slug": "br-federal-decreto-legislativo-2026-06-08-138",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-138.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6267,8 +6267,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43384341",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;96",
       "slug": "br-federal-decreto-legislativo-2026-06-08-96",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-96.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6284,8 +6284,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43383003",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;76",
       "slug": "br-federal-decreto-legislativo-2026-06-08-76",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-76.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6301,8 +6301,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43381762",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;67",
       "slug": "br-federal-decreto-legislativo-2026-06-08-67",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-67.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6318,8 +6318,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43385101",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;74",
       "slug": "br-federal-decreto-legislativo-2026-06-08-74",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-74.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6335,8 +6335,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43385549",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;121",
       "slug": "br-federal-decreto-legislativo-2026-06-08-121",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-121.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6352,8 +6352,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43381864",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;69",
       "slug": "br-federal-decreto-legislativo-2026-06-08-69",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-69.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6369,8 +6369,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43385606",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;123",
       "slug": "br-federal-decreto-legislativo-2026-06-08-123",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-123.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6386,8 +6386,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43384304",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;107",
       "slug": "br-federal-decreto-legislativo-2026-06-08-107",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-107.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6403,8 +6403,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43383463",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;86",
       "slug": "br-federal-decreto-legislativo-2026-06-08-86",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-86.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6420,8 +6420,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43383359",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;83",
       "slug": "br-federal-decreto-legislativo-2026-06-08-83",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-83.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6437,8 +6437,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43383220",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;79",
       "slug": "br-federal-decreto-legislativo-2026-06-08-79",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-79.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6454,8 +6454,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43382715",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;139",
       "slug": "br-federal-decreto-legislativo-2026-06-08-139",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-139.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6471,8 +6471,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43385398",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-06-08;119",
       "slug": "br-federal-decreto-legislativo-2026-06-08-119",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-06-08-119.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6488,7 +6488,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/43330855",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-28;64",
       "slug": "br-federal-decreto-legislativo-2026-05-28-64",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -6505,8 +6505,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43315455",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;50",
       "slug": "br-federal-decreto-legislativo-2026-05-21-50",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-21-50.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6522,8 +6522,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43315492",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;51",
       "slug": "br-federal-decreto-legislativo-2026-05-21-51",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-21-51.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6539,8 +6539,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43315344",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;46",
       "slug": "br-federal-decreto-legislativo-2026-05-21-46",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-21-46.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6556,8 +6556,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43315659",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;57",
       "slug": "br-federal-decreto-legislativo-2026-05-21-57",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-21-57.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6573,8 +6573,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43315108",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;43",
       "slug": "br-federal-decreto-legislativo-2026-05-21-43",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-21-43.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6590,8 +6590,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43315174",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;47",
       "slug": "br-federal-decreto-legislativo-2026-05-21-47",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-21-47.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6607,8 +6607,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43315770",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;61",
       "slug": "br-federal-decreto-legislativo-2026-05-21-61",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-21-61.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6624,8 +6624,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43315381",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;48",
       "slug": "br-federal-decreto-legislativo-2026-05-21-48",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-21-48.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6641,8 +6641,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43315807",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;62",
       "slug": "br-federal-decreto-legislativo-2026-05-21-62",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-21-62.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6658,8 +6658,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43315529",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;52",
       "slug": "br-federal-decreto-legislativo-2026-05-21-52",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-21-52.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6675,8 +6675,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43315844",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;63",
       "slug": "br-federal-decreto-legislativo-2026-05-21-63",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-21-63.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6692,8 +6692,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43315307",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;44",
       "slug": "br-federal-decreto-legislativo-2026-05-21-44",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-21-44.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6709,8 +6709,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43315696",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;58",
       "slug": "br-federal-decreto-legislativo-2026-05-21-58",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-21-58.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6726,8 +6726,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43315248",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;56",
       "slug": "br-federal-decreto-legislativo-2026-05-21-56",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-21-56.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6743,8 +6743,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43315566",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;54",
       "slug": "br-federal-decreto-legislativo-2026-05-21-54",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-21-54.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6760,8 +6760,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43315733",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;60",
       "slug": "br-federal-decreto-legislativo-2026-05-21-60",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-21-60.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6777,8 +6777,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43315418",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;49",
       "slug": "br-federal-decreto-legislativo-2026-05-21-49",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-21-49.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6794,8 +6794,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43315603",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;55",
       "slug": "br-federal-decreto-legislativo-2026-05-21-55",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-21-55.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6811,8 +6811,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43315137",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;45",
       "slug": "br-federal-decreto-legislativo-2026-05-21-45",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-21-45.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6828,8 +6828,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43315640",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;59",
       "slug": "br-federal-decreto-legislativo-2026-05-21-59",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-21-59.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6845,8 +6845,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43315211",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-21;53",
       "slug": "br-federal-decreto-legislativo-2026-05-21-53",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-21-53.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6862,8 +6862,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43240657",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;41",
       "slug": "br-federal-decreto-legislativo-2026-05-04-41",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-04-41.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6879,8 +6879,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43240689",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;42",
       "slug": "br-federal-decreto-legislativo-2026-05-04-42",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-04-42.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6896,8 +6896,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43240371",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;22",
       "slug": "br-federal-decreto-legislativo-2026-05-04-22",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-04-22.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6913,8 +6913,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43248146",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;32",
       "slug": "br-federal-decreto-legislativo-2026-05-04-32",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-04-32.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6930,8 +6930,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43248082",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;30",
       "slug": "br-federal-decreto-legislativo-2026-05-04-30",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-04-30.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6947,8 +6947,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43240625",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;40",
       "slug": "br-federal-decreto-legislativo-2026-05-04-40",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-04-40.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6964,8 +6964,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43240721",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;24",
       "slug": "br-federal-decreto-legislativo-2026-05-04-24",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-04-24.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6981,8 +6981,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43247859",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;21",
       "slug": "br-federal-decreto-legislativo-2026-05-04-21",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-04-21.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -6998,8 +6998,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43247954",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;26",
       "slug": "br-federal-decreto-legislativo-2026-05-04-26",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-04-26.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7015,8 +7015,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43240593",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;39",
       "slug": "br-federal-decreto-legislativo-2026-05-04-39",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-04-39.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7032,8 +7032,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43248219",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;38",
       "slug": "br-federal-decreto-legislativo-2026-05-04-38",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-04-38.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7049,8 +7049,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43247986",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;27",
       "slug": "br-federal-decreto-legislativo-2026-05-04-27",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-04-27.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7066,8 +7066,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43247890",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;23",
       "slug": "br-federal-decreto-legislativo-2026-05-04-23",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-04-23.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7083,8 +7083,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43240402",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;33",
       "slug": "br-federal-decreto-legislativo-2026-05-04-33",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-04-33.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7100,8 +7100,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43240340",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;20",
       "slug": "br-federal-decreto-legislativo-2026-05-04-20",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-04-20.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7117,8 +7117,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43240530",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;37",
       "slug": "br-federal-decreto-legislativo-2026-05-04-37",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-04-37.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7134,8 +7134,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43240498",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;36",
       "slug": "br-federal-decreto-legislativo-2026-05-04-36",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-04-36.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7151,8 +7151,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43240466",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;35",
       "slug": "br-federal-decreto-legislativo-2026-05-04-35",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-04-35.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7168,8 +7168,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43247922",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;25",
       "slug": "br-federal-decreto-legislativo-2026-05-04-25",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-04-25.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7185,8 +7185,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43248114",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;31",
       "slug": "br-federal-decreto-legislativo-2026-05-04-31",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-04-31.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7202,8 +7202,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43248050",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;29",
       "slug": "br-federal-decreto-legislativo-2026-05-04-29",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-04-29.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7219,8 +7219,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43248018",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;28",
       "slug": "br-federal-decreto-legislativo-2026-05-04-28",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-04-28.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7236,8 +7236,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43248178",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-05-04;34",
       "slug": "br-federal-decreto-legislativo-2026-05-04-34",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-05-04-34.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7253,8 +7253,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/43053389",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-04-15;19",
       "slug": "br-federal-decreto-legislativo-2026-04-15-19",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-04-15-19.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7270,7 +7270,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/43053356",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-04-15;18",
       "slug": "br-federal-decreto-legislativo-2026-04-15-18",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -7287,7 +7287,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/43018336",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-04-06;17",
       "slug": "br-federal-decreto-legislativo-2026-04-06-17",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -7304,7 +7304,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/42926192",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-03-20;16",
       "slug": "br-federal-decreto-legislativo-2026-03-20-16",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -7321,7 +7321,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/42902412",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-03-17;14",
       "slug": "br-federal-decreto-legislativo-2026-03-17-14",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -7338,7 +7338,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/42900666",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-03-13;15",
       "slug": "br-federal-decreto-legislativo-2026-03-13-15",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -7355,7 +7355,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/42874985",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-03-04;13",
       "slug": "br-federal-decreto-legislativo-2026-03-04-13",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -7372,7 +7372,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/42874948",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-03-04;12",
       "slug": "br-federal-decreto-legislativo-2026-03-04-12",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -7389,8 +7389,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/42848737",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-02-26;4",
       "slug": "br-federal-decreto-legislativo-2026-02-26-4",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-02-26-4.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7406,8 +7406,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/42842371",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-02-26;3",
       "slug": "br-federal-decreto-legislativo-2026-02-26-3",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-02-26-3.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7423,8 +7423,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/42842602",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-02-26;8",
       "slug": "br-federal-decreto-legislativo-2026-02-26-8",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-02-26-8.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7440,8 +7440,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/42848591",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-02-26;1",
       "slug": "br-federal-decreto-legislativo-2026-02-26-1",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-02-26-1.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7457,8 +7457,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/42848935",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-02-26;7",
       "slug": "br-federal-decreto-legislativo-2026-02-26-7",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-02-26-7.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7474,7 +7474,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/42842690",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-02-26;9",
       "slug": "br-federal-decreto-legislativo-2026-02-26-9",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -7491,8 +7491,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/42848816",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-02-26;6",
       "slug": "br-federal-decreto-legislativo-2026-02-26-6",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-02-26-6.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7508,8 +7508,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/42842472",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-02-26;5",
       "slug": "br-federal-decreto-legislativo-2026-02-26-5",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-02-26-5.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7525,8 +7525,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/42848658",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-02-26;2",
       "slug": "br-federal-decreto-legislativo-2026-02-26-2",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2026-02-26-2.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7542,7 +7542,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/42849082",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-02-26;10",
       "slug": "br-federal-decreto-legislativo-2026-02-26-10",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -7559,7 +7559,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/42849124",
       "urn": "urn:lex:br:federal:decreto.legislativo:2026-02-26;11",
       "slug": "br-federal-decreto-legislativo-2026-02-26-11",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -7576,8 +7576,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41882640",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;297",
       "slug": "br-federal-decreto-legislativo-2025-12-23-297",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-23-297.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7593,8 +7593,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41882568",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;295",
       "slug": "br-federal-decreto-legislativo-2025-12-23-295",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-23-295.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7610,8 +7610,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41882712",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;303",
       "slug": "br-federal-decreto-legislativo-2025-12-23-303",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-23-303.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7627,8 +7627,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41883258",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;310",
       "slug": "br-federal-decreto-legislativo-2025-12-23-310",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-23-310.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7644,8 +7644,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41882254",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;290",
       "slug": "br-federal-decreto-legislativo-2025-12-23-290",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-23-290.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7661,8 +7661,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41882822",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;299",
       "slug": "br-federal-decreto-legislativo-2025-12-23-299",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-23-299.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7678,8 +7678,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41883040",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;307",
       "slug": "br-federal-decreto-legislativo-2025-12-23-307",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-23-307.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7695,8 +7695,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41882930",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;305",
       "slug": "br-federal-decreto-legislativo-2025-12-23-305",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-23-305.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7712,8 +7712,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41883002",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;309",
       "slug": "br-federal-decreto-legislativo-2025-12-23-309",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-23-309.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7729,8 +7729,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41882676",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;300",
       "slug": "br-federal-decreto-legislativo-2025-12-23-300",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-23-300.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7746,8 +7746,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41882424",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;288",
       "slug": "br-federal-decreto-legislativo-2025-12-23-288",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-23-288.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7763,8 +7763,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41882496",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;292",
       "slug": "br-federal-decreto-legislativo-2025-12-23-292",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-23-292.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7780,8 +7780,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41882966",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;308",
       "slug": "br-federal-decreto-legislativo-2025-12-23-308",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-23-308.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7797,8 +7797,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41882784",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;306",
       "slug": "br-federal-decreto-legislativo-2025-12-23-306",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-23-306.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7814,8 +7814,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41882532",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;293",
       "slug": "br-federal-decreto-legislativo-2025-12-23-293",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-23-293.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7831,8 +7831,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41882326",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;298",
       "slug": "br-federal-decreto-legislativo-2025-12-23-298",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-23-298.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7848,8 +7848,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41882218",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;289",
       "slug": "br-federal-decreto-legislativo-2025-12-23-289",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-23-289.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7865,8 +7865,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41882460",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;291",
       "slug": "br-federal-decreto-legislativo-2025-12-23-291",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-23-291.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7882,7 +7882,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41882388",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;287",
       "slug": "br-federal-decreto-legislativo-2025-12-23-287",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -7899,8 +7899,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41882604",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;296",
       "slug": "br-federal-decreto-legislativo-2025-12-23-296",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-23-296.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7916,8 +7916,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41882894",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;302",
       "slug": "br-federal-decreto-legislativo-2025-12-23-302",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-23-302.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7933,8 +7933,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41882748",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;304",
       "slug": "br-federal-decreto-legislativo-2025-12-23-304",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-23-304.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7950,8 +7950,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41882858",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;301",
       "slug": "br-federal-decreto-legislativo-2025-12-23-301",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-23-301.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7967,8 +7967,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41882290",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-23;294",
       "slug": "br-federal-decreto-legislativo-2025-12-23-294",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-23-294.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -7984,7 +7984,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41853834",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-19;284",
       "slug": "br-federal-decreto-legislativo-2025-12-19-284",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -8001,7 +8001,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41853474",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-19;285",
       "slug": "br-federal-decreto-legislativo-2025-12-19-285",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -8018,7 +8018,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41853510",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-19;286",
       "slug": "br-federal-decreto-legislativo-2025-12-19-286",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -8035,8 +8035,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41817997",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;279",
       "slug": "br-federal-decreto-legislativo-2025-12-08-279",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-08-279.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8052,8 +8052,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41818176",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;277",
       "slug": "br-federal-decreto-legislativo-2025-12-08-277",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-08-277.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8069,8 +8069,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41818129",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;276",
       "slug": "br-federal-decreto-legislativo-2025-12-08-276",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-08-276.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8086,8 +8086,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41818294",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;282",
       "slug": "br-federal-decreto-legislativo-2025-12-08-282",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-08-282.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8103,8 +8103,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41818258",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;281",
       "slug": "br-federal-decreto-legislativo-2025-12-08-281",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-08-281.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8120,8 +8120,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41817724",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;270",
       "slug": "br-federal-decreto-legislativo-2025-12-08-270",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-08-270.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8137,8 +8137,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41817845",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;274",
       "slug": "br-federal-decreto-legislativo-2025-12-08-274",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-08-274.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8154,8 +8154,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41817776",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;271",
       "slug": "br-federal-decreto-legislativo-2025-12-08-271",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-08-271.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8171,8 +8171,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41817674",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;269",
       "slug": "br-federal-decreto-legislativo-2025-12-08-269",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-08-269.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8188,8 +8188,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41818038",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;283",
       "slug": "br-federal-decreto-legislativo-2025-12-08-283",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-08-283.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8205,8 +8205,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41817955",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;278",
       "slug": "br-federal-decreto-legislativo-2025-12-08-278",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-08-278.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8222,8 +8222,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41817867",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;273",
       "slug": "br-federal-decreto-legislativo-2025-12-08-273",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-08-273.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8239,8 +8239,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41818218",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;280",
       "slug": "br-federal-decreto-legislativo-2025-12-08-280",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-08-280.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8256,8 +8256,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41817414",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;268",
       "slug": "br-federal-decreto-legislativo-2025-12-08-268",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-08-268.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8273,8 +8273,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41817753",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;272",
       "slug": "br-federal-decreto-legislativo-2025-12-08-272",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-08-272.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8290,8 +8290,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41818097",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-08;275",
       "slug": "br-federal-decreto-legislativo-2025-12-08-275",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-08-275.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8307,8 +8307,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796994",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;237",
       "slug": "br-federal-decreto-legislativo-2025-12-01-237",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-237.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8324,8 +8324,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41795968",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;233",
       "slug": "br-federal-decreto-legislativo-2025-12-01-233",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-233.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8341,8 +8341,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796742",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;263",
       "slug": "br-federal-decreto-legislativo-2025-12-01-263",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-263.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8358,8 +8358,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796472",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;246",
       "slug": "br-federal-decreto-legislativo-2025-12-01-246",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-246.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8375,8 +8375,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41797282",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;249",
       "slug": "br-federal-decreto-legislativo-2025-12-01-249",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-249.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8392,8 +8392,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796256",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;254",
       "slug": "br-federal-decreto-legislativo-2025-12-01-254",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-254.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8409,8 +8409,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796148",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;239",
       "slug": "br-federal-decreto-legislativo-2025-12-01-239",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-239.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8426,8 +8426,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796706",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;230",
       "slug": "br-federal-decreto-legislativo-2025-12-01-230",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-230.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8443,7 +8443,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796040",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;266",
       "slug": "br-federal-decreto-legislativo-2025-12-01-266",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -8460,8 +8460,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796436",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;258",
       "slug": "br-federal-decreto-legislativo-2025-12-01-258",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-258.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8477,8 +8477,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796508",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;260",
       "slug": "br-federal-decreto-legislativo-2025-12-01-260",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-260.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8494,8 +8494,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796220",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;240",
       "slug": "br-federal-decreto-legislativo-2025-12-01-240",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-240.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8511,8 +8511,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796364",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;243",
       "slug": "br-federal-decreto-legislativo-2025-12-01-243",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-243.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8528,7 +8528,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796850",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;265",
       "slug": "br-federal-decreto-legislativo-2025-12-01-265",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -8545,8 +8545,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796076",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;236",
       "slug": "br-federal-decreto-legislativo-2025-12-01-236",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-236.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8562,8 +8562,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796670",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;229",
       "slug": "br-federal-decreto-legislativo-2025-12-01-229",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-229.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8579,8 +8579,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796634",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;261",
       "slug": "br-federal-decreto-legislativo-2025-12-01-261",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-261.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8596,8 +8596,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796814",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;232",
       "slug": "br-federal-decreto-legislativo-2025-12-01-232",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-232.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8613,8 +8613,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796292",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;241",
       "slug": "br-federal-decreto-legislativo-2025-12-01-241",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-241.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8630,8 +8630,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796400",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;257",
       "slug": "br-federal-decreto-legislativo-2025-12-01-257",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-257.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8647,8 +8647,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796958",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;251",
       "slug": "br-federal-decreto-legislativo-2025-12-01-251",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-251.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8664,8 +8664,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41797102",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;242",
       "slug": "br-federal-decreto-legislativo-2025-12-01-242",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-242.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8681,8 +8681,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41797138",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;244",
       "slug": "br-federal-decreto-legislativo-2025-12-01-244",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-244.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8698,8 +8698,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41797174",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;245",
       "slug": "br-federal-decreto-legislativo-2025-12-01-245",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-245.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8715,8 +8715,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796778",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;231",
       "slug": "br-federal-decreto-legislativo-2025-12-01-231",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-231.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8732,8 +8732,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41797030",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;252",
       "slug": "br-federal-decreto-legislativo-2025-12-01-252",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-252.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8749,8 +8749,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796004",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;234",
       "slug": "br-federal-decreto-legislativo-2025-12-01-234",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-234.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8766,8 +8766,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41797210",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;259",
       "slug": "br-federal-decreto-legislativo-2025-12-01-259",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-259.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8783,8 +8783,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796184",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;253",
       "slug": "br-federal-decreto-legislativo-2025-12-01-253",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-253.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8800,8 +8800,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41797407",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;248",
       "slug": "br-federal-decreto-legislativo-2025-12-01-248",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-248.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8817,8 +8817,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796112",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;238",
       "slug": "br-federal-decreto-legislativo-2025-12-01-238",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-238.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8834,8 +8834,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41797318",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;250",
       "slug": "br-federal-decreto-legislativo-2025-12-01-250",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-250.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8851,7 +8851,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796886",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;267",
       "slug": "br-federal-decreto-legislativo-2025-12-01-267",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -8868,8 +8868,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41797066",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;255",
       "slug": "br-federal-decreto-legislativo-2025-12-01-255",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-255.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8885,8 +8885,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41795896",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;262",
       "slug": "br-federal-decreto-legislativo-2025-12-01-262",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-262.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8902,8 +8902,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41797246",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;247",
       "slug": "br-federal-decreto-legislativo-2025-12-01-247",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-247.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8919,8 +8919,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796598",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;228",
       "slug": "br-federal-decreto-legislativo-2025-12-01-228",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-228.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8936,8 +8936,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796328",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;256",
       "slug": "br-federal-decreto-legislativo-2025-12-01-256",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-256.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8953,7 +8953,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41795932",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;264",
       "slug": "br-federal-decreto-legislativo-2025-12-01-264",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -8970,8 +8970,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41796922",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-12-01;235",
       "slug": "br-federal-decreto-legislativo-2025-12-01-235",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-12-01-235.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -8987,7 +8987,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41656857",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;226",
       "slug": "br-federal-decreto-legislativo-2025-11-04-226",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9004,8 +9004,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41669610",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;218",
       "slug": "br-federal-decreto-legislativo-2025-11-04-218",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-11-04-218.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -9021,8 +9021,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41661329",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;220",
       "slug": "br-federal-decreto-legislativo-2025-11-04-220",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-11-04-220.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -9038,8 +9038,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41661393",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;223",
       "slug": "br-federal-decreto-legislativo-2025-11-04-223",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-11-04-223.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -9055,8 +9055,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41669906",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;221",
       "slug": "br-federal-decreto-legislativo-2025-11-04-221",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-11-04-221.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -9072,8 +9072,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41661093",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;214",
       "slug": "br-federal-decreto-legislativo-2025-11-04-214",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-11-04-214.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -9089,8 +9089,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41670461",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;225",
       "slug": "br-federal-decreto-legislativo-2025-11-04-225",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-11-04-225.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -9106,7 +9106,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41661716",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;227",
       "slug": "br-federal-decreto-legislativo-2025-11-04-227",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9123,8 +9123,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41661163",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;215",
       "slug": "br-federal-decreto-legislativo-2025-11-04-215",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-11-04-215.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -9140,8 +9140,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41669976",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;222",
       "slug": "br-federal-decreto-legislativo-2025-11-04-222",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-11-04-222.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -9157,8 +9157,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41669724",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;219",
       "slug": "br-federal-decreto-legislativo-2025-11-04-219",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-11-04-219.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -9174,8 +9174,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41661463",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;224",
       "slug": "br-federal-decreto-legislativo-2025-11-04-224",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-11-04-224.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -9191,8 +9191,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41669510",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;217",
       "slug": "br-federal-decreto-legislativo-2025-11-04-217",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-11-04-217.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -9208,8 +9208,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/41661233",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;216",
       "slug": "br-federal-decreto-legislativo-2025-11-04-216",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-decreto-legislativo-2025-11-04-216.md",
       "orgao_emissor": "Congresso Nacional"
     },
     {
@@ -9225,7 +9225,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41601158",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-10-23;210",
       "slug": "br-federal-decreto-legislativo-2025-10-23-210",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9242,7 +9242,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41601468",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-10-23;212",
       "slug": "br-federal-decreto-legislativo-2025-10-23-212",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9259,7 +9259,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41600131",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-10-23;211",
       "slug": "br-federal-decreto-legislativo-2025-10-23-211",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9276,7 +9276,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41600205",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-10-23;213",
       "slug": "br-federal-decreto-legislativo-2025-10-23-213",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9293,7 +9293,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41562799",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-10-14;207",
       "slug": "br-federal-decreto-legislativo-2025-10-14-207",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9310,7 +9310,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41524424",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-10-02;206",
       "slug": "br-federal-decreto-legislativo-2025-10-02-206",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9327,7 +9327,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41524496",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-10-02;209",
       "slug": "br-federal-decreto-legislativo-2025-10-02-209",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9344,7 +9344,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41524460",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-10-02;208",
       "slug": "br-federal-decreto-legislativo-2025-10-02-208",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9361,7 +9361,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41524352",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-10-02;204",
       "slug": "br-federal-decreto-legislativo-2025-10-02-204",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9378,7 +9378,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41524388",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-10-02;205",
       "slug": "br-federal-decreto-legislativo-2025-10-02-205",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9395,7 +9395,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41490147",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-09-19;203",
       "slug": "br-federal-decreto-legislativo-2025-09-19-203",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9412,7 +9412,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41434845",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-09-11;201",
       "slug": "br-federal-decreto-legislativo-2025-09-11-201",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9429,7 +9429,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41432154",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-09-11;200",
       "slug": "br-federal-decreto-legislativo-2025-09-11-200",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9446,7 +9446,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41432190",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-09-10;202",
       "slug": "br-federal-decreto-legislativo-2025-09-10-202",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9463,7 +9463,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41409938",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-09-09;198",
       "slug": "br-federal-decreto-legislativo-2025-09-09-198",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9480,7 +9480,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41409867",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-09-09;196",
       "slug": "br-federal-decreto-legislativo-2025-09-09-196",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9497,7 +9497,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41412192",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-09-09;195",
       "slug": "br-federal-decreto-legislativo-2025-09-09-195",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9514,7 +9514,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41409900",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-09-09;197",
       "slug": "br-federal-decreto-legislativo-2025-09-09-197",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9531,7 +9531,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41409970",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-09-09;199",
       "slug": "br-federal-decreto-legislativo-2025-09-09-199",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9548,7 +9548,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41380099",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-09-02;191",
       "slug": "br-federal-decreto-legislativo-2025-09-02-191",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9565,7 +9565,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41379100",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-09-02;192",
       "slug": "br-federal-decreto-legislativo-2025-09-02-192",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9582,7 +9582,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41379133",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-09-02;193",
       "slug": "br-federal-decreto-legislativo-2025-09-02-193",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9599,7 +9599,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41379166",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-09-02;194",
       "slug": "br-federal-decreto-legislativo-2025-09-02-194",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9616,7 +9616,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41320296",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-08-20;190",
       "slug": "br-federal-decreto-legislativo-2025-08-20-190",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9633,7 +9633,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41226217",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-08-12;189",
       "slug": "br-federal-decreto-legislativo-2025-08-12-189",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9650,7 +9650,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41226181",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-08-12;188",
       "slug": "br-federal-decreto-legislativo-2025-08-12-188",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9667,7 +9667,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41226145",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-08-12;187",
       "slug": "br-federal-decreto-legislativo-2025-08-12-187",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9684,7 +9684,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41150577",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-07-18;186",
       "slug": "br-federal-decreto-legislativo-2025-07-18-186",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9701,7 +9701,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41150525",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-07-18;185",
       "slug": "br-federal-decreto-legislativo-2025-07-18-185",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9718,7 +9718,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41122870",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-07-09;184",
       "slug": "br-federal-decreto-legislativo-2025-07-09-184",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9735,7 +9735,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41122837",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-07-09;183",
       "slug": "br-federal-decreto-legislativo-2025-07-09-183",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9752,7 +9752,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41116805",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-07-07;181",
       "slug": "br-federal-decreto-legislativo-2025-07-07-181",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9769,7 +9769,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41116736",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-07-07;182",
       "slug": "br-federal-decreto-legislativo-2025-07-07-182",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9786,7 +9786,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41116637",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-07-07;179",
       "slug": "br-federal-decreto-legislativo-2025-07-07-179",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9803,7 +9803,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41116703",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-07-07;178",
       "slug": "br-federal-decreto-legislativo-2025-07-07-178",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9820,7 +9820,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41116770",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-07-07;180",
       "slug": "br-federal-decreto-legislativo-2025-07-07-180",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -9837,7 +9837,7 @@
       "url_registro": "https://legis.senado.leg.br/norma/41116669",
       "urn": "urn:lex:br:federal:decreto.legislativo:2025-07-07;177",
       "slug": "br-federal-decreto-legislativo-2025-07-07-177",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "anexos-pendentes",
       "caminho_publicado": null,
       "orgao_emissor": "Congresso Nacional"
     },
@@ -271064,6 +271064,6 @@
       "orgao_emissor": "Congresso Nacional"
     }
   ],
-  "anexos_pendentes": 0,
+  "anexos_pendentes": 58,
   "fonte_sem_html": 0
 }

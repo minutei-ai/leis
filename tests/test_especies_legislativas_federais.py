@@ -253,6 +253,8 @@ class TestEspeciesLegislativasFederais(unittest.TestCase):
                     'snapshot': self.fontes[slug]['snapshot'],
                     'senado_id': self.fontes[slug]['senado_id'],
                     'fonte_orgao': meta.get('fonte_orgao'),
+                    'corpo_legal_integral_pendente': meta.get('edicao_integral') is False,
+                    'remissoes_literais': meta.get('remissoes_literais'),
                 }
                 md2, _ = lote.build_markdown(item, html)
                 if self.fontes[slug].get('anexo_fonte_alternativa'):
@@ -267,6 +269,23 @@ class TestEspeciesLegislativasFederais(unittest.TestCase):
                     self.assertEqual(body2.rstrip(), body_pub.split(marker, 1)[0].rstrip())
                 else:
                     self.assertEqual(md2, text)
+
+    def test_remissoes_preexistentes_reclassificadas_sem_alterar_corpo_oficial(self):
+        ledger = json.loads((lote.PROVAS / 'textos-remetidos-pendentes.json').read_text(encoding='utf-8'))
+        partials = [x for x in ledger['itens']
+                    if x.get('estado') == 'publicado-corpo-parcial-remissao-explicita']
+        self.assertEqual(len(partials), 12)
+        for item in partials:
+            with self.subTest(slug=item['slug']):
+                text = (ROOT / item['arquivo_preexistente']).read_text(encoding='utf-8')
+                meta, body = nl.parse_frontmatter(text)
+                self.assertIs(meta['edicao_integral'], False)
+                self.assertTrue(meta['excluir_denominador_integra'])
+                self.assertTrue(meta['remissoes_literais'])
+                self.assertEqual(meta['sha256_markdown'], nl.sha256(body.encode('utf-8')))
+                self.assertEqual(item['sha256_markdown'], nl.sha256(body.encode('utf-8')))
+                self.assertEqual(item['bytes_markdown'], len(body.encode('utf-8')))
+                self.assertIn(item['remissoes_literais'][0], body)
 
     def test_limites_rcd_pos_1991_declarados(self):
         rcd = self.limites['RCD']
@@ -588,6 +607,31 @@ class TestEspeciesLegislativasFederais(unittest.TestCase):
                 # Estado reconciliado
                 rec_item = next(i for i in rec['itens'] if i['slug'] == slug)
                 self.assertEqual(rec_item['estado_coleta'], 'publicado')
+
+
+class TestTextosAprovadosRemetidos(unittest.TestCase):
+    def test_remissao_explicita_bloqueia_integra_mesmo_sem_anx(self):
+        import especies_legislativas_federais as owner
+        html = ('<p>Art. 1º Fica aprovado o Acordo.</p><p>O texto do Acordo '
+                'acima citado está publicado no Diário do Senado Federal de '
+                '18 de março de 2025.</p>').encode()
+        item = {'utilizavel': True, 'anexos_senado': {'anexos': []}}
+        self.assertTrue(owner.block_external_normative_text(item, html))
+        self.assertFalse(item['utilizavel'])
+        self.assertEqual(item['estado_sugerido'], 'anexos-pendentes')
+        self.assertIn('18 de março de 2025', item['textos_remetidos'][0])
+
+    def test_aviso_de_publicacao_nao_e_texto_normativo_ausente(self):
+        import especies_legislativas_federais as owner
+        html = ('<p>Este texto não substitui o original publicado no Diário Oficial.</p>'
+                '<p>A aposentadoria foi publicada no Diário do Senado Federal.</p>').encode()
+        self.assertEqual(owner.external_normative_text_references(html), [])
+
+    def test_textos_multiplos_e_marcacao_inline(self):
+        import especies_legislativas_federais as owner
+        html = ('<p>Os textos do <b>Protocolo</b> e das Emendas estão publicados '
+                'no Diário do Senado Federal de 2 de dezembro de 2025.</p>').encode()
+        self.assertEqual(len(owner.external_normative_text_references(html)), 1)
 
 
 if __name__ == '__main__':
