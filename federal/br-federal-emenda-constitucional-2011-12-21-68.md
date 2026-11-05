@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2011-12-21-68"
+norma_id: "br-federal-emenda-constitucional-2011-12-21-68"
+norma_tipo: "emenda-constitucional"
+norma_numero: "68"
+norma_data: "2011-12-21"
+titulo: "EMENDA CONSTITUCIONAL Nº 68, DE 21/12/2011"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2011-12-21-68@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc68.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "ba9d240b8b193d6076bf115f3ad275e6bced39e2ee9c9570c9b9c7360233443b"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 ###EMC-000068-0-000-21-12-2011-PUB-01@@@
 
 <strong>EMENDA CONSTITUCIONAL Nº</strong> <strong>68</strong>

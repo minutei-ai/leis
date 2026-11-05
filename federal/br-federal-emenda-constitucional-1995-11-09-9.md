@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-1995-11-09-9"
+norma_id: "br-federal-emenda-constitucional-1995-11-09-9"
+norma_tipo: "emenda-constitucional"
+norma_numero: "9"
+norma_data: "1995-11-09"
+titulo: "EMENDA CONSTITUCIONAL Nº 9, DE 1995"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-1995-11-09-9@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc9.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "9eef19f0bf1df7002af29fe96a3d0af8ef2d6570b9d50095a88d4ab3956956a9"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 ###EMC-000009-0-000-09-11-1995@@@
 
 <strong>EMENDA CONSTITUCIONAL Nº 9, DE 1995</strong>

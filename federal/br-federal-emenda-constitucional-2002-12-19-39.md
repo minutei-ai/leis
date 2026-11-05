@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2002-12-19-39"
+norma_id: "br-federal-emenda-constitucional-2002-12-19-39"
+norma_tipo: "emenda-constitucional"
+norma_numero: "39"
+norma_data: "2002-12-19"
+titulo: "EMENDA CONSTITUCIONAL Nº 39, DE 19 DE DEZEMBRO DE 2002"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2002-12-19-39@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc39.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "174a83c95bb42c1a04f57394a4da95f24dc66e637bd1a754a1af91a96fd2c234"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 ###EMC-000039-0-000-19-12-2002@@@
 
 <strong>EMENDA CONSTITUCIONAL Nº 39, DE 19 DE DEZEMBRO DE 2002</strong>

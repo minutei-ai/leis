@@ -1,0 +1,58 @@
+{
+  "planalto-d11246": {
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/D11246.htm",
+    "orgao": "Presidência da República — Planalto",
+    "formato": "html",
+    "charset": "cp1252",
+    "capturado_em": "2026-11-04T19:07:11Z",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "bytes": 84686,
+    "sha256": "d85394a46d55299b0bf5d92a196fcb39827b7f2ef3376db77d38fdee47899066",
+    "sha256_conteudo": "408957136087232654072a1064824bd9bf0f2c8f3ad0e9326f43ad5dcacbb5a6",
+    "snapshot": "provas/atualizacao-planalto-licitacao/fontes/planalto-d11246.htm.xz",
+    "sha256_snapshot_armazenado": "ab5391b1aad2c6985eb5f344d5bc5818b20605dcd5455d19a037a8a7d4120e01",
+    "utilizavel": true
+  },
+  "planalto-d11878": {
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d11878.htm",
+    "orgao": "Presidência da República — Planalto",
+    "formato": "html",
+    "charset": "cp1252",
+    "capturado_em": "2026-11-04T19:07:11Z",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "bytes": 75823,
+    "sha256": "35c40b57c682d12eff0ff5537814dc2e4250cfad20aafbc7e23777d8d05fc276",
+    "sha256_conteudo": "b3f68cae175f429e885e4a82f78dc7c7c80dc27f14bbdae172d68b9a7248f564",
+    "snapshot": "provas/atualizacao-planalto-licitacao/fontes/planalto-d11878.htm.xz",
+    "sha256_snapshot_armazenado": "296e4dd3c4cadd93bf099d9db9c9b31f98b314ac25fcabae14cbab75b2d750ae",
+    "utilizavel": true
+  },
+  "planalto-l12527": {
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm",
+    "orgao": "Presidência da República — Planalto",
+    "formato": "html",
+    "charset": "cp1252",
+    "capturado_em": "2026-11-04T19:07:11Z",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "bytes": 109489,
+    "sha256": "42bd8f2ff67bca8d19faead81c592576d26e37eadcf7e3d799de8463820f6ee6",
+    "sha256_conteudo": "9faed7c7363700f343776afba0255b8d3e4f1a8303a0bde21f60a8d862d076a2",
+    "snapshot": "provas/atualizacao-planalto-licitacao/fontes/planalto-l12527.htm.xz",
+    "sha256_snapshot_armazenado": "a7354999ce1c43a9ada33bcc45275e0fcdfa8e1ec6480344104bbd4b520bbe85",
+    "utilizavel": true
+  },
+  "planalto-l12462": {
+    "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12462.htm",
+    "orgao": "Presidência da República — Planalto",
+    "formato": "html",
+    "charset": "cp1252",
+    "capturado_em": "2026-11-04T19:07:11Z",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "bytes": 276857,
+    "sha256": "eabebfdcf9559dfc16270ca51e6f51245d6d2d6f1e66448a38fe55a95759dcd4",
+    "sha256_conteudo": "86a270fbca32912063cbebbea96ac67e31585a6ef8346154444a8d3196d791fe",
+    "snapshot": "provas/atualizacao-planalto-licitacao/fontes/planalto-l12462.htm.xz",
+    "sha256_snapshot_armazenado": "9226b5301697a7fe752c4ab88d95b624839b58f4a18568e6a5ea57e2392de7b8",
+    "utilizavel": true
+  }
+}

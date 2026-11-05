@@ -1,0 +1,730 @@
+{
+  "contrato_versao": 1,
+  "ibge_captura": {
+    "fonte_url": "https://servicodados.ibge.gov.br/api/v1/localidades/municipios",
+    "capturado_em": "2026-11-04",
+    "sha256_resposta_completa": "86ecdccdf97d72e7e5e46f0854cfcea8bacc28154cc1bc4ed0e6110e3a6c9c02",
+    "localidades_api": 5571,
+    "municipios": 5569
+  },
+  "resumo": {
+    "ufs_ou_df_com_diretorio": 27,
+    "municipios_no_ibge": 5569,
+    "entidades_especiais": 2,
+    "municipios_com_diretorio": 14,
+    "municipios_sem_publicacao_identificada": 5555,
+    "codigos_publicados_fora_do_ibge": [],
+    "lote_tematico_licitacoes_locais": "metadados/licitacoes-locais/ — amostra #57, não cobertura geral"
+  },
+  "estados_trabalho_admitidos": [
+    "nao-investigado",
+    "fonte-identificada",
+    "catalogo-parcial",
+    "catalogo-reconciliado",
+    "texto-pendente",
+    "publicado",
+    "publicado-cobertura-desconhecida",
+    "incompleto",
+    "sem-publicacao-identificada",
+    "acesso-indisponivel",
+    "entidade-especial-nao-municipio",
+    "nao-aplicavel"
+  ],
+  "ufs": [
+    {
+      "uf": "AC",
+      "esfera": "estadual",
+      "diretorio": "estaduais/AC",
+      "markdown_publicados": 1680,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "Casa Civil do Acre",
+          "poder": "Executivo",
+          "estado": "fonte-identificada"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "AL",
+      "esfera": "estadual",
+      "diretorio": "estaduais/AL",
+      "markdown_publicados": 5,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "Assembleia Legislativa de Alagoas / SAPL",
+          "poder": "Legislativo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "AM",
+      "esfera": "estadual",
+      "diretorio": "estaduais/AM",
+      "markdown_publicados": 8,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "Assembleia Legislativa do Amazonas",
+          "poder": "Legislativo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "AP",
+      "esfera": "estadual",
+      "diretorio": "estaduais/AP",
+      "markdown_publicados": 24,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "Diário Oficial / Assembleia do Amapá",
+          "poder": "desconhecido",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "BA",
+      "esfera": "estadual",
+      "diretorio": "estaduais/BA",
+      "markdown_publicados": 14377,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "Casa Civil da Bahia",
+          "poder": "Executivo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "CE",
+      "esfera": "estadual",
+      "diretorio": "estaduais/CE",
+      "markdown_publicados": 110,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "Assembleia Legislativa do Ceará",
+          "poder": "Legislativo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "DF",
+      "esfera": "distrital",
+      "diretorio": "estaduais/DF",
+      "markdown_publicados": 8,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "DFLEGIS",
+          "poder": "desconhecido",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "ES",
+      "esfera": "estadual",
+      "diretorio": "estaduais/ES",
+      "markdown_publicados": 20,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "Assembleia Legislativa do Espírito Santo",
+          "poder": "Legislativo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "GO",
+      "esfera": "estadual",
+      "diretorio": "estaduais/GO",
+      "markdown_publicados": 9668,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "Casa Civil de Goiás",
+          "poder": "Executivo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "MA",
+      "esfera": "estadual",
+      "diretorio": "estaduais/MA",
+      "markdown_publicados": 6,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "Casa Civil do Maranhão / DOE",
+          "poder": "Executivo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "MG",
+      "esfera": "estadual",
+      "diretorio": "estaduais/MG",
+      "markdown_publicados": 65933,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "ALMG",
+          "poder": "Legislativo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "MS",
+      "esfera": "estadual",
+      "diretorio": "estaduais/MS",
+      "markdown_publicados": 3285,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "Consultoria Legislativa de Mato Grosso do Sul",
+          "poder": "desconhecido",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "MT",
+      "esfera": "estadual",
+      "diretorio": "estaduais/MT",
+      "markdown_publicados": 336,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "SEFAZ Mato Grosso",
+          "poder": "Executivo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "PA",
+      "esfera": "estadual",
+      "diretorio": "estaduais/PA",
+      "markdown_publicados": 85,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "ALEPA / DOE",
+          "poder": "Legislativo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "PB",
+      "esfera": "estadual",
+      "diretorio": "estaduais/PB",
+      "markdown_publicados": 2,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "Assembleia Legislativa da Paraíba",
+          "poder": "Legislativo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "PE",
+      "esfera": "estadual",
+      "diretorio": "estaduais/PE",
+      "markdown_publicados": 2346,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "Alepe",
+          "poder": "Legislativo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "PI",
+      "esfera": "estadual",
+      "diretorio": "estaduais/PI",
+      "markdown_publicados": 1,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "Assembleia Legislativa do Piauí",
+          "poder": "Legislativo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "PR",
+      "esfera": "estadual",
+      "diretorio": "estaduais/PR",
+      "markdown_publicados": 61,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "Casa Civil / Sistema de Legislação do Paraná",
+          "poder": "Executivo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "RJ",
+      "esfera": "estadual",
+      "diretorio": "estaduais/RJ",
+      "markdown_publicados": 1661,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "Alerj",
+          "poder": "Legislativo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "RN",
+      "esfera": "estadual",
+      "diretorio": "estaduais/RN",
+      "markdown_publicados": 62,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "Assembleia Legislativa do Rio Grande do Norte",
+          "poder": "Legislativo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "RO",
+      "esfera": "estadual",
+      "diretorio": "estaduais/RO",
+      "markdown_publicados": 3,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "Assembleia Legislativa de Rondônia",
+          "poder": "Legislativo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "RR",
+      "esfera": "estadual",
+      "diretorio": "estaduais/RR",
+      "markdown_publicados": 1,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "Diário Oficial de Roraima",
+          "poder": "desconhecido",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "RS",
+      "esfera": "estadual",
+      "diretorio": "estaduais/RS",
+      "markdown_publicados": 16,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "Assembleia / portal Consulta Popular",
+          "poder": "desconhecido",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "SC",
+      "esfera": "estadual",
+      "diretorio": "estaduais/SC",
+      "markdown_publicados": 266,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "Assembleia Legislativa de Santa Catarina",
+          "poder": "Legislativo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "SE",
+      "esfera": "estadual",
+      "diretorio": "estaduais/SE",
+      "markdown_publicados": 21,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "Assembleia Legislativa de Sergipe",
+          "poder": "Legislativo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "SP",
+      "esfera": "estadual",
+      "diretorio": "estaduais/SP",
+      "markdown_publicados": 19906,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "Alesp",
+          "poder": "Legislativo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    },
+    {
+      "uf": "TO",
+      "esfera": "estadual",
+      "diretorio": "estaduais/TO",
+      "markdown_publicados": 28,
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "fontes": [
+        {
+          "orgao": "Assembleia Legislativa do Tocantins / SAPL",
+          "poder": "Legislativo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Presença do diretório estadual não informa espécies/órgãos/períodos cobertos."
+    }
+  ],
+  "entidades_especiais": [
+    {
+      "ibge": "2605459",
+      "nome": "Fernando de Noronha",
+      "uf": "PE",
+      "classificacao": "entidade-especial",
+      "estado_trabalho": "entidade-especial-nao-municipio",
+      "diretorio": null,
+      "markdown_publicados": 0,
+      "fontes": [
+        {
+          "orgao": "nao-aplicavel-como-municipio",
+          "poder": "nao-aplicavel",
+          "estado": "nao-aplicavel"
+        }
+      ],
+      "leitura": "Sem diretório não prova ausência de legislação."
+    },
+    {
+      "ibge": "5300108",
+      "nome": "Brasília",
+      "uf": "DF",
+      "classificacao": "entidade-especial",
+      "estado_trabalho": "entidade-especial-nao-municipio",
+      "diretorio": null,
+      "markdown_publicados": 0,
+      "fontes": [
+        {
+          "orgao": "nao-aplicavel-como-municipio",
+          "poder": "nao-aplicavel",
+          "estado": "nao-aplicavel"
+        }
+      ],
+      "leitura": "Sem diretório não prova ausência de legislação."
+    }
+  ],
+  "municipios_publicados": [
+    {
+      "ibge": "1505536",
+      "nome": "Parauapebas",
+      "uf": "PA",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/1505536",
+      "markdown_publicados": 4,
+      "fontes": [
+        {
+          "orgao": "Câmara Municipal de Parauapebas",
+          "poder": "Legislativo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
+      "ibge": "1508001",
+      "nome": "Tomé-Açu",
+      "uf": "PA",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/1508001",
+      "markdown_publicados": 1,
+      "fontes": [
+        {
+          "orgao": "SEMAS-PA (cópia de decreto municipal de Tomé-Açu)",
+          "poder": "desconhecido",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
+      "ibge": "2702355",
+      "nome": "Craíbas",
+      "uf": "AL",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/2702355",
+      "markdown_publicados": 2,
+      "fontes": [
+        {
+          "orgao": "Câmara Municipal de Craíbas / SAPL",
+          "poder": "Legislativo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
+      "ibge": "2703601",
+      "nome": "Japaratinga",
+      "uf": "AL",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/2703601",
+      "markdown_publicados": 2,
+      "fontes": [
+        {
+          "orgao": "Câmara Municipal de Japaratinga",
+          "poder": "Legislativo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
+      "ibge": "2704708",
+      "nome": "Marechal Deodoro",
+      "uf": "AL",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/2704708",
+      "markdown_publicados": 7,
+      "fontes": [
+        {
+          "orgao": "Câmara Municipal de Marechal Deodoro",
+          "poder": "Legislativo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
+      "ibge": "2707701",
+      "nome": "Rio Largo",
+      "uf": "AL",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/2707701",
+      "markdown_publicados": 2,
+      "fontes": [
+        {
+          "orgao": "Câmara Municipal de Rio Largo",
+          "poder": "Legislativo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
+      "ibge": "3100906",
+      "nome": "Águas Formosas",
+      "uf": "MG",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/3100906",
+      "markdown_publicados": 1,
+      "fontes": [
+        {
+          "orgao": "Câmara Municipal de Águas Formosas / SAPL",
+          "poder": "Legislativo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
+      "ibge": "3101607",
+      "nome": "Alfenas",
+      "uf": "MG",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/3101607",
+      "markdown_publicados": 1,
+      "fontes": [
+        {
+          "orgao": "Câmara Municipal de Alfenas / SAPL",
+          "poder": "Legislativo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
+      "ibge": "3106200",
+      "nome": "Belo Horizonte",
+      "uf": "MG",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/3106200",
+      "markdown_publicados": 12,
+      "fontes": [
+        {
+          "orgao": "DOM-PBH / Câmara Municipal de Belo Horizonte",
+          "poder": "ambos-parciais",
+          "estado": "catalogo-parcial",
+          "lote_tematico": "licitacoes-locais#57"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
+      "ibge": "3500105",
+      "nome": "Adamantina",
+      "uf": "SP",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/3500105",
+      "markdown_publicados": 2,
+      "fontes": [
+        {
+          "orgao": "Câmara Municipal de Adamantina",
+          "poder": "Legislativo",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
+      "ibge": "3550308",
+      "nome": "São Paulo",
+      "uf": "SP",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/3550308",
+      "markdown_publicados": 7474,
+      "fontes": [
+        {
+          "orgao": "Prefeitura / Câmara Municipal de São Paulo",
+          "poder": "ambos-parciais",
+          "estado": "catalogo-parcial",
+          "lote_tematico": "licitacoes-locais#57"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
+      "ibge": "5201405",
+      "nome": "Aparecida de Goiânia",
+      "uf": "GO",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/5201405",
+      "markdown_publicados": 4229,
+      "fontes": [
+        {
+          "orgao": "fonte municipal de Aparecida de Goiânia",
+          "poder": "desconhecido",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
+      "ibge": "5208707",
+      "nome": "Goiânia",
+      "uf": "GO",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/5208707",
+      "markdown_publicados": 1,
+      "fontes": [
+        {
+          "orgao": "Prefeitura de Goiânia (SILEG / DOM)",
+          "poder": "Executivo",
+          "estado": "catalogo-parcial",
+          "lote_tematico": "licitacoes-locais#57"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    },
+    {
+      "ibge": "5218805",
+      "nome": "Rio Verde",
+      "uf": "GO",
+      "classificacao": "municipio",
+      "estado_trabalho": "publicado-cobertura-desconhecida",
+      "diretorio": "municipais/5218805",
+      "markdown_publicados": 1089,
+      "fontes": [
+        {
+          "orgao": "fonte municipal de Rio Verde",
+          "poder": "desconhecido",
+          "estado": "catalogo-parcial"
+        }
+      ],
+      "leitura": "Diretório existente não certifica completude por órgão/espécie/período."
+    }
+  ],
+  "municipios_sem_diretorio_contagem": 5555,
+  "plano_retomavel": {
+    "unidade": "UF/ente/fonte/tipo/periodo",
+    "evitar": "Abrir milhares de issues sem diagnóstico de fonte",
+    "compatibilidade_export": "metadados/CONTRATO-acervo.md",
+    "reuso_tematico": [
+      "#57",
+      "#73"
+    ]
+  },
+  "limites": "Inventário territorial versionado contra captura IBGE. Não afirma quantidade de normas ausentes. Municípios sem diretório: sem-publicacao-identificada. Lista completa dos 5.569 municípios está em ibge-municipios-slim.json.gz; este manifesto materializa UFs, especiais e publicados, com denominadores."
+}

@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2007-09-20-55"
+norma_id: "br-federal-emenda-constitucional-2007-09-20-55"
+norma_tipo: "emenda-constitucional"
+norma_numero: "55"
+norma_data: "2007-09-20"
+titulo: "EMENDA CONSTITUCIONAL Nº 55, DE 20 DE SETEMBRO DE 2007"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2007-09-20-55@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc55.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "237c2434acc88d2ceacc0b2f5b3aafe0f657073414bf37abd54073432ca08897"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 ###EMC-000055-0-000-20-09-2007@@@
 
 <strong>EMENDA CONSTITUCIONAL Nº 55, DE 20 DE SETEMBRO DE 2007</strong>
