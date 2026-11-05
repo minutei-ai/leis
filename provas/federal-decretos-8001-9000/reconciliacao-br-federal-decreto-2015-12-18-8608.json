@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-12-18-8608",
+  "fonte_principal": "camara-D8608",
+  "sha256_fonte_principal": "e7c1017459cf815ccf6d2fc7fcc0fd69e0f1de3ab399158101acb8e5979a5bb9",
+  "sha256_conteudo": "e7c1017459cf815ccf6d2fc7fcc0fd69e0f1de3ab399158101acb8e5979a5bb9",
+  "capturado_em": "2026-11-04T20:24:48Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8608-18-dezembro-2015-782140-publicacaooriginal-149015-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8608.htm.xz",
+  "sha256_snapshot_armazenado": "48c2d516ac8f486cd880496d9b812b7c998ea6eb1f9d8b72ae654cedadffd31f",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 75,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-12-18-8608",
+    "numero": "8608",
+    "data": "2015-12-18",
+    "titulo_fonte": "DECRETO Nº 8608, DE 18 DE DEZEMBRO DE 2015",
+    "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA ARGELINA DEMOCRÁTICA E POPULAR SOBRE TRANSPORTE E NAVEGAÇÃO MARÍTIMA, FIRMADO EM ARGEL, EM 8 DE FEVEREIRO DE 2006.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414345"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

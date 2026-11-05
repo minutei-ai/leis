@@ -1,0 +1,58 @@
+{
+  "documento": "br-federal-lei-2011-08-12-12465",
+  "fonte_principal": "planalto-L12465-2011-08-12",
+  "sha256_fonte_principal": "e17b3f14b4f078d02502830a382941091c2d9b3e08dfcea90436bdb9eec4e224",
+  "sha256_conteudo": "cf32fda2cd3c6b1fc4d9b07ecc3e7ec0b02f9b6211706b98a16cc6b8b0442618",
+  "capturado_em": "2026-11-04T20:50:32Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/L12465.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12465-2011-08-12.htm.xz",
+  "sha256_snapshot_armazenado": "bbe090897efa86fba46e53b47431bd593ef0f5c2b4a21134a8251154bbf55958",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 106,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 1085,
+    "artigos": 132,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "128",
+      "129",
+      "130",
+      "131",
+      "132"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2011-08-12-12465",
+    "numero": "12465",
+    "data": "2011-08-12",
+    "titulo_fonte": "LEI Nº 12465, DE 12 DE AGOSTO DE 2011",
+    "ementa": "Dispõe sobre as diretrizes para a elaboração e execução da Lei Orçamentária de 2012 e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584321"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

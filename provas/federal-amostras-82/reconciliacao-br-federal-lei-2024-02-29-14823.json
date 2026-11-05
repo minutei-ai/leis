@@ -9,11 +9,9 @@
   "sha256_snapshot_armazenado": "d44eaa0f4317a27b84780735a7f2bb459e8ce8f67b140ba9bd7af0eba407a4da",
   "fontes_conferencia": [],
   "cobertura_texto": {
-    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "descricao": "cobertura integral fonte→Markdown após normalização",
     "equivalente": true,
-    "caracteres_normalizados_fonte": 3857,
-    "caracteres_normalizados_markdown": 3857,
-    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+    "metodo": "planalto-fullpage"
   },
   "conversao": {
     "trechos_riscados": 0,
@@ -58,12 +56,12 @@
       "tipo": "historica",
       "identidade": "planalto",
       "integral": "desconhecido"
-    }
+    },
+    "senado_id": "38231098"
   },
   "limites": [
-    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
     "O acervo não certifica vigência.",
-    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
-    "Lote parcial da #71; demais prioridades em PENDENCIAS-prioridade.md."
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
   ]
 }

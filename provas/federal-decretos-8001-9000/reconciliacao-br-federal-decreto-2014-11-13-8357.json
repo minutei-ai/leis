@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-11-13-8357",
+  "fonte_principal": "camara-D8357",
+  "sha256_fonte_principal": "5f2d42ff81475e96308b38f4fb5f44e7b99c9bb1a9b7f32c163a52fc1a9d2831",
+  "sha256_conteudo": "5f2d42ff81475e96308b38f4fb5f44e7b99c9bb1a9b7f32c163a52fc1a9d2831",
+  "capturado_em": "2026-11-04T20:20:04Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8357-13-novembro-2014-779592-publicacaooriginal-145405-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8357.htm.xz",
+  "sha256_snapshot_armazenado": "57988ae12f2bbeb2bb4a62f93be0fb51800431e5f2496bb0e16478430c54973b",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 20,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-11-13-8357",
+    "numero": "8357",
+    "data": "2014-11-13",
+    "titulo_fonte": "DECRETO Nº 8357, DE 13 DE NOVEMBRO DE 2014",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO DO DECIMO QUARTO REGULAMENTO DO ACORDO DE TRANSPORTE FLUVIAL  PELA HIDROVIA PARAGUAI-PARANA (PORTO  DE CACERES-PORTO DE NOVA PALMIRA), FIRMADO ENTRE A REPUBLICA FEDERATIVA DO BRASIL, A REPUBLICA ARGENTINA, A REPUBLICA DA BOLIVIA, A REPUBLICA DO PARAGUAI E A REPUBLICA  ORIENTAL DO URUGUAI.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "413890"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-11-28-8367",
+  "fonte_principal": "camara-D8367",
+  "sha256_fonte_principal": "f857ed495f9854943c4ae53c63a5b07645c6c6c348b064e155407b6029d23e73",
+  "sha256_conteudo": "f857ed495f9854943c4ae53c63a5b07645c6c6c348b064e155407b6029d23e73",
+  "capturado_em": "2026-11-04T20:20:39Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8367-28-novembro-2014-779643-publicacaooriginal-145503-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8367.htm.xz",
+  "sha256_snapshot_armazenado": "522c94e380504d7c6bc645ae9c79f0c042e0bfbfdd6ac0194bfe65a70590ea69",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-11-28-8367",
+    "numero": "8367",
+    "data": "2014-11-28",
+    "titulo_fonte": "DECRETO Nº 8367, DE 28 DE NOVEMBRO DE 2014",
+    "ementa": "AMPLIA OS LIMITES CONSTANTES DO ANEXO I, ALTERA O VALOR DO INCISO I DO ARTIGO 8 E OS ANEXOS I, VII, VIII E X DO DECRETO  8.197, DE 20 DE FEVEREIRO DE 2014, QUE DISPÕE SOBRE A PROGRAMAÇÃO ORÇAMENTARIA E FINANCEIRA E ESTABELECE O CRONOGRAMA  MENSAL DE DESEMBOLSO DO PODER EXECUTIVO PARA O EXERCICIO DE 2014, E DA OUTRAS PROVIDENCIAS.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "413930"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

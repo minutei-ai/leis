@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-06-30-8477",
+  "fonte_principal": "camara-D8477",
+  "sha256_fonte_principal": "a7fd3962797f7047ba31cf2e3895016f883166b58a72a3eb0b1a9572ea8690e7",
+  "sha256_conteudo": "a7fd3962797f7047ba31cf2e3895016f883166b58a72a3eb0b1a9572ea8690e7",
+  "capturado_em": "2026-11-04T20:22:19Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8477-30-junho-2015-781109-publicacaooriginal-147387-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8477.htm.xz",
+  "sha256_snapshot_armazenado": "11bfef2b56ad70e36553359798c28c5205c7ab997e4e891aaa80ca975d31321a",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 28,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-06-30-8477",
+    "numero": "8477",
+    "data": "2015-06-30",
+    "titulo_fonte": "DECRETO Nº 8477, DE 30 DE JUNHO DE 2015",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO DO QUADRAGÉSIMO PRIMEIRO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 14 (41PAACE14), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA ARGENTINA, EM 25 DE JUNHO DE 2015.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584466"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

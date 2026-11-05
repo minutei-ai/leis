@@ -1,0 +1,60 @@
+{
+  "documento": "br-federal-lei-2014-03-19-12958",
+  "fonte_principal": "planalto-L12958-2014-03-19",
+  "sha256_fonte_principal": "bce6b4dc85314bee1481eb348bc74f17d20e5f61c1e870453c47509719fa7eba",
+  "sha256_conteudo": "1cfa32a27eab2e4af62d8a58965569888050f62c88f89b2765b5b6c45b21c138",
+  "capturado_em": "2026-11-04T20:52:03Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L12958.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12958-2014-03-19.htm.xz",
+  "sha256_snapshot_armazenado": "fdbc50299a708dc8d5e6ee4e0b1d6c4c7e19396d08112e46492ad0137fcca04b",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 1,
+    "tabelas_markdown": 1,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 4,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 16,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2014-03-19-12958",
+    "numero": "12958",
+    "data": "2014-03-19",
+    "titulo_fonte": "LEI Nº 12958, DE 19 DE MARÇO DE 2014",
+    "ementa": "Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 20ª Região.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584769"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

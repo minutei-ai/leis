@@ -1,0 +1,74 @@
+{
+  "documento": "br-federal-lei-2012-06-05-12661",
+  "fonte_principal": "planalto-L12661-2012-06-05",
+  "sha256_fonte_principal": "131ae66f252530230d3e316974db9c694f195eb14b81778ac7ef57f0abb3aa36",
+  "sha256_conteudo": "eab7454dce56832024ff1ee7c82d5ef0f903ab129ebb3ae55d290dc89007da60",
+  "capturado_em": "2026-11-04T20:50:38Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/L12661.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12661-2012-06-05.htm.xz",
+  "sha256_snapshot_armazenado": "1da8479209f6c2dbba43eaecd140ee8ee9e23e45cb5dc7dfa7b20fb0a69f5035",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 3,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 4,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 6,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 4,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 24,
+    "artigos": 5,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2012-06-05-12661",
+    "numero": "12661",
+    "data": "2012-06-05",
+    "titulo_fonte": "LEI Nº 12661, DE 5 DE JUNHO DE 2012",
+    "ementa": "Dispõe sobre a criação de Vara do Trabalho na jurisdição do Tribunal Regional do Trabalho da 19ª Região e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "589584"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

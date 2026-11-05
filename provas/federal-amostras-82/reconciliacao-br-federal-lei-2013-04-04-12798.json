@@ -1,0 +1,58 @@
+{
+  "documento": "br-federal-lei-2013-04-04-12798",
+  "fonte_principal": "planalto-L12798-2013-04-04",
+  "sha256_fonte_principal": "d63451286e2f7604a086cf30c2e9e8ddaa7e7fafe8ba267c85cfc91339e4142a",
+  "sha256_conteudo": "1577fd97bbf249f060387200bcc1913110f7ea2be49e76336a80302fa14511b9",
+  "capturado_em": "2026-11-04T20:50:48Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12798.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12798-2013-04-04.htm.xz",
+  "sha256_snapshot_armazenado": "ed6a04c335afc06c3fe664a897cebb222ac915f81dabce8a4b5a06e492ead9b8",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 34,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 169,
+    "artigos": 12,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "8",
+      "9",
+      "10",
+      "11",
+      "12"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2013-04-04-12798",
+    "numero": "12798",
+    "data": "2013-04-04",
+    "titulo_fonte": "LEI Nº 12798, DE 4 DE ABRIL DE 2013",
+    "ementa": "Estima a receita e fixa a despesa da União para o exercício financeiro de 2013.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "588174"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

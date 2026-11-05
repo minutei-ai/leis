@@ -1,0 +1,50 @@
+{
+  "documento": "br-federal-decreto-2013-05-14-8002",
+  "fonte_principal": "camara-D8002",
+  "sha256_fonte_principal": "e793884463aae2ee569491532e69f8926ae24596f5bf2f69d8c8155b5e216de1",
+  "sha256_conteudo": "e793884463aae2ee569491532e69f8926ae24596f5bf2f69d8c8155b5e216de1",
+  "capturado_em": "2026-11-04T20:13:20Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8002-14-maio-2013-775967-publicacaooriginal-139793-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8002.htm.xz",
+  "sha256_snapshot_armazenado": "eb4c1cb3ea5b899e245a8c0b68cfe645b6aefef90a722de55590cfa6821a161d",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 8,
+    "artigos": 1,
+    "primeiros_artigos": [
+      "4"
+    ],
+    "ultimos_artigos": [
+      "4"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2013-05-14-8002",
+    "numero": "8002",
+    "data": "2013-05-14",
+    "titulo_fonte": "DECRETO Nº 8002, DE 14 DE MAIO DE 2013",
+    "ementa": "ALTERA O DECRETO  7.709, DE 3 DE ABRIL DE 2012, E O DECRETO  7.840, DE 12 DE NOVEMBRO DE 2012, PARA DISPOR SOBRE MARGENS DE PREFERENCIA NA AQUISIÇÃO DE PAS CARREGADORAS, TRATORES DE LAGARTA E PRODUTOS AFINS, PARA FINS DO DISPOSTO NO ARTIGO 3 DA LEI 8.666, DE 21 DE JUNHO DE 1993.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "590571"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

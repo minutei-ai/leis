@@ -1,0 +1,50 @@
+{
+  "documento": "br-federal-decreto-2016-11-10-8902",
+  "fonte_principal": "camara-D8902",
+  "sha256_fonte_principal": "f967ea26d3d96bb94730619fbd8947d092ebb6808b7e5fd2a6dd105a2d230a45",
+  "sha256_conteudo": "f967ea26d3d96bb94730619fbd8947d092ebb6808b7e5fd2a6dd105a2d230a45",
+  "capturado_em": "2026-11-04T20:33:51Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8902-10-novembro-2016-783906-publicacaooriginal-151390-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8902.htm.xz",
+  "sha256_snapshot_armazenado": "04f79644f639741381bb91bbc1f1bfe59c73ace4001dbbf235789cc699811b93",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 26,
+    "artigos": 1,
+    "primeiros_artigos": [
+      "3"
+    ],
+    "ultimos_artigos": [
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-11-10-8902",
+    "numero": "8902",
+    "data": "2016-11-10",
+    "titulo_fonte": "DECRETO Nº 8902, DE 10 DE NOVEMBRO DE 2016",
+    "ementa": "APROVA O ESTATUTO E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DA FUNDAÇÃO ESCOLA NACIONAL DE ADMINISTRAÇÃO PÚBLICA - ENAP, REMANEJA CARGOS EM COMISSÃO E SUBSTITUI CARGOS EM COMISSÃO DO GRUPO DIREÇÃO E ASSESSORAMENTO SUPERIORES - DAS POR FUNÇÕES COMISSIONADAS DO PODER EXECUTIVO - FCPE.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "604112"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

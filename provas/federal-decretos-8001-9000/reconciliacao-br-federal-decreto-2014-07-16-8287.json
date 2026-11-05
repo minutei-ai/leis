@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-07-16-8287",
+  "fonte_principal": "camara-D8287",
+  "sha256_fonte_principal": "e2d0eade6384ac03864c28dd98f62c375d92deb73fe995cd768f102845e8961d",
+  "sha256_conteudo": "e2d0eade6384ac03864c28dd98f62c375d92deb73fe995cd768f102845e8961d",
+  "capturado_em": "2026-11-04T20:16:36Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8287-16-julho-2014-779073-publicacaooriginal-144613-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8287.htm.xz",
+  "sha256_snapshot_armazenado": "201eaaff911545f5935248f7aa84d5f33126afc38da8a274fea0ced7fc9d23aa",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 102,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-07-16-8287",
+    "numero": "8287",
+    "data": "2014-07-16",
+    "titulo_fonte": "DECRETO Nº 8287, DE 16 DE JULHO DE 2014",
+    "ementa": "PROMULGA O ACORDO-QUADRO ENTRE O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL E O  GOVERNO DA REPUBLICA DA INDIA SOBRE A COOPERAÇÃO  NOS USOS PACIFICOS DO ESPAÇO EXTERIOR, FIRMADO EM NOVA DELHI, EM 25 DE JANEIRO DE 2004.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "413784"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

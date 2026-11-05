@@ -1,0 +1,50 @@
+{
+  "documento": "br-federal-decreto-2016-11-30-8919",
+  "fonte_principal": "camara-D8919",
+  "sha256_fonte_principal": "d4ae954bb2868de6dc4c9856aea6435ce70b3a1bc343ec0a7626d040c0d5f6ec",
+  "sha256_conteudo": "d4ae954bb2868de6dc4c9856aea6435ce70b3a1bc343ec0a7626d040c0d5f6ec",
+  "capturado_em": "2026-11-04T20:34:18Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8919-30-novembro-2016-783967-publicacaooriginal-151470-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8919.htm.xz",
+  "sha256_snapshot_armazenado": "a493c3c162020b4159fbbee311fda3166d0e3ab3b4024712c9d2ac9ece62e1b1",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 8,
+    "artigos": 1,
+    "primeiros_artigos": [
+      "2"
+    ],
+    "ultimos_artigos": [
+      "2"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-11-30-8919",
+    "numero": "8919",
+    "data": "2016-11-30",
+    "titulo_fonte": "DECRETO Nº 8919, DE 30 DE NOVEMBRO DE 2016",
+    "ementa": "ALTERA O DECRETO Nº 8.670, DE 12 DE FEVEREIRO DE 2016, QUE DISPÕE SOBRE A PROGRAMAÇÃO ORÇAMENTÁRIA E FINANCEIRA E ESTABELECE O CRONOGRAMA MENSAL DE DESEMBOLSO DO PODER EXECUTIVO PARA O EXERCÍCIO DE 2016.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414901"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

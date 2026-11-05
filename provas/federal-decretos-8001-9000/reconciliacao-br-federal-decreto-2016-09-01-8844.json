@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-09-01-8844",
+  "fonte_principal": "camara-D8844",
+  "sha256_fonte_principal": "9c180a17e8cda2c21e3e2e46f34d4d257be71ce57cea46fe293614a3fa348ca6",
+  "sha256_conteudo": "9c180a17e8cda2c21e3e2e46f34d4d257be71ce57cea46fe293614a3fa348ca6",
+  "capturado_em": "2026-11-04T20:31:53Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8844-1-setembro-2016-783561-publicacaooriginal-151012-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8844.htm.xz",
+  "sha256_snapshot_armazenado": "0b18b466d2569f6a18299236977f29c25d50bd09da57c03130d2c2a66196c358",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 58,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-09-01-8844",
+    "numero": "8844",
+    "data": "2016-09-01",
+    "titulo_fonte": "DECRETO Nº 8844, DE 1 DE SETEMBRO DE 2016",
+    "ementa": "PROMULGA O ACORDO-QUADRO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DA POLÔNIA SOBRE COOPERAÇÃO BILATERAL EM MATÉRIA DE DEFESA, FIRMADO EM VARSÓVIA, EM 1º DE DEZEMBRO DE 2010.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414779"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-05-05-8744",
+  "fonte_principal": "camara-D8744",
+  "sha256_fonte_principal": "77c3ccf80cdb06f3a463a8c970adf555eb36d2371c14e11f243bb07db5ccce21",
+  "sha256_conteudo": "77c3ccf80cdb06f3a463a8c970adf555eb36d2371c14e11f243bb07db5ccce21",
+  "capturado_em": "2026-11-04T20:28:37Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8744-5-maio-2016-783017-publicacaooriginal-150272-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8744.htm.xz",
+  "sha256_snapshot_armazenado": "a9d027f31a42344cb8f54dc781e27821e0df20b7f480cda1716f106d7a21ae0a",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 111,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-05-05-8744",
+    "numero": "8744",
+    "data": "2016-05-05",
+    "titulo_fonte": "DECRETO Nº 8744, DE 5 DE MAIO DE 2016",
+    "ementa": "PROMULGA O ACORDO DE SEDE ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A UNIÃO DE NAÇÕES SUL-AMERICANAS - UNASUL PARA O FUNCIONAMENTO DO INSTITUTO SUL-AMERICANO DE GOVERNO EM SAÚDE - ISAGS, FIRMADO EM ASSUNÇÃO, EM 20 DE ABRIL DE 2012.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "590403"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

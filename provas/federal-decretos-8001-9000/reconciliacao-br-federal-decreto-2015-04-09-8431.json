@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-04-09-8431",
+  "fonte_principal": "camara-D8431",
+  "sha256_fonte_principal": "084a58fb6aacee7c988ee0bceb6cd6fce60a7e0c978cae964a377c01d1be3358",
+  "sha256_conteudo": "084a58fb6aacee7c988ee0bceb6cd6fce60a7e0c978cae964a377c01d1be3358",
+  "capturado_em": "2026-11-04T20:21:55Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8431-9-abril-2015-780497-publicacaooriginal-146638-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8431.htm.xz",
+  "sha256_snapshot_armazenado": "ba0b75c5f9a462bebf7e3907bfab501dd6c68b721e919eb92be6cfedfe481380",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 90,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-04-09-8431",
+    "numero": "8431",
+    "data": "2015-04-09",
+    "titulo_fonte": "DECRETO Nº 8431, DE 9 DE ABRIL DE 2015",
+    "ementa": "PROMULGA O TRATADO DE EXTRADIÇÃO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA POPULAR DA CHINA, FIRMADO EM BRASÍLIA, EM 12 DE NOVEMBRO DE 2004.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "593927"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

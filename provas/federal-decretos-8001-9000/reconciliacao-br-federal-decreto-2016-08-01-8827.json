@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-08-01-8827",
+  "fonte_principal": "camara-D8827",
+  "sha256_fonte_principal": "9ea9f2572aa979594f68e62d3e86988f116c0f6bd52c1c39526c760e8c147948",
+  "sha256_conteudo": "9ea9f2572aa979594f68e62d3e86988f116c0f6bd52c1c39526c760e8c147948",
+  "capturado_em": "2026-11-04T20:31:22Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8827-1-agosto-2016-783467-publicacaooriginal-150916-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8827.htm.xz",
+  "sha256_snapshot_armazenado": "35adea0190b2fc4870c0126c63cdbe3cb4b9dbca776e16679215cfbd9ae8f28d",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 64,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-08-01-8827",
+    "numero": "8827",
+    "data": "2016-08-01",
+    "titulo_fonte": "DECRETO Nº 8827, DE 1 DE AGOSTO DE 2016",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITÓRIO NACIONAL, DA RESOLUÇÃO 2290 (2016), DE 31 DE MAIO DE 2016, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE PRORROGA O REGIME DE SANÇÕES IMPOSTAS AO SUDÃO DO SUL.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414711"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

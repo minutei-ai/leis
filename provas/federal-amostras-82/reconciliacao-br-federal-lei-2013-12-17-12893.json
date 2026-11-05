@@ -1,0 +1,60 @@
+{
+  "documento": "br-federal-lei-2013-12-17-12893",
+  "fonte_principal": "planalto-L12893-2013-12-17",
+  "sha256_fonte_principal": "5cba8a9be25b167fe0606d3b5d4776aeac6dfa35bf135c9141e0abb3e9f4a7a1",
+  "sha256_conteudo": "5cba8a9be25b167fe0606d3b5d4776aeac6dfa35bf135c9141e0abb3e9f4a7a1",
+  "capturado_em": "2026-11-04T20:51:01Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12893.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12893-2013-12-17.htm.xz",
+  "sha256_snapshot_armazenado": "8e6196df64639bbda7af6102f6140596507960e2b772e75a629255237d1e33e1",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 84,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 14,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2013-12-17-12893",
+    "numero": "12893",
+    "data": "2013-12-17",
+    "titulo_fonte": "LEI Nº 12893, DE 17 DE DEZEMBRO DE 2013",
+    "ementa": "Abre ao Orçamento Fiscal da União, em favor da Justiça Federal, Justiça Militar da União, Justiça do Trabalho e de Transferências a Estados, Distrito Federal e Municípios, crédito suplementar no valor de R$ 48.013.037,00, para reforço de dotações constantes da Lei Orçamentária vigente.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "591341"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

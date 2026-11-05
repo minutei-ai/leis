@@ -1,0 +1,58 @@
+{
+  "documento": "br-federal-lei-2014-01-20-12952",
+  "fonte_principal": "planalto-L12952-2014-01-20",
+  "sha256_fonte_principal": "cae55a61fc12a14bc3192d537b31e17001b07921469132de97a090f7dec9a112",
+  "sha256_conteudo": "53003cff2aaf339acc4b4e252f245ae64bfe26240810ee8a333f258ecd99bc69",
+  "capturado_em": "2026-11-04T20:52:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L12952.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12952-2014-01-20.htm.xz",
+  "sha256_snapshot_armazenado": "7b81dc493b9a5247c4f9b01cfb31ddcb6a6077717a3242b7dba20a226d6ffdde",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 26,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 172,
+    "artigos": 11,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2014-01-20-12952",
+    "numero": "12952",
+    "data": "2014-01-20",
+    "titulo_fonte": "LEI Nº 12952, DE 20 DE JANEIRO DE 2014",
+    "ementa": "Estima a receita e fixa a despesa da União para o exercício financeiro de 2014.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "591400"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

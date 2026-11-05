@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-02-16-8674",
+  "fonte_principal": "camara-D8674",
+  "sha256_fonte_principal": "a17f9047037e528ce74008604d2739aef72e856813242809f380575ae4408757",
+  "sha256_conteudo": "a17f9047037e528ce74008604d2739aef72e856813242809f380575ae4408757",
+  "capturado_em": "2026-11-04T20:25:48Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8674-16-fevereiro-2016-782391-publicacaooriginal-149488-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8674.htm.xz",
+  "sha256_snapshot_armazenado": "a452c6c80a30d29d026663e236d0cf925a06c136bcbda4809110c1441287399f",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-02-16-8674",
+    "numero": "8674",
+    "data": "2016-02-16",
+    "titulo_fonte": "DECRETO Nº 8674, DE 16 DE FEVEREIRO DE 2016",
+    "ementa": "FIXA, PARA A AERONÁUTICA, OS QUANTITATIVOS DE VAGAS PARA PROMOÇÕES OBRIGATÓRIAS DE OFICIAIS, PARA OS QUADROS QUE MENCIONA, NO ANO-BASE DE 2015.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414443"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

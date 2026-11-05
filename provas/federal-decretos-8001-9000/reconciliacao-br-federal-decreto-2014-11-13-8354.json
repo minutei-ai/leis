@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-11-13-8354",
+  "fonte_principal": "camara-D8354",
+  "sha256_fonte_principal": "f03d0446123340d2c94dac0c618b3bf5889aa554926886a92f5ff4359d2fd3d9",
+  "sha256_conteudo": "f03d0446123340d2c94dac0c618b3bf5889aa554926886a92f5ff4359d2fd3d9",
+  "capturado_em": "2026-11-04T20:19:49Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8354-13-novembro-2014-779589-publicacaooriginal-145401-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8354.htm.xz",
+  "sha256_snapshot_armazenado": "bb96a494ff9925031532e5044077198400ede793afee16e8dbecf415abd604d7",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 20,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-11-13-8354",
+    "numero": "8354",
+    "data": "2014-11-13",
+    "titulo_fonte": "DECRETO Nº 8354, DE 13 DE NOVEMBRO DE 2014",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO DO PROTOCOLO DE ADESÃO DA REPUBLICA DO PANAMA AO ACORDO  REGIONAL DE COOPERAÇÃO CIENTIFICA E TECNOLOGICA  (CONVÊNIO-QUADRO) ENTRE OS PAISES-  MEMBROS DA ASSOCIAÇÃO (AR.CET   6), FIRMADO ENTRE A REPUBLICA FEDERATIVA DO BRASIL, A REPUBLICA ARGENTINA, O ESTADO PLURINACIONAL DA BOLIVIA, A REPUBLICA DO CHILE, A REPUBLICA DA COLOMBIA, A REPUBLICA DE CUBA, A REPUBLICA DO EQUADOR, OS ESTADOS UNIDOS MEXICANOS, A REPUBLICA DO PARAGUAI, A REPUBLICA DO PERU, A REPUBLICA ORIENTAL DO URUGUAI, A REPUBLICA BOLIVARIANA DA VENEZUELA E A REPUBLICA DO PANAMA  EM 2 DE FEVEREIRO DE 2012.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "413878"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

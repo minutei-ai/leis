@@ -1,0 +1,60 @@
+{
+  "documento": "br-federal-lei-2013-12-26-12925",
+  "fonte_principal": "planalto-L12925-2013-12-26",
+  "sha256_fonte_principal": "a638dff233b4c10f2a14dc24fb137a7fa544cc421cf9ea31c868b25118c6e5ce",
+  "sha256_conteudo": "47dd3de28d525ca7e5530f55d056f03c5f8e03034762fd7b0adbb2ef8df3c72b",
+  "capturado_em": "2026-11-04T20:51:33Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12925.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12925-2013-12-26.htm.xz",
+  "sha256_snapshot_armazenado": "6ec910876298951505844d5a8c841f446a0002725d880cfc9d47625d63b14420",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 1,
+    "tabelas_markdown": 1,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 4,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 16,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2013-12-26-12925",
+    "numero": "12925",
+    "data": "2013-12-26",
+    "titulo_fonte": "LEI Nº 12925, DE 26 DE DEZEMBRO DE 2013",
+    "ementa": "Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 22ª Região.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "591373"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

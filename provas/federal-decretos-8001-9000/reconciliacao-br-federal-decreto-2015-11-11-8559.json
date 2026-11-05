@@ -1,0 +1,52 @@
+{
+  "documento": "br-federal-decreto-2015-11-11-8559",
+  "fonte_principal": "camara-D8559",
+  "sha256_fonte_principal": "68acfb63128f18eccd994cc91aa18ec963302a038a65c8ec5db6213af1bbf446",
+  "sha256_conteudo": "68acfb63128f18eccd994cc91aa18ec963302a038a65c8ec5db6213af1bbf446",
+  "capturado_em": "2026-11-04T20:23:52Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8559-11-novembro-2015-781879-publicacaooriginal-148621-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8559.htm.xz",
+  "sha256_snapshot_armazenado": "36202b00b6b954612e602bf6b9713581cfd79321628c5ca8cc2808b384b75989",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 23,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "1",
+      "2"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-11-11-8559",
+    "numero": "8559",
+    "data": "2015-11-11",
+    "titulo_fonte": "DECRETO Nº 8559, DE 11 DE NOVEMBRO DE 2015",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO DO NONAGÉSIMO SÉTIMO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 18 (97PAACE18), FIRMADO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL, A REPÚBLICA ARGENTINA, A REPÚBLICA DO PARAGUAI E A REPÚBLICA ORIENTAL DO URUGUAI, EM 14 DE NOVEMBRO DE 2014.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "593259"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

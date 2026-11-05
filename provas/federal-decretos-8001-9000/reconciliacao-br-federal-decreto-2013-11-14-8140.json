@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2013-11-14-8140",
+  "fonte_principal": "camara-D8140",
+  "sha256_fonte_principal": "2536eaa8e6681b3436b8beeec97aff2edd9618195ca1d791b36e15ad317c07b9",
+  "sha256_conteudo": "2536eaa8e6681b3436b8beeec97aff2edd9618195ca1d791b36e15ad317c07b9",
+  "capturado_em": "2026-11-04T20:14:35Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8140-14-novembro-2013-777425-publicacaooriginal-141861-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8140.htm.xz",
+  "sha256_snapshot_armazenado": "e91c424c0a5ec0baff3d7b3e6a8c151c728bac89b9f419eb671d0c0a669c2d92",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 286,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2013-11-14-8140",
+    "numero": "8140",
+    "data": "2013-11-14",
+    "titulo_fonte": "DECRETO Nº 8140, DE 14 DE NOVEMBRO DE 2013",
+    "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL E O GOVERNO  DA REPUBLICA DA TURQUIA PARA EVITAR A DUPLA  TRIBUTAÇÃO E PREVENIR A EVASÃO FISCAL  EM MATERIA DE IMPOSTOS SOBRE A RENDA, FIRMADO EM FOZ DO IGUAÇU, EM 16 DE DEZEMBRO DE 2010.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "413532"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

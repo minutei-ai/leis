@@ -1,0 +1,62 @@
+{
+  "documento": "br-federal-lei-2013-12-26-12926",
+  "fonte_principal": "planalto-L12926-2013-12-26",
+  "sha256_fonte_principal": "692adc721dfa45614340c4e5e3e32be9fb48993e92c99b2e463eab93d0741224",
+  "sha256_conteudo": "acedc592fce1721a90597ff77f692272616b5d995dca6117f3b14da8cef4587e",
+  "capturado_em": "2026-11-04T20:51:34Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12926.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12926-2013-12-26.htm.xz",
+  "sha256_snapshot_armazenado": "748ae7529f998e3b03f0904c37302aaca11e1d266b6021f944640b8ec8486d1a",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 1,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 4,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 18,
+    "artigos": 4,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2013-12-26-12926",
+    "numero": "12926",
+    "data": "2013-12-26",
+    "titulo_fonte": "LEI Nº 12926, DE 26 DE DEZEMBRO DE 2013",
+    "ementa": "Dispõe sobre a criação de cargos de provimento efetivo no Quadro de Pessoal da Secretaria do Tribunal Regional do Trabalho da 4ª Região.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "591374"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2013-12-27-8176",
+  "fonte_principal": "camara-D8176",
+  "sha256_fonte_principal": "3fc176a8ebb4d14f1ca6b873e16ba1459c4a90d2229fc39e19c7f8a409c2f91a",
+  "sha256_conteudo": "3fc176a8ebb4d14f1ca6b873e16ba1459c4a90d2229fc39e19c7f8a409c2f91a",
+  "capturado_em": "2026-11-04T20:14:49Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8176-27-dezembro-2013-777990-publicacaooriginal-142679-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8176.htm.xz",
+  "sha256_snapshot_armazenado": "ac877e12708ad66b595eed70a33c56843c9a0d977a1b4c01b6315b7cf1ca8692",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2013-12-27-8176",
+    "numero": "8176",
+    "data": "2013-12-27",
+    "titulo_fonte": "DECRETO Nº 8176, DE 27 DE DEZEMBRO DE 2013",
+    "ementa": "DISPÕE SOBRE A OBRIGATORIEDADE DE EXIBIÇÃO DE OBRAS AUDIOVISUAIS CINEMATOGRAFICAS BRASILEIRAS.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584231"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

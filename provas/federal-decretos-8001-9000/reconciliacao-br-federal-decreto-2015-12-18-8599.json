@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-12-18-8599",
+  "fonte_principal": "camara-D8599",
+  "sha256_fonte_principal": "5141ae08995813ff09982755a1192d0c8a99b1f325342e7cc46172657e95859e",
+  "sha256_conteudo": "5141ae08995813ff09982755a1192d0c8a99b1f325342e7cc46172657e95859e",
+  "capturado_em": "2026-11-04T20:24:37Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8599-18-dezembro-2015-782131-publicacaooriginal-149001-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8599.htm.xz",
+  "sha256_snapshot_armazenado": "9c2b84fe511f9c6a85c2c36313a6973e64e969f02f274ea023f8fde7ae6935c8",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 77,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-12-18-8599",
+    "numero": "8599",
+    "data": "2015-12-18",
+    "titulo_fonte": "DECRETO Nº 8599, DE 18 DE DEZEMBRO DE 2015",
+    "ementa": "PROMULGA O ACORDO DE COOPERAÇÃO TÉCNICA ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DO BURUNDI, FIRMADO EM BRASÍLIA, EM 25 DE AGOSTO DE 2009.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414311"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

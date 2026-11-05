@@ -1,0 +1,69 @@
+{
+  "documento": "br-federal-lei-2015-12-22-13208",
+  "fonte_principal": "planalto-L13208-2015-12-22",
+  "sha256_fonte_principal": "645b7fef750d68356da49d49e5227c8bb37376882c764dc3f7d34e9209f54ef3",
+  "sha256_conteudo": "fce15e12581bc919da02d2c4fc3fdf4ab92f49530069cd0f4cc6ac8a998b0a6a",
+  "capturado_em": "2026-11-04T20:53:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13208.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L13208-2015-12-22.htm.xz",
+  "sha256_snapshot_armazenado": "6fa862331ff4f485bbf85c003405cd9840de6370553ee596b2ed5e34a0c3fb61",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 372,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 12,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2015-12-22-13208",
+    "numero": "13208",
+    "data": "2015-12-22",
+    "titulo_fonte": "LEI Nº 13208, DE 22 DE DEZEMBRO DE 2015",
+    "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral e do Trabalho e do Ministério Público da União, crédito suplementar no valor de R$ 49.758.315,00, para reforço de dotações constantes da Lei Orçamentária vigente.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "585020"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

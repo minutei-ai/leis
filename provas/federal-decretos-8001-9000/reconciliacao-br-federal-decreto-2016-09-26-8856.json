@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-09-26-8856",
+  "fonte_principal": "camara-D8856",
+  "sha256_fonte_principal": "9751c982530a3a0ee36fe70279980f8b3a9deed499773388b3a60d08bdf30665",
+  "sha256_conteudo": "9751c982530a3a0ee36fe70279980f8b3a9deed499773388b3a60d08bdf30665",
+  "capturado_em": "2026-11-04T20:32:18Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8856-26-setembro-2016-783656-publicacaooriginal-151128-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8856.htm.xz",
+  "sha256_snapshot_armazenado": "ee67fd91a9675c5de42fc600b8fecccb72fe16b06996fc053c7aba0a9e3a2c9d",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 74,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-09-26-8856",
+    "numero": "8856",
+    "data": "2016-09-26",
+    "titulo_fonte": "DECRETO Nº 8856, DE 26 DE SETEMBRO DE 2016",
+    "ementa": "PROMULGA O ACORDO BÁSICO DE COOPERAÇÃO TÉCNICA ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA DA LIBÉRIA, FIRMADO EM MONRÓVIA, EM 29 DE MAIO DE 2009.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414826"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

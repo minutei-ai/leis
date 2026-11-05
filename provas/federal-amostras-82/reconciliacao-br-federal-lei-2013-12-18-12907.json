@@ -1,0 +1,60 @@
+{
+  "documento": "br-federal-lei-2013-12-18-12907",
+  "fonte_principal": "planalto-L12907-2013-12-18",
+  "sha256_fonte_principal": "f68ce0af2e2443f338c8646104bf33b773d386fa846ba5eaa44d4555d80449bc",
+  "sha256_conteudo": "cd2634e602e57e6ab4ad153742e35a6b9280a95dc8401d3f117e18cdaba7d592",
+  "capturado_em": "2026-11-04T20:51:13Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12907.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12907-2013-12-18.htm.xz",
+  "sha256_snapshot_armazenado": "e368097fc2746772cc55cc3b1ff885be8fdcb6209755a1b0576128b4a92cbf56",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 44,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 14,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2013-12-18-12907",
+    "numero": "12907",
+    "data": "2013-12-18",
+    "titulo_fonte": "LEI Nº 12907, DE 18 DE DEZEMBRO DE 2013",
+    "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério do Desenvolvimento Social e Combate à Fome, crédito especial no valor de R$ 2.350.000,00, para os fins que especifica.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "591355"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

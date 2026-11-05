@@ -1,0 +1,60 @@
+{
+  "documento": "br-federal-lei-2014-12-30-13068",
+  "fonte_principal": "planalto-L13068-2014-12-30",
+  "sha256_fonte_principal": "f55d9301de4df964c322a83edb6fda731e3ec3583d78103f8c1f90108eb7295f",
+  "sha256_conteudo": "7997c064208876d777af7f86a7639118c6952dd60e8a9319c19dd1677b49a91b",
+  "capturado_em": "2026-11-04T20:52:19Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13068.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L13068-2014-12-30.htm.xz",
+  "sha256_snapshot_armazenado": "f89e411fad2030b326afb75bf118619681c3e8f680d3bd832f57a8b6f23b11bf",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 22,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 14,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2014-12-30-13068",
+    "numero": "13068",
+    "data": "2014-12-30",
+    "titulo_fonte": "LEI Nº 13068, DE 30 DE DEZEMBRO DE 2014",
+    "ementa": "Abre ao Orçamento Fiscal da União, em favor da Secretaria de Portos da Presidência da República, crédito suplementar no valor de R$ 333.250.000,00, para reforço de dotações constantes da Lei Orçamentária vigente.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584880"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "documento": "br-federal-decreto-2017-02-01-8980",
+  "fonte_principal": "camara-D8980",
+  "sha256_fonte_principal": "56fc990e27783a2857f5c08f2300f5f8342448d2df35879f290de046e68406af",
+  "sha256_conteudo": "56fc990e27783a2857f5c08f2300f5f8342448d2df35879f290de046e68406af",
+  "capturado_em": "2026-11-04T20:37:15Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8980-1-fevereiro-2017-784217-publicacaooriginal-151874-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8980.htm.xz",
+  "sha256_snapshot_armazenado": "a759500622523c0a29187576b53d33d8fda8e2a751f442bb3bded5048370cc01",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 32,
+    "artigos": 1,
+    "primeiros_artigos": [
+      "3"
+    ],
+    "ultimos_artigos": [
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2017-02-01-8980",
+    "numero": "8980",
+    "data": "2017-02-01",
+    "titulo_fonte": "DECRETO Nº 8980, DE 1 DE FEVEREIRO DE 2017",
+    "ementa": "APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DO MINISTÉRIO DA INTEGRAÇÃO NACIONAL, REMANEJA CARGOS EM COMISSÃO E FUNÇÕES GRATIFICADAS E SUBSTITUI CARGOS EM COMISSÃO DO GRUPO-DIREÇÃO E ASSESSORAMENTO SUPERIORES - DAS POR FUNÇÕES COMISSIONADAS DO PODER EXECUTIVO - FCPE.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "603346"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

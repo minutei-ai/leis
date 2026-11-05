@@ -1,0 +1,60 @@
+{
+  "documento": "br-federal-lei-2013-12-27-12948",
+  "fonte_principal": "planalto-L12948-2013-12-27",
+  "sha256_fonte_principal": "eb1cabf56b124e5231f06b7f05ef0ada179eb452b47a34a351a070b0e1b7afee",
+  "sha256_conteudo": "6624d89f1d6cc084e9d63c81b32c9cb1e706634c4e4c285a7e698a747b9824bd",
+  "capturado_em": "2026-11-04T20:51:57Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12948.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12948-2013-12-27.htm.xz",
+  "sha256_snapshot_armazenado": "136f804796499c46a3da554e663cd5ea59dd6e85bcd856ebafec2658c46106b4",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 13,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 14,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2013-12-27-12948",
+    "numero": "12948",
+    "data": "2013-12-27",
+    "titulo_fonte": "LEI Nº 12948, DE 27 DE DEZEMBRO DE 2013",
+    "ementa": "Abre ao Orçamento Fiscal da União, em favor de Transferências a Estados, Distrito Federal e Municípios, crédito especial no valor de R$ 116.082.503,00, para o fim que especifica.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "591396"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

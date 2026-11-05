@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-01-30-8192",
+  "fonte_principal": "camara-D8192",
+  "sha256_fonte_principal": "b7fa61158a162c77c14e0ebfa43fd9bbd5a86623490b5f0a91495914f0267922",
+  "sha256_conteudo": "b7fa61158a162c77c14e0ebfa43fd9bbd5a86623490b5f0a91495914f0267922",
+  "capturado_em": "2026-11-04T20:15:04Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8192-30-janeiro-2014-778098-publicacaooriginal-143191-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8192.htm.xz",
+  "sha256_snapshot_armazenado": "d0b8d077d8e13c60c815d0e4a279b2e00108dbc55bba2ffd902d892c92be0e9e",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-01-30-8192",
+    "numero": "8192",
+    "data": "2014-01-30",
+    "titulo_fonte": "DECRETO Nº 8192, DE 30 DE JANEIRO DE 2014",
+    "ementa": "FIXA, PARA A AERONAUTICA, OS QUANTITATIVOS DE VAGAS PARA PROMOÇÕES OBRIGATORIAS DE OFICIAIS, PARA OS QUADROS QUE MENCIONA, NO ANO-BASE DE 2013.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584295"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

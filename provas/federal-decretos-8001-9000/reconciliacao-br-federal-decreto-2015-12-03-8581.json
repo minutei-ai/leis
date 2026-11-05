@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-12-03-8581",
+  "fonte_principal": "camara-D8581",
+  "sha256_fonte_principal": "467a27ef2465aacb3d47cccbf37e9a706ff06a0afc599a2e0922a5f203306e36",
+  "sha256_conteudo": "467a27ef2465aacb3d47cccbf37e9a706ff06a0afc599a2e0922a5f203306e36",
+  "capturado_em": "2026-11-04T20:24:29Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8581-3-dezembro-2015-781994-publicacaooriginal-148815-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8581.htm.xz",
+  "sha256_snapshot_armazenado": "e239011efaff8cccd08d4c2dc6b56bd912241f6c1c9b424309b4d67c94be0793",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-12-03-8581",
+    "numero": "8581",
+    "data": "2015-12-03",
+    "titulo_fonte": "DECRETO Nº 8581, DE 3 DE DEZEMBRO DE 2015",
+    "ementa": "ALTERA O DECRETO Nº 8.456, DE 22 DE MAIO DE 2015, QUE DISPÕE SOBRE A PROGRAMAÇÃO ORÇAMENTÁRIA E FINANCEIRA E ESTABELECE O CRONOGRAMA MENSAL DE DESEMBOLSO DO PODER EXECUTIVO PARA O EXERCÍCIO DE 2015.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "593348"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

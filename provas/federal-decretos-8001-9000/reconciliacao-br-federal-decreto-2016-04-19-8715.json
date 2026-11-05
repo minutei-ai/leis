@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-04-19-8715",
+  "fonte_principal": "camara-D8715",
+  "sha256_fonte_principal": "43bdb7c58fb8607b04cff1bc43ea5feaaa5048c07553a51cff5ffab4c376e17a",
+  "sha256_conteudo": "43bdb7c58fb8607b04cff1bc43ea5feaaa5048c07553a51cff5ffab4c376e17a",
+  "capturado_em": "2026-11-04T20:27:32Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8715-19-abril-2016-782921-publicacaooriginal-150134-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8715.htm.xz",
+  "sha256_snapshot_armazenado": "11240e773e17edfbffabb8cdff602977c270b99cb926a7d7303977fc22acab8c",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 154,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-04-19-8715",
+    "numero": "8715",
+    "data": "2016-04-19",
+    "titulo_fonte": "DECRETO Nº 8715, DE 19 DE ABRIL DE 2016",
+    "ementa": "PROMULGA OS ESTATUTOS DO INSTITUTO INTERNACIONAL PARA A DEMOCRACIA E A ASSISTÊNCIA ELEITORAL - IDEA, COM SEDE EM ESTOCOLMO, SUÉCIA.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "590286"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}
