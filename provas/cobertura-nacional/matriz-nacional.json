@@ -124,11 +124,13 @@
     },
     {
       "id": "#102",
-      "tema": "divergência cabeçalho 1.014-A vs 4.014-A"
+      "tema": "divergência cabeçalho 1.014-A vs 4.014-A",
+      "estado": "caso-e-lote-delimitado-colacionados"
     },
     {
       "id": "#103",
-      "tema": "conteúdos trocados Leis 12.985/12.988"
+      "tema": "conteúdos trocados Leis 12.985/12.988",
+      "estado": "duas-identidades-corrigidas-e-colacionadas"
     }
   ],
   "universos_abertos": [
@@ -173,6 +175,6 @@
     "export sidecar JSONL streaming do acervo completo + inventário por campo (#70)",
     "registro de fontes por UF + municípios publicados (#74)",
     "colação visual estrutural do formulário CPP (#77)",
-    "contagem federal por espécie + blockers #102/#103 (#83)"
+    "contagem federal por espécie + casos #102/#103 colacionados e bloqueios remanescentes (#83)"
   ]
 }

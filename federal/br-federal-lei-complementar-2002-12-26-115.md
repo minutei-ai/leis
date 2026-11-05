@@ -7,7 +7,7 @@ norma_data: "2002-12-26"
 titulo: "LEI COMPLEMENTAR Nº 115, DE 26 DE DEZEMBRO DE 2002"
 esfera: "federal"
 edicao_id: "br-federal-lei-complementar-2002-12-26-115@publicacao-original-senado"
-edicao_tipo: "consolidada"
+edicao_tipo: "original"
 edicao_integral: true
 edicao_relacionada: "nenhuma"
 fonte_orgao: "Senado Federal — normas.leg.br"
@@ -27,6 +27,10 @@ efeitos_diferidos: "nao-aplicavel-sem-notas-na-edicao"
 sha256_markdown: "d654939484b54eeb1c3f90918bbf06ba6be0fe9ddb8ef71a905c95ad8d7fda40"
 manifesto: "provas/lc-complementares-68/reconciliacao-identidades.json"
 contrato_versao: 1
+orgao_emissor: "Congresso Nacional"
+serie_historica: "desconhecido"
+senado_id: "572870"
+campo_fontes: {"orgao_emissor": "corpo da captura oficial Senado: “O PRESIDENTE DA REPÚBLICA … Faço saber que o Congresso Nacional decreta e eu sanciono”; https://normas.leg.br/api/public/binario/e61c759e-5602-4206-bb16-a4b31a3c5939/texto sha256=872c113419b050dd8d269662a6331514e4a3d69d348ee5843944a33afbce8f5f", "fonte_orgao": "fontes.json#br-federal-lei-complementar-2002-12-26-115.fonte_orgao / fonte_url", "edicao_tipo": "fontes.json#br-federal-lei-complementar-2002-12-26-115.edicao / versao", "serie_historica": "desconhecido-explicito: nenhuma série foi comprovada nas capturas desta inclusão", "senado_id": "catálogo oficial do Senado: 572870"}
 ---
 
 LEI COMPLEMENTAR Nº 115 – DE 26 DE DEZEMBRO DE 2002

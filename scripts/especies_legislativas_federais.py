@@ -42,6 +42,7 @@ PROVAS = ROOT / 'provas/especies-legislativas-federais'
 FONTES_DIR = PROVAS / 'fontes'
 COLETAS_DIR = PROVAS / 'coletas'
 FED = ROOT / 'federal'
+TEXTOS_REMETIDOS_PATH = PROVAS / 'textos-remetidos-pendentes.json'
 USER_AGENT = 'MinuteiLeis/0.2 (+https://github.com/minutei-ai/leis)'
 CONTRACT_VERSION = getattr(nl, 'CONTRACT_VERSION', 1)
 
@@ -815,8 +816,17 @@ def reusable_coleta(item: dict | None) -> bool:
         raw = lzma.decompress((ROOT / item['snapshot']).read_bytes())
     except (OSError, lzma.LZMAError, EOFError):
         return False
-    return (sha256(raw) == item['sha256_fonte']
-            and not external_normative_text_references(raw))
+    if sha256(raw) != item['sha256_fonte'] or external_normative_text_references(raw):
+        return False
+    annex_pdf = item.get('anexo_pdf_oficial')
+    if annex_pdf:
+        try:
+            annex_bytes = (ROOT / annex_pdf['arquivo']).read_bytes()
+        except OSError:
+            return False
+        if len(annex_bytes) != annex_pdf.get('bytes') or sha256(annex_bytes) != annex_pdf.get('sha256'):
+            return False
+    return True
 
 
 def save_coleta(resultados: dict) -> None:
@@ -1312,6 +1322,11 @@ def build_markdown(item: dict, html: bytes) -> tuple[str, dict]:
     corpo = (
         f"<!-- nota-edicao:inicio -->\n\n{nota}\n<!-- nota-edicao:fim -->\n\n{body.lstrip()}"
     )
+    # A Resolução Senado 13/2018 publica seu anexo essencial no Suplemento Único
+    # do DSF nº 86. O HTML Senado contém apenas os arts. 1º–3º; anexar a
+    # transcrição do PDF oficial preservado, com hash e fac-símiles conferidos.
+    import rsf_anexo_13_2018
+    corpo, anexo_pdf = rsf_anexo_13_2018.append_to_body(item['slug'], corpo)
     meta = {
         'id': item['slug'],
         'norma_id': item['slug'],
@@ -1345,6 +1360,17 @@ def build_markdown(item: dict, html: bytes) -> tuple[str, dict]:
         'manifesto': str(manifesto_path().relative_to(ROOT)),
         'contrato_versao': CONTRACT_VERSION,
     }
+    if anexo_pdf:
+        meta.update(anexo_pdf)
+        meta['fonte_conferencia'] = 'texto do ato e fac-símile oficial do anexo conferidos'
+    if item.get('corpo_legal_integral_pendente'):
+        meta.update({
+            'edicao_integral': False,
+            'status_publicacao': 'publicado-corpo-parcial',
+            'corpo_status': 'parcial-remissao-explicita',
+            'excluir_denominador_integra': True,
+            'remissoes_literais': item['remissoes_literais'],
+        })
     fm = '---\n' + '\n'.join(
         f'{k}: {json.dumps(v, ensure_ascii=False)}' for k, v in meta.items()
     ) + '\n---\n\n'
@@ -1352,7 +1378,7 @@ def build_markdown(item: dict, html: bytes) -> tuple[str, dict]:
         re.match(spec['title_pattern'], re.sub(r'\s+', ' ', nl.md_plain(b, True)).strip(), re.I)
         for b in conv.blocks
     )
-    return fm + corpo, {
+    conversion_proof = {
         'slug': item['slug'],
         'fonte_fold_chars': len(src_fold),
         'markdown_fold_chars': len(nl.strip_fold(nl.md_text_all(corpo))),
@@ -1361,6 +1387,12 @@ def build_markdown(item: dict, html: bytes) -> tuple[str, dict]:
         'imagens': len(conv.images),
         'title_injected': not title_in_blocks,
     }
+    if anexo_pdf:
+        conversion_proof['anexo_pdf'] = anexo_pdf
+        conversion_proof['transcricao_prova'] = (
+            'provas/especies-legislativas-federais/anexos-rsf/rsf-2018-13/transcricao.json'
+        )
+    return fm + corpo, conversion_proof
 
 
 def build(tipos: list[str] | None = None) -> dict:
@@ -1399,6 +1431,15 @@ def build(tipos: list[str] | None = None) -> dict:
         cobertura['itens'] = {key: value for key, value in previous_coverage['itens'].items()
                               if key in fontes}
     publicados = []
+    remetidos = json.loads(TEXTOS_REMETIDOS_PATH.read_text(encoding='utf-8'))
+    remetidos_preexistentes = {
+        item['slug']: item for item in remetidos.get('itens', [])
+        if item.get('estado') in {
+            'publicacao-anterior-requer-reclassificacao-e-recuperacao',
+            'publicado-corpo-parcial-remissao-explicita',
+        }
+        and item.get('arquivo_preexistente')
+    }
     for slug, item in coleta['itens'].items():
         if item['tipo'] not in selected or slug in annex_owned:
             continue
@@ -1407,6 +1448,10 @@ def build(tipos: list[str] | None = None) -> dict:
         html = lzma.decompress((ROOT / item['snapshot']).read_bytes())
         if sha256(html) != item['sha256_fonte']:
             raise SystemExit(f'{slug}: hash fonte diverge')
+        referral = remetidos_preexistentes.get(slug)
+        if referral:
+            item = {**item, 'corpo_legal_integral_pendente': True,
+                    'remissoes_literais': referral['remissoes_literais']}
         markdown, proof = build_markdown(item, html)
         path = FED / f'{slug}.md'
         path.write_text(markdown, encoding='utf-8')
@@ -1429,6 +1474,15 @@ def build(tipos: list[str] | None = None) -> dict:
             'data': item['data'],
             'urn': item['urn'],
         }
+        if meta.get('anexo_pdf_sha256'):
+            fontes[slug]['anexo_pdf'] = {
+                key: meta[key] for key in (
+                    'anexo_pdf_url', 'anexo_pdf_sha256', 'anexo_pdf_bytes', 'anexo_pdf_capturado_em',
+                    'anexo_pdf_snapshot', 'anexo_pdf_paginas',
+                    'anexo_pdf_paginas_transcritas', 'anexo_pdf_publicacao_id',
+                    'anexo_transcricao_sha256', 'anexo_facsimiles_tabulares_pdf',
+                )
+            }
         manifesto['documentos'].append({
             'id': slug,
             'arquivo': str(path.relative_to(ROOT)),
@@ -1442,7 +1496,20 @@ def build(tipos: list[str] | None = None) -> dict:
         })
         cobertura['itens'][slug] = proof
         publicados.append(slug)
+        if referral:
+            referral['estado'] = 'publicado-corpo-parcial-remissao-explicita'
+            referral['reclassificacao'] = (
+                'Corpo oficial preservado como evidencia parcial; a remissao literal '
+                'identifica texto relacionado publicado em outra edicao do DSF, cuja '
+                'integra nao esta incorporada nesta captura.'
+            )
+            referral['sha256_markdown'] = meta['sha256_markdown']
+            referral['bytes_markdown'] = len(body.encode('utf-8'))
         print(f'built {slug}', flush=True)
+    if remetidos_preexistentes:
+        remetidos['itens'] = [remetidos_preexistentes.get(item.get('slug'), item)
+                              for item in remetidos.get('itens', [])]
+        write_json(TEXTOS_REMETIDOS_PATH, remetidos)
     if previous_sources is not None:
         # Keep reviewed records in their existing order; append only new IDs.
         # Otherwise a small species batch moves thousands of unrelated rows.
@@ -1505,6 +1572,8 @@ def build(tipos: list[str] | None = None) -> dict:
 
 
 def verify() -> None:
+    import rsf_anexo_13_2018
+    rsf_proof = rsf_anexo_13_2018.verify()
     meta = json.loads(catalog_meta_path().read_text(encoding='utf-8'))
     for tipo, info in meta['especies'].items():
         raw = lzma.decompress((ROOT / info['snapshot']).read_bytes())
@@ -1532,6 +1601,13 @@ def verify() -> None:
         assert meta_fm['sha256_markdown'] == sha256(body.encode('utf-8')), slug
         assert meta_fm['vigencia_certificada'] is False
         assert meta_fm['especie_codigo_senado'] in SPECIES
+        if slug == rsf_anexo_13_2018.SLUG:
+            annex_source = fontes[slug]['anexo_pdf']
+            assert annex_source['anexo_pdf_sha256'] == rsf_proof['fonte_pdf']['sha256']
+            assert annex_source['anexo_transcricao_sha256'] == rsf_proof['transcricao']['sha256']
+            assert meta_fm['edicao_integral'] is True
+            assert meta_fm['anexo_pdf_url'] == rsf_anexo_13_2018.PDF_URL
+            assert meta_fm['anexo_pdf_snapshot'] == str(rsf_anexo_13_2018.PDF_PATH.relative_to(ROOT))
         html = lzma.decompress((ROOT / fontes[slug]['snapshot']).read_bytes())
         assert sha256(html) == fontes[slug]['sha256'], slug
         reject = html_rejection_reason(html)
@@ -1552,12 +1628,18 @@ def verify() -> None:
             'snapshot': fontes[slug]['snapshot'],
             'senado_id': fontes[slug]['senado_id'],
             'fonte_orgao': meta_fm.get('fonte_orgao'),
+            'corpo_legal_integral_pendente': meta_fm.get('edicao_integral') is False,
+            'remissoes_literais': meta_fm.get('remissoes_literais'),
         }
         md2, _ = build_markdown(item, html)
         if fontes[slug].get('anexo_fonte_alternativa') or meta_fm.get('anexo_fonte_alternativa_url'):
             # Corpo reconvertido + anexo de fonte alternativa oficial (PDF Senado vazio).
             _meta2, body2 = nl.parse_frontmatter(md2)
             _meta_pub, body_pub = nl.parse_frontmatter(text)
+            if (slug == 'br-federal-resolucao-congresso-nacional-2013-11-22-3'
+                    and meta_fm.get('anexo_transcricao_tabela_visual')):
+                from rcn_anexos_fontes_alternativas import remove_replaced_table_marker
+                body2 = remove_replaced_table_marker(body2)
             # O prefixo do corpo publicado até o marcador de anexo alternativo deve
             # corresponder ao markdown reconvertido do HTML do corpo.
             marker = '<!-- anexo-fonte-alternativa:inicio -->'

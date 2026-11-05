@@ -18791,7 +18791,133 @@
       "url": "https://www2.camara.leg.br/legin/fed/rescon/2013/resolucao-3-22-novembro-2013-777453-anexo-pl.pdf",
       "sha256": "9f2164763d620a0675799e73d2380c4ebc876bf9203b19763c050f3bbd85001b",
       "orgao": "Câmara dos Deputados — legin anexo PDF",
-      "snapshot": "provas/especies-legislativas-federais/anexos-rcn/fontes/br-federal-resolucao-congresso-nacional-2013-11-22-3.anexo.pdf.xz"
+      "snapshot": "provas/especies-legislativas-federais/anexos-rcn/fontes/br-federal-resolucao-congresso-nacional-2013-11-22-3.anexo.pdf.xz",
+      "paginas_pdf_transcritas": [
+        1,
+        3
+      ],
+      "paginas_duplicadas_omitidas": [
+        {
+          "page_omitted": 2,
+          "identical_to_page": 1,
+          "sha256_text_both_pages": "ff9850965685a220c73efb726c33cf7c78eb739034612850d0cff7f606b581c5",
+          "sha256_visual_identical_render": "4fdec9d8e4af918d43f81cba46b64377c2a79ba8aff3acf8f62b4cc8efec1432",
+          "visual_rasterization": "pdftoppm -f 1 -l 2 -png -r 150",
+          "representative_snapshot": "provas/especies-legislativas-federais/anexos-rcn/facsimiles/br-federal-resolucao-congresso-nacional-2013-11-22-3.p1-p2-identical.png.xz",
+          "sha256_representative_snapshot": "6ac1e3e5a9f41e59e7c6a95390508eadd56792d18749297eef24f118d023240d"
+        }
+      ]
+    },
+    "verificacao_visual_independente": {
+      "url": "https://www.gov.br/mme/pt-br/arquivos/do-25-11-2013-s1.pdf",
+      "bytes": 6118186,
+      "sha256_pdf": "36c70adb61c791ce3cba054bf6a91507d1f562ccf47d679ad92b6599b695b414",
+      "pages_pdf": [
+        3,
+        4
+      ],
+      "pages_printed": [
+        3,
+        4
+      ],
+      "authentication_codes": [
+        "00012013112500003",
+        "00012013112500004"
+      ],
+      "snapshot_pdf": "provas/especies-legislativas-federais/anexos-rcn/fontes/br-federal-resolucao-congresso-nacional-2013-11-22-3.dou-section1.pdf.xz",
+      "sha256_snapshot_armazenado": "71723512023db89e8f07181747e6214ea5a5dfe5af6b2bbf0f31670f8a8c7e7b",
+      "facsimiles": [
+        {
+          "page_pdf": 3,
+          "page_printed": 3,
+          "bytes": 849389,
+          "sha256": "be383697f3b92ec1ea3f8711ca4fff9dabd5b0b42a9cacb12053c4d06e373ef8",
+          "snapshot": "provas/especies-legislativas-federais/anexos-rcn/facsimiles/br-federal-resolucao-congresso-nacional-2013-11-22-3.dou-p3.png.xz",
+          "sha256_snapshot_armazenado": "e17047094f74f62b53f06b87d70da685b98d2a19fab5f5d08098bb6441eb94dc"
+        },
+        {
+          "page_pdf": 4,
+          "page_printed": 4,
+          "bytes": 684788,
+          "sha256": "81b241f6540b29bd1d3368ba4265cb9be87b055005dc574473a24b7a8623b102",
+          "snapshot": "provas/especies-legislativas-federais/anexos-rcn/facsimiles/br-federal-resolucao-congresso-nacional-2013-11-22-3.dou-p4.png.xz",
+          "sha256_snapshot_armazenado": "53f777a13085a7e433c8908631e672066361b66828149249e47db97f78188173"
+        }
+      ],
+      "textdump_pages": [
+        3,
+        4
+      ],
+      "textdump_bytes": 54341,
+      "textdump_sha256": "298c4d6bb705f54443fc3e30e612c61fc2dbc898d3ee5242ba741d18230b4af6",
+      "textdump_snapshot": "provas/especies-legislativas-federais/anexos-rcn/fontes/br-federal-resolucao-congresso-nacional-2013-11-22-3.dou-p3-p4.txt.xz",
+      "textdump_sha256_snapshot_armazenado": "9a0a4d123a3ae739a3a97377525cf0496af0002977c99d329811b30f35ab5846"
+    },
+    "transcricao_tabela_visual": {
+      "metodo": "transcricao-manual-colacionada-nos-quatro-paineis-do-facsimile",
+      "paginas_pdf": [
+        3,
+        4
+      ],
+      "facsimiles": [
+        {
+          "pagina_impressa": 3,
+          "snapshot": "provas/especies-legislativas-federais/anexos-rcn/facsimiles/br-federal-resolucao-congresso-nacional-2013-11-22-3.dou-p3.png.xz",
+          "sha256_png": "be383697f3b92ec1ea3f8711ca4fff9dabd5b0b42a9cacb12053c4d06e373ef8"
+        },
+        {
+          "pagina_impressa": 4,
+          "snapshot": "provas/especies-legislativas-federais/anexos-rcn/facsimiles/br-federal-resolucao-congresso-nacional-2013-11-22-3.dou-p4.png.xz",
+          "sha256_png": "81b241f6540b29bd1d3368ba4265cb9be87b055005dc574473a24b7a8623b102"
+        }
+      ],
+      "painéis_visuais": [
+        {
+          "pagina_impressa": 3,
+          "recorte_px": [
+            90,
+            805,
+            820,
+            1810
+          ],
+          "conteudo": "cabeçalho, Mesa Diretora e CAPADR"
+        },
+        {
+          "pagina_impressa": 3,
+          "recorte_px": [
+            855,
+            680,
+            1660,
+            1810
+          ],
+          "conteudo": "CAINDR até CCULT"
+        },
+        {
+          "pagina_impressa": 4,
+          "recorte_px": [
+            80,
+            120,
+            820,
+            1310
+          ],
+          "conteudo": "continuação de CCULT, demais comissões da Câmara, Mesa Diretora e CRA do Senado"
+        },
+        {
+          "pagina_impressa": 4,
+          "recorte_px": [
+            855,
+            120,
+            1660,
+            1310
+          ],
+          "conteudo": "continuação do Senado, de CAE até CI, e total geral"
+        }
+      ],
+      "chars": 8182,
+      "sha256": "e49a8f91e1cbcc575a16b342ee7f0d3b4bb9f4625d6d2727716dad5b54289f45",
+      "snapshot": "provas/especies-legislativas-federais/anexos-rcn/fontes/br-federal-resolucao-congresso-nacional-2013-11-22-3.anexo-tabela-visual.md.xz",
+      "sha256_snapshot_armazenado": "c8f08ed5b98909a245545ea7f17ce485f6682c9ba00887d8c1f28910db3c52b5",
+      "estrutura": "seis-colunas; listas independentes de areas e subareas, sem pareamento inferido"
     },
     "reconversao": "corpo-html-mais-anexo-alternativo"
   },
@@ -23670,5 +23796,40 @@
     "numero": "216",
     "data": "2025-11-04",
     "urn": "urn:lex:br:federal:decreto.legislativo:2025-11-04;216"
+  },
+  "br-federal-resolucao-senado-federal-2018-06-25-13": {
+    "url": "https://legis.senado.leg.br/norma/27410175/publicacao/27410291",
+    "capturado_em": "2026-11-05T11:22:07Z",
+    "sha256": "a502a5462c709a50074b6ea78fa42d5a4b18829d35079575215df69488544295",
+    "sha256_snapshot_armazenado": "893006a4faf2f2164e72a287e4d1e1049130839a98642dfc7dab1ce8f761aded",
+    "bytes": 8177,
+    "snapshot": "provas/especies-legislativas-federais/coletas/br-federal-resolucao-senado-federal-2018-06-25-13.html.xz",
+    "origem": "senado-publicacao-html",
+    "senado_id": "27410175",
+    "tipo": "RSF",
+    "charset": "utf-8",
+    "ementa": "Consolida e ratifica as alterações promovidas na estrutura administrativa do Senado Federal.",
+    "normaNome": "Resolução do Senado Federal nº 13 de 25/06/2018",
+    "numero": "13",
+    "data": "2018-06-25",
+    "urn": "urn:lex:br:senado.federal:resolucao:2018-06-25;13",
+    "anexo_pdf": {
+      "anexo_pdf_url": "https://legis.senado.leg.br/norma/27410175/publicacao/27411313",
+      "anexo_pdf_sha256": "9d71bc6e759d122452e4b9988cd889ff391e90ea5b682ff7acdd7a7716acdb7e",
+      "anexo_pdf_bytes": 33178282,
+      "anexo_pdf_capturado_em": "2026-11-05T12:51:16Z",
+      "anexo_pdf_snapshot": "provas/especies-legislativas-federais/anexos-rsf/rsf-2018-13/rsf13-dsf-suplemento-86.pdf",
+      "anexo_pdf_paginas": 261,
+      "anexo_pdf_paginas_transcritas": [
+        1,
+        261
+      ],
+      "anexo_pdf_publicacao_id": "27411313",
+      "anexo_transcricao_sha256": "a3a3a77315d39b44a18b296bc25c34ed89684bad7423f25989f4a70e692af849",
+      "anexo_facsimiles_tabulares_pdf": [
+        176,
+        214
+      ]
+    }
   }
 }

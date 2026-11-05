@@ -18,7 +18,9 @@
     "licenca_fonte": "https://creativecommons.org/licenses/by/4.0/",
     "marcadores_coletor_removidos": true,
     "edicao": "publicacao-original-senado",
-    "coletado_em_normalizado": "2026-10-21T17:44:40Z"
+    "coletado_em_normalizado": "2026-10-21T17:44:40Z",
+    "senadoId": "572870",
+    "fonte_orgao": "Senado Federal — normas.leg.br"
   },
   "br-federal-lei-complementar-2014-08-07-147": {
     "id": "br-federal-lei-complementar-2014-08-07-147",
@@ -46,7 +48,8 @@
       "sha256_snapshot_html": "dced106c43cac67ad6219b8353134189cedebf029aca3fc2eecb1b6ae4a8ad6c",
       "sha256_snapshot_dados": "6cc15108ea2fe10df001cecfe00c26b30fb267d8594b07e8b2ef2cf16e1fdb05",
       "limite": "HTML da publicação original termina em marcadores de ANEXO/TABELA sem as peças tabulares"
-    }
+    },
+    "senadoId": "572902"
   },
   "br-federal-lei-complementar-1962-07-17-1": {
     "id": "br-federal-lei-complementar-1962-07-17-1",
@@ -66,6 +69,45 @@
     "imagens_omitidas": 1,
     "identidade_distinta_de": "br-federal-lei-complementar-1967-11-09-1",
     "snapshot_html": "provas/lc-complementares-68/fontes/planalto-lcp01-62.htm.xz",
-    "cobertura_texto_equivalente": true
+    "cobertura_texto_equivalente": true,
+    "dados_norma_camara": {
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/leicom/1960-1969/leicomplementar-1-17-julho-1962-541564-norma-pl.html",
+      "papel": "registro-de-origem-e-observacao-da-norma",
+      "capturado_em": "2026-11-05T14:11:43Z",
+      "sha256_fonte": "23dc10a1242e3566501edcf20fdb2f7739b1557a636f5ab4080f0a2fa1df19b1",
+      "snapshot_html": "provas/lc-complementares-68/fontes/camara-lcp01-62-dados-da-norma.html.xz",
+      "sha256_snapshot_html": "3f934f7e3b29b8eedb79a225eeab65dc0c4ef04b3177e2e074c9cbefe28143bb",
+      "id_norma_camara": "541564"
+    },
+    "publicacao_original_camara": {
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/leicom/1960-1969/leicomplementar-1-17-julho-1962-541564-publicacaooriginal-46773-pl.html",
+      "papel": "publicacao-original-do-DOU",
+      "publicacao_dou": "Diário Oficial da União, Seção 1, 17/07/1962, p. 7597",
+      "capturado_em": "2026-11-05T14:01:15Z",
+      "sha256_fonte": "a71ebd23f7e88cdbaf295632af0ac018008bbc3bf345b0f2b8b65b4ed55ea55e",
+      "snapshot_html": "provas/lc-complementares-68/fontes/camara-lcp01-62-publicacao-original.html.xz",
+      "sha256_snapshot_html": "f3bc2760502acc863e2a166e5e2e68ef8a2bf38a1e5cfc49e44e416ee64f49b0",
+      "id_publicacao_camara": "46773"
+    },
+    "retificacao_camara": {
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/leicom/1960-1969/leicomplementar-1-17-julho-1962-541564-retificacao-46775-pl.html",
+      "papel": "retificacao-publicada-no-DOU",
+      "publicacao_dou": "Diário Oficial da União, Seção 1, 24/07/1962, p. 7837",
+      "capturado_em": "2026-11-05T14:01:16Z",
+      "sha256_fonte": "bed7e014957fdbef75c5a53157674bc5295bfbdb1d82ed018488a1b1054e9492",
+      "snapshot_html": "provas/lc-complementares-68/fontes/camara-lcp01-62-retificacao.html.xz",
+      "sha256_snapshot_html": "8b24ea6b57bc9ee44173f5822c849ac43e9b505a7a9bb230c915c2f7e5bdac74",
+      "id_publicacao_camara": "46775",
+      "pagina_retificacao_planalto": "https://www.planalto.gov.br/ccivil_03/leis/lcp/ret/retlcp01-62.htm",
+      "instrucoes_literais": [
+        "Após a ementa, inclua-se: O Presidente da República",
+        "Em seguida ao preâmbulo, exclua-se: O congresso Nacional decreta:"
+      ],
+      "edicao_markdown": "federal/edicoes/br-federal-lei-complementar-1962-07-17-1-retificacao-1962-07-24.md",
+      "sha256_markdown": "3c66da14dd6fda68c6a3ac9b6dc8e15dcafc304bc665da3ea8e76b4d96c306a3",
+      "sha256_markdown_body": "3c66da14dd6fda68c6a3ac9b6dc8e15dcafc304bc665da3ea8e76b4d96c306a3",
+      "edicao_id": "br-federal-lei-complementar-1962-07-17-1@retificacao-1962-07-24",
+      "norma_id": "br-federal-lei-complementar-1962-07-17-1"
+    }
   }
 }
