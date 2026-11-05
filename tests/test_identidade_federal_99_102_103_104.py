@@ -375,6 +375,28 @@ class TestIdentidadeFederal99102103104(unittest.TestCase):
                 for token in item['tokens_identidade']:
                     self.assertIn(token, text)
 
+    def test_mg_orfaos_capturas_almg_registram_fontes_sem_promover_corpos_errados(self):
+        inv = json.loads((PROVAS / 'mg-orfaos-inventario.json').read_text(encoding='utf-8'))
+        manifest_path = PROVAS / 'mg-recoleta/almg-texto-original-capturas.json'
+        manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
+        captures = {source['id']: source for source in manifest['fontes']}
+        self.assertEqual(set(captures), {item['id'] for item in inv['pendentes']})
+        self.assertEqual(len(captures), 17)
+        for item in inv['pendentes']:
+            with self.subTest(item=item['id']):
+                source = captures[item['id']]
+                self.assertTrue(source['url'].startswith('https://www.almg.gov.br/legislacao-mineira/texto/'))
+                self.assertTrue(source['capturado_concluido_em'].startswith('2026-11-05T'))
+                self.assertTrue(source['comparacao_ficha'])
+                compressed = PROVAS / source['arquivo_captura_comprimida']
+                html = lzma.decompress(compressed.read_bytes())
+                self.assertEqual(hashlib.sha256(html).hexdigest(), source['sha256_html_original'])
+                self.assertEqual(len(html), source['bytes_html_original'])
+                self.assertEqual(hashlib.sha256(compressed.read_bytes()).hexdigest(), source['sha256_xz'])
+                target = (ROOT / item['arquivo']).read_text(encoding='utf-8')
+                self.assertIn('corpo integral não recuperado', target)
+                self.assertIn('excluir_denominador_integra: true', target)
+
     def test_mg_37349_recoleta_zacarias_distinto_de_37351(self):
         a = (ROOT / 'estaduais/MG/br-mg-decreto-1995-10-05-37349.md').read_text(encoding='utf-8')
         b = (ROOT / 'estaduais/MG/br-mg-decreto-1995-10-05-37351.md').read_text(encoding='utf-8')
