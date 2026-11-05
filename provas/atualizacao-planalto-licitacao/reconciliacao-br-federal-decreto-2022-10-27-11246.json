@@ -1,0 +1,71 @@
+{
+  "documento": "br-federal-decreto-2022-10-27-11246",
+  "fonte_principal": "planalto-d11246",
+  "sha256_fonte_principal": "d85394a46d55299b0bf5d92a196fcb39827b7f2ef3376db77d38fdee47899066",
+  "sha256_conteudo": "408957136087232654072a1064824bd9bf0f2c8f3ad0e9326f43ad5dcacbb5a6",
+  "capturado_em": "2026-11-04T19:07:11Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/D11246.htm",
+  "snapshot": "provas/atualizacao-planalto-licitacao/fontes/planalto-d11246.htm.xz",
+  "sha256_snapshot_armazenado": "ab5391b1aad2c6985eb5f344d5bc5818b20605dcd5455d19a037a8a7d4120e01",
+  "cobertura_texto": {
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 25134,
+    "caracteres_normalizados_markdown": 25134,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 5,
+    "links": 26,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 181,
+    "artigos": 32
+  },
+  "regressao": [
+    {
+      "nome": "art8-par1-gestores",
+      "pattern": "§ 1º.*os gestores e os fiscais de contratos",
+      "ok": true
+    },
+    {
+      "nome": "nota-13031",
+      "pattern": "Decreto nº 13\\.031",
+      "ok": true
+    },
+    {
+      "nome": "art25-gestor-setorial",
+      "pattern": "gestor setorial",
+      "ok": true
+    },
+    {
+      "nome": "fisc-admin-nota",
+      "pattern": "III - fiscalização administrativa[\\s\\S]{0,900}Decreto nº 13\\.031",
+      "ok": true
+    }
+  ],
+  "identidade": {
+    "norma_id": "br-federal-decreto-2022-10-27-11246",
+    "numero": "11246",
+    "data": "2022-10-27",
+    "titulo": "DECRETO Nº 11.246, DE 27 DE OUTUBRO DE 2022",
+    "ementa": "Regulamenta o disposto no § 3º do art. 8º da Lei nº 14.133, de 1º de abril de 2021, para dispor sobre as regras de atuação do agente de contratação e da equipe de apoio, regras de designação do gestor e fiscais de contratos e regras sobre a atuação da comissão de contratação."
+  },
+  "limites": [
+    "Fonte única (Planalto); fonte_conferencia=nenhuma.",
+    "Edição consolidada do Planalto; não é fac-símile do DOU original.",
+    "Edição histórica anterior em federal/edicoes/br-federal-decreto-2022-10-27-11246-historica.md.",
+    "situacao=nao-informada; vigencia_certificada=false.",
+    "Imagens institucionais omitidas; notas/riscados/tabelas preservados."
+  ]
+}

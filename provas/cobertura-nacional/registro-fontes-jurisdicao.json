@@ -1,0 +1,401 @@
+{
+  "contrato_versao": 1,
+  "issue": "#74",
+  "federal": [
+    {
+      "orgao": "Senado Federal — Dados Abertos / Normas",
+      "poder": "Legislativo",
+      "url_descoberta": "https://legis.senado.leg.br/dadosabertos/",
+      "estado": "catalogo-parcial",
+      "evidencia": "coletores/catalogos/senado"
+    },
+    {
+      "orgao": "Presidência da República — Planalto",
+      "poder": "Executivo",
+      "url_descoberta": "https://www.planalto.gov.br/ccivil_03/",
+      "estado": "fonte-identificada",
+      "evidencia": "lotes setoriais / fontes/*.json"
+    },
+    {
+      "orgao": "Câmara dos Deputados — Legislação Informatizada",
+      "poder": "Legislativo",
+      "url_descoberta": "https://www2.camara.leg.br/atividade-legislativa/legislacao",
+      "estado": "fonte-identificada",
+      "evidencia": "diplomas fundamentais / CPP"
+    }
+  ],
+  "ufs": {
+    "AC": [
+      {
+        "orgao": "Casa Civil do Acre",
+        "poder": "Executivo",
+        "papel": "compilado-estadual",
+        "estado": "fonte-identificada",
+        "evidencia": "coletores/COBERTURA.md + known_sources_for_area"
+      }
+    ],
+    "AL": [
+      {
+        "orgao": "Assembleia Legislativa de Alagoas / SAPL",
+        "poder": "Legislativo",
+        "url_descoberta": "https://sapl.al.al.leg.br",
+        "estado": "catalogo-parcial",
+        "evidencia": "coletores/scripts/alagoas.ts"
+      }
+    ],
+    "AM": [
+      {
+        "orgao": "Assembleia Legislativa do Amazonas / SAPL",
+        "poder": "Legislativo",
+        "url_descoberta": "https://sapl.al.am.leg.br",
+        "estado": "catalogo-parcial",
+        "evidencia": "coletores/scripts/amazonas.ts"
+      }
+    ],
+    "AP": [
+      {
+        "orgao": "Diário Oficial / Assembleia do Amapá",
+        "poder": "desconhecido",
+        "estado": "catalogo-parcial",
+        "evidencia": "known_sources_for_area"
+      }
+    ],
+    "BA": [
+      {
+        "orgao": "Casa Civil da Bahia",
+        "poder": "Executivo",
+        "estado": "catalogo-parcial",
+        "evidencia": "coletores/catalogos/bahia + COBERTURA.md"
+      }
+    ],
+    "CE": [
+      {
+        "orgao": "Assembleia Legislativa do Ceará",
+        "poder": "Legislativo",
+        "estado": "catalogo-parcial",
+        "evidencia": "known_sources_for_area"
+      }
+    ],
+    "DF": [
+      {
+        "orgao": "DFLEGIS",
+        "poder": "desconhecido",
+        "estado": "catalogo-parcial",
+        "evidencia": "coletores/scripts/distrito-federal.ts"
+      }
+    ],
+    "ES": [
+      {
+        "orgao": "Assembleia Legislativa do Espírito Santo",
+        "poder": "Legislativo",
+        "estado": "catalogo-parcial",
+        "evidencia": "known_sources_for_area"
+      }
+    ],
+    "GO": [
+      {
+        "orgao": "Casa Civil de Goiás",
+        "poder": "Executivo",
+        "estado": "catalogo-parcial",
+        "evidencia": "coletores/COBERTURA.md"
+      }
+    ],
+    "MA": [
+      {
+        "orgao": "Casa Civil do Maranhão / DOE",
+        "poder": "Executivo",
+        "estado": "catalogo-parcial",
+        "evidencia": "known_sources_for_area"
+      }
+    ],
+    "MG": [
+      {
+        "orgao": "ALMG / dados abertos",
+        "poder": "Legislativo",
+        "url_descoberta": "https://dadosabertos.almg.gov.br/",
+        "estado": "catalogo-parcial",
+        "evidencia": "coletores/scripts/almg.ts"
+      }
+    ],
+    "MS": [
+      {
+        "orgao": "Consultoria Legislativa de Mato Grosso do Sul",
+        "poder": "desconhecido",
+        "estado": "catalogo-parcial",
+        "evidencia": "known_sources_for_area"
+      }
+    ],
+    "MT": [
+      {
+        "orgao": "SEFAZ Mato Grosso",
+        "poder": "Executivo",
+        "estado": "catalogo-parcial",
+        "evidencia": "known_sources_for_area"
+      }
+    ],
+    "PA": [
+      {
+        "orgao": "ALEPA / DOE",
+        "poder": "Legislativo",
+        "estado": "catalogo-parcial",
+        "evidencia": "known_sources_for_area"
+      }
+    ],
+    "PB": [
+      {
+        "orgao": "Assembleia Legislativa da Paraíba",
+        "poder": "Legislativo",
+        "estado": "catalogo-parcial",
+        "evidencia": "known_sources_for_area"
+      }
+    ],
+    "PE": [
+      {
+        "orgao": "Alepe",
+        "poder": "Legislativo",
+        "estado": "catalogo-parcial",
+        "evidencia": "coletores/COBERTURA.md"
+      }
+    ],
+    "PI": [
+      {
+        "orgao": "Assembleia Legislativa do Piauí / SAPL",
+        "poder": "Legislativo",
+        "estado": "catalogo-parcial",
+        "evidencia": "coletores README Piauí"
+      }
+    ],
+    "PR": [
+      {
+        "orgao": "Casa Civil / Sistema de Legislação do Paraná",
+        "poder": "Executivo",
+        "url_descoberta": "https://www.legislacao.pr.gov.br/",
+        "estado": "catalogo-parcial",
+        "evidencia": "coletores + leis-pr-legislacao-urls"
+      }
+    ],
+    "RJ": [
+      {
+        "orgao": "Alerj",
+        "poder": "Legislativo",
+        "estado": "catalogo-parcial",
+        "evidencia": "coletores/COBERTURA.md"
+      }
+    ],
+    "RN": [
+      {
+        "orgao": "Assembleia Legislativa do Rio Grande do Norte",
+        "poder": "Legislativo",
+        "estado": "catalogo-parcial",
+        "evidencia": "coletores/COBERTURA.md"
+      }
+    ],
+    "RO": [
+      {
+        "orgao": "Assembleia Legislativa de Rondônia",
+        "poder": "Legislativo",
+        "estado": "catalogo-parcial",
+        "evidencia": "known_sources_for_area"
+      }
+    ],
+    "RR": [
+      {
+        "orgao": "Diário Oficial de Roraima",
+        "poder": "desconhecido",
+        "estado": "catalogo-parcial",
+        "evidencia": "known_sources_for_area"
+      }
+    ],
+    "RS": [
+      {
+        "orgao": "Assembleia / portal Consulta Popular",
+        "poder": "desconhecido",
+        "estado": "catalogo-parcial",
+        "evidencia": "known_sources_for_area"
+      }
+    ],
+    "SC": [
+      {
+        "orgao": "Assembleia Legislativa de Santa Catarina",
+        "poder": "Legislativo",
+        "estado": "catalogo-parcial",
+        "evidencia": "coletores/COBERTURA.md"
+      }
+    ],
+    "SE": [
+      {
+        "orgao": "Assembleia Legislativa de Sergipe",
+        "poder": "Legislativo",
+        "estado": "catalogo-parcial",
+        "evidencia": "known_sources_for_area"
+      }
+    ],
+    "SP": [
+      {
+        "orgao": "Alesp",
+        "poder": "Legislativo",
+        "estado": "catalogo-parcial",
+        "evidencia": "coletores/scripts/alesp.ts + catalogos/alesp"
+      },
+      {
+        "orgao": "Prefeitura / Câmara Municipal de São Paulo (PMSP)",
+        "poder": "ambos-parciais",
+        "estado": "catalogo-parcial",
+        "escopo": "municipio-3550308",
+        "evidencia": "coletores/catalogos/pmsp"
+      }
+    ],
+    "TO": [
+      {
+        "orgao": "Assembleia Legislativa do Tocantins / SAPL",
+        "poder": "Legislativo",
+        "url_descoberta": "https://sapl.al.to.leg.br",
+        "estado": "catalogo-parcial",
+        "evidencia": "coletores/scripts/admit-tocantins*"
+      }
+    ]
+  },
+  "municipios_publicados": {
+    "1505536": [
+      {
+        "orgao": "Câmara Municipal de Parauapebas",
+        "poder": "Legislativo",
+        "estado": "catalogo-parcial",
+        "evidencia": "inventario-territorial"
+      }
+    ],
+    "1508001": [
+      {
+        "orgao": "SEMAS-PA (cópia de decreto municipal de Tomé-Açu)",
+        "poder": "desconhecido",
+        "estado": "catalogo-parcial",
+        "evidencia": "inventario-territorial"
+      }
+    ],
+    "2702355": [
+      {
+        "orgao": "Câmara Municipal de Craíbas / SAPL",
+        "poder": "Legislativo",
+        "estado": "catalogo-parcial",
+        "evidencia": "leis-craibas"
+      }
+    ],
+    "2703601": [
+      {
+        "orgao": "Câmara Municipal de Japaratinga",
+        "poder": "Legislativo",
+        "estado": "catalogo-parcial",
+        "evidencia": "inventario-territorial"
+      }
+    ],
+    "2704708": [
+      {
+        "orgao": "Câmara Municipal de Marechal Deodoro",
+        "poder": "Legislativo",
+        "estado": "catalogo-parcial",
+        "evidencia": "inventario-territorial"
+      }
+    ],
+    "2707701": [
+      {
+        "orgao": "Câmara Municipal de Rio Largo",
+        "poder": "Legislativo",
+        "estado": "catalogo-parcial",
+        "evidencia": "inventario-territorial"
+      }
+    ],
+    "3100906": [
+      {
+        "orgao": "Câmara Municipal de Águas Formosas / SAPL",
+        "poder": "Legislativo",
+        "estado": "catalogo-parcial",
+        "evidencia": "coletores aguas-formosas"
+      }
+    ],
+    "3101607": [
+      {
+        "orgao": "Câmara Municipal de Alfenas / SAPL",
+        "poder": "Legislativo",
+        "url_descoberta": "https://sapl.alfenas.mg.leg.br",
+        "estado": "catalogo-parcial",
+        "evidencia": "coletores/scripts/alfenas.ts"
+      }
+    ],
+    "3106200": [
+      {
+        "orgao": "DOM-PBH / Câmara Municipal de Belo Horizonte",
+        "poder": "ambos-parciais",
+        "url_descoberta": "https://api-dom.pbh.gov.br/api",
+        "estado": "catalogo-parcial",
+        "evidencia": "leis-dom-pbh-api + licitacoes-locais"
+      }
+    ],
+    "3500105": [
+      {
+        "orgao": "Câmara Municipal de Adamantina",
+        "poder": "Legislativo",
+        "estado": "catalogo-parcial",
+        "evidencia": "inventario-territorial"
+      }
+    ],
+    "3550308": [
+      {
+        "orgao": "Prefeitura / Câmara Municipal de São Paulo",
+        "poder": "ambos-parciais",
+        "estado": "catalogo-parcial",
+        "evidencia": "licitacoes-locais + catalogos/pmsp"
+      }
+    ],
+    "5201405": [
+      {
+        "orgao": "fonte municipal de Aparecida de Goiânia",
+        "poder": "desconhecido",
+        "estado": "catalogo-parcial",
+        "evidencia": "inventario-territorial"
+      }
+    ],
+    "5208707": [
+      {
+        "orgao": "Prefeitura de Goiânia (SILEG / DOM)",
+        "poder": "Executivo",
+        "estado": "catalogo-parcial",
+        "evidencia": "licitacoes-locais/GO"
+      }
+    ],
+    "5218805": [
+      {
+        "orgao": "fonte municipal de Rio Verde",
+        "poder": "desconhecido",
+        "estado": "catalogo-parcial",
+        "evidencia": "inventario-territorial"
+      }
+    ]
+  },
+  "municipios_sem_diretorio": {
+    "contagem": 5555,
+    "estado_trabalho": "sem-publicacao-identificada",
+    "fontes": [
+      {
+        "orgao": "desconhecido",
+        "poder": "desconhecido",
+        "estado": "nao-investigado"
+      }
+    ],
+    "descoberta": {
+      "pista": "Interlegis lista órgãos com SAPL por UF; presença na lista ≠ catálogo reconciliado.",
+      "url_indice": "https://www12.senado.leg.br/interlegis/orgaosatendidos?servico=SAPL",
+      "estado": "nao-investigado-para-municipios-sem-diretorio",
+      "leitura": "Falta de pasta em municipais/ ou HTTP de portal fora do ar não prova inexistência de legislação municipal. Investigação segue por UF/ente/fonte/tipo/período."
+    },
+    "nao_inferir": [
+      "ausencia-por-falta-de-pasta",
+      "ausencia-por-erro-http",
+      "inexistencia-por-catalogo-vazio"
+    ]
+  },
+  "dependencias_coleta_regional": [
+    "Outros agentes expandem coleta estadual/municipal e limpeza de corpos.",
+    "Este registro só amplia metadados/fontes; não altera Markdown regional além do piloto #70 e do anexo CPP #77."
+  ],
+  "limites": "Registro versionado de fontes já identificadas nos coletores/provas. Não é censo de todos os portais municipais do Brasil."
+}

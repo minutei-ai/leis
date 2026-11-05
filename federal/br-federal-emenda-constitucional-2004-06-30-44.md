@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2004-06-30-44"
+norma_id: "br-federal-emenda-constitucional-2004-06-30-44"
+norma_tipo: "emenda-constitucional"
+norma_numero: "44"
+norma_data: "2004-06-30"
+titulo: "EMENDA CONSTITUCIONAL Nº 44, DE 30 DE JUNHO DE 2004"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2004-06-30-44@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc44.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "f8d90f7d4a0defc6ed253682333a67fe53a0c90f4638a3638f73bd0a981e8640"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 ###EMC-000044-0-000-30-06-2004@@@
 
 <strong>EMENDA CONSTITUCIONAL Nº 44, DE 30 DE JUNHO DE 2004</strong>

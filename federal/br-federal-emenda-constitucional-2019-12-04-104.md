@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2019-12-04-104"
+norma_id: "br-federal-emenda-constitucional-2019-12-04-104"
+norma_tipo: "emenda-constitucional"
+norma_numero: "104"
+norma_data: "2019-12-04"
+titulo: "EMENDA CONSTITUCIONAL Nº 104"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2019-12-04-104@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc104.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "13f427a4c632d26a3d0c649bc08f839bc2410ade758f742de43db64888c23740"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 <strong>EMENDA CONSTITUCIONAL Nº 104</strong>
 
 <em><strong>Altera o inciso XIV do caput do art. 21, o § 4º do art.</strong></em> <em><strong>32 e o art. 144 da Constituição Federal, para criar as</strong></em> <em><strong>polícias penais federal, estaduais e distrital.</strong></em>

@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2010-07-13-66"
+norma_id: "br-federal-emenda-constitucional-2010-07-13-66"
+norma_tipo: "emenda-constitucional"
+norma_numero: "66"
+norma_data: "2010-07-13"
+titulo: "EMENDA CONSTITUCIONAL Nº 66"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2010-07-13-66@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc66.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "659260e99825637a37f8653ced467c9c7c826c1e1749436db10602586a0d8e6f"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 ###EMC-000066-0-000-13-07-2010@@@
 
 <strong>EMENDA CONSTITUCIONAL Nº 66</strong>

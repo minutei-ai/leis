@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2009-11-11-61"
+norma_id: "br-federal-emenda-constitucional-2009-11-11-61"
+norma_tipo: "emenda-constitucional"
+norma_numero: "61"
+norma_data: "2009-11-11"
+titulo: "EMENDA CONSTITUCIONAL Nº 61"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2009-11-11-61@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc61.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "fae98949ba2c30560749dc077629d53f13f1d78257d3312ae043ee16f11a75d5"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 ###EMC-000061-0-000-11-11-2009@@@
 
 <strong>EMENDA CONSTITUCIONAL Nº 61</strong>
