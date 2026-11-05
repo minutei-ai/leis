@@ -2,15 +2,6 @@ name: Integração do acervo
 
 on:
   pull_request:
-    paths:
-      - '.github/workflows/integracao-acervo.yml'
-      - 'scripts/**'
-      - 'tests/**'
-      - 'metadados/**'
-      - 'provas/**'
-      - 'federal/**'
-      - 'estaduais/**'
-      - 'municipais/**'
   push:
     branches: [main]
 
